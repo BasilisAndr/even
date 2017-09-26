@@ -1,0 +1,327 @@
+\_sh v3.0  1066 Text
+
+\id stado#10_Nikitin_Mitja_000_metadata
+\ref Recorded on 14 March 2009, in the evening, in the winter house of the 10th reindeer brigade in a place called Bajindja, by Brigitte Pakendorf. The
+siblings Sergej Egorovich Nikitin (32 years old), Evgenij Egorovich Nikitin (36 yrs) and Anna Egorovna Nikitina (39 yrs) were sitting around the
+table with BP as well as their 12-year-old nephew Mitja. Different people spoke at different times, and the sound file was cut into different
+narratives. 
+\qu Transcription with pen and paper by Ija Vasilevna Krivoshapkina, transcription in ELAN by BP, Russian translation by IVK, glossing by BP.
+Funding by Max Planck Society (MPRG on Comparative Population Linguistics). Speaker abbreviation = MN
+\ref Anna has worked as a chumrabotnitsa most of her life, right after school, so she only has her school education; Evgenij started to study twice in his
+younger years but broke off to return to reindeer herding, currently he is studying zaochno at the Selxos Akademija to become a zootexnik; Sergej
+has a diplom in music (sort of kultrabotnik, I think) and is currently studying zaochno, doing something like Volkskunde, the culture of the local
+peoples, mainly Yakut culture. The siblings are the children of Anastasija Xristoforovna Krivoshapkina. Mitja was a schoolboy at the time f
+recording
+
+\id stado#10_Nikitin_Mitja_001
+\tx [AE: Mitja ukčenni,       ele          emče        bejle]
+\mb AE Mitja ukčen -LI      erek -(dU)LE em   -čE     bej -(dU)LE
+\ps ?  ?     v              pron         v            n          
+\ge AE Mitja tell  -imp.2sg prox -loc    come -pf.ptc man -loc   
+
+\ft Mitja, tell this person who has come.
+\ru Митя расскажи этому приехавшему человеку.
+\ph
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:02.840
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_002
+\tx MN: Ebedit?
+\mb MN ewen -DI   -Č  
+\ps ?  n              
+\ge MN Even -adjr -ins
+\ft In Even?
+\ru По-эвенски?
+\ph
+\gr
+\ELANBegin 00:00:02.840
+\ELANEnd 00:00:03.480
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_003
+\tx [AE: Aa, ebedit.]
+\mb AE aa ewen -DI   -Č  
+\ps ?  excl n              
+\ge AE ah Even -adjr -ins
+\ft (AE): Yes, in Even.
+\ru Да, по-эвенски.
+\ph
+\ELANBegin 00:00:03.480
+\ELANEnd 00:00:05.530
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_004
+\tx MN: Ọːn goːjekke          [höp]?
+\mb MN ọːn goːn -jEkkE       söp
+\ps ?  pron v                 ?  
+\ge MN how say  -futpt.dat.Y OK 
+
+\ft What can I say?
+\ru Что можно сказать?
+\ph
+\ELANBegin 00:00:05.530
+\ELANEnd 00:00:06.660
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_005
+\tx [AE: Irildu      emgerennińi             uːr,  ọrọnat,               škọlaw     ịarịdʒị.]
+\mb AE ireli  -DU  em   -Gr(E) -nrI =hni    uːr    ọrọn              -E  -Č   škola.R  -W   ịa      -RIdʒI  
+\ps ?  n           v                        adv    n                          n             v               
+\ge AE summer -dat come -hab   -2sg =affirm before domestic.reindeer -ep -ins school.R -acc do.what -ant.cvb
+
+\ft You come in summer, don't you, by reindeer, having finished school.
+\ru Приезжаешь же летом, тогда, на оленях, закончив школу.
+\ph
+\ELANBegin 00:00:06.660
+\ELANEnd 00:00:10.470
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_006
+\tx Škọla irildu      [AE: hupkučektu..]    hupkučeku        [AE: kanịkụl] irildeːrep
+\mb škola.R  ireli  -DU  AE hupkut -ČEk -DU  hupkut -ČEk -W   AE kanikuly   ireli  -DU  -(E)rEp
+\ps ?        n           ?  v                v                ?  n          n                  
+\ge school.R summer -dat AE learn  -nr  -dat learn  -nr  -acc AE holidays.R summer -dat -adjr  
+
+\tx kanịkụlụ  ịlan ịlaːn biwren,         tar   ịlan ịlaːndụ  irildu      dʒaːldụlaj
+\mb kanikuly   -W   ịlan  ịlaːn bi -Gr(E) -n(I) tarak ịlan  ịlaːn -DU  ireli  -DU  dʒaː     -L  -(dU)LE -J      
+\ps n               num   n     v               pron  num   n          n           n                            
+\ge holidays.R -acc three moon  be -hab   -3sg  dist  three moon  -dat summer -dat relative -pl -loc    -prfl.sg
+
+\tx emgerem.
+\mb em   -Gr(E) -m  
+\ps v               
+\ge come -hab   -1sg
+\ft School in summer... the summer holidays are three months, for these three months I come to my relatives, in summer.
+\ru Школа летом, летние каникулы бывают три месяца, на эти три месяца я приезжаю к родным, летом.
+\ph ireldu
+\ELANBegin 00:00:10.470
+\ELANEnd 00:00:26.200
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_007
+\tx [BP: Mm] mm
+\mb BP mm  mm 
+\ps ?  excl excl
+\ge BP mhm mhm
+
+\ELANBegin 00:00:26.200
+\ELANEnd 00:00:30.000
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_008
+\tx [AE: ọrọlčịwraram]
+\mb AE ọrọlčị        -Gr(E) -R(E)   -m  
+\ps ?  v                                
+\ge AE herd.reindeer -hab   -nonfut -1sg
+\ft I herd reindeer.
+\ru Пасу оленей.
+\ELANBegin 00:00:30.000
+\ELANEnd 00:00:30.880
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_009
+\tx Emnidʒi      ọrọlčịwraram,              ọrọlčịmŋaldụ       toːdikkerem.
+\mb em   -RIdʒI   ọrọlčị        -Gr(E) -R(E)   -m   ọrọlčị        -mŋE  -L  -DU  toːdi -Č   -Gr(E) -R(E)   -m  
+\ps v             v                                 v                            v                             
+\ge come -ant.cvb herd.reindeer -hab   -nonfut -1sg herd.reindeer -agnr -pl -dat help  -res -hab   -nonfut -1sg
+\ft Having come I herd reindeer, I help the reindeer herders.
+\ru Приезжая пасу оленей, помогаю оленеводам.
+\ph
+\ELANBegin 00:00:30.880
+\ELANEnd 00:00:39.830
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_010
+\tx Ńulgun     ọːrakan,                   ńulgun     ọːrakan,                   ńulgupti
+\mb nulge   -n  ọː     -REk      -E  -n(I)     nulge   -n  ọː     -REk      -E  -n(I)     nulge   -B   -RI      
+\ps v           v                              v           v                              v                     
+\ge migrate -nr become -cond.cvb -ep -poss.3sg migrate -nr become -cond.cvb -ep -poss.3sg migrate -med -impf.ptc
+
+\tx ụːčakalbụ             hepkengerem,       inuwrep.
+\mb ụːčak           -E  -L  -W   hepken -Gr(E) -m   in            -U    -Gr(E) -p     
+\ps n                            v                  v                                 
+\ge riding.reindeer -ep -pl -acc catch  -hab   -1sg carry.on.back -caus -hab   -1pl.in
+
+\ft When the migration starts, I catch the riding reindeer for the migration, we load them/ put pack saddles on them.
+\ru Когда начинается кочевка, я ловлю верховых оленей, навьючиваем их.
+\ph həpkəŋgerem
+\gr
+\nt a tipsified voice can be heard in the background, and Anna Egorovna says something to this person
+\ELANBegin 00:00:39.830
+\ELANEnd 00:01:00.900
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_011
+\tx Omen elg... tar   inupče                          ọralbụ                elgeri         ńarị bejŋi
+\mb omen tarak in            -U    -B   -čE     ọrọn              -L  -W   elge -RI       ńarị bej -ŋI       
+\ps num  pron  v                                n                          v              ?    n             
+\ge one  dist  carry.on.back -caus -med -pf.ptc domestic.reindeer -pl -acc lead -impf.ptc man  man -pred.poss
+
+\tx honte biwren.
+\mb honte bi -Gr(E) -n(I)
+\ps adj   v              
+\ge other be -hab   -3sg 
+\ft The man who leads the pack reindeer has something different (not clear what he means). 
+\ru У мужчины который ведет вьючных оленей что-то другое бывает.
+\ph
+\gr
+\ELANBegin 00:01:00.900
+\ELANEnd 00:01:14.410
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_012
+\tx [AE: Ee, ahịŋị       tụspa,     kụŋaŋị       tụspa,     ečin      ńulgupti
+\mb AE ee asị   -ŋI        tụspa        kụŋa  -ŋI        tụspa        erroːčin  nulge   -B   -RI      
+\ps ?  interj n                adv          n                adv          pron      v                     
+\ge AE eh woman -pred.poss separately.Y child -pred.poss separately.Y prox.qual migrate -med -impf.ptc
+
+\tx karawan...] MN: hontekiten
+\mb karawan   MN honte -kI   -tEn  
+\ps n         ?  adj               
+\ge caravan.R MN other -adjr -distr
+
+\ft A separate one for women, a separate one for children, such a migrating caravan... -- Each different.
+\ru Отдельное у женщин, отдельное у ребенка, такой караван для кочевья - По-разному.
+\ph
+\gr
+\nt she probably meant to say that each person leads their own caravan, several pack reindeer are tied one to the other and to a riding reindeer; but it's
+not necessarily the case that each person leads pack reindeer carrying only their own things, the household items are distributed according to what
+makes most sense
+\ELANBegin 00:01:14.410
+\ELANEnd 00:01:19.280
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_013
+\tx [AE: Aha, mužskaja,             ženskaja, nu kak eto...]
+\mb
+\ge
+\ft (AE, Russian): Yes, a male (caravan), a female (caravan), well how is it...
+\ru
+\ph
+\ELANBegin 00:01:19.280
+\ELANEnd 00:01:24.110
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_014
+\tx Ŋiː mụralkan,   mụranat       ńulguwren.
+\mb ŋiː mụran -lkEn mụran -E  -Č   nulge   -Gr(E) -n(I)
+\ps pron n           n              v                   
+\ge who horse -prop horse -ep -ins migrate -hab   -3sg 
+\ft Those who have a horse migrate on horseback.
+\ru У кого есть лошадь кочует на лошади.
+\ph
+\ELANBegin 00:01:24.110
+\ELANEnd 00:01:27.500
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_015
+\tx Kollen kụŋalkahal      oːńeːdu           towŋehetti                biheken
+\mb kotlen kụŋa  -lkEn -SEl oːńeː           -DU  teg      -ŋEhEt -RI       bi -REk      -E  -n(I)    
+\ps adj    n                n                    v                         v                         
+\ge small  child -prop -pl  toddlers.saddle -dat sit.down -inab  -impf.ptc be -cond.cvb -ep -poss.3sg
+
+\tx bebeːt     ńulguwuwekkerer.
+\mb bebeː  -Č   nulge   -U    -WEːČ -Gr(E) -r  
+\ps n           v                              
+\ge cradle -ins migrate -caus -gnr  -hab   -3pl
+\ft Those who have a small child (carry it) on a special saddle (called o:ne:), if it cannot sit, they migrate with a cradle.
+\ru Те у кого маленький ребенок на специальном седле (онье), если не может сидеть, то кочуют с люлкой.
+\ph bihiken
+\gr ńulguwuwekkerer - is not how they would normally say this, normally one would say ńulguwkeŋner or ńulguwkengerer, i.e. with the -WkEn
+causative suffix, the first form basically is the metathesized version
+\ELANBegin 00:01:27.500
+\ELANEnd 00:01:35.630
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_016
+\tx Gaːdan            heːruk    biwren.
+\mb gaːd -E  -n(I)     heːruk     bi -Gr(E) -n(I)
+\ps n                  n          v              
+\ge half -ep -poss.3sg saddle.bag be -hab   -3sg 
+\ft Half is a saddle bag (i.e. on one side of the reindeer is the cradle, on the other a saddle bag).
+\ru Половина бывает вьюк.
+\ph
+\ELANBegin 00:01:35.630
+\ELANEnd 00:01:41.700
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_017
+\tx Ńulguridʒi     ịstịdʒị palatkaw     haːl     ńarịl    ịlụddịlannar                          ahịl    [AE: čajụ]
+\mb nulge   -RIdʒI   ịs    -RIdʒI   palatka -W   haːn -L  ńarị -L  ịl       -U    -D    -RI  -(dU)LE -tEn      asị   -L  AE čaːj  -W  
+\ps v                v              n            ?        ?        v                                           n         ?  n         
+\ge migrate -ant.cvb reach -ant.cvb tent.R  -acc some -pl man  -pl stand.up -caus -prog -pst -loc    -poss.3pl woman -pl AE tea.R -acc
+
+\tx čajụ     hujukkerer.
+\mb čaːj  -W   huj  -U    -Č   -Gr(E) -r  
+\ps n          v                          
+\ge tea.R -acc boil -caus -res -hab   -3pl
+
+\ft Having moved, having reached (the new location), while some of the men put up the tent the women make tea.
+\ru Перекочевав, добравшись, пока остальные (некоторые) мужчины ставят палатку женщины кипятят чай.
+\ph
+\gr Mitja said ịlụddịlannar, which should be ịlụddịlatnan, as analyzed; I wonder if this isn't Sakha influence, because -annar is the Sakha perfective
+converb with 3PL marking, so I wonder if it isn't some hybrid form that he created - but see the next sentence, where it seems as if he has created a
+plural marker -nna, so perhaps here the Sakha influence would just be the addition of the -r in a copy of the Sakha plural marker; hujut = boil.trs
+for a long time
+\nt at first Ija translated this as 'ostalnye' mužčiny and said well, the others haven't arrived yet, but then she did agree that haːl ńarịl can also mean 'some
+men, nekotorye mužčiny'
+\ELANBegin 00:01:41.700
+\ELANEnd 00:01:58.150
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_018
+\tx Tarịt ńarịl    balaːkkaw   ịlụrịdʒụr          ọddịdʒụr   čajdaːddịlanna,                         ahịl    ịaw...
+\mb tarịt ńarị -L  palatka -W   ịl       -U    -RIdʒI   -L  ọd   -RIdʒI   -L  čaj   -DE -D    -RI       -(dU)LE -tEn      asị   -L  ịak  -W  
+\ps adv   ?        n            v                           v                 v                                           n         pron     
+\ge then  man  -pl tent.R  -acc stand.up -caus -ant.cvb -pl stop -ant.cvb -pl tea.R -vr -prog -impf.ptc -loc    -poss.3pl woman -pl what -acc
+
+\ft Then while the men, having finished putting up the tent, drink tea, the women (do) something...
+\ru Потом пока мужчины, закончив ставить палатку, пьют чай, женщины что-то...
+\ph
+\gr čajdaːddịla-nna - this appears to be the end process of several changes; the standard 3PL possessive is -tan, which here in Sebjan generally becomes
+-tnan; frequently the finally -n is dropped, so that we have -tna, and the final step is consonant assimilation to -nna; however, while -tna is a
+frequently encountered form (cf. Krivoshapkin_Klim_Nikolaevich_eksponat64), -nna appears to be an idiosyncracy of this speaker;  dropping the final
+-n on the Possessive 3Pl is not restricted to verbal marking, but can also occur in nominal possessive marking, said Ija, so that kụŋal gurgetne 'the
+kids' work' or ọjọdna 'their clothes' are quite OK; however, I'm not entirely sure I have any such 3PL possessive suffixes in my corpus (translation
+session quest_comment_narratives280309 26min30)
+\ELANBegin 00:01:58.150
+\ELANEnd 00:02:05.770
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_019
+\tx [AE: hewlew       hewejekteːk,                   ahịńụn  hewejekteːk.]
+\mb AE hegte   -W   heg               -E  -jEktEːk asị   =ńUn   heg               -E  -jEktEːk
+\ps ?  n            v                              n            v                             
+\ge AE bedding -acc put.down.branches -ep -nec.Y   woman =restr put.down.branches -ep -nec.Y  
+
+\ft (The women don't drink tea), she has to put down larch branches, only the woman has to put down branches.
+\ru (Женщина пока не пьет чай), должна постелить ветки, женщина только должна подстелить.
+\ph
+\gr
+\nt Ija Krivoshapkina said the verb should be hewli 'podstelit' or hewle 'pojti za vetkami', but Robbek has hegdej 'podstilat' and that would make sense
+here, that hew is the verbal root; the first phrase of the translation was added by Ija by herself, she was very surprised when I later on asked her
+about it, it's obviously not in the Even original
+\ELANBegin 00:02:05.770
+\ELANEnd 00:02:10.930
+\ELANParticipant
+
+\id stado#10_Nikitin_Mitja_020
+\tx Tarakam emie ne kak [indiscernible] buolbat goːli,  kak popalo ne stavitsja, ol_ihin, vetki [indiscernible] hewlen..
+\mb
+\ge
+\ft (AE, mix of languages): not comprehensible, but obviously there is a specific way of putting down larch branches
+\ru
+\ph
+\ELANBegin 00:02:10.930
+\ELANEnd 00:02:20.100
+
+\id stado#10_Nikitin_Mitja_021
+\tx [AE: I ne zanositsja kak ...indiscernible]
+\ELANBegin 00:02:20.100
+\ELANEnd 00:02:22.670
+\ELANParticipant 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/Desktop/Sebjan_Kuel2009/sound_files/narratives/05stado#10_Nikitin_Mitja_life_stado.wav
+\ELANMediaMIME audio/x-wav

@@ -1,0 +1,1252 @@
+\_sh v3.0  1100 Text
+
+\id Kejmetinova_XA_various_000_metadata
+\ref Recorded on 15 March 2010 in Sebjan-Küöl by Brigitte Pakendorf. Natalia Aralova and BP had met with XAK the day before and had
+spoken with her for about an hour about what our aims were. On the day of the recording, BP alone went to the house of XAK, who
+was practically alone - an old woman lay sleeping in the next room. The whole recording session took place in the kitchen of the house.
+At first, XAK and BP just chatted, then XAK lit her stove, and only then did the recording begin - so some crackling sounds are
+audible. XAK had written down what she had wanted to say about her brother who had fought against Germany in WWII; she
+discussed this sentence by sentence with BP, then read it into the microphone. After that, she wrote down what she wanted to say about
+bears, discussing every sentence with BP, read it out to herself first, and then into the microphone. The same occurred with the last part
+of the recording - she again wrote down what she wanted to say (with a bit of prompting by BP), read it out to herself first, and then
+read it for the microphone. The recording was done in mono with a Marantz recorder; XAK refused to be filmed, so there is no video.
+\qu Transcribed by BP from what XAK had written down and glossed by BP; Russian translation by Ija Vasil'evna Krivoshapkina. Funding by
+Volkswagen Foundation (DoBeS grant). Speaker abbreviation = XAK
+\ref Xristina Afanas'evna Kejmetinova was 76 years old at the time of recording. Her Even was very poor, as she had been married to an
+Even (reindeer herder) from the Eveno-Bytantaj district who spoke only Sakha (Yakut).
+
+\id Kejmetinova_XA_various_001
+\tx Načali?
+\mb
+\ge
+\ft Have you started?
+\ru
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:03.630
+\ELANParticipant XAK
+
+\id Kejmetinova_XA_various_002
+\tx Söp, aha.
+\mb
+\ge
+\ft Yes, OK.
+\ru
+\ELANBegin 00:00:03.630
+\ELANEnd 00:00:04.430
+\ELANParticipant BP
+
+\id Kejmetinova_XA_various_003
+\tx Biː, Kejmetinova Xristina Afanasevna nadanmịar      ńuŋen anŋịnịlkan  atịkan  bihem.
+\mb biː Kejmetinova Xristina Afanasevna nadan mịan -L  ńuŋen anŋan -E  -lkEn atịkan    bi -R(E)   -m  
+\ps pron ?           ?        ?          num   num      num   n               n         v              
+\ge 1sg Kejmetinova Kristina Afanasevna seven ten  -pl six   year  -ep -prop old.woman be -nonfut -1sg
+\ft I, Kristina Afanasevna Kejmetinova, am a seventy six year old woman.
+\ru Я КХА 76летняя старушка.
+\ELANBegin 00:00:04.430
+\ELANEnd 00:00:13.100
+\ELANParticipant XAK
+
+\id Kejmetinova_XA_various_004
+\tx Biː dʒaːlbụ,           ammụ           Kejmetinov Afanasij Alekseevič, go,   ejmu...          god
+\mb biː dʒaː     -L  -W        aman   -W        Kejmetinov Afanasij Alekseevič  ge    enen   -W        god   
+\ps pron n                      n                ?          ?        ?           excl  n                n     
+\ge 1sg relative -pl -poss.1sg father -poss.1sg Kejmetinov Afanasij Alekseevich exclm mother -poss.1sg year.R
+
+\tx roždenija  net, da?
+\mb roždenija   net  da   
+\ps n           ptl  ptl  
+\ge birth.gen.R no.R yes.R
+\ft My parents, my father Afanasij Alekseevich Kejmetinov... my mother... - (I won't say) the year of their birth, OK?
+\ru
+\ELANBegin 00:00:13.100
+\ELANEnd 00:00:27.300
+\ELANParticipant XAK
+
+\id Kejmetinova_XA_various_005
+\tx Nu, konečno interesno, no kak..
+\mb
+\ge
+\ft Well, it's interesting of course, but as (you like).
+\ru
+\ELANBegin 00:00:27.300
+\ELANEnd 00:00:30.784
+\ELANParticipant BP
+
+\id Kejmetinova_XA_various_006
+\tx Ammụ,          ee ele          Kejmetinova... Kejmetinov Afanasij Alekseevič omen tïːhïnča aγïs
+\mb aman   -W        ee erek -(dU)LE Kejmetinova Kejmetinov Afanasij Alekseevič  omen tïːhïnča   aγïs   
+\ps n                interj pron         ?           ?          ?        ?           num  num        num    
+\ge father -poss.1sg eh prox -loc    Kejmetinova Kejmetinov Afanasij Alekseevich one  thousand.Y eight.Y
+
+\tx ńama   dʒapkụn mịar     dʒapkụn, dʒapkan mịar     dʒapkandụ  anŋịnịdụ baldarịn.
+\mb ńama    dʒapkan mịan -L  dʒapkan dʒapkan mịan -L  dʒapkan -DU  anŋan -DU  balda   -RI  -n(I)    
+\ps num     num     num      num     num     num      num          n          v                     
+\ge hundred eight   ten  -pl eight   eight   ten  -pl eight   -dat year  -dat be.born -pst -poss.3sg
+\ft My father Afanasij Alekseevich Kejmetinov was born in the year 1888.
+\ph ej ele - this probably refers to her looking at her notes and finding the spot where she had left off reading.
+\ru
+\ELANBegin 00:00:30.784
+\ELANEnd 00:00:46.618
+\ELANParticipant XAK
+
+\id Kejmetinova_XA_various_007
+\tx Ejmu             Kejmetinova Ekaterina Dmitrievna, omen tïːhïnča, omen tïːhïnča dʒapkan mịar     ...
+\mb enen   -W        Kejmetinova Ekaterina Dmitrievna omen tïːhïnča   omen tïːhïnča   dʒapkan mịan -L  *...
+\ps n                ?           ?         ?          num  num        num  num        num     num      ?   
+\ge mother -poss.1sg Kejmetinova Ekaterina Dmitrievna one  thousand.Y one  thousand.Y eight   ten  -pl *** 
+
+\tx tọγụ... ee, dʒe,  dịwịnọsta wọsem gadụ.
+\mb toγus  ee dʒe    devjanosto vosem'  godu      
+\ps num    interj ptl    num        num     n         
+\ge nine.Y eh well.Y ninety.R   eight.R year.loc.R
+\ft My mother Ekaterina Dmitrievna Kejmetinova (was born) in the year (18)98.
+\ru
+\ELANBegin 00:00:46.618
+\ELANEnd 00:01:04.181
+\ELANParticipant XAK
+
+\id Kejmetinova_XA_various_008
+\tx ujun mịar
+\mb ujun mịan -L 
+\ps num  num     
+\ge nine ten  -pl
+\ft ninety
+\ru
+\ELANBegin 00:01:04.181
+\ELANEnd 00:01:05.156
+\ELANParticipant BP
+
+\id Kejmetinova_XA_various_009
+\tx ujun mịar
+\mb ujun mịan -L 
+\ps num  num     
+\ge nine ten  -pl
+
+\ru
+\ELANBegin 00:01:05.156
+\ELANEnd 00:01:06.118
+\ELANParticipant XAK
+
+\id Kejmetinova_XA_various_010
+\tx dʒapkịs
+\mb dʒapkan -Is   
+\ps num           
+\ge eight   -ord.Y
+\ft eighth
+\ru
+\ELANBegin 00:01:06.118
+\ELANEnd 00:01:06.664
+\ELANParticipant BP
+
+\id Kejmetinova_XA_various_011
+\tx dʒapkan gọd, gọdụ   baldača.
+\mb dʒapkan god    godu       balda   -čE    
+\ps num     n      n          v              
+\ge eight   year.R year.loc.R be.born -pf.ptc
+\ft Was born in the year (189)8.
+\ru
+\ELANBegin 00:01:06.664
+\ELANEnd 00:01:08.939
+\ELANParticipant XAK
+
+\id Kejmetinova_XA_various_012
+\tx Vy, okazyvaetsja, xorošo znaete.
+\mb
+\ge
+\ft You, it seems, know (Even) well.
+\ru
+\ELANBegin 00:01:08.939
+\ELANEnd 00:01:12.956
+\ELANParticipant
+
+\id Kejmetinova_XA_various_013
+\tx Irek, erek Sebeːn       pastajannaj  ọlọktọːk, ee, ịatnan        toreŋetnen.
+\mb irek  erek Sebjan-Küöl postojannyj  oloχtoːχ ee ịak  -tEn      tor   -E  -ŋ   -E  -tEn     
+\ps pron  pron ?           adj          n        interj pron           n                           
+\ge which prox Sebjan-Küöl continuous.R local.Y  eh what -poss.3pl earth -ep -aln -ep -poss.3pl
+\ft This Sebjan (was) their continuous home.
+\ru Это Себян постоянное место жительство.
+\ELANBegin 00:01:12.956
+\ELANEnd 00:01:22.849
+\ELANParticipant
+
+\id Kejmetinova_XA_various_014
+\tx Natsionalnost nọŋŋịtnan               eveny.
+\mb nacionalnost' nọŋan -ŋI        -tEn      eveny  
+\ps n             pron                       n      
+\ge ethnicity.R   3sg   -pred.poss -poss.3pl Evens.R
+\ft They were Evens.
+\ph nọŋŋịdnan
+\gr the expression natsionalnost noŋŋịtnan is OK, normal'no, 'ixnjaja ixnjaja'
+\ru Их национальность эвены.
+\ELANBegin 00:01:22.849
+\ELANEnd 00:01:26.398
+\ELANParticipant
+
+\id Kejmetinova_XA_various_015
+\tx Spetsialnost ọrọlčịmŋa,  bujusimŋe,         axọtnịkị i     eto...
+\mb specialnost' ọrọlčị        -mŋE  buju -s    -E  -mŋE  oxotniki  i     eto   
+\ps n            v                   v                    n         conj  pron  
+\ge profession.R herd.reindeer -agnr hunt -mult -ep -agnr hunters.R and.R this.R
+
+\ft They were reindeer herders and hunters by profession.
+\ru
+\ELANBegin 00:01:26.398
+\ELANEnd 00:01:34.003
+\ELANParticipant
+
+\id Kejmetinova_XA_various_016
+\tx Nọŋartan mịan dʒoːr kụŋalkahal      bihitnen.
+\mb nọŋartan mịan dʒoːr kụŋa  -lkEn -SEl bi -RI  -tEn     
+\ps pron     num  num   n                v                
+\ge 3pl      ten  two   child -prop -pl  be -pst -poss.3pl
+\ft They had twelve children.
+\ru
+\ELANBegin 00:01:34.003
+\ELANEnd 00:01:39.463
+\ELANParticipant
+
+\id Kejmetinova_XA_various_017
+\tx Tadụk,      tadụk       dʒoːr kụŋa baldarịdʒụr     kokeritnen,         kotlen, ńịlba bihŋiwur.
+\mb tarak -DUk(U) tarak -DUk(U) dʒoːr kụŋa  balda   -RIdʒI   -L  koke -RI  -tEn      kotlen ńịlba  bi -ŋsI      -WUr    
+\ps pron          pron          num   n     v                    v                   adj    n      v                    
+\ge dist  -abl    dist  -abl    two   child be.born -ant.cvb -pl die  -pst -poss.3pl small  baby.Y be -impf.cvb -prfl.pl
+\ft Of those two children died when they were still babies.
+\ru Из них два ребенка умерла когда были младенцами.
+\ELANBegin 00:01:39.463
+\ELANEnd 00:01:48.615
+\ELANParticipant
+
+\id Kejmetinova_XA_various_018
+\tx Digen ọmọlgọ, ńuŋen asịtkan kụŋalkahal.
+\mb digen ọmọlga ńuŋen asatkan kụŋa  -lkEn -SEl
+\ps num   n      num   n       n               
+\ge four  boy    six   girl    child -prop -pl 
+\ft They had four sons and six daughters.
+\ru
+\ELANBegin 00:01:48.615
+\ELANEnd 00:01:53.321
+\ELANParticipant
+
+\id Kejmetinova_XA_various_019
+\tx Egdʒen akantị,                  Nikifor Afanasevič, omen ńama... skọlkọ... sọrọk... tördüön... digen
+\mb egdʒen akan          -t(I)        Nikifor Afanasevič  omen ńama    skol'ko    sorok   tördüön digen
+\ps adj    n                          ?       ?           num  num     pron       num     num     num  
+\ge big    older.brother -poss.1pl.in Nikifor Afanasevich one  hundred how.many.R forty.R forty.Y four 
+
+\tx mịar     omen hïllaːkka   udu,      Sebeːndu,         hupkučimŋet        gurgewčirin.
+\mb mịan -L  omen hïllaːkka     erek -DU  Sebjan-Küöl -DU  hupkut -E  -mŋE  -Č   gurgeːwči -RI  -n(I)    
+\ps num      num  adv           pron      n                v                     v                       
+\ge ten  -pl one  in.the.year.Y prox -dat Sebjan-Küöl -dat learn  -ep -agnr -ins work      -pst -poss.3sg
+\ft Our eldest brother Nikifor Afanasevich worked here in Sebjan as a teacher in the year '41.
+\ru Наш старший брат НА в 41м году здесь в Себяне работал учителем.
+\ELANBegin 00:01:53.321
+\ELANEnd 00:02:12.002
+\ELANParticipant
+
+\id Kejmetinova_XA_various_020
+\tx Vot, ne, tysyča divitsọt, ee...
+\mb
+\ge
+\ft Here, no, nineteen hundred...
+\ru
+\ELANBegin 00:02:12.002
+\ELANEnd 00:02:15.772
+\ELANParticipant XAK
+
+\id Kejmetinova_XA_various_021
+\tx ničego, nịčego..
+\mb
+\ge
+\ft It doesn't matter.
+\ru
+\ELANBegin 00:02:15.772
+\ELANEnd 00:02:18.983
+\ELANParticipant BP
+
+\id Kejmetinova_XA_various_022
+\tx gde eto...
+\mb
+\ge
+\ft where is it
+\ph
+\gr
+\nt Probably looking for the place in her notes where she left off reading.
+\ru
+\ELANBegin 00:02:18.983
+\ELANEnd 00:02:21.856
+\ELANParticipant XAK
+
+\id Kejmetinova_XA_various_023
+\tx Nọŋandụk    ńoːdmer,             Kejmetinov Nikolaj Afanasevič, omen ńama   ujun, omen tïːhïnča
+\mb nọŋan -DUk(U) noː             -dmEr  Kejmetinov Nikolaj Afanasevič  omen ńama    ujun omen tïːhïnča  
+\ps pron          n                      ?          ?       ?           num  num     num  num  num       
+\ge 3sg   -abl    younger.sibling -contr Kejmetinov Nikolaj Afanasevich one  hundred nine one  thousand.Y
+
+\tx ujun ńama   dʒoːrmịar      alta, alta  anŋanịdụ baldarịdʒị, uon   hette   anŋịnịŋị     dʒalụbgịrịdʒị,
+\mb ujun ńama    dʒoːr mịan -L  alta  alta  anŋan -DU  balda   -RIdʒI   uon   hette   anŋan -ŋ   -J       dʒalabgị -RIdʒI  
+\ps num  num     num   num      num   num   n          v                num   num     n                   v                
+\ge nine hundred two   ten  -pl six.Y six.Y year  -dat be.born -ant.cvb ten.Y seven.Y year  -aln -prfl.sg fulfill  -ant.cvb
+
+\tx nọŋan Jakutskaj, Jakutskaj pedučiliščela            horejekteːk.
+\mb nọŋan Jakutsk Jakutsk pedučilišče         -(dU)LE hor -E  -jEktEːk
+\ps pron  ?       ?       n                           v               
+\ge 3sg   Yakutsk Yakutsk teachers'.college.R -loc    go  -ep -nec.Y  
+\ft His younger brother Nikolaj Afanasevich Kejmetinov, who was born in 1926, was to go to the teachers' training college in Yakutsk
+when he turned seventeen.
+\ru Младше него КНА, родившись в 1926-м году, достигнув 17 лет, он в Якутск должен был поехать в педучилище.
+\ELANBegin 00:02:21.856
+\ELANEnd 00:02:53.147
+\ELANParticipant
+
+\id Kejmetinova_XA_various_024
+\tx Dolžen, govorju,  horejekteːk      ...  bihin.
+\mb dolžen govorju   hor -E  -jEktEːk *... bi -RI  -n(I)    
+\ps v      v         v                ?    v                
+\ge must.R say.1sg.R go  -ep -nec.Y   ***  be -pst -poss.3sg
+\ft I say 'he should'.
+\ru
+\ELANBegin 00:02:53.147
+\ELANEnd 00:02:58.919
+\ELANParticipant
+
+\id Kejmetinova_XA_various_025
+\tx Ọl   biriemeγe,   ọl   biriemedu   arụjọn tsentertan       - vot    pro     Smirnova - arụjọn
+\mb ọl     vremja -GA    ọl     vremja -DU  rajon      center   -(t)tAn vot    pro     Smirnov rajon     
+\ps pron   n             pron   n           n          n                ptl    postpos ?       n         
+\ge that.Y time.R -dat.Y that.Y time.R -dat district.R centre.R -abl.Y  here.R about.R Smirnov district.R
+
+\tx tsentertan       ịadụ   tübesče              krupnyj nedostat... ee, krupnaj ịalkan    arastratalkan  bej
+\mb center   -(t)tAn ịak  -DU  tübes          -čE     krupnyj krupnyj ịak  -lkEn rastrata -lkEn bej
+\ps n                pron      v                      adj     adj     pron       n              n  
+\ge centre.R -abl.Y  what -dat find.oneself.Y -pf.ptc big.R   big.R   what -prop fraud.R  -prop man
+
+\tx Smirnov dien     beju     hụttaːrịdʒụr     xaːjïːla        tiːndʒidditnen.
+\mb Smirnov dien     bej -W   suttaː      -RIdʒI   -L  χaːjïː   -(dU)LE tiːn -D    -RI  -tEn     
+\ps ?       v        n        v                        n                v                        
+\ge Smirnov saying.Y man -acc prosecute.Y -ant.cvb -pl prison.Y -loc    send -prog -pst -poss.3pl
+\ft At that time they were sending a man called Smirnov to prison from the district centre after having prosecuted him for major fraud.
+\ph
+\nt Her aside 'vot pro Smirnova' was addressed to me; her initial notes hadn't included any mention of this person, and I had suggested that
+she might want to mention him. The district centre in those days was Sakkyryyr, to the north of Sebjan, and the NKVD, the internal
+security forces were taking the prisoner, who had asked to be sent to the front, to Yakutsk via Sebjan. In Sebjan, the NKVD handed
+over their prisoner to two young men of seventeen, the speakers brother Nikolaj and a friend, who were headed for the teachers'
+training college in Yakutsk, asking them to take the prisoner along.
+\ru В это время из районного центра попавший за крупную недостатку, с крупной растратой человек, Смирнов, этого человека засудив,
+отправляли в тюрму.
+\ELANBegin 00:02:58.919
+\ELANEnd 00:03:27.376
+\ELANParticipant
+
+\id Kejmetinova_XA_various_026
+\tx Tiːndʒidditnen,          Sebeːn,      Sebeːn-Küölünen.
+\mb tiːn -D    -RI  -tEn      Sebjan-Küöl Sebeːn-Küöl -(I)nAn
+\ps v                         ?           ?                  
+\ge send -prog -pst -poss.3pl Sebjan-Küöl Sebjan-Küöl -ins.Y 
+\ft They sent him via Sebjan-Küöl.
+\ru
+\ELANBegin 00:03:27.376
+\ELANEnd 00:03:34.487
+\ELANParticipant
+
+\id Kejmetinova_XA_various_027
+\tx Ọnọn    tarak bej Sebeːndule           omen tïːhïnča tọγụs ńama   digen mịar     ịlan hïllaːkka
+\mb onon        tarak bej Sebjan-Küöl -(dU)LE omen tïːhïnča   toγus  ńama    digen mịan -L  ịlan  hïllaːkka    
+\ps conj        pron  n   n                   num  num        num    num     num   num      num   adv          
+\ge therefore.Y dist  man Sebjan-Küöl -loc    one  thousand.Y nine.Y hundred four  ten  -pl three in.the.year.Y
+
+\tx emnin.
+\mb em   -RI  -n(I)    
+\ps v                  
+\ge come -pst -poss.3sg
+\ft That is why that man came to Sebjan-Küöl in the year 1943.
+\ru
+\ELANBegin 00:03:34.487
+\ELANEnd 00:03:47.513
+\ELANParticipant
+
+\id Kejmetinova_XA_various_028
+\tx Tadụk       Jakutskaj kọrakka     Ńụkụlaj Afanasevič pedučilišeγa           üörennej
+\mb tarak -DUk(U) Jakutsk gorod  -GA    Nikolaj Afanasevič  pedučiliše         -GA    üören   -nE     -J      
+\ps pron          ?       n             ?       ?           n                         v                       
+\ge dist  -abl    Yakutsk town.R -dat.Y Nikolaj Afanasevich teachers.college.R -dat.Y study.Y -intent -prfl.sg
+
+\tx horedniken,           dʒoːr ọmọlgọ, nọŋan gịan           Krivošapkin Fjọdọr Ksenofontovičtïːn  erek
+\mb hor -E  -D    -nIkEn   dʒoːr ọmọlga nọŋan gịa    -n(I)     Krivošapkin  Fjodor Ksenofontovič  -LIːn  erek
+\ps v                      num   n      pron  n                ?            ?      ?                     pron
+\ge go  -ep -prog -sim.cvb two   boy    3sg   friend -poss.3sg Krivoshapkin Fjodor Ksenofontovich -com.Y prox
+
+\tx beju     dʒe   kọratla      ịhụjaktaːktar.
+\mb bej -W   dʒe    gorod  -(dU)LE ịs    -U    -jEktEːk -LAr 
+\ps n        ptl    n              v                         
+\ge man -acc well.Y town.R -loc    reach -caus -nec.Y   -pl.Y
+\ft From here two boys who were going to Yakutsk, Nikolaj Afanasevich to study in the teachers' training college together with his friend
+Fjodor Ksenofontovich Krivoshapkin, had to take this man to town.
+\ph
+\gr should be üörennemi horedniken
+\ru Отсюда в город Якутск едя учиться в педучилище двое парней, вместе с его другом Кривошапкиным Фёдором Ксенофонтовичем
+этого человека в город должны довести.
+\ELANBegin 00:03:47.513
+\ELANEnd 00:04:08.001
+\ELANParticipant 8:05
+
+\id Kejmetinova_XA_various_030
+\tx Tam... xaːj...
+\mb
+\ge
+\ft (To bring him to prison there.)
+\ru
+\ELANBegin 00:04:08.001
+\ELANEnd 00:04:10.731
+\ELANParticipant
+
+\id Kejmetinova_XA_various_031
+\tx Kuhim          ...  Gitleriw    deːpki  kuhimečekle              dʒoːridʒur              horejekteːkterin            Fjọdọr
+\mb kuhi  -n  -W   *... Gitler -W   deːpki   kuhi  -mEČ -ČEk -(dU)LE dʒoːr -NI   -dʒUr        hor -E  -jEktEːk -LArIn     Fjodor
+\ps v              ?    n           postpos  v                       num                      v                           ?     
+\ge fight -nr -acc ***  Hitler -acc opposite fight -rec -nr  -loc    two   -coll -ins.prfl.pl go  -ep -nec.Y   -acc.3pl.Y Fjodor
+
+\tx Ksenofontovič, nọŋan ịahalan             keńeli bimi,        eče        horre.
+\mb Ksenofontovič  nọŋan ịašal -E  -n(I)     keńeli bi -mI       e   -čE     hor -R      
+\ps ?              pron  n                   adj    v            v           v           
+\ge Ksenofontovich 3sg   eyes  -ep -poss.3sg bad    be -cond.cvb neg -pf.ptc go  -neg.cvb
+\ft The two of them were supposed to go to the war against Hitler together, but Fjodor Ksenofontovich didn't go because his eyes were
+bad.
+\ru Они должны были вместе отправиться на войну с Гитлером, но Федор Кс не поехал потому что у него были плохие глаза.
+\ELANBegin 00:04:10.731
+\ELANEnd 00:04:23.848
+\ELANParticipant
+
+\id Kejmetinova_XA_various_032
+\tx Mut    Ńụkụlajat           Jakutskaj, Jakutskaj kọrattụk   ńọkalńụn,   omen Gavrilev,
+\mb mut    Nikolaj -E  -t(I)        Jakutsk Jakutsk gorod  -DUk(U) ńọka  -L  -ńUn omen Gavrilev
+\ps pron   n                        ?       ?       n              n              num  ?       
+\ge 1pl.in Nikolaj -ep -poss.1pl.in Yakutsk Yakutsk town.R -abl    Sakha -pl -com one  Gavrilev
+
+\tx Gavrilev dien     ọmọlgọńụn emie   digen mịar     ịlan hïllaːkka   ịala        dïlï
+\mb Gavrilev dien     ọmọlga -ńUn emie   digen mịan -L  ịlan  hïllaːkka     ịak  -(dU)LE dïlï   
+\ps ?        v        n           adv    num   num      num   adv           pron         postpos
+\ge Gavrilev saying.Y boy    -com also.Y four  ten  -pl three in.the.year.Y what -loc    until.Y
+
+\tx kuhinel Gitlerovskie zaxvatčiktarịńun   delbi  kuhimečekle              horritnen.
+\mb kuhinel Gitlerovskie zaxvatčik -LAr  -ńUn delbi  kuhi  -mEČ -ČEk -(dU)LE hor -RI  -tEn     
+\ps ?       adj          n                    adv    v                       v                 
+\ge ***     Hitler's.R   invader.R -pl.Y -com very.Y fight -rec -nr  -loc    go  -pst -poss.3pl
+
+\ft Our Nikolaj went to the war against Hitler's invaders from Yakutsk together with Sakha, with a boy called Gavrilev, in the year 1943.
+\ph
+\gr kuhinel = not a correct, existing Even word
+\ru Наш Николай из Якутска вместе с якутами, 1 Гаврилев, с парнем Гаврилевым в 1943 году с гитлеровскими захватчиками там что-то
+кухинэн поехали на войну.
+\ELANBegin 00:04:23.848
+\ELANEnd 00:04:51.317
+\ELANParticipant
+
+\id Kejmetinova_XA_various_033
+\tx Tala,         tala          herridʒi,   nọŋan Avstrija, Avstrija gọsụdarstvatïn Viene  kọrat
+\mb tarak -(dU)LE tarak -(dU)LE hor -RIdʒI   nọŋan Avstrija Avstrija gosudarstvo -(t)In Vena   gorod 
+\ps pron          pron          v            pron  ?        ?        n                  ?      n     
+\ge dist  -loc    dist  -loc    go  -ant.cvb 3sg   Austria  Austria  state.R     -gen.Y Vienna town.R
+
+\tx hattụn,           kọrat hattụn            akọpaγa,     badʒịkar tụŋŋan čaːska    dïlï
+\mb hat  -DU  -n(I)     gorod  hat  -DU  -n(I)     okopa    -GA    badʒịkar tụnŋan čas  -GA    dïlï   
+\ps rel                 n      rel                 n               n        num    ?           postpos
+\ge base -dat -poss.3sg town.R base -dat -poss.3sg trench.R -dat.Y morning  five   hour -dat.Y until.Y
+
+\tx dessiddidʒur,            atakala          ịlčal,            ataka.
+\mb desči -D    -RIdʒI   -L  ataka    -(dU)LE ịl       -čE     -L  ataka   
+\ps v                        n                v                    n       
+\ge lie   -prog -ant.cvb -pl attack.R -loc    stand.up -pf.ptc -pl attack.R
+\ft Having gone there, having lain in a trench near the city of Vienna in Austria until 5h00 in the morning, they attacked.
+\ru Туда поехав у города Вены в австрийском государстве, в окопах до 5и часов утра пролежав, они встали на атаку.
+\ELANBegin 00:04:51.317
+\ELANEnd 00:05:18.877
+\ELANParticipant
+
+\id Kejmetinova_XA_various_034
+\tx Nọŋartan "Za   rodinu,          za    Stalina"     goːniken      akọpatụkụr
+\mb nọŋartan za    rodinu           za    Stalina      goːn -nIkEn   okopa    -DUk(U) -WUr    
+\ps pron     postpos n                postpos n            v             n                        
+\ge 3pl      for.R Fatherland.acc.R for.R Stalin.acc.R say  -sim.cvb trench.R -abl    -prfl.pl
+
+\tx tọhandʒịddakatnan,              tọhanịkan    dʒe   nụŋawụr     dʒawrịdʒụr
+\mb tụsan -D    -REk      -E  -tEn      tụsan -nIkEn   dʒe    nụŋa -WUr     dʒaw       -RIdʒI   -L 
+\ps v                                   v              ptl    n             v                      
+\ge hop   -prog -cond.cvb -ep -poss.3pl hop   -sim.cvb well.Y gun  -prfl.pl catch.hold -ant.cvb -pl
+
+\tx tọhandʒịddakatnan,              niemehel        nọŋman               nemkeridʒur       gaːd, gaːd
+\mb tụsan -D    -REk      -E  -tEn      nemec    -E  -L  nọŋan -W   -n(I)     nemke -RIdʒI   -L  gaːd gaːd
+\ps v                                   n                pron                 v                  n    n   
+\ge hop   -prog -cond.cvb -ep -poss.3pl German.R -ep -pl 3sg   -acc -poss.3sg shoot -ant.cvb -pl half half
+
+\tx ŋaːlban             họkọs        nemkeridʒur       nọŋan egdʒenet       aranịw     gača.
+\mb ŋaːl -W   -n(I)     họkat      -s    nemke -RIdʒI   -L  nọŋan egdʒen -E  -Č   rana    -W   ga   -čE    
+\ps n                   v                v                  pron  adj             n            v           
+\ge hand -acc -poss.3sg break.trns -advr shoot -ant.cvb -pl 3sg   big    -ep -ins wound.R -acc take -pf.ptc
+
+\ft When they jumped out of their trenches shouting "For the Fatherland, for Stalin!", when they jumped grabbing their guns, the
+Germans, having shot at him, having shot one of his arms to pieces, he was wounded badly.
+\ph akọpatụkụr is just her pronunciation of akọpadụkụr
+\gr note the disagreement between the 3pl subject of the anterior converb nemkeridʒur and the 3sg subject of the main clause; the
+instrumental case on egdʒenet makes this an adverb, he didn't get a big wound, but was deeply wounded, it's OK
+\ru Когда они выпригивали из окопов "..." выпрыгивая, свои ружья схватив когда они выпрыгивали, немцы, выстрелив, вторую руку до
+перелома выстрелив, ну он взял большое ранение.
+\ELANBegin 00:05:18.877
+\ELANEnd 00:05:43.655
+\ELANParticipant 13:45
+
+\id Kejmetinova_XA_various_035
+\tx Saznanie paterjal, tam.
+\mb
+\ge
+\ft He lost conciousness there.
+\ru
+\ELANBegin 00:05:43.655
+\ELANEnd 00:05:48.946
+\ELANParticipant
+
+\id Kejmetinova_XA_various_037
+\tx Nam gačal.
+\mb ga   -čE     -L 
+\ps v               
+\ge take -pf.ptc -pl
+\ft
+\nt IVK didn't know what this was supposed to mean, so it wasn't translated. There is a Sakha expression nam bar- (nam go) which means to
+calm down; perhaps this is an incomplete calque from that?
+\ru
+\ELANBegin 00:05:48.946
+\ELANEnd 00:05:50.194
+\ELANParticipant
+
+\id Kejmetinova_XA_various_038
+\tx Tadụk       nọŋan, erek beju     Pọlša, Pọlša gọsụdarstvaγa, Praga  dien     kụọrakka, wajennaj
+\mb tarak -DUk(U) nọŋan erek bej -W   Pol'ša Pol'ša gosudarstvo -GA    Praga  dien     kuorat -GA    voennyj   
+\ps pron          pron  pron n        ?      ?      n                  ?      v        n             n         
+\ge dist  -abl    3sg   prox man -acc Poland Poland state.R     -dat.Y Prague saying.Y town.Y -dat.Y military.R
+
+\tx gọspịtalga    dʒoːr anŋanịw  dessiče.
+\mb gospital   -GA    dʒoːr anŋan -W   desči -čE    
+\ps n                 num   n          v            
+\ge hospital.R -dat.Y two   year  -acc lie   -pf.ptc
+\ft Then he lay in a military hospital in the town called Prague in Poland for two years.
+\ru Потом этого человека в польском государстве в городе Прага 2 года в военном госпитале пролежал.
+\ELANBegin 00:05:50.194
+\ELANEnd 00:06:04.039
+\ELANParticipant
+
+\id Kejmetinova_XA_various_039
+\tx Ee, dessiče,      dʒoːr anŋanịw.
+\mb ee desči -čE     dʒoːr anŋan -W  
+\ps interj v             num   n         
+\ge eh lie   -pf.ptc two   year  -acc
+\ft Yes, he lay for two years.
+\ru
+\ELANBegin 00:06:04.039
+\ELANEnd 00:06:07.614
+\ELANParticipant
+
+\id Kejmetinova_XA_various_040
+\tx Dessiridʒi,    dʒe,  uže      negodnyj, voenno negodnyj ọːča.
+\mb desči -RIdʒI   dʒe    uže       ọː     -čE    
+\ps v              ptl    adv       v             
+\ge lie   -ant.cvb well.Y already.R become -pf.ptc
+\ft After lying he had become unfit for war.
+\ru Пролежав стал военно-негодным.
+\ELANBegin 00:06:07.614
+\ELANEnd 00:06:16.623
+\ELANParticipant
+
+\id Kejmetinova_XA_various_041
+\tx Sebeːnküölle       nọŋan omen ńama... omen tïːhïnča tọγụs ńama   tördüön ńuŋen anŋanịdụ
+\mb Sebeːnküöl  -(dU)LE nọŋan omen ńama    omen tïːhïnča   toγus  ńama    tördüön ńuŋen anŋan -DU 
+\ps n                   pron  num  num     num  num        num    num     num     num   n         
+\ge Sebjan.Küöl -loc    3sg   one  hundred one  thousand.Y nine.Y hundred forty.Y six   year  -dat
+
+\tx ele          mut    hupture               muttule        mụčụrịn.
+\mb erek -(dU)LE mut    hụptụ       -RI       mut    -(dU)LE mụčụ   -RI  -n(I)    
+\ps pron         pron   v                     pron           v                    
+\ge prox -loc    1pl.in stay.behind -impf.ptc 1pl.in -loc    return -pst -poss.3sg
+
+\ft To Sebjan-Küöl he returned to us with delay in the year 1946.
+\ph
+\nt It is not quite clear what she wanted to say with the word hupture - IVK had suggested that she meant to say tüptürü, which she said
+meant '(return) back' in Sakha; however, there is no Sakha word tüptürü, and the word she was thinking of is töttörü. There is also no
+fitting word supture or süptüre in Sakha. In Even, however, there is huptu- 'stay behind, be late', which fits the form and context, and I
+therefore analysed it as such. It's not a perfect fit, though, because one would expect a converb, and the pronunciation doesn't fit either,
+but it's the best I can do.
+\ru В СК он в каком-то году сюда к нам обратно вернулся.
+\ELANBegin 00:06:16.623
+\ELANEnd 00:06:29.324
+\ELANParticipant
+
+\id Kejmetinova_XA_various_042
+\tx Mut    kụŋal    delbi  oreldeniken,      akmụr                bakaldarịt.
+\mb mut    kụŋa  -L  delbi  orelde   -nIkEn   akan          -WUr     bak  -(E)ldE -RI  -t(I)       
+\ps pron   n         adv    v                 ?                      v                             
+\ge 1pl.in child -pl very.Y be.happy -sim.cvb older.brother -prfl.pl find -soc    -pst -poss.1pl.in
+\ft We children met our older brother with joy.
+\ru Мы дети радуясь старшего брата своего встретили.
+\ELANBegin 00:06:29.324
+\ELANEnd 00:06:36.812
+\ELANParticipant
+
+\id Kejmetinova_XA_various_043
+\tx Tar,  tarakam       nọŋan nahaː họːja ukčengererin,               nọŋan kuhimeːk    tụhụnan
+\mb tarak tarakam       nọŋan nahaː  họːja ukčen -Gr(E) -RI  -n(I)     nọŋan kuhi  =mEːk tuhunan
+\ps pron  adv           pron  adv    quant v                           pron  v           postpos
+\ge dist  in.those.days 3sg   very.Y many  tell  -hab   -pst -poss.3sg 3sg   fight =ptl  about.Y
+
+\tx ukčengererin,               no    haːwdịl, mut    amantị,           eńinti,            muttiki,       mutude,
+\mb ukčen -Gr(E) -RI  -n(I)     no    hagdị -L  mut    aman   -t(I)        eńin   -t(I)        mut    -t(E)kI mut    -W   =DE 
+\ps v                           conj  adj       pron   n                   n                   pron           pron            
+\ge tell  -hab   -pst -poss.3sg but.R old   -pl 1pl.in father -poss.1pl.in mother -poss.1pl.in 1pl.in -all    1pl.in -acc =ptl
+
+\tx nọŋman               akmụtta                            Ńụkụlajụ nụwčịwrarịt.
+\mb nọŋan -W   -n(I)     akan          -W   -t(I)        =DE  Nikolaj -W   nụčị   -Gr(E) -RI  -t(I)       
+\ps pron                 n                                    n            v                              
+\ge 3sg   -acc -poss.3sg older.brother -acc -poss.1pl.in =ptl Nikolaj -acc forbid -hab   -pst -poss.1pl.in
+
+\ft In those days he told a lot , told only about the war, but our elders, our mother and father forbade him and us (to talk about it).
+\ph
+\gr 1pl ending on finite verb of course doesn't fit at all here, should of course be 3pl; the particle =mEːk has a restrictive meaning in
+Sebjan; nụčị- (here glossed as 'forbid') takes accusative case marking, said IVK, she says the accusative is correct here, but when I tried
+to elicit sentences with the verb nụčị- she at first gave dative case (which could, however, be a problem with translating from Russian,
+where 'forbid' takes dative case); but it's not so much 'forbid' directly, but rather 'talk someone out of something, persuade not to do
+something', so 'I forbid my children to eat chocolate' would normally be said as "šakalatụ ehem dʒebukeŋner" (don't let them eat), with
+the verb nụčị- "šakalatụ dʒebutnen nụčịwraram kụŋaldị (at first), corrected to kụŋalbị", kụŋalbị nụčịwraram; she forbids you - again
+first said "mindu" then corrected to "minu"
+\nt
+\gr on 280212 again tried to find out more about the valency of nụčị - it seems this is a very tricky question, because IVK keeps on
+spontaneously giving a dative-marked object and then saying accusative would be better; zapreshali rasskazyvatj = ukčenniwen
+nụčịwrarịtnan, and when I asked whether it would be ŃukulajU she said no, ŃukulajDU, but then corrected herself to Ńukulaju, but
+then doubted, said yes when I asked whether it would be "NukulajDU ukčenniwen nụčịwrarịtnan", but when I asked whether it wasn't
+rather ŃukulajU she corrected the sentence to ŃukulajU ukčenniwen nụčịwrarịtnan; then she explained that 2 accusatives is
+"neponjatno" and that she had therefore changed it to Ńukulajdu, but that this is then ambiguous, because it sounds as if they forbade
+someone to tell Nikolaj; accusative case is OK, and without the verb Ńukulaju nụčịwrarịtnan is "ochenj dazhe xorosho". and her final
+judgement was that even two accusatives would be OK, and better than dative (little_quest_kejm_tulasyn_280212, first 3 minutes)
+\nt
+\ru Тогда он очень много рассказывал, он рассказывал о войне, но старики, наш мать, отец, к нам и нас и его. старшего брата Николая
+запрещали рассказывать. 
+\ELANBegin 00:06:36.812
+\ELANEnd 00:06:56.533
+\ELANParticipant
+
+\id Kejmetinova_XA_various_044
+\tx "Edʒi,      kụŋaldụ     ukčenkil!
+\mb e   -LI      kụŋa  -L  -DU  ukčen -kIl    
+\ps v            n              v             
+\ge neg -imp.2sg child -pl -dat tell  -proh.sg
+\ft Don't tell the children!
+\ph ukčinkil
+\gr Ija said that they use the prohibitive ending here, but it only occurs 4 other times in my corpus, all Marta Kirillovna. So it's definitely
+not frequently used.
+\ru Не рассказывай детям.
+\ELANBegin 00:06:56.533
+\ELANEnd 00:06:59.198
+\ELANParticipant
+
+\id Kejmetinova_XA_various_045
+\tx Mut    ebehel    bej beju     etep              maːmatta.
+\mb mut    ewen -SEl bej bej -W   e   -t(E) -p      maː  -mEČ -R      
+\ps pron   n         n   n        v                 v                 
+\ge 1pl.in Even -pl  man man -acc neg -fut  -1pl.in kill -rec -neg.cvb
+\ft We Evens won't kill each other.
+\ru Мы эвены не будем убивать друг друга, человек человека.
+\ELANBegin 00:06:59.198
+\ELANEnd 00:07:04.346
+\ELANParticipant
+
+\id Kejmetinova_XA_various_046
+\tx Maːmačajọː                 huoxtaːxpịt     ọnọn    hińimkin, taraw      edʒi
+\mb maː  -mEČ -E  -j    -IA        suoχtaːχ  -BIt   onon        hińimkin tarak -W   e   -LI     
+\ps v                              ptl              conj        n        pron       v           
+\ge kill -rec -ep -conn -fut.3sg.Y neg.nec.Y -1pl.Y therefore.Y sin      dist  -acc neg -imp.2sg
+
+\tx ukčenkil       noːdi.
+\mb ukčen -kIl     noː             -DI         
+\ps v              n                           
+\ge tell  -proh.sg younger.sibling -dat.prfl.sg
+\ft We mustn't kill (each other), that is a sin, don't tell your younger sibling about that.
+\ph
+\gr -IA suoχtaːχ- = negative necessative, the negative form of the 'normal' Sakha necessitative in -IAχtAːχ-
+\ru Мы не должны убивать, это грех, ты не расскажи своему младшему.
+\ELANBegin 00:07:04.346
+\ELANEnd 00:07:09.832
+\ELANParticipant
+
+\id Kejmetinova_XA_various_047
+\tx Ńan   bej, bej araːnị ọːdaŋị             huji,          beketen      kụŋaldụ     edʒi        ičukekkil.
+\mb ńaːn bej bej rana    ọː     -DEŋ     -J       huj   -J       bụkatïn      kụŋa  -L  -DU  e   -LI      it  -WkEn -Č   -kIl    
+\ps adv  n   n   n       v                        n              adv          n              v            v                      
+\ge and  man man wound.R become -pst.ptc -prfl.sg wound -prfl.sg completely.Y child -pl -dat neg -imp.2sg see -caus -res -proh.sg
+
+\ft And don't show your wounds to the children!
+\ph
+\gr ičukekkil = show many times
+\nt
+\ru И человек свою рану детям не показывай.
+\ELANBegin 00:07:09.832
+\ELANEnd 00:07:15.201
+\ELANParticipant
+
+\id Kejmetinova_XA_various_048
+\tx Ee, tadụ.
+\mb ee tarak -DU 
+\ps interj pron      
+\ge eh dist  -dat
+\ft Yes, there.
+\ru
+\ELANBegin 00:07:15.201
+\ELANEnd 00:07:19.127
+\ELANParticipant
+
+\id Kejmetinova_XA_various_049
+\tx Mhm, höp.
+\mb mhm söp 
+\ps excl ptl 
+\ge mhm OK.Y
+
+\ru
+\ELANBegin 00:07:19.127
+\ELANEnd 00:07:23.677
+\ELANParticipant BP
+
+\id Kejmetinova_XA_various_050
+\tx EE, načinaj, da, ja ždu ot načala
+\mb
+\ge
+\ft Ah, start, yes, I'm waiting from the start
+\ph
+\nt We had paused the recorder while she noted down what she wanted to say next.
+\ru
+\ELANBegin 00:07:23.677
+\ELANEnd 00:07:27.668
+\ELANParticipant XAK
+
+\id Kejmetinova_XA_various_051
+\tx dọlčịram
+\mb dọlčị  -R(E)   -m  
+\ps v                  
+\ge listen -nonfut -1sg
+
+\ru
+\ELANBegin 00:07:27.668
+\ELANEnd 00:07:28.643
+\ELANParticipant BP
+
+\id Kejmetinova_XA_various_052
+\tx Ee, dọlčịram
+\mb ee dọlčị  -R(E)   -m  
+\ps interj v                  
+\ge eh listen -nonfut -1sg
+
+\ru
+\ELANBegin 00:07:28.643
+\ELANEnd 00:07:31.269
+\ELANParticipant XAK
+
+\id Kejmetinova_XA_various_053
+\tx Hi   minu         dọlčịnnị, da?
+\mb hiː min     -W   dọlčị  -nrI da   
+\ps pron pron         v           ptl  
+\ge 2sg 1sg.obl -acc listen -2sg yes.R
+\ft You listen to me, yes?
+\ru
+\ELANBegin 00:07:31.269
+\ELANEnd 00:07:34.818
+\ELANParticipant
+
+\id Kejmetinova_XA_various_054
+\tx Otkuda mne načinat'?
+\mb
+\ge
+\ft From where should I start?
+\ru
+\ELANBegin 00:07:34.818
+\ELANEnd 00:07:37.535
+\ELANParticipant
+
+\id Kejmetinova_XA_various_055
+\tx Mut dʒaːl... otsjuda, otsjuda
+\mb
+\ge
+\ft Mut dʒaːl... (= our relatives) from here.
+\ph
+\nt I was showing her in her notes from where to start reading.
+\ru
+\ELANBegin 00:07:37.535
+\ELANEnd 00:07:42.033
+\ELANParticipant BP
+
+\id Kejmetinova_XA_various_056
+\tx Ee, mut    dʒaːltị
+\mb ee mut    dʒaː     -L  -t(I)       
+\ps interj pron   n                        
+\ge eh 1pl.in relative -pl -poss.1pl.in
+\ft Ah, our relatives
+\ru
+\ELANBegin 00:07:42.033
+\ELANEnd 00:07:47.389
+\ELANParticipant XAK
+
+\id Kejmetinova_XA_various_057
+\tx Ee, bukvu ja sovsem nepravilno... dʒaːltị...
+\mb
+\ge
+\ft Oh, I wrote a letter completely wrong...
+\ru
+\ELANBegin 00:07:47.389
+\ELANEnd 00:07:53.850
+\ELANParticipant
+
+\id Kejmetinova_XA_various_058
+\tx Ńa, načnu.
+\mb
+\ge
+\ft Well, I'll start.
+\ru
+\ELANBegin 00:07:53.850
+\ELANEnd 00:07:55.202
+\ELANParticipant
+
+\id Kejmetinova_XA_various_059
+\tx Mut    dʒaːltị               hontelde,      Berdjanka ńan   tọzọvka  kotlen nụŋat,    nụŋalkan   bimi,
+\mb mut    dʒaː     -L  -t(I)        honte -L  =DE  Berdjanka ńaːn tozovka      kotlen nụŋa -Č   nụŋa -lkEn bi -mI      
+\ps pron   n                         adj            ?         adv  n            adj    n         n          v           
+\ge 1pl.in relative -pl -poss.1pl.in other -pl =ptl Berdanka  and  pellet.gun.R small  gun  -ins gun  -prop be -cond.cvb
+
+\tx ńarịl    bujutnewrer.
+\mb ńarị -L  buju -s    -nE     -Gr(E) -r  
+\ps ?        v                             
+\ge man  -pl hunt -mult -intent -hab   -3pl
+\ft Our relatives and others went to hunt having (only) small guns, Berdanka and pellet guns.
+\ph
+\gr
+\nt During the war all good big guns were requisitioned, leaving the Evens with only old guns (Berdanka) and small pellet guns.
+\ru Наши родные и другие с маленькими ружьями Бердянкой и тозовкой, с ружьями бывая мужчины ходили на охоту.
+\ELANBegin 00:07:55.202
+\ELANEnd 00:08:12.414
+\ELANParticipant
+
+\id Kejmetinova_XA_various_060
+\tx Bujus...   bujusimŋel             bujutnewrer.
+\mb buju -s    buju -s    -E  -mŋE  -L  buju -s    -nE     -Gr(E) -r  
+\ps v          v                        v                             
+\ge hunt -mult hunt -mult -ep -agnr -pl hunt -mult -intent -hab   -3pl
+\ft Hunters went to hunt.
+\ru
+\ELANBegin 00:08:12.414
+\ELANEnd 00:08:16.418
+\ELANParticipant
+
+\id Kejmetinova_XA_various_061
+\tx Tarakam       abagada,         ŋeːlesmide                  họː họːja biwren.
+\mb tarakam       abaga       =DE  ŋeːlem         -RI       =DE  họː  họːja bi -Gr(E) -n(I)
+\ps adv           n                v                             adv  quant v              
+\ge in.those.days grandfather =ptl be.frightening -impf.ptc =ptl very many  be -hab   -3sg 
+\ft In those days there were a lot of bears and wolves.
+\ru Тогда медведей и волков очень много было.
+\ELANBegin 00:08:16.418
+\ELANEnd 00:08:22.645
+\ELANParticipant
+
+\id Kejmetinova_XA_various_062
+\tx Vot,   da.
+\mb vot    da   
+\ps ptl    ptl  
+\ge here.R yes.R
+
+\ru
+\ELANBegin 00:08:22.645
+\ELANEnd 00:08:24.010
+\ELANParticipant
+
+\id Kejmetinova_XA_various_063
+\tx Ńarịl    torre         horesmi                dʒaːlbụr          dʒụːla       emeːŋner,
+\mb ńarị -L  tor   -(dU)LE hor -E  -s(E)n -mI       dʒaː     -L  -WUr     dʒụː  -(dU)LE emeːn -Gr(E) -r  
+\ps ?        n             v                        ?                     n             v                
+\ge man  -pl earth -loc    go  -ep -lim   -cond.cvb relative -pl -prfl.pl house -loc    leave -hab   -3pl
+
+\tx emeːŋner.
+\mb emeːn -Gr(E) -r  
+\ps v                
+\ge leave -hab   -3pl
+
+\ft The men, when they went to hunt, left their families at home.
+\ru Мужчины когда едут на охоту своих родных дома оставлают. 
+\ELANBegin 00:08:24.010
+\ELANEnd 00:08:35.697
+\ELANParticipant
+
+\id Kejmetinova_XA_various_064
+\tx Emeːniken      sorgereritnen.
+\mb emeːn -nIkEn   hor -Gr(E) -RI  -tEn     
+\ps v              v                        
+\ge leave -sim.cvb go  -hab   -pst -poss.3pl
+\ft Leaving (them) they left.
+\ph the s- is due to her having written things down beforehand, and she sometimes wrote s for h, as in Sakha - and then when reading it off
+she read it literally. When she had pronounced it while writing she had said horgeritnen.
+\ru Оставляя уезжали.
+\ELANBegin 00:08:35.697
+\ELANEnd 00:08:38.479
+\ELANParticipant
+
+\id Kejmetinova_XA_various_065
+\tx Tarakam       abaγa      họː họːja biwren,         ńọːnčakta   họːja biwren.
+\mb tarakam       abaga       họː  họːja bi -Gr(E) -n(I) ńọŋčak =DE  họːja bi -Gr(E) -n(I)
+\ps adv           n           adv  quant v               n           quant v              
+\ge in.those.days grandfather very many  be -hab   -3sg  wolf   =ptl many  be -hab   -3sg 
+\ft In those days there were very many bears, and a lot of wolves.
+\ph ńoːnčak
+\ru Тогда медведей очень много было, и волков много было.
+\ELANBegin 00:08:38.479
+\ELANEnd 00:08:45.603
+\ELANParticipant
+
+\id Kejmetinova_XA_various_066
+\tx Dʒụːla,      dʒụːla,      dʒụːla       abaγa      emneken,                     kụŋal    ejenten
+\mb dʒụː  -(dU)LE dʒụː  -(dU)LE dʒụː  -(dU)LE abaga       em   -REk      -E  -n(I)     kụŋa  -L  enen   -tEn     
+\ps n             n             n             n           v                            n         n               
+\ge house -loc    house -loc    house -loc    grandfather come -cond.cvb -ep -poss.3sg child -pl mother -poss.3pl
+
+\tx abaγadụk         ečin      goːniken      al... goːniken      stammers altakkararịtnan:
+\mb abaga       -DUk(U) erroːčin  goːn -nIkEn   goːn -nIkEn   stammers alta     -Č   -Gr(E) -RI  -tEn     
+\ps n                   pron      v             v             interj   v                                  
+\ge grandfather -abl    prox.qual say  -sim.cvb say  -sim.cvb stammers persuade -res -hab   -pst -poss.3pl
+\ft When a bear came to the house (yurt), the children's mother asked the bear like this:
+\ph
+\gr she meant it to be 'mothers of children', but that would have been kụŋal eńelten; the form she used is singular possessor
+\ru Когда медведь приходил к жилищу мать детей так говоря просила.
+\ELANBegin 00:08:45.603
+\ELANEnd 00:09:13.202
+\ELANParticipant
+
+\id Kejmetinova_XA_various_067
+\tx Abaγaː,        hiː horri,       horeddi                toreŋneji.
+\mb abaga       -Eː  hiː hor -LI      hor -E  -D    -RI       tor   -E  -ŋ   -(dU)LE -J      
+\ps n                pron v            v                       n                              
+\ge grandfather -voc 2sg go  -imp.2sg go  -ep -prog -impf.ptc earth -ep -aln -loc    -prfl.sg
+
+\ft Grandfather, you go to the place where you were going.
+\ru Дедушка ты уходи в то место куда шел.
+\ELANBegin 00:09:13.202
+\ELANEnd 00:09:19.585
+\ELANParticipant
+
+\id Kejmetinova_XA_various_068
+\tx Mut    hinu         etep              altanna,         hiː ńan   mutu        edʒi        altanna.
+\mb mut    hin     -W   e   -t(E) -p      altan   -R       hiː ńaːn mut    -W   e   -LI      altan   -R      
+\ps pron   pron         v                 v                pron adv  pron        v            v               
+\ge 1pl.in 2sg.obl -acc neg -fut  -1pl.in annoy?? -neg.cvb 2sg and  1pl.in -acc neg -imp.2sg annoy?? -neg.cvb
+\ft We won't annoy you, and you also don't annoy us.
+\ru Мы тебя не будем дразнить, ты нас тоже не дразни.
+\ELANBegin 00:09:19.585
+\ELANEnd 00:09:27.255
+\ELANParticipant
+
+\id Kejmetinova_XA_various_069
+\tx Erew      torem          nọŋartan adịrada          adịrada          altatnịkan           goːngerer.
+\mb erek -W   tore  -n  -W   nọŋartan adịra         =DE  adịra         =DE  alta     -Č   -nIkEn   goːn -Gr(E) -r  
+\ps pron      v              pron     quant              quant              v                      v               
+\ge prox -acc speak -nr -acc 3pl      several.times =ptl several.times =ptl persuade -res -sim.cvb say  -hab   -3pl
+\ft They said these words several times, persuading (the bear).
+\ph adịlda
+\ru Это слово они несколько раз, уговаривая, говорили.
+\ELANBegin 00:09:27.255
+\ELANEnd 00:09:35.458
+\ELANParticipant
+
+\id Kejmetinova_XA_various_070
+\tx Oni neskolko raz povtorjajut, ja skazala.
+\mb
+\ge
+\ft I said they repeat it several times.
+\ru
+\ELANBegin 00:09:35.458
+\ELANEnd 00:09:38.214
+\ELANParticipant
+
+\id Kejmetinova_XA_various_071
+\tx Ee, zabyla-to!
+\mb
+\ge
+\ft Oh, I forgot!
+\nt Obviously means she forgot that she was being recorded and should speak Even.
+\ru
+\ELANBegin 00:09:38.214
+\ELANEnd 00:09:45.650
+\ELANParticipant
+
+\id Kejmetinova_XA_various_072
+\tx Abaga       nọŋmụtnan          dọlčịrịdʒị, ụtalgaran,              tarịt ńajụːkan  amaskị
+\mb abaga       nọŋan -W   -tEn      dọlčị  -RIdʒI   ụtal       -Gr(E) -E  -n(I) tarịt ńańụkụn amar   -skI     
+\ps n           pron                 v               v                           adv   adv     ?               
+\ge grandfather 3sg   -acc -poss.3pl listen -ant.cvb understand -hab   -ep -3sg  then  quietly behind -advb.all
+
+\tx mịːtnịkan     horeddi                toreŋtiki            horesŋeren.
+\mb mịːt      -nIkEn   hor -E  -D    -RI       tor   -E  -ŋ   -t(E)kI hor -E  -s(E)n -Gr(E) -n(I)
+\ps v                  v                       n                      v                          
+\ge move.back -sim.cvb go  -ep -prog -impf.ptc earth -ep -aln -all    go  -ep -lim   -hab   -3sg 
+\ft The bear heard them and understood, then it quietly moved back and walked off in the direction where it had been going.
+\ru Дедушка их послушавшись понимал, потом тихонько назад передвигавшись, уходил в то место куда шел.
+\ELANBegin 00:09:45.650
+\ELANEnd 00:09:59.339
+\ELANParticipant
+
+\id Kejmetinova_XA_various_073
+\tx Tačịn       abaga,      abagada,         ahịda    meːn meːntukurbur                   toŋkemetniken,
+\mb tarọːčịn  abaga       abaga       =DE  asị   =DE  meːn meːn -t(E)kI -WUr     -WUr     toŋke   -mEČ -nIkEn  
+\ps pron      n           n                n          pron pron                           v                    
+\ge dist.qual grandfather grandfather =ptl woman =ptl refl refl -all    -prfl.pl -prfl.pl respect -rec -sim.cvb
+
+\tx toŋkemetniken         hor... toŋkemetniken         horesmekkerer,               horesme      horehŋerer.
+\mb toŋke   -mEČ -nIkEn   hor toŋke   -mEČ -nIkEn   hor -E  -m   -Č   -Gr(E) -r   hor -E  -m   hor -E  -s(E)n -Gr(E) -r  
+\ps v                     v   v                     v                             v            v                         
+\ge respect -rec -sim.cvb go  respect -rec -sim.cvb go  -ep -des -res -hab   -3pl go  -ep -des go  -ep -lim   -hab   -3pl
+
+\ft Like that, the bear and the woman, respecting each other, went their way.
+\ph
+\gr horesmekkerer - incorrect word form; the double reflexive-possessive marking on meːntukur is also incorrect, should be meːn
+meːntukur; in Sebjan meːn meːntukur is synonymous with meːn meːnur 'each other'
+\nt
+\ru Так и медведь и женщина друг друга почитая, отправлялись.
+\ELANBegin 00:09:59.339
+\ELANEnd 00:10:19.957
+\ELANParticipant
+
+\id Kejmetinova_XA_various_074
+\tx Da?   ajịkan.
+\mb da    aj   -KEn    
+\ps ptl   adj          
+\ge yes.R good -dim.int
+\ft
+\nt It is not clear what she wanted to say here, IVK didn't know a word like 'ajukan' or 'ajịkan'
+\ru
+\ELANBegin 00:10:19.957
+\ELANEnd 00:10:22.843
+\ELANParticipant
+
+\id Kejmetinova_XA_various_075
+\tx Abaga       eheken                      horesme,              ahị, abaga       ịlgamnịkan,  kụŋalbị
+\mb abaga       e   -REk      -E  -n(I)     hor -E  -m   -R       asị   abaga       ịlgam -nIkEn   kụŋa  -L  -J      
+\ps n           v                           v                     n     n           v              n                 
+\ge grandfather neg -cond.cvb -ep -poss.3sg go  -ep -des -neg.cvb woman grandfather stand -sim.cvb child -pl -prfl.sg
+
+\tx adʒaːmị        meːn okeni           ọjị          nụknịkan      okeni           ičukekkeren.
+\mb ọdʒa     -mI       meːn okeń   -J       ọj      -J       nụk      -nIkEn   okeń   -J       it  -WkEn -Č   -Gr(E) -n(I)
+\ps v                  pron ?               n                v                 ?               v                          
+\ge care.for -cond.cvb refl breast -prfl.sg clothes -prfl.sg take.off -sim.cvb breast -prfl.sg see -caus -res -hab   -3sg 
+
+\ft If the bear didn't want to leave, if the bear stood (threatening), the woman, defending her children, took off her clothes and showed her
+breast.
+\ph ịlgamnọkọn
+\ru Если медведь не хочет уходить, когда медведь вставал, женщина защищая детей, свою грудь, снимая свою одежду, показывает
+свою грудь.
+\ELANBegin 00:10:22.843
+\ELANEnd 00:10:42.707
+\ELANParticipant
+
+\id Kejmetinova_XA_various_076
+\tx Abaga,      taraw      ittidʒi,    delbi  ọlọldarịdʒị,  tar   okeńu...
+\mb abaga       tarak -W   it  -RIdʒI   delbi  ọlalda        -RIdʒI   tarak okeń   -W  
+\ps n           pron       v            adv    v                      pron  n          
+\ge grandfather dist  -acc see -ant.cvb very.Y be.frightened -ant.cvb dist  breast -acc
+\ft The bear having seen that, being taken by surprise, that breast...
+\ru Медведь увидев это, сильно неожиданно восприняв вот эту грудь...
+\ELANBegin 00:10:42.707
+\ELANEnd 00:10:52.054
+\ELANParticipant
+
+\id Kejmetinova_XA_various_077
+\tx podoždi
+\mb
+\ge
+\ft wait
+\ru
+\ELANBegin 00:10:52.054
+\ELANEnd 00:10:56.773
+\ELANParticipant
+
+\id Kejmetinova_XA_various_078
+\tx Taraw      ittidʒi,    nọŋan ahị okemmen                  ittidʒi,    bụgaskị         horesŋeren.
+\mb tarak -W   it  -RIdʒI   nọŋan asị   okeń   -W   -E  -n(I)     it  -RIdʒI   bụg   -E  -skI      hor -E  -s(E)n -Gr(E) -n(I)
+\ps pron       v            pron  n     n                         v            ?                   v                          
+\ge dist  -acc see -ant.cvb 3sg   woman breast -acc -ep -poss.3sg see -ant.cvb earth -ep -advb.all go  -ep -lim   -hab   -3sg 
+\ft Having seen that, having seen the woman's breast, (the bear) goes off to the side.
+\ph
+\gr here, bụgaskị only has a meaning of 'v storonu', not 'v les'
+\ru Увидев это, он увидев грудь женщины, в сторону уходит.
+\ELANBegin 00:10:56.773
+\ELANEnd 00:11:04.690
+\ELANParticipant
+
+\id Kejmetinova_XA_various_079
+\tx Hu, ele ele...
+\mb
+\ge
+\ft Phew, barely, barely....
+\ru
+\ELANBegin 00:11:04.690
+\ELANEnd 00:11:07.433
+\ELANParticipant
+
+\id Kejmetinova_XA_various_080
+\tx mhm, dọl..
+\mb
+\ge
+\ft Mhm, I'm list(ening)
+\ru
+\ELANBegin 00:11:07.433
+\ELANEnd 00:11:09.188
+\ELANParticipant BP
+
+\id Kejmetinova_XA_various_081
+\tx če
+\mb če   
+\ps ptl  
+\ge ptl.Y
+
+\ru
+\ELANBegin 00:11:09.188
+\ELANEnd 00:11:11.346
+\ELANParticipant XAK
+
+\id Kejmetinova_XA_various_082
+\tx dọlčaram
+\mb dọlčị  -R(E)   -m  
+\ps v                  
+\ge listen -nonfut -1sg
+
+\ru
+\ELANBegin 00:11:11.346
+\ELANEnd 00:11:13.283
+\ELANParticipant BP
+
+\id Kejmetinova_XA_various_083
+\tx Tam vse vključeno, da?
+\mb
+\ge
+\ft Everything's switched on, yes?
+\ph
+\gr
+\nt We had again paused the recording in order for her to write down what she wanted to say, and then I switched it back on again.
+\ru
+\ELANBegin 00:11:13.283
+\ELANEnd 00:11:16.247
+\ELANParticipant XAK
+
+\id Kejmetinova_XA_various_084
+\tx Ńan   oːtel     ečin      biwrerin.
+\mb ńaːn oːtel      erroːčin  bi -Gr(E) -RI  -n(I)    
+\ps adv  adv        pron      v                       
+\ge and  previously prox.qual be -hab   -pst -poss.3sg
+\ft And then there was also this in the past.
+\ru Еще в старину так было.
+\ELANBegin 00:11:16.247
+\ELANEnd 00:11:20.979
+\ELANParticipant
+
+\id Kejmetinova_XA_various_085
+\tx Ebehel    anŋanịla    emneken                      bakaldamačakụ              biwetmekkerer.
+\mb ewen -SEl anŋan -(dU)LE em   -REk      -E  -n(I)     bak  -(E)ldE -mEČ -ČEk -W   bi -WEːČ -mEČ -Gr(E) -r  
+\ps n         n             v                            v                           v                        
+\ge Even -pl  year  -loc    come -cond.cvb -ep -poss.3sg find -soc    -rec -nr  -acc be -gnr  -rec -hab   -3pl
+\ft The Evens used to visit each other once a year.
+\ph
+\gr bakaldamačak should be dative case, she corrects herself in the next annotation
+\ru Эвены один раз в год ходят друг к другу на встречу.
+\ELANBegin 00:11:20.979
+\ELANEnd 00:11:28.922
+\ELANParticipant
+
+\id Kejmetinova_XA_various_086
+\tx Bakaldamačaktụ             biwetmekkerer.
+\mb bak  -(E)ldE -mEČ -ČEk -DU  bi -WEːČ -mEČ -Gr(E) -r  
+\ps v                           v                        
+\ge find -soc    -rec -nr  -dat be -gnr  -rec -hab   -3pl
+\ft Go visit each other.
+\ru
+\ELANBegin 00:11:28.922
+\ELANEnd 00:11:32.107
+\ELANParticipant
+
+\id Kejmetinova_XA_various_087
+\tx Tarakam       gọrụ tegetčel                    ńimeːrel       ọrọm               maːnịkan   bakaldawrar.
+\mb tarakam       gọrụ teg      -E  -Č   -čE     -L  ńimer     -E  -L  ọrọn              -W   maː  -nIkEn   bak  -(E)ldE -Gr(E) -r  
+\ps adv           adv  v                             n                 n                      v             v                       
+\ge in.those.days long sit.down -ep -res -pf.ptc -pl neighbour -ep -pl domestic.reindeer -acc kill -sim.cvb find -soc    -hab   -3pl
+\ft Then the family who had been living (in that place) for a long time met (the visitors) slaughtering a reindeer.
+\ru Тогда долго жившая семья забивая оленей, встречали.
+\ELANBegin 00:11:32.107
+\ELANEnd 00:11:39.634
+\ELANParticipant
+
+\id Kejmetinova_XA_various_088
+\tx Tarak gerben,         gerben          ńịmat.
+\mb tarak gerbe -n(I)     gerbe -n(I)     ńịmat
+\ps pron  n               n               n    
+\ge dist  name  -poss.3sg name  -poss.3sg nimat
+\ft That is called nimat.
+\ph
+\nt According to IVK, nimat is a hunting ritual and restricted to the animal obtained during the hunt, cf. Burtsev_ID_traditions_28 - 38;
+however, Neustroev_PD_nimat also calls the tradition of slaughtering a reindeer for visitors nimat.
+\ru Это называется нимат.
+\ELANBegin 00:11:39.634
+\ELANEnd 00:11:45.939
+\ELANParticipant
+
+\id Kejmetinova_XA_various_089
+\tx Vam ponjatno?
+\mb
+\ge
+\ft You understand?
+\ru
+\ELANBegin 00:11:45.939
+\ELANEnd 00:11:47.798
+\ELANParticipant
+
+\id Kejmetinova_XA_various_090
+\tx Tarak ńịmatụ   omettu   dʒebgerer.
+\mb tarak ńịmat -W   omettu   dʒep -Gr(E) -r  
+\ps pron  n          adv      v               
+\ge dist  nimat -acc together eat  -hab   -3pl
+\ft That nimat they ate together.
+\ru Этот нимат вместе кушали.
+\ELANBegin 00:11:47.798
+\ELANEnd 00:11:51.724
+\ELANParticipant
+
+\id Kejmetinova_XA_various_091
+\tx Emče        ńimeːrel,      dʒụːlawụr           horehendeːr,                   nọŋartan ńan
+\mb em   -čE     ńimer     -E  -L  dʒụː  -(dU)LE -WUr     hor -E  -s(E)n -DE       -WUr     nọŋartan ńaːn
+\ps v            n                 n                      v                                 pron     adv 
+\ge come -pf.ptc neighbour -ep -pl house -loc    -prfl.pl go  -ep -lim   -purp.cvb -prfl.pl 3pl      and 
+
+\tx ọrọm               maːnịkan   emeːŋner.
+\mb ọrọn              -W   maː  -nIkEn   emeːn -Gr(E) -r  
+\ps n                      v             v                
+\ge domestic.reindeer -acc kill -sim.cvb leave -hab   -3pl
+
+\ft The visitors (the family who had come), when they were about to leave for their home, also slaughtered a reindeer and left that.
+\ph
+\gr horehendeːr = kogda sobiralis' uexat' (even without nek- it has a meaning of 'be about to do')
+\ru Приехавшие люди (гости), перед тем как уехать домой, они тоже убивая олень оставляли.
+\ELANBegin 00:11:51.724
+\ELANEnd 00:12:00.707
+\ELANParticipant
+
+\id Kejmetinova_XA_various_092
+\tx Vot.
+\mb vot   
+\ps ptl   
+\ge here.R
+
+\ru
+\ELANBegin 00:12:00.707
+\ELANEnd 00:12:01.513
+\ELANParticipant 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Sebjan2010/sound_files/spontaneous_Marantz/Kejmetinova_XA_various.wav
+\ELANMediaMIME audio/x-wav

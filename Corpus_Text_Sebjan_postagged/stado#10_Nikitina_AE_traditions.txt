@@ -1,0 +1,274 @@
+\_sh v3.0  1060 Text
+
+\id stado#10_Nikitina_AE_traditions_000_metadata
+\ref Recorded on 14 March 2009, in the evening, in the winter house of the 10th reindeer brigade in a place called Bajindja, by Brigitte
+Pakendorf. The siblings Sergej Egorovich Nikitin (32 years old), Evgenij Egorovich Nikitin (36 yrs) and Anna Egorovna Nikitina
+(39 yrs) were sitting around the table with BP as well as their 12-year-old nephew Mitja. Different people spoke at different times,
+and the sound file was cut into different narratives. Anna spoke very softly, and sat quite far away from the microphone, so the
+quality of the recording is not so good
+\qu Transcription with pen and paper by Ija Vasilevna Krivoshapkina, transcription in ELAN by BP, Russian translation by IVK, glossing by BP.
+Funding by Max Planck Society (MPRG on Comparative Population Linguistics). Speaker abbreviation = AEN
+\ref Anna has worked as a chumrabotnitsa most of her life, right after school, so she only has her school education; Evgenij started to
+study twice in his younger years but broke off to return to reindeer herding, currently he is studying zaochno at the Selxos
+Akademija to become a zootexnik; Sergej has a diplom in music (sort of kultrabotnik, I think) and is currently studying zaochno,
+doing something like Volkskunde, the culture of the local peoples, mainly Yakut culture. The siblings are the children of
+Anastasija Xristoforovna Krivoshapkina. 
+
+\id stado#10_Nikitina_AE_traditions_001
+\tx Ọhọk hatlan                 ere  ahị miesten           bihni,           ebizetelne,    ahị...
+\mb ọhọk    hat  -(dU)LE -n(I)     erek asị   mesto   -n(I)     bi -R(E)   -n(I) objazatelno    asị  
+\ps n       rel                    pron n     n                 v                adv            n    
+\ge stove.Y base -loc    -poss.3sg prox woman place.R -poss.3sg be -nonfut -3sg  without.fail.R woman
+\ft Near the stove is the woman's place.
+\ru Возле печки находится женское место.
+\ph
+\gr
+\nt Her pronounciation of the Russian word objazatelnoe is here clearly influenced by the Sakha form of the word, ebeheːtelne
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:04.370
+\ELANParticipant
+
+\id stado#10_Nikitina_AE_traditions_002
+\tx [BP: Vy možete snačala, požalujsta...]
+\mb
+\ge
+\ft (BP, Russian): Could you (start) from the beginning, please.
+\ru
+\ph
+\nt I had already switched off the recorder, when she started again, so I was worried I might have missed some important information.
+\ELANBegin 00:00:04.370
+\ELANEnd 00:00:07.370
+\ELANParticipant
+
+\id stado#10_Nikitina_AE_traditions_003
+\tx [BP: Palatka...] Palatkala,      palatka, [MN palatkadụ] naːda... ọhọk hatlan
+\mb BP palatka palatka -(dU)LE palatka MN palatka -DU  nada   ọhọk    hat  -(dU)LE -n(I)    
+\ps ?  n       n               n       ?  n            v      n       rel                   
+\ge BP tent.R  tent.R  -loc    tent.R  MN tent.R  -dat need.R stove.Y base -loc    -poss.3sg
+
+\tx ahị miesten           biwren,         čọːŋaːl    gerbe.
+\mb asị   mesto   -n(I)     bi -Gr(E) -n(I) čọːŋaːl          gerbe
+\ps n     n                 v               n                n    
+\ge woman place.R -poss.3sg be -hab   -3sg  place.for.dishes name 
+\ft In the tent, by the stove is the woman's place, it's called chongal.
+\ru В палатке возле печки находится женское место, называется чонгал.
+\ph
+\gr palatkala = palatkadụ, no difference
+\ELANBegin 00:00:07.370
+\ELANEnd 00:00:13.460
+\ELANParticipant
+
+\id stado#10_Nikitina_AE_traditions_004
+\tx Abịza...     tala          bụọlla   ńarị ejekteːk     ịara.
+\mb objazatelno    tarak -(dU)LE buollaγïna ńarị e   -jEktEːk ịa      -R      
+\ps adv            pron          ptl        ?    v            v               
+\ge without.fail.R dist  -loc    dp.Y       man  neg -nec.Y   do.what -neg.cvb
+
+\ft There a man must not do something.
+\ru Там мужчина не должен что-то делать.
+\ph
+\ELANBegin 00:00:13.460
+\ELANEnd 00:00:16.940
+\ELANParticipant
+
+\id stado#10_Nikitina_AE_traditions_005
+\tx V smysle bez sprosu..
+\mb
+\ge
+\ft (AE, Russian): That is, without asking....
+\ELANBegin 00:00:16.940
+\ELANEnd 00:00:18.760
+\ELANParticipant
+
+\id stado#10_Nikitina_AE_traditions_006
+\tx Tar   oːterep           ịadʒịn,         tradịcịadʒịn.
+\mb tarak oːtel      -(E)rEp ịak  -Č   -n(I)     tradicija   -Č   -n(I)    
+\ps pron  adv                pron                n                         
+\ge dist  previously -adjr   what -ins -poss.3sg tradition.R -ins -poss.3sg
+
+\ft That's according to an old tradition.
+\ru Это по старинной традиции.
+\ph oːtelep
+\ELANBegin 00:00:18.760
+\ELANEnd 00:00:21.810
+\ELANParticipant
+
+\id stado#10_Nikitina_AE_traditions_007
+\tx Meːne   bez       sprọsa ejekteːk     igin, patamụšta ńarịŋị       tụspa      hịrkan
+\mb meːne    bez       sprọsa   e   -jEktEːk iŋin  potomučto.R ńarị -ŋI        tụspa        hịrkan
+\ps adv      postpos   n        v            ptl   ?           ?               adv          n     
+\ge simply.Y without.R asking.R neg -nec.Y   etc.Y because.R   man  -pred.poss separately.Y knife 
+
+\tx ńarịŋị,      a     ahịŋị       ńan   tụspa      bijekteːk,  poetomu..   ejekteːkel          taraw
+\mb ńarị -ŋI        a.R   asị   -ŋI        ńaːn tụspa        bi -jEktEːk poetomu     e   -jEktEːk -E  -L  tarak -W  
+\ps ?               ?     n                adv  adv          v           conj        v                    pron      
+\ge man  -pred.poss but.R woman -pred.poss and  separately.Y be -nec.Y   therefore.R neg -nec.Y   -ep -pl dist  -acc
+
+\tx ečin      ejekteːkel          ọmŋọr       tiːkerep    kụŋal    emie,  tar   ahị, gerbe
+\mb erroːčin  e   -jEktEːk -E  -L  ọmŋa   -R       tiek -(E)rEp kụŋa  -L  emie   tarak asị   gerbe
+\ps pron      v                    v               adv          n         adv    pron  n     n    
+\ge prox.qual neg -nec.Y   -ep -pl forget -neg.cvb now  -adjr   child -pl also.Y dist  woman name 
+
+\tx čọːŋaːldụ     ahịńụn  bijekteːk   toreŋen.
+\mb čọːŋaːl          -DU  asị   =ńUn   bi -jEktEːk tor   -E  -ŋ   -E  -n(I)    
+\ps n                     n            v           n                           
+\ge place.for.dishes -dat woman =restr be -nec.Y   earth -ep -aln -ep -poss.3sg
+
+\ft Because men's (things) are separate, a men's knife, a woman's (things) must also be separate, therefore.... they mustn't forget this,
+modern children as well, in the chongal it must be only the woman's place.
+\ru Потому что у мужчин отдельно, нож мужской, у женщин тоже отдельно должно быть, поэтому... они не должны это забывать,
+современные дети тоже, в чонгале только место нахождения женщины.
+\gr hịrkan narịŋị - the knife belongs to the man; here, they frequently say ejekteːkel for the 3PL Sakha Necessitative; 3SG ejekteːk,
+3PL ejekteːkel or ejekteːktere (they say both), 1Pl ejekteːkpit, 2PL ejekteːkkit, 1SG ejekteːkpin (translation session
+quest_comment_narrative280309, 16min15)
+\ELANBegin 00:00:21.810
+\ELANEnd 00:00:37.080
+\ELANParticipant
+
+\id stado#10_Nikitina_AE_traditions_008
+\tx Ahị awhụŋan                   tụspa      biwren,         hịrkaŋan                tụspa,     er   haŋanaptị
+\mb asị   awhụ       -ŋ   -E  -n(I)     tụspa        bi -Gr(E) -n(I) hịrkan -ŋ   -E  -n(I)     tụspa        erek haŋan -E  -B   -RI      
+\ps n     n                             adv          v               n                         adv          pron v                       
+\ge woman sewing.bag -aln -ep -poss.3sg separately.Y be -hab   -3sg  knife  -aln -ep -poss.3sg separately.Y prox sew   -ep -med -impf.ptc
+
+\tx ịan           bütünnüː tụspa.
+\mb ịak  -n(I)     bütünnüː   tụspa       
+\ps pron           ?          adv         
+\ge what -poss.3sg entirely.Y separately.Y
+\ft A woman's bag for sewing implements is separate, her knife is separate, everything for sewing is separate.
+\ru У женщины бывает отдельная сумка для швейных принадлежностей, нож отдельно, все для шитья все отдельно.
+\ph
+\gr haŋanaptị ịan = ee čto-to dlja šitja; haŋanapča ịan = ee šitoe čto-nibud'
+\ELANBegin 00:00:37.080
+\ELANEnd 00:00:43.740
+\ELANParticipant
+
+\id stado#10_Nikitina_AE_traditions_009
+\tx Ńarịla       emie   awhụn              biwren,         ńarịŋị       tụspa      biwren          tara,
+\mb ńarị -(dU)LE emie   awhụ       -n(I)     bi -Gr(E) -n(I) ńarị -ŋI        tụspa        bi -Gr(E) -n(I) tarak
+\ps n            adv    n                    v               ?               adv          v               pron 
+\ge man  -loc    also.Y sewing.bag -poss.3sg be -hab   -3sg  man  -pred.poss separately.Y be -hab   -3sg  dist 
+
+\tx tụspa      haŋanaptịn                      tara, egdʒen ịalbu       igin.
+\mb tụspa        haŋan -E  -B   -RI       -n(I)     tarak egdʒen ịak  -L  -W   iŋin 
+\ps adv          v                                  pron  adj    pron          ptl  
+\ge separately.Y sew   -ep -med -impf.ptc -poss.3sg dist  big    what -pl -acc etc.Y
+\ft Men also have a little bag for sewing implements, a man's bag is separate, that for sewing is separate, big something or other.
+\ru У мужчины тоже есть вот сумка маленькая, у мужчины отдельная бывает, тоже для шитья отдельно, большие что-то.
+\ph ọgdʒen
+\gr
+\ELANBegin 00:00:43.740
+\ELANEnd 00:00:49.220
+\ELANParticipant
+
+\id stado#10_Nikitina_AE_traditions_010
+\tx Tara.
+\mb tarak
+\ps pron 
+\ge dist 
+
+\ELANBegin 00:00:49.220
+\ELANEnd 00:00:49.600
+\ELANParticipant
+
+\id stado#10_Nikitina_AE_traditions_011
+\tx Inmetne          daže  tụstụspa         biwren          tara  ahịŋịda          ńarịŋịda
+\mb inme   -tEn      daže   tụs     tụspa        bi -Gr(E) -n(I) tarak asị   -ŋI        =DE  ńarị -ŋI        =DE 
+\ps n                ptl    ptl     adv          v               pron  n                     ?                   
+\ge needle -poss.3pl even.R redup.Y separately.Y be -hab   -3sg  dist  woman -pred.poss =ptl man  -pred.poss =ptl
+
+\tx emie   tụstụspa.
+\mb emie   tụs     tụspa       
+\ps adv    ptl     adv         
+\ge also.Y redup.Y separately.Y
+\ft Even needles are separate, a woman's, a man's also completely separate.
+\ru Даже иголки бывают отдельные, отдельно и женское и мужское.
+\ph
+\ELANBegin 00:00:49.600
+\ELANEnd 00:00:54.530
+\ELANParticipant
+
+\id stado#10_Nikitina_AE_traditions_012
+\tx Tara. [BP: mm].
+\mb tarak BP mm 
+\ps pron  ?  excl
+\ge dist  BP mhm
+
+\ELANBegin 00:00:54.530
+\ELANEnd 00:00:56.110
+\ELANParticipant
+
+\id stado#10_Nikitina_AE_traditions_013
+\tx [MN: whispers in her ear, tuspa bihin honte...]
+\mb
+\ge
+\ft (MN, not all audible, Even): 
+\ELANBegin 00:00:56.110
+\ELANEnd 00:00:59.290
+\ELANParticipant
+
+\id stado#10_Nikitina_AE_traditions_014
+\tx Mm, hontekičen        biwren          tara, ńarịŋịda          ahịŋịda.
+\mb mm  honte -kI   -tEn   bi -Gr(E) -n(I) tarak ńarị -ŋI        =DE  asị   -ŋI        =DE 
+\ps excl adj                v               pron  ?                    n                    
+\ge mhm other -adjr -distr be -hab   -3sg  dist  man  -pred.poss =ptl woman -pred.poss =ptl
+
+\ft (Things) are different, are a man's and a woman's (i.e. you have separate men's and women's items).
+\ru Разное бывает и мужское и женское/и мужчины и женщины.
+\ph
+\gr ix raznye (veshi) would be hontekitnen (i.e. if it were poss.3pl rather than the distributive)
+\nt hontekičen does not exist, so she must have meant to say hontekiten
+\ELANBegin 00:00:59.290
+\ELANEnd 00:01:02.900
+\ELANParticipant
+
+\id stado#10_Nikitina_AE_traditions_015
+\tx Crackling fire, tea being poured.
+\ELANBegin 00:01:02.900
+\ELANEnd 00:01:06.640
+\ELANParticipant
+
+\id stado#10_Nikitina_AE_traditions_016
+\tx Ọl_ihin   tar   ọmọlgọl  ejekteːkel          tara  ahị ịalan                 ejekteːkel
+\mb ọl_ihin     tarak ọmọlga -L  e   -jEktEːk -E  -L  tarak asị   ịak  -(dU)LE -n(I)     e   -jEktEːk -E  -L 
+\ps conj        pron  n          v                    pron  n     pron                   v                   
+\ge therefore.Y dist  boy    -pl neg -nec.Y   -ep -pl dist  woman what -loc    -poss.3sg neg -nec.Y   -ep -pl
+
+\tx emnin.
+\mb em   -RI  -n(I)    
+\ps v                  
+\ge come -pst -poss.3sg
+\ft That is why guys mustn't come into a woman's (place).
+\ru Поэтому парни не должны на женское не должны приходить.
+\ph
+\gr emnin is clearly the wrong form, it should be emne; we are not entirely sure whether she did not perhaps say "emni" (come!) to
+someone, since we don't have a video for this, but it is quite likely that she meant to say ejekteːkel emne and her tongue slipped
+\ELANBegin 00:01:06.640
+\ELANEnd 00:01:10.870
+\ELANParticipant
+
+\id stado#10_Nikitina_AE_traditions_017
+\tx Ọl_ihin tar tadụk... otsjuda vyxodit čto ženščina ne dolžna perestupat' čerez maːwut, vot eto.
+\mb
+\ge
+\ft (AE, Even, Russian): From that it follows that a woman mustn't step over a lasso.
+\ru
+\ph
+\ELANBegin 00:01:10.870
+\ELANEnd 00:01:17.080
+
+\id stado#10_Nikitina_AE_traditions_018
+\tx Ženščina tọže... Ahị emie   ejekteːk     ịara           taraw.
+\mb ženščina tože   asị   emie   e   -jEktEːk ịa      -R       tarak -W  
+\ps n        ptl    n     adv    v            v                pron      
+\ge woman.R  also.R woman also.Y neg -nec.Y   do.what -neg.cvb dist  -acc
+\ft A woman also mustn't do whatever.
+\ru Женщина тоже не должна что-то делать.
+\ph
+\ELANBegin 00:01:17.080
+\ELANEnd 00:01:20.960
+\ELANParticipant 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/Desktop/Sebjan_Kuel2009/sound_files/narratives/04stado#10_Nikitina_AE_traditions.wav
+\ELANMediaMIME audio/x-wav

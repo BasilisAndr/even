@@ -1,0 +1,1767 @@
+\_sh v3.0  1090 Text
+
+\id ZAS_jubki_Aniwrin_000_metadata
+\ref Recorded on 23 February 2010 in Sebjan-Küöl by Natalia Aralova and Brigitte Pakendorf. ZAS somewhat unexpectedly came to the flat where
+NA and BP are staying - we'd expected her the evening before, when she hadn't come on account of the rather watchful dog that belongs to the
+owner of the flat. We were therefore not fully prepared, hurriedly set up the recording equipment - and as it turned out after 50 minutes of
+recording, accidentally hadn't started the video recording properly. The video was recorded in a mpeg format to the memory card of the Sony
+handycam, so the quality of the recording is rather low - which is a great pity, because ZAS was very animated and used a lot of gestures,
+especially in the beginning. The entire session therefore was transcribed only with the Marantz sound files (recorded in mono). Overall, it was
+very quiet, at most a fly might be heard buzzing around the table. The session consists of one long recording of over 50 minutes in which ZAS
+touched upon various topics, often turning from one to the other without much pause. To facilitate the further workflow (transcription,
+translation, glossing) we cut up the sound file into 5 separate files that are archived separately. In some cases the cut is made at a slightly
+arbitrary point, but in general the individually archived sessions deal with separate topics. 
+\qu Transcribed by Ekaterina Igorevna Shadrina (pen and paper) in 2010, and in 2012 transcribed in ELAN by BP, Russian translation by Ija Vasil'evna
+Krivoshapkina, glossing by BP. Funding by Volkswagen Foundation (DoBeS grant). Speaker abbreviation = ZAS.
+\ref Zoja Afanas'evna Stepanova was 60 years old at time of recording, primary school teacher, social pedagogue (socpedagog) and leader of
+folklore ensemble Merlenke, very much in favour of literary/standard Even language, feels that there are not many differences between
+different dialects, mutual intelligibility, very much against all the mixing of Even and Sakha here in Sebjan (“eto ne Lamunxinskij govor”),
+very interested in Even folklore and language. Sister of Afanasij Afanas'evič Stepanov
+\tx
+
+\id ZAS_jubki_Aniwrin_001
+\tx Tar   Taškenna        ịal     biwreritnen,             arabal.
+\mb tarak Taškent  -(dU)LE ịak  -L  bi -Gr(E) -RI  -tEn      arab -E  -L 
+\ps pron  n                pron     v                        ?           
+\ge dist  Tashkent -loc    what -pl be -hab   -pst -poss.3pl Arab -ep -pl
+
+\ft There in Tashkent there were Arabs.
+\ru Там в Ташкенте были арабы.
+\ELANBegin 00:00:00.040
+\ELANEnd 00:00:04.470
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_002
+\tx Dụrakamajal             arabal.
+\mb dụran     -kU   -mEjE -L  arab -E  -L 
+\ps v                         ?           
+\ge get.dirty -adjr -aug  -pl Arab -ep -pl
+
+\ft Very dark arabs.
+\ph sounds like burwamajar
+\ru Черные (грязные) арабы.
+\ELANBegin 00:00:04.470
+\ELANEnd 00:00:06.700
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_003
+\tx Omen arab ọmọlgọn        bihin.
+\mb omen arab ọmọlga -n(I)     bi -RI  -n(I)    
+\ps num  ?    n                v                
+\ge one  Arab boy    -poss.3sg be -pst -poss.3sg
+\ft There was one Arab guy (young man).
+\ru Был один араб парень.
+\ELANBegin 00:00:06.700
+\ELANEnd 00:00:09.370
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_004
+\tx Ha... ịak, Karskoe_mo..., tartịkị   bihnihni,               Krasnoe_more, irekgu,   tadụk
+\mb ha ịak  Karskoe_more tarak -t(E)kI bi -R(E)   -n(I) =hni    Krasnoe_more irek  =GU tarak -DUk(U)
+\ps excl pron ?            pron          v                        ?            pron      pron         
+\ge ha what Kara.Sea     dist  -all    be -nonfut -3sg  =affirm Red.Sea      which =q  dist  -abl   
+
+\tx biwettin
+\mb bi -WEːČ -RI  -n(I)    
+\ps v                      
+\ge be -gnr  -pst -poss.3sg
+
+\ft The Kara Sea, it's in that direction, right, the Red Sea or from where, he was from there.
+\ph
+\ru Карское море, там же есть, с Красного моря или откуда оттуда он (родом).
+\ELANBegin 00:00:09.370
+\ELANEnd 00:00:16.570
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_005
+\tx Tarịt Tašmore gerbe bihni,          iskustvennaj more.
+\mb tarịt Tašmore  gerbe bi -R(E)   -n(I) iskustvennaj more 
+\ps adv   ?        n     v                ?            n    
+\ge then  Tash-Sea name  be -nonfut -3sg  artificial.R sea.R
+\ft There there's the so-called Tash-Sea, an artificial sea.
+\ru Потом, там есть Ташморе, искуственное море
+\ELANBegin 00:00:16.570
+\ELANEnd 00:00:20.550
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_006
+\tx Tala          nelke        horge...   hor... ịanamị                horgererit,                  dʒịː stude....
+\mb tarak -(dU)LE nelkeni      hor -Gr(E) hor ịa      -nE     -mI       hor -Gr(E) -RI  -t(I)        dʒIː student  
+\ps pron          n            v          v   v                         v                            ?    n        
+\ge dist  -loc    early.spring go  -hab   go  do.what -intent -cond.cvb go  -hab   -pst -poss.1pl.in aff  student.R
+\ft That spring we went there to do something, right.
+\ru Это весной мы туда что-то делать ходили.
+\ELANBegin 00:00:20.550
+\ELANEnd 00:00:26.920
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_007
+\tx Ńọka studelni                dʒoːrel,     tarịt tara... mut    dʒoːr asatkan bihit,               ńọkal,   tarak
+\mb ńọka  student   -L  -n(I)     dʒoːr -E  -L  tarịt tarak mut    dʒoːr asatkan bi -RI  -t(I)        ńọka  -L  tarak
+\ps n     n                       num           adv   pron  pron   num   n       v                    n         pron 
+\ge Sakha student.R -pl -poss.3sg two   -ep -pl then  dist  1pl.in two   girl    be -pst -poss.1pl.in Sakha -pl dist 
+
+\tx gịawụr      umuritnen.
+\mb gịa    -WUr     em   -U    -RI  -tEn     
+\ps ?               v                        
+\ge friend -prfl.pl come -caus -pst -poss.3pl
+\ft Two Sakha students, and then we were two girls, Sakha, and they brought this friend of theirs.
+\ph
+\gr
+\nt obviously, here the affiliation with Sakha is due to ZAS having come from Yakutia, so all of these "Sakha" would have come from one region;
+possibly some of the other "Sakha" were not really ethnic Sakha, either; and there were five people in total, the two Sakha students, the two
+"Sakha" girls, and one Arab
+\ru Двое якутских студентов, потом, мы двое девушек якуток были, этого своего  друга привезли они.
+\ELANBegin 00:00:26.920
+\ELANEnd 00:00:35.540
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_008
+\tx Jụbkalkan.
+\mb jubka   -lkEn
+\ps n            
+\ge skirt.R -prop
+\ft He's wearing a skirt.
+\ru Он в юбке.
+\ELANBegin 00:00:35.540
+\ELANEnd 00:00:38.180
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_009
+\tx Jụbkajị      ehni           nụkkarar,              dʒịː.
+\mb jubka   -J       e   -R(E) -n(I) nụk      -Gr(E) -R       dʒIː
+\ps n                v               v                        ?   
+\ge skirt.R -prfl.sg neg -nfut -3sg  take.off -hab   -neg.cvb aff 
+\ft He doesn't take off his skirt.
+\ph ehli 
+\ru Он юбку свою не снимает.
+\ELANBegin 00:00:38.180
+\ELANEnd 00:00:40.150
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_010
+\tx Tar   okazyvaetsja nọŋartan abyčajatnan              ere  asatkan biddeken,                        asị
+\mb tarak okazyvaetsja nọŋartan obyčaj      -E  -tEn      erek asatkan bi -D    -REk      -E  -n(I)     asị  
+\ps pron  v            pron     n                         pron n       v                                n    
+\ge dist  it.seems.R   3pl      tradition.R -ep -poss.3pl prox girl    be -prog -cond.cvb -ep -poss.3sg woman
+
+\tx biddeken,                        jụbkawụr     ečel...
+\mb bi -D    -REk      -E  -n(I)     jubka   -WUr     e   -čE     -L 
+\ps v                                n                v              
+\ge be -prog -cond.cvb -ep -poss.3sg skirt.R -prfl.pl neg -pf.ptc -pl
+\ft It seems that they have a tradition that if a girl is present, if a woman is present, they don't (take off) their skirt
+\ru Оказывается у них такой обычай, если девушка есть, если женщина есть, юбку  свою не
+\ELANBegin 00:00:40.150
+\ELANEnd 00:00:45.530
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_011
+\tx Taraw      mut    hurkeŋelti                       jụbkawan                ečin      taːŋnar         ХХХ
+\mb tarak -W   mut    hurkeːn -ŋ   -E  -L  -t(I)        jubka   -W   -E  -n(I)     erroːčin  taːn -Gr(E) -r   *ХХХ
+\ps pron       pron   n                                 n                          pron      v                ?   
+\ge dist  -acc 1pl.in boy     -aln -ep -pl -poss.1pl.in skirt.R -acc -ep -poss.3sg prox.qual pull -hab   -3pl *** 
+
+\tx tarịjamajakan           naŋtịmattịdʒị
+\mb tarak -jEkEː    -n(I)     naŋtị -n    -WEːČ -RIdʒI  
+\ps pron                      v                         
+\ge dist  -directly -poss.3sg grab  -mult -gnr  -ant.cvb
+
+\ft (In response) to that our boys pulled his skirt like this, XXX, grabbing
+\ph
+\gr I asked ZAS and she said there is no such word as tarịmajakan, only tarịjakaːn, "tot" with some nuance that she couldn't explain, so the way I
+glossed it would seem to fit; when I asked IVK on 270312 what tarịjakaːn might mean, she said she didn't know the word and therefore she
+couldn't say what it meant; naŋtịmattịdʒị = xvataja mnogo raz
+\nt she laughs so hard that it is impossible to make out what she says
+\ru На это наши парни его юбку дергали, ХХХ ХХХ хватая
+\ELANBegin 00:00:45.530
+\ELANEnd 00:00:54.580
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_012
+\tx Mutu        jụbkalkanda      biden,                 ịalkanda       biden,                 muttu       da_lampočki,
+\mb mut    -W   jubka   -lkEn =DE  bi -DE       -n(I)     ịak  -lkEn =DE  bi -DE       -n(I)     mut    -DU  do_lampočki         
+\ps pron        n                  v                      pron            v                      pron        adv                 
+\ge 1pl.in -acc skirt.R -prop =ptl be -purp.cvb -poss.3sg what -prop =ptl be -purp.cvb -poss.3sg 1pl.in -dat couldn't.care.less.R
+
+\tx goːli.
+\mb goːn -LI     
+\ps v            
+\ge say  -imp.2sg
+\ft We couldn't care less whether he's wearing a skirt or not, right.
+\ph
+\gr mutu in the beginning is incorrect, should be muttu, with dative case
+\ru Нас с юбкой и без юбки, для нас до лампочки, да. (Нам с юбкой он или без  юбки, без разницы.)
+\ELANBegin 00:00:54.580
+\ELANEnd 00:00:58.920
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_013
+\tx Nọŋan tar   muttuk         ịamị,         herkemi              tar   jụbkajị      eniken       nụkra           tarịt
+\mb nọŋan tarak mut    -DUk(U) ịa      -mI       herken     -mI       tarak jubka   -J       e   -nIkEn   nụk      -R       tarịt
+\ps pron  pron  pron           v                 v                    pron  n                v            v                 adv  
+\ge 3sg   dist  1pl.in -abl    do.what -cond.cvb be.ashamed -cond.cvb dist  skirt.R -prfl.sg neg -sim.cvb take.off -neg.cvb then 
+
+\tx ịala,       ịak herdelen                    tegekkeren,                   ịak hịakịta herdelen.
+\mb ịak  -(dU)LE ịak  her    -gIdE -(dU)LE -n(I)     teg      -E  -Č   -Gr(E) -n(I) ịak  hịakịta her    -gIdE -(dU)LE -n(I)    
+\ps pron         pron rel.n                          v                              pron n       rel.n                         
+\ge what -loc    what bottom -part -loc    -poss.3sg sit.down -ep -res -hab   -3sg  what tree    bottom -part -loc    -poss.3sg
+\ft Feeling shy in front of us he didn't take off his skirt, then he sits under a tree.
+\ru Он это нас стесняясь не снимая юбку свою, потом он сидит под деревом.
+\ELANBegin 00:00:58.920
+\ELANEnd 00:01:10.300
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_014
+\tx Ịaldaŋajahni,          taraw      hurker       ịrbatta            davaj zagaratj, pajdjọm  zagaratj
+\mb ịaldan   -ŋEjE    =hni    tarak -W   hurkeːn -L  ịr   -WEːČ -R(E)   davaj zagorat' pojdёm     zagorat'
+\ps v                         pron       n           v                  ptl   v        v          v       
+\ge be.black -aug.adj =affirm dist  -acc boy     -pl drag -gnr  -nonfut ptl.R tan.R    let's.go.R tan.R   
+
+\ft He was black, right, so the boys dragged him "let's go tan!".
+\ph
+\ru Он же черный, а парни тащут
+\ELANBegin 00:01:10.300
+\ELANEnd 00:01:17.570
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_015
+\tx Čto emu zagoratj-to.
+\ft What should he tan for?
+\ELANBegin 00:01:17.570
+\ELANEnd 00:01:19.620
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_016
+\tx Hergel          goːniken,     toː nọŋman               ịrbakkarar             tarịt
+\mb hor -GEr        goːn -nIkEn   nọŋan -W   -n(I)     ịr   -WEːČ -Gr(E) -r   tarịt
+\ps v               v             pron                 v                      adv  
+\ge go  -imp.1pl.in say  -sim.cvb 3sg   -acc -poss.3sg drag -gnr  -hab   -3pl then 
+\ft Saying "Let's go!" they drag him.
+\ph
+\gr toː - IVK didn't know what it might mean (and couldn't care less, obviously)
+\ru Говоря идем его тащут
+\ELANBegin 00:01:19.620
+\ELANEnd 00:01:23.890
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_017
+\tx Tačịn       họː hebdʒeje       bihin.
+\mb tarọːčịn  họː  hebdʒeń  -(h)E bi -RI  -n(I)    
+\ps pron      adv  v              v                
+\ge dist.qual very be.funny -excl be -pst -poss.3sg
+\ft That was very funny.
+\ru так было очень смешно.
+\ELANBegin 00:01:23.890
+\ELANEnd 00:01:26.700
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_018
+\tx Nọŋan ịaldaŋaja,     ịaw      zagaratj nọŋandụn.
+\mb nọŋan ịaldan   -ŋEjE    ịak  -W   zagorat' nọŋan -DU  -n(I)    
+\ps pron  v                 pron      v        pron                
+\ge 3sg   be.black -aug.adj what -acc tan.R    3sg   -dat -poss.3sg
+
+\ft He's completely black, why should he tan.
+\ph
+\gr ịaw = correct, has a meaning of "what for"
+\ru Он черный так, что ему загорать.
+\ELANBegin 00:01:26.700
+\ELANEnd 00:01:30.110
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_019
+\tx Mut    tala,         mut    ńọːbatị, biː ńọːbatị, er   ịaw      bekečen            ńọːbatị bihem,          tarịt.
+\mb mut    tarak -(dU)LE mut    ńọːbatị biː ńọːbatị erek ịak  -W   bekeč -E  -n(I)     ńọːbatị bi -R(E)   -m   tarịt
+\ps pron   pron          pron   adj     pron adj     pron pron      adv                 adj     v               adv  
+\ge 1pl.in dist  -loc    1pl.in white   1sg white   prox what -acc all   -ep -poss.3sg white   be -nonfut -1sg then 
+
+\ft We on the other hand are white, I am white, my whatever is totally white.
+\ph
+\gr 270312: asked, whether mut tala might express a contrast, but IVK only said that she said "my tam" and obviously didn't really feel like thinking
+about nuances of meaning; bihem = estj
+\ru А мы белые, я белая, это мое что-то все белое я была.
+\ELANBegin 00:01:30.110
+\ELANEnd 00:01:36.840
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_020
+\tx Tar   Sọčịlada          biddeket                           tar   abxazets hurker       iŋin:
+\mb tarak Sọčị  -(dU)LE =DE  bi -D    -REk      -E  -t(I)        tarak abxazets hurkeːn -L  iŋin 
+\ps pron  n                  v                                   pron  ?        n           ptl  
+\ge dist  Sochi -loc    =ptl be -prog -cond.cvb -ep -poss.1pl.in dist  Abkhaz   boy     -pl etc.Y
+\ft When we were in Sochi the Abkhaz boys also said:
+\ph Sočidada
+\gr 270312: in Sebjan, iŋin has a meaning of tože, one can also say ịawrar iŋin "oni tože delajut"
+\ru Когда мы были в Сочи абхаские парни тоже что-то говории
+\ELANBegin 00:01:36.840
+\ELANEnd 00:01:41.670
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_021
+\tx Huː iduk          biwečidʒes?
+\mb huː irek  -DUk(U) bi -WEːČ -D    -R(E)   -s  
+\ps pron pron          v                          
+\ge 2pl which -abl    be -gnr  -prog -nonfut -2pl
+\ft "Where are you from?"
+\ru Вы откуда?
+\ELANBegin 00:01:41.670
+\ELANEnd 00:01:43.020
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_022
+\tx Mut    Srednij_Azija   goːniken      dʒịː.
+\mb mut    Srednjaja_Azija goːn -nIkEn   dʒIː
+\ps pron   ?               v             ?   
+\ge 1pl.in Central.Asia    say  -sim.cvb aff 
+\ft We said "Central Asia", right.
+\ru Мы Средней Азия говоря
+\ELANBegin 00:01:43.020
+\ELANEnd 00:01:45.460
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_023
+\tx Emneken        emie   Sọčịla,      Leningradtuk      Olga Nikiforovnańun   Sọčịla       emeddit.
+\mb omen -REkEn    emie   Sọčị  -(dU)LE Leningrad -DUk(U) Olga Nikiforovna -ńUn Sọčị  -(dU)LE em   -E  -D    -RI  -t(I)       
+\ps num            adv    n             n                 ?    n                n             v                               
+\ge one  -iter.adv also.Y Sochi -loc    Leningrad -abl    Olga Nikiforovna -com Sochi -loc    come -ep -prog -pst -poss.1pl.in
+\ft Once we again came to Sochi from Leningrad together with Olga Nikiforovna.
+\ph
+\gr plural verb marking with comitative = the two participants are equally involved, singular subject agreement = the speaker is central
+\ru Однажды опять в Сочи из Ленинграда с Олга Никифоровна в Сочи ехали.
+\ELANBegin 00:01:45.460
+\ELANEnd 00:01:50.600
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_024
+\tx Tarak dʒulde     bihin.
+\mb tarak dʒul  -gIdE bi -RI  -n(I)    
+\ps pron  rel.n       v                
+\ge dist  front -part be -pst -poss.3sg
+\ft That was before.
+\ru Это было раньше.
+\ELANBegin 00:01:50.600
+\ELANEnd 00:01:52.060
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_025
+\tx Ee, erek anŋanịldụ     ńan,  er   Taškendụla    emeddeku
+\mb ee erek anŋan -E  -L  -DU  ńaːn erek Taškent  -(dU)LE em   -E  -D    -REk      -W       
+\ps interj pron n                  adv  pron n                v                                 
+\ge eh prox year  -ep -pl -dat and  prox Tashkent -loc    come -ep -prog -cond.cvb -poss.1sg
+\ft It was also in those years, when I came to Tashkent.
+\ru В эти годы тоже, когда я ехала в Ташкент
+\ELANBegin 00:01:52.060
+\ELANEnd 00:01:55.596
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_026
+\tx Mut    čerez    Tašken, erek Olga Nikiforovna Leningradla       hupkučeku        mụdakrịdʒị Sọčịlị,
+\mb mut    čerez     Taškent  erek Olga Nikiforovna Leningrad -(dU)LE hupkut -ČEk -W   mụdak  -RIdʒI   Sọčị  -(dU)LI
+\ps pron   postpos   ?        pron ?    ?           n                 v                v               n            
+\ge 1pl.in through.R Tashkent prox Olga Nikiforovna Leningrad -loc    learn  -nr  -acc finish -ant.cvb Sochi -prol  
+
+\tx Taškenduli,     er   Sebeːndule           emennen,                    biː Taškendụla    emebennew.
+\mb Taškent  -(dU)LI erek Sebjan-Küöl -(dU)LE em   -E  -nnE     -n(I)     biː Taškent  -(dU)LE emeːn -B   -E  -nnE     -W       
+\ps n                pron n                   v                           pron n                v                                
+\ge Tashkent -prol   prox Sebjan-Küöl -loc    come -ep -nec.ptc -poss.3sg 1sg Tashkent -loc    leave -med -ep -nec.ptc -poss.1sg
+\ft We went through Tashkent, Olga Nikiforovna had finished her studies in Leningrad and was supposed to come to Sebjan via Sochi and
+Tashkent, I was supposed to stay in Tashkent.
+\ph
+\gr 270312: hupkeček = lit. "school", but here "studies"; emennen, emebennew have a non-past meaning, to express past tense one would add
+bihin, biː emebennew bihin; one can also specify emebennew bidʒin, but that is not really necessary
+\ru Мы через Ташкент, вот Ольга Никифоровна в Ленинграде закончив учебу через  Сочи и Ташкент в Себян должна приехать, а я должна в
+Ташкенте остаться.
+\ELANBegin 00:01:55.596
+\ELANEnd 00:02:08.726
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_027
+\tx Tala          Sọčịla,      abxaz  bereglen                   zagarajda     dessidniken
+\mb tarak -(dU)LE Sọčị  -(dU)LE abxaz  bereg       -(dU)LE -n(I)     zagaraj   -DE desči -D    -nIkEn  
+\ps pron          n             ?      n                             v             v                   
+\ge dist  -loc    Sochi -loc    Abkhaz riverbank.R -loc    -poss.3sg tan.imp.R -vr lie   -prog -sim.cvb
+
+\ft There in Sochi lying on the beach...
+\ph zagarajda... probably wanted to say zagarajdadnịkan
+\gr
+\qu is "Abxazskij bereg" a geographical term?
+\ru Там в Сочи на абхаском берегу, загорая лежа
+\ELANBegin 00:02:08.726
+\ELANEnd 00:02:15.057
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_028
+\tx Huː iduk          biwečidʒes,                 goːn.
+\mb huː irek  -DUk(U) bi -WEːČ -D    -R(E)   -s   goːn
+\ps pron pron          v                           v   
+\ge 2pl which -abl    be -gnr  -prog -nonfut -2pl say 
+\ft "Where are you from?", they say.
+\ru Вы откуда_
+\ELANBegin 00:02:15.057
+\ELANEnd 00:02:17.306
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_029
+\tx Mut    Srednij_Azija   bihep.
+\mb mut    Srednjaja_Azija bi -R(E)   -p     
+\ps pron   ?               v                 
+\ge 1pl.in Central.Asia    be -nonfut -1pl.in
+\ft "We are from Central Asia."
+\ph
+\gr 270312: Srednij_Azija without case-marking is fine, correct, with a meaning of "we're from there"
+\ru Мы из Ср. Азии.
+\ELANBegin 00:02:17.306
+\ELANEnd 00:02:19.360
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_030
+\tx Huː Srednij_Azija   ehes             bihe!
+\mb huː Srednjaja_Azija e   -R(E)   -s   bi -R      
+\ps pron ?               v                v          
+\ge 2pl Central.Asia    neg -nonfut -2pl be -neg.cvb
+\ft "You aren't from Central Asia!"
+\ru Вы не из Ср. Азии
+\ELANBegin 00:02:19.360
+\ELANEnd 00:02:21.622
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_031
+\tx Ọːn haːs     huː?
+\mb ọːn haː  -s   huː
+\ps pron v         pron
+\ge how know -2pl 2pl
+\ft "How did you know?"
+\ru Как вы узнали?
+\ELANBegin 00:02:21.622
+\ELANEnd 00:02:23.221
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_032
+\tx Tọːr asatkan dessidden,                bekečen            ńọːbatị!
+\mb tarak asatkan desči -D    -R(E)   -n(I) bekeč -E  -n(I)     ńọːbatị
+\ps pron  n       v                         adv                 adj    
+\ge dist  girl    lie   -prog -nonfut -3sg  all   -ep -poss.3sg white  
+
+\ft "That girl lying there is completely white!"
+\ph
+\gr 270312: again said tọːr meant "von tam", but then when I asked whether it was like tala she corrected it to "vot"
+\ru Вон девушка лежит, вся белая.
+\ELANBegin 00:02:23.221
+\ELANEnd 00:02:28.057
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_033
+\tx Srednij_Azija   ńọːbatị ehni           bihe        goːniken.
+\mb Srednjaja_Azija ńọːbatị e   -R(E) -n(I) bi -R       goːn -nIkEn  
+\ps ?               adj     v               v           v            
+\ge Central.Asia    white   neg -nfut -3sg  be -neg.cvb say  -sim.cvb
+\ft "Those from Central Asia aren't white", they said.
+\ru Из Ср. Азии белым не бывает
+\ELANBegin 00:02:28.057
+\ELANEnd 00:02:30.462
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_034
+\tx Vot ona že belenkaja vsja, eto, koža belaja, eshe ne zagorela, kakaja tam Srednaja Azija!
+\ft She is all white, right, white skin, not tanned yet, how could that be Central Asia!
+\ELANBegin 00:02:30.462
+\ELANEnd 00:02:37.443
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_035
+\tx Tačịn       goːŋner,        ee.
+\mb tarọːčịn  goːn -Gr(E) -r   ee
+\ps pron      v                interj
+\ge dist.qual say  -hab   -3pl eh
+\ft That's what they say.
+\ru Так говорит
+\ELANBegin 00:02:37.443
+\ELANEnd 00:02:38.496
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_036
+\tx Tarịt tar
+\mb tarịt tarak
+\ps adv   pron 
+\ge then  dist 
+
+\ft And then...
+\ph mumbles something
+\ru потом вот
+\ELANBegin 00:02:38.496
+\ELANEnd 00:02:41.551
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_037
+\tx Ịaldaŋakan,    ečin      karičnevaj ọːkan        zagarajdarịdʒụr,      tar   ńoltendu.
+\mb ịaldan   -ŋEkEn   erroːčin  koričnevyj ọː     -kEn     zagaraj   -DE -RIdʒI   -L  tarak ńolten -DU 
+\ps v                 pron      adj        v               v                          pron  n          
+\ge be.black -dim.adj prox.qual brown.R    become -trm.cvb tan.imp.R -vr -ant.cvb -pl dist  sun    -dat
+
+\ft Black, until we became brown we tanned, in that sun
+\ph ịaːltanka instead of ịaldańakan
+\gr
+\ru черненкие, до становления коричнего загорев на солнце
+\ELANBegin 00:02:41.551
+\ELANEnd 00:02:48.896
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_038
+\tx Tarịt.
+\mb tarịt
+\ps adv  
+\ge then 
+
+\ru
+\ELANBegin 00:02:48.896
+\ELANEnd 00:02:49.884
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_039
+\tx Tarakam       mọda    bihin,            elekuːs ečin,     mini,  tačịn       mut    minit       biwettit.
+\mb tarakam       moda      bi -RI  -n(I)     elekes   erroːčin  mini   tarọːčịn  mut    mini   -Č   bi -WEːČ -RI  -t(I)       
+\ps adv           n         v                 ?        pron      adj    pron      pron   adj         v                         
+\ge in.those.days fashion.R be -pst -poss.3sg at.first prox.qual mini.R dist.qual 1pl.in mini.R -ins be -gnr  -pst -poss.1pl.in
+
+\ft In those days the fashion was mini skirts, like that we went around in mini skirts.
+\ph
+\gr 270312: asked IVK, and she again said that Zoja says bihin here, though to me it sounds like bihni; 
+\ru Тогда была мода, только так мини, мы в мини ходили.
+\ELANBegin 00:02:49.884
+\ELANEnd 00:02:54.798
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_040
+\tx Srednij_Azija   wabše       ne    razreša..., ee, esten       hurkеŋ...   hụnaːdʒalbụr,         nọŋartan
+\mb Srednjaja_Azija voobše       ne    razrešat' ee e   -R(E)   hurkeːn -ŋ   hụnaːdʒ  -E  -L  -WUr     nọŋartan
+\ps ?               adv          ptl   v         interj v           n            n                         pron    
+\ge Central.Asia    in.general.R neg.R allow.R   eh neg -nonfut boy     -aln daughter -ep -pl -prfl.pl 3pl     
+
+\tx ịstalkahal       ịalkahal,      goːli.
+\mb štany   -lkEn -SEl ịak  -lkEn -SEl goːn -LI     
+\ps n                  pron            v            
+\ge pants.R -prop -pl  what -prop -pl  say  -imp.2sg
+\ft In Central Asia they don't allow that at all, their sons... their daughters, they wear pants or something, right.
+\ph
+\gr 270312: IVK said there is no Even verb for "allow" and that that explains why Zoja has such problems expressing this
+\ru Ср. Азии вообще не разрешает, не своих (парни) дочерей, они в штанах в  чем-то
+\ELANBegin 00:02:54.798
+\ELANEnd 00:03:02.182
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_041
+\tx Im ne palọženo goːmdeŋe. 
+\ft It's not allowed
+\ph
+\gr 270312: maybe wanted to say goːmdʒiŋe "imejushij vozmozhnostj bytj skazannym"
+\ELANBegin 00:03:02.182
+\ELANEnd 00:03:04.340
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_042
+\tx Mut    ečin      ta    dʒe   abxazihal        kojeːtte       mutu
+\mb mut    erroːčin  tarak dʒe    abxazets -E  -L  kojeːt  -R(E)   mut    -W  
+\ps pron   pron      pron  ptl    ?                v               pron       
+\ge 1pl.in prox.qual dist  well.Y Abkhaz   -ep -pl look.at -nonfut 1pl.in -acc
+
+\ft We like that, and the Abkhaz looked at us:
+\ph
+\ru Мы так, а абхазцы на нас посмотрели
+\ELANBegin 00:03:04.340
+\ELANEnd 00:03:07.577
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_043
+\tx Huː huː jụbkahnan       erbečen
+\mb huː huː jubka   -sEn      erroːčin 
+\ps pron pron n                 pron     
+\ge 2pl 2pl skirt.R -poss.2pl prox.qual
+\ft "Your skirts are like this."
+\ru У вас юбки такие
+\ELANBegin 00:03:07.577
+\ELANEnd 00:03:10.645
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_044
+\tx Dʒe,  dʒaːnịhlan          amtịhlan            hunu         entukendʒir                         ebeːt goːniken
+\mb dʒe    dʒaː     -SEl -sEn      aman   -SEl -sEn      hun     -W   ente                -WkEn -DʒI -r   ebet   goːn -nIkEn  
+\ps ptl    n                       n                     pron         v                                   ptl    v            
+\ge well.Y relative -pl  -poss.2pl father -pl  -poss.2pl 2pl.obl -acc have.bad.experience -caus -fut -3pl emph.Y say  -sim.cvb
+
+\tx itmi          goːnne.
+\mb it  -mI       goːn -R(E)  
+\ps v             v           
+\ge see -cond.cvb say  -nonfut
+
+\ft "Well, your families, your fathers will really punish you if they see you", they said.
+\ru ваши родные отцы вас накажут если вас увидят.
+\ELANBegin 00:03:10.645
+\ELANEnd 00:03:15.900
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_045
+\tx A nam da lampočki.
+\ft And we couldn't care less.
+\ELANBegin 00:03:15.900
+\ELANEnd 00:03:19.120
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_046
+\tx Tara  họː hebdʒeje       bihin
+\mb tarak họː  hebdʒeń  -(h)E bi -RI  -n(I)    
+\ps pron  adv  v              v                
+\ge dist  very be.funny -excl be -pst -poss.3sg
+
+\ft That was very funny.
+\ph I do not hear bihin, but IVK heard it on two very different occasions
+\ru Очень смешно было.
+\ELANBegin 00:03:19.120
+\ELANEnd 00:03:21.270
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_047
+\tx Tačịn       hebdʒeje.
+\mb tarọːčịn  hebdʒeń  -(h)E
+\ps pron      v             
+\ge dist.qual be.funny -excl
+\ft So funny.
+\ph hebdʒije, with a sibilant following which is probably just her drawing in her breath
+\ru Так смешно.
+\ELANBegin 00:03:21.270
+\ELANEnd 00:03:23.050
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_048
+\tx Teːmi    tarak ajakịː      tar   dʒọnakụ,                Leningratu     dʒọnakụ                 tar   ịaka,
+\mb teːmi     tarak aj   -E  =kE   tarak dʒọn     -REk      -W        Leningrad -W   dʒọn     -REk      -W        tarak ịak 
+\ps conj      pron  adj            pron  v                            n              v                            pron  pron
+\ge therefore dist  good -ep =emph dist  remember -cond.cvb -poss.1sg Leningrad -acc remember -cond.cvb -poss.1sg dist  what
+
+\tx ịala        biwečiddij                             metro,  irek  tarak ajakie,        noste bidʒin.
+\mb ịak  -(dU)LE bi -WEːČ -E  -D    -RI       -J       metro   irek  tarak aj   -E  =kE   noste bi -DʒI -n(I)
+\ps pron         v                                     n       pron  pron  adj            adj   v            
+\ge what -loc    be -gnr  -ep -prog -impf.ptc -prfl.sg metro.R which dist  good -ep =emph young be -fut -3sg 
+
+\ft That was so good, when I remember, when I remember Leningrad, my being there, the metro, this and that, so good, when I was young.
+\ph tar dʒọnakụ - she says something like tọn, which could be tar or ọttọn
+\gr 270312: asked about ịala biwečiddij metro - she said something isn't quite right, but that it was OK, pustj budet tak (I had wondered about the
+missing locative case marker); noste bidʒin - is not correct of course, literally molodoj budet, but there is no form with bidʒi that one could say
+about oneself
+\ru Очень хорошо когда вспоминаю, когда вспоминаю Ленинград, там что-то там  где-то мое бывание, метро это хорошо, когда был молодым.
+\ELANBegin 00:03:23.050
+\ELANEnd 00:03:36.671
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_049
+\tx Tarịt ere  dʒoːr anŋanịw  ịala        biwettem                biː, vystavkala.
+\mb tarịt erek dʒoːr anŋan -W   ịak  -(dU)LE bi -WEːČ -R(E)   -m   biː vystavka     -(dU)LE
+\ps adv   pron num   n          pron         v                     pron n                   
+\ge then  prox two   year  -acc what -loc    be -gnr  -nonfut -1sg 1sg exhibition.R -loc   
+\ft Then, for two years I went to the exhibition.
+\ph
+\gr 270312: dʒoːr anŋanị čaːwdalan = 2 goda tomu nazad
+\nt this refers to an annual exhibition of folklore items from around the Russian Federation that takes place in the big VDNKh fairgrounds in
+Moscow
+\ru Потом 2 года (подряд) я ходила на выставку. (so this must be 2 years ago)
+\ELANBegin 00:03:36.671
+\ELANEnd 00:03:42.742
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_050
+\tx Jakutskajla     họː butenniken       biwettem                dʒịː, oo Maskvala       ịhmị        ọːn
+\mb Jakutsk -(dU)LE họː  buteːn -nIkEn   bi -WEːČ -R(E)   -m   dʒIː oo Moskva -(dU)LE ịs    -mI       ọːn
+\ps n               adv  v               v                     ?    interj n              v               pron
+\ge Yakutsk -loc    very be.ill -sim.cvb be -gnr  -nonfut -1sg aff  oh Moscow -loc    reach -cond.cvb how
+
+\tx biwetčiːm           ečin      goːniken.
+\mb bi -WEːČ -DʒI -m   erroːčin  goːn -nIkEn  
+\ps v                  pron      v            
+\ge be -gnr  -fut -1sg prox.qual say  -sim.cvb
+\ft In Yakutsk I was very ill, right, "oh, when I reach Moscow how will I manage", I said.
+\ph lengthened vowel for emphasis in biwetčiːm
+\ru В Якутске я очень болея ходила, доехав до Москвы как я буду ходить, так  говоря.
+\ELANBegin 00:03:42.742
+\ELANEnd 00:03:50.061
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_051
+\tx Tala          ịhramda               - nosegčemdes!
+\mb tarak -(dU)LE ịs    -R(E)   -m   =DE  nosegčen -mdEs
+\ps pron          v                       ?             
+\ge dist  -loc    reach -nonfut -1sg =ptl young    -sml 
+\ft I got there and immediately (became) like young!
+\ph
+\gr 270312: the meaning of "srazu" comes from the =DE
+\ru Туда доехала и сразу как молодая. 
+\ELANBegin 00:03:50.061
+\ELANEnd 00:03:53.753
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_052
+\tx Metrola         iːremde,               nosegčemdes    ọːram!
+\mb metro   -(dU)LE iː    -R(E)   -m   =DE  nosegčen -mdEs ọː     -R(E)   -m  
+\ps n               v                       ?              v                  
+\ge metro.R -loc    enter -nonfut -1sg =ptl young    -sml  become -nonfut -1sg
+\ft As soon as I go into the metro I become like young!
+\ru зайдя в метро и сразу как молодая
+\ELANBegin 00:03:53.753
+\ELANEnd 00:03:56.873
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_053
+\tx Daže  ere  maːtakat                   bihni           tala,         ńụč  maːtak,   biː plemjannitsaw
+\mb daže   erek maːtak     -E  -t(I)        bi -R(E)   -n(I) tarak -(dU)LE ńụča    maːtak     biː plemjannitsa -W       
+\ps ptl    pron n                           v                pron          n       n          pron n                     
+\ge even.R prox son-in-law -ep -poss.1pl.in be -nonfut -3sg  dist  -loc    Russian son-in-law 1sg niece.R      -poss.1sg
+
+\tx etikeŋen.
+\mb etikeːn -ŋ   -E  -n(I)    
+\ps n                         
+\ge old.man -aln -ep -poss.3sg
+\ft And there is our son-in-law there, a Russian son-in-law, the husband of my niece.
+\ph
+\nt
+\ru вот у нас зять есть русский зять муж моей племянницы.
+\ELANBegin 00:03:56.873
+\ELANEnd 00:04:05.583
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_054
+\tx Nọnan  ịhmị        ọːngul     biče      bihem           dʒịː, ịahal  ịtịːwụ       bekeččenni.
+\mb nọnan    ịs    -mI       ọːn =(W)Ul bi -čE     bi -R(E)   -m   dʒIː ịašal ịtịː -W        bekeč -čEn -n(I)    
+\ps adv      v               pron       v          v               ?    n     n              adv                 
+\ge at.first reach -cond.cvb how =indef be -pf.ptc be -nonfut -1sg aff  eyes  face -poss.1sg all   -dim -poss.3sg
+
+\ft When I first got there I was like whatever, hey, eyes, my face, everything.
+\ph
+\ru сначала доехав я какая-то была глаза лицо все
+\ELANBegin 00:04:05.583
+\ELANEnd 00:04:09.743
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_055
+\tx Tarịt kojeːtte       minu:        Vy         kak   bystro                preobrazilis,                   vy         daže pomolodeli,                 go
+\mb tarịt kojeːt  -R(E)   min     -W   ge   
+\ps adv   v               pron         excl 
+\ge then  look.at -nonfut 1sg.obl -acc exclm
+\ft They looked at me: "You have changed so quickly, you have even become younger!"
+\ru Они смотрели на меня
+\ELANBegin 00:04:09.743
+\ELANEnd 00:04:15.697
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_056
+\tx Dʒiŋ za šitannye, dʒiŋ za dva dnja u menja i maršin netu
+\ft Really, in a couple of days even my wrinkles had disappeared! 
+\ph
+\nt dʒiŋ = a Sakha adverb 'really', all the rest is Russian
+\ELANBegin 00:04:15.697
+\ELANEnd 00:04:20.845
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_057
+\tx Ịak bičeːdʒin           tarak?
+\mb ịak  bi -čE     -DʒI -n(I) tarak
+\ps pron v                     pron 
+\ge what be -pf.ptc -fut -3sg  dist 
+\ft What can that be?
+\ru Что это может быть?
+\ELANBegin 00:04:20.845
+\ELANEnd 00:04:22.197
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_058
+\tx Čto za fenomen?
+\ft What phenomenon is that?
+\ELANBegin 00:04:22.197
+\ELANEnd 00:04:24.069
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_059
+\tx Ot...  idukkul              eŋi   emnen.
+\mb ot     irek  -DUk(U) =(W)Ul eŋi    em   -R(E)   -n(I)
+\ps postpos pron                 adj    v                 
+\ge from.R which -abl    =indef strong come -nonfut -3sg 
+
+\ft From somewhere strength came.
+\ru Откуда-то сила пришла.
+\ELANBegin 00:04:24.069
+\ELANEnd 00:04:27.956
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_060
+\tx Ọːn biwetčim             goːniken      mergettiw               biː, họːč    mergettiw.
+\mb ọːn bi -WEːČ -DʒI -m   goːn -nIkEn   mergeːt -RI  -W        biː họː  -Č   mergeːt -RI  -W       
+\ps pron v                  v             v                      pron adv       v                     
+\ge how be -gnr  -fut -1sg say  -sim.cvb think   -pst -poss.1sg 1sg very -ins think   -pst -poss.1sg
+\ft How will I manage I worried, I worried a lot.
+\ru Как я буду ходить я переживала, очень сильно переживала.
+\ELANBegin 00:04:27.956
+\ELANEnd 00:04:31.120
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_061
+\tx Hečusekie,            ọːn metrola         biwettem,               ọːn ịala        biwettem,
+\mb hečus      -(h)E =kE   ọːn metro   -(dU)LE bi -WEːČ -R(E)   -m   ọːn ịak  -(dU)LE bi -WEːČ -R(E)   -m  
+\ps adv                    pron n               v                     pron pron         v                    
+\ge exhausting -excl =emph how metro.R -loc    be -gnr  -nonfut -1sg how what -loc    be -gnr  -nonfut -1sg
+
+\tx vystavkaj             ọːna
+\mb vystavka     -J       ọːn -E 
+\ps n                     pron   
+\ge exhibition.R -prfl.sg how -ep
+
+\ft So tiring, how will I go on the metro, how will I go somewhere, how the exhibition
+\ph
+\gr ọːna = ọːn
+\ru утомительно, как я в метро буду, как я где-то буду выставка как
+\ELANBegin 00:04:31.120
+\ELANEnd 00:04:36.800
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_062
+\tx Dʒe   nosegčen kụŋalńun      tuten....
+\mb dʒe    nosegčen kụŋa  -L  -ńUn tut -E  -n   
+\ps ptl    ?        n              v            
+\ge well.Y young    child -pl -com run -ep -mult
+
+\ft Well, running with the young children
+\ph
+\gr she didn't finish the verb tuten... so it's not clear whether she wanted to say tutenniw or tutenniken or tutennem
+\ru вместе с молодыми детьми бегая
+\ELANBegin 00:04:36.800
+\ELANEnd 00:04:39.710
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_063
+\tx Tara, ịak bičedʒin,            dʒe?
+\mb tarak ịak  bi -čE     -DʒI -n(I) dʒe   
+\ps pron  pron v                     ptl   
+\ge dist  what be -pf.ptc -fut -3sg  well.Y
+\ft Well, what can that be?
+\ru что это может быть?
+\ELANBegin 00:04:39.710
+\ELANEnd 00:04:41.910
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_064
+\tx Ee novaja myslj??
+\nt no idea what this is supposed to be, hard to make out - not important
+\ELANBegin 00:04:41.910
+\ELANEnd 00:04:43.190
+\ELANParticipant BP
+
+\id ZAS_jubki_Aniwrin_065
+\tx Dʒulep,      dʒulle,      nosegčen bihŋij               Maskvala       ịhmị        dịlụ
+\mb dʒul  -(E)rEp dʒul  -(dU)LE nosegčen bi -ŋsI      -J       Moskva -(dU)LE ịs    -mI       dịl  -W       
+\ps rel.n         rel.n         ?        v                     n              v               n             
+\ge front -adjr   front -loc    young    be -impf.cvb -prfl.sg Moscow -loc    reach -cond.cvb head -poss.1sg
+
+\tx họː enniken,      naabarọt        tarakam       butenni           bihiw.
+\mb họː  en   -nIkEn   naoborot          tarakam       buteːn -RI       bi -RI  -W       
+\ps adv  v             adv               adv           v                v                
+\ge very hurt -sim.cvb on.the.contrary.R in.those.days be.ill -impf.ptc be -pst -poss.1sg
+
+\ft In the past, when I was young, when I got to Moscow my head hurt badly, then I used to be ill on the contrary.
+\ph a abira - maybe she wanted to say "naoborot", 
+\gr butenni bihiw = imperfect, she used to be ill in the past, duration or repeated action in the past
+\nt in contrast to now then she was ill when she got to Moscow
+\ru раньше когда была молодой доехав в Москву голова у меня сильно болея тогда  я болела.
+\ELANBegin 00:04:43.190
+\ELANEnd 00:04:52.050
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_066
+\tx Tiːk haːgdịnnịdʒị, tala          aj   ọːča,      ele          keńeli ọːča.
+\mb tiek hagdị -n  -RIdʒI   tarak -(dU)LE aj   ọː     -čE     erek -(dU)LE keńeli ọː     -čE    
+\ps adv  v                  pron          adj  v              pron         adj    v             
+\ge now  old   -vr -ant.cvb dist  -loc    good become -pf.ptc prox -loc    bad    become -pf.ptc
+\ft Now I have become old, there it has become good, here it has become bad.
+\ru Сейчас постарев там стало хорошо здесь стало плохо
+\ELANBegin 00:04:52.050
+\ELANEnd 00:04:55.960
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_067
+\tx Značit,  tartịkị   nulgeŋegu,           ịaŋagụ.
+\mb značit    tarak -t(E)kI nulge   -ŋE       =GU ịa      -ŋE       =GU
+\ps ptl       pron          v                     v                    
+\ge that.is.R dist  -all    migrate -nmdl.cvb =q  do.what -nmdl.cvb =q 
+\ft Does that mean that I should move there or what?
+\ru значит мне туда переехать или что
+\ELANBegin 00:04:55.960
+\ELANEnd 00:04:58.130
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_068
+\tx Mindu        ŋiː kvartiraw,        hindule         emdʒim,        nulgedʒim         haːwdị
+\mb min     -DU  ŋiː kvartira     -W   hin     -(dU)LE em   -DʒI -m   nulge   -DʒI -m   hagdị
+\ps pron         pron n                 pron            v              v                 adj  
+\ge 1sg.obl -dat who appartment.R -acc 2sg.obl -loc    come -fut -1sg migrate -fut -1sg old  
+
+\ft Who will give me an appartment, I will come, move, to you, when I am old.
+\ph
+\gr haːwdị - she may have wanted to say haːwdịnnịdʒị 'having become old', as translated by IVK
+\nt this was said to NA who comes from the Moscow area
+\ru кто мне квартиру, я к тебе приду, перееду постарев
+\ELANBegin 00:04:58.130
+\ELANEnd 00:05:04.280
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_069
+\tx mindule,        mindule
+\mb min     -(dU)LE min     -(dU)LE
+\ps pron            pron           
+\ge 1sg.obl -loc    1sg.obl -loc   
+\ft to me, to me
+\ru
+\ELANBegin 00:05:04.280
+\ELANEnd 00:05:06.820
+\ELANParticipant NA
+
+\id ZAS_jubki_Aniwrin_070
+\tx Họː aj   vystavka,    mut    tarakam       ere  medalu       garịt                ńan   gịawanụ ịaw      boːritnen,
+\mb họː  aj   vystavka     mut    tarakam       erek medal'  -W   ga   -RI  -t(I)        ńaːn gịawanụ   ịak  -W   boː  -RI  -tEn     
+\ps adv  adj  n            pron   adv           pron n            v                      adv  adv       pron      v                  
+\ge very good exhibition.R 1pl.in in.those.days prox medal.R -acc take -pst -poss.1pl.in and  last.year what -acc give -pst -poss.3pl
+
+\tx dịplọmụ  boːritnen.
+\mb diplom    -W   boː  -RI  -tEn     
+\ps n              v                  
+\ge diploma.R -acc give -pst -poss.3pl
+
+\ft It was a very good exhibition, then we received a medal, and last year they gave us what, they gave us a diploma.
+\ru Очень хорошая выставка, мы тогда медали взяли в прошлом году диплом дали
+\ELANBegin 00:05:06.820
+\ELANEnd 00:05:17.180
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_071
+\tx Gịawanụ tar   miestewur        tietewče                bihit.
+\mb gịawanụ   tarak mesto   -WUr     tiete     -W     -čE     bi -RI  -t(I)       
+\ps adv       pron  n                v                        v                   
+\ge last.year dist  place.R -prfl.pl take.away -advrs -pf.ptc be -pst -poss.1pl.in
+
+\ft Last year we lost our place
+\ph
+\ru В прошлом году у нас забрали место наше
+\ELANBegin 00:05:17.180
+\ELANEnd 00:05:20.170
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_072
+\tx Miestewur        tamgararap                 ehni           ečin      ịan,          ịak, kvadratnaj_mietr ile
+\mb mesto   -WUr     tam -Gr(E) -R(E)   -p      e   -R(E) -n(I) erroːčin  ịak  -n(I)     ịak  kvadratnyj_meter irek  -(dU)LE
+\ps n                v                          v               pron      pron           pron ?                pron         
+\ge place.R -prfl.pl pay -hab   -nonfut -1pl.in neg -nfut -3sg  prox.qual what -poss.3sg what square.metre.    which -loc   
+
+\tx vystavka     ịlụnnawụr.
+\mb vystavka     ịl       -U    -nnE     -WUr    
+\ps n            v                               
+\ge exhibition.R stand.up -caus -nec.ptc -prfl.pl
+
+\ft We pay for the place, right, the square metre where we are supposed to put up our exhibition.
+\ph
+\gr 270312: ịlụnnawụr is the direct object of tamgararap, platim za to kuda budem stavitj; knigaw tamgararap, dʒụːw tamgararap - pay for
+something takes accusative case marking
+\gr in Sebjan: ịlụjaktaːkaŋụr svoe dolzhenstvovanie postavit
+\ru Мы же платим за место кв метр где должны поставить выставку
+\ELANBegin 00:05:20.170
+\ELANEnd 00:05:27.060
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_073
+\tx Taraŋụt                   tieteče          bihitnen,         tar   Jakutijala       iːrit                  bekečen.
+\mb tarak -ŋ   -W   -t(I)        tiete     -čE     bi -RI  -tEn      tarak Jakutija -(dU)LE iː    -RI  -t(I)        bekeč -E  -n(I)    
+\ps pron                         v                 v                 pron  n                v                       adv                
+\ge dist  -aln -acc -poss.1pl.in take.away -pf.ptc be -pst -poss.3pl dist  Yakutia  -loc    enter -pst -poss.1pl.in all   -ep -poss.3sg
+
+\ft They took that of ours away, we all joined (entered) Yakutia (i.e. the exhibition stall of the Republic).
+\ph
+\gr probably wanted to say bekečendʒur
+\ru Этонаше отобрали у нас, мы в Якутию вошли все
+\ELANBegin 00:05:27.060
+\ELANEnd 00:05:30.340
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_074
+\tx Dʒuleptuk            mut    ere  Sebjan        wabše       egdʒoːn plošatụ    gača        bihitnen
+\mb dʒul  -(E)rEp -DUk(U) mut    erek Sebjan-Küöl voobše       egdʒen plošad' -W   ga   -čE     bi -RI  -tEn     
+\ps rel.n                 pron   pron ?           adv          adj    n            v            v                
+\ge front -adjr   -abl    1pl.in prox Sebjan-Küöl in.general.R big    space.R -acc take -pf.ptc be -pst -poss.3pl
+
+\ft From early on, this Sebjan used to take an enormous space (at the exhibition hall).
+\ph
+\gr 270312: her use of gača bihitnen implies that she didn't witness that, that it happened before her times; if she had witnessed it herself she should
+have said garịt;  dʒuleptuk = s prežnix vremen
+\ru с прежних времен этот Себян вообще огромную площадь взяли
+\ELANBegin 00:05:30.340
+\ELANEnd 00:05:35.760
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_075
+\tx Họːja ịak herrin            tam... họːjaw     tamnịt
+\mb họːja ịak  hor -RI  -n(I)     tam họːja -W   tam -RI  -t(I)       
+\ps quant pron v                  v   quant      v                    
+\ge many  what go  -pst -poss.3sg pay many  -acc pay -pst -poss.1pl.in
+
+\ft A lot went there, we paid a lot
+\ph
+\ru много этого ушло много заплатили
+\ELANBegin 00:05:35.760
+\ELANEnd 00:05:38.560
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_076
+\tx VDNXla?
+\mb VDNX  -(dU)LE
+\ps n            
+\ge VDNKh -loc   
+\ft at the VDNKh (fair grounds?)
+\ru
+\ELANBegin 00:05:38.560
+\ELANEnd 00:05:38.990
+\ELANParticipant NA
+
+\id ZAS_jubki_Aniwrin_077
+\tx ee, VDNXla
+\mb ee VDNX  -(dU)LE
+\ps interj n            
+\ge eh VDNKh -loc   
+\ft yes, at the VDNKh
+\ru
+\ELANBegin 00:05:38.990
+\ELANEnd 00:05:40.180
+\ELANParticipant ZAS
+
+\id ZAS_jubki_Aniwrin_078
+\tx họːjaw     tamnịt
+\mb họːja -W   tam -RI  -t(I)       
+\ps quant      v                    
+\ge many  -acc pay -pst -poss.1pl.in
+\ft We paid a lot.
+\ru много заплатили
+\ELANBegin 00:05:40.180
+\ELANEnd 00:05:42.100
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_079a
+\tx Tarda      bisiklen                        ajịč      biwettep,                  meːnur        ičukenep,                ere
+\mb tarak =DE  bi -RI       -klE     -n(I)     aj   -E  -Č   bi -WEːČ -R(E)   -p      meːn -WUr     it  -WkEn -R(E)   -p      erek
+\ps pron       v                               adj           v                        pron          v                         pron
+\ge dist  =ptl be -impf.ptc -all.loc -poss.3sg good -ep -ins be -gnr  -nonfut -1pl.in refl -prfl.pl see -caus -nonfut -1pl.in prox
+
+\tx Sebjan        bihni           goːniken.
+\mb Sebjan-Küöl bi -R(E)   -n(I) goːn -nIkEn  
+\ps ?           v                v            
+\ge Sebjan-Küöl be -nonfut -3sg  say  -sim.cvb
+\ft Nevertheless we went very well, we showed ourselves, that there is this Sebjan.
+\ru Но несмотря на это хорошо мы ходили себя показали вот что Себян есть 
+\ELANBegin 00:05:42.100
+\ELANEnd 00:05:47.818
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_079b
+\tx Tara  rukovaditelatnan           Afanasijńun   ukčemetniken         emelde           emelde           goːŋnen.
+\mb tarak rukovoditel' -E  -tEn      Afanasij -ńUn ukčen -mEČ -nIkEn   em   -E  -(LI)lrE em   -E  -(LI)lrE goːn -Gr(E) -n(I)
+\ps pron  n                          n             v                   v                 v                 v                
+\ge dist  director.R   -ep -poss.3pl Afanasij -com tell  -rec -sim.cvb come -ep -imp.2pl come -ep -imp.2pl say  -hab   -3sg 
+
+\ft Their director, talking with Afanasij, said "come, come".
+\ph
+\nt i.e. the manager of the fairgrounds invited Sebjan to participate in the exhibition again
+\ph
+\ru ихний  руководитель разговаривая с Афанасием говорит приезжайте приезжайте
+\ELANBegin 00:05:47.818
+\ELANEnd 00:05:53.330
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_080
+\tx Tara.
+\mb tarak
+\ps pron 
+\ge dist 
+
+\ru
+\ELANBegin 00:05:53.330
+\ELANEnd 00:05:55.440
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_081
+\tx Edeːr                Tamara Afanasevna gerben          narọdnaj masterat                  bihni.
+\mb erek -(dU)LE -WUr     Tamara Afanasevna gerbe -n(I)     narodnyj   master   -E  -t(I)        bi -R(E)   -n(I)
+\ps pron                  ?      ?          n               adj        n                         v               
+\ge prox -loc    -prfl.pl Tamara Afanasevna name  -poss.3sg people's.R master.R -ep -poss.1pl.in be -nonfut -3sg 
+
+\ft Here there is so-called Tamara Afanasevna, our "people's master".
+\ph
+\nt "narodnyj master", lit. "people's master" is a distinction given to particularly good craftsmen, those who are awarded a prize at exhibits
+\ph
+\ru Здесь по имени ТА наш народный мастер есть
+\ELANBegin 00:05:55.440
+\ELANEnd 00:05:58.630
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_082
+\tx Họː aj   ečin      kavjọralbụ       taralbụ     horudeːr.
+\mb họː  aj   erroːčin  kovёr    -E  -L  -W   tarak -L  -W   hor -U    -DE       -WUr    
+\ps adv  adj  pron      n                     pron           v                           
+\ge very good prox.qual carpet.R -ep -pl -acc dist  -pl -acc go  -caus -purp.cvb -prfl.pl
+
+\ft Very good in order to take those carpets
+\ph
+\gr 270312: horudeːr without nek- is fine
+\ru Очень хорошо ковры эти чтобы увести.
+\ELANBegin 00:05:58.630
+\ELANEnd 00:06:05.400
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_083
+\tx Họː urge, bekebben                 tamdʒịnnị.
+\mb họː  urge  bekeč -W   -E  -n(I)     tam -DʒI -nrI
+\ps adv  adj   adv                      v            
+\ge very heavy all   -acc -ep -poss.3sg pay -fut -2sg
+\ft Very expensive, you pay everything.
+\ru Очень дорого все платишь
+\ELANBegin 00:06:05.400
+\ELANEnd 00:06:08.680
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_084
+\tx Gịawanụ mutu        niːde     eče        sponsordar,            bejet                  horrit.
+\mb gịawanụ   mut    -W   ŋiː =DE  e   -čE     sponsor   -DE -R       bej    -E  -t(I)        hor -RI  -t(I)       
+\ps adv       pron        pron     v           v                      pron                    v                    
+\ge last.year 1pl.in -acc who =ptl neg -pf.ptc sponsor.R -vr -neg.cvb self.Y -ep -poss.1pl.in go  -pst -poss.1pl.in
+\ft Last year no-one sponsored us, we went by ourselves.
+\ru В прошлом году нас никто не спонсировал, сами ехали.
+\ELANBegin 00:06:08.680
+\ELANEnd 00:06:13.550
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_085
+\tx Blaga     biː beju             sjestle           horeddi                bihiw,            tar   tamnịtnan,       i
+\mb blago     biː bej    -W        s''ezd    -(dU)LE hor -E  -D    -RI       bi -RI  -W        tarak tam -RI  -tEn      i    
+\ps n         pron pron             n                 v                       v                 pron  v                  conj 
+\ge luckily.R 1sg self.Y -poss.1sg meeting.R -loc    go  -ep -prog -impf.ptc be -pst -poss.1sg dist  pay -pst -poss.3pl and.R
+
+\tx Irinaw     tar   Afanasij bejen               horudni.
+\mb Irina -W   tarak Afanasij bej    -E  -n(I)     hor -U    -n(I)
+\ps n          pron  ?        pron                 v              
+\ge Irina -acc dist  Afanasij self.Y -ep -poss.3sg go  -caus -3sg 
+\ft Luckily I myself went to the meeting (of the minority peoples of the north), they paid for that, and Afanasij took Irina himself.
+\ph
+\nt Afanasij is ZAS's brother, and he paid for the trip of his daughter Irina by himself
+\ru Благо я сама ехала на съезд и за это заплатили а Ирину Афанасий сам повез.
+\ELANBegin 00:06:13.550
+\ELANEnd 00:06:21.610
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_086
+\tx Tara, tačịn       biwettit.
+\mb tarak tarọːčịn  bi -WEːČ -RI  -t(I)       
+\ps pron  pron      v                         
+\ge dist  dist.qual be -gnr  -pst -poss.1pl.in
+\ft Well, that's how we went.
+\ru Вот так мы ездили
+\ELANBegin 00:06:21.610
+\ELANEnd 00:06:23.780
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_087
+\tx Tiːkde   tartakị     heremekieː!
+\mb tiek =DE  tarak -t(E)kI hor -E  -m   -(h)E =kE  
+\ps adv       pron          v                       
+\ge now  =ptl dist  -all    go  -ep -des -excl =emph
+\ft And now I would love to go there!
+\ru И сейчас туда хочется ехать
+\ELANBegin 00:06:23.780
+\ELANEnd 00:06:26.650
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_088
+\tx Tarịt ịawda         ehep                ịtagra.
+\mb tarịt ịak  -W   =DE  e   -R(E)   -p      ịtag    -R      
+\ps adv   pron           v                   v               
+\ge then  what -acc =ptl neg -nonfut -1pl.in prepare -neg.cvb
+\ft But we haven't prepared anything.
+\ph
+\gr 270312: after a verb with desiderative meaning, tarịt has a contrastive meaning, "but"
+\ru Потом ничего не подготивили
+\ELANBegin 00:06:26.650
+\ELANEnd 00:06:29.250
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_089
+\tx Možet i     risknu     tala          goːniken      dʒọmkačaddam.
+\mb možet i     risknu     tarak -(dU)LE goːn -nIkEn   dʒọmkat -E  -D    -R(E)   -m  
+\ps v     conj  v          pron          v             v                             
+\ge can.R and.R risk.1sg.R dist  -loc    say  -sim.cvb think   -ep -prog -nonfut -1sg
+
+\ft Maybe I'll risk it, I am thinking.
+\ru ХХХ думаю
+\ELANBegin 00:06:29.250
+\ELANEnd 00:06:35.240
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_090
+\tx Biː tiːk honte bejel      gurgewetnen,           biː beju             ehem             haŋanna        ịawda.
+\mb biː tiek honte bej -E  -L  gurgeː -W   -tEn      biː bej    -W        e   -R(E)   -m   haŋan -R       ịak  -W   =DE 
+\ps pron adv  adj   n           n                     pron pron             v                v              pron          
+\ge 1sg now  other man -ep -pl work   -acc -poss.3pl 1sg self.Y -poss.1sg neg -nonfut -1sg sew   -neg.cvb what -acc =ptl
+\ft I (would take) other people's work now, I myself don't sew anything.
+\ru Я сейчас чужие работы, я сама ничего не шью
+\ELANBegin 00:06:35.240
+\ELANEnd 00:06:40.590
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_091
+\tx Ere  tiːke haŋanassịddam                     dʒịː, ịaw,     suvenirkakam           ọːnịkan   haːn
+\mb erek tiek haŋan -E  -sčI   -D    -R(E)   -m   dʒIː ịak  -W   suvenir    -kEkEn -W   ọː   -nIkEn   haːn 
+\ps pron adv  v                                   ?    pron      n                      v             quant
+\ge prox now  sew   -ep -conat -prog -nonfut -1sg aff  what -acc souvenir.R -dim   -acc make -sim.cvb other
+
+\tx čụrịtaŋalbụ               neːriw             ele,         egdʒoːmeje        bụsamdas,  ečin      čụlbańamaja.
+\mb čụːrịt -E  -ŋ   -E  -L  -W   neː -RI  -W        erek -(dU)LE egdʒen =eː   -mEjE busy   -mdEs erroːčin  čụlban  -ńE   -mEjE
+\ps n                            v                  pron         adj                n            pron      v                  
+\ge beads  -ep -aln -ep -pl -acc put -pst -poss.1sg prox -loc    big    =emph -aug  bead.R -sml  prox.qual be.grue -adjr -aug 
+
+\ft I am now trying to sew, making little souvenirs, I put my beads here, one big like a big bead, a blue one like this.
+\ph
+\gr ja nekotorye suveniry delaju = haːn suvenirkakam ọːnịkan, so that this cannot be the meaning here, even though she makes a pause between
+haːn and čụrịtaŋalbụ
+\nt čụːrịt are very small beads, while busy are big ones the size of pearls
+\ru Я сейчас пытаюсь шить сувенирчики делая, остальные бусы здесь что-то  (непонятнто говорит) большие как бусы такие синие
+\ELANBegin 00:06:40.590
+\ELANEnd 00:06:51.290
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_092
+\tx Taraŋụ            ajụka    ilede              hordeŋmen                     ehem             haːra,       tara
+\mb tarak -ŋ   -W        ajụka      irek  -(dU)LE =DE  hor -DEŋ     -W   -E  -n(I)     e   -R(E)   -m   haː  -R       tarak
+\ps pron                 interj     pron               v                               v                v             pron 
+\ge dist  -aln -poss.1sg suddenly.Y which -loc    =ptl go  -pst.ptc -acc -ep -poss.3sg neg -nonfut -1sg know -neg.cvb dist 
+
+\tx neːriwde
+\mb neː -RI  -W        =DE 
+\ps v                      
+\ge put -pst -poss.1sg =ptl
+
+\ft That one of mine suddenly , I don't know where it went, even though I put it (there).
+\ph
+\gr hordeŋmen - the poss.3sg refers to the "busy", ego uxod
+\ru Это мое вдруг куда запропастилась я не знаю хотя туда я положила
+\ELANBegin 00:06:51.290
+\ELANEnd 00:06:55.230
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_093
+\tx Itteːm,         kụŋaw          ịamịgụl   hịwrannị          kirekie     dʒịː,
+\mb it  -R(E)   -m   kụŋa  -W        ịamị =(W)Ul hịwra   -n  -n(I)     kire  =kE   dʒIː
+\ps v                n               pron        v                     adv         ?   
+\ge see -nonfut -1sg child -poss.1sg why  =indef breathe -nr -poss.3sg dirty =emph aff 
+\ft I look, my child's breathing is bad for some reason, right.
+\ph
+\nt "my child" here refers to her grandson Aniwrin who at that time was three years old
+\ru смотрю ребенок мой почему-то дыхание у него плохое стало
+\ELANBegin 00:06:55.230
+\ELANEnd 00:06:59.315
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_094
+\tx ụmụjak tala          nipkuče          goːniken
+\mb ụmụjak tarak -(dU)LE nipku     -čE     goːn -nIkEn  
+\ps n      pron          v                 v            
+\ge snot   dist  -loc    suffocate -pf.ptc say  -sim.cvb
+\ft I thought that snot had blocked (his nose).
+\ru я думала что там сопли застряли
+\ELANBegin 00:06:59.315
+\ELANEnd 00:07:01.951
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_095
+\tx Čọŋkaram           čọŋkaram,          ịakda    ehni           emehme,                dʒịː
+\mb čọŋka -R(E)   -m   čọŋka -R(E)   -m   ịak  =DE  e   -R(E) -n(I) em   -E  -m   -R       dʒIː
+\ps v                  v                  pron      v               v                      ?   
+\ge dig   -nonfut -1sg dig   -nonfut -1sg what =ptl neg -nfut -3sg  come -ep -des -neg.cvb aff 
+\ft I dug and dug, nothing wants to come out, hey.
+\ph
+\gr čọŋkaram = lit. ja kovyrjaju ili vykovarila
+\ru я ковыряла ковыряла ничего не хочет идти
+\ELANBegin 00:07:01.951
+\ELANEnd 00:07:04.889
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_096
+\tx Tarịt ečin      ịalkan    bihem,          fanarịk, edu       goːli
+\mb tarịt erroːčin  ịak  -lkEn bi -R(E)   -m   fonarik erek -DU  goːn -LI     
+\ps adv   pron      pron       v               n       pron      v            
+\ge then  prox.qual what -prop be -nonfut -1sg torch.R prox -dat say  -imp.2sg
+
+\ft But I have such a what, a torch.
+\ph
+\gr 270312: here "tarịt" has a meaning of contrast (following on desiderative predicate)
+\ru потом у меня есть этот фонарик
+\ELANBegin 00:07:04.889
+\ELANEnd 00:07:10.508
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_097
+\tx Taraŋdʒị            ele          tettidʒi       fanarịkat      kojeːtt(em)
+\mb tarak -ŋ   -DʒI         erek -(dU)LE tet    -RIdʒI   fonarik -E  -Č   kojeːt  -R(E)   -m  
+\ps pron                    pron         v               n                v                   
+\ge dist  -aln -ins.prfl.sg prox -loc    put.on -ant.cvb torch.R -ep -ins look.at -nonfut -1sg
+\ft Having put that on here I looked with the torch.
+\ru Этим своим сюда надев фонариком посмотрела
+\ELANBegin 00:07:10.508
+\ELANEnd 00:07:12.470
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_098
+\tx Tala          ịakkụl   ńọːbatịkkan   ụmụjak bihni           dʒịː
+\mb tarak -(dU)LE ịak  =(W)Ul ńọːbatị -kkEn ụmụjak bi -R(E)   -n(I) dʒIː
+\ps pron          pron        adj           n      v                ?   
+\ge dist  -loc    what =indef white   -dim  snot   be -nonfut -3sg  aff 
+\ft There's something whitish, there is snot, right.
+\ph
+\gr 270312: asked whether they use -kkEn rather than -čIrI for attenuatives in Sebjan, but she said no, they use -mčIrI (though I only have 1
+example by Neustroev), and that here the -kkEn expresses the small size of the umujak (however, I'm not sure I'll believe that, because I do
+believe from the corpus that there are examples with -kkEn that have an attenuative meaning; she said that "krasnovatyj" would be hụlańamčịrị
+\ru там что-то беленькое сопли есть
+\ELANBegin 00:07:12.470
+\ELANEnd 00:07:15.700
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_099
+\tx Taraw      dʒe   ịatda         ečin      grušatda        taːssịmị          turkurem                 ịak
+\mb tarak -W   dʒe    ịak  -Č   =DE  erroːčin  gruša  -Č   =DE  taːn -sčI   -mI       turku       -R(E)   -m   ịak 
+\ps pron       ptl    pron           pron      n                v                     v                        pron
+\ge dist  -acc well.Y what -ins =ptl prox.qual pear.R -ins =ptl pull -conat -cond.cvb not.be.able -nonfut -1sg what
+
+\tx tụkụńan              ehni           emehme                 tarbačan      goːnidʒi.
+\mb tụkụn -(h)E -n(I)     e   -R(E) -n(I) em   -E  -m   -R       tarọːčịn  goːn -RIdʒI  
+\ps v                     v               v                      pron      v            
+\ge hate  -excl -poss.3sg neg -nfut -3sg  come -ep -des -neg.cvb dist.qual say  -ant.cvb
+
+\ft I tried to suck that out with a bulb like this, how annoying, it doesn't want to come, this one!
+\ph turkurem - sounds more like turkuram
+\gr ịak tụkụńan - one could also say ịak tụkụńaw, ịak tụkụńas
+\ru Это чем угодно и грушой утянуть не смогла, как раздражительно не хочет  идти этот
+\ELANBegin 00:07:15.700
+\ELANEnd 00:07:21.980
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_100
+\tx Ereŋmen                    dahrịdʒị  "hyk" goːli         goː(nem)
+\mb erek -ŋ   -W   -E  -n(I)     das   -RIdʒI   hyk goːn -LI      goːn -R(E)   -m  
+\ps pron                         v              ideophone v             v                
+\ge prox -aln -acc -ep -poss.3sg cover -ant.cvb hyk say  -imp.2sg say  -nonfut -1sg
+\ft Having closed this of his (probably the other nostril) I said "say 'hyk'!".
+\ru это что-то закрыв хык скажи сказала
+\ELANBegin 00:07:21.980
+\ELANEnd 00:07:24.540
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_101
+\tx Tadụk       ịakkụl   ečin      hokkonni       dʒịː
+\mb tarak -DUk(U) ịak  =(W)Ul erroːčin  hetken   -n(I) dʒIː
+\ps pron          pron        pron      v              ?   
+\ge dist  -abl    what =indef prox.qual jump.out -3sg  aff 
+
+\ft From there something jumped out, right.
+\ph
+\ru потом что-то такое выскочила
+\ELANBegin 00:07:24.540
+\ELANEnd 00:07:28.850
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_102
+\tx Hokkoneken                       itteku                  tarak čụlbańańdʒa!
+\mb hetken   -REk      -E  -n(I)     it  -REk      -W        tarak čụlban  -ńE   -ńdʒE
+\ps v                                v                       pron  v                  
+\ge jump.out -cond.cvb -ep -poss.3sg see -cond.cvb -poss.1sg dist  be.grue -adjr -aug 
+
+\ft When it jumped I looked - that blue one!
+\ru когда выскочила я посмотрела - это синий!
+\ELANBegin 00:07:28.850
+\ELANEnd 00:07:31.660
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_103
+\tx laughter
+\ru
+\ELANBegin 00:07:31.660
+\ELANEnd 00:07:35.240
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_104
+\tx Čụlbańańdʒa       nịsaŋụ!
+\mb čụlban  -ńE   -ńdʒE nịsa  -ŋ   -W       
+\ps v                   n                   
+\ge be.grue -adjr -aug  beads -aln -poss.1sg
+
+\ft My blue bead!
+\ru синяя бусина
+\ELANBegin 00:07:35.240
+\ELANEnd 00:07:36.540
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_105
+\tx Ah!
+\ru
+\ELANBegin 00:07:36.540
+\ELANEnd 00:07:37.710
+\ELANParticipant BP
+
+\id ZAS_jubki_Aniwrin_106
+\tx Oo, biː tiːk ee
+\mb oo biː tiek ee
+\ps interj pron adv  interj
+\ge oh 1sg now  eh
+\ft Oh, now I...
+\ru
+\ELANBegin 00:07:37.710
+\ELANEnd 00:07:40.530
+\ELANParticipant ZAS
+
+\id ZAS_jubki_Aniwrin_107
+\tx Tačịntụ         bidʒemče           dʒịː
+\mb tarọːčịn  =tU   bi -D    -E  -mč(I) dʒIː
+\ps pron            v                   ?   
+\ge dist.qual =pres be -prog -ep -sbjv  aff 
+\ft It would have been like that, right!
+\ru так бы было бы
+\ELANBegin 00:07:40.530
+\ELANEnd 00:07:42.410
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_108
+\tx Vdrug      da    emis...    ečin      ere  dịllawụ             ịadnị     ịak tačịn       hịwran      goːniken.
+\mb vdrug      da    emiske     erroːčin  erek dịl  -(dU)LE -W        ịa      -n(I) ịak  tarọːčịn  hịwra   -n(I) goːn -nIkEn  
+\ps adv        ptl   adv        pron      pron n                      v             pron pron      v             v            
+\ge suddenly.R ptl.R suddenly.Y prox.qual prox head -loc    -poss.1sg do.what -3sg  what dist.qual breathe -3sg  say  -sim.cvb
+\ft Suddenly it (came) into my head, why is he breathing like that.
+\ru вдруг мне в голову что-то (ударило) что это так дышит говоря
+\ELANBegin 00:07:42.410
+\ELANEnd 00:07:49.240
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_109
+\tx Tarịt tačịn       emeːndej                 nekrem,          emeːndej                 nekedniken            eŋeːnem
+\mb tarịt tarọːčịn  emeːn -DE       -J       nek -R(E)   -m   emeːn -DE       -J       nek -E  -D    -nIkEn   eŋen      -R(E)   -m  
+\ps adv   pron      v                        v                v                        v                      v                     
+\ge then  dist.qual leave -purp.cvb -prfl.sg do  -nonfut -1sg leave -purp.cvb -prfl.sg do  -ep -prog -sim.cvb come.look -nonfut -1sg
+
+\tx ečin
+\mb erroːčin 
+\ps pron     
+\ge prox.qual
+\ft I was about to leave it like that, but took a look like this.
+\ph nekrem - sounds like nyram; 
+\ru потом я хотела так оставить собираясь оставит заглянула
+\ELANBegin 00:07:49.240
+\ELANEnd 00:07:53.430
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_110
+\tx Tarịt dalše    čọŋkọramda.
+\mb tarịt dalše     čọŋka -R(E)   -m   =DE 
+\ps adv   adv       v                      
+\ge then  further.R dig   -nonfut -1sg =ptl
+\ft And then I probed further.
+\ru потом дальше начала ковырять
+\ELANBegin 00:07:53.430
+\ELANEnd 00:07:56.660
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_111
+\tx Tačịn       emeːnče      bidekun?
+\mb tarọːčịn  emeːn -čE     bi -DE       -W       
+\ps pron      v             v                     
+\ge dist.qual leave -pf.ptc be -purp.cvb -poss.1sg
+
+\ft If I had left it like that?
+\ph
+\gr 270312: for some reason, here the purposive converb has a meaning of "if" here (it's the same in Zaxarov_song); the conditional converb would
+be biheku; and it's a good sentence and all correct
+\ru если бы я так оставила_
+\ELANBegin 00:07:56.660
+\ELANEnd 00:07:58.740
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_112
+\tx Taraw      tiːk dʒọmkattakụ               nimerekie.
+\mb tarak -W   tiek dʒọmkat -REk      -W        nimer          -(h)E =kE  
+\ps pron       adv  v                           v                         
+\ge dist  -acc now  think   -cond.cvb -poss.1sg be.frightening -excl =emph
+\ft When I think about that now, it's frightening.
+\ru когда я сейчас так думаю страшно
+\ELANBegin 00:07:58.740
+\ELANEnd 00:08:02.100
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_113
+\tx Dọːhkịda         čụːnča       biden
+\mb dọː    -skI      =DE  čụːn      -čE     bi -DE       -n(I)    
+\ps rel.n                 v                 v                     
+\ge inside -advb.all =ptl disappear -pf.ptc be -purp.cvb -poss.3sg
+\ft And if it had disappeared inside?
+\ru а если бы он внутрь  вошел?
+\ELANBegin 00:08:02.100
+\ELANEnd 00:08:04.640
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_114
+\tx Ịakkụl   minteki         goːnče      tačịn       eŋeːli             goːniken.
+\mb ịak  =(W)Ul min     -t(E)kI goːn -čE     tarọːčịn  eŋen        -LI      goːn -nIkEn  
+\ps pron        pron            v            pron      ?                    v            
+\ge what =indef 1sg.obl -all    say  -pf.ptc dist.qual take.a.look -imp.2sg say  -sim.cvb
+\ft Something told me to take a look like that.
+\ru что-то мне сказала так загляни
+\ELANBegin 00:08:04.640
+\ELANEnd 00:08:09.320
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_115
+\tx A tak, my že vnimanija, ja že ne obraščala vnimanija, da?
+\ft Because we, I didn't pay attention, right?
+\ELANBegin 00:08:09.320
+\ELANEnd 00:08:13.290
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_116
+\tx A vdrug prišlo eto i dalše ja stala tam kopatsja.
+\ft And then suddenly that came and I continued to probe there.
+\ELANBegin 00:08:13.290
+\ELANEnd 00:08:20.570
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_117
+\tx Snačala ostavila a potom vdrug opjatj, čto tam u nego, eto sopel'ka kakaja-to belenkaja tam deržitsja.
+\ft At first I left it and then suddenly again, well what is that with him, it's whitish snot that's hanging there.
+\ELANBegin 00:08:20.570
+\ELANEnd 00:08:30.400
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_118
+\tx Čto ona deržitsja ja prjamo razazlilasj i...
+\ft What is it hanging there for, I even got angry and...
+\ELANBegin 00:08:30.400
+\ELANEnd 00:08:33.570
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_119
+\tx laughter
+\ru
+\ELANBegin 00:08:33.570
+\ELANEnd 00:08:36.260
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_120
+\tx ajụː,  čọŋkassịŋa          turkurem                 turkurem
+\mb ajụːja čọŋka -sčI   -ŋE       turku       -R(E)   -m   turku       -R(E)   -m  
+\ps interj v                      v                        v                       
+\ge excl.Y dig   -conat -nmdl.cvb not.be.able -nonfut -1sg not.be.able -nonfut -1sg
+\ft Oh dear, I tried and tried to dig, to no avail.
+\ru безрезультатно пыталась ковырять
+\ELANBegin 00:08:36.260
+\ELANEnd 00:08:40.070
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_121
+\tx Tak  "hyk" goːli         goːnem,           ajụka    ịakkọl   tọhangaran
+\mb tak  hyk goːn -LI      goːn -R(E)   -m   ajụka      ịak  =(W)Ul tụsan -Gr(E) -E  -n(I)
+\ps interj ideophone v             v                 interj     pron        v                     
+\ge so.R hyk say  -imp.2sg say  -nonfut -1sg suddenly.Y what =indef hop   -hab   -ep -3sg 
+\ft So I say "say 'hyk' ", and suddenly something jumps out!
+\ru Сказал хык что-то выскакивает
+\ELANBegin 00:08:40.070
+\ELANEnd 00:08:43.500
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_122
+\tx ajọː
+\mb ajụːja
+\ps interj
+\ge excl.Y
+
+\ru
+\ELANBegin 00:08:43.500
+\ELANEnd 00:08:46.270
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_123
+\tx Tabar   kụ    hurkeŋu                irew       taraw      ile           tala          hịnkatnịkan.
+\mb tawụr kụŋa  hurkeːn -ŋ   -W        irek  -W   tarak -W   irek  -(dU)LE tarak -(dU)LE hịn        -kEČ  -nIkEn  
+\ps pron  n     n                      pron       pron       pron          pron          v                        
+\ge this  child boy     -aln -poss.1sg which -acc dist  -acc which -loc    dist  -loc    shove.into -mult -sim.cvb
+
+\ft This boy of mine sticks this and that everywhere.
+\ph
+\gr hurken - is more standard Even than Sebjan
+\ru Этот мой ребенок всякое разное туда сюда впихывая
+\ELANBegin 00:08:46.270
+\ELANEnd 00:08:50.640
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_124
+\tx Omende    minutew       beju     eten            beketkeːmen                       ečin      ịajị
+\mb omen =DE  minuta   -W   bej -W   e   -t(E) -n(I) bekeč -KEn     -W   -E  -n(I)     erroːčin  ịak  -J      
+\ps num       n             n        v               adv                               pron      pron         
+\ge one  =ptl minute.R -acc man -acc neg -fut  -3sg  all   -dim.int -acc -ep -poss.3sg prox.qual what -prfl.sg
+\ft Not a single minute he doesn't (let?) a person... all of his like this
+\ph
+\gr 270312: bekeččen = -čEn, beketkeːn, bekekken = KEn
+\ru не одну минуту человека не будет это
+\ELANBegin 00:08:50.640
+\ELANEnd 00:08:54.590
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_125
+\tx Distantsionnaj   goːkekendʒi,            kampjuter  goːnteken,     ečin      nekčim        ečin      nekčim
+\mb distantsionnyj   goːn -kEkEn -DʒI         kompjuter  goːn -ntEkEn   erroːčin  nek -DʒI -m   erroːčin  nek -DʒI -m  
+\ps adj              v                        n          v              pron      v             pron      v            
+\ge remote.control.R say  -dim   -ins.prfl.sg computer.R say  -mult.cvb prox.qual do  -fut -1sg prox.qual do  -fut -1sg
+
+\tx goːkekekendʒi                    ečin
+\mb goːn -kEkEn -KEn     -DʒI         erroːčin 
+\ps v                                 pron     
+\ge say  -dim   -dim.int -ins.prfl.sg prox.qual
+\ft Saying the remote control, saying the computer, I will do like this, I will do like this, saying like this.
+\ru говоря дистанционный, говоря компютер так сделаю так сделаю говоря так
+\ELANBegin 00:08:54.590
+\ELANEnd 00:09:02.140
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_126
+\tx Nọŋan kampjuter  hịnmač    haːlča           minduk          goːmi.
+\mb nọŋan kompjuter  hịnma -Č   haː  -L    -čE     min     -DUk(U) goːn -mI      
+\ps pron  n          n          v                  pron            v             
+\ge 3sg   computer.R fast  -ins know -inch -pf.ptc 1sg.obl -abl    say  -cond.cvb
+\ft He learnt the computer faster than me.
+\ph
+\gr goːmi to mark comparison
+\ru он компютер быстрее узнал чем я
+\ELANBegin 00:09:02.140
+\ELANEnd 00:09:04.900
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_127
+\tx laughs
+\ru
+\ELANBegin 00:09:04.900
+\ELANEnd 00:09:06.740
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_128
+\tx tiːkerep    kụŋal,   ee
+\mb tiek -(E)rEp kụŋa  -L  ee
+\ps adv          n         interj
+\ge now  -adjr   child -pl eh
+\ft The kids of today, hey.
+\ru современные дети
+\ELANBegin 00:09:06.740
+\ELANEnd 00:09:08.280
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_129
+\tx Irew       taraw      ečin      hịndaj,                     ile           tala
+\mb irek  -W   tarak -W   erroːčin  hịn        -DE       -J       irek  -(dU)LE tarak -(dU)LE
+\ps pron       pron       pron      v                             pron          pron         
+\ge which -acc dist  -acc prox.qual shove.into -purp.cvb -prfl.sg which -loc    dist  -loc   
+
+\tx hịńahandaj                            meːkukkeren
+\mb hịn        -E  -s(E)n -DE       -J       meːkuk        -Gr(E) -n(I)
+\ps v                                        v                         
+\ge shove.into -ep -lim   -purp.cvb -prfl.sg thrash.around -hab   -3sg 
+\ft He strives to stick this and that everywhere.
+\ru всякое разное запихнуть туда сюда запихнут поывается
+\ELANBegin 00:09:08.280
+\ELANEnd 00:09:12.090
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_130
+\tx Uːr   hiː Parọːla        em... ečin      emudeŋes                         neːkeren             bihnihni,
+\mb uːr    hiː Praskovja -(dU)LE em   erroːčin  em   -U    -DEŋ     -E  -s(I)     neːkur   -E  -n(I)     bi -R(E)   -n(I) =hni   
+\ps adv    pron n                 v    pron      v                                 n                      v                       
+\ge before 2sg Praskovja -loc    come prox.qual come -caus -pst.ptc -ep -poss.2sg gostinec -ep -poss.3sg be -nonfut -3sg  =affirm
+
+\tx da?
+\mb da   
+\ps ptl  
+\ge yes.R
+\ft There's the present that you brought Praskovja, right.
+\ph
+\gr neːkeren = Praskovja's present
+\nt Praskovja is ZAS's daughter and the mother of the grandson; BP had brought her a pair of earphones, the kind that one inserts into the ears
+\ru вот ты Поро вот такое привезеноое тобой подарок есть же
+\ELANBegin 00:09:12.090
+\ELANEnd 00:09:17.290
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_131
+\tx Taraw      ńan   ilede              kọratlaj                 hịńahanŋaran,                  ile           tala
+\mb tarak -W   ńaːn irek  -(dU)LE =DE  kọrịt -(dU)LE -J       hịn        -E  -s(E)n -Gr(E) -n(I) irek  -(dU)LE tarak -(dU)LE
+\ps pron       adv  pron               n                      v                                  pron          pron         
+\ge dist  -acc and  which -loc    =ptl ear   -loc    -prfl.sg shove.into -ep -lim   -hab   -3sg  which -loc    dist  -loc   
+
+\tx hịndaj
+\mb hịn        -DE       -J      
+\ps v                            
+\ge shove.into -purp.cvb -prfl.sg
+\ft That as well he sticks into his ears, tries to stick it everywhere.
+\ph
+\gr ilede = kuda ugodno; hịndaj = she omitted a nekkeren, but it's clear as it is and the auxiliary is very frequently omitted
+\ru это тоже в уши себе запихывает
+\ELANBegin 00:09:17.290
+\ELANEnd 00:09:20.740
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_132
+\tx laughter
+\ru
+\ELANBegin 00:09:20.740
+\ELANEnd 00:09:22.430
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_133
+\tx oo
+\ru
+\ELANBegin 00:09:22.430
+\ELANEnd 00:09:25.450
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_134
+\tx Tara
+\mb tarak
+\ps pron 
+\ge dist 
+
+\ru
+\ELANBegin 00:09:25.460
+\ELANEnd 00:09:26.660
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_135
+\tx Ọddọn         biː ukčeneku.
+\mb ọd   -R(E)   -n(I) biː ukčen -ČEk -W       
+\ps v                  pron v                   
+\ge stop -nonfut -3sg  1sg tell  -nr  -poss.1sg
+\ft My story is finished.
+\ph
+\gr 270312: if it were "when I tell" with the conditional converb, then it would be ukčenneku
+\ru закончился мой рассказ
+\ELANBegin 00:09:26.660
+\ELANEnd 00:09:27.960
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_136
+\tx laughter
+\ru
+\ELANBegin 00:09:27.960
+\ELANEnd 00:09:29.110
+\ELANParticipant 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My Documents/Even
+project/Sebjan_2012_fielddata/sound_files/spontaneous/Stepanova_ZA_jubki_Aniwrin.wav
+\ELANMediaMIME audio/x-wav

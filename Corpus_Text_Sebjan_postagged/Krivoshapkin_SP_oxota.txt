@@ -1,0 +1,3263 @@
+\_sh v3.0  943  Text
+
+\id Krivoshapkin_SP_oxota_000_metadata
+\ref Recorded on 04 March 2010 in Sebjan-Küöl by Brigitte Pakendorf and Natalia Aralova. SPK was unexpectedly
+brought to the flat where NA and BP are staying by the vice-head of administration of the village, Nikolaj
+Mixajlovich, who also functions as the chairman of the "fathers' club" of the village and whom we had asked for help
+in alerting men to our aims. Nikolaj Mixajlovich had written down a few topics about which SPK could talk; he
+briefed SPK while we were setting up the recording equipment and handed him the note with the topics - SPK can
+be seen holding it towards the end of the video. When he finished his briefing, Nikolaj Mixajlovich left, and SPK was
+left alone with NA and BP. Since he was shy and didn't really know what to talk about, we asked quite a lot of
+questions in very broken Even, so that altogether the amount of Even spoken by SPK is not nearly as much as
+might be thought by the length of the recording (~23 minutes): of roughly 280 annotations, only about 120 are
+sentences spoken by SPK. Overall, it was fairly quiet, though a fly flew around at one time, and some dogs started
+barking in the street.
+\qu Transcribed by Ija Vasil'evna Krivoshapkina (pen & paper) and translated by IVK; glossed by BP. Funding from the
+Volkswagen Foundation (DoBeS project). Speaker abbreviation = SPK
+\ref Semen Petrovič Krivoshapkin was born in 1987, so at the time of the recording he was 22-23. He worked as a
+hunter and reindeer herder and spent practically all of his time outside of the village.
+
+\id Krivoshapkin_SP_oxota_001
+\tx clap
+\ru
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:03.230
+\ELANParticipant comment
+
+\id Krivoshapkin_SP_oxota_002
+\tx 26 fevralja       2010 god,   Sebjan-Küöl, Semёn Petrovič Krivošapkin ewedi
+\mb 26 fevralja       2010 god    Sebjan-Küöl Semёn Petrovič  Krivošapkin  ewen -DI  
+\ps ?  n              ?    n      ?           ?     ?         ?            n         
+\ge 26 February.gen.R 2010 year.R Sebjan-Küöl Semen Petrovich Krivoshapkin Even -adjr
+
+\tx ukledden.
+\mb hukle -D    -R(E)   -n(I)
+\ps v                        
+\ge sleep -prog -nonfut -3sg 
+
+\ft It is the 26th of February 2010, Sebjan-Küöl, and Semen Petrovich Krivoshapkin is sleeping in Even (meant to say
+ukčendʒin 'will tell in Even'). 
+\ru
+\ELANBegin 00:00:03.230
+\ELANEnd 00:00:12.700
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_003
+\tx Ukledden net, ja nadejus' čto ne ukledden, eto spat'!
+\mb
+\ge
+\ft Not 'ukledden', I hope not 'ukledden', that means to sleep!
+\ru
+\ELANBegin 00:00:12.700
+\ELANEnd 00:00:17.230
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_004
+\tx ukčenedden
+
+\ru
+\ELANBegin 00:00:17.230
+\ELANEnd 00:00:18.060
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_005
+\tx ukčendʒin
+
+\ru
+\ELANBegin 00:00:18.060
+\ELANEnd 00:00:20.630
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_006
+\tx Ničego, pust' spit.
+\mb
+\ge
+\ft It doesn't matter, let him sleep.
+\ru
+\ELANBegin 00:00:20.630
+\ELANEnd 00:00:25.800
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_007
+\tx höp
+\mb söp 
+\ps ptl 
+\ge OK.Y
+
+\ru
+\ELANBegin 00:00:25.800
+\ELANEnd 00:00:29.370
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_008
+\tx Nọnọn ịak dʒugulin                ukčendʒim?
+\mb nọnan    ịak  dʒugu -(dU)LI -n(I)     ukčen -DʒI -m  
+\ps adv      pron rel.n                   v              
+\ge at.first what about -prol   -poss.3sg tell  -fut -1sg
+
+\ft What shall I tell about first?
+\ru Сперва о чем рассказывать?
+\ELANBegin 00:00:29.370
+\ELANEnd 00:00:31.300
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_009
+\tx Ehm, stado dʒugulin, oxot... eh, bej... kak, bejem... bul... kak budet  oxota?
+\mb
+\ge
+\ft (pathetic attempts at prompting in Even) About the (reindeer) herd, about hunt.... how does one say 'hunt' (in
+Even)?
+\ru
+\ELANBegin 00:00:31.300
+\ELANEnd 00:00:39.420
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_010
+\tx bujusten?
+\mb buju -s    -R(E)   -n(I)
+\ps v                       
+\ge hunt -mult -nonfut -3sg 
+
+\ru
+\ELANBegin 00:00:39.420
+\ELANEnd 00:00:40.430
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_011
+\tx Aha, bujusten dʒugulin...
+\mb
+\ge
+\ft Aha, about hunting (using wrong form, similar to 3SG).
+\ph
+\gr The correct 3SG form for 'to hunt' would be bujuhren (plain nfut), bujuhedden (prog-nfut)
+\ru
+\ELANBegin 00:00:40.430
+\ELANEnd 00:00:46.330
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_012
+\tx Ile tegečiddin dʒugulin
+\mb
+\ge
+\ft About where you live (again using wrong form, similar to 3SG).
+\ph
+\ru
+\ELANBegin 00:00:46.330
+\ELANEnd 00:00:51.140
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_013
+\tx Tuge   nọŋan Taːhańdʒa       gerbe ọkaːtaldụlịn               nulgeri
+\mb tugeni nọŋan taːs   -E  -ńdʒE gerbe ọkaːt -E  -L  -(dU)LI -n(I)     nulge   -RI      
+\ps n      pron  n                n     n                               v                
+\ge winter 3sg   rock.Y -ep -aug  name  river -ep -pl -prol   -poss.3sg migrate -impf.ptc
+
+\tx bihin,            nulgeweːtti              bihin,            bujusniken.
+\mb bi -RI  -n(I)     nulge   -WEːČ -RI       bi -RI  -n(I)     buju -s    -nIkEn  
+\ps v                 v                       v                 v                  
+\ge be -pst -poss.3sg migrate -gnr  -impf.ptc be -pst -poss.3sg hunt -mult -sim.cvb
+
+\ft In winter he used to move along the river Tahandja, used to move hunting.
+\ph
+\gr Taːhańdʒa ọkaːtaldụlị = the plural might indicate that his father hunted along the Tahandja and her tributaries;
+(08_quest_2010, 20:30) nulgeče bihin = perekočeval (na tu rečku), nulgeri bihin = mnogo kočeval, nulgeri biče =
+v prošlom kočeval; it would be more correct to say nulgewetti bihin, which is of course what SPK then said
+\nt BP had actually tried to ask him about his own work as a hunter and reindeer herder, but obviously the wrong
+forms used in the questions made him think that we wanted to know about his father, who was also a hunter.
+\ru Зимой он кочевал по реке Таханджа, кочевал, охотясь.
+\ELANBegin 00:00:51.140
+\ELANEnd 00:01:00.390
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_014
+\tx Ịadụ.... ŋiː gerbe bihin?
+\mb ịak  -DU  ŋiː gerbe bi -RI  -n(I)    
+\ps pron      pron n     v                
+\ge what -dat who name  be -pst -poss.3sg
+\ft (Hunted) what... what was it called?
+\ru На что (охотился) как называлось?
+\ELANBegin 00:01:00.390
+\ELANEnd 00:01:07.470
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_015
+\tx Sobol   gerbe, kiːs,  kiːhu       bụltaːrị       bihin.
+\mb sobol   gerbe kiːs    kiːs    -W   bụltaː -RI       bi -RI  -n(I)    
+\ps n       n     n       n            v                v                
+\ge sable.R name  sable.Y sable.Y -acc hunt.Y -impf.ptc be -pst -poss.3sg
+\ft Sable, he hunted sable.
+\ru Охотился на соболя.
+\ELANBegin 00:01:07.470
+\ELANEnd 00:01:14.150
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_016
+\tx Omneken        bụltaːrị       bihin?
+\mb omen -REkEn    bụltaː -RI       bi -RI  -n(I)    
+\ps num            v                v                
+\ge one  -iter.adv hunt.Y -impf.ptc be -pst -poss.3sg
+\ft Did he hunt alone? (actually, the form used means 'once', the correct form would have been omekken)
+\ru
+\ELANBegin 00:01:14.150
+\ELANEnd 00:01:16.950
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_017
+\tx ee.
+\mb ee
+\ps interj
+\ge eh
+
+\ru
+\ELANBegin 00:01:16.950
+\ELANEnd 00:01:19.360
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_018
+\tx Omneken        ịadụ,  ịadụ   herrin,            tọːkịmịrị       bihin,            egdʒen
+\mb omen -REkEn    ịak  -DU  ịak  -DU  hor -RI  -n(I)     tọːkị -mI -RI       bi -RI  -n(I)     egdʒen
+\ps num            pron      pron      v                  v                   v                 adj   
+\ge one  -iter.adv what -dat what -dat go  -pst -poss.3sg elk   -vr -impf.ptc be -pst -poss.3sg big   
+
+\tx ịadụ.
+\mb ịak  -DU 
+\ps pron     
+\ge what -dat
+
+\ft Once he went to hunt something, went to hunt elk, a big (animal).
+\ru Однажды пошел в это, он охотился на лося, на большого что-то (животного)
+\ELANBegin 00:01:19.360
+\ELANEnd 00:01:27.880
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_019
+\tx Ịbga   ŋịnalkan      igin  biwren          tala.
+\mb ịbgọ ŋịn -E  -lkEn iŋin  bi -Gr(E) -n(I) tarak -(dU)LE
+\ps ?    n             ptl   v               pron         
+\ge good dog -ep -prop etc.Y be -hab   -3sg  dist  -loc   
+\ft He used to have a good dog there.
+\ru У него бывала хорошая собака.
+\ELANBegin 00:01:27.880
+\ELANEnd 00:01:31.010
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_020
+\tx Ịlan, digen ŋịn biwren.
+\mb ịlan  digen ŋịn bi -Gr(E) -n(I)
+\ps num   num   n   v              
+\ge three four  dog be -hab   -3sg 
+\ft There used to be three, four dogs.
+\ru 3, 4 собаки бывает.
+\ELANBegin 00:01:31.010
+\ELANEnd 00:01:34.080
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_021
+\tx Ụjamkamda              herri,        tọːkịdụ.
+\mb ụjamkan        -W   =DE  hor -RI       tọːkị -DU 
+\ps n                        v             n         
+\ge mountain.sheep -acc =ptl go  -impf.ptc elk   -dat
+\ft (Dogs) going for mountain sheep and elk.
+\ph
+\gr would be more correct to say ụjamkandụda, with the dative case, since hunt takes dative case
+\ru И на горного барана идет, и на лося.
+\ELANBegin 00:01:34.080
+\ELANEnd 00:01:38.440
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_022
+\tx Hịrkan, ịbga   hịrkalkan    bijekteːk   ńan   biwrerin.
+\mb hịrkan ịbgọ hịrkan -lkEn bi -jEktEːk ńaːn bi -Gr(E) -RI  -n(I)    
+\ps n      ?    n            v           adv  v                       
+\ge knife  good knife  -prop be -nec.Y   and  be -hab   -pst -poss.3sg
+\ft He had to have a good knife - and he had (one).
+\ph
+\ru У него должен быть хороший нож, и был.
+\ELANBegin 00:01:38.440
+\ELANEnd 00:01:44.200
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_023a
+\tx Taraŋan                emer  biwren,         ịamdas... kụmaːγịw    čịkịrị.
+\mb tarak -ŋ   -E  -n(I)     emer  bi -Gr(E) -n(I) ịak  -mdEs kụmaːγï -W   čịkị    -RI      
+\ps pron                     adj   v               pron       n            v                
+\ge dist  -aln -ep -poss.3sg sharp be -hab   -3sg  what -sml  paper.Y -acc cut.off -impf.ptc
+\ft That of his used to be sharp, like what... cutting paper (without effort).
+\ru Этот его бывает острым, режущий бумагу.
+\ELANBegin 00:01:44.200
+\ELANEnd 00:01:53.140
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_023b
+\tx Ńan   ịak?
+\mb ńaːn ịak 
+\ps adv  pron
+\ge and  what
+
+\ft
+\ph
+\ELANBegin 00:01:53.140
+\ELANEnd 00:01:53.210
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_024
+\tx Ńan   ịaw      ukčendʒim?
+\mb ńaːn ịak  -W   ukčen -DʒI -m  
+\ps adv  pron      v              
+\ge and  what -acc tell  -fut -1sg
+\ft What else shall I tell?
+\ru И что теперь рассказать?
+\ELANBegin 00:01:53.210
+\ELANEnd 00:01:55.880
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_025
+\tx Sobol   kapkanat?
+\mb sobol   kapkan -E  -Č  
+\ps n       n              
+\ge sable.R trap.R -ep -ins
+\ft (Do you trap) sable with traps?
+\ru
+\ELANBegin 00:01:55.880
+\ELANEnd 00:01:59.230
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_026
+\tx Ee, kapkanat       ịarị,         kapkam      tulniken.
+\mb ee kapkan -E  -Č   ịa      -RI       kapkan -W   tul -nIkEn  
+\ps interj n               v                 n           v           
+\ge eh trap.R -ep -ins do.what -impf.ptc trap.R -acc set -sim.cvb
+\ft Yes, with traps, setting traps.
+\ru Капканом делает, ставит капкан.
+\ELANBegin 00:01:59.230
+\ELANEnd 00:02:03.570
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_027
+\tx Uonna ommeken hịgịːla       biwr...?
+
+\ft And are you (intended) alone in the forest? 
+\ru
+\ELANBegin 00:02:03.570
+\ELANEnd 00:02:08.070
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_028
+\tx Dʒoːr ọmọlgọčọl
+\mb dʒoːr ọmọlga -čEl
+\ps num   n          
+\ge two   boy    -com
+
+\ft With his two sons.
+\ph
+\gr The suffix -čEl is restricted to inalienably possessed people, i.e. family members, so that ọmọlgọčọl can only refer to
+his sons, not to any two boys
+\ru С двумя своими сыновьями.
+\ELANBegin 00:02:08.070
+\ELANEnd 00:02:09.600
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_029
+\tx dʒoːr? aha
+\mb dʒoːr aha
+\ps num   excl
+\ge two   aha
+
+\ru
+\ELANBegin 00:02:09.600
+\ELANEnd 00:02:13.270
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_030
+\tx Ọrọlkahal                biwrer,        dʒoːrmịar
+\mb ọrọn              -lkEn -SEl bi -Gr(E) -r   dʒoːr mịan -L 
+\ps n                            v              num   num     
+\ge domestic.reindeer -prop -pl  be -hab   -3pl two   ten  -pl
+\ft They have reindeer, twenty.
+\ru С оленями бывают, 20.
+\ELANBegin 00:02:13.270
+\ELANEnd 00:02:17.250
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_031
+\tx dʒoːrmịar?     oo
+\mb dʒoːr mịan -L  oo
+\ps num   num      interj
+\ge two   ten  -pl oh
+
+\ru
+\ELANBegin 00:02:17.250
+\ELANEnd 00:02:19.600
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_032
+\tx bukečen            ụːčakịl?
+\mb bekeč -E  -n(I)     ụːčak           -E  -L 
+\ps adv                 n                      
+\ge all   -ep -poss.3sg riding.reindeer -ep -pl
+\ft All of them riding reindeer?
+\ru
+\ELANBegin 00:02:19.600
+\ELANEnd 00:02:25.730
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_033
+\tx Tụŋŋan ụːčak       ńan   tụrkị ịan,          ọrọnnị.
+\mb tụnŋan ụːčak           ńaːn tụrkị ịak  -n(I)     ọrọn              -n(I)    
+\ps num    n               adv  n     pron           n                          
+\ge five   riding.reindeer and  sled  what -poss.3sg domestic.reindeer -poss.3sg
+\ft Five riding reindeer and sled reindeer.
+\ru 5 верховых и олени для нарт
+\ELANBegin 00:02:25.730
+\ELANEnd 00:02:34.020
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_034
+\tx Tarịt tačịn       nulgeːw...    ọrọnat                nulgeːwekkerer,            honteki
+\mb tarịt tarọːčịn  nulge   -Gr(E) ọrọn              -E  -Č   nulge   -WEːČ -Gr(E) -r   honte -kI  
+\ps adv   pron      v              n                          v                         adj        
+\ge then  dist.qual migrate -hab   domestic.reindeer -ep -ins migrate -gnr  -hab   -3pl other -adjr
+
+\tx ọrọn          biwren,         ee.
+\mb ọrọn              bi -Gr(E) -n(I) ee
+\ps n                 v               interj
+\ge domestic.reindeer be -hab   -3sg  eh
+
+\ft That's how they migrate with reindeer, there are different reindeer.
+\ru Так кочуют с оленями, разные олени бывают.
+\ELANBegin 00:02:34.020
+\ELANEnd 00:02:40.620
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_035
+\tx Nọnan  kụńarị,              ịadụ   ńan... brọdụktaw ịrụrịdụ.
+\mb nọnan    kụńa            -RI       ịak  -DU  ńaːn produkty -W   ịr   -U    -RI       -DU 
+\ps adv      v                         pron      adv  n             v                        
+\ge at.first run(of.animals) -impf.ptc what -dat and  food.R   -acc cart -caus -impf.ptc -dat
+
+\ft The first runs, and for the transport of food.
+\ph
+\ru Первый бегущий, и для перевозки продуктов.
+\ELANBegin 00:02:40.620
+\ELANEnd 00:02:48.760
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_036
+\tx Brọdụktaw ịrụnịkan      ampaːrdụ         ịawrar            tuge.
+\mb produkty -W   ịr   -U    -nIkEn   ampar          -DU  ịa      -Gr(E) -r   tugeni
+\ps n             v                   n                   v                   n     
+\ge food.R   -acc cart -caus -sim.cvb storage.shed.R -dat do.what -hab   -3pl winter
+\ft Transporting food, they put it in the storage shed in winter.
+\ph he pronounces something like iewrer, and Ija thought he might be saying neːwrer, but I really cannot hear n-
+\ru Продукты перевозя, кладут в ампар.
+\ELANBegin 00:02:48.760
+\ELANEnd 00:02:55.300
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_037
+\tx Irildu      bọlla      mụranat.
+\mb ireli  -DU  buollaγïna mụran -E  -Č  
+\ps n           ptl        n             
+\ge summer -dat dp.Y       horse -ep -ins
+
+\ft And in summer by horse.
+\ru А летом на лошадях.
+\ELANBegin 00:02:55.300
+\ELANEnd 00:02:57.250
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_038
+\tx mụranat?      aha
+\mb mụran -E  -Č   aha
+\ps n              excl
+\ge horse -ep -ins aha
+
+\ru
+\ELANBegin 00:02:57.250
+\ELANEnd 00:03:01.540
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_039
+\tx Tar   ịak, ịaw      ukčendʒim?
+\mb tarak ịak  ịak  -W   ukčen -DʒI -m  
+\ps pron  pron pron      v              
+\ge dist  what what -acc tell  -fut -1sg
+\ft And what should I tell?
+\ru Что рассказать?
+\ELANBegin 00:03:01.540
+\ELANEnd 00:03:04.560
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_040
+\tx Irildu ịaw bujus... bujus... bujuster?
+\mb
+\ge
+\ft What do they hunt in summer?
+\ru
+\ELANBegin 00:03:04.560
+\ELANEnd 00:03:14.190
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_041
+\tx Irildu?
+\mb ireli  -DU 
+\ps n          
+\ge summer -dat
+
+\ft In summer?
+\ru
+\ELANBegin 00:03:14.190
+\ELANEnd 00:03:15.120
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_042
+\tx mhm
+\ru
+\ELANBegin 00:03:15.120
+\ELANEnd 00:03:17.380
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_043
+\tx Tugenidu    sobol,  ụjamkam...
+\mb tugeni -DU  sobol   ụjamkan        -W  
+\ps n           n       n                  
+\ge winter -dat sable.R mountain.sheep -acc
+\ft In winter (they hunt) sable, mountain sheep....
+\ru
+\ELANBegin 00:03:17.380
+\ELANEnd 00:03:22.230
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_044
+\tx ah
+\ru
+\ELANBegin 00:03:22.230
+\ELANEnd 00:03:23.500
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_045
+\tx Ịaw stammers bujuhuwrer?
+\mb
+\ge
+\ft What do they hunt?
+\ru
+\ELANBegin 00:03:23.500
+\ELANEnd 00:03:28.390
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_046
+\tx Irildu,     irildu      himbiːr       ịa... ụjamkam,          ụjamkam           ebeheːt
+\mb ireli  -DU  ireli  -DU  himbiːr        ịak  ụjamkan        -W   ụjamkan        -W   ebeheːt         
+\ps n           n           adv            pron n                   n                   ptl             
+\ge summer -dat summer -dat all.the.same.Y what mountain.sheep -acc mountain.sheep -acc without.fail.R.Y
+
+\tx ịawrar.
+\mb ịa      -Gr(E) -r  
+\ps v                  
+\ge do.what -hab   -3pl
+
+\ft In summer they also (hunt) mountain sheep, (they hunt) mountain sheep without fail.
+\ru Летом все равно горного барана, горного барана обязательно делают.
+\ELANBegin 00:03:28.390
+\ELANEnd 00:03:37.070
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_047
+\tx Irildu      ńan   ịat...   ammụ           ịala        hergeren           stadadụ
+\mb ireli  -DU  ńaːn ịak  -Č   aman   -W        ịak  -(dU)LE hor -Gr(E) -E  -n(I) stado  -DU 
+\ps n           adv  pron      n                pron         v                    n          
+\ge summer -dat and  what -ins father -poss.1sg what -loc    go  -hab   -ep -3sg  herd.R -dat
+
+\tx ọrọlčịmŋaldụ       kömölöhnemi.
+\mb ọrọlčị        -mŋE  -L  -DU  kömölös -nE     -mI      
+\ps v                            v                        
+\ge herd.reindeer -agnr -pl -dat help.Y  -intent -cond.cvb
+
+\ft In summer my father goes to the herd to help the reindeer herders.
+\ph
+\gr horgeren - here the nonfuture doesn't by itself have a past meaning, the reading by itself would be a generalized
+'ezdit', but its used for stylistic reasons here 
+\ru Летом мой отец ездит в стадо помогать оленеводам.
+\ELANBegin 00:03:37.070
+\ELANEnd 00:03:47.250
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_048
+\tx Ọrọlčịwran          tačịn       irildu,     tar   bọlọnị ọːčalan
+\mb ọrọlčị        -Gr(E) -n(I) tarọːčịn  ireli  -DU  tarak bọlọnị      ọː     -čE     -(dU)LE -n(I)    
+\ps v                          pron      n           pron  n           v                               
+\ge herd.reindeer -hab   -3sg  dist.qual summer -dat dist  late.autumn become -pf.ptc -loc    -poss.3sg
+
+\tx ọrọlbị                   hepkuridʒi     bujusnemi                    hergeren.
+\mb ọrọn              -L  -J       hepken -RIdʒI   buju -s    -nE     -mI       hor -Gr(E) -E  -n(I)
+\ps n                              v               v                            v                   
+\ge domestic.reindeer -pl -prfl.sg catch  -ant.cvb hunt -mult -intent -cond.cvb go  -hab   -ep -3sg 
+
+\ft He herds reindeer like that in summer, and then when it turns autumn he catches his reindeer and goes to hunt.
+\ph irildü hepküridʒi
+\ru Летом так пасет оленей, когда наступает осень поймав оленей едет охотиться.
+\ELANBegin 00:03:47.250
+\ELANEnd 00:03:58.240
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_049
+\tx Ńan   ịaw      ukčemmi?
+\mb ńaːn ịak  -W   ukčen -mI      
+\ps adv  pron      v              
+\ge and  what -acc tell  -cond.cvb
+\ft What should I tell?
+\ph
+\ru
+\ELANBegin 00:03:58.240
+\ELANEnd 00:03:59.250
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_050
+\tx Hiː kọbalam      ittis?
+\mb hiː kọbalan -W   it  -RI  -s(I)    
+\ps pron n            v                 
+\ge 2sg bear    -acc see -pst -poss.2sg
+\ft Have you seen bears?
+\ph
+\gr
+\nt Using the Kamchatkan Even word for bear, which SPK didn't understand.
+\ru
+\ELANBegin 00:03:59.250
+\ELANEnd 00:04:03.920
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_051
+\tx Ịaw?
+\mb ịak  -W  
+\ps pron     
+\ge what -acc
+
+\ru
+\ELANBegin 00:04:03.920
+\ELANEnd 00:04:04.480
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_052
+\tx mhm, kọ... eh..
+\ru
+\ELANBegin 00:04:04.480
+\ELANEnd 00:04:06.620
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_053
+\tx nakata
+\mb nakat -E 
+\ps n        
+\ge bear  -ep
+
+\ru
+\ELANBegin 00:04:06.620
+\ELANEnd 00:04:07.650
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_054
+\tx nakatụ,  abagaw?
+\mb nakat -W   abaga       -W  
+\ps n          n               
+\ge bear  -acc grandfather -acc
+\ft (Have you seen) bears?
+\ru
+\ELANBegin 00:04:07.650
+\ELANEnd 00:04:09.420
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_055
+\tx Ittiw.
+\mb it  -RI  -W       
+\ps v                 
+\ge see -pst -poss.1sg
+
+\ru Увидел.
+\ELANBegin 00:04:09.420
+\ELANEnd 00:04:10.250
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_056
+\tx Ittiw,             ah. Ŋeːlehmi?
+
+\ru
+\ELANBegin 00:04:10.250
+\ELANEnd 00:04:13.920
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_057
+\tx Ee, ŋeːlehmi.
+\mb ee ŋeːlem         -RI      
+\ps interj v                       
+\ge eh be.frightening -impf.ptc
+
+\ru
+\ELANBegin 00:04:13.920
+\ELANEnd 00:04:16.660
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_058
+\tx Họːja abaga       ile?
+\mb họːja abaga       irek  -(dU)LE
+\ps quant n           pron         
+\ge many  grandfather which -loc   
+\ft Where are there many bears?
+\ru
+\ELANBegin 00:04:16.660
+\ELANEnd 00:04:19.290
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_059
+\tx Abaga       nelke        họːja biwren,         noːmi,         hukleridʒi    noːmi
+\mb abaga       nelke        họːja bi -Gr(E) -n(I) ńoː  -mI       hukle -RIdʒI   ńoː  -mI      
+\ps n           ?            quant v               v              v              v             
+\ge grandfather early.spring many  be -hab   -3sg  exit -cond.cvb sleep -ant.cvb exit -cond.cvb
+\ft There are usually a lot of bears in spring, when they come out after hibernating.
+\ru Медведя много весной бывает когда выходит после спачки.
+\ELANBegin 00:04:19.290
+\ELANEnd 00:04:27.290
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_060
+\tx Dʒebemelče          biwren.
+\mb dʒep -E  -mEl -čE     bi -Gr(E) -n(I)
+\ps v                     v              
+\ge eat  -ep -des -pf.ptc be -hab   -3sg 
+\ft They are usually hungry.
+\ru Голодный бывает.
+\ELANBegin 00:04:27.290
+\ELANEnd 00:04:29.010
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_061
+\tx Ọrọlbụ               ịawran,            holuwekke...         holuwren.
+\mb ọrọn              -L  -W   ịa      -Gr(E) -n(I) holu  -WEːČ -Gr(E) holu  -Gr(E) -n(I)
+\ps n                          v                    v                  v                 
+\ge domestic.reindeer -pl -acc do.what -hab   -3sg  chase -gnr  -hab   chase -hab   -3sg 
+\ft They chase reindeer.
+\ru Гоняется за оленями.
+\ELANBegin 00:04:29.010
+\ELANEnd 00:04:32.330
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_062
+\tx Tar   tadụ     ịamị          naːda
+\mb tarak tarak -DU  ịa      -mI       nado  
+\ps pron  pron       v                 v     
+\ge dist  dist  -dat do.what -cond.cvb need.R
+\ft You need to do something...
+\ru Что-то делать надо.
+\ELANBegin 00:04:32.330
+\ELANEnd 00:04:36.020
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_063
+\tx Bej ehni           ịawrar,               ejekteːkkin              derihne.
+\mb bej e   -R(E) -n(I) ịa      -Gr(E) -R       e   -jEktEːk -GIn        derisen -R      
+\ps n   v               v                       v                        v               
+\ge man neg -nfut -3sg  do.what -hab   -neg.cvb neg -nec.Y   -pred.2sg.Y run.off -neg.cvb
+\ft A person doesn't do something, he shouldn't run away.
+\ru Человек что-то не делает, не должен убегать.
+\ELANBegin 00:04:36.020
+\ELANEnd 00:04:40.490
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_064
+\tx Derihmi           holuwren.
+\mb derisen -mI       holu  -Gr(E) -n(I)
+\ps v                 v                 
+\ge run.off -cond.cvb chase -hab   -3sg 
+\ft If you run off, it might chase (lit. it chases).
+\ph
+\gr (08_quest_2010, 28:00) derihmi - here, the SS.cond.cvb -mI is acceptable, even though its subject is not coreferential
+with the subject of the main clause, because it has a generalized meaning, its subject is a generalized 'you', i.e.
+anybody. It is not possible to use -mI with a specific subject that is not coreferential with the main clause subject.
+\ru Если убежать, может погнаться.
+\ELANBegin 00:04:40.490
+\ELANEnd 00:04:43.740
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_065
+\tx Kụnịnịkan     omen tordu      ịlgamajaktaːkkịn.
+\mb kụːnị  -nIkEn   omen tor   -DU  ịlgam -E  -jEktEːk -GIn       
+\ps v               num  n          v                             
+\ge scream -sim.cvb one  earth -dat stand -ep -nec.Y   -pred.2sg.Y
+\ft You have to stand screaming in one place.
+\ru Крича на одном месте должен стоять.
+\ELANBegin 00:04:43.740
+\ELANEnd 00:04:47.230
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_066
+\tx A ịaw ọːwrar? abagaw ittekes?
+\mb
+\ge
+\ft And what does one do, if you see a bear?
+\ru
+\ELANBegin 00:04:47.230
+\ELANEnd 00:04:57.080
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_067
+\tx Itteku?
+\mb it  -REk      -W       
+\ps v                      
+\ge see -cond.cvb -poss.1sg
+\ft If I see (a bear)?
+\ru Когда вижу
+\ELANBegin 00:04:57.080
+\ELANEnd 00:05:01.690
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_068
+\tx Ehes derihin.. derihinne, ehes kụnịr?
+\mb
+\ge
+\ft You don't run away, you don't scream?
+\ph
+\nt I had obviously not understood what he had said at all, I had understood that you should stand still NOT
+screaming....
+\ru
+\ELANBegin 00:05:01.690
+\ELANEnd 00:05:07.280
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_069
+\tx Ịaw?
+\mb ịak  -W  
+\ps pron     
+\ge what -acc
+
+\ru
+\ELANBegin 00:05:07.280
+\ELANEnd 00:05:09.090
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_070
+\tx Tọwụ   tọwụ   durujegin,                  ahụkandụ  gọl    bihiken.
+\mb tọg  -W   tọg  -W   dur  -U    -j    -EgIn      ahụkan -DU  gọl      bi -REk      -E  -n(I)    
+\ps n         n         v                           adv         n        v                         
+\ge fire -acc fire -acc burn -caus -conn -prs.2sg.Y near   -dat firewood be -cond.cvb -ep -poss.3sg
+\ft You light a fire if there is wood nearby.
+\ru Разжигаешь огонь, если по-близости дрова есть.
+\ELANBegin 00:05:09.090
+\ELANEnd 00:05:14.710
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_071
+\tx Meːne   ịlgamajagịn,             eniken       torerde,            ịak, deːpki  itniken.
+\mb meːne    ịlgam -E  -j    -EgIn      e   -nIkEn   tore  -R       =DE  ịak  deːpki   it  -nIkEn  
+\ps adv      v                          v            v                   pron postpos  v           
+\ge simply.Y stand -ep -conn -prs.2sg.Y neg -sim.cvb speak -neg.cvb =ptl what opposite see -sim.cvb
+\ft You simply stand without speaking, looking ahead.
+\ru Просто стоишь не говоря, навстречу смотря.
+\ELANBegin 00:05:14.710
+\ELANEnd 00:05:18.670
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_072
+\tx Ọččọ  ŋeːlmi            eten            ịara           eten            ịara,
+\mb oččoγuna ŋeːl      -mI       e   -t(E) -n(I) ịa      -R       e   -t(E) -n(I) ịa      -R      
+\ps adv      v                   v               v                v               v               
+\ge then.Y   be.afraid -cond.cvb neg -fut  -3sg  do.what -neg.cvb neg -fut  -3sg  do.what -neg.cvb
+
+\tx emne          hinteki.
+\mb em   -R       hin     -t(E)kI
+\ps v             pron           
+\ge come -neg.cvb 2sg.obl -all   
+
+\ft Then (the bear) will be afraid and won't come to you.
+\ph
+\ru Тогда боясь к тебе не придет.
+\ELANBegin 00:05:18.670
+\ELANEnd 00:05:25.630
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_073
+\tx Derihnekes                     holuridʒi     dʒebehejien                          höp.
+\mb derisen -REk      -E  -s(I)     holu  -RIdʒI   dʒep -E  -s(E)n -j    -IEn             söp 
+\ps v                               v              v                                      ptl 
+\ge run.off -cond.cvb -ep -poss.2sg chase -ant.cvb eat  -ep -lim   -conn -futpt.acc.3sg.Y OK.Y
+
+\ft If you run of it might chase and eat you.
+\ph
+\gr dʒebehendej = s''est' polnost'ju, dʒebdej = kušat'
+\ru Если убежишь, он может тебя съесть, погнавшись за тобой.
+\ELANBegin 00:05:25.630
+\ELANEnd 00:05:33.330
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_074
+\tx Hiː abagaw           nemkerin,            nemkeris?
+\mb hiː abaga       -W   nemke -RI  -n(I)     nemke -RI  -s(I)    
+\ps pron n                v                    v                   
+\ge 2sg grandfather -acc shoot -pst -poss.3sg shoot -pst -poss.2sg
+\ft Have you shot a bear?
+\ru
+\ELANBegin 00:05:33.330
+\ELANEnd 00:05:39.930
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_075
+\tx Eču,              eču               nemkere.
+\mb e   -RI  -W        e   -RI  -W        nemke -R      
+\ps v                  v                  v             
+\ge neg -pst -poss.1sg neg -pst -poss.1sg shoot -neg.cvb
+\ft No I haven't shot (a bear).
+\ph ečü
+\ru Я не стрелял.
+\ELANBegin 00:05:39.930
+\ELANEnd 00:05:45.570
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_076
+\tx Nọŋan ịak... muttu       ịamdas,   swešennej.
+\mb nọŋan ịak  mut    -DU  ịak  -mdEs svjaščennyj
+\ps pron  pron pron        pron       adj        
+\ge 3sg   what 1pl.in -dat what -sml  sacred.R   
+\ft It is sacred for us.
+\ru Он для нас как священный.
+\ELANBegin 00:05:45.570
+\ELANEnd 00:05:50.470
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_077
+\tx Ah, ehm nelzja, da, zapret?
+\mb
+\ge
+\ft Oh, so it's forbidden, yes, a taboo?
+\ru
+\ELANBegin 00:05:50.470
+\ELANEnd 00:05:56.040
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_078
+\tx ee
+\ru
+\ELANBegin 00:05:56.040
+\ELANEnd 00:05:59.040
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_079
+\tx Ịadụńụn    ịamị          höp, tara  ọrọm               holureken,
+\mb ịak  -DU  =ńUn   ịa      -mI       söp  tarak ọrọn              -W   holu  -REk      -E  -n(I)    
+\ps pron             v                 ptl  pron  n                      v                            
+\ge what -dat =restr do.what -cond.cvb OK.Y dist  domestic.reindeer -acc chase -cond.cvb -ep -poss.3sg
+
+\tx dʒepteken.
+\mb dʒep -REk      -E  -n(I)    
+\ps v                           
+\ge eat  -cond.cvb -ep -poss.3sg
+
+\ft It's only allowed (to shoot a bear) if it chases reindeer, eats (them).
+\ru Можно если только он погнался за оленями если съел.
+\ELANBegin 00:05:59.040
+\ELANEnd 00:06:04.930
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_080
+\tx Bej anaːn       ehni           bụltụjgarar,      meːndusńun
+\mb bej anaːn        e   -R(E) -n(I) bụltaː -Gr(E) -r   meːn -DU  -s(I)     =ńUn  
+\ps n   ?            v               v                  pron                      
+\ge man on.purpose.Y neg -nfut -3sg  hunt.Y -hab   -3pl refl -dat -poss.2sg =restr
+
+\tx emneken.
+\mb em   -REk      -E  -n(I)    
+\ps v                           
+\ge come -cond.cvb -ep -poss.3sg
+
+\ft A person doesn't hunt (bears) on purpose, only if it comes to you.
+\ph
+\ru Человек специально не охотится, только если к тебе придет.
+\ELANBegin 00:06:04.930
+\ELANEnd 00:06:11.660
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_081
+\tx Bi   bejben                   emnekenńun           ittiw.
+\mb biː bej    -W   -E  -n(I)     omen -REkEn    =ńUn   it  -RI  -W       
+\ps pron pron                      num                   v                 
+\ge 1sg self.Y -acc -ep -poss.3sg one  -iter.adv =restr see -pst -poss.1sg
+
+\ft I have seen it only once.
+\ph
+\qu need to find out more about bejben!! completely crazy!
+\ru Я его самого только 1 раз видел.
+\ELANBegin 00:06:11.660
+\ELANEnd 00:06:19.180
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_082
+\tx Uonna tọːkịw     họːjaw     maːrịs,          hiː?
+\ft And have you killed many elk?
+\ru
+\ELANBegin 00:06:19.180
+\ELANEnd 00:06:27.040
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_083
+\tx Bi   họːjaw     eču               maːra,       omem.
+\mb biː họːja -W   e   -RI  -W        maː  -R       omen -W  
+\ps pron quant      v                  v             num      
+\ge 1sg many  -acc neg -pst -poss.1sg kill -neg.cvb one  -acc
+\ft I haven't killed many, one.
+\ru Я много не убивал, одного.
+\ELANBegin 00:06:27.040
+\ELANEnd 00:06:29.620
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_084
+\tx omem,     ah.
+\mb omen -W   ah
+\ps num       interj
+\ge one  -acc ah
+
+\ru
+\ELANBegin 00:06:29.620
+\ELANEnd 00:06:31.520
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_085
+\tx Tọːkị nahaː egdʒen, diː?
+\mb tọːkị nahaː  egdʒen diː  
+\ps n     adv    adj    ptl  
+\ge elk   very.Y big    ptl.Y
+\ft Elk are very big, aren't they?
+\ru
+\ELANBegin 00:06:31.520
+\ELANEnd 00:06:37.630
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_086
+\tx Nọnan  stadala        gurgewčidniken            maːrịw,          skọːlaw    elekes   ọddịdʒị.
+\mb nọnan    stado  -(dU)LE gurgeːwči -D    -nIkEn   maː  -RI  -W        škola    -W   elekes   ọd   -RIdʒI  
+\ps adv      n              v                        v                   n             ?        v            
+\ge at.first herd.R -loc    work      -prog -sim.cvb kill -pst -poss.1sg school.R -acc at.first stop -ant.cvb
+
+\ft When I first worked in the reindeer herd I killed (an elk), just after finishing school.
+\ru Убил когда впервые работал в стаде, закончив школу.
+\ELANBegin 00:06:37.630
+\ELANEnd 00:06:47.180
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_087
+\tx Bejel      tọːkịw     dʒeb... dʒebgerer?
+\mb bej -E  -L  tọːkị -W   dʒep dʒep -Gr(E) -r  
+\ps n           n          v    v               
+\ge man -ep -pl elk   -acc eat  eat  -hab   -3pl
+\ft Do people eat elks?
+\ru
+\ELANBegin 00:06:47.180
+\ELANEnd 00:06:56.250
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_088
+\tx Ee dʒebgerer.
+\mb ee dʒep -Gr(E) -r  
+\ps interj v               
+\ge eh eat  -hab   -3pl
+\ft Yes, they eat (them).
+\ru Кушают.
+\ELANBegin 00:06:56.250
+\ELANEnd 00:07:01.360
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_089
+\tx Dalda?
+\mb dalra
+\ps adj  
+\ge tasty
+
+\ru
+\ELANBegin 00:07:01.360
+\ELANEnd 00:07:02.670
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_090
+\tx Ee, ịbga,  ee.
+\mb ee ịbgọ ee
+\ps interj ?    interj
+\ge eh good eh
+
+\ru
+\ELANBegin 00:07:02.670
+\ELANEnd 00:07:05.410
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_091
+\tx Bọlọ,    bọlọ     dʒebgerer,       nelkerep,            irildeːrep         keńeli
+\mb bọlọnị      bọlọnị      dʒep -Gr(E) -r   nelke        -(E)rEp ireli  -DU  -(E)rEp keńeli
+\ps n           n           v                ?                    n                   adj   
+\ge late.autumn late.autumn eat  -hab   -3pl early.spring -adjr   summer -dat -adjr   bad   
+
+\tx bihni,          tịːlaŋị.
+\mb bi -R(E)   -n(I) tịːlaŋị
+\ps v                adj    
+\ge be -nonfut -3sg  thin   
+
+\ft They eat (elk) in autumn, in spring and summer they're bad, thin.
+\ph
+\gr irildu is a fossilized dative form of ireli, which can occur both as the subject, as here, as well as in the adverbial 'in
+summer'; it is also the stem underlying the adjective irilderep
+\ru Осенью кушают, весенний, летний плохой, худой.
+\ELANBegin 00:07:05.410
+\ELANEnd 00:07:12.540
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_092
+\tx tịːlaŋ,   ah
+\mb tịːlaŋị ah
+\ps adj     interj
+\ge thin    ah
+
+\ru
+\ELANBegin 00:07:12.540
+\ELANEnd 00:07:15.790
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_093
+\tx Uonna hiː ammas... amannị... hiː amanịs...?
+\mb
+\ge
+\ft And you father...?
+\ph
+\nt I had thought that the preceding explanations/descriptions were about himself, and therefore asked about his father
+here, not realizing that he'd spoken about him.
+\ru
+\ELANBegin 00:07:15.790
+\ELANEnd 00:07:24.470
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_094
+\tx Ammụ?
+\mb aman   -W       
+\ps n               
+\ge father -poss.1sg
+
+\ru
+\ELANBegin 00:07:24.470
+\ELANEnd 00:07:25.170
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_095
+\tx amm... emie   bujusimŋe          bihin?
+\mb emie   buju -s    -E  -mŋE  bi -RI  -n(I)    
+\ps adv    v                    v                
+\ge also.Y hunt -mult -ep -agnr be -pst -poss.3sg
+\ft He was also a hunter?
+\ru
+\ELANBegin 00:07:25.170
+\ELANEnd 00:07:29.630
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_096
+\tx Ee.
+\mb ee
+\ps interj
+\ge eh
+
+\ru
+\ELANBegin 00:07:29.630
+\ELANEnd 00:07:33.100
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_097
+\tx emie   tugenidu?
+\mb emie   tugeni -DU 
+\ps adv    n          
+\ge also.Y winter -dat
+
+\ru
+\ELANBegin 00:07:33.100
+\ELANEnd 00:07:34.780
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_098
+\tx Tugenidu    ịawgol...
+\mb tugeni -DU  ịak  -W   =(W)Ul
+\ps n           pron            
+\ge winter -dat what -acc =indef
+\ft Something in winter...
+\ru Зимой что-нибудь
+\ELANBegin 00:07:34.780
+\ELANEnd 00:07:38.470
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_099
+\tx Tugeniw     bïha        boholektu      eniken       iːr,          tala          biwren,
+\mb tugeni -W   bïha         poselok   -DU  e   -nIkEn   iː    -R       tarak -(dU)LE bi -Gr(E) -n(I)
+\ps n           postpos      n              v            v              pron          v              
+\ge winter -acc throughout.Y village.R -dat neg -sim.cvb enter -neg.cvb dist  -loc    be -hab   -3sg 
+
+\tx meːn bụltaː ee, ịarị,         bujusri              toreŋleji.
+\mb meːn bụltaː ee ịa      -RI       buju -s    -RI       tor   -E  -ŋ   -(dU)LE -J      
+\ps pron v      interj v                 v                    n                              
+\ge refl hunt.Y eh do.what -impf.ptc hunt -mult -impf.ptc earth -ep -aln -loc    -prfl.sg
+
+\ft Without coming to the village, he was there, in the place where he hunted.
+\ph
+\gr he says toreŋleji, but the more correct form would be toreŋneji
+\ru Не заходя в поселок он там бывал, в месте где охотился.
+\ELANBegin 00:07:38.470
+\ELANEnd 00:07:47.580
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_100
+\tx Beljanka gerbe ọkaːtla       dïlï  ịhrị        bihin.
+\mb Beljanka gerbe ọkaːt -(dU)LE dïlï    ịs    -RI       bi -RI  -n(I)    
+\ps ?        n     n             postpos v               v                
+\ge Beljanka name  river -loc    until.Y reach -impf.ptc be -pst -poss.3sg
+\ft He used to reach the river Beljanka.
+\ru Он добирался до реки Белянка.
+\ELANBegin 00:07:47.580
+\ELANEnd 00:07:53.190
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_101
+\tx Ńan   ịaw?
+\mb ńaːn ịak  -W  
+\ps adv  pron     
+\ge and  what -acc
+\ft And what (else)?
+\ru И что_
+\ELANBegin 00:07:53.190
+\ELANEnd 00:07:57.170
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_102
+\tx Ọmọlgọčọl.
+\mb ọmọlga -čEl
+\ps n          
+\ge boy    -com
+
+\ft With his son.
+\ru Вместе с сыном.
+\ELANBegin 00:07:57.170
+\ELANEnd 00:07:58.740
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_103
+\tx Bi   akmụ                  bihni,          nọŋńụn,  nọŋančal.
+\mb biː akan          -W        bi -R(E)   -n(I) nọŋan -ńUn nọŋan -čEl
+\ps pron n                       v                pron       pron      
+\ge 1sg older.brother -poss.1sg be -nonfut -3sg  3sg   -com 3sg   -com
+
+\ft I have an older brother, together with him.
+\ph
+\gr According to IVK, there is no difference between nọŋńụn and nọŋančal, but the most correct form would be
+nọŋńụnnị; but people say all these forms.
+\ru У меня есть старший брат, вместе с ним.
+\ELANBegin 00:07:58.740
+\ELANEnd 00:08:06.030
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_104
+\tx Tar   bujuhri                       toreŋlen                    dïlï  ... adịː  goːmi,
+\mb tarak bujun         -s    -RI       tor   -E  -ŋ   -(dU)LE -n(I)     dïlï    adịː     goːn -mI      
+\ps pron  v                             n                                postpos ?        v             
+\ge dist  wild.reindeer -mult -impf.ptc earth -ep -aln -loc    -poss.3sg until.Y how.much say  -cond.cvb
+
+\tx stọ     kilometrov       bihin.
+\mb sto       kilometrov       bi -RI  -n(I)    
+\ps num       n                v                
+\ge hundred.R kilometres.gen.R be -pst -poss.3sg
+
+\ft Until the place where he hunted, how much was it, one hundred km.
+\ph
+\ru До места где он охотился, что можно (сколько) сказать, сто км было.
+\ELANBegin 00:08:06.030
+\ELANEnd 00:08:23.880
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_105
+\tx Ọrọnat                ajannaːwrar          tačịn.
+\mb ọrọn              -E  -Č   ajannaː   -Gr(E) -r   tarọːčịn 
+\ps n                          v                     pron     
+\ge domestic.reindeer -ep -ins journey.Y -hab   -3pl dist.qual
+\ft That's how they went by reindeer.
+\ph
+\ru Так на оленя ездили.
+\ELANBegin 00:08:23.880
+\ELANEnd 00:08:25.750
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_106
+\tx Oj, ehm, gọrụ.
+\mb
+\ge
+\ft Oh, that's far.
+\ru
+\ELANBegin 00:08:25.750
+\ELANEnd 00:08:29.570
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_107
+\tx Gọr,   ee.
+\mb gọrụ ee
+\ps ?    interj
+\ge far  eh
+
+\ru
+\ELANBegin 00:08:29.570
+\ELANEnd 00:08:31.230
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_108
+\tx Tugeni tụŋŋan mịar     iŋehiːdu.
+\mb tugeni tụnŋan mịan -L  iŋeńsi -DU 
+\ps n      num    num      n          
+\ge winter five   ten  -pl cold   -dat
+\ft In minus fifty, in winter.
+\ru В 50 градусов зимой.
+\ELANBegin 00:08:31.230
+\ELANEnd 00:08:34.480
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_109
+\tx Ux, iŋehiː
+\mb
+\ge
+\ft Ugh, cold!
+\ru
+\ELANBegin 00:08:34.480
+\ELANEnd 00:08:39.420
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_110
+\tx Tadụ     anaːn       spets     ịak bihni,          ọj,   ịadụ
+\mb tarak -DU  anaːn        spec      ịak  bi -R(E)   -n(I) ọj      ịak  -DU 
+\ps pron       ?            adj       pron v                n       pron     
+\ge dist  -dat on.purpose.Y special.R what be -nonfut -3sg  clothes what -dat
+\ft For that there are special clothes.
+\ru Для этого специальная одежда есть.
+\ELANBegin 00:08:39.420
+\ELANEnd 00:08:45.180
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_111
+\tx nandat?
+\ft Of fur?
+\ru
+\ELANBegin 00:08:45.180
+\ELANEnd 00:08:46.080
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_112
+\tx Ee.
+\ru
+\ELANBegin 00:08:46.080
+\ELANEnd 00:08:48.080
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_113
+\tx Er   boːdeldu    tetehek          ịak tọːkị ọhọldụkụn,              erek bọlla      ịak...
+\mb erek boːdel -DU  tet    -E  -ČEk ịak  tọːkị ọhọl          -DUk(U) -n(I)     erek buollaγïna ịak 
+\ps pron n           v               pron n     n                               pron ptl        pron
+\ge prox leg(s) -dat put.on -ep -nr  what elk   fur.from.paws -abl    -poss.3sg prox dp.Y       what
+
+\tx ụjamkan      nandadụkụn.
+\mb ụjamkan        nanra -DUk(U) -n(I)    
+\ps n              n                      
+\ge mountain.sheep hide  -abl    -poss.3sg
+
+\ft For the legs (it is made) from the fur from elks' legs, while this (the coat) is made of mountain sheep fur.
+\ru Для надевания на ноги из шкуры лося, а это из шкуры горного барана.
+\ELANBegin 00:08:48.080
+\ELANEnd 00:08:59.020
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_114
+\tx Ịan           emie   bihni           maska, mụnrụkan nandadụkụn,         zajets.
+\mb ịak  -n(I)     emie   bi -R(E)   -n(I) maska  mụnrụkan nanra -DUk(U) -n(I)     zajac   
+\ps pron           adv    v                n      n        n                       n       
+\ge what -poss.3sg also.Y be -nonfut -3sg  mask.R hare     hide  -abl    -poss.3sg rabbit.R
+\ft And then there's a mask of rabbit fur.
+\ru Еще есть маска из заичьей шкуры.
+\ELANBegin 00:08:59.020
+\ELANEnd 00:09:06.700
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_115
+\tx Tačịn       ajannaːwrara[p]
+\mb tarọːčịn  ajannaː   -Gr(E) -R(E)   -p     
+\ps pron      v                               
+\ge dist.qual journey.Y -hab   -nonfut -1pl.in
+\ft That's how we go.
+\ru Так ездим.
+\ELANBegin 00:09:06.700
+\ELANEnd 00:09:11.480
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_116
+\tx Tijun biwren,         ọrọm               ịarị..        ilberidu.
+\mb tijun bi -Gr(E) -n(I) ọrọn              -W   ịa      -RI       ilbe  -RI       -DU 
+\ps n     v               n                      v                 v                   
+\ge staff be -hab   -3sg  domestic.reindeer -acc do.what -impf.ptc chase -impf.ptc -dat
+\ft There is a staff to urge on the reindeer.
+\ru Есть палка для понукания оленя.
+\ELANBegin 00:09:11.480
+\ELANEnd 00:09:14.850
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_117
+\tx Tar   ịadụk     ọːwrar,        čalban, čalbandụk    igin  ọːwrar.
+\mb tarak ịak  -DUk(U) ọː   -Gr(E) -r   čalban čalban -DUk(U) iŋin  ọː   -Gr(E) -r  
+\ps pron  pron         v                n      n              ptl   v               
+\ge dist  what -abl    make -hab   -3pl birch  birch  -abl    etc.Y make -hab   -3pl
+\ft They make that from birch trees.
+\ru Делают из березы.
+\ELANBegin 00:09:14.850
+\ELANEnd 00:09:25.270
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_118
+\tx Bejen               ọrọn          skọrahan            dʒoːrmịar      častụ  kilometr.
+\mb bej    -E  -n(I)     ọrọn              skorost' -E  -n(I)     dʒoːr mịan -L  čas  -DU  kilometr
+\ps pron                 n                 n                      num   num      n         n       
+\ge self.Y -ep -poss.3sg domestic.reindeer speed.R  -ep -poss.3sg two   ten  -pl hour -dat km.R    
+\ft A reindeer's speed is 20 kilometers per hour.
+\ru Скорость оленя 20км/час.
+\ELANBegin 00:09:25.270
+\ELANEnd 00:09:35.830
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_119
+\tx Ńan   ịaw      ukčemmi?
+\mb ńaːn ịak  -W   ukčen -mI      
+\ps adv  pron      v              
+\ge and  what -acc tell  -cond.cvb
+\ft What else should I tell?
+\ph
+\ru
+\ELANBegin 00:09:35.830
+\ELANEnd 00:09:38.100
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_120
+\tx Ah, bystro, ịŋat, ịnmat.
+\mb
+\ge
+\ft Ah, that's fast.
+\ru
+\ELANBegin 00:09:38.100
+\ELANEnd 00:09:45.810
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_121
+\tx Ńan...
+\mb ńaːn
+\ps adv 
+\ge and 
+
+\ru
+\ELANBegin 00:09:45.810
+\ELANEnd 00:09:47.320
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_122
+\tx Uonna hịgịːla       bujus...   bujus...   hịgịːla       adịs          gọrụ, adịs          nediele hiː
+
+\tx tala          biwrenni?
+\ft And how long, how many weeks are you in the taiga?
+\ru
+\ELANBegin 00:09:47.320
+\ELANEnd 00:10:08.600
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_123
+\tx Haːmaj gọrọldaŋan                        omen anŋanị.
+\mb samyj  gọrụ -E  -l  -DEŋ     -E  -n(I)     omen anŋan
+\ps adj    v                                   num  n    
+\ge most.R long -ep -vr -pst.ptc -ep -poss.3sg one  year 
+\ft The longest was one year.
+\ru Самое долгое 1 год.
+\ELANBegin 00:10:08.600
+\ELANEnd 00:10:11.860
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_124
+\tx Omen anŋanị??
+\mb omen anŋan
+\ps num  n    
+\ge one  year 
+
+\ru
+\ELANBegin 00:10:11.860
+\ELANEnd 00:10:14.390
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_125
+\tx Bütünnüː omen anŋanị, hịgịːla?      Ux
+\mb bütünnüː   omen anŋan hịgịː  -(dU)LE
+\ps ?          num  n     n             
+\ge entirely.Y one  year  forest -loc   
+\ft One whole year? Phew.
+\ru
+\ELANBegin 00:10:14.390
+\ELANEnd 00:10:21.590
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_126
+\tx Ne skučno li?
+\mb
+\ge
+\ft Isn't it boring?
+\ru
+\ELANBegin 00:10:21.590
+\ELANEnd 00:10:26.110
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_127
+\tx Edej                   baːlla                ịat      ịawram:           radio   igin, da
+\mb e   -DE       -J       baː     -L    -R       ịak  -Č   ịa      -Gr(E) -m   radio   iŋin  da   
+\ps v                      v                      pron      v                   n       ptl   ptl  
+\ge neg -purp.cvb -prfl.sg be.lazy -inch -neg.cvb what -ins do.what -hab   -1sg radio.R etc.Y ptl.R
+
+\tx himbiːr       bajhị        biwren.
+\mb himbiːr        baj       -RI       bi -Gr(E) -n(I)
+\ps adv            v                   v              
+\ge all.the.same.Y be.boring -impf.ptc be -hab   -3sg 
+
+\ft So that I don't get bored and homesick, I do something, (there is a) radio etc, but it is boring nevertheless.
+\ru Чтобы не затосковать, что-то делаю, радио есть, но все равно бывает скучно.
+\ELANBegin 00:10:26.110
+\ELANEnd 00:10:36.060
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_128
+\tx Da?   Ah.
+\mb da    ah
+\ps ptl   interj
+\ge yes.R ah
+
+\ru
+\ELANBegin 00:10:36.060
+\ELANEnd 00:10:40.920
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_129
+\tx Adịː  bejel      omettu?  Omen?
+\mb adịː     bej -E  -L  omettu   omen
+\ps ?        n           adv      num 
+\ge how.much man -ep -pl together one 
+\ft How many people are there altogether?
+\ru
+\ELANBegin 00:10:40.920
+\ELANEnd 00:10:45.480
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_130
+\tx Omen stadadụ   nadan bej, ọrọlčịmŋal.
+\mb omen stado  -DU  nadan bej ọrọlčị        -mŋE  -L 
+\ps num  n           num   n   v                      
+\ge one  herd.R -dat seven man herd.reindeer -agnr -pl
+\ft In one herd there are seven reindeer herders.
+\ru В одном стаде 7 человек оленеводов.
+\ELANBegin 00:10:45.480
+\ELANEnd 00:10:53.020
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_131
+\tx Digen ịak čụm ahị ịawrar,           dʒeblew       iriwrer.
+\mb digen ịak  čum    asị   ịa      -Gr(E) -r   dʒep -LE -W   iri  -Gr(E) -r  
+\ps num   pron n      n     v                   v             v               
+\ge four  what yurt.R woman do.what -hab   -3pl eat  -nr -acc cook -hab   -3pl
+\ft Four yurt workers make food.
+\ru Четыре чумработниц что-то делают, готовят еду.
+\ELANBegin 00:10:53.020
+\ELANEnd 00:10:59.770
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_132
+\tx Ah, ịlan čumrabotnitsaj, digen ọrọlčịmŋal?
+\mb ah ịlan  čumrabotnica  digen ọrọlčị        -mŋE  -L 
+\ps interj num   n             num   v                      
+\ge ah three yurt.worker.R four  herd.reindeer -agnr -pl
+\ft Ah, three yurt workers, four reindeer herders? 
+\ph
+\nt Completely misunderstood what he said....
+\gr
+\gr
+\ru
+\ELANBegin 00:10:59.770
+\ELANEnd 00:11:06.930
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_133
+\tx Nadan ọrọlčịmŋa
+\mb nadan ọrọlčị        -mŋE 
+\ps num   v                  
+\ge seven herd.reindeer -agnr
+\ft Seven reindeer herders.
+\ru
+\ELANBegin 00:11:06.930
+\ELANEnd 00:11:10.290
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_134
+\tx Uonna čụm ahị adụn?
+\ft And how many yurt workers?
+\ru
+\ELANBegin 00:11:10.290
+\ELANEnd 00:11:16.740
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_135
+\tx Omen?
+\mb omen
+\ps num 
+\ge one 
+
+\ru
+\ELANBegin 00:11:16.740
+\ELANEnd 00:11:17.960
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_136
+\tx Ịlan
+\mb ịlan 
+\ps num  
+\ge three
+
+\ru
+\ELANBegin 00:11:17.960
+\ELANEnd 00:11:21.910
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_137
+\tx Uonna balakkalat?
+\ft And with tents?
+\ph
+\nt Used the wrong form, conflating the locative and instrumental case....
+\ru
+\ELANBegin 00:11:21.910
+\ELANEnd 00:11:24.130
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_138
+\tx Ee, irildu      bọlla      balakkat     tegekkerep.
+\mb ee ireli  -DU  buollaγïna palatka -Č   teg      -E  -Č   -Gr(E) -p     
+\ps interj n           ptl        n            v                               
+\ge eh summer -dat dp.Y       tent.R  -ins sit.down -ep -res -hab   -1pl.in
+
+\ft Yes, in summer we live in tents.
+\ru Летом в палатках живем.
+\ELANBegin 00:11:24.130
+\ELANEnd 00:11:27.840
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_139
+\tx Tuge   ịadụ   horgerep,          uteː, uteːn dʒụːdụ.
+\mb tugeni ịak  -DU  hor -Gr(E) -p      uteːn uteːn dʒụː  -DU 
+\ps n      pron      v                  n     n     n         
+\ge winter what -dat go  -hab   -1pl.in hut   hut   house -dat
+\ft In winter we move to a hut.
+\ru Зимой идем в избушку, в зимник.
+\ELANBegin 00:11:27.840
+\ELANEnd 00:11:32.100
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_140
+\tx Dʒoːr dʒụː bihni.
+\mb dʒoːr dʒụː  bi -R(E)   -n(I)
+\ps num   n     v               
+\ge two   house be -nonfut -3sg 
+
+\ft There are two houses.
+\ru Есть 2 дома.
+\ELANBegin 00:11:32.100
+\ELANEnd 00:11:35.810
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_141
+\tx Tegekkerep.
+\mb teg      -E  -Č   -Gr(E) -p     
+\ps v                               
+\ge sit.down -ep -res -hab   -1pl.in
+\ft We live.
+\ru Живем.
+\ELANBegin 00:11:35.810
+\ELANEnd 00:11:38.130
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_142
+\tx A     hiː tiːk ịat      ele          emčel...        em... emče        bihenni.
+\mb a.R   hiː tiek ịak  -Č   erek -(dU)LE em   -čE     -L  em   em   -čE     bi -R(E)   -nrI
+\ps ?     pron adv  pron      pron         v                v    v            v              
+\ge but.R 2sg now  what -ins prox -loc    come -pf.ptc -pl come come -pf.ptc be -nonfut -2sg
+\ft What (kind of transport) did you come with now?
+\ru
+\ELANBegin 00:11:38.130
+\ELANEnd 00:11:53.320
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_143
+\tx tiːke?
+\mb tiek
+\ps adv 
+\ge now 
+
+\ru
+\ELANBegin 00:11:53.320
+\ELANEnd 00:11:54.280
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_144
+\tx aha, ọrọnat?
+\mb aha ọrọn              -E  -Č  
+\ps excl n                         
+\ge aha domestic.reindeer -ep -ins
+\ft Yes, by reindeer?
+\ru
+\ELANBegin 00:11:54.280
+\ELANEnd 00:11:55.420
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_145
+\tx Ọrọnat                emniw
+\mb ọrọn              -E  -Č   em   -RI  -W       
+\ps n                          v                  
+\ge domestic.reindeer -ep -ins come -pst -poss.1sg
+\ft I came by reindeer.
+\ru На оленях приехал
+\ELANBegin 00:11:55.420
+\ELANEnd 00:11:57.360
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_146
+\tx A     hiː ọːk hor hordʒin...     hordʒinni?
+\ft And when will you leave?
+\ru
+\ELANBegin 00:11:57.360
+\ELANEnd 00:12:07.620
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_147
+\tx Tiːk marttụ,    ịadụ   desjatogo dʒoːm.... desjatogo marta       hordʒim
+\mb tiek mart    -DU  ịak  -DU  desjatogo desjatogo marta       hor -DʒI -m  
+\ps adv  n            pron      adj       adj       n           v            
+\ge now  March.R -dat what -dat ten.gen.R ten.gen.R March.gen.R go  -fut -1sg
+\ft Now I'll go in March, on the tenth of March.
+\ru Сейчас в марте, 10го марта поеду.
+\ELANBegin 00:12:07.620
+\ELANEnd 00:12:14.670
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_148
+\tx Emie   ọrọnat?
+\mb emie   ọrọn              -E  -Č  
+\ps adv    n                         
+\ge also.Y domestic.reindeer -ep -ins
+\ft By reindeer again?
+\ru
+\ELANBegin 00:12:14.670
+\ELANEnd 00:12:17.050
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_149
+\tx Emie
+\mb emie  
+\ps adv   
+\ge also.Y
+
+\ru
+\ELANBegin 00:12:17.050
+\ELANEnd 00:12:18.020
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_150
+\tx Aa
+\ru
+\ELANBegin 00:12:18.020
+\ELANEnd 00:12:19.360
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_151
+\tx Sljottu        olenevodov             ili           bihes,          bihes?
+\mb slet      -DU  olenevodov             irek  -(dU)LI bi -R(E)   -s   bi -R(E)   -s  
+\ps n              n                      pron          v               v              
+\ge meeting.R -dat reindeer.herders.gen.R which -prol   be -nonfut -2pl be -nonfut -2pl
+\ft Will you be here for the reindeer herders' festival?
+\ru
+\ELANBegin 00:12:19.360
+\ELANEnd 00:12:25.820
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_152
+\tx Slet      olenevodov?
+\mb slet      olenevodov            
+\ps n         n                     
+\ge meeting.R reindeer.herders.gen.R
+
+\ru
+\ELANBegin 00:12:25.820
+\ELANEnd 00:12:27.160
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_153
+\tx Aha hiː
+\mb aha hiː
+\ps excl pron
+\ge aha 2sg
+
+\ru
+\ELANBegin 00:12:27.160
+\ELANEnd 00:12:28.090
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_154
+\tx Emdʒim         ele
+\mb em   -DʒI -m   erek -(dU)LE
+\ps v              pron        
+\ge come -fut -1sg prox -loc   
+\ft I will come here.
+\ru Приду сюда
+\ELANBegin 00:12:28.090
+\ELANEnd 00:12:28.980
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_155
+\tx bidʒenni?
+\mb
+\ft (Intended): will you be (bidʒinni).
+\ru
+\ELANBegin 00:12:28.980
+\ELANEnd 00:12:30.910
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_156
+\tx Bütünnüː ọrọlčịmŋal...
+\mb bütünnüː   ọrọlčị        -mŋE  -L 
+\ps ?          v                      
+\ge entirely.Y herd.reindeer -agnr -pl
+\ft All the reindeer herders...
+\ru
+\ELANBegin 00:12:30.910
+\ELANEnd 00:12:32.870
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_157
+\tx emdʒir,        emdʒir
+\mb em   -DʒI -r   em   -DʒI -r  
+\ps v              v             
+\ge come -fut -3pl come -fut -3pl
+\ft Will come, will come.
+\ru
+\ELANBegin 00:12:32.870
+\ELANEnd 00:12:33.520
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_158
+\tx emdʒir,        da?
+\mb em   -DʒI -r   da   
+\ps v              ptl  
+\ge come -fut -3pl yes.R
+\ft Will come?
+\ru
+\ELANBegin 00:12:33.520
+\ELANEnd 00:12:36.060
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_159
+\tx Baγar    mut    hiː horrekes                    mut    kojeːttej...              kojeːkkin         höp duo?
+\ft Perhaps when you go we could watch?
+\ru
+\ELANBegin 00:12:36.060
+\ELANEnd 00:12:53.930
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_160
+\tx Nataša össö  ọrọn          tụrkịw     eče...
+\mb Natalia össö    ọrọn              tụrkị -W   e   -čE    
+\ps ?       adv     n                 n          v          
+\ge Natalia still.Y domestic.reindeer sled  -acc neg -pf.ptc
+
+\ft Natasha hasn't yet (seen) a reindeer sled (should be ọrọn tụrkịwan)....
+\ru
+\ELANBegin 00:12:53.930
+\ELANEnd 00:13:02.080
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_161
+\tx eče        itte,        da?
+\mb e   -čE     it  -R       da   
+\ps v           v            ptl  
+\ge neg -pf.ptc see -neg.cvb yes.R
+\ft She hasn't seen, yes?
+\ru Не видела, да?
+\ELANBegin 00:13:02.080
+\ELANEnd 00:13:04.810
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_162
+\tx En    ...  hiː tala          hordʒin...     hordʒis?
+\mb en    *... hiː tarak -(dU)LE hor -DʒI -n(I) hor -DʒI -s  
+\ps pron  ?    pron pron          v              v            
+\ge 2sg.Y ***  2sg dist  -loc    go  -fut -3sg  go  -fut -2pl
+\ft Will you go there (pointing towards the south).
+\ru
+\nt The correct 2SG future form would be hordʒinni.
+\ELANBegin 00:13:04.810
+\ELANEnd 00:13:12.290
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_163
+\tx Bi   naoborọt
+\mb biː na.oborot        
+\ps pron adv              
+\ge 1sg to.the.contrary.R
+\ft (No), I'm (going) in the opposite (direction)
+\ru
+\ELANBegin 00:13:12.290
+\ELANEnd 00:13:13.750
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_164
+\tx Ah, ponjatno, küöl... küöl.... kak
+\mb
+\ge
+\ft Ah, I understand, the lake (using the Sakha word), how..
+\ru
+\ELANBegin 00:13:13.750
+\ELANEnd 00:13:20.420
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_165
+\tx Toŋeːrli
+\mb toŋeːr -(dU)LI
+\ps n             
+\ge lake   -prol  
+\ft Via the lake.
+\ru По озеру.
+\ELANBegin 00:13:20.420
+\ELANEnd 00:13:21.810
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_166
+\tx Toŋeːrli,      ah.
+\mb toŋeːr -(dU)LI ah
+\ps n              interj
+\ge lake   -prol   ah
+
+\ru
+\ELANBegin 00:13:21.810
+\ELANEnd 00:13:24.340
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_167
+\tx A... ponjatno.
+\mb
+\ge
+\ft Ah, I've understood.
+\ru
+\ELANBegin 00:13:24.340
+\ELANEnd 00:13:26.600
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_168
+\tx Toneren, toneren, toner amardan stado...?
+\mb
+\ge
+\ft Is the herd behind the lake?
+\ru
+\ELANBegin 00:13:26.600
+\ELANEnd 00:13:33.110
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_169
+\tx Gọr.
+\mb gọrụ
+\ps ?   
+\ge far 
+
+\ru
+\ELANBegin 00:13:33.110
+\ELANEnd 00:13:34.540
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_170
+\tx Gọrụ, da?
+\mb gọrụ da   
+\ps ?    ptl  
+\ge far  yes.R
+
+\ru
+\ELANBegin 00:13:34.540
+\ELANEnd 00:13:37.460
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_171
+\tx ujun mịar     kilometr
+\mb ujun mịan -L  kilometr
+\ps num  num      n       
+\ge nine ten  -pl km.R    
+\ft ninety kilometres
+\ph üjün mịar
+\ru 90 км
+\ELANBegin 00:13:37.460
+\ELANEnd 00:13:40.980
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_172
+\tx Hi   omen ineŋi tụrkịdasnịn?
+\mb hiː omen ineŋi tụrkị -DE -s(E)n -E  -n(I)    
+\ps pron num  n     v                             
+\ge 2sg one  day   sled  -vr -lim   -ep -poss.3sg
+\ft Do you journey one day? (obviously wrong form of the verb).
+\ru
+\ELANBegin 00:13:40.980
+\ELANEnd 00:13:45.950
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_173
+\tx dʒoːr ineŋi
+\mb dʒoːr ineŋi
+\ps num   n    
+\ge two   day  
+\ft Two days
+\ru 2 дня
+\ELANBegin 00:13:45.950
+\ELANEnd 00:13:46.820
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_174
+\tx dʒoːr ineŋi, aha
+\mb dʒoːr ineŋi aha
+\ps num   n     excl
+\ge two   day   aha
+
+\ru
+\ELANBegin 00:13:46.820
+\ELANEnd 00:13:49.010
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_175
+\tx Uonna họtarandụla     balakkat...?
+\ft And along the way you (sleep) in a tent?
+\ru
+\ELANBegin 00:13:49.010
+\ELANEnd 00:13:53.390
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_176
+\tx Balakkaw     ịlụrịdʒị
+\mb palatka -W   ịl       -U    -RIdʒI  
+\ps n            v                      
+\ge tent.R  -acc stand.up -caus -ant.cvb
+\ft Having set up a tent
+\ru Поставив палатку
+\ELANBegin 00:13:53.390
+\ELANEnd 00:13:56.360
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_177
+\tx I hukleh... hukle bidʒin, ponjatno
+\mb
+\ge
+\ft And you sleep, I understand. (completely wrong forms)
+\ph
+\ru
+\ELANBegin 00:13:56.360
+\ELANEnd 00:14:01.200
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_178
+\tx Ịaw, ...  ịaw ịadan čụmrabọtnitsa dʒeb.. dʒebdʒidden
+\mb
+\ge
+\ft What do the yurt workers cook? 
+\ru
+\ELANBegin 00:14:01.200
+\ELANEnd 00:14:12.570
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_179
+\tx Uldew,    uldew     tịaraŋgarar
+\mb ulre -W   ulre -W   tịaran              -Gr(E) -r  
+\ps n         n         v                              
+\ge meat -acc meat -acc finely.chopped.meat -hab   -3pl
+\ft They fry finely chopped meat.
+\ru Рубят мясо и жарят.
+\ELANBegin 00:14:12.570
+\ELANEnd 00:14:14.820
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_180
+\tx uldew     da?
+\mb ulre -W   da   
+\ps n         ptl  
+\ge meat -acc yes.R
+
+\ru
+\ELANBegin 00:14:14.820
+\ELANEnd 00:14:16.430
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_181
+\tx Ńan   ịaw...   ụjamkam           maːmị       ịaw      ịawan                 igin,
+\mb ńaːn ịak  -W   ụjamkan        -W   maː  -mI       ịak  -W   ịak  -W   -E  -n(I)     iŋin 
+\ps adv  pron      n                   v              pron      pron                    ptl  
+\ge and  what -acc mountain.sheep -acc kill -cond.cvb what -acc what -acc -ep -poss.3sg etc.Y
+
+\tx uren                 dọːwan                iriwrer
+\mb ur      -E  -n(I)     dọː    -W   -E  -n(I)     iri  -Gr(E) -r  
+\ps n                     rel.n                     v               
+\ge stomach -ep -poss.3sg inside -acc -ep -poss.3sg cook -hab   -3pl
+
+\ft And if they kill a mountain sheep, they cook the insides (intestines).
+\ph üren
+\ru Убив уямкана варят, готовят внутренности.
+\ELANBegin 00:14:16.430
+\ELANEnd 00:14:30.070
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_182
+\tx mhm
+\ru
+\ELANBegin 00:14:30.070
+\ELANEnd 00:14:31.010
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_183
+\tx čalmị
+\mb čalmị     
+\ps n         
+\ge intestines
+
+\ru
+\ELANBegin 00:14:31.010
+\ELANEnd 00:14:31.510
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_184
+\tx čalmị,  ee.
+\mb čalmị      ee
+\ps n          interj
+\ge intestines eh
+
+\ru
+\ELANBegin 00:14:31.510
+\ELANEnd 00:14:32.750
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_185
+\tx ịbgatgo?
+\mb ịbgọ -Č   =GU
+\ps n            
+\ge good -ins =q 
+\ft Is that good?
+\ru
+\ELANBegin 00:14:32.750
+\ELANEnd 00:14:33.950
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_186
+\tx ịbga,  ee
+\mb ịbgọ ee
+\ps ?    interj
+\ge good eh
+\ft Yes, good.
+\ru
+\ELANBegin 00:14:33.950
+\ELANEnd 00:14:38.940
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_187
+\tx Ńan   ịawan                 haːkam      igin  iriwrer
+\mb ńaːn ịak  -W   -E  -n(I)     haːkan -W   iŋin  iri  -Gr(E) -r  
+\ps adv  pron                    n           ptl   v               
+\ge and  what -acc -ep -poss.3sg liver  -acc etc.Y cook -hab   -3pl
+\ft And they cook the liver and such.
+\ru Готовят печень.
+\ELANBegin 00:14:38.940
+\ELANEnd 00:14:46.170
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_188
+\tx ńan?
+\mb ńaːn
+\ps adv 
+\ge and 
+
+\ru
+\ELANBegin 00:14:46.170
+\ELANEnd 00:14:47.830
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_189
+\tx Ụjamkam           nọnọn maːmị       ịawan                 dʒebmi         ịbga   biwren
+\mb ụjamkan        -W   nọnan    maː  -mI       ịak  -W   -E  -n(I)     dʒep -mI       ịbgọ bi -Gr(E) -n(I)
+\ps n                   adv      v              pron                    v              ?    v              
+\ge mountain.sheep -acc at.first kill -cond.cvb what -acc -ep -poss.3sg eat  -cond.cvb good be -hab   -3sg 
+
+\tx ńan   gedemekben                     imheben,               ịamdas    biwren          tar
+\mb ńaːn gedemek      -W   -E  -n(I)     imse -W   -E  -n(I)     ịak  -mdEs bi -Gr(E) -n(I) tarak
+\ps adv  n                               n                       pron       v               pron 
+\ge and  back.of.head -acc -ep -poss.3sg fat  -acc -ep -poss.3sg what -sml  be -hab   -3sg  dist 
+
+\tx žewačkamdas,      biwren          ee.
+\mb žewačka       -mdEs bi -Gr(E) -n(I) ee
+\ps n                   v               interj
+\ge chewing.gum.R -sml  be -hab   -3sg  eh
+
+\ft When they first kill a mountain sheep, it is good to eat its what, the fat from the back of his head, that is like chewing
+gum.
+\ph
+\nt There is a big layer of fat at the back of a mountain sheep's head, and that is chewed  raw 'like chewing gum', still
+warm, cf. Krivoshapkina_Ija_memories_156 
+\ru Убив сначала уямкана, бывает хорошо съесть жир с затылка, как жевачка бывает.
+\ELANBegin 00:14:47.830
+\ELANEnd 00:14:58.780
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_190
+\tx Nahaː ịbga.
+\mb nahaː  ịbgọ
+\ps adv    ?   
+\ge very.Y good
+
+\ru
+\ELANBegin 00:14:58.780
+\ELANEnd 00:15:05.770
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_191
+\tx Ebeter amtan           honte?
+\mb ebeter amta  -n(I)     honte
+\ps conj   v               adj  
+\ge or.Y   taste -poss.3sg other
+\ft But the taste is different?
+\ru
+\ELANBegin 00:15:05.770
+\ELANEnd 00:15:09.960
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_192
+\tx honte, ee.
+\mb honte ee
+\ps adj   interj
+\ge other eh
+
+\ru
+\ELANBegin 00:15:09.960
+\ELANEnd 00:15:12.690
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_193
+\tx V poselke vkusnee?
+\mb
+\ge
+\ft It's better in the village?
+\ru
+\ELANBegin 00:15:12.690
+\ELANEnd 00:15:17.260
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_194
+\tx Ńan   tuge   tọːkịw     igin  maːmị       edej                   iŋemne
+\mb ńaːn tugeni tọːkị -W   iŋin  maː  -mI       e   -DE       -J       iŋeń    -W     -R      
+\ps adv  n      n          ptl   v              v                      v                      
+\ge and  winter elk   -acc etc.Y kill -cond.cvb neg -purp.cvb -prfl.sg be.cold -advrs -neg.cvb
+
+\tx ịawan            dʒebgerenni:     kostnyj_mozg, ụmam.
+\mb ịak  -W   -E  -n(I) dʒep -Gr(E) -nrI kostnyj_mozg  ụman        -W  
+\ps pron                v                n             n               
+\ge what -acc -ep -3sg  eat  -hab   -2sg bone.marrow.R bone.marrow -acc
+
+\ft And in winter when you kill an elk, you eat the bone marrow so that you don't get cold.
+\ru Зимой чтобы не замерзнуть ешь костный мозг лося.
+\ELANBegin 00:15:17.260
+\ELANEnd 00:15:30.240
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_195
+\tx ịbga?
+\mb ịbgọ
+\ps ?   
+\ge good
+
+\ru
+\ELANBegin 00:15:30.240
+\ELANEnd 00:15:31.590
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_196
+\tx Ịbga   biwren,         ee, bej ńamalgaran.
+\mb ịbgọ bi -Gr(E) -n(I) ee bej ńam     -E  -L    -Gr(E) -E  -n(I)
+\ps ?    v               interj n   v                                 
+\ge good be -hab   -3sg  eh man be.warm -ep -inch -hab   -ep -3sg 
+
+\ft It's good, it warms you up (a person gets warm).
+\ru Хорошо бывает, человек согревается.
+\ELANBegin 00:15:31.590
+\ELANEnd 00:15:37.910
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_197
+\tx Uonna ọrọn          ụmannị            emie   dʒebgeren?
+\ft And they (actually said s/he) also eat the bone marrow of reindeer?
+\ru
+\ELANBegin 00:15:37.910
+\ELANEnd 00:15:46.300
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_198
+\tx Üldʒü      dʒebejegin                taraw,     maːmị.
+\mb üldʒü         dʒep -E  -j    -EgIn      tarak -W   maː  -mI      
+\ps adv           v                         pron       v             
+\ge immediately.Y eat  -ep -conn -prs.2sg.Y dist  -acc kill -cond.cvb
+
+\ft You have to eat that at once.
+\ph
+\gr (trans RDA_stuck_SPK_oxota, 40:00) dʒebejegin = ottenok nužno srazu kušat', ne prosto 'srazu kušaeš';
+(09_quest_2010, from about 3:00) long discussion about the forms in -(e)jegin, which she translated sometimes with
+'nužno', sometimes with simple 2SG present tense. At first she said it should all be just 2SG.prs, and that she just put
+in the 'nužno' meaning from the context, but then (about 7:00) she said that the 'nužno' would have a long vowel on
+the middle syllable, -(e)jeːgin - but I cannot hear that; (10_quest_2010, beginning) tulejeːgin naːda - one cannot use
+the verb form without naːda, and the lenght is on the Sakha fut.ptcp, tulejeːgin = 3SG, on dolžen postavit', 2SG ty
+dolžen postavit' = tulejeːkkin, 1SG tulejeːkpin; so the nuance of necessity comes only from the context, it's not
+inherent in the form
+\ru Нужно сразу съесть, убив.
+\ELANBegin 00:15:46.300
+\ELANEnd 00:15:52.200
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_199
+\tx hiːkejgu?
+\ft (You eat that) raw?
+\ru
+\ELANBegin 00:15:52.200
+\ELANEnd 00:15:54.060
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_200
+\tx hiːkejet,      ee
+\mb siːkej -E  -Č   ee
+\ps adj             interj
+\ge raw.Y  -ep -ins eh
+
+\ft Yes, raw.
+\ph
+\ru
+\ELANBegin 00:15:54.060
+\ELANEnd 00:15:54.620
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_201
+\tx oo dʒe
+\mb oo dʒe   
+\ps interj ptl   
+\ge oh well.Y
+
+\ft Oh dear.
+\ru
+\ELANBegin 00:15:54.620
+\ELANEnd 00:15:55.750
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_202
+\tx Ịbgat,      ihme hni            himbiːr
+\mb ịbgọ -Č   imse e   -R(E) -n(I) himbiːr       
+\ps n         n    v               adv           
+\ge good -ins fat  neg -nfut -3sg  all.the.same.Y
+\ft It's good, it's just fat, right.
+\ru Хорошо, жир все равно.
+\ELANBegin 00:15:55.750
+\ELANEnd 00:16:00.030
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_203
+\tx Ịaw emie dʒebeddes ọrọndụk, ịawgịda, ọrọn... ọrọn... ọrọndụk?
+\mb
+\ge
+\ft Which other parts of a reindeer do you eat?
+\ru
+\ELANBegin 00:16:00.030
+\ELANEnd 00:16:10.980
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_204
+\tx Kakuju čast, abụwgịda?
+\mb
+\ge
+\ft Which part?
+\ru
+\ELANBegin 00:16:10.980
+\ELANEnd 00:16:18.460
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_205
+\tx Kakuju čast olenja? kušajut?
+\mb
+\ge
+\ft Which part of the reindeer? They eat?
+\ru
+\ELANBegin 00:16:18.460
+\ELANEnd 00:16:20.580
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_206
+\tx mhm
+\ru
+\ELANBegin 00:16:20.580
+\ELANEnd 00:16:21.950
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_207
+\tx vsju
+\mb
+\ge
+\ft All.
+\ru
+\ELANBegin 00:16:21.950
+\ELANEnd 00:16:22.930
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_208
+\tx bütünnüː?
+\mb bütünnüː  
+\ps ?         
+\ge entirely.Y
+
+\ru
+\ELANBegin 00:16:22.930
+\ELANEnd 00:16:23.780
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_209
+\tx ee, bütünnüː
+\mb ee bütünnüː  
+\ps interj ?         
+\ge eh entirely.Y
+
+\ru
+\ELANBegin 00:16:23.780
+\ELANEnd 00:16:26.340
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_210
+\tx čalmịw...
+\mb čalmị      -W  
+\ps n              
+\ge intestines -acc
+
+\ru
+\ELANBegin 00:16:26.340
+\ELANEnd 00:16:28.040
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_211
+\tx čalmịwan
+\mb čalmị      -W   -E  -n(I)    
+\ps n                            
+\ge intestines -acc -ep -poss.3sg
+
+\ru
+\ELANBegin 00:16:28.040
+\ELANEnd 00:16:29.060
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_212
+\tx Čto samoe samoe vkusnoe?
+\mb
+\ge
+\ft (Which part) is the tastiest?
+\ru
+\ELANBegin 00:16:29.060
+\ELANEnd 00:16:33.370
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_213
+\tx čalmị
+\mb čalmị     
+\ps n         
+\ge intestines
+
+\ru
+\ELANBegin 00:16:33.370
+\ELANEnd 00:16:34.460
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_214
+\tx čalmị,  ah
+\mb čalmị      ah
+\ps n          interj
+\ge intestines ah
+
+\ru
+\ELANBegin 00:16:34.460
+\ELANEnd 00:16:38.450
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_215
+\tx Himbiːr       ịak bej kuruk     ọrọnńụn           uldedʒin           biwren.
+\mb himbiːr        ịak  bej kuruk     ọrọn              =ńUn   ulre -Č   -n(I)     bi -Gr(E) -n(I)
+\ps adv            pron n   adv       n                        n                   v              
+\ge all.the.same.Y what man always.Y. domestic.reindeer =restr meat -ins -poss.3sg be -hab   -3sg 
+\ft All the same a person only lives off reindeer meat.
+\ru Все равно человек только на оленнем мясе бывает.
+\ELANBegin 00:16:38.450
+\ELANEnd 00:16:48.030
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_216
+\tx Tadụk       honte domŋedu      dʒeble   ačča bọlla.
+\mb tarak -DUk(U) honte doːmŋe -DU  dʒep -LE ačča buol  -dEg      -E         
+\ps pron          adj   n           v        ptl  v                          
+\ge dist  -abl    other taiga  -dat eat  -nr neg  aux.Y -assert.Y -poss.3sg.Y
+
+\ft Apart from that there is no other food in the taiga.
+\ph
+\gr tadụk honte = krome etogo, apart from that; (08_quest_2010, 34:00) moej edy netu = dʒebleŋu ačča, čelovek bez
+edy golodaet = bej at dʒeblele dʒebemgeren
+\nt
+\ru Кроме этого другой еды в тайге нету.
+\ELANBegin 00:16:48.030
+\ELANEnd 00:16:55.100
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_217
+\tx Uonna kiliep...?
+\ft and bread...?
+\ru
+\ELANBegin 00:16:55.100
+\ELANEnd 00:16:57.050
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_218
+\tx ah, kilieb
+\mb ah xleb   
+\ps interj n      
+\ge ah bread.R
+
+\ru
+\ELANBegin 00:16:57.050
+\ELANEnd 00:16:57.730
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_219
+\tx ọhọktụ  ọːwrar
+\mb ọhọk    -DU  ọː   -Gr(E) -r  
+\ps n            v               
+\ge stove.Y -dat make -hab   -3pl
+\ft They make that on the stove
+\ru
+\ELANBegin 00:16:57.730
+\ELANEnd 00:17:01.370
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_220
+\tx kiliep, goːli         ...  ịaw      lepieskew        iriwrer.
+\mb xleb    goːn -LI      *... ịak  -W   lepeška     -W   iri  -Gr(E) -r  
+\ps n       v             ?    pron      n                v               
+\ge bread.R say  -imp.2sg ***  what -acc flatbread.R -acc cook -hab   -3pl
+\ft They make flatbread.
+\ru Хлеб, лепешки пекут.
+\ELANBegin 00:17:01.370
+\ELANEnd 00:17:13.970
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_221
+\tx Ńan   ịaw?
+\mb ńaːn ịak  -W  
+\ps adv  pron     
+\ge and  what -acc
+\ft And what else?
+\ru
+\ELANBegin 00:17:13.970
+\ELANEnd 00:17:18.100
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_222
+\tx Uonna hiː bujus... bujus... bujusteken... bujustekes kapkan tul... tullis?
+\mb
+\ge
+\ft And when you hunt you set traps? (wrong forms)
+\ru
+\ELANBegin 00:17:18.100
+\ELANEnd 00:17:29.690
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_223
+\tx tulliw,            ee
+\mb tul -RI  -W        ee
+\ps v                  interj
+\ge set -pst -poss.1sg eh
+\ft I set (them), yes.
+\ru
+\ELANBegin 00:17:29.690
+\ELANEnd 00:17:30.610
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_224
+\tx eh, họːjat     kapkan kiːstu,     tọːkịdụ..
+\mb eh họːja -Č   kapkan kiːs    -DU  tọːkị -DU 
+\ps interj quant      n      n            n         
+\ge eh many  -ins trap.R sable.Y -dat elk   -dat
+\ft (Do you set) many traps for sables, elk...
+\ru
+\ELANBegin 00:17:30.610
+\ELANEnd 00:17:38.450
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_225
+\tx tọːkịdụ  ehem
+\mb tọːkị -DU  e   -R(E)   -m  
+\ps n          v               
+\ge elk   -dat neg -nonfut -1sg
+\ft Not for elks.
+\ru На лося не делая.
+\ELANBegin 00:17:38.450
+\ELANEnd 00:17:39.380
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_226
+\tx uh? ehem?
+\mb
+\ge
+\ft Oh, you don't? (repeating 1SG form of the negative verb...)
+\ru
+\ELANBegin 00:17:39.380
+\ELANEnd 00:17:41.670
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_227
+\tx ehm ont... tarịč hiː kapkan kapkanas kapkanụs proverjaj... proverjaeš,  kojeːttis, da?
+\mb
+\ge
+\ft And then you check you traps, yes?
+\ru
+\ELANBegin 00:17:41.670
+\ELANEnd 00:17:59.750
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_228
+\tx Kapkan ịan           họtarandụn             tulejegin,               ụdlan               čọŋ...
+\mb kapkan ịak  -n(I)     họtọran -DU  -n(I)     tul -E  -j    -EgIn      ụdʒ   -(dU)LE -n(I)     ...
+\ps n      pron           n                      v                        n                       ?  
+\ge trap.R what -poss.3sg road    -dat -poss.3sg set -ep -conn -prs.2sg.Y track -loc    -poss.3sg ...
+
+\tx herdelin                   čọŋkarịdʒị ečin.
+\mb her    -gIdE -(dU)LI -n(I) čọŋka -RIdʒI   erroːčin 
+\ps rel.n                      v              pron     
+\ge bottom -part -prol   -3sg  dig   -ant.cvb prox.qual
+
+\ft You (have to) set the trap on its path, on its tracks, having dug under it like this.
+\ph
+\gr The translation that IVK gave with the necessitative reading is obtained only from the context, it's not inherent in
+the verb form
+\ru Капкан нужно ставить на его дороге, на его следах, подкопав под него. 
+\ELANBegin 00:17:59.750
+\ELANEnd 00:18:09.880
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_229
+\tx Toːdeŋen                    tordu      ịanịkan      herdelin                   ečin
+\mb toː     -DEŋ     -E  -n(I)     tor   -DU  ịa      -nIkEn   her    -gIdE -(dU)LI -n(I) erroːčin 
+\ps v                              n          v                rel.n                      pron     
+\ge step.on -pst.ptc -ep -poss.3sg earth -dat do.what -sim.cvb bottom -part -prol   -3sg  prox.qual
+
+\tx čọŋkọrịdʒị.
+\mb čọŋka -RIdʒI  
+\ps v             
+\ge dig   -ant.cvb
+
+\ft (You put the trap) on the place where he stepped, having dug under it like this.
+\ru На месте где он наступил там подкопавшись.
+\ELANBegin 00:18:09.880
+\ELANEnd 00:18:16.640
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_230
+\tx Ńan   ịat      ịajagịn,             ńan   kïrahaː,    poroša,      čtob
+\mb ńaːn ịak  -Č   ịa      -j    -EgIn      ńaːn kïrahaː       poroša        čto    -B  
+\ps adv  pron      v                        adv  n             n             pron       
+\ge and  what -ins do.what -conn -prs.2sg.Y and  powder.snow.Y powder.snow.R what.R -med
+
+\tx eden                    ičure              goːmi
+\mb e   -DE       -n(I)     it  -W     -R       goːn -mI      
+\ps v                       v                   v             
+\ge neg -purp.cvb -poss.3sg see -advrs -neg.cvb say  -cond.cvb
+
+\ft And then you cover it with snow so that it cannot be seen.
+\ph
+\ru И прикрываешь как бы снегом, чтобы не было видно.
+\ELANBegin 00:18:16.640
+\ELANEnd 00:18:28.030
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_231
+\tx Ńan   nadan ineŋili          itnewrem.
+\mb ńaːn nadan ineŋ -E  -(dU)LI it  -nE     -Gr(E) -R(E)   -m  
+\ps adv  num   n                v                              
+\ge and  seven day  -ep -prol   see -intent -hab   -nonfut -1sg
+\ft And after seven days I go to look.
+\ru И через 7 дней иду смотреть.
+\ELANBegin 00:18:28.030
+\ELANEnd 00:18:35.580
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_232
+\tx Eče        horre        biheken,                   honte torle         tulejebin.
+\mb e   -čE     hor -R       bi -REk      -E  -n(I)     honte tor   -(dU)LE tul -E  -j    -EbIn     
+\ps v           v            v                          adj   n             v                       
+\ge neg -pf.ptc go  -neg.cvb be -cond.cvb -ep -poss.3sg other earth -loc    set -ep -conn -prs.1sg.Y
+\ft If it didn't go (into the trap), I set (my trap) in a different place.
+\ru Если он не попался,я в другом месте ставлю.
+\ELANBegin 00:18:35.580
+\ELANEnd 00:18:43.750
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_233
+\tx Uonna kapkandụla   dʒeblew       neːris?
+\ft And you put food in the trap?
+\ru
+\ELANBegin 00:18:43.750
+\ELANEnd 00:18:51.170
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_234
+\tx Ọldaw     neːjebin.
+\mb ọlra -W   neː -j    -EbIn     
+\ps n         v                   
+\ge fish -acc put -conn -prs.1sg.Y
+
+\ft I put fish.
+\ph
+\gr I checked on March 17th (10_quest_2010, 3:10), he says neːjebin, i.e. the 1SG form, and IVK obviously translated it
+as it was previously transcribed, with 2SG
+\ru Кладешь рыбу.
+\ELANBegin 00:18:51.170
+\ELANEnd 00:18:53.300
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_235
+\tx ọldaw     aha
+\mb ọlra -W   aha
+\ps n         excl
+\ge fish -acc aha
+
+\ru
+\ELANBegin 00:18:53.300
+\ELANEnd 00:18:55.270
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_236
+\tx munipče             ọldaw
+\mb mun -E  -B   -čE     ọlra -W  
+\ps v                    n        
+\ge rot -ep -med -pf.ptc fish -acc
+\ft Rotten fish.
+\ph münipče
+\ru тухлую рыбу
+\ELANBegin 00:18:55.270
+\ELANEnd 00:18:59.900
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_237
+\tx Umhelken    ọːčaw           ečin,     kisloe.
+\mb unŋe  -lkEn ọː     -čE     -W   erroːčin  kisloe
+\ps n           v                   pron      adj   
+\ge smell -prop become -pf.ptc -acc prox.qual sour.R
+\ft (Fish) that has acquired such a smell, sour.
+\ru С душком.
+\ELANBegin 00:18:59.900
+\ELANEnd 00:19:08.090
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_238
+\tx Ńan   tiːkerep    bujusimŋel             ịaw      neːwrer,        ịak hiečehni
+\mb ńaːn tiek -(E)rEp buju -s    -E  -mŋE  -L  ịak  -W   neː -Gr(E) -r   ịak  hie    -čE     =hni   
+\ps adv  adv          v                        pron      v               pron v                     
+\ge and  now  -adjr   hunt -mult -ep -agnr -pl what -acc put -hab   -3pl what appear -pf.ptc =affirm
+
+\tx tiːke ele,         mandarin     kọrkan         bihnihni,               taraw.
+\mb tiek erek -(dU)LE mandarin     korka  -n(I)     bi -R(E)   -n(I) =hni    tarak -W  
+\ps adv  pron         n            n                v                        pron      
+\ge now  prox -loc    clementine.R peel.R -poss.3sg be -nonfut -3sg  =affirm dist  -acc
+
+\ft And nowadays hunter put what, it's appeared here now, clementine peel.
+\ph
+\ru Современные охотники кладут, сейчас появились здесь, мандариновые корки есть, вот это.
+\ELANBegin 00:19:08.090
+\ELANEnd 00:19:18.170
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_239
+\tx Taraw      interihiergeːmi,         kiːs   üldʒü      emgeren.
+\mb tarak -W   interihiergeː   -mI       kiːs    üldʒü         em   -Gr(E) -E  -n(I)
+\ps pron       v                         n       adv           v                    
+\ge dist  -acc be.interested.Y -cond.cvb sable.Y immediately.Y come -hab   -ep -3sg 
+\ft The sable is interested in that and immediately comes.
+\ph
+\ru Заинтересовавшись этим, соболь сразу приходит.
+\ELANBegin 00:19:18.170
+\ELANEnd 00:19:21.540
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_240
+\tx Unŋen          gọrịnụk      gawran.
+\mb unŋe  -n(I)     gọrụ -(I)nUk   ga   -Gr(E) -n(I)
+\ps n               ?              v                
+\ge smell -poss.3sg far  -advb.abl take -hab   -3sg 
+\ft It can smell that from far away.
+\ph
+\ru Запах издалека берет.
+\ELANBegin 00:19:21.540
+\ELANEnd 00:19:25.650
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_241
+\tx Ńan   jarko  žoltoe  ịan,          üldʒü      họrgaran                tala.
+\mb ńaːn jarko  žëltoe   ịak  -n(I)     üldʒü         họr        -Gr(E) -E  -n(I) tarak -(dU)LE
+\ps adv  ?      adj      pron           adv           v                           pron         
+\ge and  bright yellow.R what -poss.3sg immediately.Y get.caught -hab   -ep -3sg  dist  -loc   
+\ft And it's bright yellow, (the sable) immediately gets caught there.
+\ph
+\ru Что-то там ярко желтое, сразу попадает туда.
+\ELANBegin 00:19:25.650
+\ELANEnd 00:19:35.080
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_242
+\tx Kapkanal      honten          mụnnụkaldụ?
+\mb kapkan -E  -L  honte -n(I)     mụnrụkan -L  -DU 
+\ps n              adj             n                
+\ge trap.R -ep -pl other -poss.3sg hare     -pl -dat
+\ft And are the traps different for hares?
+\ru
+\ELANBegin 00:19:35.080
+\ELANEnd 00:19:45.130
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_243
+\tx eh nan    eh nakataldụ?
+\ft And for bears?
+\ru
+\ELANBegin 00:19:45.130
+\ELANEnd 00:19:51.130
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_244
+\tx nakat...
+\ge trap.R -ep -pl other -poss.3sg hare     -pl -dat
+
+\ru
+\ELANBegin 00:19:51.130
+\ELANEnd 00:19:52.770
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_245
+\tx nakat edʒi        nakat edʒi
+\ft Bears are forbidden...
+\ru
+\ELANBegin 00:19:52.770
+\ELANEnd 00:19:55.940
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_246
+\tx No    aha, sobol,  mụnrụkan kapkan honte? biwren...       biwrer?
+\ft Aha, but the traps for sable and for hares, are they different?
+\ru
+\ELANBegin 00:19:55.940
+\ELANEnd 00:20:04.500
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_247
+\tx Mụnrụkandụ  ịaw      hụrkaw     tulejegin,               petljaw.
+\mb mụnrụkan -DU  ịak  -W   hụrka -W   tul -E  -j    -EgIn      petlja  -W  
+\ps n             pron      n          v                        n           
+\ge hare     -dat what -acc snare -acc set -ep -conn -prs.2sg.Y snare.R -acc
+
+\ft For hares you set snares.
+\ph
+\ru На зайца нужно ставить петлю.
+\ELANBegin 00:20:04.500
+\ELANEnd 00:20:09.480
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_248
+\tx Ah kapkanat       eče        bihin,            a
+\ft Ah, not with traps (completely wrong verb forms...)
+\ru
+\ELANBegin 00:20:09.480
+\ELANEnd 00:20:13.140
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_249
+\tx Kapkan ehni           toːwrer.
+\mb kapkan e   -R(E) -n(I) toː     -Gr(E) -R      
+\ps n      v               v                      
+\ge trap.R neg -nfut -3sg  step.on -hab   -neg.cvb
+\ft (Hares) don't step on traps.
+\ph
+\gr It would be more correct to say kapkandụla ehni toːwrer, but the direction/location is clear from the context
+\ru На капкан не наступает.
+\ELANBegin 00:20:13.140
+\ELANEnd 00:20:16.500
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_250
+\tx soboldu?
+
+\ru
+\ELANBegin 00:20:16.500
+\ELANEnd 00:20:19.030
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_251
+\tx soboldu      kapkan
+\mb sobol   -DU  kapkan
+\ps n            n     
+\ge sable.R -dat trap.R
+\ft For sable (I set) traps.
+\ru
+\ELANBegin 00:20:19.030
+\ELANEnd 00:20:20.700
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_252
+\tx helet        ọːpča          kapkan?
+\ft A trap made from iron?
+\ru
+\ELANBegin 00:20:20.700
+\ELANEnd 00:20:23.690
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_253
+\tx hụlịčan emie?
+\ft And for foxes too?
+\ru
+\ELANBegin 00:20:23.690
+\ELANEnd 00:20:26.230
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_254
+\tx Hụlịčan emie   kapkan.
+\mb hụlịčan emie   kapkan
+\ps n       adv    n     
+\ge fox     also.Y trap.R
+\ft For foxes (you) also (set) traps.
+\ru
+\ELANBegin 00:20:26.230
+\ELANEnd 00:20:29.810
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_255
+\tx Ọːn ịadan              petljaw      mụnnụkandụ?
+\ft How does one set snares for hares?
+\ru
+\ELANBegin 00:20:29.810
+\ELANEnd 00:20:36.790
+\ELANParticipant NA
+
+\id Krivoshapkin_SP_oxota_256
+\tx Ịadụn...
+\mb ịak  -DU  -n(I)    
+\ps pron               
+\ge what -dat -poss.3sg
+
+\ru
+\ELANBegin 00:20:36.790
+\ELANEnd 00:20:39.830
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_257
+\tx Ọrọktụn                ečin...   ịak  ịak goːmi   höp tropinkadụn           ečin
+\mb orox          -DU  -n(I)     erroːčin  ịak  goːn -mI       söp  tropinka -DU  -n(I)     erroːčin 
+\ps n                            pron      pron v              ptl  n                       pron     
+\ge animal.path.Y -dat -poss.3sg prox.qual what say  -cond.cvb OK.Y path.R   -dat -poss.3sg prox.qual
+
+\tx ịajagịn..            po   snegu.     
+\mb ịa      -j    -EgIn      po   snegu     
+\ps v                        postpos n         
+\ge do.what -conn -prs.2sg.Y on.R snow.dat.R
+
+\ft On its path like this, how to say it...., on its path you put it like this, in the snow.
+\ph
+\ru На его тропе, так что-то там делаешь по снегу.
+\ELANBegin 00:20:39.830
+\ELANEnd 00:20:51.029
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_258
+\tx Tadụ     hịattụ  ečin      neː... tulejegin.
+\mb tarak -DU  hịat   -DU  erroːčin  neː tul -E  -j    -EgIn     
+\ps pron       n           pron      v   v                       
+\ge dist  -dat willow -dat prox.qual put set -ep -conn -prs.2sg.Y
+
+\ft You set it like this in a willow bush.
+\ph
+\ru И там на иве так ставишь.
+\ELANBegin 00:20:51.029
+\ELANEnd 00:20:54.097
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_259
+\tx Torduk        mịan ...  ịak hentimetr    ịalkan.
+\mb tor   -DUk(U) mịan *... ịak  santimetr    ịak  -lkEn
+\ps n             num  ?    pron n            pron      
+\ge earth -abl    ten  ***  what centimetre.R what -prop
+\ft About ten centimetres above the ground.
+\ph
+\ru От земли 10 см (высоты).
+\ELANBegin 00:20:54.097
+\ELANEnd 00:21:02.131
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_260
+\tx Tala          at  ịal...  ịlaːnmụla    dọlbọnịdụ tulejegin,               haːtahrịdụ.
+\mb tarak -(dU)LE ač  ịak  -L  ịlaːnmụ   -LE  dọlbanị -DU  tul -E  -j    -EgIn      haːtar  -RI       -DU 
+\ps pron          ptl pron     n              n            v                        v                     
+\ge dist  -loc    neg what -pl full.moon -prv night   -dat set -ep -conn -prs.2sg.Y be.dark -impf.ptc -dat
+
+\ft You set the trap in a moonless night, in the dark.
+\ph
+\gr at ịlaːnna možet byt', but they normally say it like this
+\ru Нужно ставить в безлунную ночь, в темноте.
+\ELANBegin 00:21:02.131
+\ELANEnd 00:21:09.294
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_261
+\tx Ịlaːnụmụlkan bihiken,                   ikkeren          hụrkamụs,          ehni
+\mb ịlaːnmụ   -lkEn bi -REk      -E  -n(I)     it  -Gr(E) -n(I) hụrka -W   -s(I)     e   -R(E) -n(I)
+\ps n               v                          v                n                    v              
+\ge full.moon -prop be -cond.cvb -ep -poss.3sg see -hab   -3sg  snare -acc -poss.2sg neg -nfut -3sg 
+
+\tx ehni           họrgarar.         
+\mb e   -R(E) -n(I) hor -Gr(E) -R      
+\ps v               v                  
+\ge neg -nfut -3sg  go  -hab   -neg.cvb
+
+\ft If there is a full moon, it sees your snare and doesn't go (into it).
+\ph
+\gr the correct proprietive form would be ịlaːnmụlkan
+\ru Если будет луна, он увидет твою петлю и не попадается.
+\ELANBegin 00:21:09.294
+\ELANEnd 00:21:17.237
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_262
+\tx Mụnrụkam      najabr     dekabrdu        bụltaːmị       ịbga   biwren,         hụlaŋan
+\mb mụnrụkan -W   nojabr'    dekabr'    -DU  bụltaː -mI       ịbgọ bi -Gr(E) -n(I) hụlaŋ -E  -n(I)    
+\ps n             n          n               v                ?    v               n                  
+\ge hare     -acc November.R December.R -dat hunt.Y -cond.cvb good be -hab   -3sg  fur   -ep -poss.3sg
+
+\tx ịbga.
+\mb ịbgọ
+\ps ?   
+\ge good
+
+\ft It's good to hunt hares in November, December, then their fur is good.
+\ph
+\ru На зайцев охотиться хорошо в ноябре, декабре, мех хороший.
+\ELANBegin 00:21:17.237
+\ELANEnd 00:21:27.169
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_263
+\tx Nelke        bọllaγïna ịak, keńeli, hụlaŋan            tikemeːŋgeren.
+\mb nelke        buollaγïna ịak  keńeli hụlaŋ -E  -n(I)     tik  -E  -mEːn -Gr(E) -E  -n(I)
+\ps ?            ptl        pron adj    n                   v                              
+\ge early.spring dp.Y       what bad    fur   -ep -poss.3sg fall -ep -freq -hab   -ep -3sg 
+
+\ft In spring however it's bad, its fur falls out.
+\ph
+\ru А весной плохо, шерсть часто, то и дело, выпадает.
+\ELANBegin 00:21:27.169
+\ELANEnd 00:21:37.309
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_264
+\tx Kiːhu       bọlla      bụltaːrịdụ        tiːke rọwna   ịbga.
+\mb kiːs    -W   buollaγïna bụltaː -RI       -DU  tiek rovno     ịbgọ
+\ps n            ptl        v                     adv  adv       ?   
+\ge sable.Y -acc dp.Y       hunt.Y -impf.ptc -dat now  exactly.R good
+
+\ft Now, however, is the best time to hunt sable.
+\ph
+\ru Для охота на соболя сейчас как раз хорошо.
+\ELANBegin 00:21:37.309
+\ELANEnd 00:21:41.066
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_265
+\tx ịb.. ịbga?
+\ft good
+\ru
+\ELANBegin 00:21:41.066
+\ELANEnd 00:21:41.885
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_266
+\tx ee, mart
+\mb ee mart   
+\ps interj n      
+\ge eh March.R
+
+\ru
+\ELANBegin 00:21:41.885
+\ELANEnd 00:21:48.710
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_267
+\tx Ịaw      ukčeŋŋe
+\mb ịak  -W   ukčen -ŋE     
+\ps pron      v             
+\ge what -acc tell  -pol.imp
+\ft What should I say?
+\ru Что бы рассказать?
+\ELANBegin 00:21:48.710
+\ELANEnd 00:21:52.493
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_268
+\tx Hiemkelmi               ọrataldʒị     emtengererhni
+\mb hiːmke -L    -mI       ọrat  -E  -L  -Č   emten          -Gr(E) -r   =hni   
+\ps v                      n                  v                                 
+\ge cough  -inch -cond.cvb herbs -ep -pl -ins cure.oneself.Y -hab   -3pl =affirm
+
+\tx emtengererep.
+\mb emten          -Gr(E) -R(E)   -p     
+\ps v                                    
+\ge cure.oneself.Y -hab   -nonfut -1pl.in
+
+\ft If we cough we cure ourselves with herbs.
+\ph
+\gr (09_quest_2010, 2:30) zarosli suxoj (prošlogodnoj, osennej) travy = ọrakaw (obviously with nominalizing suffix
+-K(Ag) )
+\nt At this point he looked into his notes and obviously realized that he'd been told to tell about medicinal herbs.
+\ru Если заболеваем закашляем, лечились травами, лечимся обычно.
+\ELANBegin 00:21:52.493
+\ELANEnd 00:21:59.500
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_269
+\tx Ịak hiemkenduk          ịak ịbga   biwren,         ojer,          zveroboj
+\mb ịak  hiːmke -n  -DUk(U) ịak  ịbgọ bi -Gr(E) -n(I) ojer           zveroboj        
+\ps pron v                  pron ?    v               n              n               
+\ge what cough  -nr -abl    what good be -hab   -3sg  St.John's.wort St.John's.wort.R
+
+\ft St. John's wort is good for coughs.
+\ph
+\ru От кашля бывает хорошо ойер, зверобой.
+\ELANBegin 00:21:59.500
+\ELANEnd 00:22:07.846
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_270
+\tx Ńan   ịak ịadụk     ulujmi             bọllaγïna, ịak obmoroženie, abịga
+\mb ńaːn ịak  ịak  -DUk(U) ülüj     -mI       buollaγïna ịak  obmoroženie abaga      
+\ps adv  pron pron         v                  ptl        pron n           n          
+\ge and  what what -abl    freeze.Y -cond.cvb dp.Y       what frostbite.R grandfather
+
+\tx ịan...
+\mb ịak  -n(I)    
+\ps pron          
+\ge what -poss.3sg
+
+\ft As for frostbite, however, bear's what...
+\ph
+\ru А если обморозишься медвежье что-то.
+\ELANBegin 00:22:07.846
+\ELANEnd 00:22:17.388
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_271
+\tx Ah, abaga       imheben?
+\ft Ah, bearfat?
+\ru
+\ELANBegin 00:22:17.388
+\ELANEnd 00:22:19.403
+\ELANParticipant BP
+
+\id Krivoshapkin_SP_oxota_272
+\tx ee, ihmeben             ehiwrenni            ertelej
+\mb ee imse -W   -n(I)     hesi     -Gr(E) -nrI erte -(dU)LE -J      
+\ps interj n                   v                    n                    
+\ge eh fat  -acc -poss.3sg smear.on -hab   -2sg skin -loc    -prfl.sg
+
+\ft Yes, you rub its (the bear's) fat on your skin.
+\ft
+\ph
+\gr here in Sebjan they say ihmeben rather than ihmewen
+\ru Жир его намазываешь на кожу (и мягкие части тела).
+\ELANBegin 00:22:19.403
+\ELANEnd 00:22:28.503
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_273
+\tx Egdʒenet       hiemkelmi               bọlla      enelmi,                 ịat      ịaw
+\mb egdʒen -E  -Č   hiːmke -L    -mI       buollaγïna en   -E  -L    -mI       ịak  -Č   ịak  -W  
+\ps adj             v                      ptl        v                        pron      pron     
+\ge big    -ep -ins cough  -inch -cond.cvb dp.Y       hurt -ep -inch -cond.cvb what -ins what -acc
+
+\tx ịaw      kọlajagịn,             zolotoj_koren nastojkalaːnịkan.
+\mb ịak  -W   kọl   -E  -j    -EgIn      zolotoj_koren nastojka -LE -nIkEn  
+\ps pron      v                          n             v                    
+\ge what -acc drink -ep -conn -prs.2sg.Y golden.root.R extract  -vr -sim.cvb
+
+\ft If you have a bad cough, however, you drink an extract of golden root.
+\ph
+\ru А если сильно простжаешься, заболеваешь, надо пить что-то, делая настойку золотой корень.
+\ELANBegin 00:22:28.503
+\ELANEnd 00:22:42.920
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_274
+\tx Tuge   ịadụ   bujuseddekes..                             ịak igin  gerbe ačča, bow
+\mb tugeni ịak  -DU  buju -s    -E  -D    -REk      -E  -s(I)     ịak  iŋin  gerbe ačča beg     
+\ps n      pron      v                                            pron ptl   n     ptl  n       
+\ge winter what -dat hunt -mult -ep -prog -cond.cvb -ep -poss.2sg what etc.Y name  neg  medicine
+
+\tx bow      gerbe ačča bọlla.
+\mb beg      gerbe ačča buol  -dEg      -E         
+\ps n        n     ptl  v                          
+\ge medicine name  neg  aux.Y -assert.Y -poss.3sg.Y
+
+\ft In winter when you hunt, there is no medicine there, right.
+\ru Когда зимой охотишься, там же лекарств нет.
+\ELANBegin 00:22:42.920
+\ELANEnd 00:22:48.991
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_275
+\tx Tarịt urekčendule     ọjčịrịdʒị ịmandadụk    čọŋkajagịn           ọrat.
+\mb tarịt urekčen -(dU)LE ọjčị  -RIdʒI   ịmanra -DUk(U) čọŋka -j    -EgIn      ọrat 
+\ps adv   n               v              n              v                      n    
+\ge then  hill    -loc    go.up -ant.cvb snow   -abl    dig   -conn -prs.2sg.Y herbs
+
+\ft The you climb up a hill and dig up herbs from under the snow.
+\ph he swallows a lot of syllables in urekčendule, making it sound like ukčenle
+\ru И забравшись на гору в снегу выкапываешь траву.
+\ELANBegin 00:22:48.991
+\ELANEnd 00:22:56.245
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_276
+\tx Ńan,  ńan   ịaw      ukčendʒim?
+\mb ńaːn ńaːn ịak  -W   ukčen -DʒI -m  
+\ps adv  adv  pron      v              
+\ge and  and  what -acc tell  -fut -1sg
+\ft And what shall I tell?
+\ru
+\ELANBegin 00:22:56.245
+\ELANEnd 00:22:59.469
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_277
+\tx Nahaː ịbgat
+\mb nahaː  ịbgọ -Č  
+\ps adv    n        
+\ge very.Y good -ins
+
+\ru
+\ELANBegin 00:22:59.469
+\ELANEnd 00:23:02.654
+\ELANParticipant BP 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Sebjan2010/sound_files/sound_from_video/Krivoshapkin_SP_oxota_260210_Sebjan.wav
+\ELANMediaMIME audio/x-wav

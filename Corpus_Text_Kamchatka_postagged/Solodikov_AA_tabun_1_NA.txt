@@ -1,0 +1,650 @@
+\_sh v3.0  1050 Text
+
+\id Solodikov_AA_tabun_1_000_metadata
+\ref Recorded on 02 July 2009 in Central Kamchatka by Natalia Aralova and Brigitte Pakendorf. This session was made in a
+reindeer herd. Since we were sitting in a small yurt, the tripod couldn't be used, so NA was holding the camera and BP was
+holding the microphone. There were five people in the yurt: NA, BP, Anatolij Afanasjevich, Gennadij Afanasjevich and a
+young herdsman Pavel who flapped in front of camera. This session consists of four recordings: tabun_1, tabun_2,
+muxa_roditeli, bearhunt. When we turned off all our devices, Anatolij Afanasjevich told a hunting story about a bear and
+agreed to retell it in Even, so it was the last story we recorded with him.
+\qu ????Transcribed by NA with Valentina Innokent'evna Axmetova, translated into Russian by VIA, glossed by NA. Funding by the
+Volkswagen Foundation (DoBeS grant). Speaker abbreviation = AAS
+\ref Anatolij Afanas'evich Solodikov was born in February 1956, so he was 53 at the time of the recording. He finished 8 years of
+school and then worked in the reindeer herd as a herder all his life. He was married to Valentina Innokent'evna Axmetova and is
+the brother of Gennadij Afanasevich Solodikov. He passed away in July 2016.
+\tx
+
+\id Solodikov_AA_tabun_1_001
+\tx Ja    vkljuchila.             Xlopni                tut. Net, chtoby xlopok byl. Siljno. Vot, spasibo. Segodnja vtoroe  ijulja 2009-go goda, rajon Teliliwut, Anatolij Afanasjevich Solodikov rasskazyvaet nam, kak  stavjat jurtu.
+\mb
+\ge all 
+
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:21.520
+\ELANParticipant
+\ev
+\ru
+
+\id Solodikov_AA_tabun_1_002
+\tx Ọrọttịč       teːleŋdʒinni.
+\ft You will tell in Even.
+\ELANBegin 00:00:21.520
+\ELANEnd 00:00:24.360
+\ELANParticipant BP
+\ev
+\ru По-эвенски будешь рассказывать.
+
+\id Solodikov_AA_tabun_1_003
+\tx Nulgeridʒur         ịllọːtap                bakrịdʒụr    urimkem.
+\mb nulge   -RIdʒI   -L  ịl   -WEːČ -R(E)   -p      bak  -RIdʒI   -L  orimken  -W  
+\ps v                    v                          v                 n            
+\ge migrate -ant.cvb -pl stop -gnr  -nonfut -1pl.in find -ant.cvb -pl new.camp -acc
+
+\ft Having migrated, we stop, having found a stop
+\ph illotep urimken
+\nt
+\ELANBegin 00:00:24.360
+\ELANEnd 00:00:29.880
+\ELANParticipant
+\ev
+\ru Прикочевав, останавливаемся там, где нашли стоянку.
+
+\id Solodikov_AA_tabun_1_004
+\tx Nan    dʒullekana          mọːldarap                dolgetu     ọnnịdʒụr   nan     ịrrọːttịdʒụr
+\mb ńaːn dʒul  -(dU)LE =kEnE  mọː  -ltE -R(E)   -p      dolgeg -W   họn  -RIdʒI   -L  ńaːn ịr   -WEːČ -RIdʒI   -L 
+\ps adv  rel.n                v                         n           v                 adv  v                      
+\ge and  front -loc    =contr tree -vr  -nonfut -1pl.in alder  -acc chop -ant.cvb -pl and  cart -gnr  -ant.cvb -pl
+
+\tx tuledʒilloːtep                            er   ečin      er
+\mb tul -E  -D    -L    -WEːČ -R(E)   -p      erek erroːčin  erek
+\ps v                                         pron pron      pron
+\ge set -ep -prog -inch -gnr  -nonfut -1pl.in prox prox.qual prox
+
+\ft At first we prepare firewood, having chopped alder and carted it we begin to set up [the yurt] so, as you can see.
+\ph dulgetu
+\ELANBegin 00:00:29.880
+\ELANEnd 00:00:42.560
+\ELANParticipant
+\ev
+\ru Сначала готовим дрова, натаскав ольху, порубив, потом начинаем ставить вот так вот.
+
+\id Solodikov_AA_tabun_1_005
+\tx Nan    ejdu oːńerep.
+\mb ńaːn ejdu oːńe   -R(E)   -p     
+\ps adv  quant v                     
+\ge and  all  tie.up -nonfut -1pl.in
+\ft Then we tie it all up.
+\ELANBegin 00:00:42.560
+\ELANEnd 00:00:46.080
+\ELANParticipant
+\ev
+\ru Все вот это увязываем.
+
+\id Solodikov_AA_tabun_1_006
+\tx Nan    ojgič    brezentew           kụlịrap.
+\mb ńaːn oj  -GIČ  brezent     -E  -W   kụlị  -R(E)   -p     
+\ps adv  rel.n     n                    v                    
+\ge and  top -elat tarpaulin.R -ep -acc cover -nonfut -1pl.in
+\ft Then we cover it with tarpaulin.
+\ELANBegin 00:00:46.080
+\ELANEnd 00:00:51.320
+\ELANParticipant
+\ev
+\ru Потом сверху брезентом накрываем.
+
+\id Solodikov_AA_tabun_1_007
+\tx Nan    ieketŋewur             a     ịamị mọː ačča.
+\mb ńaːn ieketen -GE    -WUr     a.R   ịamị mọː  ačča
+\ps adv  n                       ?     pron n    ptl 
+\ge and  trivet  -desig -prfl.pl but.R why  tree neg 
+
+\ft And the trivet... why, there's no tree.
+\ELANBegin 00:00:51.320
+\ELANEnd 00:00:55.720
+\ELANParticipant
+\ev
+\ru Потом вот таган - а почему-то дерева нет.
+
+\id Solodikov_AA_tabun_1_008
+\tx Dolget mọː ... mọː čurguti ačča.
+\mb dolgeg mọː  mọː  čurguti  ačča
+\ps n      n    n    adj      ptl 
+\ge alder  tree tree straight neg 
+
+\ft There is no straight alder tree.
+\ph Dulget
+\ELANBegin 00:00:55.720
+\ELANEnd 00:00:59.120
+\ELANParticipant
+\ev
+\ru Ольхи нет прямой.
+
+\id Solodikov_AA_tabun_1_009
+\tx Teːmi    dolgetu     dʒụːw     ọːriwụn.
+\mb teːmi     dolgeg -W   dʒụː  -W   ọː   -RI  -WUn        
+\ps conj      n           n          v                     
+\ge therefore alder  -acc house -acc make -pst -poss.1pl.ex
+
+\ft That is why we made an alder house.
+\ph dulgetu
+\gr 31.01.13 (questions9, 40:45) one could say dolgetuk dʒụːwụr = iz olxi svoj dom postroili; but he said dulgetu dʒụːw = olxovyj
+dom
+\gr  Rimma's comment:   dulgetu -- apparently it should be   dolgettuk (Abl, not Acc) --> this comment held when the transcription
+still had dolgetu dʒụːwụr
+\ELANBegin 00:00:59.120
+\ELANEnd 00:01:05.240
+\ELANParticipant
+\ev
+\ru Поэтому из ольхи себе юрту построили.
+
+\id Solodikov_AA_tabun_1_010
+\tx Russian
+\mb
+\ge
+\ft
+\ph
+\gr
+\nt
+\qu dopisatj russkij tekst 
+\ELANBegin 00:01:05.240
+\ELANEnd 00:01:20.160
+\ELANParticipant
+\ev
+\ru
+
+\id Solodikov_AA_tabun_1_011
+\tx Ńịmkan čụkačaːn baːnị
+\mb ńịmkan čụkačaːn baː      -n(I) -E 
+\ps n      n        v                 
+\ge tale   bird     not.want -3sg  -ep
+
+\ft A tale "A lazy bird".
+\ph
+\gr I am not sure about ị in baːnị, maybe it is just baːn for nonfut-3Sg and an epenthetic-like vowel at the end. Rimma translates it as "ptichka lenitsja".
+\ELANBegin 00:01:20.160
+\ELANEnd 00:01:25.480
+\ELANParticipant
+\ev
+\ru Сказка "Ленивый птенчик".
+
+\id Solodikov_AA_tabun_1_012
+\tx Ekedmer       goːnni     : čụkačaːn mọːw     mọːlalị.
+\mb eken   -dmEr  goːn -n(I) čụkačaːn mọː  -W   mọː  -LE -LI     
+\ps n             v          n        n         v                
+\ge mother -contr say  -3sg  bird     tree -acc tree -vr -imp.2sg
+
+\ft The mother says: Little bird, bring some wood.
+\ph guːnni
+\ELANBegin 00:01:25.480
+\ELANEnd 00:01:30.440
+\ELANParticipant
+\ev
+\ru Мама говорит: птенчик, иди за дровами.
+
+\id Solodikov_AA_tabun_1_013
+\tx Baːrama.
+\mb baː      -R(E)   -m   -E 
+\ps v                        
+\ge not.want -nonfut -1sg -ep
+\ft I don't want to do it.
+\ph
+\gr According to RME the last a is there to make it more rhymed and fairy tale style, I glossed it as an epenthetic one?
+\ELANBegin 00:01:30.440
+\ELANEnd 00:01:32.800
+\ELANParticipant
+\ev
+\ru Не хочу.
+
+\id Solodikov_AA_tabun_1_014
+\tx Čụkačaːn moːw      moːleli.          -- Baːrama                  ,   essewu          bakarsana                    ọkaːtla       nan    tikčim
+\mb čụkačaːn moː   -W   moː   -LE -LI      baː      -R(E)   -m   -E  hesse -W        bakar       -R(E)   -n(I) -E  ọkaːt -(dU)LE ńaːn tik  -DʒI -m  
+\ps n        n          v                  v                         n               v                             n             adv  v             
+\ge bird     water -acc water -vr -imp.2sg not.want -nonfut -1sg -ep sole  -poss.1sg be.slippery -nonfut -3sg  -ep river -loc    and  fall -fut -1sg
+
+\tx ejeːsendʒim                     nan.
+\mb ejeː            -s(E)n -DʒI -m   ńaːn
+\ps v                                adv 
+\ge float.downriver -lim   -fut -1sg and 
+
+\ft Little bird, bring some water. -- I don't want to do it, my soles are slippery, I will fall and float down the river.
+\ph muw
+\gr about a in barama is epenthetic-like.  essewu must be derived from her 'bottom' (nr s?) Check: bakassana (as I wrote from VIA) or bakarkana (as I hear it now)
+from bakar 'skoljzkij' + dim bakarkịttaj "skoljzitj": Bi bakarkịttam, bakassam, iː bakarkịčannị.. no essewu bakassana -- podoshva skoljzit, podoshva skoljzkaja.
+Bereriwu bakassiw esseji -- ja poterjal svoju skoljzkuju podoshvu.
+\gr 05.02.13 (questions10, 43:30) biː bakarram = ja skolznu; iː bakarannị, nọŋan bakarran = on skolzit; skolzko = bakas or bakar; 
+\nt
+\ELANBegin 00:01:32.800
+\ELANEnd 00:01:43.160
+\ELANParticipant
+\ev
+\ru Птенчик, воды принеси. -- Не хочу, подошвы у меня скользкие, в речку упаду, утону.
+
+\id Solodikov_AA_tabun_1_015
+\tx Nan    čụkačaːn, tewtew       ọkalnalị.
+\mb ńaːn čụkačaːn tewte   -W   ọkal        -nE     -LI     
+\ps adv  n        n            v                           
+\ge and  bird     berries -acc eat.berries -intent -imp.2sg
+\ft Little bird, go to eat berries. 
+\ELANBegin 00:01:43.160
+\ELANEnd 00:01:48.000
+\ELANParticipant
+\ev
+\ru Птенчик, иди ешь ягоды.
+
+\id Solodikov_AA_tabun_1_016
+\tx Eŋuneme                   tala          kọbalan gịrkawaːttan               dʒebewdʒime                   nana.
+\mb heŋun     -R(E)   -m   -E  tarak -(dU)LE kọbalan gịrka -WEːČ -R(E)   -n(I) dʒep -E  -W     -DʒI -m   -E  ńaːn -E 
+\ps v                          pron          n       v                         v                             adv     
+\ge be.afraid -nonfut -1sg -ep dist  -loc    bear    walk  -gnr  -nonfut -3sg  eat  -ep -advrs -fut -1sg -ep and  -ep
+
+\ft I'm afraid of the bear, he goes there and he will eat me.
+\ph dʒibewdʒime
+\ELANBegin 00:01:48.000
+\ELANEnd 00:01:54.520
+\ELANParticipant
+\ev
+\ru Я боюсь, там медведь ходит и съест меня.
+
+\id Solodikov_AA_tabun_1_017
+\tx Baːmịnụn            čas ukleːsendʒidʒeːnni
+\mb baː      -mI       =ńUn  čas hukle -s(E)n -D    -dʒEːn -LI     
+\ps v                        ptl v                                 
+\ge not.want -cond.cvb =emph ptl sleep -lim   -prog -dur   -imp.2sg
+
+\ft If you don't want, go to sleep.
+\ph  ukleːsendʒidʒenni -- I hear dʒenni, but maybe still d?
+\gr
+\gr prosto ukleːsendʒidʒenni 'lozhisj spatj' . Fut: uklesendʒinni? 'ljazheshj spatj?' in elicitantions I found construction čas + purp.cnv, but only for 3 person:
+čas uklesenden 'pustj on usnjet', uklenneden -- pusj idet spatj, čas uklesendʒidden 'pustj lozhitsja spatj'. uklesnelle -- lozhitesj spatj, ukleneːlle -- idite spatj,
+*čas ukleneːlle
+čas uklesendʒiddes --chtoby ty lozhilsja spatj, čas uklesendʒiddesen -- chtoby vy lozhilisj spatj
+\ELANBegin 00:01:54.520
+\ELANEnd 00:01:58.560
+\ELANParticipant
+\ev
+\ru Если не хочешь, тогда ложись спать.
+
+\id Solodikov_AA_tabun_1_018
+\tx Erewger          goːnni     bi   ajaːwram.
+\mb erek -W   =GEl   goːn -n(I) biː ajaːw -R(E)   -m  
+\ps pron             v          pron v                 
+\ge prox -acc =coord say  -3sg  1sg love  -nonfut -1sg
+
+\ft Ah, I like this!
+\ph guːnni, Erewger = Erewgel
+\gr Erewger = Erewgel
+\ELANBegin 00:01:58.560
+\ELANEnd 00:02:00.820
+\ELANParticipant
+\ev
+\ru Вот это-то я люблю.
+
+\id Solodikov_AA_tabun_1_019
+\tx Nan    ukleːsendʒim          badʒịkarakla,        eniken           minu         badʒịkar urutte.
+\mb ńaːn hukle -s(E)n -DʒI -m   badʒịkar -E  -klE     e   -niken       min     -W   badʒịkar horu    -Č   -R      
+\ps adv  v                      n                     v                pron         n        v                    
+\ge and  sleep -lim   -fut -1sg morning  -ep -all.loc neg -fut.proh.sg 1sg.obl -acc morning  wake.up -res -neg.cvb
+
+\ft I will sleep till morning, but don't wake me up in the morning.
+\ph badʒịkarekle
+\gr
+\ELANBegin 00:02:00.820
+\ELANEnd 00:02:05.700
+\ELANParticipant
+\ev
+\ru Я до утра лягу спать, только утром меня не будите.
+
+\id Solodikov_AA_tabun_1_020
+\tx Russian
+\mb
+\ge
+\ft
+\ph
+\gr
+\nt
+\ELANBegin 00:02:05.700
+\ELANEnd 00:03:36.900
+\ELANParticipant
+\ev
+\ru
+
+\id Solodikov_AA_tabun_1_021
+\tx Omneken        badụsnịwụn                devjanosto pjatyjilan                 ujunmịar tụnŋịlan
+\mb omen -REkEn    badụ -s(E)n -RI  -WUn         devjanosto pjatyj  -E  -(dU)LE -n(I)     ujunmịar tụnŋan -(G)I -(dU)LE -n(I)    
+\ps num            v                             num        adj                           num      num                           
+\ge one  -iter.adv ride -lim   -pst -poss.1pl.ex ninety.R   fifth.R -ep -loc    -poss.3sg ninety   five   -ord  -loc    -poss.3sg
+
+\tx badụsnịwụn                Anavgajtakị   bụranač            tugenidu.
+\mb badụ -s(E)n -RI  -WUn         Anavgaj -t(E)kI bụran         -E  -Č   tugeni -DU 
+\ps v                             n               n                      n          
+\ge ride -lim   -pst -poss.1pl.ex Anavgai -all    snow.mobile.R -ep -ins winter -dat
+
+\ft Once we went in 1995 (year in Russian), in 1995 (in Even) we went to Anavgay with a Buran in the winter.
+\ELANBegin 00:03:36.900
+\ELANEnd 00:03:53.360
+\ELANParticipant
+\ev
+\ru Однажды уехали в девяносто пятом, в девяносто пятом (по-эвенски) уехали в Анавгай на буране зимой.
+
+\id Solodikov_AA_tabun_1_023
+\tx Nan    badụrapeː
+\mb ńaːn badụ -R(E)   -p      =eː  
+\ps adv  v                         
+\ge and  ride -nonfut -1pl.in =emph
+\ft So, we are going.
+\ELANBegin 00:03:53.360
+\ELANEnd 00:03:56.200
+\ELANParticipant
+\ev
+\ru Вот едем.
+
+\id Solodikov_AA_tabun_1_024
+\tx Nan    Innokentevna goːnni     tawụreː    kojeːtli        ịakawụ   ŋulellen.
+\mb ńaːn Innokentevna goːn -n(I) tawụr =eː   kojeːt  -LI      ịak  -awụ  ŋulen  -L    -R(E)   -n(I)
+\ps adv  ?            v          pron        v                pron       v                         
+\ge and  Innokentevna say  -3sg  this  =emph look.at -imp.2sg what -emph be.red -inch -nonfut -3sg 
+
+\ft Innokentevna says: look, what turns red there?
+\ph guːnni, tawere, ŋulalen
+\gr 05.02.13 (questions10, 45:00) tarak = von tot, tawụr = vot etot
+\ELANBegin 00:03:56.200
+\ELANEnd 00:04:01.960
+\ELANParticipant
+\ev
+\ru И вот Иннокентьевна говорит:  посмотри, что там краснеет?
+
+\id Solodikov_AA_tabun_1_026
+\tx Bi   kojeːttem           ịamị vyxlopnojeŋu                ŋulellen
+\mb biː kojeːt  -R(E)   -m   ịamị vyxlopnoj -E  -ŋ   -W        ŋulen  -L    -R(E)   -n(I)
+\ps pron v                    pron adj                          v                         
+\ge 1sg look.at -nonfut -1sg why  exhaust.R -ep -aln -poss.1sg be.red -inch -nonfut -3sg 
+
+\ft I look and see, that my exhaust turned red.
+\ph ŋulalen
+\gr
+\nt
+\ELANBegin 00:04:01.980
+\ELANEnd 00:04:07.360
+\ELANParticipant
+\ev
+\ru Я смотрю, выхлопная труба у меня покраснела.
+
+\id Solodikov_AA_tabun_1_027
+\tx Nan    ịllịwụ        gịllaldan.
+\mb ńaːn ịl   -RI  -W        gịllal   -DE       -n(I)    
+\ps adv  v                   v                           
+\ge and  stop -pst -poss.1sg cool.off -purp.cvb -poss.3sg
+
+\ft So I stopped to cool it.
+\ph
+\gr 08.02.13 (questions15, 25:30) I would have thought that it should be gịlaldan, gịl 'be.cool' + inchoative, but RME insists that it
+should be written gịllal-. There is gịlla she says; I checked gịlsị and gịlsan; zavtra poxolodeet = tịmịna gịllaldʒịn (not gịldʒịn);
+gịllaldan = chtoby ostyla; rec.28 she pronounced clearly gịllallakan = kak on ostyl, kogda ostynet; there is a word gịlla
+'xolodnyj, xolodno', gịlsan = sejchas xolodnyj, kubek gịlsan = xolodnyj; gịlsị = xolodnyj
+\ph
+\ELANBegin 00:04:07.360
+\ELANEnd 00:04:10.240
+\ELANParticipant
+\ev
+\ru Остановился, чтобы охладить.
+
+\id Solodikov_AA_tabun_1_028
+\tx Nan    gịllallakan                    osedʒillem,                      ịamịka     direlellen.
+\mb ńaːn gịllal   -REk      -E  -n(I)     os   -E  -D    -L    -R(E)   -m   ịamị =kE   direlen -L    -R(E)   -n(I)
+\ps adv  v                                v                                 pron       v                          
+\ge and  cool.off -cond.cvb -ep -poss.3sg yank -ep -prog -inch -nonfut -1sg why  =emph buzz    -inch -nonfut -3sg 
+
+\ft When it became cool, I yanked, it buzzed.
+\ph usidillem
+\gr      direlellen --- It must be inchoative, but Robbek has no shorter verb, Cincius has direlendej 
+\gr
+\nt
+\ELANBegin 00:04:10.240
+\ELANEnd 00:04:15.880
+\ELANParticipant
+\ev
+\ru Когда остыл, я стал дергать, он загудел.
+
+\id Solodikov_AA_tabun_1_029
+\tx Nan    skorosti   uŋneku                 nanda       ọddọːttan             gurgewčiriji.
+\mb ńaːn skorosti   uŋ -REk      -W        ńaːn =DE  ọd   -WEːČ -R(E)   -n(I) gurgeːwči -RI       -J      
+\ps adv  n          v                      adv       v                        v                           
+\ge and  speed.pl.R do -cond.cvb -poss.1sg and  =ptl stop -gnr  -nonfut -3sg  work      -impf.ptc -prfl.sg
+
+\ft Then when I change speed, it doesn't work again.
+\ph
+\gr Bi ọddịwụ toːreriji -- ja perestala govoritj; Bu ọddiwụn toːreriwur -- my perestali govoritj.   
+\nt
+\ELANBegin 00:04:15.880
+\ELANEnd 00:04:22.200
+\ELANParticipant
+\ev
+\ru Потом, когда скорости устанавливаю, опять перестает работать.
+
+\id Solodikov_AA_tabun_1_030
+\tx Nan    tiːk teːrenu       turkuriwun                    orŋe.
+\mb ńaːn tiek teːrenu        turku       -RI  -WUn         hor -ŋE      
+\ps adv  adv  adv            v                             v            
+\ge and  now  till.that.time not.be.able -pst -poss.1pl.ex go  -nmdl.cvb
+
+\ft And then we couldn't leave (i.e. it didn't start up again).
+\ph urŋe!!! o-->u also before   -nmdl.cvb-marker
+\gr
+\gr terenu до сих пор
+\ELANBegin 00:04:22.200
+\ELANEnd 00:04:25.600
+\ELANParticipant
+\ev
+\ru И я так и не смог уехать до тех пор.
+
+\id Solodikov_AA_tabun_1_031
+\tx Nan    bụlụladʒịllanasị                             nan    mọːw     čakrịdʒị  kubekewur           ujuttu.
+\mb ńaːn bụlụl    -E  -D    -L    -R(E)   -n(I)     -E  =sI   ńaːn mọː  -W   čak    -RIdʒI   kubek  -E  -WUr     huj  -U    -Č   -(R)U  
+\ps adv  v                                                    adv  n         v               n                   v                      
+\ge and  get.dark -ep -prog -inch -nonfut -poss.3sg -ep =emph and  tree -acc gather -ant.cvb teapot -ep -prfl.pl boil -caus -res -1pl.ex
+
+\ft It was getting dark, having gathered some wood, we boil our teapot.
+\ph bululedʒillenesi 
+\gr bụlụl maybe it is inchoative, but Robbek has only this form + doubts about the row..
+\nt in Anavgai they call the teapot/kettle kubeke, so that the poss.refl. form is kubekewur, as said here; in Esso the word is kubek, so
+that the poss.refl form would be kubekur
+\ELANBegin 00:04:25.600
+\ELANEnd 00:04:31.640
+\ELANParticipant
+\ev
+\ru Смеркалось, вот набрав дров, вскипятили чайник.
+
+\id Solodikov_AA_tabun_1_032
+\tx Dʒebeddidʒur              iluddude.
+\mb dʒep -E  -D    -RIdʒI   -L  hilu  -D    -(R)U   =DE 
+\ps v                           v                       
+\ge eat  -ep -prog -ant.cvb -pl drink -prog -1pl.ex =ptl
+
+\ft Having eaten, we drank some tea.
+\ph Dʒib-
+\ELANBegin 00:04:31.640
+\ELANEnd 00:04:34.840
+\ELANParticipant
+\ev
+\ru Поели, попили.
+
+\id  Solodikov_AA_tabun_1_033
+\tx Nan    tụrkịw     kumerkinnidʒi    brezentew           girkeriwu,            teːdekew,    nan    dʒoːkerin  tala          ik ...
+\mb ńaːn tụrkị -W   kumerkin -RIdʒI   brezent     -E  -W   girke  -RI  -W        teːdeke -W   ńaːn dʒoːkerin    tarak -(dU)LE
+\ps adv  n          v                 n                    v                     n            adv  adv          pron         
+\ge and  sled  -acc tip.over -ant.cvb tarpaulin.R -ep -acc spread -pst -poss.1sg mat     -acc and  two.together dist  -loc   
+
+\tx iːriwun,               brezentač          nan    kulli... (kụlịrịwụn)        nan    badʒịkarakla.
+\mb iː    -RI  -WUn         brezent     -E  -Č   ńaːn kụlị  -RI  -WUn         ńaːn badʒịkar -E  -klE    
+\ps v                       n                    adv  v                       adv  n                    
+\ge enter -pst -poss.1pl.ex tarpaulin.R -ep -ins and  cover -pst -poss.1pl.ex and  morning  -ep -all.loc
+
+\ft We turned the sled over and spread out the tarpaulin, the mat, then entered there together, covered ourselves with tarpaulin and.. till the morning. 
+\ph kumerkinidʒi -- only one n!  dʒuːkeren
+\gr ik stays for ikutič 'straight ahead'
+\nt
+\ELANBegin 00:04:34.840
+\ELANEnd 00:04:48.800
+\ELANParticipant
+\ev
+\ru Опрокинув сани, я постелил брезент, шкуру, потом вдвоем туда залезли, брезентом накрылись, и до утра.
+
+\id Solodikov_AA_tabun_1_035
+\tx Badʒịkarma      čajịw      iluddidʒur              nan    dʒụːtki,     tala          daːlịla       eldur       dʒụː
+\mb badʒịkar =mE    čaj   -E  -W   hilu  -D    -RIdʒI   -L  ńaːn dʒụː  -t(E)kI tarak -(dU)LE daːlị -(dU)LE heldur      dʒụː 
+\ps n               n              v                        adv  n             pron          rel.n         adv         n    
+\ge morning  =contr tea.R -ep -acc drink -prog -ant.cvb -pl and  house -all    dist  -loc    near  -loc    fortunately house
+
+\tx bisin.
+\mb bi -RI  -n(I)    
+\ps v                
+\ge be -pst -poss.3sg
+
+\ft In the morning we drank some tea and [went] to the house, that was very nice, there was a house not far from there.
+\ph
+\gr isečenme -- a večerom
+\ELANBegin 00:04:48.800
+\ELANEnd 00:04:57.600
+\ELANParticipant
+\ev
+\ru Но утром чаю попив, к дому, хорошо, что там близко был домик.
+
+\id Solodikov_AA_tabun_1_036
+\tx Nan    tala          algań      ŋenedʒeːnniwun.
+\mb ńaːn tarak -(dU)LE halgan -Č   ŋen -E  -dʒEːn -RI  -WUn        
+\ps adv  pron          n           v                               
+\ge and  dist  -loc    foot   -ins go  -ep -dur   -pst -poss.1pl.ex
+
+\ft And we went there on foot.
+\ph sounds a bit like ŋenedʒeːnnep, but RME confirmed the past tense form
+\ELANBegin 00:04:57.600
+\ELANEnd 00:05:00.960
+\ELANParticipant
+\ev
+\ru И  туда мы пешком дошли.
+
+\id Solodikov_AA_tabun_1_037
+\tx Omen kụŋakamkar          munu            arčanịn,                  tala          bakriwun               nọŋman.
+\mb omen kụŋa  -KEn     -mkEr mun        -W   arčị -n    -RI  -n(I)     tarak -(dU)LE bak  -RI  -WUn         nọŋman 
+\ps num  n                    n               v                         pron          v                      pron   
+\ge one  child -dim.int -aug  1pl.ex.obl -acc meet -mult -pst -poss.3sg dist  -loc    find -pst -poss.1pl.ex 3sg.acc
+
+\ft One guy met us, we found him there.
+\ph umen
+\gr I added a new lexeme to the dictionary for kụŋakamkar, but maybe we have to add a new suffix?
+\nt
+\gr 05.02.13 (questions10, 47:45) kụŋakamkar = teenager, podrostok, doesn't refer to size but to age; arčanịn = nas vstrechatj
+poshel, poexal za nami, biː arčanam, iː arčanannị, nọŋan arčannị; bi arčịram, iː arčịnnị, nọŋan arčan - not clear now whether these
+actually exist, since I had said them and she had said yes, but later on when I asked bi arčiram she said it was arčaram; then she
+said that arčaram = ja poshel vstrechatj; ja sejchas vstrechaju = bi arčandʒịddam = arčịldaddam; bi arčaram = ja vstrechaju, bi
+arčanam = ja idu vstrechatj; bi arčịram noŋman = ja ego vstrechaju na ulice, sluchajno; bi arčandʒịddam = ja ego vstrechaju,
+idu ego vstrechatj; bu Zhenjaw arčịldarụ = sluchajno vstrechaem ego; bu arčandʒịddu = my idem vstrechatj Natashu
+\ELANBegin 00:05:00.960
+\ELANEnd 00:05:05.880
+\ELANParticipant
+\ev
+\ru Один парень за нами приехал, и мы там его нашли.
+
+\id Solodikov_AA_tabun_1_038
+\tx Nan    bụramụr            gadʒịdʒaːnnịwụn,             gadʒịssịwụn.
+\mb ńaːn bụran         -WUr     gadʒị      -dʒEːn -RI  -WUn         ga   -D    -s(E)n -RI  -WUn        
+\ps adv  n                      v                                   v                                  
+\ge and  snow.mobile.R -prfl.pl go.to.take -dur   -pst -poss.1pl.ex take -prog -lim   -pst -poss.1pl.ex
+
+\ft We went to take our Buran, took it.
+\gr gadʒịssịwụn??? is there really limitative? When is the allomorph 's' used? 
+bi gụlaldịwam gadʒịrịwụ -- ja poshel za spičkami (is it future marker?? or progressiv?)
+bi gụlaldịwam gadʒirịdʒị  uniriwu zažigalkaw -- prijdja za spichkami (v magazin), kupil zazhialku.
+gụlaldịwam gadịdʒị urriwu dʒutki -- zabrarav spichki, ja poshel domoj.
+gadʒisčiriwun -- pytalisj exatj zabratj
+gadʒissiwun -- sjezdili zabrali (ss???)
+gadʒiriwun -- poexali zabiratj
+gadiwun -- zabrali   
+\nt
+\ELANBegin 00:05:05.880
+\ELANEnd 00:05:09.840
+\ELANParticipant
+\ev
+\ru Поехали за нашим бураном, привезли.
+
+\id Solodikov_AA_tabun_1_039
+\tx Nan    tadụ     dʒụːdụ  ọːčịddịwụn.
+\mb ńaːn tarak -DU  dʒụː  -DU  ọː   -Č   -E  -D    -RI  -WUn        
+\ps adv  pron       n          v                                    
+\ge and  dist  -dat house -dat make -res -ep -prog -pst -poss.1pl.ex
+\ft We repaired it in the house there.
+\ph
+\gr
+\nt The comment of the translator: outside.
+\ELANBegin 00:05:09.840
+\ELANEnd 00:05:12.520
+\ELANParticipant
+\ev
+\ru И мы там дома ремонтировали (во дворе).
+
+\id Solodikov_AA_tabun_1_040
+\tx Omen šponkawun           kọŋdarrịn.
+\mb omen šponka  -WUn         kọŋdar    -RI  -n(I)    
+\ps num  n                    v                       
+\ge one  dowel.R -poss.1pl.ex break.off -pst -poss.3sg
+
+\ft A dowel broke off.
+\ph
+\gr 05.02.13 (questions10, 51:30) kọŋdarrịn = otlomilasj; kọŋdallịn --> kụŋa kọŋdallịn mọːw (1 raz); kọŋdamnịn = polomalosj
+(many times); kọŋdaktịn = transitive, many times
+\ph umen
+\ELANBegin 00:05:12.520
+\ELANEnd 00:05:20.360
+\ELANParticipant
+\ev
+\ru Одна шпонка отломалась.
+
+\id Solodikov_AA_tabun_1_041
+\tx Nan    ọːrịdʒụr   šponkawan                kluttuk       raškowyjduk        ọːrịwụn.
+\mb ńaːn ọː   -RIdʒI   -L  šponka  -W   -E  -n(I)     kluč  -DUk(U) rožkowyj    -DUk(U) ọː   -RI  -WUn        
+\ps adv  v                 n                          n             n                   v                     
+\ge and  make -ant.cvb -pl dowel.R -acc -ep -poss.3sg key.R -abl    peg.spanner -abl    make -pst -poss.1pl.ex
+
+\ft We made a dowel of a peg spanner.
+\ELANBegin 00:05:20.360
+\ELANEnd 00:05:27.920
+\ELANParticipant
+\ev
+\ru Сделали шпонку из рожкового ключа.
+
+\id Solodikov_AA_tabun_1_042
+\tx Nan    teːwridʒur          motorron,        Anavgajtakị   tụrkịdasnịwụn.
+\mb ńaːn teːw     -RIdʒI   -L  motor   -Con     Anavgaj -t(E)kI tụrkị -DE -s(E)n -RI  -WUn        
+\ps adv  v                     n                n               v                                 
+\ge and  put.down -ant.cvb -pl motor.R -acc.3sg Anavgai -all    sled  -vr -lim   -pst -poss.1pl.ex
+
+\ft We put the motor and went to Anavgay.
+\ph motorron
+\gr
+\ELANBegin 00:05:27.925
+\ELANEnd 00:05:33.723
+\ELANParticipant
+\ev
+\ru Поставив мотор на место, поехали в Анавгай.
+
+\id Solodikov_AA_tabun_1_043
+\tx Nan    hiːsečin Anavgajla       ụkal  bisiwun.
+\mb ńaːn hiːsečin Anavgaj -(dU)LE ụkal    bi -RI  -WUn        
+\ps adv  n        n               adv     v                   
+\ge and  evening  Anavgai -loc    already be -pst -poss.1pl.ex
+
+\ft So in the evening we were already in Anavgay.
+\ph iːsečin ukel
+\gr
+\nt The last annotation in russian (Vsje. Xorosho. Spasibo. Ja dumaju, tochno uzh nado pomenjatj kassetu, tak chto my sejchas sje ostanavlivaem.) was lost... not to
+foget to add it to the final ELAN file.
+\qu
+\ELANBegin 00:05:33.723 
+\ELANEnd 00:05:36.986
+\ELANParticipant
+\ev
+\ru И вечером уже были в Анавгае.
+
+
+\ELANMediaURL file:///C:/NatAr/kamchatka2009/Kamchatka_texts/Audio_from_video/Solodikov_AA_tabun_1_020709.wav
+\ELANMediaMIME audio/x-wav

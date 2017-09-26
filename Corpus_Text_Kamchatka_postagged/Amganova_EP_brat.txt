@@ -1,0 +1,229 @@
+\_sh v3.0  984  Text
+
+\id Amganova_EP_brat_000_metadata
+\ref Recorded 27 June 2009 in Esso by Natalia Aralova and Brigitte Pakendorf. NA and BP went to the house of the
+Amganovs on purpose to ask EPA to narrate a recording; this was already the 5th or 6th visit of NA (who had been
+recording the phonological word list with EPA's husband Efim) at the Amganov's house - so the whole set-up with
+video-camera and taking down the loudly ticking clock etc were quite familiar; on the other hand, EPA was clearly
+getting somewhat fed up with linguists and their incessant wishes to record things.  We talked a bit beforehand in Russian
+about what she could tell, and she told several little anecdotes, some only a few sentences long. We (BP, NA and EPA)
+were the only people in the house, and the recording was done in their kitchen, where we took down the ticking clock
+and switched off the radio, so that it was quiet.
+\qu Transcribed by BP, transcription checked with Elena Nikolaevna Cherkanova, Russian translation by Elena Nikolaevna Cherkanova,
+glossing by BP. Funding by the Volkswagen Foundation (DoBeS grant). Speaker abbreviation = EPA.
+\ref Elena Petrovna Amganova was born in 1952, i.e. she was 56-57 at the time of the recording. She had 8 years of schooling
+and had worked as a milker and then a cleaner. 
+
+\id Amganova_EP_brat_001
+\tx Russian
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:04.660
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_brat_002
+\tx clap
+\ELANBegin 00:00:04.660
+\ELANEnd 00:00:05.250
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_brat_003
+\tx date, place, name
+\ELANBegin 00:00:05.250
+\ELANEnd 00:00:17.090
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_brat_004
+\tx Tarak Twajaːndụ  bisekun,                  kagda  unet  školadụ    taŋnịwụn,         a
+\mb tarak Twajaːn -DU  bi -REk      -WUn         kogda  unet  škola    -DU  taŋ  -RI  -WUn         a.R  
+\ps pron  n            v                         pron   adv   n             v                      ?    
+\ge dist  Twajaːn -dat be -cond.cvb -poss.1pl.ex when.R still school.R -dat read -pst -poss.1pl.ex but.R
+
+\tx noːwusi                        Ruslan kučuken bisin.
+\mb noː             -W        =sI   Ruslan kočuken bi -RI  -n(I)    
+\ps n                               ?      adj     v                
+\ge younger.sibling -poss.1sg =emph Ruslan small   be -pst -poss.3sg
+\ft When we were in Twajan, when we still went to school, my brother Ruslan was small.
+\ph bisekun, nuːwusi, bisin, 
+\ELANBegin 00:00:17.090
+\ELANEnd 00:00:24.140
+\ELANParticipant
+\ev
+\ru Когда в Тваяне жили, когда еще в школе учились, а мой брат Руслан маленький был.
+
+\id Amganova_EP_brat_005
+\tx Entilbu           ọrdụda                  gurgeːwčiriten.
+\mb eńtil   -W        ọrọn              -DU  =DE  gurgeːwči -RI  -tEn     
+\ps n                 n                           v                       
+\ge parents -poss.1sg domestic.reindeer -dat =ptl work      -pst -poss.3pl
+\ft My parents worked in the reindeer herd.
+\ELANBegin 00:00:24.140
+\ELANEnd 00:00:27.610
+\ELANParticipant
+\ev
+\ru Родители в табуне работали.
+
+\id Amganova_EP_brat_006
+\tx Ńan   eniŋeːwude               bisin,            akmụ           ekenni,         eńeńe.
+\mb ńaːn eniŋeː      -W        =DE  bi -RI  -n(I)     akan   -W        eken  -n(I)     eńene      
+\ps adv  n                          v                 n                adj             n          
+\ge and  grandmother -poss.1sg =ptl be -pst -poss.3sg father -poss.1sg older -poss.3sg grandmother
+\ft And I had a grandmother, my father's mother, enjenje (is how they called her).
+\ELANBegin 00:00:27.610
+\ELANEnd 00:00:33.860
+\ELANParticipant
+\ev
+\ru И бабушка была, у отца мама, (звали) эньэньэ.
+
+\id Amganova_EP_brat_007
+\tx Omneken        agdịrị bisine,               ńan   ụdallịn               entekeːje
+\mb omen -REkEn    agdịrị  bi -RI  -n(I)     -E  ńaːn ụdan -L  -RI  -n(I)     entekeːje
+\ps num            n       v                     adv  v                       adv      
+\ge one  -iter.adv thunder be -pst -poss.3sg -ep and  rain -pl -pst -poss.3sg strong   
+
+\tx neːrŋe ọːdịn.
+\mb neːrŋe ọː     -RI  -n(I)    
+\ps n      v                    
+\ge rain   become -pst -poss.3sg
+\ft Once there was a thunderstorm, and it started to rain hard, a real downpour started.
+\ph agdịrịː, entekejeː
+\ELANBegin 00:00:33.860
+\ELANEnd 00:00:40.350
+\ELANParticipant
+\ev
+\ru Однажды гроза была, и дождь начался сильный, проливной.
+
+\id Amganova_EP_brat_008
+\tx Ńan   Griša, Kolja tar   Ruslanda    bọdụsnịn                        bụgaskị.
+\mb ńaːn Griša  Kolja tarak Ruslan =DE  bọd       -U    -s(E)n -RI  -n(I)     bụg   -E  -skI     
+\ps adv  ?      ?     pron  ?           v                                     ?                  
+\ge and  Grisha Kolja dist  Ruslan =ptl accompany -caus -lim   -pst -poss.3sg earth -ep -advb.all
+
+\ft Then Grisha, Kolja, and Ruslan followed them to the forest.
+\ph
+\nt the adverb bụgaskị means 'to the forest'; the lexemes for 'forest' bụjn and 'earth, place, universe' bụg would appear to be
+related
+\ELANBegin 00:00:40.350
+\ELANEnd 00:00:46.600
+\ELANParticipant
+\ev
+\ru Потом Гриша, Коля, и Руслан за ними пошел в лес.
+
+\id Amganova_EP_brat_009
+\tx Ńan   iːsečin  emedde,               ịk             ụlakčaleː       ụlaptịtan.
+\mb ńaːn hiːsečin em   -E  -D    -R(E)   ịkụt     -E  -Č   ụlakča -L  =eː   ụl   -E  -B   -RI  -tEn     
+\ps adv  n        v                      adv               ?                v                           
+\ge and  evening  come -ep -prog -nonfut straight -ep -ins wet    -pl =emph soak -ep -med -pst -poss.3pl
+
+\ft And in the evening they came back, completely wet, they got soaked.
+\ELANBegin 00:00:46.600
+\ELANEnd 00:00:52.620
+\ELANParticipant
+\ev
+\ru Вот вечером пришли, промокли, все мокрые.
+
+\id Amganova_EP_brat_010
+\tx Ńan   tarak eńeńe     neːiddin,                  goːnni     ịadụ   goːnni
+\mb ńaːn tarak eńene       neːgi -D    -RI  -n(I)     goːn -n(I) ịak  -DU  goːn -n(I)
+\ps adv  pron  n           v                          v          pron      v         
+\ge and  dist  grandmother scold -prog -pst -poss.3sg say  -3sg  what -dat say  -3sg 
+
+\tx bọdụwaːčịs?
+\mb bọd       -U    -WEːČ -E  -s  
+\ps v                             
+\ge accompany -caus -gnr  -ep -2pl
+\ft Then my grandmother scolded them, why did you take him with you, she said.
+\ph bọdụwaːčịs
+\ELANBegin 00:00:52.620
+\ELANEnd 00:00:57.120
+\ELANParticipant
+\ev
+\ru Потом бабушка стала их ругать, зачем водите?
+
+\id Amganova_EP_brat_011
+\tx Kojeːnni   ụlaptịn,                butenildʒin                 ńan.
+\mb kojeː -nrI ụl   -E  -B   -RI  -n(I)     buteːn -E  -L    -DʒI -n(I) ńaːn
+\ps v          v                            v                           adv 
+\ge watch -2sg soak -ep -med -pst -poss.3sg be.ill -ep -inch -fut -3sg  and 
+
+\ft You see, he's all wet, he'll fall ill.
+\ELANBegin 00:00:57.120
+\ELANEnd 00:01:00.360
+\ELANParticipant
+\ev
+\ru Видишь, промок, еще заболеет.
+
+\id Amganova_EP_brat_012
+\tx Vot    ńan   ulittin,                  awrịn             ejdu teturin                     ileŋet,
+\mb vot    ńaːn uliː -Č   -RI  -n(I)     aw   -RI  -n(I)     ejdu tet    -U    -RI  -n(I)     ileŋ -E  -Č  
+\ps ptl    adv  v                        v                   quant v                           adj          
+\ge here.R and  feed -res -pst -poss.3sg wash -pst -poss.3sg all  put.on -caus -pst -poss.3sg dry  -ep -ins
+
+\tx uklesemkenin.
+\mb hukle -s(E)n -WkEn -RI  -n(I)    
+\ps v                                
+\ge sleep -lim   -caus -pst -poss.3sg
+\ft Then she fed him, washed him, put dry clothes on him and put him to bed. 
+\ELANBegin 00:01:00.360
+\ELANEnd 00:01:08.620
+\ELANParticipant
+\ev
+\ru Потом вот накормила его, выкупала, одела в сухое и спать уложила.
+
+\id Amganova_EP_brat_013
+\tx Ńan   badʒịkar ịamị kụŋakan   mịaladdan,                  ńan   čistoj ịtịn            ačča
+\mb ńaːn badʒịkar ịamị kụŋa  -KEn mịal    -E  -D    -R(E)   -n(I) ńaːn čistoj  ịtịː -n(I)     ačča
+\ps adv  n        pron n          v                               adv  adj     n              ptl 
+\ge and  morning  why  child -dim wake.up -ep -prog -nonfut -3sg  and  clean.R face -poss.3sg neg 
+
+\tx omenirde           ịgatịŋan.
+\mb omen -ir      =DE  ịgat -E  -ŋ   -E  -n(I)    
+\ps num                n                          
+\ge one  -num.neg =ptl sore -ep -aln -ep -poss.3sg
+
+\ft And in the morning the child wakes up and his face is clean, not a single sore.
+\ph kụŋaxan
+\gr
+\nt EPA omitted to mention in the beginning that her brother was a sickly child that was covered in sores all the time - that is
+why it was so surprising that the little boy woke up after being soaked in the thunderstorm with not a single sore.
+\ELANBegin 00:01:08.620
+\ELANEnd 00:01:15.520
+\ELANParticipant
+\ev
+\ru А утром ребенок просыается, лицо чистое, не одной болячки нету.
+
+\id Amganova_EP_brat_014
+\tx Ńan   ereglen               tiːk esni             buteːnnoːtte.
+\mb ńaːn ereger -(dU)LE -n(I)     tiek e   -R(E)   -n(I) buteːn -WEːČ -R      
+\ps adv  adv                      adv  v                 v                    
+\ge and  always -loc    -poss.3sg now  neg -nonfut -3sg  be.ill -gnr  -neg.cvb
+
+\ft And even now he is never ill.
+\ph
+\gr ereglen = navsegda, na večnoe vremja
+\ELANBegin 00:01:15.520
+\ELANEnd 00:01:18.580
+\ELANParticipant
+\ev
+\ru А сейчас он никогда не болеет.
+
+\id Amganova_EP_brat_015
+\tx nu vse
+\mb
+\ge
+\ft Well, that's all.
+\ELANBegin 00:01:18.580
+\ELANEnd 00:01:21.220
+\ELANParticipant
+\ev
+\ru 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Kamchatka2009/sound_from_video/Amganova_EP_brat_Esso_270609.wav
+\ELANMediaMIME audio/x-wav

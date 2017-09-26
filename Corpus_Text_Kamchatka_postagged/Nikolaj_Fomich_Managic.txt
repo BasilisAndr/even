@@ -1,0 +1,1173 @@
+\_sh v3.0  988  Text
+
+\id Nikolaj_Fomič_Managič_000_metadata
+\ref Recorded on 18 June 2009 at the Managich fishing camp by Natalia Aralova and Brigitte Pakendorf. This recording was done in the
+traditional fishing camp on the Managič river (Russian version of the name = Manyč), where Evdokija Grigorevna Adukanova and
+Nikolaj Fomich Ichanga live year round together with her three sons, a 19-year -old granddaughter of hers, as well as previously
+various grand-children (and now a great-grandson) of pre-school age; in the summer, the camp fills up with further children of
+school age. The recording took place in the traditional yurt, which is the focus of the camp's life in summer, being the kitchen, dining
+room and living room of the camp as well as EGA's and NFI's bedroom. We had chased out all children for the recording; however, in
+the beginning EGA's middle son was still with us drinking tea - this can be heard in the background. Also, the children can be heard
+quite clearly outside the yurt, as can be the other adults of the camp; furthermore, the fire can be heard crackling, especially during
+the second half, when more wood was laid on. At first EGA spoke alone, then NFI gave a brief narrative on his own (switching to
+Russian quite a lot), and finally both answered some questions together. The Marantz and microphone were on a low table in front of
+the speakers and was monitored by BP, while NA monitored the video camera, which was on a tripod. 
+\qu Transcribed in Elan by BP, transcription checked and corrected by BP together with Elena Nikolaevna Cherkanova, the daughter of
+EGA, with a sentence-by-sentence translation into Russian given by ENCh at the same time. Glossed by BP. Funding by the
+Volkswagen Foundation (DoBeS grant). Speaker abbreviations = NFI, EGA
+\ref Nikolaj Fomich Ichanga was born in 1940, i.e. he was 68-69 at the time of the recording. He finished 7 years of school and
+worked as a reindeer herder and hunter in Soviet times, always living in the taiga. He had been married to a Koryak (with
+whom he said he had spoken Even) and had lived with her on a fishing camp, and then moved to the Managych camp
+when his wife died. 
+\ref Evdokija Grigorevna Adukanova was born in September 1932, so she was close to 77 years old when we recorded this.
+She finished 4 years of schooling and then worked as a reindeer herder before moving to the fishing camp. She is the
+mother of Artem Nikolaevich Solodikov. She passed away in 2014.
+
+\id Nikolaj_Fomič_Managič_001
+\tx Tiːk ńan   nọŋan teːleŋeden.
+\mb tiek ńaːn nọŋan teːleŋ -E  -DE       -n(I)    
+\ps adv  adv  pron  v                             
+\ge now  and  3sg   story  -ep -purp.cvb -poss.3sg
+\ft Let him tell (something) now.
+\ph it sounds very much like teːleŋesi, but since Evdokija Grigorevna doesn't always clearly enunciate, and since Lena is her
+daughter and can be taken to understand her mother well, I decided to leave it as Lena dictated
+\gr
+\nt This is part of one recording session with Evdokija Grigorevna and Nikolaj Fomich in their yurt at their 'rybalka' on the
+Managich river; first she told about how she went to live with her husband and her first year in school, and then she
+decided that her husband Nikolaj should also tell us something.
+\ELANBegin 00:00:00.010
+\ELANEnd 00:00:04.180
+\ELANParticipant EGA
+\ev
+\ru Пусть теперь он расскажет.
+
+\id Nikolaj_Fomič_Managič_002
+\tx Nikolaj Fomič...
+\ELANBegin 00:00:04.180
+\ELANEnd 00:00:07.780
+\ELANParticipant BP
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_003
+\tx Ŋịnač      tụrkụddịwan... tụrkụddịwas... teːleŋni.
+\ft Tell about how you go by dog sled.
+\ph
+\gr
+\nt BP's attempt at phrasing a question in Even, erroneous, it should be tụrkụdarịwas, I think
+\ELANBegin 00:00:07.780
+\ELANEnd 00:00:15.500
+\ELANParticipant BP
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_004
+\tx Teːleŋni,       ŋịndačajị,            tụrkịdačajị,            tụrkịdakaččawụs                    iː
+\mb teːleŋ -LI      ŋịn -DE -čE     -J       tụrkị -DE -čE     -J       tụrkị -DE -kEČ  -čE     -W   -s(I)     hiː
+\ps v               v                        v                          v                                      pron
+\ge tell   -imp.2sg dog -vr -pf.ptc -prfl.sg sled  -vr -pf.ptc -prfl.sg sled  -vr -mult -pf.ptc -acc -poss.2sg 2sg
+
+\tx teːleŋdes.
+\mb teːleŋ -DE       -s(I)    
+\ps v                         
+\ge tell   -purp.cvb -poss.2sg
+\ft Tell how you went by dog (sled).
+\ph ŋịndač ajị, tụrkịdač ajị
+\ELANBegin 00:00:15.500
+\ELANEnd 00:00:22.270
+\ELANParticipant EGA
+\ev
+\ru Расскажи как на собаках ехал.
+
+\id Nikolaj_Fomič_Managič_005
+\tx Awụskị      tụrkịdakaččawụ?
+\mb aw    -skI      tụrkị -DE -kEČ  -čE     -W   -W       
+\ps pron            v                                     
+\ge where -advb.all sled  -vr -mult -pf.ptc -acc -poss.1sg
+
+\ft Went where?
+\ph tụrkịkač
+\gr
+\nt I think Lena only 'transcribed' this by the context.
+\qu
+\ELANBegin 00:00:22.270
+\ELANEnd 00:00:23.810
+\ELANParticipant NFI
+\ev
+\ru Куда ездил?
+
+\id Nikolaj_Fomič_Managič_006
+\tx Ọːn awụskị?
+\mb ọːn aw    -skI     
+\ps pron pron           
+\ge how where -advb.all
+
+\ELANBegin 00:00:23.810
+\ELANEnd 00:00:26.350
+\ELANParticipant EGA
+\ev
+\ru Как куда?
+
+\id Nikolaj_Fomič_Managič_007
+\tx Nọnarapčị            ọːn ŋịndaddịs                  taraw      teːleŋni.
+\mb nọnap      -(E)rEp -pčVn ọːn ŋịn -DE -D    -RI  -s(I)     tarak -W   teːleŋ -LI     
+\ps adj                      pron v                            pron       v              
+\ge the.first. -adjr   -adjr how dog -vr -prog -pst -poss.2sg dist  -acc tell   -imp.2sg
+
+\ft How you went by dog (sled), tell that.
+\ph
+\gr nọnap = prošlyj, nọnarap = prošlyj, kak ja ranše = nọnarap(čị), so it would seem to be the same as nọnarap; however,
+since there is also the form tarapčị (cf. sentence 12), I decided to analzye this with the -pčVn suffix
+\ELANBegin 00:00:26.350
+\ELANEnd 00:00:30.620
+\ELANParticipant EGA
+\ev
+\ru Как ты раньше ездил, то и расскажи.
+
+\id Nikolaj_Fomič_Managič_008
+\tx Teːleŋedli.
+\mb teːleŋ -E  -D    -LI     
+\ps v                        
+\ge tell   -ep -prog -imp.2sg
+
+\ELANBegin 00:00:30.620
+\ELANEnd 00:00:36.700
+\ELANParticipant EGA
+\ev
+\ru Расскажи.
+
+\id Nikolaj_Fomič_Managič_009
+\tx Deduškaske                   Akaːńịka bisin.
+\mb deduška       -s(I)     =kE   Akaːńịka bi -RI  -n(I)    
+\ps n                             ?        v                
+\ge grandfather.R -poss.2sg =emph Akanika  be -pst -poss.3sg
+\ft There was grandad Akanika.
+\ph
+\gr
+\nt Lena Čerkanova said that this does not mean 'your grandfather', but RME translated it as 'tvoj že ded Akanika byl'
+\ELANBegin 00:00:36.700
+\ELANEnd 00:00:42.260
+\ELANParticipant EGA
+\ev
+\ru Дедушка Аканика был.
+
+\id Nikolaj_Fomič_Managič_010
+\tx background noises
+\ELANBegin 00:00:42.260
+\ELANEnd 00:00:46.320
+\ELANParticipant comment
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_011
+\tx whisper in back
+\ELANBegin 00:00:46.320
+\ELANEnd 00:00:47.640
+\ELANParticipant comment
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_012
+\tx Ọːn nọnan  elekes   ọːddịs                 kụŋakakakan          tarapčị   tarbịtta
+\mb ọːn nọnan    elekes   ọː     -D    -RI  -s(I)     kụŋa  -KEn     -kEkEn tarak -pčVn tarbịč    =t(E)   
+\ps pron adv      ?        v                           n                     pron        pron              
+\ge how at.first at.first become -prog -pst -poss.2sg child -dim.int -dim   dist  -adjr like.that =utočnit
+
+\tx tiːk ŋịndakačịlčas                        ọːn teːleŋni.
+\mb tiek ŋịn -DE -kEČ  -E  -L    -čE     -s(I)     ọːn teːleŋ -LI     
+\ps adv  v                                         pron v              
+\ge now  dog -vr -mult -ep -inch -pf.ptc -poss.2sg how tell   -imp.2sg
+
+\ft Tell how you have been going by dog sled from when you were a child until now.
+\ph
+\gr tarapčị = ottuda, tarbịtta/tarbụtta = až sejčas, ottuda do sejčas; ŋịndakačịlčas = kak ty na sobakax stal ezdit'; Lena
+Čerkanova 'transcribed' ŋịndakačịkdʒaklajị, but the form as 'transcribed' by RME makes more sense; however, while the
+verb really does sound like what RME said, in between the verb and teːleŋni is something that doesn't sound like ọːn, but
+more like 'klaj' or so, as if she says ŋịndakačịlčasklaj...
+\nt
+\gr ŋịndakačịlčas = ŋịndadaj = ezditj na sobakax; ŋịndakattaj = mnogo raz ezditj na sobakax; ŋịndakačịldaj = nachinatj
+ezditj; ŋịndakačịlčas = kak ty nachinal ezditj; ŋịndakačịčawụs = kak ty ezdil; teːleŋni ŋịndakačịčawụs = rasskazyvaj kak
+ty ranshe ezdil; teːleŋni ŋịndakačịlčas = rasskazyvaj kak ty nachinal ezditj, the word is correct as it is
+\nt
+\ELANBegin 00:00:47.640
+\ELANEnd 00:00:56.020
+\ELANParticipant EGA
+\ev
+\ru Как ты стал ребенком с того времени до того как ты стал ездить на собаках расскажи.
+
+\id Nikolaj_Fomič_Managič_013
+\tx Čajị!!        Ńoːli!!
+\mb čaj     -J       ńoː  -LI     
+\ps interj           v            
+\ge go.away -prfl.sg exit -imp.2sg
+
+\ft
+\ph ŋuːli
+\ELANBegin 00:00:56.020
+\ELANEnd 00:00:57.710
+\ELANParticipant EGA
+\ev
+\ru Иди, выди!
+
+\id Nikolaj_Fomič_Managič_014
+\tx kučuken
+\mb kočuken
+\ps adj    
+\ge small  
+
+\ELANBegin 00:00:57.710
+\ELANEnd 00:00:58.360
+\ELANParticipant NFI
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_015
+\tx children whispering
+\ELANBegin 00:00:58.360
+\ELANEnd 00:01:04.170
+\ELANParticipant comment
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_016
+\tx Ded           Ljọša bisin             minu         gadịn             s šesti let, vospityvat'.
+\mb deduška       Aleša  bi -RI  -n(I)     min     -W   ga   -RI  -n(I)    
+\ps n             ?      v                 pron         v                  
+\ge grandfather.R Alesha be -pst -poss.3sg 1sg.obl -acc take -pst -poss.3sg
+\ft There was grandad Aljosha, he took me when I was six to raise me.
+\ELANBegin 00:01:04.170
+\ELANEnd 00:01:10.840
+\ELANParticipant NFI
+\ev
+\ru Дед Леша был, меня взял с 6-и лет воспитывать.
+
+\id Nikolaj_Fomič_Managič_017
+\tx Admonishments to children to leave the yurt.
+\ELANBegin 00:01:10.840
+\ELANEnd 00:01:21.650
+\ELANParticipant comment
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_018
+\tx Sem     let...  šest  letu              biseku                 gadịn.
+\mb sem'    let     šest' let     -W        bi -REk      -W        ga   -RI  -n(I)    
+\ps num     n       num   n                 v                      v                  
+\ge seven.R years.R six.R years.R -poss.1sg be -cond.cvb -poss.1sg take -pst -poss.3sg
+
+\ft He took me when I was six years old.
+\ELANBegin 00:01:21.650
+\ELANEnd 00:01:24.090
+\ELANParticipant NFI
+\ev
+\ru Когда мне было 6 лет, он взял.
+
+\id Nikolaj_Fomič_Managič_019
+\tx children talking
+\ELANBegin 00:01:24.090
+\ELANEnd 00:01:27.360
+\ELANParticipant comment
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_020
+\tx At  nọŋartan at  kụŋaŋnal          bisiten           ńan   Twajaːntakị   gadịtan
+\mb ač  nọŋartan ač  kụŋa  -ŋ   -LE  -L  bi -RI  -tEn      ńaːn Twajaːn -t(E)kI ga   -RI  -tEn     
+\ps ptl pron     ptl n                   v                 adv  n               v                  
+\ge neg 3pl      neg child -aln -prv -pl be -pst -poss.3pl and  Twajaːn -all    take -pst -poss.3pl
+
+\tx Leučenduk.
+\mb Laučan  -DUk(U)
+\ps n              
+\ge Lauchan -abl   
+\ft They didn't have children and took (me) from Lauchan to Twajan.
+\ELANBegin 00:01:27.360
+\ELANEnd 00:01:34.860
+\ELANParticipant NFI
+\ev
+\ru Они были бездетные, вот забрали в Тваян из Лаучана.
+
+\id Nikolaj_Fomič_Managič_021
+\tx Nọŋardụtan             biddiwu.
+\mb nọŋan -L  -DU  -tEn      bi -D    -RI  -W       
+\ps pron                     v                      
+\ge 3sg   -pl -dat -poss.3pl be -prog -pst -poss.1sg
+
+\ft I lived with them.
+\ELANBegin 00:01:34.860
+\ELANEnd 00:01:36.600
+\ELANParticipant NFI
+\ev
+\ru У них жил.
+
+\id Nikolaj_Fomič_Managič_022
+\tx Vot...
+\mb vot   
+\ps ptl   
+\ge here.R
+
+\ELANBegin 00:01:36.600
+\ELANEnd 00:01:37.840
+\ELANParticipant NFI
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_023
+\tx Omettu   nan    bọddọččọːttụ        ŋịndakaččọːttụ.
+\mb omettu   ńaːn bọd       -Č   -WEːČ -(R)U   ŋịn -DE -kEČ  -WEːČ -(R)U  
+\ps adv      adv  v                            v                          
+\ge together and  accompany -res -gnr  -1pl.ex dog -vr -mult -gnr  -1pl.ex
+\ft We went together by dog sled.
+\ph ʊmettu
+\ELANBegin 00:01:37.840
+\ELANEnd 00:01:43.850
+\ELANParticipant NFI
+\ev
+\ru Вместе с ними потом ездили на собаках.
+
+\id Nikolaj_Fomič_Managič_024
+\tx Tiede   omekken ŋịndakačịllịwụ.
+\mb tiede   omekken ŋịn -DE -kEČ  -E  -L    -RI  -W       
+\ps adv     ?       v                                     
+\ge finally alone   dog -vr -mult -ep -inch -pst -poss.1sg
+
+\ft Later I went by dog sled alone.
+\ph teːde ʊmekkɐn
+\ELANBegin 00:01:43.850
+\ELANEnd 00:01:46.750
+\ELANParticipant NFI
+\ev
+\ru Потом стал один ездить.
+
+\id Nikolaj_Fomič_Managič_025
+\tx Amaŋawụ            upkurin               ŋịndadakụ.
+\mb amaŋa       -W        hupkut -RI  -n(I)     ŋịn -DE -DE       -W       
+\ps n                     v                     v                          
+\ge grandfather -poss.1sg learn  -pst -poss.3sg dog -vr -purp.cvb -poss.1sg
+\ft Grandad taught (me) how to go by dog sled.
+\ph
+\gr (trans.file Nikolaj_Fomich_quest 26:15): upkurin = on naučil 1 raz, upkuttin = on v obščem učil; ja učilsja v škole = bi
+upkuttiwu školadu;  ja učilsja šit' odeždu= biː upkučiddiwu aŋaːndajị ọjụ; ja naučilsja šit' odeždu = biː
+upkuttiwu/upkuriwu aŋaːndajị ọjụ; Moja babuška menja učit šit' odeždu = min eniŋewu minu upkučiddʒoːtten
+aŋaːndakụ ọjụ; moja babuška menja naučila šit' odeždu = min eniŋewu minu upkurin aŋaːndakụ ọjụ --> no difference
+between study.intrs and teach
+\nt
+\ELANBegin 00:01:46.750
+\ELANEnd 00:01:49.970
+\ELANParticipant EGA
+\ev
+\ru Дедушка научил ездить на собаках.
+
+\id Nikolaj_Fomič_Managič_026
+\tx Ded           Akaːńịka upkurin               ŋịndakattakụ.
+\mb deduška       Akaːńịka hupkut -RI  -n(I)     ŋịn -DE -kEČ  -DE       -W       
+\ps n             ?        v                     v                                
+\ge grandfather.R Akanika  learn  -pst -poss.3sg dog -vr -mult -purp.cvb -poss.1sg
+\ft Grandad Akanika taught me how to go by dog sled.
+\ELANBegin 00:01:49.970
+\ELANEnd 00:01:55.100
+\ELANParticipant NFI
+\ev
+\ru Дед Аканика научил ездить на собаках.
+
+\id Nikolaj_Fomič_Managič_027
+\tx voice in background
+\ELANBegin 00:01:55.100
+\ELANEnd 00:01:59.010
+\ELANParticipant comment
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_028
+\tx U    nas... mun        ŋịnalbụn              bidditen                sem     štuk.
+\mb u    nas  mun        ŋịn -E  -L  -WUn         bi -D    -RI  -tEn      sem'    štuk        
+\ps postpos pron ?          n                        v                       num     n           
+\ge at.R us.R 1pl.ex.obl dog -ep -pl -poss.1pl.ex be -prog -pst -poss.3pl seven.R pieces.gen.R
+
+\ft We had 7 dogs.
+\ph
+\gr
+\nt If the dogs are strong, 5 are sufficient to pull a sled.
+\ELANBegin 00:01:59.010
+\ELANEnd 00:02:04.310
+\ELANParticipant NFI
+\ev
+\ru У нас собак было 7 штук.
+
+\id Nikolaj_Fomič_Managič_029
+\tx Taraldʒị               ŋịndaddʒọːttam,                tar.
+\mb tarak -E  -L  -DʒI         ŋịn -DE -D    -WEːČ -R(E)   -m   tarak
+\ps pron                       v                                pron 
+\ge dist  -ep -pl -ins.prfl.sg dog -vr -prog -gnr  -nonfut -1sg dist 
+\ft I went with those.
+\ELANBegin 00:02:04.310
+\ELANEnd 00:02:06.710
+\ELANParticipant NFI
+\ev
+\ru На тех ездил.
+
+\id Nikolaj_Fomič_Managič_030
+\tx On... nọŋangal     boːdelin             keńeli bisin.
+\mb on   nọŋan =gEl   boːdel -E  -n(I)     keńeli bi -RI  -n(I)    
+\ps pron pron         n                    adj    v                
+\ge he.R 3sg   =coord leg(s) -ep -poss.3sg bad    be -pst -poss.3sg
+\ft His legs were bad.
+\ph buːdeli
+\ELANBegin 00:02:06.710
+\ELANEnd 00:02:10.440
+\ELANParticipant NFI
+\ev
+\ru У него ноги плохие были.
+
+\id Nikolaj_Fomič_Managič_031
+\tx Na   sob... ŋịnač      ŋịndakatmị            snjalsja,  stuknulsja i...  uŋnij
+\mb na   ŋịn -E  -Č   ŋịn -DE -kEČ  -mI       snjalsja   stuknulsja i     uŋ        -(dU)LI -J      
+\ps postpos n            v                       v          v          conj  n                         
+\ge on.R dog -ep -ins dog -vr -mult -cond.cvb took.off.R hit.R      and.R something -prol   -prfl.sg
+
+\tx dʒalịpkịrlịj             nan    vytjanul     ee, slomal.
+\mb dʒalịpkịr -(dU)LI -J       ńaːn vytjanul     ee slomal 
+\ps n                          adv  v            interj v      
+\ge laces     -prol   -prfl.sg and  pulled.out.R eh broke.R
+\ft When he was going by dog sled he hit something and the laces of his fur boots (got caught) and he pulled his leg and
+broke it.
+\ph when she 'transcribed' this, Lena pronounced uŋnije, dʒalịpkịrlịje
+\ELANBegin 00:02:10.440
+\ELANEnd 00:02:23.580
+\ELANParticipant NFI
+\ev
+\ru На собаках ездил зацепился за шнурком торбазов (дялипкир).
+
+\id Nikolaj_Fomič_Managič_032
+\tx Nan    tar   dʒoːkerin  ŋịndakačịddʒọːttụ.
+\mb ńaːn tarak dʒoːkerin    ŋịn -DE -kEČ  -E  -D    -WEːČ -(R)U  
+\ps adv  pron  adv          v                                    
+\ge and  dist  two.together dog -vr -mult -ep -prog -gnr  -1pl.ex
+\ft And the two of us went by dog sled together.
+\ph ʥuːkerin ŋịndakajịʥoːttu
+\ELANBegin 00:02:23.580
+\ELANEnd 00:02:27.520
+\ELANParticipant NFI
+\ev
+\ru Вдвоем стали ездить.
+
+\id Nikolaj_Fomič_Managič_033
+\tx V škole učilsja.
+\mb
+\ge
+\ft I went to school.
+\ELANBegin 00:02:27.520
+\ELANEnd 00:02:30.310
+\ELANParticipant NFI
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_034
+\tx Kanịkụladmị             uže      v    Ičču,    vmeste     ezdim,   omettu
+\mb kanikuly   -E  -D    -mI       uže       v    Ičču       vmeste     ezdim    omettu  
+\ps v                              adv       postpos n          adv        v        adv     
+\ge holidays.R -ep -prog -cond.cvb already.R in.R Icha.acc.R together.R go.1pl.R together
+
+\tx ŋịndaddʒọːttụ.
+\mb ŋịn -DE -D    -WEːČ -(R)U  
+\ps v                          
+\ge dog -vr -prog -gnr  -1pl.ex
+\ft When there were holidays I went to Icha, we ride on the dog sled together.
+\ph
+\gr
+\nt There was a settlement called Icha, it's not just the river.
+\ELANBegin 00:02:30.310
+\ELANEnd 00:02:36.820
+\ELANParticipant NFI
+\ev
+\ru Когда каникулы уже в Иччу, вместе ездим.
+
+\id Nikolaj_Fomič_Managič_035
+\tx Ŋịnalk...     ŋịnčarbụn               arịːn ŋeniddʒoːtte.
+\mb ŋịn -E  -lkEn ŋịn -čEn -L  -WUn         aran   ŋen -E  -D    -WEːČ -R(E)  
+\ps n             n                         adv    v                          
+\ge dog -ep -prop dog -dim -pl -poss.1pl.ex barely go  -ep -prog -gnr  -nonfut
+
+\ft Our doggies hardly move.
+\ph arịːn with long high vowel for emphasis
+\gr 09.06.2016: ŋịnčarbun = nashi sobachki, xoroshie, zhalko ix (which is probably also why he emphasized the "barely")
+\nt In the beginning he appears to have wanted to say ŋịnalkan, 'have dogs'
+\ELANBegin 00:02:36.820
+\ELANEnd 00:02:40.940
+\ELANParticipant NFI
+\ev
+\ru Собачки еле идут.
+
+\id Nikolaj_Fomič_Managič_036
+\tx Starye byli.
+\mb
+\ge
+\ft They were old.
+\ELANBegin 00:02:40.940
+\ELANEnd 00:02:48.080
+\ELANParticipant NFI
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_037
+\tx Mọːlawaːttụ          omettutitte.
+\mb mọː  -LE -WEːČ -(R)U   omettu   =tIt
+\ps v                      adv          
+\ge tree -vr -gnr  -1pl.ex together =ptl
+\ft We went to get firewood together.
+\ELANBegin 00:02:48.080
+\ELANEnd 00:02:51.280
+\ELANParticipant NFI
+\ev
+\ru За дровами вместе же ходили.
+
+\id Nikolaj_Fomič_Managič_038
+\tx Ŋịnač      ereger mọːladdʒọːttụ.
+\mb ŋịn -E  -Č   ereger mọː  -LE -D    -WEːČ -(R)U  
+\ps n            adv    v                           
+\ge dog -ep -ins always tree -vr -prog -gnr  -1pl.ex
+\ft We always went to get firewood by dog (sled).
+\ph ịrịγịr mọːlịddʒọːttụ; Note that in the previous sentence, both he and later Lena Cherkanova pronounce mo:lAwa:ttu, while
+in this sentence they both pronounce mo:lIddjo:ttu
+\gr
+\nt
+\qu
+\ELANBegin 00:02:51.280
+\ELANEnd 00:02:55.230
+\ELANParticipant NFI
+\ev
+\ru На собаках все время за дровами ездили.
+
+\id Nikolaj_Fomič_Managič_039
+\tx rustling of clothes on twigs
+\ELANBegin 00:02:55.230
+\ELANEnd 00:02:57.310
+\ELANParticipant comment
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_040
+\tx Dʒụganịdụda     ọllaw     ŋịnal...   rybelkedi                   biddʒoːttu             ereger, dʒoːkerin.
+\mb dʒụganị -DU  =DE  ọlra -W   ŋịn -E  -L  rybalka        -DI          bi -D    -WEːČ -(R)U   ereger dʒoːkerin   
+\ps n                 n         n           n                           v                      adv    adv         
+\ge summer  -dat =ptl fish -acc dog -ep -pl fishing.camp.R -dat.prfl.sg be -prog -gnr  -1pl.ex always two.together
+\ft In summer .... the two of us always live in our fishing camp.
+\ph dʒụγənịddə dʒuːkerin
+\ELANBegin 00:02:57.310
+\ELANEnd 00:03:03.250
+\ELANParticipant NFI
+\ev
+\ru Летом рыбу собаки... на рыбалке всегда вдвоем живем.
+
+\id Nikolaj_Fomič_Managič_041
+\tx Tarak babka         Anna kok...    kartọpịw  ọddakatanmak
+\mb tarak babuška       Anna *ko -G(I) kortopi  -W   ọd   -REk      -E  -tEn      =mEːk 
+\ps pron  n             ?    v         n             v                                  
+\ge dist  grandmother.R Anna *** -vr   potato.R -acc stop -cond.cvb -ep -poss.3pl =restr
+
+\tx emeddʒoːtten                     ọːk ọlla ọːja  ọːdakan,
+\mb em   -E  -D    -WEːČ -R(E)   -n(I) ọːk  ọlra họːja ọː     -REk      -E  -n(I)    
+\ps v                                  pron n    quant v                             
+\ge come -ep -prog -gnr  -nonfut -3sg  when fish many  become -cond.cvb -ep -poss.3sg
+
+\tx plastajdaj                      ọllaw.
+\mb plastaj      -DE       -J       ọlra -W  
+\ps v                               n        
+\ge halve.fish.R -purp.cvb -prfl.sg fish -acc
+
+\ft When they finished the potatoes that granny Anna would come, when the fish became plentiful, to dry fish.
+\ph plastajdɐj
+\gr ọddakatanmak = kogda kartošku zakančivajut, tol'ko togda ona pridet
+\nt Babka Anna was Aːńịka's wife, and she came to the fishing camp to help dry the fish after they had finished working on the
+potato fields of the collective farm. 
+\ELANBegin 00:03:03.250
+\ELANEnd 00:03:18.250
+\ELANParticipant NFI
+\ev
+\ru Эта бабка Анна, когда картошку кончат, когда рыбы много становится, приходит рыбу пластать.
+
+\id Nikolaj_Fomič_Managič_042
+\tx Kalxọz          ŋịnalban                     dʒawačịddʒọːttụ,                  štuk        dvadzat,
+\mb kolxoz            ŋịn -E  -L  -W   -E  -n(I)     dʒaw       -E  -Č   -E  -D    -WEːČ -(R)U   štuk         dvadzat'
+\ps n                 n                              v                                           n            num     
+\ge collective.farm.R dog -ep -pl -acc -ep -poss.3sg catch.hold -ep -res -ep -prog -gnr  -1pl.ex pieces.gen.R twenty.R
+
+\tx da    ešče  munŋide,                  kormili  ix        letom,      uličiddʒoːttu,
+\mb da    ešče    mun        -ŋI        =DE  kormili  ix        letom       uliː -Č   -E  -D    -WEːČ -(R)U  
+\ps ptl   adv     ?                          v        pron      adv         v                                
+\ge yes.R still.R 1pl.ex.obl -pred.poss =ptl fed.pl.R 3pl.gen.R in.summer.R feed -res -ep -prog -gnr  -1pl.ex
+
+\tx letom.
+\mb letom      
+\ps adv        
+\ge in.summer.R
+
+\ft We kept the dogs of the collective farm, 20 head, and also ours, fed them in summer.
+\ELANBegin 00:03:18.250
+\ELANEnd 00:03:29.417
+\ELANParticipant NFI
+\ev
+\ru Колхозных собак держали, штук 20, да еще наши, кормили летом.
+
+\id Nikolaj_Fomič_Managič_043
+\tx children's voices outside yurt
+\ELANBegin 00:03:29.417
+\ELANEnd 00:03:37.139
+\ELANParticipant comment
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_044
+\tx Letom       biddʒoːttem                 rybalkadụ.
+\mb letom       bi -D    -WEːČ -R(E)   -m   rybalka        -DU 
+\ps adv         v                           n                  
+\ge in.summer.R be -prog -gnr  -nonfut -1sg fishing.camp.R -dat
+\ft In summer I used to be at the fishing camp.
+\ELANBegin 00:03:37.139
+\ELANEnd 00:03:40.220
+\ELANParticipant NFI
+\ev
+\ru Летом бываю на рыбалке.
+
+\id Nikolaj_Fomič_Managič_045
+\tx V    eto    vremja uže      omettu   bidʒeːnńoːttu           Akaːńịkaglị.
+\mb v    eto    vremja uže       omettu   bi -dʒEːn -WEːČ -(R)U   Akaːńịka -g(E)lI
+\ps postpos pron   n      adv       adv      v                       n               
+\ge in.R this.R time.R already.R together be -dur   -gnr  -1pl.ex Akanika  -com   
+\ft In this time Akanika and I already used to be together.
+\ELANBegin 00:03:40.220
+\ELANEnd 00:03:46.824
+\ELANParticipant NFI
+\ev
+\ru В это время мы вместе были с Аканикой.
+
+\id Nikolaj_Fomič_Managič_046
+\tx Togda  že   s      produktami keńeli bisin.
+\mb togda  že    s      produktami keńeli bi -RI  -n(I)    
+\ps adv    ptl   postpos n          adj    v                
+\ge then.R ptl.R with.R food.ins.R bad    be -pst -poss.3sg
+
+\ft At that time it was bad with food.
+\ELANBegin 00:03:46.824
+\ELANEnd 00:03:52.622
+\ELANParticipant NFI
+\ev
+\ru Тогда с продуктами плохо было.
+
+\id Nikolaj_Fomič_Managič_047
+\tx A čto emu?
+\mb
+\ge
+\ft
+\ph
+\gr
+\nt This is very unclear, it's not clear whether he meant to say 'čto emu nado' - what does he need (i.e. he doesn't need much),
+or 'čto emu platili' - how much did they pay him (i.e. they hardly paid him anything), and so it's untranslatable as it is
+\ELANBegin 00:03:52.622
+\ELANEnd 00:03:54.533
+\ELANParticipant NFI
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_048
+\tx Nọŋandụn           pensijačaman,                    čto   tam?
+\mb nọŋan -DU  -n(I)     pensija   -čEn -W   -E  -n(I)     čto    tam    
+\ps pron                 n                                 pron   adv    
+\ge 3sg   -dat -poss.3sg pension.R -dim -acc -ep -poss.3sg what.R there.R
+
+\ft He got a small pension, what was it?
+\ph
+\gr 09.06.2016: pensija malenkaja, prosto malenkaja
+\ELANBegin 00:03:54.533
+\ELANEnd 00:03:57.796
+\ELANParticipant NFI
+\ev
+\ru У него пенсия маленькая, что там? (ему пенсию маленькую)
+
+\id Nikolaj_Fomič_Managič_049
+\tx Kak, ja už        ne   pomnju skol'ko, 15 rublej, tamattịtan.
+\mb tam -E  -Č   -RI  -tEn     
+\ps v                          
+\ge pay -ep -res -pst -poss.3pl
+\ft How much, I don't remember, 15 rubles they paid.
+\ELANBegin 00:03:57.796
+\ELANEnd 00:04:03.464
+\ELANParticipant NFI
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_050
+\tx Sọdake         mnogo bylo.
+\mb vsetaki         
+\ps ?               
+\ge all.the.same.(R)
+\ft All the same it was a lot.
+\ph
+\gr
+\nt Lena Čerkanova said that sọdake was an Even word, but Rimma Maksimovna said that it is actually Russian vse-taki
+(which makes sense both from the sound and the meaning).
+\ELANBegin 00:04:03.464
+\ELANEnd 00:04:08.079
+\ELANParticipant NFI
+\ev
+\ru Все равно много было.
+
+\id Nikolaj_Fomič_Managič_051
+\tx Turkutten                     gịrkaŋa.
+\mb turku       -Č   -R(E)   -n(I) gịrka -ŋE      
+\ps v                              v              
+\ge not.be.able -ins -nonfut -3sg  walk  -nmdl.cvb
+\ft He couldn't walk.
+\ELANBegin 00:04:08.079
+\ELANEnd 00:04:10.133
+\ELANParticipant NFI
+\ev
+\ru Не мог ходить.
+
+\id Nikolaj_Fomič_Managič_052
+\tx Dọklan bisin.
+\mb dọklan bi -RI  -n(I)    
+\ps adj    v                
+\ge lame   be -pst -poss.3sg
+\ft He was lame.
+\ELANBegin 00:04:10.133
+\ELANEnd 00:04:11.927
+\ELANParticipant EGA
+\ev
+\ru Хромой был.
+
+\id Nikolaj_Fomič_Managič_053
+\tx Dọk... on ne mog xodit', na kostyljax.
+\mb
+\ge
+\ft Lame... he couldn't walk, (only) on crutches.
+\ELANBegin 00:04:11.927
+\ELANEnd 00:04:19.610
+\ELANParticipant NFI
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_054
+\tx Prọdụktaŋan           manụwaːttan,                    a     ja..  u    nas  šljupka   na
+\mb produkty -ŋ   -E  -n(I)     man    -W     -WEːČ -R(E)   -n(I) a.R   ja    u    nas  šljupka    na  
+\ps n                           v                                 ?     pron  postpos pron n          postpos
+\ge food.R   -aln -ep -poss.3sg finish -advrs -gnr  -nonfut -3sg  but.R 1sg.R at.R us.R lifeboat.R on.R
+
+\tx baze       uniriten           šljupku,      nu     vot.
+\mb baze       uni -RI  -tEn      šljupku        nu     vot   
+\ps n          v                  n              ptl    ptl   
+\ge base.loc.R buy -pst -poss.3pl lifeboat.acc.R well.R here.R
+\ft His food would run out and I ... we had a boat, bought a boat at the base.
+\ph
+\gr
+\nt The baza was a trading complex, where there was a shop, some storehouses
+\ELANBegin 00:04:19.610
+\ELANEnd 00:04:28.398
+\ELANParticipant NFI
+\ev
+\ru Продукты заканчиваются, шлюпка на базе, купили шлюпку, ну вот.
+
+\id Nikolaj_Fomič_Managič_055
+\tx Rečku pereezžal,
+\mb
+\ge
+\ft I crossed the river
+\ELANBegin 00:04:28.398
+\ELANEnd 00:04:30.322
+\ELANParticipant NFI
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_056
+\tx vot    po   bugru,     tog...   Twajaːn uŋnin                      bugorlin,
+\mb vot    po   bugru      teg      Twajaːn uŋ        -(dU)LI -n(I)     bugor  -(dU)LI -n(I)    
+\ps ptl    postpos n          v        ?       n                           n                       
+\ge here.R on.R hill.dat.R sit.down Twajaːn something -prol   -poss.3sg hill.R -prol   -poss.3sg
+
+\tx orroː[ttem]
+\mb hor -WEːČ -R(E)   -(R)U  
+\ps v                        
+\ge go  -gnr  -nonfut -1pl.ex
+\ft Over the hill, I went to Twajan over the hill.
+\ELANBegin 00:04:30.322
+\ELANEnd 00:04:35.899
+\ELANParticipant NFI
+\ev
+\ru Вот по бугру в Тваян (шел).
+
+\id Nikolaj_Fomič_Managič_057
+\tx Prọdụktaw gadʒịwaːttam.
+\mb produkty -W   gadʒị -WEːČ -R(E)   -m  
+\ps n             v                       
+\ge food.R   -acc fetch -gnr  -nonfut -1sg
+
+\ft I went to get food.
+\ELANBegin 00:04:35.899
+\ELANEnd 00:04:41.944
+\ELANParticipant NFI
+\ev
+\ru Я ехал за продуктами.
+
+\id Nikolaj_Fomič_Managič_058
+\tx Tam     nemnožko ewisčiddʒoːttem                      tadụ,    kụŋalnun,      nan    večerom
+\mb tam     nemnožko ewiː -sčI   -D    -WEːČ -R(E)   -m   tarak -DU  kụŋa  -L  -ńUn ńaːn večerom         
+\ps adv     adv      v                                    pron       n              adv  adv             
+\ge there.R a.bit.R  play -conat -prog -gnr  -nonfut -1sg dist  -dat child -pl -com and  in.the.evening.R
+
+\tx uže,     v    eto    vremja uže,     amaskị         oridʒeːnńoːttem,
+\mb uže       v    eto    vremja uže       amar   -skI      hor -E  -dʒEːn -WEːČ -R(E)   -m  
+\ps adv       postpos pron   n      adv       ?                v                                
+\ge already.R in.R this.R time.R already.R behind -advb.all go  -ep -dur   -gnr  -nonfut -1sg
+
+\ft There I play a bit with the children, and in the evening, at this time (the recording took place around 6h00 o'clock in the
+evening) I go back.
+\ph ʊriʥeːnńoːttəm
+\ELANBegin 00:04:41.944
+\ELANEnd 00:04:52.240
+\ELANParticipant NFI
+\ev
+\ru Там немножко поиграю с детьми, и вечеро уже, в это уже, назад возвращаюсь.
+
+\id Nikolaj_Fomič_Managič_059
+\tx Alačịddʒọːttanasị.
+\mb alat -E  -D    -WEːČ -R(E)   -n(I) -E  =sI  
+\ps v                                           
+\ge wait -ep -prog -gnr  -nonfut -3sg  -ep =emph
+\ft (The old man) is already waiting.
+\ELANBegin 00:04:52.240
+\ELANEnd 00:04:57.102
+\ELANParticipant NFI
+\ev
+\ru Уже ждет (старик).
+
+\id Nikolaj_Fomič_Managič_060
+\tx children's voices
+\ELANBegin 00:04:57.102
+\ELANEnd 00:05:00.456
+\ELANParticipant comment
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_061
+\tx  sentjabrelegel                ụkal  škọlatkị    nanda.
+\mb sentjabre       -(dU)LE =gEl   ụkal    škola    -t(E)kI ńaːn =DE 
+\ps n                              adv     n                adv      
+\ge September.loc.R -loc    =coord already school.R -all    and  =ptl
+\ft And in September back to school again.
+\ELANBegin 00:05:00.456
+\ELANEnd 00:05:04.382
+\ELANParticipant NFI
+\ev
+\ru В сентябре уже опять в школу.
+
+\id Nikolaj_Fomič_Managič_062
+\tx horse whinnies
+\ELANBegin 00:05:04.382
+\ELANEnd 00:05:05.942
+\ELANParticipant comment
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_063
+\tx Kak... tarakambedʒi         omente         voskresenja bi[sin]           subbotu...
+\mb kak   tarakam       =bEdʒI omen =t(E)    voskresenja bi -RI  -n(I)     subbotu       
+\ps pron  adv                  num           n           v                 n             
+\ge how.R in.those.days =emph  one  =utočnit Sunday.R    be -pst -poss.3sg Saturday.acc.R
+\ft In those days only Sunday was free, on Saturdays...
+\ELANBegin 00:05:05.942
+\ELANEnd 00:05:10.882
+\ELANParticipant NFI
+\ev
+\ru Выходной тогда только воскресенье был, (учились) в субботу.
+
+\id Nikolaj_Fomič_Managič_064
+\tx Aːdụnda     ńọːwaːttam               rybelketki.
+\mb haːdụn    =DE  ńọːn     -WEːČ -R(E)   -m   rybalka        -t(E)kI
+\ps adv            v                           n                     
+\ge sometimes =ptl run.away -gnr  -nonfut -1sg fishing.camp.R -all   
+\ft Sometimes I ran off to the fishing camp.
+\ELANBegin 00:05:10.882
+\ELANEnd 00:05:14.769
+\ELANParticipant NFI
+\ev
+\ru Иногда убегал на рыбалку.
+
+\id Nikolaj_Fomič_Managič_065
+\tx Tarak Akaːńịka goːweːtten:
+\mb tarak Akaːńịka goːn -WEːČ -R(E)   -n(I)
+\ps pron  ?        v                       
+\ge dist  Akanika  say  -gnr  -nonfut -3sg 
+\ft That Akanika says:
+\ELANBegin 00:05:14.769
+\ELANEnd 00:05:17.278
+\ELANParticipant NFI
+\ev
+\ru Тот Аканика говорит:
+
+\id Nikolaj_Fomič_Managič_066
+\tx Končil učit'sja?
+\mb
+\ge
+\ft Did you finish studying?
+\ELANBegin 00:05:17.278
+\ELANEnd 00:05:18.851
+\ELANParticipant NFI
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_067
+\tx Iŋe, ọddịwu,         a     ja    ubežal,   ubegal,    ńọːwaːttam.
+\mb iŋe ọd   -RI  -W        a.R   ja    ubežal     ubegal     ńọːn     -WEːČ -R(E)   -m  
+\ps interj v                   ?     pron  v          v          v                          
+\ge yes stop -pst -poss.1sg but.R 1sg.R ran.away.R ran.away.R run.away -gnr  -nonfut -1sg
+\ft Yes, I finished, but I ran away.
+\ELANBegin 00:05:18.851
+\ELANEnd 00:05:25.676
+\ELANParticipant NFI
+\ev
+\ru Ага, закончил, а я убегал.
+
+\id Nikolaj_Fomič_Managič_068
+\tx Tak.
+\mb tak 
+\ps interj
+\ge so.R
+
+\ELANBegin 00:05:25.676
+\ELANEnd 00:05:27.886
+\ELANParticipant NFI
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_069
+\tx Ja    u    ...  nọŋardụtan             biddiwu                 že
+\mb ja    u    *... nọŋan -L  -DU  -tEn      bi -D    -RI  -W        že   
+\ps pron  postpos ?    pron                     v                       ptl  
+\ge 1sg.R at.R ***  3sg   -pl -dat -poss.3pl be -prog -pst -poss.1sg ptl.R
+
+\ft I stayed with them.
+\ELANBegin 00:05:27.886
+\ELANEnd 00:05:31.929
+\ELANParticipant NFI
+\ev
+\ru Я у них бывал.
+
+\id Nikolaj_Fomič_Managič_070
+\tx Patọm, nan    internatteki.
+\mb potom  ńaːn internat          -t(E)kI
+\ps adv    adv  n                        
+\ge then.R and  boarding.school.R -all   
+\ft And then to boarding school.
+\ELANBegin 00:05:31.929
+\ELANEnd 00:05:35.439
+\ELANParticipant NFI
+\ev
+\ru Потом в интернат.
+
+\id Nikolaj_Fomič_Managič_071
+\tx [Stammers] na   pjatyj  klas    orroːttu                   uŋič,            mụral...  mụranịč,
+\mb stammers na   pjatyj  klas    hor -WEːČ -R(E)   -(R)U   uŋ        -E  -Č   mụran -L  mụran -E  -Č  
+\ps interj   postpos adj     n       v                         n                  n         n             
+\ge stammers on.R fifth.R grade.R go  -gnr  -nonfut -1pl.ex something -ep -ins horse -pl horse -ep -ins
+
+\tx bọlọnịdụ.
+\mb bọlọnị      -DU 
+\ps n               
+\ge late.autumn -dat
+
+\ft To the fifth grade we went by this... by horse, in autumn.
+\ELANBegin 00:05:35.439
+\ELANEnd 00:05:47.302
+\ELANParticipant NFI
+\ev
+\ru В пятый клас уезжали на этом, на лошадях осенью.
+
+\id Nikolaj_Fomič_Managič_072
+\tx Negni       gadʒịwaːtta          munu,           ijunne,        v    eto    vremja, iŋe, Twajaːn,
+\mb negni       gadʒị -WEːČ -R(E)   mun        -W   ijun'  -(dU)LE v    eto    vremja iŋe Twajaːn
+\ps n           v                   n               n              postpos pron   n      interj ?      
+\ge late.spring fetch -gnr  -nonfut 1pl.ex.obl -acc June.R -loc    in.R this.R time.R yes Twajaːn
+
+\tx Twajaːntakị.
+\mb Twajaːn -t(E)kI
+\ps n              
+\ge Twajaːn -all   
+\ft In spring they came to fetch us to Twajan, in June, at this time (the recording was done in mid-June).
+\ELANBegin 00:05:47.302
+\ELANEnd 00:05:58.722
+\ELANParticipant NFI
+\ev
+\ru Весной за нами приезжали, в июне, в это время, да, в Тваян.
+
+\id Nikolaj_Fomič_Managič_073
+\tx children's voices
+\ELANBegin 00:05:58.722
+\ELANEnd 00:06:01.348
+\ELANParticipant comment
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_074
+\tx Taŋnadakụn                       nanda       mụranịč,   ọːjeː      ečin.
+\mb taŋ  -nE     -DE       -WUn         ńaːn =DE  mụran -E  -Č   họːja =eː   erroːčin 
+\ps v                                   adv       n              quant       pron     
+\ge read -intent -purp.cvb -poss.1pl.ex and  =ptl horse -ep -ins many  =emph prox.qual
+
+\ft And in order for us to go to school again by horse, there were so many.
+\ph
+\gr (trans. file Nikolaj_Fomich_quest, 41:30): taŋnadakụn = čtoby my poexali učit'sja, kogda my edem učit'sja = taŋnarakụn,
+kogda ja idu v magazin = unijereku, magazintaki gịrkarakụ, čtoby ja pošla v magazin = gịrkadakụ; kogda ja znaju =
+aːrakụ, čtoby ja znala = bi aːdakụ
+\ELANBegin 00:06:01.348
+\ELANEnd 00:06:05.781
+\ELANParticipant NFI
+\ev
+\ru В школу опять на конях, их много так.
+
+\id Nikolaj_Fomič_Managič_075
+\tx Mụranịč,   prustoj  lašadjax.
+\mb mụran -E  -Č   prosto   lošadjax    
+\ps n              adv      n           
+\ge horse -ep -ins simply.R horses.loc.R
+\ft Simply by horse.
+\ELANBegin 00:06:05.781
+\ELANEnd 00:06:09.291
+\ELANParticipant NFI
+\ev
+\ru Просто на лошадях.
+
+\id Nikolaj_Fomič_Managič_076
+\tx Takie, takie, zdorovye tak..., ostalnye tak... eto peškom šli
+\mb
+\ge
+\ft There were such and such, .... healthy (big children) went on foot.
+\ELANBegin 00:06:09.291
+\ELANEnd 00:06:16.415
+\ELANParticipant NFI
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_077
+\tx Stammers ọkaːtụtkan        dawra               nan    tara.
+\mb stammers ọkaːt -W   =t(E)kEn daw         -R(E)   ńaːn tarak
+\ps interj   n                   v                   adv  pron 
+\ge stammers river -acc =restr   cross.river -nonfut and  dist 
+
+\ft Only the rivers they crossed (one after the other, on horseback).
+\ph dawụra
+\gr
+\nt While only the small and weaker children did the whole trip on horseback, with older chidren walking (since there were
+not enough horses for every child to ride), deep rivers were crossed on horseback only, with someone leading the horses
+over the river with one part of the kids, then going back to fetch the rest, also on horseback; then they continued on foot
+again (cf. next sentence)
+\ELANBegin 00:06:16.415
+\ELANEnd 00:06:19.509
+\ELANParticipant NFI
+\ev
+\ru Речку только (по-очереди) переходят (если глубокие), и все.
+
+\id Nikolaj_Fomič_Managič_078
+\tx Patọm my... nan    bu     nan    peškom   gịrkawaːčịdʒịllọːttụ.
+\mb potom  my    ńaːn buː    ńaːn peškom    gịrka -WEːČ -E  -D    -E  -L    -WEːČ -(R)U  
+\ps adv    adj   adv  pron   adv  adv       v                                            
+\ge then.R 1pl.R and  1pl.ex and  on.foot.R walk  -gnr  -ep -prog -ep -inch -gnr  -1pl.ex
+
+\ft And then we went further on foot.
+\ph
+\gr gịrkawaːčịdʒịllọːttụ - vse dalše peškom idem
+\ELANBegin 00:06:19.509
+\ELANEnd 00:06:25.567
+\ELANParticipant NFI
+\ev
+\ru Потом мы пешком шли.
+
+\id Nikolaj_Fomič_Managič_079
+\tx voices in background
+\ELANBegin 00:06:25.567
+\ELANEnd 00:06:35.772
+\ELANParticipant comment
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_080
+\tx Nan    armịjatkị    posle   školetki        nan    sperva     dagrịttakan     pastụxsnịwụ,
+\mb ńaːn armija.R -t(E)kI posle   škola    -t(E)kI ńaːn sperva     dagrịt =t(E)kEn pastux   -s(E)n -RI  -W       
+\ps adv  n                postpos n                adv  adv        adv             v                             
+\ge and  army.R   -all    after.R school.R -all    and  at.first.R simply =restr   herder.R -lim   -pst -poss.1sg
+
+\tx vtorojildu           ŋiː... u    etix,       u    Venedikta      Čerkanova      poltora        goda.
+\mb vtoroj   -E  -L  -DU  ŋiː u    etix        u    Venedikta      Čerkanova       poltora        goda      
+\ps adj                   pron postpos pron        postpos n              n               num            n         
+\ge second.R -ep -pl -dat who at.R these.gen.R at.R Benedikt.gen.R Cherkanov.gen.R one.and.half.R year.gen.R
+\ft And then to the army after school, and at first I herded a bit in the second (brigade), under Benedikt Cherkanov, 1.5
+years.
+\ELANBegin 00:06:35.772
+\ELANEnd 00:06:53.907
+\ELANParticipant NFI
+\ev
+\ru В армию после школы, потом немножко попастушил во втором звене
+
+\id Nikolaj_Fomič_Managič_081
+\tx V armiju zabrali, tam tri goda proslužil.
+\mb
+\ge
+\ft They took me to the army, I served there three years.
+\ELANBegin 00:06:53.907
+\ELANEnd 00:06:59.991
+\ELANParticipant NFI
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_082
+\tx voices in background
+\ELANBegin 00:06:59.991
+\ELANEnd 00:07:01.980
+\ELANParticipant comment
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_083
+\tx Patọm oxotnikom stal.
+\mb
+\ge
+\ft Then I became a hunter.
+\ELANBegin 00:07:01.980
+\ELANEnd 00:07:05.100
+\ELANParticipant NFI
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_084
+\tx A s pervogo... u Prončeva pas...
+\mb
+\ge
+\ft And at first I herded with Pronchev...
+\ELANBegin 00:07:05.100
+\ELANEnd 00:07:09.234
+\ELANParticipant NFI
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_085
+\tx Children coming into yurt
+\ELANBegin 00:07:09.234
+\ELANEnd 00:07:11.535
+\ELANParticipant comment
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_086
+\tx Admonishments to children
+\ELANBegin 00:07:11.535
+\ELANEnd 00:07:16.228
+\ELANParticipant comment
+\ev
+\ru
+
+\id Nikolaj_Fomič_Managič_087
+\tx admonishment
+\ELANBegin 00:07:16.228
+\ELANEnd 00:07:17.736
+\ELANParticipant comment
+\ev
+\ru

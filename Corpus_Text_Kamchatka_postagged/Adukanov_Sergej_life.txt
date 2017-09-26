@@ -1,0 +1,2007 @@
+\_sh v3.0  1153 Text
+
+\id Adukanov_Sergej_life_000_metadata
+\ref Recorded on 13 July 2009 in Esso by Brigitte Pakendorf. The recording was done on Monday morning in the men's changing room in the
+'ballet room' of the 'House of Culture' in Esso, which is on the top floor. It was fairly quiet, but the accoustics (high ceiling, stone walls, empty
+room) left to be desired. Only SPA and BP were present; in the beginning SPA nervously rubbed his feet together, which made a squeaky
+sound. 
+\qu Transcription and Russian translation in Word by Rimma Maksimovna Egorova, time-aligned in ELAN by Luise Zippel. Glossed by BP. Funding by the
+Volkswagen Foundation (DoBeS grant). Speaker abbreviation = SPA.
+\ref Sergej Petrovich Adukanov was born in 1958, i.e. he was 51 at the time of recording. He grew up in northern Kamchatka, so that he is fluent
+in both Koryak and Even; he then studied in Yakutsk, where he acquired a knowledge of Yakut. He worked first as a vet in the reindeer
+herds, then as a scientific assistant in the ethnographic museum in Esso, and is now working as the choir master of the folklore ensemble
+Nulgur (where he also sings and dances).
+
+\id Adukanov_Sergej_life_001
+\ref
+\tx Segodnja 13 ijulja 2009 god, Adukanov Sergej Petrovič ọrọttịč teleːŋdʒin, bimi dʒugulin, ńịmkam, ịaw? ịawgụl teːleŋdʒin.
+\mb
+\ft Today is the 13th of July, 2009, and Sergej Petrovich Adukanov will tell in Even about his life, a fairy-tale, will tell about something.
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:20.945
+\ELANParticipant BP
+\ru Сегодня 13 июля 2009 год, Адуканов Сергей Петрович   по-эвенски  расскажет жизнь свою, сказку, что-то расскажет.
+\comment
+\ev Сегодня 13 июля 2009 год, Адуканов Сергей Петрович.. ороттич  тэлэӈдин, бими дюгуллин, нимкам, яв? явгул тэлэӈдин.
+
+\id Adukanov_Sergej_life_002
+\ref
+\tx Biː Čede  Ịadụkan bakalbarịwụ                        Laučandụla,  tadụk       ńan   orriwun
+\mb biː Sergej Adukanov bak  -E  -L    -B   -E  -RI  -W        Laučan  -(dU)LE tarak -DUk(U) ńaːn hor -RI  -WUn        
+\ps pron ?      ?        v                                      n               pron          adv  v                    
+\ge 1sg Sergej Adukanov find -ep -inch -med -ep -pst -poss.1sg Lauchan -loc    dist  -abl    and  go  -pst -poss.1pl.ex
+
+\tx tege     torteki.
+\mb tege     tor   -t(E)kI
+\ps rel.n    n            
+\ge distance earth -all   
+
+\ft I, Sergej Adukanov, was born in Lauchan, from there we left for a far-away place.
+\ph urriwun
+\gr 29.01.13 (quest_Adukanov1, beginning): bakaldarịwụ can also say, and can say bakɘlbɘrịwụ = nashelsja, rodilsja from baktaj; 30.01.13
+(questions4, 5:10) I checked and it is the medio-passive of the inchoative, one could say "bakalbarịn" if one had lost a key, for example, and
+not it's found, nashelsja
+\ELANBegin 00:00:20.918
+\ELANEnd 00:00:35.900
+\ELANParticipant AS
+\ru Я Сергей Адуканов родился в Лаучане, оттуда потом уехали на далекую  землю.
+\comment
+\ev Би Чега  Ядукан (Сергей Адуканов?) бакалдариву Лавучандула, тадук нян  урривун тэгэ тортэки.
+
+\id Adukanov_Sergej_life_003
+\ref
+\tx Ọːnịsị   mut    dʒụːlbụn            ńipkeriten.
+\mb ọːn -E  =sI   mut    dʒụː  -L  -WUn         nipke -RI  -tEn     
+\ps pron          pron   n                      v                   
+\ge how -ep =emph 1pl.in house -pl -poss.1pl.ex close -pst -poss.3pl
+
+\ft Because our houses were closed (lit: they closed our houses).
+\ph
+\gr 29.01.13 (quest_Adukanov_Sergey_1, 2:45) ọːnịsị = common for "because", potomu kak; (3:50) ńipkeriten = trans, they closed down;
+dʒụːlbụn nipkeriten = oni zakryli nashi doma; dʒụːwụ nipkeriten = zakryli moj dom; nipkurin = zakrylsja; dverj nipkurin = zakrylasj; mut
+dʒụːlbụn nipkuriten = (our houses) zakrylisj sami po sebe
+\gr 30.01.13 (questions4, 5:45) oni vidjat nashi doma = nọŋartan itte mut dʒụːlbụt (at first said "mut dʒụːwụt", i.e. our house); nashi doma -
+krasivye = mut dʒụːltị nọːdịl;;; checked on 06.02.13 (questions14, 26:15) dʒụːlbụn nipkeriten = zakryli nashi doma, itte mut dʒụːlbụt = vidjat
+nashi doma, shouldn't it be mut dʒụːlbụt nipkeriten? --> yes, mut dʒụːlbụn 'nashi doma', mut dʒụːlbụt, tozhe govorjat; it's better to say mut
+dʒụːlbụt nipkeriten, or mun dʒụːlbụn nipkeriten, and his way of mixing muT dʒụːlbụN displeased her
+\nt 
+
+\ELANBegin 00:00:35.900
+\ELANEnd 00:00:42.600
+\ELANParticipant AS
+\ru Потому что наши дома закрыли.
+\comment
+\ev Оныси мут дюлбун нипкыритын.
+
+\id Adukanov_Sergej_life_004
+\ref
+\tx Ibdiriw     Krapivnajtakị    orukeniten,              Bystrojtakị,  a     buːde      orriwun               ịkụtịč
+\mb ibdiri -W   Krapivnaj  -t(E)kI hor -WkEn -RI  -tEn      Bystroj -t(E)kI a.R   buː    =DE  hor -RI  -WUn         ịkụt     -E  -Č  
+\ps n           n                  v                        n               ?     pron        v                     adv              
+\ge people -acc Krapivnaja -all    go  -caus -pst -poss.3pl Bystroe -all    but.R 1pl.ex =ptl go  -pst -poss.1pl.ex straight -ep -ins
+
+\tx ŋịnaldụ       tegriwun                   i     orriwun               severteki.
+\mb ŋịn -E  -L  -DU  teg      -RI  -WUn         i     hor -RI  -WUn         sever   -t(E)kI
+\ps n                v                          conj  v                     n              
+\ge dog -ep -pl -dat sit.down -pst -poss.1pl.ex and.R go  -pst -poss.1pl.ex north.R -all   
+
+\ft They sent people to Krapivnaja, to Bystroe, but we left right away, we sat on our dogs (dog sleds) and went north.
+\ph ibdʒiriw, urukeniten, urriwun
+\gr
+\ELANBegin 00:00:42.600
+\ELANEnd 00:01:02.240
+\ELANParticipant AS
+\ru Людей на Крапивную Отправили, на Быструю, а мы ...тэ...уехали прямо  на собак сели и уехали на север.
+\comment
+\ev Ибдирив Крапивныйтыки урукэнитэн, Быстройтыки, а бу...тэ... урривун  икутыч ӈинылду тэривун и урривун севертыки.
+
+\id Adukanov_Sergej_life_005
+\ref
+\tx Tadụ     biː upkučiddiwu.
+\mb tarak -DU  biː hupkut -E  -D    -RI  -W       
+\ps pron       pron v                              
+\ge dist  -dat 1sg learn  -ep -prog -pst -poss.1sg
+\ft There I went to school.
+\ELANBegin 00:01:02.240
+\ELANEnd 00:01:05.160
+\ELANParticipant AS
+\ru Там я учился.
+\comment
+\ev Таду би упкучиддиву.
+
+\id Adukanov_Sergej_life_006
+\ref
+\tx Ńan   tadụk       nọka  tortekin                orriwu            upkučidnedeji                              kọrọwa
+\mb ńaːn tarak -DUk(U) ńọka  tor   -t(E)kI -n(I)     hor -RI  -W        hupkut -E  -D    -nE     -DE       -J       korova
+\ps adv  pron          n     n                       v                  v                                           n     
+\ge and  dist  -abl    Sakha earth -all    -poss.3sg go  -pst -poss.1sg learn  -ep -prog -intent -purp.cvb -prfl.sg cow.R 
+
+\tx dọktọrdụn.
+\mb doktor.R -DU  -n(I)    
+\ps n                      
+\ge doctor.R -dat -poss.3sg
+
+\ft And from there I went to Yakutia to study veterinary medicine (cow doctor).
+\ph urriwu; doktordun - very unclear, doesn't sound like this at all
+\gr
+\ELANBegin 00:01:05.180
+\ELANEnd 00:01:17.100
+\ELANParticipant AS
+\ru И оттуда на Якутскую землю уехал учиться на коровьего доктора.
+\comment
+\ev Нян тадук нока туртэкин урриву упкучиднэдэи корова доктортыкин.
+
+\id Adukanov_Sergej_life_007
+\ref
+\tx Biː tadụ     upkučidmi          ikeːnelliwu.
+\mb biː tarak -DU  hupkut -E  -D    -mI ikeː -n    -E  -L    -RI  -W       
+\ps pron pron       v                    v                                  
+\ge 1sg dist  -dat learn  -ep -prog -vr sing -mult -ep -inch -pst -poss.1sg
+\ft There, while studying, I started to sing.
+\ELANBegin 00:01:17.100
+\ELANEnd 00:01:22.640
+\ELANParticipant AS
+\ru Я там, учась, запел.
+\comment
+\ev Би таду упкучидми икэнылливу.
+
+\id Adukanov_Sergej_life_008
+\ref
+\tx Iwiddiwu                   biče      ansambl.
+\mb ewiː -D    -RI  -W        bi -čE     ansambl'  
+\ps v                         v          n         
+\ge play -prog -pst -poss.1sg be -pf.ptc ensemble.R
+
+\ft I played in a group/band that existed then.
+\ph to me it sounds as if there is something after ansambl, like ansambltan, but in January 2013 RME said that it is just ansambl
+\gr 29.01.13 (quest_Adukanov_Sergey_1, 7:15) biče ansambldula = OK, but biče ansambl = also OK, can be used like this
+\ELANBegin 00:01:22.640
+\ELANEnd 00:01:28.640
+\ELANParticipant AS
+\ru Играл в бывшем в то время ансамбле же.
+\comment
+\ev Ивиддыву биче ансамблькэ.
+
+\id Adukanov_Sergej_life_009
+\ref
+\tx Tarịč   ọːjeː      gịrkarịwụn.
+\mb tarak -Č   họːja =eː   gịrka -RI  -WUn        
+\ps pron       quant       v                      
+\ge dist  -ins many  =emph walk  -pst -poss.1pl.ex
+\ft With that we travelled a lot.
+\ELANBegin 00:01:28.640
+\ELANEnd 00:01:33.460
+\ELANParticipant AS
+\ru Этим много ходили (участвовали, посещали).
+\comment
+\ev Тарич оя гиркэривун.
+
+\id Adukanov_Sergej_life_010
+\ref
+\tx Gịrkarịwụn          nọka  tordulin.
+\mb gịrka -RI  -WUn         ńọka  tor   -(dU)LI -n(I)    
+\ps v                       n     n                      
+\ge walk  -pst -poss.1pl.ex Sakha earth -prol   -poss.3sg
+\ft We travelled around Yakutia.
+\ELANBegin 00:01:33.460
+\ELANEnd 00:01:39.820
+\ELANParticipant AS
+\ru Ходили по Якутской земле.
+\comment
+\ev Гиркэривун нока турдулин.
+
+\id Adukanov_Sergej_life_011
+\ref
+\tx Mašinatta        olloːttiwun             atkịkam,     ineŋu      čuptere     olloːttiwun.
+\mb mašina -Č   =DE  hollot -RI  -WUn         atkịkan -W   ineŋi -W   čoptere      hollot -RI  -WUn        
+\ps n                v                        n            n          adv          v                       
+\ge car.R  -ins =ptl go     -pst -poss.1pl.ex moon    -acc day   -acc all.the.time go     -pst -poss.1pl.ex
+
+\ft We went by car for a month, we drove entire days.
+\ph
+\gr 29.01.13 (quest_Adukanov_Sergey_1, 8:45): ineŋu čuptere = tselyj denj; atkịkam olloːttiwun = tselyj mesjac ezdili; ineŋu čuptere = tselymi
+dnjami; iz Moskvy do Novosibirska nado exatj v poezde tselyj mesjac = čelew mesjacu OR atkịkam olloːttiwun (ezdim mesjac v poezde);
+tuttoːttin dọlbanụ čuptere = vsju nochj begal; 
+\ELANBegin 00:01:39.820
+\ELANEnd 00:01:47.360
+\ELANParticipant AS
+\ru И на машине ездили месяц, целыми днями ездили.
+\comment
+\ev Машиначта оллоттивун аткикам, иныӈу чуптырэ оллоттивун.
+
+\id Adukanov_Sergej_life_012
+\ref
+\tx Tala          biː upkuriwu              nọka, nọka, nọka  tordulin                nọŋan inŋewen.
+\mb tarak -(dU)LE biː hupkut -RI  -W        ńọka  ńọka  ńọka  tor   -(dU)LI -n(I)     nọŋan inŋe   -W   -E  -n(I)    
+\ps pron          pron v                     n     n     n     n                       pron  n                        
+\ge dist  -loc    1sg learn  -pst -poss.1sg Sakha Sakha Sakha earth -prol   -poss.3sg 3sg   tongue -acc -ep -poss.3sg
+
+\ft In Yakutia I learnt the Yakut language.
+\ph
+\nt inŋe for 'language' as used here appears to be a calque from Russian or Sakha, where 'language' and 'tongue' are the same items; in Even,
+'language' is tore, identical to 'word'
+\ELANBegin 00:01:47.360
+\ELANEnd 00:01:58.080
+\ELANParticipant AS
+\ru Это я научился на якутской, якутской земле её язык.
+\comment
+\ev Тарав би упкуриву нока, нока тордулин ноӈын иннӈывэн.
+
+\id Adukanov_Sergej_life_012b
+\ref
+\tx tadụk
+\mb tarak -DUk(U)
+\ps pron         
+\ge dist  -abl   
+\ft then...
+\ph
+\ELANBegin 00:01:58.080
+\ELANEnd 00:02:02.580
+\ELANParticipant AS
+\ru
+\ev тадук
+
+\id Adukanov_Sergej_life_013
+\ref
+\tx Etikerbude             tala  ittidʒi     ereger ulgimiddʒoːttem:                  "Erek ịakawụ?  Ịadụ   tarak?
+\mb etikeːn -L  -W   =DE  talal it  -RIdʒI   ereger ulgim -E  -D    -WEːČ -R(E)   -m   erek ịak  -awụ  ịak  -DU  tarak
+\ps n                     v     v            adv    v                                  pron pron       pron      pron 
+\ge old.man -pl -acc =ptl shine see -ant.cvb always ask   -ep -prog -gnr  -nonfut -1sg prox what -emph what -dat dist 
+
+\tx Ọːn gerben?"
+\mb ọːn gerbe -n(I)    
+\ps pron n              
+\ge how name  -poss.3sg
+
+\ft When I saw old men there I would always ask: "What's this? What is that for? What is it called?"
+\ELANBegin 00:02:02.580
+\ELANEnd 00:02:12.480
+\ELANParticipant AS
+\ru и стариков там увидев всегда спрашивал: "Это что? Зачем это? Как  называется?"
+\comment
+\ev этикэрбыдэ тала иттиди эрыыр ульгимиддёттым: "эрэк якаву?  Яду тарак? он гырбын?"
+
+\id Adukanov_Sergej_life_014
+\ref
+\tx Ikeːnelliwude                            tala          ajịč.
+\mb ikeː -n    -E  -L    -RI  -W        =DE  tarak -(dU)LE aj   -E  -Č  
+\ps v                                        pron          adj          
+\ge sing -mult -ep -inch -pst -poss.1sg =ptl dist  -loc    good -ep -res
+
+\ft And I started to sing well there.
+\ELANBegin 00:02:12.480
+\ELANEnd 00:02:16.100
+\ELANParticipant AS
+\ru И петь стал там хорошо.
+\comment
+\ev Икэнелливуда тала аич.
+
+\id Adukanov_Sergej_life_015
+\ref
+\tx Ikeːnel         belliten            minu         ajịč      ụnụdakụ                  inŋewuten.
+\mb ikeː -n  -E  -L  bel  -RI  -tEn      min     -W   aj   -E  -Č   ụnụ        -DE       -W        inŋe   -W   -tEn     
+\ps v                v                   pron         adj           v                              n                    
+\ge sing -nr -ep -pl help -pst -poss.3pl 1sg.obl -acc good -ep -ins understand -purp.cvb -poss.1sg tongue -acc -poss.3pl
+\ft Singers helped we to understand their language well.
+\ph
+\gr 29.01.13 (quest_Adukanov_Sergey_1, 12:30) ikeːnel = xoroshie pevtsy, ikeːn = chelovek kotoryj xorosho umeet petj; pesnja = ikeː; belliten
+minu = pomogli mne, pravilno, and word order is OK, minu belliten = belliten minu
+\ELANBegin 00:02:16.100
+\ELANEnd 00:02:27.300
+\ELANParticipant AS
+\ru Певцы хорошие помогли мне хорошо понимать их язык.
+\comment
+\ev Икэныл бэллитын мину аич унудақу иннӈывытын.
+
+\id Adukanov_Sergej_life_017
+\ref
+\tx Ọddịdʒị emniwu              Kamčatkatkị,   ńan   Ačajwajamtakị   urukeniten.
+\mb ọd   -RIdʒI   em   -RI  -W        Kamčatka  -t(E)kI ńaːn Ačajwajam  -t(E)kI hor -WkEn -RI  -tEn     
+\ps v             v                   n                 adv  n                  v                       
+\ge stop -ant.cvb come -pst -poss.1sg Kamchatka -all    and  Achajwajam -all    go  -caus -pst -poss.3pl
+\ft When I was finished I came to Kamchatka, and they sent me to Achajwajam.
+\ph urukæniten
+\ELANBegin 00:02:27.300
+\ELANEnd 00:02:34.000
+\ELANParticipant AS
+\ru Закончив, приехал на Камчатку, и в Ачайваям отправили.
+\comment
+\ev Оддиди эмниву Камчаткатки, нян Ачяйваямтыки урувкэнитэн.
+
+\id Adukanov_Sergej_life_018
+\ref
+\tx Tadụ     biː čukčelgeli        gurgewčiddiwu,                  ọrdụlị.
+\mb tarak -DU  biː čukča   -L  -g(E)lI gurgeːwči -D    -RI  -W        ọrọn              -(dU)LI
+\ps pron       pron n                   v                              n                        
+\ge dist  -dat 1sg Chukchi -pl -com    work      -prog -pst -poss.1sg domestic.reindeer -prol  
+\ft There I worked with the Chukchi, in the herds.
+\ELANBegin 00:02:34.000
+\ELANEnd 00:02:39.520
+\ELANParticipant AS
+\ru Там я с чукчами работал по табунам.
+\comment
+\ev Таду би чукчельгыли гургэвчиддыву ордулы.
+
+\id Adukanov_Sergej_life_019
+\ref
+\tx Nọŋarbụtanda                ereger ulgimiddʒoːttem.
+\mb nọŋan -L  -W   -tEn      =DE  ereger ulgim -E  -D    -WEːČ -R(E)   -m  
+\ps pron                          adv    v                                 
+\ge 3sg   -pl -acc -poss.3pl =ptl always ask   -ep -prog -gnr  -nonfut -1sg
+\ft Them I also always used to ask.
+\ELANBegin 00:02:39.520
+\ELANEnd 00:02:43.340
+\ELANParticipant AS
+\ru И их всегда расспрашивал.
+\comment
+\ev Ноӈырбутында эрыыр улгимиддёттым.
+
+\id Adukanov_Sergej_life_020
+\ref
+\tx Ọːnịsị   čukče teːleŋen,           ibdiride    teːleŋen            ekičeː        eŋeje ịkụtịč
+\mb ọːn -E  =sI   čukča   teːleŋ -E  -n(I)     ibdiri =DE  teːleŋ -E  -n(I)     ekič      =eː   eŋeje ịkụt     -E  -Č  
+\ps pron          ?       n                    n           n                    ?               ?     adv              
+\ge how -ep =emph Chukchi story  -ep -poss.3sg people =ptl story  -ep -poss.3sg difficult =emph rich  straight -ep -ins
+
+\tx biweːtten.
+\mb bi -WEːČ -R(E)   -n(I)
+\ps v                     
+\ge be -gnr  -nonfut -3sg 
+
+\ft Because the stories of the Chukchi, stories of people in general, can be very rich.
+\ph ibdʒiri
+\ELANBegin 00:02:43.340
+\ELANEnd 00:02:55.000
+\ELANParticipant AS
+\ru Потому что рассказы чукчей и вообще людей рассказы очень богатые  сильно бывают.
+\comment
+\ev Оныси  чукче тэлыӈын, ибдиридэ тэлыӈын экиче эӈэе икутыч бивэттэн.
+
+\id Adukanov_Sergej_life_021
+\ref
+\tx Goːwettede                unteč,    inŋeten         unte
+\mb goːn -WEːČ -R(E)   =DE  honte -Č   inŋe   -tEn      honte
+\ps v                       adj        n                adj  
+\ge say  -gnr  -nonfut =ptl other -ins tongue -poss.3pl other
+\ft And they speak differently, their language is different.
+\gr
+\ph iːnŋe with long i
+\gr 29.01.13 (quest_Adukanov_Sergey_1, 15:20), sounds like unteγen at end, but that is not a word; RME thought that it might perhaps be unteL,
+but that doesn't make sense either, so left it at unte, which makes sense; inŋe 'tongue' for 'language' is normal, is not just an idiosyncracy of
+Sergej Adukanov's; ọrọttị toren = evenskij razgovor, anglijskij inŋe = angliskij jazyk, ńụčịdị inŋe = russkij jazyk = ńụčịdị toren, and in
+Adukanov_Sergej_life_023 he says toreŋti 'our language', could have said inŋet
+\ELANBegin 00:02:55.000
+\ELANEnd 00:03:01.060
+\ELANParticipant AS
+\ru И разговаривают по-другому - язык другой.
+\comment
+\ev Говэттэде унтыч - инӈытын унты.
+
+\id Adukanov_Sergej_life_022
+\ref
+\tx Ečin      čajčịbaldụk                   nọŋan uŋŋoːtten.
+\mb erroːčin  čajčaba                 -L  -DUk(U) nọŋan uŋ -WEːČ -R(E)   -n(I)
+\ps pron      n                                   pron  v                     
+\ge prox.qual reindeer.herding.Koryak -pl -abl    3sg   do -gnr  -nonfut -3sg 
+\ft It does (derives) from the Koryaks.
+\ELANBegin 00:03:01.060
+\ELANEnd 00:03:07.200
+\ELANParticipant AS
+\ru Вот так от коряков он делается (происходит)
+\comment
+\ev Эчин чайчибалдук ноӈын унӈоттэн.
+
+\id Adukanov_Sergej_life_023
+\ref
+\tx Gurgeːwčidmi              tadụ     biː nurgeddiwu                 nọŋartan klublen,              ee ọːnka
+\mb gurgeːwči -D    -mI       tarak -DU  biː nurge -D    -RI  -W        nọŋartan klub   -(dU)LE -n(I)     ee ọːn =kkE
+\ps v                         pron       pron v                          pron     n                        interj pron    
+\ge work      -prog -cond.cvb dist  -dat 1sg dance -prog -pst -poss.1sg 3pl      club.R -loc    -poss.3sg eh how =ptl
+
+\tx gerbenke,            aa, mučugin_nuteγut, mut    toreŋti                ọrọttịč.
+\mb gerbe -n(I)     =kkE aa mučugin_nuteγut mut    tore  -ŋ   -t(I)        ọrọč  -DI   -Č  
+\ps n                    excl ?               pron   v                       n               
+\ge name  -poss.3sg =ptl ah ??(Chukchi)     1pl.in speak -aln -poss.1pl.in Oroch -adjr -ins
+
+\ft Working there I danced in their club, what was it called, ah, muchugin_nuteγut, "our language" in Even.
+\ph sounds like gerbenkeN, but that is just a mumble
+\ELANBegin 00:03:07.200
+\ELANEnd 00:03:27.020
+\ELANParticipant AS
+\ru Работая там, я танцевал в их клубе, эээ..., как же называется, ааа...  "Мучгин нутэкут!" - "Наша земля" - по-эвенски
+\comment
+\ev Гургэчидми таду би нургэддиву ноӈэртэн клублэн, эээ..., онкэ  гырбынкэ, ааа..., "Мучгин нутэкут!" - "мут туренӈты" - орыттич.
+
+\id Adukanov_Sergej_life_024
+\ref
+\tx Deggoːttude             gọrọdtakị, Palanalị,    gịakịlị     torli         deggoːt...
+\mb deg -WEːČ -(R)U   =DE  gorod  -t(E)kI Palana -(dU)LI gịakị   -(dU)LI tor   -(dU)LI deg -WEːČ
+\ps v                      n              n              pron            n             v        
+\ge fly -gnr  -1pl.ex =ptl town.R -all    Palana -prol   various -prol   earth -prol   fly -gnr 
+
+\ft And we flew to town, via Palana, we flew over various places.
+\ph tordi
+\ELANBegin 00:03:27.020
+\ELANEnd 00:03:34.080
+\ELANParticipant AS
+\ru Летали мы в город, по Палане (по территории коряков ) - по всяким  землям летали.
+\comment
+\ev Дэоттуда городтыки, Паланали - гекили торли деоттиву.
+
+\id Adukanov_Sergej_life_025
+\ref
+\tx Ọrdụlịda                 ọːjaw      uŋiddʒoːttu.
+\mb ọrọn              -(dU)LI =DE  họːja -W   uŋ -E  -D    -WEːČ -(R)U  
+\ps n                              quant      v                         
+\ge domestic.reindeer -prol   =ptl many  -acc do -ep -prog -gnr  -1pl.ex
+\ft And we did a lot about the herds.
+\ph
+\gr confirmed in Jan 2013 that he says uŋiddʒoːttu, as transcribed (though I hear something like uŋmintem or similar)
+\ELANBegin 00:03:34.080
+\ELANEnd 00:03:36.940
+\ELANParticipant AS
+\ru и по табунам много делали.
+\comment
+\ev Ордулида ояв уӈыддётту.
+
+\id Adukanov_Sergej_life_026
+\ref
+\tx Ńan   tadụk       biː nulgeriwu              akmụltakị       Xaịrịnatkị.
+\mb ńaːn tarak -DUk(U) biː nulge   -RI  -W        akan   -SEl -t(E)kI Xaịlịna -t(E)kI
+\ps adv  pron          pron v                      n                   n              
+\ge and  dist  -abl    1sg migrate -pst -poss.1sg father -pl  -all    Xailino -all   
+\ft And from there I moved to my parents to Xailino.
+\ph
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 20:05), akmụlbụ = moi roditeli, correct, one says akmụlbụ or entilbuor aknịlbụ, it's all the same;
+akmụltaki = correct, one could say akmụltakịjị, or just akmụltakị imenno k moim roditeljam
+\ELANBegin 00:03:36.940
+\ELANEnd 00:03:42.378
+\ELANParticipant AS
+\ru И вот оттуда я переехал к родителям в Хаилино.
+\comment
+\ev Нян тадук, би нулгэриву ақнултэкии Хаилинатки.
+
+\id Adukanov_Sergej_life_027
+\ref
+\tx Tadụ     gurgeːwčidʒilliwu                      glavnyj    vetvratịt.
+\mb tarak -DU  gurgeːwči -D    -E  -L    -RI  -W        glavnyj    vetvrač -E  -Č  
+\ps pron       v                                        adj        n               
+\ge dist  -dat work      -prog -ep -inch -pst -poss.1sg superior.R vet.R   -ep -ins
+\ft There I began to work as the head vet.
+\ph
+\ELANBegin 00:03:42.378
+\ELANEnd 00:03:47.825
+\ELANParticipant AS
+\ru
+\comment
+\ev (?Таду гургэвчид элэ главный ветврач)
+
+\id Adukanov_Sergej_life_028
+\ref
+\tx Tačịntịtta     ọrdụlị              ereger uŋiddʒoːttem                   negniw           čupterem.
+\mb tarọːčịn  =tIt ọrọn              -(dU)LI ereger uŋ -E  -D    -WEːČ -R(E)   -m   negni       -W   čoptere      -n(I)     -W  
+\ps pron           n                         adv    v                               n                adv                        
+\ge dist.qual =ptl domestic.reindeer -prol   always do -ep -prog -gnr  -nonfut -1sg late.spring -acc all.the.time -poss.3sg -acc
+
+\ft Just like before I always worked in the herds, throughout the spring.
+\ph
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 22:20-25:45) negniw čuptere = vesnu naprolet, also say čupteredu, or čupterečem, or
+čupterekeje; negniw čupteren = NO; čuptereńdʒewen = tseeelyj god; ineŋu čuptere = tselymi dnjami, ineŋu čupteren = imenno 1 denj,
+naprimer segodnjashnij denj, negniw čupterem = vot etu vesnu, čupterečem = vot etu vesnu; negniw čuptere = voobshe vesnu, vsegda
+vesnu --> so the possessive gives a definite reading, while without the possessive čuptere is general
+\ELANBegin 00:03:47.825
+\ELANEnd 00:03:55.859
+\ELANParticipant AS
+\ru Также по табунам (ик..) всегда делал (работу) весну напролет.
+\comment
+\ev Тачинтыда ордули (ик...) эрыыр уӈыддеттым ныни чуптырэ.
+
+\id Adukanov_Sergej_life_029
+\ref
+\tx Tadụda        nurgeddʒoːttude                čajčịbal                ansamblịtan           Čakrịtọn
+\mb tarak -DU  =DE  nurge -D    -WEːČ -(R)U   =DE  čajčaba                 -L  ansambl'   -E  -tEn      Čakrịtọn 
+\ps pron            v                              n                           n                        ?        
+\ge dist  -dat =ptl dance -prog -gnr  -1pl.ex =ptl reindeer.herding.Koryak -pl ensemble.R -ep -poss.3pl Chakriton
+
+\tx gerben,         toŋeːr ọrọttịč.
+\mb gerbe -n(I)     toŋeːr ọrọč  -DI   -Č  
+\ps n               n      n               
+\ge name  -poss.3sg lake   Oroch -adjr -ins
+
+\ft And there I danced in a Koryak ensemble called Chakriton, (that it) 'lake' in Even.
+\ph
+\ELANBegin 00:03:55.859
+\ELANEnd 00:04:09.795
+\ELANParticipant AS
+\ru И там тоже продолжал танцевать в корякском ансамбле "Чаквитон"  называется - "Озеро" по-эвенски.
+\comment
+\ev Тадуда нургыддёттымдэ чайчибал ансамблитын "Чаквитон" гырбын -  "Тоӈэр" - орыттич.
+
+\id Adukanov_Sergej_life_030
+\ref
+\tx Ńan   mama   butenelleketen                            eweski         nulgenukeniwu                      Eutulenteki,
+\mb ńaːn mama   buteːn -E  -L    -REk      -E  -tEn      erek -skI      nulge   -n    -WkEn -RI  -W        Eutulen -t(E)kI
+\ps adv  n      v                                        pron           v                                  n              
+\ge and  mama.R be.ill -ep -inch -cond.cvb -ep -poss.3pl prox -advb.all migrate -mult -caus -pst -poss.1sg Eutulen -all   
+
+\tx eduːr.
+\mb erek -DU  -WUr    
+\ps pron              
+\ge prox -dat -prfl.pl
+
+\ft And when my parents fell ill I sent them to Eutulen, here.
+\ph
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 26:30) probably both parents fell ill (butenelleketen) and he just mistakenly said 'mama';
+nulgenukeniwu = pereexatj ix zastavil
+\nt Eutulen: this is the "northern" (i.e. probably Koryak) way of referring to the Bystraja area (which is in the centre of Kamchatka)
+\nt
+\ELANBegin 00:04:09.795
+\ELANEnd 00:04:20.611
+\ELANParticipant AS
+\ru И вот мама заболели когда сюда отправил на  "эутулэн", здесь.
+\comment
+\ev Нян мэмэ бутэнылликытын эвыски нулгынукэниву "эутулэнтэки", эду.
+
+\id Adukanov_Sergej_life_031
+\ref
+\tx Biːgel     tadụ     unet  biddiwu                 ịlam      anŋanụ,  i...  ịlam      anŋanụ   tadụ
+\mb biː =gEl   tarak -DU  unet  bi -D    -RI  -W        ịlan  -W   anŋan -W   i     ịlan  -W   anŋan -W   tarak -DU 
+\ps pron       pron       adv   v                       num        n          conj  num        n          pron      
+\ge 1sg =coord dist  -dat still be -prog -pst -poss.1sg three -acc year  -acc and.R three -acc year  -acc dist  -dat
+
+\tx biddiwu.
+\mb bi -D    -RI  -W       
+\ps v                      
+\ge be -prog -pst -poss.1sg
+
+\ft And I lived there for three more years, I lived there for three years.
+\ELANBegin 00:04:20.611
+\ELANEnd 00:04:29.945
+\ELANParticipant AS
+\ru Я же еще там был три года.
+\comment
+\ev Биэл таду унэт  биддиву илым  анӈыну, и... илым анӈыну таду биддиву.
+
+\id Adukanov_Sergej_life_032
+\ref
+\tx Ńan   vsjotaki       eːririten           eweski         emdeku.
+\mb ńaːn vsetaki        eːri -RI  -tEn      erek -skI      em   -DE       -W       
+\ps adv  ptl            v                   pron           v                       
+\ge and  all.the.same.R call -pst -poss.3pl prox -advb.all come -purp.cvb -poss.1sg
+\ft And then they managed to call me here. (Called so that I would come)
+\ph aːririten
+\ELANBegin 00:04:29.945
+\ELANEnd 00:04:35.769
+\ELANParticipant AS
+\ru И вот, все-таки, дозвались сюда чтоб я приехал.
+\comment
+\ev Нян, всё-таки, эририт?эн эвыски эмдэку.
+
+\id Adukanov_Sergej_life_033
+\ref
+\tx Emniwu              eweski.
+\mb em   -RI  -W        erek -skI     
+\ps v                   pron          
+\ge come -pst -poss.1sg prox -advb.all
+\ft I came here.
+\ELANBegin 00:04:35.769
+\ELANEnd 00:04:38.512
+\ELANParticipant AS
+\ru Приехал сюда.
+\comment
+\ev Эмниву эвэски.
+
+\id Adukanov_Sergej_life_034
+\ref
+\tx Edude          gurgewčiddiwu                   fermala        vetvratịč.
+\mb erek -DU  =DE  gurgeːwči -D    -RI  -W        ferma  -(dU)LE vetvrač -E  -Č  
+\ps pron           v                              n              n               
+\ge prox -dat =ptl work      -prog -pst -poss.1sg farm.R -loc    vet.R   -ep -ins
+\ft And here I worked in the (state) farm as a vet.
+\ph sounds a bit like fermata
+\ELANBegin 00:04:38.512
+\ELANEnd 00:04:42.477
+\ELANParticipant AS
+\ru И тут стал работать на ферме ветврачом.
+\comment
+\ev Эдудэ гургэвчидилливу фермала ветврачич.
+
+\id Adukanov_Sergej_life_035
+\ref
+\tx Ńan   Slugin Aleksandr Jakovlevič eːririn             muzejteki        gurgenedeku.
+\mb ńaːn Slugin Aleksandr Jakovlevič  eːri -RI  -n(I)     muzej    -t(E)kI gurgeː -nE     -DE       -W       
+\ps adv  ?      ?         ?           v                   n                v                                 
+\ge and  Slugin Alexander Jakovlevich call -pst -poss.3sg museum.R -all    work   -intent -purp.cvb -poss.1sg
+\ft And then Alexander Jakovlevich Slugin called me to work in the museum.
+\ph aːririn
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 29:30): gurgenedeku is wrong, it should be gurgewčinedeku
+\ELANBegin 00:04:42.477
+\ELANEnd 00:04:48.535
+\ELANParticipant AS
+\ru И Слугин Александр Яковлевич зазвал в музей работать меня.
+\comment
+\ev Нян Слугин Александр Яковлевич эририн музейтыки гургэнэдэку.
+
+\id Adukanov_Sergej_life_036
+\ref
+\tx Tadụ     ịlam      anŋanụ   gurgewčiddiwu                   naučnyj     satrudnikom.
+\mb tarak -DU  ịlan  -W   anŋan -W   gurgeːwči -D    -RI  -W        naučnyj      sotrudnikom    
+\ps pron       num        n          v                              adj          n              
+\ge dist  -dat three -acc year  -acc work      -prog -pst -poss.1sg scientific.R colleague.ins.R
+\ft There I worked three years as a scientist.
+\ELANBegin 00:04:48.535
+\ELANEnd 00:04:54.203
+\ELANParticipant AS
+\ru Там три года работал научным сотрудником.
+\comment
+\ev Таду илым анӈыну гургэвчиддиву научный сотрудником.
+
+\id Adukanov_Sergej_life_037
+\ref
+\tx Beliddʒoːttu                nọŋman               nọŋman               gịakịw,    ọjalbụ
+\mb bel  -E  -D    -WEːČ -(R)U   nọŋan -W   -n(I)     nọŋan -W   -n(I)     gịakị   -W   ọj      -E  -L  -W  
+\ps v                            pron                 pron                 pron         n                   
+\ge help -ep -prog -gnr  -1pl.ex 3sg   -acc -poss.3sg 3sg   -acc -poss.3sg various -acc clothes -ep -pl -acc
+
+\tx čakattawụr                      uŋduli,          ọrdụlị              rybalkalịda
+\mb čak    -E  -Č   -DE       -WUr     uŋ        -(dU)LI ọrọn              -(dU)LI rybalka        -(dU)LI =DE 
+\ps v                                  n                 n                         n                          
+\ge gather -ep -res -purp.cvb -prfl.pl something -prol   domestic.reindeer -prol   fishing.camp.R -prol   =ptl
+
+\tx olloːtiddʒoːttu              nọŋardụlịtan.
+\mb hollot -E  -D    -WEːČ -(R)U   nọŋan -L  -(dU)LI -tEn     
+\ps v                              pron                       
+\ge go     -ep -prog -gnr  -1pl.ex 3sg   -pl -prol   -poss.3pl
+
+\ft We helped him collect various clothes from reindeer herds and fishing camples, always travelled to them.
+\ph
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1 31:00), the final word isn't clear, could be nọŋardụlịn, or nọŋardụlịtan, or nọŋargalịn (vmeste s
+nim - Sluginom - though shouldn't that be nọŋangalịn?) --> checked on 06.02.13, and yes, of course, "with him" is nọŋangalịn, so that is less
+probable
+\ELANBegin 00:04:54.203
+\ELANEnd 00:05:05.340
+\ELANParticipant AS
+\ru Помогали ему всякие одежды собирать по этим - табунам, рыбалкам eздили всегда по ним.
+\comment
+\ev Былыддётту ноӈман гекив оилбы чақыттавыр уӈдули - ордулы рыбалкалыда, oллочиддётту ноӈыр(дулитын?).
+
+\id Adukanov_Sergej_life_038
+\ref
+\tx Gịakịw     ọńaddʒọːttụ         teːleŋelbuten.
+\mb gịakị   -W   ọńa   -D    -WEːČ -(R)U   teːleŋ -E  -L  -W   -tEn     
+\ps pron         v                         n                            
+\ge various -acc write -prog -gnr  -1pl.ex story  -ep -pl -acc -poss.3pl
+\ft We wrote down (recorded?) various things, their stories.
+\ph taːlịŋalbutǝn
+\ELANBegin 00:05:05.340
+\ELANEnd 00:05:08.646
+\ELANParticipant AS
+\ru  всякое записывали, их рассказы.
+\comment
+\ev , гекив оняддёту тэлыӈылбутын.
+
+\id Adukanov_Sergej_life_039
+\ref
+\tx Ịak biː ereger ọmŋawaːttam,             ọːnịsị,  ee...
+\mb ịak  biː ereger ọmŋa   -WEːČ -R(E)   -m   ọːn -E  =sI   ee
+\ps pron pron adv    v                         pron          interj
+\ge what 1sg always forget -gnr  -nonfut -1sg how -ep =emph eh
+\ft I always forget, how (to say), ehm...
+\ELANBegin 00:05:08.646
+\ELANEnd 00:05:16.380
+\ELANParticipant AS
+\ru Я же ведь не всегда забываю - как же ..эээ.. 
+\comment
+\ev Як би эрыыр омӈываттым - оныси ...эээ...
+
+\id Adukanov_Sergej_life_039b
+\ref
+\tx Biː ečiwude                tačịn       ajịč      upkut... ajịč      upkutteji                 ere
+\mb biː e   -RI  -W        =DE  tarọːčịn  aj   -E  -Č   hupkut aj   -E  -Č   hupkut -DE       -J       erek
+\ps pron v                       pron      adj           v      adj           v                         pron
+\ge 1sg neg -pst -poss.1sg =ptl dist.qual good -ep -ins learn  good -ep -ins learn  -purp.cvb -prfl.sg prox
+
+\tx toreriwenten,                               mm
+\mb tore  -RI      -W   -E  -n(I)     -tEn      mm 
+\ps v                                           excl
+\ge speak -ipf.ptc -acc -ep -poss.3sg -poss.3pl mhm
+
+\ft I didn't study like that very well... one should have studied their speech/the way they speak
+\ph
+\gr there's a bit of a pause between toreriwen...ten, so the -ten is a repair of the incorrect toreriwen
+\ELANBegin 00:05:16.380
+\ELANEnd 00:05:30.780
+\ELANParticipant AS
+\ru я не очень так хорошо  уч.. учил, хорошо учить надо было этот их говор...ммм...
+\ev би эчивудэ тачин аич уп..  упкуттэ, аич упкуттэи эрэк торэривэнтын ...ммм...
+
+\id Adukanov_Sergej_life_040
+\ref
+\tx Ńan   gịakị bejil      olloːtčoːtte,       ọńaddʒọːttụda.
+\mb ńaːn gịakị   bej -E  -L  hollot -WEːČ -R(E)   ọńa   -D    -WEːČ -(R)U   =DE 
+\ps adv  pron    n           v                    v                             
+\ge and  various man -ep -pl go     -gnr  -nonfut write -prog -gnr  -1pl.ex =ptl
+\ft And different people came, and we recorded them.
+\ELANBegin 00:05:30.780
+\ELANEnd 00:05:39.340
+\ELANParticipant AS
+\ru И всякие люди приездали и писали мы тоже.
+\comment
+\ev Нян геки быил оллотчётты, оняддёттуда.
+
+\id Adukanov_Sergej_life_041
+\ref
+\tx Ńan   tadụk       biː Galina Jur'evna eːririn             eweski         klubteki
+\mb ńaːn tarak -DUk(U) biː Galina Jur'evna eːri -RI  -n(I)     erek -skI      klub   -t(E)kI
+\ps adv  pron          pron ?      ?        v                   pron           n             
+\ge and  dist  -abl    1sg Galina Jurevna  call -pst -poss.3sg prox -advb.all club.R -all   
+
+\tx nurgenedeku,                      gurgewčideku                   edu.
+\mb nurge -nE     -DE       -W        gurgeːwči -DE       -W        erek -DU 
+\ps v                                 v                             pron     
+\ge dance -intent -purp.cvb -poss.1sg work      -purp.cvb -poss.1sg prox -dat
+
+\ft And from there I... Galina Jurevna called me here to dance in the club, to work here.
+\ph aːririn
+\ELANBegin 00:05:39.340
+\ELANEnd 00:05:53.760
+\ELANParticipant AS
+\ru И вот оттуда я...  Галина Юрьевна позвала сюда в клуб танцевать меня,  работать тут.
+\comment
+\ev Нян тадук, би... Галина Юрьевна эририн эвыски клубтыки нургэнэдэку,  гургэвчидэку эду.
+
+\id Adukanov_Sergej_life_042
+\ref
+\tx Ee, emniwu.
+\mb ee em   -RI  -W       
+\ps interj v                  
+\ge eh come -pst -poss.1sg
+\ft I came.
+\ELANBegin 00:05:53.760
+\ELANEnd 00:05:57.520
+\ELANParticipant AS
+\ru Ээ... пришел.
+\comment
+\ev Ээ... эмниву.
+
+\id Adukanov_Sergej_life_043
+\ref
+\tx Slugin baːrịn               mụltụdajị              minu         tadụk,      muzejduk.
+\mb Slugin baː      -RI  -n(I)     mụltụ    -DE       -J       min     -W   tarak -DUk(U) muzej    -DUk(U)
+\ps ?      v                       v                           pron         pron          n               
+\ge Slugin not.want -pst -poss.3sg set.free -purp.cvb -prfl.sg 1sg.obl -acc dist  -abl    museum.R -abl   
+\ft Slugin didn't want to let me go from there, from the museum.
+\ph
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 33:10) baːrịn mụltụŋa would be correct, but like this (with purp.cvb) is also OK
+\ELANBegin 00:05:57.520
+\ELANEnd 00:06:04.000
+\ELANParticipant AS
+\ru Слугин не хотел отпускать меня оттуда, из музея.
+\comment
+\ev Слугин барин мултудаи мину тадук, музейдук.
+
+\id Adukanov_Sergej_life_044
+\ref
+\tx No    orriwu            ịkụtịč    biː.
+\mb no    hor -RI  -W        ịkụt     -E  -Č   biː
+\ps conj  v                  adv               pron
+\ge but.R go  -pst -poss.1sg straight -ep -ins 1sg
+\ft But I went straight away.
+\ph urriwu
+\ELANBegin 00:06:04.000
+\ELANEnd 00:06:06.740
+\ELANParticipant AS
+\ru Но ушел прямо оттуда я.
+\comment
+\ev Но урриву икутыч би.
+
+\id Adukanov_Sergej_life_045
+\ref
+\tx Akbị biː ọrọttị...
+\mb biː ọrọč  -DI  
+\ps pron n          
+\ge 1sg Oroch -adjr
+\ft ????
+\ph
+\nt this cannot be made out at all, it is not clear what he says
+\ELANBegin 00:06:06.760
+\ELANEnd 00:06:08.600
+\ELANParticipant AS
+\ru По-эвенски?
+\comment
+\ev ?би ороттич?
+
+\id Adukanov_Sergej_life_046
+\ref
+\tx Čakrịwụ          bụmagalbị        ńan   eweski         emniwu              kluble.
+\mb čak    -RI  -W        bumaga  -L  -J       ńaːn erek -skI      em   -RI  -W        klub   -(dU)LE
+\ps v                     n                    adv  pron           v                   n             
+\ge gather -pst -poss.1sg paper.R -pl -prfl.sg and  prox -advb.all come -pst -poss.1sg club.R -loc   
+\ft I gathered my papers and came here, to the club.
+\ph bumagAlbi, stressed on penultimate syllable
+\ELANBegin 00:06:08.600
+\ELANEnd 00:06:15.020
+\ELANParticipant AS
+\ru Собрал свои бумаги и сюда пришел В клубе.
+\comment
+\ev Чақрыву бумагалби, нян эвыски эмныву Клублэ.
+
+\id Adukanov_Sergej_life_047
+\ref
+\tx Ńan   edut                tiek elet                   gurgewčiddem.
+\mb ńaːn erek -DU  =t(E)    tiek erek -(dU)LE =t(E)    gurgeːwči -D    -R(E)   -m  
+\ps adv  pron               adv  pron                  v                           
+\ge and  prox -dat =utočnit now  prox -loc    =utočnit work      -prog -nonfut -1sg
+\ft And here, I am working right here now.
+\ELANBegin 00:06:15.020
+\ELANEnd 00:06:18.400
+\ELANParticipant AS
+\ru  вот тут же, всё сейчас здесь же работаю.
+\comment
+\ev  нян эдут, тик элэт гургэвчиддым.
+
+\id Adukanov_Sergej_life_048
+\ref
+\tx Gịakịlị     torduli       tegelide    olloːttiwu,          deggoːttiwude.
+\mb gịakị   -(dU)LI tor   -(dU)LI tegeli =DE  hollot -RI  -W        deg -WEːČ -RI  -W        =DE 
+\ps pron            n             adv         v                     v                            
+\ge various -prol   earth -prol   far    =ptl go     -pst -poss.1sg fly -gnr  -pst -poss.1sg =ptl
+
+\ft I went, flew to various places and far away.
+\ELANBegin 00:06:18.400
+\ELANEnd 00:06:24.600
+\ELANParticipant AS
+\ru По всяким землям и далеко ездил, летал.
+\comment
+\ev Гекили тордули тээлидэ оллоттиву, дэотиву.
+
+\id Adukanov_Sergej_life_049
+\ref
+\tx Buː   ereger olniddʒoːttu              gịakịlị     bileːkleten                ibdiri, gịakịlbụ
+\mb buː    ereger holne -D    -WEːČ -(R)U   gịakị   -(dU)LI bileːk    -(dU)LE -tEn      ibdiri gịakị   -L  -W  
+\ps pron   adv    v                         pron            n                           n      pron            
+\ge 1pl.ex always visit -prog -gnr  -1pl.ex various -prol   territory -loc    -poss.3pl people various -pl -acc
+
+\tx ittiwun.
+\mb it  -RI  -WUn        
+\ps v                    
+\ge see -pst -poss.1pl.ex
+
+\ft We always went to visit where there were people, we saw different people.
+\ph ibdʒiri
+\ELANBegin 00:06:24.600
+\ELANEnd 00:06:35.800
+\ELANParticipant AS
+\ru Мы всегда ездим по гостям везде где живут люди, всяких видали.
+\comment
+\ev Бу эрэыр олниддётту гекилы билэклэтын ибдири, гекилбы иттывун.
+
+\id Adukanov_Sergej_life_050
+\ref
+\tx Ọːnasị     mute   nurgeriwuten                   ibdiri itten            ajịč.
+\mb ọːn -E  =sI   mut    nurge -RI       -W   -tEn      ibdiri it  -R(E)   -n(I) aj   -Č  
+\ps pron          pron   v                              n      v                 adj      
+\ge how -ep =emph 1pl.in dance -impf.ptc -acc -poss.3pl people see -nonfut -3sg  good -ins
+
+\ft Because ... our dances, so that the people would see (them) well.
+\ph ibdʒiri
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 36:00) mut gurgewčiriwun = nasha rabota, bu gurgewčiriwun = my rabotali; mut nurgerit
+"nashy tantsy", acc = mut nurgeriwut --> he doesn't use the correct form, it should have been mut nurgeriwut, not nurgeriwuten
+\nt nurgeriwuten is the wrong form, it should be mut nurgeriwut, one can say ibdʒiri and ibdʒiril; they travelled around to show their dances so
+that the people would be able to see them
+\ELANBegin 00:06:35.800
+\ELANEnd 00:06:45.540
+\ELANParticipant AS
+\ru Потому что наши танцы люди чтобы видели хорошо.
+\comment
+\ev Оныси мут нургэривытын ибдири иттэн аич.
+
+\id Adukanov_Sergej_life_051
+\ref
+\tx Ereger ulgimiddʒoːtte:              "Erek ọːn gerbeten?       Ịak ikeːŋen?".
+\mb ereger ulgim -E  -D    -WEːČ -R(E)   erek ọːn gerbe -tEn      ịak  ikeː -ŋ  -E  -n(I)    
+\ps adv    v                             pron pron n               pron v                     
+\ge always ask   -ep -prog -gnr  -nonfut prox how name  -poss.3pl what song -vr -ep -poss.3sg
+
+\ft They always ask: "How is this called? Whose song is it?"
+\ph
+\gr 06.02.13 (questions14, 29:30) erek ọːn gerbeten? = vot eto kak nazyvaetsja, asking about things, and probably pointed to several things
+"erek" and then "ọːn gerbeten", their names; biː Brigitta gerberem = NO --> min gerbewu Brigitta or minu gerbutte Brigitta
+\ELANBegin 00:06:45.540
+\ELANEnd 00:06:52.640
+\ELANParticipant AS
+\ru Всегда спрашивают: "Это как зовут?" "Чья песня?"
+\comment
+\ev Эрыыр ульгимиддёттэ: "Эрэк он гырбытын?", "Як икэӈын?"
+
+\id Adukanov_Sergej_life_052
+\ref
+\tx Teːleŋeddʒoːttem,                  ibdiri aːdan.
+\mb teːleŋ -E  -D    -WEːČ -R(E)   -m   ibdiri haː  -DE       -n(I)    
+\ps v                                   n      v                       
+\ge tell   -ep -prog -gnr  -nonfut -1sg people know -purp.cvb -poss.3sg
+
+\ft I tell, so that the people will know.
+\ph ibdʒiri
+\ELANBegin 00:06:52.640
+\ELANEnd 00:06:56.820
+\ELANParticipant AS
+\ru Рассказываю как - чтоб народ знал.
+\comment
+\ev Тэлыӈыддёттым он - ибдири адан.
+
+\id Adukanov_Sergej_life_053
+\ref
+\tx Tiekte    tegečiddem,                           awgịčta       emčel           ọńatta           minu.
+\mb tiek =DE  teg      -E  -Č   -E  -D    -R(E)   -m   aw    -GIČ  =DE  em   -čE     -L  ọńa   -Č   -R(E)   min     -W  
+\ps adv       v                                        pron             v                v                  pron        
+\ge now  =ptl sit.down -ep -res -ep -prog -nonfut -1sg where -elat =ptl come -pf.ptc -pl write -res -nonfut 1sg.obl -acc
+
+\ft And now I am sitting, and (people) who have come from somewhere are recording me.
+\ph awgịtta; 
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 42:00), sounds like emčeriten (and emčeriten is what RME transcribed in the beginning), but
+later on she suggested it is just emčel and the rest are mumbles
+\gr
+\ELANBegin 00:06:56.820
+\ELANEnd 00:07:04.540
+\ELANParticipant AS
+\ru И сейчас сижу - откуда-то приехавшие записывают меня.
+\comment
+\ev Тик-тэ тэычиддэм - авгичта эмчеритэн, онядды мину.
+
+\id Adukanov_Sergej_life_054
+\ref
+\tx Unet  ịaw      toredʒim?
+\mb unet  ịak  -W   tore  -DʒI -m  
+\ps adv   pron      v              
+\ge still what -acc speak -fut -1sg
+\ft What more shall I say?
+\ELANBegin 00:07:04.540
+\ELANEnd 00:07:08.360
+\ELANParticipant AS
+\ru Еще что буду говорить?
+\comment
+\ev Унэт яв торэдим?
+
+\id Adukanov_Sergej_life_055
+\ref
+\tx Ehm, vretvrač bidmi, ọrdụla bidmi, ehm... kọbalam ittis gu?
+\mb
+\ge
+\ft Well, when you were a vet, when you were in the herd, did you see bears?
+\ELANBegin 00:07:08.320
+\ELANEnd 00:07:23.160
+\ELANParticipant BP
+\ru Эм... Врэт... Когда врачом был, в табуне был эм... медведя видел?
+\comment
+\ev Эм... Врэт... Врач бидми, ордула бидми эм... кобылам иттиш гу?
+
+\id Adukanov_Sergej_life_056
+\ref
+\tx Ịak biː aːram,           ịak kọbalan tarak?
+\mb ịak  biː haː  -R(E)   -m   ịak  kọbalan tarak
+\ps pron pron v                 pron n       pron 
+\ge what 1sg know -nonfut -1sg what bear    dist 
+
+\ft How do I know, what bear is that?
+\ph
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 45:10), ịak biː aːram = ja zhe ne znaju, esem aːra = ja ne znaju; ịak iː ńemetti torenni "ty zhe
+po-nemecki ne govorishj", one can say ịak kọbalannị, but can also say ịak kọbalan
+\ELANBegin 00:07:23.080
+\ELANEnd 00:07:25.460
+\ELANParticipant AS
+\ru Я же не знаю что такое медведь этот?
+\comment
+\ev Як би арым як, (яқ) кобылан (тарак?)?
+
+\id Adukanov_Sergej_life_057
+\ref
+\tx ọrdụ ọrdụ ọrdụ kọbalam...
+\mb
+\ge
+\ft In the herd, bears...
+\ELANBegin 00:07:25.440
+\ELANEnd 00:07:30.580
+\ELANParticipant BP
+\ru Как? В табуне, в табуне медведя.
+\comment
+\ev ОН? Орду, орду кобылам.
+
+\id Adukanov_Sergej_life_058
+\ref
+\tx Ečiwu             iččoːtte,         ịawda,        ečiwu
+\mb e   -RI  -W        it  -WEːČ -R       ịak  -W   =DE  e   -RI  -W       
+\ps v                  v                  pron           v                 
+\ge neg -pst -poss.1sg see -gnr  -neg.cvb what -acc =ptl neg -pst -poss.1sg
+\ft I didn't see anything
+\ELANBegin 00:07:30.500
+\ELANEnd 00:07:33.940
+\ELANParticipant AS
+\ru Ничего не видел... ничего...
+\comment
+\ev Эчиву иччётты як,(?яқ)... явда...
+
+\id Adukanov_Sergej_life_059
+\ref
+\tx Aa, a ja dumala...
+\mb
+\ge
+\ft And I thought...
+\ELANBegin 00:07:33.920
+\ELANEnd 00:07:36.920
+\ELANParticipant BP
+\ru А... А я думала...
+\comment
+\ev А... А я думала...
+
+\id Adukanov_Sergej_life_060
+\ref
+\tx ŋeːlukiw                 ŋeːlukiw                 aːnnị?
+\mb ŋeːl      -U    -kI   -W   ŋeːl      -U    -kI   -W   haː  -nrI
+\ps v                          v                          v        
+\ge be.afraid -caus -adjr -acc be.afraid -caus -adjr -acc know -2sg
+
+\ft Do you know wolves? (probably meant: do you know the word "ŋeːluki")
+\ph ńaːlụkịw
+\gr
+\ELANBegin 00:07:35.520
+\ELANEnd 00:07:38.120
+\ELANParticipant AS
+\ru Волка, волка знаешь?
+\comment
+\ev Ӈэлукив, ӈэлукив анни?
+
+\id Adukanov_Sergej_life_061
+\ref
+\tx ńaːlụkịw? ittis?
+\mb
+\ge
+\ft A wolf? Did you see (one)?
+\ELANBegin 00:07:38.140
+\ELANEnd 00:07:41.720
+\ELANParticipant BP
+\ru Волка? а.. видел?
+\comment
+\ev Ӈэлукив? а... иттиш?
+
+\id Adukanov_Sergej_life_062
+\ref
+\tx ŋeːlukiw                 aa, gịakịw     ittiwu             ọr...           čụkačam.
+\mb ŋeːl      -U    -kI   -W   aa gịakị   -W   it  -RI  -W        ọrọn              čụkačaːn -W  
+\ps v                          excl pron         v                  n                 n            
+\ge be.afraid -caus -adjr -acc ah various -acc see -pst -poss.1sg domestic.reindeer bird     -acc
+
+\ft Yes, I saw various (animals) in the herd... birds.
+\ph
+\ELANBegin 00:07:41.700
+\ELANEnd 00:07:48.300
+\ELANParticipant AS
+\ru Э! Волка? А! Всякое видел ор... Птицу.
+\comment
+\ev Э! Ӈэлукив? А! Гекив иттыву ор... Чукачам.
+
+\id Adukanov_Sergej_life_063
+\ref
+\tx Gịakịlbụ    ittiwu,            kọbalam,     bọŋgačam        ittiwu.
+\mb gịakị   -L  -W   it  -RI  -W        kọbalan -W   bọŋga          -W   it  -RI  -W       
+\ps pron             v                  n            n                   v                 
+\ge various -pl -acc see -pst -poss.1sg bear    -acc mountain.sheep -acc see -pst -poss.1sg
+
+\ft I saw various (animals), I saw bears, montain sheep.
+\gr June 2016: I checked with Rimma, boŋga and boŋgačan are synonyms, the diminutive is here as frozen as in (h)uličan
+\ELANBegin 00:07:48.300
+\ELANEnd 00:07:53.800
+\ELANParticipant AS
+\ru Всяких видал. Медведя, барана видел.
+\comment
+\ev Гекилбы иттыву. Кобылам, боӈгачам иттыву.
+
+\id Adukanov_Sergej_life_064
+\ref
+\tx Bọŋgaw           aːnnị? Bọŋga,      ụjamkan.
+\mb bọŋga          -W   haː  -nrI bọŋga          ụjamkan       
+\ps n                   v         n              n             
+\ge mountain.sheep -acc know -2sg mountain.sheep mountain.sheep
+
+\ft Do you know "bongga"? "bongga", mountain sheep (giving the Yakutia Even word for this).
+\ELANBegin 00:07:53.800
+\ELANEnd 00:07:57.420
+\ELANParticipant AS
+\ru Барана знаешь? Баран - горный баран.
+\comment
+\ev Боӈгав анни? Боӈга - уямка.
+
+\id Adukanov_Sergej_life_065
+\ref
+\tx ah
+\ELANBegin 00:07:57.440
+\ELANEnd 00:07:59.120
+\ELANParticipant BP
+\ru
+\comment
+\ev А...
+
+\id Adukanov_Sergej_life_066
+\ref
+\tx Baran.
+\mb baran  
+\ps n      
+\ge sheep.R
+
+\ELANBegin 00:07:59.160
+\ELANEnd 00:08:00.920
+\ELANParticipant AS
+\ru Баран.
+\comment
+\ev Баран.
+
+\id Adukanov_Sergej_life_067
+\ref
+\tx da,   da...
+\mb da    da   
+\ps ptl   ptl  
+\ge yes.R yes.R
+
+\ELANBegin 00:07:59.980
+\ELANEnd 00:08:03.220
+\ELANParticipant BP
+\ru
+\comment
+\ev (...?Да, да, да уямкан ??? )
+
+\id Adukanov_Sergej_life_068
+\ref
+\tx Ụlịčam       ịkụtịč    iččoːttem.            
+\mb hụlịčan -W   ịkụt     -E  -Č   it  -WEːČ -R(E)   -m  
+\ps n            adv               v                     
+\ge fox     -acc straight -ep -ins see -gnr  -nonfut -1sg
+\ft I always saw foxes.
+\ph
+\qu
+\ELANBegin 00:08:03.200
+\ELANEnd 00:08:09.440
+\ELANParticipant AS
+\ru Лису всегда видел 
+\comment
+\ev Улычам икутыч иччеттым
+
+\id Adukanov_Sergej_life_069
+\ref
+\tx Ọrdụlị              bidmi,             gurgewčidmi                ereger kosčiddʒoːttem
+\mb ọrọn              -(dU)LI bi -D    -mI       gurgeːwči -D    -mI       ereger kusči         -D    -WEːČ -R(E)   -m  
+\ps n                         v                  v                         adv    v                                     
+\ge domestic.reindeer -prol   be -prog -cond.cvb work      -prog -cond.cvb always herd.reindeer -prog -gnr  -nonfut -1sg
+
+\tx dọlbị.
+\mb dọlbanị
+\ps n      
+\ge night  
+
+\ft When I lived (was) in the herd,  working, I always herded reindeer at night.
+\ph
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 50:00) ọrdụlị = po tabunam (vsegda, v raznye), ọrdụla = v 1 tabune; kosči- = herd reindeer in
+general, both night and day (in Kamchatka they normally say kusči-, but Adukanov clearly says kosči-), though herd at night =ịawčidaj; her
+mother used to say: čto, dọlbị ịawčịdịs?, pasli chto li olenej nochju (when the kids slept late the next day); there is no separate word for 'herd at
+day' (says RME, 52:50), though there is a word for "herd in springtime" when the herders go to be with the herd for 2-3 days at a time:
+kọjalatnawaːtta
+\ELANBegin 00:08:09.440
+\ELANEnd 00:08:14.280
+\ELANParticipant AS
+\ru в табуне живя. Работая всегда пас ночью.
+\comment
+\ev ордулы бидми. Гургэвчидми эрыыр косчиддёттым долбы.
+
+\id Adukanov_Sergej_life_070
+\ref
+\tx Dagrịt meːnken.
+\mb dagrịt meːn -KEn    
+\ps adv    pron         
+\ge simply refl -dim.int
+
+\ft Just like that, by myself.
+\ELANBegin 00:08:14.280
+\ELANEnd 00:08:16.460
+\ELANParticipant AS
+\ru Просто так сам.
+\comment
+\ev Дарит мэнкэн.
+
+\id Adukanov_Sergej_life_071
+\ref
+\tx Awgụstala,       ijul... ijuldule       kọbalan unet  ač imsele    gịrkawaːčịddʒọːttan.
+\mb avgust   -E  -(dU)LE ijul   ijul   -(dU)LE kọbalan unet  ač  imse -LE  gịrka -WEːČ -E  -D    -WEːČ -R(E)   -n(I)
+\ps n                    n      n              n       adv   ptl n         v                                        
+\ge August.R -ep -loc    July.R July.R -loc    bear    still neg fat  -prv walk  -gnr  -ep -prog -gnr  -nonfut -3sg 
+\ft In August, July... in July bears still go without fat.
+\ELANBegin 00:08:16.480
+\ELANEnd 00:08:31.660
+\ELANParticipant AS
+\ru В августе, июль.. июле медведь еще без жира ходит.
+\comment
+\ev Августла, июль.. июльдула кобылан унэт ач имшылэ гиркывачидёттэн.
+
+\id Adukanov_Sergej_life_072
+\ref
+\tx Ọralbụt                            keńeli uŋ... keńelič    uŋŋoːtten.
+\mb ọrọn              -L  -W   -t(I)        keńeli uŋ keńeli -Č   uŋ -WEːČ -R(E)   -n(I)
+\ps n                                       adj    v  adj         v                     
+\ge domestic.reindeer -pl -acc -poss.1pl.in bad    do bad    -ins do -gnr  -nonfut -3sg 
+
+\ft The damage the reindeer (lit: do them bad).
+\ph
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 53:40) ọralba keńeli - he does damage to the reindeer; ọraldụ keńelič uŋŋoːtten (though not sure
+if this isn't rather Russian); ọralba keńelič nekkoːtten/uŋŋoːtten = on olenej ploxo delaet, ploxo derzhit
+\ELANBegin 00:08:31.660
+\ELANEnd 00:08:34.620
+\ELANParticipant AS
+\ru Оленям плохо ууу... плохо делает.
+\comment
+\ev Орылбы кэнелич уууу... кэнелич унӈоттын.
+
+\id Adukanov_Sergej_life_073
+\ref
+\tx Ịkụtịč,   ọːnka    goːweːtte,          ọralba                  debboːtten.
+\mb ịkụt     -E  -Č   ọːn =kkE goːn -WEːČ -R(E)   ọrọn              -L  -W   dʒep -WEːČ -R(E)   -n(I)
+\ps adv               pron     v                  n                          v                       
+\ge straight -ep -ins how =ptl say  -gnr  -nonfut domestic.reindeer -pl -acc eat  -gnr  -nonfut -3sg 
+
+\ft He just ... how does one say it... eats the reindeer.
+\ph
+\ELANBegin 00:08:34.620
+\ELANEnd 00:08:48.820
+\ELANParticipant AS
+\ru Прямо, как же говарят, оленей... съедает.
+\comment
+\ev Икутыч, онкэ говаттэ, орылбы... дебботтын.
+
+\id Adukanov_Sergej_life_074
+\ref
+\tx Nasakkọːttanda                    ńan   orroːtten               tadụk       uŋiddʒoːtten.
+\mb nasak      -WEːČ -R(E)   -n(I) =DE  ńaːn hor -WEːČ -R(E)   -n(I) tarak -DUk(U) uŋ -E  -D    -WEːČ -R(E)   -n(I)
+\ps v                                   adv  v                       pron          v                               
+\ge tear(trns) -gnr  -nonfut -3sg  =ptl and  go  -gnr  -nonfut -3sg  dist  -abl    do -ep -prog -gnr  -nonfut -3sg 
+\ft He tears them and then goes away from there.
+\ELANBegin 00:08:48.820
+\ELANEnd 00:08:55.960
+\ELANParticipant AS
+\ru Рвет их иногда и потом уходит оттуда.
+\comment
+\ev Насыкқоттында, нян орроттын тадук,
+
+\id Adukanov_Sergej_life_075
+\ref
+\tx Ŋeːlukide                keńeli biweːtten,             ọːnka
+\mb ŋeːl      -U    -kI   =DE  keńeli bi -WEːČ -R(E)   -n(I) ọːn =kkE
+\ps v                          adj    v                      pron    
+\ge be.afraid -caus -adjr =ptl bad    be -gnr  -nonfut -3sg  how =ptl
+\ft Wolves are bad, too.
+\ph biweːttene with final vowel added; not really clear whether he says ọːnka at the end or just coughs a bit - some noises
+\ELANBegin 00:08:55.960
+\ELANEnd 00:09:01.460
+\ELANParticipant AS
+\ru Вытворяет дела и волк тоже. Плохие бывают, как же,
+\comment
+\ev ӈэлукида Кэняли бивэттэ, онқэ
+
+\id Adukanov_Sergej_life_076
+\ref
+\tx Ŋịndụkta       ekičeː
+\mb ŋịn -DUk(U) =DE  ekič =eː  
+\ps n                adv       
+\ge dog -abl    =ptl ints =emph
+
+\ft stronger than wolves
+\ph
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 56:30), ekičeː eŋi = silno silno, ekič = usilivaet;  voobshe prevosxodit sobaku volk; erek bej ekič
+(this person is strong)? she then said, yes ekičeː eŋi - so that already indicated that ekič wasn't 'strong', it's just a general intensifyer; erek bej
+ekič = da, on bolshe, luchshe, silnee kachestvami; etot chelovek silno mnogo pjet = ekičeː ọːjaw kọllọttan
+\ELANBegin 00:09:01.460
+\ELANEnd 00:09:05.500
+\ELANParticipant AS
+\ru  собак сильнее... - 
+\comment
+\ev , ӈиндукта экиче...  -
+
+\id Adukanov_Sergej_life_076b
+\ref
+\tx ńumerde
+\mb ńumer  =DE 
+\ps n          
+\ge fright =ptl
+
+\ft terrible
+\ph
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 59:00) ńumerde from ńumer (she makes a point of pronouncing it ńumyr), and then there's
+ńumerde 'stydno'; nọŋan ńumereː = on strashnyj, bi ńumer bihem = ja strashnyj; one cannot say nọŋan ńumerren "on (sejchas) strashnyj";
+on mne strashnyj = nọgan mindu ńumer; ńumer bej = opasnyj, strashnyj chelovek; eŋunde = strashnyj; stydno = ńumerrde (she somehow
+rolls the r, but otherwise I don't hear any difference from ńumer 'strashnyj', and she said there wouldn't be any difference in writing); told
+story about boy who driving through woods pointed out bear tracks and said "ńumerekie" and she said "why stydno?" and he said "strashno
+zhe", , whereas ńumyrykiː would be 'strashno'; mne stydno = mindu ńumerrde (don't know how else to show the strongly rolled r); can also
+say mindu ńumer, but then this means "shekotno" - so it would seem to be yet a third root.... it's all very opaque; mne stydno = mindu
+ńumera (clear a at the end...), ja styzhusj = bi ńumerinam, ńumeriram --> so the vowel quality of this word isn't really clear, whether it's
+ńumer 'strashnyj' and ńụmer/ńụmar 'stydno'
+\ELANBegin 00:09:05.500
+\ELANEnd 00:09:08.660
+\ELANParticipant AS
+\ru страшные 
+\ev нюмырдэ
+
+\id Adukanov_Sergej_life_076c
+\ref
+\tx Nasakkọːttanda,                   orroːttende.
+\mb nasak      -WEːČ -R(E)   -n(I) =DE  hor -WEːČ -R(E)   -n(I) =DE 
+\ps v                                   v                           
+\ge tear(trns) -gnr  -nonfut -3sg  =ptl go  -gnr  -nonfut -3sg  =ptl
+\ft It tears (reindeer) and leaves.
+\ph
+\ELANBegin 00:09:08.660
+\ELANEnd 00:09:10.840
+\ELANParticipant AS
+\ru рвут тоже и уходят.
+\ev насыкқоттында,  орротында.
+
+\id Adukanov_Sergej_life_077
+\ref
+\tx Ńan   ụlịčan  emmoːtten,               debidʒilloːttende.
+\mb ńaːn hụlịčan em   -WEːČ -R(E)   -n(I) dʒep -E  -D    -E  -L    -WEːČ -R(E)   -n(I) =DE 
+\ps adv  n       v                        v                                                
+\ge and  fox     come -gnr  -nonfut -3sg  eat  -ep -prog -ep -inch -gnr  -nonfut -3sg  =ptl
+\ft Then the fox comes and starts to eat.
+\ELANBegin 00:09:10.840
+\ELANEnd 00:09:18.740
+\ELANParticipant AS
+\ru Потом лиса приходит, начинает есть.
+\comment
+\ev Нян улычан эммоттэн, дибыдиллоттында.
+
+\id Adukanov_Sergej_life_078
+\ref
+\tx Ọrdụlị              gịakịw     ittiwu,            čụkačalka.
+\mb ọrọn              -(dU)LI gịakị   -W   it  -RI  -W        čụkačaːn -L  =kkE
+\ps n                         pron         v                  n                
+\ge domestic.reindeer -prol   various -acc see -pst -poss.1sg bird     -pl =ptl
+
+\ft In the herds I saw various things, birds.
+\ph čụːkačalkụ
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 1:05:00) not really clear what he says at the end, RME suggested possibly as transcribed, pticy
+zhe; it might have been this plus some form of accusative -u that snuck in; if he'd said "I saw birds" it would have been čụkačarba
+\ELANBegin 00:09:18.740
+\ELANEnd 00:09:27.540
+\ELANParticipant AS
+\ru В табуне всяких видел птиц же.
+\comment
+\ev Ордулы гекив иттыву чукачамка.
+
+\id Adukanov_Sergej_life_079
+\ref
+\tx Ọllawda        bejčiweːttu          ịkụtịč.
+\mb ọlra -W   =DE  bejči -WEːČ -(R)U   ịkụt     -E  -Č  
+\ps n              v                   adv              
+\ge fish -acc =ptl hunt  -gnr  -1pl.ex straight -ep -ins
+\ft And fish we caught directly (without problems).
+\ph
+\gr ịkụtịč = bez problem
+\ELANBegin 00:09:27.540
+\ELANEnd 00:09:31.380
+\ELANParticipant AS
+\ru И рыбу ловили прямо.
+\comment
+\ev Оллывда быйчивэтту иқутыч.
+
+\id Adukanov_Sergej_life_080
+\ref
+\tx Dagrịt uŋŋoːttu         tipkiru     gawaːttụ                  ńan   ịkụtịč    ọkaːtlị
+\mb dagrịt uŋ -WEːČ -(R)U   tipkir -W   ga   -WEːČ -R(E)   -(R)U   ńaːn ịkụt     -E  -Č   ọkaːt -(dU)LI
+\ps adv    v                n           v                          adv  adv               n            
+\ge simply do -gnr  -1pl.ex nail   -acc take -gnr  -nonfut -1pl.ex and  straight -ep -ins river -prol  
+\ft We did it simply, took a nail and straight along the river...
+\ph
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 1:07:00) ọkatlị = po reke, ọkatla = the same thing, no big difference; tọgdụlị (next record) = na
+kostre, could have said tọgdụla, no difference 
+\ELANBegin 00:09:31.380
+\ELANEnd 00:09:39.640
+\ELANParticipant AS
+\ru Просто делали, гвоздь брала, и прямо по речке...
+\comment
+\ev Дарит унӈотту, типкиру гаватту, нян икутыч окатлы...
+
+\id Adukanov_Sergej_life_081
+\ref
+\tx Ńan   dalgịtčọːttụ   tọgdụlị.
+\mb ńaːn dalgat -WEːČ -(R)U   tọg  -(dU)LI
+\ps adv  v                    n           
+\ge and  roast  -gnr  -1pl.ex fire -prol  
+\ft And roasted (the fish) in the fire.
+\ph
+\gr see previous record: could have said tọgdụla
+\ELANBegin 00:09:39.640
+\ELANEnd 00:09:42.380
+\ELANParticipant AS
+\ru И пекли на огне.
+\comment
+\ev Нян далгытчётту тодулы.
+
+\id Adukanov_Sergej_life_082
+\ref
+\tx Tarịt    dʒebboːttu.
+\mb tarak -Č   dʒep -WEːČ -(R)U  
+\ps pron       v                 
+\ge dist  -ins eat  -gnr  -1pl.ex
+\ft That we ate.
+\ph
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 1:08:00) taraw dʒebboːttu = eto eli, tarịt dʒebboːttu = etim pitalisj (postojanno, korm ix); 
+\ELANBegin 00:09:42.380
+\ELANEnd 00:09:45.300
+\ELANParticipant AS
+\ru Этим питались.
+\comment
+\ev Тарич дебботту.
+
+\id Adukanov_Sergej_life_083
+\ref
+\tx Ereger  kosčiddʒoːttu                    sentjabrịkla           ńan   karalizacija ọːwaːttịn,
+\mb ereger kusči         -D    -WEːČ -(R)U   sentjabr    -E  -klE     ńaːn koralizacija ọː     -WEːČ -RI  -n(I)    
+\ps adv    v                                 n                        adv  n            v                          
+\ge always herd.reindeer -prog -gnr  -1pl.ex September.R -ep -all.loc and  corraling.R  become -gnr  -pst -poss.3sg
+
+\tx taŋadʒịllọːttụ              ọralba                  ọːn, adịːw      ọːddịn.
+\mb taŋ  -E  -D    -L    -WEːČ -(R)U   ọrọn              -L  -W   ọːn adịː     -W   ọː     -D    -RI  -n(I)    
+\ps v                                  n                          pron n             v                          
+\ge read -ep -prog -inch -gnr  -1pl.ex domestic.reindeer -pl -acc how how.much -acc become -prog -pst -poss.3sg
+
+\ft We always herded till September, then the corralization started, we started to count the reindeer to see how many they'd become.
+\ph eregeːːːːːːːːːr
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 1:10:00) adị ọːddịn = adịw ọːddịn, no difference in meaning
+\ELANBegin 00:09:45.300
+\ELANEnd 00:09:57.080
+\ELANParticipant AS
+\ru Всегда пасли до сентября, Потом корализация наступала.
+\comment
+\ev Эрыыр косчиддётту сентябрьыкла, Нян корализация оваттын (?таду ...орол он ??).
+
+\id Adukanov_Sergej_life_085
+\ref
+\tx Ajịčeː         kosčiweːtmi                  saxrannastj    egdʒen biweːtten.
+\mb aj   -E  -Č   =eː   kosči              -WEːČ -mI soxrannostj    egdʒen bi -WEːČ -R(E)   -n(I)
+\ps adj                 v                            n              adj    v                     
+\ge good -ep -ins =emph herd.reindeer(day) -gnr  -vr preservation.R big    be -gnr  -nonfut -3sg 
+\ft If we herded well, there's a big preservation (of numbers).
+\ph kụsčịwaːtmị - clear u in beginning and a in generic!!
+\ELANBegin 00:09:57.080
+\ELANEnd 00:10:02.840
+\ELANParticipant AS
+\ru Если хорошо пасли - сохранность большая бывает тогда.
+\comment
+\ev Аиче кусчивэтми - сохранность эгден бивэттын.
+
+\id Adukanov_Sergej_life_086
+\ref
+\tx Mhm... omen vetvrač, adịː ọran brigada zweno biweːtten?
+\mb
+\ge
+\ft One vet, how many reindeer are there in one brigade? (Intended: how many reindeer brigades does one vet need to look after?)
+\ELANBegin 00:10:02.840
+\ELANEnd 00:10:13.900
+\ELANParticipant BP
+\ru Ммм... один ветврач - сколько олень бригада звено бывает тогда?
+\comment
+\ev Мммм... умэн ветврач - ады орэн бригада звено биваттэн нян?
+
+\id Adukanov_Sergej_life_087
+\ref
+\tx Ere  Xaịlịnọ gurgeːdmi        biː sọvxọstụ     omekken omen biː vetvrač bisiwu.
+\mb erek Xaịlịna gurgeː -D    -mI biː sovxoz        -DU  omekken omen biː vetvrač bi -RI  -W       
+\ps pron ?       v                pron n                  ?       num  pron n       v                
+\ge prox Xailino work   -prog -vr 1sg soviet.farm.R -dat alone   one  1sg vet.R   be -pst -poss.1sg
+
+\ft When I worked alone in Xailino in the sovxoz, I was the only vet.
+\ph
+\gr gurgedmi - wrong form, should be gurgeːwčidmi, gurgeː = the noun
+\ELANBegin 00:10:12.840
+\ELANEnd 00:10:17.820
+\ELANParticipant AS
+\ru В х(?Х)аилино работая в одиночестве, один я ветврач был.
+\comment
+\ev Хаилино гургэдми (???) умыккэн, умэн би ветврач бисиву.
+
+\id Adukanov_Sergej_life_088
+\ref
+\tx Adịːda    tụŋŋan mịar     brigada   bisin.
+\mb adịː =DE  tụnŋan mịan -L  brigada   bi -RI  -n(I)    
+\ps quant     num    num      n         v                
+\ge some =ptl five   ten  -pl brigade.R be -pst -poss.3sg
+\ft There were a lot, 50 brigades.
+\ELANBegin 00:10:17.820
+\ELANEnd 00:10:23.700
+\ELANParticipant AS
+\ru Много - пятьдесят бригад было.
+\comment
+\ev Адыда - тунӈын мяр бригада бисын.
+
+\id Adukanov_Sergej_life_089
+\ref
+\tx Ereger mụranịč,   aːlgịnda  gịrkawaːčịddʒọːttam.
+\mb ereger mụran -E  -Č   halgan  =DE  gịrka -WEːČ -E  -D    -WEːČ -R(E)   -m  
+\ps adv    n              adv          v                                       
+\ge always horse -ep -ins on.foot =ptl walk  -gnr  -ep -prog -gnr  -nonfut -1sg
+\ft Always by horse, and I used to always go on foot.
+\ELANBegin 00:10:23.700
+\ELANEnd 00:10:29.340
+\ELANParticipant AS
+\ru Всегда на лошадях, и пешком ходил всегда.
+\comment
+\ev Эрыыр мурыныч, алгында гирқывачиддёттым.
+
+\id Adukanov_Sergej_life_090
+\ref
+\tx Edu       atkịkam      kaltakụ         biddʒoːttem                 ńan   časkị         nulgeddʒoːttem
+\mb erek -DU  atkịkan -W   kaltar -k(E) -W   bi -D    -WEːČ -R(E)   -m   ńaːn čaːg -skI      nulge   -D    -WEːČ -R(E)   -m  
+\ps pron      n            v                 v                           adv  adj            v                               
+\ge prox -dat moon    -acc crack  -nr   -acc be -prog -gnr  -nonfut -1sg and  far  -advb.all migrate -prog -gnr  -nonfut -1sg
+
+\tx untetki.
+\mb honte -t(E)kI
+\ps adj          
+\ge other -all   
+
+\ft I am here for half a month and move on to a different (place).
+\ph
+\gr 30.01.13 (questions4, 18:35) kaltak = half, derived from kaltaC-, the verb of destruction meaning 'split, crack' - and probably it's derived from
+the basic underlying non-existent in real speech root kalta- rather than from any specific form, so I arbitrarily chose kaltar-; so there is kaltak
+'half' and kaltakụ 'tresnutyj'; gaːd 'half' = half of a whole, or half of a pair of shoes, e.g. ile gaːdan ụntas 'where is your other boot'; for 'half a
+month one uses kaltak --> maybe/probably because it's a more approximate half, give or take a few days (and gaːd is exactly half)
+\ELANBegin 00:10:29.340
+\ELANEnd 00:10:38.580
+\ELANParticipant AS
+\ru Здесь месяца половинку был, и дальше качую в другое место.
+\comment
+\ev Эду а... аткиқам қалтыку биддёттым, нян часки нульгыддёттым унтытки.
+
+\id Adukanov_Sergej_life_091
+\ref
+\tx Ńan   tačịn       ereger ineŋu     čupterem.
+\mb ńaːn tarọːčịn  ereger ineŋ -W   čoptere      -n(I)     -W  
+\ps adv  pron      adv    n         adv                        
+\ge and  dist.qual always day  -acc all.the.time -poss.3sg -acc
+
+\ft And always like that, the entire day/for entire days.
+\ph
+\gr 30.01.13 (questions4, 21:10) it's not entirely clear what exactly he says, it could be just ineŋu čuptere = tselymi dnjami, or it could be ineŋu
+čupterem (which is what it sounds like and looks like in the video) = vesj etot denj
+\ELANBegin 00:10:38.580
+\ELANEnd 00:10:42.580
+\ELANParticipant AS
+\ru И так всегда целыми днями.
+\comment
+\ev Нян тачин эрыыр иныӈу чуптырэ.
+
+\id Adukanov_Sergej_life_092
+\ref
+\tx Begdečidmide                        biddʒoːttem,                belloːttem.
+\mb beg      -DE -Č   -E  -D    -mI =DE  bi -D    -WEːČ -R(E)   -m   bel  -WEːČ -R(E)   -m  
+\ps v                                    v                           v                      
+\ge medicine -vr -res -ep -prog -vr =ptl be -prog -gnr  -nonfut -1sg help -gnr  -nonfut -1sg
+\ft Also when I healed (worked as a vet) I used to be (in the herds), I used to help.
+\ELANBegin 00:10:42.580
+\ELANEnd 00:10:48.240
+\ELANParticipant AS
+\ru И когда лечил был, помогал.
+\comment
+\ev Бэдэчидмидэ биддёттым, бэллоттэм.
+
+\id Adukanov_Sergej_life_093
+\ref
+\tx Temujoddʒoːttude                   brakovkawke           keńeliw,    keńeliw.
+\mb temujo    -D    -WEːČ -(R)U   =DE  brakovka    -W   =kkE keńeli -W   keńeli -W  
+\ps v                                  n                     adj         adj        
+\ge slaughter -prog -gnr  -1pl.ex =ptl rejection.R -acc =ptl bad    -acc bad    -acc
+
+\ft And we slaughtered the bad ones, rejected them (for the herd).
+\ph
+\gr
+\nt They slaughter the weak reindeer (which would die of their accord anyway), i.e. they sort which ones to keep and which to slaughter
+\ELANBegin 00:10:48.240
+\ELANEnd 00:10:54.040
+\ELANParticipant AS
+\ru Забивали оленей - выбраковка же плохих, плохих. 
+\comment
+\ev Тэмуёддётуддэ - браковкавки кэняли, кэняли.
+
+\id Adukanov_Sergej_life_094
+\ref
+\tx Elegel              gurgewčidmi          vezdexodịč    ereger ili  vertaljotič         deggoːttu          ...,  aːlgịn
+\mb erek -(dU)LE =gEl   gurgeːwči -D    -mI vezdexod -E  -Č   ereger ili  vertolet     -E  -Č   deg -WEːČ -(R)U   *... halgan 
+\ps pron                v                   n                 adv    conj n                     v                 ?    adv    
+\ge prox -loc    =coord work      -prog -vr ATV.R    -ep -ins always or.R helicopter.R -ep -ins fly -gnr  -1pl.ex ***  on.foot
+
+\tx ečiwu             ...  gịrkawaːtta.
+\mb e   -RI  -W        *... gịrka -WEːČ -R      
+\ps v                  ?    v                   
+\ge neg -pst -poss.1sg ***  walk  -gnr  -neg.cvb
+
+\ft And while working here we always (went) by all-terrain vehicle or flew by helicopter, I didn't go on foot.
+\ph he mumbles after deggoːttu and before gịrkawaːtta, but it really cannot be made out at all
+\ELANBegin 00:10:54.040
+\ELANEnd 00:11:03.840
+\ELANParticipant AS
+\ru Здесь же работая на вездеходе или на вертолете летали, пешком не  ходил.
+\comment
+\ev Элэыл кургэвчидми вездеходыч эрыыр или вертолётыч дэотчётту,  алгын эчиву гиркыватты.
+
+\id Adukanov_Sergej_life_095
+\ref
+\tx Trudnaja rabota. A bọlọnịdụ koralizacija bidmi omen vetvrač, ọːja zveno, ọːn?
+\mb
+\ge
+\ft Difficult work. And in autumn, when there's the corraling and there's one vet and many brigades, how (do you do that)?
+\ELANBegin 00:11:03.820
+\ELANEnd 00:11:20.280
+\ELANParticipant BP
+\ru Трудная работа. А осенью когда корализация бывает, один ветврач,  много звеньев - КАК?
+\comment
+\ev Трудная работа. А болыниду корализация бидми умын ветврач, оя звено -  он?
+
+\id Adukanov_Sergej_life_096
+\ref
+\tx Aa, tačịntịtta     ...  vezdexodịč    orroːttu.
+\mb aa tarọːčịn  =tIt *... vezdexod -E  -Č   hor -WEːČ -R(E)   -(R)U  
+\ps excl pron           ?    n                 v                        
+\ge ah dist.qual =ptl ***  ATV.R    -ep -ins go  -gnr  -nonfut -1pl.ex
+
+\ft Ah, we go by all-terrain vehicle, just like that.
+\ph urroːttu; says something between tačịntịtta and vezdexodịč that cannot be understood
+\ELANBegin 00:11:20.240
+\ELANEnd 00:11:24.760
+\ELANParticipant AS
+\ru А! так же на вездеходе уезжаем.
+\comment
+\ev А! тачинтытта вездеходыч орротту.
+
+\id Adukanov_Sergej_life_097
+\ref
+\tx Ọːjeː      ibdiri biweːtten.
+\mb họːja =eː   ibdiri bi -WEːČ -R(E)   -n(I)
+\ps quant       n      v                     
+\ge many  =emph people be -gnr  -nonfut -3sg 
+\ft There are always a lot of people.
+\ELANBegin 00:11:24.760
+\ELANEnd 00:11:26.680
+\ELANParticipant AS
+\ru Много народу бывает.
+\comment
+\ev Оя ибдири бивэттын.
+
+\id Adukanov_Sergej_life_098
+\ref
+\tx Tam     karalịlba          ọːčịdmị,              ọːččọːtta          karalịlba,         ittis,
+\mb tam     koral    -E  -L  -W   ọː   -Č   -E  -D    -mI       ọː   -Č   -WEːČ -R(E)   koral    -E  -L  -W   it  -RI  -s(I)    
+\ps adv     n                     v                             v                       n                     v                 
+\ge there.R corral.R -ep -pl -acc make -res -ep -prog -cond.cvb make -res -gnr  -nonfut corral.R -ep -pl -acc see -pst -poss.2sg
+
+\tx ečis?
+\mb e   -RI  -s(I)    
+\ps v                 
+\ge neg -pst -poss.2sg
+
+\ft Making corrals there, they make corrals, have you seen that or not?
+\ELANBegin 00:11:26.680
+\ELANEnd 00:11:32.500
+\ELANParticipant AS
+\ru Вот корали строя, строят корали, Видела? Не видеа?
+\comment
+\ev Тар  коралилбы очидми, оччоты коралилбэ, Иттыш? Эчиш?
+
+\id Adukanov_Sergej_life_100
+\ref
+\tx Jakutijala...
+\mb
+\ge
+\ft In Yakutia...
+\ELANBegin 00:11:32.180
+\ELANEnd 00:11:34.920
+\ELANParticipant BP
+\ru
+\comment
+\ev (...Якутия...?)
+
+\id Adukanov_Sergej_life_101
+\ref
+\tx Tadụ     emmoːttu            a...  gịakịw     uŋiddʒoːtte,               a     biː
+\mb tarak -DU  em   -WEːČ -(R)U   a.R   gịakị   -W   uŋ -E  -D    -WEːČ -R(E)   a.R   biː
+\ps pron       v                  ?     pron         v                          ?     pron
+\ge dist  -dat come -gnr  -1pl.ex but.R various -acc do -ep -prog -gnr  -nonfut but.R 1sg
+
+\tx ụkọlịddʒọːttamtakan                      omen, omen.
+\mb ukol        -E  -D    -WEːČ -R(E)   -m   =t(E)kEn omen omen
+\ps v                                                 num  num 
+\ge injection.R -ep -prog -gnr  -nonfut -1sg =restr   one  one 
+
+\ft We come there and ... they do various things, and I just give injections, alone.
+\ph in beginning could be tala or tadụ, not clear
+\gr 30.01.13 (questions4, 26:30) omen, omen repeated like this here means only "alone", "one after the other"= amargịltakan
+\ELANBegin 00:11:34.900
+\ELANEnd 00:11:43.820
+\ELANParticipant AS
+\ru Приезжаем, э... всякое делали, А я только уколы делал один, один.
+\comment
+\ev Эммотту, э... гекив уӈыддётты, А би уколыддёттымтыкан умэн, умэн.
+
+\id Adukanov_Sergej_life_103
+\ref
+\tx Ineŋu     čuptere     tịsịča paltary,       dve,    talị        severduli.
+\mb ineŋ -W   čoptere      tysjača    poltora        dve     tarak -(dU)LI sever   -(dU)LI
+\ps n         adv          n          num            num     pron          n              
+\ge day  -acc all.the.time thousand.R one.and.half.R two.F.R dist  -prol   north.R -prol  
+\ft The whole day through, one thousand, one and a half thousand, two thousand, there in the north.
+\ph
+\ELANBegin 00:11:43.820
+\ELANEnd 00:11:51.600
+\ELANParticipant AS
+\ru Один день целый тысяча, полторы, две - там на севере.
+\comment
+\ev Умэн иныӈу чуптырэ тысяча, полторы, две - тали севердули.
+
+\id Adukanov_Sergej_life_104
+\ref
+\tx Ńan   ineŋ... ịlam      ineŋu     biweːttu          omendule     ńan   časkị         oreddʒoːttu.
+\mb ńaːn ineŋ ịlan  -W   ineŋ -W   bi -WEːČ -(R)U   omen -(dU)LE ńaːn čaːg -skI      hor -E  -D    -WEːČ -(R)U  
+\ps adv  ?    num        n         v                num          adv  adj            v                          
+\ge and  day  three -acc day  -acc be -gnr  -1pl.ex one  -loc    and  far  -advb.all go  -ep -prog -gnr  -1pl.ex
+\ft And we stay three days in one (place) and go on.
+\ELANBegin 00:11:51.600
+\ELANEnd 00:11:58.740
+\ELANParticipant AS
+\ru И вот три, три дня бываем на одном месте, потом дальше уезжаем.
+\comment
+\ev Нян илым, илым иныӈу бивэтту умындулэ, нян часки урыддётту.
+
+\id Adukanov_Sergej_life_105
+\ref
+\tx Tačịn       atkịkam      atkịkam      boːweːtte          omem      štob     ńan   ọddakụn.
+\mb tarọːčịn  atkịkan -W   atkịkan -W   boː  -WEːČ -R(E)   omen -W   čtoby     ńaːn ọd   -DE       -WUn        
+\ps pron      n            n            v                  num       conj      adv  v                          
+\ge dist.qual moon    -acc moon    -acc give -gnr  -nonfut one  -acc so.that.R and  stop -purp.cvb -poss.1pl.ex
+\ft Like that they give one month, one, so that we finish.
+\ELANBegin 00:11:58.740
+\ELANEnd 00:12:04.160
+\ELANParticipant AS
+\ru Так месяц, месяц дают один чтоб мы закончили.
+\comment
+\ev Тачин аткиқам, аткиқам бовэтты умым, чтоб нян оддақун.
+
+\id Adukanov_Sergej_life_106
+\ref
+\tx Ńan   tadụk       vybrakovkada     biweːtten,             ńan   temujolteki           ọralbụ
+\mb ńaːn tarak -DUk(U) vybrakovka  =DE  bi -WEːČ -R(E)   -n(I) ńaːn temujo    -L  -t(E)kI ọrọn              -L  -W  
+\ps adv  pron          n                v                      adv  v                     n                         
+\ge and  dist  -abl    rejection.R =ptl be -gnr  -nonfut -3sg  and  slaughter -pl -all    domestic.reindeer -pl -acc
+
+\tx aːntakịn,            ajịlbụ   ńanda      kusčineweːtte,                      orroːtte.
+\mb haːn  -t(E)kI -n(I)     aj   -L  -W   ńaːn =DE  kusči         -nE     -WEːČ -R(E)   hor -WEːČ -R(E)  
+\ps quant                   adj           adv       v                                   v                
+\ge other -all    -poss.3sg good -pl -acc and  =ptl herd.reindeer -intent -gnr  -nonfut go  -gnr  -nonfut
+
+\ft And afterwards there's the sorting, and the reindeer to be slaughtered to one side, and the good ones they go to herd again, they leave.
+\ph ọralbị, ajịlbị
+\gr 30.01.13 (questions4, 30:00) ọralbị = svoix olenej, ọralbe = olenej - so basically the accusative marker after plural -L could be -bA, but is
+pronounced as shwa, and that sounds very much like the poss.reflexive; 06.02.13 (questions14, 33:45) aːntakịn - he says aːntakAn, but he
+waves his hand in one direction, then waves in the other direction for those that are herded further, so that we figured that he meant to say
+aːntakịn "k drugim"
+\nt
+\ELANBegin 00:12:04.160
+\ELANEnd 00:12:15.680
+\ELANParticipant AS
+\ru И после выбраковка бывает. На забой оленей , ostalnye Хороших опять идут пасти,
+\comment
+\ev Нян тадук, выбраковкада бивэттэн. Нян... тымуёлтыки орылбы, онтықан, Аилбы нянда кусчинэвэтты (?борэттэ)
+
+\id Adukanov_Sergej_life_108
+\ref
+\tx Tačịn       bọrịwaːttam.
+\mb tarọːčịn  bọrị  -WEːČ -R(E)   -m  
+\ps pron      v                       
+\ge dist.qual share -gnr  -nonfut -1sg
+
+\ft I divided (them) like that.
+\ph
+\gr 30.01.13 (questions4, 32:20) bọrị- = both share and divide, or basically divide something and then (perhaps) share, i.e. vydeljaju (ja vydeljaju
+olenej, ja vydeljaju chastj i daju tebe - I made up these sentences, she said vydeljaju); biː bọrịram indu = ja vydeljaju tebe
+\ELANBegin 00:12:15.680
+\ELANEnd 00:12:19.920
+\ELANParticipant AS
+\ru  так делили.
+\comment
+\ev , тачин бориватту.
+
+\id Adukanov_Sergej_life_109
+\ref
+\tx A tiːk ọrdụ esenni gịrka...?
+\mb
+\ge
+\ft (intended) And now you don't go to the herd anymore?
+\ELANBegin 00:12:19.840
+\ELANEnd 00:12:29.100
+\ELANParticipant BP
+\ru А сейчас в табуне не бываешь?
+\comment
+\ev А тик орду эсэнны бивэттинны?
+
+\id Adukanov_Sergej_life_110
+\ref
+\tx Biweːttem,             olloːčiddʒoːttem.
+\mb bi -WEːČ -R(E)   -m   hollot -E  -D    -WEːČ -R(E)   -m  
+\ps v                     v                                  
+\ge be -gnr  -nonfut -1sg go     -ep -prog -gnr  -nonfut -1sg
+\ft I am, I go.
+\ELANBegin 00:12:27.160
+\ELANEnd 00:12:31.360
+\ELANParticipant AS
+\ru Бываю, езжу.
+\comment
+\ev Бивэттым, оллёчиддёттым.
+
+\id Adukanov_Sergej_life_111
+\ref
+\tx Min     aːnịlbụ           ele          biweːtte          ọːjal     gịakị, Kirjak Adukanov...
+\mb min     aːnị     -L  -W        erek -(dU)LE bi -WEːČ -R(E)   họːja -L  gịakị   Kirjak Adukanov
+\ps pron    n                      pron         v                quant     pron    ?      ?       
+\ge 1sg.obl relative -pl -poss.1sg prox -loc    be -gnr  -nonfut many  -pl various Kirjak Adukanov
+\ft I have a lot of different relatives here, Kirjak Adukanov...
+\ELANBegin 00:12:31.360
+\ELANEnd 00:12:38.020
+\ELANParticipant AS
+\ru Моих родственников здесь бывает много всяких, Кирьяк Адуканов...
+\comment
+\ev Мин анилбу элэ бивэттэ оял геки, Кирьяк Адуканов...
+
+\id Adukanov_Sergej_life_112
+\ref
+\tx Olloːttem          tugenidu,   orroːttem               djekabrla          olneweːttem.
+\mb hollot -R(E)   -m   tugeni -DU  hor -WEːČ -R(E)   -m   dekabr'    -(dU)LE holne -WEːČ -R(E)   -m  
+\ps v                   n           v                      n                  v                       
+\ge go     -nonfut -1sg winter -dat go  -gnr  -nonfut -1sg December.R -loc    visit -gnr  -nonfut -1sg
+
+\ft I go in winter, I go in December, go to visit.
+\ph holloːttem, holnawaːttụ
+\gr 30.01.13 (questions4, 34:00) I clearly hear Holloːttem, Holneweːttem, but RME didn't hear the h-, so I'll leave it as is (I said "I hear Holloːttem"
+and she said "da, olloːttem");  olloːttem =ezzhu, orroːttem = uezzhaju (in a way, it looks as if holloːt- would be the inchoative-generic of hor- -
+but the meanings don't fit, because 'uezzhaju' would be more inchoative than 'ezzhu')
+\ELANBegin 00:12:38.020
+\ELANEnd 00:12:44.460
+\ELANParticipant AS
+\ru Уезжаю зимой, уезжаю в декабре - в гости еду.
+\comment
+\ev Орроттым туыниду, орроттым декабрьла - олнэвэттым.
+
+\id Adukanov_Sergej_life_113
+\ref
+\tx Ńan   nọŋan čitvjortyj zvenola,       pjatyj  zvenola        Petja... Aa Ljonja Adukanov, šestoj Petjada.
+\mb ńaːn nọŋan četvёrtyj zveno  -(dU)LE pjatyj  zveno  -(dU)LE Petja aa Lёnja  Adukanov šestoj  Petja =DE 
+\ps adv  pron  adj       n              adj     n              ?     excl ?      ?        adj     ?         
+\ge and  3sg   fourth.R  link.R -loc    fifth.R link.R -loc    Petja ah Ljonja Adukanov sixth.R Petja =ptl
+\ft And he's in the fourth brigade, in the fifth brigade is Petja... eh Ljonja Adukanov (is in the fifth brigade), in the sixth is Petja.
+\ph
+\nt 'zveno' is a Russian word meaning the links in a chain, and it is used to refer to the different brigades making up the State farm; in Sebjan
+Küöl, the same concept is expressed by the Russian word stado 'herd'
+\ELANBegin 00:12:44.460
+\ELANEnd 00:12:53.980
+\ELANParticipant AS
+\ru И вот он в четвертом звене, в пятом звене - Петя...А! Лёня Адуканов,  шестой - Петя же.
+\comment
+\ev Нян ноӈын четвертый звенола, пятый звенола - Петя... А! Лёня  Адуканов, шестой - Петяда.
+
+\id Adukanov_Sergej_life_114
+\ref
+\tx Ereger nọŋartan minu         ajịč      uŋŋoːtte.
+\mb ereger nọŋartan min     -W   aj   -E  -Č   uŋ -WEːČ -R(E)  
+\ps adv    pron     pron         adj           v               
+\ge always 3pl      1sg.obl -acc good -ep -ins do -gnr  -nonfut
+\ft They always treat me well.
+\ELANBegin 00:12:53.980
+\ELANEnd 00:13:00.580
+\ELANParticipant AS
+\ru Всегда они ко мне хорошо относятся.
+\comment
+\ev Эрыыр ноӈыртын мину аич уӈӈотты.
+
+\id Adukanov_Sergej_life_115
+\ref
+\tx Ọːnasị     olnemi          belloːttem               nọŋardụtan             ereger.
+\mb ọːn -E  =sI   holne -mI       bel  -WEːČ -R(E)   -m   nọŋan -L  -DU  -tEn      ereger
+\ps pron          v               v                       pron                     adv   
+\ge how -ep =emph visit -cond.cvb help -gnr  -nonfut -1sg 3sg   -pl -dat -poss.3pl always
+\ft Because when I go to visit I always help them.
+\ELANBegin 00:13:00.580
+\ELANEnd 00:13:05.780
+\ELANParticipant AS
+\ru Потому что приезжая в гости помогаю им всегда.
+\comment
+\ev Оноси олнэми бэллёттым ноӈырдутын эрыыр.
+
+\id Adukanov_Sergej_life_116
+\ref
+\tx Xot           omemde         ineŋu     bidmi,             ọrtakị                ereger orroːttem.
+\mb xotj          omen -W   =DE  ineŋ -W   bi -D    -mI       ọrọn              -t(E)kI ereger hor -WEːČ -R(E)   -m  
+\ps ptl           num            n         v                  n                         adv    v                     
+\ge even.though.R one  -acc =ptl day  -acc be -prog -cond.cvb domestic.reindeer -all    always go  -gnr  -nonfut -1sg
+\ft If I am (there) for only one day, I always go to the herd.
+\ph
+\gr 30.01.13 (questions4, 36:15) When I asked about the first word - which Rimma had transcribed as kọč, but which to me seemed to be the
+Russian word xotj - RME repeated kọč at first, but then agreed that it is xotj; in Even xotj --> omemdewul ineŋu bidmi "xotj 1 denj"
+\ELANBegin 00:13:05.780
+\ELANEnd 00:13:10.260
+\ELANParticipant AS
+\ru Хоть один день бывая в табун всегда ухожу.
+\comment
+\ev Қоч умымда иныӈу бидми - ортыки эрыыр орроттым.
+
+\id Adukanov_Sergej_life_117
+\ref
+\tx Ịak jurtadụ   tegečiddʒoːttem.
+\mb ịak  jurta  -DU  teg      -E  -Č   -E  -D    -WEːČ -R(E)   -m  
+\ps pron n           v                                             
+\ge what yurt.R -dat sit.down -ep -res -ep -prog -gnr  -nonfut -1sg
+\ft I don't sit in the yurt, right. 
+\ph
+\gr 30.01.13 (questions4, 38:20) RME only accepted the negative translation for this sentence; I had asked whether it literally meant "What would
+I sit in the yurt for.", but she didn't accept that (gave Even translation ịamị bi jurtadu tegečiddʒim for this); so if this construction developped
+out of a pragmatic inference then it's not transparent to speakers (or to RME) anymore
+\ELANBegin 00:13:10.260
+\ELANEnd 00:13:15.420
+\ELANParticipant AS
+\ru Я же в юрте не рассиживаюсь.
+\comment
+\ev Як,(?яқ) юртаду тыычиддёттым.
+
+\id Adukanov_Sergej_life_118
+\ref
+\tx Inastrantsalada           deggoːtčoːttu            ọraltakị.
+\mb inostrancy   -L  -E  =DE  deg -WEːČ -WEːČ -(R)U   ọrọn              -E  -L  -t(E)kI
+\ps n                         v                       n                                
+\ge foreigners.R -pl -ep =ptl fly -gnr  -gnr  -1pl.ex domestic.reindeer -ep -pl -all   
+\ft And with foreigners we fly to the herd.
+\ph
+\gr 30.01.13 (questions4, 39:30) ọraltakị = k olenjam, NOT k tabunam; k tabunu = ọrtakị; 06.02.13 (questions14, ) should have said
+inastrantsalNUNda, with foreigners we fly; she thinks that Sergej Adukanov didn't speak Even as a child and so makes many mistakes; if they
+took the foreigners to many different brigades it would be ọrdụlị
+\ELANBegin 00:13:15.420
+\ELANEnd 00:13:20.820
+\ELANParticipant AS
+\ru С иностранцами летаем к табуну.
+\comment
+\ev Иностранцылада дэотчётту орылтыки.
+
+\id Adukanov_Sergej_life_119
+\ref
+\tx Teːleŋiddʒoːttu               gịakịw     ičukenedmi.
+\mb teːleŋ -E  -D    -WEːČ -(R)U   gịakị   -W   it  -WkEn -E  -D    -mI      
+\ps v                              pron         v                            
+\ge tell   -ep -prog -gnr  -1pl.ex various -acc see -caus -ep -prog -cond.cvb
+\ft We tell and show (them) various things.
+\ph taːleŋiddʒoːttu ičukanadmi
+\ELANBegin 00:13:20.820
+\ELANEnd 00:13:28.120
+\ELANParticipant AS
+\ru Рассказываем всякое показывая.
+\comment
+\ev Тэлеӈыддётту гекив ичукатми.
+
+\id Adukanov_Sergej_life_120
+\ref
+\tx Xorošo, spasibo, ajịč.
+\mb
+\ge
+\ft That's good, thanks.
+\ELANBegin 00:13:28.060
+\ELANEnd 00:13:37.700
+\ELANParticipant BP
+\ru Хорошо, спасибо. Хорошо.
+\comment
+\ev Хорошо, спасибо. Аич.
+
+
+\ELANMediaURL file:///D:/Brigitte PAKENDORF/My Documents/Even project/Dobes/Adukanov_Sergej_life/Adukanov_Sergej_life_Esso_130709.mpeg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///D:/Brigitte PAKENDORF/My Documents/Even project/Dobes/Adukanov_Sergej_life/Adukanov_Sergej_life_Esso_130709.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///D:/Brigitte PAKENDORF/My Documents/Even project/Dobes/Adukanov_Sergej_life/Adukanov_Sergej_life_Esso_130709.mpeg

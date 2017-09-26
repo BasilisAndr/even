@@ -1,0 +1,329 @@
+\_sh v3.0  968  Text
+
+\id Amganova_EP_Ira_000_metadata
+\ref Recorded 27 June 2009 in Esso by Natalia Aralova and Brigitte Pakendorf. NA and BP went to the house of the
+Amganovs on purpose to ask EPA to narrate a recording; this was already the 5th or 6th visit of NA (who had been
+recording the phonological word list with EPA's husband Efim) at the Amganov's house - so the whole set-up with
+video-camera and taking down the loudly ticking clock etc were quite familiar; on the other hand, EPA was clearly
+getting somewhat fed up with linguists and their incessant wishes to record things.  We talked a bit beforehand in Russian
+about what she could tell, and she told several little anecdotes, some only a few sentences long. We (BP, NA and EPA)
+were the only people in the house, and the recording was done in their kitchen, where we took down the ticking clock
+and switched off the radio, so that it was quiet.
+\qu Transcribed by BP, transcription checked with Elena Nikolaevna Cherkanova, Russian translation by Elena Nikolaevna Cherkanova,
+glossing by BP. Funding by the Volkswagen Foundation (DoBeS grant). Speaker abbreviation = EPA.
+\ref Elena Petrovna Amganova was born in 1952, i.e. she was 56-57 at the time of the recording. She had 8 years of
+schooling and had worked as a milker and then a cleaner. 
+\tx
+
+\id Amganova_EP_Ira_001
+\tx Russian old video
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:03.870
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_Ira_002
+\tx Russian
+\ELANBegin 00:00:03.870
+\ELANEnd 00:00:06.630
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_Ira_003
+\tx Ira, kučuken bimi         sadịktakị          goːnni:
+\mb Ira kočuken bi -mI       sadịk          -t(E)kI goːn -n(I)
+\ps ?   adj     v            n                      v         
+\ge Ira small   be -cond.cvb kindergarten.R -all    say  -3sg 
+\ft When Ira was small (she went) to kindergarten and says:
+\ELANBegin 00:00:06.630
+\ELANEnd 00:00:09.710
+\ELANParticipant
+\ev
+\ru Ира маленькая была, в садик (ходила) и говорит
+
+\id Amganova_EP_Ira_004
+\tx Tịmịnak aːmnịk gadʒịŋasan.
+\mb tịmịna   aːmnịk  ga   -nE     -ŋE      -sEn     
+\ps adv      adv     v                              
+\ge tomorrow quickly take -intent -pol.imp -poss.2pl
+
+\ft Tomorrow fetch me earlier.
+\ph gaʥịŋasan
+\gr there would appear to be a nominalizer -k deriving nouns meaning 'XXX day' from temporal adverbs, cf.
+Amganova_cannibals_7 esimek = segodnja popozže, tịmịnak = zavtrašnij den'
+\gr June 2016: after realizing that there are some allomorphs of the associated motion suffix -nE (-je with unije-, go to buy and also another verb that I
+don't remember right now), I figured gaʤi- must also carry the associated motion suffix and glossed it accordingly here
+\ELANBegin 00:00:09.710
+\ELANEnd 00:00:11.000
+\ELANParticipant
+\ev
+\ru Завтра по-раньше заберете.
+
+\id Amganova_EP_Ira_005
+\tx Goːnem            ịamị?
+\mb goːn -R(E)   -m   ịamị
+\ps v                 pron
+\ge say  -nonfut -1sg why 
+\ft I ask, why?
+\ELANBegin 00:00:11.000
+\ELANEnd 00:00:13.130
+\ELANParticipant
+\ev
+\ru Спрашиваю, почему.
+
+\id Amganova_EP_Ira_006
+\tx Tịmịna goːniten            aːmnak   gadasan.
+\mb tịmịna   goːn -RI  -tEn      aːmnịk  ga   -DE       -sEn     
+\ps adv      v                   adv     v                       
+\ge tomorrow say  -pst -poss.3pl quickly take -purp.cvb -poss.2pl
+\ft They said that you should (fetch me) earlier tomorrow.
+\ELANBegin 00:00:13.130
+\ELANEnd 00:00:15.600
+\ELANParticipant
+\ev
+\ru Завтра сказали чтоб по-раньше забрали.
+
+\id Amganova_EP_Ira_007
+\tx Ja    govorju   ịamị tarbịt?
+\mb ja    govorju   ịamị tarbịč   
+\ps pron  v         pron pron     
+\ge 1sg.R say.1sg.R why  like.that
+
+\ft I ask, why is that?
+\ph
+\gr ịamị tarọːčịn = počemu eto on takoj? ịamị tarbịč = počemu eto tak? ịamị tarak = počemu vot on
+\ELANBegin 00:00:15.600
+\ELANEnd 00:00:16.870
+\ELANParticipant
+\ev
+\ru Спрашиваю, почему это?
+
+\id Amganova_EP_Ira_008
+\tx A     tịmịna aːmnak   aːtaraldʒịn,             teːmide       goːnni     gadʒịdʒịs       aːmnak.
+\mb a.R   tịmịna   aːmnịk  haːtar -E  -L    -DʒI -n(I) teːmi     =DE  goːn -n(I) ga   -D    -DʒI -s   aːmnịk 
+\ps ?     adv      adv     v                           conj           v          v                    adv    
+\ge but.R tomorrow quickly dark   -ep -inch -fut -3sg  therefore =ptl say  -3sg  take -prog -fut -2pl quickly
+
+\ft Because tomorrow it will get dark early, therefore you must fetch me early.
+\ph
+\gr
+\nt The point of this anecdote is that it was the eve of a public holiday, and the kindergarten closes early on public holidays.
+So the child had been told that she should remind her parents that they should pick her up earlier; her interpretation
+was that it must be getting dark earlier on that day, and therefore the kindergarten would close earlier.
+\ELANBegin 00:00:16.870
+\ELANEnd 00:00:21.170
+\ELANParticipant
+\ev
+\ru А завтра потому что стемнеет быстро, и вы заберете меня по-раньше.
+
+\id Amganova_EP_Ira_009
+\tx Russian
+\ELANBegin 00:00:21.170
+\ELANEnd 00:00:25.150
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_Ira_010
+\tx Pervyj  klastakị      taŋnarịn.
+\mb pervyj  klas    -t(E)kI taŋ  -nE     -RI  -n(I)    
+\ps adj     n               v                          
+\ge first.R grade.R -all    read -intent -pst -poss.3sg
+\ft (Ira) went to the first grade.
+\ELANBegin 00:00:25.150
+\ELANEnd 00:00:27.550
+\ELANParticipant
+\ev
+\ru В первый клас пошла учиться.
+
+\id Amganova_EP_Ira_011
+\tx Patọm ńan   emedden,                   goːnni:    Tịmịnak eteru               školetki
+\mb potom  ńaːn em   -E  -D    -R(E)   -n(I) goːn -n(I) tịmịna   e   -R(E)   -(R)U   škola    -t(E)kI
+\ps adv    adv  v                            v          adv      v                   n               
+\ge then.R and  come -ep -prog -nonfut -3sg  say  -3sg  tomorrow neg -nonfut -1pl.ex school.R -all   
+
+\tx orre.
+\mb hor -R      
+\ps v           
+\ge go  -neg.cvb
+\ft Then she comes and says, Tomorrow we are not going to school.
+\ph ʊrre
+\ELANBegin 00:00:27.550
+\ELANEnd 00:00:30.720
+\ELANParticipant
+\ev
+\ru Завтра в школу мы не пойдем.
+
+\id Amganova_EP_Ira_012
+\tx Ịamị?
+\mb ịamị
+\ps pron
+\ge why 
+
+\ELANBegin 00:00:30.720
+\ELANEnd 00:00:31.610
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_Ira_013
+\tx Goːnitenke                karantin.
+\mb goːn -RI  -tEn      =kE   karantin    
+\ps v                         n           
+\ge say  -pst -poss.3pl =emph quarantine.R
+\ft They said, a quarantine (answers Ira).
+\ELANBegin 00:00:31.610
+\ELANEnd 00:00:32.760
+\ELANParticipant
+\ev
+\ru Сказали же, карантин.
+
+\id Amganova_EP_Ira_014
+\tx Ja    govorju   "Erroːčini karantin?"
+\mb ja    govorju   erroːčin  karantin    
+\ps pron  v         pron      n           
+\ge 1sg.R say.1sg.R prox.qual quarantine.R
+\ft I say, what quarantine?
+\ELANBegin 00:00:32.760
+\ELANEnd 00:00:34.640
+\ELANParticipant
+\ev
+\ru Какой еще карантин?
+
+\id Amganova_EP_Ira_015
+\tx Bi   esem             aːr,         ečiwu             itte         erroːčini
+\mb biː e   -R(E)   -m   haː  -R       e   -RI  -W        it  -R       erroːčin 
+\ps pron v                v             v                  v            pron     
+\ge 1sg neg -nonfut -1sg know -neg.cvb neg -pst -poss.1sg see -neg.cvb prox.qual
+
+\tx karantin,    goːniten            tala          gịrkawaːttan              karantin.
+\mb karantin     goːn -RI  -tEn      tarak -(dU)LE gịrka -WEːČ -R(E)   -n(I) karantin    
+\ps n            v                   pron          v                         n           
+\ge quarantine.R say  -pst -poss.3pl dist  -loc    walk  -gnr  -nonfut -3sg  quarantine.R
+\ft (The daughter answers): I don't know, I didn't see what quarantine, they said a quarantine is walking there.
+\ph
+\gr
+\nt So the daughter thought that the school was being closed because some monster called a quarantine was stalking the
+corridors.
+\ELANBegin 00:00:34.640
+\ELANEnd 00:00:41.910
+\ELANParticipant
+\ev
+\ru Я не знаю, я не видела еще какой карантин, сказали там ходит карантин.
+
+\id Amganova_EP_Ira_016
+\tx Russian
+\ELANBegin 00:00:41.910
+\ELANEnd 00:00:43.560
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_Ira_017
+\tx Russian
+\ELANBegin 00:00:43.560
+\ELANEnd 00:00:44.590
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_Ira_018
+\tx Russian
+\ELANBegin 00:00:44.590
+\ELANEnd 00:00:47.070
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_Ira_019
+\tx Pervyj  klastụ     taŋmi,        goːniten            goːndeku                 ŋiːwteken
+\mb pervyj  klas    -DU  taŋ  -mI       goːn -RI  -tEn      goːn -DE       -W        ŋiː -W   =t(E)kEn
+\ps adj     n            v              v                   v                        pron             
+\ge first.R class.R -dat read -cond.cvb say  -pst -poss.3pl say  -purp.cvb -poss.1sg who -acc =restr  
+
+\tx ịawtakan          dʒawụtčọːtta                   dʒụːlawụr,          ŋịnalba,
+\mb ịak  -W   =t(E)kEn dʒaw       -U    -Č   -WEːČ -R(E)   dʒụː  -(dU)LE -WUr     ŋịn -E  -L  -W  
+\ps pron               v                                   n                      n               
+\ge what -acc =restr   catch.hold -caus -res -gnr  -nonfut house -loc    -prfl.pl dog -ep -pl -acc
+
+\tx koskalba,      tam     karawalba,     mụralba...
+\mb koška -L  -W   tam     korova -L  -W   mụran -L  -W  
+\ps n              adv     n               n             
+\ge cat.R -pl -acc there.R cow.R  -pl -acc horse -pl -acc
+
+\ft When (Ira) went to first grade they said she should say who, what (animals) (people) keep at home, dogs, cats, cows,
+horses...
+\ph dewuttoːtte
+\gr taŋmi = kogda Ira učilas', goːniten = v škole skazali, goːndeku = čtoby Ira skazala --> there's a mismatch in the
+subject reference of converb and main verb, but this didn't bother RME, she felt the sentence was OK
+\ELANBegin 00:00:47.070
+\ELANEnd 00:00:57.750
+\ELANParticipant
+\ev
+\ru Когда она в первом классе училась, сказали чтобы я сказала, что они держат дома, собак, кошек, коров, лошадей.
+
+\id Amganova_EP_Ira_020
+\tx Nan    goːnem            "unetnen    erroːčini biweːtten?"
+\mb ńaːn goːn -R(E)   -m   unet  =nEn  erroːčin  bi -WEːČ -R(E)   -n(I)
+\ps adv  v                 adv         pron      v                     
+\ge and  say  -nonfut -1sg still =emph prox.qual be -gnr  -nonfut -3sg 
+
+\ft And I say, what else is there?
+\ph
+\gr unetnen = ešče čto, čajịwnan uŋkedʒim? = ešče čaju nalit'?
+\ELANBegin 00:00:57.750
+\ELANEnd 00:01:01.000
+\ELANParticipant
+\ev
+\ru Я спрашиваю, еще чего бывает?
+
+\id Amganova_EP_Ira_021
+\tx Goːnni     "tarakan".
+\mb goːn -n(I) tarakan    
+\ps v          n          
+\ge say  -3sg  cockroach.R
+\ft And she says 'cockroaches'.
+\ELANBegin 00:01:01.000
+\ELANEnd 00:01:02.020
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_Ira_022
+\tx Ịamị tarakan?
+\mb ịamị tarakan    
+\ps pron n          
+\ge why  cockroach.R
+
+\ELANBegin 00:01:02.020
+\ELANEnd 00:01:02.920
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_Ira_023
+\tx Tarakankada            tože  dʒụːla       biweːtten.
+\mb tarakan     =kE   =DE  tože   dʒụː  -(dU)LE bi -WEːČ -R(E)   -n(I)
+\ps n                      ptl    n             v                     
+\ge cockroach.R =emph =ptl also.R house -loc    be -gnr  -nonfut -3sg 
+\ft Cockroaches also live in houses.
+\ELANBegin 00:01:02.920
+\ELANEnd 00:01:05.600
+\ELANParticipant
+\ev
+\ru Тараканы-же тоже дома бывают.
+
+\id Amganova_EP_Ira_024
+\tx chuckles
+\ELANBegin 00:01:05.600
+\ELANEnd 00:01:07.800
+\ELANParticipant
+\ev
+\ru 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Kamchatka2009/sound_from_video/Amganova_EP_ira_Esso_270609.wav
+\ELANMediaMIME audio/x-wav

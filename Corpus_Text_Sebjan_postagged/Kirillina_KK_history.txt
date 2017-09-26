@@ -1,0 +1,993 @@
+\_sh v3.0  1131 Text
+
+\id Kirillina_KK_history_000_metadata
+\ref Recorded on 21 March 2010 in Sebjan-Küöl by Brigitte Pakendorf and Natalia Aralova. KKK came to the flat where NA and BP are staying
+on a Sunday morning, after prior arrangement. It turned out that she felt uncomfortable speaking Even to two near-strangers, especially
+with a microphone and video camera, so we agreed that she would come again and bring an Even audience with her. However, she did
+consent to give a very brief little account of the early history of Sebjan-Küöl, which is this text. It was very quiet during the recording,
+which was done in the kitchen of the apartment, and only NA and BP were present.
+\qu Transcription, translation and glossing in 2012; transcribed on pen & paper by Ija Vasil'evna Krivoshapkina, transcribed in ELAN by BP; Russian
+translation by IVK, glossing by BP. Funding by the Volkswagen Foundation (DoBeS grant). Speaker abbreviation = KKK.
+\ref Klavdija Konstantinovna Kirillina was 55 years old at the time of recording and a teacher at the school; she also led the after-school group
+(kruzhok) on local history and folklore.
+
+\id Kirillina_KK_history_001
+\tx background
+\ru
+\ELANBegin 00:00:00.010
+\ELANEnd 00:00:03.861
+\ELANParticipant
+
+\id Kirillina_KK_history_002
+\tx Dʒulle,      omen tysiča    ujun ńama   ịlan mịar     anŋanịldụ     erek pasjọlok ačča
+\mb dʒul  -(dU)LE omen tysjača    ujun ńama    ịlan  mịan -L  anŋan -E  -L  -DU  erek poselok   ačča
+\ps rel.n         num  n          num  num     num   num      n                  pron n         ptl 
+\ge front -loc    one  thousand.R nine hundred three ten  -pl year  -ep -pl -dat prox village.R neg 
+
+\tx bihin.
+\mb bi -RI  -n(I)    
+\ps v                
+\ge be -pst -poss.3sg
+\ft Before, in the 1930s, this village didn't exist.
+\ru Раньше в 1930х годах этого поселка не было.
+\ELANBegin 00:00:03.861
+\ELANEnd 00:00:12.519
+\ELANParticipant
+
+\id Kirillina_KK_history_003
+\tx Tarakam       ebesel    čeledʒur         Ịndịbal gerbe artella               bičel.
+\mb tarakam       ewen -SEl čele -dʒUr        Ịndịbal gerbe artel'        -(dU)LE bi -čE     -L 
+\ps adv           n         ?                 ?       n     n                     v             
+\ge in.those.days Even -pl  all  -ins.prfl.pl Endybal name  cooperative.R -loc    be -pf.ptc -pl
+\ft In those days all the Evens were in the Endybal cooperative.
+\ph pronounced ebesel with -s-, as in standard Even
+\gr čeledʒur is standard Even, in Sebjan they say bekeččur, but apparently there are a few individuals here in Sebjan who use čeledʒur in
+everyday speech
+\ru Тогда все эвены были в Ендыбалском артеле.
+\ELANBegin 00:00:12.519
+\ELANEnd 00:00:17.329
+\ELANParticipant
+
+\id Kirillina_KK_history_004
+\tx Tala          arteldu            bi   ammụ           gurgewčirin,              Krivošapkin Konstantin Petrovič.
+\mb tarak -(dU)LE artel'        -DU  biː aman   -W        gurgeːwči -RI  -n(I)     Krivošapkin  Konstantin Petrovič 
+\ps pron          n                  pron n                v                        ?            ?          ?        
+\ge dist  -loc    cooperative.R -dat 1sg father -poss.1sg work      -pst -poss.3sg Krivoshapkin Konstantin Petrovich
+\ft There in that cooperative my father worked, Konstantin Petrovich Krivoshapkin.
+\ru Там в этом артеле мой отец работал, ККП.
+\ELANBegin 00:00:17.329
+\ELANEnd 00:00:24.934
+\ELANParticipant
+
+\id Kirillina_KK_history_005
+\tx Tala          ńụːčịl meŋe... meŋen.. meŋem      torduk        ulriwrečel.
+\mb tarak -(dU)LE ńụča    -L  meŋen  meŋen  meŋen  -W   tor   -DUk(U) ul  -Gr(E) -čE     -L 
+\ps pron          n           n      n      n           n             v                     
+\ge dist  -loc    Russian -pl silver silver silver -acc earth -abl    dig -hab   -pf.ptc -pl
+
+\ft There the Russians dug silver out of the earth.
+\ph
+\gr there is no verb ulri-; in standard Even ul- is 'dig', in Sebjan they say čọŋka-; on 29.02.2012 IVK assumed that she meant to say ulwrečel -
+but then the next day when I checked, she agreed that the correct habitual form would be ulgerečel
+\nt
+\ru Там русские серебро из земли копали
+\ELANBegin 00:00:24.934
+\ELANEnd 00:00:35.646
+\ELANParticipant
+
+\id Kirillina_KK_history_006
+\tx Tadụ     nọŋan adụkụn ọrọm               tar   ńụčịldụ      gurgewčidniken            nọŋmụtnan
+\mb tarak -DU  nọŋan adụkụn ọrọn              -W   tarak ńụča    -E  -L  -DU  gurgeːwči -D    -nIkEn   nọŋan -W   -tEn     
+\ps pron       pron  adv    n                      pron  n                    v                        pron                
+\ge dist  -dat 3sg   little domestic.reindeer -acc dist  Russian -ep -pl -dat work      -prog -sim.cvb 3sg   -acc -poss.3pl
+
+\tx ile           tala          tortenduk            torle         holteniken           biwetče.
+\mb irek  -(dU)LE tarak -(dU)LE tor   -tEn   -DUk(U) tor   -(dU)LE holte       -nIkEn   bi -WEːČ -čE    
+\ps pron          pron          n                    n             v                    v               
+\ge which -loc    dist  -loc    earth -distr -abl    earth -loc    carry.along -sim.cvb be -gnr  -pf.ptc
+\ft There (he kept) few reindeer...  working for the Russians he transported them (the Russians) here and there, from one place to another.
+\ph
+\gr this sentence is not fully well-formed, neskladnoe, basically she breaks off after ọrọm and starts anew, and probably wanted to say "keeping
+few reindeer..."
+\nt so the father drove the Russians who were working in the Endybal silver mine from one place to another by reindeer sled
+\ru Там он малое количество оленей для русских работая, их туда сюда, из одной земли в другую развозя ходил.
+\ELANBegin 00:00:35.646
+\ELANEnd 00:00:47.970
+\ELANParticipant
+
+\id Kirillina_KK_history_007
+\tx Tarịt ebeseldu       ọrọm               boːpti             ụkas.
+\mb tarịt ewen -SEl -DU  ọrọn              -W   boː  -B   -RI       ukaz    
+\ps adv   n              n                      v                   n       
+\ge then  Even -pl  -dat domestic.reindeer -acc give -med -impf.ptc decree.R
+\ft Then there was a decree to give the Evens reindeer.
+\ph
+\gr ọrọm boːri ụkas = ukaz daet olenej; ọrọm boːpti ụkas = ukaz dla davanija olenej
+\ru Потом указ что эвенам дать оленей.
+\ELANBegin 00:00:47.970
+\ELANEnd 00:00:57.265
+\ELANParticipant
+
+\id Kirillina_KK_history_008
+\tx Tarakam       ịak gerbe ačča, prịkas igin  gerbe, eto    ụkas   gerbe ebedi      ịan           ačča.
+\mb tarakam       ịak  gerbe ačča prikaz  iŋin  gerbe eto    ukaz     gerbe ewen -DI   ịak  -n(I)     ačča
+\ps adv           pron n     ptl  n       ptl   n     pron   n        n     n          pron           ptl 
+\ge in.those.days what name  neg  order.R etc.Y name  this.R decree.R name  Even -adjr what -poss.3sg neg 
+\ft In those days there was no whatchamacallit, "order" or "decree" don't exist in the Even (language).
+\ru Тогда чего-то там не было, эвенского такого слова приказ или указ нету.
+\ELANBegin 00:00:57.265
+\ELANEnd 00:01:03.401
+\ELANParticipant
+
+\id Kirillina_KK_history_009
+\tx Tarbačan      rasporjaženiew     boːčel         ebesel    bejetnen         ọralkan               bidetnen
+\mb tarọːčịn  rasporjaženie -W   boː  -čE     -L  ewen -SEl bej    -tEn      ọrọn              -lkEn bi -DE       -tEn     
+\ps pron      n                  v                n         pron             n                       v                     
+\ge dist.qual instruction.R -acc give -pf.ptc -pl Even -pl  self.Y -poss.3pl domestic.reindeer -prop be -purp.cvb -poss.3pl
+
+\tx goːniken.
+\mb goːn -nIkEn  
+\ps v            
+\ge say  -sim.cvb
+\ft They gave such an instruction that the Evens themselves should have reindeer.
+\ph
+\nt this isn't quite clear, it would seem to mean that the Evens didn't have reindeer until the 1930s  - but that is somewhat hard to believe, the
+only reindeerless Evens I am familiar with are those along the coast of the Sea of Okhotsk ("peshie lamuty"), and also because in record 11
+she says the Evens here used to migrate from river to river - and how would they have done that without reindeer? IVK suggested that
+perhaps in the beginning, when the Soviets had just come to power, they had collectivized all reindeer and then in the 1930s gave them back
+(i.e. that this is meant to mean "they didn't have private reindeer (anymore)") - but that also doesn't really make sense, because the big
+collectivization efforts only started in the 1930s; on the other hand, Tulasynova (LA_family_history, 80-101) also tells how her grandfather
+brought reindeer here - so perhaps they used to have only very few reindeer, and what is meant here is that the Soviets established big
+herds 
+\ru Такое распоряжение дали, чтобы сами эвены имели оленей.
+\ELANBegin 00:01:03.401
+\ELANEnd 00:01:10.564
+\ELANParticipant
+
+\id Kirillina_KK_history_010
+\tx Dʒe   tadụk       tar   ụkastụk      čeledʒur         ebesel    omet...
+\mb dʒe    tarak -DUk(U) tarak ukaz     -DUk(U) čele -dʒUr        ewen -SEl omettu  
+\ps ptl    pron          pron  n                ?                 n         adv     
+\ge well.Y dist  -abl    dist  decree.R -abl    all  -ins.prfl.pl Even -pl  together
+\ft Well, after that decree all the Evens ....
+\ru После этого указа все эвены (вместе..)
+\ELANBegin 00:01:10.564
+\ELANEnd 00:01:18.663
+\ELANParticipant
+
+\id Kirillina_KK_history_011
+\tx Tarakam       ebesel    ile           tala,         tortenduk            torle,        bịrakčandụk
+\mb tarakam       ewen -SEl irek  -(dU)LE tarak -(dU)LE tor   -tEn   -DUk(U) tor   -(dU)LE bịrakčan -DUk(U)
+\ps adv           n         pron          pron          n                    n             n               
+\ge in.those.days Even -pl  which -loc    dist  -loc    earth -distr -abl    earth -loc    stream   -abl   
+
+\tx bịrakčandụla   nulgewetniken            tegekkerečel.
+\mb bịrakčan -(dU)LE nulge   -WEːČ -nIkEn   teg      -E  -Č   -Gr(E) -čE     -L 
+\ps n                v                      v                                   
+\ge stream   -loc    migrate -gnr  -sim.cvb sit.down -ep -res -hab   -pf.ptc -pl
+\ft In those days the Evens lived migrating everywhere, from one place to another, from stream to stream.
+\ph
+\ru Тогда эвены везде с земли на землю, с ручья на ручей, кочуя жили.
+\ELANBegin 00:01:18.663
+\ELANEnd 00:01:25.839
+\ELANParticipant
+
+\id Kirillina_KK_history_012
+\tx Dʒe   tarịt ebeselbu       čelewutnen          omen tordu      tegečukeŋgel                      goːnčel,
+\mb dʒe    tarịt ewen -SEl -W   čele -W   -tEn      omen tor   -DU  teg      -E  -Č   -WkEn -GEr        goːn -čE     -L 
+\ps ptl    adv   n              n                   num  n          v                                   v               
+\ge well.Y then  Even -pl  -acc all  -acc -poss.3pl one  earth -dat sit.down -ep -res -caus -imp.1pl.in say  -pf.ptc -pl
+
+\tx tadụ     hupkučeːkude         aːŋagal          goːniken.
+\mb tarak -DU  hupkut -ČEk -W   =DE  aːŋa -GEr        goːn -nIkEn  
+\ps pron       v                     v                v            
+\ge dist  -dat learn  -nr  -acc =ptl open -imp.1pl.in say  -sim.cvb
+
+\ft Then they said to make all Evens live in one place and to open up a school there. (lit. "let's make the Evens all live in one place and let's
+open up a school there")
+\ph
+\ru Потом сказали чтобы всех эвенов заставить жить на одном месте и там открыть школу (давайте откроем школу).
+\ELANBegin 00:01:25.839
+\ELANEnd 00:01:35.758
+\ELANParticipant
+
+\id Kirillina_KK_history_013
+\tx Dʒe   tačịn       ụkas   ńoːčelen,                 Ịndịbaldụ  tarakam       egdʒen ịak tor   ačča dʒụːw
+\mb dʒe    tarọːčịn  ukaz     ńoː  -čE     -(dU)LE -n(I)     Ịndịbal -DU  tarakam       egdʒen ịak  tor   ačča dʒụː  -W  
+\ps ptl    pron      n        v                              n            adv           adj    pron n     ptl  n         
+\ge well.Y dist.qual decree.R exit -pf.ptc -loc    -poss.3sg Endybal -dat in.those.days big    what earth neg  house -acc
+
+\tx ọːptị.
+\mb ọː   -B   -RI      
+\ps v                  
+\ge make -med -impf.ptc
+\ft Well, after that decree, ... in those days there was no big space in Endybal to build houses.
+\ph
+\gr dʒụːw ọːptị tor = zemlja dlja delanija domov (zemlja podxodjashaja dlja delanija doma); dʒụːw ọːrị tor = the land is building the houses
+\ru После такого указа, в Ендыбале тогда не было большой земли чтобы можно было дома строить.
+\ELANBegin 00:01:35.758
+\ELANEnd 00:01:46.197
+\ELANParticipant
+
+\id Kirillina_KK_history_014
+\tx Bejen               tačịn       dʒoːr ọkaːt ịadụn            ịlgamnị,      ọttọn ịlgamnị       boholok   kočuken
+\mb bej    -E  -n(I)     tarọːčịn  dʒoːr ọkaːt ịak  -DU  -n(I)     ịlgam -RI       ọttọn ịlgam -RI       poselok   kočuken
+\ps pron                 pron      num   n     pron                v               ptl   v               n         adj    
+\ge self.Y -ep -poss.3sg dist.qual two   river what -dat -poss.3sg stand -impf.ptc dp.Y  stand -impf.ptc village.R small  
+
+\tx boholok.
+\mb poselok  
+\ps n        
+\ge village.R
+\ft It is a small village that stands between two such rivers.
+\ph
+\gr "between 2 rivers" = dʒoːr ọkaːt elgedun 
+\ru Сам так между двумя реками стоящий поселок, маленький поселок.
+\ELANBegin 00:01:46.197
+\ELANEnd 00:01:53.581
+\ELANParticipant
+
+\id Kirillina_KK_history_015
+\tx Ilede              bejen               egdʒelburin                ịan           dʒụːw     igin  ọːptị
+\mb irek  -(dU)LE =DE  bej    -E  -n(I)     egdʒen -LbE -RI  -n(I)     ịak  -n(I)     dʒụː  -W   iŋin  ọː   -B   -RI      
+\ps pron               pron                 v                          pron           n          ptl   v                  
+\ge which -loc    =ptl self.Y -ep -poss.3sg big    -vr  -pst -poss.3sg what -poss.3sg house -acc etc.Y make -med -impf.ptc
+
+\tx tor   ačča, tiemi     ile           ọːdʒịp        goːniken      mụlgaččal.
+\mb tor   ačča teːmi     irek  -(dU)LE ọː   -DʒI -p      goːn -nIkEn   mụlgat -čE     -L 
+\ps n     ptl  conj      pron          v                 v             v                 
+\ge earth neg  therefore which -loc    make -fut -1pl.in say  -sim.cvb think  -pf.ptc -pl
+\ft There is no space that it itself could grow bigger or to build houses, therefore they thought where to build it.
+\ph
+\gr mụlgat is not a dialectal word, but standard Even
+\ru Нету места чтобы он сам где-нибудаь расширялся, чтобы можно было построить дома, поэтому где построим говоря думали.
+\ELANBegin 00:01:53.581
+\ELANEnd 00:02:02.642
+\ELANParticipant
+
+\id Kirillina_KK_history_016
+\tx Tarakam       čak... čakabaːktụ             dʒe   ebesel    etikeːl     butunni      čakụrịdʒụr
+\mb tarakam       čak    čak    -E  -B   -ČEk -DU  dʒe    ewen -SEl etikeːn -L  bütünnüː   čak    -W     -RIdʒI   -L 
+\ps adv           v      v                         ptl    n         n           ?          v                         
+\ge in.those.days gather gather -ep -med -nr  -dat well.Y Even -pl  old.man -pl entirely.Y gather -advrs -ant.cvb -pl
+
+\tx ukčemmetčel,           idu        ịlụdʒịp               goːniken,     anŋamta bileːku.
+\mb ukčen -mEČ -čE     -L  irek  -DU  ịl       -U    -DʒI -p      goːn -nIkEn   anŋamta bileːk    -W  
+\ps v                      pron       v                           v             adj     n             
+\ge tell  -rec -pf.ptc -pl which -dat stand.up -caus -fut -1pl.in say  -sim.cvb new     territory -acc
+\ft Then at a meeting, the old Even men having all gathered talked about where to set up the new village. (lit. where will we set up)
+\ph
+\gr IVK translated "started to talk", but there is no inchoative expression in the Even original; the inchoative form would have been
+ukčemečelčel
+\ru Тогда на собрание эвены старики все собравшись начали разговаривать где поставим новый поселок.
+\ELANBegin 00:02:02.642
+\ELANEnd 00:02:16.448
+\ELANParticipant
+
+\id Kirillina_KK_history_017
+\tx Tarịt dʒe   erek toru.
+\mb tarịt dʒe    erek tor   -W  
+\ps adv   ptl    pron n         
+\ge then  well.Y prox earth -acc
+\ft Then (they decided upon) this place.
+\ru Потом эту местность.
+\ELANBegin 00:02:16.448
+\ELANEnd 00:02:18.190
+\ELANParticipant
+
+\id Kirillina_KK_history_018
+\tx Erek nahaː egdʒen toŋeːrelken,     ọldọlkan, ereːli   họːja ụjamkalkan,        torde      họːja.
+\mb erek nahaː  egdʒen toŋeːr -E  -lkEn ọlra -lkEn ereːliː họːja ụjamkan        -lkEn tor   =DE  họːja
+\ps pron adv    adj    n                n          postpos quant n                    n          quant
+\ge prox very.Y big    lake   -ep -prop fish -prop around  many  mountain.sheep -prop earth =ptl many 
+\ft Here there is a very big lake with fish, and around (here) there is a lot of land with many mountain sheep.
+\ph
+\gr the first Russian translation she gave when we were translating the text on the 29.02.2012; on the next day I asked whether it shouldn't
+rather be a different reading, given here as the second Russian translation, and she agreed; but I think maybe there is some ambiguity (or
+rather it's just a fairly broad meaning that is expressed here, that there is a lot of fish and a lot of meat)
+\ru Здесь большое озеро, много рыбы, вокруг много горных баранов и земли много.
+\ru большое озеро с рыбой, вокруг много земли с уямканами
+\ELANBegin 00:02:18.190
+\ELANEnd 00:02:28.850
+\ELANParticipant
+
+\id Kirillina_KK_history_019
+\tx Tarakam       erek hịgịː egdʒen dʒelgenkelken   biče,     họːja dʒelgenke, ụjamkanda,        tọːkịda,
+\mb tarakam       erek hịgịː  egdʒen dʒelgenke -lkEn bi -čE     họːja dʒelgenke ụjamkan        =DE  tọːkị =DE 
+\ps adv           pron n      adj    n               v          quant n         n                   n         
+\ge in.those.days prox forest big    animal    -prop be -pf.ptc many  animal    mountain.sheep =ptl elk   =ptl
+
+\tx tadụkta          kotlende    ịal,    dʒelgenkel.
+\mb tarak -DUk(U) =DE  kotlen =DE  ịak  -L  dʒelgenke -L 
+\ps pron               adj         pron     n            
+\ge dist  -abl    =ptl small  =ptl what -pl animal    -pl
+\ft In those days this forest had a lot of animals, a lot of animals, mountain sheep and elk, and apart from those also small animals.
+\ru Тогда этот лес имел много зверей, много зверей, и горный баран и лось и кроме них маленькие животные.
+\ELANBegin 00:02:28.850
+\ELANEnd 00:02:41.265
+\ELANParticipant
+
+\id Kirillina_KK_history_020
+\tx Dʒe   tarịt tadụk       ịstala edu       dʒụːw     dʒụːlbụ    ọːčal.
+\mb dʒe    tarịt tarak -DUk(U) ịstala erek -DU  dʒụː  -W   dʒụː  -L  -W   ọː   -čE     -L 
+\ps ptl    adv   pron          postpos pron      n          n              v               
+\ge well.Y then  dist  -abl    until  prox -dat house -acc house -pl -acc make -pf.ptc -pl
+
+\ft Well and since then they built houses here.
+\ph eduk 
+\ru С тех пор здесь дома построили.
+\ELANBegin 00:02:41.265
+\ELANEnd 00:02:47.661
+\ELANParticipant
+
+\id Kirillina_KK_history_021
+\tx Tar   bahaːkkị                kočuken dʒụːw     ọːčal,        tala          irek  tarak pọrọxụ,
+\mb tarak bahaːkị                    kočuken dʒụː  -W   ọː   -čE     -L  tarak -(dU)LE irek  tarak porox       -W  
+\ps pron  adv                        adj     n          v                pron          pron  pron  n               
+\ge dist  on.the.other.side.of.river small   house -acc make -pf.ptc -pl dist  -loc    which dist  gunpowder.R -acc
+
+\tx pektereːwum      uniri          ọːčal          tadụ.
+\mb pektereːwun -W   uni  -RI       ọː     -čE     -L  tarak -DU 
+\ps n                v              v                  pron      
+\ge gun         -acc sell -impf.ptc become -pf.ptc -pl dist  -dat
+
+\ft On the other side of the river they built a  small house, there they started selling gunpowder and guns.
+\ph niri (dropped the u- in uniri)
+\gr uniri ọːčal = unilčel, no difference, both inchoative meaning
+\ru За рекой сделали маленький домик, там начали продавать порох и ружия.
+\ELANBegin 00:02:47.661
+\ELANEnd 00:02:59.660
+\ELANParticipant
+
+\id Kirillina_KK_history_022
+\tx Tar   ọkaːt čaːhkị       tarak dʒụː ịan           bihni           tiːkte,  kočuken dʒụː.
+\mb tarak ọkaːt čaːg -skI      tarak dʒụː  ịak  -n(I)     bi -R(E)   -n(I) tiek =DE  kočuken dʒụː 
+\ps pron  n     adj            pron  n     pron           v                adv       adj     n    
+\ge dist  river far  -advb.all dist  house what -poss.3sg be -nonfut -3sg  now  =ptl small   house
+
+\ft Beyond the river, the something (remains) of that house still exist, a small house.
+\ru Это река, дальше, этот дом (что-то его) сейчас есть, маленьки дом.
+\ELANBegin 00:02:59.660
+\ELANEnd 00:03:07.421
+\ELANParticipant
+
+\id Kirillina_KK_history_023
+\tx Tadụ     biː ammụ           pradavets    biče.
+\mb tarak -DU  biː aman   -W        prodavec     bi -čE    
+\ps pron       pron n                n            v         
+\ge dist  -dat 1sg father -poss.1sg shopkeeper.R be -pf.ptc
+\ft There my father was shopkeeper.
+\ru Там мой отец был продавцом.
+\ELANBegin 00:03:07.421
+\ELANEnd 00:03:15.260
+\ELANParticipant
+
+\id Kirillina_KK_history_024
+\tx Nọŋandụkụn          tadụk       uniwrečel             pọrọxụ,    pektereːwum,     burduku      dʒe   tara
+\mb nọŋan -DUk(U) -n(I)     tarak -DUk(U) uni -Gr(E) -čE     -L  porox       -W   pektereːwun -W   burduk  -W   dʒe    tarak
+\ps pron                    pron          v                      n                n                n            ptl    pron 
+\ge 3sg   -abl    -poss.3sg dist  -abl    buy -hab   -pf.ptc -pl gunpowder.R -acc gun         -acc flour.R -acc well.Y dist 
+
+\tx ịal     ọrọlčịmŋal      ịal,    čeledʒur         tadụk       ganịkan.
+\mb ịak  -L  ọrọlčị        -mŋE  -L  ịak  -L  čele -dʒUr        tarak -DUk(U) ga   -nIkEn  
+\ps pron     v                       pron     ?                 pron          v            
+\ge what -pl herd.reindeer -agnr -pl what -pl all  -ins.prfl.pl dist  -abl    take -sim.cvb
+\ft From him they bought gunpowder, guns, flour, the reindeerherders, all taking (buying) from there.
+\ph uniwričel
+\gr comparing 21 and 24, it would seem as if uni- is a polysemous root meaning both to buy and to sell, or perhaps it has a meaning simply of
+"do trade", i.e. "buy and sell"; and Cincius gives uni(j)dej for both 'prodavatj' and 'pokupatj'
+\ru У него оттуда покупали порох ружия, муку, оленеводы, все оттуда беря.
+\ELANBegin 00:03:15.260
+\ELANEnd 00:03:30.275
+\ELANParticipant
+
+\id Kirillina_KK_history_025
+\tx Dʒe   tadụk       kočuker     dʒụːlbụ    ọːkatčal            eduːr.
+\mb dʒe    tarak -DUk(U) kočuken -L  dʒụː  -L  -W   ọː   -kEČ  -čE     -L  erek -DU  -WUr    
+\ps ptl    pron          adj         n              v                      pron              
+\ge well.Y dist  -abl    small   -pl house -pl -acc make -mult -pf.ptc -pl prox -dat -prfl.pl
+\ft Well, and then they built little houses here.
+\ph
+\gr the plural agreement on kočuken is highly atypical of Sebjan dialect, and is due to her using standard Even in this narrative
+\ru строили маленькие дома здесь
+\ELANBegin 00:03:30.275
+\ELANEnd 00:03:35.085
+\ELANParticipant
+
+\id Kirillina_KK_history_026
+\tx Ńan   kočukuːn tọbọr tiːk egdʒen magazin hattụn            kotlen dʒụː bihin,            edukńun
+\mb ńaːn kočuken tawụr tiek egdʒen magazin hat  -DU  -n(I)     kotlen dʒụː  bi -RI  -n(I)     erek -DUk(U) =ńUn  
+\ps adv  adj     pron  adv  adj    n       rel                 adj    n     v                 pron               
+\ge and  small   this  now  big    shop.R  base -dat -poss.3sg small  house be -pst -poss.3sg prox -abl    =restr
+
+\tx erńun      dʒụːdụk    egdʒen, egdʒehukeːn.
+\mb erek =ńUn   dʒụː  -DUk(U) egdʒen egdʒen -sUkEn
+\ps pron        n             adj    adj          
+\ge prox =restr house -abl    big    big    -attn 
+\ft And that small one.... now there was a small house next to the big shop, a little bit bigger than this house.
+\ph kočukuːn - long and rounded vowel for emphasis
+\nt "this house" refers to the house NA and BP were renting, in which the recording took place
+\ru И маленький этот .... сейчас возле большого магазина был маленький дом, чуть побольше этого, чуть побольше.
+\ELANBegin 00:03:35.085
+\ELANEnd 00:03:44.211
+\ELANParticipant
+
+\id Kirillina_KK_history_027
+\tx Tadụ     nọnap    hupkuček    aːŋapča.
+\mb tarak -DU  nọnap      hupkut -ČEk aːŋa -B   -čE    
+\ps pron       adj        v           v                
+\ge dist  -dat the.first. learn  -nr  open -med -pf.ptc
+\ft There the first school opened.
+\ru Там открылась первая школа.
+\ELANBegin 00:03:44.211
+\ELANEnd 00:03:48.319
+\ELANParticipant
+
+\id Kirillina_KK_history_028
+\tx Dʒe   tadụk       dʒụːw     klubu       ọːčal,        klubu       ọːčal,        begdečeːku
+\mb dʒe    tarak -DUk(U) dʒụː  -W   klub   -W   ọː   -čE     -L  klub   -W   ọː   -čE     -L  beg      -DE -Č   -ČEk -W  
+\ps ptl    pron          n          n           v                n           v                v                          
+\ge well.Y dist  -abl    house -acc club.R -acc make -pf.ptc -pl club.R -acc make -pf.ptc -pl medicine -vr -res -nr  -acc
+
+\tx ịlụčal,               dʒe   tadụk       tačịn       pasjọ... erek bileːk   egdʒelbulče.
+\mb ịl       -U    -čE     -L  dʒe    tarak -DUk(U) tarọːčịn  poselok   erek bileːk    egdʒen -LbE -L    -čE    
+\ps v                          ptl    pron          pron      n         pron n         v                        
+\ge stand.up -caus -pf.ptc -pl well.Y dist  -abl    dist.qual village.R prox territory big    -vr  -inch -pf.ptc
+\ft And then houses, they built the club, they set up a hospital, and then this village started to grow.
+\ph
+\gr
+\nt she corrected pasjọ(lok) to bileːk because using bileːk is 'better Even style', since it's an Even word and not a Russian word; bileːk is not
+restricted to standard Even, however, it is used here in Sebjan as well; the original meaning was "place of continuous presence of some
+species of animals", but it has been extended
+\ru И потом дома, клуб сделали, больницу поставили, потом этот поселок начал расти.
+\ELANBegin 00:03:48.319
+\ELANEnd 00:04:02.853
+\ELANParticipant
+
+\id Kirillina_KK_history_029
+\tx Tarakam       Sleptsov Gavril  Konstantinovič gerbe nọnap    predsedetil  eduːr             gurgewčiče,       ńan
+\mb tarakam       Slepcov  Gavril  Konstantinovič  gerbe nọnap      predsedatel' erek -DU  -WUr     gurgeːwči -čE     ńaːn
+\ps adv           ?        ?       ?               n     adj        n            pron               v                 adv 
+\ge in.those.days Sleptsov Gabriel Konstantinovich name  the.first. chairman.R   prox -dat -prfl.pl work      -pf.ptc and 
+
+\tx Taisija Vasilevna amannị         tarakam       Kejmetinov Vasilij Pavlovič, nọŋartan gurgewčiniken.
+\mb Taisija Vasilevna aman   -n(I)     tarakam       Kejmetinov Vasilij Pavlovič  nọŋartan gurgeːwči -nIkEn  
+\ps ?       ?         n                adv           ?          ?       ?         pron     v                 
+\ge Taisija Vasilevna father -poss.3sg in.those.days Kejmetinov Vasilij Pavlovich 3pl      work      -sim.cvb
+\ft In those days the first chairman (of the village Soviet) Gavril Konstantinovich Sleptsov worked, and Taisija Vasilevna's father, Vasilij
+Pavlovich Kejmetinov, they worked.
+\ru Тогда работал первый председатель СГК и отец ТВ, КВП, они работая.
+\ELANBegin 00:04:02.853
+\ELANEnd 00:04:25.811
+\ELANParticipant
+
+\id Kirillina_KK_history_030
+\tx Iduk          tadụk       ńụːč begdečimŋel,                  ńụːč hupkučimŋel       emelčel.
+\mb irek  -DUk(U) tarak -DUk(U) ńụča    beg      -DE -Č   -E  -mŋE  -L  ńụča    hupkut -E  -mŋE  -L  em   -E  -L    -čE     -L 
+\ps pron          pron          n       v                               n       v                    v                         
+\ge which -abl    dist  -abl    Russian medicine -vr -res -ep -agnr -pl Russian learn  -ep -agnr -pl come -ep -inch -pf.ptc -pl
+\ft From everywhere Russian doctors, Russian teachers started to come. 
+\ru Отовсюду русские врачи, русские учителя начали приезжать.
+\ELANBegin 00:04:25.811
+\ELANEnd 00:04:32.402
+\ELANParticipant
+
+\id Kirillina_KK_history_031
+\tx Tarakam       torri,        ọrọnọt               emgerečel,             Siegendule         ịstala mụranat,      tarịt
+\mb tarakam       tor   -(dU)LI ọrọn              -E  -Č   em   -Gr(E) -čE     -L  Segen      -(dU)LE ịstala mụran -E  -Č   tarịt
+\ps adv           n             n                          v                       n                  postpos n              adv  
+\ge in.those.days earth -prol   domestic.reindeer -ep -ins come -hab   -pf.ptc -pl Segen.Kuel -loc    until  horse -ep -ins then 
+
+\tx ertiki       ọrọnọt.
+\mb erek -t(E)kI ọrọn              -E  -Č  
+\ps pron         n                         
+\ge prox -all    domestic.reindeer -ep -ins
+\ft In those days they came overland by reindeer, until Segen by horse, then here by reindeer.
+\ph she says Siegendulet, but she didn't want to say "our Segen", it is just an additional sound
+\ev
+\nt Segen-Kuel is the neighbouring village, 210 km distant from Sebjan
+\ru Тогда по земле, на оленях приезжали, до Сегена на лошадях, потом сюда на оленях.
+\ELANBegin 00:04:32.402
+\ELANEnd 00:04:42.230
+\ELANParticipant
+
+\id Kirillina_KK_history_032
+\tx ọrọnọt,              urge!
+\mb ọrọn              -E  -Č   urge 
+\ps n                          adj  
+\ge domestic.reindeer -ep -ins heavy
+\ft by reindeer, how difficult!
+\ru
+\ELANBegin 00:04:42.230
+\ELANEnd 00:04:47.040
+\ELANParticipant BP
+
+\id Kirillina_KK_history_033
+\tx Urge  họtaran,  adịda      ineŋiw,    họːja ọkaːtụ   dawnịkan.
+\mb urge  họtọran adịː =DE  ineŋi -W   họːja ọkaːt -W   daw         -nIkEn  
+\ps adj   n       quant     n          quant n          v                   
+\ge heavy road    some =ptl day   -acc many  river -acc cross.river -sim.cvb
+\ft A difficult road, several days, crossing many rivers.
+\ru Тяжелая дорога, несколько дней, переходя много рек.
+\ELANBegin 00:04:47.040
+\ELANEnd 00:04:52.344
+\ELANParticipant KKK
+
+\id Kirillina_KK_history_034
+\tx Tiːk, tiːkte   ere  masịnal     egdʒen ịat      urge  họtaram        itniken      emgerer,         tarakam
+\mb tiek tiek =DE  erek mašịna -L  egdʒen ịak  -Č   urge  họtọran -W   it  -nIkEn   em   -Gr(E) -r   tarakam      
+\ps adv  adv       pron n          adj    pron      adj   n            v            v                adv          
+\ge now  now  =ptl prox car.R  -pl big    what -ins heavy road    -acc see -sim.cvb come -hab   -3pl in.those.days
+
+\tx ọrọn.
+\mb ọrọn             
+\ps n                
+\ge domestic.reindeer
+\ft Even now these trucks come experiencing (seeing) a difficult road, and in those days reindeer.
+\ph
+\ru И сейчас эти машины испытывая тяжелую дорогу приезжают, а тогда олени.
+\ELANBegin 00:04:52.344
+\ELANEnd 00:04:59.585
+\ELANParticipant
+
+\id Kirillina_KK_history_035
+\tx Tarakamda          urge.
+\mb tarakam       =DE  urge 
+\ps adv                adj  
+\ge in.those.days =ptl heavy
+\ft And in those days it was difficult.
+\ph
+\gr "in those days it was more difficult" would be 'tarakam urgedmer'
+\ru И тогда тяжело.
+\ELANBegin 00:04:59.585
+\ELANEnd 00:05:05.097
+\ELANParticipant
+
+\id Kirillina_KK_history_036
+\tx Biː ammụ,               biː ammụ                tiːk goːmi          egdʒen urge  họtarandụla,    egdʒen urge
+\mb biː aman   -W   -W        biː aman   -W   -W        tiek goːn -mI       egdʒen urge  họtọran -(dU)LE egdʒen urge 
+\ps pron n                     pron n                     adv  v              adj    adj   n               adj    adj  
+\ge 1sg father -acc -poss.1sg 1sg father -acc -poss.1sg now  say  -cond.cvb big    heavy road    -loc    big    heavy
+
+\tx gurgele         ereger tiːngerečel.
+\mb gurgeː -(dU)LE ereger tiːn -Gr(E) -čE     -L 
+\ps n              adv    v                      
+\ge work   -loc    always send -hab   -pf.ptc -pl
+
+\ft My father, to say it now, they always sent him on very difficult roads, on very difficult work.
+\ph
+\gr egdʒen urge is a normal way to say "very heavy", one can also say egdʒen ehŋi "very strong", egdʒen mahŋị "very hard"; egdʒen kotlen
+"very small" is (of course) not said, one would say họː/nahaː kotlen
+\ru Мой отец (моего отца), если сейчас сказать его всегда отправляли на тяжелую дорогу, на тяжелую работу.
+\ELANBegin 00:05:05.097
+\ELANEnd 00:05:17.096
+\ELANParticipant
+
+\id Kirillina_KK_history_037
+\tx Nọŋan bejen               tarbačan      ọttọn noste bihŋiji              họː eŋsi, họː hịnma bej bič(e),
+\mb nọŋan bej    -E  -n(I)     tarọːčịn  ọttọn noste bi -ŋsI      -J       họː  eŋsi   họː  hịnma bej bi -čE    
+\ps pron  pron                 pron      ptl   adj   v                     adv  adj    adv  ?     n   v         
+\ge 3sg   self.Y -ep -poss.3sg dist.qual dp.Y  young be -impf.cvb -prfl.sg very strong very fast  man be -pf.ptc
+
+\tx bihin.
+\mb bi -RI  -n(I)    
+\ps v                
+\ge be -pst -poss.3sg
+\ft He himself, when he was young, was such a very strong, very fast man.
+\ph in Sebjan they would say ehŋi for 'strong' (with metathesis) and ịmma for 'fast', she pronounces these words the standard way
+\gr there is no stative verb eŋ- (anymore), even though eŋsi (ehŋi in Sebjan) appears to be the imperfect participle of a stative verb; eŋsi/ehŋi is
+just "strong"; IVK on the 01.03.2012 said that eŋi is "strength" and ehŋi "strong", but I have eŋi with a meaning of both "strength" and
+"strong" in Sebjan (strength=Burtsev_traditions_004, strong = Krivoshapkina_TatPetr_family_157); so it seems that eŋi and ehŋi are
+synonymous forms for "strong"
+\ru Он сам такой когда он был молодым, очень сильный, очень быстрый человек был.
+\ELANBegin 00:05:17.096
+\ELANEnd 00:05:28.120
+\ELANParticipant
+
+\id Kirillina_KK_history_038
+\tx Teːmi    nọŋan tačịn       ịlan mịar     egdʒen tụrkịlkan   irek  tarak ịaw      emuwreče
+\mb teːmi     nọŋan tarọːčịn  ịlan  mịan -L  egdʒen tụrkị -lkEn irek  tarak ịak  -W   em   -U    -Gr(E) -čE    
+\ps conj      pron  pron      num   num      adj    n           pron  pron  pron      v                        
+\ge therefore 3sg   dist.qual three ten  -pl big    sled  -prop which dist  what -acc come -caus -hab   -pf.ptc
+
+\tx eleːr.
+\mb erek -(dU)LE -WUr    
+\ps pron                 
+\ge prox -loc    -prfl.pl
+\ft That is why he brought various goods here like this with 30 big sleds.
+\ph
+\gr tụrkị is a standard Even word, in Sebjan they use the Sakha word hịarga
+\ru Поэтому он так на 30и больших санях всякое разное привозил сюда.
+\ELANBegin 00:05:28.120
+\ELANEnd 00:05:35.153
+\ELANParticipant
+
+\id Kirillina_KK_history_039
+\tx ịlan mịar?
+\mb ịlan  mịan -L 
+\ps num   num     
+\ge three ten  -pl
+\ft 30?!
+\ru
+\ELANBegin 00:05:35.153
+\ELANEnd 00:05:36.271
+\ELANParticipant BP
+
+\id Kirillina_KK_history_040
+\tx ịlan mịar     tụrkịw.
+\mb ịlan  mịan -L  tụrkị -W  
+\ps num   num      n         
+\ge three ten  -pl sled  -acc
+\ft 30 sleds
+\ru
+\ELANBegin 00:05:36.271
+\ELANEnd 00:05:37.324
+\ELANParticipant KKK
+
+\id Kirillina_KK_history_041
+\tx hu, ommeken?
+\mb hu omekken
+\ps excl ?      
+\ge hu alone  
+\ft alone?
+\ru
+\ELANBegin 00:05:37.324
+\ELANEnd 00:05:38.949
+\ELANParticipant BP
+
+\id Kirillina_KK_history_042
+\tx Ịamị?
+\mb ịamị
+\ps pron
+\ge why 
+
+\ru
+\ELANBegin 00:05:38.949
+\ELANEnd 00:05:39.677
+\ELANParticipant KKK
+
+\id Kirillina_KK_history_043
+\tx ọttọn bi..., ịan           bihni,          bejelńun,       honte bejelńun.
+\mb ọttọn bi ịak  -n(I)     bi -R(E)   -n(I) bej -E  -L  -ńUn honte bej -E  -L  -ńUn
+\ps ptl   v  pron           v                n                adj   n               
+\ge dp.Y  be what -poss.3sg be -nonfut -3sg  man -ep -pl -com other man -ep -pl -com
+\ft He had what (there were his what), with people, with other people.
+\ru у него что-то было , вместе с людьми, с другими людьми
+\ELANBegin 00:05:39.677
+\ELANEnd 00:05:44.578
+\ELANParticipant
+
+\id Kirillina_KK_history_044
+\tx Tara.
+\mb tarak
+\ps pron 
+\ge dist 
+
+\ru
+\ELANBegin 00:05:44.578
+\ELANEnd 00:05:45.982
+\ELANParticipant
+
+\id Kirillina_KK_history_045
+\tx Tar   ịlan mịar     tụrkịdụ  họːjakie    ọrọm               kojeːtmi         naːda.
+\mb tarak ịlan  mịan -L  tụrkị -DU  họːja =kE   ọrọn              -W   kojeːt  -mI       nado  
+\ps pron  num   num      n          quant       n                      v                 v     
+\ge dist  three ten  -pl sled  -dat many  =emph domestic.reindeer -acc look.at -cond.cvb need.R
+\ft With 30 sleds you have to look after a lot of reindeer.
+\ph kojetmi with short e
+\ru На 30и санях много оленей нужно смотреть.
+\ELANBegin 00:05:45.982
+\ELANEnd 00:05:50.740
+\ELANParticipant
+
+\id Kirillina_KK_history_046
+\tx Họːja tọbọr ịak, ịak gerbe bihin              naledj?
+\mb họːja tawụr ịak  ịak  gerbe bi -RI  -n(I)     naledj           
+\ps quant pron  pron pron n     v                 n                
+\ge many  this  what what name  be -pst -poss.3sg water.above.ice.R
+\ft There are a lot of these, what was the name, naledj.
+\ph
+\nt naledj are places in the rivers where water comes up and covers the already frozen sheet of ice; this water then freezes as well, but generally
+with a very thin sheet of ice, so that it breaks very easily, not only when a truck drives over it, but also when reindeer sleds or even humans
+go over it
+\qu
+\ru Много этих наледей
+\ELANBegin 00:05:50.740
+\ELANEnd 00:05:57.903
+\ELANParticipant
+
+\id Kirillina_KK_history_047
+\tx Họːjat...  urge  họtaran,  ọkaːtta    họːja, hịgịːda.
+\mb họːja -Č   urge  họtọran ọkaːt =DE  họːja hịgịː  =DE 
+\ps quant      adj   n       n          quant n          
+\ge many  -ins heavy road    river =ptl many  forest =ptl
+\ft many... a difficult road, lots of rivers, and the forest
+\ph
+\ru тяжелая дорога, и много рек, и лес
+\ELANBegin 00:05:57.903
+\ELANEnd 00:06:03.792
+\ELANParticipant
+
+\id Kirillina_KK_history_048
+\tx Haːmaj ịak egdʒen urge  tọbọr ịak, dʒọːtịhal.
+\mb samyj  ịak  egdʒen urge  tawụr ịak  dʒọːtịs         -E  -L 
+\ps adj    pron adj    adj   pron  pron n                      
+\ge most.R what big    heavy this  what water.above.ice -ep -pl
+\ft The most difficult thing are the naledj, the water above ice.
+\ru Самое тяжелое это наледь
+\ELANBegin 00:06:03.792
+\ELANEnd 00:06:06.977
+\ELANParticipant
+
+\id Kirillina_KK_history_049
+\tx Egdʒen ịlan dʒọːtịs   bihni,          ewehki         emedmi.
+\mb egdʒen ịlan  dʒọːtịs         bi -R(E)   -n(I) erek -skI      em   -E  -D    -mI      
+\ps adj    num   n               v                pron           v                       
+\ge big    three water.above.ice be -nonfut -3sg  prox -advb.all come -ep -prog -cond.cvb
+\ft There are three big naledj (water above ice) coming here.
+\ph
+\nt These naledj are always in the same place of the rivers, and they are really extensive, several hundred meters at least
+\ru 3 больших наледей есть когда едешь сюда
+\ELANBegin 00:06:06.977
+\ELANEnd 00:06:09.889
+\ELANParticipant
+
+\id Kirillina_KK_history_050
+\tx Tar   dʒọːtịhalbụ         dawnịkan           họːja gruhu        emuwreritnen.
+\mb tarak dʒọːtịs         -E  -L  -W   daw         -nIkEn   họːja gruz    -W   em   -U    -Gr(E) -RI  -tEn     
+\ps pron  n                            v                    quant n            v                               
+\ge dist  water.above.ice -ep -pl -acc cross.river -sim.cvb many  cargo.R -acc come -caus -hab   -pst -poss.3pl
+
+\ft Crossing those naledj they brought a lot of cargo.
+\ru А переходя эти наледи много груза привозили.
+\ELANBegin 00:06:09.889
+\ELANEnd 00:06:14.465
+\ELANParticipant
+
+\id Kirillina_KK_history_051
+\tx Tara.
+\mb tarak
+\ps pron 
+\ge dist 
+
+\ru
+\ELANBegin 00:06:14.465
+\ELANEnd 00:06:16.610
+\ELANParticipant
+
+\id Kirillina_KK_history_052
+\tx Go    ọddọn         paka    čto,  paka    čto.
+\mb ge    ọd   -R(E)   -n(I) poka    čto    poka    čto   
+\ps excl  v                  ptl     pron   ptl     pron  
+\ge exclm stop -nonfut -3sg  until.R what.R until.R what.R
+\ft Well, that's it for now.
+\ph says paka štön at the end, which IVK interpreted as "goːnteken"
+\ru ну все пока
+\ELANBegin 00:06:16.610
+\ELANEnd 00:06:19.795
+\ELANParticipant
+
+\id Kirillina_KK_history_053
+\tx A tam ja eshe xotela sprosit'...
+\ft I still wanted to ask...
+\ELANBegin 00:06:19.795
+\ELANEnd 00:06:24.033
+\ELANParticipant BP
+
+\id Kirillina_KK_history_054
+\tx Pravda, ajdịtta,   elekes   kiːne   ele          emuritne                  semidesjatye gody?
+\ft Is it true that they brought the first movies here in the 1970s?
+\ru
+\ELANBegin 00:06:24.033
+\ELANEnd 00:06:36.006
+\ELANParticipant BP
+
+\id Kirillina_KK_history_055
+\tx Es,  ehni,          ne    semidesjatye
+\mb es   e   -R(E) -n(I) ne    semidesjatye
+\ps interj v               ptl   adj         
+\ge no.Y neg -nfut -3sg  neg.R seventies.R 
+\ft no, not the 1970s
+\ph
+\nt BP says "kiːne klubla" here as well, "movies in the club"
+\ru
+\ELANBegin 00:06:36.006
+\ELANEnd 00:06:38.697
+\ELANParticipant KKK
+
+\id Kirillina_KK_history_056
+\tx Ịamị nadan mịar?
+\mb ịamị nadan mịan -L 
+\ps pron num   num     
+\ge why  seven ten  -pl
+\ft Why the seventies?
+\ru Почему 70е?
+\ELANBegin 00:06:38.697
+\ELANEnd 00:06:40.660
+\ELANParticipant
+
+\id Kirillina_KK_history_057
+\tx Kiːne   tụŋŋan mịar     anŋanịldụda        bihin,            ee, eleːr,               tụŋŋan mịar.
+\mb kino     tụnŋan mịan -L  anŋan -E  -L  -DU  =DE  bi -RI  -n(I)     ee erek -(dU)LE -WUr     tụnŋan mịan -L 
+\ps n        num    num      n                       v                 interj pron                  num    num     
+\ge movies.R five   ten  -pl year  -ep -pl -dat =ptl be -pst -poss.3sg eh prox -loc    -prfl.pl five   ten  -pl
+\ft Movies were (shown) here in the 1950s.
+\ph
+\gr anŋanịldu with plural is fine, since it refers to several years
+\ru Кино здесь было и в 50е годы.
+\ELANBegin 00:06:40.660
+\ELANEnd 00:06:48.187
+\ELANParticipant
+
+\id Kirillina_KK_history_058
+\tx Biː baldaddakụ                      kiːne   bihin,            biče      uhu.
+\mb biː balda   -D    -REk      -W        kino     bi -RI  -n(I)     bi -čE     ühü  
+\ps pron v                                 n        v                 v          ptl  
+\ge 1sg be.born -prog -cond.cvb -poss.1sg movies.R be -pst -poss.3sg be -pf.ptc hsy.Y
+
+\ft When I was being born there were movies, they say.
+\ph
+\gr she uses the progressive form here because as she tells in record 66, they were showing a movie at the time when she was being born
+\ru Когда я рождалась кино было, было говорят.
+\ELANBegin 00:06:48.187
+\ELANEnd 00:06:54.518
+\ELANParticipant
+
+\id Kirillina_KK_history_059
+\tx Klubla         ičukenni?
+\ft intendend: they were shown in the club?
+\ru
+\ELANBegin 00:06:54.518
+\ELANEnd 00:06:56.364
+\ELANParticipant BP
+
+\id Kirillina_KK_history_060
+\tx Ee, klub,  tọbọr klub
+\mb ee klub   tawụr klub  
+\ps interj n      pron  n     
+\ge eh club.R this  club.R
+\ft yes, this club
+\ru клуб этот клуб
+\ELANBegin 00:06:56.364
+\ELANEnd 00:06:59.107
+\ELANParticipant KKK
+
+\id Kirillina_KK_history_061
+\tx Srazu     pasjọlok erek bileːk   ọːbọddọkọn,                          srazu     tar   klubu
+\mb srazu     poselok   erek bileːk    ọː     -B   -E  -D    -REk      -E  -n(I)     srazu     tarak klub   -W  
+\ps adv       n         pron n         v                                             adv       pron  n          
+\ge at.once.R village.R prox territory become -med -ep -prog -cond.cvb -ep -poss.3sg at.once.R dist  club.R -acc
+
+\tx ọːlčal.
+\mb ọː   -L    -čE     -L 
+\ps v                     
+\ge make -inch -pf.ptc -pl
+\ft As soon as this village was set up, they immediately started building the club.
+\ph
+\gr *ọːddọkọn  (without the mediopassive) = would have been ungrammatical
+\nt the building of the old club is still standing, though in the meantime they have built a new and much bigger club
+\ru Когда этот поселок становился (делался), сразу этот клуб сделали (начали строить).
+\ELANBegin 00:06:59.107
+\ELANEnd 00:07:04.775
+\ELANParticipant
+
+\id Kirillina_KK_history_062
+\tx I srazu...
+
+\ft and at once...
+\ELANBegin 00:07:04.775
+\ELANEnd 00:07:05.932
+\ELANParticipant BP
+
+\id Kirillina_KK_history_063
+\tx Tarakam,      tarakam       egdʒen ịak  bọ(lla)                   sovietskaj biriemedu,  ọttọn nọnap    begdečeːk             ńan
+\mb tarakam       tarakam       egdʒen ịak  buol  -dEg      -E          sovetskij vremja -DU  ọttọn nọnap      beg      -DE -Č   -ČEk ńaːn
+\ps adv           adv           adj    pron v                           adj       n           ptl   adj        v                      adv 
+\ge in.those.days in.those.days big    what aux.Y -assert.Y -poss.3sg.Y Soviet.R  time.R -dat dp.Y  the.first. medicine -vr -res -nr  and 
+
+\tx klub   ńan   hupkučeːk, tawụr ọːwọjaktaːk          gerbe egdʒen ụkas.
+\mb klub   ńaːn hupkut -ČEk tawụr ọː   -W     -E  -jEktEːk gerbe egdʒen ukaz    
+\ps n      adv  v           pron  v                        n     adj    n       
+\ge club.R and  learn  -nr  this  make -advrs -ep -nec.Y   name  big    decree.R
+
+\ft In those days, something big, in the Soviet times, first the hospital and the club and the school, there was a decree that this had to be built.
+\ph
+\gr although she translated ọːwọjaktaːk gerbe ukaz with a past tense necessitative (dolžno bylo bytj sdelano), on the 01.03.2012 when I checked
+she agreed that the necessitative itself has a nonpast meaning (dolžno bytj sdelano), and that she added the past tense because it is of course
+clear that everything talked about here took place in the past, in the 1930s
+\gr gerbe here functions as a complementizer indicating that the entire sentence from "nọnap..." to "...ọːwọjaktaːk" is a complement of ụkas
+\ru Тогда тогда что-то большое (было) в советское время, первыми больница и клуб и школа, это должно было быть сделано, такой указ.
+\ELANBegin 00:07:05.932
+\ELANEnd 00:07:19.439
+\ELANParticipant KKK
+
+\id Kirillina_KK_history_064
+\tx Tarakam
+\mb tarakam      
+\ps adv          
+\ge in.those.days
+
+\ru
+\ELANBegin 00:07:19.439
+\ELANEnd 00:07:23.625
+\ELANParticipant
+
+\id Kirillina_KK_history_065
+\tx Biː dʒoːrmịar      dʒoːr, aprel   dʒoːrmịar      dʒoːr ineŋidun            baldarịw,            tarakam       ere
+\mb biː dʒoːr mịan -L  dʒoːr aprel   dʒoːr mịan -L  dʒoːr ineŋ -DU  -n(I)     balda   -RI  -W        tarakam       erek
+\ps pron num   num      num   n       num   num      num   n                   v                      adv           pron
+\ge 1sg two   ten  -pl two   April.R two   ten  -pl two   day  -dat -poss.3sg be.born -pst -poss.1sg in.those.days prox
+
+\tx eknilbu                     dʒọngarar
+\mb eken         -SEl -W        dʒọn     -Gr(E) -r  
+\ps n                           v                   
+\ge older.sister -pl  -poss.1sg remember -hab   -3pl
+\ft I was born on the 22nd of April, then my older sisters remember
+\ru Я родилась 22го апреля, тогда мои старшие сестры вспоминают
+\ELANBegin 00:07:23.625
+\ELANEnd 00:07:33.466
+\ELANParticipant
+
+\id Kirillina_KK_history_066
+\tx Tar   kiːnele         Lenin dʒugulin                kiːnew       itneddeken,                               Stalin
+\mb tarak kino     -(dU)LE Lenin dʒugu -(dU)LI -n(I)     kino     -W   it  -nE     -D    -REk      -E  -n(I)     Stalin
+\ps pron  n                ?     rel.n                   n             v                                         ?     
+\ge dist  movies.R -loc    Lenin about -prol   -poss.3sg movies.R -acc see -intent -prog -cond.cvb -ep -poss.3sg Stalin
+
+\tx Lenin dʒugulin                kiːnew       itneddeketnen                             biː baldača        bihem,
+\mb Lenin dʒugu -(dU)LI -n(I)     kino     -W   it  -nE     -D    -REk      -E  -tEn      biː balda   -čE     bi -R(E)   -m  
+\ps ?     rel.n                   n             v                                         pron v               v              
+\ge Lenin about -prol   -poss.3sg movies.R -acc see -intent -prog -cond.cvb -ep -poss.3pl 1sg be.born -pf.ptc be -nonfut -1sg
+
+\tx biče      bihem.
+\mb bi -čE     bi -R(E)   -m  
+\ps v          v              
+\ge be -pf.ptc be -nonfut -1sg
+\ft When they were going to see a movie about Lenin, when they were going to see a movie about Stalin and Lenin, I was born.
+\ph
+\gr IVK couldn't explain (or even see) the difference in meaning between baldača bihem and baldača biče bihem, but KKK obviously felt a
+difference, because she corrected herself
+\ru Когда они шли посмотреть кино про Ленина, когда они шли смотреть кино про Сталина и Ленина, я родилась.
+\ELANBegin 00:07:33.466
+\ELANEnd 00:07:43.242
+\ELANParticipant
+
+\id Kirillina_KK_history_067
+\tx Tara.
+\mb tarak
+\ps pron 
+\ge dist 
+
+\ru
+\ELANBegin 00:07:43.242
+\ELANEnd 00:07:45.790
+\ELANParticipant
+
+\id Kirillina_KK_history_068
+\tx Teːmi    tar   tụŋŋan mịar     tụŋŋan anŋanịldụ     biče      kiːne.
+\mb teːmi     tarak tụnŋan mịan -L  tụnŋan anŋan -E  -L  -DU  bi -čE     kino    
+\ps conj      pron  num    num      num    n                  v          n       
+\ge therefore dist  five   ten  -pl five   year  -ep -pl -dat be -pf.ptc movies.R
+\ft So in the year 1955 there were movies.
+\ph
+\gr here the plural on anganiLdu is incorrect because it's just one year, 1955, should be anŋanịdụ 
+\ru Поэтому в 55е годы было кино.
+\ELANBegin 00:07:45.790
+\ELANEnd 00:07:50.197
+\ELANParticipant
+
+\id Kirillina_KK_history_069
+\tx Uže      kino     biče.
+\mb uže       kino     bi -čE    
+\ps adv       n        v         
+\ge already.R movies.R be -pf.ptc
+\ft There were already movies.
+\ru Уже было кино
+\ELANBegin 00:07:50.197
+\ELANEnd 00:07:56.359
+\ELANParticipant 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My Documents/Even
+project/Sebjan_2010_fielddata/sound_files/spontaneous_Marantz/Kirillina_KK_history_210310_Sebjan.wav
+\ELANMediaMIME audio/x-wav

@@ -1,0 +1,428 @@
+\_sh v3.0  658  Text
+
+\id Zaxarova_Zhenja_pear_story_000_metadata
+\ref Recorded on 28 Feb 2008 by Brigitte Pakendorf in Sebjan-Küöl, in an empty
+classroom in the school, afternoon, quite some kids screaming and banging.
+Showed her the film twice, then she told it to her mother EISh
+\qu Transcribed by Ekaterina Igorevna Shadrina, Russian translation by Ija Vasil'evna
+Krivoshapkina, glossed by BP. Funding by Max Planck Society (MPRG on
+Comparative Population Linguistics). Speaker abbreviation = EZ
+\ref Zhenja was 12 years at old at time of recording, daughter of Ekaterina Shadrina
+
+\id Zaxarova_Zhenja_pear_story_01
+\ref 0:42
+\tx Omen bej omneken        hịakịtala       grušalbu
+\mb omen bej omen -REkEn    hịakịta -(dU)LE gruša  -L  -W  
+\ps num  n   num            n               n              
+\ge one  man one  -iter.adv tree    -loc    pear.R -pl -acc
+
+\tx ịadča,             tawadča.
+\mb ịa      -D    -čE     taw                     -E  -D    -čE    
+\ps v                     v                                        
+\ge do.what -prog -pf.ptc gather.scattered.things -ep -prog -pf.ptc
+
+\ft Once one man gathered pears in a tree.
+\ru Однажды один человек собирал на дереве грушы.
+\ph
+\gr
+
+\id Zaxarova_Zhenja_pear_story_02
+\ref 0:50
+\tx Tarịt nọŋan tawaddakan
+\mb tarịt nọŋan taw                     -E  -D    -REk      -E  -n(I)    
+\ps adv   pron  v                                                        
+\ge then  3sg   gather.scattered.things -ep -prog -cond.cvb -ep -poss.3sg
+
+\tx nọŋan hatlịn               kozalkan     bej herče.
+\mb nọŋan hat  -(dU)LI -n(I)     koza   -lkEn bej hor -čE    
+\ps pron  rel                    n            n   v          
+\ge 3sg   base -prol   -poss.3sg goat.R -prop man go  -pf.ptc
+
+\ft Then when he was gathering, next to him a man with a goat walked past.
+\ru Потом когда он собирал, рядом с ним прошел человек с козой.
+\ph
+\gr
+
+\id Zaxarova_Zhenja_pear_story_03
+\ref 0:55
+\tx Tarịt ńanda      xọmụjaddakan                          kụŋa
+\mb tarịt ńaːn  =DE  xọmụj    -E  -D    -REk      -E  -n(I)     kụŋa 
+\ps adv   ?          v                                          n    
+\ge then  again =ptl gather.Y -ep -prog -cond.cvb -ep -poss.3sg child
+
+\tx emče.
+\mb em   -čE    
+\ps v           
+\ge come -pf.ptc
+
+\ft Then while he was still gathering, a child came.
+\ru Потом когда он еще собирал, пришел ребенок.
+\ph
+\gr
+\nt
+
+\id Zaxarova_Zhenja_pear_story_04
+\ref 1:00
+\tx Kụŋa belosipedelken      emče.
+\mb kụŋa  velosiped -E  -lkEn em   -čE    
+\ps n     n                   v           
+\ge child bicycle.R -ep -prop come -pf.ptc
+\ft A child on a bike came.
+\ru Ребенок приехал с велосипедом.
+\ph
+\gr
+
+\id Zaxarova_Zhenja_pear_story_05
+\ref 1:02
+\tx Tarịt, tarịt omen jabl..., omen grušaw     gača,
+\mb tarịt tarịt omen jabloko omen gruša  -W   ga   -čE    
+\ps adv   adv   num  n       num  n           v           
+\ge then  then  one  apple.R one  pear.R -acc take -pf.ptc
+
+\tx est...      gadaj                   nekče,     tarịt ečin
+\mb e   -R(E)   ga   -DE       -J       nek -čE     tarịt erroːčin 
+\ps v           v                       v           adv   pron     
+\ge neg -nonfut take -purp.cvb -prfl.sg do  -pf.ptc then  prox.qual
+
+\tx dʒọmkatča:
+\mb dʒọmkat -čE    
+\ps v              
+\ge think   -pf.ptc
+
+\ft Then he took one pear, wanted to take, then he thought like this:
+\ru Потом он взял одну грушу, собрался взять, потом подумал так:
+\ph
+\gr
+\nt probably wanted to say jabloko, and then broke of "jawol"
+
+\id Zaxarova_Zhenja_pear_story_06
+\ref 1:10
+\tx "Ịamị biː omemńun         garam,            biː họːjaw
+\mb ịamị biː omen -W   =ńUn   ga   -R(E)   -m   biː họːja -W  
+\ps pron pron num              v                 pron quant     
+\ge why  1sg one  -acc =restr take -nonfut -1sg 1sg many  -acc
+
+\tx gadʒịm."
+\mb ga   -DʒI -m  
+\ps v             
+\ge take -fut -1sg
+
+\ft "Why did I take just one, I will take many."
+\ru Почему я взял только одну, возьму много.
+\ph
+\gr
+\nt
+
+\id Zaxarova_Zhenja_pear_story_07
+\ref 1:13
+\tx Tarịt bekeččeːmen                 gača.
+\mb tarịt bekeč -čEn -W   -E  -n(I)     ga   -čE    
+\ps adv   adv                           v           
+\ge then  all   -dim -acc -ep -poss.3sg take -pf.ptc
+
+\ft Then he took all.
+\ru Потом взял все.
+\ph bökəčeːmən
+\gr
+
+\id Zaxarova_Zhenja_pear_story_08
+\ref 1:16
+\tx Tarịt nọŋan tačịn       velosipedat        dʒọrmịča,        tar
+\mb tarịt nọŋan tarọːčịn  velosiped -E  -Č   dʒọrọm -E  -čE     tarak
+\ps adv   pron  pron      n                  v                  pron 
+\ge then  3sg   dist.qual bicycle.R -ep -ins steal  -ep -pf.ptc dist 
+
+\tx bejduk.
+\mb bej -DUk(U)
+\ps n          
+\ge man -abl   
+
+\ft Then he stole them like this on the bike, from that man.
+\ru Потом он так на велосипеде украл, у этого человека.
+\ph
+\gr
+\nt
+
+\id Zaxarova_Zhenja_pear_story_09
+\ref 1:21
+\tx Tarịt horče.
+\mb tarịt hor -čE    
+\ps adv   v          
+\ge then  go  -pf.ptc
+\ft Then he left.
+\ru Потом уехал.
+\ph hərča
+\gr
+
+\id Zaxarova_Zhenja_pear_story_10
+\ref 1:23
+\tx Tačịn       horoddokon                          emiske     omen ahịk..
+\mb tarọːčịn  hor -E  -D    -REk      -E  -n(I)     emiske     omen asị  
+\ps pron      v                                     adv        num  n    
+\ge dist.qual go  -ep -prog -cond.cvb -ep -poss.3sg suddenly.Y one  woman
+
+\tx ahịkkan   emie   velosipedelkan,     velosipedelkan
+\mb asị   -kkEn emie   velosiped -E  -lkEn velosiped -E  -lkEn
+\ps n           adv    n                   n                  
+\ge woman -dim  also.Y bicycle.R -ep -prop bicycle.R -ep -prop
+
+\tx deːpkit      emedče.
+\mb deːpki   -Č   em   -E  -D    -čE    
+\ps postpos       v                     
+\ge opposite -ins come -ep -prog -pf.ptc
+
+\ft While he was riding like this, suddenly a girl, also on a bike, was riding towards
+(him).
+\ru Когда он так ехал, вдруг навстречу ехала девочка, тоже на велосипеде.
+\ph
+\gr it should be deːpki, but she says deːpkiT
+
+\id Zaxarova_Zhenja_pear_story_11
+\ref 1:33
+\tx Nọŋan aːwụman,                tar   ahịkkan,  nọŋan ọmọlgọ
+\mb nọŋan aːwụn -W   -E  -n(I)     tarak asị   -kkEn nọŋan ọmọlga
+\ps pron  n                        pron  n           pron  n     
+\ge 3sg   hat   -acc -ep -poss.3sg dist  woman -dim  3sg   boy   
+
+\tx aːwụman                 tipkenče.
+\mb aːwụn -W   -E  -n(I)     tik  -WkEn -čE    
+\ps n                        v                 
+\ge hat   -acc -ep -poss.3sg fall -caus -pf.ptc
+
+\ft His hat, that girl dropped the hat of the boy.
+\ru Его шапку, эта девочка шапку мальчика уронила.
+\ph
+\gr
+\nt
+\qu
+
+\id Zaxarova_Zhenja_pear_story_12
+\ref 1:37
+\tx Tarịt ọmọlgọnị     aːwụmị       hepkussimi,
+\mb tarịt ọmọlga -n(I)     aːwụn -J       hepken -sčI   -mI      
+\ps adv   n                n              v                      
+\ge then  boy    -poss.3sg hat   -prfl.sg catch  -conat -cond.cvb
+
+\tx ịŋala       họrrịdʒị,    tikče,      velosipedelkakan
+\mb ịŋa   -(dU)LE họr        -RIdʒI   tik  -čE     velosiped -E  -lkEn -KEn
+\ps n             v                   v            n                       
+\ge stone -loc    get.caught -ant.cvb fall -pf.ptc bicycle.R -ep -prop -dim
+
+\tx tikče.
+\mb tik  -čE    
+\ps v           
+\ge fall -pf.ptc
+
+\ft Then the boy, trying to catch his hat, having hit a stone, fell, fell together with his
+bike.
+\ru Потом мальчик пытаясь схватить свою шапку, попав на камень, упал, упал
+вместе с велосипедом.
+\ph
+\gr should be omolgo, not omolgoni
+\nt the Diminutive suffix in "velosipedelkakan" gives it an emphatic nuance
+
+\id Zaxarova_Zhenja_pear_story_13
+\ref 1:45
+\tx Tar   ọjịŋị             epteddeken,                        hịakịta
+\mb tarak ọj      -E  -ŋ   -J       epte  -D    -REk      -E  -n(I)     hịakịta
+\ps pron  n                         v                                   n      
+\ge dist  clothes -ep -aln -prfl.sg shake -prog -cond.cvb -ep -poss.3sg tree   
+
+\tx hatlan                 tikčelen,                     ịlan ọmọlgọl
+\mb hat  -(dU)LE -n(I)     tik  -čE     -(dU)LE -n(I)     ịlan  ọmọlga -L 
+\ps rel                    v                              num   n         
+\ge base -loc    -poss.3sg fall -pf.ptc -loc    -poss.3sg three boy    -pl
+
+\tx nọŋman               itčel.
+\mb nọŋan -W   -n(I)     it  -čE     -L 
+\ps pron                 v              
+\ge 3sg   -acc -poss.3sg see -pf.ptc -pl
+
+\ft While he was shaking off his clothes, when he fell next to a tree, three boys saw
+him.
+\ru Когда он стряхивал одежду, когда он упал возле дерева, его увидели 3
+мальчика.
+\ph
+\gr epteddeken = vo vremja straxivanija, durativity (because of the Progressive
+suffix), tikčelen = kogda zakončil, a perfective meaning; however, the difference
+in meaning is not due to any difference in the construction (Conditional converb
+vs Perfect participle), but due to the Progressive suffix which gives the meaning
+of durativity
+
+\id Zaxarova_Zhenja_pear_story_14
+\ref 1:51
+\tx Tarịt ịa... grušalban                   ịačal,
+\mb tarịt ịa      gruša  -L  -W   -E  -n(I)     ịa      -čE     -L 
+\ps adv   v       n                             v                  
+\ge then  do.what pear.R -pl -acc -ep -poss.3sg do.what -pf.ptc -pl
+
+\tx kömölösčöl        kọmụjdan                  goːmi.
+\mb kömölös -čE     -L  xọmụj    -DE       -n(I)     goːn -mI      
+\ps v                   v                            v             
+\ge help.Y  -pf.ptc -pl gather.Y -purp.cvb -poss.3sg say  -cond.cvb
+
+\ft Then they did his pears, helped, so that he gathered (helped him gather his pears).
+\ru Потом они его груши делали, помогали, чтобыл он собрал.
+\ph
+\gr Purposive converb plus converb of "say" to mean "in order to" --> Sakha
+influence
+
+\id Zaxarova_Zhenja_pear_story_15
+\ref 1:58
+\tx Tarịt, tarịt tawčal.
+\mb tarịt tarịt taw                     -čE     -L 
+\ps adv   adv   v                                  
+\ge then  then  gather.scattered.things -pf.ptc -pl
+\ft Then they gathered.
+\ru Потом они собрали.
+\ph
+\gr
+
+\id Zaxarova_Zhenja_pear_story_16
+\ref 2:01
+\tx Tar   kụŋačan,  tar   kụŋačan   velosipedlan
+\mb tarak kụŋa  -čEn tarak kụŋa  -čEn velosiped -(dU)LE -n(I)    
+\ps pron  n          pron  n          n                          
+\ge dist  child -dim dist  child -dim bicycle.R -loc    -poss.3sg
+
+\tx neːridʒur,      tar   kụŋa emie   ńanda      horče.
+\mb neː -RIdʒI   -L  tarak kụŋa  emie   ńaːn  =DE  hor -čE    
+\ps v                pron  n     adv    ?          v          
+\ge put -ant.cvb -pl dist  child also.Y again =ptl go  -pf.ptc
+
+\ft When they had put (the pears) on the bike of that kid, that kid again rode off.
+\ru Положив на велосипед того ребенка, этот ребенок опять поехал.
+\ph
+
+\id Zaxarova_Zhenja_pear_story_17
+\ref 2:08
+\tx Tar   ńanda      horeddeken,                         tar   kụŋa
+\mb tarak ńaːn  =DE  hor -E  -D    -REk      -E  -n(I)     tarak kụŋa 
+\ps pron  ?          v                                     pron  n    
+\ge dist  again =ptl go  -ep -prog -cond.cvb -ep -poss.3sg dist  child
+
+\tx edlen                  gọrọllọ,        kiːkečel.
+\mb e   -dle     -n(I)     gọrụ -l  -R       kieke   -čE     -L 
+\ps v                      v                 v                  
+\ge neg -trm.cvb -poss.3sg far  -vr -neg.cvb whistle -pf.ptc -pl
+
+\ft When he again rode, while that kid had not gone far, they whistled.
+\ru Когда он опять ехал, пока этот ребенок не удалился (не уехал далеко), они
+свистнули.
+\ph
+
+\id Zaxarova_Zhenja_pear_story_18
+\ref 2:12
+\tx Tarịt ečin      goːnčel:
+\mb tarịt erroːčin  goːn -čE     -L 
+\ps adv   pron      v               
+\ge then  prox.qual say  -pf.ptc -pl
+\ft Then they said like this:
+\ru Потом так сказали:
+\ph
+\gr
+\nt
+
+\id Zaxarova_Zhenja_pear_story_19
+\ref 2:13
+\tx "Aːwụmị      ọmŋọčọ  bihenni",       goːnčel.
+\mb aːwụn -J       ọmŋa   -čE     bi -R(E)   -nrI goːn -čE     -L 
+\ps n              v              v               v               
+\ge hat   -prfl.sg forget -pf.ptc be -nonfut -2sg say  -pf.ptc -pl
+\ft "You have forgotten your hat", (they) said.
+\ru Ты забыл свою шапку, сказали.
+\ph
+\gr
+\nt
+
+\id Zaxarova_Zhenja_pear_story_20
+\ref 2:16
+\tx Tarịt tar   kụŋa alatča,     aːwụman                 boːčel,
+\mb tarịt tarak kụŋa  alat -čE     aːwụn -W   -E  -n(I)     boː  -čE     -L 
+\ps adv   pron  n     v            n                        v               
+\ge then  dist  child wait -pf.ptc hat   -acc -ep -poss.3sg give -pf.ptc -pl
+
+\tx tarịt... ńan... tarịt ịlan, ịlan grušaw     barịča.
+\mb tarịt ńaːn  tarịt ịlan  ịlan  gruša  -W   bọrị  -čE    
+\ps adv   ?     adv   num   num   n           v            
+\ge then  again then  three three pear.R -acc share -pf.ptc
+
+\ft Then that child waited, (they) gave (him) his hat, then he shared three pears (gave
+them three pears).
+\ru Потом этот ребенок подождал, его шапку дали, потом он отдал 3 груши.
+\ph
+\gr
+
+\id Zaxarova_Zhenja_pear_story_21
+\ref 2:25
+\tx Tar   kụŋal    horčel,        ịak, tar   bej, dʒọrmịwča,
+\mb tarak kụŋa  -L  hor -čE     -L  ịak  tarak bej dʒọrọm -E  -W     -čE    
+\ps pron  n         v               pron pron  n   v                        
+\ge dist  child -pl go  -pf.ptc -pl what dist  man steal  -ep -advrs -pf.ptc
+
+\tx grušalkan   bej, bej hatlịn               horčel.
+\mb gruša  -lkEn bej bej hat  -(dU)LI -n(I)     hor -čE     -L 
+\ps n            n   n   rel                    v              
+\ge pear.R -prop man man base -prol   -poss.3sg go  -pf.ptc -pl
+
+\ft These children left, they walked past this man, the one who had been stolen from
+(the one whose pears were stolen), the man with the pears.
+\ru Эти дети ушли, они прошли мимо этого человека обворованного, человека с
+грушами.
+\ph
+
+\id Zaxarova_Zhenja_pear_story_22
+\ref 2:33
+\tx Tar   bej bụọlla   ečin      dʒọmkatča:
+\mb tarak bej buollaγïna erroːčin  dʒọmkat -čE    
+\ps pron  n   ptl        pron      v              
+\ge dist  man dp.Y       prox.qual think   -pf.ptc
+
+\ft And that man thought like this:
+\ru А этот человек подумал так:
+\ph
+\gr
+\nt
+
+\id Zaxarova_Zhenja_pear_story_23
+\ref 2:36
+\tx Er   ịlan ọmọlgọl  biː grušawu              dʒọrmịčal
+\mb erek ịlan  ọmọlga -L  biː gruša  -W   -W        dʒọrọm -E  -čE     -L 
+\ps pron num   n          pron n                     v                     
+\ge prox three boy    -pl 1sg pear.R -acc -poss.1sg steal  -ep -pf.ptc -pl
+
+\tx uručun,  goːnče.
+\mb ureːčin  goːn -čE    
+\ps ?        v           
+\ge it.seems say  -pf.ptc
+
+\ft "These three boys stole my pears, it seems", he said.
+\ru Эти мальчики кажется украли мои груши, сказал.
+\ph erel ọnọmọlgọl; goːnčel
+\gr
+\nt She actually said "goːnčeL", but that's just a slip of the tongue.
+
+\id Zaxarova_Zhenja_pear_story_24
+\ref 2:40
+\tx Tarịt tar   kụŋal    heressočel.
+\mb tarịt tarak kụŋa  -L  hor -E  -sso -čE     -L 
+\ps adv   pron  n         v                       
+\ge then  dist  child -pl go  -ep -dur -pf.ptc -pl
+
+\ft Then these children continued walking.
+\ru Потом эти дети продолжали идти.
+\ph
+\gr
+\nt
+
+\id Zaxarova_Zhenja_pear_story_25
+\ref 2:43
+\tx Ọddan.
+\mb ọd   -R(E)   -n(I)
+\ps v                 
+\ge stop -nonfut -3sg 
+\ft Finished.
+\ru Все.
+\ph
+\gr
+\nt

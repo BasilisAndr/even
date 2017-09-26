@@ -1,0 +1,1095 @@
+\_sh v3.0  1170 Text
+
+\id Kirillina_KK_dve_skazki_000_metadata
+\ref Recorded on 22 March 2010 in Sebjan-Küöl by Brigitte Pakendorf and Natalia Aralova. KKK first came to the flat where NA and BP were
+staying on a Sunday morning, after prior arrangement. However, it turned out that she felt uncomfortable speaking Even to two
+near-strangers, especially with a microphone and video camera, so we agreed that she would come again and bring an Even audience with her.
+She therefore came again on Monday evening, bringing three boys with her to whom she could tell some fairy tales. The boys sat opposite her at
+the kitchen table, and NA and BP sat off to the side. KKK was clearly very nervous during the recording, her audience notwithstanding. It was
+very quiet during the recording, though there might be some dog barking and a truck may have gone by; also, one of the boys coughed several
+times
+\qu Transcription, translation and glossing in 2012; transcribed on pen & paper by Ija Vasil'evna Krivoshapkina, transcribed in ELAN by BP; Russian translation
+by IVK, glossing by BP. Funding by the Volkswagen Foundation (DoBeS grant). Speaker abbreviation = KKK.
+\ref Klavdija Konstantinovna Kirillina was 55 years old at the time of recording and a teacher at the school; she also led the after-school group
+(kruzhok) on local history and folklore.
+
+\id Kirillina_KK_dve_skazki_001
+\tx clap and date
+\ru
+\ELANBegin 00:00:00.010
+\ELANEnd 00:00:09.430
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_002
+\tx Kụŋal,   tiːk biː upeː       Mọːmịja teːleŋmen                teːleŋdʒim.
+\mb kụŋa  -L  tiek biː upeː        Mọːmịja teːleŋ -W   -E  -n(I)     teːleŋ -DʒI -m  
+\ps n         adv  pron n           ?       v                         v               
+\ge child -pl now  1sg grandmother Momija  tell   -acc -ep -poss.3sg tell   -fut -1sg
+
+\ft Children, now I will tell (you) granny Momija's tale.
+\ph
+\gr teːleŋ - in principle, an eastern dialectal and standard Even word, but some people here in Sebjan use it; more common, however,
+is ukčen
+\nt Mọːmịja - probably means something, but IVK didn't know what (there is a river here by that name, too)
+\ru Ребята, я (вам) сейчас расскажу рассказ бабушки Момийи.
+\ELANBegin 00:00:09.430
+\ELANEnd 00:00:14.620
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_003
+\tx Haːs-kụ    Mọːmịja upeːw?
+\mb haː  -s   =GU Mọːmịja upeː        -W  
+\ps v             ?       n               
+\ge know -2pl =q  Momija  grandmother -acc
+\ft Do you know granny Momija?
+\ph Mọːmịjupeːw
+\ru Знаете ли бабушку Момия? 
+\ELANBegin 00:00:14.620
+\ELANEnd 00:00:16.120
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_004
+\tx ee
+\mb ee
+\ps interj
+\ge eh
+
+\ru
+\ELANBegin 00:00:16.120
+\ELANEnd 00:00:16.680
+\ELANParticipant children
+
+\id Kirillina_KK_dve_skazki_005
+\tx Mut    čeːlet           upeːt                   ehni.
+\mb mut    čele -t(I)        upeː        -t(I)        e   -R(E) -n(I)
+\ps pron   n                 n                        v              
+\ge 1pl.in all  -poss.1pl.in grandmother -poss.1pl.in neg -nfut -3sg 
+
+\ft She is the grandmother of us all, right?
+\ph
+\gr čeːlet = lit. "our all/everything"
+\nt Mọːmịja - was a real person, she is not some legendary ancestor, she is KKK's grandmother, and may really have been some relative
+of the three boys who constituted the audience, since most people in Sebjan are related in some way or other
+\ru Она же бабушка для всех нас. 
+\ELANBegin 00:00:16.680
+\ELANEnd 00:00:19.870
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_006
+\tx Nọŋan teːleŋgererin                biː kočuken bihŋiwu.
+\mb nọŋan teːleŋ -Gr(E) -RI  -n(I)     biː kočuken bi -ŋsI      -W       
+\ps pron  v                            pron adj     v                     
+\ge 3sg   tell   -hab   -pst -poss.3sg 1sg small   be -impf.cvb -poss.1sg
+
+\ft She used to tell (this) when I was small.
+\ru Она рассказывала, когда я была маленькой
+\ELANBegin 00:00:19.870
+\ELANEnd 00:00:23.020
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_007
+\tx Oːtel     oːtel     omen haːwdị etiken   tegetče.
+\mb oːtel      oːtel      omen hagdị etikeːn teg      -E  -Č   -čE    
+\ps adv        adv        num  adj   n       v                        
+\ge previously previously one  old   old.man sit.down -ep -res -pf.ptc
+
+\ft A long time ago an old old man lived.
+\ru Давним давно жил один старый старик.
+\ELANBegin 00:00:23.020
+\ELANEnd 00:00:29.050
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_008
+\tx Ńanda      egdʒoːmeje        eteː       biče,     mut    abaga       goːŋgererep,               goːli.        
+\mb ńaːn =DE  egdʒen =eː   -mEjE eteː        bi -čE     mut    abaga       goːn -Gr(E) -R(E)   -p      goːn -LI     
+\ps adv       adj                n           v          pron   n           v                           v            
+\ge and  =ptl big    =emph -aug  grandfather be -pf.ptc 1pl.in grandfather say  -hab   -nonfut -1pl.in say  -imp.2sg
+
+\ft And he was a huge grandad, we say "abaga", right.
+\ph
+\gr eteː = standard Even, that is why she explains to the children that here in Sebjan they would say 'abaga'
+\ru Опять же был большущим стариком (мы называем абага).
+\ELANBegin 00:00:29.050
+\ELANEnd 00:00:35.310
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_009
+\tx Egdʒemeje,   egdʒoːn egdʒenet       toreri,         torelken        biče      nọŋan.
+\mb egdʒen -mEjE egdʒen egdʒen -E  -Č   tore  -RI       tore  -n  -lkEn bi -čE     nọŋan
+\ps adj          adj    adj             v               v               v          pron 
+\ge big    -aug  big    big    -ep -ins speak -impf.ptc speak -nr -prop be -pf.ptc 3sg  
+
+\ft Huge, and he had a big, big voice.
+\ph
+\gr toren = word, language and speech, but can in this somewhat metaphorical way used for 'voice'; normally, the word for 'voice' is
+dịlgan
+\ru Большущий, большой-большой голос имел он
+\ELANBegin 00:00:35.310
+\ELANEnd 00:00:41.630
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_010
+\tx Dʒoːr ọmọlgọlkan biče.
+\mb dʒoːr ọmọlga -lkEn bi -čE    
+\ps num   n            v         
+\ge two   boy    -prop be -pf.ptc
+\ft He had two sons.
+\ru У него было 2 сыновей
+\ELANBegin 00:00:41.630
+\ELANEnd 00:00:43.640
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_011
+\tx Tar   etiken   gerben          tačịn       tačịn       egdʒenet       toreridukun
+\mb tarak etikeːn gerbe -n(I)     tarọːčịn  tarọːčịn  egdʒen -E  -Č   tore  -RI       -DUk(U) -n(I)    
+\ps pron  n       n               pron      pron      adj             v                                
+\ge dist  old.man name  -poss.3sg dist.qual dist.qual big    -ep -ins speak -impf.ptc -abl    -poss.3sg
+
+\tx nọŋman               Awdịrị etiken   goːniken      gerbukkerečel.
+\mb nọŋan -W   -n(I)     agdịrị  etikeːn goːn -nIkEn   gerbu -Č   -Gr(E) -čE     -L 
+\ps pron                 n       n       v             v                            
+\ge 3sg   -acc -poss.3sg thunder old.man say  -sim.cvb call  -res -hab   -pf.ptc -pl
+
+\ft That old man's name... because he spoke so loudly they called him "Old Man Thunder".
+\ph
+\ru У этого старика имя – из-за того, что он так громко говорил, его называли Гром-старик
+\ELANBegin 00:00:43.640
+\ELANEnd 00:00:51.200
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_012
+\tx Awdịrịw     haːs     ehni?
+\mb agdịrị  -W   haː  -s   e   -R(E) -n(I)
+\ps n            v         v              
+\ge thunder -acc know -2pl neg -nfut -3sg 
+\ft You know what thunder is, right?
+\ph
+\gr aːwdịrị is not restricted to standard Even, is also used in Sebjan, so it's not quite clear why she felt she had to check with the kids
+whether they understood
+\ru Вы же знаете что такое гром? 
+\ELANBegin 00:00:51.200
+\ELANEnd 00:00:52.510
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_013
+\tx ee
+\mb ee
+\ps interj
+\ge eh
+
+\ru
+\ELANBegin 00:00:52.510
+\ELANEnd 00:00:53.600
+\ELANParticipant children
+
+\id Kirillina_KK_dve_skazki_014
+\tx Irildu      ọːn awdịrịwran,         egdʒen
+\mb ireli  -DU  ọːn agdịrị  -Gr(E) -n(I) egdʒen
+\ps n           pron v                    adj   
+\ge summer -dat how thunder -hab   -3sg  big   
+\ft In summer how it thunders, loud.
+\ph
+\gr egdʒen can be used for 'loud' when it refers to "a big sound", normally one would say hagara for 'loud'
+\ru Летом как гремит? Большой?
+\ELANBegin 00:00:53.600
+\ELANEnd 00:00:56.280
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_015
+\tx Tar   abaga       emie   tarbačan      ịalkan    biče,     torelken.
+\mb tarak abaga       emie   tarọːčịn  ịak  -lkEn bi -čE     tore  -n  -lkEn
+\ps pron  n           adv    pron      pron       v          v              
+\ge dist  grandfather also.Y dist.qual what -prop be -pf.ptc speak -nr -prop
+
+\ft That grandad had such a voice/speech.
+\ph
+\gr the 'emie' is not very clear, it's rather mumbled; but it could be understood to mean that the grandad had a voice like the voice
+thunder has
+\ru Этот старик имел такую речь
+\ELANBegin 00:00:56.280
+\ELANEnd 00:01:00.720
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_016
+\tx Nọŋan dʒoːr ọmọlgọlkan biče.
+\mb nọŋan dʒoːr ọmọlga -lkEn bi -čE    
+\ps pron  num   n            v         
+\ge 3sg   two   boy    -prop be -pf.ptc
+\ft He had two sons.
+\ru  У него было 2 сыновей
+\ELANBegin 00:01:00.720
+\ELANEnd 00:01:02.960
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_017
+\tx Egdʒedmer     ọmọlgọ họː gurgewčiwreče,           bujuskereče,             badʒịkaraptụkụn
+\mb egdʒen -dmEr  ọmọlga họː  gurgeːwči -Gr(E) -čE     buju -s    -Gr(E) -čE     badʒịkar -(E)rEp -DUk(U) -n(I)    
+\ps adj           n      adv  v                        v                         n                                 
+\ge big    -contr boy    very work      -hab   -pf.ptc hunt -mult -hab   -pf.ptc morning  -adjr   -abl    -poss.3sg
+
+\tx hiesečelen               ịstala bujusniken          bejeldu         uldew     umuniken            delgenkelbu,
+\mb hiːsečin -(dU)LE -n(I)     ịstala buju -s    -nIkEn   bej -E  -L  -DU  ulre -W   em   -U    -nIkEn   dʒelgenke -L  -W  
+\ps n                          postpos v                   n                n         v                   n                 
+\ge evening  -loc    -poss.3sg until  hunt -mult -sim.cvb man -ep -pl -dat meat -acc come -caus -sim.cvb animal    -pl -acc
+
+\tx nọːd delgenkelbu        hụlaŋalkan      delgenkelbu        bejeldi...              boːw...
+\mb nọːd   dʒelgenke -L  -W   hụlaŋ -E  -lkEn dʒelgenke -L  -W   bej -E  -L  -DI          boː  -Gr(E)
+\ps adj    n                  n               n                  n                        v          
+\ge pretty animal    -pl -acc fur   -ep -prop animal    -pl -acc man -ep -pl -dat.prfl.sg give -hab  
+
+\tx ńịmaːttaːwrača,       boːwreče.
+\mb ńịmat -DE -Gr(E) -čE     boː  -Gr(E) -čE    
+\ps v                        v                  
+\ge nimat -vr -hab   -pf.ptc give -hab   -pf.ptc
+
+\ft The older son worked a lot, hunted from morning till evening, bringing meat to the people, sharing animals, pretty animals,
+fur-bearing animals with his people, giving them.
+\ru Старший сын очень работал, охотился, с утра до вечера охотясь, людям мясо принося, зверей, красивых зверей, пушных зверей
+своим людям уделял отдавал.
+\ELANBegin 00:01:02.960
+\ELANEnd 00:01:27.140
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_018
+\tx Noːn                     damar    baːn       biče,     ịawda         enikekeːn            gurgewčir
+\mb noː             -n(I)     damar    baː     -n  bi -čE     ịak  -W   =DE  e   -nIkEn   -KEn     gurgeːwči -R      
+\ps n                         ptl      v           v          pron           v                     v                 
+\ge younger.sibling -poss.3sg disc.ptl be.lazy -nr be -pf.ptc what -acc =ptl neg -sim.cvb -dim.int work      -neg.cvb
+
+\tx ịlụmụdụ  dessiniken      čịldawrača,         moːwde         eče        hụkụhnawrar,
+\mb ịlụmụ -DU  desči -nIkEn   čịlda   -Gr(E) -čE     moː   -W   =DE  e   -čE     hụkụ      -s(E)n -E  -Gr(E) -R      
+\ps n          v              v                      n               v           v                                   
+\ge yurt  -dat lie   -sim.cvb survive -hab   -pf.ptc water -acc =ptl neg -pf.ptc ladle.out -lim   -ep -hab   -neg.cvb
+
+\tx gọlụda         eče        taːwgarar.
+\mb gọl      -W   =DE  e   -čE     taw                     -Gr(E) -R      
+\ps n                  v           v                                      
+\ge firewood -acc =ptl neg -pf.ptc gather.scattered.things -hab   -neg.cvb
+
+\ft As for the younger brother he was lazy, spent his time lying in the yurt without doing anything, didn't fetch water, didn't gather
+firewood.
+\ph
+\gr according to IVK, damar is a standard Even particle that functions as a contrastive topic marker ("a mladshij brat byl lenivyj"), and
+it is not the same as =dmEr (which would be "tot iz nix"); basically, damar seems to be the same as buollaγïna, and then there's also
+a clitic =kkE/kko, not clear, with the same function of contrastive topic marker, this occurs in the beseda quite a bit; Cincius only
+gives -dmEr as "utochnitelnaja chastica"; it has to be said that there is a pause of 1+ second between noːn and damar, and she
+clearly pronounces noːn with a soft o and damar with a hard a - which is why I have written it as a separate word here
+\gr biː baːn bihem, baːn bej --- baːn = adjective and noun
+\nt čịlda- = has a meaning of 'spend time, live, live through winter = survive'
+\ru А младший брат был лентяй, ничего не работал, лежа в чуме проводил время, и за водой не ходил, и дрова не собирал
+\ELANBegin 00:01:27.140
+\ELANEnd 00:01:38.410
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_019
+\tx Emneken        Awdịrị etiken   ụjamkan      ụjamkannaːmị            horče.
+\mb omen -REkEn    agdịrị  etikeːn ụjamkan        ụjamkan        -LE -mI       hor -čE    
+\ps num            n       n       n              v                            v          
+\ge one  -iter.adv thunder old.man mountain.sheep mountain.sheep -vr -cond.cvb go  -pf.ptc
+
+\ft Once Old Man Thunder left to hunt mountain sheep.
+\ru Однажды Гром-старик поехал охотиться на горных баранов.
+\ELANBegin 00:01:38.410
+\ELANEnd 00:01:43.750
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_020
+\tx Gọrụjaː   gọrụjaː   alaččal.
+\mb gọrụ -jEː gọrụ -jEː alat -čE     -L 
+\ps adv       adv       v               
+\ge long -aug long -aug wait -pf.ptc -pl
+\ft They waited for a very long time.
+\ru Очень долго ждали.
+\ELANBegin 00:01:43.750
+\ELANEnd 00:01:46.510
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_021
+\tx Hiesečin  ọːča,      amantan          eče        emerger.
+\mb hiːsečin ọː     -čE     aman   -tEn      e   -čE     em   -E  -rgE -r  
+\ps n        v              n                v           v                 
+\ge evening  become -pf.ptc father -poss.3pl neg -pf.ptc come -ep -der -3pl
+
+\ft It became evening, their father didn't return.
+\ph
+\gr emerge- "vernutsja, prijti obratno" - in Sebjan only this word is used, but the derivational suffix -rgE might be more common in
+standard Even
+\ru Наступил вечер, отец их не вернулся.
+
+\ELANBegin 00:01:46.510
+\ELANEnd 00:01:51.530
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_022
+\tx Tarịt egdʒen ọmọlgọ geleːtneče,            họtarandụlị.
+\mb tarịt egdʒen ọmọlga geleːt   -nE     -čE     họtọran -(dU)LI
+\ps adv   adj    n      v                        n              
+\ge then  big    boy    look.for -intent -pf.ptc road    -prol  
+
+\ft Then the big son went to look for him, along the road.
+\ph
+\ru Потом старший сын пошел искать по дороге
+\ELANBegin 00:01:51.530
+\ELANEnd 00:01:55.780
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_023
+\tx Horče,     heredniken            heredniken            bịrakčan ụjamkal
+\mb hor -čE     hor -E  -D    -nIkEn   hor -E  -D    -nIkEn   bịrakčan ụjamkan        -L 
+\ps v           v                      v                      n        n                 
+\ge go  -pf.ptc go  -ep -prog -sim.cvb go  -ep -prog -sim.cvb stream   mountain.sheep -pl
+
+\tx kụńaːdaŋatnan                     họtaran   biče,     ičuče.
+\mb kụńa            -DEŋ     -E  -tEn      họtọran bi -čE     it  -W     -čE    
+\ps v                                      n       v          v                 
+\ge run(of.animals) -pst.ptc -ep -poss.3pl road    be -pf.ptc see -advrs -pf.ptc
+
+\ft He left, while he was walking a stream, the track of running mountain sheep was visible.
+\ph
+\gr ụjamkal kụńaːdaŋatnan họtaran = doroga gde probezhali ujamkany, correct phrase, it doesn't need further 3pl marking on
+họtaran, though one could say kụńaːdaŋatnan họtarantan; 
+\gr ičuče = bylo vidno, as glossed
+\ru Потом, идя, ручей, показался след от пробежавших баранов.
+\ELANBegin 00:01:55.780
+\ELANEnd 00:02:02.200
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_024
+\tx Bịrakčan dọːlan             itteken,                    ịmanda emehemče                               biče.
+\mb bịrakčan dọː    -(dU)LE -n(I)     it  -REk      -E  -n(I)     ịmanra emehen                   -W     -čE     bi -čE    
+\ps n        rel.n                    v                           ?      v                                       v         
+\ge stream   inside -loc    -poss.3sg see -cond.cvb -ep -poss.3sg snow   come.down.(of.avalanche) -advrs -pf.ptc be -pf.ptc
+
+\ft When he looked in the riverbed, an avalanche had come down, it seems.
+\ph
+\gr here, after listening again, IVK felt that itteken could only mean "when he saw", not the narrative "and suddenly he saw" 
+\gr emehemče - should be emehenče; emehendej = lavina ruxnula, emehemdej = chelovek podvergsja vozdejstviju laviny
+\ru Когда он в русло ручья , снежная лавина, отошла, оказывается.
+\ELANBegin 00:02:02.200
+\ELANEnd 00:02:07.940
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_025
+\tx ịmanda
+\mb ịmanra
+\ps ?     
+\ge snow  
+
+\ru
+\ELANBegin 00:02:07.940
+\ELANEnd 00:02:08.980
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_026
+\tx Tadụk       amannị         niŋŋeddiwen                            dọldača,     Awdịrị etiken
+\mb tarak -DUk(U) aman   -n(I)     ninŋe -D    -RI      -W   -E  -n(I)     dọlda -čE     agdịrị  etikeːn
+\ps pron          n                v                                       v             n       n      
+\ge dist  -abl    father -poss.3sg moan  -prog -ipf.ptc -acc -ep -poss.3sg hear  -pf.ptc thunder old.man
+
+\tx niŋŋeddiwen.
+\mb ninŋe -D    -RI      -W   -E  -n(I)    
+\ps v                                      
+\ge moan  -prog -ipf.ptc -acc -ep -poss.3sg
+
+\ft From there he heard his father moaning, Old Man Thunder moaning.
+\ru Оттуда он услышал стон отца, стон Гром-старика.
+\ELANBegin 00:02:08.980
+\ELANEnd 00:02:15.580
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_027
+\tx Gọrụjaː   gọrụjaː   čọŋkassịča        čọŋkassịča
+\mb gọrụ -jEː gọrụ -jEː čọŋka -sčI   -čE     čọŋka -sčI   -čE    
+\ps adv       adv       v                    v                   
+\ge long -aug long -aug dig   -conat -pf.ptc dig   -conat -pf.ptc
+
+\ft He dug and dug for a long time.
+\ru Долго копа
+\ELANBegin 00:02:15.580
+\ELANEnd 00:02:20.330
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_028
+\tx Tadụk       ịmanda dọːdụkụn          ammị          ńoːwreken,                        tarak
+\mb tarak -DUk(U) ịmanra dọː    -DUk(U) -n(I)     aman   -J       ńoː  -U    -REk      -E  -n(I)     tarak
+\ps pron          ?      rel.n                    n               v                                  pron 
+\ge dist  -abl    snow   inside -abl    -poss.3sg father -prfl.sg exit -caus -cond.cvb -ep -poss.3sg dist 
+
+\tx hiːwče       biče      amannị,        ačča ọːča.
+\mb hiːw   -čE     bi -čE     aman   -n(I)     ačča ọː     -čE    
+\ps v              v          n                ptl  v             
+\ge go.out -pf.ptc be -pf.ptc father -poss.3sg neg  become -pf.ptc
+
+\ft When he dug out his father from under the snow, that one turned out to have died (lit. was extinguished).
+\ru Когда он откопал оттуда из-под снега, тот оказался угасшим, его отец, не стало его
+\ELANBegin 00:02:20.330
+\ELANEnd 00:02:29.090
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_029
+\tx Họŋnịkan   tegečče                 ammị          hatlan,             tadụk       ịmanda
+\mb họŋ -nIkEn   teg      -E  -Č   -čE     aman   -J       hat  -(dU)LE -n(I)     tarak -DUk(U) ịmanra
+\ps v            v                         n               rel                    pron          ?     
+\ge cry -sim.cvb sit.down -ep -res -pf.ptc father -prfl.sg base -loc    -poss.3sg dist  -abl    snow  
+
+\tx dọːdụkụn          ńoːwridʒi.
+\mb dọː    -DUk(U) -n(I)     ńoː  -U    -RIdʒI  
+\ps rel.n                    v                  
+\ge inside -abl    -poss.3sg exit -caus -ant.cvb
+
+\ft Crying he sat next to his father, having dug him out from under the snow.
+\ru Плача сидел он возле отца, достав его оттуда из-под снега
+\ELANBegin 00:02:29.090
+\ELANEnd 00:02:34.870
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_030
+\tx Tadụk       ńuːrittukun              dịldụkụn          ịakkol     bolče,        ọmọlgọw.
+\mb tarak -DUk(U) ńuːrit -DUk(U) -n(I)     dịl  -DUk(U) -n(I)     ịak  =(W)Ul bel    -čE     ọmọlga -W  
+\ps pron          n                        n                      pron        v              n          
+\ge dist  -abl    hair   -abl    -poss.3sg head -abl    -poss.3sg what =indef stroke -pf.ptc boy    -acc
+
+\ft From there someone stroked his head, the boy.
+\ph belče
+\gr the ablative case with the verb bol- 'stroke' is correct
+\ru Оттуда его кто-то погладил, парня.
+\ELANBegin 00:02:34.870
+\ELANEnd 00:02:40.950
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_031
+\tx Ičehneken,                            ịbgakịː   ahịk...   asatkan ịlgamadča.
+\mb it  -E  -s(E)n -REk      -E  -n(I)     ịbgọ =kE   asị   -kkEn asatkan ịlgam -E  -D    -čE    
+\ps v                                      ?          n           n       v                      
+\ge see -ep -lim   -cond.cvb -ep -poss.3sg good =emph woman -dim  girl    stand -ep -prog -pf.ptc
+
+\ft He looked, a very good girl was standing.
+\ph
+\gr ịbga = 'good' and 'beautiful'
+\ru Посмотрел, стояла очень хорошенькая девушка
+\ELANBegin 00:02:40.950
+\ELANEnd 00:02:44.830
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_032
+\tx Ọːngol     ilegol               iččemdes        biče,     tar   ahịkkan.
+\mb ọːn =(W)Ul irek  -(dU)LE =(W)Ul it  -čE     -mdEs bi -čE     tarak asị   -kkEn
+\ps pron       pron                 v                 v          pron  n          
+\ge how =indef which -loc    =indef see -pf.ptc -sml  be -pf.ptc dist  woman -dim 
+
+\ft He appeared to have seen her (before) somehow, somewhere, that girl.
+\ph
+\gr should have said ahịkkam, because it should be accusative case, since it's the direct object of iččemdes
+\ru Как-то где-то как будто он видел ее, эта девушка.
+\ELANBegin 00:02:44.830
+\ELANEnd 00:02:48.930
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_033
+\tx Egdʒenet       mịanča,           iduk          erek asatkan emnen             goːniken.
+\mb egdʒen -E  -Č   mịan         -čE     irek  -DUk(U) erek asatkan em   -R(E)   -n(I) goːn -nIkEn  
+\ps adj             v                    pron          pron n       v                  v            
+\ge big    -ep -ins be.surprised -pf.ptc which -abl    prox girl    come -nonfut -3sg  say  -sim.cvb
+
+\ft He was very surprised, where did this girl come from.
+\ph
+\gr go:niken as marker of complement of emotion verbs
+\ru Очень удивился, откуда эта девушка пришла.
+\ELANBegin 00:02:48.930
+\ELANEnd 00:02:51.980
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_034
+\tx Hiː ŋiː bihenni,        goːnče.
+\mb hiː ŋiː bi -R(E)   -nrI goːn -čE    
+\ps pron pron v               v           
+\ge 2sg who be -nonfut -2sg say  -pf.ptc
+\ft "Who are you?", he said.
+\ru «Ты кто?» сказал
+\ELANBegin 00:02:51.980
+\ELANEnd 00:02:54.680
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_035
+\tx Biː hiː amahnị         dụhan            bihem,          goːnče.
+\mb biː hiː aman   -s(I)     dụha     -n(I)     bi -R(E)   -m   goːn -čE    
+\ps pron pron n                n                  v               v           
+\ge 1sg 2sg father -poss.2sg soul.R.Y -poss.3sg be -nonfut -1sg say  -pf.ptc
+
+\ft "I am your father's soul", she said.
+\ru «Я душа твоего отца», сказала.
+\ELANBegin 00:02:54.680
+\ELANEnd 00:02:59.300
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_036
+\tx Hiː amahnị         hiːwren,              nọŋan ịan           biː ọːram,           goːnče.
+\mb hiː aman   -s(I)     hiːw   -R(E)   -E  -n(I) nọŋan ịak  -n(I)     biː ọː     -R(E)   -m   goːn -čE    
+\ps pron n                v                        pron  pron           pron v                   v           
+\ge 2sg father -poss.2sg go.out -nonfut -ep -3sg  3sg   what -poss.3sg 1sg become -nonfut -1sg say  -pf.ptc
+
+\ft "Your father died (lit. was extinguished), I have become his what", she said.
+\ru  «Твой отец угас, его (это) я стала», сказала.
+\ELANBegin 00:02:59.300
+\ELANEnd 00:03:03.740
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_037
+\tx Tarịt, hiː amahnị         ečin      goːnni,    goːnče.
+\mb tarịt hiː aman   -s(I)     erroːčin  goːn -n(I) goːn -čE    
+\ps adv   pron n                pron      v          v           
+\ge then  2sg father -poss.2sg prox.qual say  -3sg  say  -pf.ptc
+
+\ft Then "Your father said like this", she said.
+\ph
+\ru Потом "Твой отец так сказал», сказала.
+\ELANBegin 00:03:03.740
+\ELANEnd 00:03:06.800
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_038
+\tx Biː kokereku                 egdʒen ereju          iččihnen,         tiemi     biː egdʒen ọmọlgọwụ
+\mb biː koke -REk      -W        egdʒen erej      -W   it  -DʒI -sEn      teːmi     biː egdʒen ọmọlga -W       
+\ps pron v                        adj    n              v                  conj      pron adj    n               
+\ge 1sg die  -cond.cvb -poss.1sg big    trouble.Y -acc see -fut -poss.2pl therefore 1sg big    boy    -poss.1sg
+
+\tx erek urekčen nọːd, nọːdan            biden                  bejelbu         čelewutnen
+\mb erek urekčen nọːd   nọːd   -E  -n(I)     bi -DE       -n(I)     bej -E  -L  -W   čele -W   -tEn     
+\ps pron n       adj    adj                  v                      n                n                  
+\ge prox hill    pretty pretty -ep -poss.3sg be -purp.cvb -poss.3sg man -ep -pl -acc all  -acc -poss.3pl
+
+\tx ulitti,              holoŋ, holoŋduk      holoŋne       biwetti              egdʒen dụrbańa     ńọːbatị
+\mb uliː -Č   -RI       heleŋ heleŋ -DUk(U) heleŋ -(dU)LE bi -WEːČ -RI       egdʒen dụrban   -ńE   ńọːbatị
+\ps v                   ?     n             n             v                  adj    v              adj    
+\ge feed -res -impf.ptc crest crest -abl    crest -loc    be -gnr  -impf.ptc big    be.white -adjr white  
+
+\tx ụjamkan      anaŋ ọːdan,                  goːnče.
+\mb ụjamkan        anaŋ ọː     -DE       -n(I)     goːn -čE    
+\ps n              n    v                          v           
+\ge mountain.sheep ram  become -purp.cvb -poss.3sg say  -pf.ptc
+
+\ft "When I die you will experience a lot of troubles, therefore let my oldest son become the beauty of these hills, the one who feeds all
+the people, the one who wanders from crest to crest, a big white mountain sheep ram" he said.
+\ph
+\gr dụrbańa = Sebjan word, ńọːbatị = standard Even; holoŋ - probably polysemous between 'big mountain' and 'mountain crest', word
+is used in Sebjan as well
+\nt normally, mountain sheep are not white, this colour is probably chosen here because the mountain sheep has mythical qualities -
+the sacred reindeer kụːdʒaj (something like a guardian angel) should also preferably be white
+\ru «Когда я умру вы большую беду будете испытывать, поэтому мой старший сын пусть будет красотой этой горы, кормящим
+всех людей, ходящим с одной высокой вершины на другую большим белым горным бараном, самцом пусть станет» сказал.
+\ELANBegin 00:03:06.800
+\ELANEnd 00:03:32.140
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_039
+\tx Ọːkta    ebeseldu       ịbgaw       ọːri...      ebesel    dʒebemelleketnen
+\mb ọːk  =DE  ewen -SEl -DU  ịbgọ -W   ọː   -RI       ewen -SEl dʒep -E  -mEl -REk      -E  -tEn     
+\ps pron      n              n         v              n         v                                    
+\ge when =ptl Even -pl  -dat good -acc make -impf.ptc Even -pl  eat  -ep -des -cond.cvb -ep -poss.3pl
+
+\tx ịarị          dʒebukemŋe      uldew     igin, ọttọn tar   ụjamkan      uldewen                ńan
+\mb ịa      -RI       dʒep -WkEn -mŋE ulre -W   iŋin  ọttọn tarak ụjamkan        ulre -W   -E  -n(I)     ńaːn
+\ps v                 v               n         ptl   ptl   pron  n              n                       adv 
+\ge do.what -impf.ptc eat  -caus -nr  meat -acc etc.Y dp.Y  dist  mountain.sheep meat -acc -ep -poss.3sg and 
+
+\tx holoŋel      er   urekčel     nọːdatnan          nọːdịwrịtnan               biden,
+\mb heleŋ -E  -L  erek urekčen -L  nọːd   -E  -tEn      nọːd   -(I)w -RI       -tEn      bi -DE       -n(I)    
+\ps ?             pron n           adj                  v                                v                     
+\ge crest -ep -pl prox hill    -pl pretty -ep -poss.3pl pretty -vr   -impf.ptc -poss.3pl be -purp.cvb -poss.3sg
+
+\tx goːniken      goːnče.
+\mb goːn -nIkEn   goːn -čE    
+\ps v             v           
+\ge say  -sim.cvb say  -pf.ptc
+
+\ft "Let him be that which always does good for the Evens, when the Evens get hungry (let him be their) provider, (let them eat) the
+meat of mountain sheep, and let him be the beauty of these hills" he said.
+\ph
+\gr dʒebemelleketnen - lit. "start to want to eat"; nọːdịwdaj = schitatj krasivym, voschishatsja, dalda 'tasty'> daldịwdaj = naxoditj
+vkusnym; she translated nọːdịwrịtnan by analogy with such words as daldịwdaj
+\gr I checked with IVK whether the 'goːniken goːnče' could be interpreted as " "xxxx" goːniken(the father)" goːnče(the girl), but she
+said no, it can only be the father saying it all (and goːniken being just a marker of direct speech then)
+\ev
+\ru «Всегда делающим эвенам доброе, когда эвены проголодаются, кормильцем ..., мясо тоже, то есть мсяо этого горного барана...
+и пусть будет объектом восхищения, красой этих вершин» сказал.
+\ELANBegin 00:03:32.140
+\ELANEnd 00:03:55.230
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_040
+\tx Biː ụjamkan      ọːrakụ,               noːw,                    noːwko?                       ọːn biː
+\mb biː ụjamkan        ọː     -REk      -W        noː             -W        noː             -W        =kkE ọːn biː
+\ps pron n              v                          n                         n                              pron pron
+\ge 1sg mountain.sheep become -cond.cvb -poss.1sg younger.sibling -poss.1sg younger.sibling -poss.1sg =ptl how 1sg
+
+\tx noːj                    emeːndʒim,      goːnče.
+\mb noː             -J       emeːn -DʒI -m   goːn -čE    
+\ps n                        v               v           
+\ge younger.sibling -prfl.sg leave -fut -1sg say  -pf.ptc
+
+\ft "If I become a mountain sheep, what about my younger brother? How will I leave my younger brother?" he said.
+\qu
+\ru «Если я стану горным бараном, то как же мой брат? Как я оставлю брата?» сказал.
+\ELANBegin 00:03:55.230
+\ELANEnd 00:04:00.860
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_041
+\tx Noːs                     bọllaγịna, noːs                     ọnaːkị biden,                 goːnče.
+\mb noː             -s(I)     buollaγïna noː             -s(I)     ọnaːkị    bi -DE       -n(I)     goːn -čE    
+\ps n                         ptl        n                         n         v                      v           
+\ge younger.sibling -poss.2sg dp.Y       younger.sibling -poss.2sg wolverine be -purp.cvb -poss.3sg say  -pf.ptc
+
+\ft "As for your brother, let him be a wolverine", she said.
+\ph
+\gr ọnaːkị is the standard Even word, the Sebjan word is keltekken
+\nt she gives a little laugh after bollaγịna, as do the boys who are her audience, clearly because she is trying to avoid Sakha words, and
+this one is very frequent and noticeable
+\ru А твой брат пусть станет росомахой» сказала
+\ELANBegin 00:04:00.860
+\ELANEnd 00:04:05.600
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_042
+\tx Ọnaːkị delgenkelduk           baːn,      ọnaːkị.
+\mb ọnaːkị    dʒelgenke -L  -DUk(U) baː     -n  ọnaːkị   
+\ps n         n                     v           n        
+\ge wolverine animal    -pl -abl    be.lazy -nr wolverine
+
+\ft "The wolverine is the laziest of all animals."
+\ph
+\ru Росомаха, из всех зверей росомаха ленивая.
+\ELANBegin 00:04:05.600
+\ELANEnd 00:04:13.110
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_043
+\tx Nọŋan ọːkda    ọːkda    bejen               ehni           bujuskerer,                ọnaːkị.
+\mb nọŋan ọːk  =DE  ọːk  =DE  bej    -E  -n(I)     e   -R(E) -n(I) buju -s    -Gr(E) -R       ọnaːkị   
+\ps pron  pron      pron      pron                 v               v                          n        
+\ge 3sg   when =ptl when =ptl self.Y -ep -poss.3sg neg -nfut -3sg  hunt -mult -hab   -neg.cvb wolverine
+
+\ft It never never hunts(for) itself, the wolverine.
+\ru Она никогда сама не охотится, росомаха.
+\ELANBegin 00:04:13.110
+\ELANEnd 00:04:18.990
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_044
+\tx Ereger ụjamkan      amardadụkụn                bịrakčaldụlị     urekčen beːlgeldulin
+\mb ereger ụjamkan        amar   -gIdE -DUk(U) -n(I)     bịrakčan -L  -(dU)LI urekčen beːlge -L  -(dU)LI -n(I)    
+\ps adv    n              n                              n                    n       n                           
+\ge always mountain.sheep behind -part -abl    -poss.3sg stream   -pl -prol   hill    lap    -pl -prol   -poss.3sg
+
+\tx ńụrmawatnịkan        ụjamkalbụ          amardadụkụtnan             biwekkeren              ehni.
+\mb ńụrma    -WEːČ -nIkEn   ụjamkan        -L  -W   amar   -gIdE -DUk(U) -tEn      bi -WEːČ -Gr(E) -n(I) e   -R(E) -n(I)
+\ps v                       n                       n                              v                     v              
+\ge sneak.up -gnr  -sim.cvb mountain.sheep -pl -acc behind -part -abl    -poss.3pl be -gnr  -hab   -3sg  neg -nfut -3sg 
+
+\ft It always follows after the mountain sheep, sneaking along the streams and the feet of the hills.
+\ph
+\ru Постоянно за горными баранами по ручьям, по подножиям гор крадучись за баранами ходит же.
+\ELANBegin 00:04:18.990
+\ELANEnd 00:04:32.200
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_045
+\tx Tačịn,      ehni?
+\mb tarọːčịn  e   -R(E) -n(I)
+\ps pron      v              
+\ge dist.qual neg -nfut -3sg 
+\ft It's like that, isn't it?
+\ru не так ли? 
+\ELANBegin 00:04:32.200
+\ELANEnd 00:04:33.440
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_046
+\tx Ŋiːde    ịarị          bujusri              haːra       taraw.
+\mb ŋiː =DE  ịa      -RI       buju -s    -RI       haː  -R(E)   tarak -W  
+\ps pron     v                 v                    v            pron      
+\ge who =ptl do.what -impf.ptc hunt -mult -impf.ptc know -nonfut dist  -acc
+
+\ft Anybody who hunts knows that.
+\ph
+\gr the 3pl marking on haːra is not correct, it should be ŋiːde haːdnị
+\ru Кто угодно, кто охотится, знает это.
+\ELANBegin 00:04:33.440
+\ELANEnd 00:04:36.300
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_047
+\tx Bejel      ataldaŋdụkụtnan                tadụk       irew       taraw      ụmụjnịkan.
+\mb bej -E  -L  atal     -DEŋ     -DUk(U) -tEn      tarak -DUk(U) irek  -W   tarak -W   ụmụj   -nIkEn  
+\ps n           v                                   pron          pron       pron       v              
+\ge man -ep -pl take.off -pst.ptc -abl    -poss.3pl dist  -abl    which -acc dist  -acc gather -sim.cvb
+
+\ft Where people have slaughtered, from there it takes this and that.
+\ph ataldaŋdụktnan
+\ru Где люди разделывали, оттуда подбирая.
+\ELANBegin 00:04:36.300
+\ELANEnd 00:04:41.580
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_048
+\tx Tiːkereptukun                 hiː ụjamkan      bidʒinni,    noːs                     ọnaːkị bidʒin,
+\mb tiek -(E)rEp -DUk(U) -n(I)     hiː ụjamkan        bi -DʒI -nrI noː             -s(I)     ọnaːkị    bi -DʒI -n(I)
+\ps adv                            pron n              v            n                         n         v            
+\ge now  -adjr   -abl    -poss.3sg 2sg mountain.sheep be -fut -2sg younger.sibling -poss.2sg wolverine be -fut -3sg 
+
+\tx goːnče.
+\mb goːn -čE    
+\ps v           
+\ge say  -pf.ptc
+
+\ft "From this time on you will be a mountain sheep, and your younger brother will be a wolverine", she said.
+\ph anaːkị
+\gr secondary predicates with nominative case is correct, hiː ụjamkan bidʒinni, correct
+\ru «С этих пор ты будешь горным бараном, младший брат будет росомахой» сказала.
+\ELANBegin 00:04:41.580
+\ELANEnd 00:04:50.310
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_049
+\tx Tiemi     tiːkerren                  ịstala ere  ụjamkan      amardadụkụn                ọnaːkị
+\mb teːmi     tiek -(E)rEp -(dU)LE -n(I)     ịstala erek ụjamkan        amar   -gIdE -DUk(U) -n(I)     ọnaːkị   
+\ps conj      adv                            postpos pron n              n                              n        
+\ge therefore now  -adjr   -loc    -poss.3sg until  prox mountain.sheep behind -part -abl    -poss.3sg wolverine
+
+\tx biwekkeren.
+\mb bi -WEːČ -Gr(E) -n(I)
+\ps v                    
+\ge be -gnr  -hab   -3sg 
+
+\ft That is why until now behind the mountain sheep follows the wolverine.
+\ph anaːkị
+\ru Поэтому до сих пор росомаха ходит за этим горным бараном.
+\ELANBegin 00:04:50.310
+\ELANEnd 00:04:56.720
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_050
+\tx Tarak ụjamkan      egdʒen... akannị,               baːn         ọnaːkị - noːn.
+\mb tarak ụjamkan        egdʒen akan          -n(I)     baː     -n(I) ọnaːkị    noː             -n(I)    
+\ps pron  n              adj    n                       v             n         n                        
+\ge dist  mountain.sheep big    older.brother -poss.3sg be.lazy -3sg  wolverine younger.sibling -poss.3sg
+
+\ft That mountain sheep is the older brother, the lazy wolverine (is) the younger brother.
+\ph anaːkị
+\ru Горный баран – старший брат, ленивая росомаха – его младший брат.
+\ELANBegin 00:04:56.720
+\ELANEnd 00:05:03.070
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_051
+\tx Tara.
+\mb tarak
+\ps pron 
+\ge dist 
+
+\ru вот
+\ELANBegin 00:05:03.070
+\ELANEnd 00:05:03.840
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_052
+\tx Tarbačan      teːleŋ.
+\mb tarọːčịn  teːleŋ
+\ps pron      n     
+\ge dist.qual story 
+\ft Such a story.
+\ru такой рассказ
+\ELANBegin 00:05:03.840
+\ELANEnd 00:05:07.880
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_053
+\tx Tiːk...
+\mb tiek
+\ps adv 
+\ge now 
+
+\ru
+\ELANBegin 00:05:07.880
+\ELANEnd 00:05:09.190
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_054
+\tx Tiːk omen teːleŋu....
+\mb tiek omen teːleŋ -W  
+\ps adv  num  n          
+\ge now  one  story  -acc
+\ft Now one story...
+\ph
+\gr IVK assumed immediately that here she just omitted a verb where teːleŋ would be the direct object; however,"my story" would be
+teːleŋu, so in theory this could be "And now one story of mine"
+\ru Сейчас один рассказ.
+\ELANBegin 00:05:09.190
+\ELANEnd 00:05:16.810
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_055
+\tx Omen nimeːrel,       dʒoːr nimeːrel        tegeččel.
+\mb omen ńimer     -E  -L  dʒoːr ńimer     -E  -L  teg      -E  -Č   -čE     -L 
+\ps num  n                 num   n                 v                            
+\ge one  neighbour -ep -pl two   neighbour -ep -pl sit.down -ep -res -pf.ptc -pl
+
+\ft One family, two families lived.
+\ph
+\ru Одна семья, две семьи жили.
+\ELANBegin 00:05:16.810
+\ELANEnd 00:05:21.800
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_056
+\tx Omen nimeːr   asị dọldarakan,                   tadụk       tadụ     ịlụmụdụk    asị delbi
+\mb omen ńimer     asị   dọlda -REk      -E  -n(I)     tarak -DUk(U) tarak -DU  ịlụmụ -DUk(U) asị   delbi 
+\ps num  n         n     v                             pron          pron       n             n     adv   
+\ge one  neighbour woman hear  -cond.cvb -ep -poss.3sg dist  -abl    dist  -dat yurt  -abl    woman very.Y
+
+\tx họŋalča.
+\mb họŋ -E  -L    -čE    
+\ps v                    
+\ge cry -ep -inch -pf.ptc
+
+\ft As one married woman heard, from there, from that yurt a woman started crying very hard.
+\ph
+\gr tadụ ịlụmụdụk - incorrect, should be tar(ak) ịlụmụdụk; the ablative case with dọlda-, like here, is OK, heard from over there; nimeːr
+asị = married woman
+\ru Как одна семейная женщина слышит, оттуда, из того чума сильно заплакала.
+\ELANBegin 00:05:21.800
+\ELANEnd 00:05:28.070
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_057
+\tx Egdʒoːnet            bọgọrọlča.
+\mb egdʒen =eː   -E  -Č   bọgọr -E  -L    -čE    
+\ps adj                   v                      
+\ge big    =emph -ep -ins sob   -ep -inch -pf.ptc
+
+\ft Started to sob violently.
+\ph
+\ru Очень сильно заревела.
+\ELANBegin 00:05:28.070
+\ELANEnd 00:05:30.560
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_058
+\tx Asị tutče,     Ile           dọgọː, ịak ọːdnị?, goːnče.
+\mb asị   tut -čE     irek  -(dU)LE dọγọr    ịak  ọː     -n(I) goːn -čE    
+\ps n     v           pron          n        pron v            v           
+\ge woman run -pf.ptc which -loc    friend.Y what become -3sg  say  -pf.ptc
+
+\ft The women ran (over), "My friend, what happened?", she said.
+\ph
+\gr ile... ịak ọːdnị - this is the usual way of asking "what happened"
+\ru Женщина побежала, "где, дорогая, что случилось?" сказала.
+\ELANBegin 00:05:30.560
+\ELANEnd 00:05:34.480
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_059
+\tx Kụŋawụ       ačča ọːdnị,  ere  butenellidʒi,            goːnče,     hiemkellidʒi.
+\mb kụŋa  -W        ačča ọː     -n(I) erek buteːn -E  -L    -RIdʒI   goːn -čE     hiːmke -L    -RIdʒI  
+\ps n               ptl  v            pron v                         v            v                    
+\ge child -poss.1sg neg  become -3sg  prox be.ill -ep -inch -ant.cvb say  -pf.ptc cough  -inch -ant.cvb
+
+\ft "My child has died, having become sick", she said.
+\ph
+\gr hiemkellidʒi = lit. started to cough, but hiemkellen is used for any kind of cold, illnesses connected to the respiratory tract, not just
+cough
+\ru "Моего ребенка не стало, вот заболев", сказала, "захворав".
+\ELANBegin 00:05:34.480
+\ELANEnd 00:05:38.870
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_060
+\tx Oo, tet,    ịak gerben?
+\mb oo tet     ịak  gerbe -n(I)    
+\ps interj excl    pron n              
+\ge oh enough! what name  -poss.3sg
+
+\ft "Oh, stop, what's this?"
+\ph
+\ru О, перестань, что такое?
+\ELANBegin 00:05:38.870
+\ELANEnd 00:05:41.160
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_061
+\tx Ịak tedʒes?
+\mb ịak  tedʒe        -s(I)    
+\ps pron adv                   
+\ge what unrestrained -poss.2sg
+
+\ft "How unrestrained you are!"
+\ph
+\gr tedʒe - is used only in this expression, ịak tedʒes, ịak tedʒen, ịak tedʒetnen, ịak tedʒu; ịak tedʒen bihin (kakoj on byl
+nesderzhannym), ?ịak tedʒen bidʒin (about a child that is very spoilt, 'how unrestrained he'll be' - but this is doubtful, one can say it
+"s natjazhkoj")
+\ru "Какая ты несдержанная?"
+\ELANBegin 00:05:41.160
+\ELANEnd 00:05:42.470
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_062
+\tx Biː immes            họkarran                 gerbettem,          ee!
+\mb biː inme   -s(I)     họkar      -R(E)   -E  -n(I) gerbet -R(E)   -m   ee
+\ps pron n                v                            v                   interj
+\ge 1sg needle -poss.2sg break.intr -nonfut -ep -3sg  think  -nonfut -1sg eh
+
+\ft "I thought your needle broke!"
+\ph
+\gr gerbet- does NOT take accusative-marked participles as complements, I checked that before, in 2009 or 2010; hiː horedʒenni
+gerbettem "ja dumala chto ty idesh"; ja vizhu chto igolka slomalasj = họkardaŋman ittem
+\ru Я подумала, что у тебя иголка сломалась.
+\ELANBegin 00:05:42.470
+\ELANEnd 00:05:46.520
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_063
+\tx Imme   họkarčaːdʒịn            gerbettem,          tiemi     họŋaddan                  gerbettem,          ịak
+\mb inme   họkar      -čE     -DʒI -n(I) gerbet -R(E)   -m   teːmi     họŋ -E  -D    -R(E)   -n(I) gerbet -R(E)   -m   ịak 
+\ps n      v                             v                   conj      v                           v                   pron
+\ge needle break.intr -pf.ptc -fut -3sg  think  -nonfut -1sg therefore cry -ep -prog -nonfut -3sg  think  -nonfut -1sg what
+
+\tx tedʒes!
+\mb tedʒe        -s(I)    
+\ps adv                   
+\ge unrestrained -poss.2sg
+
+\ft I thought that probably a needle broke, therefore she is crying, I thought, how unrestrained you are!
+\ru Я подумала что, наверное, иголка сломалась, поэтому плачет, подумала, какая ты!
+\ELANBegin 00:05:46.520
+\ELANEnd 00:05:51.600
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_064
+\tx Kụŋa kokerin                ịak ọːdʒịn?,     goːnče.
+\mb kụŋa  koke -RI      -n(I)     ịak  ọː     -DʒI -n(I) goːn -čE    
+\ps n     v                       pron v                 v           
+\ge child die  -ipf.ptc -poss.3sg what become -fut -3sg  say  -pf.ptc
+
+\ft "What's the big deal that a child died?", she said.
+\ph
+\ru "Что такого в смерти ребенка?", сказала.
+\ELANBegin 00:05:51.600
+\ELANEnd 00:05:56.470
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_065
+\tx Tarak.... nọŋan tar   kụŋaw     kụŋawman       kụŋaw     bụlịhịmị,          bụlịhịmị.
+\mb tarak nọŋan tarak kụŋa  -W   kụŋa  -W   =mEn kụŋa  -W   bụl  -E  -s(E)n -mI       bụl  -E  -s(E)n -mI      
+\ps pron  pron  pron  n          n               n          v                         v                        
+\ge dist  3sg   dist  child -acc child -acc =neg child -acc pity -ep -lim   -cond.cvb pity -ep -lim   -cond.cvb
+
+\ft She didn't (say) that because .... pitying the child, pitying
+\ph
+\gr kụŋawman - she didn't finish the phrase, there should be some verb; bụlịhịn - at first I had entered this as a separate verb 'pity', but
+then when we were discussing the form bụlịhị (beseda_1190) IVK agreed with me when I asked whether bụlịhịn was 'nemnozhko
+pozhaletj' which would appear to make it the limitative of bụl-
+\ru Это она не оттого, что ребенка (наоборот) жалея ребенка
+\ELANBegin 00:05:56.470
+\ELANEnd 00:06:05.440
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_066
+\tx Eńenni          eden,                   mịawannị         eden                    ịar            goːmi
+\mb eńin   -n(I)     e   -DE       -n(I)     mịawụn -n(I)     e   -DE       -n(I)     ịa      -R       goːn -mI      
+\ps n                v                       n                v                       v                v             
+\ge mother -poss.3sg neg -purp.cvb -poss.3sg heart  -poss.3sg neg -purp.cvb -poss.3sg do.what -neg.cvb say  -cond.cvb
+
+\tx hontekki      ịača,        tar   ịakkị     immekki.
+\mb honte -t(E)kI ịa      -čE     tarak ịak  -t(E)kI inme   -t(E)kI
+\ps adj           v               pron  pron         n             
+\ge other -all    do.what -pf.ptc dist  what -all    needle -all   
+
+\ft So that the mother wouldn't.... so that her heart wouldn't (break) she did what (directed the mother's attention) to another, to the
+needle.
+\ph
+\nt i.e. the neighbour wasn't really shocked by the mother's grief at the death of her child, but wanted to help her by distracting her, by
+directing her grief and attention to something completely unconnected with the child
+\ru Чтобы у матери сердце не того... на другое (что-то) сделала в сторону этого... иголки.
+\ELANBegin 00:06:05.440
+\ELANEnd 00:06:14.370
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_067
+\tx Nọŋan... tala          ịlụmụla       iːridʒi,     nọŋan emie   họŋalča             biheken
+\mb nọŋan tarak -(dU)LE ịlụmụ -(dU)LE iː    -RIdʒI   nọŋan emie   họŋ -E  -L    -čE     bi -REk      -E  -n(I)    
+\ps pron  pron          n             v              pron  adv    v                     v                         
+\ge 3sg   dist  -loc    yurt  -loc    enter -ant.cvb 3sg   also.Y cry -ep -inch -pf.ptc be -cond.cvb -ep -poss.3sg
+
+\tx keńeli bimčehni,         tar   eńendun.
+\mb keńeli bi -mč(I) =hni    tarak eńin   -DU  -n(I)    
+\ps adj    v                 pron  n                    
+\ge bad    be -sbjv  =affirm dist  mother -dat -poss.3sg
+
+\ft If she had also started to cry coming into that yurt, it would have been bad for that mother, right.
+\ru Она... если бы она, войдя в чум, тоже начала плакать, было бы плохо же этой матери.
+\ELANBegin 00:06:14.370
+\ELANEnd 00:06:23.870
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_068
+\tx Nọŋan bọllaγịna ịača         tara.
+\mb nọŋan buollaγïna ịa      -čE     tarak
+\ps pron  ptl        v               pron 
+\ge 3sg   dp.Y       do.what -pf.ptc dist 
+\ft And she did what.
+\ru А она это сделала
+\ELANBegin 00:06:23.870
+\ELANEnd 00:06:25.840
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_069
+\tx Honte, hontekki      ịača,        ieltemkenče.        immekk(i),     imme   goːhmen        ọːnịkan.
+\mb honte honte -t(E)kI ịa      -čE     ielten -WkEn -čE     inme   -t(E)kI inme   goːn -EhmEn    ọː     -nIkEn  
+\ps adj   adj           v               v                    n              n      v              v              
+\ge other other -all    do.what -pf.ptc pass   -caus -pf.ptc needle -all    needle say  -pretense become -sim.cvb
+
+\ft She did what in another direction, made (the sorrow) pass to the needle, pretending to talk about the needle.
+\ru В другую сторону перевела (заставила пройти), в сторону иголки, делая вид, что говорит про иголку.
+\ELANBegin 00:06:25.840
+\ELANEnd 00:06:31.410
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_070
+\tx Egdʒenet       eden                    họŋna        tar   kụŋa ịačalan.
+\mb egdʒen -E  -Č   e   -DE       -n(I)     họŋ -R       tarak kụŋa  ịa      -čE     -L  -E  -n(I)    
+\ps adj             v                       v            pron  n     v                                
+\ge big    -ep -ins neg -purp.cvb -poss.3sg cry -neg.cvb dist  child do.what -pf.ptc -pl -ep -poss.3sg
+
+\ft So that (the mother) wouldn't cry hard when that child (died).
+\ph
+\ru Чтобы сильно не плакала, когда ребенок того...
+\ELANBegin 00:06:31.410
+\ELANEnd 00:06:34.950
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_071
+\tx Tara.
+\mb tarak
+\ps pron 
+\ge dist 
+
+\ru вот
+\ELANBegin 00:06:34.950
+\ELANEnd 00:06:37.970
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_072
+\tx Vse.
+\mb vse  
+\ps pron 
+\ge all.R
+
+\ru
+\ELANBegin 00:06:37.970
+\ELANEnd 00:06:39.440
+\ELANParticipant 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My Documents/Even
+project/Sebjan_2010_fielddata/sound_files/spontaneous_Marantz/Kirillina_KK_dve_skazki_220310_Sebjan.wav
+\ELANMediaMIME audio/x-wav

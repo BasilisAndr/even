@@ -1,0 +1,1062 @@
+\_sh v3.0  756  Text
+
+\id Kejmetinova_TV_family_000_metadata
+\ref Recorded on 27 Feb 2008 in Sebjan-Küöl by Brigitte Pakendorf; in TVK's office in the
+school, afternoon, her chair creaked quite loudly at times, and one can hear the computer
+humming in the background. Only BP was in the office with TVK, who had at first told the
+pear story to her husband, KNK.
+\qu Transcribed by Ekaterina Igorevna Shadrina, translated into Russian by Ija Vasil'evna Krivoshapkina,
+glossed by BP. Funding by the Max Planck Society (MPRG on Comparative Population Linguistics).
+Speaker abbreviation = TVK
+\ref Taisija Vasilevna Kejmetinova at that time worked as the “zavuč” in the school, 48 years old
+at time of recording
+
+\id Kejmetinova_TV_family_001
+\ref 0:02; Klim Nikolaevič Krivošapkin
+\tx Vot sejčas tam mužčina ždet vot, pro pos... na evenskom, na svoim
+evenskom govore vot pro poselok xočet on rasskazat'.
+
+\id Kejmetinova_TV_family_002
+\ref 0:10; Taisija Vasil'evna Kejmetinova
+\tx Ebedit          torerekes                    hiː, nọŋan tar   mut
+\mb ewen -DI   -Č   tore  -REk      -E  -s(I)     hiː nọŋan tarak mut   
+\ps n               v                             pron pron  pron  pron  
+\ge Even -adjr -ins speak -cond.cvb -ep -poss.2sg 2sg 3sg   dist  1pl.in
+
+\tx ebedit          toreriwut                         alačaddan.
+\mb ewen -DI   -Č   tore  -RI       -W   -t(I)        alat -E  -D    -R(E)   -n(I)
+\ps n               v                                 v                           
+\ge Even -adjr -ins speak -impf.ptc -acc -poss.1pl.in wait -ep -prog -nonfut -3sg 
+
+\ft You should speak Even, she expects us to speak Even.
+\ru Говорил бы ты по-эвенски, она же ждет что мы будем говорить по-эвенски.
+\ph
+\gr torerekes is the Conditional DS converb, but it is frequently used with an imperative
+meaning, a soft, polite imperative
+\nt
+
+\id Kejmetinova_TV_family_003
+\ref 0:15; TVK
+\tx Biː amardadụkụw,               tarak iːdʒin?
+\mb biː amar   -gIdE -DUk(U) -W        tarak iː    -DʒI -n(I)
+\ps pron n                              pron  v               
+\ge 1sg behind -part -abl    -poss.1sg dist  enter -fut -3sg 
+
+\ft He will come in after me?
+\ru Он войдет после меня?
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_004
+\ref 0:16; KNK
+\tx Ele          ńarị alačaddan,                 ele          iːridʒi      meːn
+\mb erek -(dU)LE ńarị alat -E  -D    -R(E)   -n(I) erek -(dU)LE iː    -RIdʒI   meːn
+\ps pron         ?    v                            pron         v              pron
+\ge prox -loc    man  wait -ep -prog -nonfut -3sg  prox -loc    enter -ant.cvb refl
+
+\tx tuhlij                   [ukčendʒim      goːniken]     meːn
+\mb tus     -(dU)LI -J       ukčen -DʒI -m   goːn -nIkEn   meːn
+\ps postpos                  v               v             pron
+\ge about.Y -prol   -prfl.sg tell  -fut -1sg say  -sim.cvb refl
+
+\tx tuhlij,                  meːn semjaj            [dʒugulij]
+\mb tus     -(dU)LI -J       meːn semja    -J       dʒugu -(dU)LI -J      
+\ps postpos                  pron n                 rel.n                 
+\ge about.Y -prol   -prfl.sg refl family.R -prfl.sg about -prol   -prfl.sg
+
+\tx dʒugulij,              poselok   [ukčenehme]           Sebjan-Küöl
+\mb dʒugu -(dU)LI -J       poselok   ukčen -E  -m   -E  -n(I) Sebjan-Küöl
+\ps rel.n                  n         v                        ?          
+\ge about -prol   -prfl.sg village.R tell  -ep -des -ep -3sg  Sebjan-Küöl
+
+\tx dʒugulin                otton ukčendej                 tiːke teːleŋdʒin.
+\mb dʒugu -(dU)LI -n(I)     otton ukčen -DE       -J       tiek teːleŋ -DʒI -n(I)
+\ps rel.n                   ?     v                        adv  v                
+\ge about -prol   -poss.3sg dp.Y  tell  -purp.cvb -prfl.sg now  tell   -fut -3sg 
+
+\ft KNK: Here a man is waiting, having come here he will tell about himself [TVK: saying I will
+tell], about his family [TVK: about - with Even root], about the village [TVK: wants to tell]
+Sebjan-Küöl.
+\ru Здесь ждет мужчина, зайдя сюда про себя про свою семью, поселок С-К чтобы рассказать,
+сейчас расскажет.
+\ph when KNK says dʒuguli, it should be dʒuguliN, but he repeats what TVK is saying
+
+\id Kejmetinova_TV_family_005
+\ref 0:31, TVK
+\tx Hiː taraw      ịalị,        ịamị ịadʒịnnị,   biː ukčendʒim
+\mb hiː tarak -W   ịa      -LI      ịamị ịa      -DʒI -nrI biː ukčen -DʒI -m  
+\ps pron pron       v                pron v                 pron v              
+\ge 2sg dist  -acc do.what -imp.2sg why  do.what -fut -2sg 1sg tell  -fut -1sg
+
+\tx ọdčalaw                     omojor                     iːdʒin          čaːgaw
+\mb ọd   -čE     -(dU)LE -W        em   -E  -j    -Ar         iː    -DʒI -n(I) čaːg -(g)Ew
+\ps v                              v                          v                adj        
+\ge stop -pf.ptc -loc    -poss.1sg come -ep -conn -prs.ptcp.Y enter -fut -3sg  far  -adjr 
+
+\tx goːli.
+\mb goːn -LI     
+\ps v            
+\ge say  -imp.2sg
+
+\ft You do that, why will you do (that), he will come when I finish telling, that one will come in,
+right.
+\ru Ты это сделай, почему ты будешь делать, он придет когда я закочну рассказывать, зайдет
+тот скажи.
+\ph
+\gr
+\nt ukčendʒim - not clear what she says, from the form it doesn't make sense here; the whole
+"sentence" is very hard to understand, not clear what she meant, and also very hard to
+razslyshat'
+
+\id Kejmetinova_TV_family_006
+\ref 0:36; TVK
+\tx Hiː tiːk ịaw      ulgimirij                        ulgimuli.
+\mb hiː tiek ịak  -W   ulgim -i      -RI       -J       ulgim -i      -LI     
+\ps pron adv  pron      v                                v                     
+\ge 2sg now  what -acc ask   -ipf??? -impf.ptc -prfl.sg ask   -ipf??? -imp.2sg
+
+\ft Ask what you want to ask now.
+\ru Ты сейчас спроси что ты хочешь спросить.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_007
+\ref 0:39; KNK
+\tx Aha, vy sprašivaete ešče, da?
+
+\id Kejmetinova_TV_family_008
+\ref 0:39, TVK
+\tx Ịak dʒugulin                ịadʒịp?
+\mb ịak  dʒugu -(dU)LI -n(I)     ịa      -DʒI -p     
+\ps pron rel.n                   v                   
+\ge what about -prol   -poss.3sg do.what -fut -1pl.in
+
+\ft About what will we (talk)?
+\ru О чем мы будем?
+\ph
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_009
+\ref 0:41, BP
+\tx Esli vy možete ešče, vy tak klassno razgovarivaete, rasskazyvajte ešče!
+Pravda, ja zdes' gotova sidet' i ešče... Potomu-čto u vas eto očen' xorošo i
+svjazno polučaetsja.
+
+\id Kejmetinova_TV_family_010
+\ref 0:54; TVK
+\tx Ịak dʒugulin,           teːleŋ ukčendʒim?
+\mb ịak  dʒugu -(dU)LI -n(I) teːleŋ ukčen -DʒI -m  
+\ps pron rel.n               n      v              
+\ge what about -prol   -3sg  story  tell  -fut -1sg
+
+\ft About what will I tell?
+\ru О чем, рассказать рассказ?
+\ph
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_011
+\ref A bit of discussion about what she should tell, decided to tell about her family.
+\tx
+
+\id Kejmetinova_TV_family_012
+\ref 1:22
+\tx Biː kotlen teːleŋu     ukčendekudʒiː,                  meːn
+\mb biː kotlen teːleŋ -W   ukčen -DE       -W        =dʒIː meːn
+\ps pron adj    n           v                               pron
+\ge 1sg small  story  -acc tell  -purp.cvb -poss.1sg =aff  refl
+
+\tx dʒugulij,              meːn dʒugulij.
+\mb dʒugu -(dU)LI -J       meːn dʒugu -(dU)LI -J      
+\ps rel.n                  pron rel.n                 
+\ge about -prol   -prfl.sg refl about -prol   -prfl.sg
+
+\ft Let me tell you a little story, alright, about myself, about myself.
+\ru Давайте я расскажу маленький рассказ, ладно, о себе.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_013
+\ref 1:27
+\tx Mut    adị    bihep,             omettu   baldačal           tụnŋan
+\mb mut    adị      bi -R(E)   -p      omettu   balda   -čE     -L  tụnŋan
+\ps pron   ?        v                  adv      v                   num   
+\ge 1pl.in how.much be -nonfut -1pl.in together be.born -pf.ptc -pl five  
+
+\tx bihep.
+\mb bi -R(E)   -p     
+\ps v                 
+\ge be -nonfut -1pl.in
+
+\ft How many are we, we are five siblings (those born together).
+\ru Сколько нас, вместе родившиеся нас пятеро.
+\ph tụŋŋam bihep --> regressive assimilation
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_014
+\ref 1:30
+\tx Tak, ammụ           ujun mịar     omenni         ọːdʒịn,      haːwdị,
+\mb tak  aman   -W        ujun mịan -L  omen -n(I)     ọː     -DʒI -n(I) hagdị
+\ps interj n                num  num      num            v                 adj  
+\ge so.R father -poss.1sg nine ten  -pl one  -poss.3sg become -fut -3sg  old  
+
+\tx er   naslegla       haːmaj haːwdị bičeːdʒin.
+\mb erek nasleg -(dU)LE samyj  hagdị bi -čE     -DʒI -n(I)
+\ps pron n              adj    adj   v                    
+\ge prox nasleg -loc    most.R old   be -pf.ptc -fut -3sg 
+
+\ft My father will be 91, he is probably the oldest (person) in this nasleg.
+\ru Моему отцу будет 91, в этом наслеге он наверно самый старый.
+\ph emmu, ujum mịar, ör naslegla
+\gr
+\nt A nasleg is a village with all the territory belonging to it, in this case the nasleg contains not
+only the village Sebjan-Küöl itself, but also the different reindeer herds and their grazing
+territory.
+
+\id Kejmetinova_TV_family_015
+\ref 1:36
+\tx Ejmu             digen anŋanị ọːdnị   ačča ọːdakan,
+\mb enen   -W        digen anŋan ọː     -n(I) ačča ọː     -REk      -E  -n(I)    
+\ps n                num   n     v            ptl  v                             
+\ge mother -poss.1sg four  year  become -3sg  neg  become -cond.cvb -ep -poss.3sg
+
+\tx dʒapkan mịar     anŋanịdị       ačča ọːrịn.
+\mb dʒapkan mịan -L  anŋan -DI          ačča ọː     -RI  -n(I)    
+\ps num     num      n                  ptl  v                    
+\ge eight   ten  -pl year  -dat.prfl.sg neg  become -pst -poss.3sg
+
+\ft My mother died four years ago, she died at age 80.
+\ru Четыре года как не стало моей матери, умерла в 80 лет.
+\ph aččọːdakan ačọːrịn
+\gr
+\nt
+
+\id Kejmetinova_TV_family_016
+\ref 1:41
+\tx Tar   omettu   baldačal           mut    tụnŋan bihep:
+\mb tarak omettu   balda   -čE     -L  mut    tụnŋan bi -R(E)   -p     
+\ps pron  adv      v                   pron   num    v                 
+\ge dist  together be.born -pf.ptc -pl 1pl.in five   be -nonfut -1pl.in
+
+\tx akantị                   haːmaj egdʒen, tarịt ekmu
+\mb akan          -t(I)        samyj  egdʒen tarịt eken  -W       
+\ps n                          adj    adj    adv   adj            
+\ge older.brother -poss.1pl.in most.R big    then  older -poss.1sg
+
+\tx horren,             tarịt akmụ,                 tarịt biː bihem,
+\mb hor -R(E)   -E  -n(I) tarịt akan          -W        tarịt biː bi -R(E)   -m  
+\ps v                     adv   n                       adv   pron v              
+\ge go  -nonfut -ep -3sg  then  older.brother -poss.1sg then  1sg be -nonfut -1sg
+
+\tx ńan   haːm... kotlenti,           adịlkan      tiːk, digen mịar,    digen
+\mb ńaːn  kotlen -t(I)        adị      -lkEn tiek digen mịan -L  digen
+\ps ?     adj                 ?              adv  num   num      num  
+\ge again small  -poss.1pl.in how.much -prop now  four  ten  -pl four 
+
+\tx mịar     tụnŋannị       ọːdʒịn,      digen mịar     tụnŋannị
+\mb mịan -L  tụnŋan -n(I)     ọː     -DʒI -n(I) digen mịan -L  tụnŋan -n(I)    
+\ps num      num              v                 num   num      num             
+\ge ten  -pl five   -poss.3sg become -fut -3sg  four  ten  -pl five   -poss.3sg
+
+\tx ọːdʒịn.
+\mb ọː     -DʒI -n(I)
+\ps v                
+\ge become -fut -3sg 
+
+\ft We are five siblings: our older brother is the eldest, then there's my older sister, then my
+older brother, then there's me, then our youngest, how old is he now, forty, he'll be forty
+five, he'll be forty five.
+\ru Вместе родившиеся нас пятеро: самый старший брат, потом старшая сестра пошла, потом
+старший брат, потом я, и наш младший, сколько ему сейчас, 40, 45 будет, 45 будет.
+\ph
+
+\id Kejmetinova_TV_family_017
+\ref 1:57
+\tx Tak, brigedir,        stado  brigediren,                   digen kụŋalkan,
+\mb tak  brigadir         stado  brigadir         -E  -n(I)     digen kụŋa  -lkEn
+\ps interj n                n      n                              num   n          
+\ge so.R brigade.leader.R herd.R brigade.leader.R -ep -poss.3sg four  child -prop
+
+\tx atịkaŋan                 čumrabotnicat     gurgeːwčin.
+\mb atịkan    -ŋ   -E  -n(I)     čumrabotnica  -Č   gurgeːwči   -n(I)
+\ps n                            n                  ?                
+\ge old.woman -aln -ep -poss.3sg yurt.worker.R -ins work.nonfut -3sg 
+
+\ft He's a brigade leader in the herd, with four children, his wife works as a yurt worker.
+\ru Бригадир, бригадир стада, с 4=мя детьми, его жена работает чумработницей.
+\ph
+\gr
+\nt Chumrabotnitsa = the woman who looks after reindeer herders, cooks for them, etc.
+\qu
+
+\id Kejmetinova_TV_family_018
+\ref 2:04
+\tx Mut    adị    anŋanị ọːdnị          [stammers]
+\mb mut    adị      anŋan ọː            -n(I) stammers
+\ps pron   ?        n     ?                   interj  
+\ge 1pl.in how.much year  become.nonfut -3sg  stammers
+
+\tx hamụdaŋat,                        Klim Nikolaevičńun
+\mb haːm -U    -DEŋ     -E  -t(I)        Klim Nikolaevič  -ńUn
+\ps v                                    ?    n               
+\ge join -caus -pst.ptc -ep -poss.1pl.in Klim Nikolaevich -com
+
+\tx tegetteŋet                               dʒoːr mịar     dʒoːr anŋanị
+\mb teg      -E  -Č   -DEŋ     -E  -t(I)        dʒoːr mịan -L  dʒoːr anŋan
+\ps v                                           num   num      num   n    
+\ge sit.down -ep -res -pst.ptc -ep -poss.1pl.in two   ten  -pl two   year 
+
+\tx ọːdnị.
+\mb ọː            -n(I)
+\ps ?                  
+\ge become.nonfut -3sg 
+
+\ft How many years is it since we married, since Klim Nikolaevich and I live (together), it is 22
+years.
+\ru Сколько лет стало как мы соединились (женились) с КН как мы живем, стало 22 года.
+\ph
+\gr hamụ = soedinjat'sja, and it's derived from haːm --> so the -U suffix is not exactly a
+Transitivizer-Causativizer, but does change the valency of the verb. I believe I have another
+example somewhere of -U deriving an intransitive verb
+\nt
+
+\id Kejmetinova_TV_family_019
+\ref 2:10
+\tx Digen kụŋalkahal      bihep.
+\mb digen kụŋa  -lkEn -SEl bi -R(E)   -p     
+\ps num   n                v                 
+\ge four  child -prop -pl  be -nonfut -1pl.in
+\ft We have four children.
+\ru У нас 4 детей.
+\ph
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_020
+\ref 2:12
+\tx Tak, kụŋaltị:            dʒoːr mịar,    egdʒenti            dʒoːr mịar
+\mb tak  kụŋa  -L  -t(I)        dʒoːr mịan -L  egdʒen -t(I)        dʒoːr mịan -L 
+\ps interj n                      num   num      adj                 num   num     
+\ge so.R child -pl -poss.1pl.in two   ten  -pl big    -poss.1pl.in two   ten  -pl
+
+\tx dʒoːrelken,    kollenti            mịan digenni         ọːdʒịn.
+\mb dʒoːr -E  -lkEn kotlen -t(I)        mịan digen -n(I)     ọː     -DʒI -n(I)
+\ps num             adj                 num  num             v                
+\ge two   -ep -prop small  -poss.1pl.in ten  four  -poss.3sg become -fut -3sg 
+
+\ft So, our children: 20... our eldest is 22, our youngest will be 14.
+\ru Наши дети: старшему 22, младшему будет 14.
+\ph
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_021
+\ref 2:20
+\tx Tak  bi... mut    edu       hupkučektu       gurgeːwčirep.
+\mb tak  biː mut    erek -DU  hupkut -ČEk -DU  gurgeːwči -R(E)   -p     
+\ps interj pron pron   pron      v                v                        
+\ge so.R 1sg 1pl.in prox -dat learn  -nr  -dat work      -nonfut -1pl.in
+\ft We work here in the school.
+\ru Мы работаем здесь в школе.
+\ph
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_022
+\ref 2:24
+\tx Irildu      ọːrọkọn                noːleːr
+\mb ireli  -DU  ọː     -REk      -E  -n(I)     noː             -(dU)LE -WUr    
+\ps n           v                              n                               
+\ge summer -dat become -cond.cvb -ep -poss.3sg younger.sibling -loc    -prfl.pl
+
+\tx stadala        horgerep,          hotnemi,               ńan   haːdụn
+\mb stado  -(dU)LE hor -Gr(E) -p      hot  -nE     -mI       ńaːn  haːdụn   
+\ps n              v                  v                      ?     adv      
+\ge herd.R -loc    go  -hab   -1pl.in rest -intent -cond.cvb again sometimes
+
+\tx edu       biwrerep,                 bileːktu,     poseloktu.
+\mb erek -DU  bi -Gr(E) -R(E)   -p      bileːk    -DU  poselok   -DU 
+\ps pron      v                         n              n             
+\ge prox -dat be -hab   -nonfut -1pl.in territory -dat village.R -dat
+
+\ft In summer we go to the (reindeer) herd to my younger brother for a holiday, and sometimes
+we are here, in the village.
+\ru Летом мы ездим в стадо к младшему брату, отдыхать, и иногда бываем здесь, в поселке.
+\ph
+\gr irildu is a fossilized dative form of ireli, which can occur both as the subject, as here, as well
+as in the adverbial 'in summer'; it is also the stem underlying the adjective irilderep
+\nt
+
+\id Kejmetinova_TV_family_023
+\ref 2:33
+\tx Otton irildu      ọːrakan                    biː teplicew
+\mb otton ireli  -DU  ọː     -REk      -E  -n(I)     biː teplica    -W  
+\ps ?     n           v                              pron n              
+\ge dp.Y  summer -dat become -cond.cvb -ep -poss.3sg 1sg hothouse.R -acc
+
+\tx teguwrerem,                        tala          ogurcï,    pomidor.
+\mb teg      -U    -Gr(E) -R(E)   -m   tarak -(dU)LE ogurcy      pomidor 
+\ps v                                  pron          n           n       
+\ge sit.down -caus -hab   -nonfut -1sg dist  -loc    cucumbers.R tomato.R
+
+\ft And when it turns summer I plant my hothouse, there are cucumbers and tomatoes.
+\ru Когда наступает лето, я сажаю теплицу, там огурцы, помидоры.
+\ph irildu ọːkam --> very reduced
+\gr irildu ọːčalan would not be very good, it is better to say irildu ọːrakan, which has a nuance of
+habituality
+\nt
+
+\id Kejmetinova_TV_family_024
+\ref 2:38
+\tx Tak, ŋịnalkahal        bihep,             dʒoːr ŋịn bihni
+\mb tak  ŋịn -E  -lkEn -SEl bi -R(E)   -p      dʒoːr ŋịn bi -R(E)   -n(I)
+\ps interj n                  v                  num   n   v               
+\ge so.R dog -ep -prop -pl  be -nonfut -1pl.in two   dog be -nonfut -3sg 
+
+\tx muttule:       Betxoven  gerbe ńan   Kotlen gerbe.
+\mb mut    -(dU)LE Betxoven  gerbe ńaːn  kotlen gerbe
+\ps pron           ?         n     ?     adj    n    
+\ge 1pl.in -loc    Beethoven name  again small  name 
+
+\ft We have dogs, chez nous there are two dogs: Beethoven and Kotlen (small one).
+\ru У нас есть собаки, у нас 2 собаки есть, Б и К.
+\ph
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_025
+\ref 2:44
+\tx Tak, koška bihni,           otton kotenok, taraŋat                   Dejl
+\mb tak  koška bi -R(E)   -n(I) otton kotenok  tarak -ŋ   -E  -t(I)        Dejl
+\ps interj ?     v                ?     n        pron                        ?   
+\ge so.R cat   be -nonfut -3sg  dp.Y  kitten.R dist  -aln -ep -poss.1pl.in Dale
+
+\tx gerbe.
+\mb gerbe
+\ps n    
+\ge name 
+
+\ft And we have a cat, that is, a kitten, this one of ours is called Dale.
+\ru Есть кошка, ну котенок, наш тот по имени Д.
+\ph
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_026
+\ref 2:48
+\tx Tarak erek ịlịs      koškat.
+\mb tarak erek ịlan  -Is    koška -t(I)       
+\ps pron  pron num          n                 
+\ge dist  prox three -ord.Y cat   -poss.1pl.in
+
+\ft That is our third cat.
+\ru Это наша 3-ая кошка.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_027
+\ref 2:51
+\tx Muttule        dʒoːr koška bihin.
+\mb mut    -(dU)LE dʒoːr koška bi -R(E)   -n(I)
+\ps pron           num   ?     v               
+\ge 1pl.in -loc    two   cat   be -nonfut -3sg 
+\ft We had two cats.
+\ru У нас были 2 кошки.
+\ph
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_028
+\ref 2:53
+\tx Bastaːn,  kollen kụŋa bidniken          otton kot,     koška gerbew
+\mb bastaːn    kotlen kụŋa  bi -D    -nIkEn   otton kot      koška gerbe -W  
+\ps adv        adj    n     v                 ?     n        ?     n         
+\ge at.first.Y small  child be -prog -sim.cvb dp.Y  tomcat.R cat   name  -acc
+
+\tx ebendule     tarbačan      ačča, tụkụngarar.
+\mb ewen -(dU)LE tarọːčịn  ačča tụkụn -Gr(E)      -r  
+\ps n            pron      ptl  v                     
+\ge Even -loc    dist.qual neg  hate  -hab.nonfut -3pl
+
+\ft At first, when I was a small child, well Evens didn't have cats, (they) disliked (them).
+\ru Сначала, будучи маленьким ребенком, ну у эвенов  этого нет, котов и кошек они не любят.
+\ph
+\gr gerbew is probably in the Accusative because it is the object of tụkụngarar, with "ebendule
+tarbačan ačča" being an eingeschobener explanatory sentence
+\nt
+
+\id Kejmetinova_TV_family_029
+\ref 2:59
+\tx Otton eben kụŋa, eben bejen            voobše      koškaw
+\mb otton ewen kụŋa  ewen bej -E  -n(I)     voobše       koška -W  
+\ps ?     n    n     n    n                 adv          n         
+\ge dp.Y  Even child Even man -ep -poss.3sg in.general.R cat   -acc
+
+\tx ehni              ịawrar,               irgekkerer.
+\mb e   -R(E)   -n(I) ịa      -Gr(E) -R       irget -Gr(E) -R      
+\ps v                 v                       v                    
+\ge neg -nonfut -3sg  do.what -hab   -neg.cvb raise -hab   -neg.cvb
+
+\ft Well Even children, Even people in general don't/didn't keep cats.
+\ru Ну эвенский ребенок, эвенский человек вообще, не делает кошек, не держит.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_030
+\ref 3:04
+\tx Mut    kačịkam      buolla                      ŋịnat.
+\mb mut    kačịkan -W   buol  -dEg      -E          ŋịn -E  -Č  
+\ps pron   n            v                           n           
+\ge 1pl.in puppy   -acc aux.Y -assert.Y -poss.3sg.Y dog -ep -ins
+
+\ft We (keep/kept) puppies, right, dogs.
+\ru Мы же щенков (разводим), собакой.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_031
+\ref 3:06
+\tx Ŋịn, ŋịn ebendu    ịak, gịa, tarịt tiːkerep    bej, tiːkerep    er   ịak
+\mb ŋịn ŋịn ewen -DU  ịak  gịa    tarịt tiek -(E)rEp bej tiek -(E)rEp erek ịak 
+\ps n   n   n         pron ?      adv   adv          n   adv          pron pron
+\ge dog dog Even -dat what friend then  now  -adjr   man now  -adjr   prox what
+
+\tx bini ịangụ,          ọːngụ.
+\mb bini ịak  -n(I)     =GU ọːn =GU
+\ps n    pron               pron   
+\ge life what -poss.3sg =q  how =q 
+
+\ft Dogs are the friends of the Evens, but today's people  are what, (a part of) modern life or
+what.
+\ru Собака у эвенов друг, потом современный человек, что-то (часть) современной жизни или
+как.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_032
+\ref 3:17
+\tx Teːmi    mut    ńuːkkičin,      ńọkalgịčịn    koškaw     irgettep.
+\mb teːmi     mut    ńụča    -G(E)čIn ńọka  -L  -G(E)čIn koška -W   irget -R(E)   -p     
+\ps conj      pron   n                n                  n          v                    
+\ge therefore 1pl.in Russian -sml     Sakha -pl -sml     cat.R -acc raise -nonfut -1pl.in
+
+\ft Therefore we keep cats like Russians, like Sakha.
+\ru Поэтому мы как русские, как якуты, держим кошек.
+\ph
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_033
+\ref 3:21
+\tx Tar   kotenokat                tiːk kollen, Dejl gerbe.
+\mb tarak kotenok  -E  -t(I)        tiek kotlen Dejl gerbe
+\ps pron  n                         adv  adj    ?    n    
+\ge dist  kitten.R -ep -poss.1pl.in now  small  Dale name 
+
+\ft That kitten of ours is small now, he's called Dale.
+\ru Этот наш котенок сейчас маленький, зовут Дейл.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_034
+\ref 3:24
+\tx Dʒulle       dʒoːr gịalkahal       bihit,
+\mb dʒul  -(dU)LE dʒoːr gịa    -lkEn -SEl bi -RI  -t(I)       
+\ps rel.n         num   ?                 v                   
+\ge front -loc    two   friend -prop -pl  be -pst -poss.1pl.in
+
+\tx taraŋaltị...
+\mb tarak -ŋ   -E  -L  -t(I)       
+\ps pron                           
+\ge dist  -aln -ep -pl -poss.1pl.in
+
+\ft We had two friends (i.e. cats) before, those of ours....
+\ru Раньше у нас было двое друзей, наши эти...
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_035
+\ref 3:27
+\tx Nọnap    gịawanụ čaːwdụ  Dʒọkụːskajdụk    emurit,
+\mb nọnap      gịawanụ   čaːg -DU  Dʒọkụːskaj -DUk(U) em   -U    -RI  -t(I)       
+\ps adj        adv       adj       n                  v                           
+\ge the.first. last.year far  -dat Yakutsk    -abl    come -caus -pst -poss.1pl.in
+
+\tx emie   kotenokat.
+\mb emie   kotenok  -E  -t(I)       
+\ps adv    n                        
+\ge also.Y kitten.R -ep -poss.1pl.in
+
+\ft The first one we brought from Yakutsk the year before last, als as a kitten.
+\ru Первого мы привели в позапрошлом году из Якутска, тоже котенком.
+\ph
+\gr gịawanụ čaːwdụ = the year before last
+\nt
+
+\id Kejmetinova_TV_family_036
+\ref 3:32
+\tx Taraŋat                   ŋiː bihin?            - Leopold bihin!
+\mb tarak -ŋ   -E  -t(I)        ŋiː bi -RI  -n(I)     Leopold bi -RI  -n(I)    
+\ps pron                        pron v                 ?       v                
+\ge dist  -aln -ep -poss.1pl.in who be -pst -poss.3sg Leopold be -pst -poss.3sg
+\ft That one of ours was who? - (That) was Leopold!
+\ru Наш этот кто был? Был Леопольд!
+\ph the first bihiiiiiiiiiiin had a very long drawn out second vowel
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_037
+\ref 3:37
+\tx Taraŋat                   buolla  irildu      tolle           ńuːrin,
+\mb tarak -ŋ   -E  -t(I)        buollar ireli  -DU  tol     -(dU)LE ńoː  -RI  -n(I)    
+\ps pron                        ptl     n           n               v                  
+\ge dist  -aln -ep -poss.1pl.in dp.Y    summer -dat outside -loc    exit -pst -poss.3sg
+
+\tx tolle           ńuːčelen                     sosedskaj      ŋịnal
+\mb tol     -(dU)LE ńoː  -čE     -(dU)LE -n(I)     sosedskij      ŋịn -E  -L 
+\ps n               v                              adj            n          
+\ge outside -loc    exit -pf.ptc -loc    -poss.3sg neighbouring.R dog -ep -pl
+
+\tx hepkenidʒur        dʒebehenče           bihidnen.
+\mb hepken -RIdʒI   -L  dʒeb -E  -s(E)n -čE     bi -RI  -tEn     
+\ps v                   v                       v                
+\ge catch  -ant.cvb -pl eat  -ep -lim   -pf.ptc be -pst -poss.3pl
+
+\ft And that one of ours went outside in summer, and when he went outside the neighbours'
+dogs caught and ate him.
+\ru А наш этот летом на улицу вышел, когда вышел на улицу, соседские собаки, схватив,
+съели.
+\ph
+\gr dʒebehenče = ate immediately, quickness of action; dʒebehenče bihidnen = she didn't see it
+herself, there's an ottenok of "okazyvaetsja"
+\nt
+
+\id Kejmetinova_TV_family_038
+\ref 3:44
+\tx Dʒụkak tar   ńimerelti.
+\mb dʒụkak    tarak ńimer     -E  -L  -t(I)       
+\ps n         pron  n                             
+\ge neighbour dist  neighbour -ep -pl -poss.1pl.in
+
+\ft That was our neighbouring family.
+\ru Эта наша соседняя семья.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_039
+\ref 3:46
+\tx Tarịt tar   amardadụkụn                emie   omen ịaw
+\mb tarịt tarak amar   -gIdE -DUk(U) -n(I)     emie   omen ịak  -W  
+\ps adv   pron  n                              adv    num  pron     
+\ge then  dist  behind -part -abl    -poss.3sg also.Y one  what -acc
+
+\tx garịt,               emie   čaːgịt   umurit.
+\mb ga   -RI  -t(I)        emie   čaːg -GIČ  em   -U    -RI  -t(I)       
+\ps v                      adv    adj        v                           
+\ge take -pst -poss.1pl.in also.Y far  -elat come -caus -pst -poss.1pl.in
+
+\ft Then after that we again took what, also brought (it) from far.
+\ru Потом после этого еще одного этого взяли, тоже оттуда привезли.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_040
+\ref 3:50
+\tx Taraŋčantị                emie   egdʒen ọːrịn,           dʒiŋ egdʒen
+\mb tarak -ŋ   -čEn -t(I)        emie   egdʒen ọː     -RI  -n(I)     dʒiŋ   egdʒen
+\ps pron                         adv    adj    v                     adv    adj   
+\ge dist  -aln -dim -poss.1pl.in also.Y big    become -pst -poss.3sg very.Y big   
+
+\tx ọːrịdʒị er   bọlọ.
+\mb ọː     -RIdʒI   erek bọlọnị     
+\ps v               pron n          
+\ge become -ant.cvb prox late.autumn
+
+\ft That one of ours also grew big, having become very big, this autumn.
+\ru Этот наш тоже стал большим, став очень большим, этой осенью.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_041
+\ref 3:55
+\tx Bọlọ     tolle           ńuːwren,              dʒụː dọːn
+\mb bọlọnị      tol     -(dU)LE ńoː  -Gr(E)      -n(I) dʒụː  dọː    -n(I)    
+\ps n           n               v                      n     rel.n           
+\ge late.autumn outside -loc    exit -hab.nonfut -3sg  house inside -poss.3sg
+
+\tx hokki      buollar, hokki,     hoken             họː.
+\mb hok  -kI   buollar hok  -kI   hok  -E  -n(I)     họː 
+\ps ?          ptl     ?          n                  adv 
+\ge heat -adjr dp.Y    heat -adjr heat -ep -poss.3sg very
+
+\ft In autumn he goes outside, it's hot inside the house, right, very hot.
+\ru Осенью выходит на улицу, в доме же жарко, очень жарко.
+\ph
+\gr here in Sebjan buollar is just used as a particle že, or with the Assertive meaning
+\nt
+
+\id Kejmetinova_TV_family_042
+\ref 4:00
+\tx Teːmi    tolle           ńuːreken,                  ńuːwkenit.
+\mb teːmi     tol     -(dU)LE ńoː  -REk      -E  -n(I)     ńoː  -WkEn -RI  -t(I)       
+\ps conj      n               v                            v                           
+\ge therefore outside -loc    exit -cond.cvb -ep -poss.3sg exit -caus -pst -poss.1pl.in
+\ft Therefore when he goes out we let him out.
+\ru Поэтому когда выходит на улицу, мы вывели.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_043
+\ref 4:03
+\tx Taraŋat                   omen ineŋiw       eče        emne,         gịa
+\mb tarak -ŋ   -E  -t(I)        omen ineŋ -E  -W   e   -čE     em   -R       gịa 
+\ps pron                        num  n             v           v             adj 
+\ge dist  -aln -ep -poss.1pl.in one  day  -ep -acc neg -pf.ptc come -neg.cvb next
+
+\tx ineŋiw       eče        emne,         ịlan ineŋiw       eče        emne.
+\mb ineŋ -E  -W   e   -čE     em   -R       ịlan  ineŋ -E  -W   e   -čE     em   -R      
+\ps n             v           v             num   n             v           v            
+\ge day  -ep -acc neg -pf.ptc come -neg.cvb three day  -ep -acc neg -pf.ptc come -neg.cvb
+
+\ft That one of ours didn't come one day, didn't come the second day, didn't come the third day.
+\ru Тот наш один день не пришел, второй день не пришел, третий день не пришел.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_044
+\ref 4:07
+\tx Tarịt ịmanda tiktin.
+\mb tarịt ịmanra tik  -RI  -n(I)    
+\ps adv   ?      v                  
+\ge then  snow   fall -pst -poss.3sg
+\ft Then it snowed.
+\ru Потом выпал снег.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_045
+\ref 4:08
+\tx Tačịn       ịanịkan      araːha honte ŋịn dʒebehnengu,
+\mb tarọːčịn  ịa      -nIkEn   araːha  honte ŋịn dʒeb -E  -s(E)n -R(E)   -n(I) =GU
+\ps pron      v                adv     adj   n   v                                
+\ge dist.qual do.what -sim.cvb maybe.Y other dog eat  -ep -lim   -nonfut -3sg  =q 
+
+\tx bejen               ọːngụl   kokednigu,           beriptin.
+\mb bej    -E  -n(I)     ọːn =(W)Ul koke       -n(I) =GU beriː -B   -RI  -n(I)    
+\ps pron                 pron       ?                    v                        
+\ge self.Y -ep -poss.3sg how =indef die.nonfut -3sg  =q  lose  -med -pst -poss.3sg
+
+\ft So doing, probably another dog ate (it), or it died somehow by itself, it got lost.
+\ru Так делая, видимо другая собака съела, или сама как-то умерла, пропала.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_046
+\ref 4:14
+\tx Egdʒoːmeje,       ịbga   baγajị koškamaja   bihin.
+\mb egdʒen =eː   -mEjE ịbgọ baγajị koška -mEjE bi -RI  -n(I)    
+\ps adj                ?    ?      ?           v                
+\ge big    =emph -aug  good very.Y cat   -aug  be -pst -poss.3sg
+
+\ft It was a very big, a very good cat.
+\ru Очень большая очень хорошая кошка была.
+\ph
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_047
+\ref 4:17
+\tx Taraŋat                   ačča.
+\mb tarak -ŋ   -E  -t(I)        ačča
+\ps pron                        ptl 
+\ge dist  -aln -ep -poss.1pl.in neg 
+\ft That one of ours is missing.
+\ru Этой наши нет.
+\ph
+\gr
+
+\id Kejmetinova_TV_family_048
+\ref 4:17
+\tx Tiːk buolla  tar   kotenokčantińun,                 Dejl gerbe.
+\mb tiek buollar tarak kotenok  -čEn -t(I)        =ńUn   Dejl gerbe
+\ps adv  ptl     pron  n                                 ?    n    
+\ge now  dp.Y    dist  kitten.R -dim -poss.1pl.in =restr Dale name 
+
+\ft And now we have only our kitten, Dale.
+\ru А сейчас только наш котенок, Дейл.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_049
+\ref 4:20
+\tx Bejen               erbečen   erek, ịalkan,   ịan           erbečen
+\mb bej    -E  -n(I)     erroːčin  erek ịak  -lkEn ịak  -n(I)     erroːčin 
+\ps pron                 pron      pron pron       pron           pron     
+\ge self.Y -ep -poss.3sg prox.qual prox what -prop what -poss.3sg prox.qual
+
+\tx ịnŋatalkan.
+\mb ịnŋat -E  -lkEn
+\ps n              
+\ge fur   -ep -prop
+
+\ft He himself is like this, with what, with such fur.
+\ru Сам он вот такой, с чем, с такой шерстью.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_050
+\ref 4:27
+\tx Ịnŋatan            honte porodamdas,   otton bastakï,  nọnap    ịak
+\mb ịnŋat -E  -n(I)     honte poroda  -mdEs otton bastakï    nọnap      ịak 
+\ps n                   adj   n             ?     adv        adj        pron
+\ge fur   -ep -poss.3sg other breed.R -sml  dp.Y  at.first.Y the.first. what
+
+\tx bihin,            kotenokat                 [stammers] tarak emie   kotlen ịnŋatalkan
+\mb bi -RI  -n(I)     kotenok  -E  -t(I)        tarak emie   kotlen ịnŋat -E  -lkEn
+\ps v                 n                         pron  adv    adj    n              
+\ge be -pst -poss.3sg kitten.R -ep -poss.1pl.in dist  also.Y small  fur   -ep -prop
+
+\tx bihin,            ereŋet                   emie   kollen ịnŋatalkan.
+\mb bi -RI  -n(I)     erek -ŋ   -E  -t(I)        emie   kotlen ịnŋat -E  -lkEn
+\ps v                 pron                       adv    adj    n              
+\ge be -pst -poss.3sg prox -aln -ep -poss.1pl.in also.Y small  fur   -ep -prop
+
+\ft His fur is like a different breed, but our first was what, our kitten, that one also had short
+fur, this one of ours also has short fur.
+\ru Его шерсть как другая порода, а первый был, наш котенок, тот тоже был с короткой
+шерстью, этот наш тоже с короткой шерстью.
+\ph
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_052
+\ref 4:37
+\tx Tar   gịa, gịadmar    ịak buollar, Leopoldaŋat                    buollar,
+\mb tarak gịa  gịa  -dmEr  ịak  buollar Leopold -E  -ŋ   -E  -t(I)        buollar
+\ps pron  adj  adj         pron ptl     n                                 ptl    
+\ge dist  next next -contr what dp.Y    Leopold -ep -aln -ep -poss.1pl.in dp.Y   
+
+\tx ịak bihin,            ịnŋatan            dịram.
+\mb ịak  bi -RI  -n(I)     ịnŋat -E  -n(I)     dịram
+\ps pron v                 n                   adj  
+\ge what be -pst -poss.3sg fur   -ep -poss.3sg fat  
+
+\ft But that second, but our Leopold, he had thick fur.
+\ru А этот второй, а наш Л. был с густой шерстюь.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_053
+\ref 4:43
+\tx Ereŋet                   buolla  honte, otton tarak
+\mb erek -ŋ   -E  -t(I)        buollar honte otton tarak
+\ps pron                       ptl     adj   ?     pron 
+\ge prox -aln -ep -poss.1pl.in dp.Y    other dp.Y  dist 
+
+\tx angọrka poroda  bihin.
+\mb angorka.R poroda  bi -RI  -n(I)    
+\ps ?         n       v                
+\ge angora.R  breed.R be -pst -poss.3sg
+
+\ft This one of ours is different, but that one was an angora cat.
+\ru А этот наш другой, а тот ангорской породой был.
+\ph
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_054
+\ref 4:45
+\tx Tarak bičeːdʒin           araːha.
+\mb tarak bi -čE     -DʒI -n(I) araːha 
+\ps pron  v                     adv    
+\ge dist  be -pf.ptc -fut -3sg  maybe.Y
+
+\ft Probably like that.
+\ru Наверно видимо так.
+\ph
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_055
+\ref 4:48
+\tx Tak, meːn dʒugulij,              tar   tačịn       dʒụːj
+\mb tak  meːn dʒugu -(dU)LI -J       tarak tarọːčịn  dʒụː  -J      
+\ps interj pron rel.n                  pron  pron      n             
+\ge so.R refl about -prol   -prfl.sg dist  dist.qual house -prfl.sg
+
+\tx dʒugulin                tačịn       teːleŋnem
+\mb dʒugu -(dU)LI -n(I)     tarọːčịn  teːleŋ -R(E)   -m  
+\ps rel.n                   pron      v                  
+\ge about -prol   -poss.3sg dist.qual tell   -nonfut -1sg
+
+\ft So, about myself, about the house I told like that.
+\ru Про себя так о доме так рассказала.
+\ph
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_056
+\ref 4:52
+\tx Anï  ịak goːŋe?
+\mb anï   ịak  goːn -ŋE     
+\ps adv   pron v            
+\ge now.Y what say  -pol.imp
+
+\ft And what else should I tell?
+\ru Что еще сказать?
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_057
+\ref 4:55
+\tx Otton domŋe   goːŋnerep,                 domŋew       mut    ajaːwrap.
+\mb otton doːmŋe goːn -Gr(E) -R(E)   -p      doːmŋe -W   mut    ajaːw -R(E)   -p     
+\ps ?     ?      v                           n           pron   v                    
+\ge dp.Y  taiga  say  -hab   -nonfut -1pl.in taiga  -acc 1pl.in love  -nonfut -1pl.in
+
+\ft And we say taiga, we love the taiga.
+\ru А мы говорим тайга, мы любим тайгу.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_058
+\ref 4:59
+\tx Irildu      ọːrọkọn,               tiːk daγanï voskresenjadu,
+\mb ireli  -DU  ọː     -REk      -E  -n(I)     tiek daγanï voskresenja -DU 
+\ps n           v                              adv  ptl    n               
+\ge summer -dat become -cond.cvb -ep -poss.3sg now  even.Y Sunday.R    -dat
+
+\tx hịgịːla       horgereridʒur,         [stammers] hịgịːla       ịaw
+\mb hịgịː  -(dU)LE hor -Gr(E) -RIdʒI   -L  stammers hịgịː  -(dU)LE ịak  -W  
+\ps n              v                       interj   n              pron     
+\ge forest -loc    go  -hab   -ant.cvb -pl stammers forest -loc    what -acc
+
+\tx dʒepnerep                    goːniken      horgerep,                  "halgïn".
+\mb dʒeb -nE     -R(E)   -p      goːn -nIkEn   hor -Gr(E) -R(E)   -p      halgïn
+\ps v                            v             v                          n     
+\ge eat  -intent -nonfut -1pl.in say  -sim.cvb go  -hab   -nonfut -1pl.in air.Y 
+
+\ft When it turns summer, even now on Sundays we go to the forest, we go to get some air.
+\ru Когда наступает лето, и сейчас в воскресенье, пойдя в лес, говоря что мы идем дышать
+свежим воздухом, идем.
+\ph
+\gr "salgïn hie"....
+\nt
+
+\id Kejmetinova_TV_family_059
+\ref 5:08
+\tx Otton halgïn goːniken      ńọkadịt       toren     bičeːdʒin.
+\mb otton halgïn goːn -nIkEn   ńọka  -DI   -Č   tore  -n  bi -čE     -DʒI -n(I)
+\ps ?     n      v             n                v         v                    
+\ge dp.Y  air.Y  say  -sim.cvb Sakha -adjr -ins speak -nr be -pf.ptc -fut -3sg 
+
+\ft And "halgïn" (air) is probably a Sakha word.
+\ru А салгын это якутское слово наверно.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_060
+\ref 5:10
+\tx Tar  [stammers] horridʒur       ịarịdʒụr      emgererep.
+\mb tar  stammers hor -RIdʒI   -L  ịa      -RIdʒI   -L  em   -Gr(E) -R(E)   -p     
+\ps adv  interj   v                v                    v                          
+\ge thus stammers go  -ant.cvb -pl do.what -ant.cvb -pl come -hab   -nonfut -1pl.in
+
+\ft We go there and do something, then we come.
+\ru Вот пойдя, сделав что-то приходим.
+\ph
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_061
+\ref 5:14
+\tx Bej ịadụnda               ịbga    tarak, er   hịwrarịdụn
+\mb bej ịak  -DU  -n(I)     =DE  ịbgọt tarak erek hịwra   -RI       -DU  -n(I)    
+\ps n   pron                     ?     pron  pron v                               
+\ge man what -dat -poss.3sg =ptl good  dist  prox breathe -impf.ptc -dat -poss.3sg
+
+\tx ńan   domŋe,  domŋele         horridʒur       tačịn       biečem
+\mb ńaːn  doːmŋe doːmŋe -(dU)LE hor -RIdʒI   -L  tarọːčịn  bi -WEːČ -E  -n  -W  
+\ps ?     ?      n              v                pron      v                    
+\ge again taiga  taiga  -loc    go  -ant.cvb -pl dist.qual be -gnr  -ep -nr -acc
+
+\tx ajaːwrap.
+\mb ajaːw -R(E)   -p     
+\ps v                    
+\ge love  -nonfut -1pl.in
+
+\ft It's good for a person's what, it's for breathing, and the taiga, going to the taiga, we love going
+like that.
+\ru Это хорошо и для чего человека, это для дыхания, и тайга, пойдя в тайгу, любим так
+ходить.
+\ph
+\gr biečem - lit. (wir lieben) das Gehen
+\nt
+
+\id Kejmetinova_TV_family_062
+\ref 5:24
+\tx Ọddọn,         ịak ńan   goːmi          höbüj?
+\mb ọd   -R(E)   -n(I) ịak  ńaːn  goːn -mI       höbüj 
+\ps v                  pron ?     v              ptl   
+\ge stop -nonfut -3sg  what again say  -cond.cvb OK.q.Y
+
+\ft That's it, what else can I say?
+\ru Кончилось, что еще можно сказать?
+\ph
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_family_063
+\ref 5:26
+\tx Ịakta    anaːn       ukčenek     ačča. Tara
+\mb ịak  =DE  anaːn        ukčen -ČEk ačča tar 
+\ps pron      ?            v          ptl  adv 
+\ge what =ptl on.purpose.Y tell  -nr  neg  thus
+
+\ft There's nothing special anymore to tell. That's all.
+\ru Больше нет специального рассказа. Вот.
+\ph
+\gr
+\nt

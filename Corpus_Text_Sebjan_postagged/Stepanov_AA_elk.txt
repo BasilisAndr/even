@@ -1,0 +1,343 @@
+\_sh v3.0  1088 Text
+
+\id Stepanov_AA_elk_000_metadata
+\ref Recorded on 12 March 2008 in Sebjan-Küöl by Brigitte Pakendorf in the kitchen of his house, with his little grandson present –
+occasional sounds of the grandson banging a bowl of cookies on the table, riding his little bike, and Afanasij Afanas’evič was playing
+with some sort of instrument and also occasionally knocked that on the table. BP was the only one present. One recording, but cut
+out little narratives in Even into individual files.
+\qu Transcribed by BP, Russian translation with Ija Krivoshapkina, glossed by BP. Funding by Max Planck Society (MPRG on Comparative
+Population Linguistics). Speaker abbreviation = AAS
+\ref Afanasij Afanas'evič was 56 years old at the time of recording, used to be a reindeer herder, then glava of the village, owned one of
+the shops in the village at the time of recording. Brother of Zoja Afanas'evna Stepanova.
+
+\id Stepanov_AA_elk_01
+\ref 0:02
+\tx Omneken        biː akmụ,                 Zinovij Afanasevič bujusedniken                 ńọŋčaktụ  kapkam
+\mb omen -REkEn    biː akan          -W        Zinovij Afanasevič  buju -s    -E  -D    -nIkEn   ńọŋčak -DU  kapkan -W  
+\ps num            pron n                       ?       ?           v                             n           n          
+\ge one  -iter.adv 1sg older.brother -poss.1sg Zinovij Afanasevich hunt -mult -ep -prog -sim.cvb wolf   -dat trap.R -acc
+
+\tx tullidʒi    tar   kapkanat       tọːkịw     maːdaŋan                 dʒugulin                teːleŋdʒim.
+\mb tul -RIdʒI   tarak kapkan -E  -Č   tọːkị -W   maː  -DEŋ     -E  -n(I)     dʒugu -(dU)LI -n(I)     teːleŋ -DʒI -m  
+\ps v            pron  n               n          v                           rel.n                   v               
+\ge set -ant.cvb dist  trap.R -ep -ins elk   -acc kill -pst.ptc -ep -poss.3sg about -prol   -poss.3sg story  -fut -1sg
+
+\ft I will tell how one day my older brother Zinovij Afanasevich while hunting set a trap for a wolf and with this trap killed an elk.
+\ru Я расскажу о том, как однажды мой старший брат охотясь поставил капкан на волка, этим капканом убил лося.
+\ph started to say "uk[čendʒim]" then changed to teːleŋdʒim
+\gr
+\nt
+
+\id Stepanov_AA_elk_02
+\ref 0:29
+\tx Biː akmụ                  Zinovij Afanasevič kučurup        kol... kụŋadụkụj
+\mb biː akan          -W        Zinovij Afanasevič  kučuke -(E)rEp kotlen kụŋa  -DUk(U) -J      
+\ps pron n                       ?       ?           ?              adj    n                     
+\ge 1sg older.brother -poss.1sg Zinovij Afanasevich small  -adjr   small  child -abl    -prfl.sg
+
+\tx ọrọm               ọrọlčịrịn,          kuruk     domŋele         bihin,            stadadu,    amančal
+\mb ọrọn              -W   ọrọlčị        -RI  -n(I)     kuruk     doːmŋe -(dU)LE bi -RI  -n(I)     stado  -DU  aman   -čEl
+\ps n                      v                            adv       n              v                 n           n          
+\ge domestic.reindeer -acc herd.reindeer -pst -poss.3sg always.Y. taiga  -loc    be -pst -poss.3sg herd.R -dat father -com
+
+\tx bujuskererin,                    kuruk     domŋele         bihin.
+\mb buju -s    -Gr(E) -RI  -n(I)     kuruk     doːmŋe -(dU)LE bi -RI  -n(I)    
+\ps v                                adv       n              v                
+\ge hunt -mult -hab   -pst -poss.3sg always.Y. taiga  -loc    be -pst -poss.3sg
+
+\ft My older brother Zinovij Afanasevich herded reindeer from a young age, he was always in the taiga, in the herd, hunted with our
+father, was always in the taiga.
+\ru Мой ст. брат ЗА с маленьких лет пас оленей, всегда был в тайге, в стаде, охотился с отцом, всегда был в тайге.
+\ph actually says bujuHskererin, i.e. he starts off saying it the local way and then changes it to the standard pronunciation
+\gr the adjectivizing suffix -(E)rEp gives the derived adjective a temporal meaning; the way they would normally say it here is
+"kotlereptukuj" from my young age, or kotlen kuŋaraptụkụj "from the time since I was a small child", the combination of temporal
+adjective plus Ablative-marked noun is not correct
+
+\id Stepanov_AA_elk_03
+\ref 0:44
+\tx Tarịt haːwdịnịdʒị  emnimi,        bujusedniken                 ńọŋčakal      ụdʒụdnan        ittidʒi,
+\mb tarịt hagdị -n  -RIdʒI   omen -REkEn    buju -s    -E  -D    -nIkEn   ńọŋčak -E  -L  ụdʒ   -E  -tEn      it  -RIdʒI  
+\ps adv   v                  num            v                             n              n                   v           
+\ge then  old   -vr -ant.cvb one  -iter.adv hunt -mult -ep -prog -sim.cvb wolf   -ep -pl track -ep -poss.3pl see -ant.cvb
+
+\tx ńọŋčak čerkem      tullin.
+\mb ńọŋčak čerken -W   tul -RI  -n(I)    
+\ps n      n           v                 
+\ge wolf   trap   -acc set -pst -poss.3sg
+
+\ft Then one day when he had already become old he saw wolf tracks while hunting and set a wolf trap.
+\ru Потом однажды, состарившись, охотясь увидев следы волков, поставил черкан на волка.
+\ph
+\gr I do not know whether there is a productive verbalizing suffix -n, but since haːwdịnịdʒị is the Anterior converb of a verb "sostarit'sja",
+that's the only way to analyze it; also I just cheekily analyzed "emnimi" as "omen-REkEn", because I don't really know how else to
+analyze it; Ija said it's the same as omneken, "odnazhdy" - it looks like the Conditional converb -mI, so perhaps it's a verb derived from
+omen (with the suffix -n....?), and the converb of this.
+\nt
+
+\id Stepanov_AA_elk_04
+\ref 0:57
+\tx Čerken gerbe tiːkerep    helet        ọːpča           kapkan, egdʒen, tarbačam
+\mb čerken gerbe tiek -(E)rEp hel  -E  -Č   ọː     -B   -čE     kapkan egdʒen tarọːčịn  -W  
+\ps n      n     adv          n             v                   n      adj    pron          
+\ge trap   name  now  -adjr   iron -ep -ins become -med -pf.ptc trap.R big    dist.qual -acc
+
+\tx ńọŋčaw      ụddụn             tullin.
+\mb ńọŋčak -W   ụdʒ   -DU  -n(I)     tul -RI  -n(I)    
+\ps n           n                    v                 
+\ge wolf   -acc track -dat -poss.3sg set -pst -poss.3sg
+
+\ft A cherkan is a modern trap made of iron, a big (trap) such a (trap) he set on the wolf's tracks.
+\ru Черкан это современный сделанных из железа капкан, большой, такое поставил по следам волка.
+\ph
+\gr
+\nt should be ńọŋčaK uddun
+
+\id Stepanov_AA_elk_05
+\ref 1:09
+\tx Tarịt gọrụhụkan bihidʒi    ịlan digen ineŋili          nọŋan tar   že   ọkaːtlị
+\mb tarịt gọrụ -sUkEn bi -RIdʒI   ịlan  digen ineŋ -E  -(dU)LI nọŋan tarak že    ọkaːt -(dU)LI
+\ps adv   adv         v           num   num   n                pron  pron  ptl   n            
+\ge then  long -attn  be -ant.cvb three four  day  -ep -prol   3sg   dist  ptl.R river -prol  
+
+\tx hereddin                    ụːčụkat.
+\mb hor -E  -D    -RI  -n(I)     ụːčak           -E  -Č  
+\ps v                            n                       
+\ge go  -ep -prog -pst -poss.3sg riding.reindeer -ep -ins
+
+\ft Then after having been (away) for a bit, after 3, 4 days he rode along that same river on his reindeer.
+\ru Потом побыв немножко долго, через 3, 4 дня он ехал по этой же реке на учахе.
+\ph ineŋüli
+\gr
+
+\id Stepanov_AA_elk_06
+\ref 1:23
+\tx Tar  heredniken            dʒe   biː er   bịrakčandụla   tuldeŋi              kapkam
+\mb tar  hor -E  -D    -nIkEn   dʒe    biː erek bịrakčan -(dU)LE tul -DEŋ     -J       kapkan -W  
+\ps adv  v                      ptl    pron pron n                v                     n          
+\ge thus go  -ep -prog -sim.cvb well.Y 1sg prox stream   -loc    set -pst.ptc -prfl.sg trap.R -acc
+
+\tx itnedek                         goːniken.
+\mb it  -nE     -DE       -W        goːn -nIkEn  
+\ps v                               v            
+\ge see -intent -purp.cvb -poss.1sg say  -sim.cvb
+
+\ft Riding like that "well, let me go and look at the trap which I set on this stream" he said (to himself).
+\ru Так едя "дай-ка я поеду посмотрю поставленный мной капкан на этом руче".
+\ph
+\gr itnedek = itnedeku
+\nt
+
+\id Stepanov_AA_elk_07
+\ref 1:29
+\tx Tar   bịrakčam      họlahnịn.
+\mb tarak bịrakčan -W   họl          -E  -s(E)n -RI  -n(I)    
+\ps pron  n             v                                     
+\ge dist  stream   -acc move.upriver -ep -lim   -pst -poss.3sg
+
+\ft He rode up that stream.
+\ru Поехал вверх по этому ручю.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_elk_08
+\ref 1:32
+\tx Heredniken            itteken                    tar   ńọŋčaw      ụdʒan            ọjlịn                 tiːnepgụ
+\mb hor -E  -D    -nIkEn   it  -REk      -E  -n(I)     tarak ńọŋčak -W   ụdʒ   -E  -n(I)     ọj      -(dU)LI -n(I)     tiːnep =GU
+\ps v                      v                           pron  n           n                   rel.n                     adj       
+\ge go  -ep -prog -sim.cvb see -cond.cvb -ep -poss.3sg dist  wolf   -acc track -ep -poss.3sg surface -prol   -poss.3sg past   =q 
+
+\tx čaːwdụgụ   dʒoːr tọːkị tar   bịrakčam      họlahančal.
+\mb čaːg -DI   =GU dʒoːr tọːkị tarak bịrakčan -W   họl          -E  -s(E)n -čE     -L 
+\ps adj            num   n     pron  n             v                                  
+\ge far  -adjr =q  two   elk   dist  stream   -acc move.upriver -ep -lim   -pf.ptc -pl
+
+\ft And while riding he saw that over that wolf's tracks yesterday or the day before two elks moved up that river.
+\ru Он увидел во время поездки (хередникен) поверх волчего следа вчера или позавчера пошли верх по этому ручью 2 лося.
+\ph
+\gr the form "itteken", i.e the Conditional converb, appears to have a purely narrative function as well, although Ija initially translated it
+as "kogda on videl" here (and elsewhere". When I discussed it with her, she agreed that from the structure of the sentence and the
+context it should be just an Indicative form. There may  even be a nuance of suddenness, from the context, though Ija didn't seem to
+see it that way.
+\nt before saying čaːwdu you have to say tiːniw, otherwise it is not comprehensible, i.e. čaːwdụ doesn't really exist by itself; and the correct
+form for this construction would have been tiːniw, not tiːnep; tiːnep by itself means "the day before yesterday" as well
+
+\id Stepanov_AA_elk_09
+\ref 1:45
+\tx Dʒe,  biː akmụ             bịrakčam      họllọn                 apkịtlaj               ịhrịdʒị, tar
+\mb dʒe    biː akan          -W   bịrakčan -W   họl          -R(E)   -n(I) apkịt  -(dU)LE -J       ịs    -RIdʒI   tarak
+\ps ptl    pron n                  n             v                          n                       v              pron 
+\ge well.Y 1sg older.brother -acc stream   -acc move.upriver -nonfut -3sg  ravine -loc    -prfl.sg reach -ant.cvb dist 
+
+\tx kapkamị       tuldeŋmi        miestelen                 ịhrịdʒị, itteken                    tar   kapkan
+\mb kapkan -J       tul -DEŋ     -?? mesto   -(dU)LE -n(I)     ịs    -RIdʒI   it  -REk      -E  -n(I)     tarak kapkan
+\ps n               v                n                         v              v                           pron  n     
+\ge trap.R -prfl.sg set -pst.ptc -?? place.R -loc    -poss.3sg reach -ant.cvb see -cond.cvb -ep -poss.3sg dist  trap.R
+
+\tx bihin                  torri         dʒoːr tọːkịl    gịrkačal.
+\mb bi -RI       -n(I)     tor   -(dU)LI dʒoːr tọːkị -L  gịrka -čE     -L 
+\ps v                      n             num   n         v                
+\ge be -impf.ptc -poss.3sg earth -prol   two   elk   -pl walk  -pf.ptc -pl
+
+\ft Well, my brother rode up that river and reached a ravine, reached the place where he set that trap of his, and sees that over the place
+where the trap was two elks walked.
+\ru Мой брат поехал вверх по ручю, доехав до ушелья, доехав до места, где он поставил свой капкан, видит, по месту где находится
+капкан, прошли 2 лося.
+\gr he clearly says 'tuldeŋMI' then he sort of sighs 'eeeeeehhhh'  and continues 'miestelen'; this could mean that he wanted to use the
+completely Sakha construction tuldeŋ miestelen and broke off after tuldeŋ_mi... because he tried to find the Even word for 'place', or
+it's just a speech error, and he meant to say 'tuldeŋi' with the Possessive Reflexive - which would make the construction a mixture of
+the Even and the Sakha constructions.
+
+\id Stepanov_AA_elk_10
+\ref 2:04
+\tx Uu  erek tọːkịl    araːha biː kapkamu               ụčaŋčaːdʒịr        goːniken.
+\mb uu  erek tọːkị -L  araːha  biː kapkan -W   -W        ụčaŋ  -čE     -DʒI -r   goːn -nIkEn  
+\ps interj pron n         adv     pron n                     v                       v            
+\ge ooh prox elk   -pl maybe.Y 1sg trap.R -acc -poss.1sg break -pf.ptc -fut -3pl say  -sim.cvb
+\ft Oh, these elks probably broke my trap.
+\ru О наверно эти лоси сломали мой капкан.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_elk_11
+\ref 2:08
+\tx Če,  kapkamị       bihin                  miestew      ịbgat       ịarụttakan,                      kapkannị       ačča bihin.
+\mb če    kapkan -J       bi -RI       -n(I)     mesto   -W   ịbgọ -Č   ịarụ  -Č   -REk      -E  -n(I)     kapkan -n(I)     ačča bi -RI  -n(I)    
+\ps ptl   n               v                      n            n         v                                  n                ptl  v                
+\ge ptl.Y trap.R -prfl.sg be -impf.ptc -poss.3sg place.R -acc good -ins check -res -cond.cvb -ep -poss.3sg trap.R -poss.3sg neg  be -pst -poss.3sg
+
+\ft When he thoroughly checked the place where the trap was, there was no trap.
+\ru Когда он хорошо осмотрел место где был капкан, капкана не было.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_elk_12
+\ref 2:13
+\tx Kapkandụla   tọːkị toːče         uonna kapkandụ  họrrịdʒị     kụńahanča.
+\mb kapkan -(dU)LE tọːkị toː     -čE     uonna kapkan -DU  họr        -RIdʒI   kụńa            -s(E)n -čE    
+\ps n              n     v               conj  n           v                   v                             
+\ge trap.R -loc    elk   step.on -pf.ptc and.Y trap.R -dat get.caught -ant.cvb run(of.animals) -lim   -pf.ptc
+
+\ft An elk had stepped on the trap and, having fallen into the trap, ran off.
+\ru На капкан наступил лось и попав в капкан, убежал.
+\ph kapkanda
+\gr the Dative case here "kapkandụ họrrịdʒị", because the elk actually got caught in the trap, while in the pear stories they use the
+Ablative case because the bike just gets caught on the stone
+\nt
+
+\id Stepanov_AA_elk_13
+\ref 2:23
+\tx Kapkam      tulmi         hịakịtadụ  esten           ujgerer                 hol  cep     huːredun             uhit
+\mb kapkan -W   tul -mI       hịakịta -DU  e   -R(E)       uj     -Gr(E)      -r   hel  cep     huːre -DU  -n(I)     usi  -Č  
+\ps n           v             n            v               v                       n    n       n                    n        
+\ge trap.R -acc set -cond.cvb tree    -dat neg -nonfut.3pl tie.up -hab.nonfut -3pl iron chain.R tip   -dat -poss.3sg rope -ins
+
+\tx egdʒen kaŋdụn ọːwrar.
+\mb egdʒen kaŋdụn ọː   -Gr(E) -r  
+\ps adj    n      v               
+\ge big    churka make -hab   -3pl
+
+\ft When they set a trap, they don't tie it to a tree, with a rope they make a churka at the end of an iron chain.
+\ru Когда ставят капкан, к дереву не привязывают, за конец железной цепи делают веревкой большое батало.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_elk_14
+\ref 2:33
+\tx Tar   kaŋdụn hoːtumnin          tar   tọːkị họlajịkaːkị                         tọhaŋča.
+\mb tarak kaŋdụn hotu       -mnIn    tarak tọːkị họlịn                  -jEkEː    -skI      tụsan -čE    
+\ps pron  n      v                   pron  n     n                                          v            
+\ge dist  churka carry.away -dur.cvb dist  elk   upper.reaches.of.river -directly -advb.all hop   -pf.ptc
+
+\ft Dragging this churka, the elk jumped straight upstream.
+\ru Таща эту чурку (батало) этот лось скакнул прямо вверх по течению.
+\ph should be họlahjakaːkị
+\gr the form in -hjịkaːkị is an adverbial form that is derived only from directional adverbs, ejehjekeːki = prjamo vniz po techeniju;
+ńahjịkaːkị = prjamo vniz pod goru (>ńaː = podnozhie gory), diehjikeːki = prjamo vverx v goru (> die = verxnij sklon gory); it does
+not derive directional adverbs from nouns like "doroga", road
+\nt
+
+\id Stepanov_AA_elk_15
+\ref 2:39
+\tx Tar   ụdlịn                herreken                   tụŋŋan ńama   mietre
+\mb tarak ụdʒ   -(dU)LI -n(I)     hor -REk      -E  -n(I)     tụnŋan ńama    metr   
+\ps pron  n                       v                           num    num     n      
+\ge dist  track -prol   -poss.3sg go  -cond.cvb -ep -poss.3sg five   hundred meter.R
+
+\tx herčelen                     [stammers] hịgịː hịat dọːdịgụn          tọːkịŋan               hekeːrkinin.
+\mb hor -čE     -(dU)LE -n(I)     stammers hịgịː  hịat   dọː    -DUk(U) -n(I)     tọːkị -ŋ   -E  -n(I)     hekeːrkin -RI  -n(I)    
+\ps v                             interj   n      n      rel.n                    n                        v                       
+\ge go  -pf.ptc -loc    -poss.3sg stammers forest willow inside -abl    -poss.3sg elk   -aln -ep -poss.3sg jump.out  -pst -poss.3sg
+
+\ft When he went along that track, when he had gone 500 m, out of the forest, out of the bushes his elk jumped out.
+\ru Когда он пошел по этому его следу через 500 метров, из леса из ивняка вскочил его лось.
+\ph
+\gr here, there is no difference between the two different temporal clauses, herreken and herčelen, if it were hereddeken then there
+would be a difference between hereddeken and herčelen, but of course that is due to the Progressive suffix
+\nt
+
+\id Stepanov_AA_elk_16
+\ref 2:54
+\tx Tọːkị hekeːrkinidʒi     tụhassịmị          omen boːdellej               kapkalkan    gọrụ eče
+\mb tọːkị hekeːrkin -RIdʒI   tụsan -sčI   -mI       omen boːdel -(dU)LE -J       kapkan -lkEn gọrụ e   -čE    
+\ps n     v                  v                      num  n                       n            ?    v          
+\ge elk   jump.out  -ant.cvb hop   -conat -cond.cvb one  leg    -loc    -prfl.sg trap.R -prop far  neg -pf.ptc
+
+\tx tọhan,    omneken        dʒoːreken       tọhanịdʒị bi:  akantakịw              kojeːtniken     ịlgamnịn.
+\mb tụsan       omen -REkEn    dʒoːr -REkEn    tụsan -RIdʒI   biː akan   -t(E)kI -W        kojeːt  -nIkEn   ịlgam -RI  -n(I)    
+\ps ?           num            num             v              pron n                        v                v                   
+\ge hop.neg.cvb one  -iter.adv two   -iter.adv hop   -ant.cvb 1sg father -all    -poss.1sg look.at -sim.cvb stand -pst -poss.3sg
+
+\ft The elk jumped out and tried to jump with the trap on one leg, didn't jump far, and having jumped once or twice stood looking at my
+brother.
+\ru Лось пытаясь прыгнуть вскочив, на одной ноге с капканом, не прыгнул далекго, прыгнув один два раза стоял глядя на моего брата.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_elk_17
+\ref 3:09
+\tx Akmụ             ụːčaktụ        [stammers] hekeːrkinidʒi     nụŋaj         garịdʒị  pektereːnni,
+\mb akan          -W   ụčak            -DU  stammers hekeːrkin -RIdʒI   nụŋa -J       ga   -RIdʒI   pekteren     -n(I)
+\ps n                  n                    interj   v                  n             v             ?                 
+\ge older.brother -acc riding.reindeer -dat stammers jump.out  -ant.cvb gun  -prfl.sg take -ant.cvb shoot.nonfut -3sg 
+
+\tx kapkandụ  harča             tọːkị himbiːr       eten            ajọːrọ,         meːni      hataːn
+\mb kapkan -DU  họr        -čE     tọːkị himbiːr        e   -t(E) -n(I) aj   ọː     -R       meːni       hataːn       
+\ps n           v                  n     adv            v               adj  v               pron        v            
+\ge trap.R -dat get.caught -pf.ptc elk   all.the.same.Y neg -fut  -3sg  good become -neg.cvb refl.sg.acc not.be.able.Y
+
+\tx eten...         dʒubgeːldej         ịanịkan      himbiːr       tịːlanịkan   kokedʒin        goːmi,         nọŋan,
+\mb e   -t(E) -n(I) dʒebgeːlde -J       ịa      -nIkEn   himbiːr        tịːla    -nIkEn   koke -DʒI -n(I) goːn -mI       nọŋan
+\ps v               n                   v                adv            v                 v               v              pron 
+\ge neg -fut  -3sg  food       -prfl.sg do.what -sim.cvb all.the.same.Y get.thin -sim.cvb die  -fut -3sg  say  -cond.cvb 3sg  
+
+\tx nọŋan pektereːniken    maːrin.
+\mb nọŋan pekteren -nIkEn   maː  -RI  -n(I)    
+\ps pron  v                 v                  
+\ge 3sg   shoot    -sim.cvb kill -pst -poss.3sg
+
+\ft My brother jumped on his reindeer and took his gun and shot, because an elk that has gotten caught in a trap will not get well
+anyway, it won't be able to.... not being able to find food it will starve and die, so he shot and killed (it).
+\ru Мой брат вскочив на учаха взяв ружье выстрелил, потому что попавший на капкан лось все равно не выздоровеет, самого себя не
+сможет... пищу себе делая, все равно умрет оттащав, он убил застрелив из ружья.
+
+\id Stepanov_AA_elk_18
+\ref 3:36
+\tx Tarbač      biː akmụ                  kapkanat       tọːkịw     bujusrin.
+\mb tarbač       biː akan          -W        kapkan -E  -Č   tọːkị -W   buju -s    -RI  -n(I)    
+\ps adv          pron n                       n               n          v                        
+\ge in.that.case 1sg older.brother -poss.1sg trap.R -ep -ins elk   -acc hunt -mult -pst -poss.3sg
+
+\ft That is how my brother caught an elk in a trap.
+\ru Так мой брат добыл капканом лося.
+\ph he has problems with the bujuSrin, he extends it for a long time, possibly because the local pronunciation would be bujuHrin, and he's
+trying hard to speak 'proper' standard Even
+\gr
+\nt ija says that here they don't say bujusdej, and that they don't say tarbač, and she isn't even sure what tarbač means; according to
+Robbek it means "esli tak" and "togda, v tom sluchaje" - but they both don't make sense here!! I thought it was short for "tarbachan"
+which is "like that", but that would also not be correct, that would be "takoj moj brat...". The correct way to say "tak moj brat dobyl"
+would be to say "tačịn". Ija didn't know what he meant by tarbač.

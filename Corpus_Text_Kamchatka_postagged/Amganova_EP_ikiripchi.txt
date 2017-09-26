@@ -1,0 +1,238 @@
+\_sh v3.0  984  Text
+
+\id Amganova_EP_ikiripči_000_metadata
+\ref Recorded 27 June 2009 in Esso by Natalia Aralova and Brigitte Pakendorf. NA and BP went to the house of the
+Amganovs on purpose to ask EPA to narrate a recording; this was already the 5th or 6th visit of NA (who had been
+recording the phonological word list with EPA's husband Efim) at the Amganov's house - so the whole set-up with
+video-camera and taking down the loudly ticking clock etc were quite familiar; on the other hand, EPA was clearly
+getting somewhat fed up with linguists and their incessant wishes to record things.  We talked a bit beforehand in Russian
+about what she could tell, and she told several little anecdotes, some only a few sentences long. We (BP, NA and EPA)
+were the only people in the house, and the recording was done in their kitchen, where we took down the ticking clock
+and switched off the radio, so that it was quiet.
+\qu Transcribed by BP, transcription checked with Elena Nikolaevna Cherkanova, Russian translation by Elena Nikolaevna Cherkanova,
+glossing by BP. Funding by the Volkswagen Foundation (DoBeS grant). Speaker abbreviation = EPA.
+\ref Elena Petrovna Amganova was born in 1952, i.e. she was 56-57 at the time of the recording. She had 8 years of schooling
+and had worked as a milker and then a cleaner. 
+\tx
+
+\id Amganova_EP_ikiripči_001
+\tx Russian, old video
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:04.110
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_ikiripči_002
+\tx clap
+\ELANBegin 00:00:04.110
+\ELANEnd 00:00:05.300
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_ikiripči_003
+\tx date, place, name
+\ELANBegin 00:00:05.300
+\ELANEnd 00:00:14.720
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_ikiripči_004
+\tx Ekmu             teːleŋeddʒoːtten                   tiːtel  omen bej bisin,            etikeːmker.
+\mb eken   -W        teːleŋ -E  -D    -WEːČ -R(E)   -n(I) tiːtel   omen bej bi -RI  -n(I)     etikeːn -mkEr
+\ps n                v                                    adv      num  n   v                 n            
+\ge mother -poss.1sg story  -ep -prog -gnr  -nonfut -3sg  long.ago one  man be -pst -poss.3sg old.man -aug 
+\ft My mother used to tell that once, a long time ago, an old man lived.
+\ph bisin
+\gr etikeːmker = bol'šoj starik, the augmentative gives a meaning of 'big size', not 'big age', to say he was a really old guy one
+would say 'agdị etikeːn' or 'ịlkan etikeːn'
+\ELANBegin 00:00:14.720
+\ELANEnd 00:00:19.770
+\ELANParticipant
+\ev
+\ru Мама рассказывает, давно был один мужик, старик.
+
+\id Amganova_EP_ikiripči_005
+\tx Omen ọrọnnị                bisin.
+\mb omen ọrọn              -n(I)     bi -RI  -n(I)    
+\ps num  n                           v                
+\ge one  domestic.reindeer -poss.3sg be -pst -poss.3sg
+\ft He had one reindeer.
+\ELANBegin 00:00:19.770
+\ELANEnd 00:00:21.530
+\ELANParticipant
+\ev
+\ru Один олень у него был.
+
+\id Amganova_EP_ikiripči_006
+\tx Ŋiːde    goːn esni             gawaːtta             nọŋman.
+\mb ŋiː =DE  goːn e   -R(E)   -n(I) ga   -WEːČ -R       nọŋan -W   -n(I)    
+\ps pron     v    v                 v                   pron                
+\ge who =ptl say  neg -nonfut -3sg  take -gnr  -neg.cvb 3sg   -acc -poss.3sg
+
+\ft Nobody, they say, took him in.
+\ph esni
+\gr
+\nt From the next sentence it becomes clear that nobody took the old man into their camp, so he always migrated on his own.
+\ELANBegin 00:00:21.530
+\ELANEnd 00:00:24.480
+\ELANParticipant
+\ev
+\ru Никто, говорят, его не брал к себе (в стойбище).
+
+\id Amganova_EP_ikiripči_007
+\tx Ńan   tačịnta               omekken nulgeweːčiddʒeːnńoːtten.
+\mb ńaːn tarọːčịn  =t(E)    omekken nulge   -WEːČ -E  -D    -dʒEːn -WEːČ -R(E)   -n(I)
+\ps adv  pron               ?       v                                                 
+\ge and  dist.qual =utočnit alone   migrate -gnr  -ep -prog -dur   -gnr  -nonfut -3sg 
+
+\ft And so the poor old man migrated here and there on his own.
+\ph
+\ELANBegin 00:00:24.480
+\ELANEnd 00:00:27.690
+\ELANParticipant
+\ev
+\ru Так он один, бедненький, и кочевал туда, сюда.
+
+\id Amganova_EP_ikiripči_008
+\tx Patọm ńan   ọrọn,         ọrọnnị                ereger ọːja  ọːdịtan,         ereger ọːja
+\mb potom  ńaːn ọrọn              ọrọn              -n(I)     ereger họːja ọː     -RI  -tEn      ereger họːja
+\ps adv    adv  n                 n                           adv    quant v                     adv    quant
+\ge then.R and  domestic.reindeer domestic.reindeer -poss.3sg always many  become -pst -poss.3pl always many 
+
+\tx bakụdditan.
+\mb bakụ    -D    -RI  -tEn     
+\ps v                           
+\ge be.born -prog -pst -poss.3pl
+\ft Then his reindeer with time became many, a lot of reindeer were born.
+\ELANBegin 00:00:27.690
+\ELANEnd 00:00:35.240
+\ELANParticipant
+\ev
+\ru Потом олень, оленей все время у него стало много, со временем стало рождаться.
+
+\id Amganova_EP_ikiripči_009
+\tx Patọm tiede   ọːjeː      ọːdịtanasị
+\mb potom  tiede   họːja =eː   ọː     -RI  -tEn      -E  =sI  
+\ps adv    adv     quant       v                              
+\ge then.R finally many  =emph become -pst -poss.3pl -ep =emph
+
+\tx turkučillenesi                                 maltaŋa                       daže  omekkenesi
+\mb turku       -Č   -E  -L    -R(E)   -n(I) -E  =sI   malta                -ŋE       daže   omekken -E  =sI  
+\ps v                                                  v                              ptl    ?                
+\ge not.be.able -res -ep -inch -nonfut -3sg  -ep =emph turn.reindeer.around -nmdl.cvb even.R alone   -ep =emph
+
+\tx ereger awụskịke          orroːtten               ọrọlnịda                       ereger
+\mb ereger aw    -skI      =kE   hor -WEːČ -R(E)   -n(I) ọrọn              -L  -n(I)     =DE  ereger
+\ps adv    pron                  v                       n                                    adv   
+\ge always where -advb.all =emph go  -gnr  -nonfut -3sg  domestic.reindeer -pl -poss.3sg =ptl always
+
+\tx bọddọččọːtta       amardadụn.
+\mb bọd    -Č   -WEːČ -R(E)   amar   -gIdE -DU  -n(I)    
+\ps v                         n                          
+\ge follow -res -gnr  -nonfut behind -part -dat -poss.3sg
+
+\ft Then finally his reindeer had become so many that he was not able to turn them around, even alone where he would go
+his reindeer would always follow after him.
+\ELANBegin 00:00:35.240
+\ELANEnd 00:00:45.240
+\ELANParticipant
+\ev
+\ru Потом у него оленей много стало что он их уже не мог поворачивать, даже один всегда куда-нибудь идет, олени все
+время идут за ним.
+
+\id Amganova_EP_ikiripči_010
+\tx ńan
+\mb ńaːn
+\ps adv 
+\ge and 
+
+\ELANBegin 00:00:45.240
+\ELANEnd 00:00:46.800
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_ikiripči_011
+\tx Ńan   tačịn       tar   bidmi              tugenidu    uže      ọːnasị     nekčin         raz
+\mb ńaːn tarọːčịn  tarak bi -D    -mI       tugeni -DU  uže       ọːn -E  =sI   nek -DʒI -n(I) raz   
+\ps adv  pron      pron  v                  n           adv       pron          v              n     
+\ge and  dist.qual dist  be -prog -cond.cvb winter -dat already.R how -ep =emph do  -fut -3sg  once.R
+
+\tx ọːjada     ọːdịtan.
+\mb họːja =DE  ọː     -RI  -tEn     
+\ps quant      v                    
+\ge many  =ptl become -pst -poss.3pl
+\ft And so he lived, and his reindeer became so many, that he didn't know how to handle them. (lit. how will he do, since they
+had become so many).
+\ELANBegin 00:00:46.800
+\ELANEnd 00:00:53.610
+\ELANParticipant
+\ev
+\ru (РМЕ) И вот он так жил, и что же он сделает, стадо-то большое стало. (Лена Черканова) Оленей так много стало, что он
+уже не знал, что с ними делать.
+
+\id Amganova_EP_ikiripči_012
+\tx Turkun            maltaŋa                       ńan   ọrọrnị                    ụlsarịtan.
+\mb turku       -n(I) malta                -ŋE       ńaːn ọrọn              -L  -n(I)     ụlsa  -RI  -tEn     
+\ps v                 v                              adv  n                               v                   
+\ge not.be.able -3sg  turn.reindeer.around -nmdl.cvb and  domestic.reindeer -pl -poss.3sg slide -pst -poss.3pl
+\ft He wasn't able to turn them around, and his reindeer got caught by an avalanche.
+\ph ụlsarịtan
+\gr ụlsarịtan = smelo ix, oni vmeste so snegom propali, neizvestno kogda, ụlsawrịtan = točno davno smelo ix
+\nt
+\ELANBegin 00:00:53.610
+\ELANEnd 00:00:58.750
+\ELANParticipant
+\ev
+\ru Он не смог собрать, и олени попали под снежную лавину.
+
+\id Amganova_EP_ikiripči_013
+\tx Nan    ereger tiːk bakkọːtta         unette     tala          ikirilbe.
+\mb ńaːn ereger tiek bak  -WEːČ -R(E)   unet  =DE  tarak -(dU)LE ikiri -L  -W  
+\ps adv  adv    adv  v                  adv        pron          n             
+\ge and  always now  find -gnr  -nonfut still =ptl dist  -loc    bone  -pl -acc
+\ft And they still find bones there all the time.
+\ELANBegin 00:00:58.750
+\ELANEnd 00:01:01.970
+\ELANParticipant
+\ev
+\ru Вот до сих пор находят там кости.
+
+\id Amganova_EP_ikiripči_014
+\tx Tak  tarak ńan   tor   gerben          ikiripči    goːweːtte.
+\mb tak  tarak ńaːn tor   gerbe -n(I)     ikiri -pčVn goːn -WEːČ -R(E)  
+\ps interj pron  adv  n     n               n           v                 
+\ge so.R dist  and  earth name  -poss.3sg bone  -adjr say  -gnr  -nonfut
+\ft So that place is now called Ikiripchi ('having many bones').
+\ELANBegin 00:01:01.970
+\ELANEnd 00:01:06.250
+\ELANParticipant
+\ev
+\ru Сейчас эту землю называют Икирипчи (много костей).
+
+\id Amganova_EP_ikiripči_015
+\tx mhm, ikiripči
+\ELANBegin 00:01:06.250
+\ELANEnd 00:01:08.080
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_ikiripči_016
+\tx ikiripči, eto kost, ikiril u nas kosti že
+\mb
+\ge
+\ft Ikiripchi, that's a bone, 'ikiril' (in Even) means bones, right.
+\ELANBegin 00:01:08.080
+\ELANEnd 00:01:10.330
+\ELANParticipant
+\ev
+\ru 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Kamchatka2009/sound_from_video/Amganova_EP_ikiripchi_Esso_270609.wav
+\ELANMediaMIME audio/x-wav

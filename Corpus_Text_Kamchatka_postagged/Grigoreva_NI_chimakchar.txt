@@ -1,0 +1,2996 @@
+\_sh v3.0  1082 Text
+
+\id Grigoreva_NI_chimakchar_000_metadata
+\ref Recorded on 12 July 2009 by Natalia Aralova and Brigitte Pakendorf. Since during the first recording session
+(Grigoreva_Natalia_Ionovna_shkola_remesel) NIG got somewhat carried away, telling us about her life and giving a Christian sermon,
+she hadn't managed to tell the things she had actually prepared - fairy tales and a legend and a bit about the local toponymy. We
+therefore arranged for a second recording session, which took place 2 weeks after the first one in the flat that BP and NA are renting
+in Esso. We recorded in the living room, and had switched off the fridge and all telephones, so it was fairly quiet with the exception of
+the occasional car going by outside the window, or a group of children shouting. This session was even longer than the first, taking 4
+hours in total; however, there was a break in between to drink tea, and later NIG also went to the shops to buy some cigarettes, the
+actual recording time was 2 hours. NIG had prepared herself beforehand, and had brought written versions (Russian and Even) of
+the stories and fairy tales she wanted to tell, which she used mainly as a prompt. BP monitored the Marantz while NA monitored the
+video camera.
+\qu In 2016, transcribed by BP, transcription checked and Russian translation by Rimma Maksimovna Egorova, glossing by BP. Funding by the
+Volkswagen Foundation (DoBeS grant) and CNRS/Universit� Lyon 2 (laboratoire DDL). Speaker abbreviation = NIG
+\ref Natalja Ionovna Grigor'eva (Ichanga) was born in 1956, i.e. she was 53-54 at the time of the recording. She had first trained as a
+leather worker, but later gone on to get a higher education as an actor and director of spectacles. She speaks Russian with her
+husband and children.
+\tx
+
+\id Grigoreva_NI_chimakchar_001
+\ref
+\tx Ńịmkan, čimakčar.
+\mb ńịmkan čimakčan -L 
+\ps n      n           
+\ge tale   mouse    -pl
+\ft A tale: mice.
+\ev
+\ru Сказка, мыши.
+\ELANBegin 00:00:26.690
+\ELANEnd 00:00:30.760
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_002
+\ref
+\tx Ọrọttị    erek ńịmkan.
+\mb ọrọč  -DI   erek ńịmkan
+\ps n           pron n     
+\ge Oroch -adjr prox tale  
+\ft This tale is Even.
+\ev
+\ru Эвенская эта сказка.
+\ELANBegin 00:00:30.760
+\ELANEnd 00:00:37.300
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_003
+\ref
+\tx Kučukejeken    urekčekekendule        iːndʒidditen            bidditen                kučeːńekeker      čumikčakakar.
+\mb kočuken -jEkEn urekčen -kEkEn -(dU)LE iːn  -D    -RI  -tEn      bi -D    -RI  -tEn      kučeːle -kEkEn -L  čimakčan -kEkEn -L 
+\ps adj            n                      v                         v                       adj                n                  
+\ge small   -dim   hill    -dim   -loc    live -prog -pst -poss.3pl be -prog -pst -poss.3pl small   -dim   -pl mouse    -dim   -pl
+\ft On a small little hill lived tiny little mice.
+\ev
+\ru На маленькой сопке жили-были маленькие мышки.
+\ELANBegin 00:00:37.300
+\ELANEnd 00:00:48.340
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_004
+\ref
+\tx Erro, gurgelereːj           bišitene.
+\mb erro gurgeː -LEn -L  =eː   bi -RI  -tEn      -E 
+\ps interj n                     v                    
+\ge oh   work   -nr  -pl =emph be -pst -poss.3pl -ep
+\ft Oh, they were very hard-working.
+\ph
+\gr wrong form, should be gurgewčilerej, the noun derived from the verb
+\ev
+\ru работящие были
+\ELANBegin 00:00:48.340
+\ELANEnd 00:00:51.840
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_005
+\ref
+\tx Badʒịkarta     ịllidʒurte,              gurgeːwčileddʒoːtteši                    mọːŋgawurgali                 kimmoːtte.
+\mb badʒịkar =t(E) ịl       -RIdʒI   -L  =t(E) gurgeːwči -L    -D    -WEːČ -R(E)   =sI   mọː  -ŋ   -GE    -WUr     =gEli kim     -WEːČ -R(E)  
+\ps n              v                           v                                         n                               v                    
+\ge morning  =ptl  stand.up -ant.cvb -pl =ptl  work      -inch -prog -gnr  -nonfut =emph tree -aln -desig -prfl.pl =emph prepare -gnr  -nonfut
+
+\ft As soon as they stand up in the morning they start to work, they prepare firewood for themselves.
+\ph to me it sounds like "ịllidʤoːtte", but Rimma insisted it was the converb
+\gr
+\ev
+\ru Утром как только встанут, начинают работать, и дрова себе готовят
+\ELANBegin 00:00:51.840
+\ELANEnd 00:01:00.280
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_006
+\ref
+\tx Tabịč iniŋeten             goːweːtten               "tar buγ... buγeški        ńọːŋčille         tala          geletneš...          tukeru     geleː...
+\mb tabịč eniŋeː      -tEn      goːn -WEːČ -R(E)   -n(I) tar  *** bụj    -skI      ńọːŋčị -(LI)lrE tarak -(dU)LE geleːt   -nE     -s   tukeru     geleːt  
+\ps adv   n                     v                        adv  ?   n                v               pron          v                     ?          v       
+\ge again grandmother -poss.3pl say  -gnr  -nonfut -3sg  thus *** forest -advb.all run    -imp.2pl dist  -loc    look.for -intent -2pl lily.roots look.for
+
+\tx geleːt... geletgerelle".
+\mb geleːt   geleːt   -Gr(E) -(LI)lrE
+\ps v        v                       
+\ge look.for look.for -hab   -imp.2pl
+\ft And their grandmother says "run to the forest and go to look for lily roots, look for (them)".
+\ev
+\ru И вот бабушка их говорит, вон в лесу в лес бегайте там саранку ищите
+\ELANBegin 00:01:00.280
+\ELANEnd 00:01:12.160
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_007
+\ref
+\tx Ńan   čimakčar     mannụččoːtta            umekičeː
+\mb ńaːn čimakčan -L  manrụ -Č   -WEːČ -R(E)   umekič =eː  
+\ps adv  n            v                        adv         
+\ge and  mouse    -pl try   -res -gnr  -nonfut very   =emph
+\ft And the mice do their very best (lit. try very hard).
+\ev
+\ru И мыши стараются очень.
+\ELANBegin 00:01:12.160
+\ELANEnd 00:01:16.820
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_008
+\ref
+\tx Eštendetitte         oːšelloːtteda,                 čakačidmi                 dʒebleŋgewur.
+\mb e   -R(E)   =DE  =tIt oseːl        -WEːČ -R(E)   =DE  čak    -Č   -D    -mI       dʒeb -LE -ŋ   -GE    -WUr    
+\ps v                     v                               v                           v                            
+\ge neg -nonfut =ptl =ptl become.tired -gnr  -nonfut =ptl gather -res -prog -cond.cvb eat  -nr -aln -desig -prfl.pl
+\ft They never got tired gathering food for themselves.
+\ph actually says ešendetitte
+\ev
+\ru Никогда не уставали собирая себе пищу.
+\ELANBegin 00:01:16.820
+\ELANEnd 00:01:22.800
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_009
+\ref
+\tx Tugenitki      tarak non kimučiddʒoːtte,                       edewur                 tugeni... tugenidu    dʒemedde.
+\mb tugeni -t(E)kI tarak *** kim     -U    -Č   -D    -WEːČ -R(E)   e   -DE       -WUr     tugeni tugeni -DU  dʒem   -E  -D    -R      
+\ps n              pron  ?   v                                      v                      n      n           v                        
+\ge winter -all    dist  *** prepare -caus -res -prog -gnr  -nonfut neg -purp.cvb -prfl.pl winter winter -dat starve -ep -prog -neg.cvb
+
+\ft They were preparing for winter, so that they would not starve in winter.
+\ph "non" doesn't have any meaning, she didn't want to say anything that would fit in here
+\gr edewur ʤemedde = chtoby ne golodatj; ʤemšem= ja golodnyj; ʤebemšem = ja golodnyj, netu raznicy
+\nt
+\ev
+\ru К зиме они готовились чтобы зимой не голодать.
+\ELANBegin 00:01:22.800
+\ELANEnd 00:01:29.060
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_010
+\ref
+\tx Nan    omneken        tačịn        čakačidditan.
+\mb ńaːn omen -REkEn    tarrọːčịn čak    -Č   -D    -RI  -tEn     
+\ps adv  num            pron      v                               
+\ge and  one  -iter.adv dist.qual gather -res -prog -pst -poss.3pl
+\ft And once they were gathering like that.
+\ev
+\ru И однажды так собирали.
+\ELANBegin 00:01:29.060
+\ELANEnd 00:01:36.000
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_011
+\ref
+\tx Ńan...
+\mb ńaːn
+\ps adv 
+\ge and 
+\ft and...
+\ev
+\ru
+\ELANBegin 00:01:36.000
+\ELANEnd 00:01:38.480
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_012
+\ref
+\tx Ah, čakačidmi                 tarakam       giekili           ńọːmatmi         aːwaːttiː               von     tala          bụj... bụjla
+\mb ah čak    -Č   -D    -mI       tarakam       gịakị   -(dU)LI ńọːmat -mI       haː  -WEːČ -R(E)   =Iː   von     tarak -(dU)LE bụj    bụj    -(dU)LE
+\ps interj v                           adv           pron            v                v                        ptl     pron          n      n             
+\ge ah gather -res -prog -cond.cvb in.those.days various -prol   jump   -cond.cvb know -gnr  -nonfut =emph there.R dist  -loc    forest forest -loc   
+
+\tx gieki     dilgenke   ọːn binni,          ibdirilbede,        aːwaːtta           ọːn taral     iːndʒidde.
+\mb gịakị   dʒelgenke ọːn bi -R(E)   -n(I) ibdiri -L  -W   =DE  haː  -WEːČ -R(E)   ọːn tarak -L  iːn  -D    -R(E)  
+\ps pron    n         pron v                n                    v                  pron pron      v                 
+\ge various animal    how be -nonfut -3sg  people -pl -acc =ptl know -gnr  -nonfut how dist  -pl live -prog -nonfut
+\ft And gathering like that, running around everywhere they knew how the different animals in the forest were, they knew the people, how those were living.
+\ph says giekeri, not giekili
+\gr no real difference iːnʤidde and bidde, even though literally "bidde" means "be, byvaet, exist", but generally it's used to mean "live"
+\ev
+\ru И собирая так, везде бегая знали там в лесу как всякие звери живут, и людей знали как те живут.
+\ELANBegin 00:01:38.480
+\ELANEnd 00:02:00.560
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_013
+\ref
+\tx Nan    teːmi    emnidʒur         esime,     iːsečin  ọːdakan,                    emmoːtte            nan    eniŋetkiwur
+\mb ńaːn teːmi     em   -RIdʒI   -L  esime      hiːsečin ọː     -REk      -E  -n(I)     em   -WEːČ -R(E)   ńaːn eniŋeː      -t(E)kI -WUr    
+\ps adv  conj      v                 adv        n        v                              v                  adv  n                           
+\ge and  therefore come -ant.cvb -pl afterwards evening  become -cond.cvb -ep -poss.3sg come -gnr  -nonfut and  grandmother -all    -prfl.pl
+
+\tx ńọːŋčịwaːtta          nan    teːleŋedʒilloːtte:
+\mb ńọːŋčị -WEːČ -R(E)   ńaːn teːleŋ -E  -D    -E  -L    -WEːČ -R(E)  
+\ps v                    adv  v                                       
+\ge run    -gnr  -nonfut and  tell   -ep -prog -ep -inch -gnr  -nonfut
+\ft And therefore when they come (home) later, when it becomes evening, they come and they run to their grandmother and start to tell:
+\ev
+\ru И поэтому когда придут потом вечер когда настает приходят и к своей бабушке бегут и начинают рассказывать:
+\ELANBegin 00:02:00.560
+\ELANEnd 00:02:10.880
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_014
+\ref
+\tx Ekeː       ekeː       abačilda ńanda      kabiwu         epkenin,              nan    umekkente     dʒawul čelewen
+\mb eken   -Eː  eken   -Eː  abačilda ńaːn =DE  kabịaw    -W   hepken -RI  -n(I)     ńaːn omekken =t(E) d'jawol čele -W   -E  -n(I)    
+\ps n           n           ?        adv       n              v                     adv  ?             n       n                      
+\ge mother -voc mother -voc ***      and  =ptl ptarmigan -acc catch  -pst -poss.3sg and  alone   =ptl  devil.R all  -acc -ep -poss.3sg
+
+\tx dʒeptin.
+\mb dʒeb -RI  -n(I)    
+\ps v                  
+\ge eat  -pst -poss.3sg
+\ft "Granny, granny, abachilda again caught a ptarmigan and ate it up all by himself, the devil!"
+\ph
+\gr Rimma couldn't say what "abačilda" was; since later on it becomes clear that the fat old man is called Mačilda, I think it might be an accidental conflation of "abaga" and "Mačilda"
+\ev
+\ru Бабушка бабушка абачилда опять куропатку поймал, дьявол, всю съел.
+\ELANBegin 00:02:10.880
+\ELANEnd 00:02:23.120
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_015
+\ref
+\tx iː
+\mb iː 
+\ps interj
+\ge yes
+\ft mm
+\ev
+\ru
+\ELANBegin 00:02:23.120
+\ELANEnd 00:02:25.220
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_016
+\ref
+\tx Nan    gie   čimakčan:
+\mb ńaːn gịa   čimakčan
+\ps adv  ?     n       
+\ge and  other mouse   
+\ft And another mouse:
+\ev
+\ru
+\ELANBegin 00:02:25.220
+\ELANEnd 00:02:27.500
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_017
+\ref
+\tx "Detlewenteken                     etiken   eniŋedu         ŋenurin,                 tačịn        nọŋan ereger olekčiweːtten              eniŋew"
+\mb deːtle -W   -E  -n(I)     =t(E)kEn etikeːn eniŋeː      -DU  ŋen -U    -RI  -n(I)     tarrọːčịn nọŋan ereger olekči -WEːČ -R(E)   -n(I) eniŋeː      -W  
+\ps n                                  n       n                v                        pron      pron  adv    v                          n               
+\ge wing   -acc -ep -poss.3sg =restr   old.man grandmother -dat go  -caus -pst -poss.3sg dist.qual 3sg   always cheat  -gnr  -nonfut -3sg  grandmother -acc
+\ft "Only the wing did the old man bring to the granny, like that he always cheats the granny".
+\ph
+\ev
+\ru Только крылышко его старик бабушке принес, он всегда бабушку так обманывает.
+\ELANBegin 00:02:27.500
+\ELANEnd 00:02:34.720
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_018
+\ref
+\tx "Erulle, tikundačakan,           erro, etikekejew            ịakawụ   erro."
+\mb erulle tikuń -DE       =čEkEn erro etikeːn -kEːjE -W   ịak  -awụ  erro
+\ps interj v                      interj n                   pron       interj
+\ge interj anger -adjr.exp =emph  oh   old.man -aug   -acc what -emph oh  
+
+\ft "How angry I am with that old man, really!".
+\ph
+\gr tikundačakan is from tikuń, tikunda "dosadno"
+\gr tikundačakan = kak menja eto psixuet
+\ev
+\ru Как я сержусь на этого старика
+\ELANBegin 00:02:34.720
+\ELANEnd 00:02:40.520
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_020
+\ref
+\tx "Uu, muntekiši               ńọːŋčịwaːttan."
+\mb uu  mun        -t(E)kI =sI   ńọːŋčị -WEːČ -R(E)   -n(I)
+\ps interj n                        v                         
+\ge ooh 1pl.ex.obl -all    =emph run    -gnr  -nonfut -3sg 
+\ft "Ooh, he's running to us".
+\ev
+\ru А к нам же бежит.
+\ELANBegin 00:02:40.520
+\ELANEnd 00:02:46.920
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_021
+\ref
+\tx "Nan   munteki            emneken                      bu     gasčịwaːttu          dʒebdewur               deːtlew...  deːtlekekem."
+\mb ńaːn mun        -t(E)kI em   -REk      -E  -n(I)     buː    gasčị -WEːČ -(R)U   dʒeb -DE       -WUr     deːtle -W   deːtle -kEkEn -W  
+\ps adv  n                  v                            pron   v                   v                       n           n                 
+\ge and  1pl.ex.obl -all    come -cond.cvb -ep -poss.3sg 1pl.ex ask   -gnr  -1pl.ex eat  -purp.cvb -prfl.pl wing   -acc wing   -dim   -acc
+\ft "And when he comes to us we'll ask to eat the little wing".
+\ev
+\ru И вот когда он придет мы попросим у него кушать крылешко.
+\ELANBegin 00:02:46.920
+\ELANEnd 00:02:58.120
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_022
+\ref
+\tx "Nọŋanaši      čulkiweːtten,                čulkinkeje             etikekeje."
+\mb nọŋan -E  =sI   čilki     -WEːČ -R(E)   -n(I) čilki     -n(I) -kEːjE etikeːn -kEːjE
+\ps pron            v                             v                      n             
+\ge 3sg   -ep =emph be.greedy -gnr  -nonfut -3sg  be.greedy -3sg  -aug   old.man -aug  
+\ft "And he's greedy, a very greedy old man".
+\ph
+\gr čilkinkeje = silno zhadnyj, ne to chto on bolshoj
+\ev
+\ru А он жадничает, жадный очень старик.
+\ELANBegin 00:02:58.120
+\ELANEnd 00:03:06.500
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_023
+\ref
+\tx "Erroː, dʒawulu     arịŋkawa,       iː, olek   tawụr etikekeje,       mm."
+\mb erroːj  d'jawol -W   arịŋka -W   -E  iː  oleːk tawụr etikeːn -kEːjE mm 
+\ps interj  n            n               interj n     pron  n              excl
+\ge oh.dear devil.R -acc demon  -acc -ep yes liar  this  old.man -aug   mhm
+
+\ft "Oh, that devil, yes, and he's a liar, is that old man".
+\ph
+\gr there must be some verb missing that would explain the ACC case on "devil" and "demon"
+\ev
+\ru дьавул, черт, обманщик этот старик.
+\ELANBegin 00:03:06.500
+\ELANEnd 00:03:15.980
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_024
+\ref
+\tx Nan    ịamị kojeːč... kojeːtte,      ịamị etikekejeńdʒeken                Mačildańdʒakan           tar  gịrkaddanańdʒakan,
+\mb ńaːn ịamị kojeːt  kojeːt  -R(E)   ịamị etikeːn -kEːjE -ńdʒE -KEn     Mačilda    -ńdʒE -KEn     tar  gịrka -D    -R(E)   -n(I) -E  -ńdʒE -KEn    
+\ps adv  ?    v       v               ?    n                             ?                         adv  v                                           
+\ge and  ptl  look.at look.at -nonfut ptl  old.man -aug   -aug  -dim.int Vasilij.ev -aug  -dim.int thus walk  -prog -nonfut -3sg  -ep -aug  -dim.int
+
+\tx ureńdʒende                   ečin      peːčeremker     umekičiši,      meretimkerde      ečin      gịrkaddan                meːndʒaken
+\mb ur      -ńdʒE -n(I)     =DE  erroːčin  peːčere     -mkEr umekič -E  =sI   mereti -mkEr =DE  erroːčin  gịrka -D    -R(E)   -n(I) meːn -ńdʒE -KEn    
+\ps n                            pron      ?                 adv              ?                 pron      v                         pron               
+\ge stomach -aug  -poss.3sg =ptl prox.qual big.bellied -aug  very   -ep =emph circle -aug  =ptl prox.qual walk  -prog -nonfut -3sg  refl -aug  -dim.int
+
+\tx urgečiː        umekičiši.
+\mb urge  -Č   =Iː   umekič -E  =sI  
+\ps adj              adv             
+\ge heavy -ins =emph very   -ep =emph
+\ft And they look and here comes the big old man, big Machilda is walking like this with his stomach so very pot-bellied, round liek this he walks,
+\ph
+\gr peːčere bišem = ja tolstopuzaja; peːčeremker, meretimker = tolstyj, kruglyj zhivot, zhivot bolshoj (though then she said ureńʤe, zhivot bolshoj, so it's not entirely
+clear, it might also be the case that the aug suffixes on the adjectives refer to the guy); and the -ńʤeken here are obraznyje, pokazyvaet, kak on idet; meːńʤaken -
+Rimma said she didn't know what this meant, though then she said it meant "sam" - so it's not clear, perhaps the combination of reflexive with evaluatives is disallowed
+\ev
+\ru И вот видят, вот старичина этот Мачилда, идет вот так и живот у него вот такой круглый такой, вот так идет он, сам очень тяжело
+идет.
+\ELANBegin 00:03:15.980
+\ELANEnd 00:03:33.780
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_025
+\ref
+\tx Nan    čimakčajakar        ečin      čakabaladdaši                       nanaši:     "Taraja,    taraja,     Mačilda
+\mb ńaːn čimakčan -jEkEn -L  erroːčin  čak    -B   -L    -D    -R(E)   =sI   ńaːn =sI   tarak -jEː tarak -jEː Mačilda   
+\ps adv  n                   pron      v                                     adv        pron       pron       ?         
+\ge and  mouse    -dim   -pl prox.qual gather -med -inch -prog -nonfut =emph and  =emph dist  -aug dist  -aug Vasilij.ev
+
+\tx emeddene,                   ewuški        emelle,           ịmmača,       kojeːtlikene!"
+\mb em   -D    -R(E)   -n(I) -E  erek -skI      em   -E  -(LI)lrE hịnma -Č   -E  kojeːt  -LI      =kEnE 
+\ps v                            pron           v                 n              v                      
+\ge come -prog -nonfut -3sg  -ep prox -advb.all come -ep -imp.2pl fast  -ins -ep look.at -imp.2sg =contr
+\ft And these little mice started quickly to come together, and then: "Over there, over there, Machilda is coming, come here, quick, look!".
+\ph
+\gr čakabaladdaši = bystrenko stali sobiratsja, čakaballa = sobirajutsja; the combination of inchoative+progressive, in this order, gives a reading of quick action
+\ev
+\ru И эти мыши быстренько стали собираться и вот: "Мачилда идет, сюда идите, быстрее, смотри-ка!"
+\ELANBegin 00:03:33.780
+\ELANEnd 00:03:44.280
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_027
+\ref
+\tx Nan    ečin      daːlịlatan              ŋenneketen              guːne:   "Amaŋa,    awụski        emedʒi...   eh... uredʒinni?"
+\mb ńaːn erroːčin  daːlị -(dU)LE -tEn      ŋen -REk      -tEn      goːn -E  amaŋa       aw    -skI      em   -E  -DʒI eh hor -E  -DʒI -nrI
+\ps adv  pron      rel.n                   v                       v        n           pron            v             interj v                
+\ge and  prox.qual near  -loc    -poss.3pl go  -cond.cvb -poss.3pl say  -ep grandfather where -advb.all come -ep -fut eh go  -ep -fut -2sg
+\ft And when he (lit. they) had come next to them they said: "Grandad, where are you coming... eh, going?".
+\ph
+\nt I think it's clear that NIG accidentally said ŋenneketen, "when they came", when she meant ŋenneken "when he came"; and even though Rimma understood her as
+saying "guːnni" and translated that way, I think it's clear she says guːne; and so I translated it "the correct way"
+\ru
+\ev
+\ru И вот когда рядышком подошли говорит: "Дедушка куда пришел, куда идешь?"
+\ELANBegin 00:03:44.280
+\ELANEnd 00:03:56.600
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_029
+\ref
+\tx "Dorowo, bi   gịrkawaːčiddam".
+\mb dorobo  biː gịrka -WEːČ -D    -R(E)   -m  
+\ps interj  pron v                             
+\ge hello.R 1sg walk  -gnr  -prog -nonfut -1sg
+\ft "Hello, I'm walking".
+\ev
+\ru Здравствуйте, я хожу.
+\ELANBegin 00:03:56.600
+\ELANEnd 00:03:59.740
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_030
+\ref
+\tx "Amaŋa,    ewuški        emni,         dʒebleŋgeš                   er  boːdekun,                  emni!
+\mb amaŋa       erek -skI      em   -LI      dʒeb -LE -ŋ   -GE    -s(I)     er  boː  -DE       -WUn         em   -LI     
+\ps n           pron           v             v                              ?   v                           v            
+\ge grandfather prox -advb.all come -imp.2sg eat  -nr -aln -desig -poss.2sg ptl give -purp.cvb -poss.1pl.ex come -imp.2sg
+\ft "Grandad, come here, we'll give you food, come!
+\ev
+\ru Дедушка иди сюда, еду мы тебе дадим, иди.
+\ELANBegin 00:03:59.740
+\ELANEnd 00:04:06.380
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_032
+\ref
+\tx Supaŋgašiː                          dallawu    olettiwun.
+\mb sup    -E  -ŋ   -GE    -s(I)     =Iː   dalra -W   oleː -Č   -RI  -WUn        
+\ps n                                      adj        v                          
+\ge soup.R -ep -aln -desig -poss.2sg =emph tasty -acc cook -res -pst -poss.1pl.ex
+\ft We cooked a tasty soup for you.
+\ev
+\ru Суп тебе вкусный сварили.
+\ELANBegin 00:04:06.380
+\ELANEnd 00:04:10.560
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_033
+\ref
+\tx Dʒebneli!"
+\mb dʒeb -nE     -LI     
+\ps v                    
+\ge eat  -intent -imp.2sg
+\ft Come eat!"
+\ev
+\ru Иди ешь!
+\ELANBegin 00:04:10.560
+\ELANEnd 00:04:12.880
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_034
+\ref
+\tx Aːmnịk teːwre          ịk   iekeńdʒewur.
+\mb aːmnịk teːw     -R(E)   ịk     ieke -ńdʒE -WUr    
+\ps ?      v                adv    n                  
+\ge quick  put.down -nonfut simply pot  -aug  -prfl.pl
+
+\ft They quickly set down their big pot
+\ph
+\gr ịk is the shortened form of ịkụtịč, some people say ịkụ
+\ev
+\ru Быстренько поставили свою кастрюлщу.
+\ELANBegin 00:04:12.880
+\ELANEnd 00:04:16.760
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_035
+\ref
+\tx Nan    tarakaši   etikekejeńdʒeken                eteletetej      tegeleddeneši                          ọːkaŋčịri.
+\mb ńaːn tarak =sI   etikeːn -kEːjE -ńdʒE -KEn     edelededej      teg      -L    -D    -R(E)   -n(I) =sI   ọːkaŋčị  -RI      
+\ps adv  pron        n                             adv             v                                        v                 
+\ge and  dist  =emph old.man -aug   -aug  -dim.int vot.kakaja(big) sit.down -inch -prog -nonfut -3sg  =emph be.happy -impf.ptc
+\ft And that big old man quickly started to sit down, big like this, all happy.
+\ph
+\gr tegeʤilleneši = nachinaet saditsja; tegeleddeneši = bystro nachinaet saditsja
+\ev
+\ru И вот этот большой старикан вот какой начинал усаживаться, радуясь
+\ELANBegin 00:04:16.760
+\ELANEnd 00:04:22.880
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_036
+\ref
+\tx "Iŋe, bi   dʒebdʒim       dallačakana!",   ŋọːšuččoːttanda.
+\mb iŋe biː dʒeb -DʒI -m   dalra =čEkEn -E  ŋọːsu -Č   -WEːČ -R(E)   -n(I) =DE 
+\ps interj pron v              adj              v                                  
+\ge yes 1sg eat  -fut -1sg tasty =emph  -ep sniff -res -gnr  -nonfut -3sg  =ptl
+
+\ft "Yes, I will eat, how tasty!", he sniffs.
+\ev
+\ru Да, я буду есть, как вкусно!, нюхает.
+\ELANBegin 00:04:22.880
+\ELANEnd 00:04:28.671
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_038
+\ref
+\tx Nan    ịkụtịč    dịlańdʒaji             tala          iekele       umiridʒi      umekič dʒebeleddeneši,
+\mb ńaːn ịkụt     -E  -Č   dịl  -E  -ńdʒE -J       tarak -(dU)LE ieke -(dU)LE umiː -RIdʒI   umekič dʒeb -L    -D    -R(E)   -n(I) =sI  
+\ps adv  adv               n                       pron          n            v             adv    v                                   
+\ge and  straight -ep -ins head -ep -aug  -prfl.sg dist  -loc    pot  -loc    soak -ant.cvb very   eat  -inch -prog -nonfut -3sg  =emph
+
+\tx tjawtjaw
+\mb tjawtjaw     
+\ps ideophone    
+\ge onomatopoetic
+
+\ft And he stuck his head right into that pot and started to eat quickly, gulpgulpgulp.
+\ph at the end she imitates gulping sounds
+\gr umi- has a meaning of "soak, dip in water", opustitj v vodu, one cannot say "umirin" for "under the table"
+\ev
+\ru И прямо голову свою в кастрюлю засунул и стал есть быстро.
+\ELANBegin 00:04:28.671
+\ELANEnd 00:04:34.105
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_039
+\ref
+\tx Guːnni     "dallačakan  dallačakan,  erro dallačakan!".
+\mb goːn -n(I) dalra =čEkEn dalra =čEkEn erro dalra =čEkEn
+\ps v          adj          adj          interj adj         
+\ge say  -3sg  tasty =emph  tasty =emph  oh   tasty =emph 
+\ft He says "how tasty, how tasty, oh how tasty!".
+\ph all of this is accompanied by very vivid sounds
+\ev
+\ru Говорит, "Как вкусно как вкусно, как вкусно"
+\ELANBegin 00:04:34.105
+\ELANEnd 00:04:40.254
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_041
+\ref
+\tx Nan    čelewente               dʒepten,          nan    ureńdʒen                 ọːdịda pešeč, peːčere   ọːdin,             nan
+\mb ńaːn čele -W   -E  -n(I) =t(E) dʒeb -R(E)   -n(I) ńaːn ur      -ńdʒE -n(I)     ọːdịda    *** peːčere     ọː     -RI  -n(I)     ńaːn
+\ps adv  n                         v                  adv  n                       adv       ?   ?           v                     adv 
+\ge and  all  -acc -ep -3sg  =ptl  eat  -nonfut -3sg  and  stomach -aug  -poss.3sg even.more *** big.bellied become -pst -poss.3sg and 
+
+\tx tikrin              umekiče    ịkụtịč,   nan    uklešnen,                kọŋgiraladdanaši.
+\mb tik  -RI  -n(I)     umekič -E  ịkụt     -E  -Č   ńaːn hukle -s(E)n -R(E)   -n(I) kọŋgir -L    -D    -R(E)   -n(I) =sI  
+\ps v                   adv        adv               adv  v                          v                                     
+\ge fall -pst -poss.3sg very   -ep straight -ep -ins and  sleep -lim   -nonfut -3sg  snore  -inch -prog -nonfut -3sg  =emph
+\ft And he ate EVERYthing, and his big belly grew even more pot-bellied, and he fell right down and fell asleep, and how he started to snore.
+\ev
+\ru И все он съел, и живот его стал еще круглее, и прямо упал и заснул, как стал храпеть.
+\ELANBegin 00:04:40.254
+\ELANEnd 00:04:53.072
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_044
+\ev snoring snoring
+\ru
+\ELANBegin 00:04:53.072
+\ELANEnd 00:05:01.613
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_045
+\ref
+\tx Nan    tačịn        etikekeje        ukleddeken                      čimakčajakar        erkewen                 taːn ečin      atalla
+\mb ńaːn tarrọːčịn etikeːn -kEːjE hukle -D    -REk      -n(I)     čimakčan -jEkEn -L  erke  -W   -E  -n(I)     taːn erroːčin  atal     -R(E)  
+\ps adv  pron      n              v                               n                   n                        v    pron      v               
+\ge and  dist.qual old.man -aug   sleep -prog -cond.cvb -poss.3sg mouse    -dim   -pl pants -acc -ep -poss.3sg pull prox.qual take.off -nonfut
+
+\tx ịkụtịč.
+\mb ịkụt     -E  -Č  
+\ps adv              
+\ge straight -ep -ins
+\ft And like that, while the old man was sleeping, the little mice pulled his pants and took them off completely.
+\ph
+\gr during the translation session, Rimma said (when I asked) that the diminutive here carries a nuance of "xuliganistye", but when I asked a few days later, on 29.06.16,
+she said the diminutive simply means "small", myshki malenkie, prosto malenkie - and after all, xuliganistye doesn't really make sense, even if they're being naughty,
+but they are rabotjashie and the starik needs to learn a lesson
+\nt
+\ev
+\ru И вот так старик пока спал мыши штаны его стянули и сняли совсем.
+\ELANBegin 00:05:01.613
+\ELANEnd 00:05:12.858
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_046
+\ref
+\tx Nan    muke,    mukeγdelin                      erkelin                 ịkụtịč    ečin      uŋne,      tekek... tek...
+\mb ńaːn muke     muke     -gIdE -(dU)LI -n(I)     erke  -(dU)LI -n(I)     ịkụt     -E  -Č   erroːčin  uŋ -R(E)   tekeku
+\ps adv  ?        n                                n                       adv               pron      v          n     
+\ge and  backside backside -part -prol   -poss.3sg pants -prol   -poss.3sg straight -ep -ins prox.qual do -nonfut hole  
+
+\tx tekekriteniː               nan    dịllan             teturiten                   tar  erkewen.
+\mb tekeku -RI  -tEn      =Iː   ńaːn dịl  -(dU)LE -n(I)     tet    -U    -RI  -tEn      tar  erke  -W   -E  -n(I)    
+\ps v                           adv  n                      v                           adv  n                       
+\ge hole   -pst -poss.3pl =emph and  head -loc    -poss.3sg put.on -caus -pst -poss.3pl thus pants -acc -ep -poss.3sg
+\ft And in the side where the backside is they made holes in his pants and then put his pants on over his head.
+\ev
+\ru И вот со стороны задницы штаны прямо так дырок наделали, и ему на голову одели штаны. тэкэку дырка
+\ELANBegin 00:05:12.858
+\ELANEnd 00:05:28.029
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_047
+\ref
+\tx Nan    teturidʒur               eto:   "Amaŋa,    amaŋa!"
+\mb ńaːn tet    -U    -RIdʒI   -L  eto    amaŋa       amaŋa      
+\ps adv  v                         pron   n           n          
+\ge and  put.on -caus -ant.cvb -pl this.R grandfather grandfather
+\ft And having put them on: "Grandad, grandad!".
+\ev
+\ru И вот одев, это "дедушка, дедушка!"
+\ELANBegin 00:05:28.029
+\ELANEnd 00:05:35.933
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_048
+\ref
+\tx "hoo, ịakawụ?"
+\mb hoo ịak  -awụ 
+\ps ideophone pron      
+\ge ho  what -emph
+\ft "Ho, what is it?".
+\ev
+\ru
+\ELANBegin 00:05:35.933
+\ELANEnd 00:05:38.637
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_049
+\ref
+\tx "Mịaladliši!"
+\mb mịal    -E  -D    -LI      =sI  
+\ps v                               
+\ge wake.up -ep -prog -imp.2sg =emph
+\ft "Wake up!"
+\ev
+\ru Просыпайся уже
+\ELANBegin 00:05:38.637
+\ELANEnd 00:05:41.198
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_050
+\ref
+\tx "Iː, ịak tačịkan gọrụ uklerem
+\mb iː  ịak  tačịkan   gọrụ hukle -R(E)   -m  
+\ps interj pron adv       adv  v                 
+\ge yes what like.that long sleep -nonfut -1sg
+\ft "Mhm, how long I slept!
+\ev
+\ru И как долго я сплю.
+\ELANBegin 00:05:41.198
+\ELANEnd 00:05:45.332
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_051
+\ref
+\tx Ịamị ečilsen                  oːtelnen        mịalukar?
+\mb ịamị e   -RI  -E  -L  -sEn      oːtel      =nEn  mịal    -WkEn -R      
+\ps pron v                          adv              v                     
+\ge why  neg -pst -ep -pl -poss.2pl previously =emph wake.up -caus -neg.cvb
+\ft Why didn't you wake me up earlier?
+\ev
+\ru Почему вы давно/пораньше меня не разбудили?
+\ELANBegin 00:05:45.332
+\ELANEnd 00:05:48.881
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_052
+\ref
+\tx Kojeːš,   ịakawụ,  ireptuda    dọlbị ọːdnị!
+\mb kojeː -s   ịak  -awụ  ireptu =DE  dọlba ọː     -R(E)   -n(I)
+\ps v          pron       ptl         n     v                   
+\ge watch -2pl what -emph even   =ptl night become -nonfut -3sg 
+\ft You see, it's even become night!
+\ev
+\ru Видите, что, аж ночь настала!
+\ELANBegin 00:05:48.881
+\ELANEnd 00:05:54.341
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_053
+\ref
+\tx Mịamdačakan                  ịamị nan    ọːšịkat mịamdač                   umekič utalnan.
+\mb mịam          -DE       =čEkEn ịamị ńaːn ọːsịkat mịam          -DE       -Č   umekič utalan  -R(E)   -n(I)
+\ps v                              pron adv  n       v                            adv    v                    
+\ge be.surprising -adjr.exp =emph  why  and  star    be.surprising -adjr.exp -ins very   sparkle -nonfut -3sg 
+
+\ft How surprising, why do the stars sparkle so very surprisingly!
+\ph
+\gr utulnan = svetitsja, utulnin = past, utulanʤin = future
+\ev
+\ru Удивительно, почему звезды удивительно так сверкают.
+\ELANBegin 00:05:54.341
+\ELANEnd 00:06:02.986
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_054
+\ref
+\tx Iː, erroː, dọlbịklan              tačịkan uklerem,           ịamị ečilšen,             atịkankke    ešni          minu
+\mb iː  erroːj  dọlba -klE     -n(I)     tačịkan   hukle -R(E)   -m   ịamị e   -RI  -L  -sEn      atịkan    =kkE e   -R(E) -n(I) min     -W  
+\ps interj interj  n                        adv       v                  pron v                      n              v               pron        
+\ge yes oh.dear night -all.loc -poss.3sg like.that sleep -nonfut -1sg why  neg -pst -pl -poss.2pl old.woman =ptl neg -nfut -3sg  1sg.obl -acc
+
+\tx tar  alačidda.
+\mb tar  alat -E  -D    -R      
+\ps adv  v                      
+\ge thus wait -ep -prog -neg.cvb
+\ft Look, I've slept until the night, why didn't you (wake me), the old woman is probably waiting for me!
+\ev
+\ru Ну вот, до ночи вот так сплю, почему не разбудили, старуха наверно меня ждет.
+\ELANBegin 00:06:02.986
+\ELANEnd 00:06:10.591
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_055
+\ref
+\tx Čaš bi   ŋeneddeku!"
+\mb čas biː ŋen -E  -D    -REk      -W       
+\ps ptl pron v                                
+\ge ptl 1sg go  -ep -prog -cond.cvb -poss.1sg
+\ft Well, I'll be going!"
+\ev
+\ru Ладно, я буду идти.
+\ELANBegin 00:06:10.591
+\ELANEnd 00:06:12.203
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_056
+\ref
+\tx "Iŋe, iŋe, eniŋe      amaŋa      čaš ŋenedli!"
+\mb iŋe iŋe eniŋeː      amaŋa       čas ŋen -E  -D    -LI     
+\ps interj interj n           n           ptl v                     
+\ge yes yes grandmother grandfather ptl go  -ep -prog -imp.2sg
+\ft "Yes, yes, grandad, you go!"
+\ev
+\ru "Ладно ладно старик, иди!"
+\ELANBegin 00:06:12.203
+\ELANEnd 00:06:16.272
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_057
+\ref
+\tx Etikeneńdʒeken              uredden                   dʒụːtkiji.
+\mb etikeːn -E  -ńdʒE -KEn     hor -E  -D    -R(E)   -n(I) dʒụː  -t(E)kI -J      
+\ps n                          v                           n                     
+\ge old.man -ep -aug  -dim.int go  -ep -prog -nonfut -3sg  house -all    -prfl.sg
+\ft And the old man goes home.
+\ph
+\gr etikenenʤeken = obrazno, vidno kak idet starik
+\ev
+\ru идет домой
+\ELANBegin 00:06:16.272
+\ELANEnd 00:06:20.783
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_058
+\ref
+\tx Nan,   nan    emedden                    a     ịamị atịkan  ịlačịddan.
+\mb ńaːn ńaːn em   -E  -D    -R(E)   -n(I) a.R   ịamị atịkan    ịl       -Č   -D    -R(E)   -n(I)
+\ps adv  adv  v                            ?     ?    n         v                                
+\ge and  and  come -ep -prog -nonfut -3sg  but.R ptl  old.woman stand.up -res -prog -nonfut -3sg 
+\ft And so he arrives and why, the old woman is standing.
+\ev
+\ru И вот он приходит, старуха стоит.
+\ELANBegin 00:06:20.783
+\ELANEnd 00:06:27.296
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_059
+\ref
+\tx Alaːčịddan.
+\mb alat -E  -D    -R(E)   -n(I)
+\ps v                           
+\ge wait -ep -prog -nonfut -3sg 
+\ft She's waiting.
+\ph lengthened vowel for emphasis
+\ev
+\ru Ждет.
+\ELANBegin 00:06:28.973
+\ELANEnd 00:06:30.806
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_060
+\ref
+\tx Ešnimaja            ịak alačịddan,              uŋeddeniː,                 kọčajiddan                     umekiče.
+\mb e   -R(E) -n(I) =mEjE ịak  alat -E  -D    -R(E)   -n(I) uŋ -D    -R(E)   -n(I) =Iː   kọčaj       -E  -D    -R(E)   -n(I) umekič -E 
+\ps v                     pron v                            v                            v                                   adv       
+\ge neg -nfut -3sg  =ptl  what wait -ep -prog -nonfut -3sg  do -prog -nonfut -3sg  =emph scrape.hide -ep -prog -nonfut -3sg  very   -ep
+\ft No, it turns out she's not waiting, she's scraping hide very actively.
+\ev
+\ru О нет оказывается, она не ждет, она шкуру скоблит.
+\ELANBegin 00:06:30.806
+\ELANEnd 00:06:36.786
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_061
+\ref
+\tx Itten            atịkan  etikeːn gịrkaddan                dịllan             ịamịwụčesi          erken           nan    guːnni:
+\mb it  -R(E)   -n(I) atịkan    etikeːn gịrka -D    -R(E)   -n(I) dịl  -(dU)LE -n(I)     ịamị =(W)UttE -E  =sI   erke  -n(I)     ńaːn goːn -n(I)
+\ps v                 n         n       v                         n                      pron                    n               adv  v         
+\ge see -nonfut -3sg  old.woman old.man walk  -prog -nonfut -3sg  head -loc    -poss.3sg why  =indef   -ep =emph pants -poss.3sg and  say  -3sg 
+\ft The old woman sees the old man is walking, for some reason he has his pants on his head, and she says:
+\ev
+\ru И вот атыкан видит что на голове почему-то штаны и говорит:
+\ELANBegin 00:06:36.786
+\ELANEnd 00:06:47.368
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_062
+\ref
+\tx Mịamčin                 ečin      nan    tabịč:
+\mb mịan         -(k)čI -n(I) erroːčin  ńaːn tabịč
+\ps v                         pron      adv  adv  
+\ge be.surprised -dur   -3sg  prox.qual and  again
+
+\ft She wonders and then:
+\ph
+\gr 29.06.16: checked with Rimma, miamčin is the same as miaŋčin
+\ev
+\ru Удивляется и вот:
+\ELANBegin 00:06:47.368
+\ELANEnd 00:06:54.310
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_063
+\ref
+\tx "Ee", guːnni,    "erro mịamdačakana,                    ịadụ   nan    dịllaji              erkeji         tettin?
+\mb ee goːn -n(I) erro mịam          -DE       =čEkEn -E  ịak  -DU  ńaːn dịl  -(dU)LE -J       erke  -J       tet    -RI  -n(I)    
+\ps interj v          interj v                                  pron      adv  n                     n              v                    
+\ge eh say  -3sg  oh   be.surprising -adjr.exp =emph  -ep what -dat and  head -loc    -prfl.sg pants -prfl.sg put.on -pst -poss.3sg
+
+\ft "Eh", she says, "how surprising, why did he put his pants on over his head?"
+\ph
+\gr
+\ev
+\ru И говорит вот удивительно-то, зачем на голову свои штаны одел?
+\ELANBegin 00:06:54.310
+\ELANEnd 00:07:02.305
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_065
+\ref
+\tx Ešnikke            taːjịl ọːda."
+\mb e   -R(E) -n(I) =kkE taːjịl ọː     -R      
+\ps v                    n      v              
+\ge neg -nfut -3sg  =ptl stupid become -neg.cvb
+\ft He's probably become stupid."
+\ev
+\ru Наверно дураком стал.
+\ELANBegin 00:07:02.305
+\ELANEnd 00:07:05.256
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_066
+\ref
+\tx Nan    guːnni:    "Ịamị nan    aːmnak   emnen?
+\mb ńaːn goːn -n(I) ịamị ńaːn aːmnịk em   -R(E)   -n(I)
+\ps adv  v          pron adv  ?      v                 
+\ge and  say  -3sg  why  and  quick  come -nonfut -3sg 
+\ft And she says "Why did he come (back) so fast?
+\ev
+\ru И говорит, А почему он так быстро пришел?
+\ELANBegin 00:07:05.256
+\ELANEnd 00:07:14.109
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_068
+\ref
+\tx Erro, mịamdačakana.
+\mb erro mịam          -DE       =čEkEn -E 
+\ps interj v                                 
+\ge oh   be.surprising -adjr.exp =emph  -ep
+
+\ft How surprising.
+\ph
+\ev
+\ru Как удивительно.
+\ELANBegin 00:07:14.109
+\ELANEnd 00:07:18.230
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_069
+\ref
+\tx Hukčidukta         ịadụ   tačịn        nan... erkew      tettin?
+\mb hokči -DUk(U) =DE  ịak  -DU  tarrọːčịn ńaːn erke  -W   tet    -RI  -n(I)    
+\ps n                  pron      pron      adv  n          v                    
+\ge heat  -abl    =ptl what -dat dist.qual and  pants -acc put.on -pst -poss.3sg
+\ft Why did he put on his pants like that in the heat?
+\ph
+\gr ukčidukta is not correct, should be ukčiduda
+\ev
+\ru В жару так штаны одел.
+\ELANBegin 00:07:18.230
+\ELANEnd 00:07:25.562
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_070
+\ref
+\tx Ajdịtta    taːjịl ọːdnị."
+\mb ajdịt =DE  taːjịl ọː     -R(E)   -n(I)
+\ps n          n      v                   
+\ge truth =ptl stupid become -nonfut -3sg 
+\ft He really has become stupid."
+\ev
+\ru И вправду дураком стал.
+\ELANBegin 00:07:25.562
+\ELANEnd 00:07:27.850
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_071
+\ref
+\tx Etikekeješi           guːnni:    "Iːnan    ịadaj                    kiltereŋčidʒinni?"
+\mb etikeːn -kEːjE =sI   goːn -n(I) hiː =nEn  ịa      -DE       -J       kiltereŋči -D    -R(E)   -nrI
+\ps n                    v          pron      v                          v                            
+\ge old.man -aug   =emph say  -3sg  2sg =emph do.what -purp.cvb -prfl.sg goggle     -prog -nonfut -2sg
+\ft And the old man says "Why are you goggling at (me)?".
+\ev
+\ru А ты почему глаза таращишь?
+\ELANBegin 00:07:27.850
+\ELANEnd 00:07:36.417
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_072
+\ref
+\tx "Ọːn biː ịamị kiltereŋčiddem,               biːkke   gurgeːwčiddem!"
+\mb ọːn biː ịamị kiltereŋči -D    -R(E)   -m   biː =kkE gurgeːwči -D    -R(E)   -m  
+\ps pron pron pron v                             pron     v                           
+\ge how 1sg why  goggle     -prog -nonfut -1sg 1sg =ptl work      -prog -nonfut -1sg
+\ft "What do you mean, why am I goggling?? I'm working!"
+\ev
+\ru Как я почему глаза таращу, я же работаю!
+\ELANBegin 00:07:36.417
+\ELANEnd 00:07:42.059
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_074
+\ref
+\tx "Ịak dọlbị gurgeːwčiweːtten?!
+\mb ịak  dọlba gurgeːwči -WEːČ -R(E)   -n(I)
+\ps pron n     v                            
+\ge what night work      -gnr  -nonfut -3sg 
+\ft "Who works at night??
+\ev
+\ru Кто ночью работает??
+\ELANBegin 00:07:42.059
+\ELANEnd 00:07:46.024
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_075
+\ref
+\tx Herro, mịamdačakan,                 ịadaj                    dọlbịnnun        gurgeːwčidʒinni?"
+\mb erro mịam          -DE       =čEkEn ịa      -DE       -J       dọlbanị -Con     gurgeːwči -D    -R(E)   -n(I)
+\ps interj v                              v                          n                v                            
+\ge oh   be.surprising -adjr.exp =emph  do.what -purp.cvb -prfl.sg night   -acc.3sg work      -prog -nonfut -3sg 
+
+\ft Oh how surprising, why are you working all night??
+\ph
+\gr dọlbinnun = vsju noch - don't think my analysis is correct, but don't know what else to do...; ja vesj denj rabotala = bi čelew ineŋu gurgewčiriwu; or ineŋŋon; vjsu
+noch = dolbannon; dolbinnun = wrong should be dolbannon
+\ev
+\ru Вот удивительно, почему всю ночь работаешь?
+\ELANBegin 00:07:46.024
+\ELANEnd 00:07:53.187
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_077
+\ref
+\tx Ajdịt ịakawutteši       erek ašị, ịasčịnučesị                 ašị, erek ašị."
+\mb ajdịt ịak  =(W)UttE =sI   erek asị   ịa      -sčI   -n(I) =(W)UttE =sI   asị   erek asị  
+\ps n     pron                pron n     v                                   n     pron n    
+\ge truth what =indef   =emph prox woman do.what -conat -3sg  =indef   =emph woman prox woman
+\ft Really, what kind of a woman is this, what is she doing, this woman?"
+\ph
+\gr iakawutteši aši = i chto eto za zhenshina, iakawu asi = chto eto za zhenshina; iakawuwut = kakaja-to zhenshina; iakawut erek = chto eto? iasčinučesi = i chto eto
+on delaet? the "indef" clitics seem to have an intensifying, emphatic meaning - when I asked Rimma whether it daet usilenie, she agreed
+\ev
+\ru Правда, что это за женщина, что это делает эта женщина.
+\ELANBegin 00:07:53.187
+\ELANEnd 00:07:59.726
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_078
+\ref
+\tx "Esnek,              etikeːn, ịadaj                    iːkke    tawụr taːjịldalanni?
+\mb e   -R(E) -n(I) =ek   etikeːn ịa      -DE       -J       hiː =kkE tawụr taːjịl -DE -L    -R(E)   -nrI
+\ps v                     n       v                          pron     pron  v                            
+\ge neg -nfut -3sg  =emph old.man do.what -purp.cvb -prfl.sg 2sg =ptl this  stupid -vr -inch -nonfut -2sg
+
+\ft "But no, old man, why are YOU turning stupid?
+\ph
+\gr ešnek = da net, it's the same as ešni, but =ek is emphatic
+\ev
+\ru Да нет же старик, чего это ты вот одурел/дуркуешь?
+\ELANBegin 00:07:59.726
+\ELANEnd 00:08:05.784
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_079
+\ref
+\tx Herkejinen           ịadaji                   dịllaji              tettiš?"
+\mb erke  -J       =nEn  ịa      -DE       -J       dịl  -(dU)LE -J       tet    -RI  -s(I)    
+\ps n                    v                          n                     v                    
+\ge pants -prfl.sg =emph do.what -purp.cvb -prfl.sg head -loc    -prfl.sg put.on -pst -poss.2sg
+\ft Why did you put your pants on over your head?"
+\ev
+\ru А штаны свои зачем на голову одел?
+\ELANBegin 00:08:05.784
+\ELANEnd 00:08:11.959
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_080
+\ref
+\tx Etikeːn karaŋčin,     guːnni:    "Idukke            erkewu          ičenni,         kojeːtli        dọlbị!
+\mb etikeːn karaŋči -n(I) goːn -n(I) irek  -DUk(U) =kkE erke  -W        it  -R(E)   -nrI kojeːt  -LI      dọlba
+\ps n       v             v          pron               n               v                v                n    
+\ge old.man stare   -3sg  say  -3sg  which -abl    =ptl pants -poss.1sg see -nonfut -2sg look.at -imp.2sg night
+\ft The old man stares, says "How (lit. from where) do you see my pants - look, it's night!
+\ev
+\ru Старик таращится, говорит: "Откуда ты штаны мои видишь, видишь.ночь!
+\ELANBegin 00:08:11.959
+\ELANEnd 00:08:20.149
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_082
+\ref
+\tx Tarkke     tar  ọːšịkateː   utalna          umekič!"
+\mb tarak =kkE tar  ọːsịkat =eː   utalan  -R(E)   umekič
+\ps pron       adv  n             v               adv   
+\ge dist  =ptl thus star    =emph sparkle -nonfut very  
+\ft Over there the stars are sparkling very much!"
+\ph
+\gr I find it a bit odd that the word "osikat" takes plural verb agreement here (in rec.53 it's singular), but when I asked Rimma during the translation session she didn't see
+anything wrong with it, said "osikat - eto zhe zvezdy"
+\ev
+\ru Вон же вот звезды сверкают сильно!
+\ELANBegin 00:08:20.149
+\ELANEnd 00:08:23.568
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_083
+\ref
+\tx "Ịakawụ  ọːšịkatan,          tawụr erkeške             ịamị tekeku ịkụtịč."
+\mb ịak  -awụ  ọːsịkat -E  -n(I)     tawụr erke  -s(I)     =kkE ịamị tekeku ịkụt     -E  -Č  
+\ps pron       n                     pron  n                    pron n      adv              
+\ge what -emph star    -ep -poss.3sg this  pants -poss.2sg =ptl why  hole   straight -ep -ins
+\ft "Those aren't stars (lit. what stars), it's your pants that are full of holes?"
+\ev
+\ru Что за звезды. видишь штаны твои почему все дырявые!
+\ELANBegin 00:08:23.568
+\ELANEnd 00:08:27.897
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_084
+\ref
+\tx Etikekeje        nan    ečin      dịllaji,             ịamị ajdịtta    ejdu, ataladdanašị                   kojeːtten,
+\mb etikeːn -kEːjE ńaːn erroːčin  dịl  -(dU)LE -J       ịamị ajdịt =DE  ejdu atal     -D    -R(E)   -n(I) =sI   kojeː -Č   -R(E)   -n(I)
+\ps n              adv  pron      n                     ?    n          quant v                                  v                       
+\ge old.man -aug   and  prox.qual head -loc    -prfl.sg ptl  truth =ptl all  take.off -prog -nonfut -3sg  =emph watch -res -nonfut -3sg 
+
+\tx ịamị, "AAAAAAAAA,                                                           herek, herek čimakčajakar        ejdu tekekridʒur        nan    dịllawu
+\mb ịamị AAAAAAAAA erek erek čimakčan -jEkEn -L  ejdu tekeku -RIdʒI   -L  ńaːn dịl  -(dU)LE -W       
+\ps ?    ?         pron pron n                   quant v                   adv  n                     
+\ge ptl  ***       prox prox mouse    -dim   -pl all  hole   -ant.cvb -pl and  head -loc    -poss.1sg
+
+\tx teturiten!
+\mb tet    -U    -RI  -tEn     
+\ps v                          
+\ge put.on -caus -pst -poss.3pl
+\ft And the big old man (touches) his head, why it's the complete truth, he starts to take off (his pants), he looks, why: "AAAA, it's these mice, they made them full of
+holes and put them on my head!!
+\ph
+\gr ataladdanaši = snimaet; would be better: atalaladdanaši, nachinaet snimatj bystro
+\ev
+\ru И старик вот так голову свою, и праву полностью, начинает снимать, смотрит, и закричал "ААААА, это эти мыши, все издырявив
+одели мне на голову!"
+\ELANBegin 00:08:27.897
+\ELANEnd 00:08:43.978
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_085
+\ref
+\tx Erro ńọŋńajakar,      tiːket    bi   nọŋarbụtan epkenedʒime,                 tilbakčim        ịkụtịč    čelewen!
+\mb erro ńọːńa  -jEkEn -L  tiek =et   biː nọŋarbụtan hepken -nE     -DʒI -m   -E  tilbak -DʒI -m   ịkụt     -E  -Č   čele -W   -E  -n(I)    
+\ps interj n                 adv        pron pron       v                            v                adv               n                      
+\ge oh   faeces -dim   -pl now  =emph 1sg 3pl.acc    catch  -intent -fut -1sg -ep smash  -fut -1sg straight -ep -ins all  -acc -ep -poss.3sg
+\ft Oh these little shits! Now I will go to catch them, I will smash them all to smithereens!"
+\ev
+\ru Эти какашки, сейчас я пойду поймать их передавлю/искрошью всех!
+\ELANBegin 00:08:43.978
+\ELANEnd 00:08:49.776
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_087
+\ref
+\tx Nan    ńọːndʒiddanasi,              AAAAAAAAA! ịrkanịkan.
+\mb ńaːn ńọːn     -D    -R(E)   -n(I) =sI   AAAAAAAAA ịrka   -nIkEn  
+\ps adv  v                                  ?         v              
+\ge and  run.away -prog -nonfut -3sg  =emph ***       scream -sim.cvb
+\ft And off he ran, screaming.
+\ev
+\ru И он как побежал, ААА с криками,
+\ELANBegin 00:08:49.776
+\ELANEnd 00:08:54.547
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_087b
+\ref
+\tx tabịč...
+\mb tabịč
+\ps adv  
+\ge again
+\ft And then...
+\ph
+\ELANBegin 00:08:54.547
+\ELANEnd 00:08:55.262
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_088
+\ref
+\tx A     tarakamaši             čimakčariː        tarakam       umekiče    dʒụːduwur          miašamačeddịː.
+\mb a.R   tarakam       -E  =sI   čimakčan -L  =Iː   tarakam       umekič -E  dʒụː  -DU  -WUr     miašamat           -E  -D    -R(E)   =Iː  
+\ps ?     adv                     n                  adv           adv        n                   v                                         
+\ge but.R in.those.days -ep =emph mouse    -pl =emph in.those.days very   -ep house -dat -prfl.pl roar.with.laughter -ep -prog -nonfut =emph
+\ft And at that time the mice were laughing their heads off in their house.
+\ev
+\ru А тогда мыши все дома у себя хохотали
+\ELANBegin 00:08:55.262
+\ELANEnd 00:09:02.217
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_089
+\ref
+\tx Guːne    "er  etikeːn" guːne    "tačịkan čilkin         tačịkan ọːjaw      dʒeptin             ńan   uklešnin
+\mb goːn -E  erek etikeːn goːn -E  tačịkan   čilki     -n(I) tačịkan   họːja -W   dʒeb -RI  -n(I)     ńaːn hukle -s(E)n -RI  -n(I)    
+\ps v        pron n       v        adv       v               adv       quant      v                   adv  v                          
+\ge say  -ep prox old.man say  -ep like.that be.greedy -3sg  like.that many  -acc eat  -pst -poss.3sg and  sleep -lim   -pst -poss.3sg
+
+\tx ettetitte               dọldar         ọːn mut    tekekrit                 erkewen                 nan    dịllan             tetu(rit)"
+\mb e   -RI  =DE  =tIt =DE  dọlda -R       ọːn mut    tekeku -RI  -t(I)        erke  -W   -E  -n(I)     ńaːn dịl  -(dU)LE -n(I)     tet    -U    -RI  -t(I)       
+\ps v                       v              pron pron   v                        n                        adv  n                      v                             
+\ge neg -pst =ptl =ptl =ptl hear  -neg.cvb how 1pl.in hole   -pst -poss.1pl.in pants -acc -ep -poss.3sg and  head -loc    -poss.3sg put.on -caus -pst -poss.1pl.in
+
+\tx miašamačeddiː.
+\mb miašamat           -E  -D    -R(E)   =Iː  
+\ps v                                         
+\ge roar.with.laughter -ep -prog -nonfut =emph
+\ft They say "this old man" the say, "is so greedy, he ate so much that he fell asleep and didn't hear at all how we made holes in his pants and put them on his head",
+they roar with laughter.
+\ph
+\ru Говорят, Этот старик говорят до того жадный, до того много съел что уснул, ничего не слышал как мы продырявили штаны его и
+на голову одели, смеются.
+\ELANBegin 00:09:02.217
+\ELANEnd 00:09:16.452
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_090
+\ref
+\tx Ịamị dọldar     ịakawụ   tar  ńọːŋčịna.
+\mb ịamị dọlda -r   ịak  -awụ  tar  ńọːŋčị -n(I) -E 
+\ps ?    v          pron       adv  v               
+\ge ptl  hear  -3pl what -emph thus run    -3sg  -ep
+\ft Suddenly they hear someone is running hard.
+\ph
+\gr "silno bezhit" comes from the "epenthetic" vowel at the end.
+\ev
+\ru И слышат они что кто-то сильно бежит.
+\ELANBegin 00:09:16.452
+\ELANEnd 00:09:20.053
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_091
+\ref
+\tx "Arịŋkajakar      tiːket    bi   čelewene                tilbakčima           čimakčajakalma           XX  tawụr
+\mb arịŋka -jEkEn -L  tiek =et   biː čele -W   -n(I)     -E  tilbak -DʒI -m   -E  čimakčan -jEkEn -L  -W   *XX tawụr
+\ps n                 adv        pron n                       v                    n                        ?   pron 
+\ge demon  -dim   -pl now  =emph 1sg all  -acc -poss.3sg -ep smash  -fut -1sg -ep mouse    -dim   -pl -acc *** this 
+
+\tx emedʒillemele!!"
+\mb em   -D    -L    -R(E)   -m   =lE  
+\ps v                                  
+\ge come -prog -inch -nonfut -1sg =emph
+\ft "Little devils, now I will smash you all to smithereens you little mice, I am already coming close!!"
+\ph she roars something in the middle which we cannot make out
+\gr čimakčajakalma is wrong, should be čimakčajakarba; combination progress+inchoative in this order gives the meaning of "ja uzhe doxozhu, podxozhu"
+\ev
+\ru Черти сейчас я вас всех раздавлю, мышей, сейчас я уже подхожу!
+\ELANBegin 00:09:20.053
+\ELANEnd 00:09:28.204
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_092
+\ref
+\tx Čimakčajakịːr          ńọːmačiladdašị               nanaši,     etikekeje        ńọːŋčịrakatan                 dʒulepki ee,
+\mb čimakčan -jEkEn -L  =Iː   ńọːmat -L    -D    -R(E)   =sI   ńaːn =sI   etikeːn -kEːjE ńọːŋčị -REk      -E  -tEn      dʒulepki ee
+\ps n                         v                                adv        n              v                              adv      interj
+\ge mouse    -dim   -pl =emph jump   -inch -prog -nonfut =emph and  =emph old.man -aug   run    -cond.cvb -ep -poss.3pl ahead    eh
+
+\tx nọŋartakịtan,         nọŋartan čulbenuker      toleški.
+\mb nọŋar -t(E)kI -tEn      nọŋartan čulbenuken -r   tolin   -skI     
+\ps pron                    pron     v               n                
+\ge 3pl   -all    -poss.3pl 3pl      jump.out   -3pl outside -advb.all
+\ft The mice started to run, and when the old man ran ahead (lit. when they ran), towards them, they jumped out of the window.
+\ph
+\gr bi čulbenukenem, so I thought it should be nọŋartan čulbenuken, but Rimma said čulbenuker is also correct, oni vyskochili
+\gr ńọːmačiladdaši = nachali bystro begatj; I asked whether there is a ver čulben- bi čulbenem = NO, only bi čulbenukenem (even though this looks like a causative)
+\nt as it is, the sentence isn't skladno at all, and I think she made a mistake with the ńọːŋčirakatan, I think she meant ńọːŋčịrakan, "when the old man ran ahead, towards
+them" - so that's how I translated it
+\ev
+\ru Мыши все стали бегать и вот, старик когда обежали вперед, к ним, они выскочили на улицу.
+\ELANBegin 00:09:28.204
+\ELANEnd 00:09:42.608
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_093
+\ref
+\tx "Amaŋa,    dorowa! Ewuški        emni,         emni          ewuški!"
+\mb amaŋa       dorobo  erek -skI      em   -LI      em   -LI      erek -skI     
+\ps n           interj  pron           v             v             pron          
+\ge grandfather hello.R prox -advb.all come -imp.2sg come -imp.2sg prox -advb.all
+\ft "Hello grandad, come here, come here!"
+\ev
+\ru Дедушка здравствуй, сюда иди, иди сюда!
+\ELANBegin 00:09:42.608
+\ELANEnd 00:09:47.119
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_094
+\ref
+\tx Tarakaši:  "Tiːk maːdʒima,         tilbakčima           tiːkete!"
+\mb tarak =sI   tiek maː  -DʒI -m   -E  tilbak -DʒI -m   -E  tiek =et   -E 
+\ps pron        adv  v                  v                    adv           
+\ge dist  =emph now  kill -fut -1sg -ep smash  -fut -1sg -ep now  =emph -ep
+\ft And he "Oooh, now I will kill you, I will smash you all to smithereens right now!!!"
+\ev
+\ru А он Сейчас убью, раздавлю сейчас же!
+\ELANBegin 00:09:47.119
+\ELANEnd 00:09:51.539
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_095
+\ref
+\tx "Ee, amaŋa,     ewuški        emni,         ere.
+\mb ee amaŋa       erek -skI      em   -LI      erek
+\ps interj n           pron           v             pron
+\ge eh grandfather prox -advb.all come -imp.2sg prox
+\ft "Oh, grandad, come here, here.
+\ev
+\ru О дедушка иди сюда, вот.
+\ELANBegin 00:09:51.539
+\ELANEnd 00:09:54.997
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_096
+\ref
+\tx Ịamị iekeńdʒewur         ụkal  ečin:     "er dʒebleŋgaš                   oleriwun                dallawịː      tukeru".
+\mb ịamị ieke -ńdʒE -WUr     ụkal    erroːčin  er  dʒeb -LE -ŋ   -GE    -s(I)     oleː -RI  -WUn         dalra -W   =Iː   tuker      -W  
+\ps ?    n                   adv     pron      ?   v                              v                      adj              n              
+\ge ptl  pot  -aug  -prfl.pl already prox.qual ptl eat  -nr -aln -desig -poss.2sg cook -pst -poss.1pl.ex tasty -acc =emph lily.roots -acc
+
+\ft And they already (bring) their big pot, and like this "We have cooked some food for you, tasty lily roots".
+\ph
+\ev
+\ru Они опять большую свою кастрюлю вот так, и говорят кушать мы тебе сварили вкусно, корни сараны.
+\ELANBegin 00:09:54.997
+\ELANEnd 00:10:01.874
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_097
+\ref
+\tx Nan    tarak ireptu họmŋan     etikekeje        nan    ittidʒite         taraw      dʒeplew:
+\mb ńaːn tarak ireptu ọmŋa   -n(I) etikeːn -kEːjE ńaːn it  -RIdʒI   =t(E) tarak -W   dʒeb -LE -W  
+\ps adv  pron  ptl    v            n              adv  v                  pron       v            
+\ge and  dist  even   forget -3sg  old.man -aug   and  see -ant.cvb =ptl  dist  -acc eat  -nr -acc
+\ft And again that old man forgot (everything), having seen that food:
+\ev
+\ru И опять аж забыл старик, как увидал эту еду.
+\ELANBegin 00:10:01.874
+\ELANEnd 00:10:09.999
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_098
+\ref
+\tx dalla
+\mb dalra
+\ps adj  
+\ge tasty
+\ft tasty
+\ph "sniff, dalla, sniff"
+\gr
+\nt one really needs to listen to the sound file with this one...
+\ev
+\ru вкусно
+\ELANBegin 00:10:09.999
+\ELANEnd 00:10:12.326
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_099
+\ref
+\tx "He, ewuški        emelle!"
+\mb he  erek -skI      em   -E  -(LI)lrE
+\ps interj pron           v                
+\ge huh prox -advb.all come -ep -imp.2pl
+\ft "Ha, come here!"
+\ev
+\ru Идите сюда!
+\ELANBegin 00:10:12.326
+\ELANEnd 00:10:14.211
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_100
+\ref
+\tx Nandeː           tar  dʒebleddeneši                      umekič ečin      tjawtjaw,     meːnide         umekič
+\mb ńaːn =DE  =eː   tar  dʒeb -L    -D    -R(E)   -n(I) =sI   umekič erroːčin  tjawtjaw      meːni       =DE  umekič
+\ps adv             adv  v                                    adv    pron      ideophone     pron             adv   
+\ge and  =ptl =emph thus eat  -inch -prog -nonfut -3sg  =emph very   prox.qual onomatopoetic refl.sg.acc =ptl very  
+
+\tx uŋŋoːtten             nan    "dallačakana,    tuk... tukere         uŋen... uŋgeli,          kọbalan imšenun?".
+\mb uŋ -WEːČ -R(E)   -n(I) ńaːn dalra =čEkEn -E  tuk tuker      -E  uŋen     uŋ        -g(E)lI kọbalan imse -ńUn
+\ps v                      adv  adj              ideophone n              pron     n                 n       n        
+\ge do -gnr  -nonfut -3sg  and  tasty =emph  -ep tuk lily.roots -ep this.one something -com    bear    fat  -com
+
+\ft And again how he started to eat, gulpgulp, does himself very much (probably: dirties himself) and "how tasty! the lily roots are with bear fat?".
+\ph
+\gr should be kọbalan imšenunni, with poss.3sg
+\ev
+\ru И опять как стал есть, и себя вот так делает, "как вкусно!". корни саранки с этим, с медвежим салом?
+\ELANBegin 00:10:14.211
+\ELANEnd 00:10:28.446
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_102
+\ref
+\tx "Iŋe iŋe, iŋe iŋe iŋe, iŋe, amaŋa      dʒebli        dʒebli        dʒebli!"
+\mb iŋe iŋe iŋe iŋe iŋe iŋe amaŋa       dʒeb -LI      dʒeb -LI      dʒeb -LI     
+\ps interj interj interj interj interj interj n           v             v             v            
+\ge yes yes yes yes yes yes grandfather eat  -imp.2sg eat  -imp.2sg eat  -imp.2sg
+\ft "Yes yes yes, grandad, eat eat eat!".
+\ev
+\ru Да да дедушка ешь ешь ешь .
+\ELANBegin 00:10:28.446
+\ELANEnd 00:10:34.062
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_103
+\ref
+\tx Nan    dʒebdentekennun                         dʒebdenteken                      nan    (yawn) uklemellen              umekič
+\mb ńaːn dʒeb -DE       -n(I)     =t(E)kEn =nun  dʒeb -DE       -n(I)     =t(E)kEn ńaːn yawn hukle -mEl -R(E)   -n(I) umekič
+\ps adv  v                                       v                                 adv  ?    v                        adv   
+\ge and  eat  -purp.cvb -poss.3sg =restr   =emph eat  -purp.cvb -poss.3sg =restr   and  ***  sleep -des -nonfut -3sg  very  
+
+\tx etikekeje.
+\mb etikeːn -kEːjE
+\ps n             
+\ge old.man -aug  
+\ft And he eats and eats and (yawns) again felt very sleepy, the old man.
+\ph
+\gr ʤebdentekennun ʤebenteken = zhret zhret, dolgo estj; girkaramtakeːnnun girkaramtakan = dolgo idu i idu; in Paderina_Egorova_razgovor_83 the construction
+occurs, but without the repetition; =nun usilivaet
+\ev
+\ru И вот он ест все ест и спать захотел опять старик.
+\ELANBegin 00:10:34.062
+\ELANEnd 00:10:44.150
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_104
+\ref
+\tx "Čas bi   kụŋal    čas bi   uklešendeku                     entekuken uklešendeku."
+\mb čas biː kụŋa  -L  čas biː hukle -s(E)n -DE       -W        entukuken hukle -s(E)n -DE       -W       
+\ps ptl pron n         ptl pron v                                adv       v                               
+\ge ptl 1sg child -pl ptl 1sg sleep -lim   -purp.cvb -poss.1sg softly    sleep -lim   -purp.cvb -poss.1sg
+\ft "Well, children, let me go to sleep, let me go to sleep for a bit".
+\ev
+\ru Ладно дети, давайте я усну, по-тихоньку лягу спать.
+\ELANBegin 00:10:44.150
+\ELANEnd 00:10:49.376
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_105
+\ref
+\tx "Iŋe, uklešli.
+\mb iŋe hukle -s(E)n -LI     
+\ps interj v                    
+\ge yes sleep -lim   -imp.2sg
+\ft "Yes, go to sleep".
+\ev
+\ru Ладно засыпай
+\ELANBegin 00:10:49.376
+\ELANEnd 00:10:50.988
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_106
+\ref
+\tx Beː beː beː beː bebečidde                     ečin      etikekejew.
+\mb beː beː beː beː bebet         -E  -D    -R(E)   erroːčin  etikeːn -kEːjE -W  
+\ps ideophone ideophone ideophone ideophone v                               pron      n                  
+\ge beː beː beː beː lull.to.sleep -ep -prog -nonfut prox.qual old.man -aug   -acc
+\ft "Be, be, be, like this they lull the old man to sleep".
+\ph
+\gr beberem = net, beberiwu = net; bebečiddem, bebečiddiwu, but also bebettiwu
+\ev
+\ru Баюкают вот так старика.
+\ELANBegin 00:10:50.988
+\ELANEnd 00:10:55.954
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_107
+\ref
+\tx Nan    etikekeje        uklešneniː,                   họŋgirnịkan   umekič entekeje,  nan    čimakčaraši       uŋne       eto,
+\mb ńaːn etikeːn -kEːjE hukle -s(E)n -R(E)   -n(I) =Iː   kọŋgir -nIkEn   umekič entekeːje ńaːn čimakčan -L  =sI   uŋ -R(E)   eto   
+\ps adv  n              v                                v               adv    adv       adv  n                  v          pron  
+\ge and  old.man -aug   sleep -lim   -nonfut -3sg  =emph snore  -sim.cvb very   strong    and  mouse    -pl =emph do -nonfut this.R
+
+\tx ečin      ŋenne       nanaši      ịašal, ịašaldụlan         ečin      oːńeriten           ukelliw        ečin,     uŋu
+\mb erroːčin  ŋen -R(E)   ńaːn =sI   ịašal ịašal -(dU)LE -n(I)     erroːčin  oːńe   -RI  -tEn      hukel -LE -W   erroːčin  uŋ        -W  
+\ps pron      v           adv        n     n                       pron      v                     n              pron      n             
+\ge prox.qual go  -nonfut and  =emph eyes  eyes  -loc    -poss.3sg prox.qual tie.up -pst -poss.3pl hang  -nr -acc prox.qual something -acc
+
+\tx ŋuleńeč    ŋuleńew     tulliten.
+\mb ŋuleńe -Č   ŋuleńe -W   tul -RI  -tEn     
+\ps adj         adj         v                 
+\ge red    -ins red    -acc set -pst -poss.3pl
+
+\ft And this old man fell asleep, snoring very loudly, and the mice did what, they went up to him and tied pendants like this to his eyes, fastened something red.
+\ph
+\nt There's an intonation break after uklešneniː, but syntactically of course hoŋgirnikan belongs with that clause, and there's no intonation break between "hoŋgirnikan
+umekič entekeje" and the rest, so I joined it all into one long sentence.
+\ev
+\ru И старик этот уснул. И когда старик стал храпеть мыши сделали так, подошли к нему и на глаза его привязали висюлки красные,
+прикрепили.
+\ELANBegin 00:10:55.954
+\ELANEnd 00:11:32.796
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_109
+\ref
+\tx Išukke        ečin      iškekem         ešiweːtte              ŋuleńe ọːkašan... ọːdakan                     nan,   ọːdikan, nan
+\mb is   -W   =kkE erroːčin  is   -kEkEn -W   hesi     -WEːČ -R(E)   ŋuleńe *** ọː     -REk      -E  -n(I)     ńaːn *** ńaːn
+\ps n              pron      n                v                      adj    ?   v                              adv  ?   adv 
+\ge hide -acc =ptl prox.qual hide -dim   -acc smear.on -gnr  -nonfut red    *** become -cond.cvb -ep -poss.3sg and  *** and 
+
+\tx taraw      ečin      tulliten.
+\mb tarak -W   erroːčin  tul -RI  -tEn     
+\ps pron       pron      v                 
+\ge dist  -acc prox.qual set -pst -poss.3pl
+\ft Little (pieces) of leather they die so that they become red, and that is what they fastened (to his eyes).
+\gr the verb "become" is not correct, she wants to say "ŋuleńe ọːkan" until it becomes red, with the terminative converb, and is looking for that word - or for the
+purposive converb "ọːdan", which is how Rimma then translated it; this is why she twice produces "non-words", and even "ọːdakan" is not correct here
+\gr eši- is "smear on", namazatj, ešiweːtte = mazhut; but is also used for dying leather, so the word is correct here
+\nt Rimma said that she remembered the tale from her childhood, but that in the variant she heard they fastened fox fur to his eyes for the red colour.
+\ev
+\ru Шкурку же вот так красят, чтобы красное стало, и вот такую они прикрепили.
+\ELANBegin 00:11:32.796
+\ELANEnd 00:11:45.094
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_110
+\ref
+\tx Nanaši      ečin      uŋedʒille,            ereč ille: "Amaŋa,    mịallịši".
+\mb ńaːn =sI   erroːčin  uŋ -D    -L    -R(E)   *** *** amaŋa       mịal    -LI      =sI  
+\ps adv        pron      v                      ?   ?   n           v                     
+\ge and  =emph prox.qual do -prog -inch -nonfut *** *** grandfather wake.up -imp.2sg =emph
+\ft And then they started to do like this, they stood like this: "Grandad, wake up!".
+\ph
+\ph Rimma insisted that she says "ečiʤille" at the end, which is not a word; I hear "ereč ille" as transcribed, and we agreed that she probably meant to say "ečin ịlla" tak
+vstali, which is how we translated it.
+\ev
+\ru И вот они так стали делать и встали, "Дедушка, просыайся!"
+\ELANBegin 00:11:45.094
+\ELANEnd 00:11:56.833
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_112
+\ref
+\tx "haaa",       guːnni.
+\mb haaa          goːn -n(I)
+\ps ideophone     v         
+\ge onomatopoetic say  -3sg 
+\ft "Hwaaa", he said (i.e. he yawns).
+\ev
+\ru хахаха говорит.
+\ELANBegin 00:11:56.833
+\ELANEnd 00:12:00.291
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_113
+\ref
+\tx "Tiːket   mịaldʒim        alačišlillekana,          unet  uklemšemeː".
+\mb tiek =et   mịal    -DʒI -m   alat -s(E)n -(LI)lrE =kEnE  unet  hukle -m   -R(E)   -m   =eː  
+\ps adv        v                 v                           adv   v                            
+\ge now  =emph wake.up -fut -1sg wait -lim   -imp.2pl =contr still sleep -des -nonfut -1sg =emph
+\ft "I'll wake up now, wait a bit, I still want to sleep so badly".
+\ev
+\ru Сейчас проснусь, подождите-ка, еще так сильно спать хочу.
+\ELANBegin 00:12:00.291
+\ELANEnd 00:12:07.389
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_114
+\ref
+\tx "Amaŋa,    mịallịši,         tawụr atị... atịkan  tala          alačịddana"
+\mb amaŋa       mịal    -LI      =sI   tawụr atịkan    tarak -(dU)LE alat -E  -D    -R(E)   -n(I) -E 
+\ps n           v                      pron  n         pron          v                               
+\ge grandfather wake.up -imp.2sg =emph this  old.woman dist  -loc    wait -ep -prog -nonfut -3sg  -ep
+\ft "Grandad, wake up, over there the granny is waiting already!".
+\ev
+\ru Дедушка вставай уже бабушка там ждет уже.
+\ELANBegin 00:12:07.389
+\ELANEnd 00:12:11.094
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_115
+\ref
+\tx "Iː, tiːkete"
+\mb iː  tiek =et   -E 
+\ps interj adv           
+\ge yes now  =emph -ep
+\ft "Yes, now now".
+\ev
+\ru Сейчас вот.
+\ELANBegin 00:12:11.094
+\ELANEnd 00:12:12.641
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_116
+\ref
+\tx Nan    ịašali         ečin      aŋ... aːŋaddan                nan    kojeːčišnen...
+\mb ńaːn ịašal -J       erroːčin  aːŋa -D    -R(E)   -n(I) ńaːn kojeːt  -s(E)n -R(E)   -n(I)
+\ps adv  n              pron      v                        adv  v                           
+\ge and  eyes  -prfl.sg prox.qual open -prog -nonfut -3sg  and  look.at -lim   -nonfut -3sg 
+\ft And he opened his eyes and looked.... (sucks in breath).
+\ev
+\ru И глаза свои открывает и посмотрел...
+\ELANBegin 00:12:12.641
+\ELANEnd 00:12:17.113
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_117
+\ref
+\tx "Durrepeː,                tawụr durrine,                durrepeː!
+\mb dur  -R(E)   -p      =eː   tawụr dur  -RI  -n(I)     -E  dur  -R(E)   -p      =eː  
+\ps v                          pron  v                       v                         
+\ge burn -nonfut -1pl.in =emph this  burn -pst -poss.3sg -ep burn -nonfut -1pl.in =emph
+\ft "We're burning, it's burning over there, we're burning!"
+\ph says durrIne, but surely meant "durrEne"
+\ev
+\ru Горииим, вот горит, горииим.
+\ELANBegin 00:12:17.113
+\ELANEnd 00:12:21.065
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_118
+\ref
+\tx Ile           muːŋešeneː?"           nan    ečin      ńọːŋčịn      muːtki       nan    kọlańdʒawutan             kọlačam
+\mb irek  -(dU)LE moː   -ŋ   -sEn      =eː   ńaːn erroːčin  ńọːŋčị -n(I) moː   -t(E)kI ńaːn kọla  -ńdʒE -W   -tEn      kọla  -čEn -W  
+\ps pron          n                          adv  pron      v            n             adv  n                          n              
+\ge which -loc    water -aln -poss.2pl =emph and  prox.qual run    -3sg  water -all    and  ladle -aug  -acc -poss.3pl ladle -dim -acc
+
+\tx epkenin               ušeleddeneši                          muːče        tawụški           čeletkin               nan    "Durrepeː!".
+\mb hepken -RI  -n(I)     hus      -L    -D    -R(E)   -n(I) =sI   moː   -Č   -E  tarak -W   -skI      čele -t(E)kI -n(I)     ńaːn dur  -R(E)   -p      =eː  
+\ps v                     v                                        n              pron                 n                      adv  v                         
+\ge catch  -pst -poss.3sg sprinkle -inch -prog -nonfut -3sg  =emph water -ins -ep dist  -acc -advb.all all  -all    -poss.3sg and  burn -nonfut -1pl.in =emph
+
+\ft Where's your water??" and ran like that to the water and grabbed their big ladle, the small ladle and started to splash water everywhere, on everyone, (saying):
+"We're burning!!!".
+\ev
+\ru Где вода ваша, и вот так побежал к воде и ковшиком большим, маленький ковшик схватил и стал поливать водой везде на всех и
+вот: "Горим!".
+\ELANBegin 00:12:21.065
+\ELANEnd 00:12:32.160
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_119
+\ref
+\tx Čimakčajakar        ńọːndʒiddaši           nọŋantukun,             nọŋan dʒụːtkiji
+\mb čimakčan -jEkEn -L  ńọːn     -D    -R(E)   =sI   nọŋan -DUk(U) -n(I)     nọŋan dʒụː  -t(E)kI -J      
+\ps n                   v                            pron                    pron  n                     
+\ge mouse    -dim   -pl run.away -prog -nonfut =emph 3sg   -abl    -poss.3sg 3sg   house -all    -prfl.sg
+
+\tx ńọːndʒiddanaši.
+\mb ńọːn     -D    -R(E)   -n(I) =sI  
+\ps v                                 
+\ge run.away -prog -nonfut -3sg  =emph
+\ft The mice ran away from him, and he ran off home.
+\ph very contracted "nọŋan", sounds more like "non"
+\ev
+\ru Мыши стали разбегатья от него, а он домой как побежал.
+\ELANBegin 00:12:32.160
+\ELANEnd 00:12:36.561
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_120
+\ref
+\tx "Atịkan, durrepeː,                 tawụr duri   ịnmača        uŋni        taraw      durriw,             muːw      muːč
+\mb atịkan    dur  -R(E)   -p      =eː   tawụr duriː hịnma -Č   -E  uŋ -LI      tarak -W   dur  -RI       -W   moː   -W   moː   -Č  
+\ps n         v                          pron  n     n              v           pron       v                   n          n         
+\ge old.woman burn -nonfut -1pl.in =emph this  fire  fast  -ins -ep do -imp.2sg dist  -acc burn -impf.ptc -acc water -acc water -ins
+
+\tx uŋketli!"
+\mb oŋke -Č   -LI     
+\ps v                 
+\ge pour -res -imp.2sg
+\ft "Old woman, we're burning, do that fire quickly, pour water onto that which is burning!"
+\ph
+\gr both muːw and muːč uŋetli are correct, vodu lej, vodoj zalivaj; uŋketli = lej; uŋkeli = odin raz - so I assume that "lej" in Russian has a meaning of pouring several
+times
+\ev
+\ru Старик горим, вот этот пожар быстрее сделай, этот пожар (горящее) воду водой заливай!
+\ELANBegin 00:12:36.561
+\ELANEnd 00:12:47.039
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_121
+\ref
+\tx Nan    atịkan  jurtaduk       čulbe...           čulbenukenni,    guːnni:    "Ịakawụ, ịakawụ?
+\mb ńaːn atịkan    jurta  -DUk(U) *   -Č   -U    -LbE čulbenuken -n(I) goːn -n(I) ịak  -awụ  ịak  -awụ 
+\ps adv  n         n              v                   v                v          pron       pron      
+\ge and  old.woman yurt.R -abl    *** -res -caus -vr  jump.out   -3sg  say  -3sg  what -emph what -emph
+\ft And the old woman jumped out of the yurt, says "What is it, what is it?".
+\ph
+\ev
+\ru И вот бабка из юрты выскочила, говорит, что что?
+\ELANBegin 00:12:47.039
+\ELANEnd 00:12:57.894
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_123
+\ref
+\tx Atịka... etikeːn ịasčinni         tačịmụrbedʒi?"
+\mb atịkan    etikeːn ịa      -sčI   -nrI tarrọːčịn =bEdʒI
+\ps n         n       v                   pron            
+\ge old.woman old.man do.what -conat -2sg dist.qual =emph 
+\ft Old man, why are you doing like that?"
+\ev
+\ru Старик, ты почему так делаешь?
+\ELANBegin 00:12:57.894
+\ELANEnd 00:13:01.378
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_124
+\ref
+\tx Nan    guːnni     "ajdịtta   ejdu nan    taːjịl ọːdin,             dịlan            keńeli ọːdnị,         ịasčịn,
+\mb ńaːn goːn -n(I) ajdịt =DE  ejdu ńaːn taːjịl ọː     -RI  -n(I)     dịl  -E  -n(I)     keńeli ọː     -R(E)   -n(I) ịa      -sčI   -n(I)
+\ps adv  v          n          quant adv  n      v                     n                  adj    v                    v                   
+\ge and  say  -3sg  truth =ptl all  and  stupid become -pst -poss.3sg head -ep -poss.3sg bad    become -nonfut -3sg  do.what -conat -3sg 
+
+\tx guːnni     durrep.
+\mb goːn -n(I) dur  -R(E)   -p     
+\ps v          v                   
+\ge say  -3sg  burn -nonfut -1pl.in
+\ft She says "Really, he's become completely stupid, his head has become bad, what is he doing, he says we're burning.
+\ev
+\ru И говорит Правда, совсем дураком стал, плохая голова стала, что он делает, говорит горим.
+\ELANBegin 00:13:01.378
+\ELANEnd 00:13:08.723
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_125
+\ref
+\tx Ile           durrep?
+\mb irek  -(dU)LE dur  -R(E)   -p     
+\ps pron          v                   
+\ge which -loc    burn -nonfut -1pl.in
+\ft Where are we burning?
+\ev
+\ru Где горим?
+\ELANBegin 00:13:08.723
+\ELANEnd 00:13:11.323
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_126
+\ref
+\tx Ile           duriŋe?
+\mb irek  -(dU)LE duriː -ŋE 
+\ps pron          n         
+\ge which -loc    fire  -aug
+\ft Where's the conflagration?
+\ev
+\ru Где пожарище?
+\ELANBegin 00:13:11.323
+\ELANEnd 00:13:13.572
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_127
+\ref
+\tx Ịak durriwen                         guːnni?
+\mb ịak  dur  -RI       -W   -E  -n(I)     goːn -n(I)
+\ps pron v                                 v         
+\ge what burn -impf.ptc -acc -ep -poss.3sg say  -3sg 
+\ft Which fire (lit. what that is burning) is he talking about?
+\ev
+\ru Что горит, говорит / про какой пожар говорит.
+\ELANBegin 00:13:14.989
+\ELANEnd 00:13:17.628
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_128
+\ref
+\tx Erroːj ajdịtta    taːjịl, ajdịtta    taːjịl, erroːj.
+\mb erroːj  ajdịt =DE  taːjịl ajdịt =DE  taːjịl erroːj 
+\ps interj  n          n      n          n      interj 
+\ge oh.dear truth =ptl stupid truth =ptl stupid oh.dear
+\ft Oh dear, really an idiot, really an idiot, oh dear".
+\ev
+\ru Ой правда дурак, правда дурак.
+\ELANBegin 00:13:17.628
+\ELANEnd 00:13:23.738
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_129
+\ref
+\tx Tabịč kojeːčidden,                 etikem.
+\mb tabịč kojeː -Č   -D    -R(E)   -n(I) etikeːn -W  
+\ps adv   v                              n           
+\ge again watch -res -prog -nonfut -3sg  old.man -acc
+\ft And then she looks at the old man.
+\ev
+\ru И вот смотрит старик.
+\ELANBegin 00:13:25.233
+\ELANEnd 00:13:29.198
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_130
+\ref
+\tx "Ịadụ  nan    tawụr ịašallajị            išu      ŋuleńew     tulliš?"
+\mb ịak  -DU  ńaːn tawụr ịašal -(dU)LE -J       is   -W   ŋuleńe -W   tul -RI  -s(I)    
+\ps pron      adv  pron  n                      n         adj         v                 
+\ge what -dat and  this  eyes  -loc    -prfl.sg hide -acc red    -acc set -pst -poss.2sg
+
+\ft "Why did you fasten red leather to your eyes?"
+\ev
+\ru Зачем ты вот на глаза красные шкуры приделал?
+\ELANBegin 00:13:29.198
+\ELANEnd 00:13:36.205
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_131
+\ref
+\tx Etikekeje        ečin      kojeːtt...              ịamị ịašallanmeje               tarak iškeken    ečin      ŋujellen,
+\mb etikeːn -kEːjE erroːčin  kojeː -Č   -R(E)   -n(I) ịamị ịašal -(dU)LE -n(I)     =mEjE tarak is   -kEkEn erroːčin  ŋojelle -n(I)    
+\ps n              pron      v                        ?    n                             pron  n           pron      n                
+\ge old.man -aug   prox.qual watch -res -nonfut -3sg  ptl  eyes  -loc    -poss.3sg =ptl  dist  hide -dim   prox.qual fringe  -poss.3sg
+
+\tx ŋujelleč    eto    eši... ŋujellen,         ešiče       ŋuleńeč    dukteč,   teːmi    ečin      ŋuleńiː.
+\mb ŋojelle -Č   eto    hesi  ŋojelle -n(I)     hesi  -čE     ŋuleńe -Č   dukte -Č   teːmi     erroːčin  ŋulen  -ńE   =eː  
+\ps n            pron   ?     n                 v             adj         n          conj      pron      v                 
+\ge fringe  -ins this.R smear fringe  -poss.3sg smear -pf.ptc red    -ins alder -ins therefore prox.qual be.red -adjr =emph
+\ft And the old man looks, why, it turns out that on his eyes little (strips of) hide like this, a fringe, died with red alder, that is why it is so red.
+\ph
+\gr I had initially transcribed "ečikeken" and Rimma hadn't noticed that during the transcription/translation session; it was only when I listened to her translation "starik
+etot" during glossing that I went back and realized that that is what she says - and it's the definiteness of the translated phrase that directed my attention (actually,
+Rimma quite frequently translates "etikekeje" not as "bolshoj starik", but as "etot starik" - which indicates that the definiteness is more important than the size)
+\gr ŋujellen = lit. "his ŋujelle", confirmed with Rimma (29.06.16), there is no verb
+\ev
+\ru И старик этот смотрит и оказывается на его глазах вот так шкуречка вот так, нгойэллэ, этой шкурочкой, покрашенной красной
+краской (ольхой), поэтому все так красно было,
+\ELANBegin 00:13:36.205
+\ELANEnd 00:13:54.560
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_132
+\ref
+\tx Nan    epkenni,     guːnni:    "Erro, erro, tiːkkelle        ajdịt bi   tilbakčim!
+\mb ńaːn hepken -n(I) goːn -n(I) erro erro tiek =gEl   =lE   ajdịt biː tilbak -DʒI -m  
+\ps adv  v            v          interj interj adv               n     pron v               
+\ge and  catch  -3sg  say  -3sg  oh   oh   now  =coord =emph truth 1sg smash  -fut -1sg
+\ft And he grabbed that and said "Oh, oh, NOW I will really smash them all to smithereens!!
+\ph
+\gr the reading "vsex porazdavlju" with many objects comes from the verb tilbak-, if it were only one mouse, it would be tilbaʤim or tilbalʤim, but the context of course
+also plays a role
+\ev
+\ru И вот он схватил говорит "Вот сейчас-то я их вправду всех пораздавлю/передавлю!"
+\ELANBegin 00:13:54.560
+\ELANEnd 00:14:05.104
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_134
+\ref
+\tx Hekkoːččim              unu,         čimakčajakar!
+\mb hek     -WEːČ -DʒI -m   hun     -W   čimakčan -jEkEn -L 
+\ps v                       pron         n                  
+\ge trample -gnr  -fut -1sg 2pl.obl -acc mouse    -dim   -pl
+\ft I will trample you, mice!
+\ev
+\ru Растопчу вас, мыши!
+\ELANBegin 00:14:05.104
+\ELANEnd 00:14:08.744
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_135
+\ref
+\tx Nanda       nọŋartantitta      minu         olekčir!
+\mb ńaːn =DE  nọŋartan =tIt =DE  min     -W   olekči -r  
+\ps adv       pron               pron         v          
+\ge and  =ptl 3pl      =ptl =ptl 1sg.obl -acc cheat  -3pl
+\ft Again they tricked me!!!"
+\ev
+\ru Опять они же меня обманули!
+\ELANBegin 00:14:08.744
+\ELANEnd 00:14:12.241
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_136
+\ref
+\tx Ńan   ńọːndʒiddanaši!
+\mb ńaːn ńọːn     -D    -R(E)   -n(I) =sI  
+\ps adv  v                                 
+\ge and  run.away -prog -nonfut -3sg  =emph
+\ft And off he ran.
+\ev
+\ru И как побежал.
+\ELANBegin 00:14:12.241
+\ELANEnd 00:14:15.491
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_137
+\ref
+\tx Umekič ńọːŋčịn      tartakị     ịrkanịkan:
+\mb umekič ńọːŋčị -n(I) tarak -t(E)kI ịrka   -nIkEn  
+\ps adv    v            pron          v              
+\ge very   run    -3sg  dist  -all    scream -sim.cvb
+\ft He runs straight there, screaming:
+\ev
+\ru Прямо бежит туда с криками.
+\ELANBegin 00:14:15.491
+\ELANEnd 00:14:19.248
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_138
+\ref
+\tx "Tiːkkelle       popaldillašala!
+\mb tiek =gEl   =lE   popal         -D    -L    -R(E)   -s   =lE  
+\ps adv               v                                           
+\ge now  =coord =emph caught.it.m.R -prog -inch -nonfut -2pl =emph
+\ft "NOW you're caught!!!
+\ev
+\ru Сейчас вы попались!
+\ELANBegin 00:14:19.248
+\ELANEnd 00:14:21.653
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_139
+\ref
+\tx Tiːkkelle        erewel        čal... ịa... čelewente               ịkụtịč    tepkedʒim       ịkụtịč!
+\mb tiek =gEl   =lE   erek -L  -W   *** ịa      čele -W   -E  -n(I) =t(E) ịkụt     -E  -Č   tipke -DʒI -m   ịkụt     -E  -Č  
+\ps adv               pron          ?   v       n                         adv               v               adv              
+\ge now  =coord =emph prox -pl -acc *** do.what all  -acc -ep -3sg  =ptl  straight -ep -ins nail  -fut -1sg straight -ep -ins
+
+\ft Now I'm going to nail all of you right there!!
+\ph
+\gr erewel = not correct, should be erelbe, as I glossed it
+\ev
+\ru Сейчас прямо прибью вас всех гвоздями!!
+\ELANBegin 00:14:21.653
+\ELANEnd 00:14:32.638
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_140
+\ref
+\tx Deŋnikčime                      čelewente!"
+\mb deŋnik             -DʒI -m   -E  čele -W   -E  -n(I)     =t(E)
+\ps v                                n                            
+\ge beat.over.the.head -fut -1sg -ep all  -acc -ep -poss.3sg =ptl 
+\ft I will beat all of you over the head!!!!"
+\ev
+\ru Всех по голове буду бить!
+\ELANBegin 00:14:32.638
+\ELANEnd 00:14:37.357
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_141
+\ref
+\tx A     čimakčar     tarakam       uŋedde,              alačidda.
+\mb a.R   čimakčan -L  tarakam       uŋ -E  -D    -R(E)   alat -E  -D    -R(E)  
+\ps ?     n            adv           v                    v                     
+\ge but.R mouse    -pl in.those.days do -ep -prog -nonfut wait -ep -prog -nonfut
+\ft And during this the mice are waiting.
+\ev
+\ru А мыши тем временем делают, ждут.
+\ELANBegin 00:14:37.357
+\ELANEnd 00:14:43.740
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_142
+\ref
+\tx Ịamị tar  ńọːŋčịn      etikekeje,       ńọːŋčịn      umekič eto    ńimkaŋińdʒaji          epkenidʒi      tọːbarinun,           guːnni
+\mb ịamị tar  ńọːŋčị -n(I) etikeːn -kEːjE ńọːŋčị -n(I) umekič eto    ńimkaŋi -ńdʒE -J       hepken -RIdʒI   tọːbar -J       -ńUn goːn -n(I)
+\ps ?    adv  v            n              v            adv    pron   n                      v               n                    v         
+\ge ptl  thus run    -3sg  old.man -aug   run    -3sg  very   this.R staff   -aug  -prfl.sg catch  -ant.cvb axe.R  -prfl.sg -com say  -3sg 
+
+\tx "Tiːket   dịlawutanda                 ịkụtịč    uŋdʒim       ọndʒịma!
+\mb tiek =et   dịl  -E  -W   -tEn      =DE  ịkụt     -E  -Č   uŋ -DʒI -m   họn  -DʒI -m   -E 
+\ps adv        n                            adv               v            v                 
+\ge now  =emph head -ep -acc -poss.3pl =ptl straight -ep -ins do -fut -1sg chop -fut -1sg -ep
+\ft And here the old man runs, he runs very much, having grabbed his staff, with an axe, he says "Now I will chop their heads off completely!!".
+\ev
+\ru И вот бежит старик, бежит очень, посох свой схватив, с топором, говорит "Сейчас голову ихнии сделаю, поотрубаю!".
+\ELANBegin 00:14:43.740
+\ELANEnd 00:14:55.713
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_143
+\ref
+\tx Nan    čimakčaraši       ittidʒur        ńọːmačiladdaši.
+\mb ńaːn čimakčan -L  =sI   it  -RIdʒI   -L  ńọːmat -L    -D    -R(E)   =sI  
+\ps adv  n                  v                v                               
+\ge and  mouse    -pl =emph see -ant.cvb -pl jump   -inch -prog -nonfut =emph
+\ft And the mice, having seen (him), ran off.
+\ph she says "čimakčarakaši", which isn't correct; Rimma suggested she may have wanted to say "čimakčar taralaši", but I think the extra -k- might have just crept into the
+word as I transcribed it here
+\ev
+\ru И мыши увидав, опять стали бегать.
+\ELANBegin 00:14:57.481
+\ELANEnd 00:15:02.382
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_144
+\ref
+\tx Tarakaši   etikekeje        ulutten                 ulučiled...           ulut...    uluteleddeneši
+\mb tarak =sI   etikeːn -kEːjE holu  -Č   -R(E)   -n(I) holu  -Č   -L    -D    holu  -Č   holu  -Č   -L    -D    -R(E)   -n(I) =sI  
+\ps pron        n              v                        v                      v          v                                         
+\ge dist  =emph old.man -aug   chase -res -nonfut -3sg  chase -res -inch -prog chase -res chase -res -inch -prog -nonfut -3sg  =emph
+
+\tx taralbe        čimakčajakarba.
+\mb tarak -L  -W   čimakčan -jEkEn -L  -W  
+\ps pron           n                       
+\ge dist  -pl -acc mouse    -dim   -pl -acc
+\ft And that old man started to chase those little mice!!
+\ev
+\ru И вот старик как стал гонять этих мышей.
+\ELANBegin 00:15:02.382
+\ELANEnd 00:15:10.910
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_145
+\ref
+\tx Čimakčajakaraši          ńan   uŋne,      ịakkana...
+\mb čimakčan -jEkEn -L  =sI   ńaːn uŋ -R(E)   ịak  =kEnE 
+\ps n                         adv  v          pron       
+\ge mouse    -dim   -pl =emph and  do -nonfut what =contr
+\ft And the little mice did what, ....
+\ev
+\ru
+\ELANBegin 00:15:10.910
+\ELANEnd 00:15:20.790
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_146
+\ref
+\tx Mụdnan?
+\mb mụdan       -E  -n(I)
+\ps v                    
+\ge be.finished -ep -3sg 
+\ft Is it finished?
+\ph she actually says "maddan" here, which would mean "chtoby on ubival", which doesn't make any sense at all, but then when NA speaks she says "mudnan", and that
+makes sense, so that's what I decided to transcribe here
+\gr
+\nt the video tape ended and had to be changed; NA tuts her tongue before this, and that explains this interruption
+\ev
+\ru
+\ELANBegin 00:15:20.790
+\ELANEnd 00:15:22.480
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_147
+\ref
+\tx
+\ft take a break...
+\ev
+\ru ... паузу сделать...
+\ELANBegin 00:15:22.480
+\ELANEnd 00:15:24.456
+\ELANParticipant NA
+
+\id Grigoreva_NI_chimakchar_148
+\ref
+\nt she mumbles something here which is inaudible and untranscribable; it might be that she's looking at her notes to see what comes next in the story
+\ev XXX??
+\ru
+\ELANBegin 00:15:24.456
+\ELANEnd 00:15:27.355
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_149
+\ref
+\tx "Erulle, popaladʒilliwutana,                     herro dʒawulalbe,        tiːk deŋnikčim                   ịkụtịč
+\mb erulle popal         -ʤilli -W   -tEn      -E  erro d'jawol -E  -L  -W   tiek deŋnik             -DʒI -m   ịkụt     -E  -Č  
+\ps interj v                                       interj n                    adv  v                            adv              
+\ge interj caught.it.m.R -***   -acc -poss.3pl -ep oh   devil.R -ep -pl -acc now  beat.over.the.head -fut -1sg straight -ep -ins
+
+\tx čelewen."
+\mb čele -W   -E  -n(I)    
+\ps n                      
+\ge all  -acc -ep -poss.3sg
+\ft "Ha, now they're going to catch it, I'm going to hit all of the devils right over the head!"
+\ph
+\gr popalaʤillitana = popalisj, popalaʤilliwutana = vot SEJCHAS vot popalisj, nesomnenno
+\gr checked again on 29/06/16: mozhno li skazatj: nongan urriwun "on nesomnenno uexal"? = NO, noŋan urrin; nongan ureʤilliwun = no, "ureʤilliwun eto my"; on
+nesomnenno uexal = noŋan urrin; one mouse: popalaʤilliwana; noŋan urriwan = no, urrin, urrine; bi dengaw neːriwuw ele, neːriwew ele (intended "ja dengi
+nesomnenno sjuda polozhila") = neːriwu, neːdiwu; neːʤilliwu = ja uzhe stala lozhitj; dọldaram noŋan ńoːmeʤilliwen = OK, slyshala chto on nesomnenno umiraet; ja
+slyshala, chto on nesomnenno uezhaet = ureʤilliwen; uslyshala chto ty nesomnenno uezhaesh = OK, doldariwu ureʤilliweš Germanijatki; ureʤilliwu = ja ----- it
+must be some participle plus ACC and possessive marking, and with the future reading the fut/hypothetical participle would fit the best - though the form doesn't fit,
+she clearly pronounces 2 -ll-, and the "nesomnenno" reading is also a bit odd for a hypothetical ptcp with meaning of "perhaps"...
+\gr 30/06/16: could one say "popalaʤiŋewutana" here? -- A: popalʤiŋewutan, yes, one could, sejchas oni popadutsja; Q: doldariwu ureʤiŋeweš -- A: urʤiŋeweš, da
+mozhno, ja uslyshala chto ty uedesh; so I don't think it's an allomorph of -ʤiŋe, and I'm going to leave it as is, with the asterisks; I would need more narrative
+examples to be able to say what it is
+\ev
+\ru Вот попадетесь счас мне, сейчас дьяволы всех по голове оглушу"
+\ELANBegin 00:15:28.642
+\ELANEnd 00:15:35.545
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_150
+\ref
+\tx Čimakčajakeːr            umekič dikeŋči...           dikeŋčileddeši                            ...  ọrakaγ
+\mb čimakčan -jEkEn -L  =eː   umekič dekin      -E  -(k)čI dekin      -(k)čI -L    -D    -R(E)   =sI   *... ọraːt -K(Ag)
+\ps n                         adv    v                     v                                           ?    n           
+\ge mouse    -dim   -pl =emph very   hide(intr) -ep -dur   hide(intr) -dur   -inch -prog -nonfut =emph ***  grass -nr   
+
+\tx dọːline.
+\mb dọː    -(dU)LI -n(I)     -E 
+\ps rel.n                       
+\ge inside -prol   -poss.3sg -ep
+\ft And the mice all hid in the grass.
+\ev
+\ru А мыши все стали прятаться, в траву.
+\ELANBegin 00:15:35.545
+\ELANEnd 00:15:46.855
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_152
+\ref
+\tx Nan    tarak etiken   epkesčidmi                   nan    tikren.
+\mb ńaːn tarak etikeːn hepken -sčI   -D    -mI       ńaːn tik  -R(E)   -n(I)
+\ps adv  pron  n       v                             adv  v                 
+\ge and  dist  old.man catch  -conat -prog -cond.cvb and  fall -nonfut -3sg 
+\ft And that old man tried to catch them and fell.
+\ev
+\ru А старик хотел поймать их и падает.
+\ELANBegin 00:15:46.855
+\ELANEnd 00:15:53.407
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_153
+\ref
+\tx Nan    turkučidišnen                            ịlŋa.
+\mb ńaːn turku       -Č   -D    -s(E)n -R(E)   -n(I) ịl       -ŋE      
+\ps adv  v                                           v                 
+\ge and  not.be.able -res -prog -lim   -nonfut -3sg  stand.up -nmdl.cvb
+\ft And cannot get up at all.
+\ph
+\gr the limitative (or perhaps the combination of progressive and limitative) here gives the meaning of "not at all"
+\ev
+\ru И никак не может встать.
+\ELANBegin 00:15:53.407
+\ELANEnd 00:15:56.280
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_154
+\ref
+\tx Ọratli         ečin      buːdelun            ejdu učupten,                 buːdelen            ọrat   dọːlin.
+\mb ọraːt -(dU)LI erroːčin  boːdel -WUn         ejdu ụt   -E  -B   -R(E)   -n(I) boːdel -E  -n(I)     ọraːt dọː    -(dU)LI -n(I)    
+\ps n             pron      n                   quant v                           n                    n     rel.n                   
+\ge grass -prol   prox.qual leg(s) -poss.1pl.ex all  turn -ep -med -nonfut -3sg  leg(s) -ep -poss.3sg grass inside -prol   -poss.3sg
+\ft In the grass his legs got all twisted up (with grass), his legs in the grass.
+\ev
+\ru В траве ноги его закрутились (травой запутались), его ноги в траве.
+\ELANBegin 00:15:56.280
+\ELANEnd 00:16:04.106
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_155
+\ref
+\tx Nanaši      tabịt       dịldʒida             uŋne             keːwŋele       tikrin              nan    turkučidišnen
+\mb ńaːn =sI   tabačịsị dịl  -DʒI         =DE  uŋ        -(dU)LE keːwŋe -(dU)LE tik  -RI  -n(I)     ńaːn turku       -Č   -D    -s(E)n -R(E)   -n(I)
+\ps adv        adv      n                      n                 n              v                   adv  v                                          
+\ge and  =emph then     head -ins.prfl.sg =ptl something -loc    hole   -loc    fall -pst -poss.3sg and  not.be.able -res -prog -lim   -nonfut -3sg 
+
+\tx ịlŋa.
+\mb ịl       -ŋE      
+\ps v                 
+\ge stand.up -nmdl.cvb
+\ft And then the also fell with his head into a hole and cannot get up at all.
+\ev
+\ru И вот еще головой в яму упал и никак не может встать.
+\ELANBegin 00:16:04.106
+\ELANEnd 00:16:12.153
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_156
+\ref
+\tx Nanaši      čimakčajakar        ńọːŋčịr     nan    etikekeje        guːnni:
+\mb ńaːn =sI   čimakčan -jEkEn -L  ńọːŋčị -r   ńaːn etikeːn -kEːjE goːn -n(I)
+\ps adv        n                   v           adv  n              v         
+\ge and  =emph mouse    -dim   -pl run    -3pl and  old.man -aug   say  -3sg 
+\ft And the mice run up again, and the old man says:
+\ev
+\ru И опять мыши прибежали и старик говорит
+\ELANBegin 00:16:12.153
+\ELANEnd 00:16:18.211
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_157
+\ref
+\tx "Ịnmač,   ịnmač     minu         uŋe    atallille         eduke!"
+\mb hịnma -Č   hịnma -Č   min     -W   uŋ -E  atal     -(LI)lrE erek -DUk(U) -E 
+\ps n          n          pron         v      v                 pron            
+\ge fast  -ins fast  -ins 1sg.obl -acc do -ep take.off -imp.2pl prox -abl    -ep
+\ft "Quickly, quickly take me off from here!!"
+\ev
+\ru Быстро, быстро меня снимайте отсюда!"
+\ELANBegin 00:16:18.211
+\ELANEnd 00:16:25.504
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_158
+\ref
+\tx A     čimakčar     guːne    "Tabịč iːnen     unet  eːγšetčinni?       ee, eniŋew?
+\mb a.R   čimakčan -L  goːn -E  tabịč hiː =nEn  unet  eγše   -Č   -DʒI -nrI ee eniŋeː      -W  
+\ps ?     n            v        adv   pron      adv   v                     interj n               
+\ge but.R mouse    -pl say  -ep again 2sg =emph still offend -res -fut -2sg eh grandmother -acc
+\ft And the mice say: "And will you then again offend (us), and the granny?".
+\ev
+\ru А мыши говорят "И вот ты опять будешь обижать? а бабушку?"
+\ELANBegin 00:16:25.504
+\ELANEnd 00:16:36.242
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_159
+\ref
+\tx "Eteme             kụŋala,      eteme!
+\mb e   -t(E) -m   -E  kụŋa  -L  -E  e   -t(E) -m   -E 
+\ps v                  n             v                 
+\ge neg -fut  -1sg -ep child -pl -ep neg -fut  -1sg -ep
+\ft "I won't, children, I won't.
+\ev
+\ru не буду дети не буду
+\ELANBegin 00:16:36.242
+\ELANEnd 00:16:39.934
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_160
+\ref
+\tx Ịllalgaral..., ịllalgarall... ịllalgaralla                munu...         minu,        ńoːwkelle!
+\mb *** *** ịlran -L    -Gr(E) -(LI)lrE mun        -W   min     -W   ńoː  -WkEn -(LI)lrE
+\ps ?   ?   v                           n               pron         v                  
+\ge *** *** pity  -inch -hab   -imp.2pl 1pl.ex.obl -acc 1sg.obl -acc exit -caus -imp.2pl
+\ft Have pity on me, help me out!
+\ph stutters a lot, and the word "pity" sounds like ịllalgaraγla
+\ev
+\ru Пожалеете меня, выпустите
+\ELANBegin 00:16:39.934
+\ELANEnd 00:16:49.567
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_161
+\ref
+\tx Etemeši                 bi   eːγšette          unu.
+\mb e   -t(E) -m   -E  =sI   biː eγše   -Č   -R       hun     -W  
+\ps v                        pron v                    pron        
+\ge neg -fut  -1sg -ep =emph 1sg offend -res -neg.cvb 2pl.obl -acc
+\ft I won't offend you.
+\ev
+\ru Не буду я больше обижать вас.
+\ELANBegin 00:16:49.567
+\ELANEnd 00:16:53.675
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_162
+\ref
+\tx Čeletkinde                  guːndʒim       unu          etteten                      eːγšette."
+\mb čele -t(E)kI -n(I)     =DE  goːn -DʒI -m   hun     -W   e   -Č   -DE       -tEn      eγše   -Č   -R      
+\ps n                           v              pron         v                            v                   
+\ge all  -all    -poss.3sg =ptl say  -fut -1sg 2pl.obl -acc neg -res -purp.cvb -poss.3pl offend -res -neg.cvb
+\ft And I will tell everyone not to offend you."
+\ph
+\gr etteten is not correct, should be edeten
+\ev
+\ru И всем скажу чтобы вас не обижали.
+\ELANBegin 00:16:53.675
+\ELANEnd 00:16:58.563
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_163
+\ref
+\tx "Čilkindejinen?                         Eniŋewnen             eːγsetčinni?"
+\mb čilki     -n    -DE       -J       =nEn  eniŋeː      -W   =nEn  eγše   -Č   -DʒI -nrI
+\ps v                                        n                      v                    
+\ge be.greedy -mult -purp.cvb -prfl.sg =emph grandmother -acc =emph offend -res -fut -2sg
+\ft "And will you be greedy? Will you offend the granny?".
+\ev
+\ru А жадничать? Бабушку будешь обижать?
+\ELANBegin 00:16:58.563
+\ELANEnd 00:17:05.362
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_165
+\ref
+\tx "Eteme,            eteme,             ajdịtta,   ajdịtta!"
+\mb e   -t(E) -m   -E  e   -t(E) -m   -E  ajdịt =DE  ajdịt =DE 
+\ps v                  v                  n          n         
+\ge neg -fut  -1sg -ep neg -fut  -1sg -ep truth =ptl truth =ptl
+\ft "I won't, I won't, really truly!".
+\ev
+\ru Не буду, не буду, правда, правда.
+\ELANBegin 00:17:05.362
+\ELANEnd 00:17:09.626
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_166
+\ref
+\tx Nan    čimakčar     belliten,           atallitan               ejdu ọratu       učukčaw.
+\mb ńaːn čimakčan -L  bel  -RI  -tEn      atal     -RI  -tEn      ejdu ọraːt -W   učukča  -W  
+\ps adv  n            v                   v                       quant n          adj         
+\ge and  mouse    -pl help -pst -poss.3pl take.off -pst -poss.3pl all  grass -acc twisted -acc
+\ft And the mice helped, took off all the twisted grass.
+\ph
+\gr clearly učukča is derived from ut- "turn", with the pf.ptcp, but with the suffix -k instead of -B which I've also come across in Sebjan; not quite knowing how best to
+gloss it I decided to leave it as a separate lexeme for the moment
+\ev
+\ru И мыши помогли, сняли всю траву закрученную.
+\ELANBegin 00:17:09.626
+\ELANEnd 00:17:16.997
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_167
+\ref
+\tx Nan    etikekeje        ečin      uŋ eːšeniken          gịrkašnan.
+\mb ńaːn etikeːn -kEːjE erroːčin  uŋ eːset       -nIkEn   gịrka -s(E)n -R(E)   -n(I)
+\ps adv  n              pron      v  v                    v                         
+\ge and  old.man -aug   prox.qual do glance.back -sim.cvb walk  -lim   -nonfut -3sg 
+\ft And the old man walked off, looking back like this.
+\ev
+\ru И старик оглядываясь пошел.
+\ELANBegin 00:17:16.997
+\ELANEnd 00:17:25.616
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_168
+\ref
+\tx Čimakčaraši       inimešešniː                  umekiče.
+\mb čimakčan -L  =sI   ińin  -sE  -s(E)n -R(E)   =Iː   umekič -E 
+\ps n                  v                               adv       
+\ge mouse    -pl =emph laugh -dur -lim   -nonfut =emph very   -ep
+\ft And the mice laughed very much for a long time.
+\ph
+\gr inimešešni = dolgo smejalisj
+\ev
+\ru А мыши смеялись сильно, долго
+\ELANBegin 00:17:25.616
+\ELANEnd 00:17:29.373
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_169
+\ref
+\tx Nan    urečilte     kojeːtnedde                  ịasčidda.
+\mb ńaːn urečilte      kojeːt  -nE     -D    -R(E)   ịa      -sčI   -D    -R(E)  
+\ps adv  adv           v                             v                           
+\ge and  no.difference look.at -intent -prog -nonfut do.what -conat -prog -nonfut
+\ft And they went anyway to see what (the others) are doing.
+\ph to me it sounds like iasčiddan, i.e. what the old man is doing, but Rimma was adamant about the 3pl
+\ev
+\ru И все равно ходили смотреть что они делают.
+\ELANBegin 00:17:29.373
+\ELANEnd 00:17:35.561
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_170
+\ref
+\tx Nan    ịamị etiken   emnidʒi      atịkan... atịkantakị    ečin      kojeːččoːtten            nan    ịrran,              ịamị
+\mb ńaːn ịamị etikeːn em   -RIdʒI   atịkan    atịkan    -t(E)kI erroːčin  kojeːt  -WEːČ -R(E)   -n(I) ńaːn hịr      -R(E)   -n(I) ịamị
+\ps adv  ?    n       v             n         n                 pron      v                           adv  v                      ?   
+\ge and  ptl  old.man come -ant.cvb old.woman old.woman -all    prox.qual look.at -gnr  -nonfut -3sg  and  be.angry -nonfut -3sg  ptl 
+
+\tx ịrran               umekič.
+\mb hịːr     -R(E)   -n(I) umekič
+\ps v                      adv   
+\ge be.angry -nonfut -3sg  very  
+\ft And the old man came to the old woman and looks (at her) like this, and gets angry, suddenly gets very angry.
+\ev
+\ru А этот старик пришел к старухе и смотрит так сердито, сердито очень.
+\ELANBegin 00:17:35.561
+\ELANEnd 00:17:47.196
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_171
+\ref
+\tx Nan    ač iγle      bidde,           atịkanaši        ịawda         toreweːtte,           nanaši      etikekeje
+\mb ńaːn ač  iːg   -LE  bi -D    -R(E)   atịkan    -E  =sI   ịak  -W   =DE  tore  -WEːČ -R       ńaːn =sI   etikeːn -kEːjE
+\ps adv  ptl n          v                n                   pron           v                    adv        n             
+\ge and  neg sound -prv be -prog -nonfut old.woman -ep =emph what -acc =ptl speak -gnr  -neg.cvb and  =emph old.man -aug  
+
+\tx maŋčiddan                        maŋčin              nan    guːnni:
+\mb maŋ     -(k)čI -D    -R(E)   -n(I) maŋ     -(k)čI -n(I) ńaːn goːn -n(I)
+\ps v                                  v                    adv  v         
+\ge be.hard -dur   -prog -nonfut -3sg  be.hard -dur   -3sg  and  say  -3sg 
+\ft And they were silent, the old woman doesn't say a word, and the old man bore it and bore it and said:
+\ev
+\ru без шума, молча старуха ничего не говорит и вот, старик терпел терпел и говорит
+\ELANBegin 00:17:47.196
+\ELANEnd 00:17:57.115
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_172
+\ref
+\tx "Erek iːmeje    čimakčaka...      čimakčajakarba           ipkettiš!"
+\mb erek hiː =mEjE čimakčan -KEn     čimakčan -jEkEn -L  -W   ipket  -RI  -s(I)    
+\ps pron pron      n                 n                        v                    
+\ge prox 2sg =ptl  mouse    -dim.int mouse    -dim   -pl -acc incite -pst -poss.2sg
+\ft "It turns out it's you who incited the mice!"
+\ev
+\ru Это оказывается ты мышей научила/наставила!"
+\ELANBegin 00:17:57.115
+\ELANEnd 00:18:04.798
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_173
+\ref
+\tx "Biː? ịadu     bi   ipkečiddʒim?
+\mb biː ịak  -DU  biː ipket  -E  -D    -DʒI -m  
+\ps pron pron      pron v                         
+\ge 1sg what -dat 1sg incite -ep -prog -fut -1sg
+\ft "Me? why would I incite them?
+\ev
+\ru Я, зачем я буду их натравлять?
+\ELANBegin 00:18:04.798
+\ELANEnd 00:18:09.881
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_174
+\ref
+\tx Nọŋartankke   inu          ereger dʒebukeč...    dʒeb... dʒeb... dʒebleŋgešte                       boːweːtte."
+\mb nọŋartan =kkE hin     -W   ereger dʒeb -WkEn -Č   dʒeb dʒeb dʒeb -LE -ŋ   -GE    -s(I)     =t(E) boː  -WEːČ -R(E)  
+\ps pron          pron         adv    v               v    v    v                                    v                 
+\ge 3pl      =ptl 2sg.obl -acc always eat  -caus -res eat  eat  eat  -nr -aln -desig -poss.2sg =ptl  give -gnr  -nonfut
+\ft They always feed you, give you food, right."
+\ph
+\gr wanted to say ʤebukečidʤoːtte, which accounts for the ACC on "you"
+\ev
+\ru Они же тебя всегда кормят, еду тебе дают.
+\ELANBegin 00:18:09.881
+\ELANEnd 00:18:18.305
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_175
+\ref
+\tx "Kurende!
+\mb kuren      =DE 
+\ps adv            
+\ge on.purpose =ptl
+\ft "On purpose!
+\ph
+\nt I don't quite understand what the sense of this is, it doesn't seem to fit with what follows.
+\ev
+\ru нарочно!
+\ELANBegin 00:18:18.305
+\ELANEnd 00:18:22.387
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_176
+\ref
+\tx Iduk          tabịč, iduk          tabịč aːnni,   tadụ     bičewu!
+\mb irek  -DUk(U) tabịč irek  -DUk(U) tabịč haː  -nrI tarak -DU  bi -čE     -W       
+\ps pron          adv   pron          adv   v         pron       v                   
+\ge which -abl    again which -abl    again know -2sg dist  -dat be -pf.ptc -poss.1sg
+\ft How (lit. where from) do you know that I was there!
+\ev
+\ru Откуда ты знаешь что я там был.
+\ELANBegin 00:18:22.387
+\ELANEnd 00:18:28.835
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_177
+\ref
+\tx Tawụr iː, iː  upkučeše!"
+\mb tawụr hiː hiː hupku -čE     -s(I)     -E 
+\ps pron  pron pron v                          
+\ge this  2sg 2sg learn -pf.ptc -poss.2sg -ep
+\ft It's you, you who taught them!"
+\ev
+\ru Это ты, тоы учила их!
+\ELANBegin 00:18:28.835
+\ELANEnd 00:18:33.749
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_178
+\ref
+\tx Iːsi      edʒi        tačịnnun           degšičewen deγsiče... deg... deg... desčiwe... iːši     edʒi
+\mb hiː =sI   e   -LI      tarrọːčịn =nun  *** *** deg deg *** hiː =sI   e   -LI     
+\ps pron      v            pron            ?   ?   v   v   ?   pron      v           
+\ge 2sg =emph neg -imp.2sg dist.qual =emph *** *** fly fly *** 2sg =emph neg -imp.2sg
+
+\tx tačịnnun           desčiweːčidgerekileːj!
+\mb tarrọːčịn =nun  desči -WEːČ -E  -D    -Gr(E) -kIl     =eː  
+\ps pron            v                                          
+\ge dist.qual =emph lie   -gnr  -ep -prog -hab   -proh.sg =emph
+\ft "Well, don't you lie around all over the place!
+\ev
+\ru А ты где попало не валяйся!
+\ELANBegin 00:18:33.749
+\ELANEnd 00:18:48.738
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_179
+\ref
+\tx Dọldanni,  etikeːn?
+\mb dọlda -nrI etikeːn
+\ps v          n      
+\ge hear  -2sg old.man
+\ft Do you hear, old man?
+\ev
+\ru Слышишь старик?
+\ELANBegin 00:18:48.738
+\ELANEnd 00:18:50.519
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_180
+\ref
+\tx Giekiw         desčiweːčiddʒin,                dʒeb... dʒebdʒidniken      desčiweːčiddʒin                 elke.
+\mb gịakị   -W   desči -WEːČ -E  -D    -DʒI -n(I) dʒeb dʒeb -D    -nIkEn   desči -WEːČ -E  -D    -DʒI -n(I) elke
+\ps pron         v                                v    v                   v                                ?   
+\ge various -acc lie   -gnr  -ep -prog -fut -3sg  eat  eat  -prog -sim.cvb lie   -gnr  -ep -prog -fut -3sg  rest
+\ft He lies around everywhere, as soon as he eats he lies around doing nothing.
+\ph
+\gr should be giekiLI
+\ev
+\ru Везде всегда валяется, как поесть так валяется, отдыхает.
+\ELANBegin 00:18:50.519
+\ELANEnd 00:18:56.590
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_181
+\ref
+\tx Tačịmụr    desčiweːčidmi                  nan    etenni         aːra         ịaka amŋalištakan                   čimakčaniː
+\mb tarrọːčịn desči -WEːČ -E  -D    -mI       ńaːn e   -t(E) -nrI haː  -R       ịak  amŋa  -(dU)LI -s(I)     =t(E)kEn čimakčan =Iː  
+\ps pron      v                               adv  v              v             pron n                                n             
+\ge dist.qual lie   -gnr  -ep -prog -cond.cvb and  neg -fut  -2sg know -neg.cvb what mouth -prol   -poss.2sg =restr   mouse    =emph
+
+\tx iːdʒin,         unet  ialigeš... ialiwušta iːdʒin."
+\mb iː    -DʒI -n(I) unet  iː    -DʒI -n(I)
+\ps v                adv   v               
+\ge enter -fut -3sg  still enter -fut -3sg 
+\ft You'll lie around like that and you won't know that a mouse is coming into your mouth and coming into other places!".
+\ph
+\gr ialigeš and ialiwušta are not correct, should be "iališta", iak-prol-poss.2sg=de
+\ev
+\ru Вот так будешь валяться и знать не будешь что мыши в рот тебе залезут и еще куда-нибудь залезут.
+\ELANBegin 00:18:56.590
+\ELANEnd 00:19:08.433
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_182
+\ref
+\tx Nan    ečin      eto    etikekeje        guːnni     "Tawụr, tawụr, tawụr.
+\mb ńaːn erroːčin  eto    etikeːn -kEːjE goːn -n(I) tawụr tawụr tawụr
+\ps adv  pron      pron   n              v          pron  pron  pron 
+\ge and  prox.qual this.R old.man -aug   say  -3sg  this  this  this 
+\ft And the old man says "So, so, so.
+\ev
+\ru И старик говорит, "вот вот вот"
+\ELANBegin 00:19:13.087
+\ELANEnd 00:19:19.145
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_183
+\ref
+\tx Kojeːnni,  iː  čelewen                aːnni    ile           bi   biddʒoːttem.
+\mb kojeː -nrI hiː čele -W   -E  -n(I)     haː  -nrI irek  -(dU)LE biː bi -D    -WEːČ -R(E)   -m  
+\ps v          pron n                       v         pron          pron v                          
+\ge watch -2sg 2sg all  -acc -ep -poss.3sg know -2sg which -loc    1sg be -prog -gnr  -nonfut -1sg
+\ft You see, you know everything, where I am.
+\ev
+\ru Видишь, ты все знаешь где я бываю
+\ELANBegin 00:19:19.145
+\ELANEnd 00:19:23.331
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_184
+\ref
+\tx Tawụr iː  upkuriš             čimakčajakarba           tačịn        minu         ilgičidatan."
+\mb tawụr hiː hupku -RI  -s(I)     čimakčan -jEkEn -L  -W   tarrọːčịn min     -W   ịlgị    -Č   -DE       -tEn     
+\ps pron  pron v                    n                        pron      pron         v                               
+\ge this  2sg learn -pst -poss.2sg mouse    -dim   -pl -acc dist.qual 1sg.obl -acc torment -res -purp.cvb -poss.3pl
+\ft It is you who taught the mice to torment me like that!"
+\ev
+\ru Это ты научила мышей чтобы они меня так мучили.
+\ELANBegin 00:19:23.331
+\ELANEnd 00:19:30.481
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_185
+\ref
+\tx Hošemide  goːweːtten.
+\mb osemi =DE  goːn -WEːČ -R(E)   -n(I)
+\ps ptl        v                       
+\ge azh   =ptl say  -gnr  -nonfut -3sg 
+\ft And he says:
+\ev
+\ru И прямо говорит
+\ELANBegin 00:19:33.068
+\ELANEnd 00:19:35.447
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_186
+\ref
+\tx "Kojeːtli       itli         tawụr.
+\mb kojeːt  -LI      it  -LI      tawụr
+\ps v                v            pron 
+\ge look.at -imp.2sg see -imp.2sg this 
+\ft Look at this.
+\ev
+\ru Смотри смотри вот
+\ELANBegin 00:19:35.447
+\ELANEnd 00:19:37.839
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_187
+\ref
+\tx Teːmi    aːnni    čelewente.
+\mb teːmi     haː  -nrI čele -W   -E  -n(I)     =t(E)
+\ps conj      v         n                            
+\ge therefore know -2sg all  -acc -ep -poss.3sg =ptl 
+\ft That is why you know everything.
+\ev
+\ru Поэтому ты все знаешь.
+\ELANBegin 00:19:37.839
+\ELANEnd 00:19:41.804
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_188
+\ref
+\tx 'ịa-ak   dọlban'
+\mb ịak  -ak  dọlbanị
+\ps pron      n      
+\ge what -*** night  
+
+\ft It's not night.
+\ph
+\nt this is the old man mocking the old woman, repeating her words
+\ev
+\ru не ночь же
+\ELANBegin 00:19:41.804
+\ELANEnd 00:19:44.846
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_189
+\ref
+\tx 'Ịak durin?'
+\mb ịak  duriː -n(I)    
+\ps pron n              
+\ge what fire  -poss.3sg
+\ft What fire?
+\ev
+\ru какой пожар?
+\ELANBegin 00:19:44.846
+\ELANEnd 00:19:48.096
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_190
+\ref
+\tx In      gurgese!"
+\mb hin     gurgeː -s(I)     -E 
+\ps pron    n                   
+\ge 2sg.obl work   -poss.2sg -ep
+\ft It's your work!"
+\ev
+\ru Это твое дело!
+\ELANBegin 00:19:48.096
+\ELANEnd 00:19:50.904
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_191
+\ref
+\tx Nan    tarak atịkan  guːnni:    "Tačịnda          biden,                 ịadʒinaši.
+\mb ńaːn tarak atịkan    goːn -n(I) tarrọːčịn =DE  bi -DE       -n(I)     ịa      -DʒI -n(I) =sI  
+\ps adv  pron  n         v          pron           v                      v                       
+\ge and  dist  old.woman say  -3sg  dist.qual =ptl be -purp.cvb -poss.3sg do.what -fut -3sg  =emph
+
+\ft And that old woman says: "Well, and let it be like that, so what.
+\ev
+\ru И эта старуха говорит: Да и будет пусть так, ну и что.
+\ELANBegin 00:19:50.904
+\ELANEnd 00:19:58.405
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_193
+\ref
+\tx Iːtken       tawụr iː  ineŋ inu ...  ineŋ ineŋ čelewen                bišiw            tačịnnun
+\mb hiː =t(E)kEn tawụr hiː ineŋ *** *... ineŋ ineŋ čele -W   -E  -n(I)     bi -RI       -W   tarrọːčịn =nun 
+\ps pron         pron  pron ?    ?   ?    ?    ?    n                       v                 pron           
+\ge 2sg =restr   this  2sg day  *** ***  day  day  all  -acc -ep -poss.3sg be -impf.ptc -acc dist.qual =emph
+
+\tx biddʒoːčinni               ešennide             gurgeːwčiweːtte           dʒebdejitken
+\mb bi -D    -WEːČ -R(E)   -nrI e   -R(E)   -nrI =DE  gurgeːwči -WEːČ -R       dʒeb -DE       -J       =t(E)kEn
+\ps v                           v                     v                        v                               
+\ge be -prog -gnr  -nonfut -2sg neg -nonfut -2sg =ptl work      -gnr  -neg.cvb eat  -purp.cvb -prfl.sg =restr  
+
+\tx mannụčiddʒoːčinni!"
+\mb manrụ -Č   -D    -WEːČ -R(E)   -nrI
+\ps v                                  
+\ge try   -res -prog -gnr  -nonfut -2sg
+\ft Only you spend the entire day like that without working, trying only to eat!"
+\ph
+\ev
+\ru Только ты день деньской целый день просто так проводишь, не работаешь, только есть себе стараешься.
+\ELANBegin 00:19:58.405
+\ELANEnd 00:20:13.940
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_194
+\ref
+\tx Nan    etikengeli       ọːdịda entekeje   neːimečileddeši.
+\mb ńaːn etikeːn -g(E)lI ọːdịda    entekeːje neːgi -mEČ -L    -D    -R(E)   =sI  
+\ps adv  n               adv       adv       v                                   
+\ge and  old.man -com    even.more strong    scold -rec -inch -prog -nonfut =emph
+\ft And (she and) the old man started to argue even more.
+\ev
+\ru И со стариком еще сильнее стали ругаться
+\ELANBegin 00:20:13.940
+\ELANEnd 00:20:18.711
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_195
+\ref
+\tx Nan    ulutmečileddeši.
+\mb ńaːn holu  -Č   -mEČ -L    -D    -R(E)   =sI  
+\ps adv  v                                        
+\ge and  chase -res -rec -inch -prog -nonfut =emph
+\ft And they started to chase each other
+\ev
+\ru И стали гоняться друг за другом.
+\ELANBegin 00:20:18.711
+\ELANEnd 00:20:22.897
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_196
+\ref
+\tx Etiken,  etiken   atịkam       uluweːtten                nan    nan    atịkan  mọːw     epkeniken,      etiken
+\mb etikeːn etikeːn atịkan    -W   holu  -WEːČ -R(E)   -n(I) ńaːn ńaːn atịkan    mọː  -W   hepken -nIkEn   etikeːn
+\ps n       n       n              v                         adv  adv  n         n         v               n      
+\ge old.man old.man old.woman -acc chase -gnr  -nonfut -3sg  and  and  old.woman tree -acc catch  -sim.cvb old.man
+
+\tx ńọːndʒiddʒoːttanaši.
+\mb ńọːn     -D    -WEːČ -R(E)   -n(I) =sI  
+\ps v                                       
+\ge run.away -prog -gnr  -nonfut -3sg  =emph
+\ft The old man, the old man chases the old woman, and the woman grabbing a stick, the old man runs away.
+\ph
+\gr ńọːndʒiddʒoːttanaši = nachinaet ubegatj; *ńọːndʒilloːttanaši = NO, not possible; but then she said ńọːndʒiddʒoːttanaši "ubegaet"
+\ev
+\ru Старик старуху гоняет, и когда старуха палку схватит, старик начинает убегать.
+\ELANBegin 00:20:24.704
+\ELANEnd 00:20:34.402
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_197
+\ref
+\tx Tačịkan ńọːmattatkeːnnun                   nan    epkelder,           nan    ečin      ọkaːt ańčịndụlan
+\mb tačịkan   ńọːmat -R(E)   =t(E)kEn =eː   =nun  ńaːn hepken -(E)ldE -r   ńaːn erroːčin  ọkaːt ańčịn        -(dU)LE -n(I)    
+\ps adv       v                                   adv  v                   adv  pron      n     rel.n                         
+\ge like.that jump   -nonfut =restr   =emph =emph and  catch  -soc    -3pl and  prox.qual river space.beside -loc    -poss.3sg
+
+\tx epkelderiten,                 nan    ečin      meːrur            ušmettetkeːnnun                           umekiče.
+\mb hepken -(E)ldE -RI  -tEn      ńaːn erroːčin  meːn -L  -WUr     us       -mEČ -R(E)   =t(E)kEn =eː   =nun  umekič -E 
+\ps v                             adv  pron      pron              v                                          adv       
+\ge catch  -soc    -pst -poss.3pl and  prox.qual refl -pl -prfl.pl pull.out -rec -nonfut =restr   =emph =emph very   -ep
+\ft And they ran (for a long time) like this and grabbed each other, and they grabbed each other like this by the side of the river, and pulled each other very hard.
+\gr ńoːmattatkennun = dolgo begali;
+\nt
+\ev
+\ru И вот так бегали и схватились вот так возле речки схватились и друг друга дергали сильно.
+\ELANBegin 00:20:34.402
+\ELANEnd 00:20:48.325
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_198
+\ref
+\tx Nan    ukel...   ukelle            umekič ọkaːt ańčịndụlan            nan    tala          tikriː.
+\mb ńaːn ukel      ukel      -R(E)   umekič ọkaːt ańčịn        -(dU)LE -n(I)     ńaːn tarak -(dU)LE tik  -R(E)   =Iː  
+\ps adv  v         v                 adv    n     rel.n                          adv  pron          v                 
+\ge and  roll.away roll.away -nonfut very   river space.beside -loc    -poss.3sg and  dist  -loc    fall -nonfut =emph
+
+\ft And they rolled around a lot by the side of the river and fell in.
+\ev
+\ru И покатились сильно возле реки и упали.
+\ELANBegin 00:20:48.325
+\ELANEnd 00:20:55.150
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_199
+\ref
+\tx Čimakčaraši       kojeːččoːtte        umekičeː    ečin.
+\mb čimakčan -L  =sI   kojeːt  -WEːČ -R(E)   umekič =eː   erroːčin 
+\ps n                  v                     adv          pron     
+\ge mouse    -pl =emph look.at -gnr  -nonfut very   =emph prox.qual
+\ft And the mice watched very attentively like this.
+\ev
+\ru А мыши смотрели внимательно, вот так.
+\ELANBegin 00:20:55.150
+\ELANEnd 00:20:58.660
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_200
+\ref
+\tx Nanaši      "Kojeːtlille    tawụre,   tawụre    kušikečidde,           ńumerdečekene,                     tawụr, tawụr, tawụre,   tawụr
+\mb ńaːn =sI   kojeːt  -(LI)lrE tawụr -E  tawụr -E  kusi -kEČ  -D    -R(E)   ńumer          -DE       =čEkEn -E  tawụr tawụr tawụr -E  tawụr
+\ps adv        v                pron      pron      v                        ?                                   pron  pron  pron      pron 
+\ge and  =emph look.at -imp.2pl this  -ep this  -ep beat -mult -prog -nonfut be.frightening -adjr.exp =emph  -ep this  this  this  -ep this 
+
+\tx dịllaneː                tiːke baγanụkandʒine!
+\mb dịl  -(dU)LE -n(I)     =eː   tiek bagan -WkEn -DʒI -n(I) -E 
+\ps n                            adv  v                         
+\ge head -loc    -poss.3sg =emph now  hit   -caus -fut -3sg  -ep
+\ft And so: "Look at that, there, they are fighting, oh how terrible, there, there, there, there, now he will beat her over the head!
+\ph
+\nt this again should be listened to: like a sports journalist commenting on an exciting football game...
+\ev
+\ru И вот: смотрите вот вот дерутся, как страшно вот вот вот вот по голове сейчас стукнет!
+\ELANBegin 00:20:58.660
+\ELANEnd 00:21:09.125
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_201
+\ref
+\tx Eniŋejekene           kojeːtlille,    oo, ọkaːtli       tikre!
+\mb eniŋeː      -jEkEn -E  kojeːt  -(LI)lrE oo ọkaːt -(dU)LI tik  -R(E)  
+\ps n                      v                interj n             v           
+\ge grandmother -dim   -ep look.at -imp.2pl oh river -prol   fall -nonfut
+\ft The granny, look, oh, they fell into the river!
+\ph
+\gr Rimma said it was kojeːtli, and translated it like that, but I do hear kojetlil, so I think it's the 2pl imperative, which also makes the most sense
+\ev
+\ru Старушка, смотри, в реку упали.
+\ELANBegin 00:21:09.125
+\ELANEnd 00:21:14.117
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_202
+\ref
+\tx Kojeːtneγere,                 tawụr, tala          kojeːt..."
+\mb kojeːt  -nE     -GEr        -E  tawụr tarak -(dU)LE kojeːt 
+\ps v                               pron  pron          v      
+\ge look.at -intent -imp.1pl.in -ep this  dist  -loc    look.at
+\ft Let's go to look, let's look there..."
+\ev
+\ru Пойдем смотреть,
+\ELANBegin 00:21:14.117
+\ELANEnd 00:21:18.537
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_203
+\ref
+\tx Ịamị kojeːčidʒille,                 ịamịịː  ọkaːtla       ọllal    dʒuːr ečin      uŋedde,
+\mb ịamị kojeːt  -E  -D    -E  -L    -R(E)   ịamị =Iː   ọkaːt -(dU)LE ọlra -L  dʒoːr erroːčin  uŋ -E  -D    -R(E)  
+\ps ?    v                                   ?          n             n        num   pron      v                   
+\ge ptl  look.at -ep -prog -ep -inch -nonfut ptl  =emph river -loc    fish -pl two   prox.qual do -ep -prog -nonfut
+
+\tx ulutmečidde.
+\mb holu  -Č   -mEČ -D    -R(E)  
+\ps v                            
+\ge chase -res -rec -prog -nonfut
+\ft And they see, why, in the river two fish are chasing each other like this.
+\ev
+\ru И видят они в речке две рыбы страшно друг за другом гоняются.
+\ELANBegin 00:21:18.537
+\ELANEnd 00:21:28.755
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_204
+\ref
+\tx Nan    tačịn        etiken   atịkan  ọllač    ọːditan,           ọllal    ọːditan.
+\mb ńaːn tarrọːčịn etikeːn atịkan    ọlra -Č   ọː     -RI  -tEn      ọlra -L  ọː     -RI  -tEn     
+\ps adv  pron      n       n         n         v                     n        v                    
+\ge and  dist.qual old.man old.woman fish -ins become -pst -poss.3pl fish -pl become -pst -poss.3pl
+\ft And so the old man and the old woman turned into fish.
+\ph
+\gr ollal oːditan is correct
+\ev
+\ru И вот так старик со старухой рыбы стали.
+\ELANBegin 00:21:28.755
+\ELANEnd 00:21:36.633
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_205
+\ref
+\tx Nan    teːmi    goːweːtte           edʒille     ọːkta    meːr     dọːliwur             neːimetkerekille.
+\mb ńaːn teːmi     goːn -WEːČ -R(E)   e   -(LI)lrE ọːk  =DE  meːn -L  dọː    -(dU)LI -WUr     neːgi -mEČ -Gr(E) -kIllE  
+\ps adv  conj      v                  v            pron      pron     rel.n                   v                         
+\ge and  therefore say  -gnr  -nonfut neg -imp.2pl when =ptl refl -pl inside -prol   -prfl.pl scold -rec -hab   -proh.pl
+\ft And that is why they say you must never argue among yourselves.
+\ev
+\ru И поэтому говорят никогда между собой не ругаетесь.
+\ELANBegin 00:21:36.633
+\ELANEnd 00:21:41.612
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_206
+\ref
+\tx Nan    kusikečilmi                  ọkaːtla       tikčiš        uː  nan    ọllač    ọːdʒ...  ọllal    ọːdʒiš.
+\mb ńaːn kusi -kEČ  -E  -L    -mI       ọkaːt -(dU)LE tik  -DʒI -s   huː ńaːn ọlra -Č   ọː     -D    ọlra -L  ọː     -DʒI -s  
+\ps adv  v                              n             v              pron adv  n         v            n        v               
+\ge and  beat -mult -ep -inch -cond.cvb river -loc    fall -fut -2pl 2pl and  fish -ins become -prog fish -pl become -fut -2pl
+\ft And if you fight you will fall into the river and you will turn into fish.
+\ev
+\ru И вот когда будете драться упадете в реку и рыбами станете.
+\ELANBegin 00:21:41.612
+\ELANEnd 00:21:46.279
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_207
+\ref
+\tx Nanaši      ereger ečinteken          uŋedgeredʒiš,            teːmačadgaradʒiš.
+\mb ńaːn =sI   ereger erroːčin  =t(E)kEn uŋ -D    -Gr(E) -DʒI -s   teːmat -D    -Gr(E) -DʒI -s  
+\ps adv        adv    pron               v                         v                            
+\ge and  =emph always prox.qual =restr   do -prog -hab   -fut -2pl bathe  -prog -hab   -fut -2pl
+\ft And then you will always do only like this, always swim.
+\ph the first word is said so fast it could also be something else...
+\ev
+\ru И всегда вот так будете делать, плавать.
+\ELANBegin 00:21:46.279
+\ELANEnd 00:21:52.090
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_208
+\ref
+\tx Nan    tare      ńịmkan.
+\mb ńaːn tarak -E  ńịmkan
+\ps adv  pron      n     
+\ge and  dist  -ep tale  
+\ft And that's the tale.
+\ev
+\ru И вот, все сказка.
+\ELANBegin 00:21:52.090
+\ELANEnd 00:21:56.978
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_209
+\ref
+\tx
+\ft Interesting, good.
+\ev
+\ru
+\ELANBegin 00:21:56.978
+\ELANEnd 00:22:00.423
+\ELANParticipant BP
+
+\id Grigoreva_NI_chimakchar_210
+\ref
+\tx Nọŋartanaši       nukujal      ọːdịtan.
+\mb nọŋartan -E  =sI   nukuja   -L  ọː     -RI  -tEn     
+\ps pron               ?            v                    
+\ge 3pl      -ep =emph decrepit -pl become -pst -poss.3pl
+\ft They became old fish.
+\ph
+\nt nukuja is the word used for salmonid fish after they've spawned, when they're old and decrepit and about to die, cf. Solodikova_RM_childhood_92
+\ev
+\ru Старыми рыбами стали.
+\ELANBegin 00:22:00.423
+\ELANEnd 00:22:04.128
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_211
+\ref
+\tx
+\ft they became "mukal"?
+\ev
+\ru
+\ELANBegin 00:22:04.128
+\ELANEnd 00:22:05.506
+\ELANParticipant BP
+
+\id Grigoreva_NI_chimakchar_212
+\ref
+\tx Nukujal.
+\mb nukuja   -L 
+\ps ?           
+\ge decrepit -pl
+\ft "Nukujal".
+\ev
+\ru
+\ELANBegin 00:22:05.506
+\ELANEnd 00:22:07.027
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_213
+\ref
+\tx
+\ft They became nukujal?
+\ev
+\ru
+\ELANBegin 00:22:07.027
+\ELANEnd 00:22:08.405
+\ELANParticipant BP
+
+\id Grigoreva_NI_chimakchar_214
+\ref
+\tx Nu,    uŋel,        etiken   atịkan  nukujal      ọːdịtan.
+\mb nu     uŋ        -L  etikeːn atịkan    nukuja   -L  ọː     -RI  -tEn     
+\ps ptl    n             n       n         ?            v                    
+\ge well.R something -pl old.man old.woman decrepit -pl become -pst -poss.3pl
+\ft Well, the old man and woman turned into old fish.
+\ev
+\ru Старыми рыбами стали
+\ELANBegin 00:22:08.405
+\ELANEnd 00:22:14.333
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_215
+\ref
+\tx Nan    teːmi    goːweːtte,          nukujal      ọːdawụr.
+\mb ńaːn teːmi     goːn -WEːČ -R(E)   nukuja   -L  ọː     -DE       -WUr    
+\ps adv  conj      v                  ?            v                        
+\ge and  therefore say  -gnr  -nonfut decrepit -pl become -purp.cvb -prfl.pl
+\ft And that is why they say, you will become old fish.
+\ev
+\ru И поэтому говорят, станете старыми рыбами.
+\ELANBegin 00:22:17.791
+\ELANEnd 00:22:21.587
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_216
+\ref
+\tx Bi   dʒọŋčịram           kučuken bimi,        kušikečiddʒoːttu             bu     kụŋal,   meːn dọːliwur
+\mb biː dʒọŋčị   -R(E)   -m   kočuken bi -mI       kusi -kEČ  -D    -WEːČ -(R)U   buː    kụŋa  -L  meːn dọː    -(dU)LI -WUr    
+\ps pron v                     adj     v            v                              pron   n         pron rel.n                  
+\ge 1sg remember -nonfut -1sg small   be -cond.cvb beat -mult -prog -gnr  -1pl.ex 1pl.ex child -pl refl inside -prol   -prfl.pl
+
+\tx neːimeči...
+\mb neːgi -mEČ
+\ps v         
+\ge scold -rec
+\ft I remember when we were small, we children fought, argued among ourselves...
+\ev
+\ru Я помню, когда мы были маленкие, дрались мы между собой, дети, между собой ругались.
+\ELANBegin 00:22:21.587
+\ELANEnd 00:22:26.865
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_217
+\ref
+\tx Nan    atịkar      goːweːtte:          "Ọddilleši             neːimettewur                   ili  kušikettewur                 tawụr
+\mb ńaːn atịkan    -L  goːn -WEːČ -R(E)   ọd   -D    -(LI)lrE =sI   neːgi -mEČ -DE       -WUr     ili  kusi -kEČ  -DE       -WUr     tawụr
+\ps adv  n             v                  v                         v                             conj v                             pron 
+\ge and  old.woman -pl say  -gnr  -nonfut stop -prog -imp.2pl =emph scold -rec -purp.cvb -prfl.pl or.R beat -mult -purp.cvb -prfl.pl this 
+
+\tx nukujal      ọːdʒịš!".
+\mb nukuja   -L  ọː     -DʒI -s  
+\ps ?            v               
+\ge decrepit -pl become -fut -2pl
+\ft And the old women would say: "Stop arguing or fighting, or you will turn into old fish!".
+\ev
+\ru И бабушки говорили: "Прекращайте ругаться или драться, а то старыми рыбами станете".
+\ELANBegin 00:22:26.865
+\ELANEnd 00:22:33.638
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_219
+\ref
+\tx Ečin.
+\mb erroːčin 
+\ps pron     
+\ge prox.qual
+\ft Like that.
+\ev
+\ru Вот так.
+\ELANBegin 00:22:33.638
+\ELANEnd 00:22:35.575
+\ELANParticipant
+
+\id Grigoreva_NI_chimakchar_220
+\ref
+\tx Tiːk erek?
+\mb tiek erek
+\ps adv  pron
+\ge now  prox
+\ft Now this?
+\ev
+\ru Сейчас это?
+\ELANBegin 00:22:38.825
+\ELANEnd 00:22:40.086
+\ELANParticipant
+
+
+\ELANMediaURL file:///D:/Brigitte PAKENDORF/My Documents/LANGUAGE PROJECTS/Even
+project/fieldwork_Kamchatka_2016/Narrative_recordings/15_Grigoreva_NI_chamakchar/Grigoreva_NI_chamakchar_120709.WAV
+\ELANMediaMIME audio/x-wav

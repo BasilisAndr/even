@@ -1,0 +1,215 @@
+\_sh v3.0  1088 Text
+
+\id Stepanov_AA_den'_olenovoda_000_metadata
+\ref Recorded on 12 March 2008 in Sebjan-Küöl by Brigitte Pakendorf in the kitchen of his house, with his little grandson present –
+occasional sounds of the grandson banging a bowl of cookies on the table, riding his little bike, and Afanasij Afanas’evič was
+playing with some sort of instrument and also occasionally knocked that on the table. BP was the only one present. One
+recording, but cut out little narratives in Even into individual files.
+\qu Transcribed by BP, Russian translation with Ija Krivoshapkina, glossed by BP. Funding by Max Planck Society (MPRG on Comparative
+Population Linguistics). Speaker abbreviation = AAS
+\ref Afanasij Afanas'evič was 56 years old at the time of recording, used to be a reindeer herder, then glava of the village, owned one of
+the shops in the village at the time of recording. Brother of Zoja Afanas'evna Stepanova.
+
+\id Stepanov_AA_den'_olenovoda_01
+\ref 0:01
+\tx Ebedit          ukčemmi,        ebedit          teːleŋmi         erbečen
+\mb ewen -DI   -Č   ukčen -mI       ewen -DI   -Č   teːleŋ -mI       erroːčin 
+\ps n               v               n               v                pron     
+\ge Even -adjr -ins tell  -cond.cvb Even -adjr -ins tell   -cond.cvb prox.qual
+
+\ft To tell it in Even, to narrate in Even, like this.
+\ru По-эвенски рассказать, по-эвенски повествовать так.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_den'_olenovoda_02
+\ref 0:13
+\tx Ńụčịdịt     goːmi          mart    ịlaːn ọdọddọkọn                    ńultin
+\mb ńụča    -DI   -Č   goːn -mI       mart    ịlaːn ọd   -E  -D    -REk      -E  -n(I)     ńulten
+\ps n                  v              n       ?     v                                      n     
+\ge Russian -adjr -ins say  -cond.cvb March.R month stop -ep -prog -cond.cvb -ep -poss.3sg sun   
+
+\tx ńọmọllọkọn,                     ineŋi ŋọnọmọllọkọn              ebel     omen tordu
+\mb ńam     -E  -L    -REk      -E  -n(I)     ineŋi ŋọnamal       -REk      -E  -n(I)     ewen -L  omen tor   -DU 
+\ps v                                         n     v                                     n        num  n         
+\ge be.warm -ep -inch -cond.cvb -ep -poss.3sg day   become.longer -cond.cvb -ep -poss.3sg Even -pl one  earth -dat
+
+\tx čakụptụdʒụr         hebdʒekidʒek     ọːwrar,              ọːwrarịtan.
+\mb čak    -E  -B   -RIdʒI   -L  hebdʒek   -E  -ČEk ọː     -Gr(E)      -r   ọː     -Gr(E) -RI  -tEn     
+\ps v                            v                  v                       v                           
+\ge gather -ep -med -ant.cvb -pl celebrate -ep -nr  become -hab.nonfut -3pl become -hab   -pst -poss.3pl
+\ft When the month of March, to say it in Russian, ends, when the sun gets warmer and the days become longer, Evens gathered in
+one place and made a holiday.
+\ru Сказать по-русски когда заканчивался март месяц, когда солнц нагревается, день становится длиннее, эвены собравшись в
+одном месте устраивали праздник.
+
+\id Stepanov_AA_den'_olenovoda_03
+\ref 0:34
+\tx Tarak hebdʒekiček        enni amarra         slet_olenovodov             gerbe ọːrịn,            ineŋin
+\mb tarak hebdʒek   -i   -ČEk amar   -(dU)LE slet_olenovodov             gerbe ọː     -RI  -n(I)     ineŋ -E  -n(I)    
+\ps pron  v                   n              ?                           n     v                     n                 
+\ge dist  celebrate -ipf -nr  behind -loc    meeting.of.reindeer.herders name  become -pst -poss.3sg day  -ep -poss.3sg
+
+\tx ọːrịn.
+\mb ọː     -RI  -n(I)    
+\ps v                    
+\ge become -pst -poss.3sg
+
+\ft This celebration later on was named the Meeting of the Reindeer-Herders, became the day (of the reindeer herders).
+\ru Этот праздник потом стал называться слет оленоводов, стал днем (оленоводов).
+\ph
+\gr it is not clear what he meant to say with "enni", Ija Krivoshapkina also didn't know
+\nt the day was called "slet olenovodov" in Soviet times, and is now called "den' olenovodov"
+
+\id Stepanov_AA_den'_olenovoda_04
+\ref 0:43
+\tx Tadụ     ọrọlčịmŋal      ịbgọ ọrmụr,                 ịbgọ ńọgụhụtụːr
+\mb tarak -DU  ọrọlčị        -mŋE  -L  ịbgọ ọrọn              -WUr     ịbgọ ńọgụhụt       -WUr    
+\ps pron       v                       ?    n                          ?    n                     
+\ge dist  -dat herd.reindeer -agnr -pl good domestic.reindeer -prfl.pl good lead.reindeer -prfl.pl
+
+\tx ụčakụːr            umuridʒur              dʒe   iečimekkereridnen.
+\mb ụčak            -WUr     em   -U    -RIdʒI   -L  dʒe    ie       -sčI   -mEČ -Gr(E) -RI  -tEn     
+\ps ?                        v                       ptl    v                                         
+\ge riding.reindeer -prfl.pl come -caus -ant.cvb -pl well.Y overtake -conat -rec -hab   -pst -poss.3pl
+
+\ft There reindeer herders brought their good reindeer, their good lead reindeer, their good riding reindeer and compete (with
+each other).
+\ru Туда оленоводы приведя своих хороших оленй своих хороших передовых оленей, верховых оленей, соревновались.
+\ph
+\gr
+\gr Ija Krivoshapkina suggested that the "-hut" ending in ńọgụhụt was the Sakha agent nominalizer -SIt, but I believe that that is
+restricted to humans, so it doesn't really make sense to me
+\nt
+
+\id Stepanov_AA_den'_olenovoda_05
+\ref 0:56
+\tx Tar... tarbač      dọlbanịŋman                   heːdʒewreridnen.
+\mb tarak tarbač       dọlbanị -ŋ   -W   -E  -n(I)     heːdʒe         -Gr(E) -RI  -tEn     
+\ps pron  adv          n                               v                                   
+\ge dist  in.that.case night   -aln -acc -ep -poss.3sg circular.dance -hab   -pst -poss.3pl
+
+\ft Then they used to dance the "hedje" all night.
+\ru Потом всю ночь танцевали хэдже.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_den'_olenovoda_06
+\ref 1:00
+\tx Tačịn       hebieskej vlast'  vremjadun             emie   slet_olenovodov             goːniken      mart
+\mb tarọːčịn  hebieskej vlast'  vremja -DU  -n(I)     emie   slet_olenovodov             goːn -nIkEn   mart   
+\ps pron      adj       n       n                     adv    ?                           v             n      
+\ge dist.qual Soviet.Y  power.R time.R -dat -poss.3sg also.Y meeting.of.reindeer.herders say  -sim.cvb March.R
+
+\tx manụddakan                                toŋeːrdu    mutŋi            ọːwran.
+\mb man    -W     -D    -REk      -E  -n(I)     toŋeːr -DU  mut    -ŋI        ọː     -Gr(E)      -n(I)
+\ps v                                           n           pron              v                       
+\ge finish -advrs -prog -cond.cvb -ep -poss.3sg lake   -dat 1pl.in -pred.poss become -hab.nonfut -3sg 
+
+\ft During the Soviet era our so-called Meeting of the Reindeer Herders also takes place on the lake when March ends.
+\ru Так во времена советской власти слет оленоводов тоже наш бывает на озере, когда заканчавается март.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_den'_olenovoda_07
+\ref 1:16
+\tx Họː aj   hebdʒekidʒek      biwren,         tala          họːja ŋiː ńimerel         emgerer,
+\mb họː  aj   hebdʒek   -i  -ČEk bi -Gr(E) -n(I) tarak -(dU)LE họːja ŋiː ńimer     -E  -L  em   -Gr(E) -r  
+\ps adv  adj  v                  v               pron          quant pron n                 v               
+\ge very good celebrate -ep -nr  be -hab   -3sg  dist  -loc    many  who neighbour -ep -pl come -hab   -3pl
+
+\tx hontede    torelduk             emgerer.
+\mb honte =DE  tor   -E  -L  -DUk(U) em   -Gr(E) -r  
+\ps adj        n                     v               
+\ge other =ptl earth -ep -pl -abl    come -hab   -3pl
+
+\ft It is (always, usually) a very good holiday, there come very many families, they even come from other places.
+\ru Бывает очень хороший праздник, туда приходит много семей, приезжают из других мест.
+\ph it actually sounds like he says họːja ni...m... as if he's stuttering a bit, thinking about how to say 'families' in Even
+\gr
+\nt
+
+\id Stepanov_AA_den'_olenovoda_08
+\ref 1:29
+\tx Ineŋide    ńultin ńamalgaran,                    ineŋi ŋọnọmọlgaran,              họː aj
+\mb ineŋi =DE  ńulten ńam     -E  -L    -Gr(E) -E  -n(I) ineŋi ŋọnamal       -Gr(E)      -E  -n(I) họː  aj  
+\ps n          n      v                                  n     v                                   adv  adj 
+\ge day   =ptl sun    be.warm -ep -inch -hab   -ep -3sg  day   become.longer -hab.nonfut -ep -3sg  very good
+
+\tx biwren.
+\mb bi -Gr(E)      -n(I)
+\ps v                   
+\ge be -hab.nonfut -3sg 
+
+\ft The sun gets warmer, the days longer, it is (usually) very good.
+\ru И день солнце теплеет, день удлиняется, бывает очень хорошо.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_den'_olenovoda_09
+\ref 1:42
+\tx Otton tadụ     haːmaj, ee, ịbgọ ọrọlčịmŋalbụ       heŋ... họː ńarịlbụ,    ahalbụ       tadụ
+\mb otton tarak -DU  samyj  ee ịbgọ ọrọlčị        -mŋE  -L  -W   họː  ńarị -L  -W   asị   -L  -W   tarak -DU 
+\ps ?     pron       adj    interj ?    v                            adv  n             n              pron      
+\ge dp.Y  dist  -dat most.R eh good herd.reindeer -agnr -pl -acc very man  -pl -acc woman -pl -acc dist  -dat
+
+\tx prizalbu            boːwrer,             nagradalbụ     boːwrer,             tadụ     ŋiː ịbgọt     gurgeːwčiče
+\mb priz    -E  -L  -W   boː  -Gr(E)      -r   nagrada -L  -W   boː  -Gr(E)      -r   tarak -DU  ŋiː ịbgọ -Č   gurgeːwči -čE    
+\ps n                    v                     n                v                     pron       pron n         v                
+\ge prize.R -ep -pl -acc give -hab.nonfut -3pl prize   -pl -acc give -hab.nonfut -3pl dist  -dat who good -ins work      -pf.ptc
+
+\tx gurgelken,    ee tar   mụdakča      gurgeːj         ịbgọt     mụdakča      bejeldu,        gurgewur
+\mb gurgeː -lkEn ee tarak mụdak  -čE     gurgeː -J       ịbgọ -Č   mụdak  -čE     bej -E  -L  -DU  gurgeː -WUr    
+\ps n            interj pron  v              n               n         v              n                n              
+\ge work   -prop eh dist  finish -pf.ptc work   -prfl.sg good -ins finish -pf.ptc man -ep -pl -dat work   -prfl.pl
+
+\tx ịbgọt     mụdakča      bejeldu.
+\mb ịbgọ -Č   mụdak  -čE     bej -E  -L  -DU 
+\ps n         v              n               
+\ge good -ins finish -pf.ptc man -ep -pl -dat
+
+\ft Well and there the best reindeer herders, the best men and women, there they give prizes, they give prizes (nagrady) to those
+people who did good work, to those who finished their work well.
+\ru Ну там самых хороших оленоводов, самых мужчин, женщин, там призы дают, награды дают людям которые хорошо
+закончили свою работу.
+
+\id Stepanov_AA_den'_olenovoda_10
+\ref 2:09
+\tx Biː ebedit        kamera dʒulgidedun               herkeŋnerem,                  teːmi    họːjat
+\mb biː ewen -DI -Č   kamera dʒul  -gIdE -DU  -n(I)     herkeń     -Gr(E) -R(E)   -m   teːmi     họːja -Č  
+\ps pron v             ?      rel.n                      v                              conj      quant     
+\ge 1sg Even -vr -ins camera front -part -dat -poss.3sg be.ashamed -hab   -nonfut -1sg therefore many  -ins
+
+\tx họːtawraram                   ńọkadịt       ńụčịdịt     torelbu            torehŋererem.
+\mb họːta        -Gr(E) -R(E)   -m   ńọka  -DI   -Č   ńụča    -DI   -Č   tore  -n  -L  -W   tore  -s(E)n -Gr(E) -m  
+\ps v                                n                n                  v                  v                       
+\ge get.confused -hab   -nonfut -1sg Sakha -adjr -ins Russian -adjr -ins speak -nr -pl -acc speak -lim   -hab   -1sg
+
+\ft I am shy (about speaking) Even in front of the camera, therefore I make many mistakes, say Sakha and Russian words.
+\ru Я по-эвенски перед камерой стесняюсь, поэтому много ошибаюсь, говорю якутские и русские слова.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_den'_olenovoda_11
+\ref 2:24
+\tx Otton kameradu    omneken        dʒoːreken       toreče       bejdu    họː herkehnimdes,              ọnọn
+\mb otton kamera -DU  omen -REkEn    dʒoːr -REkEn    tore  -čE     bej -DU  họː  herkeń     -RI       -mdEs ọnọn       
+\ps ?     n           num            num             v             n        adv  v                          ?          
+\ge dp.Y  camera -dat one  -iter.adv two   -iter.adv speak -pf.ptc man -dat very be.ashamed -impf.ptc -sml  therefore.Y
+
+\tx če...
+\mb če   
+\ps ptl  
+\ge ptl.Y
+\ft Well, a person who has spoken in front of a camera once or twice is very shy, therefore...
+\ru Ну, говорившему 1, 2 раза в камеру очень стеснительно/стыдно, поэтому...
+\ph
+\gr (March 2008) herkehnimdes - this looks like herken-s(E)n-RI, Limitative + Imperfective Participle of the root herken-
+'be.ashamed'; herkehnimdes = kak budto stydno; (March 2010) I have now analysed herkehnimdes as the imperfective participle
+of a stative verb herken 'be ashamed', since this fits the pattern for stative verbs, cf. mahŋị, ńahmị etc
+\nt

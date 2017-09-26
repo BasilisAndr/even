@@ -1,0 +1,2241 @@
+\_sh v3.0  1082 Text
+
+\id Solodikov_Artem_Managic_000_metadata
+\ref Recorded on 18 June 2009 on the Managych in Central Kamchatka by Natalia Aralova and Brigitte Pakendorf. This recording was
+done in the traditional fishing camp on the Managič river (Russian version of the name = Manyč), where AS lives year round
+together with his mother, her partner, his two brothers, a 19-year-old niece, and children of pre-school age; in the summer, the camp
+fills up with further children. AS was sitting outside making a bridle for his horse when we asked him to tell us something in Even; it
+was a fairly windstill afternoon, and most of the children were far away, so that it was fairly quiet. However, AS's 8-year old daughter
+(Alexandra Solodikova) came up after a few minutes to see what we were doing; she can be seen in the video and also heard
+whispering and singing and banging her heels on the generator she was sitting on, and our whispered admonishments for her to be
+quiet can probably also be heard. Further noises are a horse chomping grass, possibly horses snorting and/or whinnying, and dogs
+barking, mosquitoes, as well as AS's hammering while he works. NA held the microphone of the Marantz recorder in her hand, sitting
+on the same 'bench' (an unfunctional sled) as AS; BP kept track of the video camera, which was on a tripod a bit further away.
+\qu ???? Transcribed by NA with Rimma Maksimovna Egorova, translated by Elena Nikolaevna Cherkanova, glossed by NA. Funding by the
+Volkswagen Foundation (DoBeS grant). Speaker abbreviation = ANS
+\ref Artem Nikolaevich Solodikov was born in January 1958, so he was 51 at the time of the recording. He has 8 years of schooling (?
+"srednee obrazovanie") and worked all his life as a hunter, first for the state farm, later on his own account. He is the son of Evdokija
+Grigorevna Adukanova.
+
+\id Solodikov_Artem_Managic_001
+\tx Znachit,         Solodikov                   Artem Nikilaevich  nam...
+\mb
+\ge
+
+\ELANBegin 00:00:04.040
+\ELANEnd 00:00:09.204
+\ELANParticipant BP
+\ev
+\ru Значит, Солодиков Артем Николаевич нам
+
+\id Solodikov_Artem_Managic_002
+\tx Bi   bihem           Artem.
+\mb biː bi -R(E)   -m   Artem
+\ps pron v               ?    
+\ge 1sg be -nonfut -1sg Artem
+
+\ft I am Art'om
+\ph
+\gr
+\nt
+\qu
+\ELANBegin 00:00:09.204
+\ELANEnd 00:00:12.298
+\ELANParticipant AS
+\ev
+\ru Я Артём.
+
+\id Solodikov_Artem_Managic_003
+\tx Tiːtel  ọrdụ               gurgeːwčiriwukene               dʒulle.
+\mb tiːtel   ọrọn              -DU  gurgeːwči -RI  -W        =kEnE  dʒul  -(dU)LE
+\ps adv      n                      v                               rel.n        
+\ge long.ago domestic.reindeer -dat work      -pst -poss.1sg =contr front -loc   
+
+\ft Long ago I worked in a rendeer herd.
+\ELANBegin 00:00:12.298
+\ELANEnd 00:00:15.626
+\ELANParticipant AS
+\ev
+\ru Давно я работал в табуне раньше.
+
+\id Solodikov_Artem_Managic_004
+\tx Potom  [nan   semdesjat pjatyj
+\mb potom  ńaːn semdesjat pjatyj 
+\ps adv    adv  num       adj    
+\ge then.R and  seventy.R fifth.R
+
+\tx goddukun,              nan    vosemdesjat pervyjiklen]                 oxotnik    ọːdịwụ.
+\mb god    -DUk(U) -n(I)     ńaːn vosemdesjat pervyj  -E  -klE     -n(I)     oxotnik  ọː     -RI  -W       
+\ps n                        adv  num         adj                            n        v                    
+\ge year.R -abl    -poss.3sg and  eighty.R    first.R -ep -all.loc -poss.3sg hunter.R become -pst -poss.1sg
+
+\ft Then [since 1975 and till 1981] I became a hunter.
+\ph -teγun -ịglan
+\gr umenduk dʒureklan -- from one till two, dʒugenidukun montelseklen -- from summer till autumn, Lena Cherkanova (sister
+of the speaker) confirmed this version
+\nt Apparently time period since 1975 and till 1981 refers to the previous record, because he makes pauses before and after it.
+So he was working in a reindeer herd since 1975 and till 1981 and then became a hunter. Moreover it corresponds our
+knowledge about the speaker's biography.
+\qu
+\ELANBegin 00:00:15.626
+\ELANEnd 00:00:27.430
+\ELANParticipant AS
+\ev
+\ru Потом [с семдесят пятого года и до восемдесят первого] я стал охотником.
+
+\id Solodikov_Artem_Managic_005
+\tx Tadụk       nan    ereger ewuski         oxotnikaddịwụ.
+\mb tarak -DUk(U) ńaːn ereger erek -skI      oxotnik  -E  -D    -RI  -W       
+\ps pron          adv  adv    pron           v                                
+\ge dist  -abl    and  always prox -advb.all hunter.R -ep -prog -pst -poss.1sg
+
+\ft Since then I have been a hunter.
+\ph
+\gr 06.02.13 (questions14, 1:30) he says oxotnikaddiwu, as corrected here (had first been transcribed as oxotnik odiwu), ja
+oxotnichaju
+\nt
+\gr I doubt the verb become, because he mentions a period, so an atelic verb hunt (?probably oxotnikadaj? ) would be more
+suitable (see the first file from Rimma, 8' 10'').
+\ELANBegin 00:00:27.430
+\ELANEnd 00:00:35.529
+\ELANParticipant AS
+\ev
+\ru С тех пор потом я всегда охотником был.
+
+\id Solodikov_Artem_Managic_006
+\tx Ńan   devjanosto četvertyjilan                ọːkka   sojuz raspalsja, sami          po   sebe
+\mb ńaːn devjanosto četvertyj -E  -(dU)LE -n(I)     ọːk  =kE  sojuz raspalsja sami          po   sebe  
+\ps adv  num        adj                             pron      ?     ?         adj           postpos pron  
+\ge and  ninety.R   fourth.R  -ep -loc    -poss.3sg when =emp union broke.up  themthelves.R on.R self.R
+
+\tx ọːdịwụn,           meːrker.
+\mb ọː     -RI  -W        -L  meːn -L  =kEn -L 
+\ps v                         pron             
+\ge become -pst -poss.1sg -pl refl -pl =ptl -pl
+
+\ft Then in 1994, when the Soviet Union broke up, everyone became independent.
+\ph
+\gr meːrker is plural of meːnken : bi meːrken bisi, i meːrken bisini, nọŋan meːrken ọːdịn, bu meːrker ọːdiwụn
+\ELANBegin 00:00:35.529
+\ELANEnd 00:00:46.254
+\ELANParticipant AS
+\ev
+\ru Потом в 94-м, когда союз распался, сами по себе стали, сами по себе.
+
+\id Solodikov_Artem_Managic_007
+\tx Tadụk       nan    erekla        er   ereger.
+\mb tarak -DUk(U) ńaːn erek -klE     erek ereger
+\ps pron          adv  pron          pron adv   
+\ge dist  -abl    and  prox -all.loc prox always
+\ft Since then and till now everything is like this.
+\ELANBegin 00:00:46.254
+\ELANEnd 00:00:49.959
+\ELANParticipant AS
+\ev
+\ru C тех пор потом и до сегодняшняшнего дня вот всегда.
+
+\id Solodikov_Artem_Managic_008
+\tx Er   toːreŋu               oxotničaju          bisni,             gọbdʒakụ
+\mb erek tor   -E  -ŋ   -W        oxotničaj -W        biː -R(E)   -n(I) gọbdị -ČEk -W       
+\ps pron n                        v                   v                 v                   
+\ge prox earth -ep -aln -poss.1sg hunt.R    -poss.1sg 1sg -nonfut -3sg  hunt  -nr  -poss.1sg
+
+\ft Here I have hunting grounds.
+\ph we both hear bisnit with t at the end, but Rimma says, it's definitely bisni. Lena Cherkanova also says  oxotničaj bisni.
+\gr maybe oxotničaj is a correct adj, then u is accusative? oxotničaj toːreŋus bisni -- you have hunting grounds, oxotničaj
+toːrenan bisni -- he has hunting grounds
+\nt
+\ELANBegin 00:00:49.959
+\ELANEnd 00:00:54.691
+\ELANParticipant AS
+\ev
+\ru Вот у меня земли охотничьи есть.
+
+\id Solodikov_Artem_Managic_009
+\tx Tugenidu     oxotnikaddʒoːttem,                dʒụganị ọːdakan
+\mb tugeni -DU  oxotnika -D    -WEːČ -R(E)   -m   dʒụganị ọː     -REk      -E  -n(I)    
+\ps n           v                                 n       v                             
+\ge winter -dat hunt.R   -prog -gnr  -nonfut -1sg summer  become -cond.cvb -ep -poss.3sg
+
+\tx rybakaddʒoːttem.
+\mb rybaka         -D    -WEːČ -R(E)   -m  
+\ps v                                      
+\ge be.a.fisherman -prog -gnr  -nonfut -1sg
+
+\ft In the winter I hunt on my hunting lands, when the summer comes, I fish.
+\ph
+\gr gọbdịdʒak also exists, but gobʤak is fully normal.
+\nt
+\ELANBegin 00:00:54.691
+\ELANEnd 00:01:07.782
+\ELANParticipant AS
+\ev
+\ru На своих охотничьих местах зимой охочусь, когда наступает лето, рыбачу.
+
+\id Solodikov_Artem_Managic_010
+\tx Tiːk nan    pensioner   ọːdịwụ.
+\mb tiek ńaːn pensioner   ọː     -RI  -W       
+\ps adv  adv  n           v                    
+\ge now  and  pensioner.R become -pst -poss.1sg
+\ft Now I have retired.
+\ELANBegin 00:01:07.782
+\ELANEnd 00:01:15.361
+\ELANParticipant AS
+\ev
+\ru Сейчас стал пенсионером.
+
+\id Solodikov_Artem_Managic_011
+\tx Tugenidu    egepu,     ụlịčam,      gụrnataw,    tar   ịaw      kọbalam
+\mb tugeni -DU  egep  -W   hụlịčan -W   gụrnata  -W   tarak ịak  -W   kọbalan -W  
+\ps n           n          n            n             pron  pron      n           
+\ge winter -dat sable -acc fox     -acc ermine.R -acc dist  what -acc bear    -acc
+
+\tx bisekende                       vesnoj          osenju,         bakaddʒọːttam.
+\mb bi -REk      -E  -n(I)     =DE  vesnoj          osenju          bak  -E  -D    -WEːČ -R(E)   -m  
+\ps v                               adv             n               v                                
+\ge be -cond.cvb -ep -poss.3sg =ptl in.the.spring.R in.the.autumn.R find -ep -prog -gnr  -nonfut -1sg
+
+\ft In the winter I find sables, foxes, ermines, what else.. bears, if there are any in the spring or in the autumn.
+\ph
+\gr
+\ELANBegin 00:01:15.361
+\ELANEnd 00:01:30.660
+\ELANParticipant AS
+\ev
+\ru Зимой соболя, лису, горностая, что еще.. медведя, если есть весной-осенью, нахожу.
+
+\id Solodikov_Artem_Managic_012
+\tx Tar   gịakịkakam        eŋtiriwde            kabjawụ      tar   niːkičeːm      aːdụnda
+\mb tarak gịakị   -kEkEn -W   eŋtiri      -W   =DE  kabjaw    -W   tarak niːkičeːn -W   haːdụn    =DE 
+\ps pron  pron                n                     n              pron  n              adv           
+\ge dist  various -dim   -acc wood.grouse -acc =ptl ptarmigan -acc dist  duck      -acc sometimes =ptl
+
+\tx biseken.
+\mb bi -REk      -E  -n(I)    
+\ps v                         
+\ge be -cond.cvb -ep -poss.3sg
+
+\ft All sorts of wood grouses, ptarmigans, ducks, if there are any.
+\ph biš instead of biseken at end
+\gr
+\ELANBegin 00:01:30.660
+\ELANEnd 00:01:46.100
+\ELANParticipant AS
+\ev
+\ru всякую всячину глухаря, куропатку, иногда утку, если есть.
+
+\id Solodikov_Artem_Managic_013
+\tx Tar  unet ịawa?
+\mb tar  unet ịak  -W   -E 
+\ps adv  ?    pron         
+\ge thus yet  what -acc -ep
+\ft then what else?
+\ELANBegin 00:01:46.100
+\ELANEnd 00:01:48.320
+\ELANParticipant AS
+\ev
+\ru еще что?
+
+\id Solodikov_Artem_Managic_014
+\tx Ọnakịwda        erew      tugeniw     bụrandʒị              bọknịwụ.
+\mb ọnakị     -W   =DE  erek -W   tugeni -W   bụran         -DʒI         bọkan    -RI  -W       
+\ps n                   pron      n           n                          v                      
+\ge wolverine -acc =ptl prox -acc winter -acc snow.mobile.R -ins.prfl.sg catch.up -pst -poss.1sg
+
+\ft And I caught up a wolverine with my Buran this winter.
+\ph
+\gr
+\ELANBegin 00:01:48.320
+\ELANEnd 00:01:55.580
+\ELANParticipant AS
+\ev
+\ru И росомаху этой зимой на буране догнал.
+
+\id Solodikov_Artem_Managic_015
+\tx Limitkeku                boːwette            ịlanmịaru     tiːk erew      tugeniw
+\mb limit   -GE    -W        boː  -WEːČ -R(E)   ịlanmịar -W   tiek erek -W   tugeni -W  
+\ps n                        v                  num           adv  pron      n          
+\ge limit.R -desig -poss.1sg give -gnr  -nonfut thirty   -acc now  prox -acc winter -acc
+
+\tx egepeŋgeku                     boːriten.
+\mb egep  -E  -ŋ   -GE    -W        boː  -RI  -tEn     
+\ps n                               v                  
+\ge sable -ep -aln -desig -poss.1sg give -pst -poss.3pl
+
+\ft Some limit is given, now 30 sables were given for me this winter.
+\ph buːriten, ịlanmịeru
+\gr
+\nt
+\qu
+\ELANBegin 00:01:55.580
+\ELANEnd 00:02:03.980
+\ELANParticipant AS
+\ev
+\ru Лимит дают, 30 сейчас этой зимой соболей мне дали.
+
+\id Solodikov_Artem_Managic_016
+\tx Taraw      tar   nan    erew      tugeniw     nadanmịarụ   egepeŋgeji                   uŋniwu
+\mb tarak -W   tarak ńaːn erek -W   tugeni -W   nadanmịar -W   egep  -E  -ŋ  -GE    -J       uŋ -RI  -W       
+\ps pron       pron  adv  pron      n           num            v                             v                
+\ge dist  -acc dist  and  prox -acc winter -acc seventy   -acc sable -ep -vr -desig -prfl.sg do -pst -poss.1sg
+
+\tx bakrịwụ.
+\mb bak  -RI  -W       
+\ps v                  
+\ge find -pst -poss.1sg
+
+\ft This winter I found seventy sables for me.
+\ph nadanmịerụ! egepeŋgai
+\gr
+\nt
+\ELANBegin 00:02:03.980
+\ELANEnd 00:02:17.160
+\ELANParticipant AS
+\ev
+\ru Этой зимой вот семьдесят соболей себе нашел.
+
+\id Solodikov_Artem_Managic_017
+\tx Mịam      ụlịčangajị,           omem      ọnakịŋgajị.
+\mb mịan -W   hụlịčan -GE    -J       omen -W   ọnakị     -ŋ   -GE    -J      
+\ps num       n                       num       n                             
+\ge ten  -acc fox     -desig -prfl.sg one  -acc wolverine -aln -desig -prfl.sg
+
+\ft ten foxes, one wolverine
+\ph umem
+\gr continuation of the previous phrase, but after a little pause
+\nt
+\ELANBegin 00:02:17.160
+\ELANEnd 00:02:25.680
+\ELANParticipant AS
+\ev
+\ru Десять лис, одну росомаху.
+
+\id Solodikov_Artem_Managic_018
+\tx Er   apreːlla        kọbalaŋgajịda                  maːrịwụ.
+\mb erek aprel'.R -(dU)LE kọbalan -ŋ   -GE    -J       =DE  maː  -RI  -W       
+\ps pron n                n                                 v                  
+\ge prox April.R  -loc    bear    -aln -desig -prfl.sg =ptl kill -pst -poss.1sg
+
+\ft In April I killed a bear for me.
+\ELANBegin 00:02:25.680
+\ELANEnd 00:02:31.100
+\ELANParticipant AS
+\ev
+\ru Вот в апреле медведя убил.
+
+\id Solodikov_Artem_Managic_019
+\tx Tadụk       tar   tarọːčịn
+\mb tarak -DUk(U) tarak tarọːčịn 
+\ps pron          pron  pron     
+\ge dist  -abl    dist  dist.qual
+
+\ft Since that time..
+\ph
+\gr Apparently it is the beginning of the next record, but he makes a pause of 2 more than secs
+\ELANBegin 00:02:31.100
+\ELANEnd 00:02:36.180
+\ELANParticipant AS
+\ev
+\ru C тех пор вот...
+
+\id Solodikov_Artem_Managic_020
+\tx Vosemdesjat pervyj goddukun                 oxotnik  ọːčalajị                  tar   Nikolaj
+\mb vosemdesjat pervyj  god    -DUk(U) -n(I)     oxotnik  ọː     -čE     -(dU)LE -J       tarak Nikolaj
+\ps num         adj     n                        n        v                               pron  ?      
+\ge eighty.R    first.R year.R -abl    -poss.3sg hunter.R become -pf.ptc -loc    -prfl.sg dist  Nikolaj
+
+\tx Fomichkeli     omettu   gọbdʒarịwụn.
+\mb Fomich -g(E)lI omettu   gọbdị -RI  -WUn        
+\ps n              adv      v                      
+\ge Fomich -com    together hunt  -pst -poss.1pl.ex
+
+\ft Since 1981 when I became a hunter, I hunted together with Nikolaj Fomich.
+\ph teγun
+\gr
+\ELANBegin 00:02:36.180
+\ELANEnd 00:02:47.880
+\ELANParticipant AS
+\ev
+\ru C 81-го года, когда стал охотником, тогда с Николаем Фомичем вместе охотились.
+
+\id Solodikov_Artem_Managic_022
+\tx Nan    tadụk       bi   omekken eweski         nulgeriwu              Managịstakị.
+\mb ńaːn tarak -DUk(U) biː omekken erek -skI      nulge   -RI  -W        Managịs -t(E)kI
+\ps adv  pron          pron ?       pron           v                      n              
+\ge and  dist  -abl    1sg alone   prox -advb.all migrate -pst -poss.1sg Managis -all   
+
+\ft Since that time I moved here alone to the Managish river.
+\ph umekken, Manaγịstakị
+\ELANBegin 00:02:47.880
+\ELANEnd 00:02:53.760
+\ELANParticipant AS
+\ev
+\ru С тех пор я в одиночку сюда перекочевал на Маныч.
+
+\id Solodikov_Artem_Managic_023
+\tx Tarapčị  nan    edu       bisem           Managịstu.
+\mb tarak -pčI  ńaːn erek -DU  bi -R(E)   -m   Managịs -DU 
+\ps pron        adv  pron      v               n           
+\ge dist  -advr and  prox -dat be -nonfut -1sg Managis -dat
+
+\ft Since that time I have been living here on Managish.
+\ph Manaγistu
+\gr added advr -pčI : tiniw "yesterday" -- tinipči "since yesterday", badʒir "morning" (or early?) -- badʒịrapčị "since morning"
+\ELANBegin 00:02:53.760
+\ELANEnd 00:02:57.460
+\ELANParticipant AS
+\ev
+\ru С тех пор здесь живу на Маныче.
+
+\id Solodikov_Artem_Managic_024
+\tx Omekken dʒulle       bi   bisiwu.
+\mb omekken dʒul  -(dU)LE biː bi -RI  -W       
+\ps ?       rel.n         pron v                
+\ge alone   front -loc    1sg be -pst -poss.1sg
+
+\ft I lived alone before.
+\ph umekken
+\ELANBegin 00:02:57.460
+\ELANEnd 00:03:03.820
+\ELANParticipant AS
+\ev
+\ru Один раньше я жил.
+
+\id Solodikov_Artem_Managic_025
+\tx Ele          ŋegdele       ọkaːttụla   dʒụːwu        bisin            omekken.
+\mb erek -(dU)LE ŋejde  -(dU)LE ọkaːt -(dU)LE dʒụː  -W        bi -RI  -n(I)     omekken
+\ps pron         rel.n          n             n               v                 ?      
+\ge prox -loc    bottom -loc    river -loc    house -poss.1sg be -pst -poss.3sg alone  
+
+\ft Here there was a house near the river below.
+\ph neγdala? umekken
+\gr ńeγdala, added ŋegde as allomorph for ŋejde
+\ELANBegin 00:03:03.820
+\ELANEnd 00:03:10.140
+\ELANParticipant AS
+\ev
+\ru Здесь внизу у речки дом был один.
+
+\id Solodikov_Artem_Managic_026
+\tx Tadụk       eńtilbu          pensionerel        ọːdịdʒụr    nan    minteki
+\mb tarak -DUk(U) eńtil   -W        pensioner   -E  -L  ọː     -RIdʒI   -L  ńaːn min     -t(E)kI
+\ps pron          n                 n                   v                   adv  pron           
+\ge dist  -abl    parents -poss.1sg pensioner.R -ep -pl become -ant.cvb -pl and  1sg.obl -all   
+
+\tx nulgeriten.
+\mb nulge   -RI  -tEn     
+\ps v                     
+\ge migrate -pst -poss.3pl
+
+\ft Then my parent who had retired moved to my place.
+\ph
+\gr
+\nt
+\ELANBegin 00:03:10.140
+\ELANEnd 00:03:19.900
+\ELANParticipant AS
+\ev
+\ru  Потом когда мои родители, став пенсонерами, ко мне переехали.
+
+\id Solodikov_Artem_Managic_027
+\tx Mun        tar   akmụn             tar   vosemdesjat vtorojlan               godla
+\mb mun        tarak akan   -WUn         tarak vosemdesjat vtoroj   -(dU)LE -n(I)     god    -(dU)LE
+\ps ?          pron  n                   pron  num         adj                        n             
+\ge 1pl.ex.obl dist  father -poss.1pl.ex dist  eighty.R    second.R -loc    -poss.3sg year.R -loc   
+
+\tx ńoːmeːrin
+\mb ńoːmeː -RI  -n(I)    
+\ps v                    
+\ge die    -pst -poss.3sg
+
+\ft Our father died in 1982.
+\ELANBegin 00:03:19.900
+\ELANEnd 00:03:29.280
+\ELANParticipant AS
+\ev
+\ru Отец наш в восемьдесят втором году умер.
+
+\id Solodikov_Artem_Managic_028
+\tx Nan    tar   Illiwon tar   ekmun               ịlnịdʒụr           Managịstụ  ọːdiwụn
+\mb ńaːn tarak Illowon tarak eken   -WUn         ịlan  -NI   -dʒUr        Managịs -DU  ọː     -RI  -WUn        
+\ps adv  pron  ?       pron  n                   num                      n            v                       
+\ge and  dist  Leonid  dist  mother -poss.1pl.ex three -coll -ins.prfl.pl Managis -dat become -pst -poss.1pl.ex
+
+\ft So Leonid, our mother, we became three on Managish.
+\ph manaγistu
+\ELANBegin 00:03:29.280
+\ELANEnd 00:03:39.400
+\ELANParticipant AS
+\ev
+\ru И вот Леонид, вот наша мама, втроем мы стали на Маныче.
+
+\id Solodikov_Artem_Managic_029
+\tx Tarapčị  nan    tar   edu       bisu.
+\mb tarak -pčI  ńaːn tarak erek -DU  bi -(R)U  
+\ps pron        adv  pron  pron      v         
+\ge dist  -advr and  dist  prox -dat be -1pl.ex
+
+\ft Since that time we have been lived here.
+\ph
+\gr tarapčị?? see 023
+\nt
+\ELANBegin 00:03:39.400
+\ELANEnd 00:03:47.560
+\ELANParticipant AS
+\ev
+\ru С тех пор вот здесь живем.
+
+\id Solodikov_Artem_Managic_030
+\tx A     dʒụganịdụ  gaspromxostu    gurgeːwčiddʒoːttem
+\mb a.R   dʒụganị -DU  gospromxoz -DU  gurgeːwči -D    -WEːČ -R(E)   -m  
+\ps ?     n            n               v                                 
+\ge but.R summer  -dat Gospromxoz -dat work      -prog -gnr  -nonfut -1sg
+
+\ft In the summer I worked in Gospromxoz.
+\ph
+\gr
+\nt как перевести газпромхоз и не имел ли он в виду леспромхоз?
+\ELANBegin 00:03:47.560
+\ELANEnd 00:03:51.680
+\ELANParticipant AS
+\ev
+\ru А летом в Госпромхозе работал.
+
+\id Solodikov_Artem_Managic_031
+\tx Rybalkadụ       tar   dʒụːlba       ọːčịddʒọːttu.
+\mb rybalka      -DU  tarak dʒụː  -L  -W   ọː   -Č   -E  -D    -WEːČ -(R)U  
+\ps n                 pron  n              v                                
+\ge fishing.camp -dat dist  house -pl -acc make -res -ep -prog -gnr  -1pl.ex
+
+\ft We built houses at the fishing camp.
+\ph
+\gr ọːčịddʒọːttu : resultative has an imperfective meaning
+\nt
+\ELANBegin 00:03:51.680
+\ELANEnd 00:03:56.940
+\ELANParticipant AS
+\ev
+\ru На рыбалке вот дома строили.
+
+\id Solodikov_Artem_Managic_032
+\tx Tar   osen'    ọːdakan                     sentjabrla          tar
+\mb tarak osen'    ọː     -REk      -E  -n(I)     sentjabr    -(dU)LE tarak
+\ps pron  n        v                              n                   pron 
+\ge dist  autumn.R become -cond.cvb -ep -poss.3sg September.R -loc    dist 
+
+\tx kimedʒilloːttu.                          gọbdʒaktakị      emesendewur
+\mb kim     -E  -D    -E  -L    -WEːČ -(R)U   gọbdị -Ek -t(E)kI em   -E  -s(E)n -DE       -WUr    
+\ps v                                         v                 v                                 
+\ge prepare -ep -prog -ep -inch -gnr  -1pl.ex hunt  -nr -all    come -ep -lim   -purp.cvb -prfl.pl
+
+\ft When the autumn comes, in September we begin to prepare for the move to the hunting grounds.
+\ELANBegin 00:03:56.940
+\ELANEnd 00:04:05.900
+\ELANParticipant AS
+\ev
+\ru Вот когда осень начинается, в сентябре готовимся на место охоты приехать.
+
+\id Solodikov_Artem_Managic_033
+\tx Emnidʒur         nan    aktjaːbrla       poka    gịakịŋčaŋgawụr
+\mb em   -RIdʒI   -L  ńaːn oktjabr   -(dU)LE poka    gịakị   -ŋ   -čEn -GE    -WUr    
+\ps v                 adv  n                 ptl     pron                             
+\ge come -ant.cvb -pl and  October.R -loc    until.R various -aln -dim -desig -prfl.pl
+
+\tx kimeddʒoːttu.
+\mb kim     -E  -D    -WEːČ -(R)U  
+\ps v                              
+\ge prepare -ep -prog -gnr  -1pl.ex
+
+\ft When we come, in October we prepare different stuff for ourselves.
+\ph gieki
+\gr     gịakịnčaŋgawụr?  According to Rimma ča should be diminutive, but where comes -n- from?   also in 051
+\gr 05.02.13 (questions11, 12:30) gịakịŋgawụr; gịakịkaŋawụr; when I asked "prosto vsjakuju vsjachinu, ne dlja sebja" she said
+gịakịnčaŋgawụr - which is of course what he says, and it means "for ourselves"; prosto vsjakuju vsjachinu = gịakịw, or
+gịakịkakam; gịakịŋgawụr - could that be the alienable suffix? gịakịŋčaŋgawụr = dlja sebja; gịakịńdʒagawụr = OK, bolshie
+veshi dlja sebja gotovitj; gịakịnamkarụ = NO; bi gịakịnamkarụ kimeddʒoːttem = NO; gịakịmkarụ = OK, bolshoe
+chto-nibudj takoe;
+\ELANBegin 00:04:05.900
+\ELANEnd 00:04:11.600
+\ELANParticipant AS
+\ev
+\ru Приехав в октябре пока всякую всячину себе готовим.
+
+\id Solodikov_Artem_Managic_034
+\tx Tar   nan    najaːbr'  ọːdakan,                    bọlọnị ọːdakan,                     tar
+\mb tarak ńaːn nojabr     ọː     -REk      -E  -n(I)     bọlọnị      ọː     -REk      -E  -n(I)     tarak
+\ps pron  adv  n          v                              n           v                              pron 
+\ge dist  and  November.R become -cond.cvb -ep -poss.3sg late.autumn become -cond.cvb -ep -poss.3sg dist 
+
+\tx nan    gọbdịdʒịlloːttu                  egepu      bejčidʒilloːttu                    tar   gịakịw
+\mb ńaːn gọbdị -D    -E  -L    -WEːČ -(R)U   egep  -W   bejči -D    -E  -L    -WEːČ -(R)U   tarak gịakị   -W  
+\ps adv  v                                   n          v                                   pron  pron        
+\ge and  hunt  -prog -ep -inch -gnr  -1pl.ex sable -acc hunt  -prog -ep -inch -gnr  -1pl.ex dist  various -acc
+
+\tx ịawka            boːrin.
+\mb ịak  -W   =kE   boː  -RI  -n(I)    
+\ps pron            v                  
+\ge what -acc =emph give -pst -poss.3sg
+
+\ft When November comes, when the late autumn comes, we begin to hunt, to catch sables, different animals that were given.
+\ph buːrin
+\gr
+\nt gịakịw ịawka boːrin  -- apparently, what was allowed.
+\ELANBegin 00:04:11.600
+\ELANEnd 00:04:24.069
+\ELANParticipant AS
+\ev
+\ru Когда ноябрь наступает, когда поздняя осень наступает, начинаем охотиться, соболей ловить, там разное, что нам дают.
+
+\id Solodikov_Artem_Managic_036
+\tx NovyjGod   ọːdakan                     tar   Essoːtki        kimedʒilloːttu.
+\mb NovyjGod   ọː     -REk      -E  -n(I)     tarak Essọː -t(E)kI kim     -E  -D    -E  -L    -WEːČ -(R)U  
+\ps n          v                              pron  n             v                                        
+\ge New.Year.R become -cond.cvb -ep -poss.3sg dist  Esso  -all    prepare -ep -prog -ep -inch -gnr  -1pl.ex
+
+\ft When New Year comes, we begin to prepare to go to Esso.
+\ph
+\gr
+\ELANBegin 00:04:24.069
+\ELANEnd 00:04:28.112
+\ELANParticipant AS
+\ev
+\ru Новый год наступает, в Эссо начинаем готовиться.
+
+\id Solodikov_Artem_Managic_037
+\tx Uŋur              pušninaŋur           uŋteki           gaspromxosteki     ŋenuwettu.
+\mb uŋ        -WUr     pušnina -ŋ   -WUr     uŋ        -t(E)kI gospromxoz -t(E)kI ŋen -U    -WEːČ -(R)U  
+\ps n                  n                     n                 n                  v                      
+\ge something -prfl.pl furs.R  -aln -prfl.pl something -all    Gospromxoz -all    go  -caus -gnr  -1pl.ex
+
+\ft We deliver our furs to Gospromxoz.
+\ELANBegin 00:04:28.112
+\ELANEnd 00:04:37.862
+\ELANParticipant AS
+\ev
+\ru Свою пушнину в Госпромхоз доставляем.
+
+\id Solodikov_Artem_Managic_038
+\tx Tar   posle   novogo    goda       nanda       tar   emesnoːttu                     tar   ụlịčam
+\mb tarak posle   novogo    goda       ńaːn =DE  tarak em   -E  -s(E)n -WEːČ -(R)U   tarak hụlịčan -W  
+\ps pron  postpos adj       n          adv       pron  v                             pron  n           
+\ge dist  after.R new.GEN.R year.GEN.R and  =ptl dist  come -ep -lim   -gnr  -1pl.ex dist  fox     -acc
+
+\tx gịakịw     tar   bejčidewur.
+\mb gịakị   -W   tarak bejči -DE       -WUr    
+\ps pron         pron  v                       
+\ge various -acc dist  hunt  -purp.cvb -prfl.pl
+
+\ft So after New Year we go to catch different foxes and so on.
+\ph  giekiw bejčidawur
+\gr 06.02.13 (questions14, 4:00) emesnoːttu = priezhaem opjatj tuda; but: bi badụsnam = ja edu, uezhaju; bi badụram = ja
+edu; emmoːttu = sjuda prixodim, emesnoːttu = opjatj edem
+\nt
+\ELANBegin 00:04:37.862
+\ELANEnd 00:04:50.121
+\ELANParticipant AS
+\ev
+\ru Так после Нового года потом уезжаем там лис всяких ловить.
+
+\id Solodikov_Artem_Managic_039
+\tx Tadụk       nan    tar   fivral'    mụdakaptakan                           tar   ọddasị
+\mb tarak -DUk(U) ńaːn tarak fevral     mụdak  -E  -B   -REk      -E  -n(I)     tarak ọd   -R(E)   =sI  
+\ps pron          adv  pron  n          v                                       pron  v                 
+\ge dist  -abl    and  dist  February.R finish -ep -med -cond.cvb -ep -poss.3sg dist  stop -nonfut =emph
+
+\tx gọbdʒarịwụr.
+\mb gọbdị -RI       -WUr    
+\ps v                       
+\ge hunt  -impf.ptc -prfl.pl
+
+\ft When February is over, people stops hunting.
+\ph
+\gr I hear that Artem says gọbdʒariwur, Rimma says first gọbdʒariwur and the second time gọbdʒadawụr, Flaps sound very
+similar.
+\nt
+\ELANBegin 00:04:50.121
+\ELANEnd 00:04:58.662
+\ELANParticipant AS
+\ev
+\ru Потом когда февраль заканчивается, заканчивают охотиться.
+
+\id Solodikov_Artem_Managic_040
+\tx Emnidʒur         nanda       pušninaŋur           sdavaːjaddụ.
+\mb em   -RIdʒI   -L  ńaːn =DE  pušnina -ŋ   -WUr     sdavaːj     -E  -D    -(R)U  
+\ps v                 adv       n                     v                            
+\ge come -ant.cvb -pl and  =ptl furs.R  -aln -prfl.pl hand.over.R -ep -prog -1pl.ex
+
+\ft When we come back, we hand our furs over.
+\ELANBegin 00:04:58.662
+\ELANEnd 00:05:06.800
+\ELANParticipant AS
+\ev
+\ru Приехав, сдаем потом свою пушнину.
+
+\id Solodikov_Artem_Managic_041
+\tx Nan    dʒụganị ọːdakan                     nanda       rybalkatkida,             ŋiːde    dʒụːw
+\mb ńaːn dʒụganị ọː     -REk      -E  -n(I)     ńaːn =DE  rybalka      -t(E)kI =DE  ŋiː =DE  dʒụː  -W  
+\ps adv  n       v                              adv       n                         pron     n         
+\ge and  summer  become -cond.cvb -ep -poss.3sg and  =ptl fishing.camp -all    =ptl who =ptl house -acc
+
+\tx ọːčịdʒịllan.
+\mb ọː   -Č   -E  -D    -L    -R(E)   -n(I)
+\ps v                                      
+\ge make -res -ep -prog -inch -nonfut -3sg 
+
+\ft When summer comes, then again to the fishing camp, somebody begins to build the house.
+\ph ŋiːda
+\ELANBegin 00:05:06.800
+\ELANEnd 00:05:17.304
+\ELANParticipant AS
+\ev
+\ru Когда лето наступает, опять на рыбалку, кто-то дом начинает строить.
+
+\id Solodikov_Artem_Managic_043
+\tx Aːnda     tewtew,      geribiw          gịakịw        dewenŋitu     čakačidʒịlla.
+\mb haːn =DE  tewte   -W   geribi      -W   gịakị   -W   dewenŋit -W   čak    -E  -Č   -E  -D    -E  -L    -R(E)  
+\ps ?         n            n                pron         n             v                                          
+\ge some =ptl berries -acc mushrooms.R -acc various -acc mushroom -acc gather -ep -res -ep -prog -ep -inch -nonfut
+
+\ft Then people begin to gather berries, various mushrooms, mushrooms (in Even).
+\ph giekiw
+\gr
+\nt
+\ELANBegin 00:05:17.304
+\ELANEnd 00:05:23.427
+\ELANParticipant AS
+\ev
+\ru Опять ягоды, грибы всякие, грибы (по-эвенски) собирать начинают.
+
+\id Solodikov_Artem_Managic_044
+\tx A     bi   dʒụːlbụ    ọːčịddʒọttam.
+\mb a.R   biː dʒụː  -L  -W   ọː   -Č   -E  -D    -WEːČ -R(E)   -m  
+\ps ?     pron n              v                                     
+\ge but.R 1sg house -pl -acc make -res -ep -prog -gnr  -nonfut -1sg
+
+\ft And I begin to build houses.
+\ph dʒulbe,  oːčidʤottem
+\ELANBegin 00:05:23.427
+\ELANEnd 00:05:27.431
+\ELANParticipant AS
+\ev
+\ru А я дома начинаю строить.
+
+\id Solodikov_Artem_Managic_045
+\tx Nan    ereger tačịntakan           tare.
+\mb ńaːn ereger tarọːčịn  =t(E)kEn tarak -E 
+\ps adv  adv    pron               pron     
+\ge and  always dist.qual =restr   dist  -ep
+\ft And it is always so.
+\ph
+\gr
+\nt
+\qu
+\ev
+\ELANBegin 00:05:27.431
+\ELANEnd 00:05:35.127
+\ELANParticipant AS
+\ev
+\ru И всегда так.
+
+\id Solodikov_Artem_Managic_046
+\tx Aːdụnda     raz    v    tri     goda       ọtpụskawaːttam.
+\mb haːdụn    =DE  raz    v    tri     goda       ọtpụska           -WEːČ -R(E)   -m  
+\ps adv            n      postpos num     n          v                                   
+\ge sometimes =ptl once.R in.R three.R year.GEN.R take.a.vacation.R -gnr  -nonfut -1sg
+
+\ft Sometimes once in three years I took a vacation.
+\ELANBegin 00:05:35.127
+\ELANEnd 00:05:40.756
+\ELANParticipant AS
+\ev
+\ru Иногда раз в три года ездил в отпуск.
+
+\id Solodikov_Artem_Managic_047
+\tx tačịn nan          ereger
+\mb tarọːčịn  ńaːn ereger
+\ps pron      adv  adv   
+\ge dist.qual and  always
+
+\ft It was so always.
+\ph
+\gr 06.02.13 (questions14, 6:00) tačịnnụn = kak popalo, but here he says two words, as transcribed and translated
+\ELANBegin 00:05:40.756
+\ELANEnd 00:05:44.586
+\ELANParticipant AS
+\ev
+\ru И вот так всегда.
+
+\id Solodikov_Artem_Managic_048
+\tx Tadụk       eweski         nan    omekker     ọːčalawụr,                 tar   akmu
+\mb tarak -DUk(U) erek -skI      ńaːn omekken -L  ọː     -čE     -(dU)LE -WUr     tarak akan   -W       
+\ps pron          pron           adv  ?           v                               pron  n               
+\ge dist  -abl    prox -advb.all and  alone   -pl become -pf.ptc -loc    -prfl.pl dist  father -poss.1sg
+
+\tx ńoːmeːn,             ačča ... beripčelen,                       bi   Essoːdu
+\mb ńoːmeː -R(E)   -n(I) ačča beriː -B   -čE     -(dU)LE -n(I)     biː Essọː -DU 
+\ps v                    ptl  v                                    pron n         
+\ge die    -nonfut -3sg  neg  lose  -med -pf.ptc -loc    -poss.3sg 1sg Esso  -dat
+
+\tx gurgeːwčiddʒoːttem,                a     Illiwon eknumur               edu       biddʒoːtte.
+\mb gurgeːwči -D    -WEːČ -R(E)   -m   a.R   Illiwon eken   -ńUn -WUr     erek -DU  bi -D    -WEːČ -R(E)  
+\ps v                                  ?     ?       n                    pron      v                     
+\ge work      -prog -gnr  -nonfut -1sg but.R Leonid  mother -com -prfl.pl prox -dat be -prog -gnr  -nonfut
+
+\ft When we became alone, our father died, when he had gone, I worked in Esso, and Leonid lived here with our mother.
+\ph umekker, gurgawčidʒottem
+\gr ačča ...  beripčalan -- Rimma's comment: he falters, is looking for following word.
+\nt
+\qu
+\ELANBegin 00:05:44.586
+\ELANEnd 00:06:00.347
+\ELANParticipant AS
+\ev
+\ru C тех пор, как одни мы остались, вот отец умер, не стало ... ушел из жизни (исчез), я работал в Эссо, а Леонид с матерью
+здесь жили.
+
+\id Solodikov_Artem_Managic_051
+\tx Dʒụgannọn        rybaŋgawụr               gịakịŋčaŋgawụr              kimesčiddʒoːtte.
+\mb dʒụganị -Con     ryba   -ŋ   -GE    -WUr     gịakị   -ŋ   -čEn -GE    -WUr     kim     -E  -sčI   -D    -WEːČ -R(E)  
+\ps n                n                           pron                              v                                     
+\ge summer  -acc.3sg fish.R -aln -desig -prfl.pl various -aln -dim -desig -prfl.pl prepare -ep -conat -prog -gnr  -nonfut
+
+\ft The whole summer they tried to prepare fish and other stuff for themselves.
+\ph rybaŋgawer, giekinčaŋgawer
+\gr gịakịnčaŋgawụr -- see also 033; ʤugannon indicates that it's underlyingly probably ʤugan, with ʤuganni actually being a possessed form, no?
+\gr 28/06/2016: kimesčidʤoːtte = staralisj, bednenkie, = to zhe samoe kak kimeʤeːnńọːtte
+\qu
+\nt
+\ELANBegin 00:06:00.347
+\ELANEnd 00:06:06.626
+\ELANParticipant AS
+\ev
+\ru Все лето рыбу, всякую всячину старались себе приготовить.
+
+\id Solodikov_Artem_Managic_052
+\tx A     bi   osenjumaːk            emnidʒi,     montelse     ọːdakan,
+\mb a.R   biː osenju          =mEːk  em   -RIdʒI   montelse     ọː     -REk      -E  -n(I)    
+\ps ?     pron n                      v             n            v                             
+\ge but.R 1sg in.the.autumn.R =restr come -ant.cvb early.autumn become -cond.cvb -ep -poss.3sg
+
+\tx emmoːttem.
+\mb em   -WEːČ -R(E)   -m  
+\ps v                      
+\ge come -gnr  -nonfut -1sg
+
+\ft And having come in autumn...  I come, when early autumn comes.
+\ph montalse
+\ELANBegin 00:06:06.626
+\ELANEnd 00:06:12.359
+\ELANParticipant AS
+\ev
+\ru A я, только осенью приехав, когда осень наступает, приезжаю.
+
+\id Solodikov_Artem_Managic_053
+\tx Tar   nan    gịakị, tar   nọŋkịkakam           uliːŋewur               ŋịnčardụr.
+\mb tarak ńaːn gịakị   tarak nọŋkị         -kEkEn -W   uliː -n  -GE    -WUr     ŋịn -čEn -L  -DUr        
+\ps pron  adv  pron    pron  n                         v                        n                        
+\ge dist  and  various dist  silver.salmon -dim   -acc feed -nr -desig -prfl.pl dog -dim -pl -dat.prfl.pl
+
+\ft And thensome stuff, then [we catch] silver salmon for feeding our dogs.
+\ph gieki, uliŋawer. Lena Cherkanova pronounces also gieki (Solodikov_Questions5 18:30)
+\gr 06.02.13 (questions14, 7:45) uliːŋewur = korm dlja svoego polzovanija, and uliːn is just for animals, you cannot say that
+about human food (that's insulting); so the syntax is "food for us (for our purposes) for our dogs", everything is correct
+\gr 12/06/2016: ŋinčardur = on ljubit svoix sobak
+\nt uliːŋewur? не может быть desig, т.к. desig + prfl.pl даст корм для нас! там действительно uliːŋewur, c r на конце...
+\ELANBegin 00:06:12.359
+\ELANEnd 00:06:17.466
+\ELANParticipant AS
+\ev
+\ru И вот потом всякое, вот кижучей на корм для собак.
+
+\id Solodikov_Artem_Managic_054
+\tx Tarakam       ŋịnčarbụn               bisiten,    nart.. tụrkịwụn         nartọwịj.
+\mb tarakam       ŋịn -čEn -L  -WUn         bi -RI  -tEn      tụrkị -WUn         nartọwịj
+\ps adv           n                         v                 n                  adj     
+\ge in.those.days dog -dim -pl -poss.1pl.ex be -pst -poss.3pl sled  -poss.1pl.ex sled.R  
+
+\ft In that time we had dogs, sled dogs.
+\ph
+\gr
+\nt He starts saying sled in Russian, then switches in Even and at the end says in Russian once more.
+\qu
+\ELANBegin 00:06:17.466
+\ELANEnd 00:06:22.866
+\ELANParticipant AS
+\ev
+\ru В то время собаки у нас , нартовая упряжка.
+
+\id Solodikov_Artem_Managic_055
+\tx Taraldʒịda                  ŋịndasčịddʒọːttụ.
+\mb tarak -E  -L  -DʒI         =DE  ŋịn -DE -sčI   -D    -WEːČ -(R)U  
+\ps pron                            v                                 
+\ge dist  -ep -pl -ins.prfl.sg =ptl dog -vr -conat -prog -gnr  -1pl.ex
+
+\ft We traveled by using that.
+\ph
+\gr According to our translators (Rimma Maximovna Egorova and Elena Nikolaevna Cherkanova) the use of connative here doesn't add any meaning of trying
+\gr 06.02.13 (questions14, 9:00) ŋịndasčịddʒọːttụ = ezdim, ŋịndaddʒọːttụ = no big difference
+\gr 28/06/2016: ŋịndasčịddʒọːttụ = tozhe tak zhe (kak rec 51), bednenkie na nix ezdili na sobakax; no difference ŋịndasčịddʒọːttụ and ŋịndaʤaːnńọːttụ
+\ELANBegin 00:06:22.866
+\ELANEnd 00:06:27.360
+\ELANParticipant AS
+\ev
+\ru Вот на них и ездили.
+
+\id Solodikov_Artem_Managic_056
+\tx Ewgilegel             bụrangaj                    uniːriwu.
+\mb ewgile         =gEl   bụran         -GE    -J       uni -RI  -W       
+\ps adv                   n                             v                 
+\ge closer.in.time =coord snow.mobile.R -desig -prfl.sg buy -pst -poss.1sg
+
+\ft A little bit later I bought a Buran.
+\ph ewgileγel
+\gr 06.02.13 (questions14, 9:45) ewgile = blizhe sjuda po vremeni, tolko ko vremeni otnositsja; ewgiduk = sort of OK, but she
+wasn't sure when I asked, she said a dubious yes, and then said they don't say that anymore, ne govorjat tak (vse uzhe
+ustarevshee)
+\nt
+\ELANBegin 00:06:27.360
+\ELANEnd 00:06:31.400
+\ELANParticipant AS
+\ev
+\ru Попозже (букв. поближе сюда) буран себе купил.
+
+\id Solodikov_Artem_Managic_057
+\tx Tarič        nan    tụrkịdakačallịwụ.
+\mb tarak -E  -Č   ńaːn tụrkị -DE -kEČ  -E  -L    -RI  -W       
+\ps pron           adv  v                                       
+\ge dist  -ep -ins and  sled  -vr -mult -ep -inch -pst -poss.1sg
+\ft So I began to go using that.
+\ELANBegin 00:06:31.400
+\ELANEnd 00:06:36.853
+\ELANParticipant AS
+\ev
+\ru Вот на этом я стал ездить.
+
+\id Solodikov_Artem_Managic_058
+\tx Toreŋutitte                 egdʒеneː   umekič.
+\mb tor   -E  -ŋ   -W        =tIt egdʒen =eː   umekič
+\ps n                             adj          adv   
+\ge earth -ep -aln -poss.1sg =ptl big    =emph very  
+
+\ft My land is very big.
+\ph tureŋutitte
+\ELANBegin 00:06:36.853
+\ELANEnd 00:06:41.413
+\ELANParticipant AS
+\ev
+\ru Моя земля большая очень.
+
+\id Solodikov_Artem_Managic_059
+\tx Inogda      aːdụnda     za    deń  esem             uŋŋoːtte          uspelloːtte
+\mb inogda      haːdụn    =DE  za    deń   e   -R(E)   -m   uŋ -WEːČ -R       uspel     -WEːČ -R      
+\ps n           adv            postpos n     v                v                 v                       
+\ge sometimes.R sometimes =ptl for.R day.R neg -nonfut -1sg do -gnr  -neg.cvb managed.R -gnr  -neg.cvb
+
+\tx tụrkịdadaj,                  prixoditsa  omem      ineŋu     ịzbuškagịdatkị,   tar   urekčen
+\mb tụrkị -DE -DE       -J       prixoditsja omen -W   ineŋ -W   ịzbuška -gIdE -t(E)kI tarak urekčen
+\ps v                            v           num       n         n                     pron  n      
+\ge sled  -vr -purp.cvb -prfl.sg have.to.R   one  -acc day  -acc hut.R   -part -all    dist  hill   
+
+\tx atlan                 dʒụːčamụ          bisni.
+\mb at     -(dU)LE -n(I)     dʒụː  -čEn -W        bi -R(E)   -n(I)
+\ps rel.n                    n                    v               
+\ge bottom -loc    -poss.3sg house -dim -poss.1sg be -nonfut -3sg 
+
+\ft Sometimes one day is not enough to go, so I need one day to go to my hut, I have a small house there at the bottom of the
+hill.
+\ph umem, ịzbuškaγịdatkị
+\ELANBegin 00:06:41.413
+\ELANEnd 00:06:59.253
+\ELANParticipant AS
+\ev
+\ru Иногда за день не успеваешь доехать, приходится один день в сторону избушки [ехать?], там под горой домик у меня
+есть.
+
+\id Solodikov_Artem_Managic_060
+\tx Gịaw     ineŋu     ejeki.
+\mb gịa  -W   ineŋ -W   ejeki    
+\ps adj       n         adv      
+\ge next -acc day  -acc downriver
+
+\ft And downriver the next day.
+\ph giew
+\ELANBegin 00:06:59.253
+\ELANEnd 00:07:03.373
+\ELANParticipant AS
+\ev
+\ru На следующий день вниз по речке.
+
+\id Solodikov_Artem_Managic_061
+\tx Kapkarbụ           ọːja  tulutte.
+\mb kapkan -L  -W        họːja tul -W     -D    -R(E)  
+\ps n                    quant v                       
+\ge trap.R -pl -poss.1sg many  set -advrs -prog -nonfut
+
+\ft I set many traps.
+\ph qapkarbụ, tuluttin
+\gr bi tulliwu kapkam -- я поставил капкан, i tullis kapkam -- ты поставил капкан, bi tuleddem kapkam -- я ставлю капкан, i
+tuledinni kapkam -- ты ставишь капкан, tuleddini -- будешь ставить. Bụjla tulutten kapkan -- в лесу поставлен капкан.
+tulutte kapkar -- поставлены капканы, tuluttin kapkan -- был поставлен капкан, kapkar tuluttiten -- капканы были
+поставлены. tuludde -- ставят, tuluttem -- я поставил, tuluddem -- ставлю. ọːjaw jablakaw dʒepče -- много яблок съедено.
+ọːjaw owosčew čakča -- много овощей собрано. calque from russian??
+\nt
+\qu
+\ELANBegin 00:07:03.373
+\ELANEnd 00:07:06.480
+\ELANParticipant AS
+\ev
+\ru Капканов у меня много поставлено.
+
+\id Solodikov_Artem_Managic_062
+\tx Tačịntakan           ereger.
+\mb tarọːčịn  =t(E)kEn ereger
+\ps pron               adv   
+\ge dist.qual =restr   always
+\ft It is always so.
+\ph
+\gr tačịntakan see 045
+\ELANBegin 00:07:06.480
+\ELANEnd 00:07:13.862
+\ELANParticipant AS
+\ev
+\ru И вот так всегда.
+
+\id Solodikov_Artem_Managic_063
+\tx Tadụkkalda              nan    tiːkkelde       tiːk ọːdidʒi    uŋ       ọːdidʒi    nan
+\mb tarak -DUk(U) =GEl   =DE  ńaːn tiek =GEl   =DE  tiek ọː   -RIdʒI   uŋ        ọː   -RIdʒI   ńaːn
+\ps pron                      adv  adv              adv  v             n         v             adv 
+\ge dist  -abl    =coord =ptl and  now  =coord =ptl now  make -ant.cvb something make -ant.cvb and 
+
+\tx tar   dʒụːgaj              ọːčịdʒịllam.
+\mb tarak dʒụː  -GE    -J       ọː   -Č   -E  -D    -E  -L    -R(E)   -m  
+\ps pron  n                     v                                         
+\ge dist  house -desig -prfl.sg make -res -ep -prog -ep -inch -nonfut -1sg
+
+\ft After that right now, now having built that, having built, I begin to build a house.
+\ph Rimma says tadụkkụlda
+\ELANBegin 00:07:13.893
+\ELANEnd 00:07:23.426
+\ELANParticipant AS
+\ev
+\ru После этого сейчас, именно сейчас построив это, построив, вот дом себе начал строить.
+
+\id Solodikov_Artem_Managic_064
+\tx Erew      kọč   dʒụganịwgal            etem           ọːtta            dʒuleskimeːk.
+\mb erek -W   kọč      dʒụganị -E  -W   =GEl   e   -t(E) -m   ọː   -Č   -R       dʒul  -E  -skI      =mEːk 
+\ps pron      adv      n                       v              v                  rel.n                     
+\ge prox -acc probably summer  -ep -acc =coord neg -fut  -1sg make -res -neg.cvb front -ep -advb.all =restr
+
+\ft This year I will not build, it is better next year.
+\ph dʒugeniwgel, both Artem and Rimma pronounce front vowels!! ọːttə ! dʒuleːskimaːk -- both Artem and Rimma! I'm not sure,
+if aː in maːk is long. dʒuleːskimeːk : long e:?
+\ELANBegin 00:07:23.426
+\ELANEnd 00:07:30.853
+\ELANParticipant AS
+\ev
+\ru В этом году не буду строить, в будущем лучше.
+
+\id Solodikov_Artem_Managic_065
+\tx Er   erew      tiːk dʒụganị tiːk amnak     Essoːtki        ordʒiru          nanda.
+\mb erek erek -W   tiek dʒụganị tiek amnakịt Essọː -t(E)kI hor -DʒI -(R)U   ńaːn =DE 
+\ps pron pron      adv  n       adv  adv     n             v                adv      
+\ge prox prox -acc now  summer  now  soon    Esso  -all    go  -fut -1pl.ex and  =ptl
+
+\ft So.. this.. now.. in the summer now we will go to Esso soon again.
+\ph urdiru, future marker di?
+\ELANBegin 00:07:30.853
+\ELANEnd 00:07:41.306
+\ELANParticipant AS
+\ev
+\ru Сейчас вот летом, сейчас опять в Эссо скоро поедем.
+
+\id Solodikov_Artem_Managic_066
+\tx Tar   unet emnidʒur         nan    rybekedʒildʒiru.
+\mb tarak unet em   -RIdʒI   -L  ńaːn rybeke -D    -E  -L    -DʒI -(R)U  
+\ps pron  ?    v                 adv  v                                  
+\ge dist  yet  come -ant.cvb -pl and  fish.R -prog -ep -inch -fut -1pl.ex
+
+\ft Then when we come back, we will begin with fishing.
+\ELANBegin 00:07:41.306
+\ELANEnd 00:07:46.013
+\ELANParticipant AS
+\ev
+\ru Вот еще потом приехав, начнем рыбачить.
+
+\id Solodikov_Artem_Managic_067
+\tx Ọllaŋgawụr             bejčidʒildʒiru.
+\mb ọlra -ŋ   -GE    -WUr     bejči -D    -E  -L    -DʒI -(R)U  
+\ps n                         v                                 
+\ge fish -aln -desig -prfl.pl hunt  -prog -ep -inch -fut -1pl.ex
+\ft We will start fishing.
+\ph
+\ELANBegin 00:07:46.013
+\ELANEnd 00:07:53.800
+\ELANParticipant AS
+\ev
+\ru Рыбу себе начнем ловить.
+
+\id Solodikov_Artem_Managic_068
+\tx A     tiːtel  dʒulle       ọrdụka                   kụŋa bimi
+\mb a.R   tiːtel   dʒul  -(dU)LE ọrọn              -DU  =kE   kụŋa  bi -mI      
+\ps ?     adv      rel.n         n                            n     v           
+\ge but.R long.ago front -loc    domestic.reindeer -dat =emph child be -cond.cvb
+
+\tx ọrdụka                   semdesjat pjatyjilan,                  ọrdụ               eli
+\mb ọrọn              -DU  =kE   semdesjat pjatyj  -(G)I -(dU)LE -n(I)     ọrọn              -DU  erek -(dU)LI
+\ps n                            num       adj                             n                      pron        
+\ge domestic.reindeer -dat =emph seventy.R fifth.R -ord  -loc    -poss.3sg domestic.reindeer -dat prox -prol  
+
+\tx eli          nulgeriwun,               pastuxriwu            er   tụndraldụla,     urekčendulede,
+\mb erek -(dU)LI nulge   -RI  -WUn         pastux -RI  -W        erek tụndra   -L  -(dU)LE urekčen -(dU)LE =DE 
+\ps pron         v                         v                     pron n                    n                   
+\ge prox -prol   migrate -pst -poss.1pl.ex herd.R -pst -poss.1sg prox tundra.R -pl -loc    hill    -loc    =ptl
+
+\tx Eblukaw         dereːndulin                 časkị pastuxriwu            eknumi,
+\mb Ebluka     -W   dereːn     -(dU)LI -n(I)     časkị   pastux -RI  -W        eken   -ńUn -J      
+\ps n               n                            ?       v                     n                   
+\ge Oblukovina -acc floodplain -prol   -poss.3sg further herd.R -pst -poss.1sg mother -com -prfl.sg
+
+\tx eńtilnumi.
+\mb eńtil   -ńUn -J      
+\ps n                    
+\ge parents -com -prfl.sg
+
+\ft Before long ago, when I was a child, in the herd in 1975, we were migrating here, I herded in tundra and in the mountains,
+I herded further in the upper reaches of Oblukowina with my mother, with my parents.
+\ELANBegin 00:07:53.800
+\ELANEnd 00:08:15.920
+\ELANParticipant AS
+\ev
+\ru А раньше давно в табуне же, когда я ребенком был, в табуне же в семдесят пятом году, в табуне здесь, здесь кочевали, я
+пас в тундрах и в горах, по Облуковне дальше пас с матерью, с родителями.
+
+\id Solodikov_Artem_Managic_069
+\tx Tar   nan    eweski         ere  ereger, vosemdesjat pervyjilan                   pastux
+\mb tarak ńaːn erek -skI      erek ereger vosemdesjat pervyj  -(G)I -(dU)LE -n(I)     pastux
+\ps pron  adv  pron           pron adv    num         adj                             n     
+\ge dist  and  prox -advb.all prox always eighty.R    first.R -ord  -loc    -poss.3sg herd.R
+
+\tx ọːdịwụ         oxotnik  to
+\mb ọː     -RI  -W        oxotnik  to    
+\ps v                     n        adj   
+\ge become -pst -poss.1sg hunter.R that.R
+
+\tx est'. [Nu tak-to vsje vrode, navernoe. A che nado, zadavaj kakie...]
+\mb est'
+\ps v   
+\ge is.R
+
+\ft Since that time always, I became a herder, that is a hunter in 1981.
+\ELANBegin 00:08:15.920
+\ELANEnd 00:08:40.280
+\ELANParticipant AS
+\ev
+\ru И вот с тех пор все время, в восемдесят первом стал пастухом, охотником то есть.
+
+\id Solodikov_Artem_Managic_070
+\tx A     tiːk ịaw      ọːrin             ọːrin?
+
+\ft And now what did he do?
+\ELANBegin 00:08:40.280
+\ELANEnd 00:08:45.573
+\ELANParticipant BP
+\ev
+\ru А сейчас что он сделал?
+
+\id Solodikov_Artem_Managic_071
+\tx Tiːk erew      uŋnem           mụrmị        ụzdagan                 ọːčiddam
+\mb tiek erek -W   uŋ -R(E)   -m   mụran -J       ụzda     -GE    -n(I)     ọː   -Č   -E  -D    -R(E)   -m  
+\ps adv  pron      v               n              n                         v                               
+\ge now  prox -acc do -nonfut -1sg horse -prfl.sg bridle.R -desig -poss.3sg make -res -ep -prog -nonfut -1sg
+
+\tx ịnmar uŋu.
+\mb ịnmar  uŋ        -W  
+\ps ?      n             
+\ge halter something -acc
+
+\ft Now I'm doing a halter for my horse's bridle.
+\ELANBegin 00:08:45.573
+\ELANEnd 00:08:49.880
+\ELANParticipant AS
+\ev
+\ru Сейчас вот делаю недоуздок для узды своей лошади.
+
+\id Solodikov_Artem_Managic_072
+\tx Tar   beriːriten           ilewut                 uŋčemu.
+\mb tarak beriː -RI  -tEn      irek  -(dU)LE =(W)UttE uŋ        -čEn -W  
+\ps pron  v                    pron                   n                  
+\ge dist  lose  -pst -poss.3pl which -loc    =indef   something -dim -acc
+
+\ft Well somewhere they lost my little thing.
+\ph
+\ELANBegin 00:08:49.880
+\ELANEnd 00:08:52.909
+\ELANParticipant AS
+\ev
+\ru Вот потеряли где-то то, что я сделал. (мою вещищку)
+
+\id Solodikov_Artem_Managic_073
+\tx Turkuriwu                  vesnoj          uŋ bakŋa.
+\mb turku       -RI  -W        vesnoj          uŋ bak  -ŋE      
+\ps v                          adv             v  v             
+\ge not.be.able -pst -poss.1sg in.the.spring.R do find -nmdl.cvb
+\ft I couldn't  find in the spring.
+\ELANBegin 00:08:52.909
+\ELANEnd 00:09:01.177
+\ELANParticipant AS
+\ev
+\ru Не мог весной найти.
+
+\id Solodikov_Artem_Managic_074
+\tx Tak  erew      ọːrịdʒị tịmịna kọč   unu          orudʒim.
+\mb tak  erek -W   ọː   -RIdʒI   tịmịna   kọč      hun     -W   hor -U    -DʒI -m  
+\ps interj pron      v             adv      adv      pron         v                  
+\ge so.R prox -acc make -ant.cvb tomorrow probably 2pl.obl -acc go  -caus -fut -1sg
+
+\ft Well when I make it, tomorrow probably I'll bring you.
+\ph uruddʒim or uruːdʒim
+\gr it sounds very different to me, what he says, from what was transcribed, but 06.02.13 RME confirmed the transcription
+\nt
+\ELANBegin 00:09:01.177
+\ELANEnd 00:09:10.381
+\ELANParticipant AS
+\ev
+\ru Когда это сделаю, завтра может быть вас повезу.
+
+\id Solodikov_Artem_Managic_075
+\tx Ilewut                 čịčịgčaman                   berirep.
+\mb irek  -(dU)LE =(W)UttE čịčịg  -čEn -W   -E  -n(I)     beriː -R(E)   -p     
+\ps pron                   n                              v                    
+\ge which -loc    =indef   buckle -dim -acc -ep -poss.3sg lose  -nonfut -1pl.in
+
+\ft We lost the buckle somewhere.
+\ph in Dutkin there is čičegen,
+\ELANBegin 00:09:10.381
+\ELANEnd 00:09:26.020
+\ELANParticipant AS
+\ev
+\ru Где-то пряжку потеряли.
+
+\id Solodikov_Artem_Managic_076
+\tx Tiːk unet  ịaw        goːndʒim?
+\mb tiek unet  ịa      -W   goːn -DʒI -m  
+\ps adv  adv   v            v             
+\ge now  still do.what -acc say  -fut -1sg
+
+\ft What will I say now?
+\ph guːndʒim
+\ELANBegin 00:09:26.020
+\ELANEnd 00:09:30.791
+\ELANParticipant AS
+\ev
+\ru Cейчас еще что скажу?
+
+\id Solodikov_Artem_Managic_077
+\tx Ịaw      goːndʒinni?
+
+\ft What will you say?
+\ph guːndʒini
+\ELANBegin 00:09:30.791
+\ELANEnd 00:09:35.588
+\ELANParticipant BP
+\ev
+\ru Что скажешь?
+
+\id Solodikov_Artem_Managic_078
+\tx Kọbalam      ŋeːlelerin, kak   tam...  ne   baites'?
+
+\ft Are you afraid of bear? Aren't you afraid?
+\ph
+\gr
+\nt BP tries to ask a question in Even..
+\ELANBegin 00:09:35.588
+\ELANEnd 00:09:41.789
+\ELANParticipant BP
+\ev
+\ru Медведя не боитесь? как там.. не боитесь?
+
+\id Solodikov_Artem_Managic_079
+\tx Ja    kọbalamtịt      esemtit               ọːpčawatta              ọːkta    kọbalantakị.
+\mb ja    kọbalan -W   =tIt e   -R(E)   -m   =tIt họːpča -WEːČ -R       ọːk  =DE  kọbalan -t(E)kI
+\ps pron  n                 v                     v                     pron      n              
+\ge 1sg.R bear    -acc =ptl neg -nonfut -1sg =ptl tease  -gnr  -neg.cvb when =ptl bear    -all   
+
+\ft Bear ... Actually I never pick on bear.
+\ph
+\gr
+\nt
+\ELANBegin 00:09:41.789
+\ELANEnd 00:09:46.853
+\ELANParticipant AS
+\ev
+\ru Я медведя вообще-то..  никогда к медведю не задираюсь.
+
+\id Solodikov_Artem_Managic_080
+\tx Kọbalamgalda             ọːjaw      bi   uŋniwu            maːrịwụ.
+\mb kọbalan -W   =GEl   =DE  họːja -W   biː uŋ -RI  -W        maː  -RI  -W       
+\ps n                        quant      pron v                 v                  
+\ge bear    -acc =coord =ptl many  -acc 1sg do -pst -poss.1sg kill -pst -poss.1sg
+
+\ft Bears...  I killed many of them.
+\ph
+\gr It is really a possible combination of particles, I tried without them and with each of them.
+\nt
+\ELANBegin 00:09:46.853
+\ELANEnd 00:09:52.200
+\ELANParticipant AS
+\ev
+\ru Медведей-то много я убил.
+
+\id Solodikov_Artem_Managic_081
+\tx Omneken        avstralijtselnun       inostrannyj oxotnikaddiwu.
+\mb omen -REkEn    avstralijtse -L  -ńUn inostrannyj oxotnika -D    -RI  -W       
+\ps num            n                     adj         v                            
+\ge one  -iter.adv Australian   -pl -com foreign.R   hunt.R   -prog -pst -poss.1sg
+
+\ft
+\ph Ọmnakan
+\gr inostrannyj oxotnikaddiwu "проводил иностранную охоту"
+\ELANBegin 00:09:52.200
+\ELANEnd 00:09:56.813
+\ELANParticipant AS
+\ev
+\ru Однажды с автралийцами иностранную охоту проводил.
+
+\id Solodikov_Artem_Managic_082
+\tx Nan    urkečle                      gịrkarịwụ,       asụkụt uŋewriwu.
+\mb ńaːn hurkeč                -(dU)LE gịrka -RI  -W        asụkụt uŋ -E  -W     -RI  -W       
+\ps adv  n                             v                    adv    v                           
+\ge and  female.bear.with.cubs -loc    walk  -pst -poss.1sg almost do -ep -advrs -pst -poss.1sg
+
+\ft I walked directly on the female bear with her cubs, I was nearly done in by her.
+\ph ụrkačla -- in Robbek front vowels, asụkụč
+\gr
+\ELANBegin 00:09:56.813
+\ELANEnd 00:10:07.213
+\ELANParticipant AS
+\ev
+\ru Прямо на матуху с медвежатами вышел, чуть она со мной не разделалась.
+
+\id Solodikov_Artem_Managic_083
+\tx Tarakam       nan    tara  unet tawar dʒawattịs                            ekenni           bisin
+\mb tarakam       ńaːn tarak unet tarak dʒaw       -E  -Č   -RI       -s(I)     eken   -n(I)     bi -RI  -n(I)    
+\ps adv           adv  pron  ?    pron  v                                       n                v                
+\ge in.those.days and  dist  yet  dist  catch.hold -ep -res -impf.ptc -poss.2sg mother -poss.3sg be -pst -poss.3sg
+
+\tx unet iːnin.
+\mb unet iːn  -RI  -n(I)    
+\ps ?    v                  
+\ge yet  live -pst -poss.3sg
+
+\ft In that time the mother of that you are holding was living.
+\ph
+\gr
+\nt NA had his daughter Alaxandra on her lap.
+\ELANBegin 00:10:07.213
+\ELANEnd 00:10:14.373
+\ELANParticipant AS
+\ev
+\ru Вот тогда еще вот у той, которую ты держишь, мать была еще жива.
+
+\id Solodikov_Artem_Managic_084
+\tx Nan    emuriwu                   iːsečin, nan    goːnem            :   kọbalandụla   gịrkarịwụ.
+\mb ńaːn em   -U    -RI  -W        iːsečin ńaːn goːn -R(E)   -m   kọbalan -(dU)LE gịrka -RI  -W       
+\ps adv  v                         ?       adv  v                 n               v                   
+\ge and  come -caus -pst -poss.1sg evening and  say  -nonfut -1sg bear    -loc    walk  -pst -poss.1sg
+
+\ft So, I brought it in the evening and said: I  met a bear.
+\ph     guːnem
+\gr
+\ELANBegin 00:10:14.373
+\ELANEnd 00:10:28.173
+\ELANParticipant AS
+\ev
+\ru И вот приношу вечером и говорю: на медведя вышел.
+
+\id Solodikov_Artem_Managic_086
+\tx A     taraw      urkeču                    maːrịwụ.
+\mb a.R   tarak -W   hurkeč                -W   maː  -RI  -W       
+\ps ?     pron       n                          v                  
+\ge but.R dist  -acc female.bear.with.cubs -acc kill -pst -poss.1sg
+
+\ft But I killed that bear.
+\ELANBegin 00:10:28.173
+\ELANEnd 00:10:31.213
+\ELANParticipant AS
+\ev
+\ru A того медведя убил.
+
+\id Solodikov_Artem_Managic_087
+\tx Tačịngalda              kọbalangaj              ọːjaw      ụrkatta         bejčiweːttem,
+\mb tarọːčịn  =GEl   =DE  kọbalan -GE    -J       họːja -W   hụrka -Č   =DE  bejči -WEːČ -R(E)   -m  
+\ps pron                  n                       quant      n               v                       
+\ge dist.qual =coord =ptl bear    -desig -prfl.sg many  -acc noose -ins =ptl hunt  -gnr  -nonfut -1sg
+
+\tx pukterewunette.
+\mb pukterewun -E  -Č   =DE 
+\ps n                       
+\ge gun        -ep -ins =ptl
+
+\ft Sp I caught many bears with a noose, with a gun.
+\ph bejčiwaːttem
+\ELANBegin 00:10:31.213
+\ELANEnd 00:10:53.026
+\ELANParticipant AS
+\ev
+\ru Таким образом медведей себе много петлей наловил, ружьем.
+
+\id Solodikov_Artem_Managic_088
+\tx Ịaw      goːndʒim?       Gavari    tože.
+\mb ịak  -W   goːn -DʒI -m   govori    tože  
+\ps pron      v              v         ptl   
+\ge what -acc say  -fut -1sg say.imp.R also.R
+
+\ft What will I say? Say something as well.
+\ph guːndʒim
+\ELANBegin 00:10:53.026
+\ELANEnd 00:10:59.200
+\ELANParticipant AS
+\ev
+\ru Что скажу? Говори  тоже.
+
+\id Solodikov_Artem_Managic_089
+\tx Toregreli             iːde.
+\mb tore  -Gr(E) -LI      hiː =DE 
+\ps v                     pron    
+\ge speak -hab   -imp.2sg 2sg =ptl
+
+\ft Speak yourself as well.
+\ph Toreγreli iːda
+\ELANBegin 00:10:59.200
+\ELANEnd 00:11:01.746
+\ELANParticipant AS
+\ev
+\ru Разговаривай ты тоже.
+
+\id Solodikov_Artem_Managic_090
+\tx A ọllaw     elgeč     ọːn?
+
+\ft And how to fish with marik?
+\ph
+\gr
+\nt I don't know an English word for marik, it's a long stick with a hook for fishing.
+\ELANBegin 00:11:01.746
+\ELANEnd 00:11:05.906
+\ELANParticipant BP
+\ev
+\ru A рыбу мариком как?
+
+\id  Solodikov_Artem_Managic_091
+\tx A     bi   elgeč     elgečkel         tačịn       ọnnịmallịdʒịtkan
+\mb a.R   biː elge  -Č   elge  -Č   =GEl   tarọːčịn  họnrịn   -mEl -RIdʒI   =t(E)kEn
+\ps ?     pron n          n                 pron      v                              
+\ge but.R 1sg marik -ins marik -ins =coord dist.qual be.bored -des -ant.cvb =restr  
+
+\tx elgečisnoːttem.
+\mb elge  -Č   -s(E)n -WEːČ -R(E)   -m  
+\ps v                                   
+\ge marik -res -lim   -gnr  -nonfut -1sg
+
+\ft With a marik... I fish with a marik only when I'm bored.
+\ph
+\gr onnimellidʒiken des + inch??+ ridʒi =restr honrildaj -- skuchatj (Cincius), Robbek gives họnrịndaj -- skuchatj, toskovatj
+họnrịn -- toska, grustj. ọnnịdʒak -- скука, bi ọnnịndʒịm -- я скучаю (буду скучать??), bi ọnnịnịmallam -- я хочу скучать, bi
+ọnnịllam / ọnnịladdam -- я начинаю скучать, ọnnịllọːttem -- я скучаю, ọnniram -- я скучаю, ọnnịnnam -- я скучаю,
+ọnnịnanni -- ты скучаешь, ọnnịnan -- он скучает. like bọkan?
+\gr to me it sounds like elgetke, without the -l, but on 06.02.13 RME confirmed elgetkeL
+\nt
+\ELANBegin 00:11:05.906
+\ELANEnd 00:11:13.120
+\ELANParticipant AS
+\ev
+\ru А я мариком.. мариком так только, когда заскучаю, ловлю (мариком).
+
+\id Solodikov_Artem_Managic_092
+\tx Tadụk       tačịngalda              bi   katepkajị           tulutčoːttem,
+\mb tarak -DUk(U) tarọːčịn  =GEl   =DE  biː katep -GE    -J       tul -U    -Č   -WEːČ -R(E)   -m  
+\ps pron          pron                  pron ?                     v                                
+\ge dist  -abl    dist.qual =coord =ptl 1sg morda -desig -prfl.sg set -caus -res -gnr  -nonfut -1sg
+
+\tx katepụ   tulloːttem.
+\mb katep -W   tul -WEːČ -R(E)   -m  
+\ps n          v                     
+\ge morda -acc set -gnr  -nonfut -1sg
+
+\ft Usually I set my morda, I set a morda.
+\ph katep!!! what to do with that??? what row? back or front? katepkai ?
+\gr 06.02.13 (questions14, 15:00) katepu tulutčoːttem = vsegda stavlju, tulloːttem = stavlju; tuluweːttem = NO;  tuluttem =
+ja vsegda derzhu postavlennoj; biː tullem = postavil
+\nt
+\ELANBegin 00:11:13.120
+\ELANEnd 00:11:22.920
+\ELANParticipant AS
+\ev
+\ru Tак-то я катеп себе выставляю, катеп ставлю.
+
+\id Solodikov_Artem_Managic_093
+\tx Katepu     ijun' u,  ijul,  avgụstaw        tuluttem.
+\mb katep -W   ijun   W   iijul  avgust   -E  -W   tul -U    -Č   -R(E)   -m  
+\ps n          n      ?   ?      n                 v                          
+\ge morda -acc June.R acc July.R August.R -ep -acc set -caus -res -nonfut -1sg
+
+\ft I set my morda for June, July and August.
+\ph avgụstụw
+\ELANBegin 00:11:22.920
+\ELANEnd 00:11:32.706
+\ELANParticipant AS
+\ev
+\ru Катеп в июне , июле, в августе держу поставленным.
+
+\id Solodikov_Artem_Managic_094
+\tx Dʒoːrbe    uŋu           atkịkam      tulutčoːttem.
+\mb dʒoːr -W   uŋ        -W   atkịkan -W   tul -U    -Č   -WEːČ -R(E)   -m  
+\ps num        n              n            v                                
+\ge two   -acc something -acc month   -acc set -caus -res -gnr  -nonfut -1sg
+
+\ft
+\ph Dʒurbe
+\gr       tuluddʒoːttem??  tulutčoːttem
+\ELANBegin 00:11:32.706
+\ELANEnd 00:11:37.293
+\ELANParticipant AS
+\ev 2 месяца держу поставленным.
+\ru
+
+\id Solodikov_Artem_Managic_095
+\tx Tadụkkal           nan    atallọːttamasị.
+\mb tarak -DUk(U) =GEl   ńaːn atal     -WEːČ -R(E)   -m   -E  =sI  
+\ps pron                 adv  v                                    
+\ge dist  -abl    =coord and  take.off -gnr  -nonfut -1sg -ep =emph
+
+\ft And from that time I take it already off.
+\ph atelottemešị
+\ELANBegin 00:11:37.293
+\ELANEnd 00:11:44.066
+\ELANParticipant AS
+\ev
+\ru C той поры уже снимаю.
+
+\id Solodikov_Artem_Managic_096
+\tx Nan    tar   sentjabrlagel,             montelse     ọːdakan,                    ọkaːtụ
+\mb ńaːn tarak sentjabr    -(dU)LE =GEl   montelse     ọː     -REk      -E  -n(I)     ọkaːt -W  
+\ps adv  pron  n                          n            v                              n         
+\ge and  dist  September.R -loc    =coord early.autumn become -cond.cvb -ep -poss.3sg river -acc
+
+\tx aːŋawaːttam,              uŋden                  iːntelden                  ọlla uŋtekiji
+\mb aːŋa -WEːČ -R(E)   -m   uŋ -DE       -n(I)     iːntel -DE       -n(I)     ọlra uŋ        -t(E)kI -J      
+\ps v                       v                      v                          n    n                         
+\ge open -gnr  -nonfut -1sg do -purp.cvb -poss.3sg pass   -purp.cvb -poss.3sg fish something -all    -prfl.sg
+
+\tx gaːdadʒaktakịjị.
+\mb gaːda -ČEk -t(E)kI -J      
+\ps v                          
+\ge spawn -nr  -all    -prfl.sg
+
+\ft Well then in September in the early autumn I open the river to let fish pass to the spawning area.
+\ph sentjabr'laγer -- Artem says -ger, Rimma repeats -gel. la + gel?  uŋdan inteldan -- again, Rimma says clear a!
+\gr to me it sounds like aːŋawaːttụ, but 06.02.13 RME confirmed aːŋawaːttam
+\ELANBegin 00:11:44.066
+\ELANEnd 00:12:02.706
+\ELANParticipant AS
+\ev
+\ru И вот в сентябре уже, когда осень настает, речку открываю, чтобы рыба прошла мимо на свое место, на свое нерестилище.
+
+\id Solodikov_Artem_Managic_098
+\tx Tadụk       adalačta            bejči.. adalčịwaːttam.
+\mb tarak -DUk(U) adal    -E  -Č   =DE  bejči adal    -Č   -WEːČ -R(E)   -m  
+\ps pron          n                     v     v                              
+\ge dist  -abl    fishnet -ep -ins =ptl hunt  fishnet -res -gnr  -nonfut -1sg
+
+\ft Then I fish with a fish net.
+\ph
+\gr to me it sounds like adalčịwaːttụ, but 06.02.13 RME confirmed adalčịwaːttam
+\ELANBegin 00:12:02.706
+\ELANEnd 00:12:17.333
+\ELANParticipant AS
+\ev
+\ru Оттуда  сеткой ловлю.
+
+\id Solodikov_Artem_Managic_099
+\tx Tadụkkal           nan    atallụsị,          noja... oktjabr'  ọːdakan,
+\mb tarak -DUk(U) =gEl   ńaːn atal     -(R)U   =sI   oktjabr   ọː     -REk      -E  -n(I)    
+\ps pron                 adv  v                      n         v                             
+\ge dist  -abl    =coord and  take.off -1pl.ex =emph October.R become -cond.cvb -ep -poss.3sg
+
+\tx nọŋkịkakam           tar   bejčisnem.
+\mb nọŋkị         -kEkEn -W   tarak bejči -s(E)n -R(E)   -m  
+\ps n                         pron  v                        
+\ge silver.salmon -dim   -acc dist  hunt  -lim   -nonfut -1sg
+
+\ft Then we take it (the net) off when Novem.. October comes, I fish a little bit for silver salmon.
+\ph  Lena: tadụk nan atallusi odakan.... Rimma Maximovna
+\gr he also mumbles something like tar unet tar between 98 and this sentence, but it's very faint and doesn't really matter, it's
+just empty words
+\gr 12.02.13 (questions16, 34:15) nọŋkịkakam = nemnozhko, not that they're small fish
+\ELANBegin 00:12:17.333
+\ELANEnd 00:12:27.920
+\ELANParticipant AS
+\ev Потом снимаeм (сеть), когда ноя... октябрь наступает, немного кижуча половлю.
+\ru
+
+\id Solodikov_Artem_Managic_100
+\tx Tadụkkal           nan    er   tugeni ọːdnisi                 nan.
+\mb tarak -DUk(U) =GEl   ńaːn erek tugeni ọː     -R(E)   -n(I) =sI   ńaːn
+\ps pron                 adv  pron n      v                          adv 
+\ge dist  -abl    =coord and  prox winter become -nonfut -3sg  =emph and 
+
+\ft Then the winter begins.
+\ELANBegin 00:12:27.920
+\ELANEnd 00:12:36.253
+\ELANParticipant AS
+\ev
+\ru Потом вот зима как раз начинается.
+
+\id Solodikov_Artem_Managic_101
+\tx Iŋe, ajịč.
+
+\ELANBegin 00:12:36.253
+\ELANEnd 00:12:39.306
+\ELANParticipant BP
+\ev
+\ru Да, хорошо.
+
+\id Solodikov_Artem_Managic_102
+\tx Iŋe, kojeːnni   tiːk?
+\mb iŋe kojeː -nrI tiek
+\ps interj v          adv 
+\ge yes watch -2sg now 
+
+\ELANBegin 00:12:39.306
+\ELANEnd 00:12:42.360
+\ELANParticipant AS
+\ev
+\ru Да, видишь сейчас?
+
+\id Solodikov_Artem_Managic_103
+\tx Uŋduk            erek er   usijeken    syromjatina ụlaptịdʒị nan    uŋ
+\mb uŋ        -DUk(U) erek erek usi  -jEkEn syromjatina ụlab    -RIdʒI   ńaːn uŋ
+\ps n                 pron pron n           ?           v                adv  v 
+\ge something -abl    prox prox rope -dim   rawhide     get.wet -ant.cvb and  do
+
+\tx ọːwaːttan...
+\mb ọː     -WEːČ -R(E)   -n(I)
+\ps v                         
+\ge become -gnr  -nonfut -3sg 
+
+\ft This little rope is made of... it is rawhide, got wet, it becomes..
+\ELANBegin 00:12:42.360
+\ELANEnd 00:12:53.773
+\ELANParticipant AS
+\ev
+\ru Из этого вот ремешок этот сыромятина, намокнув, потом ... это.. становится..
+
+\id Solodikov_Artem_Managic_104
+\tx Uŋ       tarak takalkan.
+\mb uŋ        tarak tak  -E  -lkEn
+\ps n         pron  n             
+\ge something dist  salt -ep -prop
+
+\ft It is salted.
+\ph taqalkan
+\gr
+\ELANBegin 00:12:53.773
+\ELANEnd 00:12:59.306
+\ELANParticipant AS
+\ev
+\ru Он с солью.
+
+\id Solodikov_Artem_Managic_105
+\tx Nanda       potom  mụdakrịdʒị eːteːredʒim.
+\mb ńaːn =DE  potom  mụdak  -RIdʒI   heːteː -r(E) -DʒI -m  
+\ps adv       adv    v               v                     
+\ge and  =ptl then.R finish -ant.cvb fat    -vr   -fut -1sg
+
+\ft And then, having finished, I'll grease it.
+\ph
+\gr heːteː -- zhir (Cincius)
+\nt
+\ELANBegin 00:12:59.306
+\ELANEnd 00:13:04.320
+\ELANParticipant AS
+\ev
+\ru Закончив, промаслю.
+
+\id Solodikov_Artem_Managic_106
+\tx I     vse, aj bidʒin.
+\mb i     vse   aj   bi -DʒI -n(I)
+\ps conj  pron  adj  v            
+\ge and.R all.R good be -fut -3sg 
+
+\ft Then it will be good.
+\ELANBegin 00:13:04.320
+\ELANEnd 00:13:07.119
+\ELANParticipant AS
+\ev
+\ru Вот тогда хорошо будет.
+
+\id Solodikov_Artem_Managic_107
+\tx Vse.
+\mb vse  
+\ps pron 
+\ge all.R
+
+\ELANBegin 00:13:07.119
+\ELANEnd 00:13:09.706
+\ELANParticipant AS
+\ev
+\ru Все.
+
+\id Solodikov_Artem_Managic_108
+\tx Vse,  aga. Spasibo  boljshoe!
+
+\ELANBegin 00:13:09.706
+\ELANEnd 00:13:16.040
+\ELANParticipant BP
+\ev
+\ru Все, ага. Спасибо большое!
+
+\id Solodikov_Artem_Managic_109
+\tx Ja govorju, vot eto vot sejchas namoknet, a potom ona syromjatina, ona soljenaja. A kogda ona
+namoknet, ona budet kak sopli.
+\ft I'm telling, when it gets wet, this rawhide.. it is salted, when it gets wet, it will be slimy.
+\ELANBegin 00:13:16.040
+\ELANEnd 00:13:24.626
+\ELANParticipant AS
+\ev
+\ru Я говорю, вот это вот сейчас намокнет, а потом вот она сыромятина, она соленая. А когда она  намокнет, она будет, как
+сопли.
+
+\id Solodikov_Artem_Managic_110
+\tx Sovsem?
+\ft Absolutely?
+\ELANBegin 00:13:24.626
+\ELANEnd 00:13:25.386
+\ELANParticipant BP
+\ev
+\ru совсем?
+
+\id Solodikov_Artem_Managic_111
+\tx Da, ona vot tut skoljzit, vot ja ego zhirom medvezhjim namazhu. Potom sdelaem.
+\ft Yeah, it is slick here, I will grease it with bear fat. I'll do it later.
+\ELANBegin 00:13:25.386
+\ELANEnd 00:13:38.866
+\ELANParticipant AS
+\ev
+\ru Да, она вот тут скользит, вот сейчас я его жиром медвежьим намажу. Потом сделаем.
+
+\id Solodikov_Artem_Managic_112
+\tx Xorosho. Vsje, naverno.
+\ft Well. That's all, probably.
+\ELANBegin 00:13:38.866
+\ELANEnd 00:13:42.880
+\ELANParticipant BP
+\ev
+\ru Хорошо. Все, наверно.
+
+\id Solodikov_Artem_Managic_113
+\tx Erew      uŋni.
+\mb erek -W   uŋ -LI     
+\ps pron      v          
+\ge prox -acc do -imp.2sg
+\ft Do it.
+\ELANBegin 00:13:42.880
+\ELANEnd 00:13:44.000
+\ELANParticipant AS
+\ev
+\ru Вот это сделай.
+
+\id Solodikov_Artem_Managic_114
+\tx Erew      uŋni.
+\ft Do it.
+\ELANBegin 00:13:44.000
+\ELANEnd 00:13:46.773
+\ELANParticipant BP
+\ev
+\ru Вот это сделай.
+
+\id Solodikov_Artem_Managic_115
+\tx A     to     ač čimetle     esem             ajič        kojeːr.
+\mb a.R   to     ač  čimet   -LE  e   -R(E)   -m   aj   -E  -Č   kojeː -R      
+\ps ?     adj    ptl n            v                adj           v             
+\ge but.R that.R neg glasses -prv neg -nonfut -1sg good -ep -ins watch -neg.cvb
+
+\ft I cann't see good enough without my glasses.
+\ph
+\gr
+\ELANBegin 00:13:46.773
+\ELANEnd 00:13:50.226
+\ELANParticipant AS
+\ev
+\ru A то без очков не могу хорошо видеть.
+
+\id Solodikov_Artem_Managic_116
+\tx A, igolka i nitka.
+\ft Aha, a needle and a thread.
+\ELANBegin 00:13:50.226
+\ELANEnd 00:13:51.661
+\ELANParticipant NA
+\ev
+\ru а, иголка и нитка
+
+\id Solodikov_Artem_Managic_117
+\tx ty
+\ft you
+\ELANBegin 00:13:51.661
+\ELANEnd 00:13:52.394
+\ELANParticipant BP
+\ev
+\ru ты
+
+\id Solodikov_Artem_Managic_118
+\tx mne vdet'?
+\ft should I thread?
+\ELANBegin 00:13:52.394
+\ELANEnd 00:13:57.133
+\ELANParticipant NA
+\ev
+\ru мне вдеть?
+
+\id Solodikov_Artem_Managic_119
+\tx Tọmkačaw.
+\mb tọmkača -W  
+\ps n           
+\ge thread  -acc
+\ft The thread.
+\ELANBegin 00:13:57.133
+\ELANEnd 00:14:08.520
+\ELANParticipant AS
+\ev
+\ru нитку
+
+\id Solodikov_Artem_Managic_120
+\tx Ekič aːwaj    bihenni.        Disčin.
+\mb ekič haːwaj    bi -R(E)   -nrI disčin
+\ps ?    ?         v               adv   
+\ge very skillfull be -nonfut -2sg enough
+
+\ft You are very skillfull. Enough.
+\ph
+\gr disčin?? an adverb or a verb?  mindu disčin-- мне достаточно, min ọllaw bejčidʒim disčin bidan -- я наловлю рыбы, чтобы
+было достаточно, eden disčin bisi -- не достаточно, disčikakan -- хватит малого, ajịč disčin gịrkan -- достаточно хорошо
+идет.  Mindu distan -- чтобы мне хватило, disčiwu -- мне всего хватало, bi tadu biddeku, gịakịw disčiwu -- когда я там был,
+мне всего хватало, gịakịn disčin -- ему хватало, им всего хватало -- disettin. Disčindʒim -- я буду достаточна, i disčindʒinni
+-- ты будешь достаточен, nọŋan disčidʒin / disčindʒin -- он будет достаточен...  disčiwu -- мне всего хватало vs. disčindʒim
+-- я буду достаточна!
+\ELANBegin 00:14:08.520
+\ELANEnd 00:14:12.813
+\ELANParticipant AS
+\ev
+\ru Очень мастерски. Достаточно.
+
+\id Solodikov_Artem_Managic_121
+\tx Er   uŋne      ŋennidʒi,    uŋ       bidʒinni     čumrabotnica.
+\mb erek uŋni       ŋen -RIdʒI   uŋ        bi -DʒI -nrI čumrabotnica 
+\ps pron ?          v            n         v            n            
+\ge prox over.there go  -ant.cvb something be -fut -2sg yurt.worker.R
+
+\ft So, when you come there, you will be a yurt worker there.
+\ph he says ŋennidʒit, but Lena Cherkanova says, it must be nevertheless ŋennidʒi
+\gr
+\ELANBegin 00:14:12.813
+\ELANEnd 00:14:17.106
+\ELANParticipant AS
+\ev
+\ru Вот туда приедешь, там будешь чумработницей.
+
+\id Solodikov_Artem_Managic_122
+\tx laughter
+\ELANBegin 00:14:17.132
+\ELANEnd 00:14:21.252
+\ELANParticipant comments
+\ev
+\ru
+
+\id Solodikov_Artem_Managic_123
+\tx Igolku v nitku vdet' možet, značit uže čumrabotnitsa?
+\mb
+\ge
+\ft If one can needle a thread, it means she is already a yurt worker?
+\ph
+\gr
+\nt NA confused needle and thread
+\qu
+\ELANBegin 00:14:21.252
+\ELANEnd 00:14:27.279
+\ELANParticipant NA
+\ev
+\ru иголку в нитку вдеть может, значит уже чумработница?
+
+\id Solodikov_Artem_Managic_124
+\tx Net, esče naučišsja peč xleb na kostre
+\mb
+\ge
+\ft No, you have to learn baking bread on fire.
+\ELANBegin 00:14:27.279
+\ELANEnd 00:14:33.639
+\ELANParticipant BP
+\ev
+\ru нет, еще научишься печь хлеб на костре
+
+\id Solodikov_Artem_Managic_125
+\tx Da, eto posložnee
+\mb
+\ge
+\ft Yeah, that's more complicated.
+\ELANBegin 00:14:33.653
+\ELANEnd 00:14:36.386
+\ELANParticipant NA
+\ev
+\ru да, это посложнее
+
+\id Solodikov_Artem_Managic_126
+\tx I vs'o uže budet..
+\mb
+\ge
+\ft Then that's all.
+\ELANBegin 00:14:36.386
+\ELANEnd 00:14:41.773
+\ELANParticipant BP
+\ev
+\ru и все уже будет
+
+\id Solodikov_Artem_Managic_127
+\tx Sbrui von sobiraem postojanno, a to ne xvataet s'odel
+\ft We make harness every time, because we always don't have enough saddle.
+\ELANBegin 00:14:41.773
+\ELANEnd 00:14:46.946
+\ELANParticipant AS
+\ev
+\ru сбруи  вон  собираем  постоянно,  а  то  не  хватает  седел
+
+\id Solodikov_Artem_Managic_128
+\tx Dọŋkalba      abalčịn        uŋu                mụral     ọːja.
+\mb dọŋka  -L  -W   abal -Č   -E  -n(I) uŋ        -W        mụran -L  họːja
+\ps n               adj                 n                   n         quant
+\ge saddle -pl -acc few  -res -ep -3sg  something -poss.1sg horse -pl many 
+
+\ft We have few saddles and many horses.
+\ph Dọŋkalbe.. Abelčin
+\gr ọlla / ọllaw abalčin -- рыбы не хватает, abalčịram -- у меня мало, abalčịrịwụ -- у меня было мало, abalčịnnị -- у тебя мало,
+abalčịs -- у вас мало, abalčịdan -- чтобы не хватало, eden abalčịr/abalčịn -- чтобы не было нехватки, mụraldʒị abalčịr -- им
+лошадей не хватает.  Mindu abalčịdʒịn -- мне не будет не хватать. Bi abalčịdʒịm,  I abalčịdʒịnnị, Noŋan abalčịdʒịn. Added
+vr ČI.
+\ELANBegin 00:14:46.946
+\ELANEnd 00:14:53.693
+\ELANParticipant AS
+\ev
+\ru Седел не хватает, лошадей много.
+
+\id Solodikov_Artem_Managic_129
+\tx A     tiːk umekič eːripči    umekič čeːledʒide           ọːdnị.
+\mb a.R   tiek umekič eːrin -pčI  umekič čele -DʒI         =DE  ọː     -n(I)
+\ps ?     adv  adv    n           adv    ?                      v           
+\ge but.R now  very   price -advr very   all  -ins.prfl.sg =ptl become -3sg 
+
+\ft Everything became expensive now.
+\ph
+\gr
+\ELANBegin 00:14:53.693
+\ELANEnd 00:14:58.160
+\ELANParticipant AS
+\ev
+\ru А теперь очень дорого очень все стало.
+
+\id Solodikov_Artem_Managic_130
+\tx Denig       abalčịn.
+\mb deneg       abal -Č   -E  -n(I)
+\ps n           adj                
+\ge money.Gen.R few  -res -ep -3sg 
+
+\ft There is not enough money.
+\ph deneγ
+\gr abalčịn see 128
+\nt
+\ELANBegin 00:14:58.160
+\ELANEnd 00:15:01.333
+\ELANParticipant AS
+\ev
+\ru Денег не хватает.
+
+\id Solodikov_Artem_Managic_131
+\tx Tarịjaːla        von     mọːla       nọkkọːtta          dọŋka dụgačarnị,            tar
+\mb tarak -jEː -(dU)LE von     mọː  -(dU)LE nọk     -WEːČ -R(E)   dọŋka  duga  -čEn -L  -n(I)     tarak
+\ps pron               ptl     n            v                     n      n                        pron 
+\ge dist  -aug -loc    there.R tree -loc    hang.up -gnr  -nonfut saddle bow.R -dim -pl -poss.3sg dist 
+
+\ft There, over there, there are saddle bows.
+\ph
+\gr June 2016: voooon oni, von tam, daleko
+\ELANBegin 00:15:01.333
+\ELANEnd 00:15:08.866
+\ELANParticipant AS
+\ev
+\ru Bон, вон на дереве висят  дуги от седла.
+
+\id Solodikov_Artem_Managic_132
+\tx Taraw      tar...
+\mb tarak -W   tarak
+\ps pron       pron 
+\ge dist  -acc dist 
+\ft This...
+\ELANBegin 00:15:08.866
+\ELANEnd 00:15:10.400
+\ELANParticipant AS
+\ev
+\ru Это вот..
+
+\id Solodikov_Artem_Managic_133
+\tx Potom  ọːdakan                     nọːnịn ọːdakan                     ịadʒịm
+\mb potom  ọː     -REk      -E  -n(I)     nọːnịn ọː     -REk      -E  -n(I)     ịa      -DʒI -m  
+\ps adv    v                              ?      v                              v                
+\ge then.R become -cond.cvb -ep -poss.3sg quiet  become -cond.cvb -ep -poss.3sg do.what -fut -1sg
+
+\tx ọːddʒịm          erew.
+\mb ọː   -D    -DʒI -m   erek -W  
+\ps v                    pron     
+\ge make -prog -fut -1sg prox -acc
+
+\ft When I have more time, what will I do? I'll do that.
+\ph actually he says ọːsčịdakan, but both Rimma and Lena say it is ọːdakan,
+\gr nọːnịn -- I can't find it in dictionaires, but both Rimma and Lena know this word.
+\nt
+
+\ELANBegin 00:15:10.400
+\ELANEnd 00:15:20.946
+\ELANParticipant AS
+\ev
+\ru Когда станет посвободнее, что буду делать? (вот это) сделаю.
+
+\id Solodikov_Artem_Managic_134
+\tx Bisni            mọːŋgajị              kimčewu.
+\mb bi -R(E)   -n(I) mọː  -ŋ   -GE    -J       kim     -čE     -W       
+\ps v                n                         v                        
+\ge be -nonfut -3sg  tree -aln -desig -prfl.sg prepare -pf.ptc -poss.1sg
+
+\ft There are prepared sticks.
+\ph
+\gr 06.02.13 (questions14, 23:45) kimčewu = to chto ja prigotovil
+\nt
+\ELANBegin 00:15:20.946
+\ELANEnd 00:15:24.640
+\ELANParticipant AS
+\ev
+\ru Есть приготовленные себе палки.
+
+\id Solodikov_Artem_Managic_135
+\tx Taraw      uŋdʒim       kimeddʒim,                  erew      tiːk ičukendʒim.
+\mb tarak -W   uŋ -DʒI -m   kim     -E  -D    -DʒI -m   erek -W   tiek it  -WkEn -DʒI -m  
+\ps pron       v            v                           pron      adv  v                  
+\ge dist  -acc do -fut -1sg prepare -ep -prog -fut -1sg prox -acc now  see -caus -fut -1sg
+
+\ft I will prepare this, I will show this one now.
+\ELANBegin 00:15:24.640
+\ELANEnd 00:15:35.066
+\ELANParticipant AS
+\ev
+\ru Это cделаю.. приготовлю, вот это сейчас покажу.
+
+\id Solodikov_Artem_Managic_136
+\tx Ile           erek doskaŋalgajị,                    dọŋkagaji             kimčewu,                 kojeːs?
+\mb irek  -(dU)LE erek doska   -ŋ   -E  -L  -GE    -J       dọŋka  -GE    -J       kim     -čE     -W        kojeː -s  
+\ps pron          pron n                                    n                      v                         v         
+\ge which -loc    prox board.R -aln -ep -pl -desig -prfl.sg saddle -desig -prfl.sg prepare -pf.ptc -poss.1sg watch -2pl
+
+\ft Where are my boards,  I prepared for saddle, do you see?
+\ph kimčawu
+\gr dọŋkaw     kimčewu?? Ile erek doskaŋalgai doŋkagai kimčewu
+\gr 06.02.13 (questions14, 24:15) dọŋkagajị kimčewu = doski prigotovlennye mnoju na sedlo; prigotovlennoe moe sedlo =
+kimčewu dọŋkagajị --> so the construction is ambiguous, but in the context it's clear
+\ELANBegin 00:15:35.066
+\ELANEnd 00:15:44.880
+\ELANParticipant AS
+\ev
+\ru Где эти мои доски, на седло приготовленные, видите?
+
+\id Solodikov_Artem_Managic_137
+\tx a     mereŋtič?        ... ooo
+\mb a.R   mereŋteː -E  -Č   ... oo
+\ps ?     n                 ?   interj
+\ge but.R skis     -ep -ins *** oh
+\ft skis?
+\ELANBegin 00:15:44.880
+\ELANEnd 00:15:47.800
+\ELANParticipant BP
+\ev
+\ru лыжами?
+
+\id Solodikov_Artem_Managic_138
+\tx Esni,             esni.
+\mb e   -R(E)   -n(I) e   -R(E)   -n(I)
+\ps v                 v                
+\ge neg -nonfut -3sg  neg -nonfut -3sg 
+\ft No, no.
+\ELANBegin 00:15:47.800
+\ELANEnd 00:16:02.160
+\ELANParticipant AS
+\ev
+\ru нет, нет
+
+\id Solodikov_Artem_Managic_139
+\tx Erek er,  dọŋka, dọŋka, dịlŋaŋan.
+\mb erek erek dọŋka  dọŋka  dịlŋan -ŋ   -E  -n(I)    
+\ps pron pron n      n      n                        
+\ge prox prox saddle saddle fore   -aln -ep -poss.3sg
+
+\ft Here is a saddle, saddle, parts.of.saddle.
+\ph
+\gr dịlŋan -- nos lodki, sudna (Robbek), tut metallicheskie detali sedla...
+\ELANBegin 00:16:02.160
+\ELANEnd 00:16:08.333
+\ELANParticipant AS
+\ev
+\ru Вот вот, седло, седло, железки.
+
+\id Solodikov_Artem_Managic_140
+\tx ааа
+\ELANBegin 00:16:08.333
+\ELANEnd 00:16:14.826
+\ELANParticipant BP
+\ev
+\ru
+
+\id Solodikov_Artem_Managic_141
+\tx Ineŋu          ọːdakan,                    nọːnịn ọːdakan                     ọːčịdʒịm.
+\mb ineŋ -W        ọː     -REk      -E  -n(I)     nọːnịn ọː     -REk      -E  -n(I)     ọː   -Č   -DʒI -m  
+\ps n              v                              ?      v                              v                  
+\ge day  -poss.1sg become -cond.cvb -ep -poss.3sg quiet  become -cond.cvb -ep -poss.3sg make -res -fut -1sg
+
+\ft My day will come, when I have more time, I'll do it.
+\ph
+\gr noːnin don't know still,  see also 133
+\ELANBegin 00:16:14.826
+\ELANEnd 00:16:22.533
+\ELANParticipant AS
+\ev
+\ru Мой день настанет, когда посвободнее станет, буду делать
+
+\id Solodikov_Artem_Managic_142
+\tx Erek ineŋu?
+\ft This day?
+\ELANBegin 00:16:22.533
+\ELANEnd 00:16:25.480
+\ELANParticipant BP
+\ev
+\ru Этим днем?
+
+\id Solodikov_Artem_Managic_143
+\tx Esni,             potom  ọːkta    ọːddʒịm.
+\mb e   -R(E)   -n(I) potom  ọːk  =DE  ọː   -D    -DʒI -m  
+\ps v                 adv    pron      v                   
+\ge neg -nonfut -3sg  then.R when =ptl make -prog -fut -1sg
+
+\ft No, I will do it some time later.
+\ELANBegin 00:16:25.480
+\ELANEnd 00:16:40.506
+\ELANParticipant AS
+\ev
+\ru Нет, потом когда-нибудь буду делать
+
+\id Solodikov_Artem_Managic_144
+\tx Erek isuridʒi     kọč,  isudʒin,        nan    belemŋewu              ọːdʒịn       kụŋaŋụ.
+\mb erek isu  -RIdʒI   kọč      isu  -DʒI -n(I) ńaːn bel  -E  -mŋE  -W        ọː     -DʒI -n(I) kụŋa  -ŋ   -W       
+\ps pron v             adv      v               adv  v                        v                 n                   
+\ge prox grow -ant.cvb probably grow -fut -3sg  and  help -ep -agnr -poss.1sg become -fut -3sg  child -aln -poss.1sg
+
+\ft Maybe this one when she grows up, will grow up, she will be my helper, my child.
+\ph
+\gr
+\nt He means his daughter that plays nearby all the time he speaks. At this moment she sat on this saddle in front of the camera.
+\ELANBegin 00:16:40.506
+\ELANEnd 00:16:50.053
+\ELANParticipant AS
+\ev
+\ru Вот эта когда вырастет, может, вырастет, помощницей мне будет.
+
+\id Solodikov_Artem_Managic_146
+\tx mmm
+\ELANBegin 00:16:50.053
+\ELANEnd 00:16:51.559
+\ELANParticipant BP
+\ev
+\ru ммм
+
+\id Solodikov_Artem_Managic_147
+\tx Pap, a ty vot tak budeš exat', da?
+\ft Dad, will you ride like this?
+\ELANBegin 00:16:51.559
+\ELANEnd 00:16:54.333
+\ELANParticipant Alexandra Solodikova
+\ev
+\ru Пап, а ты вот так будешь ехать, да?
+
+\id Solodikov_Artem_Managic_148
+\tx čas tịka, iŋe?
+\mb čas tịka ịŋa
+\ps ptl adv  ?  
+\ge ptl all  yes
+
+\ft Well is it enough now?
+\ELANBegin 00:16:54.333
+\ELANEnd 00:16:56.399
+\ELANParticipant AS
+\ev
+\ru ладно, хватит, все?
+
+\id Solodikov_Artem_Managic_149
+\tx mmm
+\ELANBegin 00:16:56.399
+\ELANEnd 00:16:57.479
+\ELANParticipant BP
+\ev
+\ru ммм
+
+\id Solodikov_Artem_Managic_150
+\tx tịka?
+\mb tịka
+\ps adv 
+\ge all 
+
+\ft is that enough?
+\ELANBegin 00:16:57.479
+\ELANEnd 00:17:00.600
+\ELANParticipant AS
+\ev
+\ru хватит?
+
+\id Solodikov_Artem_Managic_151
+\tx ịaw      tịka ịakawu?
+
+\ft What is tiːke?
+\ELANBegin 00:17:00.600
+\ELANEnd 00:17:02.373
+\ELANParticipant BP
+\ev
+\ru что такое тике?
+
+\id Solodikov_Artem_Managic_152
+\tx Goːnem            tịkasị   ọddịwụ.
+\mb goːn -R(E)   -m   tịka =sI   ọd   -RI  -W       
+\ps v                 adv        v                  
+\ge say  -nonfut -1sg all  =emph stop -pst -poss.1sg
+
+\ft I say, that's all, I finished.
+\ph guːnem
+\ELANBegin 00:17:02.373
+\ELANEnd 00:17:04.320
+\ELANParticipant AS
+\ev
+\ru говорю, хватит, закончил
+
+\id Solodikov_Artem_Managic_153
+\tx Ọddʒịdʒị?
+\ft Have you finished?
+\ELANBegin 00:17:04.320
+\ELANEnd 00:17:06.008
+\ELANParticipant BP
+\ev
+\ru Ты закончив?
+
+
+\ELANMediaURL file:///C:/NatAr/kamchatka2009/Kamchatka_texts/Audio_from_video/Solodikov_Artem_Nikolaevich_Managic_180609.wav
+\ELANMediaMIME audio/x-wav

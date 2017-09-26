@@ -1,0 +1,2971 @@
+\_sh v3.0  1065 Text
+
+\id Solodikova_RM_childhood.000_metadata
+\ref Recorded on 29 June 2009 by Brigitte Pakendorf in Anavgai. The recording was done in the kitchen of RMS's youngest daughter.
+Only RMS and BP were actually in the kitchen, while the daughter and Natalia Aralova were in other rooms of the house; in the
+beginning, they were in the living room chatting, which was audible in the kitchen, so after RMS had told a fairy tale BP asked
+them to be quieter and they moved to another room. Overall, there are hardly any disturbing noises, except that a neighbour
+started hammering about halfway through. Unfortunately, at the end BP got a coughing fit that she could not suppress. RMS first
+told a little fairy tale, and then she recounted some childhood reminiscences. She speaks very softly.
+\qu In 2009, transcribed in ELAN by NA and Rimma Maksimovna Egorova, translated orally into Russian by RME (audiorecordings), Russian
+translation entered into ELAN by Evgenija Zhivotova in 2015-2016. Glossed by BP in 2016. Funding by the Volkswagen Foundation (DoBeS
+grant) and CNRS/Universit� Lyon 2 (laboratoire DDL). Speaker abbreviation = RMS
+\ref Raisa Maksimovna Solodikova was born in 1945, i.e. she was 63-64 at the time of the recording. She had 11 years of schooling and
+worked as the school librarian. She speaks Russian with her children. She is the sister of Rimma Maksimovna Egorova.
+
+\id Solodikova_RM_childhood.001a
+\ref
+\tx
+\ELANBegin
+\ELANEnd
+\ELANParticipant BP
+\ru 29ого июня 2009-го года, село Анавгай, Солодикова Раиса Максимовна...
+
+\id Solodikova_RM_childhood.001b
+
+\ft ...will tell about her childhood
+\ph
+\gr
+\nt
+\ev кунга бидникэн тэлэнг...
+\ru ?как она была ребенком
+\ELANBegin 00:00:20.120
+\ELANEnd 00:00:24.190
+\ELANParticipant BP
+
+\id Solodikova_RM_childhood.002
+\tx Bi... kụŋa bimi         bu     bisiwun              Twajaːndụla.
+\mb biː kụŋa  bi -mI       buː    bi -RI  -WUn         Twajaːn -(dU)LE
+\ps pron n     v            pron   v                    n              
+\ge 1sg child be -cond.cvb 1pl.ex be -pst -poss.1pl.ex Twajaːn -loc   
+\ft When I was a child we lived in Twajan.
+\ev
+\ru Когда я была ребенком мы жили в Тваяне.
+\ELANBegin 00:00:26.360
+\ELANEnd 00:00:31.240
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.003
+\tx Nọnankana      taŋniwu            tadu       selodu         Twajaːndu.
+\mb nọnan     =kEnE  taŋ  -RI  -W        tarak -DU  selo      -DU  Twajaːn -DU 
+\ps ?                v                   pron       n              n           
+\ge beginning =contr read -pst -poss.1sg dist  -dat village.R -dat Twajaːn -dat
+\ft At first I studied (went to school) there, in the village Twajan.
+\ev
+\ru В начале училась там в селе Тваян.
+\ELANBegin 00:00:32.990
+\ELANEnd 00:00:38.260
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.004
+\tx Ńan   načalneje školew       ọddidʒur       ńan   Essoːtki        upkutnariwun,                    tadu       internattu
+\mb ńaːn načalnaja škola    -W   ọd   -RIdʒI   -L  ńaːn Essọː -t(E)kI hupkut -nE     -RI  -WUn         tarak -DU  internat          -DU 
+\ps adv  adj       n             v                 adv  n             v                                pron       n                     
+\ge and  primary.R school.R -acc stop -ant.cvb -pl and  Esso  -all    learn  -intent -pst -poss.1pl.ex dist  -dat boarding.school.R -dat
+
+\tx bisiwun.
+\mb bi -RI  -WUn        
+\ps v                   
+\ge be -pst -poss.1pl.ex
+
+\ft And having finished primary school we went to Esso to study, there we lived in the boarding school.
+\ev
+\ru Начальную школу закончили, потом поехали в Ессо учиться. Там в интернате жили.
+\ELANBegin 00:00:38.260
+\ELANEnd 00:00:48.080
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.006
+\tx Ńan   eskoladu      eskolaw       ọddakan                    ńan   učebnyj god    ọddakan                    bu
+\mb ńaːn škola    -DU  škola    -W   ọd   -REk      -E  -n(I)     ńaːn učebnyj  god    ọd   -REk      -E  -n(I)     buː   
+\ps adv  n             n             v                            adv  adj      n      v                            pron  
+\ge and  school.R -dat school.R -acc stop -cond.cvb -ep -poss.3sg and  school.R year.R stop -cond.cvb -ep -poss.3sg 1pl.ex
+
+\tx orroːttu                   mụranač.
+\mb hor -WEːČ -R(E)   -(R)U   mụran -E  -Č  
+\ps v                         n             
+\ge go  -gnr  -nonfut -1pl.ex horse -ep -ins
+
+\ft And when we finished school, when the school year ended, we left by horse.
+\ph
+\gr ọd- is a labile verb, bi knigaw ọddam = ja knigu zakonchila but also kniga ọddan = kniga zakonchilas - though I do wonder, because in her Russian translation
+Rimma translated "eskolaw ọddakan" as "shkola konchalasj", i.e. intransitive, which is what I had thought about ọd-; but a concordance shows 3 more such
+instances in Kamchatka and 3 in Sebjan, so it should indeed be labile
+\ev
+\ru школу закончили.... лошади
+\ru И в школе, школа кончалась, и учебный год заканчивался, мы уезжали на лошадях
+\ELANBegin 00:00:48.080
+\ELANEnd 00:01:04.220
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.007
+\tx Munu            gadʒịwaːtta            kolxoz            mụrald'in.
+\mb mun        -W   gadʒị      -WEːČ -R(E)   kolxoz            mụran -L  -Č   -n(I)    
+\ps n               v                        n                 n                       
+\ge 1pl.ex.obl -acc go.to.take -gnr  -nonfut collective.farm.R horse -pl -ins -poss.3sg
+
+\ft They fetched us with the horses of the collective farm.
+\ph muraldud'in
+\ev
+\ru За нами ехали на колхозных лошадях.
+\ELANBegin 00:01:04.420
+\ELANEnd 00:01:08.000
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.008
+\tx Badụsnoːttu,               ọːjeː      biweːtte.
+\mb badụ -s(E)n -WEːČ -(R)U   họːja =eː   bi -WEːČ -R(E)  
+\ps v                         quant       v               
+\ge ride -lim   -gnr  -1pl.ex many  =emph be -gnr  -nonfut
+\ft We rode off, there were very many (children).
+\ph
+\gr badusnoːttu = the limitative here gives the inchoative meaning, baduwaːttu = my exali
+\ev
+\ru Мы начинали ехать много нас было.
+\ELANBegin 00:01:08.428
+\ELANEnd 00:01:11.795
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.009
+\tx Mụralbụn             aːdụnda     abal biweːtten,              ńan   egdʒedmer     algandawaːtta,            a     kučuker
+\mb mụran -L  -WUn         haːdụn    =DE  abal bi -WEːČ -R(E)   -n(I) ńaːn egdʒen -dmEr  halgan -DE -WEːČ -R(E)   a.R   kočuken -L 
+\ps n                      adv            adj  v                      adv  adj           v                        ?     adj        
+\ge horse -pl -poss.1pl.ex sometimes =ptl few  be -gnr  -nonfut -3sg  and  big    -contr foot   -vr -gnr  -nonfut but.R small   -pl
+
+\tx badụwaːtta.
+\mb badụ -WEːČ -R(E)  
+\ps v                 
+\ge ride -gnr  -nonfut
+
+\ft Sometimes there were few horses, and the big (children) went on foot, and the little (children) rode.
+\ph
+\gr muralbun abal biweːtten = OK, but one could also say muralbun biweːtte
+\ev
+\ru Лошадей у нас иногда было мало и большие (старшие) шли пешком, а младшие ехали.
+\ELANBegin 00:01:11.795
+\ELANEnd 00:01:23.872
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.010
+\tx Ńan   aːdụnda     tịlka, ọkaːt tịlkaŋčirakan                     giːsaddʒoːttu.
+\mb ńaːn haːdụn    =DE  tilka ọkaːt tilka -n  -(k)čI -REk      -n(I)     giːsi      -D    -WEːČ -(R)U  
+\ps adv  adv            ?     n     v                                    v                             
+\ge and  sometimes =ptl flood river flood -vr -dur   -cond.cvb -poss.3sg circumvent -prog -gnr  -1pl.ex
+\ft And sometimes there was high water, when the river flooded we went around.
+\nt transl. file 13:40
+\ev
+\ru Иногда полноводие было, когда река была полная мы обходили.
+\ELANBegin 00:01:24.327
+\ELANEnd 00:01:32.751
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.011
+\tx Tar  gọrụ ŋennoːttu,         miemda           ineŋu      aːdụnda.
+\mb tar  gọrụ ŋen -WEːČ -(R)U   mịan -W   =DE  ineŋi -W   haːdụn    =DE 
+\ps adv  adv  v                 num            n          adv           
+\ge thus long go  -gnr  -1pl.ex ten  -acc =ptl day   -acc sometimes =ptl
+\ft We went for a loooooong time, sometimes even ten days.
+\ph gọrụụụụ with lengthened final vowel
+\nt miemda - даже за счет -da
+\ev
+\ru Долго шли, десять дней даже.
+\ELANBegin 00:01:33.141
+\ELANEnd 00:01:42.137
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.012
+\tx Tačịnda          ụdanda    biseken                    ọːjawda         dʒuːrdʒulekude             ineŋu.
+\mb tarọːčịn  =DE  ụdan =DE  bi -REk      -E  -n(I)     họːja -W   =DE  dʒoːr ńulek       -W   =DE  ineŋi -W  
+\ps pron           n         v                          quant           num   n                     n         
+\ge dist.qual =ptl rain =ptl be -cond.cvb -ep -poss.3sg many  -acc =ptl two   in.addition -acc =ptl day   -acc
+
+\ft And when it was rainy, many days, even 12 days.
+\ph
+\ev
+\ru Вот кат дождик шёл и много дней, 12 дней даже.
+\ELANBegin 00:01:42.709
+\ELANEnd 00:01:48.104
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.013
+\tx Tarma ebdʒendeː             biweːtten               umekič.
+\mb tarma hebdʒen     -DI   =eː   bi -WEːČ -R(E)   -n(I) umekič
+\ps conj  ?                       v                      adv   
+\ge but   interesting -adjr =emph be -gnr  -nonfut -3sg  very  
+\ft But it was very interesting.
+\ev
+\ru Но интересно было очень.
+\ELANBegin 00:01:48.377
+\ELANEnd 00:01:51.367
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.014
+\tx Bejdʒi turen              targịda,  Sredinnyj_Xrebet goːweːtte,          uŋen                  nọːd umekič.
+\mb bejdʒi tor   -E  -n(I)     tarak -gIdE Sredinnyj_Xrebet goːn -WEːČ -R(E)   uŋ        -E  -n(I)     nọːd   umekič
+\ps pron   n                   pron        n                v                  n                       adj    adv   
+\ge itself earth -ep -poss.3sg dist  -part Central.Ridge.R  say  -gnr  -nonfut something -ep -poss.3sg pretty very  
+
+\ft The land itself on that side, it is called the Central Ridge, is very beautiful.
+\ph
+\gr bejʤi ʤuː irbeːt, a erek pristrojkan anŋamta = sam dom staryj, a pristrojka novaja
+\ev
+\ru Сама земля на той же стороне, Срединный хребет, называется, очень красивая.
+\ELANBegin 00:01:51.497
+\ELANEnd 00:01:58.972
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.015
+\tx Tala          urekčende    binni            Ičinskaja_Sopka, vulkan,   (gerben)        Ipiŋgej.
+\mb tarak -(dU)LE urekčen =DE  bi -R(E)   -n(I) Ičinskaja_Sopka  vulkan    gerbe -n(I)     Ipiŋgej
+\ps pron          n            v                ?                n         n               ?      
+\ge dist  -loc    hill    =ptl be -nonfut -3sg  Ichinskaja_Sopka volcano.R name  -poss.3sg Ipingej
+
+\ft There's a hill there, right, the Ichinskaja Sopka, and a volcano, (it's name is) Ipingej.
+\ph at the same time as she says "vulkan xxx Ipiŋgej", I said mmhhhmmm, so it cannot be made out, but one can hear a -r-, and it makes the most sense here and would
+be correct Even
+\ev
+\ru Там же сопка есть, Ичинская сопка, вулкан Ипинай (вулкан)
+\ELANBegin 00:01:58.985
+\ELANEnd 00:02:05.238
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.016
+\ref
+\tx
+\mb
+\ft Mhm, very beautiful (in Even)
+\ph
+\ELANBegin 00:02:05.238
+\ELANEnd 00:02:09.450
+\ELANParticipant BP
+
+\id Solodikova_RM_childhood.017
+\tx Talị        ereger, aːdụn, baji         biweːtten.
+\mb tarak -(dU)LI ereger haːdụn    baj          bi -WEːČ -R(E)   -n(I)
+\ps pron          adv    adv       ?            v                     
+\ge dist  -prol   always sometimes good.weather be -gnr  -nonfut -3sg 
+\ft It's always, sometimes, good weather there.
+\ev
+\ru Там всегда иногда погода хорошая бывает.
+\ELANBegin 00:02:09.450
+\ELANEnd 00:02:13.961
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.018
+\tx Ereger talị        tar  omnek...       uŋni             okreli        tụrkịdawaːttu            nan    gi...  Ketačam
+\mb ereger tarak -(dU)LI tar  omen -REkEn    uŋ        -(dU)LI okre  -(dU)LI tụrkị -DE -WEːČ -(R)U   ńaːn *** Ketačan  -W  
+\ps adv    pron          adv  num            n                 n             v                       adv  ?   n            
+\ge always dist  -prol   thus one  -iter.adv something -prol   field -prol   sled  -vr -gnr  -1pl.ex and  *** Ketachan -acc
+
+\tx uŋnidʒur       ńan   časkị ńan   giːsidʒilloːttu                        edewur                 ọkaːt entekeːje uŋne,       ńan
+\mb uŋ -RIdʒI   -L  ńaːn časkị   ńaːn giːsi      -D    -E  -L    -WEːČ -(R)U   e   -DE       -WUr     ọkaːt entekeːje uŋ -R       ńaːn
+\ps v               adv  ?       adv  v                                        v                      n     adv       v           adv 
+\ge do -ant.cvb -pl and  further and  circumvent -prog -ep -inch -gnr  -1pl.ex neg -purp.cvb -prfl.pl river strong    do -neg.cvb and 
+
+\tx urečilte     tịlkaŋčiriwu                   ule... bak... ŋennoːttu.
+\mb urečilte      tịlka -n  -(k)čI -RI       -W   üle    bak  ŋen -WEːČ -(R)U  
+\ps adv           v                               n      v    v                
+\ge no.difference flood -vr -dur   -impf.ptc -acc work.Y find go  -gnr  -1pl.ex
+
+\ft We always (went) that way, and went via over there via the tundra, and having passed the Ketachan (river) we continued on and went around so that we wouldn't
+fall into the river (lit. so that we wouldn't do the river), and went through the flood after all.
+\ph
+\nt transl. file 26:45; ketačam - река и база, узкая и очень глубокая, urečilte - всё равно; tilkančiriw - полноводье
+\ev
+\ru Всегда там она...(однажды...)   Ехали и ... Кетачан проехал и дальше объезжали, чтобы сильно в речку чтобы не упасть И все
+равно по полноводной реке проходили.
+\ELANBegin 00:02:13.961
+\ELANEnd 00:02:34.452
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.021
+\tx Ńan   tačịn       uŋnidʒur       ńan   ọrọldulida                     ŋennoːttu.
+\mb ńaːn tarọːčịn  uŋ -RIdʒI   -L  ńaːn ọrọn              -L  -(dU)LI =DE  ŋen -WEːČ -(R)U  
+\ps adv  pron      v               adv  n                                  v                
+\ge and  dist.qual do -ant.cvb -pl and  domestic.reindeer -pl -prol   =ptl go  -gnr  -1pl.ex
+\ft And having done like that we went via the reindeer herds (from herd to herd).
+\ph
+\gr orolduli = passing via many herds, "i po tabunam exali"; orduli ŋenniwun = v tabun zaezhali
+\nt transl. file N2 10:50
+\ev
+\ru И вот так мы сделал, проезжали по табунам.
+\ELANBegin 00:02:34.452
+\ELANEnd 00:02:38.600
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.022
+\tx Ọrọmŋaleː                   munu            ajič        arčịmkawaːtte          temujoddʒoːttede.
+\mb ọrọn              -mŋE -L  =eː   mun        -W   aj   -E  -Č   arčịmka -WEːČ -R(E)   temujo    -D    -WEːČ -R(E)   =DE 
+\ps n                                n               adj           v                     v                                 
+\ge domestic.reindeer -nr  -pl =emph 1pl.ex.obl -acc good -ep -ins meet    -gnr  -nonfut slaughter -prog -gnr  -nonfut =ptl
+
+\ft The reindeer herders met us well, they slaughtered (a reindeer).
+\ph
+\gr arčimkawaːtte = vstrechali; bi arčimkaram = ja vstrechaju; bi arčaram = ja edu vstrechatj; arčinam = net; arčildaram = vstretilasj, shla po doroge; arčimkanaram
+= mozhno (though I wonder if one can... dont't think we have it in the corpus); arčanin = poexala vstrechatj; bi arčariwu, a babushka arčanin; then she said arčarin
+tozhe mozhno, exala vstrechatj
+\ev
+\ru Оленеводы нас хорошо встречали. Хорошо нас встречали, забивали оленей
+\ELANBegin 00:02:38.600
+\ELANEnd 00:02:44.120
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.023
+\tx Bu     tar  giekiw         ńaːlakčatiddʒoːttuda,                 ullewde,       d'uːrbede        ineŋu      tadụ
+\mb buː    tar  gịakị   -W   ńaːlakča   -tI -D    -WEːČ -(R)U   =DE  ulre -W   =DE  dʒoːr -W   =DE  ineŋi -W   tarak -DU 
+\ps pron   adv  pron         v                                       n              num             n          pron      
+\ge 1pl.ex thus various -acc fresh.meat -vr -prog -gnr  -1pl.ex =ptl meat -acc =ptl two   -acc =ptl day   -acc dist  -dat
+
+\tx biddʒoː...             biddʒoːttu.
+\mb bi -D    -WEːČ -(R)U   bi -D    -WEːČ -(R)U  
+\ps v                      v                     
+\ge be -prog -gnr  -1pl.ex be -prog -gnr  -1pl.ex
+
+\ft We (ate) various (products) there, we ate njalakcha (freshly slaughtered raw intestines) and meat, sometimes we were there for two days.
+\ph big pause between ńaːlakča.... and the verbal endings
+\gr ʤuːrbede = dazhe 2 dnja, inogda dazhe 2 dnja byli; the reading "inogda" comes from the fact that =de gives a meaning of "dazhe", and that emphasizes that it
+wasn't a regular thing to stay so long, but that it was only occasionally;
+\ev
+\ru и мы ели нялакчу, мясо. Два дня иногда там были.
+\ELANBegin 00:02:44.120
+\ELANEnd 00:02:53.500
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.025
+\tx Ńan   tar  orroːttu                   časkị tar   Twajaːkla        tar.
+\mb ńaːn tar  hor -WEːČ -R(E)   -(R)U   časkị   tarak Twajaːn -klE     tar 
+\ps adv  adv  v                         ?       pron  n                adv 
+\ge and  thus go  -gnr  -nonfut -1pl.ex further dist  Twajaːn -all.loc thus
+\ft And then we left and went on to Twajan.
+\ph
+\gr Twajakla = do Twajana; *orroːttu Twajandula = net; orroːttu Twajantaki = v Twajan -- I think here the allative-locative emphasizes that the goal was reached,
+whereas the allative by itself would only mean they were going in that direction, i.e. hadn't yet reached the goal
+\nt orroːtu -уезжали
+\ev
+\ru И вот уезжали мы дальше до Тваяна вот.
+\ELANBegin 00:02:53.500
+\ELANEnd 00:02:59.279
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.026
+\tx Twajaːndu    ńan   uŋmi         uteddidʒur                ńan   uŋedʒilloːttu,               beledʒilloːttu
+\mb Twajaːn -DU  ńaːn uŋ -mI       hot  -E  -D    -RIdʒI   -L  ńaːn uŋ -D    -L    -WEːČ -(R)U   bel  -E  -D    -E  -L    -WEːČ -(R)U  
+\ps n            adv  v            v                           adv  v                            v                                     
+\ge Twajaːn -dat and  do -cond.cvb rest -ep -prog -ant.cvb -pl and  do -prog -inch -gnr  -1pl.ex help -ep -prog -ep -inch -gnr  -1pl.ex
+
+\tx kolxoz            kartopiŋŋonda                pololaddʒoːttu,                   senokosduda           korawal
+\mb kolxoz            kartọpị   -ŋ   -Con     =DE  polol      -E  -D    -WEːČ -(R)U   senokos     -DU  =DE  korova -L 
+\ps n                 n                            v                                  n                     n         
+\ge collective.farm.R potatoe.R -aln -acc.3sg =ptl weed.pst.R -ep -prog -gnr  -1pl.ex haymaking.R -dat =ptl cow.R  -pl
+
+\tx senoŋgatan                 uŋeddʒoːttuda.
+\mb seno  -ŋ   -GE    -tEn      uŋ -E  -D    -WEːČ -(R)U   =DE 
+\ps n                           v                              
+\ge hay.R -aln -desig -poss.3pl do -ep -prog -gnr  -1pl.ex =ptl
+
+\ft In Twajan, after having rested, we started to help, we weeded the potatoes of the collective farm, (we helped with) the haymaking, we made hay for the cows.
+\ph
+\gr ja otdyxaju = bi uteddem, ty otdyxaesh = i utedʤinni, my budem otdyxatj = utedʤip, oni otdyxali = noŋartan utedditen, vy otdoxnuli = uː uteddišen; *bi uterem
+= net, only bi uteddem; *uteriwu = no; bi uttiwu = ja otdoxnul; uteššen bideji = kak budto ja otdyxaju; bi uttem = ja otdoxnula sejchas; bi tiːniw uttiwu ajič = ja
+otdoxnula xorosho
+\ev
+\ru В Тваяне вот отдохнув мы начинали помогать колхозу картошку полоть,  И на сенокосе коровам село делали.
+\ELANBegin 00:02:59.279
+\ELANEnd 00:03:17.720
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.028
+\tx Ńan   ọddidʒur       ńan   uŋmi         rybelketki             telidʒekteki        orroːttu.
+\mb ńaːn ọd   -RIdʒI   -L  ńaːn uŋ -mI       rybalka        -t(E)kI telidʒek     -t(E)kI hor -WEːČ -(R)U  
+\ps adv  v                 adv  v            n                      n                    v                
+\ge and  stop -ant.cvb -pl and  do -cond.cvb fishing.camp.R -all    fishing.camp -all    go  -gnr  -1pl.ex
+\ft And having finished that we left for the fishing camps.
+\nt uŋmi - делая
+\ev
+\ru И закончив и делая на рыбалку, рыбацкий стан уезжали.
+\ELANBegin 00:03:17.720
+\ELANEnd 00:03:24.533
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.029
+\tx Ńan   tačịnta          telidʒektu       tar  beleddʒoːttutitta.
+\mb ńaːn tarọːčịn  =DE  telidʒek     -DU  tar  bel  -D    -WEːČ -(R)U   =tIt =DE 
+\ps adv  pron           n                 adv  v                                 
+\ge and  dist.qual =ptl fishing.camp -dat thus help -prog -gnr  -1pl.ex =ptl =ptl
+\ft And there in the fishing camp we also helped.
+\ph
+\gr beledʤoːttu=titta, the particle adds "tozhe"
+\ev
+\ru И вот так на рыбацком стане там тоже помогали.
+\ELANBegin 00:03:24.533
+\ELANEnd 00:03:29.693
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.030
+\tx Uŋe ŋịnal      i... jaranga  ŋịnalni              tara  uliŋatenda                     uŋu           kamu
+\mb uŋe ŋịn -E  -L  i jaranga  ŋịn -E  -L  -n(I)     tarak uliː -n  -GE    -tEn      =DE  uŋ        -W   kam        -W  
+\ps interj n           ? n        n                     pron  v                              n              n              
+\ge now dog -ep -pl i teepee.R dog -ep -pl -poss.3sg dist  feed -nr -desig -poss.3pl =ptl something -acc dried.fish -acc
+
+\tx ọlgịččoːttu,           ńịrịmčawan,               giekiw         esni              ịakta    uŋŋoːtte.
+\mb ọlgị -Č   -WEːČ -(R)U   ńịrịmča       -W   -E  -n(I)     gịakị   -W   e   -R(E)   -n(I) ịak  =DE  uŋ -WEːČ -R      
+\ps v                       n                                pron         v                 pron      v                
+\ge dry  -res -gnr  -1pl.ex spine.of.fish -acc -ep -poss.3sg various -acc neg -nonfut -3sg  what =ptl do -gnr  -neg.cvb
+
+\ft And the dogs, we dried fish as food for the dogs, and fish spines, (nothing was thrown out).
+\ph
+\gr the final clause is very unclear and neskladno, but from the following utterances it would seem as if she meant to say every part of the fish was used
+\nt the "jaraŋa ŋinalni" were the dogs of the "krasnaja jaranga" mobile culture units
+\ev
+\ru К Яранговым собакам там им корм тоже сушили юколу тоже, хребты. Всякое никто не делал
+\ru Собак яранги их там еду тоже юколу сушили, хребты, никто ничего не делал (?) - ничего не бросали как попало
+\ELANBegin 00:03:29.693
+\ELANEnd 00:03:48.034
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.032
+\tx Or.. ọlla uŋŋon            ešu                tačịnnun          ul... usiŋeččoːtte,          čelewen                uŋ...
+\mb hor ọlra uŋ        -Con     e   -R(E)   -(R)U   tarọːčịn  =ńUn  ul  usiŋ  -Č   -WEːČ -R(E)   čele -W   -E  -n(I)     uŋ
+\ps v   n    n                  v                   pron            v   v                        n                       v 
+\ge go  fish something -acc.3sg neg -nonfut -1pl.ex dist.qual =emph dig throw -res -gnr  -nonfut all  -acc -ep -poss.3sg do
+
+\tx keːŋgulele       ulloːtte,          ọllaw     tala          uŋden                  muniča          ọːdan.
+\mb keːŋgule -(dU)LE ul  -WEːČ -R(E)   ọlra -W   tarak -(dU)LE uŋ -DE       -n(I)     mun -I   -čE     ọː     -DE       -n(I)    
+\ps n                v                 n         pron          v                      v                v                         
+\ge hole     -loc    dig -gnr  -nonfut fish -acc dist  -loc    do -purp.cvb -poss.3sg rot -ipf -pf.ptc become -purp.cvb -poss.3sg
+
+\ft And we didn't just throw away parts of the fish, (we used) everything, they dug a hole and (threw) the fish in there, so that it would become municha (fermented
+fish).
+\ph
+\gr of course it would be better to say keːŋgulew ulloːtte; overall, Rimma vozmushalas here, because the syntax isn't clear - is it (keŋgulew ullotte) (ollaw tala uŋden)
+(muniča oːdan) - which is what I think - or (keŋgulew ullotte) (ollaw tala) (uŋden muniča oːdan) which is what Rimma thinks, or perhaps even (keŋgulew ullotte
+ollaw) (tala) (uŋden muniča oːdan)
+\ev
+\nt keŋgulele - яма
+\ru От рыбы все эти части никто мы как попало не кидали. В яме закапывали рыбу там чтобы мунича(квашеная) рыба стала.
+\ELANBegin 00:03:48.034
+\ELANEnd 00:04:03.850
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.034
+\tx Ńan   taraw      ŋịnaltitta           dʒebboːtte.
+\mb ńaːn tarak -W   ŋịn -E  -L  =tIt =DE  dʒeb -WEːČ -R(E)  
+\ps adv  pron       n                     v                 
+\ge and  dist  -acc dog -ep -pl =ptl =ptl eat  -gnr  -nonfut
+\ft And that the dogs ate, too.
+\ph
+\gr ŋinal=titta = opjat zhe sobaki eli
+\nt transl. file N4 14:00
+\ev
+\ru И вот вот это собаки же и ели.
+\ELANBegin 00:04:03.850
+\ELANEnd 00:04:10.311
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.035
+\tx Ńan   ọddakan                    tar   avgusta      mụd... mụddakan,                 ńanda      ureddʒoːttu                tačịn
+\mb ńaːn ọd   -REk      -E  -n(I)     tarak avgust   -E  mụdak  mụdak  -REk      -n(I)     ńaːn =DE  hor -E  -D    -WEːČ -(R)U   tarọːčịn 
+\ps adv  v                            pron  n            v      v                          adv       v                           pron     
+\ge and  stop -cond.cvb -ep -poss.3sg dist  August.R -ep finish finish -cond.cvb -poss.3sg and  =ptl go  -ep -prog -gnr  -1pl.ex dist.qual
+
+\tx tar   Essoːtki.
+\mb tarak Essọː -t(E)kI
+\ps pron  n            
+\ge dist  Esso  -all   
+
+\ft And when August ended, we again left for that Esso.
+\ph
+\gr muddakan = mudakrakan; obviously be use "mud-" instead of mudak-, but Rimma said she felt it wasn't right
+\ev
+\ru Закончится август, закончится опять уезжаем опять в Ессо.
+\ELANBegin 00:04:10.311
+\ELANEnd 00:04:17.916
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.036
+\tx Aːdụnda     uŋni             ŋennoːttu..
+\mb haːdụn    =DE  uŋ        -(dU)LI ŋen -WEːČ -(R)U  
+\ps adv            n                 v                
+\ge sometimes =ptl something -prol   go  -gnr  -1pl.ex
+\ft Sometimes we went that way...
+\ev
+\ru Иногда мы там проезжали.
+\ELANBegin 00:04:17.916
+\ELANEnd 00:04:21.920
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.037
+\tx Aŋịdalị       ọːtaranduli      tarakkal     aːmnịk ńuŋemde         nadamda         ineŋu      ŋennoːttu.
+\mb aŋịda      -(dU)LI họtọran -(dU)LI tarak =GEl   aːmnịk  ńuŋen -W   =DE  nadan -W   =DE  ineŋi -W   ŋen -WEːČ -(R)U  
+\ps n                  n               pron         adv     num             num             n          v                
+\ge other.side -prol   road    -prol   dist  =coord quickly six   -acc =ptl seven -acc =ptl day   -acc go  -gnr  -1pl.ex
+
+\ft ...along the road on the other side, then we went fast, six or seven days.
+\ph
+\gr aŋidali = po drugoj storone; po etoj storone = ewgide; tarakkal = vot tot zhe, po-koroche putj
+\nt Aŋidali -по другой стороне; ọːtar anduli - по дороге; amnak -быстро; n'uŋemdewer -прослушать говорит это слово или нет
+\ev
+\ru Иногда по дороге ехали вот это быстро шесть или семь дней шли.
+\ELANBegin 00:04:21.920
+\ELANEnd 00:04:33.620
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.038
+\tx Min     akmụ           bičeši         ŋuːneč ŋennoːtten               Essoːduk        Twajaːntakị   ilamda            ineŋu.
+\mb min     akan   -W        bi -čE     =sI   ŋuːneč   ŋen -WEːČ -R(E)   -n(I) Essọː -DUk(U) Twajaːn -t(E)kI ịlan  -W   =DE  ineŋi -W  
+\ps pron    n                v                adv      v                       n             n               num             n         
+\ge 1sg.obl father -poss.1sg be -pf.ptc =emph straight go  -gnr  -nonfut -3sg  Esso  -abl    Twajaːn -all    three -acc =ptl day   -acc
+\ft My deceased father went straight from Esso to Twajan in three days.
+\nt ŋuneč - прямки: N4 24:00
+\ev
+\ru На прямки ехал из Эссо три дня
+\ELANBegin 00:04:33.620
+\ELANEnd 00:04:43.305
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.039
+\tx Omneken        bu     badụriwun              talị,       tar  akmụ           munu            Eːsso... Eːssotki
+\mb omen -REkEn    buː    badụ -RI  -WUn         tarak -(dU)LI tar  akan   -W        mun        -W   Essọː Essọː -t(E)kI
+\ps num            pron   v                      pron          adv  n                n               ?     n            
+\ge one  -iter.adv 1pl.ex ride -pst -poss.1pl.ex dist  -prol   thus father -poss.1sg 1pl.ex.obl -acc Esso  Esso  -all   
+
+\tx ịranụrin             tar, tunŋamte                ineŋu      ŋenniwun.
+\mb ịranụ     -RI  -n(I)     tar  tụnŋan -W   =t(E)    ineŋi -W   ŋen -RI  -WUn        
+\ps v                        adv  num                  n          v                    
+\ge accompany -pst -poss.3sg thus five   -acc =utočnit day   -acc go  -pst -poss.1pl.ex
+
+\ft Once we were going there, and it was my father who was taking us to Esso, and we went only five days.
+\ph
+\gr iranurin = provozhal; not linked to ir- 'cart'; iranuram = provozhaju; iranun = provozhaet, noŋan minu iranuddan; tunŋamTE = tolko 5 dnej; tunŋamtakan = tolko
+5 dnej; tunŋamnun = tolko 5 dnej
+\ev
+\ru Однажды ма ехали там, вот наш отец нас до Эссо проводил, пять дней только ехали.
+\ELANBegin 00:04:43.305
+\ELANEnd 00:04:56.864
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.040
+\tx Uŋe          kụŋaluši      ọːja  bišiten,         ŋuːneč.
+\mb uŋ        -E  kụŋa  -L  =sI   họːja bi -RI  -tEn      ŋuːneč  
+\ps n             n               quant v                 adv     
+\ge something -ep child -pl =emph many  be -pst -poss.3pl straight
+
+\ft Because there were a lot of children, (we went) direct.
+\ph
+\gr kuŋaleši = detej zhe mnogo bylo = potomuchto detej mnogo bylo
+\ev
+\ru Детей много было, на прямки
+\ELANBegin 00:04:56.864
+\ELANEnd 00:05:01.856
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.040а
+\tx
+\ft Did you understand?
+\ev
+\ru Поняли?
+\lg Russian
+\ELANBegin 00:05:01.856
+\ELANEnd 00:05:07.043
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.041
+\tx
+\ft (very broken and hardly comprehensible "Even"): I understood a bit.
+\ev
+\ru
+\ELANBegin 00:05:07.043
+\ELANEnd 00:05:12.100
+\ELANParticipant BP
+
+\id Solodikova_RM_childhood.042
+\tx Ọrdụ               kụŋa bimi         kụŋal    bimi         tar   ọrdụ               bu     ereger bisiwun,             bi
+\mb ọrọn              -DU  kụŋa  bi -mI       kụŋa  -L  bi -mI       tarak ọrọn              -DU  buː    ereger bi -RI  -WUn         biː
+\ps n                      n     v            n         v            pron  n                      pron   adv    v                    pron
+\ge domestic.reindeer -dat child be -cond.cvb child -pl be -cond.cvb dist  domestic.reindeer -dat 1pl.ex always be -pst -poss.1pl.ex 1sg
+
+\tx dʒọŋčịram           tar   ọrdu                 bičeji.
+\mb dʒọŋčị   -R(E)   -m   tarak ọrọn              -DU  bi -čE     -J      
+\ps v                     pron  n                      v                  
+\ge remember -nonfut -1sg dist  domestic.reindeer -dat be -pf.ptc -prfl.sg
+
+\ft As a child I lived in the reindeer herd, we were always in the herd, I remember how I lived in the herd.
+\nt transl. file N5
+\ev
+\ru В табуне ребенком была, детьми были, вот в табуне мы всегда были. Я помню это, как в табуне жила.
+\ELANBegin 00:05:13.491
+\ELANEnd 00:05:22.253
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.043
+\ref N5 3:26
+\tx Nuːida                       Gena bakụččawan                         dʒọŋčịram,          mindu        tarakam       bisin
+\mb noː             -J       =DE  Gena bakụ    -Č   -čE     -W   -E  -n(I)     dʒọŋčị   -R(E)   -m   min     -DU  tarakam       bi -RI  -n(I)    
+\ps n                             ?    v                                       v                     pron         adv           v                
+\ge younger.sibling -prfl.sg =ptl Gena be.born -res -pf.ptc -acc -ep -poss.3sg remember -nonfut -1sg 1sg.obl -dat in.those.days be -pst -poss.3sg
+
+\tx dʒoːr, dʒoːr anŋanu,    adịkana       ... dʒapkan atkịkan
+\mb dʒoːr dʒoːr anŋan -W   adịː     =kEnE  dʒapkan atkịkan
+\ps num   num   n          ?               num     ?      
+\ge two   two   year  -acc how.much =contr eight   month  
+
+\ft I remember how my younger brother Gena was born, I was then two years old, how much, and eight months.
+\ph
+\gr nuːida = moego mladshego brata; noŋan bakuttin = on byl rozhden; nuːi bakuččawan ʤoŋčiram = correct
+\ev
+\ru Младший брат Гена родился как я помню мне тогда было 2, 2 года, сколько же?  (bakuččawan - как он родился) Восемь месяцев.
+\ELANBegin 00:05:22.474
+\ELANEnd 00:05:36.384
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.045
+\tx Taraw      dʒọŋčịram           Gena bakụrin              Birkaŋaj gerben          urekčen.
+\mb tarak -W   dʒọŋčị   -R(E)   -m   Gena bakụ    -RI  -n(I)     Birkaŋaj  gerbe -n(I)     urekčen
+\ps pron       v                     ?    v                      ?         n               n      
+\ge dist  -acc remember -nonfut -1sg Gena be.born -pst -poss.3sg Birkangaj name  -poss.3sg hill   
+\ft That I remember, Gena was born, a hill with the name Birkangaj.
+\ph ʤoŋčam, very reduced
+\ev
+\ru Вот это я помню, Гена родился, Бирканай называется сопка.
+\ELANBegin 00:05:36.384
+\ELANEnd 00:05:41.675
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.046
+\tx Egdʒeːn urekčen bisni.
+\mb egdʒen urekčen bi -R(E)   -n(I)
+\ps adj    n       v               
+\ge big    hill    be -nonfut -3sg 
+\ft It's a BIG hill.
+\ev
+\ru Большая сопка есть.
+\ELANBegin 00:05:41.974
+\ELANEnd 00:05:43.755
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.047
+\tx Ikaweːttekke              taraw      uŋel            Eːssola         Nulgeremŋel:     Birkaŋaj, Birkaŋaj, eregerda
+\mb ikeː -WEːČ -R(E)   =kkE tarak -W   uŋ        -E  -L  Essọː -(dU)LE Nulgur -mŋE  -L  Birkaŋaj  Birkaŋaj  ereger =DE 
+\ps v                       pron       n                 n             ?                ?         ?         adv        
+\ge sing -gnr  -nonfut =ptl dist  -acc something -ep -pl Esso  -loc    Nulgur -agnr -pl Birkangaj Birkangaj always =ptl
+
+\tx tanmụčaddan.
+\mb tanmụ        -Č   -E  -D    -R(E)   -n(I)
+\ps v                                        
+\ge become.foggy -res -ep -prog -nonfut -3sg 
+
+\ft Those in Esso, the Nulgur members, sing, don't they: Birkangaj, Birkangaj, always foggy.
+\ph
+\gr ikaweːttekke = pojut zhe eto
+\ev
+\ru Поют вот эти в Эссо Нульгуровские: Бирканай, Бирканай, всегда затуманенный.
+\ELANBegin 00:05:43.755
+\ELANEnd 00:05:56.274
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.048
+\tx Nọŋan ajdịtta    ereger tanmụččoːttan.
+\mb nọŋan ajdịt =DE  ereger tanmụ        -Č   -WEːČ -R(E)   -n(I)
+\ps pron  n          adv    v                                    
+\ge 3sg   truth =ptl always become.foggy -res -gnr  -nonfut -3sg 
+\ft It truly is always covered in fog.
+\ev
+\ru Она и впраду всегда затуманена.
+\ELANBegin 00:05:56.274
+\ELANEnd 00:05:59.550
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.049
+\ref N5 10:40
+\tx Bu     Twajaːndu    bimi,        binokelič           kojeːčiddʒoːttu              taraw      Birkaŋaju     meγdin
+\mb buː    Twajaːn -DU  bi -mI       binokli      -E  -Č   kojeːt  -E  -D    -WEːČ -(R)U   tarak -W   Birkaŋaj  -W   megdin  
+\ps pron   n            v            n                     v                               pron       n              n       
+\ge 1pl.ex Twajaːn -dat be -cond.cvb binoculars.R -ep -ins look.at -ep -prog -gnr  -1pl.ex dist  -acc Birkangaj -acc mountain
+
+\tx ejelen              ọjčịridʒur.
+\mb heje -(dU)LE -n(I)     ọjčị  -RIdʒI   -L 
+\ps n                      v                 
+\ge peak -loc    -poss.3sg go.up -ant.cvb -pl
+
+\ft When we were in Twajan, we looked at that Birkangaj with binoculars, having climbed up to the peak of the mountain.
+\ev
+\ru Когда мы в Тваяне были, биноколем смотрели вот этот Бирканай, мы на вершину горы забравшись. (meγdin - гора,
+ejelen-вершина, ojčiridʒur-залезши)
+\ELANBegin 00:05:59.550
+\ELANEnd 00:06:07.420
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.050
+\ref N6
+\tx Tabịč      ńan   dʒọŋčịram           ...  tačịnda          tože  ịlan anŋanu     bisin             tare      ajịč      taraw
+\mb tabačịsị ńaːn dʒọŋčị   -R(E)   -m   *... tarọːčịn  =DE  tože   ịlan  anŋan -W   bi -RI  -n(I)     tarak -E  aj   -E  -Č   tarak -W  
+\ps adv      adv  v                     ?    pron           ptl    num   n          v                 pron      adj           pron      
+\ge then     and  remember -nonfut -1sg ***  dist.qual =ptl also.R three year  -acc be -pst -poss.3sg dist  -ep good -ep -ins dist  -acc
+
+\tx dʒọŋčịram           Ge.. Gena tar  tọγtakị  mirkesnin.
+\mb dʒọŋčị   -R(E)   -m   Gena Gena tar  tọg  -t(E)kI mirke -s(E)n -RI  -n(I)    
+\ps v                     ?    ?    adv  n            v                          
+\ge remember -nonfut -1sg Gena Gena thus fire -all    crawl -lim   -pst -poss.3sg
+
+\ft And then I remember, I was also three years old, I remember that well, Gena started to crawl towards the fire.
+\ph
+\gr mirkesnin = načal polzti, inchoative meaning of the limitative
+\ev
+\ru И ещё я помню также 3 года было мне. (tabịč-ещё) Я хорошо помню Гена к костру пополз.
+\ELANBegin 00:06:07.420
+\ELANEnd 00:06:25.080
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.052
+\tx Bi   nọŋman emeː.. ekmi            uːtmi              emeː  asụkụt emeːniwu.
+\mb biː nọŋman  emeːn eken   -J       hoːt      -mI       emeːn asụkụt emeːn -RI  -W       
+\ps pron pron    v     n               v                   v     adv    v                   
+\ge 1sg 3sg.acc leave mother -prfl.sg run.after -cond.cvb leave almost leave -pst -poss.1sg
+
+\ft I nearly left him, since I ran (lit. running) after my mother.
+\ph
+\nt so basically the point here is that Raisa M. had run after her mother, who had probably gone out to get firewood, and had left her baby brother alone; the baby
+started to crawl towards the fire
+\ev
+\ru Я его за матерью погнавшись чуть не оставила.
+\ELANBegin 00:06:25.080
+\ELANEnd 00:06:31.280
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.053
+\ref N6 9:00
+\tx Ńan   eldurda          mụrandiril              emniten             tar, Gena tọγtakị  mirkeddin.
+\mb ńaːn heldur      =DE  mụran -DI -RI       -L  em   -RI  -tEn      tar  Gena tọg  -t(E)kI mirke -D    -RI  -n(I)    
+\ps adv  adv              v                       v                   adv  ?    n            v                         
+\ge and  fortunately =ptl horse -vr -impf.ptc -pl come -pst -poss.3pl thus Gena fire -all    crawl -prog -pst -poss.3sg
+
+\ft And what luck that horsemen came then, Gena was crawling towards the fire.
+\ph
+\gr murandiril = te, kto verxom na loshadi
+\nt the horsemen arrived in time to stop Gena
+\ev
+\ru И хорошо, что всадники приехали вот, Гена к костру полз. (nan eldurda-И хорошо, что)
+\ELANBegin 00:06:31.280
+\ELANEnd 00:06:36.800
+\ELANParticipant
+
+\id Solodikova_RM_childhood.054
+\tx Nọŋan ńuŋen atkịkaŋan             bisin             tarakam       tar.
+\mb nọŋan ńuŋen atkịkan -ŋ   -n(I)     bi -RI  -n(I)     tarakam       tar 
+\ps pron  num   n                      v                 adv           adv 
+\ge 3sg   six   month   -aln -poss.3sg be -pst -poss.3sg in.those.days thus
+\ft He was six months old then.
+\ev
+\ru Шесть месяцев ему было тогда.
+\ELANBegin 00:06:37.020
+\ELANEnd 00:06:47.660
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.055
+\tx Tabịč      ńan   tugenidu    sorok    devjatyj pjatidesjatyj god    uže      selotki           nulgeriwun.
+\mb tabačịsị ńaːn tugeni -DU  sorok    devjatyj pjatidesjatyj god    uže       selo      -t(E)kI nulge   -RI  -WUn        
+\ps adv      adv  n           num      adj      adj           n      adv       n                 v                        
+\ge then     and  winter -dat fourty.R ninth.R  fiftieth.R    year.R already.R village.R -all    migrate -pst -poss.1pl.ex
+\ft And then in the winter of '49-50 we moved to the village.
+\ev
+\ru И вот зимой 49-го, 50-го года мы в село перекочевали.
+\lg
+\ELANBegin 00:06:51.360
+\ELANEnd 00:07:03.980
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.056
+\tx Akmụsi               bisin             dʒụːlbeda          ọːččọːttan,              aːdụnda     ọrdụla
+\mb akan   -W        =sI   bi -RI  -n(I)     dʒụː  -L  -W   =DE  ọː   -Č   -WEːČ -R(E)   -n(I) haːdụn    =DE  ọrọn              -(dU)LE
+\ps n                      v                 n                   v                             adv            n                        
+\ge father -poss.1sg =emph be -pst -poss.3sg house -pl -acc =ptl make -res -gnr  -nonfut -3sg  sometimes =ptl domestic.reindeer -loc   
+
+\tx keːńeli ọːdakan                     uŋneken                    ńan   nọŋman ọrteki
+\mb keńeli ọː     -REk      -E  -n(I)     uŋ -REk      -E  -n(I)     ńaːn nọŋman  ọrọn              -t(E)kI
+\ps adj    v                              v                          adv  pron    n                        
+\ge bad    become -cond.cvb -ep -poss.3sg do -cond.cvb -ep -poss.3sg and  3sg.acc domestic.reindeer -all   
+
+\tx uruwkeweːtte.
+\mb hor -U    -WkEn -WEːČ -R(E)  
+\ps v                            
+\ge go  -caus -caus -gnr  -nonfut
+
+\ft And my father was (with us), and he built houses, and sometimes when it got bad in the herd they sent him to the herd.
+\ph
+\gr uruwkeweːtte = zastavljali exatj v tabun, is not correct here, this means "asked someone to send/bring him"; she should have said: urukeweːtte = poprosit kogo-n.
+exatj kuda-n.
+\nt when I asked Rimma how to understand "akmu bisin" she said "byl takoj chto umel doma stroitj" - but now that I look at the sentence, I think it probably means
+more like what I translated, that he lived with them in the village - after all, that wasn't a given, the men were often away with the herd
+\ev
+\ru Отец был, и дома строил, иногда, когда в табуне плохо становилось, и вот его в табун отправляли. (uruwkeweːtte-посылали)
+\ELANBegin 00:07:03.980
+\ELANEnd 00:07:16.300
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.057
+\tx Tala          ńan   ajịč      uže      ọrbe                 uŋneketen              ńanda      orroːten                 selotki.
+\mb tarak -(dU)LE ńaːn aj   -E  -Č   uže       ọrọn              -W   uŋ -REk      -tEn      ńaːn =DE  hor -WEːČ -R(E)   -n(I) selo      -t(E)kI
+\ps pron          adv  adj           adv       n                      v                      adv       v                       n                
+\ge dist  -loc    and  good -ep -ins already.R domestic.reindeer -acc do -cond.cvb -poss.3pl and  =ptl go  -gnr  -nonfut -3sg  village.R -all   
+\ft And then when they are doing (everything) well in the herd, then he goes back to the village.
+\ev
+\ru И вот, когда хорошо в табуне уже сделают, опять уезжает в село. (orbe-оленей)
+\ELANBegin 00:07:16.300
+\ELANEnd 00:07:22.560
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.058
+\tx Ńan   dʒụːlbe       ọːtnawaːttan,                        nọŋartan dʒọŋčịram           Petr Ivanyčkalị     Tylkanovgalị
+\mb ńaːn dʒụː  -L  -W   ọː   -Č   -nE     -WEːČ -R(E)   -n(I) nọŋartan dʒọŋčị   -R(E)   -m   Petr Ivanovič  -g(E)lI Tylkanov -g(E)lI
+\ps adv  n              v                                     pron     v                     ?    n                 n               
+\ge and  house -pl -acc make -res -intent -gnr  -nonfut -3sg  3pl      remember -nonfut -1sg Petr Ivanovich -com    Tylkanov -com   
+
+\tx školaw       ọːritan,          dʒoːkeren  tare.
+\mb škola    -W   ọː   -RI  -tEn      dʒoːkerin    tarak -E 
+\ps n             v                   adv          pron     
+\ge school.R -acc make -pst -poss.3pl two.together dist  -ep
+
+\ft And he went (away) to build houses, I remember, together with Petr Ivanovich Tylkanov they built the school (in Twajan), just the two of them.
+\ph
+\gr ọːtnawaːttan = shel kuda-to doma stroitj; ọːččọːttan = stroil doma
+\ru И дома едит строить. Они помню, с Петром Ивановичем Тылкановым школу построили вдвоём вот. (в Тваяне)
+\ELANBegin 00:07:22.560
+\ELANEnd 00:07:35.260
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.059
+\ref N6 24:00
+\tx Bi   ajaːwwọːttam            tačịn       tar  ọːčiddakatan.
+\mb biː ajaːw -WEːČ -R(E)   -m   tarọːčịn  tar  ọː   -Č   -D    -REk      -tEn     
+\ps pron v                        pron      adv  v                                  
+\ge 1sg love  -gnr  -nonfut -1sg dist.qual thus make -res -prog -cond.cvb -poss.3pl
+\ft I loved it when they built like that.
+\ph
+\gr construction is correct; one can also say: ajaːwwoːttam ọːčiddiwutan, both are equally correct and good
+\ev
+\ru Я любила когда они так строили.
+\ELANBegin 00:07:35.260
+\ELANEnd 00:07:38.500
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.060
+\tx Ńamallaw     emuweːtte.
+\mb ńamalra -W   em   -U    -WEːČ -R(E)  
+\ps n            v                       
+\ge moss    -acc come -caus -gnr  -nonfut
+\ft They brought moss.
+\ev
+\ru Мох привозили.
+\ELANBegin 00:07:38.500
+\ELANEnd 00:07:42.240
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.061
+\tx Tarak uŋ       okredukke           tar  dʒụːw     birawnaw    elgeliten                  neːldiwun,  ọːnkana
+\mb tarak uŋ        okre   -DUk(U) =kE  tar  dʒụː  -W   brevno -W   elge     -(dU)LI -tEn      neː -ldIwUn ọːn =kEnE 
+\ps pron  n         n                   adv  n          n           n                          v           pron      
+\ge dist  something tundra -abl    =ptl thus house -acc log.R  -acc interval -prol   -poss.3pl put -nr     how =contr
+
+\tx uŋeč         goːweːtte           uteplitel         tačịn       tar.
+\mb uŋ        -Č   goːn -WEːČ -R(E)   uteplitel'        tarọːčịn  tar 
+\ps n              v                  n                 pron      adv 
+\ge something -ins say  -gnr  -nonfut heat.insulation.R dist.qual thus
+
+\ft That (they brought) from the tundra, to put between the logs of the house, how do they say, heat insulation, that's it.
+\ph
+\gr neːldiwun = to chto lozhat mezhdu brevnami
+\ev
+\ru Вот это из тундры, вот, в домах между брёвнами ложить. Как же этим говорят утеплитель, вот так.
+\ELANBegin 00:07:42.240
+\ELANEnd 00:07:57.800
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.063
+\tx Talasị            kljukwaw           čakačiddʒoːttem                    tare.
+\mb tarak -(dU)LE =sI   kljukva       -W   čak    -Č   -D    -WEːČ -R(E)   -m   tarak -E 
+\ps pron                n                  v                                    pron     
+\ge dist  -loc    =emph cranberries.R -acc gather -res -prog -gnr  -nonfut -1sg dist  -ep
+\ft And there I gathered cranberries.
+\ev
+\ru Там же я клюкву собирала.
+\ELANBegin 00:07:57.800
+\ELANEnd 00:08:02.400
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.064
+\tx Ńan   akmụ           goːweːtten,                "ụkal kumkeγedʒinni"?
+\mb ńaːn akan   -W        goːn -WEːČ -R(E)   -n(I) ụkal    kumke -G  -D    -nrI
+\ps adv  n                v                        adv     v                   
+\ge and  father -poss.1sg say  -gnr  -nonfut -3sg  already louse -vr -prog -2sg
+\ft And my father said "Are you looking for lice again?".
+\ph
+\gr kumkeγeʤinni = uzhe ishesh sejchas
+\ev
+\ru И вот отец говорил: "Опять вши ищешь?"
+\ELANBegin 00:08:02.400
+\ELANEnd 00:08:06.660
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.065
+\tx Uŋni             tare      tar  ńamallaw     tar   ejdu ikkoːttem.
+\mb uŋ        -(dU)LI tarak -E  tar  ńamalra -W   tarak ejdu hik     -WEːČ -R(E)   -m  
+\ps n                 pron      adv  n            pron  quant v                         
+\ge something -prol   dist  -ep thus moss    -acc dist  all  scatter -gnr  -nonfut -1sg
+\ft And there I scatter all the moss.
+\ev
+\ru И там вот этот мох я всё перемешаю/разбросаю.
+\ELANBegin 00:08:06.660
+\ELANEnd 00:08:12.740
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.066
+\tx Ńan   tar   tiːk tar  uŋna             pjatdesjatšestojlan             godla          ńanda      akmụ           urukeniten
+\mb ńaːn tarak tiek tar  uŋ        -(dU)LE pjatdesjatšestoj -(dU)LE -n(I)     god    -(dU)LE ńaːn =DE  akan   -W        hor -WkEn -RI  -tEn     
+\ps adv  pron  adv  adv  n                 adj                                n              adv       n                v                       
+\ge and  dist  now  thus something -loc    fiftysixth.R     -loc    -poss.3sg year.R -loc    and  =ptl father -poss.1sg go  -caus -pst -poss.3pl
+
+\tx ọrteki.
+\mb ọrọn              -t(E)kI
+\ps n                        
+\ge domestic.reindeer -all   
+
+\ft And then in the year '56 they again sent my father to the herd.
+\ph
+\gr akmu = here actually ACC-POSS.1SG, just not glossed that way, since it is also the nominative poss.1sg form
+\ev
+\ru И вот это сейчас вот в этом 56-ом году опять отца отправили в табун.
+\ELANBegin 00:08:13.560
+\ELANEnd 00:08:22.780
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.067
+\tx Ọral                   ọːja  berit       berip       beriptiten.
+\mb ọrọn              -E  -L  họːja beriː -Č   beriː -B   beriː -B   -RI  -tEn     
+\ps n                         quant v          v          v                        
+\ge domestic.reindeer -ep -pl many  lose  -res lose  -med lose  -med -pst -poss.3pl
+\ft A lot of reindeer were lost (died).
+\ev
+\ru Оленей много потерялось (Оленей много умерло).
+\ELANBegin 00:08:22.920
+\ELANEnd 00:08:26.820
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.068
+\tx Ńan   tar  uŋmi         tar   abal ọːditan            nan,   brigadir         ọːnarin                    tar   ọrbe.
+\mb ńaːn tar  uŋ -mI       tarak abal ọː     -RI  -tEn      ńaːn brigadir         ọː     -nE     -RI  -n(I)     tarak ọrọn              -W  
+\ps adv  adv  v            pron  adj  v                     adv  n                v                             pron  n                     
+\ge and  thus do -cond.cvb dist  few  become -pst -poss.3pl and  brigade.leader.R become -intent -pst -poss.3sg dist  domestic.reindeer -acc
+\ft And doing like that (the reindeer) became few, and he went to become the brigade leader in the herd.
+\ph
+\gr ọrbe = not correct, should be ọrdu or ọrdula
+\ev
+\ru И вот так сделали что оленей стало мало и бригадиром он поехал стать в табуне.
+\ELANBegin 00:08:26.820
+\ELANEnd 00:08:34.640
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.069
+\tx Ńan   dʒoːrbe    anŋanu     bisidʒur       ńan   akmụ           ńan   uŋnin             Moskvatki      urrin,
+\mb ńaːn dʒoːr -W   anŋan -W   bi -RIdʒI   -L  ńaːn akan   -W        ńaːn uŋ -RI  -n(I)     Moskva -t(E)kI hor -RI  -n(I)    
+\ps adv  num        n          v               adv  n                adv  v                 n              v                 
+\ge and  two   -acc year  -acc be -ant.cvb -pl and  father -poss.1sg and  do -pst -poss.3sg Moscow -all    go  -pst -poss.3sg
+
+\tx olloːttiten           VsesojuznajaSelskoxozjajstvennajaVystavkatki.
+\mb olloːt -RI  -tEn      VsesojuznajaSelskoxozjajstvennajaVystavka -t(E)kI
+\ps v                     n                                                
+\ge go     -pst -poss.3pl All.Union.Agricultural.Exhibition.R       -all   
+
+\ft And having been there for two years my father went to Moscow, they went to the All-Union Agricultural Exhibition.
+\ph
+\gr would have been better to say ʤoːrbe anŋanu bisiʤi to agree with akmu urrin; urrin = poexal, olloːttin = sjezdil, tuda i obratno, ureššin = tuda i obratno exal, no
+difference from olloːttin
+\nt the father went together with a whole delegation, not with the mother
+\ev
+\ru И вот два года прожив отец в Москву поехал, ездили на Всесоюзную Сельскох-ую выставку.
+\ELANBegin 00:08:34.640
+\ELANEnd 00:08:49.580
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.070
+\ref N6 42:48
+\tx Ọːja, ọrni                      ọːja, početnajagramotalganda                           gieki,    doskapočetalada               bisi.
+\mb họːja ọrọn              -n(I)     họːja početnajagramota        -L  -GE    -n(I)     =DE  gịakị   doskapočeta       -(dU)LE =DE  bi -RI 
+\ps quant n                           quant n                                                 pron    n                              v      
+\ge many  domestic.reindeer -poss.3sg many  certificate.of.honour.R -pl -desig -poss.3sg =ptl various board.of.honour.R -loc    =ptl be -pst
+\ft He had a lot of reindeer, and various certificates of honour, and he was on the board of honour.
+\ph
+\gr bisi - she simply omitted the subject agreement marking -n
+\ev
+\ru Много, оленей много (было у него). Почётные грамоты всякие. И на доске почёта был.
+\ELANBegin 00:08:49.580
+\ELANEnd 00:08:57.140
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.072
+\tx Tar   uŋna             gazetlagel                 ọńattin.
+\mb tarak uŋ        -(dU)LE gazeta      -(dU)LE =GEl   ọńa   -Č   -RI  -n(I)    
+\ps pron  n                 n                          v                        
+\ge dist  something -loc    newspaper.R -loc    =coord write -res -pst -poss.3sg
+\ft And even in the newspapers it was written.
+\ph
+\gr ọńattin = napisano bylo; ọńawrin = pro nego pisali; so the form with resultative gives an impersonal reading
+\ev
+\ru И в газете даже было написано.
+\ELANBegin 00:08:57.140
+\ELANEnd 00:09:00.980
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.073
+\tx Uŋganda                        medalganda                    buːriten           bronzovuju     medal.
+\mb uŋ        -GE    -n(I)     =DE  medal   -GE    -n(I)     =DE  boː  -RI  -tEn      bronzovuju     medal  
+\ps n                               n                             v                   adj            n      
+\ge something -desig -poss.3sg =ptl medal.R -desig -poss.3sg =ptl give -pst -poss.3pl bronze.acc.f.R medal.R
+\ft And they gave him a medal, a bronze medal.
+\ev
+\ru И вот ещё эту бронзовую медаль дали.
+\ELANBegin 00:09:00.980
+\ELANEnd 00:09:08.260
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.074
+\tx Tarakam       buːriten           časyγanda,                  imennye        časy,  Pobedaw,    tarakam       tar
+\mb tarakam       boː  -RI  -tEn      časy    -GE    -n(I)     =DE  imennye        časy    Pobeda -W   tarakam       tar 
+\ps adv           v                   n                             adj            n       n           adv           adv 
+\ge in.those.days give -pst -poss.3pl watch.R -desig -poss.3sg =ptl personalized.R watch.R Pobeda -acc in.those.days thus
+
+\tx emuwkeniten.
+\mb em   -U    -WkEn -RI  -tEn     
+\ps v                              
+\ge come -caus -caus -pst -poss.3pl
+
+\ft And at that time they gave him a watch, a personalized watch, a Pobeda (a brand of watch), they sent it then.
+\ph
+\gr emuwkeniten = poslali po pochte naverno; emuriten = privezli, a pereslali = emuwkeniten
+\ev
+\ru Тогда дали и часы, именные часы Победа, тогда вот прислали.
+\ELANBegin 00:09:08.260
+\ELANEnd 00:09:17.080
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.075
+\ref N7
+\tx Bi   kučuken bimi         ereger akandi              bọddoːttiwu,                  aːdụnda     akmụ
+\mb biː kočuken bi -mI       ereger akan   -DI          bọd       -WEːČ -RI  -W        haːdụn    =DE  akan   -W       
+\ps pron adj     v            adv    n                   v                              adv            n               
+\ge 1sg small   be -cond.cvb always father -dat.prfl.sg accompany -gnr  -pst -poss.1sg sometimes =ptl father -poss.1sg
+
+\tx ọrteki                  orroːtten,               eŋeneweːtten,                          urukeweːt(te).
+\mb ọrọn              -t(E)kI hor -WEːČ -R(E)   -n(I) eŋen        -nE     -WEːČ -R(E)   -n(I) hor -WkEn -WEːČ -R(E)  
+\ps n                         v                       v                                       v                      
+\ge domestic.reindeer -all    go  -gnr  -nonfut -3sg  take.a.look -intent -gnr  -nonfut -3sg  go  -caus -gnr  -nonfut
+
+\ft When I was small I always accompanied my father, sometimes my father when to the herd, he went to look, they sent (for him).
+\ph
+\gr akandi boddottiwu = correct; bi nọŋandun boddottiwu, the verb governs a dative object; eŋeneweːtten = xodil smotretj; v okno gljanu = eŋeniwu, eŋenerem = idu
+posmotretj, eŋenem = ja vot sejchas vygljanu; urukeweːtte = za nego poslali
+\ev
+\ru Я когда маленькая была всегда с отцом ходила. Иногда отец в табун ходил смотреть, я посылала (он посылал)
+\ELANBegin 00:09:20.400
+\ELANEnd 00:09:29.006
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.077
+\tx Bi   ńan   mụran.. dʒụganịdu    mụranịč    .......  badụwaːttam              nọŋannun    ereːger.
+\mb biː ńaːn mụran dʒụganị -DU  mụran -E  -Č   *....... badụ -WEːČ -R(E)   -m   nọŋan -ńUn ereger =eː  
+\ps pron adv  n     n            n              ?        v                       pron       adv         
+\ge 1sg and  horse summer  -dat horse -ep -ins ***      ride -gnr  -nonfut -1sg 3sg   -com always =emph
+\ft And in summer I rode with him on horseback, ALWAYS.
+\ph
+\gr somehow Rimma always translates ʤugani with 'vesnoj' - it's sort of late spring/early summer; Rimma only knew four seasons: nelke, ʤugani, boloni, tugeni, so
+that ʤugani actually corresponds more to "summer"
+\ev
+\ru И вот я весной, летом на лошади ездила с ним всегда,
+\ELANBegin 00:09:29.006
+\ELANEnd 00:09:37.800
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.077b
+\ref
+\tx Bọddoːtmaγen         bisiwu.
+\mb bọd       -WEːČ -mEgEn bi -RI  -W       
+\ps v                      v                
+\ge accompany -gnr  -nr    be -pst -poss.1sg
+\ft I loved to accompany him (lit: I was a lover of accompanying).
+\ru я была любительницей с ним ходить
+\ELANBegin 00:09:37.800
+\ELANEnd 00:09:39.523
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.078
+\tx Alganda     awụskida           urreken,                    bi   bọdesnoːttem.
+\mb halgan =DE  aw    -skI      =DE  hor -REk      -E  -n(I)     biː bọd       -s(E)n -WEːČ -R(E)   -m  
+\ps ?           pron                 v                           pron v                                  
+\ge foot   =ptl where -advb.all =ptl go  -cond.cvb -ep -poss.3sg 1sg accompany -lim   -gnr  -nonfut -1sg
+\ft Even when he went somewhere on foot, I followed.
+\ph
+\gr bodesnoːttem = ja sobirajusj idu za nim; limitative with inchoative meaning
+\ev
+\ru Даже пешком когда он куда-нибудь идёт, я тоже за ним.
+\ELANBegin 00:09:39.523
+\ELANEnd 00:09:43.579
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.079
+\tx ile...        ńan   rybelke...
+\mb irek  -(dU)LE ńaːn rybalka       
+\ps pron          adv  n             
+\ge which -loc    and  fishing.camp.R
+
+\ft where... and (at) the fishing camp....
+\ru
+\ELANBegin 00:09:46.413
+\ELANEnd 00:09:53.560
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.079b
+\ref
+\tx
+\nt coughs
+\ELANBegin 00:09:53.560
+\ELANEnd 00:10:03.027
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.080
+\tx Ńan   tugenidu    pilomaterialu     uŋeddʒoːtte.
+\mb ńaːn tugeni -DU  pilomaterial -W   uŋ -E  -D    -WEːČ -R(E)  
+\ps adv  n           n                 v                         
+\ge and  winter -dat lumber.R     -acc do -ep -prog -gnr  -nonfut
+\ft And in winter they prepared lumber.
+\ev
+\ru И зимой пиломатериал делали.
+\ELANBegin 00:10:03.027
+\ELANEnd 00:10:08.929
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.081
+\tx Lesopilkaten         bisin             bụjla        ọkaːt ulilen,             tala.
+\mb lesopilka  -tEn      bi -RI  -n(I)     bụj    -(dU)LE ọkaːt holi -(dU)LE -n(I)     tarak -(dU)LE
+\ps n                    v                 n              n     rel.n                  pron         
+\ge saw.mill.R -poss.3pl be -pst -poss.3sg forest -loc    river edge -loc    -poss.3sg dist  -loc   
+\ft They had a sawmill in the forest, at the edge of the river, over there.
+\ph long pause between lesopilka and -ten
+\ev
+\ru Лесопилка у них была, в лесу около реки.
+\ELANBegin 00:10:11.334
+\ELANEnd 00:10:17.535
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.082
+\tx Ńan   dʒụganị ọːdakan                     talatitta               rybelkede...        rybelkegawur
+\mb ńaːn dʒụganị ọː     -REk      -E  -n(I)     tarak -(dU)LE =tIt =DE  rybalka        =DE  rybalka        -GE    -WUr    
+\ps adv  n       v                              pron                    n                   n                             
+\ge and  summer  become -cond.cvb -ep -poss.3sg dist  -loc    =ptl =ptl fishing.camp.R =ptl fishing.camp.R -desig -prfl.pl
+
+\tx nekkoːttu.
+\mb nek -WEːČ -(R)U  
+\ps v                
+\ge do  -gnr  -1pl.ex
+
+\ft And when summer came we made a fishing camp for ourselves right there.
+\ph
+\gr talatitta = tam zhe, v tom zhe meste
+\ev
+\ru И вот когда лето наступало, тамже рыбалку делали.
+\ELANBegin 00:10:17.535
+\ELANEnd 00:10:23.021
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.083
+\tx Ńan   bọlọnị ọːklan,                bi   ńan   škole   školetki        tar   rybelkeduk             taŋnawaːt...
+\mb ńaːn bọlọnị      ọː     -klE     -n(I)     biː ńaːn škola    škola    -t(E)kI tarak rybalka        -DUk(U) taŋ  -nE     -WEːČ -R(E)   -m  
+\ps adv  n           v                         pron adv  n        n                pron  n                      v                              
+\ge and  late.autumn become -all.loc -poss.3sg 1sg and  school.R school.R -all    dist  fishing.camp.R -abl    read -intent -gnr  -nonfut -1sg
+\ft And until it became autumn I went to school to study from that fishing camp.
+\ph
+\gr 10/06: boloni oːklan = poka osenj nastanet, do togo kak osenj nastanet; depending on the temporal nuance of boloni, this could have 2 readings, for one of which
+oːklan is not correct and it should better be oːdakan: 1) when it became autumn I went to school from there - if September is already boloni; in this case  "oːdakan"
+would be better; 2) until it became autumn... - if autumn only starts in late September or October, so that school started before boloni, and so she went to school
+from there until it became autumn (assuming that they moved back to the village
+\gr 12/06/16: Q: do they say "ọːklakan"? A: no, only ọːklan; Q: "kokekle:kej ordula gurgewcirin" A: at first "no", then "kokeklekeji" = do smerti; Q: "kokeklej ordula
+gurgewcirin"? A: yes, that is better, luchshe; or noŋan kokeklen, do ego smerti; "emeːkleji" poka ja ostavila; both Malchukov (ms) and Rishes and Cincius give the
+form -kAn for the terminative converb "until", and I have 5 examples with -kEn in Kamchatka - and obviously none so far with -kla -- which makes it look as if
+-kla- here is just an error, and Rimma also didn't give me quite the right information when I was asking about these different forms; so even though I'll ask a bit
+more about this, I think Raisa erroneously inserted an -l- and I glossed it accordingly
+\gr 13/06/2016: Checked with Rimma, but she insisted that here ọːklan would be better than ọːkan; Q: wouldn't it be better to say "boloni oːkan" here? A: no, boloni
+oːklan would be better here; I tried to ask "kokeken ordula gurgewčirin", but she didn't understand at all what I wanted, but when I said "do svoej smerti rabotal v
+tabune" she said "ńomeːklen ordula gurgewčirin (do ego smerti ona rabotala v tabune)" or "ńomeklej ordula gurgewčirin; ńomeːkən gurgeːwčirin = rabotal do
+smerti, azh umer; then I opened up the concordance of -kEn, but even with some of the examples from the concordance she wanted to change it to -klE; tiːk bikən
+= do six por; Kosygina has boloni ọːkan; here in this example boloni oːklan = poka osenj ne nastanet; a boloni oːkan = do pozdnej oseni --- but there's not really
+any difference; so at the end we decided one can probably say both, even though here she felt ọːklan was better --- so I changed the gloss again (though it's odd to
+have a case-marker attached to a verb root...)
+\ev
+\ru И до наступления осени я вот в школу с рыбалки ходила (учиться шла со школы)
+\ELANBegin 00:10:23.021
+\ELANEnd 00:10:34.773
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.084
+\tx Kọč   ịlanda    kilometr   biweːtten.
+\mb kọč      ịlan  =DE  kilọmetr bi -WEːČ -R(E)   -n(I)
+\ps adv      num        n        v                     
+\ge probably three =ptl km.R     be -gnr  -nonfut -3sg 
+\ft It was probably three kilometres.
+\ev
+\ru Наверное, три километра было.
+\ELANBegin 00:10:34.773
+\ELANEnd 00:10:38.699
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.085
+\tx Ńan   iːsečin ńan   urokur              upkuttidʒur        ńanda      orroːttu           rybelketki,            badʒịkar ńan
+\mb ńaːn iːsečin ńaːn urok       -WUr     hupkut -RIdʒI   -L  ńaːn =DE  hor -WEːČ -(R)U   rybalka        -t(E)kI badʒịkar ńaːn
+\ps adv  ?       adv  n                   v                   adv       v                 n                      n        adv 
+\ge and  evening and  homework.R -prfl.pl learn  -ant.cvb -pl and  =ptl go  -gnr  -1pl.ex fishing.camp.R -all    morning  and 
+
+\tx badịč   orroːttu           školetki.
+\mb badʒịč hor -WEːČ -(R)U   škola    -t(E)kI
+\ps adv    v                 n               
+\ge early  go  -gnr  -1pl.ex school.R -all   
+
+\ft And in the evening, after having learnt our lessons, we again went to the fishing camp, and early in the morning we went to school.
+\ev
+\ru И с вечера сделав уроки опять уходила утром вот рано шли в школу.
+\ELANBegin 00:10:38.699
+\ELANEnd 00:10:48.267
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.086
+\ref N7 18:20
+\tx Esuda                    opazdalloːtte.
+\mb e   -R(E)   -(R)U   =DE  opazdal         -WEːČ -R      
+\ps v                        v                             
+\ge neg -nonfut -1pl.ex =ptl be.late.pst.m.R -gnr  -neg.cvb
+\ft We weren't even late.
+\ev
+\ru И мы даже не опаздывали.
+\ELANBegin 00:10:48.267
+\ELANEnd 00:10:52.232
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.087
+\tx Tačịn       tar  ńan   aːdụnda     meːrker           elgečiddʒoːttu                              elge(č)
+\mb tarọːčịn  tar  ńaːn haːdụn    =DE  meːn -L  -KEn -L  elge                -Č   -D    -WEːČ -(R)U   elge      -Č  
+\ps pron      adv  adv  adv            pron              v                                            n             
+\ge dist.qual thus and  sometimes =ptl refl -pl -dim -pl fish.with.pole.hook -res -prog -gnr  -1pl.ex pole.hook -ins
+
+\ft And sometimes we caught fish ourselves with a pole hook (marik).
+\ph
+\gr bi elgerem = ja lovlju marikom; bi elgettem
+\ev
+\ru Вот так иногда сами мариком ловили рыбу.
+\ELANBegin 00:10:52.232
+\ELANEnd 00:10:59.694
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.088
+\tx Omneken        ńan   tačịn       tar  uŋmi         gienumi               Valja Tylkanovaγli,    munu            beririten,            bu
+\mb omen -REkEn    ńaːn tarọːčịn  tar  uŋ -mI       gịa    -ńUn -J       Valja Tylkanova -g(E)lI mun        -W   beriː -RI  -tEn      buː   
+\ps num            adv  pron      adv  v            n                    ?     n                 n               v                    pron  
+\ge one  -iter.adv and  dist.qual thus do -cond.cvb friend -com -prfl.sg Valja Tylkanova -com    1pl.ex.obl -acc lose  -pst -poss.3pl 1pl.ex
+
+\tx giela         rybelkele              ŋenniwun.
+\mb gịa   -(dU)LE rybalka        -(dU)LE ŋen -RI  -WUn        
+\ps n             n                      v                    
+\ge other -loc    fishing.camp.R -loc    go  -pst -poss.1pl.ex
+
+\ft One day I was doing like that with my friend, with Valja Tylkanova, they lost us, we went to another fishing camp.
+\ev
+\ru Однажды вот так делали с подругой Валей С Валей Тылкановой. Нас потеряли. Мы на вторую/другую рыбалку пришли.
+\ELANBegin 00:10:59.694
+\ELANEnd 00:11:11.225
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.090
+\tx Imŋen          uže      sentjabrlak              amnak     imŋewaːtten                     eńtilbun            ńan
+\mb himŋe       -n  uže       sentjabr    -(dU)LE =kkE aːmnịk  himŋe       -WEːČ -R(E)   -n(I) eńtil   -WUn         ńaːn
+\ps v               adv       n                        adv     v                               n                    adv 
+\ge become.dark -nr already.R September.R -loc    =ptl quickly become.dark -gnr  -nonfut -3sg  parents -poss.1pl.ex and 
+
+\tx geletedʒilliten.
+\mb gel      -Č   -D    -L    -RI  -tEn     
+\ps v                                       
+\ge look.for -res -prog -inch -pst -poss.3pl
+
+\ft It was already dark, in September it gets dark quickly, right, and our parents started to look for us.
+\ph
+\gr imŋe = aːtar, complete synonyms, no difference; geleteʤilliten = stali iskatj; gelelliten = soskuchalisj; geleʤilliten = stali skuchatj bez konca; bi gellem = ja
+protrezvel, NOT "ishu"
+\ev
+\ru Темнота ведь в сентябре уже рано темнеет. Родители стали искать.
+\ELANBegin 00:11:11.225
+\ELANEnd 00:11:18.375
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.092
+\tx Uŋ       ńan   asụkụt uŋne             keːŋgulele       kieta         nukuja   ọːja  uŋedden
+\mb uŋ        ńaːn asụkụt uŋ        -(dU)LE keːŋgule -(dU)LE keta          nukuja   họːja uŋ -D    -R(E)   -n(I)
+\ps n         adv  adv    n                 n                n             ?        quant v                     
+\ge something and  almost something -loc    hole     -loc    chum.salmon.R decrepit many  do -prog -nonfut -3sg 
+
+\tx kojeːčidmi               ńan   asụkụt tar   bi   iruːniwu                 ọńịŋaγ... ọńịŋaγdu       tar  moːle,
+\mb kojeːt  -E  -D    -mI       ńaːn asụkụt tarak biː hiruːn     -RI  -W        ọnịŋ -K(Ag) ọnịŋ -K(Ag) -DU  tar  moː   -(dU)LE
+\ps v                           adv  adv    pron  pron v                         n           n                adv  n            
+\ge look.at -ep -prog -cond.cvb and  almost dist  1sg slide.down -pst -poss.1sg sand -coll  sand -coll  -dat thus water -loc   
+
+\tx eldurde          Valja elgeji         esendʒin             uŋnin             minu.
+\mb heldur      =DE  Valja elge  -J       esen   -Č   -n(I)     uŋ -RI  -n(I)     min     -W  
+\ps adv              ?     ?              n                     v                 pron        
+\ge fortunately =ptl Valja marik -prfl.sg handle -ins -poss.3sg do -pst -poss.3sg 1sg.obl -acc
+
+\ft And I nearly... in a ditch there was a lot of chum salmon, and looking I nearly slid down on the sandy patch into the water, fortunately Valja pulled me out with the
+handle of her fishhook.
+\ph
+\gr olla nukujarin, olla nukujača; bi nukujaddam = drjaxleju; nukujal kušijidde = kogda starye derutsja,
+\nt kieta nukuja = staraja ryba, pered smertju, drjaxlaja ryba, is the salmon fish that is about to cast its eggs and then it dies, so by then it's already half "falling apart";
+the fish that they catch is at the beginning of their journey, during the journey upriver the eggs ripen and at the end, when the fish is ready to lay its eggs, it's
+already very old and weak and drjaxlaja; this they don't eat, it's not tasty, they catch it for dog food
+\ru И вот я чуть в эту яму, где брачная кета, много было там, смотрела и чуть не скатилась по песку там, хорошо Валя мариком
+ручкой меня вытащила.
+\lg
+\ELANBegin 00:11:18.375
+\ELANEnd 00:11:45.199
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.093
+\tx Ńan   bu     neːiwriwun                     ešu                ńan   uŋŋoːtte.
+\mb ńaːn buː    neːgi -W     -RI  -WUn         e   -R(E)   -(R)U   ńaːn uŋ -WEːČ -R      
+\ps adv  pron   v                              v                   adv  v                
+\ge and  1pl.ex scold -advrs -pst -poss.1pl.ex neg -nonfut -1pl.ex and  do -gnr  -neg.cvb
+\ft And we were scolded and didn't do that again (weren't naughty anymore).
+\ev
+\ru И нас отругали и мы больше не шалили
+\ELANBegin 00:11:45.199
+\ELANEnd 00:11:48.506
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.094
+\tx Asapar       esuda                    kọbalanečta      ŋeːlloːtte,             kọbalan esni              ičuweːtte,
+\mb asapar       e   -R(E)   -(R)U   =DE  kọbalan -Č   =DE  ŋeːl      -WEːČ -R       kọbalan e   -R(E)   -n(I) it  -U    -WEːČ -R      
+\ps interj       v                        n                 v                        n       v                 v                       
+\ge I.don't.know neg -nonfut -1pl.ex =ptl bear    -ins =ptl be.afraid -gnr  -neg.cvb bear    neg -nonfut -3sg  see -caus -gnr  -neg.cvb
+
+\tx gịrkačantakan                   iču...   ičuweːtten.
+\mb gịrka -čE     -n(I)     =t(E)kEn it  -U    it  -U    -WEːČ -R(E)   -n(I)
+\ps v                                v         v                            
+\ge walk  -pf.ptc -poss.3sg =restr   see -caus see -caus -gnr  -nonfut -3sg 
+
+\ft I don't know, we weren't afraid of bears, bears weren't visible (one didn't see bears), only where they walked was visible.
+\ph
+\gr the experiencer of verbs of fear are marked with INS
+\ev
+\ru Мы медведя то не боялись. Медведя не было видно, следы только видны были.
+\ELANBegin 00:11:48.506
+\ELANEnd 00:11:57.360
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.096
+\ref N8-9-10 2:25
+\tx Ịak esten       bejelda      ibdiri ečil        ŋeːlle,         tiːkteken    ŋeːlle          eŋunde.
+\mb ịak  e   -R(E)   bej -L  =DE  ibdiri e   -RI  -L  ŋeːl      -R(E)   tiek =t(E)kEn ŋeːl      -R(E)   heŋun     -DE      
+\ps pron v           n            n      v            v                 adv           v                 v                  
+\ge what neg -nonfut man -pl =ptl people neg -pst -pl be.afraid -nonfut now  =restr   be.afraid -nonfut be.afraid -adjr.exp
+
+\ft And the people, the inhabitants, weren't afraid, only now are they terribly afraid.
+\ru И люди, население не боялось, сейчас только бояться страшно.
+\ELANBegin 00:11:57.360
+\ELANEnd 00:12:05.706
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.097
+\tx Uŋnida                seloγligeli               ŋennoːtten               kọbalan giekiw         dʒebdeji
+\mb uŋ        -(dU)LI =DE  selo      -klI      =gEl   ŋen -WEːČ -R(E)   -n(I) kọbalan gịakị   -W   dʒeb -DE       -J      
+\ps n                      n                          v                       n       pron         v                      
+\ge something -prol   =ptl village.R -all.prol =coord go  -gnr  -nonfut -3sg  bear    various -acc eat  -purp.cvb -prfl.sg
+
+\tx geleːččoːtten.
+\mb geleːt   -WEːČ -R(E)   -n(I)
+\ps v                           
+\ge look.for -gnr  -nonfut -3sg 
+
+\ft And the bear comes to the village and walks around, it looks for food for itself.
+\ph
+\gr seloγlida = azh da sela dazhe doxodit; seloγligali = i dazhe do sela; seloγli = dazhe do sela; ʤuγligali = azh dazhe v dome, and then she said that seloγligali =
+v sele dazhe, though at the end she again said seloγligali = azh dazhe do sela --- I don't know if the glosses are right, they don't make sense phonetically, but from
+the meaning they fit (I had asked, and one doesn't say "selokle")
+\ev
+\ru И в село приходит медведь, всякую пищу себе ищет. (seloγligeli-по селу ходит)
+\ELANBegin 00:12:05.706
+\ELANEnd 00:12:15.133
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.098
+\tx Bi   ńan   uŋmi         kọbalamtakan          potom  ọrdụkkan                    ittiwu             tegele.
+\mb biː ńaːn uŋ -mI       kọbalan -W   =t(E)kEn potom  ọrọn              -DU  =t(E)kEn it  -RI  -W        tege -(dU)LE
+\ps pron adv  v            n                     adv    n                               v                  n           
+\ge 1sg and  do -cond.cvb bear    -acc =restr   then.R domestic.reindeer -dat =restr   see -pst -poss.1sg far  -loc   
+
+\ft And I only saw a bear later, only in the herd, in the distance.
+\ph
+\gr ordukkan = tolko v tabune, from ordu
+\ev
+\ru И потом медведя я видела только в табуне издалека.
+\ELANBegin 00:12:15.133
+\ELANEnd 00:12:24.426
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.099
+\tx Ńan   es... taŋmi         tar  uŋmi         tar  daːlịlak            ičilliwu,               a     tak  selo
+\mb ńaːn taŋ  -mI       tar  uŋ -mI       tar  daːlị -(dU)LE -G    it  -L    -RI  -W        a.R   tak  selo     
+\ps adv  v              adv  v            adv  rel.n               v                        ?     interj n        
+\ge and  read -cond.cvb thus do -cond.cvb thus near  -loc    -advr see -inch -pst -poss.1sg but.R so.R village.R
+
+\tx ańčịndulin                 esni              ičuweːtte.
+\mb ańčịn        -(dU)LI -n(I)     e   -R(E)   -n(I) it  -U    -WEːČ -R      
+\ps rel.n                          v                 v                       
+\ge space.beside -prol   -poss.3sg neg -nonfut -3sg  see -caus -gnr  -neg.cvb
+
+\ft Only going to school I saw it close up, but (bears) weren't near the village like that.
+\ph
+\gr daːlilak = blizko zhe, vblizi; daːlilan = okolo chego-to; daːlidun, daːlilan, daːliliwu = okolo menja proshel
+\ev
+\ru И вот учась в школе вблизи увидела, а так возле села не виден был (ičuweːtte-их не было видно, его не было видно)
+\ELANBegin 00:12:24.426
+\ELANEnd 00:12:37.026
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.100
+\tx Bi   taŋnarịwụ              skoletki         umeniru            ńụčịdiw       torem          ečiwu             aːr.
+\mb biː taŋ  -nE     -RI  -W        škola    -t(E)kI omen -ir      -W   ńụča    -DI   -W   tore  -n  -W   e   -RI  -W        haː  -R      
+\ps pron v                           n                num                n                  v              v                  v            
+\ge 1sg read -intent -pst -poss.1sg school.R -all    one  -num.neg -acc Russian -adjr -acc speak -nr -acc neg -pst -poss.1sg know -neg.cvb
+
+\ft When I went to school to learn I didn't know a single word in Russian.
+\ph
+\gr omeniru = ne odnogo; ne dvux slov ne znala? ʤuːrirur (?); u menja i 10 kopeek netu = mianiru kopeŋan ačča
+\ev
+\ru Я, учась в школе, ни одного русского слова не знала.
+\ELANBegin 00:12:52.039
+\ELANEnd 00:13:01.066
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.101
+\tx Ńan   taŋ.. uŋniwun              školadu,     učitelnitsawun           Rimma Mixajlovna  munteki
+\mb ńaːn taŋ  uŋ -RI  -WUn         škola    -DU  učitel'nica -WUn         Rimma Mixajlovna  mun        -t(E)kI
+\ps adv  v    v                    n             n                        ?     ?           n                 
+\ge and  read do -pst -poss.1pl.ex school.R -dat teacher.f.R -poss.1pl.ex Rimma Mikhajlovna 1pl.ex.obl -all   
+
+\tx toreweːtten                ńụčịdịč    ńan   ulgimmoːtten               ọrọttịč       "ụnụnni?"
+\mb tore  -WEːČ -R(E)   -n(I) ńụča    -DI   -Č   ńaːn ulgim -WEːČ -R(E)   -n(I) ọrọč  -DI   -Č   ụnụ        -nrI
+\ps v                         n                  adv  v                         n                v              
+\ge speak -gnr  -nonfut -3sg  Russian -adjr -ins and  ask   -gnr  -nonfut -3sg  Oroch -adjr -ins understand -2sg
+
+\ft And we (learned) in school, and our teacher Rimma Mikhajlovna spoke to us in Russian and asked in Even "did you understand?".
+\ph
+\ev
+\ru И вот в школе учительница наша Римма Михайловна нам говорила по-русски и спрашивала по-эвенски: "Понимаешь?"
+\ELANBegin 00:13:01.066
+\ELANEnd 00:13:14.906
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.102
+\tx Bu     ńan   meːr     dọːlịwụr         goːweːttu           ''Ịawụtgu      toren?''
+\mb buː    ńaːn meːn -L  dọː    -(dU)LI -WUr     goːn -WEːČ -(R)U   ịak  =(W)UttE =GU tore  -n(I)
+\ps pron   adv  pron     rel.n                   v                  pron              v          
+\ge 1pl.ex and  refl -pl inside -prol   -prfl.pl say  -gnr  -1pl.ex what =indef   =q  speak -3sg 
+\ft And we said amongst each other "What does she say?".
+\ph goːweːttu is indiscernible, sounds like goːt
+\gr meːr dọːliwur = mezhdu soboj, this is how one usually expresses this; can one say meːr elgeliwur? yes, one can
+\ev
+\ru Мы тогда между собой говорили: "Что она говорит?"
+\ELANBegin 00:13:14.906
+\ELANEnd 00:13:21.252
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.103
+\tx Potom  ńan   staršiel      tar, uŋel            bu     podgotovitelnyjdu    taŋniwun,             tar   podgotovitelnyj,
+\mb potom  ńaːn staršie    -L  tar  uŋ        -E  -L  buː    podgotovitelnyj -DU  taŋ  -RI  -WUn         tarak podgotovitelnyj
+\ps adv    adv  adj            adv  n                 pron   adj                  v                      pron  adj            
+\ge then.R and  older.pl.R -pl thus something -ep -pl 1pl.ex preparatory.R   -dat read -pst -poss.1pl.ex dist  preparatory.R  
+
+\tx vtoroj   klass,  četvertyj.
+\mb vtoroj   klas    četvertyj
+\ps adj      n       adj      
+\ge second.R grade.R fourth.R 
+
+\ft And then the older (children)... we studied in the preparatory class, the preparatory, the second grade, the fourth.
+\ph
+\nt it's odd that she only mentions the preparatory class, the second and fourth grade, even though there were a first and third grade, too
+\ev
+\ru Потом нам старшие, мы в подготовительном учились. Там подготовительный, второй класс, четвёртый
+\ELANBegin 00:13:21.252
+\ELANEnd 00:13:35.637
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.105
+\tx Ńan   tar  egdʒer     ńan   mundu           tar  uŋŋoːtte         teːleŋŋoːtte         ịaw      guːndʒiru.
+\mb ńaːn tar  egdʒen -L  ńaːn mun        -DU  tar  uŋ -WEːČ -R(E)   teːleŋ -WEːČ -R(E)   ịak  -W   goːn -DʒI -(R)U  
+\ps adv  adv  adj        adv  n               adv  v                v                    pron      v                
+\ge and  thus big    -pl and  1pl.ex.obl -dat thus do -gnr  -nonfut tell   -gnr  -nonfut what -acc say  -fut -1pl.ex
+\ft And so the older (children) told us what we should say.
+\ev
+\ru И вот большие нам говорили (рассказывали) что нам сказать
+\ELANBegin 00:13:35.637
+\ELANEnd 00:13:42.599
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.107
+\tx Ńan   uŋmi         tar  aːmalka     uže      pervyj  klasstu      uže      ụnụsčilliwun                         tarma
+\mb ńaːn uŋ -mI       tar  haː  -mElčI uže       pervyj  klas    -DU  uže       ụnụ        -sčI   -L    -RI  -WUn         tarma
+\ps adv  v            adv  v           adv       adj     n            adv       v                                         conj 
+\ge and  do -cond.cvb thus know -acclr already.R first.R grade.R -dat already.R understand -conat -inch -pst -poss.1pl.ex but  
+
+\tx toredewur                nuːnniwun                    unet.
+\mb tore  -DE       -WUr     nụːn        -RI  -WUn         unet
+\ps v                        v                             ?   
+\ge speak -purp.cvb -prfl.pl not.be.able -pst -poss.1pl.ex yet 
+
+\ft And then in first grade we already started to understand a bit, but we were still not able to speak.
+\ph
+\gr aːmalka = she swallowed the ending, wanted to say "aːmalkariwun"; unusčiram = ja nemnogo ponimaju, attenuative meaning of conative suffix; here they usually
+say toreDEWUR nuːnniwun, but one could also say toreŋe nuːnniwun
+\ev
+\ru И вот узнали уже в первом классе уже стали немножко понимать, но разговаривать не умели.
+\ELANBegin 00:13:42.599
+\ELANEnd 00:13:51.610
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.108
+\tx Bi   ńan   tar  uŋmi         buteː... buteːnelliwu                   tretij  klasstu      taŋmi,        ńan   Petropavlovsketki
+\mb biː ńaːn tar  uŋ -mI       buteːn buteːn -E  -L    -RI  -W        tretij  klas    -DU  taŋ  -mI       ńaːn Petropavlovsk -E  -t(E)kI
+\ps pron adv  adv  v            v      v                               adj     n            v              adv  n                        
+\ge 1sg and  thus do -cond.cvb be.ill be.ill -ep -inch -pst -poss.1sg third.R grade.R -dat read -cond.cvb and  Petropavlovsk -ep -all   
+
+\tx ururiten.
+\mb hor -U    -RI  -tEn     
+\ps v                       
+\ge go  -caus -pst -poss.3pl
+
+\ft And then I fell ill when I was studying in the third grade, and they took me to Petropavlovsk.
+\ph Petropavlovsketk
+\ev
+\ru И вот я заболела в третьем классе учась. И вот в Петропавловск меня увезли,
+\ELANBegin 00:13:52.359
+\ELANEnd 00:14:01.440
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.109
+\tx Bi   ńan   tadụ     toredeji                 upkuttiwu             ńụčịdịč    ajịč      tar.
+\mb biː ńaːn tarak -DU  tore  -DE       -J       hupkut -RI  -W        ńụča    -DI   -Č   aj   -E  -Č   tar 
+\ps pron adv  pron       v                        v                     n                  adj           adv 
+\ge 1sg and  dist  -dat speak -purp.cvb -prfl.sg learn  -pst -poss.1sg Russian -adjr -ins good -ep -ins thus
+\ft And there I learned to speak Russian well.
+\ev
+\ru я там научилась говорить по-русски хорошо.
+\ELANBegin 00:14:01.440
+\ELANEnd 00:14:07.693
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.110
+\tx Ŋenniwu,           tar  ọːnka    guːn kinolakka             kojeːččoːtte        tiːtelerepu          tar  nuːnne,
+\mb ŋen -RI  -W        tar  ọːn =kE  goːn kino     -(dU)LE =kkE kojeːt  -WEːČ -R(E)   tiːtel   -(E)rEp -W   tar  nụːn        -R(E)  
+\ps v                  adv  pron     v    n                     v                     adv                   adv  v                  
+\ge go  -pst -poss.1sg thus how =ptl say  movies.R -loc    =ptl look.at -gnr  -nonfut long.ago -adjr   -acc thus not.be.able -nonfut
+
+\tx esten       ụnụwaːtta,             bi   etilbe                 ụnụr            kụŋalba,      tar  tiːtelerepu          iːniw,
+\mb e   -R(E)   ụnụ        -WEːČ -R       biː e   -RI       -L  -W   ụnụ        -R       kụŋa  -L  -W   tar  tiːtel   -(E)rEp -W   iːni -W  
+\ps v           v                         pron v                      v                   n              adv  adv                   n        
+\ge neg -nonfut understand -gnr  -neg.cvb 1sg neg -impf.ptc -pl -acc understand -neg.cvb child -pl -acc thus long.ago -adjr   -acc life -acc
+
+\tx bi   ńan   meːni      dʒọːwaːttam              ọːn bikkede        keńelič    ụnụriwu               toreriwuten.
+\mb biː ńaːn meːni       dʒọː     -WEːČ -R(E)   -m   ọːn biː =kkE =DE  keńeli -Č   ụnụ        -RI  -W        tore  -RI       -W   -tEn     
+\ps pron adv  pron        v                           pron pron          adj         v                         v                             
+\ge 1sg and  refl.sg.acc remember -gnr  -nonfut -1sg how 1sg =ptl =ptl bad    -ins understand -pst -poss.1sg speak -impf.ptc -acc -poss.3pl
+
+\ft I came back and as they say, in the movies they watch the old (times), they aren't able, they don't understand, children who don't understand, the old life, and I
+remember myself  (my own person) how I too badly understood what they said.
+\ph
+\gr kinolakka kojeːččotte = kak kino zhe smotrjat, v kino smotrjat - I still don't think it's right, surely it should be kinoW koječčotte, they watch a movie, but it's also
+not so important, the sentence is rather neskladno;  etilbe unur kuŋalba = detej kotorye ne ponimajut (ja vspominaju neponimajushix detej); ʤowattam =
+vspominala; ʤoŋčiram = pomnitj
+\ev
+\nt кино про непонимающих детей
+\ru Приехала и вот как говорят кино смотрят в старинном. (Приехала как кино, говорят кино смотрят, в старинном,)
+(kojeːččoːtte-смотрят) Дети не умеют, не понимают, я про не понимающих детей, про старую жизнь. Я себя вспоминала. (Как
+кино смотрят, старое, и в кино старинном, не умеют, не понимают и я которые не понимали детей в старом кино, старой жизни и
+я вот себя вспоминала.) (nunne-не умеют) Я же тоже плохо понимала то что говорят (Как я тоже плохо понимала как говорят.)
+\ELANBegin 00:14:07.693
+\ELANEnd 00:14:35.960
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.113
+\tx Ńan   tar  uŋmi         taŋnami               ńan   ajịč      bi   taŋniwu.
+\mb ńaːn tar  uŋ -mI       taŋ  -nE     -mI       ńaːn aj   -E  -Č   biː taŋ  -RI  -W       
+\ps adv  adv  v            v                      adv  adj           pron v                  
+\ge and  thus do -cond.cvb read -intent -cond.cvb and  good -ep -ins 1sg read -pst -poss.1sg
+\ft And then when I went to study, I studied well.
+\ev
+\ru И вот когда я пошла учиться и хорошо я училась.
+\ELANBegin 00:14:35.960
+\ELANEnd 00:14:40.346
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.114
+\tx Taŋŋoːttusi             ọːnka    ọńattan                taraw      čelewen                dʒọŋčịwaːttu          ńan
+\mb taŋ  -WEːČ -(R)U   =sI   ọːn =kE  ọńa   -Č   -R(E)   -n(I) tarak -W   čele -W   -E  -n(I)     dʒọŋčị   -WEːČ -(R)U   ńaːn
+\ps v                        pron     v                        pron       n                       v                      adv 
+\ge read -gnr  -1pl.ex =emph how =ptl write -res -nonfut -3sg  dist  -acc all  -acc -ep -poss.3sg remember -gnr  -1pl.ex and 
+
+\tx ńụčịdịč    tar  ''russkij jazykla''          tar  ajịč      tar  ọńawaːttụ,       ačta    ošibkala.
+\mb ńụča    -DI   -Č   tar  russkij   jazyk      -(dU)LE tar  aj   -E  -Č   tar  ọńa   -WEːČ -(R)U   ač  =DE  ošibka    -LE 
+\ps n                  adv  adj       n                  adv  adj           adv  v                   ptl      n             
+\ge Russian -adjr -ins thus Russian.R language.R -loc    thus good -ep -ins thus write -gnr  -1pl.ex neg =ptl mistake.R -prv
+
+\ft We read as it was written, remembered all of that and in Russian (in the lesson "Russian language") we wrote well, without mistakes.
+\ph
+\gr ačta ošibkala = i bez oshibok, sovsem bez oshibok (but the nuance of -tA here is not really clear, Rimma was very tired)
+\ev
+\ru Читали как написано, всё это запоминали, по русскому языку хорошо вот писали без ошибок.
+\ELANBegin 00:14:40.346
+\ELANEnd 00:14:53.360
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.115
+\tx Umenir        ošibka   esni              biweːtte,          bi   diktantew           ajịč      ọńawaːttam.
+\mb omen -ir      ošibka    e   -R(E)   -n(I) bi -WEːČ -R       biː diktant     -E  -W   aj   -E  -Č   ọńa   -WEːČ -R(E)   -m  
+\ps num           n         v                 v                 pron n                    adj           v                       
+\ge one  -num.neg mistake.R neg -nonfut -3sg  be -gnr  -neg.cvb 1sg dictation.R -ep -acc good -ep -ins write -gnr  -nonfut -1sg
+
+\ft There was not a single mistake, and I wrote dictations well.
+\ph ošibkani biweːtte
+\ev
+\ru Ни одной ошибки не было. Я диктант хорошо писала.
+\lg
+\ELANBegin 00:14:53.360
+\ELANEnd 00:15:01.346
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.116
+\tx Ńan   uŋmi         tar  nuːŋi                    tiːk kụŋal    esten       ịlkan, ọːnka    torer      tačịnda
+\mb ńaːn uŋ -mI       tar  noː             -ŋI        tiek kụŋa  -L  e   -R(E)   ịlkan ọːn =kE  tore  -r   tarọːčịn  =DE 
+\ps adv  v            adv  n                          adv  n         v           adj   pron     v          pron          
+\ge and  do -cond.cvb thus younger.sibling -pred.poss now  child -pl neg -nonfut true  how =ptl speak -3pl dist.qual =ptl
+
+\tx ọńawaːtta.
+\mb ọńa   -WEːČ -R(E)  
+\ps v                  
+\ge write -gnr  -nonfut
+
+\ft And the younger ones, children nowadays don't (do it) right, they write how they speak.
+\ph
+\gr nuːŋi = mladshie, probably wanted to say nuːŋil; one can also say aγdiŋil; nuːŋi = nuːŋiš, nuːŋin, nuːŋi = mladshij
+\ev
+\ru И вот младшие сейчас дети не совсем (стараются) как говорят так и пишут.
+\ELANBegin 00:15:03.053
+\ELANEnd 00:15:12.866
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.117
+\ref N8-9-10 13:10
+\tx Uŋ       tarakam,      mun        bisekun,                  čeːledʒur       ajịč      ńụčịdịw     uŋu           ọńat...
+\mb uŋ        tarakam       mun        bi -REk      -WUn         čele -dʒUr        aj   -E  -Č   ńụča    -DI   -W   uŋ        -W   ọńa   -Č  
+\ps n         adv           ?          v                         ?                 adj           n                  n              v         
+\ge something in.those.days 1pl.ex.obl be -cond.cvb -poss.1pl.ex all  -ins.prfl.pl good -ep -ins Russian -adjr -acc something -acc write -res
+
+\tx ọńawaːtta.
+\mb ọńa   -WEːČ -R(E)  
+\ps v                  
+\ge write -gnr  -nonfut
+
+\ft In those days, when we were (in school), everyone wrote Russian well.
+\ph
+\gr mun bišekun = OK, kogda my byli, one can also say bu bišekun;
+\ev
+\ru Тогда когда мы были все хорошо по-русски писали.
+\ELANBegin 00:15:12.866
+\ELANEnd 00:15:21.813
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.118
+\tx Buːsi       tačịn       upkuttiwun,              ọːnka    goːweːtte,          po   slogam.
+\mb buː    =sI   tarọːčịn  hupkut -RI  -WUn         ọːn =kE  goːn -WEːČ -R(E)   po   slogam           
+\ps pron         pron      v                        pron     v                  postpos n                
+\ge 1pl.ex =emph dist.qual learn  -pst -poss.1pl.ex how =ptl say  -gnr  -nonfut on.R syllable.dat.pl.R
+\ft We however learned like that, how do they say, by syllables.
+\ev
+\ru Мы же так учили, как говорят, по слогам.
+\ELANBegin 00:15:21.813
+\ELANEnd 00:15:32.946
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.119
+\tx Unet  ịaw      teːleŋdʒim?
+\mb unet  ịak  -W   teːleŋ -DʒI -m  
+\ps adv   pron      v               
+\ge still what -acc tell   -fut -1sg
+\ft What else will I tell?
+\ev
+\ru Что я ещё расскажу?
+\ELANBegin 00:15:38.493
+\ELANEnd 00:15:42.173
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.120
+\tx Elekes   biː čakaru      ičiddiwu                   kuskovoju.
+\mb elekes   biː saxar   -W   it  -E  -D    -RI  -W        kuskovoj -W  
+\ps ?        pron n            v                            adj          
+\ge at.first 1sg sugar.R -acc see -ep -prog -pst -poss.1sg lump.R   -acc
+\ft I saw lump sugar for the first time.
+\ph
+\ev
+\ru (В) первый раз увидела сахар кусковой.
+\ELANBegin 00:15:43.560
+\ELANEnd 00:15:47.093
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.121
+\tx Ńan   tarawda         ọrgịč              emnidʒi      bi   uŋeč         ọrdụ               bimi
+\mb ńaːn tarak -W   =DE  ọrọn              -GIČ  em   -RIdʒI   biː uŋ        -Č   ọrọn              -DU  bi -mI      
+\ps adv  pron            n                       v             pron n              n                      v           
+\ge and  dist  -acc =ptl domestic.reindeer -elat come -ant.cvb 1sg something -ins domestic.reindeer -dat be -cond.cvb
+
+\tx ewiddʒoːttu               dʒọlakaγ,  ''Burkaŋi'' goːweːtte           ečin      tar  tarič        ewiddʒoːttu,
+\mb ewiː -D    -WEːČ -(R)U   dʒọl  -K(Ag) burkaŋi goːn -WEːČ -R(E)   erroːčin  tar  tarak -E  -Č   ewiː -D    -WEːČ -(R)U  
+\ps v                        n            n       v                  pron      adv  pron           v                       
+\ge play -prog -gnr  -1pl.ex stone -coll  pebble  say  -gnr  -nonfut prox.qual thus dist  -ep -ins play -prog -gnr  -1pl.ex
+
+\tx goːweːtte           kameški.
+\mb goːn -WEːČ -R(E)   kameški        
+\ps v                  n              
+\ge say  -gnr  -nonfut stones.dim.pl.R
+
+\ft And this, having come from the herd, being in the herd we used to play with stones, they say "burkangi", and we played with that, they say (call it) "kameshki"
+(little stones).
+\ph I don't hear "goːweːtte", but "goːne", but it was transcribed with goːweːtte and Rimma confirmed this
+\gr should have been ʤolač ewidʤottu "we played with stones" or ʤolakaγla ewidʤottu "we played among stones/rocks"
+\ev
+\nt "буркани" - белые камни, как кремень
+\ru И вот вот это из табуна приехав, когда в табуне были (живя) играли в камушки. "Буркани" называется и вот так мы играли,
+называется(говорят) камешки.
+\ELANBegin 00:15:47.706
+\ELANEnd 00:15:58.320
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.123
+\tx Bi   ńan   čakaru      ittidʒi     tačịn       ewidʒilliwu.
+\mb biː ńaːn saxar   -W   it  -RIdʒI   tarọːčịn  ewiː -D    -L    -RI  -W       
+\ps pron adv  n            v            pron      v                              
+\ge 1sg and  sugar.R -acc see -ant.cvb dist.qual play -prog -inch -pst -poss.1sg
+\ft And having seen that sugar I started to play like that.
+\ev
+\qu could one say ewileddiwu? difference in meaning?
+\ru И вот я сахар увидев, стала играть.
+\ELANBegin 00:15:58.320
+\ELANEnd 00:16:02.453
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.124
+\tx Ečiwu             tar  čakaru      aːr.
+\mb e   -RI  -W        tar  saxar   -W   haː  -R      
+\ps v                  adv  n            v            
+\ge neg -pst -poss.1sg thus sugar.R -acc know -neg.cvb
+
+\ft I didn't know sugar.
+\ev
+\ru Не знала вот сахар.
+\ELANBegin 00:16:02.453
+\ELANEnd 00:16:05.133
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.125
+\tx Uŋu           tabịč      ...  jabalukukan           tar  bi   ajaːwalliwu                   tarịdʒịt uŋni.
+\mb uŋ        -W   tabačịsị *... jabloko -W   -KEn     tar  biː ajaːw -E  -L    -RI  -W        tarịdʒịt uŋ        -(dU)LI
+\ps n              adv      ?    n                     adv  pron v                              adv      n                
+\ge something -acc then     ***  apple.R -acc -dim.int thus 1sg love  -ep -inch -pst -poss.1sg at.once  something -prol  
+
+\ft And then.... Only apples I loved right away.
+\ph jabalukukan = i tolko jabloki - would seem to be the restrictive meaning of -KEn
+\ru Яблоки вот я полюбила сразу (taridʒid-сразу)
+\ELANBegin 00:16:08.266
+\ELANEnd 00:16:19.866
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.127
+\tx Bi   ńan   magazintakị   orroːttem,              unijemŋe          dʒuldedun                 nurgeneddʒoːttem,
+\mb biː ńaːn magazin -t(E)kI hor -WEːČ -R(E)   -m   uni -j    -E  -mŋE  dʒul  -gIdE -DU  -n(I)     nurgen -E  -D    -WEːČ -R(E)   -m  
+\ps pron adv  n               v                      v                   rel.n                      v                                  
+\ge 1sg and  shop.R  -all    go  -gnr  -nonfut -1sg buy -conn -ep -agnr front -part -dat -poss.3sg dance  -ep -prog -gnr  -nonfut -1sg
+
+\tx jabalakaŋgaji               gasčịmi.
+\mb jabloko -ŋ   -GE    -J       gasčị -mI      
+\ps n                            v              
+\ge apple.R -aln -desig -prfl.sg ask   -cond.cvb
+
+\ft And so I go to the shop and dance in front of the sales-person, asking for an apple for myself.
+\nt uniimŋe- продавец, dʒuldedun-перед
+\ev
+\ru И вот я в магазин пойду перед продавцом нургели танцевала, прося себе яблока.
+\ELANBegin 00:16:19.866
+\ELANEnd 00:16:31.080
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.128
+\tx Elekes   tar  uŋu           suxofruktowda,          bi   gerbuttiwu            dewenŋit ọlgịtča.
+\mb elekes   tar  uŋ        -W   suxofrukty    -W   =DE  biː gerbet -RI  -W        dewenŋit ọlgị -Č   -čE    
+\ps ?        adv  n              n                       pron v                     n        v                
+\ge at.first thus something -acc dried.fruit.R -acc =ptl 1sg think  -pst -poss.1sg mushroom dry  -res -pf.ptc
+\ft The first time (I saw) dried fruit, I thought it was dried mushrooms.
+\ph
+\gr she omitted the verb "ittiwu" or "ittiʤi" after suxofruktowda
+\ev
+\ru В первый раз сухофрукты думала, что это грибы сушёные.
+\ELANBegin 00:16:31.080
+\ELANEnd 00:16:39.439
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.129
+\tx Taraw      tare      ...  goːweːttem               ịadu     nan    dewenŋitu     akmụ           unin      ọːjakka    bụjli
+\mb tarak -W   tarak -E  *... goːn -WEːČ -R(E)   -m   ịak  -DU  ńaːn dewenŋit -W   akan   -W        uni -n(I) họːja =kkE bụj    -(dU)LI
+\ps pron       pron      ?    v                       pron      adv  n             n                v         quant      n             
+\ge dist  -acc dist  -ep ***  say  -gnr  -nonfut -1sg what -dat and  mushroom -acc father -poss.1sg buy -3sg  many  =ptl forest -prol  
+
+\tx tar   dewenŋit,.
+\mb tarak dewenŋit
+\ps pron  n       
+\ge dist  mushroom
+
+\ft About this I said (thought), why did my father buy mushrooms, there are so many of them in the forest, those mushrooms.
+\ru И вот про это вот говорила почему грибы сушенные отец купил, в лесу их же много
+\ru Вот это я говорила, зачем грибы вот отец покупает много в лесу ведь грибов.
+\ELANBegin 00:16:39.439
+\ELANEnd 00:16:49.900
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.129b
+\ref
+\tx Tabịč uŋe          syruda             mylač      gerbuččoːttem
+\mb tabịč uŋ        -E  syr      -W   =DE  mylo   -Č   gerbu -Č   -WEːČ -R(E)   -m  
+\ps adv   n             n                  n           v                            
+\ge again something -ep cheese.R -acc =ptl soap.R -ins call  -res -gnr  -nonfut -1sg
+
+\ft And about cheese I thought it was soap.
+\ph
+\gr the INS case for the secondary predicate "soap" is correct
+\ru И ещё на сыр думала, что это мыло.
+\ph
+\ELANBegin 00:16:49.900
+\ELANEnd 00:16:55.373
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.130
+\tx Ečiwun               aːr.
+\mb e   -RI  -WUn         haː  -R      
+\ps v                     v            
+\ge neg -pst -poss.1pl.ex know -neg.cvb
+\ft We didn't know
+\ev
+\ru Мы не знали.
+\ELANBegin 00:16:55.373
+\ELANEnd 00:16:57.320
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.131
+\tx Makarom         ńan   uŋmi         kojeːčiddʒoːttem                  ịakawụgu     erroːčinni.
+\mb makaron    -W   ńaːn uŋ -mI       kojeːt  -E  -D    -WEːČ -R(E)   -m   ịak  -awụ  =GU erroːčin  -n(I)    
+\ps n               adv  v            v                                    pron           pron               
+\ge macaroni.R -acc and  do -cond.cvb look.at -ep -prog -gnr  -nonfut -1sg what -emph =q  prox.qual -poss.3sg
+\ft And I looked at macaroni, what on earth is this?
+\ev
+\ru И макароны я смотрела, что же это вот такое?
+\ELANBegin 00:16:57.320
+\ELANEnd 00:17:02.799
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.132
+\tx Ńan   uːddʒoːttem                  dọːlin                tar  elekes   ittidʒi     paketla,      gazettuk            paket
+\mb ńaːn huː  -D    -WEːČ -R(E)   -m   dọː    -(dU)LI -n(I)     tar  elekes   it  -RIdʒI   paket -(dU)LE gazeta      -DUk(U) paket
+\ps adv  v                             rel.n                    adv  ?        v            n             n                   n    
+\ge and  blow -prog -gnr  -nonfut -1sg inside -prol   -poss.3sg thus at.first see -ant.cvb bag.R -loc    newspaper.R -abl    bag.R
+
+\tx ọːča,     tarak dọːlan,            guːnem            "ee, ịawučisi             uniriten".
+\mb ọː   -čE     tarak dọː    -(dU)LE -n(I)     goːn -R(E)   -m   ee ịak  =(W)UttE -E  =sI   uni -RI  -tEn     
+\ps v            pron  rel.n                    v                 interj pron                    v                 
+\ge make -pf.ptc dist  inside -loc    -poss.3sg say  -nonfut -1sg eh what =indef   -ep =emph buy -pst -poss.3pl
+
+\ft And I blew inside (a macaroni), seeing it for the first time in the bag, a bag made from newspaper, inside that, and I say "hey, what is it that they bought".
+\ru И вот  дула (в макаронину) внутри в первый раз увидев в пакете. Из газеты пакет сделанный там внутри говорю что-то купили
+\ELANBegin 00:17:02.799
+\ELANEnd 00:17:12.799
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.133
+\ref N12
+\tx Tarakam       tar  kinotte            nonunkana        kinoč        ŋeːl... eŋulliwu                      elekes   tar   itmi.
+\mb tarakam       tar  kino     -Č   =DE  nọnan     =kEnE  kino     -Č   ŋeːl      heŋun     -L    -RI  -W        elekes   tarak it  -mI      
+\ps adv           adv  n                  ?                n             v         v                              ?        pron  v            
+\ge in.those.days thus movies.R -ins =ptl beginning =contr movies.R -ins be.afraid be.afraid -inch -pst -poss.1sg at.first dist  see -cond.cvb
+\ft And at that time movies as well, in the beginning I was afraid, I got a fright from the movies, seeing that for the first time.
+\ph says nonun=kana, but meant to say nonan=kana
+\gr kino-t=te: i kino tozhe ja ispugalasj; ŋeːlliwu = bojalasj; eŋulliwu = ispugatsja
+\ru Тогда кино(фильм) в начале кино испу... испугались в первый раз увидев.
+\ELANBegin 00:17:14.986
+\ELANEnd 00:17:25.079
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.134
+\ref N12 14:14
+\tx Ńan   potom  ńan   ere  ere  meːrkende          tar   uŋeddiwun                     tar.
+\mb ńaːn potom  ńaːn erek erek meːn -L  -KEn =DE  tarak uŋ -E  -D    -RI  -WUn         tar 
+\ps adv  adv    adv  pron pron pron               pron  v                              adv 
+\ge and  then.R and  prox prox refl -pl -dim =ptl dist  do -ep -prog -pst -poss.1pl.ex thus
+
+\ft And then we ourselves understood (got used to) (all this).
+\ru И потом и  сами поняли (привыкли) вот это.
+\ELANBegin 00:17:25.079
+\ELANEnd 00:17:33.440
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.134b
+\ref
+\tx Makarommakan           taraw      uːddʒoːttem.
+\mb makaron    -W   -mEkEn tarak -W   huː  -D    -WEːČ -R(E)   -m  
+\ps n                      pron       v                            
+\ge macaroni.R -acc -ints  dist  -acc blow -prog -gnr  -nonfut -1sg
+
+\ft Especially (she) blew into these macaroni.
+\ph
+\ru Особенно в макароны вот в эти дула.
+\ph
+\ELANBegin 00:17:33.440
+\ELANEnd 00:17:35.719
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.135
+\tx Guːnem            ịakawụkka     tar   uŋ       guːniwu             kọč   uŋduk            ọːča      ewiːldiwun.
+\mb goːn -R(E)   -m   ịak  -awụ  =kkE tarak uŋ        goːn -RI  -W        kọč      uŋ        -DUk(U) ọː   -čE     ewiː -ldIwUn
+\ps v                 pron            pron  n         v                   adv      n                 v            v           
+\ge say  -nonfut -1sg what -emph =ptl dist  something say  -pst -poss.1sg probably something -abl    make -pf.ptc play -nr    
+\ft I say "what is this", I said "maybe it's made out of something, for play".
+\ph
+\gr kọč = both "maybe" and "probably"
+\ev
+\ru Говорю, что же это вот это говорю может из чего-то и сделана для игры.
+\ELANBegin 00:17:35.719
+\ELANEnd 00:17:45.980
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.136
+\ref N13
+\tx Kompetuγeleː            tar  bi   kampetu      tar  ajaː  ...  ajaːwriwun              ịlkan tar  jablukkoliw          tar.
+\mb konfeta -W   =gEl   =eː   tar  biː konfeta -W   tar  ajaːw *... ajaːw -RI  -WUn         ịlkan tar  jabloko -g(E)lI -W   tar 
+\ps n                         adv  pron n            adv  v     ?    v                       adj   adv  n                    adv 
+\ge sweet.R -acc =coord =emph thus 1sg sweet.R -acc thus love  ***  love  -pst -poss.1pl.ex true  thus apple.R -com    -acc thus
+\ft And SWEETS, sweets I loved very much, together with apples.
+\nt ilkan-сильно
+\gr kompetuγleː = konfety zhe, konfety to; emphatic focus on konfety; she could also have said kompetukke; said ajaːwriwun but meant herself, ajaːwriwu; jablukkoliw
+= vmeste s jablokami
+\ru Конфеты же, вот я конфеты любила сильно вместе с яблоками вот.
+\ELANBegin 00:17:45.980
+\ELANEnd 00:18:03.360
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.137
+\tx Ullew     uŋde          ereːger     dʒụganịdụ  ulleŋun               biweːtten.
+\mb ulre -W   uŋ        =DE  ereger =eː   dʒụganị -DU  ulre -ŋ   -WUn         bi -WEːČ -R(E)   -n(I)
+\ps n         n              adv          n            n                      v                     
+\ge meat -acc something =ptl always =emph summer  -dat meat -aln -poss.1pl.ex be -gnr  -nonfut -3sg 
+\ft Meat... we always had meat in spring/summer.
+\ph
+\ru Мясо всегда весной летом мясо у нас всегда было.
+\ELANBegin 00:18:03.360
+\ELANEnd 00:18:11.300
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.138
+\tx Uŋniši                temujola...   temujodaril                         č,            ńan   gie... ŋiːde
+\mb uŋ        -(dU)LI =sI   temujo    -LE temujo    -n  -nE     -RI       -L  bọrị  -Č   -mEČ -WEːČ -R(E)   ńaːn gịa  ŋiː =DE 
+\ps n                       v             v                                   v                             adv  adj  pron    
+\ge something -prol   =emph slaughter -nr slaughter -nr -intent -impf.ptc -pl share -res -rec -gnr  -nonfut and  next who =ptl
+
+\tx temujoweːtten                  tačịnda          bọrịt...  bọrịttoːtte              ereger.
+\mb temujo    -WEːČ -R(E)   -n(I) tarọːčịn  =DE  bọrị  -Č   bọrị  -Č   -WEːČ -R(E)   ereger
+\ps v                             pron           v          v                        adv   
+\ge slaughter -gnr  -nonfut -3sg  dist.qual =ptl share -res share -res -gnr  -nonfut always
+
+\ft Over there, those who went for (reindeer) meat shared (with the others), and the next one, whoever slaughtered, also shared like that, always.
+\ph she says temujoːtten, but that is simply a contraction of temujoweːtten; at the end she says barittoːtte, but meant borittoːtte
+\gr uŋniši = tam zhe; temujodaril = kotorye za temujonem exali; temujonaril = kotorye edut zabivatj olenja; so I added the nominalizer to the gloss to show that they
+go to fetch the temujon - even though it's not perfectly glossed...
+\nt temujola-олень которого забивают, temujodaril-те, кто едет за оленьем мясом; temujolaril-ist richtig
+\ru Там же кто за мясом ехал делились, и вот другой кто-то ехал за мясом и так же он делился.
+\ELANBegin 00:18:11.300
+\ELANEnd 00:18:22.620
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.139
+\tx Iŋe,  ọllaw     ńan   akmụ,          nọŋan čeledukun              dʒulle       uŋŋoːtten,             uže      majla
+\mb ịŋa ọlra -W   ńaːn akan   -W        nọŋan čele -DUk(U) -n(I)     dʒul  -(dU)LE uŋ -WEːČ -R(E)   -n(I) uže       maj   -(dU)LE
+\ps ?   n         adv  n                pron  n                      rel.n         v                      adv       n            
+\ge yes fish -acc and  father -poss.1sg 3sg   all  -abl    -poss.3sg front -loc    do -gnr  -nonfut -3sg  already.R May.R -loc   
+
+\tx bejčilloːtten                    ọllaw,    ńan   uŋnidʒi    bọrị... bọrịwaːttan               tačịnta          nan    minu
+\mb bejči -L    -WEːČ -R(E)   -n(I) ọlra -W   ńaːn uŋ -RIdʒI   bọrị  bọrị  -WEːČ -R(E)   -n(I) tarọːčịn  =DE  ńaːn min     -W  
+\ps v                               n         adv  v           v     v                         pron           adv  pron        
+\ge hunt  -inch -gnr  -nonfut -3sg  fish -acc and  do -ant.cvb share share -gnr  -nonfut -3sg  dist.qual =ptl and  1sg.obl -acc
+
+\tx ŋenuwkeweːtten.
+\mb ŋen -U    -WkEn -WEːČ -R(E)   -n(I)
+\ps v                                  
+\ge go  -caus -caus -gnr  -nonfut -3sg 
+
+\ft Also fish, my father, he did (fished) before everyone else, already in May he started to fish (lit. hunt fish), and having done he also shared like that and made me
+bring (the fish to others).
+\ph
+\gr ollaw bejčillotten = normal for fishing; oltidiloːtten = nachinaet rybu kushatj; one can also say ollaw epkurem; tačịnta = takim zhe obrazom; "menja posylal
+otnositj rybu"? nọŋan minu ŋenuwkenin, ollaw boːttaku (is what Rimma said); when I peresprosila "nan minu ollaw ŋenuwkeweːtten" she said yes
+\nt bejčilloːtten-начинал ловить
+\ev
+\ru А те рыбу отец он и всех раньше всех делал в мае ловил рыбу и сделав делил также и меня посылал относить.
+\ELANBegin 00:18:22.680
+\ELANEnd 00:18:42.420
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.141
+\ref N13 23:40
+\tx I     goːweːtten                ereldude           ŋenuli,            taralduda,             tịmịn  ńanda      tar  untel
+\mb i     goːn -WEːČ -R(E)   -n(I) erek -L  -DU  =DE  ŋen -U    -LI      tarak -E  -L  -DU  =DE  tịmịna   ńaːn =DE  tar  honte -L 
+\ps conj  v                        pron               v                  pron                    adv      adv       adv  adj      
+\ge and.R say  -gnr  -nonfut -3sg  prox -pl -dat =ptl go  -caus -imp.2sg dist  -ep -pl -dat =ptl tomorrow and  =ptl thus other -pl
+
+\tx unteldu        ńan   ŋenuddʒoːttem                      tar  imŋemde.
+\mb honte -L  -DU  ńaːn ŋen -U    -D    -WEːČ -R(E)   -m   tar  himŋe       -n  -W   =DE 
+\ps adj            adv  v                                  adv  v                        
+\ge other -pl -dat and  go  -caus -prog -gnr  -nonfut -1sg thus become.dark -nr -acc =ptl
+
+\ft And he said "take (fish) to these, to those", the next day I again carried (fish) to others, in the dark.
+\ph the very first words cannot be made out by Rimma, it's not clear whether it's "i goːweːtten" or "i guːnni" or something else
+\gr
+\ru И говорил вот этим отнеси, тем тоже, завтра опять другим несла я в темноте уже.
+\ELANBegin 00:18:42.420
+\ELANEnd 00:18:54.100
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.142
+\ref №14 1:00
+\tx Tar  bi   tar   atkịkaneč   elekes   omneken        eŋulliwu.
+\mb tar  biː tarak atkịkan -Č   elekes   omen -REkEn    heŋun     -L    -RI  -W       
+\ps adv  pron pron  n            ?        num            v                             
+\ge thus 1sg dist  moon    -ins at.first one  -iter.adv be.afraid -inch -pst -poss.1sg
+\ft And then I was once frightened by the moon for the first time.
+\ph elekeh or else no ending - but definitely not -s
+\ev
+\ru И вот я вот луну первый раз однажды испугалась.
+\ELANBegin 00:18:54.100
+\ELANEnd 00:18:59.540
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.143
+\tx Ŋenuseddiwu                           teγe teγele      bisildu               tar  uŋmi         ńan   imŋenin.
+\mb ŋen -U    -s(E)n -D    -RI  -W        tege tege -(dU)LE bi -RI       -L  -DU  tar  uŋ -mI       ńaːn himŋe       -RI  -n(I)    
+\ps v                                     ?    n            v                     adv  v            adv  v                         
+\ge go  -caus -lim   -prog -pst -poss.1sg far  far  -loc    be -impf.ptc -pl -dat thus do -cond.cvb and  become.dark -pst -poss.3sg
+
+\ft I was carrying (fish) to (people) who lived far away and while doing that it got dark.
+\ph
+\gr ŋenusˈneddiwu = ja shla otnositj; ŋenuseddiwu = otnosila; ŋenusčiddiwu = ja nesla, bednenkaja, po-tixonjku; ŋenuddiwu = nesla; bodosniwu = sobirajus i poshla;
+ŋenuseddiwu = ja chto-to otnosila; ŋenuseddem = ja sejchas vstanu i pojdu; ŋenuddem = ja uzhe v doroge; tiniw ŋenuseddiwu = vchera nosila -- the analysis with
+the limitative would seem to make the most sense, and it might be that it is simply -s- and not -sn- to distinguish it from the associated motion form
+\ev
+\ru Относила далеко живущим и сделалось темно (пока несла стемнело).
+\ELANBegin 00:18:59.600
+\ELANEnd 00:19:07.340
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.144
+\tx Ńan   atkịkan tar  toγečin uŋneken                    tar  togečin atkịkan toγečin uŋnin
+\mb ńaːn atkịkan tar  togečin uŋ -REk      -E  -n(I)     tar  togečin atkịkan togečin uŋ -RI  -n(I)    
+\ps adv  n       adv  n       v                          adv  n       n       n       v                
+\ge and  moon    thus cloud   do -cond.cvb -ep -poss.3sg thus cloud   moon    cloud   do -pst -poss.3sg
+
+\tx čịdalin                      minu         uluriγčin               nekrin.
+\mb čịda          -(dU)LI -n(I)     min     -W   holu  -RI       -G(E)čIn nek -RI  -n(I)    
+\ps rel.n                           pron         v                        v                 
+\ge opposite.side -prol   -poss.3sg 1sg.obl -acc chase -impf.ptc -sml     do  -pst -poss.3sg
+
+\ft And when the moon did the cloud (moved behind clouds), the moon was behind the clouds and it was as if it was chasing me.
+\ph
+\nt uluriγčin-как будто гнался
+\ru И вот месяц облако сделалось и месяц сделался за облаками как будто за мной гнался
+\ELANBegin 00:19:07.340
+\ELANEnd 00:19:18.320
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.145
+\tx Bi   ńan   eŋullidʒi                ọŋnịkan    ńọːŋčịriwu,           ịasč[inni]?         guːnem:         minu         atkịkan
+\mb biː ńaːn eŋul              -RIdʒI   họŋ -nIkEn   ńọːŋčị -RI  -W        ịa      -sčI   -nrI goːn -R(E)   -m   min     -W   atkịkan
+\ps pron adv  v                          v            v                     v                   v                 pron         n      
+\ge 1sg and  become.frightened -ant.cvb cry -sim.cvb run    -pst -poss.1sg do.what -conat -2sg say  -nonfut -1sg 1sg.obl -acc moon   
+
+\tx ulutten.
+\mb holu  -Č   -R(E)   -n(I)
+\ps v                       
+\ge chase -res -nonfut -3sg 
+
+\ft And I got a fright and ran crying, (they asked) "What's with you?", I said "the moon is chasing me".
+\ph
+\gr uludden = gonitsja za mnoj, postojanno;  ulutten = gonjaet, sejchas gonitsja, bystro begaet
+\ev
+\ru И вот я испугавшись плача бежала, спросили "Что с тобой?" Я сказала: "Меня месяц гоняет".
+\ELANBegin 00:19:18.320
+\ELANEnd 00:19:24.940
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.146
+\tx Ńan   teːle... guːniten            ńan   guːn atkịkan toγečin uŋneken                    guːn uŋnen
+\mb ńaːn teːleŋ goːn -RI  -tEn      ńaːn goːn atkịkan togečin uŋ -REk      -E  -n(I)     goːn uŋ        -(dU)LE -n(I)    
+\ps adv  v      v                   adv  v    n       n       v                          v    n                          
+\ge and  tell   say  -pst -poss.3pl and  say  moon    cloud   do -cond.cvb -ep -poss.3sg say  something -loc    -poss.3sg
+
+\tx uluriγčin               nekrin.
+\mb holu  -RI       -G(E)čIn nek -RI  -n(I)    
+\ps v                        v                 
+\ge chase -impf.ptc -sml     do  -pst -poss.3sg
+
+\ft And they said "when the moon is (behind) the clouds", the said, "it's as if it chases you".
+\ru И вот сказали: "Вот облака делают и говорят делают как будто гонится".
+\ELANBegin 00:19:24.940
+\ELANEnd 00:19:33.540
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.147
+\tx Ńịmkam      ńan   teːleŋeddʒoːtte               atkịkam      tar   giekiw.
+\mb ńịmkan -W   ńaːn teːleŋ -E  -D    -WEːČ -R(E)   atkịkan -W   tarak gịakị   -W  
+\ps n           adv  v                              n            pron  pron        
+\ge tale   -acc and  tell   -ep -prog -gnr  -nonfut moon    -acc dist  various -acc
+\ft And they told various tales about the moon.
+\ev
+\ru И сказки рассказывали про месяц всякие.
+\ELANBegin 00:19:33.540
+\ELANEnd 00:19:43.780
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.148
+\tx Uŋedmi                tar  guːnem            atkịkan bi   ńan   ereger tedʒettiwu                 tala          atkịkandụla
+\mb uŋ -E  -D    -mI       tar  goːn -R(E)   -m   atkịkan biː ńaːn ereger tedʒe   -Č   -RI  -W        tarak -(dU)LE atkịkan -(dU)LE
+\ps v                      adv  v                 n       pron adv  adv    v                           pron          n              
+\ge do -ep -prog -cond.cvb thus say  -nonfut -1sg moon    1sg and  always believe -res -pst -poss.1sg dist  -loc    moon    -loc   
+
+\tx asatkan orčewen                      tar   atkịkanduli     tar  ịasallonda           kojeːčiddʒoːttem,
+\mb asatkan hor -čE     -W   -E  -n(I)     tarak atkịkan -(dU)LI tar  ịašal -Con     =DE  kojeːt  -E  -D    -WEːČ -R(E)   -m  
+\ps n       v                              pron  n               adv  n                   v                                   
+\ge girl    go  -pf.ptc -acc -ep -poss.3sg dist  moon    -prol   thus eyes  -acc.3sg =ptl look.at -ep -prog -gnr  -nonfut -1sg
+
+\tx ịasalenda                bisni.
+\mb ịašal -E  -n(I)     =DE  bi -R(E)   -n(I)
+\ps n                        v               
+\ge eyes  -ep -poss.3sg =ptl be -nonfut -3sg 
+
+\ft And so I say (think) that I always believed about the moon that there on the moon is a girl who went there, (she is) on the moon, and I looked at her eyes, her eyes
+are (there).
+\ph says bi ńan-t-ereger, but the -t- doesn't have any meaning; and she says tejettiwu and not teʤettiwu; and she says iasalonda bisni at the end
+\nt orčawan-ушла туда (на луну)
+\ru И вот я говорю/думаю что про луну я всегда верила, что там на луне девушка, которая ушла туда, на луне девушка есть и  глаза
+её рассматривала  иглаза то её были.
+\ELANBegin 00:19:43.780
+\ELANEnd 00:19:58.490
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.149
+\tx Bi   guːnem            tarak značit   asatkan ịasalan             tarak biče      bidʒin.
+\mb biː goːn -R(E)   -m   tarak značit    asatkan ịašal -E  -n(I)     tarak bi -čE     bi -DʒI -n(I)
+\ps pron v                 pron  ptl       n       n                   pron  v          v            
+\ge 1sg say  -nonfut -1sg dist  that.is.R girl    eyes  -ep -poss.3sg dist  be -pf.ptc be -fut -3sg 
+\ft I say that means that those are probably the girl's eyes.
+\ev
+\ru Я говорю вот значит у девушки наверное это глаза её там были.
+\ELANBegin 00:19:58.490
+\ELANEnd 00:20:05.160
+\ELANParticipant RME
+
+\id Solodikova_RM_childhood.150
+\ref №15 1:20
+\tx Ọrọttikke        nọnan   učebnikun               bisin,            ọrọtti,     ew goːweːtte           ọːnkana?
+\mb ọrọč  -DI   =kkE nọnan     učebnik     -WUn         bi -RI  -n(I)     ọrọč  -DI   ew goːn -WEːČ -R(E)   ọːn =kEnE 
+\ps n                ?         n                        v                 n           interj v                  pron      
+\ge Oroch -adjr =ptl beginning text.book.R -poss.1pl.ex be -pst -poss.3sg Oroch -adjr oh say  -gnr  -nonfut how =contr
+\ft In the beginning we had an Even textbook, in Even, what was it called again?
+\ph
+\ru У нас же эвенский вначале учебник был, эвенский, как же называли.
+\ELANBegin 00:20:05.160
+\ELANEnd 00:20:14.330
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.151
+\tx Krivošapkin, čto.li bisin             avtor.
+\mb Krivošapkin  čto.li bi -RI  -n(I)     avtor   
+\ps ?            ptl    v                 n       
+\ge Krivoshapkin ptl.R  be -pst -poss.3sg author.R
+\ft Krivoshapkin, was that the author?
+\ev
+\ru Кривошапкин что ли был автор.
+\ELANBegin 00:20:18.720
+\ELANEnd 00:20:23.680
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.152
+\tx Dʒọŋčịram           tala          tar   taŋaddʒoːttu               ''Opo    nakatu     pektereːnin''.
+\mb dʒọŋčị   -R(E)   -m   tarak -(dU)LE tar  taŋ  -E  -D    -WEːČ -(R)U   Afanasij nakat -W   pekteren -RI  -n(I)    
+\ps v                     pron          adv  v                            ?        n          v                      
+\ge remember -nonfut -1sg dist  -loc    thus read -ep -prog -gnr  -1pl.ex Afanasij bear  -acc shoot    -pst -poss.3sg
+\ft I remember we read like that "Opo shot a bear".
+\ph says something like "tor" or so between "tar" and "taŋadʤoːttu", but that is just mumbling
+\ru Помню вот так вот писали "Опо медведя убил".
+\ELANBegin 00:20:23.680
+\ELANEnd 00:20:28.540
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.153
+\tx Tar  bi   taraw      tar  elekes   taŋaddiwu                   tar.
+\mb tar  biː tarak -W   tar  elekes   taŋ  -E  -D    -RI  -W        tar 
+\ps adv  pron pron       adv  ?        v                             adv 
+\ge thus 1sg dist  -acc thus at.first read -ep -prog -pst -poss.1sg thus
+\ft That's what I read for the first time.
+\ev
+\ru Вот я в первый раз читала.
+\ELANBegin 00:20:28.540
+\ELANEnd 00:20:32.280
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.154
+\tx Ọrọtti      učebnikli          nọnan   upkučilliwun,                    tarak podgotovitelnyj klasstu.
+\mb ọrọč  -DI   učebnik     -(dU)LI nọnan     hupkut -E  -L    -RI  -WUn         tarak podgotovitelnyj klas    -DU 
+\ps n           n                   ?         v                                  pron  adj             n           
+\ge Oroch -adjr text.book.R -prol   beginning learn  -ep -inch -pst -poss.1pl.ex dist  preparatory.R   class.R -dat
+\ft We first learned with the Even text book, in that preparatory class.
+\ft
+\ev
+\ru По эвенскому учебнику вначале стали учиться.
+\ELANBegin 00:20:32.890
+\ELANEnd 00:20:41.500
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.156
+\ref
+\tx Ńan   potom  uže      bukvargakun                  buːriten,          egdʒeːmker  učebnik    knigamkar    bisin.
+\mb ńaːn potom  uže       bukvar   -GE    -WUn         boː  -RI  -tEn      egdʒen -mkEr učebnik     kniga  -mkEr bi -RI  -n(I)    
+\ps adv  adv    adv       n                            v                   adj          n           n            v                
+\ge and  then.R already.R primer.R -desig -poss.1pl.ex give -pst -poss.3pl big    -aug  text.book.R book.R -aug  be -pst -poss.3sg
+\ft And later they gave us a primer, a huge textbook, it was a big book.
+\ph she says something in the very beginning, probably "taraw" but very faint and hard to make out
+\ru
+\ELANBegin 00:20:41.500
+\ELANEnd 00:20:51.042
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.157
+\tx Potom  ńan   uže      bukvaru       buːriten,          uŋuda              tare,     potom  uže      pervyj  klasstu      tar
+\mb potom  ńaːn uže       bukvar   -W   boː  -RI  -tEn      uŋ        -W   =DE  tarak -E  potom  uže       pervyj  klas    -DU  tar 
+\ps adv    adv  adv       n             v                   n                   pron      adv    adv       adj     n            adv 
+\ge then.R and  already.R primer.R -acc give -pst -poss.3pl something -acc =ptl dist  -ep then.R already.R first.R grade.R -dat thus
+
+\tx uŋelliwun.
+\mb uŋ -E  -L    -RI  -WUn        
+\ps v                             
+\ge do -ep -inch -pst -poss.1pl.ex
+
+\ft And then they gave the primer, and this also, and then we already started to do (something) in first grade.
+\ph
+\ev
+\ru И вот это тоже, потом уже в первом классе вот это стали делать
+\ELANBegin 00:20:51.042
+\ELANEnd 00:21:06.213
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.159
+\ref №15 18:00
+\tx Pervyj  klasstu      naverno    tar   bukvaru       taŋalliwun,                    nọnan   tar   bukvar... ọrọttiw
+\mb pervyj  klas    -DU  naverno    tarak bukvar   -W   taŋ  -E  -L    -RI  -WUn         nọnan     tarak bukvar   ọrọč  -DI   -W  
+\ps adj     n            ptl        pron  n             v                                ?         pron  n        n               
+\ge first.R grade.R -dat probably.R dist  primer.R -acc read -ep -inch -pst -poss.1pl.ex beginning dist  primer.R Oroch -adjr -acc
+
+\tx bukvaremkaru        tar  unet  taŋaddʒoːttu,              tar  ńụčịdịč    toredewur                upkučiddʒoːttu.
+\mb bukvar   -mkEr -W   tar  unet  taŋ  -E  -D    -WEːČ -(R)U   tar  ńụča    -DI   -Č   tore  -DE       -WUr     hupkut -E  -D    -WEːČ -(R)U  
+\ps n                   adv  adv   v                            adv  n                  v                        v                             
+\ge primer.R -aug  -acc thus still read -ep -prog -gnr  -1pl.ex thus Russian -adjr -ins speak -purp.cvb -prfl.pl learn  -ep -prog -gnr  -1pl.ex
+
+\ft In the first grade we probably still read that primer, were still reading that Even primer, and then learned to speak Russian.
+\ev
+\ru В первом классе, наверное, вот этот букварь читали,  в начале вот эвенский большой букварь ещё читали, потом по-русски
+говорить учились.
+\ELANBegin 00:21:06.213
+\ELANEnd 00:21:20.448
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.160
+\tx Ajịčeː          bi   ọńalan   bisiwu            tarakam       aj,  ńan   pjatjorkawaːttam,               minu         ńan
+\mb aj   -E  -Č   =eː   biː ọńa   -LEn bi -RI  -W        tarakam       aj   ńaːn pjatjerka   -WEːČ -R(E)   -m   min     -W   ńaːn
+\ps adj                 pron v          v                 adv           adj  adv  v                              pron         adv 
+\ge good -ep -ins =emph 1sg write -nr  be -pst -poss.1sg in.those.days good and  best.mark.R -gnr  -nonfut -1sg 1sg.obl -acc and 
+
+\tx dʒaːlbu            oːsajiddʒoːtte.
+\mb dʒaː   -L  -W        oːsej -D    -WEːČ -R(E)  
+\ps ptl                  v                        
+\ge friend -pl -poss.1sg tease -prog -gnr  -nonfut
+
+\ft Very good, I was a master of writing in those days, and always got best marks, my schoolmates teased me.
+\ev
+\ru Хорошо я мастер писать была тогда и пятёрки получала, меня тогда товарищи дразнили.
+\ELANBegin 00:21:23.412
+\ELANEnd 00:21:31.914
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.161
+\tx Bi   ọŋaddʒoːttem                    ńana, tar  akmụ           "ịamị ọŋadʒinni?",      minu       up... up... "tar
+\mb biː họŋ -E  -D    -WEːČ -R(E)   -m   ńaːn tar  akan   -W        ịamị họŋ -E  -D    -nrI min     -W   tarak
+\ps pron v                                adv  adv  n                pron v                  pron         pron 
+\ge 1sg cry -ep -prog -gnr  -nonfut -1sg and  thus father -poss.1sg why  cry -ep -prog -2sg 1sg.obl -acc dist 
+
+\tx oːsajeritan              'Patjorašnik'".
+\mb oːsej -E  -RI  -tEn      pjatjerašnik                     
+\ps v                        n                                
+\ge tease -ep -pst -poss.3pl one.who.always.gets.best.grades.R
+
+\ft I cried, and my father (asked) "why are you crying?", (I answered) "they teased me, 'teacher's pet'".
+\ph
+\ru Спрашивают: "Почему ты плачешь?" Она отвечает: "Вот меня дразнят - пятёрошник".
+\ELANBegin 00:21:31.992
+\ELANEnd 00:21:40.988
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.162
+\tx Ńan   goːweːtten                "ịadu    ọŋanni,          tarak ajeː".
+\mb ńaːn goːn -WEːČ -R(E)   -n(I) ịak  -DU  họŋ -R(E)   -nrI tarak aj   =eː  
+\ps adv  v                        pron      v                pron  adj       
+\ge and  say  -gnr  -nonfut -3sg  what -dat cry -nonfut -2sg dist  good =emph
+\ft And he said "what are you crying for, that's very good".
+\ph speaks fast, and the goːweːtten is very contracted
+\ru И вот он говорит: "Зачем ты плачешь? Это хорошо".
+\ELANBegin 00:21:40.988
+\ELANEnd 00:21:46.552
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.163
+\tx Ńan   bi   ńan   uŋmi         tar  Va... Serjo... Serjoža Solodikov bisin,            nọŋan
+\mb ńaːn biː ńaːn uŋ -mI       tar  Sergej Sergej Solodikov bi -RI  -n(I)     nọŋan
+\ps adv  pron adv  v            adv  ?      ?      ?         v                 pron 
+\ge and  1sg and  do -cond.cvb thus Sergej Sergej Solodikov be -pst -poss.3sg 3sg  
+
+\tx dvojkareken                          bi   ọŋeddʒoːttem.
+\mb dvojka       -REk      -E  -n(I)     biː họŋ -E  -D    -WEːČ -R(E)   -m  
+\ps v                                    pron v                               
+\ge worst.mark.R -cond.cvb -ep -poss.3sg 1sg cry -ep -prog -gnr  -nonfut -1sg
+
+\ft And then I also did... There was Serjozha Solodikov, when he got worst marks, I used to cry.
+\ev
+\ru И вот я делала вот... Серёжа Солодиков был, он двойки получал, а я плакала (как он двойку получит, я плачу).
+\ELANBegin 00:21:46.552
+\ELANEnd 00:21:58.811
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.164
+\tx Goːweːttesi                  dvojkarilbe                     goːweːtte           "dvoješnik".
+\mb goːn -WEːČ -R(E)   -E  =sI   dvojka       -RI       -L  -W   goːn -WEːČ -R(E)   dvoješnik                 
+\ps v                            v                               v                  n                         
+\ge say  -gnr  -nonfut -ep =emph worst.mark.R -impf.ptc -pl -acc say  -gnr  -nonfut one.who.gets.worst.marks.R
+\ft They said about those who got worst marks, they called (them) "dvoješnik".
+\ph
+\gr dvojkarilbe = (govorjat pro) tex, kto poluchil dvojki
+\nt dvojkarilbe-двойки получал
+\ru Говорили, кто двойки получал, говорили "двоешник".
+\ELANBegin 00:21:58.811
+\ELANEnd 00:22:06.052
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.165
+\ref
+\tx Bi   ńan   tar  Serjožaw   oːsajidʒịŋadutan           tar  uŋeddʒoːt...      tar  ọŋaddʒoːttam.
+\mb biː ńaːn tar  Sergej -W   oːsej -D(I)ŋE   -DU  -tEn      tar  uŋ -E  -D    -WEːČ tar  họŋ -E  -D    -WEːČ -R(E)   -m  
+\ps pron adv  adv  n           v                              adv  v                  adv  v                               
+\ge 1sg and  thus Sergej -acc tease -fut.ptcp -dat -poss.3pl thus do -ep -prog -gnr  thus cry -ep -prog -gnr  -nonfut -1sg
+
+\ft And because they would tease Serjozha, I cried.
+\ph
+\gr Q: can one say "oːšejʤiŋadukutan" A: yes, but then went on to say that one could say oːšejiʤiŋadutan = (plakala) chto ego budut draznitj; "oːšejʤiŋadukutan" =
+chto budut draznitj, tozhe
+\gr Q: how would one say "davaj budem Serezhu draznitj"; A: "ge, ošajger Serjozhaw" (davaj sejchas draznitj); Q: A mozhno "ošejʤiŋawur" ? A: yes, davaj budem
+draznitj; Q: mozhno ošeDiŋawur? A: no; one can say "ošejʤip", budem draznitj
+\ru И вот я что Серёжу будут дразнить, делала и плакала.
+\ELANBegin 00:22:06.052
+\ELANEnd 00:22:13.748
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.166
+\ref №16
+\tx Karandaškawurda               tsvetnoj     tar  uŋeddʒoːttu.
+\mb karandaš -GE    -WUr     =DE  cvetnoj      tar  uŋ -E  -D    -WEːČ -(R)U  
+\ps n                             adj          adv  v                         
+\ge pencil.R -desig -prfl.pl =ptl coloured.m.R thus do -ep -prog -gnr  -1pl.ex
+\ft And we did ourselves coloured pencils.
+\ph
+\nt from the Russian translation, the "uŋ-" would seem to stand in for "sharpened", but the next sentence speaks about exchanging them
+\ru И карандаш себе цветной делали (чистили).
+\ELANBegin 00:22:13.748
+\ELANEnd 00:22:20.040
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.167
+\tx Umem      korobkaw     emuw...     omneken        emuriten                  čeledun             ńan   tar
+\mb omen -W   korobka -W   em   -U    omen -REkEn    em   -U    -RI  -tEn      čele -DU  -n(I)     ńaːn tar 
+\ps num       n            v          num            v                         n                   adv  adv 
+\ge one  -acc box.R   -acc come -caus one  -iter.adv come -caus -pst -poss.3pl all  -dat -poss.3sg and  thus
+
+\tx gajmačiddʒoːttu.
+\mb gajmat   -E  -D    -WEːČ -(R)U  
+\ps v                               
+\ge exchange -ep -prog -gnr  -1pl.ex
+
+\ft Once they brought one box and (gave a pencil) to everyone, and we exchanged among ourselves.
+\ph
+\ru Одну коробку однажды привезли и всем и менялись между собой.
+\ELANBegin 00:22:20.040
+\ELANEnd 00:22:26.880
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.167b
+\ref
+\tx Minŋi             zelenyj   bisin.
+\mb min     -ŋI        zelenyj   bi -RI  -n(I)    
+\ps pron               adj       v                
+\ge 1sg.obl -pred.poss green.m.R be -pst -poss.3sg
+\ft Mine was green.
+\ph
+\ru У меня зелёный был.
+\ELANBegin 00:22:26.880
+\ELANEnd 00:22:28.620
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.168
+\tx Taraw      tar  nan    uŋmi         risovaniedu    tar  uŋeddʒoːttu.
+\mb tarak -W   tar  ńaːn uŋ -mI       risovanie -DU  tar  uŋ -E  -D    -WEːČ -(R)U  
+\ps pron       adv  adv  v            n              adv  v                         
+\ge dist  -acc thus and  do -cond.cvb drawing.R -dat thus do -ep -prog -gnr  -1pl.ex
+\ft And we did (used them) for drawing.
+\ev
+\ru И на рисовании делали
+\ELANBegin 00:22:28.620
+\ELANEnd 00:22:34.730
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.169
+\tx Čeledʒur         ečin      tar  ŋiːŋi         ŋuleńe bisin,            ŋiːŋi         sinij,        sinij
+\mb čele -dʒUr        erroːčin  tar  ŋiː -ŋI        ŋuleńe bi -RI  -n(I)     ŋiː -ŋI        sinij         sinij        
+\ps ?                 pron      adv  pron           adj    v                 pron           adj           adj          
+\ge all  -ins.prfl.pl prox.qual thus who -pred.poss red    be -pst -poss.3sg who -pred.poss dark.blue.m.R dark.blue.m.R
+
+\tx goːweːttekke             tar, žoltyjda       tar.
+\mb goːn -WEːČ -R(E)   =kkE tar  želtyj     =DE  tar 
+\ps v                       adv  adj             adv 
+\ge say  -gnr  -nonfut =ptl thus yellow.m.R =ptl thus
+
+\ft And all like this, whose was red, whose blue, they said blue, and yellow, like that.
+\ph
+\gr ŋiːŋi = u kogo; unclear why she specifies that it's called sinij (which is a normal Russian colour term)
+\ev
+\ru и все так у кого красный был у кого синий синий называется вот  жёлтый
+\ELANBegin 00:22:34.730
+\ELANEnd 00:22:44.640
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.171
+\tx Ńan   erisujiddʒoːttu                   alatmačiddʒoːttu,                ńan   neːimačiddʒoːttu                  ọrọttịč.
+\mb ńaːn risuj      -E  -D    -WEːČ -(R)U   alat -mEČ -E  -D    -WEːČ -(R)U   ńaːn neːgi -mEČ -E  -D    -WEːČ -(R)U   ọrọč  -DI   -Č  
+\ps adv  v                                  v                                 adv  v                                  n               
+\ge and  draw.imp.R -ep -prog -gnr  -1pl.ex wait -rec -ep -prog -gnr  -1pl.ex and  scold -rec -ep -prog -gnr  -1pl.ex Oroch -adjr -ins
+\ft And we drew and we waited, and we argued among ourselves in Even.
+\ev
+\ru и вот все рисовали ждали и ругалисть между собой по-эвенски.
+\ELANBegin 00:22:44.640
+\ELANEnd 00:22:53.160
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.173
+\tx Rimma Mixajlovnasi:     "ịaw     toːres?"
+\mb Rimma Mixajlovna  =sI   ịak  -W   tore  -s  
+\ps ?     ?                 pron      v         
+\ge Rimma Mikhajlovna =emph what -acc speak -2pl
+
+\ft And Rimma Mixajlovna: "What do you say?".
+\ph
+\ev
+\ru Римма Михайловна говорили: "Что говорите?"
+\ELANBegin 00:22:53.160
+\ELANEnd 00:22:56.232
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.174
+\tx Ńan   tar  egdʒer     ińineddʒoːtteda               muneč.
+\mb ńaːn tar  egdʒen -L  ińin  -D    -WEːČ -R(E)   =DE  mun        -E  -Č  
+\ps adv  adv  adj        v                              n                  
+\ge and  thus big    -pl laugh -prog -gnr  -nonfut =ptl 1pl.ex.obl -ep -ins
+\ft And the big (children) always laughed about us.
+\ph
+\gr INS for object of laughter is correct
+\ru И вот старшие смеялись над нами.
+\ELANBegin 00:22:56.232
+\ELANEnd 00:23:03.980
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.175
+\ref №16 13:40
+\tx Ńan   tačịn       ereger uŋedmi                ńan   aːmalkariwun                  ńụčịdịw     ụnụlliwun
+\mb ńaːn tarọːčịn  ereger uŋ -E  -D    -mI       ńaːn haː  -mElčI -RI  -WUn         ńụča    -DI   -W   ụnụ        -L    -RI  -WUn        
+\ps adv  pron      adv    v                      adv  v                             n                  v                                 
+\ge and  dist.qual always do -ep -prog -cond.cvb and  know -acclr -pst -poss.1pl.ex Russian -adjr -acc understand -inch -pst -poss.1pl.ex
+
+\ft And doing like that we quickly learned Russian and started to understand.
+\ru И вот так всегда делая, научились по-русски.
+\ELANBegin 00:23:03.980
+\ELANEnd 00:23:09.518
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.176
+\tx Potom  Rimma Mixajlovna  ńan   urrin.
+\mb potom  Rimma Mixajlovna  ńaːn hor -RI  -n(I)    
+\ps adv    ?     ?           adv  v                 
+\ge then.R Rimma Mikhajlovna and  go  -pst -poss.3sg
+\ft Then Rimma Mixajlovna left.
+\ev
+\ru Потом Римма Михайловна уехала.
+\ELANBegin 00:23:09.518
+\ELANEnd 00:23:13.106
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.177
+\ref №16 16:00
+\tx Essoːtki        nulgerin,              nan    munŋi                tar  unte  Emeljan Vladimirovič Mixajlov, kamčadal
+\mb Essọː -t(E)kI nulge   -RI  -n(I)     ńaːn mun        -ŋI        tar  honte Emeljan Vladimirovič  Mixajlov  kamčadal
+\ps n             v                      adv  ?                     adv  adj   ?       ?             ?         ?       
+\ge Esso  -all    migrate -pst -poss.3sg and  1pl.ex.obl -pred.poss thus other Emeljan Vladimirovich Mikhajlov Itelmen 
+
+\tx bisin.
+\mb bi -RI  -n(I)    
+\ps v                
+\ge be -pst -poss.3sg
+
+\ft She moved to Esso, and then we had a different (teacher), Emeljan Vladimirovich Mikhajlov, he was an Itelmen.
+\ru В Эссо переехала и вот у нас другой Емельян Владимирович Михайлов,
+\ELANBegin 00:23:13.106
+\ELANEnd 00:23:21.270
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.178
+\tx Nọŋan ereger upkuttinda                 ịlkan mụdakaklan                  načalnyj   školaw       ..   tar
+\mb nọŋan ereger hupkut -RI  -n(I)     =DE  ịlkan mụdak -E  -klE     -n(I)     načalnyj    škola    -W   *   tar 
+\ps pron  adv    v                          adj   n                            adj         n             ?   adv 
+\ge 3sg   always learn  -pst -poss.3sg =ptl true  end   -ep -all.loc -poss.3sg primary.m.R school.R -acc *** thus
+
+\ft He always taught us, until the very end of the primary school.
+\ph
+\gr "ilkan" here = do samogo okonchanija; kniga mudakan = konec knigi
+\ru Он всегда учил нас тоже до самого конца начальной школы.
+\ELANBegin 00:23:21.270
+\ELANEnd 00:23:27.263
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.179
+\tx Ikenedʒukeweːtten                           munuː,         ikelen     bisin             tar, ikeːlbe       gie... giekiw         tar.
+\mb ikeː -n    -D    -WkEn -WEːČ -R(E)   -n(I) mun        -W   ikeː -LEn bi -RI  -n(I)     tar  ikeː -L  -W   gịa   gịakị   -W   tar 
+\ps v                                          n               v         v                 adv  n             ?     pron         adv 
+\ge sing -mult -prog -caus -gnr  -nonfut -3sg  1pl.ex.obl -acc sing -nr  be -pst -poss.3sg thus song -pl -acc other various -acc thus
+\ft He made us sing various songs, he was a master at singing.
+\ph
+\gr 30 June 2016: could one say ikenukenʤidʤo:tten? A: yes, no difference in meaning
+\ru С нами песни пел (заставлял нас петь) он мастер был всякой песни.
+\ELANBegin 00:23:27.263
+\ELANEnd 00:23:35.544
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.180
+\tx Tiːk kinola           irbeteldule            kinola           tar  dʒọːwaːttam              taraw      ikečawur              tar
+\mb tiek kino     -(dU)LE irbeːt -E  -L  -(dU)LE kino     -(dU)LE tar  dʒọː     -WEːČ -R(E)   -m   tarak -W   ikeː -čE     -WUr     tar 
+\ps adv  n                adj                    n                adv  v                           pron       v                     adv 
+\ge now  movies.R -loc    old    -ep -pl -loc    movies.R -loc    thus remember -gnr  -nonfut -1sg dist  -acc sing -pf.ptc -prfl.pl thus
+
+\tx kụŋal    bimi.
+\mb kụŋa  -L  bi -mI      
+\ps n         v           
+\ge child -pl be -cond.cvb
+
+\ft Now in the movies, in old movies, I remember what we sang when we were children.
+\ph
+\gr should be irbeteldule kinoldula
+\ru Сейчас в кино старом кино я вспоминаю это которое мы пели в детстве (когда детьми мы были).
+\ELANBegin 00:23:35.544
+\ELANEnd 00:23:46.113
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.181
+\tx
+\mb
+\ft Well, probably ... it's time, I need to go to the library.
+\ev
+\ru ?
+\ELANBegin 00:23:46.720
+\ELANEnd 00:24:02.835
+\ELANParticipant BP
+
+\id Solodikova_RM_childhood.181b
+\ref
+\tx
+\ft Five more minutes.
+\ru Еще пять минут.
+\ph
+\ELANBegin 00:24:02.835
+\ELANEnd 00:24:15.844
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.182
+\tx Ńan   školaw       mụdakaddakun,                      uŋ       ńan   ńan   selow          Twajaːm      nipkeriten.
+\mb ńaːn škola    -W   mụdak  -D    -REk      -WUn         uŋ        ńaːn ńaːn selo      -W   Twajaːn -W   nipke -RI  -tEn     
+\ps adv  n             v                                   n         adv  adv  n              n            v                   
+\ge and  school.R -acc finish -prog -cond.cvb -poss.1pl.ex something and  and  village.R -acc Twajaːn -acc close -pst -poss.3pl
+\ft And when we were finishing school, they closed the village Twajan.
+\ph
+\gr mudakaddakun = kogda zakanchivali shkolu; mudakrakun = kogda zakonchili; nipke- = transitive, nipkuriten = zakrylisj, intransitive, noŋartan nipkuriten doːγič
+"zakrylis iznutri"
+\ru И когда мы заканчивали школу и тогда село Тваян закрыли.
+\ELANBegin 00:24:15.844
+\ELANEnd 00:24:23.982
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.183
+\tx Bystrojteki     ńan   nulgewkeniten.
+\mb Bystroj -t(E)kI ńaːn nulge   -WkEn -RI  -tEn     
+\ps n               adv  v                           
+\ge Bystroe -all    and  migrate -caus -pst -poss.3pl
+\ft They made us move to Bystroe.
+\ph says nulgegewkeniten, but that's just stammering
+\ru На Быструю нас заставили переселиться.
+\ELANBegin 00:24:23.982
+\ELANEnd 00:24:27.830
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.184
+\tx Tadụ     ńan   čelew     dʒoːrbe    anŋanu     akmụ           ọːnka    goːweːtte           ńụčịdịčke
+\mb tarak -DU  ńaːn čele -W   dʒoːr -W   anŋan -W   akan   -W        ọːn =kE  goːn -WEːČ -R(E)   ńụča    -DI   -Č   =kE 
+\ps pron       adv  n         num        n          n                pron     v                  n                      
+\ge dist  -dat and  all  -acc two   -acc year  -acc father -poss.1sg how =ptl say  -gnr  -nonfut Russian -adjr -ins =ptl
+
+\tx goːweːtte           adaptirovalsja.
+\mb goːn -WEːČ -R(E)   adaptirovalsja    
+\ps v                  v                 
+\ge say  -gnr  -nonfut adapt.pst.m.intr.R
+
+\ft And there for a whole two years my father... how does one say it, as the Russians say, adapted.
+\ev
+\ru И там целых два года отец, как говорят по-русски, адаптировался.
+\ELANBegin 00:24:27.830
+\ELANEnd 00:24:42.962
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.185
+\tx Tureŋgejida                        geleːteddin                     tar  oxotitaddaji,                          rybelkede
+\mb tor   -E  -ŋ   -GE    -J       =DE  geleːt   -E  -D    -RI  -n(I)     tar  oxotit'    -E  -D    -DE       -J       rybalka        =DE 
+\ps n                                   v                                 adv  v                                       n                  
+\ge earth -ep -aln -desig -prfl.sg =ptl look.for -ep -prog -pst -poss.3sg thus hunt.inf.R -ep -prog -purp.cvb -prfl.sg fishing.camp.R =ptl
+
+\tx toren,             telidʒekkeji,                       tar.
+\mb tor   -E  -n(I)     teli           -ČEk -GE    -J       tar 
+\ps n                   v                                   adv 
+\ge earth -ep -poss.3sg stockpile.fish -nr  -desig -prfl.sg thus
+
+\ft He was looking for a place for himself in order to hunt, and land for a fishing camp, a fishing camp for himself.
+\ph
+\ru Землю себе искал, чтобы охотиться, землю для рыбалки, для стана рыбацкого/рыбацкий стан.
+\ELANBegin 00:24:42.962
+\ELANEnd 00:24:51.438
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.186
+\tx Ńan   tolko  ajịč      billiwun                   uže      čelewen                uže      uŋniwun              ńan   Bystroju
+\mb ńaːn tol'ko aj   -E  -Č   bi -L    -RI  -WUn         uže       čele -W   -E  -n(I)     uže       uŋ -RI  -WUn         ńaːn Bystroj -W  
+\ps adv  adv    adj           v                          adv       n                       adv       v                    adv  n           
+\ge and  only.R good -ep -ins be -inch -pst -poss.1pl.ex already.R all  -acc -ep -poss.3sg already.R do -pst -poss.1pl.ex and  Bystroe -acc
+
+\tx nipkuriten.
+\mb nipke -RI  -tEn     
+\ps v                   
+\ge close -pst -poss.3pl
+
+\ft And just as we were starting to live well, had done everything, and closed Bystroe.
+\ph says nipkuriten, which is the intransitive form, but meant nipkeriten, transitive
+\gr billiwun = OK, stali zhitj, but one could also say biʤilliwun, no difference;
+\ru И вот только хорошо стали жить, уже всё сделали, Быструю закрыли.
+\ELANBegin 00:24:51.438
+\ELANEnd 00:25:02.033
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.187
+\tx Ńan   uredʒeːnniwun                tar, bi   eweski         Anavgajtakị,  ekmuje                  Essoːtki,       tarma ńan
+\mb ńaːn hor -dʒEːn -RI  -WUn         tar  biː erek -skI      Anavgaj -t(E)kI eken   -W        =jE    Essọː -t(E)kI tarma ńaːn
+\ps adv  v                            adv  pron pron           n               n                       n             conj  adv 
+\ge and  go  -dur   -pst -poss.1pl.ex thus 1sg prox -advb.all Anavgai -all    mother -poss.1sg =assoc Esso  -all    but   and 
+
+\tx tarịdʒịt ńoːmemelčiriten.
+\mb tarịdʒịt ńoːmeː -mElčI -RI  -tEn     
+\ps adv      v                           
+\ge at.once  die    -acclr -pst -poss.3pl
+
+\ft And so we left (poor us), I (came) here to Anavgaj, my mother and them (went) to Esso, but they died quickly.
+\ev
+\ru И вот мы поехали бедненькие, я в Анавгай, родители в Эссо, но они сразу поумерали.
+\ELANBegin 00:25:02.033
+\ELANEnd 00:25:18.959
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.188
+\tx Ńan   ọːjeː      tačịn       aγdịl    nan    aːmnịk tar  ačča ọːdịtan.
+\mb ńaːn họːja =eː   tarọːčịn  hagdị -L  ńaːn aːmnịk  tar  ačča ọː     -RI  -tEn     
+\ps adv  quant       pron      adj       adv  adv     adv  ptl  v                    
+\ge and  many  =emph dist.qual old   -pl and  quickly thus neg  become -pst -poss.3pl
+\ft And like that very many old (people) passed away quickly.
+\ev
+\ru И вот много так старых быстро не стало.
+\ELANBegin 00:25:18.959
+\ELANEnd 00:25:26.434
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.189
+\tx Tačịnnun          uŋ       tar.
+\mb tarọːčịn  =ńUn  uŋ        tar 
+\ps pron            n         adv 
+\ge dist.qual =emph something thus
+\ft
+\ru Как попало вот.
+\ELANBegin 00:25:26.434
+\ELANEnd 00:25:31.480
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.189b
+\ref
+\tx Aːnda     urriten            tar  buγeski.
+\mb haːn =DE  hor -RI  -tEn      tar  bụg   -skI     
+\ps ?         v                  adv  n              
+\ge some =ptl go  -pst -poss.3pl thus place -advb.all
+\ft Some went to the forest.
+\ru Некоторые уехали в лес.
+\ELANBegin 00:25:31.480
+\ELANEnd 00:25:36.106
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.190
+\tx Ŋiːkke    gur... bụjịn     bidewur               jaranga, krasnaja jarangalada           gurgeːwčilliten,               ńan
+\mb ŋiː =kkE gur bụjịn         bi -DE       -WUr     jaranga  krasnaja jaranga  -(dU)LE =DE  gurgeːwči -L    -RI  -tEn      ńaːn
+\ps pron     ?   adv           v                     n        adj      n                     v                              adv 
+\ge who =ptl *** in.the.forest be -purp.cvb -prfl.pl teepee.R red.f.R  teepee.R -loc    =ptl work      -inch -pst -poss.3pl and 
+
+\tx aːnda     gospromxozla,      bụjịnnun         bidewur               tar.
+\mb haːn =DE  gospromxoz -(dU)LE bụjịn         =ńUn   bi -DE       -WUr     tar 
+\ps ?         n                  adv                  v                     adv 
+\ge some =ptl Gospromxoz -loc    in.the.forest =restr be -purp.cvb -prfl.pl thus
+
+\ft Who... in order to be in the forest they started to work in the "Red Yurt", others in the Gospromxoz (state enterprise for hunting), simply in order to be in the
+forest.
+\ph actually says ŋikkele in the beginning, but the -le has no meaning, is just a speech error
+\gr bujin and bujla are synonyms
+\ru Кто же люди в лес жить яранги, красной яранги ...  чтобы только в лесу быть.
+\ELANBegin 00:25:36.106
+\ELANEnd 00:25:48.160
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.191
+\ref №17 1:37
+\tx Ńan   tiːk ńan   taremŋal           tar  orčel          tar  unet  is... iːne.
+\mb ńaːn tiek ńaːn tarak -E  -mŋE -L  tar  hor -čE     -L  tar  unet  iːn  -R(E)  
+\ps adv  adv  adv  pron               adv  v               adv  adv   v           
+\ge and  now  and  dist  -ep -nr  -pl thus go  -pf.ptc -pl thus still live -nonfut
+
+\ft And now those (who live) there, those who left, those are still alive.
+\ph
+\gr taremŋal = tamoshnie, te kotorye tam
+\ru И вот сейчас те которые уехали ещё живут.
+\ELANBegin 00:25:48.160
+\ELANEnd 00:25:54.060
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.192
+\tx Uŋenja,       tar  Kolja Ičanga, Nikolaj Fomič, tar  tiːk rybelkelen                    tar, Oblukowinala.
+\mb uŋen     -jEː tar  Kolja Ichanga Nikolaj Fomich tar  tiek rybalka        -(dU)LE -n(I)     tar  Oblukowina -(dU)LE
+\ps pron          adv  ?     ?       ?       ?      adv  adv  n                                adv  n                 
+\ge this.one -aug thus Kolja Ichanga Nikolaj Fomich thus now  fishing.camp.R -loc    -poss.3sg thus Oblukowina -loc   
+
+\ft Kolja Ichanga, Nikolaj Fomich, he's at his fishing camp, on the Oblukowina river.
+\ph
+\gr uŋenja = von te,
+\ru
+\ELANBegin 00:25:54.060
+\ELANEnd 00:26:03.900
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.194
+\tx Min     ọːjan           uŋelbu                 tar  Čandr    tarma ńoːmeriten             aːmnak.
+\mb min     họːja -n(I)     uŋ        -L  -W        tar  Aleksandr tarma ńoːmeː -RI  -tEn      aːmnịk 
+\ps pron    quant           n                       adv  ?         conj  v                     adv    
+\ge 1sg.obl many  -poss.3sg something -pl -poss.1sg thus Alexander but   die    -pst -poss.3pl quickly
+
+\ft I have a lot of relatives, for example Chandr, but they died quickly.
+\ph
+\gr should be "min ọːja uŋelbu", the -n is not correct
+\ru Моих много родственников вот Чандр, но они быстро умерли.
+\ELANBegin 00:26:03.900
+\ELANEnd 00:26:12.130
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.195
+\tx ńan   tiːk...
+\mb ńaːn tiek
+\ps adv  adv 
+\ge and  now 
+\ft And now...
+\ev
+\ru
+\ELANBegin 00:26:15.060
+\ELANEnd 00:26:16.330
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.195b
+\ref
+\tx
+\ft BP coughs
+\ELANBegin 00:26:16.330
+\ELANEnd 00:26:21.110
+\ELANParticipant comment
+
+\id Solodikova_RM_childhood.196
+\tx Geleːmdiː            biweːttende                  Twajaːmda,        ...  Bystrojuda
+\mb geleː -n  -mdE  =Iː   bi -WEːČ -R(E)   -n(I) =DE  Twajaːn -W   =DE  *... Bystroj -W   =DE 
+\ps v                     v                           n                 ?    n                
+\ge miss  -nr -adjr =emph be -gnr  -nonfut -3sg  =ptl Twajaːn -acc =ptl ***  Bystroe -acc =ptl
+
+\ft And I miss Twajan (long pause) and also Bystroe.
+\ph
+\gr geleːmdi = tosklivo; bi gelemšem = ja xochu toskovatj, one wouldn't say that; gelemde is derived from gelen "toska"
+\ru Тоскливо бывает и Тваян тоже. про Быструю
+\ELANBegin 00:26:21.110
+\ELANEnd 00:26:33.350
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.198
+\tx Bystrojdu    ajtịtta      bisin,            tur   ńam, ọllada    ereger bisin             ńan.
+\mb Bystroj -DU  aj   =tIt =DE  bi -RI  -n(I)     tor   ńam  ọlra =DE  ereger bi -RI  -n(I)     ńaːn
+\ps n            adj            v                 n     adj  n         adv    v                 adv 
+\ge Bystroe -dat good =ptl =ptl be -pst -poss.3sg earth warm fish =ptl always be -pst -poss.3sg and 
+\ft It was also very good in Bystroe, the earth was warm, and there was always fish.
+\ph
+\ev
+\ru На Быстрой хорошо тоже было, тёплая земля.И рыба всегда была.
+\ELANBegin 00:26:41.930
+\ELANEnd 00:26:50.340
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.200
+\tx Tureŋunda                       aj   bisin,            gieki     ajịč      išuweːtten.
+\mb tor   -E  -ŋ   -WUn         =DE  aj   bi -RI  -n(I)     gịakị   aj   -E  -Č   isu  -WEːČ -R(E)   -n(I)
+\ps n                                adj  v                 pron    adj           v                       
+\ge earth -ep -aln -poss.1pl.ex =ptl good be -pst -poss.3sg various good -ep -ins grow -gnr  -nonfut -3sg 
+
+\ft And our land was good, everything grew well.
+\ph
+\ev И земля хорошая было, всё хорошо росло.
+\ru
+\ELANBegin 00:26:52.640
+\ELANEnd 00:26:56.790
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.201
+\tx Tiːk ele          poka    geleteddiwunde.
+\mb tiek erek -(dU)LE poka    gel      -Č   -D    -RI  -WUn         =DE 
+\ps adv  pron         ptl     v                                         
+\ge now  prox -loc    until.R look.for -res -prog -pst -poss.1pl.ex =ptl
+\ft We we first had to search.
+\ru Здесь пока искали.
+\ELANBegin 00:26:56.790
+\ELANEnd 00:27:01.490
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.202
+\tx Tarma kli... klimaten               vot    keːńe.. uŋemnin         ele,         Bystrojdu    aj   bisin,
+\mb tarma klimat    -E  -n(I)     vot    keńeli uŋ -E  -mnIn    erek -(dU)LE Bystroj -DU  aj   bi -RI  -n(I)    
+\ps conj  n                       ptl    adj    v               pron         n            adj  v                
+\ge but   climate.R -ep -poss.3sg here.R bad    do -ep -dur.cvb prox -loc    Bystroe -dat good be -pst -poss.3sg
+
+\tx esuda                    buteːnnoːtte.
+\mb e   -R(E)   -(R)U   =DE  buteːn -WEːČ -R      
+\ps v                        v                    
+\ge neg -nonfut -1pl.ex =ptl be.ill -gnr  -neg.cvb
+
+\ft But the climate is bad here, it was good in Bystroe, we didn't fall ill.
+\ph
+\ru НО климат ещё плохой, что-то с чем-то, а на Быстрой хорошо было, мы не болели.
+\ELANBegin 00:27:03.840
+\ELANEnd 00:27:13.040
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.203
+\tx Čaš ọdeddʒipesi?
+\mb čas ọd   -E  -D    -DʒI -p      -E  =sI  
+\ps ptl v                                    
+\ge ptl stop -ep -prog -fut -1pl.in -ep =emph
+\ft Well, we'll stop?
+\ph
+\gr ọdedʤip = budem zakanchivatj, odʤip = zakonchim
+\ru Будем заканчивать?
+\ELANBegin 00:27:23.660
+\ELANEnd 00:27:28.950
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.204
+\tx Tiːk ńan   bibliotekatki      ọrọttịdnadʒiš?
+\mb tiek ńaːn biblioteka -t(E)kI ọrọč  -DI -D    -nE     -DʒI -s  
+\ps adv  adv  n                  v                                
+\ge now  and  library.R  -all    Oroch -vr -prog -intent -fut -2pl
+\ft And now your're going to the library to speak in Even?
+\ev
+\ru А сейчас в библиотеку пойдёте говорить по-эвенски?
+\ELANBegin 00:27:50.320
+\ELANEnd 00:27:56.430
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.205
+\tx Bida      kọč   emdʒim,        emdʒim.
+\mb biː =DE  kọč      em   -DʒI -m   em   -DʒI -m  
+\ps pron     adv      v              v             
+\ge 1sg =ptl probably come -fut -1sg come -fut -1sg
+
+\ft I will probably also come.
+\ph
+\ev
+\ru Я тоже, наверное, приду.
+\ELANBegin 00:27:57.390
+\ELANEnd 00:28:01.520
+\ELANParticipant RMS
+
+\id Solodikova_RM_childhood.206
+\tx
+\mb
+\ft We prepared (something) for tea...
+\ev бу чайду кимэд... кимэддьот...
+\ru
+\ELANBegin 00:28:01.640
+\ELANEnd 00:28:08.880
+\ELANParticipant BP
+
+\id Solodikova_RM_childhood.207
+\ref
+\tx kimeddiwu
+\mb kim     -E  -D    -RI  -W       
+\ps v                               
+\ge prepare -ep -prog -pst -poss.1sg
+\ft I prepared
+\ELANBegin 00:28:08.880
+\ELANEnd 00:28:10.600
+\ELANParticipant RMS

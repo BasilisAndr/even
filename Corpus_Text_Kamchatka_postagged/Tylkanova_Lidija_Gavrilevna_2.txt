@@ -1,0 +1,1970 @@
+\_sh v3.0  1219 Text
+
+\id Tylkanova_Lidija_Gavrilevna_2_000_metadata
+\ref Recorded on 15 July 2009 in Esso by Brigitte Pakendorf. The recording was done in the flat of LGT in the early afternoon, in her room, with her
+sitting on the bed. Apart from BP, two of LGT's granddaughters were in the flat, but in a different room. In the beginning, a dog can be heard yapping
+outside, and at the end the granddaughters can be heard laughing and talking quite loudly, otherwise it was fairly quiet.  BP had been told in the
+beginning to speak up, and so she shouted questions quite loudly in broken Even where possible throughout the recording. She was sitting on the
+floor in front of LGT, with the video camera somewhat behind and to the side, so she wasn't able to monitor it. In the middle of the session, the video
+camera ran out of tape, so the Marantz was stopped and a new tape was inserted. LGT spoke a lot in Russian, so that only small sections that were
+mostly in Even were later on transcribed and glossed.
+\qu In 2016, transcribed by BP, transcription checked and Russian translation by Rimma Maksimovna Egorova, glossing by BP. Funding by the Volkswagen
+Foundation (DoBeS grant) and CNRS/Universit Lyon 2 (laboratoire DDL). Speaker abbreviation = LGT
+\ref Lidija Gavrilevna Tylkanova was born in March 1933, so she was 76 at the time of the recording. She has 5 years of school education and after that
+worked as a hunter, living mainly in the forest.
+
+\id Tylkanova_Lidija_Gavrilevna_2_001
+\ref
+\tx
+\ft LGT will tell in Even how she hunted with dog sleds
+\ev
+\ru
+\ELANBegin 00:00:03.980
+\ELANEnd 00:00:21.360
+\ELANParticipant BP
+
+\id Tylkanova_Lidija_Gavrilevna_2_002
+\ref
+\tx
+\ft How did you hunt in the past?
+\ev
+\ru
+\ELANBegin 00:00:21.420
+\ELANEnd 00:00:26.420
+\ELANParticipant BP
+
+\id Tylkanova_Lidija_Gavrilevna_2_003
+\ref
+\tx Iŋe, ọːja, Twajanduk        už       Sanuttakị     ŋịnač      emmoːtte,           oxotniktawur                iz     Twajanduk.
+\mb iŋe họːja Twajaːn -DUk(U) uže       Sanụt -t(E)kI ŋịn -E  -Č   em   -WEːČ -R(E)   oxotnik  -DE       -WUr     iz     Twajaːn -DUk(U)
+\ps interj quant n               adv       n             n            v                  v                           postpos n              
+\ge yes many  Twajaːn -abl    already.R Sanuč -all    dog -ep -ins come -gnr  -nonfut hunter.R -purp.cvb -prfl.pl from.R Twajaːn -abl   
+\ft Yes, many (people), they came from Twajan to the Shanuch by dog sled to hunt, from Twajan.
+\ev
+\ru Из Тваяна на Сануч на собаках приезжали охотиться из Тваяна.
+\ELANBegin 00:00:26.420
+\ELANEnd 00:00:36.560
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_004
+\ref
+\tx ...,  ŋịnač.
+\mb *... ŋịn -E  -Č  
+\ps ?    n           
+\ge ***  dog -ep -ins
+\ft And my brother rode here... to the Sanuch, by dog sled.
+\ev
+\ru И мой брат ездил сюд... на Сануч... на собаках.
+\ELANBegin 00:00:36.560
+\ELANEnd 00:00:42.960
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_005
+\ref
+\tx
+\ft with dogs
+\ev
+\ru
+\ELANBegin 00:00:42.960
+\ELANEnd 00:00:43.660
+\ELANParticipant BP 
+
+\id Tylkanova_Lidija_Gavrilevna_2_006
+\ref
+\tx Iŋe, nu     tam     ost... ụlabbọːtta
+\mb iŋe nu     tam     ost hụlaː -B   -WEːČ -R(E)  
+\ps interj ptl    adv     ?   v                       
+\ge yes well.R there.R *** leave -med -gnr  -nonfut
+\ft Yes, well there they were left.
+\ph
+\nt started to say "ostavalisj" in Russian and switched to Even
+\ev
+\ru
+\ELANBegin 00:00:43.660
+\ELANEnd 00:00:47.860
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_007
+\ref
+\tx ...  ŋịn ulin...   ulim           gadʒịwaːtta              Twajantakị,    kolxoztakị.
+\mb *... ŋịn uliː -n  uliː -n  -W   ga   -nE     -WEːČ -R(E)   Twajaːn -t(E)kI kolxoz            -t(E)kI
+\ps ?    n   v        v             v                          n               n                        
+\ge ***  dog feed -nr feed -nr -acc take -intent -gnr  -nonfut Twajaːn -all    collective.farm.R -all   
+\ft He went alone, they went to Twajan, to the collective farm, to fetch food (for the dogs).
+\ph
+\gr should be ŋin ulimen or ŋin uliŋen, just ulim is of course not correct
+\ev
+\ru Один поехал, ... собака, ездили за кормом собак в Тваян, в колхоз.
+\ELANBegin 00:00:47.860
+\ELANEnd 00:00:56.120
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_008
+\ref
+\tx I     pušninaw     ŋenuweːtte,               tam     bisin             Čuprin, priemšik.
+\mb i     pušnina -W   ŋen -U    -WEːČ -R(E)   tam     bi -RI  -n(I)     Čuprin  priemšik         
+\ps conj  n            v                       adv     v                 ?       n                
+\ge and.R pelts.R -acc go  -caus -gnr  -nonfut there.R be -pst -poss.3sg Chuprin receiving.clerk.R
+\ft And they took pelts (to the collective farm), there was Chuprin, the receiving clerk.
+\ph
+\gr ŋenuweːtte = vozili tuda, emuweːtte = vozili sjuda
+\ev
+\ru И пушнину привезли, там был Чуприн, приемщик.
+\ELANBegin 00:00:56.120
+\ELANEnd 00:01:03.460
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_009
+\ref
+\tx ...  ọːkụl... ọːkụtta    ńoːmedʒeːnnin.
+\mb *... ọːk  =(W)Ul ọːk  =(W)UttE ńoːmeː -dʒEːn -RI  -n(I)    
+\ps ?    pron        pron          v                           
+\ge ***  when =indef when =indef   die    -dur   -pst -poss.3sg
+\ft But he isn't (alive) anymore, he died at some time (poor him).
+\ph
+\gr the plain past form gives the meaning of "he has already died"
+\ev No ego net, 
+\ru Но его нет... когда когда-то умер уже (бедненький).
+\ELANBegin 00:01:03.460
+\ELANEnd 00:01:08.000
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_010
+\ref
+\tx Čuprin Mikulej bisin.
+\mb Čuprin  Nikolaj bi -RI  -n(I)    
+\ps ?       ?       v                
+\ge Chuprin Nikolaj be -pst -poss.3sg
+\ft He was Nikolaj Chuprin.
+\ev
+\ru
+\ELANBegin 00:01:08.000
+\ELANEnd 00:01:11.120
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_011
+\ref
+\tx
+\ft Did you also bring pelts to Twajan by dogsled?
+\ev
+\ru
+\ELANBegin 00:01:11.120
+\ELANEnd 00:01:17.780
+\ELANParticipant BP
+
+\id Tylkanova_Lidija_Gavrilevna_2_012
+\ref
+\tx Elekke            emuweːtte,                iŋe, eweski.
+\mb erek -(dU)LE =kkE em   -U    -WEːČ -R(E)   iŋe erek -skI     
+\ps pron              v                        interj pron          
+\ge prox -loc    =ptl come -caus -gnr  -nonfut yes prox -advb.all
+\ft They brought it here, yes, here.
+\ph
+\gr it's not clear whether she says "emuweːtte" or "emuweːttem" - Rimma translated it with 3pl, and that's what it sounds like to me; but during the session to check the transcription, when I
+asked whether LGT says 3pl or 1sg, Rimma said emuweːttem (she first gave the translation, then I asked to check the transcription) - but without listening to it again; given that I cannot
+hear the -m, and that Rimma's first translation fits with what I hear, that's how I'll leave it
+\ev
+\ru Здесь же привозили, да, сюда.
+\ELANBegin 00:01:17.780
+\ELANEnd 00:01:20.580
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_013
+\ref
+\tx
+\ft here to Esso
+\ev
+\ru
+\ELANBegin 00:01:20.580
+\ELANEnd 00:01:21.680
+\ELANParticipant BP 
+
+\id Tylkanova_Lidija_Gavrilevna_2_014
+\ref
+\tx Iŋe Essoːtki,       tut    gospromxoz bisin.
+\mb iŋe Essọː -t(E)kI tut    gospromxoz bi -RI  -n(I)    
+\ps interj n             adv    ?          v                
+\ge yes Esso  -all    here.R Gospromxoz be -pst -poss.3sg
+\ft Yes, to Esso, here was the Gospromxoz.
+\ph
+\nt Gospromxoz = gosudarstvennoe promyslovoe xozjajstvo - they collected the pelts which were brought in by the professional hunters who worked for the Gospromxoz
+\ev
+\ru В Эссо, тут госпромхоз был.
+\ELANBegin 00:01:21.680
+\ELANEnd 00:01:25.640
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_015
+\ref
+\tx Taral     gurgeːwčičel,        tiːkel    ačča, aːnda     urriten.
+\mb tarak -L  gurgeːwči -čE     -L  tiek =El   ačča haːn =DE  hor -RI  -tEn     
+\ps pron      v                     adv        ptl  ?         v                 
+\ge dist  -pl work      -pf.ptc -pl now  =emph neg  some =ptl go  -pst -poss.3pl
+\ft Those who worked (there) aren't anymore (i.e. have died), some have left.
+\ev
+\ru Тех кто работал, уже нету, некоторые уехали.
+\ELANBegin 00:01:25.640
+\ELANEnd 00:01:30.580
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_016
+\ref
+\tx Aːnda     ele          Poskrebečewteken     da    Vjatkiny ja    uže...   esem             itčoːtta.
+\mb haːn =DE  erek -(dU)LE Poskrebečew  =t(E)kEn da    Vjatkin ja    uže       e   -R(E)   -m   it  -WEːČ -R      
+\ps ?         pron         ?                     ptl   ?       pron  adv       v                v                 
+\ge some =ptl prox -loc    Poskrebechev =restr   yes.R Vjatkin 1sg.R already.R neg -nonfut -1sg see -gnr  -neg.cvb
+\ft Some are here, only Poskrebechev and Vjatkin, (but) I don't see them anymore.
+\ev
+\ru Некоторые здесь, Поскребечев только да Вяткин, я уже не вижу
+\ELANBegin 00:01:30.580
+\ELANEnd 00:01:39.540
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_017
+\ref
+\tx Kogda  gurgeːwčiriwu            tarakamtakan           kojeːčewu,             tiːkel    esep                aːra.
+\mb kogda  gurgeːwči -RI  -W        tarakam       =t(E)kEn kojeː -čE     -W        tiek =El   e   -R(E)   -p      haː  -R      
+\ps pron   v                        adv                    v                       adv        v                   v            
+\ge when.R work      -pst -poss.1sg in.those.days =restr   watch -pf.ptc -poss.1sg now  =emph neg -nonfut -1pl.in know -neg.cvb
+\ft When I worked, only then did I see (them; lit "those who I saw"), but now I don't know.
+\ph
+\gr kojeːčewu = bukv vidimoe mnoju; could have said kojeːriwu here, no big difference
+\ev
+\ru Когда работала, тогда только видела (виденное), сейчас не знаю.
+\ELANBegin 00:01:39.540
+\ELANEnd 00:01:47.460
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_018
+\ref
+\tx
+\ft And did you hunt with traps?
+\ev
+\ru
+\ELANBegin 00:01:47.460
+\ELANEnd 00:01:56.340
+\ELANParticipant BP
+
+\id Tylkanova_Lidija_Gavrilevna_2_019
+\ref
+\tx Kapkanač,     kapkanač
+\mb kapkan -E  -Č   kapkan -E  -Č  
+\ps n               n              
+\ge trap.R -ep -ins trap.R -ep -ins
+\ft with traps, with traps
+\ev
+\ru
+\ELANBegin 00:01:56.340
+\ELANEnd 00:01:59.720
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_020
+\ref
+\tx
+\ft And how do you know where to (set) your trap?
+\ev
+\ru
+\ELANBegin 00:01:59.720
+\ELANEnd 00:02:05.820
+\ELANParticipant BP
+
+\id Tylkanova_Lidija_Gavrilevna_2_021
+\ref
+\tx tuldʒim
+\mb tul -DʒI -m  
+\ps v            
+\ge set -fut -1sg
+\ft I set....
+\ev
+\ru
+\ELANBegin 00:02:05.820
+\ELANEnd 00:02:06.500
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_022
+\ref
+\tx
+\ft set
+\ev
+\ru
+\ELANBegin 00:02:06.500
+\ELANEnd 00:02:07.060
+\ELANParticipant BP 
+
+\id Tylkanova_Lidija_Gavrilevna_2_023
+\ref
+\tx iŋe, ejdu aːram
+\mb iŋe ejdu haː  -R(E)   -m  
+\ps interj quant v                
+\ge yes all  know -nonfut -1sg
+\ft Yes, I know everything.
+\ev
+\ru да, все знаю
+\ELANBegin 00:02:07.060
+\ELANEnd 00:02:09.760
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_024
+\ref
+\tx
+\ft But maybe no fox ...
+\ev
+\ru
+\ELANBegin 00:02:09.760
+\ELANEnd 00:02:16.100
+\ELANParticipant BP 
+
+\id Tylkanova_Lidija_Gavrilevna_2_025
+\ref
+\tx ụlịčan
+\mb hụlịčan
+\ps n      
+\ge fox    
+\ft fox
+\ev
+\ru
+\ELANBegin 00:02:16.100
+\ELANEnd 00:02:17.380
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_026
+\ref
+\tx
+\ft won't pass?
+\ev
+\ru
+\ELANBegin 00:02:17.380
+\ELANEnd 00:02:18.680
+\ELANParticipant BP
+
+\id Tylkanova_Lidija_Gavrilevna_2_027
+\ref
+\tx Ụlịčan, iŋe awke    ụlịčajakan     tawụr
+\mb hụlịčan iŋe awke    hụlịčan -jEkEn tawụr
+\ps n       interj adj     n              pron 
+\ge fox     yes cunning fox     -dim   this 
+\ft Fox, yes, that cunning little fox
+\ph
+\gr uličajakan = s prenebrezheniem, neodobritelno; simply "small fox" would be uličakakan
+\ev
+\ru Лиса, да хитряя лисичка эта
+\ELANBegin 00:02:18.680
+\ELANEnd 00:02:24.260
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_028
+\ref
+\tx Tegeːnduk       tuldʒinni,    gịrkačalindu
+\mb tege     -DUk(U) tul -DʒI -nrI gịrka -čE     -(dU)LI -n(I)     -DU 
+\ps rel.n            v             v                                   
+\ge distance -abl    set -fut -2sg walk  -pf.ptc -prol   -poss.3sg -dat
+\ft You set (the trap) from a distance, there where it walked.
+\ph
+\nt so you don't come close to the place where you are going to set the trap in order not to leave your trace; she shows with her hands how she did this 
+\ev
+\ru Издалека поставишь, где она шла/на ее следы.
+\ELANBegin 00:02:24.260
+\ELANEnd 00:02:33.320
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_029
+\ref
+\tx Ịakawụt    ịašalan,           aːdụndaγel        toːweːtten
+\mb ịak  =(W)UttE ịašal -E  -n(I)     haːdụn    =DE  =gEl   toː     -WEːČ -R(E)   -n(I)
+\ps pron          n                   adv                   v                          
+\ge what =indef   eyes  -ep -poss.3sg sometimes =ptl =coord step.on -gnr  -nonfut -3sg 
+
+\ft What eyes it (the fox) has! sometimes it did step on (the trap).
+\ph
+\nt she shows with her hands how the trap snaps shut and the fox wriggles (without the video we'd interpreted this as meaning that she sometimes stepped too close to the place where the trap
+was, which would be bad cos it would warn the fox)
+\ev
+\ru Что у нее за глаза, иногда-то я наступала.
+\ELANBegin 00:02:33.320
+\ELANEnd 00:02:40.380
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_030
+\ref
+\tx Gelen bi   ńimkaŋidʒi          baγanukawaːttam.
+\mb gelen biː ńimkaŋi -DʒI         bagan -WkEn -WEːČ -R(E)   -m  
+\ps ?     pron n                    v                             
+\ge ***   1sg staff   -ins.prfl.sg hit   -caus -gnr  -nonfut -1sg
+
+\ft I hit her with my staff.
+\ph
+\gr Rimma didn't dknow what "gelen" was supposed to mean here; even though she shows in the video something like the perenosica just as she says "gelen", Rimma still didn't know what
+this might mean; ńimkanʤi = so svoej skazkoj, ńimkaŋiʤi = so svoim posoxom; ńimkamu = moja skazka, moj posox = ńimkaŋiwu, *ńimka = not a word in Bystraja Even
+\nt here, she shows with her hands how she hit the fox on the nose; even though LGT was tiny and frail when I visited her in 2009, so that it's very hard to imagine her bashing foxes over
+the head with her staff, she wasn't so small and frail when she was younger, says Rimma
+\ev
+\ru Я своим посохом ее била.
+\ELANBegin 00:02:40.380
+\ELANEnd 00:02:47.020
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_031
+\ref
+\tx Vydrewda          bi   meːnken
+\mb vydra   -W   =DE  biː meːn -KEn    
+\ps n                 pron pron         
+\ge otter.R -acc =ptl 1sg refl -dim.int
+\ft And otters, too, I (caught) myself.
+\ev
+\ru Выдру тоже я сама.
+\ELANBegin 00:02:47.020
+\ELANEnd 00:02:53.160
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_032
+\ref
+\tx Baγanukanem             ele,         ńimkaŋiwu         biweːtten
+\mb bagan -WkEn -R(E)   -m   erek -(dU)LE ńimkaŋi -W        bi -WEːČ -R(E)   -n(I)
+\ps v                        pron         n                 v                     
+\ge hit   -caus -nonfut -1sg prox -loc    staff   -poss.1sg be -gnr  -nonfut -3sg 
+
+\ft I hit (them) here, I had my staff.
+\ph
+\nt shows how she pulls the otter by its tail (presumably) and knocks it over the nose with her staff
+\ev ????? 
+\ru Стукала ее сюда посох у меня бывает
+\ELANBegin 00:02:53.160
+\ELANEnd 00:02:58.980
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_033
+\ref
+\tx Min     stariku             teγeski       orroːtten...
+\mb min     starik    -W        tege -skI      hor -WEːČ -R(E)   -n(I)
+\ps pron    n                   ?              v                      
+\ge 1sg.obl old.man.R -poss.1sg far  -advb.all go  -gnr  -nonfut -3sg 
+\ft My old man (my husband) used to go far, far, the trap was far.
+\ev
+\ru Мой старик далеко уходил, ... далек(о), капкан-то далек(о)
+\ELANBegin 00:02:58.980
+\ELANEnd 00:03:06.360
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_034
+\ref
+\tx A     ja,   biːgel,    poka    varitsja              eŋeneweːttem,                    poka    svarju              eŋeneweːttem                     kapkami
+\mb a.R   ja    biː =gEl   poka    varitsja              eŋen        -E  -WEːČ -R(E)   -m   poka    svarju              eŋen        -E  -WEːČ -R(E)   -m   kapkan -J      
+\ps ?     pron  pron       ptl     v                     v                                  ptl     v                   v                                  n              
+\ge but.R 1sg.R 1sg =coord until.R cook.intrns.prs.3sg.R take.a.look -ep -gnr  -nonfut -1sg until.R cook.trns.pfv.1sg.R take.a.look -ep -gnr  -nonfut -1sg trap.R -prfl.sg
+\ft But I, while (the food) cooks would go to look, while I cook I would go to look at my trap.
+\ev
+\ru А я пока варится иду смотреть свой капкан
+\ELANBegin 00:03:06.360
+\ELANEnd 00:03:15.220
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_035
+\ref
+\tx Goːweːtten               "eŋeneŋennida                kapkami"
+\mb goːn -WEːČ -R(E)   -n(I) eŋen        -ŋE      -nrI =DE  kapkan -J      
+\ps v                        ?                              n              
+\ge say  -gnr  -nonfut -3sg  take.a.look -pol.imp -2sg =ptl trap.R -prfl.sg
+\ft (My husband) used to say "go to look at your trap".
+\ph
+\gr eŋen seems to contain the associated motion suffix, or at least the meaning, but since I don't know whether there's just "eŋe" I'll leave it as it is for the moment
+\ev
+\ru Говорит (муж) ты сходи посмотри свой капкан.
+\ELANBegin 00:03:15.220
+\ELANEnd 00:03:18.340
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_036
+\ref
+\tx I     tawụr Vereda    kučuken bisin,            tawụr ekenten          guːnem            kapkamurda           eŋenedgeresi.
+\mb i     tawụr Vera =DE  kočuken bi -RI  -n(I)     tawụr eken   -tEn      goːn -R(E)   -m   kapkan -WUr     =DE  eŋen        -E  -D    -GEr        -E  =sI  
+\ps conj  pron  ?         adj     v                 pron  n                v                 n                    v                                          
+\ge and.R this  Vera =ptl small   be -pst -poss.3sg this  mother -poss.3pl say  -nonfut -1sg trap.R -prfl.pl =ptl take.a.look -ep -prog -imp.1pl.in -ep =emph
+
+\ft And this Vera was small, their mother, I say "let's go look at our trap".
+\ph
+\nt motions with her head towards the kitchen where her grandchildren (Vera's children) were talking and laughing
+\ev
+\ru Вот эта Вера маленькая была, вот мать ихняя, говорю, капканы пойдем смотреть свои.
+\ELANBegin 00:03:18.340
+\ELANEnd 00:03:28.300
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_037
+\ref
+\tx ịamị ŋened...,            sobol   ọrrin
+\mb ịamị ŋen -E  -D    -(R)U   sobol   họr        -RI  -n(I)    
+\ps ?    v                     n       v                        
+\ge ptl  go  -ep -prog -1pl.ex sable.R get.caught -pst -poss.3sg
+\ft and we go, a sable has gotten caught (in the trap)
+\ph
+\nt she says ŋened, and Rimma completed it as "ŋeneddem" and translated "i vot ja prishla" - but from the following it is clear that Vera and she both went and found the sable, so she must
+have meant to say "ŋeneddu"
+\ev
+\ru И вот мы пришли, и соболь попался
+\ELANBegin 00:03:28.300
+\ELANEnd 00:03:34.060
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_038
+\ref
+\tx Guːnem            tiːk baγunak... ọŋŋọːttan,           gudʒeːledʒin, guːnem            erikke         kiliebeŋgaji
+\mb goːn -R(E)   -m   tiek bagan -WkEn họŋ -WEːČ -R(E)   -n(I) gudʒeːledʒin goːn -R(E)   -m   erek -Č   =kkE kilieb  -E  -ŋ   -GE    -J      
+\ps v                 adv  v           v                       interj       v                 pron           n                               
+\ge say  -nonfut -1sg now  hit   -caus cry -gnr  -nonfut -3sg  poor.dear    say  -nonfut -1sg prox -ins =ptl bread.R -ep -aln -desig -prfl.sg
+
+\tx gadʒinni       gospromxozdu    sdaldʒinni.
+\mb ga   -DʒI -nrI gospromxoz -DU  sdal          -DʒI -nrI
+\ps v              n               v                      
+\ge take -fut -2sg Gospromxoz -dat deliver.pst.R -fut -2sg
+\ft I say "now hit (it)", she (i.e. Vera) cries, the poor thing, I say "with this you will take bread for yourself, you will deliver (it) to the Gospromxoz".
+\ph
+\nt shows how Vera is supposed to hit the sable on the head
+\ev
+\ru Говорю сейчас вот стукни, плачет бедненькая, говорю, это же хлеб себе возьмешь, в госпромхоз сдаешь.
+\ELANBegin 00:03:34.060
+\ELANEnd 00:03:48.480
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_039
+\ref
+\tx Ńan   kiliebeŋgeji                    guːnem            erič        gadʒinni.
+\mb ńaːn kilieb  -E  -ŋ   -GE    -J       goːn -R(E)   -m   erek -E  -Č   ga   -DʒI -nrI
+\ps adv  n                                v                 pron          v             
+\ge and  bread.R -ep -aln -desig -prfl.sg say  -nonfut -1sg prox -ep -ins take -fut -2sg
+\ft "And you will take bread for yourself with this", I say.
+\ev
+\ru И вот хлеб себе этим возьмешь.
+\ELANBegin 00:03:48.480
+\ELANEnd 00:03:52.400
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_040
+\ref
+\tx Tiːk, guːnem,           inni,                  innoːtten.
+\mb tiek goːn -R(E)   -m   in            -LI      in            -WEːČ -R(E)   -n(I)
+\ps adv  v                 v                      v                                
+\ge now  say  -nonfut -1sg carry.on.back -imp.2sg carry.on.back -gnr  -nonfut -3sg 
+\ft "Now" I say "carry (it)", and she carried it.
+\ph
+\nt shows how Vera slung the sable over her back
+\ev
+\ru Вот говорю, неси, и она несла.
+\ELANBegin 00:03:52.400
+\ELANEnd 00:03:58.700
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_041
+\ref
+\tx Ebdʒende         bišin,           mụnnụkamda         uŋ,      gornostajuda        dʒilikiw   kapkaŋan                tulloːtten,
+\mb hebdʒen     -DI   bi -RI  -n(I)     mụnrụkan -W   =DE  uŋ        gornostaj -W   =DE  diliki -W   kapkan -ŋ   -E  -n(I)     tul -WEːČ -R(E)   -n(I)
+\ps ?                 v                 n                  n         n                   n           n                         v                      
+\ge interesting -adjr be -pst -poss.3sg hare     -acc =ptl something ermine.R  -acc =ptl ermine -acc trap.R -aln -ep -poss.3sg set -gnr  -nonfut -3sg 
+
+\tx papan            Veredu.
+\mb papa   -n(I)     Vera -DU 
+\ps n                n        
+\ge papa.R -poss.3sg Vera -dat
+\ft It was interesting, her father set traps for rabbits and ermine for her.
+\ph
+\nt he set the traps for her so that she could collect the pelts 
+\ev
+\ru Интересно было, зайца, вот горностая, для горностая капкан ставил ее папа, Вере.
+\ELANBegin 00:03:58.700
+\ELANEnd 00:04:10.300
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_042
+\ref
+\tx Badʒịkar eŋeneweːtten,                          duplole.
+\mb badʒịkar eŋen        -nE     -WEːČ -R(E)   -n(I) duplo    -(dU)LE
+\ps n        v                                       n               
+\ge morning  take.a.look -intent -gnr  -nonfut -3sg  hollow.R -loc   
+
+\ft In the morning she went to look, in the hollow.
+\ph
+\nt shows a little hollow down low, so this cannot really be high up in a tree trunk
+\ev
+\ru Утром ходила смотреть в дупло.
+\ELANBegin 00:04:10.300
+\ELANEnd 00:04:15.740
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_043
+\ref
+\tx Ọrrineː,                     tarak diliki.
+\mb họr        -RI  -n(I)     =eː   tarak diliki
+\ps v                               pron  n     
+\ge get.caught -pst -poss.3sg =emph dist  ermine
+\ft It got caught, that ermine!
+\ph very long rolled /r/ in orrrrrrrine
+\ev
+\ru Попался тот горностай.
+\ELANBegin 00:04:15.740
+\ELANEnd 00:04:22.960
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_044
+\ref
+\tx Eːripčekekentitte       bisin,            tarakam       gospromxoz.
+\mb eːrin -pčVn -kEkEn =tIt bi -RI  -n(I)     tarakam       gospromxoz
+\ps n                       v                 adv           ?         
+\ge price -adjr -dim   =ptl be -pst -poss.3sg in.those.days Gospromxoz
+\ft And it was expensive, too, then in the Gospromxoz (i.e. they got a lot of money for an ermine pelt).
+\ph
+\gr keken = here "nemnozhko dorogoj"
+\ev
+\ru Дорогой тоже был, тогда, в госпромхозе.
+\ELANBegin 00:04:22.960
+\ELANEnd 00:04:27.200
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_045
+\ref
+\tx ....  ja    uže      ọmŋọram.
+\mb *.... ja    uže       ọmŋa   -R(E)   -m  
+\ps ?     pron  adv       v                  
+\ge ***   1sg.R already.R forget -nonfut -1sg
+\ft Five or ten rubles, I've already forgotten.
+\ph
+\nt in those days one was able to buy everything (sugar, cereal - krupa - and bread) for 1 ruble, a box of matches cost 1 kopeck
+\ev
+\ru Пять рублей или десять...
+\ELANBegin 00:04:27.200
+\ELANEnd 00:04:32.900
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_046
+\ref
+\tx Ajịč      ewiddʒoːtte.
+\mb aj   -E  -Č   ewiː -D    -WEːČ -R(E)  
+\ps adj           v                       
+\ge good -ep -ins play -prog -gnr  -nonfut
+\ft They played nicely.
+\ph
+\nt not clear who this refers to - the ermine and other animals? her children?
+\ev
+\ru Хорошо играли.
+\ELANBegin 00:04:32.900
+\ELANEnd 00:04:36.040
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_047
+\ref
+\tx Ejdu ajịč      ewiddʒoːtte.
+\mb ejdu aj   -E  -Č   ewiː -D    -WEːČ -R(E)  
+\ps quant adj           v                       
+\ge all  good -ep -ins play -prog -gnr  -nonfut
+\ft Overall they played well.
+\ph
+\nt probably this refers to her children, is the most logical interpretation - though she goes on to complain about how all the game has been exterminated by the Russians
+\ev
+\ru Вообще хорошо играли.
+\ELANBegin 00:04:36.040
+\ELANEnd 00:04:41.040
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_048
+\ref
+\tx Tiːkkel    ačča.
+\mb tiek =gEl   ačča
+\ps adv         ptl 
+\ge now  =coord neg 
+\ft Now there's none.
+\ev
+\ru Сейчас-то нету.
+\ELANBegin 00:04:41.040
+\ELANEnd 00:04:45.380
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_049
+\ref
+\tx Tiːkkel    manreː              uŋ       giekiw,        bụjli!
+\mb tiek =gEl   man    -R(E)   =eː   uŋ        gịakị   -W   bụj    -(dU)LI
+\ps adv         v                    n         pron         n             
+\ge now  =coord finish -nonfut =emph something various -acc forest -prol  
+\ft Now they've finished everything in the forest!
+\ph
+\nt most probably this means that all the animals have been exterminated
+\ev
+\ru Сейчас-то все закончили в лесу.
+\ELANBegin 00:04:45.380
+\ELANEnd 00:04:51.500
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_050
+\ref
+\tx Erkke     ńụːčịl!
+\mb erek =kkE ńụča    -L 
+\ps pron      n          
+\ge prox =ptl Russian -pl
+\ft It's these Russians!
+\ev
+\ru Вот же русские!
+\ELANBegin 00:04:51.500
+\ELANEnd 00:04:53.480
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_051
+\ref
+\tx
+\ft Russians
+\ev
+\ru
+\ELANBegin 00:04:53.480
+\ELANEnd 00:04:54.120
+\ELANParticipant BP 
+
+\id Tylkanova_Lidija_Gavrilevna_2_052
+\ref
+\tx Ńụːčị!
+\mb ńụča   
+\ps n      
+\ge Russian
+\ft Russians!
+\ev
+\ru
+\ELANBegin 00:04:54.120
+\ELANEnd 00:04:55.680
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_053
+\ref
+\tx Buranat                tar  nekre!
+\mb buran         -E  -Č   tar  nek -R(E)  
+\ps n                      adv  v          
+\ge snow.mobile.R -ep -ins thus do  -nonfut
+\ft They do it with snowmobiles, right! (i.e. they hunt with snowmobiles)
+\ev
+\ru Буранами же делают
+\ELANBegin 00:04:55.680
+\ELANEnd 00:05:00.740
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_054
+\ref
+\tx Ọlrawda        manra!
+\mb ọlra -W   =DE  man    -R(E)  
+\ps n              v             
+\ge fish -acc =ptl finish -nonfut
+\ft They finished the fish (i.e. they exterminated the fish)!
+\ev
+\ru Рыбу закончили
+\ELANBegin 00:05:00.740
+\ELANEnd 00:05:05.080
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_055
+\ref
+\tx Ureŋette          kolaliwan                gadda.
+\mb usiŋ  -Č   -R(E)   kolali -W   -E  -n(I)     ga   -D    -R(E)  
+\ps v                  n                         v                 
+\ge throw -res -nonfut roe    -acc -ep -poss.3sg take -prog -nonfut
+\ft They throw away (the fish), they take the roe.
+\ph LGT pronounces /s, š/ as /r/
+\ev
+\ru Бросают икру берут
+\ELANBegin 00:05:05.080
+\ELANEnd 00:05:09.980
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_056
+\ref
+\tx ńan   ọlra uler       ịkụt...
+\mb ńaːn ọlra uleː  -r   ịkụt    
+\ps adv  n    v          adv     
+\ge and  fish throw -3pl straight
+\ft And the fish they throw right away (gestures a throwing motion).
+\ev
+\ru И саму рыбу выбрасывают прямо
+\ELANBegin 00:05:09.980
+\ELANEnd 00:05:13.420
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_057
+\ref
+\tx Talịwurkkeda                   tawụr kojeːčiddʒoːtte              televizorli
+\mb tarak -(dU)LI -WUr     =kkE =DE  tawụr kojeːt  -E  -D    -WEːČ -R(E)   televizor -(dU)LI
+\ps pron                             pron  v                               n                
+\ge dist  -prol   -prfl.pl =ptl =ptl this  look.at -ep -prog -gnr  -nonfut TV.R      -prol  
+\ft And then they watch TV right here.
+\ph
+\nt not clear what the TV has to do with the poaching of caviar - it might be that she means to say "it's all been shown on TV, about the poaching" - she gestures towards the kitchen where
+their TV probably is
+\ev
+\ru Вот тут же вот смотрят по телевизору
+\ELANBegin 00:05:13.420
+\ELANEnd 00:05:17.160
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_058
+\ref
+\tx Omorda                         turkur,          učulra               kọče!
+\mb omon                  -L  =DE  turku       -r   učul          -R(E)   kọč      -E 
+\ps n                              v                v                     adv         
+\ge special.police.unit.R -pl =ptl not.be.able -3pl become.fed.up -nonfut probably -ep
+\ft And the special police forces cannot (deal with the problem), they're probably fed up!
+\ph
+\nt OMON = Отряд милиции особого назначения.
+\ev
+\ru Омоновцы не могут, надоело наверно.
+\ELANBegin 00:05:17.160
+\ELANEnd 00:05:27.440
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_059
+\ref
+\tx Omneken        minduli         deγγoːččiten          talị.
+\mb omen -REkEn    min     -(dU)LI deg -WEːČ -RI  -tEn      tarak -(dU)LI
+\ps num            pron            v                        pron         
+\ge one  -iter.adv 1sg.obl -prol   fly -gnr  -pst -poss.3pl dist  -prol  
+\ft Once they flew over me (over my place), there.
+\ev
+\ru Однажды у меня (по мне, по моему месту) летали там.
+\ELANBegin 00:05:27.440
+\ELANEnd 00:05:32.080
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_060
+\ref
+\tx mindu        neːiwwoːtte
+\mb min     -DU  neːgi -W     -WEːČ -R(E)  
+\ps pron         v                         
+\ge 1sg.obl -dat scold -advrs -gnr  -nonfut
+\ft They were scolded by me.
+\ph
+\gr the active form of neːi- would be neːiweːttem; this construction is OK, not strange, a normal way of saying this; I wonder if this emphasises the agent here
+\ev
+\ru Мною были руганы всегда.
+\ELANBegin 00:05:32.080
+\ELANEnd 00:05:37.060
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_061
+\ref
+\tx
+\ft And why did they scold you?
+\ph
+\nt I misunderstood, obviously, and thought they had scolded her - though I actually say "iami indu neːiwoːtte" so I basically do say "why were they scolded by you"
+\ev
+\ru
+\ELANBegin 00:05:37.060
+\ELANEnd 00:05:42.860
+\ELANParticipant BP 
+
+\id Tylkanova_Lidija_Gavrilevna_2_062
+\ref
+\tx Čele... ịakta,   ladno...!
+\mb čele ịak  =DE  ladno
+\ps ?    pron      ptl  
+\ge all  what =ptl OK.R 
+\ft All.... what... let it be!
+\ph
+\nt she may have wanted to tell about it here, but then decided not to, otmaxivaetsja on ladno
+\ev
+\ru
+\ELANBegin 00:05:42.860
+\ELANEnd 00:05:48.660
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_063
+\ref
+\tx Guːnem,           ....
+\mb goːn -R(E)   -m   *....
+\ps v                 ?    
+\ge say  -nonfut -1sg ***  
+\ft I say..... "Do you have your logbook?"
+\ph
+\nt she starts to say "I say", but then switches to what the OMONovcy said to her
+\ev  
+\ru ... журнал у вас есть?
+\ELANBegin 00:05:48.660
+\ELANEnd 00:05:52.820
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_064
+\ref
+\tx
+\ft I say "You've looked at this logbook five times already, there, take it!"
+\ph
+\nt the fishing inspector was obviously flying together with the OMON unit and was trying to show off how well he fulfills his duty
+\ev
+\ru Я говорю "ты же пять раз смотрел этот журнал, вон возьми!"
+\ELANBegin 00:05:52.820
+\ELANEnd 00:05:59.960
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_065
+\ref
+\tx Guːnem...         brakonerelbe          guːnem            tardalị           geleːslille...
+\mb goːn -R(E)   -m   brakoner  -E  -L  -W   goːn -R(E)   -m   tarak -gIdE -(dU)LI geleːt   -s(E)n -(LI)lrE
+\ps v                 n                      v                 pron                v                       
+\ge say  -nonfut -1sg poacher.R -ep -pl -acc say  -nonfut -1sg dist  -part -prol   look.for -lim   -imp.2pl
+\ft I say, "why, we're not poachers, look for poachers over there", I say "this is my family, over there my grandchildren!".
+\ph
+\ev
+\ru (говорю) зачем, мы не браконеры, (браконеров, говорю, там ищите), это моя семейка, вон внучата!
+\ELANBegin 00:05:59.960
+\ELANEnd 00:06:11.460
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_066
+\ref
+\tx Maxnjo!
+\mb maxnjo 
+\ps ?      
+\ge Russian
+\ft Russian
+\ph
+\nt this expression comes from the days when the Evens first arrived in Kamchatka, when the Russians exchanged pelts for trinkets and said "pomenjaemsja, maxnjom"
+\ev
+\ru
+\ELANBegin 00:06:11.460
+\ELANEnd 00:06:14.420
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_067
+\ref
+\tx
+\ft I say "do you have a mother?" (i.e. is she still alive?)
+\ev
+\ru Я говорю, у тебя мама есть?
+\ELANBegin 00:06:14.420
+\ELANEnd 00:06:16.360
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_068
+\ref
+\tx "Bišni",       tarak omon,                 "bišni".
+\mb bi -R(E)   -n(I) tarak omon                  bi -R(E)   -n(I)
+\ps v                pron  n                     v               
+\ge be -nonfut -3sg  dist  special.police.unit.R be -nonfut -3sg 
+\ft "She is", that special policeman, "she is (alive)".
+\ev
+\ru
+\ELANBegin 00:06:16.360
+\ELANEnd 00:06:21.660
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_070
+\ref
+\tx Guːnem,           ọlraw     dʒebboːčiš?
+\mb goːn -R(E)   -m   ọlra -W   dʒeb -WEːČ -R(E)   -s  
+\ps v                 n         v                      
+\ge say  -nonfut -1sg fish -acc eat  -gnr  -nonfut -2pl
+\ft I say "do you eat fish?".
+\ev
+\ru Говорю рыбу вы едите?
+\ELANBegin 00:06:21.660
+\ELANEnd 00:06:24.060
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_071
+\ref
+\tx Guːnem            "Vot,  my    ọlra dʒebeddʒoːt...,     ọlraw!".
+\mb goːn -R(E)   -m   vot    my    ọlra dʒeb -E  -D    -WEːČ ọlra -W  
+\ps v                 ptl    adj   n    v                    n        
+\ge say  -nonfut -1sg here.R 1pl.R fish eat  -ep -prog -gnr  fish -acc
+\ft I say "There you are, we eat fish, fish!"
+\ph
+\nt omits the case marking on the first "olre", and also omits the person marking on the verb
+\ev
+\ru Говорю "вот мы рыбу едим, рыбу".
+\ELANBegin 00:06:24.060
+\ELANEnd 00:06:29.440
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_072
+\ref
+\tx Vidiš,       kartopiŋunda                      tawụr iːdden                  ogorodtun.
+\mb vidiš         kartọpị   -ŋ   -WUn         =DE  tawụr iː    -D    -R(E)   -n(I) ogorod            -DU  -WUn        
+\ps v             n                                pron  v                         n                                  
+\ge see.prs.2sg.R potatoe.R -aln -poss.1pl.ex =ptl this  enter -prog -nonfut -3sg  vegetable.patch.R -dat -poss.1pl.ex
+
+\ft You see, there's our potatoes growing (coming up) in our vegetable patch.
+\ph
+\gr Rimma insisted that ogoroddun/ogorodtun meant "v nashem ogorode", which can only be explained by a contraction of the dative case and possessive marking, Rimma said this is quite
+common
+\gr iːdden = "come up, vyxodit iz zemli" when used about plants in a vegetable patch, synonymous with isudden; turduk iːdden "vyxodit iz zemli", it's the same word as "enter" but with a
+specific meaning
+\ev
+\ru Видишь, картошка наша вот растет в нашем огороде.
+\ELANBegin 00:06:29.440
+\ELANEnd 00:06:34.500
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_073
+\ref
+\tx Ńan   tugenidu    dʒebdʒiru         kartopiw         takračan!
+\mb ńaːn tugeni -DU  dʒeb -DʒI -(R)U   kartọpị   -W   tak  -r(E) -čE     -n(I)    
+\ps adv  n           v                 n              v                           
+\ge and  winter -dat eat  -fut -1pl.ex potatoe.R -acc salt -vr   -pf.ptc -poss.3sg
+\ft And in winter we will eat potatoes with salted fish!
+\ph
+\gr omitted -nun, the comitative case marker, Rimma repeated "takračannun" with heavy emphasis on the -nun; takračan = lit. "to chto on solil"
+\ev
+\ru Вот зимой будем есть картошку с соленной рыбой.
+\ELANBegin 00:06:34.500
+\ELANEnd 00:06:39.040
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_074
+\ref
+\tx
+\ft And what else, berries and jam...
+\ev
+\ru Ну чего, там ягод и варенье...
+\ELANBegin 00:06:39.040
+\ELANEnd 00:06:44.280
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_075
+\ref
+\tx I     mundule            ọːjeː...
+\mb i     mun        -(dU)LE họːja =eː  
+\ps conj  n                  quant      
+\ge and.R 1pl.ex.obl -loc    many  =emph
+\ft And we have a lot of this, how (does one say it), cranberries!
+\ev  
+\ru (А у нас много) это, как, клюква
+\ELANBegin 00:06:44.280
+\ELANEnd 00:06:49.800
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_076
+\ref
+\tx
+\ft Ksjusha here is like that, how old is she now, she herself (probably: goes to gather berries), only you have to crawl (i.e. they grow very low).
+\ev
+\ru Вот Ксюща такая, ей счас сколько, она сама, только ползать надо.
+\ELANBegin 00:06:49.940
+\ELANEnd 00:06:57.100
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_077
+\ref
+\tx
+\ft We gather a lot of cranberries in autumn.
+\ev
+\ru Много клюкв соберем осенью
+\ELANBegin 00:06:57.100
+\ELANEnd 00:07:04.280
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_078
+\ref
+\tx
+\nt She says something that sounds like "čusibu" here, but neither Rimma nor I have any idea what that might mean
+\ev
+\ru
+\ELANBegin 00:07:04.280
+\ELANEnd 00:07:05.420
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_079
+\ref
+\tx Ịak ŋeːllen              ịaltat...
+\mb ịak  ŋeːl      -R(E)   -n(I) hịaːlta -Č  
+\ps pron v                       n           
+\ge what be.afraid -nonfut -3sg  frost   -ins
+
+\ft It (the cranberries) doesn't mind frost... bring (berries) whenever you want, or if you need to cook jam, you take...
+\ph
+\nt This isn't clear at all, but we interpreted it as meaning that Ksjusha isn't afraid of anything (LGT goes on to say how she goes to gather cheremsha as well, even far away, by horse), and
+that you can just go and pick berries whenever you want some, there's so many of them
+\ev
+\ru (Мороза не боится), вези когда захочешь или варенье из чего варить, возьмешь
+\ELANBegin 00:07:05.420
+\ELANEnd 00:07:14.040
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_080
+\ref
+\tx ...tarrọːčịntitta   tewte
+\mb tarrọːčịn =tIt =DE  tewte  
+\ps pron                n      
+\ge dist.qual =ptl =ptl berries
+\ft also these, how (does one say it), berries like these too...
+\ph
+\nt all of this isn't very clear, the "tewte" (if that's what she says) sounds like "umte" to me, and it's not clear what she means, she shows something small with her fingers on her bed
+\ev
+\ru как это тоже, как.... (вот такая же ягода тоже)
+\ELANBegin 00:07:14.040
+\ELANEnd 00:07:23.780
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_082
+\ref
+\tx
+\ft My granddaughter comes regularly, she lives over there, Marina.
+\ev
+\ru Внучка моя приходит, она там живет, Марина
+\ELANBegin 00:07:23.780
+\ELANEnd 00:07:30.100
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_083
+\ref
+\tx
+\ft She already has a great-grandson as well (i.e. her son is LGT's great-grandson)
+\ev
+\ru У нее уже правнуком вот тоже
+\ELANBegin 00:07:30.100
+\ELANEnd 00:07:33.340
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_084
+\ref
+\tx Iːriten             oːtel badʒịkar
+\mb iː    -RI  -tEn      oːtel badʒịkar
+\ps v                    ?     n       
+\ge enter -pst -poss.3pl today morning 
+\ft They came this morning
+\ev
+\ru Зашли сегодня утром
+\ELANBegin 00:07:33.340
+\ELANEnd 00:07:35.920
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_085
+\ref
+\tx
+\ft She says, "Granny, tomorrow Danila will go to the daycare".
+\ev
+\ru Говорит "бабушка, завтра Данила пойдет приют"
+\ELANBegin 00:07:35.920
+\ELANEnd 00:07:41.760
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_086
+\ref
+\tx Prijutteki,       guːnem            sdalleː,                    tala  ewidʒinde             dʒebčinde
+\mb prijut    -t(E)kI goːn -R(E)   -m   sdal          -LI      =eː   talal ewiː -DʒI -n(I) =DE  dʒeb -DʒI -n(I) =DE 
+\ps n                 v                 v                            v     v                    v                   
+\ge daycare.R -all    say  -nonfut -1sg deliver.pst.R -imp.2sg =emph shine play -fut -3sg  =ptl eat  -fut -3sg  =ptl
+\ft I say (to her) "Send him to the daycare, there he will play, he will eat".
+\ev
+\ru В приют говорю, сдай, там играть будет, кушать будет.
+\ELANBegin 00:07:41.760
+\ELANEnd 00:07:50.440
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_087
+\ref
+\tx Tiːniw   tri     godaŋan              bišin,           pravnuku.
+\mb tiniw     tri     god    -ŋ   -n(I)     bi -RI  -n(I)     pravnuku            
+\ps adv       num     n                     v                 n                   
+\ge yesterday three.R year.R -aln -poss.3sg be -pst -poss.3sg great-grandson.dat.R
+\ft Yesterday he turned three, (my) grandson.
+\ev
+\ru Вчера 3 года было правнуку.
+\ELANBegin 00:07:50.440
+\ELANEnd 00:07:58.380
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_088
+\ref
+\tx Guːnem            dʒebdʒinde           vovremja  da    ukleːčin.
+\mb goːn -R(E)   -m   dʒeb -DʒI -n(I) =DE  vovremja  da    hukle -DʒI -n(I)
+\ps v                 v                    adv       conj  v               
+\ge say  -nonfut -1sg eat  -fut -3sg  =ptl on.time.R and.R sleep -fut -3sg 
+\ft I say "he will eat on time and will sleep".
+\ev
+\ru Говорю кушать будет вовремя да спать будет.
+\ELANBegin 00:07:58.380
+\ELANEnd 00:08:03.200
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_089
+\ref
+\tx Guːnem            iːsečin  gadidʒin                ńanda.
+\mb goːn -R(E)   -m   hiːsečin ga   -nE     -DʒI -n(I) ńaːn =DE 
+\ps v                 n        v                       adv      
+\ge say  -nonfut -1sg evening  take -intent -fut -3sg  and  =ptl
+\ft I say "in the evening you will go to fetch him again".
+\ev
+\ru Говорю вечером заберешь опять.
+\ELANBegin 00:08:03.200
+\ELANEnd 00:08:07.660
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_090
+\ref
+\tx
+\ft Over there, the second, Nikita, he also is in the kindergarten with his mother.
+\ev
+\ru Вон там тоже второй, Никита, тоже с мамой в садике.
+\ELANBegin 00:08:07.660
+\ELANEnd 00:08:14.320
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_091
+\ref
+\tx
+\nt the following section (about 1 minute) is practically all in Russian, more about her greatgrandchildren
+\ev
+\ru
+\ELANBegin 00:08:14.320
+\ELANEnd 00:08:27.140
+\ELANParticipant
+
+\id Tylkanova_Lidija_Gavrilevna_2_092
+\ref
+\tx Aj   bisin             iːni tiːtel.
+\mb aj   bi -RI  -n(I)     iːni tiːtel  
+\ps adj  v                 ?    adv     
+\ge good be -pst -poss.3sg life long.ago
+\ft Life was good in the past.
+\ev
+\ru Хорошая жизнь была в старину.
+\ELANBegin 00:09:19.480
+\ELANEnd 00:09:22.100
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_093
+\ref
+\tx Tiːkkel    ọrọčịl     ačča, ačča!
+\mb tiek =gEl   ọrọč  -E  -L  ačča ačča
+\ps adv         n             ptl  ptl 
+\ge now  =coord Oroch -ep -pl neg  neg 
+\ft But now there are no more Evens, no more.
+\ev
+\ru Сейчас-то орочей нету, нету.
+\ELANBegin 00:09:22.100
+\ELANEnd 00:09:26.460
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_094
+\ref
+\tx Tak  tolko  isuddijekerteken                         ere
+\mb tak  tol'ko isu  -D    -RI       -jEkEn -L  =t(E)kEn erek
+\ps interj adv    v                                        pron
+\ge so.R only.R grow -prog -impf.ptc -dim   -pl =restr   prox
+\ft Only those who are growing up, that's it.
+\ph
+\gr isuddijeker = kotorye sejchas podrastajut; I asked whether it meant "small growing ones", but she only kept repeating "podrastajut, podrastajushie" - but there doesn't seem to be any added
+nuance, otherwise she would have said that, I think
+\ev
+\ru Так только которые подрастают, вот.
+\ELANBegin 00:09:26.500
+\ELANEnd 00:09:32.200
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_095
+\ref
+\tx
+\ft The Evens?
+\ev
+\ru
+\ELANBegin 00:09:32.200
+\ELANEnd 00:09:33.320
+\ELANParticipant BP 
+
+\id Tylkanova_Lidija_Gavrilevna_2_096
+\ref
+\tx Ịaw      nọŋartanbedʒi   aːdʒir?
+\mb ịak  -W   nọŋartan =bEdʒI haː  -DʒI -r  
+\ps pron      pron            v             
+\ge what -acc 3pl      =emph  know -fut -3pl
+\ft What will THEY know?
+\ev
+\ru Что они-то будут знать?
+\ELANBegin 00:09:33.320
+\ELANEnd 00:09:36.320
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_097
+\ref
+\tx Ịrkam       aːr,     tọːbaru     dʒawụttawụr?
+\mb hịrkan -W   haː  -r   tọːbar -W   dʒaw       -Č   -DE       -WUr    
+\ps n           v         n           v                                 
+\ge knife  -acc know -3pl axe.R  -acc catch.hold -res -purp.cvb -prfl.pl
+\ft Do they know a knife, how to hold an axe?
+\ph
+\nt with this she is saying that the young ones don't even know how to hold a knife, an axe, that they don't know how to do anything (in a way it goes with the preceding sentence where you
+have the "iaw", so the overall sense is negative)
+\ev
+\ru Нож знают, топор как держать?
+\ELANBegin 00:09:36.320
+\ELANEnd 00:09:40.180
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_098
+\ref
+\tx Aŋandawụr              aːr?
+\mb haŋan -DE       -WUr     haː  -r  
+\ps v                        v        
+\ge sew   -purp.cvb -prfl.pl know -3pl
+\ft Do they know how to sew?
+\ph
+\nt again, the sense of this is "They don't know how to sew"
+\ev
+\ru Шить умеют?
+\ELANBegin 00:09:40.180
+\ELANEnd 00:09:42.260
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_099
+\ref
+\tx Biːγel    neːiweːttem               nasakụwur       aŋanille!
+\mb biː =gEl   neːgi -WEːČ -R(E)   -m   nasakụ -WUr     haŋan -(LI)lrE
+\ps pron       v                        adj             v             
+\ge 1sg =coord scold -gnr  -nonfut -1sg torn   -prfl.pl sew   -imp.2pl
+\ft I scold (them), "sew your torn (things)!".
+\ev
+\ru Я-то ругаюсь, рванье свое зашейте!
+\ELANBegin 00:09:42.260
+\ELANEnd 00:09:46.400
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_100
+\ref
+\tx Tarkka     tare      guːnem            igolku       emuli               tegli             edu,      guːnem,           aŋanni!
+\mb tarak =kkE tarak -E  goːn -R(E)   -m   igolku       em   -U    -LI      teg      -LI      erek -DU  goːn -R(E)   -m   haŋan -LI     
+\ps pron       pron      v                 n            v                   v                 pron      v                 v             
+\ge dist  =ptl dist  -ep say  -nonfut -1sg needle.acc.R come -caus -imp.2sg sit.down -imp.2sg prox -dat say  -nonfut -1sg sew   -imp.2sg
+\ft "Now here", I say, "bring a needle, sit down here (whacks the bed)", I say, "sew!".
+\ev
+\ru Вот вон говорю, иголку дай, садись сюда, говорю, шей!
+\ELANBegin 00:09:46.400
+\ELANEnd 00:09:53.040
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_101
+\ref
+\tx Iːkke    asatkan bisenni,        ọːn nasakụt     gịrkawaːččinni        uːlisali,       ńumarladʒin!
+\mb hiː =kkE asatkan bi -R(E)   -nrI ọːn nasakụ -Č   gịrka -WEːČ -DʒI -nrI ulica    -(dU)LI ńumarladʒin 
+\ps pron     n       v               pron adj         v                     n                excl        
+\ge 2sg =ptl girl    be -nonfut -2sg how torn   -ins walk  -gnr  -fut -2sg street.R -prol   how.shameful
+
+\ft "You are a girl, aren't you, how will you walk in torn (clothes) in the streets, how shameful!".
+\ph
+\gr ńumarlaʤin = kak stydno; *ńumarlaram = net; ńumariram (though had said at first ńumarnam) = mne stydno; Q: can one say ebʤeleʤin "kak veselo/interesno"? A: ebʤenčeteken or
+ebʤeneʤin, kak strashno = eŋuneʤin
+\ev
+\ru Ты же девушка есть, как рванным будешь ходить по улице, как стыдно.
+\ELANBegin 00:09:53.040
+\ELANEnd 00:10:00.740
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_102
+\ref
+\tx Novojettkan           ereger, ịala        bakčir?!
+\mb novoe   -Č   =t(E)kEn ereger ịak  -(dU)LE bak  -DʒI -r  
+\ps n                     adv    pron         v             
+\ge new.n.R -ins =restr   always what -loc    find -fut -3pl
+\ft Always only in new (clothes), where will you find (that)?
+\ph
+\gr Even though literally bakčir = they will find, Rimma repeated the translation with the 2sg even when I said "literally it's oni najdut", so it's clearly an advanced stage of grammaticalization
+or lexicalization
+\ev
+\ru В новом только всегда, где найдешь.
+\ELANBegin 00:10:00.740
+\ELANEnd 00:10:05.840
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_103
+\ref
+\tx Tamamda...        guːnem            u    vas,      ekensen          umekken gurgeːwčin,     uːde     egdʒerke        bises!
+\mb taman   -W   =DE  goːn -R(E)   -m   u    vas       eken   -sEn      omekken gurgeːwči -n(I) huː =DE  egdʒen -L  =kkE bi -R(E)   -s  
+\ps n                 v                 postpos pron      n                ?       v               pron     adj             v              
+\ge payment -acc =ptl say  -nonfut -1sg at.R 2pl.gen.R mother -poss.2pl alone   work      -3sg  2pl =ptl big    -pl =ptl be -nonfut -2pl
+\ft The payment... I say "your mother alone works, but you are already big!"
+\ph I only hear tamaNda, but Rimma insisted it was tamaMda
+\ev
+\ru Плату говорю у вас мать одна работает, вы же уже большие
+\ELANBegin 00:10:05.840
+\ELANEnd 00:10:16.580
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_104
+\ref
+\tx Ịala        bakčịn!?      Vas       pjat... tụnŋan!
+\mb ịak  -(dU)LE bak  -DʒI -n(I) vas       pjat'  tụnŋan
+\ps pron         v               pron      num    num   
+\ge what -loc    find -fut -3sg  2pl.gen.R five.R five  
+
+\ft Where will she find it? You are five... (holds up her hand with five fingers spread out).
+\ph
+\nt i.e. five children who could work, but only the mother works (Vera has a lot of children)
+\ev
+\ru Где найдет, у вас пять...
+\ELANBegin 00:10:16.580
+\ELANEnd 00:10:24.700
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_105
+\ref
+\tx Ńan   ečin      ere  ineŋŋon      biweːtte,         tawụr gurgeten,         tawụrkke   dʒak... jačikkaja
+\mb ńaːn erroːčin  erek ineŋ -Con     bi -WEːČ -R(E)   tawụr gurgeː -tEn      tawụr =kkE dʒak jašik -kEːjE
+\ps adv  pron      pron ?             v                pron  n                pron       ?    n           
+\ge and  prox.qual prox day  -acc.3sg be -gnr  -nonfut this  work   -poss.3pl this  =ptl ***  box.R -aug  
+\ft And like that they live all day, that's their work (gestures towards kitchen with TV), that big box!
+\ev
+\ru И вот так целымы днями живут, и вот эта работа у них, вот этот ящик.
+\ELANBegin 00:10:24.700
+\ELANEnd 00:10:33.380
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_106
+\ref
+\tx Guːnem,           tawụr tože  taman.
+\mb goːn -R(E)   -m   tawụr tože   taman  
+\ps v                 pron  ptl    n      
+\ge say  -nonfut -1sg this  also.R payment
+\ft I say, that's also money.
+\ev
+\ru Говорю вот это тоже деньги.
+\ELANBegin 00:10:33.380
+\ELANEnd 00:10:37.060
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_107
+\ref
+\tx Potom, babuška      tamadʒildʒin              emdʒir,        tala  taŋdʒir       isčoːtčikle.
+\mb potom  babuška       tam -D    -L    -DʒI -n(I) em   -DʒI -r   talal taŋ  -DʒI -r   sčotčik   -(dU)LE
+\ps adv    n             v                          v              v     v              n                
+\ge then.R grandmother.R pay -prog -inch -fut -3sg  come -fut -3pl shine read -fut -3pl counter.R -loc   
+\ft And then "granny will pay" they come, they read it there in the counter.
+\ph
+\nt She gestures towards the corridor here (at least, that's what I think now, 7 years after the recording), where the electricity counter is probably located; i.e. they read the amount that needs
+to be paid in the counter.
+\ev
+\ru Потом бабушка будет платить, придут, читают в счетчике.
+\ELANBegin 00:10:37.060
+\ELANEnd 00:10:43.800
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_108
+\ref
+\tx Adịː...
+\mb adịː    
+\ps ?       
+\ge how.much
+\ft How much they have added up.
+\ev
+\ru (Сколько) накрутили.
+\ELANBegin 00:10:43.800
+\ELANEnd 00:10:49.760
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_109
+\ref
+\tx Pensijawunda                abal, kolxoznajda          ačča, devjanosto sedmom    olloːttiwu           tala.
+\mb pensija   -WUn         =DE  abal kolxoznyj       =DE  ačča devjanosto sed'mom   hollot -RI  -W        tarak -(dU)LE
+\ps n                           adj  adj                  ptl  num        adj       v                     pron         
+\ge pension.R -poss.1pl.ex =ptl few  coll.farm.adj.R =ptl neg  ninety.R   seventh.R go     -pst -poss.1sg dist  -loc   
+\ft My pension is small, there is none from the collective farm, in the year '97 I went there.
+\ph
+\nt i.e. they didn't take into account all the years that she worked in the collective farm, so she only gets the minimal state pension; and of course she means "my pension" is small, even though
+she says "our pension"
+\ev
+\ru Пенсия у меня маленкьая колхозой нету, в 97м ходила там/туда.
+\ELANBegin 00:10:49.760
+\ELANEnd 00:10:59.880
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_110
+\ref
+\tx
+\ft They burned the archive, now how about that!
+\ev
+\ru Сожгли архив, ну здравствуйте!
+\ELANBegin 00:10:59.880
+\ELANEnd 00:11:07.120
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_111
+\ref
+\tx
+\ft Why?
+\ev
+\ru
+\ELANBegin 00:11:07.120
+\ELANEnd 00:11:09.880
+\ELANParticipant BP
+
+\id Tylkanova_Lidija_Gavrilevna_2_112
+\ref
+\tx
+\ft They burned the archive who worked in Twajan, who worked in the collective farm, these now don't have any pension from the collective farm!
+\ev
+\ru Архив сожгли кто в Тваяне работали, которые счас работали в колхозе, у них-то колхозных пенсий ачча!
+\ELANBegin 00:11:09.880
+\ELANEnd 00:11:20.380
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_113
+\ref
+\tx
+\ft none?
+\ev
+\ru
+\ELANBegin 00:11:20.380
+\ELANEnd 00:11:20.820
+\ELANParticipant BP
+
+\id Tylkanova_Lidija_Gavrilevna_2_114
+\ref
+\tx I     minŋida                ačča!
+\mb i     min     -ŋI        =DE  ačča
+\ps conj  pron                    ptl 
+\ge and.R 1sg.obl -pred.poss =ptl neg 
+\ft And I don't have any (lit. mine is not).
+\ev
+\ru И моего тоже нету.
+\ELANBegin 00:11:20.820
+\ELANEnd 00:11:24.540
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_115
+\ref
+\tx
+\ft Now what is that?!
+\ev
+\ru
+\ELANBegin 00:11:24.540
+\ELANEnd 00:11:26.220
+\ELANParticipant BP 
+
+\id Tylkanova_Lidija_Gavrilevna_2_116
+\ref
+\tx
+\ft Well, that's what they told me there in the district administration, they burnt the archive.
+\ph
+\nt she still calls it the "rajispolkom", the district executive committee, the name it had in Soviet times
+\ev
+\ru Вот так и сказали минтеки, там райисполком, сожгли архив.
+\ELANBegin 00:11:26.220
+\ELANEnd 00:11:34.960
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_117
+\ref
+\tx
+\ft oh dear!
+\ev
+\ru
+\ELANBegin 00:11:34.960
+\ELANEnd 00:11:36.360
+\ELANParticipant BP 
+
+\id Tylkanova_Lidija_Gavrilevna_2_118
+\ref
+\tx Kak.budto.by dʒebdeji                gasčin           muːmaga!
+\mb kak.budto.by dʒeb -DE       -J       ga   -sčI   -n(I) bumaga 
+\ps conj         v                       v                 n      
+\ge as.if.R      eat  -purp.cvb -prfl.sg take -conat -3sg  paper.R
+\ft As if paper wants to eat!
+\ph
+\nt i.e. they burnt the archive (the paper) as if it were costly to maintain it, as if the paper needs to be fed - i.e. there was absolutely no reason to burn it
+\ev
+\ru
+\ELANBegin 00:11:36.360
+\ELANEnd 00:11:43.320
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_119
+\ref
+\tx
+\ft oh dear
+\ev
+\ru
+\ELANBegin 00:11:43.320
+\ELANEnd 00:11:46.280
+\ELANParticipant BP 
+
+\id Tylkanova_Lidija_Gavrilevna_2_120
+\ref
+\tx Guːnem
+\mb goːn -R(E)   -m  
+\ps v                
+\ge say  -nonfut -1sg
+\ft I say...
+\ev
+\ru Говорю
+\ELANBegin 00:11:46.280
+\ELANEnd 00:11:47.580
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_121
+\ref
+\tx
+\ft bad
+\ev
+\ru
+\ELANBegin 00:11:47.580
+\ELANEnd 00:11:48.440
+\ELANParticipant BP
+
+\id Tylkanova_Lidija_Gavrilevna_2_122
+\ref
+\tx ...žalujdʒim        ŋiːtkide.
+\mb žaluj      -DʒI -m   ŋiː -t(E)kI =DE 
+\ps v                    pron            
+\ge complain.R -fut -1sg who -all    =ptl
+\ft ... I will complain to somebody.
+\ev
+\ru ...жаловаться буду кому-нибудь
+\ELANBegin 00:11:48.460
+\ELANEnd 00:11:51.920
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_123
+\ref
+\tx ...olekčiddʒoːtte          erek načalnikale
+\mb olekči -D    -WEːČ -R(E)   erek načalnik -L  =eː  
+\ps v                          pron n                 
+\ge cheat  -prog -gnr  -nonfut prox boss.R   -pl =emph
+\ft Like that they cheat, these bosses!
+\ev
+\ru Так обману(ют)... 
+\ELANBegin 00:11:51.920
+\ELANEnd 00:11:57.000
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_124
+\ref
+\tx Načalnikal      olekčiddʒoːtte.
+\mb načalnik -E  -L  olekči -D    -WEːČ -R(E)  
+\ps n                v                         
+\ge boss.R   -ep -pl cheat  -prog -gnr  -nonfut
+\ft The bosses cheat.
+\ev
+\ru Начальники обманывают
+\ELANBegin 00:11:57.000
+\ELANEnd 00:12:01.920
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_125
+\ref
+\tx ...dʒụːγakụn,         mindu        i     syn   Olegtu
+\mb dʒụː  -GE    -WUn         min     -DU  i     syn   Oleg -DU 
+\ps n                         pron         conj  n     n        
+\ge house -desig -poss.1pl.ex 1sg.obl -dat and.R son.R Oleg -dat
+\ft In the year 2006 they promised us a house, for me and my son Oleg.
+\ev  
+\ru В каком, в шестом году обещали... (квартиру нам, мне и сыну Олегу).
+\ELANBegin 00:12:01.920
+\ELANEnd 00:12:11.220
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_126
+\ref
+\tx
+\ft Arkhipkin and Loginov (said) "we'll give (you a flat) over there, where the hostel is", I don't know where that is.
+\ph
+\nt only one Even word: tardala
+\ev
+\ru Архипкин и Логинов тардала дадим, где общежитие, не знаю, где это.
+\ELANBegin 00:12:11.220
+\ELANEnd 00:12:21.380
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_127
+\ref
+\nt in the next section she complains in Russian that they didn't give her the house they had promised
+\ev
+\ru
+\ELANBegin 00:12:21.380
+\ELANEnd 00:12:30.380
+\ELANParticipant
+
+\id Tylkanova_Lidija_Gavrilevna_2_128
+\ref
+\tx ....  babuška      ewinedʒim.
+\mb *.... babuška       ewiː -nE     -DʒI -m  
+\ps ?     n             v                     
+\ge ***   grandmother.R play -intent -fut -1sg
+\ft Now all, there my granddaughter went out, Oksana, "granny, I'll go to play".
+\ev
+\ru Час все вон внучка пошла гулять, Оксана, ... (бабушка пойду играть).
+\ELANBegin 00:15:44.520
+\ELANEnd 00:15:51.090
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_129
+\ref
+\tx Guːnem            tolko  eniken           gọrụ biš,       dʒebdejikkeda,                    obeddaji.
+\mb goːn -R(E)   -m   tol'ko e   -niken       gọrụ bi -R       dʒeb -DE       -J       =kkE =DE  obed    -DE       -J      
+\ps v                 adv    v                adv  v           v                                 v                         
+\ge say  -nonfut -1sg only.R neg -fut.proh.sg long be -neg.cvb eat  -purp.cvb -prfl.sg =ptl =ptl lunch.R -purp.cvb -prfl.sg
+\ft I say "only don't be long, you need to eat, to have lunch, right".
+\ft
+\ev
+\ru Говорю только не будь долго, покушаешь же, обедаешь же (кушала и обедала)
+\ELANBegin 00:15:51.090
+\ELANEnd 00:15:56.880
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_130
+\ref
+\tx
+\ft "I'll go to my friend..."
+\ev
+\ru Пойду к подружке...
+\ELANBegin 00:15:56.880
+\ELANEnd 00:15:59.400
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_131
+\ref
+\tx Guːnem,           čas, urli,        erekteken     biddʒoːtten,                Ksjuša.
+\mb goːn -R(E)   -m   čas hor -LI      erek =t(E)kEn bi -D    -WEːČ -R(E)   -n(I) Ksjuša 
+\ps v                 ptl v            pron          v                            ?      
+\ge say  -nonfut -1sg ptl go  -imp.2sg prox =restr   be -prog -gnr  -nonfut -3sg  Ksjusha
+\ft I say "OK, go", only this one is usually (here), Ksjusha.
+\ev
+\ru Говорю ладно, иди, вот это только бывает Ксюша.
+\ELANBegin 00:15:59.400
+\ELANEnd 00:16:03.980
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_132
+\ref
+\tx Večerom         ewineweːtten.
+\mb večerom          ewiː -nE     -WEːČ -R(E)   -n(I)
+\ps adv              v                               
+\ge in.the.evening.R play -intent -gnr  -nonfut -3sg 
+\ft In the evening she goes to play.
+\ev
+\ru Вечером идет играть.
+\ELANBegin 00:16:03.980
+\ELANEnd 00:16:08.100
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_133
+\ref
+\tx Guːnem            "ekensikke            gurgeːwčidden".
+\mb goːn -R(E)   -m   eken   -s(I)     =kkE gurgeːwči -D    -R(E)   -n(I)
+\ps v                 n                     v                            
+\ge say  -nonfut -1sg mother -poss.2sg =ptl work      -prog -nonfut -3sg 
+\ft I say "your mother works".
+\ev
+\ru Говорю "мать же твоя работает".
+\ELANBegin 00:16:08.100
+\ELANEnd 00:16:11.500
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_134
+\ref
+\tx ...dʒụːtkiji          emdʒin.
+\mb dʒụː  -t(E)kI -J       em   -DʒI -n(I)
+\ps n                      v              
+\ge house -all    -prfl.sg come -fut -3sg 
+\ft She only comes home after 6h00 (lit. in the seventh hour).
+\ev
+\ru Она только в седьмом часу... (домой к себе придет).
+\ELANBegin 00:16:11.500
+\ELANEnd 00:16:16.320
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_135
+\ref
+\tx Guːnem            "belgerelle          ekmuro"
+\mb goːn -R(E)   -m   bel  -Gr(E) -(LI)lrE eken   -WUr     =eː  
+\ps v                 v                    n                    
+\ge say  -nonfut -1sg help -hab   -imp.2pl mother -prfl.pl =emph
+\ft I say "help your mother!".
+\ph
+\nt Rimma very much insisted on the =o in "ekmuro" and said it expressed intensity, emphasis on the word "your mother"
+\ev
+\ru
+\ELANBegin 00:16:16.320
+\ELANEnd 00:16:19.740
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_136
+\ref
+\tx Ekentenda             neːiweːtten,              babuškaw          ịadụ   emeweːčis                 umekkem?
+\mb eken   -tEn      =DE  neːgi -WEːČ -R(E)   -n(I) babuška       -W   ịak  -DU  emeːn -WEːČ -R(E)   -s   omekken -W  
+\ps n                     v                         n                  pron      v                        n           
+\ge mother -poss.3pl =ptl scold -gnr  -nonfut -3sg  grandmother.R -acc what -dat leave -gnr  -nonfut -2pl alone   -acc
+\ft Their mother also scolds them, "Why do you leave granny alone?".
+\ev
+\ru Мать их ругается тоже, "бабушку зачем оставляете одну?".
+\ELANBegin 00:16:19.740
+\ELANEnd 00:16:27.800
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_137
+\ref
+\nt then she talks about specific family members in Russian, her daughter in law, telling me who they are
+\ev
+\ru
+\ELANBegin 00:16:28.980
+\ELANEnd 00:16:36.260
+\ELANParticipant
+
+\id Tylkanova_Lidija_Gavrilevna_2_138
+\ref
+\tx I     tewteŋunda                    biweːtten,             ereger.
+\mb i     tewte   -ŋ   -WUn         =DE  bi -WEːČ -R(E)   -n(I) ereger
+\ps conj  n                              v                      adv   
+\ge and.R berries -aln -poss.1pl.ex =ptl be -gnr  -nonfut -3sg  always
+
+\ft And we always have berries.
+\ph
+\ev
+\ru И ягода у нас бывает всегда.
+\ELANBegin 00:17:23.700
+\ELANEnd 00:17:28.540
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_139
+\ref
+\tx
+\ft And I cook jam, mors (fruit drink made of berries).
+\ph
+\nt note the Even accusative case on "varenja"
+\ev
+\ru И вареняв, морс сварю.
+\ELANBegin 00:17:28.540
+\ELANEnd 00:17:32.460
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_140
+\ref
+\tx Goːweːttem,              tewlelre,            prinesete,      morsiŋgasanda                           oledʒim         ili  tam     kiselja.
+\mb goːn -WEːČ -R(E)   -m   tewte   -LE -(LI)lrE prinesete       mors          -ŋ   -GE    -sEn      =DE  oleː -DʒI -m   ili  tam     kiselja     
+\ps v                       v                    v               n                                        v              conj adv     n           
+\ge say  -gnr  -nonfut -1sg berries -vr -imp.2pl bring.pfv.2pl.R fruit.drink.R -aln -desig -poss.2pl =ptl cook -fut -1sg or.R there.R kissel.gen.R
+\ft I always say "go gather berries, bring them, I will cook mors for you or kissel (think jelly)".
+\ev
+\ru Говорю всегда, идите за ягодой принесете, морс вам сварю, или там киселя.
+\ELANBegin 00:17:32.460
+\ELANEnd 00:17:39.500
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_141
+\ref
+\tx
+\ft For them/to them.
+\ev
+\ru Вот им.
+\ELANBegin 00:17:39.500
+\ELANEnd 00:17:43.360
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_142
+\ref
+\tx Tewleweːtte.
+\mb tewte   -LE -WEːČ -R(E)  
+\ps v                        
+\ge berries -vr -gnr  -nonfut
+\ft They gather berries.
+\ev
+\ru Идут за ягодой.
+\ELANBegin 00:17:43.360
+\ELANEnd 00:17:45.820
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_143
+\ref
+\tx Guːnem            ọːn eŋutu           ibgeneli,                 na   uxu.
+\mb goːn -R(E)   -m   ọːn eŋut        -W   ibge     -nE     -LI      na   uxu              
+\ps v                 pron n                v                         postpos n                
+\ge say  -nonfut -1sg how wild.garlic -acc pull.out -intent -imp.2sg on.R fish.soup.acc.f.R
+\ft I say "Go and pick some wild garlic, for the fish soup".
+\ev
+\ru Говорю, черемшу иди нарви, на уху.
+\ELANBegin 00:17:45.820
+\ELANEnd 00:17:51.500
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_144
+\ref
+\tx
+\ft Here, (you just have to) climb up the hill, over there
+\ev
+\ru Тут-то горку поднять, вон..
+\ELANBegin 00:17:51.500
+\ELANEnd 00:17:54.840
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_145
+\ref
+\tx A     takradawur                    tegele           gadʒịwaːttu,             mụranịč,   vot    Ksjuša.
+\mb a.R   tak  -r(E) -DE       -WUr     tege     -(dU)LE ga   -nE     -WEːČ -(R)U   mụran -E  -Č   vot    Ksjuša 
+\ps ?     v                             rel.n            v                          n              ptl    ?      
+\ge but.R salt -vr   -purp.cvb -prfl.pl distance -loc    take -intent -gnr  -1pl.ex horse -ep -ins here.R Ksjusha
+\ft But to salt (it) we go far to take it, by horse, Ksjusha here.
+\ph
+\nt i.e. when they want just a little bit of cheremsha for the soup, it's sufficient to climb up the hill to pick it, but if they want bigger quantities, enough to preserve it for use in winter, they go
+further away, by horse
+\ev
+\ru А чтобы солить далеко ходим брать, на лошадях, вот Ксюша.
+\ELANBegin 00:17:54.840
+\ELANEnd 00:18:01.940
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_146
+\ref
+\tx
+\ft oh, by horse?
+\ev
+\ru
+\ELANBegin 00:18:01.940
+\ELANEnd 00:18:03.660
+\ELANParticipant BP
+
+\id Tylkanova_Lidija_Gavrilevna_2_147
+\ref
+\tx Mụranịč,   mụrandiwaːttan.
+\mb mụran -E  -Č   mụran -DI -WEːČ -R(E)   -n(I)
+\ps n              v                            
+\ge horse -ep -ins horse -vr -gnr  -nonfut -3sg 
+\ft By horse, she goes by horse.
+\ph
+\nt should be murandAwa:ttan (verbalizer -DE "perform an action with N"), but she does say murandIwaːttan (which makes it the verbalizer that means "speak a language" - actually, makes
+you wonder about the multilingualism in the past, if they have a verbalizer specific for "speak a language...")
+\ev
+\ru На лошадях, едет на лошади.
+\ELANBegin 00:18:03.660
+\ELANEnd 00:18:08.700
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_148
+\ref
+\tx ...takradawur.
+\mb tak  -r(E) -DE       -WUr    
+\ps v                            
+\ge salt -vr   -purp.cvb -prfl.pl
+\ft To salt it for winter.
+\ev
+\ru На зиму... (солить).
+\ELANBegin 00:18:08.700
+\ELANEnd 00:18:15.380
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_149
+\ref
+\tx Tiːkkel    ịaktatit      ač.
+\mb tiek =gEl   ịak  =DE  =tIt ač 
+\ps adv         pron           ptl
+\ge now  =coord what =ptl =ptl neg
+\ft Now there's nothing left.
+\ev
+\ru Сейчас-то ничего нету.
+\ELANBegin 00:18:15.380
+\ELANEnd 00:18:18.360
+\ELANParticipant LGT
+
+\id Tylkanova_Lidija_Gavrilevna_2_150
+\ref
+\tx Aččada    eŋut,      ịala        bakčinni?
+\mb ačča =DE  eŋut        ịak  -(dU)LE bak  -DʒI -nrI
+\ps ptl       n           pron         v             
+\ge neg  =ptl wild.garlic what -loc    find -fut -2sg
+\ft There's no more wild garlic, where will you find (it)?
+\ph
+\nt wild garlic normally grows in June, and the recording was done in mid-July
+\ev
+\ru Нету черемши, где найдешь.
+\ELANBegin 00:18:18.360
+\ELANEnd 00:18:25.260
+\ELANParticipant LGT
+
+
+\ELANMediaURL file:///D:/Brigitte PAKENDORF/My Documents/LANGUAGE PROJECTS/Even
+project/fieldwork_Kamchatka_2016/Narrative_recordings/07_Tylkanova_Lidija_Gavrilevna_2_Esso_150709/Tylkanova_Lidija_Gavrilevna_2_Marantz.WAV
+\ELANMediaMIME audio/x-wav

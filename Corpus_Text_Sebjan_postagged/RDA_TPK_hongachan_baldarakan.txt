@@ -1,0 +1,1252 @@
+\_sh v3.0  1147 Text
+
+\id RDA_TPK_hongachan_baldarakan_000_metadata
+\ref Recorded on 03 March 2010 in Sebjan-Küöl by Natalia Aralova and Brigitte Pakendorf  at the flat rented by NA and BP. The two women
+were invited to our place to discuss some Even traditions and customs, and initially we had hoped it would be a conversation between the
+two of them. BP & NA were sitting close to them. BP asked a lot of questions, so they were looking at her (though she cannot be seen in the
+first part of the recording). For ease of trancription and annotation, the recordings were cut into ten separate files. This one
+"RDA_TPK_birth" is the second part.
+\qu Transcribed (pen & paper) by Ija Vasil'evna Krivoshapkina, transcribed in ELAN by BP, translated into Russian by IVK, glossed by BP. Funding by the
+Volkswagen Foundation (DoBeS grant). Speaker abbreviations = RDA, TPK.
+\ref Raisa Dmitrievna Alekseeva was born 10 Feb 1961, so she was 49 at the time of the recording. She holds a university degree and was working
+in the school as psychologist at the time of the recording; every summer, however, she went to the reindeer herd as a "tent worker"
+(chumrabotnitsa). She is the sister of Innokentij Dmitrievich Burtsev.
+\ref Tatjana Petrovna has higher education, is a teacher at the school, was 46 years old at times of recording. She is the aunt of Ija Vasil'evna
+Krivoshapkina.
+
+\id RDA_TPK_hongachan_baldarakan_001
+\tx Oːtel     omende    bïraːhïnnïk bihin,            ewinek?
+\mb oːtel      omen =DE  prazdnik  bi -RI  -n(I)     ewiː -ČEk
+\ps adv        num       n         v                 v        
+\ge previously one  =ptl holiday.R be -pst -poss.3sg play -nr 
+\ft (intended) Previously, was there just one holiday?
+\ru
+\ELANBegin 00:00:00.010
+\ELANEnd 00:00:07.000
+\ELANParticipant BP
+
+\id RDA_TPK_hongachan_baldarakan_002
+\tx ee, bihin
+\mb ee bi -RI  -n(I)    
+\ps interj v                
+\ge eh be -pst -poss.3sg
+\ft yes, there was
+\ru
+\ELANBegin 00:00:07.000
+\ELANEnd 00:00:07.780
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_003
+\tx Omen, omenńun    anŋịla
+\mb omen omen =ńUn  
+\ps num  num        
+\ge one  one  =restr
+\ft (intended) only one in a year
+\ph
+\nt i.e. was there only one holiday per 12-month period?
+\ru
+\ELANBegin 00:00:07.780
+\ELANEnd 00:00:11.490
+\ELANParticipant BP
+
+\id RDA_TPK_hongachan_baldarakan_004
+\tx anŋanịla
+\mb anŋan -(dU)LE
+\ps n            
+\ge year  -loc   
+\ft in a year
+\ru
+\ELANBegin 00:00:11.490
+\ELANEnd 00:00:12.440
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_005
+\tx anŋanịla,   irildu,     iril..
+\mb anŋan -(dU)LE ireli  -DU  ireli 
+\ps n             n           n     
+\ge year  -loc    summer -dat summer
+\ft in a year, in summer...
+\ru
+\ELANBegin 00:00:12.440
+\ELANEnd 00:00:13.940
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_006
+\tx ewi... ewi...
+\mb ewiː ewiː
+\ps v    v   
+\ge play play
+
+\ru
+\ELANBegin 00:00:13.940
+\ELANEnd 00:00:14.480
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_007
+\tx Ewinekńun         bihin?
+\mb ewiː -ČEk =ńUn   bi -RI  -n(I)    
+\ps v                v                
+\ge play -nr  =restr be -pst -poss.3sg
+\ft (intended) was there only the ewinek (the summer solstice celebration)?
+\ru
+\ELANBegin 00:00:14.480
+\ELANEnd 00:00:16.280
+\ELANParticipant BP
+
+\id RDA_TPK_hongachan_baldarakan_008
+\tx ewinekńun         bakaldawatta                 mut    ...
+\mb ewiː -ČEk =ńUn   bak  -(E)ldE -WEːČ -R(E)   mut   
+\ps v                v                          pron  
+\ge play -nr  =restr find -soc    -gnr  -nonfut 1pl.in
+\ft they only meet at the summer solstice celebration, we/our....
+\ph
+\gr bakaldawatta = standard Even, in Sebjan it would normally be bakaldawrar
+\nt she probably wanted to say something more, perhaps "our ancestors"?
+\ru только на эвинеке встречают
+\ELANBegin 00:00:16.280
+\ELANEnd 00:00:19.150
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_009
+\tx Bakaldadʒak       bihin,            ee, irile.
+\mb bak  -(E)ldE -ČEk bi -RI  -n(I)     ee
+\ps v                 v                 interj
+\ge find -soc    -nr  be -pst -poss.3sg eh
+\ft there was a meeting, in summer
+\ph
+\gr note the metathesized vowels, ireli --> irile
+\ru встреча была
+\ELANBegin 00:00:19.150
+\ELANEnd 00:00:21.330
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_010
+\tx irildu
+\mb ireli  -DU 
+\ps n          
+\ge summer -dat
+\ft in summer
+\ru
+\ELANBegin 00:00:21.330
+\ELANEnd 00:00:22.150
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_011
+\tx eh, er   nelkenidu         ọrọlčịmŋal
+\mb eh erek nelkeni      -DU  ọrọlčị        -mŋE  -L 
+\ps interj pron n                 v                      
+\ge eh prox early.spring -dat herd.reindeer -agnr -pl
+\ft in early spring the reindeer herders
+\ru это весной оленеводы
+\ELANBegin 00:00:22.150
+\ELANEnd 00:00:26.110
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_012
+\tx Nelkenidu         ọrọlčịmŋa   bakaldadʒak       biwren,         họŋŋačan ihureken.
+\mb nelkeni      -DU  ọrọlčị        -mŋE  bak  -(E)ldE -ČEk bi -Gr(E) -n(I) họnŋačan      isu  -REk      -E  -n(I)    
+\ps n                 v                   v                 v               n             v                           
+\ge early.spring -dat herd.reindeer -agnr find -soc    -nr  be -hab   -3sg  reindeer.fawn grow -cond.cvb -ep -poss.3sg
+\ft in spring there is the meeting of the reindeer herders, when the reindeer fawns are born (lit. when they grow)
+\ph
+\gr ọrọlčịmŋa bakaldadʒak is incorrect, should be bakaldadʒakan
+\ru весной встреча оленеводов бывает когда вырастает/рождается олененек
+\ELANBegin 00:00:26.110
+\ELANEnd 00:00:31.550
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_013
+\tx Ee, tiːke erek irek  ịlaːn, he?
+\mb ee tiek erek irek  ịlaːn he 
+\ps interj adv  pron pron  n     interj
+\ge eh now  prox which moon  huh
+\nt now, this is which month, huh?
+\ru сейчас, это какой месяц
+\ELANBegin 00:00:31.550
+\ELANEnd 00:00:35.250
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_014
+\tx mart?
+\mb mart   
+\ps n      
+\ge March.R
+
+\ru
+\ELANBegin 00:00:35.250
+\ELANEnd 00:00:35.640
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_015
+\tx mart
+\mb mart   
+\ps n      
+\ge March.R
+
+\ru
+\ELANBegin 00:00:35.640
+\ELANEnd 00:00:36.500
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_016
+\tx ebedit          ọːn bihin?
+\mb ewen -DI   -Č   ọːn bi -RI  -n(I)    
+\ps n               pron v                
+\ge Even -adjr -ins how be -pst -poss.3sg
+\ft how was it in Even?
+\ru по-эвенски как было?
+\ELANBegin 00:00:36.500
+\ELANEnd 00:00:40.110
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_017
+\tx eh, ọːn bihin,            alallị?
+\mb eh ọːn bi -RI  -n(I)     alat -LI     
+\ps interj pron v                 v            
+\ge eh how be -pst -poss.3sg wait -imp.2sg
+\ft hmm, how was it, wait...
+\ru
+\ELANBegin 00:00:40.110
+\ELANEnd 00:00:44.910
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_018
+\tx janvar    er   makuškas
+\mb janvar'   erek makuška         -s(I)    
+\ps n         pron n                        
+\ge January.R prox crown.of.head.R -poss.2sg
+\ft January - that's the crown of your head
+\ru январь это макушка твоя
+\ELANBegin 00:00:44.910
+\ELANEnd 00:00:46.850
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_019
+\tx ịawa?
+\mb ịak  -W   -E 
+\ps pron         
+\ge what -acc -ep
+\ft
+\ru
+\ELANBegin 00:00:46.850
+\ELANEnd 00:00:47.780
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_020
+\tx owri
+\mb ew      -RI      
+\ps v                
+\ge go.down -impf.ptc
+\ft the "going-down" (month)
+\ph very much ọ
+\gr
+\nt these are the "official" standard Even names of the months, moving along the body, up one side, over the crown of the head and then going
+down again
+\ru
+\ELANBegin 00:00:47.780
+\ELANEnd 00:00:48.670
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_021
+\tx owri,             tarịt eli          tikčin
+\mb ew      -RI       tarịt erek -(dU)LI tik  -DʒI -n(I)
+\ps v                 adv   pron         v              
+\ge go.down -impf.ptc then  prox -prol   fall -fut -3sg 
+
+\ft going down, then it goes down here
+\ph
+\gr ow is a standard Even form, so RDA repeated it with the Sebjan dialectal word
+\ru спускающийся, потом посюда спустится
+\ELANBegin 00:00:48.670
+\ELANEnd 00:00:50.250
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_022
+\tx owri              miːr,   owri              miːr
+\mb ew      -RI       miːr     ew      -RI       miːr    
+\ps v                 n        v                 n       
+\ge go.down -impf.ptc shoulder go.down -impf.ptc shoulder
+\ft the "going-down shoulder"
+\ph
+\gr miːr is a Sebjan dialectal word (or rather, a common Even word, not just standard Even), though it is being replaced by the Russian word
+plečo (said IVK, but then did say that she would say "miːri maːram" if she wanted to tell her mother she hurt her shoulder)
+\ru опускающееся плечо
+\ELANBegin 00:00:50.250
+\ELANEnd 00:00:53.400
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_023
+\tx owri              miːr
+\mb ew      -RI       miːr    
+\ps v                 n       
+\ge go.down -impf.ptc shoulder
+\ft the "going-down shoulder"
+\ru
+\ELANBegin 00:00:53.400
+\ELANEnd 00:00:54.530
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_024
+\tx tiːk owri              miːr?
+\mb tiek ew      -RI       miːr    
+\ps adv  v                 n       
+\ge now  go.down -impf.ptc shoulder
+\ft now is the "going-down shoulder"?
+\ru сейчас опускающееся плечо?
+\ELANBegin 00:00:54.530
+\ELANEnd 00:00:55.700
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_025
+\tx mart
+\mb mart   
+\ps n      
+\ge March.R
+
+\ru
+\ELANBegin 00:00:55.700
+\ELANEnd 00:00:56.870
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_026
+\tx owri              miːr    mart
+\mb ew      -RI       miːr     mart   
+\ps v                 n        n      
+\ge go.down -impf.ptc shoulder March.R
+\ft the "going-down shoulder" is March
+\ph
+\nt actually, "owri miːr" is February says IVK, who is a teacher of Even at the local school and therefore has to right the date in Even (though she
+confessed that she also gets confused and has to look it up in the books, these names of months are clearly not in use here in Sebjan)
+\ru
+\ELANBegin 00:00:56.870
+\ELANEnd 00:00:58.570
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_027
+\tx tarịt eli          tikreken?
+\mb tarịt erek -(dU)LI tik  -REk      -E  -n(I)    
+\ps adv   pron         v                           
+\ge then  prox -prol   fall -cond.cvb -ep -poss.3sg
+\ft and if one goes down here?
+\ru а если сюда спустится
+\ELANBegin 00:00:58.570
+\ELANEnd 00:01:01.560
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_028
+\tx o...    owri              iečen?
+\mb o       ew      -RI       iečen
+\ps postpos v                 n    
+\ge about.R go.down -impf.ptc elbow
+\ft the "going-down elbow"
+\ph
+\gr iečen is a standard Even word, but IVK didn't know any Sebjan word for 'elbow'
+\ru опускающаяся локоть
+\ELANBegin 00:01:01.560
+\ELANEnd 00:01:03.720
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_029
+\tx mm
+\ru
+\ELANBegin 00:01:03.720
+\ELANEnd 00:01:04.470
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_030
+\tx owri              iečen
+\mb ew      -RI       iečen
+\ps v                 n    
+\ge go.down -impf.ptc elbow
+\ft the "going-down elbow"
+\ph
+\gr this would be March
+\ru спускающаяся локоть
+\ELANBegin 00:01:04.470
+\ELANEnd 00:01:05.960
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_031
+\tx Tiːk er   ịlaːn, tiːk emče        ịlaːn mụdakrakan,                   gịa ịlaːn emneken             ịal,
+\mb tiek erek ịlaːn tiek em   -čE     ịlaːn mụdak  -REk      -E  -n(I)     gịa  ịlaːn em   -REk      -E  -n(I)     ịak  -L 
+\ps adv  pron n     adv  v            n     v                              adj  n     v                            pron    
+\ge now  prox moon  now  come -pf.ptc moon  finish -cond.cvb -ep -poss.3sg next moon  come -cond.cvb -ep -poss.3sg what -pl
+
+\tx ńamịčal         baldadʒịr,      tarakam,      tarakam       nọnap    baldača        họŋŋačan
+\mb ńamịčan         -L  balda   -DʒI -r   tarakam       tarakam       nọnap      balda   -čE     họnŋačan     
+\ps n                   v                 adv           adv           adj        v               n            
+\ge female.reindeer -pl be.born -fut -3pl in.those.days in.those.days the.first. be.born -pf.ptc reindeer.fawn
+
+\tx baldarakan                      hebdʒenek
+\mb balda   -REk      -E  -n(I)     hebdʒen -ČEk
+\ps v                               n           
+\ge be.born -cond.cvb -ep -poss.3sg funny   -nr 
+\ft Now in this month, when this coming month ends, when the next month comes, the reindeer does give birth, then when the first reindeer
+fawn is born there is a celebration.
+\ph she mumbles something after mụdakrakan, but that is not a word
+\gr mụdak is a verb with different roots for transitive and intransitive; mụdak = transitive, mụdan = intransitive, so here it should be ịlaːn
+mụdnakan - but this latter form is practically not used anymore
+\ru когда этот месяц, сейчас пришедший месяц закончит, когда придет 2й месяц, отелятся важенки, тогда первый родившийся олененек,
+когда родится так праздник
+\ELANBegin 00:01:05.960
+\ELANEnd 00:01:28.430
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_032
+\tx Ah dʒe
+\ru
+\ELANBegin 00:01:28.430
+\ELANEnd 00:01:29.530
+\ELANParticipant BP
+
+\id RDA_TPK_hongachan_baldarakan_033
+\tx bïraːhïnnïk
+\mb prazdnik 
+\ps n        
+\ge holiday.R
+
+\ru
+\ELANBegin 00:01:29.530
+\ELANEnd 00:01:29.970
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_034
+\tx họŋŋačan bïr...  ịan           bidʒin        hebdʒekedʒeken                  bidʒin
+\mb họnŋačan      *bï -L  ịak  -n(I)     bi -DʒI -n(I) hebdʒek   -E  -ČEk -E  -n(I)     bi -DʒI -n(I)
+\ps n             ?       pron           v             v                                v            
+\ge reindeer.fawn *** -pl what -poss.3sg be -fut -3sg  celebrate -ep -nr  -ep -poss.3sg be -fut -3sg 
+\ft it will be the holiday of the reindeer fawn
+\ru будет праздник олененка
+\ELANBegin 00:01:29.970
+\ELANEnd 00:01:34.180
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_035
+\tx Ah, aha
+\ru
+\ELANBegin 00:01:34.180
+\ELANEnd 00:01:36.120
+\ELANParticipant BP
+
+\id RDA_TPK_hongachan_baldarakan_036
+\tx hebdʒekedʒek
+\mb hebdʒek   -E  -ČEk
+\ps v                 
+\ge celebrate -ep -nr 
+\ft the celebration
+\ru
+\ELANBegin 00:01:36.120
+\ELANEnd 00:01:38.110
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_037
+\tx Tarak uduːr             muttu       tradicija   Zoja Afanasevna ịarịn              tarak mut    dʒaːltị,              mut
+\mb tarak erek -DU  -WUr     mut    -DU  tradicija   Zoja Afanasevna ịa      -RI  -n(I)     tarak mut    dʒaː     -L  -t(I)        mut   
+\ps pron  pron               pron        n           ?    ?          v                      pron  pron   n                         pron  
+\ge dist  prox -dat -prfl.pl 1pl.in -dat tradition.R Zoja Afanasevna do.what -pst -poss.3sg dist  1pl.in relative -pl -poss.1pl.in 1pl.in
+
+\tx upeːlti                     taraw      hịgịːlị
+\mb upeː        -L  -t(I)        tarak -W   hịgịː  -(dU)LI
+\ps n                            pron       n             
+\ge grandmother -pl -poss.1pl.in dist  -acc forest -prol  
+\ft here Zoja Afanasevna has done something that tradition (revived it), our relatives, our grandmothers (used to do something) in the woods
+\ph
+\gr should be tradicijaw, the accusative case
+\ru эту традицию здесь З.А что-то делала, наши родные наши бабушки это по лесам (праздновали)
+\ELANBegin 00:01:38.110
+\ELANEnd 00:01:50.740
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_038
+\tx nulgemetniken
+\mb nulge   -mEČ -nIkEn  
+\ps v                    
+\ge migrate -rec -sim.cvb
+\ft migrating
+\ph
+\gr should be nulgewetniken, nulgemetniken is not a correct Even word, you cannot 'migrate each other'
+\ru кочуя
+\ELANBegin 00:01:50.740
+\ELANEnd 00:01:51.660
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_039
+\tx nulgewetniken            taraw      ịawračal.
+\mb nulge   -WEːČ -nIkEn   tarak -W   ịa      -Gr(E) -čE     -L 
+\ps v                      pron       v                         
+\ge migrate -gnr  -sim.cvb dist  -acc do.what -hab   -pf.ptc -pl
+\ft migrating they did something (probably: celebrated that)
+\ru кочуя что-то делали
+\ELANBegin 00:01:51.660
+\ELANEnd 00:01:54.240
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_040
+\tx Taraw      mut    ọmŋọčọl     mut    baγas  ọmŋọčaːdʒịp,        taraw      Zoja Afanasevna uže
+\mb tarak -W   mut    ọmŋa   -čE     -L  mut    baγas ọmŋa   -čE     -DʒI -p      tarak -W   Zoja Afanasevna uže      
+\ps pron       pron   v                  pron   ptl   v                           pron       ?    ?          adv      
+\ge dist  -acc 1pl.in forget -pf.ptc -pl 1pl.in ptl.Y forget -pf.ptc -fut -1pl.in dist  -acc Zoja Afanasevna already.R
+
+\tx adịː, tụŋŋan anŋanị?
+\mb adịː     tụnŋan anŋan
+\ps ?        num    n    
+\ge how.much five   year 
+\ft that we had forgotten, we probably forgot that, and Zoja Afanasevna already how long, 5 years?
+\ph
+\gr should be ọmŋọčọl bihep, she omitted the auxiliary
+\ru это мы забыли, мы наверно забыл, это Зоя Афанасевна уже сколько, 5 лет
+\ELANBegin 00:01:54.240
+\ELANEnd 00:02:02.350
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_041
+\tx tụnŋan, tụnŋan anŋanị ọːdnị
+\mb tụnŋan tụnŋan anŋan ọː     -n(I)
+\ps num    num    n     v           
+\ge five   five   year  become -3sg 
+\ft five, it's been five years
+\ru уже стало 5 лет
+\ELANBegin 00:02:02.350
+\ELANEnd 00:02:03.220
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_042
+\tx tụnŋan anŋanị ọːdnị   nọŋan tarak
+\mb tụnŋan anŋan ọː     -n(I) nọŋan tarak
+\ps num    n     v            pron  pron 
+\ge five   year  become -3sg  3sg   dist 
+\ft it's been five years now that she
+\ru
+\ELANBegin 00:02:03.220
+\ELANEnd 00:02:05.470
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_043
+\tx emie?  ele?
+\mb emie   erek -(dU)LE
+\ps adv    pron        
+\ge also.Y prox -loc   
+\ft also? here?
+\ru
+\ELANBegin 00:02:05.470
+\ELANEnd 00:02:07.650
+\ELANParticipant BP
+
+\id RDA_TPK_hongachan_baldarakan_044
+\tx ele
+\mb erek -(dU)LE
+\ps pron        
+\ge prox -loc   
+\ft here
+\ru
+\ELANBegin 00:02:07.650
+\ELANEnd 00:02:08.100
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_045
+\tx ele          tiːŋgeren
+\mb erek -(dU)LE tiːn -Gr(E) -E  -n(I)
+\ps pron         v                    
+\ge prox -loc    send -hab   -ep -3sg 
+\ft conducts (the festival) here
+\ru здесь проводить (тиингерен - вести конкурс, концерт)
+\ELANBegin 00:02:08.100
+\ELANEnd 00:02:08.890
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_046
+\tx meːn dʒaːldị
+\mb meːn dʒaː     -L  -DI         
+\ps pron ?                        
+\ge refl relative -pl -dat.prfl.sg
+
+\ft for her relatives
+\ru своим родным
+\ELANBegin 00:02:08.890
+\ELANEnd 00:02:11.850
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_047
+\tx Tadụːr           tar   kụŋal    tar   hebdʒenek,    hebdʒenektu        ịawra        goːli?
+\mb tarak -DU  -WUr     tarak kụŋa  -L  tarak hebdʒen -ČEk hebdʒen -ČEk -DU  ịa      -Gr(E) goːn -LI     
+\ps pron                pron  n         pron  n            n                 v              v            
+\ge dist  -dat -prfl.pl dist  child -pl dist  funny   -nr  funny   -nr  -dat do.what -hab   say  -imp.2sg
+
+\ft there the children do something at that festival, right?
+\ru там дети в этом празднике что-то делают
+\ELANBegin 00:02:11.850
+\ELANEnd 00:02:19.530
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_048
+\tx hịakataw       teguwrer                   haːdụn
+\mb hịakịta -W   teg      -U    -Gr(E) -r   haːdụn   
+\ps n            v                          adv      
+\ge tree    -acc sit.down -caus -hab   -3pl sometimes
+\ft sometimes they plant trees
+\ph
+\nt which seems a bit hard to believe, since at the end of March/early April temperatures are still way below zero
+\ru садят деревя иногда
+\ELANBegin 00:02:19.530
+\ELANEnd 00:02:21.410
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_049
+\tx ehni           tarakam       ọːn ịa.. tiːke
+\mb e   -R(E) -n(I) tarakam       ọːn ịak  tiek
+\ps v               adv           pron pron adv 
+\ge neg -nfut -3sg  in.those.days how what now 
+\ft no, how (can they) now, at this time
+\ru нет как тогда
+\ELANBegin 00:02:21.410
+\ELANEnd 00:02:22.940
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_050
+\tx ee, tradicijaw
+\mb ee tradicija   -W  
+\ps interj n               
+\ge eh tradition.R -acc
+
+\ru
+\ELANBegin 00:02:22.940
+\ELANEnd 00:02:24.030
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_051
+\tx Tarakam       ịaka, tar   irek  tarak konkursal            ọːwrar
+\mb tarakam       ịak  tarak irek  tarak konkurs       -E  -L  ọː     -Gr(E) -r  
+\ps adv           pron pron  pron  pron  n                     v                 
+\ge in.those.days what dist  which dist  competition.R -ep -pl become -hab   -3pl
+
+\ft then there are different competitions
+\ru тогда разные конкурсы бывают
+\ELANBegin 00:02:24.030
+\ELANEnd 00:02:30.530
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_052
+\tx ikeː, tar   irek  tarak zagadkalbụ     ịalbụ
+\mb ikeː tarak irek  tarak zagadka  -L  -W   ịak  -L  -W       
+\ps n    pron  pron  pron  n                 pron              
+\ge song dist  which dist  riddle.R -pl -acc what -pl -poss.1sg
+\ft songs, various riddles and such
+\ru песня и разные загадки и т.д.
+\ELANBegin 00:02:30.530
+\ELANEnd 00:02:35.100
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_053
+\tx ŋenikelbu
+\mb ŋenuken -L  -W  
+\ps n               
+\ge riddle  -pl -acc
+\ft riddles
+\ru загадки
+\ELANBegin 00:02:35.100
+\ELANEnd 00:02:35.990
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_054
+\tx ŋeːlukelbu
+\mb ŋeːluke   -L  -W  
+\ps n                 
+\ge scarecrow -pl -acc
+\ft
+\ph
+\nt she probably wanted to repeat the Even word for 'riddle' that TPK tells her (ŋenukelbu), but did it wrong and the form she used means
+'scarecrow', so IVK commented that this was made-up, this is not really what they do at this celebration; the form ŋeːluke might be derived
+from ŋeːlu with a suffix -kE (not clear what that would be, however)
+\ru
+\ELANBegin 00:02:35.990
+\ELANEnd 00:02:39.600
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_055
+\tx goːmkerelbu              goːmkendʒin           ečin
+\mb goːmken -L  -E  -L  -W   goːn -WkEn -DʒI -n(I) erroːčin 
+\ps n                        v                     pron     
+\ge proverb -pl -ep -pl -acc say  -caus -fut -3sg  prox.qual
+\ft and they make people say proverbs
+\ph
+\gr goːmkendʒin = lit. 'make/let someone say'
+\nt note how she used the standard Even plural in -r (after -n) and then added the usual Sebjan plural -L
+\ru и пословицы заставить сказать
+\ELANBegin 00:02:39.600
+\ELANEnd 00:02:41.540
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_056
+\tx ewedi      zagadkalbụ?
+\mb ewen -DI   zagadka  -L  -W  
+\ps n          n                
+\ge Even -adjr riddle.R -pl -acc
+\ft Even riddles?
+\ru
+\ELANBegin 00:02:41.540
+\ELANEnd 00:02:43.800
+\ELANParticipant NA
+
+\id RDA_TPK_hongachan_baldarakan_057
+\tx ewedilbu           za...
+\mb ewen -DI   -L  -W  
+\ps n                  
+\ge Even -adjr -pl -acc
+\ft Even (riddles)
+\ru
+\ELANBegin 00:02:43.800
+\ELANEnd 00:02:48.980
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_058
+\tx Ah bu     net, er   anŋanịdụ họŋŋačan bakaldadʒa...
+\mb ah bu     net  erek anŋan -DU  họnŋačan      bak  -(E)ldE -D    -E 
+\ps interj pron   ptl  pron n          n             v                     
+\ge ah that.Y no.R prox year  -dat reindeer.fawn find -soc    -prog -ep
+\ft (intended) and will the reindeer fawn celebration take place this year?
+\ru
+\ELANBegin 00:02:48.980
+\ELANEnd 00:02:55.840
+\ELANParticipant BP
+
+\id RDA_TPK_hongachan_baldarakan_059
+\tx ọːdʒịn
+\mb ọː     -DʒI -n(I)
+\ps v                
+\ge become -fut -3sg 
+\ft it will
+\ru
+\ELANBegin 00:02:55.840
+\ELANEnd 00:02:56.400
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_060
+\tx ọːdʒịn
+\mb ọː     -DʒI -n(I)
+\ps v                
+\ge become -fut -3sg 
+
+\ru
+\ELANBegin 00:02:56.400
+\ELANEnd 00:02:56.870
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_061
+\tx ọːdʒịn?
+\mb ọː     -DʒI -n(I)
+\ps v                
+\ge become -fut -3sg 
+
+\ru
+\ELANBegin 00:02:56.870
+\ELANEnd 00:02:57.440
+\ELANParticipant BP
+
+\id RDA_TPK_hongachan_baldarakan_062
+\tx ọːdʒịn,      Zoja Afanasevna tiːŋgeren
+\mb ọː     -DʒI -n(I) Zoja Afanasevna tiːn -Gr(E) -E  -n(I)
+\ps v                 ?    ?          v                    
+\ge become -fut -3sg  Zoja Afanasevna send -hab   -ep -3sg 
+\ft it will (take place), Zoja Afanasevna is conducting it
+\ru
+\ELANBegin 00:02:57.440
+\ELANEnd 00:02:59.050
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_063
+\tx Tarak
+\mb tarak
+\ps pron 
+\ge dist 
+\ft that
+\ru
+\ELANBegin 00:02:59.050
+\ELANEnd 00:03:00.490
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_064
+\tx apreldu      uže      tar
+\mb aprel   -DU  uže       tarak
+\ps n            adv       pron 
+\ge April.R -dat already.R dist 
+\ft in April already
+\ru
+\ELANBegin 00:03:00.490
+\ELANEnd 00:03:01.220
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_065
+\tx tarak ịak amardadụkụn                ọrọlčịmŋa   ịadụn,           ịan
+\mb tarak ịak  amar   -gIdE -DUk(U) -n(I)     ọrọlčị        -mŋE  ịak  -DU  -n(I)     ịak  -n(I)    
+\ps pron  pron n                              v                   pron                pron          
+\ge dist  what behind -part -abl    -poss.3sg herd.reindeer -agnr what -dat -poss.3sg what -poss.3sg
+
+\tx amardadụkụn.
+\mb amar   -gIdE -DUk(U) -n(I)    
+\ps n                             
+\ge behind -part -abl    -poss.3sg
+\ft it (will be) after the reindeer herders' festival
+\ru это после слет оленеводов
+\ELANBegin 00:03:01.220
+\ELANEnd 00:03:07.550
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_066
+\tx Ah, aha.
+\mb ah aha
+\ps interj excl
+\ge ah aha
+
+\ru
+\ELANBegin 00:03:07.550
+\ELANEnd 00:03:09.300
+\ELANParticipant BP
+
+\id RDA_TPK_hongachan_baldarakan_067
+\tx ńamịčal         tuwdʒir         tarịt uže      eliːr
+\mb ńamịčan         -L  tug   -DʒI -r   tarịt uže       erek -(dU)LI -WUr    
+\ps n                   v               adv   adv       pron                 
+\ge female.reindeer -pl calve -fut -3pl then  already.R prox -prol   -prfl.pl
+\ft the does will already calve then, here
+\ru важенки отелятся потом уже здесь
+\ELANBegin 00:03:09.300
+\ELANEnd 00:03:10.660
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_068
+\tx ńamịčal         tuwdʒir
+\mb ńamịčan         -L  tug     -DʒI -r  
+\ps n                   v                
+\ge female.reindeer -pl be.born -fut -3pl
+\ft the does will calve
+\ru
+\ELANBegin 00:03:10.660
+\ELANEnd 00:03:11.780
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_069
+\tx Tarak tiːk ere  ịal     ere  GUP   načalnikalnị            ịalnị           bütünniː  ịaldụlị
+\mb tarak tiek erek ịak  -L  erek GUP   načalnik -E  -L  -n(I)     ịak  -L  -n(I)     bütünnüː   ịak  -L  -(dU)LI
+\ps pron  adv  pron pron     pron n     n                          pron               ?          pron            
+\ge dist  now  prox what -pl prox GUP.R boss.R   -ep -pl -poss.3sg what -pl -poss.3sg entirely.Y what -pl -prol  
+
+\tx herkečedde                stadaldụlị.
+\mb hor -kEČ  -E  -D    -R(E)   stado  -L  -(dU)LI
+\ps v                           n                 
+\ge go  -mult -ep -prog -nonfut herd.R -pl -prol  
+\ft Now the GUP bosses are all going out to the herds.
+\ph
+\nt the GUP is the state company that owns and manages the reindeer herds
+\ru сейчас начальники ГУПа все по стадам разъезжаются
+\ELANBegin 00:03:11.780
+\ELANEnd 00:03:23.250
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_070
+\tx Tiːk perešot     ọːdʒịn,      ọrọm.
+\mb tiek peresčet     ọː     -DʒI -n(I) ọrọn              -W  
+\ps adv  n            v                 n                     
+\ge now  head.count.R become -fut -3sg  domestic.reindeer -acc
+\ft now it will be the count of the reindeer
+\ru сейчас будет пересчет оленей
+\ELANBegin 00:03:23.250
+\ELANEnd 00:03:26.460
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_071
+\tx Taŋnịdʒụr,   ńamịčam          tuge          ot...
+\mb taŋ   -RIdʒI   -L  ńamịčan         -W   tug   -R(E)  
+\ps v                  n                    v            
+\ge count -ant.cvb -pl female.reindeer -acc calve -nonfut
+
+\ft having counted, the reindeers ... in winter
+\ph
+\gr tuge - IVK translated this as "in winter" in 2010, but then in 2012 admitted that RDA might have wanted to say tugukendʒir 'they will
+make/let them calve', the reindeer does themselves calve = tuwgerer (while the calves themselves are just born, baldawran)
+\ru пересчитав важенок зимой
+\ELANBegin 00:03:26.460
+\ELANEnd 00:03:30.670
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_072
+\tx otdelno,     aha
+\mb otdel'no     aha
+\ps adv          excl
+\ge separately.R aha
+
+\ru
+\ELANBegin 00:03:30.670
+\ELANEnd 00:03:32.440
+\ELANParticipant BP
+
+\id RDA_TPK_hongachan_baldarakan_073
+\tx ịadʒịr,       hujemdʒir
+\mb ịa      -DʒI -r   hujen    -U    -DʒI -r  
+\ps v                 v                       
+\ge do.what -fut -3pl separate -caus -fut -3pl
+
+\ft they separate them
+\ph
+\gr hujen- is an intransitive verb, 'separate' by themselves, otdeljatjsja
+\ru отделят
+\ELANBegin 00:03:32.440
+\ELANEnd 00:03:34.340
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_074
+\tx hujenidʒur,          er... sụːmaw     ertiki
+\mb hujen    -RIdʒI   -L  erek hụːma -W   erek -t(E)kI
+\ps v                     pron n          pron        
+\ge separate -ant.cvb -pl prox herd  -acc prox -all   
+\ft having separated, the herd (is led) in this direction
+\ph
+\gr suːma = just the entire herd, a synonym of delmiče
+\ru отделившись, суму в эту сторону
+\ELANBegin 00:03:34.340
+\ELANEnd 00:03:39.610
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_075
+\tx tar   muttule        korbe         goːbgeren,               korbe,        tar
+\mb tarak mut    -(dU)LE korbe         goːn -B   -Gr(E) -E  -n(I) korbe         tarak
+\ps pron  pron           n             v                          n             pron 
+\ge dist  1pl.in -loc    reindeer.bull say  -med -hab   -ep -3sg  reindeer.bull dist 
+\ft that is called "korbe" here
+\ph
+\nt this isn't clear - whether only the calving does are separated and the rest of the herd (the sụːma) stays together, or whether the bulls are
+separated and the does remain with the others, or whether each age/sex group is taken away separately
+\ru у нас это называется корбе
+\ELANBegin 00:03:39.610
+\ELANEnd 00:03:45.660
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_076
+\tx byk
+\mb byk   
+\ps n     
+\ge bull.R
+
+\ru
+\ELANBegin 00:03:45.660
+\ELANEnd 00:03:46.010
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_077
+\tx họːr,        byk,   aha
+\mb xor             byk    aha
+\ps n               n      excl
+\ge reindeer.bull.R bull.R aha
+
+\ft bulls
+\ph
+\ru
+\ELANBegin 00:03:46.010
+\ELANEnd 00:03:49.550
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_078
+\tx atkịčan
+\mb atkịčan           
+\ps n                 
+\ge castrated.reindeer
+
+\ru
+\ELANBegin 00:03:49.550
+\ELANEnd 00:03:50.600
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_079
+\tx rabọčaj, rabọčaj
+\mb rabočyj   rabočyj  
+\ps adj       adj      
+\ge working.R working.R
+
+\ru
+\ELANBegin 00:03:50.600
+\ELANEnd 00:03:52.470
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_080
+\tx atkịčan
+\mb atkịčan           
+\ps n                 
+\ge castrated.reindeer
+
+\ru
+\ELANBegin 00:03:52.470
+\ELANEnd 00:03:53.100
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_081
+\tx atkịčan,        aha
+\mb atkịčan            aha
+\ps n                  excl
+\ge castrated.reindeer aha
+
+\ru
+\ELANBegin 00:03:53.100
+\ELANEnd 00:03:55.090
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_082
+\tx Tar   amargịdụkụn        tretjak            emgeren
+\mb tarak amar -gIdE -DUk(U) -n(I) tretjak            em   -Gr(E) -E  -n(I)
+\ps pron  rel.n                    n                  v                    
+\ge dist  last -part -abl    -3sg  three-year-olds?.R come -hab   -ep -3sg 
+\ft after that come the three-year-olds
+\ph
+\gr
+\nt from here on they seem to be trying to remember the name and order of the different age/sex groups of reindeer
+\ru после этого идет третяк
+\ELANBegin 00:03:55.090
+\ELANEnd 00:03:57.690
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_083
+\tx tretjak            bọllaγïna
+\mb tretjak            buollaγïna
+\ps n                  ptl       
+\ge three-year-olds?.R dp.Y      
+
+\ru
+\ELANBegin 00:03:57.690
+\ELANEnd 00:03:59.150
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_084
+\tx uže      tiːk
+\mb uže       tiek
+\ps adv       adv 
+\ge already.R now 
+
+\ru
+\ELANBegin 00:03:59.150
+\ELANEnd 00:04:00.160
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_085
+\tx ịak goːbgeren?
+\mb ịak  goːn -B   -Gr(E) -E  -n(I)
+\ps pron v                         
+\ge what say  -med -hab   -ep -3sg 
+\ft how is it called?
+\ru
+\ELANBegin 00:04:00.160
+\ELANEnd 00:04:02.740
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_086
+\tx atkịčan         amargịdụkụn
+\mb atkịčan            amar   -gIdE -DUk(U) -n(I)    
+\ps n                  n                             
+\ge castrated.reindeer behind -part -abl    -poss.3sg
+\ft after the castrated reindeer
+\ru
+\ELANBegin 00:04:02.740
+\ELANEnd 00:04:03.870
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_087
+\tx maladnjak    ọttọn
+\mb molodnjak    ọttọn
+\ps n            ptl  
+\ge youngsters.R dp.Y 
+
+\ru
+\ELANBegin 00:04:03.870
+\ELANEnd 00:04:04.380
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_088
+\tx Ehni.          Atkịčan         amargịdụkụn              ọːn goːbgererin,                    be.
+\mb e   -R(E) -n(I) atkịčan            amar   -gIdE -DUk(U) -n(I)     ọːn goːn -B   -Gr(E) -RI  -n(I)     be   
+\ps v               n                  n                              pron v                               ptl  
+\ge neg -nfut -3sg  castrated.reindeer behind -part -abl    -poss.3sg how say  -med -hab   -pst -poss.3sg ptl.Y
+
+\ft after the castrated reindeer how was it called
+\ph
+\ru после аткычана как говорится
+\ELANBegin 00:04:04.380
+\ELANEnd 00:04:08.770
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_089
+\tx Họːr?
+\mb xor            
+\ps n              
+\ge reindeer.bull.R
+
+\ru
+\ELANBegin 00:04:08.770
+\ELANEnd 00:04:09.750
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_090
+\tx ehni
+\mb e   -R(E) -n(I)
+\ps v              
+\ge neg -nfut -3sg 
+
+\ru
+\ELANBegin 00:04:09.750
+\ELANEnd 00:04:13.750
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_091
+\tx ŋiː gịawanap          ehni
+\mb ŋiː gịawanụ   -(E)rEp e   -R(E) -n(I)
+\ps pron adv               v              
+\ge who last.year -adjr   neg -nfut -3sg 
+\ft it's last year's, right
+\ph
+\gr here, the ŋiː has the meaning of "someone",
+\nt this refers to the type of reindeer whose name she's looking for
+\ru он прошлогодный же
+\ELANBegin 00:04:13.750
+\ELANEnd 00:04:15.360
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_092
+\tx atkịčan
+\mb atkịčan           
+\ps n                 
+\ge castrated.reindeer
+
+\ru
+\ELANBegin 00:04:15.360
+\ELANEnd 00:04:16.320
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_093
+\tx gịawanap          eːŋken      ịawkan         ehni
+\mb gịawanụ   -(E)rEp eːŋken        ịawkan           e   -R(E) -n(I)
+\ps adv               n             n                v              
+\ge last.year -adjr   reindeer.fawn last.year's.fawn neg -nfut -3sg 
+\ft last year's fawn is (called) jawkan, right
+\ph
+\gr ịawkan = Sebjan word, not just standard Even
+\ru прошлогодный олененок это явкан же
+\ELANBegin 00:04:16.320
+\ELANEnd 00:04:19.120
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_094
+\tx ịawkan
+\mb ịawkan          
+\ps n               
+\ge last.year's.fawn
+
+\ru
+\ELANBegin 00:04:19.120
+\ELANEnd 00:04:20.700
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_095
+\tx ịawkan         dʒuldelin
+\mb ịawkan           dʒul  -gIdE -(dU)LI -n(I)    
+\ps n                rel.n                        
+\ge last.year's.fawn front -part -prol   -poss.3sg
+\ft before the jawkan
+\ru перед явканом
+\ELANBegin 00:04:20.700
+\ELANEnd 00:04:25.520
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_096
+\tx hattị       bihni
+\mb hattị         bi -R(E)   -n(I)
+\ps n             v               
+\ge 1year.old.doe be -nonfut -3sg 
+\ft there's "hatti"
+\ph
+\gr hattị is a reindeer doe that was born the previous year
+\ru хатты есть
+\ELANBegin 00:04:25.520
+\ELANEnd 00:04:26.730
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_097
+\tx ehni,          tar   ńamịčan     ehni
+\mb e   -R(E) -n(I) tarak ńamịčan         e   -R(E) -n(I)
+\ps v               pron  n               v              
+\ge neg -nfut -3sg  dist  female.reindeer neg -nfut -3sg 
+\ft no, that's a doe, right
+\ru нет это же важенка
+\ELANBegin 00:04:26.730
+\ELANEnd 00:04:28.000
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_098
+\tx ee, alallị,     ịak bičeː?
+\mb ee alat -LI      ịak  bi -čE    
+\ps interj v             pron v         
+\ge eh wait -imp.2sg what be -pf.ptc
+\ft eh, wait, what was it?
+\ph bičeːːːːː
+\ru подожди, что было
+\ELANBegin 00:04:28.000
+\ELANEnd 00:04:30.640
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_099
+\tx ńamịčan,    hattị,      eːŋken,     ńamụkan eːŋken,     ho... hieken eːŋken
+\mb ńamịčan         hattị         eːŋken        ńamụkan eːŋken        *ho hieken eːŋken       
+\ps n               n             n             n       n             ?   n      n            
+\ge female.reindeer 1year.old.doe reindeer.fawn female  reindeer.fawn *** male   reindeer.fawn
+\ft doe, one-year-old doe, fawn, female fawn, male fawn....
+\ru важенка прошлогодная самка-олененок, олененок, самка олененок, самец олененок
+\ELANBegin 00:04:30.640
+\ELANEnd 00:04:40.150
+\ELANParticipant R
+
+\id RDA_TPK_hongachan_baldarakan_100
+\tx hieken uže      ọmọlgọ
+\mb hieken uže       ọmọlga
+\ps n      adv       n     
+\ge male   already.R boy   
+
+\ru хиекен уже мальчик
+\ELANBegin 00:04:40.150
+\ELANEnd 00:04:41.740
+\ELANParticipant TPK
+
+\id RDA_TPK_hongachan_baldarakan_101
+\tx Ọːn goːŋneritne               be
+\mb ọːn goːn -Gr(E) -RI  -tEn      be   
+\ps pron v                          ptl  
+\ge how say  -hab   -pst -poss.3pl ptl.Y
+\ft how did they say
+\ph
+\gr
+\nt so at the end they were just trying to remember the names of the different age/sex groups of reindeer
+\ru как говорили
+\ELANBegin 00:04:41.740
+\ELANEnd 00:04:43.110
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_102
+\tx Ọmŋọrọm       daγanï
+\mb ọmŋa   -R(E)   -m   daγanï
+\ps v                   ptl   
+\ge forget -nonfut -1sg even.Y
+\ft I forgot
+\ru забыла даже
+\ELANBegin 00:04:43.110
+\ELANEnd 00:04:45.320
+\ELANParticipant RDA
+
+\id RDA_TPK_hongachan_baldarakan_103
+\tx tarak
+\mb tarak
+\ps pron 
+\ge dist 
+
+\ru
+\ELANBegin 00:04:45.320
+\ELANEnd 00:04:46.790
+\ELANParticipant RDA
+
+
+\ELANMediaURL file:///c:/Documents and Settings/Brigitte Pakendorf/My Documents/Even
+project/Sebjan_2010_fielddata/sound_files/spontaneous_Marantz/RDA_TPK_hongachan_baldarakan.wav
+\ELANMediaMIME audio/x-wav

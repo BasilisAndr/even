@@ -1,0 +1,6188 @@
+\_sh v3.0  1168 Text
+
+\id Kucherenko_NM_granny_songs_ 000_metadata
+\ref Recorded on 29 June 2010 in Anavgai by Alexandra Lavrillier. Only about one quarter glossed.
+\qu Transcription and Russian translation in Word by Rimma Maksimovna Egorova, time-aligned in ELAN by Evgeniya Zhivotova, glossed by BP in 2016.
+Funding by the Volkswagen Foundation (DoBeS grant) and CNRS/Universit Lyon 2 (laboratoire DDL). Speaker abbreviation = NMK
+\ref Natalja Mixajlovna Kucherenko was born in 1963, i.e. she was 46-47 at the time of the recording. She had higher education and was a teacher of
+Russian language and literature. As she explains herself, she learned Even the hard way from her grandmother, since her Even mother died
+early and her father was Russian.
+
+\id Kucherenko_NM_granny_songs_ 001
+\tx
+\ft
+\nt
+\ev Кучеренко Надежда Михайловна, Анавгай 29/06/2010-го года, вот, это чтобы потом соединить, укченни, бабушкас он бичен
+\ru Бабушка как ???
+\ELANBegin 00:00:13.840
+\ELANEnd 00:00:17.100
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 002
+\tx Dorowa  ibdiril!
+\mb dorobo  ibdiri -L 
+\ps interj  n         
+\ge hello.R people -pl
+
+\ft Hello people!
+\nt
+\ev Дорова ибдирил!
+\ru Здравствуйте, люди!
+\ELANBegin 00:00:17.085
+\ELANEnd 00:00:19.310
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 003
+\tx Min     teːleŋdʒim       min     bičewu,             kučuken bimi.
+\mb min     teːleŋ -DʒI -m   min     bi -čE     -W        kočuken bi -mI      
+\ps pron    v                pron    v                    adj     v           
+\ge 1sg.obl tell   -fut -1sg 1sg.obl be -pf.ptc -poss.1sg small   be -cond.cvb
+
+\ft I will tell about how I lived when I was small.
+\ph
+\gr the construction here is correct: ja rasskazhu kak ja zhila kogda byla malenkaja
+\nt
+\ev Би тэлэҕдим ... ... мин бичэву кучукэн бими.
+\ru Я расскажу ... ... мое прожитое, когда маленькой была.
+\ELANBegin 00:00:19.322
+\ELANEnd 00:00:25.507
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 005
+\tx Min     gerbewu         Nadežda Mixajlovna.
+\mb min     gerbe -W        Nadežda  Mixajlovna 
+\ps pron    n               ?        ?          
+\ge 1sg.obl name  -poss.1sg Nadezhda Mikhajlovna
+
+\ft My name is Nadezhda Mikhajlovna.
+\nt
+\ev Мин гэрбэву Надежда Михайловна.
+\ru Меня зовут Надежда Михайловна.
+\ELANBegin 00:00:25.507
+\ELANEnd 00:00:27.627
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 006
+\tx Min     bakụdʒak   Essodukke.
+\mb min     bakụ    -ČEk Essọː -DU  =kkE
+\ps pron    v            n              
+\ge 1sg.obl be.born -nr  Esso  -dat =ptl
+
+\ft The place where I was born is in Esso.
+\gr should be "min bakuʤaku Essodukke"
+\ev Мин баккудяк Эссоду.
+\ru Мое место рождения в Эссо.
+\ELANBegin 00:00:27.632
+\ELANEnd 00:00:32.792
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 007
+\tx Tala          minŋi             ọːja  bišiten          gịakị... eniŋe      Evdokija Romanovna, unet... goːweː...   ńụčịdịč
+\mb tarak -(dU)LE min     -ŋI        họːja bi -RI  -tEn      gịakị   eniŋeː      Evdokija Romanovna unet  goːn -WEːČ ńụča    -DI   -Č  
+\ps pron          pron               quant v                 pron    n           ?        ?         adv   v          n                 
+\ge dist  -loc    1sg.obl -pred.poss many  be -pst -poss.3pl various grandmother Eudoxia  Romanovna still say  -gnr  Russian -adjr -ins
+
+\tx goːweːtte           Baba     Dunja.
+\mb goːn -WEːČ -R(E)   baba     Dunja           
+\ps v                  n        ?               
+\ge say  -gnr  -nonfut granny.R Evdokija.hypocor
+
+\ft There were many (relatives) of mine, my grandmother Evdokija Romanovna, also... in Russian they say Granny Dunja.
+\nt
+\ev 
+
+\ev Тала минҕи ое бишитэн гяки ... эниҕэ Евдокия Романовна ... Унэд ... Нючедич говаттэ Баба Дуня.
+
+\ru Там у меня много было всяких (родственников) ... бабушка Евдокия  Романовна ... Еще ... По-русски говорят Баба Дуня.
+\ELANBegin 00:00:32.817
+\ELANEnd 00:00:46.817
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 009
+\tx Akmụ           bišin.
+\mb akan   -W        bi -RI  -n(I)    
+\ps n                v                
+\ge father -poss.1sg be -pst -poss.3sg
+
+\ft There was my father.
+\nt
+\ev Акму бишин.
+\ru Был отец.
+\ELANBegin 00:00:46.820
+\ELANEnd 00:00:50.180
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 010
+\tx Min...  min     akmụ           ńụčị.
+\mb min     min     akan   -W        ńụča   
+\ps pron    pron    n                n      
+\ge 1sg.obl 1sg.obl father -poss.1sg Russian
+
+\ft My father was a Russian.
+\nt
+\ev Мин ... мин акму - нючэ.
+\ru Мой отец - русский.
+\ELANBegin 00:00:50.195
+\ELANEnd 00:00:52.855
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 011
+\tx Materikduk          emnen,             edu       armijaddan,                ńan   emniten             gurgeːwčineriten                 Laučanteki.
+\mb materik     -DUk(U) em   -R(E)   -n(I) erek -DU  armija -D    -R(E)   -n(I) ńaːn em   -RI  -tEn      gurgeːwči -nE     -RI  -tEn      Laučan  -t(E)kI
+\ps n                   v                  pron      v                          adv  v                   v                                n              
+\ge continent.R -abl    come -nonfut -3sg  prox -dat army.R -prog -nonfut -3sg  and  come -pst -poss.3pl work      -intent -pst -poss.3pl Lauchan -all   
+
+\ft He came from the mainland, he was in the army here, and they came and went to Lauchan to work.
+\ph she clearly said "emnEten", but from the construction it's clear she meant the past tense form, so I wrote that down
+\nt
+\ev Материкдук эмнин. Эду армияддин. Нан эмнэттэн гургэвчинэртэн Лаучантэки.
+\ru Приехал с материка. Тут в армии служил. И приехали работать в Лаучан.
+\ELANBegin 00:00:52.860
+\ELANEnd 00:01:01.925
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 014
+\tx I     tala          bakrin              min     ekmu.
+\mb i     tarak -(dU)LE bak  -RI  -n(I)     min     eken   -W       
+\ps conj  pron          v                   pron    n               
+\ge and.R dist  -loc    find -pst -poss.3sg 1sg.obl mother -poss.1sg
+\ft And there he found my mother.
+\nt
+\ev И тала бакрин мин экму.
+\ru И там встречал мою мать.
+\ELANBegin 00:01:01.930
+\ELANEnd 00:01:06.090
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 015
+\tx Nan    atịkalbaritan,              nan    minu         bakụritan.
+\mb ńaːn atịkan    -LbE -RI  -tEn      ńaːn min     -W   bakụ    -RI  -tEn     
+\ps adv  v                             adv  pron         v                     
+\ge and  old.woman -vr  -pst -poss.3pl and  1sg.obl -acc be.born -pst -poss.3pl
+
+\ft And they married and they had (lit. bore) me.
+\nt
+\ev Нан атикалбэритэн. Нан мину бакуритэн.
+\ru Потом женились. И меня родили.
+\ELANBegin 00:01:06.115
+\ELANEnd 00:01:11.380
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 017
+\tx Bi   bišem,         unet  min     noːwu                    Ivan, Viktor.
+\mb biː bi -R(E)   -m   unet  min     noː             -W        Ivan Viktor
+\ps pron v               adv   pron    n                         ?    ?     
+\ge 1sg be -nonfut -1sg still 1sg.obl younger.sibling -poss.1sg Ivan Viktor
+
+\ft There was me. There was also my brother Ivan ... and Viktor.
+\nt
+\ev Би бишим. Унэд мин нуву Иван ... Виктор. 
+\ru 
+
+\ru Я есть. Есть еще мой младщий брат Иван ... Виктор. 
+
+\ELANBegin 00:01:11.390
+\ELANEnd 00:01:17.570
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 018
+\tx Tačịnda          guːnem            "Vjaktor", ọːn goːweːtten,               guːndʒiddin              min     eniŋewu,             "Vjaktor",
+\mb tarọːčịn  =DE  goːn -R(E)   -m   Viktor ọːn goːn -WEːČ -R(E)   -n(I) goːn -D    -RI  -n(I)     min     eniŋeː      -W        Viktor
+\ps pron           v                 ?      pron v                        v                         pron    n                     ?     
+\ge dist.qual =ptl say  -nonfut -1sg Viktor how say  -gnr  -nonfut -3sg  say  -prog -pst -poss.3sg 1sg.obl grandmother -poss.1sg Viktor
+
+\tx ńan   Bera, ńụčịdịč    Veronika.
+\mb ńaːn Vera ńụča    -DI   -Č   Veronika
+\ps adv  ?    n                  ?       
+\ge and  Vera Russian -adjr -ins Veronica
+
+\ft I also say "Vjaktor", like my grandmother used to say, "Vjaktor"; and then Vera, in Russian Veronica.
+\nt
+\ev Тачин-да гунем "Вяктор". Он говаттэн ... гундиддин мин эниҕэ: "Вяктор". Нан Бера. Нючэдич: "Вероника".
+\ru Вот так тоже говорю "Вяктор". Как говорила моя бабушка: "Вяктор". Потом Бера. По-русски: "Вероника".
+\ELANBegin 00:01:17.570
+\ELANEnd 00:01:29.137
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 022
+\tx Eniŋe      tačịn       eːriddʒoːtten,                 Bere, bi   Nedje,   Vjaktor, Ivačan!
+\mb eniŋeː      tarọːčịn  eːri -D    -WEːČ -R(E)   -n(I) Vera biː Nadežda  Viktor Ivan -čEn
+\ps n           pron      v                              ?    pron ?        ?      ?        
+\ge grandmother dist.qual call -prog -gnr  -nonfut -3sg  Vera 1sg Nadezhda Viktor Ivan -dim
+
+\ft My grandmother used to call us like that, Bere, I (was) Nedje, Vjaktor, Ivachan!
+\nt
+\ev 
+
+\ev Эниҕэ тачин эридиоттин: "Бера". Би - "Нэде". "Вяктор"! "Ивачан"!
+
+\ru Бабушка так кричала (звала нас): "Бера". Я - "Нэде". "Вяктор"!  "Ивачан"!
+\ELANBegin 00:01:29.147
+\ELANEnd 00:01:37.900
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 023
+\tx Kučuken bimi,        min     ekmu             ńoːmerin.
+\mb kočuken bi -mI       min     eken   -W        ńoːmeː -RI  -n(I)    
+\ps adj     v            pron    n                v                    
+\ge small   be -cond.cvb 1sg.obl mother -poss.1sg die    -pst -poss.3sg
+
+\ft When I was small, my mother died.
+\nt
+\ev Кучукэн бими, мин экму ниомарин.
+\ru 
+
+\ru Когда я маленькой была, моя мать умерла.
+
+\ELANBegin 00:01:37.928
+\ELANEnd 00:01:43.850
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 024
+\tx Ńan   eweški        emniwun,               ele          bišiwun,            i     tiːk teːrenu       elede             biddu.
+\mb ńaːn erek -skI      em   -RI  -WUn         erek -(dU)LE bi -RI  -WUn         i     tiek teːrenu        erek -(dU)LE =DE  bi -D    -(R)U  
+\ps adv  pron           v                      pron         v                    conj  adv  adv            pron              v               
+\ge and  prox -advb.all come -pst -poss.1pl.ex prox -loc    be -pst -poss.1pl.ex and.R now  till.that.time prox -loc    =ptl be -prog -1pl.ex
+
+\ft Then w moved here, we lived here, and we live here to this day.
+\nt
+\ev Нан эвэшки эмнивун. Элэ бишивун. И тик тэрэну элэдэ бидду.
+\ru Потом мы сюда приехали. Мы тут жили. И до сих пор тут же живем.
+\ELANBegin 00:01:51.039
+\ELANEnd 00:01:47.634
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 027
+\tx Elete              upkučiddiwun,                    ele...       nan    školaw       ọddidʒi    urriwu             Leningradtakị.
+\mb erek -(dU)LE =t(E) hupkut -E  -D    -RI  -WUn         erek -(dU)LE ńaːn škola    -W   ọd   -RIdʒI   hor -RI  -W        Leningrad   -t(E)kI
+\ps pron               v                                  pron         adv  n             v             v                  n                  
+\ge prox -loc    =ptl  learn  -ep -prog -pst -poss.1pl.ex prox -loc    and  school.R -acc stop -ant.cvb go  -pst -poss.1sg Leningrad.R -all   
+
+\ft Here we went to school, and after I finished school, I went to Leningrad to study.
+\nt
+\ev Элэ-тэ упкучиддивун. Нан школав оддэди, урриву Ленинградтэки.
+\ru Тут же учились. И школу закончив, поехала в Ленинрад.
+\ELANBegin 00:01:51.054
+\ELANEnd 00:01:59.077
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 029
+\tx Tala          upkučiddiwu                   nan    ọːdiwu             upkučimŋe,    ńụːčịdịč  toren,    literaturawda,         i     tiːk
+\mb tarak -(dU)LE hupkut -E  -D    -RI  -W        ńaːn ọː     -RI  -W        hupkut -E  -mŋE  ńụča    -DI   -Č   tore  -n  literatura   -W   =DE  i     tiek
+\ps pron          v                               adv  v                     v                n                  v         n                      conj  adv 
+\ge dist  -loc    learn  -ep -prog -pst -poss.1sg and  become -pst -poss.1sg learn  -ep -agnr Russian -adjr -ins speak -nr literature.R -acc =ptl and.R now 
+
+\tx teːrenu       gurgeːwčiddem                ele,         mut    upkučekla,          anawgajimŋal.
+\mb teːrenu        gurgeːwči -D    -R(E)   -m   erek -(dU)LE mut    hupkut -ČEk -(dU)LE Anawgaj -mŋE -L 
+\ps adv            v                            pron         pron   v                   n               
+\ge till.that.time work      -prog -nonfut -1sg prox -loc    1pl.in learn  -nr  -loc    Anavgai -nr  -pl
+
+\ft There I studied and I became a teacher, Russian language and literature, and I work here until this day, in our Anavgai school.
+\ph she says anawgajŋal
+\gr anawgajimŋal = anavgajtsy;  "v anavgajskoj shkole" = anawgajimŋala upkučekle; Q: can one say "anawgajaγ", anawgajaγ upkuček = NO (this I found in the morpheme database
+as an adjectivizer: прилагательные, указывающие местонахождение предмета); anawgajimŋa upkuček, anavgajskaja shkola, but anawgajimŋa = chelovek iz Anavgaja
+\nt
+\nt
+\ev Тала упкучиддиву. Нан одиву упкучимҕэ. Нючэдич торэн, литературав-да. И тик тэрэну гургэвчиддэм элэ мут упкучэкла анавгайимҕал.
+\ru Там я училась. И стала учительницей. Русский язык и литературу тоже. И до сих пор работаю здесь в нашей школе анавгайской.
+\ELANBegin 00:01:59.083
+\ELANEnd 00:02:12.660
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 033
+\tx Nan    bide      ele          etikeŋŋeji                  bakriwu,            gerben          Čandr,   min     etikeːn.
+\mb ńaːn biː =DE  erek -(dU)LE etikeːn -ŋ   -GE    -J       bak  -RI  -W        gerbe -n(I)     Aleksandr min     etikeːn
+\ps adv  pron     pron         n                            v                   n               ?         pron    n      
+\ge and  1sg =ptl prox -loc    old.man -aln -desig -prfl.sg find -pst -poss.1sg name  -poss.3sg Alexander 1sg.obl old.man
+
+\ft And I found myself a husband here, his name is Chandr, my husband.
+\ph
+\nt
+\ev Нан бидэ элэ этикэннэе бакриву. Гэрбэн Чандр, мин этикэн.
+\ru И я тоже тут мужа себе нашла. Зовут его Чандр, моего мужа.
+\ELANBegin 00:02:12.677
+\ELANEnd 00:02:24.560
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 035
+\tx Min     etikeːn Čandr Adukanov, Prokopevič.
+\mb min     etikeːn Čandr  Adukanov Prokopevič 
+\ps pron    n       ?      ?        ?          
+\ge 1sg.obl old.man Chandr Adukanov Prokopevich
+
+\ft My husband is Chandr Adukanov, Prokopevich.
+\nt
+\ev 
+
+\ev Мин этикэн - Чандр Адуканов Прокопьевич.
+
+\ru Мой муж - Чандр Адуканов Прокопьевич.
+\ELANBegin 00:02:24.570
+\ELANEnd 00:02:30.730
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 036
+\tx Minŋi             ịlan kụŋa.
+\mb min     -ŋI        ịlan  kụŋa 
+\ps pron               num   n    
+\ge 1sg.obl -pred.poss three child
+\ft I have three children.
+\ph
+\gr minŋi ilan kuŋa = OK, but would be better to say "minŋi ilan kuŋaŋu" (which to me seems entirely calqued from Russian)
+\nt
+\ev Минҕи илан куҕа.
+\ru У меня трое детей.
+\ELANBegin 00:02:30.745
+\ELANEnd 00:02:35.120
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 037
+\tx Nu     Vova,            Nadimir  ọrọttịč,      Nadimir.
+\mb nu     Vova             Vladimir ọrọč  -DI   -Č   Vladimir
+\ps ptl    ?                ?        n                ?       
+\ge well.R Vladimir.hypocor Vladimir Oroch -adjr -ins Vladimir
+
+\ft Well, Vova, Nadimir in Even, Nadimir.
+\ph
+\ev Ну, Вова. "Надимир" ораттыч, "Надимир".
+\ru Ну, Вова. "Надимир" по-эвенски, "Надимир".
+\ELANBegin 00:02:35.120
+\ELANEnd 00:02:40.490
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 039
+\tx Nọŋan tiːk ọddin             universitetu,     tiːk vot    biddʒin             nan    diplom    uŋdʒin,       dab... dabdʒin.
+\mb nọŋan tiek ọd   -RI  -n(I)     universitet  -W   tiek vot    bi -D    -DʒI -n(I) ńaːn diplom    uŋ -DʒI -n(I) dab dab -DʒI -n(I)
+\ps pron  adv  v                   n                 adv  ptl    v                   adv  n         v             v   v             
+\ge 3sg   now  stop -pst -poss.3sg university.R -acc now  here.R be -prog -fut -3sg  and  diploma.R do -fut -3sg  ??? ??? -fut -3sg 
+
+\ft He finished university now, he will be here now for a while and (get?) his diploma.
+\ph
+\gr bidʤin = pobudet tut
+\nt
+\ev Ноҕан тик оддин университету. Тик вот бидин нан диплом ундин ... дабдин.
+\ru Он теперь закончит университет. И вот он диплом получит.
+\ELANBegin 00:02:40.500
+\ELANEnd 00:02:50.180
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 041
+\tx Nan    alịŋọ Katja,            Katerinče, nọŋanda    studentka,  upkutten             kolledʒele           medicinskejdu,    iŋe.
+\mb ńaːn alịŋọ Katja             Ekaterina nọŋan =DE  studentka   hupkut -R(E)   -n(I) kolledʒ   -E  -(dU)LE medicinskij -DU  ịŋa
+\ps adv  n     ?                 ?         pron       n           v                    n                     adj              ?  
+\ge and  girl  Ekaterina.hypocor Ekaterina 3sg   =ptl student.f.R learn  -nonfut -3sg  college.R -ep -loc    medical.R   -dat yes
+
+\ft And my daughter Katya, Katerincha, she too is a student, she studies in the medical college, yes.
+\ph upkuttan
+\nt
+\ev Нан алиҕо Катя, Катеринча. Ноҕанда студентка. Упкуттэн колледж элэ медицинскэйду.
+\ru Потом дочь Катя, Катеринча. Она студентка. Учится тут в медицинском колледже.
+
+\ELANBegin 00:02:50.190
+\ELANEnd 00:03:04.790
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 043
+\tx Beγdečimŋe           bidʒin.
+\mb beg      -DI -Č   -mŋE  bi -DʒI -n(I)
+\ps v                       v            
+\ge medicine -vr -res -agnr be -fut -3sg 
+
+\ft She will be a medical worker/healer.
+\ph
+\nt beγdečimŋe = both nurse and doctor, simply someone who heals people, and Rimma didn't know whether she had become a nurse or a doctor
+\nt
+\ev Бэгдэчимҕэ бидин.
+\ru Лекарем будет.
+\ELANBegin 00:03:04.805
+\ELANEnd 00:03:06.945
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 044
+\tx Nan    kụŋa minŋi             binni,           min     kọːkačaŋụ              Rodion.
+\mb ńaːn kụŋa  min     -ŋI        bi -R(E)   -n(I) min     kọːka -čEn -ŋ   -W        Rodion
+\ps adv  n     pron               v                pron    n                         ?     
+\ge and  child 1sg.obl -pred.poss be -nonfut -3sg  1sg.obl boy   -dim -aln -poss.1sg Rodion
+
+\ft And I have a child, my little boy, Rodion.
+\ph
+\gr kuŋa minŋi binni = OK, but should be with alienable suffix, kuŋaŋu; koːka = small son, can be said about one's own or about somebody else's, "in kokaŋiš, noŋan koːkaŋan",
+kokačaŋu = simply small, moj malenkij rebenok, not necessariy any emotional nuance
+\nt
+\ev Нан куҕа минҕи бинни. Мин кокачаҕу - Родион.
+\ru И ребенок у меня есть маленький. Мой маленький (младший) ребенок - Родион.
+\ELANBegin 00:03:06.950
+\ELANEnd 00:03:14.365
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 046
+\tx Tiːk nọŋan ačča, urrin              ọrtakị,               ile           min     nuːwu                    Ivan gurgewčidden,
+\mb tiek nọŋan ačča hor -RI  -n(I)     ọrọn              -t(E)kI irek  -(dU)LE min     noː             -W        Ivan gurgeːwči -D    -R(E)   -n(I)
+\ps adv  pron  ptl  v                  n                         pron          pron    n                         ?    v                            
+\ge now  3sg   neg  go  -pst -poss.3sg domestic.reindeer -all    which -loc    1sg.obl younger.sibling -poss.1sg Ivan work      -prog -nonfut -3sg 
+
+\tx nọŋan tartakịda        urrin,            tiːk.
+\mb nọŋan tarak -t(E)kI =DE  hor -R(E)   -n(I) tiek
+\ps pron  pron               v                 adv 
+\ge 3sg   dist  -all    =ptl go  -nonfut -3sg  now 
+
+\ft He's not here now, he went to the reindeer (herd), where my younger brother Ivan works, he went there.
+\gr Q: how to say "on poshel tuda, gde rabotaet moj mladshij brat Ivan" = noŋan urrin tartaki ilekke gurgeːwčidden min nuːwu Ivan
+\nt
+\ev Тик ноҕан ачча. Уррин ортэки. Элэ мин нуву Иван гургэвчиддэн. Ноҕан тартакида уррэн.
+\ru Его теперь нет. Он вышел. Мой брат Иван здесь работает. Он туда пошел.
+\ELANBegin 00:03:14.365
+\ELANEnd 00:03:21.440
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 049
+\tx Bi   tiːk otpuškaddam.
+\mb biː tiek otpusk     -E  -D    -R(E)   -m  
+\ps pron adv  v                                
+\ge 1sg now  vacation.R -ep -prog -nonfut -1sg
+
+\ft I'm on holiday now.
+\nt
+\ev Би тик отпушкэддэм.
+\ru Я теперь отпуск провожу.
+\ELANBegin 00:03:21.460
+\ELANEnd 00:03:26.270
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 050
+\tx Tačịnta            guːndʒim,      otpuškaddam,                     iŋe.
+\mb tarrọːčịn =t(E) goːn -DʒI -m   otpusk     -E  -D    -R(E)   -m   ịŋa
+\ps pron            v              v                                 ?  
+\ge dist.qual =ptl  say  -fut -1sg vacation.R -ep -prog -nonfut -1sg yes
+
+\ft That's how I say, holidaying, yes.
+\nt
+\ev Тачинта гундим: "Отпушкэддэм."
+\ru Так и скажу: "Отпуск провожаю".
+\ELANBegin 00:03:26.280
+\ELANEnd 00:03:30.430
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 052
+\tx Nan    dʒọ... dʒọ... dʒọnam             bi   ọːn kučuken bišiwun.
+\mb ńaːn dʒọn     dʒọn     dʒọn     -R(E)   -m   biː ọːn kočuken bi -RI  -WUn        
+\ps adv  v        v        v                     pron pron adj     v                   
+\ge and  remember remember remember -nonfut -1sg 1sg how small   be -pst -poss.1pl.ex
+
+\ft And I remember how we were small.
+\ph
+\gr ʤonam = ja vspomnila, ʤoŋčiram = ja pomnju -- from which I conclude that the word here is not correct, should be ʤoŋčiram; and should be "ọːn kučukeR bišiwun"
+\nt
+\ev 
+
+\ev Нан дио... дио... дионэм би он кучукэн бишивун.
+
+\ru И вот вспомнила я, как маленькой была.
+\ELANBegin 00:03:30.445
+\ELANEnd 00:03:38.515
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 053
+\tx Ajịč      biddiwun,                  eniŋekke        bišin.
+\mb aj   -E  -Č   bi -D    -RI  -WUn         eniŋeː      =kkE bi -RI  -n(I)    
+\ps adj           v                          n                v                
+\ge good -ep -ins be -prog -pst -poss.1pl.ex grandmother =ptl be -pst -poss.3sg
+
+\ft We lived well, because there was my grandmother.
+\ph
+\gr confirmed with Rimma that my interpretation with "because" is correct
+\ev Аич биддивун. Эниҕэкэ бишин.
+\ru Хорошо жили. Бабушка же была
+\ELANBegin 00:03:38.525
+\ELANEnd 00:03:42.670
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 055
+\tx Nọŋan gịakịw     teːleŋedden,                  munu            upkutten             gịakịw.
+\mb nọŋan gịakị   -W   teːleŋ -E  -D    -R(E)   -n(I) mun        -W   hupkut -R(E)   -n(I) gịakị   -W  
+\ps pron  pron         v                              n               v                    pron        
+\ge 3sg   various -acc tell   -ep -prog -nonfut -3sg  1pl.ex.obl -acc learn  -nonfut -3sg  various -acc
+
+\ft She told us various things, taught us various things.
+\nt
+\ev
+\ru 
+
+\ev Ноҕан гякив тэлэҕэддэн, муну упкуттэн гякив.
+\ru Она всякое рассказывает, нас учит всякое.
+
+\ELANBegin 00:03:42.690
+\ELANEnd 00:03:47.570
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 056
+\tx Emide              aːr          ọrọttịč       toren.
+\mb e   -mI       =DE  haː  -R       ọrọč  -DI   -Č   tore  -n(I)
+\ps v                  v             n                v          
+\ge neg -cond.cvb =ptl know -neg.cvb Oroch -adjr -ins speak -3sg 
+
+\ft Without knowing (Russian?) she talked in Even.
+\ph
+\nt
+\ev Эмидэ ар ораттыч торэн.
+\ru Не зная по-эвенски говорила.
+\ELANBegin 00:03:47.580
+\ELANEnd 00:03:52.900
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 057
+\tx Nọŋan aːššọːttan                  i     goːweːtten                ečin      "Čaje!            Urlelle! Ew  ešeš           ụnụr?
+\mb nọŋan aːs         -WEːČ -R(E)   -n(I) i     goːn -WEːČ -R(E)   -n(I) erroːčin  čaj            -E  ew  e   -R(E)   -s   ụnụ        -R      
+\ps pron  v                               conj  v                        pron      ?                  ?   v                v                  
+\ge 3sg   be.offended -gnr  -nonfut -3sg  and.R say  -gnr  -nonfut -3sg  prox.qual leave.me.alone -ep ptl neg -nonfut -2pl understand -neg.cvb
+
+\tx Urelle!      Eš ńụːčịl bišeš?        Čaje,             urelle!".
+\mb hor -(LI)lrE *** ńụča    -L  bi -R(E)   -s   čaj            -E  hor -(LI)lrE
+\ps v            ?   n           v               ?                  v           
+\ge go  -imp.2pl *** Russian -pl be -nonfut -2pl leave.me.alone -ep go  -imp.2pl
+
+\ft She would get angry and say like this "Go away! Don't you understand? Go away! Are you Russians? Leave me alone, go away!".
+\ph
+\gr *urlelle = wrong, should be either "urelle" (imp.2pl) or "urli=le" (imp.2sg with emphatic particle); and "eš ńụːčil bišeš" is also wrong, probably meant to say "ew ńuːčil bišeš"; ew
+ešeš ụnụr = razve vy ne ponimaete
+\nt
+\ev Ноҕан ашшоттэн и говаттэн эчин: "Чае! Урлэллэ! Эв эшэш унур? Урэллэ!  Эш нючэл бишиш? Чае урэллэ!"
+\ru Она обидится и говорит так: "Чае! Уходите! Что, не понимаете? Уходите!  Что, вы русские? Чае, уходите!"
+\ELANBegin 00:03:52.915
+\ELANEnd 00:04:02.105
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 058
+\tx Nan    ịlada    teːmi    bi... dʒoːŋiddʒoːttem,                ọːnbedʒi,  ịawbedʒi        guːnen?
+\mb ńaːn ịlada      teːmi     biː dʒoːŋi -D    -WEːČ -R(E)   -m   ọːn =bEdʒI ịak  -W   =bEdʒI goːn -R(E)   -n(I)
+\ps adv  adv        conj      pron v                               pron       pron             v                 
+\ge and  feel.sorry therefore 1sg repeat -prog -gnr  -nonfut -1sg how =emph  what -acc =emph  say  -nonfut -3sg 
+
+\ft And I felt sorry, that's why I repeated (what she'd said), how, what did she say again?
+\ph
+\gr ilada = zhalko; *bi ilaram = NO; ilada kiliebu uleːn = xleb vybrosili i zhalko 
+\nt
+\ev Нан илада тэми. Диоҕидиоттэм. Он-быди? Яв быди гунэн?
+\ru И жалко поэтому. Повторяла за ней. Как же это? Что же она говорит?
+\ELANBegin 00:04:02.110
+\ELANEnd 00:04:08.770
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 061
+\tx Ịakawụ   tarak "ịrkan"?
+\mb ịak  -awụ  tarak hịrkan
+\ps pron       pron  n     
+\ge what -emph dist  knife 
+
+\ft What is that, "irkan"?
+\nt
+\ev Якаву тарак "иркан"?
+\ru Что такое "иркан"?
+\ELANBegin 00:04:08.785
+\ELANEnd 00:04:11.335
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 062
+\tx Ečin      ịlačiddʒim,                      tolle           ịlačịddʒọːttam,                 ịrkan  ịakawụ?
+\mb erroːčin  ịl       -E  -Č   -E  -D    -DʒI -m   tol     -(dU)LE ịl       -Č   -D    -WEːČ -R(E)   -m   hịrkan ịak  -awụ 
+\ps pron      v                                     n               v                                      n      pron      
+\ge prox.qual stand.up -ep -res -ep -prog -fut -1sg outside -loc    stand.up -res -prog -gnr  -nonfut -1sg knife  what -emph
+
+\ft I would stand like this, I used to stand outside, what is that, "irkan"?
+\ph ileːčidʤim
+\nt
+\ev Эчин илычиддим, толлэ илычидиоттэм. Иркан якаву?
+\ru Так стою, на улице стояла всегда. Иркан что такое?
+\ELANBegin 00:04:11.345
+\ELANEnd 00:04:17.600
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 064
+\tx Nan    iekaw     gadʒim,        ečin      ŋen... ŋenudʒim,           ere, eniŋe!
+\mb ńaːn ieke -W   ga   -DʒI -m   erroːčin  ŋen ŋen -U    -DʒI -m   erek eniŋeː     
+\ps adv  n         v              pron      v   v                   pron n          
+\ge and  pot  -acc take -fut -1sg prox.qual go  go  -caus -fut -1sg prox grandmother
+
+\ft Then I would take a pot and bring it like this (shows how she carries the pot in both hands), here, granny!.
+\ph
+\ev Нан екав гаддим. Эчин ҕэн... ҕэнудим. Эррэ, эниҕэ!
+\ru Потом я кострюлю возьму. Вот так принесу. Вот, бабушка!
+\ELANBegin 00:04:17.610
+\ELANEnd 00:04:24.680
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 067
+\tx Ešni             ịak erek ịrkan, erek ieka, ieka, ụnụli,          ụnụli!
+\mb e   -R(E)   -n(I) ịak  erek hịrkan erek ieke ieke ụnụ        -LI      ụnụ        -LI     
+\ps v                 pron pron n      pron n    n    v                   v                  
+\ge neg -nonfut -3sg  what prox knife  prox pot  pot  understand -imp.2sg understand -imp.2sg
+
+\ft That isn't an irkan (knife), that's a ieka (pot), ieka, understand, understand!
+\nt shows how granny must have tapped the little girl's head while shouting this
+\ev
+\ru 
+
+\ev Эшни як эрэк иркан! Эрэк ека, ека! Унулли! Унулли!
+\ru Это не нож! Это кострюля, кострюля! Поими! Поими!
+
+\ELANBegin 00:04:24.685
+\ELANEnd 00:04:30.750
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 068
+\tx Ečin      minteki         goːweːtten,               nan    ńuːdʒim,      ew  ieka, čaš ieka.
+\mb erroːčin  min     -t(E)kI goːn -WEːČ -R(E)   -n(I) ńaːn ńoː  -DʒI -m   ew  ieke čas ieke
+\ps pron      pron            v                        adv  v              ?   n    ptl n   
+\ge prox.qual 1sg.obl -all    say  -gnr  -nonfut -3sg  and  exit -fut -1sg ptl pot  ptl pot 
+
+\ft She said like that to me, and I would go out, well, this is a pot, let it be a pot.
+\nt
+\ev Эчэн минтэки говаттэн. Нан нюддим, эв - ека, чаш - ека.
+\ru Вот так мне говорит. И выхожу, оказывается кострюля, пусть будет кострюля.
+
+\ELANBegin 00:04:30.765
+\ELANEnd 00:04:36.225
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 070
+\tx Nan    aːriwu             kubek, a     ịrkan, ịrkan.
+\mb ńaːn haː  -RI  -W        kubek  a.R   hịrkan hịrkan
+\ps adv  v                   n      ?     n      n     
+\ge and  know -pst -poss.1sg teapot but.R knife  knife 
+
+\ft And I learned "kubek" (kettle), but "irkan", "irkan"...
+\nt
+\ev Нан ариву кубэк. А иркан, иркан.
+\ru И вот знала чайник. А нож, нож.
+\ELANBegin 00:04:36.230
+\ELANEnd 00:04:39.880
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 072
+\tx Nan    ečin      goːweːtten,               "gidladʒimeː             ịrkanịč!",  ịrkaneː     ịrkan, ee.
+\mb ńaːn erroːčin  goːn -WEːČ -R(E)   -n(I) gid   -LE -DʒI -m   =eː   hịrkan -E  -Č   hịrkan =eː   hịrkan ee
+\ps adv  pron      v                        v                         n               n            n      interj
+\ge and  prox.qual say  -gnr  -nonfut -3sg  lance -vr -fut -1sg =emph knife  -ep -ins knife  =emph knife  eh
+
+\ft And she used to say like this "I will stab (you) with a knife!", knife, a knife, ah.
+\nt
+\ev Нан эчин говаттэн: ... Гидладимэ ирканыч.
+\ru И вот так она говорила: Зарежу ножом.
+\ELANBegin 00:04:39.880
+\ELANEnd 00:04:45.650
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 074
+\tx Emuddʒoːttem                        nọŋandụn.
+\mb em   -U    -D    -WEːČ -R(E)   -m   nọŋandụn
+\ps v                                   pron    
+\ge come -caus -prog -gnr  -nonfut -1sg 3sg.dat 
+
+\ft I bring her (a knife).
+\nt
+\ev Эмудиоттэм ноҕандун.
+\ru Приношу ей.
+\ELANBegin 00:04:45.665
+\ELANEnd 00:04:48.085
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 075
+\tx Ereger ečin      toredden,                 toredden                  munńun.
+\mb ereger erroːčin  tore  -D    -R(E)   -n(I) tore  -D    -R(E)   -n(I) mun        -ńUn
+\ps adv    pron      v                         v                         n              
+\ge always prox.qual speak -prog -nonfut -3sg  speak -prog -nonfut -3sg  1pl.ex.obl -com
+\ft She always spoke and spoke like that with us.
+\nt
+\ev Эрэгыр эчин торэддэн, торэддэн муннюн.
+\ru Вот так говорит, говорит с нами.
+\ELANBegin 00:04:48.090
+\ELANEnd 00:04:53.030
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 076
+\tx Nan    tiede   ọːnụtta    mergende     gurgeːwčirin             nan    guːnem            ịlada   bi   ụnụram.
+\mb ńaːn tiede   ọːn =(W)UttE mergen  =DE  gurgeːwči -RI  -n(I)     ńaːn goːn -R(E)   -m   ịlada     biː ụnụ        -R(E)   -m  
+\ps adv  adv     pron         n            v                        adv  v                 ?         pron v                      
+\ge and  finally how =indef   thought =ptl work      -pst -poss.3sg and  say  -nonfut -1sg good.that 1sg understand -nonfut -1sg
+
+\ft And finally somehow the brain worked and I say how good that I understand.
+\ph
+\gr nan teːde = i vot, tak poluchilosj; mergende = simply "mozg rabotal", better would be "mergemude", my brain; ilada = here "xorosho", so it's a word with two completely
+opposed meanings (or two homonymous words - but given their penchant for affirmatives to express negation and the other way round, it's probably simply one bisemous word)
+\nt
+\ev Нан тэдэ ... ... онутта мэргэндэ ... ... гургэвчэрин нан ... ... гунэм илада би унурэм.
+\ru И вот дошло до того ... ... как мозг работал ... ... вот тогда ... ... говорю, стала я понимать.
+\ELANBegin 00:04:53.040
+\ELANEnd 00:05:03.800
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 080
+\tx Ešem            dʒọːŋčịr,      ọːk nan    bi... min     mergewu...        ọːnkana    goːweːtte...        dʒọnnan.
+\mb e   -R(E)   -m   dʒọŋčị   -R       ọːk  ńaːn biː min     mergen  -W        ọːn =kEnE  goːn -WEːČ -R(E)   dʒọn     -R(E)   -n(I)
+\ps v                v                 pron adv  pron pron    n                 pron       v                  v                     
+\ge neg -nonfut -1sg remember -neg.cvb when and  1sg 1sg.obl thought -poss.1sg how =contr say  -gnr  -nonfut remember -nonfut -3sg 
+
+\ft I don't remember when I... my brain... how do they say.... remembered.
+\gr the form ʤonnan is wrong, this conjugates like goːn: bi ʤonam, iː ʤonanni, nọŋan ʤonni
+\nt
+\ev Эшэм диоҕчэр, ок нан би ... мин мэргэву ... ... онкана говаттэ ... ... дионэм.
+\ru Я не помню, как я ... мой мозг ... .. как же сказать ...  .. вспомнила.
+\ELANBegin 00:05:03.815 
+\ELANEnd 00:05:16.320
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 083
+\tx Nan    biddidʒi         gịakịw     biːde    teːleŋeddʒoːttem,                  ịaw      bi   iččim,       nọŋantakịn goːweːttem.
+\mb ńaːn bi -D    -RIdʒI   gịakị   -W   biː =DE  teːleŋ -E  -D    -WEːČ -R(E)   -m   ịak  -W   biː it  -DʒI -m   nọŋantakịn goːn -WEːČ -R(E)   -m  
+\ps adv  v                 pron         pron     v                                   pron      pron v             pron       v                      
+\ge and  be -prog -ant.cvb various -acc 1sg =ptl tell   -ep -prog -gnr  -nonfut -1sg what -acc 1sg see -fut -1sg 3sg.all    say  -gnr  -nonfut -1sg
+\ft And with time (lit. having lived) I also used to tell (the grandmother) various things, what I would see I used to tell her.
+\nt
+\ev Нан биддэди ... гякив бидэ тэлэҕидиоттэм ... яв би иччим. Ноҕантэки  говаттэн.
+\ru И через время ... стала я тоже всякое рассказывать ... что я увижу.  Говорю ей.
+\ELANBegin 00:05:16.330
+\ELANEnd 00:05:26.990
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 084
+\tx Ile...        ile           kụŋalgalị      ewiddʒoːttem,                  kinoddʒoːttem,                    emeddʒoːttem,
+\mb irek  -(dU)LE irek  -(dU)LE kụŋa  -L  -g(E)lI ewiː -D    -WEːČ -R(E)   -m   kino     -D    -WEːČ -R(E)   -m   em   -E  -D    -WEːČ -R(E)   -m  
+\ps pron          pron          n                 v                             v                                 v                                
+\ge which -loc    which -loc    child -pl -com    play -prog -gnr  -nonfut -1sg movies.R -prog -gnr  -nonfut -1sg come -ep -prog -gnr  -nonfut -1sg
+
+\tx toreweːttem.
+\mb tore  -WEːČ -R(E)   -m  
+\ps v                       
+\ge speak -gnr  -nonfut -1sg
+
+\ft Where... where... I used to play with children, used to go to the movies, I would come and tell her.
+\nt
+\ev Илэ ... куҕалголи ивиддиоттэм, киноддиоттэм, эмэддиоттэм, торэвэттэм.  
+\ru Где ... с детьми играла все время, все время в кино ходила, приду,  рассказываю. 
+\ELANBegin 00:05:26.990
+\ELANEnd 00:05:33.940
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 085
+\tx Nọŋan že   ulgimiddʒoːtten,                     "ọːne,  ile           bišiš,          ịaw      kojeːttiš?".
+\mb nọŋan že    ulgim -I   -D    -WEːČ -R(E)   -n(I) ọːn -E  irek  -(dU)LE bi -RI  -s(I)     ịak  -W   kojeːt  -RI  -s(I)    
+\ps pron  ptl   v                                    pron    pron          v                 pron      v                     
+\ge 3sg   ptl.R ask   -ipf -prog -gnr  -nonfut -3sg  how -ep which -loc    be -pst -poss.2sg what -acc look.at -pst -poss.2sg
+
+\ft And she would ask "so, where have you been, what have you seen?".
+\ph kojeːtteš
+\nt
+\ev Ноҕан же улгимиддиоттэн он ... "Илэ бишэш, яв коеттэр?"
+\ru Она же спрашивает, как ... "Где была, что видела?"
+\ELANBegin 00:05:33.940
+\ELANEnd 00:05:38.540
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 086
+\tx Bi   goːweːttem,              "Talata                  bišiwu,          tarawda         ittiwu,            kinowda
+\mb biː goːn -WEːČ -R(E)   -m   tarak -(dU)LE =t(E)    bi -RI  -W        tarak -W   =DE  it  -RI  -W        kino     -W   =DE 
+\ps pron v                       pron                   v                 pron            v                  n                 
+\ge 1sg say  -gnr  -nonfut -1sg dist  -loc    =utočnit be -pst -poss.1sg dist  -acc =ptl see -pst -poss.1sg movies.R -acc =ptl
+
+\tx kojeːčiddiwu...".
+\mb kojeːt  -E  -D    -RI  -W       
+\ps v                               
+\ge look.at -ep -prog -pst -poss.1sg
+
+\ft I would say "I was there, I saw that, and I watched a movie..."
+\nt
+\ev Би говаттэм: ... ... Тала-та бишиву. Тарав даиттиву. Киновда коечиддиву.
+\ru Я говорю: ... ... Там-то была. То-то видела. Кино тоже смотрела.
+\ELANBegin 00:05:38.555
+\ELANEnd 00:05:44.580
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 090
+\tx "Irroːčin kino,    ebd'eńe?"
+\mb irroːčin   kino     hebdʒen       -ńE  
+\ps ?          n        v                  
+\ge which.qual movies.R be.interested -adjr
+
+\ft "What movie, was it interesting?"
+\nt
+\ev "Иррочин кино, эбдене?"
+\ru "Какое кино, интересное?"
+\ELANBegin 00:05:44.590
+\ELANEnd 00:05:46.180
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 091
+\tx Iŋe,  biː teːleŋeddʒim              kinowda            irroːčin biweːtten.
+\mb ịŋa biː teːleŋ -E  -D    -DʒI -m   kino     -W   =DE  irroːčin   bi -WEːČ -R(E)   -n(I)
+\ps ?   pron v                          n                  ?          v                     
+\ge yes 1sg tell   -ep -prog -fut -1sg movies.R -acc =ptl which.qual be -gnr  -nonfut -3sg 
+
+\ft Yes, (and) I would tell her about the movie as well, how it was.
+\ph
+\ev
+\ru 
+
+\ev Иҕэ. Би тэлэҕэддим киновда иррочин бивэттэн.
+\ru Да. Я рассказываю кино тоже какое бывает.
+
+\ELANBegin 00:05:46.195
+\ELANEnd 00:05:50.295
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 092
+\tx Nọŋan ečin      dal... nọːdịč    tegečiddʒineː                      dọlčịddʒọːttan.
+\mb nọŋan erroːčin  dalra nọːd   -E  -Č   teg      -Č   -D    -DʒI -n(I) =eː   dọlčị  -D    -WEːČ -R(E)   -n(I)
+\ps pron  pron      adj   adj             v                                    v                               
+\ge 3sg   prox.qual tasty pretty -ep -ins sit.down -res -prog -fut -3sg  =emph listen -prog -gnr  -nonfut -3sg 
+
+\ft And she would sit prettily like this (shows how granny sits with her head on her hand) and listen.
+\nt
+\ev
+\ru 
+
+\ev Ноҕан эчин далл... нодэч тыгычидиннэ долчиддин.
+\ru Она вот так далл... красиво сидит, слушает.
+
+\ELANBegin 00:05:50.300
+\ELANEnd 00:05:55.070
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 093
+\tx Nan    Berawda...     nọŋan... a     bi   ereger "Bera, moːleneli!".
+\mb ńaːn Vera -W   =DE  nọŋan a.R   biː ereger Vera moː   -LE -nE     -LI     
+\ps adv  n              pron  ?     pron adv    ?    v                         
+\ge and  Vera -acc =ptl 3sg   but.R 1sg always Vera water -vr -intent -imp.2sg
+
+\ft And Vera, too.... she... and I (would) always: "Vera, go fetch water!".
+\nt
+\ev Нан Беравда ... ноҕан ... а би эрэгыр ... "Бера, молэнэли!"
+\ru И Веру тоже ... она ... а я всегда ... 
+\ELANBegin 00:05:55.080
+\ELANEnd 00:06:01.850
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 095
+\tx A     min     eniŋe      goːweːtten,               "ereger Berawteken         kelmette,           ịasčịrbedʒi!".
+\mb a.R   min     eniŋeː      goːn -WEːČ -R(E)   -n(I) ereger Vera -W   =t(E)kEn kelme   -t  -R(E)   ịa      -sčI   -r   =bEdʒI
+\ps ?     pron    n           v                        adv    n                  v                   v                         
+\ge but.R 1sg.obl grandmother say  -gnr  -nonfut -3sg  always Vera -acc =restr   servant -vr -nonfut do.what -conat -3pl =emph 
+
+\ft And my grandmother would say: "they always make only Vera serve (help), what on earth are they doing?". 
+\ph
+\gr kelmette = zastavljajut prisluzhivatj; bi kelmettem, kelme = sluga; on prisluzhivaet = kelmedden; kelmetedden = zastavlaet prisluzhivatj; so the -t- actually has a transitivizing
+function, not just derivative...
+\nt
+\ev А мин эниҕэ говаттэн: ... "Эрэгыр Берав тикэн кэлмэтэ! Ясчир быди?"
+\ru А моя бабушка говорила: ... "Всегда только Веру заставляют делать! Что они делают?"
+\ELANBegin 00:06:01.865
+\ELANEnd 00:06:09.170
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 097
+\tx Teːmi    nọŋan tiːk ekič aːwajeː,   aːwaj.
+\mb teːmi     nọŋan tiek ekič aːwaj  =eː   aːwaj 
+\ps conj      pron  adv  ?    n            n     
+\ge therefore 3sg   now  very master =emph master
+
+\ft That is why she is now such a master!
+\ph
+\nt
+\ev Тэми ноҕан тик экичэ авайе, авай.
+\ru 
+
+\ru Поэтому она досильно умелая все делать, мастер.
+
+\ELANBegin 00:06:09.189
+\ELANEnd 00:06:14.070
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 098
+\tx Biːde    tože  aːwaj bišem.
+\mb biː =DE  tože   aːwaj  bi -R(E)   -m  
+\ps pron     ptl    n      v              
+\ge 1sg =ptl also.R master be -nonfut -1sg
+
+\ft I, too, am a master!
+\nt
+\ev Бида тоже авай бишим.
+\ru Я тоже мастер.
+\ELANBegin 00:06:14.080
+\ELANEnd 00:06:17.184
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 099
+\tx
+\ft (laughter)
+\nt
+\ev
+\ru (смех)
+\ELANBegin 00:06:17.190
+\ELANEnd 00:06:18.850
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 100
+\tx Nan    nọŋan teːleŋedden                   min     memewu.
+\mb ńaːn nọŋan teːleŋ -E  -D    -R(E)   -n(I) min     meme -W  
+\ps adv  pron  v                              pron    n        
+\ge and  3sg   tell   -ep -prog -nonfut -3sg  1sg.obl mama -acc
+
+\ft And she told about my mother.
+\nt
+\ev Нан ноҕан тэлэҕэддэн мин мэмэву: ...
+\ru И вот она рассказывает про мою маму: ...
+\ELANBegin 00:06:18.850
+\ELANEnd 00:06:27.900
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 101
+\tx Bišinde               ekič ebd'endeč,            guːnni,    gịakịw     ikeːddʒoːtten,                 koplečiščiddʒoːtten,
+\mb bi -RI  -n(I)     =DE  ekič hebdʒen     -DI   -Č   goːn -n(I) gịakị   -W   ikeː -D    -WEːČ -R(E)   -n(I) kopleči -sčI   -D    -WEːČ -R(E)   -n(I)
+\ps v                      ?    n                      v          pron         v                              v                                       
+\ge be -pst -poss.3sg =ptl very interesting -adjr -ins say  -3sg  various -acc sing -prog -gnr  -nonfut -3sg  dance   -conat -prog -gnr  -nonfut -3sg 
+
+\tx guːnni     čelewen                kojeːččin,       nan    tačịntịt        nekkoːtten.
+\mb goːn -n(I) čele -W   -E  -n(I)     kojeːt  -DʒI -n(I) ńaːn tarrọːčịn =tIt nek -WEːČ -R(E)   -n(I)
+\ps v          n                       v                  adv  pron           v                      
+\ge say  -3sg  all  -acc -ep -poss.3sg look.at -fut -3sg  and  dist.qual =ptl do  -gnr  -nonfut -3sg 
+
+\ft "She lived very interestingly", she said, "she would sing various things and dance", she said", she would watch everything and then do it the same way".
+\ph
+\gr koplečiščiddʤoːtten = tancevala nemnozhko; tačintit = tak zhe
+\nt
+\nt
+\ev Бишинтэ экич эбдендыч, гунни: Гякив икэдиоттэн. Коплэчишчидиоттэн.  Гунни, чэлэвэн коечин. Нан тачинтыта нэккоттэн
+\ru Жила она интересно, говорит: Всяко пела, танцевала. Говорит, все  посмотрит. И так же сделает 
+\ELANBegin 00:06:27.920
+\ELANEnd 00:06:39.100
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 102
+\tx I     guːnni,    "iːde,   Nideša, tačịn,      tarrọːčịnda    bišenni,       teːmi    iːkke    ikeːdej                 ajaːwannị".
+\mb i     goːn -n(I) hiː =DE  Nidiše  tarọːčịn  tarrọːčịn =DE  bi -R(E)   -nrI teːmi     hiː =kkE ikeː -DE       -J       ajaːw -R(E)   -nrI
+\ps conj  v          pron     ?       pron      pron           v               conj      pron     v                       v                 
+\ge and.R say  -3sg  2sg =ptl Nadežda dist.qual dist.qual =ptl be -nonfut -2sg therefore 2sg =ptl sing -purp.cvb -prfl.sg love  -nonfut -2sg
+
+\ft And she said "you, too, Nadja, are like that, that is why you like to sing, right".
+\nt
+\ev  и гунни: "Ида, Недэша, тачинта, таррочинда  бишинни." "Тэми иккэ, икэддэй аявынни."
+\ru 
+
+\ru и говорит: "Ты, Недэша, так же, ты такая же." "Поэтому ты же петь любишь." 
+
+\ELANBegin 00:06:39.100
+\ELANEnd 00:06:45.600
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 103
+\tx Bikke     ajaːwwọːttam            ikeːdej.
+\mb biː =kkE ajaːw -WEːČ -R(E)   -m   ikeː -DE       -J      
+\ps pron     v                        v                      
+\ge 1sg =ptl love  -gnr  -nonfut -1sg sing -purp.cvb -prfl.sg
+
+\ft I do love to sing.
+\nt
+\ev
+\ru 
+
+\ev  Биккэ аявоттэм икэддэи.
+\ru Я же люблю песни петь.
+
+\ELANBegin 00:06:45.600
+\ELANEnd 00:06:47.940
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 104
+\tx Tiːkbedʒi  ešemdetit                 ikeːr.
+\mb tiek =bEdʒI e   -R(E)   -m   =DE  =tIt ikeː -R      
+\ps adv         v                          v            
+\ge now  =emph  neg -nonfut -1sg =ptl =ptl sing -neg.cvb
+
+\ft But now I don't sing at all.
+\ph
+\gr ešemdetit = sovsem ne poju
+\ph
+\ev Тик быди эшэмдати икэр.
+\ru Сейчас-то я и не пою.
+\ELANBegin 00:06:47.950
+\ELANEnd 00:06:55.190
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 105
+\tx Ọːk biddʒoːttu,            Dinaγli     tegečiddʒip,                          ikeːddʒoːttem,                nọŋanke    ajịč
+\mb ọːk  bi -D    -WEːČ -(R)U   Dina -g(E)lI teg      -E  -Č   -E  -D    -DʒI -p      ikeː -D    -WEːČ -R(E)   -m   nọŋan =kE  aj   -E  -Č  
+\ps pron v                      n            v                                        v                             pron       adj          
+\ge when be -prog -gnr  -1pl.ex Dina -com    sit.down -ep -res -ep -prog -fut -1pl.in sing -prog -gnr  -nonfut -1sg 3sg   =ptl good -ep -ins
+
+\tx ikeːddʒoːtten.
+\mb ikeː -D    -WEːČ -R(E)   -n(I)
+\ps v                             
+\ge sing -prog -gnr  -nonfut -3sg 
+
+\ft When we are (together), when we are sitting with Dina, I sing - SHE sings well.
+\nt
+\ev
+\ru 
+
+\ev Ок бидиотту, Динаголи тыгычидим, икэдиоттэм. Ноҕанкэ аич икэдиоттэн.
+\ru Когда бывает, с Диной сидим, поем. Она же ведь хорошо поет.
+
+\ELANBegin 00:06:55.215
+\ELANEnd 00:07:02.470
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 106
+\tx Ọrọttịč       turkurem                 ikeːŋe.
+\mb ọrọč  -DI   -Č   turku       -R(E)   -m   ikeː -ŋE      
+\ps n                v                        v             
+\ge Oroch -adjr -ins not.be.able -nonfut -1sg sing -nmdl.cvb
+
+\ft I cannot sing in Even.
+\ph
+\gr nuːnnem would be the more fitting word, "umetj" rather than "ne moch", but here people mostly use "turku-" without distinguishing between root ability and learned ability
+\nt
+\ev Ораттыч туркурэм икэҕэ.
+\ru По-эвенски не могу петь.
+\ELANBegin 00:07:02.470
+\ELANEnd 00:07:05.380
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 107
+\tx Bi   aːram            min     eniŋewu              ikeːčewen,                    min     ikeːŋu.
+\mb biː haː  -R(E)   -m   min     eniŋeː      -W        ikeː -čE     -W   -E  -n(I)     min     ikeː -ŋ   -W       
+\ps pron v                 pron    n                     v                               pron    n                  
+\ge 1sg know -nonfut -1sg 1sg.obl grandmother -poss.1sg sing -pf.ptc -acc -ep -poss.3sg 1sg.obl song -aln -poss.1sg
+
+\ft I know what my grandmother sang, my song.
+\ph
+\ru Перевод Риммы (инюнь 2016): Я знаю то, что моя бабушка пела, мою песню.
+\ph
+\ev Би арэм, мин эниҕэву икэчэвэн, мин икэҕу.
+\ru Я знаю, моя бабушка пела мою песню (песню про меня).
+
+\ELANBegin 00:07:05.399
+\ELANEnd 00:07:13.530
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 108
+\tx
+\ft The song doesn't contain any Even words, it's just rhythmic sounds.
+\nt
+\ev 
+
+\ev "Кэн чэшакая чол чешакая, кэн чэшакая чол чешакая." 
+\ru "Кэн чэшакая чол чешакая, кэн чэшакая чол чешакая." 
+
+\ELANBegin 00:07:13.544
+\ELANEnd 00:07:20.210
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 109
+\tx "Nedje   ečin      nekkoːtten,              Nedje    minu         eːriddʒoːtten".
+\mb Nadežda  erroːčin  nek -WEːČ -R(E)   -n(I) Nadežda  min     -W   eːri -D    -WEːČ -R(E)   -n(I)
+\ps ?        pron      v                       ?        pron         v                             
+\ge Nadezhda prox.qual do  -gnr  -nonfut -3sg  Nadezhda 1sg.obl -acc call -prog -gnr  -nonfut -3sg 
+
+\ft "Nedje does like this, Nedje calls me".
+\nt
+\ev 
+
+\ev Неде эчин некоттэн, Неде мину эридиоттэн.
+
+\ru "Неде" так делала, "Неде" меня звала.
+\ELANBegin 00:07:20.214
+\ELANEnd 00:07:24.784
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 110
+\tx Viktorteki     ikeːddʒoːtten:
+\mb Viktor -t(E)kI ikeː -R       -WEːČ -R(E)   -n(I)    
+\ps n              v                                    
+\ge Viktor -all    song -neg.cvb -gnr  -nonfut -poss.3sg
+
+\ft For Viktor she sang:
+\nt
+\ev Виктортэки икэдиоттэн: ...
+\ru Виктору пела: ...
+\ELANBegin 00:07:24.794
+\ELANEnd 00:07:26.444
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 111
+\tx Vjaktor.... ọːnka    ikeːddʒoːtten?
+\mb Viktor ọːn =kE  ikeː -D    -WEːČ -R(E)   -n(I)
+\ps ?      pron     v                             
+\ge Viktor how =ptl sing -prog -gnr  -nonfut -3sg 
+
+\ft "Vjaktor"... now how did she sing again?
+\nt
+\ev Вяктор ... онка икэдиоттэн?
+\ru Вяктор ... как же пела?
+\ELANBegin 00:07:26.464
+\ELANEnd 00:07:30.024
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 112
+\tx "Vjaktor mọːdirajakan", nọŋanke    ọŋatańdʒan
+\mb Viktor mọːdira    -jEkEn nọŋan =kE  ọŋọt -E  -ńdʒE -n(I)    
+\ps ?      adj               pron       n                       
+\ge Viktor hook-nosed -dim   3sg   =ptl nose -ep -aug  -poss.3sg
+
+\ft "Viktor is hook-nosed", he has a big nose, right.
+\ph
+\gr mọːdira = gorbonosyj; moːdiŋa = chelovek s gorbatym nosom; -jakan here: small child, no emotional nuance, not bad, not good
+\ev
+\ru 
+
+\ev "Вяктор, модыраякан." Ноҕан-кэ оҕатэндян.
+\ru "Виктор носатенкий." У него же нос большой.
+
+\ELANBegin 00:07:30.039
+\ELANEnd 00:07:37.330
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 113
+\tx "Vjaktor mọːdirajakan,  russkij   gadinajakan!"
+\mb Viktor mọːdira    -jEkEn russkij   gadina    -jEkEn  
+\ps ?      adj               adj       n                 
+\ge Viktor hook-nosed -dim   Russian.R bastard.R -dim.def
+
+\ft "Viktor is hook-nosed, the little Russian bastard!"
+\ph
+\gr gadinajakan = just a small gadina, no emotional nuance
+\nt
+\ev "Вяктор, модыраякан ... ... русский гадинаякан!"
+\ru "Виктор носатенкий ... ... маленький русский гадина!"
+\ELANBegin 00:07:37.344
+\ELANEnd 00:07:42.179
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 115
+\tx Ečin      ikeːddʒoːtten!
+\mb erroːčin  ikeː -D    -WEːČ -R(E)   -n(I)
+\ps pron      v                             
+\ge prox.qual sing -prog -gnr  -nonfut -3sg 
+
+\ft Like this she used to sing!
+\nt
+\ev Эчин икэдиоттэн.
+\ru Так пела.
+\ELANBegin 00:07:42.179
+\ELANEnd 00:07:43.680
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 116
+\tx Beraw     ikeːdden:
+\mb Vera -W   ikeː -D    -R(E)   -n(I)
+\ps n         v                       
+\ge Vera -acc sing -prog -nonfut -3sg 
+
+\ft About Vera she sang:
+\nt
+\ev Берав икэдден: ...
+\ru Про Веру поет: ...
+\ELANBegin 00:07:43.694
+\ELANEnd 00:07:44.810
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 117
+\tx "Edelededej     kohoŋtiŋakaja,           edelededej      kohoŋtiŋakaja!"
+\mb edelededej      kontańa    -(I)ŋA -kEːjE edelededej      kontańa    -(I)ŋA -kEːjE
+\ps adv             adj                      adv             adj                     
+\ge vot.kakaja(big) stub-nosed -voc   -aug   vot.kakaja(big) stub-nosed -voc   -aug  
+
+\ft "Look, such a big stub-nosed one, look, such a big stub-nosed one"
+\ph the way she pronounces "kohoŋtiakaja" with a fairly uvular k- made Rimma understand the word as "short" instead of stub-nosed; but since it's translated as "stub-nosed", I glossed
+it like that
+\gr edelededej = vot kakaja, this is not only used in songs, but can be said in general; edelededej = bolshoj chelovek, naprimer esli zapljasal; eteletetej = prosto, obyknovennyj
+chelovek; etetekekej = malenkij, xudoj chelovek ili bystro pljashet; kontańa = kurnosaja; kọːnti = korotkij, unta kọːnti = ukorochennaja obuvj; kọːntiŋa-kaja = bolshaja i mozhet
+bytj ploxaja, no zdesj ona prosto bolshaja; bejkeje bienarikaja = ploxoj i bolshoj
+\ru 
+
+\ev "Эдэлэдэдэй коhоҕтиҕакая, эдэлэдэдэй коhоҕтиҕакая."
+\ru "Вот какая курносая, вот какая курносая."
+
+\ELANBegin 00:07:44.820
+\ELANEnd 00:07:50.090
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 118
+\tx Erek Bereŋi         ikeːn,         ikeː... ikeːweːtten.
+\mb erek Vera -ŋI        ikeː -n(I)     ikeː ikeː -WEːČ -R(E)   -n(I)
+\ps pron ?               n              v    v                       
+\ge prox Vera -pred.poss song -poss.3sg sing sing -gnr  -nonfut -3sg 
+
+\ft That's Vera's song, she used to sing that.
+\nt
+\ev Эрэк Берэҕи икэн. Икэ... Икэвэттэн.
+\ru Это Верина песня. Песня ... песню пела так.
+\ELANBegin 00:07:50.100
+\ELANEnd 00:07:53.755
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 120
+\tx Ŋiːwut       tala          emnin?              tar   min     dʒaːlbu,           tak.
+\mb ŋiː =(W)UttE tarak -(dU)LE em   -RI  -n(I)     tarak min     dʒaː   -L  -W        tak 
+\ps pron         pron          v                   pron  pron    ptl                  interj
+\ge who =indef   dist  -loc    come -pst -poss.3sg dist  1sg.obl friend -pl -poss.1sg so.R
+
+\ft Who has come there? those are my friends.
+\ph
+\nt
+\ev Ҕивут тала эмнин? Тар мин дялбу.
+\ru Кто-то там пришел? Это мои друзья.
+\ELANBegin 00:07:53.760
+\ELANEnd 00:08:01.600
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 121
+\tx Nan    uže      agdịdʒi, agdị  ọːdnị.
+\mb ńaːn uže       hagdị ọː     -R(E)   -n(I)
+\ps adv  adv       adj   v                   
+\ge and  already.R old   become -nonfut -3sg 
+
+\ft And then she grew old, she became old.
+\ph
+\ph Rimma claimed she said addiʤi here (as transcribed in Cyrillic), but I hear agdiʤi (I think Rimma was influenced by the transcription, and she was tired)
+\gr says addidʒi = about clothes, vetxaja; addin bulat; should say aγdinidʒi = sostarivshisj; aγderin = chelovek sostarel, aγdenin = chelovek sostarelsja aγdirin = grom gremel;
+addan = trjapka stala vetxaja; aγdan = chelovek sostarel; the verb "grow old" as found in Cincius and our Toolbox dictionary is hagdan-, i.e. would be agdan- here, conjugates
+like goːn-, so the correct converb should be agdaniʤi - so I won't gloss it here
+\nt
+\ev Нан уже аддидди, агди одни.
+\ru И вот уже состарилась, старая стала.
+\ELANBegin 00:08:01.615
+\ELANEnd 00:08:07.575
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 122
+\tx Ečin      desčiddin,                 a     bi   egdʒen ọːdịwụ.
+\mb erroːčin  desči -D    -RI  -n(I)     a.R   biː egdʒen ọː     -RI  -W       
+\ps pron      v                          ?     pron adj    v                    
+\ge prox.qual lie   -prog -pst -poss.3sg but.R 1sg big    become -pst -poss.1sg
+
+\ft She lay like this, and I had become big.
+\nt
+\ev Эчин дисчиддин, а би эгден оддиву.
+\ru Так лежит, а я большая стала.
+\ELANBegin 00:08:07.590
+\ELANEnd 00:08:12.090
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 123
+\tx Upkučiddiwu                   ụkal  Leningradla         nan    emdʒim         kanikulnadʒim.
+\mb hupkut -E  -D    -RI  -W        ụkal    Leningrad   -(dU)LE ńaːn em   -DʒI -m   kanikuly   -nE     -DʒI -m  
+\ps v                               adv     n                   adv  v              v                           
+\ge learn  -ep -prog -pst -poss.1sg already Leningrad.R -loc    and  come -fut -1sg holidays.R -intent -fut -1sg
+
+\ft I was already studying in Leningrad, and I would come for holidays.
+\ph
+\ph says "non" at the very end, probably already "in preparation" of nọŋan in the next sentence, or possibly intended to be "nan"
+\gr kanikulnaʤim = priedu provoditj kanikuly
+\nt
+\ev Упкучиддиву укал Ленинградла. Нан эмдим каникулнадимнон.
+\ru Училась уже в Ленинграде. И приеду на каникулы.
+\ELANBegin 00:08:12.090
+\ELANEnd 00:08:19.000
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 125
+\tx Nọŋan entukun   ečin      kọlašendʒin          nan    ikeːdʒin.
+\mb nọŋan entukuken erroːčin  kọl   -s(E)n -DʒI -n(I) ńaːn ikeː -DʒI -n(I)
+\ps pron  adv       pron      v                       adv  v              
+\ge 3sg   softly    prox.qual drink -lim   -fut -3sg  and  sing -fut -3sg 
+
+\ft She would drink a little bit like this and sing.
+\nt
+\ev Ноҕан энтукун эчин колошэндин нан икэдин.
+\ru Она немножечко выпит и поет.
+\ELANBegin 00:08:19.010
+\ELANEnd 00:08:23.700
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 126
+\tx Guːnni     "biːkke  geleːlliwu,                ọːnešị     bi   umekken bišu, iːke     ile           tegele,      ọːnnan    tala?".
+\mb goːn -n(I) biː =kkE geleː -L    -RI  -W        ọːn -E  =sI   biː omekken hiː =kE  irek  -(dU)LE tege -(dU)LE ọːn =nAn  tarak -(dU)LE
+\ps v          pron     v                          pron          pron ?       pron     pron          n            pron      pron         
+\ge say  -3sg  1sg =ptl miss  -inch -pst -poss.1sg how -ep =emph 1sg alone   2sg =ptl which -loc    far  -loc    how =emph dist  -loc   
+
+\ft She said "I missed (you), I live alone, right, and you are somewhere far away, how is it there?".
+\ph
+\gr says bišu "we are", but should be "bišem" says Rimma, while I thought it might be a contraction of bišiwu; ọːnụši = kak zhe
+\nt
+\ev Гунни: "Биккэ гэлэллэву. Он унуши би умэкэн бишу, икэ илэ тэгэлэ. Онан тала.
+\ru Говорит: "Я уже соскучилась. Я же ведь одна живу, ты же где-то далеко. Как же там?
+\ELANBegin 00:08:23.710
+\ELANEnd 00:08:33.560
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 129
+\tx A     bi   ereger ọńaddʒọːttam               pismoji,          ọńaddʒọːttam,              ulgimiddʒoːttem,                    iːnan
+\mb a.R   biː ereger ọńa   -D    -WEːČ -R(E)   -m   pismo    -J       ọńa   -D    -WEːČ -R(E)   -m   ulgim -I   -D    -WEːČ -R(E)   -m   hiː =nAn 
+\ps ?     pron adv    v                              n                 v                              v                                   pron     
+\ge but.R 1sg always write -prog -gnr  -nonfut -1sg letter.R -prfl.sg write -prog -gnr  -nonfut -1sg ask   -ipf -prog -gnr  -nonfut -1sg 2sg =emph
+
+\tx ọːn?
+\mb ọːn
+\ps pron
+\ge how
+
+\ft And I always wrote letters, I wrote and asked, "you, how are you?".
+\ev
+\ru 
+
+\ev А би эрэгыр онядиоттэм письмои, онядиоттэм, ульгэмидиоттэм, и нан он.
+\ru А я всегда пишу письмо свое, пишу, спрашиваю, ты-то как там.
+
+\ELANBegin 00:08:33.579
+\ELANEnd 00:08:39.539
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 130
+\tx Nan    goː... ešni,            biːkke   etem           ńoːmer,          etem,          ọːk emdʒinni,      tarakammaːk         ńoːmedʒim,
+\mb ńaːn goːn e   -R(E)   -n(I) biː =kkE e   -t(E) -m   ńoːmeː -R       e   -t(E) -m   ọːk  em   -DʒI -nrI tarakam       =mEːk  ńoːmeː -DʒI -m  
+\ps adv  v    v                 pron     v              v               v              pron v              adv                  v               
+\ge and  say  neg -nonfut -3sg  1sg =ptl neg -fut  -1sg die    -neg.cvb neg -fut  -1sg when come -fut -2sg in.those.days =restr die    -fut -1sg
+
+\tx biddʒimeː,              etem           ńoːmer.
+\mb bi -D    -DʒI -m   =eː   e   -t(E) -m   ńoːmeː -R      
+\ps v                        v              v              
+\ge be -prog -fut -1sg =emph neg -fut  -1sg die    -neg.cvb
+
+\ft And she (said): "no, I won't die, I won't, when you come, only then will I die, I will live, I won't die".
+\nt 
+
+\ev Нан го... Эшни биккэ этэм ниомэр, этэм. Ок эмдинни ... ... таракам-мак ниомадим. Биддимэ. Этэн ниомар."
+\ru И вот го.... Нет, я же не умру, нет. Когда приедешь ... ... только тогда помру. Буду жить. Не помру."
+
+\ELANBegin 00:08:39.544
+\ELANEnd 00:08:49.130
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 133
+\tx Nan    bi   emniwu              uže,     gurgeːwčineriwu.
+\mb ńaːn biː em   -RI  -W        uže       gurgeːwči -nE     -RI  -W       
+\ps adv  pron v                   adv       v                               
+\ge and  1sg come -pst -poss.1sg already.R work      -intent -pst -poss.1sg
+
+\ft And I had already come back, I went to work.
+\nt
+\ev Нан би эмниву уже, гургэвчэнэриву.
+\ru И я приехала уже, пошла работать.
+\ELANBegin 00:08:49.140
+\ELANEnd 00:08:52.200
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 134
+\tx Nọŋan bišin...
+\mb nọŋan bi -RI  -n(I)    
+\ps pron  v                
+\ge 3sg   be -pst -poss.3sg
+
+\ft She was (still alive)...
+\nt
+\ev
+\ru 
+
+\ev Ноҕан бишин ... 
+\ru Она была ... 
+
+\ELANBegin 00:08:52.214
+\ELANEnd 00:08:54.160
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 135
+\tx Min     kụŋaŋụ           Vova,            ọːk bakụrịwụ         Vova             nan    nọŋanda    uŋeddʒoːtten                     ečin
+\mb min     kụŋa  -ŋ   -W        Vova             ọːk  bakụ    -RI  -W        Vova             ńaːn nọŋan =DE  uŋ -E  -D    -WEːČ -R(E)   -n(I) erroːčin 
+\ps pron    n                    ?                pron v                      ?                adv  pron       v                                pron     
+\ge 1sg.obl child -aln -poss.1sg Vladimir.hypocor when be.born -pst -poss.1sg Vladimir.hypocor and  3sg   =ptl do -ep -prog -gnr  -nonfut -3sg  prox.qual
+
+\tx "dọŋkal, dọŋkal, dọŋk,  dọŋkal, dọŋkal, dọŋk".
+\mb dọŋkal    dọŋkal    dọŋkal    dọŋkal    dọŋkal    dọŋkal   
+\ps n         n         n         n         n         n        
+\ge thighbone thighbone thighbone thighbone thighbone thighbone
+
+\ft My child Vova, when I had Vova, she also (cradled him) like this "dongkal ...." (shows how the granny cradled the baby in her arms while she said the words).
+\ph Rimma says dọŋkəl for thighbone
+\nt
+\ev мин куҕаҕу Вова ... Ок бакуриву Вова? Нан ноҕанда уҕэдиоттэн эчин: "Доҕкал, доҕкал, доҕк, доҕкал, доҕкал,  доҕк."
+\ru мой ребенок Вова ... Когда родила Вову? И она тоже делала так: "Доҕкал, доҕкал, доҕк, доҕкал, доҕкал, доҕк."
+
+
+\ELANBegin 00:08:54.160
+\ELANEnd 00:09:03.940
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 136
+\tx Dọŋkal erek... ọːnkana    goːweːttem,              ikiri erek, ikiri, goːweːtte           "dọŋkal".
+\mb dọŋkal    erek ọːn =kEnE  goːn -WEːČ -R(E)   -m   ikiri erek ikiri goːn -WEːČ -R(E)   dọŋkal   
+\ps n         pron pron       v                       n     pron n     v                  n        
+\ge thighbone prox how =contr say  -gnr  -nonfut -1sg bone  prox bone  say  -gnr  -nonfut thighbone
+
+\ft Dongkal is this, how should I say it, this bone (shows her thigh), they say "dongkal".
+\nt
+\ev Доҕкал эрэк ... онкана говаттэм? Икири эрэк, икири. Говаттэ: доҕкал.
+\ru Доҕкал это ... как же говорят? Кости это, кость. Говорят: доҕкал.
+\ELANBegin 00:09:03.950
+\ELANEnd 00:09:11.219
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 138
+\tx Ikeːddʒoːtten                  nọŋandụn, "dọŋkal, dọŋkal, dọŋk".
+\mb ikeː -D    -WEːČ -R(E)   -n(I) nọŋandụn dọŋkal    dọŋkal    dọŋkal   
+\ps v                              pron     n         n         n        
+\ge sing -prog -gnr  -nonfut -3sg  3sg.dat  thighbone thighbone thighbone
+
+\ft She sang for him (again showing how she cradled the baby), "dongkal dongkal dongk".
+\ft
+\nt
+\ev Икэдиоттэн ноҕандун: "Доҕкал, доҕкал, доҕк."
+
+\ru Пела ему: "Доҕкал, доҕкал, доҕк."
+\ELANBegin 00:09:11.224
+\ELANEnd 00:09:14.404
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 139
+\tx Iŋe.
+\mb iŋe
+\ps interj
+\ge yes
+
+\ft Yes.
+\nt
+\ev Иҕэ.
+\ru Да.
+\ELANBegin 00:09:14.409
+\ELANEnd 00:09:15.579
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 140
+\tx Nan    Katjaw                 eči     itte,        nọŋan ńoːmerin.
+\mb ńaːn Katja             -W   e   -RI  it  -R       nọŋan ńoːmeː -RI  -n(I)    
+\ps adv  n                      v        v            pron  v                    
+\ge and  Ekaterina.hypocor -acc neg -pst see -neg.cvb 3sg   die    -pst -poss.3sg
+
+\ft Katja she didn't see, she (the granny) died.
+\nt
+\ev Нан Катяв эч иттэ, ноҕан ниомарин.
+\ru И Катю она не видела, она умерла.
+\ELANBegin 00:09:15.589
+\ELANEnd 00:09:19.689
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 141
+\tx I     vot    ńoːmedʒeːnnen,               i     nan    kak.budto ačča ọːdịn.
+\mb i     vot    ńoːmeː -dʒEːn -R(E)   -n(I) i     ńaːn kak.budto ačča ọː     -RI  -n(I)    
+\ps conj  ptl    v                           conj  adv  conj      ptl  v                    
+\ge and.R here.R die    -dur   -nonfut -3sg  and.R and  as.if.R   neg  become -pst -poss.3sg
+
+\ft And then she died (poor her), and it was as if nothing was left.
+\ru Римма (июнь 2016) И вот умерла, бедненькая, и как будто не стало ее // как будто ничего не стало.
+\ev
+\ev И вот ниомаденнэн, и нан как будто ачча одын.
+\ru И вот умерла, бедненкая, и вот как будто ничего не стало.
+
+\ELANBegin 00:09:19.694
+\ELANEnd 00:09:26.304
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 142
+\tx Ešebde                  ŋiːγli     toreweːtte.
+\mb e   -R(E)   -p      =DE  ŋiː -g(E)lI tore  -WEːČ -R      
+\ps v                        pron        v                   
+\ge neg -nonfut -1pl.in =ptl who -com    speak -gnr  -neg.cvb
+
+\ft And we don't speak (Even) with anyone.
+\gr should be "ešepte ŋiːγlide toreweːtte"
+\nt
+\ev Эшэбдэ нигли торэвэттэ.
+\ru И мы ни с кем не говорим.
+\ELANBegin 00:09:26.304
+\ELANEnd 00:09:28.690
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 143
+\tx Er   Babuška      Oktja,     nọŋandụlịn          bikke     toreweːttem,              a     tiːk...
+\mb erek babuška       Oktjabrina nọŋan -(dU)LI -n(I)     biː =kkE tore  -WEːČ -R(E)   -m   a.R   tiek
+\ps pron n             ?          pron                    pron     v                        ?     adv 
+\ge prox grandmother.R Oktjabrina 3sg   -prol   -poss.3sg 1sg =ptl speak -gnr  -nonfut -1sg but.R now 
+
+\ft Here Granny Oktja, with her I do speak, and now...
+\ph
+\ph says "o" at the end of toreweːttem, but that's not meaningful
+\gr should be nọŋanGALIN toreweːttem
+\ev
+\ev Бабушка Октя ... ноҕандулин би торэмэчоттэм.
+\ru Бабушка Октя ... с ней я разговариваю.
+\ELANBegin 00:09:28.709
+\ELANEnd 00:09:33.900
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 144
+\tx Teːmi    min     kụŋaŋụ           turkutte                 toreŋe.
+\mb teːmi     min     kụŋa  -ŋ   -W        turku       -Č   -R(E)   tore  -ŋE      
+\ps conj      pron    n                    v                        v              
+\ge therefore 1sg.obl child -aln -poss.1sg not.be.able -res -nonfut speak -nmdl.cvb
+
+\ft That is why my children cannot speak.
+\ph
+\gr should be min kuŋaŋelbu (kuŋaŋu = 1)
+\nt
+\ev А тик нан тэми мин куҕаҕу туркуттэ торэҕэ.
+\ru И сейчас вот поэтому мои дети не могут разговаривать.
+
+\ELANBegin 00:09:33.900
+\ELANEnd 00:09:38.124
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 145
+\tx Upkučekle           upkutte        ọrọttịč       toreŋen.
+\mb hupkut -ČEk -(dU)LE hupkut -R(E)   ọrọč  -DI   -Č   tore  -ŋ   -n(I)    
+\ps v                   v              n                v                   
+\ge learn  -nr  -loc    learn  -nonfut Oroch -adjr -ins speak -aln -poss.3sg
+
+\ft In the school they teach Even.
+\ph
+\gr should be toredewur; or orottič torem "evenskij jazyk"
+\ph
+\nt
+\ev Упкучэкла ... ... упкуттэ ... .. ораттыч торэҕэ.
+\ru В школе ... .. учат ... ... эвенскому языку.
+\ELANBegin 00:09:38.140
+\ELANEnd 00:09:46.260
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 148
+\tx Tarme, ọːnkana    goːweːtte,          literaturnyj, tarak ekič... a     buːkke     bystrinskijelde.
+\mb tarma ọːn =kEnE  goːn -WEːČ -R(E)   literaturnyj tarak ekič a.R   buː    =kkE bystrinskije  -L  =DE 
+\ps conj  pron       v                  adj          pron  ?    ?     pron        adj                   
+\ge but   how =contr say  -gnr  -nonfut standard.m.R dist  very but.R 1pl.ex =ptl Bystraja.pl.R -pl =ptl
+
+\ft But, how does one say it, (they teach) the standard (language), that is very (different), and we are Bystraians, right.
+\nt
+\ev Тармэ ... он-кэ говаттэ ... литературный ... тарак экич ... А буккы быстринскилдэ.
+\ru Но ... как сказать ... литературный ... это очень ... А мы же быстринские.
+
+\ELANBegin 00:09:46.270
+\ELANEnd 00:09:53.220
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 150
+\tx Mut    dialekten              gịana,        teːmi    turkutte                 kụŋal.
+\mb mut    dialekt   -E  -n(I)     gịa  -n(I)     teːmi     turku       -Č   -R(E)   kụŋa  -L 
+\ps pron   n                       adj            conj      v                        n        
+\ge 1pl.in dialect.R -ep -poss.3sg next -poss.3sg therefore not.be.able -res -nonfut child -pl
+
+\ft Our dialect is different, therefore children cannot (speak).
+\ph
+\gr should be: mut dialektet unte; or mun dialektewun unte; what she said here is "the friend of the dialect"
+\nt
+\ev Мут диалектин ген. Тэми туркуттэ куҕал ...
+\ru Наш диалект другой. Поэтому не могут дети ...
+
+\ELANBegin 00:09:53.220
+\ELANEnd 00:09:58.120
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 151
+\tx I     tiːk nọŋartanda    baːdda                toredewur                ọrọttịč.
+\mb i     tiek nọŋartan =DE  baː      -D    -R(E)   tore  -DE       -WUr     ọrọč  -DI   -Č  
+\ps conj  adv  pron          v                      v                        n               
+\ge and.R now  3pl      =ptl not.want -prog -nonfut speak -purp.cvb -prfl.pl Oroch -adjr -ins
+
+\ft And now they also don't want to speak Even.
+\nt
+\ev
+\ev И тик ноҕартанда баддэ торадавыр ораттыч.
+\ru И теперь они тоже не хотят говорить по-эвенски.
+
+\ELANBegin 00:09:58.135
+\ELANEnd 00:10:03.000
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 152
+\tx
+\ft
+\nt
+\ev Гэрбуттэ: Онядиоттэ только ок ... ... оллыв получил ... это ... как эмудир.
+\ru Думают: Я пишу только, когда ... ... рыбу получил ... это ... как привезут.
+\ELANBegin 00:10:03.012
+\ELANEnd 00:10:07.792
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 153
+\tx
+\ft
+\nt
+\ev
+\ru
+\ELANBegin 00:10:07.807
+\ELANEnd 00:10:11.940
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 154
+\tx
+\ft
+\nt
+\ev А тик быди ...
+\ru А теперь-то ...
+\ELANBegin 00:10:11.967
+\ELANEnd 00:10:13.637
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 155
+\tx
+\ft
+\nt
+\ev ... тэми баддэ ортэки орҕэ.
+\ru ... поэтому не хотят в табун ехать.
+\ELANBegin 00:10:13.637
+\ELANEnd 00:10:16.332
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 156
+\tx
+\ft Who is working there?
+\nt
+\ev Ҕи тала гургэвчидин?
+\ru Кто там работать будет?
+\ELANBegin 00:10:16.332
+\ELANEnd 00:10:19.667
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 157
+\tx
+\ft Well.
+\nt
+\ev Вот.
+\ru Вот.
+\ELANBegin 00:10:19.667
+\ELANEnd 00:10:20.332
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 158
+\tx
+\ft Yes.
+\nt
+\ev Иҕэ.
+\ru Да.
+\ELANBegin 00:10:20.332
+\ELANEnd 00:10:21.982
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 159
+\tx
+\ft
+\nt
+\ev Эниҕэ мут-быди абыл одни.
+\ru Бабушек-то у нас мало стало.
+\ELANBegin 00:10:21.990
+\ELANEnd 00:10:27.415
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 160
+\tx
+\ft
+\nt
+\ev Иҕэ.
+\ru Да.
+\ELANBegin 00:10:27.415
+\ELANEnd 00:10:30.475
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 161
+\tx
+\ft
+\nt
+\ev И туркувэттэ куҕалти торэдэй ораттыч.
+\ru 
+
+\ru И не могут дети наши разговаривать по-эвенски.
+
+\ELANBegin 00:10:30.480
+\ELANEnd 00:10:35.910
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 162
+\tx
+\ft
+\nt
+\ev Бидаҕану илэдэ атикан одим ...
+\ru Когда я старухой стану ...
+\ELANBegin 00:10:35.930
+\ELANEnd 00:10:43.340
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 163
+\tx
+\ft I don't know. Who else?
+\nt
+\ev Аша пар. Ҕи нан ...
+\ru Не знаю. Кто еще ...
+\ELANBegin 00:10:43.350
+\ELANEnd 00:10:47.810
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 164
+\tx
+\ft
+\nt
+\ev ... миндукда торэдилдин?
+\ru ... как я будет говорить?
+\ELANBegin 00:10:47.825
+\ELANEnd 00:10:50.310
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 165
+\tx
+\ft I don't know.
+\nt
+\ev Аша пар.
+\ru Не знаю.
+\ELANBegin 00:10:50.310
+\ELANEnd 00:10:50.790
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 166
+\tx
+\ft
+\nt
+\ev Мин унукэлтэ бидин?
+\ru Наши внуки будут?
+\ELANBegin 00:10:50.810
+\ELANEnd 00:10:52.890
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 167
+\tx
+\ft
+\nt
+\ev Ноҕартантэ этэрдэтит явда унур.
+\ru Они-то ничего понимать не будут.
+\ELANBegin 00:10:52.890
+\ELANEnd 00:10:55.990
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 168
+\tx
+\ft Only "one, two, three, four". And that's it.
+\nt
+\ev 
+
+\ev Только "умэн, дюр, илэн, дигэн". Нан таррэ.
+
+\ru Только "один, два, три, четыре". И все.
+\ELANBegin 00:10:56.005
+\ELANEnd 00:10:59.760
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 169
+\tx
+\ft It was like this, yes.
+\nt
+\ev Тачин бидин, иҕэ.
+\ru Так будет, да.
+\ELANBegin 00:10:59.760
+\ELANEnd 00:11:02.900
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 170
+\tx
+\ft
+\nt
+\ev Экич.
+\ru Ой.
+\ELANBegin 00:11:02.915
+\ELANEnd 00:11:06.355
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 171
+\tx
+\ft
+\nt
+\ev Абыл ибдирил торэдиоттэ ораттыч.
+\ru Мало народу говорит по-эвенски.
+\ELANBegin 00:11:06.360
+\ELANEnd 00:11:13.220
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 172
+\tx
+\ft
+\nt
+\ev Явкана тэлэҕдэй би нэкриву.
+\ru Что же рассказать я хотела.
+\ELANBegin 00:11:13.225
+\ELANEnd 00:11:17.280
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 173
+\tx
+\ft
+\nt
+\ev Унэд мин эниҕэ икэдиоттэн.
+\ru Еще моя бабушка пела.
+\ELANBegin 00:11:17.280
+\ELANEnd 00:11:25.630
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 174
+\tx
+\ft There was ... Taras was there, Solodikov. He was small.
+\nt
+\ev
+\ru 
+
+\ev Бишин ... Тарас бишин, Солодиков. Кучукэн бишин.
+\ru Был ... Тарас был, Солодиков. Маленький был.
+
+\ELANBegin 00:11:25.650
+\ELANEnd 00:11:32.740
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 175
+\tx
+\ft
+\nt
+\ev Эмудиоттэ, нан икэдиоттэн: ...
+\ru Принесут его, и она поет: ...
+\ELANBegin 00:11:32.750
+\ELANEnd 00:11:35.400
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 176
+\tx
+\ft У Тараса отец - нанаец.
+\nt
+\ev
+\ru 
+
+\ev "Нанайакан куҕаякан тобаричкэн давшакачиддэ, тобаричкэн давшакачиддэ."
+\ru "Нанайский ребенок топором машет, топором машет. "
+
+\ELANBegin 00:11:35.410
+\ELANEnd 00:11:42.130
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 177
+\tx
+\ft
+\nt
+\ev 
+
+\ev Ноҕан эбдевэттэн-дэ эчин эчиякэн нэкоттэн.
+
+\ru Ему интересно было и так вот так делал.
+\ELANBegin 00:11:42.145
+\ELANEnd 00:11:46.275
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 178
+\tx
+\ft
+\nt
+\ev Нан ҕив-дэ еще икэдиоттэн.
+\ru И про кого-нибудь еще пела так.
+\ELANBegin 00:11:46.295
+\ELANEnd 00:11:48.685
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 179
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev "Дорбарэкэ, дорабаракэ. Бостаракэ, бостаракэ, боста."
+\ru "Щеки надутые, щеки надутые. Почки, почки, почки."
+
+\ELANBegin 00:11:48.694
+\ELANEnd 00:11:57.414
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 180
+\tx
+\ft In Russian: kidneys, yes.
+\nt
+\ev Нючэдич: почки, иҕэ.
+\ru По-русски: почки, да.
+\ELANBegin 00:11:57.414
+\ELANEnd 00:11:58.774
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 181
+\tx
+\ft
+\nt
+\ev "Бостаракэ, бостаракэ."
+\ru "Почки, почки."
+\ELANBegin 00:11:58.779
+\ELANEnd 00:12:01.119
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 182
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Куҕал же эмидиоттэ ордуктэ, эчин бивэттэ.
+\ru Дети приезжают с табуна, такие (толстенкие) бывают.
+
+\ELANBegin 00:12:01.124
+\ELANEnd 00:12:05.734
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 183
+\tx
+\ft
+\nt
+\ev Нан тэми икэдиоттэн: ...
+\ru И поэтому она пела: ...
+\ELANBegin 00:12:05.744
+\ELANEnd 00:12:07.174
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 184
+\tx
+\ft
+\nt
+\ev "Дорбаракэ, дорбаракэ."
+\ru "Щеки надутые, щеки надутые."
+\ELANBegin 00:12:07.194
+\ELANEnd 00:12:09.770
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 185
+\tx
+\ft
+\nt
+\ev Гякив коечэн нан икэдиоттэн.
+\ru Все видит и поет.
+\ELANBegin 00:12:09.770
+\ELANEnd 00:12:12.620
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 186
+\tx
+\ft Yes.
+\nt
+\ev Иҕэ.
+\ru Да.
+\ELANBegin 00:12:12.620
+\ELANEnd 00:12:13.460
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 187
+\tx
+\ft And Nadezhda Yegorovna, my class-mate. ... I ???
+\nt
+\ev 
+
+\ev Нан Надежда Егоровна, мин однаклассница ... Бу дюкэрин бишивун каникул.
+
+\ru Потом Надежда Егоровна, моя однаклассница ... Мы вдвоем были на  каникулах.
+\ELANBegin 00:12:13.464
+\ELANEnd 00:12:23.865
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 188
+\tx
+\ft
+\nt
+\ev Нан уклэду бадикар.
+\ru И вот мы спим утром.
+\ELANBegin 00:12:23.879
+\ELANEnd 00:12:26.114
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 189
+\tx
+\ft
+\nt
+\ev Эниҕэ тэгэчиддэн окошколи эчин.
+\ru Бабушка сидит у окошка вот так.
+\ELANBegin 00:12:26.114
+\ELANEnd 00:12:29.624
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 190
+\tx
+\ft
+\nt
+\ev Коечиддэн, нан гунни: ...
+\ru Смотрит и говорит: ...
+\ELANBegin 00:12:29.634
+\ELANEnd 00:12:31.770
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 191
+\tx
+\ft
+\nt
+\ev ... "Тик, диор Недешэл!"
+\ru ... "Так две Надежды!"
+\ELANBegin 00:12:31.799
+\ELANEnd 00:12:33.999
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 192
+\tx
+\ft
+\nt
+\ev "Мяллэллэ!"
+\ru "Просыпайтесь!"
+\ELANBegin 00:12:34.004
+\ELANEnd 00:12:35.964
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 193
+\tx
+\ft
+\nt
+\ev Эшуддэ эрир.
+\ru Даже не отвечаем.
+\ELANBegin 00:12:35.970
+\ELANEnd 00:12:39.330
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 194
+\tx
+\ft
+\nt
+\ev "Мяллэллэ! Тар укаллы Ваня молэдэнэ."
+\ru 
+
+\ru "Просыпаетесь! Вон уже Ваня за водой идет!"
+
+\ELANBegin 00:12:39.355
+\ELANEnd 00:12:45.475
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 195
+\tx
+\ft
+\nt
+\ev Эллэкэн бэшмэдэн!
+\ru Пусть так будет!
+\ELANBegin 00:12:45.490
+\ELANEnd 00:12:48.590
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 196
+\tx
+\ft
+\nt
+\ev Нан-да эчин коечиддин.
+\ru И опять так смотрит.
+\ELANBegin 00:12:48.605
+\ELANEnd 00:12:51.500
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 197
+\tx
+\ft
+\nt
+\ev 
+
+\ev "Тик, дюр, Недешэ! Мяллэллэ! Тар коетлиллэ, укол Ваня нанда мучурин."
+
+\ru "Так, две Надежды, просыпайтесь! Вон смотрите, Ваня уже второй раз  возвращается."
+\ELANBegin 00:12:51.500
+\ELANEnd 00:12:59.920
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 198
+\tx
+\ft Damn!
+\nt
+\ev Эррой!
+\ru Эх!
+\ELANBegin 00:12:59.945
+\ELANEnd 00:13:02.250
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 199
+\tx
+\ft
+\nt
+\ev Нан мялдеру, тэгэчиддиру.
+\ru Проснемся, сидим.
+\ELANBegin 00:13:02.275
+\ELANEnd 00:13:05.235
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 200
+\tx
+\ft
+\nt
+\ev 
+
+\ev "Нан кубык тэдэ нябуннин, тачикэн укладышэн."
+
+\ru "И вот чайник уже остыл, так вы спите."
+\ELANBegin 00:13:05.240
+\ELANEnd 00:13:09.955
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 201
+\tx
+\ft
+\nt
+\ev "Тик тар, Недешэ, коетлиллэ!"
+\ru "Сейчас вот, Надежды, смотрите!"
+\ELANBegin 00:13:09.955
+\ELANEnd 00:13:11.905
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 202
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev "Тар укал солдатал городтэки урэддэ." "Учуня як мунду быди солдатал!"
+\ru "Вот уже солдаты в город уезжают." "Зачем нам солдаты, солдаты!"
+
+\ELANBegin 00:13:11.905
+\ELANEnd 00:13:18.335
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 203
+\tx
+\ft
+\nt
+\ev Иҕэ. Тачин эридиоттэн.
+\ru Да. Так нас звала.
+\ELANBegin 00:13:18.340
+\ELANEnd 00:13:23.250
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 204
+\tx
+\ft
+\nt
+\ev Ирканҕэдиоттэн.
+\ru Шутила.
+\ELANBegin 00:13:23.260
+\ELANEnd 00:13:25.090
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 205
+\tx
+\ft
+\nt
+\ev Явда иттиди эрэгыр говаттэн.
+\ru Что-нибудь увидит и все говорит.
+\ELANBegin 00:13:25.100
+\ELANEnd 00:13:28.020
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 206
+\tx
+\ft
+\nt
+\ev Тикэлэ, куҕал.
+\ru Ну все, дети.
+\ELANBegin 00:13:28.035
+\ELANEnd 00:13:29.945
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 207
+\tx
+\ft Me, Vera, Viktor.
+\nt
+\ev Би, Бера, Вяктор.
+\ru Я, Вера, Виктор.
+\ELANBegin 00:13:29.955
+\ELANEnd 00:13:32.825
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 208
+\tx
+\ft
+\nt
+\ev Уклэдиру бадикар.
+\ru Спим утром.
+\ELANBegin 00:13:32.835
+\ELANEnd 00:13:35.785
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 209
+\tx
+\ft
+\nt
+\ev Тик меллилла,кунал.
+\ru Сейчас -же вставайте,дети.
+\ELANBegin 00:13:35.790
+\ELANEnd 00:13:38.830
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 210
+\tx
+\ft
+\nt
+\ev Би умэкэн иллуддым
+\ru Я одна чай пью
+\ELANBegin 00:13:38.855
+\ELANEnd 00:13:45.585
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 211
+\tx
+\ft
+\nt
+\ev Тик  меллылла.
+\ru Сейчасже вставайте.
+\ELANBegin 00:13:45.605
+\ELANEnd 00:13:47.425
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 212
+\tx
+\ft
+\nt
+\ev Нан иллэдип, иллудип.
+\ru
+\ELANBegin 00:13:47.430
+\ELANEnd 00:13:52.030
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 213
+\tx
+\ft
+\nt
+\ev Тыгычиддип.
+\ru посидим
+\ELANBegin 00:13:52.035
+\ELANEnd 00:13:52.845
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 214
+\tx
+\ft
+\nt
+\ev Тик эниҕэ, бу ядеру.
+\ru Сейчас ,бабушка,мы что будем делать?
+\ELANBegin 00:13:52.855
+\ELANEnd 00:13:55.270
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 215
+\tx
+\ft
+\nt
+\ev Тик уккы яв нэкэддиш?
+\ru Сейчас вы же что делать будете?
+\ELANBegin 00:13:55.280
+\ELANEnd 00:13:57.940
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 216
+\tx
+\ft
+\nt
+\ev Авыдлиллэ,илкытыдлиллэ.
+\ru Мойте,стирайте.
+\ELANBegin 00:13:57.955
+\ELANEnd 00:14:01.170
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 217
+\tx
+\ft
+\nt
+\ev Унэт,унэт яв .Окнан тэвлэддип?
+\ru Ещё,ещё что?А когда за ягодой пойдём?
+\ELANBegin 00:14:01.170
+\ELANEnd 00:14:04.020
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 218
+\tx
+\ft
+\nt
+\ev Уккэ мэркэр тик тэвлэдлиллэ.
+\ru Вы же сами сейчас идите по ягоды.
+\ELANBegin 00:14:04.030
+\ELANEnd 00:14:06.560
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 219
+\tx
+\ft
+\nt
+\ev Куҕа ... кучукэр бими, би ундулэ... уннун тэвлэшшиву.Тигбыди у эгдер  одишэн-мэркэр.
+\ru Дети..когда маленькими были,я у вас...я с вами ходила по  ягоду.Сейчас-товы большие стали-сами.
+\ELANBegin 00:14:06.580
+\ELANEnd 00:14:15.320
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 220
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Оныши би уннун эрыгыр гиркывачиддим буйла?
+\ru Как же я вами всегда ходитьбуду по лесу?
+
+\ELANBegin 00:14:15.335
+\ELANEnd 00:14:20.050
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 221
+\tx
+\ft
+\nt
+\ev Нан коечэн явда.
+\ru И посмотрит что-нибудь.
+\ELANBegin 00:14:20.050
+\ELANEnd 00:14:24.160
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 222
+\tx
+\ft
+\nt
+\ev Тик ... ан ... Нэдешэ ...Илкытнали-кынэ
+\ru Сейчас знает Надежда.Иди помой-ка.
+\ELANBegin 00:14:24.160
+\ELANEnd 00:14:27.990
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 223
+\tx
+\ft
+\nt
+\ev
+\ru
+\ELANBegin 00:14:28.000
+\ELANEnd 00:14:29.630
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 224
+\tx
+\ft
+\nt
+\ev А би: Бера, молэли.
+\ru А я:Вера,иди за водой.
+\ELANBegin 00:14:29.630
+\ELANEnd 00:14:31.500
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 225
+\tx
+\ft
+\nt
+\ev Эрыгыр Верэ-инэн?
+\ru Всегда Вера-а ты?
+\ELANBegin 00:14:31.520
+\ELANEnd 00:14:34.120
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 226
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev И час би умытту илкытыддип мэркэр-ач машинка бишин.
+\ru и ладно я ..вместе будем стирать-не было машинки.
+
+\ELANBegin 00:14:34.135
+\ELANEnd 00:14:40.995
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 227
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Икутич ӈалди-мэр носкилбу,гекилбу оилбу-илкытыддётту.
+\ru И прямо руками-свои носки, всякую одежду-стирали.
+
+\ELANBegin 00:14:41.000
+\ELANEnd 00:14:47.110
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 228
+\tx
+\ft
+\nt
+\ev А ноҕан коечэттэн, нан гунни: ...
+\ru
+\ELANBegin 00:14:47.130
+\ELANEnd 00:14:49.220
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 229
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Экич миндэ куӈаӈчарбу ,гудейлэдин-мэркэр-дэ оватты.
+\ru Какие мои детки,бедняжки -самостоятельные становятся.
+
+\ELANBegin 00:14:49.230
+\ELANEnd 00:14:55.130
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 230
+\tx
+\ft Then she said: ...
+\nt
+\ev Нан гунни: ...
+\ru Потом сказала: ...
+\ELANBegin 00:14:55.155
+\ELANEnd 00:14:56.630
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 231
+\tx
+\ft ... When I will die, ???
+\nt
+\ev ... Би ниомадим, у мэркэр биддиш.
+\ru ... Когда я умру, вы сами  будете жить.
+\ELANBegin 00:14:56.647
+\ELANEnd 00:15:03.937
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 232
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Челэвэн а..аш-биккэ уну упкуттиву,упкучиддиву-у коечиддишэн.
+\ru Всё а..знаете-я же вас учила ,всё время учила -вы смотрели.
+
+\ELANBegin 00:15:03.947
+\ELANEnd 00:15:10.302
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 233
+\tx
+\ft
+\nt
+\ev Мэркэр биде.
+\ru Сами ведь
+\ELANBegin 00:15:10.302
+\ELANEnd 00:15:12.072
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 234
+\tx
+\ft
+\nt
+\ev ныкчиш.
+\ru cделаете.
+\ELANBegin 00:15:12.082
+\ELANEnd 00:15:13.552
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 235
+\tx
+\ft Then they say: ...
+\nt
+\ev Нан говаттэн: ...
+\ru Потом говорят: ...
+\ELANBegin 00:15:13.572
+\ELANEnd 00:15:17.032
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 236
+\tx
+\ft
+\nt
+\ev Уррэдми, би ҕиндим тартаки.
+\ru Когда уходить буду,я приду туда.
+\ELANBegin 00:15:17.050
+\ELANEnd 00:15:22.930
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 237
+\tx
+\ft
+\nt
+\ev Ниомадим.
+\ru
+\ELANBegin 00:15:22.955
+\ELANEnd 00:15:23.685
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 238
+\tx
+\ft
+\nt
+\ev Як уну эмэндим.Би эрыгыр уну
+\ru Я  вас не оставлю.Я всегда вас
+\ELANBegin 00:15:23.685
+\ELANEnd 00:15:25.695
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 239
+\tx
+\ft
+\nt
+\ev ??? коечиддим, он тала биддиш.
+\ru Буду смотреть как там живёте.
+\ELANBegin 00:15:25.705
+\ELANEnd 00:15:29.845
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 240
+\tx
+\ft
+\nt
+\ev Би коечиддим.
+\ru Я буду смотреть.
+\ELANBegin 00:15:29.850
+\ELANEnd 00:15:32.220
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 241
+\tx
+\ft
+\nt
+\ev Нан вот тэми Виктор ... ноҕанкы у.. куӈанын Дина.Вон Славка-вот он  ноӈын бакурин  12го апреля.
+\ru И вот поэтому Виктор...Его ребёнок с Диной Вон Славка-вот он родился  12го апреля.
+\ELANBegin 00:15:32.220
+\ELANEnd 00:15:45.890
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 242
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Мин эниҕэ тоже бакучал бишин 12ого апреля.
+\ru Моя бабушка тоже 12ого апреля родившаяся была.
+
+\ELANBegin 00:15:45.910
+\ELANEnd 00:15:51.520
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 243
+\tx
+\ft
+\nt
+\ev А Виктор -ноӈын самый аявын бишин.
+\ru А  Виктор-он самый любимый был.
+\ELANBegin 00:15:51.530
+\ELANEnd 00:15:55.640
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 244
+\tx
+\ft
+\nt
+\ev Эрэгыр: Виктор, мин Виктор.
+\ru Всегда:Виктор,мой Виктор.
+\ELANBegin 00:15:55.640
+\ELANEnd 00:15:58.490
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 245
+\tx
+\ft
+\nt
+\ev Мину эрыгыр нэиддётты.
+\ru Меня всегда ругали.
+\ELANBegin 00:15:58.500
+\ELANEnd 00:16:00.430
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 246
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Вяктору аявыддётты,Верэ-быди кучукэн,аминду эрыгырдэ.
+\ru Виктора всё время любили,Вера-то маленькая ,а мне всегда.
+
+\ELANBegin 00:16:00.440
+\ELANEnd 00:16:07.000
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 247
+\tx
+\ft
+\nt
+\ev Нан говаттэн: ...
+\ru Потом говорят: ...
+\ELANBegin 00:16:07.015
+\ELANEnd 00:16:08.595
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 248
+\tx
+\ft
+\nt
+\ev ... Би ... Виктортэки гунэм: ...
+\ru ... Я ... Виктору говорю: ...
+\ELANBegin 00:16:08.600
+\ELANEnd 00:16:10.890
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 249
+\tx
+\ft
+\nt
+\ev Би эмдимэ,ниомэдим-эмдимэ.
+\ru Я приду,умру-приду.
+\ELANBegin 00:16:10.910
+\ELANEnd 00:16:14.090
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 250
+\tx
+\ft
+\nt
+\ev Эрэгыр иннун биддим.
+\ru Всегда с тобой буду.
+\ELANBegin 00:16:14.095
+\ELANEnd 00:16:15.820
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 251
+\tx
+\ft
+\nt
+\ev Нян айдитта.Нян тачин нян.
+\ru И правда.и вот так вот.
+\ELANBegin 00:16:15.820
+\ELANEnd 00:16:17.635
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 252
+\tx
+\ft
+\nt
+\ev И тик айдиттэ.
+\ru И сейчас правда.
+\ELANBegin 00:16:17.642
+\ELANEnd 00:16:20.442
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 253
+\tx
+\ft
+\nt
+\ev Ноҕан говаттэн: ...
+\ru Она говорила: ...
+\ELANBegin 00:16:20.457
+\ELANEnd 00:16:22.797
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 254
+\tx
+\ft
+\nt
+\ev Эдиллэ ӈэлкил-укыл долбэ.
+\ru Не бойтесь -уже ночь.
+\ELANBegin 00:16:22.800
+\ELANEnd 00:16:25.980
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 255
+\tx
+\ft
+\nt
+\ev Дютки ҕэнэдинни.
+\ru Домой идёшь
+\ELANBegin 00:16:25.995
+\ELANEnd 00:16:29.095
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 256
+\tx
+\ft
+\nt
+\ev Окта минтэки эрэгыр говэттын
+\ru Никогда мне всегда говорила.
+\ELANBegin 00:16:29.100
+\ELANEnd 00:16:31.650
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 257
+\tx
+\ft
+\nt
+\ev Нэде, окта эчин эдиллэ нэккиллэ.
+\ru Надя, никогда так не делайте.
+\ELANBegin 00:16:31.665
+\ELANEnd 00:16:35.510
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 258
+\tx
+\ft
+\nt
+\ev Ин мэмэш эрыгыр ӈэлыддин тачин.
+\ru Твоя мама всегда боялась так.
+\ELANBegin 00:16:35.510
+\ELANEnd 00:16:38.780
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 259
+\tx
+\ft
+\nt
+\ev Мэни нёмачилби -эчин дявыттин.
+\ru Своих померших-вот так держит.
+\ELANBegin 00:16:38.790
+\ELANEnd 00:16:42.750
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 260
+\tx
+\ft
+\nt
+\ev Ногдык,эдиллы тартыки коеткиллы.
+\ru Не надо не смотрите туда.
+\ELANBegin 00:16:42.765
+\ELANEnd 00:16:47.845
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 261
+\tx
+\ft
+\nt
+\ev Би  аври..мэргэчиддиву.
+\ru я думала.
+\ELANBegin 00:16:47.850
+\ELANEnd 00:16:51.090
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 262
+\tx
+\ft
+\nt
+\ev И эшэмдатитта тачин нэккотты.
+\ru Я никогда так не делаю.
+\ELANBegin 00:16:51.105
+\ELANEnd 00:16:53.960
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 263
+\tx
+\ft
+\nt
+\ev Тэми би эшэм ҕэлоттэ.
+\ru поэтому яне боюсь.
+\ELANBegin 00:16:53.985
+\ELANEnd 00:16:56.145
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 264
+\tx
+\ft I tell the children: ...
+\nt
+\ev Куҕалду говаттэм: ...
+\ru Детям говорю: ...
+\ELANBegin 00:16:56.150
+\ELANEnd 00:16:57.400
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 265
+\tx
+\ft
+\nt
+\ev Эрэк  ун дюш.
+\ru это ваш дом.
+\ELANBegin 00:16:57.410
+\ELANEnd 00:17:01.410
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 266
+\tx
+\ft
+\nt
+\ev Тачин мин эниҕэву гунин.
+\ru так моя бабушка сказала.
+\ELANBegin 00:17:01.435
+\ELANEnd 00:17:04.210
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 267
+\tx
+\ft Yes.
+\nt
+\ev Иҕэ.
+\ru Да.
+\ELANBegin 00:17:04.210
+\ELANEnd 00:17:05.650
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 268
+\tx
+\ft What else shall I tell?
+\nt
+\ev Яв унэд гундим?
+\ru Что еще расскажу?
+\ELANBegin 00:17:05.665
+\ELANEnd 00:17:08.775
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 269
+\tx
+\ft
+\nt
+\ev Явкынэ?
+\ru Что ещё?
+\ELANBegin 00:17:08.775
+\ELANEnd 00:17:10.785
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 270
+\tx
+\ft Like this, right?
+\nt
+\ev
+\ru Так, да?
+\ELANBegin 00:17:10.790
+\ELANEnd 00:17:12.210
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 271
+\tx
+\ft Any prohibitions.
+\nt
+\ev
+\ru Запреты еще какие-нибудь.
+\ELANBegin 00:17:12.195
+\ELANEnd 00:17:13.915
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 272
+\tx
+\ft Any, aha.
+\nt
+\ev
+\ru Какие-нибудь, аха.
+\ELANBegin 00:17:13.910
+\ELANEnd 00:17:15.120
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 273
+\tx
+\ft
+\nt
+\ev Мув  ..уӈ..                                           ӈали авыд...ок  авыддинни-эдиллы окта эчин уӈкыдгырэкиллы мув.
+\ru Воду...                                                Руки  мыть..когда мыть будешь-никогда не лейте воду так.
+\ELANBegin 00:17:15.140
+\ELANEnd 00:17:28.540
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 274
+\tx
+\ft What?
+\nt
+\ev Он?
+\ru Как?
+\ELANBegin 00:17:27.960
+\ELANEnd 00:17:28.575
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 275
+\tx
+\ft Aaa!
+\nt
+\ev Ааа!
+\ru Ааа!
+\ELANBegin 00:17:28.575
+\ELANEnd 00:17:29.245
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 276
+\tx
+\ft
+\nt
+\ev Эдилл-гунни тавыр кэнели.
+\ru Не делайте так-это плохо.
+\ELANBegin 00:17:29.265
+\ELANEnd 00:17:32.455
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 277
+\tx
+\ft
+\nt
+\ev Тачин-тытта эрыгыр.
+\ru Так тоже всегда.
+\ELANBegin 00:17:32.465
+\ELANEnd 00:17:34.495
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 278
+\tx
+\ft Then ... what else shall I tell?
+\nt
+\ev Нан унэт явкына гунин?
+\ru Потом  что ещё сказала?
+\ELANBegin 00:17:34.505
+\ELANEnd 00:17:38.635
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 279
+\tx Когда идёте в лес не делайте...                                                                                                   Улэкич  всегда
+делайте.
+\ft
+\nt
+\ev Уррэдми бугэшки, эдиллэ унгырэкиллэ.                                                                                  Улэкич эрыгыр ныккырэллы.
+\ru
+\ELANBegin 00:17:38.645
+\ELANEnd 00:17:47.585
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 280
+\tx
+\ft ??? You live well.
+\nt
+\ev Эрыгырэ нэкр..эн..-аич биддишь.
+\ru Всегда ........-хорошо жить будете.
+\ELANBegin 00:17:47.590
+\ELANEnd 00:17:51.560
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 281
+\tx
+\ft
+\nt
+\ev Этэштэ ӈэллы явда.
+\ru И не будете бояться ничего.
+\ELANBegin 00:17:51.560
+\ELANEnd 00:17:53.870
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 282
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Орал ... оралбидабидми ордула тачинты ныккырэллы.
+\ru олени....оленей своих,будучи в табуне, так же делайте.
+
+\ELANBegin 00:17:53.870
+\ELANEnd 00:17:59.530
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 283
+\tx
+\ft Then she also said: ...
+\nt
+\ev Нан унэд гуннэ: ...
+\ru Потом еще сказала: ...
+\ELANBegin 00:17:59.555
+\ELANEnd 00:18:00.470
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 284
+\tx
+\ft
+\nt
+\ev коеткырэллы гекив эчин.
+\ru наблюдайте за всем вокруг.
+\ELANBegin 00:18:00.485
+\ELANEnd 00:18:03.840
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 285
+\tx
+\ft
+\nt
+\ev Илэ якта ... илэ якта бивэттэн.
+\ru Где ,что бывает.
+\ELANBegin 00:18:03.855
+\ELANEnd 00:18:07.375
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 286
+\tx
+\ft
+\nt
+\ev Дёӈчиллы-илэ бишин-талатты бидин.
+\ru Помните-где лежало-там и будет.
+\ELANBegin 00:18:07.380
+\ELANEnd 00:18:12.270
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 287
+\tx
+\ft
+\nt
+\ev Туркучиддинни.
+\ru Трудно станет-
+\ELANBegin 00:18:12.270
+\ELANEnd 00:18:15.510
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 288
+\tx
+\ft
+\nt
+\ev Экич гундинни-оныши ,онбыди ныкчим?
+\ru Никак,скажешь-как же мне сделать?
+\ELANBegin 00:18:15.530
+\ELANEnd 00:18:19.520
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 289
+\tx
+\ft
+\nt
+\ev 
+
+\ev Нан диоҕчэн, эркэнэ. Бикэ тала коериву???
+
+\ru И вспомнишь- вот же.Я же там видел.
+\ELANBegin 00:18:19.540
+\ELANEnd 00:18:24.700
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 290
+\tx
+\ft
+\nt
+\ev Айдиттэ.
+\ru И правда.
+\ELANBegin 00:18:24.725
+\ELANEnd 00:18:25.630
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 291
+\tx
+\ft
+\nt
+\ev Нан айдит тала бидин.
+\ru И правда-там будет.
+\ELANBegin 00:18:25.630
+\ELANEnd 00:18:27.220
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 292
+\tx
+\ft Then she also said: ...
+\nt
+\ev Нан унэд гунэн: ...
+\ru Потом еще говорила: ...
+\ELANBegin 00:18:27.230
+\ELANEnd 00:18:28.380
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 293
+\tx
+\ft
+\nt
+\ev Ок буйла бивэчишь-явда бакчинни
+\ru 
+
+\ru Когда в лесу бываете-что-нибудь найдёте,
+
+\ELANBegin 00:18:28.400
+\ELANEnd 00:18:31.450
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 294
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Куррукэв, бэйекэлбу, ойелби окта эдиллэ гаваткиллы
+\ru кружечку,куклу ,одежду-никогда не берите.
+
+\ELANBegin 00:18:31.460
+\ELANEnd 00:18:39.440
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 295
+\tx
+\ft
+\nt
+\ev Кэнели тавар.
+\ru Плохое это.
+\ELANBegin 00:18:39.450
+\ELANEnd 00:18:41.870
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 296
+\tx
+\ft
+\nt
+\ev Нан аричивдир.Эмдиндэ ӈидэ.
+\ru И полтергейтс будет.Придёт кто-нибудь.
+\ELANBegin 00:18:41.875
+\ELANEnd 00:18:45.565
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 297
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Гундин, яду гадишь,эрэк  минни.Эдиллы окта.
+\ru Скажет-зачем взял,это моё.Никогда не делайте.
+
+\ELANBegin 00:18:45.575
+\ELANEnd 00:18:51.240
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 298
+\tx
+\ft
+\nt
+\ev Нан би диоҕчэрэм: ...
+\ru Я помню.
+\ELANBegin 00:18:51.262
+\ELANEnd 00:18:53.642
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 299
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Кучукэн бишиву. Омнэкэн урриву Ноӈнунни тэвлэшшивун.
+\ru Маленькая была. Однажды пошли с ней по ягоды ходили.
+
+\ELANBegin 00:18:53.647
+\ELANEnd 00:19:00.077
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 300
+\tx
+\ft
+\nt
+\ev Дюкэрин.
+\ru Вдвоём.
+\ELANBegin 00:19:00.077
+\ELANEnd 00:19:01.007
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 301
+\tx
+\ft
+\nt
+\ev Нан би бакриву Кочелляякан екэчэн.
+\ru И я нашла маленькую кастрюльку.
+\ELANBegin 00:19:01.020
+\ELANEnd 00:19:07.020
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 302
+\tx
+\ft
+\nt
+\ev Тала тывты икутич бишин.
+\ru Там ягода хорошая была.
+\ELANBegin 00:19:07.030
+\ELANEnd 00:19:09.830
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 303
+\tx
+\ft
+\nt
+\ev Би-да нан гадиву.
+\ru И я взяла.
+\ELANBegin 00:19:09.845
+\ELANEnd 00:19:11.635
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 304
+\tx
+\ft ??? I say: ...
+\nt
+\ev Окниди ,гуным:
+\ru На радостях,говорю:
+\ELANBegin 00:19:11.645
+\ELANEnd 00:19:13.535
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 305
+\tx
+\ft ... Grandmother, look!
+\nt
+\ev ... Эниҕэ, коетли!
+\ru ... Бабушка, смотри!
+\ELANBegin 00:19:13.535
+\ELANEnd 00:19:14.785
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 306
+\tx
+\ft
+\nt
+\ev Илэ бакриш?
+\ru Где нашла?
+\ELANBegin 00:19:14.795
+\ELANEnd 00:19:15.895
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 307
+\tx
+\ft
+\nt
+\ev Тала бакриву.
+\ru Там нашла.
+\ELANBegin 00:19:15.900
+\ELANEnd 00:19:16.910
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 308
+\tx
+\ft
+\nt
+\ev Ҕэнулли!
+\ru Неси.
+\ELANBegin 00:19:16.910
+\ELANEnd 00:19:18.330
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 309
+\tx
+\ft
+\nt
+\ev Нан би ҕэлливу.
+\ru А я боялась.
+\ELANBegin 00:19:18.345
+\ELANEnd 00:19:20.485
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 310
+\tx
+\ft
+\nt
+\ev Ҕэнулли!
+\ru Неси.
+\ELANBegin 00:19:20.500
+\ELANEnd 00:19:21.640
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 311
+\tx
+\ft
+\nt
+\ev Илэ гадишь
+\ru Где взяла-
+\ELANBegin 00:19:21.655
+\ELANEnd 00:19:22.360
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 312
+\tx
+\ft
+\nt
+\ev -талаттэ нэли.
+\ru туда же положи.
+\ELANBegin 00:19:22.375
+\ELANEnd 00:19:23.670
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 313
+\tx
+\ft
+\nt
+\ev Эчин илычидянниву-тармы тэвтэ.
+\ru Вот так я стояла-такая ягода.
+\ELANBegin 00:19:23.670
+\ELANEnd 00:19:28.310
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 314
+\tx
+\ft I say: ...
+\nt
+\ev Гунни:
+\ru Говорит:
+\ELANBegin 00:19:28.335
+\ELANEnd 00:19:29.640
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 315
+\tx
+\ft
+\nt
+\ev Нэнели.
+\ru Отнеси.
+\ELANBegin 00:19:29.640
+\ELANEnd 00:19:31.190
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 316
+\tx
+\ft
+\nt
+\ev ӈэнуриву.
+\ru Отнесла.
+\ELANBegin 00:19:31.200
+\ELANEnd 00:19:33.300
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 317
+\tx
+\ft As she said: ...
+\nt
+\ev Он гунни: ...
+\ru Как говорила: ...
+\ELANBegin 00:19:33.315
+\ELANEnd 00:19:34.275
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 318
+\tx
+\ft ??? Look, many berries!
+\nt
+\ev Мунду-быди дисчин элэ,коетли-оя тэвты.
+\ru 
+
+\ru Нам -то хватит,здесь ,смотри -много ягоды.
+
+\ELANBegin 00:19:34.280
+\ELANEnd 00:19:38.130
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 319
+\tx
+\ft Maybe this is an apparition.
+\nt
+\ev Тарак коч аришаг мэнди нэрин
+\ru 
+
+\ru Это может быть привидение-аришаг себе положил.
+
+\ELANBegin 00:19:38.135
+\ELANEnd 00:19:40.865
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 320
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Исачин или долба эмдин, дибдин яду гадиш.
+\ru Вечером или ночью придёт сьест-зачем взяла?
+
+\ELANBegin 00:19:40.875
+\ELANEnd 00:19:46.085
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 321
+\tx
+\ft And therefore I tell the children: ???
+\nt
+\ev
+\ru 
+
+\ev И тэми би куҕалтэки гуниву: Эдиллэ окта явда уӈгырэкиллы.
+\ru И поэтому я детям говорю:никогданичего не творите.
+
+\ELANBegin 00:19:46.090
+\ELANEnd 00:19:51.540
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 322
+\tx
+\ft
+\nt
+\ev И муттулэ тачинта вот нэккотты.
+\ru И вот у нас так вот делают.
+\ELANBegin 00:19:51.550
+\ELANEnd 00:19:55.930
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 323
+\tx
+\ft
+\nt
+\ev Или косчимӈал ӈыныддётты-явда баккотты,эштынтэтич гаватты.Гуным  нан-эӈуне.
+\ru 
+
+\ru Или пастухи что-нибудь найдут-не берут ничего.Говорю вот-страшно.
+
+\ELANBegin 00:19:55.955
+\ELANEnd 00:20:02.660
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 324
+\tx
+\ft
+\nt
+\ev Аричивдир-ногдияткы.
+\ru Аришаг придёт-ну его.
+\ELANBegin 00:20:02.665
+\ELANEnd 00:20:05.370
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 325
+\tx
+\ft
+\nt
+\ev Иӈэ.
+\ru Да.
+\ELANBegin 00:20:05.370
+\ELANEnd 00:20:06.930
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 326
+\tx
+\ft
+\nt
+\ev Нан унэд: Би уррэдми Ленинградтэки.
+\ru Потом еще: Я Уезжала в Ленинград.
+\ELANBegin 00:20:06.945
+\ELANEnd 00:20:13.625
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 327
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Мин эниӈэву мин нюритэву минэрин.Эчин минэрин.
+\ru Моя бабушка маи волосы отрезалала.Так отрезала.
+
+\ELANBegin 00:20:13.630
+\ELANEnd 00:20:20.050
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 328
+\tx
+\ft
+\nt
+\ev ???
+\ru 
+
+\ru Спрашиваю:Зачем ты сделала?Ну вот же -ты меня не забудешь.
+
+\ELANBegin 00:20:20.064
+\ELANEnd 00:20:25.055
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 329
+\tx
+\ft
+\nt
+\ev Би инну.
+\ru Я тебя.
+\ELANBegin 00:20:25.074
+\ELANEnd 00:20:26.844
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 330
+\tx
+\ft This was ... I ... How should I say this ...
+\nt
+\ev
+\ru 
+
+\ev Эрэк бидин ... Би ... Он-кэ говаттэм ...Аӈанычопча.
+\ru Это было ... Я ... Как же сказать ...пришивание.
+
+\ELANBegin 00:20:26.854
+\ELANEnd 00:20:35.584
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 331
+\tx
+\ft
+\nt
+\ev Бу дюкэрин бидип.
+\ru Мы вдвоём будем.
+\ELANBegin 00:20:35.590
+\ELANEnd 00:20:37.610
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 332
+\tx
+\ft
+\nt
+\ev И тунҕэн анҕину кучуддиву.
+\ru И пять лет училась.
+\ELANBegin 00:20:37.625
+\ELANEnd 00:20:44.370
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 333
+\tx
+\ft
+\nt
+\ev Эрэгыр би говаттэм нан уррэдми.
+\ru И всегда я говорила,уезжая.
+\ELANBegin 00:20:44.380
+\ELANEnd 00:20:48.730
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 334
+\tx
+\ft
+\nt
+\ev 
+
+\ev Каникулдук эмниди,нан орротэм нан говэттэм-минэдинни?
+
+\ru с каникул уезжаяи говорю-отрежешь?
+\ELANBegin 00:20:48.740
+\ELANEnd 00:20:52.360
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 335
+\tx
+\ft
+\nt
+\ev Ногдык минниккэ бинни элэ.
+\ru Не надо у меня же есть здесь.
+\ELANBegin 00:20:52.385
+\ELANEnd 00:20:55.400
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 336
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Нан бинни минҕи ... Би кока бишиву, кучукэн кока бишиву.
+\ru И есть у меня.. я лялей была, маленькой лялей была.
+
+\ELANBegin 00:20:55.400
+\ELANEnd 00:21:02.900
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 337
+\tx
+\ft
+\nt
+\ev Мин бишин эррочин ... он-ка говаттэм ... авчаны, нючэдич говаттэ  "чепчик".
+\ru 
+
+\ru У меня есть такая ..как называют ..шапочка,по-русски говорят -чепчик.
+
+\ELANBegin 00:21:02.900
+\ELANEnd 00:21:10.760
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 338
+\tx
+\ft
+\nt
+\ev И тик тэрэну бинни.
+\ru до сих пор есть.
+\ELANBegin 00:21:10.775
+\ELANEnd 00:21:13.165
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 339
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Кучукэн эрэгэрэ тала нэдэн мин нюритчему.
+\ru Маленькая всегда там положила мои волосики.
+
+\ELANBegin 00:21:13.170
+\ELANEnd 00:21:19.010
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 340
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Нан гунни:эрэк биддин-би арым-аич биддинни.
+\ru И говорит-это будет,я знаю-хорошо  ты будешь жить.
+
+\ELANBegin 00:21:19.025
+\ELANEnd 00:21:23.625
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 341
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Уррэдми Ленинградтэки минду унэритэн часы.
+\ru Когда в Ленинград уезжала мне купили часы.
+
+\ELANBegin 00:21:23.640
+\ELANEnd 00:21:31.460
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 342
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev А ноӈынкы окта эч.. Якыси ноӈӈинбисин окта часын.
+\ru А она никогда не..никогда не было у неё часов.
+
+\ELANBegin 00:21:31.475
+\ELANEnd 00:21:37.850
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 343
+\tx
+\ft Then I say: Nadya, come here!
+\nt
+\ev Нан гунни -Неде ,тала эмдинни
+\ru И говорит -Надя,туда приедешь,
+\ELANBegin 00:21:37.860
+\ELANEnd 00:21:43.170
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 344
+\tx
+\ft
+\nt
+\ev ӈидэ улгимидин
+\ru кто-нибудь спросит-
+\ELANBegin 00:21:43.180
+\ELANEnd 00:21:44.930
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 345
+\tx
+\ft
+\nt
+\ev Ады, ады ... часын?
+\ru сколько времени?
+\ELANBegin 00:21:44.940
+\ELANEnd 00:21:49.910
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 346
+\tx
+\ft
+\nt
+\ev Эдиллэдэ коетты,эдиллыдэ ногдыкыллэ.
+\ru не смотрите ,не надо.
+\ELANBegin 00:21:49.910
+\ELANEnd 00:21:53.580
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 347
+\tx
+\ft I say: Damn! ???
+\nt
+\ev
+\ru 
+
+\ev А би гунэм: Эррой! Эрэк -то город-эгден город.
+\ru А я говорю: Эх! Это же город,большой город.
+
+\ELANBegin 00:21:53.605
+\ELANEnd 00:22:02.600
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 348
+\tx
+\ft
+\nt
+\ev Эшне, эдиллэ ногдияткы.
+\ru нет не надо-ну их.
+\ELANBegin 00:22:02.610
+\ELANEnd 00:22:05.260
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 349
+\tx
+\ft
+\nt
+\ev Нан коечэр! нан гундир
+\ru И посмотрят и скажут-
+\ELANBegin 00:22:05.270
+\ELANEnd 00:22:08.190
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 350
+\tx
+\ft
+\nt
+\ev коч тамыӈын оя бишни-ямиши
+\ru Наверно у неё много денег.
+\ELANBegin 00:22:08.190
+\ELANEnd 00:22:12.810
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 351
+\tx
+\ft
+\nt
+\ev Ноӈыннин бинни часы.
+\ru Уней есть часы.
+\ELANBegin 00:22:12.825
+\ELANEnd 00:22:14.995
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 352
+\tx
+\ft For here this was wealth.
+\nt
+\ev
+\ru Для нее это богатство было.
+\ELANBegin 00:22:15.015
+\ELANEnd 00:22:19.045
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 353
+\tx
+\ft Aha.
+\nt
+\ev
+\ru Ага.
+\ELANBegin 00:22:18.175
+\ELANEnd 00:22:18.965
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 354
+\tx
+\ft And how did she ???
+\nt
+\ev
+\ru А как она ???
+\ELANBegin 00:22:19.745
+\ELANEnd 00:22:22.865
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 355
+\tx
+\ft Mmm. She was a mas ... We was such a master.
+\nt
+\ev Ммм. Она мас... У нас такая авай была.
+\ru 
+
+\ru Ммм. Она мас... У нас такая мастерица была.
+
+\ELANBegin 00:22:22.880
+\ELANEnd 00:22:26.680
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 356
+\tx
+\ft
+\nt
+\ev Нан эрэгыр ... если  бутэныддиру,особенно орытти..нючидич  говэтты-ячмень на глазу. вот ноӈын мину упкуттин он нэккотты.
+\ru Ивсегда если мы болеем, особенно ,по-эвенски..по-русски говорят-ячмень  на глазу.Вот она меня научила как делать.
+\ELANBegin 00:22:26.699
+\ELANEnd 00:22:42.090
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 357
+\tx
+\ft
+\nt
+\ev Би-да уӈыддётым.
+\ru и я так делаю.
+\ELANBegin 00:22:42.100
+\ELANEnd 00:22:43.920
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 358
+\tx
+\ft
+\nt
+\ev И тик тэрэну коетли, ачча минӈи якта.
+\ru И до сих пор ,смотри- нет у меня ничего.
+\ELANBegin 00:22:43.930
+\ELANEnd 00:22:46.690
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 359
+\tx
+\ft
+\nt
+\ev Вот уже эгден-би уже аши одиву.
+\ru я уже взрослая ,уже  женщиной я стала.
+\ELANBegin 00:22:46.720
+\ELANEnd 00:22:49.880
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 360
+\tx
+\ft
+\nt
+\ev И тик тэрэну ачча.
+\ru И до сих пор нет.
+\ELANBegin 00:22:49.895
+\ELANEnd 00:22:52.470
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 361
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Би-да ... ӈидэ говэттын-эррой,минӈи ямивутта ясылу ин..та..энсын?
+\ru Я тоже..кто-нибудь скажет-ой,у меня почему-то глаза ин..та..болят?
+
+\ELANBegin 00:22:52.487
+\ELANEnd 00:22:57.570
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 362
+\tx
+\ft
+\nt
+\ev Да, би нэптэку.
+\ru
+\ELANBegin 00:22:57.580
+\ELANEnd 00:22:59.100
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 363
+\tx
+\ft
+\nt
+\ev 
+
+\ev Би эчин нэккотым- он мину упкурин мин энинэву.
+
+\ru Я так делаю как научила моя бабушка.
+\ELANBegin 00:22:59.100
+\ELANEnd 00:23:02.890
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 364
+\tx
+\ft
+\nt
+\ev Нан айдиттэ ,Динада ан.
+\ru Да правда,Дина  тоже  знает.
+\ELANBegin 00:23:02.900
+\ELANEnd 00:23:07.000
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 365
+\tx
+\ft
+\nt
+\ev Тармы уныт бишин,онкы говэтты.
+\ru Но была ещё,как вот говорят.
+\ELANBegin 00:23:07.015
+\ELANEnd 00:23:16.845
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 366
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Если ноӈман ӈидэ ашукандин-этэндэ явда гун.
+\ru Если её кто-нибудь обидит-ничего не скажет.
+
+\ELANBegin 00:23:16.850
+\ELANEnd 00:23:22.050
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 367
+\tx
+\ft
+\nt
+\ev Мэргэччин.
+\ru ;Будет думать.
+\ELANBegin 00:23:22.065
+\ELANEnd 00:23:23.425
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 368
+\tx
+\ft
+\nt
+\ev 
+
+\ev Или умымдэ торэм гундин -нян тачинда бивэттэн.
+
+\ru Или одно слово скажет-и так же бывает.
+\ELANBegin 00:23:23.430
+\ELANEnd 00:23:28.330
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 369
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Тармы окта эч кэнелив,кэнелич гун там-нёмэдилдэи,эттэ говэтты.
+\ru Но никогда плохое,плохо не сказала там-про смерть не говорила.
+
+\ELANBegin 00:23:28.355
+\ELANEnd 00:23:37.320
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 370
+\tx
+\ft Then she told me: ...
+\nt
+\ev Нан минтэки гунэн: ...
+\ru Потом она мне говорила: ...
+\ELANBegin 00:23:37.335
+\ELANEnd 00:23:41.225
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 371
+\tx
+\ft ... I see, how you are living.
+\nt
+\ev ... Би коеччим он у биддишь.
+\ru .Я буду смотреть как вы будете жить.
+\ELANBegin 00:23:41.235
+\ELANEnd 00:23:44.575
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 372
+\tx
+\ft I know.
+\nt
+\ev Би арэм.
+\ru Я знаю.
+\ELANBegin 00:23:44.580
+\ELANEnd 00:23:46.460
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 373
+\tx
+\ft
+\nt
+\ev Мин уррэку би арэм.
+\ru Когда я уйду
+\ELANBegin 00:23:46.475
+\ELANEnd 00:23:49.350
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 374
+\tx
+\ft
+\nt
+\ev У аич биддиш.
+\ru вы хорошо жить будете.
+\ELANBegin 00:23:49.350
+\ELANEnd 00:23:51.070
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 375
+\tx
+\ft
+\nt
+\ev Гунни-бик-кы уну
+\ru Говорит- я же вас
+\ELANBegin 00:23:51.074
+\ELANEnd 00:23:56.783
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 376
+\tx
+\ft How ... how should I say?
+\nt
+\ev Он-кэ ... он-кэ говаттэ?
+\ru Как же ... как же сказать?
+\ELANBegin 00:23:56.783
+\ELANEnd 00:24:07.898
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 377
+\tx
+\ft
+\nt
+\ev Би уну чэливан арэм, чэливан.
+\ru Я вас всех знаю,всех.
+\ELANBegin 00:24:10.425
+\ELANEnd 00:24:14.430
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 378
+\tx
+\ft
+\nt
+\ev Гуннэ: Дюллэ коеттиву, он биддиш.
+\ru Говорила: ???
+\ELANBegin 00:24:14.442
+\ELANEnd 00:24:17.740
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 379
+\tx
+\ft
+\nt
+\ev Дюллэ коеттиву, он биддиш.
+\ru 
+
+\ru Говорила:вперёд смотрела как вы жить будете.
+
+\ELANBegin 00:24:17.756
+\ELANEnd 00:24:21.811
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 380
+\tx
+\ft
+\nt
+\ev 
+
+\ev Нан говаттэн: Эдиллэ окта минавда уӈкерэ..уӈкыткил.
+
+\ru И говорила:никогда не лейте  спиртное.
+\ELANBegin 00:24:21.811
+\ELANEnd 00:24:28.130
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 381
+\tx
+\ft
+\nt
+\ev Гунэм: Ями?
+\ru Говорю: почему?
+\ELANBegin 00:24:28.140
+\ELANEnd 00:24:29.620
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 382
+\tx
+\ft
+\nt
+\ev Бенакал одишь.
+\ru Пьяницами станете.
+\ELANBegin 00:24:29.625
+\ELANEnd 00:24:33.035
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 383
+\tx
+\ft
+\nt
+\ev Элэкэн ,бишмыдэн.
+\ru Пусть будет.
+\ELANBegin 00:24:33.035
+\ELANEnd 00:24:36.180
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 384
+\tx
+\ft
+\nt
+\ev ӈиду боӈэнни.
+\ru кому-нибудь отдай.
+\ELANBegin 00:24:36.190
+\ELANEnd 00:24:37.880
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 385
+\tx
+\ft
+\nt
+\ev Этэш тачин нэкрэ, этэш бянэр.
+\ru Не будете так делать -не будете пить.
+\ELANBegin 00:24:37.890
+\ELANEnd 00:24:42.430
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 386
+\tx
+\ft How you are living ...
+\nt
+\ev Нян биддишь.
+\ru И будете жить.
+\ELANBegin 00:24:42.445
+\ELANEnd 00:24:44.815
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 387
+\tx
+\ft
+\nt
+\ev Нан би упкуриву.
+\ru и я уразумела.
+\ELANBegin 00:24:44.825
+\ELANEnd 00:24:48.600
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 388
+\tx
+\ft What else?
+\nt
+\ev Унэд яв?
+\ru Что еще?
+\ELANBegin 00:24:48.600
+\ELANEnd 00:24:51.290
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 389
+\tx
+\ft And ... did she tell any stories about apparitions?
+\nt
+\ev
+\ru 
+
+\ru Это ... всякие истории про аришал всякие рассказывала?
+
+\ELANBegin 00:24:58.430
+\ELANEnd 00:25:04.200
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 390
+\tx
+\ft
+\nt
+\ev Про аришаг?
+\ru Про привидений?.
+\ELANBegin 00:25:04.210
+\ELANEnd 00:25:05.500
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 391
+\tx
+\ft Or about any spirits.
+\nt
+\ev
+\ru Или про какие-нибудь духи.
+\ELANBegin 00:25:05.470
+\ELANEnd 00:25:07.550
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 392
+\tx
+\ft
+\nt
+\ev
+\ru
+\ELANBegin 00:25:07.389
+\ELANEnd 00:25:16.709
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 393
+\tx
+\ft Do you remember any story which she was telling, when she ...  any  story she told, when you ??? under the blanket with rabbit-???
+\nt
+\ev
+\ru Рассказку помнишь какую рассказывала, когда она ... сказку  рассказывала, когда вы ??? под одеяло заячьими ???
+\ELANBegin 00:25:16.709
+\ELANEnd 00:25:18.195
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 394
+\tx
+\ft
+\nt
+\ev 
+
+\tx Аа,да, аха много рассказывала сказок всяких,рассказывала.
+\ev Аа, да, аха ояв тэлыӈыддин нимкам гекив,тэлыныддин.
+
+\ru
+\ELANBegin 00:25:18.220
+\ELANEnd 00:25:24.690
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 395
+\tx
+\ft
+\nt
+\ev
+\ru
+\ELANBegin 00:25:24.715
+\ELANEnd 00:25:27.135
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 396
+\tx
+\ft I've forgotten.
+\nt
+\ev Омҕариву-да нан.
+\ru Я забыла.
+\ELANBegin 00:25:27.150
+\ELANEnd 00:25:31.200
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 397
+\tx
+\ft I've forgotten.
+\nt
+\ev Омҕариву.
+\ru Я забыла.
+\ELANBegin 00:25:31.210
+\ELANEnd 00:25:34.020
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 398
+\tx
+\ft
+\nt
+\ev Дёным как тэлыӈыддётын.Буккы эрыгыр-и дабдын-эчин дышчиддип,ноӈын  тэлыныддин.
+\ru Вспомнила как рассказывала. Мы всегда -кто будет слабым-так лежим-она  рассказывает.
+\ELANBegin 00:25:34.030
+\ELANEnd 00:25:44.350
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 399
+\tx
+\ft
+\nt
+\ev Нан икэден явда.
+\ru То поёт что-нибудь.
+\ELANBegin 00:25:44.350
+\ELANEnd 00:25:45.910
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 400
+\tx
+\ft I've forgotten the tales.
+\nt
+\ev Нимкаӈи омӈыриву.
+\ru Я забыла сказки.
+\ELANBegin 00:25:45.925
+\ELANEnd 00:25:50.285
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 401
+\tx
+\ft I don't remember.
+\nt
+\ev Эшэм-да дёӈчир.
+\ru Я не помню.
+\ELANBegin 00:25:50.290
+\ELANEnd 00:25:55.970
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 402
+\tx
+\ft Bera probably has forgotten.
+\nt
+\ev Бера-да коч омҕарин-да.
+\ru Бера наверно забыла.
+\ELANBegin 00:25:55.975
+\ELANEnd 00:25:58.055
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 403
+\tx
+\ft Mhm.
+\nt
+\ev
+\ru Мхм.
+\ELANBegin 00:25:58.060
+\ELANEnd 00:25:59.370
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 404
+\tx
+\ft Viktor has forgotten.
+\nt
+\ev Виктор -да омӈырин.
+\ru Виктор тоже забыл.
+\ELANBegin 00:25:59.370
+\ELANEnd 00:26:03.180
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 405
+\tx
+\ft Well, thank you.
+\nt
+\ev
+\ru Ну, спасибо.
+\ELANBegin 00:26:06.170
+\ELANEnd 00:26:08.190
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 406
+\tx
+\ft Is it enough?
+\nt
+\ev Тикэ?
+\ru Хватит?
+\ELANBegin 00:26:07.545
+\ELANEnd 00:26:08.575
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 407
+\tx
+\ft It's enough. I don't know.
+\nt
+\ev Тик. Эшэм ар.
+\ru Хватит. Не знаю.
+\ELANBegin 00:26:09.375
+\ELANEnd 00:26:12.425
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 408
+\tx
+\ft ??? ... Aaa, what was her name? How was she called?
+\nt
+\ev ??? ... Ааа, как ее звали? Он гэрбэн?
+\ru ??? ... Ааа, как ее звали? Как звали?
+\ELANBegin 00:26:12.830
+\ELANEnd 00:26:17.530
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 409
+\tx
+\ft
+\nt
+\ev
+\ru Евдокия Эрмановна.
+\ELANBegin 00:26:17.535
+\ELANEnd 00:26:19.835
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 410
+\tx
+\ft Yevdokiya Romanovna.
+\nt
+\ev
+\ru Евдокия Романовна.
+\ELANBegin 00:26:19.170
+\ELANEnd 00:26:20.960
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 411
+\tx
+\ft And her family name?
+\nt
+\ev
+\ru А фамилия?
+\ELANBegin 00:26:20.720
+\ELANEnd 00:26:21.430
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 412
+\tx
+\ft
+\nt
+\ev
+\ru Адуканова.
+\ELANBegin 00:26:21.420
+\ELANEnd 00:26:22.510
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 413
+\tx
+\ft Adukanova.
+\nt
+\ev
+\ru Адуканова.
+\ELANBegin 00:26:22.495
+\ELANEnd 00:26:23.295
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 414
+\tx
+\ft
+\nt
+\ev
+\ru Аха. Она была из Солодиковых.
+\ELANBegin 00:26:22.940
+\ELANEnd 00:26:25.480
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 415
+\tx
+\ft Aha.
+\nt
+\ev
+\ru Аха.
+\ELANBegin 00:26:25.475
+\ELANEnd 00:26:26.065
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 416
+\tx
+\ft
+\nt
+\ev
+\ru А вышла замуж за Адукановым.
+\ELANBegin 00:26:26.055
+\ELANEnd 00:26:28.585
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 417
+\tx
+\ft Yedokiya Ermanovna ???, they said Ermanovna.
+\nt
+\ev
+\ru 
+
+\ev Евдокия Эрмановна -'эчин.Евдокия Эрмановна говэттын.
+\ru Евдокия Эрмановна так.Евдокия Эрмановна говорила.
+
+\ELANBegin 00:26:28.585
+\ELANEnd 00:26:34.310
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 418
+\tx
+\ft I'm Yevdokiya Ermanovna.
+\nt
+\ev Би - Эвдокия Эрмановна.
+\ru Я - Эвдокия Эрмановна.
+\ELANBegin 00:26:34.322
+\ELANEnd 00:26:36.642
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 419
+\tx
+\ft Aha. Bera said that, right?
+\nt This was said in the direction of DK. AL had been at Bera's together  with DK some time earlier.
+\ev
+\ru Аха. Бера говорила, да?
+\ELANBegin 00:26:36.627
+\ELANEnd 00:26:38.410
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 420
+\tx
+\ft
+\nt
+\ev Да, иҕэ.
+\ru
+\ELANBegin 00:26:38.397
+\ELANEnd 00:26:39.397
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 421
+\tx
+\ft Ermanovna.
+\nt
+\ev
+\ru Эрмановна.
+\ELANBegin 00:26:39.272
+\ELANEnd 00:26:40.210
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 422
+\tx
+\ft
+\nt
+\ev Эрмановна.
+\ru
+\ELANBegin 00:26:39.876
+\ELANEnd 00:26:41.076
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 423
+\tx
+\ft The last of the Romanovs.
+\nt
+\ev
+\ru Последний из Романовых.
+\ELANBegin 00:26:40.381
+\ELANEnd 00:26:42.691
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 424
+\tx
+\ft
+\nt
+\ev Иҕэ.
+\ru Да.
+\ELANBegin 00:26:42.691
+\ELANEnd 00:26:43.781
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 425
+\tx
+\ft Well, good.
+\nt
+\ev
+\ru Ну, хорошо.
+\ELANBegin 00:26:45.121
+\ELANEnd 00:26:46.591
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 426
+\tx
+\ft ??? ... what did I want to ...
+\nt
+\ev
+\ru ??? ... чего же я хотела ...
+\ELANBegin 00:26:46.601
+\ELANEnd 00:26:53.500
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 427
+\tx
+\ft You haven't been in the herding camp?
+\nt
+\ev
+\ru А в табуне не были?
+\ELANBegin 00:26:53.506
+\ELANEnd 00:26:56.626
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 428
+\tx
+\ft
+\nt
+\ev И би так-то оллотиву ортэки.
+\ru И я так-то ездила в табун.
+\ELANBegin 00:26:56.631
+\ELANEnd 00:27:00.791
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 429
+\tx
+\ft
+\nt
+\ev Упкутми коплэчиддиву нургэддиву нан агит-бригадаглида дыгыллоттиву  Жупановала,и элэдэ Анавгайский куст.
+\ru Когда училась ,танцевала и с агит бригадой летала в Жупаново и тут по  Анавгайскому кусту.
+\ELANBegin 00:27:00.806
+\ELANEnd 00:27:15.080
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 430
+\tx
+\ft
+\nt
+\ev 
+
+\ev Коплэчиддиву нан так и..в..оккына оллоттивун?
+
+\ru Танцевала и так и..в..когда же ездили?
+\ELANBegin 00:27:15.080
+\ELANEnd 00:27:26.570
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 431
+\tx
+\ft Last year, right?
+\nt
+\ev
+\ru В прошлом году, да?
+\ELANBegin 00:27:26.580
+\ELANEnd 00:27:29.140
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 432
+\tx
+\ft Mhm.
+\nt
+\ev
+\ru Мхм.
+\ELANBegin 00:27:29.140
+\ELANEnd 00:27:30.190
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 433
+\tx
+\ft
+\nt
+\ev Оллотыву ортэки.
+\ru
+\ELANBegin 00:27:30.210
+\ELANEnd 00:27:33.250
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 434
+\tx
+\ft
+\nt
+\ev Илэ мин ну Иван гургэвчэттэн тартаки.
+\ru
+\ELANBegin 00:27:33.250
+\ELANEnd 00:27:37.700
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 435
+\tx
+\ft
+\nt
+\ev Би оллотыву, тала бишиву.
+\ru
+\ELANBegin 00:27:37.710
+\ELANEnd 00:27:40.040
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 436
+\tx
+\ft Yes.
+\nt
+\ev Иҕэ.
+\ru Да.
+\ELANBegin 00:27:40.060
+\ELANEnd 00:27:40.930
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 437
+\tx
+\ft Tell about Chandr! (NMK's husband is called Aleksandr. In Even this  name is pronouned "Chandr".)
+\nt
+\ev
+\ru Про Чандра расскажи!
+\ELANBegin 00:27:40.930
+\ELANEnd 00:27:42.910
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 438
+\tx
+\ft Aaa.
+\nt
+\ev
+\ru Ааа.
+\ELANBegin 00:27:42.905
+\ELANEnd 00:27:43.845
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 439
+\tx
+\ft My husband Aleksandr, he is the chairman of the clan cooperative  "Akenman".
+\nt
+\ev
+\ru 
+
+\ev Мин этикэнму Чандр ноҕан - председатель родовой общины "Акэнман".
+\ru Мой муж Александр, он - председатель родовой общины "Акэнман".
+
+\ELANBegin 00:27:43.860
+\ELANEnd 00:27:51.540
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 440
+\tx
+\ft I ... In which year? I've forgotten.
+\nt
+\ev Бу ... В каком году? Да я забыла.
+\ru Я ... В каком году? Да я забыла.
+\ELANBegin 00:27:51.554
+\ELANEnd 00:28:02.260
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 441
+\tx
+\ft In 2007 ... no, in 2006 (the cooperative "Akenman") was founded, in  2007 the reindeer ...
+\nt
+\ev
+\ru 
+
+\ru В 2007ом ... нет, в 2006ом создали, в 2007ом олени ...
+
+\ELANBegin 00:28:02.279
+\ELANEnd 00:28:10.030
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 442
+\tx
+\ft (The cooperative) was founded, right?
+\nt
+\ev
+\ru Создали, да?
+\ELANBegin 00:28:04.559
+\ELANEnd 00:28:05.410
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 443
+\tx
+\ft Yes.
+\nt
+\ev
+\ru Ага.
+\ELANBegin 00:28:09.469
+\ELANEnd 00:28:10.150
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 444
+\tx
+\ft
+\nt
+\ev В 2006ом году унэривун орбу, иҕэ.
+\ru
+\ELANBegin 00:28:10.174
+\ELANEnd 00:28:18.050
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 445
+\tx
+\ft
+\nt
+\ev FАбыл кочеллякакам униривун.
+\ru Мало,маленько купили.
+\ELANBegin 00:28:18.064
+\ELANEnd 00:28:20.939
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 446
+\tx
+\ft Then he said: ...
+\nt
+\ev Нан ноҕан гунни: ...
+\ru Потом он сказал: ...
+\ELANBegin 00:28:20.939
+\ELANEnd 00:28:23.509
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 447
+\tx
+\ft ... Now the cooperative exists.
+\nt
+\ev ... Бидин община нан.
+\ru ... Теперь община существует.
+\ELANBegin 00:28:23.519
+\ELANEnd 00:28:27.509
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 448
+\tx
+\ft
+\nt
+\ev Одын.
+\ru
+\ELANBegin 00:28:27.529
+\ELANEnd 00:28:28.899
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 449
+\tx
+\ft There were 120.
+\nt
+\ev
+\ru 120 было.
+\ELANBegin 00:28:28.329
+\ELANEnd 00:28:29.790
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 450
+\tx
+\ft Yes.
+\nt
+\ev Иҕэ.
+\ru Да.
+\ELANBegin 00:28:29.784
+\ELANEnd 00:28:30.344
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 451
+\tx
+\ft Aha.
+\nt
+\ev
+\ru Аха.
+\ELANBegin 00:28:30.334
+\ELANEnd 00:28:31.394
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 452
+\tx
+\ft Now ... right now there are already 400.
+\nt
+\ev Тик-та ... сейчас уже 400.
+\ru Теперь ... сейчас уже 400.
+\ELANBegin 00:28:31.370
+\ELANEnd 00:28:34.110
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 453
+\tx
+\ft How do you say in Even?
+\nt
+\ev
+\ru Как по-эвенски?
+\ELANBegin 00:28:34.130
+\ELANEnd 00:28:35.830
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 454
+\tx
+\ft I will tell you: ...
+\nt
+\ev Тик гундим: ...
+\ru Сейчас скажу: ...
+\ELANBegin 00:28:35.855
+\ELANEnd 00:28:37.185
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 455
+\tx
+\ft ... there are four hundred now, there are four hundred reindeer now.
+\nt
+\ev
+\ru 
+
+\ev ... Дигэн нямма тик, дигэн нямма оран тик.
+\ru ... Четыре ста теперь, четыре ста оленей теперь.
+
+\ELANBegin 00:28:37.190
+\ELANEnd 00:28:42.895
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 456
+\tx
+\ft Yes.
+\nt
+\ev Иҕэ.
+\ru Да.
+\ELANBegin 00:28:42.895
+\ELANEnd 00:28:43.585
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 457
+\tx
+\ft Good!
+\nt
+\ev Аич!
+\ru Хорошо!
+\ELANBegin 00:28:43.585
+\ELANEnd 00:28:44.435
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 458
+\tx
+\ft And there were 120 (in the beginning).
+\nt
+\ev А бишин умэн нямма диормэр.
+\ru А было 120.
+\ELANBegin 00:28:44.435
+\ELANEnd 00:28:49.495
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 459
+\tx
+\ft There were 120.
+\nt
+\ev Умэн нямма диормэр бишин.
+\ru Было сто двадцать.
+\ELANBegin 00:28:49.510
+\ELANEnd 00:28:52.850
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 460
+\tx
+\ft And now there are already four hundred, yes.
+\nt
+\ev А тик уже дигэн нямма, иҕэ.
+\ru А теперь уже четыре ста, да.
+\ELANBegin 00:28:52.865
+\ELANEnd 00:28:55.700
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 461
+\tx
+\ft
+\nt
+\ev
+\ru Онтэки ... он тачин ??? ?
+\ELANBegin 00:28:55.717
+\ELANEnd 00:28:58.620
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 462
+\tx
+\ft
+\nt
+\ev Эээ ... иҕэ, экичэ.
+\ru
+\ELANBegin 00:28:58.600
+\ELANEnd 00:29:03.460
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 463
+\tx
+\ft
+\nt
+\ev Нян тармы-бубыди орычил.
+\ru Но мы же -орочи.
+\ELANBegin 00:29:03.470
+\ELANEnd 00:29:07.470
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 464
+\tx
+\ft
+\nt
+\ev Аллатывун оралбу кусчидиоттэ.
+\ru Знали как оленей пасти.
+\ELANBegin 00:29:07.495
+\ELANEnd 00:29:11.355
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 465
+\tx
+\ft
+\nt
+\ev Нан биддэ тик -быди тала.
+\ru И сейчас там.
+\ELANBegin 00:29:11.360
+\ELANEnd 00:29:16.680
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 466
+\tx
+\ft Little Ivan.
+\nt
+\ev Ивачан.
+\ru Ивачан.
+\ELANBegin 00:29:16.695
+\ELANEnd 00:29:17.290
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 467
+\tx
+\ft Ivan.
+\nt
+\ev
+\ru Иван.
+\ELANBegin 00:29:17.287
+\ELANEnd 00:29:19.437
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 468
+\tx
+\ft And Nadezhda.
+\nt
+\ev
+\ru Да Надежда.
+\ELANBegin 00:29:19.447
+\ELANEnd 00:29:21.017
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 469
+\tx
+\ft Yes, he is the leader of the team ... the brigadier, right.
+\nt
+\ev Иҕэ, ноҕан звеньевой ... бригадир, иҕэ.
+\ru Да, он звеньевой ... бригадир, да.
+\ELANBegin 00:29:21.027
+\ELANEnd 00:29:26.110
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 470
+\tx
+\ft Then there is Kesha.
+\nt
+\ev Нан тала Кеша.
+\ru Потом там Кеша.
+\ELANBegin 00:29:26.123
+\ELANEnd 00:29:28.623
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 471
+\tx
+\ft Chandr ... he is his brother.
+\nt
+\ev
+\ru Чандр ... брат он.
+\ELANBegin 00:29:28.638
+\ELANEnd 00:29:31.848
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 472
+\tx
+\ft And who else?
+\nt
+\ev Нан унед ҕи?
+\ru Потом еще кто?
+\ELANBegin 00:29:31.858
+\ELANEnd 00:29:34.818
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 473
+\tx
+\ft And else now there is ... Slavka.
+\nt
+\ev
+\ru Так-то сейчас ... Славка.
+\ELANBegin 00:29:34.810
+\ELANEnd 00:29:41.120
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 474
+\tx
+\ft Slavka.
+\nt
+\ev Славка.
+\ru Славка.
+\ELANBegin 00:29:39.360
+\ELANEnd 00:29:40.840
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 475
+\tx
+\ft Rodion.
+\nt
+\ev
+\ru Родион.
+\ELANBegin 00:29:41.120
+\ELANEnd 00:29:42.110
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 476
+\tx
+\ft Dina's son.
+\nt
+\ev
+\ru Динин сын.
+\ELANBegin 00:29:41.780
+\ELANEnd 00:29:42.700
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 477
+\tx
+\ft My child Rodion is there ???.
+\nt
+\ev Мин-да куҕа Родион тала биддэ.
+\ru Мой ребенок Родион там ???
+\ELANBegin 00:29:42.715
+\ELANEnd 00:29:46.480
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 478
+\tx
+\ft Ladik.
+\nt
+\ev Ладик.
+\ru Ладик.
+\ELANBegin 00:29:46.490
+\ELANEnd 00:29:48.900
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 479
+\tx
+\ft
+\nt
+\ev Гургэвчин-та, аичбиддэ.
+\ru Работает, хорошо поживает.
+\ELANBegin 00:29:48.910
+\ELANEnd 00:29:54.230
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 480
+\tx
+\ft
+\nt
+\ev Орал ???
+\ru
+\ELANBegin 00:29:54.230
+\ELANEnd 00:29:59.320
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 481
+\tx
+\ft How do you say? "Mavatta"???
+\nt
+\ev Он говаттэ? "Маватта"???
+\ru Как говорят? "Маватта"???
+\ELANBegin 00:29:59.330
+\ELANEnd 00:30:03.670
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 482
+\tx
+\ft
+\nt
+\ev Мават, иҕэ.
+\ru Убивают.
+\ELANBegin 00:30:02.915
+\ELANEnd 00:30:04.300
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 483
+\tx
+\ft
+\nt
+\ev Эштэн маваттэн.
+\ru Не убивают.
+\ELANBegin 00:30:04.310
+\ELANEnd 00:30:05.960
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 484
+\tx
+\ft Or is there any special verb for "to slaughter reindeer"?
+\nt
+\ev
+\ru 
+
+\ru Или есть специальный глагол для "оленей забить"?
+
+\ELANBegin 00:30:05.180
+\ELANEnd 00:30:08.730
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 485
+\tx
+\ft
+\nt
+\ev Мадэй, да.
+\ru Чтоб убить.
+\ELANBegin 00:30:08.740
+\ELANEnd 00:30:10.900
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 486
+\tx
+\ft "Maday" (kill)?
+\nt
+\ev "Мадай"?
+\ru "Мадай" (забить)?
+\ELANBegin 00:30:10.805
+\ELANEnd 00:30:11.675
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 487
+\tx
+\ft
+\nt
+\ev Аха.
+\ru
+\ELANBegin 00:30:11.505
+\ELANEnd 00:30:12.010
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 488
+\tx
+\ft In Topoline they don't have anything ???, there are no ???.
+\nt
+\ev
+\ru В Тополине ничего нету ??? нету.
+\ELANBegin 00:30:12.012
+\ELANEnd 00:30:15.592
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 489
+\tx
+\ft
+\nt
+\ev Мхм.
+\ru
+\ELANBegin 00:30:15.947
+\ELANEnd 00:30:16.887
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 490
+\tx
+\ft
+\nt
+\ev Нан ... а был же-яду мадир?
+\ru Так мало же- зачем забивать.
+\ELANBegin 00:30:16.902
+\ELANEnd 00:30:21.862
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 491
+\tx
+\ft
+\nt
+\ev Ок эгден один-тарыкыммак.
+\ru Когда большой станет -только тогда.
+\ELANBegin 00:30:21.867
+\ELANEnd 00:30:24.697
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 492
+\tx
+\ft Mhm.
+\nt
+\ev
+\ru Мхм.
+\ELANBegin 00:30:24.697
+\ELANEnd 00:30:25.870
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 493
+\tx
+\ft As they say: market relations ???.
+\nt
+\ev
+\ru 
+
+\ev Он говаттэ: рыночные отношения биддёттын.
+\ru Как говорят: рыночные отношения бывают.
+
+\ELANBegin 00:30:25.887
+\ELANEnd 00:30:30.770
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 494
+\tx
+\ft
+\nt
+\ev А тик быди.
+\ru А сейчас-то.
+\ELANBegin 00:30:30.793
+\ELANEnd 00:30:31.953
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 495
+\tx
+\ft How to say in Even?
+\nt
+\ev Он-кэ гундим ораттыч?
+\ru Как же сказать по-эвенски?
+\ELANBegin 00:30:31.958
+\ELANEnd 00:30:36.408
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 496
+\tx
+\ft I forgot how to say in Even "revive".
+\nt
+\ev
+\ru 
+
+\ev Омӈыриву он орыттич-нан онкы нючидич говэтты-возродить.
+\ru Я забыла, как сказать по-эвенски "возрадить".
+
+\ELANBegin 00:30:36.418
+\ELANEnd 00:30:41.820
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 497
+\tx
+\ft Yes.
+\nt
+\ev Иҕэ.
+\ru Да.
+\ELANBegin 00:30:41.820
+\ELANEnd 00:30:42.988
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 498
+\tx
+\ft
+\nt
+\ev А ядук ... ядук бэйел биваттэ?
+\ru
+\ELANBegin 00:30:43.009
+\ELANEnd 00:30:49.240
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 499
+\tx
+\ft Where ... where ??? Where do the people take the money from in order  to make a living, when no reindeer are to be slaughtered?
+\nt
+\ev Элэ ... элэ ??? Откуда люди берут деньги, чтобы жить, если оленей не  забивать?
+\ru Где ... где ??? Откуда люди берут деньги, чтобы жить, если оленей не  забивать?
+\ELANBegin 00:30:49.240
+\ELANEnd 00:30:57.300
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 500
+\tx
+\ft Subsidies.
+\nt
+\ev
+\ru Дотации, субсидии.
+\ELANBegin 00:30:57.315
+\ELANEnd 00:31:01.475
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 501
+\tx
+\ft Aha. It is enough, right?
+\nt
+\ev
+\ru Аха. Хватает, да?
+\ELANBegin 00:31:01.470
+\ELANEnd 00:31:03.000
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 502
+\tx
+\ft Well, more or less.
+\nt
+\ev
+\ru Ну, так.
+\ELANBegin 00:31:03.000
+\ELANEnd 00:31:04.080
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 503
+\tx
+\ft There are few, few.
+\nt
+\ev Их мало, абыл.
+\ru Их мало, мало.
+\ELANBegin 00:31:03.570
+\ELANEnd 00:31:06.030
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 504
+\tx
+\ft She ???
+\nt
+\ev
+\ru Вот она свою зарплату ??? сколько уже?
+\ELANBegin 00:31:06.045
+\ELANEnd 00:31:09.905
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 505
+\tx
+\ft My husband works ... he owns an all-terrain vehicle ... a freighter.
+\nt
+\ev Мин этикэнму гургэвчиддэн ... ноҕан бидни вездеход ...  грузо-переводский.
+\ru 
+
+\ru Мой муж работает ... у него вездеход ... грузо-переводский.
+
+\ELANBegin 00:31:09.930
+\ELANEnd 00:31:20.200
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 506
+\tx
+\ft To Tigil' ... Sadanka (he is going).
+\nt
+\ev Тигиллэ ... Седанкала ...
+\ru В Тигиль ... Седанка ... (езжает).
+\ELANBegin 00:31:20.210
+\ELANEnd 00:31:26.150
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 507
+\tx
+\ft
+\nt
+\ev Тарав тамыддётты.
+\ru За это платят.
+\ELANBegin 00:31:26.165
+\ELANEnd 00:31:28.835
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 508
+\tx
+\ft
+\nt
+\ev Нян унииддётты продуктылбы.
+\ru Ипокупает продукты.
+\ELANBegin 00:31:28.840
+\ELANEnd 00:31:32.075
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 509
+\tx
+\ft Yes.
+\nt
+\ev Иҕэ.
+\ru Да.
+\ELANBegin 00:31:32.075
+\ELANEnd 00:31:32.615
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 510
+\tx
+\ft
+\nt
+\ev Тачин бидиоттэ.
+\ru
+\ELANBegin 00:31:32.620
+\ELANEnd 00:31:34.070
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 511
+\tx
+\ft Aha. And how about ... fish ... fish?
+\nt
+\ev Аха. А это ... оллыв ... оллыву?
+\ru Аха. А это ... рыбу ... рыбу?
+\ELANBegin 00:31:36.030
+\ELANEnd 00:31:38.830
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 512
+\tx
+\ft
+\nt
+\ev Оллыв?
+\ru Рыбу?
+\ELANBegin 00:31:38.805
+\ELANEnd 00:31:39.330
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 513
+\tx
+\ft Aha. Do you catch fish?
+\nt
+\ev
+\ru Аха. Ловите рыбу? ???
+\ELANBegin 00:31:39.352
+\ELANEnd 00:31:42.432
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 514
+\tx
+\ft
+\nt
+\ev
+\ru Времени ???
+\ELANBegin 00:31:42.422
+\ELANEnd 00:31:43.930
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 515
+\tx
+\ft
+\nt
+\ev Ок-э.
+\ru Когда?
+\ELANBegin 00:31:44.097
+\ELANEnd 00:31:45.292
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 516
+\tx
+\ft Yes.
+\nt
+\ev Иҕэ.
+\ru Да.
+\ELANBegin 00:31:45.292
+\ELANEnd 00:31:46.110
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 517
+\tx
+\ft ???. There is no time.
+\nt
+\ev Окай. Времени ачча???
+\ru ??? Времени ачча???
+\ELANBegin 00:31:46.136
+\ELANEnd 00:31:48.846
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 518
+\tx
+\ft Yes, yes.
+\nt
+\ev
+\ru Ну, ну.
+\ELANBegin 00:31:48.650
+\ELANEnd 00:31:49.560
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 519
+\tx
+\ft Mhm.
+\nt
+\ev
+\ru Мхм.
+\ELANBegin 00:31:49.590
+\ELANEnd 00:31:50.250
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 520
+\tx
+\ft Yes.
+\nt
+\ev Иҕэ.
+\ru Да.
+\ELANBegin 00:31:50.235
+\ELANEnd 00:31:50.965
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 521
+\tx
+\ft
+\nt
+\ev Як эду оллыв маватты.
+\ru Тут рыбу не ловят.
+\ELANBegin 00:31:50.975
+\ELANEnd 00:31:55.245
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 522
+\tx
+\ft
+\nt
+\ev Эр-машина эмуддёттын.
+\ru Вот машина привозит.
+\ELANBegin 00:31:55.255
+\ELANEnd 00:31:57.415
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 523
+\tx
+\ft
+\nt
+\ev Нан чэледюр бейчидды оллыв сарайла.
+\ru И все ловят рыбу в сарае.
+\ELANBegin 00:31:57.430
+\ELANEnd 00:32:01.670
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 524
+\tx
+\ft
+\nt
+\ev Алачиддир ок эмудир оллыв.
+\ru Ждут когда привезут рыбу.
+\ELANBegin 00:32:01.670
+\ELANEnd 00:32:04.510
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 525
+\tx
+\ft
+\nt
+\ev Нан тар.
+\ru
+\ELANBegin 00:32:04.535
+\ELANEnd 00:32:05.350
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 526
+\tx
+\ft
+\nt
+\ev 
+
+\ev Кучукэн бими, элэк окатла Иван, Виктор-да эрэгыр оллыв уҕэдиоттэ.
+
+\ru Когда я была маленькой, на этой речке Иван с Виктором всегда рыбу  ловили.
+\ELANBegin 00:32:05.365
+\ELANEnd 00:32:16.475
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 527
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Эниҕэ эрэгыр: такрадин, такрадин, гигэддин нан такрадиллоттэн.
+\ru Бабушка постоянно:cолила ,солила,резала и опять солила.
+
+\ELANBegin 00:32:16.480
+\ELANEnd 00:32:22.920
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 528
+\tx
+\ft
+\nt
+\ev Эрэгыр бишин муттулэ бишин такрачан.
+\ru Всегда у нас была была солёная рыба.
+\ELANBegin 00:32:22.930
+\ELANEnd 00:32:26.780
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 529
+\tx
+\ft And still you don't like ???
+\nt
+\ev
+\ru И до сих пор ты ??? не любишь.
+\ELANBegin 00:32:26.800
+\ELANEnd 00:32:29.690
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 530
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev И би тик тэрэну эшэм аяр вот тэ... он-кэ ... Он-ка говаттэ?
+\ru И я до сих пор я не люблю..как же..какже говорят?
+
+\ELANBegin 00:32:29.710
+\ELANEnd 00:32:37.570
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 531
+\tx
+\ft
+\nt
+\ev
+\ru ???
+\ELANBegin 00:32:37.585
+\ELANEnd 00:32:41.155
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 532
+\tx
+\ft "Kam..."?
+\nt
+\ev "Кам..."?
+\ru "Кам..."?
+\ELANBegin 00:32:41.695
+\ELANEnd 00:32:42.475
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 533
+\tx
+\ft
+\nt
+\ev Иҕэ. Камгиддэй. Нан итлэ!
+\ru Да.Рыбу разделывать.Вот гляди.
+\ELANBegin 00:32:42.480
+\ELANEnd 00:32:45.640
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 534
+\tx
+\ft
+\nt
+\ev Би баддэм камгиддэй.
+\ru Я не хочу разделывать.
+\ELANBegin 00:32:45.655
+\ELANEnd 00:32:48.365
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 535
+\tx
+\ft
+\nt
+\ev Экич учулливу, куҕа бими.
+\ru Мне  надоело в детстве.
+\ELANBegin 00:32:48.385
+\ELANEnd 00:32:50.480
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 536
+\tx
+\ft
+\nt
+\ev
+\ru 
+
+\ev Эрэгыр камгиддётты,эрыгыр камгиддётты.
+\ru Всегда разделывали,всегда разделывали.
+
+\ELANBegin 00:32:50.480
+\ELANEnd 00:32:54.030
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 537
+\tx
+\ft
+\nt
+\ev Тармы тугэниду дебботтып даллыч.
+\ru но зато зимой вкусно ели.
+\ELANBegin 00:32:54.050
+\ELANEnd 00:32:58.120
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 538
+\tx
+\ft
+\nt
+\ev 
+
+\ev Он говаттэ "хватит"?  "???" есть такое? Ну, как бы ... Аа, "учуне"?
+
+\ru
+\ELANBegin 00:32:58.140
+\ELANEnd 00:33:03.560
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 539
+\tx
+\ft
+\nt
+\ev Учуня, иҕэ.
+\ru Надоело,да.
+\ELANBegin 00:33:03.565
+\ELANEnd 00:33:05.445
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 540
+\tx
+\ft
+\nt
+\ev Учуллыву.
+\ru мне надоело.
+\ELANBegin 00:33:05.450
+\ELANEnd 00:33:07.570
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 541
+\tx
+\ft
+\nt
+\ev Учуллыву нан.
+\ru И надоело мне вот.
+\ELANBegin 00:33:07.575
+\ELANEnd 00:33:09.335
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 542
+\tx
+\ft
+\nt
+\ev Эшэм тик аявотты.
+\ru Не люблю я сейчас.
+\ELANBegin 00:33:09.340
+\ELANEnd 00:33:11.060
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 543
+\tx
+\ft
+\nt
+\ev Эрэгыр ӈида минду говэттын.
+\ru Всегда кто-нибудь мне скажет:
+\ELANBegin 00:33:11.060
+\ELANEnd 00:33:13.040
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 544
+\tx
+\ft
+\nt
+\ev Оллыв гадинни?
+\ru рыбу возьмёшь?
+\ELANBegin 00:33:13.040
+\ELANEnd 00:33:15.080
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 545
+\tx
+\ft
+\nt
+\ev Бармэээ!
+\ru Не хочу.
+\ELANBegin 00:33:15.105
+\ELANEnd 00:33:17.665
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 546
+\tx
+\ft
+\nt
+\ev Ҕидэ эмудин
+\ru кто-нибудь принесёт.
+\ELANBegin 00:33:17.665
+\ELANEnd 00:33:21.200
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 547
+\tx
+\ft
+\nt
+\ev Таракам би олэтыддим ,чариттим.
+\ru только тогда я сварю,пожарю.
+\ELANBegin 00:33:21.225
+\ELANEnd 00:33:28.125
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 548
+\tx
+\ft
+\nt
+\ev Ну, спасибо большое! ???
+\ru
+\ELANBegin 00:33:28.120
+\ELANEnd 00:33:34.630
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 549
+\tx
+\ft
+\nt
+\ev 
+
+\ev Так хорошо говорите. Прямо прелесть Вас слушать.
+
+\ru
+\ELANBegin 00:33:34.650
+\ELANEnd 00:33:38.710
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 550
+\tx
+\ft You wanted to ask about special traits of the Even language.
+\nt
+\ev
+\ru 
+
+\ru А вот ты хотела спросить про всякие вот особенности эвенского.
+
+\ELANBegin 00:33:38.724
+\ELANEnd 00:33:45.980
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 551
+\tx
+\ft As a a teacher of Russian she also (knows) all these grammatical forms  there ... some special traits of the Bystrinski (Evens).
+\nt
+\ev
+\ru Она-то же вот тоже как учитель русского вот эти всякие деепричастные,  там это вот ... какие-то вот особенности у быстринских.
+\ELANBegin 00:33:45.994
+\ELANEnd 00:33:54.404
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 552
+\tx
+\ft Aa, well, the dialect, right?
+\nt
+\ev
+\ru Аа, ну, говор, да?
+\ELANBegin 00:33:54.414
+\ELANEnd 00:33:56.490
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 553
+\tx
+\ft Mhm.
+\nt
+\ev
+\ru Мхм.
+\ELANBegin 00:33:56.494
+\ELANEnd 00:33:57.404
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 554
+\tx
+\ft Any ... how to say?
+\nt
+\ev
+\ru Какие-то ... как же это сказать?
+\ELANBegin 00:33:57.424
+\ELANEnd 00:34:01.244
+\ELANParticipant DK
+
+\id Kucherenko_NM_granny_songs_ 555
+\tx
+\ft Well, the dialect of course distinguishes itself.
+\nt
+\ev
+\ru Ну, диалект-то он конечно отличается.
+\ELANBegin 00:34:01.269
+\ELANEnd 00:34:04.669
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 556
+\tx
+\ft
+\nt
+\ev Учэбникэн эрэк мут упкучэ кэнели.
+\ru Учебник этот по которому учат -плохой.
+\ELANBegin 00:34:04.694
+\ELANEnd 00:34:13.324
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 557
+\tx
+\ft
+\nt AL got a phone call and walks out of the kitchen talking. Meanwhile  NMK and DK stay in the kitchen. The videocamer is still switched on.  NMK asks DK, who AL is and what
+she is actually doing in Anavgai.
+\ev
+\ru
+\ELANBegin 00:34:13.330
+\ELANEnd 00:35:25.320
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 558
+\tx
+\ft We were talking about school-books, right?
+\nt
+\ev
+\ru Про учебники мы говорили, да?
+\ELANBegin 00:35:25.340
+\ELANEnd 00:35:27.430
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 559
+\tx
+\ft Well, bad (situation).
+\nt
+\ev Ну, кэнели.
+\ru Ну, плохо.
+\ELANBegin 00:35:27.440
+\ELANEnd 00:35:29.030
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 560
+\tx
+\ft Aha.
+\nt
+\ev
+\ru Аха.
+\ELANBegin 00:35:29.030
+\ELANEnd 00:35:29.780
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 561
+\tx
+\ft The children are reading, reading. They don't understand anything.
+\nt
+\ev
+\ru 
+
+\ev Куҕал таҕэдиоттэ, таҕэдиоттэ. Эштэн-да унур як онячан?
+\ru Дети читают, читают. Ничего не понимаюткто писал?
+
+\ELANBegin 00:35:29.800
+\ELANEnd 00:35:39.830
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 562
+\tx
+\ft When I'm reading ... what do I understand?
+\nt
+\ev Би-да таҕэ... таҕэдиоттэм, як унурэм?
+\ru А я когда читаю ... что понимаю?
+\ELANBegin 00:35:39.840
+\ELANEnd 00:35:43.370
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 563
+\tx
+\ft
+\nt
+\ev Туркурэм унур.
+\ru Не могу понять.
+\ELANBegin 00:35:43.370
+\ELANEnd 00:35:45.950
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 564
+\tx
+\ft
+\nt
+\ev Коечоттэм, он он эрэк, он эрэк?
+\ru Cмотрю,как как это,как это.
+\ELANBegin 00:35:45.975
+\ELANEnd 00:35:50.465
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 565
+\tx
+\ft My class-mate Polina Khabarova, she was Even.
+\nt
+\ev
+\ru 
+
+\ev Мин однакурсница Полина Хабарова, ноҕан-да ороч.
+\ru Моя однаклассница Полина Хабарова, она - эвенка.
+
+\ELANBegin 00:35:50.474
+\ELANEnd 00:36:03.895
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 566
+\tx
+\ft
+\nt
+\ev Тала -Аянкала.
+\ru Там вАянке.
+\ELANBegin 00:36:03.900
+\ELANEnd 00:36:06.500
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 567
+\tx
+\ft Penzhinski district ... there she worked.
+\nt
+\ev Пенжинский район ... тала гургэвчиддэн.
+\ru Пенжинский район ... там работала.
+\ELANBegin 00:36:06.510
+\ELANEnd 00:36:11.090
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 568
+\tx
+\ft She spoke Even well.
+\nt
+\ev Ноҕан-да аич тораваттэн ораттыч.
+\ru Она хорошо говорила по-эвенски.
+\ELANBegin 00:36:11.090
+\ELANEnd 00:36:15.390
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 569
+\tx
+\ft We studied in Leningrad.
+\nt
+\ev Бун упкутми Ленинградла.
+\ru Мы учились в Ленинграде.
+\ELANBegin 00:36:15.390
+\ELANEnd 00:36:18.750
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 570
+\tx
+\ft We talked to each other.
+\nt
+\ev Торэдиоттывун.
+\ru (Мы с ней) общались.
+\ELANBegin 00:36:18.775
+\ELANEnd 00:36:20.675
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 571
+\tx
+\ft She would talk like this, and I would talk like that.
+\nt
+\ev 
+
+\ev Ноҕан-да тачин-да гундин, би тачин-да гундим.
+
+\ru Она так говорит, а я так говорю.
+\ELANBegin 00:36:20.680
+\ELANEnd 00:36:25.310
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 572
+\tx
+\ft Well. Yes.
+\nt
+\ev Нан. Иҕэ.
+\ru Так. Да.
+\ELANBegin 00:36:25.320
+\ELANEnd 00:36:26.770
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 573
+\tx
+\ft
+\nt
+\ev Тарми аич унуваттын.
+\ru Но хорошо понимает.
+\ELANBegin 00:36:26.770
+\ELANEnd 00:36:29.960
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 574
+\tx
+\ft Mhm.
+\nt
+\ev
+\ru Мхм.
+\ELANBegin 00:36:29.970
+\ELANEnd 00:36:31.180
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 575
+\tx
+\ft
+\nt
+\ev Элэ уллоттэтэн орочэл .Эрке вот"Нургэнэк" бими.Орычил оллоттитэн  Якутиядук.
+\ru Cюда приезжали орочи.Вот когда "Нургэнэк" были.Орочи приезжали из  Якутии.
+\ELANBegin 00:36:31.190
+\ELANEnd 00:36:40.780
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 576
+\tx
+\ft
+\nt
+\ev Туркуривун унутӈа.
+\ru Не могли понимать.
+\ELANBegin 00:36:40.790
+\ELANEnd 00:36:43.450
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 577
+\tx
+\ft
+\nt
+\ev Экичэ тораваттэ.
+\ru Они так говорят.
+\ELANBegin 00:36:45.880
+\ELANEnd 00:36:48.810
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 578
+\tx
+\ft
+\nt
+\ev
+\ru Аха. ??? "h, h" ???
+\ELANBegin 00:36:48.810
+\ELANEnd 00:36:51.220
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 579
+\tx
+\ft Yes.
+\nt
+\ev И.
+\ru Да.
+\ELANBegin 00:36:51.200
+\ELANEnd 00:36:51.920
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 580
+\tx
+\ft Yes.
+\nt
+\ev Иҕэ.
+\ru Да.
+\ELANBegin 00:36:52.865
+\ELANEnd 00:36:53.645
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 581
+\tx
+\ft Well, thank you.
+\nt
+\ev
+\ru Ну, спасибо.
+\ELANBegin 00:36:53.650
+\ELANEnd 00:36:56.130
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 582
+\tx
+\ft We don't pronounce "s", we say "sh" instead.
+\nt
+\ev
+\ru Мы не серкаем, шеркаем же мы.
+\ELANBegin 00:36:56.130
+\ELANEnd 00:37:01.200
+\ELANParticipant NMK
+
+\id Kucherenko_NM_granny_songs_ 583
+\tx
+\ft You say "sh", aha.
+\nt
+\ev
+\ru Ш-кают, аха.
+\ELANBegin 00:37:01.185
+\ELANEnd 00:37:02.745
+\ELANParticipant AL
+
+\id Kucherenko_NM_granny_songs_ 584
+\tx
+\ft Yes, we say "sh".
+\nt
+\ev
+\ru Аха, шеркаем.
+\ELANBegin 00:37:02.750
+\ELANEnd 00:37:04.460
+\ELANParticipant NMK
+
+
+\ELANMediaURL file:///F:/EVEN_DATA/ELAN_KAM/Kucherenko_NM_29_06/Kucherenko_NM_Granny_songs_dialect_arishal_Cooperative-37m-ev.mpeg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///F:/EVEN_DATA/ELAN_KAM/Kucherenko_NM_29_06/Kucherenko_NM_Granny_songs_dialect_arishal_Cooperative-37m-ev-Zoom.wav
+\ELANMediaMIME audio/x-wav
