@@ -1353,7 +1353,7 @@ believe from the corpus that there are examples with -kkEn that have an attenuat
 \id ZAS_jubki_Aniwrin_100
 \tx Ereŋmen                    dahrịdʒị  "hyk" goːli         goː(nem)
 \mb erek -ŋ   -W   -E  -n(I)     das   -RIdʒI   hyk goːn -LI      goːn -R(E)   -m  
-\ps pron                         v              ideophone v             v                
+\ps pron                         v              onomat v             v                
 \ge prox -aln -acc -ep -poss.3sg cover -ant.cvb hyk say  -imp.2sg say  -nonfut -1sg
 \ft Having closed this of his (probably the other nostril) I said "say 'hyk'!".
 \ru это что-то закрыв хык скажи сказала
@@ -1570,7 +1570,7 @@ be biheku; and it's a good sentence and all correct
 \id ZAS_jubki_Aniwrin_121
 \tx Tak  "hyk" goːli         goːnem,           ajụka    ịakkọl   tọhangaran
 \mb tak  hyk goːn -LI      goːn -R(E)   -m   ajụka      ịak  =(W)Ul tụsan -Gr(E) -E  -n(I)
-\ps interj ideophone v             v                 interj     pron        v                     
+\ps interj onomat v             v                 interj     pron        v                     
 \ge so.R hyk say  -imp.2sg say  -nonfut -1sg suddenly.Y what =indef hop   -hab   -ep -3sg 
 \ft So I say "say 'hyk' ", and suddenly something jumps out!
 \ru Сказал хык что-то выскакивает

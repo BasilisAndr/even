@@ -213,7 +213,7 @@ primary grammatical function with additional possible connotations depending on 
 \ref
 \tx Tarak ọllan,                       guːnni     "Bobobo, ịakawụl  bišenni?".
 \mb tarak ọl                -R(E)   -n(I) goːn -n(I) bobobo ịak  =(W)Ul bi -R(E)   -nrI
-\ps pron  v                               v          ideophone pron        v              
+\ps pron  v                               v          onomat pron        v              
 \ge dist  become.frightened -nonfut -3sg  say  -3sg  bobobo what =indef be -nonfut -2sg
 \ft That one got a fright, said "Bobobo, who on earth are you?".
 \ev
@@ -1578,7 +1578,7 @@ the long chase, pogonju nachal
 \ref
 \tx "Tawụr ulieː             olekčiddin                  ejdu dʒeptin             ọrọlbutej",                               atịkan: "Arrrr!"
 \mb tawụr hụlịčan =eː   olekči -D    -RI  -n(I)     ejdu dʒeb -RI  -n(I)     ọrọn              -L  -W   -t(I)        =eː   atịkan    arrrr
-\ps pron  n             v                           quant v                   n                                             n         ideophone
+\ps pron  n             v                           quant v                   n                                             n         onomat
 \ge this  fox     =emph cheat  -prog -pst -poss.3sg all  eat  -pst -poss.3sg domestic.reindeer -pl -acc -poss.1pl.in =emph old.woman arrrr
 \ft "This fox has been cheating us, it ate all our reindeer!", the old woman (cried): "Arrrrr!!".
 \ph

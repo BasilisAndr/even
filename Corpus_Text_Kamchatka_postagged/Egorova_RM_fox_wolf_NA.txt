@@ -456,7 +456,7 @@ with -n-, so I added another stem in the lexical entry .
 \id Egorova_RM_fox_wolf_031
 \tx Tarakak, tarakak ŋeːluki emeddene.
 \mb tarakak tarakak ŋeːluki em   -E  -D    -R(E)   -n(I) -E 
-\ps ideophone ideophone n       v                               
+\ps onomat onomat n       v                               
 \ge caw     caw     wolf    come -ep -prog -nonfut -3sg  -ep
 
 \ft Caw!Caw! Over there, over there! The wolf is comming.
@@ -471,7 +471,7 @@ with -n-, so I added another stem in the lexical entry .
 \id Egorova_RM_fox_wolf_032
 \tx Tarakak tarakak ụlịčam       bọdụddana.
 \mb tarakak tarakak hụlịčan -W   bọd       -U    -D    -R(E)   -n(I) -E 
-\ps ideophone ideophone n            v                                      
+\ps onomat onomat n            v                                      
 \ge caw     caw     fox     -acc accompany -caus -prog -nonfut -3sg  -ep
 
 \ft Over there, over there! He leads the fox.

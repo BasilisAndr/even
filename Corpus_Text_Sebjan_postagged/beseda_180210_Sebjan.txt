@@ -20133,7 +20133,7 @@ flu that's going round
 \id beseda_1655
 \tx "Barbi" boːdelben             "kr kr kr", bilket,     ịatkụ.
 \mb barbi  boːdel -W   -n(I)     kr kr kr vilka  -Č   ịak  -Č   =GU
-\ps ?      n                     ideophone ideophone ideophone n           pron         
+\ps ?      n                     onomat onomat onomat n           pron         
 \ge Barbie leg(s) -acc -poss.3sg kr kr kr fork.R -ins what -ins =q 
 
 \ft Barbie legs kr kr kr with a fork or with something
@@ -23086,7 +23086,7 @@ IAS had meant her classmate Vovkinaj (a name which is also derived from Vladimir
 \id beseda_1900
 \tx kx goːniken      ịlgamdʒin        tala...
 \mb kx goːn -nIkEn   ịlgam -DʒI -n(I) tarak -(dU)LE
-\ps ideophone v             v                pron         
+\ps onomat v             v                pron         
 \ge kx say  -sim.cvb stand -fut -3sg  dist  -loc   
 
 \ft saying "kx" he'll stand there

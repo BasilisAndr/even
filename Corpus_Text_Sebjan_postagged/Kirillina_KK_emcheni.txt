@@ -1083,7 +1083,7 @@ way to say "the baby in the cradle"
 \id Kirillina_KK_Emcheni_076
 \tx Čipipi, čipipi, kụŋačan,  hiː amahnị         Omčeničen   diliki ọːnịkan,   hiŋerken ọːnịkan
 \mb čipipi čipipi kụŋa  -čEn hiː aman   -s(I)     Omčeni  -čEn diliki ọː     -nIkEn   hiŋerken ọː     -nIkEn  
-\ps ideophone ideophone n          pron n                ?            n      v               n        v              
+\ps onomat onomat n          pron n                ?            n      v               n        v              
 \ge cheep  cheep  child -dim 2sg father -poss.2sg Emcheni -dim ermine become -sim.cvb mouse    become -sim.cvb
 
 \tx emedden,                   goːn(ni)
@@ -1168,7 +1168,7 @@ plakal ja ego uložila spatj"; er kụŋa họŋnakan, nọŋman huklehemkendʒi
 \id Kirillina_KK_Emcheni_082
 \tx Čipipi, čipipi, hiː amahnị         Emčeni emedden,                   čụk... ịak... hiŋerken
 \mb čipipi čipipi hiː aman   -s(I)     Omčeni  em   -E  -D    -R(E)   -n(I) *** ịak  hiŋerken
-\ps ideophone ideophone pron n                ?       v                            ?   pron n       
+\ps onomat onomat pron n                ?       v                            ?   pron n       
 \ge cheep  cheep  2sg father -poss.2sg Emcheni come -ep -prog -nonfut -3sg  *** what mouse   
 
 \tx ọːnịkan.

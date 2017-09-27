@@ -519,7 +519,7 @@ saying "guːnni" and translated that way, I think it's clear she says guːne; an
 
 \tx tjawtjaw
 \mb tjawtjaw     
-\ps ideophone    
+\ps onomat    
 \ge onomatopoetic
 
 \ft And he stuck his head right into that pot and started to eat quickly, gulpgulpgulp.
@@ -628,7 +628,7 @@ but they are rabotjashie and the starik needs to learn a lesson
 \ref
 \tx "hoo, ịakawụ?"
 \mb hoo ịak  -awụ 
-\ps ideophone pron      
+\ps onomat pron      
 \ge ho  what -emph
 \ft "Ho, what is it?".
 \ev
@@ -1322,12 +1322,12 @@ them" - so that's how I translated it
 \ref
 \tx Nandeː           tar  dʒebleddeneši                      umekič ečin      tjawtjaw,     meːnide         umekič
 \mb ńaːn =DE  =eː   tar  dʒeb -L    -D    -R(E)   -n(I) =sI   umekič erroːčin  tjawtjaw      meːni       =DE  umekič
-\ps adv             adv  v                                    adv    pron      ideophone     pron             adv   
+\ps adv             adv  v                                    adv    pron      onomat     pron             adv   
 \ge and  =ptl =emph thus eat  -inch -prog -nonfut -3sg  =emph very   prox.qual onomatopoetic refl.sg.acc =ptl very  
 
 \tx uŋŋoːtten             nan    "dallačakana,    tuk... tukere         uŋen... uŋgeli,          kọbalan imšenun?".
 \mb uŋ -WEːČ -R(E)   -n(I) ńaːn dalra =čEkEn -E  tuk tuker      -E  uŋen     uŋ        -g(E)lI kọbalan imse -ńUn
-\ps v                      adv  adj              ideophone n              pron     n                 n       n        
+\ps v                      adv  adj              onomat n              pron     n                 n       n        
 \ge do -gnr  -nonfut -3sg  and  tasty =emph  -ep tuk lily.roots -ep this.one something -com    bear    fat  -com
 
 \ft And again how he started to eat, gulpgulp, does himself very much (probably: dirties himself) and "how tasty! the lily roots are with bear fat?".
@@ -1403,7 +1403,7 @@ occurs, but without the repetition; =nun usilivaet
 \ref
 \tx Beː beː beː beː bebečidde                     ečin      etikekejew.
 \mb beː beː beː beː bebet         -E  -D    -R(E)   erroːčin  etikeːn -kEːjE -W  
-\ps ideophone ideophone ideophone ideophone v                               pron      n                  
+\ps onomat onomat onomat onomat v                               pron      n                  
 \ge beː beː beː beː lull.to.sleep -ep -prog -nonfut prox.qual old.man -aug   -acc
 \ft "Be, be, be, like this they lull the old man to sleep".
 \ph
@@ -1484,7 +1484,7 @@ vstali, which is how we translated it.
 \ref
 \tx "haaa",       guːnni.
 \mb haaa          goːn -n(I)
-\ps ideophone     v         
+\ps onomat     v         
 \ge onomatopoetic say  -3sg 
 \ft "Hwaaa", he said (i.e. he yawns).
 \ev
