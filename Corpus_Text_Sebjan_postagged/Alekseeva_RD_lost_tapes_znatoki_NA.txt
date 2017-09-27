@@ -25,17 +25,17 @@ summer, however, she went to the reindeer herd as a "tent worker"
 \id Alekseeva_RD_lost_tapes_znatoki_001
 \tx Ọttọn biː ọl_ihin   goːnem            biː kollen
 \mb ọttọn biː ọl_ihin     goːn -R(E)   -m   biː kotlen
-\ps ptl   pron conj        v                 pron adj   
-\ge dp.Y  1sg therefore.Y say  -nonfut -1sg 1sg small 
+\ps ptl   pron conj        v                 pron adj
+\ge dp.Y  1sg therefore.Y say  -nonfut -1sg 1sg small
 
 \tx bihŋij                emie   tar   ammụ
-\mb bi -ŋsI      -J       emie   tarak aman   -W       
-\ps v                     adv    pron  n               
+\mb bi -ŋsI      -J       emie   tarak aman   -W
+\ps v                     adv    pron  n
 \ge be -impf.cvb -prfl.sg also.Y dist  father -poss.1sg
 
 \tx eńenni          eńenni...
-\mb eńin   -n(I)     eńin   -n(I)    
-\ps n                n               
+\mb eńin   -n(I)     eńin   -n(I)
+\ps n                n
 \ge mother -poss.3sg mother -poss.3sg
 
 \ft So, I say that's why when I was small, also the mother of my father's
@@ -48,8 +48,8 @@ mother...
 
 \id Alekseeva_RD_lost_tapes_znatoki_002
 \tx Eńenni          tar   prababuška.
-\mb eńin   -n(I)     tarak prababuška         
-\ps n                pron  n                  
+\mb eńin   -n(I)     tarak prababuška
+\ps n                pron  n
 \ge mother -poss.3sg dist  great.grandmother.R
 \ft Her mother is the great grandmother.
 \ru Её мать это пробабушка.
@@ -59,13 +59,13 @@ mother...
 
 \id Alekseeva_RD_lost_tapes_znatoki_003
 \tx Tarak bụọllaγïna biː molodež       bidniken
-\mb tarak buollaγïna biː molodež        bi -D    -nIkEn  
-\ps pron  ptl        pron n              v                
+\mb tarak buollaγïna biː molodež        bi -D    -nIkEn
+\ps pron  ptl        pron n              v
 \ge dist  dp.Y       1sg young.people.R be -prog -sim.cvb
 
 \tx dʒapkịs      stadala        gurgeːwčiriw.
-\mb dʒapkan -Is    stado  -(dU)LE gurgeːwči -RI  -W       
-\ps num            n              v                       
+\mb dʒapkan -Is    stado  -(dU)LE gurgeːwči -RI  -W
+\ps num            n              v
 \ge eight   -ord.Y herd.R -loc    work      -pst -poss.1sg
 
 \ft When I was young, I worked in the eighth herd.
@@ -76,28 +76,28 @@ mother...
 
 \id Alekseeva_RD_lost_tapes_znatoki_004
 \tx Tarakam       nọŋandụkụn
-\mb tarakam       nọŋan -DUk(U) -n(I)    
-\ps adv           pron                   
+\mb tarakam       nọŋan -DUk(U) -n(I)
+\ps adv           pron
 \ge in.those.days 3sg   -abl    -poss.3sg
 
 \tx ulgimiwreriw                        irew       taraw;
-\mb ulgim -i      -Gr(E) -RI  -W        irek  -W   tarak -W  
-\ps v                                   pron       pron      
+\mb ulgim -i      -Gr(E) -RI  -W        irek  -W   tarak -W
+\ps v                                   pron       pron
 \ge ask   -ipf??? -hab   -pst -poss.1sg which -acc dist  -acc
 
 \tx specialno magnitofonalkan           biwrerit
-\mb specialno magnitofon      -E  -lkEn bi -Gr(E) -RI  -t(I)       
-\ps adv       n                         v                          
+\mb specialno magnitofon      -E  -lkEn bi -Gr(E) -RI  -t(I)
+\ps adv       n                         v
 \ge special.R tape.recorder.R -ep -prop be -hab   -pst -poss.1pl.in
 
 \tx četyrexdorožnyj, taraŋị           tadụ
-\mb četyrexdorožnyj tarak -ŋ   -J       tarak -DU 
-\ps adj             pron                pron      
+\mb četyrexdorožnyj tarak -ŋ   -J       tarak -DU
+\ps adj             pron                pron
 \ge four-track.R    dist  -aln -prfl.sg dist  -dat
 
 \tx zapịstaːrịw.
-\mb zapis       -DE -RI  -W       
-\ps v                             
+\mb zapis       -DE -RI  -W
+\ps v
 \ge recording.R -vr -pst -poss.1sg
 
 \ft In those days I asked her different things; we had a special tape recorder
@@ -111,8 +111,8 @@ mother...
 
 \id Alekseeva_RD_lost_tapes_znatoki_005
 \tx Nọŋan hïbajba  dʒugulin            ukčennin,
-\mb nọŋan svadba    dʒugu -(dU)LI -n(I) ukčen -RI  -n(I)    
-\ps pron  n         rel.n               v                   
+\mb nọŋan svadba    dʒugu -(dU)LI -n(I) ukčen -RI  -n(I)
+\ps pron  n         rel.n               v
 \ge 3sg   wedding.R about -prol   -3sg  tell  -pst -poss.3sg
 
 \tx er   irildu      Ewineːku,       irildu      ọːn
@@ -121,13 +121,13 @@ mother...
 \ge prox summer -dat play -nr  -acc summer -dat how
 
 \tx bakal...     taraw      ukčennin,            họːjaw
-\mb bak  -(E)ldE tarak -W   ukčen -RI  -n(I)     họːja -W  
-\ps v            pron       v                    quant     
+\mb bak  -(E)ldE tarak -W   ukčen -RI  -n(I)     họːja -W
+\ps v            pron       v                    quant
 \ge find -soc    dist  -acc tell  -pst -poss.3sg many  -acc
 
 \tx ukčennin.
-\mb ukčen -RI  -n(I)    
-\ps v                   
+\mb ukčen -RI  -n(I)
+\ps v
 \ge tell  -pst -poss.3sg
 
 \ft She told about a wedding, about Evinek in the summer, how the meet
@@ -145,19 +145,19 @@ solstice.
 
 \id Alekseeva_RD_lost_tapes_znatoki_006
 \tx Tarịŋị         butinniwen                     neːridʒi,
-\mb tarak -ŋ   -J       bütünnüː   -W   -E  -n(I)     neː -RIdʒI  
-\ps pron                n                             v           
+\mb tarak -ŋ   -J       bütünnüː   -W   -E  -n(I)     neː -RIdʒI
+\ps pron                n                             v
 \ge dist  -aln -prfl.sg entirely.Y -acc -ep -poss.3sg put -ant.cvb
 
 \tx ustudennaːnami                 horriw
-\mb student   -LE -nE     -mI       hor -RI  -W       
-\ps v                               v                 
+\mb student   -LE -nE     -mI       hor -RI  -W
+\ps v                               v
 \ge student.R -vr -intent -cond.cvb go  -pst -poss.1sg
 
 \tx kọratla.
 \mb gorod  -(dU)LE
-\ps n             
-\ge town.R -loc   
+\ps n
+\ge town.R -loc
 
 \ft Having put all this (away), I went to study in the city.
 \ph
@@ -171,13 +171,13 @@ collected, bütenniw (without possessive) is not correct
 
 \id Alekseeva_RD_lost_tapes_znatoki_007
 \tx Emčelew                       tar   noːwu
-\mb em   -čE     -(dU)LE -W        tarak noː             -W       
-\ps v                              pron  n                        
+\mb em   -čE     -(dU)LE -W        tarak noː             -W
+\ps v                              pron  n
 \ge come -pf.ptc -loc    -poss.1sg dist  younger.sibling -poss.1sg
 
 \tx butenniːwen                   ikeːw     ọjlịn...
-\mb bütünnüː   -W   -E  -n(I)     ikeː -W   ọj      -(dU)LI -n(I)    
-\ps n                             n         rel.n                    
+\mb bütünnüː   -W   -E  -n(I)     ikeː -W   ọj      -(dU)LI -n(I)
+\ps n                             n         rel.n
 \ge entirely.Y -acc -ep -poss.3sg song -acc surface -prol   -poss.3sg
 
 \ft When I came (home) my younger brother (had recorded) over all this
@@ -205,18 +205,18 @@ with songs ...
 \ge what -acc which -loc    do  -ep -2sg 1sg prox
 
 \tx dokumentalnost ịaw...   erbečen   ŋiːdukte
-\mb dokumentalnost ịak  -W   erroːčin  ŋiː -DUk(U) =DE 
-\ps ?              pron      pron      pron            
+\mb dokumentalnost ịak  -W   erroːčin  ŋiː -DUk(U) =DE
+\ps ?              pron      pron      pron
 \ge documentary    what -acc prox.qual who -abl    =ptl
 
 \tx etem           bakra,        ile           nekris?"
-\mb e   -t(E) -m   bak  -R       irek  -(dU)LE nek -RI  -s(I)    
-\ps v              v             pron          v                 
+\mb e   -t(E) -m   bak  -R       irek  -(dU)LE nek -RI  -s(I)
+\ps v              v             pron          v
 \ge neg -fut  -1sg find -neg.cvb which -loc    do  -pst -poss.2sg
 
 \tx goːŋnererem.
-\mb goːn -Gr(E) -R(E)   -m  
-\ps v                       
+\mb goːn -Gr(E) -R(E)   -m
+\ps v
 \ge say  -hab   -nonfut -1sg
 
 \ft "Where did you put it, that is documentary, I will not find this with
@@ -234,8 +234,8 @@ auxiliary)
 \id Alekseeva_RD_lost_tapes_znatoki_010
 \tx "Ịamị tala          neːris?!"          goːŋnen.
 \mb ịamị tarak -(dU)LE neː -RI  -s(I)     goːn -Gr(E) -n(I)
-\ps pron pron          v                  v                
-\ge why  dist  -loc    put -pst -poss.2sg say  -hab   -3sg 
+\ps pron pron          v                  v
+\ge why  dist  -loc    put -pst -poss.2sg say  -hab   -3sg
 \ft "Why did you put it there?" -- he says.
 \ru "Зачем туда положила?!" говорит
 \ELANBegin 00:01:03.350
@@ -249,8 +249,8 @@ auxiliary)
 \ge 1sg take -ant.cvb prox -acc song -acc prox
 
 \tx butenniːwen                   ọːwkanịw"
-\mb bütünnüː   -W   -E  -n(I)     ọː     -WkEn -RI  -W       
-\ps n                             v                          
+\mb bütünnüː   -W   -E  -n(I)     ọː     -WkEn -RI  -W
+\ps n                             v
 \ge entirely.Y -acc -ep -poss.3sg become -caus -pst -poss.1sg
 
 \ft Having taken it, I turned it all into songs.
@@ -262,8 +262,8 @@ auxiliary)
 \id Alekseeva_RD_lost_tapes_znatoki_012
 \tx Tiːk tarbačan      magnitofonda         ačča.
 \mb tiek tarọːčịn  magnitofon      =DE  ačča
-\ps adv  pron      n                    ptl 
-\ge now  dist.qual tape.recorder.R =ptl neg 
+\ps adv  pron      n                    ptl
+\ge now  dist.qual tape.recorder.R =ptl neg
 \ft Now there are no tape recorders like that.
 \ru Сейчас таких магнитофонов нету.
 \ELANBegin 00:01:08.530
@@ -273,12 +273,12 @@ auxiliary)
 \id Alekseeva_RD_lost_tapes_znatoki_013
 \tx Tiːkerren dʒe   ...  neːgiwrerem               tar
 \mb tiːkerren dʒe    *... neːgi -Gr(E) -R(E)   -m   tarak
-\ps adv       ptl    ?    v                         pron 
-\ge until.now well.Y ***  scold -hab   -nonfut -1sg dist 
+\ps adv       ptl    ?    v                         pron
+\ge until.now well.Y ***  scold -hab   -nonfut -1sg dist
 
 \tx noːji:
-\mb noː             -J      
-\ps n                       
+\mb noː             -J
+\ps n
 \ge younger.sibling -prfl.sg
 
 \ft Till now I scold my younger brother:
@@ -290,12 +290,12 @@ auxiliary)
 \id Alekseeva_RD_lost_tapes_znatoki_014
 \tx "Ịamị ụlkụrịs,          unikal'nyj ịaw      gerbe
 \mb ịamị ụlkụ -RI  -s(I)     unikal'nyj ịak  -W   gerbe
-\ps pron v                   adj        pron      n    
-\ge why  stir -pst -poss.2sg unique.R   what -acc name 
+\ps pron v                   adj        pron      n
+\ge why  stir -pst -poss.2sg unique.R   what -acc name
 
 \tx materialu       hiː... "
-\mb material   -W   hiː *  
-\ps n               pron ?  
+\mb material   -W   hiː *
+\ps n               pron ?
 \ge material.R -acc 2sg ***
 
 \ft "Why did you touch it? such unique material you..."
@@ -307,22 +307,22 @@ auxiliary)
 \id Alekseeva_RD_lost_tapes_znatoki_015
 \tx "Biː ele          öjlew                   eten
 \mb biː erek -(dU)LE öj     -(dU)LE -W        e   -t(E) -n(I)
-\ps pron pron         n                        v              
-\ge 1sg prox -loc    mind.Y -loc    -poss.1sg neg -fut  -3sg 
+\ps pron pron         n                        v
+\ge 1sg prox -loc    mind.Y -loc    -poss.1sg neg -fut  -3sg
 
 \tx emeːpte,            hiː... ili
 \mb emeːn -B   -R       hiː irek  -(dU)LI
-\ps v                   pron pron         
-\ge leave -med -neg.cvb 2sg which -prol  
+\ps v                   pron pron
+\ge leave -med -neg.cvb 2sg which -prol
 
 \tx talịńụn         pow... dʒom dʒọngararam,"
-\mb tarak -(dU)LI =ńUn   dʒọn     -Gr(E) -R(E)   -m  
-\ps pron                 v                           
+\mb tarak -(dU)LI =ńUn   dʒọn     -Gr(E) -R(E)   -m
+\ps pron                 v
 \ge dist  -prol   =restr remember -hab   -nonfut -1sg
 
 \tx goːŋnem         ...  tare.
-\mb goːn -Gr(E) -m   *... tarak -E 
-\ps v                ?    pron     
+\mb goːn -Gr(E) -m   *... tarak -E
+\ps v                ?    pron
 \ge say  -hab   -1sg ***  dist  -ep
 
 \ft "It will not remain in my memory, I remember just something here,
@@ -337,12 +337,12 @@ something there," -- I say.
 \id Alekseeva_RD_lost_tapes_znatoki_016
 \tx Haːwdị bejńun   stada... haːwdị bej
 \mb hagdị bej -ńUn stado  hagdị bej
-\ps adj   n        n      adj   n  
+\ps adj   n        n      adj   n
 \ge old   man -com herd.R old   man
 
 \tx biheken                    nahaː ịbga.
 \mb bi -REk      -E  -n(I)     nahaː  ịbgọ
-\ps v                          adv    ?   
+\ps v                          adv    ?
 \ge be -cond.cvb -ep -poss.3sg very.Y good
 
 \ft With an old men a herd... if there is an old men, it is very good.
@@ -354,18 +354,18 @@ something there," -- I say.
 
 \id Alekseeva_RD_lost_tapes_znatoki_017
 \tx Omekken molodež       biheken,                   irelu
-\mb omekken molodež        bi -REk      -E  -n(I)     ireli 
-\ps ?       n              v                          n     
+\mb omekken molodež        bi -REk      -E  -n(I)     ireli
+\ps ?       n              v                          n
 \ge alone   young.people.R be -cond.cvb -ep -poss.3sg summer
 
 \tx biwettiken,         ee, ịakkụl   ịa... eti
-\mb bi -WEːČ -nIkEn   ee ịak  =(W)Ul ịa      e   -RI      
-\ps v                 interj pron        v       v            
+\mb bi -WEːČ -nIkEn   ee ịak  =(W)Ul ịa      e   -RI
+\ps v                 interj pron        v       v
 \ge be -gnr  -sim.cvb eh what =indef do.what neg -impf.ptc
 
 \tx etimdes             ịhra.
-\mb e   -RI       -mdEs ịs    -R      
-\ps v                   v             
+\mb e   -RI       -mdEs ịs    -R
+\ps v                   v
 \ge neg -impf.ptc -sml  reach -neg.cvb
 
 \ft If it is just young people, going in the summer, it is like something is
@@ -384,8 +384,8 @@ Russian)
 \id Alekseeva_RD_lost_tapes_znatoki_018
 \tx Haːwdị upe         biheke,                    haːwdị
 \mb hagdị upeː        bi -REk      -E  -n(I)     hagdị
-\ps adj   n           v                          adj  
-\ge old   grandmother be -cond.cvb -ep -poss.3sg old  
+\ps adj   n           v                          adj
+\ge old   grandmother be -cond.cvb -ep -poss.3sg old
 
 \tx etiken   ihin  bihiken                    tarak ọːn...
 \mb etikeːn ihin  bi -REk      -E  -n(I)     tarak ọːn
@@ -394,8 +394,8 @@ Russian)
 
 \tx bïlïrgï... dʒulep       ịamdas...
 \mb bïlïrgï    dʒul  -(E)rEp ịak  -mdEs
-\ps adj        rel.n         pron      
-\ge previous.Y front -adjr   what -sml 
+\ps adj        rel.n         pron
+\ge previous.Y front -adjr   what -sml
 
 \ru Если бывает старая бабушка, старый старик, это как будто прежнее...
 \ELANBegin 00:01:42.830
@@ -405,17 +405,17 @@ Russian)
 \id Alekseeva_RD_lost_tapes_znatoki_019
 \tx Tarịt tegetni(ken)...           hiehečen
 \mb tarịt teg      -E  -Č   -nIkEn   hiːsečin
-\ps adv   v                          n       
-\ge then  sit.down -ep -res -sim.cvb evening 
+\ps adv   v                          n
+\ge then  sit.down -ep -res -sim.cvb evening
 
 \tx tegetniken                irew       taraw
-\mb teg      -E  -Č   -nIkEn   irek  -W   tarak -W  
-\ps v                          pron       pron      
+\mb teg      -E  -Č   -nIkEn   irek  -W   tarak -W
+\ps v                          pron       pron
 \ge sit.down -ep -res -sim.cvb which -acc dist  -acc
 
 \tx ukčennemetčinni       ulgimidʒinni.
 \mb ukčen -mEČ -DʒI -nrI ulgim -I    -DʒI -nrI
-\ps v                    v                    
+\ps v                    v
 \ge tell  -rec -fut -2sg ask   -ipf? -fut -2sg
 
 \ft Then sitting, sitting in the evening, you will talk about different things,
@@ -435,7 +435,7 @@ ne посередине...
 \id Alekseeva_RD_lost_tapes_znatoki_020
 \tx Tarak nahaː ịbga.
 \mb tarak nahaː  ịbgọ
-\ps pron  adv    ?   
+\ps pron  adv    ?
 \ge dist  very.Y good
 \ft That is very good.
 \ru Это очень хорошо.
@@ -450,8 +450,8 @@ ne посередине...
 \ge what name  ***  now  what -acc what -acc prox -loc    1sg
 
 \tx meːndi            emeːndʒim"      goːŋnem.
-\mb meːn -DI          emeːn -DʒI -m   goːn -Gr(E) -m  
-\ps pron              v               v               
+\mb meːn -DI          emeːn -DʒI -m   goːn -Gr(E) -m
+\ps pron              v               v
 \ge refl -dat.prfl.sg leave -fut -1sg say  -hab   -1sg
 
 \ft "What will I leave for myself now_" I say.
@@ -462,8 +462,8 @@ ne посередине...
 
 \id Alekseeva_RD_lost_tapes_znatoki_022
 \tx Ịamị er   ụčaŋnịs?
-\mb ịamị erek ụčaŋ  -RI  -s(I)    
-\ps pron pron v                   
+\mb ịamị erek ụčaŋ  -RI  -s(I)
+\ps pron pron v
 \ge why  prox break -pst -poss.2sg
 
 \ft Why did you break it?
@@ -483,13 +483,13 @@ ne посередине...
 
 \id Alekseeva_RD_lost_tapes_znatoki_024
 \tx "Ọlọx    eŋehne                ụlkụr"        goːniken
-\mb ọlọx         e   -ŋE      -sEn      ụlkụ -R       goːn -nIkEn  
-\ps adv          v                      v             v            
+\mb ọlọx         e   -ŋE      -sEn      ụlkụ -R       goːn -nIkEn
+\ps adv          v                      v             v
 \ge completely.Y neg -pol.imp -poss.2pl stir -neg.cvb say  -sim.cvb
 
 \tx ele          neːridʒi    herriw.
-\mb erek -(dU)LE neː -RIdʒI   hor -RI  -W       
-\ps pron         v            v                 
+\mb erek -(dU)LE neː -RIdʒI   hor -RI  -W
+\ps pron         v            v
 \ge prox -loc    put -ant.cvb go  -pst -poss.1sg
 
 \ft "Do not touch it at all," -- saying, having put it here, I went.
@@ -500,18 +500,18 @@ ne посередине...
 
 \id Alekseeva_RD_lost_tapes_znatoki_025
 \tx Taraw      bụọlla   garịdʒị  nọŋandụn
-\mb tarak -W   buollaγïna ga   -RIdʒI   nọŋan -DU  -n(I)    
-\ps pron       ptl        v             pron                
+\mb tarak -W   buollaγïna ga   -RIdʒI   nọŋan -DU  -n(I)
+\ps pron       ptl        v             pron
 \ge dist  -acc dp.Y       take -ant.cvb 3sg   -dat -poss.3sg
 
 \tx ịbgakịeː  buolla                      iduk          tadụk
 \mb ịbgọ =kE   buol  -dEg      -E          irek  -DUk(U) tarak -DUk(U)
-\ps ?          v                           pron          pron         
-\ge good =emph aux.Y -assert.Y -poss.3sg.Y which -abl    dist  -abl   
+\ps ?          v                           pron          pron
+\ge good =emph aux.Y -assert.Y -poss.3sg.Y which -abl    dist  -abl
 
 \tx ụstantakan
-\mb ụhụl     -E  -ntEkEn  
-\ps v                     
+\mb ụhụl     -E  -ntEkEn
+\ps v
 \ge record.Y -ep -mult.cvb
 
 \ft He had taken that, it was very good for him, copying from everything.
@@ -526,8 +526,8 @@ ne посередине...
 \id Alekseeva_RD_lost_tapes_znatoki_026
 \tx Četyrexdorožnyj.
 \mb četyrexdorožnyj
-\ps adj            
-\ge four-track.R   
+\ps adj
+\ge four-track.R
 \ft Four-track.
 \ru Четырехдорожный.
 \ELANBegin 00:02:22.210
@@ -536,13 +536,13 @@ ne посередине...
 
 \id Alekseeva_RD_lost_tapes_znatoki_027
 \tx Taraw      ikeːrin             tar   atịkan, ikeːniken
-\mb tarak -W   ikeː -RI  -n(I)     tarak atịkan    ikeː -nIkEn  
-\ps pron       v                   pron  n         v            
+\mb tarak -W   ikeː -RI  -n(I)     tarak atịkan    ikeː -nIkEn
+\ps pron       v                   pron  n         v
 \ge dist  -acc sing -pst -poss.3sg dist  old.woman sing -sim.cvb
 
 \tx tabar   prababuškaw.
-\mb tawụr prababuška          -W       
-\ps pron  n                            
+\mb tawụr prababuška          -W
+\ps pron  n
 \ge this  great.grandmother.R -poss.1sg
 
 \ft She sang, singing, my great grandmother.
@@ -556,17 +556,17 @@ ne посередине...
 \id Alekseeva_RD_lost_tapes_znatoki_028
 \tx Ečimur    stadadụ   ta... hiehečen
 \mb erroːčin  stado  -DU  tarak hiːsečin
-\ps pron      n           pron  n       
-\ge prox.qual herd.R -dat dist  evening 
+\ps pron      n           pron  n
+\ge prox.qual herd.R -dat dist  evening
 
 \tx tegečedniken                        tar   magnitofon
-\mb teg      -E  -Č   -E  -D    -nIkEn   tarak magnitofon     
-\ps v                                    pron  n              
+\mb teg      -E  -Č   -E  -D    -nIkEn   tarak magnitofon
+\ps v                                    pron  n
 \ge sit.down -ep -res -ep -prog -sim.cvb dist  tape.recorder.R
 
 \tx heltewekkererit,                             batarejalkan.
 \mb helte       -WEːČ -Gr(E) -RI  -t(I)        batareja           -lkEn
-\ps v                                          n                       
+\ps v                                          n
 \ge carry.along -gnr  -hab   -pst -poss.1pl.in electric.battery.R -prop
 
 \ft So sitting in the evening in the herd, we were taking this tape recorder,
@@ -579,8 +579,8 @@ with batteries.
 
 \id Alekseeva_RD_lost_tapes_znatoki_029
 \tx Ečimur    čajdaːnịkan    ulgimiwrerem:
-\mb erroːčin  čaj   -DE -nIkEn   ulgim -I    -Gr(E) -R(E)   -m  
-\ps pron      v                  v                              
+\mb erroːčin  čaj   -DE -nIkEn   ulgim -I    -Gr(E) -R(E)   -m
+\ps pron      v                  v
 \ge prox.qual tea.R -vr -sim.cvb ask   -ipf? -hab   -nonfut -1sg
 
 \ft So, drinking tea, I asked:
@@ -591,13 +591,13 @@ with batteries.
 
 \id Alekseeva_RD_lost_tapes_znatoki_030
 \tx "Hiː dʒulle       ọːn... ọːn nekkererihne
-\mb hiː dʒul  -(dU)LE ọːn ọːn nek -Gr(E) -RI  -sEn     
-\ps pron rel.n         pron pron v                        
+\mb hiː dʒul  -(dU)LE ọːn ọːn nek -Gr(E) -RI  -sEn
+\ps pron rel.n         pron pron v
 \ge 2sg front -loc    how how do  -hab   -pst -poss.2pl
 
 \tx ịaw      ịaw      nekerihne?"
-\mb ịak  -W   ịak  -W   nek -E  -RI  -sEn     
-\ps pron      pron      v                     
+\mb ịak  -W   ịak  -W   nek -E  -RI  -sEn
+\ps pron      pron      v
 \ge what -acc what -acc do  -ep -pst -poss.2pl
 
 \ft "How do you before... how did you do, what, what did you do?"
@@ -613,8 +613,8 @@ with batteries.
 \ge prox young.people.R now  -adjr   young child -pl how
 
 \tx ịaw      nekkererihne?"            goːniken.
-\mb ịak  -W   nek -Gr(E) -RI  -sEn      goːn -nIkEn  
-\ps pron      v                         v            
+\mb ịak  -W   nek -Gr(E) -RI  -sEn      goːn -nIkEn
+\ps pron      v                         v
 \ge what -acc do  -hab   -pst -poss.2pl say  -sim.cvb
 
 \ft So young people, modern young people,  how, what did you do?"
@@ -630,8 +630,8 @@ grammatical, that's why it is not completely clear what she meant.
 
 \id Alekseeva_RD_lost_tapes_znatoki_032
 \tx "Hïbajbaw     ọːn ọːwrarịhna?"
-\mb svadba    -W   ọːn ọː   -Gr(E) -RI  -sEn     
-\ps n              pron v                         
+\mb svadba    -W   ọːn ọː   -Gr(E) -RI  -sEn
+\ps n              pron v
 \ge wedding.R -acc how make -hab   -pst -poss.2pl
 \ft How did you celebrate weddings?
 \ru Свадьбу как делали?
@@ -652,13 +652,13 @@ grammatical, that's why it is not completely clear what she meant.
 
 \id Alekseeva_RD_lost_tapes_znatoki_034
 \tx Taraw      butenniːwen                   ịadaŋụ
-\mb tarak -W   bütünnüː   -W   -E  -n(I)     ịa      -DEŋ     -W       
-\ps pron       n                             v                         
+\mb tarak -W   bütünnüː   -W   -E  -n(I)     ịa      -DEŋ     -W
+\ps pron       n                             v
 \ge dist  -acc entirely.Y -acc -ep -poss.3sg do.what -pst.ptc -poss.1sg
 
 \tx tehehenče
-\mb tes  -E  -s(E)n -čE    
-\ps v                      
+\mb tes  -E  -s(E)n -čE
+\ps v
 \ge wipe -ep -lim   -pf.ptc
 
 \ft All I made he removed.
@@ -673,7 +673,7 @@ there; ịadaŋụ itten = he sees that which I made
 
 \id Alekseeva_RD_lost_tapes_znatoki_035
 \tx Tiːk ne... neːgiwrerem               tiːkerren dïlï
-\mb tiek neːgi -Gr(E) -R(E)   -m   tiːkerren dïlï   
+\mb tiek neːgi -Gr(E) -R(E)   -m   tiːkerren dïlï
 \ps adv  v                         adv       postpos
 \ge now  scold -hab   -nonfut -1sg until.now until.Y
 
@@ -688,13 +688,13 @@ more correct, both are used
 
 \id Alekseeva_RD_lost_tapes_znatoki_036
 \tx Hotoru dʒụːdụda     tegečedniken
-\mb sotoru dʒụː  -DU  =DE  teg      -E  -Č   -E  -D    -nIkEn  
-\ps adv    n               v                                   
+\mb sotoru dʒụː  -DU  =DE  teg      -E  -Č   -E  -D    -nIkEn
+\ps adv    n               v
 \ge soon.Y house -dat =ptl sit.down -ep -res -ep -prog -sim.cvb
 
 \tx kụŋaldi               goːŋnerem               :
-\mb kụŋa  -L  -DI          goːn -Gr(E) -R(E)   -m  
-\ps n                      v                       
+\mb kụŋa  -L  -DI          goːn -Gr(E) -R(E)   -m
+\ps n                      v
 \ge child -pl -dat.prfl.sg say  -hab   -nonfut -1sg
 
 \ft Soon even sitting in the house I say to my children:
@@ -709,23 +709,23 @@ the wrong word
 
 \id Alekseeva_RD_lost_tapes_znatoki_037
 \tx Tiːke dʒulep       dʒaːlbị,          tar   etikel,
-\mb tiek dʒul  -(E)rEp dʒaː     -L  -J       tarak etikeːn -L 
-\ps adv  rel.n         ?                     pron  n          
+\mb tiek dʒul  -(E)rEp dʒaː     -L  -J       tarak etikeːn -L
+\ps adv  rel.n         ?                     pron  n
 \ge now  front -adjr   relative -pl -prfl.sg dist  old.man -pl
 
 \tx abagal          ịawụtna...       upeːl,         etikel
-\mb abaga       -L  ịak  -W   -tEn      upeː        -L  etikeːn -L 
-\ps n               pron                n               n          
+\mb abaga       -L  ịak  -W   -tEn      upeː        -L  etikeːn -L
+\ps n               pron                n               n
 \ge grandfather -pl what -acc -poss.3pl grandmother -pl old.man -pl
 
 \tx ịawụtna          eleːr                emeːlde,
 \mb ịak  -W   -tEn      erek -(dU)LE -WUr     emeːn -(LI)lrE
-\ps pron                pron                  v             
+\ps pron                pron                  v
 \ge what -acc -poss.3pl prox -loc    -prfl.pl leave -imp.2pl
 
 \tx goːŋnerem,              dịllaːr.
-\mb goːn -Gr(E) -R(E)   -m   dịl  -(dU)LE -WUr    
-\ps v                        n                    
+\mb goːn -Gr(E) -R(E)   -m   dịl  -(dU)LE -WUr
+\ps v                        n
 \ge say  -hab   -nonfut -1sg head -loc    -prfl.pl
 
 \ft Now keep your previous relatives, old men, grandfathers,
@@ -738,13 +738,13 @@ grandmothers, old men here in your heads.
 
 \id Alekseeva_RD_lost_tapes_znatoki_038
 \tx Amarra         kụŋaldʒụr          ịaw
-\mb amar   -(dU)LE kụŋa  -L  -dʒUr        ịak  -W  
-\ps n              n                      pron     
+\mb amar   -(dU)LE kụŋa  -L  -dʒUr        ịak  -W
+\ps n              n                      pron
 \ge behind -loc    child -pl -ins.prfl.pl what -acc
 
 \tx ukčendʒihne?
-\mb ukčen -DʒI -sEn     
-\ps v                   
+\mb ukčen -DʒI -sEn
+\ps v
 \ge tell  -fut -poss.2pl
 
 \ft Later what will you tell your children?
@@ -758,13 +758,13 @@ dat.prfl.pl??
 
 \id Alekseeva_RD_lost_tapes_znatoki_039
 \tx "Biː kokedʒim       ehni,             hindu        ŋiːde
-\mb biː koke -DʒI -m   e   -R(E)   -n(I) hin     -DU  ŋiː =DE 
-\ps pron v              v                 pron         pron    
+\mb biː koke -DʒI -m   e   -R(E)   -n(I) hin     -DU  ŋiː =DE
+\ps pron v              v                 pron         pron
 \ge 1sg die  -fut -1sg neg -nonfut -3sg  2sg.obl -dat who =ptl
 
 \tx eten            ukčenne"       goːŋnerem.
-\mb e   -t(E) -n(I) ukčen -R       goːn -Gr(E) -R(E)   -m  
-\ps v               v              v                       
+\mb e   -t(E) -n(I) ukčen -R       goːn -Gr(E) -R(E)   -m
+\ps v               v              v
 \ge neg -fut  -3sg  tell  -neg.cvb say  -hab   -nonfut -1sg
 
 \ft "I will die, nobody will tell you." -- I say.
@@ -775,23 +775,23 @@ dat.prfl.pl??
 
 \id Alekseeva_RD_lost_tapes_znatoki_040
 \tx Tara  upeːwu               ejmu             eńenni,
-\mb tarak upeː        -W        enen   -W        eńin   -n(I)    
-\ps pron  n                     n                n               
+\mb tarak upeː        -W        enen   -W        eńin   -n(I)
+\ps pron  n                     n                n
 \ge dist  grandmother -poss.1sg mother -poss.1sg mother -poss.3sg
 
 \tx Marija Grigorjevna, biddeken,
-\mb Marija Grigorjevna bi -D    -REk      -E  -n(I)    
-\ps ?      ?           v                               
+\mb Marija Grigorjevna bi -D    -REk      -E  -n(I)
+\ps ?      ?           v
 \ge Maria  Grigorjevna be -prog -cond.cvb -ep -poss.3sg
 
 \tx tala          herniken     postojanno nọŋandụn
-\mb tarak -(dU)LE hor -nIkEn   postojanno nọŋan -DU  -n(I)    
-\ps pron          v            adv        pron                
+\mb tarak -(dU)LE hor -nIkEn   postojanno nọŋan -DU  -n(I)
+\ps pron          v            adv        pron
 \ge dist  -loc    go  -sim.cvb always.R   3sg   -dat -poss.3sg
 
 \tx biwrerem.
-\mb bi -Gr(E) -R(E)   -m  
-\ps v                     
+\mb bi -Gr(E) -R(E)   -m
+\ps v
 \ge be -hab   -nonfut -1sg
 
 \ft So when my grandmother, the mother of my mother Marija
@@ -805,8 +805,8 @@ Grigorjevna was alive, going there, I used to be at her place regularly.
 
 \id Alekseeva_RD_lost_tapes_znatoki_041
 \tx Herridʒi    tar,  tegetniken...
-\mb hor -RIdʒI   tarak teg      -E  -Č   -nIkEn  
-\ps v            pron  v                         
+\mb hor -RIdʒI   tarak teg      -E  -Č   -nIkEn
+\ps v            pron  v
 \ge go  -ant.cvb dist  sit.down -ep -res -sim.cvb
 \ft Having come, sitting so...
 \ru Придя, вот сидя..
@@ -822,12 +822,12 @@ Grigorjevna was alive, going there, I used to be at her place regularly.
 
 \tx tegetniken                dọlčịwraram...            ukče...
 \mb teg      -E  -Č   -nIkEn   dọlčị  -Gr(E) -R(E)   -m   ukčen
-\ps v                          v                          v    
-\ge sit.down -ep -res -sim.cvb listen -hab   -nonfut -1sg tell 
+\ps v                          v                          v
+\ge sit.down -ep -res -sim.cvb listen -hab   -nonfut -1sg tell
 
 \tx ulgiminiken          tegekkererem.
-\mb ulgim -I    -nIkEn   teg      -E  -Č   -Gr(E) -R(E)   -m  
-\ps v                    v                                    
+\mb ulgim -I    -nIkEn   teg      -E  -Č   -Gr(E) -R(E)   -m
+\ps v                    v
 \ge ask   -ipf? -sim.cvb sit.down -ep -res -hab   -nonfut -1sg
 
 \ft Old women come, I'm listening, sitting... I'm sitting, asking.
@@ -838,13 +838,13 @@ Grigorjevna was alive, going there, I used to be at her place regularly.
 
 \id Alekseeva_RD_lost_tapes_znatoki_043
 \tx Tar   atịkan  "herri       bụgụn ọːlị"
-\mb tarak atịkan    hor -LI      bụgụn ọː     -LI     
-\ps pron  n         v            n     v              
+\mb tarak atịkan    hor -LI      bụgụn ọː     -LI
+\ps pron  n         v            n     v
 \ge dist  old.woman go  -imp.2sg side  become -imp.2sg
 
 \tx esten       goːŋner,        ukčengerer.
-\mb e   -R(E)   goːn -Gr(E) -r   ukčen -Gr(E) -r  
-\ps v           v                v                
+\mb e   -R(E)   goːn -Gr(E) -r   ukčen -Gr(E) -r
+\ps v           v                v
 \ge neg -nonfut say  -hab   -3pl tell  -hab   -3pl
 
 \ft These old women don't say "go away", they tell.
@@ -860,18 +860,18 @@ derived from bụg 'place, land'
 
 \id Alekseeva_RD_lost_tapes_znatoki_044
 \tx Tar   ọːn ele          ńụčal    emnidʒur         ńụt
-\mb tarak ọːn erek -(dU)LE ńụča    -L  em   -RIdʒI   -L  ńụča   
-\ps pron  pron pron         n           v                 n      
+\mb tarak ọːn erek -(dU)LE ńụča    -L  em   -RIdʒI   -L  ńụča
+\ps pron  pron pron         n           v                 n
 \ge dist  how prox -loc    Russian -pl come -ant.cvb -pl Russian
 
 \tx kụŋa họːjalbụjdaga                   ehni.
 \mb kụŋa  họːja -LbE -j    -dEg      -E     e   -R(E)   -n(I)
-\ps n     v                                 v                
-\ge child many  -vr  -conn -assert.Y -3sg.Y neg -nonfut -3sg 
+\ps n     v                                 v
+\ge child many  -vr  -conn -assert.Y -3sg.Y neg -nonfut -3sg
 
 \tx Ekspedicijel.
-\mb ekspedicije  -L 
-\ps n               
+\mb ekspedicije  -L
+\ps n
 \ge expedition.R -pl
 
 \ft How after Russian had come, Russian children became numerous.
@@ -889,8 +889,8 @@ Expeditions.
 \ge dist  say  -hab   -nonfut -1sg Russian -adjr -ins how
 
 \tx ukčemmekkerečel               bihes?"         goːniken.
-\mb ukčen -mEČ -Gr(E) -čE     -L  bi -R(E)   -s   goːn -nIkEn  
-\ps v                             v               v            
+\mb ukčen -mEČ -Gr(E) -čE     -L  bi -R(E)   -s   goːn -nIkEn
+\ps v                             v               v
 \ge tell  -rec -hab   -pf.ptc -pl be -nonfut -2pl say  -sim.cvb
 
 \ft I say about that: "How did you speak in Russian?"
@@ -906,13 +906,13 @@ razgovarivali"
 
 \id Alekseeva_RD_lost_tapes_znatoki_046
 \tx Taraw      haːmakkarar:       "Bejetde
-\mb tarak -W   haːmat -Gr(E) -r   bej    -E  -t(I)        =DE 
-\ps pron       v                  pron                        
+\mb tarak -W   haːmat -Gr(E) -r   bej    -E  -t(I)        =DE
+\ps pron       v                  pron
 \ge dist  -acc laugh  -hab   -3pl self.Y -ep -poss.1pl.in =ptl
 
 \tx ehep                haːra"       goːŋner.
-\mb e   -R(E)   -p      haː  -R       goːn -Gr(E) -r  
-\ps v                   v             v               
+\mb e   -R(E)   -p      haː  -R       goːn -Gr(E) -r
+\ps v                   v             v
 \ge neg -nonfut -1pl.in know -neg.cvb say  -hab   -3pl
 
 \ft They laugh about it: "We don't know ourselves" -- they say.
@@ -924,8 +924,8 @@ razgovarivali"
 \id Alekseeva_RD_lost_tapes_znatoki_047
 \tx Tar   upeːkekeːl,         ačča ọːčal          tiːke.
 \mb tarak upeː        -kEkEn -L  ačča ọː     -čE     -L  tiek
-\ps pron  n                      ptl  v                  adv 
-\ge dist  grandmother -dim   -pl neg  become -pf.ptc -pl now 
+\ps pron  n                      ptl  v                  adv
+\ge dist  grandmother -dim   -pl neg  become -pf.ptc -pl now
 \ft These grandmothers, they are dead now.
 \ru Эти бабушки, их не стало теперь.
 \ELANBegin 00:04:05.360
@@ -935,8 +935,8 @@ razgovarivali"
 \id Alekseeva_RD_lost_tapes_znatoki_048
 \tx Keńeli.
 \mb keńeli
-\ps adj   
-\ge bad   
+\ps adj
+\ge bad
 \ft Bad.
 \ru Плохо.
 \ELANBegin 00:04:08.040
@@ -945,8 +945,8 @@ razgovarivali"
 
 \id Alekseeva_RD_lost_tapes_znatoki_049
 \tx Tar   upeːl          biče      bidden...
-\mb tarak upeː        -L  bi -čE     bi -D    -DE       -n(I)    
-\ps pron  n               v          v                           
+\mb tarak upeː        -L  bi -čE     bi -D    -DE       -n(I)
+\ps pron  n               v          v
 \ge dist  grandmother -pl be -pf.ptc be -prog -purp.cvb -poss.3sg
 \ft If these grandmothers had been alive...
 \ph
@@ -961,22 +961,22 @@ what difference there might be in nuance
 \id Alekseeva_RD_lost_tapes_znatoki_050
 \tx Tiːkerep    sovremennaj haːn
 \mb tiek -(E)rEp sovremennaj haːn
-\ps adv          adj         ?   
+\ps adv          adj         ?
 \ge now  -adjr   modern.R    some
 
 \tx upeldun
-\mb upeː        -L  -DU  -n(I)    
-\ps n                             
+\mb upeː        -L  -DU  -n(I)
+\ps n
 \ge grandmother -pl -dat -poss.3sg
 
 \tx ulgimirekes:                       "Ehem
-\mb ulgim -I    -REk      -E  -s(I)     e   -R(E)   -m  
-\ps v                                   v               
+\mb ulgim -I    -REk      -E  -s(I)     e   -R(E)   -m
+\ps v                                   v
 \ge ask   -ipf? -cond.cvb -ep -poss.2sg neg -nonfut -1sg
 
 \tx haːra"       goːŋner.
-\mb haː  -R       goːn -Gr(E) -r  
-\ps v             v               
+\mb haː  -R       goːn -Gr(E) -r
+\ps v             v
 \ge know -neg.cvb say  -hab   -3pl
 
 \ft Now if you ask some grandmothers: "I don't know," -- they say.
@@ -988,8 +988,8 @@ what difference there might be in nuance
 \id Alekseeva_RD_lost_tapes_znatoki_051
 \tx Haːn estede           ukčenehŋerer.           Tar.
 \mb haːn e   -R(E)   =DE  ukčen -s(E)n -Gr(E) -r   tarak
-\ps ?    v                v                        pron 
-\ge some neg -nonfut =ptl tell  -lim   -hab   -3pl dist 
+\ps ?    v                v                        pron
+\ge some neg -nonfut =ptl tell  -lim   -hab   -3pl dist
 \ft Some of them don't tell. So.
 \ru Некоторые не рассказывают. Вот.
 \ELANBegin 00:04:17.520
@@ -998,13 +998,13 @@ what difference there might be in nuance
 
 \id Alekseeva_RD_lost_tapes_znatoki_052
 \tx Tar   ŋiː... Taisija Vasiljevna amannị         họːjaw
-\mb tarak ŋiː Taisija Vasilevna aman   -n(I)     họːja -W  
-\ps pron  pron ?       ?         n                quant     
+\mb tarak ŋiː Taisija Vasilevna aman   -n(I)     họːja -W
+\ps pron  pron ?       ?         n                quant
 \ge dist  who Taisija Vasilevna father -poss.3sg many  -acc
 
 \tx haːwrarịn.
-\mb haː  -Gr(E) -RI  -n(I)    
-\ps v                         
+\mb haː  -Gr(E) -RI  -n(I)
+\ps v
 \ge know -hab   -pst -poss.3sg
 
 \ft Then who... The father of Taisija Vasiljevna knew a lot.
@@ -1016,8 +1016,8 @@ what difference there might be in nuance
 \id Alekseeva_RD_lost_tapes_znatoki_053
 \tx Emie   kokerin             ehni.
 \mb emie   koke -RI  -n(I)     e   -R(E)   -n(I)
-\ps adv    v                   v                
-\ge also.Y die  -pst -poss.3sg neg -nonfut -3sg 
+\ps adv    v                   v
+\ge also.Y die  -pst -poss.3sg neg -nonfut -3sg
 
 \ft He is also dead.
 \ru Тоже умер.
@@ -1028,13 +1028,13 @@ what difference there might be in nuance
 \id Alekseeva_RD_lost_tapes_znatoki_054
 \tx Tabar   nọŋan ọmọlgọn,       egdʒen ọmọlgọn,       Tit
 \mb tawụr nọŋan ọmọlga -n(I)     egdʒen ọmọlga -n(I)     Tit
-\ps pron  pron  n                adj    n                ?  
+\ps pron  pron  n                adj    n                ?
 \ge this  3sg   boy    -poss.3sg big    boy    -poss.3sg Tit
 
 \tx họːjaw     haːčadʒin.
 \mb họːja -W   haː  -čE     -DʒI -n(I)
-\ps quant      v                      
-\ge many  -acc know -pf.ptc -fut -3sg 
+\ps quant      v
+\ge many  -acc know -pf.ptc -fut -3sg
 
 \ft Then his oldest son Tit probably also knows a lot.
 \ph Tobor nọŋọn
@@ -1045,8 +1045,8 @@ what difference there might be in nuance
 
 \id Alekseeva_RD_lost_tapes_znatoki_055
 \tx Amančal     kuruk    biwetniken.
-\mb aman   -čEl kuruk    bi -WEːČ -nIkEn  
-\ps n           ?        v                
+\mb aman   -čEl kuruk    bi -WEːČ -nIkEn
+\ps n           ?        v
 \ge father -com always.Y be -gnr  -sim.cvb
 \ft Being always with his father.
 \ph
@@ -1059,23 +1059,23 @@ statements
 
 \id Alekseeva_RD_lost_tapes_znatoki_056
 \tx Tara  emie   omneken        emie   tegetniken
-\mb tarak emie   omen -REkEn    emie   teg      -E  -Č   -nIkEn  
-\ps pron  adv    num            adv    v                         
+\mb tarak emie   omen -REkEn    emie   teg      -E  -Č   -nIkEn
+\ps pron  adv    num            adv    v
 \ge dist  also.Y one  -iter.adv also.Y sit.down -ep -res -sim.cvb
 
 \tx dʒulep       ịaw      dʒọnịkan,  ulgimin...
-\mb dʒul  -(E)rEp ịak  -W   dʒọn     -nIkEn     ulgim -i     
-\ps rel.n         pron      v                   ?            
-\ge front -adjr   what -acc remember -sim.cvask ?     -ipf???
+\mb dʒul  -(E)rEp ịak  -W   dʒọn     -nIkEn     ulgim -i
+\ps rel.n         pron      v                   ?
+\ge front -adjr   what -acc remember -sim.cvb ask ?     -ipf???
 
 \tx ečimur    ukčemmetniken        haːdụn
-\mb erroːčin  ukčen -mEČ -nIkEn   haːdụn   
-\ps pron      v                   adv      
+\mb erroːčin  ukčen -mEČ -nIkEn   haːdụn
+\ps pron      v                   adv
 \ge prox.qual tell  -rec -sim.cvb sometimes
 
 \tx tegekkererep.
-\mb teg      -E  -Č   -Gr(E) -R(E)   -p     
-\ps v                                       
+\mb teg      -E  -Č   -Gr(E) -R(E)   -p
+\ps v
 \ge sit.down -ep -res -hab   -nonfut -1pl.in
 
 \ft Once also, sometimes we also sit , talking, remembering old times.
@@ -1088,8 +1088,8 @@ statements
 
 \id Alekseeva_RD_lost_tapes_znatoki_057
 \tx Tar   nọŋan emie   haːdnị  (họːjaw?).
-\mb tarak nọŋan emie   haː  -n(I) họːja -W  
-\ps pron  pron  adv    v          quant     
+\mb tarak nọŋan emie   haː  -n(I) họːja -W
+\ps pron  pron  adv    v          quant
 \ge dist  3sg   also.Y know -3sg  many  -acc
 
 \ft He also knows (a lot).
@@ -1102,8 +1102,8 @@ statements
 \id Alekseeva_RD_lost_tapes_znatoki_058
 \tx Nọŋan emie   stadala?
 \mb nọŋan emie   stado  -(dU)LE
-\ps pron  adv    n             
-\ge 3sg   also.Y herd.R -loc   
+\ps pron  adv    n
+\ge 3sg   also.Y herd.R -loc
 \ft Is he also in the herd?
 \ru Он тоже в стаде?
 \ELANBegin 00:04:47.260
@@ -1113,8 +1113,8 @@ statements
 \id Alekseeva_RD_lost_tapes_znatoki_059
 \tx Ehni,             ele          bihni.
 \mb e   -R(E)   -n(I) erek -(dU)LE bi -R(E)   -n(I)
-\ps v                 pron         v               
-\ge neg -nonfut -3sg  prox -loc    be -nonfut -3sg 
+\ps v                 pron         v
+\ge neg -nonfut -3sg  prox -loc    be -nonfut -3sg
 \ft No, he is here.
 \ru Нет, он здесь.
 \ELANBegin 00:04:50.080
@@ -1124,13 +1124,13 @@ statements
 \id Alekseeva_RD_lost_tapes_znatoki_060
 \tx Hebeːndule,          Taisija Vasiljevna
 \mb Sebjan-Küöl -(dU)LE Taisija Vasilevna
-\ps n                   ?       ?        
+\ps n                   ?       ?
 \ge Sebjan-Küöl -loc    Taisija Vasilevna
 
 \tx akannị,               Tit Vasiljevič gerbe.
 \mb akan          -n(I)     Tit Vasilevič  gerbe
-\ps n                       ?   ?          n    
-\ge older.brother -poss.3sg Tit Vasilevich name 
+\ps n                       ?   ?          n
+\ge older.brother -poss.3sg Tit Vasilevich name
 
 \ft In Sebjan, the older brother of Taissija Vasiljevna Tit Vasiljevich.
 \ru В Себяне, старший брат Таисии Васильевны по имени Тит Васильевич.
@@ -1140,19 +1140,19 @@ statements
 
 \id Alekseeva_RD_lost_tapes_znatoki_061
 \tx Klim Nikolajevič emie   họːjaw     irew       taraw
-\mb Klim Nikolaevič  emie   họːja -W   irek  -W   tarak -W  
-\ps ?    ?           adv    quant      pron       pron      
+\mb Klim Nikolaevič  emie   họːja -W   irek  -W   tarak -W
+\ps ?    ?           adv    quant      pron       pron
 \ge Klim Nikolaevich also.Y many  -acc which -acc dist  -acc
 
 \tx haːdnị, nọŋan emie   postojanno amandụkụj,
-\mb haː  -n(I) nọŋan emie   postojanno aman   -DUk(U) -J      
-\ps v          pron  adv    adv        n                      
+\mb haː  -n(I) nọŋan emie   postojanno aman   -DUk(U) -J
+\ps v          pron  adv    adv        n
 \ge know -3sg  3sg   also.Y always.R   father -abl    -prfl.sg
 
 \tx dʒaːldụkụj              ulgimiwren.
 \mb dʒaː     -L  -DUk(U) -J       ulgim -I    -Gr(E) -n(I)
-\ps n                             v                       
-\ge relative -pl -abl    -prfl.sg ask   -ipf? -hab   -3sg 
+\ps n                             v
+\ge relative -pl -abl    -prfl.sg ask   -ipf? -hab   -3sg
 
 \ft Klim Nikolaevich also knows a lot of different things, he always asks his
 father, his relatives.
@@ -1165,18 +1165,18 @@ father, his relatives.
 \id Alekseeva_RD_lost_tapes_znatoki_062
 \tx Tarịt Burtsew emdʒin          tadụk
 \mb tarịt Burtsew em   -DʒI -n(I) tarak -DUk(U)
-\ps adv   ?       v               pron         
-\ge then  Burtsew come -fut -3sg  dist  -abl   
+\ps adv   ?       v               pron
+\ge then  Burtsew come -fut -3sg  dist  -abl
 
 \tx ulgimidʒihne,              nọŋọn      emie   họːjaw
-\mb ulgim -I    -DʒI -sEn      nọŋ -on      emie   họːja -W  
-\ps v                          pron         adv    quant     
+\mb ulgim -I    -DʒI -sEn      nọŋ -on      emie   họːja -W
+\ps v                          pron         adv    quant
 \ge ask   -ipf? -fut -poss.2pl 3sg -acc.3sg also.Y many  -acc
 
 \tx irew       taraw      haːdʒịn,     haːčaːdʒịn.
 \mb irek  -W   tarak -W   haː  -DʒI -n(I) haː  -čE     -DʒI -n(I)
-\ps pron       pron       v               v                      
-\ge which -acc dist  -acc know -fut -3sg  know -pf.ptc -fut -3sg 
+\ps pron       pron       v               v
+\ge which -acc dist  -acc know -fut -3sg  know -pf.ptc -fut -3sg
 
 \ft Then Burtsew will come, you will ask him, he will also know a lot of
 different things, maybe, he knows..
@@ -1189,13 +1189,13 @@ different things, maybe, he knows..
 
 \id Alekseeva_RD_lost_tapes_znatoki_063
 \tx Họːja ele          tiːkerep    ịal     haːrị
-\mb họːja erek -(dU)LE tiek -(E)rEp ịak  -L  haː  -RI      
-\ps quant pron         adv          pron     v             
+\mb họːja erek -(dU)LE tiek -(E)rEp ịak  -L  haː  -RI
+\ps quant pron         adv          pron     v
 \ge many  prox -loc    now  -adjr   what -pl know -impf.ptc
 
 \tx tar   ŋiː Tatjana Petrovna akannị         Ivan Petrovič.
-\mb tarak ŋiː Tatjana Petrovna akan   -n(I)     Ivan Petrovič 
-\ps pron  pron ?       ?        n                ?    ?        
+\mb tarak ŋiː Tatjana Petrovna akan   -n(I)     Ivan Petrovič
+\ps pron  pron ?       ?        n                ?    ?
 \ge dist  who Tatjana Petrovna father -poss.3sg Ivan Petrovich
 
 \ft Here there are a lot of persons knowing a lot, so who, the older brother
@@ -1209,8 +1209,8 @@ of Tatjana Petrovna, Ivan Petrovich.
 \id Alekseeva_RD_lost_tapes_znatoki_064
 \tx Emie   haːdnị  nọŋan
 \mb emie   haː  -n(I) nọŋan
-\ps adv    v          pron 
-\ge also.Y know -3sg  3sg  
+\ps adv    v          pron
+\ge also.Y know -3sg  3sg
 
 \ft He also knows a lot.
 \ph nọŋọn
@@ -1221,23 +1221,23 @@ of Tatjana Petrovna, Ivan Petrovich.
 
 \id Alekseeva_RD_lost_tapes_znatoki_065
 \tx Ee, ọttọn, haːdụn tala          emie
-\mb ee ọttọn haːdụn    tarak -(dU)LE emie  
-\ps interj ptl   adv       pron          adv   
+\mb ee ọttọn haːdụn    tarak -(dU)LE emie
+\ps interj ptl   adv       pron          adv
 \ge eh dp.Y  sometimes dist  -loc    also.Y
 
 \tx nọŋandụlan         hermi,        ta... emie
-\mb nọŋan -(dU)LE -n(I)     hor -mI       tarak emie  
-\ps pron                    v             pron  adv   
+\mb nọŋan -(dU)LE -n(I)     hor -mI       tarak emie
+\ps pron                    v             pron  adv
 \ge 3sg   -loc    -poss.3sg go  -cond.cvb dist  also.Y
 
 \tx dʒulepu           ịaw      ukčemmetniken
-\mb dʒul  -(E)rEp -W   ịak  -W   ukčen -mEČ -nIkEn  
-\ps rel.n              pron      v                  
+\mb dʒul  -(E)rEp -W   ịak  -W   ukčen -mEČ -nIkEn
+\ps rel.n              pron      v
 \ge front -adjr   -acc what -acc tell  -rec -sim.cvb
 
 \tx tegekkererep.
-\mb teg      -E  -Č   -Gr(E) -R(E)   -p     
-\ps v                                       
+\mb teg      -E  -Č   -Gr(E) -R(E)   -p
+\ps v
 \ge sit.down -ep -res -hab   -nonfut -1pl.in
 
 \ft Sometimes when I go there to him (to her), we also sit talking about old
@@ -1251,13 +1251,13 @@ times.
 \id Alekseeva_RD_lost_tapes_znatoki_066
 \tx Tara. Tar   daže  hettis    stadala        Ekatirina
 \mb tarak tarak daže   settis    stado  -(dU)LE Ekaterina
-\ps pron  pron  ptl    num       n              ?        
+\ps pron  pron  ptl    num       n              ?
 \ge dist  dist  even.R seventh.Y herd.R -loc    Ekaterina
 
 \tx gerbe rụčejka bihni.
 \mb gerbe rụčejka bi -R(E)   -n(I)
-\ps n     n       v               
-\ge name  brook.R be -nonfut -3sg 
+\ps n     n       v
+\ge name  brook.R be -nonfut -3sg
 
 \ft There is even a brook called Ekaterina in the seventh herd.
 \ru Вот даже в седьмом стаде ручеек Екатерина есть.
@@ -1268,12 +1268,12 @@ times.
 \id Alekseeva_RD_lost_tapes_znatoki_067
 \tx Tala          bej mọːn          bihni
 \mb tarak -(dU)LE bej mọː  -n(I)     bi -R(E)   -n(I)
-\ps pron          n   n              v               
-\ge dist  -loc    man tree -poss.3sg be -nonfut -3sg 
+\ps pron          n   n              v
+\ge dist  -loc    man tree -poss.3sg be -nonfut -3sg
 
 \tx goːŋner,        obelisk,  ịŋat     ọːpča.
-\mb goːn -Gr(E) -r   obelisk   ịŋa   -Č   ọː   -B   -čE    
-\ps v                n         n          v                
+\mb goːn -Gr(E) -r   obelisk   ịŋa   -Č   ọː   -B   -čE
+\ps v                n         n          v
 \ge say  -hab   -3pl obelisk.R stone -ins make -med -pf.ptc
 
 \ft There is a grave there, it is said, an obelisk made of stone.
@@ -1284,13 +1284,13 @@ times.
 
 \id Alekseeva_RD_lost_tapes_znatoki_068
 \tx Tala          dụkapča            uhu,  ŋiː goːniken,
-\mb tarak -(dU)LE dụk   -E  -B   -čE     ühü   ŋiː goːn -nIkEn  
-\ps pron          v                      ptl   pron v            
+\mb tarak -(dU)LE dụk   -E  -B   -čE     ühü   ŋiː goːn -nIkEn
+\ps pron          v                      ptl   pron v
 \ge dist  -loc    write -ep -med -pf.ptc hsy.Y who say  -sim.cvb
 
 \tx ŋiː Velikanov (Belikanop).
 \mb ŋiː Velikanov Velikanov
-\ps pron ?         ?        
+\ps pron ?         ?
 \ge who Velikanov Velikanov
 
 \ft Velikanov (Belikanop) is written there, it is said.
@@ -1301,13 +1301,13 @@ times.
 
 \id Alekseeva_RD_lost_tapes_znatoki_069
 \tx Tarak bụọlla   Velikanov tar   meːn bejdu,   meːne
-\mb tarak buollaγïna Velikanov tarak meːn bej -DU  meːne   
-\ps pron  ptl        ?         pron  pron n        adv     
+\mb tarak buollaγïna Velikanov tarak meːn bej -DU  meːne
+\ps pron  ptl        ?         pron  pron n        adv
 \ge dist  dp.Y       Velikanov dist  refl man -dat simply.Y
 
 \tx bọrụọstọj bejdu    ečel           dụkabgarar.
-\mb bọrụọstọj bej -DU  e   -čE     -L  dụk   -E  -B   -Gr(E) -r  
-\ps adj       n        v               v                         
+\mb bọrụọstọj bej -DU  e   -čE     -L  dụk   -E  -B   -Gr(E) -r
+\ps adj       n        v               v
 \ge simple.Y  man -dat neg -pf.ptc -pl write -ep -med -hab   -3pl
 
 \ft These Velikanov are not written for a simple person.
@@ -1322,8 +1322,8 @@ times.
 \id Alekseeva_RD_lost_tapes_znatoki_070
 \tx Egdʒen eŋeje bej biče      urečen   goːŋnen.
 \mb egdʒen eŋeje bej bi -čE     ureːčin goːn -Gr(E) -n(I)
-\ps adj    ?     n   v          adj     v                
-\ge big    rich  man be -pf.ptc similar say  -hab   -3sg 
+\ps adj    ?     n   v          adj     v
+\ge big    rich  man be -pf.ptc similar say  -hab   -3sg
 \ft He says, he seems to be a very rich person.
 \ph
 \gr
@@ -1336,22 +1336,22 @@ times.
 \id Alekseeva_RD_lost_tapes_znatoki_071
 \tx Taraw      bụọllaγïna biː dʒaːlbụ            ọttọn
 \mb tarak -W   buollaγïna biː dʒaː     -L  -W        ọttọn
-\ps pron       ptl        pron n                      ptl  
-\ge dist  -acc dp.Y       1sg relative -pl -poss.1sg dp.Y 
+\ps pron       ptl        pron n                      ptl
+\ge dist  -acc dp.Y       1sg relative -pl -poss.1sg dp.Y
 
 \tx tiːkerep    abagawu               Stepanov Fedor
 \mb tiek -(E)rEp abaga       -W        Stepanov Fedor
-\ps adv          n                     ?        ?    
+\ps adv          n                     ?        ?
 \ge now  -adjr   grandfather -poss.1sg Stepanov Fedor
 
 \tx Nikolaevič dʒiŋ familijan           Belikanop
 \mb Nikolaevič  dʒiŋ   familija  -n(I)     Velikanov
-\ps ?           adv    n                   ?        
+\ps ?           adv    n                   ?
 \ge Nikolaevich very.Y surname.R -poss.3sg Velikanov
 
 \tx goːniken.
-\mb goːn -nIkEn  
-\ps v            
+\mb goːn -nIkEn
+\ps v
 \ge say  -sim.cvb
 
 \ft So my relatives now, it is said, the real surname of my grandfather
@@ -1364,8 +1364,8 @@ Fedor Nikolaevich Stepanov is Velikanov.
 
 \id Alekseeva_RD_lost_tapes_znatoki_072
 \tx Tarak bụọlla   Velikanoval      tiːke Buluːkki       bihe.
-\mb tarak buollaγïna Velikanov -E  -L  tiek Buluːj -t(E)kI bi -R(E)  
-\ps pron  ptl        ?                 adv  n              v         
+\mb tarak buollaγïna Velikanov -E  -L  tiek Buluːj -t(E)kI bi -R(E)
+\ps pron  ptl        ?                 adv  n              v
 \ge dist  dp.Y       Velikanov -ep -pl now  Viluj  -all    be -nonfut
 
 \ft Now these Velikanovs are (live) in the direction of Viluj.
@@ -1380,8 +1380,8 @@ Fedor Nikolaevich Stepanov is Velikanov.
 \id Alekseeva_RD_lost_tapes_znatoki_073
 \tx Tadụk       emčemdes,         tara.
 \mb tarak -DUk(U) em   -čE     -mdEs tarak
-\ps pron          v                  pron 
-\ge dist  -abl    come -pf.ptc -sml  dist 
+\ps pron          v                  pron
+\ge dist  -abl    come -pf.ptc -sml  dist
 \ft He seems to have come from there.
 \ru Отсюда, кажется, приехал.
 \ELANBegin 00:06:21.710
@@ -1390,18 +1390,18 @@ Fedor Nikolaevich Stepanov is Velikanov.
 
 \id Alekseeva_RD_lost_tapes_znatoki_074
 \tx Dʒulep       Buluːjle       ọrọl
-\mb dʒul  -(E)rEp Buluːj -(dU)LE ọrọn              -L 
-\ps rel.n         n              n                    
+\mb dʒul  -(E)rEp Buluːj -(dU)LE ọrọn              -L
+\ps rel.n         n              n
 \ge front -adjr   Viluj  -loc    domestic.reindeer -pl
 
 \tx ọrọl              bičeni,             ọrọlčịmŋal
-\mb ọrọn              -L  bi -čE     -n(I)     ọrọlčị        -mŋE -L 
-\ps n                     v                    v                     
+\mb ọrọn              -L  bi -čE     -n(I)     ọrọlčị        -mŋE -L
+\ps n                     v                    v
 \ge domestic.reindeer -pl be -pf.ptc -poss.3sg herd.reindeer -nr  -pl
 
 \tx bičel.
-\mb bi -čE     -L 
-\ps v             
+\mb bi -čE     -L
+\ps v
 \ge be -pf.ptc -pl
 
 \ft In the old Viluj there were reindeer, there were reindeer herders.
@@ -1419,8 +1419,8 @@ edinstvennoe chislo?
 \id Alekseeva_RD_lost_tapes_znatoki_075
 \tx Tiːk, tiːk ačča, tar.
 \mb tiek tiek ačča tarak
-\ps adv  adv  ptl  pron 
-\ge now  now  neg  dist 
+\ps adv  adv  ptl  pron
+\ge now  now  neg  dist
 \ft Now there are not.
 \ru Сейчас нет.
 \ELANBegin 00:06:29.120
