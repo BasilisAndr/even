@@ -358,7 +358,7 @@ me meaning-wise, though then the form should be ọːkarap... so I decided not t
 \ref
 \tx Aa, erek čọγel,    čọγ gerben,         iŋe   erek.
 \mb aa erek čọg  -E  -L  čọg  gerbe -n(I)     ịŋa erek
-\ps excl pron n            n    n               ?   pron
+\ps interj pron n            n    n               ?   pron
 \ge ah prox bell -ep -pl bell name  -poss.3sg yes prox
 \ft Aha, these are bells, it's called "chog", mhm, this.
 \ev А, эрэк - чоӷыл, чоӷ гэрбын, иӈэ эрэк  aaa.

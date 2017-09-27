@@ -42,7 +42,7 @@ recording
 \id stado#10_Nikitin_Mitja_003
 \tx [AE: Aa, ebedit.]
 \mb AE aa ewen -DI   -Č  
-\ps ?  excl n              
+\ps ?  interj n              
 \ge AE ah Even -adjr -ins
 \ft (AE): Yes, in Even.
 \ru Да, по-эвенски.
@@ -102,7 +102,7 @@ recording
 \id stado#10_Nikitin_Mitja_007
 \tx [BP: Mm] mm
 \mb BP mm  mm 
-\ps ?  excl excl
+\ps ?  interj interj
 \ge BP mhm mhm
 
 \ELANBegin 00:00:26.200

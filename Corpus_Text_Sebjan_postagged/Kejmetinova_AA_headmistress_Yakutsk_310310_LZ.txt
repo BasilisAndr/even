@@ -173,7 +173,7 @@ eripkeč-, so IVK suggested that it probably is rather two different verbs that 
 \tx tarịt minu          ečin      goːnin:             haːmattịčan         asịtkan, ịak hebdʒeːnis?             ịaw
 \mb tarịt min     -W   erroːčin  goːn -RI  -n(I)     haːmat -RI       -čEn asatkan ịak  hebdʒeń  -(h)E -s(I)     ịak  -W  
 \ps adv   pron         pron      v                   v                     n       pron v                        pron     
-\ge then  1sg.obl -acc prox.qual say  -pst -poss.3sg laugh  -impf.ptc -dim girl    what be.funny -excl -poss.2sg what -acc
+\ge then  1sg.obl -acc prox.qual say  -pst -poss.3sg laugh  -impf.ptc -dim girl    what be.funny -interj -poss.2sg what -acc
 
 \tx haːmačаnni     ?
 \mb haːmat -E  -nrI *? 
@@ -186,9 +186,9 @@ Why are you laughing?
 would be haːŋčịrịwụ, haːmattịwụ kojeːtniken; haːŋčịdaj = dolgo xoxotatj, haːmattaj = mnogo xoxotatj, so those two verbs would appear to
 be near synonyms; ịak hebdʒeːnis = kakoj ty smeshnoj, ja smeshnaja = biː hebdʒeːniw; should be (in Sebjan dialect) ịak hebdʒeːńes, ịak
 hebdʒeːńew, ịak hebdʒeńen "kakoj ty, ja, on smeshnoj"; kakoj on byl smeshnoj = ịak hebdʒeːńen bihin; something about this being a
-participle of stative verbs - I wonder if it's what I gloss "exclamative", the -(h)E form? though I haven't had that with person marking yet
+participle of stative verbs - I wonder if it's what I gloss "interjamative", the -(h)E form? though I haven't had that with person marking yet
 \gr asked on 070312: hebdʒeńdej = bytj smešnym; ọbdụhaw - one cannot say this, but one could say ịak ọbdụhaw 'kakaja ja utomitelnaja', ịak
-hebdʒeńew 'kakaja ja smeshnaja', so ịak hebdʒeńes is the "exclamative" form of hebdʒeń 'bytj smeshnym'
+hebdʒeńew 'kakaja ja smeshnaja', so ịak hebdʒeńes is the "interjamative" form of hebdʒeń 'bytj smeshnym'
 \ELANBegin 00:01:21.870
 \ELANEnd 00:01:40.180
 \ELANParticipant
@@ -402,7 +402,7 @@ elided before -KEn
 \tx herkeje          bihin.
 \mb herkeń     -(h)E bi -RI  -n(I)    
 \ps v                v                
-\ge feel.shame -excl be -pst -poss.3sg
+\ge feel.shame -interj be -pst -poss.3sg
 
 \ft I'm a historian, I said, I didn't say that I'm the headmaster, I was ashamed.
 \gr mne bylo stydno = mindu herkeje bihin, mne sejchas stydno = mindu herkehni, mindu herkeje, herkendej is used only in 3sg, experiencer
@@ -485,7 +485,7 @@ in dative
 
 \tx ọstọrọs Ita, Matrjona, Ita, bakridʒi      "Ma.." goːniken      boːmelčirin.
 \mb storož  Ita Matrena Ita bak  -RIdʒI   ma    goːn -nIkEn   boː  -mElčI -RI  -n(I)    
-\ps n       ?   ?       ?   v             excl  v             v                         
+\ps n       ?   ?       ?   v             interj  v             v                         
 \ge guard.R Ita Matrena Ita find -ant.cvb here! say  -sim.cvb give -acclr -pst -poss.3sg
 
 \ft When I said that I'm the headmaster, Ita having quickly rummaged in her pockets, the guard Ita  - Matrena - Ita found it and saying "here"
@@ -876,8 +876,8 @@ delatj;  goːheger ọːnnị 'ty kak by sobiraeshsja govoritj'
 \ft
 \tx Tarịt goːnni,    go    gorbylj gerbe gọl    ọjọndʒan                 goːnni     ečin      hụnaptịn.
 \mb tarịt goːn -n(I) ge    gorbylj gerbe gọl      ọj      -E  -ńdʒE -n(I)     goːn -n(I) erroːčin  hụna -B   -RI       -n(I)    
-\ps adv   v          excl  n       n     n        rel.n                       v          pron      v                            
-\ge then  say  -3sg  exclm slab.R  name  firewood surface -ep -aug  -poss.3sg say  -3sg  prox.qual saw  -med -impf.ptc -poss.3sg
+\ps adv   v          interj  n       n     n        rel.n                       v          pron      v                            
+\ge then  say  -3sg  interjm slab.R  name  firewood surface -ep -aug  -poss.3sg say  -3sg  prox.qual saw  -med -impf.ptc -poss.3sg
 \ft Then he said: A gorbyl is the sawed-up top part of a log.
 \nt go dọlčili -- давай слушай
 \qu
@@ -982,7 +982,7 @@ unload these they found that the so-called brus was missing - i.e. the way EAK h
 \ge stone -acc take -ant.cvb -pl dist  -loc    sharpen -imp.2pl say  -nonfut -1sg
 
 \ft If you want to sharpen your axes, take such rough stones from the river, sharpen them there, I  said.
-\gr one can also derive the exclamative form hebere (with suffix -(h)E) from heber-
+\gr one can also derive the interjamative form hebere (with suffix -(h)E) from heber-
 \nt in Russian, the word for whetstone is "brusok", so when AAK heard that they needed a "brus", she thought they meant a whetstone and
 sent them to the river to get rough stones, which is what her father had always done when he needed to sharpen knives or axes
 \ELANBegin 00:06:55.166
@@ -1088,8 +1088,8 @@ iakka = a chto, information structure particle
 \ft
 \tx Ee     go,   horri,       oo, ịak erejen,                go,   horri        gurgelej,                goːnni.
 \mb ee ge    hor -LI      oo ịak  erej      -E  -n(I)     ge    hor -LI      gurgeː -(dU)LE -J       goːn -n(I)
-\ps interj excl  v            interj pron n                       excl  v            n                       v         
-\ge eh exclm go  -imp.2sg oh what trouble.Y -ep -poss.3sg exclm go  -imp.2sg work   -loc    -prfl.sg say  -3sg 
+\ps interj interj  v            interj pron n                       interj  v            n                       v         
+\ge eh interjm go  -imp.2sg oh what trouble.Y -ep -poss.3sg interjm go  -imp.2sg work   -loc    -prfl.sg say  -3sg 
 \ft "All right, go, oh, what a bother, go to your work", he said.
 \nt
 \qu
@@ -1297,7 +1297,7 @@ nazyvaetsja brus"
 \tx herkejekie,            tar   ịak akmụda                     bihiken.
 \mb herkeń     -(h)E =kE   tarak ịak  akan          -W        =DE  bi -REk      -E  -n(I)    
 \ps v                      pron  pron n                            v                         
-\ge feel.shame -excl =emph dist  what older.brother -poss.1sg =ptl be -cond.cvb -ep -poss.3sg
+\ge feel.shame -interj =emph dist  what older.brother -poss.1sg =ptl be -cond.cvb -ep -poss.3sg
 
 \ft Then I felt ashamed, how often will I run to that office, that is too shameful, even if he is my older brother.
 \ph
@@ -1313,8 +1313,8 @@ nazyvaetsja brus"
 \ft
 \tx Kụŋal,    go,   bejehnen         gennelde          taraw,     tarbụčan    nomer,   tadụk
 \mb kụŋa  -L  ge    bej    -sEn      gelne    -(LI)lrE tarak -W   tarọːčịn  nomer    tarak -DUk(U)
-\ps n         excl  pron             v                 pron       pron      n        pron         
-\ge child -pl exclm self.Y -poss.2pl go.fetch -imp.2pl dist  -acc dist.qual number.R dist  -abl   
+\ps n         interj  pron             v                 pron       pron      n        pron         
+\ge child -pl interjm self.Y -poss.2pl go.fetch -imp.2pl dist  -acc dist.qual number.R dist  -abl   
 
 \tx ulgimiri...         garịdʒụr     sklattụk,          goːn(em).
 \mb ulgim -I   -RIdʒI   ga   -RIdʒI   -L  sklad        -DUk(U) goːn -R(E)   -m  
@@ -1616,7 +1616,7 @@ others
 \tx Bi   sčotuńun         dasčịm,       bọkụma       ...  ịaw      baktịdʒị, - goːnem
 \mb biː sčot   -W   =ńUn   das   -DʒI -m   bọkụm      -(h)E *... ịak  -W   bak  -RIdʒI   goːn -R(E)   -m  
 \ps pron n                  v               v                ?    pron      v             v                
-\ge 1sg bill.R -acc =restr cover -fut -1sg get.fed.up -excl ***  what -acc find -ant.cvb say  -nonfut -1sg
+\ge 1sg bill.R -acc =restr cover -fut -1sg get.fed.up -interj ***  what -acc find -ant.cvb say  -nonfut -1sg
 
 \ft "I will just cover the bill, don't bother me (I've had enough), (do what you can with) what you find", I said.
 \nt bọkụma -- the same form as in Krivoshapkina_Sofija_life_073, was glossed like this see also BP's comment to this
@@ -1817,7 +1817,7 @@ others
 \ft
 \tx     aa   ..  hupkuttil!
 \mb aa *.. hupkut -RI  -L 
-\ps excl ?   v              
+\ps interj ?   v              
 \ge ah *** learn  -pst -pl
 \ft pupils
 \nt

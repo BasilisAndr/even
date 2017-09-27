@@ -117,7 +117,7 @@ father of Ekaterina Afanas'evna Krivoshapkina
 \id stado#9_kochevka_011
 \tx aha, ebedit
 \mb aha ewen -DI   -Č  
-\ps excl n              
+\ps interj n              
 \ge aha Even -adjr -ins
 \ft yes, in Even
 \ru
@@ -138,7 +138,7 @@ father of Ekaterina Afanas'evna Krivoshapkina
 \id stado#9_kochevka_013
 \tx aha, ebedit
 \mb aha ewen -DI   -Č  
-\ps excl n              
+\ps interj n              
 \ge aha Even -adjr -ins
 \ft yes, in Even
 \ru
@@ -346,7 +346,7 @@ hujeŋnen; on obyčno otdeljaet = hujemgeren
 \id stado#9_kochevka_029
 \tx Mhm.
 \mb mhm
-\ps excl
+\ps interj
 \ge mhm
 
 \ru

@@ -217,8 +217,8 @@ Krivoshapkina.
 \id RDA_TPK_death_019
 \tx Digen  go    eči       gọlụ,     gọlụ      hịakịtaw     ịarịdʒụr      ogidewen                    dʒe
 \mb digen ge    erroːčin  gọl      -W   gọl      -W   hịakịta -W   ịa      -RIdʒI   -L  ogi -gIdE -W   -E  -n(I)     dʒe   
-\ps num   excl  pron      n             n             n            v                    rel.n                        ptl   
-\ge four  exclm prox.qual firewood -acc firewood -acc tree    -acc do.what -ant.cvb -pl top -part -acc -ep -poss.3sg well.Y
+\ps num   interj  pron      n             n             n            v                    rel.n                        ptl   
+\ge four  interjm prox.qual firewood -acc firewood -acc tree    -acc do.what -ant.cvb -pl top -part -acc -ep -poss.3sg well.Y
 
 \tx ịanịkan,     eč... ọːngọl   nọkkaračal              er   ịaw      ečiken.
 \mb ịa      -nIkEn   ọːn =(W)Ul nọk     -Gr(E) -čE     -L  erek ịak  -W   erroːčin  -KEn    
@@ -439,7 +439,7 @@ Krivoshapkina.
 \id RDA_TPK_death_039
 \tx Aha, tarakam.
 \mb aha tarakam      
-\ps excl adv          
+\ps interj adv          
 \ge aha in.those.days
 
 \ru
@@ -722,7 +722,7 @@ mentioning.
 \id RDA_TPK_death_061
 \tx ọ muttu
 \mb ọ  mut    -DU 
-\ps excl pron       
+\ps interj pron       
 \ge oh 1pl.in -dat
 
 \ru
@@ -987,7 +987,7 @@ mentioning.
 \id RDA_TPK_death_083
 \tx mm, huj... huj... ịadʒịn
 \mb mm  huj  huj  ịa      -DʒI -n(I)
-\ps excl v    v    v                 
+\ps interj v    v    v                 
 \ge mhm boil boil do.what -fut -3sg 
 
 \ru
@@ -1067,7 +1067,7 @@ mentioning.
 \id RDA_TPK_death_090
 \tx Araŋastụn                nọkčịnnị    ečin,     mm.
 \mb araŋas       -DU  -n(I)     nọk     -DʒI -nrI erroːčin  mm 
-\ps n                           v                 pron      excl
+\ps n                           v                 pron      interj
 \ge store.room.Y -dat -poss.3sg hang.up -fut -2sg prox.qual mhm
 \ft You hang it in his storage platform.
 \ru Повесишь
@@ -1438,8 +1438,8 @@ mentioning.
 \id RDA_TPK_death_120
 \tx Oːtel     emie   tačịmụr   nekkerečeːdʒir             gerbettem,          go?
 \mb oːtel      emie   tarọːčịn  nek -Gr(E) -čE     -DʒI -r   gerbet -R(E)   -m   ge   
-\ps adv        adv    pron      v                            v                   excl 
-\ge previously also.Y dist.qual do  -hab   -pf.ptc -fut -3pl think  -nonfut -1sg exclm
+\ps adv        adv    pron      v                            v                   interj 
+\ge previously also.Y dist.qual do  -hab   -pf.ptc -fut -3pl think  -nonfut -1sg interjm
 
 \ft
 \ft In the past they probably did like that too, I think, right?
@@ -1933,7 +1933,7 @@ past tense meaning
 \tx maŋakie            bidʒindiː
 \mb maŋ     -(h)E =kE   bi -DʒI -n(I) =diː   
 \ps v                   v                    
-\ge be.hard -excl =emph be -fut -3sg  =emph.Y
+\ge be.hard -interj =emph be -fut -3sg  =emph.Y
 
 \ft it will be difficult, right
 \ru трудно же будет
@@ -2206,7 +2206,7 @@ past tense meaning
 \id RDA_TPK_death_180
 \tx mm
 \mb mm 
-\ps excl
+\ps interj
 \ge mhm
 
 \ru
@@ -3937,7 +3937,7 @@ nọkčal = povesili
 \tx "Eŋehne               ịmaːra,       haːtara"     goːnče      ühü.
 \mb e   -ŋE      -sEn      ịmaː -R       haːtar  -(h)E goːn -čE     ühü  
 \ps v                      v             ?             v            ptl  
-\ge neg -pol.imp -poss.2pl bury -neg.cvb be.dark -excl say  -pf.ptc hsy.Y
+\ge neg -pol.imp -poss.2pl bury -neg.cvb be.dark -interj say  -pf.ptc hsy.Y
 
 \ft "Don't bury (me), it's dark!" he said, they say.
 \ph
@@ -4306,7 +4306,7 @@ storonu s etoj storony deti chto-to delali
 \id RDA_TPK_death_347
 \tx mm, họːja ittit.
 \mb mm  họːja it  -RI  -t(I)       
-\ps excl quant v                    
+\ps interj quant v                    
 \ge mhm many  see -pst -poss.1pl.in
 \ft Yes, saw a lot (of that).
 \ph họːjittit
@@ -4318,7 +4318,7 @@ storonu s etoj storony deti chto-to delali
 \id RDA_TPK_death_348
 \tx Ọ, ịbgakie,     dʒiŋ tju tju tju tuk tikkeren          ečin.
 \mb ọ  ịbgọ =kE   dʒiŋ   tju tju tju tuk tik  -Gr(E) -n(I) erroːčin 
-\ps excl ?          adv    onomat onomat onomat onomat v                 pron     
+\ps interj ?          adv    onomat onomat onomat onomat v                 pron     
 \ge oh good =emph very.Y tju tju tju tuk fall -hab   -3sg  prox.qual
 \ft It's very good, tju-tju-tju, tuk! it falls like this.
 \ph I hear a long köː after the tju's, but Ija didn't seem to hear.
@@ -4503,7 +4503,7 @@ storonu s etoj storony deti chto-to delali
 \tx Kụŋa baldarakan                      oruhe,         ịbga,  goːli?
 \mb kụŋa  balda   -REk      -E  -n(I)     oren     -(h)E ịbgọ goːn -LI     
 \ps n     v                               v              ?    v            
-\ge child be.born -cond.cvb -ep -poss.3sg be.happy -excl good say  -imp.2sg
+\ge child be.born -cond.cvb -ep -poss.3sg be.happy -interj good say  -imp.2sg
 
 \ft When a child is born it is joyful (a joyful occasion), good.
 \ru Когда ребенок рождается это радостно, хорошо.

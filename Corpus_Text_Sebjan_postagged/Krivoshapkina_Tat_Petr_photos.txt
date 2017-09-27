@@ -28,7 +28,7 @@ lives with her younger sister (Emilia Petrovna Krivoshapkina) and that sister’
 \id Tatjana_Petrovna_photos_002
 \tx Erek akmụ                  ere  stadala        gurgewčidden                   ere  [mm].
 \mb erek akan          -W        erek stado  -(dU)LE gurgeːwči -D    -R(E)   -n(I) erek mm 
-\ps pron n                       pron n              v                             pron excl
+\ps pron n                       pron n              v                             pron interj
 \ge prox older.brother -poss.1sg prox herd.R -loc    work      -prog -nonfut -3sg  prox mhm
 \ft This older brother is working in a reindeer brigade.
 \ru Этот старший брат работает в стаде.
@@ -105,7 +105,7 @@ lives with her younger sister (Emilia Petrovna Krivoshapkina) and that sister’
 \id Tatjana_Petrovna_photos_007
 \tx Dʒụganị, ee bọlọ,    bọlọnịdụ  ebit       ere, bọlọnịdụ  [bọlọnịdụ, aa].
 \mb dʒụganị ee bọlọnị      bọlọnị      -DU  ebit       erek bọlọnị      -DU  bọlọnị      -DU  aa
-\ps n       interj n           n                ptl        pron n                n                excl
+\ps n       interj n           n                ptl        pron n                n                interj
 \ge summer  eh late.autumn late.autumn -dat it.seems.Y prox late.autumn -dat late.autumn -dat ah
 \ft In summer, eh, autumn, it's autumn, it seems.
 \ru Лето, осень, это осенью оказывается.
@@ -154,7 +154,7 @@ kuda idut sejčas oleni
 \id Tatjana_Petrovna_photos_011
 \tx Tačịkan emgerer          ere  ịaldụla,      stadaldụla,      ečin      [mm]
 \mb tačịkan   em   -Gr(E) -r   erek ịak  -L  -(dU)LE stado  -L  -(dU)LE erroːčin  mm 
-\ps adv       v                pron pron             n                  pron      excl
+\ps adv       v                pron pron             n                  pron      interj
 \ge like.that come -hab   -3pl prox what -pl -loc    herd.R -pl -loc    prox.qual mhm
 \ft Like that they come to the reindeer brigades/herds.
 \ru Так приезжают в стада.
@@ -168,7 +168,7 @@ kuda idut sejčas oleni
 \id Tatjana_Petrovna_photos_012
 \tx Alekseev Anatọlịj Afanasevič tegečidden                             ere  [aha].
 \mb Alekseev Anatolij Afanasevič  teg      -E  -Č   -E  -D    -R(E)   -n(I) erek aha
-\ps ?        ?        ?           v                                         pron excl
+\ps ?        ?        ?           v                                         pron interj
 \ge Alekseev Anatolij Afanasevich sit.down -ep -res -ep -prog -nonfut -3sg  prox aha
 \ft Here sits Anatolij Afanasevich Alekseev.
 \ru Это сидит Алексеев, Анатолий Афанасьевич.
@@ -225,7 +225,7 @@ People.)
 \id Tatjana_Petrovna_photos_016
 \tx mm
 \mb mm 
-\ps excl
+\ps interj
 \ge mhm
 
 \ELANBegin 00:01:17.630
@@ -387,7 +387,7 @@ or two, to drink tea and eat, then they would go on their way, and sometimes the
 \id Tatjana_Petrovna_photos_027
 \tx Erek iesčimeček [EP holot]                      bileːkle,        akmụ                  ere  [BP aha].
 \mb erek iesčimeček  EP slet_olenovodov             bileːk    -(dU)LE akan          -W        erek BP aha
-\ps pron n           ?  ?                           n                 n                       pron ?  excl
+\ps pron n           ?  ?                           n                 n                       pron ?  interj
 \ge prox competition EP meeting.of.reindeer.herders territory -loc    older.brother -poss.1sg prox BP aha
 
 \ft This is a competition in the village (a race, during the reindeer herders' festival in March), this is my older brother.
@@ -417,7 +417,7 @@ or two, to drink tea and eat, then they would go on their way, and sometimes the
 \id Tatjana_Petrovna_photos_029
 \tx Erel     bihni,           erek akmụ                  gurgewčidden                   tala          [aha].
 \mb erek -L  bi -R(E)   -n(I) erek akan          -W        gurgeːwči -D    -R(E)   -n(I) tarak -(dU)LE aha
-\ps pron     v                pron n                       v                             pron          excl
+\ps pron     v                pron n                       v                             pron          interj
 \ge prox -pl be -nonfut -3sg  prox older.brother -poss.1sg work      -prog -nonfut -3sg  dist  -loc    aha
 \ft This one is (still alive), this older brother works there (in the herd).
 \ru Этот есть, этот старший брат работает там.
@@ -431,7 +431,7 @@ or two, to drink tea and eat, then they would go on their way, and sometimes the
 \id Tatjana_Petrovna_photos_030
 \tx Ọ ejmu,            ejmu             baraxsan iːdʒeːnnen,                         nandaw
 \mb ọ  enen   -W        enen   -W        baraxsan iː              -dʒEːn -R(E)   -n(I) nanra -W  
-\ps excl n                n                ptl      v                                    n         
+\ps interj n                n                ptl      v                                    n         
 \ge oh mother -poss.1sg mother -poss.1sg dear.Y   prepare.leather -dur   -nonfut -3sg  hide  -acc
 
 \tx iːdʒeːnnen,                         erek kerdedʒi        ụldak taːn... taːndʒịddan.
@@ -480,7 +480,7 @@ translation session Tat_Petr_family_photos, about 1hr)
 \id Tatjana_Petrovna_photos_033
 \tx Ere  bihni            noːwu,                   ejmu             ere  [aha], ammụ,          ammụ.
 \mb erek bi -R(E)   -n(I) noː             -W        enen   -W        erek aha aman   -W        aman   -W       
-\ps pron v                n                         n                pron excl n                n               
+\ps pron v                n                         n                pron interj n                n               
 \ge prox be -nonfut -3sg  younger.sibling -poss.1sg mother -poss.1sg prox aha father -poss.1sg father -poss.1sg
 \ft That is my little sister, that is my mother, my father.
 \ru Это моя сестра, это мать, отец.
@@ -505,7 +505,7 @@ translation session Tat_Petr_family_photos, about 1hr)
 \id Tatjana_Petrovna_photos_035
 \tx [BP: Erek huː?] Biː noːwu.                   [BP: Aa, aha, Emilia Petrovna.] laughter
 \mb BP erek huː biː noː             -W        BP aa aha Emilia Petrovna laughter
-\ps ?  pron pron pron n                         ?  excl excl ?      ?        ?       
+\ps ?  pron pron pron n                         ?  interj interj ?      ?        ?       
 \ge BP prox 2pl 1sg younger.sibling -poss.1sg BP ah aha Emilia Petrovna laughter
 \ft (BP: Is that you?) My sister.
 \ru
@@ -523,7 +523,7 @@ translation session Tat_Petr_family_photos, about 1hr)
 
 \tx tala          [BP: aa], domŋele         dʒaːlńụmị            omettu   [BP: aa].
 \mb tarak -(dU)LE BP aa doːmŋe -(dU)LE dʒaː     -L  -ńUn -J       omettu   BP aa
-\ps pron          ?  excl n              n                          adv      ?  excl
+\ps pron          ?  interj n              n                          adv      ?  interj
 \ge dist  -loc    BP ah taiga  -loc    relative -pl -com -prfl.sg together BP ah
 
 \ft She always used to be there when she was small, in the taiga, together with her relatives (parents).
@@ -538,7 +538,7 @@ translation session Tat_Petr_family_photos, about 1hr)
 \id Tatjana_Petrovna_photos_037
 \tx Tiekńun    ere  tuge   [BP aa!]
 \mb tiek =ńUn   erek tugeni BP aa
-\ps adv         pron n      ?  excl
+\ps adv         pron n      ?  interj
 \ge now  =restr prox winter BP ah
 
 \ft Only now in winter (is she here in the village).
@@ -594,7 +594,7 @@ translation session Tat_Petr_family_photos, about 1hr)
 
 \tx aa, ọ]
 \mb aa ọ 
-\ps excl excl
+\ps interj interj
 \ge ah oh
 \ft My father and mother are sitting, the poor dears, this is in autumn.
 \ru Отец мать, это сидят, бедные, осенью это.
@@ -635,7 +635,7 @@ translation session Tat_Petr_family_photos, about 1hr)
 \id Tatjana_Petrovna_photos_046
 \tx Erek emie   ere  dʒe   [BP aa].
 \mb erek emie   erek dʒe    BP aa
-\ps pron adv    pron ptl    ?  excl
+\ps pron adv    pron ptl    ?  interj
 \ge prox also.Y prox well.Y BP ah
 \ft This too.
 \ru Это тоже.
@@ -736,7 +736,7 @@ translation session Tat_Petr_family_photos, about 1hr)
 \id Tatjana_Petrovna_photos_053
 \tx [BP: hịarmụ, aha]
 \mb BP hịaramụ aha
-\ps ?  n       excl
+\ps ?  n       interj
 \ge BP yurt    aha
 
 \ft (BP) Ah, a yurt.
@@ -749,7 +749,7 @@ translation session Tat_Petr_family_photos, about 1hr)
 \id Tatjana_Petrovna_photos_054
 \tx Ele          ịak bihni,           kastjọr   [EP kastjọr]  gụlụn [BP Aa, aha, gụlụn]
 \mb erek -(dU)LE ịak  bi -R(E)   -n(I) koster      EP koster      gụlụn BP aa aha gụlụn
-\ps pron         pron v                n           ?  n           n     ?  excl excl n    
+\ps pron         pron v                n           ?  n           n     ?  interj interj n    
 \ge prox -loc    what be -nonfut -3sg  camp.fire.R EP camp.fire.R fire  BP ah aha fire 
 \ft Here is the fire.
 \ru Здесь что находится, костер.
@@ -893,7 +893,7 @@ translation session Tat_Petr_family_photos, about 1hr)
 
 \tx ammụ           tarakam       bihin,        kokejeːttin               di,   [BP mm] haːwdịnnịdʒị
 \mb aman   -W        tarakam       bi -RI  -n(I) koke -jEːt -RI  -n(I)     diː   BP mm  hagdị -n  -RIdʒI  
-\ps n                adv           v             v                         ptl   ?  excl v                 
+\ps n                adv           v             v                         ptl   ?  interj v                 
 \ge father -poss.1sg in.those.days be -pst -3sg  die  -dim  -pst -poss.3sg ptl.Y BP mhm old   -vr -ant.cvb
 
 \tx kokejeːttin.
@@ -1009,7 +1009,7 @@ Locative case).
 \id Tatjana_Petrovna_photos_077
 \tx [BP: Aa mụranịč?]
 \mb BP aa mụran -E  -Č  
-\ps ?  excl n             
+\ps ?  interj n             
 \ge BP ah horse -ep -ins
 \ft (BP), A, by horse?
 \ru
@@ -1046,7 +1046,7 @@ Locative case).
 
 \tx nọŋarbụtan             ganami                 herriten           mụranịč.   [BP: aa]
 \mb nọŋan -L  -W   -tEn      ga   -nE     -mI       hor -RI  -tEn      mụran -E  -Č   BP aa
-\ps pron                     v                      v                  n              ?  excl
+\ps pron                     v                      v                  n              ?  interj
 \ge 3sg   -pl -acc -poss.3pl take -intent -cond.cvb go  -pst -poss.3pl horse -ep -ins BP ah
 
 \ft They are going to fetch these, they went to fetch them by horse.
@@ -1081,7 +1081,7 @@ Locative case).
 \id Tatjana_Petrovna_photos_082
 \tx Ere, veterinaral      emnitle             dʒe   [BP: aa] ịadda               [BP: aa]
 \mb erek veterinar -E  -L  em   -RI  -tEn      dʒe    BP aa ịa      -D    -R(E)   BP aa
-\ps pron n                 v                   ptl    ?  excl v                     ?  excl
+\ps pron n                 v                   ptl    ?  interj v                     ?  interj
 \ge prox vet.R     -ep -pl come -pst -poss.3pl well.Y BP ah do.what -prog -nonfut BP ah
 
 \ft Here, vets came, they are doing something.
@@ -1096,12 +1096,12 @@ Locative case).
 \id Tatjana_Petrovna_photos_083
 \tx Ere, ečin      ịawrar            ere  [EP: ọrọn]         ọrọlbụ               [BP: mm] karaːlbu
 \mb erek erroːčin  ịa      -Gr(E) -r   erek EP ọrọn              ọrọn              -L  -W   BP mm  karaːl   -W  
-\ps pron pron      v                   pron ?  n                 n                          ?  excl n            
+\ps pron pron      v                   pron ?  n                 n                          ?  interj n            
 \ge prox prox.qual do.what -hab   -3pl prox EP domestic.reindeer domestic.reindeer -pl -acc BP mhm corral.R -acc
 
 \tx [BP: aha]
 \mb BP aha
-\ps ?  excl
+\ps ?  interj
 \ge BP aha
 
 \ft Like this they do something, (to) the reindeer, (to) the corral.
@@ -1145,7 +1145,7 @@ demonstrative bu)
 \id Tatjana_Petrovna_photos_086
 \tx [BP: Gịawanap... aa gịawanap, aha!]
 \mb BP gịawanap aa gịawanap aha
-\ps ?  adj      excl adj      excl
+\ps ?  adj      interj adj      interj
 \ge BP past     ah past     aha
 \ft
 \ru
@@ -1193,7 +1193,7 @@ year-old male.
 \id Tatjana_Petrovna_photos_089
 \tx Vot    [BP: aha]
 \mb vot    BP aha
-\ps ptl    ?  excl
+\ps ptl    ?  interj
 \ge here.R BP aha
 
 \ELANBegin 00:06:36.940
@@ -1445,7 +1445,7 @@ the normal way to express it would have been kotlen bihin
 \id Tatjana_Petrovna_photos_113
 \tx [BP: ńam... aha]
 \mb BP ńam aha
-\ps ?  ?   excl
+\ps ?  ?   interj
 \ge BP ?   aha
 
 \ELANBegin 00:08:14.370
@@ -1473,7 +1473,7 @@ the normal way to express it would have been kotlen bihin
 \id Tatjana_Petrovna_photos_116
 \tx [BP: mm  aa]
 \mb BP mm  aa
-\ps ?  excl excl
+\ps ?  interj interj
 \ge BP mhm ah
 
 \ELANBegin 00:08:18.440
@@ -1685,7 +1685,7 @@ the normal way to express it would have been kotlen bihin
 \id Tatjana_Petrovna_photos_139
 \tx Bebeː [EP: bebeː] [BP: bebeː?] mm
 \mb bebeː  EP bebeː  BP bebeː  mm 
-\ps n      ?  n      ?  n      excl
+\ps n      ?  n      ?  n      interj
 \ge cradle EP cradle BP cradle mhm
 
 \ELANBegin 00:09:45.350
@@ -1726,7 +1726,7 @@ the normal way to express it would have been kotlen bihin
 \id Tatjana_Petrovna_photos_143
 \tx Bebeːruk,  bebeː [BP aa, aha, aha]
 \mb bebeː  -RUk bebeː  BP aa aha aha
-\ps n           n      ?  excl excl excl
+\ps n           n      ?  interj interj interj
 \ge cradle -nr  cradle BP ah aha aha
 \ft
 \ru
@@ -1941,7 +1941,7 @@ could also mean 'vot, ix rodnja'
 \id Tatjana_Petrovna_photos_160
 \tx [BP: Aa, aha]
 \mb BP aa aha
-\ps ?  excl excl
+\ps ?  interj interj
 \ge BP ah aha
 
 \ELANBegin 00:11:05.450
@@ -1963,7 +1963,7 @@ could also mean 'vot, ix rodnja'
 \id Tatjana_Petrovna_photos_162
 \tx Ọrọl              ere  ịlačadda                       [BP: mm].
 \mb ọrọn              -L  erek ịl       -E  -Č   -E  -D    -R(E)   BP mm 
-\ps n                     pron v                                   ?  excl
+\ps n                     pron v                                   ?  interj
 \ge domestic.reindeer -pl prox stand.up -ep -res -ep -prog -nonfut BP mhm
 \ft Reindeer are standing, here.
 \ru Стоят олени вот.
@@ -1975,7 +1975,7 @@ could also mean 'vot, ix rodnja'
 \id Tatjana_Petrovna_photos_163
 \tx [BP: mm] Tačịkan tar.
 \mb BP mm  tačịkan   tarak
-\ps ?  excl adv       pron 
+\ps ?  interj adv       pron 
 \ge BP mhm like.that dist 
 \ft Like that.
 \ru Вот так.
@@ -2332,7 +2332,7 @@ she doesn't like it.
 \id Tatjana_Petrovna_photos_200
 \tx [BP: Ọ aa, nahaː ịbga,  nahaː nọːd.]
 \mb BP ọ  aa nahaː  ịbgọ nahaː  nọːd  
-\ps ?  excl excl adv    ?    adv    adj   
+\ps ?  interj interj adv    ?    adv    adj   
 \ge BP oh ah very.Y good very.Y pretty
 \ft
 \ru

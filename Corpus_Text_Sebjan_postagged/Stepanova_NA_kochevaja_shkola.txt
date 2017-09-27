@@ -422,7 +422,7 @@ firewood
 \tx gudʒejekiekkel                  biwrer.
 \mb gudʒen     -(h)E =kE   -kkEn -L  bi -Gr(E) -r  
 \ps v                                v             
-\ge be.beloved -excl =emph -dim  -pl be -hab   -3pl
+\ge be.beloved -interj =emph -dim  -pl be -hab   -3pl
 
 \ft And I pity the children, the children who live in the taiga are often very sweet.
 \ru И детей жалею, в тайге ходящие дети очень миленькие бывают.
@@ -1305,8 +1305,8 @@ here the -W is again a causative suffix
 \id Stepanova_NA_kochevaja_shkola_082
 \tx Mịan tụŋŋan kụŋa uručun,  ge    mịandụk    hulek                      kụŋa.
 \mb mịan tụnŋan kụŋa  ureːčin  ge    mịan -DUk(U) hul              -E  -G    kụŋa 
-\ps num  num    n     ?        excl  num          v                          n    
-\ge ten  five   child it.seems exclm ten  -abl    remain.in.excess -ep -advr child
+\ps num  num    n     ?        interj  num          v                          n    
+\ge ten  five   child it.seems interjm ten  -abl    remain.in.excess -ep -advr child
 
 \ft It seems fifteen children, well, more than ten.
 \ru Кажется 15 детей, ну, больше 10и.

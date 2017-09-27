@@ -1460,8 +1460,8 @@ the oldest reindeer get to be around 14-15 years
 \ref
 \tx Tarịt honte ńamịčalbụ         hịrrị       ọːrịw            ńan   anŋantan,    ge,   họːja ńamịčam
 \mb tarịt honte ńamịčan         -L  -W   hịr  -RI       ọː     -RI  -W        ńaːn anŋan -tEn   ge    họːja ńamịčan         -W  
-\ps adv   adj   n                        v              v                     adv  n            excl  quant n                   
-\ge then  other female.reindeer -pl -acc milk -impf.ptc become -pst -poss.1sg and  year  -distr exclm many  female.reindeer -acc
+\ps adv   adj   n                        v              v                     adv  n            interj  quant n                   
+\ge then  other female.reindeer -pl -acc milk -impf.ptc become -pst -poss.1sg and  year  -distr interjm many  female.reindeer -acc
 
 \tx hịrgararam.
 \mb hịr  -Gr(E) -R(E)   -m  
@@ -1690,7 +1690,7 @@ bụdamkandʒịkan = NO
 \ref
 \tx Tar   hu... hujučedniken                     keńelit     ụlkụrakaskụ,                  ečin      vovremja
 \mb tarak hu huj  -U    -Č   -E  -D    -nIkEn   keńeli -Č   ụlkụ -REk      -E  -s(I)     =GU erroːčin  vovremja 
-\ps pron  excl v                                  adj         v                                pron      adv      
+\ps pron  interj v                                  adj         v                                pron      adv      
 \ge dist  hu boil -caus -res -ep -prog -sim.cvb bad    -ins stir -cond.cvb -ep -poss.2sg =q  prox.qual in.time.R
 
 \tx ehekesku                       ụlkụr         tar   hujeleddi                        okoń ečin      bụdaŋnan,
@@ -3649,7 +3649,7 @@ I look for my does:
 \ref
 \tx Emelde,          emelde,          ma,   ma,   emelde,          goːmi          diriŋejekken       kụńawrar,                tara.
 \mb em   -E  -(LI)lrE em   -E  -(LI)lrE ma    ma    em   -E  -(LI)lrE goːn -mI       diriŋeje   -KEn     kụńa            -Gr(E) -r   tarak
-\ps v                 v                 excl  excl  v                 v              adv                 v                           pron 
+\ps v                 v                 interj  interj  v                 v              adv                 v                           pron 
 \ge come -ep -imp.2pl come -ep -imp.2pl here! here! come -ep -imp.2pl say  -cond.cvb in.a.bunch -dim.int run(of.animals) -hab   -3pl dist 
 
 \ft If you say "Come, come, here, here, come!", all of them run, yes.
@@ -7723,7 +7723,7 @@ anyway.
 \tx ehni           torewrer,         haːn bejel      herkeŋner             toreriwur,               haldʒụha
 \mb e   -R(E) -n(I) tore  -Gr(E) -r   haːn bej -E  -L  herken     -Gr(E) -r   tore  -RI       -WUr     haldʒụ         -(h)E
 \ps v               v                 ?    n           v                      v                        v                   
-\ge neg -nfut -3sg  speak -hab   -3pl some man -ep -pl be.ashamed -hab   -3pl speak -impf.ptc -prfl.pl be.embarrassed -excl
+\ge neg -nfut -3sg  speak -hab   -3pl some man -ep -pl be.ashamed -hab   -3pl speak -impf.ptc -prfl.pl be.embarrassed -interj
 
 \tx goːniken.
 \mb goːn -nIkEn  

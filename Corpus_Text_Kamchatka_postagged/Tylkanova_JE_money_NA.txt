@@ -152,8 +152,8 @@ either be dengaL bisiTEN kallataL or denga bisin kallat
 \id Tylkanova_JE_money_008
 \tx Nan    nọŋan goːnni       : ge
 \mb ńaːn nọŋan goːn -n(I)     ge   
-\ps adv  pron  v              excl 
-\ge and  3sg   say  -poss.3sg exclm
+\ps adv  pron  v              interj 
+\ge and  3sg   say  -poss.3sg interjm
 
 \tx bọrịtmatkar.
 \mb bọrị  -Č   -mEČ -GEr       
@@ -172,8 +172,8 @@ either be dengaL bisiTEN kallataL or denga bisin kallat
 \id Tylkanova_JE_money_009
 \tx Nan    goːnem          : ge    bọrịtmatkar,
 \mb ńaːn goːn -R(E)   -m   ge    bọrị  -Č   -mEČ -GEr       
-\ps adv  v                 excl  v                          
-\ge and  say  -nonfut -1sg exclm share -res -rec -imp.1pl.in
+\ps adv  v                 interj  v                          
+\ge and  say  -nonfut -1sg interjm share -res -rec -imp.1pl.in
 
 \tx orrep               tartakị.
 \mb hor -R(E)   -p      tarak -t(E)kI

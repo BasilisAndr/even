@@ -599,8 +599,8 @@ otrezat' (translation session Klim_Nikolaevich_first_half, 24:20)
 \ref 4:04
 \tx Teːmi    tar   ge    atịkaŋgaj
 \mb teːmi     tarak ge    atịkan    -ŋ   -GE    -J      
-\ps conj      pron  excl  n                             
-\ge therefore dist  exclm old.woman -aln -desig -prfl.sg
+\ps conj      pron  interj  n                             
+\ge therefore dist  interjm old.woman -aln -desig -prfl.sg
 
 \tx gadakụn                goːniken.
 \mb ga   -DE       -W        goːn -nIkEn  

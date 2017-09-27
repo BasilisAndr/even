@@ -698,7 +698,7 @@ this could be understood as the conclusion: "If you look in China, they will be 
 \id RDA_TPK_names_origins_058
 \tx Dịlčan,  aha.
 \mb dịl  -čEn aha
-\ps n         excl
+\ps n         interj
 \ge head -dim aha
 
 \ru

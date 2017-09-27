@@ -2220,7 +2220,7 @@ quest_narrat2007_230609, 32:00)
 \id Adukanova_Darja_Borisovna_211
 \tx ọːk aha ọːkka
 \mb ọːk  aha ọːk  =kE  
-\ps pron excl pron      
+\ps pron interj pron      
 \ge when aha when =emph
 
 \ELANBegin 00:16:54.900

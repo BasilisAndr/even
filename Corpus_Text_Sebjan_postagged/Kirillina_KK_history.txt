@@ -627,7 +627,7 @@ synonymous forms for "strong"
 \id Kirillina_KK_history_041
 \tx hu, ommeken?
 \mb hu omekken
-\ps excl ?      
+\ps interj ?      
 \ge hu alone  
 \ft alone?
 \ru
@@ -758,8 +758,8 @@ go over it
 \id Kirillina_KK_history_052
 \tx Go    ọddọn         paka    čto,  paka    čto.
 \mb ge    ọd   -R(E)   -n(I) poka    čto    poka    čto   
-\ps excl  v                  ptl     pron   ptl     pron  
-\ge exclm stop -nonfut -3sg  until.R what.R until.R what.R
+\ps interj  v                  ptl     pron   ptl     pron  
+\ge interjm stop -nonfut -3sg  until.R what.R until.R what.R
 \ft Well, that's it for now.
 \ph says paka štön at the end, which IVK interpreted as "goːnteken"
 \ru ну все пока

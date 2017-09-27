@@ -985,8 +985,8 @@ Timofej had seen it all correctly, when the man wrote home to his wife to verify
 \nt
 \tx Ńan   goːnni,    tarak bejkeje     goːnni,    "Ge,  ọńadakụ               dʒụːtkịjị".
 \mb ńaːn goːn -n(I) tarak bej -kEːjE goːn -n(I) ge    ọńa   -DE       -W        dʒụː  -t(E)kI -J      
-\ps adv  v          pron  n          v          excl  v                         n                     
-\ge and  say  -3sg  dist  man -aug   say  -3sg  exclm write -purp.cvb -poss.1sg house -all    -prfl.sg
+\ps adv  v          pron  n          v          interj  v                         n                     
+\ge and  say  -3sg  dist  man -aug   say  -3sg  interjm write -purp.cvb -poss.1sg house -all    -prfl.sg
 \ft And he said, that big man said, "Well, let me write home".
 \ph
 \gr 05.02.13 (questions10, 29:30) erek bejkeje, tarak bejemker = tot muzhchina, erek bejemker = tozhe mozhno skazatj, etot muzhchina

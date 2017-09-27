@@ -386,7 +386,7 @@ biddep = sobiraemsja otexat' (v dannyj moment)
 \id Nikitin_Sergej_comment_video_027
 \tx aha
 \mb aha
-\ps excl
+\ps interj
 \ge aha
 
 \ELANBegin 00:02:39.170
@@ -884,7 +884,7 @@ the spare.
 \id Nikitin_Sergej_comment_video_064
 \tx Söp aha.
 \mb söp aha
-\ps ?   excl
+\ps ?   interj
 \ge OK  aha
 
 \ELANBegin 00:06:37.740
@@ -894,7 +894,7 @@ the spare.
 \id Nikitin_Sergej_comment_video_065
 \tx [BP: Aa, vot.]
 \mb BP aa vot   
-\ps ?  excl ptl   
+\ps ?  interj ptl   
 \ge BP ah here.R
 
 \ELANBegin 00:06:46.710
@@ -931,7 +931,7 @@ the spare.
 \id Nikitin_Sergej_comment_video_068
 \tx Aha.
 \mb aha
-\ps excl
+\ps interj
 \ge aha
 
 \ELANBegin 00:06:58.120

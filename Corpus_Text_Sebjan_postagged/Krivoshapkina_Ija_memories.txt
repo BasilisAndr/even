@@ -52,8 +52,8 @@ university diploma in Even philology and wants to do her aspirantura on stative 
 \id Krivoshapkina_Ija_memories_004
 \tx Kụŋarapị            dʒugulin                ukčendeku                 go,   tarak interehinej
 \mb kụŋa  -(E)rEp -J       dʒugu -(dU)LI -n(I)     ukčen -DE       -W        ge    tarak interesno    
-\ps n                      rel.n                   v                         excl  pron  adv          
-\ge child -adjr   -prfl.sg about -prol   -poss.3sg tell  -purp.cvb -poss.1sg exclm dist  interesting.R
+\ps n                      rel.n                   v                         interj  pron  adv          
+\ge child -adjr   -prfl.sg about -prol   -poss.3sg tell  -purp.cvb -poss.1sg interjm dist  interesting.R
 
 \tx bičeːdʒin,          goːli.
 \mb bi -čE     -DʒI -n(I) goːn -LI     
@@ -848,8 +848,8 @@ at once and that is left somewhere along the way
 
 \tx go,   ịaw      ịanamị,               tar   abagańdʒaw             ịanamị,
 \mb ge    ịak  -W   ịa      -nE     -mI       tarak abaga       -ńdʒE -W   ịa      -nE     -mI      
-\ps excl  pron      v                         pron  n                      v                        
-\ge exclm what -acc do.what -intent -cond.cvb dist  grandfather -aug  -acc do.what -intent -cond.cvb
+\ps interj  pron      v                         pron  n                      v                        
+\ge interjm what -acc do.what -intent -cond.cvb dist  grandfather -aug  -acc do.what -intent -cond.cvb
 
 \tx nemkenemi.
 \mb nemke -nE -mI      
@@ -1020,8 +1020,8 @@ take) the smell.
 
 \tx ọddịn,          go,   tarak.
 \mb ọd   -RI  -n(I)     ge    tarak
-\ps v                   excl  pron 
-\ge stop -pst -poss.3sg exclm dist 
+\ps v                   interj  pron 
+\ge stop -pst -poss.3sg interjm dist 
 
 \ft And our parents again went back, again went to fetch that load, that's how it stopped.
 \ru А родные опять пошли за этим ирунгка, за грузом.
@@ -1424,8 +1424,8 @@ addition it gives a nuance of dynamism, movement, plus "kto v herke, kto v barki
 \id Krivoshapkina_Ija_memories_082
 \tx Ge,   ijul   ọdaččaːdʒịn              igin, mụdannị       bičeːdʒin.
 \mb ge    ijul   ọd   -E  -Č   -čE     -DʒI -n(I) iŋin  mụdan -n(I)     bi -čE     -DʒI         -n(I)
-\ps excl  n      v                                ptl   n               v                            
-\ge exclm July.R stop -ep -res -pf.ptc -fut -3sg  etc.Y edge  -poss.3sg be -pf.ptc -ins.prfl.sg -3sg 
+\ps interj  n      v                                ptl   n               v                            
+\ge interjm July.R stop -ep -res -pf.ptc -fut -3sg  etc.Y edge  -poss.3sg be -pf.ptc -ins.prfl.sg -3sg 
 \ft July was probably ending, it was probably the end of July.
 \ru Июль наверно заканчивался, была наверно конец.
 \ph
@@ -1569,8 +1569,8 @@ really move.
 
 \tx ịagụl    ečin      krụtọj ge,   biče      dʒiː.
 \mb ịak  =(W)Ul erroːčin  krụtọj  ge    bi -čE     dʒIː
-\ps pron        pron      adj     excl  v          ?   
-\ge what =indef prox.qual steep.R exclm be -pf.ptc aff 
+\ps pron        pron      adj     interj  v          ?   
+\ge what =indef prox.qual steep.R interjm be -pf.ptc aff 
 
 \ft Put on (clothes) until they couldn't move and climbed up that mountain, their mountain however, was such a steep one,
 right.
@@ -2535,8 +2535,8 @@ only gives 'stop, ostanovit'sja'
 \id Krivoshapkina_Ija_memories_143
 \tx Kulejdeːnemi                     herrit,               ge,   ịak čaːmakda    ačča bihin
 \mb kulejdeː        -nE     -mI       hor -RI  -t(I)        ge    ịak  čaːmak   =DE  ačča bi -RI  -n(I)    
-\ps v                                 v                     excl  pron n             ptl  v                
-\ge go.for.a.walk.Y -intent -cond.cvb go  -pst -poss.1pl.in exclm what tarbagan =ptl neg  be -pst -poss.3sg
+\ps v                                 v                     interj  pron n             ptl  v                
+\ge go.for.a.walk.Y -intent -cond.cvb go  -pst -poss.1pl.in interjm what tarbagan =ptl neg  be -pst -poss.3sg
 
 \tx uručun   tarakam.
 \mb ureːčin  tarakam      
@@ -2623,7 +2623,7 @@ playing), we were doing something, walking along that mountain peak.
 \tx Edʒilde,    hagara,        edʒilde     ịar,           dessihilde             goːnni.
 \mb e   -(LI)lrE hagar    -(h)E e   -(LI)lrE ịa      -R       desči -s(E)n -(LI)lrE goːn -n(I)
 \ps v            v              v            v                v                     v         
-\ge neg -imp.2pl be.noisy -excl neg -imp.2pl do.what -neg.cvb lie   -lim   -imp.2pl say  -3sg 
+\ge neg -imp.2pl be.noisy -interj neg -imp.2pl do.what -neg.cvb lie   -lim   -imp.2pl say  -3sg 
 
 \ft "Don't do that, quiet, lie down!" he said.
 \ru Не делайте чего-то там, тихо, ложитесь, сказал.
@@ -3045,8 +3045,8 @@ is:             biː ọmŋọčọ bihem, hiː ọmŋọčọ bihenni,  nọŋa
 \id Krivoshapkina_Ija_memories_172
 \tx Tačịn       go.
 \mb tarọːčịn  ge   
-\ps pron      excl 
-\ge dist.qual exclm
+\ps pron      interj 
+\ge dist.qual interjm
 
 \ELANBegin 00:16:02.200
 \ELANEnd 00:16:07.220
@@ -3177,7 +3177,7 @@ Ija pronounced this uːčaddan, but said that 'to mount ' is uːdej
 \id Krivoshapkina_Ija_memories_180
 \tx Ọ dʒiŋ, ajannaːddakat,                           ajụkaja.
 \mb ọ  dʒiŋ   ajannaː   -D    -REk      -E  -t(I)        ajụkaja   
-\ps excl adv    v                                          interj    
+\ps interj adv    v                                          interj    
 \ge oh very.Y journey.Y -prog -cond.cvb -ep -poss.1pl.in suddenly.Y
 \ft While we were travelling, suddenly...
 \ru Когда мы ехали, вдруг...
@@ -3334,8 +3334,8 @@ so many of them before.
 \id Krivoshapkina_Ija_memories_190
 \tx Go,   indʒeːngelde           gerbe, aŋŋak...              osso   aŋŋakkalda                        gerbe
 \mb ge    indʒen       -GEr        gerbe aːnŋa              -Č   össö    aːnŋa              -Č   -GEr        gerbe
-\ps excl  v                        n     v                       adv     v                                   n    
-\ge exclm stop.to.rest -imp.1pl.in name  stop.for.the.night -res still.Y stop.for.the.night -res -imp.1pl.in name 
+\ps interj  v                        n     v                       adv     v                                   n    
+\ge interjm stop.to.rest -imp.1pl.in name  stop.for.the.night -res still.Y stop.for.the.night -res -imp.1pl.in name 
 
 \tx ọːdnị.
 \mb ọː     -n(I)
@@ -3394,8 +3394,8 @@ so many of them before.
 
 \tx maːra,      go.
 \mb maː  -R(E)   ge   
-\ps v            excl 
-\ge kill -nonfut exclm
+\ps v            interj 
+\ge kill -nonfut interjm
 
 \ft Well, the two of them (i.e. Ija's father and grandfather Petr) went and bagged two or how many, they also bagged many.
 \ru Ну, вдвоем отправившись они двоих или сколько там много добыли.
@@ -3697,7 +3697,7 @@ Eveno-Bytantaj district, to the north of Sebjan-Kuel).
 \id Krivoshapkina_Ija_memories_211
 \tx Tar,  ọ dʒe,  gịajị       tara  Aljaw     ŋaːtča,     tewtew       dʒebgelde        goːnikehel.
 \mb tarak ọ  dʒe    gịa    -J       tarak Alja -W   ŋaːt -čE     tewte   -W   dʒep -GEr        goːn -nIkEn   -SEl
-\ps pron  excl ptl    ?               pron  n         v            n            v                v                 
+\ps pron  interj ptl    ?               pron  n         v            n            v                v                 
 \ge dist  oh well.Y friend -prfl.sg dist  Alja -acc call -pf.ptc berries -acc eat  -imp.1pl.in say  -sim.cvb -pl 
 \ft And he called his friend Alja, so that they would eat these berries.
 \ru И позвал он свою подругу Алю, чтобы съесть вот эти ягоды.
@@ -4008,8 +4008,8 @@ thought it was berry preserve, 'varen'je'.
 \id Krivoshapkina_Ija_memories_231
 \tx Alisaw     go,   mende... herri        gennemi                    ŋịnalbụ       gennemi
 \mb Alisa -W   ge    mende  hor -LI      gel      -nE     -mI       ŋịn -E  -L  -W   gel      -nE     -mI      
-\ps n          excl  v      v            v                          n                v                         
-\ge Alisa -acc exclm search go  -imp.2sg look.for -intent -cond.cvb dog -ep -pl -acc look.for -intent -cond.cvb
+\ps n          interj  v      v            v                          n                v                         
+\ge Alisa -acc interjm search go  -imp.2sg look.for -intent -cond.cvb dog -ep -pl -acc look.for -intent -cond.cvb
 
 \tx gerbe ọːča.
 \mb gerbe ọː     -čE    
@@ -4369,8 +4369,8 @@ very much like nadịs.
 \id Krivoshapkina_Ija_memories_254
 \tx Ọːkkụl   biwetčimtu,                go.
 \mb ọːk  =(W)Ul bi -WEːČ -DʒI -m   =tU   ge   
-\ps pron        v                        excl 
-\ge when =indef be -gnr  -fut -1sg =pres exclm
+\ps pron        v                        interj 
+\ge when =indef be -gnr  -fut -1sg =pres interjm
 \ft Well, I'll probably go sometime.
 \ru Ну, наверно когда-нибудь съезжу.
 \ELANBegin 00:22:51.960
@@ -4404,8 +4404,8 @@ very much like nadịs.
 \id Krivoshapkina_Ija_memories_257
 \tx Go,   bekebben                 ukčennem           uručun   haːmaj ịbgat       dʒọŋčịrịj
 \mb ge    bekeč -W   -E  -n(I)     ukčen -R(E)   -m   ureːčin  samyj  ịbgọ -Č   dʒọn     -(k)čI -RI       -J      
-\ps excl  adv                      v                  ?        adj    n         v                                 
-\ge exclm all   -acc -ep -poss.3sg tell  -nonfut -1sg it.seems most.R good -ins remember -dur   -impf.ptc -prfl.sg
+\ps interj  adv                      v                  ?        adj    n         v                                 
+\ge interjm all   -acc -ep -poss.3sg tell  -nonfut -1sg it.seems most.R good -ins remember -dur   -impf.ptc -prfl.sg
 
 \tx toreŋelbi.
 \mb tor   -E  -ŋ   -E  -L  -J      
@@ -4529,8 +4529,8 @@ stream, but not clear what rotted there; Djus Erikit - camp near a spring (rodni
 \id Krivoshapkina_Ija_memories_265
 \tx Ọddan,           go,   ọddantụ,             ee?
 \mb ọd   -R(E)   -n(I) ge    ọd   -R(E)   -n(I) =tU   ee
-\ps v                  excl  v                        interj
-\ge stop -nonfut -3sg  exclm stop -nonfut -3sg  =pres eh
+\ps v                  interj  v                        interj
+\ge stop -nonfut -3sg  interjm stop -nonfut -3sg  =pres eh
 \ft That's enough, that's probably enough, hey?
 \ru Ну все, наверное все.
 \ph ọddọntụ

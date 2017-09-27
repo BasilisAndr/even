@@ -400,7 +400,7 @@ Adukanov_Sergej_life_023 he says toreŋti 'our language', could have said inŋet
 
 \tx gerbenke,            aa, mučugin_nuteγut, mut    toreŋti                ọrọttịč.
 \mb gerbe -n(I)     =kkE aa mučugin_nuteγut mut    tore  -ŋ   -t(I)        ọrọč  -DI   -Č  
-\ps n                    excl ?               pron   v                       n               
+\ps n                    interj ?               pron   v                       n               
 \ge name  -poss.3sg =ptl ah ??(Chukchi)     1pl.in speak -aln -poss.1pl.in Oroch -adjr -ins
 
 \ft Working there I danced in their club, what was it called, ah, muchugin_nuteγut, "our language" in Even.
@@ -703,7 +703,7 @@ probable
 
 \tx toreriwenten,                               mm
 \mb tore  -RI      -W   -E  -n(I)     -tEn      mm 
-\ps v                                           excl
+\ps v                                           interj
 \ge speak -ipf.ptc -acc -ep -poss.3sg -poss.3pl mhm
 
 \ft I didn't study like that very well... one should have studied their speech/the way they speak
@@ -1068,7 +1068,7 @@ po-nemecki ne govorishj", one can say ịak kọbalannị, but can also say ịa
 \ref
 \tx ŋeːlukiw                 aa, gịakịw     ittiwu             ọr...           čụkačam.
 \mb ŋeːl      -U    -kI   -W   aa gịakị   -W   it  -RI  -W        ọrọn              čụkačaːn -W  
-\ps v                          excl pron         v                  n                 n            
+\ps v                          interj pron         v                  n                 n            
 \ge be.afraid -caus -adjr -acc ah various -acc see -pst -poss.1sg domestic.reindeer bird     -acc
 
 \ft Yes, I saw various (animals) in the herd... birds.
@@ -1645,7 +1645,7 @@ month one uses kaltak --> maybe/probably because it's a more approximate half, g
 \ref
 \tx Aa, tačịntịtta     ...  vezdexodịč    orroːttu.
 \mb aa tarọːčịn  =tIt *... vezdexod -E  -Č   hor -WEːČ -R(E)   -(R)U  
-\ps excl pron           ?    n                 v                        
+\ps interj pron           ?    n                 v                        
 \ge ah dist.qual =ptl ***  ATV.R    -ep -ins go  -gnr  -nonfut -1pl.ex
 
 \ft Ah, we go by all-terrain vehicle, just like that.
@@ -1877,7 +1877,7 @@ but the meanings don't fit, because 'uezzhaju' would be more inchoative than 'ez
 \ref
 \tx Ńan   nọŋan čitvjortyj zvenola,       pjatyj  zvenola        Petja... Aa Ljonja Adukanov, šestoj Petjada.
 \mb ńaːn nọŋan četvёrtyj zveno  -(dU)LE pjatyj  zveno  -(dU)LE Petja aa Lёnja  Adukanov šestoj  Petja =DE 
-\ps adv  pron  adj       n              adj     n              ?     excl ?      ?        adj     ?         
+\ps adv  pron  adj       n              adj     n              ?     interj ?      ?        adj     ?         
 \ge and  3sg   fourth.R  link.R -loc    fifth.R link.R -loc    Petja ah Ljonja Adukanov sixth.R Petja =ptl
 \ft And he's in the fourth brigade, in the fifth brigade is Petja... eh Ljonja Adukanov (is in the fifth brigade), in the sixth is Petja.
 \ph

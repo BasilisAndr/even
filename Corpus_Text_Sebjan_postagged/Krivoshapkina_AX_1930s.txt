@@ -238,11 +238,11 @@ dịlmat = fight, dịlma = doesn't exist; suffix -kE is very rare, only here
 \tx Emie   hịːralgaran,                 "ọbdụha,    ịak naːda bidʒin        tarak?" goːniken.
 \mb emie   hịːr     -E  -L    -Gr(E) -n(I) ọbda      -(h)E ịak  nado   bi -DʒI -n(I) tarak goːn -nIkEn  
 \ps adv    v                               v               pron v      v             pron  v            
-\ge also.Y be.angry -ep -inch -hab   -3sg  get.tired -excl what need.R be -fut -3sg  dist  say  -sim.cvb
+\ge also.Y be.angry -ep -inch -hab   -3sg  get.tired -interj what need.R be -fut -3sg  dist  say  -sim.cvb
 
 \ft Again he got angry: "That's enough, why is that necessary", he said.
 \ph
-\gr the 'exclamative' suffix -(h)E can also have a high vowel, ọbdụha/ọbdụhị, iŋeńe/iŋeńi (trans_file 01_quest_2010 55:45)
+\gr the 'interjamative' suffix -(h)E can also have a high vowel, ọbdụha/ọbdụhị, iŋeńe/iŋeńi (trans_file 01_quest_2010 55:45)
 \ELANBegin 00:01:33.170
 \ELANEnd 00:01:38.310
 \ELANParticipant
@@ -676,7 +676,7 @@ bass
 \tx Emčel           bejčekel       hïarga ịan           hagarakeː.
 \mb em   -čE     -L  bej -čEkEn -L  hïarga ịak  -n(I)     hagar    -(h)E =kE  
 \ps v                n              n      pron           v                   
-\ge come -pf.ptc -pl man -plen  -pl sled.Y what -poss.3sg be.noisy -excl =emph
+\ge come -pf.ptc -pl man -plen  -pl sled.Y what -poss.3sg be.noisy -interj =emph
 
 \ft People arrived, (the sound) of the sleds (was) very loud.
 \ph
@@ -2229,7 +2229,7 @@ myself in a big something, I am intensely grateful to you.
 \id Krivoshapkina_AX_1930s_148b
 \tx Mm, Alekseev
 \mb mm  Alekseev
-\ps excl ?       
+\ps interj ?       
 \ge mhm Alekseev
 
 \ELANBegin 00:18:21.400

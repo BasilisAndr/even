@@ -338,7 +338,7 @@ meaning
 \id Egorova_RM_Uindja_022
 \tx Kọg, ịamị esenni           torer?         Eːw ọkaːt ọịttan?
 \mb Kọg ịamị e   -R(E)   -nrI tore  -R       ew ọkaːt họịt    -R(E)   -n(I)
-\ps excl pron v                v              interj n     v                    
+\ps interj pron v                v              interj n     v                    
 \ge hey why  neg -nonfut -2sg speak -neg.cvb oh river disturb -nonfut -3sg 
 
 \ft Hey, why don't you speak? Does the river disturb you?
@@ -383,8 +383,8 @@ ollotis? -- Or was it you who came? ... but also: Ni ollotin: Ịvangụ, Mač�
 \id Egorova_RM_Uindja_025
 \tx Ge,   kojeːtteku                 ọːn nurgeweːčinni,           bide      nurgendʒim            tiːke.
 \mb ge    kojeːt  -DE       -W        ọːn nurge -WEːČ -R(E)   -nrI biː =DE  nurge -n    -DʒI -m   tiek
-\ps excl  v                           pron v                        pron     v                     adv 
-\ge exclm look.at -purp.cvb -poss.1sg how dance -gnr  -nonfut -2sg 1sg =ptl dance -mult -fut -1sg now 
+\ps interj  v                           pron v                        pron     v                     adv 
+\ge interjm look.at -purp.cvb -poss.1sg how dance -gnr  -nonfut -2sg 1sg =ptl dance -mult -fut -1sg now 
 
 \ft
 \ph ga    kojeːttaku
@@ -460,8 +460,8 @@ ollotis? -- Or was it you who came? ... but also: Ni ollotin: Ịvangụ, Mač�
 \id Egorova_RM_Uindja_030
 \tx Goːnni     :   tiːk, ge,   dịlmatkar,         ńuːli!
 \mb goːn -n(I) tiek ge    dịlmat -GEr        ńoː  -LI     
-\ps v          adv  excl  v                  v            
-\ge say  -3sg  now  exclm fight  -imp.1pl.in exit -imp.2sg
+\ps v          adv  interj  v                  v            
+\ge say  -3sg  now  interjm fight  -imp.1pl.in exit -imp.2sg
 
 \ft He says: hey, let's fight, come here!
 \ph Guːnni

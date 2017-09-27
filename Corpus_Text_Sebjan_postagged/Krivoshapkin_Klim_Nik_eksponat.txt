@@ -126,7 +126,7 @@ meaning
 \id Klim_Nikolaevich_eksponat_009
 \tx Erek dọːdụn           gụlụn, gụlụm      eliːr                duruwrer,              gụlụn, aha,
 \mb erek dọː    -DU  -n(I)     gụlụn gụlụn -W   erek -(dU)LI -WUr     dur  -U    -Gr(E) -r   gụlụn aha
-\ps pron rel.n                 n     n          pron                  v                      n     excl
+\ps pron rel.n                 n     n          pron                  v                      n     interj
 \ge prox inside -dat -poss.3sg fire  fire  -acc prox -prol   -prfl.pl burn -caus -hab   -3pl fire  aha
 
 \tx dururidʒur             eliːr                dʒeblewur         igin  bekebben                 irikkerer.
@@ -184,7 +184,7 @@ and eduːr (eduwur)
 \id Klim_Nikolaevich_eksponat_013
 \tx Ere... erek edu       itmi          buolla  erek heːruk,   heːrukel,        ee [heːruk]  heːruk,   aha.
 \mb erek erek erek -DU  it  -mI       buollar erek heːruk     heːruk     -E  -L  ee heːruk     heːruk     aha
-\ps pron pron pron      v             ptl     pron n          n                  interj n          n          excl
+\ps pron pron pron      v             ptl     pron n          n                  interj n          n          interj
 \ge prox prox prox -dat see -cond.cvb dp.Y    prox saddle.bag saddle.bag -ep -pl eh saddle.bag saddle.bag aha
 
 \ft If one looks here, this is a saddle bag, saddle bags.
@@ -565,7 +565,7 @@ giving maŋsị/maŋhị; in Sebjan the -h metathesizes, giving mahŋị
 \id Klim_Nikolaevich_eksponat_035
 \tx Erek mm  ụːčak       emgunni,                  bej er   ụːčak       emgunni.
 \mb erek mm  ụčak            emgun           -n(I)     bej erek ụčak            emgun           -n(I)    
-\ps pron excl ?               n                         n   pron ?               n                        
+\ps pron interj ?               n                         n   pron ?               n                        
 \ge prox mhm riding.reindeer reindeer.saddle -poss.3sg man prox riding.reindeer reindeer.saddle -poss.3sg
 
 \ft This is the saddle of a riding reindeer, the saddle of a riding reindeer.
@@ -1305,7 +1305,7 @@ obviously mixed the two; the -W- is NOT a separate morpheme here; the 'correct' 
 \id Klim_Nikolaevich_eksponat_081
 \tx aha.
 \mb aha
-\ps excl
+\ps interj
 \ge aha
 
 \ELANBegin 00:09:12.360
@@ -2716,8 +2716,8 @@ asked about this, she said that here the converbal form is not commonly used as 
 \id Klim_Nikolaevich_eksponat_170
 \tx Eleːr                dʒe   er   ge... gedemekben                     eliːr                ele
 \mb erek -(dU)LE -WUr     dʒe    erek ge    gedemek      -W   -E  -n(I)     erek -(dU)LI -WUr     erek -(dU)LE
-\ps pron                  ptl    pron excl  n                               pron                  pron        
-\ge prox -loc    -prfl.pl well.Y prox exclm back.of.head -acc -ep -poss.3sg prox -prol   -prfl.pl prox -loc   
+\ps pron                  ptl    pron interj  n                               pron                  pron        
+\ge prox -loc    -prfl.pl well.Y prox interjm back.of.head -acc -ep -poss.3sg prox -prol   -prfl.pl prox -loc   
 
 \tx hịńahnịdʒụr              dʒe   kọčajdawrar              erek, eliːr,               erek.
 \mb hịn        -E  -s(E)n -RIdʒI   -L  dʒe    kọčaj       -DE -Gr(E) -r   erek erek -(dU)LI -WUr     erek
@@ -3325,7 +3325,7 @@ slips off you can step on it.
 \id Klim_Nikolaevich_eksponat_206
 \tx Ńụčịdịt     goːmi          dikij  olen',     aha.
 \mb ńụča    -DI   -Č   goːn -mI       dikij  olen'      aha
-\ps n                  v              adj    n          excl
+\ps n                  v              adj    n          interj
 \ge Russian -adjr -ins say  -cond.cvb wild.R reindeer.R aha
 \ft In Russian 'dikij olen'.
 \ru По-русски сказать "дикий олень".

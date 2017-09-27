@@ -20,7 +20,7 @@ mne ... ebedit ukcendjin...]
 \id Tatjana_Petrovna_family_002
 \tx Mm, meːn, meːn dʒaːlbụ            dʒuguliten,             goːli.
 \mb mm  meːn meːn dʒaː     -L  -W        dʒugu -(dU)LI -tEn      goːn -LI     
-\ps excl pron pron n                      rel.n                   v            
+\ps interj pron pron n                      rel.n                   v            
 \ge mhm refl refl relative -pl -poss.1sg about -prol   -poss.3pl say  -imp.2sg
 
 \ft ... about my relatives.
@@ -581,7 +581,7 @@ Krivoshapkin Andrej Vasilevich, these are my family, my mother's relatives.
 
 \tx gaŋahattap,                 tačịkan, họːja, mm.
 \mb ga   -ŋEhEt -R(E)   -p      tačịkan   họːja mm 
-\ps v                           adv       quant excl
+\ps v                           adv       quant interj
 \ge take -inab  -nonfut -1pl.in like.that many  mhm
 
 \ft That's how it passes, from root to root, that's why we cannot marry each other (lit. cannot take each other), too many.
@@ -660,7 +660,7 @@ doesn't work for past tense, only present and future tense, 'be able to'
 
 \tx žizn  gurgewčirin,              mm.
 \mb žizn   gurgeːwči -RI  -n(I)     mm 
-\ps n      v                        excl
+\ps n      v                        interj
 \ge life.R work      -pst -poss.3sg mhm
 \ft Until he died my father worked all the time, as a brigade leader, he worked all his life.
 \ru До смерти (пока он не умер) мой отец всегда работал, бригадиром, всю жизнь работал.
@@ -699,7 +699,7 @@ doesn't work for past tense, only present and future tense, 'be able to'
 
 \tx mm.
 \mb mm 
-\ps excl
+\ps interj
 \ge mhm
 \ft There's also time there, they (live) for a week, they (live) for two weeks, they migrate like that.
 \ru Там тоже есть время, неделю бывают, две недели бывают, вот так они кочуют.
@@ -975,7 +975,7 @@ reindeer horns
 \id Tatjana_Petrovna_family_068
 \tx Emileː!    Ọ dʒe,  ńoːwli!
 \mb Emilia -Eː  ọ  dʒe    ńoː  -U    -LI     
-\ps ?           excl ptl    v                  
+\ps ?           interj ptl    v                  
 \ge Emilia -voc oh well.Y exit -caus -imp.2sg
 
 \ft Emilia, take it out!
@@ -2454,7 +2454,7 @@ tents.
 \id Tatjana_Petrovna_family_190
 \tx [Ọ, ọrọn          dʒugulin,               ptic        dʒugulin,               eben.. ebehel
 \mb ọ  ọrọn              dʒugu -(dU)LI -n(I)     ptic        dʒugu -(dU)LI -n(I)     ewen ewen -SEl
-\ps excl n                 rel.n                   n           rel.n                   n    n        
+\ps interj n                 rel.n                   n           rel.n                   n    n        
 \ge oh domestic.reindeer about -prol   -poss.3sg birds.acc.R about -prol   -poss.3sg Even Even -pl 
 
 \tx dʒugulin,               dʒuguliten.]
@@ -2719,7 +2719,7 @@ in Sebjan they would say 'honteki'
 \id Tatjana_Petrovna_family_208
 \tx Ọ, dʒaːltan             họː mịanịdʒụr          goːnčel         dʒe:
 \mb ọ  dʒaː     -L  -tEn      họː  mịan         -RIdʒI   -L  goːn -čE     -L  dʒe   
-\ps excl n                      adv  v                         v                ptl   
+\ps interj n                      adv  v                         v                ptl   
 \ge oh relative -pl -poss.3pl very be.surprised -ant.cvb -pl say  -pf.ptc -pl well.Y
 \ft Her relatives were surprised and said.
 \ru Родные удивившись сказали.

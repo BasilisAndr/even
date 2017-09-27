@@ -598,8 +598,8 @@ nous).
 \ref 5:18
 \tx Tara... tačịkan go?
 \mb tarak tačịkan   ge   
-\ps pron  adv       excl 
-\ge dist  like.that exclm
+\ps pron  adv       interj 
+\ge dist  like.that interjm
 
 \ft Well, like that.
 \ru Вот, ну так.

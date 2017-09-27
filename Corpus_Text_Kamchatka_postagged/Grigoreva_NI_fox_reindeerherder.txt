@@ -739,8 +739,8 @@ meaning
 \ref
 \tx "Tar kojeːrem,          kojeːnni,  kusčidden                       ge    ere.
 \mb tar  kojeː -R(E)   -m   kojeː -nrI kusči         -D    -R(E)   -n(I) ge    erek
-\ps adv  v                  v          v                                 excl  pron
-\ge thus watch -nonfut -1sg watch -2sg herd.reindeer -prog -nonfut -3sg  exclm prox
+\ps adv  v                  v          v                                 interj  pron
+\ge thus watch -nonfut -1sg watch -2sg herd.reindeer -prog -nonfut -3sg  interjm prox
 \ft I look there, do you see, he's herding.
 \ev
 \ru Вон смотрю, видишь, пасет.
@@ -1334,7 +1334,7 @@ which bothered her a lot), and of course I'm all confused cos normally it's the 
 \ref
 \tx "Mhm?"
 \mb mhm
-\ps excl
+\ps interj
 \ge mhm
 \ft "Oh"
 \ev
@@ -1391,7 +1391,7 @@ which bothered her a lot), and of course I'm all confused cos normally it's the 
 \ref
 \tx "Aa, čaš er  dʒebli!"
 \mb aa čas er  dʒeb -LI     
-\ps excl ptl ?   v            
+\ps interj ptl ?   v            
 \ge ah ptl ptl eat  -imp.2sg
 \ft "Ah, OK, here you go, eat!".
 \ev
@@ -1513,7 +1513,7 @@ bezhit" and the intonation of NIG one can safely say that here we have a case of
 \ref
 \tx "Ha??"
 \mb ha
-\ps excl
+\ps interj
 \ge ha
 \ft "Huhh???"
 \ev

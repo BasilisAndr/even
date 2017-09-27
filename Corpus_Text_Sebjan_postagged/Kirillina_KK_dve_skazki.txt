@@ -906,7 +906,7 @@ cough
 \id Kirillina_KK_dve_skazki_060
 \tx Oo, tet,    ịak gerben?
 \mb oo tet     ịak  gerbe -n(I)    
-\ps interj excl    pron n              
+\ps interj interj    pron n              
 \ge oh enough! what name  -poss.3sg
 
 \ft "Oh, stop, what's this?"

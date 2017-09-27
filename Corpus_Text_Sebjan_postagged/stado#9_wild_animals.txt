@@ -361,7 +361,7 @@ tutelle/derihne; etiwu tutelle = tak ne govoritsja - first reaction, then she ca
 \id stado#9_wild_animals_027
 \tx mhm
 \mb mhm
-\ps excl
+\ps interj
 \ge mhm
 
 \ru

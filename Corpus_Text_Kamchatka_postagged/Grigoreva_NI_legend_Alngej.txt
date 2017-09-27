@@ -1097,8 +1097,8 @@ is something that is said in general; the repetition here is simply due to the f
 \ref
 \tx Nan    guːnni     "Twajan, ge    orger           mingeli         uŋnedewur                     bejčidneγer".
 \mb ńaːn goːn -n(I) Twajaːn ge    hor -GEr        min     -g(E)lI uŋ -nE     -DE       -WUr     bejči -D    -nE     -GEr       
-\ps adv  v          ?       excl  v               pron            v                             v                              
-\ge and  say  -3sg  Twajaːn exclm go  -imp.1pl.in 1sg.obl -com    do -intent -purp.cvb -prfl.pl hunt  -prog -intent -imp.1pl.in
+\ps adv  v          ?       interj  v               pron            v                             v                              
+\ge and  say  -3sg  Twajaːn interjm go  -imp.1pl.in 1sg.obl -com    do -intent -purp.cvb -prfl.pl hunt  -prog -intent -imp.1pl.in
 \ft And he says "Twajan, hey, let's go with me to go and do something, let's go hunt".
 \ev
 \ru И вот говорит "Тваян, давай пойдем со мной, делать будем, ловить".
@@ -1110,8 +1110,8 @@ is something that is said in general; the repetition here is simply due to the f
 \ref
 \tx Twajaneši         guːnni     "Ge,  orger!".
 \mb Twajaːn -E  =sI   goːn -n(I) ge    hor -GEr       
-\ps ?                 v          excl  v              
-\ge Twajaːn -ep =emph say  -3sg  exclm go  -imp.1pl.in
+\ps ?                 v          interj  v              
+\ge Twajaːn -ep =emph say  -3sg  interjm go  -imp.1pl.in
 \ft And Twajan said "OK, let's go".
 \ev
 \ru А Тваян же говорит, давай пойдем.

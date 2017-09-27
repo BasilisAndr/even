@@ -191,7 +191,7 @@ quest_comment_narrative280309, 16min15)
 \id stado#10_Nikitina_AE_traditions_012
 \tx Tara. [BP: mm].
 \mb tarak BP mm 
-\ps pron  ?  excl
+\ps pron  ?  interj
 \ge dist  BP mhm
 
 \ELANBegin 00:00:54.530
@@ -210,7 +210,7 @@ quest_comment_narrative280309, 16min15)
 \id stado#10_Nikitina_AE_traditions_014
 \tx Mm, hontekičen        biwren          tara, ńarịŋịda          ahịŋịda.
 \mb mm  honte -kI   -tEn   bi -Gr(E) -n(I) tarak ńarị -ŋI        =DE  asị   -ŋI        =DE 
-\ps excl adj                v               pron  ?                    n                    
+\ps interj adj                v               pron  ?                    n                    
 \ge mhm other -adjr -distr be -hab   -3sg  dist  man  -pred.poss =ptl woman -pred.poss =ptl
 
 \ft (Things) are different, are a man's and a woman's (i.e. you have separate men's and women's items).

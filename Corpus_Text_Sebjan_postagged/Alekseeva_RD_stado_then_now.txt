@@ -222,7 +222,7 @@ worker" (chumrabotnitsa). She is the sister of Innokentij Dmitrievich Burtsev.
 \id Alekseeva_RD_stado_then_now_018
 \tx aha, stadalị...
 \mb aha stado  -(dU)LI
-\ps excl n             
+\ps interj n             
 \ge aha herd.R -prol  
 \ft Ah, around the reindeer herds
 \ru

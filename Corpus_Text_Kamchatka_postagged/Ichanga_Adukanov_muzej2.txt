@@ -580,7 +580,7 @@ the epenthetic vowel (though one could check, of course)
 \ref
 \tx Aa ọrọnette,               da?
 \mb aa ọrọn              -Č   =DE  da   
-\ps excl n                           ptl  
+\ps interj n                           ptl  
 \ge ah domestic.reindeer -ins =ptl yes.R
 
 \ft ah, by reindeer, yes?
@@ -663,7 +663,7 @@ the epenthetic vowel (though one could check, of course)
 \tx kịbara
 \mb kịbar           -(h)E
 \ps v                    
-\ge break.intr.smlf -excl
+\ge break.intr.smlf -interj
 \ft broken
 \ev  
 \ru сломанное
@@ -1075,7 +1075,7 @@ kavaler"
 \ref
 \tx Erew      tože  kučukem      aa erek nan    ịamị
 \mb erek -W   tože   kočuken -W   aa erek ńaːn ịamị
-\ps pron      ptl    adj          excl pron adv  pron
+\ps pron      ptl    adj          interj pron adv  pron
 \ge prox -acc also.R small   -acc ah prox and  why 
 \ft this is also small, why ...
 \ev

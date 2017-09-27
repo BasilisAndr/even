@@ -459,8 +459,8 @@ audible
 \id Berezina_IN_nimkan_029
 \tx Nan    tara. Ge,   ge    edʒille     ge    ŋiː... ŋiːtkide
 \mb ńaːn tarak ge    ge    e   -(LI)lrE ge    ŋiː ŋiː -t(E)kI =DE 
-\ps adv  pron  excl  excl  v            excl  pron pron            
-\ge and  dist  exclm exclm neg -imp.2pl exclm who who -all    =ptl
+\ps adv  pron  interj  interj  v            interj  pron pron            
+\ge and  dist  interjm interjm neg -imp.2pl interjm who who -all    =ptl
 
 \ft
 \ph

@@ -146,8 +146,8 @@ razgovora, beseda
 \id RDA_TPK_delburge_014
 \tx Go,   delburge
 \mb ge    delburge
-\ps excl  n       
-\ge exclm delburge
+\ps interj  n       
+\ge interjm delburge
 
 \ru
 \ELANBegin 00:00:35.670
@@ -179,7 +179,7 @@ razgovora, beseda
 \id RDA_TPK_delburge_017
 \tx Mm  bakaldadʒak
 \mb mm  bak  -(E)ldE -ČEk
-\ps excl v                
+\ps interj v                
 \ge mhm find -soc    -nr 
 
 \ru
@@ -474,7 +474,7 @@ razgovora, beseda
 \id RDA_TPK_delburge_043
 \tx mm, dụrbańa,    irew       taraw
 \mb mm  dụrban   -ńE   irek  -W   tarak -W  
-\ps excl v              pron       pron      
+\ps interj v              pron       pron      
 \ge mhm be.white -adjr which -acc dist  -acc
 
 \ft white, various ones

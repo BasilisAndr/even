@@ -242,7 +242,7 @@ time period of 24hours
 \tx iːhnin                       hagarakie            biwreče          ńamnịddakan.
 \mb iːhen      -RI      -n(I)     hagar    -(h)E =kE   bi -Gr(E) -čE     ńamnị  -D    -REk      -E  -n(I)    
 \ps v                             v                    v                 v                                   
-\ge be.audible -ipf.ptc -poss.3sg be.noisy -excl =emph be -hab   -pf.ptc gallop -prog -cond.cvb -ep -poss.3sg
+\ge be.audible -ipf.ptc -poss.3sg be.noisy -interj =emph be -hab   -pf.ptc gallop -prog -cond.cvb -ep -poss.3sg
 
 \ft His big riding reindeer, wheezing, clenching his teeth, the sound of his hooves was very loud when he rode.
 \ph
@@ -337,7 +337,7 @@ time period of 24hours
 
 \tx geleː, dọːgalda,       goːnče,     ikeː iːhinče
 \mb geleː dọː  -GEr        goːn -čE     ikeː iːhen -čE    
-\ps excl  v                v            n    v            
+\ps interj  v                v            n    v            
 \ge go.on land -imp.1pl.in say  -pf.ptc song sound -pf.ptc
 
 \ft "Giwlincho, giwlincho, what a good little hill, what a good little yurt, sisters, let's land", said (someone), the song was heard.
@@ -572,8 +572,8 @@ it is) or from the context
 
 \tx go
 \mb ge   
-\ps excl 
-\ge exclm
+\ps interj 
+\ge interjm
 
 \ft How ever much my heart is beating (even if my heart is beating so much), let us land, rest a bit.
 \ph

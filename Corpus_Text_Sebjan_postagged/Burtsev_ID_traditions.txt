@@ -399,7 +399,7 @@ it, she said 'zastavim nazyvat', but then when I checked my analysis of gerbeču
 \tx ọːrakan,                    nọŋardụtnọ           tegejetne         họː hịːlụse      bidʒin,       hịːlụse
 \mb ọː     -REk      -E  -n(I)     nọŋan -L  -DU  -tEn      tegeńe -tEn      họː  hịːlụs  -(h)E bi -DʒI -n(I) hịːlụs  -(h)E
 \ps v                              pron                     n                adv  n             v             n            
-\ge become -cond.cvb -ep -poss.3sg 3sg   -pl -dat -poss.3pl life?  -poss.3pl very trouble -excl be -fut -3sg  trouble -excl
+\ge become -cond.cvb -ep -poss.3sg 3sg   -pl -dat -poss.3pl life?  -poss.3pl very trouble -interj be -fut -3sg  trouble -interj
 
 \tx bidʒin.
 \mb bi -DʒI -n(I)
@@ -630,8 +630,8 @@ compared it to boːtten she said here the resultative has the same effect (i.e. 
 
 \tx čịkịrịdʒị boːdʒin        ili  tan... nandawan                garịdʒị  "go,  erew      hi   galị"
 \mb čịkị    -RIdʒI   boː  -DʒI -n(I) ili  nanra -W   -E  -n(I)     ga   -RIdʒI   ge    erek -W   hiː ga   -LI     
-\ps v                v               conj n                        v             excl  pron      pron v            
-\ge cut.off -ant.cvb give -fut -3sg  or.R hide  -acc -ep -poss.3sg take -ant.cvb exclm prox -acc 2sg take -imp.2sg
+\ps v                v               conj n                        v             interj  pron      pron v            
+\ge cut.off -ant.cvb give -fut -3sg  or.R hide  -acc -ep -poss.3sg take -ant.cvb interjm prox -acc 2sg take -imp.2sg
 
 \tx goːniken.
 \mb goːn -nIkEn  

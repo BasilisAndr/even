@@ -58,7 +58,7 @@ very interested in Even folklore and language. Sister of Afanasij Afanas'evič S
 \id ZAS_jubki_Aniwrin_004
 \tx Ha... ịak, Karskoe_mo..., tartịkị   bihnihni,               Krasnoe_more, irekgu,   tadụk
 \mb ha ịak  Karskoe_more tarak -t(E)kI bi -R(E)   -n(I) =hni    Krasnoe_more irek  =GU tarak -DUk(U)
-\ps excl pron ?            pron          v                        ?            pron      pron         
+\ps interj pron ?            pron          v                        ?            pron      pron         
 \ge ha what Kara.Sea     dist  -all    be -nonfut -3sg  =affirm Red.Sea      which =q  dist  -abl   
 
 \tx biwettin
@@ -248,7 +248,7 @@ couldn't say what it meant; naŋtịmattịdʒị = xvataja mnogo raz
 \tx Tačịn       họː hebdʒeje       bihin.
 \mb tarọːčịn  họː  hebdʒeń  -(h)E bi -RI  -n(I)    
 \ps pron      adv  v              v                
-\ge dist.qual very be.funny -excl be -pst -poss.3sg
+\ge dist.qual very be.funny -interj be -pst -poss.3sg
 \ft That was very funny.
 \ru так было очень смешно.
 \ELANBegin 00:01:23.890
@@ -610,7 +610,7 @@ bihin, biː emebennew bihin; one can also specify emebennew bidʒin, but that is
 \tx Tara  họː hebdʒeje       bihin
 \mb tarak họː  hebdʒeń  -(h)E bi -RI  -n(I)    
 \ps pron  adv  v              v                
-\ge dist  very be.funny -excl be -pst -poss.3sg
+\ge dist  very be.funny -interj be -pst -poss.3sg
 
 \ft That was very funny.
 \ph I do not hear bihin, but IVK heard it on two very different occasions
@@ -623,7 +623,7 @@ bihin, biː emebennew bihin; one can also specify emebennew bidʒin, but that is
 \tx Tačịn       hebdʒeje.
 \mb tarọːčịn  hebdʒeń  -(h)E
 \ps pron      v             
-\ge dist.qual be.funny -excl
+\ge dist.qual be.funny -interj
 \ft So funny.
 \ph hebdʒije, with a sibilant following which is probably just her drawing in her breath
 \ru Так смешно.
@@ -742,8 +742,8 @@ Moscow
 \id ZAS_jubki_Aniwrin_055
 \tx Tarịt kojeːtte       minu:        Vy         kak   bystro                preobrazilis,                   vy         daže pomolodeli,                 go
 \mb tarịt kojeːt  -R(E)   min     -W   ge   
-\ps adv   v               pron         excl 
-\ge then  look.at -nonfut 1sg.obl -acc exclm
+\ps adv   v               pron         interj 
+\ge then  look.at -nonfut 1sg.obl -acc interjm
 \ft They looked at me: "You have changed so quickly, you have even become younger!"
 \ru Они смотрели на меня
 \ELANBegin 00:04:09.743
@@ -804,7 +804,7 @@ Moscow
 \tx Hečusekie,            ọːn metrola         biwettem,               ọːn ịala        biwettem,
 \mb hečus      -(h)E =kE   ọːn metro   -(dU)LE bi -WEːČ -R(E)   -m   ọːn ịak  -(dU)LE bi -WEːČ -R(E)   -m  
 \ps adv                    pron n               v                     pron pron         v                    
-\ge exhausting -excl =emph how metro.R -loc    be -gnr  -nonfut -1sg how what -loc    be -gnr  -nonfut -1sg
+\ge exhausting -interj =emph how metro.R -loc    be -gnr  -nonfut -1sg how what -loc    be -gnr  -nonfut -1sg
 
 \tx vystavkaj             ọːna
 \mb vystavka     -J       ọːn -E 
@@ -1171,7 +1171,7 @@ have said garịt;  dʒuleptuk = s prežnix vremen
 \tx Tiːkde   tartakị     heremekieː!
 \mb tiek =DE  tarak -t(E)kI hor -E  -m   -(h)E =kE  
 \ps adv       pron          v                       
-\ge now  =ptl dist  -all    go  -ep -des -excl =emph
+\ge now  =ptl dist  -all    go  -ep -des -interj =emph
 \ft And now I would love to go there!
 \ru И сейчас туда хочется ехать
 \ELANBegin 00:06:23.780
@@ -1340,7 +1340,7 @@ believe from the corpus that there are examples with -kkEn that have an attenuat
 \tx tụkụńan              ehni           emehme                 tarbačan      goːnidʒi.
 \mb tụkụn -(h)E -n(I)     e   -R(E) -n(I) em   -E  -m   -R       tarọːčịn  goːn -RIdʒI  
 \ps v                     v               v                      pron      v            
-\ge hate  -excl -poss.3sg neg -nfut -3sg  come -ep -des -neg.cvb dist.qual say  -ant.cvb
+\ge hate  -interj -poss.3sg neg -nfut -3sg  come -ep -des -neg.cvb dist.qual say  -ant.cvb
 
 \ft I tried to suck that out with a bulb like this, how annoying, it doesn't want to come, this one!
 \ph turkurem - sounds more like turkuram
@@ -1492,7 +1492,7 @@ be biheku; and it's a good sentence and all correct
 \tx Taraw      tiːk dʒọmkattakụ               nimerekie.
 \mb tarak -W   tiek dʒọmkat -REk      -W        nimer          -(h)E =kE  
 \ps pron       adv  v                           v                         
-\ge dist  -acc now  think   -cond.cvb -poss.1sg be.frightening -excl =emph
+\ge dist  -acc now  think   -cond.cvb -poss.1sg be.frightening -interj =emph
 \ft When I think about that now, it's frightening.
 \ru когда я сейчас так думаю страшно
 \ELANBegin 00:07:58.740
@@ -1560,7 +1560,7 @@ be biheku; and it's a good sentence and all correct
 \tx ajụː,  čọŋkassịŋa          turkurem                 turkurem
 \mb ajụːja čọŋka -sčI   -ŋE       turku       -R(E)   -m   turku       -R(E)   -m  
 \ps interj v                      v                        v                       
-\ge excl.Y dig   -conat -nmdl.cvb not.be.able -nonfut -1sg not.be.able -nonfut -1sg
+\ge interj.Y dig   -conat -nmdl.cvb not.be.able -nonfut -1sg not.be.able -nonfut -1sg
 \ft Oh dear, I tried and tried to dig, to no avail.
 \ru безрезультатно пыталась ковырять
 \ELANBegin 00:08:36.260
@@ -1582,7 +1582,7 @@ be biheku; and it's a good sentence and all correct
 \tx ajọː
 \mb ajụːja
 \ps interj
-\ge excl.Y
+\ge interj.Y
 
 \ru
 \ELANBegin 00:08:43.500

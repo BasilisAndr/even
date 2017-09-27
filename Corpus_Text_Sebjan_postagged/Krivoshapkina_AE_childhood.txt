@@ -303,8 +303,8 @@ A tri vnukov tože sama vospityvaet.
 \ref 2:30; EKK
 \tx Go,   ukčenni        go    bastaːn   hiː, Anna hiː kụŋa kụŋa bihiŋij              bi..., kụŋa
 \mb ge    ukčen -LI      ge    bastaːn    hiː Anna hiː kụŋa  kụŋa  bi -ŋsI      -J       bi kụŋa 
-\ps excl  v              excl  adv        pron ?    pron n     n     v                     v  n    
-\ge exclm tell  -imp.2sg exclm at.first.Y 2sg Anna 2sg child child be -impf.cvb -prfl.sg be child
+\ps interj  v              interj  adv        pron ?    pron n     n     v                     v  n    
+\ge interjm tell  -imp.2sg interjm at.first.Y 2sg Anna 2sg child child be -impf.cvb -prfl.sg be child
 
 \tx bihiŋij?
 \mb bi -ŋsI      -J      
@@ -494,8 +494,8 @@ like I wrote it, possibly with the particle - that's not clear, because EKK pitc
 \ref 3:53; EKK
 \tx Ukčenni,       dʒe   ukčenni        go,   tarịt, irili  axsịn hiː [stammers] ńulgetniken,
 \mb ukčen -LI      dʒe    ukčen -LI      ge    tarịt ireli  axsịn   hiː stammers nulge   -Č   -nIkEn  
-\ps v              ptl    v              excl  adv   n      quant   pron interj   v                    
-\ge tell  -imp.2sg well.Y tell  -imp.2sg exclm then  summer every.Y 2sg stammers migrate -res -sim.cvb
+\ps v              ptl    v              interj  adv   n      quant   pron interj   v                    
+\ge tell  -imp.2sg well.Y tell  -imp.2sg interjm then  summer every.Y 2sg stammers migrate -res -sim.cvb
 
 \tx tugeniŋmen                   iriliŋmen                    ńulgettis                  goːli,        hiː.
 \mb tugeni -ŋ   -W   -E  -n(I)     ireli  -ŋ   -W   -E  -n(I)     nulge   -Č   -RI  -s(I)     goːn -LI      hiː

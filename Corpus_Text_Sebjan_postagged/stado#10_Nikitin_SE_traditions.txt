@@ -28,8 +28,8 @@ peoples, mainly Yakut culture. The siblings are the children of Anastasija Xrist
 \id stado#10_Sergej_traditions_003
 \tx Go!
 \mb ge   
-\ps excl 
-\ge exclm
+\ps interj 
+\ge interjm
 \ft
 \ru Давай.
 \ph
@@ -199,8 +199,8 @@ special to eat, e.g. has hunted something nice, one gives a bit of that to the f
 \id stado#10_Sergej_traditions_015
 \tx Nu     tačịn       ọːmị        höp go.
 \mb nu     tarọːčịn  ọː     -mI       söp ge   
-\ps ptl    pron      v                ?   excl 
-\ge well.R dist.qual become -cond.cvb OK  exclm
+\ps ptl    pron      v                ?   interj 
+\ge well.R dist.qual become -cond.cvb OK  interjm
 \ft Doing like that should be OK.
 \ru Так сделать сойдет.
 \ph
@@ -536,7 +536,7 @@ majdʒịn, he'll spoil your desire to do that (translation session Tat_Petr_que
 \id stado#10_Sergej_traditions_043
 \tx [AE: Ọ dʒe.]
 \mb AE ọ  dʒe   
-\ps ?  excl ptl   
+\ps ?  interj ptl   
 \ge AE oh well.Y
 \ft Oh dear.
 \ru

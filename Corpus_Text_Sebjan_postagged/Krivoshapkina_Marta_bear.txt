@@ -110,8 +110,8 @@ calque from Sakha?
 \ref 1:19
 \tx Mut    "ee, ge    horri",      goːnep.
 \mb mut    ee ge    hor -LI      goːn -R(E)   -p     
-\ps pron   interj excl  v            v                   
-\ge 1pl.in eh exclm go  -imp.2sg say  -nonfut -1pl.in
+\ps pron   interj interj  v            v                   
+\ge 1pl.in eh interjm go  -imp.2sg say  -nonfut -1pl.in
 \ft We said "yes, OK, go".
 \ru Мы сказали "ну да, иди".
 \ph

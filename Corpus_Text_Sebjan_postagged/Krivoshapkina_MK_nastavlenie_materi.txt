@@ -351,7 +351,7 @@ doesn't fit here
 \id Krivoshapkina_MK_nastavlenie_026
 \tx Ehe, ee goːnem,           ehe höp, eńe   höp ee eńe   ọččọγọ ụtallam               biː goːnem
 \mb aha ee goːn -R(E)   -m   aha söp  eńin   söp  ee eńin   oččoγo ụtal       -R(E)   -m   biː goːn -R(E)   -m  
-\ps excl interj v                 excl ptl  n      ptl  interj n      adv    v                       pron v                
+\ps interj interj v                 interj ptl  n      ptl  interj n      adv    v                       pron v                
 \ge aha eh say  -nonfut -1sg aha OK.Y mother OK.Y eh mother then.Y understand -nonfut -1sg 1sg say  -nonfut -1sg
 
 \tx dʒiː, ụtallam               čto-to.

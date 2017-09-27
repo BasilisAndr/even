@@ -398,7 +398,7 @@ with -n-, so I added another stem in the lexical entry .
 \id Egorova_RM_fox_wolf_027
 \tx Aaaa.      Nanda                      gịrkadda.
 \mb aa -E  -E  ńaːn =DE  gịrka -D    -R(E)  
-\ps excl       adv       v                  
+\ps interj       adv       v                  
 \ge ah -ep -ep and  =ptl walk  -prog -nonfut
 \ft Ah. So they went again.
 \ELANBegin 00:01:54.370

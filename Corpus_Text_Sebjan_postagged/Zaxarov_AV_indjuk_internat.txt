@@ -246,8 +246,8 @@ the two; if it were 'that person, when he came, said' it would be expressed as '
 \id Zaxarov_AV_indjuk_internat_017
 \tx Tadụ     go... ọttọ.
 \mb tarak -DU  ge    ọttọn
-\ps pron       excl  ptl  
-\ge dist  -dat exclm dp.Y 
+\ps pron       interj  ptl  
+\ge dist  -dat interjm dp.Y 
 
 \ru
 \ELANBegin 00:02:17.241
@@ -1459,8 +1459,8 @@ good school
 \id Zaxarov_AV_indjuk_internat_103
 \tx Go.
 \mb ge   
-\ps excl 
-\ge exclm
+\ps interj 
+\ge interjm
 
 \ru
 \ELANBegin 00:09:50.499

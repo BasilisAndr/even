@@ -32,7 +32,7 @@ kụːnịr", but eti XXX-pta is used in generic "one shouldn't do, it is not al
 \id RDA_TPK_spirits_002
 \tx Mm, anŋamta torre
 \mb mm  anŋamta tor   -(dU)LE
-\ps excl adj     n            
+\ps interj adj     n            
 \ge mhm new     earth -loc   
 \ft in a new place
 \ru да, на новом месте
@@ -587,7 +587,7 @@ huklehenče bihem = she fell asleep unintentionally, doesn't remember exactly ho
 \id RDA_TPK_spirits_044
 \tx hamaːn, da,   aha
 \mb samaːn da    aha
-\ps n      ptl   excl
+\ps n      ptl   interj
 \ge shaman yes.R aha
 
 \ru

@@ -343,7 +343,7 @@ cook food.
 \id Alekseeva_RD_intro_stado_025
 \tx mhm họːja
 \mb mhm họːja
-\ps excl quant
+\ps interj quant
 \ge mhm many 
 
 \ru
@@ -623,7 +623,7 @@ and cond.cvb = kogda ja učilas', tattakụ = kogda ja vyučus'
 \tx Taraw      dʒeptekes                   bọllaγïna aːmịgja          ọːdʒịnnị.
 \mb tarak -W   dʒep -REk      -E  -s(I)     buollaγïna aːm       -E  -(h)E ọː     -DʒI -nrI
 \ps pron       v                            ptl        v                   v               
-\ge dist  -acc eat  -cond.cvb -ep -poss.2sg dp.Y       be.sleepy -ep -excl become -fut -2sg
+\ge dist  -acc eat  -cond.cvb -ep -poss.2sg dp.Y       be.sleepy -ep -interj become -fut -2sg
 
 \ft If you eat that, you'll become sleepy.
 \ru Если съешь это становишься сонливым.
@@ -863,7 +863,7 @@ seems to be just a matter of style
 \tx Ńupkumekie,               er   kụlịn, anï... ịbga   biden                  tar.
 \mb nipku     -m   -(h)E =kE   erek kụlịn    anï   ịbgọ bi -DE       -n(I)     tarak
 \ps v                          pron n        adv   ?    v                      pron 
-\ge suffocate -des -excl =emph prox mosquito now.Y good be -purp.cvb -poss.3sg dist 
+\ge suffocate -des -interj =emph prox mosquito now.Y good be -purp.cvb -poss.3sg dist 
 
 \ft Stuffy, mosquitoes... so that it is good.
 \ph

@@ -794,7 +794,7 @@ from ŋeːlu with a suffix -kE (not clear what that would be, however)
 \id RDA_TPK_hongachan_baldarakan_066
 \tx Ah, aha.
 \mb ah aha
-\ps interj excl
+\ps interj interj
 \ge ah aha
 
 \ru
@@ -871,7 +871,7 @@ make/let them calve', the reindeer does themselves calve = tuwgerer (while the c
 \id RDA_TPK_hongachan_baldarakan_072
 \tx otdelno,     aha
 \mb otdel'no     aha
-\ps adv          excl
+\ps adv          interj
 \ge separately.R aha
 
 \ru
@@ -934,7 +934,7 @@ separated and the does remain with the others, or whether each age/sex group is 
 \id RDA_TPK_hongachan_baldarakan_077
 \tx họːr,        byk,   aha
 \mb xor             byk    aha
-\ps n               n      excl
+\ps n               n      interj
 \ge reindeer.bull.R bull.R aha
 
 \ft bulls
@@ -980,7 +980,7 @@ separated and the does remain with the others, or whether each age/sex group is 
 \id RDA_TPK_hongachan_baldarakan_081
 \tx atkịčan,        aha
 \mb atkịčan            aha
-\ps n                  excl
+\ps n                  interj
 \ge castrated.reindeer aha
 
 \ru

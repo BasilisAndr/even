@@ -903,7 +903,7 @@ on the return journey
 \id stado#10_Nikitin_SE_poems_064
 \tx Ọ, ńoːŋge ọralčịmŋa
 \mb ọ  ńoːŋge ọrọlčị        -mŋE 
-\ps excl adj    v                  
+\ps interj adj    v                  
 \ge oh good   herd.reindeer -agnr
 
 \ft oh, good reindeer herder
@@ -984,7 +984,7 @@ on the return journey
 \tx gudʒejekeː           biː dʒaːlbụ
 \mb gudʒen     -(h)E =kE   biː dʒaː     -L  -W       
 \ps v                      pron n                     
-\ge be.beloved -excl =emph 1sg relative -pl -poss.1sg
+\ge be.beloved -interj =emph 1sg relative -pl -poss.1sg
 
 \ft my dear family
 \ru милые мои родные

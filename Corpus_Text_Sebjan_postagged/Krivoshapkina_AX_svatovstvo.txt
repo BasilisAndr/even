@@ -582,8 +582,8 @@ agreement to marry the two children).
 \id Krivoshapkina_AX_svatovstvo_036
 \tx Dʒe   uže...   ee, ịawračal,               Go    ukčemmettep                 uže      goːniken      ečin
 \mb dʒe    uže       ee ịa      -Gr(E) -čE     -L  ge    ukčen -mEČ -R(E)   -p      uže       goːn -nIkEn   erroːčin 
-\ps ptl    adv       interj v                          excl  v                          adv       v             pron     
-\ge well.Y already.R eh do.what -hab   -pf.ptc -pl exclm tell  -rec -nonfut -1pl.in already.R say  -sim.cvb prox.qual
+\ps ptl    adv       interj v                          interj  v                          adv       v             pron     
+\ge well.Y already.R eh do.what -hab   -pf.ptc -pl interjm tell  -rec -nonfut -1pl.in already.R say  -sim.cvb prox.qual
 
 \tx dịlụːr    ụlkụwračal.
 \mb dịl  -WUr     ụlkụ -Gr(E) -čE     -L 

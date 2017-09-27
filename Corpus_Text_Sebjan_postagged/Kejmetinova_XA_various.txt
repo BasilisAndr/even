@@ -49,8 +49,8 @@ Even (reindeer herder) from the Eveno-Bytantaj district who spoke only Sakha (Ya
 \id Kejmetinova_XA_various_004
 \tx Biː dʒaːlbụ,           ammụ           Kejmetinov Afanasij Alekseevič, go,   ejmu...          god
 \mb biː dʒaː     -L  -W        aman   -W        Kejmetinov Afanasij Alekseevič  ge    enen   -W        god   
-\ps pron n                      n                ?          ?        ?           excl  n                n     
-\ge 1sg relative -pl -poss.1sg father -poss.1sg Kejmetinov Afanasij Alekseevich exclm mother -poss.1sg year.R
+\ps pron n                      n                ?          ?        ?           interj  n                n     
+\ge 1sg relative -pl -poss.1sg father -poss.1sg Kejmetinov Afanasij Alekseevich interjm mother -poss.1sg year.R
 
 \tx roždenija  net, da?
 \mb roždenija   net  da   
@@ -703,7 +703,7 @@ not frequently used.
 \id Kejmetinova_XA_various_049
 \tx Mhm, höp.
 \mb mhm söp 
-\ps excl ptl 
+\ps interj ptl 
 \ge mhm OK.Y
 
 \ru

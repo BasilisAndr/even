@@ -52,7 +52,7 @@ worker" (chumrabotnitsa). She is the sister of Innokentij Dmitrievich Burtsev.
 \id Alekseeva_RD_stuck_in_stado_004
 \tx mm
 \mb mm 
-\ps excl
+\ps interj
 \ge mhm
 
 \ru
@@ -1116,7 +1116,7 @@ being inside some object
 \id Alekseeva_RD_stuck_in_stado_087
 \tx Aha, hụnaːdʒịs...
 \mb aha hụnaːdʒ  -E  -s(I)    
-\ps excl n                     
+\ps interj n                     
 \ge aha daughter -ep -poss.2sg
 \ft Ah, and your daughter...
 \ru

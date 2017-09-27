@@ -1126,7 +1126,7 @@ laskatj, gladitj; toːdi = help
 \id Stepanova_ZA_naled_071
 \tx Ịak bihenni,        ụrụńa herri"       goːnni     dʒiː.
 \mb ịak  bi -R(E)   -nrI ụrụńa hor -LI      goːn -n(I) dʒIː
-\ps pron v               excl  v            v          ?   
+\ps pron v               interj  v            v          ?   
 \ge what be -nonfut -2sg quiet go  -imp.2sg say  -3sg  aff 
 
 \ft What are you, go xxx " he said, right.
@@ -1285,7 +1285,7 @@ small little child.
 \tx Gudʒejekiet,               tar   ịahallaw                 ičudni,         hawdị etiken,  etiken   ńan   tar   kụŋačan.
 \mb gudʒen     -(h)E =kE   -Č   tarak ịašal -(dU)LE -W        it  -W     -n(I) hagdị etikeːn etikeːn ńaːn tarak kụŋa  -čEn
 \ps v                           pron  n                       v                adj   n       n       adv  pron  n         
-\ge be.beloved -excl =emph -ins dist  eyes  -loc    -poss.1sg see -advrs -3sg  old   old.man old.man and  dist  child -dim
+\ge be.beloved -interj =emph -ins dist  eyes  -loc    -poss.1sg see -advrs -3sg  old   old.man old.man and  dist  child -dim
 
 \ft Very sweet, I still see that before me, the old old man and that little child.
 \ph
@@ -1573,7 +1573,7 @@ that hut.
 \tx Tala          heremekieː             biwrerin,                teːmi    bi   tala          horriw,           "klub
 \mb tarak -(dU)LE hor -E  -m   -(h)E =kE   bi -Gr(E) -RI  -n(I)     teːmi     biː tarak -(dU)LE hor -RI  -W        klub  
 \ps pron          v                        v                        conj      pron pron          v                  n     
-\ge dist  -loc    go  -ep -des -excl =emph be -hab   -pst -poss.3sg therefore 1sg dist  -loc    go  -pst -poss.1sg club.R
+\ge dist  -loc    go  -ep -des -interj =emph be -hab   -pst -poss.3sg therefore 1sg dist  -loc    go  -pst -poss.1sg club.R
 
 \tx internacionalnaj družby"         gerbe biwrerin.
 \mb internacionalnaj družby           gerbe bi -Gr(E) -RI  -n(I)    

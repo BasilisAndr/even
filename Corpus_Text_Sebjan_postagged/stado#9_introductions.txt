@@ -147,7 +147,7 @@ father of Ekaterina Afanas'evna Krivoshapkina
 \id stado#9_introductions_014
 \tx eš ehni
 \mb eš e   -R(E) -n(I)
-\ps excl v              
+\ps interj v              
 \ge no neg -nfut -3sg 
 
 \ru
@@ -274,7 +274,7 @@ nazyvaetsja
 \id stado#9_introductions_026
 \tx Aa.
 \mb aa
-\ps excl
+\ps interj
 \ge ah
 
 \ru
@@ -315,7 +315,7 @@ nazyvaetsja
 \id stado#9_introductions_030
 \tx Mhm
 \mb mhm
-\ps excl
+\ps interj
 \ge mhm
 
 \ru
@@ -358,7 +358,7 @@ ulgimikekkerečeːdʒinni correctly, it should be 'ty naverno obychno sprašivae
 \id stado#9_introductions_033
 \tx Mhm
 \mb mhm
-\ps excl
+\ps interj
 \ge mhm
 
 \ru
@@ -391,7 +391,7 @@ ulgimikekkerečeːdʒinni correctly, it should be 'ty naverno obychno sprašivae
 \id stado#9_introductions_036
 \tx Mhm
 \mb mhm
-\ps excl
+\ps interj
 \ge mhm
 
 \ru
@@ -467,7 +467,7 @@ mụdaktịn = okončil davno
 \id stado#9_introductions_042
 \tx Mhm, inžeńer-mexanik   gerbe ịadụ   hepkučedden.
 \mb mhm inžener-mexanik     gerbe ịak  -DU  hupkut -E  -D    -R(E)   -n(I)
-\ps excl n                   n     pron      v                             
+\ps interj n                   n     pron      v                             
 \ge mhm engineer-mechanic.R name  what -dat learn  -ep -prog -nonfut -3sg 
 
 \ft He's studying to be an engineer.
@@ -516,7 +516,7 @@ different village
 \id stado#9_introductions_046
 \tx Ebedi...   Eńenni          eben, amannị         ńọka, mhm
 \mb ewen -DI   eńin   -n(I)     ewen aman   -n(I)     ńọka  mhm
-\ps n          n                n    n                n     excl
+\ps n          n                n    n                n     interj
 \ge Even -adjr mother -poss.3sg Even father -poss.3sg Sakha mhm
 \ft His mother is an Even, his father is a Sakha.
 \ru мать- эвенка, отец- якут
@@ -582,7 +582,7 @@ each other
 \id stado#9_introductions_051
 \tx Mhm, tara.
 \mb mhm tarak
-\ps excl pron 
+\ps interj pron 
 \ge mhm dist 
 
 \ru
@@ -626,7 +626,7 @@ gerbew atịkaŋgajị emurin
 \id stado#9_introductions_054
 \tx Eh, ịbga,  gurgewčidde,             mhm.
 \mb eh ịbgọ gurgeːwči -D    -R(E)   mhm
-\ps interj ?    v                       excl
+\ps interj ?    v                       interj
 \ge eh good work      -prog -nonfut mhm
 \ft It's good, they work.
 \ru Хорошо, работают. 
@@ -666,7 +666,7 @@ gerbew atịkaŋgajị emurin
 \id stado#9_introductions_057
 \tx Mhm.
 \mb mhm
-\ps excl
+\ps interj
 \ge mhm
 
 \ru

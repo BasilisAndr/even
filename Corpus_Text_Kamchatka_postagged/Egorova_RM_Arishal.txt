@@ -2199,7 +2199,7 @@ him "sam xozjajničaj"
 \ref
 \tx Aha, meːnken       manuwaːttan.
 \mb aha meːn -KEn     man    -U    -WEːČ -R(E)   -n(I)
-\ps excl pron          v                               
+\ps interj pron          v                               
 \ge aha refl -dim.int finish -caus -gnr  -nonfut -3sg 
 \ft Mhm, it disappears by itself.
 \ph

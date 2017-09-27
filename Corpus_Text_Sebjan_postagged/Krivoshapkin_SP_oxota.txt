@@ -360,7 +360,7 @@ his sons, not to any two boys
 \id Krivoshapkin_SP_oxota_029
 \tx dʒoːr? aha
 \mb dʒoːr aha
-\ps num   excl
+\ps num   interj
 \ge two   aha
 
 \ru
@@ -469,7 +469,7 @@ his sons, not to any two boys
 \id Krivoshapkin_SP_oxota_038
 \tx mụranat?      aha
 \mb mụran -E  -Č   aha
-\ps n              excl
+\ps n              interj
 \ge horse -ep -ins aha
 
 \ru
@@ -1705,7 +1705,7 @@ nọŋńụnnị; but people say all these forms.
 \id Krivoshapkin_SP_oxota_144
 \tx aha, ọrọnat?
 \mb aha ọrọn              -E  -Č  
-\ps excl n                         
+\ps interj n                         
 \ge aha domestic.reindeer -ep -ins
 \ft Yes, by reindeer?
 \ru
@@ -1797,7 +1797,7 @@ nọŋńụnnị; but people say all these forms.
 \id Krivoshapkin_SP_oxota_153
 \tx Aha hiː
 \mb aha hiː
-\ps excl pron
+\ps interj pron
 \ge aha 2sg
 
 \ru
@@ -2023,7 +2023,7 @@ nọŋńụnnị; but people say all these forms.
 \id Krivoshapkin_SP_oxota_174
 \tx dʒoːr ineŋi, aha
 \mb dʒoːr ineŋi aha
-\ps num   n     excl
+\ps num   n     interj
 \ge two   day   aha
 
 \ru
@@ -2734,7 +2734,7 @@ as it was previously transcribed, with 2SG
 \id Krivoshapkin_SP_oxota_235
 \tx ọldaw     aha
 \mb ọlra -W   aha
-\ps n         excl
+\ps n         interj
 \ge fish -acc aha
 
 \ru

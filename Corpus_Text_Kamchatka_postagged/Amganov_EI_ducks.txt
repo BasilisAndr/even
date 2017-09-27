@@ -8,7 +8,7 @@ were present (in addition to BP and NA); however, somewhere in the middle of the
 grandkids slipped in and out - but they did not join in the storytelling. Other than that there were hardly any
 surrounding noises. EIA was in a storytelling mood and kept remembering humourous little anecdotes, which he
 recounted with a lot of accompanying gestures. In between he gave Russian summaries/retold it all in Russian - but the
-video files were cut in such a way as to exclude that (except where he switched to Russian in the middle of an Even
+video files were cut in such a way as to interjude that (except where he switched to Russian in the middle of an Even
 narrative). The individual anecdotes (11 in total, varying in length from 1 minute to 12 minutes) were analysed
 individually, as individual ELAN/Toolbox files. This is the 7th little anecdote.
 \qu Transcribed by BP with Rimma Maksimovna Egorova, who also provided the Russian translation; glossed by BP. Funding by the
@@ -29,7 +29,7 @@ schooling and had worked as a milker and then a cleaner.
 \id Amganov_EI_ducks_002
 \tx Aha omnekende           teːleŋdekukene,                   Vadim teːleŋčewen,
 \mb aha omen -REkEn    =DE  teːleŋ -DE       -W        =kEnE  Vadim teːleŋ -čE     -W   -E  -n(I)    
-\ps excl num                 v                                 ?     v                                
+\ps interj num                 v                                 ?     v                                
 \ge aha one  -iter.adv =ptl tell   -purp.cvb -poss.1sg =contr Vadim tell   -pf.ptc -acc -ep -poss.3sg
 
 \tx minde        teːleŋu          ọːdan                   čas.

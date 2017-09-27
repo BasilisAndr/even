@@ -126,8 +126,8 @@ their life'
 
 \tx haːnịnnị       Apọńa ge.
 \mb haːnịn -n(I)     Afanasij ge   
-\ps n                ?        excl 
-\ge spirit -poss.3sg Afanasij exclm
+\ps n                ?        interj 
+\ge spirit -poss.3sg Afanasij interjm
 
 \ft I was the spirit of this little Elena, while the spirit of the little child named Ivan was Afonja.
 \ru Эта душа Елены была я, потом душа Ивана - ну Афоня.

@@ -693,7 +693,7 @@ mindu učullan -- so this is yet a third potential case form for the experiencer
 \ref
 \tx Aa... a     pagọdaŋan                ọːn?
 \mb aa a.R   pogoda    -ŋ   -E  -n(I)     ọːn
-\ps excl ?     n                            pron
+\ps interj ?     n                            pron
 \ge ah but.R weather.R -aln -ep -poss.3sg how
 
 \ft Ah... and what is 'weather' (lit. his weather)?
@@ -1851,7 +1851,7 @@ precede possessive suffixes;
 \ref
 \tx Ọːnkana?   bišin,           kak   že?  Aa, Reznikov.
 \mb ọːn =kEnE  bi -RI  -n(I)     kak   že    aa Reznikov
-\ps pron       v                 pron  ptl   excl ?       
+\ps pron       v                 pron  ptl   interj ?       
 \ge how =contr be -pst -poss.3sg how.R ptl.R ah Reznikov
 \ft How is it... (Who) lived here again? Ah, Reznikov!
 \ph
@@ -1865,7 +1865,7 @@ precede possessive suffixes;
 \ref
 \tx Aa iŋe,  ele...
 \mb aa ịŋa erek -(dU)LE
-\ps excl ?   pron        
+\ps interj ?   pron        
 \ge ah yes prox -loc   
 \ft Ah, yes, here...
 \ph
@@ -2081,7 +2081,7 @@ aːšukan- means he'll become offended and get angry (or better: you'll cause hi
 \ref
 \tx Aa?
 \mb aa
-\ps excl
+\ps interj
 \ge ah
 
 \ELANBegin 00:12:11.960
@@ -2125,7 +2125,7 @@ aːšukan- means he'll become offended and get angry (or better: you'll cause hi
 \ref
 \tx Aa, i     čto,  desčiddʒoːtte?
 \mb aa i     čto    desči -D    -WEːČ -R(E)  
-\ps excl conj  pron   v                        
+\ps interj conj  pron   v                        
 \ge ah and.R what.R lie   -prog -gnr  -nonfut
 \ft Ah, and so what, do they lie?
 \ELANBegin 00:12:21.480
@@ -3273,7 +3273,7 @@ baːnni? čaš nọγdak "will you drink tea? or you don't want? well then don't
 \ref
 \tx Aha, ne   mergečiddem,                  a     guːnin              umničajiddem.
 \mb aha ne   mergeːt -E  -D    -R(E)   -m   a.R   goːn -RI  -n(I)     umničaj     -E  -D    -R(E)   -m  
-\ps excl ptl  v                              ?     v                   v                                 
+\ps interj ptl  v                              ?     v                   v                                 
 \ge aha no.R think   -ep -prog -nonfut -1sg but.R say  -pst -poss.3sg be.clever.R -ep -prog -nonfut -1sg
 
 \ft Mhm, not "I'm thinking", but he said, "I'm being clever".
@@ -4158,7 +4158,7 @@ to go back to him
 \ref
 \tx Aa, ńejkew?
 \mb aa ńejke -W  
-\ps excl n         
+\ps interj n         
 \ge ah lamp  -acc
 \ft Ah, for electricity?
 \ELANBegin 00:22:33.800
@@ -4199,7 +4199,7 @@ to go back to him
 \ref
 \tx Kọč   aa... entekeːje aːmnịkat    uččoːtten.
 \mb kọč      aa entekeːje aːmnịk  -Č   ụt   -WEːČ -R(E)   -n(I)
-\ps adv      excl adv       adv          v                       
+\ps adv      interj adv       adv          v                       
 \ge probably ah strong    quickly -ins turn -gnr  -nonfut -3sg 
 
 \ft It's probably turning very quickly.
@@ -4731,7 +4731,7 @@ chepuxu"
 \ref
 \tx Aa, erektu    deduškadu?
 \mb aa erek -DU  deduška   -DU 
-\ps excl pron      n             
+\ps interj pron      n             
 \ge ah prox -dat grandad.R -dat
 \ft Ah, this grandad?
 \ELANBegin 00:25:45.340
@@ -5051,7 +5051,7 @@ vremja; eŋutnerem = ja voobshe bojusj vsego; ja eŋuttem = ja pobaivajusj, eŋu
 \ref
 \tx Aa, naverno    unte.
 \mb aa naverno    honte
-\ps excl ptl        adj  
+\ps interj ptl        adj  
 \ge ah probably.R other
 \ft Ah, that's probably someone else.
 \ELANBegin 00:27:01.640
@@ -5857,7 +5857,7 @@ valency suffix takes away the agent, it's impersonal
 \ref
 \tx Aa?
 \mb aa
-\ps excl
+\ps interj
 \ge ah
 \ft Huh?
 \ELANBegin 00:30:53.620
@@ -5939,7 +5939,7 @@ boast about this when she again goes to Ufa (where she has some relative);
 \ref
 \tx Aa.
 \mb aa
-\ps excl
+\ps interj
 \ge ah
 
 \ELANBegin 00:31:08.260
@@ -6263,7 +6263,7 @@ boast about this when she again goes to Ufa (where she has some relative);
 \ref
 \tx Aa, iŋe,  buːli.
 \mb aa ịŋa boː  -LI     
-\ps excl ?   v            
+\ps interj ?   v            
 \ge ah yes give -imp.2sg
 \ft Ah, OK, give (me some).
 \ELANBegin 00:33:02.820
@@ -6276,7 +6276,7 @@ boast about this when she again goes to Ufa (where she has some relative);
 \ref
 \tx Uneteši.....   aa, ọmŋaram,          ịašalamdaw,              "Černikaw-Forte"!
 \mb unet  -E  =sI   aa ọmŋa   -R(E)   -m   ịašal -E  -mdE -W        černika    -W   Forte
-\ps adv             excl v                   n                        n               ?    
+\ps adv             interj v                   n                        n               ?    
 \ge still -ep =emph ah forget -nonfut -1sg eyes  -ep -nr  -poss.1sg bilberry.R -acc Forte
 
 \ft And also... Ah, I forgot, for my eyes "Chernika-Forte"!
@@ -6738,7 +6738,7 @@ she hardly ever sees him
 \ref
 \tx Aha.
 \mb aha
-\ps excl
+\ps interj
 \ge aha
 
 \ELANBegin 00:35:28.420
@@ -6928,7 +6928,7 @@ she hardly ever sees him
 \ref
 \tx Aha.
 \mb aha
-\ps excl
+\ps interj
 \ge aha
 \ft Mhm.
 \ELANBegin 00:36:21.020

@@ -513,8 +513,8 @@ little sled.
 \id Bochilikan_etiken_029
 \tx Bọčịlịkan hụlịčam      mụlallan                   ge
 \mb Bọčịlịkan  hụlịčan -W   mụlaːn -L    -R(E)   -n(I) ge   
-\ps ?          n            v                          excl 
-\ge Bochilikan fox     -acc pity   -inch -nonfut -3sg  exclm
+\ps ?          n            v                          interj 
+\ge Bochilikan fox     -acc pity   -inch -nonfut -3sg  interjm
 
 \tx tewli             ịrdakụn              goːnni.
 \mb teg      -LI      ịr   -DE       -W        goːn -n(I)
@@ -924,12 +924,12 @@ normalno, tak zdes' govorjat
 \id Bochilikan_etiken_048
 \tx Omen mudekem         tọːk, omen mudekem
 \mb omen mudeken    -W   tọːk   omen mudeken    -W  
-\ps num  n               excl   num  n              
+\ps num  n               interj   num  n              
 \ge one  tree.stump -acc thwack one  tree.stump -acc
 
 \tx tọːk, omen mudekem         tọːk goːmnin       hụlị
 \mb tọːk   omen mudeken    -W   tọːk   goːn -mnIn    hụlịčan
-\ps excl   num  n               excl   v             n      
+\ps interj   num  n               interj   v             n      
 \ge thwack one  tree.stump -acc thwack say  -dur.cvb fox    
 
 \tx hịgịːla       gobeːn.
@@ -1231,12 +1231,12 @@ something else, bummelt herum)
 
 \tx bekeččur          ininedʒiːllere,            ha ha ha
 \mb bekeč -dʒUr        ińin  -E  -D    -L    -R(E)   ha ha ha
-\ps adv                v                             excl excl excl
+\ps adv                v                             interj interj interj
 \ge all   -ins.prfl.pl laugh -ep -prog -inch -nonfut ha ha ha
 
 \tx ha ha ha, goːniken.
 \mb ha ha ha goːn -nIkEn  
-\ps excl excl excl v            
+\ps interj interj interj v            
 \ge ha ha ha say  -sim.cvb
 
 \ft And this amused the animals, and they all started laughing, hahaha.
@@ -1270,7 +1270,7 @@ hebdʒeńe ọːdnị
 \id Bochilikan_etiken_061
 \tx Họː kịlŋịjamkar   dịlgandʒị, hu hu hu goːniken.
 \mb họː  kịlŋịja -mkEr dịlgan -Č   hu hu hu goːn -nIkEn  
-\ps adv  adj           n           excl excl excl v            
+\ps adv  adj           n           interj interj interj v            
 \ge very thin    -aug  voice  -ins hu hu hu say  -sim.cvb
 
 \ft With a very high voice, huhuhu.

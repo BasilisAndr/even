@@ -2947,7 +2947,7 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \ref
 \tx Aa, ọrọmŋal                ŋiːje
 \mb aa ọrọn              -mŋE  -L  ŋiː =jE   
-\ps excl n                           pron      
+\ps interj n                           pron      
 \ge ah domestic.reindeer -agnr -pl who =assoc
 \ft ah, reindeer herders, who are they?
 \ph
@@ -3281,7 +3281,7 @@ tolko chto sdelano, ọːččan = proshloe, tiniw ọːččan = to chto vchera s
 \ref
 \tx aa, uŋen...
 \mb aa uŋ        -E  -n(I)    
-\ps excl n                      
+\ps interj n                      
 \ge ah something -ep -poss.3sg
 
 \ft and this
@@ -3594,7 +3594,7 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \ref
 \tx aa
 \mb aa
-\ps excl
+\ps interj
 \ge ah
 \ft ah
 \ph
@@ -3903,7 +3903,7 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \ref
 \tx Aa, maxnjodukmaja         kučun                 iŋe, maxnjoduk       kopirujut
 \mb aa maxnjo  -DUk(U) =mEjE kuču         -n(I)     iŋe maxnjo  -DUk(U) kopirujut     
-\ps excl n                     n                      interj n               v             
+\ps interj n                     n                      interj n               v             
 \ge ah Russian -abl    =ptl  sleeping.bag -poss.3sg yes Russian -abl    copy.prs.3pl.R
 \ft Ah, it's a sleeping back from the Russians, it turns out, right, they copied from Russians
 \ev
@@ -4264,7 +4264,7 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \ref
 \tx Aa, meːnken?
 \mb aa meːn -KEn    
-\ps excl pron         
+\ps interj pron         
 \ge ah refl -dim.int
 \ft ah, by himself?
 \ph

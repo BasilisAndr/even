@@ -1333,7 +1333,7 @@ have the "iaw", so the overall sense is negative)
 \ref
 \tx Iːkke    asatkan bisenni,        ọːn nasakụt     gịrkawaːččinni        uːlisali,       ńumarladʒin!
 \mb hiː =kkE asatkan bi -R(E)   -nrI ọːn nasakụ -Č   gịrka -WEːČ -DʒI -nrI ulica    -(dU)LI ńumarladʒin 
-\ps pron     n       v               pron adj         v                     n                excl        
+\ps pron     n       v               pron adj         v                     n                interj        
 \ge 2sg =ptl girl    be -nonfut -2sg how torn   -ins walk  -gnr  -fut -2sg street.R -prol   how.shameful
 
 \ft "You are a girl, aren't you, how will you walk in torn (clothes) in the streets, how shameful!".

@@ -571,7 +571,7 @@ passengers, so being able to take several passengers at once
 \id beseda_0049
 \tx Mmm, GUP.                       Adị    bej họːjakieːgụ?
 \mb mm  GUP                        adịː     bej họːja =kE   =GU
-\ps excl n                          ?        n   quant          
+\ps interj n                          ?        n   quant          
 \ge mhm state.unitary.enterprise.R how.much man many  =emph =q 
 
 \ft Mm, GUP. How many people, if are there a lot?
@@ -669,7 +669,7 @@ ičukenemi; ičukenemi = poexali pokazyvajasja; ičukemi = pokazyvaja, just the 
 \id beseda_0057
 \tx Hin     ịbga   erew      erew      ịlaːndụ  ịbga   ọːča       nọŋan, goːlie?        (mmm) Tar.
 \mb sin     ịbgọ erek -W   erek -W   ịlaːn -DU  ịbgọ ọː     -čE     nọŋan goːn -LI      mm  tarak
-\ps ptl     ?    pron      pron      n          ?    v              pron  v             excl pron 
+\ps ptl     ?    pron      pron      n          ?    v              pron  v             interj pron 
 \ge a.bit.Y good prox -acc prox -acc moon  -dat good become -pf.ptc 3sg   say  -imp.2sg mhm dist 
 \ft She became a little bit better in this month, isn't she?
 \ru Немного получше в этом месяце хорошая она стала, да? Вот. (ей стало получше)
@@ -779,7 +779,7 @@ ičukenemi; ičukenemi = poexali pokazyvajasja; ičukemi = pokazyvaja, just the 
 \id beseda_0066
 \tx Mm  ọbdụčadʒịn,              ee?
 \mb mm  ọbdụ         -čE     -DʒI -n(I) ee
-\ps excl v                               interj
+\ps interj v                               interj
 \ge mhm become.tired -pf.ptc -fut -3sg  eh
 \ft Maybe she got tired, didn't she?
 \ru Наверно, устала?
@@ -1030,7 +1030,7 @@ ičukenemi; ičukenemi = poexali pokazyvajasja; ičukemi = pokazyvaja, just the 
 \tx Ọːkọ?
 \mb ọːk  -E   
 \ps pron      
-\ge when -excl
+\ge when -interj
 \ft When?
 \ph ọːkọ -- monosyllabic words often get a vowel at the end.
 \ru Когда?
@@ -1226,7 +1226,7 @@ the long initial vowel of ọːn; and I'm not sure yet about the different parti
 \id beseda_0103
 \tx Mm, čọŋkọdʒịl.
 \mb mm  čọŋka -DʒI -L 
-\ps excl v             
+\ps interj v             
 \ge mhm dig   -fut -pl
 \ft They will dig.
 \ph
@@ -1252,7 +1252,7 @@ the long initial vowel of ọːn; and I'm not sure yet about the different parti
 \tx Hagarakie            čajdaddịwụ.
 \mb hagar    -(h)E =kE   čaj   -DE -D    -RI       -W       
 \ps v                    v                                  
-\ge be.noisy -excl =emph tea.R -vr -prog -impf.ptc -poss.1sg
+\ge be.noisy -interj =emph tea.R -vr -prog -impf.ptc -poss.1sg
 
 \ft My loud tea trinking (I drink tea very loudly).
 \ru Мое громкое чаепитие (громко я чай пью).
@@ -1365,8 +1365,8 @@ but it was postponed for a week.
 \id beseda_0114
 \tx Alatlị      go,   Trofimowna Mašaw     ukčeneddem.
 \mb alat -LI      ge    Trofimowna Maša  -W   ukčen -E  -D    -R(E)   -m  
-\ps v             excl  ?          n          v                           
-\ge wait -imp.2sg exclm Trofimovna Masha -acc tell  -ep -prog -nonfut -1sg
+\ps v             interj  ?          n          v                           
+\ge wait -imp.2sg interjm Trofimovna Masha -acc tell  -ep -prog -nonfut -1sg
 \ft Wait, I'tm elling about Masha Trofimovna.
 \ru Подожди, я рассказываю о Маше Трофимовне.
 \ELANBegin 00:03:30.498
@@ -1519,7 +1519,7 @@ but it was postponed for a week.
 \tx Emie   ọmọlgọw,  baːja.
 \mb emie   ọmọlga -W   baː      -(h)E
 \ps adv    n           v             
-\ge also.Y boy    -acc not.want -excl
+\ge also.Y boy    -acc not.want -interj
 
 \ft Again a boy, that's boring.
 \ru Опять мальчика, тоска.
@@ -1896,8 +1896,8 @@ but it was postponed for a week.
 \id beseda_0161
 \tx Go,   "Nọːd ahị" tala          ịan...      ịan..       emnen              ọŋkọ...
 \mb ge    nọːd   asị   tarak -(dU)LE ịa      -n(I) ịa      -n(I) em   -R(E)   -n(I) ọŋkọ
-\ps excl  adj    n     pron          v             v             v                  ptl 
-\ge exclm pretty woman dist  -loc    do.what -3sg  do.what -3sg  come -nonfut -3sg  ptl 
+\ps interj  adj    n     pron          v             v             v                  ptl 
+\ge interjm pretty woman dist  -loc    do.what -3sg  do.what -3sg  come -nonfut -3sg  ptl 
 
 \ft Look, the "Pretty woman" contest has already come.
 \ph
@@ -2285,7 +2285,7 @@ hawdịptan -- on podvergsja stareniju... ne upotrebljaetsja, kogo staritj?
 \id beseda_0194
 \tx Mm, tarịt? ọːn goːnni?
 \mb mm  tarịt ọːn goːn -n(I)    
-\ps excl adv   pron v             
+\ps interj adv   pron v             
 \ge mhm then  how say  -poss.3sg
 \ft Mhm, what did she say then?
 \ru Потом, что сказала?
@@ -4141,7 +4141,7 @@ be herdeŋmen.  Herdewen is a hybrid form.
 \id beseda_0347
 \tx Mm, ịak?
 \mb mm  ịak 
-\ps excl pron
+\ps interj pron
 \ge mhm what
 \ft What?
 \ru Что?
@@ -6529,8 +6529,8 @@ take place), or whether it was "about to take place", and she agreed that it was
 \id beseda_0543
 \tx biden                  go
 \mb bi -DE       -n(I)     ge   
-\ps v                      excl 
-\ge be -purp.cvb -poss.3sg exclm
+\ps v                      interj 
+\ge be -purp.cvb -poss.3sg interjm
 
 \ft let it be
 \ru пусть будет
@@ -6577,7 +6577,7 @@ speaker is not a witness, or it wasn't because of the speaker, but it seems as i
 \id beseda_0547
 \tx mhm, tarịt?
 \mb mhm tarịt
-\ps excl adv  
+\ps interj adv  
 \ge mhm then 
 
 \ru потом
@@ -6602,8 +6602,8 @@ speaker is not a witness, or it wasn't because of the speaker, but it seems as i
 \id beseda_0549
 \tx Tar   Nịrgịndụla   iːŋenni           go,   bejen               "tala         iːdʒim"        goːnni.
 \mb tarak Nịrgịn -(dU)LE iː    -ŋE      -nrI ge    bej    -E  -n(I)     tarak -(dU)LE iː    -DʒI -m   goːn -n(I)
-\ps pron  n              v                   excl  pron                 pron          v               v         
-\ge dist  Nirgin -loc    enter -pol.imp -2sg exclm self.Y -ep -poss.3sg dist  -loc    enter -fut -1sg say  -3sg 
+\ps pron  n              v                   interj  pron                 pron          v               v         
+\ge dist  Nirgin -loc    enter -pol.imp -2sg interjm self.Y -ep -poss.3sg dist  -loc    enter -fut -1sg say  -3sg 
 
 \ft Then I said "enter into Nirgin" and she herself said "I'll enter".
 \ru потом я сказала чтобы она в Ниргин поступила и она сама сказала туда войду
@@ -6700,7 +6700,7 @@ speaker is not a witness, or it wasn't because of the speaker, but it seems as i
 \tx ajụːja
 \mb ajụːja
 \ps interj
-\ge excl.Y
+\ge interj.Y
 
 \ru больно
 \ELANBegin 00:16:33.630
@@ -6722,7 +6722,7 @@ speaker is not a witness, or it wasn't because of the speaker, but it seems as i
 \id beseda_0560
 \tx mm  rukovoditel'
 \mb mm  rukovoditel'
-\ps excl n           
+\ps interj n           
 \ge mhm director.R  
 \ft the director
 \ru
@@ -7932,7 +7932,7 @@ can you not keep them apart"
 \id beseda_0662
 \tx Mm, tala
 \mb mm  tarak -(dU)LE
-\ps excl pron         
+\ps interj pron         
 \ge mhm dist  -loc   
 \ft there
 \ru
@@ -9019,8 +9019,8 @@ incorrect
 \id beseda_0753
 \tx Go,   ọːn goːndʒip?
 \mb ge    ọːn goːn -DʒI -p     
-\ps excl  pron v                
-\ge exclm how say  -fut -1pl.in
+\ps interj  pron v                
+\ge interjm how say  -fut -1pl.in
 
 \ft well, what will we say?
 \ru ну как/что скажем?
@@ -9879,7 +9879,7 @@ having two holidays in such short sequence
 \tx Ahị ịamman       ịadʒịp           gurgewčidʒip            ọbdụhake.
 \mb asị   ịadman         ịa      -DʒI -p      gurgeːwči -DʒI -p      ọbda      -(h)E =kE  
 \ps n     adv            v                    v                      v                    
-\ge woman to.what.extent do.what -fut -1pl.in work      -fut -1pl.in get.tired -excl =emph
+\ge woman to.what.extent do.what -fut -1pl.in work      -fut -1pl.in get.tired -interj =emph
 
 \ft How much will we women work, until exhaustion
 \gr ịadman = "skol'ko možno"
@@ -11787,7 +11787,7 @@ goːŋekko = a čto mne skazat'? goːŋegu = skazat' li mne?"
 \tx bide      nọːdamčụ             dʒiŋinen baːja         ọl_gïnan
 \mb biː =DE  nọːda -mč(I) -W        dʒiŋinen   baː      -(h)E ol_gïnan_baran
 \ps pron     v                      adv        v              conj          
-\ge 1sg =ptl throw -sbjv  -poss.1sg in.truth.Y not.want -excl but.Y         
+\ge 1sg =ptl throw -sbjv  -poss.1sg in.truth.Y not.want -interj but.Y         
 
 \ft I could also throw, actually, but I don't feel like it
 \ft
@@ -11879,7 +11879,7 @@ above')
 \id beseda_0994
 \tx Mhm, teːmi    goːnem.
 \mb mhm teːmi     goːn -R(E)   -m  
-\ps excl conj      v                
+\ps interj conj      v                
 \ge mhm therefore say  -nonfut -1sg
 \ft that's why I say
 \ph
@@ -11905,7 +11905,7 @@ above')
 \id beseda_0996
 \tx mhm, tačịn       ọːča       biwrem.
 \mb mhm tarọːčịn  ọː     -čE     bi -Gr(E) -m  
-\ps excl pron      v              v             
+\ps interj pron      v              v             
 \ge mhm dist.qual become -pf.ptc be -hab   -1sg
 \ft I become like that (such a one)
 \ru такой я становлюсь
@@ -12138,7 +12138,7 @@ iz nix, iz zhenshin, kto brosil" i.e. with the women being just a separate expla
 \tx maŋakieː?
 \mb maŋ     -(h)E =kE  
 \ps v                  
-\ge be.hard -excl =emph
+\ge be.hard -interj =emph
 
 \ft very hard?
 \ph
@@ -12784,7 +12784,7 @@ also Burtsev_ID_traditions_54-63)
 \tx "Ịaw     maːčadʒịl?        dʒebeme"            goːnteken
 \mb ịak  -W   maː  -čE     -DʒI -L  dʒep -E  -m   -(h)E goːn -ntEkEn  
 \ps pron      v                     v                   v             
-\ge what -acc kill -pf.ptc -fut -pl eat  -ep -des -excl say  -mult.cvb
+\ge what -acc kill -pf.ptc -fut -pl eat  -ep -des -interj say  -mult.cvb
 
 \ft saying "what might they have killed? I'm hungry!"
 \ph
@@ -13796,7 +13796,7 @@ the coat; hakaːstaː is a Russian copy (from zakazat') in Sakha and was then co
 \id beseda_1143
 \tx mhm, uručen
 \mb mhm ureːčin 
-\ps excl ?       
+\ps interj ?       
 \ge mhm it.seems
 
 \ru кажется
@@ -14136,7 +14136,7 @@ Segen-Kuel when the flood happened and it got swept away
 \tx nimere!
 \mb nimer          -(h)E
 \ps v                   
-\ge be.frightening -excl
+\ge be.frightening -interj
 
 \ft frightening!
 \ph
@@ -14379,7 +14379,7 @@ hibiennet- is "someone makes you see a ghost"
 \tx nimere,              goːli,        bụlịhị,   ee?
 \mb nimer          -(h)E goːn -LI      bụl  -E  -(h)E ee
 \ps v                    v             v              interj
-\ge be.frightening -excl say  -imp.2sg pity -ep -excl eh
+\ge be.frightening -interj say  -imp.2sg pity -ep -interj eh
 
 \ft frightening, hey, and a pity
 \ru страшно, скажи, жалко, да
@@ -14391,7 +14391,7 @@ hibiennet- is "someone makes you see a ghost"
 \tx bụlịhị
 \mb bụl  -E  -(h)E
 \ps v             
-\ge pity -ep -excl
+\ge pity -ep -interj
 
 \ft a pity
 \ru
@@ -14889,11 +14889,11 @@ horehmem = voobshe xochu; so there is a meaning of desire, but the "gotovnostj s
 \tx Oo nimere
 \mb oo nimer          -(h)E
 \ps interj v                   
-\ge oh be.frightening -excl
+\ge oh be.frightening -interj
 
 \ft oh, frightening
 \ph
-\gr nimere (with the exclamative suffix) and nimehri (the imperfective participle of nimer-) have the same meaning, no difference
+\gr nimere (with the interjamative suffix) and nimehri (the imperfective participle of nimer-) have the same meaning, no difference
 \ru о страшно
 \ELANBegin 00:36:11.020
 \ELANEnd 00:36:11.570
@@ -14914,7 +14914,7 @@ horehmem = voobshe xochu; so there is a meaning of desire, but the "gotovnostj s
 \tx nimere
 \mb nimer          -(h)E
 \ps v                   
-\ge be.frightening -excl
+\ge be.frightening -interj
 \ft frightening
 \ru страшно
 \ELANBegin 00:36:11.745
@@ -16462,7 +16462,7 @@ same generic meaning, they can be exchanged
 \id beseda_1359
 \tx mm, tačịn
 \mb mm  tarọːčịn 
-\ps excl pron     
+\ps interj pron     
 \ge mhm dist.qual
 \ft that's right
 \ru
@@ -16901,7 +16901,7 @@ saying something completely different
 \tx Ehem             dʒebgerer            bi,  ịdarakeː
 \mb e   -R(E)   -m   dʒep -Gr(E) -R       biː ịdar    -(h)E =kE  
 \ps v                v                    pron ?                  
-\ge neg -nonfut -1sg eat  -hab   -neg.cvb 1sg be.sour -excl =emph
+\ge neg -nonfut -1sg eat  -hab   -neg.cvb 1sg be.sour -interj =emph
 
 \ft I don't eat (kiwi), they're very sour
 \ru я не ем, очень кисло
@@ -17123,7 +17123,7 @@ Yermak, but assumed it must be one of these brothers
 
 \ft he was buying pelmeni, bliny, very important
 \ph
-\gr 280312: baznaja - this is NOT the exclamative, just važnyj with the emphatic vowel
+\gr 280312: baznaja - this is NOT the interjamative, just važnyj with the emphatic vowel
 \ru он пельмени, блины что-то делал (покупал) очень важный
 \ELANBegin 00:42:40.370
 \ELANEnd 00:42:42.760
@@ -18081,8 +18081,8 @@ come to arrange a match between LNZ and Pogo Kesha, and that is probably why he 
 \id beseda_1493
 \tx "Ee, go,   mut    tụrkịt             ịlgamaddan                  tar,  egdʒem...
 \mb ee ge    mut    tụrkị -t(I)        ịlgam -E  -D    -R(E)   -n(I) tarak egdʒen -W  
-\ps interj excl  pron   n                  v                             pron  adj        
-\ge eh exclm 1pl.in sled  -poss.1pl.in stand -ep -prog -nonfut -3sg  dist  big    -acc
+\ps interj interj  pron   n                  v                             pron  adj        
+\ge eh interjm 1pl.in sled  -poss.1pl.in stand -ep -prog -nonfut -3sg  dist  big    -acc
 \ft "yes, well, our sled is standing here, big..."
 \ph
 \gr the accusative case on egdʒen indicates that she meant to say something more
@@ -18216,7 +18216,7 @@ matchmaking then - he was old then (after all, this took place one or two years 
 \id beseda_1504
 \tx mm, goːli?
 \mb mm  goːn -LI     
-\ps excl v            
+\ps interj v            
 \ge mhm say  -imp.2sg
 \ft
 \nt here, the intonation says it all
@@ -18254,7 +18254,7 @@ matchmaking then - he was old then (after all, this took place one or two years 
 \tx ńamakeː           dʒụːdụ
 \mb ńam     -(h)E =kE   dʒụː  -DU 
 \ps ?                   n         
-\ge be.warm -excl =emph house -dat
+\ge be.warm -interj =emph house -dat
 \ft in a nice warm house
 \ru в теплом доме
 \ELANBegin 00:45:41.240
@@ -18265,7 +18265,7 @@ matchmaking then - he was old then (after all, this took place one or two years 
 \tx baːja
 \mb baː      -(h)E
 \ps v             
-\ge not.want -excl
+\ge not.want -interj
 
 \ft I don't want
 \ru не хочу
@@ -18526,7 +18526,7 @@ matchmaking then - he was old then (after all, this took place one or two years 
 \tx Ụlakjaw?
 \mb ụl   -E  -B   -(h)E -W  
 \ps v                       
-\ge soak -ep -med -excl -acc
+\ge soak -ep -med -interj -acc
 
 \ft wet ones?
 \ru
@@ -18653,7 +18653,7 @@ matchmaking then - he was old then (after all, this took place one or two years 
 \tx biː ịak naːda, mi... ọlọx...  ọlgọ   .. ụlụkj...        ịak bihin?
 \mb biː ịak  nado   ọlọx         ọlga    -(h)E ụl   -E  -B   -(h)E ịak  bi -RI  -n(I)    
 \ps pron pron v      adv          v             v                   pron v                
-\ge 1sg what need.R completely.Y dry.out -excl soak -ep -med -excl what be -pst -poss.3sg
+\ge 1sg what need.R completely.Y dry.out -interj soak -ep -med -interj what be -pst -poss.3sg
 
 \ft what do I need.... dry.... wet.... (firewood), what was there?
 \ph
@@ -18691,7 +18691,7 @@ matchmaking then - he was old then (after all, this took place one or two years 
 \tx Tar   hebdʒeńe.
 \mb tarak hebdʒeń  -(h)E
 \ps pron  v             
-\ge dist  be.funny -excl
+\ge dist  be.funny -interj
 \ft that's funny
 \ph
 \nt she just says this, it's just a habit, there is nothing really funny here
@@ -18925,7 +18925,7 @@ zhe ponimaet chto eto ne so zla" - which would imply that it IS hurtful to say t
 \tx Lagerla        emie   delbi... Ajoː_aja.
 \mb lager  -(dU)LE emie   delbi  ajụːja
 \ps n              adv    adv    interj
-\ge camp.R -loc    also.Y very.Y excl.Y
+\ge camp.R -loc    also.Y very.Y interj.Y
 
 \ft in the (summer) camp as well
 \ph
@@ -18981,7 +18981,7 @@ zhe ponimaet chto eto ne so zla" - which would imply that it IS hurtful to say t
 \tx hebdʒeńe      irek  tarak
 \mb hebdʒeń  -(h)E irek  tarak
 \ps v              pron  pron 
-\ge be.funny -excl which dist 
+\ge be.funny -interj which dist 
 
 \ft funny, this and that
 \ru смешно, всякое
@@ -19117,7 +19117,7 @@ causative suffixes; baγas - Sakha word, usilivaet, intensifies, emphasizes the 
 \tx bụlịhịkeː      kojekkeren
 \mb bụl  -E  -(h)E =kE   kojeːt  -Gr(E) -n(I)
 \ps v                    v                   
-\ge pity -ep -excl =emph look.at -hab   -3sg 
+\ge pity -ep -interj =emph look.at -hab   -3sg 
 \ft she looked at (things) so pitifully
 \ph
 \ru она жалостливо смотрела
@@ -19210,7 +19210,7 @@ causative suffixes; baγas - Sakha word, usilivaet, intensifies, emphasizes the 
 \tx "Muttule       ačča tarbačan      gọrakeːla           bihni,          ụlakjal"              goːniken.
 \mb mut    -(dU)LE ačča tarọːčịn  gọrụ =kE   -(dU)LE bi -R(E)   -n(I) ụl   -E  -B   -(h)E -L  goːn -nIkEn  
 \ps pron           ptl  pron      n                  v                v                       v            
-\ge 1pl.in -loc    neg  dist.qual far  =emph -loc    be -nonfut -3sg  soak -ep -med -excl -pl say  -sim.cvb
+\ge 1pl.in -loc    neg  dist.qual far  =emph -loc    be -nonfut -3sg  soak -ep -med -interj -pl say  -sim.cvb
 
 \ft "We don't have (wood) like that, it's very far, and not dry".
 \ph
@@ -19224,7 +19224,7 @@ causative suffixes; baγas - Sakha word, usilivaet, intensifies, emphasizes the 
 \tx Tembekje,         goːli,        Hakkịrịr but... egdʒekiemeje.
 \mb temben      -(h)E goːn -LI      Sakkyryyr egdʒen =kE   -mEjE
 \ps v                 v             ?         adj               
-\ge become.soft -excl say  -imp.2sg Sakkyryyr big    =emph -aug 
+\ge become.soft -interj say  -imp.2sg Sakkyryyr big    =emph -aug 
 
 \ft very soft, right, in Sakkyryyr the big!
 \ph but - maybe wanted to say butunnu
@@ -19868,7 +19868,7 @@ many places, vo mnogix mestax xoditj
 \tx Biː mehejekie               ele          tewrem                uručen.
 \mb biː mehej       -(h)E =kE   erek -(dU)LE teg      -R(E)   -m   ureːčin 
 \ps pron v                       pron         v                     ?       
-\ge 1sg interfere.Y -excl =emph prox -loc    sit.down -nonfut -1sg it.seems
+\ge 1sg interfere.Y -interj =emph prox -loc    sit.down -nonfut -1sg it.seems
 \ft I sat down here very unfortunately (I am in the way), it seems
 \ru я так неудобно сюда села кажется
 \ELANBegin 00:50:05.130
@@ -19923,7 +19923,7 @@ many places, vo mnogix mestax xoditj
 \tx hebdʒeńe,     goːli?        Ọŋọtụ        ụtọndʒịddan.
 \mb hebdʒeń  -(h)E goːn -LI      ọŋọt -W        ụtọn -D    -R(E)   -n(I)
 \ps v              v             n              v                       
-\ge be.funny -excl say  -imp.2sg nose -poss.1sg itch -prog -nonfut -3sg 
+\ge be.funny -interj say  -imp.2sg nose -poss.1sg itch -prog -nonfut -3sg 
 
 \ft it's funny, isn't it? my nose is itching
 \ph
@@ -20155,7 +20155,7 @@ flu that's going round
 \tx hebdʒeńe
 \mb hebdʒeń  -(h)E
 \ps v             
-\ge be.funny -excl
+\ge be.funny -interj
 \ft funny
 \ru
 \ELANBegin 00:51:03.185
@@ -20787,8 +20787,8 @@ anymore
 \id beseda_1710
 \tx Go    taraw      ịalị...
 \mb ge    tarak -W   ịa      -LI     
-\ps excl  pron       v               
-\ge exclm dist  -acc do.what -imp.2sg
+\ps interj  pron       v               
+\ge interjm dist  -acc do.what -imp.2sg
 \ft well you do something that
 \ru ну это что-то делай
 \ELANBegin 00:52:12.420
@@ -21261,8 +21261,8 @@ Ksjušadụk ịahụli = you'll take, borrow from her, Ksjušadụ ịahụli =
 \id beseda_1748
 \tx Ịmmakie.    Go,   emessoden.
 \mb hịnma =kE   ge    em   -E  -ssO -DE       -n(I)    
-\ps ?           excl  v                                
-\ge fast  =emph exclm come -ep -dur -purp.cvb -poss.3sg
+\ps ?           interj  v                                
+\ge fast  =emph interjm come -ep -dur -purp.cvb -poss.3sg
 
 \ft very fast, oh well, let it keep on coming
 \ph
@@ -21349,7 +21349,7 @@ Ksjušadụk ịahụli = you'll take, borrow from her, Ksjušadụ ịahụli =
 \id beseda_1755
 \tx ukčenmettiw                tarịt dʒọmkattakụ,              bi   bejude...             mm... goːli?
 \mb ukčen -mEČ -RI  -W        tarịt dʒọmkat -REk      -W        biː bej    -W        =DE  mm  goːn -LI     
-\ps v                         adv   v                           pron pron                  excl v            
+\ps v                         adv   v                           pron pron                  interj v            
 \ge tell  -rec -pst -poss.1sg then  think   -cond.cvb -poss.1sg 1sg self.Y -poss.1sg =ptl mhm say  -imp.2sg
 
 \ft talked (with her), then as I think, I could (do it) myself, right?
@@ -21638,8 +21638,8 @@ Ksjušadụk ịahụli = you'll take, borrow from her, Ksjušadụ ịahụli =
 \id beseda_1780
 \tx Go,   biden..
 \mb ge    bi -DE       -n(I)    
-\ps excl  v                     
-\ge exclm be -purp.cvb -poss.3sg
+\ps interj  v                     
+\ge interjm be -purp.cvb -poss.3sg
 \ft well, so be it
 \ru ну пусть
 \ELANBegin 00:53:50.105
@@ -23161,7 +23161,7 @@ lasso-throwing competition (1004)
 \tx "Oo, biː ọːn haldʒụha          talị,       ńoːdʒim"      goːjeːdʒi.
 \mb oo biː ọːn haldʒụ         -(h)E tarak -(dU)LI ńoː  -DʒI -m   goːn -jEː -DʒI        
 \ps interj pron pron v                    pron          v              v                     
-\ge oh 1sg how be.embarrassed -excl dist  -prol   exit -fut -1sg say  -aug -ins.prfl.sg
+\ge oh 1sg how be.embarrassed -interj dist  -prol   exit -fut -1sg say  -aug -ins.prfl.sg
 
 \ft "Oh, how will I go out there, how embarrassing", he said
 \ru о как я стыдно там выйду, говоря
@@ -23209,7 +23209,7 @@ then switched to Demjan
 \tx Ịak haldʒụhalkan?
 \mb ịak  haldʒụ         -(h)E -lkEn
 \ps pron v                         
-\ge what be.embarrassed -excl -prop
+\ge what be.embarrassed -interj -prop
 
 \ft what's embarrassing?
 \ru что там стыдного
@@ -23814,7 +23814,7 @@ care about the difference between sg and pl verb forms)
 \tx herkendʒin            hni,           haldʒụha          goːjeːdʒi...
 \mb herken     -DʒI -n(I) e   -R(E) -n(I) haldʒụ         -(h)E goːn -jEː -DʒI        
 \ps v                     v               v                    v                     
-\ge be.ashamed -fut -3sg  neg -nfut -3sg  be.embarrassed -excl say  -aug -ins.prfl.sg
+\ge be.ashamed -fut -3sg  neg -nfut -3sg  be.embarrassed -interj say  -aug -ins.prfl.sg
 
 \ft he'll be shy, will say "it's embarrassing"
 \ru он же будет стесняться, скажет стыдно
@@ -23933,8 +23933,8 @@ care about the difference between sg and pl verb forms)
 \id beseda_1970
 \tx Ee, dʒe,  goːli         go
 \mb ee dʒe    goːn -LI      ge   
-\ps interj ptl    v             excl 
-\ge eh well.Y say  -imp.2sg exclm
+\ps interj ptl    v             interj 
+\ge eh well.Y say  -imp.2sg interjm
 \ft well, go tell them (that it's enough)
 \ph
 \ru ну давай скажи-ка
@@ -23959,8 +23959,8 @@ care about the difference between sg and pl verb forms)
 \id beseda_1972
 \tx dọlbụrap,       kụŋada    họŋịmọllọn.         Goːli         go.
 \mb dọlbanị -(E)rEp kụŋa  =DE  họŋ -E  -mEl -R(E)   -n(I) goːn -LI      ge   
-\ps n               n          v                          v             excl 
-\ge night   -adjr   child =ptl cry -ep -des -nonfut -3sg  say  -imp.2sg exclm
+\ps n               n          v                          v             interj 
+\ge night   -adjr   child =ptl cry -ep -des -nonfut -3sg  say  -imp.2sg interjm
 
 \ft we're late, and the child is about to cry, go on, tell them
 \ru припозднились и ребенок уже готов заплакать, скажи давай
@@ -23996,8 +23996,8 @@ care about the difference between sg and pl verb forms)
 \id beseda_1975
 \tx Go    ịmmat,     ọhọkọt,             tọgọt              bütünniː  hiːwren
 \mb ge    hịnma -Č   ọhọk    -E  -t(I)        tọg  -E  -t(I)        bütünnüː   hiːw   -R(E)   -n(I)
-\ps excl  n          n                        n                     ?          v                   
-\ge exclm fast  -ins stove.Y -ep -poss.1pl.in fire -ep -poss.1pl.in entirely.Y go.out -nonfut -3sg 
+\ps interj  n          n                        n                     ?          v                   
+\ge interjm fast  -ins stove.Y -ep -poss.1pl.in fire -ep -poss.1pl.in entirely.Y go.out -nonfut -3sg 
 \ft well, quickly, our stoves have completely gone out
 \ru ну давай, печка, огонь наш все погасла
 \ELANBegin 00:58:42.738
@@ -24124,7 +24124,7 @@ care about the difference between sg and pl verb forms)
 \tx Baːjake,            ọːk...
 \mb baː      -(h)E =kE   ọːk 
 \ps v                    pron
-\ge not.want -excl =emph when
+\ge not.want -interj =emph when
 \ft I'm fed up, when...
 \ru лень, когда
 \ELANBegin 00:59:03.600
@@ -24134,8 +24134,8 @@ care about the difference between sg and pl verb forms)
 \id beseda_1986
 \tx Go    ọdkịt..
 \mb ge    ọd   -kIt      
-\ps excl  v              
-\ge exclm stop -imprs.nec
+\ps interj  v              
+\ge interjm stop -imprs.nec
 
 \ft well, it's time to finish
 \ph
@@ -24543,7 +24543,7 @@ was the head of studies ("zavuč") at the school)
 \id beseda_2018
 \tx Aha, Klimkaw         taŋmị        uže      adịː  ọːdʒin.
 \mb aha Klimka     -W   taŋ   -mI       uže       adịː     ọː     -DʒI -n(I)
-\ps excl n               v               adv       ?        v                
+\ps interj n               v               adv       ?        v                
 \ge aha Klim.dim.R -acc count -cond.cvb already.R how.much become -fut -3sg 
 
 \ft yes, and if one counts Klimka that will already be how much

@@ -310,7 +310,7 @@ bekeččemụtnen or čemodalbị bekeččemen.
 \tx "Ịadaj                   eːriris,            tarak mụlańake           asatkan ile           herren,"         --
 \mb ịa      -DE       -J       eːri -RI  -s(I)     tarak mụlań     -(h)E =kE   asatkan irek  -(dU)LE hor -R(E)   -n(I) -*
 \ps v                          v                   pron  v                     n       pron          v                   
-\ge do.what -purp.cvb -prfl.sg call -pst -poss.2sg dist  feel.pity -excl =emph girl    which -loc    go  -nonfut -3sg  - 
+\ge do.what -purp.cvb -prfl.sg call -pst -poss.2sg dist  feel.pity -interj =emph girl    which -loc    go  -nonfut -3sg  - 
 
 \tx goːniken.
 \mb goːn -nIkEn  
@@ -345,12 +345,12 @@ It seems not to be obligatory (there is no e in the text, but Ija said it could 
 \tx Ile           biː emnem,            badʒịkar, hatarhị-ee          badʒịkar, tara, ịak, ehni
 \mb irek  -(dU)LE biː em   -R(E)   -m   badʒịkar hatarsị -E    -E    badʒịkar tarak ịak  e   -R(E)   -n(I)
 \ps pron          pron v                 n        ?                   n        pron  pron v                
-\ge which -loc    1sg come -nonfut -1sg morning  dark    -excl -excl morning  dist  what neg -nonfut -3sg 
+\ge which -loc    1sg come -nonfut -1sg morning  dark    -interj -interj morning  dist  what neg -nonfut -3sg 
 
 \tx goːlie              ńamgịda tor   --  juk,    tala,         hatarsị dọlbanịl       ehni.
 \mb goːn -LI      -E    ńam  -gIdE tor   -* jug     tarak -(dU)LE hatarsị dọlbanị -E  -L  e   -R(E)   -n(I)    
 \ps v                   adj        n        n       pron          ?       n               v                    
-\ge say  -imp.2sg -excl warm -part earth -  South.R dist  -loc    dark    night   -ep -pl neg -nonfut -poss.3sg
+\ge say  -imp.2sg -interj warm -part earth -  South.R dist  -loc    dark    night   -ep -pl neg -nonfut -poss.3sg
 
 \ft I came in the morning, it was very dark, really, it's a warm side, in the south nights are dark.
 \ph hataraki -- hatarhi talaːːː
@@ -597,7 +597,7 @@ how the found the street.
 \id Stepanova_ZA_arrival_Tashkent_035
 \tx Tara  asatkan taraw      emuddeŋmen:                           "Aaaa!"
 \mb tarak asatkan tarak -W   em   -U    -DEŋ     -W   -E  -n(I)     aa
-\ps pron  n       pron       v                                      excl
+\ps pron  n       pron       v                                      interj
 \ge dist  girl    dist  -acc come -caus -pst.ptc -acc -ep -poss.3sg ah
 
 \ft Thia woman ...... "Aaaa!"
@@ -691,7 +691,7 @@ Stepanova_ZA_arrival_Tashkent_044 dʒụː beketčenni "vesj dom"
 \id Stepanova_ZA_arrival_Tashkent_042
 \tx Dʒe   tala,         ọːkkọl   haːdaŋị            bejgečin     eri ịakkụl   mm  bejel
 \mb dʒe    tarak -(dU)LE ọːk  =(W)Ul haː  -DEŋ     -J       bej -G(E)čIn ịak  =(W)Ul mm  bej -E  -L 
-\ps ptl    pron          pron        v                      n            pron        excl n          
+\ps ptl    pron          pron        v                      n            pron        interj n          
 \ge well.Y dist  -loc    when =indef know -pst.ptc -prfl.sg man -sml     what =indef mhm man -ep -pl
 
 \tx dʒaːlgačịmị,             tarak asị oreldetnieː.
@@ -735,7 +735,7 @@ Stepanova_ZA_arrival_Tashkent_044 dʒụː beketčenni "vesj dom"
 \tx beketčenni            hagarakie            oo. [laughter]
 \mb bekeč -čEn -n(I)     hagar    -(h)E =kE   oo laughter
 \ps adv                  v                    interj ?       
-\ge all   -dim -poss.3sg be.noisy -excl =emph oh laughter
+\ge all   -dim -poss.3sg be.noisy -interj =emph oh laughter
 
 \ft "Zoja, she said, at the end!" she said, she was  very happy, her mother, it became very loud in the whole house.
 \ph ereldetni
