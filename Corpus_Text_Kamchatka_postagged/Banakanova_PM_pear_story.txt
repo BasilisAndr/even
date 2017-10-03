@@ -85,12 +85,12 @@ third basket.
 \ge again child -dim   boy  -dim   bicycle.R -ep -ins
 
 \tx emnin,              nan    gịaŋon
-\mb em   -RI  -n(I)     ńaːn  gịa   -ŋ   -on       
+\mb em   -RI  -n(I)     ńaːn  gịa   -ŋ   -Con       
 \ps v                   ?     ?                    
 \ge come -pst -poss.3sg again other -aln -acc.3sg??
 
 \tx korzinawan                 miltereːw     grušaŋon
-\mb korzina  -W   -E  -n(I)     miltereː -W   gruša  -ŋ   -on       
+\mb korzina  -W   -E  -n(I)     miltereː -W   gruša  -ŋ   -Con       
 \ps n                           adj           n                     
 \ge basket.R -acc -ep -poss.3sg full     -acc pear.R -aln -acc.3sg??
 
@@ -675,7 +675,7 @@ Russian word for 'tree'. Also, the form Polina Mixajlovna gave
 \ge observe -ep -prog -pst -poss.3pl still
 
 \tx dʒọrmịsandawụr                 grušaŋon.
-\mb dʒọrọm -s(E)n -DE       -WUr     gruša  -ŋ   -on       
+\mb dʒọrọm -s(E)n -DE       -WUr     gruša  -ŋ   -Con       
 \ps v                                n                     
 \ge steal  -lim   -purp.cvb -prfl.pl pear.R -aln -acc.3sg??
 

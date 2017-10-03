@@ -1065,8 +1065,8 @@ statements
 
 \tx dʒulep       ịaw      dʒọnịkan,  ulgimin...
 \mb dʒul  -(E)rEp ịak  -W   dʒọn     -nIkEn     ulgim -i
-\ps rel.n         pron      v                   ?
-\ge front -adjr   what -acc remember -sim.cvb ask ?     -ipf???
+\ps rel.n         pron      v                   v
+\ge front -adjr   what -acc remember -sim.cvb   ask   -ipf???
 
 \tx ečimur    ukčemmetniken        haːdụn
 \mb erroːčin  ukčen -mEČ -nIkEn   haːdụn
@@ -1169,7 +1169,7 @@ father, his relatives.
 \ge then  Burtsew come -fut -3sg  dist  -abl
 
 \tx ulgimidʒihne,              nọŋọn      emie   họːjaw
-\mb ulgim -I    -DʒI -sEn      nọŋ -on      emie   họːja -W
+\mb ulgim -I    -DʒI -sEn      nọŋ -Con      emie   họːja -W
 \ps v                          pron         adv    quant
 \ge ask   -ipf? -fut -poss.2pl 3sg -acc.3sg also.Y many  -acc
 

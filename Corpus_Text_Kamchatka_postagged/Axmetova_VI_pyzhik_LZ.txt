@@ -363,7 +363,7 @@ emphasises the intensity of adjectival quality; =mEːk makes much more sense, a 
 \id Axmetova_VI_pyzhik_022
 \ref
 \tx Ịnŋatọn        ataldʒịm         ikutič,         tartakị     eden degelukenden.
-\mb ịnŋat -on        atal     -DʒI -m   ikut     -E  -Č   tarak -t(E)kI eden deg -E  -L    -WkEn -DE       -n(I)    
+\mb ịnŋat -Con        atal     -DʒI -m   ikut     -E  -Č   tarak -t(E)kI eden deg -E  -L    -WkEn -DE       -n(I)    
 \ps n                v                  adv               pron          n    v                                      
 \ge fur   -acc.3sg?? take.off -fut -1sg straight -ep -ins dist  -all    wind fly -ep -inch -caus -purp.cvb -poss.3sg
 
@@ -389,7 +389,7 @@ emphasises the intensity of adjectival quality; =mEːk makes much more sense, a 
 \id Axmetova_VI_pyzhik_024
 \ref
 \tx Tabačịsị dʒuldewen                    boːdelon       er   tože  uːkidʒim.
-\mb tabačịsị dʒul  -gIdE -W   -E  -n(I)     boːdel -on      erek tože   huːki -DʒI -m  
+\mb tabačịsị dʒul  -gIdE -W   -E  -n(I)     boːdel -Con      erek tože   huːki -DʒI -m  
 \ps adv      rel.n                          n               pron ptl    v              
 \ge then     front -part -acc -ep -poss.3sg leg(s) -acc.3sg prox also.R cut   -fut -1sg
 
@@ -440,7 +440,7 @@ emphasises the intensity of adjectival quality; =mEːk makes much more sense, a 
 \id Axmetova_VI_pyzhik_028
 \ref
 \tx Er   gaːdon             ečin      miːnerem.
-\mb erek gaːd       -on      erroːčin  miːne -R(E)   -m  
+\mb erek gaːd       -Con      erroːčin  miːne -R(E)   -m  
 \ps pron ?                   pron      v                 
 \ge prox second.one -acc.3sg prox.qual cut   -nonfut -1sg
 \ps pron n          -***     pron       v      -***    -***
@@ -495,7 +495,7 @@ ego nogu, --> it would seem as if the suffix is -Co
 \id Axmetova_VI_pyzhik_032
 \ref
 \tx Ńaːn, ere  tabačịsị erew      dịlọn miːnedʒim,    ečin.
-\mb ńaːn erek tabačịsị erek -W   dịl  -on  miːne -DʒI -m   ečin     
+\mb ńaːn erek tabačịsị erek -W   dịl  -Con  miːne -DʒI -m   ečin     
 \ps adv  pron adv      pron      n         v               adv      
 \ge and  prox then     prox -acc head -acc cut   -fut -1sg like.this
 

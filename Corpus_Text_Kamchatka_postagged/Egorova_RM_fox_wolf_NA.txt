@@ -75,7 +75,7 @@ volk;
 
 \id Egorova_RM_fox_wolf_005
 \tx Mụnnụkan ụdʒọn      asmịddan.
-\mb mụnrụkan ụdʒ   -on      asmị        -D    -R(E)   -n(I)
+\mb mụnrụkan ụdʒ   -Con      asmị        -D    -R(E)   -n(I)
 \ps n        n              v                              
 \ge hare     track -acc.3sg be.on.track -prog -nonfut -3sg 
 \ft He is on the track of hares.

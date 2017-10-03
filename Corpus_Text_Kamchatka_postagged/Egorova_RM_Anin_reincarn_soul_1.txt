@@ -2408,7 +2408,7 @@ k zhenshine, to li k muzhchine - question, doubt
 \id Egorova_RM_Anin_1_155
 \nt
 \tx Ńanasị       amardawanasị                          ečin      kụŋal    uŋon
-\mb ńaːn -E  =sI   amar -gIdE -W   -E  -n(I)     -E  =sI   erroːčin  kụŋa  -L  uŋ        -on       
+\mb ńaːn -E  =sI   amar -gIdE -W   -E  -n(I)     -E  =sI   erroːčin  kụŋa  -L  uŋ        -Con       
 \ps adv            rel.n                                   pron      n         n                   
 \ge and  -ep =emph last -part -acc -ep -poss.3sg -ep =emph prox.qual child -pl something -acc.3sg??
 
@@ -2474,7 +2474,7 @@ dom podozhgete i zagoritsja; durukendʒikelsen = prosto sozzete;
 \id Egorova_RM_Anin_1_159
 \nt
 \tx Ńan   tačịn       ewiddʒoːttu,              ńan   tačịnda          durukeniwu                ŋaːlọn,
-\mb ńaːn tarọːčịn  ewiː -D    -WEːČ -(R)U   ńaːn tarọːčịn  =DE  dur  -WkEn -RI  -W        ŋaːl -on       
+\mb ńaːn tarọːčịn  ewiː -D    -WEːČ -(R)U   ńaːn tarọːčịn  =DE  dur  -WkEn -RI  -W        ŋaːl -Con       
 \ps adv  pron      v                        adv  pron           v                         n              
 \ge and  dist.qual play -prog -gnr  -1pl.ex and  dist.qual =ptl burn -caus -pst -poss.1sg hand -acc.3sg??
 
@@ -2484,7 +2484,7 @@ dom podozhgete i zagoritsja; durukendʒikelsen = prosto sozzete;
 \ge dist  *** -adjr tip.over -pst -poss.3sg =q  hand -ep -poss.3sg and  burn -pst -poss.3sg
 \ft And so we played like that, and there I burned his hand, (the tin) tipped over and his hand burned.
 \mb
-\gr during some elicitation session she said that the acc.3sg in -on starts with a consonant, the same consonant as the noun
+\gr during some elicitation session she said that the acc.3sg in -Con starts with a consonant, the same consonant as the noun
 ends with - but here I don't here a difference between ŋaːlon and ŋaːlan;; 30.01.13 (question6, 47:00) ŋaːlan durrin =
 ruka obozhglasj, banka durukenin = banka obozhgla ruk; tọgụ dururem, but NOT tọgụ durukenem; you burn objects,
 e.g. stol durukenem, sozhgla, tọg durren = ogonj gorit

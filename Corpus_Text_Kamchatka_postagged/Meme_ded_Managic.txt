@@ -2941,7 +2941,7 @@ like any other?
 
 \id meme_ded_Managič_223
 \tx Tak-to      čego-nibud  maːwaːttụ        nan    vot    naprimer,     ịasalọnda,           golovu,
-\mb tak-to      čego-nibud' maː  -WEːČ -(R)U   ńaːn vot    naprimer      ịašal -on        =DE  golovu    
+\mb tak-to      čego-nibud' maː  -WEːČ -(R)U   ńaːn vot    naprimer      ịašal -Con        =DE  golovu    
 \ps interj      pron        v                  adv  ptl    ptl           n                     n         
 \ge like.this.R something.R kill -gnr  -1pl.ex and  here.R for.example.R eyes  -acc.3sg?? =ptl head.acc.R
 
@@ -2951,7 +2951,7 @@ like any other?
 \ge previously.R that.R here.R 1pl.R hunted.R head.acc.R neg.R took.R neg -nonfut -1pl.ex
 
 \tx gawaːtta             dịlọn.
-\mb ga   -WEːČ -R       dịl  -on       
+\mb ga   -WEːČ -R       dịl  -Con       
 \ps v                   n              
 \ge take -gnr  -neg.cvb head -acc.3sg??
 \ft We used to kill and the eyes, the head, previously when we hunted we didn't take the head.
@@ -2963,7 +2963,7 @@ like any other?
 
 \id meme_ded_Managič_224
 \tx Čelewen,               ịasal  ọŋọtọnda
-\mb čele -W   -E  -n(I)     ịašal ọŋọt -on        =DE 
+\mb čele -W   -E  -n(I)     ịašal ọŋọt -Con        =DE 
 \ps n                       n     n                   
 \ge all  -acc -ep -poss.3sg eyes  nose -acc.3sg?? =ptl
 \ft Everything, the eyes, his nose...
@@ -3042,7 +3042,7 @@ like any other?
 
 \id meme_ded_Managič_230
 \tx Tiːkelde       golovu,    dịlọnda           emuweːtte,                začem?
-\mb tiek =El   =DE  golovu     dịl  -on        =DE  em   -U    -WEːČ -R(E)   začem
+\mb tiek =El   =DE  golovu     dịl  -Con        =DE  em   -U    -WEːČ -R(E)   začem
 \ps adv             n          n                    v                        adv  
 \ge now  =emph =ptl head.acc.R head -acc.3sg?? =ptl come -caus -gnr  -nonfut why.R
 \ft Now they bring the head, why?

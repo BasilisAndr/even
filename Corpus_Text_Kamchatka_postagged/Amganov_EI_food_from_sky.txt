@@ -409,7 +409,7 @@ Amganov_Efim_quest1, 29:00-33:00)
 
 \id Amganov_EI_food_from_sky_028
 \tx Nan    ŋenudʒeːnnin                    selskij.soviettekite                       ịačịkọn
-\mb ńaːn ŋen -U    -dʒEːn -RI  -n(I)     selskij.soviet           -t(E)kI =t(E)    jaščik -on       
+\mb ńaːn ŋen -U    -dʒEːn -RI  -n(I)     selskij.soviet           -t(E)kI =t(E)    jaščik -Con       
 \ps adv  v                               n                                         n                
 \ge and  go  -caus -dur   -pst -poss.3sg village.administration.R -all    =utočnit box.R  -acc.3sg??
 
