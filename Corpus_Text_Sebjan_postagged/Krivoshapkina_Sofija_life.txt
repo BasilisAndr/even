@@ -992,7 +992,7 @@ married her off, but at the same time she understands her parents
 \tx Taral        tiːket    haːwdịl    biehondukur              hulčel                      igin  bikette.
 \mb tarak -E  -L  tiek =et   haːbdị -L  biehon  -DUk(U) -WUr     hul              -čE     -L  iŋin  bi -kEČ  -R(E)      
 \ps pron          adv        ?          num                      v                            ptl   v                   
-\ge dist  -ep -pl now  =emph old    -pl fifty.Y -abl    -prfl.pl remain.in.excess -pf.ptc -pl etc.Y be -mult -nonfut.3pl
+\ge dist  -ep -pl now  =emph old    -pl fifty.Y -abl    -prfl.pl remain.in.excess -pf.ptc -pl etc.Y be -mult -nonfut
 
 \ft Those are now grown up, (some) are older than fifty.
 \ru Те сейчас взрослые, старше 50-и тоже есть.
@@ -1067,7 +1067,7 @@ married her off, but at the same time she understands her parents
 \tx Ele          minńun       ihučel          bihe.
 \mb erek -(dU)LE min     -ńUn isu  -čE     -L  bi -R(E)      
 \ps pron         pron         v                v             
-\ge prox -loc    1sg.obl -com grow -pf.ptc -pl be -nonfut.3pl
+\ge prox -loc    1sg.obl -com grow -pf.ptc -pl be -nonfut
 \ft Here there are (people) who grew up with me.
 \ru Здесь есть со мной выросшие.
 \ph

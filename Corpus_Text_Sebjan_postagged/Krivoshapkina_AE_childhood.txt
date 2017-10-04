@@ -951,7 +951,7 @@ ImperfectiveParticiple + Poss.Refl.Instr?), it is used when a big person is sayi
 \tx Bej bütünnüː haba        tikre.
 \mb bej bütünnüː   haba        tik  -R(E)      
 \ps n   ?          v           v               
-\ge man entirely.Y cover.cvb.Y fall -nonfut.3pl
+\ge man entirely.Y cover.cvb.Y fall -nonfut
 
 \ft All the people came running.
 \ru Все люди навалились.
@@ -964,7 +964,7 @@ ImperfectiveParticiple + Poss.Refl.Instr?), it is used when a big person is sayi
 \tx Tarịt dʒe   altatta:
 \mb tarịt dʒe    alta     -Č   -R(E)      
 \ps adv   ptl    v                        
-\ge then  well.Y persuade -res -nonfut.3pl
+\ge then  well.Y persuade -res -nonfut
 \ft Well and then they persuaded (me).
 \ru Потом вот упрашивают.
 \ph

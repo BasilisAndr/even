@@ -287,7 +287,7 @@ individually, po-odnomu sobirat', čak = tidy up, pribirat', v porjadok privodit
 \tx Ee, ụmụjrịdʒụr   boːre,          tarịt horehne.
 \mb ee ụmụj   -RIdʒI   -L  boː  -R(E)       tarịt hor -E  -s(E)n -R(E)      
 \ps interj v                   v                adv   v                         
-\ge eh gather -ant.cvb -pl give -nonfut then  go  -ep -lim   -nonfut.3pl
+\ge eh gather -ant.cvb -pl give -nonfut then  go  -ep -lim   -nonfut
 
 \ft They gathered (the pears) for him, then left.
 \ru Собрали, потом ушли.
@@ -300,7 +300,7 @@ individually, po-odnomu sobirat', čak = tidy up, pribirat', v porjadok privodit
 \tx Helepečemen                    tikteŋmen                      igin  boːre.
 \mb šljapa -čEn -W   -E  -n(I)     tik  -DEŋ     -W   -E  -n(I)     iŋin  boː  -R(E)     
 \ps n                              v                                ptl   v              
-\ge hat.R  -dim -acc -ep -poss.3sg fall -pst.ptc -acc -ep -poss.3sg etc.Y give -nonfut3pl
+\ge hat.R  -dim -acc -ep -poss.3sg fall -pst.ptc -acc -ep -poss.3sg etc.Y give -nonfut
 
 \ft And his hat that had fallen down they also gave (him).
 \ru Упавшую его шляпу тоже дали.

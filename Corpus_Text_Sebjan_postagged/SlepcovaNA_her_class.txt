@@ -47,7 +47,7 @@ Shadrina herself does not use the PL in -r, only -l.
 \tx Họː ịbgọl    kụŋakkal,      hupkučekur           ajaːwra.
 \mb họː  ịbgọ -L  kụŋa  -kkEn -L  hupkut -ČEk -WUr     ajaːw -R(E)      
 \ps adv  ?        n               v                    v                
-\ge very good -pl child -dim  -pl learn  -nr  -prfl.pl love  -nonfut.3pl
+\ge very good -pl child -dim  -pl learn  -nr  -prfl.pl love  -nonfut
 
 \ft Very good kiddies, they love their studies.
 \ru Очень хорошие детишки, любят свою учебу.
@@ -118,7 +118,7 @@ Shadrina herself does not use the PL in -r, only -l.
 \tx Kụŋakkal       ńan   ọńarịwụr           họːč    ajaːwra.
 \mb kụŋa  -kkEn -L  ńaːn ọńa  -RI       -WUr     họː  -Č   ajaːw -R(E)      
 \ps n               adv  v                       adv       v                
-\ge child -dim  -pl and  draw -impf.ptc -prfl.pl very -res love  -nonfut.3pl
+\ge child -dim  -pl and  draw -impf.ptc -prfl.pl very -res love  -nonfut
 
 \ft The kiddies also love to draw.
 \ru Детишки еще очень любят рисовать.
@@ -148,7 +148,7 @@ Shadrina herself does not use the PL in -r, only -l.
 \tx Anglijskej   torem          hupkutte.
 \mb anglijskij.R tore  -n  -W   hupkut -R(E)      
 \ps ?            v              v                 
-\ge English.R    speak -nr -acc learn  -nonfut.3pl
+\ge English.R    speak -nr -acc learn  -nonfut
 
 \ft They learn English.
 \ru Изучают английский язык. 

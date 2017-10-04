@@ -38,7 +38,7 @@ left her incapable of speech.
 \tx tadụ     biweːtte.
 \mb tarak -DU  bi -WEːČ -R(E)      
 \ps pron       v                   
-\ge dist  -dat be -gnr  -nonfut.3pl
+\ge dist  -dat be -gnr  -nonfut
 
 \ft There they always lived, there their parents lived, they always lived there.
 \ru Там они все время жили, их родители там жили, всегда.
@@ -348,7 +348,7 @@ touched it so often.
 \tx uːmir           moːle,       uksila,                  uŋnin             nan    kọlukawaːtta.
 \mb umiː        -r   moː   -(dU)LE hok    -RI       -(dU)LE uŋ -RI  -n(I)     ńaːn  kọl   -WkEn -WEːČ -R(E)      
 \ps ?                n             v                        v                 ?     v                            
-\ge soak.nonfut -3pl water -loc    be.hot -impf.ptc -loc    do -pst -poss.3sg again drink -caus -gnr  -nonfut.3pl
+\ge soak.nonfut -3pl water -loc    be.hot -impf.ptc -loc    do -pst -poss.3sg again drink -caus -gnr  -nonfut
 
 \ft They break off a tiny piece of the gall, soak that in hot water, then they give that (to the sick person) to drink.
 \ru Маленький кусок желчи отколопнут, потом замачивают в горячую воду, потом дают выпить.

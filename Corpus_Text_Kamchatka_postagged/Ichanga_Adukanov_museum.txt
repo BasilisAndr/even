@@ -256,7 +256,7 @@ it's not clear what he actually says.
 \tx Kendetli              ịaw      uŋiddʒoːtte,                  ọːnka    uŋŋoːtte.
 \mb kendet        -(dU)LI ịak  -W   uŋ -E  -D    -WEːČ -R(E)       ọːn =kkE uŋ -WEːČ -R(E)      
 \ps n                     pron      v                              pron     v                   
-\ge shoulderblade -prol   what -acc do -ep -prog -gnr  -nonfut how =ptl do -gnr  -nonfut.3pl
+\ge shoulderblade -prol   what -acc do -ep -prog -gnr  -nonfut how =ptl do -gnr  -nonfut
 
 \ft Do you know what they do on a shoulderblade, how they do?
 \ru Знаете, что по лопате делают?

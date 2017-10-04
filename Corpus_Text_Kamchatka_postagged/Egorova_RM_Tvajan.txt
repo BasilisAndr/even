@@ -380,7 +380,7 @@ vodila --> the only explanation I have is that it must be two generic suffixes, 
 \tx Ńanasị       ọːn goːne        irellekenisi                         mụrịndaddʒọːtta
 \mb ńaːn  -E  =sI   ọːn goːn -R(E)   irel -REk      -E  -n(I)     -E  =sI   mụran -DE -D    -WEːČ -R(E)      
 \ps ?               pron v            v                                      v                                
-\ge again -ep =emph how say  -nonfut melt -cond.cvb -ep -poss.3sg -ep =emph horse -vr -prog -gnr  -nonfut.3pl
+\ge again -ep =emph how say  -nonfut melt -cond.cvb -ep -poss.3sg -ep =emph horse -vr -prog -gnr  -nonfut
 
 \tx ọrọčal.
 \mb ọrọč  -E  -L 
@@ -473,7 +473,7 @@ off.
 \tx Ọːja  mụram      čakkọːtta.
 \mb họːja mụran -W   čak    -WEːČ -R(E)      
 \ps quant n          v                       
-\ge many  horse -acc gather -gnr  -nonfut.3pl
+\ge many  horse -acc gather -gnr  -nonfut
 
 \ft The gathered many horses.
 \ru Мноооооооого лошадей собирали.
@@ -575,7 +575,7 @@ to wait somewhere until the rain stops.
 \tx Tačịntịtta          eńtilbun            ereger rybalkaddʒọːtta.
 \mb tarọːčịn  -tIt =DE  eńtil   -WUn         ereger rybalka        -D    -WEːČ -R(E)      
 \ps pron                n                    adv    v                                     
-\ge dist.qual -ptl =ptl parents -poss.1pl.ex always fishing.camp.R -prog -gnr  -nonfut.3pl
+\ge dist.qual -ptl =ptl parents -poss.1pl.ex always fishing.camp.R -prog -gnr  -nonfut
 
 \ft Just the same our parents were always fishing.
 \ru Все так же родители все время рыбачили

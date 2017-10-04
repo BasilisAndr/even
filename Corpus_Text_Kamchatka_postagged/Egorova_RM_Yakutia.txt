@@ -26,7 +26,7 @@ the old people's home. She is married to a Russian. She is the sister of Raisa M
 \tx ńụčịdịt     goːweːtte.
 \mb ńụča    -DI   -Č   goːn -WEːČ -R(E)
 \ps n                  v
-\ge Russian -adjr -ins say  -gnr  -nonfut.3pl
+\ge Russian -adjr -ins say  -gnr  -nonfut
 
 \ft Last year we went to Jakutia, Sveta, Svetlana Vladimirovna Komarova, that one, the specialist on interethnic
 relationships, that's how they say in Russian.
@@ -447,7 +447,7 @@ biserom', but according to Robbek, nisami = prazdnichnaja obuv', obshitaja biser
 \tx Goːnin              tarak         nọŋartanasị     goːnni          amụtta                      jụkagịralnụn.
 \mb goːn -RI  -n(I)     tarak -R(E)   nọŋartan -E  =sI   goːn       -n(I) amụ          -Č   -R(E)       jukagir  -E  -L  -ńUn
 \ps v                   v             pron               ?                v                             n
-\ge say  -pst -poss.3sg dist  -nonfut 3pl     -ep =emph say.nonfut -3sg  get.mixed.up -res -nonfut Yukaghir -ep -pl -com
+\ge say  -pst -poss.3sg dist  -nonfut 3pl   -ep =emph say.nonfut -3sg  get.mixed.up -res -nonfut Yukaghir -ep -pl -com
 
 \ft She said that these were mixed up with Yukaghirs.
 \ru Она сказала, эти они смешаны с юкагирами.
@@ -531,7 +531,7 @@ Kamchatka.
 \tx uŋedde.
 \mb uŋ -E  -D    -R(E)
 \ps v
-\ge do -ep -prog -nonfut.3pl
+\ge do -ep -prog -nonfut
 
 \ft Probably because they live far away, that's why they're only starting to do (what we've already done).
 \ru Наверно потому что они далеко живут, поэтому только начинают делать то, (что у нас сделано).
@@ -575,7 +575,7 @@ Kamchatka.
 \tx toremelčiweːtte.
 \mb tore  -mElčI -WEːČ -R(E)
 \ps v
-\ge speak -acclr -gnr  -nonfut.3pl
+\ge speak -acclr -gnr  -nonfut
 
 \ft Those who live in the north speak faster, the Aljutor Evens, they speak fast.
 \ru По-быстрее говорят которые живут на севере, Алюторские, быстро проговаривают.
@@ -1061,7 +1061,7 @@ ičukettiten; or ọːjaw; when I asked, agreed with egdʒemkeru ičukeniten = O
 \tx Tarma ebdʒendeč         uŋiddʒoːtte.
 \mb tarma hebdʒen     -E  -Č   uŋ -E  -D    -WEːČ -R(E)
 \ps conj  n                    v
-\ge but   interesting -ep -ins do -ep -prog -gnr  -nonfut.3pl
+\ge but   interesting -ep -ins do -ep -prog -gnr  -nonfut
 
 \ft But they do it very interestingly.
 \ru Но интересно делают.
@@ -1200,7 +1200,7 @@ pel), ikeːweːttin = would refer to something before the time of the party
 \tx Omen toren,             aːnasị      amardadụn                 toreweːtte.
 \mb omen tore         -n(I) haːn  -E  =sI   amar   -gIdE -DU  -n(I)     tore  -WEːČ -R(E)
 \ps num  ?                  quant           n                           v
-\ge one  speak.nonfut -3sg  other -ep =emph behind -part -dat -poss.3sg speak -gnr  -nonfut.3pl
+\ge one  speak.nonfut -3sg  other -ep =emph behind -part -dat -poss.3sg speak -gnr  -nonfut
 
 \ft One speaks, the others repeat what he said.
 \ru Один говорит, а остальные вслед за ним говорят.
@@ -1294,7 +1294,7 @@ pel), ikeːweːttin = would refer to something before the time of the party
 \tx Ịmanịŋịtan             aččadatịt,   ejdu ọːssọːtta.
 \mb ịmanra -E  -ŋ   -E  -tEn      ačča =DE  =tIt ejdu ọːs      -WEːČ -R(E)
 \ps n                             ptl            quant v
-\ge snow   -ep -aln -ep -poss.3pl neg  =ptl =ptl all  clear.up -gnr  -nonfut.3pl
+\ge snow   -ep -aln -ep -poss.3pl neg  =ptl =ptl all  clear.up -gnr  -nonfut
 
 \ft There's no snow at all, they clear it all away.
 \ru Снега у них вообще нету, все убирают.

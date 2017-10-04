@@ -355,7 +355,7 @@ and I think for LWT we decided that was a calque from Russian
 \tx emnib               honte bụktụk    emče        bejel,     ńụčalda       bihe,
 \mb em   -RI       -W   honte bụg   -DUk(U) em   -čE     bej -E  -L  ńụča    -L  =DE  bi -R(E)      
 \ps v                   adj   n             v            n           n                v             
-\ge come -impf.ptc -acc other place -abl    come -pf.ptc man -ep -pl Russian -pl =ptl be -nonfut.3pl
+\ge come -impf.ptc -acc other place -abl    come -pf.ptc man -ep -pl Russian -pl =ptl be -nonfut
 
 \tx hontelde       bihe,          taral        cenalbudnan                konkurencijaw,    konkurencijaw
 \mb honte -L  =DE  bi -R(E)       tarak -E  -L  cena    -L  -W   -tEn      konkurencija -W   konkurencija -W  

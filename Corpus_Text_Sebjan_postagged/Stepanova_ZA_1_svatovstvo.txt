@@ -782,7 +782,7 @@ Afanas'evna also said this
 \tx bejel      bihe.
 \mb bej -E  -L  bi -R(E)      
 \ps n           v             
-\ge man -ep -pl be -nonfut.3pl
+\ge man -ep -pl be -nonfut
 
 \ft Those who played together with Zinovij when he was small are now old
 people.

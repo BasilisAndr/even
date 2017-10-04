@@ -190,7 +190,7 @@ and his bike got caught on a stone.
 \tx tarịńdʒa  ee tara  kụŋal    emie   herre.
 \mb tarak -ńdʒE ee tarak kụŋa  -L  emie   hor -R(E)      
 \ps pron        interj pron  n         adv    v              
-\ge dist  -aug  eh dist  child -pl also.Y go  -nonfut.3pl
+\ge dist  -aug  eh dist  child -pl also.Y go  -nonfut
 
 \ft When the little kid left on his little bike, these children also left.
 \ru Когда ехал ребеночек с велосипедом, эти дети тоже ушли.
@@ -205,7 +205,7 @@ and his bike got caught on a stone.
 \tx Heredniken            tar   kụŋačan   šljapawan                itte.
 \mb hor -E  -D    -nIkEn   tarak kụŋa  -čEn šljapa -W   -E  -n(I)     it  -R(E)      
 \ps v                      pron  n          n                         v              
-\ge go  -ep -prog -sim.cvb dist  child -dim hat.R  -acc -ep -poss.3sg see -nonfut.3pl
+\ge go  -ep -prog -sim.cvb dist  child -dim hat.R  -acc -ep -poss.3sg see -nonfut
 
 \ft Leaving they saw the hat of that kid.
 \ru Идя они увидели шляпу того ребенка.

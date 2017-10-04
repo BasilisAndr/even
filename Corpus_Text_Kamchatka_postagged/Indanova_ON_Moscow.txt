@@ -188,7 +188,7 @@ said it had to be gurgeːweten, 'their work', and that [gurgeːwesen] would be '
 \tx tala          Moskvala       bise.
 \mb tarak -(dU)LE Moskva -(dU)LE bi -R(E)      
 \ps pron          n              v             
-\ge dist  -loc    Moscow -loc    be -nonfut.3pl
+\ge dist  -loc    Moscow -loc    be -nonfut
 
 \ft And when I came back I told my old women how they live there in Moscow.
 \ru Когда сюда приехала, я своим старушкам рассказала, как живут в Москве.

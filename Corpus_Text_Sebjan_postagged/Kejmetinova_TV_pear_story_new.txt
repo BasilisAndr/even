@@ -300,7 +300,7 @@ that.
 \tx bidde.
 \mb bi -D    -R(E)      
 \ps v                   
-\ge be -prog -nonfut.3pl
+\ge be -prog -nonfut
 
 \ft Then when he passed by there (far away) other people are also present.
 \ru Потом когда он проходил там тоже другие люди тоже есть.
@@ -840,7 +840,7 @@ tense meaning
 \tx bütünnüːwen                grušat     ịara.
 \mb bütünnüː   -W   -E  -n(I)     gruša  -Č   ịa      -R(E)      
 \ps n                             n           v                  
-\ge entirely.Y -acc -ep -poss.3sg pear.R -ins do.what -nonfut.3pl
+\ge entirely.Y -acc -ep -poss.3sg pear.R -ins do.what -nonfut
 
 \ft They came and helped this boy, how would they know that he stole (the pears), they again made his basked
 (full) with pears.
@@ -940,7 +940,7 @@ tense meaning
 \tx ịaw,     bejeńdʒele        naːra.
 \mb ịak  -W   bej -ńdʒE -(dU)LE naː -R(E)      
 \ps pron      n                 v              
-\ge what -acc man -aug  -loc    hit -nonfut.3pl
+\ge what -acc man -aug  -loc    hit -nonfut
 
 \ft Like that he went, then those three kids went and came across the big man.
 \ru Так пошел, потом эти 3 ребенка идя же, наткнулись на большого человека.

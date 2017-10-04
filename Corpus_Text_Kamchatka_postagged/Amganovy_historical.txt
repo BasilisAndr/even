@@ -64,7 +64,7 @@ winter.
 \tx Ńan   tačịnda          aːngal      časkị         nulgeweːtte.
 \mb ńaːn  tarọːčịn  =DE  haːn =gEl   čaːg -skI      nulge   -WEːČ -R(E)
 \ps ?     pron           ?           adj            v
-\ge again dist.qual =ptl some =coord far  -advb.all migrate -gnr  -nonfut.3pl
+\ge again dist.qual =ptl some =coord far  -advb.all migrate -gnr  -nonfut
 
 \ft EIA: And others continue to migrate.
 \ru А другие дальше кочуют.
@@ -107,7 +107,7 @@ by. ++ Probably it's 'menjajas' olenjami zhili', i.e. that bisitenke is the fini
 \tx ọrdụlatan                       biweːtte.
 \mb ọrọn              -(dU)LE -tEn      bi -WEːČ -R(E)
 \ps n                                   v
-\ge domestic.reindeer -loc    -poss.3pl be -gnr  -nonfut.3pl
+\ge domestic.reindeer -loc    -poss.3pl be -gnr  -nonfut
 \ft EIA: Some Evens worked in the Koryak reindeer herds, lived (there).
 \ru Некоторые эвены работали у коряков в табуне, там и жили.
 \ph [tajčịbal]
@@ -143,7 +143,7 @@ just an error
 \tx Omem      ọrọč asịw     gamịda,           mịamda         boːweːtte
 \mb omen -W   ọrọč  asị   -W   ga   -mI       =DE  mịan -W   =DE  boː  -WEːČ -R(E)
 \ps num       n     n          v                   num            v
-\ge one  -acc Oroch woman -acc take -cond.cvb =ptl ten  -acc =ptl give -gnr  -nonfut.3pl
+\ge one  -acc Oroch woman -acc take -cond.cvb =ptl ten  -acc =ptl give -gnr  -nonfut
 
 \tx ọrgatan                          ọrọčịldụ.
 \mb ọrọn              -GE    -tEn      ọrọč  -E  -L  -DU
@@ -201,7 +201,7 @@ just an error
 \tx noːŋilni,                    čeledʒur          čajčabadịwaːtta.
 \mb noː             -SEl -n(I)     čele -dʒUr         čajčaba                 -dI -WEːČ -R(E)
 \ps n                              ?                  v
-\ge younger.sibling -pl  -poss.3sg all  -ins.prefl.pl reindeer.herding.Koryak -vr -gnr  -nonfut.3pl
+\ge younger.sibling -pl  -poss.3sg all  -ins.prefl.pl reindeer.herding.Koryak -vr -gnr  -nonfut
 
 \ft EPA: My father's mother, and her younger siblings, all spoke Koryak.
 \ru У моего отца мама и ее младшие тоже все говорили по-корякски.

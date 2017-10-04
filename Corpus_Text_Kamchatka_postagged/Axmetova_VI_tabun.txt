@@ -106,7 +106,7 @@ Rimma Maksimovna said that there is no word ńamụda, and that what makes most 
 \tx ọrbe                 eŋeneweːtte.
 \mb ọrọn              -W   eŋen      -E  -WEːČ -R(E)      
 \ps n                      v                              
-\ge domestic.reindeer -acc come.look -ep -gnr  -nonfut.3pl
+\ge domestic.reindeer -acc come.look -ep -gnr  -nonfut
 
 \ft Bread I ... The herders go, one or two herders bring firewood, and two go to the herd to look (how it is).
 \ru Когда пастухи уходят, одни или два готовят дрова, а два идут в табун оленей смотреть.
@@ -675,7 +675,7 @@ about "urgen" - is that really the Possessive 3SG at the end?
 \tx kopytaŋalbu                   ọːja  ọːwaːtta.
 \mb kopyta   -ŋ   -E  -L  -W        họːja ọː     -WEːČ -R(E)      
 \ps n                               quant v                       
-\ge hooves.R -aln -ep -pl -poss.1sg many  become -gnr  -nonfut.3pl
+\ge hooves.R -aln -ep -pl -poss.1sg many  become -gnr  -nonfut
 
 \ft And then when we slaughter again after stopping, I already have a lot of hooves.
 \ru Потом когда останавливаемся забиваем оленя, а у меня уже корыт много.
@@ -708,7 +708,7 @@ dictionaries, except perhaps bobaldat 'vzdragivat' porxat'.
 \tx tịmịn  badʒịkar xolodecit            zavtrakajddʒọːtta.
 \mb tịmịna   badʒịkar xolodec      -E  -Č   zavtrakaj      -D    -WEːČ -R(E)      
 \ps adv      n        n                     v                                     
-\ge tomorrow morning  meat.jelly.R -ep -ins have.breakfast -prog -gnr  -nonfut.3pl
+\ge tomorrow morning  meat.jelly.R -ep -ins have.breakfast -prog -gnr  -nonfut
 
 \ft I get out those hooves and I cook them and the next morning they have meat jelly for breakfast.
 \ru Эти копыта достаю и варю, и завтра утром завтракаем холодец.

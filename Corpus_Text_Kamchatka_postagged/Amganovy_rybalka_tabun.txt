@@ -44,7 +44,7 @@ worked as a milker and then a cleaner.
 \tx pensioneril        rybelkele              bise.
 \mb pensioner   -E  -L  rybalka        -(dU)LE bi -R(E)      
 \ps n                   n                      v             
-\ge pensioner.R -ep -pl fishing.camp.R -loc    be -nonfut.3pl
+\ge pensioner.R -ep -pl fishing.camp.R -loc    be -nonfut
 
 \ft EIA: There in that reindeer herd, the herders, pensioners, live in the fishing camps.
 \ru В этом табуне (там-то) оленоводы некоторые, пенсионеры живут на рыбалке.
@@ -56,7 +56,7 @@ worked as a milker and then a cleaner.
 \tx Aːnda     [tugeniwda]      tugeniw,    dʒụganịw,    čelew     anŋanụ   tadụ     biweːtte.
 \mb haːn  =DE  tugeni -W   =DE  tugeni -W   dʒụganị -W   čele -W   anŋan -W   tarak -DU  bi -WEːČ -R(E)      
 \ps quant      n                n           n            n         n          pron       v                   
-\ge other =ptl winter -acc =ptl winter -acc summer  -acc all  -acc year  -acc dist  -dat be -gnr  -nonfut.3pl
+\ge other =ptl winter -acc =ptl winter -acc summer  -acc all  -acc year  -acc dist  -dat be -gnr  -nonfut
 
 \ft Some of them live there [EPA: in winter] in winter, in summer, all year round.
 \ru Некоторые там живут зимой и летом, круглый год.
@@ -82,7 +82,7 @@ WE:C; kileblešnen = ona sejchas poshla; kileblešno:tten = ona bystrenko xodit,
 \tx Ńanda      amaskị         oridʒeːnne           ńan   tadụ     teliddʒoːtte.
 \mb ńaːn  =DE  amar   -skI      hor -E  -dʒEːn -R(E)   ńaːn  tarak -DU  teli           -D    -WEːČ -R(E)      
 \ps ?          ?                v                      ?     pron       v                                     
-\ge again =ptl behind -advb.all go  -ep -dur   -nonfut again dist  -dat stockpile.fish -prog -gnr  -nonfut.3pl
+\ge again =ptl behind -advb.all go  -ep -dur   -nonfut again dist  -dat stockpile.fish -prog -gnr  -nonfut
 
 \ft EIA: And then they go back and there they again fish.
 \ru Потом едут опять назад и там же рыбачат.
@@ -117,7 +117,7 @@ WE:C; kileblešnen = ona sejchas poshla; kileblešno:tten = ona bystrenko xodit,
 \tx ọlgịčịddʒọːtta.
 \mb ọlgị -Č   -E  -D    -WEːČ -R(E)      
 \ps v                                    
-\ge dry  -res -ep -prog -gnr  -nonfut.3pl
+\ge dry  -res -ep -prog -gnr  -nonfut
 
 \ft EPA: They only fish and they dry fish for themselves.
 \ru Только рыбачат и себе юколу сушат.
@@ -161,7 +161,7 @@ WE:C; kileblešnen = ona sejchas poshla; kileblešno:tten = ona bystrenko xodit,
 \tx ọrọr              daːlịlatan              biweːtte.
 \mb ọrọn              -L  daːlị -(dU)LE -tEn      bi -WEːČ -R(E)      
 \ps n                     rel.n                   v                   
-\ge domestic.reindeer -pl near  -loc    -poss.3pl be -gnr  -nonfut.3pl
+\ge domestic.reindeer -pl near  -loc    -poss.3pl be -gnr  -nonfut
 \ft EPA: And well sometimes they go visit the reindeer herd, when the reindeer are close by.
 \ru Иногда они в табун едут гостевать, когда рядом табуны (олени).
 \ph ulnesiddʒoːtte
@@ -177,7 +177,7 @@ WE:C; kileblešnen = ona sejchas poshla; kileblešno:tten = ona bystrenko xodit,
 \tx emmoːtte,               aːnda     omneken        emiddʒoːtte.
 \mb em   -WEːČ -R(E)       haːn =DE  omen -REkEn    em   -E  -D    -WEːČ -R(E)      
 \ps v                      ?         num            v                               
-\ge come -gnr  -nonfut some =ptl one  -iter.adv come -ep -prog -gnr  -nonfut.3pl
+\ge come -gnr  -nonfut some =ptl one  -iter.adv come -ep -prog -gnr  -nonfut
 
 \ft EPA: But generally they come here, some come three times (a year), others come once.
 \ru А так-то они сюда приезжают, некоторые три раза приезжают, другие один раз приезжают.
@@ -191,7 +191,7 @@ exists: emmoːttekeken = 'bystro priezžajut'
 \tx Tarị... [dʒụganịdụ, dʒụganịdu    emmoːtte]
 \mb tar  dʒụganị -DU  dʒụganị -DU  em   -WEːČ -R(E)      
 \ps adv  n            n            v                     
-\ge thus summer  -dat summer  -dat come -gnr  -nonfut.3pl
+\ge thus summer  -dat summer  -dat come -gnr  -nonfut
 
 \ft EPA: Well those... [EIA: in summer, they come in summer]
 \ru Вот эти... летом приезжают
@@ -240,7 +240,7 @@ exists: emmoːttekeken = 'bystro priezžajut'
 \tx Ńan   tačịnka           toreweːtte!
 \mb ńaːn  tarọːčịn  =kE   tore  -WEːČ -R(E)      
 \ps ?     pron            v                      
-\ge again dist.qual =emph speak -gnr  -nonfut.3pl
+\ge again dist.qual =emph speak -gnr  -nonfut
 \ft [Possibly, hard to hear through the laughter] EPA: But that's how they speak!
 \ru Ну так и говорят.
 \ph

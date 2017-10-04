@@ -305,7 +305,7 @@ much.
 \tx Tala          ittidʒi     ọmọlgọčandụ  toːdire
 \mb tarak -(dU)LE it  -RIdʒI   ọmọlga -čEn -DU  toːdi -R(E)      
 \ps pron          v            n                v                
-\ge dist  -loc    see -ant.cvb boy    -dim -dat help  -nonfut.3pl
+\ge dist  -loc    see -ant.cvb boy    -dim -dat help  -nonfut
 
 \tx grušawan                bukeččemen                   ụmụjrịdʒị
 \mb gruša  -W   -E  -n(I)     bekeč -čEn -W   -E  -n(I)     ụmụj   -RIdʒI  
@@ -360,7 +360,7 @@ meaning of "prjamo po", e.g. ọkaːtmakaːmịn = "prjamo po reke", ọmkakaːm
 \tx kụŋakkahal      kiːkeridʒi     ŋaːtta
 \mb kụŋa  -kkEn -SEl kieke   -RIdʒI   ŋaːt -R(E)      
 \ps n                v                v               
-\ge child -dim  -pl  whistle -ant.cvb call -nonfut.3pl
+\ge child -dim  -pl  whistle -ant.cvb call -nonfut
 
 \ft When he rode like that, those three little kids whistled and called him.
 \ru Когда он так ехал, те 3 ребенка свистнув позвали.
@@ -378,7 +378,7 @@ meaning of "prjamo po", e.g. ọkaːtmakaːmịn = "prjamo po reke", ọmkakaːm
 \tx ebit,      kụŋakkan,  taraw      boːre.
 \mb ebit       kụŋa  -kkEn tarak -W   boː  -R(E)      
 \ps ptl        n           pron       v               
-\ge it.seems.Y child -dim  dist  -acc give -nonfut.3pl
+\ge it.seems.Y child -dim  dist  -acc give -nonfut
 
 \ft It appears he dropped his hat, the little kid, (they) gave (him) that.
 \ru Этот оказывается уронил шапку, ребеночек, эту дали.
@@ -433,7 +433,7 @@ meaning of "prjamo po", e.g. ọkaːtmakaːmịn = "prjamo po reke", ọmkakaːm
 \tx ušukenne.
 \mb it  -WkEn -R(E)      
 \ps v                    
-\ge see -caus -nonfut.3pl
+\ge see -caus -nonfut
 
 \ft Well like that, while they were doing (that), well they again show the old man,
 the farmer.
@@ -497,7 +497,7 @@ the one which was full of gathered pears.
 \tx kụŋakkal       dʒe   hattụn            ieltenne.
 \mb kụŋa  -kkEn -L  dʒe    hat  -DU  -n(I)     ielten -R(E)      
 \ps n               ptl    rel                 v                 
-\ge child -dim  -pl well.Y base -dat -poss.3sg pass   -nonfut.3pl
+\ge child -dim  -pl well.Y base -dat -poss.3sg pass   -nonfut
 
 \ft While he was thinking, while he was standing and wondering, who, those thre
 little kids walked past him.

@@ -75,7 +75,7 @@ calque from Sakha?
 \tx Tarịt ...  tarịt goːnni:         "Tọːla     urekče... urekčendule     ịal     ụjamkal          bidde",
 \mb tarịt *... tarịt goːn       -n(I) tarak -(dU)LE urekčen urekčen -(dU)LE ịak  -L  ụjamkan        -L  bi -D    -R(E)      
 \ps adv   ?    adv   ?                pron          n       n               pron     n                  v                   
-\ge then  ***  then  say.nonfut -3sg  dist  -loc    hill    hill    -loc    what -pl mountain.sheep -pl be -prog -nonfut.3pl
+\ge then  ***  then  say.nonfut -3sg  dist  -loc    hill    hill    -loc    what -pl mountain.sheep -pl be -prog -nonfut
 
 \tx goːnni,         ammụ.
 \mb goːn       -n(I) aman   -W       
@@ -885,7 +885,7 @@ running screaming down (the hill)", I said.
 \tx Tadụk       ečin      gịrkawaːtta.
 \mb tarak -DUk(U) erroːčin  gịrka -WEːČ -R(E)      
 \ps pron          pron      v                      
-\ge dist  -abl    prox.qual walk  -gnr  -nonfut.3pl
+\ge dist  -abl    prox.qual walk  -gnr  -nonfut
 \ft From that they walked like this.
 \ru От того так ходили.
 \ph
@@ -1091,7 +1091,7 @@ bullets, "I will throw this (at the bear)", I said.
 \tx Tarịt ammụńụn           dʒoːridʒur               tar   abagańdʒa         delbi  ečin      nekmette.
 \mb tarịt aman   -W        -ńUn dʒoːr -NI   -dʒUr         tarak abaga       -ńdʒE delbi  erroːčin  nek -mEČ -R(E)      
 \ps adv   n                     num                       pron  n                 adv    pron      v                   
-\ge then  father -poss.1sg -com two   -coll -ins.prefl.pl dist  grandfather -aug  very.Y prox.qual do  -rec -nonfut.3pl
+\ge then  father -poss.1sg -com two   -coll -ins.prefl.pl dist  grandfather -aug  very.Y prox.qual do  -rec -nonfut
 
 \ft Then both my fahter and that bear did like this to each other.
 \ru Потом с отцом вдвоем этот медведище так друг друга сделали.

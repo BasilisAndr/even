@@ -178,7 +178,7 @@ expressions
 \tx Ọllaw     bejčidde
 \mb ọlra -W   bejči -D    -R(E)
 \ps n         v
-\ge fish -acc hunt  -prog -nonfut.3pl
+\ge fish -acc hunt  -prog -nonfut
 \ft EPA: They catch fish.
 \ru Рыбу ловят.
 \ph it might be that she says ọllọw, but it's impossible to make out through the laughter
@@ -283,7 +283,7 @@ things that need to be carried around when the reindeer herd migrates.
 \tx vertoletit           degwoːtte.
 \mb vertolet     -E  -Č   deg -WEːČ -R(E)
 \ps n                     v
-\ge helicopter.R -ep -ins fly -gnr  -nonfut.3pl
+\ge helicopter.R -ep -ins fly -gnr  -nonfut
 \ft EPA: And they come as well, sometimes by horse, sometimes they fly by helicopter.
 \ru Иногда на лошадях приезжают, иногда на вертолете прилетают.
 \ph deγwoːtte
