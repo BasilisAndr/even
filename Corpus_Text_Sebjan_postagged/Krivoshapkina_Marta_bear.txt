@@ -508,7 +508,7 @@ running screaming down (the hill)", I said.
 \tx Ọraltị                            egin  ele          tọgačadda                          hiwkeŋken,
 \mb ọrọn              -E  -L  -t(I)        iŋin  erek -(dU)LE tọg      -E  -Č   -E  -D    -R(E)       hiwken      -G    -KEn    
 \ps n                                      ptl   pron         v                                       v                         
-\ge domestic.reindeer -ep -pl -poss.1pl.in etc.Y prox -loc    lie.down -ep -res -ep -prog -nonfut.3pl fall.silent -advr -dim.int
+\ge domestic.reindeer -ep -pl -poss.1pl.in etc.Y prox -loc    lie.down -ep -res -ep -prog -nonfut fall.silent -advr -dim.int
 
 \tx ŋịnalkahal        igin  bihep.
 \mb ŋịn -E  -lkEn -SEl iŋin  bi -R(E)   -p     
@@ -828,7 +828,7 @@ running screaming down (the hill)", I said.
 \tx Abagańdʒa         ečije           ịlmatta,                 ečin.
 \mb abaga       -ńdʒE erroːčin  -jEː ịl       -mEČ -R(E)       erroːčin 
 \ps n                 pron           v                         pron     
-\ge grandfather -aug  prox.qual -aug stand.up -rec -nonfut.3pl prox.qual
+\ge grandfather -aug  prox.qual -aug stand.up -rec -nonfut prox.qual
 
 \ft The big bear like this, they stood opposite each other like this.
 \ru Медведище так... они встали друг против друга.

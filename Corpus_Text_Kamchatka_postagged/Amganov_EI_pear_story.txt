@@ -243,7 +243,7 @@ nemnožko; biː *gịrkasčam = net, *gịrkasčịwụ = net;; ja pytalas' vzja
 \tx Aːwmị          tettin                nọŋan, taralasị            grušaŋgawur               gad,             korzinajakam
 \mb aːwụn -J       tet    -RI  -n(I)     nọŋan tarak -E  -L  -E  =sI   gruša  -ŋ   -GE    -WUr     ga   -R(E)       korzina  -jEkEn -W  
 \ps n              v                     pron  pron                    n                           v                n                   
-\ge hat   -prfl.sg put.on -pst -poss.3sg 3sg   dist  -ep -pl -ep =emph pear.R -aln -desig -prfl.pl take -nonfut.3pl basket.R -dim   -acc
+\ge hat   -prfl.sg put.on -pst -poss.3sg 3sg   dist  -ep -pl -ep =emph pear.R -aln -desig -prfl.pl take -nonfut basket.R -dim   -acc
 
 \ft He put on his hat, but those took pears for themselves, from the basket.
 \ru Шапку надел, а те взяли груши, 
@@ -255,7 +255,7 @@ nemnožko; biː *gịrkasčam = net, *gịrkasčịwụ = net;; ja pytalas' vzja
 \tx Ńan   gịrkadda                ọtọrandụlị, amaskị         tar.
 \mb ńaːn  gịrka -D    -R(E)       họtọran -(dU)LI amar   -skI      tarak
 \ps ?     v                       n               ?                pron 
-\ge again walk  -prog -nonfut.3pl road    -prol   behind -advb.all dist 
+\ge again walk  -prog -nonfut road    -prol   behind -advb.all dist 
 
 \ft And they walk back down the road.
 \ru И идут по дороге назад.
@@ -328,12 +328,12 @@ nemnožko; biː *gịrkasčam = net, *gịrkasčịwụ = net;; ja pytalas' vzja
 \tx Kojeːtli        ịadụ   kụŋakar       emedde                    deːpki, ulgimdendewul,
 \mb kojeːt  -LI      ịak  -DU  kụŋa  -KEn -L  em   -E  -D    -R(E)       deːpki   ulgim -DE       -n(I)     =dEwUl
 \ps v                pron      n              v                          postpos  v                               
-\ge look.at -imp.2sg what -dat child -dim -pl come -ep -prog -nonfut.3pl opposite ask   -purp.cvb -poss.3sg =disj 
+\ge look.at -imp.2sg what -dat child -dim -pl come -ep -prog -nonfut opposite ask   -purp.cvb -poss.3sg =disj 
 
 \tx ittintitte                   taral        kụŋal    grušaw     gịrkar            debniker.
 \mb it  -RI  -n(I)     =tIt =DE  tarak -E  -L  kụŋa  -L  gruša  -W   gịrka -R(E)       dʒeb -nIkEn   -L 
 \ps v                            pron          n         n           v                 v                
-\ge see -pst -poss.3sg =ptl =ptl dist  -ep -pl child -pl pear.R -acc walk  -nonfut.3pl eat  -sim.cvb -pl
+\ge see -pst -poss.3sg =ptl =ptl dist  -ep -pl child -pl pear.R -acc walk  -nonfut eat  -sim.cvb -pl
 
 \ft Look, why are the boys coming this way, he should have asked, after all he saw that the boys walk eating pears.
 \ru Посмотри, зачем пацаны идут навстречу, хоть бы спросил, он же видел, что пацаны идут и едят грушу. 

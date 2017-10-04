@@ -29,7 +29,7 @@ to Sebjan at age 5years
 \tx Biː klasslawụ               mịan dʒoːr hupkuttil            tatta,            ńuŋen ọmọlgakkar,
 \mb biː klass   -(dU)LE -W        mịan dʒoːr hupkut -RI       -L  tat   -R(E)       ńuŋen ọmọlga -kkEn -L 
 \ps pron n                         num  num   v                    v                 num   n               
-\ge 1sg class.R -loc    -poss.1sg ten  two   learn  -impf.ptc -pl learn -nonfut.3pl six   boy    -dim  -pl
+\ge 1sg class.R -loc    -poss.1sg ten  two   learn  -impf.ptc -pl learn -nonfut six   boy    -dim  -pl
 
 \tx ńuŋen ahatkačar.
 \mb ńuŋen asatkan -čEn -L 
@@ -77,7 +77,7 @@ Shadrina herself does not use the PL in -r, only -l.
 \tx Tačịn,      kụŋa ansambəllatan              bihe,          Merlenke ńan   Họgịn gerbe.
 \mb tarọːčịn  kụŋa  ansambl.R -(dU)LE -tEn      bi -R(E)       Merlenke ńaːn  Họgịn gerbe
 \ps pron      n     n                           v              ?        ?     ?     n    
-\ge dist.qual child group.R   -loc    -poss.3pl be -nonfut.3pl Merlenke again Hogin name 
+\ge dist.qual child group.R   -loc    -poss.3pl be -nonfut Merlenke again Hogin name 
 \ft So, they take part in the children's (dancing and singing) groups called Merlenke and Hogin.
 \ru Так, находятся в детских ансамблях, называющихся М и Х.
 \ph
@@ -559,7 +559,7 @@ nous).
 \tx Nọŋmaːn họːč    ele          ajaːwra,          Sebjandule,    muttule.
 \mb nọŋmaːn họː  -Č   erek -(dU)LE ajaːw -R(E)       sebjan -(dU)LE mut    -(dU)LE
 \ps ?       adv       pron         v                 n              pron          
-\ge 3sg.acc very -ins prox -loc    love  -nonfut.3pl Sebjan -loc    1pl.in -loc   
+\ge 3sg.acc very -ins prox -loc    love  -nonfut Sebjan -loc    1pl.in -loc   
 \ft They love him a lot here, in Sebjan, chez nous.
 \ru Его здесь очень любят, в Себяне, у нас.
 \ph

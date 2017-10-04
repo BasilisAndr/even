@@ -360,7 +360,7 @@ and I think for LWT we decided that was a calque from Russian
 \tx hontelde       bihe,          taral        cenalbudnan                konkurencijaw,    konkurencijaw
 \mb honte -L  =DE  bi -R(E)       tarak -E  -L  cena    -L  -W   -tEn      konkurencija -W   konkurencija -W  
 \ps adj            v              pron          n                          n                 n                
-\ge other -pl =ptl be -nonfut.3pl dist  -ep -pl price.R -pl -acc -poss.3pl rivalry.R    -acc rivalry.R    -acc
+\ge other -pl =ptl be -nonfut dist  -ep -pl price.R -pl -acc -poss.3pl rivalry.R    -acc rivalry.R    -acc
 
 \tx ọːnịkan,   konkurent biniken     nọŋartan cenalbudnan                hergehki
 \mb ọː     -nIkEn   konkurent bi -nIkEn   nọŋartan cena    -L  -W   -tEn      hergi  -skI     

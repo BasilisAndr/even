@@ -435,7 +435,7 @@ pain... Now well....
 \tx badụddʒọːtta,              Twajaːntakị.
 \mb badụ -D    -WEːČ -R(E)       Twajaːn -t(E)kI
 \ps v                            n              
-\ge ride -prog -gnr  -nonfut.3pl Twajaːn -all   
+\ge ride -prog -gnr  -nonfut Twajaːn -all   
 
 \ft From Esso they also rode like that (by horse and dog) to Tvajan.
 \ru Из Эссо тоже так-же ездили в Тваян.
@@ -498,7 +498,7 @@ to wait somewhere until the rain stops.
 \tx Min     agdịŋịlbụn,               Raja, Gena, emmoːtte                Essogič.
 \mb min     hagdị -ŋ   -E  -L  -WUn         Raja Gena em   -WEːČ -R(E)       Esso -GIČ 
 \ps pron    adj                             ?    ?    v                      n         
-\ge 1sg.obl old   -aln -ep -pl -poss.1pl.ex Raja Gena come -gnr  -nonfut.3pl Esso -elat
+\ge 1sg.obl old   -aln -ep -pl -poss.1pl.ex Raja Gena come -gnr  -nonfut Esso -elat
 
 \ft My elder (siblings), Raja, Gena, used to come from Esso.
 \ru Мои старшие, Рая, Гена, из Эссо приезжали.
@@ -602,7 +602,7 @@ my bolee objemno
 \tx aːnda     ńọːwaːtta,              kụŋal    tadụk.
 \mb haːn =DE  ńọːn     -WEːČ -R(E)       kụŋa  -L  tarak -DUk(U)
 \ps ?         v                          n         pron         
-\ge some =ptl run.away -gnr  -nonfut.3pl child -pl dist  -abl   
+\ge some =ptl run.away -gnr  -nonfut child -pl dist  -abl   
 
 \ft It was hard, they took us away to boarding school, we didn't want (to go), some of the children ran away from there.
 \ru Очень тяжело, увозили нас в интернат, мы не хотели, некоторые  дети убегали оттуда.

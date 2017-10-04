@@ -99,7 +99,7 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \tx A     uŋen                  babụška    (atlatan)              atlan,              teːmi    minu         goːndiddʒoːtte               Čọpaŋa      [laughter].
 \mb a.R   uŋ        -E  -n(I)     babuška.R     hat  -(dU)LE -tEn      hat  -(dU)LE -n(I)     teːmi     min     -W   goːn -D    -WEːČ -R(E)       Čọpan    -mŋE laughter
 \ps ?     n                       ?             rel                    rel                    conj      pron         v                            n             ?       
-\ge but.R something -ep -poss.3sg grandmother.R base -loc    -poss.3pl base -loc    -poss.3sg therefore 1sg.obl -acc say  -prog -gnr  -nonfut.3pl Sopočnoe -nr  laughter
+\ge but.R something -ep -poss.3sg grandmother.R base -loc    -poss.3pl base -loc    -poss.3sg therefore 1sg.obl -acc say  -prog -gnr  -nonfut Sopočnoe -nr  laughter
 
 \ft At the base of (the mountain) Babushka (grandmother), that's why they call me Čopanga.
 \ru У подножия Бабушки, поэтому меня называют Чопанга.
@@ -114,7 +114,7 @@ in that area, she didn't know this; it's not a taboo term
 \tx A     bi   ečiwu             kụŋa bimi         ụnụr            ịamị minu         tačịn       uŋiddʒoːtte                   ulgimiriwu.
 \mb a.R   biː e   -RI  -W        kụŋa  bi -mI       ụnụ        -R       ịamị min     -W   tarọːčịn  uŋ -E  -D    -WEːČ -R(E)       ulgim -i   -RI  -W       
 \ps ?     pron v                  n     v            v                   pron pron         pron      v                              v                        
-\ge but.R 1sg neg -pst -poss.1sg child be -cond.cvb understand -neg.cvb why  1sg.obl -acc dist.qual do -ep -prog -gnr  -nonfut.3pl ask   -ipf -pst -poss.1sg
+\ge but.R 1sg neg -pst -poss.1sg child be -cond.cvb understand -neg.cvb why  1sg.obl -acc dist.qual do -ep -prog -gnr  -nonfut ask   -ipf -pst -poss.1sg
 
 \ft And I, when I was small, didn't understand at all why they do (i.e. say)  like that.
 \ru А я когда был пацаном, ничего не понимал, почему так делают (=говорят), спрашивал.
@@ -206,7 +206,7 @@ it's not clear what he actually says.
 \tx A     ọːn ịaw      uŋŋoːtte             esem             aːr,         ornamentan              drevnij,  nọːdịkan.
 \mb a.R   ọːn ịak  -W   uŋ -WEːČ -R(E)       e   -R(E)   -m   aː   -R       ornament   -E  -n(I)     drevnij   nọːdịka  -n(I)    
 \ps ?     pron pron      v                    v                v             n                        adj       n                 
-\ge but.R how what -acc do -gnr  -nonfut.3pl neg -nonfut -1sg know -neg.cvb ornament.R -ep -poss.3sg ancient.R ornament -poss.3sg
+\ge but.R how what -acc do -gnr  -nonfut neg -nonfut -1sg know -neg.cvb ornament.R -ep -poss.3sg ancient.R ornament -poss.3sg
 
 \ft But how they do what, I don't know; its ornament is ancient.
 \ru А что как делают, я не знаю, орнамент его древний, узоры его.
@@ -256,7 +256,7 @@ it's not clear what he actually says.
 \tx Kendetli              ịaw      uŋiddʒoːtte,                  ọːnka    uŋŋoːtte.
 \mb kendet        -(dU)LI ịak  -W   uŋ -E  -D    -WEːČ -R(E)       ọːn =kkE uŋ -WEːČ -R(E)      
 \ps n                     pron      v                              pron     v                   
-\ge shoulderblade -prol   what -acc do -ep -prog -gnr  -nonfut.3pl how =ptl do -gnr  -nonfut.3pl
+\ge shoulderblade -prol   what -acc do -ep -prog -gnr  -nonfut how =ptl do -gnr  -nonfut.3pl
 
 \ft Do you know what they do on a shoulderblade, how they do?
 \ru Знаете, что по лопате делают?
@@ -281,7 +281,7 @@ pokazyvaet dorogu, kto kuda poedet.
 \tx Talị        kojeːtčoːtte             awụskị      dʒapkadʒịn,        ọːnuttasi          dʒapkadʒịn         ičuketčoːtten.
 \mb tarak -(dU)LI kojeːt  -WEːČ -R(E)       aw    -skI      dʒapka  -Č   -n(I)     ọːn =(W)UttE =sI   dʒapka  -Č   -n(I)     it  -WkEn -Č   -WEːČ -R(E)   -n(I)
 \ps pron          v                         pron            n                      pron               n                      v                                 
-\ge dist  -prol   look.at -gnr  -nonfut.3pl where -advb.all correct -ins -poss.3sg how =indef   =emph correct -ins -poss.3sg see -caus -res -gnr  -nonfut -3sg 
+\ge dist  -prol   look.at -gnr  -nonfut where -advb.all correct -ins -poss.3sg how =indef   =emph correct -ins -poss.3sg see -caus -res -gnr  -nonfut -3sg 
 
 \ft On it (a shoulderblade) they look, where to go correctly, somehow it shows correctly (i.e. the right way).
 \ru По нему смотрят, куда правильно, как-то правильно показывает.
@@ -449,7 +449,7 @@ away).
 \tx Mut    muttule        ọrọčịldụla      mọːdụk    ọːwaːtta,              ńan   keńeli bejiken      ọnnọːtte
 \mb mut    mut    -(dU)LE ọrọč  -E  -L  -(dU)LE mọː  -DUk(U) ọː     -WEːČ -R(E)       ńaːn  keńeli bej -KEn     họn  -WEːČ -R(E)  
 \ps pron   pron           n                     n            v                        ?     adj    n            v                 
-\ge 1pl.in 1pl.in -loc    Oroch -ep -pl -loc    tree -abl    become -gnr  -nonfut.3pl again bad    man -dim.int chop -gnr  -nonfut
+\ge 1pl.in 1pl.in -loc    Oroch -ep -pl -loc    tree -abl    become -gnr  -nonfut again bad    man -dim.int chop -gnr  -nonfut
 
 \tx uleːweːtte.
 \mb uleː  -WEːČ -R(E)  

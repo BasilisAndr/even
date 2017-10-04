@@ -232,7 +232,7 @@ Ablative case because the bike just gets caught on the stone
 \tx Kapkam      tulmi         hịakịtadụ  esten           ujgerer                 hol  cep     huːredun             uhit
 \mb kapkan -W   tul -mI       hịakịta -DU  e   -R(E)       uj     -Gr(E)      -r   hel  cep     huːre -DU  -n(I)     usi  -Č  
 \ps n           v             n            v               v                       n    n       n                    n        
-\ge trap.R -acc set -cond.cvb tree    -dat neg -nonfut.3pl tie.up -hab.nonfut -3pl iron chain.R tip   -dat -poss.3sg rope -ins
+\ge trap.R -acc set -cond.cvb tree    -dat neg -nonfut tie.up -hab.nonfut -3pl iron chain.R tip   -dat -poss.3sg rope -ins
 
 \tx egdʒen kaŋdụn ọːwrar.
 \mb egdʒen kaŋdụn ọː   -Gr(E) -r  

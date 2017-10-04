@@ -22,7 +22,7 @@ Sakha olongxo into Even, is a member of the Writer’s Association, člen sojuza
 \tx ịstadaldu     pastux,  pastux   goːnne,          ọrọlčịmŋa   bihiw.
 \mb stado  -L  -DU  pastux   pastux   goːn -R(E)       ọrọlčị        -mŋE  bi -RI  -W       
 \ps n               n        n        v                v                   v                
-\ge herd.R -pl -dat herder.R herder.R say  -nonfut.3pl herd.reindeer -agnr be -pst -poss.1sg
+\ge herd.R -pl -dat herder.R herder.R say  -nonfut herd.reindeer -agnr be -pst -poss.1sg
 
 \ft I worked in the reindeer herd from my childhood, was a herder, a reindeer herder.
 \ru Я с детства работал в стадах, был пастухом, оленоводом.
@@ -489,7 +489,7 @@ suffix, so omneken = omnekeje
 \tx Škola   mexanizacijaduk         ere  bejil      ịala        bihe,          elegu?
 \mb škola    mexanizacija    -DUk(U) erek bej -E  -L  ịak  -(dU)LE bi -R(E)       erek -(dU)LE =GU
 \ps n        n                       pron n           pron         v              pron            
-\ge school.R mechanisation.R -abl    prox man -ep -pl what -loc    be -nonfut.3pl prox -loc    =q 
+\ge school.R mechanisation.R -abl    prox man -ep -pl what -loc    be -nonfut prox -loc    =q 
 \ft Where are the people from the school of mechanisation, (are they) hear?
 \ru Люди из школы механизации где находятся, здесь ли?
 \ph
@@ -528,7 +528,7 @@ suffix, so omneken = omnekeje
 \tx Torenni             ihnen,                         goːlle                 ajuka.
 \mb tore  -n  -n(I)     i          -s(E)n -R(E)   -n(I) goːn -L    -R(E)       ajuka     
 \ps v                   v                               v                      ?         
-\ge speak -nr -poss.3sg be.audible -lim   -nonfut -3sg  say  -inch -nonfut.3pl suddenly.Y
+\ge speak -nr -poss.3sg be.audible -lim   -nonfut -3sg  say  -inch -nonfut suddenly.Y
 
 \ft His speech (becomes) audible, suddenly they started to speak.
 \ru Слышится его слово/говор, врдуг начали говорить.
@@ -605,7 +605,7 @@ declination class as e- and bi- (3sg nfut = ihni); in Sebjan, however, this exis
 \tx ńowkekette                   iːwkenni:
 \mb ńoː  -WkEn -kEČ  -R(E)       iː    -WkEn        -n(I)
 \ps v                            v                       
-\ge exit -caus -mult -nonfut.3pl enter -caus.nonfut -3sg 
+\ge exit -caus -mult -nonfut enter -caus.nonfut -3sg 
 
 \ft Well and then it was, (they) led (everyone) out, (he) led (someone) in.
 \ru Потом вот его бывшее что делает, выводили всех, ввел -- все непонятно

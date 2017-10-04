@@ -33,7 +33,7 @@ left her incapable of speech.
 \tx Tadụ     ereger biweːtte,             tadụ     nọŋartan eńtilten         bisiten,          ereger
 \mb tarak -DU  ereger bi -WEːČ -R(E)       tarak -DU  nọŋartan eńtil   -tEn      bi -RI  -tEn      ereger
 \ps pron       adv    v                    pron       pron     n                 v                 adv   
-\ge dist  -dat always be -gnr  -nonfut.3pl dist  -dat 3pl      parents -poss.3pl be -pst -poss.3pl always
+\ge dist  -dat always be -gnr  -nonfut dist  -dat 3pl      parents -poss.3pl be -pst -poss.3pl always
 
 \tx tadụ     biweːtte.
 \mb tarak -DU  bi -WEːČ -R(E)      
@@ -179,7 +179,7 @@ started to grow potatoes.
 \tx Talị        rybalkaddʒoːtte                        čelendʒedʒur             umekič ajịč
 \mb tarak -(dU)LI rybalka        -D    -WEːČ -R(E)       čele -ńdʒE -dʒUr         umekič aj   -E  -Č  
 \ps pron          v                                      ?                        adv    adj          
-\ge dist  -prol   fishing.camp.R -prog -gnr  -nonfut.3pl all  -aug  -ins.prefl.pl very   good -ep -ins
+\ge dist  -prol   fishing.camp.R -prog -gnr  -nonfut all  -aug  -ins.prefl.pl very   good -ep -ins
 
 \tx belmetniken         bisiten.
 \mb bel  -mEČ -nIkEn   bi -RI  -tEn     
@@ -197,12 +197,12 @@ started to grow potatoes.
 \tx Tabịč,     kọbalanda    bejčiweːt... maːwaːtta,             tugenidu    uŋude
 \mb tabačịsị kọbalan =DE  bejči -WEːČ maː  -WEːČ -R(E)       tugeni -DU  uŋ        -W   =DE 
 \ps adv      n            v           v                      n           n                  
-\ge then     bear    =ptl hunt  -gnr  kill -gnr  -nonfut.3pl winter -dat something -acc =ptl
+\ge then     bear    =ptl hunt  -gnr  kill -gnr  -nonfut winter -dat something -acc =ptl
 
 \tx gịakịw     dilgenkew       kapkam      tulutčoːtte,            nan    tarị uŋgewur
 \mb gịakị   -W   dʒelgenke -W   kapkan -W   tulut -WEːČ -R(E)       ńaːn  tar  uŋ        -GE    -WUr    
 \ps pron         n              n           v                       ?     adv  n                        
-\ge various -acc animal    -acc trap.R -acc set   -gnr  -nonfut.3pl again thus something -desig -prfl.pl
+\ge various -acc animal    -acc trap.R -acc set   -gnr  -nonfut again thus something -desig -prfl.pl
 
 \tx debleŋgewur                    gadʒịwaːtta,         Xajrịzọvtakị.
 \mb dʒeb -LEn -ŋ   -GE    -WUr     gadʒị -WEːČ -R(E)   Xajrjuzovo -t(E)kI
@@ -237,7 +237,7 @@ district centre, but it was also further to Esso than to Xajrjuzovo.
 \tx rajọmmun,           i     sabranijatki        emmoːtte                mụranịt,    dʒụganịdụ
 \mb rajon.R  -WUn         i     sobranija.R -t(E)kI em   -WEːČ -R(E)       mụran -E  -Č   dʒụganị -DU 
 \ps n                     conj  n                   v                      n              n           
-\ge district -poss.1pl.ex and.R meetings.R  -all    come -gnr  -nonfut.3pl horse -ep -ins summer  -dat
+\ge district -poss.1pl.ex and.R meetings.R  -all    come -gnr  -nonfut horse -ep -ins summer  -dat
 
 \tx mụranịč,   tugenidu    ọrọnịč             ili  ŋịnịč.
 \mb mụran -E  -Č   tugeni -DU  ọrọn              -E  -Č   ili  ŋịn -E  -Č  
@@ -343,7 +343,7 @@ touched it so often.
 \tx Dʒọːwasị           kutiːńekekem      ečin      uŋisnoːtte                     uŋne
 \mb dʒọ        -W   -E  =sI   kutiːńekeken -W   erroːčin  uŋ -E  -s(E)n -WEːČ -R(E)       uŋni      
 \ps n                         adj               pron      v                               ?         
-\ge gall.juice -acc -ep =emph tiny         -acc prox.qual do -ep -lim   -gnr  -nonfut.3pl over.there
+\ge gall.juice -acc -ep =emph tiny         -acc prox.qual do -ep -lim   -gnr  -nonfut over.there
 
 \tx uːmir           moːle,       uksila,                  uŋnin             nan    kọlukawaːtta.
 \mb umiː        -r   moː   -(dU)LE hok    -RI       -(dU)LE uŋ -RI  -n(I)     ńaːn  kọl   -WkEn -WEːČ -R(E)      
@@ -485,7 +485,7 @@ that it's actually 'Mavra Innokent'evna'.
 \tx Tabịč      minusi             ịrkaŋnịddʒọːtta,              kučukenisi       biseku,
 \mb tabačịsị min     -W   =sI   ịrkaŋnị -D    -WEːČ -R(E)       kočuken -E  =sI   bi -REk      -W       
 \ps adv      pron               v                               adj               v                     
-\ge then     1sg.obl -acc =emph tease   -prog -gnr  -nonfut.3pl small   -ep =emph be -cond.cvb -poss.1sg
+\ge then     1sg.obl -acc =emph tease   -prog -gnr  -nonfut small   -ep =emph be -cond.cvb -poss.1sg
 
 \tx ebdʒenden bisiwu,           ittiwu.
 \mb hebdʒen bi -RI  -W        it  -RI  -W       

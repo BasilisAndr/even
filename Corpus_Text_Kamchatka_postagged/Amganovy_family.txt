@@ -22,8 +22,8 @@ and had worked as a milker and then a cleaner.
 \ref 02:04
 \tx [stammers] tụnŋan kụŋaŋịlbụn,              dʒoːr ńarịl,   ịlan asatkaŋịlbụn                tar.
 \mb stammers tụnŋan kụŋa  -ŋ   -E  -L  -WUn         dʒoːr ńarị -L  ịlan  asatkan -ŋ   -E  -L  -WUn         tarak
-\ps interj   num    n                               num   n        num   n                                 pron 
-\ge stammers five   child -aln -ep -pl -poss.1pl.ex two   boy  -pl three girl    -aln -ep -pl -poss.1pl.ex dist 
+\ps interj   num    n                               num   n        num   n                                 pron
+\ge stammers five   child -aln -ep -pl -poss.1pl.ex two   boy  -pl three girl    -aln -ep -pl -poss.1pl.ex dist
 
 \ft EPA: We have five children, two boys and three girls.
 \ru Пятеро детей, двое парней, трое девчонок.
@@ -34,8 +34,8 @@ and had worked as a milker and then a cleaner.
 \ref 02:09
 \tx Omen ọrdụla                gurgeːwčidden.
 \mb omen ọrọn              -(dU)LE gurgeːwči -D    -R(E)   -E  -n(I)
-\ps num  n                         v                                
-\ge one  domestic.reindeer -loc    work      -prog -nonfut -ep -3sg 
+\ps num  n                         v
+\ge one  domestic.reindeer -loc    work      -prog -nonfut -ep -3sg
 \ft EPA: One works in the reindeer herd.
 \ru Один работает в табуне.
 \ru
@@ -45,8 +45,8 @@ and had worked as a milker and then a cleaner.
 \ref 02:12
 \tx Gịadmar    taŋaddan.
 \mb gịa  -dmEr  taŋ  -E  -D    -R(E)   -E  -n(I)
-\ps adj         v                               
-\ge next -contr read -ep -prog -nonfut -ep -3sg 
+\ps adj         v
+\ge next -contr read -ep -prog -nonfut -ep -3sg
 
 \ft EPA: The second one is studying.
 \ru Второй учится.
@@ -56,8 +56,8 @@ and had worked as a milker and then a cleaner.
 \ref 02:14
 \tx Potom  vot    omen Miloserdijala       gurgeːwčidden.
 \mb potom  vot    omen Miloserdija -(dU)LE gurgeːwči -D    -R(E)   -E  -n(I)
-\ps adv    ptl    num  n                   v                                
-\ge then.R here.R one  charity.R   -loc    work      -prog -nonfut -ep -3sg 
+\ps adv    ptl    num  n                   v
+\ge then.R here.R one  charity.R   -loc    work      -prog -nonfut -ep -3sg
 
 \ft EPA: And then one works in the 'Miloserdija' (the charitable old people's home).
 \ru Потом вот один в Милосердии работает.
@@ -66,8 +66,8 @@ and had worked as a milker and then a cleaner.
 \id Amganovy_family06
 \ref 02:18
 \tx Omenda    tar   prodavec.
-\mb omen =DE  tarak prodavec    
-\ps num       pron  n           
+\mb omen =DE  tarak prodavec
+\ps num       pron  n
 \ge one  =ptl dist  shopkeeper.R
 \ft EPA: And one is a shopkeeper.
 \ru Один продавец.
@@ -77,13 +77,13 @@ and had worked as a milker and then a cleaner.
 \ref 02:21
 \tx Omen, mladšij   on,  er  samyj  ergewun,              gurge... Xabarovskala
 \mb omen mladšij    on   er  samyj  erge     -WUn         Xabarovsk  -E  -(dU)LE
-\ps num  adj        pron interj adj    adj                   n                     
-\ge one  youngest.R he.R ehm most.R youngest -poss.1pl.ex Khabarovsk -ep -loc   
+\ps num  adj        pron interj adj    adj                   n
+\ge one  youngest.R he.R ehm most.R youngest -poss.1pl.ex Khabarovsk -ep -loc
 
 \tx taŋaddan.
 \mb taŋ  -E  -D    -R(E)   -E  -n(I)
-\ps v                               
-\ge read -ep -prog -nonfut -ep -3sg 
+\ps v
+\ge read -ep -prog -nonfut -ep -3sg
 \ft EPA [codeswitching]: One, she's the youngest, our youngest, wor... [started to say 'works' but broke off] is studying in
 Xabarovsk.
 \ru А младшая учится в Хабаровске.
@@ -93,8 +93,8 @@ Xabarovsk.
 \ref 02:29
 \tx A     tak  von     plemjannicawu         tarịala     tala          tože  taŋaddan.
 \mb a.R   tak  von     plemjannica -W        tarak -(dU)LE tarak -(dU)LE tože   taŋ  -E  -D    -R(E)   -E  -n(I)
-\ps ?     interj ptl     n                     pron          pron          ptl    v                               
-\ge but.R so.R there.R niece.R     -poss.1sg dist  -loc    dist  -loc    also.R read -ep -prog -nonfut -ep -3sg 
+\ps ?     interj ptl     n                     pron          pron          ptl    v
+\ge but.R so.R there.R niece.R     -poss.1sg dist  -loc    dist  -loc    also.R read -ep -prog -nonfut -ep -3sg
 
 \ft EPA: But so, over there my niece is also studying.
 \ru Вон она моя племяница тоже учится.
@@ -107,8 +107,8 @@ expressions
 \id Amganovy_family09
 \ref 02:34
 \tx Ešče  omem      anŋanụ   taŋdʒịn      ńan   tar   ọddʒịnasị.
-\mb ešče    omen -W   anŋan -W   taŋ  -DʒI -n(I) ńaːn  tarak ọd   -DʒI -n(I) -E  =sI  
-\ps adv     num       n          v               ?     pron  v                        
+\mb ešče    omen -W   anŋan -W   taŋ  -DʒI -n(I) ńaːn  tarak ọd   -DʒI -n(I) -E  =sI
+\ps adv     num       n          v               ?     pron  v
 \ge still.R one  -acc year  -acc read -fut -3sg  again dist  stop -fut -3sg  -ep =emph
 \ft EPA: One more year and she'll finish.
 \ru Еще один год проучится и закончит.
@@ -117,8 +117,8 @@ expressions
 \id Amganovy_family10
 \ref 02:37
 \tx A     tiːk nọŋan pekarnjala       gurgeːwčidden,                  praktikajị,         vot
-\mb a.R   tiek nọŋan pekarnja -(dU)LE gurgeːwči -D    -R(E)   -E  -n(I) praktika     -J       vot   
-\ps ?     adv  pron  n                v                                 n                     ptl   
+\mb a.R   tiek nọŋan pekarnja -(dU)LE gurgeːwči -D    -R(E)   -E  -n(I) praktika     -J       vot
+\ps ?     adv  pron  n                v                                 n                     ptl
 \ge but.R now  3sg   bakery.R -loc    work      -prog -nonfut -ep -3sg  internship.R -prfl.sg here.R
 
 \tx tak-to nu bol'še...
@@ -130,8 +130,8 @@ expressions
 \ref 02:46
 \tx Ekmu             rybelkele              bisni.
 \mb eken   -W        rybalka        -(dU)LE bi -R(E)   -n(I)
-\ps n                n                      v               
-\ge mother -poss.1sg fishing.camp.R -loc    be -nonfut -3sg 
+\ps n                n                      v
+\ge mother -poss.1sg fishing.camp.R -loc    be -nonfut -3sg
 
 \ft EPA: My mother lives in a fishing camp.
 \ru Мама на рыбалке живет.
@@ -141,8 +141,8 @@ expressions
 \id Amganovy_family12
 \ref 02:49
 \tx Potom.... Noːŋilbude                        tože  rybelkele              bidde,           čeledʒur.
-\mb potom  noː             -SEl -W        =DE  tože   rybalka        -(dU)LE bi -D    -R(E)   čele -dʒUr       
-\ps adv    n                                   ptl    n                      v                ?                
+\mb potom  noː             -SEl -W        =DE  tože   rybalka        -(dU)LE bi -D    -R(E)   čele -dʒUr
+\ps adv    n                                   ptl    n                      v                ?
 \ge then.R younger.sibling -pl  -poss.1sg =ptl also.R fishing.camp.R -loc    be -prog -nonfut all  -ins.prfl.pl
 
 \ft EPA: My younger siblings also all live in a fishing camp.
@@ -153,8 +153,8 @@ expressions
 \ref 02:54
 \tx Telidde                          ịadụ   "rybelkele",           telidde                          nọŋartan.
 \mb teli           -D    -R(E)       ịak  -DU  rybalka        -(dU)LE teli           -D    -R(E)       nọŋartan
-\ps v                                pron      n                      v                                pron    
-\ge stockpile.fish -prog -nonfut.3pl what -dat fishing.camp.R -loc    stockpile.fish -prog -nonfut.3pl 3pl     
+\ps v                                pron      n                      v                                pron
+\ge stockpile.fish -prog -nonfut what -dat fishing.camp.R -loc    stockpile.fish -prog -nonfut         3pl
 \ft EIA: They fish, why (say) 'a the rybalka', they fish.
 \ru Рыбачат, зачем (сказала) "рыбалка", рыбачат они.
 \ph
@@ -166,8 +166,8 @@ expressions
 \ref 02:58
 \tx Nu     telidde                          [laughter] nọ vseravno       že... ịadda!                  [laughter]
 \mb nu     teli           -D    -R(E)       laughter no.R  vseravno       že    ịa      -D    -R(E)       laughter
-\ps ptl    v                                ?        ?     adv            ptl   v                         ?       
-\ge well.R stockpile.fish -prog -nonfut.3pl laughter but.R all.the.same.R ptl.R do.what -prog -nonfut.3pl laughter
+\ps ptl    v                                ?        ?     adv            ptl   v                         ?
+\ge well.R stockpile.fish -prog -nonfut laughter but.R all.the.same.R ptl.R do.what -prog -nonfut laughter
 
 \ft EPA: Well so they fish... but it's all the same what they do.
 \ru Ну рыбачат .... ну все равно что делают.
@@ -176,8 +176,8 @@ expressions
 \id Amganovy_family15
 \ref 03:03
 \tx Ọllaw     bejčidde
-\mb ọlra -W   bejči -D    -R(E)      
-\ps n         v                      
+\mb ọlra -W   bejči -D    -R(E)
+\ps n         v
 \ge fish -acc hunt  -prog -nonfut.3pl
 \ft EPA: They catch fish.
 \ru Рыбу ловят.
@@ -186,8 +186,8 @@ expressions
 \id Amganovy_family16
 \ref 03:06
 \tx Nu     tak-to      bol'še  ịak ịaw      unet  teːleŋdʒim?
-\mb nu     tak-to      bol'še ịak  ịak  -W   unet  teːleŋ -DʒI -m  
-\ps ptl    interj      adv    pron pron      adv   v               
+\mb nu     tak-to      bol'še ịak  ịak  -W   unet  teːleŋ -DʒI -m
+\ps ptl    interj      adv    pron pron      adv   v
 \ge well.R like.this.R more.R what what -acc still tell   -fut -1sg
 
 \ft EPA: Well like this - and what else should I tell?
@@ -199,8 +199,8 @@ expressions
 \id Amganovy_family17
 \ref 03:13
 \tx Meːrker               gurgeːwčiddu.
-\mb meːn -L  -KEn     -L  gurgeːwči -D           -(R)U  
-\ps pron                  v                             
+\mb meːn -L  -KEn     -L  gurgeːwči -D           -(R)U
+\ps pron                  v
 \ge refl -pl -dim.int -pl work      -prog.nonfut -1pl.ex
 
 \ft EIA: We ourselves work.
@@ -212,13 +212,13 @@ expressions
 \id Amganovy_family18
 \ref 03:18
 \tx Nanu  bi   pensijeddem                  nọ gurgeːwčiddem,               a    nọŋan ešče  unet...
-\mb nanu  biː pensija   -D    -R(E)   -m   no.R  gurgeːwči -D    -R(E)   -m   a.R   nọŋan ešče    unet 
-\ps ptl   pron v                            ?     v                            ?     pron  adv     adv  
+\mb nanu  biː pensija   -D    -R(E)   -m   no.R  gurgeːwči -D    -R(E)   -m   a.R   nọŋan ešče    unet
+\ps ptl   pron v                            ?     v                            ?     pron  adv     adv
 \ge ptl?? 1sg pension.R -prog -nonfut -1sg but.R work      -prog -nonfut -1sg but.R 3sg   still.R still
 
 \tx [ịlam     atkịkam].
-\mb ịlan  -W   atkịkan -W  
-\ps num        n           
+\mb ịlan  -W   atkịkan -W
+\ps num        n
 \ge three -acc moon    -acc
 \ft EPA: Well yes, I'm on pension but work, and he still ... [EIA: three months]
 \ru Я на пенсии, но работаю, а он еще ... (3 месяца)
@@ -227,8 +227,8 @@ expressions
 \id Amganovy_family19
 \ref 03:25
 \tx Unet  aːmnịk a...  pensijenedʒịn              tože  sčas.
-\mb unet  aːmnịk  a.R   pensija   -nE     -DʒI -n(I) tože   sčas 
-\ps adv   adv     ?     v                            ptl    adv  
+\mb unet  aːmnịk  a.R   pensija   -nE     -DʒI -n(I) tože   sčas
+\ps adv   adv     ?     v                            ptl    adv
 \ge still quickly but.R pension.R -intent -fut -3sg  also.R now.R
 
 \ft EPA: Soon... he'll also go on pension now, as well.
@@ -239,12 +239,12 @@ expressions
 \ref 03:33
 \tx A     omende    noːwu                    tože  kụŋaŋalnụmị                bidden,
 \mb a.R   omen =DE  noː             -W        tože   kụŋa  -ŋ   -E  -L  -ńUn -J       bi -D    -R(E)   -E  -n(I)
-\ps ?     num       n                         ptl    n                                v                         
-\ge but.R one  =ptl younger.sibling -poss.1sg also.R child -aln -ep -pl -com -prfl.sg be -prog -nonfut -ep -3sg 
+\ps ?     num       n                         ptl    n                                v
+\ge but.R one  =ptl younger.sibling -poss.1sg also.R child -aln -ep -pl -com -prfl.sg be -prog -nonfut -ep -3sg
 
 \tx vot...
-\mb vot   
-\ps ptl   
+\mb vot
+\ps ptl
 \ge here.R
 \ft EPA: Ah, and one of my younger siblings also looks after her children, well...
 \ru Одна младшая сестра тоже с детьми сидит...
@@ -253,19 +253,19 @@ expressions
 \id Amganovy_family21
 \ref 03:40
 \tx Ileke,              ọrọmŋal                bazalatan                bidden,                  tože
-\mb irek  -(dU)LE =kE   ọrọn              -mŋE  -L  baza   -(dU)LE -tEn      bi -D    -R(E)   -E  -n(I) tože  
-\ps pron                n                           n                        v                          ptl   
+\mb irek  -(dU)LE =kE   ọrọn              -mŋE  -L  baza   -(dU)LE -tEn      bi -D    -R(E)   -E  -n(I) tože
+\ps pron                n                           n                        v                          ptl
 \ge which -loc    =emph domestic.reindeer -agnr -pl base.R -loc    -poss.3pl be -prog -nonfut -ep -3sg  also.R
 
 \tx kụŋaŋalnụmị,               tadụ,    tadụ     gurgeːwčiddʒoːtte                 nọŋartan, sto...
 \mb kụŋa  -ŋ   -E  -L  -ńUn -J       tarak -DU  tarak -DU  gurgeːwči -D    -WEːČ -R(E)       nọŋartan *sto
-\ps n                                pron       pron       v                                 pron     ?   
-\ge child -aln -ep -pl -com -prfl.sg dist  -dat dist  -dat work      -prog -gnr  -nonfut.3pl 3pl      *** 
+\ps n                                pron       pron       v                                 pron     ?
+\ge child -aln -ep -pl -com -prfl.sg dist  -dat dist  -dat work      -prog -gnr  -nonfut     3pl      ***
 
 \tx starožitịddʒọːtte               ịawụčesị.
-\mb starožit -E  -D    -WEːČ -R(E)       ịak  =(W)UttE -E  =sI  
-\ps v                                    pron                   
-\ge guard.R  -ep -prog -gnr  -nonfut.3pl what =indef   -ep =emph
+\mb starožit -E  -D    -WEːČ -R(E)       ịak  =(W)UttE -E  =sI
+\ps v                                    pron
+\ge guard.R  -ep -prog -gnr  -nonfut what =indef   -ep =emph
 \ft EPA: She lives on a reindeer herding base, also with her children, and there they work, they guard something.
 \ru На базе у оленоводов находиться, с детьми, там работают и  что-то сторожат.
 \ph
@@ -276,13 +276,13 @@ things that need to be carried around when the reindeer herd migrates.
 \id Amganovy_family22
 \ref 03:52
 \tx A     tože  emiddʒoːtte                     aːdụnda     mụranịč,   aːdụnda
-\mb a.R   tože   em   -E  -D    -WEːČ -R(E)       haːdụn    =DE  mụran -E  -Č   haːdụn    =DE 
-\ps ?     ptl    v                                adv            n              adv           
-\ge but.R also.R come -ep -prog -gnr  -nonfut.3pl sometimes =ptl horse -ep -ins sometimes =ptl
+\mb a.R   tože   em   -E  -D    -WEːČ -R(E)       haːdụn    =DE  mụran -E  -Č   haːdụn    =DE
+\ps ?     ptl    v                                adv            n              adv
+\ge but.R also.R come -ep -prog -gnr  -nonfut sometimes =ptl horse -ep -ins sometimes =ptl
 
 \tx vertoletit           degwoːtte.
-\mb vertolet     -E  -Č   deg -WEːČ -R(E)      
-\ps n                     v                    
+\mb vertolet     -E  -Č   deg -WEːČ -R(E)
+\ps n                     v
 \ge helicopter.R -ep -ins fly -gnr  -nonfut.3pl
 \ft EPA: And they come as well, sometimes by horse, sometimes they fly by helicopter.
 \ru Иногда на лошадях приезжают, иногда на вертолете прилетают.
@@ -292,18 +292,18 @@ things that need to be carried around when the reindeer herd migrates.
 \ref 03:57
 \tx A     ekmuwul                 esni,             tadụt              biddʒoːtten,
 \mb a.R   eken   -W        =gEl   e   -R(E)   -n(I) tarak -DU  =t(E)    bi -D    -WEːČ -R(E)   -n(I)
-\ps ?     n                       v                 pron                v                           
-\ge but.R mother -poss.1sg =coord neg -nonfut -3sg  dist  -dat =utočnit be -prog -gnr  -nonfut -3sg 
+\ps ?     n                       v                 pron                v
+\ge but.R mother -poss.1sg =coord neg -nonfut -3sg  dist  -dat =utočnit be -prog -gnr  -nonfut -3sg
 
 \tx emmoːtten                 omneken        ńan   produktyji        gadʒịwaːttan,
 \mb em   -WEːČ -R(E)   -n(I) omen -REkEn    ńaːn  produkty -J       gadʒị -WEːČ -R(E)   -n(I)
-\ps v                        num            ?     n                 v                        
-\ge come -gnr  -nonfut -3sg  one  -iter.adv again food.R   -prfl.sg fetch -gnr  -nonfut -3sg 
+\ps v                        num            ?     n                 v
+\ge come -gnr  -nonfut -3sg  one  -iter.adv again food.R   -prfl.sg fetch -gnr  -nonfut -3sg
 
 \tx a     tak  ereger bụjn biddʒoːtten.
 \mb a.R   tak  ereger bụj    bi -D    -WEːČ -R(E)   -n(I)
-\ps ?     interj adv    n      v                           
-\ge but.R so.R always forest be -prog -gnr  -nonfut -3sg 
+\ps ?     interj adv    n      v
+\ge but.R so.R always forest be -prog -gnr  -nonfut -3sg
 
 \ft EPA: But not my mother, she lives there, comes once (a year) to buy food, but generally she always lives in the forest.
 \ru А мама нет, там и живет, приезжает один раз (наверно в год) за продуктами, а так все время в лесу живет.

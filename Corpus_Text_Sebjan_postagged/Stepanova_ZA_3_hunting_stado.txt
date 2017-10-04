@@ -150,7 +150,7 @@ here, and she may just have made a mistake.
 \tx bejelbu         gerbedʒitnen                esten           gerbukkerer.
 \mb bej -E  -L  -W   gerbe -DʒI         -tEn      e   -R(E)       gerbu -Č   -Gr(E) -R      
 \ps n                n                            v               v                         
-\ge man -ep -pl -acc name  -ins.prfl.sg -poss.3pl neg -nonfut.3pl call  -res -hab   -neg.cvb
+\ge man -ep -pl -acc name  -ins.prfl.sg -poss.3pl neg -nonfut call  -res -hab   -neg.cvb
 \ft Amongst us, amongst Evens one does not call old people by their own name.
 \ru У нас, у эвенов есть старых людей по имени не называют.
 \ph

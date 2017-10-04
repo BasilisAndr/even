@@ -97,7 +97,7 @@ said it had to be gurgeːweten, 'their work', and that [gurgeːwesen] would be '
 \tx biweːtte,             ọːn nọŋartan aŋaːnịtan.
 \mb bi -WEːČ -R(E)       ọːn nọŋartan haŋan -RI  -tEn     
 \ps v                    pron pron     v                   
-\ge be -gnr  -nonfut.3pl how 3pl      sew   -pst -poss.3pl
+\ge be -gnr  -nonfut how 3pl      sew   -pst -poss.3pl
 
 \ft All tried to showed everyone (how they live, how they sewed.
 \ru Все старались показать всем, как они живут, как они шьют.
@@ -200,7 +200,7 @@ said it had to be gurgeːweten, 'their work', and that [gurgeːwesen] would be '
 \tx Ọːn tala          gịakị ńọːča iːnne           [stammers] ibdiride    ọːja
 \mb ọːn tarak -(dU)LE gịakị   ńụčị    iːn  -R(E)       stammers ibdiri =DE  họːja
 \ps pron pron          pron    ?       v                interj   n           quant
-\ge how dist  -loc    various Russian live -nonfut.3pl stammers people =ptl many 
+\ge how dist  -loc    various Russian live -nonfut stammers people =ptl many 
 
 \tx estende          goːn       ịakawụ   ọrọč emnin.
 \mb e   -R(E)   =DE  goːn        ịak  -awụ  ọrọč  em   -RI  -n(I)    
@@ -217,7 +217,7 @@ said it had to be gurgeːweten, 'their work', and that [gurgeːwesen] would be '
 \tx Tiːk atịkartakị        teːleŋčeji             atịkal      goːweːtte               ọːn
 \mb tiek atịkan    -L  -t(E)kI teːleŋ -čE     -J       atịkan    -L  goːn -WEːČ -R(E)       ọːn
 \ps adv  n                     v                       n             v                      pron
-\ge now  old.woman -pl -all    tell   -pf.ptc -prfl.sg old.woman -pl say  -gnr  -nonfut.3pl how
+\ge now  old.woman -pl -all    tell   -pf.ptc -prfl.sg old.woman -pl say  -gnr  -nonfut how
 
 \tx ???  goːnem            ajịčeː         degsiwu.
 \mb *??? goːn -R(E)   -m   aj   -E  -Č   =eː   deg -RI  -W       
@@ -272,7 +272,7 @@ buteːnenni; ty ne boleeš'? = ečis buteːnne? ečis buteːnedde
 \tx kojeːtnerep                    ọːn tala          bise,          ńan   tar   bi   uredʒeːnniwu.
 \mb kojeːt  -nE     -R(E)   -p      ọːn tarak -(dU)LE bi -R(E)       ńaːn  tarak biː ur -E  -dʒEːn -RI  -W       
 \ps v                               pron pron          v              ?     pron  pron v                           
-\ge look.at -intent -nonfut -1pl.in how dist  -loc    be -nonfut.3pl again dist  1sg go -ep -dur   -pst -poss.1sg
+\ge look.at -intent -nonfut -1pl.in how dist  -loc    be -nonfut again dist  1sg go -ep -dur   -pst -poss.1sg
 
 \ft And my children, Diana Kučerenko says to me, "Let's go, grandma, let's go to see how they live there", and then I went.
 \ru Вот мои дети, ДК мне говорит, поехали бабушка, поедем смотреть как там живут, и я тогда поехала.

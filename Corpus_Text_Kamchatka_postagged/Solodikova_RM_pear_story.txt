@@ -463,7 +463,7 @@ those which he had picked.
 \tx ńarịkakar       gịrkar            [stammers]
 \mb ńarị -kEkEn -L  gịrka -R(E)       stammers
 \ps n               v                 interj  
-\ge boy  -dim   -pl walk  -nonfut.3pl stammers
+\ge boy  -dim   -pl walk  -nonfut stammers
 
 \tx ńarịjakar       debniker           taraw      tar
 \mb ńarị -jEkEn -L  dʒeb -nIkEn   -L  tarak -W   tarak

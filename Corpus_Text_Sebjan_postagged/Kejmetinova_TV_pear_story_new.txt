@@ -313,7 +313,7 @@ that.
 \tx Taraw      tar   er   bejlede          este            emne          hatlan,
 \mb tarak -W   tarak erek bej -(dU)LE =DE  e   -R(E)       em   -R       hat  -(dU)LE -n(I)    
 \ps pron       pron  pron n                v               v             rel                   
-\ge dist  -acc dist  prox man -loc    =ptl neg -nonfut.3pl come -neg.cvb base -loc    -poss.3sg
+\ge dist  -acc dist  prox man -loc    =ptl neg -nonfut come -neg.cvb base -loc    -poss.3sg
 
 \tx čaːgawda         ehni              horre.
 \mb čaːg -(g)Ew =DE  e   -R(E)   -n(I) hor -R      
@@ -331,7 +331,7 @@ that.
 \tx Ọːnda    esten           ukčemmekkerer.
 \mb ọːn =DE  e   -R(E)       ukčen -mEČ -Gr(E) -R      
 \ps pron     v               v                         
-\ge how =ptl neg -nonfut.3pl tell  -rec -hab   -neg.cvb
+\ge how =ptl neg -nonfut tell  -rec -hab   -neg.cvb
 \ft They don't talk with each other at all.
 \ru Никак не разговаривают.
 \ph
@@ -811,7 +811,7 @@ from oŋke "pour" and učaŋalbụ- from "ụčaŋ" 'break'
 \tx biddeken                        ịlan kụŋakkal       emne,            emie   ọmọlgakkal,
 \mb bi -D    -REk      -E  -n(I)     ịlan  kụŋa  -kkEn -L  em   -R(E)       emie   ọmọlga -kkEn -L 
 \ps v                                num   n               v                adv    n               
-\ge be -prog -cond.cvb -ep -poss.3sg three child -dim  -pl come -nonfut.3pl also.Y boy    -dim  -pl
+\ge be -prog -cond.cvb -ep -poss.3sg three child -dim  -pl come -nonfut also.Y boy    -dim  -pl
 
 \tx nọŋan hemekelni.
 \mb nọŋan hemek    -E  -L  -n(I)    
@@ -835,7 +835,7 @@ tense meaning
 \tx haːdʒịr,    toːditte,              tar   korzinawan                 emie
 \mb haː  -DʒI -r   toːdi -Č   -R(E)       tarak korzina  -W   -E  -n(I)     emie  
 \ps v              v                      pron  n                           adv   
-\ge know -fut -3pl help  -res -nonfut.3pl dist  basket.R -acc -ep -poss.3sg also.Y
+\ge know -fut -3pl help  -res -nonfut dist  basket.R -acc -ep -poss.3sg also.Y
 
 \tx bütünnüːwen                grušat     ịara.
 \mb bütünnüː   -W   -E  -n(I)     gruša  -Č   ịa      -R(E)      
@@ -853,7 +853,7 @@ tense meaning
 \tx Kụŋačal,      otton, umuli               mindu        este            goːnegu?
 \mb kụŋa  -čEn -L  otton em   -U    -LI      min     -DU  e   -R(E)       goːn -R       =GU
 \ps n              ?     v                   pron         v               v                
-\ge child -dim -pl dp.Y  come -caus -imp.2sg 1sg.obl -dat neg -nonfut.3pl say  -neg.cvb =q 
+\ge child -dim -pl dp.Y  come -caus -imp.2sg 1sg.obl -dat neg -nonfut say  -neg.cvb =q 
 
 \ft And the kids didn't say "Give me (a pear)"?
 \ru А дети не сказали "дай мне"?
@@ -999,7 +999,7 @@ tense meaning
 \tx Tar   ịlan kụŋačal       buollar tar   ukčenne           uručun,  omen kụŋa
 \mb tarak ịlan  kụŋa  -čEn -L  buollar tarak ukčen -R(E)       ureːčin  omen kụŋa 
 \ps pron  num   n              ptl     pron  v                 ?        num  n    
-\ge dist  three child -dim -pl dp.Y    dist  tell  -nonfut.3pl it.seems one  child
+\ge dist  three child -dim -pl dp.Y    dist  tell  -nonfut it.seems one  child
 
 \tx hotuhnidʒi                horuggeren,                    hiː ịawụs,
 \mb hotu       -s(E)n -RIdʒI   hor -U    -D    -Gr(E) -E  -n(I) hiː ịak  -W   -E  -s(I)    

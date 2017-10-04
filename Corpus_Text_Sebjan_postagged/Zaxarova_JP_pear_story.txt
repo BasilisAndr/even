@@ -270,7 +270,7 @@ individually, po-odnomu sobirat', čak = tidy up, pribirat', v porjadok privodit
 \tx Kimneːger   delbi  kömölöstö          ịawan                 igin  ụmụjrịdʒụr   boːre,          tikče
 \mb kimneːger    delbi  kömölös -R(E)       ịak  -W   -E  -n(I)     iŋin  ụmụj   -RIdʒI   -L  boː  -R(E)       tik  -čE    
 \ps pron         adv    v                   pron                    ptl   v                   v                v           
-\ge who.compar.Y very.Y help.Y  -nonfut.3pl what -acc -ep -poss.3sg etc.Y gather -ant.cvb -pl give -nonfut.3pl fall -pf.ptc
+\ge who.compar.Y very.Y help.Y  -nonfut what -acc -ep -poss.3sg etc.Y gather -ant.cvb -pl give -nonfut fall -pf.ptc
 
 \tx grušalbu       [tikteŋmen]
 \mb gruša  -L  -W   tik  -DEŋ     -W   -E  -n(I)    
@@ -287,7 +287,7 @@ individually, po-odnomu sobirat', čak = tidy up, pribirat', v porjadok privodit
 \tx Ee, ụmụjrịdʒụr   boːre,          tarịt horehne.
 \mb ee ụmụj   -RIdʒI   -L  boː  -R(E)       tarịt hor -E  -s(E)n -R(E)      
 \ps interj v                   v                adv   v                         
-\ge eh gather -ant.cvb -pl give -nonfut.3pl then  go  -ep -lim   -nonfut.3pl
+\ge eh gather -ant.cvb -pl give -nonfut then  go  -ep -lim   -nonfut.3pl
 
 \ft They gathered (the pears) for him, then left.
 \ru Собрали, потом ушли.

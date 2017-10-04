@@ -871,7 +871,7 @@ Sakha as "hïjjïbïtïm ebite buollar"
 \tx Erek minu         mendedde                 ebit,      dekindeku,                     goːniken.
 \mb erek min     -W   mende  -D    -R(E)       ebit       dekin      -DE       -W        goːn -nIkEn  
 \ps pron pron         v                        ptl        v                              v            
-\ge prox 1sg.obl -acc search -prog -nonfut.3pl it.seems.Y hide(intr) -purp.cvb -poss.1sg say  -sim.cvb
+\ge prox 1sg.obl -acc search -prog -nonfut it.seems.Y hide(intr) -purp.cvb -poss.1sg say  -sim.cvb
 
 \ft It seems they are looking for me, let me hide.
 \ru Это меня ищут оказывается, дай-ка я спрячусь, говоря.

@@ -1334,7 +1334,7 @@ nazyvaetsja brus"
 \tx Kụŋal     umure                  tarịt ečiken         ičukette:             oro, Anastasija   Afanasjevna, oro
 \mb kụŋa  -L  em   -U    -R(E)       tarịt erroːčin  -KEn it  -WkEn -Č   -R(E)   erek Anastasịja Afanasjevna erek
 \ps n         v                      adv   pron           v                      pron ?          ?           pron
-\ge child -pl come -caus -nonfut.3pl then  prox.qual -dim see -caus -res -nonfut prox Anastasija Afanasjevna prox
+\ge child -pl come -caus -nonfut then  prox.qual -dim see -caus -res -nonfut prox Anastasija Afanasjevna prox
 
 \tx gerbe, tar   togoho.
 \mb gerbe tarak tohoγo

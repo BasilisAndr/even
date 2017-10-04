@@ -93,7 +93,7 @@ rebenok priexal na velosipede"
 \tx ọːnkana    goːweːtteke...                [naːdịtan]
 \mb ọːn =kEnE  goːn -WEːČ -R(E)       =kE   naː -RI  -tEn     
 \ps pron       v                            v                 
-\ge how =contr say  -gnr  -nonfut.3pl =emph hit -pst -poss.3pl
+\ge how =contr say  -gnr  -nonfut =emph hit -pst -poss.3pl
 
 \ft And he met a girl, and they ... how do they say .... [Rimma Maksimovna, whispered:] they hit...
 \ru Потом встречал девушку, и они вдвоем.... как говорят же

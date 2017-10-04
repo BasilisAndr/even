@@ -332,7 +332,7 @@ nọŋartakịTAN, as expected
 \tx Čeledʒur          tala          min     urelbu             gurgeːwčidde,               tala
 \mb čele -dʒUr         tarak -(dU)LE min     urel     -W        gurgeːwči -D    -R(E)       tarak -(dU)LE
 \ps ?                  pron          pron    n                  v                           pron         
-\ge all  -ins.prefl.pl dist  -loc    1sg.obl children -poss.1sg work      -prog -nonfut.3pl dist  -loc   
+\ge all  -ins.prefl.pl dist  -loc    1sg.obl children -poss.1sg work      -prog -nonfut dist  -loc   
 
 \tx gurgeːle,      Mikulej, Nidiše, Lilije, Galja.
 \mb gurgeː -(dU)LE Mikulej Nidiše  Lilije Galja

@@ -70,7 +70,7 @@ really grown out yet in summer, and then big hard bushes damages the skin there 
 \tx Jurtawesi            teːwoːtte                  egdʒemkeru,       prjamo     egdʒemkeru.
 \mb jurta  -W   -E  =sI   teːw     -WEːČ -R(E)       egdʒen -mkEr -W   prjamo     egdʒen -mkEr -W  
 \ps n                     v                          adj               adv        adj              
-\ge yurt.R -acc -ep =emph put.down -gnr  -nonfut.3pl big    -aug  -acc straight.R big    -aug  -acc
+\ge yurt.R -acc -ep =emph put.down -gnr  -nonfut big    -aug  -acc straight.R big    -aug  -acc
 
 \ft They put up a huuuuge yurt, a really huge one.
 \ru Ставят большую юрту.
@@ -101,7 +101,7 @@ Rimma Maksimovna said that there is no word ńamụda, and that what makes most 
 \tx mọːlịddʒọːtta,              a     dʒoːrde    orroːtte           ọrtakị
 \mb mọː  -LE -D    -WEːČ -R(E)       a.R   dʒoːr =DE  hor -WEːČ -R(E)   ọrọn              -t(E)kI
 \ps v                                ?     num        v                 n                        
-\ge tree -vr -prog -gnr  -nonfut.3pl but.R two   =ptl go  -gnr  -nonfut domestic.reindeer -all   
+\ge tree -vr -prog -gnr  -nonfut but.R two   =ptl go  -gnr  -nonfut domestic.reindeer -all   
 
 \tx ọrbe                 eŋeneweːtte.
 \mb ọrọn              -W   eŋen      -E  -WEːČ -R(E)      
@@ -207,7 +207,7 @@ tụrkịw. --> Lit. = don't how how THEY make something
 \tx Tabačịsị, nu     testow       nekkoːtte              egdʒendu    kastrjuljadu    čtoby
 \mb tabačịsị nu     testo   -W   nek -WEːČ -R(E)       egdʒen -DU  kastrjulja -DU  čtoby    
 \ps adv      ptl    n            v                     adj         n               conj     
-\ge then     well.R dough.R -acc do  -gnr  -nonfut.3sg big    -dat pot.R      -dat so.that.R
+\ge then     well.R dough.R -acc do  -gnr  -nonfut big    -dat pot.R      -dat so.that.R
 
 \tx čeledun             uŋden,                 čeledun             ọːja  biden,                 kilieb.
 \mb čele -DU  -n(I)     uŋ -DE       -n(I)     čele -DU  -n(I)     họːja bi -DE       -n(I)     kilieb 
@@ -375,7 +375,7 @@ pretty bread.
 \tx etikeːmude,            biːde    i     pastuxi  biddil,                ụmịwra           ejdu,
 \mb etikeːn -W        =DE  biː =DE  i     pastux   bi -D    -RI       -L  ụmịw   -R(E)       ejdu
 \ps n                      pron     conj  n        v                      v                  quant
-\ge old.man -poss.1sg =ptl 1sg =ptl and.R herder.R be -prog -impf.ptc -pl gather -nonfut.3pl all 
+\ge old.man -poss.1sg =ptl 1sg =ptl and.R herder.R be -prog -impf.ptc -pl gather -nonfut all 
 
 \tx palatkada    dọːdụn,          dọːwan                  ejdu vjučnyj sumkala
 \mb palatka =DE  dọː    -DU  -n(I)     dọː      -W   -E  -n(I)     ejdu vjučnyj sumka -(dU)LE
@@ -504,7 +504,7 @@ put) everything into an empty bag that's right here.
 \tx atalla,              vobščem    oblegčenno  utrom.
 \mb atal     -R(E)       vobščem      oblegčenno   utrom           
 \ps v                    adv          adv          n               
-\ge take.off -nonfut.3pl in.general.R simplified.R in.the.morning.R
+\ge take.off -nonfut in.general.R simplified.R in.the.morning.R
 \ft I pack everything there quickly, and the others take down the tents, in general (we do things) simply in the morning.
 \ru Все туда быстро складываю, другие палатки снимают, в общем облегченно утром.
 
@@ -720,7 +720,7 @@ dictionaries, except perhaps bobaldat 'vzdragivat' porxat'.
 \tx Pastuxal        ọkaŋčịwaːtta,             etikeːmu          goːweːtten                "Awgịč   er   diːnni
 \mb pastux   -E  -L  ọkaŋčị   -WEːČ -R(E)       etikeːn -W        goːn -WEːČ -R(E)   -n(I) aw    -GIČ  erek diːn        -n(I)    
 \ps n                ?                          n                 v                        pron        pron rel.n                
-\ge herder.R -ep -pl be.happy -gnr  -nonfut.3pl old.man -poss.1sg say  -gnr  -nonfut -3sg  where -elat prox equ.measure -poss.3sg
+\ge herder.R -ep -pl be.happy -gnr  -nonfut old.man -poss.1sg say  -gnr  -nonfut -3sg  where -elat prox equ.measure -poss.3sg
 
 \tx kọkčịŋalsị?"
 \mb kọkčịn -ŋ   -E  -L  -s(I)    
@@ -750,7 +750,7 @@ would be "a vot tam",kogda sprashivajut: "talanan bisni muŋgerele ịakta?, "ta
 \tx Čeledʒur          ińiniddʒoːttịː.
 \mb čele -dʒUr         ińin  -E  -D    -WEːČ -R(E)       =Iː  
 \ps ?                  v                                      
-\ge all  -ins.prefl.pl laugh -ep -prog -gnr  -nonfut.3pl =emph
+\ge all  -ins.prefl.pl laugh -ep -prog -gnr  -nonfut =emph
 \ft They all laugh.
 \ru Все смеются.
 \ph
@@ -773,7 +773,7 @@ nọŋartan urgeriten = oni byli tjaželye
 \tx Potom... i     vot    xolodecude             dʒeboːtte,              gịakịč    biː staralas'
 \mb potom  i     vot    xolodec      -W   =DE  dʒeb -WEːČ -R(E)       gịakị   -Č   biː staralas'
 \ps adv    conj  ptl    n                      v                      pron         pron v        
-\ge then.R and.R here.R meat.jelly.R -acc =ptl eat  -gnr  -nonfut.3pl various -ins 1sg tried.R  
+\ge then.R and.R here.R meat.jelly.R -acc =ptl eat  -gnr  -nonfut various -ins 1sg tried.R  
 
 \tx oleːtteji                    dallač.
 \mb oleː -Č   -DE       -J       dalra -Č  
@@ -871,7 +871,7 @@ pirozhki].
 \tx Opjat'  ọkaŋčịwaːtta              bejil.
 \mb opjat'  ọkaŋčị   -WEːČ -R(E)       bej -E  -L 
 \ps adv     ?                          n          
-\ge again.R be.happy -gnr  -nonfut.3pl man -ep -pl
+\ge again.R be.happy -gnr  -nonfut man -ep -pl
 \ft And again the men are happy.
 \ru Опять мужики радуются.
 \ph

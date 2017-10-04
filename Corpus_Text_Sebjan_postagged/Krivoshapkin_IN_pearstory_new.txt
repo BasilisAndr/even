@@ -315,7 +315,7 @@ much.
 \tx tala          neːre,          korzina  dọːlan.
 \mb tarak -(dU)LE neː -R(E)       korzina  dọː    -(dU)LE -n(I)    
 \ps pron          v               n        rel.n                   
-\ge dist  -loc    put -nonfut.3pl basket.R inside -loc    -poss.3sg
+\ge dist  -loc    put -nonfut basket.R inside -loc    -poss.3sg
 
 \ft Having seen (that) there they helped the little boy, they gathered all his pears
 and put them there, in the basket.

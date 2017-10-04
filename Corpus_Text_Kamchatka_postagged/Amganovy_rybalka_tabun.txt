@@ -172,12 +172,12 @@ WE:C; kileblešnen = ona sejchas poshla; kileblešno:tten = ona bystrenko xodit,
 \tx A     tačịngalda              eweski         emmoːtte,               aːnda     ịllakanda
 \mb a.R   tarọːčịn  =gEl   =DE  erek -skI      em   -WEːČ -R(E)       haːn =DE  ịlan  -REkEn    =DE 
 \ps ?     pron                  pron           v                      ?         num                 
-\ge but.R dist.qual =coord =ptl prox -advb.all come -gnr  -nonfut.3pl some =ptl three -iter.adv =ptl
+\ge but.R dist.qual =coord =ptl prox -advb.all come -gnr  -nonfut some =ptl three -iter.adv =ptl
 
 \tx emmoːtte,               aːnda     omneken        emiddʒoːtte.
 \mb em   -WEːČ -R(E)       haːn =DE  omen -REkEn    em   -E  -D    -WEːČ -R(E)      
 \ps v                      ?         num            v                               
-\ge come -gnr  -nonfut.3pl some =ptl one  -iter.adv come -ep -prog -gnr  -nonfut.3pl
+\ge come -gnr  -nonfut some =ptl one  -iter.adv come -ep -prog -gnr  -nonfut.3pl
 
 \ft EPA: But generally they come here, some come three times (a year), others come once.
 \ru А так-то они сюда приезжают, некоторые три раза приезжают, другие один раз приезжают.
@@ -203,12 +203,12 @@ exists: emmoːttekeken = 'bystro priezžajut'
 \tx Awgụstala        aːnda     emiddʒoːtte,                    aːnda     kụŋaŋalbur
 \mb avgust.R -E  -(dU)LE haːn  =DE  em   -E  -D    -WEːČ -R(E)       haːn  =DE  kụŋa  -ŋ   -E  -L  -WUr    
 \ps n                    quant      v                                quant      n                          
-\ge August.R -ep -loc    other =ptl come -ep -prog -gnr  -nonfut.3pl other =ptl child -aln -ep -pl -prfl.pl
+\ge August.R -ep -loc    other =ptl come -ep -prog -gnr  -nonfut other =ptl child -aln -ep -pl -prfl.pl
 
 \tx škọlaːtki    emuweːtte                     mụranịč.
 \mb škola.R  -t(E)kI em   -U    -WEːČ -R(E)       mụran -E  -Č  
 \ps n                v                            n             
-\ge school.R -all    come -caus -gnr  -nonfut.3pl horse -ep -ins
+\ge school.R -all    come -caus -gnr  -nonfut horse -ep -ins
 
 \ft EPA: Some come in August, some bring their children to school by horse.
 \ru Другие в августе приезжают, другие на лошадях приезжают с детьми в школу.
