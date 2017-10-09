@@ -406,7 +406,7 @@ not correct; in Sebjan they say goːnčewčin = "kak budto skazavshij", it is ju
 \tx "Papa, mama"  ester            goːŋne.
 \mb papa   mama   e   -R(E)   -r   goːn -Gr(E)         
 \ps n      n      v                v                   
-\ge papa.R mama.R neg -nonfut -3pl say  -hab.nonfut.3pl
+\ge papa.R mama.R neg -nonfut -3pl say  -hab.nonfut
 
 \ft They don't say "papa, mama".
 \ru Папа, мама не говорят.

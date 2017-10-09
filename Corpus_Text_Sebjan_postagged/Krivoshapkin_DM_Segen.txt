@@ -658,7 +658,7 @@ declination class as e- and bi- (3sg nfut = ihni); in Sebjan, however, this exis
 \tx Adʒah       minu         klahịala    iːwker,               učitelskajlawur,                 iːwken.
 \mb adʒas        min     -W   klas    =IElE iː    -WkEn            učitelskaj       -(dU)LE -WUr     iː    -WkEn           
 \ps adv          pron         n             v                      n                                 v                     
-\ge completely.Y 1sg.obl -acc class.R =emph enter -caus.nonfut.3pl teacher's.room.R -loc    -prfl.pl enter -caus.nonfut.3pl
+\ge completely.Y 1sg.obl -acc class.R =emph enter -caus.nonfut teacher's.room.R -loc    -prfl.pl enter -caus.nonfut
 
 \ft Then they led me right to class, led me to their teacher's room.
 \ru Меня ввели прямо в класс, в свою учительскую, ввели.

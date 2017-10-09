@@ -345,7 +345,7 @@ seeing, "only then he saw that a basked is gone"
 \tx Taraw      tarịt ịadnị,    kụŋakkal       ieltendʒiggere.
 \mb tarak -W   tarịt ịa      -n(I) kụŋa  -kkEn -L  ielten -D    -Gr(E)         
 \ps pron       adv   v             n               v                           
-\ge dist  -acc then  do.what -3sg  child -dim  -pl pass   -prog -hab.nonfut.3pl
+\ge dist  -acc then  do.what -3sg  child -dim  -pl pass   -prog -hab.nonfut
 
 \ft The (he) did what, the little kids walked by.
 \ru Потом это сделал, проходили детишки.

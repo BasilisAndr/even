@@ -1767,7 +1767,7 @@ person-number forms take the verbal person markers!!!,
 \tx dʒe,  nehiːle horuken.
 \mb dʒe    nehiːle  hor -WkEn           
 \ps ptl    adv      v                   
-\ge well.Y barely.Y go  -caus.nonfut.3pl
+\ge well.Y barely.Y go  -caus.nonfut
 
 \ft When I became stubborn, saying that I won't go home, they barely sent me off.
 \ru Когда я заупрямилась, что не пойду домой, еле отправили.
