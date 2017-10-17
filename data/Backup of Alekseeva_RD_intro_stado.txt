@@ -1,0 +1,1188 @@
+\_sh v3.0  1101 Text
+
+\id Alekseeva_RD_intro_stado_000_metadata
+\ref Recorded on 19 Feb 2010 in Sebjan-Küöl by Brigitte Pakendorf and Natalia Aralova. RDA came to the flat that NA and BP are renting,
+where the recording was done in the kitchen. After a cup of tea to warm up we switched on the equipment and she started to narrate
+various stories, both about her own life as well as stories that had been told her. It was fairly quiet in the house, though the washbasin
+dripped; at a somewhat later stage in the recording the house owner started chopping firewood outside, which might be audible. Since
+RDA spoke for one hour, touching upon various topics, we cut up the video file into 7 separate files that deal with separate topics to
+facilitate the workflow (transcription, translation, interlinearization); this is the beginning of the recording.
+\qu Transcribed (pen and paper) and translated by Ija Vasil'evna Krivoshapkina; transcribed in ELAN by BP and glossed by BP. Funding from the
+Volkswagen Foundation (DoBeS project).  Speaker abbreviation = RDA
+\ref Raisa Dmitrievna Alekseeva was born 10 Feb 1961, so she was 49 at the time of the recording. She holds a university degree and was
+working in the school as psychologist at the time of the recording; every summer, however, she went to the reindeer herd as a "tent
+worker" (chumrabotnitsa). She is the sister of Innokentij Dmitrievich Burtsev.
+
+\id Alekseeva_RD_intro_stado_001
+\tx clap
+\ru
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:02.145
+\ELANParticipant comment
+
+\id Alekseeva_RD_intro_stado_002
+\tx 19oe fevralja, 2010j god, i Alekseeva Raisa Dmitrievna...
+\mb
+\ge
+\ft February 19th, 2010, and Raisa Dmitrievna Alekseeva...
+\ru
+\ELANBegin 00:00:02.145
+\ELANEnd 00:00:10.686
+\ELANParticipant NA
+
+\id Alekseeva_RD_intro_stado_003
+\tx Ebedit
+\mb ewen -DI   -Č
+\ge Even -adjr -ins
+
+\ru
+\ELANBegin 00:00:10.686
+\ELANEnd 00:00:11.232
+\ELANParticipant BP
+
+\id Alekseeva_RD_intro_stado_004
+\tx S čego načnem? Ebedit?
+\mb
+\ge
+\ft What shall we begin with? In Even?
+\ru
+\ELANBegin 00:00:11.232
+\ELANEnd 00:00:12.233
+\ELANParticipant RDA
+
+\id Alekseeva_RD_intro_stado_005
+\tx aha, ukčendʒin...
+
+\ru
+\ELANBegin 00:00:12.233
+\ELANEnd 00:00:14.677
+\ELANParticipant BP
+
+\id Alekseeva_RD_intro_stado_006
+\tx Raisa Dmitrievna
+\ru
+\ELANBegin 00:00:14.677
+\ELANEnd 00:00:16.432
+\ELANParticipant RDA
+
+\id Alekseeva_RD_intro_stado_007
+\tx Aha
+\ru
+\ELANBegin 00:00:16.432
+\ELANEnd 00:00:18.486
+\ELANParticipant BP
+
+\id Alekseeva_RD_intro_stado_008
+\tx Dʒụganịdụ  bi   meːn dʒaːlčal        stadala        biwekke...        her... biwekkererem.
+\mb dʒụganị -DU  biː meːn dʒaː   -L  -čEl stado  -(dU)LE bi -WEːČ -Gr(E) hor    bi -WEːČ -Gr(E) -R(E) -m
+\ge summer       -dat 1sg  refl  relative -pl -com  herd.R -loc    be -gnr    -hab   go     be -gnr    -hab   -nonfut -1sg
+
+\ft In summer I go to the reindeer herd with my relatives.
+\ru Летом я вместе со своими родными езжу в стадо.
+\ELANBegin 00:00:18.486
+\ELANEnd 00:00:25.636
+\ELANParticipant RDA
+
+\id Alekseeva_RD_intro_stado_009
+\tx Tadụ     mut    bütünniː  bi   dʒaːlbụ            ọralčịmŋal:       ejmu,            ammụ
+\mb tarak -DU  mut    bütünnüː biː dʒaː   -L  -W        ọrọlčị -mŋE -L  enen   -W        aman   -W
+\ge dist  -dat 1pl.in entirely.Y   1sg  relative -pl -poss.1sg herd.reindeer -agnr -pl mother -poss.1sg father -poss.1sg
+
+\tx bihin...          bihidun                     emie   biwekkererit,                       tiːk ammụ           ačča,
+\mb bi -RI -n(I)      bi -RI       -DU  -n(I)     emie   bi -WEːČ -Gr(E) -RI -t(I)         tiek  aman   -W        ačča
+\ge be -pst -poss.3sg be -impf.ptc -dat -poss.3sg also.Y be -gnr    -hab   -pst -poss.1pl.in now   father -poss.1sg neg
+
+\tx ejmu             bihni.
+\mb enen   -W        bi -R(E) -n(I)
+\ge mother -poss.1sg be -nonfut -3sg
+\ft There all my relatives are reindeer herders: my mother, my father was, when he was (alive) we also used to go, now my father isn't
+anymore, my mother is (alive).
+\ph bihidün
+\gr (file Alekseeva_RD_intro_shatun_transl 2:15) difference bihidun and bičelen = bičelen = v opredelennyj moment, a bihidun =
+postojanno
+\ru Там все мои родные оленеводы, мать, отец был, когда он был мы тоже ездили, сейчас моего отца нет, мать есть.
+\ELANBegin 00:00:25.636
+\ELANEnd 00:00:36.621
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_010
+\tx Akmụ                  Bursev  Innokentij Dmitrievič tiːk zootexnik,            GUP   "Sebjan"du
+\mb akan          -W        Burcev  Innokentij Dmitrievič tiek  zootexnik             GUP   Sebjan-Küöl   -DU
+\ge older.brother -poss.1sg Burtsev Innokentij Dmitrievich now   animal.technologist.R GUP.R Sebjan-Küöl   -dat
+
+\tx gurgewčidni.
+\mb gurgeːwči -n(I)
+\ge work        -3sg
+\ft My older brother Innokentij Dmitrievich Burcev is an 'animal technologist', he works in the GUP (governmental unitary enterprise, i.e.
+the former state farm)  "Sebjan".
+\ru Мой старший брат БИД сейчас зоотехник, работает в ГУП Себян.
+\ELANBegin 00:00:36.621
+\ELANEnd 00:00:48.204
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_011
+\tx Tarak tiːk ịlịs      stadala        er   ilin... dʒụganịw     toːtčip,                  tara.
+\mb tarak tiek  ịlan -Is    stado  -(dU)LE erek         dʒụganị -W   tot           -DʒI -p      tarak
+\ge dist  now   three  -ord.Y herd.R -loc    prox         summer       -acc roam.in.taiga -fut  -1pl.in dist
+\ft Now we will go to the third reindeer brigade this summer.
+\ru Вот сейчас в третье стадо этим летом поедем. тотчип = поехать в природу, выбраться в тайгу
+\ELANBegin 00:00:48.204
+\ELANEnd 00:00:58.500
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_012
+\tx Nelkeni      tiːk emeddi                  ọralčịmŋa     ineŋidun            bi   dʒaːlčal,       ee ŋiː,
+\mb nelkeni      tiek  em   -E-D     -RI       ọrọlčị -mŋE ineŋ -DU  -n(I)     biː dʒaː   -L  -čEl ee ŋiː
+\ge early.spring now   come -ep-prog -impf.ptc herd.reindeer -agnr day   -dat -poss.3sg 1sg  relative -pl -com  eh who
+
+\tx hụnaːdʒụ        Anželika ụːčakat             ńamnịdʒịn,     Ụjbančịk ńandakan.
+\mb hụnaːdʒ -W        Anželika ụːčak       -E-Č   ńamnị -DʒI -n(I) Ivan          ńaːn =dakan
+\ge daughter    -poss.1sg Angelique riding.reindeer -ep-ins gallop   -fut  -3sg  Ivan          and    =ptl
+
+\ft In the spring that is now arriving, at the day of the reindeer herders, my family and I, ehm, who, my daughter Angelique will race on a
+riding reindeer (i.e. will take part in the 'reindeer-back' race), as well as my son Ivanchik.
+\ph
+\gr (file 07_quest_2010, 3:00 ńandakan = opjat' že, častica =dakan/=dakaj; *horremdeken, *dʒụːdakan = net
+\nt The 'day of the reindeer herders' (slet olenevodov/den' olenevoda in Russian) is a festival that usually takes place annually, in March (cf.
+Stepanov_AA_den'_olenovoda). In Sebjan it didn't take place in 2008 and 2009, and the upcoming festival is expected to be quite big,
+since it is in celebration of the 15th anniversary of the GUP "Sebjan", i.e. the state enterprise that owns and manages the reindeer herds
+where a lot (most?) people in the village work.
+\ru Весна, сейчас наступающая, в день оленевода я вместе с родными, моя дочь А. будет на учаке скакать, и Иванчик.
+\ELANBegin 00:00:58.500
+\ELANEnd 00:01:21.913
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_013
+\tx Nọŋan tiːk digis        klastụ     tattan,            Ụjbančịk, Iwan, ọttọn bi   ọmọlgọwụ,    mịan
+\mb nọŋan tiek  digen -Is    klas    -DU  tat   -R(E) -n(I)  Ivan           Ivan  ọttọn biː ọmọlga -W        mịan
+\ge 3sg      now   four  -ord.Y grade.R -dat learn -nonfut -3sg Ivan           Ivan  dp.Y      1sg  boy        -poss.1sg ten
+
+\tx anŋanịlkan.
+\mb anŋan -lkEn
+\ge year   -prop
+\ft He is now studying in the fourth grade, Ivanchik, Ivan, my son, he is ten years old.
+\ru Он сейчас учится в 4м классе, Иван, мой сын, ему 10 лет.
+\ELANBegin 00:01:21.913
+\ELANEnd 00:01:33.756
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_014
+\tx Tarak amantị            ńan   ịadʒịn,        ịlịs      kilometrdu    ńamnịdʒịn      ńan   ụːčakat
+\mb tarak aman   -t(I)        ńaːn ịa    -DʒI -n(I) ịlan -Is    kilometr -DU  ńamnị -DʒI -n(I) ńaːn ụːčak       -E-Č
+\ge dist  father -poss.1pl.in and    do.what -fut  -3sg  three  -ord.Y km.R     -dat gallop   -fut  -3sg  and    riding.reindeer -ep-ins
+
+\tx mandụdʒịn.
+\mb manrụ -DʒI -n(I)
+\ge try     -fut -3sg
+\ft Our father (i.e. her husband) will also do what, he will race in the three-kilometre (race) and will try with his riding reindeer.
+\ph
+\nt The three-kilometre race is a sled race.
+\ru Вот наш отец тоже будет делать, будет скакать на 3 км и на учахе тоже постарается.
+\ELANBegin 00:01:33.756
+\ELANEnd 00:01:49.148
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_015
+\tx Bi   beju             emie,  bi   beju             ịlan kilometrdu    ńamnịdʒịm     gerbettiw,
+\mb biː bej    -W        emie   biː bej    -W        ịlan kilometr -DU  ńamnị -DʒI -m   gerbet -RI -W
+\ge 1sg  self.Y -poss.1sg also.Y 1sg  self.Y -poss.1sg three  km.R     -dat gallop   -fut  -1sg think  -pst -poss.1sg
+
+\tx gerbettem.
+\mb gerbet -R(E) -m
+\ge think  -nonfut -1sg
+\ft I myself will also race in the three-kilometre-race, I think.
+\ru Я сама тоже на 3 км поскачу думала, думаю.
+\ELANBegin 00:01:49.148
+\ELANEnd 00:01:59.340
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_016
+\tx Tarak.
+\mb tarak
+\ge dist
+
+\ru
+\ELANBegin 00:01:59.340
+\ELANEnd 00:02:01.576
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_017
+\tx Tarịt dʒe   ọːpšajïnan dʒụganịdụ  irilu       irilu       aːjï  mut    dʒaːlčal
+\mb tarịt dʒe   obšij   -InEn  dʒụganị -DU  ireli  -W   ireli  -W   aːjï  mut    dʒaː   -L  -čEl
+\ge then    well.Y shared.R -ins.Y summer       -dat summer -acc summer -acc every.Y 1pl.in relative -pl -com
+
+\tx horniken     biwekkererep.
+\mb hor -nIkEn   bi -WEːČ -Gr(E) -R(E) -p
+\ge go  -sim.cvb be -gnr    -hab   -nonfut -1pl.in
+\ft Well, in general we go every summer with my relatives.
+\ph
+\gr (file 07_quest_2010, 1:30) nastupila vesna = nelkeni/nelke emnen; vesnoj ja poedu = nelke hordʒim; vsju vesnu = nelkeniw kọŋdas;
+?nelkew kọŋdas (nekrasivo, v principe možno); on boleet s vesny = nelkereptuk obychno govorjat, nelkeniduk = mozhno; (file
+07_quest_2010, 4:15) leto nastupilo = ireli/irildu ọːdnị; letom = ireldu, ireli = net; vse leto = ireliw kọŋdas; s leta (boleet) =
+ireldeːreptuk/ireliduk ịstala (I find this somewhat surprising, because I know ịstala only as 'until', but Ija said this is the construction);
+osen' nastupila = bọlọ/bọlọnị ọːdnị; osen'ju = bọlọ, bọlọnị = net; vsju osen' = bọlọnịw kọŋdas; s oseni = bọlọrọptụk; zima nastupila
+= tuge/tugeni ọːdnị/emnen; zimoj = tuge, tugeni = net; vsju zimu = tugeniw kọŋdas; s zimy = tugereptuk;
+\nt ọːpšajïnan = this is actually a Sakha word (copied from Russian, of course), but she pronounces it the Russian way, with a -š- rather
+than the Sakha way (uopsajïnan)
+\ru Каждое лето я вобщем я с родными ездим уезжая.
+\ELANBegin 00:02:01.576
+\ELANEnd 00:02:11.261
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_018
+\tx Mut    dʒaːltị               bütünniː  bütünniː  tiːke ọrọlčịmŋal.
+\mb mut    dʒaː   -L  -t(I)        bütünnüː bütünnüː tiek   ọrọlčị -mŋE -L
+\ge 1pl.in relative -pl -poss.1pl.in entirely.Y   entirely.Y   now    herd.reindeer -agnr -pl
+\ft Our family are now all reindeer herders.
+\ru Наши родные сейчас все оленеводы.
+\ELANBegin 00:02:11.261
+\ELANEnd 00:02:17.254
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_019
+\tx Bi   dʒụganịdụ  čumrabotnitsaj   gurgewčiwrerem,                tarịt bọll...    tarịt dʒe   irilidu     tar
+\mb biː dʒụganị -DU  čumrabotnica     gurgeːwči -Gr(E) -R(E) -m     tarịt buollaγïna tarịt dʒe   ireli  -DU  tarak
+\ge 1sg  summer       -dat yurt.worker.ins.R work        -hab   -nonfut -1sg then    dp.Y         then    well.Y summer -dat dist
+
+\tx čụmat        gurgewčiniken       ńuŋenduk      ịlnịkan       ọralčị... ọralčịmŋalbụ         alatnịkan,
+\mb čum   -E  -Č  gurgeːwči -nIkEn   ńuŋen -DUk(U) ịl     -nIkEn   ọrọlčị  ọrọlčị -mŋE -L  -W   alat -nIkEn
+\ge yurt.R -ep -ins work        -sim.cvb six     -abl    stand.up -sim.cvb herd.reindeer  herd.reindeer -agnr -pl -acc wait -sim.cvb
+
+\tx dʒeblew       iriwrerep.
+\mb dʒep -LE -W   iri  -Gr(E) -R(E)   -p
+\ge eat   -nr -acc cook -hab   -nonfut -1pl.in
+\ft In summer I work as a yurt worker, and working as a yurt worker in summer we get up at six and waiting for the reindeer herders
+cook food.
+\ru Я летом работаю чумработницей, и потом летом работая чумработницей в 6и часов вставая, ожидая оленеводов, готовим пищу.
+\ELANBegin 00:02:17.254
+\ELANEnd 00:02:41.980
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_020
+\tx Tak, tarịt tiːkerep    sovremennaj vremjadu    kiliep  iriwr...    kiliep, lepieskew,       tarak.
+\mb tak  tarịt tiek -(E)rEp sovremennyj vremja -DU  xleb    iri  -Gr(E) xleb    lepeška    -W   tarak
+\ge so.R then    now  -adjr   modern.R    time.R -dat bread.R cook -hab   bread.R flatbread.R -acc dist
+\ft Nowadays we bake bread, flatbread.
+\ru В современное время, сейчас мы печем хлеб, лепешки.
+\ELANBegin 00:02:41.980
+\ELANEnd 00:02:53.732
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_021
+\tx Hụnaːdʒịlbụ          bütünniː  taraw      gurgewčiriwur                 hataːr:    ńamịčam
+\mb hụnaːdʒ -E-L   -W        bütünnüː tarak -W   gurgeːwči -RI       -WUr     hataː -r   ńamịčan     -W
+\ge daughter    -ep-pl -poss.1sg entirely.Y   dist  -acc work        -impf.ptc -prfl.pl know.Y -3pl female.reindeer -acc
+
+\tx hịrgararap,                dʒoːrmịar      ńamịčam.
+\mb hịr -Gr(E) -R(E) -p        dʒoːr mịan -L  ńamịčan     -W
+\ge milk  -hab   -nonfut -1pl.in two     ten    -pl female.reindeer -acc
+\ft My daughters know all that work, they milk does, twenty does.
+\ph
+\gr
+\nt She says hịrgararap, which means 'we milk'; the correct form would be hịrgarar, 'they milk'.
+\ru Мои дочери все это работать умеют, доят важенок, 20 важенок.
+\ELANBegin 00:02:53.732
+\ELANEnd 00:03:04.951
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_022
+\tx Ox!
+\ru
+\ELANBegin 00:03:04.951
+\ELANEnd 00:03:06.303
+\ELANParticipant BP
+
+\id Alekseeva_RD_intro_stado_023
+\tx Tarịt..
+\mb tarịt
+\ge then
+
+\ru
+\ELANBegin 00:03:06.303
+\ELANEnd 00:03:06.953
+\ELANParticipant RDA
+
+\id Alekseeva_RD_intro_stado_024
+\tx họːja
+\mb họːja
+\ge many
+
+\ru
+\ELANBegin 00:03:06.953
+\ELANEnd 00:03:07.356
+\ELANParticipant BP
+
+\id Alekseeva_RD_intro_stado_025
+\tx mhm họːja
+\mb mhm họːja
+\ge mhm many
+
+\ru
+\ELANBegin 00:03:07.356
+\ELANEnd 00:03:08.643
+\ELANParticipant RDA
+
+\id Alekseeva_RD_intro_stado_026
+\tx Tar   uže      bọlọnị, irilu       manụddakan                                bačakartaːn      köːrčeku
+\mb tarak uže      bọlọnị  ireli  -W   man    -W     -D    -REk -E-n(I)            badʒịkar -tEn   küörčex      -W
+\ge dist  already.R late.autumn   summer -acc finish -advrs -prog -cond.cvb -ep -poss.3sg morning     -distr whipped.cream.Y -acc
+
+\tx dʒebgerer        kụŋal.
+\mb dʒep -Gr(E) -r   kụŋa -L
+\ge eat   -hab   -3pl child   -pl
+\ft That is already in autumn, when the summer ends, the children eat körčex (whipped cream) every morning.
+\ru Это уже осень, когда заканчивается лето, каждое утро дети кушают корчех.
+\ELANBegin 00:03:08.643
+\ELANEnd 00:03:20.993
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_027
+\tx Ịbga   ịak, ịak irili  biheken,                   tar   tewtew       ụmụjrịdʒụr,  barịanńaw ọːwrar.
+\mb ịbgọ ịak  ịak ireli  bi -REk -E-n(I)            tarak tewte   -W   ụmụj -RIdʒI -L   varen'e -W   ọː -Gr(E) -r
+\ge good     what   what  summer be -cond.cvb -ep -poss.3sg dist  berries -acc gather   -ant.cvb -pl jam.R   -acc make  -hab   -3pl
+
+\ft If it is a good summer, they pick berries and make jam.
+\ph
+\nt In the area around Sebjan-Kuel, one cannot pick berries every year.
+\ru Если бывает хорошое лето, собрав ягоды, делают варенье.
+\ELANBegin 00:03:20.993
+\ELANEnd 00:03:27.987
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_028
+\tx Tar   bọrọːnńat köːrčektu         haːwnịkan   jogurt    ọːwran.
+\mb tarak varen'e -Č     küörčex      -DU  haːw -nIkEn   jogurt    ọː  -Gr(E) -n(I)
+\ge dist  jam.R   -ins    whipped.cream.Y -dat add   -sim.cvb yoghurt.R become -hab   -3sg
+
+\ft Adding jam to the korčex it becomes yoghurt.
+\ph
+\gr (file 07_quest_2010, 7:00) I asked whether bọrọnńat = lit. 'our jam', or whether it was the instrumental case and Ija said it was the
+(incorrectly used) instrumental case - but I don't know, the possessive also seems to make sense. On the other hand, the verbs are here
+in the 3PL form, she is talking about her children, so perhaps the instrumental is better. In any case, it's not correct, should be
+bọrọːnńaw, accusative case, of course.
+\ru Добавляя варенье в корчех становится йогурт.
+\ELANBegin 00:03:27.987
+\ELANEnd 00:03:33.863
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_029
+\tx Tar   haːdụn keːbeːl,      keːbeːlu.
+\mb tarak haːdụn keːbel         keːbel         -W
+\ge dist  sometimes reindeer.cheese reindeer.cheese -acc
+
+\ft And sometimes kebel (a kind of cheese made from reindeer milk).
+\ru Иногда кэбэл.
+\ELANBegin 00:03:33.863
+\ELANEnd 00:03:38.504
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_030
+\tx Ọrọn          okemmen                 hujukkererep,                          tarak emie   hujuttidʒur,
+\mb ọrọn          okeń -W   -E-n(I)      huj  -U    -Č  -Gr(E) -R(E) -p        tarak emie   huj  -U    -Č  -RIdʒI -L
+\ge domestic.reindeer milk  -acc -ep-poss.3sg boil -caus -res -hab   -nonfut -1pl.in dist  also.Y boil -caus -res -ant.cvb -pl
+
+\tx ịaw,     tar   kujkit      barịanńawan,           nọːglịw,     tar   barịanńawan            haːwrakas,
+\mb ịak -W   tarak kujkit      varen'e -W   -E-n(I)      nọːglị  -W   tarak varen'e -W   -E-n(I)      haːw -REk      -E-s(I)
+\ge what  -acc dist  blueberries jam.R   -acc -ep-poss.3sg currant.type -acc dist  jam.R   -acc -ep-poss.3sg add   -cond.cvb -ep-poss.2sg
+
+\tx bejen               jogur     ọːwran.
+\mb bej    -E-n(I)      jogurt    ọː  -Gr(E) -n(I)
+\ge self.Y -ep-poss.3sg yoghurt.R become -hab   -poss.3sg
+\ft We boil reindeer milk and then, having boiled it, if you add blueberry or currant jam, it becomes yoghurt.
+\ru Кипятим оленье молоко, там тоже, вскипятив, если добавить варенье голубчное или каменку, сам становится йогурт.
+\ELANBegin 00:03:38.504
+\ELANEnd 00:03:56.587
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_031
+\tx Ọttọn, tiːkerep    biriemedu   čistyj produkt   goːjekke          höp.
+\mb ọttọn  tiek -(E)rEp vremja -DU  čistyj produkt   goːn -jEkkE       söp
+\ge dp.Y       now  -adjr   time.R -dat clean.R product.R say   -futpt.dat.Y OK.Y
+
+\ft Nowadays one can say it's an (environmentally) pure product.
+\ru В современное время можно сказать это чистый продукт.
+\ELANBegin 00:03:56.587
+\ELANEnd 00:04:02.918
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_032
+\tx Tarak.
+\mb tarak
+\ge dist
+
+\ru
+\ELANBegin 00:04:02.918
+\ELANEnd 00:04:04.452
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_033
+\tx Tarịt ọrọn          uldedʒin           irew       taraw      bütünniːwen                 irikkererep.
+\mb tarịt ọrọn          ulre -Č  -n(I)     irek  -W   tarak -W   bütünnüː -W   -E-n(I)      iri  -Č  -Gr(E) -R(E) -p
+\ge then    domestic.reindeer meat -ins -poss.3sg which -acc dist  -acc entirely.Y   -acc -ep-poss.3sg cook -res -hab   -nonfut -1pl.in
+
+\ft And we cook all sorts of things from reindeer meat.
+\ru Из мяса оленя мы все готовим, всякое разное.
+\ELANBegin 00:04:04.452
+\ELANEnd 00:04:11.420
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_034
+\tx Tak.
+\mb tak
+\ge so.R
+
+\ru
+\ELANBegin 00:04:11.420
+\ELANEnd 00:04:12.681
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_035
+\tx Idehew           maːmị       čalmịw,      tarak, tiːk haːmaj delikates,     mut    ebedi      ebedi      eben
+\mb idehe       -W   maː -mI       čalmị   -W   tarak  tiek  samyj   delikates      mut    ewen -DI   ewen -DI   ewen
+\ge slaughter.Y -acc kill -cond.cvb intestines -acc dist   now   most.R  delicatessen.R 1pl.in Even -adjr Even -adjr Even
+
+\tx narọttụn.
+\mb narod    -DU  -n(I)
+\ge people.R -dat -poss.3sg
+\ft If (we) kill a reindeer, its intestines are the greatest delicatessen for Evens.
+\ph
+\ru Если забить оленя внутренности это самый деликатес для эвенского народа.
+\ELANBegin 00:04:12.681
+\ELANEnd 00:04:23.094
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_036
+\tx hiːkej, da? čalmị
+\mb
+\ge
+\ft Raw, yes? The intestines?
+\ru
+\ELANBegin 00:04:23.094
+\ELANEnd 00:04:25.837
+\ELANParticipant BP
+
+\id Alekseeva_RD_intro_stado_037
+\tx čalmị   irittidʒi
+\mb čalmị   iri  -Č  -RIdʒI
+\ge intestines cook -res -ant.cvb
+\ft Having cooked the intestines.
+\ru чалмы приготовив
+\ELANBegin 00:04:25.837
+\ELANEnd 00:04:27.085
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_038
+\tx irittidʒi
+\mb iri  -Č  -RIdʒI
+\ge cook -res -ant.cvb
+
+\ru
+\ELANBegin 00:04:27.085
+\ELANEnd 00:04:27.891
+\ELANParticipant BP
+
+\id Alekseeva_RD_intro_stado_039
+\tx Ọtụːt     irikkerenni,          egdʒen koteloktu.
+\mb ọtụː -Č  iri  -Č  -Gr(E) -nrI egdʒen kotelok -DU
+\ge fire.Y    -ins cook -res -hab   -2sg big     pot.R   -dat
+\ft You cook them over the fire, in a big pot.
+\ru На костре готовишь, в большом котле.
+\ELANBegin 00:04:27.891
+\ELANEnd 00:04:31.219
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_040
+\tx Oːtel,    mut    kụŋa biddeket,                          mut    dʒaːltị,              kollen
+\mb oːtel     mut    kụŋa bi -D    -REk      -E-t(I)         mut    dʒaː   -L  -t(I)        kotlen
+\ge previously 1pl.in child   be -prog -cond.cvb -ep-poss.1pl.in 1pl.in relative -pl -poss.1pl.in small
+
+\tx biddeket,                          kollen klastụ     teges... tattịdụkụ                   gụdịw           esten
+\mb bi -D    -REk      -E-t(I)         kotlen klas    -DU           tat   -RI       -DUk(U) -W        gụdị       -W   e   -R(E)
+\ge be -prog -cond.cvb -ep-poss.1pl.in small  grade.R -dat          learn -impf.ptc -abl    -poss.1sg fourth.stomach -acc neg -nonfut
+
+\tx boːwrer,            gụdị,      gụdị.
+\mb boː -Gr(E) -R       gụdị       gụdị
+\ge give -hab   -neg.cvb fourth.stomach fourth.stomach
+\ft In the past, when we were children, when we were small and were in the lower grades, our relatives didn't give us the fourth stomach.
+\ph
+\gr tattịdụkụ = lit. ot/iz moego učenija, but doesn't seem to make much sense here, normally one would say tataddakụ, i.e. tat with prog,
+and cond.cvb = kogda ja učilas', tattakụ = kogda ja vyučus'
+\nt
+\ru В старину, когда мы были детьми наши родные, когда мы были маленькие, когда мы учились в младших классах, нам не давали
+гуди.
+\ELANBegin 00:04:31.219
+\ELANEnd 00:04:44.921
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_041
+\tx "Erew     edʒi        dʒepte"       goːŋner,        "gụdịw,         taraw      miedʒinni,         miedʒinni,
+\mb erek -W   e   -LI      dʒep -R       goːn -Gr(E) -r   gụdị       -W   tarak -W   mie      -DʒI -nrI mie      -DʒI -nrI
+\ge prox -acc neg -imp.2sg eat   -neg.cvb say   -hab   -3pl fourth.stomach -acc dist  -acc get.lost -fut  -2sg get.lost -fut  -2sg
+
+\tx gụdị."
+\mb gụdị
+\ge fourth.stomach
+\ft "Don't eat this" they said, "the fourth stomach, or you'll get lost".
+\ru "Это не кушай" говорят, "а то заблудишься, гуди".
+\ELANBegin 00:04:44.921
+\ELANEnd 00:04:51.928
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_042
+\tx Gụdị       - ńụčịdịt     goːmi          bọllaːna  syčug.
+\mb gụdị       - ńụča -DI   -Č  goːn -mI       buollaγïna syčug
+\ge fourth.stomach - Russian  -adjr -ins say   -cond.cvb dp.Y         fourth.stomach.R
+\ft Gudi - in Russian that is 'sychug'.
+\ru Гуди, по-русски будет сычуг.
+\ELANBegin 00:04:51.928
+\ELANEnd 00:04:59.429
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_043
+\tx "Edʒi       dʒepte"
+\mb e   -LI      dʒep -R
+\ge neg -imp.2sg eat   -neg.cvb
+\ft Don't eat (that).
+\ru
+\ELANBegin 00:04:59.429
+\ELANEnd 00:05:00.703
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_044
+\tx Anï  aːmị   gerbe bihni,          aːmị,  taraw      bọllaγïna haːkan hatlịn
+\mb anï  aːmị   gerbe bi -R(E) -n(I)  aːmị   tarak -W   buollaγïna  haːkan hat  -(dU)LI -n(I)
+\ge now.Y pancreas? name  be -nonfut -3sg pancreas? dist  -acc dp.Y          liver   base -prol   -poss.3sg
+
+\tx emie   ịalan              ihmelen             biwren          talị        ịa....
+\mb emie   ịak -(dU)LE -n(I)  imse -(dU)LE -n(I)  bi -Gr(E) -n(I) tarak -(dU)LI ịa
+\ge also.Y what  -loc -poss.3sg fat  -loc -poss.3sg be -hab   -3sg  dist  -prol   do.what
+\ft And there is the ami, next to the liver, in the fat.
+\ph
+\nt IVK didn't know exactly what aːmị was, but said it was something fatty close to the liver, some gland
+\ru Еще есть амы, рядом с печенью, где-то там в жире.
+\ELANBegin 00:05:00.703
+\ELANEnd 00:05:08.243
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_045
+\tx Taraw      dʒeptekes                   bọllaγïna aːmịgja          ọːdʒịnnị.
+\mb tarak -W   dʒep -REk      -E-s(I)      buollaγïna  aːm      -E  -(h)E ọː  -DʒI -nrI
+\ge dist  -acc eat   -cond.cvb -ep-poss.2sg dp.Y          be.sleepy -ep -excl become -fut  -2sg
+
+\ft If you eat that, you'll become sleepy.
+\ru Если съешь это становишься сонливым.
+\ELANBegin 00:05:08.243
+\ELANEnd 00:05:12.026
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_046
+\tx Tar   bütünniː  dʒaːltị,              upeːlt...                   upeːt,                  enńenti
+\mb tarak bütünnüː dʒaː   -L  -t(I)        upeː       -L  -t(I)        upeː       -t(I)        enen   -t(I)
+\ge dist  entirely.Y   relative -pl -poss.1pl.in grandmother -pl -poss.1pl.in grandmother -poss.1pl.in mother -poss.1pl.in
+
+\tx amantị            goːŋneritne.
+\mb aman   -t(I)        goːn -Gr(E) -RI -tEn
+\ge father -poss.1pl.in say   -hab   -pst -poss.3pl
+\ft All that our relatives used to say, our grandmother, mother, father.
+\ru Так все наши родные, бабушка, мать, отец говорили.
+\ELANBegin 00:05:12.026
+\ELANEnd 00:05:21.152
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_047
+\tx Bi   tiːkgo   dʒọmkattakụ,              haːmaj ịbgawan                  bejetne          dʒebgerečelgu,
+\mb biː tiek =go  dʒọmkat -REk      -W        samyj   ịbgọ -W   -E-n(I)      bej    -tEn      dʒep -Gr(E) -čE -L     =GU
+\ge 1sg  now  =ptl think      -cond.cvb -poss.1sg most.R  good     -acc -ep-poss.3sg self.Y -poss.3pl eat   -hab   -pf.ptc -pl =q
+
+\tx muttu       eniken       boːre        gerbekkererem.
+\mb mut    -DU  e   -nIkEn   boː -R       gerbet -Gr(E) -R(E) -m
+\ge 1pl.in -dat neg -sim.cvb give -neg.cvb think  -hab   -nonfut -1sg
+\ft As I now think, they ate the best (parts) themselves without giving us (any).
+\ru Как я сейчас думаю, они все самое хорошое сами ели, не давая нам.
+\ELANBegin 00:05:21.152
+\ELANEnd 00:05:31.162
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_048
+\tx Ọran            uldeduk      honte ụjamkam           maːwrarap,                 tak.
+\mb ọrọn          ulre -DUk(U) honte ụjamkan      -W   maː -Gr(E) -R(E) -p        tak
+\ge domestic.reindeer meat -abl    other mountain.sheep -acc kill -hab   -nonfut -1pl.in so.R
+\ft Apart from reindeer meat we kill mountain sheep.
+\ph
+\gr ọran uldeduk honte = apart from reindeer meat, krome oleniny, and it should correctly be ọran uldedukun honte, with the poss.3sg
+\ru Кроме оленьего мяса добываем горных баранов.
+\ELANBegin 00:05:31.162
+\ELANEnd 00:05:35.218
+\ELANParticipant RDA
+
+\id Alekseeva_RD_intro_stado_049
+\tx Ụjamkan      haːkaman                 kastjọr,  er   mut    dururep                    ehni,          ọtụː, ọtụː
+\mb ụjamkan      haːkan -W   -E-n(I)      koster      erek mut    dur  -U    -R(E) -p        e -R(E) -n(I)  ọtụː  ọtụː
+\ge mountain.sheep liver   -acc -ep-poss.3sg camp.fire.R prox 1pl.in burn -caus -nonfut -1pl.in neg -nfut -3sg fire.Y     fire.Y
+
+\tx manụčalan                         tar   ịadụn            ečimur    iritniken          taraw
+\mb man    -W     -čE    -(dU)LE -n(I)  tarak ịak -DU  -n(I)     erroːčin iri  -Č  -nIkEn   tarak -W
+\ge finish -advrs -pf.ptc -loc -poss.3sg dist  what  -dat -poss.3sg prox.qual  cook -res -sim.cvb dist  -acc
+
+\tx dʒebgererep.
+\mb dʒep -Gr(E) -R(E) -p
+\ge eat   -hab   -nonfut -1pl.in
+\ft The liver of the mountain sheep, we light a fire and when the fire is burning down we cook it like this in (the coals) and eat it.
+\ph
+\gr (file Alekseeva_RD_intro_shatun_transl, 20:00) irittej = varit' dolgo, iriddej = svarit', varit'
+\ru Печень барана, вот мы разожгли костер, когда костер заканчивается на чем-то его там так готовя, это кушаем.
+\ELANBegin 00:05:35.218
+\ELANEnd 00:05:47.880
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_050
+\tx Tarak tiːkerep    kọwọrdọdụ ehni           iribgerer,            mut    imenno    bütenniː   ịbga
+\mb tarak tiek -(E)rEp skovoroda -DU     e -R(E) -n(I)  iri  -B   -Gr(E) -r   mut    imenno    bütünnüː ịbgọ
+\ge dist  now  -adjr   pan.R     -dat    neg -nfut -3sg cook -med -hab   -3pl 1pl.in exactly.R entirely.Y   good
+
+\tx ọːdan                   goːmi          ọtụː ịadụn,           ọtụː... ọtụː manụča
+\mb ọː  -DE       -n(I)     goːn -mI       ọtụː ịak -DU  -n(I)     ọtụː    ọtụː man    -W     -čE
+\ge become -purp.cvb -poss.3sg say   -cond.cvb fire.Y    what  -dat -poss.3sg fire.Y       fire.Y    finish -advrs -pf.ptc
+
+\tx ịadụn,           ugoldun.
+\mb ịak -DU  -n(I)     ugol    -DU  -n(I)
+\ge what  -dat -poss.3sg coals.R -dat -poss.3sg
+\ft That isn't prepared in a modern pan, we (prepare) it exactly in the what when the fire goes down, in the coals, so that it is good.
+\ph
+\gr (file 07_quest_2010, 17:00) irdej = svarit'sja, stat' gotovim (o ede); iridej = svarit', prigotovit'; irittej = varit', gotovit'; iribdej =
+prigotovit'sja (eda prigotovilas', svarilas'); bi uldew irirem = ja svaril; bi uldew irittem = ja dolgo svaril; bi uldew iriddem = ja varju;
+ulde irren = mjaso svarilos' samo soboj; ulde iripten = svarilos' kem-nibud';
+\ru Это в современной сковородке не готовится, мы именно все, чтобы было хорошо, на углях.
+\ELANBegin 00:05:47.880
+\ELANEnd 00:06:01.192
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_051
+\tx Tarak
+\mb tarak
+\ge dist
+
+\ru
+\ELANBegin 00:06:01.192
+\ELANEnd 00:06:02.193
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_052
+\tx Tarịt ịak bisni?
+\mb tarịt ịak bi -R(E) -n(I)
+\ge then    what  be -nonfut -3sg
+\ft And what else is there?
+\ru А потом что есть?
+\ELANBegin 00:06:02.193
+\ELANEnd 00:06:07.978
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_053
+\tx Ńan   ịaw?     ... ọttọ
+\mb ńaːn ịak -W       ọttọn
+\ge and    what  -acc     dp.Y
+\ft And what more?
+\ru
+\ELANBegin 00:06:07.978
+\ELANEnd 00:06:11.033
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_054
+\tx Eh irildu      ọhọk...
+
+\ft In summer a stove...
+\ru
+\ELANBegin 00:06:11.033
+\ELANEnd 00:06:14.439
+\ELANParticipant BP
+
+\id Alekseeva_RD_intro_stado_055
+\tx Irildu
+\mb ireli  -DU
+\ge summer -dat
+
+\ru
+\ELANBegin 00:06:14.439
+\ELANEnd 00:06:15.180
+\ELANParticipant RDA
+
+\id Alekseeva_RD_intro_stado_056
+\tx ...balakkala?
+\ft ... in the tent?
+\ru
+\ELANBegin 00:06:15.180
+\ELANEnd 00:06:15.856
+\ELANParticipant BP
+
+\id Alekseeva_RD_intro_stado_057
+\tx Balakka dọːlan             ọhọk, kotlen ọhọk.
+\mb palatka dọː -(dU)LE -n(I)  ọhọk  kotlen ọhọk
+\ge tent.R  inside -loc -poss.3sg stove.Y   small  stove.Y
+\ft Inside the tent (there is) a stove, a small stove.
+\ru В палатке печка, маленькая печка.
+\ELANBegin 00:06:15.856
+\ELANEnd 00:06:19.418
+\ELANParticipant RDA
+
+\id Alekseeva_RD_intro_stado_058
+\tx Telle,          telle           bọllaγïna ịawa,        ọtụːw     durukkerep.
+\mb tol     -(dU)LE tol     -(dU)LE buollaγïna  ịak -W   -E  ọtụː -W   dur  -U    -Č  -Gr(E) -R(E) -p
+\ge outside -loc    outside -loc    dp.Y          what  -acc -ep fire.Y    -acc burn -caus -res -hab   -nonfut -1pl.in
+\ft And outside we light a fire.
+\ru А на улице разводим костер.
+\ELANBegin 00:06:19.418
+\ELANEnd 00:06:23.773
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_059
+\tx Ọtụːdụ  bọllaγïna specialno kollen ečin      ịlụmịkkam        ọːrịdʒị, ečimur    nawes
+\mb ọtụː -DU  buollaγïna  specialno kotlen erroːčin ịlụmụ -kkEn -W   ọː -RIdʒI    erroːčin naves
+\ge fire.Y    -dat dp.Y          special.R small  prox.qual  yurt        -dim  -acc make  -ant.cvb   prox.qual  shelter.R
+
+\tx ọːwrarap.
+\mb ọː -Gr(E) -R(E) -p
+\ge make  -hab   -nonfut -1pl.in
+\ft And over the fire we on purpose make such a small little yurt, a little shelter.
+\ru А на костре специально сделав маленькую илуму, так делаем навес.
+\ELANBegin 00:06:23.773
+\ELANEnd 00:06:30.923
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_060
+\tx Haːdụn dʒiŋ irili, hokki      irili  biheken,                   ọtụːdụ  tar   ọtụːdụ  uːr
+\mb haːdụn dʒiŋ ireli  hok  -kI   ireli  bi -REk -E-n(I)            ọtụː -DU  tarak ọtụː -DU  uːr
+\ge sometimes very.Y summer heat -adjr summer be -cond.cvb -ep -poss.3sg fire.Y    -dat dist  fire.Y    -dat before
+
+\tx ečiken             dʒoːr ịŋaw     neːridʒur       ọjdụn              kọwọrdọw neːridʒur,      tadụ
+\mb erroːčin -KEn     dʒoːr ịŋa -W   neː -RIdʒI -L   ọj    -DU  -n(I)     skovoroda -W   neː -RIdʒI -L   tarak -DU
+\ge prox.qual  -dim.int two     stone  -acc put  -ant.cvb -pl surface -dat -poss.3sg pan.R     -acc put  -ant.cvb -pl dist  -dat
+
+\tx lepieskew        irikkererep.
+\mb lepeška    -W   iri  -Č  -Gr(E) -R(E) -p
+\ge flatbread.R -acc cook -res -hab   -nonfut -1pl.in
+\ft Sometimes in summer, if it is a real, hot summer, we put two stones in that fire like this and on top we put the pan and bake our
+flatbread there.
+\ru Иногда летом, если бывает жаркое лето на костре положа 2 камня, на эти камни положа сковородку, там мы печем лепешку.
+\ELANBegin 00:06:30.923
+\ELANEnd 00:06:43.988
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_061
+\tx Palakkadụ  etenni         iritte,            nahaː hokči bidʒin        ehni.
+\mb palatka -DU  e   -t(E) -nrI iri  -Č  -R       nahaː hokči bi -DʒI -n(I) e -R(E) -n(I)
+\ge tent.R  -dat neg -fut  -2sg cook -res -neg.cvb very.Y hot    be -fut -3sg   neg -nfut -3sg
+\ft You won't cook in the tent, that would be very hot, right.
+\ph
+\gr (file 07_quest_2010, 20:20) Ija wasn't able to explain what the difference would be between the future here and the generic nonfuture, it
+seems to be just a matter of style
+\ru В палатке не будешь готовить, очень жарко будет.
+\ELANBegin 00:06:43.988
+\ELANEnd 00:06:46.510
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_062
+\tx Ńupkumekie,               er   kụlịn, anï... ịbga   biden                  tar.
+\mb nipku     -m   -(h)E =kE   erek kụlịn  anï    ịbgọ bi -DE       -n(I)     tarak
+\ge suffocate -des -excl =emph prox mosquito   now.Y   good     be -purp.cvb -poss.3sg dist
+
+\ft Stuffy, mosquitoes... so that it is good.
+\ph
+\ru Душно, это комар, чтобы было хорошо.
+\ELANBegin 00:06:46.510
+\ELANEnd 00:06:52.295
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_063
+\tx Tarak... kollen gọlụ      man... manụdʒịn.
+\mb tarak    kotlen gọl    -W   man    man    -W     -DʒI -n(I)
+\ge dist     small  firewood -acc finish finish -advrs -fut -3sg
+\ft And less firewood is used up.
+\ph
+\gr the correct form would have been 'kollen gọl manụdʒịn' with the nominative; she probably wanted to say 'you use less wood' and then
+changed the argument structure halfway
+\ru Будет меньше дров уходить.
+\ELANBegin 00:06:52.295
+\ELANEnd 00:06:55.493
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_064
+\tx Kolluːkeken  ečin,     ọtụː gọlčaman                      garịdʒị, dʒe   taraw      ịanịkan,
+\mb kotlen -kEkEn erroːčin ọtụː gọl    -čEn -W   -E-n(I)      ga   -RIdʒI  dʒe   tarak -W   ịa    -nIkEn
+\ge small  -dim   prox.qual  fire.Y    firewood -dim  -acc -ep-poss.3sg take -ant.cvb well.Y dist  -acc do.what -sim.cvb
+
+\tx duruččinni,              tara.
+\mb dur  -U    -Č  -DʒI -nrI tarak
+\ge burn -caus -res -fut  -2sg dist
+\ft A very little bit like this, you take a small (piece of) wood and burn that.
+\ph
+\gr (file 07_quest_2010, 20:20) Ija wasn't able to explain what the difference would be between the future here and the generic nonfuture, it
+seems to be just a matter of style
+\ru Очень маленькое такое дрова для кострая взяв, там что-то делая.
+\ELANBegin 00:06:55.493
+\ELANEnd 00:07:00.641
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_065
+\tx Čalmịjị        emie   tadụ     irideji                  xx  bütenniːwen.
+\mb čalmị   -J       emie   tarak -DU  iri  -DE       -J        ... bütünnüː -W   -E-n(I)
+\ge intestines -prfl.sg also.Y dist  -dat cook -purp.cvb -prfl.sg  *** entirely.Y   -acc -ep-poss.3sg
+\ft You also cook your intestines there, completely.
+\ph
+\nt This sentence clearly lacks a finite verb. RDA says something between 'irideji' and 'bütenniwen', but we couldn't make it out.
+\ru Свои эти внутренности тоже там будешь варить.
+\ELANBegin 00:07:00.641
+\ELANEnd 00:07:03.891
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_066
+\tx Giehri         ineŋidu    abyčno   ịan           bọlọnị ọhọkụ   họːjat     durukkerenni.
+\mb gier -RI       ineŋi -DU  obyčno   ịak -n(I)     bọlọnị ọhọk -W   họːja -Č  dur  -U    -Č  -Gr(E) -nrI
+\ge cool -impf.ptc day    -dat usually.R what  -poss.3sg late.autumn  stove.Y  -acc many     -ins burn -caus -res -hab   -2sg
+
+\ft On cool days, usually in autumn, you light your stove more.
+\ph
+\nt She says something that sounds like ịan, but it doesn't make sense here, it cannot really be made out.
+\ru В прохладный день, обычно осенью больше печку топишь.
+\ELANBegin 00:07:03.891
+\ELANEnd 00:07:12.172
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_067
+\tx Ụdan tikreken                     duruččinni.
+\mb ụdan tik  -REk -E-n(I)            dur  -U    -Č  -DʒI -nrI
+\ge rain   fall -cond.cvb -ep -poss.3sg burn -caus -res -fut  -2sg
+\ft If rain falls you light (your stove).
+\ru Будешь топить если будет дождь.
+\ELANBegin 00:07:12.172
+\ELANEnd 00:07:14.681
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_068
+\tx Palakkas          bọllaγïna, palakkas          ịalkan    nawes,    tiːkerep    brezen,     ebeter halafan.
+\mb palatka -s(I)     buollaγïna   palatka -s(I)     ịak -lkEn naves     tiek -(E)rEp brezent     ebeter celofan
+\ge tent.R  -poss.2sg dp.Y           tent.R  -poss.2sg what  -prop shelter.R now  -adjr   tarpaulin.R or.Y   plastic.R
+\ft As for the tent, that has a shelter, nowadays tarpaulin, or plastic.
+\ru А палатка, у палатки есть навес, современный брезент, или целофан.
+\ELANBegin 00:07:14.681
+\ELANEnd 00:07:24.626
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_069
+\tx Ńandakan     ọralčịmŋaldụ         emgumutne                      haŋaŋgararam,            tara.
+\mb ńaːn =dakan ọrọlčị -mŋE -L  -DU  emgun           -W   -tEn      haŋan -Gr(E) -R(E) -m     tarak
+\ge and    =ptl   herd.reindeer -agnr -pl -dat reindeer.saddle -acc -poss.3pl sew    -hab   -nonfut -1sg dist
+
+\ft And then I also sew saddles for the reindeer herders.
+\ru Опять же оленеводам шью седла.
+\ELANBegin 00:07:24.626
+\ELANEnd 00:07:31.425
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_070
+\tx Kọčajgararap,            ile... irilep         nandaw.
+\mb kọčaj    -Gr(E) -R(E) -p        ireli  -(E)rEp nanra -W
+\ge scrape.hide -hab   -nonfut -1pl.in summer -adjr   hide  -acc
+
+\ft We prepare the summer hides.
+\ru Обрабатываем/скребем летние шкуры.
+\ELANBegin 00:07:31.425
+\ELANEnd 00:07:38.159
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_071
+\tx Tarak.
+\mb tarak
+\ge dist
+
+\ru
+\ELANBegin 00:07:38.159
+\ELANEnd 00:07:39.589
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_072
+\tx Tarịt mut    heːruket                   nandanat   haŋanapča,           no    tiːkerep    sovremennaj eben bütenniː
+\mb tarịt mut    heːruk    -E  -t(I)        nanra -Č  haŋan -E-B    -čE    no    tiek -(E)rEp sovremennyj ewen bütünnüː
+\ge then    1pl.in saddle.bag -ep -poss.1pl.in hide  -ins sew    -ep-med -pf.ptc but.R now  -adjr   modern.R    Even entirely.Y
+
+\tx brihien.
+\mb brezent
+\ge tarpaulin.R
+\ft Our saddle bags are sewed from hide, but modern Evens (make) everything from tarpaulin.
+\ph
+\gr nandanat = incorrect, should of course just be nandat
+\ru Потом наши вьюки сшиты из шкуры, но современный эвен все брезент.
+\ELANBegin 00:07:39.589
+\ELANEnd 00:07:52.277
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_073
+\tx Tar   ejmu             neːgiwren:         "tar  bütünnüː ịat      nandat     haŋanalda"        goːniken.
+\mb tarak enen   -W        neːgi -Gr(E) -n(I) tarak bütünnüː ịak -Č  nanra -Č  haŋan -E-(LI)lrE  goːn -nIkEn
+\ge dist  mother -poss.1sg scold  -hab   -3sg  dist  entirely.Y   what  -ins hide  -ins sew    -ep-imp.2pl say   -sim.cvb
+\ft My mother scolds "sew everything from hide!".
+\ru Вот моя мать ругает, все шейте из шкуры.
+\ELANBegin 00:07:52.277
+\ELANEnd 00:08:00.155
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_074
+\tx Tara... kụŋaŋị       otdelno,     kụŋaŋị,      tarak ụzọralkan       ọːwran,         ejmu.
+\mb tarak   kụŋa -ŋI       otdel'no     kụŋa -ŋI       tarak uzor      -E  -lkEn ọː -Gr(E) -n(I) enen   -W
+\ge dist    child   -pred.poss separately.R child   -pred.poss dist  pattern.R -ep -prop make  -hab   -3sg  mother -poss.1sg
+
+\ft Children's (saddles) are made separately, my mother makes those with patterns.
+\ru Детское отдельно, моя мать делает с узорами.
+\ELANBegin 00:08:00.155
+\ELANEnd 00:08:07.734
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_075
+\tx Tara.
+\mb tarak
+\ge dist
+
+\ru
+\ELANBegin 00:08:07.734
+\ELANEnd 00:08:08.800
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_076
+\tx Kotlen kụŋa emgunni                   oːńeː        goːbgeren,               tarak.
+\mb kotlen kụŋa emgun           -n(I)     oːńeː        goːn -B   -Gr(E) -E-n(I) tarak
+\ge small  child   reindeer.saddle -poss.3sg toddlers.saddle say   -med -hab   -ep-3sg dist
+
+\ft The saddle of a small child is called onne.
+\ru Седло маленького ребенка называется онне.
+\ELANBegin 00:08:08.800
+\ELANEnd 00:08:14.741
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_077
+\tx Gruzovoj      gerbe bihni.
+\mb gruzovoj      gerbe bi -R(E) -n(I)
+\ge pack.saddle.R name  be -nonfut -3sg
+\ft There are pack saddles.
+\ru Есть грузовое.
+\ELANBegin 00:08:14.741
+\ELANEnd 00:08:19.096
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_078
+\tx Tar   ọhọk, ọhọk igin  neːptilen                         gruzovoj      ịan           emgum,               ačča
+\mb tarak ọhọk  ọhọk iŋin neː -B   -RI       -(dU)LE -n(I)  gruzovoj      ịak -n(I)     emgun           -W   ačča
+\ge dist  stove.Y   stove.Y  etc.Y put  -med -impf.ptc -loc -poss.3sg pack.saddle.R what  -poss.3sg reindeer.saddle -acc neg
+
+\tx bọlla,     bej etin                   jesli emgun           biče      biheken,                   bej ičukemče        er
+\mb buollaγïna bej e -RI -n(I)            esli  emgun           bi -čE    bi -REk -E-n(I)            bej it  -WkEn -mč(I) erek
+\ge dp.Y         man neg impf.ptc -poss.3sg if.R  reindeer.saddle be -pf.ptc be -cond.cvb -ep -poss.3sg man see -caus -sbjv   prox
+
+\tx bütenniːwen,                 tara.
+\mb bütünnüː -W   -E-n(I)      tarak
+\ge entirely.Y   -acc -ep-poss.3sg dist
+\ft I don't have a pack saddle where you put the stove, if I had a saddle, I would show you everything.
+\ph
+\gr (file 07_quest_2010, 10:45) emgum ačča bọlla = she incorrectly used the accusative case here; poss.1sg, 'my saddle ačča' would be
+emgumu - but she actually makes a pause after emgum, so she probably wanted to say something else after it; (checked on 050310, and
+yes, she probably meant to have some transitive verb there);  bej etin (ịara) = čelovek ne možet; bi etiw itte, hi etis itte = tvoja
+nevozmozhnost' videt';  (08_quest_2010, 9:10), moja nevozmožnost' videt' v prošlom =  perhaps ?edeŋu itte, but then she said there is no
+meaning of past tense here; for future perhaps ?edŋewu itte - but then said that is not future tense, really, but a general inability to see
+something; basically, out of context it was not possible for her to make any definitive statement about these forms and the differences
+between them, they all seemed to have the same meaning for her, but she got quite confused; (file 07_quest_2010, 13:30) bej ičukemče
+= voobšče, mozhno bylo by pokazat', obobščenno; here, it is not common to talk about 'bej' if you really mean yourself; bej kọrọtla
+hordʒin to mean 'I'll go to town' is NOT used; ja by pokazala = ičukemču, ty by pokazala = ičukemčes, on by pokazal = ičukemče, my
+by pokazali = ičukemčelti, vy by pokazali = ičukemčehlen, oni by pokazali = ičukemčel(ten)
+\nt i.e. she would show us they put the stove on top of the pack saddle, if she had a saddle to show.
+\qu
+\ru Место где кладется печка, но нету же седла, если было бы седло, я бы показала все.
+\ELANBegin 00:08:19.096
+\ELANEnd 00:08:34.423
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_079
+\tx Ńan... ńantakan...  bi... bi... oreldewrerem                 irildu      ọːrakan,                    uduk
+\mb ńaːn  ńaːn =dakan biː  biː  orelde   -Gr(E) -R(E) -m     ireli  -DU  ọː  -REk -E-n(I)            erek -DUk(U)
+\ge and     and    =ptl   1sg   1sg   be.happy -hab   -nonfut -1sg summer -dat become -cond.cvb -ep -poss.3sg prox -abl
+
+\tx Hebeːnduk            hordeji,                ọppụska amargụdụkụn.
+\mb Sebjan-Küöl -DUk(U) hor -DE       -J        otpusk      amar   -gIdE -DUk(U) -n(I)
+\ge Sebjan-Küöl -abl    go  -purp.cvb -prfl.sg  holidays.R  behind -part -abl    -poss.3sg
+
+\ft I am happy when it becomes summer so I can leave Sebjan, after my holidays.
+\ph pronounces ńantakan, but that is a slip of the tongue, it has to be ńandakan, because there is no word ńantakan
+\gr irildu ọːrakan - here, the dative case is basically fossilized, because 'irildu' is the subject of the verb ọː-, and 'ireli ọːrakan' can be used as
+well
+\nt It is not clear what she meant by 'after my holidays', since she leaves at the beginning of her holidays to spend them with the reindeer
+herd; perhaps she meant to say 'after the beginning of the holidays', or 'after I go on holiday'.
+\qu
+\ru Я радуюсь когда наступает лето, чтобы уехать из Себяна, после отпуска (после выхода в отпуск).
+\ELANBegin 00:08:34.423
+\ELANEnd 00:08:48.840
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_080
+\tx Tarị kụŋal    omettu   biwetniken,         meːn toreŋuːr          meːn abyčajaŋụr               eter
+\mb tar    kụŋa -L  omettu   bi -WEːČ -nIkEn   meːn tor   -ŋ  -WUr     meːn obyčaj     -E-ŋ   -WUr     e   -t(E) -r
+\ge thus   child   -pl together be -gnr    -sim.cvb refl  earth -aln -prfl.pl refl  tradition.R -ep-aln -prfl.pl neg -fut  -3pl
+
+\tx ọmŋar.
+\mb ọmŋa -R
+\ge forget  -neg.cvb
+\ft The children, going with us, won't forget their country, their traditions.
+\ph
+\gr their language would be toremur
+\ru Дети вместе ездя, свою землю и обычаи не забудут.
+\ELANBegin 00:08:48.840
+\ELANEnd 00:08:58.005
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_081
+\tx Tar  biwetniken,         hiehečen, hiehečen  ọralčịmŋal        emčeletne
+\mb tar  bi -WEːČ -nIkEn   hiːsečin hiːsečin ọrọlčị -mŋE -L  em   -čE    -(dU)LE -tEn
+\ge thus be -gnr    -sim.cvb evening    evening    herd.reindeer -agnr -pl come -pf.ptc -loc    -poss.3pl
+
+\tx dʒebukendʒidniken,       dʒulep,      tiːkerep    ịalbụ      tradicijalbụ,     abyčajalbụ
+\mb dʒep -WkEn -D    -nIkEn   dʒul -(E)rEp tiek -(E)rEp ịak -L  -W   tradicija   -L-W    obyčaj     -E  -L-W
+\ge eat   -caus -prog -sim.cvb front -adjr   now  -adjr   what  -pl -acc tradition.R -pl-acc tradition.R -ep -pl-acc
+
+\tx ukčenniken     tegekkerenni.
+\mb ukčen -nIkEn   teg      -E-Č   -Gr(E) -nrI
+\ge tell   -sim.cvb sit.down -ep-res -hab   -2sg
+\ft Going like that, in the evenings when the reindeer herders come you feed them and sit talking about previous and modern traditions.
+\ru Так ездя, вечером когда приезжают оленеводы, их кормя, прошлые современные традиции обычаи рассказывая сидишь.
+\ELANBegin 00:08:58.005
+\ELANEnd 00:09:12.695
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_082
+\tx Taraw      kụŋal    ịbgat       heŋeːrgerer,                   họːja kụŋa meːn kụŋačal,  meːn
+\mb tarak -W   kụŋa -L  ịbgọ -Č  heŋeːr             -Gr(E) -r   họːja kụŋa meːn kụŋa -čEl meːn
+\ge dist  -acc child   -pl good     -ins be.very.interested.Y -hab   -3pl many     child   refl  child   -com  refl
+
+\tx noːlbi                      horuwrerem                    haːdụn.
+\mb noː            -L  -J       hor -U    -Gr(E) -R(E) -m     haːdụn
+\ge younger.sibling -pl -prfl.sg go  -caus -hab   -nonfut -1sg sometimes
+\ft That interests the children a lot, there are a lot of children, together with my own children I sometimes take my younger relatives.
+\ru Это дети очень интересует, много детей, вместе со своими детьми я вожу с собой своих младших родственников.
+\ELANBegin 00:09:12.695
+\ELANEnd 00:09:20.651
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_083
+\tx Tar   bütünnüː ulgimiwrer,               bi   ukčengererem.
+\mb tarak bütünnüː ulgim -i      -Gr(E) -r   biː ukčen -Gr(E) -R(E) -m
+\ge dist  entirely.Y   ask   -ipf??? -hab   -3pl 1sg  tell   -hab   -nonfut -1sg
+\ft They ask about all that, I tell.
+\ru Это все расспрашивают, я рассказываю.
+\ELANBegin 00:09:20.651
+\ELANEnd 00:09:24.291
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_084
+\tx Bi   bọlla,     bi   meːn dʒulep       upeːdukuj,                  meːn abagadụkụj
+\mb biː buollaγïna biː meːn dʒul -(E)rEp upeː       -DUk(U) -J       meːn abaga       -DUk(U) -J
+\ge 1sg  dp.Y         1sg  refl  front -adjr   grandmother -abl    -prfl.sg refl  grandfather -abl    -prfl.sg
+
+\tx ukčendeŋi              tar   kụŋaldụlaj              ịawra...     emeːnde(ji).
+\mb ukčen -DEŋ    -J       tarak kụŋa -L  -(dU)LE -J       ịa    -Gr(E) emeːn -DE        -J
+\ge tell   -pst.ptc -prfl.sg dist  child   -pl -loc    -prfl.sg do.what -hab   leave  -purp.cvb  -prfl.sg
+\ft As for me, I tell (what I learned) from my grandmother and grandfather, in order to leave it to the children.
+\ru А я своей бабушки, своего дедушку, свое рассказанное детям чтобы оставить.
+\ELANBegin 00:09:24.291
+\ELANEnd 00:09:34.795
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_085
+\tx Mut    kokereket,                     mut    dʒulepuŋur,                  mut    haγa(na), mut    ịawụt               ŋiːde
+\mb mut    koke -REk      -E-t(I)         mut    dʒul -(E)rEp -E-ŋ   -WUr     mut    saγana    mut    ịak -W   -t(I)        ŋiː =DE
+\ge 1pl.in die  -cond.cvb -ep-poss.1pl.in 1pl.in front -adjr   -ep-aln -prfl.pl 1pl.in time.loc.Y 1pl.in what  -acc -poss.1pl.in who   =ptl
+
+\tx eten            haːra.
+\mb e   -t(E) -n(I) haː -R
+\ge neg -fut  -3sg  know -neg.cvb
+\ft When we die, nobody will know about our past.
+\ph
+\ru Когда мы умрем, наше прошлое, никто не будет знать.
+\ELANBegin 00:09:34.795
+\ELANEnd 00:09:40.762
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_086
+\tx Tar   kụŋaldụkụ    kụŋaldụla      haːdatna,               tiːk ŋiː gerbe predmet   bihni
+\mb tarak kụŋa -L  -DUk(U) kụŋa -L  -(dU)LE haː -DE       -tEn      tiek  ŋiː gerbe predmet   bi -R(E) -n(I)
+\ge dist  child   -pl -abl    child   -pl -loc    know -purp.cvb -poss.3pl now   who   name  subject.R be -nonfut -3sg
+
+\tx Kultura narodov         Respubliki     Sakha Jakutia.
+\mb kultura narodov         Respubliki     Sakha Jakutia
+\ge culture.people.gen.pl.R republic.gen.R Sakha Yakutia
+\ft So that the children know, now there is a subject (in school): the culture of the peoples of the Republic Sakha (Yakutia).
+\ph
+\gr the case marking on kụŋal is of course erroneous here, should be just nominative
+\ru Чтобы дети знали, сейчас есть предмет....
+\ELANBegin 00:09:40.762
+\ELANEnd 00:09:50.759
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_087
+\tx Buo,         tarịt tarak predmettu,     taraw      bütünnüːwen                ịlgatnịkan, ịbgat       dụknịkan   meːn
+\mb buollaγïna tarịt tarak predmet   -DU  tarak -W   bütünnüː -W   -E-n(I)      ịlgatnịkan  ịbgọ -Č  dụk -nIkEn   meːn
+\ge dp.Y         then    dist  subject.R -dat dist  -acc entirely.Y   -acc -ep-poss.3sg ***             good     -ins write -sim.cvb refl
+
+\tx kụŋalaːr                 emejekteːkpit,              mut.
+\mb kụŋa -L  -(dU)LE -WUr     emeːn -jEktEːk -BIt        mut
+\ge child   -pl -loc    -prfl.pl leave  -nec.Y    -poss.1pl.Y 1pl.in
+
+\ft In that subject, writing all of it down well, we have to leave that to our children.
+\ph
+\gr I asked RDA herself what ịlgatnịkan meant, because Ija didn't know, and she said there is no such word, she wanted to say all the
+cultural knowledge has to be passed on to their children, čtoby detjam dostalos'
+\ru В этом предмете что там делая, все хорошо записывая, мы своим детям должны оставить.
+\ELANBegin 00:09:50.759
+\ELANEnd 00:09:58.897
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_088
+\tx Mut    taraŋat                   ịbgat       eče        dụkapta              haːn.
+\mb mut    tarak -ŋ  -E-t(I)         ịbgọ -Č  e   -čE    dụk -E-B    -R       haːn
+\ge 1pl.in dist  -aln -ep-poss.1pl.in good     -ins neg -pf.ptc write -ep-med -neg.cvb some
+\ft That of ours, some of it, hasn't yet been written down well.
+\ph
+\nt She's talking about the old traditions that haven't been written down yet.
+\ru Наше это хорошо не записано, некоторая часть
+\ELANBegin 00:09:58.897
+\ELANEnd 00:10:04.409
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_089
+\tx Ele          họːja bej haːdnị.
+\mb erek -(dU)LE họːja bej haː -n(I)
+\ge prox -loc    many     man know -3sg
+\ft A lot of people here know.
+\ru Здесь много людей знают.
+\ELANBegin 00:10:04.409
+\ELANEnd 00:10:06.788
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_090
+\tx Haːwdị bej bütünnüː.
+\mb hagdị   bej bütünnüː
+\ge old       man entirely.Y
+\ft All of the old people.
+\ru Старые люди все.
+\ELANBegin 00:10:06.788
+\ELANEnd 00:10:09.661
+\ELANParticipant
+
+\id Alekseeva_RD_intro_stado_091
+\tx Tara.
+\mb tarak
+\ge dist
+
+\ru
+\ELANBegin 00:10:09.661
+\ELANEnd 00:10:12.183
+\ELANParticipant 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Sebjan2010/sound_files/sound_from_video/Alekseeva_RD_intro_stado_190210_Sebjan.wav
+\ELANMediaMIME audio/x-wav

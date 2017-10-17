@@ -1,0 +1,1729 @@
+\_sh v3.0  984  Text
+
+\id Egorova_RM_Utakan_000_metadata
+\ref
+\tx
+
+\id Egorova_RM_Utakan_001
+\ref
+\ft ... it works, so, Rimma Maksimovna Egorova, 9 July 2010, Esso.
+\nt
+\ev
+\ru .. работает, так Римма Максимовна Егорова 9-го июнь non, июля, 2010 года  поселок Эссо, вот
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:14.446
+\ELANParticipant AL
+
+\id Egorova_RM_Utakan_002
+\ref
+\ft Please tell about that, that Ewene, Kikallan... Pikallan...
+\nt
+\ev AL: Укчэнни, пожалуйста, это про як тавар, про Эвэна, Кикаллян...  Пикаллян, ага
+\ru
+\ELANBegin 00:00:14.446
+\ELANEnd 00:00:28.020
+\ELANParticipant AL
+
+\id Egorova_RM_Utakan_003
+\ref
+\tx Pikaljan
+\mb Pikaljan
+\ge Pikaljan
+
+\ft Pikallan
+\nt
+\ev
+\ru
+\ELANBegin 00:00:28.020
+\ELANEnd 00:00:28.680
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_003b
+\ref
+\ft Mhm.
+\tx
+\ELANBegin 00:00:28.680
+\ELANEnd 00:00:30.807
+\ELANParticipant AL
+
+\id Egorova_RM_Utakan_004
+\ref
+\tx Ọrọttịla          ńịmkandụla   gieki     bej biweːtten:             Ewena biweːtten,             Pikaljan, gieki,    Inšača, Utakan.
+\mb ọrọč -DI   -(dU)LE ńịmkan -(dU)LE gịakị bej bi -WEːČ -R(E) -n(I)  Ewena bi -WEːČ -R(E) -n(I)  Pikaljan  gịakị Inšača  Utakan
+\ge Oroch     -adjr -loc    tale      -loc    various   man be -gnr    -nonfut -3sg Ewena be -gnr    -nonfut -3sg Pikaljan  various   Inshacha  Utakan
+\ft In Even fairy tales there are various people: there is Ewena, Pikaljan, various (creatures), Inshacha, Utakan.
+\ph
+\nt Inšača is the name, and the figure had white eyebrows sewed on its face, so they obviously called him "belobrovyj" in Russian; the addition in brackets in the Russian translation doesn't
+mean that the Even name "Inšača" means "belobrovyj", Inšača doesn't translate, it's just a name
+\ev Ороттила нимкандула геки бэй бивэттэн: Эвэна бивэттэн, Пикалян геки,  Иншача, Утақан.
+\ru В эвэнских сказках всякие люди бывают: Эвэна бывает, Пикалян какой-то,  Иншача (белобровый), Баба Яга.
+\ELANBegin 00:00:30.807
+\ELANEnd 00:00:41.254
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_005
+\ref
+\tx Ewenaši    tarak egdʒeːmker  beje, ọːnka    ńụčịdịč    "velikan" goːweːtte,          tarrọːčịnni.
+\mb Ewena =sI   tarak egdʒen -mkEr bej   ọːn =kkE ńụča -DI   -Č  velikan   goːn -WEːČ -R(E)   tarrọːčịn -n(I)
+\ge Ewena =emph dist  big     -aug  man   how    =ptl Russian  -adjr -ins giant.R   say   -gnr    -nonfut dist.qual       -poss.3sg
+\ft As for Ewena, that is a huge man, as they say in Russian, a giant, like that.
+\nt
+\ev Эвэнаши тарак эгдемкэр бэе, онка нючидич "великан" говэттэ, таррочин-ни.
+\ru Эвэна же это большущий человек, как по-русски "великан" говорят, вот такой  он.
+\ELANBegin 00:00:41.254
+\ELANEnd 00:00:51.127
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_006
+\ref
+\tx Pikaljanaši       nebuli beje, bụjli        biweːtten.
+\mb Pikaljan -E  =sI   nebuli bej   bụj  -(dU)LI bi -WEːČ -R(E) -n(I)
+\ge Pikaljan -ep =emph furry  man   forest -prol   be -gnr    -nonfut -3sg
+\ft As for Pikaljan, he's a furry man, he is found in the forest.
+\nt
+\ev Пикалянаши нэбули бэй, буйли бивэттэн.
+\ru Пикалян же -- мохнатый человек, в лесу бывает.
+
+\ELANBegin 00:00:51.127
+\ELANEnd 00:00:59.382
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_007
+\ref
+\tx Utakan biweːtteneši,                   tarak atịkan, ńụːčịdịčka     BabaJagaŋatan.
+\mb Utakan bi -WEːČ -R(E) -n(I)  -E  =sI   tarak atịkan  ńụča -DI   -Č  =kkE BabaJaga    -ŋ  -tEn
+\ge Utakan be -gnr    -nonfut -3sg -ep =emph dist  old.woman Russian  -adjr -ins =ptl Baba.Yaga.R -aln -poss.3pl
+\ft And there is Utakan, that is an old woman, in Russian they have Baba Yaga, right (a sort of witch).
+\nt
+\ev Утакан бивэттэнэши тарак атикан, нючидич-ка Баба Яга-ӈэтэн.
+\ru Баба Яга же бывает это старушка, по-русски же у них Баба Яга.
+
+\ELANBegin 00:00:59.382
+\ELANEnd 00:01:08.925
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_008
+\ref
+\tx
+\ft Tell about Utakan Baba Yaga, she lives in the forest, there's a game about her.
+\nt
+\ev АЛ: Укчэнли, утакан Баба-Яга, вот в лесу живет, игра с ней есть.
+\ru
+\ELANBegin 00:01:08.925
+\ELANEnd 00:01:17.542
+\ELANParticipant AL
+
+\id Egorova_RM_Utakan_009
+\ref
+\tx Ah, ńịmkan...
+\mb ah  ńịmkan
+\ge ah  tale
+\ft Ah, a tale...
+\nt
+\ev А, нимкан..
+\ru А, сказка.
+\ELANBegin 00:01:17.542
+\ELANEnd 00:01:19.988
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_010
+\ref
+\tx
+\ft Mundy, mundygasčan (the correct name would be mugdikčan "tussock")
+\nt мугдыкчан -- кочка (точное название)
+\ev Мунды, мундыгасчан.
+\ru
+\ELANBegin 00:01:19.988
+\ELANEnd 00:01:22.095
+\ELANParticipant AL
+
+\id Egorova_RM_Utakan_011
+\ref
+\tx Kụŋal    bimi         bu     ewiddʒoːttu.
+\mb kụŋa -L  bi -mI       buː   ewiː -D    -WEːČ -(R)U
+\ge child   -pl be -cond.cvb 1pl.ex play  -prog -gnr    -1pl.ex
+\ft We played (this) when we were children.
+\nt
+\ev Куӈал бими бу эвиддётту.
+\ru Когда мы были детьми, мы играли.
+\ELANBegin 00:01:22.095
+\ELANEnd 00:01:26.414
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_012
+\ref
+\tx Ewik... ọːnkana,   ewidʒek,   Utakan tala  biweːtten.
+\mb ewiː   ọːn =kEnE  ewiː -ČEk Utakan talal bi -WEːČ -R(E) -n(I)
+\ge play    how    =contr play  -nr   Utakan shine be -gnr    -nonfut -3sg
+\ft A ga... how does one say it, a game, Utakan occurs there.
+\nt According to Rimma (June 2016), this was the main game that the Even children played, they played it all the time, and that's why she remembers it so well
+\ev Эвик... эвидяк, утакан тала бивэттэн.
+\ru Игра, Баба Яга там бывает.
+\ELANBegin 00:01:26.414
+\ELANEnd 00:01:33.300
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_013
+\ref
+\tx Gerbeneši                tarak mugdekčen.
+\mb gerbe -n(I)     -E  =sI   tarak mugdek     -čEn
+\ge name  -poss.3sg -ep =emph dist  tree.stump -dim
+
+\ft It's name is "mugdekchen" (tussock, tree stump).
+\nt Rimma here at first translates it as "kochka", tussock, but later on translates it as "penek", which is also the translation Robbek has
+\ev Гэрбэнэши тарак мугдыкчан.
+\ru Называется это "Кочка".
+\ELANBegin 00:01:33.300
+\ELANEnd 00:01:36.030
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_014
+\ref
+\tx Tarak kụŋal    ịlloːtta.
+\mb tarak kụŋa -L  ịl     -WEːČ -R(E)
+\ge dist  child   -pl stand.up -gnr    -nonfut
+\ft There (in that game) children stand (in a row).
+\ph
+\nt
+\ev Тарак куӈал иллотта.
+\ru Это дети становятся.
+\ELANBegin 00:01:36.030
+\ELANEnd 00:01:38.890
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_015
+\ref
+\tx Ńan   dʒulle       ekenten          biweːtten,             ịlaččoːttan.
+\mb ńaːn dʒul -(dU)LE eken   -tEn      bi -WEːČ -R(E) -n(I)  ịl     -E-Č   -WEːČ -R(E) -n(I)
+\ge and    front -loc    mother -poss.3pl be -gnr    -nonfut -3sg stand.up -ep-res -gnr    -nonfut -3sg
+\ft And their mother is, stands in front.
+\ph
+\nt One of the kids is designated as the mother
+\ev Нян дюллэ экэнтэн бивэттэн, иллэччоттэн.
+\ru И вот впереди мать, бывает, стоит.
+\ELANBegin 00:01:38.890
+\ELANEnd 00:01:43.320
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_016
+\ref
+\tx Ńanaši     amardadunaši                     kụŋaŋelni                 epkeweːtte            nọŋman, čeledʒur
+\mb ńaːn =sI   amar   -gIdE -DU  -n(I)     =sI   kụŋa -ŋ  -E-L   -n(I)     hepken -WEːČ -R(E)   nọŋman  čele -dʒUr
+\ge and    =emph behind -part -dat -poss.3sg =emph child   -aln -ep-pl -poss.3sg catch  -gnr    -nonfut 3sg.acc    all   -ins.prfl.pl
+
+\tx dʒawatmaččoːtta.
+\mb dʒaw      -Č  -mEČ -WEːČ -R(E)
+\ge catch.hold -res -rec  -gnr    -nonfut
+
+\ft And behind her her children grab her, all hold on to each other.
+\ph
+\nt The "mother" is in front, and all are in a row behind her and hold on tight to each other
+\ev Нянаши амардадунаши куӈаӈэлни эпкэвэттэ ноӈман, чэлэдюр дяватмаччотта
+\ru И вот сзади ее дети ее берутся за нее, все друг за друга держатся.
+
+\ELANBegin 00:01:43.320
+\ELANEnd 00:01:50.590
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_017
+\ref
+\tx Ńanaši     tarak ekedmer       bideji                uŋeddʒoːtten,                   ewiddʒoːtten                   uŋengeli,
+\mb ńaːn =sI   tarak eken   -dmEr  bi -DE       -J       uŋ -E  -D    -WEːČ -R(E) -n(I)  ewiː -D    -WEːČ -R(E) -n(I)  uŋ       -E-n(I)      -g(E)lI
+\ge and    =emph dist  mother -contr be -purp.cvb -prfl.sg do  -ep -prog -gnr    -nonfut -3sg play  -prog -gnr    -nonfut -3sg something -ep-poss.3sg -com
+
+\tx Utakangali.
+\mb Utakan -g(E)lI
+\ge Utakan -com
+
+\ft And this supposed mother plays with her, with Utakan.
+\ph
+\gr ekedmer bideji = kak budto mat'
+\nt
+\ev Нянаши тарак экэдмэр бидэйи, уӈэддёттэн, эвиддёттэн уӈэнгэли, утакангали.  
+\ru И вот эта мать как будто бы, делает, играет с ней, с Бабой Ягой. 
+\ELANBegin 00:01:50.590
+\ELANEnd 00:01:59.030
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_017b
+\ref
+\tx Ŋaːldur           ečin      dʒa...    ah...
+\mb ŋaːl -DUr         erroːčin dʒaw      ah
+\ge hand   -dat.prfl.pl prox.qual  catch.hold ah
+\ft Taking their hands like this... oh... 
+\ph
+\gr ŋaːldur ŋaːlla = nesut v svoix rukax; here she says ŋaːldur, but it should be ŋaːlʤur, INS
+\nt
+\nt obviously remembers something important she needs to explain first
+\ev Ӈалдур эчин... дя..
+\ru Руками  так.. (взявшись)
+\ELANBegin 00:01:59.030
+\ELANEnd 00:02:01.450
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_018
+\ref
+\tx Utakankana    tegečiddʒoːtten                       mugdekčen       bideji                - mugdekčen       "penjok".
+\mb Utakan =kEnE  teg      -Č  -D    -WEːČ -R(E) -n(I)  mugdek     -čEn bi -DE       -J       - mugdek     -čEn penek
+\ge Utakan =contr sit.down -res -prog -gnr    -nonfut -3sg tree.stump -dim  be -purp.cvb -prfl.sg - tree.stump -dim  tree.stump.dim.R
+\ft Utakan at first sits as if she is a little tree stump - "mugdekchen", penjok.
+\ph
+\gr in the Even original there is nothing that would mean "snachala"; Utakankana = a Utakan
+\nt
+\nt the tree stump with a face by the stairs from the bassejn to the Cherkanovs might represent Utakan, but Rimma didn't know, this hadn't occurred to her - and of course she says that
+nowadays the children don't know this game anymore
+\ev Утаканкана тэгэчиддёттэн мугдыкчан бидэйи , мугдыкчан - "пенек"
+\ru Баба Яга сначала сидит, как будто она кочка, ...
+
+\ELANBegin 00:02:01.450
+\ELANEnd 00:02:08.340
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_019
+\ref
+\tx Ńan   ečin      er   gịrkawaːtteeː             kụŋal,   dịllan             tarak ečin      nekkoːtten.
+\mb ńaːn erroːčin erek gịrka -WEːČ -R(E)   =eː  kụŋa -L  dịl -(dU)LE -n(I)  tarak erroːčin nek -WEːČ -R(E) -n(I)
+\ge and    prox.qual  prox walk    -gnr    -nonfut =emph child   -pl head  -loc -poss.3sg dist  prox.qual  do  -gnr    -nonfut -3sg
+\ft And the children walk like this, she (the mother) does like this on her (Utakan's) head (shows a patting movement with her hand).
+\ph
+\gr
+\nt So all the children are holding on to each other and to the mother in a chain, and they walk and the mother pats Utankan on her head
+\ev Нян эчин эр гиркаваттэээ куӈал диллан тарак эчин нэккоттэн
+\ru И вот так эти дети идут, и по голове ей так делают.
+
+\ELANBegin 00:02:08.340
+\ELANEnd 00:02:12.780
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_020
+\ref
+\tx Ekedmer       ečin      dịllan,            a     tarakaši   ečin      ejukeščiweːtten.
+\mb eken   -dmEr  erroːčin dịl -(dU)LE -n(I)  a.R   tarak =sI   erroːčin ejuk -E  -sčI  -WEːČ -R(E) -n(I)
+\ge mother -contr prox.qual  head  -loc -poss.3sg but.R dist  =emph prox.qual  jump -ep -conat -gnr    -nonfut -3sg
+\ft The mother like this on her (Utakan's) head (pats her head), and she (Utakan) bobs up and down like this (shows a bobbing movement).
+\ph
+\gr 27/06/2016: ejukesčiweːtten = nemnozhko podprygivaet; ejukkoːtten = prygaet
+\ev Экэдмер эчин диллан, а таракаши эчин эюкэшчивэттэн.
+\ru Мать так по голове, а эта вот так подпрыгивает.
+
+\ELANBegin 00:02:12.780
+\ELANEnd 00:02:17.040
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_021
+\ref
+\tx Goːweːtte           "Mugdekčen,     donik donik, mugdekčen,      donik donik".
+\mb goːn -WEːČ -R(E)   mugdek     -čEn donik donik  mugdek     -čEn donik donik
+\ge say   -gnr    -nonfut tree.stump -dim  donik donik  tree.stump -dim  donik donik
+
+\ft They say "Mugdekchen donik-donik, mugdekchen, donik-donik".
+\ph
+\gr donik = prosto kak traljalja
+\nt шуточная песенка.
+\ev Говэттэ : "Мугдэкчэн, доник-доник, мугдэкчэн, доник-доник"
+\ru Поет: "Мугдэкчэн, доник-доник, мугдэкчэн, доник-доник"
+
+\ELANBegin 00:02:17.040
+\ELANEnd 00:02:22.330
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_022
+\ref
+\tx Ńan   tarak tačịn        nekridʒur,      adịrada          ečin      gịrkawaːtta.
+\mb ńaːn tarak tarrọːčịn nek -RIdʒI -L   adịra       =DE  erroːčin gịrka -WEːČ -R(E)
+\ge and    dist  dist.qual       do  -ant.cvb -pl several.times =ptl prox.qual  walk    -gnr    -nonfut
+\ft And having done like that they walk like this several times (shows a circular movement with her hands).
+\nt
+\ev Нян тарак тачин нэкридюр адирада эчин гиркаватта.
+\ru И вот так сделав, несколько раз ходят.
+\ELANBegin 00:02:22.330
+\ELANEnd 00:02:25.940
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_023
+\ref
+\tx Ńan   ịlloːtta                 ńan   kojeːčidʒilloːtte,                    ečin      er  nekeddʒoːtten.
+\mb ńaːn ịl        -WEːČ -R(E)   ńaːn kojeːt -E-D     -E-L     -WEːČ -R(E)   erroːčin er  nek -D    -WEːČ -R(E) -n(I)
+\ge and    stand.still -gnr    -nonfut and    look.at -ep-prog -ep-inch -gnr    -nonfut prox.qual  ptl do  -prog -gnr    -nonfut -3sg
+
+\ft And they stand still and they start to look like this, she (the mother) does like this (holds her hands up opposite each other).
+\ph
+\nt This is the mother and Utakan who do the clapping, the kids are all still holding on tight in the chain
+\qu
+\ev Нян иллоттэ, нян коечиддиллоттэ, эчин эр нэкэддёттэн.
+\ru И встают (останавливаются) и смотрят, вот так делают.
+
+\ELANBegin 00:02:25.940
+\ELANEnd 00:02:30.970
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_024
+\ref
+\tx Ečin      dʒawur...            drug.protiv.druga     ečin,     deːpki  ịllidʒur              ečin      nekeddʒoːtte:
+\mb erroːčin dʒaw      -U    -r   drug.protiv.druga     erroːčin deːpki  ịl        -RIdʒI -L   erroːčin nek -E-D     -WEːČ -R(E)
+\ge prox.qual  catch.hold -caus -3pl opposite.each.other.R prox.qual  opposite stand.still -ant.cvb -pl prox.qual  do  -ep-prog -gnr    -nonfut
+
+\ft Like this, they hold, opposite each other like this (shows with her hands), they stand opposite each other and do like this:
+\ph
+\gr bi ʤawuram = ja derzhu, noŋan ʤawunni, noŋartan ʤawur
+\nt this is only the mother and Utakan who do this
+\qu
+\ev Эчин дявур..  друг против друга эчин. Дэпки иллидюр эчин нэкэддёттэ.
+\ru Вот так друг против друга. Друг напротив друга встают так и делают.
+\ELANBegin 00:02:30.970
+\ELANEnd 00:02:36.120
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_026
+\ref
+\tx Ŋaːldʒur         ečin      "Iːteš            čakińa,   iːteš             čakińa!".
+\mb ŋaːl -dʒUr       erroːčin iːt  -E  -s(I)     čakińa    iːt  -E  -s(I)     čakińa
+\ge hand   -ins.prfl.pl prox.qual  tooth -ep -poss.2sg discoloured tooth -ep -poss.2sg discoloured
+
+\ft With their hands like this (shows alternate clapping of one's own hands and then the hands of the person opposite): "Your teeth are dirty, your teeth are dirty".
+\ph
+\gr čakińa = said about teeth, not about clothes, face, floor, not even black and dirty fingernails, and later on it is translated as "chernye"
+\nt
+\ev Ӈалдюр эчин: "Итэш чакиня, итэш чакиня!"
+\ru Руками так: "Зубы у тебя грязные, зубы грязные!"
+
+\ELANBegin 00:02:36.120
+\ELANEnd 00:02:41.670
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_027
+\ref
+\tx Ńanaši     kojeːtčoːtte         iːtton.
+\mb ńaːn =sI   kojeːt -WEːČ -R(E)   iːt  -Con
+\ge and    =emph look.at -gnr    -nonfut tooth -acc.3sg
+\ft And then they look at )each other's) teeth.
+\ph
+\qu
+\nt
+\ev Нянаши коетчоттэ  иттон, 
+\ru И вот смотрят зубы, 
+\ELANBegin 00:02:41.670
+\ELANEnd 00:02:44.280
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_028
+\ref
+\tx Goːweːtten               "In,    in...", tarak Utakan ekentekiten              kojeːtčoːtten             iːtton,       goːweːtten
+\mb goːn -WEːČ -R(E) -n(I)  hin     hin     tarak Utakan eken   -t(E)kI -tEn      kojeːt -WEːČ -R(E) -n(I)  iːt  -Con     goːn -WEːČ -R(E) -n(I)
+\ge say   -gnr    -nonfut -3sg 2sg.obl 2sg.obl dist  Utakan mother -all    -poss.3pl look.at -gnr    -nonfut -3sg tooth -acc.3sg say   -gnr    -nonfut -3sg
+
+\tx "Nọːdeː   iːteš".
+\mb nọːd =eː  iːt  -E  -s(I)
+\ge pretty  =emph tooth -ep -poss.2sg
+\ft She says "your... your...", that is Utakan looks at the teeth of their mother, she says "you have pretty teeth".
+\ph to me it sounds like goːweːttnen in the beginning, but Rimma said it's only goːweːtten
+\nt
+\ev говэттэн: Ин, ин, тарак утакан экэнтэкитэн коетчоттэн иттон говэттэн: "Нодээ итэш."
+\ru говорят: ... Эта Баба Яга у их матери смотрит зубы и говорит: "Красивые зубы у  тебя."
+\ELANBegin 00:02:44.280
+\ELANEnd 00:02:52.780
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_029
+\ref
+\tx Tarakaši   guːnni     "Kirekeː   čakińa    iːteš".
+\mb tarak =sI   goːn -n(I) kire  =kE   čakińa    iːt  -E  -s(I)
+\ge dist  =emph say   -3sg  dirty =emph discoloured tooth -ep -poss.2sg
+
+\ft And that one (the mother) says (to Utakan) "How dirty and black your teeth are!".
+\ph
+\nt
+\ev Таракаши гунни : "Кирэкеее чакиня итэш."
+\ru А она говорит: "Какие грязные, черные у тебя зубы"
+
+\ELANBegin 00:02:52.780
+\ELANEnd 00:02:56.500
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_030
+\ref
+\tx Ńan   tarak uŋedʒilloːtten,                          dịllon       geleččoːtten,              goːweːtten               "Nọːdeː
+\mb ńaːn tarak uŋ -E  -D    -E-L     -WEːČ -R(E) -n(I)  dịl -Con     geleːt  -WEːČ -R(E) -n(I)  goːn -WEːČ -R(E) -n(I)  nọːd =eː
+\ge and    dist  do  -ep -prog -ep-inch -gnr    -nonfut -3sg head  -acc.3sg look.for -gnr    -nonfut -3sg say   -gnr    -nonfut -3sg pretty  =emph
+
+\tx dịlaš,           nọːde".
+\mb dịl -E  -s(I)     nọːd -E
+\ge head  -ep -poss.2sg pretty  -ep
+\ft And that one starts to search in her head (her hair), she says "You have a pretty head, pretty".
+\ph
+\nt Utakan searches in the mother's hair
+\ev Нян тарак уӈэдиллоттэн диллон гэлэччоттэн, говэттэн: "Нодыы дилаш, нода"
+\ru И эта начинает в голове искать, говорит: "Красивая у тебя голова,  красивая."
+\ELANBegin 00:02:56.500
+\ELANEnd 00:03:05.000
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_031
+\ref
+\tx Tarakaši   ńan   Utakan dịllon       kojeːčidʒilloːtten,                        ečin      er  kojeːn      "Kirekeː,  kumkeš         ọːja!".
+\mb tarak =sI   ńaːn Utakan dịl -Con     kojeːt -E-D     -E-L     -WEːČ -R(E) -n(I)  erroːčin er  kojeː -n(I) kire  =kE   kumke -s(I)     họːja
+\ge dist  =emph and    Utakan head  -acc.3sg look.at -ep-prog -ep-inch -gnr    -nonfut -3sg prox.qual  ptl watch  -3sg  dirty =emph louse -poss.2sg many
+\ft And that one starts to look at Utakan's head, looks like this (and sees) "Dirtyyy!!! you have many lice!" (mimes disgust).
+\nt
+\ev Таракаши нян утакан диллон коечидиллоттэн, эчин эр коен: "Кирэкеее кумкэш  оя!"
+\ru И вот у Бабы Яги голову смотрит и видит: "Грязная голова, вшей у тебя  много!"
+\ELANBegin 00:03:05.000
+\ELANEnd 00:03:11.520
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_032
+\ref
+\tx Ńanaši     tarak Utakan aːššoːttan.
+\mb ńaːn =sI   tarak Utakan aːs        -WEːČ -R(E) -n(I)
+\ge and    =emph dist  Utakan be.offended -gnr    -nonfut -3sg
+\ft And then this Utakan gets offended.
+\nt
+\ev Нянаши тарак утакан ашшотан
+\ru И вот эта Баба Яга обижается.
+\ELANBegin 00:03:11.520
+\ELANEnd 00:03:14.250
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_033
+\ref
+\tx Ńan   uːčiddʒoːtteneši,                     tarak goːweːtten               "Kụŋaŋelbušeː               tiːdʒime!".
+\mb ńaːn hoːt     -D    -WEːČ -R(E) -n(I)  =sI   tarak goːn -WEːČ -R(E) -n(I)  kụŋa -ŋ  -L  -W   =sI   =eː  tie       -DʒI -m   -E
+\ge and    run.after -prog -gnr    -nonfut -3sg =emph dist  say   -gnr    -nonfut -3sg child   -aln -pl -acc =emph =emph take.away -fut  -1sg -ep
+\ft And she chases after them and says "I'll take away your children!".
+\nt уттэй -- гнаться
+\ev Нян учиддётэнэши, тарак говэттэн: "Куӈанэлбушэ тидимэ."
+\ru И как погонится за ними, и она говорит: "Детей у тебя отберу."
+
+\ELANBegin 00:03:14.250
+\ELANEnd 00:03:19.070
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_034
+\ref
+\tx Ńanaši     ečin      ọːdịdʒịː     tarak ńọːmaččoːttan,               Utakanaši       epkeščiweːtten                  kụŋalba.
+\mb ńaːn =sI   erroːčin ọː  -RIdʒI  =Iː  tarak ńọːn -mEČ -WEːČ -R(E) -n(I)  Utakan -E  =sI   hepken -sčI  -WEːČ -R(E) -n(I)  kụŋa -L  -W
+\ge and    =emph prox.qual  become -ant.cvb =emph dist  run.away -rec  -gnr    -nonfut -3sg Utakan -ep =emph catch  -conat -gnr    -nonfut -3sg child   -pl -acc
+
+\ft And she (the mother) does like this (shows arms wide open to protect her children) and runs, and Utakan tries to catch the children.
+\ph
+\nt
+\ev Нянаши эчин одади тарак нёмаччоттан, утаканаши эпкэшчивэттэн куӈалба.
+\ru И вот так она становится и бегает, и Баба Яга старается схватить детей.
+
+\ELANBegin 00:03:19.070
+\ELANEnd 00:03:25.200
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_035
+\ref
+\tx Ńan   čelewen                vsjoravno      epkeweːtten                urečilte.
+\mb ńaːn čele -W   -E-n(I)      vseravno       hepken -WEːČ -R(E) -n(I)  urečilte
+\ge and    all   -acc -ep-poss.3sg all.the.same.R catch  -gnr    -nonfut -3sg no.difference
+\ft And she (Utakan) catches all of them anyway.
+\nt
+\ev Нян чэлэвэн всё равно эпкэвэттэн урэчилтэ.
+\ru И всех все равно ловит, все равно.
+\ELANBegin 00:03:25.200
+\ELANEnd 00:03:29.110
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_036
+\ref
+\tx Ńan   epkennidʒi           uruddʒoːtten                       dʒụːtkiji,            tegukeweːtten                      torle,        ečin
+\mb ńaːn hepken -n    -RIdʒI  hor -U    -D    -WEːČ -R(E) -n(I)  dʒụː -t(E)kI -J       teg      -WkEn -WEːČ -R(E) -n(I)  tor   -(dU)LE erroːčin
+\ge and    catch  -mult -ant.cvb go  -caus -prog -gnr    -nonfut -3sg house    -all    -prfl.sg sit.down -caus -gnr    -nonfut -3sg earth -loc    prox.qual
+
+\tx čeleńdʒewen                  epkenidʒi      tegukeweːtten.
+\mb čele -ńdʒE -W   -E-n(I)      hepken -RIdʒI  teg      -WkEn -WEːČ -R(E) -n(I)
+\ge all   -aug    -acc -ep-poss.3sg catch  -ant.cvb sit.down -caus -gnr    -nonfut -3sg
+\ft And having caught (all) she brings them to her house and makes them sit on the floor, having caught all like this she makes them sit.
+\ph
+\gr čeleńʤewen = vsex; the AUG doesn't seem to add much here, except for maybe a bit of emphasis
+\nt
+\nt эпкэнниди выловив, эпкэниди -- поймав.
+\ev Нян эпкэнниди уруддётэн дюткий, тэгукэвэттэн торлэ,  эчин чэлэндевэн  эпкэниди, тэгукэвэттэн.
+\ru И вот выловив, уводит домой к себе, сажает на землю, так всех поймав,  садит.
+\ELANBegin 00:03:29.110
+\ELANEnd 00:03:37.560
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_037
+\ref
+\tx Ńanaši     tarak ụlaːbboːttan                   dʒuːre:   ekedmer       i     umendewul   kụŋaŋan            bidʒin.
+\mb ńaːn =sI   tarak hụlaː -B   -WEːČ -R(E) -n(I)  dʒoːr -E  eken   -dmEr  i     omen =dEwUl kụŋa -ŋ  -n(I)     bi -DʒI -n(I)
+\ge and    =emph dist  leave    -med -gnr    -nonfut -3sg two     -ep mother -contr and.R one  =disj  child   -aln -poss.3sg be -fut -3sg
+\ft And then two are left: the mother and at least one child.
+\ph
+\gr umendewul = xotja by 1; ʤuːrdewul = xotja by 2; (dajte mne) xotja by 2 jabloka = ʤuːrbedewul
+\nt
+\ev Нянаши тарак улабботан дьөр: экэдмэр и умэндэвэл куӈаӈэн бидин.
+\ru И вот остаются двое: мать и хотя бы один ребенок бывает.
+
+\ELANBegin 00:03:37.560
+\ELANEnd 00:03:44.590
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_038
+\ref
+\tx Ńanaši     Utakan ečin      uklešemkeweːtten                      čelewen.
+\mb ńaːn =sI   Utakan erroːčin hukle -s(E)n -WkEn -WEːČ -R(E) -n(I)  čele -W   -E-n(I)
+\ge and    =emph Utakan prox.qual  sleep -lim   -caus -gnr    -nonfut -3sg all   -acc -ep-poss.3sg
+\ft And Utakan puts them all to bed like this (lit. makes them all go to sleep; shows a row of kids with her hand).
+\nt
+\ev Нянаши утакан эчин уклэшэмкэвэттэн чэлэвэн.
+\ru И вот Баба Яга так укладывет всех спать.
+\ELANBegin 00:03:44.590
+\ELANEnd 00:03:49.140
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_039
+\ref
+\tx Goːweːtten               "Dʒebedgerkene",                 kụŋalba       tar  uličiddʒoːtten.
+\mb goːn -WEːČ -R(E) -n(I)  dʒeb -E-D     -GEr        =kEnE  kụŋa -L  -W   tar  ulič -E-D     -WEːČ -R(E) -n(I)
+\ge say   -gnr    -nonfut -3sg eat   -ep-prog -imp.1pl.in =contr child   -pl -acc thus feed  -ep-prog -gnr    -nonfut -3sg
+\ft She says "Let's first eat", and she feeds the children.
+\ph
+\gr ulič- 'feed', not only animals (even though in 2009 I was told that this verb is used only to mean "feeding animals"); but it is rude in direct speech, in address; it's OK to say "čelewen
+uličidditen" for example about the prazdnik pervoj ryby, but offering "davajte ja vas nakormlju" is rude
+\nt
+\ev Говэттэн: "Дебэдгэркэнэ", куӈалба тачин уличиддёттэн.
+\ru Говорит: "Давайте сначала будем есть," детей так кормит.
+
+\ELANBegin 00:03:49.140
+\ELANEnd 00:03:53.690
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_040
+\ref
+\tx Ńanaši     taral        ečin      teγγoːtte,            buːdelur        ečin      ere.
+\mb ńaːn =sI   tarak -E-L   erroːčin teg      -WEːČ -R(E)   boːdel -WUr     erroːčin erek
+\ge and    =emph dist  -ep-pl prox.qual  sit.down -gnr    -nonfut leg(s)  -prfl.pl prox.qual  prox
+\ft And they sit like this, (put) their legs like this (shows with arms how the legs are stretched out straight).
+\nt
+\ev Нянаши тарал эчин тэгготтэн, будэлур эчин эрэ
+\ru И вот они так садятся, ноги вот так свои.
+\ELANBegin 00:03:53.690
+\ELANEnd 00:03:58.070
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_041
+\ref
+\tx Ńanaši     tarak Utakan gịrkawaːttan              ečin      unkiddʒoːttan             buːdeluten,           kụŋaγčaw,     ečin      ere.
+\mb ńaːn =sI   tarak Utakan gịrka -WEːČ -R(E) -n(I)  erroːčin unkide -WEːČ -R(E) -n(I)  boːdel -W   -tEn      kụŋa -gčE -W   erroːčin erek
+\ge and    =emph dist  Utakan walk    -gnr    -nonfut -3sg prox.qual  kick   -gnr    -nonfut -3sg leg(s)  -acc -poss.3pl child   -incl -acc prox.qual  prox
+
+\ft And then Utakan walks like this and kicks their feet, each child, like this.
+\ph
+\gr kuŋaγčaw = xotj kogo iz detej, kazhdogo rebenko, vsex; (ja kormila) kazhduju sobaku = ŋinaγčaw; po vsem domam xodit = ʤụːγčali girkawaːttan
+\nt
+\ev Нянаши тарак утакан гиркаваттан эчин ункиддоттан будэлутэн, куӈачав.
+\ru И вот Баба Яга идет и пинает по их ступням, каждого ребенка.
+
+\ELANBegin 00:03:58.070
+\ELANEnd 00:04:06.170
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_042
+\ref
+\tx Ńan   goːweːtten               ọːnkana    "Ịawtakan         dʒebboːčinni?".
+\mb ńaːn goːn -WEːČ -R(E) -n(I)  ọːn =kEnE  ịak -W   =t(E)kEn dʒeb -WEːČ -nrI
+\ge and    say   -gnr    -nonfut -3sg how    =contr what  -acc =restr   eat   -gnr    -2sg
+
+\ft And she says, how is it, "What only do you eat?".
+\ph
+\gr ʤebboːčinni = chem ty tolko kushaesh, pitaeshsja
+\nt
+\nt Utakan walks along the row of kids and kicks the feet of each kid and ask the kid she's kid what it eats at home, and the kid is supposed to answer something
+\ev Нян говэттэн онкана: "Явтакан деббоччинни?"
+\ru И говорит, как же : "Что ты только ешь?"
+\ELANBegin 00:04:06.170
+\ELANEnd 00:04:12.180
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_043
+\ref
+\tx Ńan   kụŋaši    goːweːtten,              ịakakamda            guːndʒin,       "umtew      dʒebboːttem".
+\mb ńaːn kụŋa =sI   goːn -WEːČ -R(E) -n(I)  ịak -kEkEn -W   =DE  goːn -DʒI -n(I) ụmta -W   dʒeb -WEːČ -R(E) -m
+\ge and    child   =emph say   -gnr    -nonfut -3sg what  -dim   -acc =ptl say   -fut -3sg   egg    -acc eat   -gnr    -nonfut -1sg
+
+\ft And the child says, it will say anything, (for example) "I eat eggs".
+\ph
+\nt
+\ev Нян куӈаши говэттэн, якаканда гундин: "Умтэв дэбботтэм."
+\ru И ребенок говорит, хоть что говорит, например: "Яйца ем."
+
+\ELANBegin 00:04:12.180
+\ELANEnd 00:04:16.510
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_044
+\ref
+\tx Ńan   tarakaši,  ńanda      unkideridʒi,   goːweːtten:              "Ulteːn dọːlan             ńačaridʒinni".
+\mb ńaːn tarak =sI   ńaːn =DE  unkide -RIdʒI  goːn -WEːČ -R(E) -n(I)  hulteːn dọː -(dU)LE -n(I)  ńačari      -DʒI -nrI
+\ge and    dist  =emph and    =ptl kick   -ant.cvb say   -gnr    -nonfut -3sg ashes    inside -loc -poss.3sg have.diarroea -fut  -2sg
+
+\ft And that one (Utakan), again having kicked (the feet) says "You will have diarroea in ashes".
+\ph
+\nt
+\ev Нян таракаши, нянда ункидариди говэттэн: "Ултэн долан нячаридинни."
+\ru А та, опять пнув, говорит: "В золу будешь поносить."
+
+\ELANBegin 00:04:16.510
+\ELANEnd 00:04:23.660
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_045
+\ref
+\tx Ńanaši         tačịn        kụŋal    ńanda,     giekiw         guːwmi                aje.
+\mb ńaːn -RI       tarrọːčịn kụŋa -L  ńaːn =DE  gịakị -W   goːn -W     -mI       aj   -E
+\ge and    -impf.ptc dist.qual       child   -pl and    =ptl various   -acc say   -advrs -cond.cvb good -ep
+\ft And like that the children again, one can say anything.
+\nt ае -- ай --  хорошо/ можно.
+\ev Нянаши тачин куӈал нянда, гекив гувми ае.
+\ru И вот так дети опять, можно всякое говорить.
+
+\ELANBegin 00:04:23.660
+\ELANEnd 00:04:28.300
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_046
+\ref
+\tx Ịawda         "magdʒịlịw    dʒebboːttam"             ili  guːndʒindewul,         ili  "ọltịwaːttam",             ịawụl    guːndʒinni.
+\mb ịak -W   =DE  magdʒịlị -W   dʒeb -WEːČ -R(E) -m     ili  goːn -DʒI -n(I) =dEwUl ili  ọlra -tI -WEːČ -R(E) -m     ịak =(W)Ul goːn -DʒI -nrI
+\ge what  -acc =ptl insect        -acc eat   -gnr    -nonfut -1sg or.R say   -fut -3sg   =disj  or.R fish   -vr -gnr    -nonfut -1sg what  =indef say   -fut  -2sg
+\ft Whatever, "I eat worms" or it will say "I eat fish soup", you will say whatever.
+\nt
+\ev Явда, "магдилив дебботтам", или гундиндэвэл или "олтиваттам", явул  гундинни.
+\ru Что-нибудь "червей ем", или хотя бы скажет (или) "уху ем", что угодно  скажешь.
+\ELANBegin 00:04:28.300
+\ELANEnd 00:04:36.730
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_047
+\ref
+\tx Ńanaši     tarak ereγer goːweːtten               "Ulteːn dọːlan             ńačaridʒinni".
+\mb ńaːn =sI   tarak ereger  goːn -WEːČ -R(E) -n(I)  hulteːn dọː -(dU)LE -n(I)  ńačari      -DʒI -nrI
+\ge and    =emph dist  always  say   -gnr    -nonfut -3sg ashes    inside -loc -poss.3sg have.diarroea -fut  -2sg
+
+\ft And that one always says "You will lay eggs in ashes".
+\ph
+\nt
+\ev Няннаши тарак эрээр говэттэн: "Ултэн долан нячаридинни".
+\ru А она всегда говорит: "В золу будешь поносить."
+
+\ELANBegin 00:04:36.730
+\ELANEnd 00:04:40.050
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_048
+\ref
+\tx Nọŋanaši,      Utakan, giekiw         toreweːtten.
+\mb nọŋan -E  =sI   Utakan  gịakị -W   tore  -WEːČ -R(E) -n(I)
+\ge 3sg      -ep =emph Utakan  various   -acc speak -gnr    -nonfut -3sg
+\ft And she, Utakan, says various things.
+\nt
+\ev Ноӈанаши утакан гекив торэвэттэн.
+\ru Она же Баба Яга всякое говорит.
+\ELANBegin 00:04:40.050
+\ELANEnd 00:04:43.740
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_049
+\ref
+\tx Ńanaši     tačịn        uŋeddidʒur              goːweːtten               "Čaš uklešendʒidlilleši!".
+\mb ńaːn =sI   tarrọːčịn uŋ -E-D     -RIdʒI -L   goːn -WEːČ -R(E) -n(I)  čas   hukle -s(E)n -D    -(LI)lrE =sI
+\ge and    =emph dist.qual       do  -ep-prog -ant.cvb -pl say   -gnr    -nonfut -3sg ptl    sleep -lim   -prog -imp.2pl =emph
+\ft And having done like that she says "OK, go to bed!".
+\nt
+\ev Нянаши тачин  уӈэддидюр говэттэн "Час уклэшэндидлилэши!"
+\ru И она так сделав, говорит: "Ладно, ложитесь спать!"
+
+\ELANBegin 00:04:43.740
+\ELANEnd 00:04:49.250
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_050
+\ref
+\tx Uklešemkeweːtten                      meːnkende          uklešnoːtten                    uŋ,      dịlaγdalatan.
+\mb hukle -s(E)n -WkEn -WEːČ -R(E) -n(I)  meːn -KEn     =DE  hukle -s(E)n -WEːČ -R(E) -n(I)  uŋ       dịl -gIdE -(dU)LE -tEn
+\ge sleep -lim   -caus -gnr    -nonfut -3sg refl  -dim.int =ptl sleep -lim   -gnr    -nonfut -3sg something head  -part -loc    -poss.3pl
+\ft She puts them to bed and herself lays down to sleep next to their heads.
+\nt диладалатан.-- на стороне их голов.
+\ev Уклэшэмкэвэттэн мэнэкэнда уклэшноттэн уӈ диладалатан.
+\ru Она их укладывает спать и сама ложится возле их голов.
+
+\ELANBegin 00:04:49.250
+\ELANEnd 00:04:55.420
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_051
+\ref
+\tx Ńanaši     tarak ekedmer       gelneddʒoːtten                            tar  uŋ       kụŋaŋalbi.
+\mb ńaːn =sI   tarak eken   -dmEr  gel      -nE     -D    -WEːČ -R(E) -n(I)  tar  uŋ       kụŋa -ŋ  -E-L   -J
+\ge and    =emph dist  mother -contr look.for -intent -prog -gnr    -nonfut -3sg thus something child   -aln -ep-pl -prfl.sg
+\ft And then that mother goes to look for her children.
+\nt
+\ev Нянаши тарак экэдмэр гэлнэддёттэн тар уӈ куӈаӈалби.
+\ru И вот эта мать идет искать своих детей.
+\ELANBegin 00:04:55.420
+\ELANEnd 00:05:01.270
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_052
+\ref
+\tx Ńanaši     uŋŋoːtten,            Utakan ukleddeken                      čelewen                dʒọrmịwaːttan              kụŋaŋalbi,
+\mb ńaːn =sI   uŋ -WEːČ -R(E) -n(I)  Utakan hukle -D    -REk      -n(I)     čele -W   -E-n(I)      dʒọrọm -WEːČ -R(E) -n(I)  kụŋa -ŋ  -E-L   -J
+\ge and    =emph do  -gnr    -nonfut -3sg Utakan sleep -prog -cond.cvb -poss.3sg all   -acc -ep-poss.3sg steal       -gnr    -nonfut -3sg child   -aln -ep-pl -prfl.sg
+
+\tx ńan   ńọːwaːtta           dʒụːtkiwur.
+\mb ńaːn ńọːn -WEːČ -R(E)   dʒụː -t(E)kI -WUr
+\ge and    run.away -gnr    -nonfut house    -all    -prfl.pl
+\ft And she does what, when Utakan is sleeping she steals all her children and they run away to their house.
+\nt
+\ev Нянаши, уӈӈоттэн, утакан уклэддэкэн чэлэвэн дёрмивэттэн куӈаӈалби, нян  нёваттан дюткивэр.
+\ru И вот делает, пока Баба Яга спит, всех детей ворует, и они убегают домой.
+
+\ELANBegin 00:05:01.270
+\ELANEnd 00:05:07.880
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_053
+\ref
+\tx Ńan   tačịn        tar  ńanda      Utakan gelneddʒoːtten.
+\mb ńaːn tarrọːčịn tar  ńaːn =DE  Utakan gel      -nE     -D    -WEːČ -R(E) -n(I)
+\ge and    dist.qual       thus and    =ptl Utakan look.for -intent -prog -gnr    -nonfut -3sg
+\ft And then Utakan again goes to search (for the children).
+\nt
+\ev Нян тачин тар нянда утакан гэльнэддёттэн.
+\ru И вот так опять Баба Яга идет искать.
+\ELANBegin 00:05:07.880
+\ELANEnd 00:05:12.940
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_054
+\ref
+\tx Tačịniː           iwidiwmi                        gọrụ tačịn        tar  ewiddʒoːttu,              kučuker     bimi.
+\mb tarrọːčịn =Iː  ewiː -D    -E-W      -mI       gọrụ tarrọːčịn tar  ewiː -D    -WEːČ -(R)U   kočuken -L  bi -mI
+\ge dist.qual       =emph play  -prog -ep-advrs -cond.cvb long     dist.qual       thus play  -prog -gnr    -1pl.ex small    -pl be -cond.cvb
+\ft Playing like that for a long time, we played like that when we were small.
+\ph
+\gr iwi = ewi, no difference; iwidiwmi = igraja tak, vsegda dolgo igraja; ewidmi = dolgo igraja; basically no difference, Rimma says, between the forms - though elsewhere the
+combination -w-mi expresses impersonal possibility
+\nt
+\ev Тачиниии ивидивми гору тачин тар эвиддётту кучукэр бими.
+\ru Так играя долго, так мы играли, когда были маленькие.
+
+\ELANBegin 00:05:12.940
+\ELANEnd 00:05:20.950
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_055
+\ref
+\tx Adịrada          tačịn        tar  uŋ,      ńanda      mụčụwaːttu,         ńanda      uŋeddʒoːttu,
+\mb adịra       =DE  tarrọːčịn tar  uŋ       ńaːn =DE  mụčụ -WEːČ -(R)U   ńaːn =DE  uŋ -E  -D    -WEːČ -(R)U
+\ge several.times =ptl dist.qual       thus something and    =ptl return    -gnr    -1pl.ex and    =ptl do  -ep -prog -gnr    -1pl.ex
+
+\tx mugdekčendʒilloːttu,                      ńanda      ọddoːttu,         adịrada.
+\mb mugdek     -čEn -D    -L    -WEːČ -(R)U   ńaːn =DE  ọd -WEːČ -(R)U   adịra       =DE
+\ge tree.stump -dim  -prog -inch -gnr    -1pl.ex and    =ptl stop -gnr    -1pl.ex several.times =ptl
+\ft Several times like that, and we return again, and we again do the "tree stump" and we again stop, several times.
+\nt
+\ev Адирада тачин тар уӈ нянда мучуватту. Нянда уӈаддётту, мугдыкчандиллотту, нянда оддотту адирада.
+\ru Несолько раз так, и опять возвращаемся. Опять делаем, играем в "кочку", и заканчиваем, и потом опять снова  несколько раз.
+\ELANBegin 00:05:20.950
+\ELANEnd 00:05:30.660
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_057
+\ref
+\tx Aːnda     učullidʒur               orroːtte,          ńan   untel     ọːwaːtta.
+\mb haːn =DE  učul         -RIdʒI -L   hor -WEːČ -R(E)   ńaːn honte -L  ọː  -WEːČ -R(E)
+\ge some  =ptl become.fed.up -ant.cvb -pl go  -gnr    -nonfut and    other -pl become -gnr    -nonfut
+\ft Some become fed up and leave, and others join (lit. become).
+\ph
+\nt учулдаи -- надоесть, наскучить.
+\ev Анда учуллидюр орроттэ, нян унтэл оватта.
+\ru Некоторым надоедает, уходят, и другие становятся.
+
+\ELANBegin 00:05:30.660
+\ELANEnd 00:05:35.570
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_058
+\ref
+\tx Tačịn        gọrụ ewiddʒoːttu,              čelew     iːšečimde.
+\mb tarrọːčịn gọrụ ewiː -D    -WEːČ -(R)U   čele -W   hiːsečin -W   =DE
+\ge dist.qual       long     play  -prog -gnr    -1pl.ex all   -acc evening    -acc =ptl
+\ft Like that we used to play for a long time, even the whole evening.
+\ph
+\gr I thought čele- is underlyingly possessed, so I thought it should be čelewen here, but Rimma repeated that čelew iːsečim means "the entire evening" - so čele here must be a modifier, an
+adjective, whereas the underlyingly possessed form is the noun!
+\nt
+\ev Тачин гору эвиддётту, чэлэв ишэчимдэ.
+\ru Так долго играем, даже целый вечер.
+\ELANBegin 00:05:35.570
+\ELANEnd 00:05:40.090
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_059
+\ref
+\tx Ebdʒendiiː         biweːtten.
+\mb hebdʒen -DI   =Iː  bi -WEːČ -R(E) -n(I)
+\ge funny    -adjr =emph be -gnr    -nonfut -3sg
+\ft It used to be a lot of fun.
+\nt
+\ev Эбдендии бивэттэн.
+\ru Интересно бывает.
+\ELANBegin 00:05:40.090
+\ELANEnd 00:05:43.190
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_060
+\ref
+\tx Tiːkkel    ọmŋaritan,          bu     tačịn        iwiweːttu.
+\mb tiek =gEl   ọmŋa -RI -tEn       buː   tarrọːčịn ewiː -WEːČ -(R)U
+\ge now  =coord forget  -pst -poss.3pl 1pl.ex dist.qual       play  -gnr    -1pl.ex
+\ft Now they have forgotten (but) we used to play like that.
+\ph
+\nt ививэтту (долгое и) -- гасили (свет..).
+\ev Тиккэл омӈаритан, бу тачин ививэтту.
+\ru Сейчас-то забыли, мы так играем.
+\ELANBegin 00:05:43.190
+\ELANEnd 00:05:46.440
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_061
+\ref
+\tx Kụŋatkan      bimi         Twajandu      iwiriwu.
+\mb kụŋa =t(E)kEn bi -mI       Twajaːn -DU  ewiː -RI -W
+\ge child   =restr   be -cond.cvb Twajaːn -dat play  -pst -poss.1sg
+\ft Only when I was a child in Twajan I played.
+\ph
+\nt Only in Twajan did they play the game; when they moved to Bystroe (when Rimma was ca. ten) they were forbidden to speak Even, everyone had to speak Russian, and so they stopped
+playing this game
+\ev Куӈаткан бими Тваянду ивириву.
+\ru Когда была ребенком, в Тваяне играла.
+\ELANBegin 00:05:46.440
+\ELANEnd 00:05:49.560
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_062
+\ref
+\tx A     tartakị     že   Bystrojteki     urmi          uže      ńụːčịdịč  iwilliwun,                    ọmŋariwun              taraw
+\mb a.R   tarak -t(E)kI že   Bystroj -t(E)kI hor -mI       uže      ńụča -DI   -Č  ewiː -L    -RI -WUn          ọmŋa -RI -WUn          tarak -W
+\ge but.R dist  -all    ptl.R Bystroe -all    go  -cond.cvb already.R Russian  -adjr -ins play  -inch -pst -poss.1pl.ex forget  -pst -poss.1pl.ex dist  -acc
+
+\tx mugdekčem.
+\mb mugdek     -čEn -W
+\ge tree.stump -dim  -acc
+\ft And when we went there, to Bystroe, we already started to play in Russian (Russian games) and forgot that "tree stump".
+\ph
+\nt in Twajan there were less Russians than in Bystroe, that's why they were able to play in Even
+\ev А тартаки же Быстройтаки урми уже нючидич ивилливун, омӈаривун тарав  мугдыкчам.
+\ru А туда же, на Быструю, уехав, уже по-русски играли, забыли эту "кочку".
+
+\ELANBegin 00:05:49.560
+\ELANEnd 00:05:58.850
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_063
+\ref
+\tx
+\ft When did you play this?
+\nt
+\ev АЛ: Ок и эвича эрэ?
+\ru Когда ты играла?
+\ELANBegin 00:05:58.850
+\ELANEnd 00:06:02.740
+\ELANParticipant AL
+
+\id Egorova_RM_Utakan_064
+\ref
+\tx
+\ft Huh?
+\nt
+\ev А?
+\ru
+\ELANBegin 00:06:02.740
+\ELANEnd 00:06:03.460
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_065
+\ref
+\tx
+\ft When did you play, at what age?
+\nt
+\ev
+\ru АЛ: Когда вы играли, до какого возраста?
+\ELANBegin 00:06:03.460
+\ELANEnd 00:06:07.490
+\ELANParticipant AL
+
+\id Egorova_RM_Utakan_066
+\ref
+\tx Adị... upkuttiwu,            bi   eweški        emniwu              Essotki,         pervyj  klasstu      ele          taŋadʒilliwu.
+\mb adịː  hupkut -RI -W         biː erek -skI      em   -RI -W         Essọː -t(E)kI pervyj  klas    -DU  erek -(dU)LE taŋ -D    -L    -RI -W
+\ge how.much learn  -pst -poss.1sg 1sg  prox -advb.all come -pst -poss.1sg Esso     -all    first.R grade.R -dat prox -loc    read -prog -inch -pst -poss.1sg
+\ft How old... I studied, I came here to Esso, I started to go to first grade here.
+\nt
+\ev Ади упкуттиву, би эвэшки эмниву Эссотки, первый классту элэ таӈӈадилливу.
+\ru Сколько.. училась, я сюда приехала в Эссо, в первом классе стала учиться  здесь.
+\ELANBegin 00:06:07.490
+\ELANEnd 00:06:15.210
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_067
+\ref
+\tx
+\ft And the adults did what?
+\nt
+\ev АЛ: А тар агдилти яватти?
+\ru А взрослые что делали?
+\ELANBegin 00:06:15.210
+\ELANEnd 00:06:20.840
+\ELANParticipant AL
+
+\id Egorova_RM_Utakan_068
+\ref
+\tx Aγdịlda       aːdụnda     ewiddʒoːtte               munnun,          aːdụnda     tegečiddʒoːtte,                  kojeːčiddʒoːtte.
+\mb hagdị -L  =DE  haːdụn =DE  ewiː -D    -WEːČ -R(E)   mun        -ńUn haːdụn =DE  teg      -Č  -D    -WEːČ -R(E)   kojeːt -E-D     -WEːČ -R(E)
+\ge old     -pl =ptl sometimes =ptl play  -prog -gnr    -nonfut 1pl.ex.obl -com  sometimes =ptl sit.down -res -prog -gnr    -nonfut look.at -ep-prog -gnr    -nonfut
+\ft The adults sometimes played with us, sometimes they would sit and watch.
+\ph
+\gr aγdil = adults; moi starshie bratja = aγdiγnilbu 
+\nt
+\ev Адилда адунда эвиддёттэ муннун, адунда тэгэчиддёттэ, коечиддёттэ.
+\ru Взрочлые иногда играли с нами, иногда сидели, смотрели.
+
+\ELANBegin 00:06:20.840
+\ELANEnd 00:06:27.780
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_069
+\ref
+\tx Ọːnka    tiːk kojeːčiddʒoːtte,             ịawdakka,          koncertew         tačịn        tare,     ebdʒendiiː         bišin.
+\mb ọːn =kkE tiek  kojeːt -E-D     -WEːČ -R(E)   ịak -W   =DE  =kkE koncert   -E-W    tarrọːčịn tarak -E  hebdʒen -DI   =Iː  bi -RI -n(I)
+\ge how    =ptl now   look.at -ep-prog -gnr    -nonfut what  -acc =ptl =ptl concert.R -ep-acc dist.qual       dist  -ep funny    -adjr =emph be -pst -poss.3sg
+\ft How they now watch a concert or something, like that it was very interesting.
+\nt
+\ev Онка тик коечиддёттэ, яв-да-кка концертэв тачин тар, эбдендии бисин..
+\ru Как сейчас смотрят, что-нибудь, концерт, например, инрересно было.
+
+\ELANBegin 00:06:27.780
+\ELANEnd 00:06:36.810
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_070
+\ref
+\tx
+\ft And what's that, Inshacha?
+\nt
+\ev АЛ: И это, як тавар Иншача?
+\ru Что такое Иншача?
+\ELANBegin 00:06:36.810
+\ELANEnd 00:06:42.030
+\ELANParticipant AL
+
+\id Egorova_RM_Utakan_071
+\ref
+\tx Inšačaši    tarak tettoːtte             tiːtel.
+\mb Inšača =sI   tarak tet    -WEːČ -R(E)   tiːtel
+\ge Inshacha =emph dist  put.on -gnr    -nonfut long.ago
+\ft Inshacha, they used to wear that in the past.
+\ph
+\gr should be Inčašawuši, ACC 
+\nt EIA told about the same incident ("pugalo"); he said it was his aunt dressed up, and it now turns out that Rimma and Efim Innok-vich are cousins on her mother's side, and she's cousins
+with Elena Petrovna on her father's side; EIA called the frightening apparition Appaljan, which is just another name for what Rimma here calls Inšača
+\nt
+\ev Иншачаши тарак тэттоттэ титэл.
+\ru Иншачу это раньше надевали, шили.
+\ELANBegin 00:06:42.030
+\ELANEnd 00:06:46.704
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_072
+\ref
+\tx Aŋannoːtta           ịlkam      ịtịːw,    iːstuk,     ịašalalkan      ejdu.
+\mb haŋan -WEːČ -R(E)   ịlkan -W   ịtịː -W   iːs -DUk(U) ịašal -E  -lkEn ejdu
+\ge sew    -gnr    -nonfut true    -acc face      -acc hide -abl    eyes     -ep -prop all
+\ft They sewed a real face from hide, with eyes and all.
+\nt илкам -- настоящий..
+\ev Аӈаннотта илкам иттив, истук, яшалалкан эйду
+\ru Шили настоящее лицо, из шкуры, с глазами полностью.
+
+\ELANBegin 00:06:46.704
+\ELANEnd 00:06:53.250
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_073
+\ref
+\tx Ńan   tettoːtte             dịl uŋnen,                  aːwan   urečinni,          ečin      tettoːtte,            elek urečinni.
+\mb ńaːn tet    -WEːČ -R(E)   dịl uŋ       -(dU)LE -n(I)  aːwụn ureːčin -n(I)     erroːčin tet    -WEːČ -R(E)   elek ureːčin -n(I)
+\ge and    put.on -gnr    -nonfut head  something -loc -poss.3sg hat      similar   -poss.3sg prox.qual  put.on -gnr    -nonfut bag  similar   -poss.3sg
+\ft And they put it on their heads, like a hat, they put it on like this (shows with her hands how they put it on their heads), like a bag.
+\nt
+\ev Нян тэттоттэ дил уӈнэн, аван урэчинни, эчин тэттоттэ, элэк урэчинни.
+\ru И одевали на голову, на шапку похожая, так одевали, на мешок похожая.
+
+\ELANBegin 00:06:53.250
+\ELANEnd 00:06:59.370
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_074
+\ref
+\tx Iːštuk,    ịašalalkan,     amŋalkan,  ejdu čelewen.
+\mb iːs -DUk(U) ịašal -E  -lkEn amŋa -lkEn ejdu čele -W   -E-n(I)
+\ge hide -abl    eyes     -ep -prop mouth -prop all  all   -acc -ep-poss.3sg
+\ft From hide, with eyes, with a mouth, everything entirely.
+\nt
+\ev Иштук, яшалалкан, амӈалкан, эйду чэлэвэн.
+\ru Из шкуры, с глазами, со ртом, все полностью.
+
+\ELANBegin 00:06:59.370
+\ELANEnd 00:07:03.250
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_075
+\ref
+\tx Ečin      aramtaγan               giekiγan,                 ọŋatkan                 aŋannoːtta,          ŋuleńede    amŋańdʒan            kọrọtakla
+\mb erroːčin haramta -GE    -n(I)     gịakị -GE    -n(I)     ọŋọt -GE    -n(I)     haŋan -WEːČ -R(E)   ŋuleńe =DE  amŋa -ńdʒE -n(I)     kọrịt    -E-klE
+\ge prox.qual  eyebrow -desig -poss.3sg various   -desig -poss.3sg nose      -desig -poss.3sg sew    -gnr    -nonfut red      =ptl mouth -aug    -poss.3sg ear          -ep-all.loc
+
+\tx biweːtten,             eŋunde.
+\mb bi -WEːČ -R(E) -n(I)  heŋun    -DE
+\ge be -gnr    -nonfut -3sg be.afraid -adjr.exp
+
+\ft Like this they sewed eyebrows (for it), everything, a nose (for it), there used to be a huuuge red mouth up to the ears, frightening!
+\ph
+\nt shows how big the mouth was with her hands
+\nt
+\ev Эчин арамтаан гекиан, оӈаткан аӈаннотта, ӈулэнедэ амӈандян коротакла  бивэттэн, эӈундэ.
+\ru Вот так брови и все остальное, нос пришивали, и красный огромный рот до  ушей был, страшный.
+\ELANBegin 00:07:03.250
+\ELANEnd 00:07:11.160
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_076
+\ref
+\tx Kọrọtandaši                  meretikeken,  kọbalan kọrọtan            urečinni.
+\mb kọrịt -E-n(I)      =DE  =sI   mereti -kEkEn kọbalan kọrịt -E-n(I)      ureːčin -n(I)
+\ge ear       -ep-poss.3sg =ptl =emph circle -dim   bear      ear       -ep-poss.3sg similar   -poss.3sg
+\ft And its ears were round, like the ears of a bear.
+\nt
+\ev Коротандаши мэрэтикакан, кобалан коротан урэчинни.
+\ru А уши у него кругленткие были, на медвежьи уши были похожи.
+
+\ELANBegin 00:07:11.160
+\ELANEnd 00:07:15.580
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_077
+\ref
+\tx Ńanaši     tettoːtte             taraw      dịllawur.
+\mb ńaːn =sI   tet    -WEːČ -R(E)   tarak -W   dịl -(dU)LE -WUr
+\ge and    =emph put.on -gnr    -nonfut dist  -acc head  -loc    -prfl.pl
+\ft And they put that on their head.
+\ph repeats "wur" at the very end
+\nt
+\ev Нянаши тэттотэ тарав диллавэр.
+\ru И вот надевали это на голову.
+\ELANBegin 00:07:15.580
+\ELANEnd 00:07:20.030
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_078
+\ref
+\tx Ọjlawuraši                  tettoːtte             uŋu.
+\mb ọj    -(dU)LE -WUr     =sI   tet    -WEːČ -R(E)   uŋ       -W
+\ge clothes -loc    -prfl.pl =emph put.on -gnr    -nonfut something -acc
+\ft They put that on over their clothes.
+\nt
+\ev Ойлавэраши  тэттоттэ уӈу.
+\ru Поверх одежды надевали вто это.
+\ELANBegin 00:07:20.030
+\ELANEnd 00:07:24.210
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_079
+\ref
+\tx Nendekew            ịwridʒur,                 konajtaw       tačịn,       untew          nebuliw     tettoːtte.
+\mb nendekeː      -W   hịw           -RIdʒI -L   konajta   -W   tarrọːčịn ụnta    -W   nebuli -W   tet    -WEːČ -R(E)
+\ge deerskin.shirt -acc turn.inside.out -ant.cvb -pl fur.pants -acc dist.qual       fur.boots -acc furry  -acc put.on -gnr    -nonfut
+
+\ft They turned a deerskin shirt inside out, and fur pants as well, and put on furry boots.
+\ph
+\gr ịːwriʤur = naiznanku vyvernut; iːwriʤur = zanesja, ịːwriʤur = vyvernuv; bi ịːwram = ja vyvarachivaju
+\nt ивридюр -- занести (мягкое.. ),
+\ev Нэндэкэв ивридюр, конайтав  тачин, унтэв нэбулив тэттоттэ.
+\ru Кухлянку вывернув, и штаны тоже также, и торбоза мохнатые одевали.
+
+\ELANBegin 00:07:24.210
+\ELANEnd 00:07:31.180
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_080
+\ref
+\tx Ńan   tačịn        mun        kučuken bišekun                  ŋeːlukečiddʒoːtte.
+\mb ńaːn tarrọːčịn mun        kočuken bi -REk      -WUn         ŋeːl    -WkEn -Č  -D    -WEːČ -R(E)
+\ge and    dist.qual       1pl.ex.obl small    be -cond.cvb -poss.1pl.ex be.afraid -caus -res -prog -gnr    -nonfut
+\ft And like that they frightened us when we were small.
+\nt
+\ev Нян тачин мун кучукэн бишэкун ӈэлукэчиддёттэ.
+\ru И вот так когда мы были маленькие, пугали.
+\ELANBegin 00:07:31.180
+\ELANEnd 00:07:35.300
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_081
+\ref
+\tx Ilide,             ọkaːtlida          kụŋalašiiː         ọːjaw      uŋe    čakabboːttu               čeledʒur,        ịak umekker
+\mb irek  -(dU)LI =DE  ọkaːt -(dU)LI =DE  kụŋa -L  =sI   =Iː  họːja -W   uŋ -E  čak   -B   -WEːČ -(R)U   čele -dʒUr       ịak omekken -L
+\ge which -prol   =ptl river    -prol   =ptl child   -pl =emph =emph many     -acc do  -ep gather -med -gnr    -1pl.ex all   -ins.prfl.pl what  alone   -pl
+
+\tx iwiddʒoːttu.
+\mb ewiː -D    -WEːČ -(R)U
+\ge play  -prog -gnr    -1pl.ex
+\ft Somewhere, on the river, a lot of children all gathered together, we didn't play alone, right.
+\ph
+\gr should better be: ọːja čakabboːttu, with NOM, not acc
+\nt
+\ev Илидэ, окатлида куӈалаши ояв уӈ чакабботту чэлэдюр, як умэ-ккэр ивиддётту.
+\ru Где-нибудь, на реке, дети все вместе собираются, мы же по-одному не играли.
+
+\ELANBegin 00:07:35.300
+\ELANEnd 00:07:42.114
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_082
+\ref
+\tx Čeledʒur         ereger čakabačiddʒoːttu                   ewidmi.
+\mb čele -dʒUr       ereger čak   -B   -Č  -D    -WEːČ -(R)U   ewiː -D    -mI
+\ge all   -ins.prfl.pl always gather -med -res -prog -gnr    -1pl.ex play  -prog -cond.cvb
+\ft We always all gathered together and played.
+\nt
+\ev Чэлэлюр эрэгэр чакабачиддётту эвидми
+\ru Всегда вместе собираличь, играли.
+\ELANBegin 00:07:42.114
+\ELANEnd 00:07:45.654
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_083
+\ref
+\tx Ńanaši     omneken        bu     elek...  ọːnkana,   ičid...     taraw      Inšačaw     ittiwun.
+\mb ńaːn =sI   omen -REkEn    buː   elekes   ọːn =kEnE  it  -E-D     tarak -W   Inšača -W   it  -RI -WUn
+\ge and    =emph one  -iter.adv 1pl.ex at.first how    =contr see -ep-prog dist  -acc Inshacha -acc see -pst -poss.1pl.ex
+\ft And once we saw that Inshacha for the first time.
+\nt
+\ev Нянаши омнэкэн бу элэк(эш).. оккана?.. ичид(диву) тарав Иншачав иттивун.
+\ru И вот однажды мы первый раз.. когда же? увидели эту Иншачу.
+
+\ELANBegin 00:07:45.654
+\ELANEnd 00:07:54.131
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_084
+\ref
+\tx Ewiddiwun                     ọkaːtla,      uže      uŋe,   nelke        ọːddin,                  uŋe.
+\mb ewiː -D    -RI -WUn          ọkaːt -(dU)LE uže      uŋ -E  nelkeni      ọː  -D    -RI -n(I)      uŋ -E
+\ge play  -prog -pst -poss.1pl.ex river    -loc    already.R do  -ep early.spring become -prog -pst -poss.3sg do  -ep
+\ft We were playing on the river, it was already turning early spring.
+\ph
+\gr okaːtla means "on the river", i.e. on the ice, if they had been playing by the river, at the edge, it would have been "okat ulilen"
+\nt
+\ev Эвиддивун окатла, уже уӈ нэлкэ оддин уӈ
+\ru Играли на реке, уже ранняя весна наступала.
+
+\ELANBegin 00:07:54.131
+\ELANEnd 00:07:59.822
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_085
+\ref
+\tx Tembeken ọːdin              bukeš, egdʒeneši       ọkaːt bišin.
+\mb tembeken ọː  -RI -n(I)      bokes   egdʒen -E  =sI   ọkaːt bi -RI -n(I)
+\ge soft     become -pst -poss.3sg ice     big     -ep =emph river    be -pst -poss.3sg
+\ft The ice had become soft, the river was big, right.
+\nt
+\ev Тэмбэкэн один букэш, эгденэши окат бишин.
+\ru Мягкий лед стал, большая же река была.
+\ELANBegin 00:07:59.822
+\ELANEnd 00:08:02.710
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_086
+\ref
+\tx Ńanaši     bu     talịịː         nekeddʒoːtte               "Edʒille    urgerekille         tala,         tikčikelšen,            eješendʒiš".
+\mb ńaːn =sI   buː   tarak -(dU)LI =Iː  nek -E-D     -WEːČ -R(E)   e   -(LI)lrE hor -Gr(E) -kIllE   tarak -(dU)LE tik  -DʒIk -L  -sEn      ejeːn -sEn      -DʒI -s
+\ge and    =emph 1pl.ex dist  -prol   =emph do  -ep-prog -gnr    -nonfut neg -imp.2pl go  -hab   -proh.pl dist  -loc    fall -admon -pl -poss.2pl flow   -poss.2pl -fut  -2pl
+
+\ft And we (were) there, they had (said): "Don't go there or else you will fall and be swept away".
+\ph
+\nt
+\ev Нянаши бу талиии, нэкэддётты : Эдиллэ ургэрэкиллэ тала, тикчикэлшен,  эешэндиш.
+\ru И вот мы там,  делали (говорили): Не ходите там, а то упадете и уплывете.
+
+\ELANBegin 00:08:02.710
+\ELANEnd 00:08:08.510
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_087
+\ref
+\tx Bubedʒi       tarịdʒịt ọmŋawaːttu          goːnčeweten.
+\mb buː   =bEdʒI tarịdʒịt ọmŋa -WEːČ -(R)U   goːn -čE    -W   -E  -tEn
+\ge 1pl.ex =emph   at.once       forget  -gnr    -1pl.ex say   -pf.ptc -acc -ep -poss.3pl
+\ft But we of course immediately forgot what they had said.
+\nt
+\ev Бу-бэди таридит омӈаватту гончэвэттэн.
+\ru Мы-то сразу забывали, что нам сказали.
+\ELANBegin 00:08:08.510
+\ELANEnd 00:08:12.899
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_088
+\ref
+\tx
+\ft Ah, for me (a phone call).
+\nt телефон
+\ev АЛ: А, минду.
+\ru
+\ELANBegin 00:08:12.899
+\ELANEnd 00:08:18.778
+\ELANParticipant AL
+
+\id Egorova_RM_Utakan_089
+\ref
+\tx Ńanaši     uŋniwun              tačịn        tare,     urriwuneː                  tar  bukeštu   tar  ewiddiwun.
+\mb ńaːn =sI   uŋ -RI -WUn          tarrọːčịn tarak -E  hor -RI -WUn          =eː  tar  bokes -DU  tar  ewiː -D    -RI -WUn
+\ge and    =emph do  -pst -poss.1pl.ex dist.qual       dist  -ep go  -pst -poss.1pl.ex =emph thus ice   -dat thus play  -prog -pst -poss.1pl.ex
+\ft And we did like that, we went and played there on the ice.
+\nt
+\ev Нянаши уӈнивун тачин тар урривуныыы тар букэшту тар эвиддивун.
+\ru И вот сделали мы так, пошли мы, на льду там играли.
+
+\ELANBegin 00:08:18.778
+\ELANEnd 00:08:28.161
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_090
+\ref
+\tx Ńan   unde  tačịn        uŋedmi                ŋiːwutteši        ittin.
+\mb ńaːn unde  tarrọːčịn uŋ -E-D     -mI       ŋiː =(W)UttE =sI   it  -RI -n(I)
+\ge and    while dist.qual       do  -ep-prog -cond.cvb who   =indef   =emph see -pst -poss.3sg
+\ft And while we were doing like that someone saw.
+\nt
+\ev Нян унда тачин уӈадми ӈивутта иттин.
+\ru И вот так вот делая, кто-то увидал.
+\ELANBegin 00:08:28.161
+\ELANEnd 00:08:32.475
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_091
+\ref
+\tx Guːnem            "Tara ịakawur      tegečidden                            bardala?".
+\mb goːn -R(E) -m     tarak ịak -WUr     teg      -E-Č   -E-D     -R(E) -n(I)  bargịda          -(dU)LE
+\ge say   -nonfut -1sg dist  what  -prfl.pl sit.down -ep-res -ep-prog -nonfut -3sg opposite.riverbank -loc
+\ft I say "Who is that sitting on the opposite riverbank?".
+\nt
+\ev Гунэм: "Тара якавэр тэгэчиддэн бардала?"
+\ru Говорю: "Вот кто это сидит на том берегу?"
+\ELANBegin 00:08:32.475
+\ELANEnd 00:08:35.850
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_092
+\ref
+\tx Ičišendʒiddu,         ịamị ịakkakan   tegečidden.
+\mb it  -s(E)n -D    -(R)U   ịamị ịak -kEkEn teg      -E-Č   -E-D     -R(E) -n(I)
+\ge see -lim   -prog -1pl.ex ptl      what  -dim   sit.down -ep-res -ep-prog -nonfut -3sg
+\ft We glanced, why someone (small and frightening) is sitting.
+\ph
+\nt
+\ev Ичишэндидду, ями якакан тэгэчиддэн.
+\ru Глянули мы, кто-то сидит.
+\ELANBegin 00:08:35.856
+\ELANEnd 00:08:40.466
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_093
+\ref
+\tx Uŋne             mọːkakan... mọː, ọkaːt ulilen,             buːdeldʒide             uŋedden,              ọγnaddan.
+\mb uŋ       -(dU)LE mọː -kEkEn  mọː  ọkaːt holi -(dU)LE -n(I)  boːdel -DʒI        =DE  uŋ -D    -R(E) -n(I)  họgna -D    -R(E) -n(I)
+\ge something -loc    tree   -dim    tree    river    edge -loc -poss.3sg leg(s)  -ins.prfl.sg =ptl do  -prog -nonfut -3sg move    -prog -nonfut -3sg
+\ft On something, a tree, on the riverbank, and it was moving its legs.
+\nt
+\ev Уӈа мокакан.. мо, окат улилэн, будэлдида унэддэн огнаддан.
+\ru Возле деревца.. дерева на берегу реки, и ногами шевелит.
+
+\ELANBegin 00:08:40.466
+\ELANEnd 00:08:47.839
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_094
+\ref
+\tx Mọːŋalkanda,       ečin      dịldʒida             ečin      nekeddʒoːtten,               erroː  eŋunikiː.
+\mb mọː -ŋ  -lkEn =DE  erroːčin dịl -DʒI        =DE  erroːčin nek -D    -WEːČ -R(E) -n(I)  erroːj heŋun    -E  =kE
+\ge tree   -aln -prop =ptl prox.qual  head  -ins.prfl.sg =ptl prox.qual  do  -prog -gnr    -nonfut -3sg oh.dear be.afraid -ep =emph
+\ft With a stick, it was doing like this with its head (shows a wagging movement), oh dear, frightening.
+\nt
+\ev Моӈалканда, эчин дилдида эчин нэкэддёттэн, эрро, эӈуники.
+\ru С палкой, так головой так делает, вот, страшно.
+
+\ELANBegin 00:08:47.839
+\ELANEnd 00:08:53.209
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_095
+\ref
+\tx Ńọːndʒiddiwunaši,                biːγel    ešemdetit                 dʒọːŋčịr       ọːnụt      dʒụːla       ŋenniwu.
+\mb ńọːn -D    -RI -WUn          =sI   biː =gEl   e   -R(E) -m     =DE  =tIt dʒọŋčị -R       ọːn =(W)UttE dʒụː -(dU)LE ŋen -RI -W
+\ge run.away -prog -pst -poss.1pl.ex =emph 1sg  =coord neg -nonfut -1sg =ptl =ptl remember      -neg.cvb how    =indef   house    -loc    go   -pst -poss.1sg
+\ft And off we ran, I don't even remember how I came home.
+\nt
+\ev Нёндидывунаши, бигэл эшэм-дэ-тит  дёӈчир, онут дюла ӈэнниву.
+\ru Мы как побежали, я-то даже не помню, как я домой пришла.
+
+\ELANBegin 00:08:53.221
+\ELANEnd 00:08:58.789
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_096
+\ref
+\tx Ịkụtịč    ọji            uleridʒi      deščišemelčiriwu.
+\mb ịkụt -E-Č   ọj    -J       uleː -RIdʒI  desči -s(E)n -mElčI -RI -W
+\ge straight -ep-ins clothes -prfl.sg throw -ant.cvb lie    -lim   -acclr  -pst -poss.1sg
+\ft I threw off my clothes right away and quickly went to bed.
+\gr desčišemelčiriwu = bystro legla; can one say desčimelčišniwu? - NO; desčišniwu = ja legla; desčišemelčiriwu = bystro legla
+\ev Икутич ойи улэриди дэшчишэмэлчириву.
+\ru Прямо одежду побросала и улеглась быстро.
+
+\ELANBegin 00:08:58.789
+\ELANEnd 00:09:01.920
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_097
+\ref
+\tx Ńanaši     ekmu             biče,     nọŋan ịamị iːdden                  tulgič       mọːw     ŋaːlaššon        binni.
+\mb ńaːn =sI   eken   -W        bi -čE    nọŋan ịamị iː   -D    -R(E) -n(I)  tol     -GIČ mọː -W   ŋaːl -E  -ssEn     bi -R(E) -n(I)
+\ge and    =emph mother -poss.1sg be -pf.ptc 3sg      ptl      enter -prog -nonfut -3sg outside -elat tree   -acc hand   -ep -pretense be -nonfut -3sg
+\ft And my late mother, why, she is coming in from outside and it's as if she is carrying firewood in her hands.
+\nt ӈаладдин -- принесла дрова.
+\ev Нянаши экму бичэ, ноӈан ями иддэн тульгич мов ӈалашшон бишни.
+\ru И вот моя мама покойная, она заходит с улицы и как будто несет дрова  (издалека).
+\ELANBegin 00:09:01.920
+\ELANEnd 00:09:10.394
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_098
+\ref
+\tx Guːnni     "Ịaščinni?",    guːnem            "Ekičeː   uklemellem".
+\mb goːn -n(I) ịa    -sčI  -nrI goːn -R(E) -m     ekič =eː  hukle -mEl -R(E) -m
+\ge say   -3sg  do.what -conat -2sg say   -nonfut -1sg very  =emph sleep -des -nonfut -1sg
+\ft She says "What are you doing?", I say "I felt VERY tired (I very much wanted to sleep)".
+\nt
+\ev Гунни : "Яшчинни?" --  Гунэм : "Экичээ уклэмэллэм".
+\ru Говорит: "Ты чего делаешь?" Говорю: "Сильно спать захотела."
+
+\ELANBegin 00:09:10.394
+\ELANEnd 00:09:14.480
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_099
+\ref
+\tx Ńan   tarak nọŋanmaja   tačịn        tare      tettin.
+\mb ńaːn tarak nọŋan =mEjE tarrọːčịn tarak -E  tet    -RI -n(I)
+\ge and    dist  3sg      =ptl  dist.qual       dist  -ep put.on -pst -poss.3sg
+\ft And it turned out that she had put that on like that.
+\nt
+\ev Нян тарак ноӈанмая тачин тар тэттин.
+\ru И вот так она, оказывается, вот так оделась.
+
+\ELANBegin 00:09:14.480
+\ELANEnd 00:09:20.196
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_100
+\ref
+\tx Taraw      Inšačaw     ọjjon          tettidʒi       ŋeːlukeneššin.
+\mb tarak -W   Inšača -W   ọj    -Con     tet    -RIdʒI  ŋeːl    -WkEn -nE     -sčI  -n(I)
+\ge dist  -acc Inshacha -acc clothes -acc.3sg put.on -ant.cvb be.afraid -caus -intent -conat -poss.3sg
+\ft Having put on Inshacha's clothes she had gone to frighten (us).
+\gr ŋeːlukeneššin = xodila tuda pugatj i uzhe vernulasj
+\nt
+\ev Тарав Иншачав ойон тэттиди ӈэлукэнэшшин.
+\ru Эту одежду Иншачи одев, ходила пугать.
+\ELANBegin 00:09:20.196
+\ELANEnd 00:09:24.666
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_101
+\ref
+\tx Ńan   tarịdʒịt kụŋal    čeledʒur         diknešiten                              dʒụːtkiwur.
+\mb ńaːn tarịdʒịt kụŋa -L  čele -dʒUr       diken      -nE     -sčI  -RI -tEn       dʒụː -t(E)kI -WUr
+\ge and    at.once       child   -pl all   -ins.prfl.pl hide(intr) -intent -conat -pst -poss.3pl house    -all    -prfl.pl
+
+\ft And all the children immediately ran home to hide.
+\ph
+\gr diknešiten = xodili prjatatsja; here it would be better to say dikneriten = poshli sprjatatjsa because they all went home and hid and stayed there
+\nt таридит -- сразу.
+\ev Нян таридит куӈал чэлэдюр дикнэшитэн дюткивар.
+\ru И сразу все дети побежали прятаться домой.
+
+\ELANBegin 00:09:24.666
+\ELANEnd 00:09:28.950
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_102
+\ref
+\tx Ńan   ekmu             guːnni     "Ịamị tačịmụr    bišenni?",     ńan   teːleŋeddem.
+\mb ńaːn eken   -W        goːn -n(I) ịamị  tarrọːčịn bi -R(E)   -nrI ńaːn teːleŋ -E-D     -R(E) -m
+\ge and    mother -poss.1sg say   -3sg  why       dist.qual       be -nonfut -2sg and    tell     -ep-prog -nonfut -1sg
+\ft And my mother asked "Why are you like that?" and I told (her).
+\nt
+\ev Нян экму гунни: "Ями тачимур бишэнни?" Нян тэлэӈэддэм.
+\ru Потом моя мать сказала: "Ты почему такая?" Я рассказываю.
+
+\ELANBegin 00:09:28.950
+\ELANEnd 00:09:34.443
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_103
+\ref
+\tx Guːnem            "Ọkaːt bardalan                          ịakụttaši       eŋunde,            Ewenegu   tarak".
+\mb goːn -R(E) -m     ọkaːt  bargịda          -(dU)LE -n(I)  ịak =(W)UttE =sI   heŋun    -DE       Ewena =GU tarak
+\ge say   -nonfut -1sg river     opposite.riverbank -loc -poss.3sg what  =indef   =emph be.afraid -adjr.exp Ewena =q  dist
+
+\ft I say "On the other side of the river there is something frightening, probably that's Ewena".
+\nt
+\ev Гонэм: "Окат бардалан яккутташи эӈундэ Эвэнэгу тарак.."
+\ru Говорю: "За рекой кто-то страшный, Эвэнэ, наверное, это.."
+
+\ELANBegin 00:09:34.443
+\ELANEnd 00:09:40.086
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_104
+\ref
+\tx Guːnni     "Iŋe, tiːk Ewena gịrkawaːčilloːttan,                   dʒebdeji                geleːtten".
+\mb goːn -n(I) iŋe   tiek  Ewena gịrka -WEːČ -L    -WEːČ -R(E) -n(I)  dʒeb -DE       -J       geleːt  -R(E) -n(I)
+\ge say   -3sg  yes    now   Ewena walk    -gnr    -inch -gnr    -nonfut -3sg eat   -purp.cvb -prfl.sg look.for -nonfut -3sg
+\ft She says "Yes, now Ewena is starting to walk around, he's looking for (something) to eat".
+\nt
+\ev Гунни: "Иӈэ, тик Эвэна гиркавачиллоттан, дебдейи гэллэттэн."
+\ru Говорит: "Да, сейчас же Эвэна начинает ходить, есть себе ищет."
+
+\ELANBegin 00:09:40.086
+\ELANEnd 00:09:46.073
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_105
+\ref
+\tx Ńan   guːnni     "Unudatit              epkenidʒi      dʒebdʒin".
+\mb ńaːn goːn -n(I) hun     -W   =DE  =tIt hepken -RIdʒI  dʒeb -DʒI -n(I)
+\ge and    say   -3sg  2pl.obl -acc =ptl =ptl catch  -ant.cvb eat   -fut -3sg
+\ft And she says "And even you, having caught you, he will eat".
+\nt
+\ev Нян гунни: "Унуда-тит эпкэниди дебдин."
+\ru И говорит: "И даже вас поймает -- съест."
+\ELANBegin 00:09:46.073
+\ELANEnd 00:09:49.395
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_106
+\ref
+\tx Guːnni     "Enikeneši        ulle... urre         tala",        guːnem            "Etem".
+\mb goːn -n(I) e   -nIkEn   =sI   ulle    hor -R       tarak -(dU)LE goːn -R(E) -m     e   -t(E) -m
+\ge say   -3sg  neg -sim.cvb =emph ***     go  -neg.cvb dist  -loc    say   -nonfut -1sg neg -fut  -1sg
+\ft She says "Don't go there again", I say "I won't".
+\nt
+\ev Гунни: "Эникэнэши уррэ тала" -- Гунэм: "Этэм".
+\ru Говорит: "Больше не ходи туда" -- Говорю: "Не буду."
+
+\ELANBegin 00:09:49.395
+\ELANEnd 00:09:53.086
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_107
+\ref
+\tx Ńan   ọmŋariwun              tar   ọkaːtu.
+\mb ńaːn ọmŋa -RI -WUn          tarak ọkaːt -W
+\ge and    forget  -pst -poss.1pl.ex dist  river    -acc
+\ft And we forgot the river.
+\nt
+\ev Нян омӈаривун тар окату.
+\ru Мы забыли реку.
+\ELANBegin 00:09:53.086
+\ELANEnd 00:09:56.188
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_108
+\ref
+\tx Ọːkaši   guːndidʒir           adịrada?
+\mb ọːk =sI   goːn -D    -DʒI -r   adịra       =DE
+\ge when   =emph say   -prog -fut  -3pl several.times =ptl
+\ft How often will they say things? (Lit. When will they say several times).
+\nt
+\gr guːndiʤir = mnogo raz budut govoritj, bi guːnʤiddem; ọːkaši = kogda zhe; altogether the meaning is "skolko zhe mozhno povtorjat odno i to zhe samoe)
+\nt so rather than repeat and repeat that the kids shouldn't go to the river, they simply gave them one good fright
+\qu
+\ev Окаши гундидир адирада?
+\ru Сколько же будут говорить несколько раз? (= повторять?)
+
+\ELANBegin 00:09:56.188
+\ELANEnd 00:09:58.904
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_109
+\ref
+\tx Ńan   tačịn        uŋŋoːtte,        omnekejen            eŋulukeweːtte,                        ńan   ọmŋa... ọmŋawaːttu          tali
+\mb ńaːn tarrọːčịn uŋ -WEːČ -R(E)   omen -REkEn    -jEː eŋul             -WkEn -WEːČ -R(E)   ńaːn ọmŋa    ọmŋa -WEːČ -(R)U   tarak -(dU)LI
+\ge and    dist.qual       do  -gnr    -nonfut one  -iter.adv -aug  become.frightened -caus -gnr    -nonfut and    forget     forget  -gnr    -1pl.ex dist  -prol
+
+\tx uŋeddiwur,                      utuγaddiwur.
+\mb uŋ -E  -D    -RI       -WUr     utuγa      -D    -RI       -WUr
+\ge do  -ep -prog -impf.ptc -prfl.pl fool.around -prog -impf.ptc -prfl.pl
+\ft And that's how they do, they frighten (us) only once (and properly), and we forget where we played and were naughty.
+\ph
+\gr omnekejen = odin raz, usilivaet, kak sleduet odin raz
+\nt
+\ev Нян тачин уӈӈоттэ омнэкэйэн эӈулукэвэттэ. Нян омӈаватту тали уӈэддивэр, утуваддивар.
+\ru И вот так делают, один раз напугают. И забываем где там играли, проделки всякие делали.
+\ELANBegin 00:09:58.904
+\ELANEnd 00:10:10.382
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_111
+\ref
+\tx Ńan   tar.
+\mb ńaːn tar
+\ge and    thus
+\ft That's it.
+\nt
+\ev Нян тар.
+\ru Вот.
+\ELANBegin 00:10:10.382
+\ELANEnd 00:10:11.209
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_112
+\ref
+\tx
+\ft Why did the adults do like that?
+\nt
+\ev АЛ: Мм, ями адил тачин оватта?
+\ru Почему взрочлые так делали?
+\ELANBegin 00:10:11.209
+\ELANEnd 00:10:15.740
+\ELANParticipant AL
+
+\id Egorova_RM_Utakan_113
+\ref
+\tx Goːweːtte?
+\mb goːn -WEːČ -R(E)
+\ge say   -gnr    -nonfut
+\ft Said?
+\nt
+\ev Говэттэ?
+\ru Говорили?
+\ELANBegin 00:10:15.740
+\ELANEnd 00:10:16.789
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_114
+\ref
+\tx Ọːkaši...
+\mb ọːk =sI
+\ge when   =emph
+\ft When...
+\nt
+\ev Окаши..
+\ru Когда же..
+\ELANBegin 00:10:16.789
+\ELANEnd 00:10:17.999
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_115
+\ref
+\tx Ọːn ọːwaːtta,         ew, tačịn        goː... nekkoːtte?
+\mb ọːn ọː -WEːČ -R(E)   ew  tarrọːčịn goːn   nek -WEːČ -R(E)
+\ge how    make  -gnr    -nonfut oh  dist.qual       say     do  -gnr    -nonfut
+\ft (What do you mean) How do they do, ehm, they do like that?
+\ph
+\nt
+\ev Он оватта эв тачин гов.. нэккоттэ?
+\ru Как делают , что так делают?
+\ELANBegin 00:10:18.011
+\ELANEnd 00:10:21.493
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_116
+\ref
+\tx Ọːkaši,  edewur                 ọːjaw      toredde,             ịak ụnụdʒir          kụŋa.
+\mb ọːk =sI   e   -DE -WUr           họːja -W   tore  -D    -R       ịak ụnụ    -DʒI -r   kụŋa
+\ge when   =emph neg -purp.cvb -prfl.pl many     -acc speak -prog -neg.cvb what  understand -fut  -3pl child
+\ft When, in order not to say much, after all, children don't understand.
+\ph
+\gr dropped the plural on kuŋa-l
+\nt
+\ev Окаши, эдэвэр ояв торэддэ як унудир куӈа.
+\ru Когда же, чтобы много не говорить все равно дети не поймут.
+
+\ELANBegin 00:10:21.493
+\ELANEnd 00:10:25.474
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_117
+\ref
+\tx Biγel      tačịn,       badʒịkar guːndʒidditen            "Edʒi,      eniken           urre",       guːnem            "Etem          urre".
+\mb biː =gEl   tarrọːčịn badʒịkar goːn -D    -RI -tEn       e   -LI      e   -niken       hor -R       goːn -R(E) -m     e   -t(E) -m   hor -R
+\ge 1sg  =coord dist.qual       morning     say   -prog -pst -poss.3pl neg -imp.2sg neg -fut.proh.sg go  -neg.cvb say   -nonfut -1sg neg -fut  -1sg go  -neg.cvb
+\ft I (was) like that, in the morning they would say "Don't, don't go", I say "I won't".
+\nt
+\ev Бигэл тачин, у.. бадикар гундиддитэн: "Эди, эникэн уррэ " -- Гунэм: "Этэи  уррэ."
+\ru Я же так утром говорили: "Не уходи" -- Говорю "Не пойду."
+
+\ELANBegin 00:10:25.474
+\ELANEnd 00:10:31.261
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_118
+\ref
+\tx Ńanaši     ọmŋariwu,           iːšečin ọːklan,                tar  goːnčeweten,                   ńanda      urriwu             ọkaːttakị.
+\mb ńaːn =sI   ọmŋa -RI -W         hiːsečin ọː  -klE     -n(I)     tar  goːn -čE    -W   -E  -tEn      ńaːn =DE  hor -RI -W         ọkaːt -t(E)kI
+\ge and    =emph forget  -pst -poss.1sg evening    become -all.loc -poss.3sg thus say   -pf.ptc -acc -ep -poss.3pl and    =ptl go  -pst -poss.1sg river    -all
+\ft And then I forgot, until the evening, what they had said, and again go to the river.
+\nt
+\ev Нянаши омӈариву, ишэчин оклан, тар гончэвэттэн, нянда урриву окаттаки.
+\ru И вот забыла, до самого вечера, что сказанно, опять пошла на речку.
+
+\ELANBegin 00:10:31.261
+\ELANEnd 00:10:38.073
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_119
+\ref
+\tx Ńan   tačịn        tar, baldụnni             tačịn        nekkoːtte,         ŋeːlukeččoːtte.
+\mb ńaːn tarrọːčịn tar  baldụn     -n(I)     tarrọːčịn nek -WEːČ -R(E)   ŋeːl    -WkEn -Č  -WEːČ -R(E)
+\ge and    dist.qual       thus all.the.time -poss.3sg dist.qual       do  -gnr    -nonfut be.afraid -caus -res -gnr    -nonfut
+\ft And so they have always done like that, frightened (children).
+\nt
+\ev Нян тачин тар, балдунни тачин нэккоттэ, ӈэлукэччоттэ.
+\ru И вот так испокон веков, так делали, пугали.
+
+\ELANBegin 00:10:38.073
+\ELANEnd 00:10:46.147
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_120
+\ref
+\tx
+\ft We'll take a break so that they can call.
+\nt
+\ev
+\ru Пока паузу сделаем, чтобы могли звонить.
+\ELANBegin 00:10:46.147
+\ELANEnd 00:10:54.579
+\ELANParticipant AL
+
+
+\ELANMediaURL file:///F:/EVEN_DATA/ELAN_KAM/Egorova_RM_Frightful_mythic personnages_Utakan_Game/Egorova_RM_Frightful_mythic personnages_Utakan_Game-10m-ev-CAM.wav
+\ELANMediaMIME audio/x-wav

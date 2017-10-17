@@ -1,0 +1,2070 @@
+\_sh v3.0  1100 Text
+
+\id Egorova_RM_father_farrier_000_metadata
+\ref Recorded on 06 July 2010 by Alexandra Lavrillier in Esso.
+\qu ????In 2011, transcribed by Natalia Aralova in ELAN, transcription checked and oral translation given by Rimma Maksimovna
+Egorova; translation entered into ELAN in XXX by XXX????; in 2016, glossed by Brigitte Pakendorf. Funding by the Volkswagen
+Foundation (DoBeS grant). Funding by the Volkswagen Foundation (DoBeS grant) and CNRS/Universit� Lyon 2 (laboratoire
+DDL). Speaker abbreviation = RME
+\ref Rimma Maksimovna Egorova was born in 1954, i.e. she was 55-56 at the time of the recording. She has a college-level education and
+had variously worked as the person who projects movies, a junior nurse, and as a cleaner in the post office as well as doing the laundry
+in the old people's home. She is married to a Russian. She is the sister of Raisa Maksimovna Solodikova.
+\tx
+
+\id Egorova_RM_father_farrier_001
+\ref
+\ft Ironworking (was) well developed among Evens...
+\nt
+\ev
+\ru Кузнечество развито у эвенов..
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:02.530
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_002
+\ref
+\tx Iŋe.
+\mb iŋe
+\ge yes
+\ft yes
+\nt
+\ev Иӈэ
+\ru Да
+\ELANBegin 00:00:02.530
+\ELANEnd 00:00:03.190
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_003
+\ref
+\tx
+\ft So, Raja... that's it!
+\nt
+\ev Так, Рая.. всё!..
+\ru
+\ELANBegin 00:00:03.190
+\ELANEnd 00:00:07.230
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_004
+\ref
+\tx
+\ft Rimma Maksimovna...
+\nt
+\ev Римма Макс..
+\ru
+\ELANBegin 00:00:07.230
+\ELANEnd 00:00:07.630
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_005
+\ref
+\ft Rimma Maksimovna Egorova, Esso, 6 July 2010, this is the fourth recording. There.
+\nt
+\ev
+\ru Римма Максимовна Егорова, Эссо, 6 июля 2010 года, это четвертая у нас  (запись). Вот
+\ELANBegin 00:00:07.630
+\ELANEnd 00:00:20.760
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_006
+\ref
+\tx Mineši       akmụ           Solodikov Maksim Xristoforovič baldụn     uŋe          tawačimŋa
+\mb min     =sI   akan   -W        Solodikov Maksim Xristoforovič baldụn     uŋ       -E  tawači -mŋE
+\ge 1sg.obl =emph father -poss.1sg Solodikov Maxim  Xristoforovich all.the.time something -ep forge   -agnr
+
+\tx bišin.
+\mb bi -RI -n(I)
+\ge be -pst -poss.3sg
+
+\ft My father Maksim Xristoforovich Solodikov was a smith all his life.
+\ph
+\nt
+\ev Минэши акму Солодиков Максим Христофорович балдун уӈ тавычимӈа бишин.
+\ru 
+
+\ru У меня же отец С.М.Х. всю жизнь кузнецом был.
+
+\ELANBegin 00:00:20.760
+\ELANEnd 00:00:30.942
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_007
+\ref
+\tx Kuznec  tarak tawačimŋa.
+\mb kuznec  tarak tawači -mŋE
+\ge smith.R dist  forge   -agnr
+
+\ft "Tawačimŋa", that is 'smith'.
+\nt
+\ev Кузнец тарак тавычимӈа.
+\ru Это кузнец.
+\ELANBegin 00:00:30.942
+\ELANEnd 00:00:33.749
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_008
+\ref
+\tx Baldụnni             meːnken       ịrkam       tawačiddʒoːttan,                tọγla      uŋnidʒi    ečin,
+\mb baldụn     -n(I)     meːn -KEn     hịrkan -W   tawači -D    -WEːČ -R(E) -n(I)  tọg -(dU)LE uŋ -RIdʒI  erroːčin
+\ge all.the.time -poss.3sg refl  -dim.int knife    -acc forge   -prog -gnr    -nonfut -3sg fire  -loc    do  -ant.cvb prox.qual
+
+\tx ọːnkana,   ịallawịː      tọγu    duruččoːtten.
+\mb ọːn =kEnE  ịalda -W   =Iː  tọg -W   dur  -U    -Č  -WEːČ -R(E) -n(I)
+\ge how    =contr soot    -acc =emph fire  -acc burn -caus -res -gnr    -nonfut -3sg
+
+\ft He forged knives himself all the time, doing like this on the fire, how was it, burning a lot of coals in the fire.
+\nt
+\ev Балдунни мэнкэн иркам тавычиддёттан, тогла уӈниди эчин, он-кана, яллавыы  тогу дуруччёттэн.
+\ru Все время сам ножи ковал, на костре вот так сделав, как же, нажигал много  углей на костре.
+\ELANBegin 00:00:33.749
+\ELANEnd 00:00:44.337
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_009
+\ref
+\tx Ńanaši     tadụ     uŋeč         baγakaddʒoːttan,                         ọːwaːttan              giekiw
+\mb ńaːn =sI   tarak -DU  uŋ       -Č  bagak         -E-D     -WEːČ -R(E) -n(I)  ọː -WEːČ -R(E) -n(I)  gịakị -W
+\ge and    =emph dist  -dat something -ins hit.trns.iter -ep-prog -gnr    -nonfut -3sg make  -gnr    -nonfut -3sg various   -acc
+
+\tx ịrkaːm.
+\mb hịrkan   -W
+\ge knife      -acc
+
+\ft And he would hit with something, he used to make different knives.
+\nt
+\ev Нянаши таду уӈэч баакаддёттан,оваттан гекив иркам.
+\ru И вот там этим стучал, делал разные ножи.
+\ELANBegin 00:00:44.337
+\ELANEnd 00:00:50.147
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_010
+\ref
+\tx Tiːtelke     uŋ       giekiten            biweːtten              elgeten,            ọllaw
+\mb tiːtel  =kkE uŋ       gịakị -tEn      bi -WEːČ -R(E) -n(I)  elge      -tEn      ọlra -W
+\ge long.ago =ptl something various   -poss.3pl be -gnr    -nonfut -3sg pole.hook -poss.3pl fish   -acc
+
+\tx epkuldiwenten            uŋemker            erroːčinni         biweːtten.
+\mb hepken -ldIwUn -tEn      uŋ       -E  -mkEr erroːčin -n(I)     bi -WEːČ -R(E) -n(I)
+\ge catch  -nr     -poss.3pl something -ep -aug  prox.qual  -poss.3sg be -gnr    -nonfut -3sg
+
+\ft In the past there were various pole hooks, instruments for catching fish, such big things exist.
+\ph
+\gr the 3pl form in elgeten, ollaw epkuldiwenten is a generic 3pl possessor, "the people, the Evens"
+\nt
+\ev Титэл-кэ уӈ гекитэн бивэттэн элгэтэн, оллав эпкулдивэнтэн уӈэмкэр  эррочинни бивэттэн.
+\ru Раньше же всякие марики были, рыбу которыми ловили, вот такая штука бывает.
+
+\ELANBegin 00:00:50.147
+\ELANEnd 00:00:59.067
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_011
+\ref
+\tx Ńan   ońeweːtte            ušič    mọːt(ki).
+\mb ńaːn oːńe -WEːČ -R(E)   usi  -Č  mọː -t(E)kI
+\ge and    tie.up -gnr    -nonfut rope -ins tree   -all
+\ft And they tied (these) to wooden poles with rope.
+\nt
+\ev Нян оняватта ушич мот(-ки).
+\ru И привязывали веревкой к деревянной палки.
+
+\ELANBegin 00:00:59.067
+\ELANEnd 00:01:01.522
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_012
+\ref
+\tx Ńan   ečin      uŋešnoːtte              ọllaw,    tegele           bišiw.
+\mb ńaːn erroːčin uŋ -s(E)n -WEːČ -R(E)   ọlra -W   tege     -(dU)LE bi -RI -W
+\ge and    prox.qual  do  -lim   -gnr    -nonfut fish   -acc distance -loc    be -impf.ptc -acc
+\ft And like this they do (gestures a spearing motion) the fish that is far away.
+\nt
+\ev Нян эчин уӈэшноттэ оллав, тэгэлэ бишив.
+\ru И вот так сделают рыбу, которая далеко была.
+
+\ELANBegin 00:01:01.522
+\ELANEnd 00:01:06.143
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_013
+\ref
+\tx Ńanaši     taraw      ejdu meːrker               nekkoːtte,         ịačeši       nekčir,       ịala
+\mb ńaːn =sI   tarak -W   ejdu meːn -L  -KEn     -L  nek -WEːČ -R(E)   ịak -Č  =sI   nek -DʒI -r   ịak -(dU)LE
+\ge and    =emph dist  -acc all  refl  -pl -dim.int -pl do  -gnr    -nonfut what  -ins =emph do  -fut  -3pl what  -loc
+
+\tx gadʒir?
+\mb ga   -DʒI -r
+\ge take -fut  -3pl
+
+\ft And all that they themselves made, what would you make that with, where would you take that?
+\ph at the end she says ialab gaʤir - but that is simply because she closed her mouth, not because she wanted to say iala-beʤi or anything
+\gr obviously, the forms are all 3pl, but I'm following the Russian translation in my English translation
+\nt
+\ev Нянаши тарав эйду мэркэр нэккоттэ, ячиши нэкчир, яла гадир?
+\ru Это всё сами делали, чем же сделаешь, где же возьмешь?
+
+\ELANBegin 00:01:06.143
+\ELANEnd 00:01:10.965
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_014
+\ref
+\tx Giekiw         ịrkaːm     ọːwaːtta.
+\mb gịakị -W   hịrkan -W   ọː -WEːČ -R(E)
+\ge various   -acc knife    -acc make  -gnr    -nonfut
+\ft They made different knives.
+\nt
+\ev Гекив иркам оватта.
+\ru Всякие ножи делали.
+\ELANBegin 00:01:10.965
+\ELANEnd 00:01:14.281
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_015
+\ref
+\tx Uŋe          uŋgewurda                     tụrkịkka   uŋninka                giekikke       elke
+\mb uŋ       -E  uŋ       -GE    -WUr     =DE  tụrkị =kkE uŋ -RI -n(I)      =kkE gịakị =kkE hel  =kkE
+\ge something -ep something -desig -prfl.pl =ptl sled      =ptl do  -pst -poss.3sg =ptl various   =ptl iron =ptl
+
+\tx biweːtten,             taraw      meːrker               nekkoːtte          giekiŋgawur.
+\mb bi -WEːČ -R(E) -n(I)  tarak -W   meːn -L  -KEn     -L  nek -WEːČ -R(E)   gịakị -ŋ  -GE    -WUr
+\ge be -gnr    -nonfut -3sg dist  -acc refl  -pl -dim.int -pl do  -gnr    -nonfut various   -aln -desig -prfl.pl
+
+\ft And something for themselves for the sleds, there are various (parts) of iron, right, that they themselves made, different things for
+themselves.
+\nt
+\ev Уӈ уӈгавырда турки-кка уӈин-ка геки-ккэ эл-кэ бивэттэн, тарав мэркэр  нэккоттэ гекингавыр.
+\ru Что, и себе для саней, на них же всякие железки бывают, это все сами  делали, для себя.
+\ELANBegin 00:01:14.281
+\ELANEnd 00:01:26.090
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_016
+\ref
+\tx Nọŋartan baldụnni             goːweːtte.
+\mb nọŋartan baldụn     -n(I)     goːn -WEːČ -R(E)
+\ge 3pl         all.the.time -poss.3sg say   -gnr    -nonfut
+\ft They told (me) all the time.
+\nt
+\ev Ноӈартан балдунни говэттэ. 
+\ru Они все время рассказывали. 
+\ELANBegin 00:01:26.090
+\ELANEnd 00:01:29.510
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_016b
+\ref
+\tx Bi   ulgimiddʒoːttem,                       "Iːnen    awụškị     upkutneššiš,
+\mb biː ulgim -i      -D    -WEːČ -R(E) -m     hiː =nEn  aw    -skI      hupkut -nE     -sčI  -RI  -s(I)
+\ge 1sg  ask   -ipf??? -prog -gnr    -nonfut -1sg 2sg  =emph where -advb.all learn  -intent -conat -pst -poss.2sg
+
+\tx gorodtakị,   tačịn        nekteji?".
+\mb gorod  -t(E)kI tarrọːčịn nek -DE       -J
+\ge town.R -all    dist.qual       do  -purp.cvb -prfl.sg
+
+\ft I used to ask "Where did you go to learn how to do that, to town?"
+\ph
+\gr upktuneššiš = ezdil (tuda i obratno), the "there and back" function of the conative suffix
+\ev Би ульгимиддёттэм: "И-нэн авашки упкутнэшиш  город-таки тачин нэктэйи?"
+\ru Я спрашивала все время: "А ты куда ездил  учиться, в  город, чтобы так делать?"
+\ELANBegin 00:01:29.510
+\ELANEnd 00:01:34.364
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_017
+\ref
+\tx Guːnni     "Ešni.
+\mb goːn -n(I) e -R(E) -n(I)
+\ge say   -3sg  neg -nfut -3sg
+\ft He said "No.
+\nt
+\ev Гунни: "Эшни".
+\ru Говорит: "Нет"
+\ELANBegin 00:01:34.364
+\ELANEnd 00:01:35.421
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_018
+\ref
+\tx Erek baldụnni             minu         uŋ       tiːtelerepči,         akmụda              tačịn
+\mb erek baldụn     -n(I)     min     -W   uŋ       tiːtel  -(E)rEp -pčVn akan   -W        =DE  tarrọːčịn
+\ge prox all.the.time -poss.3sg 1sg.obl -acc something long.ago -adjr   -adjr  father -poss.1sg =ptl dist.qual
+
+\tx uŋŋoːtten,            tawačimŋa   bišin,           tawačiddʒoːttan".
+\mb uŋ -WEːČ -R(E) -n(I)  tawači -mŋE bi -RI -n(I)      tawači -D    -WEːČ  -R(E) -n(I)
+\ge do  -gnr    -nonfut -3sg forge   -agnr be -pst -poss.3sg forge   -prog -gnr     -nonfut -3sg
+
+\ft That has been (with) me all the time since a long time ago, my father did like this, he was a smith, he forged".
+\ph
+\gr tiːtelerepči = so stariny, tiːtelerep = starinny; *tiːtelepči = no; tiːtelerep ibdiri; "minu" in the beginning: she omitted the verb
+"upkuttiten", taught me, that explains the ACC case
+\nt
+\ev Эрэк балдунни мину уӈ титэлрэпчи, акму-да тачин уӈӈоттэн, тавычимӈа бишин,  тавычиддёттан.
+\ru Это все время издавна у меня было так, и мой отец тоже так делал, кузнецлм  был, ковал.
+\ELANBegin 00:01:35.421
+\ELANEnd 00:01:43.862
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_019
+\ref
+\tx Ńanaši     bi   kučuken bimi         uŋeddiwu,                  ebdʒelliwu                   tačịn
+\mb ńaːn =sI   biː kočuken bi -mI       uŋ -E-D     -RI -W         hebdʒen -L    -RI -W         tarrọːčịn
+\ge and    =emph 1sg  small    be -cond.cvb do  -ep-prog -pst -poss.1sg funny    -inch -pst -poss.1sg dist.qual
+
+\tx tawačiddaji.
+\mb tawači -D    -DE       -J
+\ge forge   -prog -purp.cvb -prfl.sg
+
+\ft And when I was small I found it interesting to forge like that.
+\nt
+\ev Нянаши би кучукэн бими уӈэддиву, эбделливу тачин тавычиддайи.
+\ru И вот когда я маленькая была, делала, мне интересно было ковать.
+
+\ELANBegin 00:01:43.862
+\ELANEnd 00:01:52.795
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_020
+\ref
+\tx Ńanaši     uŋu,          omneken        ịrkaːm     nọŋan ọːčiddin,                   ńanaši     biː
+\mb ńaːn =sI   uŋ       -W   omen -REkEn    hịrkan -W   nọŋan ọː -Č  -D    -RI -n(I)      ńaːn =sI   biː
+\ge and    =emph something -acc one  -iter.adv knife    -acc 3sg      make  -res -prog -pst -poss.3sg and    =emph 1sg
+
+\tx alačiddiwu,                 guːnem            "Erroːj, ọːkbadʒị urdʒin?".
+\mb alat -E-D     -RI -W         goːn -R(E) -m     erroj     ọːk =bEdʒI hor -DʒI -n(I)
+\ge wait -ep-prog -pst -poss.1sg say   -nonfut -1sg oh        when   =emph   go  -fut -3sg
+
+\ft And once he was making a knife, and I was waiting, I say "oh, WHEN will he leave?".
+\nt
+\ev Нянаши уӈу, омнэкэн иркам ноӈан очиддин. Нянаши би аллачиддиву, гунэм: "Эррой, ок-бади урдин?"
+\ru И вот однажды, он то, нож он делал. И вот я ждала, говорю: "Ой, когда же он уйдет?"
+\ELANBegin 00:01:52.806
+\ELANEnd 00:02:00.965
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_022
+\ref
+\tx Ọkaːt baššakị, guːnni,    urdʒim,       katepu         ọːčidnadʒim.
+\mb ọkaːt bassakị    goːn -n(I) hor -DʒI -m   katep     -W   ọː -Č  -D    -nE     -DʒI -m
+\ge river    to.that.side say   -3sg  go  -fut  -1sg fish.trap -acc make  -res -prog -intent -fut  -1sg
+\ft "I'm going to the other side of the river" he said, "I will be going to make a fishtrap".
+\nt
+\ev Окат башшаки, гунни, урдим, катэпу очиднадим.
+\ru За речку пойду, говорит, запор буду делать.
+
+\ELANBegin 00:02:00.965
+\ELANEnd 00:02:05.704
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_023
+\ref
+\tx Ńanaši     guːnem            "Erro, urreken                     amnakat,           biːmeken
+\mb ńaːn =sI   goːn -R(E) -m     erro   hor -REk -E-n(I)            aːmnịk -E  -Č  biː -mEkEn
+\ge and    =emph say   -nonfut -1sg oh     go  -cond.cvb -ep -poss.3sg quick     -ep -ins 1sg  -ints
+
+\tx tawačiddaji!".
+\mb tawači -D    -DE       -J
+\ge forge   -prog -purp.cvb -prfl.sg
+
+\ft And I said "Oh, if only he would leave quickly, I myself want to forge!".
+\ph
+\gr tawačiddaji - this is really what she says here, I checked with Rimma in June 2016; she omitted the verb "nekrem", which would give a
+meaning of "I want to forge (myself)", whereas what she and Natasha erroneously transcribed in 2011 would mean "let me forge"
+\nt амнак- быстро
+\ev Нянаши гунэм: "Эро, уррэкэн амнакат, би-мэкэн тавычиддаку."
+\ru И я говорю: "Эх, скорее бы он ушел, я лучше ковать буду сама."
+
+\ELANBegin 00:02:05.715
+\ELANEnd 00:02:09.761
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_024
+\ref
+\tx Ńan   nọŋan gịrkariwan                        kojeːčiddem,                 ọkaːtu     dawrin.
+\mb ńaːn nọŋan gịrka -RI -W         -E-n(I)      kojeːt -E-D     -R(E)    -m   ọkaːt -W   daw         -RI -n(I)
+\ge and    3sg      walk    -impf.ptc -acc -ep-poss.3sg look.at -ep-prog -nonfut  -1sg river    -acc cross.river -pst -poss.3sg
+\ft And I watched as he walked, he crossed the river.
+\nt
+\ev Нян ноӈан гиркариван коечиддэм, окату даврин.
+\ru И вот как он идет, смотрю, речку перешел.
+\ELANBegin 00:02:09.863
+\ELANEnd 00:02:14.306
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_025
+\ref
+\tx Ńan   guːnem            "tiːkeː, tawačiddaku!".
+\mb ńaːn goːn -R(E) -m     tiek =eː  tawači -D    -DE       -W
+\ge and    say   -nonfut -1sg now  =emph forge   -prog -purp.cvb -poss.1sg
+\ft And I say "NOW let me forge!".
+\nt
+\ev Нян гунэм: "Тикэээ, тавычиддаку."
+\ru И я говорю: "Все, теперь буду ковать."
+\ELANBegin 00:02:14.306
+\ELANEnd 00:02:18.306
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_026
+\ref
+\tx Ńan   ịrkaman               uŋne             tọγla      uŋniwu,           ńan
+\mb ńaːn hịrkan -W   -n(I)     uŋ       -(dU)LE tọg -(dU)LE uŋ -RI -W         ńaːn
+\ge and    knife    -acc -poss.3sg something -loc    fire  -loc    do  -pst -poss.1sg and
+
+\tx baγakaladdemeši!
+\mb bagak         -L    -D    -R(E) -m     =sI
+\ge hit.trns.iter -inch -prog -nonfut -1sg =emph
+
+\ft And I put his knife in the fire and how I started to beat (it) (shows how she's beating).
+\ph
+\gr I checked with Rimma in June 2016, that she really uses the non-future form of the verb, and not the past tense form as she and
+Natasha transcribed in 2011
+\nt Rimma was probably 11-12 years old at the time; the hammer that her father used was not a huge smith's hammer, but a heavy normal
+hammer
+\nt
+\ev Нян иркаман уӈнэ тогла уӈниву. Нян баакаладдиву-ши.
+\ru И вот его нож на огонь сделала. И как начала стучать.
+\ELANBegin 00:02:18.316
+\ELANEnd 00:02:23.757
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_027
+\ref
+\tx Ịamị, adịrada          baγanukaniwu,             ịakawụ   erek emnin,              tulgič
+\mb ịamị  adịra       =DE  bagan -WkEn -RI -W         ịak -awụ erek em   -RI -n(I)      tol     -GIČ
+\ge ptl       several.times =ptl hit   -caus -pst -poss.1sg what  -emph  prox come -pst -poss.3sg outside -elat
+
+\tx iːmelčin,         ịamị akmụ!
+\mb iː   -mElčI -n(I) ịamị akan   -W
+\ge enter -acclr  -3sg  ptl      father -poss.1sg
+
+\ft And then, I had hit several times, who is this who came, quickly entered from outside, why it's my father!
+\ph
+\gr baγanukaniwu = stuknula; baγakriwu = stučala; baγurriwu = stuchala palkoj; no big difference between baγnukaniwu and
+baγakriwu (wonder if the causative form emphasises the agent more...)
+\nt
+\ev Ями? адира-да баануканиву. якав эрэк эмнэн? - тулгич имэлчин. Ями акму,
+\ru И что? несколько раз стукнула. кто это пришел? - с улицы быстро зашел.  Оказывается отец,
+\ELANBegin 00:02:23.757
+\ELANEnd 00:02:32.530
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_028
+\ref
+\tx Epkenin               minu         "Ịaščidinnikk?".
+\mb hepken -RI -n(I)      min     -W   ịa    -sčI  -D    -nrI =kkE
+\ge catch  -pst -poss.3sg 1sg.obl -acc do.what -conat -prog -2sg =ptl
+\ft He grabbed me "What are you doing?".
+\nt
+\ev   эпкэнин мину: "Яшчидиннэк?"
+\ru  схватил меня: "Что ты делаешь?"
+\ELANBegin 00:02:32.530
+\ELANEnd 00:02:35.420
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_029
+\ref
+\tx Guːnem            "Iːnen    ịamị, ịaw      gelnenni?".
+\mb goːn -R(E) -m     hiː =nEn  ịamị  ịak -W   gelne    -nrI
+\ge say   -nonfut -1sg 2sg  =emph why       what  -acc go.fetch -2sg
+\ft I say "Why (are) you (here), what did you come to fetch?".
+\nt
+\ev Гунэм: "И-нэн ями, яв гэлнэнни?"
+\ru Я говорю: "А тыпочему, чего ты пришел искать?"
+
+\ELANBegin 00:02:35.427
+\ELANEnd 00:02:38.375
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_030
+\ref
+\tx Guːnni     "Ịnmač    erteki       ọːšli,             iː  tawụr ọjdʒikaš!".
+\mb goːn -n(I) hịnma -Č  erek -t(E)kI ọː  -s(E)n -LI      hiː tawụr ọj -DʒIk -E  -s(I)
+\ge say   -3sg  fast    -ins prox -all    become -lim   -imp.2sg 2sg  this    ruin -admon -ep -poss.2sg
+
+\ft He said "Go away quickly, or else you'll ruin it!"
+\ph
+\gr erteki ọːšli = ubirajsja, rather grubo, kogda serdjatsja; in Sebjan they have "herri bugun oːli!" with the same meaning
+\nt
+\ev Гунни: "Инмач эртэки ошли, и тавар ойдикаш."
+\ru Говорит: "Ну-ка быстро уходи отсюда, а то ты это испортишь."
+
+\ELANBegin 00:02:38.375
+\ELANEnd 00:02:43.791
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_031
+\ref
+\tx Ńanaši     tipkiremkeru      buːrin,            guːn "Erew     nekedli               čaše".
+\mb ńaːn =sI   tipkir -mkEr -W   boː -RI -n(I)      goːn erek -W   nek -E-D     -LI      čas
+\ge and    =emph nail   -aug  -acc give -pst -poss.3sg say   prox -acc do  -ep-prog -imp.2sg ptl
+\ft Then he gave me a big nail and said "Do this, OK".
+\nt
+\ev Нянаши типкирэмкэру бурин, гун: "Эрэв нэкэдли чашэ"
+\ru И вот дал большущий гвоздь, говорит: "Вот это делай, ладно."
+
+\ELANBegin 00:02:43.791
+\ELANEnd 00:02:48.713
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_032
+\ref
+\tx Ńan   bi taraw      tawačiddiwu,                ńanaši     ịrkan  ọːdin.
+\mb ńaːn bi tarak -W   tawači -D    -RI -W         ńaːn =sI   hịrkan ọː  -RI -n(I)
+\ge and    be dist  -acc forge   -prog -pst -poss.1sg and    =emph knife    become -pst -poss.3sg
+\ft And I forged that, and it became a knife.
+\nt
+\ev Нян би тарав тавычиддиву, нянаши иркан один.
+\ru И вот я это ковала, и вот ножик получился.
+\ELANBegin 00:02:48.713
+\ELANEnd 00:02:54.012
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_033
+\ref
+\tx Uŋe          dʒuːrdi,           uŋ       gida,     dʒuːrdi            miːneldiwunni           bišin.
+\mb uŋ       -E  dʒoːr -DʒI        uŋ       gid   -E  dʒoːr -DʒI        miːne -ldIwUn -n(I)     bi -RI -n(I)
+\ge something -ep two     -ins.prfl.sg something lance -ep two     -ins.prfl.sg cut    -nr     -poss.3sg be -pst -poss.3sg
+
+\ft It had two cutting edges, like a lance.
+\ph
+\gr ʤuːr miːneldiwunni = OK, here it should be: ʤuːrʤi miːneldiwunʤi, dvumja rezhushimi storonami
+\nt
+\nt минэдэйи - резать,
+\ev Уӈы дюрди уӈ гида, дюрди минэлдивэнни бишин.
+\ru Вот двойной, штык, с двумя режущими сторонами был.
+
+\ELANBegin 00:02:54.012
+\ELANEnd 00:03:00.804
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_034
+\ref
+\tx
+\ft Show (me)
+\nt
+\ev АЛ: ичукэли
+\ru Покажи
+\ELANBegin 00:03:00.818
+\ELANEnd 00:03:01.714
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_035
+\ref
+\tx Ečin      er,  ečin      egdʒen bišin.
+\mb erroːčin erek erroːčin egdʒen bi -RI -n(I)
+\ge prox.qual  prox prox.qual  big     be -pst -poss.3sg
+\ft It was like this, big like this (shows how big - very big!).
+\ph
+\nt
+\ev Эчин эр, эчин эгден бишин.
+\ru Такой вот большой был.
+\ELANBegin 00:03:01.714
+\ELANEnd 00:03:04.623
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_036
+\ref
+\tx Ečin      ergič,    ergičta        miːneldiwunni.
+\mb erroːčin erek -GIČ erek -GIČ =DE  miːne -ldIwUn -n(I)
+\ge prox.qual  prox -elat prox -elat =ptl cut    -nr     -poss.3sg
+\ft And the blades (were) from here and also from here (shows how the cutting edges were on both sides of the knife).
+\nt
+\ev Эчин эр-гич, эргич-та минэлдивэнни.
+\ru Так отсюда, и отсюда тоже режущая поверхность.
+
+\ELANBegin 00:03:04.623
+\ELANEnd 00:03:08.986
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_037
+\ref
+\tx Ńan   akmụ           kojeːčiddin,                  guːnni     "ńan  erek gid".
+\mb ńaːn akan   -W        kojeːt -E-D     -RI -n(I)      goːn -n(I) ńaːn erek gid
+\ge and    father -poss.1sg look.at -ep-prog -pst -poss.3sg say   -3sg  and    prox lance
+\ft And my father looked and said "Now that's a lance!".
+\ph
+\nt штык/копье
+\ev Нян акму коечидин, гунни: "Нян эрэк гид"
+\ru И вот отец смотрел и сказал: "Вот это штык"
+\ELANBegin 00:03:08.986
+\ELANEnd 00:03:13.180
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_038
+\ref
+\tx Ńanaši     guːnem,           "Oo", bi   guːnem            ečin,     "Urudʒim            uŋ       Essotki
+\mb ńaːn =sI   goːn -R(E) -m     oo    biː goːn -R(E) -m     erroːčin hor -U    -DʒI -m   uŋ       Essọː -t(E)kI
+\ge and    =emph say   -nonfut -1sg oh    1sg  say   -nonfut -1sg prox.qual  go  -caus -fut  -1sg something Esso     -all
+
+\tx upkutnemi,               erew      urudʒim             ịrkaŋaji".
+\mb hupkut -nE     -mI       erek -W   hor -U    -DʒI -m   hịrkan -GE    -J
+\ge learn  -intent -cond.cvb prox -acc go  -caus -fut  -1sg knife    -desig -prfl.sg
+
+\ft And I say "Oh", I say like this "I will take this to Esso when I go to study (to school), I will take this as a knife for myself".
+\nt
+\ev Нянаши гунэм: "Ооо!" би гунэм: "Урудим уӈ Эссотки упкутнэми, эрэв урудим  иркаӈайи."
+\ru И я говорю: "Ооо!" я говорю: "Увезу это в Эссо, когда поеду учиться, это  увезу для себя нож."
+\ELANBegin 00:03:13.180
+\ELANEnd 00:03:20.973
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_039
+\ref
+\tx Ńanaši     guːnni     "Čaš nọgdak" ńan   ečin      uleːrin                   ọkaːtla.
+\mb ńaːn =sI   goːn -n(I) čas   nọgdak  ńaːn erroːčin uleː =eː  -RI -n(I)      ọkaːt -(dU)LE
+\ge and    =emph say   -3sg  ptl    don't     and    prox.qual  throw =emph -pst -poss.3sg river    -loc
+\ft And he said "No, don't" and threeeeeeew it like this into the river.
+\nt
+\ev Нянаши гунни: "Чаш ногдак ", нян эчин улэээрин окатла.
+\ru И вот говорит: "Ну ладно, не надо", и как выбросил далеко в речку.
+
+\ELANBegin 00:03:20.973
+\ELANEnd 00:03:25.064
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_040
+\ref
+\tx Guːnem            "ịadụ?".
+\mb goːn -R(E) -m     ịak -DU
+\ge say   -nonfut -1sg what  -dat
+\ft I say "what (did you do that) for?".
+\nt
+\ev Гунэм: "Яду?"
+\ru Говорю: "Зачем?"
+\ELANBegin 00:03:25.064
+\ELANEnd 00:03:26.726
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_041
+\ref
+\tx Guːnni     "Ekič    erroːččon,       erek maːldiwan   ịr...  gid".
+\mb goːn -n(I) e   -kIč erroːčin -Con     erek maː -ldIwUn hịrkan gid
+\ge say   -3sg  neg -nr   prox.qual  -acc.3sg prox kill -nr     knife    lance
+
+\ft He said "This is impossible, this is a kni... a lance for killing".
+\nt
+\ev Гунни: "Экич эрроччон, эрэк малдиван ир.. гид"
+\ru Говорит: "Недопустимо такое, это для убийства нож.. копье."
+
+\ELANBegin 00:03:26.726
+\ELANEnd 00:03:29.908
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_042
+\ref
+\tx Guːnni     "Tiːtel erroːčineč   maːwaːtta".
+\mb goːn -n(I) tiːtel  erroːčin -Č  maː -WEːČ -R(E)
+\ge say   -3sg  long.ago prox.qual  -ins kill -gnr    -nonfut
+\ft He said "In the past they killed with these".
+\nt
+\ev Гунни: "Титэл эрочиннэч маватта."
+\ru Говорит: "В старину такими убивали."
+\ELANBegin 00:03:29.908
+\ELANEnd 00:03:36.363
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_043
+\ref
+\tx Ńan   ịrkaltanaši               tarak gieki     biweːtte,         egdʒeːmkerde,    er   diːnni.
+\mb ńaːn hịrkan -L  -tEn      =sI   tarak gịakị bi -WEːČ -R(E)   egdʒen -mkEr =DE  erek diːn       -n(I)
+\ge and    knife    -pl -poss.3pl =emph dist  various   be -gnr    -nonfut big     -aug  =ptl prox equ.measure -poss.3sg
+
+\ft And they had different kinds of knives, big ones, too, like this (shows with her hands how big).
+\nt
+\ev Нян иркалтан-аши таракам геки бивэттэ, эгдемкэр-дэ, эр динни.
+\nt ноӈан динни -- размером как он. мин диву -- с меня размером, как я.
+\ru И вот ножи то у них всякие были, и большие тоже, вот такого размера.
+
+\ELANBegin 00:03:36.363
+\ELANEnd 00:03:42.622
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_044
+\ref
+\tx Ečin      uŋ,      ečin      dʒawaččọːtta.
+\mb erroːčin uŋ       erroːčin dʒaw      -E-Č   -WEːČ -R(E)
+\ge prox.qual  something prox.qual  catch.hold -ep-res -gnr    -nonfut
+\ft And they held them like this (shows with hands).
+\nt
+\ev Эчин уӈ эчин дяваччотта.
+\ru Так вот держали.
+\ELANBegin 00:03:42.622
+\ELANEnd 00:03:45.622
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_045
+\ref
+\tx Ọːnka    tiːtelke     meč    bišin,           a     tarakaši   ečin      er   egdʒen.
+\mb ọːn =kkE tiːtel  =kkE meč    bi -RI -n(I)      a.R   tarak =sI   erroːčin erek egdʒen
+\ge how    =ptl long.ago =ptl sword.R be -pst -poss.3sg but.R dist  =emph prox.qual  prox big
+\ft How in the past a sword was, and that one was as big (the knife was as big as a sword).
+\ph
+\nt
+\ev Он-ка титэл-кэ меч бишин, а таракаши эчин эр эгден.
+\ru Как вот в старину меч был, а это вот так большой.
+
+\ELANBegin 00:03:45.622
+\ELANEnd 00:03:50.142
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_046
+\ref
+\tx Ịakut        meč    urečinni           goːweːtte           kọːšaŋa.
+\mb ịak =(W)UttE meč    ureːčin -n(I)     goːn -WEːČ -R(E)   kọːsaŋa
+\ge what  =indef   sword.R similar   -poss.3sg say   -gnr    -nonfut big.knife
+\ft Something similar to a sword, it was called koshanga (lit. they said koshanga).
+\nt
+\ev Якут меч урэчинни говэттэ кошаӈа.
+\ru Что-то на меч похожее, называлось кошаӈа.
+\ELANBegin 00:03:50.142
+\ELANEnd 00:03:54.518
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_047
+\ref
+\tx Uŋe,         tiːkkel    tarrọːčịnni         kọːšaŋa biweːtten,             tarịč   ịawdakka
+\mb uŋ       -E  tiek =gEl   tarrọːčịn -n(I)     kọːsaŋa  bi -WEːČ -R(E) -n(I)  tarak -Č  ịak -W   =DE  =kkE
+\ge something -ep now  =coord dist.qual       -poss.3sg big.knife    be -gnr    -nonfut -3sg dist  -ins what  -acc =ptl =ptl
+
+\tx ọnnọːtta,        ullew.
+\mb họn -WEːČ -R(E)   ulre -W
+\ge chop  -gnr    -nonfut meat -acc
+
+\ft Now, too, such a koshanga exists, they chop whatever with it, (for example) meat.
+\nt
+\ev Уӈ тик-кэл таррочинни кошаӈа бивэттэн, тарич ява-да-кка оннотта, уллев.
+\ru Сейчас такой кошаӈа тоже бывает, им сейчас что-нибудь рубят, мясо,  например.
+\ELANBegin 00:03:54.518
+\ELANEnd 00:04:02.168
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_048
+\ref
+\tx A     tiːteleši        tarak kọːšaŋa, goːweːtte,          uŋ,      ečinke         ere  uŋŋoːtte.
+\mb a.R   tiːtel  -E  =sI   tarak kọːsaŋa   goːn -WEːČ -R(E)   uŋ       erroːčin =kkE erek uŋ -WEːČ -R(E)
+\ge but.R long.ago -ep =emph dist  big.knife     say   -gnr    -nonfut something prox.qual  =ptl prox do  -gnr    -nonfut
+\ft But in the past that koshanga, they say, they did like this (shows a stabbing motion).
+\nt
+\ev А титэл-эши тарак кошаӈа, говэттэ, уӈ эчин-кэ эрэ уӈӈоттэ.
+\ru А раньше этим кошаӈой, говорят, вот так  же делали.
+
+\ELANBegin 00:04:02.168
+\ELANEnd 00:04:08.142
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_049
+\ref
+\tx Ọrọndu             badụwaːtta          ńan   ečin      baγanukawaːtta,           dịlukka
+\mb ọrọn          -DU  badụ -WEːČ -R(E)   ńaːn erroːčin bagan -WkEn -WEːČ -R(E)   dịl -W   =kkE
+\ge domestic.reindeer -dat ride   -gnr    -nonfut and    prox.qual  hit   -caus -gnr    -nonfut head  -acc =ptl
+
+\tx ọnnoːtta,          tarrọːčịneč.
+\mb họn -WEːČ -R(E)   tarrọːčịn -E  -Č
+\ge chop  -gnr    -nonfut dist.qual       -ep -ins
+
+\ft They rode on reindeer and hit like this, chopped off heads with these (accompanied by gestures showing all this).
+\ph
+\nt ондайи -- рубить
+\ev Оронду бадуватта, нян эчин багунакаватта, диллу-қа оннотта таррочинач.
+\ru На олене ехали, и так стукнут, голову отрубали так.
+
+\ELANBegin 00:04:08.142
+\ELANEnd 00:04:14.194
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_050
+\ref
+\tx
+\ft How do they say (call) that?
+\nt
+\ev АЛ: он тарак говэттэ?
+\ru как это говорят?
+\ELANBegin 00:04:14.194
+\ELANEnd 00:04:15.350
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_051
+\ref
+\tx Kọːšaŋa, kọːšaŋač,  iŋe.
+\mb kọːsaŋa   kọːsaŋa -Č  iŋe
+\ge big.knife     big.knife   -ins yes
+\ft Koshanga, with a koshanga, yes.
+\nt
+\ev Кошаӈа, кошаӈач, иӈэ.
+\ru кошаӈа, кошаӈой, да.
+\ELANBegin 00:04:15.350
+\ELANEnd 00:04:18.480
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_052
+\ref
+\tx Ọːnkana    ọrọttịč,      ńụčịdịč    tawụr bidʒin        sabljagu   ili  meč,   ịakut
+\mb ọːn =kEnE  ọrọč -DI   -Č  ńụča -DI   -Č  tawụr bi -DʒI -n(I) sablja =GU ili  meč    ịak =(W)UttE
+\ge how    =contr Oroch     -adjr -ins Russian  -adjr -ins this    be -fut -3sg   sabre  =q  or.R sword.R what  =indef
+
+\tx tarrọːčịnni         urge  bišin.
+\mb tarrọːčịn -n(I)     urge  bi -RI -n(I)
+\ge dist.qual       -poss.3sg heavy be -pst -poss.3sg
+
+\ft How (does one say it) in Even, in Russian that would be a sabre or a sword, it was something heavy like that.
+\ph
+\ph I only hear tarrọːčin, but in June 2016 Rimma listened again and confirmed the 3sg.poss form
+\nt
+\ev Он-кана ороттич.. нючидыч тавар бидин "сабля-гу" или "меч", якут  таррочинни, ургэ бишин.
+\ru Как же по-эвенски, по-русски это будет "сабля", что ли, или "меч", что-то  такое тяжелое было.
+\ELANBegin 00:04:18.480
+\ELANEnd 00:04:26.272
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_053
+\ref
+\tx Ńan   mun        kọːšaŋawunda             bišin.
+\mb ńaːn mun        kọːsaŋa -WUn         =DE  bi -RI -n(I)
+\ge and    1pl.ex.obl big.knife   -poss.1pl.ex =ptl be -pst -poss.3sg
+\ft And we also had a koshanga.
+\nt
+\ev Нян мун кошаӈавун-да бишин.
+\ru И вот у нас тоже кошаӈа была.
+\ELANBegin 00:04:26.272
+\ELANEnd 00:04:29.609
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_054
+\ref
+\ft And did all have one of these?
+\nt
+\ev
+\ru И у всех было такое?
+\ELANBegin 00:04:29.609
+\ELANEnd 00:04:31.856
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_055
+\ref
+\tx Iŋe biweːtten,             iŋe,  baldụnni             biweːtten.
+\mb iŋe bi -WEːČ -R(E) -n(I)  iŋeń baldụn     -n(I)     bi -WEːČ -R(E) -n(I)
+\ge yes  be -gnr    -nonfut -3sg cold   all.the.time -poss.3sg be -gnr    -nonfut -3sg
+\ft Yes there was, yes, there was all the time.
+\nt
+\ev Иӈэ бивэттэн, иӈэ, балдуни бивэттэн.
+\ru Да, бывает, да, все время было.
+\ELANBegin 00:04:31.856
+\ELANEnd 00:04:35.103
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_056
+\ref
+\tx
+\ft Every man had one, yes?
+\nt
+\ev
+\ru У каждого мужчины, да?
+\ELANBegin 00:04:35.103
+\ELANEnd 00:04:36.451
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_057
+\ref
+\tx Iŋe, bišin            ereger...
+\mb iŋe  bi -RI -n(I)      ereger
+\ge yes   be -pst -poss.3sg always
+\ft Yes, there always was (one), in every family there was a koshanga.
+\nt
+\ev Иӈэ, бишин эрэгэр, в каждой семье было кошаӈа.
+\ru Да, было всегда, в каждой семье была кошаӈа.
+
+\ELANBegin 00:04:36.451
+\ELANEnd 00:04:41.622
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_058
+\nt
+\ft Аh.
+\ru
+\ELANBegin 00:04:41.622
+\ELANEnd 00:04:42.330
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_059
+\ref
+\tx
+\ft So every fire (household, probably) had one.
+\nt
+\ev АЛ:Каждому огню, у каждой огни как бы..
+\ru
+\ELANBegin 00:04:42.330
+\ELANEnd 00:04:47.500
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_060
+\ref
+\tx Čelelen             biweːtten              kọːšaŋa.
+\mb čele -(dU)LE -n(I)  bi -WEːČ -R(E) -n(I)  kọːsaŋa
+\ge all   -loc -poss.3sg be -gnr    -nonfut -3sg big.knife
+\ft Everywhere there were koshanga.
+\nt
+\ev Чэлэлэн бивэттэн кошаӈа
+\ru Везде  была кошаӈа.
+\ELANBegin 00:04:47.500
+\ELANEnd 00:04:50.132
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_061
+\ref
+\tx Uŋetende               biweːtten,             tiːtelke     ịakawụka,     gide.
+\mb uŋe     -tEn      =DE  bi -WEːČ -R(E) -n(I)  tiːtel  =kkE ịak -awụ =kkE gid   -E
+\ge this.one -poss.3pl =ptl be -gnr    -nonfut -3sg long.ago =ptl what  -emph  =ptl lance -ep
+\ft And they also had a whatchamacallit, in the past, what was it, a lance.
+\nt
+\ev Уӈэтэн-дэ бивэттэн, титэл-кэ якаву-ка - гида.
+\ru Еще у них такое было, в старину что же такое -- копье.
+
+\ELANBegin 00:04:54.448
+\ELANEnd 00:04:58.521
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_062
+\ref
+\tx Ečinke         ere  kọbalantakịda      ŋennoːttekke            ere.
+\mb erroːčin =kkE erek kọbalan -t(E)kI =DE  ŋen -WEːČ -R(E)   =kkE erek
+\ge prox.qual  =ptl prox bear      -all    =ptl go   -gnr    -nonfut =ptl prox
+\ft Like that they even went at bears, right (gestures holidng a lance).
+\nt
+\ev Эчин-кэ эрэ кобалантаки-да ӈэнноттэ-ккэ эрэ.
+\ru Так же вот на медведя тоже шли так.
+\ELANBegin 00:04:58.521
+\ELANEnd 00:05:01.660
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_063
+\ref
+\tx Egdʒen mọːla       ịlkan ečin      ere, ńụːčịdịčka     kopje,  tarrọːčịŋatan
+\mb egdʒen mọː -(dU)LE ịlkan erroːčin erek ńụča -DI   -Č  =kkE kop'e   tarrọːčịn -ŋ  -E-tEn
+\ge big     tree   -loc    true    prox.qual  prox Russian  -adjr -ins =ptl lance.R dist.qual       -aln -ep-poss.3pl
+
+\tx biweːtten.
+\mb bi -WEːČ -R(E) -n(I)
+\ge be -gnr    -nonfut -3sg
+
+\ft On a big stick exactly like this, in Russian (it's called) "kopje", right, they had (something) like that.
+\nt
+\ev Эгден мола илкан эчин эрэ, нючидич-ка "копье", таррочиӈатан бивэттэн.
+\ru На большой палке прямо вот так, по-русски же "копье" вот такое у них было.
+
+\ELANBegin 00:05:01.660
+\ELANEnd 00:05:10.544
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_064
+\ref
+\tx Meːrk... meːrker               ọːwaːtta.
+\mb meːn -L  meːn -L  -KEn     -L  ọː -WEːČ -R(E)
+\ge refl  -pl refl  -pl -dim.int -pl make  -gnr    -nonfut
+\ft They made (those) themselves.
+\nt
+\ev Мэркэр оватта.
+\ru Сами делали.
+\ELANBegin 00:05:10.544
+\ELANEnd 00:05:13.469
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_065
+\ref
+\tx Ńan   ulgimiddʒoːttem                        akantakị,    "iːnen    tarrọːččon          ọːwaːčinni?".
+\mb ńaːn ulgim -i      -D    -WEːČ -R(E) -m     akan   -t(E)kI hiː =nEn  tarrọːčịn -Con     ọː -WEːČ -R(E) -n(I)
+\ge and    ask   -ipf??? -prog -gnr    -nonfut -1sg father -all    2sg  =emph dist.qual       -acc.3sg make  -gnr    -nonfut -3sg
+\ft And I used to ask my father, "Do you make those?".
+\nt
+\ev Нян ульгимиддёттэм акантаки: "И-нэн таррочон овачинни?"
+\ru И я спрашивала отца смоего: "А ты-то такое делаешь?"
+
+\ELANBegin 00:05:13.469
+\ELANEnd 00:05:17.352
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_066
+\ref
+\tx "Iŋe", guːn, "bi  aːram            ọːdaji".
+\mb iŋe    goːn  biː haː -R(E) -m     ọː -DE       -J
+\ge yes     say    1sg  know -nonfut -1sg make  -purp.cvb -prfl.sg
+\ft "Yes," he said "I know how to make (those)".
+\nt
+\ev "Иӈэ," - гун, - "би арам одайи"
+\ru "Да," - говорит, - "я умею делать."
+\ELANBegin 00:05:17.352
+\ELANEnd 00:05:20.021
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_067
+\ref
+\tx
+\ft Do/did you have one of those?
+\nt
+\ev АЛ: Инду бивэттэ тара?
+\ru Тебе бывало такое?
+\ELANBegin 00:05:21.250
+\ELANEnd 00:05:23.183
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_068
+\ref
+\tx Mundule?           Eč      biše,      tarma akmụ           goːweːtten               "Iŋe, aːram
+\mb mun        -(dU)LE e   -RI  bi -R       tarma akan   -W        goːn -WEːČ -R(E) -n(I)  iŋe   haː -R(E) -m
+\ge 1pl.ex.obl -loc    neg -pst be -neg.cvb but   father -poss.1sg say   -gnr    -nonfut -3sg yes    know -nonfut -1sg
+
+\tx tarrọːččonda,            ọːmču".
+\mb tarrọːčịn -Con     =DE  ọː -mč(I) -W
+\ge dist.qual       -acc.3sg =ptl make  -sbjv   -poss.1sg
+
+\ft We? We didn't have one, but my father said "Yes, I also know (how to make) that, I should make (one)".
+\ph
+\nt The original transcription doesn't have the question in the beginning, but the intonation is clear, and there's a pause after mundule
+\ev Мундулэ эч бишэ. Тарма акму говэттэн : "Иӈэ, арам таррочон-да, омчу."
+\ru У нас не было. Но отец говорил: "Да, знаю такое тоже, сделал бы."
+
+\ELANBegin 00:05:23.183
+\ELANEnd 00:05:29.463
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_069
+\ref
+\tx Bikke     giekiw         čukimiddʒoːttem,                          erekem učulloːtte.
+\mb biː =kkE gịakị -W   čuk -E  -m    -E-D     -WEːČ -R(E) -m     erekem učul         -WEːČ -R(E)
+\ge 1sg  =ptl various   -acc dig  -ep -mult -ep-prog -gnr    -nonfut -1sg ptl    become.fed.up -gnr    -nonfut
+
+\ft I was always asking and asking, right, they got tired (of me).
+\ph
+\gr čukimi = derived from čuk 'dig' but means "vysprashyvatj", it doesn't mean "vykovyrjat" a splinter or anything like that, only
+questioning; erekem = azh, yet another particle
+\nt
+\ev Би-ккэ гекив чукимиддёттэм, элэкэм учуллоттэ.
+\ru Я же все выспрашивала, аж надоедало им.
+\ELANBegin 00:05:29.463
+\ELANEnd 00:05:35.014
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_070
+\ref
+\tx
+\ft Do the people in the herd have those?
+\nt
+\ev АЛ: Ордула бивэттэ бэйлэ таррочин?
+\ru В табуне бывает у людей такое?
+\ELANBegin 00:05:35.014
+\ELANEnd 00:05:39.852
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_071
+\ref
+\tx Tiːkke?  Tiːkkel    ešni          ịaw,     ịaldiwŋatan.
+\mb tiek =kkE tiek =gEl   e -R(E) -n(I)  ịak -W   ịa    -ldIwUn -GE    -tEn
+\ge now  =ptl now  =coord neg -nfut -3sg what  -acc do.what -nr     -desig -poss.3pl
+\ft Now? Now they don't have them, what would they do with them?
+\ph
+\gr ialdiwŋatan = chto im delatj etim; ialdiwuntan = e.g. the microphone "ialdiwuntan erek" v lesu; and also confirmed that ialdiwŋatan
+= dlja nix, i.e. with desig
+\gr iaw = not really correct, she should have said iadu, "what for", zachem, chto im s nim delatj
+\nt
+\ev Тик-кэ? Тик-кэл эшни яв,  ялдивӈатан.
+\ru Сейчас же? Сейчас-то нет, что им делать этим?
+
+\ELANBegin 00:05:39.852
+\ELANEnd 00:05:43.249
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_072
+\ref
+\tx Tiːtelke     biweːtten,             muzejladakka               binni,          biš...,   ittiš?
+\mb tiːtel  =kkE bi -WEːČ -R(E) -n(I)  muzej    -(dU)LE =DE  =kkE bi -R(E) -n(I)  bi -R(E)   it  -RI  -s(I)
+\ge long.ago =ptl be -gnr    -nonfut -3sg museum.R -loc    =ptl =ptl be -nonfut -3sg be -nonfut see -pst -poss.2sg
+\ft In the past those were (people had those), in the museum there are some, did you see?
+\ph
+\ph confirmed with Rimma in June 2016 that she says "biš" in between binni and ittiš
+\nt
+\ev Титэл-кэ бивэттэн, музейла-да-кка бинни, иттиш?
+\ru Раньше, в старину же было, в музее же есть, видела?
+
+\ELANBegin 00:05:43.249
+\ELANEnd 00:05:48.107
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_073
+\ref
+\tx Nu,    tarrọːčịnni         gid.
+\mb nu     tarrọːčịn -n(I)     gid
+\ge well.R dist.qual       -poss.3sg lance
+\ft Well, a lance like that.
+\nt
+\ev Ну, таррочинни гид.
+\ru Ну, такое копье.
+\ELANBegin 00:05:48.107
+\ELANEnd 00:05:51.036
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_074
+\ref
+\tx
+\ft So in the herd there aren't any of these?
+\nt
+\ev АЛ: А так ордула ачча орон, нету таких?
+\ru А так в табуне нету, нету таких?
+\ELANBegin 00:05:51.036
+\ELANEnd 00:05:55.683
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_075
+\ref
+\tx Tiːkkel    ačča, tiːkbedʒi  ọrdụla                ọrọttịdawurdatit           aːnda     ešten
+\mb tiek =gEl   ačča  tiek =bEdʒI ọrọn          -(dU)LE ọrọč -DI   =dEwUl =DE  =tIt haːn =DE  e   -R(E)
+\ge now  =coord neg     now  =emph   domestic.reindeer -loc    Oroch     -adjr =disj  =ptl =ptl some  =ptl neg -nonfut
+
+\tx aːra.
+\mb haː -R
+\ge know -neg.cvb
+
+\ft Now there aren't (any), NOW in the herd some don't even know Even anymore!
+\ph
+\gr orroti-dawur-da-tit = po-evenski dazhe govoritj, ochenj usilenno, *orrottidatit = no; orottidawur = dazhe po-evenski,
+orottidawurdatit = even stronger expression; glossing dawur as =dEwUl is not correct, I think, 
+\nt
+\ev Тик-кэл ачча, тик-бэди ордула оротти-давыр-да ан-да эштэн ара.
+\ru Сейчас-то нету, уж сейчас-то в табуне даже по-эвенски говорить некоторые  не умеют.
+\ELANBegin 00:05:55.683
+\ELANEnd 00:06:02.298
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_076
+\nt
+\ft And your father, from whom did he receive his occup... how is it called, clan?
+\ev
+\ru 
+
+\ru А Ваш отец, от кого он получил свое заня.. это как называется, кланское?
+
+\ELANBegin 00:06:02.298
+\ELANEnd 00:06:11.183
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_077
+\ref
+\tx Iŋe, tiːtel  guːnni,    goːwette,            nọŋartan baldụnni             bišiten          tawačimŋal.
+\mb iŋe  tiːtel  goːn -n(I) goːn -WEːČ -R(E)   nọŋartan baldụn     -n(I)     bi -RI -tEn       tawači -mŋE -L
+\ge yes   long.ago say   -3sg  say   -gnr    -nonfut 3pl         all.the.time -poss.3sg be -pst -poss.3pl forge   -agnr -pl
+\ft Yes, in the past he says, they said, they were smiths all the time.
+\nt
+\ev Иӈэ, титэл гунни, говэттэ, ноӈартан балдунни бишитэн тавычимӈал.
+\ru Да, в старину говорит, говорили, они всегда были кузнецами.
+
+\ELANBegin 00:06:11.183
+\ELANEnd 00:06:16.933
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_078
+\nt
+\ft They were like a clan of smiths.
+\ev
+\ru Как род кузнецов у них был.
+\ELANBegin 00:06:16.933
+\ELANEnd 00:06:19.823
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_079
+\nt
+\ft And what is your word for "clan"?
+\ev
+\ru АЛ:  А как род у вас слово?
+\ELANBegin 00:06:19.823
+\ELANEnd 00:06:22.014
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_080
+\nt
+\ft Clan? don't know...
+\ev
+\ru Род?... не знаю
+\ELANBegin 00:06:22.014
+\ELANEnd 00:06:26.125
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_081
+\ref
+\tx Aːnị  goːweːtte,          mun        aːnịlbun,                 naš  rod.
+\mb aːnị  goːn -WEːČ -R(E)   mun        aːnị  -E-L   -WUn         naš  rod
+\ge relative say   -gnr    -nonfut 1pl.ex.obl relative -ep-pl -poss.1pl.ex our.R clan.R
+\ft They say "ani", our relatives, our clan.
+\nt
+\ev Ани говэттэ, мун анилбун -- наш род.
+\ru Называется "ани" -- "наш род"
+\ELANBegin 00:06:26.125
+\ELANEnd 00:06:30.587
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_082
+\nt
+\ft Ah, "our relatives"
+\ev АЛ: анилбун.
+\ru
+\ELANBegin 00:06:30.587
+\ELANEnd 00:06:31.433
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_083
+\ref
+\tx Iŋe aːnịlbun.
+\mb iŋe aːnị  -E-L   -WUn
+\ge yes  relative -ep-pl -poss.1pl.ex
+\ft Yes, our relatives.
+\nt
+\ev Иӈэ, анилбун.
+\ru Да, наш род.
+\ELANBegin 00:06:31.433
+\ELANEnd 00:06:33.948
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_084
+\nt
+\ft And his father...
+\ev
+\ru
+\ELANBegin 00:06:33.948
+\ELANEnd 00:06:37.007
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_085
+\ref
+\tx Iŋe, goːweːtte,          iŋe, baldụnni             nọŋartan uŋ       Solodikovamŋal      tarak nọŋartan
+\mb iŋe  goːn -WEːČ -R(E)   iŋe  baldụn     -n(I)     nọŋartan uŋ       Solodikova -mŋE -L  tarak nọŋartan
+\ge yes   say   -gnr    -nonfut yes   all.the.time -poss.3sg 3pl         something Solodikova -nr   -pl dist  3pl
+
+\tx uŋ       tawačimŋal      bišiten.
+\mb uŋ       tawači -mŋE -L  bi -RI -tEn
+\ge something forge   -agnr -pl be -pst -poss.3pl
+
+\ft Yes, they say that the Solodikovs were smiths all the time.
+\nt
+\ev Иӈэ, говэттэ, иӈэ, балдунни ноӈартан Солодиковамӈал тарак ноӈартан уӈ  тавычимӈал бишитэн
+\ru Да, говорят, да,  все время они Солодиковские, это они кузнецами были.
+
+\ELANBegin 00:06:37.007
+\ELANEnd 00:06:45.933
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_086
+\ref
+\tx Goːweːttekke             ọːn, ọrọčịl     turkuttiten.
+\mb goːn -WEːČ -R(E)   =kkE ọːn  ọrọč -E  -L  turku       -Č  -RI -tEn
+\ge say   -gnr    -nonfut =ptl how     Oroch     -ep -pl not.be.able -res -pst -poss.3pl
+\ft And they say, how, that Evens weren't able (to forge metal).
+\nt
+\ev Говэттэ-ккэ он, орочил туркуттитэн.
+\ru Говорили как, что эвены не умели.
+\ELANBegin 00:06:45.933
+\ELANEnd 00:06:50.080
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_087
+\ref
+\tx Baldụnni             akmụn             meːnken       giekič        aːwaj    bišin.
+\mb baldụn     -n(I)     akan   -WUn         meːn -KEn     gịakị -Č  haːwaj   bi -RI -n(I)
+\ge all.the.time -poss.3sg father -poss.1pl.ex refl  -dim.int various   -ins skillfull be -pst -poss.3sg
+\ft Our father was skillful in various ways (knew how to do different things) by himself, all the time.
+\nt
+\ev Балдунни акмун мэнкэн гекич авай бишин.
+\ru Всегда отец наш сам всякое умел делать.
+\ELANBegin 00:06:50.080
+\ELANEnd 00:06:54.838
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_088
+\ref
+\tx Uŋu           giekiw,        eludekke            ečin      ere  iekedekke      vedroda
+\mb uŋ       -W   gịakị -W   hel  -W   =DE  =kkE erroːčin erek ieke =DE  =kkE vedro    =DE
+\ge something -acc various   -acc iron -acc =ptl =ptl prox.qual  prox pot  =ptl =ptl bucket.R =ptl
+
+\tx kawarrakan,                        ejdu nọŋan uŋŋoːtten.
+\mb kawar      -REk -E-n(I)            ejdu nọŋan uŋ -WEːČ -R(E) -n(I)
+\ge break.intr -cond.cvb -ep -poss.3sg all  3sg      do  -gnr    -nonfut -3sg
+
+\ft Various things, iron like this, if a pot or a bucket broke, all of that he fixed.
+\nt
+\ev Уӈу, гекив, элу-дэ-ккэ эчин эрэ ека-да-кка,  ведро-да кавырракан, эйду  ноӈан уӈӈоттэн.
+\ru Что, всякое, железное вот так, кастрюли, ведра поломаются, все он сам  делал.
+\ELANBegin 00:06:54.838
+\ELANEnd 00:07:02.580
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_089
+\ref
+\tx Ečin      ere  zakljopki delal    giekič        meːnken.
+\mb erroːčin erek zaklepki  delal    gịakị -Č  meːn -KEn
+\ge prox.qual  prox patches.R made.m.R various   -ins refl  -dim.int
+\ft He made various patches like this by himself.
+\ph
+\nt
+\ev Эчин эрэ заклепки делал гекич мэнкэн.
+\ru Вот так заклепкт делал всякие сам.
+\ELANBegin 00:07:02.580
+\ELANEnd 00:07:06.323
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_090
+\ref
+\ft Did he make things for shamans?
+\nt
+\ev АЛ: аман, амантаки делал? для шамана всякие или нет?
+\ru
+\ELANBegin 00:07:06.323
+\ELANEnd 00:07:11.830
+\ELANParticipant AL
+
+\id Egorova_RM_father_farrier_091
+\ref
+\tx Ešni,         ečil,       nọŋangelbedʒi       komunist    bišin!
+\mb e -R(E) -n(I)  e   -RI  -L  nọŋan =gEl   =bEdʒI komunist    bi -RI -n(I)
+\ge neg -nfut -3sg neg -pst -pl 3sg      =coord =emph   communist.R be -pst -poss.3sg
+\ft No, he didn't, he was a communist after all!
+\ph
+\gr ečil = ne delali; should have said eči; noŋangelbeʤi = on zhe vedj
+\nt although her father was a communist, he also seems to have been a bit of a shaman, at least from what she goes on to tell here, changing
+the weather
+\qu
+\ev Эшни, эчил ноӈан-гэл-бэди комунист бишин!
+\ru Нет, не делали, он же ведь коммунист был!
+\ELANBegin 00:07:11.830
+\ELANEnd 00:07:15.984
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_092
+\ref
+\tx Teːmi    nọŋan ešni          uŋŋoːtte.
+\mb teːmi    nọŋan e -R(E) -n(I)  uŋ -WEːČ -R
+\ge therefore 3sg      neg -nfut -3sg do  -gnr    -neg.cvb
+\ft That's why he didn't (make things for shamans).
+\nt
+\ev Тэми ноӈан эшни уӈӈоттэ
+\ru Поэтому он не делал.
+\ELANBegin 00:07:15.984
+\ELANEnd 00:07:18.778
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_093
+\ref
+\tx Tarma nọŋantitta      tarak uŋ       aːwaj    bišin            giekiw,        ọːnkana,   pogodaw
+\mb tarma nọŋan =tIt =DE  tarak uŋ       haːwaj   bi -RI -n(I)      gịakị -W   ọːn =kEnE  pogoda    -W
+\ge but   3sg      =ptl =ptl dist  something skillfull be -pst -poss.3sg various   -acc how    =contr weather.R -acc
+
+\tx nekkoːtten              nọŋan meːnken.
+\mb nek -WEːČ -R(E) -n(I)  nọŋan meːn -KEn
+\ge do  -gnr    -nonfut -3sg 3sg      refl  -dim.int
+
+\ft But he did know very many things, he made weather himself.
+\ph
+\gr noŋantitta = v to zhe vremja on....
+\nt
+\ev Тарма ноӈан-титта тарак уӈ авай бишин гекив, онкана, погодав нэккоттэн  ноӈан мэнкэн.
+\ru Но он все-таки это умел разное, как же, погоду делал он сам.
+
+\ELANBegin 00:07:18.778
+\ELANEnd 00:07:31.905
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_094
+\ref
+\tx Nọŋanaši       dengaw       tiːtel  mụranačta         ŋịnačta         emuweːtten,
+\mb nọŋan -E  =sI   denga   -W   tiːtel  mụran -E-Č   =DE  ŋịn -E-Č   =DE  em -U      -WEːČ -R(E) -n(I)
+\ge 3sg      -ep =emph money.R -acc long.ago horse   -ep-ins =ptl dog    -ep-ins =ptl come -caus -gnr    -nonfut -3sg
+
+\tx gadʒịwaːttan                  dengaw       bankatki.
+\mb ga   -nE     -WEːČ -R(E) -n(I)  denga   -W   bank   -E  -t(E)kI
+\ge take -intent -gnr    -nonfut -3sg money.R -acc bank.R -ep -all
+
+\ft He used to bring money by horse and by dogsled in the past, right, he went to the bank to fetch money.
+\ph
+\gr I have now glossed the -ʤi in gaʤi as the associated motion suffix, since I do think that's what it is from the meaning, and since the
+suffix has other lexeme-specific allomorphs
+\nt
+\ev Ноӈанаши деньгав титэл муранач-та ӈинач-та эмувэттэн, гадиваттан деньгав  банкатки.
+\ru Он же деньги раньше на лошадях и на собаках привозил, ездил за деньгами в  банк.
+\ELANBegin 00:07:31.905
+\ELANEnd 00:07:42.324
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_095
+\ref
+\tx Ńanaši     uŋe,         goːweːtte           "Tịmịna urdʒinni      Essotki",        emmoːtten
+\mb ńaːn =sI   uŋ       -E  goːn -WEːČ -R(E)   tịmịna  hor -DʒI -nrI Essọː -t(E)kI em   -WEːČ -R(E) -n(I)
+\ge and    =emph something -ep say   -gnr    -nonfut tomorrow    go  -fut  -2sg Esso     -all    come -gnr    -nonfut -3sg
+
+\tx ŋiːde    kontorgič.
+\mb ŋiː =DE  kọntọra -GIČ
+\ge who   =ptl office.R    -elat
+
+\ft And they used to say "Tomorrow you will go to Esso", someone would come from the administration office.
+\nt
+\ev Нянаши уӈ говэттэ: "Тимина урдинни Эссотки" - эммоттэн ӈи-дэ конторгич.
+\ru И вот говорят: "Завтра поедешь в Эссо" -- приходит кто-нибудь из конторы.
+
+\ELANBegin 00:07:42.324
+\ELANEnd 00:07:50.320
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_096
+\ref
+\tx Ńan   nọŋan kimedʒilloːtten.
+\mb ńaːn nọŋan kim     -E  -D    -E-L     -WEːČ -R(E) -n(I)
+\ge and    3sg      prepare -ep -prog -ep-inch -gnr    -nonfut -3sg
+\ft And he would start to prepare.
+\nt
+\ev Нян ноӈан кимэдиллоттан
+\ru И он начинает готовиться.
+\ELANBegin 00:07:50.320
+\ELANEnd 00:07:52.234
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_097
+\ref
+\tx Keńelide    unšani    bišeken               nọŋan uŋŋoːtten...
+\mb keńeli =DE  unsani     bi -REk      -n(I)     nọŋan uŋ -WEːČ -R(E) -n(I)
+\ge bad     =ptl loose.snow be -cond.cvb -poss.3sg 3sg      do  -gnr    -nonfut -3sg
+
+\ft When it was bad weather, loose snow, he used to do...
+\ph
+\gr unšani = ryxlyj sneg
+\nt
+\ev Кэнели-дэ уншаны бишэкэн ноӈан уӈӈоттан, 
+\ru Если плохая, мокрая погода была, он делал, 
+\ELANBegin 00:07:52.234
+\ELANEnd 00:07:57.700
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_098
+\ref
+\tx Ịmanna bišeken               goːweːtten               "Tịmịna aj   ọːdan",                 tọːbaru
+\mb ịmanra bi -REk      -n(I)     goːn -WEːČ -R(E) -n(I)  tịmịna  aj   ọː  -DE       -n(I)     tọːbar -W
+\ge snow     be -cond.cvb -poss.3sg say   -gnr    -nonfut -3sg tomorrow    good become -purp.cvb -poss.3sg axe.R     -acc
+
+\tx ukelgiččoːtten             tọγla,     ńanaši     uŋne             ịalada,          ịmannaladawul
+\mb ukelgič -WEːČ -R(E) -n(I)  tọg -(dU)LE ńaːn =sI   uŋ       -(dU)LE ịak -(dU)LE =DE  ịmanra -(dU)LE =dEwUl
+\ge heat.up  -gnr    -nonfut -3sg fire  -loc    and    =emph something -loc    what  -loc    =ptl snow     -loc    =disj
+
+\tx ečin      nekešn...,    neːweːtten.
+\mb erroːčin nek -E  -s(E)n neː -WEːČ -R(E) -n(I)
+\ge prox.qual  do  -ep -lim   put  -gnr    -nonfut -3sg
+
+\ft If there was snow, he would say "let it be good (weather) tomorrow", he would heat up the axe in the fire and then do quickly like this...
+would put it in the snow.
+\ph
+\gr ukelgiččoːtten = nagreval; ukelloːtten = intrans, kubek ukelloːtten chajnik nagrevaetsja; kubeku ukelgičiddem = ja greju chajnik; the
+-gič- clearly has a transitivizing function here, but since we don't have any other verbs with this ending, I'm going to enter it as a
+separate lexeme;;; imannaladawul = v sneg, "ili mozhet v sneg lozhil", I think here the particle has indeed a disjunctive meaning --
+"uŋne ịalada imannaladawul" = kuda-nibudj ili v sneg
+\nt
+\ev иманна бишэкэн говэттэн: "Тимина  ай одан", тобару укэльгиччоттэн тогла Нянаши уӈнэ яла-да иманнала-давал эчин нэкэшноттэн,
+нэвэттэн
+\ru когда снег был, говорил:  "Завтра чтобы стало хорошо", топор нагревал на огне. И вот на нем, где-нибудь на снег вот так сделает
+быстренько, положит.
+
+\ELANBegin 00:07:57.700
+\ELANEnd 00:08:08.754
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_099
+\ref
+\tx Ńan   utrom            badʒịkarịː  uže      uŋe          iŋeń, iŋeń biweːtten,             ịkụtịč
+\mb ńaːn utrom            badʒịkar =Iː  uže      uŋ       -E  iŋeń  iŋeń bi -WEːČ -R(E) -n(I)  ịkụt -E-Č
+\ge and    in.the.morning.R morning     =emph already.R something -ep cold    cold   be -gnr    -nonfut -3sg straight -ep-ins
+
+\tx ịalta    ọːwaːttan.
+\mb hịaːlta ọː  -WEːČ -R(E) -n(I)
+\ge frost      become -gnr    -nonfut -3sg
+
+\ft And in the morning it is already cold, it becomes very frosty (very cold).
+\nt
+\ev Нян утром бадикарыы уже уӈ иӈэнь, иӈэнь бывает икутич ялта оваттан.
+\ru И вот утром, утром уже холодно, холодно бывает, морозно очень становится.
+
+\ELANBegin 00:08:08.754
+\ELANEnd 00:08:17.390
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_100
+\ref
+\tx Guːnem            "Ịadụ  nekenni?".
+\mb goːn -R(E) -m     ịak -DU  nek -R(E)   -nrI
+\ge say   -nonfut -1sg what  -dat do  -nonfut -2sg
+\ft I say "What do you do that for?".
+\nt
+\ev Гунэм: "Яду нэкэнни?"  
+\ru Говорю: "Зачем делаешь?" 
+\ELANBegin 00:08:17.390
+\ELANEnd 00:08:19.570
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_100b
+\ref
+\tx Goːweːtten               "Ajịč     tịmịna tụrkịdadaji,                 uŋ       beteken
+\mb goːn -WEːČ -R(E) -n(I)  aj   -E-Č   tịmịna tụrkị -DE -DE       -J       uŋ       beteken
+\ge say   -gnr    -nonfut -3sg good -ep-ins tomorrow   sled      -vr -purp.cvb -prfl.sg something packed.snow
+
+\tx biden".
+\mb bi -DE       -n(I)
+\ge be -purp.cvb -poss.3sg
+
+\ft He would say "In order to ride well tomorrow, so that there will be packed snow".
+\ph
+\ev Говэттэн: "Аич тимина туркидадайи, уӈ бэтэкэн  бидэн."
+\ru Говорит: "Хорошо чтобы завтра ехать, что снег  твердый был."
+\ELANBegin 00:08:19.570
+\ELANEnd 00:08:27.480
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_101
+\ref
+\tx Ńanaši     omnekeneši              Twajandu      nọŋan, ajeː      umekič ńaːnịn bišin,
+\mb ńaːn =sI   omen -REkEn    -E  =sI   Twajaːn -DU  nọŋan  aj   =eː  umekič nịanịn bi -RI -n(I)
+\ge and    =emph one  -iter.adv -ep =emph Twajaːn -dat 3sg       good =emph very    sky        be -pst -poss.3sg
+
+\tx baji.
+\mb baj
+\ge good.weather
+
+\ft And then once in Twajan he... it was very good weather, clear.
+\nt
+\ev Нянаши омнэкэнэши Тваянду ноӈан, айее умэкич нянин бишин, байи.
+\ru И вот однажды в Тваяне он, хорошая, очень хорошая погода была, ясная.
+
+\ELANBegin 00:08:27.480
+\ELANEnd 00:08:36.950
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_102
+\ref
+\tx Ńanaši     ŋiːwutteši        emnin.
+\mb ńaːn =sI   ŋiː =(W)UttE =sI   em   -RI -n(I)
+\ge and    =emph who   =indef   =emph come -pst -poss.3sg
+\ft And somebody came.
+\nt
+\ev Нянаши ӈивутташи эмнин.
+\ru И вот кто-то пришел.
+\ELANBegin 00:08:36.950
+\ELANEnd 00:08:39.620
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_103
+\ref
+\tx Bejeleši     ụdantan            biweːtten              uŋne,            aŋịdala.
+\mb bej -L  =sI   ụdan     -tEn      bi -WEːČ -R(E) -n(I)  uŋ       -(dU)LE aŋịda   -(dU)LE
+\ge man -pl =emph storehouse -poss.3pl be -gnr    -nonfut -3sg something -loc    other.side -loc
+\ft The men's storehouse is elsewhere, at the side.
+\ph
+\nt
+\ev Бэйилэши удантан бивэттэн уӈ аӈидала.
+\ru У мужчин бывает балаган в стороне.
+\ELANBegin 00:08:39.620
+\ELANEnd 00:08:45.100
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_104
+\ref
+\tx Tam     gieki     bej nụktalni            biweːtten,             ụdandụla.
+\mb tam     gịakị bej nụkta -L  -n(I)     bi -WEːČ -R(E) -n(I)  ụdan     -(dU)LE
+\ge there.R various   man things  -pl -poss.3sg be -gnr    -nonfut -3sg storehouse -loc
+\ft There various men's things are, in the storehouse.
+\nt
+\ev Там геки бэй нуктални бивэттэн удандула.
+\ru Там всяки мужские вещи бывают в балагане.
+\ELANBegin 00:08:45.100
+\ELANEnd 00:08:50.210
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_105
+\ref
+\tx Pukterewenni,          kapkarni,            čeledʒi          tala  neːkčiweːtte               tačịn        bejel
+\mb pektereːwun -n(I)     kapkan -L  -n(I)     čele -DʒI        talal neː -(k)čI -WEːČ  -R(E)   tarrọːčịn bej -E-L
+\ge gun          -poss.3sg trap.R -pl -poss.3sg all   -ins.prfl.sg shine put  -dur    -gnr     -nonfut dist.qual       man -ep-pl
+
+\tx baldụnni.
+\mb baldụn     -n(I)
+\ge all.the.time -poss.3sg
+
+\ft His gun, his traps, all of that the men keep there like that, always.
+\nt
+\ev Пуктэрэвэнни, капкарни, челэди тала нэкчивэттэ тачин бэйил балдунни.
+\ru Ружье, капканы, все там держат так мужчины все время.
+
+\ELANBegin 00:08:50.210
+\ELANEnd 00:08:56.100
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_106
+\ref
+\tx Ńanaši     ŋiːwutte     emnin,              guːninkene                 "Tara Raja          akanni".
+\mb ńaːn =sI   ŋiː =(W)UttE em   -RI -n(I)      goːn -RI -n(I)      =kEnE  tarak Raja          akan   -n(I)
+\ge and    =emph who   =indef   come -pst -poss.3sg say   -pst -poss.3sg =contr dist  Raisa.hypocor father -poss.3sg
+\ft And then someone came and said "There's Raja's father".
+\nt
+\ev Нянаши ӈивуттэ эмнин, гуннин-кэнэ: "Тар Рая аканни."
+\ru И вот кто-то пришел и сказал: "Там, Раин отец."
+
+\ELANBegin 00:08:56.100
+\ELANEnd 00:09:00.635
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_107
+\ref
+\tx Ịamịwut       tiːtel  goːweːtteši              "Raja         akanni"          ili  "Petja       akanni".
+\mb ịamị =(W)UttE tiːtel  goːn -WEːČ -R(E)   =sI   Raja          akan   -n(I)     ili  Petja        akan   -n(I)
+\ge why      =indef   long.ago say   -gnr    -nonfut =emph Raisa.hypocor father -poss.3sg or.R Petr.hypocor father -poss.3sg
+\ft For some reason they used to say in the past "Raja's father" or "Petja's father".
+\nt
+\ev Ямивут титэл говэттэши "Рая аканни" или "Петя аканни".
+\ru Почему-то раньше говорили "Раин отец" или "Петин отец"
+
+\ELANBegin 00:09:00.635
+\ELANEnd 00:09:07.058
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_108
+\ref
+\tx Ọːnka    dʒulle       kto   binni           kụŋaŋaš           staršij, ńan   nọŋman tačịnda
+\mb ọːn =kkE dʒul -(dU)LE kto   bi -R(E) -n(I)  kụŋa -ŋ  -s(I)     staršij  ńaːn nọŋman tarrọːčịn =DE
+\ge how    =ptl front -loc    who.R be -nonfut -3sg child   -aln -poss.2sg oldest.R  and    3sg.acc   dist.qual       =ptl
+
+\tx goːweːtte.
+\mb goːn -WEːČ -R(E)
+\ge say   -gnr    -nonfut
+
+\ft How the first... who your oldest child is, and about him they say like that.
+\ph
+\gr ʤulle = vperedi; elekes = pervyj raz; pervyj = ʤuleγ, so ʤulle isn't quite correct here, should have been ʤuleγ
+\nt
+\ev он-ка дюллэ кто бинни куӈанаш старший, нян ноӈман тачин-да говэттэ.
+\ru Если у тебя кто первый ребенок старший, по нему так и говорят.
+
+\ELANBegin 00:09:07.075
+\ELANEnd 00:09:15.265
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_109
+\ref
+\tx Raja          munŋi                uŋ       aγdịŋun...            aγdịγun.
+\mb Raja          mun        -ŋI       uŋ       hagdị -ŋ  -WUn         hagdị -g   -WUn
+\ge Raisa.hypocor 1pl.ex.obl -pred.poss something old     -aln -poss.1pl.ex old     -adj -poss.1pl.ex
+\ft Raja is our oldest.
+\ph
+\nt адиӈун -- неправильная форма
+\ev Рая мунӈи уӈ адиӈун..  адиун.
+\ru Рая у нас старшая.
+\ELANBegin 00:09:15.265
+\ELANEnd 00:09:18.733
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_110
+\ref
+\tx Ńan   goːweːtte,          ekmun               goːweːtte           Raja          ekenni,
+\mb ńaːn goːn -WEːČ -R(E)   eken   -WUn         goːn -WEːČ -R(E)   Raja          eken   -n(I)
+\ge and    say   -gnr    -nonfut mother -poss.1pl.ex say   -gnr    -nonfut Raisa.hypocor mother -poss.3sg
+
+\tx akmụnaši                   Raja          akanni.
+\mb akan   -WUn         -E  =sI   Raja          akan   -n(I)
+\ge father -poss.1pl.ex -ep =emph Raisa.hypocor father -poss.3sg
+
+\ft And so they say, our mother they call "Raja's mother", and our father "Raja's father".
+\ph
+\ph the first "goːweːtte" is slurred a bit and so sounds like gowede, as transcribed by Natasha and Rimma in 2011
+\gr ekmun = nom + acc, same with akmun
+\nt this way of referring to people by the name of their first child was also used for address, e.g. "Raja akanni edu tegli"
+\nt
+\ev Нян говэдэ, экмун говэттэ, Рая экэнни, акмунаши - Рая аканни.
+\ru И говорят, маму нашу называют Раина мать, а отца же - Раин отец.
+
+\ELANBegin 00:09:18.733
+\ELANEnd 00:09:24.150
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_111
+\ref
+\tx Ńanaši     guːnni     "Raja         akanni           tar  ụdandụlan             čajčịbal
+\mb ńaːn =sI   goːn -n(I) Raja          akan   -n(I)     tar  ụdan     -(dU)LE -n(I)  čajčaba               -L
+\ge and    =emph say   -3sg  Raisa.hypocor father -poss.3sg thus storehouse -loc -poss.3sg reindeer.herding.Koryak -pl
+
+\tx kụŋaŋaltan             nụŋnịdde".
+\mb kụŋa -ŋ  -L  -tEn      nụŋrị    -D    -R(E)
+\ge child   -aln -pl -poss.3pl search.around -prog -nonfut
+
+\ft And he said "In the storehouse of Raja's father the Koryak children are poking around".
+\ph
+\nt чайчиба - коряк; at that time there were about 20 Koryaks in the village
+\ev Нянаши гунни: "Рая аканни тар удандулан, чайчибал куӈаӈалтан нуӈниддэ."
+\ru И вот говорит: "У Раиного отца в балагане, дети коряков лазиют."
+
+\ELANBegin 00:09:24.150
+\ELANEnd 00:09:31.867
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_112
+\ref
+\tx Ńan   guːniten            "Pukterewmende                   ururiten".
+\mb ńaːn goːn -RI -tEn       pektereːwun -W   -n(I)     =DE  hor -U    -RI -tEn
+\ge and    say   -pst -poss.3pl gun          -acc -poss.3sg =ptl go  -caus -pst -poss.3pl
+\ft And they said "And they took away his gun".
+\nt
+\ev Нян гунитэн: "Пуктэрэвмэн-дэ уруритэн."
+\ru И вот сказали: "И ружье его унесли."
+\ELANBegin 00:09:31.867
+\ELANEnd 00:09:36.424
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_113
+\ref
+\tx Ńanaši     akmụ           uŋ uŋe    uremelčirin               čajčịbaltakị,
+\mb ńaːn =sI   akan   -W        uŋ uŋ -E  hor -mElčI -RI -n(I)      čajčaba               -L  -t(E)kI
+\ge and    =emph father -poss.1sg do  do  -ep go  -acclr  -pst -poss.3sg reindeer.herding.Koryak -pl -all
+
+\tx ŋieγdalawun                          bišiten.
+\mb ŋịa -g   -gIdE -(dU)LE -WUn         bi -RI -tEn
+\ge bottom -adj -part -loc    -poss.1pl.ex be -pst -poss.3pl
+
+\ft And my father quickly went to the Koryaks, they lived beneath us (lower down).
+\ph
+\nt the Koryaks lived lower downriver
+\nt
+\ev Нянаши акму ун уӈ урэмэлчирин чайчибалтаки, ӈедалавун биситэн.
+\ru И вот отец юыстренько пошел к корякам, они ниже нас жили.
+
+\ELANBegin 00:09:36.424
+\ELANEnd 00:09:42.716
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_114
+\ref
+\tx Ńan   biːde    bọddiwu.
+\mb ńaːn biː =DE  bọd     -RI -W
+\ge and    1sg  =ptl accompany -pst -poss.1sg
+\ft And I also went with him.
+\nt
+\ev Нян би-дэ боддиву.
+\ru И я тоже следовала за ним.
+\ELANBegin 00:09:42.716
+\ELANEnd 00:09:44.973
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_115
+\ref
+\tx Ńanaši     guːnni     "Ile?",       guːnni     "Ačča, urriten".
+\mb ńaːn =sI   goːn -n(I) irek  -(dU)LE goːn -n(I) ačča   hor -RI -tEn
+\ge and    =emph say   -3sg  which -loc    say   -3sg  neg      go  -pst -poss.3pl
+\ft And he said "Where?" and (someone) said "They're gone, they left".
+\nt
+\ev Нянаши гунни: "Илэ?" гунни: "Ачча, урритэн."
+\ru И вот он спрашивает: "Где?" говорит: "Нету, ушли."
+
+\ELANBegin 00:09:44.973
+\ELANEnd 00:09:48.920
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_116
+\ref
+\tx Ńanaši     akmụ           ńọːŋčịrin             dʒuldeduwu,               jurtawun            bišin.
+\mb ńaːn =sI   akan   -W        ńọːŋčị -RI -n(I)      dʒul -gIdE -DU  -W        jurta  -WUn         bi -RI -n(I)
+\ge and    =emph father -poss.1sg run            -pst -poss.3sg front -part -dat -poss.1sg yurt.R -poss.1pl.ex be -pst -poss.3sg
+\ft And my father ran ahead of me, we had a yurt.
+\ph
+\nt the family had a house and a yurt in the yard, and in summer they slept in the yurt
+\nt
+\ev Нянаши акму нёӈчирин дюлдэдуву. Юртавун бишин.
+\ru И вот отец быстро бежал впереди меня.  У нас была юрта.
+
+\ELANBegin 00:09:48.920
+\ELANEnd 00:09:54.468
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_117
+\ref
+\tx Ńan   durumelčirin                     tọγu.
+\mb ńaːn dur  -U    -mElčI -RI -n(I)      tọg -W
+\ge and    burn -caus -acclr  -pst -poss.3sg fire  -acc
+\ft And he quickly lit a fire.
+\nt
+\ev Нян дурумэлчирин тогу.
+\ru И он быстро развел огонь
+\ELANBegin 00:09:54.468
+\ELANEnd 00:09:56.610
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_118
+\ref
+\tx Ńan   tala  uŋu           ịnŋatu,    mụnnụkan ịnŋatton       neːdin.
+\mb ńaːn talal uŋ       -W   ịnŋat -W   mụnrụkan ịnŋat -Con     neː -RI -n(I)
+\ge and    shine something -acc fur      -acc hare         fur      -acc.3sg put  -pst -poss.3sg
+\ft And there he put fur, rabbit fur.
+\nt
+\ev Нян тала уӈу инӈэту, муннукан инӈэттон нэдин.
+\ru И вот туда шерсть, заячью шерсть положил.
+\ELANBegin 00:09:56.610
+\ELANEnd 00:10:01.601
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_119
+\ref
+\tx Biši      ulgimiweːttem                     ańčịndulin,                "Ịadụ  tačịmụr    nekenni?".
+\mb biː =sI   ulgim -i      -WEːČ -R(E) -m     ańčịn    -(dU)LI -n(I)     ịak -DU  tarrọːčịn nek -R(E)   -nrI
+\ge 1sg  =emph ask   -ipf??? -gnr    -nonfut -1sg space.beside -prol   -poss.3sg what  -dat dist.qual       do  -nonfut -2sg
+\ft And I ask next to him "What are you doing that for?".
+\nt
+\ev Биши улгимивэттэм анчиндун: "Яду тачимур нэкэнни?"
+\ru А я спрашиваю рядом с ним: "Зачем так делаешь?"
+
+\ELANBegin 00:10:01.601
+\ELANEnd 00:10:05.557
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_120
+\ref
+\tx Ńan   nọŋan guːnin              "Edeten                 ọkaːtu     dawra".
+\mb ńaːn nọŋan goːn -RI -n(I)      e   -DE       -tEn      ọkaːt -W   daw         -R
+\ge and    3sg      say   -pst -poss.3sg neg -purp.cvb -poss.3pl river    -acc cross.river -neg.cvb
+\ft And he said "So that they don't cross the river".
+\nt
+\ev Нян ноӈан гунин: "Эдэтэн окату-давры."
+\ru И он говорит: "Чтобы они не перешли речку."
+\ELANBegin 00:10:05.557
+\ELANEnd 00:10:09.468
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_121
+\ref
+\tx Ńan   biː mergečiddem                   "Ọːnnan?".
+\mb ńaːn biː mergeːt -E-D     -R(E) -m     ọːn =nEn
+\ge and    1sg  think    -ep-prog -nonfut -1sg how    =emph
+\ft And I think "How is that?".
+\nt
+\ev Нян би мергэчиддэм: "Он-нан?"
+\ru И я думаю: "Как же?"
+\ELANBegin 00:10:09.468
+\ELANEnd 00:10:13.079
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_122
+\ref
+\tx I     ọːnkana,   ịadụ   tọγ, ew  eduk         ịadʒịnda            tọγduk?
+\mb i     ọːn =kEnE  ịak -DU  tọg   ew  erek -DUk(U) ịa    -DʒI -n(I) =DE  tọg -DUk(U)
+\ge and.R how    =contr what  -dat fire    ptl prox -abl    do.what -fut -3sg   =ptl fire  -abl
+\ft And how is it, what is the fire for, how can anything come from this, from the fire?
+\nt
+\ev И он-кана, яду тог? Эв эдук ядин-да тогдук?
+\ru И как же, зачем огонь? Что от этого что-то будет от огня-то?
+
+\ELANBegin 00:10:13.079
+\ELANEnd 00:10:18.335
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_123
+\ref
+\tx Ńanaši     ekmu             emnin,              gurgeγidʒi,          iludilliwun                            ńan,
+\mb ńaːn =sI   eken   -W        em   -RI -n(I)      gurgeː -GIČ -J       hilu  -D    -E-L     -RI -WUn          ńaːn
+\ge and    =emph mother -poss.1sg come -pst -poss.3sg work    -elat -prfl.sg drink -prog -ep-inch -pst -poss.1pl.ex and
+
+\tx ujurin.
+\mb huj  -U    -RI -n(I)
+\ge boil -caus -pst -poss.3sg
+
+\ft And then my mother came from her work, and we drank tea, she boiled it.
+\ph
+\gr gurgeγič = s raboty, gurgeγiʤi = so svoej raboty
+\nt
+\ev Нянаши экму эмнин, гургэиди. Илудилливун нян, уюрин.
+\ru И мать моя пришла со своей работы. Стали чай пить, она вскипятила.
+
+\ELANBegin 00:10:18.335
+\ELANEnd 00:10:24.260
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_124
+\ref
+\tx Ńan   unde  iluddekun,                         aj   bičeeː         tar, ńulten bišin,           ịamị
+\mb ńaːn unde  hilu  -D    -REk      -WUn         aj   bi -čE    =eː  tar  ńulten bi -RI -n(I)      ịamị
+\ge and    while drink -prog -cond.cvb -poss.1pl.ex good be -pf.ptc =emph thus sun     be -pst -poss.3sg ptl
+
+\tx ụdaladdan.
+\mb ụdan -E-L     -E-D     -R(E) -n(I)
+\ge rain   -ep-inch -ep-prog -nonfut -3sg
+
+\ft And while we were drinking tea, it was very nice weather, there was sun, suddenly it started to rain.
+\ph
+\gr is udaladdan correct?  yes, this is correct; udaladdanaši = silno poshel dozhdj, a eto iami udaladdan = potixonku nachinaetsja dozhdj (though in the context of the story it
+can’t have been so potixonjku, because the river flooded and the gun thieves weren’t able to cross over…)
+\nt
+\ev Унда илуддэкун, ай бичэээ тар, нюлтэн бишин, ями удаладдан.
+\ru Пока чай пили, хорошая была погода, солнце было, смотрим - дождь пошел.
+
+\ELANBegin 00:10:24.260
+\ELANEnd 00:10:31.389
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_125
+\ref
+\tx Guːnem            "Ịakawụ  erek? Ịamị ụdnan!".
+\mb goːn -R(E) -m     ịak -awụ erek  ịamị ụdan -R(E) -n(I)
+\ge say   -nonfut -1sg what  -emph  prox  ptl      rain   -nonfut -3sg
+\ft I say "What on earth is this? It's raining!".
+\nt
+\ev Гунэм: "Якаву эрэк?" Ями уднан!
+\ru Говорю: "Что это?" Оказывается, дождь идет!
+\ELANBegin 00:10:31.397
+\ELANEnd 00:10:34.238
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_126
+\ref
+\tx Ńan   ekmuši                guːnni     "Tarka     tare,     uŋe,         uːrkke     uŋnišen,         teːmi
+\mb ńaːn eken   -W        =sI   goːn -n(I) tarak =kkE tarak -E  uŋ       -E  uːr   =kkE uŋ -RI  -sEn      teːmi
+\ge and    mother -poss.1sg =emph say   -3sg  dist  =ptl dist  -ep something -ep before =ptl do  -pst -poss.2pl therefore
+
+\tx tar".
+\mb tar
+\ge thus
+
+\ft And my mother says "Just now you(pl) did that, right, that's why (it's raining)".
+\nt
+\ev Нян экмуши гунни: "Тар-ка  тар уӈ ур-ккэ уӈнишэн, тэми тар."
+\ru И вот мать говорит: "Это же вот недвно же вы сделали, поэтому так"
+
+\ELANBegin 00:10:34.238
+\ELANEnd 00:10:41.636
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_127
+\ref
+\tx Ńanaši     entekejeịː    ụdan ọːdin!
+\mb ńaːn =sI   entekeːje =Iː  ụdan ọː  -RI -n(I)
+\ge and    =emph strong     =emph rain   become -pst -poss.3sg
+\ft And it started to rain VERY hard!!
+\nt
+\ev Нянаши энтэкэйэээ удан один.
+\ru И вот сильный дождь стал.
+\ELANBegin 00:10:41.636
+\ELANEnd 00:10:47.247
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_128
+\ref
+\tx Entekeje   entekeje   ịkụtịč,   čeledʒi          ụlaptin.
+\mb entekeːje entekeːje ịkụt -E-Č   čele -DʒI        ụlab  -RI -n(I)
+\ge strong     strong     straight -ep-ins all   -ins.prfl.sg get.wet -pst -poss.3sg
+\ft Very very hard, completely, everything got wet.
+\nt
+\ev Энтэкэйэ-энтэкэйэ икутич, чэлэди улаптин.
+\ru Сильно-сильно очень, все намокло.
+\ELANBegin 00:10:47.247
+\ELANEnd 00:10:50.362
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_129
+\ref
+\tx Ńan   akmụ           ajịč      bidʒillin.
+\mb ńaːn akan   -W        aj   -E-Č   bi -D    -L    -RI -n(I)
+\ge and    father -poss.1sg good -ep-ins be -prog -inch -pst -poss.3sg
+\ft And my father became happy.
+\nt
+\ev Нян акму аич бидиллин.
+\ru И отец довольный стал.
+\ELANBegin 00:10:50.362
+\ELANEnd 00:10:52.557
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_130
+\ref
+\tx Ńan   badʒịkar, ịamị uže      uŋnem           mịalliwu,            ịamị nọŋan iːdden                  tar
+\mb ńaːn badʒịkar  ịamị uže      uŋ -R(E) -m     mịal  -RI -W         ịamị nọŋan iː   -D    -R(E) -n(I)  tarak
+\ge and    morning      ptl      already.R do  -nonfut -1sg wake.up -pst -poss.1sg ptl      3sg      enter -prog -nonfut -3sg dist
+
+\tx jurtala,       ịamị pukterewmi            ŋaːlšan.
+\mb jurta  -(dU)LE ịamị pektereːwun -J       ŋaːl -R(E) -n(I)
+\ge yurt.R -loc    ptl      gun          -prfl.sg hand   -nonfut -3sg
+
+\ft And in the morning, I had already woken up, why, he enters that yurt and he's carrying his gun in his hand!
+\nt
+\ev Нян уже бадикар, ями уже уӈнэм мялливу, ями ноӈан иддэн тар юртала ями  пуктэрэвми ӈалшан.
+\ru И вот уже утро, я уже проснулась,  и оказывается, он заходит в юрту и,  оказывается, его ружье  в руках.
+\ELANBegin 00:10:52.557
+\ELANEnd 00:11:01.724
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_131
+\ref
+\tx Ńan   eti     kụŋal    turkuriten                 ọkaːtu     dawŋa,               tịlkanin                 entekeje.
+\mb ńaːn eti     kụŋa -L  turku       -RI -tEn       ọkaːt -W   daw         -ŋE      tịlka -n  -RI -n(I)      entekeːje
+\ge and    these.R child   -pl not.be.able -pst -poss.3pl river    -acc cross.river -nmdl.cvb flood   -vr -pst -poss.3sg strong
+\ft And these children couldn't cross the river, it had flooded a lot.
+\nt
+\ev Нян эти куӈал туркуритэн окату давӈа, тилкэнин энтэкэйэ.
+\ru И вот эти дети не смогли реку перейти, разлилась сильно.
+
+\ELANBegin 00:11:01.724
+\ELANEnd 00:11:07.742
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_132
+\ref
+\tx Ọkaːtaši       bišin            ịlandawur   kilometr   seloduk.
+\mb ọkaːt -E  =sI   bi -RI -n(I)      ịlan =dEwUl kilọmetr selo      -DUk(U)
+\ge river    -ep =emph be -pst -poss.3sg three  =disj  km.R       village.R -abl
+\ft As for the river, it was probably three kilometres from the village.
+\ph
+\gr ilandawur = okolo 3-x kilometrov, vozmozhno, naverno stolko bylo;  
+\nt
+\ev Окаташи бишин илан-давар километр селодук.
+\ru Река же была наверно в трех километрах от села.
+
+\ELANBegin 00:11:07.742
+\ELANEnd 00:11:11.795
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_133
+\ref
+\tx Ńan   tačịkan turkuriten                 tara, entekeješi      teγuweːtten                tadụ     tarịdʒịt.
+\mb ńaːn tačịkan turku       -RI -tEn       tarak entekeːje =sI   teγu   -WEːČ -R(E) -n(I)  tarak -DU  tarịdʒịt
+\ge and    like.that  not.be.able -pst -poss.3pl dist  strong     =emph fill.up -gnr    -nonfut -3sg dist  -dat at.once
+
+\ft And so they couldn't (cross), it fills up immediately very much there.
+\nt
+\gr teγuweːtten = perepolnjaetsja srazu rechka; vedro teγuweːtten = sam po sebe napolnjaetsja, bi teγurem vedrow = ja napolnjaju
+vedro, vedro teγunni
+\nt
+\ev Нян тачикан туркуритэн тара, энтэкэйэши тэвувэттэн таду таридит.
+\ru И вот так не смогли это, потому что сильно наполняется там сразу.
+
+\ELANBegin 00:11:11.795
+\ELANEnd 00:11:17.849
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_134
+\ref
+\tx Muː  ọːja  ọːwaːttan               ńan   turkudʒaːnnitan.
+\mb moː  họːja ọː  -WEːČ -R(E) -n(I)  ńaːn turku       -dʒEːn -RI -tEn
+\ge water many     become -gnr    -nonfut -3sg and    not.be.able -dur     -pst -poss.3pl
+\ft The water had become high, and so they couldn't (cross, poor them).
+\ph
+\nt even though these kids had taken her father's gun, she pities them; the kids had taken the gun because they needed to go to Esso and
+didn't have a gun themselves, but wanted one to protect themselves in the forest (from bears); since they couldn't cross the river they
+had returned with the gun, the father had estimated how long it would take them to get back and had gone to their place and asked
+them to give back his gun 
+\nt
+\ev Му оя оваттан, нян туркудяннитэн.
+\ru Много воды становится, поэтому, бедненькие, не смогли.
+
+\ELANBegin 00:11:17.849
+\ELANEnd 00:11:23.246
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_135
+\nt
+\ft And the last short one.
+\ph
+\ev
+\ru Еще последний короткий.
+\ELANBegin 00:11:23.246
+\ELANEnd 00:11:30.720
+\ELANParticipant AL

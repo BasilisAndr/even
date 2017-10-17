@@ -1,0 +1,180 @@
+\_sh v3.0  1061 Text
+
+\id Stepanova_ZA_parents_000_metadata
+\ref Recorded on 16 March 2008 in Sebjan-Küöl by Brigitte Pakendorf in in evening in living room of her house, she dressed up in
+Even costume. Only I was present, but her daughter was on the phone in the next room, and her 1-year old grandson was
+occasionally audible as well; longish single recording broken up into several pieces to facilitate transcription and glossing
+\qu Transcribed by BP, transcription checked by Ija Vasil'evna Krivoshapkina, who also did the Russian translation; some words checked with
+speaker, glossed by BP. Speaker abbreviation = ZAS
+\ref Zoja Afanas'evna Stepanova was 58 years old at time of recording, primary school teacher, social pedagogue (socpedagog) and
+leader of folklore ensemble Merlenke, very much in favour of literary/standard Even language, feels that there are not many
+differences between different dialects, mutual intelligibility, very much against all the mixing of Even and Sakha here in Sebjan
+(“eto ne Lamunxinskij govor”), very interested in Even folklore and language. Sister of Afanasij Afanas'evič Stepanov
+
+\id Stepanova_ZA_parents_01
+\ref 13:31
+\tx Tara  tarịt ejmude                enńumu                ammụ           ọːkta    tačịn       eniken
+\mb tarak tarịt enen   -W        =DE  enen   -ńUn -W        aman   -W        ọːk =DE  tarọːčịn e   -nIkEn
+\ge dist  then    mother -poss.1sg =ptl mother -com  -poss.1sg father -poss.1sg when   =ptl dist.qual      neg -sim.cvb
+
+\tx eńmu            mụlaŋ... mụlaːnnị       bihin             ammụ,               ammụda
+\mb eńin  -W                    mụlaːn -RI       bi -RI  -n(I)     aman   -W   -W        aman   -W        =DE
+\ge mother -poss.1sg             pity      -impf.ptc be -pst -poss.3sg father -acc -poss.1sg father -poss.1sg =ptl
+
+\tx mụlaːnnị       bihin.
+\mb mụlaːn -RI       bi -RI  -n(I)
+\ge pity      -impf.ptc be -pst -poss.3sg
+\ft And then my mother, my mother and father never did.... My mother pitied my father, and my father pitied her.
+\ru Вот потом и моя мать мой отец с матерью никогда так не делая..... Моя мать жалела моего отца и отец жалел (ее).
+
+\id Stepanova_ZA_parents_02
+\ref 13:44
+\tx Ammụ           awahkịda           her... enmu             awahkịda           hordej                 nekreken
+\mb aman   -W        aw    -skI      =DE  hor    enen   -W        aw    -skI      =DE  hor -DE       -J       nek -REk      -E-n(I)
+\ge father -poss.1sg where -advb.all =ptl go     mother -poss.1sg where -advb.all =ptl go  -purp.cvb -prfl.sg do  -cond.cvb -ep-poss.3sg
+
+\tx ammụ           belgererin                 nọŋandụn.
+\mb aman   -W        bel  -Gr(E) -RI  -n(I)     nọŋan -DU  -n(I)
+\ge father -poss.1sg help -hab   -pst -poss.3sg 3sg      -dat -poss.3sg
+
+\ft (When) my father went somewhere.... when my mother was about to leave somewhere, my father helped her.
+\ru (Когда) отец куда-то... когда мать собиралась куда.-то уезжать, мой отец ей помогал.
+\ph
+\gr
+\nt
+\qu
+
+\id Stepanova_ZA_parents_03
+\ref 13:54
+\tx Erew      tụrkịwan                bekebben                 ụčakban,                       nọŋan
+\mb erek -W   tụrkị -W   -E-n(I)      bekeč -W   -E-n(I)      ụčak         -W   -E-n(I)      nọŋan
+\ge prox -acc sled      -acc -ep-poss.3sg all    -acc -ep-poss.3sg riding.reindeer -acc -ep-poss.3sg 3sg
+
+\tx ńọːgịńụn        dʒawdʒịn           ńan   tijumińun            dʒawdʒịn.
+\mb ńọːg -J       =ńUn  dʒaw      -DʒI -n(I) ńaːn tijun -J       =ńUn  dʒaw      -DʒI -n(I)
+\ge bridle   -prfl.sg =restr catch.hold -fut  -3sg  and    staff -prfl.sg =restr catch.hold -fut  -3sg
+
+\ft Her sled, her riding reindeer, everything, she'll take hold of only her bridle, and only her staff.
+\ru Вот ее нарты все, ее верхового оленя, она только возьмет уздечку и только посох.
+\nt since in ConverbsComplex2.23 Keti gave beketben, I think one can safely assume that bekebben(de) is the assimilated version of
+bekečben --> beketben --> bekebben
+
+\id Stepanova_ZA_parents_04
+\ref 14:02
+\tx Tačịn       goːniken      kokednikenda             amantịkịw            goːnče      bihin,            biː hiːńun
+\mb tarọːčịn goːn -nIkEn   koke -D    -nIkEn   =DE  aman   -t(E)kI -W        goːn -čE    bi -RI  -n(I)     biː hiː -ńUn
+\ge dist.qual      say   -sim.cvb die  -prog -sim.cvb =ptl father -all    -poss.1sg say   -pf.ptc be -pst -poss.3sg 1sg  2sg  -com
+
+\tx ajịč      tegettem,                     hiː minu          ečes                 hịlgịtta
+\mb aj   -E-Č   teg      -E-Č   -R(E)   -m   hiː min     -W    e   -čE    -s(I)     hilge   -Č  -R
+\ge good -ep-ins sit.down -ep-res -nonfut -1sg 2sg  1sg.obl -acc  neg -pf.ptc -poss.2sg torment -res -neg.cvb
+
+\tx goːniken.
+\mb goːn -nIkEn
+\ge say   -sim.cvb
+\ft So she said to my father while she was dying "I lived well with you, you did not give me a hard time."
+\ru Так она говорила моему отцу умирая, "я с тобой жила хорошо, ты меня не мучил".
+\ph
+\gr Ija said that "hịlgịtta" means 'ne muchil' and translated it like this; however, the form I have in the database and which I can find in
+the dictionary is "hilge" - but Zoja Afanasavena says hilgittA, not hilgittE
+\nt
+
+\id Stepanova_ZA_parents_05
+\ref 14:11
+\tx Tar   nọŋan eńmu            kokečelen                     biː dʒoː  ịlan amńụmị,
+\mb tarak nọŋan eńin  -W        koke -čE    -(dU)LE -n(I)     biː dʒoːr ịlan aman   -ńUn -J
+\ge dist  3sg      mother -poss.1sg die  -pf.ptc -loc    -poss.3sg 1sg  two     three  father -com  -prfl.sg
+
+\tx akńụmị                  ńan   er   ńoːńumi                     biː erek ịak goːniken      ńimeːr
+\mb akan          -ńUn -J       ńaːn erek noː            -ńUn -J       biː erek ịak goːn -nIkEn   ńimer
+\ge older.brother -com  -prfl.sg and    prox younger.sibling -com  -prfl.sg 1sg  prox what  say   -sim.cvb neighbour
+
+\tx engičimi                 ńimeːru      dʒaːlbị           dʒebukeni,           dʒaːlbị
+\mb enen   -G(E)čIn -J       ńimer    -W   dʒaː   -L  -J       dʒeb -WkEn -RI       dʒaː   -L  -J
+\ge mother -sml      -prfl.sg neighbour -acc relative -pl -prfl.sg eat   -caus -impf.ptc relative -pl -prfl.sg
+
+\tx itti,         ammị          itti          nọŋardụdnan            haŋaːnnị     biniken     emeːptiw.
+\mb it  -RI       aman   -J       it  -RI       nọŋan -L  -DU  -tEn      haŋan -RI       bi -nIkEn   emeːn -B   -RI  -W
+\ge see -impf.ptc father -prfl.sg see -impf.ptc 3sg      -pl -dat -poss.3pl sew    -impf.ptc be -sim.cvb leave  -med -pst -poss.1sg
+
+\ft When my mother died, I two, three... with my father, my older brother and with my younger brother, I remained like my mother
+feeding my relatives, looking my relatives, looking after my father, sewing for them.
+\ru Вот когда умерла моя мать, я 2 3.... со своим отцом, со старшим братом и с младшим братом, я вот как моя мать осталась
+кормить своих родных, ухаживать за родными, ухаживать за отцом, шить для них.
+
+\id Stepanova_ZA_parents_06
+\ref 14:37
+\tx Tarịt họː mergeːttiw             ọːna biː akmị                 họːj[a] ịstadadụ bihi
+\mb tarịt họː mergeːt -RI  -W        ọːn  biː akan          -J       họːja   stado  -DU   bi -RI
+\ge then    very   think    -pst -poss.1sg how     1sg  older.brother -prfl.sg many       herd.R -dat  be -impf.ptc
+
+\tx bejdu,   họːja ńam ọj,   ńahmị          ọj    naːda biwreren,               teːmi    ọːn biː
+\mb bej -DU  họːja ńam ọj    ńam    -RI       ọj    nada   bi -Gr(E) -R(E)   -n(I) teːmi    ọːn biː
+\ge man -dat many     warm clothes be.warm -impf.ptc clothes need.R be -hab   -nonfut -3sg  therefore how    1sg
+
+\tx ụntawan                   haŋandʒịm     goːniken      mergeːttiw.
+\mb unte      -W   -E-n(I)      haŋan -DʒI -m   goːn -nIkEn   mergeːt -RI  -W
+\ge fur.boots -acc -ep-poss.3sg sew    -fut  -1sg say   -sim.cvb think    -pst -poss.1sg
+\ft Then I though a lot about how I will sew fur boots for my older brother, a person who is in the herd needs a lot of warm clothes.
+\ru Потом я очень переживала как я своего брата, человеку в стаде нужно много теплой одежды, поэтому как я сосшью ему обувь,
+говоря переживала.
+\ph ịstadadị bihi
+\gr
+\nt
+
+\id Stepanova_ZA_parents_07
+\ref 14:50
+\tx Ịstada[dụ] họː hịnmač    manụwran                 tar   ụntada       ịakta.
+\mb stado  -DU     họː hịnma -Č  man    -W     -Gr(E) -n(I) tarak unte      =DE  ịak =DE
+\ge herd.R -dat    very   speed   -ins finish -advrs -hab   -3sg  dist  fur.boots =ptl what  =ptl
+
+\ft In the herd fur boots and the like get worn out very quickly.
+\ru В стаде очень быстро изнашивается вот унты и так далее.
+\ph
+\gr manudaj is the intransitive form of mandaj, i.e. here the suffix -U is intransitivizing, not transitivizing
+\nt note the literary form of the word hịnmač
+\qu
+
+\id Stepanova_ZA_parents_08
+\ref 14:55
+\tx Tarda      biniken     tarị dʒoː  eńmu            haŋandaŋan                 edlen
+\mb tarak =DE  bi -nIkEn   tar    dʒoːr eńin  -W        haŋan -DEŋ    -E-n(I)      e   -dle     -n(I)
+\ge dist  =ptl be -sim.cvb thus   two     mother -poss.1sg sew    -pst.ptc -ep-poss.3sg neg -trm.cvb -poss.3sg
+
+\tx manụr,               Ilena emnin,              akmụ                  atịkaŋan                 ọːrịn.
+\mb man    -W     -R       Elena em   -RI  -n(I)     akan          -W        atịkan  -ŋ  -E-n(I)      ọː  -RI  -n(I)
+\ge finish -advrs -neg.cvb Elena come -pst -poss.3sg older.brother -poss.1sg old.woman -aln -ep-poss.3sg become -pst -poss.3sg
+
+\ft Nevetheless, before that which my mother had sewn was worn out, Elena came and became the wife of my older brother.
+\ru Несмотря на это вот до того как закончится сшитое моей матерью, приехала Елена, стала женой моего старшего брата.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_parents_09
+\ref 15:06
+\tx Tarịt nọŋ... nọŋman               biː ńan   engičimi                 dʒọmkadnịkan   nọŋńụnnị,        tar
+\mb tarịt nọŋan  nọŋan -W   -n(I)     biː ńaːn enen   -G(E)čIn -J       dʒọmkat -nIkEn   nọŋan -ńUn -n(I)     tarak
+\ge then    3sg       3sg      -acc -poss.3sg 1sg  and    mother -sml      -prfl.sg think      -sim.cvb 3sg      -com  -poss.3sg dist
+
+\tx kokerilen                        ịstalan          nulgeweːtniken          biweːttit.
+\mb koke -RI       -(dU)LE -n(I)     ịstala -n(I)     nulge   -WEːČ -nIkEn   bi -WEːČ -RI  -t(I)
+\ge die  -impf.ptc -loc    -poss.3sg until    -poss.3sg migrate -gnr    -sim.cvb be -gnr    -pst -poss.1pl.in
+\ft Then I also regarded her like my mother, with her we used to migrate until her death.
+\ru Потом я считая ее тоже как свою мать, вместе с ней до ее смерти кочуя ходили.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_parents_10
+\ref 15:15
+\tx Tar  tarọːčịn biː ukčeneku.
+\mb tar  tarọːčịn biː ukčen -ČEk -W
+\ge thus dist.qual      1sg  tell   -nr   -poss.1sg
+
+\ft Well such is my narrative.
+\ru Вот такой мой рассказ.
+\ph
+\gr
+\nt
+\qu

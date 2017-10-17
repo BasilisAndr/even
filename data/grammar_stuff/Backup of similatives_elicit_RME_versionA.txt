@@ -1,0 +1,470 @@
+\_sh v3.0  1202 Text
+
+\id black_hair_raven
+\ref
+\ref description picture
+\tx Asatkan ńuːritan            aŋna tụrakị urečinni.
+\mb asatkan ńuːrit -E-n(I)      aŋna tụrakị ureːčin -n(I)
+\ge girl    hair     -ep-poss.3sg black crow       similar   -poss.3sg
+\ft The girl's hair is black as a crow.
+\ph
+\ref additional translation
+\ru Да нет, волосы не такие как это там, они коричневые.
+\tx Nọŋan ńuːriten            ešni             tụrakị deːtlen          urečinni.
+\mb nọŋan ńuːrit -E-n(I)      e   -R(E)   -n(I) tụrakị deːtle -n(I)     ureːčin -n(I)
+\ge 3sg      hair     -ep-poss.3sg neg -nonfut -3sg  crow       wing    -poss.3sg similar   -poss.3sg
+
+
+\id bragging_fish
+\ref
+\ref description picture
+\tx Eːškeːdden            bej ọllaw     epkenčeji.
+\mb eske -D    -R(E)   -n(I) bej ọlra -W   hepken -čE    -J
+\ge brag -prog -nonfut -3sg  man fish   -acc catch  -pf.ptc -prfl.sg
+\ft The man is bragging about the fish he caught.
+\ph
+\ref description picture with podskazka
+\tx Eŋnide  egdʒem      ičuketčoːtten                     epkenčeduki.
+\mb eŋnide  egdʒen -W   it  -WkEn -Č  -WEːČ -R(E)   -n(I) hepken -čE    -DUk(U) -J
+\ge too.much big     -acc see -caus -res -gnr    -nonfut -3sg  catch  -pf.ptc -abl    -prfl.sg
+\ft He is showing it bigger than what he caught.
+\ev
+\ref translation (attempt)
+\ru Я поймал рыбу такуууую, такого же размера.
+\tx Nọŋan ičukečidden                      ọllaw     epkenčeji              ašụm.
+\mb nọŋan it  -WkEn -Č  -D    -R(E)   -n(I) ọlra -W   hepken -čE    -J       asụn  -W
+\ge 3sg      see -caus -res -prog -nonfut -3sg  fish   -acc catch  -pf.ptc -prfl.sg how.big -acc
+\ft He is showing how big the fish is that he caught.
+\gr erek ọlla ašụn = how big is this fish
+
+\id children_sailing
+\ref
+\ref description picture
+\tx Dʒoːr kụŋal    asatkar     ewidde,             mọmịrkačịdda.
+\mb dʒoːr kụŋa -L  asatkan -L  ewiː -D    -R(E)   mọmị -r(E) -kEČ -D    -R(E)
+\ge two     child   -pl girl    -pl play  -prog -nonfut boat     -vr   -mult -prog -nonfut
+\ft Two girls are playing, they are sailing.
+\gr verbalizer -r(E) = "use N"
+\nt
+\ref description picture with podskazka
+\tx Nọŋartan mọmịrkačiššan           biše.
+\mb nọŋartan mọmị -r(E) -kEČ -ssEn     bi -R(E)
+\ge 3pl         boat     -vr   -mult -pretense be -nonfut
+\ft They are pretending to sail a boat.
+
+\id child_doctor
+\ref
+\ref description picture 
+\tx Kụŋa ewidden                   doktor   bideji.
+\mb kụŋa ewiː -D    -R(E)   -n(I) doktor   bi -DE -J
+\ge child   play  -prog -nonfut -3sg  doctor.R be -purp.cvb -prfl.sg
+\ft The child is playing at being a doctor.
+\ph
+\ref translation
+\ru Ребенок делает вид, что он доктор.
+\tx Kụŋa doktor   bideji                uŋedden.
+\mb kụŋa doktor   bi -DE -J             uŋ -D    -R(E)   -n(I)
+\ge child   doctor.R be -purp.cvb -prfl.sg do  -prog -nonfut -3sg
+\ft
+\ref with podskazka, can one say it with "biššen bideji"
+\tx Kụŋa doktor   biššen     bideji                uŋedden.
+\mb kụŋa doktor   bi -ssEn     bi -DE -J             uŋ -D    -R(E)   -n(I)
+\ge child   doctor.R be -pretense be -purp.cvb -prfl.sg do  -prog -nonfut -3sg
+
+
+\id child_fishing
+\ref
+\ref description picture 
+\tx Kụŋa ewidden                   ọllaw     epkuddiji.
+\mb kụŋa ewiː -D    -R(E)   -n(I) ọlra -W   hepku -D    -RI       -J
+\ge child   play  -prog -nonfut -3sg  fish   -acc catch -prog -impf.ptc -prfl.sg
+\ft The child is playing at catching fish.
+\gr epkuddiji = kak budto on lovit; bi epkurem = ja lovlju sejchas; bi epkenem = ja pojmala; 
+\nt
+\ref description picture with podskazka
+\tx Nọŋan ewiššen...    ewidden                   ọllaw     epkuššen      bideji.
+\mb nọŋan ewiː -ssEn     ewiː -D    -R(E)   -n(I) ọlra -W   hepku -ssEn     bi -DE -J
+\ge 3sg      play  -pretense play  -prog -nonfut -3sg  fish   -acc catch -pretense be -purp.cvb -prfl.sg
+\ft He is playing as if he is catching fish.
+\ru Играет, как будто рыбу ловит.
+\ph
+\gr nọŋan ewiššen bideji = kak budto igraet; 
+\mb
+
+\id child_professor
+\ref
+\ref description picture 
+\tx Nọŋan ajaːwran            bideji                mergeč professorgečin.
+\mb nọŋan ajaːw -R(E)   -n(I) bi -DE -J             mergeč professor   -G(E)čIn
+\ge 3sg      love   -nonfut -3sg  be -purp.cvb -prfl.sg clever  professor.R -sml
+
+\ft He wants to be clever like a professor.
+\ru Он хочет быть умным как профессор.
+\ph
+\gr mergeːč = vse vremja dumaet; mərgəč = umnyj 
+\nt
+\ref translation (a day later)
+\ru Он такой же умный как профессор
+\tx Nọŋan tarọːčịnnịtịtta          mergeč professorgečin.
+\mb nọŋan tarọːčịn -n(I)     =tIt =DE  mergeč professor   -G(E)čIn
+\ge 3sg      dist.qual      -poss.3sg =ptl =ptl clever  professor.R -sml
+
+
+\id child_superman
+\ref
+\ref description picture
+\tx Erek kụŋa tettin                superman   bideji.
+\mb erek kụŋa tet    -RI  -n(I)     superman   bi -DE -J
+\ge prox child   put.on -pst -poss.3sg superman.R be -purp.cvb -prfl.sg
+\ru оделся как супермен
+\ph
+\ref description picture with podskazka
+\ru делал вид что он супермен
+\tx Nọŋan superman   bideji                nekedden.
+\mb nọŋan superman   bi -DE -J             nek -E-D     -R(E)   -n(I)
+\ge 3sg      superman.R be -purp.cvb -prfl.sg do  -ep-prog -nonfut -3sg
+\ft He is pretending to be superman.
+
+\id church_tree
+\ref
+\ref description picture 
+\tx Cerkov   ašụkụt mọː išuri dinni.
+\mb cerkov'  asụkụt  mọː isu  -RI        =dIːn
+\ge church.R almost      tree   grow -impf.ptc  =quant.dem
+\ft The church is almost as big as the growing tree.
+\ru Церковь чуть ли не одинаковый по размеру с растущим деревом.
+\ph
+\gr Rimma said that dinni should be written separately.
+
+\id fish_ball
+\ref
+\ref description picture 
+\tx Ọlla mereti meːčik urečinni.
+\mb ọlra mereti mjačik  ureːčin -n(I)
+\ge fish   circle ball.R   similar   -poss.3sg
+\ft The fish is as round as a ball.
+\ph
+\ref translation (one day later)
+\ru Я увидела рыбу похоже на шарик
+\tx Bi   ittiwu             ọllaw     šarikkačin     mereti.
+\mb biː it  -RI  -W        ọlra -W   šarik -G(E)čIn mereti
+\ge 1sg  see -pst -poss.1sg fish   -acc ball.R -sml      circle
+
+
+\id fish_hedgehog
+\ref
+\ref description picture
+\tx Ọlla gabar   jožikkečin.
+\mb ọlra gabar   ežik      -G(E)čIn
+\ge fish   prickly hedgehog.R -sml
+
+\ru рыба колючая как ёжик
+
+\id flying_birds
+\ref
+\ref description picture 
+\tx Kučeːlekeken   čụkačaːn deγγoːtčoːtten               ojle        egdʒen čụkačaːŋčin.
+\mb kučeːle -kEkEn čụkačaːn deg -WEːČ -WEːČ -R(E)   -n(I) oj  -(dU)LE egdʒen čụkačaːn -G(E)čIn
+\ge small     -dim   bird          fly -gnr    -gnr    -nonfut -3sg  top -loc    big     bird          -sml
+
+\ft The tiny bird is flying as high as the big bird.
+\ph
+\gr deγγoːtčoːtten = letaet; deγγoːtten = letit; degren = letit -- I think that probably the first WEːČ is the one that expresses movement around, the lexicalized one
+\gr
+
+\id giant
+\ref
+\ref description picture with podskazka
+\tx čeledukun              gụːd beje torle
+\mb čele -DUk(U) -n(I)     gụd   bej  tor   -(dU)LE
+\ge all   -abl    -poss.3sg high    man  earth -loc
+\ft the tallest man on earth
+\ph
+\ref description picture with podskazka
+\tx Nọŋan egdʒeːmker  mọː isuri dinni.
+\mb nọŋan egdʒen -mkEr mọː isu  -RI        =dIːn
+\ge 3sg      big     -aug  tree   grow -impf.ptc  =quant.dem
+\ft He's as big as a growing tree.
+\ru Он большой как дерево растущее.
+
+\id horse_snow
+\ref
+\ref description picture
+\tx Mụrkaja       ńọːbatị ịmannaγčin.
+\mb mụran -kEːjE ńọːbatị ịmanra -G(E)čIn
+\ge horse   -aug    white         snow     -sml
+\ft The big horse is as white as snow.
+\ph imanəγčin
+\gr
+\ref additional translation
+\ru Я видела лошадь такую, белую как снег.
+\tx Bi   ittiwu             mụram      imanna                urečinni           ńọːbatịw.
+\mb biː it  -RI  -W        mụran -W   im        -E-nnE      ureːčin -n(I)     ńọːbatị -W
+\ge 1sg  see -pst -poss.1sg horse   -acc 3pl.dat.R -ep-nec.ptc similar   -poss.3sg white         -acc
+
+
+\id huge_fish
+\ref
+\ref description picture with podskazka
+\tx Bejemker  epkenin               ọllaŋgaji                egdʒem,     nọŋandụktatit         egdʒen.
+\mb bej -mkEr hepken -RI  -n(I)     ọlra -ŋ  -GE    -J       egdʒen -W   nọŋan -DUk(U) =DE  =tIt egdʒen
+\ge man -aug  catch  -pst -poss.3sg fish   -aln -desig -prfl.sg big     -acc 3sg      -abl    =ptl =ptl big
+\ft
+\ref additional translation
+\ru Рыба, которая настолько велика, как человек, (с человека росто) была сто лет.
+\tx Ọllakaja     bejdinni       biši,       ńama   anŋanan.
+\mb ọlra -kEːjE bej =dIːn     bi -RI       ńama   anŋan -E-n(I)
+\ge fish   -aug    man =quant.dem be -impf.ptc hundred year   -ep-poss.3sg
+
+
+\id Masha_sister
+\ref
+\ref description picture
+\tx Maša bišin            nọːdtitta      nuːγčimi.
+\mb Maša bi -RI  -n(I)     nọːd =tIt =DE  noː            -G(E)čIn -J
+\ge Masha be -pst -poss.3sg pretty  =ptl =ptl younger.sibling -sml      -prfl.sg
+\ru Маша была такая же красивая как младшая сестра.
+\ph
+\ref description picture with podskazka
+\ru она не такая красивая
+\tx Nọŋan ešni             biše       nọːd entekeːje nuːduki.
+\mb nọŋan e   -R(E)   -n(I) bi -R       nọːd entekeːje noː            -DUk(U) -J
+\ge 3sg      neg -nonfut -3sg  be -neg.cvb pretty  strong     younger.sibling -abl    -prfl.sg
+\ft
+\ref judgement question (one day later) which was accepted (she had said this at first during elicitation, and then corrected it to nuːduki)
+\tx nọŋan ešni biše nọːd nuːγčimi
+
+\id Petya_Misha_simple
+\ref
+\ref description picture
+\tx Petja aγdị Mišaduk      umenič      anŋanič,     a     Miša egdʒemker    ...  Petjaduk.
+\mb Petja hagdị Miša -DUk(U) omen -E-Č   anŋan -E-Č   a.R   Miša egdʒen -mkEr *... Petja -DUk(U)
+\ge Petja old     Misha -abl    one  -ep-ins year   -ep-ins but.R Misha big     -aug  ***  Petja -abl
+\ft Petja is older than Misha by one year, but Misha is much bigger than Petja.
+
+\id Petya_Misha_strong
+\ref
+\ref description picture
+\tx Petja ešni             biše       eŋi   Mišaγčin.
+\mb Petja e   -R(E)   -n(I) bi -R       eŋi   Miša -G(E)čIn
+\ge Petja neg -nonfut -3sg  be -neg.cvb strong Misha -sml
+\ft Petja isn't as strong as Misha.
+
+\id Petya_Misha_tall
+\ref
+\ref description picture
+\tx Miša gụːd Petjaduk.
+\mb Miša gụd   Petja -DUk(U)
+\ge Misha high    Petja -abl
+\ft Misha is taller than Petja.
+\ph
+\ref description picture with podskazka
+\tx Petja ešni             gụːd biše       Mišaduk.
+\mb Petja e   -R(E)   -n(I) gụd   bi -R       Miša -DUk(U)
+\ge Petja neg -nonfut -3sg  high    be -neg.cvb Misha -abl
+\ft Petja isn't as tall as Misha.
+
+\id Petya_Misha_wish_
+\ref
+\ref description picture
+\tx Petja ajaːwwọːttan             bideji                egdʒen Mišaγčin.
+\mb Petja ajaːw -WEːČ -R(E)   -n(I) bi -DE -J             egdʒen Miša -G(E)čIn
+\ge Petja love   -gnr    -nonfut -3sg  be -purp.cvb -prfl.sg big     Misha -sml
+\ft Petja wants to be big like Misha.
+
+\id piggy_girl
+\ref
+\ref description picture
+\tx Kụŋa taːlaŋaddan                   ektiwendule,    siwińaγčin.
+\mb kụŋa taːlaŋ -E-D     -R(E)   -n(I) ektiwen -(dU)LE svinja -G(E)čIn
+\ge child   dirt     -ep-prog -nonfut -3sg  table   -loc    pig.R  -sml
+\ft The child is messing around at the table like a pig.
+\ph
+\ref additional translation
+\ru она кушает как свинья
+\tx d'ebedden                 siwińaγčin
+\mb dʒeb -D    -R(E)   -n(I) svinja -G(E)čIn
+\ge eat   -prog -nonfut -3sg  pig.R  -sml
+
+
+\id pretty_mother_daughter
+\ref
+\ref description picture
+\tx Tegečidde                        ašị kụŋaŋńumi.             Alịŋọ nọːd ekengečimititte.
+\mb teg      -E-Č   -E-D     -R(E)   asị  kụŋa -ŋ  -ńUn -J       alịŋọ nọːd eken   -G(E)čIn -J       =tIt
+\ge sit.down -ep-res -ep-prog -nonfut woman  child   -aln -com  -prfl.sg girl       pretty  mother -sml      -prfl.sg =ptl
+\ft A woman and her child are sitting. The daughter is as pretty as her mother.
+\ph
+\ref additional translation
+\ru Я видела мать и дочь, которая была так же красива как мать.
+\tx Bi   ittiwu             ekem        alịŋọŋnumi,              nọŋartan nọːdal      bišiten            dʒoːridʒur.
+\mb biː it  -RI  -W        eken   -W   alịŋọ -ŋ  -ńUn -J       nọŋartan nọːd -E-L   biː -RI  -tEn      dʒoːr -NI   -dʒUr
+\ge 1sg  see -pst -poss.1sg mother -acc girl       -aln -com  -prfl.sg 3pl         pretty  -ep-pl 1sg  -pst -poss.3pl two     -coll -ins.prfl.pl
+\ft
+\ph
+\ref additional translation
+\ru Мама пошла к магазину с дочерю, которая так же красиво как она.
+\tx Eken   urrin              magazintakị   alịŋọγliji,           alịŋọn          bišin            nọːd ekengečimi.
+\mb eken   hor -RI  -n(I)     magazin -t(E)kI alịŋọ -g(E)lI -J       alịŋọ -n(I)     bi -RI  -n(I)     nọːd eken   -G(E)čIn -J
+\ge mother go  -pst -poss.3sg shop.R  -all    girl       -com    -prfl.sg girl       -poss.3sg be -pst -poss.3sg pretty  mother -sml      -prfl.sg
+
+
+\id Ruslan_Mikhail
+\ref
+\ref description picture
+\tx Ruslan noseγčen Mixailduk.
+\mb Ruslan nosegčen  Mixail  -DUk(U)
+\ge Ruslan young      Michael -abl
+\ft Ruslan is younger than Michael.
+\ph
+\ref description picture with podskazka
+\tx Ruslan ešni             etikeːn biš        Mixailgečin.
+\mb Ruslan e   -R(E)   -n(I) etikeːn bi -R       Mixail  -G(E)čIn
+\ge Ruslan neg -nonfut -3sg  old.man  be -neg.cvb Michael -sml
+\ft Ruslan isn't as old as Michael.
+
+\id singing_bird
+\ref
+\ref description picture
+\tx Ašatkan ikeːweːtten               čụkačaːngečin.
+\mb asatkan  ikeː -WEːČ -R(E)   -n(I) čụkačaːn -G(E)čIn
+\ge girl     sing  -gnr    -nonfut -3sg  bird          -sml
+\ft The girl is singing like a bird.
+\ph
+\ref additional translation
+\ru Я в клубе слушала женщину, которая пела как птица.
+\tx Bi dọlčịddiwu                 klubla         ašị ikeːriwen                        ....  ašị ikeːweːtten               čụkačaːngečin.
+\mb bi dọlčị -D    -RI  -W        klub   -(dU)LE asị  ikeː -RI       -W   -E-n(I)      *.... asị  ikeː -WEːČ -R(E)   -n(I) čụkačaːn -G(E)čIn
+\ge be listen     -prog -pst -poss.1sg club.R -loc    woman  sing  -impf.ptc -acc -ep-poss.3sg ***   woman  sing  -gnr    -nonfut -3sg  bird          -sml
+\gr so exactly the form that I wanted, namely the similative as a direct object, she avoided by giving a main clause - I guess one could say that this is literally "I listened to a woman singing
+in the club, the woman sang like a bird".
+\nt
+\ref additional translation
+\ru Я приехала в Эссо с женщиной, которая поет...
+\tx Bi   Essoːla         emniwu              asịγli     ikeːweːttinun               čụkačaːngečin.
+\mb biː Essọː -(dU)LE em   -RI  -W        asị -g(E)lI ikeː -WEːČ -RI       -ńUn čụkačaːn -G(E)čIn
+\ge 1sg  Esso     -loc    come -pst -poss.1sg woman -com    sing  -gnr    -impf.ptc -com  bird          -sml
+
+
+\id smoking_chimney
+\ref
+\ref description picture
+\tx Ašatkan tebeːkiw         kọladdʒoːttan,                   aːńịnni         trubeγčin      biweːtten.
+\mb asatkan  tabak     -E-W    kọl -E-D     -WEːČ -R(E)   -n(I) haːnịn -n(I)     truba  -G(E)čIn bi -WEːČ -R(E)   -n(I)
+\ge girl     tobacco.R -ep-acc drink -ep-prog -gnr    -nonfut -3sg  smoke     -poss.3sg pipe.R -sml      be -gnr    -nonfut -3sg
+
+\ft The girl is smoking (lit. drinking tobacco), her smoke is like a chimney.
+\ph
+\gr
+
+\id spiders
+\ref
+\ref description picture
+\tx Atakịːmkar gịrkaddan                 ulicali.
+\mb atakị -mkEr gịrka -D    -R(E)   -n(I) ulica    -(dU)LI
+\ge spider  -aug  walk    -prog -nonfut -3sg  street.R -prol
+\ft A big spider is walking down the street.
+\ph
+\ref description picture with podskazka
+\tx Atakịːmkar egdʒen dʒụːdinni.
+\mb atakị -mkEr egdʒen dʒụː =dIːn
+\ge spider  -aug  big     house    =quant.dem
+\ft The spider is as big as a house.
+
+\id strong_as_lion
+\ref
+\ref description picture
+\tx Bej mergečiddʒoːtten                  eŋiː bideji                lewgečin,       giekiw         uγerketteji.
+\mb bej mergeːt -D    -WEːČ -R(E)   -n(I) eŋi   bi -DE -J             lew    -G(E)čIn gịakị -W   uger    -kEČ -DE -J
+\ge man think    -prog -gnr    -nonfut -3sg  strong be -purp.cvb -prfl.sg lion.R -sml      various   -acc lift.up -mult -purp.cvb -prfl.sg
+\ft The man is thinking about being as strong as a lion, in order to lift up various things.
+\ph
+\ph said mergečiddʒeːtten in the original elicitation, but when I checked said it should be mergečiddʒoːtten
+\ev
+\ref additional translation
+\ru сильный как медведь
+\tx eŋi   kọbalaŋčin
+\mb eŋi   kọbalan -G(E)čIn
+\ge strong bear      -sml
+
+
+\id swims_like_fish
+\ref
+\ref description picture
+\tx Kụŋa teːmaččoːtten             ọllaγčin.
+\mb kụŋa teːmat -WEːČ -R(E)   -n(I) ọlra -G(E)čIn
+\ge child   swim    -gnr    -nonfut -3sg  fish   -sml
+\ft The child swims like a fish.
+\ph olləγčin with clearly pronounced (chutj li ne stressed) shwa
+\gr
+\ref additional translation
+\ru Нет, он не плавает как рыба.
+\tx Nọŋan turkuttan                      teːmatŋa        ọllaγčin.
+\ge 3sg      not.be.able -res -nonfut -3sg  bathe   -nmdl.cvb fish   -sml
+\mb nọŋan turku       -Č  -R(E)   -n(I) teːmat -ŋE      ọlra -G(E)čIn
+\ge
+\ref variant offered by Rimma
+\tx Nọŋan nuːnnan                  teːmattaji.
+\mb nọŋan nụːn     -R(E)   -n(I) teːmat -DE -J
+\ge 3sg      not.be.able -nonfut -3sg  bathe   -purp.cvb -prfl.sg
+\ft He doesn't know how to swim.
+
+\id swordfish
+\ref
+\ref description picture
+\tx Rybameč    ọŋatan              čupuńa.
+\mb rybameč    ọŋọt -E-n(I)      čupul   -ńE
+\ge swordfish.R nose      -ep-poss.3sg protrude -adjr
+\ft The swordfish's nose is protruding.
+\ph
+\ref description picture with podskazka
+\tx Ọllakaja     ọŋatan              meč    urečinni.
+\mb ọlra -kEːjE ọŋọt -E-n(I)      meč    ureːčin -n(I)
+\ge fish   -aug    nose      -ep-poss.3sg sword.R similar   -poss.3sg
+\ft The nose of the big fish is similar to a sword.
+
+\id tea_for_dolls
+\ref
+\ref description picture
+\tx Asatkan uličiššen        binni            bejikerbi.
+\mb asatkan ulič -I  -ssEn     bi -R(E)   -n(I) bej -KEn -L  -J
+\ge girl    feed  -ep -pretense be -nonfut -3sg  man -dim -pl -prfl.sg
+
+\ft The girl is pretending to feed her dolls.
+\ph
+\gr bejiken = doll, bejikerbi = svoix kukol; bejikerbe = kukly.acc (not possessed)
+
+\id tree_church
+\ref
+\ref description picture with podskazka
+\tx Mọːkaja     gụːd cerkovgečin.
+\mb mọː -kEːjE gụd   cerkov'  -G(E)čIn
+\ge tree   -aug    high    church.R -sml
+\ft The big tree is as high as the church.
+\ph
+\ref judgement question
+\tx Moːkaja gụːd cerkovdinni --> cerkovduk
+\mb
+\ref corrected what I said first to "mọːkaja guːd cerkovduk", then when I asked whether one can say "moː cerkovdinni" she offered:
+\tx mọːkaja     cerkovdinni         ŋọnam
+\mb mọː -kEːjE cerkov'  =dIːn     ŋọnam
+\ge tree   -aug    church.R =quant.dem long
+\ft derevo dlinnyj kak cerkov
+\ph
+\ref judgement question
+\tx mọːkaja cerkov urečinni ŋọnam
+\ru можно
+
+\id walking_duck
+\ref
+\ref description picture
+\tx Urkeːn  gịrkaddan                 eːrbeːčgečin.
+\mb hurkeːn gịrka -D    -R(E)   -n(I) eːrbeč -G(E)čIn
+\ge boy      walk    -prog -nonfut -3sg  goose    -sml
+\ft The boy is walking like a goose.
+\ph
+\ref additional translation
+\ru Да нет, он же не как этот ходит, а нормально.
+\tx Ešni,            nọŋan ešni             eːrbeːčgečin   gịrkar,        ajịč      gịrkan.
+\mb e   -R(E)   -n(I) nọŋan e   -R(E)   -n(I) eːrbeč -G(E)čIn gịrka -R       aj   -E-Č   gịrka -n(I)
+\ge neg -nonfut -3sg  3sg      neg -nonfut -3sg  goose    -sml      walk    -neg.cvb good -ep-ins walk    -3sg

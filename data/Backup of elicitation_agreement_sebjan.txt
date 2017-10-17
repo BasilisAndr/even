@@ -1,0 +1,542 @@
+\_sh v3.0  777  Text
+
+\id S_AgreementBook01
+\ref elicited with Ekaterina Igorovna Shadrina, sebjan040308_keti_1:28:10
+\tx Ńarị kotlen knigakkam         ahịla       boːdni.
+\mb ńarị kotlen kniga  -kkEn -W   asị -(dU)LE boː        -n(I)
+\ge man     small  book.R -dim  -acc woman -loc    give.nonfut -3sg
+
+\id S_AgreementBook02
+\ref elicited with Ekaterina Igorovna Shadrina, sebjan040308_keti_1:28:50
+\tx Ńarị kojeːttidʒi    egdʒen knigaw      boːdni.
+\mb ńarị kojeːt -RIdʒI  egdʒen kniga  -W   boː        -n(I)
+\ge man     look.at -ant.cvb big     book.R -acc give.nonfut -3sg
+
+\id S_AgreementBook03
+\ref elicited with Ekaterina Igorovna Shadrina, sebjan040308_keti_1:29:40
+\tx Nọŋan dʒoːr knigaw,     kotlekkem         ńan   egdʒem,     ittidʒi,
+\mb nọŋan dʒoːr kniga  -W   kotlen -kkEn -W   ńaːn egdʒen -W   it  -RIdʒI
+\ge 3sg      two     book.R -acc small  -dim  -acc and    big     -acc see -ant.cvb
+
+\tx egdʒemmen                boːdni.
+\mb egdʒen -W   -E-n(I)      boː        -n(I)
+\ge big     -acc -ep-poss.3sg give.nonfut -3sg
+
+\ft
+\ru Он, просмотрев 2 книги, большую и маленькую, выбрал и отдал большую.
+\ph
+\gr she explained "egdʒemmen" as meaning "posle vybora", "vybral bol'shuju"
+
+\id S_AgreementBook04
+\ref elicited with Ekaterina Shadrina, sebjan050308_keti_42:10
+\tx Ńarị kojeːttidʒi    ahịla       dʒoːr
+\mb ńarị kojeːt -RIdʒI  asị -(dU)LE dʒoːr
+\ge man     look.at -ant.cvb woman -loc    two
+
+\tx knigadụk    hịŋańa knigaw      garịdʒị  boːdni.
+\mb kniga  -DUk(U) hịŋańa kniga  -W   ga   -RIdʒI  boː        -n(I)
+\ge book.R -abl    yellow     book.R -acc take -ant.cvb give.nonfut -3sg
+
+\ft
+\ru отобрав из двух книг желтую, дал
+
+\id S_AgreementBook05
+\ref elicited with Ekaterina Shadrina, sebjan050308_keti_43:15
+\tx Ńarị dʒoːr knigadụk     hụlańa knigaw      garịdʒị  boːdni.
+\mb ńarị dʒoːr kniga  -DUk(U) hụlańa kniga  -W   ga   -RIdʒI  boː        -n(I)
+\ge man     two     book.R -abl    red       book.R -acc take -ant.cvb give.nonfut -3sg
+
+\id S_AgreementBook06
+\ref elicited with Ija Krivoshapkina, sebjan170308_53:55
+\tx Ọmọlgọ kotlečen    ahịkandụ    kotlukken    knigaw      boːdni.
+\mb ọmọlga   kotlen -čEn asị -KEn -DU  kotlen -kkEn kniga  -W   boː        -n(I)
+\ge boy          small  -dim  woman -dim -dat small  -dim  book.R -acc give.nonfut -3sg
+\ft
+\ru
+\ph she said that "kotlečen" should be written kotleTčen, but when she at first said the word it didn't
+sound at all like a geminated -č-; kotluːken
+\gr
+\nt elicited with Ekaterina Shadrina, sebjan190308_keti_24:30
+\tx Ńarị kotlukken    knigakkam        kotlen ikirilken   ahịkandụla
+\mb ńarị kotlen -kkEn kniga  -kkEn -W  kotlen ikiri -lkEn asị -KEn -(dU)LE
+\ge man     small  -dim  book.R -dim  -accsmall  bone  -prop woman -dim -loc
+
+\tx boːdni.
+\mb boː        -n(I)
+\ge give.nonfut -3sg
+
+\id S_AgreementBook07
+\ref elicited with Ija Krivoshapkina, sebjan170308_55:15
+\tx Ọmọlgọ knigaj          kojeːčehnidʒi          egdʒeńdʒele
+\mb ọmọlga   kniga  -J       kojeːt -E-s(E)n -RIdʒI  egdʒen -ńdʒE -(dU)LE
+\ge boy          book.R -prfl.sg look.at -ep-lim  -ant.cvb big     -aug    -loc
+
+\tx (knigaj)        boːdni.
+\mb kniga  -J       boː        -n(I)
+\ge book.R -prfl.sg give.nonfut -3sg
+
+\ft
+\gr the second "knigaj" is not necessary if it is clear from the context that he gave the book
+\nt
+\nt elicited with Ekaterina Shadrina, sebjan190308_keti_25:20
+\tx Ńarị kotlukken    knigakkam         egdʒen ikirilken   ahịkandụla
+\mb ńarị kotlen -kkEn kniga  -kkEn -W   egdʒen ikiri -lkEn asị -KEn -(dU)LE
+\ge man     small  -dim  book.R -dim  -acc big     bone  -prop woman -dim -loc
+
+\tx boːdni.
+\mb boː        -n(I)
+\ge give.nonfut -3sg
+
+\id S_AgreementBook08
+\ref elicited with Ija Krivoshapkina, sebjan170308_51:25
+\tx Ńarị knigew      omen /   kotlebmer     ahịkandụla
+\mb ńarị kniga  -W   omen */  kotlen -dmEr  asị -KEn -(dU)LE
+\ge man     book.R -acc one  *** small  -contr woman -dim -loc
+
+\tx boːdej                 nekridʒi,   honte /   egdʒedmer     ahịkandụla
+\mb boː -DE       -J       nek -RIdʒI  honte */  egdʒen -dmEr  asị -KEn -(dU)LE
+\ge give -purp.cvb -prfl.sg do  -ant.cvb other *** big     -contr woman -dim -loc
+
+\tx boːdni.
+\mb boː        -n(I)
+\ge give.nonfut -3sg
+
+\ft
+\gr the forms with -dmEr here don't seem to have an emphatic meaning, but a comparative meanign
+without comparandum, "kotlebmer = tot kto po-men'she, egdʒedmer = tot kto po-bol'she";
+boːdej nekridʒi could have a meaning of "was going to give" and "wanted to give"
+\nt
+\nt elicited with Ekaterina Shadrina, sebjan190308_keti_22:15
+\tx Ńarị omen //  kotlen ikirilken   ahịkandụla     knigaw
+\mb ńarị omen *// kotlen ikiri -lkEn asị -KEn -(dU)LE kniga  -W
+\ge man     one  *** small  bone  -prop woman -dim -loc    book.R -acc
+
+\tx boːdniken,         ehni              boːr,        gịa //  egdʒen ikirilken
+\mb boː -D    -nIkEn   e   -R(E)   -n(I) boː -R       gịa *// egdʒen ikiri -lkEn
+\ge give -prog -sim.cvb neg -nonfut -3sg  give -neg.cvb next  *** big     bone  -prop
+
+\tx hatlan                 biddi              ahịkandụla     boːdni.
+\mb hat  -(dU)LE -n(I)     bi -D    -RI       asị -KEn -(dU)LE boː        -n(I)
+\ge base -loc    -poss.3sg be -prog -impf.ptc woman -dim -loc    give.nonfut -3sg
+
+\ft
+\gr bone for 'rost' - calque from Sakha?
+
+\id S_AgreementBook11
+\ref elicited with Ija Krivoshapkina, sebjan170308_56:40
+\tx Egdʒeke      ahịkamaja      knigaw      taŋaddịdʒị,
+\mb egdʒen =kE   asị -KEn -mEjE kniga  -W   taŋ -E-D     -RIdʒI
+\ge big     =emph woman -dim -aug  book.R -acc read -ep-prog -ant.cvb
+
+\tx ostolla         neːdni.
+\mb stol    -(dU)LE neː       -n(I)
+\ge table.R -loc    put.nonfut -3sg
+
+\ft
+\nt elicited with Ekaterina Shadrina, sebjan190308_keti_25:50
+\qu
+\tx Egdʒen ikirilken   ahịkan   knigaw      ostolla         neːdni.
+\mb egdʒen ikiri -lkEn asị -KEn kniga  -W   stol    -(dU)LE neː       -n(I)
+\ge big     bone  -prop woman -dim book.R -acc table.R -loc    put.nonfut -3sg
+\ft
+\ru
+\ph
+\gr
+
+\id S_AgreementBook12
+\ref elicited with Ija Krivoshapkina, sebjan170308_57:20
+\tx Kotlečen    ahịkan   tar   egdʒeńdʒe    knigew      ostolla
+\mb kotlen -čEn asị -KEn tarak egdʒen -ńdʒE kniga  -W   stol    -(dU)LE
+\ge small  -dim  woman -dim dist  big     -aug    book.R -acc table.R -loc
+
+\tx neːdni.
+\mb neː       -n(I)
+\ge put.nonfut -3sg
+
+\ft
+\nt elicited with Ekaterina Shadrina, sebjan190308_keti_26:20
+\tx Kotlen ikirilken   ahịkan   knigaw      ostol   huːrelen
+\mb kotlen ikiri -lkEn asị -KEn kniga  -W   stol    huːre -(dU)LE -n(I)
+\ge small  bone  -prop woman -dim book.R -acc table.R tip    -loc    -poss.3sg
+
+\tx neːdni.
+\mb neː       -n(I)
+\ge put.nonfut -3sg
+
+\ft
+\ru на край стола
+
+\id S_AgreementSentences1a
+\ref elicited with Ekaterina Shadrina 19.02.08; sebjan190208_1:23:40
+\tx Ịlan bujusemŋe     omettu   egdʒen abịgaw         //nakatụ
+\mb ịlan bujus -E-mŋE  omettu   egdʒen abaga       -W   nakat -W
+\ge three  hunt  -ep-agnr together big     grandfather -acc bear  -acc
+
+\tx hupkunidnen.
+\mb hepken -RI  -tEn
+\ge catch  -pst -poss.3pl
+
+\ru Три охотника вместе поймали огромного медведя.
+\ph
+\nt unless there is also a word hupku 'catch' (from which hupkut 'learn' would be the resultative, as
+in begreifen), she just made an error here using this instead of hepkenidnen; this is how I
+analyze it
+
+\id S_AgreementSentences1b
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_
+\tx Hiː bekeččeːmudnen           ŋaːttịs?          Ehem,            biː haːmaj
+\mb hiː bekeč -čEn -W   -tEn      ŋaːt -RI  -s(I)     e   -R(E)   -m   biː samyj
+\ge 2sg  all    -dim  -acc -poss.3pl call   -pst -poss.2sg neg -nonfut -1sg 1sg  most.R
+
+\tx ịbgọlbụ     mịan gịalbụ      ŋaːttịw.
+\mb ịbgọ -L  -W   mịan gịa  -L  -W   ŋaːt -RI  -W
+\ge good     -pl -acc ten    friend -pl -acc call   -pst -poss.1sg
+
+\ft
+\ru Ты пригласил всех? Нет, я пригласил только 10 самых лучших друзей.
+\ph haːmaj = would seem to have been copied from Russian via Sakha
+\gr
+\nt sebjan280208_1_21:10 checked the form bekeččeːmudnen:
+\tx Biː bekeččeːndulednen           kempietu     boːrem.
+\mb biː bekeč -čEn -(dU)LE -tEn      konfeta -W   boː -R(E)   -m
+\ge 1sg  all    -dim  -loc    -poss.3pl sweet.R -acc give -nonfut -1sg
+
+\ru Я всем дала конфету.
+
+\id S_AgreementSentences1c
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_16:40
+\tx Hụnaːdʒ orelderidʒi      kụːnịntakan     enmi            bakaldarịn.
+\mb hụnaːdʒ orelde   -RIdʒI  kụːnị -ntEkEn   enen   -J       bak  -(E)ldE -RI  -n(I)
+\ge daughter    be.happy -ant.cvb scream     -mult.cvb mother -prfl.sg find -soc    -pst -poss.3sg
+
+\ft
+\ru Дочь приветствовала (вернувшуюся) мать радостным криком.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_29:20
+\tx Mụčụča      ejmi            hụnaːdʒan            oreldeče
+\mb mụčụ -čE    enen   -J       hụnaːdʒ -E-n(I)      orelde   -čE
+\ge return    -pf.ptc mother -prfl.sg daughter    -ep-poss.3sg be.happy -pf.ptc
+
+\tx kụːnịndʒị           bakaldan.
+\mb kụːnị -n  -DʒI        bak  -(E)ldE -n(I)
+\ge scream     -nr -ins.prfl.sg find -soc    -3sg
+
+\id S_AgreementSentences1d
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_21:10
+\tx Nọŋan nabdarča               //  tokerče            kurtkaw       tettin,
+\mb nọŋan nabdar          -čE    *// teker       -čE    kurtka   -W   tet    -RI  -n(I)
+\ge 3sg      tear.apart.intr -pf.ptc *** tear.intrns -pf.ptc jacket.R -acc put.on -pst -poss.3sg
+
+\tx anŋamtaw     škafla            neːrin.
+\mb anŋamta -W   škaf      -(dU)LE neː -RI  -n(I)
+\ge new      -acc cupboard.R -loc    put  -pst -poss.3sg
+
+\ft
+\ru Он надел разорванную куртку, а новую оставил в шкафу.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_30:25
+\tx Nọŋan tokerče            kurkaj            tettin,               anŋamtajị
+\mb nọŋan teker       -čE    kurtka   -J       tet    -RI  -n(I)     anŋamta -J
+\ge 3sg      tear.intrns -pf.ptc jacket.R -prfl.sg put.on -pst -poss.3sg new      -prfl.sg
+
+\tx škafla            emeːnin.
+\mb škaf      -(dU)LE emeːn -RI  -n(I)
+\ge cupboard.R -loc    leave  -pst -poss.3sg
+
+\id S_AgreementSentences2a
+\ref elicited with Ekaterina Shadrina 19.02.08; sebjan190208_1:25:45
+\tx Erek ahịkal       meːnduleːr           hụlańa jubkalbu
+\mb erek asị -KEn -L  meːn -(dU)LE -WUr     hụlańa jubka   -L  -W
+\ge prox woman -dim -pl refl  -loc    -prfl.pl red       skirt.R -pl -acc
+
+\tx garịtan.
+\mb ga   -RI  -tEn
+\ge take -pst -poss.3pl
+
+\ru Эти девочки купили себе красные юбки.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_24:15
+\tx Erek ahịkal       hụlańa jubkaŋgaːr                 gačal           /
+\mb erek asị -KEn -L  hụlańa jubka   -ŋ  -GE    -WUr     ga   -čE    -L  */
+\ge prox woman -dim -pl red       skirt.R -aln -desig -prfl.pl take -pf.ptc -pl ***
+
+\tx gar.
+\mb ga   -R(E)
+\ge take -nonfut.3pl
+
+\nt At first said "meːnduleːr hụlańa jubkaŋgar" but then agreed that the "meːnduleːr" is superfluous
+
+\id S_AgreementSentences2b
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_11:13
+\tx Maja họː egdʒenet     amandụkụj           ŋeːlli
+\mb Maja họː egdʒen =et   aman   -DUk(U) -J       ŋeːl    -RI
+\ge Maja very   big     =emph father -abl    -prfl.sg be.afraid -impf.ptc
+
+\tx bihin,            enmi            baraxsam      ajaːwrị       bihin.
+\mb bi -RI  -n(I)     enen   -J       baraxsan -W   ajaːw -RI       bi -RI  -n(I)
+\ge be -pst -poss.3sg mother -prfl.sg dear.Y   -acc love   -impf.ptc be -pst -poss.3sg
+
+\ft
+\ru Мая сильно боялась своего отца, а свою кроткую мать она очень любила.
+\ph
+\gr họː egdʒenet ŋeːlli = sil'no bojalas'; "fear" + ABL = Sakha influence?
+\nt sebjan280208_1_22:00 checked the form of IMPF.PTC + bi-, what the nuance is; there is no
+nuance of "okazyvaetsja"; she said that "amandukuj ŋeːllin" = nedavno, but "amandukuj ŋeːlli
+bihin" = davno. But I do wonder if it isn't rather that "ŋeːlli bihin" is a more permanent,
+durative form, vs. something more temporal
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_26:15
+\tx Maja meːn neːgiri         amandụkụj           ŋeːlgererin,
+\mb Maja meːn neːgi -RI       aman   -DUk(U) -J       ŋeːl    -Gr(E) -E-RI   -n(I)
+\ge Maja refl  scold  -impf.ptc father -abl    -prfl.sg be.afraid -hab   -ep-pst -poss.3sg
+
+\tx dʒuhutti         ejmi            ajaːwgararịn.
+\mb dʒuhut -RI       enen   -J       ajaːw -Gr(E) -RI  -n(I)
+\ge defend  -impf.ptc mother -prfl.sg love   -hab   -pst -poss.3sg
+
+\ru Мая ругающего отца боялась, а защищающую мать любила.
+\nt She had big problems translating this, at first wanted to leave out the adjectives, and when I
+suggested she say "xorošuju mat' ljubila" she said that would make it sound like there was
+another, bad mother.
+\qu I wonder why the me:n???
+
+\id S_AgreementSentences2c
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_17:57
+\tx Dʒọrmịpča             ọrọn          dʒụːlaj               bejen
+\mb dʒọrọm -E-B    -čE    ọrọn          dʒụː -(dU)LE -J       bej    -E-n(I)
+\ge steal       -ep-med -pf.ptc domestic.reindeer house    -loc    -prfl.sg self.Y -ep-poss.3sg
+
+\tx mụčụrịn.
+\mb mụčụ -RI  -n(I)
+\ge return    -pst -poss.3sg
+
+\ft
+\ru Олень, которого украли, сам вернулся домой.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_30:00
+\tx Dʒọrmịpča             ọrọn          bejen               dʒụːlaj
+\mb dʒọrọm -E-B    -čE    ọrọn          bej    -E-n(I)      dʒụː -(dU)LE -J
+\ge steal       -ep-med -pf.ptc domestic.reindeer self.Y -ep-poss.3sg house    -loc    -prfl.sg
+
+\tx mụčụn.
+\mb mụčụ     -n(I)
+\ge return.nonfut -3sg
+
+\id S_AgreementSentences2d
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_22:00
+\tx Họŋča      ahịkan   huglehnemi                horrin,
+\mb họŋ -čE    asị -KEn hukle -s(E)n -E-mI        hor -RI  -n(I)
+\ge cry    -pf.ptc woman -dim sleep -lim   -ep-cond.cvb go  -pst -poss.3sg
+
+\tx ińineddi                ahịkan   diskotekala       horrin.
+\mb ińin -E-D     -RI       asị -KEn diskoteka -(dU)LE hor -RI  -n(I)
+\ge laugh -ep-prog -impf.ptc woman -dim disco.R   -loc    go  -pst -poss.3sg
+
+\ft
+\ru Заплаканная девушка пошла спать, а смеющаяся пошла на дискотеку.
+\ph
+\nt elicited with Ija Krivoshapkina, sebjan100308_24:15
+\tx Họŋča      ahịkan   huglehnemi                herren,
+\mb họŋ -čE    asị -KEn hukle -s(E)n -E-mI        hor -R(E)   -n(I)
+\ge cry    -pf.ptc woman -dim sleep -lim   -ep-cond.cvb go  -nonfut -3sg
+
+\tx ińineddi                diskotekala       horren.
+\mb ińin -E-D     -RI       diskoteka -(dU)LE hor -R(E)   -n(I)
+\ge laugh -ep-prog -impf.ptc disco.R   -loc    go  -nonfut -3sg
+
+\id S_AgreementSentences3a
+\ref elicited with Ekaterina Shadrina 19.02.08; sebjan190208_1:26:19
+\tx Erek ịlan ọmọlgalńụn    ineŋu     tụːra     ewiːrit.
+\mb erek ịlan ọmọlga -L  -ńUn ineŋ -W   tụːra     ewiː -RI  -t(I)
+\ge prox three  son        -pl -com  day   -acc throughout.Y play  -pst -poss.1pl.in
+
+\ru С этими тремя мальчиками мы играли весь день.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_25:20
+\tx Erek ịlan ọmọlgọńụn mut    ineŋiw       kọŋdas ewirit.
+\mb erek ịlan ọmọlga -ńUn   mut    ineŋ -E-W    kọŋdas ewiː -RI  -t(I)
+\ge prox three  boy        -com    1pl.in day   -ep-acc through   play  -pst -poss.1pl.in
+
+\id S_AgreementSentences3b
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_12:55
+\tx Tịmana   obedle          ịaw      iridʒinni?     Biː dahlị            hilu
+\mb tịmịna obed    -(dU)LE ịak -W   iri  -DʒI -nrI biː dal      -RI       hil  -W
+\ge tomorrow   lunch.R -loc    what  -acc cook -fut  -2sg 1sg  be.tasty -impf.ptc soup -acc
+
+\tx iridʒim.
+\mb iri  -DʒI -m
+\ge cook -fut  -1sg
+
+\ft
+\ru Что приготовишь завтра на обед? Я приготовлю этот вкусный суп.
+
+\id S_AgreementSentences3c
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_18:55
+\tx Biː ittiw              omen ŋịn kụŋaw     kịkaddịwan.
+\mb biː it  -RI  -W        omen ŋịn kụŋa -W   kịk -E-D     -RI       -W   -E-n(I)
+\ge 1sg  see -pst -poss.1sg one  dog    child   -acc bite  -ep-prog -impf.ptc -acc -ep-poss.3sg
+\ft
+\ru Я увидел собаку, кусающую одного мальчика.
+\ph
+\gr kịkaddịwan = "kogda kusal" said Ekaterina Shadrina, but I think she's got that wrong
+\nt
+\nt elicited with Ija Krivoshapkina, sebjan100308_23:35
+\tx Omen ọmọlgọw   kịkaddị              ŋịnu     ittem.
+\mb omen ọmọlga -W   kịk -E-D     -RI       ŋịn -W   it  -R(E)   -m
+\ge one  boy        -acc bite  -ep-prog -impf.ptc dog    -acc see -nonfut -1sg
+
+\id S_AgreementSentences4a
+\ref elicited with Ekaterina Shadrina 19.02.08; sebjan190208_1:26:44
+\tx Erbečen   knigaw      biː ọːkta    eču               taŋna.
+\mb erroːčin kniga  -W   biː ọːk =DE  e   -RI  -W        taŋ -R
+\ge prox.qual  book.R -acc 1sg  when   =ptl neg -pst -poss.1sg read -neg.cvb
+
+\ru Такую книгу я никогда не читала.
+
+\id S_AgreementSentences4b
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_13:47
+\tx Erek hibiehej kiliebgu?   Ehni,             ammụ           tiniw
+\mb erek svežij  kilieb  =GU e   -R(E)   -n(I) aman   -W        tiniw
+\ge prox fresh.R  bread.R =q  neg -nonfut -3sg  father -poss.1sg yesterday
+
+\tx iripče           kiliepu      gača.
+\mb iri  -B   -čE    kilieb  -W   ga   -čE
+\ge cook -med -pf.ptc bread.R -acc take -pf.ptc
+
+\ft
+\ru Это свежий хлеб? Нет, папа в магазине нашел только вчерашнего хлеба.
+\ph said "herek" in the beginning, but I think that may just have been influenced by the hibiehej
+\gr
+\nt elicited with Ija Krivoshapkina, sebjan100308_21:50
+\tx Erek anŋamta kiliep? Ehni,             amaː      maγahịndụla
+\mb erek anŋamta kilieb  e   -R(E)   -n(I) amaː      magazin -(dU)LE
+\ge prox new      bread.R neg -nonfut -3sg  father.voc shop.R  -loc
+
+\tx tinipńun        kiliebu      bakča.
+\mb tiniw     =ńUn  kilieb  -W   bak  -čE
+\ge yesterday =restr bread.R -acc find -pf.ptc
+
+\id S_AgreementSentences4c
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_19:25
+\tx Minu         oreldenteken       omen ọmọlga bakaldarịn.
+\mb min     -W   orelde   -ntEkEn   omen ọmọlga bak  -(E)ldE -RI  -n(I)
+\ge 1sg.obl -acc be.happy -mult.cvb one  boy        find -soc    -pst -poss.3sg
+
+\ft
+\ru Меня радушно принял мальчик, (которому я дал книгу).
+\ph
+\gr
+\nt Said that she would have to make 2 sentences to make the relative clause, she wouldn't be able
+to make one sentence to express it.
+\gr
+\nt elicited with Ija Krivoshapkina, sebjan100308_25:05
+\tx Knigaw      boːdeŋu               ọmọlgọ minu         ịbgọt
+\mb kniga  -W   boː -DEŋ    -W        ọmọlga   min     -W   ịbgọ -Č
+\ge book.R -acc give -pst.ptc -poss.1sg boy          1sg.obl -acc good     -ins
+
+\tx bakaldan.
+\mb bak  -(E)ldE -n(I)
+\ge find -soc    -3sg
+
+\id S_AgreementSentences5a
+\ref elicited with Ekaterina Shadrina 19.02.08; sebjan190208_1:27:30
+\tx Erbečen   egdʒen nakatụ   biː ọːkta    eču               itte.
+\mb erroːčin egdʒen nakat -W   biː ọːk =DE  e   -RI  -W        it  -R
+\ge prox.qual  big     bear  -acc 1sg  when   =ptl neg -pst -poss.1sg see -neg.cvb
+
+\ru Такого большого медведя я никогда не видела.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_25:45
+\tx Erbečen   egdʒen abịgaw         ọːkta    eču               itte.
+\mb erroːčin egdʒen abaga       -W   ọːk =DE  e   -RI  -W        it  -R
+\ge prox.qual  big     grandfather -acc when   =ptl neg -pst -poss.1sg see -neg.cvb
+
+\id S_AgreementSentences5b
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_14:43
+\tx Tabaku         galị.       Erek tabaku         biː Dʒọkụːskajla
+\mb tabak     -W   ga   -LI      erek tabak     -W   biː Dʒọkụːskaj -(dU)LE
+\ge tobacco.R -acc take -imp.2sg prox tobacco.R -acc 1sg  Yakutsk          -loc
+
+\tx garịw.
+\mb ga   -RI  -W
+\ge take -pst -poss.1sg
+
+\ft
+\ru Бери табака. Этот (хороший) табак я купил в Якутске.
+
+\id S_AgreementSentences6a
+\ref elicited with Ekaterina Shadrina 19.02.08; sebjan190208_1:27:50
+\tx Erek kotlen ahịkan   hịgịːla       dʒoːr tụrakịw     bakča.
+\mb erek kotlen asị -KEn hịgịː -(dU)LE dʒoːr tụrakị -W   bak  -čE
+\ge prox small  woman -dim forest     -loc    two     crow       -acc find -pf.ptc
+\ru Эта маленькая девушка нашла 2 (черных) ворона в лесу.
+\ph
+\nt sebjan280208_1_25:15
+\tx Erek kotlekken    kụŋakan    hịgịːla       dʒoːr dụrbańa tụrakịw
+\mb erek kotlen -kkEn kụŋa -kkEn hịgịː -(dU)LE dʒoːr dụrbańa tụrakị -W
+\ge prox small  -dim  child   -dim  forest     -loc    two     white      crow       -acc
+
+\tx baktịn.
+\mb bak  -RI  -n(I)
+\ge find -pst -poss.3sg
+
+\ru Эта маленькая девочка нашла два белых ворона в лесу.
+
+\id S_AgreementSentences6b
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_15:14
+\tx Biː bujusimŋedu        hịrkam      eču               atịlaːra,       biː
+\mb biː bujus -E-mŋE  -DU  hịrkan -W   e   -RI  -W        atịlaː -R       biː
+\ge 1sg  hunt  -ep-agnr -dat knife    -acc neg -pst -poss.1sg sell.Y    -neg.cvb 1sg
+
+\tx nọŋandụlan            meːnek       boːriw.
+\mb nọŋan -(dU)LE -n(I)     meːnek       boː -RI  -W
+\ge 3sg      -loc    -poss.3sg for.nothing.Y give -pst -poss.1sg
+
+\ft
+\ru Я бедному охотнику нож подарил, не продал.
+\ph
+\nt Didn't know the Even word for "bednyj"
+\gr
+\nt elicited with Ija Krivoshapkina, sebjan100308_23:00
+\tx Biː bujuhimŋedu         hịrkam      aːnịrịw,               eču
+\mb biː bujus -E  -mŋE -DU  hịrkan -W   anịː      -RI  -W        e   -RI  -W
+\ge 1sg  hunt  -ep -agnr -dat knife    -acc give.as.gift -pst -poss.1sg neg -pst -poss.1sg
+
+\tx atịlaːr.
+\mb atịlaː -R
+\ge sell.Y    -neg.cvb
+
+\id S_AgreementSentences7a
+\ref elicited with Ekaterina Shadrina 19.02.08; sebjan190208_1:28:50
+\tx Nọŋan anŋamta batinkalbu       stol    herdelen                 neːdni.
+\mb nọŋan anŋamta botinka -L  -W   stol    herde  -(dU)LE -n(I)     neː       -n(I)
+\ge 3sg      new      shoes.R -pl -acc table.R bottom -loc    -poss.3sg put.nonfut -3sg
+\ru Он положил свои новые ботинки под (деревянный) стол.
+
+\id S_AgreementShirts1-2
+\ref elicited with Ekaterina Shadrina, sebjan050308_keti_44:35
+\tx Omen ahị čụlbańa ụrbaːkịw     tetutten,                       gịa ahị
+\mb omen asị čụlbańa ụrbaːk -E-W    tet    -U    -Č  -R(E)   -n(I) gịa asị
+\ge one  woman grue        dress.R   -ep-acc put.on -caus -res -nonfut -3sg  next  woman
+
+\tx hụlańaw.
+\mb hụlańa -W
+\ge red       -acc
+
+\ft
+\ru она одета
+\gr tetut = wear (clothes)
+
+\id S_AgreementShirts3
+\ref elicited with Ekaterina Shadrina, sebjan050308_keti_45:45
+\tx Hụlańa ụrbaːkịlkan ahị emnidʒi      čụlbańa ụrbaːkịlkan ahịńụn
+\mb hụlańa ụrbaːk -lkEn  asị em   -RIdʒI  čụlbańa ụrbaːk -lkEn  asị -ńUn
+\ge red       dress.R   -prop  woman come -ant.cvb grue        dress.R   -prop  woman -com
+
+\tx doroːbomattan.
+\mb dorobo  -mEČ -R(E)   -n(I)
+\ge hello.R -rec  -nonfut -3sg
+
+\ft
+\gr said that "po-nashemu" it would be "doroːbolastan", i.e. with Sakha verbalizer and reciprocal
+suffix, but Even Nonfuture and person-marking

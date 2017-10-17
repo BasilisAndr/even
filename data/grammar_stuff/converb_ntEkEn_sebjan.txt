@@ -1,0 +1,310 @@
+\_sh v3.0  984  Text
+
+\id aa0_grammatical explanations
+\ref Ija Krivoshapkina:
+\gr gantakan = prodolzhitel'nost', mnogokratnost', ganịkan = 1 raz vzjat'; kojeːčinteken = more intensive, definitely
+progressive or multiplicative, while kojeːtniken - can be a short look or a long time; the suffix has a primary meaning of
+Iterativity, povtornost', but sometimes can have a meaning of durativity, but the converb of goːn has basically lost this
+meaning, since the "saying" converbs are of course pretty much lexicalized, so goːniken and goːnteken are practically
+synonyms
+\tx
+\ref Ekaterina Shadrina
+\nt sebjan220208_8:33 I checked the form kọlantakan, and it would appear as if -ntEkEn is just a local synonymous form
+for the Simultaneous Converb -nIkEn; *kọltakan - ungrammatical; kọlantakan does not have a restrictive meaning
+(*oni tol'ko čaj p'jut); she tried to explain the difference between kọlantakan and kọladnịkan as a temporal one,
+"kọlantakan = sejchas, kọladnịkan = kogda-to, no nezavershennoe dejstvie"
+\tx Biː čaːjụ   kọlantakan        biddem                //  *biː čaːjụ   kọladnịkan
+\mb biː čaːj -W   kọl -E  -ntEkEn   bi -D    -R(E)   -m   *// biː  čaːj -W   kọl -E-D     -nIkEn
+\ge 1sg  tea.R  -acc drink -ep -mult.cvb be -prog -nonfut -1sg *** 1sg   tea.R  -acc drink -ep-prog -sim.cvb
+
+\tx biddem.
+\mb bi -D    -R(E)   -m
+\ge be -prog -nonfut -1sg
+\gr The sentence with kọlantakan is grammatical, the one with kọladnịkan isn't. So -nIkEn does not combine with "bi-".
+
+\id AgreementSentences1c
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_16:40
+\tx Hụnaːdʒ orelderidʒi      kụːnịntakan     enmi            bakaldarịn.
+\mb hụnaːdʒ orelde   -RIdʒI  kụːnị -ntEkEn   enen   -J       bakalda   -RI  -n(I)
+\ge daughter    be.happy -ant.cvb scream     -mult.cvb mother -prfl.sg meet.intr -pst -poss.3sg
+
+\ft
+\ru Дочь приветствовала (вернувшуюся) мать радостным криком.
+\ph
+
+\id AgreementSentences4c
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_19:25
+\tx Minu         oreldenteken       omen ọmọlga bakaldarịn.
+\mb min     -W   orelde   -ntEkEn   omen ọmọlga bakalda   -RI  -n(I)
+\ge 1sg.obl -acc be.happy -mult.cvb one  boy        meet.intr -pst -poss.3sg
+
+\ft
+\ru Меня радушно принял мальчик, (которому я дал книгу).
+
+\id AspectBall1
+\ref elicited with Ija Krivoshapkina, sebjan100308_50:15
+\tx Bejel      meːčiku    nọːdụmačantakan        ewidde.
+\mb bej -E-L   mjačik -W   nọːda -mEČ -E  -ntEkEn   ewiː -D    -R(E)
+\ge man -ep-pl ball.R  -acc throw    -rec  -ep -mult.cvb play  -prog -nonfut.3pl
+
+\id AspectKnocking3
+\ref elicited with Ija Krivoshapkina, sebjan080308_9:30
+\tx Bejel      ometeldʒi               tọmtantakan     saunala       iːre.
+\mb bej -E-L   omen -tEl   -DʒI        tọmta -ntEkEn   sauna -(dU)LE iː   -R(E)
+\ge man -ep-pl one  -distr -ins.prfl.sg knock   -mult.cvb sauna -loc    enter -nonfut.3pl
+
+\tx
+
+\id AspectKnocking4
+\ref elicited with Ija Krivoshapkina, sebjan080308_10:35
+\tx Bejel      adịrada          tọmtantakan     ometeldʒi               iːre.
+\mb bej -E-L   adịra       =DE  tọmta -ntEkEn   omen -tEl   -DʒI        iː   -R(E)
+\ge man -ep-pl several.times =ptl knock   -mult.cvb one  -distr -ins.prfl.sg enter -nonfut.3pl
+
+\tx
+
+\id AspectMPIPstimuli16
+\ref sebjan130308_4:55; judgement question for Ija Krivoshapkina
+\tx Ịlan bejel      tegečenteken                  ieltemeːnni            beju     kojeːtte.
+\mb ịlan bej -E-L   teg      -E-Č   -E  -ntEkEn   ielten -mEːn -RI       bej -W   kojeːt -R(E)
+\ge three  man -ep-pl sit.down -ep-res -ep -mult.cvb pass   -freq  -impf.ptc man -acc look.at -nonfut.3pl
+\ft
+\gr I asked whether one could say this instead of tegetniken, since surely the 3 guys must be sitting for quite a while, but she
+said that it doesn't sound correct, "naverno mozhno, no s natjazhkoj, kazhetsja, chto ne pravil'no"
+
+\id AspectPictures04_C2b
+\ref elicited with Ija Krivoshapkina, sebjan100308_56:00
+\tx Ahịkanńụn   ọmọlgọ ukčemmečenteken          gịrkadda.
+\mb asị -KEn -ńUn ọmọlga   ukčen -mEČ -E  -ntEkEn   gịrka -D    -R(E)
+\ge woman -dim -com  boy          tell   -rec  -ep -mult.cvb    -prog -nonfut.3pl
+
+\tx
+
+\id AspectSweets02
+\ref sebjan130308_4:00, judgement question for Ija Krivoshapkina
+\tx Ahị ometeldʒi               kempietu     nụgantakan           digeteldʒi
+\mb asị omen -tEl   -DʒI        konfeta -W   nụg    -E  -ntEkEn   digen -tEl   -DʒI
+\ge woman one  -distr -ins.prfl.sg sweet.R -acc take.out -ep -mult.cvb four  -distr -ins.prfl.sg
+
+\tx neːketten.
+\mb neː -kEČ -R(E)   -n(I)
+\ge put  -mult -nonfut -3sg
+\ft
+\gr The original sentence she gave had the form nụwkadnịkan, i.e. I analysed it with a Multiplicative suffix, and I wanted to
+know if one could also use the Multiplicative converb with the same meaning; she said one could say the above, and it is
+similar in meaning to the form she gave; here the Multiplicative suffix has a repetitive and/or durative meaning
+
+\id AspectSweets04
+\ref elicited with Ija Krivoshapkina, sebjan100308_49:00
+\tx Ahị kempietu     gantakan       dʒebketten.
+\mb asị konfeta -W   ga   -ntEkEn   dʒeb -kEČ -R(E)   -n(I)
+\ge woman sweet.R -acc take -mult.cvb eat   -mult -nonfut -3sg
+
+\tx
+
+\id ConverbsComplex2.19
+\ref sebjan130308_5:25; judgement question for Ija Krivoshapkina
+\tx Čajụ     kọlantakan           tegettiw,                  omen bej dʒụː hatlịn
+\mb čaːj -W   kọl -E     -ntEkEn   teg      -E-Č   -RI  -W   omen bej dʒụː hat  -(dU)LI -n(I)
+\ge tea.R  -acc drink -3sg.Y -mult.cvb sit.down -ep-res -pst -acc one  man house    base -prol   -poss.3sg
+
+\tx tutten.
+\mb tut -R(E)   -n(I)
+\ge run -nonfut -3sg
+\ft
+\gr mozhno, bez natjazhkoj, converb has meaning of durativity
+
+\id ConverbsMPIPstimuli01
+\ref elicited with Ekaterina Shadrina 20.02.08; sebjan200208_56:20
+\tx Nọŋartan čajụ     kọlantakan        bidde.
+\mb nọŋartan čaːj -W   kọl -E  -ntEkEn   bi -D    -R(E)
+\ge 3pl         tea.R  -acc drink -ep -mult.cvb be -prog -nonfut.3pl
+
+\tx
+
+\id ConverbsMPIPstimuli02
+\ref elicited with Ekaterina Shadrina , sebjan220208_10:09: checked the form irinteken:
+\tx nọŋan dʒeblew       irinteken,     ikeːdden
+\mb nọŋan dʒeb -LE -W   iri  -ntEkEn   ikeː -D    -R(E)   -n(I)
+\ge 3sg      eat   -nr -acc cook -mult.cvb sing  -prog -nonfut -3sg
+
+\ft
+\ru Она готовит пищу и поет
+\gr But can also say "nọŋan dʒeblew iriniken ikeːdden", the same thing as irinteken
+
+\id Krivoshapkina_AE_childhood_091
+\ref 10:16; AEK
+\tx Dʒe,  irek-tarak ïarï    ọːča       bihenni,        enek ọːča       bihenni,        teːmi
+\mb dʒe   erek tarak ïarï    ọː  -čE    bi -R(E)   -nrI enek ọː  -čE    bi -R(E)   -nrI teːmi
+\ge well.Y prox dist  illness.Y become -pf.ptc be -nonfut -2sg sore become -pf.ptc be -nonfut -2sg therefore
+
+\tx hoŋŋomdetniken          gọlụ      kaltakannị        tọbọr goːnteken      emie
+\mb henŋem -DE -Č  -nIkEn   gọl    -W   kaltak -R(E)   -nrI tawụr   goːn -ntEkEn   emie
+\ge knee    -vr -res -sim.cvb main.log -acc split  -nonfut -2sg this      say   -mult.cvb also.Y
+
+\tx torewgererem                     [ee kireke],    tar   ahịdụk.
+\mb tore  -W     -Gr(E) -R(E)   -m   ee  kire  =kE   tarak asị -DUk(U)
+\ge speak -advrs -hab   -nonfut -1sg eh  dirty =emph dist  woman -abl
+
+\ft And so I became ill in various ways, various sores, therefore you chop wood kneeling, and again that woman would scold
+me/says bad things at me.
+\ru Вот стало всякой болезнюь, с болезню стала, поэтому ты колешь дрова стоя на коленях вот, опять эта женщина на
+меня говорит (ругает).
+\ph
+\gr henŋemde = kneel down, henŋemdet = kneel; in general, there is no difference in meaning between goːniken and
+goːnteken, though here her use of goːnteken may have been prompted by the fact that the woman spoke a lot, for a long
+time, i.e. there may be a nuance of iterativity or durativity here
+\nt
+
+\id Krivoshapkina_AE_childhood_116
+\ref 13:23; AEK
+\tx Etem           horre        dʒụːlaj               goːnteken,     očossolowu
+\mb e   -t(E) -m   hor -R       dʒụː -(dU)LE -J       goːn -ntEkEn   očos         -čE    -(dU)LE -W
+\ge neg -fut  -1sg go  -neg.cvb house    -loc    -prfl.sg say   -mult.cvb be.stubborn.Y -pf.ptc -loc    -poss.1sg
+
+\tx dʒe,  nehiːle horuken.
+\mb dʒe   nehiːle hor -WkEn
+\ge well.Y barely.Y go  -caus.nonfut.3pl
+
+\ft When I became stubborn, saying that I won't go home, they barely sent me off.
+\ru Когда я заупрямилась, что не пойду домой, еле отправили.
+\ph
+\gr The correct person marking on the Perfect Participle should be just -W, but here in Sebjan they frequently say -wu, in
+general, there is no difference in meaning between goːniken and goːnteken, though here her use of goːnteken may have
+been prompted by the fact that she was stubborn and repeated and repeated that she wouldn't go home, i.e. there may be
+a nuance of iterativity here
+\nt
+
+\id Krivoshapkin_Segen_020
+\ref 4:56
+\tx Aerodrom    buolla  tara  ịŋadụ  ịŋalị     girkepče,          mọstawčin
+\mb aerodrom    buolla  tarak ịŋa -DU  ịŋa -(dU)LI girke  -B   -čE    mọsta -G(E)čIn
+\ge aerodrome.R dp.Y    dist  stone  -dat stone  -prol   spread -med -pf.ptc floor.Y -sml
+
+\tx ọːpča,          gọl    ọjlịn                 kụńadʒịn,             tar   ịŋaw
+\mb ọː  -B   -čE    gọl    ọj    -(dU)LI -n(I)     kụńa         -DʒI -n(I) tarak ịŋa -W
+\ge become -med -pf.ptc main.log surface -prol   -poss.3sg run(of.animals) -fut  -3sg  dist  stone  -acc
+
+\tx igin  oŋkečel         goːniken,    oo, ịbgọt ebit       dʒe   goːnteken      mut
+\mb iŋin oŋke -čE    -L  goː -nIkEn   oo  ịbgọt ebit       dʒe   goːn -ntEkEn   mut
+\ge etc.Y pour  -pf.ptc -pl say  -sim.cvb oh  good      it.seems.Y well.Y say   -mult.cvb 1pl.in
+
+\tx orelderit.
+\mb orelde   -RI  -t(I)
+\ge be.happy -pst -poss.1pl.in
+\ft Our aerodrom (was) covered in stone, made like a floor, it will run over the logs (??), they said that they poured stones
+and such (this might have been tar), we were glad that it was good.
+\ru Наш аэкодром устлан камнем, сделано как полы, побежит по бревнам, сказали что это вылили камни (м.б. имел ввиду
+асфальт), мы обрадовались, что хорошо.
+\ph ịŋalịtịn - but the -tin is just stutter
+\gr no difference goːniken and goːnteken
+\nt In the dictionary, "gọl" is translated as the 'main log that maintains the fire', and Ekaterina Shadrina has been using it as a
+general word for "log". Ija Krivoshapkina however says that it means "wood, wooden".
+
+\id Krivoshapkin_Segen_030
+\ref 6:10
+\tx Ee, mut    bihep              goːnteken,     biːńun   toːremu               dọldarịdʒụr,  omen bej
+\mb ee  mut    bi -R(E)   -p      goːn -ntEkEn   biː =ńUn toːren -W   -W        dọlda -RIdʒI  -L  omen bej
+\ge eh  1pl.in be -nonfut -1pl.in say   -mult.cvb 1sg  =emph word    -acc -poss.1sg hear    -ant.cvb -pl one  man
+
+\tx torehnen
+\mb tore  -s(E)n      -E-n(I)
+\ge speak -lim.nonfut -ep-3sg
+\ft Saying "yes, we are", having heard just my words, one man started to speak:
+\ru Говоря, да мы есть, услышав только мое слово, один человек заговорилл:
+\ph
+\gr no difference goːniken or goːnteken
+
+\id Krivoshapkin_Segen_038
+\ref 7:13
+\tx Oo, Dmitrij Krivošapkin goːnteken,    hiː ọːk emenni,           goːnteken.
+\mb oo  Dmitrij Krivošapkin goːn =t(E)kEn hiː ọːk em   -R(E)   -nrI goːn =t(E)kEn
+\ge oh  Dmitrij Krivoshapkin say   =restr   2sg  when   come -nonfut -2sg say   =restr
+\ft Saying "Oh, Dmitrij Krivoshapkin, when did you arrive".
+\ru ДК говоря, когда ты приехал, говоря.
+\ph
+\gr
+\nt
+
+\id Krivoshapkin_Segen_040
+\ref 7:23
+\tx Tarak dʒe:  ee erek nọŋan uže      komandirovkala          emče,       goːnteken,    [stammers]
+\mb tarak dʒe   ee erek nọŋan uže      komandirovka    -(dU)LE em   -čE    goːn =t(E)kEn stammers
+\ge dist  well.Y eh prox 3sg      already.R business.trip.R -loc    come -pf.ptc say   =restr   stammers
+
+\tx ịbgọt     bihit                goːnteken,    orelder              delbi.
+\mb ịbgọ -Č  bi -RI  -t(I)        goːn =t(E)kEn orelde          -r   delbi
+\ge good     -ins be -pst -poss.1pl.in say   =restr   be.happy.nonfut -3pl very.Y
+
+\ft So he "He's already come on a business trip", saying "we lived well"; they were very glad.
+\ru Так он: "Он уже приехал на командировку", говоря, "мы хорошо жили/были", говоря, они очень обрадовались.
+\ph
+
+\id Krivoshapkin_Segen_044
+\ref 7:45
+\tx Tarịt dʒe   [stammers] orelderep                egdʒen, hiː komandirovkala          emče
+\mb tarịt dʒe   stammers   orelde   -R(E)   -p      egdʒen  hiː komandirovka    -(dU)LE em   -čE
+\ge then    well.Y stammers   be.happy -nonfut -1pl.in big      2sg  business.trip.R -loc    come -pf.ptc
+
+\tx bihenni,        goːnteken      [laughs]        nekre.
+\mb bi -R(E)   -nrI goːn -ntEkEn   *laugh -R       nek -R(E)
+\ge be -nonfut -2sg say   -mult.cvb ***    -neg.cvb do  -nonfut.3pl
+
+\ft Then saying "we are very glad, you came on a business trip", they did.
+\ru Потом "мы вот очень рады, ты приехал в командировку", говоря, стали делать.
+\ph
+\gr no difference goːniken or goːnteken
+
+\id Reciprocals05
+\ref elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_1:06:55
+\tx Ahịl    ometeldʒi               ementeken          skamejkala       keːnterewur
+\mb asị -L  omen -tEl   -DʒI        em   -E  -ntEkEn   skamejka -(dU)LE keːntere -WUr
+\ge woman -pl one  -distr -ins.prfl.sg come -ep -mult.cvb .R  -loc    torso     -prfl.pl
+
+\tx dʒawrịdʒụr        tewre.
+\mb dʒaw      -RIdʒI  -L  teg      -R(E)
+\ge catch.hold -ant.cvb -pl sit.down -nonfut.3pl
+\tx
+
+\id Zaxarova_JP_pear_story_005
+\ref 0:37; JPZ
+\tx Họːjakeː!  Torre         tikčekkelbu                igin  anan        ïrastantakan.
+\mb họːja =kE   tor   -(dU)LE tik  -čE    -kkEn -L  -W   iŋin anan        ïrastaː -ntEkEn
+\ge many     =emph earth -loc    fall -pf.ptc -dim  -pl -acc etc.Y carefully.Y clean.Y   -mult.cvb
+
+\ft Very many! Those that fell to the ground he carefully cleans.
+\ru Очень много! Старательно очищая упавшие на землю.
+\ph
+\gr The use of the 'Multiplicative converb' here has a multiplicative meaning, iterative, cleaning many pears.
+\nt
+
+\id Zaxarova_JP_pear_story_006
+\ref 0:43; JPZ
+\tx [ńọkadịt]     Ịadʒị,        igin  bụlaːtčị          dahantakan.
+\mb ńọka -DI   -Č  ịak -DʒI        iŋin bïlaːt   -DʒI        das   -E  -ntEkEn
+\ge Sakha   -adjr -ins what  -ins.prfl.sg etc.Y kerchief.Y -ins.prfl.sg cover -ep -mult.cvb
+
+\ft [EKK: in Sakha (i.e. JPZ used the Sakha word for 'clean')] JPZ: Covering them with his what, his kerchief.
+\ru Своим этим, платком, закрывая.
+\ph dọhantakan
+\gr The use of the 'Multiplicative converb' here has a multiplicative meaning, iterative, cleaning many pears.
+\nt
+
+\id Zaxarova_JP_pear_story_007
+\ref 0:47; JPZ
+\tx Tarịt [platok]   kozalkamaja        ńarịmaja   ieltendʒiggeren,              delbi
+\mb tarịt platok     koza   -lkEn -mEjE ńarị -mEjE ielten -D    -Gr(E)      -n(I) delbi
+\ge then    kerchief.R goat.R -prop -aug  man     -aug  pass   -prog -hab.nonfut -3sg  very.Y
+
+\tx kojeːčinteken            ieltengeren.
+\mb kojeːt -E       -ntEkEn   ielten -Gr(E)      -E-n(I)
+\ge look.at -ep -mult.cvb pass   -hab.nonfut -ep-3sg
+
+\ft Then a big man with a (big) goat was walking past, staring a lot he walked past.
+\ru Потом проходил большой мужчина с (большой) козой очень смотря (на груши) проходил.
+\ph
+\gr sometimes the augmentative suffix is carried over to the proprietive object, so the goat doesn't necessarily have to big;
+kojeːčinteken = more intensive, definitely progressive or multiplicative, while kojeːtniken - can be a short look or a long
+time; the combination of Progressive and Habitual can have a plain Past tense meaning (says Ija Krivoshapkina), though it
+would seem as if the Habitual has a general narrative past tense meaning, because it occurs very frequently in the pear
+stories

@@ -1,0 +1,420 @@
+\_sh v3.0  1101 Text
+
+\id Neustroev_PD_hebdjenek_000
+\ref Recorded on 25 March 2009 in Sebjan-Küöl by Brigitte Pakendorf, in the office of the klub, in the morning. Only he and BP were in
+the klub, and it was very quiet. We discussed what he would tell in Russian, then BP switched on the recording equipment and he
+spoke; when he finished with one topic, BP paused the recording equipment; so there are different topics in one big file, which were cut
+into separate sound and video files
+\qu ????? transcribed in ELAN by BP in 2009 and translated orally into Russian by Ija Vasil'evna Krivoshapkina in 2009; glossed by BP in 2010.
+Speaker abbreviation = PDN
+\ref Petr Dmitrievich Neustroev was 68 years old at the time of recording, srednee obrazovanie, is trained as a carpenter, worked as a horse
+and reindeer herder, is a master in making sleds and lassos; his origins are from Tompo, both parents from Tompo, but he grew up on
+some priiskax in the Verxojansk region, and has been living in Sebjan for 40 years - has nevertheless retained some Tompo dialectal
+features
+
+\id Neustroev_PD_hebdjenek_001
+\tx Ah, xorošo! Hewdʒinek     dʒugulin,               diː?
+\mb ah  xorošo  hebdʒen -ČEk dʒugu -(dU)LI -n(I)     diː
+\ge ah  good.R   funny    -nr   about  -prol   -poss.3sg ptl.Y
+
+\ft Oh, good! About the hewdjinek, right?
+\ph
+\nt 'hewdʒinek' literally means 'fun', but it is the name of the major Even holiday
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:08.440
+\ELANParticipant BP
+\ru
+
+\id Neustroev_PD_hebdjenek_002
+\tx Aha.
+\mb aha
+\ge aha
+
+\ELANBegin 00:00:08.440
+\ELANEnd 00:00:09.550
+\ELANParticipant PDN
+\ru
+
+\id Neustroev_PD_hebdjenek_003
+\tx Hebdʒenek     dʒulle       dʒuleptukun,                   gọraptụkụn                   biče      ebit.
+\mb hebdʒen -ČEk dʒul -(dU)LE dʒul -(E)rEp -DUk(U) -n(I)     gọrụ -(E)rEp -DUk(U) -n(I)     bi -čE    ebit
+\ge funny    -nr   front -loc    front -adjr   -abl    -poss.3sg far      -adjr   -abl    -poss.3sg be -pf.ptc it.seems.Y
+
+\ft The hedjinek has existed since a long time.
+\ELANBegin 00:00:09.550
+\ELANEnd 00:00:18.130
+\ELANParticipant
+\ru Праздник (веселье) раньше издавна был.
+
+\id Neustroev_PD_hebdjenek_004
+\tx Ịamị goːmi          hebdʒenek     gerbe tar   ebehel    ọkaːttụk    noŋe...  ee, hontekiten         ọkaːtla
+\mb ịamị goːn -mI       hebdʒen -ČEk gerbe tarak ewen -SEl ọkaːt -DUk(U) nöŋüö ee  honte -kI   -tEn   ọkaːt -(dU)LE
+\ge why      say   -cond.cvb funny    -nr   name  dist  Even -pl  river    -abl    next.Y    eh  other -adjr -distr river    -loc
+
+\tx biwrečel             ebit,      ebehel.
+\mb bi -Gr(E) -čE -L     ebit       ewen -SEl
+\ge be -hab   -pf.ptc -pl it.seems.Y Even -pl
+\ft Because the so-called hebdjenek, the Evens used to live on different rivers.
+\ph
+\ELANBegin 00:00:18.130
+\ELANEnd 00:00:31.210
+\ELANParticipant
+\ru Потому что веселье это эвены жили по разным речкам.
+
+\id Neustroev_PD_hebdjenek_005
+\tx Kọlọbụra Neustroefal,     Haxarofal,     Stepanofal      de     goːniwčin.
+\mb χolobura      Neustroev -E-L   Zaxarov -E-L   Stepanov -E-L   dʒe   goːn -RI       -G(E)čIn
+\ge for.example.Y  Neustroev -ep-pl Zaxarov -ep-pl Stepanov -ep-pl well.Y say   -impf.ptc -sml
+
+\ft For example, as they say the Neustroevs, Zaxarovs, Stepanovs.
+\ph
+\gr (file 02_quest_2010, 43:00) goːniwčin is a very usual way of saying 'like so and so said', one can also say goːnimdes 'kak govorili'; kak ja
+skazala = goːniwčimu, kak ty skazala = goːniwčihni, kak on skazal = goːniwčinni, 1pl = goːniwčinti, 2pl = goːniwčihnen, 3pl =
+goːniwčinten; kak ja skazala = goːnimdehu, 2sg = goːnimdehes, 3sg = goːnimdehen, 
+\nt i.e. each family lived at a separate river
+\ELANBegin 00:00:31.210
+\ELANEnd 00:00:37.150
+\ELANParticipant
+\ru Например, как говорят Неустроевы, Захаровы, Степановы.
+
+\id Neustroev_PD_hebdjenek_006
+\tx Omen semja    tala          biwreče.
+\mb omen semja    tarak -(dU)LE bi -Gr(E) -čE
+\ge one  family.R dist  -loc    be -hab   -pf.ptc
+\ft One family was there.
+\ELANBegin 00:00:37.150
+\ELANEnd 00:00:40.130
+\ELANParticipant
+\ru Одна семья там была.
+
+\id Neustroev_PD_hebdjenek_007
+\tx Tarịt dʒe   kụlịn naːddakan...                      ọrọntọn               adụkụn biwren          mịa...
+\mb tarịt dʒe   kụlịn naː -D    -REk -E-n(I)            ọrọn          -tEn      adụkụn bi -Gr(E) -n(I) mịan
+\ge then    well.Y mosquito  hit  -prog -cond.cvb -ep -poss.3sg domestic.reindeer -poss.3pl little     be -hab   -3sg  ten
+
+\tx dʒo... dʒoːr ńama,  omen ńama,  tadụkta          adụkụn ọrọlkahal                biwrečel.
+\mb dʒoːr dʒoːr ńama   omen ńama   tarak -DUk(U) =DE  adụkụn ọrọn          -lkEn -SEl bi -Gr(E) -čE -L
+\ge two     two     hundred one  hundred dist  -abl    =ptl little     domestic.reindeer -prop -pl  be -hab   -pf.ptc -pl
+\ft Then when the mosquitoes hit, they had few reindeer, 200, 100, even less than that.
+\ELANBegin 00:00:40.130
+\ELANEnd 00:00:53.200
+\ELANParticipant
+\ru Потом когда наступала комариная пора, у них было мало оленей, двести, сотня, могло быть меньше.
+
+\id Neustroev_PD_hebdjenek_008
+\tx Dʒe   teːmi    tar   ebehel    kụlịn naːddakan                         čakụwračal                  ebit,
+\mb dʒe   teːmi    tarak ewen -SEl kụlịn naː -D    -REk -E-n(I)            čak   -U    -Gr(E) -čE -L     ebit
+\ge well.Y therefore dist  Even -pl  mosquito  hit  -prog -cond.cvb -ep -poss.3sg gather -caus -hab   -pf.ptc -pl it.seems.Y
+
+\tx egdʒen kuntekelken      torre.
+\mb egdʒen kuntek -E  -lkEn tor   -(dU)LE
+\ge big     field  -ep -prop earth -loc
+\ft Well, therefore the Evens gathered in a place with a big field when the mosquitoes appeared.
+\ph
+\gr čakUwračal - definitely not causative, rather the opposite, intransitivizing
+\ELANBegin 00:00:53.200
+\ELANEnd 00:01:00.580
+\ELANParticipant
+\ru Поэтому эвены собирались когда комар наступал в месте с большой поляной.
+
+\id Neustroev_PD_hebdjenek_009
+\tx Ee, no.. tuge   ukčemmekkerečel               ebit,      tadụ     bakaldadʒip               goːniken.
+\mb ee       tugeni ukčen -mEČ -Gr(E) -čE -L     ebit       tarak -DU  bak  -(E)ldE -DʒI -p      goːn -nIkEn
+\ge eh       winter tell   -rec  -hab   -pf.ptc -pl it.seems.Y dist  -dat find -soc    -fut  -1pl.in say   -sim.cvb
+\ft In winter they discussed that they would meet there (lit. we will meet there, saying).
+\ELANBegin 00:01:00.580
+\ELANEnd 00:01:06.360
+\ELANParticipant
+\ru Зимой договаривались что там встретимся.
+
+\id Neustroev_PD_hebdjenek_010
+\tx Dʒe   tala          čakụrịdʒụr        hontekiteːnduk            torduk        emnikehel          dʒe
+\mb dʒe   tarak -(dU)LE čak   -U    -RIdʒI -L   honte -kI   -tEn   -DUk(U) tor   -DUk(U) em   -nIkEn   -SEl dʒe
+\ge well.Y dist  -loc    gather -caus -ant.cvb -pl other -adjr -distr -abl    earth -abl    come -sim.cvb -pl  well.Y
+
+\tx tadụ     čakụrịdʒụr        čakụrịdʒụr,       hin     họːjal... họːjalbụwračal.
+\mb tarak -DU  čak   -U    -RIdʒI -L   čak   -U    -RIdʒI -L   sin     họːja -L  họːja -LbE -Gr(E) -čE -L
+\ge dist  -dat gather -caus -ant.cvb -pl gather -caus -ant.cvb -pl a.bit.Y many     -pl many     -vr  -hab   -pf.ptc -pl
+
+\ft Well, there they gathered, coming from various places, they gathered and gathered and became a bit more.
+\ph
+\ELANBegin 00:01:06.360
+\ELANEnd 00:01:16.400
+\ELANParticipant
+\ru Там там собравшись с разных мест приедя собравшись собравшись их становилось больше немножко.
+
+\id Neustroev_PD_hebdjenek_011
+\tx Dʒe   ńama   igin  bej biwreče          ebit,      tadụkta          adụkụn.
+\mb dʒe   ńama   iŋin bej bi -Gr(E) -čE    ebit       tarak -DUk(U) =DE  adụkụn
+\ge well.Y hundred etc.Y man be -hab   -pf.ptc it.seems.Y dist  -abl    =ptl little
+\ft A hundred people used to be (there), or a bit less.
+\ELANBegin 00:01:16.400
+\ELANEnd 00:01:22.380
+\ELANParticipant
+\ru Сотня бывала и меньше этого.
+
+\id Neustroev_PD_hebdjenek_012
+\tx Baγar    tadụkta          họːja biwreče          bidʒin,       tar   ịak taŋča       haːdʒịn,     ọttọn
+\mb baγar    tarak -DUk(U) =DE  họːja bi -Gr(E) -čE    bi -DʒI -n(I) tarak ịak taŋ  -čE    haː -DʒI -n(I) ọttọn
+\ge perhaps.Y dist  -abl    =ptl many     be -hab   -pf.ptc be -fut  -3sg  dist  what  count -pf.ptc know -fut  -3sg  dp.Y
+
+\tx bi   abagawụ             ukčennidʒin                   tačịn       biwreče.
+\mb biː abaga       -W        ukčen -RI       -Č  -n(I)     tarọːčịn bi -Gr(E) -čE
+\ge 1sg  grandfather -poss.1sg tell   -impf.ptc -ins -poss.3sg dist.qual      be -hab   -pf.ptc
+
+\ft Perhaps there were more than that, now you cannot count them (who counted can know), but like my grandfather used to tell, it was
+like that.
+\ph
+\gr biwreče bidʒin = they don't say this here in Sebjan, they say bičeːdʒin 'perhaps, probably'
+\ELANBegin 00:01:22.380
+\ELANEnd 00:01:33.250
+\ELANParticipant
+\ru Наверно и больше этого, кто это знает (кто считавший может знать - сейчас их уже не посчитаешь), как рассказывал мой дедушка так
+было.
+
+\id Neustroev_PD_hebdjenek_014
+\tx Dʒe   tala          dʒe   ọrọm               hịrrịdʒụr,  keːbeːl,      keːbeːlu           ọːnịkahal,     ịtịkị
+\mb dʒe   tarak -(dU)LE dʒe   ọrọn          -W   hịr -RIdʒI -L   keːbel         keːbel         -W   ọː -nIkEn   -SEl ịtịkị
+\ge well.Y dist  -loc    well.Y domestic.reindeer -acc milk  -ant.cvb -pl reindeer.cheese reindeer.cheese -acc make  -sim.cvb -pl  mixer
+
+\tx gerbe ačča biwreče,         tar   ịtịkị gerbe hijimkin.
+\mb gerbe ačča bi -Gr(E) -čE    tarak ịtịkị gerbe hińimkin
+\ge name  neg    be -hab   -pf.ptc dist  mixer       name  sin
+\ft And there they milked their reindeer and made kebel (a kind of milk made of reindeer milk), they didn't have so-called itiki (mixers),
+those so-called itiki were a sin.
+\ELANBegin 00:01:33.250
+\ELANEnd 00:01:43.160
+\ELANParticipant
+\ru Подоив оленей, делая кэбэл, мутовка тогда не было, мутовка это грех.
+
+\id Neustroev_PD_hebdjenek_015
+\tx Tiek tar   ńọka.. ńọxa ..  ńọkadụk    gapča            ịtịkị, ịtịkị gerbe, iti    ọrọn
+\mb tiek tarak ńọka   ńọka *.. ńọka -DUk(U) ga   -B   -čE    ịtịkị  ịtịkị gerbe  iti    ọrọn
+\ge now  dist  Sakha     Sakha   *** Sakha   -abl    take -med -pf.ptc mixer        mixer       name   this.Y domestic.reindeer
+
+\tx okemmen                 ečin      ịtịkịmị,      keńeli biwreče.
+\mb okeń -W   -E-n(I)      erroːčin ịtịkị -mI       keńeli bi -Gr(E) -čE
+\ge milk  -acc -ep-poss.3sg prox.qual  mix         -cond.cvb bad     be -hab   -pf.ptc
+
+\ft Now that has been taken from the Sakha, the so-called itiki, if you mix reindeer milk like this it is bad.
+\ELANBegin 00:01:43.160
+\ELANEnd 00:01:57.450
+\ELANParticipant
+\ru Сейчас это взято с якутов когда вот болтаешь этим это было плохо.
+
+\id Neustroev_PD_hebdjenek_016
+\tx Ọrọnda             delbi  ọhọllọngarača,        bejde    mụlgụnnị,    ọrọn          mụlgụnnị
+\mb ọrọn          =DE  delbi  ọhọllọn -Gr(E) -čE    bej =DE  mụlgan -n(I)     ọrọn          mụlgan -n(I)
+\ge domestic.reindeer =ptl very.Y be.injured.Y  -hab   -pf.ptc man =ptl spirit   -poss.3sg domestic.reindeer spirit   -poss.3sg
+
+\tx emie.
+\mb emie
+\ge also.Y
+
+\ft Reindeer got hurt, and a person's spirt, the reindeer's spirit, too.
+\ph
+\gr
+\nt This was the consequence of using the ịtịkị.
+\ELANBegin 00:01:57.450
+\ELANEnd 00:02:03.300
+\ELANParticipant
+\ru И олени травмировались,
+
+\id Neustroev_PD_hebdjenek_017
+\tx Tar   ịtịkịwčịn    ečin      ọːwrača,          teːmi    ịtịkịw     esten       ajaːwra,       keːbeːl       gerbe
+\mb tarak ịtịkị -G(E)čIn erroːčin ọː  -Gr(E) -čE    teːmi    ịtịkị -W   e   -R(E)   ajaːw -R       keːbel         gerbe
+\ge dist  mixer       -sml      prox.qual  become -hab   -pf.ptc therefore mixer       -acc neg -nonfut love   -neg.cvb reindeer.cheese name
+
+\tx biwreče.
+\mb bi -Gr(E) -čE
+\ge be -hab   -pf.ptc
+\ft It became like a mixer, that is why they don't like the itiki, there used to be kerbel.
+\ph
+\nt Life turned all upside down, became all mixed-up, when one used the itiki, that is why they didn't like it, they preferred to make kerbel,
+which does not need to be mixed/whipped, it is a dish that turns sour by itself.
+\ELANBegin 00:02:03.300
+\ELANEnd 00:02:09.530
+\ELANParticipant
+\ru Как итики становилось, поэтому не любят итики, был кэрбэл. (вся жизнь стало как процесс взбалтывания, взбалтывалось, поэтому
+предпочитали кэрбэл, который не надо бзбалтать, само собой делается)
+
+\id Neustroev_PD_hebdjenek_018
+\tx Keːbeːlu           ọːwračal,            ọrọn          ukeńdʒin           ńan   dʒe   ce... ọrọm
+\mb keːbel         -W   ọː -Gr(E) -čE -L     ọrọn          okeń -Č  -n(I)     ńaːn dʒe         ọrọn          -W
+\ge reindeer.cheese -acc make  -hab   -pf.ptc -pl domestic.reindeer milk  -ins -poss.3sg and    well.Y       domestic.reindeer -acc
+
+\tx maːrịdʒụr   tadụ     ịawračal...             gụlụm      dururidʒur             tadụ     dʒe
+\mb maː -RIdʒI -L   tarak -DU  ịa    -Gr(E) -čE -L     gụlụn -W   dur  -U    -RIdʒI -L   tarak -DU  dʒe
+\ge kill -ant.cvb -pl dist  -dat do.what -hab   -pf.ptc -pl fire      -acc burn -caus -ant.cvb -pl dist  -dat well.Y
+
+\tx hirgekkerečel.
+\mb hirgeč -Gr(E) -čE -L
+\ge bless   -hab   -pf.ptc -pl
+\ft They made kebel from reindeer milk and then they killed a reindeer, and having lit a fire they said a blessing.
+\ELANBegin 00:02:09.530
+\ELANEnd 00:02:23.990
+\ELANParticipant
+\ru Делали кэбэл из оленьего молока, убив оленя что-то делали, разведя костер делали молитву/заклинания.
+
+\id Neustroev_PD_hebdjenek_019
+\tx Dʒe   erew      dʒụganịw     ajịt       dʒụgụčụkalị,           ọrọrbụt
+\mb dʒe   erek -W   dʒụganị -W   aj   -E-Č   dʒụgụd  -Č  -WkEn -LI      ọrọn          -L  -W   -t(I)
+\ge well.Y prox -acc summer       -acc good -ep-ins spend.summer -res -caus -imp.2sg domestic.reindeer -pl -acc -poss.1pl.in
+
+\tx er   tor   mụhannị,      ọkaːt mụhannị,      ere  ŋeːrin ńaːńịn munteki            ịbgat
+\mb erek tor   mụhan -n(I)     ọkaːt mụhan -n(I)     erek ŋeːrin nịanịn  mun        -t(E)kI ịbgọ -Č
+\ge prox earth spirit  -poss.3sg river    spirit  -poss.3sg prox bright   sky         1pl.ex.obl -all    good     -ins
+
+\tx kojeːtli        goːniken      goːniken.
+\mb kojeːt -LI      goːn -nIkEn   goːn -nIkEn
+\ge look.at -imp.2sg say   -sim.cvb say   -sim.cvb
+\ft "Let us spend this summer well, our reindeer... the spirit of this earth, the spirit of this river, this bright sky look down at us well".
+\ph tor mụhụnnị, ọkaːt mụhọnnị
+\gr dʒụganị, dʒụgụd = not Sebjan words, of course, eastern words
+\ELANBegin 00:02:23.990
+\ELANEnd 00:02:40.930
+\ELANParticipant
+\ru Этим летом дай хорошо пережить, дух наших оленей, дух земли, дух реки, светлое небо на нас посмотри.
+
+\id Neustroev_PD_hebdjenek_020
+\tx Haːmaj haːwdị bej tadụ     dʒe   tiekerep     ịat      goːmi          tadụ     atkrytịaw
+\mb samyj   hagdị   bej tarak -DU  dʒe   tiek -(E)rEp ịak -Č  goːn -mI       tarak -DU  otkrytie  -W
+\ge most.R  old       man dist  -dat well.Y now  -adjr   what  -ins say   -cond.cvb dist  -dat opening.R -acc
+
+\tx aːŋawrača.
+\mb aːŋa -Gr(E) -čE
+\ge open   -hab   -pf.ptc
+\ft The oldest person there opened (the ceremony), to say it with today's words.
+\ELANBegin 00:02:40.930
+\ELANEnd 00:02:52.600
+\ELANParticipant
+\ru Самый старший человек там сейчасними словами сказать он открытие открывал.
+
+\id Neustroev_PD_hebdjenek_021
+\tx Dʒe,  dʒe   tara  amardadụkụn                dʒe   dʒebgerečel.
+\mb dʒe   dʒe   tarak amar   -gIdE -DUk(U) -n(I)     dʒe   dʒep -Gr(E) -čE -L
+\ge well.Y well.Y dist  behind -part -abl    -poss.3sg well.Y eat   -hab   -pf.ptc -pl
+
+\ft Well, after that they ate.
+\ELANBegin 00:02:52.600
+\ELANEnd 00:02:56.890
+\ELANParticipant
+\ru После этого кушали.
+
+\id Neustroev_PD_hebdjenek_022
+\tx Ọtụːw,    egdʒem      ọtụːw     durridʒur,       taraw      ereːli   dʒe.
+\mb ọtụː -W   egdʒen -W   ọtụː -W   dur  -RIdʒI -L   tarak -W   ereːliː dʒe
+\ge fire.Y    -acc big     -acc fire.Y    -acc burn -ant.cvb -pl dist  -acc around    well.Y
+\ft They lit a big fire and (ate) around that.
+\ELANBegin 00:02:56.890
+\ELANEnd 00:03:00.350
+\ELANParticipant
+\ru Разжигя большой костер, вокруг него.
+
+\id Neustroev_PD_hebdjenek_023
+\tx Dʒe   tadụ     heːdʒeŋnečelde,               dịlmakkaračalda,
+\mb dʒe   tarak -DU  heːdʒen -Gr(E) -čE -L     =DE  dịlmat -Gr(E) -čE -L     =DE
+\ge well.Y dist  -dat dance     -hab   -pf.ptc -pl =ptl fight    -hab   -pf.ptc -pl =ptl
+
+\tx maːwụtlaːwračalda,               ńan   ụːčakat             ńamnịwračal             ebit.
+\mb maːwụt -LE -Gr(E) -čE -L     =DE  ńaːn ụːčak       -E-Č   ńamnị -Gr(E) -čE -L     ebit
+\ge lasso     -vr -hab   -pf.ptc -pl =ptl and    riding.reindeer -ep-ins gallop   -hab   -pf.ptc -pl it.seems.Y
+
+\ft Well, and then they danced the hedje, and they fought (wrestled), and they threw lassos and they raced their riding reindeer.
+\ELANBegin 00:03:00.350
+\ELANEnd 00:03:13.350
+\ELANParticipant
+\ru И танцевали хэджэ, и боролись и бросали мавут и на верховых оленях соревновались.
+
+\id Neustroev_PD_hebdjenek_024
+\tx Ŋiː ụːčakan                  ajaŋat         ńan   dʒulle       emdʒin          goːnikehel.
+\mb ŋiː ụːčak       -E-n(I)      ańaŋ -E  -Č  ńaːn dʒul -(dU)LE em   -DʒI -n(I) goːn -nIkEn   -SEl
+\ge who   riding.reindeer -ep-poss.3sg fast   -ep -ins and    front -loc    come -fut  -3sg  say   -sim.cvb -pl
+
+\ft Whose reindeer is faster and will arrive first.
+\ELANBegin 00:03:13.350
+\ELANEnd 00:03:19.930
+\ELANParticipant
+\ru Чей верховой быстрее и раньше придет.
+
+\id Neustroev_PD_hebdjenek_025
+\tx Dʒe,  ewinek      gerbe tadụk       gapča            tar,  tiekerlen                   bihni,          ewinek      gerbe.
+\mb dʒe   ewiː -ČEk gerbe tarak -DUk(U) ga   -B   -čE    tarak tiek -(E)rEp -(dU)LE -n(I)  bi -R(E) -n(I)  ewiː -ČEk gerbe
+\ge well.Y play  -nr   name  dist  -abl    take -med -pf.ptc dist  now  -adjr   -loc -poss.3sg be -nonfut -3sg play  -nr   name
+
+\ft Well, the name 'ewinek' comes from that (i.e. all the games they played), it exists until today, the ewinek.
+\ph
+\ELANBegin 00:03:19.930
+\ELANEnd 00:03:25.410
+\ELANParticipant
+\ru Эвинек взят оттуда, до сих пор есть, этот эвинек.
+
+\id Neustroev_PD_hebdjenek_026
+\tx Ńọkadịt       goːmi          tar   ïsïaχ,                  ọttọn tiek ịak... tadụk       ïla,   tadụk
+\mb ńọka -DI   -Č  goːn -mI       tarak ïsïaχ                   ọttọn tiek ịak    tarak -DUk(U) ïla    tarak -DUk(U)
+\ge Sakha   -adjr -ins say   -cond.cvb dist  summer.solstice.festival.Y dp.Y      now  what     dist  -abl    since.Y dist  -abl
+
+\tx ebehki         goːpče           ebit       ewinek      goːniken.
+\mb erek -skI      goːn -B   -čE    ebit       ewiː -ČEk goːn -nIkEn
+\ge prox -advb.all say   -med -pf.ptc it.seems.Y play  -nr   say   -sim.cvb
+
+\ft In Sakha it is called ysyax, it's been called ewinek since then until now.
+\ph
+\gr tadụk ïla = temporal and spatial meaning, but not causal
+\ELANBegin 00:03:25.410
+\ELANEnd 00:03:39.230
+\ELANParticipant
+\ru По-якутски сказать это ысыах, с тех пор назван эвинек. с тех пор до нашего времени называется
+
+\id Neustroev_PD_hebdjenek_027
+\tx Tar   tiekte    bihni,          tiːk irildu      emie   ọːdʒịn,      ewinek      gerbe.
+\mb tarak tiek =DE  bi -R(E) -n(I)  tiek  ireli  -DU  emie   ọː  -DʒI -n(I) ewiː -ČEk gerbe
+\ge dist  now  =ptl be -nonfut -3sg now   summer -dat also.Y become -fut  -3sg  play  -nr   name
+
+\ft That still exists, this summer it will be again, the ewinek.
+\ELANBegin 00:03:39.230
+\ELANEnd 00:03:43.090
+\ELANParticipant
+\ru Сейчас есть, сейчас этим летом тоже будет.
+
+\id Neustroev_PD_hebdjenek_028a
+\tx Ele          ọːdʒịn?
+\mb erek -(dU)LE ọː  -DʒI -n(I)
+\ge prox -loc    become -fut  -3sg
+\ft It will be here?
+\ELANBegin 00:03:43.090
+\ELANEnd 00:03:44:600
+\ELANParticipant BP
+\ru
+
+\id Neustroev_PD_hebdjenek_028b
+\tx Ọːdʒịn,      ee.
+\mb ọː  -DʒI -n(I) ee
+\ge become -fut  -3sg  eh
+\ft Will be, yes.
+\ELANBegin 00:03:44:600
+\ELANEnd 00:03:47.290
+\ELANParticipant PDN
+
+\id Neustroev_PD_hebdjenek_029
+\tx Anŋantan     ọːwran.
+\mb anŋan -tEn   ọː  -Gr(E) -n(I)
+\ge year   -distr become -hab   -3sg
+\ft It is (held) every year.
+\ELANBegin 00:03:47.290
+\ELANEnd 00:03:49.522
+\ELANParticipant
+\ru Каждый год бывает.
+
+
+\ELANMediaURL file:///c:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/old_Sebjan_files_to_be_done/Neustroev_hewdjinek/Neustroev_PD_hewdjinek.wav
+\ELANMediaMIME audio/x-wav
+
+\id Neustroev_PD_hebdjenek_030
+\ref
+\tx
+
+\id Neustroev_PD_hebdjenek_031
+\ref
+\tx

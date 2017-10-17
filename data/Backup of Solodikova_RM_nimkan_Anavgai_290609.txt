@@ -1,0 +1,595 @@
+\_sh v3.0  1238 Text
+
+\id Solodikova_RM_nimkan_001
+\tx
+\mb
+\ge
+\ft 29 June 2016, Anavgai, Raisa Maksimovna Solodikova will tell a fairy tale in Even.
+\ph
+\gr
+\nt ВОРОНА И Пастух
+\ev
+\ru
+\ELANBegin 00:00:02.590
+\ELANEnd 00:00:19.080
+\ELANParticipant BP
+
+\id Solodikova_RM_nimkan_003
+\tx Omneken        urkeːn  kusčimŋe          ọrọlbi                        kusčiddin.
+\mb omen -REkEn    hurkeːn kusči        -mŋE ọrọn          -E-L   -J       kusči        -D    -RI  -n(I)
+\ge one  -iter.adv boy      herd.reindeer -agnr domestic.reindeer -ep-pl -prfl.sg herd.reindeer -prog -pst -poss.3sg
+\ft Once a boy, a herder, herded his reindeer.
+\ev
+\ru Однажды парень-пастух своих оленей пас.
+\ELANBegin 00:00:19.080
+\ELANEnd 00:00:23.590
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_004
+\tx Nọŋan isaγla              kusčiddʒoːtten                         ọrọlbi
+\mb nọŋan isa   -K(Ag) -(dU)LE kusči        -D    -WEːČ -R(E)   -n(I) ọrọn             -E-L   -J
+\ge 3sg      larch -coll  -loc    herd.reindeer -prog -gnr    -nonfut -3sg  domestic.reindeer    -ep-pl -prfl.sg
+
+\ft He herded his reindeer in a larch forest.
+\ev
+\ru Он в лиственном лесу всегда пас.
+\ELANBegin 00:00:23.590
+\ELANEnd 00:00:30.280
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_005
+\tx Ọrọlni                      okreli         ọŋkaddʒoːtte.
+\mb ọrọn          -L  -n(I)     okre   -(dU)LI ọŋka -D    -WEːČ -R(E)
+\ge domestic.reindeer -pl -poss.3sg tundra -prol   feed    -prog -gnr    -nonfut
+\ft His reindeer were grazing in the tundra.
+\ev
+\ru Его олени на тундре паслись.
+\ELANBegin 00:00:30.280
+\ELANEnd 00:00:38.460
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_006
+\tx Ńan   ọŋkanni            elgelen                 egdʒeːmker  ịakịta  išurin.
+\mb ńaːn ọŋka -n  -n(I)     elge     -(dU)LE -n(I)  egdʒen -mkEr hịakịta isu  -RI  -n(I)
+\ge and    feed    -nr -poss.3sg interval -loc -poss.3sg big     -aug  tree        grow -pst -poss.3sg
+\ft And in the middle of the pasture there grew a huge larch.
+\ev
+\ru И вот посреди (посередине) пастбища выросла большая лиственница.
+\ELANBegin 00:00:38.460
+\ELANEnd 00:00:45.540
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_007
+\tx Tarak atlan                 neγ...      nelke        irelče      bišin.
+\mb tarak at     -(dU)LE -n(I)  nelkeni      nelkeni      irel -čE    bi -RI  -n(I)
+\ge dist  bottom -loc -poss.3sg early.spring early.spring melt -pf.ptc be -pst -poss.3sg
+\ft At its base there was a thawed patch in early spring.
+\ev
+\ru У его подножья ранней весной была проталина.
+\ELANBegin 00:00:45.540
+\ELANEnd 00:00:54.230
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_008
+\tx Urkeːn  ńan   tadụ     tegridʒi         ịakịta  attụn               ńamalčiddʒoːttan.
+\mb hurkeːn ńaːn tarak -DU  teg      -RIdʒI  hịakịta at     -DU  -n(I)     ńam -L    -Č  -D    -WEːČ -R(E)   -n(I)
+\ge boy      and    dist  -dat sit.down -ant.cvb tree        bottom -dat -poss.3sg warm -inch -res -prog -gnr    -nonfut -3sg
+
+\ft The boy sat down there and warmed (himself) at the base of the tree.
+\ph
+\gr ńamalčidʤoːtten = on grelsja; nọŋan ńamallan = on sogrelsja; ńamalidʤoːttan = on sogrevalsja; ńamalčidʤoːtten = on grelsja vsegda; bi ńamallam = ja sogrelsja, bi ńamalčiram, bi
+ńamalčiddam, bi ńamalčidʤoːttam
+\ev
+\ru Парень, усевшись под лиственницей, грелся. 
+\ELANBegin 00:00:54.230
+\ELANEnd 00:01:03.130
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_009
+\tx Omneken        ńan   tačịn        tar  ńamalčidmi                          desčišnin                  ńan   uklešnin.
+\mb omen -REkEn    ńaːn tarrọːčịn tar  ńam -E-L     -Č  -E-D     -mI       desči -s(E)n -RI  -n(I)     ńaːn hukle -s(E)n -RI  -n(I)
+\ge one  -iter.adv and    dist.qual       thus warm -ep-inch -res -ep-prog -cond.cvb lie    -lim   -pst -poss.3sg and    sleep -lim   -pst -poss.3sg
+\ft One day warming himself like that he lay down and fell asleep.
+\ev
+\ru Однажды вот пока так он грелся, лег и уснул.
+\ELANBegin 00:01:03.130
+\ELANEnd 00:01:11.461
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_010
+\tx Ńan   ịamị dọldan      ịakụt      dọːn      deːtledʒi          uŋnen            kailnan.
+\mb ńaːn ịamị dọlda -n(I) ịak =(W)UttE dọː -n(I) deːtle -DʒI        uŋ -R(E)   -n(I) kailan -R(E)   -n(I)
+\ge and    ptl      hear    -3sg  what  =indef   land   -3sg  wing    -ins.prfl.sg do  -nonfut -3sg  rustle -nonfut -3sg
+
+\ft And suddenly he hears something has landed, is rustling with its wings.
+\ph
+\gr
+\nt doːn -сел
+\ev
+\ru И вот он слышит кто-то сел, (своими) крыльями делает, шуршит. 
+\ELANBegin 00:01:11.461
+\ELANEnd 00:01:24.656
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_011
+\tx Ičisendʒidden                ịamị tala          tụrakị, egdʒeːmker  tụrakị dọːrịn.
+\mb it  -s(E)n -D    -R(E)   -n(I) ịamị tarak -(dU)LE tụrakị  egdʒen -mkEr tụrakị dọː -RI  -n(I)
+\ge see -lim   -prog -nonfut -3sg  ptl      dist  -loc    crow        big     -aug  crow       land   -pst -poss.3sg
+
+\ft He glanced, why, a crow, a huge crow had landed.
+\ph
+\gr
+\nt
+\ev
+\ru Глянул (один раз) и вот там туда ворона, большая ворона, села.
+\ELANBegin 00:01:24.656
+\ELANEnd 00:01:32.820
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_012
+\tx Ńan   tar  desčiːdden               ịasalị        nipkutniken.
+\mb ńaːn tar  desči -D    -R(E)   -n(I) ịašal -J       nipke -Č  -nIkEn
+\ge and    thus lie    -prog -nonfut -3sg  eyes     -prfl.sg close -res -sim.cvb
+\ft And he lay there, keeping his eyes closed.
+\ph very long i in desčiiiiiiiiidden
+\ev
+\ru И вот он лежит, глаза закрыв.
+\ELANBegin 00:01:32.820
+\ELANEnd 00:01:37.162
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_013
+\tx Ńan   ịamị dọldan      tụrakị bejgečin     torellen.
+\mb ńaːn ịamị dọlda -n(I) tụrakị bej -G(E)čIn tore  -L    -R(E)   -n(I)
+\ge and    ptl      hear    -3sg  crow       man -sml      speak -inch -nonfut -3sg
+\ft And suddenly he hears, the crow starts to speak like a human.
+\ph dọldun
+\gr doldan turaki bejgečin torellen = slyshit chto vorona zagovorila po-chelovecheski; Q: could she have said: "doldan turaki bejgecin torecewen"? A: yes, uslyshala razgovor, chto vorono
+po-chelovecheskij govorila; torečewen = chto vorona govorila po-chelovecheski; Q: doldan turaki bejgecin toreriwen A: yes, sejchas razgovarivaet; 
+\ev
+\ru ... как человек заговорил.
+\ELANBegin 00:01:37.162
+\ELANEnd 00:01:43.766
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_014
+\tx "Erek bej tiniwde        ečintitte      desčiddin,                 ịamịwụt     kokečede         urečinni."
+\mb erek  bej tiniw     =DE  erroːčin =tIt desči -D    -RI  -n(I)     ịamị =(W)UttE koke -čE    =DE  ureːčin -n(I)
+\ge prox  man yesterday =ptl prox.qual  =ptl lie    -prog -pst -poss.3sg why      =indef   die  -pf.ptc =ptl similar   -poss.3sg
+
+\ft "This man was lying here just like this yesterday, for some reason he seems to have died."
+\ph
+\gr kokeče/ńoːmeče is usual for dead people; difference kokeče and ńoːmeče: ńoːmeče when died of natural causes, dolgo bolel i umer; kokeče = neozhidanno, mozhet tragicheski pogib
+\ev
+\ru "Вот этот человек вчера также лежал, почему-то на мертвого похож".
+\ELANBegin 00:01:43.766
+\ELANEnd 00:01:51.943
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_015
+\tx "Tiːk dʒaːlbị         gelnedʒim,                 guːndʒim       ńan   tịmịna eweski         degdewur."
+\mb tiek   dʒaː -L  -J       gel      -nE     -DʒI -m   goːn -DʒI -m   ńaːn tịmịna erek -skI      deg -DE -WUr
+\ge now    friend -pl -prfl.sg look.for -intent -fut  -1sg say   -fut  -1sg and    tomorrow   prox -advb.all fly -purp.cvb -prfl.pl
+\ft "Now I'll go to look for my friends, I'll tell them to fly here tomorrow."
+\ev
+\ru "Сейчас товарищей своих пойду искать, скажу им (чтобы) завтра сюда прилететь".
+\ELANBegin 00:01:51.943
+\ELANEnd 00:02:00.744
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_016
+\tx "Amtadawur               amtattawur                    nekre."
+\mb amta  -DE -WUr           amta  -Č  -DE -WUr           nek -R(E)
+\ge taste -purp.cvb -prfl.pl taste -res -purp.cvb -prfl.pl do  -nonfut
+\ft "They want to taste (the human) in general".
+\ph amtuttawur - just ogovorka
+\gr according to Rimma, with whom I checked questions in June 2016, the repetition of the verb is simply a correction, not intentional, ogovororilasj
+\ev
+\ru "Один раз попробовать, вообще попробовать хотят".
+\ELANBegin 00:02:00.744
+\ELANEnd 00:02:05.307
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_017
+\tx Ńan   deγellin.
+\mb ńaːn deg -E-L     -RI  -n(I)
+\ge and    fly -ep-inch -pst -poss.3sg
+\ft And it flew off.
+\ev
+\ru И он улетел.
+\ELANBegin 00:02:05.307
+\ELANEnd 00:02:07.270
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_018
+\tx Tịmịn  ńan   urkeːn  ńanda      ọrọrbị                   tala          ilberin,             ọŋkụčidʒillin.
+\mb tịmịna ńaːn hurkeːn ńaːn =DE  ọrọn          -L  -J       tarak -(dU)LE ilbe  -RI  -n(I)     ọŋka -U    -Č  -D    -L  -RI  -n(I)
+\ge tomorrow   and    boy      and    =ptl domestic.reindeer -pl -prfl.sg dist  -loc    chase -pst -poss.3sg feed    -caus -res -prog -pl -pst -poss.3sg
+\ft The next day the boy again chased his reindeer there, started to graze them.
+\ph
+\gr ọŋkụčidʒillin = pasti nachinaju; orol oŋkawaːtta = oleni pasutsja; bi orom oŋkučiddam, ja im daju popastisj; oŋkuttam = ja dolgo im daju pastisj
+\ev
+\ru На завтра парень оленей там опять пригнал, стал кормить-пасти.
+\ELANBegin 00:02:07.270
+\ELANEnd 00:02:15.031
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_019
+\tx Meːnken   ịakịta  attụn               tačịnda           desčisnin.
+\mb meːn =kEn hịakịta at     -DU  -n(I)     tarrọːčịn =DE  desči -s(E)n -RI  -n(I)
+\ge refl  =ptl tree        bottom -dat -poss.3sg dist.qual       =ptl lie    -lim   -pst -poss.3sg
+\ft He himself lay down like that at the bottom of the tree.
+\ev
+\ru А сам под лиственницей также лег.
+\ELANBegin 00:02:15.031
+\ELANEnd 00:02:20.270
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_020
+\tx Ńan   ịamị ertetkemen     bisidʒur       tụrakịleː       ọːja  dọːritan.
+\mb ńaːn ịamị ertetkemen     bi -RIdʒI -L   tụrakị -L  =eː  họːja dọː -RI  -tEn
+\ge and    ptl      a.little.later be -ant.cvb -pl crow       -pl =emph many     land   -pst -poss.3pl
+
+\ft And after a short while (having lived a short while), a LOT of crows landed.
+\ph
+\gr ertetkemen = nemnogo pogodja, cherez nekotoroe vremja; ertetken biseken; *erte = no; 
+\ev
+\ru И вот некоторое время (немного времени проживя) прошло много ворон село (приземлились). 
+\ELANBegin 00:02:20.270
+\ELANEnd 00:02:26.796
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_021
+\ref
+\tx Egdʒeŋeten           tụrakịŋatan          ujiγla          gar... garla          dọːrin,            aːnašị      ergile.
+\mb egdʒen -ŋ  -tEn      tụrakị -ŋ  -tEn      oj  -g   -(dU)LE gar    gar    -(dU)LE dọː -RI  -n(I)     haːn -E  =sI   her    -gIdE -(dU)LE
+\ge big     -aln -poss.3pl crow       -aln -poss.3pl top -adj -loc    branch branch -loc    land   -pst -poss.3sg other -ep =emph bottom -part -loc
+\ft Their big crow land on the top branch, the others lower down.
+\ph
+\gr egʤeŋeten turakiŋatan = bolshaja vorona ixnjaja, samaja bolshaja, glavnaja vorona; Q: mozhno skazatj "egʤeŋun ŋiŋun"? A: but she misunderstood, repeated "mozhno skazatj, egʤenun
+ŋinun; but then she said "egʤeŋun ŋinaŋun" mozhno, nasha bolshaja sobaka; egʤen turaki = simply bolshaja vorona, whereas egʤeŋeten turakiŋatan = samaja bolshaja v etoj gruppe voron
+\nt gar - сучок
+\ev
+\ru Большая ворона (их) на верхний сучок села, а остальные же снизу.
+\ELANBegin 00:02:26.796
+\ELANEnd 00:02:42.344
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_022
+\tx Ńan   tụrakị egdʒeŋeten           guːnni:    "Atịkan, i     urelnumi                buːdellon,      buːdellon       čọŋkaŋasan".
+\mb ńaːn tụrakị egdʒen -ŋ  -tEn      goːn -n(I) atịkan   i     urel     -ńUn -J       boːdel -Con     boːdel -Con     čọŋka -ŋE     -sEn
+\ge and    crow       big     -aln -poss.3pl say   -3sg  old.woman  and.R children -com  -prfl.sg leg(s)  -acc.3sg leg(s)  -acc.3sg peck      -pol.imp -poss.2pl
+
+\ft And the head crow said "Old woman, you and your children peck his legs, his legs".
+\ph
+\gr turaki egʤeŋeten = glavnaja vorona; pro cheloveka govorjat: ile egʤeŋeten? = gde glavnyj ixnij; in 29 it's turakiL egʤeŋeten, but there's no difference, in both cases it's glavnaja vorona
+\nt urelnumi - со своими детьми; čoŋkeŋasen - вы будете клевать
+\ev
+\ru И вот ворона большая говорит: "Старуха, а ты со своими детьми ноги, ноги ему клюй".
+\ELANBegin 00:02:42.344
+\ELANEnd 00:02:53.966
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_023
+\tx "Bisi      aγdịčandʒị          dịllọn".
+\mb biː =sI   hagdị -čEn -DʒI        dịl -Con
+\ge 1sg  =emph old     -dim  -ins.prfl.sg head  -acc.3sg
+
+\ft "And I as the oldest (will pick) his head".
+\ph
+\gr aγdičanʤi = ja po starshinstvu, pro sebja; *not malenkij staryj; can also say: aγdiʤi; but one can also use it when speaking to others: iː aγdičanʤi tartaki teγli (though she did say several
+times that aγdičanʤi is pro sebja); also say: noːčenʤi, po mladshinstvu (?); ty po-starshe menja = i aγdičan minduk bišenni; so maybe the diminutive is because of this attenuative meaning, 'a
+bit older'
+\nt aγdičandʒi - как старый
+\ev
+\ru "Я же как старый голову его"
+\ELANBegin 00:02:53.966
+\ELANEnd 00:02:56.683
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_024
+\tx Ńan   tačịn        tar  dọːritan,          tụrakịkaja     dịllan             dọːrin,            dʒaːlnịsị            buːdellonde.
+\mb ńaːn tarrọːčịn tar  dọː -RI  -tEn      tụrakị -kEːjE dịl -(dU)LE -n(I)  dọː -RI  -n(I)     dʒaː -L  -n(I)     =sI   boːdel -Con     =DE
+\ge and    dist.qual       thus land   -pst -poss.3pl crow       -aug    head  -loc -poss.3sg land   -pst -poss.3sg friend -pl -poss.3sg =emph leg(s)  -acc.3sg =ptl
+\ft And like that they landed, the big crow landed on his head, and its friends at his legs.
+\ph
+\gr budellonde = ogovorka, should be budellende, na ego nogi
+\nt
+\ev
+\ru И вот так они сели, большой ворон сел на голову, а его товарищи на его ноги.
+\ELANBegin 00:02:56.683
+\ELANEnd 00:03:07.148
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_025
+\tx Čọŋkadawur               kimniten.
+\mb čọŋka -DE -WUr           kim     -RI  -tEn
+\ge peck      -purp.cvb -prfl.pl prepare -pst -poss.3pl
+
+\ft They prepared to peck.
+\ev
+\ru Клевать приготовились.
+\ELANBegin 00:03:07.148
+\ELANEnd 00:03:09.618
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_026
+\tx Ńan   tụrakị ajmakan     teγridʒi        ịašallon       čọŋkasandaji                    nekrin.
+\mb ńaːn tụrakị aj   -mEkEn teg      -RIdʒI  ịašal -Con     čọŋka -s(E)n -DE -J             nek -RI  -n(I)
+\ge and    crow       good -ints  sit.down -ant.cvb eyes     -acc.3sg peck      -lim   -purp.cvb -prfl.sg do  -pst -poss.3sg
+
+\ft And the crow sat down well and was about to peck his eyes.
+\ev
+\ru
+\ELANBegin 00:03:09.618
+\ELANEnd 00:03:17.743
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_027
+\tx Ńan   urkeːn  ịrkasamnịn         tegenderin.
+\mb ńaːn hurkeːn ịrka -s(E)n -mnIn    tegende          -RI  -n(I)
+\ge and    boy      scream -lim   -dur.cvb fall.on.backside -pst -poss.3sg
+
+\ft And the boy shouted and sat up.
+\ph
+\gr irkasamnin = s krikom; poka on krichal on sel; even though the two examples of -mnin in this skazka are the only examples in my Bystraja corpus (June 2016), Rimma said they were in
+general use, not archaic or standard Even or anything; tegenderin = bystrenko sel; tegenderiwu = ja upala na zhopu; ilandariwu = ja trizhdy chto-to sdelal; stal bystro = ilamalčiriwu;
+tegemelčirin = bystro sel; tegenderin = here it's not the right word, because tegenderin means "na zhopu upal" and he's lying down (though perhaps she meant to use it to express the
+unexpectedness, the fright the boy got...); *urenderin = net, there is only tegenderin; so even though it's clearly linked to teg- "sit down" I decided to keep it as a single lexical entry
+\ev
+\ru И вот парень, вскрикнув, сел.
+\ELANBegin 00:03:17.743
+\ELANEnd 00:03:25.426
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_028
+\tx Ịamị tụrakịl    ńan   ittidʒur        mergemur         beririten,            ọllitan                        entekeje.
+\mb ịamị tụrakị -L  ńaːn it  -RIdʒI -L   mergen  -WUr     beriː -RI  -tEn      ọl              -RI  -tEn      entekeːje
+\ge ptl      crow       -pl and    see -ant.cvb -pl thought -prfl.pl lose   -pst -poss.3pl become.frightened -pst -poss.3pl strong
+\ft And the crows saw that and lost conscience (their thought), they got a huge fright.
+\ev
+\ru И вот вороны вот это увидели и свой разум(память) потеряли, испугались сильно.
+\ELANBegin 00:03:25.426
+\ELANEnd 00:03:35.982
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_029
+\tx Ńan   ịamị tụrakịl    egdʒeŋeten           guːnnị:  "iː ịadụ   munu            tačịmụr    ọlụkačinni,                  ịasčinni
+\mb ńaːn ịamị tụrakị -L  egdʒen -ŋ  -tEn      goːn -n(I) hiː ịak -DU  mun        -W   tarrọːčịn ọl              -WkEn -Č  -nrI ịa    -sčI  -nrI
+\ge and    ptl      crow       -pl big     -aln -poss.3pl say   -3sg  2sg  what  -dat 1pl.ex.obl -acc dist.qual       become.frightened -caus -res -2sg do.what -conat -2sg
+
+\tx munu            ńan   uńukečinni".
+\mb mun        -W   ńaːn uńu         -WkEn -Č  -nrI
+\ge 1pl.ex.obl -acc and    hope.in.vain -caus -res -2sg
+
+\ft And the biggest crow said "Why do you frighten us like that, do something to us and raise our hopes in vain?".
+\ph
+\gr turakil egʤeŋeten = glavnaja vorona ixnjaja; "samaja bolshaja vorona" = turakilduk egʤeŋeten (? not clear - when I suggested that samaja bolshaja vorona would be turakilduk egʤeŋeten,
+she said "yes", but then the repeated the phrase with a questioning intonation); Rimma's translation of "samaja bolshaja vorona" = čeledukun egʤen/egʤekeje vorona
+\gr at first Rimma misunderstood and thought the last word was "ińukečinni" you make (someone) laugh, causative from ińin- 'laugh'; ińukač = shutnik; uńukačinni = zrja nadezhdu podaesh;
+uńuram = ja zrja zhdal/ nadejalsja -- but then when I was going through the questions I realized the root cannot be uńu- because then the causative would be uńuWkačinni...
+\gr 10.06.16: uńukačinni = ty zrja (nas) obnadezhil (and it seems to carry a nuance of obida, because today Rimma twice said "oni obidelisj"; ja zrja nadejalasj = bi uńurem, uńuriwu; uńukačinni
+is correct, I asked whetehr it shouldn't be uńuWkačinni but she said no; bi inu uńukettem = ja tebe zrja nadezhdu podala; *uńuwkettem = netu; ja tebe dala ponjatj chto-nibudj = bi
+unuwkaniwu; bi unuram = ja ponjala, ja tebe dala ponjatj = bi unuwkattam; so this seems to simply be an exceptional form of the causative suffix -WkEn....
+\ev
+\ru И вот самая большая из ворон говорит: "Ты зачем нас так пугаешь, зачем ты нам зря надежды подаешь?"
+\ELANBegin 00:03:35.982
+\ELANEnd 00:03:48.397
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_030
+\tx "Ịadaji                  tačịnmụr            nekenni,         ịadụ   tačịnmụr            nekris?
+\mb ịa    -DE -J             tarrọːčịn -WUr     nek -R(E)   -nrI ịak -DU  tarrọːčịn -WUr     nek -RI  -s(I)
+\ge do.what -purp.cvb -prfl.sg dist.qual       -prfl.pl do  -nonfut -2sg what  -dat dist.qual       -prfl.pl do  -pst -poss.2sg
+\ft "Why do you do like that? What did you do that for?"
+\ph
+\gr tačịnmur = vot tak (sejchas), tačin = vot tak (voobshe) 
+\ev
+\ru "Зачем так делаешь? Зачем так делал?"
+\ELANBegin 00:03:48.397
+\ELANEnd 00:03:53.025
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_031
+\tx Urkeːn  ńan   guːnni:    "edʒille    minteki...      minu         neːikille,     ịak bi   unu          ŋeːluketteji                          nekriwu,
+\mb hurkeːn ńaːn goːn -n(I) e   -(LI)lrE min     -t(E)kI min     -W   neːgi -kIllE   ịak biː hun     -W   ŋeːl    -WkEn -Č  -DE -J             nek -RI  -W
+\ge boy      and    say   -3sg  neg -imp.2pl 1sg.obl -all    1sg.obl -acc scold  -proh.pl what  1sg  2pl.obl -acc be.afraid -caus -res -purp.cvb -prfl.sg do  -pst -poss.1sg
+
+\tx bi   prosto   ịrkaŋnasandajị                    nekriwu".
+\mb biː prosto   ịrkaŋnị -s(E)n -DE -J             nek -RI   -W
+\ge 1sg  simply.R joke         -lim   -purp.cvb -prfl.sg do  -pst  -poss.1sg
+
+\ft And the boy said "Don't scold me, I didn't want to frighten you, I simply wanted to joke (make fun of you)". 
+\ph
+\gr one could also say "bi unu ečiwu ŋeːluketteji nekre", there would be no difference with the indirect negative construction as said here; they're interchangeable
+\nt ŋelukattei - пугать вас, 
+\ev
+\ru И парень им говорит: "Не ругайтесь на меня, я же не хотел вас пугать, я просто хотел пошутить (над вами)".
+\ELANBegin 00:03:53.025
+\ELANEnd 00:04:07.637
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_032
+\tx "Ečiwu            mergeːtte        uː  tačịkan tar  ọldʒiŋadusanda".
+\mb e   -RI  -W        mergeːt -R       huː tačịkan tar  ọl              -D(I)ŋE  -DU  -sEn      =DE
+\ge neg -pst -poss.1sg think    -neg.cvb 2pl  like.that  thus become.frightened -fut.ptcp -dat -poss.2pl =ptl
+
+\ft "I didn't think that you would get such a fright."
+\ph
+\gr olʤiŋadusanda =; olʤiŋasanda = mozhno, chto vy napugaetesj; both mean the same thing; olʤiŋawsanda = no; when I asked a bit later whether one could say olʤiŋasan she said 'no', only
+olʤiŋadusan; ja dumala chto on uzhe prishel = bi gerbuttiwu nọŋan emčewen ukal; ja ne dumala, chto on uzhe prishel = bi gerbuttiwu nọŋan ečiwen unet emne (this is of course "I thought he
+hadn't come yet) - and I asked for these sentence cos I thought maybe merget- governs dative case instead of accusative; ja dumala chto ty ispugaeshsja = bi gerbuttiwu iː olʤinni; when I
+asked her to translate the sentence with olʤiŋa- she wasn't able to produce the 2sg form; when I asked whether one could say "bi olʤiŋaw" she said no, bi olʤim; but my vozrazhenie = uː
+olʤiš, then she said that "olʤiŋasan" was v budushem; then she said that olʤiŋadusan had a meaning of "chto vy mozhete tak ispugatsja"; ja mogu ispugatsja = olʤiŋaduwu
+\gr 12/06/2016: "Ečiwu  mergeːtte uː  tačịkan tar  ọldʒiŋadusanda". = ja ne dumala, chto vy tak ispugaetes; Q: vy ispugaetes? A: u olʤis; Q: a mozhno skazatj "olʤiŋasan"? A: yes, mozhno; uː
+olʤiŋašan = vy pugaetesj; Q: can one say Ečiwu  mergeːtte  uː  tačịkan tar  ọldʒiŋašan ? A: yes, ne dumala, chto vy budete pugatsja; Q: but she said "Ečiwu  mergeːtte  uː  tačịkan tar 
+ọldʒiŋadusan"? A: ja ne dumala chtoby vy ne pugalisj, olʤiŋadušan; Mozhno skazatj: etem tette erew, uː olʤiŋadušan = ja ne budu odevatj eto, a to vy ispugaetesj;  Q: doesn't one say
+"olʤikalšan? A: olʤikas, "a to ty ispugaeshsja", olʤiŋadukasan "vse vmeste"; When I asked her to repeat, she said: etem tette erew, uː olʤiŋadukasan;  ----- somehow it's just getting more
+and more confused and confusing, and she keeps on giving different forms; it's probably not really worth worrying too much about this, since there's only 2 such forms in the corpus at the
+moment
+\gr 14.06.2016 asked Val. Innok-na what she thought about this sentence and the form olʤiŋadusanda: "ja ne dumal chto vy tak ispugaetesj", and she didn't see anything wrong with this; but
+when I asked her whether she would say it like this, she said "ečiwu mergeːtte uː tačịkan olʤis", i.e. plain future
+\ev
+\ru "Я не думал, что вы так напугаетесь".
+\ELANBegin 00:04:07.637
+\ELANEnd 00:04:13.864
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_033
+\tx "Edʒille    ịrkakille     minteki,        ečiwudetitte                     esemdetitte                     keńelič    nekteji                nekre."
+\mb e   -(LI)lrE ịrka -kIllE   min     -t(E)kI e   -RI  -W        =DE  =tIt =DE  e   -R(E)   -m   =DE  =tIt =DE  keńeli -Č  nek -DE -J             nek -R
+\ge neg -imp.2pl scream -proh.pl 1sg.obl -all    neg -pst -poss.1sg =ptl =ptl =ptl neg -nonfut -1sg =ptl =ptl =ptl bad     -ins do  -purp.cvb -prfl.sg do  -neg.cvb
+\ft "Don't shout at me, after all, I didn't want to do anything bad."
+\ph she actually says eʤille irkille, but that's just a contraction of irkakille
+\gr ečiwudetitte = ja zhe ne delal, esemdetitte = ja zhe ne delaju; keńelič nekteji nekre = ploxo delatj ne xotela, i.e. the first nekteji is the complement of the second one which expresses the
+desire
+\ev
+\ru "Не кричите на меня, я же вообще-то не хотел плохо сделать".
+\ELANBegin 00:04:13.864
+\ELANEnd 00:04:20.949
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_034
+\tx Ńan   tụrakịl    dọlčịdditan,               ńan   guːn: "časeː,  eleken čas, ịakasị     ịarịwụnda".
+\mb ńaːn tụrakị -L  dọlčị -D    -RI  -tEn      ńaːn goːn  čas =eː  eleken čas  ịak -E=sI    ịa    -RI -WUn          =DE
+\ge and    crow       -pl listen     -prog -pst -poss.3pl and    say    ptl  =emph ptl    ptl   what  -ep=emph do.what -pst -poss.1pl.ex =ptl
+\ft And the crows listened and said "Well OK, (we'll) let it be, after all, nothing happened to us".
+\ev
+\ru Вороны его слушали, и вот говорят: "Ладно, пускай как будет, ничего (же) с нами не случилось". 
+\ELANBegin 00:04:20.949
+\ELANEnd 00:04:30.738
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_035
+\tx Ńan   tar   tụrakịkaja     toredʒimnin,        nasilu   dọːrin             garla.
+\mb ńaːn tarak tụrakị -kEːjE tore  -D    -mnIn    nasilu   dọː -RI  -n(I)     gar    -(dU)LE
+\ge and    dist  crow       -aug    speak -prog -dur.cvb hardly.R land   -pst -poss.3sg branch -loc
+
+\ft And while speaking that big crow barely landed on a branch.
+\ph
+\ev
+\ru И тогда большая ворона говоря еле села на ветку
+\ELANBegin 00:04:30.738
+\ELANEnd 00:04:43.517
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_037
+\tx Dʒaːlnịsị            mergemur         ajịč      uŋnidʒur       ńan   degelidʒeːnniten,               oseriγčin.
+\mb dʒaː -L  -n(I)     =sI   mergen  -WUr     aj   -E-Č   uŋ -RIdʒI -L   ńaːn deg -L    -dʒEːn -RI  -tEn      ose         -RI       -G(E)čIn
+\ge friend -pl -poss.3sg =emph thought -prfl.pl good -ep-ins do  -ant.cvb -pl and    fly -inch -dur     -pst -poss.3pl be.pregnant -impf.ptc -sml
+
+\ft As for its friends, they came to (lit: did their thoughts well) and flew off (the poor things), as if pregnant.
+\ph
+\gr bi ošerem = ja beremena; ošeːllem = ja ustal; bi ọːšajram = ja draznju; these two words don't have any link, and ose- 'pregnant' also doesn't have anything to do with either of these; biː
+ošerem, iː ošenni, nọŋan ošen (note aside: it's interesting how Raisa Maksimovna - at least in the nimkan - pronounces a clear -s- everywhere, while Rimma Maksimovna pronounces -š-)
+\nt ajịč uŋnidʒur - хорошо сделали; degellidʒeːnniten - бедненькие улетели; oseriγčin - ? как беременные что-ли; transl. file N2 
+\ev
+\ru А остальные вороны мозги свои поправили (придя в себя) и полетели дальше.
+\ELANBegin 00:04:43.517
+\ELANEnd 00:04:56.985
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_038
+\tx Ńan   bej, bejjeken     ńan   uŋmi         mergečidʒillen,                  guːnni     "ịadụ  tačịn        guːnni     bi   nekriwu"?
+\mb ńaːn bej  bej -jEkEn   ńaːn uŋ -mI       mergeːt -D    -L    -R(E)   -n(I) goːn -n(I) ịak -DU  tarrọːčịn goːn -n(I) biː nek -RI   -W
+\ge and    man  man -dim.def and    do  -cond.cvb think    -prog -inch -nonfut -3sg  say   -3sg  what  -dat dist.qual       say   -3sg  1sg  do  -pst  -poss.1sg
+\ft And that man, that little man started to think, he said (to himself), "what did I do that for?".
+\ph
+\gr bejjeken = muzhchina, parenj; prenebrezheni, muzhichonka
+\ev
+\ru И этот парнишка сделав стал думать, говорит, зачем я так сделал.
+\ELANBegin 00:04:56.985
+\ELANEnd 00:05:11.441
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_040
+\tx Ńan   gọrụda    emi           itte         ńan   tụrakịlba       ńan   mergečiddʒoːtten                  ereger tar   uŋčaji.
+\mb ńaːn gọrụ =DE  e   -mI       it  -R       ńaːn tụrakị -L  -W   ńaːn mergeːt -D    -WEːČ -R(E)   -n(I) ereger tarak uŋ -čE    -J
+\ge and    long     =ptl neg -cond.cvb see -neg.cvb and    crow       -pl -acc and    think    -prog -gnr    -nonfut -3sg  always dist  do  -pf.ptc -prfl.sg
+\ft And then, not seeing the crows for a long time, he always thought about that what he had done.
+\nt transl. file N3
+\ev
+\ru ? Потом долго не видя ворон он думал всё время о том, что он сделал
+\ELANBegin 00:05:11.441
+\ELANEnd 00:05:19.800
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_041
+\tx Tar, tar  mergečiddʒoːtten                  tụrakịlba,      tar   dʒaːlbi.
+\mb tar  tar  mergeːt -D    -WEːČ -R(E)   -n(I) tụrakị -L  -W   tarak dʒaː -L  -J
+\ge thus thus think    -prog -gnr    -nonfut -3sg  crow       -pl -acc dist  friend -pl -prfl.sg
+\ft And he thought about the crows, about his friends.
+\ph
+\nt it's a bit odd that here suddenly the crows are his friends...
+\ev
+\ru И вот думал о воронах, об этих товарищах (друзьях).
+\ELANBegin 00:05:19.800
+\ELANEnd 00:05:25.546
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_042
+\tx Uŋčalinda                        tar  adʒa...         adʒalabboːttan                                ńan,  goːweːttende                   "ịadụ  bi
+\mb uŋ -čE    -(dU)LI -n(I)     =DE  tar  adʒal           adʒal           -E  -B   -WEːČ -R(E)   -n(I) ńaːn goːn -WEːČ -R(E)   -n(I) =DE  ịak -DU  biː
+\ge do  -pf.ptc -prol   -poss.3sg =ptl thus blush.with.shame blush.with.shame -ep -med -gnr    -nonfut -3sg  and    say   -gnr    -nonfut -3sg  =ptl what  -dat 1sg
+
+\tx nọŋmụtan nan    tačịn        tar  uŋniwu,           ọlụkanịwụ                      entekeje".
+\mb nọŋmụtan ńaːn tarrọːčịn tar  uŋ -RI  -W        ọl              -WkEn -RI  -W        entekeːje
+\ge 3pl.acc       and    dist.qual       thus do  -pst -poss.1sg become.frightened -caus -pst -poss.1sg strong
+
+\ft Because of what he had done he blushed with shame, he used to say "why did I frighten them so badly".
+\ph
+\gr aʤalabboːttan = stydilsja i krasnel; bi aʤallam = ja krasneju; bi aʤalaptam = ja krasneju; *bi aʤaram = net; imenno krasnet ot styda, ne ot zhary
+\ev
+\ru Из-за того что он так сделал, его кидало в жар и он говорил: "Зачем я их так сделал, так напугал сильно".
+\ELANBegin 00:05:25.820
+\ELANEnd 00:05:45.640
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_043
+\tx Irekemda    guːn tačịn        mergetteken                  ńan   mịawụnni.... dụlan            urge  ọːwaːttan.
+\mb irekem =DE  goːn tarrọːčịn mergeːt -REk      -n(I)     ńaːn mịawụn -n(I)     -(dU)LE -n(I)  urge  ọː  -WEːČ -R(E)   -n(I)
+\ge ptl    =ptl say   dist.qual       think    -cond.cvb -poss.3sg and    heart      -poss.3sg -loc -poss.3sg heavy become -gnr    -nonfut -3sg
+
+\ft And it came to such a state, they say, that when he thought like that his heart became heavy.
+\ph
+\gr irekemda = "azh", here translated as "doshlo do togo" - a particle with vague meaning; note how she had started off with "miawunni" his heart, then she pauses and ends with the locative
+suffix! (at first I thought it was "miawunni doːlan", inside his heart, but had asked Rimma whether that would be correct, because of the note left by Natasha in \nt; miawunnui dọlan would be
+correct grammatically, but in this sentence miawundulan would be better, more correct)
+\nt правильно: miewun  dulan
+\ev
+\ru И вот дошло до того, что говорят так думал, на сердце становилось у него тяжело.
+\ELANBegin 00:05:45.720
+\ELANEnd 00:05:54.300
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_044
+\tx Ńan   ereger tačịn        mergečin...        mergečiddʒoːtten,                 guːnni     "tiːk etem           ọːkta    bi   uŋgerer            tačịn,
+\mb ńaːn ereger tarrọːčịn mergeːt -I   -n(I) mergeːt -D    -WEːČ -R(E)   -n(I) goːn -n(I) tiek   e   -t(E) -m   ọːk =DE  biː uŋ -Gr(E) -R       tarrọːčịn
+\ge and    always dist.qual       think    -ipf -3sg  think    -prog -gnr    -nonfut -3sg  say   -3sg  now    neg -fut  -1sg when   =ptl 1sg  do  -hab   -neg.cvb dist.qual
+
+\tx ịawda         ŋeːluketkerer".
+\mb ịak -W   =DE  ŋeːl    -WkEn -Č  -Gr(E) -R
+\ge what  -acc =ptl be.afraid -caus -res -hab   -neg.cvb
+
+\ft And he always thought like that and said "now I won't ever do like that again, I won't frighten anything".
+\ph
+\gr mergečinke = ego dumy
+\ev
+\ru И вот всегда такая дума была у него, он думал, говорил: "Сейчас я больше никогда не буду так делать, никого пугать".
+\ELANBegin 00:05:56.660
+\ELANEnd 00:06:09.300
+\ELANParticipant RMS
+
+\id Solodikova_RM_nimkan_045
+\tx Ńan   tiːk er   ńịmkan mụdakaptan.
+\mb ńaːn tiek  erek ńịmkan mụdak -E-B    -R(E)    -n(I)
+\ge and    now   prox tale      finish  -ep-med -nonfut  -3sg
+
+\ft And now this tale is finished.
+\ph
+\gr in the Russian line, the first translation is what was done by Natasha (with Raisa Maksimovna?), the second translation is what Rimma said in June 2016
+\ev
+\ru И так сказка кончается. // Вот сейчас эта сказка закончилась/кончается.
+\ELANBegin 00:06:09.300
+\ELANEnd 00:06:14.080
+\ELANParticipant RMS

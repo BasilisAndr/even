@@ -1,0 +1,1133 @@
+\_sh v3.0  984  Text
+
+\id aaaa_thoughts_comments
+\ref
+\tx =go
+\mb
+\gr 270312: this appears to have 2 meanings, one is "pobuzhdatelnaja", the way it is frequently used by itself but also
+cliticized to imperatives; but there are also a few examples where it is clearly not pobuzhdenie, but can be translated as
+"nu"
+\nt
+\tx =kEnE
+\mb
+\gr 270312: I thought this might be literary Even, because only ZAS and Burtsev use it, but IVK was very surprised; said
+people say ọːkkana, irekkene "kogda imenno", one can say ịakkana or ịakkene; is not the same as =kkE, ịakko goːndʒim
+"a chto ja skazhu", ịakkana goːndʒim "chto zhe ja skazhu" --> look pretty similar to me...  said that =kEnE is usually
+used with question words or in questions, so maybe that's the difference, that it has a more restricted function;
+\gr 280312: turns out -(k)kEnE is used only when there's a choice and you're focussing on a particular variant of that choice,
+kto imenno, chto imenno (iz neskolko variantov)
+\nt
+\tx =mEn
+\mb
+\gr this is a contrastive negative particle, it always presupposes a contrast with something else (even if the contrast isn't
+spelled out), i.e. not this BUT that
+\nt
+\tx =ihi
+\mb
+\ge
+\gr 270312: occurs with question words (according to IVK, with all, ŋiː=ihi, ile=ihi, though in corpus only ọːn=ihi), and
+again has a restricted focus meaning (??) ŋiː=ihi "a kto zhe", ọːn=ihi "a kak zhe", ile=ihi "a gde zhe"
+
+\id aa_ija_phonecall
+\ref
+\tx biːkko   ịat      emdʒim
+\mb biː =kkE ịak -Č  em   -DʒI -m
+\ge 1sg  =ptl what  -ins come -fut  -1sg
+\ru а я на чем приеду?
+\gr
+\gr this is what she said on the phone to a friend (250312), it's contrastive focus here, because apparently her friend had told
+her that they were going to take a taxi, and so she's asking what SHE will be going with
+\nt
+\gr if she'd said:
+\tx biː ịakkọ       emdʒim
+\mb biː ịak -Č  =kkE em   -DʒI -m
+\ge 1sg  what  -ins =ptl come -fut  -1sg
+
+\ru а на чем я приеду
+
+\gr then the focus would be about her mode of transport, which bus to take
+
+\id Alekseeva_RD_intro_stado_047
+\tx Bi   tiːkgo   dʒọmkattakụ,              haːmaj ịbgawan                  bejetne
+\mb biː tiek =go  dʒọmkat -REk      -W        samyj   ịbgọ -W   -E-n(I)      bej    -tEn
+\ge 1sg  now  =ptl think      -cond.cvb -poss.1sg most.R  good     -acc -ep-poss.3sg self.Y -poss.3pl
+
+\tx dʒebgerečelgu,             muttu       eniken       boːre        gerbekkererem.
+\mb dʒep -Gr(E) -čE -L     =GU mut    -DU  e   -nIkEn   boː -R       gerbet -Gr(E) -R(E) -m
+\ge eat   -hab   -pf.ptc -pl =q  1pl.in -dat neg -sim.cvb give -neg.cvb think  -hab   -nonfut -1sg
+
+\ft As I now think, they ate the best (parts) themselves without giving us (any).
+\ph
+\gr 270312: when IVK saw this example, she immediately said "eto ne go ona govorit, a ko" - but then she said, well, =go
+would also fit, because it isn't always "davaj", but also "nu", and when we listened it IS clearly go, not ko, so she said it
+was go "nu"; so she said it can have a translation of "kak sejchas, nu, ja dumaju"; if it had been ko the translation would
+have been "a sejchas, kak ja dumaju"...
+\ru Как я сейчас думаю, они все самое хорошое сами ели, не давая нам.
+\ELANBegin 00:05:21.152
+\ELANEnd 00:05:31.162
+\ELANParticipant
+
+\id Alekseeva_RD_stuck_in_stado_091
+\tx Tewtewgo          dʒebnerep,                   kụŋalbụ    huruniken.
+\mb tewte   -W   =go  dʒep -nE     -R(E) -p        kụŋa -L-W    hor -U    -nIkEn
+\ge berries -acc =ptl eat   -intent -nonfut -1pl.in child   -pl-acc go  -caus -sim.cvb
+
+\ft We went to eat berries and took the children.
+\ph
+\gr "nu poshli kushatj" - as she also translated it in the beginning!
+\ru Ну пошли кушать ягоды, взяв с собой детей.
+\ELANBegin 00:07:18.724
+\ELANEnd 00:07:22.052
+\ELANParticipant
+
+\id beseda_0004
+\tx Čajnikukke        ọːn goːwrer?
+\mb čajnik  -W   =kkE ọːn goːn -Gr(E) -r
+\ge teapot.R -acc =ptl how    say   -hab   -3pl
+\ft How is a teapot called?
+\ph
+\gr 280312: this is "a čajnik kak nazyvajut?"; čajniku ọːnka goːwrer = "a kak nazyvajut čajnik?"; the sentence as said,
+čajnikukke ọːn goːwrer is NOT the same as čajnik bọllaγịna ọːn goːwrer, but one could say ọttọn, probably after čajnik
+\ru Чайник как называют?
+\ELANBegin 00:00:56.278
+\ELANEnd 00:00:58.488
+\ELANParticipant LNZ
+
+\id beseda_0161
+\tx Go,   "Nọːd ahị" tala          ịan...      ịan..       emnen              ọŋkọ...
+\mb ge    nọːd  asị  tarak -(dU)LE ịa    -n(I) ịa    -n(I) em   -R(E)   -n(I) ọŋkọ
+\ge exclm pretty   woman  dist  -loc    do.what -3sg  do.what -3sg  come -nonfut -3sg  ptl
+
+\ft Look, the "Pretty woman" contest has already come. 
+\ph
+\gr 290312: ọŋkọ cannot be replaced with bọllaγa, ịan emnen bọllaγa is NOT possible, only ọŋkọ
+\ru Вот "Нод аhи" пришел уже ведь...
+\ELANBegin 00:04:36.408
+\ELANEnd 00:04:38.982
+\ELANParticipant RDA
+
+\id beseda_0180
+\tx Ŋiːkke,Oksana?
+\mb ŋiː =kkE Oksana
+\ge who   =ptl Oksana
+
+\ft Who, Oksana?
+\ph Ŋiːkko
+\ru А кто, Оксана?
+\ELANBegin 00:04:58.692
+\ELANEnd 00:04:59.952
+\ELANParticipant LNZ
+
+\id beseda_0252
+\tx Biː ọŋkọ bütünnüːwen                dasča        bihem           urečin.
+\mb biː ọŋkọ bütünnüː -W   -E-n(I)      das   -čE    bi -R(E)   -m   ureːčin
+\ge 1sg  ptl       entirely.Y   -acc -ep-poss.3sg cover -pf.ptc be -nonfut -1sg similar
+
+\ft It seems, I shielded everything.
+\ph
+\gr 290312: I could also move the particle: biː bütünnüwen ọŋkọ dasča bihem, no difference, = biː bütünnüwen dasča bihem
+ọŋkọ urečin, no difference, ọŋkọ is quite free in where it is placed; biː bọllaγa.../biː bọllaγịna... is NOT possible
+\ru Я ведь все закрыла, кажется.
+\ELANBegin 00:06:50.742
+\ELANEnd 00:06:52.266
+\ELANParticipant IAS
+
+\id beseda_0268
+\tx Tatjana Petrovna boːdʒim       goːnni         ọŋkọ
+\mb Tatjana Petrovna boː -DʒI -m   goːn -n(I)     ọŋkọ
+\ge Tatjana Petrovna give -fut  -1sg say   -poss.3sg ptl
+
+\ft Tatjana Petrovna said she will give
+\ph
+\gr 290312: canNOT replace ọŋkọ with bọllaγa
+\ru Татьяна Петровна сказала, что даст.
+\ELANBegin 00:07:15.396
+\ELANEnd 00:07:16.746
+\ELANParticipant RDA
+
+\id beseda_0357
+\tx Nelkeni...   Nelkemen...
+\mb nelkeni      nelkeni      =mEn
+\ge early.spring early.spring =neg
+\ft spring, not spring
+\ph nelkemeːne
+\ru Весна, не весна, а..
+\ELANBegin 00:10:36.300
+\ELANEnd 00:10:37.668
+\ELANParticipant LNZ
+
+\id beseda_0377
+\tx Ọŋkọ konsier   die ... goːnitnen.
+\mb ọŋkọ koncert   die     goːn -RI  -tEn
+\ge ptl       concert.R say.Y   say   -pst -poss.3pl
+
+\ft They said the concert, didn't they?
+\gr 290312: one can also say konsier goːnitnen ọŋkọ, no difference; konsier goːnitnen bọllaγa = NO
+\ru Ведь говорили концерт.
+\ELANBegin 00:10:56.616
+\ELANEnd 00:10:59.562
+\ELANParticipant IAS
+
+\id beseda_0493
+\tx Dajanačanka      te ... "ịaw     tala          herridʒi    ičukendʒip,           ịama   mut    imenno,"
+\mb Dajana -čEn =kkE        ịak -W   tarak -(dU)LE hor -RIdʒI  it  -WkEn -DʒI -p      ịamị mut    imenno
+\ge Dajana -dim  =ptl        what  -acc dist  -loc    go  -ant.cvb see -caus -fut  -1pl.in why      1pl.in exactly.R
+
+\tx goːkendʒi,            nekessidden                        uhu.
+\mb goːn -KEn -DʒI        nek -E  -sčI  -D    -R(E)   -n(I) ühü
+\ge say   -dim -ins.prfl.sg do  -ep -conat -prog -nonfut -3sg  hsy.Y
+
+\ft And little Dajana: "what will we show, why is that us?" saying, she tries to do.
+\ph Dajanačankọ ;;;    ịama instead of ịamị - slip of the tongue
+\gr Dajanačanka... - here, one could say Dajanačan bọllaγịna with the same meaning
+\ru А Даяна "что мы там покажем, почему именно мы?" говоря, пытается делать, говоря.
+\ELANBegin 00:14:39.462
+\ELANEnd 00:14:49.554
+\ELANParticipant LNZ
+
+\id beseda_0504
+\tx ee, irteki        tartakị     ịbgahnị      tarbačan      oŋkegelgo
+\mb ee  irek  -t(E)kI tarak -t(E)kI ịbgọ =hni    tarọːčịn oŋke -GEr        =go
+\ge eh  which -all    dist  -all    good     =affirm dist.qual      pour  -imp.1pl.in =ptl
+
+\ft here and there, it's good right, like that, let's pour (some more)
+\ph
+\gr =go: pobuditelnaja
+\ru туда сюда, хорошо же, так, давайте будем наливать
+\ELANBegin 00:15:08.275
+\ELANEnd 00:15:14.040
+\ELANParticipant NPZ
+
+\id beseda_0507
+\tx hibielkemgo
+\mb hibien -lkEn -W   =go
+\ge ghost  -prop -acc =ptl
+\ft (let's talk) about ghosts
+\ph
+\gr literally this is 'with ghosts'; =go here = davajte, pobuditelnaja
+\nt this is an attempt to change the topic - as will be seen, the attempt fails
+\ru привидение
+\ELANBegin 00:15:17.655
+\ELANEnd 00:15:18.425
+\ELANParticipant IAS
+
+\id beseda_0511
+\tx Tarịtke?
+\mb tarịt =kkE
+\ge then    =ptl
+
+\ft and then?
+\ph
+\gr this particle has two k's after vowels, one after consonants
+\ru а потом?
+\ELANBegin 00:15:23.755
+\ELANEnd 00:15:24.500
+\ELANParticipant NPZ
+
+\id beseda_0528
+\tx galịgo
+\mb ga   -LI      =go
+\ge take -imp.2sg =ptl
+\ft take (some)
+\ru бери
+\ELANBegin 00:15:44.970
+\ELANEnd 00:15:45.390
+\ELANParticipant NPZ
+
+\id beseda_0576
+\tx Hiː kokehni                   borgeče      ọŋkọ.
+\mb hiː koken           -s(I)     berge -čE    ọŋkọ
+\ge 2sg  daughter.in.law -poss.2sg fat   -pf.ptc ptl
+
+\ft your sister-in-law has become fat
+\ph
+\gr 290312: one canNOT say hiː kokehni borgeče bọllaγa; one CAN say: hiː kokehni bọllaγịna borgeče = totally different
+meaning, A tvoja nevestka potolstela = hiː kokehnikko borgeče; one can also say hiː kokehnikko borgeče ọŋkọ
+\gr berge = adjective 'fat' and also verb 'become fat', biː bergeddem 'ja tolsteju, I am becoming fat'
+\ru твоя невестка стала толстая
+\ELANBegin 00:17:02.755
+\ELANEnd 00:17:06.185
+\ELANParticipant NPZ
+
+\id beseda_0579
+\tx Ile?          Ịakgo?
+\mb irek  -(dU)LE ịak =go
+\ge which -loc    what  =ptl
+\ft where? who?
+\ph
+\gr ịakgo = nu čto
+\ru где, кто
+\ELANBegin 00:17:11.945
+\ELANEnd 00:17:12.835
+\ELANParticipant IAS
+
+\id beseda_0667
+\tx "Ịak gerben?"        goːnem,           Tatjana Petrovna tiːniw              ehni,          Tatjana
+\mb ịak  gerbe -n(I)     goːn -R(E) -m     Tatjana Petrovna tiːn -RI -W         e -R(E) -n(I)  Tatjana
+\ge what   name  -poss.3sg say   -nonfut -1sg Tatjana Petrovna send  -pst -poss.1sg neg -nfut -3sg Tatjana
+
+\tx Petrovnaw     ulgumuligo.
+\mb Petrovna -W   ulgim -LI      =go
+\ge Petrovna -acc ask   -imp.2sg =ptl
+
+\ft "What's this?" I said, "I sent Tatjana Petrovna, right, ask Tatjana Petrovna."
+\ph
+\gr =go: pobuzhdenie
+\ru что такое, я сказала, я же отправила Татяну Петровну, спроси у Татяны Петровны
+\ELANBegin 00:19:25.535
+\ELANEnd 00:19:29.060
+\ELANParticipant NPZ
+
+\id beseda_0755
+\tx Tịmanna  pjatnitsa, subbotadu       čakabaːktụ             ọːn goːndʒipko?
+\mb tịmịna pjatnitsa  subbota    -DU  čak   -E  -B   -ČEk -DU  ọːn goːn -DʒI -p      =kkE
+\ge tomorrow   Friday.R   Saturday.R -dat gather -ep -med -nr   -dat how    say   -fut  -1pl.in =ptl
+
+\ft tomorrow is Friday, and on Saturday at the meeting what will we say?
+\ph
+\gr 280312: subbotadu čakabaːktụkka ọːn goːndʒip = no big difference from the original sentence; subbotadu čakabaːktu
+bọllaγịna ọːn goːndʒip? = NO, but one could say čakabaːktụ ọttọn ọːn goːndʒip, that would fit the meaning here, or ọːn
+ọttọn goːndʒip, or ọːn goːndʒip ọttọn, all the same
+\nt this refers to the meeting of the teaching staff, where they were going to discuss whether to move the holiday of the 23rd
+of February ("Day of the Defenders of the Fatherland") to a different date (it used to be possible for schools to decide for
+themselves when to take such public holidays, i.e. to work on the public holiday and then to be off on another day)
+\ru завтра пятница а в субботу на собрание что скажем
+\ELANBegin 00:22:04.250
+\ELANEnd 00:22:08.675
+\ELANParticipant NPZ
+
+\id beseda_0806
+\tx Ehni,          planjọrkakko          tịmanna  ịlan častụ    goːn...
+\mb e -R(E) -n(I)  planёrka          =kkE tịmịna ịlan čas   -DU  goːn
+\ge neg -nfut -3sg planning.meeting.R =ptl tomorrow   three  hour.R -dat say
+
+\ft no, the planning meeting is tomorrow at 3h00 they say (or said)
+\ph
+\gr here, one could say planjorka bollaqina; planjorkakko = NOT imenno planjorka zavtra v 3 chasa; one cannot say
+planjorkakana; here it's just "a planjorka zavtra v 3 chasa", but then she didn't want to think further about my question
+about contrast (probably badly expressed)
+\ru планерка завтра в 3 часа
+\ELANBegin 00:23:18.525
+\ELANEnd 00:23:19.705
+\ELANParticipant IAS
+
+\id beseda_0846
+\tx neːgimeček       mutu        tar,  ehni,          Jeralašmen   bihin
+\mb neːgi -mEČ -ČEk mut    -W   tarak e -R(E) -n(I)  Jeralaš =mEn bi -RI -n(I)
+\ge scold  -rec  -nr   1pl.in -acc dist  neg -nfut -3sg Yeralash =neg be -pst -poss.3sg
+
+\ft arguments us, that wasn't Yeralash
+\ph
+\gr 270312: Jeralashman bihin - predpologaetsja "a chto-to"... a contrast
+\ru ссора нас это не Ералаш был
+\ELANBegin 00:24:09.960
+\ELANEnd 00:24:13.955
+\ELANParticipant LNZ
+
+\id beseda_0885
+\tx ọːnko    biwreče
+\mb ọːn =kkE bi -Gr(E) -čE
+\ge how    =ptl be -hab   -pf.ptc
+
+\ft and how does it be
+\ru а как бывает
+\ELANBegin 00:25:17.520
+\ELANEnd 00:25:18.040
+\ELANParticipant NPZ
+
+\id beseda_0915
+\tx adịkko?
+\mb adịː  =kkE
+\ge how.much =ptl
+\ft how much then?
+\ru а сколькол
+\ELANBegin 00:26:17.245
+\ELANEnd 00:26:17.770
+\ELANParticipant NPZ
+
+\id beseda_0921
+\tx Ịakko
+\mb ịak =kkE
+\ge what  =ptl
+
+\ft and what?
+\ru а что
+\ELANBegin 00:26:20.325
+\ELANEnd 00:26:21.805
+\ELANParticipant IAS
+
+\id beseda_0951
+\tx Ọːn goːndʒimko          goːniken      ịadda(m)...
+\mb ọːn goːn -DʒI -m   =kkE goːn -nIkEn   ịa    -D      -R(E) -m
+\ge how    say   -fut  -1sg =ptl say   -sim.cvb do.what -prog   -nonfut -1sg
+
+\ft and how will I say, how do I do something
+\ru а как я скажу что.то я делаю
+\ELANBegin 00:27:13.070
+\ELANEnd 00:27:14.455
+\ELANParticipant NPZ
+
+\id beseda_0966
+\tx tarịtko,   ụːčak       ńamnịptịdụ?
+\mb tarịt =kkE ụːčak       ńamnị -B   -RI       -DU
+\ge then    =ptl riding.reindeer gallop   -med -impf.ptc -dat
+\ft and then, for the reindeer riding race?
+\ph
+\gr one could also say tarit uchak namniptidukke, same meaning; at first she agreed with my statement that tarit uchakka
+namniptidu would have a different meaning, but then she took that back and said that there is no difference in meaning
+when you say "tarit uchakka namniptidu" - I think I'm not giving these things the right intonation, because I don't
+understand information structure well enough to know how to stress words to give the right intonation to what I'm
+trying to elicit; she said "slovo uchak tam zhe vse ravno estj, ty ne mozhesh ego menjat", "glavnoe slovo zdesj uchak, ego
+nelzja menjat" - so maybe the fact is that I don't know enough about namnipti to really understand what you could say
+and what you couldn't say; Uchak = vid transporta, nevozmozhno ego ignorirovatj
+\ru а потом, на езде верхом
+\ELANBegin 00:27:49.300
+\ELANEnd 00:27:53.455
+\ELANParticipant NPZ
+
+\id beseda_0974
+\tx maːwụttụkko?
+\mb maːwụt -DU  =kkE
+\ge lasso     -dat =ptl
+\ft and for the (throwing of the) lasso?
+\ph
+\gr =kkE appears to be a contrastive topic particle 
+\nt in addition to the races, there is also a lasso-throwing competition during the reindeer herders' festival
+\ru а на мавут
+\ELANBegin 00:28:02.100
+\ELANEnd 00:28:03.140
+\ELANParticipant NPZ
+
+\id beseda_1020
+\tx Žannańdʒakan         ọːn ịačakko?
+\mb Žanna -ńdʒE -KEn     ọːn ịa    -čE    =kkE
+\ge Zhanna -aug    -dim.int how    do.what -pf.ptc =ptl
+
+\ft As for Zhanna, how did she do?
+\ph
+\gr the suffix -KEn has a more intensifying than diminutive meaning; 290312: =kkE could be replaced by ọttọn, which could
+be placed anywhere in the sentence; one could also say Zhannańdʒakanko ọːn ịača, no difference in meaning; 
+\nt Zhanna (the maths teacher at the school) is probably just called "big" in her family or among friends, she is not a
+particularly big person
+\ru А Жанна (большая) как она что-то сделала
+\ELANBegin 00:29:32.370
+\ELANEnd 00:29:33.285
+\ELANParticipant IAS
+
+\id beseda_1136
+\tx Polušubokbanko
+\mb polušubok   -W   -n(I)     =kkE
+\ge short.coat.R -acc -poss.3sg =ptl
+
+\ft her short coat
+\ru а ее полушубок (увезли)
+\ELANBegin 00:33:11.440
+\ELANEnd 00:33:12.025
+\ELANParticipant IAS
+
+\id beseda_1154
+\tx Ịamị tala          tiːnčelko            nọŋan, niːdu?
+\mb ịamị tarak -(dU)LE tiːn -čE -L     =kkE nọŋan  ŋiː  -DU
+\ge why      dist  -loc    send  -pf.ptc -pl =ptl 3sg       who    -dat
+
+\ft why did they send it there, to whom
+\ph
+\gr one could also say ịamịkko tala tiːnčel with the same information structure value (focus?), but if one said ịamị talakko
+tiːnčel, then it would be "why did they send it THERE" (and not elsewhere)
+\gr nọŋan is used more to refer to people, when referring to inanimate things "tarak, taraw" is better, so the choice of nọŋan
+here is infelicitous
+\ru а почему туда отправили, кому
+\ELANBegin 00:33:41.730
+\ELANEnd 00:33:44.040
+\ELANParticipant LNZ
+
+\id beseda_1255
+\tx Tarịtko
+\mb tarịt =kkE
+\ge then    =ptl
+\ft and then?
+\ru а потом
+\ELANBegin 00:36:59.675
+\ELANEnd 00:37:00.825
+\ELANParticipant NPZ
+
+\id beseda_1263
+\tx Ọŋkọ bọlgịt,  bọlgị... uːre      atịkam,      kojeːtti         atịkam,      haːrị
+\mb ọŋkọ bọlgịt                uːr   -E  atịkan  -W   kojeːt -RI       atịkan  -W   haː -RI
+\ge ptl       cedar.bushes              before -ep old.woman -acc look.at -impf.ptc old.woman -acc know -impf.ptc
+
+\tx atịkam       ŋaːtča      bihitne,          tarakko    ọːn goːnče      bihin?
+\mb atịkan  -W   ŋaːt -čE    bi -RI -tEn       tarak =kkE ọːn goːn -čE    bi -RI -n(I)
+\ge old.woman -acc call   -pf.ptc be -pst -poss.3pl dist  =ptl how    say   -pf.ptc be -pst -poss.3sg
+
+\ft cedar bushes, right, they called an old woman, a seeing, knowing old woman (i.e. someone with second sight), as for her,
+what did she say?
+\ph
+\gr 290312: tarakko ọːn goːnče bihin - focus on "her", if one said tarak ọːnKO goːnče bihin it would be WHAT did she say?
+=kkE can be replaced by ọttọn, but NOT by bọllaγịna
+\nt bọlgịt means "Siberian.pine bushes", but since they generally grow on the top of hills/mountains and not in rivervalleys,
+and since the man drowned in a river, IVK assumed that bọlgịt here must refer to a place name rather than to "pine
+bushes" in general
+\ru ведь Болгит,тогда видящая знающую старушку позвали, а эта что сказала
+\ELANBegin 00:37:21.475
+\ELANEnd 00:37:29.150
+\ELANParticipant NPZ
+
+\id beseda_1290
+\tx Ŋiːkko   glavaladdan                   tiːk?
+\mb ŋiː =kkE glava  -LE -D    -R(E) -n(I)  tiek
+\ge who   =ptl head.R -vr -prog -nonfut -3sg now
+\ft and who is now working as head (mayor) of the village?
+\ph
+\gr 280312: ŋiːkkene glavaladdan tiːk = not possible, because =kEnE is used when there are several options, and =kEnE
+picks out one of several options; here, the question is just about who is heading Segen, there is no choice between
+options; if they were talking about the candidates, then one could use ŋiːkkene, ŋiːkkene glava kandidaturran bihni -
+that's fine, variant estj, ili ili, kto imenno chto-to delaet; ŋiː bọllaqina = NO, but ọttọn ŋiː glavaladdan = yes (which I can
+"feel" myself but I don't know why...)
+\nt the man who died was the mayor of the neighbouring village Segen-Kuel
+\ru а кто там исполняет обязанности главы сейчас
+\ELANBegin 00:38:26.600
+\ELANEnd 00:38:28.155
+\ELANParticipant LNZ
+
+\id beseda_1402
+\tx Doː, ịakko,   tiːniw   niː  gerbemeje   iːridʒi      tala,         Jermak gerbeńdʒe
+\mb duo   ịak =kkE tiniw     ŋiː gerbe -mEjE iː   -RIdʒI  tarak -(dU)LE Jermak gerbe -ńdʒE
+\ge q.Y   what  =ptl yesterday who   name  -aug  enter -ant.cvb dist  -loc    Yermak name  -aug
+
+\tx bihin?
+\mb bi -RI -n(I)
+\ge be -pst -poss.3sg
+
+\ft as for what, yesterday what's-his-name came there (Pashko's shop), did they call him Yermak?
+\ru а это, вчера как его звали, войдя туда, Ермак его звали
+\ELANBegin 00:42:25.100
+\ELANEnd 00:42:28.625
+\ELANParticipant IAS
+
+\id beseda_1482
+\tx Ịaw      ịaw        goːnemi                goːldego,          goːnni.
+\mb ịak -W   ịa    -W   goːn -nE     -mI       goːn -(LI)lrE =go  goːn -n(I)
+\ge what  -acc do.what -acc say   -intent -cond.cvb say   -imp.2pl =ptl say   -3sg
+\ft "what you have come to say, say", he said
+\ru что придя сказать скажите-ка сказал
+\ELANBegin 00:44:45.335
+\ELANEnd 00:44:47.795
+\ELANParticipant NPZ
+
+\id beseda_1511
+\tx Tarịt ọːkko    tarịt amarra         tar   ọmŋọ... uže      nelkeni      ọddakan
+\mb tarịt ọːk =kkE tarịt amar   -(dU)LE tarak ọmŋa      uže      nelkeni      ọd -REk -E-n(I)
+\ge then    when   =ptl then    behind -loc    dist  forget       already.R early.spring stop -cond.cvb -ep -poss.3sg
+
+\tx ńandakaj     tattịdʒị  er   ahị goːŋnen.
+\mb ńaːn =dakan tat   -RIdʒI  erek asị goːn -Gr(E) -n(I)
+\ge and    =ptl   learn -ant.cvb prox woman say   -hab   -3sg
+
+\ft then sometime later, afterwards, when (it had already been) forgot... when it became spring, having learnt this, this
+woman says
+\ph
+\gr ọːkko = kogda zhe, but maybe she meant to say ọːkkol "sometime"; ńandakaj = eshe raz
+\ru потом когда-то потом позже забыв... уже когда наступала весна, приучившись к этому эта женщина говорит
+\ELANBegin 00:45:50.600
+\ELANEnd 00:45:56.040
+\ELANParticipant NPZ
+
+\id beseda_1544
+\tx ịakka    ačča ọːča       gọlụ
+\mb ịak =kkE ačča ọː  -čE    gọl    -W
+\ge what  =ptl neg    become -pf.ptc firewood -poss.1sg
+
+\ft and what, my firewood has run out
+\ph
+\gr ịakka = a čto
+\ru а что, нету стало у меня дров
+\ELANBegin 00:46:41.860
+\ELANEnd 00:46:44.585
+\ELANParticipant LNZ
+
+\id beseda_1659
+\tx Doː, vedusčajanko,                     vedusčajduk             emie   nahaː zavisit...
+\mb duo   veduščij       -E-n(I)      =kkE veduščij       -DUk(U) emie   nahaː zavisit
+\ge q.Y   programme.host.R -ep-poss.3sg =ptl programme.host.R -abl    also.Y very.Y depend.prs.3sg.R
+\ft as for the programme host, a lot depends on the host
+\ph
+\gr 290312: here, =kkE could potentially be replaced by both bọllaγịna and ọttọn, "oba podxodjat vrode by"
+\ru а его ведущий, от ведущего тоже очень зависит
+\ELANBegin 00:51:06.965
+\ELANEnd 00:51:08.200
+\ELANParticipant IAS
+
+\id beseda_1669
+\tx Ịajkọ           ečiken
+\mb ịak -J       =kkE erroːčin -KEn
+\ge what  -prfl.sg =ptl prox.qual  -dim.int
+\ft and what of mine like that?
+\ru а что свое такое_
+\ELANBegin 00:51:16.850
+\ELANEnd 00:51:18.440
+\ELANParticipant NPZ
+
+\id beseda_1673
+\tx Ọttọ... herke              herke              herkelen                          bihni,          tarịt
+\mb ọttọn   herke              herke              herke              -(dU)LE -n(I)  bi -R(E) -n(I)  tarịt
+\ge dp.Y        leather.underpants leather.underpants leather.underpants -loc -poss.3sg be -nonfut -3sg then
+
+\tx ọjlịnko
+\mb ọj    -(dU)LI -n(I)     =kkE
+\ge surface -prol   -poss.3sg =ptl
+
+\ft there's (something) for the pants, but for the top...
+\ph
+\gr =kkE - gives contrast, there are the pants, BUT what about the top
+\nt i.e. there are pants, but what will LNZ wear on the top
+\ru на штаны есть, а потом сверху
+\ELANBegin 00:51:22.935
+\ELANEnd 00:51:24.900
+\ELANParticipant NPZ
+
+\id beseda_1781
+\tx Ọttọn ọːnihi   nekessidʒinni?
+\mb ọttọn ọːn =ihi nek -E  -sčI  -DʒI -nrI
+\ge dp.Y      how    =ptl do  -ep -conat -fut  -2sg
+\ft
+\ph
+\gr she could have said ọːn nekessidʒinni; the =ihi here is close to =kkE, ọːn-ihi = a kak;
+\qu
+\ru ну что ты будешь делать
+\ELANBegin 00:53:50.920
+\ELANEnd 00:53:51.775
+\ELANParticipant RDA
+
+\id beseda_1808
+\tx Ee, ịakkọ?
+\mb ee  ịak =kkE
+\ge eh  what  =ptl
+
+\ru
+\ELANBegin 00:54:36.845
+\ELANEnd 00:54:37.295
+\ELANParticipant NPZ
+
+\id beseda_1879
+\tx Klim    Nikolaevič ńoːwrekesko?
+\mb Kliment Nikolaevič ńoː -U    -REk      -E  -s(I)     =kkE
+\ge Kliment Nikolaevich exit  -caus -cond.cvb -ep -poss.2sg =ptl
+\ft
+\ph
+\gr she omitted the accusative case on Klim Nikolaevič; ńoːwrekesko = a esli ty vyvedeshj; one could also say Klim
+Nikolaevičukko ńoːwrekes with practically no change in meaning
+\ru а если бы ты вывела Клима Николаевича
+\ELANBegin 00:56:23.100
+\ELANEnd 00:56:25.080
+\ELANParticipant NPZ
+
+\id beseda_1888
+\tx Ŋiː bihniː?        Erko      Abramov? Eten,           goːli?
+\mb ŋiː bi -R(E) -n(I)  erek =kkE Abramov  e   -t(E) -n(I) goːn -LI
+\ge who   be -nonfut -3sg prox =ptl Abramov  neg -fut  -3sg  say   -imp.2sg
+\ft
+\qu eteten?????????   her way of saying eten???????
+\ru
+\ELANBegin 00:56:38.445
+\ELANEnd 00:56:43.590
+\ELANParticipant NPZ
+
+\id beseda_1894
+\tx Volodjakko?   Adnaklasnịkas?
+\mb Vladimir =kkE odnoklassnik -E  -s(I)
+\ge Vladimir =ptl classmate.R  -ep -poss.2sg
+\ft
+\ru
+\ELANBegin 00:56:50.635
+\ELANEnd 00:56:51.645
+\ELANParticipant IAS
+
+\id beseda_1915
+\tx Ọttọn ịaw      ịarakaskọ...
+\mb ọttọn ịak -W   ịa    -REk      -E-s(I)      =kkE
+\ge dp.Y      what  -acc do.what -cond.cvb -ep-poss.2sg =ptl
+\ft
+\qu otton = iarakasKO???
+\ru
+\ELANBegin 00:57:20.985
+\ELANEnd 00:57:23.010
+\ELANParticipant IAS
+
+\id beseda_1919
+\tx Ehni,          tiːkerepmen      hupkučimŋe
+\mb e -R(E) -n(I)  tiek -(E)rEp =mEn hupkut -E-mŋE
+\ge neg -nfut -3sg now  -adjr   =neg learn  -ep-agnr
+\ft
+\qu tiekerepMEN???????
+\ru
+\ELANBegin 00:57:27.090
+\ELANEnd 00:57:28.480
+\ELANParticipant IAS
+
+\id beseda_1950
+\tx Niːkko?   Kroljańdʒa.
+\mb ŋiː =kkE
+\ge who   =ptl
+\ft
+\qu krolja < krolik???
+\ru
+\ELANBegin 00:58:03.492
+\ELANEnd 00:58:05.358
+\ELANParticipant LNZ
+
+\id Bochilikan_etiken_016
+\tx Họŋaddamman                    ikeːddem                ehem.
+\mb họŋ -E-D     -R(E)   -m   =mEn ikeː -D    -R(E)   -m   e   -R(E)   -m
+\ge cry    -ep-prog -nonfut -1sg =neg sing  -prog -nonfut -1sg neg -nonfut -1sg
+
+\ft No, I'm not crying, I'm singing.
+\ph
+\gr it seems as if the 3SG form of the neg.auxiliary is used most frequently as an affirmative particle; but some people use
+inflected forms with then agree with the main verb, e.g. ikeːddem ehem, ikeːdʒes ehes; họŋaddam=man - the particle is
+used with contrastive focus, i.e. when the negated action is contrasted with some other action, as here in the translation; a
+normal negative statement takes the negative auxiliary
+\ru Нет, я не плачу, я пою же.
+\ph
+\ELANBegin 81.180
+\ELANEnd 84.590
+\ELANParticipant
+
+\id Burtsev_ID_traditions_005
+\tx Eh, nọnan  ịakkene    goːndʒim?
+\mb eh  nọnan  ịak =kEnE  goːn -DʒI -m
+\ge eh  at.first what  =contr say   -fut  -1sg
+
+\ft Well, what should I say first?
+\ph
+\gr 270312: čto že mne skazatj?, one could also say nọnan ịaktakan goːndʒim and that would have nearly the same meaning
+\ru Что же сначала скажать?
+\ELANBegin 00:01:20.240
+\ELANEnd 00:01:26.100
+\ELANParticipant
+
+\id Burtsev_ID_traditions_010
+\tx Amarra         goːmi          amargaw       ere, ịak goːndʒimkene,         Savetskaj Vlast'
+\mb amar   -(dU)LE goːn -mI       amar   -(g)Ew erek ịak goːn -DʒI -m   =kEnE  sovetskij vlast'
+\ge behind -loc    say   -cond.cvb behind -adjr  prox what  say   -fut  -1sg =contr Soviet.R  power.R
+
+\tx ọdọddọkọn                     erek bekečen   erek ọːngọl   ńajụkụkan
+\mb ọd -E-D     -REk -E-n(I)            erek beke -čEn erek ọːn =(W)Ul ńańụkụn -KEn
+\ge stop -ep-prog -cond.cvb -ep -poss.3sg prox all  -dim  prox how    =indef quietly       -dim.int
+
+\tx ọmŋọwọddọn.
+\mb ọmŋa -W     -E-D     -R(E) -n(I)
+\ge forget  -advrs -ep-prog -nonfut -3sg
+
+\ft Later, how should I say, when the Soviet Union was ending, all of this is slowly being forgotten.
+\ph
+\gr 270312: chto ja skazhu zhe
+\ru Позже, поздний, что мне сказать, когда С.В заканчивалась, это все это как-то постепенно забывается.
+\ELANBegin 00:02:46.520
+\ELANEnd 00:03:02.220
+\ELANParticipant
+
+\id Burtsev_ID_traditions_017
+\tx Eben, eben, ịan           goːndʒimkene?
+\mb ewen  ewen  ịak -n(I)     goːn -DʒI -m   =kEnE
+\ge Even  Even  what  -poss.3sg say   -fut  -1sg =contr
+\ft The whatchamacallit of Evens, (what) should I say?
+\ru Эвен, его что-то, что мне сказать.
+\ELANBegin 00:03:41.949
+\ELANEnd 00:03:50.516
+\ELANParticipant
+
+\id Burtsev_ID_traditions_020
+\tx Butunnu      ečin      bekeččur          ịalakkene..        ečin      poselokla         iːniken
+\mb bütünnüː erroːčin bekeč -dʒUr       ịak -(dU)LE =kEnE  erroːčin poselok   -(dU)LE iː   -nIkEn
+\ge entirely.Y   prox.qual  all    -ins.prfl.pl what  -loc    =contr prox.qual  village.R -loc    enter -sim.cvb
+
+\tx towmi,             hurelbur            ńụčịdịč    ńọkadịč      ịatkụ
+\mb teg      -mI       hut   -SEl -WUr     ńụča -DI   -Č  ńọka -DI   -Č  ịak -Č  =GU
+\ge sit.down -cond.cvb child -pl  -prfl.pl Russian  -adjr -ins Sakha   -adjr -ins what  -ins =q
+
+\tx takkamị           amarra         mut    hurelti                 egdʒenteken     dʒe   keńeli,
+\mb tat   -kE -mI       amar   -(dU)LE mut    hut   -SEl -t(I)        egdʒen =t(E)kEn dʒe   keńeli
+\ge learn -?? -cond.cvb behind -loc    1pl.in child -pl  -poss.1pl.in big     =restr   well.Y bad
+
+\tx ịawụ   goːniken,     eben ačča ọːrakan,                    nọŋardụtnọ
+\mb ịak -W   goːn -nIkEn   ewen ačča ọː  -REk -E-n(I)            nọŋan -L  -DU  -tEn
+\ge what  -acc say   -sim.cvb Even neg    become -cond.cvb -ep -poss.3sg 3sg      -pl -dat -poss.3pl
+
+\tx tegejetne         họː hịːlụse      bidʒin,       hịːlụse      bidʒin.
+\mb tegeńe -tEn      họː hịːlụs -(h)E bi -DʒI -n(I) hịːlụs -(h)E bi -DʒI -n(I)
+\ge life?   -poss.3pl very   trouble     -excl be -fut -3sg   trouble     -excl be -fut -3sg
+
+\ft If all enter this village and settle, if we teach our children Russian and Sakha and what else, it will be very bad for our
+children, if Evens won't be anymore, their life will be very poor and troubled.
+\ph
+\ru Если все где именно так войдя в поселок если сесть, наши дети если по-русски по-якутски обучить, потом наши дети
+очень большое что-то плохое если эвенов не станут, для них их жизнь будет очень бедственно..
+\ELANBegin 00:04:27.306
+\ELANEnd 00:04:53.488
+\ELANParticipant
+
+\id Burtsev_ID_traditions_132
+\tx Tarawkene         ajmakan     edukte            dʒulehki           amarra         ŋiːgol
+\mb tarak -W   =kEnE  aj   -mEkEn erek -DUk(U) =DE  dʒul -E  -skI      amar   -(dU)LE ŋiː =(W)Ul
+\ge dist  -acc =contr good -ints  prox -abl    =ptl front -ep -advb.all behind -loc    who   =indef
+
+\tx erew      minu         dọlčịrị       bej tọbọr ajmakaːn   dʒọmkatnịkan
+\mb erek -W   min     -W   dọlčị -RI       bej tawụr   aj   -mEkEn dʒọmkat -nIkEn
+\ge prox -acc 1sg.obl -acc listen     -impf.ptc man this      good -ints  think      -sim.cvb
+
+\tx bidʒeːŋŋehne.
+\mb bi -dʒEːn -ŋE     -sEn
+\ge be -dur     -pol.imp -poss.2pl
+
+\ft And in future, whoever, a person who listens to me, think about this well, my dears.
+\ph
+\gr 270312: here, tarawkene doesn't fit the sentence, it has a meaning of "eto/to zhe" - but then she said that tarawkene
+doesn't really fit at all, it's not a good word, because =kEnE is usually used with question words or in questions
+\ru И в будущем хорошенько позже кто-нибудь услышащий меня человек хорошенько думая будьте, милые.
+\ELANBegin 00:16:56.119
+\ELANEnd 00:17:08.287
+\ELANParticipant
+
+\id Kejmetinova_AA_headmistress_014
+\tx Biː horriw             ọːnihi   nekčim,       degelliw.
+\mb biː  hor -RI  -W        ọːn =ihi nek -DʒI -m   deg -E    -L    -RI  -W
+\ge 1sg   go  -pst -poss.1sg how    =ptl do  -fut  -1sg fly -ep   -inch -pst -poss.1sg
+\ft I left, what will I do, I flew.
+\ph
+\gr
+\nt so she left, and she took a plane to Sebjan
+\nt транскрипция, перевод??
+\ELANBegin 00:02:17.170
+\ELANEnd 00:02:21.850
+\ELANParticipant
+\ru Я поехала, ну что поделаю, полетела.
+
+\id Kejmetinova_AA_headmistress_031
+\ft
+\tx Ŋiːkko   goːndʒip          goːn?
+\mb ŋiː =kkE goːn -DʒI -p      goːn
+\ge who   =ptl say   -fut  -1pl.in say
+
+\ft "And how should we call you?", they say.
+\ph
+\gr 280312: here ŋiːkkene is NOT possible, because there are no choices; but one can use =kkE if there's a choice, i.e. ŋiːwke
+taladʒịp "who should we choose" = ŋiːwkene taladʒịp, both are possible, but ŋiːwkene focuses especially on the kto
+IMENNO, so there is a bit of difference in meanign
+\gr 290312: 
+\nt
+\ELANBegin 00:04:16.950
+\ELANEnd 00:04:19.270
+\ELANParticipant
+\ru A как нам (ее ) звать? -- говорят
+
+\id Kejmetinova_AA_headmistress_060
+\tx Kụŋal...       kụŋal     tarakam       este...     minu       este       ińinne,       esten
+\mb kụŋa -L   *... kụŋa -L   tarakam       e   -R(E)   min     -W e   -R(E)  ińin -R       e   -R(E)
+\ge child   -pl  ***  child   -pl  in.those.days neg -nonfut 1sg.obl -acneg -nonfutlaugh -neg.cvb neg -nonfut
+
+\tx opken,      tarịt tačịnman         mut    tarawman        goːnep               goːn, ịakka?
+\mb opken       tarịt tarọːčịn =mEn mut    tarak -W   =mEn goːn -R(E) -p        goːn  ịak =kkE
+\ge make.fun.of then    dist.qual      =neg 1pl.in dist  -acc =neg say   -nonfut -1pl.in say    what  =ptl
+
+\tx strojmaterial.
+\mb strojmaterial
+\ge building.material.R
+
+\ft The kids... the children didn't laugh at me then, didn't make fun of me, then they said "it's not that, we are not talking
+about that", - "and what (are you talking about)?" - "building materials".
+\gr 270312: tarawman goːnep = we're not talking about that (BUT about something else), contrast; iakka = a chto,
+information structure particle
+\nt here, AAK is reproducing a little dialogue between her and the guys from the repair brigade
+\ph e in "este" is pronounced reduced like "өстө"
+\ELANBegin 00:07:23.918
+\ELANEnd 00:07:41.421
+\ELANParticipant
+\ru Ребята, ребята тогда не смеялись надо мной,  не насмехались, тогда не  так..  мы не про это говорим: какой
+стройматериал?
+\ru Дети тогда надо мной не смеялись, потом "это не так, мы не о том сказали" сказали, - "а что?" - "стройматериал".
+
+\id Kejmetinova_TV_pear_story_069
+\ref 4:20, KNK
+\tx Ee, ọːnihi!
+\mb ee  ọːn =ihi
+\ge eh  how    =ptl
+
+\ft Yes, and how!
+\ru Да, а как же.
+\ph
+\gr
+\nt
+
+\id Kirillina_KK_dve_skazki_040
+\tx Biː ụjamkan      ọːrakụ,               noːw,                    noːwko?                       ọːn
+\mb biː ụjamkan      ọː  -REk      -W        noː            -W        noː            -W        =kkE ọːn
+\ge 1sg  mountain.sheep become -cond.cvb -poss.1sg younger.sibling -poss.1sg younger.sibling -poss.1sg =ptl how
+
+\tx biː noːj                    emeːndʒim,      goːnče.
+\mb biː noː            -J       emeːn -DʒI -m   goːn -čE
+\ge 1sg  younger.sibling -prfl.sg leave  -fut  -1sg say   -pf.ptc
+
+\ft "If I become a mountain sheep, what about my younger brother? How will I leave my younger brother?" he said.
+\ph
+\gr 290312: here, =kkE could be replaced by ọttọn, ọttọn noːw, but noːw bọllaγịna is NOT possible
+\qu
+\ev
+\ru «Если я стану горным бараном, то как же мой брат? Как я оставлю брата?» сказал.
+\ELANBegin 00:03:55.230
+\ELANEnd 00:04:00.860
+\ELANParticipant
+
+\id Kirillina_KK_dve_skazki_065
+\tx Tarak.... nọŋan tar   kụŋaw     kụŋawman       kụŋaw     bụlịhịmị,
+\mb tarak     nọŋan tarak kụŋa -W   kụŋa -W   =mEn kụŋa -W   bụl -E  -s(E)n -mI
+\ge dist      3sg      dist  child   -acc child   -acc =neg child   -acc pity  -ep -lim   -cond.cvb
+
+\tx bụlịhịmị.
+\mb bụl -E  -s(E)n -mI
+\ge pity  -ep -lim   -cond.cvb
+
+\ft She didn't (say) that because .... pitying the child, pitying
+\ph
+\gr kụŋawman - she didn't finish the phrase, there should be some verb; bụlịhịn - at first I had entered this as a separate verb
+'pity', but then when we were discussing the form bụlịhị (beseda_1190) IVK agreed with me when I asked whether bụlịhịn
+was 'nemnozhko pozhaletj' which would appear to make it the limitative of bụl-
+\ru Это она не оттого, что ребенка (наоборот) жалея ребенка
+\ELANBegin 00:05:56.470
+\ELANEnd 00:06:05.440
+\ELANParticipant
+
+\id Krivoshapkina_AE_childhood_085
+\ref 9:40; AEK
+\tx [stammers] Ọːnihi   begijen                bụọlụmụna, ịakta    ọj    gerbe ačča
+\mb stammers   ọːn =ihi begi   -j    -An       bụọlụmụna  ịak =DE  ọj    gerbe ačča
+\ge stammers   how    =ptl freeze -conn -pf.cvb.Y of.course.Y        what  =ptl clothes name  neg
+
+\tx buollaga,              ketinčede          ịakta    gerbe ačča.
+\mb buol  -dEg      -E     ketinče       =DE  ịak =DE  gerbe ačča
+\ge aux.Y -assert.Y -3sg.Y inner.fur.boot =ptl what  =ptl name  neg
+
+\ft Well and of course you freeze, there were no clothes, right, and no inner fur boots, nothing like that.
+\ru А как же, как тут не замерзнуть, никакой одежды нету же, и меховых носков, ничего такого нету.
+\ph
+\gr 270312: *ọːn begijen buolumuna would NOT be good here, it's not "how do you freeze of course" but "a kak zhe, of
+course you freeze"
+\nt It's not clear what she says in the beginning, it appears to be something like "tang", but neither Ija Krivoshapkina nor I
+can make it out. But it doesn't appear to be important.
+
+\id Krivoshapkina_AE_childhood_089
+\ref 10:01; AEK
+\tx Tačịnda          begidnedʒeku,               dʒe,  ọːnihi   kïajan       gọlụ      kaltakčịnnị
+\mb tarọːčịn =DE  begi   -DnE  -ČEk -W        dʒe   ọːn =ihi kïajan       gọl    -W   kaltak -DʒI -nrI
+\ge dist.qual      =ptl freeze -iter -nr   -poss.1sg well.Y how    =ptl not.be.able.Y firewood -acc split  -fut  -2sg
+
+\ft And so, with such frostbite, how are you supposed to chop wood?
+\ru И так, мое замерзшее место, вот как же ты сможешь дрова колоть.
+\ph
+\gr
+\nt
+
+\id Krivoshapkina_AE_childhood_100
+\ref 11:23; EKK
+\tx Tarakta    ahị eče        gara          hinu?
+\mb tarak =DE  asị e   -čE    ga   -R       hin     -W
+\ge dist  =ptl woman neg -pf.ptc take -neg.cvb 2sg.obl -acc
+
+\ft And this woman didn't take you?
+\ru И эта женщина не взяла тебя?
+\ph
+\gr
+\nt
+
+\id Krivoshapkina_AX_svatovstvo_058
+\tx Tiːkmen  ńịlbaw     ukčemmečečel,            hontel.
+\mb tiek =mEn ńịlba -W   ukčen -mEČ -E-čE     -L  honte -L
+\ge now  =neg baby.Y   -acc tell   -rec  -ep-pf.ptc -pl other -pl
+\ft Not those who just now arranged the engagement of the babies, others.
+\ru
+\ph ńịlbau
+\gr tiːkmen = ne sejčas
+\ELANBegin 00:09:07.130
+\ELANEnd 00:09:12.160
+\ELANParticipant
+\ru Не те что сейчас маленьких детей сватали, другие.
+
+\id Krivoshapkina_AX_1930s_088
+\tx Ńọkaltakanman,         ńulgewečeddi                     ebehelde,      ịalda,
+\mb ńọka -L  =t(E)kEn =mEn nulge   -WEːČ -E-D     -RI       ewen -SEl =DE  ịak -L  =DE
+\ge Sakha   -pl =restr   =neg migrate -gnr    -ep-prog -impf.ptc Even -pl  =ptl what  -pl =ptl
+
+\tx čụkčalda,    jụkagịralda       ịbgat       tegettetne,                          delbi
+\mb čukča -L  =DE  jukagir  -E-L =DE     ịbgọ -Č  teg      -E-Č   -DE       -tEn      delbi
+\ge Chukchi -pl =ptl Yukaghir -ep -pl =ptl good     -ins sit.down -ep-res -purp.cvb -poss.3pl very.Y
+
+\tx uorenče        bejčekel       dụkụptịdụ            takkatnajaktaːkal
+\mb üören -čE    bej -čEkEn -L  dụk -E-B    -RI       -DU  tat   -kEČ -nE     -jEktEːk -E-L
+\ge study.Y -pf.ptc man -plen   -pl write -ep-med -impf.ptc -dat learn -mult -intent -nec.Y    -ep-pl
+
+\tx bịraːhal     emejekteːkel,            ụčụtalal      emejekteːkel,            kuruk
+\mb vrač    -E-L   em   -E  -jEktEːk -E-L   ụčụtal -E-L   em   -E  -jEktEːk -E-L   kuruk
+\ge doctor.R -ep-pl come -ep -nec.Y    -ep-pl teacher.Y   -ep-pl come -ep -nec.Y    -ep-pl always.Y.
+
+\tx ńulgewečepti                    sịːha, keńeli, keńelit     tegečedče
+\mb nulge   -WEːČ -E-B    -RI       sïːha   keńeli  keńeli -Č  teg      -E-Č   -E-D     -čE
+\ge migrate -gnr    -ep-med -impf.ptc mistake.Y bad      bad     -ins sit.down -ep-res -ep-prog -pf.ptc
+
+\tx bihes           ebit,      goːnče.
+\mb bi -R(E)   -s   ebit       goːn -čE
+\ge be -nonfut -2pl it.seems.Y say   -pf.ptc
+
+\ft Not only Sakha, in order for the migrating Evens, Chukchi, Yukaghirs to live well, very educated people have to come
+and teach them to read and write, doctors have to come, teachers have to come, it is wrong to always migrate, you live
+badly, he said.
+\ph
+\gr (trans_file 01_quest_2010 1:22:30) keńelit tegečedče bihes = non-witnessed past: vy ploxo poživali (dolgo žili),
+tegečedčehne = incorrect; tegečeddihnen = would be correct if he had witnessed how they lived, but he didn't see how
+they lived in the past, he concludes this from stories or evidence he sees now; (04_quest_2010, kuruk nulgewečepti =
+kuruk nulgewetti, no difference
+\ELANBegin 00:10:41.080
+\ELANEnd 00:11:10.550
+\ELANParticipant
+\ru Не только якуты, и кочующие эти народности, чтобы хорошо жили, очень образованные люди должны учить их
+письму, должны приехать врачи, учителя, постоянно кочевать это неправильно, вы живете плохо.
+
+\id Krivoshapkina_Ija_memories_038
+\tx Ńango,     tar   tordu,     tar   Daik gerbe torle         ŋiːje      bihitnen,         Anatolij
+\mb ńaːn =go  tarak tor   -DU  tarak Daik gerbe tor   -(dU)LE ŋiː =jE    bi -RI  -tEn      Anatolij
+\ge and    =ptl dist  earth -dat dist  Daik name  earth -loc    who   =assoc be -pst -poss.3pl Anatolij
+
+\tx Afanasevič Alekseev, haːnnị goːli,        tarak dʒaːlnị            bihitnen:         upeː
+\mb Afanasevič Alekseev  haː -nrI goːn -LI      tarak dʒaː   -L  -n(I)     bi -RI  -tEn      upeː
+\ge Afanasevich Alekseev  know -2sg say   -imp.2sg dist  relative -pl -poss.3sg be -pst -poss.3pl grandmother
+
+\tx Duńa, abaga,      etiken,  Bötr gerbe etiken   bihin.
+\mb Duńa  abaga       etikeːn Petr  gerbe etikeːn bi -RI  -n(I)
+\ge Dunja  grandfather old.man  Petr  name  old.man  be -pst -poss.3sg
+
+\ft And also in that place, in that Daik, who-all was there, the relatives of Anatolij Afanasevich Alekseev, you know him,
+don't you, his relatives were there, granny Dunja and old man Bötr was there.
+\ph
+\gr ńango: eshe nu, na etoj zemle...
+\ru Еще в этом месте, в этом Даике, были родные Анатолия Афанасьевича, ты же его знаешь, бабушка Дуня, дед, старик
+Ботур (Петр).
+\ELANBegin 00:03:26.440
+\ELANEnd 00:03:41.420
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_084
+\tx Tara  toru       ŋiː, biː noːwu                    nahaː ajaːwran,           omettumen
+\mb tarak tor   -W   ŋiː  biː noː            -W        nahaː ajaːw -R(E)   -n(I) omettu   =mEn
+\ge dist  earth -acc who    1sg  younger.sibling -poss.1sg very.Y love   -nonfut -3sg  together =neg
+
+\tx baldača,       tar   ammụ           noːn                     hụnaːdʒan,           Lialko gerbe, tiːk
+\mb balda   -čE    tarak aman   -W        noː            -n(I)     hụnaːdʒ -E-n(I)      Lialko gerbe  tiek
+\ge be.born -pf.ptc dist  father -poss.1sg younger.sibling -poss.3sg daughter    -ep-poss.3sg Lialko name   now
+
+\tx FIJala                           tattan.
+\mb FIJa                     -(dU)LE tat   -R(E)   -n(I)
+\ge foreign.languages.dept.R -loc    learn -nonfut -3sg
+
+\ft My younger sister (cousin) likes that place a lot, not my true sister (not born of the same parents), the daughter of my
+father's younger brother, her name is Lialko, she studies in the department of foreign languages.
+\ru Эту местность очень любит моя младшая сестра, не родившаяся со мной вместе, а дочка младшего брата моего отца,
+ее зовут Лялка, она сейчас учится в ФИЯ.
+\ph omettumem baldača
+\ELANBegin 00:07:46.600
+\ELANEnd 00:07:55.870
+\ELANParticipant
+
+\id RDA_TPK_death_301
+\tx Ịŋa, ịŋakko,  urgekie     ịŋamajal.
+\mb ịŋa  ịŋa =kkE urge  =kE   ịŋa -mEjE -L
+\ge stone   stone  =ptl heavy =emph stone  -aug  -pl
+\ft Stones, very heavy stones (in the grave).
+\ph I hear ịbgakie, but that doesn't make sense, Ija transcribed urgekie, and also translated it as heavy
+\gr 290312: =kkE might be replaced by ọttọn (skoree vsego); here, =kkE gives a nuance of "no"
+\ru А камни, очень тяжелые камни (в могиле на тебя давят).
+\ELANBegin 00:15:16.860
+\ELANEnd 00:15:20.040
+\ELANParticipant T
+
+\id stado#9_kochevka_016
+\tx Ịago..   Tuge   mute   ịadụk...  ọktjab  ịlaːndụk    erek ịlaːn erek mart    ịlaːndụla
+\mb ịak =go  tugeni mut    ịak -DUk(U) oktjabr'  ịlaːn -DUk(U) erek ịlaːn erek mart    ịlaːn -(dU)LE
+\ge what  =ptl winter 1pl.in what  -abl    October.R moon     -abl    prox moon     prox March.R moon     -loc
+
+\tx ịstalaːkan tuge   [stammers] tuge   tegečeheket
+\mb ịstala -KEn tugeni stammers   tugeni teg      -E  -Č  -E  -ČEk -E-t(I)
+\ge until    -dim winter stammers   winter sit.down -ep -res -ep -nr   -ep-poss.1pl.in
+
+\tx toreŋet                      honte
+\mb tor   -E-ŋ   -E-t(I)         honte
+\ge earth -ep-aln -ep-poss.1pl.in other
+
+\ft In winter, from the month of October until the month of May our camp is elsewhere.
+\ph
+\gr tegečeheket = the place where we live
+\ru Зимой мы с октября до марта. Место зимней стоянки у нас другое.
+\ELANBegin 00:00:48.360
+\ELANEnd 00:01:06.490
+\ELANParticipant AVK
+
+\id Stepanova_ZA_naled_019
+\tx Tarak kụŋa adịlkankene         bihin?            Digelken    kụŋakakan
+\mb tarak kụŋa adịː  -lkEn =kEnE  bi -RI -n(I)      digen -lkEn kụŋa -kEkEn
+\ge dist  child   how.much -prop =contr be -pst -poss.3sg four  -prop child   -dim
+\ft How old was that child? Four years old.
+\ph
+\gr 270312: adịlkankene = skol'ko imenno, skol'ko zhe; *tarak kụŋakkana adịlkan = incorrect
+\ru Сколько же лет ему было, четырехлетний ребенок.
+\ELANBegin 00:01:59.640
+\ELANEnd 00:02:05.680
+\ELANParticipant
+
+\id Stepanova_ZA_naled_026
+\tx Tala          adịː  častụkene,    nadan častụ  ịhrịt,              hiesečen, gịawan
+\mb tarak -(dU)LE adịː  čas -DU  =kEnE  nadan čas -DU  ịs  -RI -t(I)         hiːsečin gịawan
+\ge dist  -loc    how.much hour -dat =contr seven hour -dat reach -pst -poss.1pl.in evening    dawn
+
+\tx goboːddi                 bisin.
+\mb gobeː    -D    -RI       bi -RI -n(I)
+\ge disappear -prog -impf.ptc be -pst -poss.3sg
+
+\ft When did we arrive, we arrived at seven in the evening, when the dusk was ending.
+\ph
+\gr 270312: one could also say adịːkana častụ
+\nt It's not quite clear in which month this took place, the speaker's brother said it was in January, but in January at 7h00
+p.m. it would be dark already
+\gr kene - ija said 'utochnitelnaja chastica' - so contrastive doesn't work; and here and in the previous example (19) it really is
+more utochnitelnyj than contrastive<<< 
+\ru Во сколько мы доехали, доехали в 7 вечера, когда закат - солнце заходила.
+\ELANBegin 00:02:54.070
+\ELANEnd 00:03:02.819
+\ELANParticipant
+
+\id Tatjana_Petrovna_family_143
+\tx Ńan   ịaw,     ịaw      goːŋekko?
+\mb ńaːn ịak -W   ịak -W   goːn -ŋE     =kkE
+\ge and    what  -acc what  -acc say   -pol.imp =ptl
+
+\ft What should I say?
+\ru Что мне еще сказать?
+\ph
+\gr 290312: ịaw goːŋekko = ịawko goːndʒiŋew, no difference; one could also say ịaw goːŋekene = ịawkene goːŋe (the ptl on
+ịaw is sufficient to permit the -ŋE without person-marking) = chto imenno mne skazatj, if there are several options
+\gr In Sebjan, the form -ŋE is used in interrogative sentences with 1SG reference; goːŋekko = a čto mne skazat'? goːŋegu =
+skazat' li mne?
+\nt
+\ELANBegin 00:15:10.330
+\ELANEnd 00:15:15.010
+\ELANParticipant
+
+\id Tatjana_Petrovna_photos_060
+\tx Emie   ńulgedʒeːnnen               ejmu,            itligo,           horedden.
+\mb emie   nulge   -dʒEːn -R(E)   -n(I) enen   -W        it  -LI      =go  hor -E-D     -R(E)   -n(I)
+\ge also.Y migrate -dur     -nonfut -3sg  mother -poss.1sg see -imp.2sg =ptl go  -ep-prog -nonfut -3sg
+
+\ft Again my mother is migrating, look, she's going.
+\ru Опять кочует моя мать, смотри-ка, едет.
+\ph illigo
+\gr the particle =go expresses pobuždenie, pobuditel'naja častica
+\ELANBegin 00:04:40.060
+\ELANEnd 00:04:45.190
+\ELANParticipant

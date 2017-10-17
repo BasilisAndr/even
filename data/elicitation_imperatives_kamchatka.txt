@@ -1,0 +1,576 @@
+\_sh v3.0  984  Text
+
+\id K_Imperatives01
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso2002_26:30
+\tx Čas unideku                 erew      knigaw.
+\mb čas uni -DE       -W        erek -W   kniga  -W
+\ge ptl  buy -purp.cvb -poss.1sg prox -acc book.R -acc
+\ft
+\ru Давай куплю эту книгу!
+\ph
+\gr Esso2006_48:50
+\tx Ge    uniger          erew      kubeku,     nọŋan aje.
+\mb ge    uni -GEr        erek -W   kubek  -W   nọŋan aj   -
+\ge exclm buy -imp.1pl.in prox -acc teapot -acc 3sg      good -
+\ru (Муж и жена в магазине) Давай купим этот чайник, он хорош.
+\ph
+\gr The -e on "aje" was probably just a 'nachschlag', because often she seems to be unable to end on a closed syllable.
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:10:20
+\tx Erew      knigaw      unideku.
+\mb erek -W   kniga  -W   uni -DE       -W
+\ge prox -acc book.R -acc buy -purp.cvb -poss.1sg
+
+\id K_Imperatives02
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso2002_27:00
+\tx Čas sentjabrla          bi   meːnken       ordeku                  gorodtakị.
+\mb čas sentjabr    -(dU)LE biː meːn -KEn     hor -DE       -W        gorod  -t(E)kI
+\ge ptl  September.R -loc    1sg  refl  -dim.int go  -purp.cvb -poss.1sg town.R -all
+
+\ft
+\ru Давай я в сентябре сама поеду в город.
+\ph urdeku ili ordeku
+\gr (Esso2006_47:50) bi meːnken urdeku = ja by sam poexal, *bi meːn urdeku = nel'zja; meːn dʒụːtkịjị = svoj dom; Hm,
+interesting: according to Cincius-Rišes (p. 727) the reflexive pronouns are used ONLY in the oblique cases. So the -ken
+suffix somehow makes it possible to use it as an apposition to the subject; it might be emphatic
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:10:40
+\tx Bi   meːnken   urdiŋewu             gorodteki      sentjabrla.
+\mb biː meːn -ken ur -D(I)ŋE -W        gorod  -t(E)kI sentjabr    -(dU)LE
+\ge 1sg  refl  -??  go -fut.ptc -poss.1sg town.R -all    September.R -loc
+
+\id K_Imperatives03
+\ref Esso2002_27:52
+\tx Ŋenni        ekentekiji              nọŋan iːnu        eːrin.
+\mb ŋen -LI      eken   -t(E)kI -J       nọŋan iːn    -W   eːri       -n(I)
+\ge go   -imp.2sg mother -all    -prfl.sg 3sg      2sg.obl -acc call.nonfut -3sg
+\ft
+\ru Иди к маме, она зовет тебя!
+\ph ŋənni
+\gr biː ŋennedeku = ja poshla
+
+\id K_Imperatives04
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso2002_30:00
+\tx Škola   mụdakrịdʒị ŋenŋenni         magazintakị   uniŋanni         kiliebu.
+\mb škola   mụdak -RIdʒI   ŋen -ŋE     -nrI magazin -t(E)kI uni -ŋE     -nrI kilieb  -W
+\ge school.R finish  -ant.cvb  go   -pol.imp -2sg shop.R  -all    buy -pol.imp -2sg bread.R -acc
+\ft
+\ru После школы иди в магазин, купи хлеб!
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:11:25
+\tx Školaduk        emesmi,                iːŋenni           magazindule,    uniŋenni         kiliebu.
+\mb škola   -DUk(U) emen  -s(E)n -mI       iː   -ŋE     -nrI magazin -(dU)LE uni -ŋE     -nrI kilieb  -W
+\ge school.R -abl    leave -lim   -cond.cvb enter -pol.imp -2sg shop.R  -loc    buy -pol.imp -2sg bread.R -acc
+\ft
+\nt also suggested "školaduk uːjesmi"
+
+\id K_Imperatives05
+\ref Elicited with Rimma Maksimovna Egorova, Esso; 30:40
+\tx Moskvala       degsidʒi    tarịdʒịt zvonilŋannị        aːdakụ                ajịč
+\mb Moskva -(dU)LE deg -RIdʒI  tarịdʒịt zvonil  -ŋE     -nrI aː  -DE       -W        aj   -E-Č
+\ge Moscow -loc    fly -ant.cvb at.once       phone.R -pol.imp -2sg know -purp.cvb -poss.1sg good -ep-ins
+
+\tx ọːčawan.
+\mb ọː  -čE    -W   -E-n(I)
+\ge become -pf.ptc -acc -ep-poss.3sg
+\ft
+\ru Когда ты прилетишь в Москву, пожалуйста сразу звони мне, чтобы я знала, что все хорошо получилось.
+\ph dəγš'idʒi
+\gr degsidʒi = degridʒi, can also say "Moskvala degmi"
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:13:55
+\tx Degsidʒi    Moskvala       tarabadʒịt minteki         zvonilŋannị        aːdakụ
+\mb deg -RIdʒI  Moskva -(dU)LE tarịdʒịt min     -t(E)kI zvonil  -ŋE     -nrI aː  -DE       -W
+\ge fly -ant.cvb Moscow -loc    at.once       1sg.obl -all    phone.R -pol.imp -2sg know -purp.cvb -poss.1sg
+
+\tx ajịč      bisiwes.
+\mb aj   -E-Č   bi -RI       -W   -E  -s(I)
+\ge good -ep-ins be -impf.ptc -acc -ep -poss.2sg
+
+\id K_Imperatives06
+\ref Esso2002_32:10
+\tx Čas Maša ịlkattan                       alịːkịlba.
+\mb čas Maša hịlka -Č  -DE       -n(I)     alịːk -E-L   -W
+\ge ptl  Masha wash    -res -purp.cvb -poss.3sg dish     -ep-pl -acc
+
+\ft
+\ru Пусть Маша помоет посуду!
+\ph čaš' + alịkịːlbə (but later she said alịkalbə)
+\gr It would seem as if ịlkat- is the Resultative of standard hịlka- - but in Kamchatka I got only ịlkat-. can also say awdan
+alịːkịlba; e.g. bi awaddam / ịlkataddam alịːkalba = ja moju posudu; aw- = yourself, and dishes; ịlkat- = dishes and
+clothes, not people, except in rude expressions like: idi mojsja (grubo, obidno, v smysle "ty takoj grjaznyj chto stirat'
+nado") = ịlkatnalị (meːni)
+
+\id K_Imperatives07
+\ref Esso2002_34:15
+\tx Čas gịala       dʒulepki Miša  iːndu       belden.
+\mb čas gịa -(dU)LE dʒulepki Miša  iːn    -DU  bel  -DE       -n(I)
+\ge ptl  other -loc    in.future Misha  2sg.obl -dat help -purp.cvb -poss.3sg
+\ft
+\ru Пусть в следующий раз Миша тебе поможет!
+\ph d'uləpki
+\gr
+
+\id K_Imperatives08
+\ref Esso2005_50:25
+\tx Kụŋalaː      orgerisi                ịnmač,    spektakl ọːdịllanịsị.
+\mb kụŋa -L  -Eː or -GEr        -E=sI    hịnma -Č  spektakl ọː  -D    -E-L     -R(E)   -n(I) -E=sI
+\ge child   -pl -voc go -imp.1pl.in -ep=emph speed   -ins show.R   become -prog -ep-inch -nonfut -3sg  -ep=emph
+
+\ru Ребята, пойдемте же скорее, спектакль начинается!
+\ph
+\gr (Esso3002_22:35) The Vocative appears to be either a long low unrounded vowel, or a lengthening of the final vowel:
+Ekeː, ile min tufliwu?? "Mam! Gde moi tufli?", but not with personal names: Aleša, urli dʒụːtkịjị ịnmač! "Alesha, idi
+domoj skoree!", *Alešaː
+
+\id K_Imperatives09
+\ref Esso2005_51:48
+\tx Ge,   NovyjGodadgaragar                         ereger umettu.
+\mb ge    NovyjGod   -E-D     -Gr(E) -E-GEr         ereger omettu
+\ge exclm New.Year.R -ep-prog -hab   -ep-imp.1pl.in always together
+
+\ru Давайте будем встречать Новый Год всегда вместе!
+\ph
+\gr At first she said "Novyj Godadgaragar", but then when slowly repeating it she said "Novyj Godadgarar"; obedajịdgarar =
+davajte obedat' budem vmeste; ukleːdgereger = davajte budem spat' vmeste
+\nt
+\nt Esso3002_24:40
+\tx Tiːk erew         anŋanụ   umettu  NovyjGodu       arčamkačịdgar                             \\
+\mb tiek  erek -E-W    anŋan -W   omettu   NovyjGod   -W  arčị -n    -WkEn -Č  -E  -D    -GEr        *\\
+\ge now   prox -ep-acc year   -acc together New.Year.R -accmeet    -mult -caus -res -ep -prog -imp.1pl.in ***
+
+\tx NovyjGodaddʒịŋawụr.
+\mb NovyjGod   -E-D     -DʒIŋE -WUr
+\ge New.Year.R -ep-prog -hyp.ptc -prfl.pl
+\ru Давайте в этом году мы будем вместе встречать Новый Год.
+\gr At first she said "arčamkačịdgarar", but when she repeated it she left out the final -ar. They also say "8-oe
+martadʒịŋawụr", and when I asked she did say one would be able to say "NovyjGodedgaragar"
+\nt
+\nt Esso3002_25:55
+\tx Nọŋartan ereger NovyjGodu       umettu   arčamkaddʒọːtta.
+\mb nọŋartan ereger NovyjGod   -W   omettu   arčị -n    -WkEn -D    -WEːČ -R(E)
+\ge 3pl         always New.Year.R -acc together meet    -mult -caus -prog -gnr    -nonfut
+
+\ru Они всегда встречают Новый Год вместе.
+\gr 12.02.13 (questions16, 8:30) the causative appears to have lots its meaning here, but formally it has to be the causative;
+arčamkačịdgar = davajte budem vstrechatj, no sense of zastavljatj; arčanaddʒọːtta = OK, no difference with
+arčamkaddʒọːtta; arčanačịdgar = NO; nikto nikogo ne zastavljaet delatj; bi arčanam = ja idu na vstrechu; mama menja
+zastavila vstrechatj dedushku - I asked whether one could say "Mama minu arčamkanịn amaŋaw" and she said, yes, that's
+correct
+\ph
+\gr Esso3002_26:30
+\tx Uː umettu   uredis                   bụːgịskị.
+\mb uː omettu   ur -E-D     -R(E)   -s   bụg -E  -skI
+\ge 2pl together go -ep-prog -nonfut -2pl earth -ep -advb.all
+
+\ru Вы вместе идете в лес.
+\ph
+\nt Esso3008_4:40
+\tx Ge,   awgụstalanan           urreket                   agdịgtakịs            telidʒekteki.
+\mb ge    avgust.R -E-(dU)LE =nAn  ur -DE       -t(I)        agdịg -t(E)kI -s(I)     telidʒek    -t(E)kI
+\ge exclm August.R -ep-loc   =emph go -purp.cvb -poss.1pl.in older   -all    -poss.2sg fishing.camp -all
+\ru Давай в августе поедем к брату на рыбалку!
+\ph
+\gr
+\tx Awgụstalanan           urreku                 agdịgtakịj           telidʒekteki.
+\mb avgust.R -E-(dU)LE =nAn  ur -DE       -W        agdịg -t(E)kI -J       telidʒek    -t(E)kI
+\ge August.R -ep-loc   =emph go -purp.cvb -poss.1sg older   -all    -prfl.sg fishing.camp -all
+\ru Давай я поеду (в августе на рыбалку к брату).
+\ph
+\nt This was a judgement sentence, to check whether the 1PL form (which was a sentence she translated from Russian) was as
+analyzed here. She agreed, and gave the partial translation, I added the bracket.
+\qu
+\tx *Bu    gorodtakị    urreket,                           eniŋeːwu            *dʒụːwụt
+\mb buː   gorod  -t(E)kI ur -REk      -E-t(I)               eniŋeː    -W        dʒụː -WUn
+\ge 1pl.ex town.R -all    go -cond.cvb -ep-poss.1pl.in and.R grandmother -poss.1sg house    -poss.1pl.ex
+
+\tx kojeːttin.
+\mb kojeːt -RI  -n(I)
+\ge look.at -pst -poss.3sg
+\ru (Когда мы были в городе, моя бабушка смотрела наш дом.)
+\ph
+\nt That was a judgement question, and I intended the meaning given below (because I thought that 'urreket' might be a
+homonymous form between the Purposive and the Conditional converb). She corrected both the sentence and the
+translation (though she didn't correct the incorrect possessive form on 'dʒụː' - probably she misheard that).
+\qu
+\tx Mut    gorodtakị    urreket,                     eniŋeːwu            *dʒụːwụt           kojeːčin.
+\mb mut    gorod  -t(E)kI ur -REk      -E-t(I)         eniŋeː    -W        dʒụː -WUn         kojeːt -DʒI   -n(I)
+\ge 1pl.in town.R -all    go -cond.cvb -ep-poss.1pl.in grandmother -poss.1sg house    -poss.1pl.ex look.at -fut    -3sg
+
+\ru Когда мы поедем в город, моя бабушка будет смотреть наш дом.
+
+\id K_Imperatives10
+\ref Esso2005_53:55
+\tx Iwidlille            entukušuken, eniŋeː    ukleːdden.
+\mb ewiː -D    -(LI)lrE entukuken     eniŋeː    hukle -D    -R(E)   -n(I)
+\ge play  -prog -imp.2pl softly        grandmother sleep -prog -nonfut -3sg
+
+\ft
+\ru Играйте по-тише, бабушка спит.
+
+\id K_Imperatives11
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso2005_54:35
+\tx Emuŋesen                     erew      gịala       nedeljala.
+\mb em   -U    -ŋE     -sEn      erek -W   gịa -(dU)LE nedelja -(dU)LE
+\ge come -caus -pol.imp -poss.2pl prox -acc other -loc    week.R  -loc
+
+\ru Принесите это на следующей неделе.
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:16:05
+\tx Erew      emuŋesen                     adịːwda        ineŋu     bisidʒur.
+\mb erek -W   em   -U    -ŋE     -sEn      adịː -W   =DE  ineŋ -W   bi -RIdʒI  -L
+\ge prox -acc come -caus -pol.imp -poss.2pl some    -acc =ptl day   -acc be -ant.cvb -pl
+
+\id K_Imperatives12
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso2005_54:55
+\tx Ŋaːlụr      awịlla,     obed    kimeptin.
+\mb ŋaːl -WUr     aw   -(LI)lrE obed    kim     -E-B    -RI  -n(I)
+\ge hand   -prfl.pl wash -imp.2pl lunch.R prepare -ep-med -pst -poss.3sg
+\ru Мойте руки, обед готов!
+\ph [kimoptin]
+\gr bi kimnem = ja prigotovil sejchas; kimniwu = ja prigotovil (ranshe); bi awram = ja moju sejchas, bi awrịwụ = ja pomyl
+ruki; ịlkattịwụ polu = ja pomyl poly = awrịwụ polu
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:16:50
+\tx Ŋaːlụr      awịlla,     debidʒildʒipesi
+\mb ŋaːl -WUr     aw   -(LI)lrE dʒeb -E-D     -E-L     -DʒI -p      -E=sI
+\ge hand   -prfl.pl wash -imp.2pl eat   -ep-prog -ep-inch -fut  -1pl.in -ep=emph
+
+\id K_Imperatives13
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso2005_57:10
+\tx Uː mụčụrịdʒụr   dʒụːtkịwụr        awŋasan                alịːkịlba!
+\mb uː mụčụ -RIdʒI  -L  dʒụː -t(E)kI -WUr     aw   -ŋE     -sEn      alịːk -E-L   -W
+\ge 2pl return    -ant.cvb -pl house    -all    -prfl.pl wash -pol.imp -poss.2pl dish     -ep-pl -acc
+\ru Когда вы вернетесь домой, помойте посуду!
+\ph [aːŋašan]
+\gr
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:17:25
+\tx Dʒụːtkị    emnidʒur         ịlkatŋasan                   alịːkụ.
+\mb dʒụː -t(E)kI em   -RIdʒI  -L  hịlka -Č  -ŋE     -sEn      alịːk -W
+\ge house    -all    come -ant.cvb -pl wash    -res -pol.imp -poss.2pl dish     -acc
+
+\id K_Imperatives14
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso2005_57:45
+\tx Ekmur           bakụdʒaktakịn              ineŋteki     awŋasan                polu.
+\mb eken   -WUr     bakụ  -ČEk -t(E)kI -n(I)     ineŋ -t(E)kI aw   -ŋE     -sEn      pol     -W
+\ge mother -prfl.pl be.born -nr   -all    -poss.3sg day   -all    wash -pol.imp -poss.2pl floor.R -acc
+
+\ru Пожалуйста, на мамин день рождения помойте вы полы!
+\ph
+\gr In the beginning I had "bakụdʒaktakị ineŋteki" and wasn't sure whether the day shouldn't be possessed; but when I
+checked (Esso3002_,27:15) she said it should be "bakụdʒaktakịn ineŋteki".
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:18:00
+\tx Entekeːje gasčịram           eńmur          bakụdʒaktakịn              ịlkadawụr
+\mb entekeːje gasčị -R(E)   -m   eńin  -WUr     bakụ  -ČEk -t(E)kI -n(I)     hịlka -DE       -WUr
+\ge strong     ask      -nonfut -1sg mother -prfl.pl be.born -nr   -all    -poss.3sg wash    -purp.cvb -prfl.pl
+
+\tx polur.
+\mb pol     -WUr
+\ge floor.R -prfl.pl
+\gr entekeːje gasčiram = očen' prošu, požalujsta
+\nt
+
+\id K_Imperatives15
+\ref Esso2005_58:35
+\tx Nọŋartan emudeten                       mọːw!
+\mb nọŋartan em   -U    -DE       -tEn      mọː -W
+\ge 3pl         come -caus -purp.cvb -poss.3pl tree   -acc
+
+\ru Пусть они принесут дрова!
+
+\id K_Imperatives16
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso2005_58:50
+\tx Tịmịna iːsečin nọŋartan emudeten                       anŋamtaw     taŋịnmajụ.
+\mb tịmịna iːsečin nọŋartan em   -U    -DE       -tEn      anŋamta -W   taŋ -E-nmEj -W
+\ge tomorrow   evening   3pl         come -caus -purp.cvb -poss.3pl new      -acc read -ep-anr -acc
+
+\ru Пусть завтра вечером они принесут новую книгу!
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:19:40
+\tx Tịmịna iːsečin nọŋartan emudeten                       anŋamtaw     knigaw.
+\mb tịmịna iːsečin nọŋartan em   -U    -DE       -tEn      anŋamta -W   kniga  -W
+\ge tomorrow   evening   3pl         come -caus -purp.cvb -poss.3pl new      -acc book.R -acc
+
+\id K_Imperatives17
+\ref Esso3001_3:35
+\tx Čas bi   etem           unir         erew      ụrbaːkụ.
+\mb čas biː e   -t(E) -m   uni -R       erek -W   ụrbaːk -W
+\ge ptl  1sg  neg -fut  -1sg buy -neg.cvb prox -acc dress.R   -acc
+\ru Давай я не буду покупать это платье!
+
+\id K_Imperatives18
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso3001_17:20
+\tx Bi   ọːkta    etem           ọːjaw      kọlgarar
+\mb biː ọːk =DE  e   -t(E) -m   họːja -W   kọl -Gr(E) -E-R
+\ge 1sg  when   =ptl neg -fut  -1sg many     -acc drink -hab   -ep-neg.cvb
+
+\ru Я никогда не буду много пить (выпивать).
+\ph ọːktatäːm
+\gr (Esso3002_51:50) bi kọldʒịm = ja budu pit'; bi kọlgaradʒịm = ja p'janstvovat' budu
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:20:25
+\tx Bi   ọːktatịtta       etem           ičiken   kọlla.
+\mb biː ọːk =DE  =tIt =DE  e   -t(E) -m   ičiken   kọl -R
+\ge 1sg  when   =ptl =ptl =ptl neg -fut  -1sg this.much drink -neg.cvb
+
+\id K_Imperatives19
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso3001_4:10
+\tx Edʒi        gakịl    erew      eŋeːrdekew,    nọŋan kirde.
+\mb e   -LI      ga   -kIl  erek -W   eŋeːrdeke -W   nọŋan kirde
+\ge neg -imp.2sg take -proh prox -acc jersey      -acc 3sg      dirty
+
+\ru Не бери эту кофту, она грязна.
+\ph əŋərdəkeːw
+\gr
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:21:00
+\tx Edʒi        gakịl       erew      eŋeːrdekew,    nọŋan kirde.
+\mb e   -LI      ga   -kIl     erek -W   eŋeːrdeke -W   nọŋan kirde
+\ge neg -imp.2sg take -proh.sg prox -acc jersey      -acc 3sg      dirty
+
+\id K_Imperatives20
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso3001_18:15
+\tx Eniŋeːji           bakụdʒaktakịn              eniken           dʒinsiw     tette           -
+\mb eniŋeː    -J       bakụ  -ČEk -t(E)kI -n(I)     e   -niken       dʒinsi -W   tet    -R       -
+\ge grandmother -prfl.sg be.born -nr   -all    -poss.3sg neg -fut.proh.sg jeans.R -acc put.on -neg.cvb -
+
+\tx esni              nọːd bise        tačịn.
+\mb e   -R(E)   -n(I) nọːd bi -R       tarọːčịn
+\ge neg -nonfut -3sg  pretty  be -neg.cvb dist.qual
+
+\ru На бабушкин день рождения не надевай джинсы - некрасиво так!
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:21:35
+\tx Eniŋeː    bakụdʒaktakịn              eniken           tette           erkew,     enni
+\mb eniŋeː    bakụ  -ČEk -t(E)kI -n(I)     e   -niken       tet    -R       erke  -W   e   -R(E)   -n(I)
+\ge grandmother be.born -nr   -all    -poss.3sg neg -fut.proh.sg put.on -neg.cvb pants -acc neg -nonfut -3sg
+
+\tx nọːd bise.
+\mb nọːd bi -R
+\ge pretty  be -neg.cvb
+
+\id K_Imperatives21
+\ref Esso3001_4:45
+\tx Čas Maša eden                    kinotki          urre.
+\mb čas Maša e   -DE       -n(I)     kino     -t(E)kI ur -R
+\ge ptl  Masha neg -purp.cvb -poss.3sg movies.R -all    go -neg.cvb
+\ru Пусть Маша не пойдет в кино!
+
+\id K_Imperatives22
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso3001_19:45
+\tx Čas tịmịna Miša eden                    školatki        urre,       nọŋan buteːnen             \\
+\mb čas tịmịna Miša e   -DE       -n(I)     škola   -t(E)kI ur -R       nọŋan buteːn       -E-n(I) *\\
+\ge ptl  tomorrow   Misha neg -purp.cvb -poss.3sg school.R -all    go -neg.cvb 3sg      be.ill.nonfut -ep-3sg ***
+
+\tx esni              abgar   bise.
+\mb e   -R(E)   -n(I) abgar   bi -R
+\ge neg -nonfut -3sg  healthy be -neg.cvb
+\ru Пусть Миша завтра не пойдет в школу, он нездоров.
+\ph čaš
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:22:50
+\tx Tịmịna eden                    taŋnar               Miša, nọŋan buteːnnen.
+\mb tịmịna e   -DE       -n(I)     taŋ -nE     -R       Miša  nọŋan buteːn -R(E)   -n(I)
+\ge tomorrow   neg -purp.cvb -poss.3sg read -intent -neg.cvb Misha  3sg      be.ill  -nonfut -3sg
+
+\id K_Imperatives23
+\ref Esso3001_5:30
+\tx Dʒaːlbu,        čas eger            urre        koncertetki,      kinowdemer
+\mb dʒaːl -W        čas e   -GEr        ur -R       koncert -E-t(E)kI kino     -W   -dmEr
+\ge friends -poss.1sg ptl  neg -imp.1pl.in go -neg.cvb concert -ep-all   movies.R -acc -contr
+
+\tx kojeːčidger!
+\mb kojeːt -E-D     -GEr
+\ge look.at -ep-prog -imp.1pl.in
+\ru Ребята, давайте не пойдем на концерт, давайте посмотрим лучше кино!
+\ph əγeːr
+
+\id K_Imperatives24
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso3001_20:45
+\tx Čas voskresenjadu    etep              bụːgịskị     urre,       čas Alešadu
+\mb čas voskresenja -DU  e   -t(E) -p      bụg -E  -skI      ur -R       čas Aleša -DU
+\ge ptl  Sunday.R    -dat neg -fut  -1pl.in earth -ep -advb.all go -neg.cvb ptl  Alesha -dat
+
+\tx tegečiddʒip                           dọlčịdʒịp        anŋamtaw     diskew.
+\mb teg      -E-Č   -E-D     -DʒI -p      dọlčị -DʒI -p      anŋamta -W   disk -E-W
+\ge sit.down -ep-res -ep-prog -fut  -1pl.in listen     -fut  -1pl.in new      -acc CD.R -ep-acc
+
+\ru В воскресенье давайте не пойдем в лес, девушки, давайте лучше посидим у Алеши и послушаем новые диски!
+\ph anŋəmtəw
+\gr
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; 1:23:35
+\tx Tịmịna voskresenja, etep              urre        bụːgịskị,    Alešadudmer
+\mb tịmịna voskresenja  e   -t(E) -p      ur -R       bụg -E  -skI      Aleša -DU  -dmEr
+\ge tomorrow   Sunday.R     neg -fut  -1pl.in go -neg.cvb earth -ep -advb.all Alesha -dat -contr
+
+\tx bidger               anŋamtaw     ikeːlbe       dọlčịdgar.
+\mb bi -D    -GEr        anŋamta -W   ikeː -L  -W   dọlčị -D    -GEr
+\ge be -prog -imp.1pl.in new      -acc song  -pl -acc listen     -prog -imp.1pl.in
+\ft
+\gr at first said "eger urre bụːgịskị", i.e. with the IMP.1PL marker on the NEG verb, but when I read it back to her, she
+corrected it to "etep urre"; tịmịna etep gurgeːwčir = zavtra my ne rabotaem; eteptetitte urre = nu ne pojdem i vse!!
+
+\id K_Imperatives25
+\ref Esso3001_6:15
+\tx Edʒille     tolle           iwidkille,           iŋeńe.
+\mb e   -(LI)lrE tol     -(dU)LE ewiː -D    -kIllE   iŋeńe
+\ge neg -imp.2pl outside -loc    play  -prog -proh.pl cold
+
+\ru Не играйте на улице - холодно!
+\ph edille
+\gr iŋeń = "xolod", iŋeńe = xolodno
+
+\id K_Imperatives26
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso3001_22:15
+\tx Erew      iːsečim      enikes           polu         awra.
+\mb erek -W   iːsečin -W   e   -nikes       pol     -W   aw   -R
+\ge prox -acc evening   -acc neg -fut.proh.pl floor.R -acc wash -neg.cvb
+
+\ru Сегодня вечером не мойте полы!
+\ph I cannot quite hear (because I'm relistening to the elicitation sessions in Sebjan and the baby is screaming his bloody head
+off), but I had originally transcribed "erew iːsečiN", now however it sounds to me like "erew iːsečiM"
+\gr
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:27:10
+\tx Esimeː iːsečin eniken           ịlkatta            polu.
+\mb esimeː iːsečin e   -niken       hịlka -Č  -R(E)   pol     -W
+\ge later   evening   neg -fut.proh.sg wash    -res -nonfut floor.R -acc
+
+\gr Valentina Innokent'evna said that 'esime' means 'today', but Cincius gives only 'erew ineŋu' for today, and Robbek says
+that 'esime' means 'later, afterwards'; esimeːk has a meaning of 'segodnja popozže', however
+
+\id K_Imperatives27
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso3001_7:15
+\tx Edʒillekene        torekille      entekeːje, kụŋa ukleːn.
+\mb e   -(LI)lrE =kEnE  tore  -kIllE   entekeːje  kụŋa hukle -n(I)
+\ge neg -imp.2pl =contr speak -proh.pl strong      child   sleep -3sg
+
+\ru Пожалуйста, не говорите так громко, ребенок спит.
+\ph ədʒillekənä:
+\gr Rima Maksimovna said that the suffix -kene on the negative imperative expresses a request, pros'ba.
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:27:50
+\tx Entekeːje gasčịram,          entukušuken torelle,       kụŋa ukleːdden.
+\mb entekeːje gasčị -R(E)   -m   entukuken    tore  -(LI)lrE kụŋa hukle -D    -R(E)   -n(I)
+\ge strong     ask      -nonfut -1sg softly       speak -imp.2pl child   sleep -prog -nonfut -3sg
+
+\ft
+\nt Reelicited again a few days later, she first gave the same affirmative sentence as above (speak softly), but when I
+requested her to please translate it with a negative meaning (don't speak loudly), she gave the following:
+\tx Entekeːje gasčịram,          edʒille     entekeːje torekille.
+\mb entekeːje gasčị -R(E)   -m   e   -(LI)lrE entekeːje tore  -kIllE
+\ge strong     ask      -nonfut -1sg neg -imp.2pl strong     speak -proh.pl
+
+\id K_Imperatives28
+\ref Esso3001_22:45
+\tx Čas etep              gad           Mišaw,    nọŋan kụčụkan.
+\mb čas e   -t(E) -p      ga   -R       Miša -W   nọŋan kučuke
+\ge ptl  neg -fut  -1pl.in take -neg.cvb Misha -acc 3sg      small
+\ru Давай не возьмем Мишу...
+\ph gadə
+\tx Čas edeten                  gad           Mišaw,    nọŋan kụčụkan.
+\mb čas e   -DE       -tEn      ga   -R       Miša -W   nọŋan kučuke
+\ge ptl  neg -purp.cvb -poss.3pl take -neg.cvb Misha -acc 3sg      small
+\ru Пусть они не возьмут Мишу, он еще слишком молод!
+
+\id K_Imperatives29
+\ref Esso3001_8:05
+\tx Čas ponedelnikle       kụŋal    edeten                  školatkị      urre        - urečilte
+\mb čas ponedelnik -(dU)LE kụŋa -L  e   -DE       -tEn      škola   -t(E)kI ur -R       - urečilte
+\ge ptl  Monday.R   -loc    child   -pl neg -purp.cvb -poss.3pl school.R -all    go -neg.cvb - no.difference
+
+\tx tala          koplečidʒir       ikeːnidniker.
+\mb tarak -(dU)LE kopleči -DʒI -r   ikeː -n    -E-D     -nIkEn   -L
+\ge dist  -loc    dance    -fut  -3pl sing  -mult -ep-prog -sim.cvb -pl
+
+\ru Пусть в понедельник дети не пойдут в школу - все равно там будут только танцевать да петь!
+\ph ikeːnidniker --> she pronounced this with vowels that were quite hard\back, so that I though it was ịkaːnịdnịker.
+\gr koplečidʒir ikeːnidniker = tancevat' s pesnjami; When I asked separately what "ikeːnidniker" means, she said 'kogda peli
+pesni'
+\nt Esso3002_50:15
+\tx Nọŋartan ikeːnedde                   \\  ikeːdde                ikeːw.
+\mb nọŋartan ikeː -n    -E-D     -R(E)   *\\ ikeː -D    -R(E)       ikeː -W
+\ge 3pl         sing  -mult -ep-prog -nonfut *** sing  -prog -nonfut.3pl song  -acc
+
+\ru Они поют песню.
+\ph
+\tx Nọŋartan ikeːdditen                ikeːw.
+\mb nọŋartan ikeː -D    -RI  -tEn      ikeː -W
+\ge 3pl         sing  -prog -pst -poss.3pl song  -acc
+
+\ru Они пели песню.
+\ph
+\gr 'ikeːm' govorjat i 'ikeːw' --> this indicates that there is also a noun ikeːn derived from ikeː 'sing'
+
+\id K_Imperatives30
+\ref Esso3008_7:08
+\tx Emuŋenni                erew      ịlan ineŋ iltenneken.
+\mb em   -U    -ŋE     -nrI erek -W   ịlan ineŋ ielten -REk      -E-n(I)
+\ge come -caus -pol.imp -2sg prox -acc three  day   pass   -cond.cvb -ep-poss.3sg
+
+\ru Принеси это через 3 дня!
+\ph
+\nt This is taken from my thesis, an example by Malchukov; when I gave her the 'original' example for judgment (ịlan
+dolbaniw bisidʒi emudej), she translated it as "tri nochi projdet, prinesesh", and said yes, they say this, "emudej = čtoby
+prines", and also v smysle 'prinesi cherez 3 dnja'.
+
+\id K_Imperatives31
+\ref Esso3008_8:40
+\tx Urille      dʒụːtkịwụr        ńan   almadŋasan               ịaw      bi   goːniwu.
+\mb ur -(LI)lrE dʒụː -t(E)kI -WUr     ńaːn almad  -ŋE     -sEn      ịak -W   biː goːn -RI  -W
+\ge go -imp.2pl house    -all    -prfl.pl again  repeat -pol.imp -poss.2pl what  -acc 1sg  say   -pst -poss.1sg
+\ru Идите домой и повторяйте, что я сказал.
+\ph
+\nt This is an example from my thesis, by Malchukov; the 'original' example is: Tiːk orlille dʒụːtkịwụr erew goːnčew
+almadawụr. She translated it as "sejchas idite domoj chtoby skazannoe eto mnoju povtorjat' ".
+
+\id K_Imperatives32
+\ref Esso3008_10:00
+\tx Minu         muːle        uleːdej!                Ịŋa, uleːńŋewu.
+\mb min     -W   muː  -(dU)LE uleː -DE       -J       ịŋa  uleː -D(I)ŋE -W
+\ge 1sg.obl -acc water -loc    throw -purp.cvb -prfl.sg yes     throw -fut.ptc -poss.1sg
+\ru Меня в воду бросить. Да, я брошу, должен бросить.
+\ph
+\nt This was a judgement sentence taken from my thesis, an example by Malchukov. The Russian translation was given by
+Rima Maksimovna.
+
+\id K_Imperatives33
+\ref Esso3008_10:40
+\tx Tịmịna meːnken       ordʒiŋewu.
+\mb tịmịna meːn -KEn     hor -DʒIŋE -W
+\ge tomorrow   refl  -dim.int go  -hyp.ptc -poss.1sg
+
+\ru Завтра я сам пойду.
+\ph
+\nt This was a judgement sentence taken from my thesis, an example by Malchukov. The Russian translation was given by
+Rima Maksimovna.
+
+\id K_Imperatives34
+\ref Esso3008_10:55
+\tx Eniken           aːsaŋgarar.
+\mb e   -niken       aːsan          -Gr(E) -E-R
+\ge neg -fut.proh.sg become.insulted -hab   -ep-neg.cvb
+\ru Не вздумай сердиться!
+\ph
+\nt This was a judgement sentence taken from my thesis, an example by Malchukov. The Russian translation was given by
+Rima Maksimovna.
+
+\id K_Imperatives35
+\ref Esso3008_11:15
+\tx Oteddidʒur             dʒụːw     ubirajdatan.
+\mb hote -D    -RIdʒI  -L  dʒụː -W   ubiraj    -DE       -tEn
+\ge rest -prog -ant.cvb -pl house    -acc tidy.up.R -purp.cvb -poss.3pl
+
+\ru После того, как они отдохнули, пусть они убирают дом!
+\ph [uteddidʒur]
+\nt This example is from my thesis, Konstantinova on Evenki.
+
+\id K_Imperatives36
+\ref Esso3008_11:40
+\tx Dʒụːlawụ                                              emedeji!
+\mb dʒụː -(dU)LE -W
+\ge house    -loc    -poss.1sg
+\ft
+\ru Дома у меня будешь спать!
+\ph tried it out, and then changed it to [eːmedeji]
+\nt This was a judgement question; the sentence is taken from Evenki (Nedjalkov). She said that eːmedli = davaj spi (said to
+children); Prixodi ko mne domoj potom = dʒụːlawụ emŋenni; sejchas prixodi = emni!

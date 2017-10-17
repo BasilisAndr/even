@@ -1,0 +1,913 @@
+\_sh v3.0  1073 Text
+
+\id Neustroev_PD_Eveno_Bytantaj_000_metadata
+\ref Recorded on 25 March 2009 in Sebjan-Küöl by Brigitte Pakendorf, in the office of the klub, in the morning. Only he and BP were in
+the klub, and it was very quiet. We discussed what he would tell in Russian, then BP switched on the recording equipment and he
+spoke; when he finished with one topic, BP paused the recording equipment; so there are different topics in one big file, which were
+cut into separate sound and video files
+\qu ????? transcribed in ELAN by BP in 2009 and translated orally into Russian by Ija Vasil'evna Krivoshapkina in 2009; glossed by BP in 2010.
+Speaker abbreviation = PDN
+\ref Petr Dmitrievich Neustroev was 68 years old at the time of recording, srednee obrazovanie, is trained as a carpenter, worked as a
+horse and reindeer herder, is a master in making sleds and lassos; his origins are from Tompo, both parents from Tompo, but he
+grew up on some priiskax in the Verxojansk region, and has been living in Sebjan for 40 years - has nevertheless retained some
+Tompo dialectal features
+
+\id Neustroev_PD_Eveno_Bytantaj_001
+\tx Vot, požalujsta, pro... kak, doroga (v) Eveno-Bytantaj dʒugulin ukčenni.
+\mb
+\ge
+\ft There, please tell about your trip to (the) Eveno-Bytantaj (district).
+\ph
+\nt A mixture of Russian and Even
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:08.680
+\ELANParticipant BP
+\ru
+
+\id Neustroev_PD_Eveno_Bytantaj_002
+\tx Uduku        Sakkyryrtakị,   Ewen-Bytantajtakịn             biwetteŋi                   dʒugulin
+\mb erek -DUk(U) Sakkyryyr -t(E)kI Eveno-Bytantaj -t(E)kI -n(I)     bi -WEːČ -DEŋ    -J       dʒugu -(dU)LI -n(I)
+\ge prox -abl    Sakkyryyr -all    Eveno-Bytantaj -all    -poss.3sg be -gnr    -pst.ptc -prfl.sg about  -prol   -poss.3sg
+
+\tx ukčendekun.
+\mb ukčen -DE       -W
+\ge tell   -purp.cvb -poss.1sg
+
+\ft Let me tell (you) how I went to Sakkyryr, to (the) Eveno-Bytantaj (district).
+\ph uduk   very reduced back vowel in the allative suffixes  biwettiŋi 
+\gr
+\ELANBegin 00:00:08.680
+\ELANEnd 00:00:22.060
+\ELANParticipant
+\ru Давайте я расскажу как съездил в Саккырыр, Эвено-Бытантай.
+
+\id Neustroev_PD_Eveno_Bytantaj_003
+\tx Ele          axsïs   stadadụk     emnidʒi,     eduk         pradụktaw   garịdʒị,
+\mb erek -(dU)LE axsïs   stado  -DUk(U) em   -RIdʒI  erek -DUk(U) produkty -W   ga   -RIdʒI
+\ge prox -loc    eighth.Y herd.R -abl    come -ant.cvb prox -abl    food.R   -acc take -ant.cvb
+
+\tx dʒebleŋgej                   garịdʒị, nadan hịargalkan   bihem.
+\mb dʒep -LE -ŋ  -GE    -J       ga   -RIdʒI  nadan hịarga -lkEn bi -R(E) -m
+\ge eat   -nr -aln -desig -prfl.sg take -ant.cvb seven sled.Y   -prop be -nonfut -1sg
+
+\ft I came from the eighth reindeer brigade, took (bought) food from here, took food for myself, I had seven sleds.
+\ELANBegin 00:00:22.060
+\ELANEnd 00:00:32.300
+\ELANParticipant
+\ru Приехав с 8го стада, отсюда взяв продукты, себе еду взяв, у меня 7 нарт.
+
+\id Neustroev_PD_Eveno_Bytantaj_004
+\tx Dʒe,  dʒoːr mịardụk        hulek,                     dʒoːr mịar     ịlangụ, tụnŋangụ
+\mb dʒe   dʒoːr mịan -L  -DUk(U) hul              -E  -G    dʒoːr mịan -L  ịlan =GU  tụnŋan =GU
+\ge well.Y two     ten    -pl -abl    remain.in.excess -ep -advr two     ten    -pl three  =q   five      =q
+
+\tx ọralkan               bihem.
+\mb ọrọn          -lkEn bi -R(E) -m
+\ge domestic.reindeer -prop be -nonfut -1sg
+
+\ft Well, I have more than twenty reindeer, twenty three or twenty five.
+\ELANBegin 00:00:32.300
+\ELANEnd 00:00:42.270
+\ELANParticipant
+\ru Больше 20и, 23 или 25 оленей у меня.
+
+\id Neustroev_PD_Eveno_Bytantaj_005
+\tx Behis   stadala        aːnŋaram,                     behistuk        indʒeːnidʒi        horrem           emie.
+\mb behis   stado  -(dU)LE aːnŋa            -R(E) -m     behis   -DUk(U) indʒen      -RIdʒI  hor -R(E) -m     emie
+\ge fifth.Y herd.R -loc    stop.for.the.night -nonfut -1sg fifth.Y -abl    stop.to.rest -ant.cvb go  -nonfut -1sg also.Y
+\ft I spent the night in the fifth reindeer brigade, and after having rested a day I went on again.
+\ELANBegin 00:00:42.270
+\ELANEnd 00:00:49.730
+\ELANParticipant
+\ru Заночевал в 5ом стаде, подневав из пятого стада поехал опять.
+
+\id Neustroev_PD_Eveno_Bytantaj_006
+\tx Čahkị,        altïhla        ịhadnịkan           aːnŋaram,                     altïs  stadala
+\mb čaːg -skI      altïs  -(dU)LE ịs  -E-D     -nIkEn   aːnŋa            -R(E) -m     altïs  stado  -(dU)LE
+\ge far    -advb.all sixth.Y -loc    reach -ep-prog -sim.cvb stop.for.the.night -nonfut -1sg sixth.Y herd.R -loc
+
+\tx ịhram.
+\mb ịs  -R(E) -m
+\ge reach -nonfut -1sg
+
+\ft Then while on the way to the sixth brigade I stopped for the night, then I reached the sixth brigade. (i.e. he spent the night on the
+way to the sixth brigade)
+\ELANBegin 00:00:49.730
+\ELANEnd 00:00:56.000
+\ELANParticipant
+\ru Когда доезжал до 6го стада я заночевал, и добрался до 6го стада. (не доезжая заночевал, потом добрался)
+
+\id Neustroev_PD_Eveno_Bytantaj_007
+\tx Tadụk       gọrụ dʒe   ikkis    stada.
+\mb tarak -DUk(U) gọrụ dʒe   ikkis    stado
+\ge dist  -abl    far      well.Y second.Y herd.R
+\ft From there the second brigade is far.
+\ELANBegin 00:00:56.000
+\ELANEnd 00:01:04.070
+\ELANParticipant
+\ru Оттуда далеко второе стадо.
+
+\id Neustroev_PD_Eveno_Bytantaj_008
+\tx Tala          elgele           aːnŋanịkan,             dʒoːreːlbečen aːnŋanịkan              ịhram            ikkis
+\mb tarak -(dU)LE elge     -(dU)LE aːnŋa            -nIkEn                     aːnŋa            -nIkEn   ịs  -R(E) -m     ikkis
+\ge dist  -loc    interval -loc    stop.for.the.night -sim.cvb                   stop.for.the.night -sim.cvb reach -nonfut -1sg second.Y
+
+\tx stadala.
+\mb stado  -(dU)LE
+\ge herd.R -loc
+
+\ft In between I spent two nights, then I reached the second brigade.
+\ph
+\gr IVK didn't know the word dʒoːreːlbečen, but understood it to mean 'twice'
+\nt
+\qu ask Dejan if he has come across a form like this in Topolinoe
+\ELANBegin 00:01:04.070
+\ELANEnd 00:01:14.020
+\ELANParticipant
+\ru В промежутке заночевал, два раза заночевав добрался до второго стада.
+
+\id Neustroev_PD_Eveno_Bytantaj_009
+\tx Ulgimiwrer                erek:
+\mb ulgim -i      -Gr(E) -r   erek
+\ge ask   -ipf??? -hab   -3pl prox
+\ft They ask:
+\ELANBegin 00:01:14.020
+\ELANEnd 00:01:15.990
+\ELANParticipant
+\ru Спрашивают вот.
+
+\id Neustroev_PD_Eveno_Bytantaj_010
+\tx "Awahkị           horedʒindi?"    "Ee, Sakkyryrtakị    horeddem"                 goːnem.
+\mb aw    -E  -skI      hor -E-DʒI -nrI ee   Sakkyryyr -t(E)kI hor -E-D     -R(E) -m     goːn -R(E) -m
+\ge where -ep -advb.all go  -ep-fut -2sg eh   Sakkyryyr -all    go  -ep-prog -nonfut -1sg say   -nonfut -1sg
+
+\ft "Where are you going?" "I'm going to Sakkyryr", I say.
+\ELANBegin 00:01:15.990
+\ELANEnd 00:01:21.350
+\ELANParticipant
+\ru Куда ты едешь? В Саккырыр еду, говорю.
+
+\id Neustroev_PD_Eveno_Bytantaj_011
+\tx "Dʒe  gọrọlča         bihenni         ebit,      gọrụ biwečemnes".
+\mb dʒe   gọrụ -l  -čE    bi -R(E)   -nrI ebit       gọrụ bi -WEːČ -E  -mnE -s(I)
+\ge well.Y far      -vr -pf.ptc be -nonfut -2sg it.seems.Y long     be -gnr    -ep -hyp -poss.2sg
+\ft Well, you have come far, it seems, you will probably journey for a long time.
+\ph
+\gr gọrọlča bihenni = the speaker didn't see himself, but it is present tense, if it were gọrọlča bihis it would be past tense; and the
+hypothetical suffix gives a hypothetical nuance (not given in the Russian translation), while biweččinni (plain future) would be a
+straightforward assertion
+\ELANBegin 00:01:21.350
+\ELANEnd 00:01:24.460
+\ELANParticipant
+\ru Значит ты далеко добрался, долго будешь ездить.
+
+\id Neustroev_PD_Eveno_Bytantaj_012
+\tx "Ee, de     toru       itteji,                ahụnka      ịbga   tor"  goːniken.
+\mb ee   dʒe   tor   -W   it  -DE       -J       ahụn   =kkE ịbgọ tor   goːn -nIkEn
+\ge eh   well.Y earth -acc see -purp.cvb -prfl.sg how.much =ptl good     earth say   -sim.cvb
+
+\ft "Well, in order to see places/the land, how good the country is" I said.
+\ph
+\gr in Sebjan they usually say ahụnkeːl 'naskol'ko (eto xorošo)', or adịkeːl 'skol'ko imenno', with =kE utočnitel'naja častica, it might be
+that he just pronounced the emphatic particle with this unusual back vowel, at least Ija didn't know what else it could be
+\ELANBegin 00:01:24.460
+\ELANEnd 00:01:32.320
+\ELANParticipant
+\ru Чтобы посмотреть земли, насколько они хорошие.
+
+\id Neustroev_PD_Eveno_Bytantaj_013
+\tx De     bi   tala          al... nadan hịrga, hịrgala        ọttọn ńuŋen hịrgala
+\mb dʒe   biː tarak -(dU)LE alta  nadan hịarga hịarga -(dU)LE ọttọn ńuŋen hịarga -(dU)LE
+\ge well.Y 1sg  dist  -loc    six.Y seven sled.Y   sled.Y   -loc    dp.Y      six     sled.Y   -loc
+
+\tx dʒebleŋgej                   gawraram                 ńan   elgedu        aːnŋattị
+\mb dʒep -LE -ŋ  -GE    -J       ga   -Gr(E) -R(E) -m     ńaːn elge     -DU  aːnŋa            -Č  -RI
+\ge eat   -nr -aln -desig -prfl.sg take -hab   -nonfut -1sg and    interval -dat stop.for.the.night -res -impf.ptc
+
+\tx gọlọŋgajị                  gọllarịdʒị     bohk... moːw      heltewekkererem
+\mb gọl    -E  -ŋ  -GE    -J       gọl    -LE -RIdʒI  bokes   moː  -W   helte       -WEːČ -Gr(E) -R(E) -m
+\ge firewood -ep -aln -desig -prfl.sg firewood -vr -ant.cvb ice     water -acc carry.along -gnr    -hab   -nonfut -1sg
+
+\tx bịdọndụ.
+\mb bidon      -DU
+\ge canister.R -dat
+
+\ft Well I.... seven sleds, and on six sleds I take food, and I prepared firewood to spend the night in between (reindeer herder camps)
+and water in a canister.
+\ph
+\ELANBegin 00:01:32.320
+\ELANEnd 00:01:51.330
+\ELANParticipant
+\ru Семь нарт, в 6и нартах беру еду и приготовив дрова, и воды чтобы заночевать это тоже вожу с собой.
+
+\id Neustroev_PD_Eveno_Bytantaj_014
+\tx Ee, aːnŋarị                  gọlọŋgaj                     omen hịrgadụ   neːwrerem.
+\mb ee  aːnŋa            -RI       gọl    -E  -ŋ  -GE    -J       omen hịarga -DU  neː -Gr(E) -R(E) -m
+\ge eh  stop.for.the.night -impf.ptc firewood -ep -aln -desig -prfl.sg one  sled.Y   -dat put  -hab   -nonfut -1sg
+\ft I put the firewood for my overnight breaks onto one sled.
+\ELANBegin 00:01:51.330
+\ELANEnd 00:01:58.030
+\ELANParticipant
+\ru На одну нарту кладу дров для ночевки.
+
+\id Neustroev_PD_Eveno_Bytantaj_015
+\tx Ịhramda               balakkajị      el... ọralbị                        tiːnidʒi,       balakkaw
+\mb ịs  -R(E) -m     =DE  palatka -J             ọrọn          -E-L   -J       tiːn    -RIdʒI  palatka -W
+\ge reach -nonfut -1sg =ptl tent.R  -prfl.sg       domestic.reindeer -ep-pl -prfl.sg set.free -ant.cvb tent.R  -acc
+
+\tx elbewrerem,                    ọhọkụ   duru...    dururemde,                   čajnịkčamụ
+\mb elbe       -Gr(E) -R(E) -m     ọhọk -W   dur  -U    dur  -U    -R(E) -m     =DE  čajnik  -čEn -W
+\ge cover.yurt -hab   -nonfut -1sg stove.Y  -acc burn -caus burn -caus -nonfut -1sg =ptl teapot.R -dim  -poss.1sg
+
+\tx ŋeneːdʒi  hujelgeren,                  termehelkende            bihem.
+\mb ŋeneːdʒin huj  -E-L     -Gr(E) -E-n(I) termos    -E  -lkEn =DE  bi -R(E) -m
+\ge immediately  boil -ep-inch -hab   -ep-3sg thermos.R -ep -prop =ptl be -nonfut -1sg
+
+\ft When I reach (the place to stop for the night) I set the reindeer loose and put up my tent, I light the stove, my teapot boils
+immediately, and I also have a thermos.
+\ELANBegin 00:01:58.030
+\ELANEnd 00:02:10.420
+\ELANParticipant
+\ru Добравшись сразу опустив оленей ставлю палатку, разжигя печку сразу кипятится чайник, и еще у меня есть термос.
+
+\id Neustroev_PD_Eveno_Bytantaj_016
+\tx Tar   tačịn       biwekkererem.
+\mb tarak tarọːčịn bi -WEːČ -Gr(E) -R(E) -m
+\ge dist  dist.qual      be -gnr    -hab   -nonfut -1sg
+\ft That is how I journey.
+\ELANBegin 00:02:10.420
+\ELANEnd 00:02:12.110
+\ELANParticipant
+\ru Так езжу
+
+\id Neustroev_PD_Eveno_Bytantaj_017
+\tx De     tačịn       biwetniken          tar   ịala,       Dʒargalaxla       ịhram.
+\mb dʒe   tarọːčịn bi -WEːČ -nIkEn   tarak ịak -(dU)LE Dʒargalax -(dU)LE ịs  -R(E) -m
+\ge well.Y dist.qual      be -gnr    -sim.cvb dist  what  -loc    Djargalax  -loc    reach -nonfut -1sg
+\ft Well, travelling like that I reached Djargalax.
+\ELANBegin 00:02:12.110
+\ELANEnd 00:02:19.270
+\ELANParticipant
+\ru Так ездя, добрался до Джаргалаха.
+
+\id Neustroev_PD_Eveno_Bytantaj_018
+\tx Dʒargalaxtụkụ čahkị         Ewen-Bytantajla,       ee, masịnat      biwettiw.
+\mb Dʒargalax -DUk(U) čaːg -skI      Eveno-Bytantaj -(dU)LE ee  mašịna -Č  bi -WEːČ -RI -W
+\ge Djargalax  -abl    far    -advb.all Eveno-Bytantaj -loc    eh  car.R     -ins be -gnr    -pst -poss.1sg
+
+\ft From Djargalax to Eveno-Bytantaj I went by car.
+\ELANBegin 00:02:19.270
+\ELANEnd 00:02:29.210
+\ELANParticipant
+\ru От Джаргалаха дальше в Эвено-Бытантай на машине ездил.
+
+\id Neustroev_PD_Eveno_Bytantaj_019
+\tx Ta..  tadụk       ahụkan, dʒapkanńụn ńulge, Dʒargalaxtụk    Ewen-Bytantaj.
+\mb tarak tarak -DUk(U) ahụkan  dʒapkan =ńUn nulge   Dʒargalax -DUk(U) Eveno-Bytantaj
+\ge dist  dist  -abl    near      eight    =emph migrate Djargalax  -abl    Eveno-Bytantaj
+\ft From there it's close, only eighty kilometres, from Djargalax, Eveno-Bytantaj.
+\ph
+\nt one ńulge = 10 km, it's the distance a reindeer herd migrates in one go?? 
+\qu try to ask an old person about nulge, whether it is the distance a herd migrates in one go
+\ELANBegin 00:02:29.210
+\ELANEnd 00:02:35.860
+\ELANParticipant
+\ru Оттуда близко, только 80 км из Джаргалаха Эвено-Бытантай.
+
+\id Neustroev_PD_Eveno_Bytantaj_020
+\tx Ewen-Bytantajdụkụ  emie   masịnat      nọŋartan stadalatnan              biwettiw.
+\mb Eveno-Bytantaj -DUk(U) emie   mašịna -Č  nọŋartan stado  -(dU)LE -tEn      bi -WEːČ -RI -W
+\ge Eveno-Bytantaj -abl    also.Y car.R     -ins 3pl         herd.R -loc    -poss.3pl be -gnr    -pst -poss.1sg
+\ft From Eveno-Bytantaj (probably the district centre Sakkyryr is meant) I also travelled by car to their reindeer brigades.
+\ELANBegin 00:02:35.860
+\ELANEnd 00:02:42.860
+\ELANParticipant
+\ru Из Эвено-Бытантая дальше тоже на машине в их стада ездил.
+
+\id Neustroev_PD_Eveno_Bytantaj_021
+\tx Tarak nọŋartan stadalatnan              emie   digen ńulgeduk       hulek                      torre
+\mb tarak nọŋartan stado  -(dU)LE -tEn      emie   digen nulge   -DUk(U) hul              -E  -G    tor   -(dU)LE
+\ge dist  3pl         herd.R -loc    -poss.3pl also.Y four  migrate -abl    remain.in.excess -ep -advr earth -loc
+
+\tx bihe.
+\mb bi -R(E)
+\ge be -nonfut
+
+\ft In their herd... they are also in a place more than forty kilometres (away from the district centre).
+\ph
+\ELANBegin 00:02:42.860
+\ELANEnd 00:02:50.680
+\ELANParticipant
+\ru В ихним стаде тоже ... больше 40 км они находятся.
+
+\id Neustroev_PD_Eveno_Bytantaj_022
+\tx Tar   töttörü mụčụrịt.
+\mb tarak töttörü mụčụ -RI -t(I)
+\ge dist  back.Y     return    -pst -poss.1pl.in
+\ft Then we came back.
+\ELANBegin 00:02:50.680
+\ELANEnd 00:02:54.570
+\ELANParticipant
+\ru Потом обратно вернулись.
+
+\id Neustroev_PD_Eveno_Bytantaj_023
+\tx Ọːn bihiwutnen,                 ọːn gurgewčiriwutnen             meddiw                bi   tala.
+\mb ọːn bi -RI -W -tEn              ọːn gurgeːwči -RI -W -tEn       med    -RI -W         biː tarak -(dU)LE
+\ge how    be -impf.ptc -acc -poss.3pl how    work -impf.ptc -acc -poss.3pl notice -pst -poss.1sg 1sg  dist  -loc
+\ft How they live, how they work I learned there.
+\ELANBegin 00:02:54.570
+\ELANEnd 00:03:00.500
+\ELANParticipant
+\ru Как они живут, как они работают я узнал там.
+
+\id Neustroev_PD_Eveno_Bytantaj_024
+\tx Aːnŋatča                     bimi         bejelńun        igin  ečin      ịak mụlgụlkahalban,
+\mb aːnŋa            -Č  -čE    bi -mI       bej -E-L   -ńUn iŋin erroːčin ịak mụlgan -lkEn -SEl -W   -E-n(I)
+\ge stop.for.the.night -res -pf.ptc be -cond.cvb man -ep-pl -com  etc.Y prox.qual  what  thought  -prop -pl  -acc -ep-poss.3sg
+
+\tx irek  abyčajalban,                        abyčajalkahal            bihiwutnen                  medče
+\mb irek  obyčaj     -E-L   -W   -E-n(I)      obyčaj     -E-lkEn  -SEl bi -RI -W -tEn              med    -čE
+\ge which tradition.R -ep-pl -acc -ep-poss.3sg tradition.R -ep-prop -pl  be -impf.ptc -acc -poss.3pl notice -pf.ptc
+
+\tx bimču.
+\mb bi -mč(I) -W
+\ge be -sbjv   -poss.1sg
+
+\ft If I had spent the night I would have learned what thoughts and traditions they have.
+\ph
+\gr aːnŋatča bimi .... medče bimču = if I had stopped for the night, I would have learned; aːnŋatča bimi .... meddem = because I stopped
+for the night I learned, so the combination -čE bimi has two meanings, it seems; medče bimču = ja by uznal (past tense), medemču =
+ja by uznal (present tense), meddi bimču = ja by postojanno uznaval; (05_quest_2010, 32:10) *aːnŋarakụ .... medče bimču =
+ungrammatical, because the cvb -REk is DS!!, only aːnŋača bimi, or aːnŋami .... medče bimču, that is possible; Esli by ja znala, čto u
+nee rodilsja rebenok, ja by privezla podarok = haːča bimi/haːmị, ịawgol emuče bimču; tak kak ja znala, čto u nee rodilsja rebenok, ja
+privezla podarok = nọŋan kụŋan baldadaŋman haːrịdʒị/ haːrị bimi ịawgol emurem; esli 'tak kak' govorit', to lučše so slovom
+goːniken, e.g. kụŋa baldača goːniken/goːmi, ịawgol emurem; tak kak ja znaju, čto u nee rodilsja rebenok, ja budu privozit' podarok
+= haːrị bimi.... emudʒim; esli by mašina byla, my by uexali = masịna biče biheken, horče bimčelti; esli budet mašina, my budem
+uexat' = masịna biheken herdʒip; Tak kak byla mašina, my uexali = Masịna bihin, teːmi mut horrit; Tak kak budet mašina, my
+budem uexat' = masịna bihni goːmi  mut herdʒip/masịna bidʒin, teːmi herdʒip;; one can say either "ịak mụlgụlkahalban medče
+bimču" I would have learned about what thoughts they have, with the proprietive taking accusative case; or "abyčajalkahal
+bihiwutnen medče bimču" with the auxiliary taking the auxiliary case; accusative case on both proprietive and auxiliary would not
+be correct
+\qu
+\ELANBegin 00:03:00.500
+\ELANEnd 00:03:14.160
+\ELANParticipant
+\ru Так как я там ночевал я бы узнал какие у них традиции и обычаи, и какие у них мысли (если бы я там заночевал, я все бы узнал)
+
+\id Neustroev_PD_Eveno_Bytantaj_025
+\tx Tara  huopar   ïksaːnịkan   dʒe,  ọram                 garịdʒụr,    töttörü mụčụrịt,
+\mb tarak huopar   ïksaː -nIkEn   dʒe   ọrọn          -W   ga   -RIdʒI -L   töttörü mụčụ -RI -t(I)
+\ge dist  driver.Y hurry.Y -sim.cvb well.Y domestic.reindeer -acc take -ant.cvb -pl back.Y     return    -pst -poss.1pl.in
+
+\tx idehe       ọram                 garịdʒụr.
+\mb idehe       ọrọn          -W   ga   -RIdʒI -L
+\ge slaughter.Y domestic.reindeer -acc take -ant.cvb -pl
+
+\ft The driver was in a hurry, so we just took a reindeer and returned, took a reindeer for slaughter.
+\ELANBegin 00:03:14.160
+\ELANEnd 00:03:20.820
+\ELANParticipant
+\ru Шофер спешил, на забой взяв оленя мы обратно вернулись.
+
+\id Neustroev_PD_Eveno_Bytantaj_026
+\tx Tarịt mụčụdnịkan,       dʒe   tala          tọlkụttụkụ,               ịaka bi   ihni tọlkụtmị
+\mb tarịt mụčụ -D    -nIkEn   dʒe   tarak -(dU)LE tọlkan -Č  -REk      -W        ịak  biː      tọlkat -mI
+\ge then    return    -prog -sim.cvb well.Y dist  -loc    dream    -res -cond.cvb -poss.1sg what   1sg       dream    -cond.cvb
+
+\tx haːwraram.
+\mb haː -Gr(E) -R(E) -m
+\ge know -hab   -nonfut -1sg
+
+\ft Then returning, I dreamed there, me, when I dream I know.
+\ph
+\gr
+\nt i.e. his dreams come true
+\qu and IVK didn#t know ihni - ask Dejan whether he knows such a word
+\ELANBegin 00:03:20.820
+\ELANEnd 00:03:33.360
+\ELANParticipant
+\ru Возвращаясь, как я смотрел во сне, я когда вижу во сне я знаю (видит вещие сны).
+
+\id Neustroev_PD_Eveno_Bytantaj_027
+\tx Ọttọn abịgaw              goːŋnen          ehni,          "erek egdʒen tọlkụlkan  bej bidʒin"
+\mb ọttọn abaga       -W        goːn -Gr(E) -n(I) e -R(E) -n(I)  erek  egdʒen tọlkan -lkEn bej bi -DʒI -n(I)
+\ge dp.Y      grandfather -poss.1sg say   -hab   -3sg  neg -nfut -3sg prox  big     dream    -prop man be -fut  -3sg
+
+\tx goːniken.
+\mb goːn -nIkEn
+\ge say   -sim.cvb
+
+\ft My grandfather said, "this will be a man with big dreams".
+\ph it sounds a bit like goːŋner ehni
+\gr goːŋnen ehni = govoril ved', ehni has a function like Sakha diː
+\ELANBegin 00:03:33.360
+\ELANEnd 00:03:37.460
+\ELANParticipant
+\ru Мой дед говорил "это будет человек с большими снами".
+
+\id Neustroev_PD_Eveno_Bytantaj_028
+\tx Ajdịtta    tọlkụtkararam.
+\mb ajdịt =DE  tọlkat -Gr(E) -R(E) -m
+\ge truth   =ptl dream    -hab   -nonfut -1sg
+\ft And I truly dream.
+\ELANBegin 00:03:37.460
+\ELANEnd 00:03:38.710
+\ELANParticipant
+\ru И правду вижу во сне.
+
+\id Neustroev_PD_Eveno_Bytantaj_029
+\tx De     tala          er   horednikende,              torrede            biwetniken,         erek er
+\mb dʒe   tarak -(dU)LE erek hor -E-D     -nIkEn   =DE  tor   -(dU)LE =DE  bi -WEːČ -nIkEn   erek erek
+\ge well.Y dist  -loc    prox go  -ep-prog -sim.cvb =ptl earth -loc    =ptl be -gnr    -sim.cvb prox prox
+
+\tx ikeːniken,    ebeter ịawraram...               kiːkenteken      horgererem.
+\mb ikeː -nIkEn   ebeter ịa    -Gr(E) -R(E) -m     kieke   -ntEkEn   hor -Gr(E) -R(E) -m
+\ge sing  -sim.cvb or.Y   do.what -hab   -nonfut -1sg whistle -mult.cvb go  -hab   -nonfut -1sg
+
+\ft And going, when I am going hunting I sing, or I do what, I go whistling.
+\ELANBegin 00:03:38.710
+\ELANEnd 00:03:53.600
+\ELANParticipant
+\ru И ездя, и когда хожу на охоту, постоянно распевая или что-то там делаю, еду свистя.
+
+\id Neustroev_PD_Eveno_Bytantaj_030
+\tx Ahụmda           horriji                ehendi           haːwrar,            tar   ikeːmi.
+\mb ahụn   -W   =DE  hor -RI       -J       e   -R(E)   -nrI haː -Gr(E) -R       tarak ikeː -mI
+\ge how.much -acc =ptl go  -impf.ptc -prfl.sg neg -nonfut -2sg know -hab   -neg.cvb dist  sing  -cond.cvb
+
+\ft You don't even know how far you've gone if you sing. 
+\ph
+\nt i.e. you don't notice the time when you sing
+\ELANBegin 00:03:53.600
+\ELANEnd 00:03:59.100
+\ELANParticipant
+\ru Не знаешь, сколько ты проехал, если ты поешь.
+
+\id Neustroev_PD_Eveno_Bytantaj_031
+\tx clears throat
+\ELANBegin 00:03:59.100
+\ELANEnd 00:04:00.680
+\ELANParticipant comment
+\ru
+
+\id Neustroev_PD_Eveno_Bytantaj_032
+\tx Tačịn       tatča        bihem.
+\mb tarọːčịn tat   -čE    bi -R(E) -m
+\ge dist.qual      learn -pf.ptc be -nonfut -1sg
+\ft I learned like that.
+\ph
+\gr here, the construction with the pf.ptc and bi- of course does not express unwitnessed past, since he is talking about himself; however,
+it gives a meaning of his having learnt or gotten the habit of singing sort of unnoticed, by itself, it's not something he learned
+especially, consciously
+\ELANBegin 00:04:00.680
+\ELANEnd 00:04:03.060
+\ELANParticipant
+\ru Я так приучился.
+
+\id Neustroev_PD_Eveno_Bytantaj_033
+\tx Tiekte    ikeːwrerem,              telinde      biwečedniken,               irew       taraw
+\mb tiek =DE  ikeː -Gr(E) -R(E) -m     tolin   =DE  bi -WEːČ -E-D     -nIkEn   irek  -W   tarak -W
+\ge now  =ptl sing  -hab   -nonfut -1sg outside =ptl be -gnr    -ep-prog -sim.cvb which -acc dist  -acc
+
+\tx hịargawda        ọːčadnịkan,         maːwụtụda      ịlčaːdnịkan
+\mb hịarga -W   =DE  ọː -Č  -D    -nIkEn   maːwụt -W   =DE  ịlča -D    -nIkEn
+\ge sled.Y   -acc =ptl make  -res -prog -sim.cvb lasso     -acc =ptl braid   -prog -sim.cvb
+
+\ft And even now I sing, when I am walking down the street, when I am making a sled, when I am braiding a lasso.
+\ph
+\gr ọːčịdnịkan - IVK wouldn't really say this, she would rather just say ọːdnịkan, but ọːčịdnịkan would have a meaning of doing
+something for an even longer time than ọːdnịkan 
+\ELANBegin 00:04:03.060
+\ELANEnd 00:04:11.280
+\ELANParticipant
+\ru И сейчас пою и когда на улице хожу и когда делаю нарты и когда плету аркан.
+
+\id Neustroev_PD_Eveno_Bytantaj_034
+\tx Ee, če,  dʒebednikenńun              ehem             ikeːwrer,            tara  hińimkin goːmi.
+\mb ee  če   dʒep -E-D     -nIkEn   =ńUn e   -R(E) -m     ikeː -Gr(E) -R       tarak hińimkin goːn -mI
+\ge eh  ptl.Y eat   -ep-prog -sim.cvb =emph neg -nonfut -1sg sing  -hab   -neg.cvb dist  sin       say   -cond.cvb
+\ft Only when I eat do I not sing, because that is a sin.
+\ELANBegin 00:04:11.280
+\ELANEnd 00:04:17.090
+\ELANParticipant
+\ru Только когда кушаю не пою, потому что это грех.
+
+\id Neustroev_PD_Eveno_Bytantaj_035
+\tx Tara.
+\mb tarak
+\ge dist
+
+\ELANBegin 00:04:17.090
+\ELANEnd 00:04:18.750
+\ELANParticipant
+\ru
+
+\id Neustroev_PD_Eveno_Bytantaj_036
+\tx De     tačịn       omen tordu      tọlkọttọm.
+\mb dʒe   tarọːčịn omen tor   -DU  tọlkat -R(E) -m
+\ge well.Y dist.qual      one  earth -dat dream    -nonfut -1sg
+\ft Well, in one place I dreamt like this.
+\ELANBegin 00:04:18.750
+\ELANEnd 00:04:23.930
+\ELANParticipant
+\ru В одном месте мне так приснилось.
+
+\id Neustroev_PD_Eveno_Bytantaj_037
+\tx De     tọlkọttakụ             buollar tar   ahal      ukčemmekkerer.
+\mb dʒe   tọlkat -REk      -W        buollar tarak asị -L  ukčen -mEČ -Gr(E) -r
+\ge well.Y dream    -cond.cvb -poss.1sg dp.Y    dist  woman -pl tell   -rec  -hab   -3pl
+
+\ft When I dreamed, women were talking with each other.
+\ELANBegin 00:04:23.930
+\ELANEnd 00:04:28.610
+\ELANParticipant
+\ru Когда мне снилось, разговаривают женщины.
+
+\id Neustroev_PD_Eveno_Bytantaj_038
+\tx Ahal      buollaγïna, ahịl    buollaγïna, tar   dʒoːr ahị bihni,          omen haːwdị, omen
+\mb asị -L  buollaγïna  asị -L  buollaγïna  tarak dʒoːr asị bi -R(E) -n(I)  omen hagdị    omen
+\ge woman -pl dp.Y          woman -pl dp.Y          dist  two     woman be -nonfut -3sg one  old        one
+
+\tx nostemčiri   ahị.
+\mb noste -mčIrI asị
+\ge young -attn   woman
+
+\ft As for the women, there were two women, one old, one sort of young.
+\ph
+\gr (05_quest_2010, 13:30) nostemrin (with the attenuative suffix -mrIn) they don't say here; they do say nostehuken, but that has a bit
+of a nuance of comparison, i.e. an attenuative suffix with a comparative meaning (she is somewhat younger than someone else);
+miltereːmčiri čaška = ne sovsem to, m.b. v shutke, ne sovsem polnaja čaška; mahŋịmčịrị stul = tverdovatij stul
+\ELANBegin 00:04:28.610
+\ELANEnd 00:04:37.060
+\ELANParticipant
+\ru А женщины, 2 женщины есть, одна старая, одна молодоватая.
+
+\id Neustroev_PD_Eveno_Bytantaj_039
+\tx Ahị, bi   tọlkụttakụ             bọllaγịna er,  er   ọkaːt mụhọnnị     biwren.
+\mb asị  biː tọlkat -REk      -W        buollaγïna   erek erek ọkaːt mụhan -n(I)     bi -Gr(E) -n(I)
+\ge woman  1sg  dream    -cond.cvb -poss.1sg dp.Y           prox prox river    spirit  -poss.3sg be -hab   -3sg
+\ft The woman, as I dreamed, was the spirit of the river.
+\ELANBegin 00:04:37.060
+\ELANEnd 00:04:43.910
+\ELANParticipant
+\ru Как я видел во сне, эта женщина это дух реки.
+
+\id Neustroev_PD_Eveno_Bytantaj_040
+\tx De     irek  bej emnen             goːnikehel.
+\mb dʒe   irek  bej em   -R(E) -n(I)  goːn -nIkEn   -SEl
+\ge well.Y which man come -nonfut -3sg say   -sim.cvb -pl
+\ft What person has come, they said.
+\ELANBegin 00:04:43.910
+\ELANEnd 00:04:46.340
+\ELANParticipant
+\ru Что за человек пришел говоря.
+
+\id Neustroev_PD_Eveno_Bytantaj_041
+\tx Ịawrar            de,    "keńeli bej emnen             tar"  goːnikehel         ukčemmekkerer.
+\mb ịa    -Gr(E) -r   dʒe   keńeli  bej em   -R(E) -n(I)  tarak goːn -nIkEn   -SEl ukčen -mEČ -Gr(E) -r
+\ge do.what -hab   -3pl well.Y bad      man come -nonfut -3sg dist  say   -sim.cvb -pl  tell   -rec  -hab   -3pl
+
+\ft "A bad person has come" they said to each other.
+\ELANBegin 00:04:46.340
+\ELANEnd 00:04:53.730
+\ELANParticipant
+\ru Это плохой человек приехал говоря разговаривают.
+
+\id Neustroev_PD_Eveno_Bytantaj_042
+\tx Ee, bi   keńelibu         dien     tar   nọŋartan er   ịaka tor   mụhọnnị     mịalgarača          bej
+\mb ee  biː keńeli -W        dien     tarak nọŋartan erek ịak  tor   mụhan -n(I)     mịal  -Gr(E) -čE    bej
+\ge eh  1sg  bad     -poss.1sg saying.Y dist  3pl         prox what   earth spirit  -poss.3sg wake.up -hab   -pf.ptc man
+
+\tx ikeːndun.
+\mb ikeː -n  -DU  -n(I)
+\ge sing  -nr -dat -poss.3sg
+
+\ft I am bad in that the spirit of the earth woke up from a person's singing.
+\ph nọŋọrtọn
+\gr mịalgarača = prosypaetsja, a general statement; mịalča = woke up just now; (05_quest_2010, 38:25) mịalgarača = obyčno
+prosypaetsja; mịalča = prosnulsja voobšče, prosnuvšijsja; mịalgaran = on prosypaetsja obyčno, e.g. nọŋan nadan častu mịalgaran;
+mịallan = sejčas prosnulsja; Tiše, rebenok prosnetsja! = Hagara, kụŋa mịaldʒịn; Smotri, rebenok prosypaetsja - uže ulybaetsja =
+Itli, kụŋa mịaladdan, muhemedden. Nọŋan kọrọtla horgereče = on obyčno uežaet v gorod; nọŋan kọrọtla horče = on uexal v
+gorod (sejčas v gorode naverno), uexal davno; nọŋan kọrọtla horren = on uexal v gorod, tol'ko čto otpravilsja, ešče ne tam; bi ejmu
+họːja knigew taŋgarača = čitala mnogo knig; họːja knigew taŋgaran = sejčas čitaet obyčno; taŋča = pročitala mnogo knig -- so it
+has to be matter of telicity, that with the telic verbs -garača has a meaning of obyčno delaet
+\ELANBegin 00:04:53.730
+\ELANEnd 00:05:07.990
+\ELANParticipant
+\ru Я плохой в том, что дух земли просыпается от песни человека.
+
+\id Neustroev_PD_Eveno_Bytantaj_043
+\tx Tugerep        iŋenhińdʒekeːn    dọːdụn           tar   ikeːn    ụldanịkan,    tor   mụhọnnị
+\mb tugeni -(E)rEp iŋeńsi -ńdʒE -KEn dọː -DU  -n(I)     tarak ikeː -n  ụlda   -nIkEn   tor   mụhan -n(I)
+\ge winter -adjr   cold     -aug    -dim inside -dat -poss.3sg dist  sing  -nr resonate -sim.cvb earth spirit  -poss.3sg
+
+\tx tadụ     mịalgarača          ebit.
+\mb tarak -DU  mịal  -Gr(E) -čE    ebit
+\ge dist  -dat wake.up -hab   -pf.ptc it.seems.Y
+
+\ft When singing resonates in the cold of winter, the spirit of the earth wakes up.
+\ph
+\gr the combination of augmentative plus diminutive gives a more descriptive nuance, bolee obrazno, I guess it just intensifies the
+overall meaning
+\ELANBegin 00:05:07.990
+\ELANEnd 00:05:20.510
+\ELANParticipant
+\ru Когда в зимние холода раздается песня человека, то просыпается дух земли.
+
+\id Neustroev_PD_Eveno_Bytantaj_044
+\tx Tiek dʒọmkattakụ               tarak nahaː egdʒen hijimkin, keńeli goːniken
+\mb tiek dʒọmkat -REk      -W        tarak nahaː egdʒen hińimkin keńeli goːn -nIkEn
+\ge now  think      -cond.cvb -poss.1sg dist  very.Y big     sin       bad     say   -sim.cvb
+
+\tx dʒọmkačaldam                 er   haːwdanịdʒị.
+\mb dʒọmkat -E-L     -R(E) -m     erek hagdị -n  -RIdʒI
+\ge think      -ep-inch -nonfut -1sg prox old     -vr -ant.cvb
+
+\ft When I think about it now, it is a very big sin, it is bad, I have started to think like that having grown old.
+\ELANBegin 00:05:20.510
+\ELANEnd 00:05:27.200
+\ELANParticipant
+\ru Как сейчас думаю, это очень большой грех, плохо, начал так думать постарев.
+
+\id Neustroev_PD_Eveno_Bytantaj_045
+\tx Tadụk       emnidʒi      ọttọn bi   tugeniw     kọŋdas, ọttọn eregerde    tiekte
+\mb tarak -DUk(U) em   -RIdʒI  ọttọn biː tugeni -W   kọŋdas  ọttọn ereger =DE  tiek =DE
+\ge dist  -abl    come -ant.cvb dp.Y      1sg  winter -acc through    dp.Y      always =ptl now  =ptl
+
+\tx dʒọmkakkararam,             ọːn biweč...  dʒulle       ọːn biwetteŋi                   ọːn ikeːdeŋi,
+\mb dʒọmkat -Gr(E) -R(E) -m     ọːn bi -WEːČ dʒul -(dU)LE ọːn bi -WEːČ -DEŋ    -J       ọːn ikeː -DEŋ    -J
+\ge think      -hab   -nonfut -1sg how    be -gnr    front -loc    how    be -gnr    -pst.ptc -prfl.sg how    sing  -pst.ptc -prfl.sg
+
+\tx ọːn bụltadaŋị,           ili           biwetteŋi,                  idu        aːnŋattaŋị.
+\mb ọːn bụlta -DEŋ    -J       irek  -(dU)LI bi -WEːČ -DEŋ    -J       irek  -DU  aːnŋa            -Č  -DEŋ    -J
+\ge how    hunt.Y  -pst.ptc -prfl.sg which -prol   be -gnr    -pst.ptc -prfl.sg which -dat stop.for.the.night -res -pst.ptc -prfl.sg
+
+\ft I came (back) from there and throughout the winter, always, even now I think how I went, how I sang, how I hunted, where I
+travelled, where I stopped for the night.
+\ph biwettiŋi, ikeːdiŋi, bụltadəŋị, biwettiŋi, aːnŋattəŋị
+\ELANBegin 00:05:27.200
+\ELANEnd 00:05:38.290
+\ELANParticipant
+\ru Оттуда приехав целую зиму я и сейчас думаю как раньше ездил, как пел как охотился где ездил где ночевал.
+
+\id Neustroev_PD_Eveno_Bytantaj_046
+\tx Taraw      bukeččeːmen                 tiek dʒọmkakkararam.
+\mb tarak -W   bekeč -čEn -W   -E-n(I)      tiek dʒọmkat -Gr(E) -R(E) -m
+\ge dist  -acc all    -dim  -acc -ep-poss.3sg now  think      -hab   -nonfut -1sg
+
+\ft I think about all that now.
+\ELANBegin 00:05:38.290
+\ELANEnd 00:05:41.060
+\ELANParticipant
+\ru Я обо всем этом думаю.
+
+\id Neustroev_PD_Eveno_Bytantaj_047
+\tx Haːn aj   biwreče,         haːn keńeli, keńeli hijimkin  biwreče          ebit,      meːne
+\mb haːn aj   bi -Gr(E) -čE    haːn keńeli  keńeli hińimkin bi -Gr(E) -čE    ebit       meːne
+\ge some  good be -hab   -pf.ptc some  bad      bad     sin       be -hab   -pf.ptc it.seems.Y simply.Y
+
+\tx ikeketmi.
+\mb ikeː -kEČ -mI
+\ge sing  -mult -cond.cvb
+
+\ft Sometimes it is good, sometimes it is bad, a sin, to sing like that, simply.
+\ELANBegin 00:05:41.060
+\ELANEnd 00:05:49.510
+\ELANParticipant
+\ru Иногда бывает хорошо, иногда плохо, грех бывает если просто так петь.
+
+\id Neustroev_PD_Eveno_Bytantaj_048
+\tx Ta... ečinde         dʒọmkatmị       ịak aːnńa bidʒin        er   tugeni dʒe   ịmandat     dahad...
+\mb tarak erroːčin =DE  dʒọmkat -mI       ịak aːnńa bi -DʒI -n(I) erek tugeni dʒe   ịmanra -Č  das   -E-D
+\ge dist  prox.qual  =ptl think      -cond.cvb what  good.Y  be -fut  -3sg  prox winter well.Y snow     -ins cover -ep-prog
+
+\tx dahapča              tugeniw        tar   iŋehidu      ịamị          tar   ụldanịkan,    ọkaːttụk
+\mb das   -E-B    -čE    tugeni -E-W    tarak iŋeńsi -DU  ịa    -mI       tarak ụlda   -nIkEn   ọkaːt -DUk(U)
+\ge cover -ep-med -pf.ptc winter -ep-acc dist  cold     -dat do.what -cond.cvb dist  resonate -sim.cvb river    -abl
+
+\tx ụldanịkan     egdʒen holoŋne             ịanịkan,     tarakta    egdʒen biwren.
+\mb ụlda   -nIkEn   egdʒen heleŋ       -(dU)LE ịa    -nIkEn   tarak =DE  egdʒen bi -Gr(E) -n(I)
+\ge resonate -sim.cvb big     big.mountain -loc    do.what -sim.cvb dist  =ptl big     be -hab   -3sg
+
+\ft If one thinks about it, what good is there when in winter, where everything is covered with snow, in the frost, it resonates from the
+river and (hitting) a big stony mountain, that is also big (i.e. sounds carry far in the wintertime, and can be intensified by the echo).
+\ph
+\ELANBegin 00:05:49.510
+\ELANEnd 00:06:11.940
+\ELANParticipant
+\ru Если так подумать, что хорошего может быть когда покрытая снегом зимой холода раздаваясь из реки по большим горам это
+тоже бывает большое (когда поешь своим голосом и эхо раздается).
+
+\id Neustroev_PD_Eveno_Bytantaj_049
+\tx Kotlenette          torehneken                           tartakị     ịhmị        egdʒelbuwren.
+\mb kotlen -E-Č   =DE  tore  -s(E)n -REk -E-n(I)            tarak -t(E)kI ịs  -mI       egdʒen -LbE -Gr(E) -n(I)
+\ge small  -ep-ins =ptl speak -lim   -cond.cvb -ep -poss.3sg dist  -all    reach -cond.cvb big     -vr  -hab   -3sg
+\ft Even if one speaks softly, when it reaches there it becomes big.
+\ph
+\gr
+\nt i.e. the echo makes all the sounds louder
+\ELANBegin 00:06:11.940
+\ELANEnd 00:06:15.080
+\ELANParticipant
+\ru Даже если тихонечко скажет, туда дойдя становится большим, разрастает.
+
+\id Neustroev_PD_Eveno_Bytantaj_050
+\tx Tarak ịak aːnńa bidʒin        tor   mụhọnnị     tadụ     mịalgarača          ebit.
+\mb tarak ịak aːnńa bi -DʒI -n(I) tor   mụhan -n(I)     tarak -DU  mịal  -Gr(E) -čE    ebit
+\ge dist  what  good.Y  be -fut  -3sg  earth spirit  -poss.3sg dist  -dat wake.up -hab   -pf.ptc it.seems.Y
+\ft What good can there be in that, from that the spirit of the earth wakes up.
+\ELANBegin 00:06:15.080
+\ELANEnd 00:06:19.640
+\ELANParticipant
+\ru Что может быть хорошего, оттуда просыпается дух земли.
+
+\id Neustroev_PD_Eveno_Bytantaj_051
+\tx Teːmi    tar   ukčemmekkerer           tar,  "erek keńeli bej" goːniken,     "keńeli bej muttule
+\mb teːmi    tarak ukčen -mEČ -Gr(E) -r   tarak erek  keńeli bej  goːn -nIkEn   keńeli  bej mut    -(dU)LE
+\ge therefore dist  tell   -rec  -hab   -3pl dist  prox  bad     man  say   -sim.cvb bad      man 1pl.in -loc
+
+\tx emče"       goːniken.
+\mb em   -čE    goːn -nIkEn
+\ge come -pf.ptc say   -sim.cvb
+
+\ft That is why they say "this is a bad person, a bad person has come to us".
+\ELANBegin 00:06:19.640
+\ELANEnd 00:06:27.820
+\ELANParticipant
+\ru Поэтому они разговаривают, это плохой человек, плохой человек к нам приехал.
+
+\id Neustroev_PD_Eveno_Bytantaj_052
+\tx Tarịt tadụ     tọlkọttakụ,            omneken        tọlkọttakụ             "anï erek torre
+\mb tarịt tarak -DU  tọlkat -REk      -W        omen -REkEn    tọlkat -REk      -W        anï  erek tor   -(dU)LE
+\ge then    dist  -dat dream    -cond.cvb -poss.1sg one  -iter.adv dream    -cond.cvb -poss.1sg now.Y prox earth -loc
+
+\tx eŋendi           emne"         goːniken.
+\mb e   -ŋE     -nrI em   -R       goːn -nIkEn
+\ge neg -pol.imp -2sg come -neg.cvb say   -sim.cvb
+
+\ft And then I also dreamed, once I dreamed, "don't come to this place again".
+\ELANBegin 00:06:27.820
+\ELANEnd 00:06:36.810
+\ELANParticipant
+\ru Еще приснилось однажды больше сюда не приходи.
+
+\id Neustroev_PD_Eveno_Bytantaj_053
+\tx Goːnni     omen bej emnidʒi.
+\mb goːn -n(I) omen bej em   -RIdʒI
+\ge say   -3sg  one  man come -ant.cvb
+\ft Said one man, having come to me (in his dreams).
+\ELANBegin 00:06:36.810
+\ELANEnd 00:06:39.330
+\ELANParticipant
+\ru Сказал один человек придя ко мне.
+
+\id Neustroev_PD_Eveno_Bytantaj_054
+\tx Ee goːniken      ịaram.
+\mb ee goːn -nIkEn   ịa    -R(E) -m
+\ge eh say   -sim.cvb do.what -nonfut -1sg
+\ft I agreed.
+\ELANBegin 00:06:39.330
+\ELANEnd 00:06:43.110
+\ELANParticipant
+\ru Ну согласился.
+
+\id Neustroev_PD_Eveno_Bytantaj_055
+\tx Tarak gọčịnnịdụn                 emie   tartakị     hordej                 nekedniken
+\mb tarak gọčịn -n(I)     -DU  -n(I)     emie   tarak -t(E)kI hor -DE       -J       nek -E-D     -nIkEn
+\ge dist  next.year  -poss.3sg -dat -poss.3sg also.Y dist  -all    go  -purp.cvb -prfl.sg do  -ep-prog -sim.cvb
+
+\tx boːdeli         maːrịdʒị er   behis   stadadụk,    mụčụrịw.
+\mb boːdel -J       maː -RIdʒI   erek behis   stado  -DUk(U) mụčụ -RI -W
+\ge leg(s)  -prfl.sg kill -ant.cvb  prox fifth.Y herd.R -abl    return    -pst -poss.1sg
+
+\ft Then in the next year I again meant to go there, but having hurt my leg I returned from the fifth reindeer brigade.
+\ph
+\gr gọčịnnịdụn = the same as gọčịn, and gọčịnnịdụn does not inflect for person; one cannot say gọčịndụ
+\ELANBegin 00:06:43.110
+\ELANEnd 00:06:52.670
+\ELANParticipant
+\ru В следующий год я опять собрался ехать туда, но поранив ногу вернулся из пятого стада.
+
+\id Neustroev_PD_Eveno_Bytantaj_056
+\tx Burcev  Innokentij Dmitrievič töttörü minu         ịrụnịkan      ele          boholekle
+\mb Burcev  Innokentij Dmitrievič töttörü min     -W   ịr -U    -nIkEn   erek -(dU)LE poselok   -(dU)LE
+\ge Burtsev Innokentij Dmitrievich back.Y     1sg.obl -acc drag -caus -sim.cvb prox -loc    village.R -loc
+
+\tx emnin.
+\mb em   -RI -n(I)
+\ge come -pst -poss.3sg
+
+\ft Burtsev Innokentij Dmitrievich brought me back to the village.
+\ELANBegin 00:06:52.670
+\ELANEnd 00:07:00.830
+\ELANParticipant
+\ru БИД обратно привез меня (приехал, притащив меня).
+
+\id Neustroev_PD_Eveno_Bytantaj_057
+\tx Hordeji,                   tartakị     emie   hordeji                    nekriw.
+\mb hor -DE       -J       -E  tarak -t(E)kI emie   hor -DE       -J       -E  nek -RI -W
+\ge go  -purp.cvb -prfl.sg -ep dist  -all    also.Y go  -purp.cvb -prfl.sg -ep do  -pst -poss.1sg
+\ft I again intended to go there.
+\ELANBegin 00:07:00.830
+\ELANEnd 00:07:03.430
+\ELANParticipant
+\ru Я опять туда собрался ехать.
+
+\id Neustroev_PD_Eveno_Bytantaj_058
+\tx Tar,  tar   boːdeli         maːrịw           er   ečin      časkawan,                  er   ịawan
+\mb tarak tarak boːdel -J       maː -RI -W         erek erroːčin čaška   -W   -E-n(I)      erek ịak -W   -E-n(I)
+\ge dist  dist  leg(s)  -prfl.sg kill -pst -poss.1sg prox prox.qual  kneecap.R -acc -ep-poss.3sg prox what  -acc -ep-poss.3sg
+
+\tx tikriw              kaltas.
+\mb tik  -RI -W         kaltar -s
+\ge fall -pst -poss.1sg crack  -advr
+
+\ft I hurt my leg, I fell and my kneecap shattered.
+\ELANBegin 00:07:03.430
+\ELANEnd 00:07:09.340
+\ELANParticipant
+\ru Чашечку сломал (раздробил), упал.
+
+\id Neustroev_PD_Eveno_Bytantaj_059
+\tx Tadụk       mụčụrịw           töttörü amahkị         ele.
+\mb tarak -DUk(U) mụčụ -RI -W         töttörü amar   -skI      erek -(dU)LE
+\ge dist  -abl    return    -pst -poss.1sg back.Y     behind -advb.all prox -loc
+
+\ft I came back, (am now) here.
+\ELANBegin 00:07:09.340
+\ELANEnd 00:07:13.100
+\ELANParticipant
+\ru Обратно вернулся, тут.
+
+\id Neustroev_PD_Eveno_Bytantaj_060
+\tx De     tara.
+\mb dʒe   tarak
+\ge well.Y dist
+
+\ELANBegin 00:07:13.100
+\ELANEnd 00:07:14.720
+\ELANParticipant
+\ru
+
+\id Neustroev_PD_Eveno_Bytantaj_061
+\tx Ele          buollaγïna tar,  er   ịa.. erteki       bi   omem      anŋanịw     indʒeːnidʒi,       dʒoːr
+\mb erek -(dU)LE buollaγïna tarak erek ịak  erek -t(E)kI biː omen -W   anŋan -E-W    indʒen      -RIdʒI  dʒoːr
+\ge prox -loc    dp.Y         dist  prox what   prox -all    1sg  one  -acc year   -ep-acc stop.to.rest -ant.cvb two
+
+\tx anŋanịw     indʒeːnidʒi        erteki       ńahkị biwetteku                      uže      emie
+\mb anŋan -E-W    indʒen      -RIdʒI  erek -t(E)kI ńahkị bi -WEːČ -REk      -W        uže      emie
+\ge year   -ep-acc stop.to.rest -ant.cvb prox -all    downhill be -gnr    -cond.cvb -poss.1sg already.R also.Y
+
+\tx ukčemmekkerer           ahal.
+\mb ukčen -mEČ -Gr(E) -r   asị -L
+\ge tell   -rec  -hab   -3pl woman -pl
+
+\ft Now here, after resting here for one year, for two years when I go down here again the women are talking with each other.
+\ph aːnŋanịw with long a
+\gr ńahkị in Sebjan apparently means "vniz po gore", while here it seems to have a more general meaning
+\ELANBegin 00:07:14.720
+\ELANEnd 00:07:28.460
+\ELANParticipant
+\ru А здесь, сюда я один год отдохнув, 2 года отдохнув, сюда вниз когда езжу, опять разговаривают женщины.
+
+\id Neustroev_PD_Eveno_Bytantaj_062
+\tx "Ịak bejen            emnen?            Ee, uːrihip       iːreːkičen   emnen"            goːniken,
+\mb ịak  bej -E-n(I)      em   -R(E) -n(I)  ee  uːr   -(E)rEp iːreːki -čEn em   -R(E) -n(I)  goːn -nIkEn
+\ge what   man -ep-poss.3sg come -nonfut -3sg eh  before -adjr   crazy.Y   -dim  come -nonfut -3sg say   -sim.cvb
+
+\tx ukčemmekkerer.
+\mb ukčen -mEČ -Gr(E) -r
+\ge tell   -rec  -hab   -3pl
+
+\ft "What person has come? Oh, that crazy one has come" they say.
+\ph
+\gr ịak bej is ungrammatical, as is ịak beju or ịak bejetnen - the poss.3sg refers back to the ịak
+\ELANBegin 00:07:28.460
+\ELANEnd 00:07:35.000
+\ELANParticipant
+\ru Что за человек приехал, а тот сумасшедший приехал, разговаривают. ирэки = якутское урихип = тот
+
+\id Neustroev_PD_Eveno_Bytantaj_063
+\tx Tara  de,    tačịn.
+\mb tarak dʒe   tarọːčịn
+\ge dist  well.Y dist.qual
+
+\ELANBegin 00:07:35.000
+\ELANEnd 00:07:38.330
+\ELANParticipant
+\ru
+
+\id Neustroev_PD_Eveno_Bytantaj_064
+\tx Očen' xorošo!
+\mb
+\ge
+\ft Very good!
+\ELANBegin 00:07:38.330
+\ELANEnd 00:07:40.420
+\ELANParticipant BP
+\ru 
+
+
+\ELANMediaURL file:///c:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/old_Sebjan_files_to_be_done/Neustroev_EvenoBytantaj/Neustroev_PD_Eveno_Bytantaj.wav
+\ELANMediaMIME audio/x-wav

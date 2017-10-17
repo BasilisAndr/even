@@ -1,0 +1,391 @@
+\_sh v3.0  984  Text
+
+\id Krivoshapkin_Misha_000_metadata
+\ref Recorded on 22 March 2010 in Sebjan-Küöl by Natalia Aralova and Brigitte Pakendorf. This recording took place in the
+flat rented by BP and NA in Sebjan-Küöl. Misha was there because he was working as an informant for NA's phonetic
+research. After such a session he was asked to tell something in Even and he agreed. Actually NA asked him in a couple
+of days before to tell something for the archive. So he seemed to prepare an anecdote (that took about 2 minutes). Then
+BP asked him some questions in Even. 
+\qu In 2012, transcribed by BP, Russian translation by IVK, glossing by BP, all in 2012. Funding by Volkswagen Foundation (DoBeS
+grant). Speaker abbreviation = MK
+\ref Misha Krivoshapkin was a 17-year old school boy at the time of recording.
+
+\id Krivoshapkin_Misha_001
+\tx clap, Segodnja 22-oe marta 2010j god, Sebjan-Kuel, Miša Krivošapkin ebedit ukčendʒinni
+\ft Today is the 22nd of March 2010, and Misha Krivoshapkin will tell in Even.
+\ELANBegin 00:00:03.393
+\ELANEnd 00:00:15.158
+\ELANParticipant NA
+
+\id Krivoshapkin_Misha_002
+\tx Ebedi?
+\mb ewen -DI
+\ge Even -adjr
+\ft
+\ph
+\gr ebedi = incorrect, should be ebedit, this is "evenskij"
+\ru
+\ELANBegin 00:00:15.158
+\ELANEnd 00:00:17.264
+\ELANParticipant MK
+
+\id Krivoshapkin_Misha_003
+\tx Ebedit, ebedit
+\mb
+\ft in Even, in Even
+\ru
+\ELANBegin 00:00:17.264
+\ELANEnd 00:00:18.837
+\ELANParticipant BP
+
+\id Krivoshapkin_Misha_004
+\tx Ọːkgọl   emneken        ịak tar   dʒulle       hupkučekle          irek, digis
+\mb ọːk =(W)Ul omen -REkEn    ịak tarak dʒul -(dU)LE hupkut -ČEk -(dU)LE irek  digen -Is
+\ge when   =indef one  -iter.adv what  dist  front -loc    learn  -nr   -loc    which four  -ord.Y
+
+\tx irekgu    klas    bidniken          tataggarịt,                            ebedi,     ee, evenskij
+\mb irek  =GU klas    bi -D    -nIkEn   tat   -E  -D    -Gr(E) -RI -t(I)         ewen -DI   ee  evenskij
+\ge which =q  grade.R be -prog -sim.cvb learn -ep -prog -hab   -pst -poss.1pl.in Even -adjr eh  Even.adj.R
+
+\tx jazyk      ịak ụrọgan.
+\mb jazyk      ịak urok     -E-n(I)
+\ge language.R what  lesson.R -ep-poss.3sg
+\ft Once we were in the fourth grade or something, during the Even language lesson.
+\ph
+\gr 280312: tataggarịt - should be tataggararịt, and refers to an action in the past, v tot moment my uchilisj
+\ph dʒullek
+\ru Это было когда-то на уроке эвенского языка, то ли в 4м то ли в каком классе.
+\ELANBegin 00:00:18.837
+\ELANEnd 00:00:31.772
+\ELANParticipant
+
+\id Krivoshapkin_Misha_005
+\tx Hupkučimŋe    ọmŋọčọ  bihem           gerbewen                    ịak ịak semja
+\mb hupkut -E-mŋE  ọmŋa -čE    bi -R(E) -m     gerbe     -W   -E-n(I)      ịak ịak semja
+\ge learn  -ep-agnr forget  -pf.ptc be -nonfut -1sg give.name -acc -ep-poss.3sg what  what  family.R
+
+\tx dʒugulin                ukčendʒiggeren
+\mb dʒugu -(dU)LI -n(I)     ukčen -D    -Gr(E) -n(I)
+\ge about  -prol   -poss.3sg tell   -prog -hab   -3sg
+
+\ft The teacher, I forgot how she was called, told about the family.
+\ph ọmŋọčọ bihem gerbewen - is very hard to make out for non-Even ears; dʒuːlin
+\gr ukčendʒiggeren = is again the combination of prog+habitual, correct form
+\ru Учитель я не помню как его звали, о семье рассказывала.
+\ELANBegin 00:00:31.772
+\ELANEnd 00:00:41.847
+\ELANParticipant
+
+\id Krivoshapkin_Misha_006
+\tx gịalda        gerbe perevọbban                 goːnin              tarịt ịadụ   daskadụ    heja
+\mb gịa  -L  =DE  gerbe perevod       -W   -n(I)     goːn -RI -n(I)      tarịt ịak -DU  doska   -DU  heja
+\ge friend -pl =ptl name  translation.R -acc -poss.3sg say   -pst -poss.3sg then    what  -dat board.R -dat peak
+
+\tx goːniken      dụktịn.
+\mb goːn -nIkEn   dụk -RI -n(I)
+\ge say   -sim.cvb write -pst -poss.3sg
+\ft S/he translated (family as) "gịalda" and then wrote "heja" on the blackboard.
+\ph
+\gr 280312: gịalda = "i ego semja" - doesn't really fit here, and IVK also doesn't know what "heja" is
+\ru "гиалда" сказала перевод, затем она на доске хэя писала
+\ELANBegin 00:00:41.847
+\ELANEnd 00:00:49.660
+\ELANParticipant
+
+\id Krivoshapkin_Misha_007
+\tx Bụkačịr        inindeːr                nekritnen,         ŋiːde    eče        ininne
+\mb bekeč -dʒUr       ińin -DE -WUr           nek -RI -tEn       ŋiː =DE  e   -čE    ińin -R
+\ge all    -ins.prfl.pl laugh -purp.cvb -prfl.pl do  -pst -poss.3pl who   =ptl neg -pf.ptc laugh -neg.cvb
+\ft All wanted to laugh, but nobody laughed
+\ph bụkačịr - sounds like a merger of Even bekeččur and Sakha bukatïn; swallows a lot of syllables; nektitnen
+\ru все хотели засмеяться, но никто не смеялся
+\ELANBegin 00:00:49.660
+\ELANEnd 00:00:52.442
+\ELANParticipant
+
+\id Krivoshapkin_Misha_008
+\tx ụčụtaldụk  ŋeːlmi            mut,   hupkučektu
+\mb učitel   -DUk(U) ŋeːl    -mI       mut    hupkut -ČEk -DU
+\ge teacher.R -abl    be.afraid -cond.cvb 1pl.in learn  -nr   -dat
+\ft being afraid of the teacher, in school
+\ph
+\ru учителя боясь, мы в школе
+\ELANBegin 00:00:52.442
+\ELANEnd 00:00:55.341
+\ELANParticipant
+
+\id Krivoshapkin_Misha_009
+\tx Tar   ŋeːllit.
+\mb tarak ŋeːl    -RI -t(I)
+\ge dist  be.afraid -pst -poss.1pl.in
+\ft We were afraid.
+\ru мы боялись
+\ELANBegin 00:00:55.341
+\ELANEnd 00:00:56.719
+\ELANParticipant
+
+\id Krivoshapkin_Misha_010
+\tx Tarịt bi   emiske     kotlenet        ininniw
+\mb tarịt biː emiske     kotlen -E  -Č  ińin -RI -W
+\ge then    1sg  suddenly.Y small  -ep -ins laugh -pst -poss.1sg
+
+\ft Then I suddenly laughed softly.
+\ph
+\ru затем я вдруг немножко засмеялся
+\ELANBegin 00:00:56.719
+\ELANEnd 00:00:59.007
+\ELANParticipant
+
+\id Krivoshapkin_Misha_011
+\tx Nika gerbe adnaklasnịkụ       bihin,            tiːk emeːpče.
+\mb Nika gerbe odnoklassnik -W        bi -RI -n(I)      tiek  emeːn -B   -čE
+\ge Nika name  classmate.R  -poss.1sg be -pst -poss.3sg now   leave  -med -pf.ptc
+\ft There was a schoolmate of mine called Nika, now he's dropped behind (had to repeat a year).
+\ru Одноклассник с именем Ника был, сейчас он отстал.
+\ELANBegin 00:00:59.007
+\ELANEnd 00:01:02.309
+\ELANParticipant
+
+\id Krivoshapkin_Misha_012
+\tx Nọŋan brọsta ininnin.
+\mb nọŋan prosto   ińin -RI -n(I)
+\ge 3sg      simply.R laugh -pst -poss.3sg
+\ft He laughed loudly.
+\ru Он сильно засмеялся.
+\ELANBegin 00:01:02.309
+\ELANEnd 00:01:03.713
+\ELANParticipant
+
+\id Krivoshapkin_Misha_013
+\tx Nọŋman               tarịt ịarịn              ŋaːttịn           ịadu,    daskadụ,   tadụ
+\mb nọŋan -W   -n(I)     tarịt ịa    -RI -n(I)      ŋaːt -RI -n(I)      ịak -DU  doska   -DU  tarak -DU
+\ge 3sg      -acc -poss.3sg then    do.what -pst -poss.3sg call   -pst -poss.3sg what  -dat board.R -dat dist  -dat
+
+\tx neːgirin.
+\mb neːgi -RI -n(I)
+\ge scold  -pst -poss.3sg
+\ft She then called him to the board and there scolded him.
+\ph
+\gr the correct form would (accordign to EAK) be daskala
+\ru Его затем вызвала к доске, там ругала.
+\ELANBegin 00:01:03.713
+\ELANEnd 00:01:11.786
+\ELANParticipant
+
+\id Krivoshapkin_Misha_014
+\tx Tarda      noste ịak, ịamị ininniwhni,                  tar   Stjọpa bidden                ehni
+\mb tarak =DE  noste ịak  ịamị ińin -RI -W         =hni    tarak Stepan   bi -D    -R(E) -n(I)  e -R(E) -n(I)
+\ge dist  =ptl young what   why      laugh -pst -poss.1sg =affirm dist  Stepan   be -prog -nonfut -3sg neg -nfut -3sg
+
+\tx Petrov
+\mb Petrov
+\ge Petrov
+\ft Then I was young, why did I laugh, well there's this Stjopa Petrov, right.
+\ph
+\ru Тогда был молодой, почему я засмеялся, этот же есть Петров
+\ELANBegin 00:01:11.786
+\ELANEnd 00:01:16.479
+\ELANParticipant
+
+\id Krivoshapkin_Misha_015
+\tx nọŋan ịak tara  heja goːniken      dụktịn,          toreniken,     hagarakie.
+\mb nọŋan ịak tarak heja goːn -nIkEn   dụk -RI -n(I)      tore  -nIkEn   hagar    -(h)E =kE
+\ge 3sg      what  dist  peak say   -sim.cvb write -pst -poss.3sg speak -sim.cvb be.noisy -excl =emph
+
+\ft He wrote "heja" saying it out loud.
+\ph
+\nt so this boy Petrov wrote "heja" 'peak' on the blackboard instead of "gịa" 'relative' (in standard Even), which seemed funny
+to the kids, who at first didn't dare to laugh, but then Misha Krivoshapkin and his classmate Nika did laugh, and Nika got
+called to the blackboard and scolded
+\qu
+\ru он написал хэя говоря вслух/громко
+\ELANBegin 00:01:16.479
+\ELANEnd 00:01:21.861
+\ELANParticipant
+
+\id Krivoshapkin_Misha_016
+\tx Tadụk       ininniw.
+\mb tarak -DUk(U) ińin -RI -W
+\ge dist  -abl    laugh -pst -poss.1sg
+\ft That's why I laughed.
+\ru из-за этого я смеялся
+\ELANBegin 00:01:21.861
+\ELANEnd 00:01:25.007
+\ELANParticipant
+
+\id Krivoshapkin_Misha_017
+\tx Ọddọn         ńan,  ọttọn ịak, ọttọn.
+\mb ọd -R(E) -n(I)  ńaːn ọttọn ịak  ọttọn
+\ge stop -nonfut -3sg and    dp.Y      what   dp.Y
+\ft Well that's it
+\ru все, 
+\ELANBegin 00:01:25.007
+\ELANEnd 00:01:28.894
+\ELANParticipant
+
+\id Krivoshapkin_Misha_018
+\tx össö  ukčendʒim?
+\mb össö  ukčen -DʒI -m
+\ge still.Y tell   -fut  -1sg
+
+\ft shall I tell more?
+\ph
+\ru еще рассказать?
+\ELANBegin 00:01:28.894
+\ELANEnd 00:01:33.678
+\ELANParticipant
+
+\id Krivoshapkin_Misha_019
+\tx pause
+\ru
+\ELANBegin 00:01:33.678
+\ELANEnd 00:01:45.378
+\ELANParticipant
+
+\id Krivoshapkin_Misha_020
+\tx Hiː irildu stadal horris?
+\ft Did you go to the reindeer herd in summer?
+\ELANBegin 00:01:45.378
+\ELANEnd 00:01:50.305
+\ELANParticipant BP
+
+\id Krivoshapkin_Misha_021
+\tx Eču               horre        irildu
+\mb e   -RI -W         hor -R       ireli  -DU
+\ge neg -pst -poss.1sg go  -neg.cvb summer -dat
+\ft I didn't go in summer.
+\ru летом не ездил
+\ELANBegin 00:01:50.305
+\ELANEnd 00:01:52.255
+\ELANParticipant MK
+
+\id Krivoshapkin_Misha_022
+\tx Ah
+\ru
+\ELANBegin 00:01:52.255
+\ELANEnd 00:01:54.374
+\ELANParticipant BP
+
+\id Krivoshapkin_Misha_023
+\tx Hebeːndu          biettiw.
+\mb Sebjan-Küöl -DU  bi -WEːČ -RI -W
+\ge Sebjan-Küöl -dat be -gnr -pst -poss.1sg
+\ft I was in Sebjan.
+\ru Был в Себяне
+\ELANBegin 00:01:54.374
+\ELANEnd 00:01:58.534
+\ELANParticipant MK
+
+\id Krivoshapkin_Misha_024
+\tx Ebeter horewris stadala?
+\ft But you have gone to the herd?
+\ELANBegin 00:01:58.534
+\ELANEnd 00:02:03.357
+\ELANParticipant BP
+
+\id Krivoshapkin_Misha_025
+\tx Eču               biette,             eču               biette
+\mb e   -RI -W         bi -WEːČ -R       e   -RI -W         bi -WEːČ -R
+\ge neg -pst -poss.1sg be -gnr    -neg.cvb neg -pst -poss.1sg be -gnr    -neg.cvb
+\ft I haven't gone, haven't gone
+\ru
+\ELANBegin 00:02:03.357
+\ELANEnd 00:02:05.970
+\ELANParticipant MK
+
+\id Krivoshapkin_Misha_026
+\tx Praktikalańun              biettiw,               mịanịs    klastụ.
+\mb praktika     -(dU)LE =ńUn  bi -WEːČ -RI -W      mịan -Is    klas    -DU
+\ge internship.R -loc    =restr be -gnr -pst -poss.1sg ten    -ord.Y grade.R -dat
+\ft I only went for the internship, in the 10th grade.
+\ru только на практике был, в 10м классе
+\ELANBegin 00:02:05.970
+\ELANEnd 00:02:10.299
+\ELANParticipant
+
+\id Krivoshapkin_Misha_027
+\tx A hiː am... amann amahni, ejmu ejmus eńinis, ehm ŋiː ịat gurgewčir
+\ft And your father, your mother, what do they do?
+\ELANBegin 00:02:10.299
+\ELANEnd 00:02:30.605
+\ELANParticipant BP
+
+\id Krivoshapkin_Misha_028
+\tx Ammụ           ịak, dizelnajdu              gurgewčiwren,           tar   eńemmu          edu
+\mb aman   -W        ịak  dizelnyj           -DU  gurgeːwči -Gr(E) -n(I) tarak eńin  -W        erek -DU
+\ge father -poss.1sg what   diesel.generator.R -dat work        -hab   -3sg  dist  mother -poss.1sg prox -dat
+
+\tx škọla gurgewčiwren.
+\mb škola   gurgeːwči -Gr(E) -n(I)
+\ge school.R work        -hab   -3sg
+\ft My father works at the diesel generator, my mother works here in the school.
+\ph
+\gr eńemmu is an incorrect form, the Sebjan way of saying "my mother" is ejmu
+\ru Отец работает на дэсу, а мать здесь работает в школе
+\ELANBegin 00:02:30.605
+\ELANEnd 00:02:41.577
+\ELANParticipant
+
+\id Krivoshapkin_Misha_029
+\tx Hiː noːlken, aba, kak tam
+\ft Do you have brothers or sisters
+\ELANBegin 00:02:41.577
+\ELANEnd 00:02:47.258
+\ELANParticipant BP
+
+\id Krivoshapkin_Misha_030
+\tx Ee, noːlken              bihem,          omen... ịamị
+\mb ee  noː            -lkEn bi -R(E) -m     omen    ịa    -mI
+\ge eh  younger.sibling -prop be -nonfut -1sg one     do.what -cond.cvb
+
+\ft Yes, I have (a) younger brother(s) (and or sister(s)), what
+\ph EAK interpreted noːlken as nelken "vesna" when she first heard it
+\ru имею младшие братья / сестры
+\ELANBegin 00:02:47.258
+\ELANEnd 00:02:50.534
+\ELANParticipant
+
+\id Krivoshapkin_Misha_031
+\tx Akalkan?
+\ft an older brother?
+\ELANBegin 00:02:50.534
+\ELANEnd 00:02:51.353
+\ELANParticipant NA
+
+\id Krivoshapkin_Misha_032
+\tx Ịlan noːlken              bihem,          omen ekelken.
+\mb ịlan noː            -lkEn bi -R(E) -m     omen eken         -lkEn
+\ge three  younger.sibling -prop be -nonfut -1sg one  older.sister -prop
+\ft I have three younger siblings and one older sister
+\ph ńoːlken
+\ru три мл. братя/сестры, одна ст. сестра
+\ELANBegin 00:02:51.353
+\ELANEnd 00:02:52.991
+\ELANParticipant
+
+\id Krivoshapkin_Misha_033
+\tx Ekmu                   gorodla        bidden
+\mb eken         -W        gorod  -(dU)LE bi -D    -R(E) -n(I)
+\ge older.sister -poss.1sg town.R -loc    be -prog -nonfut -3sg
+\ft My older sister is in town.
+\ru ст. сестра в городе находится
+\ELANBegin 00:02:52.991
+\ELANEnd 00:02:54.512
+\ELANParticipant
+
+\id Krivoshapkin_Misha_034
+\tx Bekeččur          ewedit          torewrep             dʒụːdụwụr
+\mb bekeč -dʒUr       ewen -DI   -Č  tore  -Gr(E) -p      dʒụː -DU  -WUr
+\ge all    -ins.prfl.pl Even -adjr -ins speak -hab   -1pl.in house    -dat -prfl.pl
+
+\ft We all speak Even at home.
+\ph this is said very fast and mumbly 
+\ru все мы дома говорим по-эвенски
+\ELANBegin 00:02:54.512
+\ELANEnd 00:03:06.576
+\ELANParticipant 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My Documents/Even
+project/Sebjan_2010_fielddata/sound_files/spontaneous_Marantz/Krivoshapkin_Misha_220310_Sebjan.wav
+\ELANMediaMIME audio/x-wav

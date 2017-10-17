@@ -1,0 +1,4285 @@
+\_sh v3.0  984  MDF 4.0
+
+\lx -awụ
+\ps
+\ge -emph
+\dt 19/Jun/2007
+
+\lx -B
+\a -p
+\a -b
+\ps
+\ge med
+\nt This is the medio-passive; it
+derives O-oriented resultatives (=
+verbs with stative reference
+regularly derived from action
+verbs) from transitives, or verbs
+with a spontaneous/potential
+meaning. Some verbs make the
+distinction between the transitive
+and intransitive form by having a
+final -L and -R, respectively, e.g.
+tekel 'tear.trns' and teker 'tear.intr',
+kibal 'break.trns' and kibar
+'break.intr'. 
+\dt 13/Jun/2009
+
+\lx -bEhE
+\a -baha
+\ps
+\ge aug
+\nt this is yet another verbal
+augmentative form, I have two
+examples in Marta Kirillovna's
+narrative from Sebjan 2008
+\dt 13/Jun/2009
+
+\lx =bEdʒI
+\a =badʒị
+\a =bedʒi
+\a =bej
+\ps
+\ge =emph
+\dt 31/Jul/2012
+
+\lx -Č
+\a -č
+\a -ń
+\a -dʒi
+\a -dʒị
+\ps
+\ge ins
+\dt 13/Jun/2009
+\nt The variant in -ch occurs with
+default vowel + consonant stems;
+the variant in -n' occurs with
+'primary n' stems; the variant in -dji
+occurs with plural, possessive, and
+possessive reflexive. Instrumental
+denotes an instrument or means of
+transportation; in some dialects it
+denotes material (competing with
+Ablative in this function). Verbs of
+emotion assign Instrumental to
+source of emotion (says
+Malchukov; but is this only
+negative emotion, or also positive
+emotion?) When added to
+ADJECTIVES --> ADVERBS
+
+\lx -Č
+\a -č
+\a -t
+\a -či
+\a -čị
+\ps
+\ge res
+\nt This is a polysemous marker;
+more often, it has a resultative
+meaning; but it can also have an
+imperfective meaning, e.g. bo:
+'give', bo:t 'be giving, give several
+times, distribute'. When attached
+to NEGATIVE AUX e- this
+morpheme denotes the PST
+indicative.
+\dt 13/Jun/2009
+
+\lx -čE
+\a -če
+\a -ča
+\a -čọ
+\a -čö
+\a -čaː
+\a -čeː
+\ps
+\ge pf.ptc
+\nt Perfect participle; can be used with
+auxiliary bi- to form periphrastic
+tenses, e.g. periphrastic perfect
+\dt 13/Jun/2009
+
+\lx -čE -L
+\a -čel
+\a -čal
+\ps
+\ge pf.ptc -pl
+\dt 31/Mar/2009
+
+\lx -ČEk
+\a -ček
+\a -čak
+\a -dʒek
+\a -dʒeːk
+\a -dʒak
+\a -nek
+\a -ek
+\a -ak
+\a -hak
+\a -hek
+\a -sak
+\a -neːk
+\a -čeːk
+\ps
+\ge nr
+\nt deverbal nominalizer [place for
+vrb-ing] - and process, too; in
+Sebjan I have forms on -ek/-ak
+with only a meaning of process
+(Ija Krivoshapkina's memories), so
+I had entered a separate nr
+morpheme; but in Kamchatka I
+have -ek or -k as 'place for vrbing',
+and so I decided to collapse them
+after all
+\dt 12/Feb/2013
+
+\lx =čEkEn
+\a =čeken
+\a =čakan
+\a =čaka
+\a =čeke
+\ps
+\ge emph
+\dt 13/Feb/2010
+
+\lx -čEkEn
+\a -čakan
+\a -čeken
+\a -čaka
+\a -čekeː
+\a -čakaː
+\a -čekeːn
+\a -čeke
+\ge plen
+\nt Seems to be restricted to Sebjan,
+grammaticalized out of two
+diminutive suffixes, and denotes a
+multitude/plentitude of
+similar/identical objects, e.g.
+bejechekel = a lot of people,
+tewtecheken = a lot of berries
+\dt 13/Mar/2012
+
+\lx -čEl
+\a -čil
+\a -čịl
+\a -čel
+\a -čal
+\a -čọl
+\ps
+\ge -com
+\dt 08/Mar/2010
+
+\lx -čEn
+\a -čen
+\a -čan
+\a -čeːn
+\a -čaːn
+\a -ča
+\a -če
+\ps
+\ge dim
+\nt The 'classic' diminutive, from
+February 2010 onwards entered as
+a separate suffix, with -KEn now
+being glossed (at least for Sebjan)
+as an intensive suffix
+\dt 28/Feb/2012
+
+\lx -čI
+\a -či
+\a -čị
+\a -čụ
+\ps
+\ge vr
+\nt This has to be a separate
+verbalizer, because there is abal
+'few' and abalchi 'not be enough',
+and also some verbs derived from
+instruments, adal and adalchi, elge
+and elgechi
+\dt 19/Feb/2013
+
+\lx -Con
+\ps
+\ge -acc.3sg
+\dt 06/Feb/2013
+
+\lx -D
+\a -d
+\a -dʒ
+\a -dʒid
+\a -dʒịd
+\a -dʒi
+\a -dʒị
+\ps
+\ge prog
+\nt Progressive aspect, 'be doing'
+\dt 14/Jun/2008
+
+\lx =dak
+\ps
+\ge =indef?
+\dt 28/Jun/2007
+
+\lx =dakan
+\a =dakaj
+\a =takan
+\ps
+\ge ptl
+\nt occurs in Sebjan corpus with njan,
+opjatj zhe, i opjatj, eshe raz; I'm
+not sure whether it isn't just
+njan=da-ken, but most people say
+njandakaJ, so that doesn't really
+make sense - so for the time being
+I'm leaving it as it is
+\dt 27/Mar/2012
+
+\lx -DE
+\a -de
+\a -da
+\a -te
+\a -ta
+\ps
+\ge purp.cvb
+\nt Purposive converb occurs in DS
+(VS?) constructions; also
+functions as a distant future
+imperative marker
+\dt 13/Jun/2009
+
+\lx -DE
+\a -de
+\a -da
+\a -daː
+\a -te
+\a -ta
+\a -taː
+\a -re
+\a -ra
+\a -se
+\a -sa
+\a -le
+\a -la
+\a -ne
+\a -na
+\ps
+\ge vr
+\nt denominal verbalizer [to perform
+an action with N]
+\dt 18/Oct/2012
+
+\lx =DE
+\a =de
+\a =da
+\a =ta
+\a =te
+\a =ne
+\a =la
+\ps
+\ge ptl
+\nt Particle deriving INDEFINITE
+PRONOUNS for referential NPs
+(e.g. ngii=de 'somebody'), but has
+a NEGATIVE PRONOUN
+meaning in negative sentences (e.g.
+ngii=de e-s-ni em-re [who=ptl
+neg-nonfut-3sg com-conneg]
+'nobody came', and can also have
+COORDINATING functions -->
+like in Sakha!
+\dt 14/Jul/2009
+
+\lx -DE -WUr
+\a -deːr
+\a -daːr
+\ps
+\ge purp.cvb -prfl.pl
+\dt 31/Mar/2009
+
+\lx -DEŋ
+\a -deŋ
+\a -daŋ
+\a -teŋ
+\a -taŋ
+\ps
+\ge pst.ptc
+\nt Obligatorily followed by subject
+agreement endings (not clear which
+type).
+\dt 13/Jun/2009
+
+\lx =dEwUl
+\a =dewul
+\a =dawụl
+\ps ptl
+\ge disj
+\nt not sure about this one; occurs in
+Egorova_RM_Anin_1_050 and
+133, and was translated as 'ili'
+(though also as 'esli' in an
+elicitation session)
+\dt 31/Jan/2013
+
+\lx -DI
+\a -di
+\a -dị
+\a -ti
+\a -tị
+\ps
+\ge dat.prfl.sg
+\dt 16/May/2007
+
+\lx -DI
+\a -di
+\a -dị
+\a -ti
+\a -tị
+\a -de
+\ps
+\ge adjr
+\nt denominal adjectivizer
+[characteristic of N]; it shouldn't
+be -de, but that is really what it
+sounds like when RME says
+engunde 'strashnyj' derived from
+engunj 'strax'
+\dt 29/Jan/2013
+
+\lx -DI
+\a -di
+\a -dị
+\a -tị
+\a -ti
+\ps
+\ge vr
+\nt speak a language, e.g. nuchidi
+'speak Russian', chajchabadi
+'speak Koryak'
+\dt 21/Mar/2010
+
+\lx =diːn
+\a =din
+\a =dinne
+\a =dinni
+\ps
+\ge quant.dem
+\nt a quantitative demonstrative root,
+'this much, stol'ko', occurs mostly
+as erdin(ne) 'so much, equal to this
+in amount/distance etc', but the
+dictionaries also give tardin, and
+RDA (shatun007) has oskuola
+di:n, Krivosh_AE_childhood (72)
+has mere:ngtidin; in Kamchatka we
+have 3 tokens of the long form
+with the final vowel, while in
+Sebjan we have the short,
+consonant-final form
+\dt 28/Feb/2010
+
+\lx -dle
+\a -lle
+\ps
+\ge trm.cvb
+\nt Malchukov calls this the 'negative
+terminative' converb. It attaches
+only to the negative auxiliary e- and
+takes possessive subject
+agreement marking. The meaning is
+'until'.
+\dt 28/Feb/2010
+
+\lx -dmEr
+\a -dmer
+\a -dmar
+\a -demer
+\a -mmar
+\a -mar
+\ps
+\ge contr
+\nt This is called
+'Contrastive-Emphatic' by
+Malchukov 1995; the example is
+'this very house'. With adjectives it
+has an intensifying, emphatic
+meaning.
+\dt 31/Jan/2013
+
+\lx -DnE
+\a -dne
+\a -tne
+\ps
+\ge iter
+\nt according to Ija Krivoshapkina, the
+form begidnenteken means
+"zamerzaja i zamerzaja", vid
+povtorjajushegosja dejstvija;
+Rishes&Cincius give the suffix
+-djE:n as the iterative aspect, which
+is what Novikova (?) calls the
+durative, and which actually
+appears to have some diminutive,
+emotional meaning. I wonder if
+-dne could be the "durative" suffix
+metathesized? It only occurs with a
+few verbs, e.g. tiketnedej 'fall
+several times', nihednedej
+'spotykat'sja', djalkatnadaj
+'zaxlebyvatsja', nibgadnadaj
+'choke?' zadyshat'sja,
+poperxnut'sja (cf.
+Krivoshapkina_childhood_72)
+\dt 23/Mar/2010
+
+\lx -DU
+\a -du
+\a -dụ
+\a -tu
+\a -tụ
+\ps
+\ge dat
+\nt Dative is used for beneficiaries and
+recipients, as well as spatial and
+temporal location; according to
+Malchukov 1995, Dative cannot
+replace Locative when the subject
+is inanimate. Dative can be used to
+mark subject (causee) of causative
+verbs.
+\dt 13/Jun/2009
+
+\lx =DU
+\a =du
+\a =dụ
+\a =tụ
+\a =tu
+\ps
+\ge disj
+\nt According to Ija Krivoshapkina,
+this is a regular particle with a
+disjunctive meaning, "either or",
+and it is not a copy of Sakha du:
+\dt 13/Jun/2009
+
+\lx -DUk(U)
+\a -duk
+\a -dụk
+\a -duku
+\a -dụkụ
+\a -dụkị
+\a -tuk
+\a -tụk
+\a -tuku
+\a -tụkụ
+\ps
+\ge abl
+\nt The long variant occurs only with
+possessive suffixes (contains the
+epenthetic vowel). Ablative marks
+source (of motion), also taking
+away from; with animate nouns
+also causer of event, with
+inanimate nouns also material. In
+comparative constructions:
+standard of comparison.
+\dt 21/Feb/2010
+
+\lx -DUr
+\a -dur
+\a -dụr
+\a -dụːr
+\ps
+\ge dat.prfl.pl
+\dt 12/Dec/2012
+
+\lx -D(I)ŋE
+\a -dŋe
+\a -dŋa
+\a -diŋe
+\a -čiŋe
+\ps
+\ge fut.ptc
+\nt in Sebjan this is an allomorph of
+the Hypothetical participle -DjIngE
+- possibly the same holds for
+Kamchatka and I just didn't
+notice?
+\dt 13/Jun/2009
+
+\lx -E
+\a -a
+\a -e
+\a -ọ
+\a -o
+\a -i
+\a -ị
+\ps
+\ge ep
+\dt 19/Mar/2013
+
+\lx -Eː
+\a -aː
+\a -ọː
+\a -eː
+\ps
+\ge voc
+\dt 22/Mar/2009
+
+\lx =eː
+\a =ej
+\a =eːj
+\a =aː
+\a =oː
+\ge =emph
+\dt 29/Feb/2012
+
+\lx e -R(E) -n(I)
+\a -hni
+\a -hnị
+\ps
+\ge neg -nfut -3sg
+\dt 15/Feb/2010
+
+\lx -E-B
+\a -ep
+\a -ap
+\a -up
+\a -ịp
+\ps
+\ge ep-med
+\dt 27/Jun/2007
+
+\lx -E-Č
+\a -ịč
+\a -ič
+\a -ač
+\a -ọč
+\a -it
+\a -ịt
+\ps
+\ge ep-ins
+\dt 05/Jul/2009
+
+\lx -E-Č
+\a -ač
+\ps
+\ge ep-res
+\dt 20/Jun/2007
+
+\lx -E-čE
+\a -ịča
+\ps
+\ge ep-pf.ptc
+\dt 14/Jun/2007
+
+\lx -E-ČEk
+\a -e-dʒek
+\ps
+\ge ep-nr
+\dt 28/Jun/2007
+
+\lx -E-D
+\a -id
+\a -ịd
+\a -idʒ
+\a -ịdʒ
+\a -ed
+\a -ad
+\ps
+\ge ep-prog
+\dt 13/Jun/2007
+
+\lx -E=gEl
+\a -egel
+\ps
+\ge ep=coord
+\dt 27/Jun/2007
+
+\lx -E-GEr
+\a -agar
+\ps
+\ge ep-imp.1pl.in
+\dt 20/Jun/2007
+
+\lx -E-Gr(E)
+\ps
+\ge ep-hab
+\dt 23/Feb/2008
+
+\lx -EhmEn
+\a -ehmen
+\a -ahman
+\a -hmen
+\ps
+\ge pretense
+\nt I have no idea how to call this
+suffix. In combination with o:-
+'become' it expresses "pretend to
+do", in Sebjan (cf.
+Krivoshapkina_childhood_16)
+\dt 01/Mar/2012
+
+\lx -E-j
+\ps
+\ge ep-conn
+\dt 04/Mar/2008
+
+\lx -E-DʒEk
+\a -ịdʒak
+\ps
+\ge ep-nr??
+\dt 12/Jun/2007
+
+\lx -E-dʒEːn
+\ps
+\a -idʒeːn
+\ge ep-dur
+\dt 28/Jun/2007
+
+\lx -E-DʒI
+\a -i-dʒi
+\a -ị-dʒị
+\a -edʒi
+\ge ep-fut
+\dt 15/Jun/2007
+
+\lx -E-kEČ
+\ps
+\ge ep-mult
+\dt 08/Jul/2007
+
+\lx -E-KEn
+\a -eke
+\ps
+\ge ep-dim.int
+\dt 02/Dec/2012
+
+\lx -E-kEn
+\a
+\ps
+\ge -ep-trm.cvb
+\dt 05/Jan/2008
+
+\lx -E-klE
+\a -ekle
+\a -akla
+\ps
+\ge ep-all.loc
+\dt 27/Jun/2007
+
+\lx -E-klEːkE
+\a -ekleːke
+\ps
+\ge ep-trm.cvb
+\dt 19/Feb/2008
+
+\lx -E-L
+\a -il
+\a -ịl
+\ps
+\ge ep-inch
+\dt 11/Jun/2007
+
+\lx -E-L
+\a -el
+\a -al
+\a -il
+\a -ịl
+\a -ir
+\ps
+\ge ep-pl
+\dt 12/Jun/2007
+
+\lx =El
+\a =el
+\a =al
+\ge emph
+\dt 11/Jul/2009
+
+\lx -E-L =DE
+\a -alda
+\a -elde
+\ps
+\ge ep -pl =ptl
+\dt 05/Jul/2009
+
+\lx -E-lbE
+\ps
+\ge ep-vr
+\dt 12/Jun/2007
+
+\lx -E-lkEn
+\a -ilke
+\a -ilken
+\a -alka
+\ps
+\ge ep-prop
+\dt 01/Mar/2008
+
+\lx -E-m
+\ps
+\ge ep-mult
+\dt 17/Feb/2008
+
+\lx -E-m
+\ps
+\ge ep-1sg
+\dt 19/Feb/2008
+
+\lx -E-m
+\ps
+\ge ep-des
+\dt 20/Feb/2008
+
+\lx -E-mEČ
+\a -emeč
+\ps
+\ge -ep-rec
+\dt 19/Feb/2008
+
+\lx -E-mEl
+\a -imel
+\ps
+\ge ep-des
+\dt 02/Jul/2007
+
+\lx -E-mEl
+\a -emel
+\ps
+\ge ep-des
+\dt 18/Feb/2008
+
+\lx -E-mElčI
+\ps
+\ge ep-acclr
+\dt 09/Jul/2007
+
+\lx -E-mI
+\ps
+\ge ep-cond.cvb
+\dt 23/Feb/2008
+
+\lx -E-mkEr
+\a -amkar
+\ps
+\ge ep-aug
+\dt 01/Jul/2007
+
+\lx -E-mnE
+\ps
+\ge ep-hyp
+\dt 03/Mar/2008
+
+\lx -E-mŋE
+\a -emŋe
+\a -amŋa
+\ps
+\ge ep-agnr
+\dt 12/Jun/2007
+
+\lx -E-mnIn
+\a -emnit
+\ge ep-imm.cvb
+\dt 09/Jun/2007
+
+\lx -E-n
+\a -an
+\ps
+\ge ep-mult
+\dt 03/Jul/2007
+
+\lx -E-ŋ
+\a -ịŋ
+\ps
+\ge ep-aln
+\dt 12/Jun/2007
+
+\lx -Eːn
+\ps
+\a -eːn
+\a -aːn
+\ge dim
+\nt this is a verbal diminutive with a
+meaning of pity
+\dt 13/Jun/2009
+
+\lx -E-nIkEn
+\a -inteken
+\ps
+\ge ep-sim.cvb
+\dt 28/Feb/2008
+
+\lx -E-ńdʒE
+\a -ịndʒa
+\ps
+\ge ep-aug
+\dt 09/Jul/2007
+
+\lx -E-nmEj
+\a -ịnmaj
+\ps
+\ge ep-anr
+\dt 12/Jun/2007
+
+\lx -E-nnE
+\a -anna
+\a -enne
+\ps
+\ge ep-nec.ptc
+\dt 13/Jun/2007
+
+\lx -E-n(I)
+\a -eni
+\a -anị
+\a -en
+\a -an
+\a -ịn
+\ps
+\ge ep-poss.3sg
+\nt Way of glossing variants with an
+epenthetic vowel!!!!
+\dt 13/Jun/2009
+
+\lx -E-n(I)
+\ps
+\ge ep-3sg
+\dt 09/Jun/2007
+
+\lx -E-R
+\a -ar
+\ps
+\ge ep-neg.cvb
+\dt 23/Jun/2007
+
+\lx -E-RI
+\a -eri
+\ps
+\ge ep-pst
+\dt 19/Jun/2007
+
+\lx -E-RIdʒI
+\ps
+\ge ep-ant.cvb
+\dt 17/Feb/2008
+
+\lx -E-R(E)
+\ps
+\ge ep-nonfut
+\dt 28/Jun/2007
+
+\lx -E-s
+\ps
+\ge -ep-2pl
+\dt 19/Oct/2007
+
+\lx -E-sčI
+\a -ịsčị
+\ps
+\ge ep-conat
+\dt 28/Jun/2007
+
+\lx -E-sEn
+\a -esen
+\ps
+\ge ep-poss.2pl
+\dt 14/Jun/2007
+
+\lx -E=sI
+\a -isi
+\a -asị
+\a -ịsị
+\a -esi
+\ps
+\ge ep=emph
+\dt 23/Jun/2007
+
+\lx -E-s(E)n
+\a -as
+\ps
+\ge ep-lim
+\dt 10/Jun/2007
+
+\lx -E-s(I)
+\a -is
+\a -as
+\ps
+\ge ep-poss.2sg
+\dt 14/Jun/2007
+
+\lx =et
+\ps
+\ge =emph
+\nt apparently only occurs with ti:k
+\dt 28/Mar/2012
+
+\lx -E-tEn
+\a -atan
+\a -ịtan
+\a -ọtnọ
+\ps
+\ge ep-poss.3pl
+\dt 19/Feb/2012
+
+\lx -E-tlE
+\a -atla
+\ps
+\ge ep-pst.ptc
+\dt 08/Jul/2007
+
+\lx -E-t(E)kEn
+\ps
+\ge ep-restr
+\dt 30/Jun/2007
+
+\lx -E-t(E)kI
+\a -ịskị
+\a -etki
+\ps
+\ge ep-all
+\dt 22/Jun/2007
+
+\lx -E-t(I)
+\ps
+\ge -ep-poss.1pl.in
+\dt 06/Jan/2008
+
+\lx -E-W
+\a -ịw
+\a -iw
+\a -ew
+\a -iwu
+\ps
+\ge ep-acc
+\dt 24/Jun/2007
+
+\lx -E-W
+\a -ịwụ
+\ps
+\ge ep-poss.1sg
+\dt 20/Jun/2007
+
+\lx -E-W
+\a -ew
+\ps
+\ge ep-advrs
+\dt 01/Jul/2007
+
+\lx -E-WEːČ
+\a -eweːt
+\ps
+\ge ep-gnr
+\dt 18/Jun/2007
+
+\lx -E-(dU)LE
+\a -ala
+\ps
+\ge ep-loc
+\dt 23/Jun/2007
+
+\lx -E-(LI)lrE
+\a -elde
+\a -alda
+\ps
+\ge ep-imp.2pl
+\dt 18/Feb/2008
+
+\lx -E=(W)Ul
+\ps
+\ge ep=indef
+\dt 29/Jun/2007
+
+\lx -G
+\a -k
+\a -ŋ
+\ps
+\ge advr
+\nt I am not sure about this one, I
+have only two examples from
+Sebjan - one is
+Klim_Nikolaevich_eksponat06
+'hulek' more than < hul 'remain in
+excess; the other
+Krivoshapkina_AX_svatovstvo73
+(and others) hiwkengken 'silently'
+< hiwken 'zamolchat'
+\dt 16/Feb/2010
+
+\lx -ga
+\ps
+\ge ??
+\dt 11/Jun/2008
+
+\lx -GdE
+\a -gde
+\a -gda
+\a -ŋde
+\a -ŋda
+\ps
+\ge adjr
+\nt denominal adjectivizer [having a
+big N]
+\dt 13/Jun/2009
+
+\lx -GE
+\a -ge
+\a -ga
+\a -ke
+\a -ka
+\a -ŋe
+\a -ŋa
+\a -gọ
+\ps
+\ge desig
+\nt Only occurs with possessive
+markers. Marks the direct object,
+and in the possessive suffix the
+beneficiary of the object. With
+intransitive predicates, Designative
+can in some dialects mark the
+subject. With transitives, the
+Designative can also mark a
+designation (take someone AS A
+WIFE).
+\dt 26/Mar/2010
+
+\lx -GE
+\a -ge
+\ge nr??
+\dt 20/Jul/2009
+
+\lx =gEl
+\a =gel
+\a =gal
+\a =wul
+\a =wel
+\a =kel
+\a =kal
+\ps
+\ge coord
+\nt Coordinating particle
+\dt 12/Dec/2012
+
+\lx -GEr
+\a -ger
+\a -gar
+\a -ker
+\a -kar
+\a -kal
+\a -ŋer
+\a -ŋar
+\a -gel
+\a -gal
+\a -gelde
+\a -galda
+\a -kelde
+\a -kalda
+\ps
+\ge imp.1pl.in
+\dt 26/Feb/2012
+
+\lx -GIČ
+\a -gič
+\a -gịč
+\a -ŋič
+\a -ŋịč
+\a -gidʒi
+\a -gịdʒị
+\a -gidʒ
+\a -gịdʒ
+\a -gịt
+\a -git
+\a -kịt
+\ps
+\ge elat
+\nt The variant in -gich occurs after
+vowels and consonants and plural;
+the variant in -ngich occurs after
+'primary n'; the variant in -gidj
+occurs with possessive  and
+reflexive possessive suffixes.
+Elative marks direction away from,
+but motion does not necessarily
+originate in source (as with
+ablative).
+\dt 17/Mar/2013
+
+\lx -gIdE
+\a -gide
+\a -gịda
+\a -kide
+\a -kịda
+\a -da
+\ps
+\ge part
+\dt 19/Feb/2012
+
+\lx -gIdE -t(E)kI
+\a -gidetki
+\a -gịdatkị
+\ps
+\ge part -all
+\dt 09/Jul/2009
+
+\lx =go
+\ps
+\ge ptl
+\dt 26/Mar/2009
+
+\lx -Gr(E)
+\a -gre
+\a -gra
+\a -gere
+\a -gara
+\a -ŋre
+\a -ŋra
+\a -ger
+\a -gar
+\a -ŋer
+\a -ŋar
+\a -wre
+\a -wra
+\a -kere
+\a -kara
+\a -kọrọ
+\a -kore
+\ps
+\ge hab
+\nt Habitual meaning with past
+reference
+\dt 19/Mar/2013
+
+\lx -Gr(E) -R(E)
+\a -wrere
+\a -wrara
+\ge -hab -nonfut
+\dt 21/Mar/2013
+
+\lx =GU
+\a =gu
+\a =gụ
+\a =ku
+\a =kụ
+\a =ŋu
+\a =ŋụ
+\ps
+\ge q
+\nt Interrogative particle; attaches to
+yes-no and alternative questions
+(NOT to content questions!)
+\dt 13/Jun/2009
+
+\lx -G(E)čIn
+\a -gčin
+\a -gčịn
+\a -ŋčin
+\a -ŋčịn
+\a -gečin
+\a -gačịn
+\a -gči
+\a -gịčị
+\a -gčị
+\a -gačị
+\a -kečin
+\a -kičin
+\a -kịčịn
+\a -wčin
+\a -wčịn
+\ps
+\ge sml
+\nt The variant in -gchin occurs with
+vowel and consonant stems and
+possessive suffix; the variant in
+-ngchin occurs after 'primary n';
+the long variant occurs after plural;
+and the variant in -gchi occurs with
+poss.reflexive suffix. The Similitive
+marks a manner adjunct, object of
+equation, e.g. 'speak like a man'.
+\dt 23/Mar/2013
+
+\lx -g(E)lI
+\a -glị
+\a -gli
+\a -geli
+\a -keli
+\ps
+\ge com
+\nt According to Novikova, this
+Comitative suffix attaches to
+personal names; but it is also used
+more with intransitive verbs, while
+-nun is used more with transitive
+verbs.
+\dt 13/Jun/2009
+
+\lx -G(I)
+\a -g
+\a -k
+\a -ŋ
+\a -gị
+\a -gi
+\ps
+\ge vr
+\nt denominal verbalizer [produce N]
+\dt 25/Jun/2009
+
+\lx =hni
+\a =ńị
+\a =ńi
+\a =ni
+\a =hnị
+\ps
+\ge affirm
+\nt This is the reduced form of the
+3sg.nfut form of the negative verb
+e-, which in Sebjan is
+grammaticalizing into an
+affirmative part (zhe, ved'). It
+occurs as the completely
+unreduced form ehni, as hni, as
+well as as ni (e.g. Taisija Vasilevna
+Kejmetinova)
+\dt 18/Feb/2012
+
+\lx -i
+\ps
+\ge ipf???
+\dt 19/Feb/2008
+
+\lx =Iː
+\a =iː
+\a =ịː
+\ps
+\ge =emph
+\dt 29/Jun/2007
+
+\lx =IElE
+\a =ịala
+\a =iele
+\ge =emph
+\dt 03/Mar/2008
+
+\lx =ihi
+\ps
+\ge =ptl
+\dt 05/Mar/2008
+
+\lx -J
+\a -j
+\a -i
+\a -ị
+\a -jị
+\a -ji
+\a -mi
+\a -mị
+\a -bi
+\a -bị
+\ps
+\ge prfl.sg
+\dt 13/Jun/2009
+\nt Possessive reflexive. The variant in
+-j/-i is the default (after final
+vowel/consonant); the variant in
+-mi occurs after stems ending in
+the 'primary n'; the variant in -bi
+occurs after plural stems.
+
+\lx -j
+\ps
+\ge agnr
+\nt agent of V-ing
+\dt 16/May/2007
+
+\lx -j
+\ps
+\ge conn
+\nt this is a connective glide that is
+inserted between Even roots and
+Sakha suffixes
+\dt 13/Jun/2009
+
+\lx =jE
+\a =ja
+\a =je
+\a =če
+\a =ča
+\ps
+\ge =assoc
+\dt 07/Jul/2009
+
+\lx -jEː
+\a -jeː
+\a -jaː
+\a -jọː
+\a -ńaː
+\a -ja
+\ps
+\ge aug
+\nt This occurs in Sebjan in the
+converb go:jendji "saying", used
+when a big person is speaking
+\dt 04/Mar/2012
+
+\lx -dʒEːgEgEj
+\a -dʒeːgegej
+\a -dʒaːgagaj
+\ps
+\ge dim.tender
+\nt found in bombodje:gegej
+(EAK_reindeerherd198), seems to
+derive diminutives with a meaning
+of tenderness from descriptive
+verbs; not clear yet whether this is
+the suffix and it just always occurs
+with the durative suffix, or whether
+the tenderness suffix is actually
+-djE:gEgEj
+\dt 26/Mar/2013
+
+\lx -dʒehne
+\ps
+\ge ??
+\dt 16/Feb/2008
+
+\lx -jEkEː
+\a -jakọː
+\ps
+\ge directly
+\nt this has an even more intensive
+meaning of directly,
+prjamo-prjamo that -jeke:ki
+\dt 22/Mar/2010
+
+\lx -jEkEn
+\a -jakan
+\a -jaka
+\a -jeken
+\ps
+\ge dim
+\dt 13/Jul/2012
+
+\lx -jEːkI
+\a -jaːkị
+\a -jeːki
+\ps
+\ge directly
+\dt 22/Mar/2008
+
+\lx -dʒEːn
+\a -dʒeːn
+\a -dʒaːn
+\a -dʒeː
+\ps
+\ge dur
+\nt Durative aspect 'do for a long
+time'.
+\dt 25/Mar/2013
+
+\lx -jEːt
+\a -jet
+\a -jat
+\a -jeːt
+\a -jaːt
+\a -jeːč
+\a -jaːk
+\ps
+\ge dim
+\nt verbal diminutive, found in Sebjan,
+gives a nuance of feeling sorry for
+oneself or others, ja/ty/on
+bednen'kij, xoroshij
+\dt 22/Mar/2013
+
+\lx -DʒI
+\a -dʒi
+\a -dʒị
+\a -či
+\a -čị
+\ps
+\ge fut
+\nt Indicative future
+\dt 06/May/2007
+
+\lx -DʒI
+\a -dʒi
+\a -dʒị
+\a -či
+\a -čị
+\ps
+\ge ins.prfl.sg
+\nt this occurs in the forms V-je:dji
+and V-kendji, which are used as
+converbs in Sebjan, the first
+contains an augmentative element
+and is used as "doing" when a big
+person speaks, the second
+contains the Diminutive suffix and
+is used when a small person does
+something
+\dt 13/Jun/2009
+
+\lx dʒIː
+\a dʒiː
+\a dʒịː
+\ps
+\ge aff
+\nt I used to gloss this as a clitic, but
+it frequently occurs on its own
+after a long pause, so I think it's
+better off as a separate particle
+\dt 14/Mar/2012
+
+\lx -DʒI -n(I)
+\a -dʒin
+\a -dʒịn
+\ps
+\ge fut -3sg
+\dt 27/Feb/2010
+
+\lx -DʒIk
+\a -dʒik
+\a -dʒịk
+\a -čik
+\a -čịk
+\a -k
+\ps
+\ge admon
+\nt admonitive mood, e.g. hor-djik
+'(watch out), s/he may go'. There
+is also a variant -k which is used
+only in 'certain dialects'
+\dt 13/Jun/2009
+
+\lx -DʒIŋE
+\a -dʒiŋe
+\a -dʒịŋa
+\a -čiŋe
+\a -čịŋa
+\a -tiŋe
+\ps
+\ge hyp.ptc
+\nt Hypothetical participle; belongs to
+the modal participles; takes
+possessive subject agreement
+suffixes and usually occurs
+without overt copula. Together
+with subject agreement endings
+this forms the 'polite imperative';
+Malchukov gives full paradigm
+(with a mix of subject agreement
+markers: 1sg, 3sg, 1pl.excl, 2pl,
+3pl = possessive endings, 2sg =
+verbal ending, 1pl.incl = something
+different altogether); Novikova
+gives it only for second person,
+with 2sg ending = verbal, 2pl =
+possessive
+\dt 22/Mar/2010
+
+\lx =jụ
+\ps
+\ge emph
+\dt 08/Jul/2007
+
+\lx -dʒUr
+\a -dʒụr
+\a -dʒur
+\a -čur
+\ps
+\ge ins.prfl.pl
+\dt 20/Jul/2008
+
+\lx -k
+\ps
+\ge adjr
+\nt According to Cincius, this is one
+of the many adjr suffixes that
+derives adjectives mainly from
+verbs, but I think that it might be
+the suffix deriving churik(ach)
+from churit
+\dt 27/Jun/2009
+
+\lx -k
+\ps
+\ge mult
+\nt one of the multifarious suffixes
+that serve as markers of multiple
+actions
+\dt 17/Jul/2009
+
+\lx =kE
+\a =ke
+\a =ka
+\a =keː
+\a =kaː
+\a =kke
+\a =kịː
+\a =kieː
+\a =kie
+\ps
+\ge emph
+\nt Words with the emphatic particle
+take plural marking AFTER the
+particle, gu:dake:l, 'very high.PL'
+\dt 19/Mar/2010
+
+\lx -kE
+\a -ke
+\a -ka
+\ps
+\ge ??
+\nt I am forced to define this
+undefined suffix because in
+Kr._AX_1930s_12 I have the form
+tatkatcha, which Ija Krivoshapkina
+says is derived from tatkattaj,
+which is the resultative (dolgo
+delat') of a form tatkadaj - a
+perfective form, zakonchennoe
+dejstvie, which of course is
+derived from tat, 'learn, teach'
+\dt 22/Feb/2010
+
+\lx -kEČ
+\a -keč
+\a -ket
+\a -kač
+\a -kat
+\a -kad
+\a -kek
+\a -kak
+\ps
+\ge mult
+\nt Aspectual form; ATELIC -->
+MULTIPLICATIVE; TELIC -->
+DISTRIBUTIVE, cf. example 19
+in Malchukov p. 15
+\dt 17/Mar/2010
+
+\lx -kEːjE
+\a -keːje
+\a -kaːja
+\a -kaja
+\a -keje
+\ps
+\ge aug
+\dt 08/Jun/2007
+
+\lx -kEkEn
+\a -kakan
+\a -keken
+\a -akan
+\a -kaka
+\a -keke
+\a -čaka
+\ps
+\ge dim
+\dt 13/Feb/2010
+
+\lx -KEn
+\a -ken
+\a -keːn
+\a -kan
+\a -kaːn
+\a -ke
+\a -ka
+\ps
+\ge dim.int
+\nt This used to be the underlying
+form for the diminutive, even in
+-chan/chen and even -kken and
+-keken, obviously before I decided
+to add those as separate
+diminutive morphemes. However,
+in February 2010 I decided to
+separate -chEn as a diminutive
+from -KEn. I still need to decide
+how to gloss KEn, which in
+Sebjan occurs in two different
+functions - as a diminutive suffix
+(quite rarely) on nouns, and as a
+more emphatic, intensifying
+(usilitelnyj) suffix, especially
+frequent in adverbs (echiken,
+bekecchen - though here the form
+is chen, but I would argue that's
+assimilation) and in converbs,
+imarikandji - this sometimes with
+-kken; on 01.03.2012 IVK said
+that this suffix with a short vowel
+has a diminutive meaning and with
+a long vowel it has intensifying,
+emphatic meaning - but I'm not
+sure I've noticed any vowel
+differences
+\dt 02/Mar/2012
+
+\lx -kEn
+\a -ken
+\a -kan
+\a -kọn
+\ps
+\ge trm.cvb
+\nt Terminative converb ('until'),
+occurs in SS constructions 
+\dt 03/Apr/2010
+
+\lx =kEnE
+\a =kene
+\a =kana
+\a =kkEne
+\ps
+\ge contr
+\nt contrastive particle; in Sebjan
+seems to have a more specifying
+meaning (utochnitelnyj), and in
+Sebjan the variant with geminated
+k occurs after vowels 
+\dt 16/Mar/2010
+
+\lx -kI
+\a -ki
+\a -kị
+\ps
+\ge adjr
+\nt This occurs in several adjectives,
+so although it's not in Cincius, I've
+decided to add it
+\dt 21/Feb/2010
+
+\lx -ki
+\ps
+\ge ???
+\dt 11/Jun/2008
+
+\lx -kIč
+\a -kič
+\a -kịč
+\a -kịt
+\a -kit
+\ps
+\ge nr
+\nt derives nouns from verbs, with a
+meaning of possibility of doing
+something, e.e. ulimikich 'mesto
+belkovki' < ulimidej 'belkovat',
+i:kich 'vxod' < i:dej 'vxodit'
+\dt 24/Mar/2012
+
+\lx -kIl
+\a -kịl
+\a -kil
+\a -kal
+\a -kir
+\a -kịr
+\ps
+\ge proh.sg
+\dt 06/Jul/2009
+
+\lx -kIllE
+\a -kille
+\a -kịlla
+\a -kalla
+\ps
+\ge proh.pl
+\dt 22/Jun/2007
+
+\lx -kIt
+\a -kịt
+\ps
+\ge imprs.nec
+\nt impersonal, general necessity,
+doesn't take subject agreement
+(beseda 1986)
+\dt 28/Mar/2012
+
+\lx =kkE
+\a =kko
+\a =kke
+\a =kka
+\a =ke
+\a =kọ
+\a =ko
+\a =ka
+\ps
+\ge ptl
+\dt 12/Feb/2013
+
+\lx -kkEn
+\a -kken
+\a -kkan
+\a -kka
+\a -kke
+\a -kkọn
+\a -kkọ
+\ps
+\ge dim
+\dt 10/Mar/2008
+
+\lx -klE
+\a -kle
+\a -kla
+\a -gla
+\a -gle
+\ps
+\ge all.loc
+\nt The Allative-Locative has
+functions similar to Locative in
+goal function, but indicates that the
+object comes into close contact.
+This appears to have developed a
+concessive meaning ('even
+though') in Sebjan, attaching to the
+Imperfective participle of bi- and 
+with VS functions, mostly in
+conjunction with tar=da
+\dt 26/Jan/2012
+
+\lx -klEːkE
+\a -kleːke
+\a -klaːka
+\ps
+\ge trm.cvb
+\nt This appears to be some form of
+terminative converb (meaning
+'until') in use in Sebjan; it takes
+Possessive person markers
+\dt 13/Jun/2009
+
+\lx -klI
+\a -kli
+\a -klị
+\a
+\ge all.prol
+\nt Allative-Prolative has meaning of
+motion within/along, the route of
+motion, but with an indication of
+close contact of the object.
+
+
+
+
+
+\dt 13/Jun/2009
+
+\lx -klI
+\a -kli
+\a -klị
+\ps
+\ge apprx
+\nt Derives approximate cardinal
+numerals ('about ten').
+\dt 13/Jun/2009
+
+\lx -kU
+\a -ku
+\a -kụ
+\ps
+\ge adjr
+\nt this form derives adjectives from
+descriptive verbs (sebjan, in
+standard even it's generally forms
+in -njE)
+\dt 19/Mar/2012
+
+\lx -K(Ag)
+\a -g
+\a -k
+\a -ag
+\a -kag
+\a -keg
+\a -sag
+\a -seg
+\ps
+\ge nr
+\nt denominal nominalizer [collective],
+e.g. juu-sag [house-coll] 'village'
+\dt 13/Jun/2009
+
+\lx -k(E)
+\a -k
+\a -ka
+\a -ke
+\a -keː
+\ps
+\ge nr
+\nt deverbal nominalizer
+\dt 05/Mar/2010
+
+\lx -L
+\a -l
+\a -r
+\ps
+\ge pl
+\dt 13/Jun/2009
+\nt The variant in -l occurs after vowel
+or consonant stems; the variant in
+-r occurs after stems ending in a
+'primary n'.
+
+\lx -L
+\a -l
+\a -n
+\ps
+\ge inch
+\nt Inchoative aspect 'begin to do'.
+\dt 16/May/2007
+
+\lx -l
+\ps
+\ge vr
+\nt I am not sure about this verbalizer,
+it might just be an allomorph of
+one of the others, but in Sebjan it
+derives verbs from adverbs (?) cf.
+Zhenja Zaxarova pear story sent.17
+\dt 13/Jun/2009
+
+\lx -LbE
+\a -lbe
+\a -lba
+\a -nbe
+\a -nba
+\a -lbu
+\a -lbụ
+\ps
+\ge vr
+\nt inchoative verbal proprietive
+[acquire N]; According to Ija
+Krivoshapkina, the suffix -lbu is
+actually a denominal verbalizer, but
+in Sebjan she has come across two
+verbs where it attaches to a verbal
+root and derives intransitives,
+vozvratnyj zalog: ongkelbu- from
+ongke "pour" and uchangalbu
+from uchang 'break'
+\dt 17/Mar/2010
+
+\lx -ldIwUn
+\a -ldiwun
+\a -ldịwụn
+\ps
+\ge nr
+\nt deverbal nominalizer [instrument
+for vrb-ing]
+\dt 13/Jun/2009
+
+\lx -LE
+\a -le
+\a -la
+\a -leː
+\a -ne
+\a -neː
+\a -na
+\a -naː
+\a -lo
+\a -ma
+\a -laː
+\a -lụ
+\ps
+\ge vr
+\nt denominal verbalizer [go fetch/hunt
+N] - this is the meaning given by
+Cincius, and it might hold for the
+eastern dialects; however, in
+Sebjan this suffix has greatly
+extended its usage to a general
+verbalizer, most likely under the
+influence of Sakha -LA: (and I
+used to have a separate Sakha vr
+suffix -LE:) 
+\dt 19/Feb/2013
+
+\lx -LE
+\a -le
+\a -la
+\a -ne
+\a -na
+\a -ra
+\a -re
+\a -da
+\a -de
+\a -ta
+\a
+\ps
+\ge prv
+\nt This is the suffix that together with
+the negative particle (noun?) ach
+forms privative constructions;
+Nikolaeva & Tolskaya and
+Benzing call it the 'Partitive', but it
+does not appear to have partitive
+functions. In function it
+corresponds to one of the
+functions of the Evenki Indefinite
+Accusative.
+\dt 23/Feb/2010
+
+\lx -LE
+\a -le
+\ps
+\ge nr
+\nt
+\dt 23/Feb/2010
+
+\lx =lE
+\a =le
+\a =la
+\a =lek
+\ps
+\ge emph
+\dt 16/Jul/2009
+
+\lx -LEČ
+\a -leč
+\a -lač
+\a -let
+\a -lat
+\a -neč
+\a -nač
+\a -net
+\a -nat
+\ps
+\ge vr
+\nt predicative (verbal) proprietive
+[have N, have/use as N]
+\dt 13/Jun/2009
+
+\lx -LEn
+\a -len
+\a -lan
+\a -nen
+\a -nan
+\ps
+\ge nr
+\nt deverbal nominalizer [good at
+Vrb-ing]
+\dt 23/Feb/2010
+
+\lx -lEŋčI
+\a -leŋči
+\a -laŋčị
+\ps
+\ge ??
+\dt 09/Mar/2009
+
+\lx -LI
+\a -li
+\a -lị
+\a -ni
+\a -nị
+\a -dʒi
+\a -ri
+\a -rị
+\ps
+\ge imp.2sg
+\dt 23/Feb/2008
+
+\lx -lI
+\a -li
+\a -lị
+\ps
+\ge vr
+\nt derives verbs with a meaning of
+'gather'
+\dt 13/Jun/2009
+
+\lx -lkEn
+\a -lken
+\a -lkan
+\a -lka
+\a -lke
+\a -lkon
+\ps
+\ge prop
+\nt Proprietive suffix; 'with a house'.
+i.e. the same function as Sakha
+-LA:x. ONLY ATTRIBUTIVE;
+predicative proprietive = LECH
+\dt 13/Jun/2009
+
+\lx -ltE
+\a -lte
+\a -lta
+\a -lda
+\ps
+\ge vr
+\nt denominal verbalizer [produce N]
+\dt 10/Jul/2012
+
+\lx =lUgU
+\a =lụ
+\ge =emph
+\dt 05/Jul/2007
+
+\lx -L-W
+\a -lbu
+\a -lbụ
+\a -lbe
+\a -lba
+\ps
+\ge pl-acc
+\dt 09/Jul/2009
+
+\lx -m
+\a -hme
+\a -hma
+\a -ma
+\a -sme
+\ps
+\ge des
+\nt Desiderative 'want to do'; the -m
+Desiderative in Sebjan has the
+form -hme, but djebem- 'be
+hungry' is an exception, this takes
+only the -m
+\dt 26/Mar/2010
+
+\lx -m
+\ps
+\ge 1sg
+\nt Subject agreement marker for
+verbs, future and nonfuture
+indicative
+\dt 13/Jun/2009
+
+\lx -m
+\ps
+\ge mult
+\dt 17/Feb/2008
+
+\lx -m
+\ps
+\ge vr
+\nt I'm defining this for two verbs
+derived from adverbs in
+Kamchatka, ngunamdaji and
+djulmeldeji
+(Solodikov_bearhunt11)
+\dt 09/Feb/2013
+
+\lx -m =DE
+\a -mde
+\a -mda
+\ps
+\ge 1sg =ptl
+\dt 05/Jul/2009
+
+\lx -mčIrI
+\a -mčiri
+\a -mčịrị
+\ps
+\ge attn
+\nt the most common general
+attenuative suffix in Sebjan, where
+they do not know -mrIn
+\dt 23/Feb/2010
+
+\lx -mč(I)
+\a -mč
+\a -mči
+\a -mčị
+\a -mče
+\a -mča
+\ps
+\ge sbjv
+\nt Subjunctive mood, used with
+counterfactual conditionals: 'If I
+had wings, I WOULD FLY to
+you'
+\dt 24/Feb/2012
+
+\lx -mdE
+\a -mde
+\a -mda
+\ps
+\ge adjr
+\nt denominal adjectivizer [related to
+N/designated for N]
+\dt 13/Jun/2009
+
+\lx -mdE
+\a -mda
+\ps
+\ge nr
+\nt I'm  not sure about this, but Ija
+Krivoshapkina said that
+"hanga:mda" = stezhok, so it
+would seem that -mdE is a
+nominalizing suffix as well as an
+adjectivizing suffix
+\dt 13/Jun/2009
+
+\lx -mdEs
+\a -mdes
+\a -mdas
+\a -mdeh
+\a -mdah
+\ps
+\ge sml
+\nt It's not clear to me what the
+difference between the case form
+-g(A)chIn (called 'Equative' by
+Malchukov 1995) and this suffix
+is; this one is only mentioned in a
+list of 'other inflectional suffixes of
+nouns'.
+\dt 13/Jun/2009
+
+\lx -mEː
+\a -maː
+\a -meː
+\a -me
+\a -ma
+\ps
+\ge vr
+\nt This verbalizer has basically the
+same meaning as -mI, namely to
+go hunt an animal; so I wonder if it
+wouldn't be worth defining just
+one verbalizer -mV? Of course,
+this one looks like a lexicalization
+of phrases animal-kill-TAM...
+\dt 08/Mar/2010
+
+\lx -mEČ
+\a -meč
+\a -meːč
+\a -met
+\a -meːt
+\a -maːt
+\a -mač
+\a -mat
+\ps
+\ge rec
+\dt 01/Jul/2007
+
+\lx -mEgEn
+\a -mege
+\a -megen
+\a -magan
+\ps
+\ge nr
+\nt Although this is, according to
+Cincius, a denominal nominalizer
+that derives nouns with a meaning
+of 'lhaving a penchant for
+something' ("chajmagan = ljubitel'
+chaja"), in Kamchatka I find it
+twice attached to verbs (elicitation
+AgreementSentences2b and
+Amganova_EP_cannibals02); the
+elicited example derives an
+adjective
+\dt 14/Jul/2009
+
+\lx -mEjE
+\a -maja
+\a -meje
+\ps
+\ge aug
+\dt 05/Mar/2008
+
+\lx =mEjE
+\a =meje
+\a =maja
+\ps ptl
+\ge ptl
+\nt like the other particles I'm giving
+this a clitic sign, even though it
+probably isn't; this is also to
+distinguish it from -mEjE, the
+aug.indef. in Sebjan
+\dt 01/Feb/2013
+
+\lx =mEːk
+\a =meːk
+\a =maːk
+\a =mak
+\ps ptl
+\ge ptl
+\nt according to Ija Krivoshapkina,
+this is a restrictive particle (cf.
+Klim_Nikolaevich_eksponat_017);
+Cincius has -mE(k) as a emphatic
+particle
+\dt 12/Jul/2009
+
+\lx -mEkEːmI
+\a -makaːmị
+\a -mekeːmi
+\a -makaːnị
+\a -keːmi
+\a -makọːmị
+\ps
+\ge directly
+\dt 15/Mar/2013
+
+\lx -mEkEn
+\a -meken
+\a -makan
+\a -makaːn
+\a -mekeːn
+\a -maka
+\ps
+\ge ints
+\nt With adjectives this indicates a
+high intensity of the quality.
+\dt 16/Mar/2010
+
+\lx -mEl
+\a -mel
+\a -mal
+\a -mọl
+\ps
+\ge des
+\nt Cincius calls this the 'vid
+gotovnosti sovershit' dejstvija', but
+says that it 'ukazyvaet na sil'noe
+zhelanie sovershit' dejstvie'. need
+to find a good gloss for this, des
+is not good
+\dt 15/Mar/2012
+
+\lx -mElčI
+\a -melči
+\a -malčị
+\a -malka
+\a -messi
+\ge acclr
+\nt accelerated aktionsart, quick
+action; the suffix -malka seems to
+be restricted to (h)a:- 'learn', at
+least in Kamchatka, where I got the
+form a:malkariwun 'my bystro
+uchilis'; while in Sebjan they have
+the variant -messi
+\dt 13/Feb/2010
+
+\lx =mEn
+\a =man
+\a =men
+\ps ptl
+\ge neg
+\nt According to Ija Krivoshapkina,
+this is a negative particle
+(chastica); it definitely has negative
+meaning with a contrastive focus
+(I'm not doing X, I'm doing Y),
+Zoja Afanasevna also said so; it's
+not in the Cincius grammar sketch
+\dt 19/Mar/2010
+
+\lx -mEːn
+\a -meːn
+\a -meŋ
+\a -meːŋ
+\ps
+\ge freq
+\nt I don't know how to call this
+aspectual suffix - in Sebjan it
+appears to have a meaning of
+doing something now and then
+"vremja ot vremeni"; it could be a
+variant of what Cincius&Rishes
+call "vid izredka sovershaemogo
+dejstvija" which has the suffix
+-wEn (with variant -in); cf.
+AspectMPIP15 and 16, Ija
+Krivoshapkina's sentences)
+\dt 04/Mar/2010
+
+\lx -mEskEn
+\a -meske
+\ps
+\ge emph.num
+\nt This occurs only with numerals
+and has a meaning of emphasis
+and collectiveness, e.g.
+Stepanova_ZA_naled118 njama
+njungemeskem 'azh tselyx 106'
+\dt 11/Mar/2010
+
+\lx -mEt
+\a -met
+\a -mat
+\ps
+\ge nr
+\nt deverbal nominalizer [recent
+resultative] e.g. 'baby' < (newly)
+'born'
+\dt 13/Jun/2009
+
+\lx -mI
+\a -mi
+\a -mị
+\ps
+\ge cond.cvb
+\nt Conditional-temporal converb ('if,
+when'); occurs in SS constructions
+\dt 13/Jun/2009
+
+\lx -mI
+\a -mi
+\a -mị
+\a -mụ
+\ps
+\ge vr
+\dt 05/Mar/2012
+
+\lx =mIjE
+\a =mije
+\a =mịja
+\ps
+\ge =contempt
+\nt According to Cincius&Rishes, this
+has a "prenebrezhitel'noe"
+meaning; cf. Movement
+Kamchatka Pictures B09c
+\dt 07/Feb/2013
+
+\lx -mkEr
+\a -mker
+\a -mkar
+\ps
+\ge aug
+\nt This is used with an augmentative
+meaning with nouns, and with an
+emphatic meaning with adjectives.
+\dt 13/Jun/2009
+
+\lx -mkIn
+\a -mkin
+\a -mkịn
+\ps
+\ge nr
+\nt deverbal nominalizer [way to a
+place for Vrb-ing]; though in
+Sebjan it might have the same
+meaning as -RUk, a receptacle,
+e.g. mo:limkin, bucket (that with
+which you go to fetch water)
+\dt 23/Mar/2013
+
+\lx -mnE
+\a -mne
+\a -mna
+\ps
+\ge hyp
+\nt Hypothetical mood, or
+presumptive 'she will probably go'
+- says the grammar; however, it
+doesn't occur at all in the
+Kamchatka corpus (and was once
+rejected in a judgement elicitation,
+Design_D_24d); in Sebjan, it
+mainly has a meaning of
+involuntary obligation - doesn;t
+occur very frequently in the
+corpus, but appears in various
+grammatical comments/elicitations,
+and a good example is
+Kr_Tat_Petr_family_209
+\dt 23/Feb/2010
+
+\lx -mŋE
+\a -mŋe
+\a -mŋa
+\a -mna
+\ps
+\ge agnr
+\nt deverbal nominalizer [agent of
+Vrb-ing]
+\dt 13/Jun/2009
+
+\lx -mŋE
+\a -mŋe
+\a -mŋa
+\ps
+\ge nr
+\nt This suffix derives nouns
+designating individuals (people?)
+by their origin from place names
+\dt 13/Jun/2009
+
+\lx -mnIn
+\a -mnin
+\a -mnịn
+\ps
+\ge dur.cvb
+\nt Cincius&Rishes call this the
+"deeprichastie prodolzhitel'noe",
+and say that together with the
+particle =tIt it grammaticalized into
+the Immediate Precedence
+converb; Malchukov calls this the
+Immediate precedence converb,
+used in SS constructions; or the
+subordinate action is interrupted
+by the main clause event 'he was
+floating[imm.cvb] down the river
+when he (suddenly) got stuck'; but
+from the data in the corpus and the
+explanation given by IVK
+(emcheni_127) this is just a clearly
+simultaneous action, there is no
+element of duration, and no
+element of immediate precedence,
+but this action happening at the
+same time as the main verb action;
+durative converb is not a good
+name, but "simultaneous converb"
+is taken up by -nIkEn, so it will
+have to stay like this, I guess
+\dt 07/Mar/2012
+
+\lx -mrIn
+\a -mrin
+\a -mrịn
+\ps
+\ge attn
+\nt Attenuative; used with adjectives
+to indicate a lesser degree of the
+quality expressed by the adjective,
+e.g. 'reddish'.
+\dt 13/Jun/2009
+
+\lx -n
+\a -m
+\ps
+\ge mult
+\nt According to Cincius, the
+multiplicative suffix has very many
+different forms, or it would
+probably be better to say there are
+a number of synonymous suffixes
+\dt 19/Feb/2012
+
+\lx -n
+\ps
+\ge nr
+\dt 23/Feb/2008
+
+\lx -n
+\ps
+\ge vr
+\dt 09/Mar/2009
+
+\lx -n
+\ps
+\ge semelfact???
+\nt According to Cincius, one of the
+variants of the Multiplicative
+Aktionsart is -n, so calling this
+'semelfactive' seems odd,
+probably; however, RME said that
+bujurin = 'soxotilsja', bujundej =
+1x oxotit'sja, and bujustej =
+periodieski postojanno oxotit'sja -
+which makes the -n appear
+something like a semelfactive
+marker
+\dt 27/Jun/2009
+
+\lx -ŋ
+\ps
+\ge aln
+\nt Alienable possession suffix.
+Attaches to the possessum, and
+has different syntactic function
+from the predicate possessive.
+\dt 13/Jun/2009
+
+\lx -ŋ
+\ps
+\ge vr
+\nt This derives verbs with a meaning
+of "choose N"
+\dt 13/Jun/2009
+
+\lx -nAn
+\a -nọn
+\a -nen
+\a -non
+\ps
+\ge advr
+\nt This appears to derive adverbs
+with a meaning of 'a long stretch of
+time', e.g. dolbinnon 'all night',
+tugeninon 'all winter', inengenen 'all
+day', djugeninon 'all summer'
+\dt 20/Jul/2009
+
+\lx -nE
+\a -ne
+\a -na
+\ps
+\ge intent
+\nt Intentional 'go to see, go to do,
+etc.' deverbal verbalizer
+\dt 13/Jun/2009
+
+\lx -nE
+\a -ne
+\ps
+\ge -nr
+\dt 07/Mar/2009
+
+\lx -ńE
+\a -ńa
+\a -ńe
+\ps
+\ge adjr
+\nt this derives adjectives from stative
+verbs, seems to be more standard
+than sebjan
+\dt 19/Mar/2012
+
+\lx -ŋE
+\a -ŋe
+\a -ŋa
+\ps
+\ge nmdl.cvb
+\nt Malchukov calls this the 'negative
+modal' converb; it occurs in
+periphrastic constructions with
+negative modal auxiliaries (e.g. ba:-
+'not want')
+\dt 13/Jun/2009
+
+\lx -ŋE
+\a -ŋe
+\a -ŋa
+\ps
+\ge pol.imp
+\nt polite imperative, used only in
+second person with verbal person
+marker for 2SG (-nrI), but
+possessive person agreement
+suffix (-sEn) for 2PL
+\dt 13/Jun/2009
+
+\lx -ŋEhEt
+\a -ŋahat
+\a -ŋehet
+\ps
+\ge inab
+\nt this appears to be a modal form
+that expresses inability; I don't find
+it in the Cincius grammar sketch,
+but I got this in Sebjan (March
+2009, cf. Tat_Petr_family_38)
+\dt 13/Jun/2009
+
+\lx -ŋEjE
+\a -ŋeje
+\a -ŋaja
+\ps
+\ge aug.adj
+\dt 14/Mar/2012
+
+\lx -ŋEkEn
+\a -ŋeken
+\a -ŋakan
+\a -ŋakaːn
+\a -ŋken
+\a -ŋoken
+\ps
+\ge dim.adj
+\dt 24/Mar/2013
+
+\lx =nEn
+\a =nen
+\a =nan
+\ps
+\ge emph
+\nt Yet another emphatic, intensifiying
+particle frequently occurring in
+Kamchatka
+\dt 15/Jul/2009
+
+\lx -ŋEːt
+\a -ŋeːt
+\a -ŋaːt
+\ps
+\ge nr
+\nt denominal nominalizer [material for
+N] 'boat-ngaat' = 'material for the
+boat'
+\dt 13/Jun/2009
+
+\lx -NI
+\a -ri
+\a -nị
+\ge coll
+\nt This suffix derives 'collective
+adverbials', in conjunction with the
+Plural Reflexive Possessive e.g.
+ilan 'three' --> ilnidjur 'three
+together'; Malchukov analyzes the
+collective suffix as the entire thing,
+-RIdjUr, but Rishes&Cincius split
+it up; Dejan did some tests about
+how you can use it and figured the
+Instrumental marked version was
+better; he collective numerals on
+-ridʒur only occur with low
+numerals, 2,3, 4, not with >5; also,
+these collective numerals don't
+function as modifiers, so one
+cannot say djoridjur nime:r
+tegeccel, it would be djor nime:r
+biniken tegeccel
+\dt 24/Feb/2010
+
+\lx -ŋI
+\a -ŋi
+\a -ŋị
+\ps
+\ge pred.poss
+\nt The Predicate Possessive suffix,
+used to indicate possession in
+predicative position, or when the
+possessum is dropped; attaches to
+the possessor.
+\dt 13/Jun/2009
+
+\lx -nIkEn
+\a -niken
+\a -nịkan
+\a -nike
+\a -nịka
+\ps
+\ge sim.cvb
+\nt This simultaneous converb occurs
+in SS constructions, but agrees
+with the subject in number
+\dt 13/Jun/2009
+
+\lx -niken
+\a -miken
+\ps
+\ge fut.proh.sg
+\nt This attaches only to the negative
+auxiliary e-; the  standard form is
+-miken
+\dt 13/Jun/2009
+
+\lx -nikes
+\ps
+\ge fut.proh.pl
+\nt This attaches only to the negative
+auxiliary e-; the standard form is
+-mikesel
+\dt 13/Jun/2009
+
+\lx =nIr
+\a =nir
+\a =nịr
+\ps
+\ge indef
+\nt Indefinite particle; not clear yet
+what it does
+\dt 13/Jun/2009
+
+\lx -ńdʒE
+\a -ńdʒe
+\a -ńdʒa
+\a -ndʒa
+\ps
+\ge aug
+\dt 09/Jul/2007
+
+\lx -ŋkE
+\a -ŋke
+\a -ŋka
+\ps
+\ge nr
+\nt deverbal nominalizer [instrument
+for vrb-ing]
+\dt 13/Jun/2009
+
+\lx -ŋkE
+\a -ŋke
+\a -ŋka
+\ps
+\ge obligation
+\dt 03/Apr/2009
+
+\lx -nkEn
+\a -nken
+\a -nkan
+\ps
+\ge nr
+\nt denominal nominalizer [inhabitant
+of N]
+\dt 13/Jun/2009
+
+\lx -nmEj
+\a -nmej
+\a -nmeːj
+\a -nmaj
+\a -n
+\ps
+\ge anr
+\nt deverbal nominalizer [action
+nominal 'the reading'] - but this
+isn't quite true, because teget 'sit'
+and tegenmej 'bench'
+\dt 13/Jun/2009
+
+\lx -nnE
+\a -nne
+\a -nna
+\ps
+\ge nec.ptc
+\nt Necessitative participle, belongs to
+the modal participles; takes subject
+agreement suffixes and usually
+occurs without overt copula
+\dt 13/Jun/2009
+
+\lx -nrEg
+\a -nreg
+\a -nrag
+\ps
+\ge restr
+\nt This is called 'Restrictive' by
+Malchukov 1995; the example is
+'only this house'. not found in
+corpus
+\dt 21/Mar/2012
+
+\lx -nrI
+\a -nri
+\a -nrị
+\a -nni
+\a -nnị
+\a -ndị
+\a -ndi
+\ps
+\ge 2sg
+\nt Subject agreement marker for
+verbs, future and nonfuture
+indicative
+\dt 17/Feb/2010
+
+\lx -ŋsI
+\a -ŋsi
+\a -ŋsị
+\a -hiŋi
+\a -hịŋị
+\a -hiŋe
+\a -hŋi
+\a -hŋị
+\ps
+\ge impf.cvb
+\nt Simultaneous converb occurring in
+VS constructions; Malchukov calls
+it the 'past converb', but his
+example is 'when I studied I
+missed my home very much'.
+\dt 23/Mar/2013
+
+\lx -ntEkEn
+\a -nteken
+\a -ntakan
+\a -ntaka
+\a -nteke
+\ps
+\ge mult.cvb
+\nt this is a converb which is many
+respects synonymous with the
+Simultaneous converb -nIkEn, but
+which apparently has a meaning of
+durativity or multiplicity; found in
+Sebjan
+\dt 21/Mar/2013
+
+\lx -nUl
+\a -nul
+\a -nụl
+\ge pl
+\nt This plural marker seems to occur
+with kinship/friendship terms that
+are not possessed, i.e. when two
+people are friends or sisters, but
+not the speaker's, e.g. gianul =
+friends (with each other, but not
+with me), ekennul = sisters (but
+not mine or the adressees); got it
+in Sebjan
+\dt 14/Feb/2010
+
+\lx -ńUn
+\a -ńun
+\a -ńụn
+\a -nun
+\a -nụn
+\a -ńu
+\a -ńụ
+\a -nu
+\a -nụ
+\ps
+\ge com
+\dt 13/Jun/2009
+\nt The variant in -n'u occurs with the
+possessive reflexive marker, while
+the other variant occurs with all
+other stem forms. Comitative
+marks the dependent constituent in
+a complex subject NP.
+
+\lx =ńUn
+\a =nun
+\a =ńụn
+\a =ńun
+\ps
+\ge restr
+\nt This particle obviously has a
+restrictive meaning in Sebjan, that
+is very clear from all the (many)
+examples; however, it would seem
+to have an emphatic meaning in the
+east, because ZAS used it twice
+with an emphatic meaning, clearly
+not restrictive, and likewise EIA
+\dt 21/Feb/2010
+
+\lx -n(I)
+\a -n
+\a -ni
+\a -nị
+\a -li
+\ps
+\ge poss.3sg
+\dt 26/Mar/2013
+\nt The variant in -n is the default
+(after vowel and consonant stems);
+the variants in -ni occur after stems
+ending in 'primary n' and after
+plural stems. The possessive
+ending also functions as a
+SUBJECT AGREEMENT
+MARKERfor the hypothetical,
+admonitive and subjunctive
+moods, and the indicative past;
+only the allomorph -n, and also
+zero.
+
+\lx -n(I)
+\a -n
+\a -ni
+\a -nị
+\a -dni
+\a -dnị
+\a -tni
+\a -tnị
+\a -rị
+\ps
+\ge 3sg
+\nt Subject agreement marker for
+verbs, future and nonfuture
+indicative; this is actually identical
+to the possessive 3sg marker used
+in the hypothetical, admonitive and
+subjunctive moods and the
+indicative past; but since the future
+and nonfuture indicative take
+separate subject agreement
+markers for the other persons, I
+have decided to gloss this
+separately
+\dt 09/Feb/2010
+
+\lx -p
+\ps
+\ge 1pl.in
+\nt Subject agreement marker for
+verbs, future and nonfuture
+indicative;
+\dt 13/Jun/2009
+
+\lx -pčVn
+\a -pči
+\a -pčị
+\a -pčun
+\a -pčụn
+\ps
+\ge adjr
+\nt intensifying attributive proprietive
+[(the one) having many/much N]
+\dt 13/Jun/2009
+
+\lx =pUjE
+\a =puje
+\a =pụja
+\a =pụ
+\ps
+\ge contr
+\nt contrastive particle
+\dt 08/Jul/2009
+
+\lx -R
+\a -r
+\a -ra
+\a -re
+\a -s
+\a -sa
+\a -se
+\a -d
+\a -da
+\a -de
+\a -t
+\a -ta
+\a -te
+\a -n
+\a -na
+\a -ne
+\a -l
+\a -le
+\a -la
+\ps
+\ge neg.cvb
+\nt Conegative converb that occurs in
+periphrastic constructions with the
+negative auxiliary e-; can also have
+a zero allomorph
+\dt 13/Jun/2009
+
+\lx -r
+\ps
+\ge 3pl
+\nt Subject agreement marker for
+verbs, future and nonfuture
+indicative; There is a problem in
+the analysis for the nonfuture
+indicative: in the first conjugation
+(haa 'know') in the 2SG and 3SG
+the nonfuture marker is zero
+followed by the person suffix; the
+3PL is haa-r. It is not clear whether
+this -r is to be analyzed as the
+person agreement suffix (with zero
+nonfuture suffix) or as the short
+form of the nonfuture suffix with
+zero person agreement suffix. This
+latter variant is followed by the
+other conjugations: bi-se-nri
+'be.2sg', bi-s 'be.3pl', oo-da-nri
+'become.2sg', oo-d 'become.3pl'.
+SOLUTION: gloss unsegmented,
+e.g. haa-r 'know-nonfut.3pl', bi-s
+'be-nonfut.3pl'
+\dt 13/Jun/2009
+
+\lx =rEgdE
+\a =regde
+\a =ragda
+\ps
+\ge restr
+\nt Restrictive particle 'only'; not in
+corpus
+\dt 21/Mar/2012
+
+\lx -REk
+\a -rek
+\a -rak
+\a -rok
+\a -dek
+\a -dak
+\a -dọk
+\a -sek
+\a -sak
+\a -lek
+\a -lak
+\a -nek
+\a -nak
+\a -tek
+\a -tak
+\a -ek
+\a -ak
+\ps
+\ge cond.cvb
+\nt This is the VS equivalent of the
+conditional converb in -mI
+\dt 19/Mar/2013
+
+\lx -REk -E-n(I)
+\a -reken
+\a -rakan
+\ps
+\ge -cond.cvb -ep -poss.3sg
+\dt 02/Apr/2009
+
+\lx -REkEn
+\a -reken
+\a -rakan
+\a -lakan
+\a -dakaj
+\a -dakan
+\a -deken
+\a -rekej
+\a -nekej
+\ge iter.adv
+\nt The suffix-initial -r assimilates to
+the stemfinal consonant: -n+r- = r-;
+-t+r- = t-; -d+r- = d-; -s+r- = s-;
+This suffix makes 'iterative
+adverbs', i.e. 'number of times' -->
+ilan 'three', ilrakan 'three times'.
+\dt 24/Mar/2012
+
+\lx -rgE
+\ps
+\ge der
+\nt this is what Cincius calls the "vid
+obratnogo dejstvija", the examples
+she gives are burgedej 'otdatj' <
+budej 'datj', and emergedej 'prijti
+obratno, vernutsja' < emdej 'prijti
+\dt 04/Mar/2012
+
+\lx -RI
+\a -ri
+\a -rị
+\a -ti
+\a -tị
+\a -di
+\a -dị
+\a -si
+\a -sị
+\a -li
+\a -lị
+\a -ni
+\a -nị
+\a -i
+\a -ị
+\a -č
+\a -či
+\ps
+\ge pst
+\nt Supposedly only used in Eastern
+dialects (Western dialects express
+PAST periphrastically). The suffix
+in -ch and -chi occur with the
+negative auxiliary e-.
+\dt 13/Jun/2009
+
+\lx -RI
+\a -ri
+\a -rị
+\a -si
+\a -sị
+\a -di
+\a -dị
+\a -ni
+\a -nị
+\a -li
+\a -lị
+\a -ti
+\a -tị
+\a -i
+\a -ị
+\a -si
+\a -sị
+\ps
+\ge impf.ptc
+\nt polysemous: TELIC VERBS -->
+recent anteriority with regard to
+primary event; ATELIC VERBS
+--> simultaneity with primary event
+\dt 13/Jun/2009
+
+\lx -RI -n(I)
+\a -rin
+\a -rịn
+\a -din
+\a -dịn
+\a -lịn
+\ps
+\ge pst -poss.3sg
+\dt 17/Jul/2009
+
+\lx -RI -tEn
+\a -dịtan
+\a -diten
+\a -rịtan
+\a -riten
+\a -tịtan
+\a -titen
+\ps
+\ge pst -poss.3pl
+\dt 08/Jul/2009
+
+\lx -RI -tEn
+\a -ritne
+\ps
+\ge impf.ptc -poss.3pl
+\dt 14/Feb/2010
+
+\lx -RI -t(I)
+\a -tit
+\a -tịt
+\ps
+\ge pst -poss.1pl.in
+\dt 02/Apr/2009
+
+\lx -RI -W
+\a -liwu
+\a -lịwụ
+\a -rịwụ
+\a -riwu
+\a -diwu
+\a -dịwụ
+\a -nịwụ
+\a -tiwu
+\a -tịwụ
+\a -riw
+\ps
+\ge pst -poss.1sg
+\ge impf.ptc -acc
+\dt 24/Mar/2013
+
+\lx -RI -W -E -n(I)
+\a -tịwan
+\a -dịwan
+\a -diwen
+\a -niwen
+\ge ipf.ptc -acc -ep -poss.3sg
+\dt 02/Mar/2010
+
+\lx -RI -WUn
+\a -liwun
+\a -riwun
+\a -rịwụn
+\ps
+\ge pst -poss.1pl.ex
+\dt 09/Jul/2009
+
+\lx -RIdʒI
+\a -ridʒi
+\a -rịdʒị
+\a -nidʒi
+\a -nịdʒị
+\a -sidʒi
+\a -sịdʒị
+\a -lidʒi
+\a -lịdʒị
+\a -ridʒu
+\a -rịdʒụ
+\a -nidʒu
+\a -nịdʒụ
+\a -sidʒu
+\a -sịdʒụ
+\a -lidʒu
+\a -lịdʒụ
+\a -didʒi
+\a -dịdʒị
+\a -tidʒi
+\a -tịdʒị
+\a -didʒu
+\a -dịdʒụ
+\a -tidʒu
+\a -tịdʒụ
+\a -idʒi
+\a -ịdʒị
+\a -idʒu
+\a -ịdʒụ
+\ps
+\ge ant.cvb
+\nt The anterior converb; occurs in
+SS constructions, but agrees in
+number with the subject
+\dt 13/Jun/2009
+
+\lx -RIdʒI -L
+\a -ridʒur
+\a -rịdʒụr
+\a -nidʒur
+\a -nịdʒụr
+\a -didʒur
+\a -dịdʒụr
+\a -lidʒur
+\a -lịdʒụr
+\a -tịdʒụr
+\a -tidʒur
+\ps
+\ge ant.cvb -pl
+\dt 14/Feb/2010
+
+\lx -rmEn
+\a -rmen
+\a -rman
+\ps
+\ge der
+\nt derivative suffix e.g. ila-rman 'of
+three components (layers, rows,
+etc)'
+\dt 13/Jun/2009
+
+\lx -RUk
+\a -ruk
+\a -rụk
+\a -duk
+\a -dụk
+\a -tuk
+\a -tụk
+\ps
+\ge nr
+\nt denominal nominalizer [receptacle
+for N]
+\dt 13/Jun/2009
+
+\lx -R(E)
+\a -re
+\a -ra
+\a -rọ
+\a -r
+\a -te
+\a -ta
+\a -t
+\a -de
+\a -da
+\a -dọ
+\a -d
+\a -se
+\a -sa
+\a -ha
+\a -s
+\a -la
+\a -d
+\a -e
+\a -a
+\a -na
+\a -ne
+\ps
+\ge nonfut
+\nt TELIC --> PAST; ATELIC -->
+PRESENT This suffix varies
+according to conjugation type;
+most verbs take the -ra/-re suffix
+with the variants; but verbs with
+stems with primay -n take a vowel
+(e/a; in 1st and 2nd person) or
+zero (for 3rd person); some stative
+verbs (notably bi- 'be' and e- 'neg')
+take -se/-sa, and a few (e.g. o:
+'become') take -de/-da. The variant
+in -ne/-na occurs in the Bystrinskij
+dialect, since here -r assimilates to
+preceding -l and -n.
+\dt 01/Mar/2012
+
+\lx -r(E)
+\a -r
+\a -ra
+\a -re
+\ps
+\ge vr
+\nt derives verbs with a meaning of
+"using N", ispol'zovanie predmeta
+pri sovershenie dejstvija; however,
+in Sebjan (Tulaysnova127) I got
+the form nokarapchal 'objakutilisj',
+so that this verbalizer would seem
+to have a broader meaning (at least
+in this dialect) than just 'using N'
+\dt 27/Feb/2012
+
+\lx -R(E) -m
+\a -tem
+\a -tam
+\a -rem
+\a -ram
+\ps
+\ge nonfut -1sg
+\dt 05/Jul/2009
+
+\lx -R(E) -n(I)
+\a -ten
+\a -tan
+\a -den
+\a -dan
+\a -nen
+\ps
+\ge nonfut -3sg
+\dt 14/Jul/2009
+
+\lx -R(E) -p
+\a -rep
+\a -rap
+\a -nep
+\a -nap
+\ps
+\ge nonfut -1pl.in
+\dt 11/Jul/2009
+
+\lx -s
+\ps
+\ge 2pl
+\nt Subject agreement marker for
+verbs, future and nonfuture
+indicative; but in Sebjan, the
+Future takes Poss.2PL, not this
+suffix
+\dt 13/Jun/2009
+
+\lx -s
+\ps
+\ge nr
+\nt denominal nominalizer [fur/hide
+made of N e.g. wolf--> wolfskin']
+\dt 13/Jun/2009
+
+\lx -s
+\a -h
+\ps
+\ge mult
+\dt 27/Jun/2009
+
+\lx -s
+\ps
+\ge advr
+\dt 27/Feb/2012
+
+\lx -sčI
+\a -sči
+\a -sčị
+\a -ssị
+\a -ssi
+\ps
+\ge conat
+\nt Conative form 'try to do'; in
+Sebjan can be used to indicate that
+something unexpected followed
+e.g. ZAS_naled_55
+\dt 19/Mar/2010
+
+\lx -SEl
+\a -sel
+\a -sal
+\a -hel
+\a -hol
+\a -hal
+\a -tel
+\a -tal
+\a -nil
+\a -nịl
+\a -ŋil
+\a -rel
+\a -ńel
+\a -ńal
+\a -mul
+\ps
+\ge pl
+\dt 24/Mar/2013
+\nt This plural marker occurs with a
+restricted number of nouns, mainly
+with kinship terms. -rel is used
+with hute --> hurel 'children'
+
+\lx -sEn
+\a -sen
+\a -san
+\a -hnan
+\a -hnen
+\a -hne
+\a -hna
+\ps
+\ge poss.2pl
+\dt 13/Jun/2009
+\nt The morpheme is the same
+regardless of the stem type. The
+possessive ending also functions
+as a SUBJECT AGREEMENT
+MARKERfor the hypothetical,
+admonitive and subjunctive
+moods, and the indicative past; in
+the admonitive and subjunctive it
+appears that the plural marker is
+preposed --> -l-san/-l-sen;
+furthermore, in Sebjan the Future
+takes POSS.2PL endings, though
+all the other persons take verbal
+person endings
+
+\lx -sEn
+\a -sen
+\a -san
+\ps
+\ge pretense
+\nt This suffix seems to be similar in
+form and the same in function as
+the suffix I glossed 'pretense' in
+Sebjan (-EhmEn); in Kamchatka it
+appears to function in construction
+together with the Purposive
+converb of bi- (found in
+Amganova_EP_cannibals03)
+\dt 19/Jul/2009
+
+\lx =sI
+\a =si
+\a =sị
+\a =s
+\ps
+\ge emph
+\dt 14/Jul/2008
+
+\lx -skI
+\a -skị
+\a -ski
+\a -hkị
+\a -hki
+\a -pki
+\a -pkị
+\a -ụskị
+\a -ụhkị
+\ps
+\ge advb.all
+\nt This is the allative suffix restricted
+to spatial and temporal adverbs,
+e.g. amaski 'back', eweski 'to.here'
+\dt 21/Feb/2010
+
+\lx -ssO
+\a -sso
+\a -ssọ
+\ps
+\ge dur
+\nt This appears in some of the
+narratives in Sebjan, and it has a
+durative meaning, "prodolzhit'
+idti". Also with "kushat",
+djebessoro "oni prodolzhajut
+kushat"
+\dt 13/Jun/2009
+
+\lx -stE
+\a -ste
+\ps
+\ge attn
+\nt need to find out more about this,
+occurs in Solodikov_bearhunt_10
+\dt 08/Feb/2013
+
+\lx -sUkEn
+\a -suken
+\a -sụkan
+\a -huken
+\a -hukeːn
+\a -hụkan
+\ps
+\ge attn
+\nt Attenuative; used with adjectives
+to express a lesser degree of
+quality, e.g. 'reddish'. 
+\dt 29/Feb/2012
+
+\lx -s(E)n
+\a -sen
+\a -san
+\a -sn
+\a -s
+\a -hin
+\a -hịn
+\ps
+\ge lim
+\nt Malchukov calls this a
+'momentative' form. It normally
+denotes a limited duration of an
+action 'go for a while'; but with
+stative verbs and verbs of motion
+it can also have an inchoative
+meaning, e.g. 'go to sleep'.
+\dt 04/Mar/2012
+
+\lx -s(I)
+\a -s
+\a -si
+\a -sị
+\a -hni
+\a -hnị
+\ge poss.2sg
+\dt 13/Jun/2009
+\nt The variant in -s is the default
+(after vowel and consonant stems);
+the variants in -si occur after stems
+ending in 'primary n' and after
+plural stems. The possessive
+ending also functions as a
+SUBJECT AGREEMENT
+MARKERfor the hypothetical,
+admonitive and subjunctive
+moods, and the indicative past;
+only the allomorph -s.
+
+\lx -t
+\ps
+\ge vr
+\nt so far I only have this in depkit-
+'oppose people' (Tulasynova47)
+derived from depki 'opposite, in
+the opposite direction' 
+\dt 27/Feb/2012
+
+\lx -tE
+\a -te
+\a -ta
+\ps
+\ge vr
+\nt verbal proprietive denoting kinship
+[to have N as a kin]; not in corpora
+\dt 07/Sep/2013
+
+\lx -tE
+\a -ta
+\a -te
+\a -tur
+\a -tụr
+\ps
+\ge nr
+\nt derives nouns from verbs with a
+meaning of "having a habit of
+doing, having a predilection for"
+\dt 13/Jun/2009
+
+\lx -tE
+\a -te
+\ps
+\ge adjr
+\nt according to IVK, herkete =
+sklonnyj stesnjatsja, i.e as if this
+adjr derives forms with a meaning
+of "sklonnyj"
+\dt 26/Mar/2012
+
+\lx -tek
+\a -teke
+\ps
+\ge rec
+\nt reciprocal marker attached to the
+reflexive pronoun me:r and
+followed by the reflexive
+possessive [me:r-tek-mur]
+\dt 13/Jun/2009
+
+\lx =tekeːn
+\ps
+\ge dur
+\nt I am not sure about this, but in
+Amganov_ducks_26 there is a
+form awranteke:nnun, which RME
+translated as 'vytiral vytiral', and
+she said that =teke:n means 'dolgo'
+\dt 16/Jul/2009
+
+\lx -tEl
+\a -tel
+\a -tal
+\a -teːl
+\a -taːl
+\ps
+\ge distr
+\nt used with numerals
+\dt 01/Mar/2010
+
+\lx -tEn
+\a -ten
+\a -tan
+\a -tọn
+\a -tnen
+\a -tnan
+\a -dnan
+\a -dnen
+\a -dne
+\a -tne
+\a -tna
+\ps
+\ge poss.3pl
+\dt 25/Feb/2012
+\nt The morpheme is the same
+regardless of the stem type. The
+possessive ending also functions
+as a SUBJECT AGREEMENT
+MARKERfor the hypothetical,
+mood and the indicative past; in
+the admonitive and subjunctive
+moods it is zero, with just the
+plural suffix -l.
+
+\lx -tEn
+\a -ten
+\a -tan
+\a -taːn
+\a -teːn
+\a
+\ps
+\ge distr
+\nt This is the Distributive used with
+nouns, e.g. 'every house'. There is
+also a Distributive suffix in use
+with numerals, that is different
+(-tEl).
+\dt 29/Feb/2012
+
+\lx -tI
+\a -ti
+\a -tị
+\ps
+\ge vr
+\nt denominal verbalizer [consume N]
+\dt 16/May/2007
+
+\lx =tIt
+\a =tịt
+\a =tit
+\a =titte
+\a =tịtta
+\ps
+\ge ptl
+\dt 13/Jun/2009
+
+\lx -tlE
+\a -tle
+\a -tla
+\ps
+\ge nr
+\nt deverbal nominalizer [distant
+resultative] (as opposed to recent
+resultative -mEt, e.g. 'what was
+eaten, the left-overs of food')
+\dt 13/Jun/2009
+
+\lx -tlE
+\a -tle
+\ps
+\ge pst.ptc
+\dt 07/Jul/2007
+
+\lx =tU
+\a =tu
+\a =tụ
+\a =ttu
+\a =ttụ
+\ps
+\ge =pres
+\nt I'm calling this the Presumptive
+particle, because it attaches to
+verbs after the person marking,
+and gives a meaning of
+"probably"; it has 2 t after vowels
+\dt 07/Mar/2012
+
+\lx -t(E)
+\a -te
+\a -t
+\ps
+\ge fut
+\nt Future marker restricted to the
+NEGATIVE AUX e-
+\dt 13/Jun/2009
+
+\lx =t(E)
+\ps
+\a =t
+\a =te
+\a =ta
+\ge utočnit
+\dt 04/Jul/2007
+
+\lx =t(E)kEn
+\a =teken
+\a =takan
+\a =tken
+\a =tkan
+\a =neken
+\ps
+\ge restr
+\nt Restrictive particle 'only'
+\dt 19/Feb/2008
+
+\lx -t(E)kI
+\a -tki
+\a -tkị
+\a -teki
+\a -takị
+\a -tịkị
+\a -tiki
+\a -kki
+\a -kkị
+\ps
+\ge all
+\nt The long variant occurs with
+'primary n' and plural. Allative
+denotes movement towards a
+place, spatially and temporally;
+verbs of perception assign Allative
+to object of perception, verbs of
+speech assign Allative to
+addressee.
+\dt 19/Mar/2010
+
+\lx -t(I)
+\a -t
+\a -ti
+\a -tị
+\a -ket
+\ps
+\ge poss.1pl.in
+\dt 13/Jun/2009
+\nt The variant in -t is the default (after
+vowel and consonant stems); the
+variants in -ti occur after stems
+ending in 'primary n' and after
+plural stems. The possessive
+ending also functions as a
+SUBJECT AGREEMENT
+MARKERfor the hypothetical,
+admonitive and subjunctive
+moods, and the indicative past; in
+the hypothetical mood and the
+indicative past it is the suffix -t; in
+the admonitive and subjunctive it
+appears to consist of the plural
+suffix plus -ti --> -l-ti
+
+\lx -U
+\a -u
+\a -ụ
+\a -w
+\ps
+\ge caus
+\nt Mostly, this appears to have a
+transitivizing and even causative
+meaning; however, the verb ichu-
+'be visible' would appear to be
+derived from it- 'see' with the help
+of this suffix, and in this case the
+suffix would have the opposite
+function, detransitivizing the verb
+\dt 24/Mar/2012
+
+\lx -W
+\a -w
+\a -u
+\a -ụ
+\a -wụ
+\a -wu
+\a -mu
+\a -mụ
+\a -bu
+\a -bụ
+\a -ku
+\a -kụ
+\a -kun
+\a -kụn
+\ps
+\ge poss.1sg
+\dt 13/Jun/2009
+\nt The variant in -w/-u is the default
+(after final vowel/consonant); the
+variant in -mu occurs after stems
+ending in the 'primary n'; the
+variant in -bu occurs after plural
+stems.  The variant in -ku occurs
+only after DESIGNATIVE. The
+possessive ending also functions
+as a SUBJECT AGREEMENT
+MARKERfor the hypothetical,
+admonitive and subjunctive
+moods, and the indicative past;
+only the allomorphs in -w and -u.
+
+\lx -W
+\a -w
+\a -m
+\a -bu
+\a -bụ
+\a -be
+\a -ba
+\a -bo
+\a -ịb
+\a -ụ
+\a -u
+\ps
+\ge acc
+\nt The variant in -w occurs after
+vowel/consonant stems; the variant
+in -m occurs after 'primary n'; the
+variant in -bu occurs with plural
+stems. Accusative primarily marks
+direct object; but with noun with
+temporal reference it can denote a
+period of duration. DIRECT
+OBJECTS can also be marked by
+the Nominative with reflexive
+possessive suffixes or by the
+Designative. 
+\dt 17/Mar/2013
+
+\lx -W
+\a -w
+\a -m
+\a -u
+\a -ụ
+\ps
+\ge advrs
+\nt The adversative-passive, which
+derives an action which negatively
+affects the surface subject (in his
+example 17 on p.14, the sentence
+has a possessive NP as subject;
+Malchukov translates it as active
+rather than passive (though the
+morphology indicates a passive)
+and 'explains' that the possessor
+noun is adversely affected, rather
+than the possessee.....)
+\dt 13/Jun/2009
+
+\lx -WEːČ
+\a -weːt
+\a -weːč
+\a -weč
+\a -waːt
+\a -wat
+\a -waːč
+\a -wọːt
+\a -woːt
+\a -roːt
+\a -rọːt
+\a -roːč
+\a -rọːč
+\a -kọːt
+\a -koːt
+\a -moːt
+\a -mọːt
+\a -loːt
+\a -lọːt
+\a -lọːč
+\a -loːč
+\a -čoːt
+\a -čọːt
+\a -dʒọːt
+\a -dʒoːt
+\a -jọːt
+\a -joːt
+\a -nọːt
+\a -ńoːt
+\a -ńọːt
+\a -noːt
+\a -neːt
+\a -ŋoːt
+\a -ŋọːt
+\a -doːt
+\a -wet
+\a -boːt
+\a -goːt
+\a -goːč
+\a -bat
+\a -bet
+\a -bač
+\a -bak
+\a -bok
+\a -bed
+\a -we
+\ge gnr
+\nt Generic meaning mostly, also
+habitual and occasionally iterative.
+\dt 19/Mar/2013
+
+\lx -WkEn
+\a -wken
+\a -wkan
+\a -uken
+\a -ụkan
+\a -mken
+\a -mkan
+\a -pken
+\a -ken
+\a -uka
+\ps
+\ge caus
+\nt In the Causative derived from
+intransitives, the causee appears as
+the direct object; in Causatives
+derived from transitives, the
+causee appears as direct object (=
+factitive meaning, 'make do') or as
+indirect (dative) object (= factitive
+or permissive 'let do' meaning).
+\dt 18/Feb/2012
+
+\lx -WUn
+\a -wun
+\a -wụn
+\a -un
+\a -ụn
+\a -mun
+\a -mụn
+\a -bun
+\a -bụn
+\a -kụn
+\a -kun
+\a -wụt
+\ps
+\ge poss.1pl.ex
+\dt 08/Jul/2009
+\nt The variant in -wun/-un is the
+default (after final
+vowel/consonant); the variant in
+-mun occurs after stems ending in
+the 'primary n'; the variant in -bun
+occurs after plural stems. The
+possessive ending also functions
+as a SUBJECT AGREEMENT
+MARKERfor the hypothetical,
+admonitive and subjunctive
+moods, and the indicative past; in
+the hypothetical mood and the
+indicative past it is the allomorphs
+-wun/-un; in the preventive and
+subjunctive moods it appears to
+consist of the plural marker -l plus
+the allomorph -bun --> -l-bun.
+
+\lx -WUr
+\a -wur
+\a -wụr
+\a -ur
+\a -ụr
+\a -ụːr
+\a -mur
+\a -mụr
+\a -bur
+\a -bụr
+\a -uːr
+\ps
+\ge prfl.pl
+\dt 27/Feb/2010
+\nt The variant in -wur/-ur is the
+default (after final
+vowel/consonant); the variant in
+-mur occurs after stems ending in
+the 'primary n'; the variant in -bur
+occurs after plural stems.
+
+\lx -(dU)LE
+\a -la
+\a -le
+\a -ne
+\a -na
+\a -re
+\a -ra
+\a -dule
+\a -dụla
+\a -tule
+\a -tụla
+\a -nụla
+\a -lọ
+\ps
+\ge loc
+\nt The long variant occurs after
+'primary n' and plural. The
+Locative is a general marker of
+stative location, both spatial and
+temporal. With telic motion verbs
+it can also have allative meaning;
+with added meaning that goal will
+be reached in the course of
+movement. 
+\dt 20/Mar/2012
+
+\lx -(dU)LE -n(I)
+\a -lan
+\a -len
+\ps
+\ge loc -poss.3sg
+\dt 31/Mar/2009
+
+\lx -(dU)LE -t(I)
+\a -let
+\a -lat
+\ps
+\ge loc -poss.1pl.in
+\dt 31/Mar/2009
+
+\lx -(dU)LI
+\a -li
+\a -lị
+\a -ni
+\a -nị
+\a -duli
+\a -dụlị
+\ps
+\ge prol
+\nt The long variant occurs after
+'primary n' and plural. Prolative
+marks movement within, along, the
+route of motion; also indicates a
+period of time needed for a telic
+process/event to reach its inherent
+limit.
+\dt 13/Jun/2009
+
+\lx -(E)hEgEr
+\a -eheger
+\ps
+\ge as.if.about.to.do
+\nt no idea how to give this a good
+fancy gloss - it's a suffix that
+turned up in
+Kejmetinova_headmistress_46,
+where she says muhomeheger
+o:chalatnan "as if about to smile,
+kak by sobirajushijsja ulybatsja",
+and I was able to construct (and
+get affirmative judgements) for
+hongahagar o:dni 'as if about to
+cry', ha:machahagar o:ram 'as if
+about to laugh', go:heger o:nni 'as
+if about to speak' - occurs with o:-
+'become'
+\dt 08/Mar/2012
+
+\lx -(E)ldE
+\a -lde
+\a -lda
+\a -elde
+\a -alda
+\ps
+\ge soc
+\nt This is a 'cooperative-reciprocal'
+as in Sakha, labelled by
+Malchukov as 'sociative'; it has a
+sociative (cooperative) meaning
+'do together', but with a restricted
+number of verbs it has a reciprocal
+meaning, e.g. hor 'go' horelde 'go
+together'; bak 'find' bakalda 'meet
+(each other)'.
+\dt 13/Jun/2009
+
+\lx -(E)pkI
+\a -apkị
+\a -epki
+\a -pki
+\ps
+\ge advr
+\dt 26/Mar/2012
+
+\lx -(E)rEp
+\a -erip
+\a -eːrep
+\a -erep
+\a -arap
+\a -rap
+\a -rep
+\a -rọp
+\a -ep
+\a
+\ps
+\ge adjr
+\dt 18/Feb/2012
+
+\lx -(g)Ew
+\a -gaw
+\a -gag
+\a -aw
+\ps
+\ge adjr
+\nt We find this in amargaw 'last',
+chaagaw 'further', and no:gaw
+'leading', all derived from verbs
+\dt 23/Mar/2013
+
+\lx -(G)I
+\a -gi
+\a -γi
+\a -ŋi
+\a -ki
+\a -i
+\a -gị
+\a -γị
+\a -ŋị
+\a -kị
+\a -ị
+\ps
+\ge ord
+\nt Ordinals are formed with this
+suffix followed by a possessive
+ending, e.g. djoor-i-ten 'the second
+(of them)'.
+\dt 13/Jun/2009
+
+\lx -(h)E
+\a -a
+\a -e
+\a -ha
+\a -hị
+\a -ja
+\a -je
+\a -ńe
+\a -ńa
+\a -kja
+\a -kje
+\ps
+\ge excl
+\nt according to IVK -(h)E is a
+participle, which is used only with
+stative verbs and desiderative
+verbs, derives exclamations - so I
+don't see why she wants to call it a
+participle, it cannot be used to
+modify nouns; the vowel can also
+be a high vowel; a very closely
+related form (which I'm glossing
+like this, though maybe
+erroneously)
+\dt 27/Mar/2012
+
+\lx -(I)ŋA
+\a -iŋe
+\a -ịŋa
+\a -ŋa
+\ps
+\ge voc
+\dt 05/Feb/2013
+
+\lx -(I)nUk
+\a -inuk
+\a -ịnụk
+\a -nuk
+\a -nụk
+\a -nek
+\ps
+\ge advb.abl
+\dt 19/Feb/2012
+
+\lx -(I)w
+\ps
+\ge vr
+\nt this appears to be a suffix that
+derives verbs from adverbs (cf.
+gr.comment in
+Kirillina_2skazki_39)
+\dt 04/Mar/2012
+
+\lx -(k)čI
+\a -čị
+\a -či
+\a -ŋčị
+\a -ŋči
+\a -kči
+\ge dur
+\nt after elicitation with IVK (see
+toolbox file "durative_suffix_cI) I
+have come to the conclusion that
+this suffix deserves to be
+separated, since there are several
+pairs of verbs where one that has a
+durative/imperfective meaning is
+derived from the other with a more
+semelfactive/perfective meaning
+with such a suffix
+\dt 21/Mar/2012
+
+\lx -(LI)lrE
+\a -lilre
+\a -lịlra
+\a -nilre
+\a -nịlra
+\a -lre
+\a -lra
+\a -lle
+\a -lla
+\a -lille
+\a -dʒille
+\a -dʒilde
+\a -lda
+\a -lde
+\a -ldọ
+\ps
+\ge imp.2pl
+\dt 22/Dec/2012
+
+\lx -(nE)dʒ
+\a -dʒ
+\a -nadʒ
+\a -nedʒ
+\ps
+\ge -nr
+\nt derives agent nominals, "lico
+sovershajushee dejstvie"
+\dt 13/Jun/2009
+
+\lx -(R)U
+\a -u
+\a -ụ
+\a -ru
+\a -rụ
+\a -tu
+\a -tụ
+\a -du
+\a -dụ
+\a -su
+\a -sụ
+\a -nu
+\a -nụ
+\ps
+\ge 1pl.ex
+\nt Subject agreement marker for
+verbs, future and nonfuture
+indicative;
+\dt 13/Jun/2009
+
+\lx =(W)Ul
+\a =wul
+\a =gul
+\a =gụl
+\a =gol
+\a =gọl
+\a =γul
+\a =ul
+\a =wụl
+\a =gụl
+\a =γụl
+\a =ụl
+\a =wụlụt
+\a =kol
+\a =kul
+\a =kọl
+\ps
+\ge indef
+\nt Particle deriving indefinite
+pronouns for non-referential NPs,
+e.g. ngii=wul 'anybody')
+\dt 03/Apr/2010
+
+\lx =(W)UttE
+\a =wutte
+\a =gutte
+\a =γutte
+\a =utte
+\a =wụtta
+\a =gụtta
+\a =γụtta
+\a =ụtta
+\a =wụt
+\a =wut
+\a =wụč
+\a =ụč
+\ps morph
+\ge indef
+\nt Particle deriving indefinite
+pronouns for referential NPs (e.g.
+ngii=wutte 'somebody').
+\dt 11/Jul/2009

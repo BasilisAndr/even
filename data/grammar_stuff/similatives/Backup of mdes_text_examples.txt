@@ -1,0 +1,951 @@
+\_sh v3.0  400  Text
+
+\id Alekseeva_RD_chuchuna_family_017
+\ref pred
+\tx Tarakam       dụrbańamdas       bihin             ulden,         baγar
+\mb tarakam       dụrban -ńE  -mdEs bi -RI  -n(I)     ulre -n(I)     baγar
+\ge in.those.days be.white -adjr -sml  be -pst -poss.3sg meat -poss.3sg perhaps.Y
+
+\tx hutende                 ulden          bičeːdʒin.
+\mb hut   -E-n(I)      =DE  ulre -n(I)     bi -čE    -DʒI -n(I)
+\ge child -ep-poss.3sg =ptl meat -poss.3sg be -pf.ptc -fut  -3sg
+
+\ft That time the meat was white, maybe it was  its child.
+\ph bičeːdʒin
+\gr
+\nt
+\qu
+\ru Тогда мясо было как будто белое, может быть, это было мясо его детеныша.
+\ELANBegin 00:01:40.780
+\ELANEnd 00:01:46.700
+\ELANParticipant
+
+\id Alekseeva_RD_lost_tapes_znatoki_017
+\ref pred
+\tx Omekken molodež       biheken,                   irelu
+\mb omekken molodež       bi -REk -E-n(I)            ireli
+\ge alone   young.people.R be -cond.cvb -ep -poss.3sg summer
+
+\tx biwettiken,         ee, ịakkụl   ịa... eti
+\mb bi -WEːČ -nIkEn   ee  ịak =(W)Ul ịa    e   -RI
+\ge be -gnr    -sim.cvb eh  what  =indef do.what neg -impf.ptc
+
+\tx etimdes             ịhra.
+\mb e   -RI       -mdEs ịs  -R
+\ge neg -impf.ptc -sml  reach -neg.cvb
+
+\ft If it is just young people, going in the summer, it is like something is
+missing.
+\ph
+\gr eti etimdes ịhra is a normal way of saying "something is missing, čego-to
+ne xvataet" in Even (I had thought whether it might be a calque from
+Russian)
+\nt irulu should be probably iruldu (summer).
+\ru Если бывает одна молодежь, летом если они ездят, как будто чего-то
+не хватает.
+\ELANBegin 00:01:33.510
+\ELANEnd 00:01:42.830
+\ELANParticipant
+
+\id Alekseeva_RD_lost_tapes_znatoki_018
+\ref (pred)
+\tx Haːwdị upe         biheke,                    haːwdị
+\mb hagdị   upeː       bi -REk -E-n(I)            hagdị
+\ge old       grandmother be -cond.cvb -ep -poss.3sg old
+
+\tx etiken   ihin  bihiken                    tarak ọːn...
+\mb etikeːn ihin  bi -REk -E-n(I)            tarak ọːn
+\ge old.man  for.Y be -cond.cvb -ep -poss.3sg dist  how
+
+\tx bïlïrgï... dʒulep       ịamdas...
+\mb bïlïrgï    dʒul -(E)rEp ịak -mdEs
+\ge previous.Y    front -adjr   what  -sml
+
+\ru Если бывает старая бабушка, старый старик, это как будто прежнее...
+\ELANBegin 00:01:42.830
+\ELANEnd 00:01:52.130
+\ELANParticipant
+
+\id Alekseeva_RD_lost_tapes_znatoki_073
+\ref comparison of action
+\tx Tadụk       emčemdes,         tara.
+\mb tarak -DUk(U) em   -čE    -mdEs tarak
+\ge dist  -abl    come -pf.ptc -sml  dist
+\ft He seems to have come from there.
+\ru Отсюда, кажется, приехал.
+\ELANBegin 00:06:21.710
+\ELANEnd 00:06:24.010
+\ELANParticipant
+
+\id Alekseeva_RD_old_remains_traditions_006
+\ref mod
+\tx Tarak ịak bihin             ečimur:   akatan
+\mb tarak ịak bi -RI  -n(I)     erroːčin akata -n(I)
+\ge dist  what  be -pst -poss.3sg prox.qual  bow   -poss.3sg
+
+\tx bihin,            sabljamdas    ịakkụl   bihin,
+\mb bi -RI  -n(I)     sablja  -mdEs ịak =(W)Ul bi -RI  -n(I)
+\ge be -pst -poss.3sg sabre.R -sml  what  =indef be -pst -poss.3sg
+
+\tx butinniː    er   ịalkan    igin.
+\mb bütünnüː erek ịak -lkEn iŋin
+\ge entirely.Y   prox what  -prop etc.Y
+
+\ft There are a bow there, something like a sabre, and all things with
+something..
+\ph
+\gr
+\nt The translator Ija Krivoshapkina guessed that akata is a Sakha word, but
+we cannot find it in the Sakha dictionary. Probably it's a local Sebjan
+word.
+\ru Там такой был его лук, что-то похожее на саблю, все с чем-то там.
+\ELANBegin 00:00:39.650
+\ELANEnd 00:00:50.670
+\ELANParticipant
+
+\id Alekseeva_RD_stuck_in_stado_018
+\ref unclear
+\tx Adụkụn brọdụkta bihiwen,                       taraw      maːjụtnịkan,           heriː haγana... ịadụn            ịamdas,
+\mb adụkụn produkty     bi -RI -W -E-n(I)              tarak -W   maːjụt          -nIkEn   seriː saγana    ịak -DU  -n(I)     ịak -mdEs
+\ge little     food.R       be -impf.ptc -acc -ep-poss.3sg dist  -acc not.want.to.use.up -sim.cvb war.Y  time.loc.Y what  -dat -poss.3sg what  -sml
+
+\tx ometeldʒi               kolle  ometeldʒi               haːkarụ   boːniken.
+\mb omen -tEl   -DʒI        kotlen omen -tEl   -DʒI        saxar   -W   boː -nIkEn
+\ge one  -distr -ins.prfl.sg small  one  -distr -ins.prfl.sg sugar.R -acc give -sim.cvb
+\ft The little bit of food that there was I stretched, like during the war, giving just a little bit of sugar, one by one.
+\ph
+\ru Из маленького количества продуктов, это жалея, как во время войны, по одному по-маленьку сахар давая.
+\ELANBegin 00:01:44.351
+\ELANEnd 00:01:53.087
+\ELANParticipant
+
+\id Alekseeva_RD_stuck_in_stado_044
+\ref mod
+\tx Tar   heredniken            ilu... irtekigol            ịakkụl   börtölöt  ịam... iːgemdehen              iːj...
+\mb tarak hor -E-D     -nIkEn   ...    irek  -t(E)kI =(W)Ul ịak =(W)Ul vertolet              iːge -mdEs -E-n(I)      i...
+\ge dist  go  -ep-prog -sim.cvb ...    which -all    =indef what  =indef helicopter.R          sound -sml  -ep-poss.3sg ...
+
+\tx ịa... ihnen.
+\mb ịak   i          -s(E)n -R(E) -n(I)
+\ge what    be.audible -lim   -nonfut -3sg
+
+\ft As we were riding there, somewhere the noise of a helicopter was heard.
+\ph
+\gr (07_quest_2010, 1:05:20) The standard form of the verb 'be audible' given in Robbek's and Cincius' dictionaries is idej, which belongs to
+the same declination class as e- and bi- (3sg nfut = ihni); in Sebjan, however, this exists only with the limitative suffix; ihni = slyšimyj, i.e.
+the impf.ptc; mne slyšitsja = mindu ihnen; slyšilsja = ihnin; budet slyšnym = ihendʒin
+\ru Так едя где-то слышен звук вертолета.
+\ELANBegin 00:03:45.095
+\ELANEnd 00:03:53.337
+\ELANParticipant
+
+\id AXK_Sebjan_history_1_086
+\ref comparison of action
+\tx Tiːk durče       uručun,  tarak dʒụː, ere, erek dur... durčemdes         bihin.
+\mb tiek  dur  -čE    ureːčin tarak dʒụː  erek erek dur    dur  -čE    -mdEs bi -RI -n(I)
+\ge now   burn -pf.ptc it.seems  dist  house     prox prox burn   burn -pf.ptc -sml  be -pst -poss.3sg
+
+\ft Now that has burnt, it seems, that house, this... as if it burnt.
+\ph says irek instead of erek
+\ru Сейчас сгорел кажется, этот домик, будто сгорел.
+\ELANBegin 00:12:01.260
+\ELANEnd 00:12:07.680
+\ELANParticipant
+
+\id AXK_Sebjan_history_1_117
+\ref pred
+\tx Tiːkerep    maladjọhamdahal            este        bihe.
+\mb tiek -(E)rEp molodёž' -E  -mdEs -E  -L  e   -R(E)   bi -R
+\ge now  -adjr   youth.R    -ep -sml  -ep -pl neg -nonfut be -neg.cvb
+\ft They weren't like today's young people.
+\ru Не были такими как сегодняшняя молодежь.
+\ELANBegin 00:15:35.060
+\ELANEnd 00:15:37.520
+\ELANParticipant
+
+\id beseda_0225
+\ref comparison of action
+\tx (laughter) Ečin      ọttọn obyčnaj ọstalla       tegečeddimdes...
+\mb laughter   erroːčin ọttọn obyčnaj stol    -(dU)LE teg      -E-Č   -E-D     -RI       -mdEs
+\ge laughter   prox.qual  dp.Y      ususal.R table.R -loc    sit.down -ep-res -ep-prog -impf.ptc -sml
+\ft Sitting, like at the usual table...
+\ru  Kак будто так за обычным столом сидящие...
+\ELANBegin 00:06:08.946
+\ELANEnd 00:06:12.786
+\ELANParticipant RDA
+
+\id beseda_0404
+\ref comparison of action
+\tx Ịakkọl   kovš    dọːlan             dessiddimdes.
+\mb ịak =(W)Ul kovš    dọː -(dU)LE -n(I)  desči -D    -RI       -mdEs
+\ge what  =indef dipper.R inside -loc -poss.3sg lie    -prog -impf.ptc -sml
+
+\ft As  if we are lying inside a dipper. 
+\ph
+\gr
+\ru Что-то как-будто лежим внутри ковша.
+\ELANBegin 00:11:58.368
+\ELANEnd 00:11:59.898
+\ELANParticipant RDA
+
+\id beseda_0406
+\ref comparison of action
+\tx Aːlịk nọːnan dessiddimdes.
+\mb alịːk nọːnan desči -D    -RI       -mdEs
+\ge dish     ***       lie    -prog -impf.ptc -sml
+
+\ft As if  we were lying inside a dish.
+\ph
+\gr
+\nt nọːnan : the translator assumes, that the form dọːlan (posposition 'inside') would fit logically, but the speaker pronounces really nọːnan.
+\ru Как будто внутри посуды лежащие.
+\ELANBegin 00:12:01.284
+\ELANEnd 00:12:02.622
+\ELANParticipant RDA
+
+\id beseda_0424
+\ref pred
+\tx Dʒoːr ọːmị        ịbga   biwren,         irew       taraw      ulgimimi,             omekken ịamdas    biwren
+\mb dʒoːr ọː  -mI       ịbgọ bi -Gr(E) -n(I) irek  -W   tarak -W   ulgim -I    -mI       omekken ịak -mdEs bi -Gr(E) -n(I)
+\ge two     become -cond.cvb good     be -hab   -3sg  which -acc dist  -acc ask   -ipf? -cond.cvb alone   what  -sml  be -hab   -3sg
+
+\tx aŋatkamdas    biwren.
+\mb aŋatkan -mdEs bi -Gr(E) -n(I)
+\ge orphan   -sml  be -hab   -3sg
+
+\ft It is good together, when you are alone, you are like an orphan.
+\ru Вдвоем бывает хорошо, если всякое, одному как сирота , одиноко бывает.
+\ELANBegin 00:12:31.824
+\ELANEnd 00:12:36.966
+\ELANParticipant NPZ
+
+\id beseda_0611
+\ref adjunct
+\tx Nogavitsyn Edikčen   amamdahịj               ọrọbụna heːdʒengeren
+\mb Nogovitsyn Edik -čEn aman   -mdEs -E  -J       rovno                        heːdʒen -Gr(E) -E-n(I)
+\ge Nogovitsyn Edik -dim  father -sml  -ep -prfl.sg exactly.R                    dance     -hab   -ep-3sg
+
+\ft Little Edik Nogovitsyn dances exactly like his father (very well).
+\ru Ноговицын Эдик как его отец танцует
+\ELANBegin 00:17:43.865
+\ELANEnd 00:17:47.000
+\ELANParticipant NPZ
+
+\id beseda_1034
+\ref pred
+\tx Taraŋan                pọmpịtịkie,   ịamdaskol
+\mb tarak -ŋ  -E-n(I)      pọmpịtị =kE   ịak -mdEs =(W)Ul
+\ge dist  -aln -ep-poss.3sg short         =emph what  -sml  =indef
+\ft that of hers is short, like something
+\ru это у нее коротенький как что-то
+\ELANBegin 00:30:00.100
+\ELANEnd 00:30:02.590
+\ELANParticipant RDA
+
+\id beseda_1476
+\ref pred
+\tx ịamdaskụ    dʒi?
+\mb ịak -mdEs =GU diː
+\ge what  -sml  =q  ptl.Y
+\ft like something, hey?
+\ph
+\nt the point is that they arrived there with LNZ all dressed up, and this kind of conversation sounds like the beginning of a match-making session, as if
+they have come to arrange a match between LNZ and Pogo Kesha, and that is probably why he got a fright - and why all the women are laughing
+listening to the story
+\ru как что-то
+\ELANBegin 00:44:30.235
+\ELANEnd 00:44:31.160
+\ELANParticipant NPZ
+
+\id beseda_1586
+\ref pred
+\tx Taraw      ọrọl              ispiskemdes,  doː, karandaːhamdas     gọlọl        ehni.
+\mb tarak -W   ọrọn          -L  spička -mdEs duo   karandaš -E  -mdEs gọl    -E  -L  e -R(E) -n(I)
+\ge dist  -acc domestic.reindeer -pl match.R -sml  q.Y   pencil.R  -ep -sml  firewood -ep -pl neg -nfut -3sg
+\ft like matches, like pencils the trees/wood, hey?
+\ph
+\nt probably wanted to say olox, and not orol; and I had thought that wood/trees like matches and pencils would be bad, that they would be small and
+thin and scraggy - but it is meant as praise here, that the trees are straight
+\ru как спички, как карандаши там деревья
+\ELANBegin 00:48:21.732
+\ELANEnd 00:48:24.984
+\ELANParticipant RDA
+
+\id beseda_1723
+\ref unclear
+\tx Zọlụškamdas
+\mb Zoluška     -mdEs
+\ge Cinderella.R -sml
+\ft like Cinderella
+\ru как Золушка
+\ELANBegin 00:52:30.260
+\ELANEnd 00:52:31.535
+\ELANParticipant LNZ
+
+\id beseda_1724
+\ref unclear
+\tx Zọlụškamdas.  Ńan   Ksjušaduk      ịahụŋannị       goːnenni
+\mb Zoluška     -mdEs ńaːn Ksjuša -DUk(U) ịahụ -ŋE     -nrI goːn -R(E)   -nrI
+\ge Cinderella.R -sml  and    Ksjusha -abl    lend     -pol.imp -2sg say   -nonfut -2sg
+
+\ft like Cinderella. you said you will borrow from Ksjusha
+\ph
+\gr 280312: ịahụŋannị = as if direct speech, lend me; the polite imperative of ịahụ would be ịahụŋŋannị
+\ru ты одолжи у Ксюши ты сказала
+\ELANBegin 00:52:31.535
+\ELANEnd 00:52:34.065
+\ELANParticipant IAS
+
+\id Kejmetinova_TV_family_050
+\ref pred
+\tx Ịnŋatan            honte porodamdas,   otton bastakï,  nọnap    ịak
+\mb ịnŋat -E-n(I)      honte poroda  -mdEs otton bastakï   nọnap    ịak
+\ge fur      -ep-poss.3sg other breed.R -sml  dp.Y  at.first.Y the.first. what
+
+\tx bihin,            kotenokat                 [stammers] tarak emie   kotlen ịnŋatalkan
+\mb bi -RI  -n(I)     kotenok  -E-t(I)                     tarak emie   kotlen ịnŋat -E  -lkEn
+\ge be -pst -poss.3sg kitten.R -ep-poss.1pl.in             dist  also.Y small  fur      -ep -prop
+
+\tx bihin,            ereŋet                   emie   kollen ịnŋatalkan.
+\mb bi -RI  -n(I)     erek -ŋ  -E-t(I)         emie   kotlen ịnŋat -E  -lkEn
+\ge be -pst -poss.3sg prox -aln -ep-poss.1pl.in also.Y small  fur      -ep -prop
+
+\ft His fur is like a different breed, but our first was what, out kitten, that one also had short fur,
+this one of ours also has short fur.
+\ru Его шерсть как другая порода, а первый был, наш котенок, тот тоже был с короткой
+шерстью, этот наш тоже с короткой шерстью.
+\ph
+\gr
+\nt
+\qu
+
+\id Kirillina_KK_dve_skazki_032
+\ref comparison of action
+\tx Ọːngol     ilegol               iččemdes        biče,     tar   ahịkkan.
+\mb ọːn =(W)Ul irek  -(dU)LE =(W)Ul it  -čE    -mdEs bi -čE    tarak asị -kkEn
+\ge how    =indef which -loc    =indef see -pf.ptc -sml  be -pf.ptc dist  woman -dim
+
+\ft He appeared to have seen her (before) somehow, somewhere, that girl.
+\ph
+\gr should have said ahịkkam, because it should be accusative case, since it's the direct object of iččemdes
+\ru Как-то где-то как будто он видел ее, эта девушка.
+\ELANBegin 00:02:44.830
+\ELANEnd 00:02:48.930
+\ELANParticipant
+
+\id Klim_Nikolaevich_eksponat_178
+\ref unclear (mod?)
+\tx Er   himbiːr       ere  ịtịkịmdahal        erel     bikette          ere, emie   ere...
+\mb erek himbiːr       erek ịtịkị -mdEs -E-L   erek -L  bi -kEČ -R(E)   erek emie   erek
+\ge prox all.the.same.Y prox mixer       -sml  -ep-pl prox -pl be -mult -nonfut prox also.Y prox
+
+\ft These are similar to itiki (the mixer for whipping cream).
+\ru Это похожие на итики предметы есть.
+\ph
+\ELANBegin 00:19:11.090
+\ELANEnd 00:19:14.390
+\ELANParticipant
+
+\id Krivoshapkina_AX_svatovstvo_091
+\ref mod
+\tx Ahịkkam        ịaw      tetuwrečel                     ačịkịmdas  ịawa         otwerstiew     eli
+\mb asị -kkEn -W   ịak -W   tet    -U    -Gr(E) -čE -L     očki     -mdEs ịak -W   -E  otverstie -W   erek -(dU)LI
+\ge woman -dim  -acc what  -acc put.on -caus -hab   -pf.ptc -pl glasses.R -sml  what  -acc -ep hole.R    -acc prox -prol
+
+\tx ịalkakkam,           ečiken         tetuwrečel.
+\mb ịak -lkEn -kkEn -W   erroːčin -KEn tet    -U    -Gr(E) -čE -L
+\ge what  -prop -dim  -acc prox.qual  -dim put.on -caus -hab   -pf.ptc -pl
+\ft They put something like glasses on the girl, with holes here, put that on.
+\ph
+\gr otwerstiew eli ịalkakkam = otwerstielkekkem
+\nt
+\ELANBegin 00:13:56.580
+\ELANEnd 00:14:09.140
+\ELANParticipant
+\ru Девушке надевали что-то похожее на очки, с отверстиями.
+
+\id Krivoshapkina_AX_1930s_067
+\ref unclear
+\tx Tarak ńọka bej ịbga   baγajị ọjọlkan       biče,     ŋọnọmmaja ịalkan,   dʒiŋ ečin      bọrụọsta,
+\mb tarak ńọka bej ịbgọ baγajị ọj    -E  -lkEn bi -čE    ŋọnam -mEjE ịak -lkEn dʒiŋ erroːčin prosto
+\ge dist  Sakha   man good     very.Y    clothes -ep -prop be -pf.ptc long     -aug  what  -prop very.Y prox.qual  simply.R
+
+\tx ịamdas... baːj  baγajị ọjọlkan,      ịbga   baγajị ọjọlkan.
+\mb ịak -mdEs baːj  baγajị ọj    -E  -lkEn ịbgọ baγajị ọj    -E  -lkEn
+\ge what  -sml  rich.Y very.Y    clothes -ep -prop good     very.Y    clothes -ep -prop
+
+\ft That Sakha had very good clothes, with long something or other, really like something, had very rich clothes, very good clothes.
+\ph bọrụọsta - pronounced the Sakha way
+\ELANBegin 00:07:28.970
+\ELANEnd 00:07:43.740
+\ELANParticipant
+\ru Этот якут был в очень хороших одеждах, с длинным чем-то, в очень богатых одеждах.
+
+\id Krivoshapkina_AX_1930s_082
+\ref mod
+\tx Ebemdesken      dʒuhulken         goːŋnen,         kahịatla          biče.
+\mb ewen -mdEs -KEn dʒühün    -lkEn goːn -Gr(E) -n(I) xahïat     -(dU)LE bi -čE
+\ge Even -sml  -dim appearance.Y -prop say   -hab   -3sg  newspaper.Y -loc    be -pf.ptc
+
+\ft He said that he looked like an Even, the one who was in the newspaper.
+\ph
+\gr the diminutive on the similative might express that he looked a bit like an Even, but perhaps also a bit of tenderness - but more likely 'a bit like
+an Even'
+\ELANBegin 00:09:47.800
+\ELANEnd 00:09:53.700
+\ELANParticipant
+\ru Он говорил, что у него внешность как у эвена, который был в газете.
+
+\id Krivoshapkina_AX_1930s_109
+\ref mod
+\tx Tar   hïargadụkụj         kiliepu      boːče,     čajụ    boːče      ečin,     kirpičemdes      pačka
+\mb tarak hïarga -DUk(U) -J       xleb    -W   boː -čE    čaj  -W   boː -čE    erroːčin kirpič -E  -mdEs pačka
+\ge dist  sled.Y  -abl    -prfl.sg bread.R -acc give -pf.ptc tea.R -acc give -pf.ptc prox.qual  brick.R -ep -sml  packet.R
+
+\tx [stammers] ịaw
+\mb stammers   ịak -W
+\ge stammers   what  -acc
+
+\ft From his sled he gave (them) bread, gave tea, a packet like a brick.
+\ph
+\nt It would seem as if she isn't telling this in the right chronological order, because she already said that he had given them bread and tea.
+\ELANBegin 00:13:17.390
+\ELANEnd 00:13:24.600
+\ELANParticipant
+\ru Из своих саней он отдал хлеб, чай, кирпичный чай.
+
+\id Krivoshapkina_EA_reindeer_herd_097
+\ref pred
+\tx Ịamdas,   pačti   ịamdas,   jogurtamdas         ọːwran,          ịtịkịpča.
+\mb ịak -mdEs počti   ịak -mdEs jogurt    -E  -mdEs ọː  -Gr(E) -n(I) ịtịkị -B   -čE
+\ge what  -sml  nearly.R what  -sml  yoghurt.R -ep -sml  become -hab   -3sg  mix         -med -pf.ptc
+\ft It becomes like something, nearly like yoghurt, beaten.
+\comment
+\ru Как это, почти как йогурт становится, взболтанное.
+\ev Иамдас, почти иамдас йогуртамдас овран, итикипча.
+\ELANBegin 00:08:44.790
+\ELANEnd 00:08:49.540
+\ELANParticipant EAK
+
+\id Krivoshapkina_EA_reindeer_herd_116
+\ref pred
+\tx Syramdas           ọːwran.
+\mb syr      -E  -mdEs ọː  -Gr(E) -n(I)
+\ge cheese.R -ep -sml  become -hab   -3sg
+
+\ft It becomes like cheese.
+\ph
+\gr
+\comment
+\ru Как сыр становится.
+\ev Сырамдас овран.
+\ELANBegin 00:10:35.320
+\ELANEnd 00:10:36.780
+\ELANParticipant EAK
+
+\id Krivoshapkina_EA_reindeer_herd_337
+\ref mod
+\tx Kahanačamị        huːniken     emgeren             ečin,     biː dʒọnakụ                 ečin
+\mb kansa -čEn -J       huː -nIkEn   em   -Gr(E) -E-n(I) erroːčin biː dʒọn  -REk      -W        erroːčin
+\ge pipe  -dim  -prfl.sg blow -sim.cvb come -hab   -ep-3sg prox.qual  1sg  remember -cond.cvb -poss.1sg prox.qual
+
+\tx bụlatalkan         biwren          ńan   ečin      ịak ńoːčemdes   ečin      ịak čụlbańa     ečin      ịalkan
+\mb platok     -E  -lkEn bi -Gr(E) -n(I) ńaːn erroːčin ịak ńoːče -mdEs erroːčin ịak čụlban -ńE  erroːčin ịak -lkEn
+\ge kerchief.R -ep -prop be -hab   -3sg  and    prox.qual  what  flower   -sml  prox.qual  what  be.grue   -adjr prox.qual  what  -prop
+
+\tx kọftalkan    biwren          ńan   kọfta  ọjlịn                 ečin      helienčiku      tetukkeren,
+\mb kofta    -lkEn bi -Gr(E) -n(I) ńaːn kofta    ọj    -(dU)LI -n(I)     erroːčin seleːnčik -W   tet    -U    -Č  -Gr(E) -n(I)
+\ge jersey.R -prop be -hab   -3sg  and    jersey.R surface -prol   -poss.3sg prox.qual  vest.Y      -acc put.on -caus -res -hab   -3sg
+
+\tx helienčiku.
+\mb seleːnčik -W
+\ge vest.Y      -acc
+
+\ft She comes blowing her pipe, as I remember it she had a kerchief like this and a jersey as green as plants and over the jersey she wore a vest.
+\ph
+\comment
+\ru Дуя в свою трубку приходит, как я помню, в таком платке бывает и так  это ее ... как зелень так ее это зеленое такое в этой кофте бывает и 
+поверх кофты носит жилетик, жилетик.
+\ev Каhаначами hуникэн эмгэрэн эчин, би дь... дьонаку эчин булаталкан  биврэн ниан эчин иан ньөчэмдэс эчин иан чулбаньа эчин иалкан 
+кофталкан биврэн ниан кофта ойлин эчин hэлиэнчику тутуккэрэн,  hэлиэнчику.
+\ELANBegin 00:28:06.536
+\ELANEnd 00:28:23.786
+\ELANParticipant EAK
+
+\id Krivoshapkina_EA_reindeer_herd_401
+\ref pred
+\tx Himbiːr       ịamdas    markọwkamdas, kartọškamdas.
+\mb himbiːr       ịak -mdEs morkovka -mdEs  kartoška -mdEs
+\ge all.the.same.Y what  -sml  carrot.R -sml   potatoe.R -sml
+\ft It's like carrots, like potatoes.
+\nt nowadays these roots are not especially gathered for food, they are only eaten out of curiosity, or if people get hungry during a reindeer
+herding shift, then they might dig them up and eat them; they can be eaten raw and cooked
+\ru Всё равно как это, как морковка, картошка.
+\ev Һимбир иамдас, морковкамдас, картошкамдас.
+\ELANBegin 00:33:38.750
+\ELANEnd 00:33:41.650
+\ELANParticipant EAK
+
+\id Krivoshapkina_EA_reindeer_herd_490
+\ref comparison of action
+\tx Tadụk       hontel    biː ịa... dʒọmkattakụ               aččamdahal.
+\mb tarak -DUk(U) honte -L  biː ịa    dʒọmkat -REk      -W        ačča -mdEs -E-L
+\ge dist  -abl    other -pl 1sg  do.what think      -cond.cvb -poss.1sg neg    -sml  -ep-pl
+
+\ft Apart from that I don't think there are others, it seems.
+\ph
+\gr aččal = netu ix, aččamdahal = kazhetsja netu, poxozhe chto netu
+\comment
+\ru Из них других, как я думаю, кажется, нет.  И таких других я думаю, мне кажется нет
+\ev Тадук hөнтэл би иа... дьомкаттаку аччамдаhал.
+\ELANBegin 00:43:53.713
+\ELANEnd 00:43:57.622
+\ELANParticipant EAK
+
+\id Krivoshapkina_Ija_memories_039
+\ref dir.obj
+\tx Nahaː ịrkaŋnarị,        hebdʒehni          etikekken      bihin,            bekebbutnen           ewiniken,
+\mb nahaː ịrkaŋnị -RI       hebdʒeń -RI       etikeːn -kkEn bi -RI  -n(I)     bekeč -W   -tEn      ewiː -nIkEn
+\ge very.Y tease        -impf.ptc be.funny  -impf.ptc old.man  -dim  be -pst -poss.3sg all    -acc -poss.3pl play  -sim.cvb
+
+\tx irew       taraw      aččaw     adʒịtamdas     ukčenniken,    hebdʒelukeŋnerin.
+\mb irek  -W   tarak -W   ačča -W   ajdịt -E  -mdEs ukčen -nIkEn   hebdʒen      -L    -WkEn -Gr(E) -RI -n(I)
+\ge which -acc dist  -acc neg    -acc truth   -ep -sml  tell   -sim.cvb be.interested -inch -caus -hab   -pst -poss.3sg
+
+\ft He was a very playful, funny old man, he entertained us all by telling this and that which didn't exist as if it were the truth.
+\ph
+\gr hebdʒelukeŋnerin = on nas zastavljaj nachinatj schitatj zabavnym
+\ru Очень был шутливый, смешной старик, всех шутя веселил, рассказывая о том, что не было, как вправду.
+\ELANBegin 00:03:41.420
+\ELANEnd 00:03:49.580
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_062
+\ref mod
+\tx Tar   ajaːwrị       toreŋu,                ńan   Kụːńịkịt gerbe tor   bihin,
+\mb tarak ajaːw -RI       tor   -E-ŋ   -W        ńaːn kụːnị -kIč gerbe tor   bi -RI -n(I)
+\ge dist  love   -impf.ptc earth -ep-aln -poss.1sg and    scream     -nr   name  earth be -pst -poss.3sg
+
+\tx hatahrịmaja,          nọːg hịgịːlkamaja,     ńupkumek...     ńupkumhimdeheje                     tor
+\mb haːtar -RI       -mEjE nọːg hịgịː -lkEn -mEjE nipku     -m     nipku     -m   -RI       -mdEs -jEː tor
+\ge be.dark -impf.ptc -aug  dense   forest     -prop -aug  suffocate -des   suffocate -des -impf.ptc -sml  -aug  earth
+
+\tx bihni.
+\mb bi -R(E)   -n(I)
+\ge be -nonfut -3sg
+
+\ft That is my favourite place; then there is a place called Kunikit (the place of screaming), a very dark place with dense forest,
+where you feel as if you suffocate.
+\ru Это мое любимое место, еще есть местность под названием Куникит, темное, с густым лесом, хочется задохнуться.
+\ph
+\nt as is told in RDA_TPK_spirits (45-61) Kunikit is called like that because of a screaming competition between two shamans
+\gr
+\ELANBegin 00:05:31.960
+\ELANEnd 00:05:40.240
+\ELANParticipant
+\ru
+
+\id Krivoshapkina_Ija_memories_089
+\ref unclear
+\tx Egdʒekeːmdehje          ečije,          eti           họwnar         ọːkan,       hiː
+\mb egdʒen =kE   -mdEs -jEː erroːčin -jEː e   -RI       họgna -R       ọː  -kEn     hiː
+\ge big     =emph -sml  -aug  prox.qual  -aug  neg -impf.ptc move    -neg.cvb become -trm.cvb 2sg
+
+\tx mụkaw         tettis                ehni,             tačịn.
+\mb mụka     -W   tet    -RI  -s(I)     e   -R(E)   -n(I) tarọːčịn
+\ge fur.jacket -acc put.on -pst -poss.2sg neg -nonfut -3sg  dist.qual
+
+\ft Like big such a ones, until they couldn't move - like you, when you put on that fur jacket, right.
+\ru Как большие такие (букв такущие), до того что не могли двигаться, как вы, когда одели доху.
+\ph
+\gr the dimunitive of egdʒekeːmdehje would be egdʒekeːmdesken
+\nt Ija Krivoshapkina is here referring to my trip by snowmobile to the 10th reindeer brigade, when I put on two pairs of long
+johns, two pairs of pants, a woollen undershirt, a blouse, three jerseys and an Even fur jacket and thus felt I could n't
+really move.
+\ELANBegin 00:08:11.840
+\ELANEnd 00:08:15.510
+\ELANParticipant
+\ru
+
+\id Krivoshapkina_Ija_memories_092
+\ref adjunct, manner
+\tx Ịamdas,   delgenkemdes     ọjčịčal.
+\mb ịak -mdEs dʒelgenke -mdEs ọjčị -čE -L
+\ge what  -sml  animal     -sml  go.up     -pf.ptc -pl
+\ft They climbed up like animals.
+\ru Как животные начали взбираться.
+\ph
+\gr Although she translated this with 'start to', there is not really anything in the Even original that would give an inceptive
+meaning.
+\ELANBegin 00:08:30.810
+\ELANEnd 00:08:34.270
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_184
+\ref pred
+\tx Adịda      ńama   ụjamkan,     tačịn       họːjakeː   delmičemdes
+\mb adịː =DE  ńama   ụjamkan      tarọːčịn họːja =kE   delmiče      -mdEs
+\ge some    =ptl hundred mountain.sheep dist.qual      many     =emph reindeer.herd -sml
+
+\tx biwečeddiwen                                   elekes   ittiw.
+\mb bi -WEːČ -E-D     -RI       -W   -E-n(I)      elekes   it  -RI  -W
+\ge be -gnr    -ep-prog -impf.ptc -acc -ep-poss.3sg at.first see -pst -poss.1sg
+
+\ft Several hundred mountain sheep, so many, like a reindeer herd, I saw for the first time.
+\ru Несколько сотен горных баранов, столько много, как оленье стадо ходит я впервые видела.
+\ph
+\gr
+\nt While translating, Ija Krivoshapkina said that it was probably not quite so much, maybe 100 or so, perhaps 200, but not
+several hundreds.
+\ELANBegin 00:16:54.720
+\ELANEnd 00:17:01.910
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_218
+\ref pred
+\tx Tara  haːmatnịkan   ukčeŋgeren          tiːk daγanị, dʒiŋ ịak hibeːhij  tewtemdes
+\mb tarak haːmat -nIkEn   ukčen -Gr(E) -E-n(I) tiek  daγanï   dʒiŋ ịak hibiehej   tewte   -mdEs
+\ge dist  laugh   -sim.cvb tell   -hab   -ep-3sg now   even.Y     very.Y what  fresh.Y(R) berries -sml
+
+\tx biwreče          goːniken.
+\mb bi -Gr(E) -čE    goːn -nIkEn
+\ge be -hab   -pf.ptc say   -sim.cvb
+
+\ft He tells that even now with a laugh, really (bear faeces) can be like fresh berries.
+\ru Он и сейчас это рассказывает с хохотом, что оказывается бывает как свежие ягоды.
+\ELANBegin 00:20:01.520
+\ELANEnd 00:20:10.090
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_245
+\ref functive
+\tx Taraw      tiːkde   ukčengeren,          anekdọtamdas      ukčengeren,          minu         tọːkị
+\mb tarak -W   tiek =DE  ukčen -Gr(E) -E-n(I) anekdọt -E  -mdEs ukčen -Gr(E) -E-n(I) min     -W   tọːkị
+\ge dist  -acc now  =ptl tell   -hab   -ep-3sg joke.R    -ep -sml  tell   -hab   -ep-3sg 1sg.obl -acc elk
+
+\tx čapčịrịn           goːniken.
+\mb čapčị -RI  -n(I)     goːn -nIkEn
+\ge step.on   -pst -poss.3sg say   -sim.cvb
+
+\ft Even now she tells that like a joke, that an elk stepped on her.
+\ru Она это и сейчас рассказывает как анекдот, что ее лось растоптал.
+\ELANBegin 00:22:22.790
+\ELANEnd 00:22:27.320
+\ELANParticipant
+
+\id Krivoshapkina_Sofija_life_067
+\ref pred
+\tx Mut    baldača        toremdehet                      Ịndịbal, tara.
+\mb mut    balda   -čE    tor   -E  -mdEs -E-t(I)         Ịndịbal  tarak
+\ge 1pl.in be.born -pf.ptc earth -ep -sml  -ep-poss.1pl.in Endybal      dist
+
+\ft Yndibal is like our homeland. 
+\ru Ендыбал это как наша родина.
+\ph
+\gr
+\nt
+
+\id Krivoshapkin_SP_oxota_023a
+\ref pred
+\tx Taraŋan                emer  biwren,         ịamdas... kụmaːγịw    čịkịrị.
+\mb tarak -ŋ  -E-n(I)      emer  bi -Gr(E) -n(I) ịak -mdEs kụmaːγï -W   čịkị -RI
+\ge dist  -aln -ep-poss.3sg sharp be -hab   -3sg  what  -sml  paper.Y      -acc cut.off   -impf.ptc
+\ft That of his used to be sharp, like what... cutting paper (without effort).
+\ru Этот его бывает острым, режущий бумагу.
+\ELANBegin 00:01:44.200
+\ELANEnd 00:01:53.140
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_076
+\ref pred
+\tx Nọŋan ịak... muttu       ịamdas,   swešennej.
+\mb nọŋan ịak    mut    -DU  ịak -mdEs svjaščennyj
+\ge 3sg      what     1pl.in -dat what  -sml  sacred.R
+\ft It is sacred for us.
+\ru Он для нас как священный.
+\ELANBegin 00:05:45.570
+\ELANEnd 00:05:50.470
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_189
+\ref pred
+\tx Ụjamkam           nọnọn maːmị       ịawan                 dʒebmi         ịbga   biwren
+\mb ụjamkan      -W   nọnan   maː -mI       ịak -W   -E-n(I)      dʒep -mI       ịbgọ bi -Gr(E) -n(I)
+\ge mountain.sheep -acc at.first  kill -cond.cvb what  -acc -ep-poss.3sg eat   -cond.cvb good     be -hab   -3sg
+
+\tx ńan   gedemekben                     imheben,               ịamdas    biwren          tar
+\mb ńaːn gedemek      -W   -E-n(I)      imse -W   -E-n(I)      ịak -mdEs bi -Gr(E) -n(I) tarak
+\ge and    back.of.head -acc -ep-poss.3sg fat  -acc -ep-poss.3sg what  -sml  be -hab   -3sg  dist
+
+\tx žewačkamdas,      biwren          ee.
+\mb žewačka     -mdEs bi -Gr(E) -n(I) ee
+\ge chewing.gum.R -sml  be -hab   -3sg  eh
+
+\ft When they first kill a mountain sheep, it is good to eat its what, the fat from the back of his head, that is like chewing
+gum.
+\ph
+\nt There is a big layer of fat at the back of a mountain sheep's head, and that is chewed  raw 'like chewing gum', still
+warm, cf. Krivoshapkina_Ija_memories_156 
+\ru Убив сначала уямкана, бывает хорошо съесть жир с затылка, как жевачка бывает.
+\ELANBegin 00:14:47.830
+\ELANEnd 00:14:58.780
+\ELANParticipant SPK
+
+\id RDA_TPK_birth_004
+\ref pred
+\tx Haːn gọlọmọlọ     bọllaγïna ečimur    ịat      ọːča      biwrer,        ụstụlamdas,   gọl.
+\mb haːn gọlọmọ -(dU)LE buollaγïna  erroːčin ịak -Č  ọː -čE    bi -Gr(E) -r   stul    -E  -mdEs gọl
+\ge some  yurt.type    -loc    dp.Y          prox.qual  what  -ins make  -pf.ptc be -hab   -3pl chair.R -ep -sml  firewood
+\ft In some golomo, however, there was something like a chair, made from wood.
+\ru В некоторых голомо так делали как стул, деревянный.
+\ELANBegin 00:00:26.060
+\ELANEnd 00:00:33.360
+\ELANParticipant RDA
+
+\id RDA_TPK_birth_005
+\ref pred
+\tx Ečin      ịamdaskan          die   ečin.
+\mb erroːčin ịak -mdEs -KEn     die   erroːčin
+\ge prox.qual  what  -sml  -dim.int say.Y prox.qual
+\ft Like something, right.
+\ph
+\gr die - calque of goːli...
+\ru Так как что-то.
+\ELANBegin 00:00:33.360
+\ELANEnd 00:00:34.970
+\ELANParticipant TPA
+
+\id RDA_TPK_birth_010
+\ref unclear
+\tx Gọršọkọmdas
+\mb goršok -E  -mdEs
+\ge bowl.R  -ep -sml
+\ft Like a bowl.
+\ru Как горшок.
+\ELANBegin 00:00:46.430
+\ELANEnd 00:00:48.640
+\ELANParticipant RDA
+
+\id RDA_TPK_death_053
+\ref pred
+\tx Bu     tiːkerep    hebdʒenekemdes          ọːwran,          hebdʒeneček,     ịamdas,   ịamdas,
+\mb bu     tiek -(E)rEp hebdʒen -ČEk -E  -mdEs ọː  -Gr(E) -n(I) hebdʒen -E  -ČEk ịak -mdEs ịak -mdEs
+\ge that.Y now  -adjr   funny    -nr   -ep -sml  become -hab   -3sg  funny    -ep -nr   what  -sml  what  -sml
+
+\tx hebdʒenekemdes,         ee?
+\mb hebdʒen -ČEk -E  -mdEs ee
+\ge funny    -nr   -ep -sml  eh
+\ft Nowadays it's become like a holiday, right?
+\ph
+\gr the correct word for 'prazcnik' would be hebdʒekedʒek
+\ru Как будто праздник становится сейчас (слишком много людей приходит)
+\ELANBegin 00:02:11.800
+\ELANEnd 00:02:19.090
+\ELANParticipant R
+
+\id RDA_TPK_death_054
+\ref pred?
+\tx Hebdʒenekemdes,         tiːk dʒọmkatta       tar   bej kokeriwen.
+\mb hebdʒen -ČEk -E  -mdEs tiek  dʒọmkat -R(E)   tarak bej koke -RI -W -E-n(I)
+\ge funny    -nr   -ep -sml  now   think      -nonfut dist  man die -impf.ptc -acc -ep -poss.3sg
+\ft Nowadays they think a person's death is like a holiday.
+\ru Сейчас думают как праздник смерть человека.
+\ELANBegin 00:02:19.090
+\ELANEnd 00:02:22.170
+\ELANParticipant T
+
+\id RDA_TPK_death_127
+\ref comparison of action
+\tx Hiː bọlla      tar   dʒeblewen,                 uldewen                ịanịkan      nọŋan
+\mb hiː buollaγïna tarak dʒep -LE -W   -E-n(I)      ulre -W   -E-n(I)      ịa    -nIkEn   nọŋan
+\ge 2sg  dp.Y         dist  eat   -nr -acc -ep-poss.3sg meat -acc -ep-poss.3sg do.what -sim.cvb 3sg
+
+\tx dʒebeddimdes                  dʒebukejegin.
+\mb dʒep -E-D     -RI       -mdEs dʒep -WkEn -j    -EgIn
+\ge eat   -ep-prog -impf.ptc -sml  eat   -caus -conn -prs.2sg.Y
+\ft You, however, give (people) that food of his, that meat of his to eat, as if he were eating.
+\ph
+\nt This again refers to the traditions in Sebjan, while in other places they leave the reindeer to rot, here they eat its meat as if the deceased
+himself were eating with them.
+\ru А ты еду его мясо его что-то делая кормишь как будто он ест.
+\ELANBegin 00:06:27.230
+\ELANEnd 00:06:32.240
+\ELANParticipant R
+
+\id RDA_TPK_death_128
+\ref comparison of action
+\tx Nọŋartan nọŋan dʒebed...     kokeče      bej dʒebeddimdes                  dʒebejekteːkkin,              tarak.
+\mb nọŋartan nọŋan dʒep -E-D     koke -čE    bej dʒep -E-D     -RI       -mdEs dʒep -E  -jEktEːk -GIn        tarak
+\ge 3pl         3sg      eat   -ep-prog die  -pf.ptc man eat   -ep-prog -impf.ptc -sml  eat   -ep -nec.Y    -pred.2sg.Y dist
+\ft You have to eat that as if the deceased is eating.
+\ru Они .. ты должен кушать как будто это ест умерший человек.
+\ELANBegin 00:06:32.240
+\ELANEnd 00:06:38.480
+\ELANParticipant R
+
+\id RDA_TPK_death_260
+\ref comparison of action
+\tx Ečimur    tapịčkalkan   gịrkaddịmdas              ehni.
+\mb erroːčin tapočki   -lkEn gịrka -D    -RI       -mdEs e -R(E) -n(I)
+\ge prox.qual  slippers.R -prop walk    -prog -impf.ptc -sml  neg -nfut -3sg
+\ft As if he were walking with slippers, right.
+\ph
+\gr kak budto ja idu v tapočkax = ečimu tapočkalkan gịrkaddịmdas bihem; 2sg = gịrkaddịmdas bihenni
+\ru Так как будто идет в тапочках.
+\ELANBegin 00:13:22.330
+\ELANEnd 00:13:25.540
+\ELANParticipant R
+
+\id RDA_TPK_names_origins_057
+\ref mod
+\tx Dịlamdas      ịŋa bihni,          ọl_ihin   Dịlčan   goːpče.
+\mb dịl -E  -mdEs ịŋa bi -R(E) -n(I)  ọl_ihin   dịl -čEn goːn -B   -čE
+\ge head  -ep -sml  stone  be -nonfut -3sg therefore.Y head  -dim  say   -med -pf.ptc
+\ft There is a stone like a head, that is why it is called Dilchan.
+\ph
+\qu proper noun
+\ru Есть камень похожий на голову, по\тому назван Дилчан.
+\ELANBegin 00:03:35.690
+\ELANEnd 00:03:40.730
+\ELANParticipant R
+
+\id Stepanova_NA_kochevaja_shkola_035
+\ref pred
+\tx Ečin      dụːhawda           ọːngọl   nahaː ịbgakeːmdas       biwren,         dʒebletde
+\mb erroːčin duša  -W        =DE  ọːn =(W)Ul nahaː ịbgọ =kE   -mdEs bi -Gr(E) -n(I) dʒep -LE -Č  =DE
+\ge prox.qual  soul.R -poss.1sg =ptl how    =indef very.Y good     =emph -sml  be -hab   -3sg  eat   -nr -ins =ptl
+
+\tx biwrerem,              họːjaw     irew       taraw      dʒebgereremde,
+\mb bi -Gr(E) -R(E) -m     họːja -W   irek  -W   tarak -W   dʒep -Gr(E) -R(E) -m     =DE
+\ge be -hab   -nonfut -1sg many     -acc which -acc dist  -acc eat   -hab   -nonfut -1sg =ptl
+
+\tx towliwreremde.
+\mb tewte   -lI -Gr(E) -R(E) -m     =DE
+\ge berries -vr -hab   -nonfut -1sg =ptl
+\ft It is as if my sould becomes better, and there is food, I eat a lot of this and that, and I gather berries.
+\ph dʒebnetde
+\ru И душа как то лучше становится и с едой бываю, много всякого разного кушаю, и ягоды собираю.
+\ELANBegin 00:04:18.453
+\ELANEnd 00:04:30.309
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_106
+\ref pred
+\tx Kụŋalńụn    eniken       ịar,           ịamdas,   čukčemdes   ọːdʒịn.
+\mb kụŋa -L  -ńUn e   -nIkEn   ịa    -R       ịak -mdEs čukča -mdEs ọː  -DʒI -n(I)
+\ge child   -pl -com  neg -sim.cvb do.what -neg.cvb what  -sml  Chukchi -sml  become -fut -3sg
+\ft If it doesn't do what (play, interact) with children, it will become like a Chukchi.
+\ru С детьми что-то не делая, как чукча станет.
+\ELANBegin 00:12:01.747
+\ELANEnd 00:12:06.635
+\ELANParticipant
+
+\id Stepanova_ZA_naled_038
+\ref adjunct
+\tx Oo, bi   ŋeːlellem,                    họːč    ŋeːlellem,                    ere  nọŋan tụrkịn
+\mb oo  biː ŋeːl    -E-L     -R(E) -m     họː -Č  ŋeːl    -E-L     -R(E) -m     erek nọŋan tụrkị -n(I)
+\ge oh  1sg  be.afraid -ep-inch -nonfut -1sg very   -ins be.afraid -ep-inch -nonfut -1sg prox 3sg      sled      -poss.3sg
+
+\tx ečikkekoːn              lọdkamdas  melumečidni      dʒiː, noːwu                    moːle
+\mb erroːčin -kkEn -KEn     lodka  -mdEs melumet -E  -n(I) dʒIː  noː            -W        moː  -(dU)LE
+\ge prox.qual  -dim  -dim.int boat.R -sml  rock    -ep -3sg  aff     younger.sibling -poss.1sg water -loc
+
+\tx gịrkačịddan.
+\mb gịrka -Č  -E-D     -R(E) -n(I)
+\ge walk    -res -ep-prog -nonfut -3sg
+\ft Oh, I got a fright, a big fright, here his sled is floating?? in the water like this like a boat, my brother is walking in water.
+\gr (10_quest_2010, 15:50) gịrkačịddan - dolgo xodit; gịrkaddan would not be good here, ne podxodit zdes', gịrkačịddan is better, podxodit
+\ru Я испугалась, очень испугалась, и его нарты так как лодка ччч мой брат ходит по воде.
+\ELANBegin 00:04:02.619
+\ELANEnd 00:04:14.995
+\ELANParticipant
+
+\id Stepanova_ZA_naled_099
+\ref pred, with adj
+\tx Tala          kiːnew       kojeːtniken,    irew       taraw      kojeːtniken,    ajịkịːmdas  ịakgụl
+\mb tarak -(dU)LE kino     -W   kojeːt -nIkEn   irek  -W   tarak -W   kojeːt -nIkEn   aj   =kE   -mdEs ịak =(W)Ul
+\ge dist  -loc    movies.R -acc look.at -sim.cvb which -acc dist  -acc look.at -sim.cvb good =emph -sml  what  =indef
+
+\tx ramantịka goːniken,     dʒiː.
+\mb romantika   goːn -nIkEn   dʒIː
+\ge romance.R   say   -sim.cvb aff
+
+\ft We watched movies, watched this and that, and it seemed so very good, so romantic, right.
+\ru Там смотря кино всякое разное смотря очень казалось хорошим, романтичным.
+\ELANBegin 00:10:16.250
+\ELANEnd 00:10:22.310
+\ELANParticipant
+
+\id Stepanov_AA_den'_olenovoda_11
+\ref comparison of action ?
+\tx Otton kameradu    omneken        dʒoːreken       toreče       bejdu    họː herkehnimdes,              ọnọn
+\mb otton kamera -DU  omen -REkEn    dʒoːr -REkEn    tore  -čE    bej -DU  họː herkeń    -RI       -mdEs ọnọn
+\ge dp.Y  camera -dat one  -iter.adv two     -iter.adv speak -pf.ptc man -dat very   be.ashamed -impf.ptc -sml  therefore.Y
+
+\tx če...
+\mb če
+\ge ptl.Y
+\ft Well, a person who has spoken in front of a camera once or twice is very shy, therefore...
+\ru Ну, говорившему 1, 2 раза в камеру очень стеснительно/стыдно, поэтому...
+\ph
+\gr (March 2008) herkehnimdes - this looks like herken-s(E)n-RI, Limitative + Imperfective Participle of the root herken-
+'be.ashamed'; herkehnimdes = kak budto stydno; (March 2010) I have now analysed herkehnimdes as the imperfective participle
+of a stative verb herken 'be ashamed', since this fits the pattern for stative verbs, cf. mahŋị, ńahmị etc
+\nt
+
+\id Tatjana_Petrovna_family_203
+\ref pred
+\tx Etiken,  etikemdes,     taraŋat                   arịŋka biče.
+\mb etikeːn etikeːn -mdEs tarak -ŋ  -E-t(I)         arịŋka bi -čE
+\ge old.man  old.man  -sml  dist  -aln -ep-poss.1pl.in demon     be -pf.ptc
+\ft He was similar to an old man, that was a demon.
+\ru Похож на старика, а это был черт.
+\ph
+\gr
+\ELANBegin 00:21:55.070
+\ELANEnd 00:22:03.550
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_051
+\ref pred
+\tx Tala          ịhramda               - nosegčemdes!
+\mb tarak -(dU)LE ịs  -R(E) -m     =DE  - nosegčen -mdEs
+\ge dist  -loc    reach -nonfut -1sg =ptl - young     -sml
+\ft I got there and immediately (became) like young!
+\ph
+\gr 270312: the meaning of "srazu" comes from the =DE
+\ru Туда доехала и сразу как молодая. 
+\ELANBegin 00:03:50.061
+\ELANEnd 00:03:53.753
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_052
+\ref pred
+\tx Metrola         iːremde,               nosegčemdes    ọːram!
+\mb metro   -(dU)LE iː   -R(E) -m     =DE  nosegčen -mdEs ọː  -R(E) -m
+\ge metro.R -loc    enter -nonfut -1sg =ptl young     -sml  become -nonfut -1sg
+\ft As soon as I go into the metro I become like young!
+\ru зайдя в метро и сразу как молодая
+\ELANBegin 00:03:53.753
+\ELANEnd 00:03:56.873
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_091
+\ref pred?
+\tx Ere  tiːke haŋanassịddam                     dʒịː, ịaw,     suvenirkakam           ọːnịkan   haːn
+\mb erek tiek   haŋan -E  -sčI  -D    -R(E) -m     dʒIː    ịak -W   suvenir    -kEkEn -W   ọː -nIkEn   haːn
+\ge prox now    sew    -ep -conat -prog -nonfut -1sg aff       what  -acc souvenir.R -dim   -acc make  -sim.cvb other
+
+\tx čụrịtaŋalbụ               neːriw             ele,         egdʒoːmeje        bụsamdas,  ečin      čụlbańamaja.
+\mb čụːrịt -E  -ŋ  -E  -L-W    neː -RI -W         erek -(dU)LE egdʒen =eː  -mEjE busy   -mdEs erroːčin čụlban -ńE  -mEjE
+\ge beads        -ep -aln -ep -pl-acc put  -pst -poss.1sg prox -loc    big     =emph -aug  bead.R -sml  prox.qual  be.grue   -adjr -aug
+
+\ft I am now trying to sew, making little souvenirs, I put my beads here, one big like a big bead, a blue one like this.
+\ph
+\gr ja nekotorye suveniry delaju = haːn suvenirkakam ọːnịkan, so that this cannot be the meaning here, even though she makes a pause between
+haːn and čụrịtaŋalbụ
+\nt čụːrịt are very small beads, while busy are big ones the size of pearls
+\ru Я сейчас пытаюсь шить сувенирчики делая, остальные бусы здесь что-то  (непонятнто говорит) большие как бусы такие синие
+\ELANBegin 00:06:40.590
+\ELANEnd 00:06:51.290
+\ELANParticipant

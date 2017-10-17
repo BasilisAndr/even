@@ -1,0 +1,124 @@
+\_sh v3.0  968  Text
+
+\id K_ClusivityA1a
+\ref Esso1004_39:17
+\tx Bu     iwinedʒiru                 iːsi     ụlaːbdʒịnnị      // emeːbdʒinni          edu
+\mb buː   ewiː -nE     -DʒI -(R)U   iː =sI   hụlaː -B   -DʒI -nrI emeemeːn -B   -DʒI -nrI erek -DU
+\ge 1pl.ex play  -intent -fut  -1pl.ex 2sg =emph leave    -med -fut  -2sg staleave  -med -fut  -2sg prox -dat
+
+\tx kojeːčiddeji                      noːji.
+\mb kojeːt -E-D     -DE       -J       noː            -J
+\ge look.at -ep-prog -purp.cvb -prfl.sg younger.sibling -prfl.sg
+
+\ru Мы идем играть, а ты остаешься здесь, чтобы присматрывать за маленькой сестрой.
+\ph nuːji
+\nt ụlaːbdʒịnnị and emeːbdʒinni were offered as variants
+
+\id K_ClusivityA1b
+\ref Esso1004_40:21
+\tx Mut    čeledʒur          iwineger,                 noːs                     ele
+\mb mut    čele -dʒUr        ewiː -nE     -GEr        noː            -s(I)     erek -(dU)LE
+\ge 1pl.in all   -ins.prefl.pl play  -intent -imp.1pl.in younger.sibling -poss.2sg prox -loc
+
+\tx bidden.
+\mb biː -D    -R(E)   -n(I)
+\ge 1sg  -prog -nonfut -3sg
+\ft
+\ru Мы вместе пойдем играть, сестричка останется одна. -- Пойдем вместе играть, ...
+\ph nuːs
+
+\id K_ClusivityA2a
+\ref Esso1006_52:12
+\tx Bu     ịawda         ečiwun               nekre        učitelnica munu            neːirin.
+\mb buː   ịak -W   =DE  e   -RI  -WUn         nek -R       učitelnica mun        -W   neːgi -RI  -n(I)
+\ge 1pl.ex what  -acc =ptl neg -pst -poss.1pl.ex do  -neg.cvb teacher.R   1pl.ex.obl -acc scold  -pst -poss.3sg
+
+\ft
+\ru Мы ничего не сделали, а учительница нас ругала.
+\ph speaking fast in beginning: [ịawdačuːnnekre], i.e. ečiwun was contracted to čuːn
+\gr bi inu neːirem = ja tebja rugaju; she does pronounce it as written here, neːirin, there is not even a hint of a velar, but
+it is surely the same verb as standard neːgi
+
+\id K_ClusivityA2b
+\ref Esso1006_53:30
+\tx Mut    tịmịna omettu   urdʒip          školatki        učitelnica
+\mb mut    tịmịna omettu   ur -DʒI -p      škola   -t(E)kI učitelnica
+\ge 1pl.in tomorrow   together go -fut  -1pl.in school.R -all    teacher.R
+
+\tx teːleŋden                  ịakawụ   bisin.
+\mb teːleŋ -DE       -n(I)     ịak -awụ biː -RI  -n(I)
+\ge tell     -purp.cvb -poss.3sg what  -emph  1sg  -pst -poss.3sg
+
+\ft
+\ru Мы с тобой пойдем завтра вместе в школу, пусть учительница нам расскажет, что такое случилось.
+\ph teːliŋdeːn
+\gr (Esso2005_0:21) When I checked this a few days later, she said it should be teːleŋNen; ịakawụ= chto takoe??
+
+\id K_ClusivityB1a
+\ref Esso2002_0:40
+\tx Iː ajaːwannị        mun        derevnjawun?           Nọŋan esni              egdʒen
+\mb iː ajaːw -R(E)   -nrI mun        derevnja  -WUn         nọŋan e   -R(E)   -n(I) egdʒen
+\ge 2sg love   -nonfut -2sg 1pl.ex.obl village.R -poss.1pl.ex 3sg      neg -nonfut -3sg  big
+
+\tx bise        iːn    gorodgačịs              tarma nọŋan nọːd, ajdịtta?
+\mb bi -R       iːn    gorod  -G(E)čIn -s(I)     tarma nọŋan nọːd  ajdịt =DE
+\ge be -neg.cvb 2sg.obl town.R -sml      -poss.2sg but   3sg      pretty   truth   =ptl
+\ft
+\ru Тебе нравится наша деревня? Она не такая большая, как твой город, но она красивая, не правда ли?
+\ph egd'en
+\gr
+
+\id K_ClusivityB1b
+\ref Esso2002_2:10
+\tx Esso ịak unŋitken,                  minŋikede                    derevnjawu,         eleke
+\mb Esso ịak hun     -ŋI       =t(E)kEn min     -ŋI       =kE   =DE  derevnja  -W        erek -(dU)LE =kE
+\ge Esso what  2pl.obl -pred.poss =restr   1sg.obl -pred.poss =emph =ptl village.R -poss.1sg prox -loc    =emph
+
+\tx bisni            min     eniŋeːwu            ele.         Teːmi    nọŋan mut    derevnjat.
+\mb bi -R(E)   -n(I) min     eniŋeː    -W        erek -(dU)LE teːmi    nọŋan mut    derevnja  -t(I)
+\ge be -nonfut -3sg  1sg.obl grandmother -poss.1sg prox -loc    therefore 3sg      1pl.in village.R -poss.1pl.in
+\ft
+\ru Эссо не только ваша, она и МОЯ тоже деревня, потому что моя бабушка живет здесь-же. Значит, это наша деревня.
+\ph eleːke
+\gr I'm not sure I have the right analysis of minŋikede - it fits the translation (emphatic and coordination), but when I asked
+whether one could say just "minŋike" she said 'no'. But perhaps that referred to this context. (Esso2006_37:20)
+minŋikene = "eto zhe moja", minŋikede = "moja tozhe eto"
+
+\id K_ClusivityB2a
+\ref Esso2002_4:05
+\tx Bu     ečiwun               dʒọrmịr         iːn    paltowis                 - erek iː
+\mb buː   e   -RI  -WUn         dʒọrọm -R       iːn    palto  -W   -E-s(I)      - erek iː
+\ge 1pl.ex neg -pst -poss.1pl.ex steal       -neg.cvb 2sg.obl coat.R -acc -ep-poss.2sg - prox 2sg
+
+\tx dʒọrmịrịs           munŋiw.
+\mb dʒọrọm -RI  -s(I)     mun        -ŋI       -W
+\ge steal       -pst -poss.2sg 1pl.ex.obl -pred.poss -acc
+\ft
+\ru Мы не украли твое пальто - это ты украл наше.
+
+\id K_ClusivityB3a
+\ref Esso2005_9:38
+\tx Mut    ọrọltị                       erew      anŋanụ   abgarịl      ajdịtta.
+\mb mut    ọrọn          -L  -t(I)        erek -W   anŋan -W   abgar   -E-L   ajdịt =DE
+\ge 1pl.in domestic.reindeer -pl -poss.1pl.in prox -acc year   -acc healthy -ep-pl truth   =ptl
+\ft
+\ru Наши олени в этом году такие здоровые и крепкие, не правда ли?
+
+\id K_ClusivityB3b
+\ref Esso2005_10:30
+\tx Min     atịkamụ         mergeːtten            mun        ọrọlbụn                      erew
+\mb min     atịkan  -W        mergeːt -R(E)   -n(I) mun        ọrọn          -L  -WUn         erek -W
+\ge 1sg.obl old.woman -poss.1sg think    -nonfut -3sg  1pl.ex.obl domestic.reindeer -pl -poss.1pl.ex prox -acc
+
+\tx anŋanụ   abgarịl,     tarma bi   ŋeːllem              nọŋartan buteːnilker          //
+\mb anŋan -W   abgar   -E-L   tarma biː ŋeːl    -R(E)   -m   nọŋartan buteːn -E-lkEn  -L
+\ge year   -acc healthy -ep-pl but   1sg  be.afraid -nonfut -1sg 3pl         illness -ep-prop -pl
+
+\tx buteːnne.
+\mb buteːn -R(E)
+\ge be.ill  -nonfut.3pl
+\ft
+\ru Моя жена думает, что наши олени в этом году здоровые, но я боюсь, что многие из них больны.
+\ph
+\gr Ja bojalsja = bi ŋeːlliwu; ja sejchas bojus' = bi tiːk ŋeːllem; bi ereger ŋeːleddem = ja postojanno bojus' = bi ŋeːlloːttem;
+ŋeːrgen = trus; bi ŋeːgen bisem = ja bojus', ja trus; bi ŋeːlidʒillem = ja nachinaju bojat'sja

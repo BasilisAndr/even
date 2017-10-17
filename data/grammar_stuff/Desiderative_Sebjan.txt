@@ -1,0 +1,171 @@
+\_sh v3.0  968  Text
+
+\id ConverbsTypesSSconverbs1.14
+\nt
+\nt On 19.02.08 I did a bit of elicitation to find out what the forms bihiklej and biwekkeren might be (I only analyzed them
+as above after this elicitation session): sebjan190208_10:35
+\gr
+\tx Nọŋartan họːjada    kụŋalkahal      bihiklewur         ńanda      kụŋaw
+\mb nọŋartan họːja =DE  kụŋa -lkEn -SEl bi -hikle -WUr     ńaːn =DE  kụŋa -W
+\ge 3pl         many     =ptl child   -prop -pl  be -conc  -prfl.pl again  =ptl child   -acc
+
+\tx baldụkahma.
+\mb balda   -WkEn -m
+\ge be.born -caus -des.nonfut.3pl
+
+\ru Хотя у них много детей, они хотят еще больше.
+\gr biː kụŋaw baldụkahmam = ja xochu rodit'; hiː baldụkahmannị --> balda-WkEn-??-R(E)-personmarking; it looks as if
+the -m- could be the Desiderative suffix, but what is the -h-?? --> on 20.02.08 I checked this, and it would seem as if
+here the Desiderative is -hmE-, with zero Nonfuture marking, cf. below
+\nt
+\ft
+\nt sebjan200208_9:14:
+\tx kụŋaw     baldụkahma
+\mb kụŋa -W   balda   -WkEn -m
+\ge child   -acc be.born -caus -des.nonfut.3pl
+\ru они хотят родить
+\ph
+\tx kụŋaw     baldụkahmam
+\mb kụŋa -W   balda   -WkEn -m   -R(E)   -m
+\ge child   -acc be.born -caus -des -nonfut -1sg
+
+\ru я хочу родить
+\ph
+\tx biː dʒebehmem
+\mb biː dʒeb -E-m    -R(E)   -m
+\ge 1sg  eat   -ep-des -nonfut -1sg
+
+\ru я хочу кушать
+\ph
+\tx biː huglehmem
+\mb biː hukle -m   -R(E)   -m
+\ge 1sg  sleep -des -nonfut -1sg
+
+\ru я хочу спать
+\ph
+\tx hiː huglehmenni
+\mb hiː hukle -m   -R(E)   -nrI
+\ge 2sg  sleep -des -nonfut -2sg
+
+\ru ты хочешь спать
+\ph
+
+\id elicitation March2009
+\ref 24:20 Klim_Nikolaevich_first_half (translation session)
+\tx gahmịn
+\mb ga   -m   -RI  -n(I)
+\ge take -des -pst -poss.3sg
+\ft
+\ru
+\tx čịkịhmịn
+\mb čịkị -m   -RI  -n(I)
+\ge cut.off   -des -pst -poss.3sg
+
+\id Elicited_March2009
+\ref Klim_Nikolaevich_first_half translation session 4:30 min
+\tx horehmem
+\mb hor -E-m    -R(E)   -m
+\ge go  -ep-des -nonfut -1sg
+\ru я хочу идти
+\ph
+\tx horehmenni
+\ru ты хочешь идти
+\ph
+\gr
+\tx ehenni horehme
+\ru ты не хочешь идти
+
+\id Krivoshapkina_Sofija_life_046
+\ref 5:27
+\tx Biː buollar eču               horehme              bụkatïn.
+\mb biː buollar e   -RI  -W        hor -E  -m           bụkatïn
+\ge 1sg  dp.Y    neg -pst -poss.1sg go  -ep -des.neg.cvb completely.Y
+\ft I didn't want to go (i.e. marry) at all.
+\ru А я не хотела идти совсем.
+\ph
+\gr
+\nt
+\qu HOREHME???? is that analysed right? ehem djebehme ja ne xochu kushat, dolznho bytm djebemse; horehmem = ja xochu idti, horehmenni,
+ehenni herehme
+
+\id Stepanova_ZA_sibling_029
+\ref 9:11
+\tx Tarịt nọŋ... ammụ           ečin      biː ńan   bujusehmem
+\mb tarịt nọŋ    aman   -W        erroːčin biː ńaːn bujus -E  -m   -R(E)   -m
+\ge then    3sg       father -poss.1sg prox.qual  1sg  and    hunt  -ep -des -nonfut -1sg
+
+\tx goːnčelen                     nọŋandụn ečin      erbetlen                     ịak
+\mb goːn -čE    -(dU)LE -n(I)     nọŋandụn erroːčin erroːčin -(dU)LE -n(I)     ịak
+\ge say   -pf.ptc -loc    -poss.3sg 3sg.dat       prox.qual  prox.qual  -loc    -poss.3sg what
+
+\tx họrgaran                goːniken,     ịaka tar,  diliki, kïrïnaːs ńụčịdịč    goːmi.
+\mb họr      -Gr(E) -E-n(I) goːn -nIkEn   ịak  tarak diliki  kïrïnaːs ńụča -DI   -Č  goːn -mI
+\ge get.caught -hab   -ep-3sg say   -sim.cvb what   dist  ermine  ermine.Y    Russian  -adjr -ins say   -cond.cvb
+
+\ft Then my father, when (Afonja) said "I also want to hunt" said "in such a (trap) what gets caught, ermine, kïrïnas in
+Russian. (Actually, kïrïnas) is the Sakha word.
+\ru Потом мой отец, когда (Афоня) сказал что я тоже хочу охотиться, ему (говорил) на таком (капкан или черкан)
+попадается горностай, говоря по-русски.
+\ph
+\gr metathesis between the -m- of the Desiderative suffix and the s (h) of the Nonfuture suffix
+
+\id Stepanova_ZA_svatovstvo_14
+\ref 2:22
+\tx Ammụ           gọrụ eč          etikeŋen                  kokedeŋen                 adịkụn bịak
+\mb aman   -W        gọrụ e   -RI      etikeːn -ŋ  -E-n(I)      koke -DEŋ    -E-n(I)                 bịag
+\ge father -poss.1sg long     neg -pst.3sg old.man  -aln -ep-poss.3sg die  -pst.ptc -ep-poss.3sg            moon
+
+\tx ọːča       bihingu               omengu   aŋŋanị ọːča       bihin,            teːmi
+\mb ọː  -čE    bi -RI  -n(I)     =GU omen =GU anŋan     ọː  -čE    bi -RI  -n(I)     teːmi
+\ge become -pf.ptc be -pst -poss.3sg =q  one  =q  year       become -pf.ptc be -pst -poss.3sg therefore
+
+\tx nọŋan atịkaŋgaj                   eč          gamsa.
+\mb nọŋan atịkan  -ŋ  -GE    -J       e   -RI      ga   -m   -R
+\ge 3sg      old.woman -aln -desig -prfl.sg neg -pst.3sg take -des -neg.cvb
+
+\ft My father for a long time didn't.... either it was just a few months since his wife (she actually says husband) had died, or
+it had been one year, therefore he didn't want to take a wife.
+\ru Мой отец долго не.... то ли со смерти его жены прошло мало месяцев, то ли был 1 год, поэтому он не хотел брать
+себе жену.
+
+\id Stepanova_ZA_svatovstvo_24
+\ref 3:48
+\tx Ammụ           tọbọr emie   gọrụja     eči         gamsa,             tarịt akmị                 họː
+\mb aman   -W        tawụr   emie   gọrụ -mEjE e   -RI      ga   -m   -R       tarịt akan          -J       họː
+\ge father -poss.1sg this      also.Y long     -aug  neg -pst.3sg take -des -neg.cvb then    older.brother -prfl.sg very
+
+\tx nọŋan toŋkeri          bihin,            teːmi    akmị                 toremen
+\mb nọŋan toŋke  -RI       bi -RI  -n(I)     teːmi    akan          -J       tore  -n  -W   -E-n(I)
+\ge 3sg      respect -impf.ptc be -pst -poss.3sg therefore older.brother -prfl.sg speak -nr -acc -ep-poss.3sg
+
+\tx nọŋan ńan   eči         čịkịhma.
+\mb nọŋan ńaːn e   -RI      čịkị -m
+\ge 3sg      and    neg -pst.3sg cut.off   -des.neg.cvb
+
+\ft My father also for a long time didn't want to take (her as a wife), but then he respected his brother very much, therefore
+he also didn't want to refuse his brother.
+\ru Мой отец тоже вот долго не хотел брать, потом он очень уважал своего брата, по\тому он тоже не хотел резать слов
+брата.
+\ph
+\gr I am not sure about "eči" - Ija said it was the 'literary form' for what they would say eče, but the literary Past tense 3SG
+is "eč".
+\nt
+\qu metathesis of the Desiderative -m and part of the Neg.cvb -sE on chikihma??? Would the standard form be chikiMSa? yes,
+gahmin = xotel brat, cikihmin = xotel otrezat
+
+\id SubjectObjectIndefinite4f
+\nt
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_23:10
+\tx Maša kuruk     eben ọmọlgawan                gudʒeːmgererin,                   tarda
+\mb Maša kuruk     ewen ọmọlga -W   -E-n(I)      gudʒeː -m   -Gr(E) -RI  -n(I)     tarak =DE
+\ge Masha always.Y. Even boy        -acc -ep-poss.3sg kiss     -des -hab   -pst -poss.3sg dist  =ptl
+
+\tx bihiklen                         //  olgïnanbaran omńunnide                eče
+\mb bi -RI       -klE      -n(I)     *// olgïnanbaran omen -ńUn -n(I)     =DE  e   -čE
+\ge be -impf.ptc -conc.cvb -poss.3sg *** but.Y         one  -com  -poss.3sg =ptl neg -pf.ptc
+
+\tx haːmatta.
+\mb haː -mEČ -R(E)
+\ge know -rec  -nonfut
+
+\gr tarda bihiklen = lit. "xotja i eto bylo", with a meaning of "notwithstanding"; but here they use the Yakut expression

@@ -1,0 +1,188 @@
+\_sh v3.0  1191 Text
+
+\id Egorova_RM_Anin_1_158
+\nt
+\tx Ńanasị       neːidiwwoːttu,                    ịadụ,  dʒụːw     durulukendʒikelsen.
+\mb ńaːn -E=sI    neːgi -D    -W     -WEːČ -(R)U   ịak -DU  dʒụː -W   dur  -E  -L    -WkEn -DʒIk -E  -L  -sEn
+\ge and    -ep=emph scold  -prog -advrs -gnr    -1pl.ex what  -dat house    -acc burn -ep -inch -caus -admon -ep -pl -poss.2pl
+
+\ft And then they scolded us (we were scolded), why, you'll set fire to the house.
+\ph
+\gr 30.01.13 (questions6, 44:30) neːidiwwoːttu = munu neːiddʒoːtte (checked this to confirm advrs); durulukendʒikelsen = dom podozhgete i zagoritsja; durukendʒikelsen = prosto sozzete; 
+\nt
+\gr June 2016, admonitive elicitation: testing the "present tense" admonitive mentioned by Cincius: could one say “durulukenekelšen” (sejchas sozzete?) - NO --> durulukenʤis
+\ru И вот нас ругали, зачем, а то дом подожгете.
+\ev Нянаши нэидиввотту, яду, дюв дурулукэндикэлшэн.
+\ELANBegin 00:13:48.710
+\ELANEnd 00:13:52.750
+\ELANParticipant
+
+\id Egorova_RM_Anin_1_171
+\nt
+\tx Tačịn       dịlịkan amŋalas...             iːdʒik,    tačịn       nekenni.
+\mb tarọːčịn dilikeːn   amŋa -(dU)LE -s(I)     iː   -DʒIk tarọːčịn nek -R(E)   -nrI
+\ge dist.qual      fly         mouth -loc    -poss.2sg enter -admon dist.qual      do  -nonfut -2sg
+
+\ft So that a fly doesn't enter your mouth you do like this.
+\ph laughs, so hard to hear; but she, like her sister Raisa, pronounces dilikan very much like back vowels
+\gr
+\nt
+\gr June 2016, admonitive elicitation: testing the "present tense" admonitive mentioned by Cincius: could one say: “dilikan amŋalaš iːk!” (rot zakroj, a to sejchas muxa v rot vletit!)” -->
+amŋalaš iːk = azh muxa zashla v rot tebe
+\ru Так, чтобы муха в рот не залетела, так делаешь.
+\ev Тачин, диликан амӈанаш идик, тачин нэкэнни.
+\ELANBegin 00:14:58.370
+\ELANEnd 00:15:03.440
+\ELANParticipant
+
+\id Egorova_RM_father_farrier_030
+\ref
+\tx Guːnni     "Ịnmač    erteki       ọːšli,             iː  tawụr ọjdʒikaš!".
+\mb goːn -n(I) hịnma -Č  erek -t(E)kI ọː  -s(E)n -LI      hiː tawụr ọj -DʒIk -E  -s(I)
+\ge say   -3sg  fast    -ins prox -all    become -lim   -imp.2sg 2sg  this    ruin -admon -ep -poss.2sg
+
+\ft He said "Go away quickly, or else you'll ruin it!"
+\ph
+\gr erteki ọːšli = ubirajsja, rather grubo, kogda serdjatsja; in Sebjan they have "herri bugun oːli!" with the same meaning
+\nt
+\gr June 2016, admonitive elicitation: testing the "present tense" admonitive mentioned by Cincius: could one say “inmač erteki oːšli, ojikaš!” --> "chego ojikaš?" tolko ojʤikaš
+\ev
+\ev Гунни: "Инмач эртэки ошли, и тавар ойдикаш."
+\ru Говорит: "Ну-ка быстро уходи отсюда, а то ты это испортишь."
+
+\ELANBegin 00:02:38.375
+\ELANEnd 00:02:43.791
+\ELANParticipant RME
+
+\id Egorova_RM_Tvajan052
+\ref 5:16
+\tx Ńan   ọdụkanitan,           goːniten            nọgdak balịːdʒịkas.
+\mb ńaːn ọd -WkEn -RI  -tEn      goːn -RI  -tEn      nọgdak balịː     -DʒIk  -E-s(I)
+\ge again  stop -caus -pst -poss.3pl say   -pst -poss.3pl don't    become.blind -admon  -ep-poss.2sg
+
+\ft Then they stopped me, they said 'you mustn't', you'll become blind.
+\ru Потом запретили, сказали "не надо, а то ослепнешь".
+\ph balịːdʒakaš
+
+\id Egorova_RM_Uindja_009
+\tx Tikčikes,                edʒi        olloːtkir      talị.
+\mb tik  -DʒIk -E  -s(I)     e   -LI      hollot -kIl     tarak -(dU)LI
+\ge fall -admon -ep -poss.2sg neg -imp.2sg go     -proh.sg dist  -prol
+
+\ft Don't go there, or else you fall.
+\ph
+\gr tikčikes: bi tikriwu -- I fell, tikedden -- he is falling, tikčik -- [Look after the child, or else he] will fall (a to upadet), tikčikeriwun -- [help us, or else we] will fall (a to my upadem),
+tikčekesen -- or else you will fall (a to vy upadete). olloːtker: predosteregateljnoe naklonenie + neg.cnv
+\nt
+\gr June 2016, admonitive elicitation: testing the "present tense" admonitive mentioned by Cincius: could one say “tikekes!” (Ostorozhno, sejchas upadesh!”) --> NO, tikčinni
+\ev
+\ev
+\ELANBegin 00:00:43.250
+\ELANEnd 00:00:46.680
+\ELANParticipant RME
+\ev
+\ru Упадешь, не ходи там.
+
+\id Egorova_RM_Utakan_086
+\ref
+\tx Ńanaši     bu     talịịː         nekeddʒoːtte               "Edʒille    urgerekille         tala,         tikčikelšen,
+\mb ńaːn =sI   buː   tarak -(dU)LI =Iː  nek -E-D     -WEːČ -R(E)   e   -(LI)lrE hor -Gr(E) -kIllE   tarak -(dU)LE tik  -DʒIk -L  -sEn
+\ge and    =emph 1pl.ex dist  -prol   =emph do  -ep-prog -gnr    -nonfut neg -imp.2pl go  -hab   -proh.pl dist  -loc    fall -admon -pl -poss.2pl
+
+\tx eješendʒiš".
+\mb ejeːn -sEn      -DʒI -s
+\ge flow   -poss.2pl -fut  -2pl
+
+\ft And we (were) there, they had (said): "Don't go there or else you will fall and be swept away".
+\ph
+\nt
+\ev Нянаши бу талиии, нэкэддётты : Эдиллэ ургэрэкиллэ тала, тикчикэлшен,  эешэндиш.
+\ru И вот мы там,  делали (говорили): Не ходите там, а то упадете и уплывете.
+
+\ELANBegin 00:08:02.710
+\ELANEnd 00:08:08.510
+\ELANParticipant RME
+
+\id Evdokija_Grigorevna_Managịč_122
+\tx Edʒi        ọŋkịr      dọldadʒịkịl,   ọdlị.
+\mb e   -LI      họŋ -kIl     dọlda -DʒIk -E-L   ọd -LI
+\ge neg -imp.2sg cry    -proh.sg hear    -admon -ep-pl stop -imp.2sg
+
+\ft Don't cry or they'll hear, stop.
+\ph Lena Čerkanova pronounced it as ọŋker
+\gr (trans.file Evd_Grigna_quest_2_070709, 11:30) a to ja uslyšu = dọldadʒịm (= ja budu slyšat'), dọldadʒịkarịwụ,  a to ty uslyšeš' = dọldadʒịkas, dọldadʒịnnịdmar = za to ty uslyšeš'
+(očen' dlinnoe sobranie, no za to ty usltšeš' mnogo interesnogo); (trans.file Amganov_Twajan_trans1_RME, 01:30) *dọldadʒịkaw = no, *dọldadʒịkawụn = no; a to ja uslyšu =
+dọldadʒịkarịwụ, a to my uslyšem = dọldadʒịkarịwụn, a to ty uvidiš' = iččikes, a to on uvidit = iččik, a to on uslyšet = dọldadʒịk, a to my vse uslyšim = dọldadʒịkaltị, a to vy
+uslyšete = dọldadʒịkalsan, a to oni uslyšat = dọldadʒịkal/dọldadʒịkar
+\nt
+\gr June 2016, admonitive elicitation: testing the "present tense" admonitive mentioned by Cincius: could one say: eʤi oŋkil, doldakal! (a to sejchas uslyshat!) --> NO, there is no word
+dọldakal; 
+\gr June 2016, admonitive elicitation: is the admonitive always used when the event is unwanted, is it always negative? doldaʤikal = a to uslyshat; а это обязательно нежелательно,
+чтобы услышали, если долдадьикил сказать? всегда от этого плохого ожидаетс? = yes, vsegda ploxo bylo by esli uslyshat
+\ELANBegin 00:12:33.051
+\ELANEnd 00:12:38.160
+\ELANParticipant EGA
+\ev
+\ru Не плачь, а то услышат, перестань.
+
+\id Evdokija_Grigorevna_Managịč_136
+\tx Taŋadlị,            neːi  neːidʒikil
+\mb taŋ -E-D     -LI      neːgi neːgi -DʒIk -E-L
+\ge read -ep-prog -imp.2sg scold  scold  -admon -ep-pl
+\ft Study, or they will scold (you).
+\ph neːidʒikir
+\ELANBegin 00:13:48.503
+\ELANEnd 00:13:52.559
+\ELANParticipant EGA
+\ev
+\ru Учись, наругают.
+
+\id Paderina_Egorova_razgovor_331
+\ref
+\tx A     ọːkka..., ńanda      ńọːndʒịk tačịnnụn.
+\mb a.R   ọːk =kE   ńaːn =DE  ńọːn -DʒIk tarọːčịn =ńUn
+\ge but.R when   =ptl  and    =ptl run.away -admon dist.qual      =emph
+\ft And when.... What if she again runs away everywhere.
+\ph
+\gr June 2016, admonitive elicitation: can one use the admonitive when one wants the even to happen? --> а можно бы сказать «давай откроем калитку, может быть собака ихняя
+убежит» (например пацаны которые хулиганят, хотят повредить соседу) kalitkaw aːŋaɣar, ŋintan ńọːnʤik! --> ŋintan ńọːnʤik "a to sobaka ubezhit"; no, one should say the
+opposite, nipkeγer kalitkaw ŋintan ńọːnʤik "davaj zakroem kalitku a to sobaka ubezhit"
+\nt
+\ELANBegin 00:28:08.120
+\ELANEnd 00:28:12.540
+\ELANParticipant JIP
+\ru а когда же..Опять убежит куда попало.
+\ev А оккы,нянда нёндик тачиннун.
+
+\id Paderina_Egorova_razgovor_456
+\ref
+\tx Ńan   Vera goːweːtten,               enikennun               kọlla,       eŋuńe,        kusiketčikeš.
+\mb ńaːn Vera goːn -WEːČ -R(E)   -n(I) e   -niken       =ńUn  kọl -R       heŋun    -ńE  kusi -kEČ -DʒIk -s(I)
+\ge and    Vera say   -gnr    -nonfut -3sg  neg -fut.proh.sg =restr drink -neg.cvb be.afraid -adjr beat -mult -admon -poss.2sg
+
+\ft And Vera says "just don't drink, it's terrible, or you'll fight!"
+\ph
+\gr June 2016, admonitive elicitation: can one use the admonitive when one wants the even to happen? --> а можно ли сказать «давай их напоем, может быть они тогда подерутся»
+(если какие-то вредные люди хотят видеть драку) kolukenger, kusiketčikel --> kusiketčikel "a to oni poderutsja", opasenie; "chtoby podralisj" = kusiketteten, s nadezhdoj
+\nt
+\nt Vera is telling her mother not to drink, otherwise she'll get into a fight with Katja
+\ELANBegin 00:38:47.660
+\ELANEnd 00:38:52.860
+\ELANParticipant RME
+\ru А Вера говорит-не выпивай-страшно -подерёшься. 
+\ev Нян Вера говэттын_-Эникэннун коллэ-эӈуне-кусикэтчикэш.
+
+\id Tylkanova_LG_1_044
+\ref
+\tx Dʒọrmịdʒikel        mašinadu      ụːkandʒir          ńan   urudʒir             inu          tačịnnun.
+\mb dʒọrọm -DʒIk -E-L   mašịna -DU  ụː -WkEn -DʒI -r   ńaːn hor -U    -DʒI -r   hin     -W   tarrọːčịn =ńUn
+\ge steal       -admon -ep-pl car.R     -dat mount -caus -fut  -3pl and    go  -caus -fut  -3pl 2sg.obl -acc dist.qual       =restr
+\ft They will steal you, seat you in a car and take you whereever.
+\ph
+\gr uːkanʤir = not quite correct, it should be uːWkanʤir
+\ph maːrinadu
+\ev
+\ru Украдут на машину посадят и увезут тебя куда попало.
+\ELANBegin 00:23:47.400
+\ELANEnd 00:23:53.800
+\ELANParticipant LGT

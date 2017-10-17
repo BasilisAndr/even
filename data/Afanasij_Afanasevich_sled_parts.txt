@@ -1,0 +1,192 @@
+\_sh v3.0  1108 Text
+
+\id Afanasij_Afanasevič_sled_parts_000_metadata
+\ref Recorded on 18 March 2009 in the little winter hut of the 9th reindeer brigade near Sebjan-Küöl (about 1-1.5 hour's drive) by Brigitte
+Pakendorf. Afanasij Afanasevič named the parts of a sled while viewing a photo of a sled; unfortunately, the hut filled up as we were
+doing this, so there is quite a bit of background noise, a baby crying and gurgling, people talking quite loudly, a truck passing by, fire
+crackling
+\qu Transcribed by Ija Vasil'evna Krivoshapkina and then later translated by her into Russian; transcription in ELAN by BP, glossing by BP. Funding by
+Max Planck Society (MPRG on Comparative Population Linguistics). Speaker abbreviation = AAS
+\ref Afanasij Afanas'evič Stepanov was 57 years old at the time of recording, used to be a reindeer herder, then glava of the village, owned
+one of the shops in the village at the time of recording. Brother of Zoja Afanas'evna Stepanova.
+
+\id Afanasij_Afanasevič_sled_parts_001
+\tx [BP: kotoryj] Vot tak možno.
+\mb
+\ge
+\ft (AA, Russian): Like that it's possible.
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:03.620
+\ELANParticipant
+
+\id Afanasij_Afanasevič_sled_parts_002
+\tx Erek ọrọl              er   nartaw      ịrbaččal,            edu       gọlụ      ịrụčal            gọr    toru
+\mb erek ọrọn          -L  erek narta  -W   ịr -WEːČ -čE -L     erek -DU  gọl    -W   ịr -U    -čE    -L  gọrụ tor   -W
+\ge prox domestic.reindeer -pl prox sled.R -acc drag -gnr    -pf.ptc -pl prox -dat firewood -acc cart -caus -pf.ptc -pl far      earth -acc
+
+\tx gọlụ      ịrụčal.
+\mb gọl    -W   ịr -U    -čE    -L
+\ge firewood -acc cart -caus -pf.ptc -pl
+\ft These reindeer pulled this sled, they carted firewood, they carted firewood from afar.
+\ru Эти олени эти нарты тащили, здесь они тащили дрова, долго (издалека) дрова тащили.
+\ph
+\ELANBegin 00:00:03.620
+\ELANEnd 00:00:14.560
+\ELANParticipant
+
+\id Afanasij_Afanasevič_sled_parts_003
+\tx Taraw      er   leːmpi gerben          taːŋnar,        er   kọmụrgannị.
+\mb tarak -W   erek ljamka  gerbe -n(I)     taːn -Gr(E) -r   erek kọmụrgan -n(I)
+\ge dist  -acc prox strap.R name  -poss.3sg pull  -hab   -3pl prox collarbone.Y -poss.3sg
+
+\ft (The reindeer) pull this strap here, this is the 'collarbone'.
+\ru (Олени) эту лямку тянут, это комурган.
+\ph
+\gr taːŋnar = taːngarar, people say both, 'depending on how much time you have...'
+\nt kọmụrgan = the rounded bar at the front of the sled, cf photo
+\ELANBegin 00:00:14.560
+\ELANEnd 00:00:22.390
+\ELANParticipant
+
+\id Afanasij_Afanasevič_sled_parts_004
+\tx Tar   kọmụrgandụlị ečin      nepti,              er   leːmpi emnidʒi,     ere  ọrọndụk             erek
+\mb tarak kọmụrgan -(dU)LI erroːčin neː -B   -RI       erek ljamka  em   -RIdʒI  erek ọrọn          -DUk(U) erek
+\ge dist  collarbone.Y -prol   prox.qual  put  -med -impf.ptc prox strap.R come -ant.cvb prox domestic.reindeer -abl    prox
+
+\tx ọrọndụla            emgeren             eniken       ujepte.
+\mb ọrọn          -(dU)LE em   -Gr(E) -E-n(I) e   -nIkEn   uj     -E-B    -R
+\ge domestic.reindeer -loc    come -hab   -ep-3sg neg -sim.cvb tie.up -ep-med -neg.cvb
+
+\ft This is put like this along the komurgan, the strap having come here, it comes from this reindeer to this reindeer without being tied.
+\ru Это по комургану так кладется, лямка так придя, от этого оленя к этому оленю идет, не привязываясь.
+\ph
+\ELANBegin 00:00:22.390
+\ELANEnd 00:00:28.090
+\ELANParticipant
+
+\id Afanasij_Afanasevič_sled_parts_005
+\tx Teːmi    tar   ečin,     ee če.
+\mb teːmi    tarak erroːčin ee če
+\ge therefore dist  prox.qual  eh ptl.Y
+\ft That's why it's like this.
+\ru Поэтому это так.
+\ph
+\ELANBegin 00:00:28.090
+\ELANEnd 00:00:32.040
+\ELANParticipant
+
+\id Afanasij_Afanasevič_sled_parts_006
+\tx Er   bọllar hịŋaːkan            goːŋner,        er   boːdelen,           er   dọskụn,       er
+\mb erek buollar  hịŋaːk -E-n(I)      goːn -Gr(E) -r   erek boːdel -E-n(I)      erek doska   -n(I)     erek
+\ge prox dp.Y     jaw.Y      -ep-poss.3sg say   -hab   -3pl prox leg(s)  -ep-poss.3sg prox board.R -poss.3sg prox
+
+\tx ịlakan                ečin      paperečnaj tar   boːdelńun   erek boːdelu     ịawrar,           tarịt
+\mb ịlak     -E-n(I)      erroːčin poperečnyj tarak boːdel -ńUn erek boːdel -W   ịa    -Gr(E) -r   tarịt
+\ge crossbar.Y -ep-poss.3sg prox.qual  across.R    dist  leg(s)  -com  prox leg(s)  -acc do.what -hab   -3pl then
+
+\tx kịahịlaːwrar,        kịahị goːniken,     uhit      ujgerer.
+\mb kịahị -LE -Gr(E) -r   kịahị goːn -nIkEn   usi  -Č  uj     -Gr(E) -r
+\ge hobble.Y  -vr -hab   -3pl hobble.Y  say   -sim.cvb rope -ins tie.up -hab   -3pl
+
+\ft This is called the 'jaw', these are the 'legs', this the boards, this the crossbar, these crossbars that whatchamacallit the leg with the leg, then
+you 'hobble' it, you tie it with a rope called kiahi.
+\ru Это называют хингак, это ноги, это доску, это илак, такие поперечные, с этой ногой эту ногу что-то делают, потом кыхылаврар,
+привязывают веревкой.
+\ph
+\ELANBegin 00:00:32.040
+\ELANEnd 00:00:45.760
+\ELANParticipant
+
+\id Afanasij_Afanasevič_sled_parts_007
+\tx Er   ụragapčị gerben,         er   tọːrajan             gerbe.
+\mb erek ụragapčị gerbe -n(I)     erek tọːraj  -E-n(I)      gerbe
+\ge prox sled.sidebar  name  -poss.3sg prox crossbar.Y -ep-poss.3sg name
+
+\ft This is called uragapchi, this is called toraj.
+\ru Это называется урагапчи, это называется торай.
+\ph
+\gr
+\nt It's not quite clear whether ụragapčị is also a Sakha word; I can only find uraγas in the dictionary, which is a 'staff, pole', but since all the
+other terms have been copied without big changes, it would rather appear not to be a Sakha copy; but Ija Krivoshapkina couldn't think
+of an Even word from which it could have been derived
+\ELANBegin 00:00:45.760
+\ELANEnd 00:00:51.670
+\ELANParticipant
+
+\id Afanasij_Afanasevič_sled_parts_008
+\tx Er   haːn ńọkadị   torenduk          gapča,           hịŋaːk, tọːraj  gerbe.
+\mb erek haːn ńọka -DI   tore  -n  -DUk(U) ga   -B   -čE    hịŋaːk  tọːraj  gerbe
+\ge prox some  Sakha   -adjr speak -nr -abl    take -med -pf.ptc jaw.Y       crossbar.Y name
+
+\ft Some (terms) are taken from Sakha, hiŋak, toːraj.
+\ru Некоторые взятые из якутского языка, хингак, торай.
+\ph
+\gr
+\nt As Ija correctly remarked, it's not really that SOME terms are taken from Sakha, they practically all are.
+\ELANBegin 00:00:51.670
+\ELANEnd 00:00:56.250
+\ELANParticipant
+
+\id Afanasij_Afanasevič_sled_parts_009
+\tx Er   ebedi      torelben                        mut    pakalenie    uže      ọmŋaddap                   ebit.
+\mb erek ewen -DI   tore  -n  -L  -W   -E-n(I)      mut    pokolenie    uže      ọmŋa -D    -R(E)   -p      ebit
+\ge prox Even -adjr speak -nr -pl -acc -ep-poss.3sg 1pl.in generation.R already.R forget  -prog -nonfut -1pl.in it.seems.Y
+\ft The Even words we, our generation, seem to be forgetting.
+\ru Эвенские слова мы, наше поколение, уже забываем, оказывается.
+\ph
+\gr should be mut pakaleniet
+\nt Ija's comment: probably there never were any Even names for the parts of sleds
+\ELANBegin 00:00:56.250
+\ELANEnd 00:01:01.550
+\ELANParticipant
+
+\id Afanasij_Afanasevič_sled_parts_010
+\tx Er   slawarra             ile           tala          bičeːdʒin           bụkwarra           gerben.
+\mb erek slovar'      -(dU)LE irek  -(dU)LE tarak -(dU)LE bi -čE    -DʒI -n(I) bukvar'      -(dU)LE gerbe -n(I)
+\ge prox dictionary.R -loc    which -loc    dist  -loc    be -pf.ptc -fut  -3sg  ABC.primer.R -loc    name  -poss.3sg
+
+\ft This (these words) probably exist in dictionaries, in ABC primers.
+\ru Это наверно есть в словарях, в букварях.
+\ph
+\ELANBegin 00:01:01.550
+\ELANEnd 00:01:05.380
+\ELANParticipant
+
+\id Afanasij_Afanasevič_sled_parts_011
+\tx Tarịt mut    meːn torendur               gurgewčimi           ịamị          abịxọdnaj torendulet
+\mb tarịt mut    meːn tore  -n  -DUr         gurgeːwči -mI       ịa    -mI       obixodnyj     tore  -n  -(dU)LE -t(I)
+\ge then    1pl.in refl  speak -nr -dat.prfl.pl work        -cond.cvb do.what -cond.cvb colloquial.R  speak -nr -loc    -poss.1pl.in
+
+\tx erek ńọkadịt       gerbelken   ọːča.
+\mb erek ńọka -DI   -Č  gerbe -lkEn ọː  -čE
+\ge prox Sakha   -adjr -ins name  -prop become -pf.ptc
+\ft If we work in our language, in the colloquial language there have become a lot of Sakha names.
+\ru И если мы будем работать на свой язык (??), в обиходном языке все начало иметь якутские названия.
+\ph
+\gr
+\nt This sentence is again not really parsable, not clear what he meant, whether he meant in the beginning 'if one studies the language' or
+that the colloquial language while working has a lot of Sakha words
+\ELANBegin 00:01:05.380
+\ELANEnd 00:01:15.800
+\ELANParticipant
+
+\id Afanasij_Afanasevič_sled_parts_012
+\tx Er   boːdelen            ebedit,         ịlakan                gerbe ńọkadị,  tọːraj  gerbe ńọkadị,
+\mb erek boːdel -E-n(I)      ewen -DI   -Č  ịlak     -E-n(I)      gerbe ńọka -DI   tọːraj  gerbe ńọka -DI
+\ge prox leg(s)  -ep-poss.3sg Even -adjr -ins crossbar.Y -ep-poss.3sg name  Sakha   -adjr crossbar.Y name  Sakha   -adjr
+
+\tx hịŋaːkan            gerben          ńọkadị.
+\mb hịŋaːk -E-n(I)      gerbe -n(I)     ńọka -DI
+\ge jaw.Y      -ep-poss.3sg name  -poss.3sg Sakha   -adjr
+\ft Here, the 'legs' is in Even, but ilak is Sakha, toraj is Sakha, hingak is Sakha.
+\ru Это ноги его по-эвенски, илакан по-якутски, торай по-якутски, хингакан по-якутски.
+\ph
+\gr there is no difference in use, in meaning between gerbe and gerbeN
+\nt
+\ELANBegin 00:01:15.800
+\ELANEnd 00:01:28.550
+\ELANParticipant 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/Desktop/Sebjan_Kuel2009/sound_files/narratives/names_sled_parts.wav
+\ELANMediaMIME audio/x-wav

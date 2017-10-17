@@ -1,0 +1,437 @@
+\_sh v3.0  1176 Text
+
+\id Ichanga_Adukanov_museum000_metadata
+\ref Recorded on 22 June 2007 in Esso by Brigitte Pakendorf. The recording was done in the little ethnographic museum, with Aleksej Ichanga and his friend
+Albert Adukanov going through the exhibit, Aleksej mainly explaining things, but Albert pitching in as well. In 2007, only about 4 minutes were
+transcribed, translated and glossed in Toolbox (i.e. no time-aligned ELAN file exists for this). Unfortunately, in 2007 the video. although digitized in .avi
+format, was not converted to an .mpeg format, and I don't think we looked at the video while transcribing and translating, This made the transcription
+and translation a bit difficult at times, since it's not always clear what they're talking about. The rest of the recording was transcribed, translated and
+glossed in 2016; these are the files "Ichanga_Adukanov_muzej1_cont" and "Ichanga_Adukanov_muzej2".
+\qu Transcribed by Aleksej Ichanga, translated by Valentina Innoken'evna Axmetova, glossed by BP. Transcription checked in 2016 with Rimma Maksimovna Egorova,
+who understood AEI better than VIA did. Funding by the Max Planck Society (MPRG on Comparative Population Linguistics). Speaker abbreviations = AEI, ASA
+\ref Aleksej Evstropovich Ichanga was 46 at the time of recording. He was working in the ethnographic museum at the time. He had always been
+hard of hearing, which explains why he often doesn't hear what Albert says and therefore asks ("hunh?"), and it also explains his intonation. He is
+the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
+\ref  Al'bert Sergeevič Adukanov was 45 at the time of recording. He has since passed away.
+\tx
+
+\id Ichanga_Adukanov_museum001
+\ref 0:36
+\tx Mut    tiːk idu        biddep                   uŋe,         Bystrinskij etnografičeskij muzej.
+\mb mut    tiek  irek  -DU  bi -D    -R(E)   -p      uŋ       -E  Bystrinskij etnografičeskij muzej
+\ge 1pl.in now   which -dat be -prog -nonfut -1pl.in something -ep Bystrinskij ethnographic.R   museum.R
+
+\ft Do you know where we are now? - in the Bystrinskij ethnographic museum. \\ We are now in the Bystrinskij ethnographic museum.
+\ru Знаешь где мы сейчас находимся - в Быстринском этнографическом музее.
+\ph
+
+\id Ichanga_Adukanov_museum002
+\ref
+\tx Muzej izučaet evenov Bystrinskogo rajona [ọrọttịč].
+\mb
+\ft [in Russian]: The museum studies the Evens of the Bystrinskij district. [BP: in Even].
+
+\id Ichanga_Adukanov_museum003
+\ref
+\tx Bi   ọrọčteda        bisem,          gịawụ        tože  ọrọč.
+\mb biː ọrọč =t(E) =DE  bi -R(E)   -m   gịa  -W        tože  ọrọč
+\ge 1sg  Oroch     =ptl  =ptl be -nonfut -1sg friend -poss.1sg also.R Oroch
+
+\ft I am also an Even, my friend is also an Even.
+\ru Я тоже эвен, товарищ тоже эвен.
+\ph [ọrọtta] [ọrọt]
+
+\id Ichanga_Adukanov_museum004
+\ref
+\tx Bi   Ụjịŋkandụk    rodduk,        a     nọŋanịsị   Dụlgandụk.
+\mb biː Ụjịŋkan -DUk(U) rod    -DUk(U) a.R   nọŋan -E=sI    Dụlgan -DUk(U)
+\ge 1sg  Ujiŋkan     -abl    clan.R -abl    but.R 3sg      -ep=emph Dulgan   -abl
+
+\ft I am from the Ujiŋkan clan, and he is from the Dulgan (clan).
+\ru Я из рода Уенкан, а он - из Дулганов.
+\ph
+\gr
+\nt The actual name of the clan is Ujagankan.
+
+\id Ichanga_Adukanov_museum005
+\ref
+\tx A ... ịawčasi...
+\mb
+\ge
+\ft
+\ru
+\nt Neither Valentina Innokent'evna nor Rimma Maksimovna weres able to say what he meant to say with this.
+
+\id Ichanga_Adukanov_museum006
+\ref
+\tx Bu     bakụrịwụn           edu       Kamčatkadụ  i     tarma ịak bejdʒi            Essodu,   a    zapadnyj  poberežjedu.
+\mb buː   bakụ  -RI  -WUn         erek -DU  Kamčatka -DU  i     tarma ịak bej   -DʒI        Esso -DU  a.R  zapadnyj  poberežje -DU
+\ge 1pl.ex be.born -pst -poss.1pl.ex prox -dat Kamchatka -dat and.R but   what  self -ins.prfl.sg Esso -dat but.R western.R coast.R    -dat
+
+\ft We were born here in Kamchatka, but not in Esso itself, but on the Western coast.
+\ru Мы родились здесь, на Камчатке, но не в самом Эссо, а на западном побережя.
+\ph
+
+\id Ichanga_Adukanov_museum007
+\ref
+\tx To     uŋ       pasportalawu                   ọńattan                Twajaːndụ, nọ bi    uŋdu          ịmọlkandụ  iduwut
+\mb to     uŋ       pasport    -E-(dU)LE -W        ọńa -Č  -R(E)   -n(I) Twajaːn -DU  no.R  biː uŋ       -DU  ịmọlkan -DU  irek  -DU  =(W)UttE
+\ge that.R something passport.R -ep-loc   -poss.1sg write  -res -nonfut -3sg  Twajaːn -dat but.R 1sg  something -dat wet.tundra  -dat which -dat =indef
+
+\tx Čọpandụ   bakụrịwụ.
+\mb Čọpan  -DU  bakụ  -RI  -W
+\ge Sopočnoe -dat be.born -pst -poss.1sg
+
+\ft In my passport they wrote (that I was born) in Tvajan, but I was born somewhere in the tundra in Sopočnoe.
+\ru В моем паспорте написано в Тваяне, но я где-то на тундре в Чопанде родился.
+\ph
+\gr I am not at all sure about the form 'ọńattan', but I don't really know what else it could be; ọńaram = ja pišu; iː ọńannị = ty pišeš'; ọńadʒịnnị = ty napišeš'; mut ọńadʒịp = my napišem; ọńačan
+= napisal; bi ọńačawụ = ja napisala
+
+\id Ichanga_Adukanov_museum008
+\ref
+\tx A     uŋen                  babụška    (atlatan)              atlan,              teːmi    minu         goːndiddʒoːtte               Čọpaŋa      [laughter].
+\mb a.R   uŋ       -E-n(I)      babuška.R    hat  -(dU)LE -tEn      hat  -(dU)LE -n(I)  teːmi    min     -W   goːn -D    -WEːČ -R(E)       Čọpan  -mŋE laughter
+\ge but.R something -ep-poss.3sg grandmother.R base -loc    -poss.3pl base -loc -poss.3sg therefore 1sg.obl -acc say   -prog -gnr    -nonfut.3pl Sopočnoe -nr   laughter
+
+\ft At the base of (the mountain) Babushka (grandmother), that's why they call me Čopanga.
+\ru У подножия Бабушки, поэтому меня называют Чопанга.
+\ph
+\gr
+\nt The meaning of this was not clear to Valentina Innokent'evna, nor did she understand what they thought was so funny. It might be that 'babuška' is the name they gave to some particular place
+in that area, she didn't know this; it's not a taboo term
+\nt Rimma said that "Babushka" is the name of a mountain; Chopanga = Sopochnovskij, and Rimma also didn't know why they laughed
+
+\id Ichanga_Adukanov_museum009
+\ref
+\tx A     bi   ečiwu             kụŋa bimi         ụnụr            ịamị minu         tačịn       uŋiddʒoːtte                   ulgimiriwu.
+\mb a.R   biː e   -RI  -W        kụŋa bi -mI       ụnụ    -R       ịamị min     -W   tarọːčịn uŋ -E-D     -WEːČ -R(E)       ulgim -i   -RI  -W
+\ge but.R 1sg  neg -pst -poss.1sg child   be -cond.cvb understand -neg.cvb why      1sg.obl -acc dist.qual      do  -ep-prog -gnr    -nonfut.3pl ask   -ipf -pst -poss.1sg
+
+\ft And I, when I was small, didn't understand at all why they do (i.e. say)  like that.
+\ru А я когда был пацаном, ничего не понимал, почему так делают (=говорят), спрашивал.
+\ph [ulgimuː]
+\gr According to Valentina Innokent'evna "ulgimniwu" = ja sprosil; and "ulgimiriwu" = ja sprašival, which would make -i- a marker of imperfective aspect. Since Ichanga swallowed the ending,
+it's not clear what he actually says.
+
+\id Ichanga_Adukanov_museum009b
+\ref
+\tx Atịkan  bisin             uŋenke,      djedječenke        uŋen.
+\mb atịkan  bi -RI  -n(I)     uŋen    =kkE djadja  -čEn =kE   uŋ       -E-n(I)
+\ge old.woman be -pst -poss.3sg this.one =ptl uncle.R -dim  =emph something -ep-poss.3sg
+
+\ft There was this old woman, right, someone of the uncle.
+\ph
+\gr 05.02.13 (questions11, ) RME: "ne znaju pro kogo on govorit, naverno pro svoego djadju"
+\ru Бабушка была эта же, у дядюшки кто-то.
+\ph
+
+\id  Ichanga_Adukanov_museum010
+\ref
+\tx Bebe, Bebe biče,     vot    nọŋan tar   uŋiddʒoːtten                    Čọpaŋa      Čọpaŋa      a     nọŋanịsị   bejdʒi
+\mb Bebe  Bebe bi -čE    vot    nọŋan tarak uŋ -E-D     -WEːČ -R(E)   -n(I) Čọpan  -mŋE Čọpan  -mŋE a.R   nọŋan -E=sI    bejdʒi
+\ge Bebe  Bebe be -pf.ptc here.R 3sg      dist  do  -ep-prog -gnr    -nonfut -3sg  Sopočnoe -nr   Sopočnoe -nr   but.R 3sg      -ep=emph himself
+
+\tx Čọpaŋaduk,          Čọpandụk     bisin.
+\mb Čọpan  -mŋE -DUk(U) Čọpan  -DUk(U) bi -RI  -n(I)
+\ge Sopočnoe -nr   -abl    Sopočnoe -abl    be -pst -poss.3sg
+
+\ft Bebe, the late Bebe, he laughed Čopanga, Čopanga, but he himself was from Sopočnoe.
+\ru Бебе, покойный Бебе, вот он смеется Чопанга Чопанга, а он сам тоже Чопанга был, из Сопочное был.
+\ph
+
+\id Ichanga_Adukanov_museum011
+\ref
+\tx Ejek,   ejekmeje      bisin,            ili  ejek    ọrọčnun    amụttan.
+\mb ejek    ejek    =mEjE bi -RI  -n(I)     ili  ejek    ọrọč -ńUn am  -U    -Č  -R(E) -n(I)
+\ge Russian Russian =ptl  be -pst -poss.3sg or.R Russian Oroch     -com  mix -caus -res -nonfut -3sg
+
+\ft He was a Russian, it turns out, or Russian mixed with Even.
+\ph
+\gr 05.02.13 (questions11, 42:00) ejekmeje = on russkij, okazyvaetsja, byl
+\ru Он же ителмен был, или ителмен с эвеном смешанный был.
+\ph ọrọtnụn 
+
+\id Ichanga_Adukanov_museum012
+\ref
+\tx A     bejdʒi           djedječendule        ịak ịlkan ọrọčịl,   nọŋartan uːnteduk.
+\mb a.R   bej  -DʒI        djadja  -čEn -(dU)LE ịak ịlkan ọrọč -E-L   nọŋartan honte -DUk(U)
+\ge but.R self -ins.prfl.sg uncle.R -dim  -loc    what  true    Oroch     -ep-pl 3pl         other -abl
+
+\ft And the uncle himself (lit. in his (family)) wasn't a real Even, they were from elsewhere.
+\ru А у самого дядушки (в роду) не настоящие эвены, они не оттуда (из другого места).
+\ph
+\gr Here, ịak 'what' conveys the negative meaning; the sentence "djedječendule ịlkan ọrọčịl" would mean 'u djadji nastojaščie eveny'
+\gr 05.02.13 (questions11, 20:40) dʒedʒečen = u etogo djadji ne silno chistye eveny, dʒedʒečen - probably Ichanga's uncle
+\nt
+
+\id Ichanga_Adukanov_museum013
+\ref
+\tx Nọŋartan to     li,    v    obščem  idukutte               Magadanskij,   severnyj.
+\mb nọŋartan to     li     v    obščem  irek  -DUk(U) =(W)UttE Magadanskij    severnyj
+\ge 3pl         that.R disj.R in.R general.R which -abl    =indef   from.Magadan.R northern.R
+
+\ft They were from somewhere from the Magadan (area), from the north.
+\ru Они то ли, вобщем откуда-то из Магаданского, с севера.
+\ph
+
+\id Ichanga_Adukanov_museum014
+\ref 2:06
+\tx Erek ịakawụ   uŋe, šaman   aːwụnnị.
+\mb erek ịak -awụ uŋe  šaman   aːwụn -n(I)
+\ge prox what  -emph  now   shaman.R hat      -poss.3sg
+
+\ft Now this here is a shaman's cap.
+\ru Это, знаете что, шаманская шапка.
+\ph
+\gr This is a rhetorical question again.
+
+\id Ichanga_Adukanov_museum015
+\ref
+\tx A     ọːn ịaw      uŋŋoːtte             esem             aːr,         ornamentan              drevnij,  nọːdịkan.
+\mb a.R   ọːn ịak -W   uŋ -WEːČ -R(E)       e   -R(E)   -m   aː  -R       ornament   -E-n(I)      drevnij   nọːdịka -n(I)
+\ge but.R how    what  -acc do  -gnr    -nonfut.3pl neg -nonfut -1sg know -neg.cvb ornament.R -ep-poss.3sg ancient.R ornament     -poss.3sg
+
+\ft But how they do what, I don't know; its ornament is ancient.
+\ru А что как делают, я не знаю, орнамент его древний, узоры его.
+\ph
+
+\id Ichanga_Adukanov_museum016
+\ref
+\tx Erek uːsiːr ọːkarapụtta,       ọːkụč     aŋaːnčatan.
+\mb erek uːsiːr ọːk -(E)rEp =(W)UttE ọːk -(W)UttE haŋan -čE    -tEn
+\ge prox ancient  when   -adjr   =indef   when   -indef   sew    -pf.ptc -poss.3pl
+
+\ft This is ancient, it's not known from when, this was sewn some time ago.
+\ph
+\gr okaraputta = s kakix vremen (i.e. I don't know), okuč = kogda-to
+\ru ВИА: Это старое когда-то сделанное (=это древнее), когда-то шили.
+\ru РМЕ: Это старинное что-то, когда-то сшили не знаю.
+\ph
+\gr
+\nt
+
+\id Ichanga_Adukanov_museum017
+\ref
+\tx Erek amarda       irgen,         erek dʒulepki itin,               tarma uŋen....
+\mb erek amar   -gIdE irge -n(I)     erek dʒulepki ịtịː -n(I)     tarma uŋ       -E-n(I)
+\ge prox behind -part tail -poss.3sg prox ahead     face      -poss.3sg but   something -ep-poss.3sg
+
+\ft This back part is the tail, and this in front is the face, but how...
+\ru ВИА: Это зад, а это перед, ну как бы это...
+\ru РМЕ: Это заднее - хвост, а вот это переди лицо, но что..
+\ph
+
+\id Ichanga_Adukanov_museum018
+\ref
+\tx Erek kendette.
+\mb erek kendet        =t(E)
+\ge prox shoulderblade =ptl
+
+\ft This is a shoulderblade.
+\ru Это вот лопатка.
+\ph [kïndïttä]
+
+\id Ichanga_Adukanov_museum019
+\ref
+\tx Kendetli              ịaw      uŋiddʒoːtte,                  ọːnka    uŋŋoːtte.
+\mb kendet        -(dU)LI ịak -W   uŋ -E-D     -WEːČ -R(E)       ọːn =kkE uŋ -WEːČ -R(E)
+\ge shoulderblade -prol   what  -acc do  -ep-prog -gnr    -nonfut.3pl how    =ptl do  -gnr    -nonfut.3pl
+
+\ft Do you know what they do on a shoulderblade, how they do?
+\ru Знаете, что по лопате делают?
+\ru На лопате что делали, как же делали.
+
+\id Ichanga_Adukanov_museum019b
+\ref
+\tx Ọːn awụskị      ŋiː urdʒin        a     gịrkadmị            tarkka     uŋen,                 treščina erkke     kaltamčaka
+\mb ọːn aw    -skI      ŋiː ur -DʒI -n(I) a.R   gịrka -D    -mI       tarak =kkE uŋ       -E-n(I)      treščina erek =kkE kaltam -čE    =kkE
+\ge how    where -advb.all who   go -fut  -3sg  but.R walk    -prog -cond.cvb dist  =ptl something -ep-poss.3sg crack.R    prox =ptl crack  -pf.ptc =ptl
+
+\ft How, where someone (lit. who) will go, and when he goes, here's the crack, it's cracked here.
+\ru ВИА: Вот кто куда пойдет, вот же трещина.
+\ru РМЕ: Как куда кто пойдет, а когда идет, вот что, трещина вот это же треснуто.
+\ph
+\nt This was very very hard to translate, because it's so neskladno. Valentina Innokent'evna suggested this Even variant: "Kaltamča ičuketten ọtarman, ŋiːke awụski urdʒin." = Treščina
+pokazyvaet dorogu, kto kuda poedet.
+
+\id Ichanga_Adukanov_museum020
+\ref
+\tx Talị        kojeːtčoːtte             awụskị      dʒapkadʒịn,        ọːnuttasi          dʒapkadʒịn         ičuketčoːtten.
+\mb tarak -(dU)LI kojeːt -WEːČ -R(E)       aw    -skI      dʒapka -Č -n(I)      ọːn =(W)UttE =sI   dʒapka -Č -n(I)      it  -WkEn -Č  -WEːČ -R(E)   -n(I)
+\ge dist  -prol   look.at -gnr    -nonfut.3pl where -advb.all correct -ins -poss.3sg how    =indef   =emph correct -ins -poss.3sg see -caus -res -gnr    -nonfut -3sg
+
+\ft On it (a shoulderblade) they look, where to go correctly, somehow it shows correctly (i.e. the right way).
+\ru По нему смотрят, куда правильно, как-то правильно показывает.
+\ph
+\gr
+\nt He probably wanted to say that with a shoulderblade people find out which way to go, which is the most correct.
+
+\id Ichanga_Adukanov_museum022
+\ref
+\tx Tiːrke    bu     gịrkawaːčịddịwun                   ịarụtaddiwụn                   kendetič,            ńan   čelewen
+\mb tiːr =kkE buː   gịrka -WEːČ -E-D     -RI  -WUn         ịarụt -E-D     -RI  -WUn         kendet        -E-Č   ńaːn čele -W   -E-n(I)
+\ge then  =ptl 1pl.ex walk    -gnr    -ep-prog -pst -poss.1pl.ex try.out   -ep-prog -pst -poss.1pl.ex shoulderblade -ep-ins again  all   -acc -ep-poss.3sg
+
+\tx ičukenin                ọːn ŋeniddʒiru.
+\mb it  -WkEn -RI  -n(I)     ọːn ŋen -E-D     -DʒI -(R)U
+\ge see -caus -pst -poss.3sg how    go   -ep-prog -fut  -1pl.ex
+
+\ft Recently when we went we tried out the shoulderblade, and it showed everything, how we were going to go.
+\ru ВИА: Тогда мы ходили, пробовали лопаткой, и все показала, как мы будем идти.
+\ru РМЕ: Недавно вот мы когда ходили, проверяли на лопатке, и все показал как мы будем идти.
+\ph
+\gr gịrkawaːččịddịwụn = gịrkaddʒọːttịwụn
+
+\id Ichanga_Adukanov_museum023
+\ref 3:05
+\tx Ičukenin                ọːn Milkovoli       ŋenčewun                ńan   tadụk       Sanụttakị,  ńan   Sanụttụk    nan    uŋteki
+\mb it  -WkEn -RI  -n(I)     ọːn Milkovo -(dU)LI ŋen -čE    -WUn         ńaːn tarak -DUk(U) Sanụt -t(E)kI ńaːn Sanụt -DUk(U) ńaːn uŋ       -t(E)kI
+\ge see -caus -pst -poss.3sg how    Milkovo -prol   go   -pf.ptc -poss.1pl.ex again  dist  -abl    Sanuč  -all    again  Sanuč  -abl    again  something -all
+
+\tx urriwun.
+\mb ur -RI  -WUn
+\ge go -pst -poss.1pl.ex
+
+\ft It showed how we went via Milkovo and from there to Sanuč, and from Sanuč we went there.
+\ru Показала, как по Мильково мы шли до Сануча, и из Сануча туда ушли.
+\ru
+\ph
+\gr uŋteki = filler word, when you don't know how to express yourself; urriwun = went on foot; badụsnịwụn = went by some form of transport (this must have been written in 2007, by now I
+think it's fairly clear that hor- is just a general motion verb "go")
+
+\id Ichanga_Adukanov_museum024
+\ref
+\tx Ọːnka    ŋeniddiwun                     Managịslị,    Managịstụk    ńan   uŋduk            tarma uŋduk            Ublukadukta
+\mb ọːn =kkE ŋen -E-D     -RI  -WUn         Managịs -(dU)LI Managịs -DUk(U) ńaːn uŋ       -DUk(U) tarma uŋ       -DUk(U) Ubluka     -DUk(U) =DE
+\ge how    =ptl go   -ep-prog -pst -poss.1pl.ex Managis   -prol   Managis   -abl    again  something -abl    but   something -abl    Oblukovina -abl    =ptl
+
+\tx dʒapkadʒịn         tarkka     treskeːrin             ečin      tačịnnun           kaltamnịn.
+\mb dʒapka -Č -n(I)      tarak =kkE treskeː -RI  -n(I)     erroːčin tarrọːčịn =nun  kaltam -RI  -n(I)
+\ge correct -ins -poss.3sg dist  =ptl crack.R  -pst -poss.3sg prox.qual  dist.qual       =emph crack  -pst -poss.3sg
+
+\ft (It showed) how we went via Managis, from Managis and from somewhere, but from Oblukoviny (it showed) correctly, and from there on it cracked any which way.
+\ru Как мы ехали по Манагыс, из Манагыс и оттуда, но оттуда из Облуковины правильно, а оттуда стала трескаться как попало.
+\ph [Ublukadukma] ičin
+\gr tarka = vot že; ičin = vot; tačịn = vot tak; ičin tačịn = kak popalo;
+
+\id Ichanga_Adukanov_museum025
+\ref
+\tx Ńan   tala          ekič     ụnụr            bisin             ịamị tačịn       kaltamnịn,          zaris uŋe ečiwun               ụnụr,
+\mb ńaːn tarak -(dU)LE e   -kIč ụnụ    -R       bi -RI  -n(I)     ịamị tarọːčịn kaltam -RI  -n(I)     zaris uŋe e   -RI  -WUn         ụnụ    -R
+\ge again  dist  -loc    neg -nr   understand -neg.cvb be -pst -poss.3sg why      dist.qual      crack  -pst -poss.3sg ????  now  neg -pst -poss.1pl.ex understand -neg.cvb
+
+\tx prosto   mergeːčiddiwun,                   ọːn ịamị tačịn       kaltamnịn.
+\mb prosto   mergeːt -E-D     -RI  -WUn         ọːn ịamị tarọːčịn kaltam -RI  -n(I)
+\ge simply.R think    -ep-prog -pst -poss.1pl.ex how    why      dist.qual      crack  -pst -poss.3sg
+
+\ft And it was impossible to understand, why it cracked like that, and we couldn't understand, simply thought, why did it crack like that.
+\ru И это невозможно было понять, почему так трескалась, и мы не могли понять, просто думали, почему так трескалась.
+\ph
+\gr ty ne možeš' ponjat' = iː etenni ụnụr; ja ne mogu ponjat' = bi etem ụnụr
+\nt zaris = Valentina Innokent'evna also cannot understand, what he wanted to say with this word, we cannot even figure out whether it's Russian or Even
+
+\id Ichanga_Adukanov_museum026
+\ref
+\tx Ńan   emnidʒur         nan    tarkka     mergeːčidʒilliwun                         ịamị dʒapkadʒịnmaja,          ọːnka    vertolet
+\mb ńaːn em   -RIdʒI  -L  ńaːn tarak =kkE mergeːt -E-D     -E-L     -RI  -WUn         ịamị dʒapka -Č -n(I)      =mEjE ọːn =kkE vertolet
+\ge again  come -ant.cvb -pl again  dist  =ptl think    -ep-prog -ep-inch -pst -poss.1pl.ex ptl      correct -ins -poss.3sg =ptl  how    =ptl helicopter.R
+
+\tx deggoːtten               tačịnda          ńan   uŋnin.
+\mb deg -WEːČ -R(E)   -n(I) tarọːčịn =DE  ńaːn uŋ -RI  -n(I)
+\ge fly -gnr    -nonfut -3sg  dist.qual      =ptl again  do  -pst -poss.3sg
+
+\ft And when we got back we started to think, why, it appears it's right, like the helicopter flies, that's what it showed.
+\ph
+\gr 05.02.13 (questions11, 43:45) dʒapkadʒịnmaja = okazyvaetsja, tochno
+\ru И когда мы пришли мы стали думать, оказалось правильно, как вертолет летает, так и показал.
+
+\id Ichanga_Adukanov_museum027
+\ref
+\tx [Ah tačịnda          uŋnin?]           Ičukenin                čelewen.
+\mb ah  tarọːčịn =DE  uŋ -RI  -n(I)     it  -WkEn -RI  -n(I)     čele -W   -E-n(I)
+\ge ah  dist.qual      =ptl do  -pst -poss.3sg see -caus -pst -poss.3sg all   -acc -ep-poss.3sg
+\ft [Adukanov: Ah, that's what it did?] It showed it all.
+\ru А, так и сделал? - Все показал.
+
+\id Ichanga_Adukanov_museum028
+\ref 3:54
+\tx Erek doskajakan     uːsiːreː,   tarma vot    esem             aːr          ŋiːŋiwuč,             čajčabalŋịke
+\mb erek doska   -jEkEn uːsiːr =eː  tarma vot    e   -R(E)   -m   aː  -R       ŋiː -ŋI       =(W)UttE čajčaba               -L  -ŋI       =kE
+\ge prox board.R -dim   ancient  =emph but   here.R neg -nonfut -1sg know -neg.cvb who   -pred.poss =indef   reindeer.herding.Koryak -pl -pred.poss =emph
+
+\tx ehni             bihe,       erek Anikeja      boːtleten.
+\mb e   -R(E) -n(I)  bi -R       erek Anike =jE    boː -tlE     -tEn
+\ge neg -nonfut -3sg be -neg.cvb prox Anike =assoc give -pst.ptc -poss.3pl
+
+\ft This board is very old, but I don't know, whose, probably it's Koryak, it was given (to the museum) (a long time ago) by Anike and her family (an old Koryak woman who has already passed
+away).
+\ru Это доска старая, только не знаю, чья, наверно от коряков, это Анике давала (когда-то).
+\ph [enni-bihe]
+\gr Anike boːtlen = Anike davno davala - one can also say "Anike boːčen"; ja davno davala = bi tiːtel buriwu \\ bi boːčewu; ja davno kupila = bi unitlewu \\ uničewu
+
+\id Ichanga_Adukanov_museum029
+\ref
+\tx Erek bejiken,     bejiker          tar   uŋe          ịak ọrọčịlŋịda,             esep                aːr          kọč
+\mb erek bej -KEn     bej -KEn     -L  tarak uŋ       -E  ịak ọrọč -E  -L  -ŋI       =DE  e   -R(E) -p        haː -R       kọč
+\ge prox man -dim.int man -dim.int -pl dist  something -ep what  Oroch     -ep -pl -pred.poss =ptl neg -nonfut -1pl.in know -neg.cvb probably
+
+\tx čajčabaldụk                     ọːdịtan,         iŋe?
+\mb čajčaba               -L  -DUk(U) ọː  -RI  -tEn      ịŋa
+\ge reindeer.herding.Koryak -pl -abl    become -pst -poss.3pl yes
+
+\ft This doll, dolls, aren't Even, but we don't know, maybe they were made by Koryaks, yes?
+\ru Эта кукла, куклы, не эвенская, мы не знаем, может быть от коряков сделана, да?
+\ph
+\gr The negativeness in 'bejeker tar kụŋa ịak ọrọčịlŋịda' is expressed by the particle -da. ịakawụ = čto eto; ịak = čto, but also just a filler word
+
+\id Ichanga_Adukanov_museum030
+\ref
+\tx [Kọče]    Ili  čukčelduk?
+\mb kọč   -E  ili  čukča -L  -DUk(U)
+\ge probably -ep or.R Chukchi -pl -abl
+
+\ft [Adukanov: Probably.] Or from Chukchis?
+\ru Наверно. - Или от чукчей?
+
+\id Ichanga_Adukanov_museum031
+\ref
+\tx Uːsiːr tiːtelerep      čto-to         esem             dʒọŋčịr            čto   ečin      ọːttitan.
+\mb uːsiːr tiːtel  -(E)rEp čto   - to     e   -R(E)   -m   dʒọn  -(k)čI -R       čto   erroːčin ọː -Č  -RI -tEn
+\ge ancient  long.ago -adjr   what.R - that.R neg -nonfut -1sg remember -dur    -neg.cvb what.R prox.qual  make  -res -pst -poss.3pl
+
+\ft It's very old, I don't remember that they made it this way.
+\ru Старинное, я не помню, что так делали.
+\ph he actually says something like "potom" in the very beginning
+\gr bi dʒọŋčịram = ja pomnju; iː dʒọŋčịnnị = ty pomniš'; dʒọŋčịdʒịnnị = budeš' pomnit'; dʒọŋčịllị = pomni!; dʒọŋčịŋannị = pomni vsegda; ečin = vot tak vot
+
+\id Ichanga_Adukanov_museum032
+\ref
+\tx Mut    muttule        ọrọčịldụla      mọːdụk    ọːwaːtta,              ńan   keńeli bejiken      ọnnọːtte
+\mb mut    mut    -(dU)LE ọrọč -E-L   -(dU)LE mọː -DUk(U) ọː  -WEːČ -R(E)       ńaːn keńeli bej -KEn     họn -WEːČ -R(E)
+\ge 1pl.in 1pl.in -loc    Oroch     -ep-pl -loc    tree   -abl    become -gnr    -nonfut.3pl again  bad     man -dim.int chop  -gnr    -nonfut
+
+\tx uleːweːtte.
+\mb uleː -WEːČ -R(E)
+\ge throw -gnr    -nonfut
+
+\ft But among the Evens they made (dolls) out of wood, and a bad doll they would chop up and throw away.
+\ru А у нас, эвенов, из дерева делали, и плохой человечек рубил и выкидывал.
+
+\id Ichanga_Adukanov_museum033
+\ref
+\tx Ịak uŋe ewkilbe       uŋniten,          a     ewki bisin             tarkka     bejtede            urečin,  omen_ịlkị.
+\mb ịak uŋe ewki -L  -W   uŋ -RI  -tEn      a.R   ewki bi -RI  -n(I)     tarak =kkE bej =t(E)     =DE  ureːčin omen_hịlkị
+\ge what  now  god  -pl -acc do  -pst -poss.3pl but.R god  be -pst -poss.3sg dist  =ptl man =utočnit =ptl similar   all.the.same
+
+\ft They didn't make gods, but (a) god was also like a human, similar, identical.
+\ru Не боги делали, а бог был тоже как человек похоже, одинаково.
+
+\id Ichanga_Adukanov_museum034
+\ref
+\tx Ịak čajčabal                  uːnteč,   mutŋi            uːntete.
+\mb ịak čajčaba               -L  uːnte -Č  mut    -ŋI       honte =t(E)
+\ge what  reindeer.herding.Koryak -pl other  -ins 1pl.in -pred.poss other =utočnit
+
+\ft The Koryaks (do it) one way, and we (do it) differently.
+\ru У коряков так, а у нас так.

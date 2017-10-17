@@ -1,0 +1,528 @@
+\_sh v3.0  1066 Text
+
+\id Stepanova_ZA_hunting_stado_000_metadata
+\ref Recorded on 16 March 2008 in Sebjan-Küöl by Brigitte Pakendorf in in evening in living room of her house, she dressed up in
+Even costume. Only I was present, but her daughter was on the phone in the next room, and her 1-year old grandson was
+occasionally audible as well; longish single recording broken up into several pieces to facilitate transcription and glossing
+\qu Transcribed by BP, transcription checked by Ija Vasil'evna Krivoshapkina, who also did the Russian translation; some words checked with
+speaker, glossed by BP. Speaker abbreviation = ZAS
+\ref Zoja Afanas'evna Stepanova was 58 years old at time of recording, primary school teacher, social pedagogue (socpedagog) and
+leader of folklore ensemble Merlenke, very much in favour of literary/standard Even language, feels that there are not many
+differences between different dialects, mutual intelligibility, very much against all the mixing of Even and Sakha here in Sebjan
+(“eto ne Lamunxinskij govor”), very interested in Even folklore and language. Sister of Afanasij Afanas'evič Stepanov
+
+\id Stepanova_ZA_hunting_stado_01
+\ref 9:49
+\tx Tarịt muttule        erbečen   ịak bihni.
+\mb tarịt mut    -(dU)LE erroːčin ịak bi -R(E)   -n(I)
+\ge then    1pl.in -loc    prox.qual  what  be -nonfut -3sg
+
+\ft And then we have such a (tradition).
+\ru Потом у нас есть вот такое.
+\ph
+\gr
+\nt This is the continuation of Zoja Afanasevna's narrative about her family and childhood. Since she tells about some traditions in this
+part, and only fairly briefly comes back to the topic of her brother, I decided to turn it into a separate database.
+
+\id Stepanova_ZA_hunting_stado_02
+\ref 9:54
+\tx Ọdʒaptị            toŋkepti,             haːwdị beju     họː toŋkepti.
+\mb ọdʒa  -B   -RI       toŋke  -B   -RI       hagdị   bej -W   họː toŋke  -B   -RI
+\ge care.for -med -impf.ptc respect -med -impf.ptc old       man -acc very   respect -med -impf.ptc
+
+\ft Caring for, respecting, respecting old people very much.
+\ru Оберегание, уважение большое уважение к старому человеку.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_hunting_stado_03
+\ref 10:00
+\tx Teːmi    hiː aj   bujusimŋe          ọːdajị,              nọnap    maːdaŋị            objazatelno
+\mb teːmi    hiː aj   buju -s    -E-mŋE  ọː  -DE       -J       nọnap    maː -DEŋ    -J       objazatelno
+\ge therefore 2sg  good hunt -mult -ep-agnr become -purp.cvb -prfl.sg the.first. kill -pst.ptc -prfl.sg without.fail.R
+
+\tx haːwdị bejdu    boːnnes.
+\mb hagdị   bej -DU  boː -nnE     -s(I)
+\ge old       man -dat give -nec.ptc -poss.2sg
+
+\ft Therefore, in order for you to become a good hunter, you absolutely have to give your first kill to an old person.
+\ru Поэтому ты чтобы стать хорошим охотником первую добычу ты обязательно должен дать старому человеку.
+\ph
+\gr
+\nt
+\qu
+
+\id Stepanova_ZA_hunting_stado_04
+\ref 10:07
+\tx Ńịmaːdụ        gerben          tarak, ńịmaːdannas.
+\mb ńịmaːdụ        gerbe -n(I)     tarak  ńịmaːdụ        -nnE     -s(I)
+\ge share.hunting.spoils name  -poss.3sg dist   share.hunting.spoils -nec.ptc -poss.2sg
+
+\ft That is called nimat, you have to share the hunting spoils.
+\ru Это называется нимат, ты должен сделать нимат.
+\ph
+\gr The first word should actually be the bare noun, which however would be "nịmat". I therefore think that Zoja Afanasevna said the
+bare root of the verb here, perhaps a speech error.
+\nt
+
+\id Stepanova_ZA_hunting_stado_05
+\ref 10:09
+\tx Nọŋan ele          mut    upeː       goːniken      họː herwiŋteri              herwiŋteridu
+\mb nọŋan erek -(dU)LE mut    upeː       goːn -nIkEn   họː herwiŋte      -RI       herwiŋte      -RI       -DU
+\ge 3sg      prox -loc    1pl.in grandmother say   -sim.cvb very   respect.deeply -impf.ptc respect.deeply -impf.ptc -dat
+
+\tx muttu       nọŋńụntan          nulgeweːttit.
+\mb mut    -DU  nọŋan -ńUn -tEn      nulge   -WEːČ -RI  -t(I)
+\ge 1pl.in -dat 3sg      -com  -poss.3pl migrate -gnr    -pst -poss.1pl.in
+
+\ft Here there was our granny, very much respected by us, we always migrated with them.
+\ru Здесь была наша бабушка, очень уважаемая нами, мы с ними постоянно кочевали.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_hunting_stado_06
+\ref 10:18
+\tx Ńimeːrel       bihidnen          tarak muttu       ńan   dʒaːltị               bihidnen          tar
+\mb ńimer    -E-L   bi -RI  -tEn      tarak mut    -DU  ńaːn dʒaː   -L  -t(I)        bi -RI  -tEn      tarak
+\ge neighbour -ep-pl be -pst -poss.3pl dist  1pl.in -dat and    relative -pl -poss.1pl.in be -pst -poss.3pl dist
+
+\tx Kejmetinoval    gerben,         Krivošapkina Ekaterina Dmitrievna gerben.
+\mb Kejmetinova -L  gerbe -n(I)     Krivošapkina Ekaterina Dmitrievna gerbe -n(I)
+\ge Kejmetinova -pl name  -poss.3sg Krivoshapkina Ekaterina Dmitrievna name  -poss.3sg
+
+\ft She was a neighbour, and she was also family, those Kejmetinovs, her name was Ekaterina Dmitrievna Krivošapkina.
+\ru Была семья они нам тоже были родственники, это Кейметиновы, КЕД.
+\ph
+\gr
+\nt A bit odd that she at first said she was a Kejmetinova, and then Krivoshapkina - but then, those are the most common surnames
+here, and she may just have made a mistake.
+\qu
+
+\id Stepanova_ZA_hunting_stado_07
+\ref 10:27
+\tx Nọŋman               mut    upeː       goːniken      gerbekkerrit
+\mb nọŋan -W   -n(I)     mut    upeː       goːn -nIkEn   gerbe -Č  -Gr(E) -RI  -t(I)
+\ge 3sg      -acc -poss.3sg 1pl.in grandmother say   -sim.cvb name  -res -hab   -pst -poss.1pl.in
+
+\ft We called her granny.
+\ru Мы ее называли упе.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_hunting_stado_08
+\ref 10:30
+\tx Gerbewen                eti           haːr         bihit                muttu...    elekes   hegdʒelberidʒur
+\mb gerbe -W   -E-n(I)      e   -RI       haː -R       bi -RI  -t(I)        mut    -DU  elekes   egdʒen -LbE -RIdʒI  -L
+\ge name  -acc -ep-poss.3sg neg -impf.ptc know -neg.cvb be -pst -poss.1pl.in 1pl.in -dat at.first big     -vr  -ant.cvb -pl
+
+\tx haːr...     haːllịt                   nọŋan gerbewen.
+\mb haː -R(E)   haː -L    -RI  -t(I)        nọŋan gerbe -W   -E-n(I)
+\ge know -nonfut know -inch -pst -poss.1pl.in 3sg      name  -acc -ep-poss.3sg
+
+\ft We didn't know her name, only when we had grown up did we learn her name.
+\ru Мы не знали ее имени, вырастя только мы узнали ее имя.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_hunting_stado_09
+\ref 10:39
+\tx Mut,   muttule        ebeheldule        bihni            bejelbu         haːgdị
+\mb mut    mut    -(dU)LE ewen -SEl -(dU)LE bi -R(E)   -n(I) bej -E-L   -W   hagdị
+\ge 1pl.in 1pl.in -loc    Even -pl  -loc    be -nonfut -3sg  man -ep-pl -acc old
+
+\tx bejelbu         gerbedʒitnen                esten           gerbukkerer.
+\mb bej -E-L   -W   gerbe -DʒI        -tEn      e   -R(E)       gerbu -Č  -Gr(E) -R
+\ge man -ep-pl -acc name  -ins.prfl.sg -poss.3pl neg -nonfut.3pl call  -res -hab   -neg.cvb
+\ft Amongst us, amongst Evens one does not call old people by their own name.
+\ru У нас, у эвенов есть старых людей по имени не называют.
+\ph
+\gr although it would seem to be odd that you have a Possessive suffix following on the Reflexive Possessive Instrumental suffix, this is
+definitely how Ija Krivoshapkina explained it
+\nt
+
+\id Stepanova_ZA_hunting_stado_10
+\ref 10:47
+\tx Upeː       goːndʒir,      abaga       goːndʒir,      akị                    goːndʒir,      akaː
+\mb upeː       goːn -DʒI -r   abaga       goːn -DʒI -r   akị                    goːn -DʒI -r   akan          -Eː
+\ge grandmother say   -fut  -3pl grandfather say   -fut  -3pl older.brother.respectful say   -fut  -3pl older.brother -voc
+
+\tx goːndʒir,      ekeː             goːndʒir.
+\mb goːn -DʒI -r   eken         -Eː goːn -DʒI -r
+\ge say   -fut  -3pl older.sister -voc say   -fut  -3pl
+
+\ft They'll say granny, they'll say grandfather, they'll say Aki, they'll say aka, they'll say eke.
+\ru Скажут бабушка, скажут дедушка, скажут акаа, экээ.
+\ph
+\gr
+\nt akị is a very respectful term for 'older brother', e.g. akịńdʒa edet = moj starshij brat edet
+
+\id Stepanova_ZA_hunting_stado_11
+\ref 10:53
+\tx Tarịt ịak biheken                   haːwdịda  bejel      esten       gerbutte
+\mb tarịt ịak bi -REk      -E-n(I)      hagdị =DE  bej -E-L   e   -R(E)   gerbu -Č  -R
+\ge then    what  be -cond.cvb -ep-poss.3sg old     =ptl man -ep-pl neg -nonfut call  -res -neg.cvb
+
+\ft So if something happens (what Zoja Afanasevna meant here is unclear), even old people don't call (old people) by their name.
+\ru Потом если что бывает, и старые люди не называют.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_hunting_stado_12
+\ref 10:59
+\tx Biː ammụ           naprimer      ečin      goːniken      gerbutti             bihitnen,         Agaːpị
+\mb biː aman   -W        naprimer      erroːčin goːn -nIkEn   gerbu -Č  -RI       bi -RI  -tEn      Agafja
+\ge 1sg  father -poss.1sg for.example.R prox.qual  say   -sim.cvb call  -res -impf.ptc be -pst -poss.3pl Agafja
+
+\tx amannị         goːniken,      egdʒen kụŋadʒịn.
+\mb aman   -n(I)     goːn -nIkEn    egdʒen kụŋa -Č  -n(I)
+\ge father -poss.3sg say   -sim.cvb  big     child   -ins -poss.3sg
+
+\ft For example they called my father like this, Agafja's father, after his eldest child.
+\ru Моего отца например так называли, отец Агафьи, по старшему ребенку.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_hunting_stado_13
+\ref 11:03
+\tx er   biː upeːwu                    ejmu             ekmen
+\mb erek biː upeː       -W   -W        enen   -W        eken         -W   -E-n(I)
+\ge prox 1sg  grandmother -acc -poss.1sg mother -poss.1sg older.sister -acc -ep-poss.3sg
+
+\tx ere  Duńa eńinni          goːniken,     Nikifor eńinni          goːniken,     tačịn       gerbutti[t].
+\mb erek Duńa enen   -n(I)     goːn -nIkEn   Nikifor enen   -n(I)     goːn -nIkEn   tarọːčịn gerbu -Č    -RI  -t(I)
+\ge prox Dunja mother -poss.3sg say   -sim.cvb Nikifor mother -poss.3sg say   -sim.cvb dist.qual      call  -res   -pst -poss.1pl.in
+
+\ft My grandmother, my mother's older sister, we used to call "mother of Dunja", "mother of Nikifor".
+\ru Мою бабушку старшую сестру матери, называли мать Дуни, мать Никифора.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_hunting_stado_14
+\ref 11:13
+\tx Gerbedʒin          etil              gerbutte.
+\mb gerbe -Č -n(I)     e   -RI       -L  gerbu -Č  -R
+\ge name -ins -poss.3sg neg -impf.ptc -pl call  -res -neg.cvb
+
+\ft They don't call (people) by their own names.
+\ru По собственному имени не называют.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_hunting_stado_15
+\ref 11:15
+\tx Tarịt tarak noːwu                    nedlem            maːrịdʒị, tarak upeːlej
+\mb tarịt tarak noː            -W        nedlen       -W   maː -RIdʒI    tarak upeː       -(dU)LE -J
+\ge then    dist  younger.sibling -poss.1sg type.of.bird -acc kill -ant.cvb   dist  grandmother -loc    -prfl.sg
+
+\tx ńịmaːdan.
+\mb ńịmaːdụ               -n(I)
+\ge share.hunting.spoils.nonfut -3sg
+
+\ft Then after my younger brother had killed a nedlen, he shared that with his grandmother.
+\ru Потом мой брат убив птицу недлен, уделил этой своей бабушке.
+\ph
+\gr
+\nt nedlen is a grey-brown bird that is eaten itself, and the eggs of which are eaten
+
+\id Stepanova_ZA_hunting_stado_16
+\ref 11:23
+\tx Dʒụːla       tegečiddin,                             tar   upeː       muttule        ńimegneridʒi,
+\mb dʒụː -(dU)LE teg      -E-Č   -E-D     -RI  -n(I)     tarak upeː       mut    -(dU)LE nimegne          -RIdʒI
+\ge house    -loc    sit.down -ep-res -ep-prog -pst -poss.3sg dist  grandmother 1pl.in -loc    visit.neighbours -ant.cvb
+
+\tx emnidʒi      "upeː,     ma"   goːniken      boːčelen.
+\mb em   -RIdʒI  upeː       ma    goːn -nIkEn   boː -čE    -(dU)LE -n(I)
+\ge come -ant.cvb grandmother here! say   -sim.cvb give -pf.ptc -loc    -poss.3sg
+
+\ft She was sitting in the house, that granny had come to us for a visit, when he gave (her the prey) with the words "here, granny".
+\ru Она сидела в доме, это бабушка к нам пришла в гости, когда он дал со словами, бабушка на.
+\ph
+\gr
+\nt It's not clear from the sentence or the context who's sitting in the house, the babushka or the brother, though it is more likely that
+she was sitting in the house, having come for a visit, and that he came from the hunt.
+
+\id Stepanova_ZA_hunting_stado_17
+\ref 11.28
+\tx Taraŋan                naŋtịhnịdʒị      naŋtịhnakan                         bol..   ečin    bọldakụ,
+\mb tarak -ŋ  -E-n(I)      naŋtị -s(E)n -RIdʒI  naŋtị -s(E)n -REk      -E-n(I)      *bo -L  e   -RI  bụldan      -kU
+\ge dist  -aln -ep-poss.3sg grab     -lim   -ant.cvb grab     -lim   -cond.cvb -ep-poss.3sg *** -pl neg -pst be.disgusting -adjr
+
+\tx taraw      ọlọldarịdʒị   ọpọpọp goːnidʒi     uleːdni    torle.
+\mb tarak -W   ọlalda      -RIdʒI  ọpọpọp goːn -RIdʒI  uleː -n(I) tor   -(dU)LE
+\ge dist  -acc be.frightened -ant.cvb opopop       say   -ant.cvb throw -3sg  earth -loc
+
+\ft When she grabbed that it was something soft and slimy, and she got a fright, said "opopop" and threw it to the ground.
+\ru Схватив, когда она схватила это было болдаку, на это испугавшись, сказав "опопоп" бросила на землю.
+\ph
+\gr
+\nt bụldakụ is something disgusting, soft and slimy
+
+\id Stepanova_ZA_hunting_stado_18
+\ref 11:37
+\tx Tarịt noːwu                    ọːnda    esni              goːne.
+\mb tarịt noː            -W        ọːn =DE  e   -R(E)   -n(I) goːn -R
+\ge then    younger.sibling -poss.1sg how    =ptl neg -nonfut -3sg  say   -neg.cvb
+
+\ft My brother didn't say anything.
+\ru Потом мой брат ничего не сказал. 
+\ph andasni
+\gr it should by rule by goːn for the negative converb of 'say'
+\nt
+
+\id Stepanova_ZA_hunting_stado_18b
+\ref
+\tx Tarịt amarla       ńan   ịawgụl        maːrịdʒị čaːmakụkụ   ịawgụl        maːrịn.
+\mb tarịt amar -(dU)LE ńaːn ịak -W   =(W)Ul maː -RIdʒI   čaːmak -W   =GU ịak -W   =(W)Ul maː -RI  -n(I)
+\ge then    last -loc    and    what  -acc =indef kill -ant.cvb  tarbagan -acc =q  what  -acc =indef kill -pst -poss.3sg
+\ft Then later, after he had again killed something, he killed a tarbagan or something.
+\ru Потом позже, опять что-то убив, убил то-ли тарбагана, то ли что.
+\ph
+\gr
+\nt tarbagan is a mountain prairie dog
+\qu
+
+\id Stepanova_ZA_hunting_stado_19
+\ref 11:44
+\tx Tar   upeːlej                     boːsčịrịkan                  ńan   naŋtịhnịdʒị
+\mb tarak upeː       -(dU)LE -J       boː -sčI  -REk      -E-n(I)      ńaːn naŋtị -s(E)n -RIdʒI
+\ge dist  grandmother -loc    -prfl.sg give -conat -cond.cvb -ep-poss.3sg and    grab     -lim   -ant.cvb
+
+\tx ọpọpọp ọlọldarịdʒị,  ọlọldarịdʒị   nọːdịčịlan.
+\mb ọpọpọp ọlalda      -RIdʒI  ọlalda      -RIdʒI  nọːda -čE    -(dU)LE -n(I)
+\ge opopop       be.frightened -ant.cvb be.frightened -ant.cvb throw    -pf.ptc -loc    -poss.3sg
+
+\ft When he tried to give (it) to that granny, when she again threw it (down), having gotten a fright "opopop" after she grabbed it.
+\ru Когда вот попытался дать бабушке, когда, опять схватив испугавшись опопоп, бросила.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_hunting_stado_20
+\ref 11:50
+\tx Ečin      goːniken      biː tiːk upeːdu          etem           ńịmaːdụr,               upeː
+\mb erroːčin goːn -nIkEn   biː tiek  upeː       -DU  e   -t(E) -m   ńịmaːdụ        -R       upeː
+\ge prox.qual  say   -sim.cvb 1sg  now   grandmother -dat neg -fut  -1sg share.hunting.spoils -neg.cvb grandmother
+
+\tx minu         majụkandʒịnị,                      nọŋan bej ńịmaːdasčịrịkan
+\mb min     -W   maj                     -WkEn -DʒI -n(I) nọŋan bej ńịmaːdụ        -sčI  -REk      -E-n(I)
+\ge 1sg.obl -acc be.unlucky.when.hunting -caus -fut  -3sg  3sg      man share.hunting.spoils -conat -cond.cvb -ep-poss.3sg
+
+\tx naŋtịhnịdʒị      ọlọldawran                  goːniken.
+\mb naŋtị -s(E)n -RIdʒI  ọlalda      -Gr(E)      -n(I) goːn -nIkEn
+\ge grab     -lim   -ant.cvb be.frightened -hab.nonfut -3sg  say   -sim.cvb
+
+\ft Saying like this "Now I will not share my hunting spoil with granny, granny will cast the evil eye on me, she gets frightened when a
+person tries to share the hunting spoils, after she grabs (it)."
+\ru Так говоря я сейчас бабушке не буду уделять добычу, бабушка меня сглазит, она когда человек пытается уделить ей добычу,
+схватив пугается.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_hunting_stado_21
+\ref 12:00
+\tx Taraw      họːt     dʒaːnịlbụ         enmude                haːmačaggaran                    tarakda
+\mb tarak -W   họː -Č  dʒaː   -SEl -W        enen   -W        =DE  haːmat -E-D     -Gr(E)      -n(I) tarak =DE
+\ge dist  -acc very   -ins relative  -pl -poss.1sg mother -poss.1sg =ptl laugh   -ep-prog -hab.nonfut -3sg  dist  =ptl
+
+\tx upeːde          haːmačaggararịn.
+\mb upeː       =DE  haːmat -E-D     -Gr(E) -RI  -n(I)
+\ge grandmother =ptl laugh   -ep-prog -hab   -pst -3sg
+
+\ft My relatives, my mother laughed a lot about this, and that granny laughed.
+\ru На это мои родные очень и мать смеялась, и эта бабушка смеялась.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_hunting_stado_22
+\ref 12:06
+\tx Tarda      biniken     tar   noːwu                    nọŋan egdʒelberidʒi       ụjamkamda
+\mb tarak =DE  bi -nIkEn   tarak noː            -W        nọŋan egdʒen -LbE -RIdʒI  ụjamkan      -W   =DE
+\ge dist  =ptl be -sim.cvb dist  younger.sibling -poss.1sg 3sg      big     -vr  -ant.cvb mountain.sheep -acc =ptl
+
+\tx maːlan   bihin,            čaːmakụda      maːlan.
+\mb maː -LEn bi -RI  -n(I)     čaːmak -W   =DE  maː -LEn
+\ge kill -nr  be -pst -poss.3sg tarbagan -acc =ptl kill -nr
+
+\ft Notwithstanding (the failed attempt to share his first prey) my brother, after he grew up, was a good hunter of mountain sheep, of
+mountain prairie dogs.
+\ru Несмотря на это этот мой брат став взрослым был хорошим охотником на горного барана, на тарбаган (горный суслик).
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_hunting_stado_23
+\ref 12:15
+\tx Ammụda              maːlan   bihin,            ńan   akmụda.
+\mb aman   -W        =DE  maː -LEn bi -RI  -n(I)     ńaːn akan          -W        =DE
+\ge father -poss.1sg =ptl kill -nr  be -pst -poss.3sg and    older.brother -poss.1sg =ptl
+
+\ft And my father was a good hunter, and my older brother.
+\ru И мой отец был хорошим охотником, и старший брат.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_hunting_stado_24
+\ref 12:18
+\tx Tar   họːjat     ụjamkamda              ụjamkamịnịkan,        kokerile               ịstalaːkan ere,
+\mb tarak họːja -Č  ụjamkan      -W   =DE  ụjamkan      -mI -nIkEn   koke -RI       -(dU)LE ịstala -KEn erek
+\ge dist  many     -ins mountain.sheep -acc =ptl mountain.sheep -vr -sim.cvb die  -impf.ptc -loc    until    -dim prox
+
+\tx akmụ.
+\mb akan          -W
+\ge older.brother -poss.1sg
+\ft He hunted mountain sheep a lot, until his very death, my older brother.
+\ph
+\gr (11_quest_2010, 16:15) *kokečelen ịstala = impossible, kokečelen = happened in the past; the correct way to say this would be
+kokerilen ịstala 'do ego smerti'
+\ru И охотясь много на горного барана, до самой смерти, мой старший брат.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_hunting_stado_25
+\ref 12:25
+\tx Muttu       neːkergej               tọːkịda    uldewen
+\mb mut    -DU  neːkur  -GE    -J       tọːkị =DE  ulre -W   -E-n(I)
+\ge 1pl.in -dat gostinec -desig -prfl.sg elk        =ptl meat -acc -ep-poss.3sg
+
+\tx emuwrerin,                       bujuseridʒi            stadadụk.
+\mb em   -U    -Gr(E) -RI  -n(I)     buju -s    -E  -RIdʒI  stado  -DUk(U)
+\ge come -caus -hab   -pst -poss.3sg hunt -mult -ep -ant.cvb herd.R -abl
+
+\ft He even brought us elk meat as a present, after he'd hunted from the herd.
+\ru Нам в гостинец приносил и мясо лося, добыв из стада.
+\ph bujuhseridʒi - it seems like both Zoja Afanas'evna and Afanasij Afanasevich have a continuous battle going in their minds
+concerning this word - the local dialectal pronunciation battling with the standard one....
+\gr muttu neːkergej emuwrerin = is here considered correct, because the present comes from the giver, podarok ot sebja, so while in
+the standard form it should probably be neːkerget, the construction ZAS used is not wrong
+\nt
+
+\id Stepanova_ZA_hunting_stado_26
+\ref 12:33
+\tx Tar   biː dʒọŋčịrịkụ                stadadụk     emniwetnen                        họː
+\mb tarak biː dʒọn  -(k)čI -REk      -W        stado  -DUk(U) em   -RI       -W   -E  -tEn      họː
+\ge dist  1sg  remember -dur    -cond.cvb -poss.1sg herd.R -abl    come -impf.ptc -acc -ep -poss.3pl very
+
+\tx alakkararịt.
+\mb alat -Gr(E) -RI  -t(I)
+\ge wait -hab   -pst -poss.1pl.in
+
+\ft As I remember, we used to wait for their arrival from the herd very much.
+\ru Как я помню, мы очень ждали их приезда из стада.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_hunting_stado_27
+\ref 12:37
+\tx Ịak goːniken      nọŋartan emie   objazatelno    ịakkụl   neːkerelkekkehel.
+\mb ịak goːn -nIkEn   nọŋartan emie   objazatelno    ịak =(W)Ul neːkur  -E  -lkEn -kkEn -SEl
+\ge what  say   -sim.cvb 3pl         also.Y without.fail.R what  =indef gostinec -ep -prop -dim  -pl
+
+\ft Because they too always had some present.
+\ru Потому что они тоже обязательно с каким-то гостинцем.
+\ph
+\gr
+\nt iak goniken= here "potomu chto"
+
+\id Stepanova_ZA_hunting_stado_28
+\ref 12:42
+\tx Er... ịak goːndʒim       biː... akmụ                  atịkaŋan                 pirožkiw       ečin
+\mb erek  ịak goːn -DʒI -m   biː    akan          -W        atịkan  -ŋ  -E-n(I)      pirožki   -W   erroːčin
+\ge prox  what  say   -fut  -1sg 1sg     older.brother -poss.1sg old.woman -aln -ep-poss.3sg pirozhki.R -acc prox.qual
+
+\tx iriridʒi     emudʒin,              er   poselokla,        stadadụk     poselokla.
+\mb iri  -RIdʒI  em   -U    -DʒI -n(I) erek poselok   -(dU)LE stado  -DUk(U) poselok   -(dU)LE
+\ge cook -ant.cvb come -caus -fut  -3sg  prox village.R -loc    herd.R -abl    village.R -loc
+
+\ft What will I say... my older brother's wife would bring piroshki from the herd to the village having cooked them like this.
+\ru Что скажу... жена моего старшего брата привезет так приготовив пирожки, сюда в поселок, из стада в поселок.
+\ph
+\gr
+\nt
+
+\id Stepanova_ZA_hunting_stado_29
+\ref 12:54
+\tx Ekeńuː  emudʒin,              čalmụw       emudʒin,              tarak họː dalla.
+\mb eken -W   em   -U    -DʒI -n(I) čalmị   -W   em   -U    -DʒI -n(I) tarak họː dalra
+\ge milk -acc come -caus -fut  -3sg  intestines -acc come -caus -fut  -3sg  dist  very   tasty
+
+\ft She would bring milk, would bring innards, that is very tasty.
+\ru Привезет молоко, привезет внутренности, это очень вкусно.
+\ph
+\gr dalra is clearly related to/derived from dal 'be tasty', but we don't yet know (March 2010) what the suffix -ra would be
+\nt
+
+\id Stepanova_ZA_hunting_stado_30
+\ref 12:57
+\tx Tiːk nọŋman...            nọŋartan aččal,   kokeridnen.
+\mb tiek  nọŋan -W   -n(I)     nọŋartan ačča -L  koke -RI  -tEn
+\ge now   3sg      -acc -poss.3sg 3pl         neg    -pl die  -pst -poss.3pl
+
+\ft Now they aren't any more, they died.
+\ru Сейчас их нету, умерли.
+\ph
+\gr
+\nt
+\qu
+
+\id Stepanova_ZA_hunting_stado_31
+\ref 13:00
+\tx Edlednen               koker         biː [stammers] dʒụganịdụ  stadala
+\mb e   -dle     -tEn      koke -R       biː stammers   dʒụganị -DU  stado  -(dU)LE
+\ge neg -trm.cvb -poss.3pl die  -neg.cvb 1sg  stammers   summer       -dat herd.R -loc
+
+\tx tot...        tokkereriw,                         er   hụnaːččal,   tar   nọŋńụntan          nulgeweːtniken.
+\mb tot           tot           -Gr(E) -RI -W         erek hụnaːdʒ -čEl tarak nọŋan -ńUn -tEn      nulge   -WEːČ -nIkEn
+\ge roam.in.taiga roam.in.taiga -hab   -pst -poss.1sg prox daughter    -com  dist  3sg      -com  -poss.3pl migrate -gnr    -sim.cvb
+
+\ft Until they died I would go to the herd, with this daughter of mine, migrating with them.
+\ru До того как они умерли я на лето уезжала в стадо, вот с (моей) дочерью, кочуясь с ними.
+\ph
+\gr usually tottej = to go uphill, podnimatsja v gory, she may have used it here because the herds migrate in mountainous terrain
+\nt
+
+\id Stepanova_ZA_hunting_stado_32
+\ref 13:11
+\tx Tarak tiːkte   họː mụlụń, biː mụlaːnam            taraw      nọŋmadnan.
+\mb tarak tiek =DE  họː mụlụń  biː mụlaːn -R(E)   -m   tarak -W   nọŋan -W   -tEn
+\ge dist  now  =ptl very   sad         1sg  pity      -nonfut -1sg dist  -acc 3sg      -acc -poss.3pl
+
+\ft It is very sad, I pity them.
+\ru Это и сейчас очень жалко, я жалею их.
+\ph
+\gr the dialectal form would be mụlụhnị, mụlụń is the literary form
+\nt
+
+\id Stepanova_ZA_hunting_stado_33
+\ref 13:16
+\tx Geleːremde,            mụlaːnamda,              tarda      bihiklen                        nọŋartan er
+\mb geleː -R(E)   -m   =DE mụlaːn -R(E)   -m   =DE  tarak =DE  bi -RI       -klE     -n(I)     nọŋartan erek
+\ge miss   -nonfut -1sg =ptlpity      -nonfut -1sg =ptl dist  =ptl be -impf.ptc -all.loc -poss.3sg 3pl         prox
+
+\tx ečin      bej bihiniken,  bejdu    aj   mergem            ajịč      dʒọmkadnịkan,  biː
+\mb erroːčin bej bi -nIkEn   bej -DU  aj   mergeːt -n  -W   aj   -E-Č   dʒọmkat -nIkEn   biː
+\ge prox.qual  man be -sim.cvb man -dat good think    -nr -acc good -ep-ins think      -sim.cvb 1sg
+
+\tx mergendulew                    emeːbdeŋetnen                   họː aj.
+\mb mergeːt -n  -(dU)LE -W        emeːn -B   -DEŋ    -E-tEn       họː aj
+\ge think    -nr -loc    -poss.1sg leave  -med -pst.ptc -ep-poss.3pl very   good
+
+\ft I miss them, and I pity, but nevertheless it is good that they remain in my memories as such people, people who thought well about
+others.
+\ru И соскучилась, и жалею, но хорошо что они остались в моей памяти такими людьми, думая к людям хорошую думу (умершие
+хорошо относились к людьям).
+\ph
+\gr bihiniken is not a correct form, must be a speech error
+\nt She then continues to talk about her parents, and I put that into the last, short database, "parents".

@@ -1,0 +1,901 @@
+\_sh v3.0  1153 Text
+
+\id Axmetova_VI_childhood_00_metadata
+\ref Recorded on 7 July 2007 in Anavgai by Brigitte Pakendorf in the speaker's kitchen. Only BP was present, which probably explains the many
+code switches to Russian. The recording came after several days of working together, during which VIA had told BP some things about
+herself, so that there was already some familiarity between the two, plus VIA was used to having the microphone pointed at her.
+\qu Transcribed by BP, transcription checked and Russian translation by Valentina Innokent'evna Axmetova, glossing by BP. Funding by the Max Planck
+Society (MPRG on Comparative Population Linguistics). Speaker abbreviation = VIA
+\ref Valentina Innokent'evna Axmetova was 67 years old at the time of recording. She had 8 years of schooling, then worked in the kindergarten,
+in the collective farm, and as a tent worker (chumrabotnitsa) and herder in the reindeer herd. Her first two husbands were Russians, and she
+speaks Russian with her daughters; her third husband was an Even and they spoke Even together. VIA had a serious stroke in 2016 that has
+left her incapable of speech.
+
+\id Axmetova_VI_childhood_01
+\ref 1:00
+\tx Min     eńtilbu,         eńtilbu          eńtilten         bakụrịtan                 pos... selọː
+\mb min     eńtil  -W        eńtil  -W        eńtil  -tEn      bakụ  -R       -E-tEn       pos... selo.R
+\ge 1sg.obl parents -poss.1sg parents -poss.1sg parents -poss.3pl be.born -neg.cvb -ep-poss.3pl vil.R  village.R
+
+\tx Kekuk  gerben.
+\mb Kiekuk gerbe -n(I)
+\ge Kekuk  name  -poss.3sg
+
+\ft My parents, and my parent's parents, were born (in) a village named Kekuk.
+\ru Мои родители, и родители моих родителей родились в село по имени Кекук.
+\ph
+\nt They weren't born in the selo, because there wasn't any, they lived in the rybalka, but in that area.
+
+\id Axmetova_VI_childhood_02
+\ref 01:14
+\tx Tadụ     ereger biweːtte,             tadụ     nọŋartan eńtilten         bisiten,          ereger
+\mb tarak -DU  ereger bi -WEːČ -R(E)       tarak -DU  nọŋartan eńtil  -tEn      bi -RI  -tEn      ereger
+\ge dist  -dat always be -gnr    -nonfut.3pl dist  -dat 3pl         parents -poss.3pl be -pst -poss.3pl always
+
+\tx tadụ     biweːtte.
+\mb tarak -DU  bi -WEːČ -R(E)
+\ge dist  -dat be -gnr    -nonfut.3pl
+
+\ft There they always lived, there their parents lived, they always lived there.
+\ru Там они все время жили, их родители там жили, всегда.
+\ph bisiten  There is a -t- at the end of the first biweːtte, and between the 'nọŋartan' and the 'bisiten'
+
+\id Axmetova_VI_childhood_03
+\ref 01:21
+\tx Min     eńtilbu          bisiten           ọrọmŋal.
+\mb min     eńtil  -W        bi -RI  -tEn      ọrọn          -mŋE -L
+\ge 1sg.obl parents -poss.1sg be -pst -poss.3pl domestic.reindeer -agnr -pl
+\ft My parents were reindeer herders.
+\ru Мои родители были оленоводами.
+\ph bisiten
+
+\id Axmetova_VI_childhood_04
+\ref 01:26
+\tx Ọrọmŋal                eŋejel    bisiten,          i     min     aːn...  uŋelbu
+\mb ọrọn          -mŋE -L  eŋeje -L  bi -RI  -tEn      i     min     aːnị  uŋ       -E-L   -W
+\ge domestic.reindeer -agnr -pl rich   -pl be -pst -poss.3pl and.R 1sg.obl relative something -ep-pl -poss.1sg
+
+\tx ...  ọːnka     goːnni     ....  radnjaːlbu               umekič ọːja  bisiten,          Adukanovy.
+\mb *... ọːn =kE   goːn -n(I) *.... rodnja.R    -L  -W        umekič họːja bi -RI  -tEn      Adukanovy
+\ge ***  how    =emph say   -3sg  ***   relatives.R -pl -poss.1sg very    many     be -pst -poss.3pl Adukanovs
+
+\ft They were rich reindeer herders and my ... what... how to say... and I had very many relatives, the Adukanovs.
+\ru Оленоводы были зажиточными, у меня родственников очень много было, Адукановых.
+\ph bisiten
+
+\id Axmetova_VI_childhood_05
+\ref 01:43
+\tx Ọːja  bisiten.
+\mb họːja bi -RI  -tEn
+\ge many     be -pst -poss.3pl
+
+\ft They were many.
+\ru Много было.
+\ph bisiten
+
+\id Axmetova_VI_childhood_06
+\ref 01:45
+\tx Tabịč      min     bi   uže      kagda   dʒọŋčịllịwụ,               mne       mindu        bisin,
+\mb tabačịsị min     biː uže      kogda.R dʒọn  -(k)čI -L    -RI -W         mne       min     -DU  bi -RI  -n(I)
+\ge then          1sg.obl 1sg  already.R when.R  remember -dur    -inch -pst -poss.1sg 1sg.dat.R 1sg.obl -dat be -pst -poss.3sg
+
+\tx nu     s      četyrex   let   naverno, digen anŋanaŋụ             bisin,            min     staršaja
+\mb nu     s      četyrex   let   naverno  digen anŋan -E-ŋ   -W        bi -RI  -n(I)     min     staršaja
+\ge well.R from.R four.gen.R years probably four  year   -ep-aln -poss.1sg be -pst -poss.3sg 1sg.obl oldest
+
+\tx staršaja ekmu,            sestrawu           gurgeːwčirin             sekretarem      selskogo      soveta.
+\mb staršaja eken   -W        sestra   -W        gurgeːwči -RI  -n(I)     sekretarem      selskogo      soveta
+\ge oldest    mother -poss.1sg sister.R -poss.1sg work        -pst -poss.3sg secretary.ins.R village.gen.R soviet.gen.R
+
+\ft Well, when I started to understand, well, probably from when I was four years old, my oldest oldest sister worked as the
+secretary of the village soviet.
+\ru Когда я уже стала сознавать/понимать/соображать, мне было наверно 4 года, моя старшая старшая сестра, работала
+секретарем сельского совета.
+\ph d'ɔːŋčịllịwụ
+\gr digen anŋanaŋụ bisin = mne 4 goda bylo; tebe 5 let bylo = indu tụnŋan anŋan = tụnŋan anŋanaŋas bisin
+\nt The sel'sovet was the village administration.
+
+\id Axmetova_VI_childhood_07
+\ref 02:12
+\tx Vot    min     svidetelstvowu               o       roždenie nọŋan ọńarịn,          nọŋan
+\mb vot    min     svidetelstvo  -W   -W        o       roždenie nọŋan ọńa -RI  -n(I)     nọŋan
+\ge here.R 1sg.obl certificate.R -acc -poss.1sg about.R birth.R   3sg      write  -pst -poss.3sg 3sg
+
+\tx podpisan                 tala,         svidetelstvo  o       roždeniewu.
+\mb podpis      -E-n(I)      tarak -(dU)LE svidetelstvo  o       roždenie -W
+\ge signature.R -ep-poss.3sg dist  -loc    certificate.R about.R birth.R   -poss.1sg
+
+\ft So she wrote my birth certificate, her signature is there, (in) my birth certificate.
+\ru Вот мое свидетельство о рождение она писала, подписывала.
+\ph
+
+\id Axmetova_VI_childhood_08
+\ref 02:25
+\tx Uže      irbeːtiː,   paželtela.
+\mb uže      irbeːt =Iː  poželtela.R
+\ge already.R old     =emph yellowed.R
+
+\ft It's already very old, it has yellowed.
+\ru Старая уже, пожелтела.
+\ph
+
+\id Axmetova_VI_childhood_09
+\ref 02:29
+\tx Tabịč      tadụ     bu     bisiwun              tala          selọːla        rybalkattakan
+\mb tabačịsị tarak -DU  buː   bi -RI  -WUn         tarak -(dU)LE selo      -(dU)LE rybalka        -Č  =t(E)kEn
+\ge then          dist  -dat 1pl.ex be -pst -poss.1pl.ex dist  -loc    village.R -loc    fishing.camp.R -ins =restr
+
+\tx gurgelettiten.
+\mb gurgeː -LEČ -RI  -tEn
+\ge work    -vr   -pst -poss.3pl
+
+\ft Then we lived there; in that village they only fished.
+\ru Потом мы там жили, в этом селе только рыбалкой занимались.
+\ph bisiwun   rybalkattakan
+\gr The geminated -t- in rybalkatakan has no meaning other than emphasis; gurgeleːttiten = zanimalis' rabotoj; from the
+translation and the structure one should split this sentence into 2, but from the intonation pattern it's one, the 'bisiwun' is
+on a high note, and it only falls down on the 'gurgeːlettiten'. So I'm leaving it together. (translation file
+quest_narrat2007_230609, 37:25) gurgeːwčiriten = rabotali, gurgelettiten = rabota ixnjaja byla, also possible rybalka
+gurgeten bisin; dʒụːlattịtan = ixnij dom byl, domovničali
+\nt However, in those years (i.e. early 1940's) Russians came and showed them how to plant potatoes, so in those years they
+started to grow potatoes.
+
+\id Axmetova_VI_childhood_10
+\ref 02:39
+\tx Ellenŋele       selọː  bisin             a     ọkaːt ŋejdeli       bisin,            ọkaːtkakan,
+\mb ellenŋe -(dU)LE selo.R    bi -RI  -n(I)     a.R   ọkaːt ŋejde -(dU)LI bi -RI  -n(I)     ọkaːt -kEkEn
+\ge slope    -loc    village.R be -pst -poss.3sg but.R river    bottom -prol   be -pst -poss.3sg river    -dim
+
+\tx eč          egdʒen bise.
+\mb e   -RI      egdʒen bi -R
+\ge neg -pst.3sg big     be -neg.cvb
+
+\ft The village was on a slope, and the river was at the bottom, (it was) a small river, it wasn't big.
+\ru На склоне было село, а внизу протекла небольшая речка.
+\ph ŋejdɐlị  bisin
+\gr ellenŋe = sklon; ŋejdali = vnizu, min ŋejdalawu bisni = vnizu ot menja
+\gr 14.02.13 (questions18, 56:30) ọkatkakan = malenkaja rechka, correct, vot eta rechka; ọkaːtjakan = prosto rechka
+
+\id Axmetova_VI_childhood_11
+\ref 02:46
+\tx Talị        rybalkaddʒoːtte                        čelendʒedʒur             umekič ajịč
+\mb tarak -(dU)LI rybalka        -D    -WEːČ -R(E)       čele -ńdʒE -dʒUr        umekič aj   -E-Č
+\ge dist  -prol   fishing.camp.R -prog -gnr    -nonfut.3pl all   -aug    -ins.prefl.pl very    good -ep-ins
+
+\tx belmetniken         bisiten.
+\mb bel  -mEČ -nIkEn   bi -RI  -tEn
+\ge help -rec  -sim.cvb be -pst -poss.3pl
+
+\ft There all fished, they lived helping each other.
+\ph
+\gr 30.01.13 (questions7, 25:00) čeleńdʒedʒur = vse vmeste, čelemkerdʒur = NO
+\ru Там рыбачили все, жили очень дружно, помогая друг другу.
+\ph bisiten
+
+\id Axmetova_VI_childhood_11b
+\ref 02:55
+\tx Tabịč,     kọbalanda    bejčiweːt... maːwaːtta,             tugenidu    uŋude
+\mb tabačịsị kọbalan =DE  bejči -WEːČ maː -WEːČ -R(E)       tugeni -DU  uŋ       -W   =DE
+\ge then          bear      =ptl hunt   -gnr    kill -gnr    -nonfut.3pl winter -dat something -acc =ptl
+
+\tx gịakịw     dilgenkew       kapkam      tulutčoːtte,            nan    tarị uŋgewur
+\mb gịakị -W   dʒelgenke -W   kapkan -W   tulut -WEːČ -R(E)       ńaːn tar    uŋ       -GE    -WUr
+\ge various   -acc animal     -acc trap.R -acc set   -gnr    -nonfut.3pl again  thus   something -desig -prfl.pl
+
+\tx debleŋgewur                    gadʒịwaːtta,         Xajrịzọvtakị.
+\mb dʒeb -LEn -ŋ  -GE    -WUr     gadʒị -WEːČ -R(E)   Xajrjuzovo -t(E)kI
+\ge eat   -nr  -aln -desig -prfl.pl fetch    -gnr    -nonfut Xajrjuzovo -all
+
+\ft They caught and killed bears, in winter they set traps for (furbearing) animals, and to buy food they went to Xajrjuzovo.
+\ru Медведей ловили, убивали, зимой ставили капканы на всякого зверя (пушнина), за продуктами ездили в Хайрюзово
+\ph ʥilgenkiv
+\nt Xajrjuzovo is an Itelmen name; that village was on the coast, and food and other things were brought there by ship, while
+they were brought to Esso by horse; so they went to get food in Xajrjuzovo, not in Esso, even though Esso was the
+district centre, but it was also further to Esso than to Xajrjuzovo.
+
+\id Axmetova_VI_childhood_11c
+\ref 03:16
+\tx A     Essọːduk    tegeleː bisin,            tarak Kekuk.
+\mb a.R   Essọ -DUk(U) tegeleː bi -RI  -n(I)     tarak Kekuk
+\ge but.R Esso   -abl    far      be -pst -poss.3sg dist  Kekuk
+
+\ft That Kekuk was far from Esso.
+\ru От Эссо этот Кекук был далеко.
+\ph bisinɐ
+
+\id Axmetova_VI_childhood_12
+\ref 03:22
+\tx Tala          Essọːtki  ...  Essọːsi bisin             rajọnnyj   centr,   mun
+\mb tarak -(dU)LE Esso -t(E)kI *... Esso =sI   bi -RI  -n(I)     rajonnyj.R   centr    mun
+\ge dist  -loc    Esso -all    ***  Esso =emph be -pst -poss.3sg district's.R centre.R 1pl.ex.obl
+
+\tx rajọmmun,           i     sabranijatki        emmoːtte                mụranịt,    dʒụganịdụ
+\mb rajon.R  -WUn         i     sobranija.R -t(E)kI em   -WEːČ -R(E)       mụran -E-Č   dʒụganị -DU
+\ge district -poss.1pl.ex and.R meetings.R  -all    come -gnr    -nonfut.3pl horse   -ep-ins summer       -dat
+
+\tx mụranịč,   tugenidu    ọrọnịč             ili  ŋịnịč.
+\mb mụran -E-Č   tugeni -DU  ọrọn          -E-Č   ili  ŋịn -E-Č
+\ge horse   -ep-ins winter -dat domestic.reindeer -ep-ins or.R dog    -ep-ins
+
+\ft There to Esso.... Esso was the centre of the district, of our district, and to meetings they went by horse [started to say
+letom, 'in summer' in Russian], in summer by horse, in winter by reindeer or dog.
+\ru Эссо был районным центром нашего района, и на собрания приезжают летом на лошадях, зимой на оленях или на
+собачьих упряжках.
+\ph Essọːsi bisin
+\nt The Bystrinskij rajon was called a 'tuzemnyj rajon', "Tuzrik" = Tuzemnyj rajonnyj ispolnitel'nyj komitet; the dogs and
+the reindeer they harnessed to sleds, in winter
+
+\id Axmetova_VI_childhood_14
+\ref 03:41
+\tx Tabịč      uŋun...               dọktọrụn        ačča bisin.
+\mb tabačịsị uŋ       -WUn         doktor.R -WUn         ačča bi -RI  -n(I)
+\ge then          something -poss.1pl.ex doctor.R -poss.1pl.ex neg    be -pst -poss.3sg
+
+\ft We didn't have a doctor.
+\ru У нас доктора не было.
+\ph bisin
+
+\id Axmetova_VI_childhood_15
+\ref 03:48
+\tx Meːrker               begdetčoːtte                    meːrur            gịakịč... ọːnka     goːndʒim...
+\mb meːn -L  -KEn     -L  beg      -DE -Č  -WEːČ -R(E)   meːn -L  -WUr     gịakị -Č  ọːn =kE   goːn -DʒI -m
+\ge refl  -pl -dim.int -pl medicine -vr -res -gnr    -nonfut refl  -pl -prfl.pl various   -ins how    =emph say   -fut  -1sg
+
+\tx lečebnymi      etimi       travami       begdetčoːtte,                   kọbalanda    dʒọːdʒịn
+\mb lečebnymi      etimi       travami       beg      -DE -Č  -WEːČ -R(E)   kọbalan =DE  dʒọ     -Č    -n(I)
+\ge medicinal.ins.R these.ins.R grasses.ins.R medicine -vr -res -gnr    -nonfut bear      =ptl gall.juice -ins   -poss.3sg
+
+\tx begdetčoːtte.
+\mb beg      -DE -Č  -WEːČ -R(E)
+\ge medicine -vr -res -gnr    -nonfut
+
+\ft They healed themselves with various.... how should I say it.... with these medicinal herbs, they healed with bear gall.
+\ru Сами себя лечили (эвены вообще). как же скажу, травами этими лечебными лечили, медвежьей желчью лечили.
+\ph
+
+\id Axmetova_VI_childhood_16
+\ref 04:10
+\tx Min     memewu         bisin             dʒọŋịndʒan                   egdʒeːmker, tarma irbet
+\mb min     meme -W        bi -RI  -n(I)     dʒọ     -ŋ  -E-ńdʒE -n(I)     egdʒen -mkEr tarma irbeːt
+\ge 1sg.obl mama -poss.1sg be -pst -poss.3sg gall.juice -aln -ep-aug   -poss.3sg big     -aug  but   old
+
+\tx irbet.
+\mb irbeːt
+\ge old
+
+\ft My mother had a big gall, but an old old one.
+\ph
+\gr 30.01.13 (questions7, 35:15) kọbalan dʒọńdʒan is what one says; kọbalan dʒọmkaran = NO; dʒọmkar by itself is OK;
+dʒọmkar egdʒemker; kọbalan dʒọńdʒan egdʒemker = OK;  min memewu bisin dʒọŋan = OK, correct structure, zhelch
+moej mamy byla; min memelewu bisin dʒọŋịndʒan = also correct
+\ru У моей мамы была желчь большая, только старая старая,
+
+\id Axmetova_VI_childhood_16b
+\ref 04:17
+\tx Uŋnen                      mụdandụlan            er   dʒọː   erroːčin erroːčinni
+\mb uŋ       -(dU)LE -n(I)     mụdan -(dU)LE -n(I)     erek dʒọ     erroːčin erroːčin -n(I)
+\ge something -loc    -poss.3sg edge    -loc    -poss.3sg prox gall.juice prox.qual  prox.qual  -poss.3sg
+
+\tx ele          čurjitiː    ọːńattịn,            tože  drevnee,   a     bejdʒi           dʒọː
+\mb erek -(dU)LE čurjit =Iː  oːńe -Č  -RI  -n(I)     tože  drevnij    a.R   bej  -DʒI        dʒọ
+\ge prox -loc    beads   =emph tie.up -res -pst -poss.3sg also.R ancient.R  but.R self -ins.prfl.sg gall.juice
+
+\tx ịkụtịč    talalnịn           ọt   starosti
+\mb ịkụt -E-Č   talal -RI  -n(I)     ot     starosti
+\ge straight -ep-ins shine -pst -poss.3sg from.R age.gen.R
+
+\ft And a lot of beads, also ancient, were tied to its end, and the gall itself shone with age.
+\ru А вот к ее концу повязано много бисера, тоже древнее, а сама желчь аж блестела от старости.
+\ph
+\nt They decorated the gallbladder with beads because it was so important, it was a healing device. It shone because they
+touched it so often.
+
+\id Axmetova_VI_childhood_18
+\ref 04.32
+\tx Talị        ọːn uže      dụlkalị     bisin.
+\mb tarak -(dU)LI ọːn uže      dụlka -(dU)LI bi -RI  -n(I)
+\ge dist  -prol   how    already.R half    -prol   be -pst -poss.3sg
+\ft There was only half of it left.
+\ru Там она уже была ополовиненная.
+\ph bisin
+\gr
+\nt They cut off tiny pieces and dissolve that in water, and this one was so old that they'd used up so much, nearly half.
+
+\id Axmetova_VI_childhood_19
+\ref 04:37
+\tx Dʒọːwasị           kutiːńekekem      ečin      uŋisnoːtte                     uŋne
+\mb dʒọ     -W   -E=sI    kutiːńekeken -W   erroːčin uŋ -E-s(E)n -WEːČ -R(E)       uŋni
+\ge gall.juice -acc -ep=emph tiny           -acc prox.qual  do  -ep-lim  -gnr    -nonfut.3pl over.there
+
+\tx uːmir           moːle,       uksila,                  uŋnin             nan    kọlukawaːtta.
+\mb umiː       -r   moː  -(dU)LE hok    -RI       -(dU)LE uŋ -RI  -n(I)     ńaːn kọl -WkEn -WEːČ -R(E)
+\ge soak.nonfut -3pl water -loc    be.hot -impf.ptc -loc    do  -pst -poss.3sg again  drink -caus -gnr    -nonfut.3pl
+
+\ft They break off a tiny piece of the gall, soak that in hot water, then they give that (to the sick person) to drink.
+\ru Маленький кусок желчи отколопнут, потом замачивают в горячую воду, потом дают выпить.
+\ph dʒọːwasị ičin uŋnun
+
+\id Axmetova_VI_childhood_20
+\ref 04:46
+\tx Ili  tarị dʒọːčịsị        ensiwu              ensile                 ensiŋur                     esiweːtte.
+\mb ili  tar    dʒọ     -Č  -E=sI    en -RI -W           en   -RI       -(dU)LE en   -RI       -ŋ  -WUr     hesi     -WEːČ -R(E)
+\ge or.R thus   gall.juice -ins -ep=emph hurt -impf.ptc -acc hurt -impf.ptc -loc    hurt -impf.ptc -aln -prfl.pl smear.on -gnr    -nonfut
+
+\ft Or they smear that gall on the sore spot.
+\ru Или этой желчью (которую замочили в воде) на больное место намазывают. 
+\ph all [s]
+
+\id Axmetova_VI_childhood_21
+\ref 04:53
+\tx Tabịč...   min     memewu         uŋen                  bisin,            uŋeŋen,
+\mb tabačịsị min     meme -W        uŋ       -E-n(I)      bi -RI  -n(I)     uŋ       -E-ŋ   -E-n(I)
+\ge then          1sg.obl mama -poss.1sg something -ep-poss.3sg be -pst -poss.3sg something -ep-aln -ep-poss.3sg
+
+\tx ọːnka     goːndʒim,      ịkọnkan        bisin.
+\mb ọːn =kE   goːn -DʒI -m   ikonka.R -n(I)     bi -RI  -n(I)
+\ge how    =emph say   -fut  -1sg icon.R   -poss.3sg be -pst -poss.3sg
+
+\ft My mother had a.... what, how should I say, she had an icon.
+\ru Потом у моей мамы была иконка. 
+\gr 'icon' in Even would be ewki, so the Even way to say it would be 'ewkiŋen bisin'
+
+\id Axmetova_VI_childhood_22
+\ref 05:04
+\tx Ịkọnaŋan            bisinisi                   urge, možet byt' bronzovyj bisin,            urge
+\mb ikona  -ŋ  -E-n(I)      bi -RI  -n(I)     -E=sI    urge  možet byt' bronzovyj bi -RI  -n(I)     urge
+\ge icon.R -aln -ep-poss.3sg be -pst -poss.3sg -ep=emph heavy can.R  be.R bronze.R  be -pst -poss.3sg heavy
+
+\tx umekičisi.
+\mb umekič -E=sI
+\ge very    -ep=emph
+
+\ft Her icon was very heavy, it may have been bronze, very very heavy.
+\ru Ее икона была тяжелая, может быть бронзовая была, очень тяжелая.
+\ph ịkọna ŋən (pause between the root and the suffixes, afterthought)
+\gr
+\nt [urgeːː] extended the second vowel for emphasis [urgumekič] the two last words ran into each other
+
+\id Axmetova_VI_childhood_23
+\ref 05:11
+\tx Tarawịsị,       minde        butenelleku                          ŋiluškele
+\mb tarak -W   -E=sI    min     =DE  buteːn -E-L     -REk      -W        ŋiluške -(dU)LE
+\ge dist  -acc -ep=emph 1sg.obl =ptl be.ill  -ep-inch -cond.cvb -poss.1sg saucer    -loc
+
+\tx oŋkeweːtten               moːw,     nan    tala          uŋew             taraw      ịkọnkaw
+\mb oŋke -WEːČ -R(E)   -n(I) moː  -W   ńaːn tarak -(dU)LE uŋ       -E-W    tarak -W   ikonka.R -W
+\ge pour  -gnr    -nonfut -3sg  water -acc again  dist  -loc    something -ep-acc dist  -acc icon.R   -acc
+
+\tx ečin      umitčoːtten,                   i     boːweːtten               kọldakụ,              taraw
+\mb erroːčin umiː -Č  -WEːČ -R(E)   -n(I) i     boː -WEːČ -R(E)   -n(I) kọl -DE       -W        tarak -W
+\ge prox.qual  soak  -res -gnr    -nonfut -3sg  and.R give -gnr    -nonfut -3sg  drink -purp.cvb -poss.1sg dist  -acc
+
+\tx moːw.
+\mb moː  -W
+\ge water -acc
+
+\ft When I fell ill she would pour water intoa saucer, and there she would soak this icon and give it to me to drink, this
+water.
+\ru Эту же, как я заболею, воду в блюдце наливает,  в эту воду иконку опускает, дает  эту воду пить.
+\ph ʊŋkeweːtten  muːvə  boːweːtten  muːvə
+
+\id Axmetova_VI_childhood_24
+\ref 05:31
+\tx [stammers] Bu     bisiwun              memele       tala          staršaja sestra   Mavra
+\mb stammers   buː   bi -RI  -WUn         meme -(dU)LE tarak -(dU)LE staršaja sestra   Mavra
+\ge stammers   1pl.ex be -pst -poss.1pl.ex mama -loc    dist  -loc    oldest    sister.R Mavra
+
+\tx Kirillovnala, u sekretarja selskogo soveta.
+\mb Kirillovna -(dU)LE
+\ge Kirillovna -loc
+
+\ft We lived with mama (chez mama), with (chez) that oldest sister Mavra Kirillovna of mine, [in Russian:] with the secretary
+of the village soviet.
+\ru Мы жили у мемы у старшей сестры Мавры Кирилловны, у секретаря сельского совета.
+\ph
+\nt Actually, 'meme' means 'mama' and is the form of address for mothers; however, since they lived with this sister, who was
+much older and had children who were older than Valentina Innokent'evna, she called the sister the way these children
+did, 'meme', and she called her own mother 'ekeke', i.e. 'granny', just the way her nephews and nieces did. Furthermore,
+although she consistently in her narrative talks about 'Mavra Kirillovna' (so that I thought they must have had different
+fathers), she claimed during the translation that the 2 sisters had the same father, and that she used the wrong patronymic,
+that it's actually 'Mavra Innokent'evna'.
+
+\id Axmetova_VI_childhood_25
+\ref 05:45
+\tx Nọŋan kụŋaŋịlnị             bisiten,          ịlan.
+\mb nọŋan kụŋa -ŋ  -E-L   -n(I)     bi -RI  -tEn      ịlan
+\ge 3sg      child   -aln -ep-pl -poss.3sg be -pst -poss.3pl three
+\ft She had children, three.
+\ru У нее были дети, трое.
+\ph
+
+\id Axmetova_VI_childhood_26
+\ref 05:50
+\tx Dʒoːr ńarịl,   om.... digen, i     dʒoːrde    asatkar     bisiten.
+\mb dʒoːr ńarị -L         digen  i     dʒoːr =DE  asatkan -L  bi -RI  -tEn
+\ge two     boy     -pl        four   and.R two     =ptl girl    -pl be -pst -poss.3pl
+\ft Two boys, one... four! and there were two girls.
+\ru Двое пацанов, и двое девок было.
+\ph d'ʊːr  ʊm... diγən  d'ʊːrdə
+
+\id Axmetova_VI_childhood_27
+\ref 05:56
+\tx Nọŋartanịsi     minduk          bisiten           eker,     eker.
+\mb nọŋartan -E=sI    min     -DUk(U) bi -RI  -tEn      eken  -L  eken  -L
+\ge 3pl         -ep=emph 1sg.obl -abl    be -pst -poss.3pl older -pl older -pl
+
+\ft They were older than me.
+\ru Они были старше меня.
+\ph
+
+\id Axmetova_VI_childhood_29
+\ref 6:06
+\tx Tabịč      minusi             ịrkaŋnịddʒọːtta,              kučukenisi       biseku,
+\mb tabačịsị min     -W   =sI   ịrkaŋnị -D    -WEːČ -R(E)       kočuken -E=sI    bi -REk      -W
+\ge then          1sg.obl -acc =emph tease        -prog -gnr    -nonfut.3pl small    -ep=emph be -cond.cvb -poss.1sg
+
+\tx ebdʒenden bisiwu,           ittiwu.
+\mb hebdʒen   bi -RI  -W        it  -RI  -W
+\ge funny      be -pst -poss.1sg see -pst -poss.1sg
+
+\ft They teased me, obviously I was funny when I was small.
+\ru Меня дразнили, видать, когда я была маленькая, я была смешная.
+\ph minučeː
+\gr Here the verb is clearly in the plural form, but it was mainly her sister who teased her-
+
+\id Axmetova_VI_childhood_30
+\ref 06:16
+\tx Nan    tarị meme ereger ịrkandịddʒọːttan,                Mavra Kirillovna.
+\mb ńaːn tar    meme ereger ịrkaŋnị -D    -WEːČ -R(E)   -n(I) Mavra Kirillovna
+\ge again  thus   mama always tease        -prog -gnr    -nonfut -3sg  Mavra Kirillovna
+\ft Meme always teased me, Mavra Kirillovna.
+\ru И меме, Мавра Иннокентьевна, постоянно дразнила.
+\ph ərəːr
+
+\id Axmetova_VI_childhood_31
+\ref 06:22
+\tx "Uːgel     orŋesenesi                     eduk         ọjịčịddʒọːttestakan
+\mb huː =gEl   hor -ŋE     -sEn      -E=sI    erek -DUk(U) ọjịt -E-D     -WEːČ -R(E)   -s   =t(E)kEn
+\ge 2pl  =coord go  -pol.imp -poss.2pl -ep=emph prox -abl    bother   -ep-prog -gnr    -nonfut -2pl =restr
+
+\tx er   munu".
+\mb erek mun         -W
+\ge prox 1pl.ex.obl  -acc
+\ft "You go away from here, you are in the way here!"
+\ru "Вы-то уезжайте отсюда, а то вы нам мешаете!"
+\nt The older sister pretended that she wanted the mother and Valentina Innokent'evna to leave.
+
+\id Axmetova_VI_childhood_32
+\ref 06:31
+\tx Eto ona imela v vidu menja i mama.
+\ft [in Russian:] With this she meant me and mama.
+
+\id Axmetova_VI_childhood_33
+\ref 06:35
+\tx Ereger ịrkaŋnịddʒọːttan,               a     ja    abi...          ịnmač     orroːttem               meːn
+\mb ereger ịrkaŋnị -D    -WEːČ -R(E)   -n(I) a.R   ja    obidelas.R      hịnma -Č  hor -WEːČ -R(E)   -m   meːn
+\ge always tease        -prog -gnr    -nonfut -3sg  but.R 1sg.R felt.insulted.R speed   -ins go  -gnr    -nonfut -1sg refl
+
+\tx meːn ekeketkiji,             mama,  značit.
+\mb meːn ekeke  -t(E)kI -J       mama   značit
+\ge refl  granny -all    -prfl.sg mama.R that.is.R
+
+\ft She always teased and I felt ins.... I would quickly go to my mother, [in Russian:] that means (to my) mama.
+\ru Она постоянно пошучивала, а я скорее уходила, к своей матери.
+\ph ərəγər  ɔrrɔːttəm
+
+\id Axmetova_VI_childhood_34
+\ref 06:46
+\tx I     [stammers] teːleŋeddʒoːttem                   tara... "tar  meme  ụkal
+\mb i     stammers   teːleŋ -E-D     -WEːČ -R(E)   -m   tarak   tarak meme  ụkal
+\ge and.R stammers   tell     -ep-prog -gnr    -nonfut -1sg dist    dist  mama  already
+
+\tx mutu        toredden,                 gịakịč.
+\mb mut    -W   tore  -D    -R(E)   -n(I) gịakị -Č
+\ge 1pl.in -acc speak -prog -nonfut -3sg  various   -ins
+
+\ft And I tell (my mother) "That meme says all sorts of things about us again."
+\ru И рассказываю (своей маме) "там меме опять про нас всякое говорит".
+\ph torɐddən
+
+\id Axmetova_VI_childhood_35
+\ref 06:57
+\tx Ekmu             aːrịn            ịrkaŋnịddʒọːttịwan                          i     omneken
+\mb eken   -W        haː -RI  -n(I)     ịrkaŋnị -D    -WEːČ -RI       -W   -E-n(I)      i     omen -REkEn
+\ge mother -poss.1sg know -pst -poss.3sg tease        -prog -gnr    -impf.ptc -acc -ep-poss.3sg and.R one  -iter.adv
+
+\tx neːirin              ịkụtịč,   memew,    Mavru     Kirillovnu.
+\mb neːgi -RI  -n(I)     ịkụt -E-Č   meme -W   Mavra     Kirillovna
+\ge scold  -pst -poss.3sg straight -ep-ins mama -acc Mavra.acc Kirillovna.acc
+
+\ft My mother knew that she teased, and once she really scolded meme, Mavra Kirillovna.
+\ru Мама моя знала, что подшучивает, и однажды она ее ругала, меме, Мавру Иннокентьевну.
+\ph ɔmnɐkɐn
+\gr
+
+\id Axmetova_VI_childhood_36
+\ref 07:07
+\tx "Ịadajịbej                     ịrkaŋnịdʒịlloːčenni                    tačịmụr?"
+\mb ịa    -DE       -J       =bEdʒI ịrkaŋnị -D    -E-L     -WEːČ -R(E)   -nrI tarọːčịn
+\ge do.what -purp.cvb -prfl.sg =emph   tease        -prog -ep-inch -gnr    -nonfut -2sg dist.qual
+
+\ft "Why do you tease (her) like that?"
+\ru "Ты зачем так начинаешь дразнить?"
+
+\id Axmetova_VI_childhood_37
+\ref 07:11
+\tx Ana   ereger ịrkaŋnịddʒọːttan                minu.
+\mb ona.R ereger ịrkaŋnị -D    -WEːČ -R(E)   -n(I) min     -W
+\ge she.R always tease        -prog -gnr    -nonfut -3sg  1sg.obl -acc
+
+\ft She always used to tease me.
+\ru Она постоянно дразнила меня.
+\ph ərəgər
+
+\id Axmetova_VI_childhood_38
+\ref 07:15
+\tx A     patọːm tadụk       nan    urriwunisi                     Essọːtki      ururi...
+\mb a.R   potom.R   tarak -DUk(U) ńaːn hor -RI  -WUn         -E=sI    Essọː -t(E)kI hor -U  -RI
+\ge but.R then.R    dist  -abl    again  go  -pst -poss.1pl.ex -ep=emph Esso     -all    go      -caus -pst
+
+\tx ururiten,                kagda   Kekuku     ńipkedʒilliten                    nan    Essọːtki
+\mb hor -U    -RI  -tEn      kogda.R Kekuk -W   nipke -D    -E-L     -RI  -tEn      ńaːn Esso -t(E)kI
+\ge go  -caus -pst -poss.3pl when.R  Kekuk -acc close -prog -ep-inch -pst -poss.3pl again  Esso -all
+
+\tx ururiten                 munu.
+\mb hor -U    -RI  -tEn      mun        -W
+\ge go  -caus -pst -poss.3pl 1pl.ex.obl -acc
+
+\ft And then from there we went to Esso, they took us away when they started to close Kekuk down and they took us to
+Esso.
+\ru А потом оттуда уехали, в Эссо увезли, когда Кекук стали закрывать,нас в Эссо вывезли.
+\ph ʊrriwʊniɕi   ʊrʊriten
+
+\id Axmetova_VI_childhood_39
+\ref 07:25
+\tx Essọːtki      munu            oruriten                 ọrọnịč,            tugenidu.
+\mb Essọː -t(E)kI mun        -W   hor -U    -RI  -tEn      ọrọn          -E-Č   tugeni -DU
+\ge Esso     -all    1pl.ex.obl -acc go  -caus -pst -poss.3pl domestic.reindeer -ep-ins winter -dat
+
+\ft To Esso they took us by reindeer, in winter.
+\ru Зимой в Эссо вывезли на оленях.
+\ph ʊrʊriten   tʊγenidu
+
+\id Axmetova_VI_childhood_40
+\ref 07:30
+\tx Bi   tala          ečiwudetitte                ŋiːwde        aːr.
+\mb biː tarak -(dU)LE e   -RI  -W        =DE  =tIt ŋiː -W   =DE  haː -R
+\ge 1sg  dist  -loc    neg -pst -poss.1sg =ptl =ptl who   -acc =ptl know -neg.cvb
+
+\ft I didn't know anybody at all there.
+\ru Я там никого не знала.
+\ph [ečiwu da etteŋiw da aːra]
+
+\id Axmetova_VI_childhood_41
+\ref 07:36
+\tx Ekeŋewu                 bisin             Polina Innokentevna, molodaja ženščina, noseːgčemker.
+\mb eken   -ŋ  -E-W         bi -RI  -n(I)     Polina Innokentevna  molodaja ženščina  nosegčen -mkEr
+\ge mother -aln -ep-poss.1sg be -pst -poss.3sg Polina Innokentevna  young.R  woman.R      young     -aug
+\ft My older sister lived there, Polina Innokent'evna, a young, big woman.
+\ru Моей сестрой было молодая женщина Полина Иннокентьевна.
+\ph nɔsɐːgʥɐmkər
+\gr nosegčemker - the Augmentative suffix refers to the person (i.e. she's a big woman, krupnaja) and not to the adjective,
+i.e. it does not mean that she's very young.
+
+\id Axmetova_VI_childhood_42
+\ref 07:43
+\tx Etikeːnnide            bisin,            ịlanda,   dʒoːrde    kụŋaŋịlnị,            ńarịkakar.
+\mb etikeːn -n(I)     =DE  bi -RI  -n(I)     ịlan =DE  dʒoːr =DE  kụŋa -ŋ  -E-L   -n(I)     ńarị -kEkEn -L
+\ge old.man  -poss.3sg =ptl be -pst -poss.3sg three  =ptl two     =ptl child   -aln -ep-pl -poss.3sg boy     -dim   -pl
+\ft She was married and had three, two children, boys.
+\ru Муж был, и двое детей, мальчишек.
+\ph ʥʊːrde
+\gr
+
+\id Axmetova_VI_childhood_43
+\ref 07:50
+\tx Taralbe        tọže ečiwu             aːr,         savsjeːm.
+\mb tarak -L  -W   tože.R e   -RI  -W        haː -R       sovsem.R
+\ge dist  -pl -acc also.R  neg -pst -poss.1sg know -neg.cvb completely.R
+
+\ft Those I also didn't know at all.
+\ru Их я тоже не знала.
+\ph
+\gr
+
+\id Axmetova_VI_childhood_44
+\ref 07:52
+\tx Nọŋartanda    minu         ečil        aːr.
+\mb nọŋartan =DE  min     -W   e   -RI  -L  haː -R
+\ge 3pl         =ptl 1sg.obl -acc neg -pst -pl know -neg.cvb
+
+\ft They also didn't know me.
+\ru И они меня не знали.
+\ph [aːra]
+\gr
+
+\id Axmetova_VI_childhood_45
+\ref 07:55
+\tx I     emnekun                     nan    tarak ekeŋewu                 Polina Innokentevna
+\mb i     em   -REk      -WUn         ńaːn tarak eken   -ŋ  -E-W         Polina Innokentevna
+\ge and.R come -cond.cvb -poss.1pl.ex again  dist  mother -aln -ep-poss.1sg Polina Innokentevna
+
+\tx minteki         ńọːŋčịn,     gudʒeːndeji                epkendeji                 ečin      ere...
+\mb min     -t(E)kI ńọːŋčị -n(I) gudʒeːn -DE       -J       hepken -DE       -J       erroːčin erek
+\ge 1sg.obl -all    run.nonfut     -3sg  kiss      -purp.cvb -prfl.sg catch  -purp.cvb -prfl.sg prox.qual  prox
+
+\ft And when we came there that older sister of mine Polina Innokentevna ran to me to kiss and hug me.
+\ru Когда приехали, моя сестра Полина Иннокентьевна ко мне подбегает поцеловать, обнять вот так вот.
+\ph ičin
+
+\id Axmetova_VI_childhood_46
+\ref 08:08
+\tx Bi   ečin      nekkoːttemeːj.
+\mb biː erroːčin nek -WEːČ -R(E)     -m   =eː
+\ge 1sg  prox.qual  do  -gnr    -nonfut   -1sg =emph
+
+\ft I do like this [shows how she wards off her sister with her hands].
+\ru Я так делаю.
+\ph ičin nɐkɔːttəməːj
+
+\id Axmetova_VI_childhood_47
+\ref 8:10
+\tx Ịakawụ   erek asịndʒaːn           minu         uŋnin,            gudʒeːnni.
+\mb ịak -awụ erek asị -ńdʒE -n(I)     min     -W   uŋ -RI  -n(I)     gudʒeːn -n(I)
+\ge what  -emph  prox woman -aug    -poss.3sg 1sg.obl -acc do  -pst -poss.3sg kiss      -3sg
+
+\ft Some big woman kissed me!
+\ru Меня какая-то крупная женщина целовала.
+\ph asịndjaːn
+\gr asịndʒan = čto za ženščina takaja! *asindʒa = ne govorjat; *asịndʒa emnin = ne govorjat, govorjat: asịkaːja emnin,
+asịmkar emnin
+\gr 30.01.13 (questions7, 37:45) ịakawụ erek asịndʒan = correct, one can also say ịakawụt asịmkar; ịakawụ erek asịndʒan =
+chto eto za bolshaja zhenshina! ịakawụt asịmkar = kakaja-to bolshaja zhenschina; ịakawụ erek asịmkar = chto eto za
+zhenshina!; ịak (erek) asịn = chto za zhenshina
+\gr 12.02.13 (questions16, 25:30) ịakawụ erek asịkaja = OK
+
+\id Axmetova_VI_childhood_48
+\ref 08:16
+\tx Patọːm mem... ekenteki       guːniwu             "ịakụč    asịndʒaːn           minu
+\mb potom.R   meme   eken   -t(E)kI goːn -RI  -W        ịak =(W)UttE asị -ńdʒE -n(I)     min     -W
+\ge then.R    mama   mother -all    say   -pst -poss.1sg what  =indef   woman -aug    -poss.3sg 1sg.obl -acc
+
+\tx gudʒeːnni,    tara".
+\mb gudʒeːn -n(I) tarak
+\ge kiss      -3sg  dist
+
+\ft Then I told my mother "Some big woman kissed me, here."
+\ru Потом сказала маме "Какая-то женщина меня целует, вот."
+\ph guːniwu  asịndjaːn  gudjeːnni
+\gr 30.01.13 (questions7, 40:05) ịakụč asịndʒan = correct, and ịakụt asịmkar is also OK
+\gr 12.02.13 (questions16, 26:00) ịakụt asịkaja = OK, correct, chto za zhenshina, just like ịakut asịndʒan and ịakụt asịmkar
+
+\id Axmetova_VI_childhood_49
+\ref 08:25
+\tx Ekeke  goːnin              "erekesi      iːn    ekeŋes".
+\mb ekeke  goːn -RI  -n(I)     erek -E=sI    iːn    eken   -ŋ  -E-s(I)
+\ge granny say   -pst -poss.3sg prox -ep=emph 2sg.obl mother -aln -ep-poss.2sg
+
+\ft And granny said "This is your older sister".
+\ru Мама сказала "это твоя сестра".
+\ph gʊːnin erekesi
+
+\id Axmetova_VI_childhood_50
+\ref 08:30
+\tx A     Polina Innokentevna, ekeŋewu,                ińinnoːttenej,                  "ịakawụ
+\mb a.R   Polina Innokentevna  eken   -ŋ  -E-W         ińin -WEːČ -R(E)   -n(I) =eː  ịak -awụ
+\ge but.R Polina Innokentevna  mother -aln -ep-poss.1sg laugh -gnr    -nonfut -3sg  =emph what  -emph
+
+\tx erek dikij  rịbjọːnak".
+\mb erek dikij  rebenok.R
+\ge prox wild.R child.R
+
+\ft And Polina Innokentevna, my older sister, laughed, "What a wild child!".
+\ru Полина Иннокентьевна, сестра, смеется "Что за дикий ребенок!".
+\ph ińinnɔːttənəːj
+\gr
+
+\id Axmetova_VI_childhood_51
+\ref 08:39
+\tx Tabačịsị nan    oruriten                 tadụk       agdịgụ   ịlkan staršiju,    Mavra
+\mb tabačịsị ńaːn hor -U    -RI  -tEn      tarak -DUk(U) agdịg -W   ịlkan staršij -W   Mavra
+\ge then          again  go  -caus -pst -poss.3pl dist  -abl    older   -acc true    older.R  -acc Mavra
+
+\tx erdelin                        bisiw,            naprawili v    Twajaːn, predsedatelem  kalxọza.
+\mb her    -gIdE -(dU)LI -n(I)     bi -RI       -W   naprawili v    Twajaːn  predsedatelem  kolxoza.R
+\ge bottom -part -prol   -poss.3sg be -impf.ptc -acc sent.R    in.R Twajaːn  director.ins.R collective.farm.gen.R
+
+\ft And then from there they sent my older sibling, my full brother, he who was under Mavra (the next child after Mavra),
+[in Russian:] sent (him) to Tvajan as the director of the collective farm.
+\ru Потом нас увезли оттуда (из Эссо),  старший брат моложе Мавры был, направили в Тваян председателем колхоза.
+\ph ururiten   aγdịwụː  
+\gr ịlkan = here has the meaning of 'sovsem'
+\nt I thought that this meant that this brother was the first full sibling, and that Mavra was just a half-sister, but during the
+translation Valentina Innokent'evna said that Mavra was a full sister
+
+\id Axmetova_VI_childhood_52
+\ref 08:56
+\tx Nan    Kirill Innokentevič munude               orurin                   memenumu
+\mb ńaːn Kirill Innokentevič mun        -W   =DE  hor -U    -RI  -n(I)     meme -ńUn -W
+\ge again  Cyril  Innokentevič 1pl.ex.obl -acc =ptl go  -caus -pst -poss.3sg mama -com  -poss.1sg
+
+\tx uŋteki           Twajaːntakị,  mụranịt     dʒụganịdụ.
+\mb uŋ       -t(E)kI Twajaːn -t(E)kI mụran -E-Č   dʒụganị -DU
+\ge something -all    Twajaːn -all    horse   -ep-ins summer       -dat
+
+\ft And Kirill Innokentevič took me and my mother to Tvajan, by horse in summer.
+\ru Потом Кирилл Иннокентьевич нас увез с мамой туда в Тваян на лошадях летом.
+\ph ururin   ʥụγənịdụ
+
+\id Axmetova_VI_childhood_53
+\ref 09:06
+\tx Tadụ     nan    bi   gọrụ tala          adịwdajị               ineŋu     ŋenniwun.
+\mb tarak -DU  ńaːn biː gọrụ tarak -(dU)LE adịː -W   =DE  -J       ineŋ -W   ŋen -RI  -WUn
+\ge dist  -dat again  1sg  long     dist  -loc    some    -acc =ptl -prfl.sg day   -acc go   -pst -poss.1pl.ex
+
+\ft We travelled there for a long time, several days.
+\ru Туда мы ехали очень долго, несколко дней.
+\ph gɔrịː
+\gr
+\nt the last three words all run into each other
+
+\id Axmetova_VI_childhood_54
+\ref 09:15
+\tx Tabịč tadụkasị           tadụ     taŋnarịwụ              škọlaːtki,   tabịč
+\mb tabịč tarak -DUk(U) -E=sI    tarak -DU  taŋ -nE     -RI  -W        škola.R -t(E)kI tabịč
+\ge again    dist  -abl    -ep=emph dist  -dat read -intent -pst -poss.1sg school.R -all    again
+
+\tx nanda       Kirill Innokentevič perevjọlliten           v    rajkom               partịjụ, nanda
+\mb ńaːn =DE  Kirill Innokentevič perevël.R -RI  -tEn      v    rajkom               partii       ńaːn =DE
+\ge again  =ptl Cyril  Innokentevič sent.R     -pst -poss.3pl in.R district.committee.R party.gen.R  again  =ptl
+
+\tx munu            amaskị         orurin.
+\mb mun        -W   amar   -skI      hor -U    -RI  -n(I)
+\ge 1pl.ex.obl -acc behind -advb.all go  -caus -pst -poss.3sg
+
+\ft Well afterwards I went to school there, and then they sent Kirill Innokentevič to the Party's district committee, and he
+took us back.
+\ru Потом там я пошла в школу, потом Кирилл Иннокентьевич перевели в райком партии (в Эссо) и нас увез обратно.
+\ph škɔlɐːtki  tabịt  amaɕki  ururin
+\gr From the contents and the structure this should be 2 sentences, but the intonation pattern is one sentence - she has a
+rising tone on the školatki.
+\nt The Party's district committee (rajkom) was in Esso.
+
+\id Axmetova_VI_childhood_55
+\ref 09:29
+\tx Nanda       bike       Kekukgič   emnidʒi,     keńelič    unet  aːrịwụ         meːn
+\mb ńaːn =DE  biː =kE   Kekuk -GIČ em   -RIdʒI  keńeli -Č  unet  haː -RI  -W        meːn
+\ge again  =ptl 1sg  =emph Kekuk -elat come -ant.cvb bad     -ins still know -pst -poss.1sg refl
+
+\tx radnjaːlbị.
+\mb rodnja.R    -L  -J
+\ge relatives.R -pl -prfl.sg
+
+\ft Then when I came from Kekuk, I knew my relatives only badly.
+\ru Потом я же когда из Кекука приехала, плохо свою родню (в Эссо) знала.
+\ph kəkukič
+\gr The Even word for 'rodnjalbị' would be 'aːnịlbị'.
+\nt She hadn't managed to meet all her relatives in Esso the first time round because they were there for only half a year
+after they moved there from Kekuk, then they already moved to Tvajan.
+
+\id Axmetova_VI_childhood_56
+\ref 09:44
+\tx I     tut    nanda       ọmŋawaːttam,             nekotoryx, patamụːšta ečiwu             unet
+\mb i     tut    ńaːn =DE  ọmŋa -WEːČ -R(E)   -m   nekotoryx  potomučto.R   e   -RI  -W        unet
+\ge and.R here.R again  =ptl forget  -gnr    -nonfut -1sg some.R     because.R      neg -pst -poss.1sg yet
+
+\tx uspelle            čelenunni            aːmalkamattajị.
+\mb uspel     -R       čele -ńUn -n(I)     haː -mElčI -mEČ -DE       -J
+\ge managed.R -neg.cvb all   -com  -poss.3sg know -acclr  -rec  -purp.cvb -prfl.sg
+
+\ft And I had already forgotten some of them again, because I hadn't managed to get to know them all.
+\ru И тут опять забыла некоторых, потому что не успела со всеми познакомиться (в первый раз, когда из Кекука
+приехала).
+\ph
+\gr 'nekotoryx' in Even = aːwanda; aːmalkamattaj = naučit'sja, poznakomit'sja
+\nt
+
+\id Axmetova_VI_childhood_57
+\ref 09:56
+\tx Tabịč škọlaːtki    taŋnarịwụ,             umen bejkeker   urkečen       minu
+\mb tabịč škola.R -t(E)kI taŋ -nE     -RI  -W        omen bej -kEkEn hurkeːn -čEn min     -W
+\ge again    school.R -all    read -intent -pst -poss.1sg one  man -dim   boy      -dim  1sg.obl -acc
+
+\tx ŋaːldụwụ        epkeni             elgedeji.
+\mb ŋaːl -DU  -W        hepken       -n(I) elge -DE       -J
+\ge hand   -dat -poss.1sg catch.nonfut -3sg  lead -purp.cvb -prfl.sg
+
+\ft Well, I went to school, and a boy took me by the hand to lead me.
+\ph
+\gr 05.02.13 (questions11, 28:55) urkečen = parnishka, urkečekeken mozhno skazatj; urkekeken = estj; urkekeken =
+parnishechka xoroshij, urkečen = obychno govorjat xuliganisty malchishka; urkejeken = parnishka; urkekeken =
+parnishka; urkečekeken = xuliganisty; asatkačan = xuliganistaja devushka; djedječen = djadjeshka, ne xuliganisty;
+when I asked ŋịnčan she said mozhno, but then said min ŋịnčamụ, and when I said a prosto ŋịnčan, da ŋịnčan, ịak
+ŋịnčannị, chja sobaka - which does make it sound as if it's NOT possible without possessive when it doesn't refer to kin
+and doesn't have an attitudinal effect like urkečen; ọkaːtčan = malenkaja rechka, bystraja; ŋịnčamụ, but ọkaːtčan is OK,
+bi ọkaːtčam ittem = OK, correct; 
+\ru Потом когда пошла в школу один паренек схватил меня за руку чтобы повести.
+\ph ʊmən
+\gr The bejkekeR is an ogovorka, should be bejkekeN
+
+\id Axmetova_VI_childhood_58
+\ref 10:06
+\tx Bi   apjat    ečin      ere  umekič.
+\mb biː opjat'.R erroːčin erek umekič
+\ge 1sg  again.R  prox.qual  prox very
+
+\ft Once again I (did) like this [showing with her hands how she warded him off].
+\ru
+\ph ičin
+
+\id Axmetova_VI_childhood_59
+\ref 10:09
+\tx Tabačịsị kastjumgekude                   mindu        padarillin,              meːn kastjumik
+\mb tabačịsị kostjum.R -GE    -W        =DE  min     -DU  podaril.R -RI  -n(I)     meːn kostjum.R
+\ge then          suit.R    -desig -poss.1sg =ptl 1sg.obl -dat gave.R    -pst -poss.3sg refl  suit.R
+
+\tx kučuken ọːčaːwan.
+\mb kočuken ọː  -čE      -W   -E-n(I)
+\ge small    become -pf.ptc   -acc -ep-poss.3sg
+
+\ft Then he gave me a suit that had become too small (for him).
+\ru Потом он мне костюм подарил, обмалевшейся.
+\ph
+\gr in Even 'podarillin' would be 'aːnịrịn'
+
+\id Axmetova_VI_childhood_60
+\ref 10:17
+\tx Taraw      emuriwu                   ečin      ekendi              boːriwu             goːnem            ekeke
+\mb tarak -W   em   -U    -RI  -W        erroːčin eken   -DI          boː -RI   -W        goːn -R(E)   -m   ekeke
+\ge dist  -acc come -caus -pst -poss.1sg prox.qual  mother -dat.prfl.sg give -pst  -poss.1sg say   -nonfut -1sg granny
+
+\tx ere  ịakụč     kụŋan          mindu        boːrin,            elgen      ŋaːldụda
+\mb erek ịak =(W)UttE kụŋa -n(I)     min     -DU  boː -RI  -n(I)     elge -n(I) ŋaːl -DU  =DE
+\ge prox what  =indef   child   -poss.3sg 1sg.obl -dat give -pst -poss.3sg lead -3sg  hand   -dat =ptl
+
+\tx elgedeji                nekrin.
+\mb elge -DE       -J       nek -RI  -n(I)
+\ge lead -purp.cvb -prfl.sg do  -pst -poss.3sg
+
+\ft And that (the suit) I took and gave to my mother, and said "Some boy gave it to me, wanted to lead me by the hand."
+\ru Вот это принесла, вот так вот отдала маме, говорю "какой-то парень мне отдал, повести за руку хотел."
+\ph ičin buːriwu  gʊːnəm  buːrin  ŋaːldụːda
+
+\id Axmetova_VI_childhood_61
+\ref 10:28
+\tx Mamawu           ekmu             nanda       ińinidʒillin,                        tarak goːnni
+\mb mama   -W        eken   -W        ńaːn =DE  ińin -E-D     -E-L     -RI  -n(I)     tarak goːn      -n(I)
+\ge mama.R -poss.1sg mother -poss.1sg again  =ptl laugh -ep-prog -ep-inch -pst -poss.3sg dist  say.nonfut -3sg
+
+\tx in      agdịgịs.
+\mb hin     agdịg -E-s(I)
+\ge 2sg.obl older   -ep-poss.2sg
+
+\ft My mother started to laugh again and said "That is your older brother".
+\ru Моя мама стала опять смеяться и говорит "Это твой брат".
+\ph gʊːni   aγdịγịs
+\gr
+
+\id Axmetova_VI_childhood_62
+\ref 10:38
+\tx Nu     ladno.
+\mb nu     ladno
+\ge well.R OK.R
+\ft OK.
+\ru
+\ph
+
+\id Axmetova_VI_childhood_63
+\ref 10:39
+\tx Nan    tačịn       tarabịč   entukuken aːmalkattịwụ                čelewen                meːn
+\mb ńaːn tarọːčịn tarabịč   entukuken haː -mElčI -Č  -RI  -W        čele -W   -E-n(I)      meːn
+\ge again  dist.qual      at.that.time softly    know -acclr  -res -pst -poss.1sg all   -acc -ep-poss.3sg refl
+
+\tx uŋelbi,                  radnjajị.
+\mb uŋ       -E-L   -J       rodnja.R    -J
+\ge something -ep-pl -prfl.sg relatives.R -prfl.sg
+
+\ft Well, and like that I gradually became acquainted with all my relatives.
+\ph
+\gr 30 June 2016: could one say a:tmalkariwu? = NO! net takogo slova
+\ru И вот так в это время я потихоньку стала узнавать всю свою родню.
+\gr aːmalkamattaj = ottenok bystro poznakomit'sja

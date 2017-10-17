@@ -1,0 +1,672 @@
+\_sh v3.0  779  Text
+
+\id K_AgreementBook01
+\ref Esso2003_48:35
+\tx Urkeːn  kojeːttidʒi    boːrin             (bọlọknọtụ) kụčụkam
+\mb hurkeːn kojeːt -RIdʒI  boː -RI  -n(I)     bọlọknọt -W   kočuken -W
+\ge boy      look.at -ant.cvb give -pst -poss.3sg notebook.R     -acc small    -acc
+
+\tx knigaw      asatkandụ.
+\mb kniga  -W   asatkan -DU
+\ge book.R -acc girl    -dat
+
+\ft
+\ru Парень дал, посмотрев, девушке блокнот/маленькую книгу.
+\ph buːrin  asatkandu
+
+\id K_AgreementBook02
+\ref Esso2003_50:13
+\tx Urkeːn  dʒulle       kojeːčiddin                   egdʒem      knigaːmkeru
+\mb hurkeːn dʒul -(dU)LE kojeːt -E-D     -RI  -n(I)     egdʒen -W   kniga  -mkEr -W
+\ge boy      front -loc    look.at -ep-prog -pst -poss.3sg big     -acc book.R -aug  -acc
+
+\tx dʒawụtnịkan             ŋaːldị          ńan   boːrin             asatkandụ.
+\mb dʒaw      -E  -Č  -nIkEn   ŋaːl -DI          ńaːn boː -RI  -n(I)     asatkan -DU
+\ge catch.hold -ep -res -sim.cvb hand   -dat.prfl.sg again  give -pst -poss.3sg girl    -dat
+
+\ft
+\ru Парень сначала посмотрел большую книгу держа ее в руках, затем отдал девушке.
+\ph d'ulle (the palatalization was very weak)   egd'em   d'awətnikan  buːrin  asatkandu
+
+\id K_AgreementBook03
+\ref Esso2003_52:55
+\tx Urkeːn  boːdeji                nekrin             kụčụkam  knigaw      dʒulle
+\mb hurkeːn boː -DE       -J       nek -RI  -n(I)     kočuken -W   kniga  -W   dʒul -(dU)LE
+\ge boy      give -purp.cvb -prfl.sg do  -pst -poss.3sg small    -acc book.R -acc front -loc
+
+\tx asatkandụ, ńaːn mergeːčisnidʒi        boːrin             egdʒekejew.
+\mb asatkan -DU  ńaːn mergeːt -s(E)n -RIdʒI  buː -RI  -n(I)     egdʒen -kEːjE -W
+\ge girl    -dat and    think    -lim   -ant.cvb give -pst -poss.3sg big     -aug    -acc
+
+\ft
+\ru Парень хотел дать сначала маленькую книгу девушке, но подумав быстро дал большую.
+\ph boːdeji  d'ulle  asatkandu  buːrin
+\gr mergeːttidʒi = podumav osnovatel'no; mergeːčisnidʒi = bystro podumav
+
+\id K_AgreementBook04
+\ref Esso2007_27:25
+\tx Urkeːn  boːrin             asatkandụ  čụːrńaw
+\mb hurkeːn buː -RI  -n(I)     asatkan -DU  čụːrụńa -W
+\ge boy      give -pst -poss.3sg girl    -dat yellow.green   -acc
+
+\tx knigaw    (taŋịnmajụ)  kojeːttidʒi.
+\mb kniga  -W taŋ -E-nmEj -W   kojeːt -RIdʒI
+\ge book.R -acread -ep-anr -acc look.at -ant.cvb
+
+\ru Парень дал девушку желтую книгу, посмотрев сначала.
+\ph urkɐːn  buːrin  asatkandu
+\gr
+\nt She at first only said "buːrin asatkandụ taŋịnmajụ"; when I asked, she said "čụːrụńaw knigaw".
+
+\id K_AgreementBook05
+\ref Esso2007_29:35
+\tx Urkeːn  kojeːčiddin                   ŋuleńew     taŋịnmajụ,   ńan
+\mb hurkeːn kojeːt -E-D     -RI  -n(I)     ŋuleńe -W   taŋ -E-nmEj -W   ńaːn
+\ge boy      look.at -ep-prog -pst -poss.3sg red      -acc read -ep-anr -acc again
+
+\tx boːrin             asatkandụ.
+\mb buː -RI  -n(I)     asatkan -DU
+\ge give -pst -poss.3sg girl    -dat
+
+\ru Парень смотрел красную книгу и затем отдал девушке.
+\ph urkɐːn  ŋuleńɐw  buːrin  asatkandu
+
+\id K_AgreementBook06
+\ref Esso2008_41:10
+\tx Urkeːn  boːrin             čụlbańaw     kniškaw          kučeːleːkendu
+\mb hurkeːn buː -RI  -n(I)     čụlbańa -W   kniška      -W   kučeːle -KEn -DU
+\ge boy      give -pst -poss.3sg grue        -acc small.book.R -acc small     -dim -dat
+
+\tx asatkandụ.
+\mb asatkan -DU
+\ge girl    -dat
+
+\ru Парень дал голубую книжечку маленькой девушке.
+\ph buːrin  asatkandu
+
+\id K_AgreementBook07
+\ref Esso2008_42:20
+\tx Urkeːn  kojeːčiddidʒi          kniškajị           dọːwan
+\mb hurkeːn kojeːt -E-D     -RIdʒI  kniška      -J       dọː -W   -E-n(I)
+\ge boy      look.at -ep-prog -ant.cvb small.book.R -prfl.sg inside -acc -ep-poss.3sg
+
+\tx boːrin              gụːdańadụ  asatkandụ  ńọːbatịč    ńuːritlettidu.
+\mb buː -RI   -n(I)     gụːdańa -DU  asatkan -DU  ńọːbatị -Č  ńuːrit -LEČ -RI       -DU
+\ge give -pst  -poss.3sg tall        -dat girl    -dat white         -ins hair     -vr   -impf.ptc -dat
+
+\ru Парень, посмотрев что в его книжке, отдал высокой девушке с белыми волосами.
+\ph doːwan  buːrin
+\gr Esso2008_48:25: ńọːbatịč ńuːritlettidu = tomu, u kotorogo belye volosy; možno i skazat' "ńọːbatị
+ńuːritilken";  
+\nt There's a break of about 5 minutes in between her saying the above sentence and further
+explanations, translation, etc, because she had to run to the loo.
+\gr
+\nt Esso3002_46:00
+\tx ńọːbatịč    ńuːritlettem
+\mb ńọːbatị -Č  ńuːrit -LEČ -R(E)   -m
+\ge white         -ins hair     -vr   -nonfut -1sg
+\ru Я имею белые волосы.
+
+\id K_AgreementBook08
+\ref Esso2008_38:24
+\tx Urkeːn  dʒulle       nekrin             boːdeji                knigaw      omendu
+\mb hurkeːn dʒul -(dU)LE nek -RI  -n(I)     boː -DE       -J       kniga  -W   omen -DU
+\ge boy      front -loc    do  -pst -poss.3sg give -purp.cvb -prfl.sg book.R -acc one  -dat
+
+\tx asatkandụ  ńaːn ịamịwụt     boːrin             ontedu.
+\mb asatkan -DU  ńaːn ịamị =(W)UttE buː -RI  -n(I)     honte -DU
+\ge girl    -dat and    why      =indef   give -pst -poss.3sg other -dat
+
+\ph d'ulle  boːdeji   ʊmendu   buːrin  uːntedu
+\gr
+\nt Esso2008_39:00
+\tx Urkeːn  boːdeji                nekrin             knigaw      kučeːlekekendu
+\mb hurkeːn boː -DE       -J       nek -RI  -n(I)     kniga  -W   kučeːle -kEkEn -DU
+\ge boy      give -purp.cvb -prfl.sg do  -pst -poss.3sg book.R -acc small     -dim   -dat
+
+\tx asatkandụ  ńan   buːrin             ŋọnamdụ  asatkandụ.
+\mb asatkan -DU  ńaːn buː -RI  -n(I)     ŋọnam -DU  asatkan -DU
+\ge girl    -dat again  give -pst -poss.3sg long     -dat girl    -dat
+
+\ru Мальчик хотел дать книгу маленькой девушке, но отдал высокой.
+\ph ŋonəmdu
+\nt The second sentences she said after I prompted her.
+
+\id K_AgreementBook11
+\ref Esso2008_49:35
+\tx Gụːdańa asatkan taŋaddịn                  knigajị       ńan
+\mb gụːdańa asatkan taŋ -E-D     -RI  -n(I)     kniga  -J       ńaːn
+\ge tall        girl    read -ep-prog -pst -poss.3sg book.R -prfl.sg again
+
+\tx neːdin             əstọl eːjelen                  \\  əstọlla.
+\mb neː -RI  -n(I)     stol.R   eːjeː -(dU)LE -n(I)     *\\ stol.R  -(dU)LE
+\ge put  -pst -poss.3sg table.R  top     -loc    -poss.3sg *** table.R -loc
+
+\ru Высокая девушка читала свою книгу и положила на поверхность стола // на стол.
+\ph asatkan  taŋəddən  eːjeleːn
+
+\id K_AgreementBook12
+\ref Esso2008_51:10
+\tx Toːbere  toːbeńe asatkan kojeːčiddin                   knigajị
+\mb toːbeńe toːbeńe asatkan kojeːt -E-D     -RI  -n(I)     kniga  -J
+\ge low       low       girl    look.at -ep-prog -pst -poss.3sg book.R -prfl.sg
+
+\tx neːdin             stọlla.
+\mb neː -RI  -n(I)     stol.R  -(dU)LE
+\ge put  -pst -poss.3sg table.R -loc
+
+\ru Низкая девушка смотрела свою книгу, положила на стол.
+\ph toːbɐrɐ  asatkan
+
+\id K_AgreementSentences1a
+\ref Esso1006_1:04:25
+\tx Ịlan oxotnikel       epkeniten             egdʒem      kọbalam.
+\mb ịlan oxotnik  -E-L   hepken -RI  -tEn      egdʒen -W   kọbalan -W
+\ge three  hunter.R -ep-pl catch  -pst -poss.3pl big     -acc bear      -acc
+
+\ft
+\ru Три охотника вместе поймали огромного медведя.
+\ph
+\gr epkeniten = pojmali; epkuriten = lovili; epkenniten = mnogo ljudej xodili i vylavlivali
+
+\id K_AgreementSentences1b
+\ref Esso2002_10:00
+\tx Bi   ečiwu             čelewen                goːŋise        - bi
+\mb biː e   -RI  -W        čele -W   -E-n(I)      goːŋi -R       - biː
+\ge 1sg  neg -pst -poss.1sg all   -acc -ep-poss.3sg invite  -neg.cvb - 1sg
+
+\tx goːŋisčiwu                 mịam      čeledukun
+\mb goːŋi -s(E)n -RI  -W        mịan -W   čele -DUk(U) -n(I)
+\ge invite  -lim   -pst -poss.1sg ten    -acc all   -abl    -poss.3sg
+
+\tx ajịŋalbị                dʒaːlbị.
+\mb aj   -E-ŋ   -E-L   -J       dʒaːl -J
+\ge good -ep-aln -ep-pl -prfl.sg friend  -prfl.sg
+
+\ft
+\ru (Ты пригласил всех?) Нет, я пригласил только десять самых лучших друзей.
+\ph guːŋiše, guːŋisčiwu
+\gr ja budu zvat' = goːŋisčim, goːŋisemču = ja pozval by --> -mč(I) = Subjunctive; the -s- in
+goːŋisčiwu might be the Limitative, and the -či- might be the Past tense marker;
+(Esso2006_42:40) Pozovi ix (idi i pozovi) = goːneli! guːli  emdeten= sejčas zovi, pust' pridut;
+goːŋisli = pozovi ix vsex, priglašaj ix, *goːŋili "netu"; there is a verbalizing suffix -ŋ, which
+derives verbs (from nouns?) with a meaning of choosing the object, e.g. ọrọŋdaj = "vybrat' sebe
+olenja" (Rishes&Cincius). It would seem as if goːn --> goːŋ(i) could be derived with this suffix,
+since an invitation involves some choice - but I do not know whether this works, since it appears
+to be a denominal verbalizing suffix....
+\qu check the form go:ngischiwu!!! is there a form go:ngisniwu? that would be the 'standard' Limitative-Past;
+possibly the -s- in go:ngis triggered the -chi- past tense as in echiwu; or is it go:- plus some suffix
+-ngis-??
+
+\id K_AgreementSentences1c
+\ref Esso2004_29:00
+\tx Alịŋọ ọːkaŋčịrịn           ekmi            emniw               ịrkanịkan
+\mb alịŋọ ọːkaŋčị -RI  -n(I)     eken   -J       em   -RI       -W   ịrka -nIkEn
+\ge girl       be.happy       -pst -poss.3sg mother -prfl.sg come -impf.ptc -acc scream -sim.cvb
+
+\tx ọːkaŋčịmị.
+\mb ọːkaŋčị -mI
+\ge be.happy       -cond.cvb
+
+\ft
+\ru Дочь приветствовала вернувшуюся мать радостным криком.
+\ph
+\gr Interestingly, she at first said as an aside to me alịŋọwụ = doč', but then she gave the
+unpossessed form as a translation
+\nt The Russian 'translation' is what we gave as an elicitation stimulus.
+\nt Esso3002_5:15
+\nt When I repeated the above sentence to her on the 22.06., she said it didn't make sense, "čto-to ne
+to skazali", and gave the following new translation:
+\tx Alịŋọ ọːkaŋčịrịn           ekmi            emneken,
+\mb alịŋọ ọːkaŋčị -RI  -n(I)     eken   -J       em   -REk      -E-n(I)
+\ge girl       be.happy       -pst -poss.3sg mother -prfl.sg come -cond.cvb -ep-poss.3sg
+
+\tx ọːkaŋčịmị       ịrkarịn.
+\mb ọːkaŋčị -mI       ịrka -RI  -n(I)
+\ge be.happy       -cond.cvb scream -pst -poss.3sg
+
+\ru Дочь радовалась, когда мать пришла, кричала радостно.
+\ph
+\gr Fast in the beginning she said: Alịŋọ ọːkančịnịkan ịrkarịn ekmi emneken.
+
+\id K_AgreementSentences1d
+\ref Esso2004_33:40
+\tx Nọŋan tettin                nasakụw                 kurtkaw,      anŋamtawasị
+\mb nọŋan tet    -RI  -n(I)     nasar          -kU   -W   kurtka   -W   anŋamta -W   -E=sI
+\ge 3sg      put.on -pst -poss.3sg tear.intr.smlf -adjr -acc jacket.R -acc new      -acc -ep=emph
+
+\tx emenin                škafla.
+\mb emeːn -RI  -n(I)     škaf      -(dU)LE
+\ge leave  -pst -poss.3sg cupboard.R -loc
+
+\ft
+\ru Он надел разорванную куртку, а новую оставил в шкафу.
+\ph našakuw
+
+\id K_AgreementSentences2a
+\ref Esso1006_1:05:07
+\tx Erel     asatkar     uniriten           meːrdur               ŋuleńew
+\mb erek -L  asatkan -L  uni -RI  -tEn      meːn -L  -DUr         ŋuleńe -W
+\ge prox -pl girl    -pl buy -pst -poss.3pl refl  -pl -dat.prfl.pl red      -acc
+
+\tx jubkagawur.
+\mb jubka   -GE    -WUr
+\ge skirt.R -desig -prfl.pl
+
+\ft
+\ru Эти девочки купили себе красные юбки.
+\ph aš'atkar + jubkaγawər
+
+\id K_AgreementSentences2b
+\ref Esso2002_13:07
+\tx Maša ŋeːllin                ńumusčin                 neːimegem
+\mb Maša ŋeːl    -RI  -n(I)     ńumu     -sčI  -n(I)     neːgi -mEgEn -W
+\ge Masha be.afraid -pst -poss.3sg be.shy.of -conat -poss.3sg scold  -nr    -acc
+
+\tx akmị,         ekmisi                aju       entekeːje ajaːwrịn.
+\mb akan   -J       eken   -J       =sI   aj   -W   entekeːje ajaːw -RI  -n(I)
+\ge father -prfl.sg mother -prfl.sg =emph good -acc strong     love   -pst -poss.3sg
+
+\ft
+\ru Маша боялась своего строго отца, а свою кроткую мать она очень любила.
+\ph
+\gr ŋeː = be afraid in general; ńumu = be afraid of people, be shy of people, stesnjat'sja; 
+(Esso2006_44:25) The (normal) past tense is ńumurin "pobaivalas', stesnjalas'", and it's to zhe
+samoe as ńumusčin; the generic form is ńumuweːtten; *ńumusnin does not exist;
+
+\id K_AgreementSentences2c
+\ref Esso2004_30:55
+\tx Ọrọn          dʒọrmịča         meːnken       mụčụrịn           dʒụːtkị.
+\mb ọrọn          dʒọrọm -E-čE     meːn -KEn     mụčụ -RI  -n(I)     dʒụː -t(E)kI
+\ge domestic.reindeer steal       -ep-pf.ptc refl  -dim.int return    -pst -poss.3sg house    -all
+
+\ft
+\ru Олень, которого украли, сам вернулся домой.
+\ph
+\gr Esso3006_5:05
+\tx Mụram      dʒọrmịčatan                \\  mụran dʒọrmịtla
+\mb mụran -W   dʒọrọm -E-čE     -tEn      *\\ mụran dʒọrọm -tlE
+\ge horse   -acc steal       -ep-pf.ptc -poss.3pl *** horse   steal       -pst.ptc
+
+\tx ńọːnịn            mụčụrịn           dʒụːtkị.
+\mb ńọːn -RI  -n(I)     mụčụ -RI  -n(I)     dʒụː -t(E)kI
+\ge run.away -pst -poss.3sg return    -pst -poss.3sg house    -all
+
+\ru Лошадь, которую украли, убежала и вернулась домой.
+\ph
+\qu Should have asked about the participles!!!!
+\nt
+\tx Bej dʒọrmịča         mụram      prodaldaji                nekrin
+\mb bej dʒọrọm -E-čE     mụran -W   prodal -DE       -J       nek -RI  -n(I)
+\ge man steal       -ep-pf.ptc horse   -acc sell.R -purp.cvb -prfl.sg do  -pst -poss.3sg
+
+\tx Anawgajdụ  \\  Anawgajla.
+\mb Anavgaj -DU  *\\ Anavgaj -(dU)LE
+\ge Anavgai -dat *** Anavgai -loc
+
+\ru Мужчина, который украл лошадь, хотел ее продать в Анавгае.
+\ph
+\gr The Locative is better than the Dative.
+
+\id K_AgreementSentences2d
+\ref Esso2004_34:20
+\tx Ọŋịtča           asatkan ukleːsnerin,
+\mb họŋ -E-Č   -čE    asatkan hukle -s(E)n -E-RI   -n(I)
+\ge cry    -ep-res -pf.ptc girl    sleep -lim   -ep-pst -poss.3sg
+
+\tx inimeddisi                     urrin                diskotekatki.
+\mb inim  -E-D     -RI       =sI   ur    -RI  -n(I)     diskoteka -t(E)kI
+\ge smile -ep-prog -impf.ptc =emph leave -pst -poss.3sg disco.R   -all
+
+\ft
+\ru Заплаканная девушка пошла спать, а смеющаяся пошла на дискотеку.
+\ph
+\qu is ukle:snerin just the limitative suffix, or is it limitative followed by the intentional suffix? cf. sentence
+below
+\ph
+\gr Esso3006_7:45
+\tx Ọŋčal          asatkar     ukleːneriten,
+\mb họŋ -čE    -L  asatkan -L  hukle -nE     -RI  -tEn
+\ge cry    -pf.ptc -pl girl    -pl sleep -intent -pst -poss.3pl
+
+\tx inimsillisi                           urriten           diskotekatki.
+\mb inim  -s(E)n -E-L     -RI       =sI   ur -RI  -tEn      diskoteka -t(E)kI
+\ge smile -lim   -ep-inch -impf.ptc =emph go -pst -poss.3pl disco.R   -all
+
+\ft
+\ru Заплаканные девушки пошли спать, а смеющиеся пошли на дискотеку.
+\ph
+\gr Esso3006_8:30
+\tx Bi   ittiwu             ọŋčaw           asatkam      bibliotekala,
+\mb biː it  -RI  -W        họŋ -čE    -W   asatkan -W   biblioteka -(dU)LE
+\ge 1sg  see -pst -poss.1sg cry    -pf.ptc -acc girl    -acc library.R  -loc
+
+\tx inimsiwesi                           muzejla.
+\mb inim  -s(E)n -RI       -W   -E=sI    muzej    -(dU)LE
+\ge smile -lim   -impf.ptc -acc -ep=emph museum.R -loc
+
+\gr (Ess3007_3:45) ińimsiw = ulybajushujusja;  ja smejalas' = inimriwu\\ inimniwu; inimesčin =
+ulybaetsja;; I'm not sure my analysis of inimsiwesi is correct, but it's really all I can think of,
+because the plain imperfect participle should be inimriwesi
+\nt
+\nt Esso3002_10:00
+\tx Bi   dọlbịnnọn  ọŋnịwụ,        teːmi    tiːk ịašalụ        ŋuleńe.
+\mb biː dọlbịn -nAn  họŋ -RI  -W        teːmi    tiek  ịašal -W        ŋuleńe
+\ge 1sg  night      -advr cry    -pst -poss.1sg therefore now   eyes     -poss.1sg red
+
+\ru Я всю ночь плакала, а сейчас глаза красные.
+\ph
+\nt Esso3002_10:53
+\tx Kụŋa ọŋịsnịn                 ńan   tarịdʒịt ọddịn        \\
+\mb kụŋa họŋ -E-s(E)n -RI  -n(I)     ńaːn tarịdʒịt ọd -RI  -n(I)
+\ge child   cry    -ep-lim  -pst -poss.3sg again  at.once       stop -pst -poss.3sg
+
+\tx ịgranịn.
+\mb ịgran     -RI  -n(I)
+\ge stop.crying -pst -poss.3sg
+
+\ru Мальчик только немного поплакал и сразу перестал.
+\ph ịγranin
+\ph
+\nt Esso3002_11:30
+\tx Bi   ińineddiwu                   ińineddiwunun
+\mb biː ińin -E-D     -RI  -W        ińin -E-D     -RI  -W        -ńUn
+\ge 1sg  laugh -ep-prog -pst -poss.1sg laugh -ep-prog -pst -poss.1sg -com
+
+\tx kojeːčidmi               kinow         "Osobennosti nacionalnoj          oxoty".
+\mb kojeːt -E-D     -mI       kino     -W
+\ge look.at -ep-prog -cond.cvb movies.R -acc 
+
+\ru Я смеялась и смеялась когда смотрела кино "Особенности национальной охоты".
+\ph
+\nt Esso3002_12:47
+\tx Iː dọldarịdʒị televizoru     vyigralčajị           ińinellis.
+\mb iː dọlda -RIdʒI   televizor -W   vyigral -čE    -J       ińin -E-L     -RI  -s(I)
+\ge 2sg hear    -ant.cvb  TV.R      -acc won.R   -pf.ptc -prfl.sg laugh -ep-inch -pst -poss.2sg
+\ru Когда ты узнал, что выиграл телевизор, ты засмеялся.
+
+\id K_AgreementSentences3a
+\ref Esso1006_1:06:25
+\tx Erelnun        ịlannụn  kụŋalnụn     bu     iwiddiwun                     čelew
+\mb erek -L  -ńUn ịlan -ńUn kụŋa -L  -ńUn buː   ewiː -D    -RI  -WUn         čele -W
+\ge prox -pl -com  three  -com  child   -pl -com  1pl.ex play  -prog -pst -poss.1pl.ex all   -acc
+
+\tx ineŋu
+\mb ineŋ -W
+\ge day   -acc
+
+\ft
+\ru С этими тремя мальчиками мы играли весь день.
+\ph
+\gr ineŋendʒew = ves' den'
+
+\id K_AgreementSentences3b
+\ref Esso2002_15:30
+\tx Ịaw      oleːtčinni          tịmịna obedteki?       Bi   oleːtčim            erew
+\mb ịak -W   oleː -Č  -DʒI -nrI tịmịna obed    -t(E)kI biː oleː -Č  -DʒI -m   erek -W
+\ge what  -acc cook  -res -fut  -2sg tomorrow   lunch.R -all    1sg  cook  -res -fut  -1sg prox -acc
+
+\tx dallaw     iligčew.
+\mb dalra -W   iligče -W
+\ge tasty -acc soup    -acc
+
+\ft
+\ru Что приготовишь завтра на обед? Я приготовлю этот вкусный суп.
+\ph the iligčew sounded rather lower, more like ịlịgčaw
+\gr At first said obeddu; dalra is clearly related to/derived from dal 'be tasty', but we don't yet know
+(March 2010) what the suffix -ra would be
+\nt iligče looks as if it could be hil-i-g-če, i.e. 'soup'-ep-vr(produceN)-prf.ptcp
+
+\id K_AgreementSentences3c
+\ref Esso2004_31:16
+\tx Bi   ittiwu             ŋinu     muddiw              omem      kụŋakam.
+\mb biː it  -RI  -W        ŋin -W   mud  -RI       -W   omen -W   kụŋa -KEn -W
+\ge 1sg  see -pst -poss.1sg dog  -acc bite -impf.ptc -acc one  -acc child   -dim -acc
+\ft
+\ru Я увидел собаку, кусающую одного мальчика.
+
+\id K_AgreementSentences4a
+\ref Esso1006_1:07:30
+\tx Erroːčim      knigaw      bi   ọːkta    ečiwu             taŋna.
+\mb erroːčin -W   kniga  -W   biː ọːk =DE  e   -RI  -W        taŋ -R
+\ge prox.qual  -acc book.R -acc 1sg  when   =ptl neg -pst -poss.1sg read -neg.cvb
+\ft
+\ru Такую книгу я никогда не читал.
+\ph taŋnə
+\gr At first here she said erroːčoN knigaw, but after eliciting 5a (where she gave the inflected form
+erroːčoM) I asked her again, and she said it should be erroːčiM, as I wrote it here.
+\nt
+\nt Esso2005_6:30
+\tx Erroːčini taŋịnmaj  aj   anịdʒ.
+\mb erroːčin  taŋ -E-nmEj aj   anịː      -(nE)dʒ
+\ge prox.qual   read -ep-anr good give.as.gift -nr
+\ft
+\ru Такая книга - хороший подарок!
+\ph
+\gr Esso2005_7:00
+\tx Erroːčom      knigaw      \\ taŋịnmajụ    bi   ečiwu             unet
+\mb erroːčin -W   kniga  -W   \\ taŋ -E-nmEj -W   biː e   -RI  -W        unet
+\ge prox.qual  -acc book.R -acc    read -ep-anr -acc 1sg  neg -pst -poss.1sg yet
+
+\tx taŋna.
+\mb taŋ -R
+\ge read -neg.cvb
+
+\ru Такую книгу я еще не читала.
+
+\id K_AgreementSentences4b
+\ref Esso2002_16:15
+\tx Erek anŋamta kilieb? Esni,             akmụ           bakrịn
+\mb erek anŋamta kilieb  e   -R(E)   -n(I) akan   -W        bak  -RI  -n(I)
+\ge prox new      bread.R neg -nonfut -3sg  father -poss.1sg find -pst -poss.3sg
+
+\tx magazindụla   tiniwereputken.
+\mb magazin -(dU)LE tiniw     -(E)rEp -W   =t(E)kEn
+\ge shop.R  -loc    yesterday -adjr   -acc =restr
+
+\ft
+\ru Это свежий хлеб? Нет, папа в магазине нашел только вчерашнего хлеба.
+
+\id K_AgreementSentences4c
+\ref Esso2004_31:45
+\tx Minu         ọːkaŋčịrịč          arčịrịn           kụŋakan   bike
+\mb min     -W   ọːkaŋčị -RI       -Č  arčị -RI  -n(I)     kụŋa -KEn biː =kE
+\ge 1sg.obl -acc be.happy       -impf.ptc -ins meet    -pst -poss.3sg child   -dim 1sg  =emph
+
+\tx buːriwu            nọŋandu    knigaw.
+\mb buː -RI  -W        nọŋan -DU  kniga  -W
+\ge give -pst -poss.1sg 3sg      -dat book.R -acc
+
+\ru Меня радушно принял мальчик, которому я дал книгу.
+\ph
+\gr Esso2004_33:15
+\tx Erektu    kụŋadụ  bi   buːriwu            knigaw.
+\mb erek -DU  kụŋa -DU  biː buː -RI  -W        kniga  -W
+\ge prox -dat child   -dat 1sg  give -pst -poss.1sg book.R -acc
+\ru Этому мальчику я дала книгу.
+\ph
+\nt Esso3002_8:30
+\tx Erek tarak kụŋa bi   nọŋandụn           knigaw      boːčawu.
+\mb erek tarak kụŋa biː nọŋan -DU  -n(I)     kniga  -W   boː -čE    -W
+\ge prox dist  child   1sg  3sg      -dat -poss.3sg book.R -acc give -pf.ptc -poss.1sg
+
+\ru Это тот мальчик, которому я дала книгу.
+\nt
+\nt Esso3002_7:55
+\tx Erektu    kụŋadu    bi   buːriwu            knigaw.
+\mb erek -DU  kụŋa -DU  biː buː -RI  -W        kniga  -W
+\ge prox -dat child   -dat 1sg  give -pst -poss.1sg book.R -acc
+\ru Этому мальчику я дала книгу.
+\gr
+\nt Esso3002_9:05
+\tx Bi   bassejn ańčịndụlan               ittiwu             taraw
+\mb biː bassejn ańčịn    -(dU)LE -n(I)     it  -RI  -W        tarak -W
+\ge 1sg  pool.R  space.beside -loc    -poss.3sg see -pst -poss.1sg dist  -poss.1sg
+
+\tx kụŋaw,    bi   knigaw      boːčawu              taraktụ.
+\mb kụŋa -W   biː kniga  -W   boː -čE    -W        tarak -DU
+\ge child   -acc 1sg  book.R -acc give -pf.ptc -poss.1sg dist  -dat
+
+\ru Я у бассейна видела того мальчика, которому я дала книгу.
+\ph
+\nt Esso3006_6:50
+\tx Bi   bassejn ańčịndụlan               ittiwu             taraw      kụŋaw
+\mb biː bassejn ańčịn    -(dU)LE -n(I)     it  -RI  -W        tarak -W   kụŋa -W
+\ge 1sg  pool.R  space.beside -loc    -poss.3sg see -pst -poss.1sg dist  -acc child   -acc
+
+\tx ńarịw,    ŋiːduke        iː buːris               anŋamtaw     taŋịnmajụ.
+\mb ńarị -W   ŋiː -DU  =kE   iː buː   -RI  -s(I)     anŋamta -W   taŋ -E-nmEj -W
+\ge boy     -acc who   -dat =emph 2sg 1pl.ex -pst -poss.2sg new      -acc read -ep-anr -acc
+
+\ru Я у бассейна видела того мальчика, которому ты дала новую книгу.
+
+\id K_AgreementSentences5a
+\ref Esso1006_1:08:02
+\tx Erroːčom      egdʒem      kọbalam      bi   ọːkta    ečiwu
+\mb erroːčin -W   egdʒen -W   kọbalan -W   biː ọːk =DE  e   -RI  -W
+\ge prox.qual  -acc big     -acc bear      -acc 1sg  when   =ptl neg -pst -poss.1sg
+
+\tx itte         // kojeːr.
+\mb it  -R       // kojeː -R
+\ge see -neg.cvb    watch  -neg.cvb
+
+\ft
+\ru Такого большого медведя я никогда не видел.
+\ph
+\gr In 4a she said "erroːčoN knigaw", and I thought the -ON was the Accusative.Poss.3SG suffix;
+however, here she said erroːčoM, which looks like the Accusative of a word ending in -n
+
+\id K_AgreementSentences5b
+\ref Esso2002_17:20
+\tx Galị        tebekiw        - erew      ajụ     tebekiw        bi
+\mb ga   -LI      tabak     -W   - erek -W   aj   -W   tabak     -W   biː
+\ge take -imp.2sg tobacco.R -acc - prox -acc good -acc tobacco.R -acc 1sg
+
+\tx uniriwu            Petropavlovskla.
+\mb uni -RI  -W        Petropavlovsk -(dU)LE
+\ge buy -pst -poss.1sg Petropavlovsk -loc
+
+\ft
+\ru Возьми табака - этот хороший табак я купил в Петропавловске.
+
+\id K_AgreementSentences6a
+\ref Esso1006_1:09:06
+\tx Erek kụčụkan asatkan bakrịn            dʒoːrbe    anmaraw     bụjla.
+\mb erek kučuke      asatkan bak  -RI  -n(I)     dʒoːr -W   anmara -W   bụj  -(dU)LE
+\ge prox small        girl    find -pst -poss.3sg two     -acc crow   -acc forest -loc
+
+\ft
+\ru Эта маленькая девочка нашла два черных ворона в лесу.
+\ph
+\gr turakị = crow in village, anmara = crow in forest, xọlọŋa = another type of crow
+\nt
+\nt Esso3006_2:25
+\tx Erek kụčụkan asatkan bakrịn            dʒoːrbe    ńọːbatịlba
+\mb erek kučuke      asatkan bak  -RI  -n(I)     dʒoːr -W   ńọːbatị -L  -W
+\ge prox small        girl    find -pst -poss.3sg two     -acc white         -pl -acc
+
+\tx tụrakịlba       bụjla.
+\mb tụrakị -L  -W   bụj  -(dU)LE
+\ge crow       -pl -acc forest -loc
+
+\ru Эта маленькая девочка нашла 2 белых ворона в лесу.
+
+\id K_AgreementSentences6b
+\ref Esso2002_18:00
+\tx Bi   dʒọgrịdụ        oxotniktu     anịːrịwụ             ịrkaːm,     ečiwu
+\mb biː dʒọg -RI       -DU  oxotnik  -DU  anịː      -RI  -W        ịrkaːn -W   e   -RI  -W
+\ge 1sg  be.poor -impf.ptc -dat hunter.R -dat give.as.gift -pst -poss.1sg knife     -acc neg -pst -poss.1sg
+
+\tx tamnị    boːre.
+\mb taman   -? boː -R
+\ge payment -? give -neg.cvb
+
+\ru Я бедному охотнику нож подарил, а не продал.
+\ph buːre
+\gr (Esso2006_45:25) tammi buːriwu = ja svoju platu otdala; daju za den'gi (prodaju) = tamandụ
+buːrem; tamnị buːriwu = za den'gi dal (prosto za den'gi, ne za ego den'gi)
+\nt
+\nt Esso3002_33:20
+\tx Bi   dʒọgrịdụ        oxotniktu     ịrkaːm      ečiwu             tamanịč
+\mb biː dʒọg -RI       -DU  oxotnik  -DU  ịrkaːn -W   e   -RI  -W        taman   -E-Č
+\ge 1sg  be.poor -impf.ptc -dat hunter.R -dat knife     -acc neg -pst -poss.1sg payment -ep-ins
+
+\tx buːre,       anịːrịwụ.
+\mb buː -R       anịː      -RI  -W
+\ge give -neg.cvb give.as.gift -pst -poss.1sg
+
+\ru Я бедному охотнику нож не продал, а подарил.
+\ph
+\gr tamnị buːriwu = za den'gi dal, tozhe govorjat, eto ne znachit, chto imenno ego den'gi
+
+\id K_AgreementSentences7a
+\ref Esso1006_1:10:35
+\tx Nọŋan neːdin             anŋamtajị      botinkajị      mọːdụk
+\mb nọŋan neː -RI  -n(I)     anŋamta -J       botinka -J       mọː -DUk(U)
+\ge 3sg      put  -pst -poss.3sg new      -prfl.sg shoes.R -prfl.sg tree   -abl
+
+\tx tegenmej         erdeːlen.
+\mb teg      -E-nmEj her    -gIdE -(dU)LE -n(I)
+\ge sit.down -ep-anr bottom -part -loc -poss.3sg
+
+\ru Он положил свои новые ботинки под деревянный стол.
+\ph
+\gr (Esso3006_3:00) ektiwun mọːdụk = derevjannyj stol; mọːdụk dʒụː = derevjannyj dom; dʒọldụk
+dʒụː = dʒọlmịja dʒụː = kamennyj dom
+\nt
+\nt Esso3006_4:10
+\tx Essola       ọːja  mọːdụk    dʒụːl,   klubisi         biden
+\mb Esso -(dU)LE họːja mọː -DUk(U) dʒụː -L  klub   -E=sI    bi -DE       -n(I)
+\ge Esso -loc    many     tree   -abl    house    -pl club.R -ep=emph be -purp.cvb -poss.3sg
+
+\tx ọːrịtan         egdʒem      dʒụːw     dʒọldụk.
+\mb ọː -RI  -tEn      egdʒen -W   dʒụː -W   dʒọl -DUk(U)
+\ge make  -pst -poss.3pl big     -acc house    -acc stone   -abl
+
+\ru В Эссо много деревянных домов, а для клуба построили большой каменный дом (дословно:
+чтобы был клуб).
+
+\id K_AgreementShirts1-2
+\ref Esso2007_31:15
+\tx Asatkan čụlbańač    ụrbaːklattan               gịadmar    asatkan
+\mb asatkan čụlbańa -Č  ụrbaːk -LEČ -R(E)   -n(I) gịa -dmEr  asatkan
+\ge girl    grue        -ins dress.R   -vr   -nonfut -3sg  next  -contr girl
+
+\tx ụrbaːkịn          ŋuleńe.
+\mb ụrbaːk -E-n(I)      ŋuleńe
+\ge dress.R   -ep-poss.3sg red
+
+\ru Девушка одета в зеленую рубашку/платье, а у другой девушки рубашка/платье красная.
+\nt At first said "asatkan čụrụńač ụrbaːklattan", then said it should be čulbańa --> I had initially
+transcribed only "čụlbańa ụrbaːklattan", but listening to the recording again I realize she just
+meant to change the colour, not the construction, and it should be čụlbańač, because the derived
+verb ụrbaːklat- takes Instrumental case, as can be seen in the following sentence, and in Shirts3
+\ph
+\tx Asatkan ŋuleńeč    ụrbaːklattị          iːrin           asatkan čụlbańač
+\mb asatkan ŋuleńe -Č  ụrbaːk -LEČ -RI       iː   -RI  -n(I) asatkan čụlbańa -Č
+\ge girl    red      -ins dress.R   -vr   -impf.ptc enter -pst -3sg  girl    grue        -ins
+
+\tx ụrbaːklattị          amardadụn.
+\mb ụrbaːk -LEČ -RI       amar   -gIdE -DU  -n(I)
+\ge dress.R   -vr   -impf.ptc behind -part -dat -poss.3sg
+
+\ru Девушка с красной рубашкой/платье вошла след за девушкой с зеленой рубашкой/платье.
+\ph
+\gr (Esso3002_43:40) ụrbaːklattị = kotoraja odeta v krasnom plat'e;
+
+\id K_AgreementShirts3
+\ref Esso2007_34:30
+\tx Asatkan ŋuleńeč    ụrbaːklattị          iːrin               asatkan
+\mb asatkan ŋuleńe -Č  ụrbaːk -LEČ -RI       iː   -RI  -n(I)     asatkan
+\ge girl    red      -ins dress.R   -vr   -impf.ptc enter -pst -poss.3sg girl
+
+\tx čụlbańač    ụrbaːklattị          amardadụn                 ńan   nọŋartan
+\mb čụlbańa -Č  ụrbaːk -LEČ -RI       amar   -gIdE -DU  -n(I)     ńaːn nọŋartan
+\ge green       -ins dress.R   -vr   -impf.ptc behind -part -dat -poss.3sg again  3pl
+
+\tx dọrọːwọmaːttitan            ŋaːldʒụr.
+\mb dọrọːwọ -mEČ -RI  -tEn      ŋaːl -dʒUr
+\ge greeting.R     -rec  -pst -poss.3pl hand   -ins.prefl.pl
+
+\ru Девушка с красной рубашкой зашла вслед за девушкой в зеленой рубашке и они
+поздоровались за руку.

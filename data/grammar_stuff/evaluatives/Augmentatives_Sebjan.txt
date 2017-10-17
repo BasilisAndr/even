@@ -1,0 +1,1825 @@
+\_sh v3.0  1179 Text
+
+\id Augmentatives_literature
+\ref Cincius 1947: 77
+\tx dʒụːkaja
+\mb dʒụː -kEːjE
+\ge house    -aug
+\gr derives augmentatives from nouns
+\nt
+\qu
+\ref Cincius 1947: 77-78
+\tx ọrọńdʒa
+\mb ọrọn          -ńdʒE
+\ge domestic.reindeer -aug
+\gr derives ‘augmentative-tender’, ‘augmentative-respectful’ augmentatives from nouns (увеличительно-ласкательная, увеличительно-почтительная
+форма)
+\nt
+\qu
+\ref Cincius 1947: 78
+\tx dʒụːmkar
+\mb dʒụː -mkEr
+\ge house    -aug
+\gr derives augmentative-appreciative forms of nouns (увеличительно-одобрительная форма) "nu i domishe"
+\nt
+\ref Cincius 1947: 79
+\tx dʒụːjakan
+\mb dʒụː -jakan
+\ge house    -dim
+\gr уменьшительно-презрительная форма (ʤujakan ‘jurtjonka, domishko zaxudalyj, zabroshennyj); but of the 4 examples I have from Kamchatka
+only one might be considered as having a prenebrezhitel'nyj ottenok
+
+\id Bochilikan_etiken_051
+\tx Ịlụmụčamị         elberidʒi          dʒebleŋi              gennen,                itteken
+\mb ịlụmụ -čEn -J       elbe       -RIdʒI  dʒeb -LE -ŋ  -J       gel      -nE     -n(I) it  -REk      -E-n(I)
+\ge yurt        -dim  -prfl.sg cover.yurt -ant.cvb eat   -nr -aln -prfl.sg look.for -intent -3sg  see -cond.cvb -ep-poss.3sg
+
+\tx heːrukčenni              kịŋgakụ, heːruk    herlenteken                       iːtmejeńun       desčin.
+\mb heːruk    -čEn -n(I)     kịŋgakụ  heːruk    her    -(dU)LE -n(I)     =t(E)kEn iːt  -mEjE =ńUn  desči     -n(I)
+\ge saddle.bag -dim  -poss.3sg empty         saddle.bag bottom -loc    -poss.3sg =restr   tooth -aug  =restr lie.nonfut -3sg
+
+\ft Having built his little yurt he went for his food and sees, his bag is empty, only at the bottom a big tooth is lying.
+\ru Соорудив жилище он пошел за едой, открывает суму свою, смотрит, там пусто, только на дне валяется зуб большой.
+\ru Поставив чум пошел за своей едой, видит сума его пустая, только на дне сумы лежит зубище.
+\ph genne = consonant assimilation, standard = gelne
+\ELANBegin 278.290
+\ELANEnd 292.040
+\ELANParticipant
+
+\id Bochilikan_etiken_061
+\tx Họː kịlŋịjamkar   dịlgandʒị, hu hu hu goːniken.
+\mb họː kịlŋịja -mkEr dịlgan -Č    hu hu hu goːn -nIkEn
+\ge very   high         -aug  voice    -ins   hu hu hu say   -sim.cvb
+
+\ft With a very high voice, huhuhu.
+\ru Очень тоненьким голосом.
+\ph
+\gr
+\nt
+\ELANBegin 363.840
+\ELANEnd 369.040
+\ELANParticipant
+
+\id Kejmetinova_TV_family_046
+\ref 4:14
+\tx Egdʒọːmeje,     ịbga   baγajị koškamaja   bihin.
+\mb egdʒen =eː  -mEjE ịbgọ baγajị koška -mEjE bi -RI  -n(I)
+\ge big     =emph -aug  good     very.Y    cat    -aug  be -pst -poss.3sg
+
+\ft It was a very big, a very good cat.
+\ru Очень большая очень хорошая кошка была.
+\ph
+\gr
+\nt
+\qu
+
+\id Kejmetinova_TV_pear_story_046
+\ref 2:48
+\tx Taraw      nọŋan ọmọlgọčan aŋtaŋakan   taraw      eniken       itte,        ahịkantakị     ečin
+\mb tarak -W   nọŋan ọmọlga -čEn aŋtaŋa -KEn tarak -W   e   -nIkEn   it  -R       asị -KEn -t(E)kI erroːčin
+\ge dist  -acc 3sg      boy        -dim  stupid   -dim dist  -acc neg -sim.cvb see -neg.cvb woman -dim -all    prox.qual
+
+\tx ehenidʒi            heredniken,           ịŋamaja   bidden                 họtarandụla.
+\mb ehen        -RIdʒI  hor -E-D     -nIkEn   ịŋa -mEjE bi -D    -R(E)   -n(I) họtọrọn -(dU)LE
+\ge look.around -ant.cvb go  -ep-prog -sim.cvb stone  -aug  be -prog -nonfut -3sg  road          -loc
+
+\ft He, the stupid little boy, didn't see this, riding having looked around at the girl, there is a big stone in the road.
+\ru На это он мальчик, ротозей, не видя этого, едя так оглянувшись на девушку, камень есть на дороге.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_pear_story_059
+\ref 3:41
+\tx Tačịn       herren,             tarịt tar   ịlan kụŋačal       heredniken            buollar, ịaw,     bejeńdʒele
+\mb tarọːčịn hor -R(E)   -E-n(I) tarịt tarak ịlan kụŋa -čEn -L  hor -E-D     -nIkEn   buollar  ịak -W   bej -ńdʒE -(dU)LE
+\ge dist.qual      go  -nonfut -ep-3sg then    dist  three  child   -dim  -pl go  -ep-prog -sim.cvb dp.Y     what  -acc man -aug    -loc
+
+\tx naːra.
+\mb naː -R(E)
+\ge hit  -nonfut.3pl
+
+\ft Like that he went, then those three kids went and came across the big man.
+\ru Так пошел, потом эти 3 ребенка идя же, наткнулись на большого человека.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_pear_story_060
+\ref 3:47
+\tx Bejeńdʒe, buolla, oginuk        hekehenče.
+\mb bej -ńdʒE buollar ogi -(I)nUk   hokohon -čE
+\ge man -aug    dp.Y    top -advb.abl descend -pf.ptc
+
+\ft And the big man came down from above.
+\ru А большой человек спустился сверху.
+\ph hököhönče
+\gr
+\nt
+\qu
+
+\id Klim_Nikolaevich_eksponat_153
+\tx Gọrịja    ečin      ečin      annịkan,    biːde    erbečendu      domŋedu      üleleːriw,            ee
+\mb gọrụ -IjE erroːčin erroːčin an   -nIkEn   biː =DE  erroːčin -DU  doːmŋe -DU  üleleː -RI  -W        ee
+\ge long     -aug prox.qual  prox.qual  push -sim.cvb 1sg  =ptl prox.qual  -dat taiga    -dat work.Y   -pst -poss.1sg eh
+
+\tx ịarịw,             kụŋa bidniken.
+\mb ịa    -RI  -W        kụŋa bi -D    -nIkEn
+\ge do.what -pst -poss.1sg child   be -prog -sim.cvb
+
+\ft Pushing it like this for a long time, I also worked like this in the taiga when I was a child.
+\ru Так долго толкая, я тоже так над этим работал в тайге, когда был ребенком.
+\ph
+\gr
+\ELANBegin 00:16:28.140
+\ELANEnd 00:16:33.590
+\ELANParticipant
+
+\id Krivoshapkina_AE_childhood_061
+\ref 6:48; AEK
+\tx Dʒe,  omen, ŋiː [Mitrijan] Ọbụ gerbemeje   bihin,            Miterej gerbemeje   ŋiː ajmakadnan,               Bahịlaj
+\mb dʒe   omen  ŋiː Dmitrij    Ọbụ gerbe -mEjE bi -RI  -n(I)     Dmitrij gerbe -mEjE ŋiː ajmak       -E  -tEn      Vasilij
+\ge well.Y one   who   Dmitrij    Obu     name  -aug  be -pst -poss.3sg Dmitrij name  -aug  who   relatives.Y -ep -poss.3pl Vasilij
+
+\tx Bahịlajabịs ajmakan.
+\mb Vasilevič      ajmak       -E-n(I)
+\ge Vasilevich      relatives.Y -ep-poss.3sg
+
+\ft Well and one, who, (there) was so-called Obu, Dmitrij, whose relative... Vasilij Vasilevich's relative.
+\ru Вот один кто, так называемый Обу был, с именем Дмитрий, родственник кого, родственник Василия Василия.
+\ph
+\gr
+\nt
+
+\id Krivoshapkina_AE_childhood_064
+\ref 7:12; AEK
+\tx Emelde           goːjeːdʒi,            ele          bidden                 goːn.
+\mb em   -E-(LI)lrE  goːn -jEː -DʒI        erek -(dU)LE bi -D    -R(E)   -n(I) goːn
+\ge come -ep-imp.2pl say   -aug  -ins.prfl.sg prox -loc    be -prog -nonfut -3sg  say.nonfut.3sg
+
+\ft "Come here, she's here!", he says.
+\ru "Идите сюда" говоря, "здесь находится."
+\ph ọmọldọọọọọọọọọ
+\gr gojeːdʒi - according to Ija Krivošapkina, this is a converb consisting of an augmentative suffix plus converbal marker (which might be the
+PossessiveReflexiveInstrumental, which might be the same as contained in -RIdʒI - ImperfectiveParticiple + Poss.Refl.Instr?), it is used when a
+big person is saying (doing?) something, while goːkendʒi (with the Diminutive suffix) is used when a small person is saying (doing?) something.
+\nt On 06.03.08 I checked the augmentative and diminutive converb with Ija Krivoshapkina (no recording):
+\tx horjeːdʒi            horkendʒi            gajaːdʒị            gakandʒị
+\mb hor -jEː -DʒI        hor -KEn -DʒI        ga   -jEː -DʒI        ga   -KEn -DʒI
+\ge go  -aug  -ins.prfl.sg go  -dim -ins.prfl.sg take -aug  -ins.prfl.sg take -dim -ins.prfl.sg
+
+\ft "going, about a big person", "going, about a small person", "taking, about a big person", "taking, about a small person"
+
+\id Krivoshapkina_AE_childhood_077
+\ref 8:47; AEK
+\tx Hergile        hïarga ịhaptịlan                             ịstala [kireke]    hergijeːle,         ogijeːnuk
+\mb hergi  -(dU)LE hïarga ịs  -E-B    -RI       -(dU)LE -n(I)     ịstala kire  =kE   hergi  -jEː -(dU)LE ogi -jEː -(I)nUk
+\ge bottom -loc    sled.Y  reach -ep-med -impf.ptc -loc    -poss.3sg until    dirty =emph bottom -aug  -loc    top -aug  -advb.abl
+
+\tx tar   ịrbakkaram.
+\mb tarak ịr -WEːČ -Gr(E) -m
+\ge dist  drag -gnr    -hab   -1sg
+
+\ft To the place down below where sleds can come [how bad], to the very bottom I drag (the logs) from above.
+\ru До места где внизу добираются нарты, до самого низа, сверху вот таскаю.
+\ph
+\gr
+\nt ịhaptịlan = mesto dokuda mozhno dobratsja
+
+\id Krivoshapkina_AE_childhood_087
+\ref 9:50; AEK
+\tx Kïajan       gịrkajbat          buollagïm             mereːči ọːkan        begiče,       tarụŋụ          tik  dʒiŋ
+\mb kïajan       gịrka -j    -BAt   buol  -dEg      -Im    mereti    ọː  -kEn     begi   -čE    tarak -ŋ  -W        tik  dʒiŋ
+\ge not.be.able.Y walk    -conn -neg.Y aux.Y -assert.Y -1sg.Y circle    become -trm.cvb freeze -pf.ptc dist  -aln -poss.1sg fall very.Y
+
+\tx heŋeːr [he, egdʒemeje].
+\mb heŋeːr he   egdʒen -mEjE
+\ge dirt     huh  big     -aug
+
+\ft I can't walk, right, (my legs) froze until they reached such a diameter, now this is a blister (??).
+\ru Я же не могу идти, замерз до круглого состояния (ноги опухшие), сейчас это мозоль.
+\ph
+\gr
+\nt heŋeːr = grjaz' na tele, no sdes' naverno prosto to, chto sledy ostalis' ot togo omorozhenija. But then she goes on to say "mozol", and so we think
+that maybe she meant henger = mozol
+
+\id Krivoshapkina_AX_svatovstvo_010
+\tx Gọrịjaː   ukčennikehel,       ọːn tugeniw     čịldadaŋụr,          dʒebemčelgu                 tuge,
+\mb gọrụ -jEː ukčen -nIkEn   -SEl ọːn tugeni -W   čịlda -DEŋ    -WUr     dʒep -E-m    -čE -L     =GU tugeni
+\ge long     -aug  tell   -sim.cvb -pl  how    winter -acc survive  -pst.ptc -prfl.pl eat   -ep-des -pf.ptc -pl =q  winter
+
+\tx dʒalụtčalgụ,               ịaw      maːčal,        ŋiː ịaw      maːdaŋan                 taraw
+\mb dʒalụ    -Č  -čE -L     =GU ịak -W   maː -čE -L     ŋiː ịak -W   maː -DEŋ    -E-n(I)      tarak -W
+\ge be.satiated -res -pf.ptc -pl =q  what  -acc kill -pf.ptc -pl who   what  -acc kill -pst.ptc -ep-poss.3sg dist  -acc
+
+\tx ukčemmetnikel,           ečiken         tebekeŋur                 kọlkandʒụr         kahnadụ  ečiken
+\mb ukčen -mEČ -nIkEn   -L  erroːčin -KEn tabak     -E-ŋ   -WUr     kọl -KEn -dʒUr       kansa -DU  erroːčin -KEn
+\ge tell   -rec  -sim.cvb -pl prox.qual  -dim tobacco.R -ep-aln -prfl.pl drink -dim -ins.prfl.pl pipe  -dat prox.qual  -dim
+
+\tx ịantakan        ukčemmekkerečel.
+\mb ịa    -ntEkEn   ukčen -mEČ -Gr(E)  -čE -L
+\ge do.what -mult.cvb tell   -rec  -hab    -pf.ptc -pl
+
+\ft The spoke for a long time about how they had survived the winter, whether they had gone hungry or whether they had had enough to eat, what
+they had killed, who had killed what, talking about that they smoked (lit. drank) their tobacco in a pipe and talked like that.
+\ru Долго рассказывая как они прожили зиму, голодали ли зимой, были ли сыты, что убили, кто что убил, про это разговаривая, так свой табак
+выкуривая в трубке, так они разговаривали.
+\ph čịldadụŋụr ịau, tebekuŋgur very uvular k in kọlkọːndʒur, ukčemekersel
+\gr dʒebem = go hungry, golodat'
+\ELANBegin 00:01:23.020
+\ELANEnd 00:01:53.120
+\ELANParticipant
+
+\id Krivoshapkina_AX_svatovstvo_029
+\tx Ịlụmụ dọːdụn           čọraː, dʒulle       oːtel     egdʒemeje    ečin      čọraː gerbe dʒụːdụ
+\mb ịlụmụ dọː -DU  -n(I)     čọraː  dʒul -(dU)LE oːtel     egdʒen -mEjE erroːčin čọraː gerbe dʒụː -DU
+\ge yurt        inside -dat -poss.3sg big.yurt   front -loc    previously big     -aug  prox.qual  big.yurt  name  house    -dat
+
+\tx biwrečel.
+\mb bi -Gr(E) -čE -L
+\ge be -hab   -pf.ptc -pl
+
+\ft Inside the yurt, the chora, previously they lived in such a biiiiiiig yurt called chora.
+\ru В илуму, в чора, раньше в таком большом доме, называющемся чора, жили.
+\ph egdʒọːːːːmeje
+\ELANBegin 00:04:35.400
+\ELANEnd 00:04:45.070
+\ELANParticipant
+
+\id Krivoshapkina_AX_svatovstvo_050
+\tx Tarịt... ee, irildu      ọːdaj                 nekeddeken,                          ńolten ńoltin ńahmị          baγajị
+\mb tarịt    ee  ireli  -DU  ọː -DE       -J       nek -E-D     -REk -E-n(I)            ńolten ńolten ńam    -RI       baγajị
+\ge then       eh  summer -dat make  -purp.cvb -prfl.sg do  -ep-prog -cond.cvb -ep -poss.3sg sun     sun     be.warm -impf.ptc very.Y
+
+\tx kojeːt... kojeːčeddeken                          ńoːče, ńoːčel    delbi  čụlbaŋ... čụlbančalan                    ọkaːt
+\mb kojeːt    kojeːt -E-D     -REk -E-n(I)            ńoːče  ńoːče -L  delbi  čụlbaŋ    čụlbańa -čE    -(dU)LE -n(I)  ọkaːt
+\ge look.at    look.at -ep-prog -cond.cvb -ep -poss.3sg flower    flower   -pl very.Y ***           grue        -pf.ptc -loc -poss.3sg river
+
+\tx moːlni             ejehenčeletne                          egdʒen emŋemeje   kuntekle       bej... họːja
+\mb moː  -L  -n(I)     ejeːn -s(E)n -čE    -(dU)LE -tEn      egdʒen emŋe -mEjE kuntek -(dU)LE bej    họːja
+\ge water -pl -poss.3sg flow   -lim   -pf.ptc -loc    -poss.3pl big     wide  -aug  field  -loc    man    many
+
+\tx ńimeːrčekehel       iduk          tadụk       emgerečel.
+\mb ńimer    -čEkEn -SEl irek  -DUk(U) tarak -DUk(U) em   -Gr(E) -čE -L
+\ge neighbour -plen   -pl  which -abl    dist  -abl    come -hab   -pf.ptc -pl
+
+\ft Then, when summer was about to start, when the sun already looked hotly, when plants became green and the waters started flowing in the
+rivers, on a big, wide field a lot families came from here and there.
+\ru Потом, когда лето собиралось уже когда солнце смотрело уже очень тепло, когда растительность позеленела, потекли воды в речке, на
+большой поляне множество семей отовсюду приезжали.
+\gr (trans_file 01_quest_2010 28:15)  họːja ńimeːr, họːja ńimeːrel, họːja ńimeːrčekeːl, họːja ńimeːrčekehel - can all be said, the -čeken gives a meaning of
+plentitude
+\ELANBegin 00:07:52.960
+\ELANEnd 00:08:19.900
+\ELANParticipant
+
+\id Krivoshapkina_AX_svatovstvo_092
+\tx Ičukengerečel,             tọːr gọrịjaːla         biddi          ọmọlgọla     ičukengerečel.
+\mb it  -WkEn -Gr(E) -čE -L     tarak   gọrụ -jEː -(dU)LE bi -D    -RI   ọmọlga -(dU)LE it  -WkEn -Gr(E) -čE -L
+\ge see -caus -hab   -pf.ptc -pl dist    far      -aug  -loc    be -prog -impf.boy        -loc    see -caus -hab   -pf.ptc -pl
+
+\ft They showed (her) to the boy who was faaaaaaaaaar away (her bridegroom).
+\ph tọːːːːːr
+\ELANBegin 00:14:09.140
+\ELANEnd 00:14:13.010
+\ELANParticipant
+\ru Показывали парню, находящемуся вон там, далеко.
+
+\id Krivoshapkina_AX_svatovstvo_100
+\tx Tarịt tịmannị dʒeptidʒur,                tịmannị ńandakaja          dʒe   tọhankačalgaračal,
+\mb tarịt tịmịna  dʒep -RI       -dʒUr       tịmịna  ńaːn =DE  -kEːjE dʒe   tụsan -kEČ -E-L     -Gr(E) -čE -L
+\ge then    tomorrow    eat   -impf.ptc -ins.prfl.pl tomorrow    and    =ptl -aug    well.Y hop     -mult -ep-inch -hab   -pf.ptc -pl
+
+\tx tọhaŋkatnịkan,    gịrrap              gerbe gịrgaračal.
+\mb tụsan -kEČ -nIkEn   gịr -R(E) -p        gerbe gịr -Gr(E) -čE -L
+\ge hop     -mult -sim.cvb jump  -nonfut -1pl.in name  jump  -hab   -pf.ptc -pl
+
+\ft And then on the next day, after having eaten, they again started to jump, they jumped, jumped in the style 'gir'.
+\ph
+\gr gerbe instead of goniken, girrap gerbe; ńandakaja = i opjAt'....
+\ev
+\ELANBegin 00:14:45.870
+\ELANEnd 00:14:55.520
+\ELANParticipant
+\ru Потом назавтра покушав, опять назавтра начинали прыгать, прыгая, это называется гиррап, мы прыгаем, (стиль прыжка).
+
+\id Krivoshapkina_AX_svatovstvo_109
+\tx Tarịt om... beketjeːdʒur...         kụlịn naːrakan                    beketjeːdʒur            omettu
+\mb tarịt       bekeč -jEː -dʒUr       kụlịn naː -REk -E-n(I)            bekeč -jEː -dʒUr       omettu
+\ge then          all    -aug  -ins.prfl.pl mosquito  hit  -cond.cvb -ep -poss.3sg all    -aug  -ins.prfl.pl together
+
+\tx ịarakatna                    ịbga,  irilduw          ieltemkeneketne,                    ịamị goːmi    bọlla,     goːmi
+\mb ịa    -REk      -E-tEn       ịbgọ ireli  -DU  -W   ielten -WkEn -REk      -E-tEn       ịamị goːn -mI buollaγïna goːn -mI
+\ge do.what -cond.cvb -ep-poss.3pl good     summer -dat -acc pass   -caus -cond.cvb -ep-poss.3pl why      say   -vr dp.Y         say   -vr
+
+\tx kụlịn.
+\mb kụlịn
+\ge mosquito
+
+\ft Then, when the mosquitoes appear, when all do something together it is good, when they spend the summer together, because of the mosquitoes.
+\ph
+\gr Ija Krivoshapkina said that this is the first time that she heard the variant beketjeːdʒur.;; irildu is a fossilized dative form of ireli, which can occur
+both as the subject, as here, as well as in the adverbial 'in summer'; it is also the stem underlying the adjective irilderep
+\ELANBegin 00:15:49.470
+\ELANEnd 00:16:04.620
+\ELANParticipant
+\ru Все когда вот комар наступал, делать что-то всем вместе хорошо, хорошо все вместе когда проводят лето, потому что комары.
+
+\id Krivoshapkina_AX_1930s_013
+\tx Ammụ           gọrajaː     bihidʒi,   họːjakeː   tebeku         kọllịdʒị tewridʒi         "Amarra!"
+\mb aman   -W        gọrụ -jEː bi -RIdʒI  họːja =kE   tabak     -W   kọl -RIdʒI   teg      -RIdʒI  amar   -(dU)LE
+\ge father -poss.1sg long     -aug  be -ant.cvb many     =emph tobacco.R -acc drink -ant.cvb  sit.down -ant.cvb behind -loc
+
+\tx goːŋnen          kuruk.
+\mb goːn -Gr(E) -n(I) kuruk
+\ge say   -hab   -3sg  always.Y.
+
+\ft My father, after a long time, after having smoked a lot of tobacco, always said 'later!'.
+\ph
+\ELANBegin 00:01:18.480
+\ELANEnd 00:01:28.200
+\ELANParticipant
+\ru Отец через большое время выкурив много табаку, говорил всегда "потом".
+
+\id Krivoshapkina_AX_1930s_026
+\tx Ačča ọːjaktaːk    ebit,      gọrajọː   eninče.
+\mb ačča ọː  -jEktEːk ebit       gọrụ -jEː enin   -čE
+\ge neg    become -nec.Y    it.seems.Y long     -aug  be.ill -pf.ptc
+
+\ft He should have died, it seems, he was sick for a long time.
+\ELANBegin 00:02:55.680
+\ELANEnd 00:03:00.910
+\ELANParticipant
+\ru Должен был умереть, очень долго болел.
+
+\id Krivoshapkina_AX_1930s_028
+\tx Upeːńdʒewu                 biče,     bi   upeːńdʒewu.
+\mb upeː       -ńdʒE -W        bi -čE    biː upeː       -ńdʒE -W
+\ge grandmother -aug    -poss.1sg be -pf.ptc 1sg  grandmother -aug    -poss.1sg
+\ft There was my grandmother, my grandmother.
+\ELANBegin 00:03:08.000
+\ELANEnd 00:03:12.170
+\ELANParticipant
+\ru Моя бабушка была.
+
+\id Krivoshapkina_AX_1930s_036
+\tx Omen bụwdịmaja   ŋịnatnan          Bahargas gerbe biče,     koŋgoŋeje    gọgọddị.
+\mb omen bụgdị -mEjE ŋịn -E  -tEn      Bahargas gerbe bi -čE    koŋgoŋ  -EjE gọg -E  -D    -RI
+\ge one  piebald   -aug  dog    -ep -poss.3pl Bahargas name  be -pf.ptc bass.like -aug bark  -ep -prog -impf.ptc
+
+\ft There was one piebald dog of theirs, it's name was Bahargas, which barked with a deep voice.
+\ph goŋgoŋeje
+\gr there is a descriptive verb koŋondej 'become like a bass, stat' basovitom'; koŋgọŋeken = with diminutive, about a small item, a little bit like a bass
+\ELANBegin 00:03:54.860
+\ELANEnd 00:04:01.400
+\ELANParticipant
+\ru Одна пестрая собака, ее звали Бахаргас, басом залаяла. конггоку = басовито; была у них собака Бахаргас, лающая басом
+
+\id Krivoshapkina_AX_1930s_037
+\tx Tarańdʒakan      gọgọlča           dʒe.
+\mb tarak -ńdʒE -KEn gọg -E-L     -čE    dʒe
+\ge dist  -aug    -dim bark  -ep-inch -pf.ptc well.Y
+\ft That one started to bark.
+\ph
+\gr the combination of augmentative and diminutive here gives a dynamic nuance, vyražaet dinamičnost'
+\ELANBegin 00:04:01.400
+\ELANEnd 00:04:04.010
+\ELANParticipant
+\ru Он залаял.
+
+\id Krivoshapkina_AX_1930s_038
+\tx Oo, họːjaja.
+\mb oo  họːja -jEː
+\ge oh  many     -aug
+
+\ft A lot.
+\ph
+\gr I really don't hear the augmentative, but IVK both transcribed it and confirmed it later on.
+\ELANBegin 00:04:04.010
+\ELANEnd 00:04:07.150
+\ELANParticipant
+\ru Очень много.
+
+\id Krivoshapkina_AX_1930s_044
+\tx Upeːńdʒe         hiwkeŋken             ečiken         irbeːkkeken   čajnịkčamị        ịadụ   ọldaːndụ
+\mb upeː       -ńdʒE hiwken      -G    -KEn erroːčin -KEn irbeːt -kEkEn čajnik  -čEn -J       ịak -DU  ọldaːn       -DU
+\ge grandmother -aug    fall.silent -advr -dim prox.qual  -dim old     -dim   teapot.R -dim  -prfl.sg what  -dat hook.for.kettle -dat
+
+\tx neːče,     ečiken         neːče,     duruče            gọlaŋča[mị]..              ịačamị..        ọčakčamị
+\mb neː -čE    erroːčin -KEn neː -čE    dur  -U    -čE    gọl    -E  -ŋ  -čEn -J       ịak -čEn -J       očag    -čEn -J
+\ge put  -pf.ptc prox.qual  -dim put  -pf.ptc burn -caus -pf.ptc firewood -ep -aln -dim  -prfl.sg what  -dim  -prfl.sg hearth.R -dim  -prfl.sg
+
+\tx duruče.
+\mb dur  -U    -čE
+\ge burn -caus -pf.ptc
+
+\ft My grandmother quietly put her old teapot on the hook for the kettle, put it like this, lit her logs, her what, lit her fire.
+\ph
+\ELANBegin 00:04:40.390
+\ELANEnd 00:04:55.200
+\ELANParticipant
+\ru Бабушка тихонько свой старенький чайник положила на олдан (перекладину над костром), так положила, зажгла вот дрова, очаг, разожгла
+костер.
+
+\id Krivoshapkina_AX_1930s_055
+\tx Upeːńdʒe         hiwkeŋkeːn,          tar   čajnịkan           hujelčelen                          čajụ
+\mb upeː       -ńdʒE hiwken      -G    -KEn tarak čajnik  -E-n(I)      huj  -E-L     -čE    -(dU)LE -n(I)  čaj  -W
+\ge grandmother -aug    fall.silent -advr -dim dist  teapot.R -ep-poss.3sg boil -ep-inch -pf.ptc -loc -poss.3sg tea.R -acc
+
+\tx oŋkečelče.
+\mb oŋke -Č  -E-L     -čE
+\ge pour  -res -ep-inch -pf.ptc
+
+\ft When the teapot startedc to boil, grandmother quietly poured tea.
+\ph
+\gr Resultative with imperfective/distributive meaning.
+\ELANBegin 00:06:01.580
+\ELANEnd 00:06:08.250
+\ELANParticipant
+\ru Бабушка тихонько, когда вскипел чайник, начала разливать чай.
+
+\id Krivoshapkina_AX_1930s_058
+\tx Upeːńdʒe         čajkakamńun            neːče,     uldekkelbu         neːkečče,       uldelbu.
+\mb upeː       -ńdʒE čaj  -kEkEn -W   =ńUn  neː -čE    ulre -kkEn -L-W    neː -kEČ -čE    ulre -L-W
+\ge grandmother -aug    tea.R -dim   -acc =restr put  -pf.ptc meat -dim  -pl-acc put  -mult -pf.ptc meat -pl-acc
+
+\ft My mother gave them (put) only tea, a little bit of meat.
+\ph
+\gr The plural suffix on ulde isn't fully correct (says IVK in question session 01_2010), but it probably designates pieces of meat, kuskami dala mjaso
+\ELANBegin 00:06:34.540
+\ELANEnd 00:06:40.810
+\ELANParticipant
+\ru Бабушка положила только чай, мясо немножко положила.
+
+\id Krivoshapkina_AX_1930s_067
+\tx Tarak ńọka bej ịbga   baγajị ọjọlkan       biče,     ŋọnọmmaja ịalkan,   dʒiŋ ečin      bọrụọsta, ịamdas...
+\mb tarak ńọka bej ịbgọ baγajị ọj    -E  -lkEn bi -čE    ŋọnam -mEjE ịak -lkEn dʒiŋ erroːčin prosto          ịak -mdEs
+\ge dist  Sakha   man good     very.Y    clothes -ep -prop be -pf.ptc long     -aug  what  -prop very.Y prox.qual  simply.R        what  -sml
+
+\tx baj    baγajị ọjọlkan,      ịbga   baγajị ọjọlkan.
+\mb baj    baγajị ọj    -E  -lkEn ịbgọ baγajị ọj    -E  -lkEn
+\ge rich.Y very.Y    clothes -ep -prop good     very.Y    clothes -ep -prop
+
+\ft That Sakha had very good clothes, with long something or other, really like something, had very rich clothes, very good clothes.
+\ph bọrụọsta - pronounced the Sakha way
+\ELANBegin 00:07:28.970
+\ELANEnd 00:07:43.740
+\ELANParticipant
+\ru Этот якут был в очень хороших одеждах, с длинным чем-то, в очень богатых одеждах.
+
+\id Krivoshapkina_AX_1930s_103
+\tx Tar   họːja knigečekeːm       ịaw..    ee, kahịatčakaːm         emeːnče,     kiliepu      emuče,
+\mb tarak họːja kniga  -čEkEn -W   ịak -W   ee  xahïat     -čEkEn -W   emeːn -čE    xleb    -W   em -U      -čE
+\ge dist  many     book.R -plen   -acc what  -acc eh  newspaper.Y -plen   -acc leave  -pf.ptc bread.R -acc come -caus -pf.ptc
+
+\tx ńọkadị   ečin      egdʒemeje    kiliepmejel       biwrečel.
+\mb ńọka -DI   erroːčin egdʒen -mEjE xleb    -mEjE -L  bi -Gr(E) -čE -L
+\ge Sakha   -adjr prox.qual  big     -aug  bread.R -aug  -pl be -hab   -pf.ptc -pl
+
+\ft He left a lot of books, no, newspapers, he brought bread, it was Yakut, bread, so big.
+\ph she actually says tat in the beginning, but she probably meant to say tar, definitely not tat
+\ELANBegin 00:12:45.910
+\ELANEnd 00:12:55.920
+\ELANParticipant
+\ru Он много газет книг оставил, привез хлеб, якутский большой такой хлеб был.
+
+\id Krivoshapkina_AX_1930s_104
+\tx Haːxarụ   emuče,            kụskọvọjmaja, tara  padarakkaj.
+\mb saxar   -W   em -U      -čE    kuskovoj   -mEjE    tarak podarok   -GE    -J
+\ge sugar.R -acc come -caus -pf.ptc in.cubes.R -aug     dist  present.R -desig -prfl.sg
+
+\ft He brought sugar, in big cubes, as a present.
+\ph
+\gr It should really be padarakkatnan, a present for them, and not padarakkaj, which makes it look as if it is a present for himself.
+\ELANBegin 00:12:55.920
+\ELANEnd 00:13:00.800
+\ELANParticipant
+\ru Привез сахар, кусковой сахар, это подарок.
+
+\id Krivoshapkina_AX_1930s_106
+\tx Bụrdụkaŋatna            manụjdaga                          ehni             upeːńdʒejelbu.
+\mb burduk  -E-ŋ   -E-tEn       man    -W     -j    -dEg      -E     e   -R(E) -n(I)  upeː       -ńdʒE =jE    -L  -W
+\ge flour.R -ep-aln -ep-poss.3pl eat.up -advrs -conn -assert.Y -3sg.Y neg -nonfut -3sg grandmother -aug    =assoc -pl -poss.1sg
+
+\ft My grandmother and them's flour had run out, right.
+\ph
+\gr (quest_file 02_quest_2010, 18:05) manụjdaga ehni = the same meaning as Sakha manụjdaga diː, the ehni has an assertive meaning here
+\ELANBegin 00:13:05.480
+\ELANEnd 00:13:08.430
+\ELANParticipant
+\ru Мука-то закончилась у моей бабушки.
+
+\id Krivoshapkina_Ija_memories_009
+\tx Ejmu             goːnidʒin,                           kọkčịnnị       kaptakụmaja, egdʒemeje    biče,     teːmi    tačịn
+\mb enen   -W        goːn -RI       -DʒI        -n(I)     kọkčịn -n(I)     kaptańa -mEjE egdʒen -mEjE bi -čE    teːmi    tarọːčịn
+\ge mother -poss.1sg say   -impf.ptc -ins.prfl.sg -poss.3sg hoof        -poss.3sg flat     -aug  big     -aug  be -pf.ptc therefore dist.qual
+
+\tx gerbečel,            uhu.
+\mb gerbe     -čE    -L  ühü
+\ge give.name -pf.ptc -pl hsy.Y
+
+\ft As my mother says, it had such big flat hooves, that is why they called it like that.
+\ru Как говорит моя мама, у него были копыта такие плоские, большие, поэтому его так и называли.
+\ph uh 
+\gr most descriptive adjectives, which in the literary end in -ńa, in Sebjan end in -ku, says Ija Krivoshapkina
+\ELANBegin 00:00:44.840
+\ELANEnd 00:00:50.980
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_018
+\tx Tar   ŋịnańdʒat                  del[bi] gọwallan                   omneken,       ŋiː gerbe bihin?
+\mb tarak ŋịn -E  -ńdʒE -t(I)        delbi   gọg -E-L     -R(E)   -n(I) omen -REkEn    ŋiː gerbe bi -RI  -n(I)
+\ge dist  dog    -ep -aug    -poss.1pl.in very.Y  bark  -ep-inch -nonfut -3sg  one  -iter.adv who   name  be -pst -poss.3sg
+
+\ft Then once our big dog started barking, what was its name?
+\ru Однажды наша большая собака начала лаять, как ее звали?
+\ph
+\ELANBegin 00:01:56.050
+\ELANEnd 00:01:59.760
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_019
+\tx Reks gerbe ŋịn bihin,            hepekumeje,  họtọkụmaja ŋịnmaja.
+\mb Reks gerbe ŋịn bi -RI  -n(I)     hepeku -mEjE hụtakụ -mEjE ŋịn -mEjE
+\ge Rex  name  dog    be -pst -poss.3sg shaggy -aug  red        -aug  dog    -aug
+
+\ft Its name was Rex, it was a big shaggy red dog.
+\ru Его звали Рекс, лохматая, красная собака.
+\ph
+\ELANBegin 00:01:59.760
+\ELANEnd 00:02:04.060
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_027
+\tx Daik gerbe tor   bihni,           tar   ajaːwrị       toreŋu,                bekečen  ičurimeje,
+\mb Daik gerbe tor   bi -R(E)   -n(I) tarak ajaːw -RI       tor   -E-ŋ   -W        beke -KEn it  -W     -RI       -mEjE
+\ge Daik name  earth be -nonfut -3sg  dist  love   -impf.ptc earth -ep-aln -poss.1sg all  -dim see -advrs -impf.ptc -aug
+
+\tx neleŋeje,  deːmŋe tor   bihin.
+\mb neleku -EjE deːmŋe tor   bi -RI  -n(I)
+\ge wide   -aug wide     earth be -pst -poss.3sg
+
+\ft There is a place called Daik, that is my favourite place, everything can be seen, it's a wide-open place.
+\ru Есть местность с названием Даик, это мое любимое место, все видно, просторное, широкое место было.
+\ph
+\gr Ija Krivoshapkina said that neleŋeje is the augmentative form of neleku, while neleŋeken is the diminutive; she said that all the adjectives that end
+in -ku are derived from verbs, there is a verb nelen 'become wide'
+\nt neleku - is usually used for wide flat dishes
+\ELANBegin 00:02:29.850
+\ELANEnd 00:02:37.260
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_050
+\tx Tar   ŋeːlellidʒi              mutu        mendeneče,            taraw      bejel      herčel,        go,   ịaw
+\mb tarak ŋeːl    -E-L     -RIdʒI  mut    -W   mende  -nE     -čE    tarak -W   bej -E-L   hor -čE -L     ge    ịak -W
+\ge dist  be.afraid -ep-inch -ant.cvb 1pl.in -acc search -intent -pf.ptc dist  -acc man -ep-pl go  -pf.ptc -pl exclm what  -acc
+
+\tx ịanamị,               tar   abagańdʒaw             ịanamị,               nemkenemi.
+\mb ịa    -nE     -mI       tarak abaga       -ńdʒE -W   ịa    -nE     -mI       nemke -nE -mI
+\ge do.what -intent -cond.cvb dist  grandfather -aug    -acc do.what -intent -cond.cvb shoot -nr -cond.cvb
+
+\ft Having gotten a fright she went to look for us, people went to shoot that bear.
+\ru Испугавшись она пошла искать нас, люди пошли стрелить этого медведя.
+\ELANBegin 00:04:36.220
+\ELANEnd 00:04:46.990
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_052
+\tx Tar   ọrọwụna xata        dʒaːltị               emne         hatụrụ ọːrịdʒụr,   tar   abagańdʒaw
+\mb tarak rovno         xata        dʒaː   -L  -t(I)        em   -R(E)   sotoru     ọː  -RIdʒI  -L  tarak abaga       -ńdʒE -W
+\ge dist  exactly.R     thank.god.Y relative -pl -poss.1pl.in come -nonfut soon.Y     become -ant.cvb -pl dist  grandfather -aug    -acc
+
+\tx ittidʒur        mụčụčal         bičel         họtarandụk.
+\mb it  -RIdʒI  -L  mụčụ -čE -L     bi -čE -L     họtọran -DUk(U)
+\ge see -ant.cvb -pl return    -pf.ptc -pl be -pf.ptc -pl road        -abl
+
+\ft At that moment our relatives came, thank god, very soon, having seen that big bear they returned from the road.
+\ru Как раз родные пришли в скорости (быстро вернулись), увидев этого медведя они вернулись с дороги. 
+\ph
+\gr she actually says emni, but of course the nonfuture 3pl form should be emne
+\ELANBegin 00:04:53.800
+\ELANEnd 00:04:59.350
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_056
+\tx Ịaw      maːčal         biče,     tar   abịgańdʒaw           maːčal         bičel.
+\mb ịak -W   maː -čE -L     bi -čE    tarak abaga       -ńdʒE -W   maː -čE -L     bi -čE -L
+\ge what  -acc kill -pf.ptc -pl be -pf.ptc dist  grandfather -aug    -acc kill -pf.ptc -pl be -pf.ptc -pl
+\ft They killed this... they killed this bear.
+\ru Этого убили, этого медведя убили оказывается.
+\ELANBegin 00:05:11.770
+\ELANEnd 00:05:15.900
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_057
+\tx Egdʒemeje    abịga     biče.
+\mb egdʒen -mEjE abaga       bi -čE
+\ge big     -aug  grandfather be -pf.ptc
+\ft That was a big bear.
+\ru Это был большой медведь.
+\ELANBegin 00:05:15.900
+\ELANEnd 00:05:17.280
+\ELANParticipant
+\ru
+
+\id Krivoshapkina_Ija_memories_062
+\tx Tar   ajaːwrị       toreŋu,                ńan   Kuńikit gerbe tor   bihin,            hatahrịmaja,          nọːg
+\mb tarak ajaːw -RI       tor   -E-ŋ   -W        ńaːn Kuńikit gerbe tor   bi -RI  -n(I)     haːtar -RI       -mEjE nọːg
+\ge dist  love   -impf.ptc earth -ep-aln -poss.1sg and    Kunikit  name  earth be -pst -poss.3sg be.dark -impf.ptc -aug  dense
+
+\tx hịgịːlkamaja,     ńupkumek...     ńupkumhimdeheje                    tor   bihni.
+\mb hịgịː -lkEn -mEjE nipku     -m     nipku     -m   -RI       -mdEs -EjE tor   bi -R(E)   -n(I)
+\ge forest     -prop -aug  suffocate -des   suffocate -des -impf.ptc -sml  -aug earth be -nonfut -3sg
+
+\ft That is my favourite place; then there is a place called Kunikit, a very dark place with dense forest, where you feel as if you suffocate.
+\ru Это мое любимое место, еще есть местность под названием Куникит, темное, с густым лесом, хочется задохнуться.
+\ph
+\gr
+\ELANBegin 00:05:31.960
+\ELANEnd 00:05:40.240
+\ELANParticipant
+\ru
+
+\id Krivoshapkina_Ija_memories_089
+\tx Egdʒekeːmdehje          ečije,         eti           họwnar         ọːkan,       hiː mụkaw
+\mb egdʒen =kE   -mdEs -jEː erroːčin -IjE e   -RI       họgna -R       ọː  -kEn     hiː mụka     -W
+\ge big     =emph -sml  -aug  prox.qual  -aug neg -impf.ptc move    -neg.cvb become -trm.cvb 2sg  fur.jacket -acc
+
+\tx tettis                ehni,             tačịn.
+\mb tet    -RI  -s(I)     e   -R(E)   -n(I) tarọːčịn
+\ge put.on -pst -poss.2sg neg -nonfut -3sg  dist.qual
+
+\ft Like big such a ones, until they couldn't move - like you, when you put on that fur jacket, right.
+\ru Как большие такие (букв такущие), до того что не могли двигаться, как вы, когда одели доху.
+\ph
+\gr the dimunitive of egdʒekeːmdehje would be egdʒekeːmdesken
+\nt Ija Krivoshapkina is here referring to my trip by snowmobile to the 10th reindeer brigade, when I put on two pairs of long johns, two pairs of
+pants, a woollen undershirt, a blouse, three jerseys and an Even fur jacket and thus felt I could n't really move.
+\ELANBegin 00:08:11.840
+\ELANEnd 00:08:15.510
+\ELANParticipant
+\ru
+
+\id Krivoshapkina_Ija_memories_090
+\tx Eti           họwnar         ọːkan        tetčel,           ọjčịčal         ịala        urekčendule,
+\mb e   -RI       họgna -R       ọː  -kEn     tet    -čE -L     ọjčị -čE -L     ịak -(dU)LE urekčen -(dU)LE
+\ge neg -impf.ptc move    -neg.cvb become -trm.cvb put.on -pf.ptc -pl go.up     -pf.ptc -pl what  -loc    hill     -loc
+
+\tx urekčenten        bọlla      ečin      ịamaja    ịlgam... ịlgamapkị   ọːn ịagụl    ečin      krụtọj ge,   biče
+\mb urekčen -tEn      buollaγïna erroːčin ịak -mEjE ịlgam    ịlgam -(E)pkI ọːn ịak =(W)Ul erroːčin krụtọj ge    bi -čE
+\ge hill     -poss.3pl dp.Y         prox.qual  what  -aug  stand      stand   -advr   how    what  =indef prox.qual  steep.R    exclm be -pf.ptc
+
+\tx dʒi.
+\mb diː
+\ge ptl.Y
+
+\ft Put on (clothes) until they couldn't move and climbed up that mountain, their mountain however, was such a steep one, right.
+\ru Надели так, что не могли двигаться, на эту гору большую поднялись, а ихняя эта гора такая стоячая, крутая, была.
+\ph
+\gr Ija said there is a suffix -(E)pkI that derives adverbs from verbs, such as ịlgamapkị or dessipki 'horizontal, in a lying position'
+\ELANBegin 00:08:15.510
+\ELANEnd 00:08:26.270
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_093
+\tx Gọrịnụk      bejel      taraw      kojeːkkerečel,               ịamajalgụl         digen boːdeldʒur
+\mb gọrụ -(I)nUk   bej -E-L   tarak -W   kojeː -Č  -Gr(E) -čE -L     ịak -mEjE -L  =(W)Ul digen boːdel -dʒUr
+\ge far      -advb.abl man -ep-pl dist  -acc watch  -res -hab   -pf.ptc -pl what  -aug  -pl =indef four  leg(s)  -ins.prfl.pl
+
+\tx ọjčịdda,           ịaw.
+\mb ọjčị -D    -R(E)   ịa    -W
+\ge go.up     -prog -nonfut do.what -acc
+
+\ft From afar people looked at that, something is climbing up on four legs.
+\ru Издалека люди на это смотрели, какие-то там на четырех ногах взбираются.
+\ELANBegin 00:08:34.270
+\ELANEnd 00:08:39.140
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_095
+\tx Ńaldańamajalńụn       ičuwrečel,                  ịamajalgụl         digen boːdeldʒur         ọmkam
+\mb ńaldańa -mEjE -L  =ńUn  it  -W     -Gr(E) -čE -L     ịak -mEjE -L  =(W)Ul digen boːdel -dʒUr       ọmkan  -W
+\ge black     -aug  -pl =restr see -advrs -hab   -pf.ptc -pl what  -aug  -pl =indef four  leg(s)  -ins.prfl.pl mountain -acc
+
+\tx ọjčịdda.
+\mb ọjčị -D    -R(E)
+\ge go.up     -prog -nonfut
+
+\ft Only something big and black was visible, something big climbing up the mountain on four legs.
+\ph
+\gr ičuwrečel = oni byli vidny (postojanno, obyčno, vsegda), ičuhinčel = pokazalis' (mel'knuli i isčezli)
+\ru Только черное было видно, что-то такие на четырех ногах на гору взбираются.
+\ELANBegin 00:08:44.800
+\ELANEnd 00:08:49.230
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_109
+\tx Hatakka       egdʒekeːmejel,        ńaldańamajal      ičujer                      bọllaktara.
+\mb hatakka       egdʒen =kE   -mEjE -L  ńaldańa -mEjE -L  it  -W     -j    -Ar         buol  -dEg      -LArA
+\ge in.addition.Y big     =emph -aug  -pl black     -aug  -pl see -advrs -conn -prs.ptcp.Y aux.Y -assert.Y -3pl.Y
+
+\ft In addition they looked huge and black.
+\ru К тому же они большие, черные виднелись.
+\ph
+\ELANBegin 00:09:52.150
+\ELANEnd 00:09:55.760
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_113
+\tx Abagańdʒa         nọŋandụkụn          hawdịdmar,   akadmar              biče      goːŋner.
+\mb abaga       -ńdʒE nọŋan -DUk(U) -n(I)     hagdị -dmEr  akan          -dmEr  bi -čE    goːn -Gr(E) -r
+\ge grandfather -aug    3sg      -abl    -poss.3sg old     -contr older.brother -contr be -pf.ptc say   -hab   -3pl
+\ft They say my grandfather was older than her.
+\ru Говорят дед был старше ее, старше ее.
+\ph
+\gr Ija Krivoshapkina thinks that hawdịdmar is used when the person is a lot older, while akadmar is used when s/he is just a little bit older
+\ELANBegin 00:10:18.550
+\ELANEnd 00:10:24.980
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_114
+\tx Čeŋtekumeje     abịgamaja       bihin,            etikemeje      bihin,            tiːkde   dʒọŋčịrakụ,
+\mb čeŋteku   -mEjE abaga       -mEjE bi -RI  -n(I)     etikeːn -mEjE bi -RI  -n(I)     tiek =DE  dʒọŋčị -REk      -W
+\ge pot-bellied -aug  grandfather -aug  be -pst -poss.3sg old.man  -aug  be -pst -poss.3sg now  =ptl remember      -cond.cvb -poss.1sg
+
+\tx ịan...        ụrbakadụkụn         uren                 hiečeddi                      biwren,         ečin
+\mb ịak -n(I)     rubaxa  -DUk(U) -n(I)     ur      -E-n(I)      hie    -Č  -E-D     -RI       bi -Gr(E) -n(I) erroːčin
+\ge what  -poss.3sg shirt.R -abl    -poss.3sg stomach -ep-poss.3sg appear -res -ep-prog -impf.ptc be -hab   -3sg  prox.qual
+
+\tx eti...        hergide      ịan,          ịalnị...        imendelni            eti           imendepte
+\mb e   -RI       her    -gIdE ịak -n(I)     ịak -L  -n(I)     imenre -L  -n(I)     e   -RI       imenre    -B   -R
+\ge neg -impf.ptc bottom -part what  -poss.3sg what  -pl -poss.3sg button -pl -poss.3sg neg -impf.ptc button.up -med -neg.cvb
+
+\tx bihitnen          keːnterelin                ońeŋen,           oŋeńen,           oŋeńeŋen                 ịalịn
+\mb bi -RI  -tEn      keːntere -(dU)LI -n(I)     oŋeń -E-n(I)      oŋeń -E-n(I)      oŋeń -E-ŋ   -E-n(I)      ịak -(dU)LI -n(I)
+\ge be -pst -poss.3pl torso     -prol   -poss.3sg belt   -ep-poss.3sg belt   -ep-poss.3sg belt   -ep-aln -ep-poss.3sg what  -prol   -poss.3sg
+
+\tx keːnterelin                ogili,      oŋonoŋ tiŋendulin              biwren.
+\mb keːntere -(dU)LI -n(I)     ogi -(dU)LI oŋonoŋ tiŋen -(dU)LI -n(I)     bi -Gr(E) -n(I)
+\ge torso     -prol   -poss.3sg top -prol   nearly   breast -prol   -poss.3sg be -hab   -3sg
+
+\ft He had a big belly, grandfather, he was a big old man, I even now remember, from under his shirt his belly was visible, and the lower buttons
+couldn't even be closed, and his belt was somewhere on this height, nearly around his breast.
+\ru Пузатый был дедушка, такой старик был, я и сейчас помню, из-под рубашки виднелся этот живот, нижние пуговицы даже не могли
+застегнуться, а ремень у него был где-то здесь, чуть ли не на уровне груди. 
+\ELANBegin 00:10:24.980
+\ELANEnd 00:10:49.150
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_115
+\tx Ịak egdʒọːmeje      ńaldańamaja   mụralkan    bihin,            taraŋdʒị
+\mb ịak egdʒen =eː  -mEjE ńaldańa -mEjE mụran -lkEn bi -RI  -n(I)     tarak -ŋ  -DʒI
+\ge what  big     =emph -aug  black     -aug  horse   -prop be -pst -poss.3sg dist  -aln -ins.prfl.sg
+
+\tx ńulgewekkererin,                     ụːčak       kịajbat  bọlla                     nọŋman,              urgen
+\mb nulge   -WEːČ -Gr(E) -RI  -n(I)     ụčak         kịajbat  buol  -dEg      -E          nọŋan -W   -n(I)     urge  -n(I)
+\ge migrate -gnr    -hab   -pst -poss.3sg riding.reindeer not.able.Y aux.Y -assert.Y -poss.3sg.Y 3sg      -acc -poss.3sg heavy -poss.3sg
+
+\tx họː bọllaga,             čeŋtekun            họːdụkụn.
+\mb họː buol  -dEg      -E     čeŋteku   -n(I)     họː -DUk(U) -n(I)
+\ge very   aux.Y -assert.Y -3sg.Y pot-bellied -poss.3sg very   -abl    -poss.3sg
+
+\ft He had a big black horse with which he migrated, since a riding reindeer couldn't (carry) him, he was of course very heavy, had a too big belly.
+\ph (05_quest_2010, 24:45) čeŋtekun họːdụkụn = sliškom puzatyj, nọːdan họːdụkụn = ot ee črezvyčajno krasoty, gụd họːdụkụn = sliškom vysokij; the
+possessive on the adjective is not obligatory
+\ru У него был большой черный конь, он на нем кочевал, потому что верховой олень не мог его поднять, очень тяжелый конечно же был,
+слишком пузатый.
+\ph
+\gr họːdụkụn
+\ELANBegin 00:10:49.150
+\ELANEnd 00:11:00.370
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_126
+\tx Tala          ọl_ihin   meːne   ečin      ịamaja    ŋọnam gọlmaja      nọkụkkaran                   tala
+\mb tarak -(dU)LE ọl_ihin   meːne   erroːčin ịak -mEjE ŋọnam gọl    -mEjE nọk   -W     -Č  -Gr(E) -n(I) tarak -(dU)LE
+\ge dist  -loc    therefore.Y simply.Y prox.qual  what  -aug  long     firewood -aug  hang.up -advrs -res -hab   -3sg  dist  -loc
+
+\tx karaːlla,       ịadụk     omen bịhịttụk    gịadmar,   omen ịadụkụn           holidukun
+\mb karaːl  -(dU)LE ịak -DUk(U) omen bịhịt -DUk(U) gịa -dmEr  omen ịak -DUk(U) -n(I)     holi -DUk(U) -n(I)
+\ge corral.R -loc    what  -abl    one  weir.Y    -abl    next  -contr one  what  -abl    -poss.3sg edge -abl    -poss.3sg
+
+\tx gịadmar    ịalan,             bargịdalan                      ịstala ịak gọl... ọkaːtụ   kọŋdas ečin
+\mb gịa -dmEr  ịak -(dU)LE -n(I)  bargịda          -(dU)LE -n(I)  ịstala ịak gọl    ọkaːt -W   kọŋdas erroːčin
+\ge next  -contr what  -loc -poss.3sg opposite.riverbank -loc -poss.3sg until    what  firewood river    -acc through   prox.qual
+
+\tx gọlmaja      nọkụkkaran                   ŋọnam.
+\mb gọl    -mEjE nọk   -W     -Č  -Gr(E) -n(I) ŋọnam
+\ge firewood -aug  hang.up -advrs -res -hab   -3sg  long
+
+\ft Therefore there a long piece of wood simply hangs, a long pole in that corral, from one riverbank to the other, across the river this long pole
+hangs.
+\ru Поэтому там просто висит длинная жердь такая с одного берега на другой вместо этого быхыта, через всю реку висит эта длинная жердь с
+одного края на другой.
+\ph
+\gr Ija said there is a verb nọkụdaj as well as nọktaj and nọkụtta - but I forgot to ask what the difference between nọktaj and nọkụdaj is (last aftrnoon,
+rather tense waiting for the heli); Robbek only has nọktaj and nọkụttaj; nọkkaran = on vešaet postojanno/vsegda, zanovo vešaet; nọkụwran =
+predmet vešaetsja, okazat'sja na vesu, postojanno, cepljaetsja za čto-to i visit; nọkụkkaran = postojanno visit, postojanno deržit' na vesu (portret
+na stenke, naprimer)
+\ELANBegin 00:11:58.690
+\ELANEnd 00:12:18.080
+\ELANParticipant
+\ru
+
+\id Krivoshapkina_Ija_memories_127
+\tx Tadụ     Jurka anŋantan     meːn ịańdʒalbị..          fụtbọlkańdʒalbị       nọkkọrọrịn            ečin
+\mb tarak -DU  Jurij anŋan -tEn   meːn ịak -ńdʒE -L  -J       futbolka -ńdʒE -L  -J       nọk   -Gr(E) -RI  -n(I)     erroːčin
+\ge dist  -dat Jurij year   -distr refl  what  -aug    -pl -prfl.sg Tshirt.R -aug    -pl -prfl.sg hang.up -hab   -pst -poss.3sg prox.qual
+
+\tx rụkawadʒịn,                 ịadʒịn                  oːsčin                      ịala        hịnnịkan,       tala
+\mb rukawa    -DʒI        -n(I)     ịak -DʒI        -n(I)     oːs   -DʒI        -n(I)     ịak -(dU)LE hịn      -nIkEn   tarak -(dU)LE
+\ge sleeves.R -ins.prfl.sg -poss.3sg what  -ins.prfl.sg -poss.3sg sleeve -ins.prfl.sg -poss.3sg what  -loc    shove.into -sim.cvb dist  -loc
+
+\tx gọlọńdʒala             hịngaran                tar   fụtbọlkańdʒan        nọkụkkaran               tar   ọkaːt
+\mb gọl    -E  -ńdʒE -(dU)LE hịn      -Gr(E) -E-n(I) tarak futbolka -ńdʒE -n(I)     nọk   -E-Č   -Gr(E) -n(I) tarak ọkaːt
+\ge firewood -ep -aug    -loc    shove.into -hab   -ep-3sg dist  Tshirt.R -aug    -poss.3sg hang.up -ep-res -hab   -3sg  dist  river
+
+\tx ịalan              dụlakan, dụlakandụlịn.
+\mb ịak -(dU)LE -n(I)  dụlakan  dụlakan -(dU)LI -n(I)
+\ge what  -loc -poss.3sg middle     middle    -prol   -poss.3sg
+
+\ft There, on this pole, Jurka every year hung his T-shirt, sticking the pole through the sleeves, and so the T-shirt hangs in the middle of the river.
+\ru Туда (на эту жердь) Юрка каждый год вешал свою футболку, продев в рукава эту футболку, и так футболка висит посередине реки.
+\ph
+\ELANBegin 00:12:18.080
+\ELANEnd 00:12:35.080
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_145
+\tx Ịbgakeː     urekčeńdʒew        ọjčịrap,             noːčel              delbi  tuteneddep
+\mb ịbgọ =kE   urekčen -ńdʒE -W   ọjčị -R(E)   -p      noː            -čEl delbi  tut -E-n     -E-D     -R(E)   -p
+\ge good     =emph hill     -aug    -acc go.up     -nonfut -1pl.in younger.sibling -com  very.Y run -ep-mult -ep-prog -nonfut -1pl.in
+
+\tx talị        ebinteken,      ịawgol          nekeddep,                    egdʒemejel       bihep,
+\mb tarak -(dU)LI ewiː -ntEkEn   ịak -W   =(W)Ul nek -E-D     -R(E)   -p      egdʒen -mEjE -L  bi -R(E)   -p
+\ge dist  -prol   play  -mult.cvb what  -acc =indef do  -ep-prog -nonfut -1pl.in big     -aug  -pl be -nonfut -1pl.in
+
+\tx ehepde                   ebidde               ọttọn, ịawgol          nekniken     gịrkawačaddap
+\mb e   -R(E)   -p      =DE  ewiː -D    -R       ọttọn  ịak -W   =(W)Ul nek -nIkEn   gịrka -WEːČ -E-D     -R(E)   -p
+\ge neg -nonfut -1pl.in =ptl play  -prog -neg.cvb dp.Y       what  -acc =indef do  -sim.cvb walk    -gnr    -ep-prog -nonfut -1pl.in
+
+\tx delbi, tuteneddep                            igin, delbi  gịrkawačaddap,                        tara  ịalịn,
+\mb delbi  tut -E-n     -E-D     -R(E)   -p      iŋin delbi  gịrka -WEːČ -E-D     -R(E)   -p      tarak ịak -(dU)LI -n(I)
+\ge very.Y run -ep-mult -ep-prog -nonfut -1pl.in etc.Y very.Y walk    -gnr    -ep-prog -nonfut -1pl.in dist  what  -prol   -poss.3sg
+
+\tx hejelin.
+\mb heje -(dU)LI -n(I)
+\ge peak -prol   -poss.3sg
+
+\ft We climbed up the mountain very well, my brother and I were running playing, we were doing something, we were already big, so we probably
+didn't play (i.e. she realized that they were already big, 12, 13 years old and probably weren't playing), we were doing something, walking along
+that mountain peak.
+\ru Поднялись хорошо на гору, с братом вместе вот бегаем играя, что-нибудь делаем, мы уже большие, мы не играем наверно (опомнилась),
+что-то делаем, ходим, бегаем, ходим, по верхушке горы.
+\ELANBegin 00:13:50.240
+\ELANEnd 00:14:04.670
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_151
+\tx Tar   ajụkaja  itteku,                 dʒoːr anaŋmajal      tọgačadda,                     ụjamkamajal,
+\mb tarak ajụkaja  it  -REk      -W        dʒoːr anaŋ -mEjE -L  tọg    -E-Č   -E-D     -R(E)   ụjamkan      -mEjE -L
+\ge dist  suddenly.Y see -cond.cvb -poss.1sg two     ram   -aug  -pl lie.down -ep-res -ep-prog -nonfut mountain.sheep -aug  -pl
+
+\tx anaŋmajal      tọgačadda.
+\mb anaŋ -mEjE -L  tọg    -E-Č   -E-D     -R(E)
+\ge ram   -aug  -pl lie.down -ep-res -ep-prog -nonfut
+
+\ft Then suddenly I see, two big mountain rams are lying, two big mountain sheep, rams, are lying.
+\ru Потом вдруг вижу, два самца барана лежат, большие горные бараны, самцы, лежат.
+\ELANBegin 00:14:18.940
+\ELANEnd 00:14:23.760
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_154
+\tx Ammụ           ọttọn karabịńdʒaj            ịajdaga,                     nụgahajdagadị.
+\mb aman   -W        ọttọn karabịn -ńdʒE -J       ịa    -j    -dEg      -E     nụg    -E-s(E)n -j    -dEg      -E     =diː
+\ge father -poss.1sg dp.Y      carbine.R -aug    -prfl.sg do.what -conn -assert.Y -3sg.Y take.out -ep-lim  -conn -assert.Y -3sg.Y =emph.Y
+
+\ft Of course my father took out his gun.
+\ru Отец конечно же вынул свой карабин.
+\ph
+\ELANBegin 00:14:30.010
+\ELANEnd 00:14:34.410
+\ELANParticipant
+\ru
+
+\id Krivoshapkina_Ija_memories_156
+\tx Tara  hokohnidʒur         atallap,                 delbi  orelderep,               ịańdʒan,            gedemeken
+\mb tarak hokohon -RIdʒI -L   atal     -R(E)   -p      delbi  orelde   -R(E)   -p      ịak -ńdʒE -n(I)     gedemek      -E-n(I)
+\ge dist  descend -ant.cvb -pl take.off -nonfut -1pl.in very.Y be.happy -nonfut -1pl.in what  -aug    -poss.3sg back.of.head -ep-poss.3sg
+
+\tx imheben                ammụ           dʒebukenni,      ịahalbanda                    dʒeptit                uručun.
+\mb imse -W   -E-n(I)      aman   -W        dʒep -WkEn -n(I) ịašal -W   -E-n(I)      =DE  dʒep -RI -t(I)         uručun
+\ge fat  -acc -ep-poss.3sg father -poss.1sg eat   -caus -3sg  eyes     -acc -ep-poss.3sg =ptl eat   -pst -poss.1pl.in it.seems
+
+\ft We jumped down and slaughtered them, we were very happy, my father let/made us eat some of the fat from the back of the head, and it seesms
+we even ate the eyes.
+\ru Спустившись мы их освежевали, очень обрадовались, жир на затылке отец нам дал попробовать, кажется даже и глаза мы ели.
+\ph godomok
+\gr
+\nt There is a big layer of fat at the back of a mountain sheep's head, and that is chewed  raw 'like chewing gum', still warm. The eyes are gouged out
+and eaten raw.
+\ELANBegin 00:14:41.790
+\ELANEnd 00:14:52.040
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_212
+\tx Dʒoːridʒur              dʒụːdụkụːr       egdʒemeje    ụmkamụːr    ńoːwčel,             tar   anaːn      tala
+\mb dʒoːr -NI   -dʒUr       dʒụː -DUk(U) -WUr     egdʒen -mEjE ụnkan -WUr     ńoː -U    -čE -L     tarak anaːn      tarak -(dU)LE
+\ge two     -coll -ins.prfl.pl house    -abl    -prfl.pl big     -aug  spoon   -prfl.pl exit  -caus -pf.ptc -pl dist  carefully.Y dist  -loc
+
+\tx tewte   oŋkelbudeŋnen                    torlen               ụmkalkahal       tewridʒur            dʒe   dʒepčel
+\mb tewte   oŋke -LbE -DEŋ    -(dU)LE -n(I)  tor   -(dU)LE -n(I)  ụnkan -lkEn -SEl teg      -RIdʒI -L   dʒe   dʒep -čE -L
+\ge berries pour  -vr  -pst.ptc -loc -poss.3sg earth -loc -poss.3sg spoon   -prop -pl  sit.down -ant.cvb -pl well.Y eat   -pf.ptc -pl
+
+\tx taraŋụr          ụmkalkan.
+\mb tarak -ŋ  -WUr     ụnkan -lkEn
+\ge dist  -aln -prfl.pl spoon   -prop
+
+\ft The two of them brought big spoons out of their house and sat down in that place where the berries were poured out and (started) eating that
+with their spoons.
+\ru Вдвоем они из дому вынесли большие ложки свои, и сели на то место где ягоды рассыпались, сев, ложками вот это свое стали есть.
+\ph
+\ELANBegin 00:19:27.860
+\ELANEnd 00:19:37.700
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_236
+\tx Tačịn       mụčụddakan                         ajụkaja  tar   amandụkụngụ,           ịadụkụngụ
+\mb tarọːčịn mụčụ -D    -REk -E-n(I)            ajụkaja  tarak aman   -DUk(U) -n(I)     =GU ịak -DUk(U) -n(I)     =GU
+\ge dist.qual      return    -prog -cond.cvb -ep -poss.3sg suddenly.Y dist  father -abl    -poss.3sg =q  what  -abl    -poss.3sg =q
+
+\tx ịarịdʒị   ńọːnịdʒị tar   hịattụk    ịamajakkan      tọːkịmajakkan     ịača
+\mb ịa    -RIdʒI  ńọːn -RIdʒI  tarak hịat -DUk(U) ịak -mEjE -kkEn tọːkị -mEjE -kkEn ịa    -čE
+\ge do.what -ant.cvb run.away -ant.cvb dist  willow -abl    what  -aug  -dim  elk        -aug  -dim  do.what -pf.ptc
+
+\tx tọhaŋčịča.
+\mb tụsan -Č  -E-čE
+\ge hop     -res -ep-pf.ptc
+
+\ft While she was returning like that, suddenly out of those willow bushes a huge elk jumped out, frightened by her father or something.
+\ru Когда она так возвращалась вдруг то ли от отца или что-либо другого испугавшись, из этих зарослей лосище выскочил.
+\ph amandụkụŋgu ịadụkụŋgu
+\gr ńọːn = run away after having got a fright, it has the meaning of both getting a fright and of running away; tọːkịmajakkan = the augmentative
+plus diminutive give a dynamic nuance, a sense of movement
+\ELANBegin 00:21:33.920
+\ELANEnd 00:21:43.880
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_239
+\tx Ọːn, ịak aːnńa ọttọn egdʒemeje    dʒelgenke čapčịrakan.
+\mb ọːn  ịak aːnńa ọttọn egdʒen -mEjE dʒelgenke čapčị -REk -E-n(I)
+\ge how     what  good.Y  dp.Y      big     -aug  animal     step.on   -cond.cvb -ep -poss.3sg
+
+\ft Well, what good can come of it when such a big animal steps on you/crushes you.
+\ru Ну, что может быть хорошего из того, что такой большой зверь растопчет.
+\ph
+\gr Ija Krivoshapkina said that aːnńa was from Sakha, that there is an expression in Sakha tuoχ aːnńa with a general meaning of 'what can be good
+about something', but I cannot find that in the dictionary
+\ELANBegin 00:21:54.850
+\ELANEnd 00:21:59.150
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_243
+\tx Eče        maːra        ọttọn, ọːnda    maːdʒịn,     gụːdmaja ịak dʒelgenke bọlla                     tarak.
+\mb e   -čE    maː -R       ọttọn  ọːn =DE  maː -DʒI -n(I) gụd -mEjE ịak dʒelgenke buol  -dEg      -E          tarak
+\ge neg -pf.ptc kill -neg.cvb dp.Y       how    =ptl kill -fut  -3sg  high  -aug  what  animal     aux.Y -assert.Y -poss.3sg.Y dist
+
+\ft But he didn't kill it, how would he kill it, such a tall animal.
+\ru Но он не убил, как он убьет, он же такой высокий зверь.
+\ELANBegin 00:22:16.920
+\ELANEnd 00:22:21.180
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_261
+\tx Awlańdʒa,    Kuntekeńdʒe,     Dohowul, tiːkte   torelben                       dʒọŋčịram,          Tokonok,
+\mb awlan  -ńdʒE kuntek -E  -ńdʒE Dohowul  tiek =DE  tor   -E-L   -W   -E-n(I)      dʒọŋčị -R(E)   -m   Tokonok
+\ge plains -aug    field  -ep -aug    Dohowul  now  =ptl earth -ep-pl -acc -ep-poss.3sg remember      -nonfut -1sg Tokonok
+
+\tx Ọmkańdʒa     gerbel    bihitnen,         Munni,        Dʒus Erikit, Munni         Dʒus Erikiten,
+\mb ọmkan  -ńdʒE gerbe -L  bi -RI  -tEn      mun -RI       Dʒus Erikit  mun -RI       Dʒus Erikit -E-n(I)
+\ge mountain -aug    name  -pl be -pst -poss.3pl rot -impf.ptc Djus  Erikit  rot -impf.ptc Djus  Erikit -ep-poss.3sg
+
+\tx Bịhịtan            gerbel.
+\mb bịhịt -E-n(I)      gerbe     -L
+\ge plotina.Y -ep-poss.3sg give.name -pl
+
+\ft Awlandja, Kuntekendje, Dohowul, I even now remember, there were so-called Tokonok, Omkandja, so-called Munni, Djus Erikit, Munni Djus
+Erikiten, Bihitan.
+\ru ххх я и сейчас помню, ххх были места с такими названиями.
+\ph
+\gr
+\nt This is the summer migration route of the seventh brigade. Not all of the names have a known etymology; Dohowul - doesn't have a known
+etymology, Tokonok - IVK forgot, what the etymology is; Munni - something rotted there, rotting stream, but not clear what rotted there; Djus
+Erikit - camp near a spring (rodnik)
+\ELANBegin 00:23:16.120
+\ELANEnd 00:23:31.990
+\ELANParticipant
+\ru
+
+\id Krivoshapkina_Marta_bear_012
+\ref 1:43
+\tx Tarịt buollaγïna ụraːdnị      uručun, araːha ụjamkalbụ,          anï  araj       itteket
+\mb tarịt buollaγïna ụraː     -n(I) uručun  araːha ụjamkan      -L  -W   anï  araj       it  -REk      -E-t(I)
+\ge then    dp.Y         miss.nonfut -3sg  it.seems maybe.Y mountain.sheep -pl -acc now.Y suddenly.Y see -cond.cvb -ep-poss.1pl.in
+
+\tx brosta,  ammụ           brosta   kụːńịntakan    hergije     hergi  urekčem      hergekki
+\mb prosto   aman   -W        prosto   kụːnị -ntEkEn   hergi  -IjE hergi  urekčen -W   hergi  -skI
+\ge simply.R father -poss.1sg simply.R scream     -mult.cvb bottom -aug bottom hill     -acc bottom -advb.all
+
+\tx ịaddan,                   tutedden.
+\mb ịa    -D    -R(E)   -n(I) tut    -E-D     -R(E)   -n(I)
+\ge do.what -prog -nonfut -3sg  here.R -ep-prog -nonfut -3sg
+
+\ft And then it seems he missed the mountain sheep, suddenly we see my father is running screaming straight down the hill.
+\ru А потом кажется промахнулся на горных баранов, врдуг видим, мой отец крича бежит прямо вниз с горы.
+\ph ureŋčen
+\gr hergekki should be hergehki
+\nt
+
+\id Krivoshapkina_Marta_bear_024
+\ref 2:40
+\tx Ejehki    ičehneku,                       brosta   abagamaja         emedden,                      nakat.
+\mb ejeski    it  -E-s(E)n -REk      -W        prosto   abaga       -mEjE em   -E-D     -R(E)   -E-n(I) nakat
+\ge downriver see -ep-lim  -cond.cvb -poss.1sg simply.R grandfather -aug  come -ep-prog -nonfut -ep-3sg bear
+\ft I look downriver, and a big bear is coming.
+\ru Когда посмотрела вниз, идет медведь. // Посмотрю вниз, идет медведь.
+\ph broːsta with very long drawn out oː
+\gr
+\nt
+\qu
+
+\id Krivoshapkina_Marta_bear_026
+\ref 2:46
+\tx "Kačọː, tarańdʒa    abagamaja         emedden",                   goːnem.
+\mb Katja -Eː  tarak -ńdʒE abaga       -mEjE em   -E-D     -R(E)   -n(I) goːn -R(E)   -m
+\ge Katja -voc  dist  -aug    grandfather -aug  come -ep-prog -nonfut -3sg  say   -nonfut -1sg
+
+\ft "Katja, over there a big bear is coming", I said.
+\ru Катя, вот идет медведище говорю.
+\ph
+\gr
+\nt
+\qu
+
+\id Krivoshapkina_Marta_bear_042
+\ref 3:44
+\tx Emiske     ammụw               ittidʒi,    tar  abagańdʒa         buolla  brosta   nọŋantakịn            herren,
+\mb emiske     aman   -W   -W        it  -RIdʒI  tar  abaga       -ńdʒE buollar prosto   nọŋan -t(E)kI -n(I)     hor -R(E)   -n(I)
+\ge suddenly.Y father -acc -poss.1sg see -ant.cvb thus grandfather -aug    dp.Y    simply.R 3sg      -all    -poss.3sg go  -nonfut -3sg
+
+\tx amantakịwụ.
+\mb aman   -t(E)kI -W
+\ge father -all    -poss.1sg
+
+\ft Suddenly seeing my father that big bear went towards him, towards my father.
+\ru Вдруг увидев моего отца, этот медведище пошел к нему.
+\ph
+\gr
+\nt ammuw - the w is incorrect
+
+\id Krivoshapkina_Marta_bear_044
+\ref 3:54
+\tx Gịrkajaːdʒị          horridʒi,   brosta....
+\mb gịrka -jEː -DʒI        hor -RIdʒI  prosto
+\ge walk    -aug  -ins.prfl.sg go  -ant.cvb simply.R
+\ft Walking, going....
+\ru Пойдя идя...
+\ph
+\gr
+\nt
+
+\id Krivoshapkina_Marta_bear_045
+\ref 3:56
+\tx Ammụ           buollar tarak abagańdʒịkan         čụgahaddakan                            ịadnị...
+\mb aman   -W        buollar tarak abaga       -ńdʒE -KEn čụgaha     -D    -REk      -E-n(I)      ịa           -n(I)
+\ge father -poss.1sg dp.Y    dist  grandfather -aug    -dim come.closer.Y -prog -cond.cvb -ep-poss.3sg do.what.nonfut -3sg
+
+\ft My father, however, when that big bear came closer, did what....
+\ru А отец когда этот медведище приближался...
+\ph
+\gr
+\nt
+
+\id Krivoshapkina_Marta_bear_049
+\ref 4:18
+\tx Abagańdʒa         buolla  ečin      emnen.
+\mb abaga       -ńdʒE buollar erroːčin em   -R(E)   -n(I)
+\ge grandfather -aug    dp.Y    prox.qual  come -nonfut -3sg
+\ft And the big bear came like this.
+\ru А медведище приблизился так.
+\ph
+\gr
+\nt
+\qu
+
+\id Krivoshapkina_Marta_bear_052
+\ref 4:26
+\tx Abagańdʒa         ečije          ịlmatta,                 ečin.
+\mb abaga       -ńdʒE erroːčin -IjE ịl     -mEČ -R(E)       erroːčin
+\ge grandfather -aug    prox.qual  -aug stand.up -rec  -nonfut.3pl prox.qual
+
+\ft The big bear like this, they stood opposite each other like this.
+\ru Медведище так... они встали друг против друга.
+\ph
+\gr
+\nt
+
+\id Krivoshapkina_Marta_bear_053
+\ref 4:28
+\tx Ịlịjaːdʒị               ečije          ịlabahadnị           abagańdʒa.
+\mb ịl     -E  -jEː -DʒI        erroːčin -IjE ịl     -E  -bEhE -n(I) abaga       -ńdʒE
+\ge stand.up -ep -aug  -ins.prfl.sg prox.qual  -aug stand.up -ep -aug  -3sg  grandfather -aug
+
+\ft Standing up like this, he stood up, the big bear.
+\ru Вставая так, встал, медведище.
+\ph
+\gr
+\nt An augmentative suffix on every word!!!
+
+\id Krivoshapkina_Marta_bear_057
+\ref 4:41
+\tx Ammụ           erteki       horreken,                  abagańdʒa         erteki       emgeren.
+\mb aman   -W        erek -t(E)kI hor -REk      -E-n(I)      abaga       -ńdʒE erek -t(E)kI em   -Gr(E)      -n(I)
+\ge father -poss.1sg prox -all    go  -cond.cvb -ep-poss.3sg grandfather -aug    prox -all    come -hab.nonfut -3sg
+\ft When my father goes here, the big bear comes here.
+\ru Когда отец идет сюда, медведище сюда приходит.
+\ph
+\gr
+\nt
+\qu
+
+\id Krivoshapkina_Marta_bear_063
+\ref 4:59
+\tx Tar   haːnịndụk    ịarịdʒị   hoteldʒin           buoluo     abagańdʒa         hordʒin        buoluo,    edʒi
+\mb tarak haːnịn -DUk(U) ịa    -RIdʒI  hotel    -DʒI -n(I) buoluo     abaga       -ńdʒE hor -DʒI -n(I) buoluo     e   -LI
+\ge dist  smoke     -abl    do.what -ant.cvb run.away -fut  -3sg  probably.Y grandfather -aug    go  -fut  -3sg  probably.Y neg -imp.2sg
+
+\tx ŋeːlkil",        goːnem            biː.
+\mb ŋeːl    -kIl     goːn -R(E)   -m   biː
+\ge be.afraid -proh.sg say   -nonfut -1sg 1sg
+
+\ft "From that smoke he will probably run away, that big bear will probably go away, don't be frightened", I say.
+\ru Из-за дыма он наверно будет убежать медведище наверно уйдет, не бойся, сказала я.
+\ph
+\gr
+\nt Ija didn't translate "hoteldʒin" because even though she said she thought it was the Sakha word for 'cough' it seemed somewhat unlikely at the
+moment. But I think she was probably right.
+
+\id Krivoshapkina_Marta_bear_065
+\ref 5:15
+\tx Nọːdadʒịm     abagańdʒa         emeddeken.
+\mb nọːda -DʒI -m   abaga       -ńdʒE em   -E-D     -REk      -E-n(I)
+\ge throw    -fut  -1sg grandfather -aug    come -ep-prog -cond.cvb -ep-poss.3sg
+\ft "I will throw it when the bear comes."
+\ru Брошу когда придет медведь.
+\ph
+\gr emeddeken = kogda pridet, emneken = esli pridet
+\nt
+\qu
+
+\id Krivoshapkina_Marta_bear_069
+\ref 5:30
+\tx Tarịt ammụńụn           dʒoːridʒur               tar   abagańdʒa         delbi  ečin      nekmette.
+\mb tarịt aman   -W        -ńUn dʒoːr -NI   -dʒUr        tarak abaga       -ńdʒE delbi  erroːčin nek -mEČ -R(E)
+\ge then    father -poss.1sg -com  two     -coll -ins.prefl.pl dist  grandfather -aug    very.Y prox.qual  do  -rec  -nonfut.3pl
+
+\ft Then both my fahter and that bear did like this to each other.
+\ru Потом с отцом вдвоем этот медведище так друг друга сделали.
+\ph
+\gr the form ammụńụn with the possessive marking before the case marking is not correct, it should be amńụmụ
+\nt shows with her hands how the father and the bear walked around each other
+
+\id Krivoshapkina_Marta_bear_070
+\ref 5:33
+\tx Tar  emiske     abagańdʒa         dʒiŋ ihnen                          ele,         gde-to,          tarak ọːn
+\mb tar  emiske     abaga       -ńdʒE dʒiŋ i          -s(E)n -R(E) -n(I)  erek -(dU)LE gde     - to     tarak ọːn
+\ge thus suddenly.Y grandfather -aug    very.Y be.audible -lim   -nonfut -3sg prox -loc    where.R - that.R dist  how
+
+\tx ịajaːdʒị,            prt prt goːjeːdʒi,            nokebehedni.
+\mb ịa    -jEː -DʒI        prt prt goːn -jEː -DʒI        nek -E  -bEhE -n(I)
+\ge do.what -aug  -ins.prfl.sg prt prt say   -aug  -ins.prfl.sg do  -ep -aug  -3sg
+
+\ft Then suddenly the big bear, it was audible here, did how, made a sound prt prt.
+\ru Вот вдруг очень слышно здесь, сделал прт пртю
+\ph
+\gr if a small creature had made the sound, the verb would have been nekehehnen
+\nt
+
+\id Krivoshapkina_Marta_bear_071
+\ref 5:41
+\tx Noktidʒi    buolla  ečije          ńanụkụja      ečije          ịarịdʒị   tartakịjaːkị       emdeŋi
+\mb nek -RIdʒI  buollar erroːčin -IjE ńańụkụn -IjE erroːčin -IjE ịa    -RIdʒI  tarak -t(E)kI -jEːkI   em   -DEŋ    -J
+\ge do  -ant.cvb dp.Y    prox.qual  -aug quietly       -aug prox.qual  -aug do.what -ant.cvb dist  -all    -directly come -pst.ptc -prfl.sg
+
+\tx tortekij               ịak horren.
+\mb tor   -t(E)kI -J       ịak hor -R(E)   -E-n(I)
+\ge earth -all    -prfl.sg what  go  -nonfut -ep-3sg
+
+\ft And having done like this, slowly having done like this, he went straight to the place where he had come from.
+\ru Сделав так медленно так сделав, прямо туда ушел туда откуда пришел.
+\ph
+\gr
+\nt
+
+\id Krivoshapkina_Marta_bear_077
+\ref 6:05
+\tx Delbi  kojeːttep,             abagańdʒa         horeddikkin                                 delbi  kojeːttep,             mute.
+\mb delbi  kojeːt -R(E)   -p      abaga       -ńdʒE hor -E-D     -RI       -t(E)kI -E-n(I)      delbi  kojeːt -R(E)   -p      mut
+\ge very.Y look.at -nonfut -1pl.in grandfather -aug    go  -ep-prog -impf.ptc -all    -ep-poss.3sg very.Y look.at -nonfut -1pl.in 1pl.in
+
+\ft We closely watched in the direction, in which the bear was going.
+\ru Пристально смотрим туда куда идет медведь.
+\ph
+\gr horeddikkin - v storonu idjashego
+\nt
+\qu
+
+\id Krivoshapkina_Sofija_life_029
+\ref
+\tx Abagamajalda               [stammers] ŋeːlilgere[p]                            abagamajaldụkta
+\mb abaga       -mEjE -L  =DE  stammers   ŋeːl    -E-L      -Gr(E) -R(E)   -p      abaga       -mEjE  -L  -DUk(U) =DE
+\ge grandfather -aug  -pl =ptl stammers   be.afraid -ep-inch  -hab   -nonfut -1pl.in grandfather -aug   -pl -abl    =ptl
+
+\tx derihindʒiggererep                  kụŋa ọːnịkan    ere  ele          atịkal      bihe       minńun
+\mb derisen -D    -Gr(E) -R(E)   -p      kụŋa ọː  -nIkEn   erek erek -(dU)LE atịkan  -L  bi -R(E)   min     -ńUn
+\ge run.off -prog -hab   -nonfut -1pl.in child   become -sim.cvb prox prox -loc    old.woman -pl be -nonfut 1sg.obl -com
+
+\tx ihučel          taralńụn        tutuggererep                        abagadụk          derihinidʒur
+\mb isu  -čE    -L  tarak -E-L   -ńUn tut -E-D     -Gr(E) -R(E)   -p      abaga       -DUk(U) derisen -RIdʒI  -L
+\ge grow -pf.ptc -pl dist  -ep-pl -com  run -ep-prog -hab   -nonfut -1pl.in grandfather -abl    run.off -ant.cvb -pl
+
+\tx ŋeːlellidʒur,                hin     abaga       bụlgụran       kụːńịrakat:
+\mb ŋeːl    -E-L     -RIdʒI  -L  sin     abaga       bụl -Gr(E) -n(I) kụːnị -REk      -E-t(I)
+\ge be.afraid -ep-inch -ant.cvb -pl a.bit.Y grandfather pity  -hab   -3sg  scream     -cond.cvb -ep-poss.1pl.in
+
+\ft And we were frightened of bears, and ran away from bears when (I) was a child; here are old women who grew up with me, with those I ran away
+from a bear, having gotten a fright, the bear pitied us when we screamed:
+\ru И медведь мы пугались, и от медведя убегали, будучи ребенком, здесь есть старушки со мной выросшие, с ними бежали от медведя убежав,
+испугавшись, медведь жалел когда мы кричали.
+\ph
+\gr bụldaj = požalet', bụlgaran = obychno žalel
+
+\id Krivoshapkin_Segen_019b
+\ref
+\tx Dʒe   tar   ọːčandʒa          dʒe   amarra         goːndʒi,  dʒe   samolet    degeldʒin,              eduk
+\mb dʒe   tarak ọː  -čE    -ńdʒE dʒe   amar   -(dU)LE goːn -DʒI dʒe   samolet    deg -E-L     -DʒI -n(I) erek -DUk(U)
+\ge well.Y dist  become -pf.ptc -aug    well.Y behind -loc    say   -fut  well.Y airplane.R fly -ep-inch -fut  -3sg  prox -abl
+
+\tx dʒuleːhki         dewri         ọːdʒịn.
+\mb dʒul -E  -skI      deg -RI       ọː  -DʒI -n(I)
+\ge front -ep -advb.all fly -impf.ptc become -fut  -3sg
+
+\ft
+\ft The big one who did (a worker??) later will say (??), well, the plane will fly, from here it will start flying in future.
+\ru Большой сделавший (тот который сделал) потом скажет (?????), самолет будет летать, отсюда впредь станет летать.
+\ph
+\gr
+\nt the form "goːndʒi" does not make sense, because it lacks person-marking, and altogether this sentence was not very clear
+\qu
+
+\id Krivoshapkin_Segen_026
+\ref 5:45
+\tx Tarịt dʒe   omnekeje     tatnarịdʒịda           goːnem,           tawar ịala        škola   mexanizacijala,
+\mb tarịt dʒe   omen -kEːjE tat   -nE     -RIdʒI  =DE  goːn -R(E)   -m   tarak ịak -(dU)LE škola   mexanizacija    -(dU)LE
+\ge then    well.Y one  -aug    learn -intent -ant.cvb =ptl say   -nonfut -1sg dist  what  -loc    school.R mechanisation.R -loc
+
+\tx tarịt dʒe:
+\mb tarịt dʒe
+\ge then    well.Y
+
+\ft And then one day I say, having gone to study there, to the school of mechanisation, then:
+\ru Потом однажды говорю, поехав учиться туда, в школу механизации, потом:
+\ph oskuola
+\gr here, the Augmentative suffix on "omnekeje" has lost its augmentative meaning, it is synonymous with the Iterative suffix, so omneken =
+omnekeje
+
+\id Krivoshapkin_SP_oxota_013
+\tx Tuge   nọŋan Taːhańdʒa       gerbe ọkaːtaldụlịn               nulgeri           bihin,            nulgeweːtti
+\mb tugeni nọŋan taːs  -E  -ńdʒE gerbe ọkaːt -E-L   -(dU)LI -n(I)     nulge   -RI       bi -RI -n(I)      nulge   -WEːČ -RI
+\ge winter 3sg      rock.Y -ep -aug    name  river    -ep-pl -prol   -poss.3sg migrate -impf.ptc be -pst -poss.3sg migrate -gnr    -impf.ptc
+
+\tx bihin,            bujusniken.
+\mb bi -RI -n(I)      buju -s    -nIkEn
+\ge be -pst -poss.3sg hunt -mult -sim.cvb
+
+\ft In winter he used to move along the river Tahandja, used to move hunting.
+\ph
+\gr Taːhańdʒa ọkaːtaldụlị = the plural might indicate that his father hunted along the Tahandja and her tributaries; (08_quest_2010, 20:30) nulgeče
+bihin = perekočeval (na tu rečku), nulgeri bihin = mnogo kočeval, nulgeri biče = v prošlom kočeval; it would be more correct to say
+nulgewetti bihin, which is of course what SPK then said
+\nt BP had actually tried to ask him about his own work as a hunter and reindeer herder, but obviously the wrong forms used in the questions made
+him think that we wanted to know about his father, who was also a hunter.
+\ru Зимой он кочевал по реке Таханджа, кочевал, охотясь.
+\ELANBegin 00:00:51.140
+\ELANEnd 00:01:00.390
+\ELANParticipant SPK
+
+\id Neustroev_PD_Eveno_Bytantaj_043
+\tx Tugerep        iŋenhińdʒekeːn    dọːdụn           tar   ikeːn    ụldanịkan,    tor   mụhọnnị     tadụ
+\mb tugeni -(E)rEp iŋeńsi -ńdʒE -KEn dọː -DU  -n(I)     tarak ikeː -n  ụlda   -nIkEn   tor   mụhan -n(I)     tarak -DU
+\ge winter -adjr   cold     -aug    -dim inside -dat -poss.3sg dist  sing  -nr resonate -sim.cvb earth spirit  -poss.3sg dist  -dat
+
+\tx mịalgarača          ebit.
+\mb mịal  -Gr(E) -čE    ebit
+\ge wake.up -hab   -pf.ptc it.seems.Y
+
+\ft When singing resonates in the cold of winter, the spirit of the earth wakes up.
+\ph
+\gr the combination of augmentative plus diminutive gives a more descriptive nuance, bolee obrazno, I guess it just intensifies the overall meaning
+\ELANBegin 00:05:07.990
+\ELANEnd 00:05:20.510
+\ELANParticipant
+\ru Когда в зимние холода раздается песня человека, то просыпается дух земли.
+
+\id Nikitin_Mitja_pearstory_04
+\ref 1:05
+\tx Tar  xọmụjaddị              bejińdʒeduk           grušawan                ịalkan,   korzinalkan
+\mb tar  xọmụj -E-D     -RI       bej -E  -ńdʒE -DUk(U) gruša -W   -E-n(I)      ịak -lkEn korzina  -lkEn
+\ge thus gather.Y  -ep-prog -impf.ptc man -ep -aug    -abl    pear.R -acc -ep-poss.3sg what  -prop basket.R -prop
+
+\tx grušawan                garịdʒị  ịarịn,             kọt...   ịarịn,             herrin.
+\mb gruša -W   -E-n(I)      ga   -RIdʒI  ịa    -RI  -n(I)     kuot       ịa    -RI  -n(I)     hor -RI  -n(I)
+\ge pear.R -acc -ep-poss.3sg take -ant.cvb do.what -pst -poss.3sg run.away.Y do.what -pst -poss.3sg go  -pst -poss.3sg
+
+\ft He took the pears of that man who was gathering together with the basket and left.
+\ru От того собирающего человека его груши, груши с корзиной взяв, ушел.
+\ph tsar' (instead of tar)
+
+\id Nikitin_Mitja_pearstory_10
+\ref 1:55
+\tx Kụŋačakan          velosipedelkakan        hereddeken                          tarịńdʒa  ee tara  kụŋal    emie
+\mb kụŋa -čEn -KEn     velosiped -E-lkEn  -KEn hor -E-D     -REk      -E-n(I)      tarak -ńdʒE ee tarak kụŋa -L  emie
+\ge child   -dim  -dim.int bicycle.R -ep-prop -dim go  -ep-prog -cond.cvb -ep-poss.3sg dist  -aug    eh dist  child   -pl also.Y
+
+\tx herre.
+\mb hor -R(E)
+\ge go  -nonfut.3pl
+
+\ft When the little kid left on his little bike, these children also left.
+\ru Когда ехал ребеночек с велосипедом, эти дети тоже ушли.
+\ph heretteken
+\gr (quest_file 02_quest_2010, 7:15) the dual suffix čakan in kụŋačakan is NOT the 'plentitude' suffix -čEkEn, rather it is kụŋačan with the 'diminutive'
+suffix -KEn which has an emphatic meaning, "usilivaet obraz, dinamičnost', bolee jarkost', energičnost' peredaet'
+\nt
+
+\id Nikitin_Mitja_pearstory_17
+\ref 2:45
+\tx Tar   kọmụjaddị              bejeńdʒe  xoːnuli             itčelen                      dʒoːrńun    korzina
+\mb tarak xọmụj -E-D     -RI       bej -ńdʒE *xoː -ńUn -LI      it  -čE    -(dU)LE -n(I)     dʒoːr =ńUn  korzina
+\ge dist  gather.Y  -ep-prog -impf.ptc man -aug    ***   -com  -imp.2sg see -pf.ptc -loc    -poss.3sg two     =restr basket.R
+
+\tx ịlgamaddan,                  ịlan bijektek.
+\mb ịlgam -E-D     -R(E)   -n(I) ịlan bi -jEktEːk
+\ge stand   -ep-prog -nonfut -3sg  three  be -nec.Y
+
+\ft When the man who was gathering (xxx) looked, only two baskets are standing, but it should be three.
+\ru Когда собирающий человек посмотрел, стоят только 2 корзины, должно быть 3.
+\nt Ija Krivoshapkina also did not know what "xoːnuli" is supposed to be.
+
+\id Nikitin_Mitja_pearstory_19
+\ref 2:58
+\tx Ee ịaran               tar   bejeńdʒe  hallịn               tar   ọmọlgọčan barịča        grušalkahal      kụŋal
+\mb ee ịa    -R(E)   -n(I) tarak bej -ńdʒE hat  -(dU)LI -n(I)     tarak ọmọlga -čEn bọrị -čE    gruša -lkEn -SEl kụŋa -L
+\ge eh do.what -nonfut -3sg  dist  man -aug    base -prol   -poss.3sg dist  boy        -dim  share    -pf.ptc pear.R -prop -pl  child   -pl
+
+\tx ielteninne.
+\mb ielten -RI  -tEn
+\ge pass   -pst -poss.3pl
+
+\ft Next to that man the kids walked past with the pears that that little boy had given.
+\ru Рядом с этим человеком прошли дети с грушами которые этот мальчик уделил.
+\ph
+\gr
+\nt
+
+\id Nikitin_Sergej_comment_video_004
+\tx Ere  Ewgenij Ewgenij ńọgụhụtan            Bụwdịńdʒa   gerbe.
+\mb erek Evgenij Evgenij ńọgụhụt -E-n(I)      bụgdị -ńdʒE gerbe
+\ge prox Evgenij Evgenij lead.reindeer  -ep-poss.3sg piebald   -aug    name
+
+\ft That's Evgenij's lead reindeer, it's called Buwdindja.
+\ru Это передовой олень Евгения, называется Бувдинджа.
+\ph ńọŋụhụtan
+\ELANBegin 00:00:31.420
+\ELANEnd 00:00:37.350
+\ELANParticipant
+
+\id Nikitin_Sergej_comment_video_006
+\tx Er   mut    mut    ọrọntị,                  ere  biː ụːčakị             ụːčakị             hepkenem,
+\mb erek mut    mut    ọrọn          -t(I)        erek biː ụčak         -J       ụčak         -J       hepken -R(E)   -m
+\ge prox 1pl.in 1pl.in domestic.reindeer -poss.1pl.in prox 1sg  riding.reindeer -prfl.sg riding.reindeer -prfl.sg catch  -nonfut -1sg
+
+\tx ụːčakańdʒaw                     gerbe Haŋdańdʒa   gerbe.
+\mb ụčak         -E  -ńdʒE -W        gerbe haŋda -ńdʒE gerbe
+\ge riding.reindeer -ep -aug    -poss.1sg name  black  -aug    name
+
+\ft These are our reindeer, here I have caught my riding reindeer, he is called Hangdandja.
+\ru Это наш олень, это я схватил своего учака, его зовут Хангданджа.
+\ph
+\gr ọrọn - not necessarily only one reindeer, but also several, and since there were 20-30 reindeer in the corral, mut ọrọntị here definitely has a
+plural meaning, which Ija Krivoshapkina didn't catch in her translation because she didn't see the video
+\nt They don't only give their reindeer names according to their colour, but also from the shape of the horns, their character.
+\ELANBegin 00:00:40.710
+\ELANEnd 00:00:48.820
+\ELANParticipant
+
+\id Nikitin_Sergej_comment_video_015
+\tx Biː ere  ńọgụhụtị       hepkenem,           ere  ńọgụhụtụ        gerbe Haŋdańdʒa   gerbe emie,  er   biː
+\mb biː erek ńọgụhụt -J       hepken -R(E)   -m   erek ńọgụhụt -W        gerbe haŋda -ńdʒE gerbe emie   erek biː
+\ge 1sg  prox lead.reindeer  -prfl.sg catch  -nonfut -1sg prox lead.reindeer  -poss.1sg name  black  -aug    name  also.Y prox 1sg
+
+\tx maːwụtač      hepkenem.
+\mb maːwụt -E-Č   hepken -R(E)   -m
+\ge lasso     -ep-ins catch  -nonfut -1sg
+
+\ft I caught my lead reindeer, this lead reindeer of mine is called Hangdandja, I caught it with a lasso.
+\ru Я вот поймал своего передового оленя, этот передовой олень называется Хангданджа тоже, я поймал мавутом.
+\ph ńọŋụhụt
+\ELANBegin 00:01:36.410
+\ELANEnd 00:01:45.150
+\ELANParticipant
+
+\id RDA_TPK_names_origins_043
+\tx eŋeh... ečimur    eŋehnep,                          haŋaːr ọːdnị,  peleŋeje.
+\mb          erroːčin eŋen       -s(E)n -R(E) -p        haŋaːr ọː  -n(I) peleku    -EjE
+\ge          prox.qual  take.a.look -lim   -nonfut -1pl.in hole     become -3sg  wide-open -aug
+
+\ft We looked out, there was a hole, a wide hole.
+\ph
+\ru (мы) Выглянули, стала дыра, ширко раскрытый
+\ELANBegin 00:02:44.540
+\ELANEnd 00:02:50.600
+\ELANParticipant R
+
+\id stado#9_kochevka_033
+\tx Hewnekeńdʒeduk                  ńulgewrerep
+\mb hewnek        -E  -ńdʒE -DUk(U) nulge   -Gr(E) -R(E)   -p
+\ge mountain.pass -ep -aug    -abl    migrate -hab   -nonfut -1pl.in
+
+\ft We migrate from (the pass called) Hewnekeńdʒe (i.e. big mountain pass).
+\ph
+\ru Кочуем от большого перевала.
+\ELANBegin 00:02:46.020
+\ELANEnd 00:02:53.600
+\ELANParticipant rh
+
+\id Stepanova_NA_kochevaja_shkola_067
+\tx Taralńụn        herridʒi,   tọːr dʒapkan stadalị      hettis    ịalịn,              er   ịandʒalị,
+\mb tarak -E-L   -ńUn hor -RIdʒI  tarak   dʒapkan stado  -(dU)LI settis    ịak -(dU)LI -n(I)     erek ịak -ńdʒE -(dU)LI
+\ge dist  -ep-pl -com  go  -ant.cvb dist    eight    herd.R -prol   seventh.Y what  -prol   -poss.3sg prox what  -aug    -prol
+
+\tx Kadaːrańdʒalị          ịalị      moːle        tikenteken,        bọlọ.
+\mb kadaːr -E  -ńdʒE -(dU)LI ịak -(dU)LI moː  -(dU)LE tik  -E  -ntEkEn   bọlọnị
+\ge rock    -ep -aug    -prol   what  -prol   water -loc    fall -ep -mult.cvb late.autumn
+
+\ft I went with those, (going) around the eighth herd, the seventh whatchamacallit, along here, along Kadarandja, falling into the water, in autumn.
+\ru Поехав с ними, по 8мому стаду, по 7мому чему, по Кадаранджали, в воду падая, осенью.
+\ELANBegin 00:08:40.702
+\ELANEnd 00:08:50.478
+\ELANParticipant
+
+\id Stepanova_ZA_naled_020
+\tx Tarak hịrkam      dʒawačadnịkan                    tutmi         eli          hịrkanat       ịača
+\mb tarak hịrkan -W   dʒaw      -E-Č   -E-D     -nIkEn   tut -mI       erek -(dU)LI hịrkan -E-Č   ịa    -čE
+\ge dist  knife    -acc catch.hold -ep-res -ep-prog -sim.cvb run -cond.cvb prox -prol   knife    -ep-ins do.what -pf.ptc
+
+\tx bihin,            ụlkụkačadnịkan,           taraŋị           ŋaːlan            ečin,     ečije          kebderče
+\mb bi -RI -n(I)      ụlkụ -kEČ -E-D     -nIkEn   tarak -ŋ  -J       ŋaːl -E-n(I)      erroːčin erroːčin -IjE kebder   -čE
+\ge be -pst -poss.3sg stir     -mult -ep-prog -sim.cvb dist  -aln -prfl.sg hand   -ep-poss.3sg prox.qual  prox.qual  -aug swell.up -pf.ptc
+
+\tx bihin.
+\mb bi -RI -n(I)
+\ge be -pst -poss.3sg
+
+\ft He was holding a knife and running and (cut her) with the knife along here, while touching (the knife), her hand was swollen big like this.
+\ph tutmu
+\gr Ija said that in Sebjan ụlkụ doesn't only mean 'stir', but also 'trogat', just touch in general.
+\nt The little boy was running around with a knife and cut his foster mother's hand, which swelled up badly.
+\ph
+\ru Он держа вот нож бегал и этим ножом что-то там, поранился, когда он его трогал, эта его рука что-то было.
+\ELANBegin 00:02:05.680
+\ELANEnd 00:02:21.360
+\ELANParticipant
+
+\id Stepanova_ZA_naled_035
+\tx Tarịt bi   ŋeːlellidʒi              uːr   tutuŋeje         ujedʒeki               balaːtalbị
+\mb tarịt biː ŋeːl    -E-L     -RIdʒI  uːr   tuteku       -EjE uj     -E-ČEk -J       platok     -E-L   -J
+\ge then    1sg  be.afraid -ep-inch -ant.cvb before swollen.eyed -aug tie.up -ep-nr  -prfl.sg kerchief.R -ep-pl -prfl.sg
+
+\tx bekeččemetnen                nụkram              ečin,     uleːrem.
+\mb bekeč -KEn     -W   -tEn      nụk    -R(E) -m     erroːčin uleː -R(E) -m
+\ge all    -dim.int -acc -poss.3pl take.off -nonfut -1sg prox.qual  throw -nonfut -1sg
+
+\ft Then I got a fright and took off all the scarves that I had tied before and that didn't let me see properly and threw them down.
+\ph
+\gr (file Stepanova_ZA_naled_transl, 15:30) dʒek = the same as -hek, but has a durative meaning or refers to the past, while -hek is more general, or
+refers to the present, one could also say ujeheki; (10_quest_2010, 13:00) ujedʒeki = lit. 'svoe povjazannoe'; one could say ujedʒeku bụlaːtalbụ, but
+one cannot say *ujedʒek bụlaːtalbụ
+\nt
+\ru Я испугавшись повязанные платки все развязала так бросила.
+\ELANBegin 00:03:39.544
+\ELANEnd 00:03:50.386
+\ELANParticipant transl file 16:00
+
+\id Stepanova_ZA_naled_042
+\tx "Herreː!          Bụgụn,         ọːlị       čahkị!"       goːnnidʒiː,      minu         herriw
+\mb hor -LI      =eː  bụgị -n(I)     ọː  -LI      čaːg -skI      goːn -n(I) =dʒIː min     -W   hor -RI -W
+\ge go  -imp.2sg =emph side     -poss.3sg become -imp.2sg far    -advb.all say   -3sg  =aff    1sg.obl -acc go -impf.ptc -acc
+
+\tx goːnčelen,                 bi   amahjakọːkị           ečin      mịːttam             ịmmajịkaːn.
+\mb goːn -čE    -(dU)LE -n(I)  biː amar   -jEkEː   -skI      erroːčin mịːt   -R(E) -m     hịnma -jEː -KEn
+\ge say   -pf.ptc -loc -poss.3sg 1sg  behind -directly -advb.all prox.qual  move.back -nonfut -1sg fast    -aug  -dim.int
+
+\ft "Go away! Go aside!!" he said, right, when he said I should go back I went straight back very fast.
+\ph bugun alị čahkị
+\gr (10_quest_2010, 18:30) he told me 'go away!' would correctly be: minu herri goːnčelen; basically, I think the 'directly' suffix is infixed in the
+Allative suffix: amahkị -- amah-jakọː-kị, see also Zaxarov_AV_indjuk_28
+\ru "Уходи! Уйди отсюда подальше" сказал на меня, когда он это сказал уйти я назад, прямо назад, подвинулась.
+\ELANBegin 00:04:28.307
+\ELANEnd 00:04:36.276
+\ELANParticipant
+
+\id Stepanova_ZA_naled_090
+\tx Ertiki       ečijeː         kadaːr, ertiki       kadaːr, ečikenńun                ere  bihni
+\mb erek -t(E)kI erroːčin -jEː kadaːr  erek -t(E)kI kadaːr  erroːčin -KEn     =ńUn  erek bi -R(E) -n(I)
+\ge prox -all    prox.qual  -aug  rock     prox -all    rock     prox.qual  -dim.int =restr prox be -nonfut -3sg
+\ft Here a big rock, there a rock, only here like this it is.
+\ph it sounds as if she says ịarụn bihni rather than ere bihni
+\ru Здесь скала, здесь скала, только здесь вот есть.
+\ELANBegin 00:09:09.090
+\ELANEnd 00:09:15.370
+\ELANParticipant
+
+\id Stepanova_ZA_svatovstvo_24
+\ref 3:48
+\tx Ammụ           tọbọr emie   gọrụjaː   eči         gamsa,             tarịt akmị                 họː nọŋan toŋkeri
+\mb aman   -W        tawụr   emie   gọrụ -jEː e   -RI      ga   -m   -R       tarịt akan          -J       họː nọŋan toŋke  -RI
+\ge father -poss.1sg this      also.Y long     -aug  neg -pst.3sg take -des -neg.cvb then    older.brother -prfl.sg very   3sg      respect -impf.ptc
+
+\tx bihin,            teːmi    akmị                 toremen                     nọŋan ńan   eči         čịkịhma.
+\mb bi -RI  -n(I)     teːmi    akan          -J       tore  -n  -W   -E-n(I)      nọŋan ńaːn e   -RI      čịkị -m   -R
+\ge be -pst -poss.3sg therefore older.brother -prfl.sg speak -nr -acc -ep-poss.3sg 3sg      and    neg -pst.3sg cut.off   -des -neg.cvb
+
+\ft My father also for a long time didn't want to take (her as a wife), but then he respected his brother very much, therefore he also didn't want to
+refuse his brother.
+\ru Мой отец тоже вот долго не хотел брать, потом он очень уважал своего брата, по\тому он тоже не хотел резать слов брата.
+\ph
+\gr I am not sure about "eči" - Ija said it was the 'literary form' for what they would say eče, but the literary Past tense 3SG is "eč". As to the
+desideratives, in March 2009 Ija Krivoshapkina said that eči gamsa is the literary form, and eči čịkịhma is the local form, the literary form would be
+čịkịmsa - however, neither Cincius nor Malchukov have a desiderative suffix -msE; otec xotel brat' gahman, gahmịn in the past, čịkịhmịn 'xotel
+otrezat' (translation session Klim_Nikolaevich_first_half, 24:20) 
+\nt
+
+\id Tatjana_Petrovna_family_174
+\tx Dʒe   tala          gọrajaː     bidʒir,      nelke        nelke        ọːddịlan.
+\mb dʒe   tarak -(dU)LE gọrụ -jEː bi -DʒI -r   nelkeni      nelkeni      ọː  -D    -RI       -(dU)LE -n(I)
+\ge well.Y dist  -loc    long     -aug  be -fut  -3pl early.spring early.spring become -prog -impf.ptc -loc    -poss.3sg
+
+\ft Well, there they live a very long time, until it becomes spring.
+\ru Ну там находятся очень долго, пока не наступит весна (до наступления весны).
+\ph ọːddalan
+\gr
+\nt
+\ELANBegin 00:18:10.400
+\ELANEnd 00:18:17.470
+\ELANParticipant
+
+\id Tatjana_Petrovna_family_214
+\tx Arịŋkańdʒa   horuče           ọːnda    eniken...
+\mb arịŋka -ńdʒE hor -U    -čE    ọːn =DE  e   -nIkEn
+\ge demon     -aug    go  -caus -pf.ptc how    =ptl neg -sim.cvb
+\ft The demon led (her) away, not doing anything...
+\ru Черт увез, ничего не делая.
+\ph
+\ELANBegin 00:23:13.040
+\ELANEnd 00:23:15.890
+\ELANParticipant
+
+\id Tatjana_Petrovna_photos_032
+\tx [EP: Amańdʒa]         Bọlọ     [BP: ńulgetten]                ńulgedde
+\mb EP   amaː      -ńdʒE bọlọnị BP   nulge   -Č  -R(E)   -n(I) nulge   -D    -R(E)
+\ge EP   father.voc -aug    late.autumn  BP   migrate -res -nonfut -3sg  migrate -prog -nonfut
+
+\ft (EP: Father) They're migrating in autumn.
+\ru (Батюшка) Осенью кочуют.
+\ph
+\gr
+\nt the augmentative suffix on amańdʒa expresses respect
+\ELANBegin 00:02:48.420
+\ELANEnd 00:02:52.340
+\ELANParticipant
+
+\id Zaxarova_JP_pear_story_004
+\ref 0:28; JPZ
+\tx Nọnaptụn    ńarịmaja   ịaw      kọmụjaggaran                kọmụjaggaran                [čakakgar]
+\mb nọnap    -DU  ńarị -mEjE ịak -W   xọmụj -E-D     -Gr(E) -n(I) xọmụj -E-D     -Gr(E) -n(I) čak   -E-D     -Gr(E)
+\ge the.first. -dat man     -aug  what  -acc gather.Y  -ep-prog -hab   -3sg  gather.Y  -ep-prog -hab   -3sg  gather -ep-prog -hab
+
+\tx čakakgaran                  grušalbu.
+\mb čak   -E-D     -Gr(E) -n(I) gruša -L  -W
+\ge gather -ep-prog -hab   -3sg  pear.R -pl -acc
+
+\ft At first a big man was gathering [said with the Sakha root] [EKK: gathering - with the Even root] gathering pears.
+\ru Сначала (большой) мужчина собирал груши.
+\ph the first kọmụjaggaran she said with a break in the middle, kọmụj jaggaran
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_007
+\ref 0:47; JPZ
+\tx Tarịt [platok]   kozalkamaja        ńarịmaja   ieltendʒiggeren,              delbi  kojeːčinteken            ieltengeren.
+\mb tarịt platok     koza   -lkEn -mEjE ńarị -mEjE ielten -D    -Gr(E)      -n(I) delbi  kojeːt -E       -ntEkEn   ielten -Gr(E)      -E-n(I)
+\ge then    kerchief.R goat.R -prop -aug  man     -aug  pass   -prog -hab.nonfut -3sg  very.Y look.at -ep -mult.cvb pass   -hab.nonfut -ep-3sg
+
+\ft Then a big man with a (big) goat was walking past, staring a lot he walked past.
+\ru Потом проходил большой мужчина с (большой) козой очень смотря (на груши) проходил.
+\ph
+\gr sometimes the augmentative suffix is carried over to the proprietive object, so the goat doesn't necessarily have to big; kojeːčinteken = more
+intensive, definitely progressive or multiplicative, while kojeːtniken - can be a short look or a long time; the combination of Progressive and
+Habitual can have a plain Past tense meaning (says Ija Krivoshapkina), though it would seem as if the Habitual has a general narrative past tense
+meaning, because it occurs very frequently in the pear stories
+
+\id Zaxarova_JP_pear_story_010
+\ref 1:03; JPZ
+\tx Belosipedelken      kụŋakkan   ajannadnịkan,          ịaw holij   korzinamajaw        hotuhnen.
+\mb velosiped -E  -lkEn kụŋa -kkEn ajannaː  -D    -nIkEn   ịak celyj.R korzina  -mEjE -W   hotu       -s(E)n      -E-n(I)
+\ge bicycle.R -ep -prop child   -dim  journey.Y -prog -sim.cvb what  whole.R basket.R -aug  -acc carry.away -lim.nonfut -ep-3sg
+
+\ft A little kid riding a bike carried off a whole big basket.
+\ru Едя ребеночек с велосипедом, эту, целую большую корзину утащил.
+\ph
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_011
+\ref 1:12; JPZ
+\tx Tak  [bejńdʒe] bejńdʒe   buolla  enikken      ịara           awdatta        ịaggar[an],
+\mb tak  bej -ńdʒE bej -ńdʒE buollar e   -nIkEn   ịa    -R       awdat -R       ịa    -D    -Gr(E) -E-n(I)
+\ge so.R man -aug    man -aug    dp.Y    neg -sim.cvb do.what -neg.cvb worry -neg.cvb do.what -prog -hab   -ep-3sg
+
+\tx ụmụjaggaran.
+\mb ụmụj -E-D     -Gr(E) -n(I)
+\ge gather   -ep-prog -hab   -3sg
+
+\ft And the big man was gathering without paying attention.
+\ru А большой мужчина не обращая внимания собирал.
+\ph she does not pronounce the 3SG ending on the verbs!!
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_015
+\ref 1:35, JPZ
+\tx Tarịt, ịŋadụk    họrrịdʒị     buollaγïna, ịak, tikčelen,                     ịlan kụŋamajal
+\mb tarịt  ịŋa -DUk(U) họr      -RIdʒI  buollaγïna  ịak  tik  -čE    -(dU)LE -n(I)     ịlan kụŋa -mEjE -L
+\ge then     stone  -abl    get.caught -ant.cvb dp.Y          what   fall -pf.ptc -loc    -poss.3sg three  child   -aug  -pl
+
+\tx ịlgamaggara.
+\mb ịlgam -E-D     -Gr(E)      -r
+\ge stand   -ep-prog -hab.nonfut -3pl
+
+\ft Then, having gotten caught on a stone, when he fell, three boys were standing.
+\ru Потом, зацепившись за камень, когда он упал, стояли 3 больших ребенка.
+\ph ịa, tikčelenu (probably just expelled breath)
+\gr here, one could replace tikčelen with tikreken, with no difference to the meaning of the sentence
+\nt
+
+\id Zaxarova_JP_pear_story_021
+\ref 2:06; JPZ
+\tx Tarịt... tarịt ńarịńdʒa   hergile        hokohnidʒi,     birde  itten             omen korzina  aččaŋman.
+\mb tarịt    tarịt ńarị -ńdʒE hergi  -(dU)LE hokohon -RIdʒI  birde  it  -R(E)   -n(I) omen korzina  ačča -ŋ  -W   -E-n(I)
+\ge then       then    man     -aug    bottom -loc    descend -ant.cvb only.Y see -nonfut -3sg  one  basket.R neg    -aln -acc -ep-poss.3sg
+
+\ft Only then the big man, having climbed down to the ground, saw that one basket is gone.
+\ru Потом этот мужчина, только спустившись вниз увидел, что одной корзины нет.
+\ph
+\gr
+\nt the 3sg on accangman = otsutstive korzina, it does not refer to the guy; and the restrictive birde most probably belongs to the seeing, "only then
+he saw that a basked is gone"
+
+\id Zaxarov_AV_indjuk_internat_024
+\tx Horrem,          kuruːssa, kuruːssa bọ..       họːjaja    kuruːssa kụńawačaddan.
+\mb hor -R(E) -m     kuruːssa  kuruːssa *   -B   -E  họːja -EjE kuruːssa kụńa         -WEːČ -E-D     -R(E) -n(I)
+\ge go  -nonfut -1sg chicken.Y  chicken.Y *** -med -ep many     -aug chicken.Y run(of.animals) -gnr    -ep-prog -nonfut -3sg
+\ft I went, chickens, chickens, a lot of chickens are running around.
+\ru Пошел, очень много куриц бегает.
+\ELANBegin 00:02:51.080
+\ELANEnd 00:02:54.629
+\ELANParticipant
+
+\id Zaxarov_AV_indjuk_internat_028
+\tx Tarịt emiske     ọːngọl   nekedniken            ičehnem,                 bọrọsta egdʒemeje    ịakkọl   dʒiŋ
+\mb tarịt emiske     ọːn =(W)Ul nek -E-D     -nIkEn   it  -E-s(E)n -R(E) -m     prosto      egdʒen -mEjE ịak =(W)Ul dʒiŋ
+\ge then    suddenly.Y how    =indef do  -ep-prog -sim.cvb see -ep-lim  -nonfut -1sg simply.R    big     -aug  what  =indef very.Y
+
+\tx ečije          emnidʒi      emedden                    ee, bejtijekeːki.
+\mb erroːčin -IjE em   -RIdʒI  em   -E-D     -R(E) -n(I)  ee  bej -jEkEː   -t(E)kI
+\ge prox.qual  -aug come -ant.cvb come -ep-prog -nonfut -3sg eh  man -directly -all
+
+\ft Then suddenly while I was doing something I looked up, and a huge something, really huge like this was coming straight for me.
+\ru Потом вдруг как-то что-то делая взглянул, очень большое что-то так придя идет прямо на тебя (на человека).
+\ELANBegin 00:03:05.016
+\ELANEnd 00:03:12.283
+\ELANParticipant
+
+\id Zaxarov_AV_indjuk_internat_029
+\tx Hụtaŋaja     ịahalan             ečin      hụtakụ.
+\mb hụtakụ -EjE ịašal -E-n(I)      erroːčin hụtakụ
+\ge red        -aug eyes     -ep-poss.3sg prox.qual  red
+
+\ft Its eyes were so red!
+\ph
+\ru Глаза у него красные очень, так, красные.
+\ELANBegin 00:03:12.283
+\ELANEnd 00:03:15.546
+\ELANParticipant
+
+\id Zaxarov_AV_indjuk_internat_037
+\tx Indjuk   gerbe, bi   bọlla      haːjbat          bọllagịm           ịakkọl   tarbačamajaw             hụtakụ.
+\mb indjuk   gerbe  biː buollaγïna haː -j    -BAt   buol  -dEg      -Im    ịak =(W)Ul tarọːčịn -mEjE -W   hụtakụ
+\ge turkey.R name   1sg  dp.Y         know -conn -neg.Y aux.Y -assert.Y -1sg.Y what  =indef dist.qual      -aug  -acc red
+
+\ft It's called indjuk (turkey), and I didn't know that, right, something like that big red (creature).
+\ru Индюк называется, я не знаю же, что-то такое, такого красного.
+\ELANBegin 00:03:36.268
+\ELANEnd 00:03:41.286
+\ELANParticipant
+
+\id Zaxarov_AV_indjuk_internat_044
+\tx Tačịja            họːjaja     ukčenek...  ukčenni         koku                    ačča, ebeditde             nahaː ịbgat
+\mb tarọːčịn -jEː họːja -jEː ukčen -ČEk ukčen -RI       kïaχ        -W        ačča  ewen -DI   -Č  =DE  nahaː ịbgọ -Č
+\ge dist.qual      -aug  many     -aug  tell   -nr   tell   -impf.ptc possibility.Y -poss.1sg neg     Even -adjr -ins =ptl very.Y good     -ins
+
+\tx ehem             ịar.
+\mb e   -R(E) -m     ịa    -R
+\ge neg -nonfut -1sg do.what -neg.cvb
+
+\ft I am not able to tell much in Even, and I don't know Even terribly well.
+\ph he says ehem ịar, which of course in this case means don't know
+\ru У меня нет возможности очень много рассказывать, и по-эвенски не очень хорошо знаю.
+\ELANBegin 00:04:00.396
+\ELANEnd 00:04:07.897
+\ELANParticipant
+
+\id Zaxarov_AV_indjuk_internat_049
+\tx Tara  họːjaja     biwrerit.
+\mb tarak họːja -jEː bi -Gr(E) -RI -t(I)
+\ge dist  many     -aug  be -hab   -pst -poss.1pl.in
+\ft We were very many.
+\ru Очень много нас было.
+\ELANBegin 00:04:51.096
+\ELANEnd 00:04:54.697
+\ELANParticipant
+
+\id Zaxarov_AV_indjuk_internat_087
+\tx Haːmaj egdʒenten        tawụr Burtsev pakalenijan            bihin,            Innokentij, họːjajaː   bihitnen
+\mb samyj   egdʒen -tEn      tawụr Burtsev pokolenie    -n(I)     bi -RI -n(I)      Innokentij  họːja -jEː bi -RI -tEn
+\ge most.R  big     -poss.3pl this    Burtsev generation.R -poss.3sg be -pst -poss.3sg Innokentij  many     -aug  be -pst -poss.3pl
+
+\tx nọŋartan.
+\mb nọŋartan
+\ge 3pl
+
+\ft The oldest was Burtsev's generation, they were very many.
+\ph
+\gr Natasha asked whether the classes were big, whether there were many kids; according to Ija (and looking at it again it makes sense) he must have
+understood her 'egdʒen klasal' as referring to the older grades, i.e. as if she was asking whether there were many children in the older grades.
+And that is why he answers like this. The possessive on the word 'egdʒen' is here, because they are the oldest of the schoolchildren, i.e. 'the
+schoolkids' oldest'
+\nt
+\ru Самое старшое это поколение Бурцева Иннокентия было, их было очень много.
+\ELANBegin 00:08:41.612
+\ELANEnd 00:08:48.814
+\ELANParticipant
+
+\id Zaxarov_VN_poselok_037
+\ref ZaxarovVN_Even_270208_5:02
+\tx "Hiː ụčakị"              ečin      goːŋnerin                 ee biː ammụ,          "hiː ụčakị               tiːk alta
+\mb hiː  ụčak         -J       erroːčin goːn -Gr(E) -RI  -n(I)     ee biː aman   -W        hiː  ụčak         -J       tiek  alta
+\ge 2sg   riding.reindeer -prfl.sg prox.qual  say   -hab   -pst -poss.3sg eh 1sg  father -poss.1sg 2sg   riding.reindeer -prfl.sg now   six.Y
+
+\tx kolohelken    ụčakalkanmaja                ọːča       bihenni."
+\mb koleso  -lkEn ụčak         -E  -lkEn -mEjE ọː  -čE    bi -R(E)   -nrI
+\ge wheel.R -prop riding.reindeer -ep -prop -aug  become -pf.ptc be -nonfut -2sg
+
+\ft "You (exchanged) your riding reindeer", so said my father, "your riding reindeer, no you have a riding reindeer with six wheels."
+\ru "Ты своего учаха", так говорил мой отец, "ты своего учаха (променял), сейчас ты стал с учахом с 6ью колесами".
+\ph
+\gr
+\nt
+
+\id Zaxarov_VN_poselok_042
+\ref ZaxarovVN_Even_270208_5:23
+\tx Ịakkụl   hobgoddimeje                 goːniken,     benzimen                   goːjer
+\mb ịak =(W)Ul hobgon -D    -RI       -mEjE goːn -nIkEn   benzin   -W   -E-n(I)      goːn -j    -Ar
+\ge what  =indef smoke  -prog -impf.ptc -aug  say   -sim.cvb petrol.R -acc -ep-poss.3sg say   -conn -prs.ptcp.Y
+
+\tx buollaga,              ọl_aːta   goručejben,                ee.
+\mb buol  -dEg      -E     ọl_aːta   gorjučij -W   -E-n(I)      ee
+\ge aux.Y -assert.Y -3sg.Y that.means.Y fuel.R    -acc -ep-poss.3sg eh
+
+\ft Something smoking (he) said, he was talking about (the truck's) petrol, right, that means (its) fuel.
+\ru Что-то дымящее (отец говорил так), он же говорил про ее *машины) бензин, это значит про ее (машины) горючее.
+\ph
+\gr
+\nt

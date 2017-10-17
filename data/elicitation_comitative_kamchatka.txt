@@ -1,0 +1,400 @@
+\_sh v3.0  984  Text
+
+\id K_Comitative01
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1006_1:11:45
+\tx Bu     emniwun                erekkeli     bejgeli.
+\mb buː   em   -RI  -WUn         erek -g(E)lI bej -g(E)lI
+\ge 1pl.ex come -pst -poss.1pl.ex prox -com    man -com
+\ft
+\ru Мы с этим мужчиной приехали.
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_52:15
+\tx Bu     erek bejnun    emniwun.
+\mb buː   erek bej -ńUn em   -RI  -WUn
+\ge 1pl.ex prox man -com  come -pst -poss.1pl.ex
+
+\id K_Comitative02
+\ref Esso1006_1:12:12
+\tx Maša Afanasij atịkannụnnị         tewlidde.
+\mb Maša Afanasij atịkan  -ńUn -n(I)     tewte   -lI -D    -R(E)
+\ge Masha Afanasij old.woman -com  -poss.3sg berries -vr -prog -nonfut.3pl
+
+\ft
+\ru Маша с женой Афанасия собирает ягоды.
+\ph təwlidde
+
+\id K_Comitative03
+\ref Esso1006_1:13:10
+\tx Bi   meːn noːgliji                        asịglị    ittiwun               muzejle          nọːdụ
+\mb biː meːn noː            -g(E)lI -J       asị -g(E)lI it  -RI  -WUn         muzej    -(dU)LE nọːd -W
+\ge 1sg  refl  younger.sibling -com    -prfl.sg woman -com    see -pst -poss.1pl.ex museum.R -loc    pretty  -acc
+
+\tx kartịm.
+\mb kartịn  -W
+\ge picture.R -acc
+
+\ft
+\ru Я со своей младшей сестрой видела в музее очень красивую картину.
+\ph nuːγliji
+\gr nọọọːdụ= očen' krasivo; nọːdụ = prosto krasivo
+
+\id K_Comitative04
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso2002_19:33
+\tx Bi   emniwu              eknumigli.
+\mb biː em   -RI  -W        eken   -J       -g(E)lI
+\ge 1sg  come -pst -poss.1sg mother -prfl.sg -com
+\ft
+\ru Я приехала со своей мамой.
+\ph
+\gr At first, she translated it (as usual...) with "meːn eknumigli". Only after I asked whether one couldn't drop the "meːn",
+since the reflexive possessive is contained in the suffix, did she agree that one didn't need the "meːn". Oddly enough, in
+this case the Possessive suffix comes before the case marker, although normally it's the other way round. But checked
+again (Esso3006_ 12:50), and one cannot say eknugliji. And Rima Maksimovna did not accept the Comitative suffix -čil.
+\nt Esso2006_46:35
+\tx Bi   eknumi                emniwu.
+\mb biː eken   -ńUn -J       em   -RI  -W
+\ge 1sg  mother -com  -prfl.sg come -pst -poss.1sg
+
+\ru  Я со своей мамой приехала.
+\gr So here there is a homonymy between the oblique form of "eken" and the Comitative+Poss.Refl!
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_52:30
+\tx Bi   meːn eknimi emniwu.
+\mb biː meːn        em   -RI  -W
+\ge 1sg  refl         come -pst -poss.1sg
+\gr at first said "meːn ennumi" , then "ennimi", then the above. I later asked her to translate this, and she translated it as "Ja
+prišla so svoej mamoj". I'm not sure I understand the form though
+
+\id K_Comitative05
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso2002_20:24
+\tx Nọŋartan Petjagli      tiwlidde.
+\mb nọŋartan Petja -g(E)lI tewli          -D    -R(E)
+\ge 3pl         Petja -com    gather.berries -prog -nonfut.3pl
+
+\ru Они с Петей собирают ягоды.
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_53:10
+\tx Nọŋartan Petjagli      čakačịdda                       tewtew.
+\mb nọŋartan Petja -g(E)lI čak   -E-Č   -E-D     -R(E)       tewte   -W
+\ge 3pl         Petja -com    gather -ep-res -ep-prog -nonfut.3pl berries -acc
+
+\id K_Comitative06
+\ref Esso2002_20:45
+\tx Katja gịaglịjị          školagịč\\ školadụk      emniten             NovijGodtakị.
+\mb Katja gịa  -g(E)lI -J       škola   -GIČ škola   -DUk(U) em   -RI  -tEn      NovijGod   -t(E)kI
+\ge Katja friend -com    -prfl.sg school.R -elat school.R -abl    come -pst -poss.3pl New.Year.R -all
+
+\ft
+\ru Катя со школьной подругой приехала на Новый Год.
+\ph škola(γ)ịč - the velar was hardly audible, so that I at first analyzed it as an Instrumental...!
+
+\id K_Comitative07
+\ref Esso2002_21:30
+\tx Iː  gịaglịjị          kimnisen               plakatụ     elekes   taŋnadʒaktakị.
+\mb hiː gịa  -g(E)lI -J       kim     -RI  -sEn      plakat   -W   elekes   taŋ -nE     -ČEk -t(E)kI
+\ge 2sg  friend -com    -prfl.sg prepare -pst -poss.2pl poster.R -acc at.first read -intent -nr   -all
+
+\ft
+\ru Ты со своей подругой сделала (красивый) плакат для первого дня учебного года.
+\ph gịaγlịjị  kimniš'an  ələkəš'
+\gr iː gịaglịjị = ty s podrugoj; iː giịaglịwụr = ty vmeste s podrugoj, ty i tvoja podruga vmeste, podčerkivaet, čto vmeste
+
+\id K_Comitative08
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso2002_24:15
+\tx Iː Katjaglị    emnis.
+\mb iː Katja -g(E)lI em   -RI  -s(I)
+\ge 2sg Katja -com    come -pst -poss.2sg
+\ft
+\ru Ты с Катей приехала.
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_53:40
+\tx Iː Katjaglị    emnis.
+\mb iː Katja -g(E)lI em   -RI  -s(I)
+\ge 2sg Katja -com    come -pst -poss.2sg
+
+\id K_Comitative27
+\ref Esso2005_24:15
+\tx Bi   emniwu              poseloktakị     Katjagli      \\ Katjanun.
+\mb biː em   -RI  -W        poselok   -t(E)kI Katja -g(E)lI \\ Katja -ńUn
+\ge 1sg  come -pst -poss.1sg village.R -all    Katja -com    \\ Katja -com
+\ft
+\ru Я приехала в поселок с Катей.
+
+\id K_Comitative28
+\ref Esso2005_24:40
+\tx Nọŋan tewlidden                          eniŋeːgliji.
+\mb nọŋan tewli          -D    -R(E)   -n(I) eniŋeː    -g(E)lI -J
+\ge 3sg      gather.berries -prog -nonfut -3sg  grandmother -com    -prfl.sg
+
+\ft
+\ru Он собирает ягоды с бабушкой.
+
+\id K_Comitative39
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso2005_25:00
+\tx Kostja tiniw     ittin              kontorala        \\  kontoradu     Olgaw     Nikolaevnaw
+\mb Kostja tiniw     it  -RI  -n(I)     kontora  -(dU)LE *\\ kontora  -DU  Olga -W   Nikolaevna -W
+\ge Kostja yesterday see -pst -poss.3sg office.R -loc    *** office.R -dat Olga -acc Nikolaevna -acc
+
+\tx etikeːnnunni.
+\mb etikeːn -ńUn -n(I)
+\ge old.man  -com  -poss.3sg
+\ft
+\ru Костя вчера в конторе видел Ольгу Николаевну с ее мужем.
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_53:50
+\tx Kostja tiniw     ittin              Olga Nikolaevnaw     etikeːnnunni
+\mb Kostja tiniw     it  -RI  -n(I)     Olga Nikolaevna -W   etikeːn -ńUn -n(I)
+\ge Kostja yesterday see -pst -poss.3sg Olga Nikolaevna -acc old.man  -com  -poss.3sg
+\gr *etikeːnnunniw = not possible
+
+\id K_Comitative40
+\ref Esso2005_25:50
+\tx Nọŋartan ŋenniten           asatkantakị   nọŋan ŋinnunni.
+\mb nọŋartan ŋen -RI  -tEn      asatkan -t(E)kI nọŋan ŋin -ńUn -n(I)
+\ge 3pl         go   -pst -poss.3pl girl    -all    3sg      dog  -com  -poss.3sg
+\ft
+\ru Они подошли к девушке с ее собакой.
+\ph
+\gr *ŋinnuntekini = nel'zja
+\nt Example from Nedjalkov 1997, Evenki.
+
+\id K_Comitative41
+\ref Esso2005_26:30
+\tx Nọŋan gorodla        unirin             ektiwum       tegenmejilnun                 \\
+\mb nọŋan gorod  -(dU)LE uni -RI  -n(I)     hektiwun -W   teg      -E-nmEj -E-L   -ńUn \\
+\ge 3sg      town.R -loc    buy -pst -poss.3sg table    -acc sit.down -ep-anr -ep-pl -com  \\
+
+\tx tegenmejilken                 ńan   emurin                    ọtọrandụlị  \\ ịmannaslị.
+\mb teg      -E-nmEj -E-L   -lkEn ńaːn em   -U    -RI  -n(I)     họtọran -(dU)LI \\ ịmannas   -(dU)LI
+\ge sit.down -ep-anr -ep-pl -prop again  come -caus -pst -poss.3sg road        -prol   \\ winter.road -prol
+
+\ft
+\ru Он в городе купил стол со стулами и привез их домой по зимнику.
+\ph ịmannəšlị
+\qu should have asked whether tegenmejilken = with one chair/bench, or with several - I've analyzed it with the plural suffix, but that is
+just from the Russian original, surely "with 1 chair" would be the same?
+
+\id K_Comitative42
+\ref Esso2005_27:48
+\tx Iː buːris             kampetu      asatkandụ  noːdunde                           bejdu    \\
+\mb iː boː -RI  -s(I)     konfeta -W   asatkan -DU  noː            -DU  -n(I)     =DE  bej -DU  \\
+\ge 2sg give -pst -poss.2sg sweet.R -acc girl    -dat younger.sibling -dat -poss.3sg =ptl man -dat \\
+
+\tx noːnunni.
+\mb noː            -ńUn -n(I)
+\ge younger.sibling -com  -poss.3sg
+
+\ft
+\ru Ты дала конфеты девушке с ее братиком.
+\ph nuːdunde, nuːnunni
+\nt I had asked whether one could say nuːnunni and she agreed.
+\qu The form with the Comitative one should check again!!!
+
+\id K_Comitative53
+\ref Esso2005_29:10
+\tx Iː aknụmị,           amaŋanumị,              agdịgnụmịda           bejgeli     tewtew
+\mb iː akan   -ńUn -J       amaŋa      -ńUn -J       agdịg -ńUn -J       =DE  bej -g(E)lI tewte    -W
+\ge 2sg father -com  -prfl.sg grandfather -com  -prfl.sg older   -com  -prfl.sg =ptl man -com    berries  -acc
+
+\tx čakačiddis                                    \\ tewliddis.
+\mb čak   -E-Č   -E-D     -RI  -s(I)        \\       tewli           -D    -RI  -s(I)
+\ge gather -ep-res -ep-prog -pst -poss.2sg             gather.berries  -prog -pst -poss.2sg
+
+\ft
+\ru Ты с отцом, дедом, и старшим братом ягоды собирал.
+
+\id K_Comitative54
+\ref Esso2005_30:35
+\tx Ivan urrin                rybalkatkị           meːn bejgeli     agdịgnụmị,       atịkamị
+\mb Ivan ur    -RI  -n(I)     rybalka        -t(E)kI meːn bej -g(E)lI agdịg -ńUn -J       atịkan  -J
+\ge Ivan leave -pst -poss.3sg fishing.camp.R -all    refl  man -com    older   -com  -prfl.sg old.woman -prfl.sg
+
+\tx ńọgaglịn,                   galava  urkeːŋnunni.
+\mb ńọga        -g(E)lI -n(I)     galava  hurkeːn -ŋ  -ńUn -n(I)
+\ge wife's.brother -com    -poss.3sg headman boy      -aln -com  -poss.3sg
+
+\ft
+\ru Иван уехал на рыбалку со своим братом, с братом жены, и с сыном главы.
+
+\id K_Comitative57
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso2006_57:50
+\tx Ele          dʒụːla       bise           ịlan ńoːgenil   - nọŋartan ọːkta
+\mb erek -(dU)LE dʒụː -(dU)LE bi -R(E)       ịlan ńoːge -SEl - nọŋartan ọːk =DE
+\ge prox -loc    house    -loc    be -nonfut.3pl three  cousin  -pl  - 3pl         when   =ptl
+
+\tx ečil        etikeːŋne.
+\mb e   -RI  -L  etikeːn -ŋ -R
+\ge neg -pst -pl old.man  -vr -neg.cvb
+
+\ru В этом доме живут три сестры - они все никогда не выходили замуж.
+\ph Said ńoːgeniR 
+\gr ńoːgewu = moja dvojurodnaja sestra; 
+\nt Esso3006_14:25
+\tx Ele          dʒụːla       bise       *ńoːgenun....
+\mb erek -(dU)LE dʒụː -(dU)LE bi -R(E)   ńoːge -ńUn
+\ge prox -loc    house    -loc    be -nonfut cousin  -com
+
+\nt This was a judgement question, whether they use the 'anti-alienable' suffix at all (since she hadn't used it during the
+elicitation sessions; but she said it should be ńoːgenil.
+\gr
+\nt Esso3006_1:55
+\tx Ele          dʒụːla       bise           dʒoːr ńoːgenil.
+\mb erek -(dU)LE dʒụː -(dU)LE bi -R(E)       dʒoːr ńoːge -SEl
+\ge prox -loc    house    -loc    be -nonfut.3pl two     cousin  -pl
+\ru В этом доме живут две сестры.
+\nt I elicited the sentence this way, because Novikova claims that the -nun suffix has a meaning of 'a pair of people'
+\qu
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_55:15
+\tx Ele          dʒụːla       bisiten           ịlan ekeŋel.
+\mb erek -(dU)LE dʒụː -(dU)LE bi -RI  -tEn      ịlan eken  -ŋ  -E-L
+\ge prox -loc    house    -loc    be -pst -poss.3pl three  older -aln -ep-pl
+\gr skazala by "er min ekeŋelbu", vot moi sestry;  the above sentence was actually prompted by me, after she said how "my
+sisters" would be; *ekennun = nel'zja
+\nt
+\nt Later on  (Esso3009_58:50) I asked whether one could say "Ele dʒụːla bisiten ịlan ekennun", she changed it to "eknun"
+but said no, that one couldn't say that; then decided to phone Oktjabrina Nikolaevna to ask, and confirmed the above
+sentence. I gave her the following sentence for judgement, and she gave the Russian translation:
+\tx Ele          dʒụːla       bisiten           ịlan eknun.
+\mb erek -(dU)LE dʒụː -(dU)LE bi -RI  -tEn      ịlan eken  -ńUn
+\ge prox -loc    house    -loc    be -pst -poss.3pl three  older -com
+\ru В этом доме жили три сестры.
+
+\id K_Comitative58
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso2006_58:55
+\tx Ele          derevnjala        čeledʒur          min     aːnịlbụ.
+\mb erek -(dU)LE derevnja  -(dU)LE čele -dʒUr        min     aːnị  -L  -W
+\ge prox -loc    village.R -loc    all   -ins.prefl.pl 1sg.obl relative -pl -poss.1sg
+\ru В этой деревне все - мои родственники.
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_57:50
+\tx Ele          selola            čeledʒur          min     aːnịlbụ.
+\mb erek -(dU)LE selo      -(dU)LE čele -dʒUr        min     aːnị  -L  -W
+\ge prox -loc    village.R -loc    all   -ins.prefl.pl 1sg.obl relative -pl -poss.1sg
+\ft
+\gr at first said "ele selola čeledʒur aːnịnụn bise" - then I asked "eto prosto rodstvenniki?"
+
+\id K_Comitative59
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso2006_59:20
+\tx Ele          derevnjala        čeledʒur          aːnịltan            meːr     dọːlịwụr.
+\mb erek -(dU)LE derevnja  -(dU)LE čele -dʒUr        aːnị  -L  -tEn      meːn -L  dọː -(dU)LI -WUr
+\ge prox -loc    village.R -loc    all   -ins.prefl.pl relative -pl -poss.3pl refl  -pl inside -prol   -prfl.pl
+\ru В этой деревне все родственники между собой.
+\ph
+\gr nọŋartan aːnịltan = oni rodstvenniki; ix rodstvenniki = aːnịltən --> is she trying to say that for 'rodstvenniki' you use
+the distributive suffix??
+\nt
+\nt Esso3002_38:00
+\tx Ele          derevnjala        čeledʒur          ọrọčịl    ńoːgenil   \\  aːnịl.
+\mb erek -(dU)LE derevnja  -(dU)LE čele -dʒUr        ọrọč -E-L   ńoːge -SEl *\\ aːnị  -L
+\ge prox -loc    village.R -loc    all   -ins.prefl.pl Oroch     -ep-pl cousin  -pl  *** relative -pl
+\ru В этой деревне все эвены - родственники.
+\gr
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_58:15
+\tx Ele          selola            čeledʒur          aːnịnụn   bise.
+\mb erek -(dU)LE selo      -(dU)LE čele -dʒUr        aːnị  -ńUn bi -R(E)
+\ge prox -loc    village.R -loc    all   -ins.prefl.pl relative -com  be -nonfut.3pl
+
+\id K_Comitative64
+\ref Esso2006_1:01:33
+\tx Matematika učitelnican          ač etikeːne,    teːmi    nọŋan bisni            eńtilnumi.
+\mb matematika učitelnica -n(I)     ač etikeːn -LE  teːmi    nọŋan bi -R(E)   -n(I) eńtil  -ńUn -J
+\ge maths.R    teacher.R   -poss.3sg neg old.man  -prv therefore 3sg      be -nonfut -3sg  parents -com  -prfl.sg
+\ru У учительницы математики нет мужа поэтому она живет с родителями.
+
+\id K_Comitative65
+\ref Esso2006_1:02:24
+\tx Bejil      ač ŋịnna    turkutte                     ajịč      gọbdịdawụr.
+\mb bej -E-L   ač ŋịn -LE  turku       -Č  -R(E)       aj   -E-Č   gọbdị -DE       -WUr
+\ge man -ep-pl neg dog    -prv not.be.able -res -nonfut.3pl good -ep-ins hunt      -purp.cvb -prfl.pl
+\ru Люди без собак не могут хорошо охотиться.
+\ph
+\gr Esso3002_38:40
+\tx Bejil      ač ŋịnna    turkutte                     ajịč      gọbdịŋa.
+\mb bej -E-L   ač ŋịn -LE  turku       -Č  -R(E)       aj   -E-Č   gọbdị -ŋE
+\ge man -ep-pl neg dog    -prv not.be.able -res -nonfut.3pl good -ep-ins hunt      -nmdl.cvb
+\nt This was a judgement sentence, I wanted to know if they use the "negative modal" converb. And she said it was OK.
+\ru Люди без собак не могут хорошо охотиться.
+
+\id K_Comitative66
+\ref Esso2006_1:03:43
+\tx Min     sestraw            ereger iluweːtten                 čaːjịw     ač čakarla.
+\mb min     sestra   -W        ereger hilu  -WEːČ -R(E)   -n(I) čaːj -E-W    ač čakar  -LE
+\ge 1sg.obl sister.R -poss.1sg always drink -gnr    -nonfut -3sg  tea.R  -ep-acc neg sugar.R -prv
+
+\ru Моя сестра всегда пьет чай без сахара.
+
+\id K_Comitative67
+\ref Esso2006_1:04:05
+\tx Bi   ittiwu             ŋịnụ   ač irgele.
+\mb biː it  -RI  -W        ŋịn -W   ač irge -LE
+\ge 1sg  see -pst -poss.1sg dog    -acc neg tail -prv
+\ru Я видела собаку без хвоста.
+
+\id K_Comitative68
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso2006_1:04:25
+\tx Nọŋan atịkannị        entekeːje nọːd, nọŋŋịtan                   digen kụŋaŋịtan.
+\mb nọŋan atịkan  -n(I)     entekeːje nọːd  nọŋartan -ŋI       -tEn      digen kụŋa -ŋ  -E-tEn
+\ge 3sg      old.woman -poss.3sg strong     pretty   3pl         -pred.poss -poss.3pl four  child   -aln -ep-poss.3pl
+
+\ru У него очень красивая жена, и у них 4 детей.
+\ph
+\gr nọŋŋịtan??? would seem to be the root of nọŋ-an and nọŋ-ar-tan...
+\nt
+\nt Esso3002_39:15
+\tx Nọŋanŋị       nọːd nosegčen atịkannị.
+\mb nọŋan -ŋI       nọːd nosegčen atịkan  -n(I)
+\ge 3sg      -pred.poss pretty  young     old.woman -poss.3sg
+\ru У него красивая, молодая жена.
+\ph noːγčen
+\gr *Nọŋan nọːd atịkanịlkan = nel'zja. atịkalkan = ženatyj; etikeːlken = zamužem; *Nọŋan nọːd atịkalkan = nel'zja
+\nt
+\nt Esso3006_14:40
+\tx Nọŋŋị         mergeč ụnaːdʒịn.
+\mb nọŋan -ŋI       mergeč hụnaːdʒ -E-n(I)
+\ge 3sg      -pred.poss clever  daughter    -ep-poss.3sg
+
+\ru У него умная дочь.
+\ph
+\nt Esso3002_40:20
+\tx Minŋi             digen kụŋaŋịlbụ.
+\mb min     -ŋI       digen kụŋa -ŋ  -E-L   -W
+\ge 1sg.obl -pred.poss four  child   -aln -ep-pl -poss.1sg
+\ru У меня четверо детей.
+\gr
+\nt Esso3006_15:00
+\tx Nọŋŋịn                  nọːd ŋịnan.
+\mb nọŋan -ŋI       -n(I)     nọːd ŋịn -E-n(I)
+\ge 3sg      -pred.poss -poss.3sg pretty  dog    -ep-poss.3sg
+
+\ru У него красивая собака.
+\ph
+\gr Esso3006_15:24
+\tx Nọŋŋịn                  egdʒen dʒụːn          i     anŋamta mašịnan.
+\mb nọŋan -ŋI       -n(I)     egdʒen dʒụː -n(I)     i     anŋamta mašịna -n(I)
+\ge 3sg      -pred.poss -poss.3sg big     house    -poss.3sg and.R new      car.R     -poss.3sg
+
+\ru У него большой дом и новая машина.
+\ph
+\gr (Esso3007_5:50) Apparently, all the different forms nọŋŋị, nọŋŋịn and nọŋanŋị (and nọŋanŋịn) express the same thing,
+they're apparently all correct, and there's no difference, though she did say that 'nọŋanŋị' has an added nuance of 'imenno
+ego'
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:02:20
+\tx Nọŋan umekič nọːd atịkannị,       nọŋartan digen kụŋaŋịltan.
+\mb nọŋan umekič nọːd atịkan  -n(I)     nọŋartan digen kụŋa -ŋ  -E-L   -tEn
+\ge 3sg      very    pretty  old.woman -poss.3sg 3pl         four  child   -aln -ep-pl -poss.3pl
+
+\id K_Comitative69
+\ref Esso2006_1:05:10
+\tx Bụjla        bu     arčịldarịwụn               beju     ŋuleńeč    mereŋtelettič
+\mb bụj  -(dU)LE buː   arčị -(E)ldE -RI  -WUn         bej -W   ŋuleńe -Č  mereŋteː -LEČ -RI       -Č
+\ge forest -loc    1pl.ex meet    -soc    -pst -poss.1pl.ex man -acc red      -ins skis       -vr   -impf.ptc -ins
+
+\tx mereŋteːlken.
+\mb mereŋteː -lkEn
+\ge skis       -prop
+
+\ru В тайге мы встретили мужчину с красными лыжами.
+\ph
+\gr At first she said "ńuleńeč mereŋtelettiw";  ŋuleńeč mereŋtelken = prosto s krasnymi lyžami; mereŋtelettič = u kotorogo
+odety krasnye lyži;

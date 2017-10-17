@@ -1,0 +1,2797 @@
+\_sh v3.0  1035 Text
+
+\id baa_Adukanov_Sergej_life_043
+\ref I vb
+\tx Slugin baːrịn               mụltụdajị              minu         tadụk,      muzejduk.
+\mb Slugin baː     -RI -n(I)      mụltụ -DE       -J       min     -W   tarak -DUk(U) muzej    -DUk(U)
+\ge Slugin not.want -pst -poss.3sg set.free  -purp.cvb -prfl.sg 1sg.obl -acc dist  -abl    museum.R -abl
+\ft Slugin didn't want to let me go from there, from the museum.
+\ph
+\gr 29.01.2013 (questions3_Adukanov_Sergey_1, 33:10) baːrịn mụltụŋa would be correct, but like this (with purp.cvb) is also OK
+\ELANBegin 00:05:57.520
+\ELANEnd 00:06:04.000
+\ELANParticipant AS
+\ru Слугин не хотел отпускать меня оттуда, из музея.
+\comment
+\ev Слугин барин мултудаи мину тадук, музейдук.
+
+\id baa_beseda_0127
+\ref IV excl
+\tx Emie   ọmọlgọw,  baːja.
+\mb emie   ọmọlga -W   baː     -(h)E
+\ge also.Y boy        -acc not.want -excl
+
+\ft Again a boy, that's boring.
+\ru Опять мальчика, тоска.
+\ELANBegin 00:03:55.884
+\ELANEnd 00:03:57.738
+\ELANParticipant IAS
+
+\id baa_beseda_0928
+\ref IV excl
+\tx bajoː          ịak naːda
+\mb baj       =eː  ịak nado
+\ge be.boring =emph what  need.R
+
+\ft oh how boring, what is that for?
+\ph
+\nt after everyone's hopes had been raised by the rumour of a fur coat as a prize, the disappointment at the fox pelt as prize comes
+through very clearly in this section
+\ru неинтересно, скучно, зачем это надо
+\ELANBegin 00:26:26.375
+\ELANEnd 00:26:26.620
+\ELANParticipant IAS
+
+\id baa_beseda_0987
+\ref IV excl
+\tx bide      nọːdamčụ             dʒiŋinen baːja         ọl_gïnan
+\mb biː =DE  nọːda -mč(I) -W        dʒiŋinen baː     -(h)E ol_gïnan_baran
+\ge 1sg  =ptl throw    -sbjv   -poss.1sg in.truth.Y not.want -excl but.Y
+
+\ft I could also throw, actually, but I don't feel like it
+\ft
+\ru я бы тоже могла бы бросать на самом деле, но лень, не хочу
+\ELANBegin 00:28:15.555
+\ELANEnd 00:28:16.085
+\ELANParticipant IAS
+
+\id baa_beseda_1373
+\ref I vb
+\tx Baːnam              bi   emie,  ọːngọl?
+\mb baː    -R(E) -m     biː emie   ọːn =(W)Ul
+\ge be.lazy -nonfut -1sg 1sg  also.Y how    =indef
+
+\ft I too am feeling very lazy somehow
+\gr baːnam is not a correct word, it should be baːram
+\ru я тоже ленюсь как-нибудь
+\ELANBegin 00:41:41.655
+\ELANEnd 00:41:43.435
+\ELANParticipant LNZ
+
+\id baa_beseda_1508
+\ref IV excl
+\tx baːja
+\mb baː     -(h)E
+\ge not.want -excl
+
+\ft I don't want
+\ru не хочу
+\ELANBegin 00:45:42.180
+\ELANEnd 00:45:43.150
+\ELANParticipant LNZ
+
+\id baa_beseda_1985
+\ref IV excl
+\tx Baːjake,            ọːk...
+\mb baː     -(h)E =kE   ọːk
+\ge not.want -excl =emph when
+\ft I'm fed up, when...
+\ru лень, когда
+\ELANBegin 00:59:03.600
+\ELANEnd 00:59:04.596
+\ELANParticipant NPZ
+
+\id baa_Egorova_RM_Tvajan016
+\ref I vb
+\tx Kučuken bimi         bi   sadịktakị          olloːtčoːttem,           tarma abalụ   bi
+\mb kočuken bi -mI       biː sadịk        -t(E)kI hollot -WEːČ -R(E)   -m   tarma abal -W   biː
+\ge small    be -cond.cvb 1sg  kindergarden.R -all    go     -gnr    -nonfut -1sg but   few  -acc 1sg
+
+\tx tala          gịrkawaːttịwụ,          baːrịwụ.
+\mb tarak -(dU)LE gịrka -WEːČ -RI  -W        baː     -RI  -W
+\ge dist  -loc    walk    -gnr    -pst -poss.1sg not.want -pst -poss.1sg
+
+\ft When I was small I went to kindergarden, but I rarely went there, didn't want to.
+\ru Когда я была маленькой, я ходила в садик, но мало я туда ходила, не хотела.
+\ph kučukɐn
+\nt
+
+\id baa_Egorova_RM_Tvajan041
+\ref I vb
+\tx Ekičeː    oruweːtte                munu            internattakị,           baːwaːttụ,
+\mb ekič =eː  hor -U    -WEːČ -R(E)   mun        -W   internat          -t(E)kI baː     -WEːČ -R(E)   -(R)U
+\ge ints  =emph go  -caus -gnr    -nonfut 1pl.ex.obl -acc boarding.school.R -all    not.want -gnr    -nonfut -1pl.ex
+
+\tx aːnda     ńọːwaːtta,              kụŋal    tadụk.
+\mb haːn =DE  ńọːn -WEːČ -R(E)       kụŋa -L  tarak -DUk(U)
+\ge some  =ptl run.away -gnr    -nonfut.3pl child   -pl dist  -abl
+
+\ft It was hard, they took us away to boarding school, we didn't want (to go), some of the children ran away from there.
+\ru Очень тяжело, увозили нас в интернат, мы не хотели, некоторые  дети убегали оттуда.
+\ph uruwɐːtte
+\gr ekič - seems to have meaning of "strong", silno, krepko tjazhelo, rather than specifically difficult, because 29.01.13 she said this
+means "silno, krepko (tjazhelo)", and also said in Adukanov_Sergej_life_076 - basically it means 'strong' or just some form of
+'bigger', more intensity - but maybe overall 'strong' comes best; 30.01. questions4, beginning: ekič is just an intensifying adverb
+or particle, it doesn't really have a meaning on its own, e.g. ekič uksen (very hot), ekič uklemsem 'ochenj xochu spatj', ekičeː eŋi
+'ochenj silnyj'; you cannot say "ekič stol", it's ekič maŋị stol 'krepkij stol'
+\nt
+
+\id baa_Kirillina_KK_dve_skazki_018
+\ref noun
+\tx Noːn                     damar    baːn       biče,     ịawda         enikekeːn            gurgewčir
+\mb noː            -n(I)     damar    baː    -n  bi -čE    ịak -W   =DE  e   -nIkEn   -KEn     gurgeːwči -R
+\ge younger.sibling -poss.3sg disc.ptl be.lazy -nr be -pf.ptc what  -acc =ptl neg -sim.cvb -dim.int work        -neg.cvb
+
+\tx ịlụmụdụ  dessiniken      čịldawrača,         moːwde         eče        hụkụhnawrar,
+\mb ịlụmụ -DU  desči -nIkEn   čịlda -Gr(E) -čE    moː  -W   =DE  e   -čE    hụkụ  -s(E)n -E  -Gr(E) -R
+\ge yurt        -dat lie    -sim.cvb survive  -hab   -pf.ptc water -acc =ptl neg -pf.ptc ladle.out -lim   -ep -hab   -neg.cvb
+
+\tx gọlụda         eče        taːwgarar.
+\mb gọl    -W   =DE  e   -čE    taw                     -Gr(E) -R
+\ge firewood -acc =ptl neg -pf.ptc gather.scattered.things -hab   -neg.cvb
+
+\ft As for the younger brother he was lazy, spent his time lying in the yurt without doing anything, didn't fetch water, didn't gather
+firewood.
+\ph
+\gr according to IVK, damar is a standard Even particle that functions as a contrastive topic marker ("a mladshij brat byl lenivyj"),
+and it is not the same as =dmEr (which would be "tot iz nix"); basically, damar seems to be the same as buollaγïna, and then
+there's also a clitic =kkE/kko, not clear, with the same function of contrastive topic marker, this occurs in the beseda quite a
+bit; Cincius only gives -dmEr as "utochnitelnaja chastica"; it has to be said that there is a pause of 1+ second between noːn and
+damar, and she clearly pronounces noːn with a soft o and damar with a hard a - which is why I have written it as a separate
+word here
+\gr biː baːn bihem, baːn bej --- baːn = adjective and noun
+\nt čịlda- = has a meaning of 'spend time, live, live through winter = survive'
+\ru А младший брат был лентяй, ничего не работал, лежа в чуме проводил время, и за водой не ходил, и дрова не собирал
+\ELANBegin 00:01:27.140
+\ELANEnd 00:01:38.410
+\ELANParticipant
+
+\id baa_Kirillina_KK_dve_skazki_042
+\ref noun
+\tx Ọnaːkị delgenkelduk           baːn,      ọnaːkị.
+\mb ọnaːkị dʒelgenke -L  -DUk(U) baː    -n  ọnaːkị
+\ge wolverine   animal     -pl -abl    be.lazy -nr wolverine
+
+\ft "The wolverine is the laziest of all animals."
+\ph
+\ru Росомаха, из всех зверей росомаха ленивая.
+\ELANBegin 00:04:05.600
+\ELANEnd 00:04:13.110
+\ELANParticipant
+
+\id baa_Kirillina_KK_dve_skazki_050
+\ref noun
+\tx Tarak ụjamkan      egdʒen... akannị,               baːn         ọnaːkị - noːn.
+\mb tarak ụjamkan      egdʒen    akan          -n(I)     baː    -n(I) ọnaːkị - noː            -n(I)
+\ge dist  mountain.sheep big        older.brother -poss.3sg be.lazy -3sg  wolverine   - younger.sibling -poss.3sg
+
+\ft That mountain sheep is the older brother, the lazy wolverine (is) the younger brother.
+\ph anaːkị
+\ru Горный баран – старший брат, ленивая росомаха – его младший брат.
+\ELANBegin 00:04:56.720
+\ELANEnd 00:05:03.070
+\ELANParticipant
+
+\id baa_Krivoshapkin_SP_oxota_127
+\ref I inch.vb; IV ptcp
+\tx Edej                   baːlla                ịat      ịawram:           radio   igin, da    himbiːr
+\mb e   -DE       -J       baː    -L    -R       ịak -Č  ịa    -Gr(E) -m   radio   iŋin da    himbiːr
+\ge neg -purp.cvb -prfl.sg be.lazy -inch -neg.cvb what  -ins do.what -hab   -1sg radio.R etc.Y ptl.R all.the.same.Y
+
+\tx bajhị        biwren.
+\mb baj -RI      bi             -Gr(E) -n(I)
+\ge be.boring  -impf.ptc     be -hab   -3sg
+
+\ft So that I don't get bored and homesick, I do something, (there is a) radio etc, but it is boring nevertheless.
+\ru Чтобы не затосковать, что-то делаю, радио есть, но все равно бывает скучно.
+\ELANBegin 00:10:26.110
+\ELANEnd 00:10:36.060
+\ELANParticipant
+
+\id baa_meme_ded_Managič_083
+\ref noun
+\tx Ičuweːtten,                  uŋnitente                            kak   ọːnkana
+\mb it  -U    -WEːČ -R(E) -n(I)  uŋ       -(dU)LI -tEn      =t(E)     kak   ọːn =kEnE
+\ge see -caus -gnr    -nonfut -3sg something -prol   -poss.3pl =utočnit how.R how    =contr
+
+\tx baːdịtankana,                ọmŋaram,          baːdịtankana.
+\mb baː     -DI   -tEn      =kEnE  ọmŋa -R(E) -m     baː     -DI   -tEn      =kEnE
+\ge not.want -adjr -poss.3pl =contr forget  -nonfut -1sg not.want -adjr -poss.3pl =contr
+
+\ft It shows by their what, how (does one say it), by their laziness, I forgot, by their laziness.
+\ELANBegin 00:06:57.340
+\ELANEnd 00:07:12.990
+\ELANParticipant NFI
+\ev
+\ru Видно по ним, как это не хотят, я забыл, не хотят.
+
+\id baa_meme_ded_Managič_090
+\ref noun
+\tx Baːnalbugel                    nemnožko ịattawaːttam              ịkụtịč    kotoryj
+\mb baː     -n  -E-L   -W   =gEl   nemnožko ịatta -WEːČ -R(E) -m     ịkụt -E-Č
+\ge not.want -nr -ep-pl -acc =coord a.bit.R   hit     -gnr    -nonfut -1sg straight -ep-ins
+
+\tx ne   taščit   prjamo
+\ft Lazy ones I beat a bit, those who don't want to pull well.
+\ELANBegin 00:07:50.925
+\ELANEnd 00:08:00.935
+\ELANParticipant NFI
+\ev
+\ru Лентяи немножко луплю
+
+\id baa_Solodikov_AA_tabun_1_011
+\ref I vb
+\tx Ńịmkan čụkačaːn baːnị
+\mb ńịmkan čụkačaːn baː     -n(I) -E
+\ge tale      bird          not.want -3sg  -ep
+
+\ft A tale "A lazy bird".
+\ph
+\gr I am not sure about ị in baːnị, maybe it is just baːn for nonfut-3Sg and an epenthetic-like vowel at the end. Rimma translates it
+as "ptichka lenitsja".
+\ELANBegin 00:01:20.160
+\ELANEnd 00:01:25.480
+\ELANParticipant
+\ev
+\ru Сказка "Ленивый птенчик".
+
+\id baa_Solodikov_AA_tabun_1_013
+\ref I vb
+\tx Baːrama.
+\mb baː     -R(E)   -m   -E
+\ge not.want -nonfut -1sg -ep
+\ft I don't want to do it.
+\ph
+\gr According to RME the last a is there to make it more rhymed and fairy tale style, I glossed it as an epenthetic one?
+\ELANBegin 00:01:30.440
+\ELANEnd 00:01:32.800
+\ELANParticipant
+\ev
+\ru Не хочу.
+
+\id baa_Solodikov_AA_tabun_1_014
+\ref I vb
+\tx Čụkačaːn moːw      moːleli.          -- Baːrama                  ,   essewu          bakarsana
+\mb čụkačaːn moː  -W   moː  -LE -LI         baː     -R(E)   -m   -E      hesse -W        bakar       -R(E) -n(I)  -E
+\ge bird          water -acc water -vr -imp.2sg    not.want -nonfut -1sg -ep     sole  -poss.1sg be.slippery -nonfut -3sg -ep
+
+\tx ọkaːtla       nan    tikčim         ejeːsendʒim                     nan.
+\mb ọkaːt -(dU)LE ńaːn tik  -DʒI -m   ejeː           -s(E)n -DʒI -m   ńaːn
+\ge river    -loc    and    fall -fut  -1sg float.downriver -lim   -fut  -1sg and
+
+\ft Little bird, bring some water. -- I don't want to do it, my soles are slippery, I will fall and float down the river.
+\ph muw
+\gr about a in barama is epenthetic-like.  essewu must be derived from her 'bottom' (nr s?) Check: bakassana (as I wrote from VIA)
+or bakarkana (as I hear it now) from bakar 'skoljzkij' + dim bakarkịttaj "skoljzitj": Bi bakarkịttam, bakassam, iː bakarkịčannị.. no
+essewu bakassana -- podoshva skoljzit, podoshva skoljzkaja. Bereriwu bakassiw esseji -- ja poterjal svoju skoljzkuju podoshvu.
+\gr 05.02.13 (questions10, 43:30) biː bakarram = ja skolznu; iː bakarannị, nọŋan bakarran = on skolzit; skolzko = bakas or bakar; 
+\nt
+\ELANBegin 00:01:32.800
+\ELANEnd 00:01:43.160
+\ELANParticipant
+\ev
+\ru Птенчик, воды принеси. -- Не хочу, подошвы у меня скользкие, в речку упаду, утону.
+
+\id baa_Solodikov_AA_tabun_1_017
+\ref I cvb
+\tx Baːmịnụn            čas ukleːsendʒidʒeːnni
+\mb baː     -mI       =ńUn čas hukle -s(E)n -D    -dʒEːn -LI
+\ge not.want -cond.cvb =emph ptl  sleep -lim   -prog -dur     -imp.2sg
+
+\ft If you don't want, go to sleep.
+\ph  ukleːsendʒidʒenni -- I hear dʒenni, but maybe still d?
+\gr
+\gr prosto ukleːsendʒidʒenni 'lozhisj spatj' . Fut: uklesendʒinni? 'ljazheshj spatj?' in elicitantions I found construction čas +
+purp.cnv, but only for 3 person: čas uklesenden 'pustj on usnjet', uklenneden -- pusj idet spatj, čas uklesendʒidden 'pustj
+lozhitsja spatj'. uklesnelle -- lozhitesj spatj, ukleneːlle -- idite spatj, *čas ukleneːlle čas uklesendʒiddes --chtoby ty lozhilsja spatj,
+čas uklesendʒiddesen -- chtoby vy lozhilisj spatj
+\ELANBegin 00:01:54.520
+\ELANEnd 00:01:58.560
+\ELANParticipant
+\ev
+\ru Если не хочешь, тогда ложись спать.
+
+\id baa_Stepanova_ZA_sibling_026
+\ref I cvb
+\tx Nọŋan omende    minutaw       ečin      ịawda         eniken       nekre        baːnịkan
+\mb nọŋan omen =DE  minuta   -W   erroːčin ịak -W   =DE  e   -nIkEn   nek -R       baː    -nIkEn
+\ge 3sg      one  =ptl minute.R -acc prox.qual  what  -acc =ptl neg -sim.cvb do  -neg.cvb be.lazy -sim.cvb
+
+\tx eti           tegette.
+\mb e   -RI       teg      -E-Č   -R
+\ge neg -impf.ptc sit.down -ep-res -neg.cvb
+
+\ft He wouldn't sit without doing something, being lazy, not for one minute.
+\ru Он ни одной минуты так ничего не делая, ленясь не сидит.
+\ph
+\gr
+\nt
+
+\id bokum_Kejmetinova_AA_headmistress_096
+\ref IV excl
+\tx Bi   sčotuńun         dasčịm,       bọkụma       ...  ịaw      baktịdʒị, - goːnem
+\mb biː sčot  -W   =ńUn  das   -DʒI -m   bọkụm  -(h)E *... ịak -W   bak  -RIdʒI   - goːn -R(E)   -m
+\ge 1sg  bill.R -acc =restr cover -fut  -1sg get.fed.up -excl ***  what  -acc find -ant.cvb  - say   -nonfut -1sg
+
+\ft "I will just cover the bill, don't bother me (I've had enough), (do what you can with) what you find", I said.
+\nt bọkụma -- the same form as in Krivoshapkina_Sofija_life_073, was glossed like this see also BP's comment to this
+\gr
+\ELANBegin 00:10:50.040
+\ELANEnd 00:10:54.950
+\ELANParticipant
+\ru Я только счет оформлю, не мешай, что найдешь, - сказала
+
+\id bokum_Krivoshapkina_Sofija_life_073
+\ref IV excl
+\tx Etikeŋu                hobelčiddekende                                 ehem             ịar,
+\mb etikeːn -ŋ  -W        hoːbel   -Č  -D    -REk      -E-n(I)      =DE  e   -R(E)   -m   ịa    -R
+\ge old.man  -aln -poss.1sg get.drunk -res -prog -cond.cvb -ep-poss.3sg =ptl neg -nonfut -1sg do.what -neg.cvb
+
+\tx awdakkarar,           bọkụma       goːnidʒi,    tara.
+\mb awdat -Gr(E) -R       bọkụm  -(h)E goːn -RIdʒI  tarak
+\ge worry -hab   -neg.cvb get.fed.up -excl say   -ant.cvb dist
+
+\ft When my husband is on a drunken spree I don't pay attention, having said 'I've had enough'.
+\ru Когда мой муж пьянствовал не обращаю внимаиня, надоело, сказав.
+\ph
+\gr hobeldej = op'janet', hobelčiddej = p'janstvovat dolog'; bokumdaj = chuvstvovat' chto tebe nadoela, according to Ija bọkụma is
+a participle, which is used only with stative verbs and desiderative verbs, derives exclamations, e.g. bọkụma 'nadoelo', ene (from
+endej 'hurt') 'bol'no!', bek 'medicine', begemdej 'paxnut lekarstvom' --> begeme 'kak paxnet lekarstvom!', horemdej
+(go-desiderative) --> horeme 'kak xočetsja ujti!'; with the stative verbs it has a negative meaning (i.e. uldeme! 'kak paxnet
+mjasom!' they wouldn't say, because the smell of meat is of course good; with the desiderative verbs it has a positive meaning); I
+elicited during a translation session in 2009, Klim_Nikolaevich_first_half, about the 6th minute
+\nt
+
+\id gudjen_Axmetova_VI_childhood_45
+\ref III vb kiss
+\tx I     emnekun                     nan    tarak ekeŋewu                 Polina Innokentevna minteki
+\mb i     em   -REk      -WUn         ńaːn tarak eken   -ŋ  -E-W         Polina Innokentevna min     -t(E)kI
+\ge and.R come -cond.cvb -poss.1pl.ex again  dist  mother -aln -ep-poss.1sg Polina Innokentevna 1sg.obl -all
+
+\tx ńọːŋčịn,     gudʒeːndeji                epkendeji                 ečin      ere...
+\mb ńọːŋčị -n(I) gudʒeːn -DE       -J       hepken -DE       -J       erroːčin erek
+\ge run.nonfut     -3sg  kiss      -purp.cvb -prfl.sg catch  -purp.cvb -prfl.sg prox.qual  prox
+
+\ft And when we came there that older sister of mine Polina Innokentevna ran to me to kiss and hug me.
+\ru Когда приехали, моя сестра Полина Иннокентьевна ко мне подбегает поцеловать, обнять вот так вот.
+\ph ičin
+
+\id gudjen_Axmetova_VI_childhood_47
+\ref III vb kiss
+\tx Ịakawụ   erek asịndʒaːn           minu         uŋnin,            gudʒeːnni.
+\mb ịak -awụ erek asị -ńdʒE -n(I)     min     -W   uŋ -RI  -n(I)     gudʒeːn -n(I)
+\ge what  -emph  prox woman -aug    -poss.3sg 1sg.obl -acc do  -pst -poss.3sg kiss      -3sg
+
+\ft Some big woman kissed me!
+\ru Меня какая-то крупная женщина целовала.
+\ph asịndjaːn
+\gr asịndʒan = čto za ženščina takaja! *asindʒa = ne govorjat; *asịndʒa emnin = ne govorjat, govorjat: asịkaːja emnin, asịmkar
+emnin
+\gr 30.01.13 (questions7, 37:45) ịakawụ erek asịndʒan = correct, one can also say ịakawụt asịmkar; ịakawụ erek asịndʒan = chto
+eto za bolshaja zhenshina! ịakawụt asịmkar = kakaja-to bolshaja zhenschina; ịakawụ erek asịmkar = chto eto za zhenshina!; ịak
+(erek) asịn = chto za zhenshina
+\gr 12.02.13 (questions16, 25:30) ịakawụ erek asịkaja = OK
+
+\id gudjen_Axmetova_VI_childhood_48
+\ref III vb kiss
+\tx Patọːm mem... ekenteki       goːniwu             "ịakụč    asịndʒaːn           minu
+\mb potom.R   meme   eken   -t(E)kI goːn -RI  -W        ịak =(W)UttE asị -ńdʒE -n(I)     min     -W
+\ge then.R    mama   mother -all    say   -pst -poss.1sg what  =indef   woman -aug    -poss.3sg 1sg.obl -acc
+
+\tx gudʒeːnni,    tara".
+\mb gudʒeːn -n(I) tarak
+\ge kiss      -3sg  dist
+
+\ft Then I told my mother "Some big woman kissed me, here."
+\ru Потом сказала маме "Какая-то женщина меня целует, вот."
+\ph guːniwu  asịndjaːn  gudjeːnni
+\gr 30.01.13 (questions7, 40:05) ịakụč asịndʒan = correct, and ịakụt asịmkar is also OK
+\gr 12.02.13 (questions16, 26:00) ịakụt asịkaja = OK, correct, chto za zhenshina, just like ịakut asịndʒan and ịakụt asịmkar
+
+\id gudjen_Evdokija_Grigorevna_Managịč_108
+\ref gudjej
+\tx Etikeːn gudʒeːjledʒin.
+\mb etikeːn gudʒeːjledʒin
+\ge old.man  poor.dear
+
+\ft The poor old man.
+\ph
+\gr (trans.file Evd_Grigna_quest_2_070709, 4:40) ty bednjažka = iː gudʒeːjd bisenni, my bednjažki = gudʒeːjdil, gudʒeːjledʒin = on
+bednen'kij, gudʒeːjledʒir = oni bednen'kie, ja bednjažka = biː gudʒeːjledʒin = gudʒeːjd bisem
+\ELANBegin 00:11:04.066
+\ELANEnd 00:11:07.602
+\ELANParticipant EGA
+\ev
+\ru Старик бедняжка.
+
+\id gudjen_Krivoshapkina_Sofija_life_061
+\ref IV excl
+\tx Arahnaj      hụlụčaj họːjaː,    ịbgada      biwren,              neːgimečeptide
+\mb araːhịnaj slučaj      họːja =eː  ịbgọ =DE  bi -Gr(E)      -n(I) neːgi -mEČ -E-B    -RI       =DE
+\ge various.Y    event.R      many     =emph good     =ptl be -hab.nonfut -3sg  scold  -rec  -ep-med -impf.ptc =ptl
+
+\tx biwren          gudʒeńede           goːpti              biwren
+\mb bi -Gr(E) -n(I) gudʒen    -ńE  =DE  goːn -B   -RI       bi -Gr(E) -n(I)
+\ge be -hab   -3sg  be.beloved -adjr =ptl say   -med -impf.ptc be -hab   -3sg
+
+\tx oreldeptide                 biwren          bekečen            arahnaj.
+\mb orelde   -B   -RI       =DE bi -Gr(E) -n(I) bekeč -E-n(I)      araːhịnaj
+\ge be.happy -med -impf.ptc =ptlbe -hab   -3sg  all    -ep-poss.3sg various.Y
+
+\ft A lot of different events, there was good, and fighting, and words of love, and happiness, all different.
+\ru Разных случаев много, и хорошое бывало, и ругань была, было что говорили милый, и радость было, все разное.
+\ph
+\gr
+\nt
+
+\id gudjen_Neustruev_PD_bearhunt_040
+\ref IV excl
+\tx Goːmette,              tarịt dʒe   erek hińimkin bidʒin        gudʒejekeː           tar
+\mb goːn -mEČ -R(E)       tarịt dʒe   erek hińimkin bi -DʒI -n(I) gudʒen    -(h)E =kE   tarak
+\ge say   -rec  -nonfut.3pl then    well.Y prox sin       be -fut  -3sg  be.beloved -excl =emph dist
+
+\tx durutmi.
+\mb dur  -U    -Č  -mI
+\ge burn -caus -res -cond.cvb
+
+\ft We agreed, it will be a sin, it's a pity, if we burn it.
+\ph
+\gr
+\nt
+\qu
+\ev
+\ru Договорились, это будет грех, жалко, если мы его сожжем.
+\ELANBegin 00:04:06.830
+\ELANEnd 00:04:15.390
+\ELANParticipant
+
+\id gudjen_stado#10_Nikitin_SE_poems_070
+\ref IV excl
+\tx gudʒejekeː           biː dʒaːlbụ
+\mb gudʒen    -(h)E =kE   biː dʒaː   -L  -W
+\ge be.beloved -excl =emph 1sg  relative -pl -poss.1sg
+
+\ft my dear family
+\ru милые мои родные
+\ph
+\gr
+\ELANBegin 00:06:04.540
+\ELANEnd 00:06:06.630
+\ELANParticipant
+
+\id gudjen_Stepanova_NA_kochevaja_shkola_025
+\ref IV excl
+\tx Kụŋakkalbụda           bụlgararam,             domŋele         bietti               kụŋakkal
+\mb kụŋa -kkEn -L  -W   =DE  bụl -Gr(E) -R(E) -m     doːmŋe -(dU)LE bi -WEːČ -RI       kụŋa -kkEn -L
+\ge child   -dim  -pl -acc =ptl pity  -hab   -nonfut -1sg taiga    -loc    be -gnr    -impf.ptc child   -dim  -pl
+
+\tx gudʒejekiekkel                  biwrer.
+\mb gudʒen    -(h)E =kE   -kkEn -L  bi -Gr(E) -r
+\ge be.beloved -excl =emph -dim  -pl be -hab   -3pl
+
+\ft And I pity the children, the children who live in the taiga are often very sweet.
+\ru И детей жалею, в тайге ходящие дети очень миленькие бывают.
+\ELANBegin 00:03:28.858
+\ELANEnd 00:03:34.734
+\ELANParticipant
+
+\id gudjen_Stepanova_ZA_naled_081
+\ref IV excl
+\tx Gudʒejekiet,               tar   ịahallaw                 ičudni,         hawdị etiken,  etiken   ńan   tar
+\mb gudʒen    -(h)E =kE   -Č  tarak ịašal -(dU)LE -W        it  -W     -n(I) hagdị etikeːn etikeːn ńaːn tarak
+\ge be.beloved -excl =emph -ins dist  eyes     -loc    -poss.1sg see -advrs -3sg  old     old.man  old.man  and    dist
+
+\tx kụŋačan.
+\mb kụŋa -čEn
+\ge child   -dim
+
+\ft Very sweet, I still see that before me, the old old man and that little child.
+\ph
+\gr
+\ru Очень мило, в глазах видно, старый старик и этот ребенок.
+\ELANBegin 00:08:28.560
+\ELANEnd 00:08:35.500
+\ELANParticipant
+
+\id gudjen_Stepanova_ZA_sibling_011
+\ref III vb kiss
+\tx Tarịt oškolala        iːreken,                    oškolala        nọŋman               horukemi
+\mb tarịt škola   -(dU)LE iː   -REk      -E-n(I)      škola   -(dU)LE nọŋan -W   -n(I)     hor -WkEn -mI
+\ge then    school.R -loc    enter -cond.cvb -ep-poss.3sg school.R -loc    3sg      -acc -poss.3sg go  -caus -cond.cvb
+
+\tx nọŋan ereger ọmkatlan                 gudʒeːndʒin.
+\mb nọŋan ereger ọmkat  -(dU)LE -n(I)     gudʒeːn -DʒI -n(I)
+\ge 3sg      always forehead -loc    -poss.3sg kiss      -fut  -3sg
+
+\ft Then when he came to school, when she sent him to school she always kissed him on his forehead.
+\ru Потом когда он поступал в школу, отправляя его в школу она всегда целует в лоб.
+\ph
+\gr
+\nt
+
+\id haldju_beseda_0188
+\ref vb
+\tx Bergerem           goːnidʒi,    họldʒụngara.. haldʒụwran.
+\mb berge -R(E)   -m   goːn -RIdʒI                     haldʒụ      -Gr(E) -n(I)
+\ge fat   -nonfut -1sg say   -ant.cvb                    be.embarrassed -hab   -3sg
+
+\ft They are ashamed, saying "I put on weight" 
+\ph Borgorem: Ija said it clearly with 'o', but in the speech of NPZ it can be 'e' ;  họldʒụwran
+\gr The form họldʒụngara doesn't exist.
+\nt
+\ru "Растолстела" говоря, стесняются
+\ELANBegin 00:05:07.902
+\ELANEnd 00:05:09.780
+\ELANParticipant NPZ
+
+\id haldju_beseda_0189
+\ref I vb
+\tx "Ịamị haldʒụnnị?"    goːnem            bi.
+\mb ịamị  haldʒụ      -nrI goːn -R(E)   -m   biː
+\ge why       be.embarrassed -2sg say   -nonfut -1sg 1sg
+
+\ft "Why are you ashamed" -- I said.
+\ru "Почему стесняешься?" я сказала.
+\ELANBegin 00:05:09.780
+\ELANEnd 00:05:10.620
+\ELANParticipant NPZ
+
+\id haldju_beseda_1906
+\ref IV excl
+\tx "Oo, biː ọːn haldʒụha          talị,       ńoːdʒim"      goːjeːdʒi.
+\mb oo   biː ọːn haldʒụ      -(h)E tarak -(dU)LI ńoː -DʒI -m   goːn -jEː -DʒI
+\ge oh   1sg  how    be.embarrassed -excl dist  -prol   exit  -fut  -1sg say   -aug  -ins.prfl.sg
+
+\ft "Oh, how will I go out there, how embarrassing", he said
+\ru о как я стыдно там выйду, говоря
+\ELANBegin 00:57:08.275
+\ELANEnd 00:57:10.975
+\ELANParticipant LNZ
+
+\id haldju_beseda_1910
+\ref IV excl
+\tx Ịak haldʒụhalkan?
+\mb ịak haldʒụ      -(h)E -lkEn
+\ge what  be.embarrassed -excl -prop
+
+\ft what's embarrassing?
+\ru что там стыдного
+\ELANBegin 00:57:15.790
+\ELANEnd 00:57:16.385
+\ELANParticipant IAS
+
+\id haldju_beseda_1960
+\ref IV excl
+\tx herkendʒin            hni,           haldʒụha          goːjeːdʒi...
+\mb herken     -DʒI -n(I) e -R(E) -n(I)  haldʒụ      -(h)E goːn -jEː -DʒI
+\ge be.ashamed -fut -3sg   neg -nfut -3sg be.embarrassed -excl say   -aug  -ins.prfl.sg
+
+\ft he'll be shy, will say "it's embarrassing"
+\ru он же будет стесняться, скажет стыдно
+\ELANBegin 00:58:17.934
+\ELANEnd 00:58:19.020
+\ELANParticipant NPZ
+
+\id haldju_Krivoshapkina_Ija_memories_106
+\ref I cvb
+\tx Tar   bejel      haldʒụrịdʒụr        ọttọn nụŋawụr     neːjdekterediː,
+\mb tarak bej -E-L   haldʒụ      -RIdʒI -L   ọttọn nụŋa -WUr     neː -j    -dEg      -LArA  =diː
+\ge dist  man -ep-pl be.embarrassed -ant.cvb -pl dp.Y      gun     -prfl.pl put  -conn -assert.Y -3pl.Y =emph.Y
+
+\tx eti           herre        ọːčal.
+\mb e   -RI       hor -R       ọː  -čE -L
+\ge neg -impf.ptc go  -neg.cvb become -pf.ptc -pl
+
+\ft These people became embarrassed and put down their guns, didn't go (up the mountain).
+\ph
+\gr (05_quest_2010, 22:45) ečel herre - can also be said; eti herre ọːčal = has a nuance of a conscious decision, rešili ne xodit'
+\ru Эти люди, застыдившись, ружья отложили, не стали ходить.
+\ELANBegin 00:09:38.230
+\ELANEnd 00:09:42.900
+\ELANParticipant
+
+\id hebdjen_Axmetova_VI_childhood_29
+\ref ebdjende
+\tx Tabịč      minusi             ịrkaŋnịddʒọːtta,              kučukenisi       biseku,
+\mb tabačịsị min     -W   =sI   ịrkaŋnị -D    -WEːČ -R(E)       kočuken -E=sI    bi -REk      -W
+\ge then          1sg.obl -acc =emph tease        -prog -gnr    -nonfut.3pl small    -ep=emph be -cond.cvb -poss.1sg
+
+\tx ebdʒenden bisiwu,           ittiwu.
+\mb hebdʒen   bi -RI  -W        it  -RI  -W
+\ge funny      be -pst -poss.1sg see -pst -poss.1sg
+
+\ft They teased me, obviously I was funny when I was small.
+\ru Меня дразнили, видать, когда я была маленькая, я была смешная.
+\ph minučeː
+\gr Here the verb is clearly in the plural form, but it was mainly her sister who teased her-
+
+\id hebdjen_beseda_1541
+\ref IV excl
+\tx Tar   hebdʒeńe.
+\mb tarak hebdʒeń -(h)E
+\ge dist  be.funny  -excl
+\ft that's funny
+\ph
+\nt she just says this, it's just a habit, there is nothing really funny here
+\ru вот смешно
+\ELANBegin 00:46:36.570
+\ELANEnd 00:46:39.825
+\ELANParticipant NPZ
+
+\id hebdjen_beseda_1561
+\ref IV excl
+\tx hebdʒeńe      irek  tarak
+\mb hebdʒeń -(h)E irek  tarak
+\ge be.funny  -excl which dist
+
+\ft funny, this and that
+\ru смешно, всякое
+\ELANBegin 00:47:35.382
+\ELANEnd 00:47:37.896
+\ELANParticipant NPZ
+
+\id hebdjen_beseda_1638
+\ref IV excl
+\tx hebdʒeńe,     goːli?        Ọŋọtụ        ụtọndʒịddan.
+\mb hebdʒeń -(h)E goːn -LI      ọŋọt -W        ụtọn -D    -R(E) -n(I)
+\ge be.funny  -excl say   -imp.2sg nose      -poss.1sg itch     -prog -nonfut -3sg
+
+\ft it's funny, isn't it? my nose is itching
+\ph
+\gr in Sebjan they say both ụtań- and ụtọn- for 'to itch', some say ụtụn- (the standard form)
+\nt this refers to a Russian superstition that if your nose starts itching you will either drink yourself or you will meet a drunk
+person, i.e. an itching nose is linked to drinking vodka
+\ru смешно скажи, у меня нос чешется
+\ELANBegin 00:50:17.590
+\ELANEnd 00:50:20.450
+\ELANParticipant NPZ
+
+\id hebdjen_beseda_1657
+\ref IV excl
+\tx hebdʒeńe
+\mb hebdʒeń -(h)E
+\ge be.funny  -excl
+\ft funny
+\ru
+\ELANBegin 00:51:03.185
+\ELANEnd 00:51:04.565
+\ELANParticipant NPZ
+
+\id hebdjen_Bochilikan_etiken_059
+\ref (IV)
+\tx Dʒelgenkeldu       họː hebdʒen ọːdnị,  bekeččur          ininedʒiːllere,            ha ha ha ha ha
+\mb dʒelgenke -L  -DU  họː hebdʒen ọː  -n(I) bekeč -dʒUr       ińin -E-D     -L    -R(E)   ha ha ha ha ha
+\ge animal     -pl -dat very   funny    become -3sg  all    -ins.prfl.pl laugh -ep-prog -inch -nonfut ha ha ha ha ha
+
+\tx ha, goːniken.
+\mb ha  goːn -nIkEn
+\ge ha  say   -sim.cvb
+
+\ft And this amused the animals, and they all started laughing, hahaha.
+\ru А зверям так смешно стало, и все стали хохотать.
+\ru Зверям стало очень смешно, все смеялись.
+\gr hebdʒen is not a Sebjan form, it's literary, in Sebjan they would say hebdʒeńe ọːdnị
+\ELANBegin 347.920
+\ELANEnd 358.350
+\ELANParticipant
+
+\id hebdjen_Egorova_RM_Anin_1_097
+\ref ebdjende
+\nt
+\tx Ńanasị       ebdʒende        išo    bisin.
+\mb ńaːn -E=sI    hebdʒen    =DE  ešče  bi -RI -n(I)
+\ge and    -ep=emph interesting =ptl still.R be -pst -poss.3sg
+\ft And then this was interesting too.
+\ph
+\gr 30.01.13 (questions6, 30:30) bi ebdʒenem, iː ebdʒenni; when I asked "ja knigoj interesejusj" she said biː knigač ebdʒenem, then
+when I asked whether knigaw ebdʒenem would be OK, she said both can be said, then added: ja knigoj interesujusj i kniga mne
+interesna, iː knigaw ebdʒenni = tebe kniga interesna
+\ru И вот интересное еще было.
+\ev Нянаши эбдендэ еще бишин.
+\ELANBegin 00:09:58.870
+\ELANEnd 00:10:01.580
+\ELANParticipant
+
+\id hebdjen_Egorova_RM_Anin_1_105
+\ref ebdjen
+\nt
+\tx Ńan   tarịč   ebdʒen     nekren            "Pavlik emnin".
+\mb ńaːn tarak -Č  hebdʒen    nek -R(E)   -n(I) Pavel   em   -RI -n(I)
+\ge and    dist  -ins interesting do  -nonfut -3sg  Pavel   come -pst -poss.3sg
+\ft And this was interesting, "Pavlik has come".
+\ph
+\gr 30.01.13 (questions6, 34:00) they were intrigued that she knew Pavlik had come, even though she didn't know him; mundu
+ebdʒen nekren, mundu ebdʒenịč, nam interesno bylo = ebdʒende bisin, budet interesno = ebdʒende bidʒin;; wasn't able to get
+at the meaning of ebdʒen nekren, she just repeated that it meant 'interesno delaet'
+\ru И вот от этого интересно сделала: "Павлик пришел."
+\ev Нян тарич эбден нэкрэн "Павлик эмнин."
+\ELANBegin 00:10:36.800
+\ELANEnd 00:10:42.120
+\ELANParticipant
+
+\id hebdjen_Egorova_RM_Anin_1_150
+\ref ebdjende
+\nt
+\tx Ńan   ewiddʒoːtte               kụŋal    tara  ịačụttasị           ebdʒende,       iwiketen
+\mb ńaːn ewiː -D    -WEːČ -R(E)   kụŋa -L  tarak ịak -Č  =(W)UttE  =sI   hebdʒen    =DE  ewiː -k(E) -tEn
+\ge and    play  -prog -gnr    -nonfut child   -pl dist  what  -ins =indef    =emph interesting =ptl play  -nr   -poss.3pl
+
+\tx bisin.
+\mb bi -RI -n(I)
+\ge be -pst -poss.3sg
+
+\ft And the kids were playing something interesting, they had a game.
+\ru И играли дети во что-то интересное, игра у них была.
+\ev Нян эвиддёттэ куӈал тар ячутташи эбдендэ, ивикэтэн бишин.
+\ELANBegin 00:13:07.280
+\ELANEnd 00:13:13.030
+\ELANParticipant
+
+\id hebdjen_Egorova_RM_Yakutia032
+\ref inch.vb
+\ref 9:40
+\tx Ebdʒelliwu                        jụkagịralbị        ịamịwụtta   ọrọčịl    goːweːtte
+\mb hebdʒen      -L    -RI  -W        jukagir  -E-L   -J       ịamị =(W)UttE ọrọč -E-L   goːn -WEːČ -R(E)
+\ge be.interested -inch -pst -poss.1sg Yukaghir -ep-pl -prfl.sg why      =indef   Oroch     -ep-pl say   -gnr    -nonfut.3pl
+
+\tx "kụlịčar".
+\mb kụlịčan -L
+\ge mosquito     -pl
+
+\ft I was interested, why do the Evens call the Yukaghirs 'mosquitoes'.
+\ru Мне интересно стало, почему-то эвены называют юкагиров комарами.
+\ph goːwɐːttɐ
+
+\id hebdjen_Egorova_RM_Yakutia034
+\ref inch.vb
+\ref 09:46
+\tx Ńan   ebdʒelliwu,                       ịamị kụlịčar?    Ịamịwụt.
+\mb ńaːn hebdʒen      -L    -RI  -W        ịamị kụlịčan -L  ịamị =(W)UttE
+\ge again  be.interested -inch -pst -poss.1sg why      mosquito     -pl why      =indef
+
+\ft And I was interested, why 'mosquitoes'? (They answered) we don't know (just because).
+\ru Мне было интересно, почему комары? (Они говорят) иамивут. (=не знаем)
+\ph
+
+\id hebdjen_Egorova_RM_Yakutia078
+\ref ebdjende
+\ref 13:06
+\tx Tarma ebdʒendeč         uŋiddʒoːtte.
+\mb tarma hebdʒen    -E-Č   uŋ -E-D     -WEːČ -R(E)
+\ge but   interesting -ep-ins do  -ep-prog -gnr    -nonfut.3pl
+
+\ft But they do it very interestingly.
+\ru Но интересно делают.
+\ph
+
+\id hebdjen_Egorova_RM_Yakutia080
+\ref ebdjende
+\ref 13:17
+\tx Tar   ebdʒendeč         ńaːjawaːttịː                umekič.
+\mb tarak hebdʒen    -E-Č   ńaːja -WEːČ -R(E)       =Iː  umekič
+\ge dist  interesting -ep-ins sing    -gnr    -nonfut.3pl =emph very
+
+\ft There they sang so nicely, very well.
+\ru Так интересно поют
+\ph [ńaːjawaːttịịịịịịịịịị]
+\gr The long-drawn-out high last vowel on the verb expresses her admiration and delight (vosxishenie).
+
+\id hebdjen_Egorova_RM_Yakutia084
+\ref inch.vb
+\ref 13:41
+\tx Ebdʒelliwu.
+\mb hebdʒen      -L    -RI  -W
+\ge be.interested -inch -pst -poss.1sg
+
+\ft I was interested.
+\ru Мне стало интересно.
+\ph
+
+\id hebdjen_Egorova_RM_Yakutia087
+\ref inch.vb
+\ref 13:57
+\tx Ńanasị       tačịn       tar  ebdʒelliwun.
+\mb ńaːn -E=sI    tarọːčịn tar  hebdʒen      -L    -RI  -WUn
+\ge again  -ep=emph dist.qual      thus be.interested -inch -pst -poss.1pl.ex
+
+\ft Now we found that very interesting.
+\ru И вот так нам было интересно.
+\ph
+\gr
+
+\id hebdjen_Egorova_RM_Yakutia090
+\ref ebdjende
+\ref 14:14
+\tx Ebdʒendeč         umekič.
+\mb hebdʒen    -E-Č   umekič
+\ge interesting -ep-ins very
+
+\ft Very interesting.
+\ru Интересно очень.
+\gr
+
+\id hebdjen_Egorova_RM_Yakutia097
+\ref inch.vb
+\ref 14:53
+\tx Ńan   tačịn       tar  gọrụ tadụ     biddidʒur,           ebdʒelliwun,
+\mb ńaːn tarọːčịn tar  gọrụ tarak -DU  bi -D    -RIdʒI  -L  hebdʒen      -L    -RI  -WUn
+\ge again  dist.qual      thus long     dist  -dat be -prog -ant.cvb -pl be.interested -inch -pst -poss.1pl.ex
+
+\tx asalnụnda          aːmalkarịwụn.
+\mb asị -L  -ńUn =DE  haː -mElčI -RI  -WUn
+\ge woman -pl -com  =ptl know -acclr  -pst -poss.1pl.ex
+
+\ft And like that we were there for a long time, it was very interesting, and we met women.
+\ru И вот так мы долго были, нам было интересно, и с женщинами познакомились.
+\ph
+\gr It's a bit odd that she says they were there for a long time, since they were only there for 2 days; probably it seemed like a long
+time, because they had so many new experiences.
+\nt
+\gr 29.01.13 (questions, 31:30): aːmalkịriwụn = poznakomilisj; ja poznakomilasj = aːmalkarịwụ; aːmattịwụ = net (which would be
+with the reciprocal); but then said "aːmattịwu 'ja znalasj', ja s nimi imela delo"; aːmalkadʒịm = ja sejchas poznakomljusj; 
+teːleŋmečiddʒoːttu = beseduem, razgovarivaem; teːleŋmelkiddʒoːttu = netu; ičimeččoːttu = videtsja; itmelkeriwu = netu;
+aːmalkarịwụn = segodnja poznakomilisj; (34:30-35:30) buː ebdʒelliwun = nam stalo interesno; buː Jakutskajla ebdʒelliwun; bu
+knigaw ebdʒelliwun = kniga nam interesno; kniga mindu ebdʒenen(?) = kniga mne interesno; bi knigaw ebdʒellem = kniga
+mindu ebdʒeni (ona mne interesno)
+\nt
+\gr 30.01.2013 (questions4, 1:40-) checked with RME, and aːmalkarịwụn has two meanings, 'bystro nauchitsja' and 'poznakomit'sja,
+uznatj drug druga', aːmattịwụn = my v proshlom znalisj, my sejchas znaemsja = aːmattap, I tried to find out whether
+aːmalkarịwụn 'poznakomilisj' might have a meaning of superficiality, but even if you met someone 2 years ago and are still
+friends, you would say "aːmalkamattụ" - though in grammar comment of Axmetova_VI_childhood_63 I do say "aːmalkamattaj =
+ottenok bystro poznakomit'sja"
+\nt
+
+\id hebdjen_Evdokija_Grigorevna_Managịč_084
+\ref ebdjende
+\tx Ebdʒende     iːniwu         ọːdịn.
+\mb hebdʒen =DE  iːni -W        ọː  -RI  -n(I)
+\ge funny    =ptl life  -poss.1sg become -pst -poss.3sg
+\ft My life was interesting.
+\ELANBegin 00:08:14.676
+\ELANEnd 00:08:18.329
+\ELANParticipant EGA
+\ev
+\ru Весело стало жить.
+
+\id hebdjen_Evdokija_Grigorevna_Managịč_100
+\ref ebdjen dat.exp
+\tx Mindu        ebdʒeńeːj      vse,  vse   vremja, ereger ńọːmattịwụ
+\mb min     -DU  hebdʒen    =eː  vse   vse   vremja  ereger ńọːn -mEČ -RI -W
+\ge 1sg.obl -dat interesting =emph all.R all.R time.R  always run.away -rec  -pst -poss.1sg
+
+\tx ọrtakịda.
+\mb ọrọn          -t(E)kI =DE
+\ge domestic.reindeer -all    =ptl
+
+\ft I was interested, all the time I ran to the reindeer herd.
+\ph minduK ebʤeńej
+\gr biː ńọːnịwụ = ja (odin raz) ja ubežala, biː ńọːmattịwụ = ja (mnogo raz) ubežala, biː ńọːnam = ja ubegaju  (trans.file
+Amganov_Twajan_trans1_RME, 01:05) ńọːmattịwụ can also mean 'run to each other, begat' drug k drugu', so it is the Reciprocal
+suffix, not a variant of the Multiplicative --> so this seems as if the reciprocal has a multiplicative meaning as well
+\ELANBegin 00:10:15.953
+\ELANEnd 00:10:22.934
+\ELANParticipant EGA
+\ev
+\ru Мне интересно, все время бегала в табун.
+
+\id hebdjen_Indanova_ON_Moscow16
+\ref ebdjende
+\tx Ečiwuda                   ịawda         buteːnedde,              ebdʒeːnde      umekič tala
+\mb e   -RI  -E-W         =DE  ịak -W   =DE  buteːn -E-D     -R       hebdʒen    =DE  umekič tarak -(dU)LE
+\ge neg -pst -ep-poss.1sg =ptl what  -acc =ptl be.ill  -ep-prog -neg.cvb interesting =ptl very    dist  -loc
+
+\tx bisin.
+\mb bi -RI  -n(I)
+\ge be -pst -poss.3sg
+
+\ft Nothing, I wasn't ill, it was interesting there.
+\ru Ничего, не болела, весело там было.
+\ph
+\gr According to Valentina Innokent'evna, it should be "ečiwu ịatta buteːnedde" 'ja ničem ne bolela', i.e. the Instrumental case, not
+the Accusative. \\ ja boleju = bi buteːneddem; ja bolela = bi buteːneddiwu \ buteːnniwu; ty boleeš' = buteːnenni; ty ne boleeš'?
+= ečis buteːnne? ečis buteːnedde
+
+\id hebdjen_Kejmetinova_AA_headmistress_006
+\ref inch.vb
+\tx Biː dʒọmkattịdʒị delbi  hebdʒelliw                        meːni      ee.
+\mb biː dʒọmkat -RIdʒI   delbi  hebdʒen      -L    -RI -W         meːni      ee
+\ge 1sg  think      -ant.cvb  very.Y be.interested -inch -pst -poss.1sg refl.sg.acc eh
+
+\ft Having thought, I was very amazed and became amused about myself:
+\ph
+\gr hebdʒelliwu meːni = smejalasj nad soboj; ja nachinala schitatj zabavnym
+\nt
+\ELANBegin 00:01:04.980
+\ELANEnd 00:01:10.120
+\ELANParticipant
+\ru Я подумав, очень удивилась и смешно стало про себя:
+
+\id hebdjen_Kejmetinova_AA_headmistress_009
+\ref IV excl poss.marked
+\tx O  rajọnọ hebedujušejwen                  kojeːtniken     haːŋčịrịw      biː haːmattịw           i
+\mb    rajọnọ zavedujuščij -W   -E-n(I)      kojeːt -nIkEn   haːŋčị -RI  -W   biː haːmat -RI  -W        i
+\ge    RajONO.RU  director.R     -acc -ep-poss.3sg look.at -sim.cvb laugh       -pst -poss1sg  laugh   -pst -poss.1sg and.R
+
+\tx nọŋan tarịt minu          ečin      goːnin:             haːmattịčan         asịtkan, ịak
+\mb nọŋan tarịt  min     -W   erroːčin goːn -RI  -n(I)     haːmat -RI       -čEn asatkan    ịak
+\ge 3sg      then     1sg.obl -acc prox.qual  say   -pst -poss.3sg laugh   -impf.ptc -dim  girl       what
+
+\tx hebdʒeːnis?             ịaw      haːmačаnni     ?
+\mb hebdʒeń -(h)E -s(I)     ịak -W   haːmat -E   -nrI *?
+\ge be.funny  -excl -poss.2sg what  -acc laugh   -ep  -2sg ***
+
+\ft Having looked at the head of the district public education department, I smiled and laughed, and he said: smiling girl, you are
+so funny!   Why are you laughing?
+\ph
+\gr kojeːtniken haːŋčịrịw, haːmattịw - he is watching, she is laughing, the "laugh" verbs are not complements of kojeːtniken, if they
+were, it would be haːŋčịrịwụ, haːmattịwụ kojeːtniken; haːŋčịdaj = dolgo xoxotatj, haːmattaj = mnogo xoxotatj, so those two
+verbs would appear to be near synonyms; ịak hebdʒeːnis = kakoj ty smeshnoj, ja smeshnaja = biː hebdʒeːniw; should be (in
+Sebjan dialect) ịak hebdʒeːńes, ịak hebdʒeːńew, ịak hebdʒeńen "kakoj ty, ja, on smeshnoj"; kakoj on byl smeshnoj = ịak
+hebdʒeːńen bihin; something about this being a participle of stative verbs - I wonder if it's what I gloss "exclamative", the -(h)E
+form? though I haven't had that with person marking yet
+\gr asked on 070312: hebdʒeńdej = bytj smešnym; ọbdụhaw - one cannot say this, but one could say ịak ọbdụhaw 'kakaja ja
+utomitelnaja', ịak hebdʒeńew 'kakaja ja smeshnaja', so ịak hebdʒeńes is the "exclamative" form of hebdʒeń 'bytj smeshnym'
+\ELANBegin 00:01:21.870
+\ELANEnd 00:01:40.180
+\ELANParticipant
+\ru Я, посмотрев на заведующего Районо, улыбнулась и засмеялась,  а он мне  сказал: улыбчивая девочка, какая ты смешная! что
+ты смеешься?
+
+\id hebdjen_Krivoshapkina_Ija_memories_039
+\ref IV ptcp; III inch.vb
+\tx Nahaː ịrkaŋnarị,        hebdʒehni          etikekken      bihin,            bekebbutnen           ewiniken,
+\mb nahaː ịrkaŋnị -RI       hebdʒeń -RI       etikeːn -kkEn bi -RI  -n(I)     bekeč -W   -tEn      ewiː -nIkEn
+\ge very.Y tease        -impf.ptc be.funny  -impf.ptc old.man  -dim  be -pst -poss.3sg all    -acc -poss.3pl play  -sim.cvb
+
+\tx irew       taraw      aččaw     adʒịtamdas     ukčenniken,    hebdʒelukeŋnerin.
+\mb irek  -W   tarak -W   ačča -W   ajdịt -E  -mdEs ukčen -nIkEn   hebdʒen      -L    -WkEn -Gr(E) -RI -n(I)
+\ge which -acc dist  -acc neg    -acc truth   -ep -sml  tell   -sim.cvb be.interested -inch -caus -hab   -pst -poss.3sg
+
+\ft He was a very playful, funny old man, he entertained us all by telling this and that which didn't exist as if it were the truth.
+\ph
+\gr hebdʒelukeŋnerin = on nas zastavljaj nachinatj schitatj zabavnym
+\ru Очень был шутливый, смешной старик, всех шутя веселил, рассказывая о том, что не было, как вправду.
+\ELANBegin 00:03:41.420
+\ELANEnd 00:03:49.580
+\ELANParticipant
+
+\id hebdjen_Krivoshapkina_Ija_memories_123
+\ref IV ptcp
+\tx Tarak omneken        tar   nọŋan hebdʒehni          bihin             adʒịt, ịaw
+\mb tarak omen -REkEn    tarak nọŋan hebdʒeń -RI       bi -RI  -n(I)     ajdịt   ịak -W
+\ge dist  one  -iter.adv dist  3sg      be.funny  -impf.ptc be -pst -poss.3sg truth     what  -acc
+
+\tx ukčendekun.
+\mb ukčen -DE       -W
+\ge tell   -purp.cvb -poss.1sg
+
+\ft One day he was very funny, really, let me tell about that.
+\ru Однажды он был очень смешной, по-настоящему, давай это расскажу.
+\ph
+\gr
+\nt
+\ELANBegin 00:11:41.280
+\ELANEnd 00:11:44.770
+\ELANParticipant
+
+\id hebdjen_Krivoshapkina_Ija_memories_132
+\ref IV ptcp
+\tx Nahaː hebdʒehni          bihin.
+\mb nahaː hebdʒeń -RI       bi -RI  -n(I)
+\ge very.Y be.funny  -impf.ptc be -pst -poss.3sg
+
+\ft He/it was very funny.
+\ru Очень был смешной.
+\ph
+\gr
+\nt Both the uncle and the episode were funny.
+\ELANBegin 00:12:57.910
+\ELANEnd 00:13:00.020
+\ELANParticipant
+\ru
+
+\id hebdjen_Krivoshapkina_Ija_memories_202
+\ref IV ptcp
+\tx Abịga     dʒugulin                hebdʒehniw            omen erbečem        haːram,
+\mb abaga       dʒugu -(dU)LI -n(I)     hebdʒeń -RI -W       omen erroːčin -W   haː -R(E)   -m
+\ge grandfather about  -prol   -poss.3sg be.funny -ipf.ptc -acc one  prox.qual  -acc know -nonfut -1sg
+
+\tx akmụ                  ukčeŋgeren.
+\mb akan          -W        ukčen -Gr(E)   -E-n(I)
+\ge older.brother -poss.1sg tell   -hab     -ep-3sg
+
+\ft About a bear I know something funny, my older brother tells that.
+\ru Про медведя я одно смешное такое знаю, мой старший брат рассказывает.
+\ELANBegin 00:18:38.770
+\ELANEnd 00:18:42.830
+\ELANParticipant
+
+\id hebdjen_meme_ded_Managič_136
+\ref ebdjende
+\tx Ranše       ebdʒende        bisin.
+\mb ranše       hebdʒen    =DE  bi -RI -n(I)
+\ge previously.R interesting =ptl be -pst -poss.3sg
+\ft Previously it was more interesting.
+\ELANBegin 00:12:33.660
+\ELANEnd 00:12:36.740
+\ELANParticipant NFI
+\ev
+\ru Раньше интереснее было.
+
+\id hebdjen_Stepanova_ZA_sibling_021
+\ref III inch.vb
+\tx Tarakam       tar   itteken                    ŋoːldegukken     ečin      ịtalkan       ńọːbatịkkan   ịtalkan,
+\mb tarakam       tarak it  -REk      -E-n(I)      ŋoːldeguke -kkEn erroːčin ịtịː -lkEn ńọːbatị -kkEn ịtịː -lkEn
+\ge in.those.days dist  see -cond.cvb -ep-poss.3sg light        -dim  prox.qual  face      -prop white         -dim  face      -prop
+
+\tx meretikken   ịtalkan        kụŋakakan   tegek            tegettiben                                   ittidʒi
+\mb mereti -kkEn ịtịː -lkEn  kụŋa -kEkEn teg      -E-Č   teg      -E-Č   -RI       -W   -E-n(I)      it  -RIdʒI
+\ge circle -dim  face      -prop  child   -dim   sit.down -ep-res sit.down -ep-res -impf.ptc -acc -ep-poss.3sg see -ant.cvb
+
+\tx họː hebdʒelče                 bihin,            itteken                    bekeččenni           ečin
+\mb họː hebdʒen      -L    -čE    bi -RI  -n(I)     it  -REk      -E-n(I)      bekeč -čEn -n(I)     erroːčin
+\ge very   be.interested -inch -pf.ptc be -pst -poss.3sg see -cond.cvb -ep-poss.3sg all    -dim  -poss.3sg prox.qual
+
+\tx uhilkekken.
+\mb usi  -lkEn -kkEn
+\ge rope -prop -dim
+
+\ft Then when she saw a little child sitting with a very light face, with a white face, with a round face she found it quite funny,
+when she saw (him) covered with ropes.
+\ru Тогда вот когда она увидела с таким вот очень светленьким лицом, беленьким лицом, с кругленьким лицом, увидев что
+сидит ребеночек очень ей было смешно (она стала считать забавным), весь так в веревочках.
+\ph
+\gr
+\nt
+
+\id hebdjen_Tylkanova_NA_rabotajushaja_017
+\ref inch.vb
+\tx Nan    tara  urip eniŋeːlbu               inimedʒilliten                         tarụ     tar,
+\mb ńaːn tarak urip eniŋeː    -L  -W        inim  -E  -D    -E-L     -RI  -tEn      tarak -W   tarak
+\ge and    dist  this grandmother -pl -poss.1sg smile -ep -prog -ep-inch -pst -poss.3pl dist  -acc dist
+
+\tx ebdʒelliten.
+\mb hebdʒen      -L    -RI  -tEn
+\ge be.interested -inch -pst -poss.3pl
+
+\ft And these grannies smiled, they thought that was interesting.
+\ph
+\gr
+\nt The grannies thought it was interesting or funny that a little child every evening listened to their constant questions about
+where Irina was going, and that in the end she couldn't hold back and spoke up; this kind of behaviour (a child making a
+judgement/statement about an adult's behaviour) was, however, not really condoned, so the grannies didn't laugh out loud,
+only smiled a bit to themselves.
+\ELANBegin 00:01:39.570
+\ELANEnd 00:01:46.490
+\ELANParticipant
+\ev
+\ru И вот эти бабушки стали смеяться, им было интересно.
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Kamchatka2009/sound_from_video/Tylkanova_NA_Esso_130609_rabotajushaja.wav
+\ELANMediaMIME audio/x-wav
+
+\id hebdjen_Zabolotskaja_TA_HealingDreamsTaboos_165
+\ref ?
+\tx Atịkardụla        hebdʒenen               họː biwren,             tọmkačaŋatnan           awhatnan
+\mb atịkan  -L  -(dU)LE hebdʒen    -E-n(I)      họː bi -Gr(E) -n(I)     tọmkača -GE    -tEn      awsa -tEn
+\ge old.woman -pl -loc    interesting -ep-poss.3sg very   be -hab   -poss.3sg thread     -desig -poss.3pl bag  -poss.3pl
+
+\tx biwren,             ọttọ  dʒajutkarar                    nọŋartan.
+\mb bi -Gr(E) -n(I)     ọttọn dʒaj -U    -Č  -Gr(E) -E-r    nọŋartan
+\ge be -hab   -poss.3sg dp.Y      hide  -caus -res -hab   -ep-3pl 3pl
+
+\ph hebdʒeńen
+\nt нитки
+\ELANBegin 00:17:57.620
+\ELANEnd 00:18:07.230
+\ELANParticipant
+\ev Атикардула хэбденен хо биврэн, томкачаӈатнан авхатнан биврэн, отто  дьяюткарар ноӈартан
+\ru У бабушек бывали очень интересные, там были нитки, женские сумочки, но они  прятали это
+
+\id hebdjen_ZAS_jubki_Aniwrin_017
+\ref IV excl
+\tx Tačịn       họː hebdʒeje       bihin.
+\mb tarọːčịn họː hebdʒeń -(h)E bi -RI -n(I)
+\ge dist.qual      very   be.funny  -excl be -pst -poss.3sg
+\ft That was very funny.
+\ru так было очень смешно.
+\ELANBegin 00:01:23.890
+\ELANEnd 00:01:26.700
+\ELANParticipant
+
+\id hebdjen_ZAS_jubki_Aniwrin_046
+\ref IV excl
+\tx Tara  họː hebdʒeje       bihin
+\mb tarak họː hebdʒeń -(h)E bi -RI -n(I)
+\ge dist  very   be.funny  -excl be -pst -poss.3sg
+
+\ft That was very funny.
+\ph I do not hear bihin, but IVK heard it on two very different occasions
+\ru Очень смешно было.
+\ELANBegin 00:03:19.120
+\ELANEnd 00:03:21.270
+\ELANParticipant
+
+\id hebdjen_ZAS_jubki_Aniwrin_047
+\ref IV excl
+\tx Tačịn       hebdʒeje.
+\mb tarọːčịn hebdʒeń -(h)E
+\ge dist.qual      be.funny  -excl
+\ft So funny.
+\ph hebdʒije, with a sibilant following which is probably just her drawing in her breath
+\ru Так смешно.
+\ELANBegin 00:03:21.270
+\ELANEnd 00:03:23.050
+\ELANParticipant
+
+\id hebdjen_3_women_3_songs_095
+\ref III cvb
+\tx muhomniken,    hebdʒeniken,          tala  dʒulu         mut    meddʒip
+\mb musem -nIkEn   hebdʒen      -nIkEn   talal dʒul     -W   mut    med    -DʒI -p
+\ge smile -sim.cvb be.interested -sim.cvb shine happiness -acc 1pl.in notice -fut  -1pl.in
+\ft smiling, having fun, there will will learn what happiness is
+\ru улыбаясь веселясь, там счастье мы познаем
+\ELANBegin 00:05:06.210
+\ELANEnd 00:05:12.750
+\ELANParticipant
+
+\id herken_beseda_1870
+\ref adjr -tE
+\tx Herkelete...
+\mb herken     -L    -E  -tE
+\ge be.ashamed -inch -ep -adjr
+
+\ft he's shy
+\ru стеснительный
+\ELANBegin 00:56:12.130
+\ELANEnd 00:56:12.560
+\ELANParticipant NPZ
+
+\id herken_beseda_1872
+\ref adjr -tE
+\tx Herkete
+\mb herken     -tE
+\ge be.ashamed -adjr
+
+\ft shy
+\ru
+\ELANBegin 00:56:13.820
+\ELANEnd 00:56:14.415
+\ELANParticipant NPZ
+
+\id herken_beseda_1947
+\ref adjr -tE
+\tx nahaː herkete
+\mb nahaː herkeń    -tE
+\ge very.Y feel.shame -adjr
+
+\ft he's very shy
+\ru очень стеснительный
+\ELANBegin 00:58:01.110
+\ELANEnd 00:58:01.506
+\ELANParticipant LNZ
+
+\id herken_beseda_1959
+\ref adjr -tE
+\tx Emie   herkete          uručun
+\mb emie   herkeń    -tE   ureːčin
+\ge also.Y feel.shame -adjr it.seems
+
+\ft he's also shy, it seems
+\ru тоже стеснительный кажется
+\ELANBegin 00:58:16.116
+\ELANEnd 00:58:17.934
+\ELANParticipant LNZ
+
+\id herken_beseda_1960
+\ref III vb
+\tx herkendʒin            hni,           haldʒụha          goːjeːdʒi...
+\mb herken     -DʒI -n(I) e -R(E) -n(I)  haldʒụ      -(h)E goːn -jEː -DʒI
+\ge be.ashamed -fut -3sg   neg -nfut -3sg be.embarrassed -excl say   -aug  -ins.prfl.sg
+
+\ft he'll be shy, will say "it's embarrassing"
+\ru он же будет стесняться, скажет стыдно
+\ELANBegin 00:58:17.934
+\ELANEnd 00:58:19.020
+\ELANParticipant NPZ
+
+\id herken_beseda_1961
+\ref III vb
+\tx Hontedu    eter           herkene!
+\mb honte -DU  e   -t(E) -r   herken     -R
+\ge other -dat neg -fut  -3pl be.ashamed -neg.cvb
+
+\ft for other things he won't be shy!
+\ph
+\nt this is RDA's son-in-law, and she means that he's not shy when it comes to doing naughty things
+\ru на другое (плохое) не будет стеснятья
+\ELANBegin 00:58:19.020
+\ELANEnd 00:58:19.920
+\ELANParticipant RDA
+
+\id herken_beseda_1963
+\ref III vb
+\tx Ireŋur             taraŋụr          ụlkụdawụr             eter           herken.
+\mb irek  -ŋ  -WUr     tarak -ŋ  -WUr     ụlkụ -DE -WUr           e   -t(E) -r   herkeń    -R
+\ge which -aln -prfl.pl dist  -aln -prfl.pl stir     -purp.cvb -prfl.pl neg -fut  -3pl be.ashamed -neg.cvb
+\ft they won't be ashamed to wave this and that of theirs here and there 
+\ph
+\gr this does have a sexual undertone, guljaet
+\ru всякое свое туда сюда размахивать не будут стесняться
+\ELANBegin 00:58:21.666
+\ELANEnd 00:58:23.490
+\ELANParticipant RDA
+
+\id herken_Kejmetinova_AA_headmistress_017
+\ref vb.inch
+\tx Tarịt bi         muhomohnidʒi              ọːngụl   herkelliwde.
+\mb tarịt biː       musem -E   -s(E)n -RIdʒI  ọːn =(W)Ul herken     -L    -RI -W         =DE
+\ge then    1sg        smile -ep  -lim   -ant.cvb how    =indef be.ashamed -inch -pst -poss.1sg =ptl
+
+\ft Then having smiled to myself, I felt shy.
+\nt muhomdej -- улыбаться
+\qu
+\ELANBegin 00:02:40.790
+\ELANEnd 00:02:46.400
+\ELANParticipant
+\ru Тогда я улыбнувшись про себя, я застеснялась
+
+\id herken_Kejmetinova_AA_headmistress_021
+\ref IV excl
+\tx Biː istorik           bihem             goːnem,           direktor   bihem           ehem
+\mb biː istorik           biː -R(E)   -m   goːn -R(E)   -m   direktor   bi -R(E)   -m   e   -R(E)   -m
+\ge 1sg  history.teacher.R 1sg  -nonfut -1sg say   -nonfut -1sg director.R be -nonfut -1sg neg -nonfut -1sg
+
+\tx goːne,        herkeje          bihin.
+\mb goːn -R       herkeń    -(h)E bi -RI  -n(I)
+\ge say   -neg.cvb feel.shame -excl be -pst -poss.3sg
+
+\ft I'm a historian, I said, I didn't say that I'm the headmaster, I was ashamed.
+\gr mne bylo stydno = mindu herkeje bihin, mne sejchas stydno = mindu herkehni, mindu herkeje, herkendej is used only in 3sg,
+experiencer in dative
+\ELANBegin 00:03:10.990
+\ELANEnd 00:03:16.250
+\ELANParticipant
+\ru Я историк, сказала,  что я директор, я не сказала, стыдно было.
+
+\id herken_Kejmetinova_AA_headmistress_075
+\ref III vb; IV excl
+\tx Tarịt bi   herkenem,               ịamman       tutundʒim                tar   kọntọrala,
+\mb tarịt biː herken     -R(E) -m     ịadman       tut -E   -n    -DʒI -m   tarak kọntọra -(dU)LE
+\ge then    1sg  be.ashamed -nonfut -1sg to.what.extent run -ep  -mult -fut  -1sg dist  office.R    -loc
+
+\tx herkejekie,            tar   ịak akmụda                     bihiken.
+\mb herkeń    -(h)E =kE   tarak ịak akan          -W        =DE  bi  -REk      -E   -n(I)
+\ge feel.shame -excl =emph dist  what  older.brother -poss.1sg =ptl  be -cond.cvb -ep  -poss.3sg
+
+\ft Then I felt ashamed, how often will I run to that office, that is too shameful, even if he is my older brother.
+\ph
+\gr even though he's my brother = akmụda bihiken/bihiklen (the ịak is not necessary), and bihiklen is better; i.e. "even though she's
+my mother" = ejmude bihiklen
+\nt
+\ELANBegin 00:08:58.999
+\ELANEnd 00:09:05.160
+\ELANParticipant
+\ru Потом я смутилась, сколько я буду бегать в контору, стыдно, даже если там  мой брат.
+
+\id herken_Kejmetinova_AA_headmistress_093
+\ref III vb
+\tx Bi   ehem             haːr,        - ehem             goːne,        herkenem                vse   že.
+\mb biː e   -R(E)   -m   haː -R       - e   -R(E)   -m   goːn -R       herken     -R(E)   -m   vse   že
+\ge 1sg  neg -nonfut -1sg know -neg.cvb - neg -nonfut -1sg say   -neg.cvb be.ashamed -nonfut -1sg all.R ptl.R
+
+\ft I didn't say that I don't know, I was ashamed, after all.
+\nt
+\ph ehem [ohom]
+\ELANBegin 00:10:35.300
+\ELANEnd 00:10:39.528
+\ELANParticipant
+\ru О том, что я не знаю, я не сказала, стыдилась
+
+\id herken_Stepanov_AA_den'_olenovoda_10
+\ref III vb
+\tx Biː ebedit        kamera dʒulgidedun               herkeŋnerem,                  teːmi    họːjat
+\mb biː ewen -DI -Č  kamera dʒul -gIdE -DU  -n(I)     herkeń    -Gr(E) -R(E)   -m   teːmi    họːja -Č
+\ge 1sg  Even -vr -ins camera front -part -dat -poss.3sg be.ashamed -hab   -nonfut -1sg therefore many     -ins
+
+\tx họːtawraram                   ńọkadịt       ńụčịdịt     torelbu            torehŋererem.
+\mb họːta     -Gr(E) -R(E)   -m   ńọka -DI   -Č  ńụča -DI   -Č  tore  -n  -L  -W   tore  -s(E)n   -Gr(E) -m
+\ge get.confused -hab   -nonfut -1sg Sakha   -adjr -ins Russian  -adjr -ins speak -nr -pl -acc speak -lim     -hab   -1sg
+
+\ft I am shy (about speaking) Even in front of the camera, therefore I make many mistakes, say Sakha and Russian words.
+\ru Я по-эвенски перед камерой стесняюсь, поэтому много ошибаюсь, говорю якутские и русские слова.
+\ph
+\gr
+\nt
+
+\id herken_Stepanov_AA_den'_olenovoda_11
+\ref IV ptcp dat.exp
+\tx Otton kameradu    omneken        dʒoːreken       toreče       bejdu    họː herkehnimdes,
+\mb otton kamera -DU  omen -REkEn    dʒoːr -REkEn    tore  -čE    bej -DU  họː herkeń    -RI       -mdEs
+\ge dp.Y  camera -dat one  -iter.adv two     -iter.adv speak -pf.ptc man -dat very   be.ashamed -impf.ptc -sml
+
+\tx ọnọn    če...
+\mb ọnọn    če
+\ge therefore.Y ptl.Y
+
+\ft Well, a person who has spoken in front of a camera once or twice is very shy, therefore...
+\ru Ну, говорившему 1, 2 раза в камеру очень стеснительно/стыдно, поэтому...
+\ph
+\gr (March 2008) herkehnimdes - this looks like herken-s(E)n-RI, Limitative + Imperfective Participle of the root herken-
+'be.ashamed'; herkehnimdes = kak budto stydno; (March 2010) I have now analysed herkehnimdes as the imperfective
+participle of a stative verb herken 'be ashamed', since this fits the pattern for stative verbs, cf. mahŋị, ńahmị etc
+\nt
+
+\id herken_ZAS_jubki_Aniwrin_013
+\ref III cvb
+\tx Nọŋan tar   muttuk         ịamị,         herkemi              tar   jụbkajị      eniken
+\mb nọŋan tarak mut    -DUk(U) ịa    -mI       herken     -mI       tarak jubka   -J       e   -nIkEn
+\ge 3sg      dist  1pl.in -abl    do.what -cond.cvb be.ashamed -cond.cvb dist  skirt.R -prfl.sg neg -sim.cvb
+
+\tx nụkra           tarịt ịala,       ịak herdelen                    tegekkeren,                   ịak hịakịta
+\mb nụk    -R       tarịt ịak -(dU)LE ịak her    -gIdE -(dU)LE -n(I)  teg      -E-Č   -Gr(E) -n(I) ịak hịakịta
+\ge take.off -neg.cvb then    what  -loc    what  bottom -part -loc -poss.3sg sit.down -ep-res -hab   -3sg  what  tree
+
+\tx herdelen.
+\mb her    -gIdE -(dU)LE -n(I)
+\ge bottom -part -loc -poss.3sg
+
+\ft Feeling shy in front of us he didn't take off his skirt, then he sits under a tree.
+\ru Он это нас стесняясь не снимая юбку свою, потом он сидит под деревом.
+\ELANBegin 00:00:58.920
+\ELANEnd 00:01:10.300
+\ELANParticipant
+
+\id mian_beseda_1553
+\ref III vb
+\tx Mịangarap.                Tara  ečin      goː  "Ọːn ehes             haːra,       meːnuːrńun,
+\mb mịan       -Gr(E) -p      tarak erroːčin goːn ọːn  e   -R(E)   -s   haː -R       meːn -WUr     =ńUn
+\ge be.surprised -hab   -1pl.in dist  prox.qual  say   how     neg -nonfut -2pl know -neg.cvb refl  -prfl.pl =restr
+
+\tx minŋi             ịak ehni           hol, ịak ịak goːŋnen"
+\mb min     -ŋI       ịak e -R(E) -n(I)  hel  ịak ịak goːn -Gr(E) -n(I)
+\ge 1sg.obl -pred.poss what  neg -nfut -3sg iron what  what  say   -hab   -3sg
+
+\ft we are surprised, then she "how can you not know, you (think) only about yourselves, mine is what, right, iron", she says.
+\ph
+\nt LNZ has an iron stove at home, not a brick stove. These iron stoves need to be fired continuously to keep the house warm,
+because as soon as the fire dies down,the stove cools off and  so does the house. (In contrast, brick stoves retain the heat for a
+long time, so that it is sufficient to heat once or twice a day, usually mornings and evenings, three times in very cold weather.)
+This means that people with iron stoves need a lot more firewood than those with brick stoves (and even those need a lot of
+wood, about four truckloads full for a household with a brick stove to survive the winter). Since LNZ is a single mother, she
+has no man to provide her with the much-needed firewood and therefore has to resort to such demeaning habits as going to ask
+others for wood (1431-1499) or picking it up off the street.
+\ru мы удивляемся, на это так говорит "как вы не знаете, вы только о себя, у меня же железная (печка)" говорит
+\ELANBegin 00:47:08.125
+\ELANEnd 00:47:14.028
+\ELANParticipant NPZ
+
+\id mian_Egorova_RM_Yakutia023
+\ref III vb
+\tx Bi   taraw      mịanịwụ,              umekič ajịč.
+\mb biː tarak -W   mịan       -RI  -W        umekič aj   -E-Č
+\ge 1sg  dist  -acc be.surprised -pst -poss.1sg very    good -ep-ins
+\ft That surprised me, (it was) very good.
+\ru Я очень удивилась, очень хорошо.
+
+\id mian_Kejmetinova_AA_headmistress_074
+\ref III vb
+\tx Ịak tarak, ọːn  nomerelken          biwreče?         dʒiŋ mịanam.
+\mb ịak tarak  ọːn  nomer    -E   -lkEn bi -Gr(E) -čE    dʒiŋ mịan       -R(E) -m
+\ge what  dist   how     number.R -ep  -prop be -hab   -pf.ptc very.Y be.surprised -nonfut -1sg
+
+\ft "What is that, how can it have a number?", I was really surprised.
+\nt
+\ELANBegin 00:08:53.899
+\ELANEnd 00:08:58.999
+\ELANParticipant
+\ru Что это? как так, с номером бывают?
+
+\id mian_Kirillina_KK_dve_skazki_033
+\ref III vb
+\tx Egdʒenet       mịanča,           iduk          erek asatkan emnen             goːniken.
+\mb egdʒen -E-Č   mịan       -čE    irek  -DUk(U) erek asatkan em   -R(E) -n(I)  goːn -nIkEn
+\ge big     -ep-ins be.surprised -pf.ptc which -abl    prox girl    come -nonfut -3sg say   -sim.cvb
+
+\ft He was very surprised, where did this girl come from.
+\ph
+\gr go:niken as marker of complement of emotion verbs
+\ru Очень удивился, откуда эта девушка пришла.
+\ELANBegin 00:02:48.930
+\ELANEnd 00:02:51.980
+\ELANParticipant
+
+\id mian_Kirillina_KK_Emcheni_028
+\ref III vb
+\tx Kotlečen    kụŋa delb... egdʒenet       mịanča.
+\mb kotlen -čEn kụŋa delbi   egdʒen -E-Č   mịan       -čE
+\ge small  -dim  child   very.Y  big     -ep-ins be.surprised -pf.ptc
+
+\ft The small child was very surprised.
+\ph
+\gr here, IVK wrote kotledčen, even though KKK says kotlečen; kotledčen is a frozen form of the adjective with the contrastive
+clitic -dmEr, "tot kotoryj malen'kij" which is used only with kotledčen, but is more correct than kotlečen and is usually used;
+and even though the meaning is "tot kotoryj malen'kij" and here the adjective is used as a modifier of kụŋa, this is the correct
+and better way of saying it, kotledčen kụŋa (quest_emcheni_1_63_050312, 14:00-15:15)
+\nt note how she corrected herself from using the Sakha copy delbi to the standard Even egdʒenet
+\ru Маленький ребенок сильно удивился.
+\ELANBegin 00:02:47.740
+\ELANEnd 00:02:52.030
+\ELANParticipant
+
+\id mian_Kirillina_KK_Emcheni_031
+\ref IV ptcp
+\tx Egdʒen mịahmịw                 ittem,           oginuk        eːrbeːčil    emnidʒur         ikeːniken
+\mb egdʒen mịam -RI -W               it  -R(E) -m     ogi -(I)nUk   eːrbeč -E-L   em   -RIdʒI -L   ikeː -nIkEn
+\ge big     be.surprising -ipf.ptc -acc see -nonfut -1sg top -advb.abl goose    -ep-pl come -ant.cvb -pl sing  -sim.cvb
+
+\tx degelle,              goːnče.
+\mb deg -E  -L    -R(E)   goːn -čE
+\ge fly -ep -inch -nonfut say   -pf.ptc
+
+\ft "I saw something very surprising, from above geese came and flew away singing", he said.
+\ph
+\ru Я видел очень удивительное, сверху гуси прилетев, с песнями улетели, сказал.
+\ELANBegin 00:02:57.830
+\ELANEnd 00:03:03.780
+\ELANParticipant
+
+\id mian_Krivoshapkina_Ija_memories_153
+\ref III vb
+\tx Delbi  mịanam.
+\mb delbi  mịan       -R(E)   -m
+\ge very.Y be.surprised -nonfut -1sg
+\ft I was very much surprised.
+\ru Очень удивилась.
+\ELANBegin 00:14:27.720
+\ELANEnd 00:14:30.010
+\ELANParticipant
+
+\id mian_Solodikova_RM_pear_story18
+\ref dur kcI, vb
+\tx Mịaŋčịdʒịllịn,                          awụskị      ńan   tarak uŋen
+\mb mịan       -(k)čI -D    -E-L     -RI -n(I)      aw    -skI      ńaːn tarak uŋ       -E-n(I)
+\ge be.surprised -dur    -prog -ep-inch -pst -poss.3sg where -advb.all again  dist  something -ep-poss.3sg
+
+\tx gịaŋan               ńan   urrin               uŋeŋen                       tar   čakčalni
+\mb gịa -ŋ  -E-n(I)      ńaːn hor  -RI  -n(I)     uŋ       -E-ŋ   -E-n(I)      tarak čak   -čE    -L  -n(I)
+\ge next  -aln -ep-poss.3sg again  go   -pst -poss.3sg something -ep-aln -ep-poss.3sg dist  gather -pf.ptc -pl -poss.3sg
+
+\tx tar   uŋi                tewličelni.
+\mb tarak uŋ       -n(I)     tewte   -lI -čE -L     -n(I)
+\ge dist  something -poss.3sg berries -vr -pf.ptc -pl -poss.3sg
+
+\ft He was surprised, where did that go, those which he had gathered, those which he had picked.
+\ru Стал удивляться, куда вторая подевалась его вот, то что он собрал, ягоды насобирал.
+\ph ʊrrin
+
+\id mian_Solodikova_RM_pear_story20
+\ref dur kcI, vb, cvb
+\tx Ńan   tarak bejkeje     mịaŋčịngal                  ńan   mịaŋčịnịkan,          ńan   dʒaːwụl
+\mb ńaːn tarak bej -kEːjE mịan       -(k)čI -n(I) =gEl   ńaːn mịan       -(k)čI -nIkEn   ńaːn d'javol.R
+\ge and    dist  man -aug    be.surprised -dur    -3sg  =coord and    be.surprised -dur    -sim.cvb again  devilish.R
+
+\tx kụŋal    ńan   časkị         ńan   orriten            ịkụtịč,   ịak nọŋartan gurgeːten.
+\mb kụŋa -L  ńaːn čaːg -skI      ńaːn hor -RI  -tEn      ịkụt -E-Č   ịak nọŋartan gurgeː -tEn
+\ge child   -pl again  far    -advb.all again  go  -pst -poss.3pl straight -ep-ins what  3pl         work    -poss.3pl
+
+\ft And this man wonders and wonders, and the devilish kids walked on their, it's no problem of theirs.
+\ru И вот этот мужчина удивляясь удивляется, и дьявольские дети пошли дальше своей дорогой, какое их дело.
+\ph ʊrriten  gurgeten (short vowels)
+
+\id mian_Tatjana_Petrovna_family_207
+\ref III vb, cvb
+\tx Delbi  ọlọl... ọrọl... delbi  ịačal            hurkeːl,    mịančal,              mịanịdʒụr,
+\mb delbi                          delbi  ịa    -čE    -L  hurkeːn -L  mịan       -čE    -L  mịan       -RIdʒI  -L
+\ge very.Y                         very.Y do.what -pf.ptc -pl boy      -pl be.surprised -pf.ptc -pl be.surprised -ant.cvb -pl
+
+\tx meːn meːntiwur                  itmeččel,           haːmaččal.
+\mb meːn meːn -DI          -WUr     it  -mEČ -čE    -L  haːmat -čE    -L
+\ge refl  refl  -dat.prfl.sg -prfl.pl see -rec  -pf.ptc -pl laugh   -pf.ptc -pl
+
+\ft The boys were very much surprised, looked at each other, laughed.
+\ru Парни очень удивились, удивившись, друг на друга посмотрели, засмеялись.
+\ph
+\gr
+\nt
+\ELANBegin 00:22:28.120
+\ELANEnd 00:22:39.100
+\ELANParticipant
+
+\id mian_Tatjana_Petrovna_family_208
+\ref III cvb
+\tx Ọ, dʒaːltan             họː mịanịdʒụr          goːnčel         dʒe:
+\mb ọ  dʒaː   -L  -tEn      họː mịan       -RIdʒI  -L  goːn -čE    -L  dʒe
+\ge oh   relative -pl -poss.3pl very   be.surprised -ant.cvb -pl say   -pf.ptc -pl well.Y
+\ft Her relatives were surprised and said.
+\ru Родные удивившись сказали.
+\ph
+\ELANBegin 00:22:39.100
+\ELANEnd 00:22:45.970
+\ELANParticipant
+
+\id mian_Tulasynova_LA_family_history_172
+\ref III vb
+\tx Erteki       emnidʒi      delbi  mịanča            hịakịta iriŋen                 taraŋan
+\mb erek -t(E)kI em   -RIdʒI  delbi  mịan       -čE    hịakịta irek  -ŋ  -E-n(I)      tarak -ŋ  -E-n(I)
+\ge prox -all    come -ant.cvb very.Y be.surprised -pf.ptc tree        which -aln -ep-poss.3sg dist  -aln -ep-poss.3sg
+
+\tx họːja bọlla.
+\mb họːja buol  -dEg      -E
+\ge many     aux.Y -assert.Y -poss.3sg.Y
+
+\ft Having come here he was very surprised because the trees had a lot of this and that.
+\ph
+\ru сюда приехав очень удивился потому что у деревьев всяких разных много было же.
+\ELANBegin 00:15:39.510
+\ELANEnd 00:15:43.774
+\ELANParticipant
+
+\id mian_Tylkanova_JE_igodnyj_092
+\ref dur kcI vb
+\tx Nan    čeledʒur         mịaŋčịdʒịsne,                    ịamị durrin?
+\mb ńaːn čele -dʒUr       mịan       -(k)čI -D    -s(E)n -R(E)   ịamị dur   -RI  -n(I)
+\ge and    all   -ins.prfl.pl be.surprised -dur    -prog -lim   -nonfut why      burn  -pst -poss.3sg
+
+\ft Everybody got surprised, why had it burnt?
+\ph for n/ŋ and ịa/ie see other forms in Phon_from_texts.doc
+\gr ŋčị ? prog-lim-nonfut   mịančịdịsne: vse mnogo i dolgo udivljalisj. Cf. mịančịsnịtan: nemnogo poudivljalisj
+\ELANBegin 00:13:07.000
+\ELANEnd 00:13:12.880
+\ELANParticipant
+\ev
+\ru И все стали удивляться, почему сгорел?
+
+\id mian_Tylkanova_NA_blue_eyes_007
+\ref III vb
+\tx Nan    ečin      elgečidmi                        minteki         ičịsnin                  nan    bisi
+\mb ńaːn erroːčin elge      -Č  -E-D     -mI       min     -t(E)kI it  -E-s(E)n -RI  -n(I)     ńaːn biː =sI
+\ge and    prox.qual  pole.hook -res -ep-prog -cond.cvb 1sg.obl -all    see -ep-lim  -pst -poss.3sg and    1sg  =emph
+
+\tx mịanịwụ               ịasalan             ịamị nan    ńọː....   tarọːčịnị čụlbańa.
+\mb mịan       -RI  -W        ịašal -E-n(I)      ịamị ńaːn ńọːbatị tarọːčịn    čụlbańa
+\ge be.surprised -pst -poss.1sg eyes     -ep-poss.3sg why      and    white         dist.qual         grue
+
+\ft And so, catching fish, he glanced at me and I was surprised, why are his eyes so blue.
+\ph ičin, mịanụ
+\gr
+\nt
+\ELANBegin 00:00:45.280
+\ELANEnd 00:00:53.430
+\ELANParticipant
+\ev
+\ru И вот, ловив рыбу, он на меня глянул, и я удивилась, почему у него глаза такие голубые.
+
+\id mian_Tylkanova_NA_blue_eyes_008
+\ref III cvb
+\tx Nan    mịanịdʒị       orriwu             ečiwu             ịawda         goːne.
+\mb ńaːn mịan       -RIdʒI  hor -RI  -W        e   -RI  -W        ịak -W   =DE  goːn -R
+\ge and    be.surprised -ant.cvb go  -pst -poss.1sg neg -pst -poss.1sg what  -acc =ptl say   -neg.cvb
+\ft And having gotten a surprise I left, I didn't say anything.
+\ph uldiwu --> is what it sounds like, but RME says it is just her way of pronouncing urriwu, there is no possible verb uldiwu that
+it could be
+\ELANBegin 00:00:53.430
+\ELANEnd 00:00:57.130
+\ELANParticipant
+\ev
+\ru И вот удивившись, ушла я и ничего не сказала.
+
+\id mulan_beseda_1159
+\ref III vb
+\tx Mụlaːnčaːdʒịn         ahịkka,   ahịkkańdʒada...      ịamaja    ehni,          goːli?
+\mb mụlaːn -čE    -DʒI -n(I) asị -kkEn asị -kkEn -ńdʒE =DE  ịak -mEjE e -R(E) -n(I)  goːn -LI
+\ge pity      -pf.ptc -fut -3sg   woman -dim  woman -dim  -aug    =ptl what  -aug  neg -nfut -3sg say   -imp.2sg
+
+\ft she was probably sorry (about the coat), that girl, she is like that, right?
+\ru наверно пожалела, эта девочка, такая же она, какая-то
+\ELANBegin 00:33:56.165
+\ELANEnd 00:34:00.990
+\ELANParticipant LNZ
+
+\id mulan_Bochilikan_etiken_011
+\ref ptl, only root
+\tx Eńe   mụla    tụsankịčụ   gum  gum  gum.
+\mb eńin  mụla    tụsan -kIč -W   gum  gum  gum
+\ge mother pity.itrs jump    -nr   -acc goom goom goom
+
+\ft
+\ru
+\ph
+\gr ene mula - ne imeet smysla, tusankichu = mesto moix pryzhkov, moi pryzhki - -kIč derives nouns with a meaning of 'possibility,
+place where an action is possible', e.g. ulmikič 'mesto belkovki' > ulmidej 'belkovat'
+\nt this cannot be translated, it is just words, the foxes song, without any real meaning
+\ELANBegin 62.390
+\ELANEnd 66.660
+\ELANParticipant
+
+\id mulan_Bochilikan_etiken_029
+\ref III vb inch
+\tx Bọčịlịkan hụlịčam      mụlallan                   ge    tewli             ịrdakụn              goːnni.
+\mb Bọčịlịkan hụlịčan -W   mụlaːn -L    -R(E) -n(I)  ge    teg      -LI      ịr -DE       -W        goːn -n(I)
+\ge Bochilikan       fox          -acc pity      -inch -nonfut -3sg exclm sit.down -imp.2sg cart -purp.cvb -poss.1sg say   -3sg
+
+\ft Bochilikan pitied the fox, well sit down, I'll pull you, he said.
+\ru Старик Бочиликан пожалел лису и посадил, давай садись, я повезу тебя, сказал.
+\ru Бочиликан пожалел лису, ну садись, потащу, сказал.
+\gr
+\ELANBegin 149.530
+\ELANEnd 155.330
+\ELANParticipant
+
+\id mulan_Kirillina_KK_Emcheni_128
+\ref III vb
+\tx Emčeni emie   họŋaldaj                         nekče,     kụŋajị      ọttọn, mụlaːjan,
+\mb Omčeni emie   họŋ -E  -L    -DE       -J       nek -čE    kụŋa -J       ọttọn  mụlaːn -j    -An
+\ge Emcheni also.Y cry    -ep -inch -purp.cvb -prfl.sg do  -pf.ptc child   -prfl.sg dp.Y       pity      -conn -pf.cvb.Y
+
+\tx mụlaːnča,  ọmọ... noːji.
+\mb mụlaːn -čE            noː            -J
+\ge pity      -pf.ptc         younger.sibling -prfl.sg
+
+\ft Emcheni was about to cry again, pitying his child, his younger brother.
+\ph
+\ru Омчени опять собрался плакать, ребенка своего пожалел, своего брата.
+\ELANBegin 00:12:15.150
+\ELANEnd 00:12:21.200
+\ELANParticipant
+
+\id mulan_Krivoshapkina_Sofija_life_047
+\ref III vb
+\tx Ejmu             buollar delbi  mụlaːnịn,           ammụ           boːrin:
+\mb enen   -W        buollar delbi  mụlaːn -RI  -n(I)     aman   -W        boː -RI  -n(I)
+\ge mother -poss.1sg dp.Y    very.Y pity      -pst -poss.3sg father -poss.1sg give -pst -poss.3sg
+\ft My mother pitied me greatly, my father gave (me away):
+\ru А мать меня сильно жалела, отец отдал.
+\ph
+\gr
+\nt
+\qu
+
+\id mulan_Stepanova_ZA_arrival_Tashkent_018
+\ref IV excl
+\tx "Ịadaj                   eːriris,            tarak mụlańake           asatkan ile
+\mb ịa    -DE -J             eːri -RI  -s(I)     tarak mụlań  -(h)E =kE   asatkan irek  -(dU)LE
+\ge do.what -purp.cvb -prfl.sg call  -pst -poss.2sg dist  feel.pity -excl =emph girl    which -loc
+
+\tx herren,"         --   goːniken.
+\mb hor -R(E)   -n(I) -*- goːn -nIkEn
+\ge go  -nonfut -3sg  - - say   -sim.cvb
+
+\ft "Why did you invite her, where will this poor girl go?" -- saying.
+\ph mụlańake
+\ru "Почему пригласила, теперь девушка куда пойдет?" -- говорит.
+\ELANBegin 00:01:37.370
+\ELANEnd 00:01:41.340
+\ELANParticipant
+
+\id mulan_Stepanova_ZA_hunting_stado_32
+\ref IV ptl; III vb
+\tx Tarak tiːkte   họː mụlụń, biː mụlaːnam            taraw      nọŋmadnan.
+\mb tarak tiek =DE  họː mụlụń  biː mụlaːn -R(E)   -m   tarak -W   nọŋan -W   -tEn
+\ge dist  now  =ptl very   sad         1sg  pity      -nonfut -1sg dist  -acc 3sg      -acc -poss.3pl
+
+\ft It is very sad, I pity them.
+\ru Это и сейчас очень жалко, я жалею их.
+\ph
+\gr the dialectal form would be mụlụhnị, mụlụń is the literary form
+\nt
+
+\id mulan_Stepanova_ZA_hunting_stado_33
+\ref III vb
+\tx Geleːremde,            mụlaːnamda,              tarda      bihiklen                        nọŋartan er
+\mb geleː -R(E)   -m   =DE mụlaːn -R(E)   -m   =DE  tarak =DE  bi -RI       -klE     -n(I)     nọŋartan erek
+\ge miss   -nonfut -1sg =ptlpity      -nonfut -1sg =ptl dist  =ptl be -impf.ptc -all.loc -poss.3sg 3pl         prox
+
+\tx ečin      bej bihiniken,  bejdu    aj   mergem            ajịč      dʒọmkadnịkan,  biː
+\mb erroːčin bej bi -nIkEn   bej -DU  aj   mergeːt -n  -W   aj   -E-Č   dʒọmkat -nIkEn   biː
+\ge prox.qual  man be -sim.cvb man -dat good think    -nr -acc good -ep-ins think      -sim.cvb 1sg
+
+\tx mergendulew                    emeːbdeŋetnen                   họː aj.
+\mb mergeːt -n  -(dU)LE -W        emeːn -B   -DEŋ    -E-tEn       họː aj
+\ge think    -nr -loc    -poss.1sg leave  -med -pst.ptc -ep-poss.3pl very   good
+
+\ft I miss them, and I pity, but nevertheless it is good that they remain in my memories as such people, people who thought well
+about others.
+\ru И соскучилась, и жалею, но хорошо что они остались в моей памяти такими людьми, думая к людям хорошую думу
+(умершие хорошо относились к людьям).
+\ph
+\gr bihiniken is not a correct form, must be a speech error
+\nt She then continues to talk about her parents, and I put that into the last, short database, "parents".
+
+\id mulan_Stepanova_ZA_parents_01
+\ref III ptcp; III ptcp
+\tx Tara  tarịt ejmude                enńumu                ammụ           ọːkta    tačịn       eniken
+\mb tarak tarịt enen   -W        =DE  enen   -ńUn -W        aman   -W        ọːk =DE  tarọːčịn e   -nIkEn
+\ge dist  then    mother -poss.1sg =ptl mother -com  -poss.1sg father -poss.1sg when   =ptl dist.qual      neg -sim.cvb
+
+\tx eńmu            mụlaŋ... mụlaːnị        bihin             ammụ,               ammụda              mụlaːnị
+\mb eńin  -W            -DE     mụlaːn -RI       bi -RI  -n(I)     aman   -W   -W        aman   -W        =DE  mụlaːn -RI
+\ge mother -poss.1sg             pity      -impf.ptc be -pst -poss.3sg father -acc -poss.1sg father -poss.1sg =ptl pity      -impf.ptc
+
+\tx bihin.
+\mb bi -RI  -n(I)
+\ge be -pst -poss.3sg
+
+\ft And then my mother, my mother and father never did.... My mother pitied my father, and my father pitied her.
+\ru Вот потом и моя мать мой отец с матерью никогда так не делая..... Моя мать жалела моего отца и отец жалел (ее).
+
+\id mulan_Stepanova_ZA_sibling_005
+\ref III ptcp
+\tx Ịamị  [goːmi]        họː mụlaːnị        bihin             mutu.
+\mb ịamị  goːn -mI       họː mụlaːn -RI       bi -RI  -n(I)     mut    -W
+\ge why       say   -cond.cvb very   pity      -impf.ptc be -pst -poss.3sg 1pl.in -acc
+
+\ft Because she pitied us a lot.
+\ru Потому что она очень нас жалела.
+\ph
+\gr She said only ịamị, 'why', but from the context Ija Krivoshapkina decided that she probably meant to say ịamị goːmi 'because', a
+calque from Sakha toγo dieteχχe
+\nt
+
+\id ngel_Amganov_EI_pugalo_009
+\ref caus vb
+\tx Ačamaja   umekič ịamịmaja   tarak tjọtkačamụ         ńọːŋńa mịatụ   tettidʒi,
+\mb Ača =mEjE umekič ịamị =mEjE tarak tёtka  -čEn -W        ńọːńa   mịat -W   tet    -RIdʒI
+\ge Acha =ptl  very    why      =ptl  dist  aunty.R -dim  -poss.1sg faeces       miat   -acc put.on -ant.cvb
+
+\tx ŋeːlukenin.
+\mb ŋeːl    -WkEn -RI -n(I)
+\ge be.afraid -caus -pst -poss.3sg
+
+\ft It was Acha, my little aunty, having put on a mask from a reindeer's head, she frightened (us).
+\ph
+\gr 30.01.13 (questions7, 10:45) Ačamaja = eto zhe Acha, okazyvaetsja eto Acha!, Brigittemeje = eto zhe Brigitta! ịamịmaja =
+počemu zhe tak? ili: a vot okazyvaetsja; dʒụːmaja = netu, estj tolko dʒụːmịja, staryj dom; Ačamịja = byvshaja Ača, byla
+nevestka Ača, ushla, uzhe ne nasha nevestka, ona Ačamịja, etikemije = byvshij muž
+\ELANBegin 00:00:32.660
+\ELANEnd 00:00:40.040
+\ELANParticipant EIA
+\ev
+\ru Это же Ача почему-то моя тетка маленькая на себя мият одела и напугала.
+
+\id ngel_beseda_1220
+\ref vb inch
+\tx Ŋeːlellidʒi
+\mb ŋeːl    -E-L     -RIdʒI
+\ge be.afraid -ep-inch -ant.cvb
+\ft having gotten a fright
+\ru испугавшись
+\ELANBegin 00:35:55.670
+\ELANEnd 00:35:56.475
+\ELANParticipant LNZ
+
+\id ngel_beseda_1222
+\ref vb inch
+\tx ŋeːlellidʒi              awdụtnan
+\mb ŋeːl    -E-L     -RIdʒI
+\ge be.afraid -ep-inch -ant.cvb
+\ft having got a fright...
+\ph
+\gr awdụtnan - this is not a correct Even word, she probably wanted to say abdụ 'things'
+\ru испугавшись
+\ELANBegin 00:35:57.390
+\ELANEnd 00:35:58.815
+\ELANParticipant LNZ
+
+\id ngel_beseda_1345
+\ref vb
+\tx Er   tiːke kụŋalbụda       bej ŋeːllen,             goːli.
+\mb erek tiek   kụŋa -L-W    =DE  bej ŋeːl    -R(E) -n(I)  goːn -LI
+\ge prox now    child   -pl-acc =ptl man be.afraid -nonfut -3sg say   -imp.2sg
+\ft and now a person has to be afraid for the children, hey
+\ph
+\gr at first she had thought that NPZ said kụŋaldụda and had said that should have been kụŋaldụka, that a person is afraid of
+children, but when I asked whether NPZ doesn't say kụŋalbụda, with the accusative case, she confirmed this and said this meant
+that you are afraid for the children
+\ru сейчас и за детей человек боится
+\ELANBegin 00:40:35.045
+\ELANEnd 00:40:37.990
+\ELANParticipant NPZ
+
+\id ngel_Bochilikan_etiken_065
+\ref vb inch
+\tx Dʒelgenker    ọlaldarịdʒụr,       ŋeːleliridʒur                   tolehki               tọhaŋčịr.
+\mb dʒelgenke -L  ọlalda      -RIdʒI  -L  ŋeːl    -E-L     -E-RIdʒI   -L  tol     -E  -skI      tụsan -Č  -r
+\ge animal     -pl be.frightened -ant.cvb -pl be.afraid -ep-inch -ep-ant.cvb -pl outside -ep -advb.all hop     -res -3pl
+
+\ft The animals got a fright, were terrified and jumped outside.
+\ru Все звери испугались и кто куда бросились, через дверь через полог через верхное отверстие на улицу.
+\ph ŋeːreliridʒur
+\ru Звери испугавшись устрашившись, прыгнули на улицу.
+\gr here, the suffix -čI gives a slightly durative meaning, not a distributive meaning; I am not entirely sure whether this is the
+Resultative suffix with an imperfective meaning, or some other meaning.
+\ELANBegin 397.410
+\ELANEnd 404.930
+\ELANParticipant
+
+\id ngel_Burtsev_ID_traditions_121
+\ref IV wolf
+\tx Taraw      bọllaγïna tiːkereptu       goːmi          ŋeːlehmi,              ŋeːlehmi.
+\mb tarak -W   buollaγïna  tiek -(E)rEp -DU  goːn -mI       ŋeːlem       -RI       ŋeːlem       -RI
+\ge dist  -acc dp.Y          now  -adjr   -dat say   -cond.cvb be.frightening -impf.ptc be.frightening -impf.ptc
+\ft Now that, in modern times, wolf, wolf. (dangerous, frightening)
+\ph
+\ru В современное время если сказать опасно, опасно (страшно страшно).
+\ELANBegin 00:15:54.395
+\ELANEnd 00:16:01.363
+\ELANParticipant
+
+\id ngel_Burtsev_ID_traditions_125
+\ref IV wolf
+\tx Ŋeːlehmi,              erek abaga       ŋeːlehmikki                    goːnni:    "Ŋeːlehmi,
+\mb ŋeːlem       -RI       erek abaga       ŋeːlem       -RI       -t(E)kI goːn -n(I) ŋeːlem       -RI
+\ge be.frightening -impf.ptc prox grandfather be.frightening -impf.ptc -all    say   -3sg  be.frightening -impf.ptc
+
+\tx emni          ele,         hiː erek bejle       herri,       tarak nimeːrre.
+\mb em   -LI      erek -(dU)LE hiː erek bej -(dU)LE hor -LI      tarak ńimer    -(dU)LE
+\ge come -imp.2sg prox -loc    2sg  prox man -loc    go  -imp.2sg dist  neighbour -loc
+
+\ft Wolf, this bear says to the wolf "Wolf, come here, you go to this person, to this family".
+\ru Волк этот медведь говорит волку, "волк, иди сюда, ты иди к этому человеку, к этой семье."
+\ELANBegin 00:16:05.549
+\ELANEnd 00:16:13.661
+\ELANParticipant
+
+\id ngel_Kejmetinova_XA_various_061
+\ref IV wolf
+\tx Tarakam       abagada,         ŋeːlesmide                  họː họːja biwren.
+\mb tarakam       abaga       =DE  ŋeːlem       -RI       =DE  họː họːja bi -Gr(E) -n(I)
+\ge in.those.days grandfather =ptl be.frightening -impf.ptc =ptl very   many     be -hab   -3sg
+\ft In those days there were a lot of bears and wolves.
+\ru Тогда медведей и волков очень много было.
+\ELANBegin 00:08:16.418
+\ELANEnd 00:08:22.645
+\ELANParticipant
+
+\id ngel_Kirillina_KK_Emcheni_027
+\ref vb inch
+\tx Eːrinčoː, eːrinčoː, mịawmụ           ịamịgol     heːkidni,   ịadụkkol
+\mb eːrinčoː  eːrinčoː  mịawụn -W        ịamị =(W)Ul heːki -n(I) ịak -DUk(U) =(W)Ul
+\ge eːrinčoː  eːrinčoː  heart      -poss.1sg why      =indef kick   -3sg  what  -abl    =indef
+
+\tx ŋeːlelellem                    goːnidʒur,       degelčel.
+\mb ŋeːl    -E  -L    -R(E) -m     goːn -RIdʒI -L   deg -E-L     -čE -L
+\ge be.afraid -ep -inch -nonfut -1sg say   -ant.cvb -pl fly -ep-inch -pf.ptc -pl
+
+\ft "Erincho, erincho, my heart is beating (hard) for some reason, I have become afraid for some reason" the said and flew off.
+\ph ŋeːlelellem - slip of tongue, one syllable -le- too many
+\ru Эринчо, эринчо, сердец мое что-то пинается, отчего-то я забоялась, сказав, улетели.
+\ELANBegin 00:02:36.620
+\ELANEnd 00:02:47.740
+\ELANParticipant
+
+\id ngel_Kirillina_KK_Emcheni_113
+\ref vb
+\tx Dʒe   tadụ     etiken   goːnče:     Hiː ịak bihenni         ebit,      ịadụkta        eti
+\mb dʒe   tarak -DU  etikeːn goːn -čE    hiː ịak bi -R(E)   -nrI ebit       ịak -DUk(U) =DE  e   -RI
+\ge well.Y dist  -dat old.man  say   -pf.ptc 2sg  what  be -nonfut -2sg it.seems.Y what  -abl    =ptl neg -impf.ptc
+
+\tx ŋeːlle           bihenni         ebit,      Omčeni.
+\mb ŋeːl    -R       bi -R(E)   -nrI ebit       Omčeni
+\ge be.afraid -neg.cvb be -nonfut -2sg it.seems.Y Emcheni
+
+\ft Well then the old man said (in response) to that: "You are such, it seems... you are (someone) who is afraid of nothing, it seems,
+Emcheni."
+\ru Старик говорит: Ты, оказывается, этот... ничего не боящийся, оказывается, Омчени.
+\ELANBegin 00:10:38.390
+\ELANEnd 00:10:44.770
+\ELANParticipant
+
+\id ngel_Klim_Nikolaevich_eksponat_122
+\ref IV wolf
+\tx Erek eden...                 bọlọ     haːtaraladdakan
+\mb erek e   -DE       -n(I)     bọlọnị haːtar -E  -L    -E-D     -REk -E-n(I)
+\ge prox neg -purp.cvb -poss.3sg late.autumn  be.dark -ep -inch -ep-prog -cond.cvb -ep -poss.3sg
+
+\tx neːlehmi                igin  emnidʒi      ọrọlbụ               holukkeren,
+\mb ŋeːlem       -RI       iŋin em   -RIdʒI  ọrọn          -L  -W   holu  -Č  -Gr(E) -n(I)
+\ge be.frightening -impf.ptc etc.Y come -ant.cvb domestic.reindeer -pl -acc chase -res -hab   -3sg
+
+\tx eden                    tadụ     ...  erek iːw  biden                  goːniken      ere  ujgerer,
+\mb e   -DE       -n(I)     tarak -DU  *... erek iːw  bi -DE       -n(I)     goːn -nIkEn   erek uj     -Gr(E) -r
+\ge neg -purp.cvb -poss.3sg dist  -dat ***  prox sound be -purp.cvb -poss.3sg say   -sim.cvb prox tie.up -hab   -3pl
+
+\tx gọrịnụk      ihinden.
+\mb gọrụ -(I)nUk   i          -s(E)n -DE       -n(I)
+\ge far      -advb.abl be.audible -lim   -purp.cvb -poss.3sg
+
+\ft When it gets dark in autumn, wolves coming here chase the reindeer, so that there will be noise they tie this, so that it can be
+heard from afar.
+\ru Это когда осенью темнеет, волк придя за оленями гоняется чтобы здесь был звук привязывают, чтобы издалека было
+слышно.
+\ph haːtaral ọddakan hulukkeren
+\gr The standard form of the verb 'be audible' given in Robbek's and Cincius' dictionaries is idej, which belongs to the same
+declination class as e- and bi- (3sg nfut = ihni); in Sebjan, however, this exists only with the limitative suffix
+\ELANBegin 00:13:07.790
+\ELANEnd 00:13:22.410
+\ELANParticipant
+
+\id ngel_Klim_Nikolaevich_eksponat_123
+\ref IV wolf
+\tx Ŋeːlehmi               dọldarịdʒị, eten            emne          buolla,                     eten
+\mb ŋeːlem       -RI       dọlda -RIdʒI    e   -t(E) -n(I) em   -R       buol  -dEg      -E          e   -t(E) -n(I)
+\ge be.frightening -impf.ptc hear    -ant.cvb   neg -fut  -3sg  come -neg.cvb aux.Y -assert.Y -poss.3sg.Y neg -fut  -3sg
+
+\tx holutte,            eten            ọltanna        ọraw,                hụːmaw,    erew      dọldamị.
+\mb holu  -Č  -R       e   -t(E) -n(I) ọltan -R       ọrọn          -W   hụːma -W   erek -W   dọlda -mI
+\ge chase -res -neg.cvb neg -fut  -3sg  annoy   -neg.cvb domestic.reindeer -acc herd     -acc prox -acc hear    -cond.cvb
+
+\ft The wolf, having heard, doesn't come, right, he doesn't chase, doesn't annoy the reindeer, the herd, having heard this.
+\ru Волк услышав не придет же, не погониться, не будет дразнить оленей, стадо, это услышав.
+\ph hulutte
+\gr the correct Accusative for ọrọn is of course ọrọM
+\ELANBegin 00:13:22.410
+\ELANEnd 00:13:28.660
+\ELANParticipant
+
+\id ngel_Kosygina_AG_kochevka_010
+\ref vb
+\tx Kụŋa ụčakan                    enni             ịawda           ŋeːlloːtte,             nụmak
+\mb kụŋa ụčak         -E-n(I)      e   -R(E) -n(I)  ịa    -W   =DE  ŋeːl    -WEːČ -R       nụmak
+\ge child   riding.reindeer -ep-poss.3sg neg -nonfut -3sg do.what -acc =ptl be.afraid -gnr    -neg.cvb tame
+
+\tx biweːtten,             kụŋa amardadụn                 gilbeːŋčin              ụllarụk.
+\mb bi -WEːČ -R(E) -n(I)  kụŋa amar   -gIdE -DU  -n(I)     gilbeːn     -(k)čI -n(I) hụlra -RUk
+\ge be -gnr    -nonfut -3sg child   behind -part -dat -poss.3sg tie.reindeer -dur    -3sg  blanket -nr
+
+\ft
+\ph amartadụn gilbaŋčin
+\gr            ŋeːlloːtte n? 3sg? neg.cnv!!!  gilbeːŋčin passive???
+\gr 06.02.13 (questions13, 37:30) gilbeːŋčin ụllarụk = zavjazan; ja zavjazyvaju ullaruk = bi gilbenem ụllarụkụ; omen asị
+gilbeːŋčiweːtten ńuŋem inučelbe = correct, 1 zhenshina privjazyvaet 6 olenej; 6 olenej privjazany = ńuŋen inuka gilbeːŋčir;
+nọŋan gilbeːŋčin ụllarụkụ = OK, ona privjazyvaet ullaruk; ụllarụk gilbeːŋčin = OK, privjazan ullaruk; the verb doesn't
+change, but the argument structure changes
+\nt  (одеяла и т.п.)
+\ELANBegin 00:00:57.083
+\ELANEnd 00:01:10.135
+\ELANParticipant
+\ev
+\ru У ребенка ездовый ничего не боялся, за ребенком привязывали оленя, который вез вещи.
+
+\id ngel_Krivoshapkina_Ija_memories_050
+\ref vb inch
+\tx Tar   ŋeːlellidʒi              mutu        mendeneče,            taraw      bejel      herčel,        go,
+\mb tarak ŋeːl    -E-L     -RIdʒI  mut    -W   mende  -nE     -čE    tarak -W   bej -E-L   hor -čE -L     ge
+\ge dist  be.afraid -ep-inch -ant.cvb 1pl.in -acc search -intent -pf.ptc dist  -acc man -ep-pl go  -pf.ptc -pl exclm
+
+\tx ịaw      ịanamị,               tar   abagańdʒaw             ịanamị,               nemkenemi.
+\mb ịak -W   ịa    -nE     -mI       tarak abaga       -ńdʒE -W   ịa    -nE     -mI       nemke -nE -mI
+\ge what  -acc do.what -intent -cond.cvb dist  grandfather -aug    -acc do.what -intent -cond.cvb shoot -nr -cond.cvb
+
+\ft Having gotten a fright she went to look for us, people went to shoot that bear.
+\ru Испугавшись она пошла искать нас, люди пошли стрелить этого медведя.
+\ELANBegin 00:04:36.220
+\ELANEnd 00:04:46.990
+\ELANParticipant
+
+\id ngel_Krivoshapkina_Ija_memories_051
+\ref vb inch
+\tx Mut    bọllaγịna dʒaːlti                 herčeletnen,                 noːčel              delbi
+\mb mut    buollaγïna   dʒaː   -L  -t(I)        hor -čE    -(dU)LE -tEn      noː            -čEl delbi
+\ge 1pl.in dp.Y           relative -pl -poss.1pl.in go  -pf.ptc -loc    -poss.3pl younger.sibling -com  very.Y
+
+\tx ŋeːlellit,                         tar   abịgala           naːčaːdʒịr,       dʒebewdʒirgu,
+\mb ŋeːl    -E-L     -RI  -t(I)        tarak abaga       -(dU)LE naː -čE    -DʒI -r   dʒep -E-W      -DʒI -r   =GU
+\ge be.afraid -ep-inch -pst -poss.1pl.in dist  grandfather -loc    hit  -pf.ptc -fut  -3pl eat   -ep-advrs -fut  -3pl =q
+
+\tx ịadʒịrgụ        goːniken.
+\mb ịa    -DʒI -r   =GU goːn -nIkEn
+\ge do.what -fut  -3pl =q  say   -sim.cvb
+
+\ft We however, when our parents left, my brother and I were very much afraid that they would come upon that bear and be
+eaten or something.
+\ru А мы, когда ушли наши родные (родители),  с братом мы очень испугались, что они наткнутся на этого медведя,
+подвергнутся съедению, или что-нибудь с ними там случится.
+\ELANBegin 00:04:46.990
+\ELANEnd 00:04:53.800
+\ELANParticipant
+
+\id ngel_Krivoshapkina_Ija_memories_070
+\ref vb inch
+\tx Anatolijja      emie   tarakam       bihitnen,         delbi  ŋeːlellep.
+\mb Anatolij =jE    emie   tarakam       bi -RI  -tEn      delbi  ŋeːl    -E-L     -R(E)   -p
+\ge Anatolij =assoc also.Y in.those.days be -pst -poss.3pl very.Y be.afraid -ep-inch -nonfut -1pl.in
+\ft Anatolij and his family were there too, we got a big fright.
+\ru Тогда был Анатолий со своими там, очень мы испугались.
+\ELANBegin 00:06:27.510
+\ELANEnd 00:06:31.540
+\ELANParticipant
+
+\id ngel_Krivoshapkina_Ija_memories_072
+\ref vb inch
+\tx Tačịn       dʒe   tar   dọlbanịw     dʒe   mụral     emne,        adʒịt mụral     emne,        dʒiŋ
+\mb tarọːčịn dʒe   tarak dọlbanị -W   dʒe   mụran -L  em   -R(E)   ajdịt  mụran -L  em   -R(E)   dʒiŋ
+\ge dist.qual      well.Y dist  night       -acc well.Y horse   -pl come -nonfut truth    horse   -pl come -nonfut very.Y
+
+\tx oŋonoŋ balaːkkawụt               čapčịhna,            ịadụkkụl       ŋeːlelčel
+\mb oŋonoŋ palatka -W   -E-t(I)         čapčị -s(E)n -R(E)   ịak -DUk(U) =(W)Ul ŋeːl    -E-L     -čE -L
+\ge nearly   tent.R  -acc -ep-poss.1pl.in step.on   -lim   -nonfut what  -abl    =indef be.afraid -ep-inch -pf.ptc -pl
+
+\tx bičel         uručun.
+\mb bi -čE -L     ureːčin
+\ge be -pf.ptc -pl it.seems
+
+\ft Then in that night horses came, really horses came, they very nearly stamped on our tents, they must have been frightened by
+something, it seems.
+\ru Потом, так в эту ночь пришли лошади, по-настоящему пришли лошади, чуть наши палатки не растоптали, из-за чего-то они
+испугались, кажется.
+\qu does the 2nd dje focus the night or the horses? is it 'THAT NIGHT horses came'; or 'that night HORSES came'?
+\ph
+\gr čapčị = step on, toptat', čapčịhan = stamp on completely, rastoptat' (odnim dvizheniem vse snesti), but can also have a meaning
+of 'a little bit'
+\ELANBegin 00:06:35.910
+\ELANEnd 00:06:44.380
+\ELANParticipant
+
+\id ngel_Krivoshapkina_Marta_bear_029
+\ref vb inch
+\tx Oo, voobše      ŋeːlellep                        delbi  brosta   ọlọk.
+\mb oo  voobše      ŋeːl    -E-L     -R(E)   -p      delbi  prosto   ọlọx
+\ge oh  in.general.R be.afraid -ep-inch -nonfut -1pl.in very.Y simply.R completely.Y
+
+\ft Ooh, we really got a fright, completely.
+\ru Мы очень вообще испугались.
+\ph brosta with a drawn-out -o- again
+\gr
+\nt
+\qu
+
+\id ngel_Krivoshapkina_Marta_bear_034
+\ref vb inch
+\tx Taral        moddʒir          goːmi,         bi   beju,            emiske     moddʒir          buoluo
+\mb tarak -E-L   med    -DʒI -r   goːn -mI       biː bej    -W        emiske     med    -DʒI -r   buoluo
+\ge dist  -ep-pl notice -fut  -3pl say   -cond.cvb 1sg  self.Y -poss.1sg suddenly.Y notice -fut  -3pl probably.Y
+
+\tx goːniken,     ŋeːlelehnem                            meːn dọːlaj.
+\mb goːn -nIkEn   ŋeːl    -E-L     -E-s(E)n -R(E)   -m   meːn dọː -(dU)LE -J
+\ge say   -sim.cvb be.afraid -ep-inch -ep-lim  -nonfut -1sg refl  inside -loc    -prfl.sg
+
+\ft "Those will notice, what if they notice" I thought with a fright.
+\ru Эти заметят вдруг они заметят я испугалась про себя.
+\ph
+\gr
+\nt
+
+\id ngel_Krivoshapkina_Marta_bear_039
+\ref vb inch
+\tx Ŋeːlellen,                     haŋallaj                          nekten.
+\mb ŋeːl    -E-L     -R(E)   -n(I) họŋ -E-L     -DE       -J       nek -R(E)   -n(I)
+\ge be.afraid -ep-inch -nonfut -3sg  cry    -ep-inch -purp.cvb -prfl.sg do  -nonfut -3sg
+
+\ft (She) got a fright and was about to cry.
+\ru Испугалась, собралась заплакать.
+\ph
+\gr
+\nt
+\qu
+
+\id ngel_Krivoshapkina_Marta_bear_059
+\ref vb inch
+\tx Brosta   taraw      kojeːtniken     delbi  ịlgamnap,             ŋeːlellep,                       delbi
+\mb prosto   tarak -W   kojeːt -nIkEn   delbi  ịlgam -R(E)   -p      ŋeːl    -E-L     -R(E)   -p      delbi
+\ge simply.R dist  -acc look.at -sim.cvb very.Y stand   -nonfut -1pl.in be.afraid -ep-inch -nonfut -1pl.in very.Y
+
+\tx brosta   ọlọk     hilgellep                    ọlọk.
+\mb prosto   ọlọx     hilgen -L    -R(E)   -p      ọlọx
+\ge simply.R completely.Y shiver -inch -nonfut -1pl.in completely.Y
+
+\ft Looking at that we stood, we were frightened, we started shivering very badly.
+\ru Смотря на это мы стоим, испугались, очень сильно задрожали.
+\ph
+\gr
+\nt
+\qu
+
+\id ngel_Krivoshapkina_Marta_bear_063
+\ref vb
+\tx Tar   haːnịndụk    ịarịdʒị   hoteldʒin           buoluo     abagańdʒa         hordʒin
+\mb tarak haːnịn -DUk(U) ịa    -RIdʒI  hotel    -DʒI -n(I) buoluo     abaga       -ńdʒE hor -DʒI -n(I)
+\ge dist  smoke     -abl    do.what -ant.cvb run.away -fut  -3sg  probably.Y grandfather -aug    go  -fut  -3sg
+
+\tx buoluo,    edʒi        ŋeːlkil",        goːnem            biː.
+\mb buoluo     e   -LI      ŋeːl    -kIl     goːn -R(E)   -m   biː
+\ge probably.Y neg -imp.2sg be.afraid -proh.sg say   -nonfut -1sg 1sg
+
+\ft "From that smoke he will probably run away, that big bear will probably go away, don't be frightened", I say.
+\ru Из-за дыма он наверно будет убежать медведище наверно уйдет, не бойся, сказала я.
+\ph
+\gr
+\nt Ija didn't translate "hoteldʒin" because even though she said she thought it was the Sakha word for 'cough' it seemed somewhat
+unlikely at the moment. But I think she was probably right.
+
+\id ngel_Krivoshapkina_Marta_bear_068
+\ref vb
+\tx "Hiː edʒi        ŋeːlkil",        goːnem.
+\mb hiː  e   -LI      ŋeːl    -kIl     goːn -R(E)   -m
+\ge 2sg   neg -imp.2sg be.afraid -proh.sg say   -nonfut -1sg
+\ft "Don't be frightened", I say.
+\ru Ты не бойся.
+\ph
+\gr
+\nt
+\qu
+
+\id ngel_Krivoshapkina_Marta_bear_078
+\ref vb inch
+\tx Delbi  ŋeːlellit                          ọlọk     mịawandụla[w]            tarak dʒiŋ
+\mb delbi  ŋeːl    -E-L     -RI  -t(I)        ọlọx     mịawụn -(dU)LE -W        tarak dʒiŋ
+\ge very.Y be.afraid -ep-inch -pst -poss.1pl.in completely.Y heart      -loc    -poss.1sg dist  very.Y
+
+\tx mịawandụlaw              ietče,     ọl_ihin   tiːkerren                  ịstala taraw      kuruk
+\mb mịawụn -(dU)LE -W        iet -čE    ọl_ihin   tiek -(E)rEp -(dU)LE -n(I)  ịstala tarak -W   kuruk
+\ge heart      -loc    -poss.1sg hit -pf.ptc therefore.Y now  -adjr   -loc -poss.3sg until    dist  -acc always.Y.
+
+\tx dʒọŋnaram.
+\mb dʒọn  -Gr(E) -R(E)   -m
+\ge remember -hab   -nonfut -1sg
+
+\ft We got a big fright, it really hit me in my heart, that is why until now I continuously remember.
+\ru Мы сильно испугались, это мне в сердце сильно ударила, поэтому до сих пор это постоянно вспоминаю.
+\ph ŋeːlelliːt with a very long-drawn out final vowel
+\gr the inchoative on ŋeːlel- has already lexicalized, it doesn't have an inchoative meanig anymore, but ŋeːl- = bojat'sja, ŋeːlel- =
+ispugat'sja
+\nt
+
+\id ngel_Krivoshapkina_MK_nastavlenie_030
+\ref IV wolf
+\tx Niːde     niːde     niːde     kụŋan          biden,                 ŋeːlehmide
+\mb ŋiː =DE  ŋiː =DE  ŋiː =DE  kụŋa -n(I)     bi -DE       -n(I)     ŋeːlem       -RI       =DE
+\ge who   =ptl who   =ptl who   =ptl child   -poss.3sg be -purp.cvb -poss.3sg be.frightening -impf.ptc =ptl
+
+\tx kụŋan          biden,                 abagada          kụŋan          biden,                 mụnrụkanda
+\mb kụŋa -n(I)     bi -DE       -n(I)     abaga       =DE  kụŋa -n(I)     bi -DE       -n(I)     mụnrụkan =DE
+\ge child   -poss.3sg be -purp.cvb -poss.3sg grandfather =ptl child   -poss.3sg be -purp.cvb -poss.3sg hare         =ptl
+
+\tx kụŋan          biden,                 taraw      bekeččeːmen                 bụlịhịjaktaːkkịt,
+\mb kụŋa -n(I)     bi -DE       -n(I)     tarak -W   bekeč -čEn -W   -E-n(I)      bụl -E  -s(E)n -jEktEːk -GIt
+\ge child   -poss.3sg be -purp.cvb -poss.3sg dist  -acc all    -dim  -acc -ep-poss.3sg pity  -ep -lim   -nec.Y    -pred.2pl.Y
+
+\tx goːnni.
+\mb goːn -n(I)
+\ge say   -3sg
+
+\ft "The child of whatever animal it may be, be it the child of a wolf, be it the child of a bear, be it the child of a hare, you have to
+pity them all", she said.
+\ph bụlịhojektaːkkịt
+\gr (250312) bụldaj = zhaletj, bụlịhịndaj = pozhaletj, the same pair as hordej and horehendej; bụlịhịndaj should be bụlịhandaj;
+there are no separate words for "baby wolf", "baby bear", "baby rabbit", but normally one would say ŋeːlehmi huten, abaga
+huten, mụnrụkan huten; though her father for example says kačịkan "puppy" for both baby wolves and baby bears; tọːkị huten
+- maybe "eŋken", baby ujamkan = bọčịkan
+\ru Чей бы не был ребенок, волчонок, медвеженок, зайченок, это все вы должны жалеть.
+\ELANBegin 00:02:42.480
+\ELANEnd 00:02:52.050
+\ELANParticipant
+
+\id ngel_Krivoshapkina_MK_nastavlenie_031
+\ref IV wolf
+\tx Nọŋaltan eńelkehel,       nọŋaltan eńenten,        ŋeːle...     ŋeːlehmi,
+\mb nọŋartan eńin  -lkEn -SEl nọŋartan enen   -tEn      ŋeːlem       ŋeːlem       -RI
+\ge 3pl         mother -prop -pl  3pl         mother -poss.3pl be.frightening be.frightening -impf.ptc
+
+\tx ŋeːlehmi               - nu,    značit   eto    volčitsa.
+\mb ŋeːlem       -RI       - nu     značit   eto    volčitsa
+\ge be.frightening -impf.ptc - well.R that.is.R this.R she.wolf.R
+
+\ft They have a mother (they have mothers), their mother... wolf (in Even), (continues in Russian): well, that means she.wolf.
+\ph
+\gr there is no separate word for she.wolf, no separate word for medveditsa either; ńamịčan is general "animal.female", samka, and
+might be used for these animals as well (IVK 250312 - but I wonder whether maybe hunters wouldn't actually have separate
+words for babies and females)
+\ru У них есть мать, их мать - волчица.
+\ELANBegin 00:02:52.050
+\ELANEnd 00:02:59.790
+\ELANParticipant
+
+\id ngel_Krivoshapkina_Sofija_life_020
+\ref inch ptcp
+\tx Ịaw...   tar   biː biː ńulgeweːttiw                      ụstadụn                 otton kụŋada
+\mb ịak -W   tarak biː biː nulge   -WEːČ -RI       -W        ụsta       -DU  -n(I)     otton kụŋa =DE
+\ge what  -acc dist  1sg  1sg  migrate -gnr    -impf.ptc -poss.1sg throughout.Y -dat -poss.3sg dp.Y  child   =ptl
+
+\tx bihiŋij              arahnajalbụ            ịarịw,             ŋeːleldeŋelbude
+\mb bi -ŋsI     -J       araːhịnaj -E-L   -W   ịa    -RI  -W        ŋeːl    -E-L     -DEŋ    -E-L   -W        =DE
+\ge be -impf.cvb -prfl.sg various.Y    -ep-pl -acc do.what -pst -poss.1sg be.afraid -ep-inch -pst.ptc -ep-pl -poss.1sg =ptl
+
+\tx bihe,      oreldedeŋelbude                        bihe,      nahaː erejdeːket            ọlọk
+\mb bi -R(E)   orelde   -DEŋ    -E-L   -W        =DE  bi -R(E)   nahaː erejdeːk      -E-Č   ọlọx
+\ge be -nonfut be.happy -pst.ptc -ep-pl -poss.1sg =ptl be -nonfut very.Y trouble.prop.Y -ep-ins completely.Y
+
+\tx edu       tegettit.
+\mb erek -DU  teg      -E-Č   -RI  -t(I)
+\ge prox -dat sit.down -ep-res -pst -poss.1pl.in
+
+\ft Well, while I migrated, and while I was  child I (saw) various (things), there are terrors and happinesses, here we lived very
+difficultly.
+\ru Вот я пока кочевала, и когда была ребенком разное (видела), есть и мои страхи и мои радости, очень со страданиями здесь
+жили.
+\ph
+\gr At first Ija Krivoshapkina wanted to say that ŋeːleldeŋelBU is Accusative case, because the participle -DEŋ doesn't occur in the
+Nominative, but when I asked her how would 'nashi straxi' would be, she said ŋeːleldeŋelti, nash strax = ŋeːleldeŋet,
+ŋeːleldeŋehli = tvoi straxi; (must be the metathesis again) and then she admitted that it must be Poss.1SG, not Acc.
+
+\id ngel_Krivoshapkina_Sofija_life_029
+\ref vb inch, vb inch
+\tx Abagamajalda               [stammers] ŋeːlilgere[p]
+\mb abaga       -mEjE -L  =DE  stammers   ŋeːl    -E-L      -Gr(E) -R(E)   -p
+\ge grandfather -aug  -pl =ptl stammers   be.afraid -ep-inch  -hab   -nonfut -1pl.in
+
+\tx abagamajaldụkta                   derihindʒiggererep                  kụŋa ọːnịkan    ere
+\mb abaga       -mEjE  -L  -DUk(U) =DE  derisen -D    -Gr(E) -R(E)   -p      kụŋa ọː  -nIkEn   erek
+\ge grandfather -aug   -pl -abl    =ptl run.off -prog -hab   -nonfut -1pl.in child   become -sim.cvb prox
+
+\tx ele          atịkal      bihe       minńun       ihučel          taralńụn
+\mb erek -(dU)LE atịkan  -L  bi -R(E)   min     -ńUn isu  -čE    -L  tarak -E-L   -ńUn
+\ge prox -loc    old.woman -pl be -nonfut 1sg.obl -com  grow -pf.ptc -pl dist  -ep-pl -com
+
+\tx tutuggererep                        abagadụk          derihinidʒur        ŋeːlellidʒur,
+\mb tut -E-D     -Gr(E) -R(E)   -p      abaga       -DUk(U) derisen -RIdʒI  -L  ŋeːl    -E-L     -RIdʒI  -L
+\ge run -ep-prog -hab   -nonfut -1pl.in grandfather -abl    run.off -ant.cvb -pl be.afraid -ep-inch -ant.cvb -pl
+
+\tx hin     abaga       bụlgụran       kụːńịrakat:
+\mb sin     abaga       bụl -Gr(E) -n(I) kụːnị -REk      -E-t(I)
+\ge a.bit.Y grandfather pity  -hab   -3sg  scream     -cond.cvb -ep-poss.1pl.in
+
+\ft And we were frightened of bears, and ran away from bears when (I) was a child; here are old women who grew up with me,
+with those I ran away from a bear, having gotten a fright, the bear pitied us when we screamed:
+\ru И медведь мы пугались, и от медведя убегали, будучи ребенком, здесь есть старушки со мной выросшие, с ними бежали от
+медведя убежав, испугавшись, медведь жалел когда мы кричали.
+\ph
+\gr bụldaj = požalet', bụlgaran = obychno žalel
+
+\id ngel_Krivoshapkina_Sofija_life_037
+\ref caus vb
+\tx Teːmi    ńụčal      goːniken      dʒaːltị            ńụčal      ńụčal      goːniken      naːr
+\mb teːmi    ńụč -E-L   goːn -nIkEn   dʒaːl   -t(I)        ńụč -E-L   ńụč -E-L   goːn -nIkEn   naːr
+\ge therefore Russian -ep-pl say   -sim.cvb relatives -poss.1pl.in Russian -ep-pl Russian -ep-pl say   -sim.cvb always.Y
+
+\tx ŋeːlukekkerer.
+\mb ŋeːl    -WkEn -Č  -Gr(E) -r
+\ge be.afraid -caus -res -hab   -3pl
+
+\ft Therefore our relatives frightened us, saying "Russians, Russians".
+\ru Поэтому наши родные пугали нас "русские, русские".
+\ph
+\gr
+\nt
+
+\id ngel_Krivoshapkina_Sofija_life_038
+\ref vb inch
+\tx Ọl_ihin   ńụčal      emeddekednen                         delbi  ŋeːlellidʒur
+\mb ọl_ihin   ńụč -E-L   em   -E-D     -REk      -E-tEn       delbi  ŋeːl    -E-L     -RIdʒI  -L
+\ge therefore.Y Russian -ep-pl come -ep-prog -cond.cvb -ep-poss.3pl very.Y be.afraid -ep-inch -ant.cvb -pl
+
+\tx [stammers] tutulgerrep                         igin, ọlọk.
+\mb stammers   tut -E-L     -Gr(E) -R(E)   -p      iŋin ọlọx
+\ge stammers   run -ep-inch -hab   -nonfut -1pl.in etc.Y completely.Y
+
+\ft So when Russians came whe ran away, having got a big fright.
+\ru Поэтому когда приходили русские сильно испугавшись убегали.
+\ph
+\gr
+\nt
+
+\id ngel_Krivoshapkina_Sofija_life_042
+\ref vb
+\tx Ọl_ihin   ńụttụk     eti           ŋeːlle           ọːrịw.
+\mb ọl_ihin   ńụč -DUk(U) e   -RI       ŋeːl    -R       ọː  -RI  -W
+\ge therefore.Y Russian -abl    neg -impf.ptc be.afraid -neg.cvb become -pst -poss.1sg
+
+\ft So I stopped being afraid of Russians.
+\ru Поэтому я перестала бояться русских.
+\ph
+\gr
+\nt
+\qu
+
+\id ngel_Krivoshapkina_Sofija_life_050
+\ref vb inch
+\tx Biː buollar ŋeːlelejer                             buollagïm,            ọl_ihin   dʒe   dʒe
+\mb biː buollar ŋeːl    -E-L     -E  -j    -Ar         buol  -dEg      -Im    ọl_ihin   dʒe   dʒe
+\ge 1sg  dp.Y    be.afraid -ep-inch -ep -conn -prs.ptcp.Y aux.Y -assert.Y -1sg.Y therefore.Y well.Y well.Y
+
+\tx horejebin.
+\mb hor -E  -j    -EbIn
+\ge go  -ep -conn -prs.1sg.Y
+
+\ft And I got frightened, therefore I went (i.e. married him).
+\ru А я пугаюсь поэтому иду.
+\ph
+\gr
+\nt
+
+\id ngel_Krivoshapkin_Misha_008
+\ref vb
+\tx ụčụtaldụk  ŋeːlmi            mut,   hupkučektu
+\mb učitel   -DUk(U) ŋeːl    -mI       mut    hupkut -ČEk -DU
+\ge teacher.R -abl    be.afraid -cond.cvb 1pl.in learn  -nr   -dat
+\ft being afraid of the teacher, in school
+\ph
+\ru учителя боясь, мы в школе
+\ELANBegin 00:00:52.442
+\ELANEnd 00:00:55.341
+\ELANParticipant
+
+\id ngel_Krivoshapkin_Misha_009
+\ref vb
+\tx Tar   ŋeːllit.
+\mb tarak ŋeːl    -RI -t(I)
+\ge dist  be.afraid -pst -poss.1pl.in
+\ft We were afraid.
+\ru мы боялись
+\ELANBegin 00:00:55.341
+\ELANEnd 00:00:56.719
+\ELANParticipant
+
+\id ngel_Krivoshapkin_SP_oxota_057
+\ref IV ptcp (frightening - but answer to my prompt)
+\tx Ee, ŋeːlehmi.
+\mb ee  ŋeːlem       -RI
+\ge eh  be.frightening -impf.ptc
+
+\ru
+\ELANBegin 00:04:13.920
+\ELANEnd 00:04:16.660
+\ELANParticipant SPK
+
+\id ngel_Krivoshapkin_SP_oxota_072
+\ref vb
+\tx Ọččọ  ŋeːlmi            eten            ịara           eten            ịara,          emne
+\mb oččoγuna ŋeːl    -mI       e   -t(E) -n(I) ịa    -R       e   -t(E) -n(I) ịa    -R       em   -R
+\ge then.Y      be.afraid -cond.cvb neg -fut  -3sg  do.what -neg.cvb neg -fut  -3sg  do.what -neg.cvb come -neg.cvb
+
+\tx hinteki.
+\mb hin     -t(E)kI
+\ge 2sg.obl -all
+
+\ft Then (the bear) will be afraid and won't come to you.
+\ph
+\ru Тогда боясь к тебе не придет.
+\ELANBegin 00:05:18.670
+\ELANEnd 00:05:25.630
+\ELANParticipant
+
+\id ngel_meme_ded_Managič_070
+\ref caus vb
+\tx Inspektora   ešče  tarịč   ŋeːlukečiddʒoːtte                        ọːjaw      epkendʒiru          ńan
+\mb inspektora   ešče  tarak -Č  ŋeːl    -WkEn -Č  -E-D     -WEːČ -R(E)   họːja -W   hepken -DʒI -(R)U   ńaːn
+\ge inspectors.R still.R dist  -ins be.afraid -caus -res -ep-prog -gnr    -nonfut many     -acc catch  -fut  -1pl.ex and
+
+\tx štrafụjdʒịr     nan.
+\mb štrafụj -DʒI -r   ńaːn
+\ge fine.R     -fut  -3pl and
+
+\ft And the fishing inspectors also frighten us with this, if we catch a lot they will fine us.
+\ph
+\gr ŋeːlukečiddʒoːtte = vsegda pugajut, ŋeːlukeweːtte = pugajut, on menja napugal = ŋeːlukenin, ja detej pugaju =
+ŋeːlukeččoːttem, ŋeːlukerem = ja napugal (1 raz), *ŋeːlurem = netu
+\ELANBegin 00:06:09.620
+\ELANEnd 00:06:21.170
+\ELANParticipant NFI
+\ev
+\ru Рыбинспектора их пугают, много поймаем и штрафуют.
+
+\id ngel_Neustruev_PD_bearhunt_044
+\ref vb
+\tx Dʒe   kọːlahnam,             abịgadụk        edej                   ŋeːlle.
+\mb dʒe   kọl -E  -s(E)n -E  -m   abaga       -DUk(U) e   -DE -J             ŋeːl    -R
+\ge well.Y drink -ep -lim   -ep -1sg grandfather -abl    neg -purp.cvb -prfl.sg be.afraid -neg.cvb
+
+\ft I drank not to be afraid of bears.
+\ph kọlahnam -->kọlohnam
+\gr
+\nt
+\qu
+\ev
+\ru Я выпил, чтобы не бояться медведей.
+\ELANBegin 00:04:55.370
+\ELANEnd 00:04:59.230
+\ELANParticipant
+
+\id ngel_Neustruev_PD_bearhunt_045
+\ref vb
+\tx Erew      kọːlmị     hiː nakattụk    etenni         ŋeːlle           goːniken      ịadnị,
+\mb erek -W   kọl -mI       hiː nakat -DUk(U) e   -t(E) -nrI ŋeːl    -R       goːn -nIkEn   ịa    -n(I)
+\ge prox -acc drink -cond.cvb 2sg  bear  -abl    neg -fut  -2sg be.afraid -neg.cvb say   -sim.cvb do.what -3sg
+
+\tx abagawụ.
+\mb abaga       -W
+\ge grandfather -poss.1sg
+
+\ft "If you drink it, you will not be afraid of bears," -- my grandfather said.
+\ph
+\gr
+\nt
+\qu
+\ev
+\ru "Если ты выпьешь, ты не будешь бояться медведей," -- сказал дедушка.
+\ELANBegin 00:04:59.230
+\ELANEnd 00:05:06.360
+\ELANParticipant
+
+\id ngel_RDA_TPK_death_297
+\ref vb
+\tx Mutte       ŋeːlgerep,             "Ọːn kokedʒip"         gerbe.
+\mb mut    =DE  ŋeːl    -Gr(E) -p      ọːn  koke -DʒI -p      gerbe
+\ge 1pl.in =ptl be.afraid -hab   -1pl.in how     die  -fut  -1pl.in name
+\ft We are also afraid how we will die.
+\ph
+\gr gerbe instead of goniken as marker of complementation of emotion verb!
+\ru Мы тоже боимся как умрем.
+\ELANBegin 00:15:09.020
+\ELANEnd 00:15:11.820
+\ELANParticipant R
+
+\id ngel_RDA_TPK_death_298
+\ref vb
+\tx biː nahaː ŋeːlgererem                 ọlọx.
+\mb biː nahaː ŋeːl    -Gr(E) -R(E) -m     ọlọx
+\ge 1sg  very.Y be.afraid -hab   -nonfut -1sg completely.Y
+\ft I am very much afraid.
+\ph
+\gr one could also say ŋeːlgerem
+\ru
+\ELANBegin 00:15:11.820
+\ELANEnd 00:15:13.570
+\ELANParticipant T
+
+\id ngel_RDA_TPK_death_360
+\ref vb
+\tx Tadụk       emie   bej ŋeːlgeren.
+\mb tarak -DUk(U) emie   bej ŋeːl    -Gr(E) -E-n(I)
+\ge dist  -abl    also.Y man be.afraid -hab   -ep-3sg
+\ft People are (lit. a person is) also afraid of that.
+\ru Этого тоже человек боится.
+\ELANBegin 00:18:27.130
+\ELANEnd 00:18:29.020
+\ELANParticipant R
+
+\id ngel_RDA_TPK_death_362
+\ref nominalized with mediopassive
+\tx Bütünnüː ŋeːlepti.
+\mb bütünnüː ŋeːl    -E-B    -RI
+\ge entirely.Y   be.afraid -ep-med -impf.ptc
+\ft Fear from everything.
+\ph
+\gr ŋeːlepti - bojazn', strax; ŋeːlehmi = strashno; ŋeːlen = strax
+\ru От всего (все) страх.
+\ELANBegin 00:18:29.420
+\ELANEnd 00:18:32.880
+\ELANParticipant R
+
+\id ngel_stado#9_wild_animals_003
+\ref IV wolf
+\tx ŋeːlehmi...
+\mb ŋeːlem       -RI
+\ge be.frightening -impf.ptc
+
+\ft wolf
+\nt
+\ru
+\ELANBegin 00:00:09.910
+\ELANEnd 00:00:11.080
+\ELANParticipant rh
+\ev
+
+\id ngel_stado#9_wild_animals_005
+\ref IV wolf
+\tx Ŋeːlehmiw                   ulgimidden
+\mb ŋeːlem -RI -W               ulgim -i      -D    -R(E) -n(I)
+\ge be.frightening -impf.ptc -acc ask   -ipf??? -prog -nonfut -3sg
+
+\ft She's asking about wolves.
+\ru
+\ELANBegin 00:00:12.310
+\ELANEnd 00:00:15.120
+\ELANParticipant rh
+\ev
+
+\id ngel_stado#9_wild_animals_012
+\ref IV wolf
+\tx Tar   ŋeːlehmide                  bihni,          abagada          bihni.
+\mb tarak ŋeːlem       -RI       =DE  bi -R(E) -n(I)  abaga       =DE  bi -R(E) -n(I)
+\ge dist  be.frightening -impf.ptc =ptl be -nonfut -3sg grandfather =ptl be -nonfut -3sg
+
+\ft There are wolves, there are bears.
+\ph
+\nt It is taboo to call wolves and bears by their real names, that is why euphemisms are used.
+\ru Есть и волк, и медведь.
+\ELANBegin 00:00:37.200
+\ELANEnd 00:00:44.090
+\ELANParticipant AVK
+\ev Ңэлэхми-дэ бихни, абага-да бихни.
+
+\id ngel_stado#9_wild_animals_026
+\ref IV wolf
+\tx Tarbačan      ịak biheken                    bọllar uːr   dʒe   ŋeːlehmildude,
+\mb tarọːčịn ịak bi -REk -E-n(I)            buollar  uːr   dʒe   ŋeːlem       -RI       -L  -DU  =DE
+\ge dist.qual      what  be -cond.cvb -ep -poss.3sg dp.Y     before well.Y be.frightening -impf.ptc -pl -dat =ptl
+
+\tx ịaldụda         tar   keltekkendude       kapkanat,      kapkan tulgererep.
+\mb ịak -L  -DU  =DE  tarak keltekken -DU  =DE  kapkan -E-Č   kapkan tul -Gr(E) -R(E) -p
+\ge what  -pl -dat =ptl dist  wolverine -dat =ptl trap.R -ep-ins trap.R set -hab   -nonfut -1pl.in
+
+\ft In that case we set traps for wolves as well as for wolverines.
+\ph
+\ru В таких случаях мы и на волков, и на рысей ставим капканы. 
+\ELANBegin 00:01:45.590
+\ELANEnd 00:01:58.360
+\ELANParticipant AVK
+\ev Тарбочон йак бихөкөн боллар ур ңэлэхмилду-дэ, йалду-да, көлтэккэнду-дэ  капкан тулгэрэрөп
+
+\id ngel_stado#9_wild_animals_028
+\ref IV wolf
+\tx Tar   ọrọm               dʒepmi         bọllar họːjaw     ŋeːlehmi               dʒepmi         bọllar
+\mb tarak ọrọn          -W   dʒep -mI       buollar  họːja -W   ŋeːlem       -RI       dʒep -mI       buollar
+\ge dist  domestic.reindeer -acc eat   -cond.cvb dp.Y     many     -acc be.frightening -impf.ptc eat   -cond.cvb dp.Y
+
+\tx omem      ọrọm               bekeččemen                   maŋgarar,         ịakta
+\mb omen -W   ọrọn          -W   bekeč -čEn -W   -E-n(I)      man    -Gr(E) -r   ịak =DE
+\ge one  -acc domestic.reindeer -acc all    -dim  -acc -ep-poss.3sg finish -hab   -3pl what  =ptl
+
+\tx ịawanda                    esten       hụlaːwrar.
+\mb ịak -W   -E-n(I)      =DE  e   -R(E)   hụlaː -Gr(E) -R
+\ge what  -acc -ep-poss.3sg =ptl neg -nonfut leave    -hab   -neg.cvb
+
+\ft If a wolf however eats a reindeer, it eats it entirely, it doesn't leave anything.
+\ph
+\gr there is a mismatch between the subject and predicate, ŋeːlehmi ... maŋgarar, 3SG .... 3PL; since he is talking about wolves in
+general, the correct form would be ŋeːlehmi .... maŋgaran, ŋeːlehmil would only be used if one is talking about several specific
+wolves
+\ru Если волк поймает хоть одного оленя, ничего не оставляет, все съедает.
+\ELANBegin 00:01:59.060
+\ELANEnd 00:02:09.260
+\ELANParticipant AVK
+\ev Ором хойав ңэлэхми дьэпми боллар өмөн ором бөкөччэмэн маңгарар, йаван-да  өстөн  хулаврар.
+
+\id ngel_Stepanova_ZA_arrival_Tashkent_008
+\ref vb
+\tx Tarịt biː ịaram,             herehnem,           tarakam       ehemde                ŋeːlle,
+\mb tarịt biː ịa    -R(E)   -m   hor -E  -s(E)n -m   tarakam       e   -R(E)   -m   =DE  ŋeːl    -R
+\ge then    1sg  do.what -nonfut -1sg go  -ep -lim   -1sg in.those.days neg -nonfut -1sg =ptl be.afraid -neg.cvb
+
+\tx ehemde                ịar,           tarakam       bej họːja biwrerin,                bejel      aj
+\mb e   -R(E)   -m   =DE  ịa    -R       tarakam       bej họːja bi -Gr(E) -RI  -n(I)     bej -E-L   aj
+\ge neg -nonfut -1sg =ptl do.what -neg.cvb in.those.days man many     be -hab   -pst -poss.3sg man -ep-pl good
+
+\tx biwreritne
+\mb biː -Gr(E) -RI  -tEn
+\ge 1sg  -hab   -pst -poss.3pl
+
+\ft So I did, I went, I was't afraid in that time, I did'n do, in those days there were a lot of people, people were good.
+\ph
+\ru Тогда я сделала, поехала, я тогда не боялась, не делала, тогда было много людей, люди были хорошие.
+\ELANBegin 00:00:32.100
+\ELANEnd 00:00:42.780
+\ELANParticipant
+
+\id ngel_Stepanova_ZA_naled_035
+\ref vb inch
+\tx Tarịt bi   ŋeːlellidʒi              uːr   tuːtuŋeje               ujedʒeki
+\mb tarịt biː ŋeːl    -E-L     -RIdʒI  uːr   tuːten          -ŋEjE   uj     -E-ČEk -J
+\ge then    1sg  be.afraid -ep-inch -ant.cvb before get.swollen.eyes -aug.adj tie.up -ep-nr  -prfl.sg
+
+\tx balaːtalbị              bekeččemetnen             nụkram              ečin,     uleːrem.
+\mb platok     -E-L   -J       bekeč -čEn -W   -tEn      nụk    -R(E) -m     erroːčin uleː -R(E) -m
+\ge kerchief.R -ep-pl -prfl.sg all    -dim  -acc -poss.3pl take.off -nonfut -1sg prox.qual  throw -nonfut -1sg
+
+\ft Then I got a fright and took off all the scarves that I had tied before and that didn't let me see properly and threw them down.
+\ph
+\gr 260312: there is a descriptive verb tuːtendej "statj s opuxshimi glazami", the durative/imperfective form is tuːtuŋčidej (vowel
+assimilation), and the adjectives are tuːteku, tuːtuŋeje
+\gr (file Stepanova_ZA_naled_transl, 15:30) dʒek = the same as -hek, but has a durative meaning or refers to the past, while -hek is
+more general, or refers to the present, one could also say ujeheki; (10_quest_2010, 13:00) ujedʒeki = lit. 'svoe povjazannoe';
+one could say ujedʒeku bụlaːtalbụ, but one cannot say *ujedʒek bụlaːtalbụ
+\nt
+\ru Я испугавшись повязанные платки все развязала так бросила.
+\ELANBegin 00:03:39.544
+\ELANEnd 00:03:50.386
+\ELANParticipant transl file 16:00
+
+\id ngel_Stepanova_ZA_naled_038
+\ref vb inch
+\tx Oo, bi   ŋeːlellem,                    họːč    ŋeːlellem,                    ere  nọŋan tụrkịn
+\mb oo  biː ŋeːl    -E-L     -R(E) -m     họː -Č  ŋeːl    -E-L     -R(E) -m     erek nọŋan tụrkị -n(I)
+\ge oh  1sg  be.afraid -ep-inch -nonfut -1sg very   -ins be.afraid -ep-inch -nonfut -1sg prox 3sg      sled      -poss.3sg
+
+\tx ečikkekoːn              lọdkamdas  melumečidni      dʒiː, noːwu                    moːle
+\mb erroːčin -kkEn -KEn     lodka  -mdEs melumet -E  -n(I) dʒIː  noː            -W        moː  -(dU)LE
+\ge prox.qual  -dim  -dim.int boat.R -sml  rock    -ep -3sg  aff     younger.sibling -poss.1sg water -loc
+
+\tx gịrkačịddan.
+\mb gịrka -Č  -E-D     -R(E) -n(I)
+\ge walk    -res -ep-prog -nonfut -3sg
+
+\ft Oh, I got a fright, a big fright, here his sled is floating?? in the water like this like a boat, my brother is walking in water.
+\gr (10_quest_2010, 15:50) gịrkačịddan - dolgo xodit; gịrkaddan would not be good here, ne podxodit zdes', gịrkačịddan is better,
+podxodit
+\ru Я испугалась, очень испугалась, и его нарты так как лодка ччч мой брат ходит по воде.
+\ELANBegin 00:04:02.619
+\ELANEnd 00:04:14.995
+\ELANParticipant
+
+\id ngel_Stepanova_ZA_naled_043
+\ref vb inch
+\tx Họːč    ŋeːlelčelew                               Elena tala          kụnịnịkan     ịrkanịkan
+\mb họː -Č  ŋeːl    -E-L     -čE    -(dU)LE -W        Elena tarak -(dU)LE kụːnị -nIkEn   ịrka -nIkEn
+\ge very   -ins be.afraid -ep-inch -pf.ptc -loc    -poss.1sg Elena dist  -loc    scream     -sim.cvb scream -sim.cvb
+
+\tx ịlačaddan.
+\mb ịl     -E-Č   -E-D     -R(E) -n(I)
+\ge stand.up -ep-res -ep-prog -nonfut -3sg
+
+\ft When I got a big fright, Elena stood there screaming.
+\ph kụnịnịkaːːːːn
+\gr ịrka- = standard Even, kụnị- = Sebjan, both just mean 'scream'
+\gr I asked Ija during the translation whether the locative-marked perfect participle here might have a meaning of 'I got such a big
+fright', similar to the cond.cvb frequently having a meaning of 'a vdrug ja uvizhu' etc, but she said, no, only the temporal
+meaning
+\ru Когда я очень испугалась, Елена там крича стоит.
+\ELANBegin 00:04:36.276
+\ELANEnd 00:04:41.684
+\ELANParticipant
+
+\id ngel_Stepanova_ZA_svatovstvo_23
+\ref vb
+\tx Tarda      bihikleːr                     ere  ammụ           akannị                šaman goːniken
+\mb tarak =DE  bi -RI       -klE     -WUr     erek aman   -W        akan          -n(I)     šaman goːn -nIkEn
+\ge dist  =ptl be -impf.ptc -all.loc -prfl.pl prox father -poss.1sg older.brother -poss.3sg shaman say   -sim.cvb
+
+\tx haːrịn,          teːmi    tadụk       nọŋan toremen                     čịkịrịj
+\mb haː -RI  -n(I)     teːmi    tarak -DUk(U) nọŋan tore  -n  -W   -E-n(I)      čịkị -RI       -J
+\ge know -pst -poss.3sg therefore dist  -abl    3sg      speak -nr -acc -ep-poss.3sg cut.off   -impf.ptc -prfl.sg
+
+\tx ŋeːlmi,           tarkandụ          ee goːnče      bihin.
+\mb ŋeːl    -mI       tarkan-dụ         ee goːn -čE    bi -RI  -n(I)
+\ge be.afraid -cond.cvb at.the.right.moment eh say   -pf.ptc be -pst -poss.3sg
+
+\ft Even though that was the case, she knew that my father's elder brother was a shaman, therefore being afraid of refusing him (lit.
+cutting his words) she immediately said "yes".
+\ru Будучи так, она знала что брат отца шаман, поэтому боясь отрезать его слова, сразу сказала да.
+\ph
+\gr Ija analyzes "tarkandụ" as tarak-DIM-DAT, but Robbek gives it as a hyphenated form; I would think it's already lexicalized
+
+\id ngel_Tatjana_Petrovna_family_071
+\ref IV incorrect form; should be ptcp
+\tx Net! At  ač, ač ŋeːlhe,                     ehep.
+\mb net  ač ač  ač ŋeːlem       -RI       -LE  e   -R(E)   -p
+\ge no.R neg neg  neg be.frightening -impf.ptc -prv neg -nonfut -1pl.in
+
+\ft No, it's not frightening, we aren't frightened.
+\ru Нет, не страшно, мы не боимся.
+\ph
+\gr literally, if the form were correct, then ač ŋeːlehmile would mean 'there is no frightening (thing, animal), and the ehep only
+means 'we don't', which Ija translated as 'we aren't frightened'
+\gr ač ŋeːlehmile would be the correct form of the verb, there's a stative verb ŋeːlem 'be frightening', and from this the participle
+(says Ija) is ŋeːlehmi - which might be a metathesis from ŋeːlemsi, no? ŋeːlehmen = something is frightening, the nonfuture 3SG
+form (translation session Tat_Petr_family_photos, around 3min30/4min00); so this stative verb appears to have the same
+declination as bi- and e-
+\ELANBegin 00:08:19.050
+\ELANEnd 00:08:26.400
+\ELANParticipant
+
+\id ngel_Tatjana_Petrovna_family_157
+\ref vb
+\tx Emer... emer  eŋi   ọrọlčịmŋa[l]    este        ŋeːlgerer               delgenkel
+\mb emer    emer  eŋi   ọrọlčị -mŋE -L  e   -R(E)   ŋeːl    -Gr(E) -R       dʒelgenke -L
+\ge sharp   sharp strong herd.reindeer -agnr -pl neg -nonfut be.afraid -hab   -neg.cvb animal     -pl
+
+\tx ịaldụk        delgenkelduk.
+\mb ịak -L  -DUk(U) dʒelgenke -L  -DUk(U)
+\ge what  -pl -abl    animal     -pl -abl
+
+\ft Sharp, strong reindeer herders aren't afraid of animals.
+\ru Сильные оленеводы не боятся животных.
+\ph ŋelgerer
+\ELANBegin 00:16:08.150
+\ELANEnd 00:16:21.830
+\ELANParticipant
+
+\id tukun_Bochilikan_etiken_050
+\ref vb inch, angry
+\tx Bọčịlịkan tịkụlran,             ịadʒịnka,            dʒụːgaj              elben.
+\mb Bọčịlịkan tịkụl -R(E)   -E-n(I) ịa    -DʒI -n(I) =kE   dʒụː -GE    -J       elbe       -n(I)
+\ge Bochilikan       get.angry -nonfut -ep-3sg do.what -fut  -3sg  =emph house    -desig -prfl.sg cover.yurt -3sg
+
+\ft Bochilikan got angry, but what should he do, built himself a yurt.
+\ru Бочиликан рассердился но ничего не смог делать и соорудил себе чум.
+\ru Бочиликан рассердился, а что поделает, поставил себе дом.
+\ELANBegin 272.050
+\ELANEnd 278.290
+\ELANParticipant
+
+\id tukun_Egorova_RM_Uindja_032
+\ref vb inch, angry
+\tx Ńan   Ụịndʒa ọːdịda,      tịkụladdanasị,                       dilŋiŋčin        moːle
+\mb ńaːn Ụịndʒa họː -DI   =DE  tịkụl -E  -D    -R(E) -n(I)  -E  =sI   dʒilŋuŋči -n(I) moː  -(dU)LE
+\ge and    Uindja      very   -adjr =ptl get.angry -ep -prog -nonfut -3sg -ep =emph jump          -3sg  water -loc
+
+\tx epkendej                   taraw.
+\mb hepken -DE  -J             tarak -W
+\ge catch  -purp.cvb  -prfl.sg dist  -acc
+
+\ft After that Undja got angry much more, he jumped in the water to catch that guy.
+\ph
+\gr 1) ọːdịda : what is -dị-? ọːdị -- more, to a large degree, E. g. nọŋan ọːdị tịkụllịn -- he got  angrier. There is also a word ọdịč:
+nọŋan ọdịč tịkụllịn -- he got  angrier. ọdịkakan --  a little bit more 2) dilŋiŋči : PST-1SG dilŋiŋčiriwu,  PST-2Sg dilŋiŋčiris,
+FUT-1SG dilŋiŋčidʒim , IMP dilŋiŋčili, dilŋiŋčisli (kogda deti prigajut cherez prygalki)
+\nt
+\ELANBegin 00:02:13.840
+\ELANEnd 00:02:22.280
+\ELANParticipant RME
+\ev
+\ru Тогда Уиндя еще пуще обозлился. Прыгнул в воду, чтобы его поймать.
+
+\id tukun_Kejmetinova_TV_family_028
+\ref vb, hate
+\tx Bastaːn,  kollen kụŋa bidniken          otton kot,     koška gerbew     ebendule     tarbačan      ačča,
+\mb bastaːn   kotlen kụŋa bi -D    -nIkEn   otton kot      koška gerbe -W   ewen -(dU)LE tarọːčịn ačča
+\ge at.first.Y small  child   be -prog -sim.cvb dp.Y  tomcat.R cat    name  -acc Even -loc    dist.qual      neg
+
+\tx tụkụngarar.
+\mb tụkụn -Gr(E)      -r
+\ge hate      -hab.nonfut -3pl
+
+\ft At first, when I was a small child, well Evens didn't have cats, (they) disliked (them).
+\ru Сначала, будучи маленьким ребенком, ну у эвенов  этого нет, котов и кошек они не любят.
+\ph
+\gr gerbew is probably in the Accusative because it is the object of tụkụngarar, with "ebendule tarbačan ačča" being an
+eingeschobener explanatory sentence
+\nt
+
+\id tukun_Tulasynova_LA_family_history_259
+\ref vb, hate
+\tx maː... er... Ergidel        tụkụŋnačal,            bejetnen         maːdaŋatnan               bejen
+\mb maː    erek  erek -gIdE -L  tụkụn -Gr(E) -čE -L     bej    -tEn      maː -DEŋ    -E  -tEn      bej -E-n(I)
+\ge kill    prox  prox -part -pl hate      -hab   -pf.ptc -pl self.Y -poss.3pl kill -pst.ptc -ep -poss.3pl man -ep-poss.3sg
+
+\tx hụnaːdʒịn          bimi,  tụkụŋnačal.
+\mb hụnaːdʒ -E-n(I)      bi -mI tụkụn -Gr(E) -čE -L
+\ge daughter    -ep-poss.3sg be -vr hate      -hab   -pf.ptc -pl
+
+\ft The locals hated her because she was the daughter of the man they themselves had killed, they hated her.
+\ph
+\ru А местные ее ненавидели потому что она была дочерью человека которого они сами убили
+\ELANBegin 00:24:14.570
+\ELANEnd 00:24:25.386
+\ELANParticipant
+
+\id tukun_Tulasynova_LA_family_history_261
+\ref ptcp, hate
+\tx Ọttọn tụkụnịwụtna          haːwrača.
+\mb ọttọn tụkụn -RI -W -tEn        haː -Gr(E) -čE
+\ge dp.Y      hate -ipf.ptc -acc -poss.3pl know -hab   -pf.ptc
+\ft But she knew that they hated her.
+\ru Она знала что они ее ненавидят.
+\ELANBegin 00:24:32.601
+\ELANEnd 00:24:35.760
+\ELANParticipant
+
+\id tukun_ZAS_jubki_Aniwrin_099
+\ref IV excl poss
+\tx Taraw      dʒe   ịatda         ečin      grušatda        taːssịmị          turkurem
+\mb tarak -W   dʒe   ịak -Č  =DE  erroːčin gruša -Č  =DE  taːn -sčI  -mI       turku       -R(E) -m
+\ge dist  -acc well.Y what  -ins =ptl prox.qual  pear.R -ins =ptl pull  -conat -cond.cvb not.be.able -nonfut -1sg
+
+\tx ịak tụkụńan              ehni           emehme                 tarbačan      goːnidʒi.
+\mb ịak tụkụn -(h)E -n(I)     e -R(E) -n(I)  em   -E  -m   -R       tarọːčịn goːn -RIdʒI
+\ge what  hate      -excl -poss.3sg neg -nfut -3sg come -ep -des -neg.cvb dist.qual      say   -ant.cvb
+
+\ft I tried to suck that out with a bulb like this, how annoying, it doesn't want to come, this one!
+\ph turkurem - sounds more like turkuram
+\gr ịak tụkụńan - one could also say ịak tụkụńaw, ịak tụkụńas
+\ru Это чем угодно и грушой утянуть не смогла, как раздражительно не хочет  идти этот
+\ELANBegin 00:07:15.700
+\ELANEnd 00:07:21.980
+\ELANParticipant

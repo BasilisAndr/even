@@ -1,0 +1,1094 @@
+\_sh v3.0  400  Text
+
+\id KAM_Amganov_EI_leaving_Twajan_096
+\tx Elekes   ittiwun               tarọːčịn, ịakawụ   tụrkị erek dʒụː urečinni.
+\mb elekes   it  -RI -WUn          tarọːčịn  ịak -awụ tụrkị erek dʒụː ureːčin -n(I)
+\ge at.first see -pst -poss.1pl.ex dist.qual       what  -emph  sled      prox house    similar   -poss.3sg
+
+\ft We saw that for the first time, what on earth is this, a sled like a house!
+\ph
+\gr (trans.file Amganov_Twajan_trans2_RME, 36:10) biː urečinni, iː urečinni, nọŋan urečinni, buː urečil, uː urečil, nọŋartan urečil
+\ELANBegin 00:08:04.302
+\ELANEnd 00:08:09.216
+\ELANParticipant
+\ev
+\ru Впервые увидели такое, что это за сани, на дом похожие.
+
+\id KAM_Egorova_RM_Anin_1_075
+\nt
+\tx Ńanasị       eːčendulen          ečin      ịgat urečinni,          ịgattụkkka
+\mb ńaːn -E=sI    iečen -(dU)LE -n(I)  erroːčin ịgat ureːčin -n(I)     ịgat -DUk(U) =kkE
+\ge and    -ep=emph elbow  -loc -poss.3sg prox.qual  sore   similar   -poss.3sg sore   -abl    =ptl
+
+\tx biweːtten,             ụdʒan.
+\mb bi -WEːČ -R(E) -n(I)  ụdʒ -E-n(I)
+\ge be -gnr    -nonfut -3sg track  -ep-poss.3sg
+\ft And on her elbow there is something like a sore, traces remain, right, from sores.
+\ru И вот на локте у нее вот так на болячку похоже, от болячки же бывает след.
+\ev Нянаши эчэндулэн эчин иат урэчинни, иаттук-кка бивэттэн, удьин.
+\ELANBegin 00:07:26.180
+\ELANEnd 00:07:34.060
+\ELANParticipant
+
+\id KAM_Egorova_RM_Anin_1_187
+\nt
+\tx Nọŋan ịtịːdʒịda           baːddʒịda                Vasilina Aljọkka urečin,  ịasalanmakan.
+\mb nọŋan ịtịː -DʒI        =DE  baːd      -DʒI        =DE  Vasilina Alёša   ureːčin ịašal -E-n(I)      -mEkEn
+\ge 3sg      face      -ins.prfl.sg =ptl appearance -ins.prfl.sg =ptl Vasilina Aljosha   similar   eyes     -ep-poss.3sg -ints
+
+\ft She, Vasilina, is also similar to Aljosha in her appearance, her face, especially her eyes.
+\ru Она лицом тоже, обличием тоже Василина на Алешу похожа, особенно глазами.
+\ev Ноӈан итиди-да, бадди-да  Василина Алёкка урэчин, яшаланмакан.
+\ELANBegin 00:16:37.640
+\ELANEnd 00:16:44.580
+\ELANParticipant RME
+
+\id KAM_Egorova_RM_Arishal_025
+\ref
+\tx Ịkụtị  ịtịːnda             uŋe          awačča             elekeš  urečinni,          ńọːbatị, ńuritende
+\mb ịkụt -E  ịtịː -n(I)     =DE  uŋ       -E  aw   -E-Č   -čE    elekes   ureːčin -n(I)     ńọːbatị  ńuːrit -E-n(I)      =DE
+\ge straight -ep face      -poss.3sg =ptl something -ep wash -ep-res -pf.ptc at.first similar   -poss.3sg white          hair     -ep-poss.3sg =ptl
+
+\tx ụlakčamnan,  tetuttende                          kostjumeč.
+\mb ụlakča -mrIn tet    -U    -Č  -R(E) -n(I)  =DE  kostjum -E  -Č
+\ge wet       -attn put.on -caus -res -nonfut -3sg =ptl suit.R  -ep -ins
+
+\ft And really his face is as if only just washed, white, and his hair is damp, and he's wearing a suit.
+\ph
+\gr ulakčamnan = mokrovatye = ulakčamnin, so I'm simply glossing it as the attenuative suffix -mrin
+\ev Икути итинда уӈ авачча элэкэш урэчинни нёбати, нюританда улакчамнан,  тэтуттэндэ костюмач.
+\ru И прямо лицо его как будто только что помытое, белое, и волосы его  мокроватые, и одет в костюм.
+\nt
+\ELANBegin 00:02:11.813
+\ELANEnd 00:02:21.842
+\ELANParticipant RME
+
+\id KAM_Egorova_RM_father_farrier_046
+\ref
+\tx Ịakut        meč    urečinni           goːweːtte           kọːšaŋa.
+\mb ịak =(W)UttE meč    ureːčin -n(I)     goːn -WEːČ -R(E)   kọːsaŋa
+\ge what  =indef   sword.R similar   -poss.3sg say   -gnr    -nonfut big.knife
+\ft Something similar to a sword, it was called koshanga (lit. they said koshanga).
+\nt
+\ev Якут меч урэчинни говэттэ кошаӈа.
+\ru Что-то на меч похожее, называлось кошаӈа.
+\ELANBegin 00:03:50.142
+\ELANEnd 00:03:54.518
+\ELANParticipant RME
+
+\id KAM_Egorova_RM_Utakan_073
+\ref
+\tx Ńan   tettoːtte             dịl uŋnen,                  aːwan   urečinni,          ečin      tettoːtte,            elek urečinni.
+\mb ńaːn tet    -WEːČ -R(E)   dịl uŋ       -(dU)LE -n(I)  aːwụn ureːčin -n(I)     erroːčin tet    -WEːČ -R(E)   elek ureːčin -n(I)
+\ge and    put.on -gnr    -nonfut head  something -loc -poss.3sg hat      similar   -poss.3sg prox.qual  put.on -gnr    -nonfut bag  similar   -poss.3sg
+\ft And they put it on their heads, like a hat, they put it on like this (shows with her hands how they put it on their heads), like a bag.
+\nt
+\ev Нян тэттоттэ дил уӈнэн, аван урэчинни, эчин тэттоттэ, элэк урэчинни.
+\ru И одевали на голову, на шапку похожая, так одевали, на мешок похожая.
+
+\ELANBegin 00:06:53.250
+\ELANEnd 00:06:59.370
+\ELANParticipant RME
+
+\id KAM_Egorova_RM_Utakan_076
+\ref
+\tx Kọrọtandaši                  meretikeken,  kọbalan kọrọtan            urečinni.
+\mb kọrịt -E-n(I)      =DE  =sI   mereti -kEkEn kọbalan kọrịt -E-n(I)      ureːčin -n(I)
+\ge ear       -ep-poss.3sg =ptl =emph circle -dim   bear      ear       -ep-poss.3sg similar   -poss.3sg
+\ft And its ears were round, like the ears of a bear.
+\nt
+\ev Коротандаши мэрэтикакан, кобалан коротан урэчинни.
+\ru А уши у него кругленткие были, на медвежьи уши были похожи.
+
+\ELANBegin 00:07:11.160
+\ELANEnd 00:07:15.580
+\ELANParticipant RME
+
+\id KAM_Egorova_RM_Yakutia086
+\ref 13:47
+\tx Muttitte         olenovodịlti                        urečin   ọrọmŋalta
+\mb mut    =tIt =DE  olenovod          -E-L   -t(I)        ureːčin ọrọn          -mŋE -L  =DE
+\ge 1pl.in =ptl =ptl reindeer.herder.R -ep-pl -poss.1pl.in similar   domestic.reindeer -agnr -pl =ptl
+
+\tx tačịnda          nogleŋeːmkeril        aːnda     taːrụtị ịtịːtan        ịamịwụttasị     čileńe.
+\mb tarọːčịn =DE  nogleŋeː -mkEr -E-L   haːn =DE  taːrụtị ịtịː -tEn      ịamị =(W)UttE =sI   čileńe
+\ge dist.qual      =ptl shaggy     -aug  -ep-pl some  =ptl dirty        face      -poss.3pl why      =indef   =emph dark
+
+\ft Just like our reindeer herders, just as shaggy, some of them just as sunburnt, as if their faces were dirty.
+\ru Такие же как наши оленоводы, такие же лохматые, такие же загорелые, как чумазые, некоторые.
+\ph noγleŋeːmkeril
+\gr čileńe = here: sunburnt
+
+\id KAM_Grigoreva_NI_fox_reindeerherder_090
+\ref
+\tx "Ešnidetitte                 urečinnide              ńibukew.
+\mb e -R(E) -n(I)  =DE  =tIt =DE  ureːčin -n(I)     =DE  ńubuke -W
+\ge neg -nfut -3sg =ptl =ptl =ptl similar   -poss.3sg =ptl thin    -acc
+\ft "Somehow he doesn't look thin.
+\ev
+\ru Что-то она не похоже на худую.
+\ELANBegin 00:07:39.667
+\ELANEnd 00:07:44.165
+\ELANParticipant
+
+\id KAM_Grigoreva_NI_legend_Alngej_086
+\ref
+\tx beγ,    beγ     ureččon,         tarma tarak ịak beγ     tarak ịakawụ   ịak beγ     tarak uŋe          šamanịlkke
+\mb beg      beg      ureːčin -Con     tarma tarak ịak beg      tarak ịak -awụ ịak beg      tarak uŋ       -E  šaman   -E-L   =kkE
+\ge medicine medicine similar   -acc.3sg but   dist  what  medicine dist  what  -emph  what  medicine dist  something -ep shaman.R -ep-pl =ptl
+
+\tx uŋŋoːtte.
+\mb uŋ -WEːČ -R(E)
+\ge do  -gnr    -nonfut
+
+\ft like medicine, but that isn't poison, what is that, not poison, it's what shamans make.
+\ph I don't hear ureččon in the beginning, but ureːčen or ureččen, but Rimma said it was ureččon, which would make sense syntactically, if it's the continuation of the preceding sentence
+\nt she seems to get a bit hung up on the beγ and stumbles over it
+\ev
+\ru Похоже на лекарство, но это не лекарство, это то что шаманы делают.
+\ELANBegin 00:13:02.000
+\ELANEnd 00:13:14.040
+\ELANParticipant
+
+\id KAM_Grigoreva_NI_shkola_remesel_1_187
+\ref
+\tx Maranŋaγčin     nọːdịkawan,               tor,  tor   nọːdịkawan,               maranŋa urečin   biweːtten.
+\mb maranŋa -G(E)čIn nọːdịka -W   -E-n(I)      tor   tor   nọːdịka -W   -E-n(I)      maranŋa ureːčin bi -WEːČ -R(E)   -n(I)
+\ge rainbow  -sml      ornament     -acc -ep-poss.3sg earth earth ornament     -acc -ep-poss.3sg rainbow  similar   be -gnr    -nonfut -3sg
+\ft Like a rainbow, the beauty, the beauty of the earth, it can be like a rainbow.
+\ph
+\qu nodika = krasota?? or is it nodik?
+\ev Марангачин нодыкаван тур тур нодыкаван, маранга урэчин бивэттэн.
+\ru Как радуга, красоту земли, красоту, на радугу похожую бывает.
+
+\ELANBegin 00:18:56.600
+\ELANEnd 00:19:03.800
+\ELANParticipant NIG
+
+\id KAM_Ichanga_Adukanov_museum033
+\ref
+\tx Ịak uŋe ewkilbe       uŋniten,          a     ewki bisin             tarka       bejtede
+\mb ịak uŋe ewki -L  -W   uŋ -RI  -tEn      a.R   ewki bi -RI  -n(I)     tarak =kE   bej =t(E)     =DE
+\ge what  now  god  -pl -acc do  -pst -poss.3pl but.R god  be -pst -poss.3sg dist  =emph man =utočnit =ptl
+
+\tx urečin,  omen_ịlkị.
+\mb ureːčin omen_hịlkị
+\ge similar   all.the.same
+
+\ft They didn't make gods, but (a) god was similar, identical to humans.
+\ru Не боги делали, а бог был тоже как человек похоже, одинаково.
+
+\id KAM_Ichanga_Adukanov_muzej1_cont_301
+\ref
+\tx I,    uŋe,         tiːk olločiddiwun                     etikeːr     guːniten            ịak mereti bihin             ọrọčịl
+\mb i     uŋ       -E  tiek  hollot -E-D     -RI -WUn          etikeːn -L  goːn -RI -tEn       ịak mereti bi -RI -n(I)      ọrọč -E  -L
+\ge and.R something -ep now   go     -ep-prog -pst -poss.1pl.ex old.man  -pl say   -pst -poss.3pl what  circle be -pst -poss.3sg Oroch     -ep -pl
+
+\tx untunten,             a     uŋe,         ụmta urečinni.
+\mb untun       -tEn      a.R   uŋ       -E  ụmta ureːčin -n(I)
+\ge shaman.drum -poss.3pl but.R something -ep egg    similar   -poss.3sg
+\ft And now, when we went (somewhere), the old men said that Even shaman drums were not round, but shaped like an egg.
+\ev
+\ru И вот сейчас когда мы ездили, старики сказали, что не круглое был у эвенов бубен, а вот, на яйцо похожий.
+\ELANBegin 00:21:51.908
+\ELANEnd 00:22:01.502
+\ELANParticipant AEI
+
+\id KAM_Ichanga_Adukanov_muzej2_085
+\ref
+\tx awša urečinni,          awša erek
+\mb awsa  ureːčin -n(I)     awsa  erek
+\ge bag   similar   -poss.3sg bag   prox
+\ft this is like an awsha, this is an awsha (little bag)
+\ev
+\ru похоже на авша, это авша
+\ELANBegin 00:04:58.820
+\ELANEnd 00:05:02.050
+\ELANParticipant AEI
+
+\id KAM_Kizjavka_GI_life_Anavgaj_103
+\ref
+\tx Talada             toŋeːr binni,           ečin      čaša urečinni.
+\mb tarak -(dU)LE =DE  toŋeːr bi -R(E)   -n(I) erroːčin čaša ureːčin -n(I)
+\ge dist  -loc    =ptl lake     be -nonfut -3sg  prox.qual  bowl.R similar   -poss.3sg
+\ft And there's a lake there, similar to a bowl, like this (shows a big deep bowl with her hands).
+\ev Тала-да тоӈэр бинни-эчин чаша урэчинни.
+\ru Там ещё озеро есть-вот так на чашу похоже.
+\ELANBegin 00:06:59.280
+\ELANEnd 00:07:06.025
+\ELANParticipant
+
+\id KAM_Paderina_Egorova_razgovor_202
+\ref
+\tx Ịašalan            bienari                urečinni           bisin.
+\mb ịašal -E-n(I)      biena        -RI       ureːčin -n(I)     bi -RI  -n(I)
+\ge eyes     -ep-poss.3sg become.drunk -impf.ptc similar   -poss.3sg be -pst -poss.3sg
+
+\ft His eyes were like those of a drunk.
+\ph
+\gr one could also say bienariγčin bišin
+\ph ịašalịn 
+\ELANBegin 00:18:18.230
+\ELANEnd 00:18:21.900
+\ELANParticipant RME
+\ru Глаза как у пьяного были.
+\ev Ясылын бенари урэчинни бисин.
+
+\id KAM_Paderina_Egorova_razgovor_202c
+\ref
+\tx Ńan   guː... Sergejteki     guːnem            ešni,            ịaščịddịnụt                        tadụ     tarịː    guːnem,
+\mb ńaːn goːn   Sergej -t(E)kI goːn -R(E)   -m   e   -R(E)   -n(I) ịa    -sčI  -D    -RI  -n(I)     =(W)UttE tarak -DU  tarak =Iː  goːn -R(E)   -m
+\ge and    say     Sergej -all    say   -nonfut -1sg neg -nonfut -3sg  do.what -conat -prog -pst -poss.3sg =indef   dist  -dat dist  =emph say   -nonfut -1sg
+
+\tx bienari                urečin,  tawụr guːnni     keńeliw     nekeddin.
+\mb biena        -RI       ureːčin tawụr goːn -n(I) keńeli -W   nek -E-D     -RI  -n(I)
+\ge become.drunk -impf.ptc similar   this    say   -3sg  bad     -acc do  -ep-prog -pst -poss.3sg
+
+\ft And (I) say.... I say to Sergej, no, what was he trying to do there, he was like a drunk, and he says "he did something bad".
+\ph
+\gr iasčiddinut = chto-to on delal tam, the same -ut as in iawut, i.e. indefinite clitic
+\ev
+\ELANBegin 00:18:24.420
+\ELANEnd 00:18:33.600
+\ELANParticipant RME
+\ru И го..Сергею говорю-нет..он  что-то там делал-как пьяный был.Это-сказал-плохое делал.
+\ev Нян гу..Сергей тыки  гуным-эшни,яшчиддинуттаду тар-бенари урэчин.\тавыр-гунни-кэнелив  ныкыддин.
+
+\id KAM_Solodikova_RM_nimkan_014
+\tx "Erek bej tiniwde        ečintitte      desčiddin,                 ịamịwụt     kokečede         urečinni."
+\mb erek  bej tiniw     =DE  erroːčin =tIt desči -D    -RI  -n(I)     ịamị =(W)UttE koke -čE    =DE  ureːčin -n(I)
+\ge prox  man yesterday =ptl prox.qual  =ptl lie    -prog -pst -poss.3sg why      =indef   die  -pf.ptc =ptl similar   -poss.3sg
+
+\ft "This man was lying here just like this yesterday, for some reason he seems to have died."
+\ph
+\gr kokeče/ńoːmeče is usual for dead people; difference kokeče and ńoːmeče: ńoːmeče when died of natural causes, dolgo bolel i umer; kokeče = neozhidanno, mozhet tragicheski pogib
+\ev
+\ru "Вот этот человек вчера также лежал, почему-то на мертвого похож".
+\ELANBegin 00:01:43.766
+\ELANEnd 00:01:51.943
+\ELANParticipant RMS
+
+\id KAM_Solodikov_GA_tabun_120
+\ref
+\tx Nọŋanasị     vot    ejeki                            ordinni,       muke      urečinni.
+\mb nọŋan -E=sI    vot    ejeːn                 -skI      hor -D    -nrI muke      ureːčin -n(I)
+\ge 3sg      -ep=emph here.R lower.reaches.of.river -advb.all go  -prog -2sg posterior similar   -poss.3sg
+
+\ft As for him, well you go downriver, it's like a backside.
+\ELANBegin 00:10:58.558
+\ELANEnd 00:11:06.932
+\ELANParticipant GAS
+\comment
+\ev Ноӈана-ши вот эйэки урдинни...Мука урэчинни.
+\ru Он же, вот вниз по реке пойдешь.... На задницу похожа.
+
+\id KAM_Solodikov_GA_tabun_122
+\ref
+\tx Muke      urečinni           dʒoːrke    tar   daramandʒaːlnị              tar   ičuddʒoːtte                   tar.
+\mb muke      ureːčin -n(I)     dʒoːr =kkE tarak daram -E  -ńdʒE -L  -n(I)     tarak it  -W     -D    -WEːČ -R(E)   tarak
+\ge posterior similar   -poss.3sg two     =ptl dist  thigh -ep -aug    -pl -poss.3sg dist  see -advrs -prog -gnr    -nonfut dist
+
+\ft Like a backside, its two big thighs, right, can be seen there.
+\ph
+\ELANBegin 00:11:06.932
+\ELANEnd 00:11:14.125
+\ELANParticipant GAS
+\comment
+\ev Мука урэчинни дюр-ка тар дарамандялни тар ичуддёттэ тар.
+\ru На задницу похожа две же там... половинки вот виднеются вон.
+
+\id SEB_Alekseeva_RD_lost_tapes_znatoki_070
+\tx Egdʒen eŋeje bej biče      urečen   goːŋnen.
+\mb egdʒen eŋeje bej bi -čE    ureːčin goːn -Gr(E) -n(I)
+\ge big     rich   man be -pf.ptc similar   say   -hab   -3sg
+\ft He says, he seems to be a very rich person.
+\ph
+\gr
+\nt Who says? Probably Tit Petrovich, the brother of Tatjana Petrovna.
+\ru Был очент богатый человек, кажется, говорит.
+\ELANBegin 00:05:59.880
+\ELANEnd 00:06:04.070
+\ELANParticipant
+
+\id SEB_AXK_Sebjan_history_1_086
+\tx Tiːk durče       uručun,  tarak dʒụː, ere, erek dur... durčemdes         bihin.
+\mb tiek  dur  -čE    ureːčin tarak dʒụː  erek erek dur    dur  -čE    -mdEs bi -RI -n(I)
+\ge now   burn -pf.ptc it.seems  dist  house     prox prox burn   burn -pf.ptc -sml  be -pst -poss.3sg
+
+\ft Now that has burnt, it seems, that house, this... as if it burnt.
+\ph says irek instead of erek
+\ru Сейчас сгорел кажется, этот домик, будто сгорел.
+\ELANBegin 00:12:01.260
+\ELANEnd 00:12:07.680
+\ELANParticipant
+
+\id SEB_beseda_0252
+\tx Biː ọŋkọ bütünnüːwen                dasča        bihem           urečin.
+\mb biː ọŋkọ bütünnüː -W   -E-n(I)      das   -čE    bi -R(E)   -m   ureːčin
+\ge 1sg  ptl       entirely.Y   -acc -ep-poss.3sg cover -pf.ptc be -nonfut -1sg similar
+
+\ft It seems, I shielded everything.
+\ph
+\ru Я ведь все закрыла, кажется.
+\ELANBegin 00:06:50.742
+\ELANEnd 00:06:52.266
+\ELANParticipant IAS
+
+\id SEB_beseda_0396
+\tx Họːja ịadda               urečin,  nostečekeːl     bimi.
+\mb họːja ịa    -D    -R(E)   ureːčin noste -čEkEn -L  bi -mI
+\ge many     do.what -prog -nonfut similar   young -plen   -pl be -cond.cvb
+
+\ft They seem to do a lot, because they are young.
+\ph nostočekeːl
+\gr
+\ru Много делают, кажется, потому что они молодые.
+\ELANBegin 00:11:42.690
+\ELANEnd 00:11:45.576
+\ELANParticipant NPZ
+
+\id SEB_beseda_0526
+\tx Bejŋitnen                  uručen   goːli,        ere?
+\mb bej    -ŋI       -tEn      ureːčin goːn -LI      erek
+\ge self.Y -pred.poss -poss.3pl it.seems  say   -imp.2sg prox
+
+\ft it's theirs, it seems, right, this?
+\ph
+\gr bejŋitnen = correct form, ix svoe; bejetnen = oni sami
+\nt continuing about the milk
+\ru это ихнее, кажется, скажи, это
+\ELANBegin 00:15:41.270
+\ELANEnd 00:15:42.925
+\ELANParticipant LNZ
+
+\id SEB_beseda_0723
+\tx Noːčel              ehni           ịawrar            uručun,  goːli?
+\mb noː            -čEl e -R(E) -n(I)  ịa    -Gr(E) -r   ureːčin goːn -LI
+\ge younger.sibling -com  neg -nfut -3sg do.what -hab   -3pl it.seems  say   -imp.2sg
+\ft it seems she doesn't do something (get on) with her younger sister, right?
+\ru она кажется с младшей сестрой не того
+\ELANBegin 00:21:16.795
+\ELANEnd 00:21:18.975
+\ELANParticipant NPZ
+
+\id SEB_beseda_0895
+\tx ačča uručun
+\mb ačča ureːčin
+\ge neg    it.seems
+\ft it seems not
+\ph
+\nt i.e. NA is not married
+\ru кажется нет
+\ELANBegin 00:25:41.885
+\ELANEnd 00:25:42.940
+\ELANParticipant NPZ
+
+\id SEB_beseda_0899
+\tx haːmačadda             uručun
+\mb haːmat -E-D     -R(E)   ureːčin
+\ge laugh   -ep-prog -nonfut it.seems
+
+\ft they are laughing it seems
+\ph
+\nt probably this refers to what NA and BP will say when they analyse the conversation
+\ru
+\ELANBegin 00:25:49.440
+\ELANEnd 00:25:50.390
+\ELANParticipant LNZ
+
+\id SEB_beseda_0904
+\tx Noste uručen,  goːli?
+\mb noste ureːčin goːn -LI
+\ge young it.seems  say   -imp.2sg
+\ft (she's) young, it seems, hey?
+\ru кажется молодая
+\ELANBegin 00:25:57.755
+\ELANEnd 00:25:59.025
+\ELANParticipant LNZ
+
+\id SEB_beseda_1012
+\tx nahaː ịak uručun   Aljona?
+\mb nahaː ịak ureːčin Aljona
+\ge very.Y what  it.seems  Aljona
+
+\ft it seems that Aljona is very what
+\ph
+\gr this is a highly approximate rendering of IAS's mumbles
+\ru
+\ELANBegin 00:29:23.355
+\ELANEnd 00:29:25.130
+\ELANParticipant IAS
+
+\id SEB_beseda_1140
+\tx Erčem         mannam               uručen   bi   ịbgakeːkkan       ere, dahlịkkan.
+\mb erek -čEn -W  man     -R(E) -m     ureːčin biː ịbgọ =kE   -kkEn erek dal      -RI       -kkEn
+\ge prox -dim  -acc finish -nonfut -1sg it.seems  1sg  good     =emph -dim  prox be.tasty -impf.ptc -dim
+
+\ft I finished this, it seems, very good, tasty
+\ru я это закончила кажется, очень вкусненький
+\ELANBegin 00:33:16.795
+\ELANEnd 00:33:19.900
+\ELANParticipant NPZ
+
+\id SEB_beseda_1143
+\tx mhm, uručen
+\mb mhm  ureːčin
+\ge mhm  it.seems
+
+\ru кажется
+\ELANBegin 00:33:21.275
+\ELANEnd 00:33:22.180
+\ELANParticipant LNZ
+
+\id SEB_beseda_1272
+\tx Tačịn       bejetne          baktatna                 goːmi          tara, ịassịddan                     uručun   ehni.
+\mb tarọːčịn bej    -tEn      bak  -DE       -tEn      goːn -mI       tarak ịa    -sčI  -D    -R(E) -n(I)  ureːčin e -R(E) -n(I)
+\ge dist.qual      self.Y -poss.3pl find -purp.cvb -poss.3pl say   -cond.cvb dist  do.what -conat -prog -nonfut -3sg it.seems  neg -nfut -3sg
+\ft he's trying to do something so that they themselves will find him, it seems, hey?
+\ru так чтобы они сами нашли пытается что-то делать кажется
+\ELANBegin 00:37:54.825
+\ELANEnd 00:37:59.720
+\ELANParticipant RDA
+
+\id SEB_beseda_1423
+\tx Tačịn       uručun
+\mb tarọːčịn ureːčin
+\ge dist.qual      it.seems
+\ft it seems so
+\ph
+\nt this is practically impossible to make out, but it's the best approximation of what she says
+\ru
+\ELANBegin 00:42:51.270
+\ELANEnd 00:42:51.875
+\ELANParticipant IAS
+
+\id SEB_beseda_1479
+\tx Svatovstvo             goːniken      dʒọmkattan           uručen,  goːli?
+\mb svatovstvo             goːn -nIkEn   dʒọmkat -R(E) -n(I)  ureːčin goːn -LI
+\ge marriage.arrangement.R say   -sim.cvb think      -nonfut -3sg it.seems  say   -imp.2sg
+
+\ft it seems he thought it was a match making, hey?
+\ru он кажется подумал что это сватовство
+\ELANBegin 00:44:38.220
+\ELANEnd 00:44:41.395
+\ELANParticipant LNZ
+
+\id SEB_beseda_1480
+\tx Tačịn       goːniken      dʒọmkattan,          uručun.
+\mb tarọːčịn goːn -nIkEn   dʒọmkat -R(E) -n(I)  ureːčin
+\ge dist.qual      say   -sim.cvb think      -nonfut -3sg it.seems
+
+\ft it seems he thought like that
+\ru так он кажется подумал
+\ELANBegin 00:44:41.395
+\ELANEnd 00:44:43.455
+\ELANParticipant NPZ
+
+\id SEB_beseda_1633
+\tx Biː mehejekie               ele          tewrem                uručen.
+\mb biː mehej       -(h)E =kE   erek -(dU)LE teg      -R(E) -m     ureːčin
+\ge 1sg  interfere.Y -excl =emph prox -loc    sit.down -nonfut -1sg it.seems
+\ft I sat down here very unfortunately (I am in the way), it seems
+\ru я так неудобно сюда села кажется
+\ELANBegin 00:50:05.130
+\ELANEnd 00:50:09.160
+\ELANParticipant IAS
+
+\id SEB_beseda_1634
+\tx Gọlụ      emure              uručen.
+\mb gọl    -W   em -U      -R(E)   ureːčin
+\ge firewood -acc come -caus -nonfut it.seems
+\ft it seems they brought firewood
+\ru кажется дрова принесли
+\ELANBegin 00:50:09.160
+\ELANEnd 00:50:10.210
+\ELANParticipant NPZ
+
+\id SEB_beseda_1885
+\tx Zoja goːniken      dʒọmkakkaran         uručen
+\mb Zoja goːn -nIkEn   dʒọmkat -Gr(E) -n(I) ureːčin
+\ge Zoja say   -sim.cvb think      -hab   -3sg  it.seems
+\ft she thinks I'm Zoja
+\ru она считает меня Зоей кажется
+\ELANBegin 00:56:34.515
+\ELANEnd 00:56:35.840
+\ELANParticipant LNZ
+
+\id SEB_beseda_1949
+\tx Nahaː čukče uručen   ọŋkọ
+\mb nahaː čukča ureːčin ọŋkọ
+\ge very.Y Chukchi it.seems  ptl
+\ft it seems he's a real Chukchi, isn't he
+\ph
+\nt people who don't want to socialize are called "Chukchi"
+\ru ведь он кажется чукча
+\ELANBegin 00:58:02.466
+\ELANEnd 00:58:03.492
+\ELANParticipant IAS
+
+\id SEB_beseda_1959
+\tx Emie   herkete          uručun
+\mb emie   herkeń    -tE   ureːčin
+\ge also.Y feel.shame -adjr it.seems
+
+\ft he's also shy, it seems
+\ru тоже стеснительный кажется
+\ELANBegin 00:58:16.116
+\ELANEnd 00:58:17.934
+\ELANParticipant LNZ
+
+\id SEB_Kejmetinova_TV_pear_story_063
+\ref 3:58
+\tx Tar   ịlan kụŋačal       buollar tar   ukčenne           uručun,  omen kụŋa
+\mb tarak ịlan kụŋa -čEn -L  buollar tarak ukčen -R(E)       ureːčin omen kụŋa
+\ge dist  three  child   -dim  -pl dp.Y    dist  tell   -nonfut.3pl it.seems  one  child
+
+\tx hotuhnidʒi                horuggeren,                    hiː ịawụs,
+\mb hotu       -s(E)n -RIdʒI  hor -U    -D    -Gr(E) -E-n(I) hiː ịak -W   -E-s(I)
+\ge carry.away -lim   -ant.cvb go  -caus -prog -hab   -ep-3sg 2sg  what  -acc -ep-poss.2sg
+
+\tx goːniken      [mm, korzina].
+\mb goːn -nIkEn   mm   korzina
+\ge say   -sim.cvb mhm  basket.R
+
+\ft And these three kids it seems told (him) that one child carried away your what [mhm, the basket].
+\ru А эти трое детей кажется рассказали что один ребенок уносил утащив твое это.
+\ph
+\gr
+\nt
+
+\id SEB_Klim_Nikolaevich_eksponat_099
+\tx Er   ammụ           ịan           biče      ebit,      ere  ịan           uručen.
+\mb erek aman   -W        ịak -n(I)     bi -čE    ebit       erek ịak -n(I)     ureːčin
+\ge prox father -poss.1sg what  -poss.3sg be -pf.ptc it.seems.Y prox what  -poss.3sg it.seems
+
+\ft And this used to be my father's, it seems.
+\ru А это было моего отца, кажется.
+\ELANBegin 00:10:53.130
+\ELANEnd 00:10:59.130
+\ELANParticipant
+
+\id SEB_Klim_Nikolaevich_eksponat_183
+\tx Tiːkerep... tiːke bekečen            ńụč  ịanńị,             tiːke er   dʒul... oːtel
+\mb tiek -(E)rEp tiek   bekeč -E-n(I)      ńụča ịak -n(I)     =hni    tiek   erek dʒul    oːtel
+\ge now  -adjr   now    all    -ep-poss.3sg Russian  what  -poss.3sg =affirm now    prox front    previously
+
+\tx erbečen,  erbečenet         haŋanịdʒụr    eleːr                noste ahịl
+\mb erroːčin erroːčin -E-Č   haŋan -RIdʒI  -L  erek -(dU)LE -WUr     noste asị -L
+\ge prox.qual  prox.qual  -ep-ins sew    -ant.cvb -pl prox -loc    -prfl.pl young woman -pl
+
+\tx er   holtetti                   bihidne           ere, tadụ     tiːke aččada    uručun   erbečen   ere  tara.
+\mb erek holte       -Č  -RI       bi -RI  -tEn      erek tarak -DU  tiek   ačča =DE  ureːčin erroːčin erek tarak
+\ge prox carry.along -res -impf.ptc be -pst -poss.3pl prox dist  -dat now    neg    =ptl it.seems  prox.qual  prox dist
+
+\ft Today everything is Russian, in the past having sewn like this young women carried this with them, nowadays this doesn't
+exist anymore it seems.
+\ru Сейчас все русские эти, раньше вот такое пошив молодые женщины с собой возили, сейчас такого нет, оказывается.
+\ph haŋannịdʒụr
+\gr holtetti = the resultative gives a durative meaning
+\ELANBegin 00:19:42.120
+\ELANEnd 00:19:58.450
+\ELANParticipant
+
+\id SEB_Krivoshapkina_AE_childhood_063
+\ref 7:07; AEK
+\tx Tarịt dʒe   kojeːtmi         ọjlawụ                gịrkadnị          uručun:
+\mb tarịt dʒe   kojeːt -mI       ọj    -(dU)LE -W        gịrka     -n(I)     ureːčin
+\ge then    well.Y look.at -cond.cvb surface -loc    -poss.1sg walk.nonfut -poss.3sg it.seems
+
+\ft Well and then, it seemed as if he was walking straight onto me.
+\ru Потом если посмотреть кажется пошел прямо на меня.
+\ph
+\gr uručun does not decline, biː herrem uručun = ja idu, kazhetsja; mut herrep uručun = my idem, kazhetsja
+\nt Not quite clear what she wanted to say; perhaps she was so well hidden that he didn't see her and seemed to walk right
+into her.
+
+\id SEB_Krivoshapkina_AX_1930s_025
+\tx Omneken        nelke        ergidelen                 uručun,  hiehečen  ọːddakan                          amannị,
+\mb omen -REkEn    nelkeni      erek -gIdE -(dU)LE -n(I)  ureːčin hiːsečin ọː  -D    -REk -E-n(I)            aman   -n(I)
+\ge one  -iter.adv early.spring prox -part -loc -poss.3sg it.seems  evening    become -prog -cond.cvb -ep -poss.3sg father -poss.3sg
+
+\tx ammụ           amannị         ačča ọːdaj                  enilč...            enindʒidče.
+\mb aman   -W        aman   -n(I)     ačča ọː  -DE       -J       enin   -L    -čE    enin   -D    -čE
+\ge father -poss.1sg father -poss.3sg neg    become -purp.cvb -prfl.sg be.ill -inch -pf.ptc be.ill -prog -pf.ptc
+
+\ft Once, this side of spring, it seems, when it became evening, his father, my father's father, was mortally ill.
+\ph
+\gr nelke ergideleːn = this side of spring, i.e. at the same time as the recording was done, late spring; (trans_file 01_quest_2010 59:40) ọːdakan =
+doesn't exist, ọːddakan = kogda stanovitsja, ọddakan = kogda zakončitsja, ọːrakan = kogda stanet
+\ELANBegin 00:02:37.970
+\ELANEnd 00:02:55.680
+\ELANParticipant
+\ru Однажды, весной, примерно в это время кажется, когда наступал вечер, его отец, отец отца болел перед смертью.
+
+\id SEB_Krivoshapkina_EA_reindeer_herd_190
+\ref
+\tx Antawčandụla   ịhrịt               uručun.
+\mb Antawčan -(dU)LE ịs  -RI -t(I)         ureːčin
+\ge Antavchan -loc    reach -pst -poss.1pl.in it.seems
+\ft It seems we went to Antavchan.
+\comment
+\ru Кажется, доехали в Антавчан.
+\ev Антавчандула иhрит уручун.
+\ELANBegin 00:17:03.660
+\ELANEnd 00:17:05.360
+\ELANParticipant EAK
+
+\id SEB_Krivoshapkina_Ija_memories_016
+\tx Tarịt emie   bọlọ     biče      uručun,  ịlan emie   anŋanịlkan biče      bihem
+\mb tarịt emie   bọlọnị bi -čE    ureːčin ịlan emie   anŋan -lkEn  bi -čE    bi -R(E)   -m
+\ge then    also.Y late.autumn  be -pf.ptc it.seems  three  also.Y year   -prop  be -pf.ptc be -nonfut -1sg
+
+\tx uručun,  tarakam       uže      kibiːkkele             ajannaːddap.
+\mb ureːčin tarakam       uže      kibitka         -(dU)LE ajannaː  -D    -R(E)   -p
+\ge it.seems  in.those.days already.R covered.wagon.R -loc    journey.Y -prog -nonfut -1pl.in
+
+\ft And then, it was also autum it seems, and I was also three years old it seems, then we were already journeying in the
+kibitka.
+\ru Потом тоже осень было кажется, тоже мне 3 года было, тогда мы уже в кибитке едем.
+\ph
+\nt The kibitka is the covered sled in which little children travel in late autumn/winter, cf 
+Klim_Nikolaevich_eksponat_158-160
+\ELANBegin 00:01:40.680
+\ELANEnd 00:01:50.280
+\ELANParticipant
+
+\id SEB_Krivoshapkina_Ija_memories_023
+\tx Tarịt biː huklehenče          bihem           uručun   dalše    ehem             öjdöːr.
+\mb tarịt biː hukle -s(E)n -čE    bi -R(E)   -m   ureːčin dalše    e   -R(E)   -m   öjdöː   -R
+\ge then    1sg  sleep -lim   -pf.ptc be -nonfut -1sg it.seems  further.R neg -nonfut -1sg remember.Y -neg.cvb
+
+\ft Then I must have fallen asleep, I don't remember anything more.
+\ru Потом я наверно заснула, не помню дальше.
+\ELANBegin 00:02:15.610
+\ELANEnd 00:02:19.740
+\ELANParticipant
+
+\id SEB_Krivoshapkina_Ija_memories_058
+\tx Kata        eče        haːr         biče      tar   balaːkkaw   igin, nọŋandụkụn          eden
+\mb xata        e   -čE    haː -R       bi -čE    tarak palatka -W   iŋin nọŋan -DUk(U) -n(I)     eden
+\ge thank.god.Y neg -pf.ptc know -neg.cvb be -pf.ptc dist  tent.R  -acc etc.Y 3sg      -abl    -poss.3sg wind
+
+\tx biče      uručun,  eče        unŋew     eče        gar           biče.
+\mb bi -čE    ureːčin e   -čE    unŋe -W   e   -čE    ga   -R       bi -čE
+\ge be -pf.ptc it.seems  neg -pf.ptc smell -acc neg -pf.ptc take -neg.cvb be -pf.ptc
+
+\ft Thank god it didn't know that the tents were there, the wind must have been (coming) from its side, it didn't notice (lit.
+take) the smell.
+\ru К счастью он не узнал что палатки там стоят, палатки не узнал, с его стороны ветер был кажется, он не взял запаха.
+\ph unŋaw
+\ELANBegin 00:05:17.280
+\ELANEnd 00:05:23.670
+\ELANParticipant
+\ru
+
+\id SEB_Krivoshapkina_Ija_memories_072
+\tx Tačịn       dʒe   tar   dọlbanịw     dʒe   mụral     emne,        adʒịt mụral     emne,        dʒiŋ
+\mb tarọːčịn dʒe   tarak dọlbanị -W   dʒe   mụran -L  em   -R(E)   ajdịt  mụran -L  em   -R(E)   dʒiŋ
+\ge dist.qual      well.Y dist  night       -acc well.Y horse   -pl come -nonfut truth    horse   -pl come -nonfut very.Y
+
+\tx oŋonoŋ balaːkkawụt               čapčịhna,            ịadụkkụl
+\mb oŋonoŋ palatka -W   -E-t(I)         čapčị -s(E)n -R(E)   ịak -DUk(U) =(W)Ul
+\ge nearly   tent.R  -acc -ep-poss.1pl.in step.on   -lim   -nonfut what  -abl    =indef
+
+\tx ŋeːlelčel                   bičel         uručun.
+\mb ŋeːl    -E-L     -čE -L     bi -čE -L     ureːčin
+\ge be.afraid -ep-inch -pf.ptc -pl be -pf.ptc -pl it.seems
+
+\ft Then in that night horses came, really horses came, they very nearly stamped on our tents, they must have been
+frightened by something, it seems.
+\ru Потом, так в эту ночь пришли лошади, по-настоящему пришли лошади, чуть наши палатки не растоптали, из-за чего-то
+они испугались, кажется.
+\qu does the 2nd dje focus the night or the horses? is it 'THAT NIGHT horses came'; or 'that night HORSES came'?
+\ph
+\gr čapčị = step on, toptat', čapčịhan = stamp on completely, rastoptat' (odnim dvizheniem vse snesti), but can also have a
+meaning of 'a little bit'
+\ELANBegin 00:06:35.910
+\ELANEnd 00:06:44.380
+\ELANParticipant
+
+\id SEB_Krivoshapkina_Ija_memories_077
+\tx Bejel      tutenedde                     herkelkečeken,                  ịalkačakan,      ọːn
+\mb bej -E-L   tut -E-n     -E-D     -R(E)   herke              -lkEn -čEkEn ịak -lkEn -čEkEn ọːn
+\ge man -ep-pl run -ep-mult -ep-prog -nonfut leather.underpants -prop -plen   what  -prop -plen   how
+
+\tx goːbgeren..              ọːn goːbgeren,               barkịlkačakan,        haːn bej
+\mb goːn -B   -Gr(E) -E-n(I) ọːn goːn -B   -Gr(E) -E-n(I) barkị    -lkEn -čEkEn haːn bej
+\ge say   -med -hab   -ep-3sg how    say   -med -hab   -ep-3sg long.johns -prop -plen   some  man
+
+\tx tụrụhụkalkanda        tutenedden                         uručun,  nụŋalkahal.
+\mb trusiki      -E  -lkEn =DE  tut -E-n     -E-D     -R(E) -n(I)  ureːčin nụŋa -lkEn -SEl
+\ge underpants.R -ep -prop =ptl run -ep-mult -ep-prog -nonfut -3sg it.seems  gun     -prop -pl
+
+\ft People are running in their leather underpants, in their what... what's it called, in their thick winter longjohns, some
+people are running in their underpants it seems, with guns.
+\ru Люди бегают в нижних подштаниках, с чем-то еще, как это называется, в портках, некоторые в трусах кажется, с
+ружьями.
+\ph
+\gr (quest_file 02_quest_2010, 4:45) here, the suffix -čEkEn gives only a slight nuance of 'plentitude of similar items', in
+addition it gives a nuance of dynamism, movement, plus "kto v herke, kto v barki"
+\nt When we translated this, Ija Krivoshapkina wondered how they had been able to see all this, since it was an autumn night.
+\ELANBegin 00:07:07.590
+\ELANEnd 00:07:23.460
+\ELANParticipant
+
+\id SEB_Krivoshapkina_Ija_memories_081
+\tx Bọlọ     biče      uručun.
+\mb bọlọnị bi -čE    ureːčin
+\ge late.autumn  be -pf.ptc it.seems
+
+\ft It was autumn, it seems.
+\ru Осенью было наверно.
+\ELANBegin 00:07:38.390
+\ELANEnd 00:07:40.130
+\ELANParticipant
+
+\id SEB_Krivoshapkina_Ija_memories_143
+\tx Kulejdeːnemi                     herrit,               ge,   ịak čaːmakda    ačča bihin
+\mb kulejdeː       -nE     -mI       hor -RI -t(I)         ge    ịak čaːmak =DE  ačča bi -RI  -n(I)
+\ge go.for.a.walk.Y -intent -cond.cvb go  -pst -poss.1pl.in exclm what  tarbagan =ptl neg    be -pst -poss.3sg
+
+\tx uručun   tarakam.
+\mb ureːčin tarakam
+\ge it.seems  in.those.days
+
+\ft Well, we went for a walk, there weren't even any tarbagans around then, it seems.
+\ru Ну, пошли гулять, и тарбаганов тогда не было, кажется.
+\ELANBegin 00:13:42.100
+\ELANEnd 00:13:46.240
+\ELANParticipant
+
+\id SEB_Krivoshapkina_Ija_memories_156
+\tx Tara  hokohnidʒur         atallap,                 delbi  orelderep,               ịańdʒan,
+\mb tarak hokohon -RIdʒI -L   atal     -R(E)   -p      delbi  orelde   -R(E)   -p      ịak -ńdʒE -n(I)
+\ge dist  descend -ant.cvb -pl take.off -nonfut -1pl.in very.Y be.happy -nonfut -1pl.in what  -aug    -poss.3sg
+
+\tx gedemeken                 imheben                ammụ           dʒebukenni,      ịahalbanda
+\mb gedemek      -E-n(I)      imse -W   -E-n(I)      aman   -W        dʒep -WkEn -n(I) ịašal -W   -E-n(I)      =DE
+\ge back.of.head -ep-poss.3sg fat  -acc -ep-poss.3sg father -poss.1sg eat   -caus -3sg  eyes     -acc -ep-poss.3sg =ptl
+
+\tx dʒeptit                uručun.
+\mb dʒep -RI -t(I)         ureːčin
+\ge eat   -pst -poss.1pl.in it.seems
+
+\ft We jumped down and slaughtered them, we were very happy, my father let/made us eat some of the fat from the back of
+the head, and it seesms we even ate the eyes.
+\ru Спустившись мы их освежевали, очень обрадовались, жир на затылке отец нам дал попробовать, кажется даже и глаза
+мы ели.
+\ph godomok
+\gr
+\nt There is a big layer of fat at the back of a mountain sheep's head, and that is chewed  raw 'like chewing gum', still warm.
+The eyes are gouged out and eaten raw.
+\ELANBegin 00:14:41.790
+\ELANEnd 00:14:52.040
+\ELANParticipant
+
+\id SEB_Krivoshapkina_Ija_memories_167
+\tx Ọl_ihin   teːmi    ahị bujuhek...                bujusektu             keńeli gerbe ịak adʒịt
+\mb ọl_ihin   teːmi    asị bujun         -s    -ČEk buju -s    -ČEk -DU  keńeli gerbe ịak ajdịt
+\ge therefore.Y therefore woman wild.reindeer -mult -nr   hunt -mult -nr   -dat bad     name  what  truth
+
+\tx ehni              bihe        ebit,      ahị biheken                    naabarọt        ịbga
+\mb e   -R(E)   -n(I) bi -R       ebit       asị bi -REk -E-n(I)            naoborot          ịbgọ
+\ge neg -nonfut -3sg  be -neg.cvb it.seems.Y woman be -cond.cvb -ep -poss.3sg on.the.contrary.R good
+
+\tx biwreče          uručun   goːniken      dʒọmkakkararam.
+\mb bi -Gr(E) -čE    ureːčin goːn -nIkEn   dʒọmkat -Gr(E) -R(E)   -m
+\ge be -hab   -pf.ptc it.seems  say   -sim.cvb think      -hab   -nonfut -1sg
+
+\ft Therefore I think that it's not true that it's bad when a woman is (present) at a hunt, on the contrary, it can be good.
+\ru Поэтому вот, то что женщина в охоте плохо это не правда, я так думаю что наоборот бывает хорошо.
+\ph
+\gr
+\nt Normally, women are not taken along on a hunt, at least not if the people are superstitious, because that is considered
+taboo, the woman is not even supposed to help the man get ready for the hunt or watch him leave (cf.
+stado10_Nikitin_SE_traditions_17-21), so they weren't expecting to find anything, at most a tarbagan or so, and not even
+that, and here they bagged two mountain sheep, even though two women were present. So even though it's not as if the
+women were particularly useful, they didn't spoil the hunt, didn't interfere with their hunters' luck.
+\ELANBegin 00:15:38.800
+\ELANEnd 00:15:49.900
+\ELANParticipant
+
+\id SEB_Krivoshapkina_Ija_memories_173
+\tx Tar   ịstọrịa tarịt ọddịn           uručun.
+\mb tarak istorija      tarịt ọd -RI  -n(I)     ureːčin
+\ge dist  story.R       then    stop -pst -poss.3sg it.seems
+
+\ft That story stopped like that, it seems.
+\ru На этом кажется это история закончилась.
+\ph
+\gr
+\nt So she was obviously trying to remember not the anecdote she'd mentioned the day before, but the end of this story, the
+fact that they did go back to fetch the entire carcasses, and that they ate the eat that very evening, together with the
+intestines.
+\ELANBegin 00:16:07.220
+\ELANEnd 00:16:11.010
+\ELANParticipant
+
+\id SEB_Krivoshapkina_Ija_memories_204
+\tx Tarakam       irek  mịanị    stadala        biweččel,            mịajị    stadala
+\mb tarakam       irek  mịan -(G)I stado  -(dU)LE bi -WEːČ -čE -L     mịan -(G)I stado  -(dU)LE
+\ge in.those.days which ten    -ord  herd.R -loc    be -gnr    -pf.ptc -pl ten    -ord  herd.R -loc
+
+\tx biweččel             uručun,  dʒaːlńụmị.
+\mb bi -WEːČ -čE -L     ureːčin dʒaː   -L  -ńUn -J
+\ge be -gnr    -pf.ptc -pl it.seems  relative -pl -com  -prfl.sg
+
+\ft At that time they were moving about in the tenth herd, in the tenth herd with his relatives.
+\ru Тогда он в десятом стаде ездил, с родными в десятом стаде ездили.
+\ph
+\gr mịanị = incorrect form, the correct ordinal numeral of mịan = mịajị (transl file 01_quest_2010 3:45)
+\ELANBegin 00:18:45.130
+\ELANEnd 00:18:51.520
+\ELANParticipant
+\ru
+
+\id SEB_Krivoshapkina_Ija_memories_210
+\tx Dʒiŋ ịbgakeː     kujkit      biče      uručun.
+\mb dʒiŋ ịbgọ =kE   kujkit      bi -čE    ureːčin
+\ge very.Y good     =emph blueberries be -pf.ptc it.seems
+
+\ft Really good, it seemed it was blueberries.
+\ru Очень хорошо, кажется была голубика.
+\ELANBegin 00:19:19.160
+\ELANEnd 00:19:23.030
+\ELANParticipant
+
+\id SEB_Krivoshapkina_Ija_memories_213
+\tx Ọːn ịakta    amtaman                     ečel           gawrar,              keńeli amtannị
+\mb ọːn ịak =DE  amta  -n  -W   -E-n(I)      e   -čE -L     ga   -Gr(E) -R       keńeli amta  -n  -n(I)
+\ge how    what  =ptl taste -nr -acc -ep-poss.3sg neg -pf.ptc -pl take -hab   -neg.cvb bad     taste -nr -poss.3sg
+
+\tx ačča biwreče          uručungu     ịakkụ.
+\mb ačča bi -Gr(E) -čE    ureːčin =GU ịak =GU
+\ge neg    be -hab   -pf.ptc it.seems  =q  what  =q
+
+\ft They didn't taste anything different, there was no bad taste it seems, or what.
+\ru Никакого такого вкуса другого они не чувствовали, плохого вкуса не было или как, кажется.
+\ph
+\ELANBegin 00:19:37.700
+\ELANEnd 00:19:41.950
+\ELANParticipant
+
+\id SEB_Krivoshapkina_Ija_memories_222
+\tx Ịawgol          ukčengererin                uručun.
+\mb ịak -W   =(W)Ul ukčen -Gr(E) -RI  -n(I)     ureːčin
+\ge what  -acc =indef tell   -hab   -pst -poss.3sg it.seems
+
+\ft He told something, it seems.
+\ru Что-то рассказывал, кажется.
+\ELANBegin 00:20:27.080
+\ELANEnd 00:20:29.260
+\ELANParticipant
+
+\id SEB_Krivoshapkina_Ija_memories_257
+\tx Go,   bekebben                 ukčennem           uručun   haːmaj ịbgat       dʒọŋčịrịj
+\mb ge    bekeč -W   -E-n(I)      ukčen -R(E)   -m   ureːčin samyj   ịbgọ -Č  dʒọn  -(k)čI -RI       -J
+\ge exclm all    -acc -ep-poss.3sg tell   -nonfut -1sg it.seems  most.R  good     -ins remember -dur    -impf.ptc -prfl.sg
+
+\tx toreŋelbi.
+\mb tor   -E-ŋ   -E-L   -J
+\ge earth -ep-aln -ep-pl -prfl.sg
+
+\ft Well, it seems I have told everything about the places that I remember well.
+\ru Все кажется рассказала про те места которые я хорошо помню.
+\ELANBegin 00:23:00.310
+\ELANEnd 00:23:04.060
+\ELANParticipant
+
+\id SEB_Krivoshapkina_Marta_bear_012
+\ref 1:43
+\tx Tarịt buollaγïna ụraːdnị      uručun,  araːha ụjamkalbụ,          anï  araj
+\mb tarịt buollaγïna ụraː     -n(I) ureːčin araːha ụjamkan      -L  -W   anï  araj
+\ge then    dp.Y         miss.nonfut -3sg  it.seems  maybe.Y mountain.sheep -pl -acc now.Y suddenly.Y
+
+\tx itteket                       brosta,  ammụ           brosta   kụːńịntakan    hergije      hergi  urekčem
+\mb it  -REk      -E-t(I)         prosto   aman   -W        prosto   kụːnị -ntEkEn   hergi  -jEː hergi  urekčen -W
+\ge see -cond.cvb -ep-poss.1pl.in simply.R father -poss.1sg simply.R scream     -mult.cvb bottom -aug  bottom hill     -acc
+
+\tx hergekki         ịaddan,                   tutedden.
+\mb hergi  -skI      ịa    -D    -R(E)   -n(I) tut    -E-D     -R(E)   -n(I)
+\ge bottom -advb.all do.what -prog -nonfut -3sg  here.R -ep-prog -nonfut -3sg
+
+\ft And then it seems he missed the mountain sheep, suddenly we see my father is running screaming straight down the hill.
+\ru А потом кажется промахнулся на горных баранов, врдуг видим, мой отец крича бежит прямо вниз с горы.
+\ph ureŋčen
+\gr hergekki should be hergehki
+\nt
+
+\id SEB_Krivoshapkina_Marta_bear_027
+\ref 2:51
+\tx Tụŋŋam... tụŋŋam mịar,    ịak bihin             uručun   araːha, mietre  gde-to          pjatdesjat metrow.
+\mb tụnŋan     tụnŋan  mịan -L  ịak bi -RI  -n(I)     ureːčin araːha  metr    gde     - to    pjatdesjat metrow
+\ge five          five       ten    -pl what  be -pst -poss.3sg it.seems  maybe.Y  meter.R where.R - ptl.R fifty.R    metre.gen.pl.R
+
+\ft He was probably 50 metres (away).
+\ru Было наверно 50 метров.
+\ph
+\gr
+\nt
+\qu
+
+\id SEB_Krivoshapkina_Marta_bear_047
+\ref 4:05
+\tx Herile         gerbe tor   bihin             tar   uručun   ühü tarak, heriledu
+\mb herile         gerbe tor   bi -RI  -n(I)     tarak ureːčin ühü tarak  herile         -DU
+\ge stony.mountain name  earth be -pst -poss.3sg dist  it.seems  hsy.Y dist   stony.mountain -dat
+
+\tx aːŋŋajdakpïtdiː.
+\mb aːnŋa            -j    -dEg      -BIt        =diː
+\ge stop.for.the.night -conn -assert.Y -poss.1pl.Y =emph.Y
+
+\ft It was a so-called stony mountain, we spent the night on a stony mountain, right.
+\ru Была местность сериле, кажется это, мы же переночевали в сериле.
+\ph
+\gr
+\nt
+
+\id SEB_Krivoshapkin_IN_pearstory_02
+\ref 0:58
+\tx Erek omen fermer   uručen,  nọŋan ịadụ   hịakịtala
+\mb erek omen fermer   ureːčin nọŋan ịak -DU  hịakịta -(dU)LE
+\ge prox one  farmer.R it.seems  3sg      what  -dat tree        -loc
+
+\tx ọjčịrịdʒị grušaw     ụmụjgaran.
+\mb ọjčị -RIdʒI   gruša -W   ụmụj -Gr(E)      -n(I)
+\ge go.up     -ant.cvb  pear.R -acc gather   -hab.nonfut -3sg
+
+\ft There's a farmer, it seems, and he climbed up a tree and is gathering pears.
+\ru Это кажется один фермер, он залез на дерево и собирает груши.
+\ph
+
+\id SEB_RDA_TPK_death_350
+\tx Tar   ere  bej ịan           erde    degelgereče                 uručun,  goːli?
+\mb tarak erek bej ịak -n(I)     erde    deg -E  -L    -Gr(E) -čE    ureːčin goːn -LI
+\ge dist  prox man what  -poss.3sg early.Y fly -ep -inch -hab   -pf.ptc it.seems  say   -imp.2sg
+
+\ft That is a person's whatchamacallit that flies off early, it seems, right?
+\ph
+\gr
+\ru Человеческая там что-то раньше улетает, кажется.
+\ELANBegin 00:17:55.650
+\ELANEnd 00:17:59.210
+\ELANParticipant R
+
+\id SEB_RDA_TPK_death_351
+\tx Bej dụhan            erde    hergereče         uručun
+\mb bej dụha   -n(I)     erde    hor -Gr(E) -čE    ureːčin
+\ge man soul.R.Y -poss.3sg early.Y go  -hab   -pf.ptc it.seems
+
+\ft A person's soul leaves early, it seems.
+\ph
+\gr hergereče - notwithstanding the pf.ptcp has a meaning of uxodit voobshe, because of the habitual aspect marker; bej duhan erde hergereče
+"dusha cheloveka rano uxodit, okazyvaetsja" - so without the uručun there is also a meaning of 'okazyvaetsja'
+\ru Человеческая душа раньше уходит, кажется.
+\ELANBegin 00:17:59.210
+\ELANEnd 00:18:02.080
+\ELANParticipant T
+
+\id SEB_Stepanova_NA_kochevaja_shkola_052
+\tx Tadụ     iŋemukenče                 bihem           uručun,  mịawmụda              ikiriwde
+\mb tarak -DU  iŋeń  -W     -WkEn -čE    bi -R(E) -m     ureːčin mịawụn -W        =DE  ikiri -W        =DE
+\ge dist  -dat be.cold -advrs -caus -pf.ptc be -nonfut -1sg it.seems  heart      -poss.1sg =ptl bone  -poss.1sg =ptl
+
+\tx engeren.
+\mb en   -Gr(E) -E-n(I)
+\ge hurt -hab   -ep-3sg
+\ft I seem to have caught cold there, my heart and my bones hurt.
+\ph
+\gr (13_quest_2010, 12:20) iŋemukenče = dala zamerznut' (though she also agreed with my suggestion that it was zastavila sebja
+podvergat'sja zamerzaniem)
+\ru Там как-то простудила кажется, и сердце и кости болят.
+\ELANBegin 00:07:03.436
+\ELANEnd 00:07:07.973
+\ELANParticipant
+
+\id SEB_Stepanova_NA_kochevaja_shkola_077
+\tx Ọbdawračalgụ                ili  ekstriːmgu   ịawrača             uručun.
+\mb ọbda    -Gr(E) -čE -L     =GU ili  ekstrim   =GU ịa    -Gr(E) -čE    ureːčin
+\ge get.tired -hab   -pf.ptc -pl =q  or.R extreme.R =q  do.what -hab   -pf.ptc it.seems
+
+\ft Do they get tired or does the extreme do something (to them).
+\ru Устают ли или экстрим с ними что-то делает.
+\ELANBegin 00:09:49.667
+\ELANEnd 00:09:55.374
+\ELANParticipant
+
+\id SEB_Stepanova_NA_kochevaja_shkola_082
+\tx Mịan tụŋŋan kụŋa uručun,  ge    mịandụk    hulek                      kụŋa.
+\mb mịan tụnŋan  kụŋa ureːčin ge    mịan -DUk(U) hul              -E  -G    kụŋa
+\ge ten    five       child   it.seems  exclm ten    -abl    remain.in.excess -ep -advr child
+
+\ft It seems fifteen children, well, more than ten.
+\ru Кажется 15 детей, ну, больше 10и.
+\ELANBegin 00:10:04.435
+\ELANEnd 00:10:08.777
+\ELANParticipant
+
+\id SEB_Stepanov_AA_his_life_12
+\ref 2:16
+\tx Nahaː keńelit     eču               gurgeːwčir         bihem           uručen,  tarbač      ujum mịar
+\mb nahaː keńeli -Č  e   -RI  -W        gurgeːwči -R       bi -R(E)   -m   ureːčin tarbač      ujun mịan -L
+\ge very.Y bad     -ins neg -pst -poss.1sg work        -neg.cvb be -nonfut -1sg it.seems  in.that.case nine ten    -pl
+
+\tx anŋanịldụ     erek nehiliektu    glavat      üleleːriw.
+\mb anŋan -E-L   -DU  erek nehiliek -DU  glava  -Č  üleleː -RI  -W
+\ge year   -ep-pl -dat prox nasleg.Y -dat head.R -ins work.Y   -pst -poss.1sg
+\ft I didn't work too badly, it seems, so in the 1990s I worked in this nasleg as the head (of administration).
+\ru Кажется я не очень плохо работал, таким образом в 90х годах в этом наслеге работал главой.
+\ph
+\gr
+\nt
+\qu
+
+\id SEB_Tulasynova_LA_family_history_242
+\tx Tar   abagaw           tar   graždanskaj heriː ee graždanskaj vajna hagana     tïːhïn...
+\mb tarak abaga       -W   tarak graždanskij seriː ee graždanskij vojna saγana    tïːhïnča
+\ge dist  grandfather -acc dist  civil.R      war.Y  eh civil.R      war.R time.loc.Y thousand.Y
+
+\tx tysiča    devitsot       dvadsit  tretem      godu       uručun   bandịtal      hepkenčel
+\mb tysjača   devjatsot      dvadcat' tretem      godu       ureːčin bandit   -E-L   hepken -čE -L
+\ge thousand.R nine.hundred.R twenty.R third.loc.R year.loc.R it.seems  bandit.R -ep-pl catch  -pf.ptc -pl
+
+\tx Bọlgịttụ... Bọlgịttụk.
+\mb bọlgịt   -DU  bọlgịt   -DUk(U)
+\ge cedar.bushes -dat cedar.bushes -abl
+
+\ft In the civil war, in the year 1923, bandits caught that grandfather of mine in (a place) called Bolgit (cedar.bushes).
+\ph
+\gr using the ablative with hepken- is OK, it gives a nuance of dragging someone out of a place
+\ru Моего деда в 23м году бандиты схватили в местности Болгит.
+\ELANBegin 00:22:32.065
+\ELANEnd 00:22:54.204
+\ELANParticipant
+
+\id SEB_Tulasynova_LA_family_history_303
+\tx Ọddọn         uručun   ńan.
+\mb ọd -R(E) -n(I)  ureːčin ńaːn
+\ge stop -nonfut -3sg it.seems  and
+\ft And that seems to be all.
+\ru И на этом кажется все.
+\ELANBegin 00:28:44.385
+\ELANEnd 00:28:48.961
+\ELANParticipant 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My Documents/Even
+project/Sebjan_2010_fielddata/sound_files/spontaneous_Marantz/Tulasynova_LA_family_history_230310_Sebjan.wav
+\ELANMediaMIME audio/x-wav
+
+\id SEB_Zaxarova_Zhenja_pear_story_23
+\ref 2:36
+\tx Er   ịlan ọmọlgọl  biː grušawu              dʒọrmịčal
+\mb erek ịlan ọmọlga -L  biː gruša -W   -W        dʒọrọm -E-čE     -L
+\ge prox three  boy        -pl 1sg  pear.R -acc -poss.1sg steal       -ep-pf.ptc -pl
+
+\tx uručun,  goːnče.
+\mb ureːčin goːn -čE
+\ge it.seems  say   -pf.ptc
+
+\ft "These three boys stole my pears, it seems", he said.
+\ru Эти мальчики кажется украли мои груши, сказал.
+\ph erel ọnọmọlgọl; goːnčel
+\gr
+\nt She actually said "goːnčeL", but that's just a slip of the tongue.

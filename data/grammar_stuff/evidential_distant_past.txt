@@ -1,0 +1,963 @@
+\_sh v3.0  1090 Text
+
+\id aaaaaaa_general_comments_thoughts
+\ref
+\tx some thoughts
+\mb
+\gr "elicication" on 250312:
+\gr I noticed that the fairy tale about the ụjamkan and ọnaːkị was basically all in the -čE form, so I asked whether this was because she
+wasn't there, it's unwitnessed, whereas if it had been in the -RI past, it would have meant that she witnessed it all, was there
+\gr Zoja in "jubki_Aniwrin" - while talking about Tashkent she uses -RI (it's distant past and she was there), talking about the Moscow
+exhibit - in the beginning she uses -R(E), while talking about herself and how unwell she felt and how she got well there, but then
+talking about the exhibit itself she uses -RI; the story about Aniwrin and the busina in his nose she again used -R(E) --> seems as if
+-R(E) is more immediate, more "erlebt"; past tense and I was a witness then -RI, if it's very close to me and zhivo predstavljaetsja =
+-R(E)
+\gr when I asked whether -čE has two meanings, unwitnessed past and just simple past, IVK said that it always has a meaning of
+unwitnessed; i.e. nọŋan emče --> I see him here and from that I deduce that he must have come, but I did not witness the process of
+coming; she agreed with my suggestion that -čE is always used when it's unwitnessed, unintentional, deduced (okazyvaetsja) - but by
+then she seemed to have reached the stage of just saying "yes" to everything I say...
+
+\id Alekseeva_RD_chuchuna_family_014
+\tx Biː "amịlị-kuːkńun"  gerbew     dʒọnča       bihem.
+\mb biː amịlị-kuːk =ńUn  gerbe -W   dʒọn  -čE    bi -R(E)   -m
+\ge 1sg  ideophone       =restr name  -acc remember -pf.ptc be -nonfut -1sg
+
+\ft I memorized only the word "amili kuk".
+\ph
+\gr
+\nt Amịlị kuk doesn't exist as a real word, our translator had a suggestion, that it  goes back to crow cry, because people usually pretend
+they are crows eating bear meat.
+\ru Я вспомнила только слово "амили кук". 
+\ELANBegin 00:01:25.860
+\ELANEnd 00:01:29.300
+\ELANParticipant
+
+\id Alekseeva_RD_chuchuna_family_034
+\tx Tarịt dʒe   ere  ŋiːwu         , abagawụ,            čaːgịnụk   emečče               biče.
+\mb tarịt dʒe   erek ŋiː -W          abaga       -W        čaːg -(I)nUk   em   -E  -D    -čE    bi -čE
+\ge then    well.Y prox who   -poss.1sg   grandfather -poss.1sg far    -advb.abl come -ep -prog -pf.ptc be -pf.ptc
+
+\ft Then my someone, my grandfather went from the other side.
+\ph
+\gr emečče biče -- byl prixodivshij, he was coming.
+\gr special elicitation/question session on 120312: abagaw čaːgịnụk emečče and emečče biče = no big difference; one could also say
+čaːgịnuk emečče bihin = this would be possible if RDA had seen it, while emečče biče = she didn't see it, or doesn't remember;
+čaːgịnụk emeddi bihin = kak-to ne to, net, something not natural (but didn't specify what it was, I thought maybe because it would
+give a meaning of him walking for a very long time, but she didn't really confirm that); čaːgịnụk emeddin = this is OK if she witnessed
+it; no big difference (or at least she didn't want to explain a difference to me, "pustj ne budet raznitsy") between emečče bihin and
+emeddin, both are witnessed past
+\nt
+\qu
+\ru Потом мой кто-то, мой дедушка с той стороны шел.
+\ELANBegin 00:03:17.320
+\ELANEnd 00:03:23.660
+\ELANParticipant
+
+\id Alekseeva_RD_lost_tapes_znatoki_045
+\tx Tarak goːŋnerem:              "ńụčịdịt    ọːn ukčemmekkerečel               bihes?"         goːniken.
+\mb tarak goːn -Gr(E) -R(E)   -m   ńụča -DI   -Č  ọːn ukčen -mEČ -Gr(E) -čE -L     bi -R(E)   -s   goːn -nIkEn
+\ge dist  say   -hab   -nonfut -1sg Russian  -adjr -ins how    tell   -rec  -hab   -pf.ptc -pl be -nonfut -2pl say   -sim.cvb
+
+\ft I say about that: "How did you speak in Russian?"
+\ph
+\gr
+\qu nuance given by -chE + bi-?? just past tense?
+\nt In those days Evens didn't speak Russian very good.
+\ru На это я говорю: "Как вы по-русски общались?"
+\ELANBegin 00:03:56.090
+\ELANEnd 00:04:00.700
+\ELANParticipant
+
+\id Alekseeva_RD_lost_tapes_znatoki_045
+\tx Tarak goːŋnerem:              "ńụčịdịt    ọːn
+\mb tarak goːn -Gr(E) -R(E)   -m   ńụča -DI   -Č  ọːn
+\ge dist  say   -hab   -nonfut -1sg Russian  -adjr -ins how
+
+\tx ukčemmekkerečel               bihes?"         goːniken.
+\mb ukčen -mEČ -Gr(E) -čE -L     bi -R(E)   -s   goːn -nIkEn
+\ge tell   -rec  -hab   -pf.ptc -pl be -nonfut -2pl say   -sim.cvb
+
+\ft I say about that: "How did you speak in Russian?"
+\ph
+\gr nuance of ukčemmekkerečel bihes vs. ukčemmekkererihnen - the form
+with the auxiliary expresses some surprise, "interesno, kak vy
+razgovarivali"
+\nt In those days Evens didn't speak Russian very good.
+\ru На это я говорю: "Как вы по-русски общались?"
+\ELANBegin 00:03:56.090
+\ELANEnd 00:04:00.700
+\ELANParticipant
+
+\id Alekseeva_RD_shatun_037
+\tx Dessičče           biče,     taraw      maːrịdʒụr,  ataldaŋatna                   bütünniː  kapkan
+\mb desči -D    -čE    bi -čE    tarak -W   maː -RIdʒI -L   atal     -DEŋ    -E-tEn       bütünnüː kapka  -n(I)
+\ge lie    -prog -pf.ptc be -pf.ptc dist  -acc kill -ant.cvb -pl take.off -pst.ptc -ep-poss.3pl entirely.Y   throat -poss.3sg
+
+\tx bütünniː  maːwdʒịlị.
+\mb bütünnüː magdʒịlị
+\ge entirely.Y   insect
+
+\ft It was lying, they killed it and when they slaughtered it its throat was full of worms.
+\ph
+\gr dessičče biče = ležal dolgo, and RDA didn't see it herself, non-witnessed evidential past
+\nt mawdʒịlị = all kinds of creepy crawly things, in this case worms
+\ru Он лежал, его убив, когда освежевали его, вся шея была в червях.
+\ELANBegin 00:03:57.913
+\ELANEnd 00:04:03.932
+\ELANParticipant
+
+\id Alekseeva_RD_stado_then_now_014
+\tx Tarịt perestrojka   ọːčalan,                  ịala        herče      bihin,            sakrašeniela.
+\mb tarịt perestrojka   ọː  -čE    -(dU)LE -n(I)  ịak -(dU)LE hor -čE    bi -RI -n(I)      sokraščenie -(dU)LE
+\ge then    perestroika.R become -pf.ptc -loc -poss.3sg what  -loc    go  -pf.ptc be -pst -poss.3sg lay.off.R     -loc
+
+\ft When perestrojka started, he was laid off.
+\ru Когда наступила перестройка, он пошел в сокращение.
+\ELANBegin 00:00:59.410
+\ELANEnd 00:01:07.470
+\ELANParticipant
+
+\id Alekseeva_RD_stuck_in_stado_002
+\tx Anželika ọːk iːče        biče      ọskọladụ?
+\mb Anželika ọːk iː   -čE    bi -čE    škola   -DU
+\ge Angelique when   enter -pf.ptc be -pf.ptc school.R -dat
+\ft When did Angelique start school?
+\ph
+\gr iːče biče - she doesn't remember
+\ru Когда А поступила в школу?
+\ELANBegin 00:00:14.320
+\ELANEnd 00:00:17.797
+\ELANParticipant
+
+\id Alekseeva_RD_stuck_in_stado_041
+\tx Huklehenče          bihem,          bačakar    ịlassịrap,                      omuːnde  togeːčin ačča.
+\mb hukle -s(E)n -čE    bi -R(E) -m     badʒịkar ịl     -E  -sčI  -R(E) -p        omen =DE  togeːčin ačča
+\ge sleep -lim   -pf.ptc be -nonfut -1sg morning     stand.up -ep -conat -nonfut -1pl.in one  =ptl cloud      neg
+\ft I went to sleep, when we got up in the morning there wasn't a single cloud!
+\ph the high rounded long vowel in omuːnde is a marker of emphasis
+\gr ịlassịrap = lit. we tried to get up, but of course they got up - perhaps it was just difficult, a short night? (08_quest_2010, 16:00) yes, the
+conative form of ịl- can have a meaning of it having been REALLY difficult to get up; this was obviously just an agreement in order to
+stop me from asking further nudnye questions, because I asked about a similar situation in Stepanova_naled (55), and she explained
+(10_quest_2010, 25:50) that the conative suffix is used when something unexpected happens - i.e. here it was threatening rain, and
+when they got up, it was sunny and clear
+\gr special elicitation 120312: huklehenče bihem = ja, okazvaetsja, zasnula --> didn't expect to be able to fall asleep, but in the end it
+turned out that she did 
+\ru Я заснула, утром встали, не одного облачка нету.
+\ELANBegin 00:03:32.602
+\ELANEnd 00:03:37.464
+\ELANParticipant
+
+\id beseda_180210_0255
+\tx Hupkučeːk  amardadụkụn                bọrụọsta ọbdụwran,             dịlụ        enilče
+\mb hupkut -ČEk amar   -gIdE -DUk(U) -n(I)     bọrụọsta ọbdụ     -Gr(E) -n(I) dịl -W        enin   -L    -čE
+\ge learn  -nr   behind -part -abl    -poss.3sg simple.Y       become.tired -hab   -3sg  head  -poss.1sg be.ill -inch -pf.ptc
+
+\tx bihin.
+\mb bi -RI  -n(I)
+\ge be -pst -poss.3sg
+
+\ft After school (day) one gets simply tired, I had a headache.
+\ru После школы просто устает, у меня голова разболелась. 
+\ELANBegin 00:06:54.588
+\ELANEnd 00:06:57.090
+\ELANParticipant NPZ
+
+\id beseda_180210_0546
+\tx ŋa...     hịralča                bihin
+\mb *   -GE    hịr    -E-L     -čE    bi -RI -n(I)
+\ge *** -desig be.angry -ep-inch -pf.ptc be -pst -poss.3sg
+\ft s/he got angry
+\ph
+\gr just "hịralča" - perfective, the result is visible now, the person is angry now, not clear why, the speaker only sees the result, not the
+process, the cause of the anger; hịralča bihin = he was angry then, in the past; ja togda rasserdilas' = hịrallịw; hịralča bihiw =
+pragmatically odd, because it's as if the speaker doesn't know that she was angry; hịrallịn = OK, here the anger was witnessed by the
+speaker, the whole process of the person getting angry, while hịralča bihin the speaker is not a witness, or it wasn't because of the
+speaker, but it seems as if the distant past meaning is dominant (though it can also depend on the context) (all this elicited during
+translation session, file beseda_240212_transl_500_570, 28:30-30:30)
+\gr special elicitation 120312: can one say hịralča bihem? ne znaju..., konečno možno, in rare special cases, if a person is pretending to be
+angry, predstavljaet, or if I was completely drunk and later tell someone about it, i.e. when I don't remember myself, and people tell
+me about it
+\ru вчера муж из-за разбитой чашки так рассердился 
+\tx tiːniw etiken kawarča čaškadụk hịrallịn
+\ru в прошлом году я себе купила дорогую шубу и муж так рассердился
+\tx atalasčalaw hịrallịn
+\ru не знаю в чем дело - муж вчера рассердился
+\tx ehem haːr, tiːniw etikeŋu hịrallịn
+\ru в прошлом году муж так рассердился и я до тех пор не знаю что случилось
+\tx gịawanụ etikeŋu(??) hịrallịn, ịadụ hịraldaŋan?? ehem haːr
+\gr so at first she translated all these carefully made-up sentences (that were made up according to what she had explained previously)
+with the one form... hịralča bihin = možno perevesti "byl serdit", hịrallịn = rasserdilsja, hịralča = on sejčas serdit; but then when I
+explained my whole elicitation scheme, then she said yes, the last one, the one about last year and I still don't know, could be translated
+with hịralča bihin; hịrallịn = when speaker was present at the time of his getting angry, while hịralča bihin = she saw him angry, but
+didn't see the cause of the anger
+\ru она рассердилась (он рассердился)
+\ELANBegin 00:16:13.085
+\ELANEnd 00:16:14.455
+\ELANParticipant RDA
+
+\id beseda_180210_0567
+\tx Bejle       ńoːridʒur       ịarịdʒụr,     hiːwre.       A     tak  ịbga   biče      bimčel
+\mb bej -(dU)LE ńoː -RIdʒI -L   ịa    -RIdʒI -L   hiːw  -R(E)   a.R   tak  ịbgọ bi -čE    bi -mč(I) -L
+\ge man -loc    exit  -ant.cvb -pl do.what -ant.cvb -pl go.out -nonfut but.R so.R good     be -pf.ptc be -sbjv   -pl
+
+\ft They married, did something, and declined/dimmed (like light's going out). Otherwise it would have been good
+\ph
+\qu bice bimcel = OK? or would it be just bimchel?
+\ru выйдя замуж что-то сделая они погасли, а так хорошо было
+\ELANBegin 00:16:51.880
+\ELANEnd 00:16:54.065
+\ELANParticipant RDA
+
+\id beseda_180210_0578
+\tx Tala          ečin      tịraŋaja        ọːklaːk(an)           ọbdụča       bihi(n).
+\mb tarak -(dU)LE erroːčin -DI -DE -G    -EjE ọː  -klEːkE -n(I)     ọbda    -čE    bi -RI  -n(I)
+\ge dist  -loc    prox.qual  -vr -vr -advr -aug become -trm.cvb -poss.3sg get.tired -pf.ptc be -pst  -poss.3sg
+\ft there she got so exhausted that she was drenched in sweat
+\ph
+\gr ọbdụča = perfective, the result would now be visible; ọbdụča bihin = she was tired in the past
+\qu
+\ru там она так устала что сильно вспотела
+\ELANBegin 00:17:08.720
+\ELANEnd 00:17:11.945
+\ELANParticipant NPZ
+
+\id beseda_180210_0700
+\tx Ọhọkịda              eniken       dahra          emče        bihem.
+\mb ọhọk -E  -J       =DE  e   -nIkEn   das   -R       em   -čE    bi -R(E) -m
+\ge stove.Y  -ep -prfl.sg =ptl neg -sim.cvb cover -neg.cvb come -pf.ptc be -nonfut -1sg
+\ft and I came without having closed my stove
+\ph
+\gr emče bihem = here used, because when she left the house she didn't remember, she only remembers now; if she had said "ọhọkịda
+eniken dahra emnem" it would mean that she didn't close the flue on purpose, that she didn't want to close the flue; but in this case she
+didn't do it intentionally, she just forgot; "eniken dahra emniw" would have been in the past (i.e. an event that took place in the past
+but is already over) - but since she's still sitting there, she uses the perfective participle
+\nt brick stoves have a flue that is opened when the fire is lit but is closed as soon as there are only coals, to retain the heat; when the flue
+is left open, the heat escapes quickly and the house can cool off
+\ru и свою печку не закрыв пришла
+\ELANBegin 00:20:36.325
+\ELANEnd 00:20:38.025
+\ELANParticipant RDA
+
+\id beseda_180210_1109
+\tx Tarakam       tala          že   atallịdʒị,   srazu     hujutniken,              bejen
+\mb tarakam       tarak -(dU)LE že   atal     -RIdʒI  srazu     huj  -U    -Č  -nIkEn   bej    -E-n(I)
+\ge in.those.days dist  -loc    ptl.R take.off -ant.cvb at.once.R boil -caus -res -sim.cvb self.Y -ep-poss.3sg
+
+\tx tụːkịrịdʒị   dʒebče      bihin.
+\mb tụːkị    -RIdʒI  dʒep -čE    bi -RI -n(I)
+\ge cool.off.trns -ant.cvb eat   -pf.ptc be -pst -poss.3sg
+
+\ft
+\ft he slaughtered it right there and boiled it at once and let it cool off himself and ate it
+\ph
+\gr during the translation session (beseda_040312_transl_1060_1147, 30:00) IVK at first said "sjel", then after a bit of a pause
+"okazyvaetsja", then "nu, sjel"; dʒebče without bihin would have been incorrect, but then she thought and said it might be possible -
+but the whole little narrative is past tense - so it's still not fully clear whether there's a meaning of "okazyvaetsja" here or not
+\ru тогда он там же разделав сразу вскипятив, сам остыл, съел, оказывается
+\ELANBegin 00:32:19.660
+\ELANEnd 00:32:24.030
+\ELANParticipant NPZ
+
+\id beseda_180210_1252
+\tx tikče       biče
+\mb tik  -čE    bi -čE
+\ge fall -pf.ptc be -pf.ptc
+\ft it seems he fell
+\ph
+\gr IVK thought she might be saying uručun here, but I don't hear that at all, not even a hint of it
+\ru
+\ELANBegin 00:36:54.990
+\ELANEnd 00:36:55.640
+\ELANParticipant NPZ
+
+\id beseda_180210_1263
+\tx Ọŋkọ   bọlgịt,  bọlgị... uːre      atịkam,      kojeːtti         atịkam,      haːrị       atịkam
+\mb ọːn =kkE bọlgịt                uːr   -E  atịkan  -W   kojeːt -RI       atịkan  -W   haː -RI       atịkan  -W
+\ge how    =ptl cedar.bushes              before -ep old.woman -acc look.at -impf.ptc old.woman -acc know -impf.ptc old.woman -acc
+
+\tx ŋaːtča      bihitne,          tarakko    ọːn goːnče      bihin?
+\mb ŋaːt -čE    bi -RI -tEn       tarak =kkE ọːn goːn -čE    bi -RI -n(I)
+\ge call   -pf.ptc be -pst -poss.3pl dist  =ptl how    say   -pf.ptc be -pst -poss.3sg
+
+\ft cedar bushes, right, they called an old woman, a seeing, knowing old woman (i.e. someone with second sight), as for her, what did she
+say?
+\ph
+\gr
+\nt bọlgịt means "Siberian.pine bushes", but since they generally grow on the top of hills/mountains and not in rivervalleys, and since the
+man drowned in a river, IVK assumed that bọlgịt here must refer to a place name rather than to "pine bushes" in general
+\ru ведь Болгит,тогда видящая знающую старушку позвали, а эта что сказала
+\ELANBegin 00:37:21.475
+\ELANEnd 00:37:29.150
+\ELANParticipant NPZ
+
+\id beseda_180210_1548
+\tx Ịalla...        Tatča        bihem,          er   atịkańdʒadụ,     dʒi.
+\mb ịak -L  -(dU)LE tat   -čE    bi -R(E) -m     erek atịkan  -ńdʒE -DU  diː
+\ge what  -pl -loc    learn -pf.ptc be -nonfut -1sg prox old.woman -aug    -dat ptl.Y
+\ft
+\qu ialla
+\ru
+\ELANBegin 00:46:50.795
+\ELANEnd 00:46:53.915
+\ELANParticipant NPZ
+
+\id Bochilikan_etiken_036
+\tx Tar  hụlịčan etikeːn dʒebleŋmen                     elekes   bakrịdʒị dʒebeddin                         biče.
+\mb tar  hụlịčan etikeːn dʒeb -LE -ŋ  -W   -E-n(I)      elekes   bak  -RIdʒI  dʒeb -E-D     -RI       -n(I)     bi -čE
+\ge thus fox          old.man  eat   -nr -aln -acc -ep-poss.3sg at.first find -ant.cvb eat   -ep-prog -impf.ptc -poss.3sg be -pf.ptc
+
+\ft That means that the fox was eating the food of the old man, having just found it.
+\ru Это означает что она только нашла еду и стала есть.
+\ru Это лиса ела еду старика, только что найдя.
+\gr dʒebeddin = v eto vremja kushala; ptcp + biče = evidentiality, the narrator didn't see this herself, but is recounting what others have
+told her; at first Ija Krivoshapkina said there is no difference whether one says just dʒebeddin or dʒebeddin biče, but when I asked
+whether biče doesn't give a nuance of something, then she said yes, the evidentiality
+\gr 120312 elicitation session (different questions, at end) I asked about dʒebeddin biče: at first she said it should be dʒebečče biče,
+okazyvaetsja ela, ottenok neozhidannosti; dʒebeddin biče = in Sebjan they don't say this, dʒebbedi biče "s natjazhkoj mozhno skazatj",
+this would be without any "okazyvaetsja"; so if at all, they would say dʒebeddi biče, but not dʒebeddin biče
+\ELANBegin 188.720
+\ELANEnd 198.050
+\ELANParticipant
+
+\id Kejmetinova_AA_headmistress_030
+\ft
+\tx Hiːgu    direktor   biče      bihenni?        Bi.. mut    bụọlla hinu         Nastja goːnep.
+\mb hiː =GU  direktor   bi -čE    bi -R(E)   -nrI biː mut    buollar    hin     -W   Nastja goːn -R(E) -p
+\ge 2sg  =q   director.R be -pf.ptc be -nonfut -2sg 1sg  1pl.in dp.Y       2sg.obl -acc Nastja say   -nonfut -1pl.in
+\ft It turns out that you are the headmaster? I...and we call you Nastja.
+\ph
+\gr 120312, special elicitation session: here biče bihenni has a meaning of okazyvaetsja, ty okazyvaetsja direktor byla (dazhe na tot
+moment, no ne skazala), biče bihenni - ty i togda i sejchas javljaeshsja direktorom; the okazyvaetsja meaning does not come from the
+=gu; hiː direktor bihenni = konstatatsija fakta, a simple statement
+\nt Nastja is the familiar diminutive form of Anastasija and as such is not the form of address one would use with the director of one's
+school
+\ELANBegin 00:04:09.210
+\ELANEnd 00:04:16.950
+\ELANParticipant
+\ru Ты, оказывается, директор? Я.. мы  тебя  Настей называем.
+
+\id Kejmetinova_TV_family_037
+\ref 3:37
+\tx Taraŋat                   buolla  irildu      tolle           ńuːrin,            tolle
+\mb tarak -ŋ  -E-t(I)         buollar ireli  -DU  tol     -(dU)LE ńoː -RI -n(I)      tol     -(dU)LE
+\ge dist  -aln -ep-poss.1pl.in dp.Y    summer -dat outside -loc    exit  -pst -poss.3sg outside -loc
+
+\tx ńuːčelen                     sosedskaj      ŋịnal      hepkenidʒur        dʒebehenče           bihidnen.
+\mb ńoː -čE    -(dU)LE -n(I)     sosedskij      ŋịn -E-L   hepken -RIdʒI  -L  dʒeb -E-s(E)n -čE    bi -RI  -tEn
+\ge exit  -pf.ptc -loc    -poss.3sg neighbouring.R dog    -ep-pl catch  -ant.cvb -pl eat   -ep-lim  -pf.ptc be -pst -poss.3pl
+
+\ft And that one of ours went outside in summer, and when he went outside the neighbours' dogs caught and ate him.
+\ru А наш этот летом на улицу вышел, когда вышел на улицу, соседские собаки, схватив, съели.
+\ph
+\gr dʒebehenče = ate immediately, quickness of action; dʒebehenče bihidnen = she didn't see it herself, there's an ottenok of
+"okazyvaetsja"
+\nt
+
+\id Kirillina_KK_dve_skazki_024
+\tx Bịrakčan dọːlan             itteken,                    ịmanda emehemče                               biče.
+\mb bịrakčan dọː -(dU)LE -n(I)  it  -REk -E-n(I)            ịmanra emehen                   -W     -čE    bi -čE
+\ge stream      inside -loc -poss.3sg see -cond.cvb -ep -poss.3sg snow     come.down.(of.avalanche) -advrs -pf.ptc be -pf.ptc
+
+\ft When he looked in the riverbed, an avalanche had come down, it seems.
+\ph
+\gr here, after listening again, IVK felt that itteken could only mean "when he saw", not the narrative "and suddenly he saw" 
+\gr emehemče - should be emehenče; emehendej = lavina ruxnula, emehemdej = chelovek podvergsja vozdejstviju laviny
+\ru Когда он в русло ручья , снежная лавина, отошла, оказывается.
+\ELANBegin 00:02:02.200
+\ELANEnd 00:02:07.940
+\ELANParticipant
+
+\id Kirillina_KK_Emcheni_127
+\tx Taraw      holučemnin             kokeče      biče.
+\mb tarak -W   holu  -Č  -E  -mnIn    koke -čE    bi -čE
+\ge dist  -acc chase -res -ep -dur.cvb die  -pf.ptc be -pf.ptc
+\ft Chasing after that he had died.
+\ph
+\gr holučemnin - the converb -mnIn here in Sebjan doesn't necessarily have a meaning of duration (IVK 070312); holutniken kokeče biče
+= is OK, but has a meaning of reason, he died because he was chasing the ball, "umer ot togo chto begal za sharikom"; while
+holučemnin kokeče = he died while running after the ball, no sense of "chasing for a long time", but clearly simultaneity of action
+without a nuance of reason; holučenteken kokeče biče - is not very good
+\ru За этим гоняясь он умер.
+\ELANBegin 00:12:12.160
+\ELANEnd 00:12:15.150
+\ELANParticipant
+
+\id Klim_Nikolaevich_eksponat_004
+\tx Ebesel    oːtel     erbečen   ịlụmụdụ  tegetti                    bihitnen.
+\mb ewen -SEl oːtel     erroːčin ịlụmụ -DU  teg      -E-Č   -RI       bi -RI  -tEn
+\ge Even -pl  previously prox.qual  yurt        -dat sit.down -ep-res -impf.ptc be -pst -poss.3pl
+\ft Evens in the past used to live in such yurts.
+\ru Эвены в старину жили в таком илуму.
+\ph
+\gr there is a difference between tegettidnen and tegetti bihitnen, but ija cannot express it, perhaps a stronger emphasis on the past; it does
+NOT have a nuance of evidentiality, but the expression with the auxiliary is better; tried to figure it out with a comparison of biː
+tegečiddiw and biː tegetti bihiw, but she still couldn't say what the difference in nuance was  (translation session Klim_Nik_first_half,
+about 30 minutes)
+\ELANBegin 00:01:00.630
+\ELANEnd 00:01:07.260
+\ELANParticipant
+
+\id Krivoshapkina_AE_childhood_014
+\ref 1:16; EKK
+\tx Tarịt ńimertendu           biː irgečiwriw,                 ammụ           emekken emeptin
+\mb tarịt ńimer    -tEn   -DU  biː irget -E-B    -RI  -W        aman   -W        omekken emeːn -B   -RI -n(I)
+\ge then    neighbour -distr -dat 1sg  raise -ep-med -pst -poss.1sg father -poss.1sg alone   leave  -med -pst -poss.3sg
+
+\tx atịkaŋgaj                   eče        gar           bihin             bihin             goːndʒinni.
+\mb atịkan  -ŋ  -GE    -J       e   -čE    ga   -R       bi -RI  -n(I)     bi -RI  -n(I)     goːn -DʒI -nrI
+\ge old.woman -aln -desig -prfl.sg neg -pf.ptc take -neg.cvb be -pst -poss.3sg be -pst -poss.3sg say   -fut  -2sg
+
+\ft I was raised in various families, my father stayed alone, didn't marry (again), you'll say.
+\ru Я воспитывалась в разных семьях, мой отец остался один, не женился, скажешь.
+\ph ńimeltendu, öčö
+\gr when we translated this with Ija Krivoshapkina she said that "emekken" has a nuance of "sovershenno odin", though at a different
+point (concerning her sentence in ClusivityA1b) she said that "emekken" is simply "alone". + eče gar bihin - has a nuance of her not
+having witnessed that herself, "chto ona togda sama ne znala", that she heard about this only later
+\nt It's odd what Elena Kirillovna here said about Anna Egorovna's father not having married again, because later on Anna Egorovna
+says the opposite, that he married right away and ignored his daughter - and if Elena Kirillovna didn't know this, then it's a bit odd that
+AEK doesn't speak up and say that she's wrong.
+
+\id Krivoshapkina_AE_childhood_046
+\ref 5:16; EKK
+\tx Tarịt buollar uːr   derihnidʒi      hinu         bejil      geleːtčelgu            bihitnen?         [eh?]
+\mb tarịt buollar uːr   derisen -RIdʒI  hin     -W   bej -E-L   geleːt  -čE    -L  =GU bi -RI  -tEn      eh
+\ge then    dp.Y    before run.off -ant.cvb 2sg.obl -acc man -ep-pl look.for -pf.ptc -pl =q  be -pst -poss.3pl eh
+
+\ft And then when you ran off, people looked for you, it seems?
+\ru А потом убежав (когда ты убежала), тебя люди искали?
+\ph
+\gr the Perfect Participle plus bi- gives a nuance of "okazyvaetsja" - obviously, Elena Kirillovna was not an eyewitness of all these events,
+she heard about them from Anna Egorovna
+\nt
+
+\id Krivoshapkina_AX_svatovstvo_087
+\tx Mut    ahịkkaŋat                     họː ịbga   ahịkkan,  ịbga   ńuːritelken,     ŋọnam baγajị
+\mb mut    asị -kkEn -ŋ  -E-t(I)         họː ịbgọ asị -kkEn ịbgọ ńuːrit -E  -lkEn ŋọnam baγajị
+\ge 1pl.in woman -dim  -aln -ep-poss.1pl.in very   good     woman -dim  good     hair     -ep -prop long     very.Y
+
+\tx ńuːritelken,     haŋanalan      baγajị, bekebben                 haŋannị,      ńamịčam          ịbgat       baγajị
+\mb ńuːrit -E  -lkEn haŋan -E  -LEn baγajị  bekeč -W   -E-n(I)      haŋan -RI       ńamịčan     -W   ịbgọ -Č  baγajị
+\ge hair     -ep -prop sew    -ep -nr  very.Y     all    -acc -ep-poss.3sg sew    -impf.ptc female.reindeer -acc good     -ins very.Y
+
+\tx hịrrị,      eltiŋelbu             haŋannị,      bekebben                 haŋannị       [stammers]
+\mb hịr -RI       eltiŋ     -E-L   -W   haŋan -RI       bekeč -W   -E-n(I)      haŋan -RI       stammers
+\ge milk  -impf.ptc yurt.cover -ep-pl -acc sew    -impf.ptc all    -acc -ep-poss.3sg sew    -impf.ptc stammers
+
+\tx bekebben                 hataːwrača,         goːniken.
+\mb bekeč -W   -E-n(I)      hataː -Gr(E) -čE    goːn -nIkEn
+\ge all    -acc -ep-poss.3sg know.Y -hab   -pf.ptc say   -sim.cvb
+
+\ft "Our girl is a very good girl, she has good hair, she has very long hair, she is a good seamstress, she sews everything, she milks does
+very well, she sews yurt covers, she sews everything, she knows how to do everything."
+\ph
+\gr (trans_file 01_quest_2010, 43:30) in Sebjan Even, hataːdaj = umet', ty vse umeeš' = hi hataːnnị; (04_quest_2010, 35:10) ja doju =
+hịraddam, ona doit = hịraddan, hịrrị= dojaščaja, haŋannị = šjuščaja, voobšče xorošo šjet; indic nonfut = haŋannan, bi ịbgat
+ńamịčam hịrrị bihem = ja važenku xorošo doju, hi hịrrị bihenni, but 3SG = nọŋan hịrrị, without the auxiliary in the present tense,
+while in the past tense the auxiliary is used, nọŋan hịrrị bihin; 3PL = hịrrịl, while 1PL = hịrrị bihep
+\ELANBegin 00:13:18.250
+\ELANEnd 00:13:42.790
+\ELANParticipant
+\ru Наша девушка очень хорошая девушка, у нее хорошие волосы, очень длинные волосы, она хорошо шьет, все шьет, хорошо доит
+важенок, шьет покрышку для юрты, все шьет, все умеет.
+
+\id Krivoshapkina_AX_1930s_088
+\tx Ńọkaltakanman,         ńulgewečeddi                     ebehelde,      ịalda,       čụkčalda,
+\mb ńọka -L  =t(E)kEn =mEn nulge   -WEːČ -E-D     -RI       ewen -SEl =DE  ịak -L  =DE  čukča -L  =DE
+\ge Sakha   -pl =restr   =neg migrate -gnr    -ep-prog -impf.ptc Even -pl  =ptl what  -pl =ptl Chukchi -pl =ptl
+
+\tx jụkagịralda       ịbgat       tegettetne,                          delbi  uorenče        bejčekel
+\mb jukagir  -E-L =DE     ịbgọ -Č  teg      -E-Č   -DE       -tEn      delbi  üören -čE    bej -čEkEn -L
+\ge Yukaghir -ep -pl =ptl good     -ins sit.down -ep-res -purp.cvb -poss.3pl very.Y study.Y -pf.ptc man -plen   -pl
+
+\tx dụkụptịdụ            takkatnajaktaːkal                   bịraːhal     emejekteːkel,            ụčụtalal
+\mb dụk -E-B    -RI       -DU  tat   -kEČ -nE     -jEktEːk -E-L   vrač    -E-L   em   -E  -jEktEːk -E-L   ụčụtal -E-L
+\ge write -ep-med -impf.ptc -dat learn -mult -intent -nec.Y    -ep-pl doctor.R -ep-pl come -ep -nec.Y    -ep-pl teacher.Y   -ep-pl
+
+\tx emejekteːkel,            kuruk     ńulgewečepti                    sịːha, keńeli, keńelit
+\mb em   -E  -jEktEːk -E-L   kuruk     nulge   -WEːČ -E-B    -RI       sïːha   keńeli  keńeli -Č
+\ge come -ep -nec.Y    -ep-pl always.Y. migrate -gnr    -ep-med -impf.ptc mistake.Y bad      bad     -ins
+
+\tx tegečedče                       bihes           ebit,      goːnče.
+\mb teg      -E-Č   -E-D     -čE    bi -R(E)   -s   ebit       goːn -čE
+\ge sit.down -ep-res -ep-prog -pf.ptc be -nonfut -2pl it.seems.Y say   -pf.ptc
+
+\ft Not only Sakha, in order for the migrating Evens, Chukchi, Yukaghirs to live well, very educated people have to come and teach them
+to read and write, doctors have to come, teachers have to come, it is wrong to always migrate, you live badly, he said.
+\ph
+\gr (trans_file 01_quest_2010 1:22:30) keńelit tegečedče bihes = non-witnessed past: vy ploxo poživali (dolgo žili), tegečedčehne =
+incorrect; tegečeddihnen = would be correct if he had witnessed how they lived, but he didn't see how they lived in the past, he
+concludes this from stories or evidence he sees now; (04_quest_2010, kuruk nulgewečepti = kuruk nulgewetti, no difference
+\ELANBegin 00:10:41.080
+\ELANEnd 00:11:10.550
+\ELANParticipant
+\ru Не только якуты, и кочующие эти народности, чтобы хорошо жили, очень образованные люди должны учить их письму, должны
+приехать врачи, учителя, постоянно кочевать это неправильно, вы живете плохо.
+
+\id Krivoshapkina_AX_1930s_133
+\tx Sakkyryrskij ulus       gerbe ọːčal          bihep              tarakam.
+\mb Sakkyryrskij uluːs     gerbe ọː  -čE -L     bi -R(E) -p        tarakam
+\ge Sakkyryr     district.Y name  become -pf.ptc -pl be -nonfut -1pl.in in.those.days
+\ft At that time we became the Sakkyryr district.
+\ph
+\gr (file 02_quest_2010, 31:15) ọːčal bihep = non-witnessed past, she heard about it from somewhere; ọːčat = nel'zja, the pf.ptc cannot take
+person marking, it only occurs in 3rd person as finite verb; ọrịt = witnessed past
+\ELANBegin 00:16:40.820
+\ELANEnd 00:16:46.680
+\ELANParticipant
+\ru Мы тогда стали Саккырырский улус.
+
+\id Krivoshapkina_AX_1930s_134
+\tx Tar   Sakkyryrskij ulus       edlen                  ọːra         Namskij ulus       gerbedu    bičel
+\mb tarak Sakkyryrskij uluːs     e   -dle     -n(I)     ọː  -R       Namskij uluːs     gerbe -DU  bi -čE -L
+\ge dist  Sakkyryr     district.Y neg -trm.cvb -poss.3sg become -neg.cvb Namtsy  district.Y name  -dat be -pf.ptc -pl
+
+\tx bihep              mute,  tarịt dʒe   Sakkyryrskij ulus       gerbe.
+\mb bi -R(E) -p        mut    tarịt dʒe   Sakkyryrskij uluːs     gerbe
+\ge be -nonfut -1pl.in 1pl.in then    well.Y Sakkyryr     district.Y name
+
+\ft When we hadn't yet become the Sakkyryr district we were in the so-called Namtsy district, then (it was) the Sakkyryr district.
+\ph
+\gr bičel bihep = non-witnessed past, the witnessed past would be bihit (if she knows from her own experience)
+\ELANBegin 00:16:46.680
+\ELANEnd 00:16:54.370
+\ELANParticipant
+\ru Перед тем как мы стали Саккырырский улус, мы были Намским улусом, потом Саккырырский улус.
+
+\id Krivoshapkina_AX_1930s_141
+\tx Blagodarnost dụkča      bihin.
+\mb blagodarnost dụk -čE    bi -RI -n(I)
+\ge gratitude.R  write -pf.ptc be -pst -poss.3sg
+\ft He (Kymov) wrote a (letter of) gratitude (to the speaker's father).
+\ph
+\gr dụkča bihin = non-witnessed distant past, dụkča = non-witnessed recent past, dụkụrịn = witnessed past, recent and distant
+\nt
+\ELANBegin 00:17:38.970
+\ELANEnd 00:17:40.970
+\ELANParticipant
+\ru Он написал благодарность.
+
+\id Krivoshapkina_Ija_memories_044
+\tx Tar   čụgasla,      ahụkandụ  emeːnčel         bičel.
+\mb tarak čụgas -(dU)LE ahụkan -DU  emeːn -čE -L     bi -čE    -L
+\ge dist  near.Y   -loc    near     -dat leave  -pf.ptc -pl be -pf.ptc -pl
+
+\ft They had left that somewhere close by.
+\ph
+\gr (05_quest_2010, 19:30) emeːnčel bičel - non-witnessed, she didn't see that
+\ru Где-то недалеко оставили, оказывается.
+\ELANBegin 00:04:09.690
+\ELANEnd 00:04:13.880
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_171
+\tx Ọmŋọčọ  bihem.
+\mb ọmŋa -čE    bi -R(E)   -m
+\ge forget  -pf.ptc be -nonfut -1sg
+\ft I forgot.
+\ru Забыла.
+\ph
+\gr (original question session in 2009 or 2012): ọmŋọčọ bihem is the 1SG form of the perfect past tense indicative, there is no modal
+nuance of evidentiality; the paradigm is: biː ọmŋọčọ bihem, hiː ọmŋọčọ bihenni,  nọŋan ọmŋọčọ, mut ọmŋọčọ bihep, huː ọmŋọčọ
+bihes, nọŋartan ọmŋọčọl
+\nt
+\gr special elicitation 120312: ọmŋọčọ bihem = nenaročno, ne xoteli zabyvatj, no zabyli; ọmŋarịw - one can say this, but very rarely, she
+turned it around in her mouth, wasn't sure - because basically this would mean that the speaker forgot something on purpose
+\ELANBegin 00:15:59.030
+\ELANEnd 00:16:02.200
+\ELANParticipant
+\ru
+
+\id Krivoshapkina_Sofija_life_003
+\ref 1:21
+\tx Ńulgeweːčedniken               tartakị     baldača        bihem.
+\mb nulge   -WEːČ -E-D     -nIkEn   tarak -t(E)kI balda   -čE    bi -R(E)   -m
+\ge migrate -gnr    -ep-prog -sim.cvb dist  -all    be.born -pf.ptc be -nonfut -1sg
+
+\ft I was born there while migrating.
+\ru Во время кочевой жизни в той стороне родилась.
+\ph
+\gr tartakị = tuda, but also tam; pf.ptc plus auxiliary = she doesn't remember herself, someone told her about this
+\nt
+
+\id Krivoshapkin_Segen_031
+\ref 6:16
+\tx Oo, torehnen,                 Dmitrij Krivošapkin emče?
+\mb oo  tore  -s(E)n      -E-n(I) Dmitrij Krivošapkin em   -čE
+\ge oh  speak -lim.nonfut -ep-3sg Dmitrij Krivoshapkin come -pf.ptc
+\ft "Oh, he started to say, Dmitrij Krivoshapkin arrived?"
+\ru О, заговорил, пришел ДК.
+\ph
+\gr The bare past participle as a resultative past for the 3rd person
+
+\id Neustroev_PD_Eveno_Bytantaj_011
+\tx "Dʒe  gọrọlča         bihenni         ebit,      gọrụ biwečemnes".
+\mb dʒe   gọrụ -l  -čE    bi -R(E)   -nrI ebit       gọrụ bi -WEːČ -E  -mnE -s(I)
+\ge well.Y far      -vr -pf.ptc be -nonfut -2sg it.seems.Y long     be -gnr    -ep -hyp -poss.2sg
+\ft Well, you have come far, it seems, you will probably journey for a long time.
+\ph
+\gr gọrọlča bihenni = the speaker didn't see himself, but it is present tense, if it were gọrọlča bihis it would be past tense; and the
+hypothetical suffix gives a hypothetical nuance (not given in the Russian translation), while biweččinni (plain future) would be a
+straightforward assertion
+\ELANBegin 00:01:21.350
+\ELANEnd 00:01:24.460
+\ELANParticipant
+\ru Значит ты далеко добрался, долго будешь ездить.
+
+\id Neustroev_PD_Eveno_Bytantaj_032
+\tx Tačịn       tatča        bihem.
+\mb tarọːčịn tat   -čE    bi -R(E) -m
+\ge dist.qual      learn -pf.ptc be -nonfut -1sg
+\ft I learned like that.
+\ph
+\gr here, the construction with the pf.ptc and bi- of course does not express unwitnessed past, since he is talking about himself; however, it
+gives a meaning of his having learnt or gotten the habit of singing sort of unnoticed, by itself, it's not something he learned especially,
+consciously
+\ELANBegin 00:04:00.680
+\ELANEnd 00:04:03.060
+\ELANParticipant
+\ru Я так приучился.
+
+\id Neustroev_PD_nimat_007
+\tx Tarak bej dʒe   čalmịwan                  ịawan                 uldewen                irittidʒi
+\mb tarak bej dʒe   čalmị   -W   -E-n(I)      ịak -W   -E-n(I)      ulre -W   -E-n(I)      ir        -E-Č   -RIdʒI
+\ge dist  man well.Y intestines -acc -ep-poss.3sg what  -acc -ep-poss.3sg meat -acc -ep-poss.3sg be.cooked -ep-res -ant.cvb
+
+\tx dʒe   nimeːrtendu          boːwreče          biče.
+\mb dʒe   ńimer    -tEn   -DU  boː -Gr(E) -čE    bi -čE
+\ge well.Y neighbour -distr -dat give -hab   -pf.ptc be -pf.ptc
+
+\ft That person (for whom the reindeer was killed) cooked the intestines the meat and all and gave some to each family.
+\ph
+\gr boːwreče biče = non-witnessed distant past
+\ELANBegin 00:01:00.440
+\ELANEnd 00:01:08.000
+\ELANParticipant
+\ru Этот человек (для которого убили) сварив все мясо, внутренности, раздавал вот каждой семье.
+
+\id RDA_TPK_death_246
+\tx Tarat   tịmanna  čaːgaraptụn               dọldụrap,           tarak ọmọlgọ kokeče      biče.
+\mb tarịt tịmịna čaːg -(E)rEp -DU  -n(I)     dọlda -R(E) -p        tarak ọmọlga   koke -čE    bi -čE
+\ge then    tomorrow   far    -adjr   -dat -poss.3sg hear    -nonfut -1pl.in dist  boy          die  -pf.ptc be -pf.ptc
+\ft Then the day after the next we heard that that boy had died.
+\ph
+\gr kokeče biče = distant past tense, kokeče by itself would give a meaning of recently died
+\ru На послезавтрашний день услышали, этот парень умер.
+\ELANBegin 00:12:34.760
+\ELANEnd 00:12:40.340
+\ELANParticipant R
+
+\id RDA_TPK_death_345
+\tx Tar,  tiːkerep    kụŋal    haːn es..        ečel           zamečajdar.
+\mb tarak tiek -(E)rEp kụŋa -L  haːn e   -R(E)   e   -čE -L     zamečaj     -LE -R
+\ge dist  now  -adjr   child   -pl some  neg -nonfut neg -pf.ptc -pl notice.imp.R -vr -neg.cvb
+\ft Some of the modern children don't notice, it seems.
+\ph
+\gr the evidential is expressed by ečel, pf.ptcp
+\ru Современные дети некоторые не замечают оказывается.
+\ELANBegin 00:17:41.750
+\ELANEnd 00:17:46.130
+\ELANParticipant R
+
+\id stado#9_introductions_040
+\tx Tụŋŋọn kuruhu                 mụdọk... mụdọktọn.
+\mb tụnŋan    kurs              -W   mụdak      mụdak -R(E) -n(I)
+\ge five         university.year.R -acc finish       finish  -nonfut -3sg
+\ft He finished the fifth year.
+\ph
+\gr (file 03_quest_2010, 1:00) mụdakaddan = sejčas okančivaet; mụdakča = okončil (non-witnessed); mụdaktan = okončil to'lko čto,
+recent past; mụdaktịn = okončil davno
+\ru Окончил пятый курс. 
+\ELANBegin 00:01:47.900
+\ELANEnd 00:01:52.340
+\ELANParticipant AVK
+
+\id Stepanova_ZA_naled_078
+\tx Apkịt biče      tara, heredʒeːnnep                 ajịkeː  tikeddep                      ečiken
+\mb apkịt bi -čE    tarak hor -E-dʒEːn -R(E) -p        aj   =kE   tik  -E-D     -R(E) -p        erroːčin -KEn
+\ge ravine  be -pf.ptc dist  go  -ep-dur    -nonfut -1pl.in good =emph fall -ep-prog -nonfut -1pl.in prox.qual  -dim.int
+
+\tx tọːla      apkịt ečin      ičudni,         balatkakkan   dʒe   ečiken,            haːnịnčannị.
+\mb tarak -(dU)LE apkịt erroːčin it  -W     -n(I) palatka -kkEn dʒe   erroːčin -KEn     haːnịn -čEn -n(I)
+\ge dist  -loc    ravine  prox.qual  see -advrs -3sg  tent.R  -dim  well.Y prox.qual  -dim.int smoke     -dim  -poss.3sg
+
+\ft There is a ravine there, we go and go, it is very good, we go down like this, theeeeere a ravine can be seen like this, a small tent, a bit
+of smoke.
+\ph apkịːːːːːːt
+\gr possibly she used the non-witnessed past apkịt biče - which literally means 'there was a ravine', even though the ravine still exists there
+- because she doesn't remember everything so clearly, in so much detail anymore; remembers only 'chto ushelje tam, okazyvaetsja, bylo'
+\ru Там ущелье, едем, хорошо, спускаемся так, там ущелье виднеется, палаточка, и дымок.
+\ELANBegin 00:07:58.360
+\ELANEnd 00:08:11.750
+\ELANParticipant
+
+\id Stepanova_ZA_sibling_030
+\ref 9:24
+\tx Ńan   tala          ọbụkada         họrgaran                goːniken,     erbeččemen
+\mb ńaːn tarak -(dU)LE ọbụka      =DE  họr      -Gr(E) -E-n(I) goːn -nIkEn   erroːčin -KEn -W   -E-n(I)
+\ge and    dist  -loc    mountain.mouse =ptl get.caught -hab   -ep-3sg say   -sim.cvb prox.qual  -dim -acc -ep-poss.3sg
+
+\tx hịattụk    erbečen   ịakakam         ọːča      bihin.
+\mb hịat -DUk(U) erroːčin ịak -kEkEn -W   ọː -čE    bi -RI  -n(I)
+\ge willow -abl    prox.qual  what  -dim   -acc make  -pf.ptc be -pst -poss.3sg
+
+\ft Saying "and mountain mice get caught there" (the father) made a little (trap) from willow (twigs).
+\ru Еще туда попадает горная мышь, такой из ивы, такой он сделал. (отец ловушку сделал)
+\ph
+\gr she may have used the evidential form "ọːča bihin" because although she witnessed the whole "hunting" episode, she did not see the
+actual making of the little trap, only the final result, or because she may not remember so well anymore
+\nt
+
+\id Stepanova_ZA_svatovstvo_07
+\ref 1:30
+\tx Atịkaŋan                 kučuken kụŋaw     baldarịdʒị, tar   kụŋan          ńuŋen ịlaːlkan
+\mb atịkan  -ŋ  -E-n(I)      kučuke  kụŋa -W   balda   -RIdʒI  tarak kụŋa -n(I)     ńuŋen ịlaːn -lkEn
+\ge old.woman -aln -ep-poss.3sg small    child   -acc be.born -ant.cvb dist  child   -poss.3sg six     month    -prop
+
+\tx biddeken,                       kokeče      bihin.
+\mb bi -D    -REk      -E-n(I)      koke -čE    bi -RI  -n(I)
+\ge be -prog -cond.cvb -ep-poss.3sg die  -pf.ptc be -pst -poss.3sg
+
+\ft His wife had given birth to a small child and had died when that child was six months old.
+\ru Его жена родив маленького ребенка умерла, когда этому ее ребенку было 6 месяцев.
+\ph the Accusative case marking on kụŋaw is not very audible
+\gr the form kokeče bihin has a nuance of not having witnessed the event herself, having heard about it only from her father
+\nt
+
+\id Stepanova_ZA_svatovstvo_13
+\ref 2:19
+\tx Erek ahịw     galị        goːniken,     goːnče      bihin.
+\mb erek asị -W   ga   -LI      goːn -nIkEn   goːn -čE    bi -RI  -n(I)
+\ge prox woman -acc take -imp.2sg say   -sim.cvb say   -pf.ptc be -pst -poss.3sg
+
+\ft "Take this woman (for a wife)", he said.
+\ru Возми эту женщину, сказал.
+\ph
+\gr goːnče bihin gives a nuance of not having witnessed the event herself
+\nt
+
+\id S_AspectPictures06_C2
+\ref elicited with Ekaterina Shadrina 20.02.08; sebjan200208_50:40
+\tx Atịkan  họːja ọjụ      haŋanča.
+\mb atịkan  họːja ọj    -W   haŋan -čE
+\ge old.woman many     clothes -acc sew    -pf.ptc
+\ft
+\ru закончила сшить 
+\ph
+\gr ja zakonchila shit' = biː ọddan haŋannịj; the recent resultative past exists only for the 3rd person: nọŋan haŋanča and nọŋartan
+haŋančal; for the other persons, she gave the nonfuture: biː haŋannam, hiː haŋannannị, mut haŋannap (should probably be haŋnam,
+haŋnannị, haŋnap); said that one could also say nọŋan haŋannan, but that would be more recent than haŋanča; bi haŋanča bihem =
+mne prisnilos', chto ja shila odezhdu
+\nt
+\nt elicited with Ija Krivoshapkina, sebjan100308_57:25
+\tx Kụŋal    tara  ọjụr         tettidʒur          orelderidʒur         biečedde.
+\mb kụŋa -L  tarak ọj    -WUr     tet    -RIdʒI  -L  orelde   -RIdʒI  -L  bi -WEːČ -E-D     -R(E)
+\ge child   -pl dist  clothes -prfl.pl put.on -ant.cvb -pl be.happy -ant.cvb -pl be -gnr    -ep-prog -nonfut.3pl
+\ft
+\ph she actually said "kụŋalụ", but that must have been a mumble
+\nt prompted her to say the woman finished sewing:
+\tx Ahị haŋaːnnị     ọddan.
+\mb asị haŋan -RI       ọd -R(E)   -n(I)
+\ge woman sew    -impf.ptc stop -nonfut -3sg
+
+\ft
+\gr can also say "haŋaːnnịjị"
+
+\id S_ConverbsComplex2.24
+\ref elicited with Ekaterina Shadrina 18.02.08; sebjan180208_27:37
+\tx Huː emnekehnen                  biː dʒeblew       iriwrerem                huː dʒebemelče
+\mb huː em   -REk      -E-sEn       biː dʒeb -LE -W   iri  -Gr(E) -R(E)   -m   huː dʒeb -E-mEl  -čE
+\ge 2pl  come -cond.cvb -ep-poss.2pl 1sg  eat   -nr -acc cook -hab   -nonfut -1sg 2pl  eat   -ep-des -pf.ptc
+
+\tx biwres.
+\mb bi -Gr(E)      -s
+\ge be -hab.nonfut -2pl
+
+\ru Как только вы приходите, я начинаю готовить ужин, потому что вы всегда голодные.
+\ph
+\nt On 18.02.08 she clearly said iriWGERerem, but on 19.02.08 she said that that is wrong, it cannot be iriwgererem, it cannot be
+irigererem, it has to be iriwrerem (sebjan190208_34:15)
+\qu
+\tx huː boːwrerihnen
+\mb huː boː -Gr(E) -RI  -sEn
+\ge 2pl  give -hab   -pst -poss.2pl
+\ru вы давали
+\ph
+\tx huː boːwres
+\mb huː boː -Gr(E)      -s
+\ge 2pl  give -hab.nonfut -2pl
+\ru вы всегда даете
+\ph
+\nt sebjan220208_13: checked the meaning of forms consisting of PST.PTCP + bi- --> she'd said previously that for 1SG this has a
+meaning not having been aware of the action, mne prisnilos'
+\tx huː dʒebemelče          bihes
+\mb huː dʒeb -E-mEl  -čE    bi -R(E)   -s
+\ge 2pl  eat   -ep-des -pf.ptc be -nonfut -2pl
+\ru Вы проголодались; 
+\gr this can be just a statement, but can also have a nuance of evidentiality, okazyvaetsja chto vy progolodalis'
+\gr she did not accept "biwres" here, changed it to bihes
+\tx biː haŋanča      bihem
+\mb biː haŋan -čE    bi -R(E)   -m
+\ge 1sg  sew    -pf.ptc be -nonfut -1sg
+\ru я сшила, уже все, но она не понимая сшила, лучше:
+\tx nọŋan haŋanča      biče
+\mb nọŋan haŋan -čE    bi -čE
+\ge 3sg      sew    -pf.ptc be -pf.ptc
+\ru оказывается, он сшил
+\nt I checked this again (sebjan280208_1_2:45), and she gave the translation "ona, okazyvaetsja, sšila, zakončila uže"; answered my
+question whether this means that I didn't see her sew, but I see the result, the ready clothes, in the affirmative
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_10:20
+\tx Emnikkeːnihnen                  biː dʒeblew       irilgerem,             huː kuruk     dʒebemgeres,
+\mb em   -RI       -KEn -E-sEn       biː dʒeb -LE -W   iri  -L    -Gr(E) -m   huː kuruk     dʒeb -E-m    -Gr(E) -s(I)
+\ge come -impf.ptc -dim -ep-poss.2pl 1sg  eat   -nr -acc cook -inch -hab   -1sg 2pl  always.Y. eat   -ep-des -hab   -poss.2sg
+
+\tx teːmi.
+\mb teːmi
+\ge therefore
+
+\gr The form "emnikkenihnen" is a bit weird, "kak tol'ko", in SS use it takes the Possessive Reflexive Instrumental suffix, in DS use
+normal Possessive suffixes (cf. immediate_precedence_converb_sebjan); and although I'm relatively sure that it contains the
+Imperfective Participle, I'm not sure about the Diminutive; Ija Krivoshapkina does always point out that it has a geminated -kk-
+
+\id S_DesignativeB08b
+\ref elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_26:15
+\tx Nọŋan akannị                gịa atịkaŋgaj                   garịn             //  gača.
+\mb nọŋan akan          -n(I)     gịa atịkan  -ŋ  -GE    -J       ga   -RI  -n(I)     *// ga   -čE
+\ge 3sg      older.brother -poss.3sg next  old.woman -aln -desig -prfl.sg take -pst -poss.3sg *** take -pf.ptc
+\ft
+\ru Его старший брат взял себе вторую жену.
+\ph
+\gr garịn = the speaker was a witness of the event, he was associated with it, or he knew at the time of the even that the older brother was
+marrying again; gača = the speaker heard about it, was not a witness, was  not closely associated with the event, has a nuance of
+"okazyvaetsja"
+\nt
+\nt elicited with Ekaterina Igorovna Shadrina, sebjan040308_keti_52:50
+\tx Nọŋan egdʒen akannị                ńanda      honte atịkaŋgajị                gača.
+\mb nọŋan egdʒen akan          -n(I)     ńaːn =DE  honte atịkan  -ŋ  -GE    -J       ga   -čE
+\ge 3sg      big     older.brother -poss.3sg and    =ptl other old.woman -aln -desig -prfl.sg take -pf.ptc
+
+\id Tulasynova_LA_family_history_033
+\tx Tar   emneken                      bọlla      akannị                uže      enilniken             dessiče       biče.
+\mb tarak em   -REk -E-n(I)            buollaγïna akan          -n(I)     uže      enin   -L    -nIkEn   desči -čE    bi -čE
+\ge dist  come -cond.cvb -ep -poss.3sg dp.Y         older.brother -poss.3sg already.R be.ill -inch -sim.cvb lie    -pf.ptc be -pf.ptc
+
+\ft And when he came home, his older brother was already lying sick.
+\ph
+\gr when I asked why she used dessiče biče and not just dessiče, IVK said that this took place in the very distant past, probably that's why
+\ru Когда он пришел его старший брат уже заболев лежал.
+\ELANBegin 00:03:04.093
+\ELANEnd 00:03:08.812
+\ELANParticipant
+
+\id Tulasynova_LA_family_history_123
+\tx Hontel    goːnikehel         ukčendi         bihidnen,         nọŋar..   ergidel        hontel    goːniken.
+\mb honte -L  goːn -nIkEn   -SEl ukčen -RI       bi -RI -tEn       nọŋan -L  erek -gIdE -L  honte -L  goːn -nIkEn
+\ge other -pl say   -sim.cvb -pl  tell   -impf.ptc be -pst -poss.3pl 3sg      -pl prox -part -pl other -pl say   -sim.cvb
+\ft They told that they are different, the locals are different.
+\ph
+\gr
+\qu ukendi bihidnen vs ukcennitnen??
+\nt the Bulun Evens used to say the locals are different
+\ru Они рассказывали что они другие, местные другие
+\ELANBegin 00:11:18.470
+\ELANEnd 00:11:25.984
+\ELANParticipant
+
+\id Tulasynova_LA_family_history_144
+\tx Ebedit          ọːn bideŋen                 ọːdnị   ọmŋačada         bihem.
+\mb ewen -DI   -Č  ọːn bi -DEŋ    -E-n(I)      ọː  -n(I) ọmŋa -čE    =DE  bi -R(E) -m
+\ge Even -adjr -ins how    be -pst.ptc -ep-poss.3sg become -3sg  forget  -pf.ptc =ptl be -nonfut -1sg
+
+\ft I forgot how (to say it) in Even.
+\ph
+\gr bideŋen is in the nominative case because it is the subject of the verb ọːdnị; and the phrase "ọːn bideŋen ọːdnị" is basically an insertion,
+an independent clause, not dependent on ọmŋača (little_quest_kejm_tulasyn_280212, 4:15-); the sentence as given here is fully correct
+and grammatical; one could also say ọːn bideŋmen ọmŋačada bihem, but not *ọːn bideŋen ọːrịwan ọmŋačada bihem
+\qu what is the nuance of omngacha bihem - just past? or non-witnessed?
+\ru Как по-эвенски я и забыла.
+\ELANBegin 00:13:00.871
+\ELANEnd 00:13:06.344
+\ELANParticipant
+
+\id Tulasynova_LA_family_history_185
+\tx Tak, tụŋŋam mịar     ịlan aŋŋanị, tịhịnča devitsot       pitisjat    tretij  god,   sedmoe    marta       biː
+\mb tak  tụnŋan  mịan -L  ịlan anŋan      tïːhïnča devjatsot      pjatdesjat' tretij  god    sed'moe   marta       biː
+\ge so.R five       ten    -pl three  year        thousand.Y   nine.hundred.R fifty.R     third.R year.R seventh.R March.gen.R 1sg
+
+\tx baldača        bihem.
+\mb balda   -čE    bi -R(E) -m
+\ge be.born -pf.ptc be -nonfut -1sg
+
+\ft So, I was born in the year 1953, on the 7th of March.
+\ph
+\gr she uses the perfect participle with bi- because she of course cannot remember her birth, while she was there, she wasn't exactly a
+witness
+\ru В 53м году, седьмого марта, я родилась.
+\ELANBegin 00:17:01.787
+\ELANEnd 00:17:13.994
+\ELANParticipant
+
+\id Tulasynova_LA_family_history_220
+\tx Biː upeːw                emie,  ammụ           eńenni          emie   ụdaganka           dʒajụtnịkan
+\mb biː upeː       -W        emie   aman   -W        eńin  -n(I)     emie   ụdaγan       -ka  dʒaj -E-Č   -nIkEn
+\ge 1sg  grandmother -poss.1sg also.Y father -poss.1sg mother -poss.3sg also.Y female.shaman.Y -F.R hide  -ep-res -sim.cvb
+
+\tx ụdaganka           ụdagannaːrị              bihin.
+\mb ụdaγan       -ka  ụdaγan       -LE -RI       bi -RI -n(I)
+\ge female.shaman.Y -F.R female.shaman.Y -vr -impf.ptc be -pst -poss.3sg
+
+\ft My grandmother too, my father's mother, was a shaman, she used to shamanize secretly.
+\ph
+\qu is there a difference between udaganna:ri bihin and udaganna:wrarin?
+\ru Моя бабушка, мать моего отца, была удаганкой, тайно шаманила.
+\ELANBegin 00:20:26.108
+\ELANEnd 00:20:37.054
+\ELANParticipant LAT
+
+\id Tulasynova_LA_family_history_221
+\tx Bekebben                 dʒajụttị            bihitnen,         esten       ukčengerer.
+\mb bekeč -W   -E-n(I)      dʒaj -E  -Č  -RI       bi -RI -tEn       e   -R(E)   ukčen -Gr(E) -r
+\ge all    -acc -ep-poss.3sg hide  -ep -res -impf.ptc be -pst -poss.3pl neg -nonfut tell   -hab   -3pl
+
+\ft They hid all, didn't tell.
+\ph dʒajụt with u is the only form of the verb, so here the epenthetic vowel is rounded to u
+\ru Все скрывали, не рассказывали.
+\ELANBegin 00:20:37.054
+\ELANEnd 00:20:40.577
+\ELANParticipant
+
+\id Tulasynova_LA_family_history_222
+\tx Bekebben                 dʒajụkkarar.
+\mb bekeč -W   -E-n(I)      dʒaj -E  -Č  -Gr(E) -r
+\ge all    -acc -ep-poss.3sg hide  -ep -res -hab   -3pl
+
+\ft They hid everything.
+\qu what is the difference between the participle+bi (prev rec) and this?
+\ru
+\ELANBegin 00:20:40.577
+\ELANEnd 00:20:44.971
+\ELANParticipant
+
+\id Tulasynova_LA_family_history_280
+\tx Bụltaːrị       bihin.
+\mb bụltaː -RI       bi -RI -n(I)
+\ge hunt.Y    -impf.ptc be -pst -poss.3sg
+\ft hunted
+\ph
+\gr bụltaːrị bihin expresses a more distant past than bụltaːrịn, which is a more recent past
+\ru Охотилась.
+\ELANBegin 00:26:14.677
+\ELANEnd 00:26:22.191
+\ELANParticipant
+
+\id Tulasynova_LA_family_history_290
+\tx Kọratla      igin  biwetti              bihitnen,         mụnńakaldụla,       kamụńụs bidniken.
+\mb gorod  -(dU)LE iŋin bi -WEːČ -RI       bi -RI -tEn       mụnńak -E-L   -(dU)LE kommunist    bi -D    -nIkEn
+\ge town.R -loc    etc.Y be -gnr    -impf.ptc be -pst -poss.3pl meeting.Y -ep-pl -loc    communist.R  be -prog -sim.cvb
+\ft They used to go to town (Yakutsk) to meetings, when he was a communist.
+\ph
+\gr biwetti bihitnen = distant past, biwettin = recent past
+\ru Ездили в город, на собрания, когда он был коммунистом.
+\ELANBegin 00:27:19.326
+\ELANEnd 00:27:26.047
+\ELANParticipant

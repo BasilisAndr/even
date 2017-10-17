@@ -1,0 +1,954 @@
+\_sh v3.0  400  Text
+
+\id KAM_Amganov_EI_first_tractor_034
+\ref manner, adjunct
+\tx Parawọskečineːj       gudelloːtten,
+\mb parovoz   -G(E)čIn =eː  gudel    -WEːČ -R(E) -n(I)
+\ge steamer.R -sml      =emph hooted.R -gnr    -nonfut -3sg
+
+\tx ečin      wuuu, ečin      epkenidʒur         ečin,
+\mb erroːčin wuuu  erroːčin hepken -RIdʒI -L   erroːčin
+\ge prox.qual  woooo prox.qual  catch  -ant.cvb -pl prox.qual
+
+\ft He hooted like a steamer, wooooooo, when they pulled (that rope).
+\ELANBegin 00:02:57.290
+\ELANEnd 00:03:02.730
+\ELANParticipant
+\ev
+\ru Как паровоз гудит, вот так, когда так дергали.
+
+\id KAM_Egorova_RM_Anin_1_022
+\ref manner
+\tx Agdịgčịn     čelewen                ịakka     iːnikke    bisi         dʒụːla       ịaw
+\mb hagdị -G(E)čIn čele -W   -E-n(I)      ịak =kE   iːni =kE   bi -RI       dʒụː -(dU)LE ịak -W
+\ge old     -sml      all   -acc -ep-poss.3sg what  =emph life  =emph be -impf.ptc house    -loc    what  -acc
+
+\tx nekedde,              čelewen                aːwaːttam.
+\mb nek -E  -D    -R(E)   čele -W   -E-n(I)      haː -WEːČ -R(E) -m
+\ge do  -ep -prog -nonfut all   -acc -ep-poss.3sg know -gnr    -nonfut -1sg
+\ft And like a grown-up, whatever there is in life, what they do in the house, all I knew.
+\ph
+\gr 30.01.13 (questions5, 19:30) ịakka iːnikke bisi = chto vot v zhizni byvaet, to chto v zhizni est
+\ru Как взрослый человек, все что ни делает живой человек, дома что делают,  все я знала.
+\ev Адичин, чэлэвэн я-кка ини-ккэ биши, дюла яв нэкэддэ, чэлэвэн аваттам.
+\ELANBegin 00:02:28.363
+\ELANEnd 00:02:35.886
+\ELANParticipant
+
+\id KAM_Egorova_RM_Anin_1_023
+\ref manner
+\tx Agdịgčịn,    tarma turkuttiwu                      toreŋe.
+\mb hagdị -G(E)čIn tarma turku       -Č  -RI -W         tore  -ŋE
+\ge old     -sml      but   not.be.able -res -pst -poss.1sg speak -nmdl.cvb
+\ft Like a grown-up, only I wasn't able to speak.
+\ph
+\gr 30.01.13 (questions5, 20:45) turkuttiwu = voobshe ne mogla, vsegda; turkuriwu = 1 raz
+\ru Как взрослый человек, только разговаривать не могла.
+\ev Адичин, тарма туркуттиву торэӈэ
+\ELANBegin 00:02:35.886
+\ELANEnd 00:02:40.249
+\ELANParticipant
+
+\id KAM_Egorova_RM_Arishal_111
+\ref manner
+\tx Ńanda      ŋọːllin                  nọŋan tačịn        tar  djadja  Genaγčin     dʒụːla.
+\mb ńaːn =DE  ŋọː -L    -RI -n(I)      nọŋan tarrọːčịn tar  djadja  Gena -G(E)čIn dʒụː -(dU)LE
+\ge and    =ptl stink   -inch -pst -poss.3sg 3sg      dist.qual       thus uncle.R Gena -sml      house    -loc
+\ft "It again started to smell like Uncle Gena in the house."
+\ph
+\ev Нянда ӈоллин ноӈан тачин тар дядя Геначин дюла.
+\ru Опять запахло им так, как дядей Геной дома.
+
+\nt
+\ELANBegin 00:10:28.662
+\ELANEnd 00:10:34.797
+\ELANParticipant RME
+
+\id KAM_Egorova_RM_Arishal_124
+\ref comparison of action
+\tx Tarma aːdụndakka       ọːnkana    biweːtten              ŋiːwutte     biddiγčin                  dʒụːla
+\mb tarma haːdụn =DE  =kkE ọːn =kEnE  bi -WEːČ -R(E) -n(I)  ŋiː =(W)UttE bi -D    -RI       -G(E)čIn dʒụː -(dU)LE
+\ge but   sometimes =ptl =ptl how    =contr be -gnr    -nonfut -3sg who   =indef   be -prog -impf.ptc -sml      house    -loc
+
+\tx biweːtten.
+\mb bi -WEːČ -R(E) -n(I)
+\ge be -gnr    -nonfut -3sg
+
+\ft But then sometimes it is as if someone is in the
+house.
+\ph
+\ev Тарма адунда-кка онкана бивэттэн ӈивуттэ  биддигчин дюла бивэттэн.
+\ru Но иногда как же бывает, будто кто-то дома бывает.
+
+\nt
+\ELANBegin 00:11:23.583
+\ELANEnd 00:11:30.830
+\ELANParticipant RME
+
+\id KAM_Egorova_RM_Uindja_016
+\ref manner
+\tx Tačịnda          tetetten... tetutten                        Ụịndʒagčịn.
+\mb tarọːčịn =DE      tet     tet    -U    -Č  -R(E)   -n(I) Ụịndʒa -G(E)čIn
+\ge dist.qual      =ptl  put.on     put.on -caus -res -nonfut -3sg  Uindja      -sml
+
+\ft He is dressed like Uindja.
+\ph Ụịndʒaγčịn
+\gr 06.02.13 (questions13, 20:30) ja rebenka odewaju = bi kụŋaw teturem; rebenok odet v shapke = kụŋa tetutten aːwam (lit rebenok odet shapku)
+or kụŋa awattan (odet v shapke, one word); bi kụŋaw tetuttem = NO (that would be ja odet v rebenke); 
+\nt tetetten is false, then the speaker repeated the correct form.
+\ELANBegin 00:01:07.600
+\ELANEnd 00:01:12.580
+\ELANParticipant RME
+\ev
+\ru Так же одет, как Уиндя.
+
+\id KAM_Egorova_RM_Yakutia038
+\ref manner
+\tx Ńanasị       ontelesi           severli         Jakutijali       bisil,           ewgidemŋil,
+\mb ńaːn -E=sI    honte -L  -E=sI    sever   -(dU)LI Jakutija -(dU)LI bi -RI       -L  erek -gIdE -mŋE -L
+\ge again  -ep=emph other -pl -ep=emph north.R -prol   Yakutia  -prol   be -impf.ptc -pl prox -part -agnr -pl
+
+\tx ewgidetki          bisil             torer             ọrọttịč       mungečin.
+\mb erek -gIdE -t(E)kI bi -RI       -L   tore         -r   ọrọč -DI   -Č  mun        -G(E)čIn
+\ge prox -part -all    be -impf.ptc -pl  speak.nonfut -3pl Oroch     -adjr -ins 1pl.ex.obl -sml
+
+\ft And then, others, those from the north of Yakutia, from living closer to this side, they speak Even like we do.
+\ru Дальше, другие которые по северу Якутии живут, которые по-ближе в эту сторону живущие, говорят по-эвенски
+по-нашему.
+\ph uːnteliɕi bisil
+
+\id KAM_Egorova_RM_Yakutia041
+\ref comparison of action
+\tx Uŋe ọːnkene    olutewrigčin,                           min     ekmu             goːweːttin,
+\mb uŋe ọːn =kEnE  holu  -Č  -E-W      -RI       -G(E)čIn min     eken   -W        goːn -WEːČ  -RI  -n(I)
+\ge now  how    =contr chase -res -ep-advrs -impf.ptc -sml      1sg.obl mother -poss.1sg say   -gnr     -pst -poss.3sg
+
+\tx olutewrigčin                            torer,           aːmnịk aːmnịk.
+\mb holu  -Č  -E-W      -RI       -G(E)čIn tore     -r      aːmnịk aːmnịk
+\ge chase -res -ep-advrs -impf.ptc -sml      speak.nonfut -3pl quickly   quickly
+
+\ft Well, it's as if someone is chasing them, my mother used to say, they speak as if someone is chasing them, fast, fast.
+\ru Как-же, как будто их кто-то гоняет, так моя мама говорила, как будто их гоняют говорят, быстро быстро. 
+\ph ulutewrigčin goːwɐːttin
+\gr ulutewrigčin = kak budto ix gonjajut; kak budto ix gonjali = ulutewriten; kak budto menja gonjajut = minu
+ulutkewtigčin; kak budto nas gonjajut = mutu ulutkettigčin; kak budto ego gonjajut = noŋmaːn ulutkettigčin;
+ulutmettigčir = kak budto drug druga gonjajut; kak budto ja gonjaju = ulutkettem --> the problem is that there's no
+visible paradigm; on the one hand, some forms look as if they have a Multiplicative suffix, the 'drug druga' form clearly
+has the Reciprocal; but the form in the narrative has neither; figured out the form later, as seen above
+
+\id KAM_Egorova_RM_Yakutia044
+\ref manner
+\tx I     vot    tarak Uljana tarakasị     mungečin            prjamo     toren
+\mb i     vot    tarak Uljana tarak -E=sI    mun        -G(E)čIn prjamo     tore         -n(I)
+\ge and.R here.R dist  Uljana dist  -ep=emph 1pl.ex.obl -sml      straight.R speak.nonfut -3sg
+
+\tx ajịč.
+\mb aj   -E-Č
+\ge good -ep-ins
+\ft And this Uljana really spoke well, like us.
+\ru Вот Ульяна как мы хорошо разговаривает
+\ph
+
+\id KAM_Egorova_RM_Yakutia067
+\ref manner
+\tx Čelewen                mutkečin        torer.
+\mb čele -W   -E-n(I)      mut    -G(E)čIn tore         -r
+\ge all   -acc -ep-poss.3sg 1pl.in -sml      speak.nonfut -3pl
+\ft Everything they say like us.
+\ru Все говорят по-нашему (как мы).
+\ph
+
+\id KAM_Grigoreva_NI_legend_Alngej_026
+\ref unclear
+\tx Nan    ečin      etekaγ       dọːlan             ńọːŋčịddakan                     ịamị uŋe          nukiduk        nukiγčin,      buːdelen
+\mb ńaːn erroːčin hịat -K(Ag) dọː -(dU)LE -n(I)  ńọːŋčị -D    -REk      -n(I)     ịamị uŋ       -E  noːki -DUk(U) noːki -G(E)čIn boːdel -E-n(I)
+\ge and    prox.qual  willow -nr    inside -loc -poss.3sg run            -prog -cond.cvb -poss.3sg ptl      something -ep bow    -abl    arrow  -sml      leg(s)  -ep-poss.3sg
+
+\tx ańčịndụlan            ečin      uŋnin.
+\mb ańčịn    -(dU)LE -n(I)  erroːčin uŋ -RI -n(I)
+\ge space.beside -loc -poss.3sg prox.qual  do  -pst -poss.3sg
+
+\ft And as he was running like this among the willows suddenly (someone shot) from bow and (an arrow fell) like this by his legs.
+\ph
+\nt The translation is based on the fact that Rimma felt she should have said "nukiduk nukileriten", shot from a bow
+\ev
+\ru И вот он так по тальникам бежал и из лука а около его ноги вот так сделалось. (пока он бежал из лука кто-то стрельнул около его ног)
+\ELANBegin 00:04:15.320
+\ELANEnd 00:04:33.520
+\ELANParticipant
+
+\id KAM_Grigoreva_NI_legend_Alngej_127
+\ref manner
+\tx Nan    Ńuːt kojeːtten,          guːnni     "epiŋaj ịamị tačịmụr    torenni            Twajangačịn?"
+\mb ńaːn ńut   kojeːt -R(E) -n(I)  goːn -n(I) epiŋej  ịamị tarrọːčịn tore  -R(E)   -nrI Twajaːn -G(E)čIn
+\ge and    resin  look.at -nonfut -3sg say   -3sg  volcano  why      dist.qual       speak -nonfut -2sg Twajaːn -sml
+\ft And Njut looked and said "Volcano, why do you speak like Twajan?".
+\ev
+\ru И вот Нют посмотрела, говорит "вулкан, почему ты так говоришь как Тваян?".
+\ELANBegin 00:18:14.240
+\ELANEnd 00:18:23.880
+\ELANParticipant
+
+\id KAM_Grigoreva_NI_shkola_remesel_1_187
+\ref unclear
+\tx Maranŋaγčin     nọːdịkawan,               tor,  tor   nọːdịkawan,               maranŋa urečin   biweːtten.
+\mb maranŋa -G(E)čIn nọːdịka -W   -E-n(I)      tor   tor   nọːdịka -W   -E-n(I)      maranŋa ureːčin bi -WEːČ -R(E)   -n(I)
+\ge rainbow  -sml      ornament     -acc -ep-poss.3sg earth earth ornament     -acc -ep-poss.3sg rainbow  similar   be -gnr    -nonfut -3sg
+\ft Like a rainbow, the beauty, the beauty of the earth, it can be like a rainbow.
+\ph
+\qu nodika = krasota?? or is it nodik?
+\ev Марангачин нодыкаван тур тур нодыкаван, маранга урэчин бивэттэн.
+\ru Как радуга, красоту земли, красоту, на радугу похожую бывает.
+
+\ELANBegin 00:18:56.600
+\ELANEnd 00:19:03.800
+\ELANParticipant NIG
+
+\id KAM_Ichanga_Adukanov_muzej2_016
+\ref manner
+\tx nọŋanaši       ečin      čiːkulattin                    Timofejgečin     biče
+\mb nọŋan -E  =sI   erroːčin čiːkul -E  -Č  -RI -n(I)      Timofej -G(E)čIn bi -čE
+\ge 3sg      -ep =emph prox.qual  protrude -ep -res -pst -poss.3sg Timothy -sml      be -pf.ptc
+
+\ft it used to stick out like late Timofej's
+\ph
+\gr palec torchit = čiːkulattan, vsegda torchit; čiːkullan = OK, sejchas vylez;  čiːkun = yes, vysunulsja (though she hesitated about this a bit); 
+\ev
+\ru он же вот так торчал как у Тимофея покойного
+\ELANBegin 00:01:23.370
+\ELANEnd 00:01:27.760
+\ELANParticipant AEI
+
+\id KAM_Paderina_Egorova_razgovor_113
+\ref comparison of action
+\tx Nataljaw     oːšejriγčin            ọńaddʒọːttan,               tarak bejjeken.
+\mb Natalja -W   oːsej -RI       -G(E)čIn ọńa -D    -WEːČ -R(E)   -n(I) tarak bej -jEkEn
+\ge Natalia -acc tease  -impf.ptc -sml      write  -prog -gnr    -nonfut -3sg  dist  man -dim.def
+
+\ft He's writing to Natalja as if to tease her, that (despicable) man.
+\ph oːšejričin with hardly audible γ
+\gr bejjeken = protivnyj muzhichonka; ili malenkij muzhichonka (the -jeken), but here she knows the guy and dislikes him; doll = bejiken; bejkeje = bolshoj
+\nt Natalia is Evgenija's daughter, the older sister of Grigorij; and it's the detective who is writing to and calling Natalja and accusing her of having talked all her relatives into telling lies
+to protect Grigorij 
+\ELANBegin 00:09:51.800
+\ELANEnd 00:09:58.400
+\ELANParticipant RME
+\ru Наталье, как будто дразнит, пишет этот мужиченка.
+\ev Натальяв осэйричин оняддёттын тарак бэйекэн.
+
+\id KAM_Paderina_Egorova_razgovor_366
+\ref manner
+\tx I     ene... ečine         ọːnka    rjabinaγčin          ọːja  umenduleeː        ečine         biweːtten.
+\mb i            erroːčin -E  ọːn =kE  rjabina      -G(E)čIn họːja omen -(dU)LE =eː  erroːčin -E  bi -WEːČ -R(E)   -n(I)
+\ge and.R        prox.qual  -ep how    =ptl rowanberry.R -sml      many     one  -loc    =emph prox.qual  -ep be -gnr    -nonfut -3sg
+
+\ft And (it grows) like rowanberries there's a lot (of berries) on one (twig).
+\ph
+\ELANBegin 00:31:15.840
+\ELANEnd 00:31:22.400
+\ELANParticipant RME
+\ru и Энэ..так каку рябины много на одном.
+\ev И энэ...эчин онкы рябиначин оя умындулэбивэттэн.
+
+\id KAM_Paderina_Egorova_razgovor_492
+\ref manner
+\tx Guːnitenke                ešten                ajaːwwọːtta         ŋiːke     ešni             nọŋargečiten             torer.
+\mb goːn -RI  -tEn      =kE   e   -R(E)   -tEn      ajaːw -WEːČ -R       ŋiː =kE   e   -R(E)   -n(I) nọŋar -G(E)čIn -tEn      tore  -R
+\ge say   -pst -poss.3pl =emph neg -nonfut -poss.3pl love   -gnr    -neg.cvb who   =emph neg -nonfut -3sg  3pl      -sml      -poss.3pl speak -neg.cvb
+
+\ft They say they don't like those who don't speak like them.
+\ph
+\ELANBegin 00:41:31.770
+\ELANEnd 00:41:38.490
+\ELANParticipant JIP
+\ru Сказали не любят кто не говорит по ихнему.
+\ev Гунитэн эштэн аяввотты ктоээ эшни по ихнему торэр.
+
+\id KAM_Solodikova_RM_childhood.144
+\ref comparison of action
+\tx Ńan   atkịkan tar  toγečin uŋneken                    tar  togečin atkịkan toγečin uŋnin
+\mb ńaːn atkịkan tar  togečin  uŋ -REk -E-n(I)            tar  togečin atkịkan togečin  uŋ -RI  -n(I)
+\ge and    moon      thus cloud     do  -cond.cvb -ep -poss.3sg thus cloud    moon      cloud     do  -pst -poss.3sg
+
+\tx čịdalin                      minu         uluriγčin               nekrin.
+\mb čịda       -(dU)LI -n(I)     min     -W   holu  -RI       -G(E)čIn nek -RI  -n(I)
+\ge opposite.side -prol   -poss.3sg 1sg.obl -acc chase -impf.ptc -sml      do  -pst -poss.3sg
+
+\ft And when the moon did the cloud (moved behind clouds), the moon was behind the clouds and it was as if it was chasing me.
+\ph
+\nt uluriγčin-как будто гнался
+\ru И вот месяц облако сделалось и месяц сделался за облаками как будто за мной гнался
+\ELANBegin 00:19:07.340
+\ELANEnd 00:19:18.320
+\ELANParticipant RMS
+
+\id KAM_Solodikova_RM_childhood.146
+\ref comparison of action
+\tx Ńan   teːle... guːniten            ńan   guːn atkịkan toγečin uŋneken                    guːn
+\mb ńaːn teːleŋ  goːn -RI  -tEn      ńaːn goːn atkịkan togečin  uŋ -REk -E-n(I)            goːn
+\ge and    tell      say   -pst -poss.3pl and    say   moon      cloud     do  -cond.cvb -ep -poss.3sg say
+
+\tx uŋnen                   uluriγčin               nekrin.
+\mb uŋ       -(dU)LE -n(I)  holu  -RI       -G(E)čIn nek -RI  -n(I)
+\ge something -loc -poss.3sg chase -impf.ptc -sml      do  -pst -poss.3sg
+
+\ft And they said "when the moon is (behind) the clouds", the said, "it's as if it chases you".
+\ru И вот сказали: "Вот облака делают и говорят делают как будто гонится". 
+\ELANBegin 00:19:24.940
+\ELANEnd 00:19:33.540
+\ELANParticipant RMS
+
+\id KAM_Solodikova_RM_nimkan_013
+\ref manner
+\tx Ńan   ịamị dọldan      tụrakị bejgečin     torellen.
+\mb ńaːn ịamị dọlda -n(I) tụrakị bej -G(E)čIn tore  -L    -R(E)   -n(I)
+\ge and    ptl      hear    -3sg  crow       man -sml      speak -inch -nonfut -3sg
+\ft And suddenly he hears, the crow starts to speak like a human.
+\ph dọldun
+\gr doldan turaki bejgečin torellen = slyshit chto vorona zagovorila po-chelovecheski; Q: could she have said: "doldan turaki bejgecin torecewen"? A: yes, uslyshala razgovor, chto vorono
+po-chelovecheskij govorila; torečewen = chto vorona govorila po-chelovecheski; Q: doldan turaki bejgecin toreriwen A: yes, sejchas razgovarivaet; 
+\ev
+\ru ... как человек заговорил.
+\ELANBegin 00:01:37.162
+\ELANEnd 00:01:43.766
+\ELANParticipant RMS
+
+\id KAM_Solodikova_RM_nimkan_037
+\ref comparison of action
+\tx Dʒaːlnịsị            mergemur         ajịč      uŋnidʒur       ńan   degelidʒeːnniten,               oseriγčin.
+\mb dʒaː -L  -n(I)     =sI   mergen  -WUr     aj   -E-Č   uŋ -RIdʒI -L   ńaːn deg -L    -dʒEːn -RI  -tEn      ose         -RI       -G(E)čIn
+\ge friend -pl -poss.3sg =emph thought -prfl.pl good -ep-ins do  -ant.cvb -pl and    fly -inch -dur     -pst -poss.3pl be.pregnant -impf.ptc -sml
+
+\ft As for its friends, they came to (lit: did their thoughts well) and flew off (the poor things), as if pregnant.
+\ph
+\gr bi ošerem = ja beremena; ošeːllem = ja ustal; bi ọːšajram = ja draznju; these two words don't have any link, and ose- 'pregnant' also doesn't have anything to do with either of these; biː
+ošerem, iː ošenni, nọŋan ošen (note aside: it's interesting how Raisa Maksimovna - at least in the nimkan - pronounces a clear -s- everywhere, while Rimma Maksimovna pronounces -š-)
+\nt ajịč uŋnidʒur - хорошо сделали; degellidʒeːnniten - бедненькие улетели; oseriγčin - ? как беременные что-ли; transl. file N2 
+\ev
+\ru А остальные вороны мозги свои поправили (придя в себя) и полетели дальше.
+\ELANBegin 00:04:43.517
+\ELANEnd 00:04:56.985
+\ELANParticipant RMS
+
+\id KAM_Solodikov_GA_tabun_047
+\ref calque from Russian
+\tx Ọral                ọrọlgačịn.
+\mb ọrọn          -L  ọrọn          -L  -G(E)čIn
+\ge domestic.reindeer -pl domestic.reindeer -pl -sml
+\ft Reindeer like reindeer.
+\ph
+\ELANBegin 00:04:52.959
+\ELANEnd 00:04:55.743
+\ELANParticipant GAS
+\comment
+\ev Орыл орылгычин.
+\ru Олени как олени.
+
+\id SEB_Alekseeva_RD_stuck_in_stado_057
+\ref manner
+\tx Haːkar manụdnị,        ulde ačča, italjanskičin      makarọm        dʒebniken,    italjanets...
+\mb saxar   man    -W     -n(I) ulre ačča  italjanec -G(E)čIn makarony    -W   dʒep -nIkEn   italjanec
+\ge sugar.R finish -advrs -3sg  meat neg     Italian.R -sml      maccaroni.R -acc eat   -sim.cvb Italian.R
+
+\ft The sugar was finished, there was no meat, like Italians we ate maccaroni.
+\ph
+\ru Сахар кончился, мяса нету, как италянцы кушали макароны.
+\ELANBegin 00:04:56.114
+\ELANEnd 00:05:04.512
+\ELANParticipant
+
+\id SEB_beseda_0097
+\ref unclear
+\tx Mingečin.
+\mb min     -G(E)čIn
+\ge 1sg.obl -sml
+\ft Like I have.
+\ru Как у меня.
+\ELANBegin 00:03:10.218
+\ELANEnd 00:03:10.434
+\ELANParticipant NPZ
+
+\id SEB_beseda_0401
+\ref pred
+\tx Mutkičin        butejdʒi               ịak amkan ča(wdalan)...           ịalan              ehni              bihe,
+\mb mut    -G(E)čIn bütej     -DʒI        ịak amkan čawda    -(dU)LE -n(I)  ịak -(dU)LE -n(I)  e   -R(E)   -n(I) bi -R
+\ge 1pl.in -sml      enclosed.Y -ins.prfl.sg what  hill  back.part -loc -poss.3sg what  -loc -poss.3sg neg -nonfut -3sg  be -neg.cvb
+
+\tx dụlakandụlan         biddep.
+\mb dụlakan -(dU)LE -n(I)  bi -D    -R(E) -p
+\ge middle    -loc -poss.3sg be -prog -nonfut -1pl.in
+
+\ft They are not like we behind the mountain, we are in the middle. 
+\ph
+\gr
+\ru Они не находятся, как мы в глуши за горой, в середине.
+\ELANBegin 00:11:53.184
+\ELANEnd 00:11:56.670
+\ELANParticipant NPZ
+
+\id SEB_beseda_0692
+\ref manner
+\tx Iŋemče               ühü, mingečin.
+\mb iŋeń  -W     -čE    ühü  min     -G(E)čIn
+\ge be.cold -advrs -pf.ptc hsy.Y  1sg.obl -sml
+
+\ft froze, they say, like mine
+\ph
+\gr the subjunctive form of this verb would be iŋememče 'it would have frozen'; iŋirem = ja xleb zamorozila, xleb zamerz = iŋemče --> so iŋendej
+appears to be a transitive verb, with the intransitive needing the valency-changing suffix -W
+\nt it would seem as if they were talking about the house we (NA and BP) were renting, where the conversation was taking place; but translating and
+analyzing this in 2012, 2 years later, I cannot remember that we had problems with the water freezing
+\ru замерзла говорят, как у меня
+\ELANBegin 00:20:19.665
+\ELANEnd 00:20:21.800
+\ELANParticipant LNZ
+
+\id SEB_beseda_1653
+\ref unclear
+\tx "Jeralaškičin"   ịadʒịnnị    tara?
+\mb Jeralaš -G(E)čIn ịa    -DʒI -nrI tarak
+\ge Yeralash -sml      do.what -fut  -2sg dist
+\ft you'll do something like in "Yeralash"
+\ph
+\gr
+\nt Yeralash is the humorous children's TV show (cf. 835-863)
+\ru как в Ералаше будешь делать
+\ELANBegin 00:50:51.585
+\ELANEnd 00:50:52.795
+\ELANParticipant RDA
+
+\id SEB_beseda_1787
+\ref unclear
+\tx Haːwdịkaŋčịn,       goːli?
+\mb hagdị -KEn     -G(E)čIn goːn -LI
+\ge old     -dim.int -sml      say   -imp.2sg
+\ft as the oldest, right
+\ph
+\gr here, the -KEn does not have a diminutive meaning, but rather the intensifying meaning
+\ru как самой старшой
+\ELANBegin 00:54:00.890
+\ELANEnd 00:54:03.215
+\ELANParticipant NPZ
+
+\id SEB_beseda_1828
+\ref pred with adj
+\tx Ọttọn gịa gịa ńarị bidʒin        tara  "Miss" gerbe.. gịa... dʒulepkičin?
+\mb ọttọn gịa gịa ńarị bi -DʒI -n(I) tarak miss   gerbe   gịa    dʒul -(E)rEp -G(E)čIn
+\ge dp.Y      next  next  man     be -fut -3sg   dist  miss   name    next     front -adjr   -sml
+\ft and will there be another man there in the "Miss Sebjan" competition, like before?
+\ru а другой мужчина там будет там Мисс как раньше?
+\ELANBegin 00:55:14.910
+\ELANEnd 00:55:20.255
+\ELANParticipant RDA
+
+\id SEB_Burtsev_ID_traditions_007
+\ref manner
+\tx Tọgụ   dururidʒi,         dʒe   toreŋi                 [stammers] mụhọntịkịn,       tọw
+\mb tọg -W   dur  -U    -RIdʒI  dʒe   tor   -E  -ŋ  -J       stammers   mụhan -t(E)kI -n(I)     tọg
+\ge fire  -acc burn -caus -ant.cvb well.Y earth -ep -aln -prfl.sg stammers   spirit  -all    -poss.3sg fire
+
+\tx mụhman,                 moː, ọkaːt, urekčen mụhman                  ịanịkan      nọŋńụnni           omettu
+\mb mụhan -W   -E-n(I)      moː  ọkaːt  urekčen mụhan -W   -E-n(I)      ịa    -nIkEn   nọŋan -ńUn -n(I)     omettu
+\ge spirit  -acc -ep-poss.3sg water river     hill     spirit  -acc -ep-poss.3sg do.what -sim.cvb 3sg      -com  -poss.3sg together
+
+\tx bejgičikeːn          ukčemmetniken,       humkemmetniken,        tọwdụ  uleːniken     ịak
+\mb bej -G(E)čIn -KEn     ukčen -mEČ -nIkEn   humken  -mEČ -nIkEn   tọg -DU  uleː -nIkEn   ịak
+\ge man -sml      -dim.int tell   -rec  -sim.cvb whisper -rec  -sim.cvb fire  -dat throw -sim.cvb what
+
+\tx bihiwen,                       ihmeŋelkengu,         imdeŋelkengu,           ụmọnda
+\mb bi -RI -W -E-n(I)              imse -ŋ  -E-lkEn  =GU imren  -ŋ  -E-lkEn  =GU ụman      =DE
+\ge be -impf.ptc -acc -ep-poss.3sg fat  -aln -ep-prop =q  butter -aln -ep-prop =q  bone.marrow =ptl
+
+\tx biden                  ili  ịak... nu...  daže  amarra         tebeːk,  tarịt amarra         daγanï, uːr
+\mb bi -DE       -n(I)     ili  ịak    nu     daže  amar   -(dU)LE tabak     tarịt amar   -(dU)LE daγanï  uːr
+\ge be -purp.cvb -poss.3sg or.R what     well.R even.R behind -loc    tobacco.R further behind -loc    even.Y    before
+
+\tx keńeličen   kọlaptị,            tar   tadụk       igin  uleːpti             gerbe biwrerin.
+\mb keńeli -čEn kọl -E-B    -RI       tarak tarak -DUk(U) iŋin uleː -B   -RI       gerbe bi -Gr(E) -RI -n(I)
+\ge bad     -dim  drink -ep-med -impf.ptc dist  dist  -abl    etc.Y throw -med -impf.ptc name  be -hab   -pst -poss.3sg
+\ft Having lit a fire, talking, whispering to the spirit of the earth, the spirit of water, river, hills as to a person, they would throw whatever
+there was into the fire, be it fat, be it butter, be it bone marrow, or later tobacco, and even later that bad one, drink, from that, too, a
+sacrifice used to be.
+\ru Разожгя огонь, к духу своей земли, духа огня, воды, реки, горы, что-то делая, вместе с ним как с человеком разговаривая,
+пришептываясь, огню бросая то что есть,  с жиром ли, с маслом ли, пусть будет костный мозг, потом позже это было курево, потом
+еще позже тот плохенький, выпивка, из этого тоже бросание даривание бывало.
+\ELANBegin 00:01:36.824
+\ELANEnd 00:02:18.680
+\ELANParticipant
+
+\id SEB_Burtsev_ID_traditions_018
+\ref pred with adj
+\tx Eben, eben muttu       ńulgewetmi               oːtel..   oːterepkičin,              mut,   mut
+\mb ewen  ewen mut    -DU  nulge   -WEːČ -mI       oːtel     oːtel     -(E)rEp -G(E)čIn mut    mut
+\ge Even  Even 1pl.in -dat migrate -gnr    -cond.cvb previously previously -adjr   -sml      1pl.in 1pl.in
+
+\tx dʒaːltị               nulgewettiŋdʒiten                     ńulgewetmi,              ọrmụr
+\mb dʒaː   -L  -t(I)        nulge   -WEːČ -DEŋ    -Č  -tEn      nulge   -WEːČ -mI       ọrọn          -WUr
+\ge relative -pl -poss.1pl.in migrate -gnr    -pst.ptc -ins -poss.3pl migrate -gnr    -cond.cvb domestic.reindeer -prfl.pl
+
+\tx eniken       hụčụr,             eniken       beritte,             eniken       maːkatta
+\mb e   -nIkEn   hụt    -U    -R       e   -nIkEn   beriː -Č  -R       e   -nIkEn   maː -kEČ -R
+\ge neg -sim.cvb run.away -caus -neg.cvb neg -sim.cvb lose   -res -neg.cvb neg -sim.cvb kill -mult -neg.cvb
+
+\tx biwečedʒeːmmi                ereger daγanï eben goːniken      meːn meːnuːr      gerbečukendʒip.
+\mb bi -WEːČ -E-dʒEːn -mI       ereger daγanï ewen goːn -nIkEn   meːn meːn -WUr     gerbe     -Č  -WkEn -DʒI -p
+\ge be -gnr    -ep-dur    -cond.cvb always even.Y   Even say   -sim.cvb refl  refl  -prfl.pl give.name -res -caus -fut  -1pl.in
+\ft If we migrate like they did in the past, if we migrate like our families, if we migrate without letting our reindeer run away, without
+losing them, without killing them, then we will always consider each other Evens.
+\ph nulgewepmi
+\gr (11_quest_2010, 23:45) nulgewepmi - such a word doesn't exist, i.e. one cannot have nulge-WEːČ-B-mI, so the fact that Burtsev says
+nulgewePmi might just be an idiosyncratic assimilation of the -t to the following labial consonant; nulgewetteŋdʒiten = ixnim prošlym
+kočevaniem; biwečedʒeːmmi = esli bednen'kie/milen'kie budem xodit'; gerbečukendʒip = zastavljaem sčitat' (when she first translated
+it, she said 'zastavim nazyvat', but then when I checked my analysis of gerbečukendʒip with her she said it meant 'sčitat'
+\ru Эвен нам если кочевать как в старину, как кочевали наши родные, не упуская своих оленей, не теряя, не убивая, если так ходить
+всегда мы друг друга заставим считать эвенами.
+\ELANBegin 00:03:50.516
+\ELANEnd 00:04:10.341
+\ELANParticipant
+
+\id SEB_Burtsev_ID_traditions_044
+\ref manner 
+\tx Ịamị goːmi          eben oːtel     bekeččur          omen ečin,     omen ńimeːrgičikeːn           bičel.
+\mb ịamị goːn -mI       ewen oːtel     bekeč -dʒUr       omen erroːčin omen ńimer    -G(E)čIn -KEn     bi -čE -L
+\ge why      say   -cond.cvb Even previously all    -ins.prfl.pl one  prox.qual  one  neighbour -sml      -dim.int be -pf.ptc -pl
+
+\ft Because Evens previously were exactly like one family.
+\ph
+\gr the -KEn on the similative gives a meaning 'prjamo kak'
+\ru Потому что раньше эвены в старину были прямо как одна семья.
+\ELANBegin 00:07:02.565
+\ELANEnd 00:07:10.391
+\ELANParticipant
+
+\id SEB_Burtsev_ID_traditions_095
+\ref manner + adjunct
+\tx Taraw      bọllaγïna tiːkerep    dʒulle       oːtel     mut    dʒaːltị               ńụkkịčịn   dʒụː
+\mb tarak -W   buollaγïna  tiek -(E)rEp dʒul -(dU)LE oːtel     mut    dʒaː   -L  -t(I)        ńụča -G(E)čIn dʒụː
+\ge dist  -acc dp.Y          now  -adjr   front -loc    previously 1pl.in relative -pl -poss.1pl.in Russian  -sml      house
+
+\tx eniken       bihe        dʒe,  gọlọmọ goːniken      ịlụmụwčịkan           ọːptị.
+\mb e   -nIkEn   bi -R       dʒe   gọlọmọ goːn -nIkEn   ịlụmụ -G(E)čIn -KEn     ọː -B   -RI
+\ge neg -sim.cvb be -neg.cvb well.Y yurt.type    say   -sim.cvb yurt        -sml      -dim.int make  -med -impf.ptc
+
+\ft And nowadays... previously our ancestors didn't have houses like Russian, a so-called golomo was made like an ilumu.
+\ph
+\gr gọlọmọ ịlụmụwčịkan ọːptị = correct here, IVK had no problems with it; ọːptịn is also correct; ọːptị = delanie, ọːptịn = delalosj; she
+couldn't answer my remark that even as a noun normally one would expect the possessive, gọlọmọ ọːptịn - delanie gọlọmọ; all she
+could say was that this was correct, she couldn't explain why (250312)
+\nt gọlọmọ is the name for the little yurt made mainly of poles in which women used to give birth
+\ru Совренменный, раньше в старину наши родные, как у русских дома не были, было голомо, прямо как илуму делалось.
+\ELANBegin 00:12:50.874
+\ELANEnd 00:13:01.937
+\ELANParticipant
+
+\id SEB_Kejmetinova_TV_family_032
+\ref manner
+\tx Teːmi    mut    ńuːkkičin,      ńọkalgịčịn    koškaw     irgettep.
+\mb teːmi    mut    ńụča -G(E)čIn ńọka -L  -G(E)čIn koška -W   irget -R(E)   -p
+\ge therefore 1pl.in Russian  -sml      Sakha   -pl -sml      cat.R  -acc raise -nonfut -1pl.in
+
+\ft Therefore we keep cats like Russians, like Sakha.
+\ru Поэтому мы как русские, как якуты, держим кошек.
+\ph
+\gr
+\nt
+\qu
+
+\id SEB_Kejmetinova_TV_pear_story_004
+\ref pred
+\tx Bejen               noste bejkeken,  nahaː at  hawdịla    mutkečin,       mut
+\mb bej    -E-n(I)      noste bej -kEkEn nahaː ač hagdị -LE  mut    -G(E)čIn mut
+\ge self.Y -ep-poss.3sg young man -dim   very.Y neg old     -prv 1pl.in -sml      1pl.in
+
+\tx hemeket.
+\mb hemek    -t(I)
+\ge age.mate -poss.1pl.in
+
+\ft He himself is a young man, not very old, like us, our age.
+\ru Сам он молодой человечек, не очень старый, как мы, наш ровесник.
+\ph böjön, nöste, böjkeken, hawịla, mukčin
+\gr
+\nt
+
+\id SEB_Kejmetinova_TV_pear_story_005
+\ref pred adj
+\tx Bejen               buollar fartukalkan       igin  tala          ịawrar
+\mb bej    -E-n(I)      buollar fartuk  -E  -lkEn iŋin tarak -(dU)LE ịa    -Gr(E) -r
+\ge self.Y -ep-poss.3sg dp.Y    apron.R -ep -prop etc.Y dist  -loc    do.what -hab   -3pl
+
+\tx ehni,             tarbačan      dʒulepkičin           otton fartukalkan,      korzinalkan,
+\mb e   -R(E)   -n(I) tarọːčịn dʒul -(E)rEp -G(E)čIn otton fartuk  -E  -lkEn korzina  -lkEn
+\ge neg -nonfut -3sg  dist.qual      front -adjr   -sml      dp.Y  apron.R -ep -prop basket.R -prop
+
+\tx ịlan korzina.
+\mb ịlan korzina
+\ge three  basket.R
+
+\ft And he himself has an apron, well they do that there, right, like in old times, well, with an apron, with a
+basket, three baskets.
+\ru А сам он с фартуком еще, там же делают, такой как в старину, ну с фартуком, с корзиной, 3 корзины.
+\ph
+\gr ehni = here it has the meaning of a particle, confirming, affirmative, "zhe"
+\nt
+
+\id SEB_Krivoshapkina_EA_reindeer_herd_133
+\ref as they say
+\tx Ọttọn tala          stadala        mut    bokobbon              ịat      ịawran             ečin      etapčin
+\mb ọttọn tarak -(dU)LE stado  -(dU)LE mut    bekeč -W   -n(I)     ịak -Č  ịa    -Gr(E) -n(I) erroːčin etap    -Č  -n(I)
+\ge dp.Y      dist  -loc    herd.R -loc    1pl.in all    -acc -poss.3sg what  -ins do.what -hab   -3sg  prox.qual  stage.R -ins -poss.3sg
+
+\tx goːniwčin,              kọčajrịdʒụr,     ụllịdʒụr,  mọŋŋọrịdʒụr,     kerdenteken
+\mb goːn -RI       -G(E)čIn kọčaj    -RIdʒI -L   ụl -RIdʒI -L   mọnŋa       -RIdʒI -L   kerde       -ntEkEn
+\ge say   -impf.ptc -sml      scrape.hide -ant.cvb -pl soak -ant.cvb -pl soften.leather -ant.cvb -pl kozhemjalka -mult.cvb
+
+\tx mọŋŋọwrap.
+\mb mọnŋa       -Gr(E) -p
+\ge soften.leather -hab   -1pl.in
+\ft And there in the herd we do everything as if it were in stages, we scrape hides, we soak them, having softened them with a kerde we soften (with
+our hands).
+\comment
+\ru А вот в стаде мы все этим делаем так как бы поэтапно говоря: очистив скребком, промочив, помяв, когда будет обработано кожемялкой, 
+мнём.
+\ev Оттон тала стадала мут бөкөббөн иат иавран эчин "этапчин" гөнивчин: кочайhидьур, уллидьур, моӈӈоридьур кэрдэнтэкэн моӈӈоврап.
+\ELANBegin 00:12:06.380
+\ELANEnd 00:12:15.440
+\ELANParticipant EAK
+
+\id SEB_Krivoshapkina_EA_reindeer_herd_145
+\ref as they say
+\tx Ịak goːniwčin,              usloviede         ačča, ịak bej biriemede   ačča goːniwčinni.
+\mb ịak goːn -RI       -G(E)čIn uslovie      =DE  ačča  ịak bej vremja =DE  ačča goːn -RI       -G(E)čIn -n(I)
+\ge what  say   -impf.ptc -sml      conditions.R =ptl neg     what  man time.R =ptl neg    say   -impf.ptc -sml      -poss.3sg
+
+\ft As one says, the conditions aren't right, and a person has no time, as one says.
+\ph
+\gr goːniwčin = kak govoritsja; goːniwčinni = to zhe samoe, kak govorit; biː goːniwčimu = sort of OK, but form is archaic, "kak ja govorju"; ọːn
+goːniwčinten = kak govorjat
+\comment
+\ru Что говорится, и условий нет, у человека и времени нет, как говорится.
+\ev Иак гөнивчин, условие-да ачча, иак бөй бириэмэ-дэ ачча, гөнивчинни.
+\ELANBegin 00:13:33.210
+\ELANEnd 00:13:38.610
+\ELANParticipant EAK
+
+\id SEB_Krivoshapkina_EA_reindeer_herd_409
+\ref manner
+\tx Tarịt mut    ńan   tar   dʒaːlgịčịmụr           stadala        ihurit,                ihurit                 bekeččur.
+\mb tarịt mut    ńaːn tarak dʒaː   -L  -G(E)čIn -WUr     stado  -(dU)LE isu  -RI -t(I)         isu  -RI -t(I)         bekeč -dʒUr
+\ge then    1pl.in and    dist  relative -pl -sml      -prfl.pl herd.R -loc    grow -pst -poss.1pl.in grow -pst -poss.1pl.in all    -ins.prfl.pl
+\ft Then we also all grew up in the herd, like our relatives.
+\comment
+\ru Потом мы тоже как вот наши родные в стаде все выросли.
+\ev Тарит мут ниан тар дьалгичимур стадала иhурит, иhурит бэкэччур.
+\ELANBegin 00:34:08.550
+\ELANEnd 00:34:13.900
+\ELANParticipant EAK
+
+\id SEB_Krivoshapkina_EA_reindeer_herd_441
+\ref as they say
+\tx A     prọsta ečin      biː owon toremen                     hupkučim,        aby_liš_by     goːniwčinni
+\mb a.R   prosto   erroːčin biː ewen tore  -n  -W   -E-n(I)      hupkut -DʒI -m   aby_liš_by     goːn -RI       -G(E)čIn -n(I)
+\ge but.R simply.R prox.qual  1sg  Even speak -nr -acc -ep-poss.3sg learn  -fut  -1sg superficially.R say   -impf.ptc -sml      -poss.3sg
+
+\tx ńụčịdịč,   aby_liš_by     hupkučim         goːmi,         tar   etenni         ewen bihe        himbiːr.
+\mb ńụča -DI   -Č  aby_liš_by     hupkut -DʒI -m   goːn -mI       tarak e   -t(E) -nrI ewen bi -R       himbiːr
+\ge Russian  -adjr -ins superficially.R learn  -fut  -1sg say   -cond.cvb dist  neg -fut  -2sg Even be -neg.cvb all.the.same.Y
+
+\ft And I will simply learn the Even language, as they say in Russian "aby liš by" (superficially), if I will learn (it) superficially, you won't be an
+Even anyway.
+\ph
+\comment
+\ru А просто так я буду учить эвенский язык, как по-русски говорится "абы  лишь бы" ... если буду учить, это не будешь эвеном всё равно.
+\ev А просто эчин би өвөн төрэмэн hупкучим "абы лишь бы" гөнивчинни  ньучидич "абы лишь бы" hупкучим гоми, тар этэнни эвэн биhэ
+hимбир.
+\ELANBegin 00:37:54.600
+\ELANEnd 00:38:02.950
+\ELANParticipant EAK
+
+\id SEB_Krivoshapkina_MK_nastavlenie_036
+\ref pred
+\tx Eto kak nakaz  polučaetsja naverno, nakaskịčịn          ọːngur.
+\mb                                      nakaz          -G(E)čIn ọːn =WUl
+\ge                                      instructions.R -sml      how    =indef
+\ft That is like instructions, somehow like instructions.
+\ph ọːngur - pronounced with -r instead of -l
+\ru
+\ELANBegin 00:03:30.100
+\ELANEnd 00:03:34.580
+\ELANParticipant
+
+\id SEB_Krivoshapkina_MK_nastavlenie_039
+\ref as they say
+\tx Biːde    kụŋalbị         tačịn       emie   tačịn       že   goːnni         bihiw             ejmu             hupkut...
+\mb biː =DE  kụŋa -L  -J       tarọːčịn emie   tarọːčịn že   goːn -RI       bi -RI -W         enen   -W        hupkut
+\ge 1sg  =ptl child   -pl -prfl.sg dist.qual      also.Y dist.qual      ptl.R say   -impf.ptc be -pst -poss.1sg mother -poss.1sg learn
+
+\tx ejmu             goːndeŋgičin          emie   kụŋalbị         tačịn       že:  Bụlịhịŋnalda              čụkụčan
+\mb enen   -W        goːn -DEŋ    -G(E)čIn emie   kụŋa -L  -J       tarọːčịn že   bụl -E  -s(E)n -Gr(E) -(LI)lrE čụkačaːn
+\ge mother -poss.1sg say   -pst.ptc -sml      also.Y child   -pl -prfl.sg dist.qual      ptl.R pity  -ep -lim   -hab   -imp.2pl bird
+
+\tx hutelben                edʒilde     maːwrar,            edʒilde     ụlkụwrar,            goːniken.
+\mb hut   -L-W    -n(I)     e   -(LI)lrE maː -Gr(E) -R       e   -(LI)lrE ụlkụ -Gr(E) -R       goːn -nIkEn
+\ge child -pl-acc -poss.3sg neg -imp.2pl kill -hab   -neg.cvb neg -imp.2pl stir     -hab   -neg.cvb say   -sim.cvb
+\ft I too used to tell my children like that, like me mother taught... told me: "Pity baby birds, don't kill them, don't touch them."
+\ph first ejmu - she says emmi
+\gr
+\gr biː hindu(le) goːnem = ja tebe govorju; biː hinu goːnem = ja pro tebja govorju; in the beginning it should be biːde kụŋaldị, with the
+dative.prfl.sg, but the form MKK used with the prfl.sg is acceptable, "u nas postojanno zhe putajutsja v padezhax", IVK realizes that it's not the
+correct form, but she says it herself, this is not just a slip of the tongue; goːnni bihiw = a repeated or continuous action in the past
+\ru я тоже своих детей так говорила как говорила моя мать, тоже своих детей так же, жалейте, не убивайте птенцов.
+\ELANBegin 00:03:56.110
+\ELANEnd 00:04:06.820
+\ELANParticipant
+
+\id SEB_Krivoshapkin_Segen_020
+\ref pred
+\tx Aerọdrọm buolla  tara  ịŋadụ ịŋalị     girkepče,          mọstawčin
+\mb aerodrom.R    buolla  tarakịŋa -DU ịŋa -(dU)LI girke  -B   -čE    mọsta -G(E)čIn
+\ge aerodrome.R   dp.Y    dist stone  -datstone  -prol   spread -med -pf.ptc floor.Y -sml
+
+\tx ọːpča,          gọl    ọjlịn                 kụńadʒịn,             tar   ịŋaw
+\mb ọː  -B   -čE    gọl    ọj    -(dU)LI -n(I)     kụńa         -DʒI -n(I) tarak ịŋa -W
+\ge become -med -pf.ptc firewood surface -prol   -poss.3sg run(of.animals) -fut  -3sg  dist  stone  -acc
+
+\tx igin  oŋkečel         goːniken,     oo, ịbgọt     ebit       dʒe   goːnteken      mut
+\mb iŋin oŋke -čE    -L  goːn -nIkEn   oo  ịbgọ -Č  ebit       dʒe   goːn -ntEkEn   mut
+\ge etc.Y pour  -pf.ptc -pl say   -sim.cvb oh  good     -ins it.seems.Y well.Y say   -mult.cvb 1pl.in
+
+\tx orelderit.
+\mb orelde   -RI  -t(I)
+\ge be.happy -pst -poss.1pl.in
+\ft Our aerodrom (was) covered in stone, made like a floor, it will run over the logs (??), they said that they poured stones
+and such (this might have been tar), we were glad that it was good.
+\ru Наш аэкодром устлан камнем, сделано как полы, побежит по бревнам, сказали что это вылили камни (м.б. имел ввиду
+асфальт), мы обрадовались, что хорошо.
+\ph ịŋalịtịn - but the -tin is just stutter
+\gr no difference goːniken and goːnteken
+\nt In the dictionary, "gọl" is translated as the 'main log that maintains the fire', and Ekaterina Shadrina has been using it as a
+general word for "log". Ija Krivoshapkina however says that it means "wood, wooden".
+
+\id SEB_Neustroev_PD_hebdjenek_005
+\ref as they say
+\tx Kọlọbụra Neustroefal,     Haxarofal,     Stepanofal      de     goːniwčin.
+\mb χolobura      Neustroev -E-L   Zaxarov -E-L   Stepanov -E-L   dʒe   goːn -RI       -G(E)čIn
+\ge for.example.Y  Neustroev -ep-pl Zaxarov -ep-pl Stepanov -ep-pl well.Y say   -impf.ptc -sml
+
+\ft For example, as they say the Neustroevs, Zaxarovs, Stepanovs.
+\ph
+\gr (file 02_quest_2010, 43:00) goːniwčin is a very usual way of saying 'like so and so said', one can also say goːnimdes 'kak govorili'; kak ja
+skazala = goːniwčimu, kak ty skazala = goːniwčihni, kak on skazal = goːniwčinni, 1pl = goːniwčinti, 2pl = goːniwčihnen, 3pl =
+goːniwčinten; kak ja skazala = goːnimdehu, 2sg = goːnimdehes, 3sg = goːnimdehen, 
+\nt i.e. each family lived at a separate river
+\ELANBegin 00:00:31.210
+\ELANEnd 00:00:37.150
+\ELANParticipant
+\ru Например, как говорят Неустроевы, Захаровы, Степановы.
+
+\id SEB_Neustroev_PD_hebdjenek_017
+\ref pred
+\tx Tar   ịtịkịwčịn    ečin      ọːwrača,          teːmi    ịtịkịw     esten       ajaːwra,       keːbeːl       gerbe
+\mb tarak ịtịkị -G(E)čIn erroːčin ọː  -Gr(E) -čE    teːmi    ịtịkị -W   e   -R(E)   ajaːw -R       keːbel         gerbe
+\ge dist  mixer       -sml      prox.qual  become -hab   -pf.ptc therefore mixer       -acc neg -nonfut love   -neg.cvb reindeer.cheese name
+
+\tx biwreče.
+\mb bi -Gr(E) -čE
+\ge be -hab   -pf.ptc
+\ft It became like a mixer, that is why they don't like the itiki, there used to be kerbel.
+\ph
+\nt Life turned all upside down, became all mixed-up, when one used the itiki, that is why they didn't like it, they preferred to make kerbel,
+which does not need to be mixed/whipped, it is a dish that turns sour by itself.
+\ELANBegin 00:02:03.300
+\ELANEnd 00:02:09.530
+\ELANParticipant
+\ru Как итики становилось, поэтому не любят итики, был кэрбэл. (вся жизнь стало как процесс взбалтывания, взбалтывалось, поэтому
+предпочитали кэрбэл, который не надо бзбалтать, само собой делается)
+
+\id SEB_Neustroev_PD_sled_023
+\ref pred
+\tx Erew      ńọŋalbụrakan                       ele          teturidʒi            taːŋnandị     ečin,     tar   massịːna
+\mb erek -W   ńọŋ -E  -LbE -REk -E-n(I)            erek -(dU)LE tet    -U    -RIdʒI  taːn -Gr(E) -nrI erroːčin tarak mašịna
+\ge prox -acc ??      -ep -vr  -cond.cvb -ep -poss.3sg prox -loc    put.on -caus -ant.cvb pull  -hab   -2sg prox.qual  dist  car.R
+
+\tx ịan           ečin,     zapčaskịčịn
+\mb ịak -n(I)     erroːčin zapčaskị -G(E)čIn
+\ge what  -poss.3sg prox.qual  spares.R    -sml
+
+\ft Having put it on here, you pull it like car spares.
+\ph
+\gr
+\nt
+\ev
+\ru Cюда надев, стягиваешь, как запчасти у машины.
+\ELANBegin 00:02:34.760
+\ELANEnd 00:02:44.840
+\ELANParticipant
+
+\id SEB_RDA_TPK_death_021
+\ref unclear
+\tx araŋaskịčịn
+\mb araŋas      -G(E)čIn
+\ge store.room.Y -sml
+\ft like a storeroom (on stilts)
+\ru
+\ELANBegin 00:00:56.890
+\ELANEnd 00:00:57.560
+\ELANParticipant T
+
+\id SEB_RDA_TPK_death_022
+\ref unclear
+\tx araŋaskịčịn
+\mb araŋas      -G(E)čIn
+\ge store.room.Y -sml
+
+\ru
+\ELANBegin 00:00:57.560
+\ELANEnd 00:00:58.220
+\ELANParticipant R
+
+\id SEB_RDA_TPK_death_024
+\ref unclear
+\tx labaskịčịn
+\mb labaz         -G(E)čIn
+\ge storage.hut.R -sml
+
+\ru
+\ELANBegin 00:00:59.010
+\ELANEnd 00:00:59.940
+\ELANParticipant R
+
+\id SEB_SlepcovaNA_her-class_23
+\ref as they say
+\tx Ebeddit         haːrị       kụŋakkan   [stammers] ere  goːndikčin            ele
+\mb ewen -DI   -Č  haː -RI       kụŋa -kkEn stammers   erek goːn -čE    -G(E)čIn erek -(dU)LE
+\ge Even -adjr -res know -impf.ptc child   -dim  stammers   prox say   -pf.ptc -sml      prox -loc
+
+\tx ịala        mere... Merlenkele       biweːkkeren            ehni.
+\mb ịak -(dU)LE mere    Merlenke -(dU)LE bi -WEːČ -Gr(E) -n(I) e   -R(E)   -n(I)
+\ge what  -loc    mere    Merlenke -loc    be -gnr    -hab   -3sg  neg -nonfut -3sg
+\ft A child that knows Even, she takes part in this... in the Merlenke group, right.
+\ru Знающий по-эвенски ребеночек, как будто сказавший это, она ходит же здесь на это, на Мерленке.
+\ph
+\gr the literary form of what Slepcova said, "goːndikčin" is goːnčekčin, which is how I analysed it. The form Slepcova used is
+not correct; in Sebjan they say goːnčewčin = "kak budto skazavshij", it is just a filler word
+
+\id SEB_Stepanova_ZA_arrival_Tashkent_042
+\ref unclear
+\tx Dʒe   tala,         ọːkkọl   haːdaŋị            bejgečin     eri ịakkụl   mm  bejel
+\mb dʒe   tarak -(dU)LE ọːk =(W)Ul haː -DEŋ    -J       bej -G(E)čIn     ịak =(W)Ul mm  bej -E-L
+\ge well.Y dist  -loc    when   =indef know -pst.ptc -prfl.sg man -sml          what  =indef mhm man -ep-pl
+
+\tx dʒaːlgačịmị,             tarak asị oreldetnieː.
+\mb dʒaː   -L  -G(E)čIn -J       tarak asị orelde   -n(I) =eː
+\ge relative -pl -sml      -prfl.sg dist  woman be.happy -3sg  =emph
+
+\ft This woman was so happy like (she met) someone, she knew somewhen, like her relatives.
+\ph ọːkkụl dʒaːlgačịmị/ dʒaːlgịčịmị??  ereldetneeː
+\gr
+\ru Там эта женщина обрадовалась как будто людей, которых она знает, как своих родственников.
+\ELANBegin 00:03:43.180
+\ELANEnd 00:03:51.930
+\ELANParticipant
+
+\id SEB_Stepanova_ZA_parents_05
+\ref functive?
+\tx Tar   nọŋan eńmu            kokečelen                     biː dʒoː  ịlan amńụmị,
+\mb tarak nọŋan eńin  -W        koke -čE    -(dU)LE -n(I)     biː dʒoːr ịlan aman   -ńUn -J
+\ge dist  3sg      mother -poss.1sg die  -pf.ptc -loc    -poss.3sg 1sg  two     three  father -com  -prfl.sg
+
+\tx akńụmị                  ńan   er   ńoːńumi                     biː erek ịak goːniken      ńimeːr
+\mb akan          -ńUn -J       ńaːn erek noː            -ńUn -J       biː erek ịak goːn -nIkEn   ńimer
+\ge older.brother -com  -prfl.sg and    prox younger.sibling -com  -prfl.sg 1sg  prox what  say   -sim.cvb neighbour
+
+\tx engičimi                 ńimeːru      dʒaːlbị           dʒebukeni,           dʒaːlbị
+\mb enen   -G(E)čIn -J       ńimer    -W   dʒaː   -L  -J       dʒeb -WkEn -RI       dʒaː   -L  -J
+\ge mother -sml      -prfl.sg neighbour -acc relative -pl -prfl.sg eat   -caus -impf.ptc relative -pl -prfl.sg
+
+\tx itti,         ammị          itti          nọŋardụdnan            haŋaːnnị     biniken     emeːptiw.
+\mb it  -RI       aman   -J       it  -RI       nọŋan -L  -DU  -tEn      haŋan -RI       bi -nIkEn   emeːn -B   -RI  -W
+\ge see -impf.ptc father -prfl.sg see -impf.ptc 3sg      -pl -dat -poss.3pl sew    -impf.ptc be -sim.cvb leave  -med -pst -poss.1sg
+
+\ft When my mother died, I two, three... with my father, my older brother and with my younger brother, I remained like my mother
+feeding my relatives, looking my relatives, looking after my father, sewing for them.
+\ru Вот когда умерла моя мать, я 2 3.... со своим отцом, со старшим братом и с младшим братом, я вот как моя мать осталась
+кормить своих родных, ухаживать за родными, ухаживать за отцом, шить для них.
+
+\id SEB_Stepanova_ZA_parents_09
+\ref functive?
+\tx Tarịt nọŋ... nọŋman               biː ńan   engičimi                 dʒọmkadnịkan   nọŋńụnnị,        tar
+\mb tarịt nọŋan  nọŋan -W   -n(I)     biː ńaːn enen   -G(E)čIn -J       dʒọmkat -nIkEn   nọŋan -ńUn -n(I)     tarak
+\ge then    3sg       3sg      -acc -poss.3sg 1sg  and    mother -sml      -prfl.sg think      -sim.cvb 3sg      -com  -poss.3sg dist
+
+\tx kokerilen                        ịstalan          nulgeweːtniken          biweːttit.
+\mb koke -RI       -(dU)LE -n(I)     ịstala -n(I)     nulge   -WEːČ -nIkEn   bi -WEːČ -RI  -t(I)
+\ge die  -impf.ptc -loc    -poss.3sg until    -poss.3sg migrate -gnr    -sim.cvb be -gnr    -pst -poss.1pl.in
+\ft Then I also regarded her like my mother, with her we used to migrate until her death.
+\ru Потом я считая ее тоже как свою мать, вместе с ней до ее смерти кочуя ходили.
+\ph
+\gr
+\nt
+
+\id SEB_Stepanova_ZA_sibling_009
+\ref unclear
+\tx Teːmi    tar   hurulgečimi                  dʒọmkatnịkan   mutu        họːč    nọŋan ere  biː
+\mb teːmi    tarak hute  -SEl -G(E)čIn -J       dʒọmkat -nIkEn   mut    -W   họː -Č  nọŋan erek biː
+\ge therefore dist  child -pl  -sml      -prfl.sg think      -sim.cvb 1pl.in -acc very   -ins 3sg      prox 1sg
+
+\tx noːwu               Apọńaw     hụlụmdịwkaŋnarịn.
+\mb noː            -W   Afanasij -W   hụlịmdị -WkEn -Gr(E) -RI  -n(I)
+\ge younger.sibling -acc Afanasij -acc be.spoilt     -caus -hab   -pst -poss.3sg
+
+\ft Therefore, thinking that we were like those children she [spoilt] us very much.... she spoiled my brother Afonja.
+\ru Поэтому считая этими своими детьми, она нас очень вот... моего брата Афоню баловала.
+\ph
+\gr
+\nt
+
+\id SEB_Stepanova_ZA_svatovstvo_29
+\ref unclear
+\tx Meːn engičimur                dʒọmkadnịkan   bihidnen.
+\mb meːn enen   -G(E)čIn -WUr     dʒọmkat -nIkEn   bi -RI  -tEn
+\ge refl  mother -sml      -prfl.pl think      -sim.cvb be -pst -poss.3pl
+
+\ft They lived thinking she was their mother.
+\ru Были думая что своей матерью.
+\ph
+\gr
+\nt
+
+\id SEB_Stepanova_ZA_svatovstvo_35
+\ref unclear
+\tx Tačịkan họː ịbgat       ečin
+\mb tačịkan họː ịbgọ -Č  erroːčin
+\ge like.that  very   good     -ins prox.qual
+
+\tx tetuttinde,                           ịbgọ ńan   ečin
+\mb tet    -U    -Č  -RI  -n(I)     =DE  ịbgọ ńaːn erroːčin
+\ge put.on -caus -res -pst -poss.3sg =ptl good     and    prox.qual
+
+\tx ịanda            ịbgọ bejen
+\mb ịa    -n(I) =DE  ịbgọ bej    -E-n(I)
+\ge do.what -3sg  =ptl good     self.Y -ep-poss.3sg
+
+\tx engičimi                 bihin.
+\mb enen   -G(E)čIn -J       bi -RI  -n(I)
+\ge mother -sml      -prfl.sg be -pst -poss.3sg
+
+\ft It was so good  the way he was dressed, and and his what was so good, (she)
+was like his own mother.
+\ru Настолько хорошо было и то как он одевался, и еще что-то было
+хорошо, была как своя мать.
+\ph
+\gr
+\nt
+
+\id SEB_Zaxarov_VN_poselok_060
+\ref manner
+\tx Ee nọŋartan eːč hungičin         kụmagadụ   ehep                dụkkarar.
+\mb ee nọŋartan eːč hun     -G(E)čIn kụmaga  -DU  e   -R(E)   -p      dụk -Gr(E) -R
+\ge eh 3pl         no    2pl.obl -sml      paper.R.Y -dat neg -nonfut -1pl.in write -hab   -neg.cvb
+
+\ft And they (say) "no, we don't write on paper like you".
+\ru Они "нет, как вы мы на бумаге не пишем".
+\ph
+\gr
+\nt

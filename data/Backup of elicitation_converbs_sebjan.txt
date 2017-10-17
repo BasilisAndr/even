@@ -1,0 +1,1587 @@
+\_sh v3.0  968  Text
+
+\id S_ConverbsComplementizers4.1
+\ref elicited with Ekaterina Shadrina 18.02.08; sebjan180208_28:57
+\tx Nọŋan ačča ọːdʒịn       gerbetniken     //  goːniken      ŋeːlliw.
+\mb nọŋan ačča ọː  -DʒI -n(I) gerbet -nIkEn   *// goːn -nIkEn   ŋeːl    -RI  -W
+\ge 3sg      neg    become -fut  -3sg  think  -sim.cvb *** say   -sim.cvb be.afraid -pst -poss.1sg
+\ft
+\ru Я боялся что он умрет.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_0:28
+\tx Nọŋan kokedʒin        goːniken      /   goːmi          ŋeːlliw.
+\mb nọŋan koke -DʒI -n(I) goːn -nIkEn   */  goːn -mI       ŋeːl    -RI  -W
+\ge 3sg      die  -fut  -3sg  say   -sim.cvb *** say   -cond.cvb be.afraid -pst -poss.1sg
+\ft
+
+\id S_ConverbsComplementizers4.2
+\ref elicited with Ekaterina Shadrina 18.02.08; sebjan180208_30:19
+\tx (Biː) upeːw                (mindule)       goːnin              enillem                    goːniken.
+\mb biː   upeː       -W        min     -(dU)LE goːn -RI  -n(I)     en   -E-L     -R(E)   -m   goːn -nIkEn
+\ge 1sg    grandmother -poss.1sg 1sg.obl -loc    say   -pst -poss.3sg hurt -ep-inch -nonfut -1sg say   -sim.cvb
+
+\ru Бабушка сказала, что она больна.
+\ph
+\nt On 19.02.08 I asked whether this is a correct sentence, with the 2 'goː', and she said yes (sebjan190208_35:17), but she
+also said that one could say: upeːw enillem goːnin. And I analyzed the "enillem" with the INCH correctly, it means "ja
+zabolela".
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_0:45
+\tx Nọŋan eninni              goːniken      upeː       goːnni.
+\mb nọŋan enin          -n(I) goːn -nIkEn   upeː       goːn      -n(I)
+\ge 3sg      be.ill.nonfut -3sg  say   -sim.cvb grandmother say.nonfut -3sg
+
+\id S_ConverbsComplementizers4.3
+\ref elicited with Ekaterina Shadrina 18.02.08; sebjan180208_32:35
+\tx Mut    upeːwut                      ulgimirit                       hiː ịbgọgụ  bihenni.
+\mb mut    upeː       -W   -t(I)        ulgim -i      -RI -t(I)         hiː ịbgọt =GU bi -R(E)   -nrI
+\ge 1pl.in grandmother -acc -poss.1pl.in ask   -ipf??? -pst -poss.1pl.in 2sg  good      =q  be -nonfut -2sg
+
+\ft
+\ru Мы спросили нашу бабушку, чувствует ли она себя хорошо.
+\ph ịbgägu, or somewhat like ịbgagu
+\gr bihenni = the standard is bisenri
+\nt
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_1:25
+\tx Mut    upeːwur             ulgimirep                     ịbgọgụ  nọŋan tiːk.
+\mb mut    upeː       -WUr     ulgim -i      -R(E) -p        ịbgọt =GU nọŋan tiek
+\ge 1pl.in grandmother -prfl.pl ask   -ipf??? -nonfut -1pl.in good      =q  3sg      now
+
+\id S_ConverbsComplementizers4.4
+\ref elicited with Ekaterina Shadrina 18.02.08; sebjan180208_31:17
+\tx Nọŋan ile           herdej                 dʒọmkattịn.
+\mb nọŋan irek  -(dU)LE hur -DE       -J       dʒọm  -kEČ -RI  -n(I)
+\ge 3sg      which -loc    go  -purp.cvb -prfl.sg remember -mult -pst -poss.3sg
+
+\ft
+\ru Он думал куда идти.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_1:55
+\tx Ile           herŋe       goːniken      nọŋan dʒọmkattan.
+\mb irek  -(dU)LE hor -ŋE     goːn -nIkEn   nọŋan dʒọm  -kEČ -R(E)   -n(I)
+\ge which -loc    go  -pol.imp say   -sim.cvb 3sg      remember -mult -nonfut -3sg
+
+\gr I'm not at all sure about the "herŋe" - at first I had analyzed it as the "negative modal converb", but that supposedly
+only occurs in periphrastic expressions with negative verbs. After further elicitation (cf. below) I figured it might be the
+polite imperative suffix, because the above sentence is synonymous with forms with the hypothetical participle.
+\nt Checked this form (elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_3:35): it cannot be used without
+"goːniken", and it is synonymous with the hypothetical participle. However, when I asked her a day later
+(sebjan080308_25:10), she at first said that it was the negative modal converb (i.e the converb that occurs with verbs
+like turkut), but then also pointed out that it is synonymous with the hypothetical participle, and then agreed with me
+that it might also be the polite imperative, perhaps both.
+\tx ile           herŋe       goːniken      dʒọmkattan                = ile           herdʒiŋej
+\mb irek  -(dU)LE hor -ŋE     goːn -nIkEn   dʒọm  -kEČ -R(E)   -n(I) = irek  -(dU)LE hor -DʒIŋE -J
+\ge which -loc    go  -pol.imp say   -sim.cvb remember -mult -nonfut -3sg  = which -loc    go  -hyp.ptc -prfl.sg
+
+\tx (goːniken)    dʒọmkattan
+\mb goːn -nIkEn   dʒọm  -kEČ -R(E)   -n(I)
+\ge say   -sim.cvb remember -mult -nonfut -3sg
+\ft
+\tx ịaw      gaŋa         goːniken      dʒọmkattam               = ịaw      gadʒịŋaj
+\mb ịak -W   ga   -ŋE     goːn -nIkEn   dʒọm  -kEČ -R(E)   -m   = ịak -W   ga   -DʒIŋE -J
+\ge what  -acc take -pol.imp say   -sim.cvb remember -mult -nonfut -1sg = what  -acc take -hyp.ptc -prfl.sg
+
+\tx (goːniken)    dʒọmkattam
+\mb goːn -nIkEn   dʒọm  -kEČ -R(E)   -m
+\ge say   -sim.cvb remember -mult -nonfut -1sg
+\ru Я думала что купить
+\ph
+\tx Ọːn nekčim        goːniken      ulgimin.
+\mb ọːn nek -DʒI -m   goːn -nIkEn   ulgim -i      -n(I)
+\ge how    do  -fut  -1sg say   -sim.cvb ask   -ipf??? -3sg
+
+\ru Он спрашивал что делать.
+\nt Obviously, this is not a very good example for elicitation, because it is translated (and usually said) just like direct
+speech.
+
+\id S_ConverbsComplementizers4.5
+\ref elicited with Ekaterina Shadrina 18.02.08; sebjan180208_33:18
+\tx Bi   ŋeːlliw                nọŋan ačča ọːdʒịn       goːmi.
+\mb biː ŋeːl    -RI  -W        nọŋan ačča ọː  -DʒI -n(I) goːn -mI
+\ge 1sg  be.afraid -pst -poss.1sg 3sg      neg    become -fut  -3sg  say   -cond.cvb
+\ft
+\ru Я боялся, потому что я думал, что он умрет.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_2:45
+\tx Nọŋan kokedʒin        gerbetmi         /   goːmi,         teːmi    ŋeːlliw.
+\mb nọŋan koke -DʒI -n(I) gerbet -mI       */  goːn -mI       teːmi    ŋeːl    -RI  -W
+\ge 3sg      die  -fut  -3sg  think  -cond.cvb *** say   -cond.cvb therefore be.afraid -pst -poss.1sg
+
+\id S_ConverbsComplementizers4.6
+\ref elicited with Ekaterina Shadrina 18.02.08; sebjan180208_33:46
+\tx Nọŋan ọmọlgaj         tiːnin              itnemi                perčatkalni            torre
+\mb nọŋan ọmọlga -J       tiːn -RI  -n(I)     it  -nE     -mI       perčatka -L  -n(I)     tor   -(dU)LE
+\ge 3sg      son        -prfl.sg send  -pst -poss.3sg see -intent -cond.cvb glove.R   -pl -poss.3sg earth -loc
+
+\tx dessirgu.
+\mb desči     -r   =GU
+\ge lie.nonfut -3pl =q
+\ft
+\ru Он послал своего сына чтобы смотреть, лежат ли перчатки на дороге.
+\ph All the time she repeated perčatkalni it sounded definitely like an -n-; but then when I repeated everything back at her,
+she said -ŋ-; it also sounded as if she had said desčirgu, but then she said "dva s". --> NO, checked on 19.02.08, it's
+correct with the -n- (sebjan190208_36:45).
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_3:25
+\tx Ọmọlgọj       tiːnni          nọŋan kojeːtten                  hajịr họtarandụla
+\mb ọmọlga -J       tiːn      -n(I) nọŋan kojeːt -DE       -n(I)     hajịr họtọrọn -(dU)LE
+\ge boy        -prfl.sg send.nofut -3sg  3sg      look.at -purp.cvb -poss.3sg gloves  road          -loc
+
+\tx dessingu.
+\mb desči     -n(I) =GU
+\ge lie.nonfut -3sg  =q
+
+\id S_ConverbsComplementizers4.7
+\ref elicited with Ekaterina Shadrina 18.02.08; sebjan180208_31:36
+\tx Egdʒen akman                   Ńukuː gerbe, kotlenni         Endeː.
+\mb egdʒen akan          -n(I)     Nikolaj gerbe  kotlen -n(I)     Andrej
+\ge big     older.brother -poss.3sg Nikolaj name   small  -poss.3sg Andrej
+\ft
+\ru Старшего сына зовут Николай, младшего Андрей.
+
+\id S_ConverbsComplementizers4.8
+\ref elicited with Ekaterina Shadrina 18.02.08; sebjan180208_34:51
+\tx Eŋejel    ńọkal    Ïtïk-Küöl gerbe toŋeːr hatlan                 bihiten.
+\mb eŋeje -L  ńọka -L  Ïtïk-Küöl gerbe toŋeːr hat  -(dU)LE -n(I)     bi -RI  -tEn
+\ge rich   -pl Sakha   -pl Ytyk-Küöl   name  lake     base -loc    -poss.3sg be -pst -poss.3pl
+\ft
+\ru Богатые якуты жили около озера Ытык-Кюель.
+\gr bihiten = zhili v proshlom, bidde = sejchas zhivut
+\nt Asked Raisa Kuz'mina whether one should-could say tegečidde --> olorollor
+
+\id S_ConverbsComplex2.19
+\ref elicited with Ekaterina Shadrina 18.02.08; sebjan180208_1:00
+\tx Biː omekken tegečiddiw                              čaːju     kọladdịw
+\mb biː omekken teg      -E-Č   -E-D     -RI  -W        čaːj -W   kọl -E-D     -RI  -W
+\ge 1sg  alone   sit.down -ep-res -ep-prog -pst -poss.1sg tea.R  -acc drink -ep-prog -pst -poss.1sg
+
+\tx hatlịw               omen bej tutellin.
+\mb hat  -(dU)LI -W        omen bej tut -E-L     -RI  -n(I)
+\ge base -prol   -poss.1sg one  man run -ep-inch -pst -poss.3sg
+\ft
+\ru Я сидел и пил чай и один человек пробежал мимо (дома).
+\ph eməkkən
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_4:20
+\tx Čajụ     kọlnịkan   tegettiw,                       omen bej dʒụː hatlịn
+\mb čaːj -W   kọl -nIkEn   teg      -E-Č   -RI  -W        omen bej dʒụː hat  -(dU)LI -n(I)
+\ge tea.R  -acc drink -sim.cvb sit.down -ep-res -pst -poss.1sg one  man house    base -prol   -poss.3sg
+
+\tx tutten.
+\mb tut -R(E)   -n(I)
+\ge run -nonfut -3sg
+
+\id S_ConverbsComplex2.20
+\ref elicited with Ekaterina Shadrina 18.02.08; sebjan180208_2:10
+\tx Tar   bejńun   omettu   bujuhnemi               horelde         meːnduleːr
+\mb tarak bej -ńUn omettu   bujus -nE     -mI       hur -E-(LI)lrE  meːn -(dU)LE -WUr
+\ge dist  man -com  together hunt  -intent -cond.cvb go  -ep-imp.2pl refl  -loc    -prfl.pl
+
+\tx toručilde.
+\mb torut   -E-(LI)lrE
+\ge support -ep-imp.2pl
+
+\ru Пойди с этим человеком в охоту и помогите друг другу.
+\ph əmettu, hərəlde tərəčilde
+\gr it later turned out that meːnduleːr = k sebe, so it is not really the correct translation here
+\nt at first said bujusnemi, then corrected to bujuhnemi 'po-nashemu'; 
+\qu
+\nt On 19.02.08 did a bit of elicitation to understand the, which I'd misunderstood the first time round: sebjan190208_1:07
+meːnduleːr toručilde = podderzhivajte drug druga (though later said that meːnduleːr = k sebe)
+\tx Biː hinu         toruttem.
+\mb biː hin     -W   torut   -R(E)   -m
+\ge 1sg  2sg.obl -acc support -nonfut -1sg
+\ru Я тебя поддерживаю.
+\ph
+\tx Mut    upeːt                   čelen bejilbu         torutten.
+\mb mut    upeː       -t(I)        čele  bej -E-L   -W   torut   -R(E)   -n(I)
+\ge 1pl.in grandmother -poss.1pl.in all    man -ep-pl -acc support -nonfut -3sg
+\ru Моя бабушка всем людям помогает.
+\ph
+\tx Nọŋartan meːn meːnur        ajaːwmatta.
+\mb nọŋartan meːn meːn -WUr     ajaːw -mEČ -R(E)
+\ge 3pl         refl  refl  -prfl.pl love   -rec  -nonfut.3pl
+\ru Они любят друг друга.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_4:50
+\tx Erek bejńun   torre         herri,       meːn meːnduleːr           todilde.
+\mb erek bej -ńUn tor   -(dU)LE hor -LI      meːn meːn -(dU)LE -WUr     todi -(LI)lrE
+\ge prox man -com  earth -loc    go  -imp.2sg refl  refl  -loc    -prfl.pl help -imp.2pl
+\nt she at first wanted to say "belelde", but obviously that's literaturnoe, so she changed it to "todičilde" and then "todilde"
+
+\id S_ConverbsComplex2.21
+\ref elicited with Ekaterina Shadrina 18.02.08; sebjan180208_21:50
+\tx Vasja eniken       ọdda        xojutaːwran                Petjańun   omettu   tatadnịkan.
+\mb Vasja e   -nIkEn   ọd -R       xojutaː  -Gr(E)      -n(I) Petja -ńUn omettu   tat   -E-D     -nIkEn
+\ge Vasja neg -sim.cvb stop -neg.cvb be.late.Y -hab.nonfut -3sg  Petja -com  together learn -ep-prog -sim.cvb
+
+\ru Вася постоянно опаздывал, когда они с Петей ходили в школу.
+\ph
+\nt There was a lot of discussion about how to say 'opazdyvat', and then she asked if it would be OK to use the Sakha word.
+In the beginning she very quickly said a verb (for 'going to school') that sounded somewhat like biečedniken - this is
+somewhat similar to what Krivoshapkin said bejčideku 'kogda ja xodil v školu' --> this is the verb bieč-, which has the
+same meaning as biweːt- (sebjan190208_29:30), biečedden = on xodit, biweːčidden = on xodit (po ulice, but it means in
+general "dejstvie oznachaet") --> I think that biečedden = a contracted form of biweːčidden; a child that starts to walk
+= gịrkawaːčịddan 
+\qu
+\nt On 19.02.08 (sebjan190208_28:37) I asked what "eniken ọdda xojutaːwran" means, and she said it means "opazdyvaet
+bez konca".
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_5:20
+\tx Vasja kuruk     hụptụwrarịn,                nọŋartan Petjańun   hupkučekle
+\mb Vasja kuruk     hụptụ   -Gr(E) -RI  -n(I)     nọŋartan Petja -ńUn hupkut -ČEk -(dU)LE
+\ge Vasja always.Y. stay.behind -hab   -pst -poss.3sg 3pl         Petja -com  learn  -nr   -loc
+
+\tx biečeddekednen.
+\mb bi -WEːČ -E-D     -REk      -E-tEn
+\ge be -gnr    -ep-prog -cond.cvb -ep-poss.3pl
+\gr could also say, instead of hụptụwrarịn, hụptụnịkan emgererin
+
+\id S_ConverbsComplex2.22
+\ref elicited with Ekaterina Shadrina 18.02.08; sebjan180208_22:46
+\tx Mut    upeːt                   muttule        kempietelbu         boːwrerin,                teːmi    mut
+\mb mut    upeː       -t(I)        mut    -(dU)LE konfeta -E-L   -W   boː -Gr(E) -RI  -n(I)     teːmi    mut
+\ge 1pl.in grandmother -poss.1pl.in 1pl.in -loc    sweet.R -ep-pl -acc give -hab   -pst -poss.3sg therefore 1pl.in
+
+\tx dʒaːltị            (muttule)      hịrgararịdnan.
+\mb dʒaːl   -t(I)        mut    -(dU)LE hịr    -Gr(E) -RI  -tEn
+\ge relatives -poss.1pl.in 1pl.in -loc    be.angry -hab   -pst -poss.3pl
+\ft
+\ru (Когда мы ходили к нашей бабушке,) она нам всегда давала конфеты, и поэтому наши родители сердились.
+\ph
+\nt I then asked her how it would be if we included the temporal clause (and one could finish it with the consequential
+clause):
+\tx Mut    upeːt,                  nọŋardụlan         herreket,                     kempietelbu
+\mb mut    upeː       -t(I)        nọŋan -(dU)LE -n(I)  hur -REk      -E-t(I)         konfeta -E-L   -W
+\ge 1pl.in grandmother -poss.1pl.in 3sg      -loc -poss.3sg go  -cond.cvb -ep-poss.1pl.in sweet.R -ep-pl -acc
+
+\tx boːwrerin                 ...
+\mb boː -Gr(E) -RI  -n(I)     *...
+\ge give -hab   -pst -poss.3sg ***
+\ft
+\ph
+\gr Ekaterina Shadrina said nọŋaRdụlan, as written, but that must be a speech error, so I analysed it as nọŋaNdụlan
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_6:45
+\tx Upeːle             biweːčeddeket,                              nọŋan muttule        kempietu
+\mb upeː       -(dU)LE bi -WEːČ -E-D     -REk      -E-t(I)         nọŋan mut    -(dU)LE konfeta -W
+\ge grandmother -loc    be -gnr    -ep-prog -cond.cvb -ep-poss.1pl.in 3sg      1pl.in -loc    sweet.R -acc
+
+\tx boːwrerin,                teːmi    dʒaːltị            hịrgararịdnan.
+\mb boː -Gr(E) -RI  -n(I)     teːmi    dʒaːl   -t(I)        hịr    -Gr(E) -RI  -tEn
+\ge give -hab   -pst -poss.3sg therefore relatives -poss.1pl.in be.angry -hab   -pst -poss.3pl
+\ph had a very hard time pronouncing biweːčeddeket
+
+\id S_ConverbsComplex2.23
+\ref elicited with Ekaterina Shadrina 18.02.08; sebjan180208_25:24
+\tx Bi   gịawụ        matematika urokban                   eheken                     haːra,
+\mb biː gịa  -W        matematika urok       -W   -n(I)     e   -REk      -E-n(I)      haː -R
+\ge 1sg  friend -poss.1sg maths.R    homework.R -acc -poss.3sg neg -cond.cvb -ep-poss.3sg know -neg.cvb
+
+\tx biː haːllakụ,                   nọŋan minu         ŋaːtkaran                ńan   biː
+\mb biː haː -L    -REk      -W        nọŋan min     -W   ŋaːt -Gr(E)      -E-n(I) ńaːn biː
+\ge 1sg  know -inch -cond.cvb -poss.1sg 3sg      1sg.obl -acc call   -hab.nonfut -ep-3sg again  1sg
+
+\tx nọŋandụlan            beketben              ukčeŋgererem.
+\mb nọŋan -(dU)LE -n(I)     bekeč -W   -n(I)     ukčen -Gr(E) -R(E)   -m
+\ge 3sg      -loc    -poss.3sg all    -acc -poss.3sg tell   -hab   -nonfut -1sg
+
+\ft
+\ru Если подруга не понимает домашние уроки по математике, а я их хорошо понимаю, то она меня зовет, и я ей
+помогаю.
+\ph
+\nt On 19.02.08 I checked a few forms (sebjan190208_32:20):
+\nt biː haːllakụ = kogda ja uznaju, i.e. my analysis with the Inchoative suffix is right; esli ja znaju = haːrakụ; nọŋan minu
+ŋaːtkaran = on menja postojanno zovet; ŋaːttan = sejchas zovet; hiː ukčeŋgerenni = ty rasskazyvaesh'
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_7:40
+\tx Gịawụ        matematikadu    dʒụːdụ  gurgej           eti           ụtalla
+\mb gịa  -W        matematika -DU  dʒụː -DU  gurgeː -J       e   -RI       ụtal     -R
+\ge friend -poss.1sg maths.R    -dat house    -dat work    -prfl.sg neg -impf.ptc understand -neg.cvb
+
+\tx biheken,                  bike       ịbgọt     ụtallakụ,                  nọŋan minu
+\mb bi -REk      -E-n(I)      biː =kE   ịbgọ -Č  ụtal     -REk      -W        nọŋan min     -W
+\ge be -cond.cvb -ep-poss.3sg 1sg  =emph good     -ins understand -cond.cvb -poss.1sg 3sg      1sg.obl -acc
+
+\tx ŋaːkkaran,             biː nọŋandụlan         todiwrem.
+\mb ŋaːt -Gr(E)      -n(I) biː nọŋan -(dU)LE -n(I)  todi -Gr(E)      -m
+\ge call   -hab.nonfut -3sg  1sg  3sg      -loc -poss.3sg help -hab.nonfut -1sg
+
+\gr did say at first "eči ụtalla", but changed that to "eti ụtalla"; eti ụtalla biheken = esli nostojanno ne ponimaet; eheken
+ụtalla = esli ne ponjala, esli ne pojmet; so the combination of participle with bi- gives a durative aspect
+
+\id S_ConverbsComplex2.24
+\ref elicited with Ekaterina Shadrina 18.02.08; sebjan180208_27:37
+\tx Huː emnekehnen                  biː dʒeblew       iriwrerem                huː
+\mb huː em   -REk      -E-sEn       biː dʒeb -LE -W   iri  -Gr(E) -R(E)   -m   huː
+\ge 2pl  come -cond.cvb -ep-poss.2pl 1sg  eat   -nr -acc cook -hab   -nonfut -1sg 2pl
+
+\tx dʒebemelče          biwres.
+\mb dʒeb -E-mEl  -čE    bi -Gr(E)      -s
+\ge eat   -ep-des -pf.ptc be -hab.nonfut -2pl
+
+\ru Как только вы приходите, я начинаю готовить ужин, потому что вы всегда голодные.
+\ph
+\nt On 18.02.08 she clearly said iriWGERerem, but on 19.02.08 she said that that is wrong, it cannot be iriwgererem, it
+cannot be irigererem, it has to be iriwrerem (sebjan190208_34:15)
+\qu
+\tx huː boːwrerihnen
+\mb huː boː -Gr(E) -RI  -sEn
+\ge 2pl  give -hab   -pst -poss.2pl
+\ru вы давали
+\ph
+\tx huː boːwres
+\mb huː boː -Gr(E)      -s
+\ge 2pl  give -hab.nonfut -2pl
+\ru вы всегда даете
+\ph
+\nt sebjan220208_13: checked the meaning of forms consisting of PST.PTCP + bi- --> she'd said previously that for 1SG
+this has a meaning not having been aware of the action, mne prisnilos'
+\tx huː dʒebemelče          bihes
+\mb huː dʒeb -E-mEl  -čE    bi -R(E)   -s
+\ge 2pl  eat   -ep-des -pf.ptc be -nonfut -2pl
+\ru Вы проголодались; 
+\gr this can be just a statement, but can also have a nuance of evidentiality, okazyvaetsja chto vy progolodalis'
+\gr she did not accept "biwres" here, changed it to bihes
+\tx biː haŋanča      bihem
+\mb biː haŋan -čE    bi -R(E)   -m
+\ge 1sg  sew    -pf.ptc be -nonfut -1sg
+\ru я сшила, уже все, но она не понимая сшила, лучше:
+\tx nọŋan haŋanča      biče
+\mb nọŋan haŋan -čE    bi -čE
+\ge 3sg      sew    -pf.ptc be -pf.ptc
+\ru оказывается, он сшил
+\nt I checked this again (sebjan280208_1_2:45), and she gave the translation "ona, okazyvaetsja, sšila, zakončila uže";
+answered my question whether this means that I didn't see her sew, but I see the result, the ready clothes, in the
+affirmative
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_10:20
+\tx Emnikkeːnihnen                  biː dʒeblew       irilgerem,             huː kuruk
+\mb em   -RI       -KEn -E-sEn       biː dʒeb -LE -W   iri  -L    -Gr(E) -m   huː kuruk
+\ge come -impf.ptc -dim -ep-poss.2pl 1sg  eat   -nr -acc cook -inch -hab   -1sg 2pl  always.Y.
+
+\tx dʒebemgeres,                  teːmi.
+\mb dʒeb -E-m    -Gr(E) -s(I)     teːmi
+\ge eat   -ep-des -hab   -poss.2sg therefore
+\gr The form "emnikkenihnen" is a bit weird, "kak tol'ko", in SS use it takes the Possessive Reflexive Instrumental suffix, in
+DS use normal Possessive suffixes (cf. immediate_precedence_converb_sebjan); and although I'm relatively sure that it
+contains the Imperfective Participle, I'm not sure about the Diminutive; Ija Krivoshapkina does always point out that it
+has a geminated -kk-
+
+\id S_ConverbsMPIPstimuli01
+\ref elicited with Ekaterina Shadrina 20.02.08; sebjan200208_56:20
+\tx Nọŋartan čajụ     kọlantakan        bidde.
+\mb nọŋartan čaːj -W   kọl -E  -ntEkEn   bi -D    -R(E)
+\ge 3pl         tea.R  -acc drink -ep -mult.cvb be -prog -nonfut.3pl
+
+\ru Они сидят чай пьют // они распивая чай сидят
+\nt sebjan220208_8:33 I checked the form kọlantakan, and it would appear as if -ntEkEn is just a local synonymous form
+for the Simultaneous Converb -nIkEn; *kọltakan - ungrammatical; kọlantakan does not have a restrictive meaning
+(*oni tol'ko čaj p'jut); she tried to explain the difference between kọlantakan and kọladnịkan as a temporal one,
+"kọlantakan = sejchas, kọladnịkan = kogda-to, no nezavershennoe dejstvie"
+
+\nt Prompted her to take a closer, longer look and give me a more detailed description of what is going on
+(sebjan200208_57:25):
+\tx Ahị čajụ     oŋkeridʒi,   čajlaj                 saxaru       neːn,
+\mb asị čaːj -W   oŋke -RIdʒI  čaːj -(dU)LE -J       saxar   -W   neː       -n(I)
+\ge woman tea.R  -acc pour  -ant.cvb tea.R  -loc    -prfl.sg sugar.R -acc put.nonfut -3sg
+
+\tx tarịt kọllan            //  kọladnịkan          neːdni.
+\mb tarịt kọl -R(E)   -n(I) *// kọl -E-D     -nIkEn   neː       -n(I)
+\ge then    drink -nonfut -3sg  *** drink -ep-prog -sim.cvb put.nonfut -3sg
+\ph
+\gr kọllan = vse vypila; kọladnikan neːdni = nemnogo vypila i postavila
+\nt
+\nt I then tried to find out whether -ntEkEn and -nIkEn are really synonyms (sebjan280208_1_2:15):
+\tx *Nọŋartan čaːjụ   kọladnịkan          bidde.
+\mb nọŋartan  čaːj -W   kọl -E-D     -nIkEn   bi -D    -R(E)
+\ge 3pl          tea.R  -acc drink -ep-prog -sim.cvb be -prog -nonfut.3pl
+\ft Said that in this sentence only kọlantakan is possible, not kọladnịkan.
+\ru
+\tx Biː čaːjụ   kọlantakan      biddem                //  *biː čaːjụ   kọladnịkan
+\mb biː čaːj -W   kọl -E-nIkEn    bi -D    -R(E)   -m   *// biː  čaːj -W   kọl -E-D     -nIkEn
+\ge 1sg  tea.R  -acc drink -ep-sim.cvb be -prog -nonfut -1sg *** 1sg   tea.R  -acc drink -ep-prog -sim.cvb
+
+\tx biddem.
+\mb bi -D    -R(E)   -m
+\ge be -prog -nonfut -1sg
+\ft The sentence with kọlantakan is grammatical, the one with kọladnịkan isn't. So -nIkEn does not combine with "bi-".
+\ru
+\nt Checked the difference between kọladnịkan and kọlantakan again, asking her whether one could say the longer
+sentence she gave with the converb in -ntEkEn, i.e. whether one could say: "Ahị čajụ oŋkeridʒi, čajlaj saxaru neːn, tarịt
+kọlantakan neːdni" or whether it had to be "... kọladnịkan neːdni". (sebjan040308_keti_3:45) She said both these
+sentences were incorrect, and said it had to be:
+\tx Ahị čajụ     oŋkeridʒi,   čajlaj                 saxar   neːn,           tarịt kọllịdʒị
+\mb asị čaːj -W   oŋke -RIdʒI  čaːj -(dU)LE -J       saxar   neː       -n(I) tarịt kọl -RIdʒI
+\ge woman tea.R  -acc pour  -ant.cvb tea.R  -loc    -prfl.sg sugar.R put.nonfut -3sg  then    drink -ant.cvb
+
+\tx neːdni.
+\mb neː       -n(I)
+\ge put.nonfut -3sg
+\ft
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan040308_ija_32:10
+\tx Ahị dʒebedden,                  ńarị taraw      ejetniken,    dʒahlaj         nimŋenniken,
+\mb asị dʒeb -E-D     -R(E)   -n(I) ńarị tarak -W   ejet -nIkEn   dʒalsa -J       nimŋe  -n    -nIkEn
+\ge woman eat   -ep-prog -nonfut -3sg  man     dist  -acc envy -sim.cvb saliva  -prfl.sg swallow -mult -sim.cvb
+
+\tx tegetten.
+\mb teg      -E-Č   -R(E)   -n(I)
+\ge sit.down -ep-res -nonfut -3sg
+\ru Женщина кушает, мужчина на это смотрит, завидуя и глотая слюну.
+\gr Robbek only gives the verb "nimŋedej" "glotat'", but Ija Krivoshapkina very clearly geminated the -n-, nimŋeNNiken;
+and then she explained that "nimŋedej" = glotnut'/glotat', a "nimŋendej" = glotat' i glotat' mnogo raz, i.e. it has a
+multiplicative meaning
+
+\id S_ConverbsMPIPstimuli02
+\ref elicited with Ekaterina Shadrina 20.02.08; sebjan200208_1:00:00
+\tx Nọŋan dʒeplew       iridniken           tụhụ    dʒeplele         oŋkedni.
+\mb nọŋan dʒeb -LE -W   iri  -D    -nIkEn   tụh  -W   dʒeb -LE -(dU)LE oŋke       -n(I)
+\ge 3sg      eat   -nr -acc cook -prog -sim.cvb salt.Y -acc eat   -nr -loc    pour.nonfut -3sg
+\ru
+\gr at first just said briefly dʒeplew iridden; after prompting started to say dʒeplew irinteken, but corrected that to iridniken
+\nt sebjan220208_10:09: checked the form irinteken:
+\tx nọŋan dʒeblew       irinteken,     ikeːdden
+\mb nọŋan dʒeb -LE -W   iri  -ntEkEn   ikeː -D    -R(E)   -n(I)
+\ge 3sg      eat   -nr -acc cook -mult.cvb sing  -prog -nonfut -3sg
+
+\ru Она готовит пищу и поет
+\gr But can also say "nọŋan dʒeblew iriniken ikeːdden", the same thing as irinteken
+\nt
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan040308_ija_34:25
+\tx Ahị gụlụndụla   dʒeblew       iričedden,                      ńarị taraw      kojeːtniken
+\mb asị gụlụn -(dU)LE dʒeb -LE -W   iri  -Č  -E-D     -R(E)   -n(I) ńarị tarak -W   kojeːt -nIkEn
+\ge woman fire      -loc    eat   -nr -acc cook -res -ep-prog -nonfut -3sg  man     dist  -acc look.at -sim.cvb
+
+\tx tegetten.
+\mb teg      -E-Č   -R(E)   -n(I)
+\ge sit.down -ep-res -nonfut -3sg
+\ft
+\gr When I asked what the nuance of the Resultative suffix in"iričedden" is, she said that iridej = "varit'/svarit' ", and irittej
+= varit', i.e. Cincius&Rishes' term "vid prodolzhennogo dejstvija" makes sense 
+\nt When I asked about the salt, she said this sentence:
+\tx Ahị tụstaːčalan,                  ńarị dịlị       ụlkụdnị.
+\mb asị tụs  -LE -čE    -(dU)LE -n(I)  ńarị dịl -J       ụlkụ    -n(I)
+\ge woman salt.Y -vr -pf.ptc -loc -poss.3sg man     head  -prfl.sg stir.nonfut -3sg
+
+\ru Когда женщина посолила, мужчина пошевелил головой.
+
+\id S_ConverbsMPIPstimuli03
+\ref elicited with Ekaterina Shadrina 20.02.08; sebjan200208_1:02:50
+\tx Ńarị họːja gọlụ      kaltaktịdʒị tọwla       haːwran,           tarịt atịkannị
+\mb ńarị họːja gọl    -W   kaltak -RIdʒI   tọg -(dU)LE haːw -R(E)   -n(I) tarịt atịkan  -n(I)
+\ge man     many     firewood -acc split  -ant.cvb  fire  -loc    add   -nonfut -3sg  then    old.woman -poss.3sg
+
+\tx nọŋandụlan            ńan   gịalan                 dʒeplew       boːn             //  boːdni.
+\mb nọŋan -(dU)LE -n(I)     ńaːn gịa  -(dU)LE -n(I)     dʒeb -LE -W   boː        -n(I) *// boː        -n(I)
+\ge 3sg      -loc    -poss.3sg again  friend -loc    -poss.3sg eat   -nr -acc give.nonfut -3sg  *** give.nonfut -3sg
+\ft
+\ru
+\ph at first she wanted to say "he lit a fire" tọgụ dụrrụn (vowel assimilation by roundedness), but realized that he just added
+logs to a burning fire, so changed it to tọwla haːwran - but it sounded as if she said "tọgụla haːwran" at first.
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan040308_ija_37:20
+\tx Ńarị gọlụ      kaltakrịdʒị, tọwla       nọːdatnị      /   haːwran,           ahị
+\mb ńarị gọl    -W   kaltak -RIdʒI    tọg -(dU)LE nọːda     -n(I) */  haːw -R(E)   -n(I) asị
+\ge man     firewood -acc split  -ant.cvb   fire  -loc    throw.nonfut -3sg  *** add   -nonfut -3sg  woman
+
+\tx dʒeblew       terelkele       /   nịːnala       neːridʒi,   ńarịldụla      boːdni.
+\mb dʒeb -LE -W   tarelka -(dU)LE */  nịːna -(dU)LE neː -RIdʒI  ńarị -L  -(dU)LE boː        -n(I)
+\ge eat   -nr -acc plate.R -loc    *** dish     -loc    put  -ant.cvb man     -pl -loc    give.nonfut -3sg
+
+\id S_ConverbsMPIPstimuli04
+\ref elicited with Ekaterina Shadrina 20.02.08; sebjan200208_1:04:43
+\tx Ahị dʒeblew       ụlkụddakan                        ńarị tụhụ    oŋkedni.
+\mb asị dʒeb -LE -W   ụlkụ -D    -REk      -E-n(I)      ńarị tụh  -W   oŋke       -n(I)
+\ge woman eat   -nr -acc stir     -prog -cond.cvb -ep-poss.3sg man     salt.Y -acc pour.nonfut -3sg
+\ft
+\ru
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan040308_ija_38:50
+\tx Ńarị ahịla       tụhụ    haːwlị      goːndʒidden.
+\mb ńarị asị -(dU)LE tụs  -W   haːw -LI      goːn -D    -R(E)   -n(I)
+\ge man     woman -loc    salt.Y -acc add   -imp.2sg say   -prog -nonfut -3sg
+\gr
+\nt my translation, confirmed by Ija:
+\ru Он говорит женщине "Добавь соль!"
+\nt When I pointed out that the man adds the salt, she said the following (39:50)
+\tx Ńarị tụhụ    garịdʒị  ahị iriddi               dʒebleŋnen
+\mb ńarị tụs  -W   ga   -RIdʒI  asị iri  -D    -RI       dʒeb -LE -ŋ  -(dU)LE -n(I)
+\ge man     salt.Y -acc take -ant.cvb woman cook -prog -impf.ptc eat   -nr -aln -loc    -poss.3sg
+
+\tx haːwran.
+\mb haːw -R(E)   -n(I)
+\ge add   -nonfut -3sg
+\ft
+\ru Мужчина, взяв соль, добавил в еду, которую готовит женщина.
+
+\id S_ConverbsPerception3.1
+\ref elicited with Ekaterina Shadrina 19.02.08; sebjan190208_1:02:31
+\tx Nọŋartan ittiten            nọŋan ịbgọt     tegettiwen.
+\mb nọŋartan it  -RI  -tEn      nọŋan ịbgọ -Č  teg      -E-Č   -RI  -W   -E-n(I)
+\ge 3pl         see -pst -poss.3pl 3sg      good     -ins sit.down -ep-res -pst -acc -ep-poss.3sg
+
+\ru Они видели, что он хорошо живет.
+\ph ịbgat
+\gr teget --> oloror
+\nt
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_11:20
+\tx Nọŋan ịbgat       tegettiwen                                   nọŋartan ittitnen.
+\mb nọŋan ịbgọ -Č  teg      -E-Č   -RI       -W   -E-n(I)      nọŋartan it  -RI  -tEn
+\ge 3sg      good     -ins sit.down -ep-res -impf.ptc -acc -ep-poss.3sg 3pl         see -pst -poss.3pl
+
+\gr Basically one could of course leave out the pronouns, if from the context it is clear who this is about.
+
+\id S_ConverbsPerception3.2
+\ref elicited with Ekaterina Shadrina 19.02.08; sebjan190208_1:03:23
+\tx Ajuka      itteku                  kotlekken    bejkeken   tọw
+\mb ajuka      it  -REk      -W        kotlen -kkEn bej -kEkEn tọg
+\ge suddenly.Y see -cond.cvb -poss.1sg small  -dim  man -dim   fire
+
+\tx čawdadụkụn             hieriwen.
+\mb čawda    -DUk(U) -n(I)     hie    -RI       -W   -E-n(I)
+\ge back.part -abl    -poss.3sg appear -impf.ptc -acc -ep-poss.3sg
+\ru Вдруг я увидел, как один маленький человек появился из-за печи.
+\ph taw (with a as in Arhus)
+\gr I at first analyzed "itteku" as the Conditional Converb -REk, which has the same form; but I think it makes more sense
+that this is the Hortative1SG/Purposive Converb, as in "davaj ja uvizhu", cf. Anna Egorovna Krivoshapkina049; 2009:
+NO, actually this is probably the CondCvb after all, in the same way as it is used in narratives in the 3SG, itteken (e.g.
+Stepanov_elk09)
+\nt At first she only said "kotlen bejkeken", but when I repeated the sentence to her she wanted "kotlekken"
+\qu
+\nt On 20.02.08 she translated the above sentence as "Vdrug vižu, kak malen'kij čeloveček pojavilsja iz-za peči.", as if the
+form "itteku" was a finite verb. But she also gave the following (sebjan200208_22:23):
+\tx Hobelčeri         bejilbu         itteku                  biː neːgiwrerem.
+\mb hobelče -RI       bej -E-L   -W   it  -REk      -W        biː neːgi -Gr(E) -R(E)   -m
+\ge drunk    -impf.ptc man -ep-pl -acc see -cond.cvb -poss.1sg 1sg  scold  -hab   -nonfut -1sg
+\ru Когда я вижу пьяных, я их ругаю.
+\ph
+\nt sebjan040308_keti_13:00
+\tx Ammụ           tamam        boːrin             biː šubaŋgaj                      gadakụ.
+\mb aman   -W        taman   -W   boː -RI  -n(I)     biː šuba      -ŋ  -GE    -J       ga   -DE       -W
+\ge father -poss.1sg payment -acc give -pst -poss.3sg 1sg  fur.coat.R -aln -desig -prfl.sg take -purp.cvb -poss.1sg
+\ru Отец мне дал деньги, чтобы я купила (новую) шубу.
+\ph at first said gadụkụ
+\tx Etikeŋu                Parižla       minu         horurin                  biː NotreDamu
+\mb etikeːn -ŋ  -W        Pariž -(dU)LE min     -W   hor -U    -RI  -n(I)     biː NotreDam   -W
+\ge old.man  -aln -poss.1sg Paris  -loc    1sg.obl -acc go  -caus -pst -poss.3sg 1sg  Notre-Dame -acc
+
+\tx itteku                  goːniken.
+\mb it  -DE       -W        goːn -nIkEn
+\ge see -purp.cvb -poss.1sg say   -sim.cvb
+\ru Муж меня повез в Париж чтобы я видела Нотре-Дам.
+
+\id S_ConverbsPerception3.3
+\ref elicited with Ekaterina Shadrina 19.02.08; sebjan190208_1:06:39
+\tx Ńukuː dọldarịn           ọːn tọw durriwen.
+\mb Nikolaj dọlda -RI  -n(I)     ọːn tọg dur  -RI       -W   -E-n(I)
+\ge Nikolaj hear    -pst -poss.3sg how    fire  burn -impf.ptc -acc -ep-poss.3sg
+\ru Николай слышал, как огонь горит.
+
+\id S_ConverbsPerception3.4
+\ref elicited with Ekaterina Shadrina 19.02.08; sebjan190208_1:07:12
+\tx Upeːw                noːwu                    kuːniniwen                        dọldarịn:
+\mb upeː       -W        noː            -W        kuːni -RI       -W   -E-n(I)      dọlda -RI  -n(I)
+\ge grandmother -poss.1sg younger.sibling -poss.1sg scream -impf.ptc -acc -ep-poss.3sg hear    -pst -poss.3sg
+
+\tx "Nọŋartan ọldaw     ọldamịrịwụttan".
+\mb nọŋartan  ọlra -W   ọlra -mI -RI  -tEn
+\ge 3pl          fish   -acc fish   -vr -pst -poss.3pl
+
+\ru Моя бабушка услышала, как мой брат кричит: они поймали рыбу.
+\ph kuːniniwan
+\gr She said that dọldarịn = nedavno; dọlčịrịn = davno --> but actually, dọldarịn = heard, dọlčarịn = listened to; I do
+not know what the -wut- is in ọldamịrịwụttan, although when I checked on 20.02.08 she said it was a correct form, had
+a progressive meaning (ọldịmịrịdnan = uže zakončonnoe, ọldamịrịwụttan = v techenie kakogo-to vremeni)
+\nt
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_12:20
+\tx Biː upeːwu               noːwu                    ọldaw     hepkenčel         goːniken
+\mb biː upeː       -W        noː            -W        ọlra -W   hepken -čE    -L  goːn -nIkEn
+\ge 1sg  grandmother -poss.1sg younger.sibling -poss.1sg fish   -acc catch  -pf.ptc -pl say   -sim.cvb
+
+\tx kụːnịrịwan                      dọldan.
+\mb kụːnị -RI       -W   -E-n(I)      dọlda     -n(I)
+\ge scream     -impf.ptc -acc -ep-poss.3sg hear.nonfut -3sg
+
+\id S_ConverbsSwitchreferenceSimple2.additional
+\ref elicited with Ija Krivoshapkina, sebjan170308_26:00
+\tx Hupkučimŋe    ńoːrikkeːnni,                kụŋal    hagaralgaračal.
+\mb hupkut -E-mŋE  ńuː -RI       -kkEn -n(I)     kụŋa -L  hagar    -E  -L    -Gr(E) -čE -L
+\ge learn  -ep-agnr exit  -impf.ptc -dim  -poss.3sg child   -pl be.noisy -ep -inch -hab   -pf.ptc -pl
+
+\ft
+\ru Как только учитель вышел из класса, дети начинали шуметь.
+
+\id S_ConverbsSwitchreferenceSimple2.01
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_11:40
+\tx Nọŋan gazetaw          taŋčalan                     mut    huglenewur             horrit.
+\mb nọŋan gazeta      -W   taŋ -čE    -(dU)LE -n(I)     mut    hukle -nE     -WUr     hur -RI   -t(I)
+\ge 3sg      newspaper.R -acc read -pf.ptc -loc    -poss.3sg 1pl.in sleep -intent -prfl.pl go  -pst  -poss.1pl.in
+
+\ft
+\ru Когда он прочитал газету, мы пошли спать.
+\ph
+\gr Very odd, that there is a person marker (POSSREFL) directly after the intentional suffix.
+\nt
+\nt elicited with Ekaterina Shadrina 18.02.08, sebjan180208_14:20
+\tx Nọŋan gazetaw          taŋčalan                     mut    huklehnemi             horrep.
+\mb nọŋan gazeta      -W   taŋ -čE    -(dU)LE -n(I)     mut    hukle -s(E)n -mI       hur -R(E)    -p
+\ge 3sg      newspaper.R -acc read -pf.ptc -loc    -poss.3sg 1pl.in sleep -lim   -cond.cvb go  -nonfut  -1pl.in
+\ft
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_4:35
+\tx Xahïatụ       taŋnịdʒị //  taŋčalan                     mut    huglehnemi
+\mb xahïat     -W   taŋ -RIdʒI   *// taŋ -čE    -(dU)LE -n(I)     mut    hukle -s(E)n -E-mI
+\ge newspaper.Y -acc read -ant.cvb  *** read -pf.ptc -loc    -poss.3sg 1pl.in sleep -lim   -ep-cond.cvb
+
+\tx herrep.
+\mb hor -R(E)   -p
+\ge go  -nonfut -1pl.in
+
+\id S_ConverbsSwitchreferenceSimple2.02
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_12:12
+\tx Ụdan ọddakan                   tolle           ewiːdʒehne.
+\mb ụdan ọd -REk      -E-n(I)      tol     -(dU)LE ewiː   -dʒehne
+\ge rain   stop -cond.cvb -ep-poss.3sg outside -loc    play -??
+
+\ft
+\ru Если дождь кончится, то вы можете играть на улице.
+\ph the ọ in ọddakan was very unrounded, very close to addakan; telle
+\gr I don't know what the form of ewiːdʒehne is, unless the -dʒe- is a form of the FUT suffix -dʒi, and -hne is the POSS.2PL
+-sEn -- but this should not be possible, because the FUT takes non-possessive subject agreement markers; however, he
+did say that ewiːdʒehne = budete igrat' na ulice; and anyway, in Sebjan the Future takes 2PL.POSS marking!
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_5:45
+\tx Ụdan ọddakan                   huː telle           heremnehnen           //
+\mb ụdan ọd -REk      -E-n(I)      huː tol     -(dU)LE hor -E-mnE  -sEn      *//
+\ge rain   stop -cond.cvb -ep-poss.3sg 2pl  outside -loc    go  -ep-hyp -poss.2pl ***
+
+\tx ewiːnemnehnen.
+\mb ewiː -nE     -mnE -sEn
+\ge play  -intent -hyp -poss.2pl
+\ft
+\gr When I checked the form ewiːnemnehnen (sebjan040308_ija_5:45) (because I wanted to make sure that my analysis with
+the Intentional suffix is correct), Ija Krivoshapkina at first said that yes, it means "vy mozhete igrat'", but then said that
+the meaning is "vam nuzhno pojti igrat', vy objazanny" rather than "vy mozhete idti igrat", i.e. she said that the
+Hypothetical suffix has here taken on a Necessitative meaning. However, when eliciting Comitative65, she gave the
+form "emnednen bujuhre" = 'ne mogut oxotit'sja', i.e. with a possibility meaning. When I asked how she would tell her
+class that they can go, she said that she would say "herejikkitin höp", which seems to be Even hor- with the Sakha
+Presumptive suffix....; on the 13.03.08 she gave a Hypothetical suffix with a Necessitative meaning as well, cf.
+Imperatives17
+\gr checked this again (sebjan170308_2:30) and again got a translation with a Necessitative/Obligation meaning, so that it is
+pretty clear that this suffix is polysemous between a meaning of possibility and obligation
+
+\id S_ConverbsSwitchreferenceSimple2.03
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_12:50
+\tx Amantị            ọldọw     hepkeneken                    mut    hilu      iridʒip.
+\mb aman   -t(I)        ọldọ -W   hepken -REk      -E-n(I)      mut    hil  -W   iri  -DʒI -p
+\ge father -poss.1pl.in fish     -acc catch  -cond.cvb -ep-poss.3sg 1pl.in soup -acc cook -fut  -1pl.in
+\ft
+\ru Если отец поймает рыбу, то мы будем уху варить.
+\ph aldow
+\gr the form hepkeneken is really hard to analyze as I did, though I did the same in Esso, where I also elicited the 1SG form,
+from which this becomes clear; basically, it seems as if the COND.CVB merges with the final -n of hepken - but there is no
+gemination, it is NOT hepkenneken
+
+\id S_ConverbsSwitchreferenceSimple2.04
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_13:30
+\tx Nọŋan gurgeːwčirin             bi   emčeles.
+\mb nọŋan gurgeːwči -RI  -n(I)     biː em   -čE    -(dU)LE -s
+\ge 3sg      work        -pst -poss.3sg 1sg  come -pf.ptc -loc    -2pl
+\ru Он работал пока я не пришла.
+\ph
+\gr There is an obvious mismatch between the 1SG subject and the 2PL ending on the LOC-marked participle --> either I
+misunderstood something, or he made a mistake, but he did repeat it.
+\nt
+\nt elicited with Ekaterina Shadrina 18.02.08, sebjan180208_14:55
+\tx Nọŋan gurgeːwčirin             biː emekleːkew.
+\mb nọŋan gurgeːwči -RI  -n(I)     biː em   -E-klEːkE  -W
+\ge 3sg      work        -pst -poss.3sg 1sg  come -ep-trm.cvb -poss.1sg
+
+\nt On 19.02.08 I checked the form emekleːkew: sebjan190208_17:09; judging from what I got there (cf. below and
+ConverbSwitchreference2.5), I have analyzed this as a local terminative converb; I do think it may be connected to the
+Allative-Locative suffix -klE (but then it's not clear what the second -kE is)
+\tx Biː gurgeːwčiriw             hiː emekleːkes.
+\mb biː gurgeːwči -RI  -W        hiː em   -E-klEːkE  -s(I)
+\ge 1sg  work        -pst -poss.1sg 2sg  come -ep-trm.cvb -poss.2sg
+\ru Я работала пока ты не пришла.
+\ph
+\tx Kụŋal    ewiːriten           mut    emekleːket.
+\mb kụŋa -L  ewiː -RI  -tEn      mut    em   -E-klEːkE  -t(I)
+\ge child   -pl play  -pst -poss.3pl 1pl.in come -ep-trm.cvb -poss.1pl.in
+\ru Дети играли пока мы не пришли.
+\ph
+\gr From elicitation of 20.02.08, (sebjan200208_10:50) it is clear that this terminative converb is a VS converb, because in
+DS function it takes Possessive person markers, in SS function it takes Possessive Reflexive markers:
+\tx Biː gurgeːwčiriw             abdụklaːkaj.
+\mb biː gurgeːwči -RI  -W        ọbda    -klEːkE -J
+\ge 1sg  work        -pst -poss.1sg get.tired -trm.cvb -prfl.sg
+\ru Я работала, пока я не устала.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_6:40
+\tx Nọŋan gurgeːwčirin             biː edlew                  emne.
+\mb nọŋan gurgeːwči -RI  -n(I)     biː e   -dle     -W        em   -R
+\ge 3sg      work        -pst -poss.3sg 1sg  neg -trm.cvb -poss.1sg come -neg.cvb
+\ft
+\nt I asked whether one could say "emekleːkew", and she gave the following with the translation:
+\tx Biː emniklew,                         nọŋan gurgeːwčirin.
+\mb biː em   -RI       -klE     -W        nọŋan gurgeːwči -RI  -n(I)
+\ge 1sg  come -impf.ptc -all.loc -poss.1sg 3sg      work        -pst -poss.3sg
+\ru Он работал до той минуты, когда я пришла.
+
+\id S_ConverbsSwitchreferenceSimple2.05
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_13:52
+\tx Enenni           mịalụčalan                         Petja huleddin.
+\mb enen   -n(I)     mịal  -U    -čE    -(dU)LE -n(I)     Petja hugle -D    -RI  -n(I)
+\ge mother -poss.3sg wake.up -caus -pf.ptc -loc    -poss.3sg Petja sleep -prog -pst -poss.3sg
+\ft
+\ru Петя спал, пока его мама его не разбудила.
+\ph
+\gr mịal is, I think, the intransitive form, and in Kamchatka I got a CAUS form of this, mịalụkan, but Krivoshapkin clearly
+said what is written here. The -U might be an alternative CAUS form. And he clearly says huleddin, not hugleddin, so it
+seems as if he swallowed the -g-.
+\nt
+\nt elicited with Ekaterina Shadrina 18.02.08, sebjan180208_15:18
+\tx Petja huglerin             eńini           mịawụklaːkan.
+\mb Petja hukle -RI  -n(I)     eńi   -n(I)     mịal  -U    -klEːkE -n(I)
+\ge Petja sleep -pst -poss.3sg mother -poss.3sg wake.up -caus -trm.cvb -poss.3sg
+\ft
+\ph Dictated slowly: mịa-wụk-la-kan
+\gr
+\nt On 19.02.08 I checked the verb (sebjan190208_18:40); when I asked her to translate the above sentence she said:
+\ru Петя спал пока не проснулась мама.
+\nt She said that the -wu- expresses the 'until', but that doesn't really make sense. On 20.02.08 I asked her whether one
+could say mịalụklaːkan, and she said yes, "poka ne razbudila" (sebjan200208_11:30)
+\ph
+\tx biː mịallam
+\mb biː mịal  -R(E)   -m
+\ge 1sg  wake.up -nonfut -1sg
+\ru я проснулась
+\gr
+\tx biː hinu         mịalụdʒịm
+\mb biː hin     -W   mịal  -U    -DʒI -m
+\ge 1sg  2sg.obl -acc wake.up -caus -fut  -1sg
+\ru Я тебя разбужу
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_8:05
+\tx Petja hugledgeren                eńeni              edlen                  mịalụra.
+\mb Petja hukle -D    -Gr(E) -E-n(I) eńin  -E-n(I)      e   -dle     -n(I)     mịal  -U    -R
+\ge Petja sleep -prog -hab   -ep-3sg mother -ep-poss.3sg neg -trm.cvb -poss.3sg wake.up -caus -neg.cvb
+\ph She pronounced hugledgeren with a clear -d-, but when I asked whether one could say hugleggeren, she was surpised
+"what did I say?" and said that here they would pronounce it "hugleggeren"
+
+\id S_ConverbsSwitchreferenceSimple2.06
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_14:24
+\tx Mut    ịbgọt     gurgeːwčijekteːkpit            mut    kụŋaltị             ịbgọt     bidednen               goːmi.
+\mb mut    ịbgọ -Č  gurgeːwči -jEktEːk -BIt        mut    kụŋa -L  -t(I)        ịbgọ -Č  bi -DE       -tEn      goːn -mI
+\ge 1pl.in good     -ins work        -nec.Y    -poss.1pl.Y 1pl.in child   -pl -poss.1pl.in good     -ins be -purp.cvb -poss.3pl say   -cond.cvb
+
+\ft
+\ru Мы должны хорошо работать чтобы наши дети могли жить хорошо.
+\ph ịbgat; there was a glide of some sort between gurgeːwči and iexteːxpit
+\gr Krivoshapkin himself said that the NECessitative form is Yakut! And here we again have this weird form of the
+3PL.POSS, as in SSconverbs1.04 (Krivoshapkin); Also, note the use of the converb of 'say' as a subordination marker as
+in Yakut!
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_8:55
+\tx Mut    egdʒenet     gurgeːwčijekteːkpit            mut    kụŋaltị             ịbgat
+\mb mut    egdʒen =et   gurgeːwči -jEktEːk -BIt        mut    kụŋa -L  -t(I)        ịbgọ -Č
+\ge 1pl.in big     =emph work        -nec.Y    -poss.1pl.Y 1pl.in child   -pl -poss.1pl.in good     -ins
+
+\tx tegettednen                          (goːmi).
+\mb teg      -E-Č   -DE       -tEn      goːn -mI
+\ge sit.down -ep-res -purp.cvb -poss.3pl say   -cond.cvb
+\ft
+\gr At first gave the standard Ewen form with the Necessitative participle, then interrupted herself and said that no, here
+they use the Sakha form; at first she said the sentence with the "goːmi", then said one could also leave that out.
+\gr
+\nt elicited with Ekaterina Igorovna Shadrina, sebjan040308_keti_28:45
+\tx Mut    họːjaw     gurgeːwčirit                     naːda, kụŋaltị             ịbgat       bideten
+\mb mut    họːja -W   gurgeːwči -RI       -t(I)        nada    kụŋa -L  -t(I)        ịbgọ -Č  bi -DE       -tEn
+\ge 1pl.in many     -acc work        -impf.ptc -poss.1pl.in need.R  child   -pl -poss.1pl.in good     -ins be -purp.cvb -poss.3pl
+
+\tx goːmi.
+\mb goːn -mI
+\ge say   -cond.cvb
+
+\id S_ConverbsSwitchreferenceSimple2.07
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_15:50
+\tx Mindu        ọńarịw           ušukeli           ịbgọt     ičesnem.
+\mb min     -DU  ọńa -RI       -W   it  -WkEn -LI      ịbgọ -Č  it    -E-s(E)n       -m
+\ge 1sg.obl -dat draw   -impf.ptc -acc see -caus -imp.2sg good     -ins ee -ep-lim.nonfut -1sg
+
+\ft
+\ru Дай мне картину, чтобы я могла ее смотреть.
+\ph ańarịw
+\gr I am not sure whether the NONFUT form of the LIM would be zero, but that fits best here. 
+\qu
+\nt elicited with Ekaterina Shadrina 18.02.08, sebjan180208_18:05
+\tx Mindu        ọnịːčaw       boːli        biː ittew                   goːmi.
+\mb min     -DU  ọńa -čE    -W   boː -LI      biː it  -DE       -W        goːn -mI
+\ge 1sg.obl -dat draw   -pf.ptc -acc give -imp.2sg 1sg  see -purp.cvb -poss.1sg say   -cond.cvb
+\ft
+\gr She has "ittew" for the 1SG Purposive converb; according to Rishes&Cincius it should be "itteku". She does have
+"gadakun/gadaku" for the 1SGImperative, however (Imperatives01)
+\nt On 19.02.08 checked the form she gave me for 'picture' - because it seems different from the actual verb
+(sebjan190208_21:39). The root still seems to be different, but since it's a perfect participle, it probably has to be the
+same.
+\qu
+\tx Biː ọnịčaw         ọńarịw.
+\mb biː ọńa -čE    -W   ọńa -RI  -W
+\ge 1sg  draw   -pf.ptc -acc draw   -pst -poss.1sg
+\ru Я рисовала картину.
+\ph anịčaw
+\gr
+\tx Hiː ịbgọt     ọńawrannị.
+\mb hiː ịbgọ -Č  ọńa -Gr(E)      -nrI
+\ge 2sg  good     -ins draw   -hab.nonfut -2sg
+
+\ru Ты хорошо рисуешь.
+\ph ịbgat + ańawrannị --> unrounding of round vowel
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_10:02
+\tx Ọnịčaw         mindule         emuli               itteku.
+\mb ọńa -čE    -W   min     -(dU)LE em   -U    -LI      it  -DE       -W
+\ge write  -pf.ptc -acc 1sg.obl -loc    come -caus -imp.2sg see -purp.cvb -poss.1sg
+\ft
+\ph At first said "ọnịčaw umuli", and then repeated more slowly the above.
+\nt When I asked whether one could also say "ittew", she said yes, but then one would put the converb at the front:
+\tx Ittew                   ọnịčaw         emuli.
+\mb it  -DE       -W        ọńa -čE    -W   em   -U    -LI
+\ge see -purp.cvb -poss.1sg write  -pf.ptc -acc come -caus -imp.2sg
+
+\id S_ConverbsSwitchreferenceSimple2.08
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_16:27
+\tx Etikeŋen                  gorodla        bisin             atịkaŋannị
+\mb etikeːn -ŋ  -E-n(I)      gorod  -(dU)LE bi -RI  -n(I)     atịkan  -ŋ  -E-n(I)      -n(I)
+\ge old.man  -aln -ep-poss.3sg town.R -loc    be -pst -poss.3sg old.woman -aln -ep-poss.3sg -poss.3sg
+
+\tx kụŋalkan   ọddakan.
+\mb kụŋa -lkEn ọd -REk      -E-n(I)
+\ge child   -prop stop -cond.cvb -ep-poss.3sg
+
+\ft
+\ru Муж был в городе когда она родила ребенка.
+\ph not sure, at first it sounded to me as if he said kụŋalkaM ọddakan, which would make it Acc, but that doesn't make sense,
+does it?
+\gr I really don't know about the double possessive markingon atịkan, that of course makes absolutely no sense, but
+Krivoshapkin clearly said atịkaŋaNNI. Also, I am not sure about the ọddakan - it should be ọːdakan, become, but he
+clearly geminates the -d-; it could in theory be ọːddakan, i.e. ọː- with a Progressive, but it sure does not sound like it!
+\nt
+\nt elicited with Ekaterina Igorovna Shadrina, sebjan040308_keti_29:30
+\tx Etikeŋen                  gorodla        bihin,            nọŋan kụŋan
+\mb etikeːn -ŋ  -E-n(I)      gorod  -(dU)LE bi -RI  -n(I)     nọŋan kụŋa -n(I)
+\ge old.man  -aln -ep-poss.3sg town.R -loc    be -pst -poss.3sg 3sg      child   -poss.3sg
+
+\tx baldačalan.
+\mb balda   -čE    -(dU)LE -n(I)
+\ge be.born -pf.ptc -loc    -poss.3sg
+\ru Ее муж был в городе, когда ее ребенок родился.
+
+\id S_ConverbsSwitchreferenceSimple2.09
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_17:10
+\tx Bi   hinu         alatčịm      gurgeːwčimi         ọddịlas.
+\mb biː hin     -W   alat -DʒI -m   gurgeːwči -mI       ọd -RI       -(dU)LE -s(I)
+\ge 1sg  2sg.obl -acc wait -fut  -1sg work        -cond.cvb stop -impf.ptc -loc    -poss.2sg
+\ft
+\ru Я буду ждать пока ты закончишь работу.
+\ph ọddịlas - with a very unrounded a (a with a circle on top), and a clear s at the end, not palatalized š as in Kamchatka.
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_11:35
+\tx Alatčịm      hiː ọddịklas.
+\mb alat -DʒI -m   hiː ọd -RI       -klE     -s(I)
+\ge wait -fut  -1sg 2sg  stop -impf.ptc -all.loc -poss.2sg
+
+\id S_ConverbsSwitchreferenceSimple2.10
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_17:42
+\tx Bi   školala         //  hupkučekle          biečeddeku
+\mb biː škola   -(dU)LE *// hupkut -ČEk -(dU)LE bi -WEːČ -E-D     -REk      -W
+\ge 1sg  school.R -loc    *** learn  -nr   -loc    be -gnr    -ep-prog -cond.cvb -poss.1sg
+
+\tx upeːw                ebietu       teːwgererin.
+\mb upeː       -W        obed    -W   teːw    -Gr(E) -E-RI   -n(I)
+\ge grandmother -poss.1sg lunch.R -acc put.down -hab   -ep-pst -poss.3sg
+\ru Когда я ходила в школу, моя бабушка всегда готовила обеды.
+\nt
+\nt elicited with Ekaterina Shadrina 18.02.08, sebjan180208_16:08
+\tx Biː školala         //  hupkučekle          tataddakụ                        upeːw
+\mb biː škola   -(dU)LE *// hupkut -ČEk -(dU)LE tat   -E-D     -REk      -W        upeː       -W
+\ge 1sg  school.R -loc    *** learn  -nr   -loc    learn -ep-prog -cond.cvb -poss.1sg grandmother -poss.1sg
+
+\tx dʒeplew       iriwrerin.
+\mb dʒeb -LE -W   iri  -Gr(E) -RI  -n(I)
+\ge eat   -nr -acc cook -hab   -pst -poss.3sg
+
+\gr babuška vsegda gotovit obedy = upeːw dʒeblew iriwren (at first said iridden, corrected to iriwren); ona vse vremja
+budet gotovit' obedy = iriwredʒin
+\nt If I understand Robbek correctly, tat- actually means more "train (animals)" than learn. Also, here she seemed to say
+dʒePlew, not dʒeBlew.
+\ru
+\nt On 19.02.08 ja checked the meaning of tat- (sebjan190208_20:41)
+\tx biː tataddam
+\mb biː tat   -E-D     -R(E)   -m
+\ge 1sg  learn -ep-prog -nonfut -1sg
+\ru Я учусь
+\ph
+\tx Biː hụnaːdʒụ        hupkučekle          tattan.
+\mb biː hụnaːdʒ -W        hupkut -ČEk -(dU)LE tat   -R(E)   -n(I)
+\ge 1sg  daughter    -poss.1sg learn  -nr   -loc    learn -nonfut -3sg
+\ru Моя дочь учится в школе.
+\gr Free personal pronoun instead of oblique pronoun in possessive function
+
+\id S_ConverbsSwitchreferenceSimple2.11
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_18:45
+\tx Mut    šakalatụ      ajaːwgararap                 teːmi    mut    gịaltị
+\mb mut    šokolad    -W   ajaːw -Gr(E) -R(E)   -p      teːmi    mut    gịa  -L  -t(I)
+\ge 1pl.in chocolate.R -acc love   -hab   -nonfut -1pl.in therefore 1pl.in friend -pl -poss.1pl.in
+
+\tx šakalatụ      umuwrer.
+\mb šokolad    -W   em   -U    -Gr(E)      -r
+\ge chocolate.R -acc come -caus -hab.nonfut -3pl
+
+\ru Так как мы любим шоколад, наши друзья нам его всегда привозят.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_12:00
+\tx Mut    šakalat    ajaːwrap,             teːmi    mut    gịaltị              muttule
+\mb mut    šokolad    ajaːw -R(E)   -p      teːmi    mut    gịa  -L  -t(I)        mut    -(dU)LE
+\ge 1pl.in chocolate.R love   -nonfut -1pl.in therefore 1pl.in friend -pl -poss.1pl.in 1pl.in -loc
+
+\tx (nọŋman//            taraw)     emuwrer.
+\mb nọŋan -W   -n(I)     tarak -W   em   -U    -Gr(E)      -r
+\ge 3sg      -acc -poss.3sg dist  -acc come -caus -hab.nonfut -3pl
+
+\id S_ConverbsSwitchreferenceSimple2.12
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_20:33
+\tx Nọŋar     kụŋaltan           šakalatụ      ajaːwra           dʒaːltị          este
+\mb nọŋan -L  kụŋa -L  -tEn      šokolad    -W   ajaːw -R(E)       dʒaːl -t(I)        e   -R(E)
+\ge 3sg      -pl child   -pl -poss.3pl chocolate.R -acc love   -nonfut.3pl friends -poss.1pl.in neg -nonfut.3pl
+
+\tx gawra.
+\mb ga   -Gr(E)
+\ge take -hab.neg.cvb
+\ru Они никогда не покупают шоколад, хотя их дети его любят.
+\ph əstə
+\gr He clearly says əstə, even though the 3PL form of the NEG NONFUT should be esteN; and although he said that dʒaːltị
+= oni, ego roditeli, rodstvenniki, -tI is the POSS.1PL.INCL form, not POSS.3PL or POSS.3SG
+
+\nt elicited with Ekaterina Shadrina 18.02.08, sebjan180208_18:45
+\tx Nọŋartan šakalatụ      este            gawra             kụŋadnan       ajaːwrịda
+\mb nọŋartan šokolad    -W   e   -R(E)       ga   -Gr(E)       kụŋa -tEn      ajaːw -RI       =DE
+\ge 3pl         chocolate.R -acc neg -nonfut.3pl take -hab.neg.cvb child   -poss.3pl love   -impf.ptc =ptl
+
+\tx bihikednen.
+\mb bi -RI       -klE      -tEn
+\ge be -impf.ptc -conc.cvb -poss.3pl
+
+\nt At first she said bihidleten, but then changed that to bihikednen
+\nt On 19.02.08 I checked the form bihikednen (sebjan190208_22:52), see below. It seems to be a Concessive Converb with
+VS functions, because it would seem to be very similar (if not the same, perhaps just a variant) to the form
+bihiklej/bihiklewur which I got from Shadrina for the SSConverb 1.14 - there in SS function it takes
+PossessiveReflexive person marking, here in DS function it takes Possessive person marking. On 20.02.08 I checked it,
+and she said that one can only say bihikLej, bihikLewur, but one could say either bihikednen or bihikLednen --> so it
+is as I thought, a concessive converb with VS functions
+\qu
+\nt ajaːwrịda bihikednen = xot' i ljubjat
+\tx Biː dʒaːlbụ         kempietu     este            boːwrer             bi   nọŋarbụtnan
+\mb biː dʒaːl   -W        konfeta -W   e   -R(E)       boː -Gr(E) -R       biː nọŋan -L  -W   -tEn
+\ge 1sg  relatives -poss.1sg sweet.R -acc neg -nonfut.3pl give -hab   -neg.cvb 1sg  3sg      -pl -acc -poss.3pl
+
+\tx ajaːwrịda          bihiku.
+\mb ajaːw -RI       =DE  bi -hIk(le)  -W
+\ge love   -impf.ptc =ptl be -conc.cvb -poss.1sg
+\ru Мои родители мне никогда не давали конфеты, хотя я их очень любила.
+\gr She first said este boːwrer, then when we repeated it, she said esteN boːwrer, but later she returned to este boːwrer. She
+also claimed that there would not be a difference between past and present. However, from some elicitation on 20.02.08
+(sebjan200208_13:00), it becomes clear that they do have the 3 indicative tenses for the negative verb, see below.
+\nt
+\tx hiː kempietu     ajaːwrịda          bihikes
+\mb hiː konfeta -W   ajaːw -RI       =DE  bi -hIk(le)  -s(I)
+\ge 2sg  sweet.R -acc love   -impf.ptc =ptl be -conc.cvb -poss.2sg
+\ru хотя ты конфеты любишь
+\ph
+\tx Biː hindule         knigaw      eču               //  ehem             //  etem           boːre.
+\mb biː hin     -(dU)LE kniga  -W   e   -RI  -W        *// e   -R(E)   -m   *// e   -t(E) -m   boː -R
+\ge 1sg  2sg.obl -loc    book.R -acc neg -pst -poss.1sg *** neg -nonfut -1sg *** neg -fut  -1sg give -neg.cvbru
+\ru Я тебе книгу не дала//не даю//не дам.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_12:55
+\tx Nọŋartan ọːkta    šakalatu        esten       gawrar,              kụŋaltan
+\mb nọŋartan ọːk =DE  šokolad    -W   e   -R(E)   ga   -Gr(E) -R       kụŋa -L  -tEn
+\ge 3pl         when   =ptl chocolate.R -acc neg -nonfut take -hab   -neg.cvb child   -pl -poss.3pl
+
+\tx ajaːwrịkladnanda.
+\mb ajaːw -RI  -klE      -tEn      =DE
+\ge love   -pst -conc.cvb -poss.3pl =ptl
+\ft
+\gr This is obviously a very preliminary analysis! It would seem as if the "concessive converb" consists of the Imperfect
+Participle plus -klE (Allative-Locative???), which is how one could analyze "bihiklej", but not "bihikes". I did some more
+elicitation on 04.03.08, which confirmed the analysis with the Imperfect Participle. But I am calling it the "Concessive
+Converb", because the difference in meaning between Allative-Locative and Concessive seems rather large.
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan040308_ija_8:20
+\tx Họːjat     biweːttiglej,                          họːja torre         unde    eču
+\mb họːja -Č  bi -WEːČ -RI       -klE      -J       họːja tor   -(dU)LE unde    e   -RI  -W
+\ge many     -ins be -gnr    -impf.ptc -conc.cvb -prfl.sg many     earth -loc    not.yet neg -pst -poss.1sg
+
+\tx biweːtte.
+\mb bi -WEːČ -R
+\ge be -gnr    -neg.cvb
+\ru Хотя я уже много ездила, я еще во многих странах не побывала.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan040308_ija_9:35
+\tx Họːjawda        taŋnịglaj,                     nọŋan nụŋụ.
+\mb họːja -W   =DE  taŋ -RI       -klE      -J       nọŋan nụŋụ
+\ge many     -acc =ptl read -impf.ptc -conc.cvb -prfl.sg 3sg      stupid
+\ru Хотя он много читает, он все равно глуп.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan040308_ija_10:30
+\tx Ọmọlgọtnan     xarčịw     kuruk     boːriglen,                        nọŋartan keńelit
+\mb ọmọlga -tEn      xarčị -W   kuruk     boː -RI       -klE      -n(I)     nọŋartan keńeli -Č
+\ge boy        -poss.3pl money.Y  -acc always.Y. give -impf.ptc -conc.cvb -poss.3sg 3pl         bad     -ins
+
+\tx tegette.
+\mb teg      -E-Č   -R(E)
+\ge sit.down -ep-res -nonfut.3pl
+\ru Хотя сын им все время деньги дает, они все равно бедно живут.
+
+\id S_ConverbsSwitchreferenceSimple2.13
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_19:45
+\tx Hiː futbolu         ebiddekes,                         biː moːw      ụjụkatčịm.
+\mb hiː futbol     -W   ewiː -D    -REk      -E-s(I)      biː moː  -W   ụjụkat -DʒI -m
+\ge 2sg  football.R -acc play  -prog -cond.cvb -ep-poss.2sg 1sg  water -acc bathe      -fut  -1sg
+
+\ft
+\ru Я буду плавать в реке пока ты играешь в футбол.
+
+\id S_ConverbsTopicalization5.1
+\ref elicited with Ekaterina Shadrina 19.02.08; sebjan190208_1:09:10
+\tx Anna ńan   Marija gorodla        mašịnat     horriten.          Anna anŋamta
+\mb Anna ńaːn Marija gorod  -(dU)LE mašịna -Č  hor -RI  -tEn      Anna anŋamta
+\ge Anna again  Maria  town.R -loc    car.R     -ins go  -pst -poss.3pl Anna new
+
+\tx platew       ńan   tụflịaw  garịn.            Marija akandụlaj             biettin.
+\mb plate   -W   ńaːn tufli   -W   ga   -RI  -n(I)     Marija akan   -(dU)LE -J       bi -WEːČ -RI  -n(I)
+\ge dress.R -acc again  shoes.R -acc take -pst -poss.3sg Maria  father -loc    -prfl.sg be -gnr    -pst -poss.3sg
+\ru Анна и Мария поехали в город. Анна купила новое платье и туфли. А Мария, она навестила своего дядю.
+\gr I am not sure whether I am entirely correct in my analysis of "biettin" - but on 20.02.08 she confirmed it.
+\nt akan = term for all older men
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_13:05
+\tx Annańun   Marija kọratla      herre.          Anna anŋamta platew       ńan   tuflew
+\mb Anna -ńUn Marija gorod  -(dU)LE hor -R(E)       Anna anŋamta plate   -W   ńaːn tufli   -W
+\ge Anna -com  Maria  town.R -loc    go  -nonfut.3pl Anna new      dress.R -acc and    shoes.R -acc
+
+\tx gadnị.          Marijake     //  Marija buollagïna  akmị                 bakaldadnị.
+\mb ga          -n(I) Marija =kE   *// Marija buollaγïna akan          -J       bak  -(E)ldE -n(I)
+\ge take.nonfut -3sg  Maria  =emph *** Maria  dp.Y         older.brother -prfl.sg find -soc    -3sg
+
+\gr Here, "buollagïna" in contrastive use is more frequent, but a person who knows Even well would also say Marijake
+
+\id S_ConverbsTopicalization5.2
+\ref elicited with Ekaterina Shadrina 19.02.08; sebjan190208_1:12:10
+\tx Mut    dʒaːlńụmụr        omettu   zalla                 biddit.                    Biː kuxnjala
+\mb mut    dʒaːl   -ńUn -WUr     omettu   zal           -(dU)LE bi -D    -RI  -t(I)        biː kuxnja    -(dU)LE
+\ge 1pl.in relatives -com  -prfl.pl together living.room.R -loc    be -prog -pst -poss.1pl.in 1sg  kitchen.R -loc
+
+\tx bihiw.
+\mb bi -RI  -W
+\ge be -pst -poss.1sg
+\ru Вся наша семья (была дома и) сидела в зале. А я, я была в кухне.
+\ph
+\gr mut dʒaːlńumur = my s roditeljami = nasha sem'ja
+\nt I checked the above sentence with her on 04.03.08, and she agreed that it doesn't make sense this way, so she changed it
+to the following (sebjan040308_keti_15:20)
+\tx Biː dʒaːlbụ         omettu   zalla                 bidditen.               Biːńun
+\mb biː dʒaːl   -W        omettu   zal           -(dU)LE bi -D    -RI  -tEn      biː =ńUn
+\ge 1sg  relatives -poss.1sg together living.room.R -loc    be -prog -pst -poss.3pl 1sg  =restr
+
+\tx kuxnjala          bihiw.
+\mb kuxnja    -(dU)LE bi -RI  -W
+\ge kitchen.R -loc    be -pst -poss.1sg
+\ru Вся семья сидела в зале, только я была в кухне.
+
+\id S_ConverbsTopicalization5.3
+\ref elicited with Ekaterina Shadrina 19.02.08; sebjan190208_1:14:19
+\tx Nelke        bujul             iŋehi            torteki       horgerer.
+\mb nelkeni      bujun         -L  iŋeń  -RI       tor   -t(E)kI hor -Gr(E)      -r
+\ge early.spring wild.reindeer -pl be.cold -impf.ptc earth -all    go  -hab.nonfut -3pl
+
+\tx Hịalịkịl    ńahmị          torelduk             muttule        mụčụwrar.
+\mb hịalịkị -L  ńam    -RI       tor   -E-L   -DUk(U) mut    -(dU)LE mụčụ -Gr(E)      -r
+\ge ptarmigan     -pl be.warm -impf.ptc earth -ep-pl -abl    1pl.in -loc    return    -hab.nonfut -3pl
+
+\ru Весной дикие олени уходят на север. А куропатки, они возвращаются с юга.
+
+\id S_ConverbsTypesSSconverbs1.01
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_0:24
+\tx Hịgịː dọːlịn              horedniken           mut    hụlịčam      ittit.
+\mb hịgịː dọː -(dU)LI -n(I)     hor -E-D     -nIkEn  mut    hụlịčan -W   it  -RI  -t(I)
+\ge forest     inside -prol   -poss.3sg go  -ep-prog -sim.cvb1pl.in fox          -acc see -pst -poss.1pl.in
+\ft
+\ru Когда мы шли через лес, мы видели лису.
+\ph hịgị - second vowel not particularly long; 
+\gr
+\nt elicited with Ekaterina Shadrina 18.02.08, sebjan180208_3:48
+\tx Hịgịː dọːlịn                horedniken            mut    hụlịčam      ittit                 //
+\mb hịgịː dọː   -(dU)LI -n(I)     hor -E-D     -nIkEn   mut    hụlịčan -W   it  -RI  -t(I)        //
+\ge forest     contents -prol   -poss.3sg go  -ep-prog -sim.cvb 1pl.in fox          -acc see -pst -poss.1pl.in //
+
+\tx ittep.
+\mb it  -R(E)   -p
+\ge see -nonfut -1pl.in
+\ft
+\gr ittit = videli, ittep = "uvideli, nastojashee vremja"
+
+\id S_ConverbsTypesSSconverbs1.02
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_0:54
+\tx Čaːj hiludniken           nọŋan gazetaw          taŋaddịn.
+\mb čaːj hilu  -D    -nIkEn   nọŋan gazeta      -W   taŋ -E-D     -RI  -n(I)
+\ge tea.R  drink -prog -sim.cvb 3sg      newspaper.R -acc read -ep-prog -pst -poss.3sg
+\ft
+\ru Пивая чай, он читал газету. (Читая газету, он пил чай.)
+\ph hiludnikan - the final vowel was quite back, and very short
+\gr
+\nt At first he started off with "gazetaw taŋadnịkan", then he gave the following sentence in 1SG:
+\tx Čaːjụ   hiludniken           bi   gazetaw          taŋrịw.
+\mb čaːj -W   hilu  -D    -nIkEn   biː gazeta      -W   taŋ -RI  -W
+\ge tea.R  -acc drink -prog -sim.cvb 1sg  newspaper.R -acc read -pst -poss.1sg
+\ft
+\ru Пивая чай, я читал газету.
+\ph hulidniken - obviously a little error, due to the ụ of the Accusative case preceding.
+\gr
+\nt elicited with Ekaterina Shadrina 18.02.08, sebjan180208_4:45
+\tx Gazetaw          taŋadnịkan          nọŋan čaju       kọladdịn.
+\mb gazeta      -W   taŋ -E-D     -nIkEn   nọŋan čaːj -W   kọl -E-D     -RI  -n(I)
+\ge newspaper.R -acc read -ep-prog -sim.cvb 3sg      tea.R  -acc drink -ep-prog -pst -poss.3sg
+\ft
+\nt At first said as above, but then said it should be "gazetaw taŋnịkan"
+
+\id S_ConverbsTypesSSconverbs1.03
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_2:14
+\tx Gazetaw          taŋnịdʒị nọŋan gurgelej                 horrin.
+\mb gazeta      -W   taŋ -RIdʒI   nọŋan gurgeː -(dU)LE -J       hor -RI   -n(I)
+\ge newspaper.R -acc read -ant.cvb  3sg      work    -loc    -prfl.sg go  -pst  -poss.3sg
+\ft
+\ru Прочитав газету, он пошел на работу.
+\ph herrin at first, when he repeated, said hərrin
+\gr
+\nt elicited with Ekaterina Shadrina 18.02.08, sebjan180208_5:41
+\tx Gazetaw          taŋnịdʒị nọŋan gurgeːwčinerin.
+\mb gazeta      -W   taŋ -RIdʒI   nọŋan gurgeːwči -nE     -RI  -n(I)
+\ge newspaper.R -acc read -ant.cvb  3sg      work        -intent -pst -poss.3sg
+
+\id S_ConverbsTypesSSconverbs1.04
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_2:47
+\tx Kụŋal    urokur              ọːrịdʒụr    moːw      ụjụkatnamị             horritnen.
+\mb kụŋa -L  urok       -WUr     ọː  -RIdʒI  -L  moː  -W   ụjụkat -nE     -mI       hor -RI    -tEn
+\ge child   -pl homework.R -prfl.pl become -ant.cvb -pl water -acc bathe   -intent -cond.cvb    go   -pst   -poss.3pl
+
+\ft
+\ru Сделав уроки, дети пошли купаться.
+\ph ọːrịdʒịr ++ ụjụχatnamị ++ hərritnen
+\gr sounds as if he at first said hərrir, which would be the 3PL marker for the Fut and Nonfut indicative; or as if he said
+hərril, which would make it seem as if it was the imperfect participle with normal plural marker.  
+\nt At first he said hupkučaki instead of urokur, and the possessive reflexive he only added to the uroki after prompting by
+Raisa Kuzmina.
+
+\id S_ConverbsTypesSSconverbs1.05
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_4:32
+\tx Ịbgọt hupkutmi         tụŋŋam     gadʒịnnị.
+\mb ịbgọt hupkut -mI       tụnŋan -W   ga   -DʒI -nrI
+\ge good      learn  -cond.cvb five      -acc take -fut  -2sg
+
+\ft
+\ru Если ты хорошо учишься, то получишь пятерку.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_0:50
+\tx Ịbgọt tadmị,        tụŋŋam     gadʒịnnị.
+\mb ịbgọt tat   -mI       tụnŋan -W   ga   -DʒI -nrI
+\ge good      learn -cond.cvb five      -acc take -fut  -2sg
+
+\id S_ConverbsTypesSSconverbs1.06
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_5:04
+\tx Nọŋartan badịč   hermi         hiečen    edlen                  ọːra         emdʒir.
+\mb nọŋartan badʒịč hor -mI       hiːsečin e   -dle     -n(I)     ọː  -R       em   -DʒI -r
+\ge 3pl         early      go  -cond.cvb evening    neg -trm.cvb -poss.3sg become -neg.cvb come -fut  -3pl
+\ft
+\ru Если они рано уедут, то успеют приехать до вечера.
+\ph badịš ++ hermi --> very clearly e, not u; at first said something like "siechel", and then Raisa Kuzmina prompted him to
+say hieche; he later on repeated it and it sounded like hiecheN, 
+\gr
+\nt elicited with Ekaterina Shadrina 18.02.08, sebjan180208_6:05
+\tx Nọŋartan badịč   badịkar   herrekednen,               nọŋartan hiehečen  edlen
+\mb nọŋartan badʒịč badʒịkar hur -REk      -E-tEn       nọŋartan hiːsečin e   -dle     -n(I)
+\ge 3pl         early      morning     go  -cond.cvb -ep-poss.3pl 3pl         evening    neg -trm.cvb -poss.3sg
+
+\tx ọːra         emdʒir.
+\mb ọː  -R       em   -DʒI -r
+\ge become -neg.cvb come -fut  -3pl
+\ft
+\nt At first she said "herreketen", then corrected herself "opjat' po-literaturnomu skazala", also said "hiːsečin" at first, but
+corrected that as well for being a literary word.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_1:30
+\tx Erde    hermi,        hiečen    edlen                  ọːra         emdʒir.
+\mb erde    hor -mI       hiːsečin e   -dle     -n(I)     ọː  -R       em   -DʒI -r
+\ge early.Y go  -cond.cvb evening    neg -trm.cvb -poss.3sg become -neg.cvb come -fut  -3pl
+\nt Said that she never knew how to say "early" in Even, knows only the Sakha word.
+
+\id S_ConverbsTypesSSconverbs1.07
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_6:33
+\tx Dʒụːlaj               emnidʒi      ebiet   teːwgererem.
+\mb dʒụː -(dU)LE -J       em   -RIdʒI  obed    teːw    -Gr(E) -R(E)   -m
+\ge house    -loc    -prfl.sg come -ant.cvb lunch.R put.down -hab   -nonfut -1sg
+
+\ru Как только я прихожу домой я начинаю приготовить обед.
+\ph teːwgərərəm
+\gr In the beginning he said emmi
+\nt At first he appeared to say ebietemu, i.e. with an epenthetic vowel and then POSS.1SG, though it should have been
+ebietu, or even more correct ebieti
+\qu
+\nt elicited with Ekaterina Shadrina 18.02.08, sebjan180208_7:53
+\tx Dʒụːdị          emnidʒi      bi   dʒeblew       iriwrerem.
+\mb dʒụː -DI          em   -RIdʒI  biː dʒeb -LE -W   iri  -Gr(E) -R(E)   -m
+\ge house    -dat.prfl.sg come -ant.cvb 1sg  eat   -nr -acc cook -hab   -nonfut -1sg
+\gr (sebjan180208_10:16) dʒeblew iriwrerem = ja nachinaju gotovit'; ja nachinala gotovit' = biː dʒeblew iridej nekeddiw
+(niekeddiw)
+\nt
+\nt On 19.02.08 I elicited a few more sentences to understand the -wre suffix - it appears to be a variant of the habitual
+suffix -Gr(E), they do not occur in the same contexts: sebjan190208_4:05
+\tx dʒeblew       iriwrerem
+\mb dʒeb -LE -W   iri  -Gr(E) -R(E)   -m
+\ge eat   -nr -acc cook -hab   -nonfut -1sg
+\ru я готовлю пищу
+\ph
+\tx hiː dʒeblew       iriwrenni
+\mb hiː dʒeb -LE -W   iri  -Gr(E)      -nrI
+\ge 2sg  eat   -nr -acc cook -hab.nonfut -2sg
+\ru ты готовишь пищу
+\ph dʒePlew when repeating slowly
+\gr
+\tx Biː upeːw                dʒeblew       iriweːtten                eńmu            esni
+\mb biː upeː       -W        dʒeb -LE -W   iri  -WEːČ -R(E)   -n(I) eńin  -W        e   -R(E)   -n(I)
+\ge 1sg  grandmother -poss.1sg eat   -nr -acc cook -gnr    -nonfut -3sg  mother -poss.1sg neg -nonfut -3sg
+
+\tx iriwrer.
+\mb iri  -Gr(E) -R
+\ge cook -hab   -neg.cvb
+\ru Моя бабушка всегда готовит, а мама не умеет.
+\ph she said esni, but agreed that here they would say ehni
+\gr
+\tx dʒeblew       iriwrerin
+\mb dʒeb -LE -W   iri  -Gr(E) -RI  -n(I)
+\ge eat   -nr -acc cook -hab   -pst -poss.3sg
+\ru Он готовил (все время, часто, не один раз)
+\ph
+\tx Nọŋan omnekenńun           iririn.
+\mb nọŋan omen -REkEn    =ńUn  iri  -RI  -n(I)
+\ge 3sg      one  -iter.adv =restr cook -pst -poss.3sg
+
+\ru Он только один раз готовил
+\ph
+\tx hiː iriwrenni
+\mb hiː iri  -Gr(E)      -nrI
+\ge 2sg  cook -hab.nonfut -2sg
+\ru ты всегда готовишь
+\ph
+\tx hiː iriwreris
+\mb hiː iri  -Gr(E) -RI  -s(I)
+\ge 2sg  cook -hab   -pst -poss.2sg
+\ru ты всегда готовил
+\ph iriwreriS with clear -s
+\gr
+\tx taŋgararam
+\mb taŋ -Gr(E) -R(E)   -m
+\ge read -hab   -nonfut -1sg
+\ru я всегда читаю (газету)
+\gr taŋgaram is the same; *taŋawraram is not possible
+\nt
+\tx iriwredʒim
+\mb iri  -Gr(E) -DʒI -m
+\ge cook -hab   -fut  -1sg
+\ru буду готовить
+\ph
+\tx horuwrerem
+\mb hor -U      -Gr(E) -R(E)   -m
+\ge go  -trns?? -hab   -nonfut -1sg
+\ft I carry
+\ru ношу (вещь)
+\ph
+\tx horgererem
+\mb hor -Gr(E) -R(E)   -m
+\ge go  -hab   -nonfut -1sg
+\ru я хожу
+\ph
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_1:50
+\tx Dʒụːlaj               emnikkeːndʒi                   ebietu       iriwrerem.
+\mb dʒụː -(dU)LE -J       em   -RI       -KEn -DʒI        obed    -W   iri  -Gr(E) -R(E)   -m
+\ge house    -loc    -prfl.sg come -impf.ptc -dim -ins.prfl.sg lunch.R -acc cook -hab   -nonfut -1sg
+
+\id S_ConverbsTypesSSconverbs1.08
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_7:15
+\tx Emmi           muttule        dʒụːmalda.
+\mb em   -mI       mut    -(dU)LE dʒụːma -(LI)lrE
+\ge come -cond.cvb 1pl.in -loc    visit      -imp.2pl
+\ft
+\ru Как только вы приедете, приходите к нам в гости.
+\ph
+\gr It appears as if -lda might be an idiosyncratic or local form of the 2PL IMP form -lra.
+\nt
+\nt elicited with Ekaterina Shadrina 18.02.08, sebjan180208_8:38
+\tx Huː emnekehnen                  muttule        holnemi         emelde           // dʒụːmalda.
+\mb huː em   -REk      -E-sEn       mut    -(dU)LE holne -mI       em   -E-(LI)lrE  // dʒụːma    -(LI)lrE
+\ge 2pl  come -cond.cvb -ep-poss.2pl 1pl.in -loc    visit -cond.cvb come -ep-imp.2pl //      visit -imp.2pl
+\ft
+\ph hölnemi
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_2:20
+\tx Emnikkeːndʒur                   muttule        dʒụːmaŋahnan.
+\mb em   -RI       -KEn -dʒUr        mut    -(dU)LE dʒụːma -ŋE     -sEn
+\ge come -impf.ptc -dim -ins.prefl.pl 1pl.in -loc    visit      -pol.imp -poss.2pl
+
+\ft
+\nt On 07.03.08 I checked the Immediate Precedence converb (cf. immediate_precedence_converb_sebjan); it really is the
+case that in DS function it takes Possessive markers, but in SS function it takes the Possessive Reflexive Instrumental
+marker; it appears to consist of the Imperfective Participle plus possibly the Diminutive suffix. However, previously, the
+DS forms seemed to consist of only the Impf.Ptcp-Dim-Poss marking, while the forms she gave on 07.03. seemed to
+contain the Future suffix between the Diminutive and the person marking.
+
+\id S_ConverbsTypesSSconverbs1.09
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_7:45
+\tx Tọgụ   duruli         ebietu       neːdewur.
+\mb tọg -W   duru  -LI      obed    -W   neː -DE       -WUr
+\ge fire  -acc light -imp.2sg lunch.R -acc put  -purp.cvb -prfl.pl
+\ft
+\ru Зажги печь чтобы приготовить обед.
+\ph togu with a clear voiced velar g
+\gr Interesting, 2SG imperative, and PL possessive reflexive.
+\nt
+\nt elicited with Ekaterina Shadrina 18.02.08, sebjan180208_11:16
+\tx Tọgụ   duruli         dʒeblew       iridej.
+\mb tọg -W   duru  -LI      dʒeb -LE -W   iri  -DE       -J
+\ge fire  -acc light -imp.2sg eat   -nr -acc cook -purp.cvb -prfl.sg
+\ph tọgụ with clear voiced velar
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_2:40
+\tx Ọhọkụ   duruli         ebietu       iridej.
+\mb ọhọk -W   duru  -LI      obed    -W   iri  -DE       -J
+\ge stove.Y  -acc light -imp.2sg lunch.R -acc cook -purp.cvb -prfl.sg
+
+\id S_ConverbsTypesSSconverbs1.10
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_8:10
+\tx Mut    kartoškaw     garịt                hilu  teːwdewur                  //  iridewur.
+\mb mut    kartoška -W   ga   -RI  -t(I)        hilu  teːw    -DE       -WUr     *// iri  -DE       -WUr
+\ge 1pl.in potatoe.R -acc take -pst -poss.1pl.in drink put.down -purp.cvb -prfl.pl *** cook -purp.cvb -prfl.pl
+\ft
+\ru Мы купили картошку чтобы сварить суп.
+\ph deːγdewur -- I at first thought it was degdewur, similar to the Kamchatkan way of pronouncing the g before voiced
+consonants; but I think that it must have been teːwdewur, postavit' (varit')
+\gr
+\nt elicited with Ekaterina Shadrina 18.02.08, sebjan180208_12:00
+\tx Mut    kartoškaw     garap                hilu      iridej.
+\mb mut    kartoška -W   ga   -R(E)   -p      hil  -W   iri  -DE       -J
+\ge 1pl.in potatoe.R -acc take -nonfut -1pl.in soup -acc cook -purp.cvb -prfl.sg
+
+\gr Even though I asked "iridej ili iridewur" she stuck to iridej
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_2:52
+\tx Mut    kartoškaw     garap                hilu      irideːr.
+\mb mut    kartoška -W   ga   -R(E)   -p      hil  -W   iri  -DE       -WUr
+\ge 1pl.in potatoe.R -acc take -nonfut -1pl.in soup -acc cook -purp.cvb -prfl.pl
+
+\id S_ConverbsTypesSSconverbs1.12
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_9:00
+\tx Petroval      er   ineŋew       dʒeblewur         dʒebnidʒur       tịmana   at  dʒeble   ọːdʒịr.
+\mb Petrov -E-L   erek ineŋ -E-W    dʒeb -LE -WUr     dʒeb -RIdʒI  -L  tịmịna ač dʒeb -LE ọː  -DʒI -r
+\ge Petrov -ep-pl prox day   -ep-acc eat   -nr -prfl.pl eat   -ant.cvb -pl tomorrow   neg eat   -nr become -fut  -3pl
+
+\ft
+\ru Так как Петровы сегодня все в доме съели, они завтра будут голодными.
+\ph ineŋəw
+\gr Very weird, because he at first gave forms that were very odd and different, namely dʒebleŋur instead of dʒeblewur, and
+dʒebehenidʒur, dʒebenehidʒur, dʒebenehdʒir instead of dʒebnidʒur. Also odd: if dʒeble is a noun derived from dʒeb 'to
+eat', then the Privative form should actually be at dʒeblele, shouldn't it?
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_3:25
+\tx Petroval      erew      ineŋu     dʒụːla       bekebben                 dʒepčel,        teːmi    nọŋartan
+\mb Petrov -E-L   erek -W   ineŋ -W   dʒụː -(dU)LE bekeč -W   -E-n(I)      dʒeb -čE    -L  teːmi    nọŋartan
+\ge Petrov -ep-pl prox -acc day   -acc house    -loc    all    -acc -ep-poss.3sg eat   -pf.ptc -pl therefore 3pl
+
+\tx tịmana   dʒebemdʒir.
+\mb tịmịna dʒeb -E-m    -DʒI -r
+\ge tomorrow   eat   -ep-des -fut  -3pl
+\ft
+\gr (sebjan040308_ija_4:10) dʒebemdʒir = oni budut golodat'; dʒebehmem = ja xoču kušat'; *dʒebehmedʒir =
+ungrammatical; dʒebemdʒim = ja budu golodat';  Ija Krivoshapkina explained the form "dʒebehmem" as metathesis,
+but I'm not sure what is metathesized there does not seem to be a suffix -msE; she compared it to "bihem, ehem", but
+there the -h- is just the Nonfuture suffix; on 06.03.08 I checked the Desiderative form again (no recording), and "oni
+xotjat kušat' " = dʒebehme, i.e. with zero Nonfuture and person marking --> this makes it seem as if there are here
+two Desiderative suffixes, -m- and -hme-
+\nt since in ConverbsComplex2.23 Keti gave beketben, I think one can safely assume that bekebben(de) is the assimilated
+version of bekečben --> beketben --> bekebben
+
+\id S_ConverbsTypesSSconverbs1.14
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_10:15
+\tx Nọŋan haːbdị bimi         họː ịbgọt     tụrkịč    beːkeren.
+\mb nọŋan hagdị   bi -mI       họː ịbgọ -Č  tụrkị -Č  beːke -R(E)   -n(I)
+\ge 3sg      old       be -cond.cvb very   good     -ins sled      -ins ??     -nonfut -3sg
+
+\ru Хотя он стар, он хорошо ходит на лыжах.
+\ph ịbgat + tụrkịš
+\gr I think that beːkeren might be a contracted form of biwekkeren, but am not sure-
+\nt
+\nt elicited with Ekaterina Shadrina 18.02.08, sebjan180208_12:27
+\tx Nọŋan haːwdịda  bihiklej           mereŋtet       biwekkeren.
+\mb nọŋan hagdị =DE  bi -hikle -J       mereŋteː -Č  bi -WEːČ -Gr(E)      -n(I)
+\ge 3sg      old     =ptl be -conc  -prfl.sg skis       -ins be -gnr    -hab.nonfut -3sg
+
+\ft
+\ph biwəkkeren --> this makes the analysis of -wek- as the generic suffix somewhat dubious, doesn't it?
+\nt On 19.02.08 I did a bit of elicitation to find out what the forms bihiklej and biwekkeren might be (I only analyzed them
+as above after this elicitation session): sebjan190208_10:35
+\tx haːwdịda  bihiklej
+\mb hagdị =DE  bi -hikle -J
+\ge old     =ptl be -conc  -prfl.sg
+
+\ru хоть и старый
+\gr
+\tx biː haːwdịda  bihiklej           gurgeːwčiwrerem
+\mb biː hagdị =DE  bi -hikle -J       gurgeːwči -Gr(E) -R(E)   -m
+\ge 1sg  old     =ptl be -conc  -prfl.sg work        -hab   -nonfut -1sg
+
+\ru Хотя я старая, но еще работаю.
+\gr
+\tx hiː haːwdịda  bihiklej
+\mb hiː hagdị =DE  bi -hikle -J
+\ge 2sg  old     =ptl be -conc  -prfl.sg
+
+\ru хотя ты старый
+\gr
+\tx Nọŋartan họːjada    kụŋalkahal      bihiklewur         ńanda      kụŋaw
+\mb nọŋartan họːja =DE  kụŋa -lkEn -SEl bi -hikle -WUr     ńaːn =DE  kụŋa -W
+\ge 3pl         many     =ptl child   -prop -pl  be -conc  -prfl.pl again  =ptl child   -acc
+
+\tx baldụkahma.
+\mb balda   -WkEn -m
+\ge be.born -caus -des.nonfut.3pl
+\ru Хотя у них много детей, они хотят еще больше.
+\gr biː kụŋaw baldụkahmam = ja xochu rodit'; hiː baldụkahmannị --> balda-WkEn-??-R(E)-personmarking; it looks as if
+the -m- could be the Desiderative suffix, but what is the -h-?? --> on 20.02.08 I checked this, and it would seem as if
+here the Desiderative is -hmE-, with zero Nonfuture marking, cf. below
+\nt
+\nt As to the funny verb biwekkeren, I am not entirely sure, but it seems as if it might be a conjunction of the generic and
+the habitual suffix; Robbek says that biweːttej = slonjat'sja, shatat'sja, razgulivat', amongst others, so it does also have a
+nuance of 'xodit'
+\tx bi   mereŋtet       biwekkererem
+\mb biː mereŋteː -Č  bi -WEːČ -Gr(E) -R(E)   -m
+\ge 1sg  skis       -ins be -gnr    -hab   -nonfut -1sg
+\ru я хожу на лыжах
+\ph
+\tx nọŋan mereŋtet       biwekkeren
+\mb nọŋan mereŋteː -Č  bi -WEːČ -Gr(E)      -n(I)
+\ge 3sg      skis       -ins be -gnr    -hab.nonfut -3sg
+\ru он ходит на лыжах
+\ph
+\tx hiː mereŋtet       biwekkerenni
+\mb hiː mereŋteː -Č  bi -WEːČ -Gr(E)      -nrI
+\ge 2sg  skis       -ins be -gnr    -hab.nonfut -2sg
+\ft
+\nt On 20.02.08 I clarified the Proprietive and the Desiderative (sebjan200208_3:00)
+\tx nọŋartan họːja kụŋalkahal
+\mb nọŋartan họːja kụŋa -lkEn -SEl
+\ge 3pl         many     child   -prop -pl
+\ru у них много детей, они имеют много детей
+\ph
+\tx bi   họːja kụŋalkan   bihem
+\mb biː họːja kụŋa -lkEn bi -R(E)   -m
+\ge 1sg  many     child   -prop be -nonfut -1sg
+\ru у меня много детей, я имею много детей
+\ph
+\tx hiː họːja kụŋalkan   bihenni
+\mb hiː họːja kụŋa -lkEn bi -R(E)   -nrI
+\ge 2sg  many     child   -prop be -nonfut -2sg
+\ru у тебя много детей
+\ph
+\tx nọŋartan họːja ọrọlkahal
+\mb nọŋartan họːja ọrọn          -lkEn -SEl
+\ge 3pl         many     domestic.reindeer -prop -pl
+\ru у них много оленей
+\ph
+\gr She felt that her mother would say the 3PL form without a copula, but the 1PL would take the copula.
+\tx mut    họːja ọrọlkahal                bihep
+\mb mut    họːja ọrọn          -lkEn -SEl bi -R(E)   -p
+\ge 1pl.in many     domestic.reindeer -prop -pl  be -nonfut -1pl.in
+\ru у нас много оленей
+\ph
+\nt sebjan200208_9:14:
+\tx kụŋaw     baldụkahma
+\mb kụŋa -W   balda   -WkEn -m
+\ge child   -acc be.born -caus -des.nonfut.3pl
+\ru они хотят родить
+\ph
+\tx kụŋaw     baldụkahmam
+\mb kụŋa -W   balda   -WkEn -m   -R(E)   -m
+\ge child   -acc be.born -caus -des -nonfut -1sg
+
+\ru я хочу родить
+\ph
+\tx biː dʒebehmem
+\mb biː dʒeb -E-m    -R(E)   -m
+\ge 1sg  eat   -ep-des -nonfut -1sg
+
+\ru я хочу кушать
+\ph
+\tx biː huglehmem
+\mb biː hukle -m   -R(E)   -m
+\ge 1sg  sleep -des -nonfut -1sg
+
+\ru я хочу спать
+\ph
+\tx hiː huglehmenni
+\mb hiː hukle -m   -R(E)   -nrI
+\ge 2sg  sleep -des -nonfut -2sg
+
+\ru ты хочешь спать
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_3:55
+\tx Haːwdịda  bihiklej,             nọŋan mereŋtet       //  kańahaːrat        ịbgat
+\mb hagdị =DE  bi -hIk(le)  -J       nọŋan mereŋteː -Č  *// kańahaːr -E  -Č  ịbgọt
+\ge old     =ptl be -conc.cvb -prfl.sg 3sg      skis       -ins *** skis.Y     -ep -ins good
+
+\tx biweːkkeren.
+\mb bi -WEːČ -Gr(E)      -n(I)
+\ge be -gnr    -hab.nonfut -3sg
+
+\id S_ConverbsTypesSSconverbs1.15
+\ref elicited with Ivan Nikiforovich Krivoshapkin, 16.02.08; sebjan160208_11:01
+\tx Adụkụm      gurgeːwčiridʒur       ọbdača         bisenni.
+\mb adụkụn -W   gurgeːwči -RIdʒI  -L  ọbda    -čE    bi -R(E)   -nrI
+\ge little     -acc work        -ant.cvb -pl get.tired -pf.ptc be -nonfut -2sg
+
+\ru Хотя вы мало работали, вы устали.
+\ph ọbdača was pronounced with a very back and quite unrounded vowel, more like abdača than obdača, a bit like Danish
+Arhus
+\gr mismatch between the PL form of the converb, and the 2SG form of the verb....
+\nt
+\nt elicited with Ekaterina Shadrina 18.02.08, sebjan180208_13:42
+\tx Kotlenette        gurgeːwčiridʒur       huː abdụča         bihes.
+\mb kotlen =et   =DE  gurgeːwči -RIdʒI  -L  huː ọbda    -čE    bi -R(E)   -s
+\ge small  =emph =ptl work        -ant.cvb -pl 2pl  get.tired -pf.ptc be -nonfut -2pl
+
+\ph Even dictating slowly she said abdụča, not abdača or ọbdača
+\nt She clearly said kotlenešte on 18.02.08, but then when I tried to clarify the form (cf. below) on 19.02.08 she said it
+should be kotlenette, so that I have now analyzed this as two particles, the emphatic and the particle =DE which
+functions in concessive sentences as well
+\gr
+\nt On 19.02.08 I did some elicitation to check what "kotlenešte" could be: sebjan190208_15:10
+\tx bi   kotlenette        gurgeːwčiridʒi
+\mb biː kotlen =et   =DE  gurgeːwči -RIdʒI
+\ge 1sg  small  =emph =ptl work        -ant.cvb
+\ft
+\ru хотя я мало работала
+\ph
+\tx hiː kotlenette        gurgeːwčiridʒi
+\mb hiː kotlen =et   =DE  gurgeːwči -RIdʒI
+\ge 2sg  small  =emph =ptl work        -ant.cvb
+\ru хотя ты мало работал
+\ph
+\tx mut    kotlenette        gurgeːwčiridʒur
+\mb mut    kotlen =et   =DE  gurgeːwči -RIdʒI  -L
+\ge 1pl.in small  =emph =ptl work        -ant.cvb -pl
+\ru хотя мы мало работал

@@ -1,0 +1,273 @@
+\_sh v3.0  557  Text
+
+\id Tylkanova_NA_blue_eyes_000_metadata
+\ref Recorded on 13 June 2009 in Esso by Natalia Aralova and Brigitte Pakendorf. NAT came to the house that BP and NA
+were renting; we first had tea together where she chatted with us, then BP and NAT went into the living room, where the
+recording took place; NA stayed in the kitchen, where she was not visible to NAT. A first attempt at a narrative was
+interrupted by a mobile phone ringing, after which all phones were switched off and the narrative was started anew.
+Other than an occasional truck going by on the street outside there are no extraneous sounds. NAT told four little
+stories (each around 2 minutes in length) in Even; after narrating each of the stories, she renarrated it in Russian (with
+more details, actually, than in the Even version). The Russian versions consitute a separate sound and video file. The
+four narratives are archived as separate sessions. This is the last little narrative that was given when NAT was actually
+already getting ready to go.
+\qu Transcribed by BP with Rimma Maksimovna Egorovna, translated into Russian by RME, glossed by BP. Funding by the
+Volkswagen Foundation (DoBeS grant). Speaker abbreviation = NAT
+\ref Natalija Aleksandrovna Tylkanova was born in early June 1951, so
+she was 58 at the time of the recording. She has a college-level
+education and works as a kindergarten teacher. Her father was
+Chuvash, and she is married to a Russian, speaks Russian with her
+husband and children and felt that her Russian was more fluent than
+her Even.
+\tx
+
+\id Tylkanova_NA_blue_eyes_001
+\tx Russian
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:07.690
+\ELANParticipant
+\ev
+\ru
+
+\id Tylkanova_NA_blue_eyes_002
+\tx Russian
+\ELANBegin 00:00:07.690
+\ELANEnd 00:00:09.140
+\ELANParticipant
+\ev
+\ru
+
+\id Tylkanova_NA_blue_eyes_003
+\tx Tiːtel  tadụtịtta   rybalkadụ         bidmi              Egor Ivanič   emnin,              uŋduk
+\mb tiːtel  tarak -DU  =tIt rybalka        -DU  bi -D    -mI       Egor Ivanovič em   -RI  -n(I)     uŋ       -DUk(U)
+\ge long.ago dist  -dat =ptl fishing.camp.R -dat be -prog -cond.cvb Egor Ivanovich come -pst -poss.3sg something -abl
+
+\tx tar   Twajaːndụk.
+\mb tarak Twajaːn -DUk(U)
+\ge dist  Twajaːn -abl
+\ft A long time ago, (while I was) in that same fishing camp, Egor Ivanovich came from Twajan.
+\ph
+\gr This is syntactically incorrect, she uses the SS converb -mI while referring to herself, and then as a different subject, Egor Ivanich, in
+the main clause; the correct form would be "rybalkadụ biddekun, E.I. emnin" 'while I was at the rybalka, E.I came'
+\ELANBegin 00:00:09.140
+\ELANEnd 00:00:16.950
+\ELANParticipant
+\ev
+\ru Давно, там же, на той же рыбалке, Егор Иванич приехал откуда, из Тваяна.
+
+\id Tylkanova_NA_blue_eyes_004
+\tx Nan    biː kučuken bimi         nọŋman               nọŋandụn           amardadụn
+\mb ńaːn biː kočuken bi -mI       nọŋan -W   -n(I)     nọŋan -DU  -n(I)     amar   -gIdE -DU  -n(I)
+\ge and    1sg  small    be -cond.cvb 3sg      -acc -poss.3sg 3sg      -dat -poss.3sg behind -part -dat -poss.3sg
+
+\tx bọddọčịdʒaːnnịwụ,        nọŋanịsị   elgečịddịn.
+\mb bọd  -Č  -E-dʒEːn -RI -W         nọŋan -E=sI    elge      -Č  -E-D     -RI  -n(I)
+\ge follow -res -ep-dur    -pst -poss.1sg 3sg      -ep=emph pole.hook -res -ep-prog -pst -poss.3sg
+
+\ft I was small and I followed after him; he however was fishing with a pole.
+\ph bọddọčịdʒeːne (repeated by Rimma Maksimovna at first as bọddọčịdʒeːnịwụ with very e-like Durative; then again slowly repeated
+with very clear a in suffix)
+\gr (trans.file Tylkanova_quest270609, 22:25) bọddọčịdʒeːnniwu = ja, malen'kaja, xodila za nim; biː bọddam = ja idu za nim,
+bọddačịdʒaːnnịwụ= ja xodila za nim, and RME again clearly pronounced bọd-dọ-čị-dʒeːnnịwụ; *bọddọram = netu, bọddọːttam = ja
+vsegda xožu za nim, bọddọčịddʒọːttam = ja VSEGDA sled za nim xožu --> I think that the mysterious -dọt- might be an unusal
+allomorph of the Resultative suffix, especially given the form that RME volunteered, bọddọTkatčọːttam (see Tylkanova_blue_eyes_04,
+where there is a similar form and similar elicitation around it)
+\ELANBegin 00:00:16.950
+\ELANEnd 00:00:24.760
+\ELANParticipant
+\ev
+\ru И я была маленькая, за ним ходила, а он мариком рыбу ловил.
+
+\id Tylkanova_NA_blue_eyes_005
+\tx Elgečidden                             esemde                dʒọŋčịr            ịawụt
+\mb elge      -Č  -E-D     -R(E)   -E-n(I) e   -R(E)   -m   =DE  dʒọn  -(k)čI -R       ịak =(W)UttE
+\ge pole.hook -res -ep-prog -nonfut -ep-3sg neg -nonfut -1sg =ptl remember -dur    -neg.cvb what  =indef
+
+\tx maːrịngụ           ịarịnda                 epkeningu                 ịarịngu
+\mb maː -RI  -n(I)     =GU ịa    -RI  -n(I)     =DE  hepken -RI  -n(I)     =GU ịa    -RI  -n(I)     =GU
+\ge kill -pst -poss.3sg =q  do.what -pst -poss.3sg =ptl catch  -pst -poss.3sg =q  do.what -pst -poss.3sg =q
+
+\tx esemde                 aːr.
+\mb e   -R(E)   -m    =DE  haː -R
+\ge neg -nonfut -mult =ptl know -neg.cvb
+\ft He fished with a hook, and I don't remember, did he kill something, did he catch something, what he did I do not know.
+\ELANBegin 00:00:24.760
+\ELANEnd 00:00:30.890
+\ELANParticipant
+\ev
+\ru Ловил рыбу и я не помню, что-то он убил, что-то поймал, что делал я не знаю.
+
+\id Tylkanova_NA_blue_eyes_006
+\tx Iːčče egdʒeneː    ọkaːt umekič ee ụːnta  ọːn tada       itčoːttemteken                  ọllamkaral
+\mb Ičča   egdʒen =eː  ọkaːt umekič ee hụːnta ọːn tarak =DE  it  -WEːČ -R(E)   -m   =t(E)kEn ọlra -mkEr -E-L
+\ge Icha     big     =emph river    very    eh deep      how    dist  =ptl see -gnr    -nonfut -1sg =restr   fish   -aug  -ep-pl
+
+\tx egdʒemkerel         eːweːčke          eče,       egdʒel     ečin      tadụ     uŋi...
+\mb egdʒen -mkEr -E-L   eːweːč      =kE   e   -čE    egdʒen -L  erroːčin tarak -DU  uŋ -
+\ge big     -aug  -ep-pl Chinook.salmon =emph neg -pf.ptc big     -pl prox.qual  dist  -dat do  -
+
+\tx uŋiddʒoːtten,                  ọkaːtla       biweːtten.
+\mb uŋ -E-D     -WEːČ -R(E) -n(I)  ọkaːt -(dU)LE bi -WEːČ -R(E) -n(I)
+\ge do  -ep-prog -gnr    -nonfut -3sg river    -loc    be -gnr    -nonfut -3sg
+\ft The Icha is a very big and deep river, all that I can see there are big fish, probably Chinook salmon, such big ones were in the river.
+\ph
+\gr (transl.file Tylkanova_quest_270609, 25:05) eče = eč, has a meaning of 'probably', but has only nouns under it's scope, while kọč has
+verbs under its scope, the full expression is eč bise, but bise is dropped; this sort of rings a bell, I seem to remember that in Sebjan
+there is an expression like 'enni bise' or so with a meaning of 'probably', but I cannot find it
+\ELANBegin 00:00:30.890
+\ELANEnd 00:00:45.280
+\ELANParticipant
+\ev
+\ru Ичча очень большая река и глубокая, я только там вижу больших рыб, наверно чавыча, такие большие в реке были.
+
+\id Tylkanova_NA_blue_eyes_007
+\tx Nan    ečin      elgečidmi                        minteki         ičịsnin                  nan    bisi
+\mb ńaːn erroːčin elge      -Č  -E-D     -mI       min     -t(E)kI it  -E-s(E)n -RI  -n(I)     ńaːn biː =sI
+\ge and    prox.qual  pole.hook -res -ep-prog -cond.cvb 1sg.obl -all    see -ep-lim  -pst -poss.3sg and    1sg  =emph
+
+\tx mịanịwụ               ịasalan             ịamị nan    ńọː....   tarọːčịnị čụlbańa.
+\mb mịan       -RI  -W        ịašal -E-n(I)      ịamị ńaːn ńọːbatị tarọːčịn    čụlbańa
+\ge be.surprised -pst -poss.1sg eyes     -ep-poss.3sg why      and    white         dist.qual         grue
+\ft And so, catching fish, he glanced at me and I was surprised, why are his eyes so blue.
+\ph ičin, mịanụ
+\gr
+\nt
+\ELANBegin 00:00:45.280
+\ELANEnd 00:00:53.430
+\ELANParticipant
+\ev
+\ru И вот, ловив рыбу, он на меня глянул, и я удивилась, почему у него глаза такие голубые.
+
+\id Tylkanova_NA_blue_eyes_008
+\tx Nan    mịanịdʒị       urriwu             ečiwu             ịawda         goːne.
+\mb ńaːn mịan       -RIdʒI  hor -RI  -W        e   -RI  -W        ịak -W   =DE  goːn -R
+\ge and    be.surprised -ant.cvb go  -pst -poss.1sg neg -pst -poss.1sg what  -acc =ptl say   -neg.cvb
+\ft And having gotten a surprise I left, I didn't say anything.
+\ph uldiwu --> is what it sounds like, but RME says it is just her way of pronouncing urriwu, there is no possible verb uldiwu that it
+could be
+\ELANBegin 00:00:53.430
+\ELANEnd 00:00:57.130
+\ELANParticipant
+\ev
+\ru И вот удивившись, ушла я и ничего не сказала.
+
+\id Tylkanova_NA_blue_eyes_009
+\tx Isi nanda       eniŋeːwu            Kọnna bičegli           Ịstapta     bičegli           tawụr
+\mb isi ńaːn =DE  eniŋeː    -W        Kọnna bi -čE    -g(E)lI Evstafij =DE  bi -čE    -g(E)lI tawụr
+\ge ??? and    =ptl grandmother -poss.1sg Konna   be -pf.ptc -com    Evstafij =ptl be -pf.ptc -com    this
+
+\tx toremečidden                     ọːna.
+\mb tore  -mEČ -E-D     -R(E) -n(I)  ọːn -E
+\ge speak -rec  -ep-prog -nonfut -3sg how    -ep
+
+\ft And then (in the evening) my grandmother was talking with Konna and Istap (who are dead now).
+\ph
+\gr Rimma Maksimovna didn't know what isi was supposed to be; however, looking at the video I wonder if it isn't a highly contracted
+version of iːsečin, and during the checking of questions on 270609 RME agreed that this is a possibility
+\nt
+\ELANBegin 00:00:57.130
+\ELANEnd 00:01:05.930
+\ELANParticipant
+\ev
+\ru И потом моя бабушка разговаривала с покойной Конной и с покойным Истапом разговаривали.
+
+\id Tylkanova_NA_blue_eyes_010
+\tx Goːn tala          Egor Ivanič   olloːttin,           tarawda         teːleŋnin             tačịnda
+\mb goːn tarak -(dU)LE Egor Ivanovič hollot -RI  -n(I)     tarak -W   =DE  teːleŋ -RI  -n(I)     tarọːčịn =DE
+\ge say   dist  -loc    Egor Ivanovich go     -pst -poss.3sg dist  -acc =ptl tell     -pst -poss.3sg dist.qual      =ptl
+
+\tx bidde,           tarbačịnda       kine     biweːtten,             ịak, ŋiː emnin,              ŋiː ọːn biddede
+\mb bi -D    -R(E)   tarọːčịn =DE  kino     bi -WEːČ -R(E) -n(I)  ịak  ŋiː em   -RI  -n(I)     ŋiː ọːn bi -D    -R(E)   =DE
+\ge be -prog -nonfut dist.qual      =ptl movies.R be -gnr    -nonfut -3sg what   who   come -pst -poss.3sg who   how    be -prog -nonfut =ptl
+
+\tx ibdiri tala          selọːla.
+\mb ibdiri tarak -(dU)LE selo.R    -(dU)LE
+\ge people dist  -loc    village.R -loc
+\ft They said, there Egor Ivanovich came (and left), and he told that, they live like that, there are such movies, who and what came, who
+lives how, the people in that village.
+\ph
+\gr RME said that tarbačịnda is not the correct word, should be tarọːčịnda (tarbač = in that case)
+\nt People who live in the fishing camps are quite remote from the wider world and are therefore very interested in all the little bits of
+news from the village, who is doing what, and even what movies were shown in the village clubhouse.
+\ELANBegin 00:01:05.930
+\ELANEnd 00:01:15.450
+\ELANParticipant
+\ev
+\ru Говорят, Егор Иванович приходил, и то-то рассказал, так-то живут, и такое это кино бывает, что, кто приехал, кто как живут
+население в том селе.
+
+\id Tylkanova_NA_blue_eyes_011
+\tx Nan... ịarịngụ              Egor Ivanič   tarak (stammers) ọllaŋgajị
+\mb ńaːn ịa    -RI  -n(I)     =GU Egor Ivanovič tarak stammers   ọlra -ŋ  -GE    -J
+\ge and    do.what -pst -poss.3sg =q  Egor Ivanovich dist  stammers   fish   -aln -desig -prfl.sg
+
+\tx bakrịngụ            ịarịngụ              ulgimiweːtte.
+\mb bak  -RI  -n(I)     =GU ịa    -RI  -n(I)     =GU ulgim -i      -WEːČ -R(E)
+\ge find -pst -poss.3sg =q  do.what -pst -poss.3sg =q  ask   -ipf??? -gnr    -nonfut
+
+\ft And they asked, did Egor Ivanovich find himself some fish or what did he do.
+\ELANBegin 00:01:15.450
+\ELANEnd 00:01:25.710
+\ELANParticipant
+\ev
+\ru Они спрашивали, нашел Егор Иванич себе рыбу, или что сделал.
+
+\id Tylkanova_NA_blue_eyes_012
+\tx Nan    bisi       goːnem            ọːna:
+\mb ńaːn biː =sI   goːn -R(E)   -m   ọːn -E
+\ge and    1sg  =emph say   -nonfut -1sg how    -ep
+
+\ft And I say
+\ELANBegin 00:01:25.710
+\ELANEnd 00:01:27.760
+\ELANParticipant
+\ev
+\ru И вот я говорю вот так:
+
+\id Tylkanova_NA_blue_eyes_013
+\tx Unbedʒi        Egor Ivaničịsan          ọːn čụːrịkač            ịasalịč     ịawda
+\mb hun     =bEdʒI Egor Ivanovič -E-sEn       ọːn čụːrịt -k    -E-Č   ịašal -E-Č   ịak -W   =DE
+\ge 2pl.obl =emph   Egor Ivanovich -ep-poss.2pl how    beads        -adjr -ep-ins eyes     -ep-ins what  -acc =ptl
+
+\tx ba   itčin.
+\mb *    it  -DʒI -n(I)
+\ge ***  see -fut  -3sg
+\ft But your Egor Ivanovich, how will he see anything with those beady eyes!
+\ph
+\gr
+\nt
+\ELANBegin 00:01:27.760
+\ELANEnd 00:01:34.260
+\ELANParticipant
+\ev
+\ru А ваш-то Егор Иванич как бусинками-глазами что-то увидет.
+
+\id Tylkanova_NA_blue_eyes_014
+\tx Nanda       taraw      ečil        ịawda         goːne         inimesčiweːttede                    esten       ịawda
+\mb ńaːn =DE  tarak -W   e   -RI  -L  ịak -W   =DE  goːn -R       inim  -E  -sčI  -WEːČ -R(E)   =DE  e   -R(E)   ịak -W   =DE
+\ge and    =ptl dist  -acc neg -pst -pl what  -acc =ptl say   -neg.cvb smile -ep -conat -gnr    -nonfut =ptl neg -nonfut what  -acc =ptl
+
+\tx goːweːtte.
+\mb goːn -WEːČ -R
+\ge say   -gnr    -neg.cvb
+\ft They didn't say anything about this, only smiled a bit, they don't say anything.
+\ph
+\gr The mixture of tenses (past and nonfut) in one sentence is OK, says RME; and inimesčiweːtte with the Conative suffix gives it an
+attenuative meaning
+\ELANBegin 00:01:34.260
+\ELANEnd 00:01:40.040
+\ELANParticipant
+\ev
+\ru На это ничего не сказали, улыбались только потихоньку, но ничего не говорят.
+
+\id Tylkanova_NA_blue_eyes_015
+\tx Russian
+\ELANBegin 00:01:40.040
+\ELANEnd 00:01:42.870
+\ELANParticipant
+\ev
+\ru 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Kamchatka2009/sound_from_video/Tylkanova_NA_Esso_130609_blue_eyes.wav
+\ELANMediaMIME audio/x-wav

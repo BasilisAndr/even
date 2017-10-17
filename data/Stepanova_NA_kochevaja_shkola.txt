@@ -1,0 +1,1972 @@
+\_sh v3.0  1067 Text
+
+\id Stepanova_NA_kochevaja_shkola_000_metadata
+\ref Recorded on 11 March 2010 in Sebjan-Küöl by Natalia Aralova and Brigitte Pakendorf. This session took place in the flat where BP
+and NA lived during their stay in Sebjan-Küöl. NAS was asked to tell something about the nomadic school where she works as a
+teacher. Before the recording we talked a little bit about the education and about the school in Sebjan.
+\qu Transcribed by Ija Vasil'evna Krivoshapkina (pen and paper), transcribed in ELAN by BP, Russian translation by IVK, glossing by BP.
+Funding by the Volkswagen Foundation (DoBeS grant). Speaker abbreviation = NAS.
+\ref Nadezhda Alekseevna Stepanova was born in May 1954, so she was 55 at the time of recording. She has higher education and
+worked as the teacher of the nomadic branch of the Sebjan school, visiting children of primary school age in the reindeer herding
+encampments. She is the sister of Lidija Alekseevna Tulasynova.
+\tx
+
+\id Stepanova_NA_kochevaja_shkola_001
+\tx 11oe marta 2010j god, Sebjan-Küöl, Stepanova, Nadežda Alekseevna.
+\ru
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:08.450
+\ELANParticipant NA
+
+\id Stepanova_NA_kochevaja_shkola_002
+\tx Nulgewetti                škola   Lamunxinskaj naslegla       aːŋaptaŋan                     ujun anŋanị
+\mb nulge   -WEːČ -RI       škola   Lamïnxa     nasleg -(dU)LE aːŋa -B   -DEŋ    -E-n(I)      ujun anŋan
+\ge migrate -gnr    -impf.ptc school.R Lamynxa      nasleg -loc    open   -med -pst.ptc -ep-poss.3sg nine year
+
+\tx ọːdnị.
+\mb ọː  -n(I)
+\ge become -3sg
+\ft It is nine years since the nomadic school opened in the Lamunxin nasleg.
+\ph
+\nt A nasleg is an administrative unit larger than a village but smaller than a district; it comprises a village and the territory belonging
+to it, i.e. the Lamunxin nasleg comprises the village Sebjan-Küöl and all the reindeer herding pastures and reindeer brigades that
+belong to it.
+\ru С тех пор как открылась кочевая школа в Л. наслеге стало 9 лет.
+\ELANBegin 00:00:08.450
+\ELANEnd 00:00:15.550
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_003
+\tx Egdʒen probleman           ọrọndụ           gurgewčiri           bejel      adụkụndụkụtna        ńan
+\mb egdʒen problema  -n(I)     ọrọn          -DU  gurgeːwči -RI       bej -E-L   adụkụn -DUk(U) -tEn      ńaːn
+\ge big     problem.R -poss.3sg domestic.reindeer -dat work        -impf.ptc man -ep-pl little     -abl    -poss.3pl and
+
+\tx kụŋal    ịal     nulgewetti                nimeːrel        họːja bejel      este
+\mb kụŋa -L  ịak -L  nulge   -WEːČ -RI       ńimer    -E-L   họːja bej -E-L   e   -R(E)
+\ge child   -pl what  -pl migrate -gnr    -impf.ptc neighbour -ep-pl many     man -ep-pl neg -nonfut
+
+\tx nulgewekkerer,                  erek torre.
+\mb nulge   -WEːČ -Gr(E) -R       erek tor   -(dU)LE
+\ge migrate -gnr    -hab   -neg.cvb prox earth -loc
+\ft A big problem is that there are few people working in the reindeer herds and children, nomadic families - a lot of people don't
+migrate, in this place.
+\ph
+\gr (13_quest_2010, beginning) probleman = his/her problem, the school's problem; adụkụndụkụtna = ot togo čto ix malo, ot ix
+maločislennosti; the sentence isn't very well-formed, there is a break after nimeːrel
+\ru Проблема в том что мало людей работающих в оленеводстве и детей кочующих семьей, на этой земле много людей не кочуют.
+\ELANBegin 00:00:15.550
+\ELANEnd 00:00:31.870
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_004
+\tx Tiːk bọlla      savremennej ịadụ   bi   dʒọmkattakụ               savremennej teget...
+\mb tiek  buollaγïna sovremennyj ịak -DU  biː dʒọmkat -REk      -W        sovremennyj teg      -E  -Č
+\ge now   dp.Y         modern.R    what  -dat 1sg  think      -cond.cvb -poss.1sg modern.R    sit.down -ep -res
+
+\tx tege..        tegeptiridu                               tarbačan      kụŋaldụda        haːwdịda  bejeldu
+\mb teg      -E   teg      -E-B    -RI       -RI       -DU  tarọːčịn kụŋa -L  -DU  =DE  hagdị =DE  bej -E-L   -DU
+\ge sit.down -ep  sit.down -ep-med -impf.ptc -impf.ptc -dat dist.qual      child   -pl -dat =ptl old     =ptl man -ep-pl -dat
+
+\tx keńeli bidʒin.
+\mb keńeli bi -DʒI -n(I)
+\ge bad     be -fut -3sg
+
+\ft Now however, in modern times, as I think that will be bad both for children and for grown up people.
+\ph
+\gr (13_quest_2010, 2:35) tegeptiridu = such a word doesn't exist (takogo slova netu), should be tegečeptidu
+\ru Сейчас в современности, по моему мнению в современной жизни такое для детей и для взрослых людей будет плохо.
+\ELANBegin 00:00:31.870
+\ELANEnd 00:00:48.568
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_005
+\tx Ịamị goːli?
+\mb ịamị goːn -LI
+\ge why      say   -imp.2sg
+
+\ru
+\ELANBegin 00:00:48.568
+\ELANEnd 00:00:51.363
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_006
+\tx Wabše       bi   beju             ịaw      JuNESKO po... ịan           bihiw,            pro...  ịak
+\mb voobše      biː bej    -W        ịak -W   JuNESKO po    ịak -n(I)     bi -RI -W         pro     ịak
+\ge in.general.R 1sg  self.Y -poss.1sg what  -acc UNESCO  on.R  what  -poss.3sg be -pst -poss.1sg about.R what
+
+\tx pilọtskaj gu... ịan           škọlan          bihiw.
+\mb pilotskij   gu    ịak -n(I)     škola   -n(I)     bi -RI -W
+\ge pilot.R     Q     what  -poss.3sg school.R -poss.3sg be -pst -poss.1sg
+\ft I myself (have written) a pilot (project for the) school for UNESCO.
+\ph
+\gr
+\nt This is not a clear sentence, but what NAS is probably referring to is an application she wrote for UNESCO for a pilot project
+concerning the nomadic school.
+\ru Вообще я сама была пилотской школы ЮНЕСКО.
+\ELANBegin 00:00:51.363
+\ELANEnd 00:01:02.322
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_007
+\tx Tadụ,    tadụ     egdʒen problemaw      bi   ịlụdaŋụ                    gerbe erek er   Ịndịbaldụ
+\mb tarak -DU  tarak -DU  egdʒen problema  -W   biː ịl     -U    -DEŋ    -W        gerbe erek erek Ịndịbal -DU
+\ge dist  -dat dist  -dat big     problem.R -acc 1sg  stand.up -caus -pst.ptc -poss.1sg name  prox prox Endybal     -dat
+
+\tx ịaw      čọŋkarịtna              toru       čọŋkarịtna,             tadụk       irew       taraw
+\mb ịak -W   čọŋka -RI -tEn            tor   -W   čọŋka -RI -tEn            tarak -DUk(U) irek  -W   tarak -W
+\ge what  -acc dig       -impf.ptc -poss.3pl earth -acc dig       -impf.ptc -poss.3pl dist  -abl    which -acc dist  -acc
+
+\tx gadaːr.
+\mb ga   -DE -WUr
+\ge take -purp.cvb -prfl.pl
+\ft There I posed a big problem, namely that in Endybal they are digging up the earth to take this and that from there.
+\ph
+\gr čọŋkarịtna = bukv 'ix kopanie'
+\ru Там я поставила проблему такую что в Ендыбале землю копают чтобы взять оттуда всякое разное.
+\ELANBegin 00:01:02.322
+\ELANEnd 00:01:14.074
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_008
+\tx Ńan   er   raditelal       ńarịl    omettu   bejetne          biekkerer,             ahal,     kụŋal    ele
+\mb ńaːn erek roditel' -E-L   ńarị -L  omettu   bej    -tEn      bi -WEːČ -Gr(E) -r   asị -L  kụŋa -L  erek -(dU)LE
+\ge and    prox parent.R -ep-pl man     -pl together self.Y -poss.3pl be -gnr    -hab   -3pl woman -pl child   -pl prox -loc
+
+\tx emeːptidʒur            dessiwrer.
+\mb emeːn -B   -RIdʒI -L   desči -Gr(E) -r
+\ge leave  -med -ant.cvb -pl lie    -hab   -3pl
+\ft The parents, men go (to Endybal) by themselves, and the women and children stay here.
+\ru Родители мужчины вместе ездят, женщины дети здесь оставшись лежат.
+\ELANBegin 00:01:14.074
+\ELANEnd 00:01:23.720
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_009
+\tx Atda     gọlla,      bohkeŋetnede                ačča, họːja problemalkahal       biwrer.
+\mb ač =DE  gọl    -LE  bokes -ŋ  -E-tEn       =DE  ačča  họːja problema  -lkEn -SEl bi -Gr(E) -r
+\ge neg =ptl firewood -prv ice   -aln -ep-poss.3pl =ptl neg     many     problem.R -prop -pl  be -hab   -3pl
+\ft No firewood, no ice (for water), they have a lot of problems.
+\ph
+\gr (13_quest_2010, 3:30) it would be better to say gọlatnada ačča, bohkeŋetnede ačča, or to say atda gọlla, atda bohkele i.e. to have
+parallel constructions; there is no difference between atda gọlla and atda gọlaŋna (she had misunderstood what I was asking, and
+said one could say either of these, they don't feel/make a difference, whether you use the alienable suffix or not); if one says atda
+gọlla then it is a general statement, there is no firewood, while if one says gọllatnada ačča then it means specifically they have no
+firewood
+\ru И без дров, и нету у них льда, у них много проблем бывает.
+\ELANBegin 00:01:23.720
+\ELANEnd 00:01:30.506
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_010
+\tx Teːmi    egdʒen tar   prajeku        dụkrịj               biriemedi           bi   wabše       ịaw
+\mb teːmi    egdʒen tarak proekt    -W   dụk -RI       -J       vremja -DI          biː voobše      ịak -W
+\ge therefore big     dist  project.R -acc write -impf.ptc -prfl.sg time.R -dat.prfl.sg 1sg  in.general.R what  -acc
+
+\tx goːniw              tarbačan      vaprọhụ     ịlụrịw,                 egdʒem,     haːmaj ee, muttu
+\mb goːn -RI -W         tarọːčịn vopros     -W   ịl     -U    -RI -W         egdʒen -W   samyj   ee  mut    -DU
+\ge say   -pst -poss.1sg dist.qual      question.R -acc stand.up -caus -pst -poss.1sg big     -acc most.R  eh  1pl.in -dat
+
+\tx ọttọn tiːkerep    ịadụ   ịalkan    aktualnaj  vaprọhaldụ         goːmi,
+\mb ọttọn tiek -(E)rEp ịak -DU  ịak -lkEn aktual'nyj vopros     -E-L   -DU  goːn -mI
+\ge dp.Y      now  -adjr   what  -dat what  -prop current.R  question.R -ep-pl -dat say   -cond.cvb
+
+\tx ulgimiptilbu                         ulgim... ịlụrịw.
+\mb ulgim -i      -B   -RI       -L-W    ulgim    ịl     -U    -RI -W
+\ge ask   -ipf??? -med -impf.ptc -pl-acc ask      stand.up -caus -pst -poss.1sg
+\ft
+\ft That is why while I was writing that big project I posed such a question, the most current question for us in our modern life.
+\ph
+\gr (13_quest_2010, 6:45) vopros = ulgimin, ulgimipti = sprašivaemoe, sprašivanie
+\ru Поэтому когда во время когда я писала этот большой проект я вообще поставила такой вопрос, самый такой актуальный для нас
+в нашей современный жизни.
+\ELANBegin 00:01:30.506
+\ELANEnd 00:01:48.472
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_011
+\tx Ńan   ọːn goːmi          naːda?
+\mb ńaːn ọːn goːn -mI       nado
+\ge and    how    say   -cond.cvb need.R
+\ft And what else can I say?
+\ru Что еще надо сказать?
+\ELANBegin 00:01:48.472
+\ELANEnd 00:01:50.825
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_012
+\tx Mute   kụŋal,   domŋele         bietti               kụŋal,   bi   dʒọmkattakụ               họːja ịaw...
+\mb mut    kụŋa -L  doːmŋe -(dU)LE bi -WEːČ -RI       kụŋa -L  biː dʒọmkat -REk      -W        họːja ịak -W
+\ge 1pl.in child   -pl taiga    -loc    be -gnr    -impf.ptc child   -pl 1sg  think      -cond.cvb -poss.1sg many     what  -acc
+
+\tx haːrịtnada                 họːja ńan   ịarịtna                 daγanï ịarịtna...              ọːn
+\mb haː -RI -tEn            =DE  họːja ńaːn ịa    -RI -tEn            daγanï ịa    -RI -tEn            ọːn
+\ge know -impf.ptc -poss.3pl =ptl many     and    do.what -impf.ptc -poss.3pl even.Y   do.what -impf.ptc -poss.3pl how
+
+\tx goːmi          naːda?
+\mb goːn -mI       nado
+\ge say   -cond.cvb need.R
+
+\ft (Our) children, the children who go to the taiga, in my opinion, they know a lot and they do what... how should I say?
+\ph naːdịːj
+\gr haːrịtna = bukv. ix znanie
+\ru Мы дети которые ездят в тайгу, по-моему они много знают и еще ... что нужно сказать?
+\ELANBegin 00:01:50.825
+\ELANEnd 00:02:07.660
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_013
+\tx Haːrịtna              họːja biwren,         mindu        daγanï toːdikkerer.
+\mb haː -RI -tEn            họːja bi -Gr(E) -n(I) min     -DU  daγanï toːdi -Č  -Gr(E) -r
+\ge know -impf.ptc -poss.3pl many     be -hab   -3sg  1sg.obl -dat even.Y   help   -res -hab   -3pl
+\ft They have a lot of knowledge, and they also help me.
+\ru У них и знания много бывает, и мне помогают.
+\ELANBegin 00:02:07.660
+\ELANEnd 00:02:14.381
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_014
+\tx Bi   haːwdịldụda      bejedutne             toːdikkererem.
+\mb biː hagdị -L  -DU  =DE  bej    -DU  -tEn      toːdi -Č  -Gr(E) -R(E) -m
+\ge 1sg  old     -pl -dat =ptl self.Y -dat -poss.3pl help   -res -hab   -nonfut -1sg
+\ft And I also help old people.
+\ph
+\ru Я и старым помогаю самим.
+\ELANBegin 00:02:14.381
+\ELANEnd 00:02:18.411
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_015
+\tx Alenevọdaldụda                 uːrihip       ịalbụ...   ọralčịmŋaldụda
+\mb olenevod          -E-L   -DU  =DE  uːr   -(E)rEp ịak -L  -W   ọrọlčị -mŋE -L  -DU  =DE
+\ge reindeer.herder.R -ep-pl -dat =ptl before -adjr   what  -pl -acc herd.reindeer -agnr -pl -dat =ptl
+
+\tx ịawraram                  beju             ịawraram,                 toːdikkererem.
+\mb ịa    -Gr(E) -R(E) -m     bej    -W        ịa    -Gr(E) -R(E) -m     toːdi -Č  -Gr(E) -R(E) -m
+\ge do.what -hab   -nonfut -1sg self.Y -poss.1sg do.what -hab   -nonfut -1sg help   -res -hab   -nonfut -1sg
+\ft And I help those (previously mentioned?) reindeer herders myself.
+\ru И тем оленеводам помогаю сама.
+\ELANBegin 00:02:18.411
+\ELANEnd 00:02:27.628
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_016
+\tx Bogotde               haːwdịldụ.
+\mb beg      -E-Č   =DE  hagdị -L  -DU
+\ge medicine -ep-ins =ptl old     -pl -dat
+\ft (I help) old people with medicine.
+\ru И лекарствами старикам.
+\ELANBegin 00:02:27.628
+\ELANEnd 00:02:29.201
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_017
+\tx Bow,     bow      ačča biwren          ele,         ŋiːde    ehni           ịawrar                tar
+\mb beg      beg      ačča bi -Gr(E) -n(I) erek -(dU)LE ŋiː =DE  e -R(E) -n(I)  ịa    -Gr(E) -R       tarak
+\ge medicine medicine neg    be -hab   -3sg  prox -loc    who   =ptl neg -nfut -3sg do.what -hab   -neg.cvb dist
+
+\tx dʒugulin                vaprọhụda        ịawda         ehni           ịlụwrar,
+\mb dʒugu -(dU)LI -n(I)     vopros     -W   =DE  ịak -W   =DE  e -R(E) -n(I)  ịl     -U    -Gr(E) -R
+\ge about  -prol   -poss.3sg question.R -acc =ptl what  -acc =ptl neg -nfut -3sg stand.up -caus -hab   -neg.cvb
+
+\tx tiemi     bogu          ile           tala          hermi,        họːja bogu          gawraram.
+\mb teːmi    beg      -W   irek  -(dU)LE tarak -(dU)LE hor -mI       họːja beg      -W   ga   -Gr(E) -R(E) -m
+\ge therefore medicine -acc which -loc    dist  -loc    go  -cond.cvb many     medicine -acc take -hab   -nonfut -1sg
+\ft There is no medicine here, nobody raises this question, therefore wherever I go I take a lot of medicine.
+\ru И лекарств не бывает здесь, никто не ставит вопрос об этом, поэтому когда я езжу туда куда-нибудь я много лекарств беру.
+\ELANBegin 00:02:29.201
+\ELANEnd 00:02:42.227
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_018
+\tx Irek  tarak ečin      ehiptilbu,                      ịalbụ,     atịkaldụ       naːd... ịadʒ...
+\mb irek  tarak erroːčin hesi     -B   -RI       -L-W    ịak -L  -W   atịkan  -L  -DU  nado     ịa    -D
+\ge which dist  prox.qual  smear.on -med -impf.ptc -pl-acc what  -pl -acc old.woman -pl -dat need.R   do.what -prog
+
+\tx ịad,        ịadʒịn         goːmi.
+\mb ịa    -D    ịa    -DʒI -n(I) goːn -mI
+\ge do.what -prog do.what -fut -3sg   say   -cond.cvb
+\ft Various salves and such, because they might be useful for the old women.
+\ph
+\ru Всякие разные мази (для растирания) потому что могут пригодиться старухам.
+\ELANBegin 00:02:42.227
+\ELANEnd 00:02:49.403
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_019
+\tx Ńan   haːwdịldụ   ịaw      haŋangararam              irew       taraw      esten       kojekkerer,
+\mb ńaːn hagdị -L  -DU  ịak -W   haŋan -Gr(E) -R(E) -m     irek  -W   tarak -W   e   -R(E)   kojeːt -Gr(E) -R
+\ge and    old     -pl -dat what  -acc sew    -hab   -nonfut -1sg which -acc dist  -acc neg -nonfut look.at -hab   -neg.cvb
+
+\tx ịahalatna            igin  keńeli.
+\mb ịašal -E  -tEn      iŋin keńeli
+\ge eyes     -ep -poss.3pl etc.Y bad
+\ft And I sew various things for the old people, they cannot see, their eyes are bad.
+\ru Я сшю всякое разное старикам, они не видят, глаза у них плохие. 
+\ELANBegin 00:02:49.403
+\ELANEnd 00:02:56.904
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_020
+\tx Tiemi,    tiemi     bi   nọŋardụtna             ịaw      ịawraram,
+\mb teːmi    teːmi    biː nọŋan -L  -DU  -tEn      ịak -W   ịa    -Gr(E) -R(E) -m
+\ge therefore therefore 1sg  3sg      -pl -dat -poss.3pl what  -acc do.what -hab   -nonfut -1sg
+
+\tx haŋankakkararam.
+\mb haŋan -kEČ -Gr(E) -R(E) -m
+\ge sew    -mult -hab   -nonfut -1sg
+\ft That is why I sew a lot for them.
+\ru Поэтому я им шью многие вещи.
+\ELANBegin 00:02:56.904
+\ELANEnd 00:03:01.935
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_021
+\tx Irew       taraw      haŋanaddị              ereju          ičenteken,       ečoːn
+\mb irek  -W   tarak -W   haŋan -E-D     -RI       erej      -W   it  -E  -ntEkEn   erroːčin
+\ge which -acc dist  -acc sew    -ep-prog -impf.ptc trouble.Y -acc see -ep -mult.cvb prox.qual
+
+\tx haŋanaddakatna                        emnidʒi      beju             garịdʒị  haŋangararam.
+\mb haŋan -E-D     -REk      -E-tEn       em   -RIdʒI  bej    -W        ga   -RIdʒI  haŋan -Gr(E) -R(E) -m
+\ge sew    -ep-prog -cond.cvb -ep-poss.3pl come -ant.cvb self.Y -poss.1sg take -ant.cvb sew    -hab   -nonfut -1sg
+\ft Sewing this and that with big difficulty, when they are sewing like that, I come and take it myself and sew.
+\ru Всякое разное сшюшее мучаясь, страдая (они мучаются), так когда оин шьют, придя сама взяв шью обычно.
+\ELANBegin 00:03:01.935
+\ELANEnd 00:03:09.163
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_022
+\tx Dʒebleŋdutne                ịawraram                  ńan.
+\mb dʒep -LE -ŋ  -DU  -tEn      ịa    -Gr(E) -R(E) -m     ńaːn
+\ge eat   -nr -aln -dat -poss.3pl do.what -hab   -nonfut -1sg and
+\ft And (I help) with their food.
+\ru И в еде тоже что-то делаю (помогает готовить).
+\ELANBegin 00:03:09.163
+\ELANEnd 00:03:16.339
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_023
+\tx Tiemi     bi   beju             daγanï domŋekki        nahaː kuruk     hordej
+\mb teːmi    biː bej    -W        daγanï doːmŋe -t(E)kI nahaː kuruk     hor -DE       -J
+\ge therefore 1sg  self.Y -poss.1sg even.Y   taiga    -all    very.Y always.Y. go  -purp.cvb -prfl.sg
+
+\tx meːkukkererem.
+\mb meːkuk       -Gr(E) -R(E) -m
+\ge thrash.around -hab   -nonfut -1sg
+\ft Therefore I myself always strive hard to go to the taiga.
+\ru Поэтому и сам в тайгу постоянно очень уехать стремлюсь.
+\ELANBegin 00:03:16.339
+\ELANEnd 00:03:24.282
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_024
+\tx Domŋew       dʒiŋ họː ajaːwram.
+\mb doːmŋe -W   dʒiŋ họː ajaːw -R(E) -m
+\ge taiga    -acc very.Y very   love   -nonfut -1sg
+\ft I love the taiga very much.
+\ru Тайгу очень люблю.
+\ELANBegin 00:03:24.282
+\ELANEnd 00:03:28.858
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_025
+\tx Kụŋakkalbụda           bụlgararam,             domŋele         bietti               kụŋakkal
+\mb kụŋa -kkEn -L  -W   =DE  bụl -Gr(E) -R(E) -m     doːmŋe -(dU)LE bi -WEːČ -RI       kụŋa -kkEn -L
+\ge child   -dim  -pl -acc =ptl pity  -hab   -nonfut -1sg taiga    -loc    be -gnr    -impf.ptc child   -dim  -pl
+
+\tx gudʒejekiekkel                  biwrer.
+\mb gudʒen    -(h)E =kE   -kkEn -L  bi -Gr(E) -r
+\ge be.beloved -excl =emph -dim  -pl be -hab   -3pl
+
+\ft And I pity the children, the children who live in the taiga are often very sweet.
+\ru И детей жалею, в тайге ходящие дети очень миленькие бывают.
+\ELANBegin 00:03:28.858
+\ELANEnd 00:03:34.734
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_026
+\tx Nọŋartan mindu        bejduw                daγanï toːdikkerer.
+\mb nọŋartan min     -DU  bej    -DU  -W        daγanï toːdi -Č  -Gr(E) -r
+\ge 3pl         1sg.obl -dat self.Y -dat -poss.1sg even.Y   help   -res -hab   -3pl
+\ft They help me myself.
+\ru Они и мне самой помогают.
+\ELANBegin 00:03:34.734
+\ELANEnd 00:03:39.349
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_027
+\tx Bokkew     emundu,             gọlụ      gọllịndụ,       haːdụn dʒaːldụkụr
+\mb bokes -W   em -U      -n  -DU  gọl    -W   gọl    -lI -n  -DU  haːdụn dʒaː   -L  -DUk(U) -WUr
+\ge ice   -acc come -caus -nr -dat firewood -acc firewood -vr -nr -dat sometimes relative -pl -abl    -prfl.pl
+
+\tx dʒebleŋur             emuridʒur              emgerer.
+\mb dʒep -LE -ŋ  -WUr     em -U      -RIdʒI -L   em   -Gr(E) -r
+\ge eat   -vr -aln -prfl.pl come -caus -ant.cvb -pl come -hab   -3pl
+\ft (They help) with bringing ice, chopping wood, sometimes they bring food from their relatives.
+\ru В принесение льда, в раскаливание дров, иногда от родных принеся еду приходят.
+\ELANBegin 00:03:39.349
+\ELANEnd 00:03:45.940
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_028
+\tx Ọːn goːmi?
+\mb ọːn goːn -mI
+\ge how    say   -cond.cvb
+\ft How should I say it?
+\ph ọːn goːmiːːːːːːːː
+\ru Как сказать?
+\ELANBegin 00:03:45.940
+\ELANEnd 00:03:47.604
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_029
+\tx Nahaː miloserdijakakkal      kụŋakkal       biwrer.
+\mb nahaː miloserdija -kEkEn -L  kụŋa -kkEn -L  bi -Gr(E) -r
+\ge very.Y charity.R   -dim   -pl child   -dim  -pl be -hab   -3pl
+\ft There are very charitable children (there).
+\ru Очень бывает милосердные дети.
+\ELANBegin 00:03:47.604
+\ELANEnd 00:03:51.270
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_030
+\tx Haːdụn minu         ebiwkeŋnerde.
+\mb haːdụn min     -W   ewiː -WkEn -Gr(E) -r   =DE
+\ge sometimes 1sg.obl -acc play  -caus -hab   -3pl =ptl
+\ft Sometimes they play with me.
+\ru Иногда со мной играют. (развлекают играми)
+\ELANBegin 00:03:51.270
+\ELANEnd 00:03:53.727
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_031
+\tx Domŋele         herridʒur       bejet                  ebiwrerep,                   ịŋat     igin  nọːdantakan,
+\mb doːmŋe -(dU)LE hor -RIdʒI -L   bej    -E-t(I)         ewiː -Gr(E) -R(E) -p        ịŋa -Č  iŋin nọːda -ntEkEn
+\ge taiga    -loc    go  -ant.cvb -pl self.Y -ep-poss.1pl.in play  -hab   -nonfut -1pl.in stone  -ins etc.Y throw    -mult.cvb
+
+\tx bi   delbi  ọbdọwraram.
+\mb biː delbi  ọbda    -Gr(E) -R(E) -m
+\ge 1sg  very.Y get.tired -hab   -nonfut -1sg
+
+\ft Going to the taiga we play by ourselves, throwing stones etc, I become very tired.
+\ru Пойдя в тайгу мы сами играем, бросаясь камнями, я очень устаю.
+\ELANBegin 00:03:53.727
+\ELANEnd 00:03:58.927
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_032
+\tx Ọbdarịdʒị,  tewreku                      ko... kụŋačal       emnidʒur,        "Edʒi
+\mb ọbda    -RIdʒI  teg      -REk      -W        *ko   kụŋa -čEn -L  em   -RIdʒI -L   e   -LI
+\ge get.tired -ant.cvb sit.down -cond.cvb -poss.1sg ***   child   -dim  -pl come -ant.cvb -pl neg -imp.2sg
+
+\tx tegete,                   ebigelde!         Edʒi        ọbdọr,         edʒi        aːmna!"
+\mb teg      -E-Č   -R       ewiː -GEr        e   -LI      ọbda    -R       e   -LI      aːm      -R
+\ge sit.down -ep-res -neg.cvb play  -imp.1pl.in neg -imp.2sg get.tired -neg.cvb neg -imp.2sg be.sleepy -neg.cvb
+
+\tx goːŋner.
+\mb goːn -Gr(E) -r
+\ge say   -hab   -3pl
+\ft When I sit down, tired, the children come and say "Don't sit, let's play! Don't get tired, don't be sleepy!"
+\ph
+\gr (13_quest_2010, 8:30) tewreku = kogda ja sažus'; should be edʒi tegette, with 2 t's; there is a word aːhmị 'sleepy', i.e. the impf.ptc of
+the stative verb aːm-
+\ru Когда я сижу уставшая, дети придя говорят "Не сиди, поиграем! Не уставай, не спи!"
+\ELANBegin 00:03:58.927
+\ELANEnd 00:04:07.455
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_033
+\tx Tiemi     bi   domŋele         biettij                       họː ajaːwram,          kụŋalbụda
+\mb teːmi    biː doːmŋe -(dU)LE bi -WEːČ -RI       -J       họː ajaːw -R(E) -m     kụŋa -L-W    =DE
+\ge therefore 1sg  taiga    -loc    be -gnr    -impf.ptc -prfl.sg very   love   -nonfut -1sg child   -pl-acc =ptl
+
+\tx holtebettij                            ajaːwram.
+\mb holte       -WEːČ -RI       -J       ajaːw -R(E) -m
+\ge carry.along -gnr    -impf.ptc -prfl.sg love   -nonfut -1sg
+\ft That is why I very much like to go to the taiga, and I love to take children with me.
+\ru Поэтому я очень люблю ездить в тайгу, и люблю детей возить с собой.
+\ELANBegin 00:04:07.455
+\ELANEnd 00:04:13.864
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_034
+\tx Bi   tala          hormi         honte torre         ịskararam.
+\mb biː tarak -(dU)LE hor -mI       honte tor   -(dU)LE ịs  -Gr(E) -R(E) -m
+\ge 1sg  dist  -loc    go  -cond.cvb other earth -loc    reach -hab   -nonfut -1sg
+\ft When I go there I go to a different place.
+\ru Я туда поехав в другое место доезжаю.
+\ELANBegin 00:04:13.864
+\ELANEnd 00:04:18.453
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_035
+\tx Ečin      dụːhawda           ọːngọl   nahaː ịbgakeːmdas       biwren,         dʒebletde
+\mb erroːčin duša  -W        =DE  ọːn =(W)Ul nahaː ịbgọ =kE   -mdEs bi -Gr(E) -n(I) dʒep -LE -Č  =DE
+\ge prox.qual  soul.R -poss.1sg =ptl how    =indef very.Y good     =emph -sml  be -hab   -3sg  eat   -nr -ins =ptl
+
+\tx biwrerem,              họːjaw     irew       taraw      dʒebgereremde,
+\mb bi -Gr(E) -R(E) -m     họːja -W   irek  -W   tarak -W   dʒep -Gr(E) -R(E) -m     =DE
+\ge be -hab   -nonfut -1sg many     -acc which -acc dist  -acc eat   -hab   -nonfut -1sg =ptl
+
+\tx towliwreremde.
+\mb tewte   -lI -Gr(E) -R(E) -m     =DE
+\ge berries -vr -hab   -nonfut -1sg =ptl
+\ft It is as if my sould becomes better, and there is food, I eat a lot of this and that, and I gather berries.
+\ph dʒebnetde
+\ru И душа как то лучше становится и с едой бываю, много всякого разного кушаю, и ягоды собираю.
+\ELANBegin 00:04:18.453
+\ELANEnd 00:04:30.309
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_036
+\tx Ńan   ọːn goːmi          ọldamịwrarap,                 padljọdnaj erbečendu,     ọldamịnamị
+\mb ńaːn ọːn goːn -mI       ọlra -mI -Gr(E) -R(E) -p        podlёdnyj   erroːčin -DU  ọlra -mI -nE     -mI
+\ge and    how    say   -cond.cvb fish   -vr -hab   -nonfut -1pl.in under.ice.R  prox.qual  -dat fish   -vr -intent -cond.cvb
+
+\tx kụŋalńụn    horgererep.
+\mb kụŋa -L  -ńUn hor -Gr(E) -R(E) -p
+\ge child   -pl -com  go  -hab   -nonfut -1pl.in
+\ft And how to say it, we fish under ice, I go fishing with the children.
+\ru И что еще сказать, рыбачим, подледним этим, с  детьми идем рыбачить.
+\ELANBegin 00:04:30.309
+\ELANEnd 00:04:35.925
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_037
+\tx Adụkụn bọlla,                    omen dʒoːrbu    hepkeŋnenni.
+\mb adụkụn buol  -dEg      -E          omen dʒoːr -W   hepken -Gr(E) -nrI
+\ge little     aux.Y -assert.Y -poss.3sg.Y one  two     -acc catch  -hab   -2sg
+
+\ft Only a bit, of course, you catch one, two.
+\ru Мало же 1, 2 хватаешь (ловишь).
+\ELANBegin 00:04:35.925
+\ELANEnd 00:04:39.422
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_038
+\tx Tar   hepkendeŋi              bọllar, kụŋačal       bọllar mindu        boːwrer         "Dʒụːdị
+\mb tarak hepken -DEŋ    -J       buollar   kụŋa -čEn -L  buollar  min     -DU  boː -Gr(E) -r   dʒụː -DI
+\ge dist  catch  -pst.ptc -prfl.sg dp.Y      child   -dim  -pl dp.Y     1sg.obl -dat give -hab   -3pl house    -dat.prfl.sg
+
+\tx hormi         horuŋenni,             dʒaːldị               horuniken"         goːnikehel.
+\mb hor -mI       hor -U    -ŋE     -nrI dʒaː   -L  -DI          hor -U    -nIkEn   goːn -nIkEn   -SEl
+\ge go  -cond.cvb go  -caus -pol.imp -2sg relative -pl -dat.prfl.sg go  -caus -sim.cvb say   -sim.cvb -pl
+\ft What we have caught however, the children give to me, saying "When you go home take (this), bring (it) to your family".
+\ru Это выловленное, дети мне дают, "Когда поедешь домой отвезешь, отвезя родным" говоря.
+\ELANBegin 00:04:39.422
+\ELANEnd 00:04:46.936
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_039
+\tx Tiemi     egdʒen goːmi...       ọːn goːmieː?
+\mb teːmi    egdʒen goːn -mI       ọːn goːn -mI       =eː
+\ge therefore big     say   -cond.cvb how    say   -cond.cvb =emph
+\ft Therefore a big.... how to say it?
+\ru
+\ELANBegin 00:04:46.936
+\ELANEnd 00:04:52.682
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_040
+\tx Er   hup... nulgewetti                škọla mut    torret                  họː dʒiŋ naːda, naːda.
+\mb erek        nulge   -WEːČ -RI       škola   mut    tor   -(dU)LE -t(I)     họː dʒiŋ nado    nado
+\ge prox        migrate -gnr    -impf.ptc school.R 1pl.in earth -loc -poss.1pl.in very   very.Y need.R  need.R
+\ft This nomadic school is really necessary in our village.
+\ru Кочевая школа нашей земле очень нужна.
+\ELANBegin 00:04:52.682
+\ELANEnd 00:05:02.354
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_041
+\tx Erek bejel      baγar... mut    ọttọn tiːk gurgewčiridʒur         ọddʒịp,       nostel    ńoːjekterin          naːda,
+\mb erek bej -E-L   baγar    mut    ọttọn tiek  gurgeːwči -RIdʒI -L   ọd -DʒI -p      noste -L  ńoː -jEktErIn        nado
+\ge prox man -ep-pl perhaps.Y 1pl.in dp.Y      now   work        -ant.cvb -pl stop -fut  -1pl.in young -pl exit  -futpt.acc.3pl.Y need.R
+
+\tx ere  noste kụŋal,   hupkučimŋelde,          hupkuttilde.
+\mb erek noste kụŋa -L  hupkut -E  -mŋE -L  =DE  hupkut -RI       -L  =DE
+\ge prox young child   -pl learn  -ep -agnr -pl =ptl learn  -impf.ptc -pl =ptl
+\ft Perhaps these people... we will now stop working, young people have to go out, that is young children, teachers and pupils.
+\ru Эти люди может быть... мы сейчас закончим работать, должны выйти молодые, это молодые дети, и учителя и ученики.
+\ELANBegin 00:05:02.354
+\ELANEnd 00:05:17.330
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_042
+\tx Teːmi    bi   tiːk erek ịala,       Sljot     bremjadun             ịak emejekteːk,
+\mb teːmi    biː tiek  erek ịak -(dU)LE slet      vremja -DU  -n(I)     ịak em   -E  -jEktEːk
+\ge therefore 1sg  now   prox what  -loc    meeting.R time.R -dat -poss.3sg what  come -ep -nec.Y
+
+\tx ministr_obrazovanija,   dvadsats šestogo  emejekteːk,       dʒoːrmịar      ńuŋen ineŋidu    mart
+\mb ministr_obrazovanija    dvadcat' šestogo  em   -E  -jEktEːk dʒoːr mịan -L  ńuŋen ineŋi -DU  mart
+\ge Minister.of.Education.R twenty.R six.gen.R come -ep -nec.Y    two     ten    -pl six     day    -dat March.R
+
+\tx emejekteːk,       tadụ     tala          mut    tiːk bekeččeːmen                 ụmụjdʒịp
+\mb em   -E  -jEktEːk tarak -DU  tarak -(dU)LE mut    tiek  bekeč -čEn -W   -E-n(I)      ụmụj -DʒI -p
+\ge come -ep -nec.Y    dist  -dat dist  -loc    1pl.in now   all    -dim  -acc -ep-poss.3sg gather   -fut  -1pl.in
+
+\tx nulgewetti                ịalbụ,     semjalbu,        kụŋalkahal      ịalkahalbụ        ńan   ńan   GUP
+\mb nulge   -WEːČ -RI       ịak -L  -W   semja    -L-W    kụŋa -lkEn -SEl ịak -lkEn -SEl -W   ńaːn ńaːn GUP
+\ge migrate -gnr    -impf.ptc what  -pl -acc family.R -pl-acc child   -prop -pl  what  -prop -pl  -acc and    and    GUP.R
+
+\tx Sebjanduk             direktoru,      ekenemihu,       tam     pratakọl  dụkaptịw
+\mb Sebjan-Küöl -DUk(U) direktor   -W   ekonomist   -W   tam     protokol    dụk -E-B -RI -W
+\ge Sebjan-Küöl -abl    director.R -acc economist.R -acc there.R protocoll.R write -ep-med -impf.ptc -acc
+
+\tx sekretargụtna              gadʒịp.
+\mb sekretar    -GE    -tEn      ga   -DʒI -p
+\ge secretary.R -desig -poss.3pl take -fut  -1pl.in
+
+\ft That is why I am now... at the time of the reindeer herders' festival, on the 26th of March the Minister of Education (of the Republic
+Sakha (Yakutia)) is expected to come, and we will now gather the nomadic families, those with children etc, and from the GUP
+Sebjan (the governmental reindeer farm) we will take the director, the economist and a secretary to write the protocoll.
+\ph
+\gr (13_quest_2010, 10:15) dụkapti = pisanie, should be dụkrị 'writing'; (because here they don't have agreement between modifiers and
+nouns); and the sekretargutna seems to be a hybrid form between sekretargatna 'for them', designative, and sekretarụtna 'their
+secretary' 
+\ru Поэтому я сейчас во время с.о. должна приехать мо, 26го марта должна приехать, там мы сейчас все соберем, семьи кочевые
+которые с детьми и т.д. и из ГУПа директора, экономиста, и пишущего протокол секретаря возьмем.
+\ELANBegin 00:05:17.330
+\ELANEnd 00:05:52.521
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_043
+\tx Eduk         direktor,  zawụč, bi   beju,            ńan,  ńan,  ọːn goːnde...      meditsinskaj_rabotnik
+\mb erek -DUk(U) direktor   zawuč    biː bej    -W        ńaːn ńaːn ọːn goːn -DE       medicinskij_rabotnik
+\ge prox -abl    director.R zawuč.R  1sg  self.Y -poss.1sg and    and    how    say   -purp.cvb medical.worker.R
+
+\tx emie   bijekteːk.
+\mb emie   bi -jEktEːk
+\ge also.Y be -nec.Y
+\ft From here (the school) the headmaster, the zawuč (head of the teaching department), I myself, and how does one say... a medical
+worker should also be (there).
+\ru Отсюда директора, завуча, я сама, и должен быть медицинский работник.
+\ELANBegin 00:05:52.521
+\ELANEnd 00:06:01.114
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_044
+\tx Tarak herdʒiŋengu              ịadʒịŋangụ?
+\mb tarak hor -DʒIŋE -n(I)     =GU ịa    -D(I)ŋE  -n(I)     =GU
+\ge dist  go  -hyp.ptc -poss.3sg =q  do.what -fut.ptcp -poss.3sg =q
+
+\ft Will he go or not?
+\ph
+\gr ja poedu = herdʒiŋewgu
+\ru Он поедет или нет?
+\ELANBegin 00:06:01.114
+\ELANEnd 00:06:02.596
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_045
+\tx Ehem             haːra        tar   ulgimijekteːkpit.
+\mb e   -R(E) -m     haː -R       tarak ulgim -i      -jEktEːk -BIt
+\ge neg -nonfut -1sg know -neg.cvb dist  ask   -ipf??? -nec.Y    -poss.1pl.Y
+\ft I don't know, we have to ask.
+\ru Не знад, это мы должны спросить.
+\ELANBegin 00:06:02.596
+\ELANEnd 00:06:04.884
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_046
+\tx Tala          horridʒur,      ministr_obrazovanija    emneken,                     tala          horridʒur
+\mb tarak -(dU)LE hor -RIdʒI -L   ministr_obrazovanija    em   -REk -E-n(I)            tarak -(dU)LE hor -RIdʒI -L
+\ge dist  -loc    go  -ant.cvb -pl Minister.of.Education.R come -cond.cvb -ep -poss.3sg dist  -loc    go  -ant.cvb -pl
+
+\tx ńịmattaːnịkan,  kollen na   tri...  ịlan mịarńun        minutedu      kruglyj stọlkakam
+\mb ńịmat -DE -nIkEn   kotlen na   tri     ịlan mịan -L  =ńUn  minuta   -DU  kruglyj stol    -kEkEn -W
+\ge nimat    -vr -sim.cvb small  on.R three.R three  ten    -pl =restr minute.R -dat round.R table.R -dim   -acc
+
+\tx ọːdʒịp.
+\mb ọː -DʒI -p
+\ge make  -fut  -1pl.in
+\ft We will go there when the Minister of Education comes and do the nimat and make a little round table of only thirty minutes.
+\ru Поехав туда, когда приедет мо приехав туда, делая нимат, маленький, на 30 минут круглый столик сделаем.
+\ELANBegin 00:06:04.884
+\ELANEnd 00:06:17.611
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_047
+\tx Raditelal       goːndʒir,      erek, erek stada, ertiki       stadala        ụčụtal ačča, ertiki
+\mb roditel' -E-L   goːn -DʒI -r   erek  erek stado  erek -t(E)kI stado  -(dU)LE učitel     ačča  erek -t(E)kI
+\ge parent.R -ep-pl say   -fut  -3pl prox  prox herd.R prox -all    herd.R -loc    teacher.R   neg     prox -all
+
+\tx stadala        gurgewčirit             takkattị               bejeŋet                      ačča, ertiki
+\mb stado  -(dU)LE gurgeːwči -RI -t(I)    tat   -kE -Č  -RI       bej -E  -ŋ  -E  -t(I)        ačča  erek -t(E)kI
+\ge herd.R -loc    work -impf.ptc -poss.1pl learn -?? -res -impf.ptc man -ep -aln -ep -poss.1pl.in neg     prox -all
+
+\tx ačča.
+\mb ačča
+\ge neg
+\ft The parents will say, in this herd there is no teacher, in this herd there is no person who works who teaches, here there is no-one.
+\ru Родители скажут в этом стаде нет учителя, в этом стаде нет работящего обучающего человека нету.
+\ELANBegin 00:06:17.611
+\ELANEnd 00:06:27.855
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_048
+\tx Minŋi,            mut    stadalat                 omenńun    kụŋa bihni,          ele          dʒoːrńun
+\mb min     -ŋI       mut    stado  -(dU)LE -t(I)     omen =ńUn  kụŋa bi -R(E) -n(I)  erek -(dU)LE dʒoːr =ńUn
+\ge 1sg.obl -pred.poss 1pl.in herd.R -loc -poss.1pl.in one  =restr child   be -nonfut -3sg prox -loc    two     =restr
+
+\tx kụŋa bihni,          tala          omenńun    ńan   tala          ịlangụ, adịgụ    kụŋa.
+\mb kụŋa bi -R(E) -n(I)  tarak -(dU)LE omen =ńUn  ńaːn tarak -(dU)LE ịlan =GU  adịː  =GU kụŋa
+\ge child   be -nonfut -3sg dist  -loc    one  =restr and    dist  -loc    three  =q   how.much =q  child
+
+\ft In our brigade there is only one child, here there are only two children, there there is only one child, and there three or how many
+children.
+\ph the last omenńun she actually says omenńunni, with a sort of 3sg.poss
+\ru У меня в моем стадо один только ребенок, здесь только 2 ребенка есть, там только 1, и там три или сколько детей.
+\ELANBegin 00:06:27.855
+\ELANEnd 00:06:35.720
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_049
+\tx Tara  bi   omekken bekeččeːmen                 biettiw                     ịaw      ačča.
+\mb tarak biː omekken bekeč -čEn -W   -E-n(I)      bi -WEːČ -RI -W           ịak -W   ačča
+\ge dist  1sg  alone   all    -dim  -acc -ep-poss.3sg be -gnr -impf.ptc -poss.1sg what  -acc neg
+
+\ft I cannot do all of that on my own. (I cannot travel all of that alone)
+\ru Вот я одна все ходить не могу. (хождение у меня нету)
+\ELANBegin 00:06:35.720
+\ELANEnd 00:06:41.700
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_050
+\tx Haːwdịnamda                bi,  uže      haːwdịndʒịddam,          er   domŋele
+\mb hagdị -n  -R(E) -m     =DE  biː uže      hagdị -n  -D    -R(E) -m     erek doːmŋe -(dU)LE
+\ge old     -vr -nonfut -1sg =ptl 1sg  already.R old     -vr -prog -nonfut -1sg prox taiga    -loc
+
+\tx bietteŋu                     dʒapkan anŋanị ọːdnị.
+\mb bi -WEːČ -DEŋ    -W        dʒapkan anŋan    ọː  -n(I)
+\ge be -gnr    -pst.ptc -poss.1sg eight    year      become -3sg
+\ft I have gotten old, I am getting old, it is eight years that I have been going to the taiga.
+\ru Я и состарилась, уже старюсь, уже 8 лет с тех пор как я езжу в тайгу.
+\ELANBegin 00:06:41.700
+\ELANEnd 00:06:48.005
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_051
+\tx Tar   biettidʒi          delbi  iŋemniken,             dʒebemniken           haːdụn, haːdụn moːle
+\mb tarak bi -WEːČ -RIdʒI  delbi  iŋeń  -W     -nIkEn   dʒep -E-m    -nIkEn   haːdụn  haːdụn moː  -(dU)LE
+\ge dist  be -gnr    -ant.cvb very.Y be.cold -advrs -sim.cvb eat   -ep-des -sim.cvb sometimes  sometimes water -loc
+
+\tx tikniken,     gọlịŋị             beju             gọllịnịkan,     ọrọnọt               beju
+\mb tik  -nIkEn   gọl    -E-ŋ   -J       bej    -W        gọl    -lI -nIkEn   ọrọn          -E  -Č  bej    -W
+\ge fall -sim.cvb firewood -ep-aln -prfl.sg self.Y -poss.1sg firewood -vr -sim.cvb domestic.reindeer -ep -ins self.Y -poss.1sg
+
+\tx herniken     nulgewetniken            iŋehnidu              ịadụ.
+\mb hor -nIkEn   nulge   -WEːČ -nIkEn   iŋeń  -RI       -DU  ịak -DU
+\ge go  -sim.cvb migrate -gnr    -sim.cvb be.cold -impf.ptc -dat what  -dat
+\ft Going like that, getting very cold, sometimes going hungry, sometimes falling into water, chopping your own firewood, going,
+migrating yourself by reindeer, in the cold and whatnot.
+\ru Так езжа очень замерзая голодая иногда, иногда падая в воду, рубя сама дрова свои, на оленях сама ездя кочуя и в холода и
+другое.
+\ELANBegin 00:06:48.005
+\ELANEnd 00:07:03.436
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_052
+\tx Tadụ     iŋemukenče                 bihem           uručun,  mịawmụda              ikiriwde
+\mb tarak -DU  iŋeń  -W     -WkEn -čE    bi -R(E) -m     ureːčin mịawụn -W        =DE  ikiri -W        =DE
+\ge dist  -dat be.cold -advrs -caus -pf.ptc be -nonfut -1sg it.seems  heart      -poss.1sg =ptl bone  -poss.1sg =ptl
+
+\tx engeren.
+\mb en   -Gr(E) -E-n(I)
+\ge hurt -hab   -ep-3sg
+\ft I seem to have caught cold there, my heart and my bones hurt.
+\ph
+\gr (13_quest_2010, 12:20) iŋemukenče = dala zamerznut' (though she also agreed with my suggestion that it was zastavila sebja
+podvergat'sja zamerzaniem)
+\ru Там как-то простудила кажется, и сердце и кости болят.
+\ELANBegin 00:07:03.436
+\ELANEnd 00:07:07.973
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_053
+\tx Tiemi     noste kụŋalbụ    ịadajị,                tala          horuridʒi          tiːk
+\mb teːmi    noste kụŋa -L-W    ịa    -DE       -J       tarak -(dU)LE hor -U     -RIdʒI  tiek
+\ge therefore young child   -pl-acc do.what -purp.cvb -prfl.sg dist  -loc    go  -caus  -ant.cvb now
+
+\tx ministr_obrazovanija    emneken                      taraw      vaprọhụ
+\mb ministr_obrazovanija    em   -REk -E-n(I)            tarak -W   vopros     -W
+\ge Minister.of.Education.R come -cond.cvb -ep -poss.3sg dist  -acc question.R -acc
+
+\tx ịadaːr                  ulgimideːr,                     ulgimideːr.
+\mb ịa    -DE -WUr           ulgim -i      -DE -WUr           ulgim -i      -DE -WUr
+\ge do.what -purp.cvb -prfl.pl ask   -ipf??? -purp.cvb -prfl.pl ask   -ipf??? -purp.cvb -prfl.pl
+\ft That is why, in order to do whatchamacallit to the young children,, having taken them there, now when the Minister of Education
+comes, I (want to/plan to) ask these questions.
+\ru Поэтому я молодых детей что то делать, туда отвезя когда мо приедет, этот вопрос спросить. // Чтобы молодых людей что
+делать, туда отвезя, сейчас когда приедет м.о. эти вопросы спросить чтобы. (the second time round I asked for a free
+translation...)
+\ELANBegin 00:07:07.973
+\ELANEnd 00:07:17.554
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_054
+\tx Ečin      nekmi         ọːn ịbga   bihiwen,                       taraw      ịadʒịp,
+\mb erroːčin nek -mI       ọːn ịbgọ bi -RI -W -E-n(I)              tarak -W   ịa    -DʒI -p
+\ge prox.qual  do  -cond.cvb how    good     be -impf.ptc -acc -ep-poss.3sg dist  -acc do.what -fut  -1pl.in
+
+\tx ukčemmetčip.
+\mb ukčen -mEČ -DʒI -p
+\ge tell   -rec  -fut  -1pl.in
+\ft If we do like that how good will it be, that is what we will talk about.
+\ru Если так сделать как хорошо будет об этом поговорим.
+\ELANBegin 00:07:17.554
+\ELANEnd 00:07:23.690
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_055
+\tx Adị    stada  eh... hiː nulgewetti...
+\mb adịː  stado  eh    hiː nulge   -WEːČ -RI
+\ge how.much herd.R eh    2sg  migrate -gnr    -pst
+\ft (Intended) To how many herds do you go?
+\ru
+\ELANBegin 00:07:23.690
+\ELANEnd 00:07:30.749
+\ELANParticipant BP
+
+\id Stepanova_NA_kochevaja_shkola_056
+\tx Nulgewettiw                      họːja, erek nadan stadala        biettiw.
+\mb nulge -WEːČ -RI -W             họːja  erek nadan stado  -(dU)LE bi -WEːČ -RI -W
+\ge migrate -gnr -impf.ptc -poss.1sg many      prox seven herd.R -loc    be -gnr -pst -poss.1sg
+\ft I have migrated a lot, I have been to seven brigades (or in the seventh brigade).
+\ru Моих кочеваний много, я в 7 стад/в 7мое стадо ездила.
+\ELANBegin 00:07:30.749
+\ELANEnd 00:07:38.575
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_057
+\tx Nadan stadala        hordej...              ịlan stadalị      horriw            nadan stadala.
+\mb nadan stado  -(dU)LE hor -DE       -J       ịlan stado  -(dU)LI hor -RI -W        nadan stado  -(dU)LE
+\ge seven herd.R -loc    go  -purp.cvb -prfl.sg three  herd.R -prol   go -pst -poss.1sg seven herd.R -loc
+\ft In order to go to the seventh brigade... I went via the third brigade to the seventh brigade.
+\ru Чтобы поехать в 7мое стадо я поехала через 3ее стадо.
+\ELANBegin 00:07:38.575
+\ELANEnd 00:07:45.439
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_058
+\tx Tala          gọrakeː     dessiriw,             esten       gennewrer,
+\mb tarak -(dU)LE gọrụ =kE   desči -RI -W         e   -R(E)   gel      -nE     -Gr(E) -R
+\ge dist  -loc    long     =emph lie    -pst -poss.1sg neg -nonfut look.for -intent -hab   -neg.cvb
+
+\tx ọrọntị                   ačča goːŋner.
+\mb ọrọn          -t(I)        ačča goːn -Gr(E) -r
+\ge domestic.reindeer -poss.1pl.in neg    say   -hab   -3pl
+\ft There I lay for a very long time, they didn't come to fetch me, they said they didn't have reindeer.
+\ru Там долго лежала, они не приезжают за мной, говорят что оленей нету.
+\ELANBegin 00:07:45.439
+\ELANEnd 00:07:50.912
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_059
+\tx Tiemi     gọrakeː     dessičelew                      nediele ọːdnịkahal            emnidʒur,
+\mb teːmi    gọrụ =kE   desči -čE    -(dU)LE -W        nedelja ọː  -D    -nIkEn   -SEl em   -RIdʒI -L
+\ge therefore long     =emph lie    -pf.ptc -loc    -poss.1sg week.R  become -prog -sim.cvb -pl  come -ant.cvb -pl
+
+\tx horuritne.
+\mb hor -U    -RI -tEn
+\ge go  -caus -pst -poss.3pl
+\ft Therefore when I had lain there long, a week had already passed (they turned it into a week), they came and brought me (to the
+next brigade).
+\ph
+\gr (13_quest_2010, 13:45) nediele ọːdnịkahal = oni rasstjanuli eto na nedelju, the plural marking on the converb refers to them, the
+ones who came so late, it does not refer to the week (which is what I thought at first); if the converb belonged to the 'week', it would
+be nediele ọːddakan
+\ru Поэтому пролежав долго, когда неделя уже становилось, приехав увезли.
+\ELANBegin 00:07:50.912
+\ELANEnd 00:07:55.410
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_060
+\tx Horučeletne                        zadanijawan                  ịawan                 takkattịdʒị        tar
+\mb hor -U    -čE    -(dU)LE -tEn      zadanija   -W   -E-n(I)      ịak -W   -E-n(I)      tat   -kE -Č  -RIdʒI  tarak
+\ge go  -caus -pf.ptc -loc    -poss.3pl exercise.R -acc -ep-poss.3sg what  -acc -ep-poss.3sg learn -?? -res -ant.cvb dist
+
+\tx erek Stepanov Gena gerbe kụŋan          tala          nelke        horuritne.
+\mb erek Stepanov Gena gerbe kụŋa -n(I)     tarak -(dU)LE nelkeni      hor -U    -RI -tEn
+\ge prox Stepanov Gena name  child   -poss.3sg dist  -loc    early.spring go  -caus -pst -poss.3pl
+\ft When they took me away, after having done their lessons and such, the son of Gena Stepanov took me there in spring.
+\ru Когда они увезли задание выучив, там ребенок С.Г весной увезли.
+\ELANBegin 00:07:55.410
+\ELANEnd 00:08:04.614
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_061
+\tx Tara, taraw      ịarịdʒị   emnidʒi      emie   ele          dessirem            gọr    baγajï,
+\mb tarak tarak -W   ịa    -RIdʒI  em   -RIdʒI  emie   erek -(dU)LE desči -R(E) -m     gọrụ baγajï
+\ge dist  dist  -acc do.what -ant.cvb come -ant.cvb also.Y prox -loc    lie    -nonfut -1sg long     very.Y
+
+\tx ịlandụk,   ịlan stadala.
+\mb ịlan -DUk(U) ịlan stado  -(dU)LE
+\ge three  -abl    three  herd.R -loc
+\ft Having done that, having come, I also lay here for a long time, from the third (brigade), in the third brigade.
+\ru Сделав это, приехав, здесь тоже очень долго пролежала, из третьего, в третьем стаде.
+\ELANBegin 00:08:04.614
+\ELANEnd 00:08:12.037
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_062
+\tx Tarịt ujun stadala        emčelew                       kata        ere  noste kụŋačal       ewehki
+\mb tarịt ujun stado  -(dU)LE em   -čE    -(dU)LE -W        xata        erek noste kụŋa -čEn -L  erek -skI
+\ge then    nine herd.R -loc    come -pf.ptc -loc    -poss.1sg thank.god.Y prox young child   -dim  -pl prox -advb.all
+
+\tx minu         emuridʒur              nọːdara.
+\mb min     -W   em -U      -RIdʒI -L   nọːda -R(E)
+\ge 1sg.obl -acc come -caus -ant.cvb -pl throw    -nonfut
+\ft Then when I came to the ninth brigade, luckily these young kids brought me here (by some form of transport, truck, snowmobile).
+\ph
+\ru Потом когда я приехала в 9ое стада, эти молодые дети сюда меня привезя перебросили.
+\ELANBegin 00:08:12.037
+\ELANEnd 00:08:17.614
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_063
+\tx Tačịn       bi   biekkererem.
+\mb tarọːčịn biː bi -WEːČ -Gr(E) -R(E) -m
+\ge dist.qual      1sg  be -gnr    -hab   -nonfut -1sg
+\ft That is how I travel.
+\ru Так езжу.
+\ELANBegin 00:08:17.614
+\ELANEnd 00:08:20.162
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_064
+\tx Dʒoːrmịar      tụnŋan anŋanịdụ, ee, dvuxtysičnaj    tụnŋan anŋanịdụ, digen anŋanịdụ tọːr emie
+\mb dʒoːr mịan -L  tụnŋan anŋan -DU     ee  dvuxtysjačnyj   tụnŋan anŋan -DU     digen anŋan -DU    tarak   emie
+\ge two     ten    -pl five      year   -dat    eh  two.thousandth.R five      year   -dat    four  year   -dat   dist    also.Y
+
+\tx bọ...      nel...       bọlọ,    bọlọ     bọlọ     nadan anŋanịla    biettiw.
+\mb bọlọnị nelkeni      bọlọnị bọlọnị bọlọnị nadan anŋan -(dU)LE bi -WEːČ -RI -W
+\ge late.autumn  early.spring late.autumn  late.autumn  late.autumn  seven year   -loc    be -gnr -pst -poss.1sg
+\ft In the year 2005, 2004 I also went to the seventh brigade (actually says 'seven year') in autumn.
+\ru В 25м году, в 2005м году, в 4м году, тоже там осенью на 7 лет ездила (наверно стадала хотела сказать)
+\ELANBegin 00:08:20.162
+\ELANEnd 00:08:34.072
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_065
+\tx Nadan stadala        biettiw.
+\mb nadan stado  -(dU)LE bi -WEːČ -RI -W
+\ge seven herd.R -loc    be -gnr -pst -poss.1sg
+\ft I went to the seventh brigade.
+\ru В 7мое стадо ездила.
+\ELANBegin 00:08:34.072
+\ELANEnd 00:08:36.555
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_066
+\tx Tadụk       dʒapkan stadal     ọrmụr                  itnemi                emnitne.
+\mb tarak -DUk(U) dʒapkan stado  -L  ọrọn          -WUr     it  -nE     -mI       em   -RI -tEn
+\ge dist  -abl    eight    herd.R -pl domestic.reindeer -prfl.pl see -intent -cond.cvb come -pst -poss.3pl
+\ft From there the people of the eighth brigade came to look after their reindeer.
+\ph
+\gr (13_quest_2010, 15:30) dʒapkan stadal = 'vosmi-stadovskie', i.e. the people from the eighth brigade, that is how they frequently refer
+to workers of reindeer brigades, the plural on stado, e.g. ühüs stadal, tọxsụs stadal = rabotniki 3go, 9go stada
+\ru Оттуда 8мое стадо приехали смотреть своих оленей.
+\ELANBegin 00:08:36.555
+\ELANEnd 00:08:40.702
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_067
+\tx Taralńụn        herridʒi,   tọːr dʒapkan stadalị      hettis    ịalịn,              er
+\mb tarak -E-L   -ńUn hor -RIdʒI  tarak   dʒapkan stado  -(dU)LI settis    ịak -(dU)LI -n(I)     erek
+\ge dist  -ep-pl -com  go  -ant.cvb dist    eight    herd.R -prol   seventh.Y what  -prol   -poss.3sg prox
+
+\tx ịandʒalị,        Kadaːrańdʒalị          ịalị      moːle        tikenteken,        bọlọ.
+\mb ịak -ńdʒE -(dU)LI kadaːr -E  -ńdʒE -(dU)LI ịak -(dU)LI moː  -(dU)LE tik  -E  -ntEkEn   bọlọnị
+\ge what  -aug    -prol   rock    -ep -aug    -prol   what  -prol   water -loc    fall -ep -mult.cvb late.autumn
+\ft I went with those, (going) around the eighth herd, the seventh whatchamacallit, along here, along Kadarandja, falling into the water,
+in autumn.
+\ru Поехав с ними, по 8мому стаду, по 7мому чему, по Кадаранджали, в воду падая, осенью.
+\ELANBegin 00:08:40.702
+\ELANEnd 00:08:50.478
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_068
+\tx Talị        nulgew... horridʒi    dʒapkan stadala        horridʒi,   ta... anï  dʒapkan stadadụk
+\mb tarak -(dU)LI nulge     hor -RIdʒI  dʒapkan stado  -(dU)LE hor -RIdʒI  tarak anï  dʒapkan stado  -DUk(U)
+\ge dist  -prol   migrate   go  -ant.cvb eight    herd.R -loc    go  -ant.cvb dist  now.Y eight    herd.R -abl
+
+\tx ele          emniw.
+\mb erek -(dU)LE em   -RI -W
+\ge prox -loc    come -pst -poss.1sg
+\ft Going via there, having gone to the eighth brigade, now from the eighth brigade I came here.
+\ru Потудова поехав, в 8мое стадо поехав, а теперь из 8го стада сюда приехав.
+\ELANBegin 00:08:50.478
+\ELANEnd 00:08:57.329
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_069
+\tx Tarịt er   nọnap    stadala        mịan, mịanịs    stadala        mịan dʒoːris      stadala
+\mb tarịt erek nọnap    stado  -(dU)LE mịan  mịan -Is    stado  -(dU)LE mịan dʒoːr -Is    stado  -(dU)LE
+\ge then    prox the.first. herd.R -loc    ten     ten    -ord.Y herd.R -loc    ten    two     -ord.Y herd.R -loc
+
+\tx biettiw
+\mb bi -WEːČ -RI -W
+\ge be -gnr -pst -poss.1sg
+\ft Then I went to the first brigade, the tenth brigade, the twelfth brigade.
+\ru Потом в 1м стаде, в 10м стаде и в 12 стадо я ездила.
+\ELANBegin 00:08:57.329
+\ELANEnd 00:09:04.518
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_070
+\tx Tar   emie   bọlọ     tuge,  janvardụ     urgekie     erejekie            ajannaːrịw.
+\mb tarak emie   bọlọnị tugeni janvar'   -DU  urge  =kE   erej      -E  =kE   ajannaː  -RI -W
+\ge dist  also.Y late.autumn  winter January.R -dat heavy =emph trouble.Y -ep =emph journey.Y -pst -poss.1sg
+\ft That was also in autumn, in winter, in January, I travelled with great difficulty and touble.
+\ru Это тоже осенью зимой в январе очень тяжело, бедственно я ездила.
+\ELANBegin 00:09:04.518
+\ELANEnd 00:09:09.510
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_071
+\tx Erteki       tördüs stada, ee, digen stadaw      ọːddakatna,                     tala          emie
+\mb erek -t(E)kI tördüs stado  ee  digen stado  -W   ọː -D    -REk      -E-tEn       tarak -(dU)LE emie
+\ge prox -all    fourth.Y herd.R eh  four  herd.R -acc make  -prog -cond.cvb -ep-poss.3pl dist  -loc    also.Y
+
+\tx biettiw.
+\mb bi -WEːČ -RI -W
+\ge be -gnr -pst -poss.1sg
+\ft When they organized the fourth brigade here, I also went there.
+\ph ọːddakatnat
+\ru Здесь когда сделали 4ое стада, там тоже ездила.
+\ELANBegin 00:09:09.510
+\ELANEnd 00:09:17.115
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_072
+\tx Tala          biettidʒi          elekes   nulgeweggere                  taraw      ụmụjrịdʒụr,  Hejemčen
+\mb tarak -(dU)LE bi -WEːČ -RIdʒI  elekes   nulge   -U    -E-D     -Gr(E) tarak -W   ụmụj -RIdʒI -L   Hejemčen
+\ge dist  -loc    be -gnr    -ant.cvb at.first migrate -caus -ep-prog -hab   dist  -acc gather   -ant.cvb -pl Hejemčen
+
+\tx ịalịn               naːldịlịn,          talị        ilbejekteːkel,        dalše    horejekteːkel.
+\mb ịak -(dU)LI -n(I)     naːldị -RI -n(I)      tarak -(dU)LI ilbe  -jEktEːk -E-L   dalše    hor -E  -jEktEːk -E-L
+\ge what  -prol   -poss.3sg tributary -pst -poss.3sg dist  -prol   chase -nec.Y    -ep-pl further.R go  -ep -nec.Y    -ep-pl
+\ft I was there for a while, they had only just moved everything, having gathered it, along the tributaries of the Hejemchen, they were
+supposed to chase (the reindeer) along there, were supposed to go further.
+\ph
+\gr (13_quest_2010, 16:20) nulgeweggere = oni perevozili, should be nulgeweggerer, but the final -r got lost, is frequently the case
+here > from nulgeweddej > from nulgewdej 'perevesti vešči ili kogo-libo', nulgeweddej = perevozit' vešči ili kogo-libo --> i.e.
+here the -W is again a causative suffix
+\ru Там побывав, отни только только перевозили все собрав по устью Хэйэмчена там должны были погнать, дальше должны были
+поехать.
+\ELANBegin 00:09:17.115
+\ELANEnd 00:09:26.462
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_073
+\tx Tala          biettiw,               tụŋŋan stadala        biettiw,               ńuŋen stadala
+\mb tarak -(dU)LE bi -WEːČ -RI -W      tụnŋan  stado  -(dU)LE bi -WEːČ -RI -W      ńuŋen stado  -(dU)LE
+\ge dist  -loc    be -gnr -pst -poss.1sg five       herd.R -loc    be -gnr -pst -poss.1sg six     herd.R -loc
+
+\tx biettiw.
+\mb bi -WEːČ -RI -W
+\ge be -gnr -pst -poss.1sg
+\ft I went there, I went to the fifth brigade, to the sixth brigade.
+\ru Туда ездила, в 5ое стадо ездила, в 6ое стадо ездила.
+\ELANBegin 00:09:26.462
+\ELANEnd 00:09:31.597
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_074
+\tx Tara  ọttọ, bejel      nahaː ịbga   bejel,     domŋele         bietti               bejel.
+\mb tarak ọttọn bej -E-L   nahaː ịbgọ bej -E-L   doːmŋe -(dU)LE bi -WEːČ -RI       bej -E-L
+\ge dist  dp.Y      man -ep-pl very.Y good     man -ep-pl taiga    -loc    be -gnr    -impf.ptc man -ep-pl
+\ft Well there, the peope are very good, the people who live in the taiga.
+\ru Вот, люди очень хорошие, те кто там в тайги ездят.
+\ELANBegin 00:09:31.597
+\ELANEnd 00:09:35.588
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_075
+\tx Hinu,        hindu        paslednaj ečin      ịadʒịr,       ịadʒịr,       ọːn goːŋner,
+\mb hin     -W   hin     -DU  poslednij erroːčin ịa    -DʒI -r   ịa    -DʒI -r   ọːn goːn -Gr(E) -r
+\ge 2sg.obl -acc 2sg.obl -dat last.R    prox.qual  do.what -fut  -3pl do.what -fut  -3pl how    say   -hab   -3pl
+
+\tx toːditčir.
+\mb toːdi -Č  -DʒI -r
+\ge help   -res -fut  -3pl
+\ft They'll help you with the last (they have).
+\ru Тебе последним помогут.
+\ELANBegin 00:09:35.588
+\ELANEnd 00:09:44.441
+\ELANParticipant 29:30
+
+\id Stepanova_NA_kochevaja_shkola_076
+\tx Ịbgal      bejel,     domŋele         bietmi,              ere  ele          emmi           eleńun
+\mb ịbgọ -L  bej -E-L   doːmŋe -(dU)LE bi -WEːČ -mI       erek erek -(dU)LE em   -mI       erek -(dU)LE =ńUn
+\ge good     -pl man -ep-pl taiga    -loc    be -gnr    -cond.cvb prox prox -loc    come -cond.cvb prox -loc    =restr
+
+\tx emmi           ọːngọl   ọːwrar.
+\mb em   -mI       ọːn =(W)Ul ọː  -Gr(E) -r
+\ge come -cond.cvb how    =indef become -hab   -3pl
+\ft They are good people when they are in the taiga, just when they come here they become somehow.
+\ru Хорошие люди когда в тайге ездят, только сюда приехав какими-то становится.
+\ELANBegin 00:09:44.441
+\ELANEnd 00:09:49.667
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_077
+\tx Ọbdawračalgụ                ili  ekstriːmgu   ịawrača             uručun.
+\mb ọbda    -Gr(E) -čE -L     =GU ili  ekstrim   =GU ịa    -Gr(E) -čE    ureːčin
+\ge get.tired -hab   -pf.ptc -pl =q  or.R extreme.R =q  do.what -hab   -pf.ptc it.seems
+
+\ft Do they get tired or does the extreme do something (to them).
+\ru Устают ли или экстрим с ними что-то делает.
+\ELANBegin 00:09:49.667
+\ELANEnd 00:09:55.374
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_078
+\tx Tačịn       dʒọmkakkararam              biː.
+\mb tarọːčịn dʒọmkat -Gr(E) -R(E) -m     biː
+\ge dist.qual      think      -hab   -nonfut -1sg 1sg
+\ft That's what I think.
+\ru Я так думаю.
+\ELANBegin 00:09:55.374
+\ELANEnd 00:09:57.610
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_079
+\tx Uonna adị    kụŋal    eh
+\ft And how many children ?
+\ru
+\ELANBegin 00:09:57.610
+\ELANEnd 00:10:01.705
+\ELANParticipant BP
+
+\id Stepanova_NA_kochevaja_shkola_080
+\tx Adị    kụŋa?
+\mb adịː  kụŋa
+\ge how.much child
+\ft How many children?
+\ru
+\ELANBegin 00:10:01.705
+\ELANEnd 00:10:02.992
+\ELANParticipant NAS
+
+\id Stepanova_NA_kochevaja_shkola_081
+\tx stada  aːjï
+\mb stado  aːjï
+\ge herd.R every.Y
+\ft ... in every herd
+\ru
+\ELANBegin 00:10:02.992
+\ELANEnd 00:10:04.435
+\ELANParticipant BP
+
+\id Stepanova_NA_kochevaja_shkola_082
+\tx Mịan tụŋŋan kụŋa uručun,  ge    mịandụk    hulek                      kụŋa.
+\mb mịan tụnŋan  kụŋa ureːčin ge    mịan -DUk(U) hul              -E  -G    kụŋa
+\ge ten    five       child   it.seems  exclm ten    -abl    remain.in.excess -ep -advr child
+
+\ft It seems fifteen children, well, more than ten.
+\ru Кажется 15 детей, ну, больше 10и.
+\ELANBegin 00:10:04.435
+\ELANEnd 00:10:08.777
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_083
+\tx Tọːr omen kụŋa bidʒin,       minu         tiːŋnerin                 direktoru,           meːn direktoru.
+\mb tarak   omen kụŋa bi -DʒI -n(I) min     -W   tiːn -Gr(E) -RI -n(I)      direktor   -W        meːn direktor   -W
+\ge dist    one  child   be -fut -3sg   1sg.obl -acc send  -hab   -pst -poss.3sg director.R -poss.1sg refl  director.R -poss.1sg
+\ft There will be one child, my director (headmaster) sent me.
+\ru Там один ребенок будет, меня отправлял мой директор.
+\ELANBegin 00:10:08.777
+\ELANEnd 00:10:14.523
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_084
+\tx Tala          horri,       tala          kụŋal    emne,        tala          horri,       tala
+\mb tarak -(dU)LE hor -LI      tarak -(dU)LE kụŋa -L  em   -R(E)   tarak -(dU)LE hor -LI      tarak -(dU)LE
+\ge dist  -loc    go  -imp.2sg dist  -loc    child   -pl come -nonfut dist  -loc    go  -imp.2sg dist  -loc
+
+\tx kụŋal    bihe,      tartịkị   horri,       tala          kụŋal    bihe.
+\mb kụŋa -L  bi -R(E)   tarak -t(E)kI hor -LI      tarak -(dU)LE kụŋa -L  bi -R(E)
+\ge child   -pl be -nonfut dist  -all    go  -imp.2sg dist  -loc    child   -pl be -nonfut
+\ft Go there, there children have come, go there, there are children there, go in that direction, there are children there.
+\ru Туда поезжай, там дети приехали, туда поезжай, там дети есть, в ту сторону поезжай, там дети есть.
+\ELANBegin 00:10:14.523
+\ELANEnd 00:10:20.633
+\ELANParticipant 30:45
+
+\id Stepanova_NA_kochevaja_shkola_085
+\tx Tiːk emie   er   Ivan Nikiforovič goːnin:             "tar  perwejteki      kụŋal... kụŋalbụ
+\mb tiek  emie   erek Ivan              goːn -RI -n(I)      tarak pervyj  -t(E)kI kụŋa -L  kụŋa -L-W
+\ge now   also.Y prox Ivan              say   -pst -poss.3sg dist  first.R -all    child   -pl child   -pl-acc
+
+\tx horudde,                omen kụŋaw     horudde,                dʒoːrbugu      horudde.
+\mb hor -U    -D    -R(E)   omen kụŋa -W   hor -U    -D    -R(E)   dʒoːr -W   =GU hor -U    -D    -R(E)
+\ge go  -caus -prog -nonfut one  child   -acc go  -caus -prog -nonfut two     -acc =q  go  -caus -prog -nonfut
+\ft Now as well Ivan Nikiforovich (the headmaster) said: "They are taking children to the first (brigade), one or two children.
+\ru Сейчас тоже ИН сказал в сторону первого детей возят, одного ревенка возят или двух везут.
+\ELANBegin 00:10:20.633
+\ELANEnd 00:10:28.017
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_086
+\tx Tala          hordʒinni,    er   ịak Sljot     amardadụkụn"               goːnin.
+\mb tarak -(dU)LE hor -DʒI -nrI erek ịak slet      amar   -gIdE -DUk(U) -n(I)     goːn -RI -n(I)
+\ge dist  -loc    go  -fut  -2sg prox what  meeting.R behind -part -abl    -poss.3sg say   -pst -poss.3sg
+\ft You will go there after the reindeer herders festival", he said.
+\ru Туда поедешь после слета сказал.
+\ELANBegin 00:10:28.017
+\ELANEnd 00:10:31.657
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_087
+\tx Tiːk bi   ọppụskaj        garịdʒị, tiːk erbečen   problemat      gurgewčidej
+\mb tiek  biː otpusk     -J       ga   -RIdʒI  tiek  erroːčin problema  -Č  gurgeːwči -DE       -J
+\ge now   1sg  holidays.R -prfl.sg take -ant.cvb now   prox.qual  problem.R -ins work        -purp.cvb -prfl.sg
+
+\tx nekeddem.
+\mb nek -E-D     -R(E) -m
+\ge do  -ep-prog -nonfut -1sg
+\ft Now I have taken leave, I plan to work on such a problem.
+\ru Сейчас взяв отпуск я собираюсь работать с такой проблемой.
+\ELANBegin 00:10:31.657
+\ELANEnd 00:10:37.065
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_088
+\tx Koroče,   distantsionno, distantsionno horenteken,       zadaniew        emunteken.
+\mb koroče    distancionno   distancionno  hor -E  -ntEkEn   zadanija   -W   em -U      -ntEkEn
+\ge in.short.R distant.R      distant.R     go  -ep -mult.cvb exercise.R -acc come -caus -mult.cvb
+\ft In brief, distant (schooling), going around bringing exercises.
+\ru Дистанционно, поезжая привезя задания.
+\ELANBegin 00:10:37.065
+\ELANEnd 00:10:42.135
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_089
+\tx Tara  tačịn       emie   ịbga,  ụčụtal, ee, ịak gurgewčiri           ačča biheken,                   tačịn
+\mb tarak tarọːčịn emie   ịbgọ učitel      ee  ịak gurgeːwči -RI       ačča bi -REk -E-n(I)            tarọːčịn
+\ge dist  dist.qual      also.Y good     teacher.R    eh  what  work        -impf.ptc neg    be -cond.cvb -ep -poss.3sg dist.qual
+
+\tx bietmi               možno, no    mindu        naprimer,     uže      haːwdịnča       bihem.
+\mb bi -WEːČ -mI       možno  no    min     -DU  naprimer      uže      hagdị -n  -čE    bi -R(E) -m
+\ge be -gnr    -cond.cvb may.R   but.R 1sg.obl -dat for.example.R already.R old     -vr -pf.ptc be -nonfut -1sg
+\ft That is also good, if there is no teacher, no worker, one can go like that, but for me, for example... I have already grown old.
+\ru Так тоже хорошо, если нету учителя работника, так тоже ездить можно, но мне например я уже состарилась.
+\ELANBegin 00:10:42.135
+\ELANEnd 00:10:53.926
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_090
+\tx Hïargadụkta       tiketnedej                        meːkukkererem,                   ịawraram,
+\mb hïarga -DUk(U) =DE  tik  -E  -DnE  -DE       -J       meːkuk       -Gr(E) -R(E) -m     ịa    -Gr(E) -R(E) -m
+\ge sled.Y  -abl    =ptl fall -ep -iter -purp.cvb -prfl.sg thrash.around -hab   -nonfut -1sg do.what -hab   -nonfut -1sg
+
+\tx ọrọndụda              nehiːle ụːrị       ọːča       bihem.
+\mb ọrọn          -DU  =DE  nehiːle ụː -RI       ọː  -čE    bi -R(E) -m
+\ge domestic.reindeer -dat =ptl barely.Y mount -impf.ptc become -pf.ptc be -nonfut -1sg
+\ft I frequently fall from the sled, and I can also barely manage to mount a reindeer.
+\ph
+\gr (13_quest_2010, 17:45) tiketnedej = fall several times, with the rare iterative suffix which occurs only in a few verbs; tiketnedej
+meːkukkererem = to i delo sobirajus' padat', postojanno, často --> čut' li ne padat', očen' často
+\nt
+\ru И с саней падаю, и что-то делаю и еле стала садиться на оленя. 
+\ELANBegin 00:10:53.926
+\ELANEnd 00:11:00.335
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_091
+\tx Teːmi    mindu        urge.
+\mb teːmi    min     -DU  urge
+\ge therefore 1sg.obl -dat heavy
+\ft That is why it is difficult for me.
+\ru Поэтому мне тяжело.
+\ELANBegin 00:11:00.335
+\ELANEnd 00:11:02.155
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_092
+\tx Noste bej biečejekteːk           tarbačandụ.
+\mb noste bej bi -WEːČ -E  -jEktEːk tarọːčịn -DU
+\ge young man be -gnr    -ep -nec.Y    dist.qual      -dat
+\ft A young person has to go on such (trips).
+\ph noste bo bej
+\ru Молодой человек должен ездить на такую.
+\ELANBegin 00:11:02.155
+\ELANEnd 00:11:05.626
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_093
+\tx tara
+\mb tarak
+\ge dist
+
+\ru
+\ELANBegin 00:11:05.626
+\ELANEnd 00:11:06.562
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_094
+\tx Uonna kụŋal    anŋanị kọŋdas, anŋanịw  kọŋdas ọnnọ,
+\ft And are the children there throughout the year?
+\ru
+\ELANBegin 00:11:06.562
+\ELANEnd 00:11:16.273
+\ELANParticipant BP
+
+\id Stepanova_NA_kochevaja_shkola_095
+\tx tala
+\mb tarak -(dU)LE
+\ge dist  -loc
+
+\ru
+\ELANBegin 00:11:16.273
+\ELANEnd 00:11:16.780
+\ELANParticipant NAS
+
+\id Stepanova_NA_kochevaja_shkola_096
+\tx tala,         stadala...?
+\mb tarak -(dU)LE stado  -(dU)LE
+\ge dist  -loc    herd.R -loc
+\ft there, in the herd?
+\ru
+\ELANBegin 00:11:16.780
+\ELANEnd 00:11:18.028
+\ELANParticipant BP
+
+\id Stepanova_NA_kochevaja_shkola_097
+\tx Ehni,          anŋanịw  kọŋdọ kọŋdas esten       bihe.
+\mb e -R(E) -n(I)  anŋan -W   kọŋdas  kọŋdas e   -R(E)   bi -R
+\ge neg -nfut -3sg year   -acc through    through   neg -nonfut be -neg.cvb
+\ft No, not throughout the year.
+\ru Нет целый год не бывает.
+\ELANBegin 00:11:18.028
+\ELANEnd 00:11:20.745
+\ELANParticipant NAS
+
+\id Stepanova_NA_kochevaja_shkola_098
+\tx Sentjabr,   aktjabr,  haːn kụŋal    sentjabr    aktjabr   najabr     dekabrdu        haːn emnitne
+\mb sentjabr    oktjabr'  haːn kụŋa -L  sentjabr    oktjabr'  nojabr'    dekabr'    -DU  haːn em   -RI -tEn
+\ge September.R October.R some  child   -pl September.R October.R November.R December.R -dat some  come -pst -poss.3pl
+
+\tx ọːkkọl,  tarịt aprel   maj   hergerer,       haːn mart,   aprel,  maj.
+\mb ọːk =(W)Ul tarịt aprel   maj   hor -Gr(E) -r   haːn mart    aprel   maj
+\ge when   =indef then    April.R May.R go  -hab   -3pl some  March.R April.R May.R
+\ft September, October, some children in September, October, November, December, some came sometime, then they go in April,
+May, some in March, April, May.
+\ru С. о. некоторые дети с, о, н, д. некоторые приехали когда-то, потом  а, м, поезжают некоторые м, а, м.
+\ELANBegin 00:11:20.745
+\ELANEnd 00:11:30.989
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_099
+\tx Tiemi     edu       tiːk wabše       ịadụ   FGOStuda       ịadụ   daγanï, goːli?
+\mb teːmi    erek -DU  tiek  voobše      ịak -DU  FGOS -DU  =DE  ịak -DU  daγanï  goːn -LI
+\ge therefore prox -dat now   in.general.R what  -dat FGOS -dat =ptl what  -dat even.Y    say   -imp.2sg
+\ft Therefore now and in the FGOS and something, right?
+\ru Поэтому здесь сейчас вообще и в ФГОСе и в чем-то другом, да?
+\ELANBegin 00:11:30.989
+\ELANEnd 00:11:37.710
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_100
+\tx Federalnyj gosudarstvennyj obrazovatelnyj standardtuda         ịadụda      dogovor    naːda
+\mb federalnyj gosudarstvennyj obrazovatelnyj standard   -DU  =DE  ịak -DU  =DE  dogovor    nado
+\ge Federal.R  State.R         education.R    standard.R -dat =ptl what  -dat =ptl contract.R need.R
+
+\tx muttu,      dogovor.
+\mb mut    -DU  dogovor
+\ge 1pl.in -dat contract.R
+\ft We need a contract in the Federal Education Standard.
+\ru Нам надо договор на этот федеральный стандард.
+\ELANBegin 00:11:37.710
+\ELANEnd 00:11:44.405
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_101
+\tx Min,    bi   dogovordasčịm                 er,  er   raditel  eduk         ele          ịstala
+\mb min     biː dogovor    -DE -s     -DʒI -m   erek erek roditel' erek -DUk(U) erek -(dU)LE ịstala
+\ge 1sg.obl 1sg  contract.R -vr -rec.Y -fut  -1sg prox prox parent.R prox -abl    prox -loc    until
+
+\tx takkačajar,                         tarịt asnavnọj školala         emudʒin               goːniken.
+\mb tat   -kE -Č  -E  -j    -Ar         tarịt osnovnoj   škola   -(dU)LE em -U      -DʒI -n(I) goːn -nIkEn
+\ge learn -?? -res -ep -conn -prs.ptcp.Y then    basic.R    school.R -loc    come -caus -fut -3sg   say   -sim.cvb
+
+\ft I will make a contract that this parent will teach from here to here, then he will bring (the child) to the primary school.
+\ph takkačajal
+\gr checked to make sure that the -s is really the Sakha reciprocal (13_quest_2010, 20:00)
+\ru Я договор сделаю этот родитель отсюда досюда будет учить, потом что он привозит в основную школу.
+\ELANBegin 00:11:44.405
+\ELANEnd 00:11:52.621
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_102
+\tx Tarịt eduk         emie   horujer,                    emie   asnavnọjdụ emudʒin.
+\mb tarịt erek -DUk(U) emie   hor -U    -j    -Ar         emie   osnovnoj -DU   em -U      -DʒI -n(I)
+\ge then    prox -abl    also.Y go  -caus -conn -prs.ptcp.Y also.Y basic.R  -dat  come -caus -fut -3sg
+\ft Then he will take (the child) from here again, and again will bring it to the primary school.
+\ru Потом отсюда опять увезет, опрять в основную привезет.
+\ELANBegin 00:11:52.621
+\ELANEnd 00:11:56.911
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_103
+\tx Ịamị goːli?
+\mb ịamị goːn -LI
+\ge why      say   -imp.2sg
+
+\ru
+\ELANBegin 00:11:56.911
+\ELANEnd 00:11:57.886
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_104
+\tx Erek kụŋa ọːn domŋele         kuruk     bietčin?
+\mb erek kụŋa ọːn doːmŋe -(dU)LE kuruk     bi -WEːČ -DʒI -n(I)
+\ge prox child   how    taiga    -loc    always.Y. be -gnr    -fut -3sg
+\ft How will this child be in the taiga all the time?
+\ru Этот ребенок как постоянно в тайге будет.
+\ELANBegin 00:11:57.886
+\ELANEnd 00:12:00.538
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_105
+\tx Nụŋụ ọːdʒịn       ehni.
+\mb nụŋụ ọː  -DʒI -n(I) e -R(E) -n(I)
+\ge stupid    become -fut -3sg   neg -nfut -3sg
+\ft It will become stupid, right.
+\ru Он же станет дураком.
+\ELANBegin 00:12:00.538
+\ELANEnd 00:12:01.747
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_106
+\tx Kụŋalńụn    eniken       ịar,           ịamdas,   čukčemdes   ọːdʒịn.
+\mb kụŋa -L  -ńUn e   -nIkEn   ịa    -R       ịak -mdEs čukča -mdEs ọː  -DʒI -n(I)
+\ge child   -pl -com  neg -sim.cvb do.what -neg.cvb what  -sml  Chukchi -sml  become -fut -3sg
+\ft If it doesn't do what (play, interact) with children, it will become like a Chukchi.
+\ru С детьми что-то не делая, как чукча станет.
+\ELANBegin 00:12:01.747
+\ELANEnd 00:12:06.635
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_107
+\tx Dʒulle       čukče goːŋner         ehni           be... derimečenteken,       dikini               kụŋalbụ.
+\mb dʒul -(dU)LE čukča goːn -Gr(E) -r   e -R(E) -n(I)  be    derimet  -E  -ntEkEn   dekin      -RI       kụŋa -L-W
+\ge front -loc    Chukchi say   -hab   -3pl neg -nfut -3sg ptl.Y run.away -ep -mult.cvb hide(intr) -impf.ptc child   -pl-acc
+
+\ft They used to call children who hid Chukchi in the past, running away.
+\ru Раньше чукча называли, убегая, прятающихся детей.
+\ELANBegin 00:12:06.635
+\ELANEnd 00:12:11.315
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_108
+\tx Tiemi     kụŋa himbiːr       kụŋalńụn    biečejekteːk.
+\mb teːmi    kụŋa himbiːr       kụŋa -L  -ńUn bi -WEːČ -E  -jEktEːk
+\ge therefore child   all.the.same.Y child   -pl -com  be -gnr    -ep -nec.Y
+\ft Therefore a child has to be together with (other) children.
+\ru Поэтому ребенок все равно с детьми должен ходить.
+\ELANBegin 00:12:11.315
+\ELANEnd 00:12:16.099
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_109
+\tx Tara.
+\mb tarak
+\ge dist
+
+\ru
+\ELANBegin 00:12:16.099
+\ELANEnd 00:12:16.957
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_110
+\tx Ah, ịbgat,      spasibo.
+\mb ah  ịbgọ -Č  spasibo
+\ge ah  good     -ins thanks.R
+
+\ru
+\ELANBegin 00:12:16.957
+\ELANEnd 00:12:21.416
+\ELANParticipant BP
+
+\id Stepanova_NA_kochevaja_shkola_111
+\tx Ọttọn mut    kačevọj škọlat             asnavnọj ịan,          ịan,          ọːn goːmi
+\mb ọttọn mut    kočevaja  škola   -t(I)        osnovnoj   ịak -n(I)     ịak -n(I)     ọːn goːn -mI
+\ge dp.Y      1pl.in nomadic.R  school.R -poss.1pl.in basic.R    what  -poss.3sg what  -poss.3sg how    say   -cond.cvb
+
+\tx naːda, debiːhengu               ịangụ           goːbepti,           goːli?
+\mb nado    deviz    -E-n(I)      =GU ịak -n(I)     =GU goːn -B   -RI       goːn -LI
+\ge need.R  slogan.R -ep-poss.3sg =q  what  -poss.3sg =q  say   -med -impf.ptc say   -imp.2sg
+
+\ft And our nomadic school's what... how must one say, its slogan, right?
+\ph
+\gr (13_question_2010, 20:20) goːbepti = inccorrect form, should be goːpti 'skazannoe'
+\ru Коч школа как сказать или девиз или что.
+\ELANBegin 00:12:21.416
+\ELANEnd 00:12:30.672
+\ELANParticipant NAS
+
+\id Stepanova_NA_kochevaja_shkola_112
+\tx Bi   ečin      goːndej                 nekrem,          tiːk mut    gọrọllọn            erek dvux...
+\mb biː erroːčin goːn -DE       -J       nek -R(E) -m     tiek  mut    gọrụ -l  -R(E) -n(I)  erek dvux
+\ge 1sg  prox.qual  say   -purp.cvb -prfl.sg do  -nonfut -1sg now   1pl.in long     -vr -nonfut -3sg prox two.acc.R
+
+\tx dʒoːrmịar,     dʒoːr tyhynča   dʒoːr anŋanịdụ erbečem        ịarịt,                debiːskeːr
+\mb dʒoːr mịan -L  dʒoːr tysjača   dʒoːr anŋan -DU    erroːčin -W   ịa    -RI -t(I)         deviz    -GE    -WUr
+\ge two     ten    -pl two     thousand.R two     year   -dat   prox.qual  -acc do.what -pst -poss.1pl.in slogan.R -desig -prfl.pl
+
+\tx garịt.
+\mb ga   -RI -t(I)
+\ge take -pst -poss.1pl.in
+\ft I want to say this, we took this slogan for ourselves a long time ago, in 2002.
+\ph tyhynča - Sakha pronunciation
+\ru Я что хочу сказать, сейчас мы давно, в 2002м году такой девис себе взяли.
+\ELANBegin 00:12:30.672
+\ELANEnd 00:12:42.749
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_113
+\tx Ujemkenduk      urgele,       urgetki,      i...  ịlụmụdụkụj         gọr    bụgaltakị."
+\mb ejumkun -DUk(U) urge  -(dU)LE urge  -t(E)kI i     ịlụmụ -DUk(U) -J       gọrụ bụg -E-L   -t(E)kI
+\ge easy    -abl    heavy -loc    heavy -all    and.R yurt        -abl    -prfl.sg far      place -ep-pl -all
+
+\ft From the easy to the difficult, from our yurt to far-away places.
+\ru От легкого к тяжелому, из илуму своего в далекие страны.
+\ELANBegin 00:12:42.749
+\ELANEnd 00:12:49.808
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_114
+\tx Erek bọllar ńụčịdịt     perevọdtaːmị           "Ot prostogo k složnomu, ot rodnogo  poroga k dalnim stranam."
+\mb erek buollar  ńụča -DI   -Č  perevod       -DE -mI
+\ge prox dp.Y     Russian  -adjr -ins translation.R -vr -cond.cvb
+\ft To translate it into Russian "From the easy to the difficult, from the native hearth to far-away countries."
+\ru
+\ELANBegin 00:12:49.808
+\ELANEnd 00:12:59.194
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_115
+\tx Ịamị, goːli,        nọŋartan himbiːr       kinigewur       ịanịkan,     er   ọratụ   ịanịkan
+\mb ịamị  goːn -LI      nọŋartan himbiːr       kniga  -WUr     ịa    -nIkEn   erek ọrat -W   ịa    -nIkEn
+\ge why       say   -imp.2sg 3pl         all.the.same.Y book.R -prfl.pl do.what -sim.cvb prox herbs  -acc do.what -sim.cvb
+
+\tx itniken      ọratụ   ịzụčajdaːnịkan   ịanịkan.
+\mb it  -nIkEn   ọrat -W   izučaj     -DE -nIkEn   ịa    -nIkEn
+\ge see -sim.cvb herbs  -acc study.imp.R -vr -sim.cvb do.what -sim.cvb
+\ft Because they do whatchamacallit to their books, they look at herbs, study herbs etc.
+\ru Потому что они все равно с книгой делая, траву что-то делая, смотря, траву изучая, и т.д.
+\ELANBegin 00:12:59.194
+\ELANEnd 00:13:09.867
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_116
+\tx Er   moːw,     er   čụkačaːlbụ,    er   toru,      tar   čọŋkọčapča             ịalbụ
+\mb erek moː  -W   erek čụkačaːn -L-W    erek tor   -W   tarak čọŋka -Č  -E-B    -čE    ịak -L  -W
+\ge prox water -acc prox bird          -pl-acc prox earth -acc dist  dig       -res -ep-med -pf.ptc what  -pl -acc
+
+\tx ịanịkahal,        họːjaw     haːjaktaːkal.
+\mb ịa    -nIkEn   -SEl họːja -W   haː -jEktEːk -E-L
+\ge do.what -sim.cvb -pl  many     -acc know -nec.Y    -ep-pl
+\ft Doing something, this water these birds, this earth, these dug up things, they have to know a lot.
+\ru Эту воду, эти птицы, эту землю, это откопанное, чт-то делая, много должны знать.
+\ELANBegin 00:13:09.867
+\ELANEnd 00:13:18.655
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_117
+\tx Wabše       prajek    JuNESKO prajeklan                wabše       nahaː ịbgat       bi   ọːrịw.
+\mb voobše      proekt    JuNESKO proekt    -(dU)LE -n(I)  voobše      nahaː ịbgọ -Č  biː ọː -RI -W
+\ge in.general.R project.R UNESCO  project.R -loc -poss.3sg in.general.R very.Y good     -ins 1sg  make  -pst -poss.1sg
+\ft Overall, I made that UNESCO project very well.
+\ru Вообще проект ЮНЕСКО в проекте вообще я очень хорошо сделала.
+\ELANBegin 00:13:18.655
+\ELANEnd 00:13:23.335
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_118
+\tx Ečin      herdʒip,         ečin      nekčip.
+\mb erroːčin hor -DʒI -p      erroːčin nek -DʒI -p
+\ge prox.qual  go  -fut  -1pl.in prox.qual  do  -fut  -1pl.in
+\ft We'll go like this, we'll do like this.
+\ru Так пойдем, так сделаем.
+\ELANBegin 00:13:23.335
+\ELANEnd 00:13:26.195
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_119
+\tx No    anŋamtaw     ọːk baγarar           bejel      esten       gawrar,              anŋamtaw.
+\mb no    anŋamta -W   ọːk baγar -Ar         bej -E-L   e   -R(E)   ga   -Gr(E) -R       anŋamta -W
+\ge but.R new      -acc when   wish.Y -prs.ptcp.Y man -ep-pl neg -nonfut take -hab   -neg.cvb new      -acc
+\ft But people never get new (projects). 
+\ph
+\nt i.e. projects that are submitted for the first time don't get funded
+\ru Но новое люди никогда не берут, новое.
+\ELANBegin 00:13:26.195
+\ELANEnd 00:13:32.955
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_120
+\tx Mute   bọllar egdʒen ašịbkaw     ọːdaŋat                     ịak goːli,        bejelteki          nọnap
+\mb mut    buollar  egdʒen ošibka   -W   ọː -DEŋ    -E  -t(I)        ịak goːn -LI      bej -E-L   -t(E)kI nọnap
+\ge 1pl.in dp.Y     big     mistake.R -acc make  -pst.ptc -ep -poss.1pl.in what  say   -imp.2sg man -ep-pl -all    the.first.
+
+\tx ukčenejekteːkpit          bejeltiki,         ọːn goːmi          informirujdaːča        bijekteːkpit.
+\mb ukčen -E  -jEktEːk -BIt   bej -E-L   -t(E)kI ọːn goːn -mI       informiruj   -DE -čE    bi -jEktEːk -BIt
+\ge tell   -ep -nec.Y    -1pl.Y man -ep-pl -all    how    say   -cond.cvb inform.imp.R -vr -pf.ptc be -nec.Y    -1pl.Y
+\ft The mistake we made was that we had to first tell the people, we should have informed them.
+\ph ukčenejektejekteːkpit
+\ru Наша ошибка заключается в том что мы должны были рассказать людям, должны были информировать.
+\ELANBegin 00:13:32.955
+\ELANEnd 00:13:49.075
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_121
+\tx Tar   amardadụkụn                omettu   bekeččendʒur           škọlada,   erek hupkuček    daγanï,
+\mb tarak amar   -gIdE -DUk(U) -n(I)     omettu   bekeč -čEn -dʒUr       škola   =DE  erek hupkut -ČEk daγanï
+\ge dist  behind -part -abl    -poss.3sg together all    -dim  -ins.prfl.pl school.R =ptl prox learn  -nr   even.Y
+
+\tx raditelal       daγanï, dʒaːltan             goːli,        kụŋal    dʒaːltan             ńan   erek GUP
+\mb roditel' -E-L   daγanï  dʒaː   -L  -tEn      goːn -LI      kụŋa -L  dʒaː   -L  -tEn      ńaːn erek GUP
+\ge parent.R -ep-pl even.Y    relative -pl -poss.3pl say   -imp.2sg child   -pl relative -pl -poss.3pl and    prox GUP.R
+
+\tx Sebjanda,          bekeččendʒur           omettu   tegetnikehel                   ọːn nekmi         domŋele
+\mb Sebjan-Küöl =DE  bekeč -čEn -dʒUr       omettu   teg      -E-Č   -nIkEn   -SEl ọːn nek -mI       doːmŋe -(dU)LE
+\ge Sebjan-Küöl =ptl all    -dim  -ins.prfl.pl together sit.down -ep-res -sim.cvb -pl  how    do  -cond.cvb taiga    -loc
+
+\tx kụŋaw     ịbgaw       tatụkandʒịp          goːniken      ukčemmetče         bijekteːk.
+\mb kụŋa -W   ịbgọ -W   tat   -WkEn -DʒI -p      goːn -nIkEn   ukčen -mEČ -čE    bi -jEktEːk
+\ge child   -acc good     -acc learn -caus -fut  -1pl.in say   -sim.cvb tell   -rec  -pf.ptc be -nec.Y
+\ft After that all of us together, the school, the parents of the children, and this GUP Sebjan, all together have to sit down and discuss
+how to teach the children in the taiga well.
+\ph
+\gr (13_quest_2010, 22:00) ịbgaw tatụkandʒịp = not correct, should be ịbgat tatụkandʒịp
+\ru После этого вместе все и школа и родители детей и ГУП Себян все вместе сидя как сделав в тайге детей хорошо выучив должны
+были об этом говорить.
+\ELANBegin 00:13:49.075
+\ELANEnd 00:14:12.520
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_122
+\tx Ńan, esli po-russki govorit' deviantnoe otnošenie eto... 
+\tx tarak nahaː nahaː ịbgaw       pljus  ọːwran,         tarbačan      kụŋadụ.
+\mb tarak nahaː nahaː ịbgọ -W   pljus  ọː -Gr(E) -n(I) tarọːčịn kụŋa -DU
+\ge dist  very.Y very.Y good     -acc plus.R make  -hab   -3sg  dist.qual      child   -dat
+\ft And, if one says it in Russian, deviant relation (she probably meant deviant behaviour), that will have a very positive effect on such
+a child.
+\ru ... очень хорошое плюс делает такому ребенку (с девиантном поведением).
+\ELANBegin 00:14:12.520
+\ELANEnd 00:14:25.200
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_123
+\tx Tiemi     tarbačan      kụŋa eden                    keńeli ọːra,        er   ručkan          ačča,
+\mb teːmi    tarọːčịn kụŋa e   -DE       -n(I)     keńeli ọː  -R       erek ručka -n(I)     ačča
+\ge therefore dist.qual      child   neg -purp.cvb -poss.3sg bad     become -neg.cvb prox pen.R  -poss.3sg neg
+
+\tx er   karandaːhan           ačča, ereŋen                ačča.
+\mb erek karandaš -E-n(I)      ačča  erek -ŋ  -E-n(I)      ačča
+\ge prox pencil.R  -ep-poss.3sg neg     prox -aln -ep-poss.3sg neg
+\ft Therefore, so that such a child doesn't turn bad, he doesn't have a pen, doesn't have a pencil, doesn't have this.
+\ru Поэтому чтобы такой ребенок не стал плохим, то ручки нету, вот карандаша у него нету, этого нету.
+\ELANBegin 00:14:25.200
+\ELANEnd 00:14:33.240
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_124
+\tx Domŋele         tarbačan      ačča bọlla.
+\mb doːmŋe -(dU)LE tarọːčịn ačča buol  -dEg      -E
+\ge taiga    -loc    dist.qual      neg    aux.Y -assert.Y -poss.3sg.Y
+
+\ft Those things don't exist in the taiga, right.
+\ru В тайге такого же нету.
+\ELANBegin 00:14:33.240
+\ELANEnd 00:14:35.147
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_125
+\tx Bekeččemen                   garịdʒị, horujer                     bọllagịŋ,
+\mb bekeč -čEn -W   -E-n(I)      ga   -RIdʒI  hor -U    -j    -Ar         buol  -dEg      -Iŋ
+\ge all    -dim  -acc -ep-poss.3sg take -ant.cvb go  -caus -conn -prs.ptcp.Y aux.Y -assert.Y -poss.2sg.Y
+
+\tx kinigelbi,          tetradalbi,                kụŋaldụ     naːdaw.
+\mb kniga  -L  -J       tetrad'    -E-L   -J       kụŋa -L  -DU  nado   -W
+\ge book.R -pl -prfl.sg notebook.R -ep-pl -prfl.sg child   -pl -dat need.R -acc
+
+\ft You take everything and bring it (to the herd), your books, your notebooks, what children need.
+\ru Все взяв увозишь, книги, тетради, все нужное детям.
+\ELANBegin 00:14:35.147
+\ELANEnd 00:14:39.788
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_126
+\tx Meːn kaččịdʒị       garịdʒị  horuwrenni.
+\mb meːn xarčị -DʒI        ga   -RIdʒI  hor -U    -Gr(E) -nrI
+\ge refl  money.Y  -ins.prfl.sg take -ant.cvb go  -caus -hab   -2sg
+\ft You buy that with your own money and bring it.
+\ru Возишь купив на свои деньги.
+\ELANBegin 00:14:39.788
+\ELANEnd 00:14:41.933
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_127
+\tx Knigebutne            bekeččeːmen.
+\mb kniga  -W   -tEn      bekeč -čEn -W   -E-n(I)
+\ge book.R -acc -poss.3pl all    -dim  -acc -ep-poss.3sg
+
+\ft All their books.
+\ru Книги ихние все.
+\ELANBegin 00:14:41.933
+\ELANEnd 00:14:43.636
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_128
+\tx Ere  naušnaj    ịaj          emie   omettu   horuwrenni.
+\mb erek naušniki   ịak -J       emie   omettu   hor -U    -Gr(E) -nrI
+\ge prox earphones.R what  -prfl.sg also.Y together go  -caus -hab   -2sg
+\ft And these earphones you take with you.
+\ph
+\gr
+\nt It is not quite clear what she means by this, there is no Russian word naušnyj - there is the word naučnyj 'scientific', and there is
+naušniki 'earphones'. Since she looks at the earphones lying on the table while she says it, I take it to mean earphones.
+\ru И научные эти тоже вместе возишь.
+\ELANBegin 00:14:43.636
+\ELANEnd 00:14:48.082
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_129
+\tx Teːmi    kụŋa tala          ehni           haːwrar,            er   karandahụ,        erew
+\mb teːmi    kụŋa tarak -(dU)LE e -R(E) -n(I)  haː -Gr(E) -R       erek karandaš -W        erek -W
+\ge therefore child   dist  -loc    neg -nfut -3sg know -hab   -neg.cvb prox pencil.R  -poss.1sg prox -poss.1sg
+
+\tx ručkaw          ačča, ereŋu              ...
+\mb ručka -W        ačča  erek -ŋ  -W        *...
+\ge pen.R  -poss.1sg neg     prox -aln -poss.1sg ***
+\ft That is why there the child doesn't know that is doesn't have a pen, a pencil.
+\ru Поэтому ребенок там не знает вот у меня карандаша, ручки нету.
+\ELANBegin 00:14:48.082
+\ELANEnd 00:14:53.438
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_130
+\tx Bekeččendʒur           omettu   bimi,        ịbga.
+\mb bekeč -čEn -dʒUr       omettu   bi -mI       ịbgọ
+\ge all    -dim  -ins.prfl.pl together be -cond.cvb good
+\ft If all are together, it's good.
+\ph
+\gr
+\nt The problem is that these children who don't have pens or pencils feel the difference when they are in the village, where their
+classmates do have these things, therefore they are problem children in the village. In the taiga NAS brings them pens, and they are
+all in the same situation, so there is no envy.
+\ru Если вместе всем быть, хорошо.
+\ELANBegin 00:14:53.438
+\ELANEnd 00:14:56.766
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_131
+\tx Ele          tarbačan      dʒọrmịptị,             ačča ịak goːniken.
+\mb erek -(dU)LE tarọːčịn dʒọrọm -E-B    -RI       ačča ịak goːn -nIkEn
+\ge prox -loc    dist.qual      steal       -ep-med -impf.ptc neg    what  say   -sim.cvb
+\ft Here such stealing...
+\ph
+\gr
+\nt This sentence is unclear and I cannot think of how to translate it. Basically, what NAS wanted to say was that here in the village thes
+children steal, because they notice that they lack things others have; in the reindeer herd this problem doesn't exist.
+\ru Здесь такое кражи нету, что-то говоря.
+\ELANBegin 00:14:56.766
+\ELANEnd 00:15:02.278
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_132
+\tx Domŋele         tarbačan      ačča.
+\mb doːmŋe -(dU)LE tarọːčịn ačča
+\ge taiga    -loc    dist.qual      neg
+\ft In the taiga there is no such thing,
+\ru В тайге такого нету.
+\ELANBegin 00:15:02.278
+\ELANEnd 00:15:05.463
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_133
+\tx Ńan   bi   bejeŋu                  samoobrazovanijaw          ere  ere  anŋanịw, dʒulle       er   kačevọj
+\mb ńaːn biː bej    -E-ŋ   -W        samoobrazovanie  -W        erek erek anŋan -W   dʒul -(dU)LE erek kočevaja
+\ge and    1sg  self.Y -ep-aln -poss.1sg self.education.R -poss.1sg prox prox year   -acc front -loc    prox nomadic.R
+
+\tx škọla, kačevọj gur... gurgep...    gurgečepti škọla ọːn bihiwen                        dụkrịw,
+\mb škola    kočevaja  gur    gurgeː -B               škola   ọːn bi -RI -W -E-n(I)              dụk -RI -W
+\ge school.R  nomadic.R  ***    work    -med             school.R how    be -impf.ptc -acc -ep-poss.3sg write -pst -poss.1sg
+
+\tx prajeki.
+\mb proekt    -J
+\ge project.R -prfl.sg
+\ft And my own self education this year, previously I wrote a project about how the nomadic school works.
+\ph
+\gr (13_quest_2010, 22:30) gurgečepti = not correct; it should be: ja napisala kak rabotaet koč. škola, kak živet = kačevọj škọla
+gurgewčiriwen, ọːn bihiwen dụkrịw
+\ru Мое собственное самообразование в этом году, раньше я написала как работает кочевая школа, проект собственный.
+\ELANBegin 00:15:05.463
+\ELANEnd 00:15:18.320
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_134
+\tx Tarịt pastepenno  er   LTOj,        letne      trudovoj ịaw      bihni           ele,         dʒoːrmịar
+\mb tarịt postepenno  erek LTO -J       letne      trudovoj ịak -W   bi -R(E) -n(I)  erek -(dU)LE dʒoːr mịan -L
+\ge then    gradually.R prox LTO -prfl.sg summer's.R labour.R what  -acc be -nonfut -3sg prox -loc    two     ten    -pl
+
+\tx tụŋŋan kilometr eduk.
+\mb tụnŋan  kilometr erek -DUk(U)
+\ge five       km.R     prox -abl
+\ft Then gradually my LTO (summer work camp), there is one here, twentyfive kilometres from here.
+\ru Потом постепенно свое ЛТО, у меня есть здесь летне-трудовой, 25 км отсюда.
+\ELANBegin 00:15:18.320
+\ELANEnd 00:15:27.069
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_135
+\tx Tala          bi   balakkalkan   ịalkan,   ireliw      hupte    ọldọmịwraram.
+\mb tarak -(dU)LE biː palatka -lkEn ịak -lkEn ireli  -W   suptu    ọlra -mI -Gr(E) -R(E) -m
+\ge dist  -loc    1sg  tent.R  -prop what  -prop summer -acc during.Y fish   -vr -hab   -nonfut -1sg
+\ft There I have tents and other things, I fish all summer.
+\ru Там я с палаткой  и другим, все лето рыбачу.
+\ELANBegin 00:15:27.069
+\ELANEnd 00:15:30.293
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_136
+\tx Họːja kụŋa horgeren           tala.
+\mb họːja kụŋa hor -Gr(E) -E-n(I) tarak -(dU)LE
+\ge many     child   go  -hab   -ep-3sg dist  -loc
+\ft A lot of children go there.
+\ru Много детей ездит туда.
+\ELANBegin 00:15:30.293
+\ELANEnd 00:15:31.814
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_137
+\tx Gịawanụ irildu      mịan kụŋa horrin,            emie   kačevọj goːniken      horritne,
+\mb gịawanụ ireli  -DU  mịan kụŋa hor -RI -n(I)      emie   kočevaja  goːn -nIkEn   hor -RI -tEn
+\ge last.year   summer -dat ten    child   go  -pst -poss.3sg also.Y nomadic.R  say   -sim.cvb go  -pst -poss.3pl
+
+\tx minńun       omettu,  biettitne                 bi   omekken gurgewčiriw,              dʒebleŋutne
+\mb min     -ńUn omettu   bi -WEːČ -RI -tEn       biː omekken gurgeːwči -RI -W         dʒep -LE -ŋ  -W   -tEn
+\ge 1sg.obl -com  together be -gnr    -pst -poss.3pl 1sg  alone   work        -pst -poss.1sg eat   -nr -aln -acc -poss.3pl
+
+\tx ịawụtna.
+\mb ịak -W   -tEn
+\ge what  -acc -poss.3pl
+\ft Last summer ten children went, they went saying they belong to the nomadic (school), went with me, I alone worked, (made) their
+food and things.
+\ph
+\ru Прошлом году летом 10 детей ездило, тоже кочевой говоря, (говоря что они состоят в кочевой школе) поехали, вместе со мной
+ездили, я одна работала, еду для них и другое.
+\ELANBegin 00:15:31.814
+\ELANEnd 00:15:43.033
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_138
+\tx Ńan   meːn dʒaːlbị           gassịwraram                   họːja kụŋalkan   tar   ńuŋen kụŋalkan   Zaxarova,
+\mb ńaːn meːn dʒaː   -L  -J       ga   -sčI  -Gr(E) -R(E) -m     họːja kụŋa -lkEn tarak ńuŋen kụŋa -lkEn Zaxarova
+\ge and    refl  relative -pl -prfl.sg take -conat -hab   -nonfut -1sg many     child   -prop dist  six     child   -prop Zaxarova
+
+\tx ŋiː bihin,            Tujara, invalid   kụŋalkan.
+\mb ŋiː bi -RI -n(I)      Tujara  invalid   kụŋa -lkEn
+\ge who   be -pst -poss.3sg Tujara  invalid.R child   -prop
+\ft And I try to take my own relatives, thos with many children, there is Tujara Zaxarova with six children, with an invalid child.
+\ru И стараюсь брать своих родственников, те у которых есть много детей, есть Туяра Захарова с 6ю детьми, у нее ребенок инвалид.
+\ELANBegin 00:15:43.033
+\ELANEnd 00:15:52.692
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_139
+\tx Taraldụn               dʒoːr kụŋawan                horuriw.
+\mb tarak -L  -DU  -n(I)     dʒoːr kụŋa -W   -E-n(I)      hor -U    -RI -W
+\ge dist  -pl -dat -poss.3sg two     child   -acc -ep-poss.3sg go  -caus -pst -poss.1sg
+
+\ft I took two of those children.
+\ph
+\gr (13_quest_2010, 24:35) taraldụn = should be taraldụkụn 'iz ee etix'
+\ru Из них 2 ребенка увезла.
+\ELANBegin 00:15:52.692
+\ELANEnd 00:15:54.915
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_140
+\tx Er   omen, Krivošapkina Angelina gerbe, tar   amannị         ačča, tiemi     horuriw.
+\mb erek omen  Krivošapkina Angelina gerbe  tarak aman   -n(I)     ačča  teːmi    hor -U    -RI -W
+\ge prox one   Krivoshapkina Angelina name   dist  father -poss.3sg neg     therefore go  -caus -pst -poss.1sg
+\ft There is one, Angelina Krivoshapkina, she doesn't have a father, that is why I took her.
+\ru Одна КА у нее нету отца, поэтому взяла.
+\ELANBegin 00:15:54.915
+\ELANEnd 00:16:01.753
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_141
+\tx Okonešnikoval      ọmọlgọwụtna       horuriw,                 emie   họːja baγajï bejel      tiemi     bi,
+\mb Okonešnikov -E-L   ọmọlga -W   -tEn      hor -U    -RI -W         emie   họːja baγajï bej -E-L   teːmi    biː
+\ge Okoneshnikov -ep-pl boy        -acc -poss.3pl go  -caus -pst -poss.1sg also.Y many     very.Y   man -ep-pl therefore 1sg
+
+\tx tarbačan.
+\mb tarọːčịn
+\ge dist.qual
+\ft I took the Okoneshnikovs' son, because they are also many people.
+\ru Сына Оконешниковых взяла, потому что у них много людей, поэтому так.
+\ELANBegin 00:16:01.753
+\ELANEnd 00:16:07.629
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_142
+\tx Karọče  tarbačan      kụŋalńụn    gurgewčirij                   ajaːwram.
+\mb koroče    tarọːčịn kụŋa -L  -ńUn gurgeːwči -RI       -J       ajaːw -R(E) -m
+\ge in.short.R dist.qual      child   -pl -com  work        -impf.ptc -prfl.sg love   -nonfut -1sg
+\ft In short, I love to work with such children.
+\ru Я люблю работать с такими детьми.
+\ELANBegin 00:16:07.629
+\ELANEnd 00:16:12.608
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_143
+\tx Ńan   tiːk bọllar er   anŋanịwrụptụk   bọllar ŋiː ịawan                 garam,
+\mb ńaːn tiek  buollar  erek anŋan -(E)rEp -DUk(U) buollar  ŋiː ịak -W   -E-n(I)      ga   -R(E) -m
+\ge and    now   dp.Y     prox year   -adjr   -abl    dp.Y     who   what  -acc -ep-poss.3sg take -nonfut -1sg
+
+\tx hontew     ọttọn baγar    ọddʒịmda        baγar    dụkčịmda         filosofija
+\mb honte -W   ọttọn baγar    ọd -DʒI -m =DE    baγar    dụk -DʒI -m =DE    filosofija
+\ge other -acc dp.Y      perhaps.Y stop -fut  -1sg =ptl perhaps.Y write -fut  -1sg =ptl philosophy.R
+
+\tx obrazovanija    gerbe.
+\mb obrazovanija    gerbe
+\ge education.gen.R name
+\ft And from this year I took somebody's something, something differen, and perhaps I'll finish, perhaps I'll write it, a so-called
+philosophy of education.
+\ph
+\gr (13_quest_2010, 25:45) anŋanịwrụptụk = not correct, should be anŋanịraptụk
+\ru А с этого года я взяла чье-то там что-то, другое (тему наверно), может быть закончу, может напишу, философию образования.
+\ELANBegin 00:16:12.608
+\ELANEnd 00:16:27.720
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_144
+\tx Russian
+\ru
+\ELANBegin 00:16:27.720
+\ELANEnd 00:16:52.640
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_145
+\tx Russian
+\ru
+\ELANBegin 00:16:52.640
+\ELANEnd 00:16:58.160
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_146
+\tx Russian
+\ru
+\ELANBegin 00:16:58.160
+\ELANEnd 00:17:01.160
+\ELANParticipant 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Sebjan2010/sound_files/sound_from_video/Stepanova_NA_kochevaja_shkola_110310_Sebjan.wav
+\ELANMediaMIME audio/x-wav

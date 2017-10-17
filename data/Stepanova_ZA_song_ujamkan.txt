@@ -1,0 +1,122 @@
+\_sh v3.0  1015 Text
+
+\id ZAS_song_ujamkan_000_metadata
+\ref Recorded on 13 March 2012 in Sebjan-Küöl by Brigitte Pakendorf. At the end of our field trip in 2010 we'd been told that
+ZAS knows traditional Even songs, so recording some of these was one of the goals of the 2012 fieldtrip. However, when
+ZAS came to the flat that BP was renting by prior arrangement in the evening, it turned out that the songs she was going to
+sing were not really traditional, but had been written and composed in the 1950s or 1960s. Furthermore, the timing of the
+recording was far from ideal, since ZAS wasn't feeling well, had a headache and a cold and a bit of a sore throat and she'd
+obviously only come because she felt somewhat obliged since BP was about to leave the village. (An earlier recording hadn't
+been possible because ZAS had only gotten back to the village from town a week before.) The recording took place in the
+"kitchen" of the flat BP was renting, and it was fairly quiet, ZAS refused to be videotaped, so the recording was only done in
+mono with a Marantz recorder. Before starting to sing ZAS had written down the words of the two songs she was planning to
+sing; the songs are archived separately. The words of this song, "ujamkan" (mountain sheep), were written by Dmitrij
+Vasilevich Krivoshapkin, a local Even writer and translator, the melody was composed by Marija Egorovna Gogoleva. The
+mountain sheep is very important for Sebjan Even. It is explained in the fairy tale from Kirillina K.K (see
+Kirillina_KK_dve_skazki: Sebjan Küöl - Narratives - Folklore). 
+\qu Transcribed by BP, transcription checked and Russian translation by Ija Vasil'evna Krivoshapkina, glossing by BP. Funding by the
+Volkswagen Foundation (DoBeS grant). Speaker abbreviation = ZAS.
+\ref Zoja Afanas'evna Stepanova was 62 years old at time of recording, primary school teacher, social pedagogue (socpedagog)
+and leader of folklore ensemble Merlenke, very much in favour of literary/standard Even language, feels that there are not
+many differences between different dialects, mutual intelligibility, very much against all the mixing of Even and Sakha here
+in Sebjan (“eto ne Lamunxinskij govor”), very interested in Even folklore and language. Sister of Afanasij Afanas'evič
+Stepanov
+
+\id ZAS_song_ujamkan_001
+\tx Tak čto segodnja 13-oe marta i Zoja Afanasevna Stepanova spoet dve evenskie pesni.
+\ft So today is the 13th of March and Zoja Afanasevna Stepanova will sing two Even songs.
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:16.770
+\ELANParticipant
+
+\id ZAS_song_ujamkan_002
+\tx Tịrapamdas     koːjelken   ụjamkaŋị                goːndekun
+\mb tịrapan  -mdEs koːje -lkEn ụjamkan      -ŋ  -J       goːn -DE       -W
+\ge lasso.ring -sml  horns  -prop mountain.sheep -aln -prfl.sg say   -purp.cvb -poss.1sg
+\ft Let me talk about my mountain sheep with horns like a lasso ring
+\ph hịrapamdas
+\gr EAK said that goːndekun = imenno sejčas skazhu, while goːndeku = skazhu; here: goːndekun = rasskazhu, not just skazhu,
+so she saw a difference in meaning
+\nt
+\gr checked with IVK who said that there is absolutely no difference between goːndeku and goːndekuN - which sort of fits the
+corpus data, where I find both forms in probably roughly the same proportions; IVK also said that there is a third variant
+goːndek; and it also fits with what I know about Even grammar...
+\nt
+\ru давайте я скажу про мой уямкан с рогами как кольцо на мавут
+\ELANBegin 00:00:16.770
+\ELANEnd 00:00:24.024
+\ELANParticipant
+
+\id ZAS_song_ujamkan_003
+\tx Họː kịlŋịja boːdeldʒi          herilelbu              helkenun.
+\mb họː kịlŋịja boːdel -DʒI        herile         -L-W    helkun                 -R(E) -n(I)
+\ge very   thin         leg(s)  -ins.prfl.sg stony.mountain -pl-acc jump.from.peak.to.peak -nonfut -3sg
+
+\ft with his very thin legs he jumps from craggy mountain to craggy mountain
+\ph
+\gr EAK: at first she said it should be helkunin, but then said, no, this is about now, so helkenun is correct, but then she said that
+helkenun = davno prošedšee vremja; there is helken- and there is helkun- , there are place names helkuniː; one can say
+helkenedden
+\nt
+\gr IVK: helkenun - this should be helkunnen, from helkun-, but she wasn't really sure - but that is how I decided to gloss it
+\ru с очень тоненькими ногами гора с острыми верхушками перепрыгивает
+\ELANBegin 00:00:24.024
+\ELANEnd 00:00:31.759
+\ELANParticipant
+
+\id ZAS_song_ujamkan_004
+\tx Emeričen       ịasaldʒị         ereːliken         mendetten
+\mb emer  -E  -čEn ịašal -DʒI        ereːliː -KEn     mende  -Č  -R(E) -n(I)
+\ge sharp -ep -dim  eyes     -ins.prfl.sg around    -dim.int search -res -nonfut -3sg
+\ft with his sharp eyes he gazes around 
+\ru зорькими своими глазами смотрит вокруг
+\ELANBegin 00:00:31.759
+\ELANEnd 00:00:38.935
+\ELANParticipant
+
+\id ZAS_song_ujamkan_005
+\tx Ịawgal          itmi          amtamị,       hoteldeŋenńun                        biwren.
+\mb ịak -W   =(W)Ul it  -mI       amta  -mI       hotel    -DEŋ    -E  -n(I)     =ńUn  bi -Gr(E) -n(I)
+\ge what  -acc =indef see -cond.cvb taste -cond.cvb run.away -pst.ptc -ep -poss.3sg =restr be -hab   -3sg
+
+\ft if he sees or smells something, he immediately runs away
+\ph
+\gr IVK: hoteldeŋenńun = tolko ubežaet; "kogda my zakonchim rabotu, ja srazu uletaju" = degeldeŋuńun bidʒin --> the
+meaning of "srazu" derives from the combination of -DEŋ + restrictive + copula bi-; and one could say "hoteldeŋenteken
+biwren" with the same meaning
+\ru что-то увидит, принюхавшись сразу же убежит
+\ELANBegin 00:00:38.935
+\ELANEnd 00:00:46.644
+\ELANParticipant
+
+\id ZAS_song_ujamkan_006
+\tx Tugenidu    ụjamkan      bịrakčan ọkaːt dereːndulin
+\mb tugeni -DU  ụjamkan      bịrakčan ọkaːt dereːn -(dU)LI -n(I)
+\ge winter -dat mountain.sheep stream      river    source  -prol   -poss.3sg
+\ft in winter the mountain sheep (roams) along the sources of rivers and streams
+\ph
+\nt i.e. high up in the mountains, where the streams and rivers have their source
+\ru зимой уямкан по верховьям (началам) ручейеек и рек
+\ELANBegin 00:00:46.644
+\ELANEnd 00:00:53.716
+\ELANParticipant
+
+\id ZAS_song_ujamkan_007
+\tx Gụːdan heleŋ hejelin                kịalmaldụlị          biwekkeren.
+\mb gụːdan heleŋ heje -(dU)LI -n(I)     kịalman      -L  -(dU)LI bi -WEːČ -Gr(E) -n(I)
+\ge height    crest  peak -prol   -poss.3sg mountain.crest -pl -prol   be -gnr    -hab   -3sg
+
+\ft roams along the high crests and peaks and 
+\ph hojelin
+\gr
+\nt kịalmal - an archaic word that refers to special places where mountain sheep are found, places with high craggy peaks;
+according to the dictionary by V.A. Kejmetinov, it would be snow-covered crests
+\ru по высоким вершинам (самым остроконечным) остроконечных гор по этим местам он ходит
+\ELANBegin 00:00:53.716
+\ELANEnd 00:01:02.478
+\ELANParticipant 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My Documents/Even
+project/Sebjan_2012_fielddata/sound_files/spontaneous/Stepanova_ZA_song1.wav
+\ELANMediaMIME audio/x-wav

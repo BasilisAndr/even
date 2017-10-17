@@ -1,0 +1,245 @@
+\_sh v3.0  1066 Text
+
+\id Alekseeva_RD_intro_stado_031
+\ref jAkka höp, goːn
+\tx Ọttọn, tiːkerep    biriemedu   čistyj produkt   goːjekke          höp.
+\mb ọttọn  tiek -(E)rEp vremja -DU  čistyj produkt   goːn -jEkkE       söp
+\ge dp.Y       now  -adjr   time.R -dat clean.R product.R say   -futpt.dat.Y OK.Y
+
+\ft Nowadays one can say it's an (environmentally) pure product.
+\ru В современное время можно сказать это чистый продукт.
+\ELANBegin 00:03:56.587
+\ELANEnd 00:04:02.918
+\ELANParticipant
+
+\id Alekseeva_RD_shatun_041
+\ref jEːgin (höp), ʤeb
+\tx Töhö     baγar beju     dʒebejegin,         enikende          hukler.
+\mb töhö     baγar bej -W   dʒep -E  -jeːgin   e   -nIkEn   =DE  hukle -R
+\ge how.much.Y wish.Y man -acc eat   -ep -hyp.3sg.Y neg -sim.cvb =ptl sleep -neg.cvb
+\ft He can eat as many people as he wants, without sleeping.
+\ph
+\gr she omitted höp in dʒebejegin höp
+\ru Сколько угодно людей может есть, и не засыпая.
+\ELANBegin 00:04:21.027
+\ELANEnd 00:04:24.706
+\ELANParticipant
+
+\id beseda_0284
+\ref jAkkA höp, ia
+\tx Tiːkerep    sovremennajda    bljudot     ịajakka            höp.
+\mb tiek -(E)rEp sovremennaj =DE  bljudo -Č  ịa    -jEkkE       söp
+\ge now  -adjr   modern.R    =ptl dish.R -ins do.what -futpt.dat.Y OK
+
+\ft And it is possible to do something with modern dishes.
+\ph
+\gr ịajakka höp -- It's a Sakha construction for the expession of possibility.
+\ru И по современным блюдам можно что-то делать.
+\ELANBegin 00:07:39.834
+\ELANEnd 00:07:43.692
+\ELANParticipant RDA
+
+\id beseda_0703
+\ref IAn baγar, ia, teget
+\tx Tụspa      nahaː ịajịan                     baγarar           ehni,          tegečejien.
+\mb tụspa      nahaː ịa    -j    -IEn             baγar -Ar         e -R(E) -n(I)  teg      -E  -Č  -E  -j    -IEn
+\ge separately.Y very.Y do.what -conn -futpt.acc.3sg.Y wish.Y -prs.ptcp.Y neg -nfut -3sg sit.down -ep -res -ep -conn -futpt.acc.3sg.Y
+
+\ft she very much wants to live alone
+\ph
+\gr in Sakha, the present participle is the 3sg form of the present indicative
+\ru она очень хочет жить отдельно
+\ELANBegin 00:20:41.955
+\ELANEnd 00:20:45.140
+\ELANParticipant IAS
+
+\id beseda_1273
+\ref jAktArin naːda, bak
+\tx Bakajaktarịn            naːda
+\mb bak  -E  -jEktErIn        nado
+\ge find -ep -futpt.acc.3pl.Y need.R
+
+\ft they have to find him
+\ru нужно чтобы нашли
+\ELANBegin 00:37:59.720
+\ELANEnd 00:38:02.120
+\ELANParticipant RDA
+
+\id beseda_1344
+\ref jAkkA naːda, ʤebuken
+\tx Tọg, tọgụ   dʒebukenijekke          naːda ebit,     goːli?
+\mb tọg  tọg -W   dʒep -WkEn -jEkkE       nado   ebit      goːn -LI
+\ge fire   fire  -acc eat   -caus -futpt.dat.Y need.R it.seems.Ysay   -imp.2sg
+
+\ft one has to (we have to) feed the fire, right? 
+\gr the correct form would be dʒebukejekke naːda
+\ru нужно накормить огонь
+\ELANBegin 00:40:30.020
+\ELANEnd 00:40:35.045
+\ELANParticipant LNZ
+
+\id beseda_1698
+\ref jAkkin (nada). tet
+\tx Tadụ     goːnem            ogidedu        ịbgaw       ńanda      tetijeːkkin...
+\mb tarak -DU  goːn -R(E) -m     ogi -gIdE -DU  ịbgọ -W   ńaːn =DE  tet    -E  -jEːkkIn
+\ge dist  -dat say   -nonfut -1sg top -part -dat good     -acc and    =ptl put.on -ep -hyp.2sg.Y
+\ft to that I say (reply) on the top you have to put on something good as well
+\ph should be tetejeːkkin
+\gr tetijeːkkin - omitted "naːda"
+\ru на это я говорю на верхнее хорошое опять тебе (надо) надеть
+\ELANBegin 00:51:57.495
+\ELANEnd 00:52:00.680
+\ELANParticipant NPZ
+
+\id beseda_1850
+\ref IAn höp, ia
+\tx ọttọn, ịajịan                     höp ee
+\mb ọttọn  ịa    -j    -IEn             söp ee
+\ge dp.Y       do.what -conn -futpt.acc.3sg.Y OK.Y eh
+
+\ft well, he can do something
+\ru он может сделать
+\ELANBegin 00:55:48.660
+\ELANEnd 00:55:49.640
+\ELANParticipant IAS
+
+\id beseda_2020
+\ref jAktArin höp, ga
+\tx Kreditta      gajaktarịn          höp. Ọddọn?
+\mb kredit   =DE  ga   -jEktErIn        söp  ọd -R(E) -n(I)
+\ge credit.R =ptl take -futpt.acc.3pl.Y OK.Y  stop -nonfut -3sg
+\ft they could also take a credit - is it over?
+\ru они могут и кредит взять
+\ELANBegin 00:59:48.305
+\ELANEnd 00:59:50.830
+\ELANParticipant IAS
+
+\id Burtsev_ID_traditions_019
+\ref jAkkA naːda, goːn
+\tx Ebeter bọlla      ịamị... ńụčịdịč    goːmi...       kak   by... ọːn goːjekke          ịamị naːda?
+\mb ebeter buollaγïna ịamị    ńụča -DI   -Č  goːn -mI       kak   by    ọːn goːn -jEkkE       ịamị nado
+\ge or.Y   dp.Y         why         Russian  -adjr -ins say   -cond.cvb how.R ptl.R how    say   -futpt.dat.Y why      need.R
+
+\ft Or why... to say it in Russian... how should I say it?
+\ru Или по-русски сказать как надо сказать?
+\ELANBegin 00:04:10.341
+\ELANEnd 00:04:27.306
+\ELANParticipant
+
+\id Burtsev_ID_traditions_037
+\ref IAn höp, ga
+\tx Ili  ebeter nọŋan meːndi            gajịan                    hep.
+\mb ili  ebeter nọŋan meːn -DI          ga   -j    -IEn             söp
+\ge or.R or.Y   3sg      refl  -dat.prfl.sg take -conn -futpt.acc.3sg.Y OK.Y
+
+\ft Or he could take it for himself.
+\ru Или он может себе взять.
+\ELANBegin 00:06:37.917
+\ELANEnd 00:06:43.026
+\ELANParticipant
+
+\id Burtsev_ID_traditions_091
+\ref jAkkA aj, goːn
+\tx Ịamị goːmi...       daže  ečin      goːjekke          aj   bihin,            tiːke tiːkerep    bej, tiːkerep
+\mb ịamị goːn -mI       daže  erroːčin goːn -jEkkE       aj   bi -RI -n(I)      tiek   tiek -(E)rEp bej  tiek -(E)rEp
+\ge why      say   -cond.cvb even.R prox.qual  say   -futpt.dat.Y good be -pst -poss.3sg now    now  -adjr   man  now  -adjr
+
+\tx ńulgewečeddi                     bej mute   dʒụːlbụr,       uteːm,     ampaːralbụr                 tarak to
+\mb nulge   -WEːČ -E-D     -RI       bej mut    dʒụː -L  -WUr     uteːn -W   ampar          -E-L   -WUr     tarak to
+\ge migrate -gnr    -ep-prog -impf.ptc man 1pl.in house    -pl -prfl.pl hut    -acc storage.shed.R -ep-pl -prfl.pl dist  that.R
+
+\tx ịak labaz         ọːrịwụr,          araŋas,     araŋas,     idude           biden
+\mb ịak labaz         ọː -RI       -WUr     araŋas      araŋas      irek  -DU  =DE  bi -DE       -n(I)
+\ge what  storage.hut.R make  -impf.ptc -prfl.pl store.room.Y store.room.Y which -dat =ptl be -purp.cvb -poss.3sg
+
+\tx ọːkakkararap.
+\mb ọː -kEČ -Gr(E) -R(E) -p
+\ge make  -mult -hab   -nonfut -1pl.in
+\ft Because one can say like this, modern people, modern migrating people, we build our houses, our storage sheds, our storage huts
+wherever we like.
+\ph
+\gr labaz ọːrịwụr = svoe delanie labaza, here it is OK, not strange
+\ru Потому что еще можно так сказать, сейчас современные люди, современные кочующие люди, мы свои дома, амбары, лабазы где
+угодно ставим, делаем.
+\ELANBegin 00:12:01.201
+\ELANEnd 00:12:28.748
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_073
+\ref IAn höp, ʤeb
+\tx Derihnekes                     holuridʒi     dʒebehejien                          höp.
+\mb derisen -REk      -E-s(I)      holu  -RIdʒI  dʒep -E-s(E)n -j    -IEn             söp
+\ge run.off -cond.cvb -ep-poss.2sg chase -ant.cvb eat   -ep-lim  -conn -futpt.acc.3sg.Y OK.Y
+
+\ft If you run of it might chase and eat you.
+\ph
+\gr dʒebehendej = s''est' polnost'ju, dʒebdej = kušat'
+\ru Если убежишь, он может тебя съесть, погнавшись за тобой.
+\ELANBegin 00:05:25.630
+\ELANEnd 00:05:33.330
+\ELANParticipant SPK
+
+\id RDA_TPK_names_origins_063
+\ref jAkkA höp, goːn
+\tx goːjekke          höp össö?
+\mb goːn -jEkkE       söp össö
+\ge say   -futpt.dat.Y OK.Y still.Y
+
+\ft What else can (I/we) say?
+\ru можно сказать еще
+\ELANBegin 00:03:54.440
+\ELANEnd 00:03:55.760
+\ELANParticipant T
+
+\id stado#10_Nikitin_Mitja_004
+\tx MN: Ọːn goːjekke          [höp]?
+\mb MN  ọːn goːn -jEkkE       söp
+\ge MN  how    say   -futpt.dat.Y OK
+
+\ft What can I say?
+\ru Что можно сказать?
+\ph
+\ELANBegin 00:00:05.530
+\ELANEnd 00:00:06.660
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_041
+\ref jAktArin naːda, ńoː
+\tx Erek bejel      baγar... mut    ọttọn tiːk gurgewčiridʒur         ọddʒịp,       nostel    ńoːjekterin          naːda,
+\mb erek bej -E-L   baγar    mut    ọttọn tiek  gurgeːwči -RIdʒI -L   ọd -DʒI -p      noste -L  ńoː -jEktErIn        nado
+\ge prox man -ep-pl perhaps.Y 1pl.in dp.Y      now   work        -ant.cvb -pl stop -fut  -1pl.in young -pl exit  -futpt.acc.3pl.Y need.R
+
+\tx ere  noste kụŋal,   hupkučimŋelde,          hupkuttilde.
+\mb erek noste kụŋa -L  hupkut -E  -mŋE -L  =DE  hupkut -RI       -L  =DE
+\ge prox young child   -pl learn  -ep -agnr -pl =ptl learn  -impf.ptc -pl =ptl
+\ft Perhaps these people... we will now stop working, young people have to go out, that is young children, teachers and pupils.
+\ru Эти люди может быть... мы сейчас закончим работать, должны выйти молодые, это молодые дети, и учителя и ученики.
+\ELANBegin 00:05:02.354
+\ELANEnd 00:05:17.330
+\ELANParticipant
+
+\id Tatjana_Petrovna_family_030
+\ref jAkpin höp, goːn
+\tx Ńan   ịaw      goːjoːkpün    höp?
+\mb ńaːn ịak -W   goːn -jEːkpIn  söp
+\ge and    what  -acc say   -hyp.1sg.Y OK
+
+\ft What else can I say?
+\ru Еще что я могу сказать?
+\ph
+\ELANBegin 00:03:44.400
+\ELANEnd 00:03:49.460
+\ELANParticipant
+
+\id Zaxarov_AV_indjuk_internat_043
+\ref jAkpin höp, ukčen
+\tx Ńan   ịak, ukčenejeːkpin       höbüj ọttọn.
+\mb ńaːn ịak  ukčen -E  -jEːkpIn  höbüj ọttọn
+\ge and    what   tell   -ep -hyp.1sg.Y OK.q.Y  dp.Y
+
+\ft And what else can I tell.
+\ph
+\ru И что еще я могу сказать.
+\ELANBegin 00:03:57.120
+\ELANEnd 00:04:00.396
+\ELANParticipant

@@ -1,0 +1,664 @@
+\_sh v3.0  1101 Text
+
+\id Neustroev_PD_sled_000_metadata
+\ref Recorded on 25 March 2009 in Sebjan-Küöl by Brigitte Pakendorf, at Neustroev's house. H showed a new sled he’d
+made and spoke about it in Even, explained how he makes it and such – recorded only on video; there’s a lot of
+squeaking snow to be heard, and at one point a bunch of sparrows start chirping very loudly
+\qu
+
+\id Neustroev_PD_sled_001
+\tx Höp, ele          hïarga?
+\mb söp  erek -(dU)LE hïarga
+\ge OK    prox -loc    sled.Y
+\ft Ok, is it sled?
+\ev
+\ru Ладно, это сани?
+\ELANBegin 00:00:01.118
+\ELANEnd 00:00:06.994
+\ELANParticipant BP
+
+\id Neustroev_PD_sled_002
+\tx Erek hïarga,  dʒeplew       urgew      ịrụhụk hïarga gerbe.
+\mb erek hïarga   dʒep -LE -W   urge  -W                hïarga gerbe
+\ge prox sled.Y    eat   -nr -acc heavy -acc              sled.Y  name
+
+\ft This is a sled to transport food and heavy load, it's called hïarga.
+\ph Ija corrected p in dʒeplew, should be b. iruhok/ iruhuk (Ija) But the correct ideal form is ịrụhak. Urgew ịụhụk -- to bring heavy loads. In this
+context ịrụdʒak could mean past tense hïarga was to bring food
+\gr
+\qu ịrụhụk -- from ịrụhandaj (limitative)?
+\ev Эрэк hыарга, ургэв ируhук hыарга гэрбэ.
+\ru Сани для перевозки еды (продуктов) и тяжестей, хыарга называется.
+\ELANBegin 00:00:06.994
+\ELANEnd 00:00:16.133
+\ELANParticipant
+
+\id Neustroev_PD_sled_003
+\tx Erek hïarga nọnọn ọːbgaran                    boːdelben                  ... erew
+\mb erek hïarga nọnọn ọː -B   -Gr(E) -E-n(I)      boːdel -W        -n(I)         erek -W
+\ge prox sled.Y  at.first  make  -med -hab   -ep-poss.3sg leg(s)  -poss.1sg -poss.3sg     prox -acc
+
+\tx boːdelben                  ọːwrandị.
+\mb boːdel -W        -n(I)     ọː -Gr(E) -nrI
+\ge leg(s)  -poss.1sg -poss.3sg make  -hab   -2sg
+
+\ft At first legs are made, you make this legs.
+\ph noːnon
+\ev Эрэк hыарга нонон обгаран бөдэлбэн... эрэв бөдэлбэн овранди.
+\ru Сначала делаются ноги саней, эти ноги делаешь.
+\ELANBegin 00:00:16.133
+\ELANEnd 00:00:25.129
+\ELANParticipant
+
+\id Neustroev_PD_sled_004
+\tx Tarịt dʒe   er... e... čaːlban ịalkan    er   hi...               hilimkun ịaw      ịlam      čịkịwrandị.
+\mb tarịt dʒe   erek  erek čalban   ịak -lkEn erek                     hilimkun ịak -W   ịlan -W   čịkị -Gr(E)    -nrI
+\ge then    well.Y prox  prox birch     what  -prop prox                     narrow   what  -acc three  -acc cut.off   -hab      -2sg
+
+\ft It has this birch thing, you have to cut off three of them.
+\ph čaːlbaːn
+\ev
+\ru У него (у них, т.е. у саней) березовое что-то, что-то узкое три вырезаешь.
+\ELANBegin 00:00:25.129
+\ELANEnd 00:00:34.021
+\ELANParticipant
+
+\id Neustroev_PD_sled_005
+\tx Tar   čịkịrịdʒị dʒe   mọːldarịdʒị erew      tetuwrendi.
+\mb tarak čịkị -RIdʒI   dʒe   mọːlda -RIdʒI   erek -W   tet    -U    -Gr(E) -nrI
+\ge dist  cut.off   -ant.cvb  well.Y log.wood  -ant.cvb  prox -acc put.on -caus -hab   -2sg
+\ft Having cut it, handled, you put it on. 
+\ph
+\gr
+\nt mọːlda : on Kamchatka it has the meaning 'log wood', but here it means something like 'handle wooden details', our translator couldn't explaine it exactly.
+\ev
+\ru Вырезав, обработав, вот это надеваешь. 
+\ELANBegin 00:00:34.021
+\ELANEnd 00:00:37.492
+\ELANParticipant
+
+\id Neustroev_PD_sled_006
+\tx Taraw.
+\mb tarak -W
+\ge dist  -acc
+\ft This one.
+\ev
+\ru Вот это.
+\ELANBegin 00:00:37.492
+\ELANEnd 00:00:41.522
+\ELANParticipant
+
+\id Neustroev_PD_sled_007
+\tx Teturidʒi            dʒe   uhit      taːŋnandị,    dʒawattan.
+\mb tet    -U    -RIdʒI  dʒe   usi  -Č  taːn -Gr(E) -nrI dʒaw      -E  -Č  -DE       -n(I)
+\ge put.on -caus -ant.cvb well.Y rope -ins pull  -hab   -2sg catch.hold -ep -res -purp.cvb -poss.3sg
+
+\ft Having put it on, you pull it together with a rope so that it is held.
+\ph
+\gr 1Sg taːnam, 2Sg Nonfut taːnannị, 1Sg Nonfut+Prod: taːndʒịddam
+\nt
+\qu
+\ev
+\ru Надев, стягиваешь веревкой, чтобы держало.
+\ELANBegin 00:00:41.522
+\ELANEnd 00:00:46.735
+\ELANParticipant
+
+\id Neustroev_PD_sled_008
+\tx Uhiw...   uhit...   taːŋnandị.
+\mb usi  -W   usi  -Č  taːn -Gr(E) -nrI
+\ge rope -acc rope -ins pull  -hab   -2sg
+\ft Rope... with a rope, having tied it up.
+\ev
+\ru Веревку.. веревкой стягиваешь.
+\ELANBegin 00:00:46.735
+\ELANEnd 00:00:50.349
+\ELANParticipant
+
+\id Neustroev_PD_sled_009
+\tx Ogidewen                    ńan   hergidewen,                     hontekiten       uhit.
+\mb ogi -gIdE -W   -E-n(I)      ńaːn her    -gIdE -W   -E  -n(I)     honteki   -tEn   usi  -Č
+\ge top -part -acc -ep-poss.3sg and    bottom -part -acc -ep -poss.3sg different -distr rope -ins
+
+\ft Top and bottom parts with a different rope.
+\ph Ogidewen --> uγidewen; hoːntekiten
+\gr distr -ten :  each part with its own rope
+\nt
+\qu
+\ev
+\ru Верхние и нижние части разной веревкой.
+\ELANBegin 00:00:50.349
+\ELANEnd 00:00:54.392
+\ELANParticipant
+
+\id Neustroev_PD_sled_010
+\tx Tarịt ere  hịŋaːkwan,                    er   hịŋaːkwan                     maltarịdʒị,   gọlat
+\mb tarịt erek hịŋaːk -W        -E-n(I)      erek hịŋaːk -W        -E-n(I)      malta     -RIdʒI  gọl    -E  -Č
+\ge then    prox jaw.Y      -poss.1sg -ep-poss.3sg prox jaw.Y      -poss.1sg -ep-poss.3sg bend.trns -ant.cvb firewood -ep -ins
+
+\tx maltarịdʒị    ispiseːlnej aːkịw ?gak? garịdʒị.
+\mb malta     -RIdʒI  ispiseːlne                 ga   -RIdʒI
+\ge bend.trns -ant.cvb specially                   take -ant.cvb
+
+\ft After that sledge runner, having bent this sledge runner, having bent the wood, having took ???? specially.
+\ph gọlat --> gọlọt
+\gr
+\nt Probably not the finite clause, he didn't finish with any finite verb. The translator thinks the same. For sledge runner a Sakha word hïŋaːk is used,
+it means in Sakha jaw and sledge runner as well.
+\qu aːkịw ?gak?
+\ev
+\ru Потом полозья, эти полозья согнув, палкой согнув, специально ?? взяв..
+\ELANBegin 00:00:54.392
+\ELANEnd 00:01:05.169
+\ELANParticipant
+
+\id Neustroev_PD_sled_011
+\tx Meːne   gọlụ      ehni              maltabgarar                        bụčụwrandị,
+\mb meːne   gọl    -W   e   -R(E)   -n(I) malta     -B   -Gr(E) -E-R         bụčụ -Gr(E) -nrI
+\ge simply.Y firewood -acc neg -nonfut -3sg  bend.trns -med -hab   -ep-neg.cvb  dry       -hab   -2sg
+
+\tx bụčụrịdʒị dʒe   erew      ọːwrandị.
+\mb bụčụ -RIdʒI   dʒe   erek -W   ọː -Gr(E) -nrI
+\ge dry       -ant.cvb  well.Y prox -acc make  -hab   -2sg
+\ft The wood is not bent simply, you make it dry and having made it dry you make it.
+\ph
+\gr Neustroev_PD_sled_questions_240210.wav 8'30'' In the dialect of Sebjan (and the same in dictionaries) bụčụ means get.dry, the stem bụčị means make.dry. The speaker uses bụčụ apparently in
+transitive sense (bụčụrịdʒị when you made it dry), so I chose the stem for dry.intr we had already in the dictiionary and habitual marker,
+although it could be intransitive bụčụ with"change-valency" W (adv-caus) and Nonfut, or intrans. bụčị + caus U + habitual WrE. Bur our
+translator says, in her family the causative form would be bụčụwkandaj. 3Pl Nonfut+Prog bụčụdda, 3Pl Hab bụčụwrar  (tsvety soxnut -- flowers
+got dry), 2Sg Caus + Prog + Nonfut bụčụwkandʒịdʒannị, 2Sg Nonfut bụčụwkannị, 1 Sg PST bụcụwkanịw
+\nt
+\qu Ask Dejan? Is it something special from Topolinoe?
+\ev
+\ru Простое дерево не сгибается, сушишь, высушив, это делаешь.
+\ELANBegin 00:01:05.182
+\ELANEnd 00:01:14.243
+\ELANParticipant
+
+\id Neustroev_PD_sled_012
+\tx Erew,     ispiseːlne meːrgijdeːridʒi...
+\mb erek -W   ispiseːlne meːrgijdeː -RIdʒI
+\ge prox -acc specially   measure.Y    -ant.cvb
+\ft When you specially mesuared this...
+\ph
+\gr
+\nt meːrgijdeː is a borrowing from Russian through Sakha
+\ev
+\ru Специально измерив.. 
+\ELANBegin 00:01:14.243
+\ELANEnd 00:01:19.573
+\ELANParticipant
+
+\id Neustroev_PD_sled_013
+\tx Dʒe   čọŋkọrịdʒị ńan   eli          haŋaːrawgarannị
+\mb dʒe   čọŋka -RIdʒI     ńaːn erek -(dU)LI haŋaːrụ -Gr(E) -nrI
+\ge well.Y dig       -ant.cvb    and    prox -prol   make.hole   -hab   -2sg
+
+\ft Having pecked, you make a hole again.
+\ph čọŋka --> čọŋkọ
+\gr
+\ev
+\ru Проковыряв, опять здесь дырку делаешь.
+\ELANBegin 00:01:19.573
+\ELANEnd 00:01:23.317
+\ELANParticipant
+
+\id Neustroev_PD_sled_014
+\tx Tar  haŋaːrụwrịdʒị dʒe,  dʒe   tetukekkerendi,                tar   uhiw      uhiwen                 emie
+\mb tar  haŋaːrụ -RIdʒI    dʒe   dʒe   tet    -U    -kEČ -Gr(E) -nrI tarak usi  -W   usi  -W   -E-n(I)      emie
+\ge thus make.hole   -ant.cvb   well.Y well.Y put.on -caus -mult -hab   -2sg dist  rope -acc rope -acc -ep-poss.3sg also.Y
+
+\tx hịldarịdʒị dʒe   taːkakkarandị
+\mb hịlda -RIdʒI   dʒe   taːn -kEČ -Gr(E) -nrI
+\ge put     -ant.cvb  well.Y pull  -mult -hab   -2sg
+
+\ft Having made holes, you put it on, having put the rope through, you pull it together again.
+\ph
+\gr haŋnaːrụwrịdʒị: bi haŋaːrụwram -- I made a hole, haŋarụwgara(ra)m -- I make a hole. *haŋaːram, *haŋaːwram, 2Sg Nonfut haŋarụwannị.
+tetukekkerendi : Bi tetiw tettem -- I put on my coat. Bi teturem -- I put this board on this stick, 1Sg hab tetuwre(re)m -- postojanno nadevaju, 1Sg
+mult nonfut tetuketten -- ja nadel na etu palku neskoljko predmetov, I put on this stick several objects. hịldarịdʒị : hịldadaj -- zalozhitj, prolozhitj,
+zatsepitj. != hịndaj. taːkakkarandị : bi taːnam 1Sg Nonfut. taːkakkarandị: to pull many times. 1Sg Nonfut taːnam 
+\nt
+\qu
+\ev
+\ru Сделав дырки, надеваешь, просунув веревку, его веревку, опять стягиваешь.
+\ELANBegin 00:01:23.317
+\ELANEnd 00:01:29.778
+\ELANParticipant
+
+\id Neustroev_PD_sled_015
+\tx Ta... taːwrandị,     tar   taːrịdʒị dʒe   erew      dọskụwan,             er   emie   tọːbarat
+\mb tarak taːn -Gr(E) -nrI tarak taːn -RIdʒI  dʒe   erek -W   doska   -W   -E-n(I)      erek emie   tọːbar -E-Č
+\ge dist  pull  -hab   -2sg dist  pull  -ant.cvb well.Y prox -acc board.R -acc -ep-poss.3sg prox also.Y axe.R     -ep-ins
+
+\tx aldapča,           e, bekeččeːmen                 tọːbarat       aldapča
+\mb alda   -B   -čE       bekeč -čEn -W   -E-n(I)      tọːbar -E-Č   alda   -B   -čE
+\ge tesat' -med -pf.ptc    all    -dim  -acc -ep-poss.3sg axe.R     -ep-ins tesat' -med -pf.ptc
+
+\ft You pull it together, having pulled it, this boards also planed down with axe, everything trimmed with axe.
+\ph
+\gr bekeččeːmen. bekečen -- all.poss.3sg. Bi bekebben aldaram -- Ja vsje obtasal, I planed everything down.
+\nt
+\qu bekeččeːmen -- dim + acc? pochemu acc?
+\ev
+\ru Стянув, это стянув, эти доски его, тоже обтесанные топором, все обтесано топором.
+\ELANBegin 00:01:29.778
+\ELANEnd 00:01:41.634
+\ELANParticipant
+
+\id Neustroev_PD_sled_016
+\tx E... tar   dʒe   teturidʒi            erew      ịawrandi          emie   honte uhi  uhit.
+\mb erek tarak dʒe   tet    -U    -RIdʒI  erek -W   ịa    -Gr(E) -nrI emie   honte usi  usi  -Č
+\ge prox dist  well.Y put.on -caus -ant.cvb prox -acc do.what -hab   -2sg also.Y other rope rope -ins
+\ft Having put it on, you make also with another rope. 
+\ev
+\ru Надев, это делаешь тоже другой веревкой.
+\ELANBegin 00:01:41.634
+\ELANEnd 00:01:48.459
+\ELANParticipant
+
+\id Neustroev_PD_sled_017
+\tx Er   ńụːt uhin           kaprọn, er   buollaγïna ịak ọrọn          nandan.
+\mb erek ńụča usi  -n(I)     kaprọn  erek buollaγïna ịak ọrọn          nanra -n(I)
+\ge prox Russian  rope -poss.3sg kapron.R  prox dp.Y         what  domestic.reindeer hide  -poss.3sg
+\ft This is Russian rope, kapron, this is reindeer hide.
+\ev
+\ru Это русская веревка, капрон, а это оленья шкура.
+\ELANBegin 00:01:48.459
+\ELANEnd 00:01:54.374
+\ELANParticipant
+
+\id Neustroev_PD_sled_018
+\tx Ọrọn          nandadʒịn         ọːpča          ere.
+\mb ọrọn          nanra -Č  -n(I)     ọː -B   -čE    erek
+\ge domestic.reindeer hide  -ins -poss.3sg make  -med -pf.ptc prox
+\ft It is made of reindeer hide.
+\ev
+\ru Сделано из оленьей шкуры.
+\ELANBegin 00:01:54.374
+\ELANEnd 00:01:57.156
+\ELANParticipant
+
+\id Neustroev_PD_sled_019
+\tx Ere
+\mb erek
+\ge prox
+\ft Here
+\ev
+\ru Вот.
+\ELANBegin 00:01:57.156
+\ELANEnd 00:01:57.949
+\ELANParticipant
+
+\id Neustroev_PD_sled_020
+\tx Dʒe   tarịt erew...   erew      haŋaːrụwrịdʒị polnostju    haŋaːrụwrịdʒị,
+\mb dʒe   tarịt erek -W   erek -W   haŋaːrụ -RIdʒI    polnostju    haŋaːrụ -RIdʒI
+\ge well.Y then    prox -acc prox -acc make.hole   -ant.cvb   completely.R make.hole   -ant.cvb
+
+\tx polnostju    haŋaːrụwrịdʒị... čaːlban ...
+\mb polnostju    haŋaːrụ -RIdʒI       čalban   
+\ge completely.R make.hole   -ant.cvb      birch     
+
+\tx dʒe   ele          tị             drelleridʒi,    ereheleːridʒi    ečin      tetuwrendi               talawụr.
+\mb dʒe   erek -(dU)LE                  drelle  -RIdʒI  erehe -LE -RIdʒI  erroːčin tet    -U    -Gr(E) -nrI tarak -(dU)LE -WUr
+\ge well.Y prox -loc                     drill.R -ant.cvb drill -vr -ant.cvb prox.qual  put.on -caus -hab   -2sg dist  -loc    -prfl.pl
+
+\ft When the holes are completely done, having drilled, you put it on here. 
+\ph haŋaːrịwrịdʒị / haŋaːrụwrịdʒị / haŋaːrəwrịdʒị
+\gr ereheleːridʒi : from the verb ereheledej, *erehedej, *ereheridʒi
+\nt erehe is an Even tool, similar to drill with ropes
+\qu
+\ev
+\ru Полностью сделав дырки, полностью продырявив, просверлив, сюда надеваешь. 
+\ELANBegin 00:01:57.949
+\ELANEnd 00:02:19.260
+\ELANParticipant
+
+\id Neustroev_PD_sled_021
+\tx Dʒe   tarịt, dʒe   tarak amardadụkụn                erek ọːbgaran             ere.
+\mb dʒe   tarịt  dʒe   tarak amar   -gIdE -DUk(U) -n(I)     erek ọː -B   -Gr(E) -n(I) erek
+\ge well.Y then     well.Y dist  behind -part -abl    -poss.3sg prox make  -med -hab   -3sg  prox
+\ft Afterwards this is done, here.
+\ev
+\ru Потом после этого это делается, вот.
+\ELANBegin 00:02:19.260
+\ELANEnd 00:02:25.000
+\ELANParticipant
+
+\id Neustroev_PD_sled_022
+\tx Erek tụspa      ịalkan,   ečin      ịawrandi,         er,  er   bihni,           ere.
+\mb erek tụspa      ịak -lkEn erroːčin ịa    -Gr(E) -nrI erek erek bi -R(E)   -n(I) erek
+\ge prox separately.Y what  -prop prox.qual  do.what -hab   -2sg prox prox be -nonfut -3sg  prox
+\ft You do it separetely, like this.
+\ev
+\ru Отдельно так делаешь, вот.
+\ELANBegin 00:02:25.000
+\ELANEnd 00:02:34.760
+\ELANParticipant
+
+\id Neustroev_PD_sled_023
+\tx Erew      ńọŋalbụrakan                       ele          teturidʒi            taːŋnandị     ečin,     tar   massịːna
+\mb erek -W   ńọŋ -E  -LbE -REk -E-n(I)            erek -(dU)LE tet    -U    -RIdʒI  taːn -Gr(E) -nrI erroːčin tarak mašịna
+\ge prox -acc ??      -ep -vr  -cond.cvb -ep -poss.3sg prox -loc    put.on -caus -ant.cvb pull  -hab   -2sg prox.qual  dist  car.R
+
+\tx ịan           ečin,     zapčaskịčịn
+\mb ịak -n(I)     erroːčin zapčaskị -G(E)čIn
+\ge what  -poss.3sg prox.qual  spares.R    -sml
+
+\ft Having put it on here, you pull it like car spares.
+\ph
+\gr
+\nt
+\ev
+\ru Cюда надев, стягиваешь, как запчасти у машины.
+\ELANBegin 00:02:34.760
+\ELANEnd 00:02:44.840
+\ELANParticipant
+
+\id Neustroev_PD_sled_024
+\tx Ere, dịŋargaːkan       ere  ọːwran           ere.
+\mb erek dịŋargaː -KEn     erek ọː  -Gr(E) -n(I) erek
+\ge prox firm         -dim.int prox become -hab   -3sg  prox
+
+\ft It becomes firm.
+\ph
+\gr dịŋargaːkan: dịŋargaːn also exists, but quite rare, the verd dịŋandaj -- стать податливым, dịŋas is "simler" form of dịŋargaːkan. 
+\nt
+\qu see comment in the lexical entry. What is rga?? or rgaːkan all together?
+\ev
+\ru Становится крепким 
+\ELANBegin 00:02:44.840
+\ELANEnd 00:02:48.940
+\ELANParticipant
+
+\id Neustroev_PD_sled_025
+\tx Tar   anŋantan     taːŋnandị     bọlọnịdụ.
+\mb tarak anŋan -tEn   taːn -Gr(E) -nrI bọlọnị -DU
+\ge dist  year   -distr pull  -hab   -2sg late.autumn  -dat
+
+\ft Every year you have to pull it in the late autumn.
+\ph    anŋantaːn
+\gr
+\ev
+\ru Каждый год стягиваешь осенью.
+\ELANBegin 00:02:48.940
+\ELANEnd 00:02:53.280
+\ELANParticipant
+
+\id Neustroev_PD_sled_026
+\tx E,   dʒe   ... dʒe   tarak erew      teturidʒi            dʒe... họmọrgọn gerbe
+\mb erek dʒe       dʒe   tarak erek -W   tet    -U    -RIdʒI  dʒe    hụmọrγan  gerbe
+\ge prox well.Y     well.Y dist  prox -acc put.on -caus -ant.cvb well.Y  collarbone     name
+
+\tx bihni.
+\mb bi -R(E)   -n(I)
+\ge be -nonfut -3sg
+\ft When this is put on, it's called homorgon.
+\ph
+\gr
+\nt homorgon is an arch on the front part of the sledge (see video), in Sakha this word means collarbone.
+\ev
+\ru Надев это, есть так называемый хоморгон.
+\ELANBegin 00:02:53.280
+\ELANEnd 00:02:59.340
+\ELANParticipant
+
+\id Neustroev_PD_sled_027
+\tx Erek ispisialne  hịat, čereːmpe         gerbe.
+\mb erek ispiseːlne hịat  čereːmpe         gerbe
+\ge prox specially.Y willow  bird.cherry.tree.R name
+
+\ft This is a spetial willow, it is called čerempe (bird cherry tree?)
+\ph
+\gr
+\nt ispisialne is a borrowing from Russian through Sakha. čereːmpe : the translatir mentioned, that in Sebjan the variant dʒerempe is used.
+\qu
+\ev
+\qu ask someone: čereːmpe -- is it really čeremuxa? является ли черемуха
+разновидностью ивы? 
+\ev
+\ru Это специальный вид ивы, называется черемпе (черемуха?).
+\ELANBegin 00:02:59.340
+\ELANEnd 00:03:02.920
+\ELANParticipant
+
+\id Neustroev_PD_sled_028
+\tx Tewtelken     ịak ere, tewtelken     hịat, čereːmke         gerbe, čereːmpe         gerbe.
+\mb tewte   -lkEn ịak erek tewte   -lkEn hịat  čereːmpe         gerbe  čereːmpe         gerbe
+\ge berries -prop what  prox berries -prop willow  bird.cherry.tree.R name   bird.cherry.tree.R name
+\ft It is something with berries, willow with berries, it's called čerempe. 
+\ph
+\gr
+\ev
+\ru Это с ягодами, тальник с ягодами, черемпе называется.
+\ELANBegin 00:03:02.920
+\ELANEnd 00:03:08.900
+\ELANParticipant
+
+\id Neustroev_PD_sled_029
+\tx Dʒe   taraw      maltarịdʒị    dʒe   dʒe   er   bejen               bejen               razmerdụn
+\mb dʒe   tarak -W   malta     -RIdʒI  dʒe   dʒe   erek bej    -E-n(I)      bej    -E-n(I)      razmer -DU  -n(I)
+\ge well.Y dist  -acc bend.trns -ant.cvb well.Y well.Y prox self.Y -ep-poss.3sg self.Y -ep-poss.3sg size.R -dat -poss.3sg
+
+\tx maltawranni,          deːmŋe... ńan   hilumkunde    hïarga biwren.
+\mb malta     -Gr(E) -nrI deːmŋe    ńaːn hilumkun =DE  hïarga bi -Gr(E) -n(I)
+\ge bend.trns -hab   -2sg wide        and    narrow   =ptl sled.Y  be -hab   -3sg
+\ft Having bent, you have to bend id in its size, the sled can be wide or narrow.
+\ev
+\ru Согнув, по его размеру сгибаешь, широко .. и бывают узкие сани.
+\ELANBegin 00:03:08.900
+\ELANEnd 00:03:18.000
+\ELANParticipant
+
+\id Neustroev_PD_sled_030
+\tx Dʒe   (et)... tarịt dʒe   haŋaːrawridʒi,    er   haŋaːrran             ịarịdʒị,  uːr(?) ịarịdʒị
+\mb dʒe           tarịt dʒe   haŋaːrụ -RIdʒI  erek haŋaːr -(dU)LE -n(I)  ịa    -RIdʒI  uːr    ịa    -RIdʒI
+\ge well.Y         then    well.Y make.hole   -ant.cvb prox hole     -loc -poss.3sg do.what -ant.cvb before  do.what -ant.cvb
+
+\tx dʒe   taːŋnandị.
+\mb dʒe   taːn -Gr(E) -nrI
+\ge well.Y pull  -hab   -2sg
+\ft Having made the hole, in that hole, having done that, you have to pull.
+\ph haːŋaːran
+\ev
+\ru Потом, опять проделав дырку, в эту дырку это сделав, сделав, стягиваешь.
+\ELANBegin 00:03:18.000
+\ELANEnd 00:03:23.520
+\ELANParticipant
+
+\id Neustroev_PD_sled_031
+\tx Tadụk       erew      oːńeridʒi    erew      taːŋnandị     dʒe   er   uhit      dʒe.
+\mb tarak -DUk(U) erek -W   oːńe -RIdʒI  erek -W   taːn -Gr(E) -nrI dʒe   erek usi  -Č  dʒe
+\ge dist  -abl    prox -acc tie.up -ant.cvb prox -acc pull  -hab   -2sg well.Y prox rope -ins well.Y
+
+\ft After that having tied it up, you pull it up with a rope.
+\ev
+\ru Потом это привязав, это стягиваешь веревкой.
+\ELANBegin 00:03:23.520
+\ELANEnd 00:03:28.820
+\ELANParticipant
+
+\id Neustroev_PD_sled_032
+\tx Dʒe   erew      ịarịdʒị   pesledńej erek oːńebgeren.
+\mb dʒe   erek -W   ịa    -RIdʒI  poslednyj  erek oːńe -B   -Gr(E) -E-n(I)
+\ge well.Y prox -acc do.what -ant.cvb last.R     prox tie.up -med -hab   -ep-3sg
+
+\ft When it is done, this last one is tied. 
+\ph
+\gr oːńebgeren : 1Sg nonfut oːńerem, 1Sg hab oːnewre(re)m  
+\ev
+\ru Сделав это, последнее вот это привязывается.
+\ELANBegin 00:03:28.820
+\ELANEnd 00:03:32.760
+\ELANParticipant
+
+\id Neustroev_PD_sled_033
+\tx Bütte        dʒe,  gotovo.
+\mb bütte        dʒe   gotovo
+\ge end.pst.3sg.Y well.Y ready
+\ft That's end, ready.
+\ev
+\ru Колчилось, готово.
+\ELANBegin 00:03:32.760
+\ELANEnd 00:03:35.400
+\ELANParticipant
+
+\id Neustroev_PD_sled_034
+\tx Er   irbeːt ergiː gịawanụ, gịawanarap        ere.
+\mb erek irbeːt        gịawanụ  gịawanụ -(E)rEp erek
+\ge prox old            last.year    last.year   -adjr   prox
+
+\ft This is old, from last year.
+\ph
+\gr
+\nt
+\qu ergiː -- ergide?? это старое с этой стороны ? м.б. не
+договорил? ergiː отдельно не бывает 
+\ev
+\ev
+\ru Это старое ??? , в прошлом году, прошлогоднее это.
+\ELANBegin 00:03:35.400
+\ELANEnd 00:03:40.740
+\ELANParticipant
+
+\id Neustroev_PD_sled_035
+\tx Gịawanụ... ịan...        erew..    erek anŋamta tetupče.
+\mb gịawanụ    ịak -n(I)     erek -W   erek anŋamta tet    -U    -B   -čE
+\ge last.year      what  -poss.3sg prox -acc prox new      put.on -caus -med -pf.ptc
+\ft Last year, this.. this was put on anew.
+\ph
+\gr tetupče : tetepče -- надетое (пальто), tetupče -- надетое что-то на что-то, 
+\ev
+\ru В прошлом году... это.. это заново надето.
+\ELANBegin 00:03:40.760
+\ELANEnd 00:03:45.220
+\ELANParticipant
+
+\id Neustroev_PD_sled_036
+\tx E... taraw      er,  erek huːpče.
+\mb erek tarak -W   erek erek huːb        -čE
+\ge prox dist  -acc prox prox be.worn.down -pf.ptc
+
+\ft It was worn down.
+\ph
+\gr
+\nt
+\ev
+\ru Натерто до утончения.
+\ELANBegin 00:03:45.220
+\ELANEnd 00:03:48.680
+\ELANParticipant
+
+\id Neustroev_PD_sled_037
+\tx Huːpče?
+\mb huːb        -čE
+\ge be.worn.down -pf.ptc
+
+\ft Worn down?
+\ev
+\ru Стерто?
+\ELANBegin 00:03:48.680
+\ELANEnd 00:03:50.060
+\ELANParticipant BP
+
+\id Neustroev_PD_sled_038
+\tx Huːpče.
+\mb huːb        -čE
+\ge be.worn.down -pf.ptc
+
+\ft It is worn down.
+\ev
+\ru Стерто.
+\ELANBegin 00:03:50.060
+\ELANEnd 00:03:50.940
+\ELANParticipant
+
+\id Neustroev_PD_sled_039
+\tx Er... Eli          eli          họkargaran              obyčno   erek
+\mb erek  erek -(dU)LI erek -(dU)LI họkar    -Gr(E) -E-n(I) obyčno   erek
+\ge prox  prox -prol   prox -prol   break.intr -hab   -ep-3sg usually.R prox
+
+\tx huːbreken                        eli          er   tomtetteken,
+\mb huː -B   -REk -E-n(I)            erek -(dU)LI erek tomtet     -REk -E-n(I)
+\ge blow -med -cond.cvb -ep -poss.3sg prox -prol   prox punch.hole -cond.cvb -ep -poss.3sg
+
+\tx haŋaːrran             ńoːdnide       uže      emeːbejer,
+\mb haŋaːr -(dU)LE -n(I)  ńoː -n(I) =DE  uže      emeːn -B   -E  -j    -E  -Ar
+\ge hole     -loc -poss.3sg exit  -3sg  =ptl already.R leave  -med -ep -conn -ep -prs.ptcp.Y
+
+\tx họkargaran.
+\mb họkar    -Gr(E) -E-n(I)
+\ge break.intr -hab   -ep-3sg
+
+\ft Here it is broken usually, when it is worn down, when it punches a hole, it remains, it breaks.
+\ph tomteːtteken  and does t + reken really result -tteken?
+\gr tomtetteken: one of four verbs of distruction (tomtektej -- продырявить, tomtemdej -- продырявится, tomterdej -- продырявиться один раз, tomtettej --
+продырявить один раз). The stem is bound.
+\nt
+\qu
+\ev
+\ru Здесь ломается обычно, когда здесь протирается, если протыкает, в дырку если выйдет, останется, ломается.
+\ELANBegin 00:03:50.940
+\ELANEnd 00:04:05.940
+\ELANParticipant
+
+\id Neustroev_PD_sled_040
+\tx Tara.
+\mb tarak
+\ge dist
+\ft That's it.
+\ev
+\ru Вот.
+\ELANBegin 00:04:05.940
+\ELANEnd 00:04:07.360
+\ELANParticipant
+
+\id Neustroev_PD_sled_041
+\tx Hïarga dʒugulin                 ukčenebrin                         ọddan
+\mb hïarga dʒugu  -(dU)LI -n(I)     ukčen -E  -B   -RI       -n(I)     ọd -R(E)   -n(I)
+\ge sled.Y  about   -prol   -poss.3sg tell   -ep -med -impf.ptc -poss.3sg stop -nonfut -3sg
+
+\ft The story about sled is over.
+\ph
+\gr
+\nt
+\qu  
+\ev
+\ru Рассказ про сани закончился.
+\ELANBegin 00:04:07.360
+\ELANEnd 00:04:11.040
+\ELANParticipant
+
+\id Neustroev_PD_sled_042
+\tx Aha, höp.
+\mb aha  söp
+\ge aha  OK
+\ft Aha, ok.
+\ev
+\ru Хорошо
+\ELANBegin 00:04:11.060
+\ELANEnd 00:04:11.780
+\ELANParticipant BP
+
+\id Neustroev_PD_sled_043
+\tx I teperj sejčas esče kak-to nado budet ejo polnost'ju ottuda
+\ev
+\ru
+\ELANBegin 00:04:11.780
+\ELANEnd 00:04:20.080
+\ELANParticipant BP
+
+\id Neustroev_PD_sled_044
+\tx Vot tak, da? Aga, i esče vot Vas, i vsje.
+\ev
+\ru
+\ELANBegin 00:04:20.080
+\ELANEnd 00:04:28.580
+\ELANParticipant BP
+
+
+\ELANMediaURL file:///C:/NatAr/Sebyan2010/Texts/Neustroev_sled/Neustroev_PD_sled.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///C:/NatAr/Sebyan2010/Texts/Neustroev_sled/Neustroev_PD_sled.mpeg
+\ELANMediaURL file:///C:/NatAr/Sebyan2010/Texts/Neustroev_sled/Neustroev_PD_sled.mpeg
+\ELANMediaMIME video/mpeg

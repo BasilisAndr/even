@@ -1,0 +1,217 @@
+\_sh v3.0  1096 Text
+
+\id Neustroev_PD_nimat_000_metadata
+\ref Recorded on 25 March 2009 in Sebjan-Küöl by Brigitte Pakendorf, in the office of the klub, in the morning. Only he and BP were in
+the klub, and it was very quiet. We discussed what he would tell in Russian, then BP switched on the recording equipment and he
+spoke; when he finished with one topic, BP paused the recording equipment; so there are different topics in one big file, which were
+cut into separate sound and video files
+\qu ????? transcribed in ELAN by BP in 2009 and translated orally into Russian by Ija Vasil'evna Krivoshapkina in 2009; glossed by BP in 2010.
+Speaker abbreviation = PDN
+\ref Petr Dmitrievich Neustroev was 68 years old at the time of recording, srednee obrazovanie, is trained as a carpenter, worked as a
+horse and reindeer herder, is a master in making sleds and lassos; his origins are from Tompo, both parents from Tompo, but he grew
+up on some priiskax in the Verxojansk region, and has been living in Sebjan for 40 years - has nevertheless retained some Tompo
+dialectal features
+
+\id Neustroev_PD_nimat_001
+\tx Značit   segodnja dvadcat' pjatogo    marta,      Neustroev Petr Dmitrievič ebedit          ukčenni
+
+\tx tradịcịaj dʒugulin,               ńịmat dʒugulin.
+\ft Today is the 25th of March, and Neustroev Petr Dmitrievich (will) tell in Even about traditions, about the nimat.
+\ELANBegin 00:00:00.010
+\ELANEnd 00:00:12.750
+\ELANParticipant BP
+\ru
+
+\id Neustroev_PD_nimat_002
+\tx Ee.
+\mb ee
+\ge eh
+
+\ELANBegin 00:00:12.750
+\ELANEnd 00:00:14.490
+\ELANParticipant PDN
+\ru
+
+\id Neustroev_PD_nimat_003
+\tx Dʒulle       ńulgewečeddil                        ebehel    honte abyčajalkan          bihitnen,         tiːk bọllaːna
+\mb dʒul -(dU)LE nulge   -WEːČ -E-D     -RI       -L  ewen -SEl honte obyčaj     -E  -lkEn bi -RI -tEn       tiek  buollaγïna
+\ge front -loc    migrate -gnr    -ep-prog -impf.ptc -pl Even -pl  other tradition.R -ep -prop be -pst -poss.3pl now   dp.Y
+
+\tx tar   abyčajụ       tutuhril                 bejel      ačča ọːdda.
+\mb tarak obyčaj     -W   tutus      -RI       -L  bej -E-L   ačča ọː  -D    -R(E)
+\ge dist  tradition.R -acc hold.rec.Y -impf.ptc -pl man -ep-pl neg    become -prog -nonfut
+\ft In the past, the migrating Evens had other traditions, but now the people who uphold those traditions are dying out.
+\ELANBegin 00:00:14.490
+\ELANEnd 00:00:25.990
+\ELANParticipant
+\ru Раньше кочующие эвены были с другими обычаями, а сейчас людей придерживающихся обычаев не стало.
+
+\id Neustroev_PD_nimat_004
+\tx Da    haːn nostel    tradịcịja gerbew     esten       haːr.
+\mb da    haːn noste -L  tradicija     gerbe -W   e   -R(E)   haː -R
+\ge ptl.R some  young -pl tradition.R   name  -acc neg -nonfut know -neg.cvb
+
+\ft And some young (people) don't even know what traditions are.
+\ELANBegin 00:00:25.990
+\ELANEnd 00:00:29.720
+\ELANParticipant
+\ru Некоторые молодые не знают что такое традиции.
+
+\id Neustroev_PD_nimat_005
+\tx Ńịmat gerbe dʒulle       ńulgewetti               ebehel    tadụkụ    ịapča             ebit,
+\mb ńịmat gerbe dʒul -(dU)LE nulge   -WEːČ -RI       ewen -SEl tarak -DUk(U) ịa    -B   -čE    ebit
+\ge nimat    name  front -loc    migrate -gnr    -impf.ptc Even -pl  dist  -abl    do.what -med -pf.ptc it.seems.Y
+
+\tx gapča            ebit.
+\mb ga   -B   -čE    ebit
+\ge take -med -pf.ptc it.seems.Y
+\ft The nimat was taken from the migrating Evens it seems.
+\ELANBegin 00:00:29.720
+\ELANEnd 00:00:38.420
+\ELANParticipant
+\ru Нимат взят раньше у кочующих эвенов.
+
+\id Neustroev_PD_nimat_006
+\tx Taral     ebehel    buollaγïna... ee, ebehel    ńan   ịawračal,               honte, honte ịadụkụ
+\mb tarak -L  ewen -SEl buollaγïna    ee  ewen -SEl ńaːn ịa    -Gr(E) -čE -L     honte  honte ịak -DUk(U)
+\ge dist  -pl Even -pl  dp.Y            eh  Even -pl  and    do.what -hab   -pf.ptc -pl other  other what  -abl
+
+\tx emnidʒur         tak... χọnọhọ     igin  emneken                      ọrọm
+\mb em   -RIdʒI -L   tak    χonoho           iŋin em   -REk -E-n(I)            ọrọn          -W
+\ge come -ant.cvb -pl so.R   overnight.guest.Y etc.Y come -cond.cvb -ep -poss.3sg domestic.reindeer -acc
+
+\tx maːrịdʒụr   tar   čalmịwan                  ịawan                 bütü... bekeččeːmen                 tar   tar
+\mb maː -RIdʒI -L   tarak čalmị   -W   -E-n(I)      ịak -W   -E-n(I)      bütün   bekeč -čEn -W   -E-n(I)      tarak tarak
+\ge kill -ant.cvb -pl dist  intestines -acc -ep-poss.3sg what  -acc -ep-poss.3sg all.Y     all    -dim  -acc -ep-poss.3sg dist  dist
+
+\tx emče        bejdu    ńịmaːdụwračal.
+\mb em   -čE    bej -DU  ńịmaːdụ        -Gr(E) -čE -L
+\ge come -pf.ptc man -dat share.hunting.spoils -hab   -pf.ptc -pl
+\ft Now those Evens did what, having come from a different something, if a guest came, they killed a reindeer and gave its intestines and
+all to the person who had come.
+\ELANBegin 00:00:38.420
+\ELANEnd 00:01:00.440
+\ELANParticipant
+\ru А эти эвены, эвены тоже что-то делали, приехав с другого чего-то, и когда приезжал гость, убив оленя его внутренности, все
+приехавшему человеку отдавали.
+
+\id Neustroev_PD_nimat_007
+\tx Tarak bej dʒe   čalmịwan                  ịawan                 uldewen                irittidʒi
+\mb tarak bej dʒe   čalmị   -W   -E-n(I)      ịak -W   -E-n(I)      ulre -W   -E-n(I)      ir        -E-Č   -RIdʒI
+\ge dist  man well.Y intestines -acc -ep-poss.3sg what  -acc -ep-poss.3sg meat -acc -ep-poss.3sg be.cooked -ep-res -ant.cvb
+
+\tx dʒe   nimeːrtendu          boːwreče          biče.
+\mb dʒe   ńimer    -tEn   -DU  boː -Gr(E) -čE    bi -čE
+\ge well.Y neighbour -distr -dat give -hab   -pf.ptc be -pf.ptc
+\ft That person (for whom the reindeer was killed) cooked the intestines the meat and all and gave some to each family.
+\ph
+\gr boːwreče biče = non-witnessed distant past
+\ELANBegin 00:01:00.440
+\ELANEnd 00:01:08.000
+\ELANParticipant
+\ru Этот человек (для которого убили) сварив все мясо, внутренности, раздавал вот каждой семье.
+
+\id Neustroev_PD_nimat_008
+\tx Tarbačan      tieke    ačča, ọttọn haːn bejel      tar   ịadụkụ  taraw...   ọmŋọptọn           tarak
+\mb tarọːčịn tiek -E  ačča  ọttọn haːn bej -E-L   tarak ịak -DUk(U) tarak -W   ọmŋa -B   -R(E) -n(I)  tarak
+\ge dist.qual      now  -ep neg     dp.Y      some  man -ep-pl dist  what  -abl    dist  -acc forget  -med -nonfut -3sg dist
+
+\tx tradịcịja tieke.
+\mb tradicija     tiek -E
+\ge tradition.R   now  -ep
+\ft Now that doesn't exist anymore, some people from something... that tradition is now forgotten.
+\ph
+\gr
+\nt According to IVK, the nimat isn't completely forgotten, people still share their meat with each other; but details have been forgotten,
+for example in the past some parts were NOT given away, that was taboo, was considered a sin, and nowadays that doesn't matter, as
+long as meat is being shared.
+\ELANBegin 00:01:08.000
+\ELANEnd 00:01:24.570
+\ELANParticipant
+\ru Сейчас такого нету, некоторые люди, сейчас эта традиция забыта.
+
+\id Neustroev_PD_nimat_009
+\tx Nostel    wabšeda          esten       haːwrar,            ee.
+\mb noste -L  voobše      =DE  e   -R(E)   haː -Gr(E) -R       ee
+\ge young -pl in.general.R =ptl neg -nonfut know -hab   -neg.cvb eh
+\ft Young people don't know (that) at all.
+\ELANBegin 00:01:24.570
+\ELANEnd 00:01:29.040
+\ELANParticipant
+\ru Молодые вообще не знают.
+
+\id Neustroev_PD_nimat_010
+\tx Ńan   stada, sta.. ee, stadadụ   bidnikehel,            torre         horgerečel            dʒulle.
+\mb ńaːn stado        ee  stado  -DU  bi -D    -nIkEn   -SEl tor   -(dU)LE hor -Gr(E) -čE -L     dʒul -(dU)LE
+\ge and    herd.R       eh  herd.R -dat be -prog -sim.cvb -pl  earth -loc    go  -hab   -pf.ptc -pl front -loc
+
+\ft And also being in the (reindeer) herd, they used to go hunt in the past.
+\ph
+\gr
+\nt torre hor 'go to the land' is a common expression for 'go hunt'
+\ELANBegin 00:01:29.040
+\ELANEnd 00:01:37.780
+\ELANParticipant
+\ru И еще будучи в стаде раньше ходили на охоту.
+
+\id Neustroev_PD_nimat_011
+\tx Ụjamkam           ńan   čaːmakụda      maːmị,      bujumde                 maːmị
+\mb ụjamkan      -W   ńaːn čaːmak -W   =DE  maː -mI       bujun         -W   =DE  maː -mI
+\ge mountain.sheep -acc and    tarbagan -acc =ptl kill -cond.cvb wild.reindeer -acc =ptl kill -cond.cvb
+
+\tx emuridʒur              haːwdị bejdu    ńịmaːdụwračal                    bekeččeːmen
+\mb em -U      -RIdʒI -L   hagdị   bej -DU  ńịmaːdụ        -Gr(E) -čE -L     bekeč -čEn -W   -E-n(I)
+\ge come -caus -ant.cvb -pl old       man -dat share.hunting.spoils -hab   -pf.ptc -pl all    -dim  -acc -ep-poss.3sg
+
+\tx uldelkeːken        ịalkaːkan,        nandalkaːkan        čalmịlkaːkan.
+\mb ulre -lkEn -KEn     ịak -lkEn -KEn     nanra -lkEn -KEn     čalmị   -lkEn -KEn
+\ge meat -prop -dim.int what  -prop -dim.int hide  -prop -dim.int intestines -prop -dim.int
+\ft If they killed a mountain sheep or a tarbagan, or if they killed a wild reindeer, they brought it and gave it away to an old person,
+everything, with the meat and the hide and the intestines.
+\ph
+\gr here the 'diminutive' has an emphatic, affirmative meaning, 'prjamo so škury, prjamo so mjasom....'
+\nt
+\ELANBegin 00:01:37.780
+\ELANEnd 00:01:52.890
+\ELANParticipant
+\ru Убив горного барана, горного суслика, дикого оленя, привезя, отдавали старому человеку все, вместе с мясом, вместе со всем, со
+шкурой, со внутренностями.
+
+\id Neustroev_PD_nimat_012
+\tx De     tarak ńịmatụ   gača        bej dʒe   dʒụːtaːndụ    balakkataːndụ,   ụrahataːndụ
+\mb dʒe   tarak ńịmat -W   ga   -čE    bej dʒe   dʒụː -tEn   -DU  palatka -tEn   -DU  uraha  -tEn   -DU
+\ge well.Y dist  nimat    -acc take -pf.ptc man well.Y house    -distr -dat tent.R  -distr -dat yurt.Y -distr -dat
+
+\tx ịanịkan      bọrịkkarača             uldewen.
+\mb ịa    -nIkEn   bọrị -Č  -Gr(E) -čE    ulre -W   -E-n(I)
+\ge do.what -sim.cvb share    -res -hab   -pf.ptc meat -acc -ep-poss.3sg
+\ft Well, the person who received that nimat shared that meat with every house and every tent.
+\ELANBegin 00:01:52.890
+\ELANEnd 00:02:04.390
+\ELANParticipant
+\ru Взявши этот нимат человек в каждую палатку в каждую урасу раздавал.
+
+\id Neustroev_PD_nimat_013
+\tx De     tarak gerbe ńịmaːt.
+\mb dʒe   tarak gerbe ńịmat
+\ge well.Y dist  name  nimat
+\ft That is called nimat.
+\ELANBegin 00:02:04.390
+\ELANEnd 00:02:06.711
+\ELANParticipant
+\ru Это называется нимат.
+
+\id Neustroev_PD_nimat_014
+\tx Söp, očen' xorošo, davajte ja prosto... ja na minutočku ostanavlju vse eto.
+\mb
+\ge
+\ft Very good, let me just stop all this for a minute.
+\ELANBegin 00:02:06.711
+\ELANEnd 00:02:15.081
+\ELANParticipant BP
+\ru 
+
+
+\ELANMediaURL file:///c:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/old_Sebjan_files_to_be_done/Neustroev_nimat/Neustroev_PD_nimat.wav
+\ELANMediaMIME audio/x-wav

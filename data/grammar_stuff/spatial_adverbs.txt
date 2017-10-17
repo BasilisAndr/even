@@ -1,0 +1,44 @@
+\_sh v3.0  984  Text
+
+\id spatial_adverbs_elicitation_080312_01
+\ref
+\tx verx po tečeniju
+\gr contrary to expectations, the adverbial allative "towards the upper reaches of a river" is not:
+\tx *họlahkị
+\mb họlịn               -skI
+\ge upper.reaches.of.river  -advb.all
+\ph
+\gr but this form:
+\tx họlaːkị
+\mb họlịn              -skI
+\ge upper.reaches.of.river -advb.all
+
+
+\id spatial_adverbs_elicitation_080312_02
+\ref
+\tx vniz po tečeniju
+\tx ejeːki
+\mb ejeːn                 -skI
+\ge lower.reaches.of.river -advb.all
+
+\gr there seem to be two variants of this, ejeːki and ejehki
+\gr ejeːn is homonymous with "flow" and "swim.downriver"
+
+\id spatial_adverbs_elicitation_080312_03
+\ref
+\tx ńahkị
+\mb ńahkị
+\ge downwards
+\ru вниз по горе
+\ph
+\gr the root ńan "lower reaches of a hill" has not been retained, but one could say ńahjakaːkị
+\gr they do not have the form eseki/eheki "vniz po gore"
+
+\id spatial_adverbs_elicitation_080312_04
+\ref
+\tx diehki
+\mb dien               -skI
+\ge upper.part.of.hill -advb.all
+\gr I used to have this written as deːhki, but IVK clearly pronounced it diehki, dien, so I've changed it
+\nt
+\gr and there is a form diegide, and diehjekeːki

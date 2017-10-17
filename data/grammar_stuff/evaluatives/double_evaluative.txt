@@ -1,0 +1,290 @@
+\_sh v3.0  1167 Text
+
+\id beseda_0658
+\ref -jE-KEn, adv, intensive 'right now'
+\tx Tiːkjekeːn        herelde            goːjdegim                   inače      tar   amarra         ịadʒịhna           goːn...
+\mb tiek -jEː -KEn     her    -E-(LI)lrE  goːn -j    -dEg      -Im    inače      tarak amar   -(dU)LE ịa    -DʒI -sEn      goːn
+\ge now  -aug  -dim.int bottom -ep-imp.2pl say   -conn -assert.Y -1sg.Y otherwise.R dist  behind -loc    do.what -fut  -poss.2pl say
+
+\tx họːt...   wabse        họːtadʒịr
+\mb họːta     voobše      họːta     -DʒI -r
+\ge get.confused in.general.R get.confused -fut  -3pl
+
+\ft You go right away, I said, otherwise later you will do something, they will get completely confused.
+\ru Сейчас же идите я сказала, иначе потом вы что-то сделаете сказала, вообще они ошибутся.
+\ELANBegin 00:19:09.420
+\ELANEnd 00:19:13.490
+\ELANParticipant RDA
+
+\id beseda_1020
+\ref -ńʤE -KEn, name, unclear meaning
+\tx Žannańdʒakan         ọːn ịačakko?
+\mb Žanna -ńdʒE -KEn     ọːn ịa    -čE    =kkE
+\ge Zhanna -aug    -dim.int how    do.what -pf.ptc =ptl
+
+\ft As for Zhanna, how did she do?
+\ph
+\gr the suffix -KEn has a more intensifying than diminutive meaning
+\nt Zhanna (the maths teacher at the school) is probably just called "big" in her family or among friends, she is not a particularly big person
+\ru А Жанна (большая) как она что-то сделала
+\ELANBegin 00:29:32.370
+\ELANEnd 00:29:33.285
+\ELANParticipant IAS
+
+\id Kejmetinova_AA_headmistress_018
+\ref -jE -KEn, adv, intensive?
+\tx Emekejeːt    hokohnidʒi      dʒụːtkịj            emekoːjeken
+\mb emeket  -jEː hokohon -RIdʒI  dʒụː -t(E)kI -J       emeket  =eː  -jEː -KEn
+\ge quickly -aug  go.down -ant.cvb house    -all    -prfl.sg quickly =emph -aug  -dim.int
+
+\tx dʒaltakij                horriw,            tutelliw.
+\mb dʒal    -t(E)kI -J       kI hor -RI  -W        tut -E   -L    -RI  -W
+\ge relativs -all    -prfl.sg    go  -pst -poss.1sg run -ep  -inch -pst -poss.1sg
+
+\ft Having walked down quickly, I quickly ran home to my family.
+\ph
+\gr on 040312 IVK said that emeket is used as a form when addressing people, to make them do something faster, podgonjatj "bystree bystree",
+and also can be used as an adverb too; there is no form emeke, only emeket, so emekejeːt would be an infixed augmentative; maybe the -t
+elided before -KEn
+\nt omekkejekkejer??
+\ph
+\ELANBegin 00:02:46.400
+\ELANEnd 00:02:53.510
+\ELANParticipant
+\ru Быстренько спустившись, я быстро побежала одна домой к своим родным.
+
+\id Kirillina_KK_Emcheni_017
+\ref -jEʤi -KEn, cvb, intensive?
+\tx Ụčakańdʒan                       hargajakaːndʒị,                   iːti          kịkantakan        kọkčịnnị
+\mb ụːčak       -E  -ńdʒE -n(I)     họrgọ -jEː -KEn     -DʒI        iːt  -J       kịk -E  -ntEkEn   kọkčịn -n(I)
+\ge riding.reindeer -ep -aug    -poss.3sg wheeze    -aug  -dim.int -ins.prfl.sg tooth -prfl.sg bite  -ep -mult.cvb hoof        -poss.3sg
+
+\tx iːhnin                       hagarakie            biwreče          ńamnịddakan.
+\mb iːhen -RI -n(I)              hagar    -(h)E =kE   bi -Gr(E) -čE    ńamnị -D    -REk      -E  -n(I)
+\ge be.audible -ipf.ptc -poss.3sg be.noisy -excl =emph be -hab   -pf.ptc gallop   -prog -cond.cvb -ep -poss.3sg
+
+\ft His big riding reindeer, wheezing, clenching his teeth, the sound of his hooves was very loud when he rode.
+\ph
+\ru Его олень хрипя сжимая зубы, звучание копыт был очень громким, когда он ехал.
+\ELANBegin 00:01:40.760
+\ELANEnd 00:01:48.910
+\ELANParticipant
+
+\id Kirillina_KK_Emcheni_045
+\ref -čEn -KEn, noun, dynamic?
+\tx Ọmọlgačakaːn,       ńụrmarịdʒị, hịat amargịdadụkụn             tụhanča,     kotlečen    asatkačam
+\mb ọmọlga -čEn -KEn     ńụrma -RIdʒI    hịat amar   -gIdE -DUk(U) -n(I)      tụsan -čE    kotlen -čEn asatkan -čEn -W
+\ge boy        -dim  -dim.int sneak.up -ant.cvb   willow behind -part -abl    -poss.3sg  hop     -pf.ptc small  -dim  girl    -dim  -acc
+
+\tx ńurittukun                naŋtịhịnča.
+\mb ńuːrit -DUk(U) -n(I)     naŋtị -s(E)n -čE
+\ge hair     -abl    -poss.3sg grab     -lim   -pf.ptc
+\ft The little boy snuck up and jumped out from behind the bushes and grabbed the small girl by her hair.
+\ph amargadụtkụn = slip of the tongue; asatkačan - not very clear whether she says -m or -n, should be accusative case, but slightly assimilated
+to ńurittukun
+\nt
+\ru Мальчик, подполза, из-за кустов прыгнул, меньшую девушку за волосы схватил.
+\ELANBegin 00:04:14.490
+\ELANEnd 00:04:22.450
+\ELANParticipant
+
+\id Kirillina_KK_Emcheni_110
+\ref -čEn, -KEn, noun, dynamic?
+\tx Tačịn       goːnčelen,                 asịtkačakaːn       emnidʒi,     Omčeniw     meːndʒi          ečin
+\mb tarọːčịn goːn -čE    -(dU)LE -n(I)  asatkan -čEn -KEn     em   -RIdʒI  Omčeni -W   meːn -DʒI        erroːčin
+\ge dist.qual      say   -pf.ptc -loc -poss.3sg girl    -dim  -dim.int come -ant.cvb Emcheni -acc refl  -ins.prfl.sg prox.qual
+
+\tx ịača,        dahụčča.
+\mb ịa    -čE    das   -U    -Č  -čE
+\ge do.what -pf.ptc cover -caus -res -pf.ptc
+
+\ft When he said like that, the girl came and shielded Emcheni with her own body.
+\ph
+\gr dastaj = cover, dahụdaj = be.covered (sam soboj zakrytsja, pokrytsja), dahụttaj = prikryvatj (derzhatj v zakrytym sostojanie) + bytj
+zakrytym, dahụddan = zakryvaetjsa, dahaptaj = zakrytsja (kto-nibudj zakryl)
+\ru Когда он так сказал, девушка придя, Омчени собой так закрыла.
+\ELANBegin 00:10:12.250
+\ELANEnd 00:10:22.060
+\ELANParticipant
+
+\id Krivoshapkina_AX_1930s_037
+\ref -ńʤE -KEn, pron, dynamic
+\tx Tarańdʒakan      gọgọlča           dʒe.
+\mb tarak -ńdʒE -KEn gọg -E-L     -čE    dʒe
+\ge dist  -aug    -dim bark  -ep-inch -pf.ptc well.Y
+\ft That one started to bark.
+\ph
+\gr the combination of augmentative and diminutive here gives a dynamic nuance, vyražaet dinamičnost'
+\ELANBegin 00:04:01.400
+\ELANEnd 00:04:04.010
+\ELANParticipant
+\ru Он залаял.
+
+\id Krivoshapkina_Ija_memories_236
+\ref -mEjE -KEn, hesitative and noun, dynamic
+\tx Tačịn       mụčụddakan                         ajụkaja  tar   amandụkụngụ,
+\mb tarọːčịn mụčụ -D    -REk -E-n(I)            ajụkaja  tarak aman   -DUk(U) -n(I)     =GU
+\ge dist.qual      return    -prog -cond.cvb -ep -poss.3sg suddenly.Y dist  father -abl    -poss.3sg =q
+
+\tx ịadụkụngụ           ịarịdʒị   ńọːnịdʒị tar   hịattụk    ịamajakkan
+\mb ịak -DUk(U) -n(I)     =GU ịa    -RIdʒI  ńọːn -RIdʒI  tarak hịat -DUk(U) ịak -mEjE -kkEn
+\ge what  -abl    -poss.3sg =q  do.what -ant.cvb run.away -ant.cvb dist  willow -abl    what  -aug  -dim
+
+\tx tọːkịmajakkan     ịača         tọhaŋčịča.
+\mb tọːkị -mEjE -kkEn ịa    -čE    tụsan -Č  -E-čE
+\ge elk        -aug  -dim  do.what -pf.ptc hop     -res -ep-pf.ptc
+
+\ft While she was returning like that, suddenly out of those willow bushes a huge elk jumped out, frightened by her father or
+something.
+\ru Когда она так возвращалась вдруг то ли от отца или что-либо другого испугавшись, из этих зарослей лосище
+выскочил.
+\ph amandụkụŋgu ịadụkụŋgu
+\gr ńọːn = run away after having got a fright, it has the meaning of both getting a fright and of running away; tọːkịmajakkan
+= the augmentative plus diminutive give a dynamic nuance, a sense of movement
+\ELANBegin 00:21:33.920
+\ELANEnd 00:21:43.880
+\ELANParticipant
+
+\id Krivoshapkina_Marta_bear_045
+\ref -ńʤE -KEn, noun, dynamic?
+\tx Ammụ           buollar tarak abagańdʒịkan         čụgahaddakan                            ịadnị...
+\mb aman   -W        buollar tarak abaga       -ńdʒE -KEn čụgaha     -D    -REk      -E-n(I)      ịa           -n(I)
+\ge father -poss.1sg dp.Y    dist  grandfather -aug    -dim come.closer.Y -prog -cond.cvb -ep-poss.3sg do.what.nonfut -3sg
+
+\ft My father, however, when that big bear came closer, did what....
+\ru А отец когда этот медведище приближался...
+\ph
+\gr
+\nt
+
+\id Nikitin_Mitja_pearstory_10
+\ref -čEn -KEn, noun, dynamic
+\tx Kụŋačakan          velosipedelkakan        hereddeken                          tarịńdʒa  ee tara
+\mb kụŋa -čEn -KEn     velosiped -E-lkEn  -KEn hor -E-D     -REk      -E-n(I)      tarak -ńdʒE ee tarak
+\ge child   -dim  -dim.int bicycle.R -ep-prop -dim go  -ep-prog -cond.cvb -ep-poss.3sg dist  -aug    eh dist
+
+\tx kụŋal    emie   herre.
+\mb kụŋa -L  emie   hor -R(E)
+\ge child   -pl also.Y go  -nonfut.3pl
+\ft When the little kid left on his little bike, these children also left.
+\ru Когда ехал ребеночек с велосипедом, эти дети тоже ушли.
+\ph heretteken
+\gr (quest_file 02_quest_2010, 7:15) the dual suffix čakan in kụŋačakan is NOT the 'plentitude' suffix -čEkEn, rather it is
+kụŋačan with the 'diminutive' suffix -KEn which has an emphatic meaning, "usilivaet obraz, dinamičnost', bolee jarkost',
+energičnost' peredaet'
+\nt
+
+\id Stepanova_ZA_arrival_Tashkent_043
+\ref -čEn -KEn, noun, dynamic?
+\tx Tarịt dʒe   emutni           ele          emureku                        dʒụː ečin      omen egdʒemeje    dʒụː,
+\mb tarịt dʒe   em   -U    -n(I) erek -(dU)LE em -U      -REk      -W        dʒụː erroːčin omen egdʒen -mEjE dʒụː
+\ge then    well.Y come -caus -3sg  prox -loc    come -caus -cond.cvb -poss.1sg house    prox.qual  one  big     -aug  house
+
+\tx tarịt ečin      ịakkụl   ed lesnicen,      padrụgačakamụ                    tutten:
+\mb tarịt erroːčin ịak =(W)Ul    lestnice -n(I) podruga      -čEn -KEn     -W        tut -R(E)   -n(I)
+\ge then    prox.qual  what  =indef    ladder.R -3sg  girlfriend.R -dim  -dim.int -poss.1sg run -nonfut -3sg
+
+\ft She entered a house, such a big house, with stairs, my friend was running:
+\ph tuttooon 
+\gr emureku -- When I bring/brought somebody... So Ija guess, ZAS meant emneku -- when I came there.
+\ru В дом привела, когда в дом вошла, в один такой большой дом, что-то лестница, бежит подружка.
+\ELANBegin 00:03:51.930
+\ELANEnd 00:04:02.140
+\ELANParticipant
+
+\id Stepanova_ZA_naled_038
+\ref ?? -KEn -KEn, ečin, intensive
+\tx Oo, bi   ŋeːlellem,                    họːč    ŋeːlellem,                    ere  nọŋan tụrkịn
+\mb oo  biː ŋeːl    -E-L     -R(E) -m     họː -Č  ŋeːl    -E-L     -R(E) -m     erek nọŋan tụrkị -n(I)
+\ge oh  1sg  be.afraid -ep-inch -nonfut -1sg very   -ins be.afraid -ep-inch -nonfut -1sg prox 3sg      sled      -poss.3sg
+
+\tx ečikkekoːn              lọdkamdas  melumečidni      dʒiː, noːwu                    moːle
+\mb erroːčin -kkEn -KEn     lodka  -mdEs melumet -E  -n(I) dʒIː  noː            -W        moː  -(dU)LE
+\ge prox.qual  -dim  -dim.int boat.R -sml  rock    -ep -3sg  aff     younger.sibling -poss.1sg water -loc
+
+\tx gịrkačịddan.
+\mb gịrka -Č  -E-D     -R(E) -n(I)
+\ge walk    -res -ep-prog -nonfut -3sg
+\ft Oh, I got a fright, a big fright, here his sled is floating?? in the water like this like a boat, my brother is walking in water.
+\ph
+\qu not very clear
+\gr (10_quest_2010, 15:50) gịrkačịddan - dolgo xodit; gịrkaddan would not be good here, ne podxodit zdes', gịrkačịddan is better, podxodit
+\ru Я испугалась, очень испугалась, и его нарты так как лодка ччч мой брат ходит по воде.
+\ELANBegin 00:04:02.619
+\ELANEnd 00:04:14.995
+\ELANParticipant
+
+\id Stepanova_ZA_naled_042
+\ref -jE -KEn, adv, intensive
+\tx "Herreː!          Bụgụn ọːlị       čahkị!"       goːnni     dʒiː, minu         herriw
+\mb hor -LI      =eː  bụgụn ọː  -LI      čaːg -skI      goːn -n(I) dʒIː  min     -W   hor -RI -W
+\ge go  -imp.2sg =emph side      become -imp.2sg far    -advb.all say   -3sg  aff     1sg.obl -acc go -impf.ptc -acc
+
+\tx goːnčelen,                 bi   amahjakọːkị           ečin      mịːttam             ịmmajịkaːn.
+\mb goːn -čE    -(dU)LE -n(I)  biː amar   -jEkEː   -skI      erroːčin mịːt   -R(E) -m     hịnma -jEː -KEn
+\ge say   -pf.ptc -loc -poss.3sg 1sg  behind -directly -advb.all prox.qual  move.back -nonfut -1sg fast    -aug  -dim.int
+
+\ft "Go away! Go aside!!" he said, right, when he said I should go back I went straight back very fast.
+\ph bugun alị čahkị
+\gr (10_quest_2010, 18:30) he told me 'go away!' would correctly be: minu herri goːnčelen; basically, I think the 'directly' suffix is infixed in
+the Allative suffix: amahkị -- amah-jakọː-kị, see also Zaxarov_AV_indjuk_28
+\ru "Уходи! Уйди отсюда подальше" сказал на меня, когда он это сказал уйти я назад, прямо назад, подвинулась.
+\ELANBegin 00:04:28.307
+\ELANEnd 00:04:36.276
+\ELANParticipant
+
+\id Stepanova_ZA_naled_053
+\ref ?? -KEn -KEn, ečin, intensive? 
+\tx Tala          ọmkandụla    ọjčịrakat,                      Apọńa kata,       ečin,     bekeččenni
+\mb tarak -(dU)LE ọmkan  -(dU)LE ọjčị -REk      -E  -t(I)        Afanasij xata        erroːčin bekeč -čEn -n(I)
+\ge dist  -loc    mountain -loc    go.up     -cond.cvb -ep -poss.1pl.in Afanasij thank.god.Y prox.qual  all    -dim  -poss.3sg
+
+\tx ereŋen                iŋemdeŋen,                         ajịkeː, ečikkeken                ọjčịrakan
+\mb erek -ŋ  -E-n(I)      iŋeń  -W     -DEŋ    -E-n(I)      aj   =kE   erroːčin -kkEn -KEn     ọjčị -REk -E-n(I)
+\ge prox -aln -ep-poss.3sg be.cold -advrs -pst.ptc -ep-poss.3sg good =emph prox.qual  -dim  -dim.int go.up     -cond.cvb -ep -poss.3sg
+
+\tx ehni           bakarkịtta.
+\mb e -R(E) -n(I)  bakarkịn -Č  -R
+\ge neg -nfut -3sg slip       -res -neg.cvb
+
+\ft When we were climbing up that mountain, luckily everything that had frozen on Afanasij, very good, when he climbed up like this he
+didn't slip.
+\qu unclear 
+\gr the diminutive in eččikekken might be because the steps were small and frequent; bakar- "be.slippery" and bakarkịn- "slip" are the
+only verb pair of this kind that IVK was able to come up with, remember - i.e. when I asked whether there were any other such pairs,
+she couldn't come up with any
+\ru Когда мы поднялись в гору, у Афони вот так все что замерзло, так, когда он поднимается не скользит.  
+\ELANBegin 00:05:19.670
+\ELANEnd 00:05:29.433
+\ELANParticipant
+
+\id ZAS_jubki_Aniwrin_125
+\ref -KEn -KEn -KEn, cvb, diminutive?
+\tx Distantsionnaj   goːkekendʒi,            kampjuter  goːnteken,     ečin      nekčim        ečin      nekčim
+\mb distantsionnyj   goːn -kEkEn -DʒI        kompjuter  goːn -ntEkEn   erroːčin nek -DʒI -m   erroːčin nek -DʒI -m
+\ge remote.control.R say   -dim   -ins.prfl.sg computer.R say   -mult.cvb prox.qual  do  -fut  -1sg prox.qual  do  -fut  -1sg
+
+\tx goːkekekendʒi                    ečin
+\mb goːn -kEkEn -KEn     -DʒI        erroːčin
+\ge say   -dim   -dim.int -ins.prfl.sg prox.qual
+\ft Saying the remote control, saying the computer, I will do like this, I will do like this, saying like this.
+\ru говоря дистанционный, говоря компютер так сделаю так сделаю говоря так
+\ELANBegin 00:08:54.590
+\ELANEnd 00:09:02.140
+\ELANParticipant
+
+\id Zaxarova_JP_pear_story_013
+\ref -čEn -KEn, noun, dynamic?
+\tx Tarịt kụŋačịkan        hotuhnidʒi                heredniken            ịadnị            ahịkkan
+\mb tarịt kụŋa -čEn -KEn     hotu       -s(E)n -RIdʒI  hor -E-D     -nIkEn   ịa           -n(I) asị -kkEn
+\ge then    child   -dim  -dim.int carry.away -lim   -ant.cvb go  -ep-prog -sim.cvb do.what.nonfut -3sg  woman -dim
+
+\tx kụŋakkam        emie   belosipedelken      bakaldadnị.
+\mb kụŋa -kkEn -W   emie   velosiped -E  -lkEn bak  -(E)ldE -n(I)
+\ge child   -dim  -acc also.Y bicycle.R -ep -prop find -soc    -3sg
+
+\ft Then the kid, riding, having carried off (the basket), met a little girl, also on a bike.
+\ru Потом ребеночек едя утащив встретил девочку, тоже на велосипеде.
+\ph
+\gr
+\nt

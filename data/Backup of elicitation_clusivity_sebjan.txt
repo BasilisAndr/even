@@ -1,0 +1,161 @@
+\_sh v3.0  984  Text
+
+\id S_ClusivityA1a
+\ref elicited with Ekaterina Shadrina (who called her daughter to help) 18.02.08; sebjan180208_51:23
+\tx Kụŋal    Koljala       goːndʒidde:           Hiː emebli        kụŋaw     kojeːtli,       mut
+\mb kụŋa -L  Kolja -(dU)LE goːn -D    -R(E)       hiː emeb -LI      kụŋa -W   kojeːt -LI      mut
+\ge child   -pl Kolja -loc    say   -prog -nonfut.3pl 2sg  stay -imp.2sg child   -acc look.at -imp.2sg 1pl.in
+
+\tx ewiːnemi               hordʒip.
+\mb ewiː -nE     -mI       hor -DʒI -p
+\ge play  -intent -cond.cvb go  -fut  -1pl.in
+\ft
+\ru Дети говорят Коле: Мы идем играть, а ты остаешься здесь, чтобы присматривать за маленькой сестрой.
+\gr no 1PL.EXCL form!
+\nt The form given by Robbek is emebdej "ostavat'sja"; the daughter did say emeBli, but was corrected by mother to emePli
+--> hypercorrection? The daughter also said a verb "kụŋabịtlị" for 'look after little sister' --> this is "kụŋaw itli"
+(sebjan190208_50:40)
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_18:35
+\tx Mut    ewineddep,                          hiː ele          emebdʒinni     noːji
+\mb mut    ewiː -nE     -D    -R(E)   -p      hiː erek -(dU)LE emeb -DʒI -nrI noː            -J
+\ge 1pl.in play  -intent -prog -nonfut -1pl.in 2sg  prox -loc    stay -fut  -2sg younger.sibling -prfl.sg
+
+\tx kojeːttej.
+\mb kojeːt -DE       -J
+\ge look.at -purp.cvb -prfl.sg
+
+\id S_ClusivityA1b
+\ref elicited with Ekaterina Shadrina (who called her daughter to help) 18.02.08; sebjan180208_53:15
+\tx Tačịn       bihiken                    mut    bekečeːndʒur           ewiːnemi               hordʒip
+\mb tarọːčịn bi -REk -E-n(I)            mut    bekeč -Eːn -dʒUr       ewiː -nE     -mI       hor -DʒI -p
+\ge dist.qual      be -cond.cvb -ep -poss.3sg 1pl.in all    -dim  -ins.prfl.pl play  -intent -cond.cvb go  -fut  -1pl.in
+
+\tx kụŋa omekken emebden.
+\mb kụŋa omekken emeb -DE       -n(I)
+\ge child   alone   stay -purp.cvb -poss.3sg
+\ft
+\ru Мы идем играть все вместе, сестричка твоя останется одна.
+\ph bəkəčeːndʒur + hərdʒip + əmekkən + They said "emepten" all the time, with voiceless consonants, but when I repeated
+it at them they corrected me to emeBDen 
+\nt In the beginning 'tried out' tačịkam bihikes, but changed it to tačịn bihiken; after checking forms elsewhere, I have the
+impression that -hik- or -hikle- is a separate converbal-like form, I've called it the concessive, because it expresses
+"although, even though", but tačịn bihiken = esli tak, tačịn bihiku = esli ja tak, tačịn bihikes = esli ty tak
+(sebjan190208_50:55)
+\gr
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan030308_19:25
+\tx Omettu   ewinemi                 hergel,         noːs                     emekken emebden.
+\mb omettu   ewiː -nE     -mI       hor -GEr        noː            -s(I)     omekken emeb -DE       -n(I)
+\ge together play  -intent -cond.cvb go  -imp.1pl.in younger.sibling -poss.2sg alone   stay -purp.cvb -poss.3sg
+
+\id S_ClusivityA2a
+\ref elicited with Ekaterina Shadrina (who called her daughter to help) 18.02.08; sebjan180208_54:42
+\tx Hupkučimŋe    mutu        neːgidni,         mut    ịawda         ehep                nekte        //
+\mb hupkut -E-mŋE  mut    -W   neːgi       -n(I) mut    ịak -W   =DE  e   -R(E)   -p      nek -R       *//
+\ge learn  -ep-agnr 1pl.in -acc scold.nonfut -3sg  1pl.in what  -acc =ptl neg -nonfut -1pl.in do  -neg.cvb ***
+
+\tx eheket                        nekte.
+\mb e   -hIk(le)  -E-t(I)         nek -R
+\ge neg -conc.cvb -ep-poss.1pl.in do  -neg.cvb
+
+\ft
+\ru Учительница нас ругала, хотя мы ничего не делали.
+\ph əhəp nekte + neːKidni?
+\gr Ekaterina at first said mut ịawda ešelti (?), but was corrected by her daughter to say ịawda ehep nekte; eheket nekte =
+xotja nichego ne sdelali; they seemed to be trying an explanation by aspect, ne delali ne sdelali for the difference between
+ekep nekte and eheket nekte, but it was not clear at all.
+\nt
+\nt sebjan190208_51:55
+\gr biː neːgirem, hiː neːginni, nọŋan neːgidni = sejchas rugaju, rugaesh', rugaet; neːgiriw, neːgirin = ja/ ona vchera rugala
+\nt
+\tx huː ịawda         ehekehnen            nekte
+\mb huː ịak -W   =DE  e   -hikle -sEn      nek -R
+\ge 2pl  what  -acc =ptl neg -conc  -poss.2pl do  -neg.cvb
+\ru хотя вы ничего не сделали
+\gr
+\tx biː ịawda         eheku                nekte
+\mb biː ịak -W   =DE  e   -hikle -W        nek -R
+\ge 1sg  what  -acc =ptl neg -conc  -poss.1sg do  -neg.cvb
+\ru хотя я ничего не сделала
+\ph
+\tx mut    ịawda         ehep                nekte
+\mb mut    ịak -W   =DE  e   -R(E)   -p      nek -R
+\ge 1pl.in what  -acc =ptl neg -nonfut -1pl.in do  -neg.cvb
+\ru мы ничего не сделали
+
+\id S_ClusivityA2b
+\ref elicited with Ekaterina Shadrina (who called her daughter to help) 18.02.08; sebjan180208_57:09
+\tx Mut    tịmana   hupkučekle          amaːńụn  hordʒip          hupkučimŋeńun
+\mb mut    tịmịna hupkut -ČEk -(dU)LE aman   -ńUn hor -DʒI -p      hupkut -E-mŋE  -ńUn
+\ge 1pl.in tomorrow   learn  -nr   -loc    father -com  go  -fut  -1pl.in learn  -ep-agnr -com
+
+\tx ukčemmetteːr.
+\mb ukčen -mEČ -DE       -WUr
+\ge tell   -rec  -purp.cvb -prfl.pl
+\ru Мы завтра пойдем в школу, чтобы разговаривать с учительницей.
+\ph hərdʒip + saying it at first she said ukčemmetter, but dictating slowly she said ukčenmetter
+\nt clarification of forms: sebjan190208_55:52
+
+\id S_ClusivityB1a
+\ref elicited with Ekaterina Shadrina, sebjan050308_keti_13:00
+\tx Hindu        mut    bileːket                  ọːn bihni?           Ịbgagụ?   Nọŋan hiː
+\mb hin     -DU  mut    bileːk    -E-t(I)         ọːn bi -R(E)   -n(I) ịbgọt =GU nọŋan hiː
+\ge 2sg.obl -dat 1pl.in settlement -ep-poss.1pl.in how    be -nonfut -3sg  good      =q  3sg      2sg
+
+\tx goroddukus               kotlen /   hiː gorodamdas       egdʒen ehni              bihiklej,
+\mb gorod  -DUk(U) -s(I)     kotlen */  hiː gorod  -E  -mdEs egdʒen e   -R(E)   -n(I) bi -RI       -klE      -J
+\ge town.R -abl    -poss.2sg small  *** 2sg  town.R -ep -sml  big     neg -nonfut -3sg  be -impf.ptc -conc.cvb -prfl.sg
+
+\tx họː aj,  adʒịtgụ?
+\mb họː aj   ajdịt =GU
+\ge very   good truth   =q
+\ft
+\ru Тебе нравится наша деревня? Она не такая большая как твой город, но она красивая, не правда ли?
+
+\id S_ClusivityB1b
+\ref elicited with Ekaterina Shadrina, sebjan050308_keti_15:25
+\tx Er   bileːk   hunŋińun                ehni              bihe,       ele          biː
+\mb erek bileːk   hun     -ŋI       =ńUn  e   -R(E)   -n(I) bi -R       erek -(dU)LE biː
+\ge prox territory 2pl.obl -pred.poss =restr neg -nonfut -3sg  be -neg.cvb prox -loc    1sg
+
+\tx upeːw                tegetten.                      Teːmi    nọŋan mut    bileːket.
+\mb upeː       -W        teg      -E-Č   -R(E)   -n(I) teːmi    nọŋan mut    bileːk    -E-t(I)
+\ge grandmother -poss.1sg sit.down -ep-res -nonfut -3sg  therefore 3sg      1pl.in settlement -ep-poss.1pl.in
+\ft
+\ru Себян не толко ваша деревня, потому что моя бабушка здесь живет. Поэтому она наша деревня.
+\gr bileːk is the place where animals (in general, mountain sheep) are regularly found at a certain time of the year; it has been
+extended to mean 'settlement, village' (cf. translation session Tat_Petr_family_photos 51min20)
+
+\id S_ClusivityB2a
+\ref elicited with Ekaterina Shadrina, sebjan050308_keti_18:55
+\tx Mut    ečelti                      dʒọrmịr         hiː tetiwus,            tọbọr hiː dʒọrmịča
+\mb mut    e   -čE    -L  -t(I)        dʒọrọm -R       hiː teti -W   -s(I)     tawụr   hiː dʒọrọm -E-čE
+\ge 1pl.in neg -pf.ptc -pl -poss.1pl.in steal       -neg.cvb 2sg  coat -acc -poss.2sg this      2sg  steal       -ep-pf.ptc
+
+\tx bihenni         mukŋiw.
+\mb bi -R(E)   -nrI mut    -ŋI       -W
+\ge be -nonfut -2sg 1pl.in -pred.poss -acc
+\ft
+\ru Мы не украли твое пальто, это ты украл наше.
+
+\id S_ClusivityB3a
+\ref elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_13:45
+\tx Erew      anŋanịw     ọrọltị                       nahaː bergel,   goːli.
+\mb erek -W   anŋan -E-W    ọrọn          -L  -t(I)        nahaː berge -L  goːn -LI
+\ge prox -acc year   -ep-acc domestic.reindeer -pl -poss.1pl.in very.Y fat   -pl say   -imp.2sg
+\ft
+\ru Наши олени в этом году такие здоровые и крепкие, не правда ли?
+
+\id S_ClusivityB3b
+\ref elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_14:30
+\tx Atịkamụ         ọrọlbụ                    //  ọrọltị                       bergel
+\mb atịkan  -W        ọrọn          -L  -W        *// ọrọn          -L  -t(I)        berge -L
+\ge old.woman -poss.1sg domestic.reindeer -pl -poss.1sg *** domestic.reindeer -pl -poss.1pl.in fat   -pl
+
+\tx gerbekkerende,                bike       họːja ọrọn          eninni              gerbettem.
+\mb gerbet -Gr(E)      -n(I) =DE  biː =kE   họːja ọrọn          enin          -n(I) gerbet -R(E)   -m
+\ge think  -hab.nonfut -3sg  =ptl 1sg  =emph many     domestic.reindeer be.ill.nonfut -3sg  think  -nonfut -1sg
+\ft
+\ru Моя жена думает, что наши олени в этом году здоровые, но я боюсь, что многие из них больны.
+\gr "my wife" can be both atịkamụ and atịkaŋụ
+\nt She said the sentence with the 1SG possessed reindeer, and I asked how it would be if it were "our reindeer"

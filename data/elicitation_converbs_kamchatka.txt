@@ -1,0 +1,969 @@
+\_sh v3.0  968  Text
+
+\id K_ConverbsComplementizers4.1
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1007_29:01
+\tx Bi   ŋeːlliwu               nọŋan ńoːmeːdŋewen                     //ńoːmeːdʒik  nọŋan.
+\mb biː ŋeːl    -RI  -W        nọŋan ńoːmeː -D(I)ŋE -W   -E-n(I)      ńoːmeː -DʒIk  nọŋan
+\ge 1sg  be.afraid -pst -poss.1sg 3sg      die       -fut.ptc -acc -ep-poss.3sg die       -admon  3sg
+\ft
+\ru Я боялся, что он умрет.
+\ph ńọːmedŋewen
+\gr Also 'he will die' = kokedʒin (though according to Cincius this refers to animals dying); When I checked
+(Esso2006_0:55), she said that 'On bojalsja, čto ja umru' = nọŋan ŋeːllin min kokedŋeduwu. On umer = nọŋan
+kokerin, [kọkerin] nọŋan ńoːmerin [ńọːmerin]
+\nt Esso2006_2:50
+\tx Bi   ŋeːlliwu               nọŋan ńoːmeːnnewen.
+\mb biː ŋeːl    -RI  -W        nọŋan ńoːmeː -nnE     -W   -E-n(I)
+\ge 1sg  be.afraid -pst -poss.1sg 3sg      die       -nec.ptc -acc -ep-poss.3sg
+\ru Я боялся, что придет время его смерти (что он должен умереть).
+\ph
+\gr But when I asked "vremja ego smerti" she said ńoːmedʒak, eto vremja smerti; BUT: min ńoːmeːnnewu ọːdakan = kogda
+nastanet vremja moej smerti
+\nt
+\tx Nọŋan ŋeːllin                min     kokedŋeduwu                  \\ ńoːmeːdŋewu
+\mb nọŋan ŋeːl    -RI  -n(I)     min     koke -D(I)ŋE -?? -W   -W        ńoːmeː -D(I)ŋE -W   -W
+\ge 3sg      be.afraid -pst -poss.3sg 1sg.obl die  -fut.ptc -?? -acc -poss.1sg die       -fut.ptc -acc -poss.1sg
+
+\ru Он боялся, что я умру.
+\ph
+\gr Not clear, why it's kokedŋeduwu and not kokedŋewu - I think it may have been an error, because with ńoːmeː the -du-
+is missing, and that makes more sense. But I repeated "kokedŋewu" several times and she agreed.
+\nt
+\nt Esso3006_16:00
+\tx Nọŋan ŋeːllin                min     kokedŋeduwu.
+\mb nọŋan ŋeːl    -RI  -n(I)     min     koke -D(I)ŋE -?? -W   -W
+\ge 3sg      be.afraid -pst -poss.3sg 1sg.obl die  -fut.ptc -?? -acc -poss.1sg
+\ru Он боялся, что я вдруг умру (незапно).
+\ph
+\tx Nọŋan ŋeːllin                min     kokedŋewu.
+\mb nọŋan ŋeːl    -RI  -n(I)     min     koke -D(I)ŋE -W   -W
+\ge 3sg      be.afraid -pst -poss.3sg 1sg.obl die  -fut.ptc -acc -poss.1sg
+\ru Он боялся что я умру, боится моей смерти (просто, в будущем).
+\ph
+\nt So a few days later I gave her the two sentences for judgement, and she said both were correct, basically they both
+mean the same, except that the one with kokedŋeDUwu means a fear of a sudden death.
+\nt Esso3002_29:35
+\tx Bi   ŋeːlliwu               iːn    urdiŋewis                    \\ urriwus
+\mb biː ŋeːl    -RI  -W        iːn    ur -D(I)ŋE -W   -E-s(I)         ur -RI       -W   -s(I)
+\ge 1sg  be.afraid -pst -poss.1sg 2sg.obl go -fut.ptc -acc -ep-poss.2sg    go -impf.ptc -acc -poss.2sg
+
+\ru Я боялась что ты уедешь.
+\gr
+\nt Esso3002_30:15
+\tx Ekenni      gerbuttin             asatkaŋan                upkutčiŋewen                    akušerka
+\mb eken   -nrI gerbet -RI  -n(I)     asatkan -ŋ  -E-n(I)      hupkut -D(I)ŋE -W   -E-n(I)      akušerka.R
+\ge mother -2sg think  -pst -poss.3sg girl    -aln -ep-poss.3sg learn  -fut.ptc -acc -ep-poss.3sg midwife.R
+
+\tx bideji.
+\mb bi -DE       -J
+\ge be -purp.cvb -prfl.sg
+\ru Мать думала, что дочь будет учиться на акушерку.
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_23:10
+\tx Bi   eŋunniwu                (ńoːmeːdŋewen)                   ọːnda    ńoːmeːdʒik.
+\mb biː heŋun    -RI -W         ńoːmeː -D(I)ŋE -W   -E-n(I)      ọːn =DE  ńoːmeː -DʒIk
+\ge 1sg  be.afraid -pst -poss.1sg die       -fut.ptc -acc -ep-poss.3sg how    =ptl die       -admon
+
+\nt The first form of the verb she gave at first, for a long time that was all she could think of, the direct translation, but then
+she found the, in her opinion, better translation with the Admonitive. = "ja bojalas', kak by ne umer"
+\ph ńọːmedik
+
+\id K_ConverbsComplementizers4.2
+\ref Esso1007_30:44
+\tx Eniŋeːwun              goːnin              buteːnniji.
+\mb eniŋeː    -WUn         goːn -RI  -n(I)     buteːn -RI       -J
+\ge grandmother -poss.1pl.ex say   -pst -poss.3sg be.ill  -impf.ptc -prfl.sg
+\ft
+\ru Бабушка сказала, что она больна.
+
+\id K_ConverbsComplementizers4.3
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1007_31:20
+\tx Bu     ulgimniwun              eniŋeːwur          ọːn meːni      aːwran.
+\mb buː   ulgim -RI  -WUn         eniŋeː    -WUr     ọːn meːni      aːw -R(E)     -n(I)
+\ge 1pl.ex ask   -pst -poss.1pl.ex grandmother -prfl.pl how    refl.sg.acc feel -nonfut   -3sg
+\ru Мы спрашивали нашу бабушку, как себя чувствует.
+\ph she said this with such a back -l- that I thought it might be ụlgịmnịwụn; however, Cincius gives ulgimdej for 'ask'
+\gr ŋaːlu esni aːwra = u menja ruka ne čuvstvujet
+\nt
+\nt Esso2006_5:45
+\tx Nọŋartan aːwra           meːrur            ajịč.
+\mb nọŋartan aːw -R(E)       meːn -L  -WUr     aj   -E-Č
+\ge 3pl         feel -nonfut.3pl refl  -pl -prfl.pl good -ep-ins
+\ru Они чувствуют себя хорошо.
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_25:55
+\tx Bu     ulgimniwun              eniŋeːw        enni              buteːnne.
+\mb buː   ulgim -RI  -WUn         eniŋeː    -W   e   -R(E)   -n(I) buteːn -R
+\ge 1pl.ex ask   -pst -poss.1pl.ex grandmother -acc neg -nonfut -3sg  be.ill  -neg.cvb
+\ru Мы спросили бабушку, не болеет ли.
+
+\id K_ConverbsComplementizers4.4
+\ref Esso1007_33:00
+\tx Nọŋan mergeːttin,            awụskị      urdʒin.
+\mb nọŋan mergeːt -RI  -n(I)     aw    -skI      ur    -DʒI -n(I)
+\ge 3sg      think    -pst -poss.3sg where -advb.all leave -fut  -3sg
+
+\ft
+\ru Он думал куда идти.
+\ph
+\gr mergeːt = think thoughts, razmyshljat', gerbet = think, be of the opinion
+
+\id K_ConverbsComplementizers4.5
+\ref Esso1007_33:55
+\tx Bi   ŋeːlliwu               gerbutmi         nọŋan ńoːmeːnnewen.
+\mb biː ŋeːl    -RI  -W        gerbet -mI       nọŋan ńoːmeː -nnE     -W   -E-n(I)
+\ge 1sg  be.afraid -pst -poss.1sg think  -cond.cvb 3sg      die       -nec.ptc -acc -ep-poss.3sg
+
+\ft
+\ru Я боялся, потому что я думал, что он умрет. (Я боялся думая, что он умрет.) = я боялся думая, что он должен
+умереть
+\ph She clearly pronounces gerbUtmi, but the standard form given in the dictionary (Robbek) is gerbettej.
+
+\id K_ConverbsComplementizers4.6
+\ref Esso1007_35:46
+\tx Nọŋan urukenin                ụnaːdʒị        kojeːtneden
+\mb nọŋan ur -WkEn -RI  -n(I)     hụnaːdʒ -J       kojeːt -nE     -DE       -n(I)
+\ge 3sg      go -caus -pst -poss.3sg child       -prfl.sg look.at -intent -purp.cvb -poss.3sg
+
+\tx ajịr  desčiddiwen                             ọtọrandụla.
+\mb hajịr desči -D    -RI       -W   -E-n(I)      họtọran -(dU)LE
+\ge gloves  lie    -prog -impf.ptc -acc -ep-poss.3sg road        -loc
+
+\ft
+\ru Он послал своего сына чтобы смотреть, лежат ли перчатки на дороге.
+\ph urukanin
+
+\id K_ConverbsComplementizers4.7
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1007_36:49
+\tx Egdʒedmer     ụnaːdʒịn           gerben          Nikolaj, kučukedmer     gerben          Andrej.
+\mb egdʒen -dmEr  hụnaːdʒ -E-n(I)      gerbe -n(I)     Nikolaj  kočuken -dmEr  gerbe -n(I)     Andrej
+\ge big     -contr child       -ep-poss.3sg name  -poss.3sg Nikolaj  small    -contr name  -poss.3sg Andrej
+
+\ft
+\ru Старшего сына зовут Николай, младшего зовут Андрей.
+\ph
+\gr min gerbewu = my name; ọːn gerbutte = kak ego zovut; ọːn gerbutčoːtte = kak nazyvajut tebja
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_27:05
+\qu
+\tx Akadmar              gerben          Mikulaj, noːdmer               Andrej.
+\mb akan          -dmEr  gerbe -n(I)     Nikolaj  noː            -dmEr  Andrej
+\ge older.brother -contr name  -poss.3sg Nikolaj  younger.sibling -contr Andrej
+
+\ru Имя старшего ....
+\ph nuːdmer
+
+\id K_ConverbsComplementizers4.8
+\ref Esso1007_38:35
+\tx Eŋejel    ńọkal    bisiten           toŋeːr ańčịndụlan.
+\mb eŋeje -L  ńọka -L  bi -RI  -tEn      toŋeːr ańčịn    -(dU)LE -n(I)
+\ge rich   -pl Sakha   -pl be -pst -poss.3pl lake     space.beside -loc    -poss.3sg
+\ft
+\ru Богатые якуты жили около озера.
+\ph
+\gr Esso3006_18:35
+\tx Eŋejel      ńọkal    bisiten             "Senokosnoe" toŋeːr ańčịndụlan.
+\mb eŋeje   -L  ńọka -L  biː -RI  -tEn      *Senokosnoe  toŋeːr ańčịn    -(dU)LE -n(I)
+\ge rich.man -pl Sakha   -pl 1sg  -pst -poss.3pl ***          lake     space.beside -loc    -poss.3sg
+\ru Богатые якуты жили около озера по имени "Сенокосное".
+
+\id K_ConverbsComplex2.19
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1006_34:23
+\tx Bi   tegečiddiwu                              iludniken            omen bej ńọːŋčịrịn           dʒụːwụ
+\mb biː teg      -E-Č   -E-D     -RI  -W         hilu  -D    -nIkEn   omen bej ńọːŋčị -RI  -n(I)     dʒụː -W
+\ge 1sg  sit.down -ep-res -ep-prog -pst -poss.1sg  drink -prog -sim.cvb one  man run            -pst -poss.3sg house    -poss.1sg
+
+\tx ańčịndụlan.
+\mb ańčịn    -(dU)LE -n(I)
+\ge space.beside -loc    -poss.3sg
+
+\ft
+\ru Я сидел и пил чай и один человек пробежал мимо дома.
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_18:42
+\tx Min     iluddeku,                       omen bej ńọːŋčịrịn           dʒụːwụ
+\mb min     hilu  -D    -REk      -W        omen bej ńọːŋčị -RI  -n(I)     dʒụː -W
+\ge 1sg.obl drink -prog -cond.cvb -poss.1sg one  man run            -pst -poss.3sg house    -poss.1sg
+
+\tx ańčịndụlịn.
+\mb ańčịn    -(dU)LI -n(I)
+\ge space.beside -prol   -poss.3sg
+
+\id K_ConverbsComplex2.20
+\ref Esso1006_35:15
+\tx Urli        ereknun    bejgeli     belmeːtčis.
+\mb ur -LI      erek -ńUn bej -g(E)lI bel  -mEČ -DʒI -s
+\ge go -imp.2sg prox -com  man -com    help -rec  -fut  -2pl
+
+\ft
+\ru Пойди с этим человеком и помогите друг другу.
+\ph belmeːččiš
+\gr At first she said "erekgli bejgəli" but then she changed it to "ereknun bejgəli".
+
+\id K_ConverbsComplex2.21
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1006_36:24
+\tx Vasja ereger čaːgịnnịwaːttan               Petjagli      taŋnasmị                   školatkị.
+\mb Vasja ereger čaːgịnnị -WEːČ -R(E)   -n(I) Petja -g(E)lI taŋ -nE     -s(E)n -mI       škola   -t(E)kI
+\ge Vasja always be.late        -gnr    -nonfut -3sg  Petja -com    read -intent -lim   -cond.cvb school.R -all
+\ft
+\ru Вася постоянно опаздывает, когда с Петей идут в школу.
+\ph
+\gr (Esso3002_4:15) One could also have said: Vasja ereger čaːgịnnịwaːttan taŋnamị školatkị \\ taŋnasmị = kogda xodit v
+školu, taŋnamị = kogda idet v školu
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_19:45
+\tx Vasjaja      Petjagli      taŋadʒaktakị      urmi,        ereger Petja ụptụtčọːttan.
+\mb Vasja =jE    Petja -g(E)lI taŋ -E-ČEk -t(E)kI  ur -mI       ereger Petja hụptụ   -Č  -WEːČ -R(E)   -n(I)
+\ge Vasja =assoc Petja -com    read -ep-nr     -all  go -cond.cvb always Petja stay.behind -res -gnr    -nonfut -3sg
+
+\ft
+\gr at first said "olloːtmi", then "urroːtte"
+
+\id K_ConverbsComplex2.22
+\ref Esso1006_37:25
+\tx Bu     olloːttakun                   eniŋeːtkiwur               nọŋan ereger boːweːtten
+\mb buː   olloːt -REk      -WUn         eniŋeː    -t(E)kI -WUr     nọŋan ereger boː -WEːČ -R(E)   -n(I)
+\ge 1pl.ex go      -cond.cvb -poss.1pl.ex grandmother -all    -prfl.pl 3sg      always give -gnr    -nonfut -3sg
+
+\tx konfetaŋgakụn,                teːmi    mun        eńtilbun            ịrrọːtta.
+\mb konfeta -ŋ  -GE    -WUn         teːmi    mun        eńtil  -WUn         hịr    -WEːČ -R(E)
+\ge sweet.R -aln -desig -poss.1pl.ex therefore 1pl.ex.obl parents -poss.1pl.ex be.angry -gnr    -nonfut.3pl
+
+\ft
+\ru Когда мы ходили к нашей бабушке, она нам всегда давала конфеты, и поэтому наши родители сердились.
+\ph The converbal suffix in olloːttakun was pronounced quite rounded, obviously influenced by the surrounding vowels.
+++ ərəːγər, with hardly audible γ; boːweːtten with fairly back vowels, more like o than ö
+
+\id K_ConverbsComplex2.23
+\ref Esso1006_38:57
+\tx Gịawụ        eseken                     ụnụr            domašnie zadanijaw
+\mb gịa  -W        e   -REk      -E-n(I)      ụnụ    -R       domašnie zadanija   -W
+\ge friend -poss.1sg neg -cond.cvb -ep-poss.3sg understand -neg.cvb home.R    exercise.R -acc
+
+\tx matematikalị,    bisi       ajịč      ụnụrịwụ,          nọŋan
+\mb matematika -(dU)LI biː =sI   aj   -E-Č   ụnụ    -RI  -W        nọŋan
+\ge maths.R    -prol   1sg  =emph good -ep-ins understand -pst -poss.1sg 3sg
+
+\tx minu         goːneweːtten,               ńan   bi   nọŋandụn           belloːttem.
+\mb min     -W   goːn -E-WEːČ -R(E)   -n(I) ńaːn biː nọŋan -DU  -n(I)     bel  -WEːČ -R(E)   -m
+\ge 1sg.obl -acc say   -ep-gnr   -nonfut -3sg  again  1sg  3sg      -dat -poss.3sg help -gnr    -nonfut -1sg
+
+\ft
+\ru Если подруга не понимает домашние задания по математике, а я их хорошо понимаю, то она меня зовет, и я ей
+помогаю.
+\ph belloːttem with a fairly back o, but with palatal l
+\gr (Esso2004_18:10) goːneweːtten = on menja vsegda zovet, on idet menja zvat' --> this would appear to have the
+Intentional suffix before the Generic; goːnassoːtten = on menja často zovet --> this might contain a variant of the
+Multiplicative suffix, Cincius mentions a suffix in -s with a multiplicative meaning; when I tried to clarify this a few days
+later (Esso3006_28:00), she said it should be guːŋissoːten 'on vyzyvaet'; (guːŋissoːten ne:ideji =vyzyvaet chtoby rugat') 
+and there is also a form guːnesnoːtten = on bystren'ko soberet vsex, bystren'ko povyzyvaet.
+
+\id K_ConverbsComplex2.24
+\ref Esso1006_40:30
+\tx Uː emnekesente,                     bi   oleːtidʒilloːttem,                              uːsi
+\mb uː em   -REk      -E-sEn       =DE  biː oleː -Č  -E-D     -E-L     -WEːČ -R(E)   -m    uː =sI
+\ge 2pl come -cond.cvb -ep-poss.2pl =ptl 1sg  cook  -res -ep-prog -ep-inch -gnr    -nonfut -mult 2pl =emph
+
+\tx ereger dimilloːčis.
+\mb ereger dim       -E-L     -WEːČ     -E-s
+\ge always be.hungry -ep-inch -gnr.nonfut -ep-2pl
+\ft
+\ru Как только вы приходите, я начинаю готовить ужин, а вы всегда голодные. (проголодаетесь).
+\ph
+\gr dimmoːčis = postojanno golodaete, bedno zhivete (NONFUT!!); nọŋartan dimmoːtte; dimilloːčis = k koncu dnja
+zaxotim kushat' (except of course it's 2PL and not 1PL)
+\nt
+
+\id K_ConverbsMPIPstimuli01
+\ref Esso1003_16:50
+\tx Asatkan uŋkerin             kubektuk       čaːjịŋgajị              ịstakandụla   neːdin
+\mb asatkan uŋke -RI  -n(I)     kubek  -DUk(U) čaːj -E-ŋ   -GE    -J       ịstakan -(dU)LE neː -RI  -n(I)
+\ge girl    pour  -pst -poss.3sg teapot -abl    tea.R  -ep-aln -desig -prfl.sg glass.R   -loc    put  -pst -poss.3sg
+
+\tx dʒoːrbe    čakarịŋgajị               ụlkụrịn           ụnkanịč    iluridʒi
+\mb dʒoːr -W   čakar  -E-ŋ   -GE    -J       ụlkụ -RI  -n(I)     ụnkan -E-Č   hilu  -RIdʒI
+\ge two     -acc sugar.R -ep-aln -desig -prfl.sg stir     -pst -poss.3sg spoon   -ep-ins drink -ant.cvb
+
+\tx teːwrin                ịstakamị.
+\mb teːw    -RI  -n(I)     ịstakan -J
+\ge put.down -pst -poss.3sg glass.R   -prfl.sg
+\ft Esso1006_24:23
+\ru Девушка налила из чайника чай, в стакан положила два куска сахара, помешала ложкой, попив поставила стакан.
+\ph d'uːrbe, ilurid'i
+\gr Bi dʒoːrbe beju ittem = ja vižu dvux mužčin. --> -be = ACC ++ According to Malchukov, the Instrumental ending
+for words with primary -n is -ń, but here they say ụnkanịč. ++ čaːjgajị = tak govorjat te, kto ne umeet, tak ne
+govorjat, zdes' govorjat čaːjịŋgajị 'čaj dlja sebja, sebe čaj', the same holds for čakargaji\čakarịŋgajị ++ she says that
+ụnkanŋị = u ložki --> predicative possessive?? ụnkanŋị uːren "u lozhki konec", uːren ụnkanŋị; ụnkan uːren = konec
+ložki, uːre = konec veshi (ostrie, konec chego-to tverdogo); konec fil'ma = kino mụdannị; konec verevki = usi
+mụdannị; *usi uːren = nel'zja; ụnkan uːren = uːren ụnkanŋị --> ložkin konec
+
+\id K_ConverbsMPIPstimuli02
+\ref Esso1003_19:40
+\tx Asatkan ụlkụddan                 iekele,      gadịn             takụ,   takrarịn
+\mb asatkan ụlkụ -D    -R(E)   -n(I) ieke -(dU)LE ga   -RI  -n(I)     tak  -W   tak  -r(E) -RI  -n(I)
+\ge girl    stir     -prog -nonfut -3sg  pot  -loc    take -pst -poss.3sg salt -acc salt -vr   -pst -poss.3sg
+
+\tx iekeji.
+\mb ieke -J
+\ge pot  -prfl.sg
+\ft Esso1006_30:50
+\ru Девушка мешает в кастрюле, взяла соль, посолила свою кастрюлю.
+
+\id K_ConverbsMPIPstimuli03
+\ref Esso1003_22:55
+\tx Urkeːn  tọːbarịč    ọnnịn           omem      mọːw,    ńan   neːdidʒi    tọːbarụ
+\mb hurkeːn tọːbar -E-Č   ọn -RI  -n(I)     omen -W   mọː -W   ńaːn neː -RIdʒI  tọːbar -W
+\ge boy      axe.R     -ep-ins chop -pst -poss.3sg one  -acc tree   -acc again  put  -ant.cvb axe.R     -acc
+
+\tx ọnịdʒịllịn                   kọːsaŋač    mọːw,    ńan   čakrịn         mọːŋị
+\mb ọn -E-D     -E-L     -RI  -n(I)     kọːsaŋa -Č  mọː -W   ńaːn čak   -RI  -n(I) mọː -ŋ  -J
+\ge chop -ep-prog -ep-inch -pst -poss.3sg big.knife   -ins tree   -acc again  gather -pst -poss.tree   -aln -prfl.sg
+
+\tx ọnčajị,          dururin              mọːŋị          tọgla.
+\mb ọn -čE    -J       duru  -RI  -n(I)     mọː -ŋ  -J       tọg -(dU)LE
+\ge chop -pf.ptc -prfl.sg light -pst -poss.3sg tree   -aln -prfl.sg fire  -loc
+\ft Esso1006_32:00
+\ru Парень нарубил топором одно полено, потом положив топор взял большой нож, нарубил дальше дрова (стал
+рубить с большим ножом), потом собрал нарубленные дрова, положил их в костер.
+\ph kọːs'aŋač' - very palatal š and č
+
+\id K_ConverbsMPIPstimuli04
+\ref Esso1003_25:42
+\tx Asatkan ụlkụddan                 iekeji        bejisi       takụ    gaddịdʒị
+\mb asatkan ụlkụ -D    -R(E)   -n(I) ieke -J       bej -E=sI    tak  -W   ga   -D    -RIdʒI
+\ge girl    stir     -prog -nonfut -3sg  pot  -prfl.sg man -ep=emph salt -acc take -prog -ant.cvb
+
+\tx takraddịn                     iekew.
+\mb tak  -r(E) -D    -RI  -n(I)     ieke -W
+\ge salt -vr   -prog -pst -poss.3sg pot  -acc
+
+\ft Esso1007_0:27
+\ru Девушка мешает свою кастрюлю, а мужчина, взяв соль, посолил кастрюлю.
+\ph aš'atkan ++ iekaji  ++ iekaw
+\gr bejisi = a mužčina
+\gr bejesi = a mužčina
+
+\id K_ConverbsPerception3.1
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1007_25:35
+\tx Nọŋartan kojeːriten           nọŋan ajịč      bisiwen.
+\mb nọŋartan kojeː -RI  -tEn      nọŋan aj   -E-Č   bi -RI       -W   -E-n(I)
+\ge 3pl         watch  -pst -poss.3pl 3sg      good -ep-ins be -impf.ptc -acc -ep-poss.3sg
+
+\ft
+\ru Оин видели, что он хорошо живет.
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_22:00
+\tx Nọŋartan kojeːriten           ọːn nọŋan ajịč      binni.
+\mb nọŋartan kojeː -RI  -tEn      ọːn nọŋan aj   -E-Č   bi -R(E)   -n(I)
+\ge 3pl         watch  -pst -poss.3pl how    3sg      good -ep-ins be -nonfut -3sg
+
+\id K_ConverbsPerception3.2
+\ref Esso1007_26:08
+\tx Ńan   bi   ittiwu             kučeːlekeken   bej peč    čịdadụkụn
+\mb ńaːn biː it  -RI  -W        kučeːle -kEkEn bej peč    čịda       -DUk(U) -n(I)
+\ge again  1sg  see -pst -poss.1sg small     -dim   man stove.R opposite.side -abl    -poss.3sg
+
+\tx ičusniwen.
+\mb iču       -s(E)n -RI       -W   -E-n(I)
+\ge be.visible -lim   -impf.ptc -acc -ep-poss.3sg
+\ft
+\ru Вдруг я увидел, как один маленький человек появился из-за печи.
+\ph kočeːlekakan --> doesn't seem to follow vowel harmony; might also be kụčaːlakakan, though the long vowel was very
+much e and not a.
+
+\id K_ConverbsPerception3.3
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1007_27:08
+\tx Nikolaj dọldarịn           tọg duriddiwen.
+\mb Nikolaj dọlda -RI  -n(I)     tọg dur  -E-D     -RI       -W   -E-n(I)
+\ge Nikolaj hear    -pst -poss.3sg fire  burn -ep-prog -impf.ptc -acc -ep-poss.3sg
+
+\ft
+\ru Николай слышал, как огонь горит.
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_22:40
+\tx Mikulaj dọldarịn           tọg duriddiwen.
+\mb Nikolaj dọlda -RI  -n(I)     tọg dur  -E-D     -RI       -W   -E-n(I)
+\ge Nikolaj hear    -pst -poss.3sg fire  burn -ep-prog -impf.ptc -acc -ep-poss.3sg
+
+\id K_ConverbsPerception3.4
+\ref Esso1007_27:45
+\tx Eniŋeːwu            dọldarịn           min     noːwu                    urkeːn
+\mb eniŋeː    -W        dọlda -RI  -n(I)     min     noː            -W        hurkeːn
+\ge grandmother -poss.1sg hear    -pst -poss.3sg 1sg.obl younger.sibling -poss.1sg boy
+
+\tx ịrkarịwan:                     nọŋartan (ọllaw    epkeniwur)                epkeniten             ọllaw.
+\mb ịrka -RI       -W   -E-n(I)      nọŋartan ọlra -W   hepken -RI       -WUr     hepken -RI  -tEn      ọlra -W
+\ge scream -impf.ptc -acc -ep-poss.3sg 3pl         fish   -acc catch  -impf.ptc -prfl.pl catch  -pst -poss.3pl fish   -acc
+
+\ft
+\ru Моя бабушка услышала, как мой брат кричит "Они поймали рыбу!".
+\ph nuːwu
+\gr The phrase in brackets she said at first, then peresprosila, and corrected herself.
+
+\id K_ConverbsSwitchreferenceSimple2.additional
+\ref elicited with Valentina Innokent'evna Axmetova, Anavgaj; Esso3009_16:20
+\tx Kụŋal    upkučimŋeten            ńuːrekente                           upkučidʒektuk,       kụŋal
+\mb kụŋa -L  hupkut -E-mŋE  -tEn      ńuː -REk      -E-n(I)      =t(E)     hupkut -E-ČEk -DUk(U) kụŋa -L
+\ge child   -pl learn  -ep-agnr -poss.3pl exit  -cond.cvb -ep-poss.3sg =utočnit learn  -ep-nr  -abl    child   -pl
+
+\tx irkunidʒilloːtte.
+\mb irkun    -E-D     -E-L     -WEːČ -R(E)
+\ge be.noisy -ep-prog -ep-inch -gnr    -nonfut.3pl
+\ru Как только учитель вышел из класса, дети начинали шуметь/баловаться.
+
+\id K_ConverbsSwitchreferenceSimple2.01
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1004_22:45
+\tx Nọŋan gazetaw          ọddakan                   taŋnịjị            bu
+\mb nọŋan gazeta      -W   ọd -REk      -E-n(I)      taŋ -RI       -J       buː
+\ge 3sg      newspaper.R -acc stop -cond.cvb -ep-poss.3sg read -impf.ptc -prfl.sg 1pl.ex
+
+\tx ukleːsneriwun.
+\mb hukle -s(E)n -E-RI   -WUn
+\ge sleep -lim   -ep-pst -poss.1pl.ex
+
+\ru Когда он прочитал газету, мы (вместе с ним) пошли спать.
+\ph
+\gr Esso1007_18:10
+\tx Nọŋan gazetaw          taŋnakan                   bu     ukleːsneriwun.
+\mb nọŋan gazeta      -W   taŋ -REk      -E-n(I)      buː   hukle -s(E)n -E-RI   -WUn
+\ge 3sg      newspaper.R -acc read -cond.cvb -ep-poss.3sg 1pl.ex sleep -lim   -ep-pst -poss.1pl.ex
+
+\ft
+\ru Он газету прочитал и мы пошли спать.
+\nt I had asked whether it was possible to say this, and she gave the Russian translation.
+\qu
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_7:30
+\tx Bumagaŋị           taŋnakan                   (nan)  bu     ukleːsneriwun
+\mb bumaga  -ŋ  -J       taŋ -REk      -E-n(I)      ńaːn buː   hukle -s(E)n -E-RI   -WUn
+\ge paper.R -aln -prfl.sg read -cond.cvb -ep-poss.3sg again  1pl.ex sleep -lim   -ep-pst -poss.1pl.ex
+
+\tx (ukleːneriwun).
+\mb hukle -nE     -RI  -WUn
+\ge sleep -intent -pst -poss.1pl.ex
+
+\gr The form with the Limitative suffix she said the first time round, quickly; the second form she gave while repeating
+what she'd said.
+
+\id K_ConverbsSwitchreferenceSimple2.02
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1004_23:35
+\tx Ụdan ọddakan                   uː iwinedʒis               toleːski.
+\mb ụdan ọd -REk      -E-n(I)      uː ewiː -nE     -DʒI -s   tol     -E  -skI
+\ge rain   stop -cond.cvb -ep-poss.3sg 2pl play  -intent -fut  -2pl outside -ep -advb.all
+
+\ft
+\ru Если дождь кончится, то вы можете играть на улице.
+\ph oddaχin
+\gr ja zakonču gotovit' = bi ọddʒịm oleːttiji; iwinedʒis = pojdete igrat'
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_8:05
+\tx Ụdan ọddakan,                  iwinedʒis               toleːski.
+\mb ụdan ọd -REk      -E-n(I)      ewiː -nE     -DʒI -s   tol     -E  -skI
+\ge rain   stop -cond.cvb -ep-poss.3sg play  -intent -fut  -2pl outside -ep -advb.all
+
+\id K_ConverbsSwitchreferenceSimple2.03
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1004_24:55
+\tx Akmụn             ọllaw     epkenekende,                       bu     oleːtčiru              ọllaw
+\mb akan   -WUn         ọlra -W   hepken -REk      -E-n(I)      =DE  buː   oleː -Č  -DʒI -(R)U   ọlra -W
+\ge father -poss.1pl.ex fish   -acc catch  -cond.cvb -ep-poss.3sg =ptl 1pl.ex cook  -res -fut  -1pl.ex fish   -acc
+
+\tx iltidewur.
+\mb il       -tI -DE       -WUr
+\ge fish.soup -vr -purp.cvb -prfl.pl
+\ft
+\ru Если отец поймает рыбу, то мы будем уху варить (мы сварим рыбу чтобы поесть суп).
+\ph Esso1007_19:50
+\tx Bi   epkenekude                      ọllaw,    iː oleːtčinni          iltiw.
+\mb biː hepken -REk      -W        =DE  ọlra -W   iː oleː -Č  -DʒI -nrI il        -W
+\ge 1sg  catch  -cond.cvb -poss.1sg =ptl fish   -acc 2sg cook  -res -fut  -2sg fish.soup -acc
+
+\ru Esli ja pojmaju rybu; to ty budeš' uxu varit'.
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_8:45
+\tx Amansan               ọllaw     bejnedʒin,                mut    oleːdʒip          ịlịgčaw.
+\mb amaŋa      -sEn      ọlra -W   bejči -nE     -DʒI -n(I) mut    oleː -DʒI -p      iligče -W
+\ge grandfather -poss.2pl fish   -acc hunt   -intent -fut  -3sg  1pl.in cook  -fut  -1pl.in soup    -acc
+
+\gr amansan = from 'amaŋa', which actually means 'grandfather', but can be used for 'father' as well.
+
+\id K_ConverbsSwitchreferenceSimple2.04
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1004_25:36
+\tx Nọŋan gụrgaːwčịddịn                min     emeklewu.
+\mb nọŋan gụrgaːwčị -D    -RI  -n(I)     min     em   -E-klE      -W
+\ge 3sg      work            -prog -pst -poss.3sg 1sg.obl come -ep-all.loc -poss.1sg
+\ft
+\ru Он работал пока я не пришла (до моего прихода).
+\ph
+\gr Surely this cannot be: a verbal root with no participial suffix followed by a case and possessive suffix? --> is also found
+in Koryak, so it can well be, and Anderson (2004?  2006?) says that this is found quite frequently in Siberian
+languages; emedʒaːk = prixod
+\nt
+\qu
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_9:40
+\tx Bi   emniwu,             nọŋan unet  gurgeːwčiddin.
+\mb biː em   -RI  -W        nọŋan unet  gurgeːwči -D    -RI  -n(I)
+\ge 1sg  come -pst -poss.1sg 3sg      still work        -prog -pst -poss.3sg
+\ru Я пришла, и он еще работал.
+\ph
+\nt Asked her again, and she gave a translation closer to the original:
+\tx Edlewu                 emne          gurgeːwčirin.
+\mb e   -dle     -W        em   -R       gurgeːwči -RI  -n(I)
+\ge neg -trm.cvb -poss.1sg come -neg.cvb work        -pst -poss.3sg
+
+\id K_ConverbsSwitchreferenceSimple2.05
+\ref Esso1004_25:58
+\tx Petja ukleːddin                 nọŋan ekenni           (ekedmer)     mịalụkaklan
+\mb Petja hukle -D    -RI  -n(I)     nọŋan eken   -n(I)     eken   -dmEr  mịal  -WkEn -klE     -n(I)
+\ge Petja sleep -prog -pst -poss.3sg 3sg      mother -poss.3sg mother -contr wake.up -caus -all.loc -poss.3sg
+
+\tx nọŋmaːn.
+\mb nọŋmaːn
+\ge 3sg.acc
+\ru Петя спал, пока мама его не разбудила.
+\ph
+\gr (Esso2005_8:20) ekedmer = ego mat' (is what she said on 15.06; ekedmer emnen = ekenni emnen "ego mat' prišla"
+
+\id K_ConverbsSwitchreferenceSimple2.06
+\ref Esso1004_27:00
+\tx Mut    gurgeːwčinnet                   entekeːje kụŋaŋịltị                ajịč
+\mb mut    gurgeːwči -nnE     -t(I)        entekeːje kụŋa -ŋ  -E-L   -t(I)        aj   -E-Č
+\ge 1pl.in work        -nec.ptc -poss.1pl.in strong     child   -aln -ep-pl -poss.1pl.in good -ep-ins
+
+\tx bideten.
+\mb bi -DE       -tEn
+\ge be -purp.cvb -poss.3pl
+\ft
+\ru Мы должны тяжело работать, чтобы наши дети могли жить хорошо.
+\ph
+\gr (Esso1007_23:30) kụŋaŋịltị = prosto deti, naši (v sele), no: min kụŋaŋịlbụ = moi rodnye deti
+\qu should have asked how it would be if "these are my (own) 3 kids that I have born, and these are my kids that I am raising"
+
+\id K_ConverbsSwitchreferenceSimple2.07
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1004_28:00
+\tx Emuli               mindu        kartinaw       bi   kojeːtteku.
+\mb em   -U    -LI      min     -DU  kartina   -W   biː kojeːt -DE        -W
+\ge come -caus -imp.2sg 1sg.obl -dat picture.R -acc 1sg  look.at -purp.cvb  -poss.1sg
+\ft
+\ru Дай мне картину чтобы я могла ее смотреть.
+\ph
+\gr Weird, according to the morpheme database, -ku as an allomorph of the POSS.1SG occurs only with the Designative
+marker, but this is obviously the right analysis, because she translated kojeːttaku as "daj ja posmotrju" (Esso1007_24:40).
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_10:40
+\tx Kartịŋị            buːli,       bide      kojeːtteku.
+\mb kartịn  -ŋ  -J       buː -LI      biː =DE  kojeːt -DE       -W
+\ge picture.R -aln -prfl.sg give -imp.2sg 1sg  =ptl look.at -purp.cvb -poss.1sg
+
+\id K_ConverbsSwitchreferenceSimple2.08
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1004_28:32
+\tx Etikeːnni         bisin               gorodla        nọŋan kụŋaŋịlbarakan.
+\mb etikeːn -n(I)     biː -RI  -n(I)     gorod  -(dU)LE nọŋan kụŋa -ŋ  -E-lbE -REk      -E-n(I)
+\ge old.man  -poss.3sg 1sg  -pst -poss.3sg town.R -loc    3sg      child   -aln -ep-vr -cond.cvb -ep-poss.3sg
+\ft
+\ru Муж был в городе, когда она родила ребенка.
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_12:40
+\tx Kụŋaŋịlbarịn               etikeːnni         biddin                  gorodla.
+\mb kụŋa -ŋ  -E-lbE -RI  -n(I)     etikeːn -n(I)     bi -D    -RI  -n(I)     gorod  -(dU)LE
+\ge child   -aln -ep-vr -pst -poss.3sg old.man  -poss.3sg be -prog -pst -poss.3sg town.R -loc
+\ft
+\gr at first said kụŋaŋịlbaddịn, etikeŋen bisin gorodla;
+
+\id K_ConverbsSwitchreferenceSimple2.09
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1004_29:13
+\tx Bi   alačịdʒịm   gụrgaːw     ọddas.
+\mb biː alat -E-DʒI -m   gụrgaː -W   ọd -DE       -s(I)
+\ge 1sg  wait -ep-fut -1sg work      -acc stop -purp.cvb -poss.2sg
+
+\ru Я буду ждать пока ты закончишь работу. - Я буду ждать когда ты закончишь работу// чтобы ты закончил работу.
+\ph commented that some families pronounce the -s- as [s], not as [š'], even though they were local Evens
+\gr (Esso1009_1:00) tiːk gụrgaw ọddịs = ty sejčas zakončil delo; ọddas = čtoby ty zakončil, buːrem ịlam ineŋu gụrgaw
+ọddas = ja tebe daju 3 dnja, čtoby ty zakončil eto delo; oddasan = čtoby vy zakončili
+\nt
+\nt Esso3002_31:55
+\tx Bi   alačịdʒịm   gụrgaːw     edles                  ọdda.
+\mb biː alat -E-DʒI -m   gụrgaː -W   e   -dle     -s(I)     ọd -R
+\ge 1sg  wait -ep-fut -1sg work      -acc neg -trm.cvb -poss.2sg stop -neg.cvb
+\ru Я буду ждать пока ты не закончил работу.
+\ph
+\gr This was a judgement question, to see whether they use the terminative converb.
+\nt
+\nt Esso2006_22:10
+\tx Nọŋartan alačịdʒịr   mut    gụrgaːwụr     ọdaklat.
+\mb nọŋartan alat -E-DʒI -r   mut    gụrgaː -WUr     ọd -E-klE      -t(I)
+\ge 3pl         wait -ep-fut -3pl 1pl.in work      -prfl.pl stop -ep-all.loc -poss.1pl.in
+
+\ru Они будут ждать пока мы не закончим работу.
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_13:30
+\tx Gurgeːwčidli,            bi   alačịdʒịm.
+\mb gurgeːwči -D    -LI      biː alat -E-DʒI -m
+\ge work        -prog -imp.2sg 1sg  wait -ep-fut -1sg
+\ru Работай, я буду ждать.
+\ph
+\nt I asked her again later on, and she gave the following translation; unfortunately this was the very last afternoon, so I
+didn't have the possibility of checking again - and I cannot correctly analyze the form of "mudakakan". But note that in
+Subj-Obj-ProperNames04 Rimma Maksimovna also gave a verb with the Terminative converb NOT with a meaning of
+"until"
+\tx Bi   alačịdʒịm   mụdakakan.
+\mb biː alat -E-DʒI -m   mụdak -E-kEn
+\ge 1sg  wait -ep-fut -1sg finish  -ep-trm.cvb
+
+\id K_ConverbsSwitchreferenceSimple2.10
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1004_29:46
+\tx Bi   školatki        olloːčiddeku                       min     eniŋeːwu
+\mb biː škola   -t(E)kI olloːt -E-D     -REk      -W        min     eniŋeː    -W
+\ge 1sg  school.R -all    go      -ep-prog -cond.cvb -poss.1sg 1sg.obl grandmother -poss.1sg
+
+\tx oleːtiddʒoːttan                        obedu.
+\mb oleː -Č  -E-D     -WEːČ -R(E)   -n(I) obed    -W
+\ge cook  -res -ep-prog -gnr    -nonfut -3sg  lunch.R -acc
+
+\ft
+\ru Когда я ходил в школу, моя бабушка всегда готовила обеды.
+\ph
+\gr Here now she said that oloːčiddeku is written with 2 L!!! olloːčaːk = xod'ba; *bi ollem, *bi olliwu = do not exist; bi
+ọllịwụ = ja napugalsja, bi bisem ọlaːn = ja puglivaja; bi olloːčim = ja budu xodit'; bi olloːttem = ja xožu, bi olloːttiwu
+= ja xodila, bi olloːčim = ja budu xodit'
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_14:15
+\tx Eniŋeːwu            oleːtiddʒoːtten                        (dʒeblew)   min     taŋaddakụ
+\mb eniŋeː    -W        oleː -Č  -E-D     -WEːČ -R(E)   -n(I) dʒeb -LE -W min     taŋ -E-D     -REk      -W
+\ge grandmother -poss.1sg cook  -res -ep-prog -gnr    -nonfut -3sg  eat   -nr -ac1sg.obl read -ep-prog -cond.cvb -poss.1sg
+
+\tx (taŋadʒaktakị     gịrkarakụ).
+\mb taŋ -E-DʒEk -t(E)kI gịrka -REk      -W
+\ge read -ep-nr   -all    walk    -cond.cvb -poss.1sg
+
+\id K_ConverbsSwitchreferenceSimple2.11
+\ref Esso1004_30:45
+\tx Bu     ajaːwwọːttụ              šokoladụ      teːmi    mun        dʒaːlbụn         \\
+\mb buː   ajaːw -WEːČ -R(E)   -(R)U   šokolad    -W   teːmi    mun        dʒaːl -WUn         \\
+\ge 1pl.ex love   -gnr    -nonfut -1pl.ex chocolate.R -acc therefore 1pl.ex.obl friends -poss.1pl.ex \\
+
+\tx aːrakalbụn               mundu           ereger emuweːtte.
+\mb haːrak -E-L   -WUn         mun        -DU  ereger em   -U    -WEːČ -R(E)
+\ge friend  -ep-pl -poss.1pl.ex 1pl.ex.obl -dat always come -caus -gnr    -nonfut.3pl
+\ft
+\ru Так как мы любим шоколад, наши друзья нам его всегда привозят. (Мы любим шоколад, поэтому наши друзья нам
+всегда привозят.)
+\ph d'aːlbụn
+\gr dʒaːl = plurale tantum
+\nt aːrakalbụn was offered as an alternative to mụn dʒaːlbụn
+
+\id K_ConverbsSwitchreferenceSimple2.12
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1004_31:50
+\tx Nọŋartan ọːkta    esten           uniweːtte           šokoladụ
+\mb nọŋartan ọːk =DE  e   -R(E)       uni -WEːČ -R       šokolad    -W
+\ge 3pl         when   =ptl neg -nonfut.3pl buy -gnr    -neg.cvb chocolate.R -acc
+
+\tx kụŋaŋịltanda                 ajaːwrakatan                 taraw.
+\mb kụŋa -ŋ  -E-L   -tEn      =DE  ajaːw -REk      -E-tEn       tarak -W
+\ge child   -aln -ep-pl -poss.3pl =ptl love   -cond.cvb -ep-poss.3pl dist  -acc
+\ft
+\ru Они никогда не покупают шоколад, хотя их дети его любят.
+\gr Also possible: nọŋartan ọːkta šokoladụ esten uniweːtte; ajaːwrakatan = kogda oni ljubjat; the combination of
+ajaːwrakatanda + da --> xotja; (Esso1009_9:12) ajaːwrakatanda bi bodudim = esli oni xotjat, ja ix provožu
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_15:20
+\tx Nọŋartan ọːktatịtta       esten           uniweːtte           šokoladu,
+\mb nọŋartan ọːk =DE  =tIt =DE  e   -R(E)       uni -WEːČ -R       šokolad    -W
+\ge 3pl         when   =ptl =ptl =ptl neg -nonfut.3pl buy -gnr    -neg.cvb chocolate.R -acc
+
+\tx kụŋaŋịltantịtta                 ajaːwọːtta.
+\mb kụŋa -ŋ  -E-L   -tEn      =tIt =DE  ajaːw -WEːČ -R(E)
+\ge child   -aln -ep-pl -poss.3pl =ptl =ptl love   -gnr    -nonfut.3pl
+
+\id K_ConverbsSwitchreferenceSimple2.13
+\ref Esso1004_33:44
+\tx Bi   teːmačiddʒim             ọkaːtla       iː futbolič          iwidekes.
+\mb biː teːmat -E-D     -DʒI -m   ọkaːt -(dU)LE iː futbol     -E-Č   ewiː -REk      -E-s(I)
+\ge 1sg  bathe   -ep-prog -fut  -1sg river    -loc    2sg football.R -ep-ins play  -cond.cvb -ep-poss.2sg
+
+\ft
+\ru Я буду плавать в реке пока ты играешь в футбол.
+\ph
+\gr Also possible: ty budeš' plavat' = kụmakačiddʒịnnị
+
+\id K_ConverbsTopicalization5.1
+\ref Esso1007_39:30
+\tx Annaja      Marijagli      urriten           gorodteki.     Anna unirin             anŋịmtịw
+\mb Anna =jE    Marija -g(E)lI ur -RI  -tEn      gorod  -t(E)kI Anna uni -RI  -n(I)     anŋamta -W
+\ge Anna =assoc Maria  -com    go -pst -poss.3pl town.R -all    Anna buy -pst -poss.3sg new      -acc
+
+\tx ụrbaːkkajị           tufliw.      Marijasi     olneːsin            djedjeji.
+\mb ụrbaːk -GE    -J       tufli   -W   Marija =sI   holne -RI  -n(I)     djedja  -J
+\ge dress.R   -desig -prfl.sg shoes.R -acc Maria  =emph visit -pst -poss.3sg uncle.R -prfl.sg
+
+\ft
+\ru Анна и Мария поехали в город. Анна купила новое платье и туфли. А Мария, она навестила своего дядю.
+\ph
+\gr Annaja Marijagli --> in Evenki as well there is a Sociative suffix -(j)a which attaches to the first noun of a comitative
+noun phrase (cf. Konstantinova p. 77). This appears to be the same suffix; e.g. (Esso2005_7:40) etikeːnje atịkangalị "muž
+s ženoj"
+
+\id K_ConverbsTopicalization5.2
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1007_40:47
+\tx Čeledʒur          mun        semjawun              tegeleŋčidditen
+\mb čele -dʒUr        mun        semja    -WUn         teg      -E  -lEŋčI -D    -RI  -tEn
+\ge all   -ins.prefl.pl 1pl.ex.obl family.R -poss.1pl.ex sit.down -ep -??      -prog -pst -poss.3pl
+
+\tx zalla.                Bisi       biddiwu                 kuxnjala.
+\mb zal           -(dU)LE biː =sI   bi -D    -RI  -W        kuxnja    -(dU)LE
+\ge living.room.R -loc    1sg  =emph be -prog -pst -poss.1sg kitchen.R -loc
+\ft
+\ru Вся наша семья сидела в зале. А я, я сидела в кухне.
+\ph
+\gr (Esso2006_9:00): tegeleŋčidditen = sideli i otdyxali, rassižyvalis'; tegečidditen = sideli prosto; *Bejil ịlalaŋčịddịtan klub
+daːlịlan. --> nel'zja skazat', nado skazat' ịlačịddịtan; ịllọːčịddịtan = stojali prosto tak; ịaw ịllọːčịddịs "čto vy tut
+vystaivaete"; bi tegeleŋčiddiwu komnatla = prosto tak sidel; Robbek has a verb tegelendej "sadit'sja, rassazhivat'sja",
+and tegelenchidden could be the resultative form of this, but I am not sure how I would call the morpheme -LEn, then
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_28:45
+\tx Bu     čelendʒedʒur             biddiwun                   egdʒendule     komnatala,      biːsi
+\mb buː   čele -ńdʒE -dʒUr        bi -D    -RI  -WUn         egdʒen -(dU)LE komnata -(dU)LE biː   =sI
+\ge 1pl.ex all   -aug    -ins.prefl.pl be -prog -pst -poss.1pl.ex big     -loc    room.R  -loc    1sg    =emph
+
+\tx biddiwu                 oleːtidʒekle.
+\mb bi -D    -RI  -W        oleː -Č  -E-DʒEk -(dU)LE
+\ge be -prog -pst -poss.1sg cook  -res -ep-nr?? -loc
+
+\id K_ConverbsTopicalization5.3
+\ref Esso3006_19:25
+\tx Nelkedu           bujur             orroːtte              iŋeńsitki.              Kabjawalasị
+\mb nelke        -DU  bujun         -L  ur -WEːČ -R(E)       iŋeń  -RI       -t(E)kI kabjaw    -E-L   -E=sI
+\ge early.spring -dat wild.reindeer -pl go -gnr    -nonfut.3pl be.cold -impf.ptc -all    kuropatka -ep-pl -ep=emph
+
+\tx emmoːtte                ńamsịgdadụk.
+\mb em   -WEːČ -R(E)       ńam    -RI       -gIdE -DUk(U)
+\ge come -gnr    -nonfut.3pl be.warm -impf.ptc -part -abl
+
+\ft
+\ru Весной дикие олени ходят на север. А куропатки - они весной приходят с юга.
+\ph ərrọːtte
+\nt When I first elicited this (Esso1007_41:50), I basically got the same result, but without the emphatic-contrastive particle
+=sI on the kabjawịl. Also, she had obviously forgotten how to say North and South and had given just the words for
+"cold" and "warm".  -GdE = Adjectivizer ("having a big N")
+
+\id K_ConverbsTypesSSconverbs1.01
+\ref elicited with Rimma Maksimovna Egorovna, Esso; Esso1001_0:23
+\tx Gịrkadmị            bụjlị      bu     ittiwun               ụlịčam.
+\mb gịrka -D    -mI       bụj  -(dU)LI buː   it  -RI  -WUn         hụlịčan -W
+\ge walk    -prog -cond.cvb forest -prol   1pl.ex see -pst -poss.1pl.ex fox          -acc
+
+\ft
+\ru Когда мы шли через лес, мы видели лису.
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:10
+\tx Bụjlị      ŋenedmi,               ittiwun               ụlịčam.
+\mb bụj  -(dU)LI ŋen -E-D     -mI       it  -RI  -WUn         hụlịčan -W
+\ge forest -prol   go   -ep-prog -cond.cvb see -pst -poss.1pl.ex fox          -acc
+
+\id K_ConverbsTypesSSconverbs1.02
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1001_
+\tx Taŋịdnịkan        gazetu,         nọŋan iluddin                    čaːjịw.
+\mb taŋ -E-D     -nIkEn   gazeta          nọŋan hilu  -D    -RI  -n(I)     čaːj -W
+\ge read -ep-prog -sim.cvb newspaper.R.acc 3sg      drink -prog -pst -poss.3sg tea.R  -acc
+
+\ft
+\ru Читая газету, он пил чай.
+\ph The -k- in taŋịdnịkan was very uvular, taŋịdnịχan.
+\tx Taŋịdmị            gazetaw          nọŋan iluddin                    čaːjịb.
+\mb taŋ -E-D     -mI       gazeta      -W   nọŋan hilu  -D    -RI  -n(I)     čaːj -W
+\ge read -ep-prog -cond.cvb newspaper.R -acc 3sg      drink -prog -pst -poss.3sg tea.R  -acc
+
+\ph
+\gr I didn't have the Accusative allomorph -ịb in the morpheme database, but I would assume this is what it is.
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_1:45
+\tx Iludniken,           gazetu           taŋaddịn.
+\mb hilu  -D    -nIkEn   gazeta      -W   taŋ -E-D     -RI  -n(I)
+\ge drink -prog -sim.cvb newspaper.R -acc read -ep-prog -pst -poss.3sg
+
+\id K_ConverbsTypesSSconverbs1.03
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1001_
+\tx Taŋnịdʒị gazetaw          nọŋan urrin             gụrgatkịjị.
+\mb taŋ -RIdʒI   gazeta      -W   nọŋan ur -RI  -n(I)     gụrga -t(E)kI -J
+\ge read -ant.cvb  newspaper.R -acc 3sg      go -pst -poss.3sg work    -all    -prfl.sg
+
+\ft
+\ru Прочитав газету, он пошел на работу.
+\ph
+\gr The POSS.REFL suffix -ji was not in the morpheme database, but she distinctly says gụrgatkịjị and not just gụrgatkịj. ja
+pošla na rabotu = bi urriwu gụrgatkịjị (Esso1004_0:39)
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_2:20
+\tx Taŋnịdʒị bumagaŋị,          gurgeːwčinerin.
+\mb taŋ -RIdʒI   bumaga  -ŋ  -J       gurgeːwči -nE     -RI  -n(I)
+\ge read -ant.cvb  paper.R -aln -prfl.sg work        -intent -pst -poss.3sg
+
+\id K_ConverbsTypesSSconverbs1.04
+\ref Esso1001_
+\tx Urokur              uŋnidʒur       kụŋal    teːmatnarịtan.
+\mb urok       -WUr     uŋ -RIdʒI  -L  kụŋa -L  teːmat -nE     -RI  -tEn
+\ge homework.R -prfl.pl do  -ant.cvb -pl child   -pl bathe   -intent -pst -poss.3pl
+
+\ft
+\ru Сделав уроки, дети пошли купаться.
+\ph
+\gr (Esso1004_1:10) Ja delaju uroki = bi uroki nekeddem (nəkəddəm) - this is supposed to be ńek (according to Robbek),
+but Rima Maksimovna does NOT palatalize the n. ++ bi uroki upkučiddem ++ bi uroki uŋeddem ++ ja edu
+gotovlju = bi uŋeddem deplew (uŋeddem dipləw) ++ ty sdelal uroki = i uroki uŋnis (uŋniš') OR nekris (nəkriš') ++
+oni budut delat' uroki = nọŋartan urokur nekedʒir (nəkədʒir), uŋedʒir, upkučidʒir
+
+\id K_ConverbsTypesSSconverbs1.05
+\ref Esso1001_
+\tx Ajịč      upkutmi          pjaterkadʒịnnị.
+\mb aj   -E-Č   hupkut -mI       pjaterka     -DʒI -nrI
+\ge good -ep-ins learn  -cond.cvb best.grade.R -fut  -2sg
+
+\ft
+\ru Если ты хорошо учишься, то получишь пятерку.
+
+\id K_ConverbsTypesSSconverbs1.06
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1001_
+\tx Badịč urmi            mụčụdʒịr     iːsečiklen.
+\mb badịč ur    -mI       mụčụ -DʒI -r   iːsečị -klE      -??
+\ge early    leave -cond.cvb return    -fut  -3pl evening    -all.loc  -??
+
+\ft
+\ru Если они рано уедут, то успеют приехать до вечера.
+\ph ịšačịklan --> very palatal -s-
+\gr ja uježaju = bi ureddem (but sounds like ureddïm); ja ujedu = bi urdim ++ (Esso1004_4:40) do večera = iːsečikle OR
+iːsečiklen, no difference, possibly the -n is a POSS.3SG, but it's not clear
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_2:50
+\tx Badịč urmide,           amnakat   ụjdʒịr       // emdʒir.
+\mb badịč ur -mI       =DE  amnakịt ụj   -DʒI -r   em   -DʒI    -r
+\ge early    go -cond.cvb =ptl soon      return -fut  -3pl come -fut     -3pl
+
+\id K_ConverbsTypesSSconverbs1.07
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1001_
+\tx Dʒụːlajị            ememnit          bi
+\mb dʒụː -(dU)LE -J       em   -E-mnIn     biː
+\ge house    -loc    -prfl.sg come -ep-imm.cvb 1sg
+
+\tx oleːtidʒilloːttem                              obedgajị.
+\mb oleː -Č  -E-D     -E-L     -WEːČ -R(E)   -m   obed    -GE    -J
+\ge cook  -res -ep-prog -ep-inch -gnr    -nonfut -1sg lunch.R -desig -prfl.sg
+
+\ft
+\ru Как только я прихожу домой, начинаю приготовить обед.
+\ph oleːtid'iloːtïm
+\gr -mnIt does not appear to be a standard allomorph of the immediate converb, but she says it very clearly and distinctly,
+both here and in the next sentence. oleːtidʒiloːtem = ja načinaju varit'; bi oleːteddiwu = ja varila ++ (Esso1004_ 5:24)
+Ja uže načinala varit' sup - skoro budem kušat'. = Bi ụkal oleːtedʒilliwu ịlịgčaw, amnakịt debidildip (dibedildip)
+eat-PROG-INCH-FUT-1PL.incl ++ Ona zavtra (načinaet) varit' evenskoe bljudo. = Tịmịnasị oleːtedʒin ọrọttịw
+deplew. ọrọttịw = Oroch-ADJR-ACC
+\nt
+\tx Bi   ụkal  oleːtidʒilliwu                            iligčew,    amnakịt debedildʒip.
+\mb biː ụkal  oleː -Č  -E-D     -E-L     -RI  -W        iligče -W   amnakịt dʒeb -E-D     -E-L     -DʒI -p
+\ge 1sg  already cook  -res -ep-prog -ep-inch -pst -poss.1sg soup    -acc soon      eat   -ep-prog -ep-inch -fut  -1pl.in
+
+\ft
+\ru Я уже начинала варить суп - скоро будем кушать.
+\ph
+\gr
+\tx Tịmịnasi     oleːtedʒin             ọrọttịw        dʒeplew.
+\mb tịmịna =sI   oleː -Č  -E-DʒI -n(I) ọrọč -DI   -W   dʒep -LE -W
+\ge tomorrow   =emph cook  -res -ep-fut -3sg  Oroch     -adjr -acc eat   -nr -acc
+
+\ft
+\ru Она завтра будет варить эвенское блюдо. 
+\gr Actually, I had asked for "načinaet varit'", but she gave the above, which is clearly not inchoative, only future.
+\nt
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_3:40
+\tx Ememninte                  \\ emnidʒi   dʒụːtkịjị         oleːtidʒilloːttem.
+\mb em   -E-mnIn     =t(E)     em   -RIdʒI  dʒụː -t(E)kI -J       oleː -Č  -E-D     -E-L     -WEːČ -R(E)   -m
+\ge come -ep-imm.cvb =utočnit come -ant.cvb house    -all    -prfl.sg cook  -res -ep-prog -ep-inch -gnr    -nonfut -1sg
+
+\id K_ConverbsTypesSSconverbs1.08
+\ref Esso1001_
+\tx Ememnit          tarịdʒịt nimegneŋenni                  munteki.
+\mb em   -E-mnIn     tarịdʒịt nimegne          -ŋE     -nrI mun        -t(E)kI
+\ge come -ep-imm.cvb at.once       visit.neighbours -pol.imp -2sg 1pl.ex.obl -all
+
+\ft
+\ru Как только ты приедешь, приходи к нам в гости.
+\ph niməwnəŋəni --> the -g- (-γ-) is really not audible, it sounds more like a labialized long vowel.
+\gr I am not sure about the 2SG marker -nnI --> the standard is -nrI. I believe that I saw somewhere that it can be -nnI as
+well; and she must have taken the 'vy' to mean the polite you.SG, if my analysis is correct, of course. ++
+(Esso1004_8:08) Prixodite (vse) v gosti = nimegneŋesin. (nimäγneŋeš'in)++ And I think the -ne could be a verbalizing
+suffix, because there is the noun nimeg 'visitor from close by, gost', kotoryj prišel' (as opposed to olnedʒ 'gost' kotoryj
+priexal'.
+
+\id K_ConverbsTypesSSconverbs1.09
+\ref Esso1001_
+\tx Duruli         tọgụ   oleːtteji                    obedu.
+\mb duru  -LI      tọg -W   oleː -Č  -DE       -J       obed    -W
+\ge light -imp.2sg fire  -acc cook  -res -purp.cvb -prfl.sg lunch.R -acc
+
+\ft
+\ru Зажги печь чтобы приготовить обед.
+\ph tọwụ --> basically, the -g- (-γ-) is just a glide between two vowels, the first of which is lengthened
+
+\id K_ConverbsTypesSSconverbs1.10
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1001_
+\tx Bu     uniriwun              kartoškaw     oleːttewur                   ịlčaw.
+\mb buː   uni -RI  -WUn         kartoška -W   oleː -Č  -DE       -WUr     ịlča -W
+\ge 1pl.ex buy -pst -poss.1pl.ex potatoe.R -acc cook  -res -purp.cvb -prfl.pl soup    -acc
+
+\ft
+\ru Мы купили картошку чтобы сварить суп.
+\ph
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_4:30
+\tx Bu     uniriwun              kartọpịw, oleːdewur               supu        //  dʒeblew.
+\mb buː   uni -RI  -WUn         kortopi  -W   oleː -DE       -WUr     sup    -W   *// dʒep -LE -W
+\ge 1pl.ex buy -pst -poss.1pl.ex potato.R -acc cook  -purp.cvb -prfl.pl soup.R -acc *** eat   -nr -acc
+
+\id K_ConverbsTypesSSconverbs1.12
+\ref Esso1001_
+\tx Čelewen                mannịdʒụr      tiːk Petrovil      tịmịna dimidʒir.
+\mb čele -W   -E-n(I)      man    -RIdʒI -L   tiek  Petrov -E-L   tịmịna dim       -E-DʒI -r
+\ge all   -acc -ep-poss.3sg finish -ant.cvb -pl now   Petrov -ep-pl tomorrow   be.hungry -ep-fut -3pl
+
+\ft
+\ru Так как Петровы сегодня все в доме съели, они завтра будут голодными.
+\ph dimid'ir
+\gr It seems as if tiːk is used as a discourse particle here. bi dimidʒim = ja budu golodnoj; bi dimsem = ja golodnaja (-s- -->
+very palatalized); bi dimsemiː = ja sil'no golodnaja
+
+\id K_ConverbsTypesSSconverbs1.14
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1001_
+\tx Nọŋan agdịda     bimi,        nọŋan ajịč      mereŋteːč    gịrkawaːttan.
+\mb nọŋan hagdị =DE  bi -mI       nọŋan aj   -E-Č   mereŋteː -Č  gịrka -WEːČ -R(E)   -n(I)
+\ge 3sg      old     =ptl be -cond.cvb 3sg      good -ep-ins skis       -ins walk    -gnr    -nonfut -3sg
+
+\ft
+\ru Хотя он стар, он хорошо ходит на лыжах.
+\ph at first sounded like aːldịda
+\gr bi gịrkaram /gịrkarəm/ = ja idu sejčas; bi gịrkarịwụ tiniw = ja včera šla
+\nt
+\tx Nọŋan agdịda     bimi,        nọŋan ajịč      ụːldawaːttan.
+\mb nọŋan hagdị =DE  bi -mI       nọŋan aj   -E-Č   ụːlda -WEːČ -R(E)   -n(I)
+\ge 3sg      old     =ptl be -cond.cvb 3sg      good -ep-ins ski      -gnr    -nonfut -3sg
+
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_5:10
+\tx Etikeːn (agdị) biniken,    ajịč      mereŋteč      gịrkawaːttan.
+\mb etikeːn hagdị  bi -nIkEn   aj   -E-Č   mereŋteː -Č  gịrka -WEːČ -R(E)   -n(I)
+\ge old.man  old      be -sim.cvb good -ep-ins skis       -ins walk    -gnr    -nonfut -3sg
+
+\id K_ConverbsTypesSSconverbs1.15
+\ref Elicited with Rimma Maksimovna Egorova, Esso; Esso1001_12:16
+\tx Uː (abalụda)    abalụtịt   (gụrgaːwčịčal)       gụrgaːwčịrịdʒụr   uː urečilte
+\mb uː abal -W   =DE  abal -W   =tIt gụrgaːwčị -čE    -L  gụrgaːwčị -RIdʒI  -L  uː urečilte
+\ge 2pl few  -acc =ptl few  -acc =ptl work            -pf.ptc -pl work            -ant.cvb -pl 2pl no.difference
+
+\tx oseːllisen.
+\mb oseːl       -RI  -sEn
+\ge become.tired -pst -poss.2pl
+\ru Хотя вы мало работали, вы устали.
+\ph Even slowly said abəlutit; ošeːllišən with very palatal s'
+\gr (Esso1004_9:04) Ja ustala i pojdu spat' = bi oseːlliwu ukleːsnedʒim. (ukleːš'nedim) --> here the Limitative form has
+inchoative meaning
+\nt The forms in brackets she said at first, then dictating she said the others. ++ ja ustal = bi oseːllem.
+\qu
+\nt Elicited with Valentina Innokent'evna Axmetova, Anavgai; Esso3009_5:50
+\tx Abalụtịtta      gurgeːwčirisen,          tarma oseːles.
+\mb abal -W   =tIt =DE  gurgeːwči -RI  -sEn      tarma oseːl       -R(E)   -s
+\ge few  -acc =ptl =ptl work        -pst -poss.2pl but   become.tired -nonfut -2pl
+\ph [abəlu] even said slowly, gurgeːwčirisin

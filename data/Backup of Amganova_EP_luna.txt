@@ -1,0 +1,155 @@
+\_sh v3.0  968  Text
+
+\id Amganova_EP_luna_001
+\tx Russian mumbles
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:11.680
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_luna_002
+\tx Teːleŋni.
+\mb teːleŋ -LI
+\ge tell     -imp.2sg
+
+\ELANBegin 00:00:11.680
+\ELANEnd 00:00:13.380
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_luna_003
+\tx Irewu         kučuken bimi         sadịktakị          olloːtten          ńan...
+\mb Ira -W        kočuken bi -mI       sadịk        -t(E)kI hollot -R(E) -n(I)  ńaːn
+\ge Ira -poss.1sg small    be -cond.cvb kindergarten.R -all    go     -nonfut -3sg and
+\ft When my Ira was small she went to kindergarten and...
+\ph
+\gr
+\nt This is the first anecdote about her youngest daughter Ira.
+\ELANBegin 00:00:13.380
+\ELANEnd 00:00:18.000
+\ELANParticipant
+\ev
+\ru Ира маленькая была ходила в сад.
+
+\id Amganova_EP_luna_004
+\tx Evgenij - u    nas  Evgenij to     Ženja u    nas  - ọrgịč              emnin.
+\mb Evgenij - u    nas  Evgenij to     Ženja u    nas  - ọrọn          -GIČ em   -RI -n(I)
+\ge Evgenij - at.R us.R Evgenij that.R Zhenja at.R us.R - domestic.reindeer -elat come -pst -poss.3sg
+\ft Evgenij - we call Evgenij Zhenja - came from the reindeer herd.
+\ph
+\gr
+\nt Evgenij is the oldest son; the diminutive form of Evgenij is Zhenja.
+\ELANBegin 00:00:18.000
+\ELANEnd 00:00:23.720
+\ELANParticipant
+\ev
+\ru Женя приехал из табуна.
+
+\id Amganova_EP_luna_005
+\tx Nan    tarak goːnni:    "Orger          toleːski"
+\mb ńaːn tarak goːn -n(I) hor -GEr        tol     -E  -skI
+\ge and    dist  say   -3sg  go  -imp.1pl.in outside -ep -advb.all
+
+\ft And s/he says "Let's go outside".
+\ph
+\gr
+\nt From what EPA had said prior to the recording, it was Ira who called her brother outside to show him the sun, but both
+Lena Cherkanova and RME understood this as being Zhenja, the older brother, calling his little sister outside - so 'tarak'
+appears to refer to the last-mentioned person, and that is Zhenja in this case
+\ELANBegin 00:00:23.720
+\ELANEnd 00:00:25.790
+\ELANParticipant
+\ev
+\ru Вот он говорит "Пошли на улицу".
+
+\id Amganova_EP_luna_006
+\tx Ịadụ?
+\mb ịak -DU
+\ge what  -dat
+
+\ELANBegin 00:00:25.790
+\ELANEnd 00:00:26.860
+\ELANParticipant
+\ev
+\ru
+
+\id Amganova_EP_luna_007
+\tx Biː inu          ńoltem      ičukendʒim.
+\mb biː hin     -W   ńolten -W   it  -WkEn -DʒI -m
+\ge 1sg  2sg.obl -acc sun     -acc see -caus -fut  -1sg
+\ft I'll show you the sun.
+\ph ńultem
+\ELANBegin 00:00:26.860
+\ELANEnd 00:00:29.160
+\ELANParticipant
+\ev
+\ru Я тебе солнце покажу.
+
+\id Amganova_EP_luna_008
+\tx Goːnni:    Ile           tabịč ńolten?
+\mb goːn -n(I) irek  -(dU)LE tabịč ńolten
+\ge say   -3sg  which -loc    again    sun
+
+\ft He says "Where's the sun?"
+\ph ńulten
+\gr
+\nt
+\ELANBegin 00:00:29.160
+\ELANEnd 00:00:30.780
+\ELANParticipant
+\ev
+\ru А где это солнце?
+
+\id Amganova_EP_luna_009
+\tx Tarịalake         tar   ńolten tara.
+\mb tarak -(dU)LE =kE   tarak ńolten tarak
+\ge dist  -loc    =emph dist  sun     dist
+
+\ft Over there is the sun.
+\ph ńulten
+\ELANBegin 00:00:30.790
+\ELANEnd 00:00:33.030
+\ELANParticipant
+\ev
+\ru Вон же солнышко-то, вон.
+
+\id Amganova_EP_luna_010
+\tx Ńan   goːnni     tarak ulgimnen:          ịamịsị   goːnni     iŋensen?
+\mb ńaːn goːn -n(I) tarak ulgim -R(E) -n(I)  ịamị =sI   goːn -n(I) iŋeń  -R(E) -n(I)
+\ge and    say   -3sg  dist  ask   -nonfut -3sg why      =emph say   -3sg  be.cold -nonfut -3sg
+
+\ft And he asks "Why is it so cold?".
+\ph ịamịsị
+\gr
+\nt The point is that the child was showing her brother the full moon, not the sun.
+\ELANBegin 00:00:33.030
+\ELANEnd 00:00:36.760
+\ELANParticipant
+\ev
+\ru Она спрашивает, почему же так холодно?
+
+\id Amganova_EP_luna_011
+\tx A     tiːket    goːnnike         erek ereger ŋeneddʒin               ŋeneddʒin               ńan
+\mb a.R   tiek =et   goːn -n(I) =kE   erek ereger ŋen -E-D     -DʒI -n(I) ŋen -E-D     -DʒI -n(I) ńaːn
+\ge but.R now  =emph say   -3sg  =emph prox always go   -ep-prog -fut  -3sg  go   -ep-prog -fut  -3sg  and
+
+\tx okellidʒi               goːnni     tar   nan    ńamaldʒịn.
+\mb hok    -E-L     -RIdʒI  goːn -n(I) tarak ńaːn ńam    -E-L     -DʒI -n(I)
+\ge be.hot -ep-inch -ant.cvb say   -3sg  dist  and    be.warm -ep-inch -fut -3sg
+
+\ft Well, now it will go and go and go all the time and (the moon) will warm up and then it will get warm (the outside
+temperature).
+\ph ukelliʥi
+\gr ukeldej = objects get warm, ńamaldaj = temperature, weather getting warm
+\ELANBegin 00:00:36.760
+\ELANEnd 00:00:43.850
+\ELANParticipant
+\ev
+\ru А сейчас вот говорит, все время будет идти идти, нагреется солнышко и станет тепло.
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Kamchatka2009/sound_from_video/Amganova_EP_luna_Esso_270609.wav
+\ELANMediaMIME audio/x-wav

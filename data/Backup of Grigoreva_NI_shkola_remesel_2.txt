@@ -1,0 +1,5263 @@
+\_sh v3.0  400  Text
+
+\id Grigoreva_NI_shkola_remesel_2_001
+\ev
+\ru
+\comment suggestions  in brackets by LZ or variants of "ы" and "и" in the 
+position after "д" and "н" by NIG
+\ELANBegin 00:00:00.020
+\ELANEnd 00:00:05.560
+\ELANParticipant
+
+\id Grigoreva_NI_shkola_remesel_2_002
+\ev A-a!(Ага!) Аич! (Иӈа)
+\ru А-а!(Ага!) Хорошо! (?)
+\comment
+\ELANBegin 00:00:01.937
+\ELANEnd 00:00:05.560
+\ELANParticipant BP
+
+\id Grigoreva_NI_shkola_remesel_2_003
+\ev Эркэрэрэ, эрэк костюмьекэнкэ.
+\ru Вот же, это костюмчик.
+\comment
+\ELANBegin 00:00:05.550
+\ELANEnd 00:00:09.810
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_004
+\ev Куӈа (куӈа) тэтуттэн.
+\ru Ребенок одет.
+\comment
+\ELANBegin 00:00:09.810
+\ELANEnd 00:00:11.560
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_005
+\ev
+\ru
+\comment "эриг" or "эрич"
+\ELANBegin 00:00:11.560
+\ELANEnd 00:00:14.380
+\ELANParticipant
+
+\id Grigoreva_NI_shkola_remesel_2_006
+\ev Эрич би костюмыч оллоттиву Италиятки, Япониятки.
+\ru 
+
+\ru Этим я костюмом ездила (ходила) в Италию, в Японию.
+
+\comment
+\ELANBegin 00:00:11.560
+\ELANEnd 00:00:15.327
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_007
+\ev Тачикын би нибукэкэкэн бисиву.
+\ru Такая я худая была.
+\comment
+\ELANBegin 00:00:15.327
+\ELANEnd 00:00:17.330
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_008
+\ev
+\ru
+\comment (laughing)
+\ELANBegin 00:00:17.310
+\ELANEnd 00:00:19.250
+\ELANParticipant
+
+\id Grigoreva_NI_shkola_remesel_2_009
+\ev Эрэк мин внуку, 3 класс.
+\ru Это мой внук, 3 класс.
+\comment
+\ELANBegin 00:00:19.290
+\ELANEnd 00:00:24.920
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_010
+\ev Ага.
+\ru
+\comment
+\ELANBegin 00:00:20.570
+\ELANEnd 00:00:23.220
+\ELANParticipant BP
+
+\id Grigoreva_NI_shkola_remesel_2_011
+\ev (мудэк)
+\ru
+\comment
+\ELANBegin 00:00:24.900
+\ELANEnd 00:00:26.110
+\ELANParticipant BP
+
+\id Grigoreva_NI_shkola_remesel_2_012
+\ev Эсни, второй классу мудыкрин, ноӈын эгдемкыр.
+\ru 
+
+\ru Нет, второй класс(два класса) закончил, он очень большой.
+
+\comment
+\ELANBegin 00:00:26.090
+\ELANEnd 00:00:29.280
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_013
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:00:29.260
+\ELANEnd 00:00:31.564
+\ELANParticipant BP
+
+\id Grigoreva_NI_shkola_remesel_2_014
+\ev Восемь лет, а метр сорок.
+\ru Восемь лет, а метр сорок.
+\comment
+\ELANBegin 00:00:31.551
+\ELANEnd 00:00:33.580
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_015
+\ev
+\ru Уже мне, наверно, вот так.
+\comment
+\ELANBegin 00:00:33.580
+\ELANEnd 00:00:36.880
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_016
+\ev Эрэкыси ноӈын другын - шесть лет.
+\ru Это его друг,  6 лет.
+\comment
+\ELANBegin 00:00:36.880
+\ELANEnd 00:00:41.420
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_017
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:00:39.130
+\ELANEnd 00:00:39.670
+\ELANParticipant BP
+
+\id Grigoreva_NI_shkola_remesel_2_018
+\ev Аӈаныднарин.
+\ru Пришел шить.
+\comment
+\ELANBegin 00:00:41.420
+\ELANEnd 00:00:43.251
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_019
+\ev Эркэ, иррочимкынэ?
+\ru Вот какой же?
+\comment
+\ELANBegin 00:00:43.251
+\ELANEnd 00:00:44.890
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_020
+\ev Эркэ, эркэ - куӈал аӈаныдчатын.
+\ru Вот вот - дети шили.
+\comment
+\ELANBegin 00:00:44.890
+\ELANEnd 00:00:49.910
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_021
+\ev А-а, нод!
+\ru А-а, красиво!
+\comment
+\ELANBegin 00:00:49.900
+\ELANEnd 00:00:52.640
+\ELANParticipant BP
+
+\id Grigoreva_NI_shkola_remesel_2_022
+\ev Эрэккылдэ мин аӈанчаву.
+\ru Это-то моё шитьё.
+\comment
+\ELANBegin 00:00:52.637
+\ELANEnd 00:00:54.510
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_023
+\ev А-а, нод!
+\ru А-а, красиво!
+\comment
+\ELANBegin 00:00:54.500
+\ELANEnd 00:00:56.980
+\ELANParticipant BP
+
+\id Grigoreva_NI_shkola_remesel_2_024
+\ev Нодэ? Иӈэ.
+\ru Красиво? Да?
+\comment
+\ELANBegin 00:00:57.000
+\ELANEnd 00:00:58.490
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_025
+\ev Эрэк мин аӈанчаву.
+\ru Это моё шитьё.
+\comment
+\ELANBegin 00:00:58.490
+\ELANEnd 00:00:59.860
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_026
+\ev Ага.
+\ru
+\comment
+\ELANBegin 00:00:59.840
+\ELANEnd 00:01:00.820
+\ELANParticipant BP
+
+\id Grigoreva_NI_shkola_remesel_2_027
+\ev Вот эчин, - оӈучиси? тиик Марина никрин, ясчиринуч эчин?
+\ru 
+
+\ru Вот так как же это ? сейчас Марина сделала, чего это так?
+
+\comment
+\ELANBegin 00:01:00.800
+\ELANEnd 00:01:09.010
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_028
+\ev
+\ru
+\comment (марина тиик эрэк, ...?)
+\ELANBegin 00:01:05.330
+\ELANEnd 00:01:09.010
+\ELANParticipant
+
+\id Grigoreva_NI_shkola_remesel_2_029
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:01:09.010
+\ELANEnd 00:01:10.050
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_030
+\ev А я вообще, эчин эчинмая бисивэн, эчин,
+\ru ..., вот так же была, так
+\comment
+\ELANBegin 00:01:10.050
+\ELANEnd 00:01:13.800
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_031
+\ev Эчикэкэн, нимкылдивын (нимкылдывын), коенни?
+\ru Такая закрывашка,  видишь?
+\comment
+\ELANBegin 00:01:13.810
+\ELANEnd 00:01:18.040
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_032
+\ev нимкывэттын.
+\ru закрывает
+\comment
+\ELANBegin 00:01:18.040
+\ELANEnd 00:01:19.790
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_033
+\ev Эрэкыси гэрбэн  оны?
+\ru А вот  это называется как?
+\comment
+\ELANBegin 00:01:19.790
+\ELANEnd 00:01:21.940
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_034
+\ev нючидич (нючидыч) говэтты "Дружная семья".
+\ru по-русски говорят "Дружная семья"
+\comment
+\ELANBegin 00:01:21.940
+\ELANEnd 00:01:24.410
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_035
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:01:24.400
+\ELANEnd 00:01:24.780
+\ELANParticipant BP
+
+\id Grigoreva_NI_shkola_remesel_2_036
+\ev Вообщем это, эрэк онкына?
+\ru Вообщем это, это как же?
+\comment
+\ELANBegin 00:01:24.770
+\ELANEnd 00:01:29.630
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_037
+\ev Омӈырым, онучиси орыттич говэтты - симболический знак,
+\ru 
+
+\ru Забыла, как же по эвенски - симболический знак,
+
+\comment
+\ELANBegin 00:01:29.630
+\ELANEnd 00:01:33.100
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_038
+\ev чтобы семья эчин
+\ru чтобы семья так:
+\comment
+\ELANBegin 00:01:33.100
+\ELANEnd 00:01:36.790
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_039
+\ev мэрук  эчин эдэтын бэритнэр, аич дявыткырадатын, аич индиддэтын
+\ru 
+
+\ru седя так чтобы не растсрели, хорошо держались, хорошо жили
+
+\comment
+\ELANBegin 00:01:36.790
+\ELANEnd 00:01:43.240
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_040
+\ev эрэк
+\ru это
+\comment
+\ELANBegin 00:01:43.250
+\ELANEnd 00:01:43.960
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_041
+\ev М-м
+\ru
+\comment
+\ELANBegin 00:01:43.950
+\ELANEnd 00:01:44.760
+\ELANParticipant BP
+
+\id Grigoreva_NI_shkola_remesel_2_042
+\ev Эрэкыси таӈнякакан,
+\ru А вот это рожки,
+\comment
+\ELANBegin 00:01:44.750
+\ELANEnd 00:01:46.730
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_043
+\ev -
+\ru
+\comment
+\ELANBegin 00:01:46.730
+\ELANEnd 00:01:49.270
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_044
+\ev коенни?
+\ru видишь?
+\comment
+\ELANBegin 00:01:49.270
+\ELANEnd 00:01:50.340
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_045
+\ev Ы-ы
+\ru
+\comment
+\ELANBegin 00:01:50.340
+\ELANEnd 00:01:51.410
+\ELANParticipant BP
+
+\id Grigoreva_NI_shkola_remesel_2_046
+\ev Коетли, нодэ?
+\ru Смотри, красиво?
+\comment
+\ELANBegin 00:01:51.410
+\ELANEnd 00:01:52.420
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_047
+\ev О-о! Нод умыкич, а -а.
+\ru О-о! Красиво очень, а-а.
+\comment
+\ELANBegin 00:01:52.400
+\ELANEnd 00:01:56.100
+\ELANParticipant BP
+
+\id Grigoreva_NI_shkola_remesel_2_048
+\ev Эрэк глава
+\ru Это - глава
+\comment
+\ELANBegin 00:01:56.070
+\ELANEnd 00:01:57.370
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_049
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:01:57.370
+\ELANEnd 00:01:58.140
+\ELANParticipant BP
+
+\id Grigoreva_NI_shkola_remesel_2_050
+\ev эгден - эрэк акынтын
+\ru большой - это отец
+\comment
+\ELANBegin 00:01:58.120
+\ELANEnd 00:01:59.920
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_051
+\ev -
+\ru
+\comment
+\ELANBegin 00:01:59.920
+\ELANEnd 00:02:00.900
+\ELANParticipant GNI
+
+\id Grigoreva_NI_shkola_remesel_2_052
+\ev экынтын эрэк куӈаӈытын
+\ru мать, это ребёнок.
+\comment
+\ELANBegin 00:02:00.900
+\ELANEnd 00:02:02.520
+\ELANParticipant GNI
+
+\id 053
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:02:02.480
+\ELANEnd 00:02:03.360
+\ELANParticipant BP
+
+\id 054
+\ev Вот
+\ru Вот
+\comment
+\ELANBegin 00:02:03.360
+\ELANEnd 00:02:04.750
+\ELANParticipant GNI
+
+\id 055
+\ev Эрэкыси - таӈнялкачан
+\ru А вот это - с рогами
+\comment
+\ELANBegin 00:02:04.750
+\ELANEnd 00:02:07.540
+\ELANParticipant GNI
+
+\id 056
+\ev Ы-ы
+\ru
+\comment
+\ELANBegin 00:02:07.530
+\ELANEnd 00:02:08.200
+\ELANParticipant BP
+
+\id 057
+\ev эрэк (орымӈал ?)
+\ru это олень ?
+\comment
+\ELANBegin 00:02:08.190
+\ELANEnd 00:02:09.670
+\ELANParticipant GNI
+
+\id 058
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:02:09.657
+\ELANEnd 00:02:10.357
+\ELANParticipant BP
+
+\id 059
+\ev уӈытын - орын бидэн эрыыр, -
+\ru то - олень был всегда
+\comment
+\ELANBegin 00:02:10.347
+\ELANEnd 00:02:12.710
+\ELANParticipant GNI
+
+\id 060
+\ev симболическая формула или знак,
+\ru
+\comment
+\ELANBegin 00:02:12.710
+\ELANEnd 00:02:15.920
+\ELANParticipant GNI
+
+\id 061
+\ev Ы-ы
+\ru
+\comment
+\ELANBegin 00:02:15.920
+\ELANEnd 00:02:16.630
+\ELANParticipant BP
+
+\id 062
+\ev Эрэк ноды, какой-нибудь, тэвтыкэкэн, урэчинни?
+\ru 
+
+\ru Это красиво, какой-нибудь, егодка, похоже ?
+
+\comment
+\ELANBegin 00:02:16.630
+\ELANEnd 00:02:19.700
+\ELANParticipant GNI
+
+\id 063
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:02:19.680
+\ELANEnd 00:02:20.830
+\ELANParticipant BP
+
+\id 064
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:02:20.830
+\ELANEnd 00:02:24.480
+\ELANParticipant GNI
+
+\id 065
+\ev Эрэк просто уӈы, онкына говэттыкына? - авсыкакан,
+\ru 
+
+\ru Это просто это, как же  говорят? - авсыкакан,
+
+\comment
+\ELANBegin 00:02:24.480
+\ELANEnd 00:02:27.760
+\ELANParticipant GNI
+
+\id 066
+\ev - авсыкакан,
+\ru - авсыкакан,
+\comment
+\ELANBegin 00:02:27.760
+\ELANEnd 00:02:31.670
+\ELANParticipant GNI
+
+\id 067
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:02:31.660
+\ELANEnd 00:02:33.610
+\ELANParticipant BP
+
+\id 068
+\ev ?
+\ru
+\comment
+\ELANBegin 00:02:33.530
+\ELANEnd 00:02:34.440
+\ELANParticipant GNI
+
+\id 069
+\ev Ы -ы
+\ru
+\comment
+\ELANBegin 00:02:34.430
+\ELANEnd 00:02:35.930
+\ELANParticipant BP
+
+\id 070
+\ev Томкачал ...?
+\ru Нитки ...?
+\comment
+\ELANBegin 00:02:35.930
+\ELANEnd 00:02:38.140
+\ELANParticipant BP
+
+\id 071
+\ev Томкачаг ...?
+\ru Нит ...?
+\comment
+\ELANBegin 00:02:38.100
+\ELANEnd 00:02:39.110
+\ELANParticipant GNI
+
+\id 072
+\ev ?
+\ru
+\comment
+\ELANBegin 00:02:39.090
+\ELANEnd 00:02:41.380
+\ELANParticipant BP
+
+\id 073
+\ev Томкачал эрэк уӈы
+\ru Нитки это вот
+\comment
+\ELANBegin 00:02:41.360
+\ELANEnd 00:02:43.100
+\ELANParticipant GNI
+
+\id 074
+\ev - современный, Эмувкэнитэн минду оргич, уӈэ, томка
+\ru 
+
+\ru - современный, приелали мне гу табуна, это, питка
+
+\comment
+\ELANBegin 00:02:43.100
+\ELANEnd 00:02:48.800
+\ELANParticipant GNI
+
+\id 075
+\ev
+\ru
+\comment Transkription GNI: томка минду (нитка мне)
+\ELANBegin 00:02:43.100
+\ELANEnd 00:02:48.800
+\ELANParticipant
+
+\id 076
+\ev томкачав орадаку, няныси,
+\ru Нитки сделать, потом же
+\comment
+\ELANBegin 00:02:48.800
+\ELANEnd 00:02:52.260
+\ELANParticipant GNI
+
+\id 077
+\ev
+\ru
+\comment (coughing)
+\ELANBegin 00:02:52.250
+\ELANEnd 00:02:53.860
+\ELANParticipant
+
+\id 078
+\ev Эчин уӈыддэку,
+\ru Вот так делать,
+\comment
+\ELANBegin 00:02:53.860
+\ELANEnd 00:02:55.790
+\ELANParticipant GNI
+
+\id 079
+\ev аӈаныдиллыку,
+\ru
+\comment
+\ELANBegin 00:02:55.790
+\ELANEnd 00:02:57.010
+\ELANParticipant GNI
+
+\id 080
+\ev экиче-е кибаммоттэн,
+\ru ой, как ломанотся
+\comment
+\ELANBegin 00:02:57.010
+\ELANEnd 00:02:59.850
+\ELANParticipant GNI
+
+\id 081
+\ev кибаммоттэн
+\ru
+\comment
+\ELANBegin 00:02:59.850
+\ELANEnd 00:03:02.010
+\ELANParticipant GNI
+
+\id 082
+\ev Эрэк тиик би мэнкэн аӈанчаву
+\ru Это сейчас я сама сшила
+\comment
+\ELANBegin 00:03:02.010
+\ELANEnd 00:03:04.410
+\ELANParticipant GNI
+
+\id 083
+\ev Маринаду, нян коеткырэдэтын ибдирил, уӈниву.
+\ru 
+
+\ru Марине, потом чтоб смотрели моди, сделала.
+
+\comment
+\ELANBegin 00:03:04.410
+\ELANEnd 00:03:09.650
+\ELANParticipant GNI
+
+\id 084
+\ev Вот, так
+\ru
+\comment
+\ELANBegin 00:03:09.650
+\ELANEnd 00:03:13.440
+\ELANParticipant GNI
+
+\id 085
+\ev Эрэкыси куӈакаякар аӈанчятын, эрэк
+\ru А вот это детки пошили , это
+\comment
+\ELANBegin 00:03:13.440
+\ELANEnd 00:03:17.040
+\ELANParticipant GNI
+
+\id 086
+\ev тиик ичукэндим, тэлыӈдим.
+\ru сейчас покажу, расскажу.
+\comment
+\ELANBegin 00:03:17.040
+\ELANEnd 00:03:20.080
+\ELANParticipant GNI
+
+\id 087
+\ev Эрэкыси, коетли, - пурусмойкакан урэчинни (урэчинны)
+\ru 
+
+\ru Вот это, смотри, - на простенький похожа
+
+\comment
+\ELANBegin 00:03:20.080
+\ELANEnd 00:03:26.920
+\ELANParticipant GNI
+
+\id 088
+\ev аӈны, нёбати, ӈулэне, чилбаня, да?
+\ru черный, белый, красный, голубый, да?
+\comment
+\ELANBegin 00:03:26.920
+\ELANEnd 00:03:32.570
+\ELANParticipant GNI
+
+\id 089
+\ev и там дальше уже это
+\ru
+\comment
+\ELANBegin 00:03:32.570
+\ELANEnd 00:03:34.580
+\ELANParticipant GNI
+
+\id 090
+\ev эрэк симболический знак,
+\ru это симболический знак
+\comment
+\ELANBegin 00:03:34.580
+\ELANEnd 00:03:38.260
+\ELANParticipant GNI
+
+\id 091
+\ev это круг жизни говэтты -
+\ru это круг жизни говорят -
+\comment
+\ELANBegin 00:03:38.260
+\ELANEnd 00:03:41.540
+\ELANParticipant GNI
+
+\id 092
+\ev ини (ины) - эрэк, турлэ мут биддын, да
+\ru Жизнь - это, на земля мы находимся, да
+\comment
+\ELANBegin 00:03:41.540
+\ELANEnd 00:03:44.490
+\ELANParticipant GNI
+
+\id 093
+\ev эрэк мут турыӈыт, эрэкыси - нёбатиккэ - эрэк
+\ru 
+
+\ru это, наша земля, а вот это  - белая же - это
+
+\comment
+\ELANBegin 00:03:44.490
+\ELANEnd 00:03:48.430
+\ELANParticipant GNI
+
+\id 094
+\ev Свет, эрэкыси - нюлтэн,
+\ru Свет, а вот это - солнце,
+\comment
+\ELANBegin 00:03:48.430
+\ELANEnd 00:03:52.050
+\ELANParticipant GNI
+
+\id 095
+\ev А - а
+\ru
+\comment
+\ELANBegin 00:03:52.040
+\ELANEnd 00:03:53.680
+\ELANParticipant BP
+
+\id 096
+\ev нянин
+\ru небо
+\comment
+\ELANBegin 00:03:53.660
+\ELANEnd 00:03:55.570
+\ELANParticipant GNI
+
+\id 097
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:03:55.550
+\ELANEnd 00:03:56.970
+\ELANParticipant BP
+
+\id 098
+\ev вот что, вот, вот это - жизнь - симболический знак,
+\ru 
+
+\ru вот что, вот, вот это - жизнь - симболический знак,
+
+\comment
+\ELANBegin 00:03:56.950
+\ELANEnd 00:04:02.720
+\ELANParticipant GNI
+
+\id 099
+\ev ?
+\ru
+\comment
+\ELANBegin 00:04:02.720
+\ELANEnd 00:04:05.590
+\ELANParticipant GNI
+
+\id 100
+\ev Тоже, эчин, эрэк титэлнэн эчин уӈоттэ, аӈанноттэ, ичукэччотты,
+\ru 
+
+\ru Тоже, вот так, это в старину вот так деляли,
+
+\comment
+\ELANBegin 00:04:05.590
+\ELANEnd 00:04:11.830
+\ELANParticipant GNI
+
+\id 101
+\ev симболический знак,
+\ru
+\comment
+\ELANBegin 00:04:11.830
+\ELANEnd 00:04:14.120
+\ELANParticipant GNI
+
+\id 102
+\ev - жизнь,
+\ru
+\comment
+\ELANBegin 00:04:14.120
+\ELANEnd 00:04:15.970
+\ELANParticipant GNI
+
+\id 103
+\ev Ы-ы
+\ru
+\comment
+\ELANBegin 00:04:15.950
+\ELANEnd 00:04:20.400
+\ELANParticipant BP
+
+\id 104
+\ev -
+\ru
+\comment
+\ELANBegin 00:04:20.390
+\ELANEnd 00:04:26.270
+\ELANParticipant GNI
+
+\id 105
+\ev Так вот - эрэк куӈал мэркэр тоже уӈчэтын,
+\ru Так вот - это дети сами тоже делали,
+\comment
+\ELANBegin 00:04:26.270
+\ELANEnd 00:04:30.800
+\ELANParticipant GNI
+
+\id 106
+\ev фан..., онкыня?
+\ru фан..., как же?
+\comment
+\ELANBegin 00:04:30.800
+\ELANEnd 00:04:34.060
+\ELANParticipant GNI
+
+\id 107
+\ev мэркэр мэргытникэр (мэргытныкэр) явуттеси уӈыддитэн (уӈыддытэн),
+\ru сами мыслили/ думяли чего-то делали,
+\comment
+\ELANBegin 00:04:34.060
+\ELANEnd 00:04:39.070
+\ELANParticipant GNI
+
+\id 108
+\ev як явуттаси, тэлыӈытынтытэ, гоонэ- эрэк, это, уӈэ
+\ru 
+
+\ru не чего-то/ не просто чегото, их рассказ тоже, говорят - это,это, это
+
+\comment
+\ELANBegin 00:04:39.070
+\ELANEnd 00:04:44.470
+\ELANParticipant GNI
+
+\id 109
+\ev - гекив дилгынкыв элэ уӈнитэн, коешь - дилгынкыкэкэн эрэ
+\ru 
+
+\ru - всяких животных/ зверей, тут  делали , видите - зверюшки вот
+
+\comment
+\ELANBegin 00:04:44.470
+\ELANEnd 00:04:50.140
+\ELANParticipant GNI
+
+\id 110
+\ev оркакарбы эрэк ноӈыртын уӈнитэн
+\ru оленей это они сделали
+\comment
+\ELANBegin 00:04:50.140
+\ELANEnd 00:04:52.660
+\ELANParticipant GNI
+
+\id 111
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:04:52.640
+\ELANEnd 00:04:53.430
+\ELANParticipant BP
+
+\id 112
+\ev аӈ ... ичукэттитэн эли, эрэкыси - намэ,
+\ru сши... показали здесь, а вот это - море
+\comment
+\ELANBegin 00:04:53.430
+\ELANEnd 00:04:57.110
+\ELANParticipant GNI
+
+\id 113
+\ev табыч эрэк нёбатиякен
+\ru затем этя беленокая
+\comment
+\ELANBegin 00:04:57.110
+\ELANEnd 00:05:00.240
+\ELANParticipant GNI
+
+\id 114
+\ev уӈы - имынны,
+\ru это - снег
+\comment
+\ELANBegin 00:05:00.240
+\ELANEnd 00:05:02.270
+\ELANParticipant GNI
+
+\id 115
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:05:02.280
+\ELANEnd 00:05:03.340
+\ELANParticipant BP
+
+\id 116
+\ev эрэккылдэ уӈэ, нюлтындук эчин утылбанил ...
+\ru а вот -то  это,  от солнца так блестит...
+\comment
+\ELANBegin 00:05:03.320
+\ELANEnd 00:05:06.730
+\ELANParticipant GNI
+
+\id 117
+\ev уӈын, онкына?
+\ru это, как же?
+\comment
+\ELANBegin 00:05:06.730
+\ELANEnd 00:05:08.860
+\ELANParticipant GNI
+
+\id 118
+\ev о-о ... омӈырымдатитта,
+\ru за ... забыла совсем
+\comment
+\ELANBegin 00:05:08.860
+\ELANEnd 00:05:12.690
+\ELANParticipant GNI
+
+\id 119
+\ev эрэкыси - уӈэ, намдула
+\ru а это - это в море
+\comment
+\ELANBegin 00:05:12.690
+\ELANEnd 00:05:15.100
+\ELANParticipant GNI
+
+\id 120
+\ev геки дилгынкын
+\ru всякие животные
+\comment
+\ELANBegin 00:05:15.100
+\ELANEnd 00:05:18.030
+\ELANParticipant GNI
+
+\id 121
+\ev нам дилгынкын
+\ru морские животные
+\comment
+\ELANBegin 00:05:18.030
+\ELANEnd 00:05:19.900
+\ELANParticipant GNI
+
+\id 122
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:05:19.890
+\ELANEnd 00:05:21.390
+\ELANParticipant BP
+
+\id 123
+\ev тачин эрэк гунин девочка,
+\ru так это сказла девочка,
+\comment
+\ELANBegin 00:05:21.390
+\ELANEnd 00:05:23.080
+\ELANParticipant GNI
+
+\id 124
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:05:23.070
+\ELANEnd 00:05:23.960
+\ELANParticipant BP
+
+\id 125
+\ev девочка, аӈанчан,
+\ru девочка, сшила
+\comment
+\ELANBegin 00:05:23.970
+\ELANEnd 00:05:25.540
+\ELANParticipant GNI
+
+\id 126
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:05:25.520
+\ELANEnd 00:05:26.290
+\ELANParticipant BP
+
+\id 127
+\ev тачин тэлыӈыдми
+\ru так рассказывая
+\comment
+\ELANBegin 00:05:26.290
+\ELANEnd 00:05:27.640
+\ELANParticipant GNI
+
+\id 128
+\ev аӈан... упкучиддиву упкучидек
+\ru поши... учила на учебе
+\comment
+\ELANBegin 00:05:27.640
+\ELANEnd 00:05:32.550
+\ELANParticipant GNI
+
+\id 129
+\ev ноӈыр - бутэн
+\ru их
+\comment
+\ELANBegin 00:05:32.550
+\ELANEnd 00:05:34.280
+\ELANParticipant GNI
+
+\id 130
+\ev нян говэттым - аӈаныдми, уӈэ ... уӈгырэллы эрыыр мэргэчкырэллы - яв 
+аӈаныдишь,
+\ru затем говорю - когда шьете, это ... делаите всегда с мыслями/ думайте 
+- чего шьёте
+\comment
+\ELANBegin 00:05:34.280
+\ELANEnd 00:05:42.840
+\ELANParticipant GNI
+
+\id 131
+\ev тэлыӈдэвыр, як просто так аӈанноттэ
+\ru рассказать, не просто так шьют
+\comment
+\ELANBegin 00:05:42.840
+\ELANEnd 00:05:48.750
+\ELANParticipant GNI
+
+\id 132
+\ev художник,
+\ru художник,
+\comment
+\ELANBegin 00:05:48.750
+\ELANEnd 00:05:50.630
+\ELANParticipant GNI
+
+\id 133
+\ev мастерица, или авайкэ, авай -
+\ru мастерица, или мастер-то, мастер -
+\comment
+\ELANBegin 00:05:50.630
+\ELANEnd 00:05:54.530
+\ELANParticipant GNI
+
+\id 134
+\ev эрэк эрыыр гундин яв аӈаннин. Аӈаныдмида, мэргэтчин
+\ru 
+
+\ru этот всегда скажет чего зашил. Когда шьет, мыслит/ думает
+
+\comment
+\ELANBegin 00:05:54.530
+\ELANEnd 00:05:59.190
+\ELANParticipant GNI
+
+\id 135
+\ev - яв эрэк тэлыӈу аӈанноттын, тэлыӈу целый аӈанноттэн.
+\ru - что это за рассказ шьёт, рассказ шьёт
+\comment
+\ELANBegin 00:05:59.200
+\ELANEnd 00:06:06.100
+\ELANParticipant GNI
+
+\id 136
+\ev Вот.
+\ru
+\comment
+\ELANBegin 00:06:06.100
+\ELANEnd 00:06:07.710
+\ELANParticipant GNI
+
+\id 137
+\ev Тиик, табич это,
+\ru Сейчас, потом это,
+\comment
+\ELANBegin 00:06:07.710
+\ELANEnd 00:06:09.920
+\ELANParticipant GNI
+
+\id 138
+\ev куӈакаякар эрэк, э-э ...
+\ru детишки это, э-э...
+\comment
+\ELANBegin 00:06:09.920
+\ELANEnd 00:06:15.210
+\ELANParticipant GNI
+
+\id 139
+\ev тиныпанӈыду уӈнитэн - гургэвчиддитэн (гургэвчиддытэн) аӈанноттэ, нян 
+тамыӈгавыр уӈоттэ, огнкына?
+\ru 
+
+\ru в прошлом году сделали - работали  шили,  затем деньгиделали, как же?
+
+\comment
+\ELANBegin 00:06:15.210
+\ELANEnd 00:06:25.830
+\ELANParticipant GNI
+
+\id 140
+\ev ӈидэ унивэттын (унывэттын),
+\ru кто-нибудь покупает,
+\comment
+\ELANBegin 00:06:25.830
+\ELANEnd 00:06:30.300
+\ELANParticipant GNI
+
+\id 141
+\ev ӈидэ туристыл унивэттэ.
+\ru кто-нибудь туристы покупат.
+\comment
+\ELANBegin 00:06:30.300
+\ELANEnd 00:06:32.240
+\ELANParticipant GNI
+
+\id 142
+\ev нян ноӈыр... вот это,
+\ru затем они вот это
+\comment
+\ELANBegin 00:06:32.240
+\ELANEnd 00:06:36.310
+\ELANParticipant GNI
+
+\id 143
+\ev диплыӈгэвыр (говори) унивэтты.
+\ru продукты покупают.
+\comment
+\ELANBegin 00:06:36.310
+\ELANEnd 00:06:38.800
+\ELANParticipant GNI
+
+\id 144
+\ev Эрэк уӈэ
+\ru Это вот
+\comment
+\ELANBegin 00:06:38.800
+\ELANEnd 00:06:41.090
+\ELANParticipant GNI
+
+\id 145
+\ev "трудная семья",
+\ru "трудная семья",
+\comment
+\ELANBegin 00:06:41.090
+\ELANEnd 00:06:45.350
+\ELANParticipant GNI
+
+\id 146
+\ev говэтты нючидичкэ (нючидычкэ),
+\ru говорят по-русскому,
+\comment
+\ELANBegin 00:06:45.350
+\ELANEnd 00:06:47.680
+\ELANParticipant GNI
+
+\id 147
+\ev кэнелич бисе, тарылбы би иллаваттым, нян уӈниву,
+\ru плохо живут, тех я жалею, затем делаю
+\comment
+\ELANBegin 00:06:47.680
+\ELANEnd 00:06:53.920
+\ELANParticipant GNI
+
+\id 148
+\ev говэттым, эрэв гали,
+\ru говорю, это возьми
+\comment
+\ELANBegin 00:06:53.920
+\ELANEnd 00:06:58.760
+\ELANParticipant GNI
+
+\id 149
+\ev а... эрэчэи, нисачаи,
+\ru а... вышила, бисером вышила
+\comment
+\ELANBegin 00:06:58.760
+\ELANEnd 00:07:02.140
+\ELANParticipant GNI
+
+\id 150
+\ev нян гоным,
+\ru затем говорю,
+\comment
+\ELANBegin 00:07:02.140
+\ELANEnd 00:07:04.660
+\ELANParticipant GNI
+
+\id 151
+\ev говыттым тачинда тамыӈгаи гасчидинни икутич,
+\ru говорю так то деньги проси прямо,
+\comment
+\ELANBegin 00:07:04.660
+\ELANEnd 00:07:09.810
+\ELANParticipant GNI
+
+\id 152
+\ev гоным -и гургэвчирис, поэтому, гургэвыр эдиллы окта, уӈгырэ... онкына?
+\ru говорю- ты работал(а), поэтому, работу, не делайте никогда делай... 
+как же?
+\comment
+\ELANBegin 00:07:09.810
+\ELANEnd 00:07:17.900
+\ELANParticipant GNI
+
+\id 153
+\ev кучукэныч, эрэк эгден гургэ, итем...
+\ru ?
+\comment
+\ELANBegin 00:07:17.900
+\ELANEnd 00:07:24.430
+\ELANParticipant GNI
+
+\id 154
+\ev Э-э
+\ru Э-э
+\comment
+\ELANBegin 00:07:24.430
+\ELANEnd 00:07:27.300
+\ELANParticipant GNI
+
+\id 155
+\ev ... если со смыслом, онкына говэтты? орыттич?
+\ru мэргэчиныч, как же говорят? по эвенски?
+\comment
+\ELANBegin 00:07:27.300
+\ELANEnd 00:07:33.550
+\ELANParticipant GNI
+
+\id 156
+\ev нючидич (нючидыч) гоми/ гуми -
+\ru по русски говоря -
+\comment
+\ELANBegin 00:07:33.550
+\ELANEnd 00:07:35.500
+\ELANParticipant GNI
+
+\id 157
+\ev смысловая работа, со смыслом каким-то, да, рассказываешь, тэми гонэм, 
+гонем
+\ru смысловая работа, со смыслом каким-то, да, рассказываешь, поэтому 
+говорю, говорю,
+\comment
+\ELANBegin 00:07:35.500
+\ELANEnd 00:07:42.090
+\ELANParticipant GNI
+
+\id 158
+\ev мэргэчкырэллы, як просто так, эчин эрэ... уӈу нисаддёттэ, эстэн -
+\ru 
+
+\ru думайте, него просто так, так вот... это вышивают, не делают -
+
+\comment
+\ELANBegin 00:07:42.090
+\ELANEnd 00:07:50.500
+\ELANParticipant GNI
+
+\id 159
+\ev орычилтыки,
+\ru эвенам
+\comment
+\ELANBegin 00:07:50.500
+\ELANEnd 00:07:55.060
+\ELANParticipant GNI
+
+\id 160
+\ev вот, эрэк Катарина
+\ru вот, это Катарина
+\comment
+\ELANBegin 00:07:55.060
+\ELANEnd 00:08:00.230
+\ELANParticipant GNI
+
+\id 161
+\ev уӈын - Гернет
+\ru та - Гернет
+\comment
+\ELANBegin 00:08:00.230
+\ELANEnd 00:08:04.110
+\ELANParticipant GNI
+
+\id 162
+\ev уничэн эрэк, нян нянда заказаллин, тала
+\ru купила это, затем опять заказала, там
+\comment
+\ELANBegin 00:08:04.110
+\ELANEnd 00:08:08.210
+\ELANParticipant GNI
+
+\id 163
+\ev аси уӈнэн, гасчин
+\ru женщина просит
+\comment
+\ELANBegin 00:08:08.210
+\ELANEnd 00:08:10.040
+\ELANParticipant GNI
+
+\id 164
+\ev Ы-ы
+\ru
+\comment
+\ELANBegin 00:08:10.030
+\ELANEnd 00:08:11.470
+\ELANParticipant BP
+
+\id 165
+\ev Эррочим эрэк, эррочин,
+\ru Такое вот, такое,
+\comment
+\ELANBegin 00:08:11.450
+\ELANEnd 00:08:13.270
+\ELANParticipant GNI
+
+\id 166
+\ev Ы-ы
+\ru
+\comment
+\ELANBegin 00:08:13.260
+\ELANEnd 00:08:15.350
+\ELANParticipant BP
+
+\id 167
+\ev табычиси уӈы, ...ым
+\ru а потом это, ...ым
+\comment
+\ELANBegin 00:08:15.320
+\ELANEnd 00:08:19.600
+\ELANParticipant GNI
+
+\id 168
+\ev онкына? омӈываттым - пояер???, онкына? говэттыкынэ?
+\ru 
+
+\ru ка же? забываю - (калбы), как же? говорят же?
+
+\comment
+\ELANBegin 00:08:19.600
+\ELANEnd 00:08:24.590
+\ELANParticipant GNI
+
+\id 169
+\ev эрой! якавучиси дилу...
+\ru о-о-ой! какая-то моя голова...
+\comment
+\ELANBegin 00:08:24.590
+\ELANEnd 00:08:26.470
+\ELANParticipant GNI
+
+\id 170
+\ev Ы-ы
+\ru
+\comment
+\ELANBegin 00:08:26.460
+\ELANEnd 00:08:29.200
+\ELANParticipant BP
+
+\id 171
+\ev -
+\ru
+\comment
+\ELANBegin 00:08:29.160
+\ELANEnd 00:08:34.380
+\ELANParticipant GNI
+
+\id 172
+\ev эрэк, эрэк би эчин
+\ru это, это я так
+\comment
+\ELANBegin 00:08:34.380
+\ELANEnd 00:08:37.570
+\ELANParticipant GNI
+
+\id 173
+\ev Ы-ы
+\ru
+\comment
+\ELANBegin 00:08:37.540
+\ELANEnd 00:08:38.380
+\ELANParticipant BP
+
+\id 174
+\ev коплэчидми эррочикэкэн бисиву, это, эрэк экму, эньму
+\ru 
+
+\ru танцевала такая была, это, эрэк экму, мама, мама
+
+\comment
+\ELANBegin 00:08:38.380
+\ELANEnd 00:08:42.350
+\ELANParticipant GNI
+
+\id 175
+\ev Ы-ы
+\ru
+\comment
+\ELANBegin 00:08:42.330
+\ELANEnd 00:08:43.330
+\ELANParticipant BP
+
+\id 176
+\ev эрэк идувуттэси биддыку, би эчин уӈниву
+\ru это где-то я была, я так делала
+\comment
+\ELANBegin 00:08:43.320
+\ELANEnd 00:08:47.300
+\ELANParticipant GNI
+
+\id 177
+\ev икэныддыкугу-у, или илычиддыкугу,
+\ru пела-а-а чтож, или стояла чтож
+\comment
+\ELANBegin 00:08:47.300
+\ELANEnd 00:08:50.620
+\ELANParticipant GNI
+
+\id 178
+\ev тилкукэнитэн.
+\ru с фотографироваеш
+\comment
+\ELANBegin 00:08:50.620
+\ELANEnd 00:08:52.500
+\ELANParticipant GNI
+
+\id 179
+\ev Ы-ы
+\ru
+\comment
+\ELANBegin 00:08:52.480
+\ELANEnd 00:08:54.000
+\ELANParticipant BP
+
+\id 180
+\ev Ы-ы . И...
+\ru
+\comment
+\ELANBegin 00:08:53.950
+\ELANEnd 00:08:55.890
+\ELANParticipant NA
+
+\id 181
+\ev орыттич эрэк эрэкыси уӈы, онкына? говэтты, как
+\ru 
+
+\ru по эвенски это этот это как же говорят, как
+
+\comment
+\ELANBegin 00:08:55.890
+\ELANEnd 00:09:00.520
+\ELANParticipant GNI
+
+\id 182
+\ev рёбра орыттич омӈырым
+\ru рёбра по эвенски забыла
+\comment
+\ELANBegin 00:09:00.520
+\ELANEnd 00:09:04.550
+\ELANParticipant GNI
+
+\id 183
+\ev - рёбра как бы - тачин означат.
+\ru - рёбра как бы - так означают
+\comment
+\ELANBegin 00:09:04.550
+\ELANEnd 00:09:09.320
+\ELANParticipant GNI
+
+\id 184
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:09:09.320
+\ELANEnd 00:09:10.800
+\ELANParticipant BP
+
+\id 185
+\ev это Майя Петровна аичикан тэлыӈдин, ноӈындула, ноӈын, потому что
+\ru 
+
+\ru это Майя Петровна хорошенько расскажет, у неё, она, потому что
+
+\comment
+\ELANBegin 00:09:10.760
+\ELANEnd 00:09:17.870
+\ELANParticipant GNI
+
+\id 186
+\ev бу 89 году онэ -
+\ru мы 89 году как -
+\comment
+\ELANBegin 00:09:17.870
+\ELANEnd 00:09:23.220
+\ELANParticipant GNI
+
+\id 187
+\ev дяпкын, уюн мэрлан?
+\ru восемь, девять в десятке?
+\comment
+\ELANBegin 00:09:23.220
+\ELANEnd 00:09:30.030
+\ELANParticipant GNI
+
+\id 188
+\ev Тачин говэтты? 89 году, анӈындулан?
+\ru Так говорят? 89 году, году ?
+\comment
+\ELANBegin 00:09:30.030
+\ELANEnd 00:09:34.600
+\ELANParticipant GNI
+
+\id 189
+\ev дяпкын, мян, уюн, анӈын
+\ru восемь, десят, уюн, анӈ...
+\comment
+\ELANBegin 00:09:33.840
+\ELANEnd 00:09:38.400
+\ELANParticipant BP
+
+\id 190
+\ev -
+\ru
+\comment
+\ELANBegin 00:09:37.970
+\ELANEnd 00:09:42.080
+\ELANParticipant GNI
+
+\id 191
+\ev Тарыкым оллоттивун, наныси орычил биситэн Якутиядук.
+\ru 
+
+\ru Тогда ездили, затем эвены были из Якутии.
+
+\comment
+\ELANBegin 00:09:42.080
+\ELANEnd 00:09:46.060
+\ELANParticipant GNI
+
+\id 192
+\ev Ы-ы
+\ru
+\comment
+\ELANBegin 00:09:46.050
+\ELANEnd 00:09:47.420
+\ELANParticipant BP
+
+\id 193
+\ev эм... тарыкыси уныт бу эчивун ары, якаву эрэк гэрбэн, нян
+\ru 
+
+\ru эм... тогда ещё мы не знали чего это значин/ зовется затем
+
+\comment
+\ELANBegin 00:09:47.380
+\ELANEnd 00:09:51.660
+\ELANParticipant GNI
+
+\id 194
+\ev Майя Петровна - экынни тэлыӈнин.
+\ru У Майи Петровни - её мать рассказяла
+\comment
+\ELANBegin 00:09:51.660
+\ELANEnd 00:09:53.890
+\ELANParticipant GNI
+
+\id 195
+\ev
+\ru
+\comment (coughing)
+\ELANBegin 00:09:53.880
+\ELANEnd 00:09:54.980
+\ELANParticipant
+
+\id 196
+\ev А так орычил большинство...
+\ru А так эвены большинство...
+\comment
+\ELANBegin 00:09:54.970
+\ELANEnd 00:09:57.990
+\ELANParticipant GNI
+
+\id 197
+\ev эгдер...
+\ru болш...
+\comment
+\ELANBegin 00:09:57.990
+\ELANEnd 00:09:59.390
+\ELANParticipant GNI
+
+\id 198
+\ev нючидич (нючидыч) гоми (гуми), ой! онкына? орыттич?
+\ru 
+
+\ru по русски говоря, ой! Как же? по эвенски?
+
+\comment
+\ELANBegin 00:09:59.390
+\ELANEnd 00:10:04.790
+\ELANParticipant GNI
+
+\id 199
+\ev орычил туркуттитын (туркуттитэн) гоӈэ эрэк
+\ru эвены не с могли сказать это,
+\comment
+\ELANBegin 00:10:04.790
+\ELANEnd 00:10:09.400
+\ELANParticipant GNI
+
+\id 200
+\ev тарылдаттитта Якутиядук гу... туркуттитэн гоӈэ (гуӈэ)
+\ru даже те с Якутии гу... не могли сказать.
+\comment
+\ELANBegin 00:10:09.400
+\ELANEnd 00:10:13.010
+\ELANParticipant GNI
+
+\id 201
+\ev Ач... Эа... а-а ... гекилбэ эррочилбэ тэлыӈдир, якаву тарак,
+\ru 
+
+\ru Ач... Эа... а-а ... всякие такие расскажут, чего то,
+
+\comment
+\ELANBegin 00:10:13.010
+\ELANEnd 00:10:17.640
+\ELANParticipant GNI
+
+\id 202
+\ev нисач или это уӈыч -
+\ru бисером или это этим -
+\comment
+\ELANBegin 00:10:17.640
+\ELANEnd 00:10:23.750
+\ELANParticipant GNI
+
+\id 203
+\ev - исыч аӈанча, тэлыӈоттэ
+\ru - шкурой сшито рассказывают
+\comment
+\ELANBegin 00:10:23.750
+\ELANEnd 00:10:30.810
+\ELANParticipant GNI
+
+\id 204
+\ev знак формулы, тэлыӈотэ.
+\ru знак формулы, рассказывают.
+\comment
+\ELANBegin 00:10:30.810
+\ELANEnd 00:10:34.250
+\ELANParticipant GNI
+
+\id 205
+\ev эрдэ бу, эркэ Майя Петровнаккы,
+\ru вот мы, вот же Майя Петровна,
+\comment
+\ELANBegin 00:10:34.250
+\ELANEnd 00:10:36.860
+\ELANParticipant GNI
+
+\id 206
+\ev эр бу музейду,
+\ru это мы для музея,
+\comment
+\ELANBegin 00:10:36.860
+\ELANEnd 00:10:38.290
+\ELANParticipant GNI
+
+\id 207
+\ev
+\ru
+\comment (laughing)
+\ELANBegin 00:10:38.290
+\ELANEnd 00:10:39.240
+\ELANParticipant
+
+\id 208
+\ev музею 25 лет,
+\ru музею 25 лет,
+\comment
+\ELANBegin 00:10:39.240
+\ELANEnd 00:10:40.600
+\ELANParticipant GNI
+
+\id 209
+\ev тарыкым бу подаркилгатэн уӈыддивун,
+\ru тогда мы подарки делали,
+\comment
+\ELANBegin 00:10:40.600
+\ELANEnd 00:10:43.690
+\ELANParticipant GNI
+
+\id 210
+\ev
+\ru
+\comment (laughing)
+\ELANBegin 00:10:43.680
+\ELANEnd 00:10:44.840
+\ELANParticipant
+
+\id 211
+\ev атикар бидэвир уӈнивун, э-э...
+\ru старушками быть сделали, э-э...
+\comment
+\ELANBegin 00:10:44.840
+\ELANEnd 00:10:48.050
+\ELANParticipant GNI
+
+\id 212
+\ev Самый, онкына говэтты?
+\ru Самый, как же говорят?
+\comment
+\ELANBegin 00:10:48.050
+\ELANEnd 00:10:51.530
+\ELANParticipant GNI
+
+\id 213
+\ev Чолотой номер- "Герканай."
+\ru Золотой номер- "Вулкан."
+\comment
+\ELANBegin 00:10:51.530
+\ELANEnd 00:10:56.950
+\ELANParticipant GNI
+
+\id 214
+\ev
+\ru
+\comment NIG: "Геркаӈай": корякское название вулкана
+\ELANBegin 00:10:51.530
+\ELANEnd 00:10:57.160
+\ELANParticipant
+
+\id 215
+\ev Осэми эбде... аявоттэ тарав уӈныкун.
+\ru Очень инте... аявоттэ то когда делаем.
+\comment
+\ELANBegin 00:10:56.950
+\ELANEnd 00:11:00.280
+\ELANParticipant GNI
+
+\id 216
+\ev эрэк би Японияду, трыкым, как раз Майя Петровна тоже
+\ru 
+
+\ru Это я в японии, тогда, как раз Майя Петровна тоже
+
+\comment
+\ELANBegin 00:11:00.280
+\ELANEnd 00:11:05.510
+\ELANParticipant GNI
+
+\id 217
+\ev Япониятки оллочиддивун (оллочиддывун)
+\ru в японию мы ездили.
+\comment
+\ELANBegin 00:11:05.510
+\ELANEnd 00:11:07.110
+\ELANParticipant GNI
+
+\id 218
+\ev Ы-ы
+\ru
+\comment
+\ELANBegin 00:11:07.110
+\ELANEnd 00:11:08.100
+\ELANParticipant BP
+
+\id 219
+\ev Таду бу ичукэчиддивун (ичукэчиддывун) мэр бинивыр
+\ru Там мы показывали свою жизнь/ культуру
+\comment
+\ELANBegin 00:11:08.060
+\ELANEnd 00:11:13.530
+\ELANParticipant GNI
+
+\id 220
+\ev - мэр, он бу икэвэтту, он коилэчивэтту, он нургывэтту,
+\ru 
+
+\ru - свои, как мы поём, как танцуем, как танцуем,
+
+\comment
+\ELANBegin 00:11:13.530
+\ELANEnd 00:11:19.970
+\ELANParticipant GNI
+
+\id 221
+\ev Оилбурда ичукэттивун, яч тэтуччотту,
+\ru Одежду покаэывали, Им одеваемся,
+\comment
+\ELANBegin 00:11:19.970
+\ELANEnd 00:11:23.600
+\ELANParticipant GNI
+
+\id 222
+\ev мэркэр аӈанчавыр - говэтту. Тарыкым би, айдитта, оилбу биситэн,
+\ru 
+
+\ru сами посшили - говорили. Тогда я, правда, одежда были,
+
+\comment
+\ELANBegin 00:11:23.600
+\ELANEnd 00:11:29.380
+\ELANParticipant GNI
+
+\id 223
+\ev Ы-ы
+\ru
+\comment
+\ELANBegin 00:11:29.380
+\ELANEnd 00:11:31.010
+\ELANParticipant BP
+
+\id 224
+\ev вот, тиик нян, явучису уныт ичукэттэикынэ, это у меня, а,
+\ru 
+
+\ru вот, сейчас затем, чего-то ещё показывать буду, это у меня, а
+
+\comment
+\ELANBegin 00:11:31.010
+\ELANEnd 00:11:39.630
+\ELANParticipant GNI
+
+\id 225
+\ev эрдэ эрэкыси, эрэк мин куӈаӈу, это
+\ru это, а это же, это моё дитя, это
+\comment
+\ELANBegin 00:11:39.630
+\ELANEnd 00:11:45.470
+\ELANParticipant GNI
+
+\id 226
+\ev Настя, гэрбэн - Наста,
+\ru Настя, зовут - Наста,
+\comment
+\ELANBegin 00:11:45.470
+\ELANEnd 00:11:48.330
+\ELANParticipant GNI
+
+\id 227
+\ev ноӈын аӈанытчан.
+\ru она сшила.
+\comment
+\ELANBegin 00:11:48.330
+\ELANEnd 00:11:50.530
+\ELANParticipant GNI
+
+\id 228
+\ev Э-э, нод. А-а.
+\ru Э-э, (красиво). А-а.
+\comment
+\ELANBegin 00:11:50.530
+\ELANEnd 00:11:53.030
+\ELANParticipant BP
+
+\id 229
+\ev Авсыкакан, эрэкыси, э-э...
+\ru Сумочка, А вот это, э-э...
+\comment
+\ELANBegin 00:11:53.000
+\ELANEnd 00:11:59.090
+\ELANParticipant GNI
+
+\id 230
+\ev - нуву аӈанчан.
+\ru - сестра сшила.
+\comment
+\ELANBegin 00:11:59.090
+\ELANEnd 00:12:01.240
+\ELANParticipant GNI
+
+\id 231
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:12:01.210
+\ELANEnd 00:12:02.820
+\ELANParticipant BP
+
+\id 232
+\ev Тарыкым бисин уӈы -
+\ru Тогда была это
+\comment
+\ELANBegin 00:12:02.800
+\ELANEnd 00:12:06.100
+\ELANParticipant GNI
+
+\id 233
+\ev аӈасчириву би элэ Иссола уӈу, э-э...
+\ru открывала я здесь в Эссо это, э-э...
+\comment
+\ELANBegin 00:12:06.100
+\ELANEnd 00:12:11.080
+\ELANParticipant GNI
+
+\id 234
+\ev мастерскую, илэккы аӈаныддеттыккы унтылбывкы.
+\ru мастерскую, где шьют обувь.
+\comment
+\ELANBegin 00:12:11.080
+\ELANEnd 00:12:17.060
+\ELANParticipant GNI
+
+\id 235
+\ev вот Тарыкым и сувенирылбы нян
+\ru вот тогда и сувениры вот
+\comment
+\ELANBegin 00:12:17.060
+\ELANEnd 00:12:20.970
+\ELANParticipant GNI
+
+\id 236
+\ev эчин аӈаныддётту эррочирбы, вот
+\ru так шили вот такие, вот
+\comment
+\ELANBegin 00:12:20.970
+\ELANEnd 00:12:25.090
+\ELANParticipant GNI
+
+\id 237
+\ev мэркэр Упкутчэву эрэк ноӈырбутэн.
+\ru сами Учила это их.
+\comment
+\ELANBegin 00:12:25.090
+\ELANEnd 00:12:29.030
+\ELANParticipant GNI
+
+\id 238
+\ev Эрэк мин внукчэму, тармы тиик эгден одинкэ (одынкэ) уже.
+\ru 
+
+\ru Это мой внучек, только сейчас большой стал уже.
+
+\comment
+\ELANBegin 00:12:29.030
+\ELANEnd 00:12:34.160
+\ELANParticipant GNI
+
+\id 239
+\ev Это ему, ноӈыӈдун бисин -
+\ru Это ему, ему было -
+\comment
+\ELANBegin 00:12:34.160
+\ELANEnd 00:12:36.140
+\ELANParticipant GNI
+
+\id 240
+\ev дюр анӈынчанни. Нян эгдемкыр.
+\ru два года. Вот большой.
+\comment
+\ELANBegin 00:12:36.140
+\ELANEnd 00:12:39.720
+\ELANParticipant GNI
+
+\id 241
+\ev Уныт адикыня (адыкыня)? э-э...
+\ru Ещё сколько же? э-э...
+\comment
+\ELANBegin 00:12:39.720
+\ELANEnd 00:12:43.990
+\ELANParticipant GNI
+
+\id 242
+\ev нюӈын, нюӈын - умын, дюр, илын, диын (дыын), тунӈын, нюӈан -
+\ru 
+
+\ru шесть, шесть - один, два, три, четыре, пять, шесть -
+
+\comment
+\ELANBegin 00:12:43.990
+\ELANEnd 00:12:47.530
+\ELANParticipant GNI
+
+\id 243
+\ev нюӈын месяцынка, аткикаын, аткикан- месяц,
+\ru шесть месяцев, месяцев, месяц
+\comment
+\ELANBegin 00:12:47.530
+\ELANEnd 00:12:54.290
+\ELANParticipant GNI
+
+\id 244
+\ev ноӈын, это самое, уӈ бисин,
+\ru он, это самое, был
+\comment
+\ELANBegin 00:12:54.290
+\ELANEnd 00:12:56.700
+\ELANParticipant GNI
+
+\id 245
+\ev тарыкым уже бубендула, унтулэ. Эчин аявыллинэ-э, потому, что э-э...
+\ru 
+
+\ru тогда уже на бубне, на бубне. Вот так полюбил, потому, что э-э...
+
+\comment
+\ELANBegin 00:12:56.700
+\ELANEnd 00:13:05.290
+\ELANParticipant GNI
+
+\id 246
+\ev как раз ноӈын Настя урлэнкы бисинкэ,
+\ru как раз он у Насти в животе был же,
+\comment
+\ELANBegin 00:13:05.300
+\ELANEnd 00:13:08.860
+\ELANParticipant GNI
+
+\id 247
+\ev Настя осэри ноӈыныч,
+\ru Настя  беременна была им,
+\comment
+\ELANBegin 00:13:08.860
+\ELANEnd 00:13:11.260
+\ELANParticipant GNI
+
+\id 248
+\ev нян тарыкым коечиддины-ы (коечиддыны-ы), бу, адикына (адыкына) ?
+\ru вот тогда смотрела-а-а, мы, сколько же?
+\comment
+\ELANBegin 00:13:11.260
+\ELANEnd 00:13:17.190
+\ELANParticipant GNI
+
+\id 249
+\ev -
+\ru
+\comment
+\ELANBegin 00:13:17.190
+\ELANEnd 00:13:20.070
+\ELANParticipant GNI
+
+\id 250
+\ev Юбилеиддивун (Юбилеиддывун) ансамбылю, нян
+\ru Юбилеи нашего ансамбля, потом
+\comment
+\ELANBegin 00:13:20.070
+\ELANEnd 00:13:23.880
+\ELANParticipant GNI
+
+\id 251
+\ev до... долчиддеттэн, кочэ, тарыкым, нян сразу, э-э...
+\ru 
+
+\ru слушал,  наверно, тогда, затем сразу, э-э...
+
+\comment
+\ELANBegin 00:13:23.880
+\ELANEnd 00:13:29.090
+\ELANParticipant GNI
+
+\id 252
+\ev тыычиддеттэн уже бубену , унтум иттиди:
+\ru сидел уже бубен, бубен увидев:
+\comment
+\ELANBegin 00:13:29.090
+\ELANEnd 00:13:35.230
+\ELANParticipant GNI
+
+\id 253
+\ev Э-э
+\ru
+\comment
+\ELANBegin 00:13:34.410
+\ELANEnd 00:13:35.230
+\ELANParticipant BP
+
+\id 254
+\ev "Дай, дай, дай!"
+\ru "Були, були, були!"
+\comment
+\ELANBegin 00:13:35.230
+\ELANEnd 00:13:37.030
+\ELANParticipant GNI
+
+\id 255
+\ev Нян гадиди (гадыди) эчин уӈыддёттэны-ы,
+\ru Затем возьмет так делает,
+\comment
+\ELANBegin 00:13:37.030
+\ELANEnd 00:13:40.230
+\ELANParticipant GNI
+
+\id 256
+\ev нян потом, умын анӈынын один (одын),
+\ru затем потом, один год стал,
+\comment
+\ELANBegin 00:13:40.230
+\ELANEnd 00:13:42.840
+\ELANParticipant GNI
+
+\id 257
+\ev нян ноӈын уӈнин (уӈнын), э-э...
+\ru потом он сделал, э-э...
+\comment
+\ELANBegin 00:13:42.840
+\ELANEnd 00:13:45.490
+\ELANParticipant GNI
+
+\id 258
+\ev полла иллин, гиркыллин эчин, энкэнин (энкэнын) бубену, нян тар 
+коплэчилыддиныш (коплэчилыддыныш).
+\ru 
+
+\ru на пол встал, пошёл так, схватил бубен, и вот заплясал.
+
+\comment
+\ELANBegin 00:13:45.490
+\ELANEnd 00:13:53.040
+\ELANParticipant GNI
+
+\id 259
+\ev Э-э
+\ru
+\comment
+\ELANBegin 00:13:53.020
+\ELANEnd 00:13:55.610
+\ELANParticipant BP
+
+\id 260
+\ev Тарыкым кучукэн бисыкын, бу уӈнэ, телевизордула эчин уӈотту, туллотту
+\ru 
+
+\ru Тогда/ когда маленькйи был, мы в это, телевизор так делали, ставили
+
+\comment
+\ELANBegin 00:13:55.600
+\ELANEnd 00:14:00.700
+\ELANParticipant GNI
+
+\id 261
+\ev тургыддивы-ы, ноӈын караӈчиддёттэн, гору-у-у караӈчиддёттэн.
+\ru 
+
+\ru танцы, он засматривался, до-олго засматривался
+
+\comment
+\ELANBegin 00:14:00.700
+\ELANEnd 00:14:06.990
+\ELANParticipant GNI
+
+\id 262
+\ev ы-ы
+\ru
+\comment
+\ELANBegin 00:14:06.970
+\ELANEnd 00:14:08.470
+\ELANParticipant BP
+
+\id 263
+\ev Нян табыч, это умын анӈынын одыкын, иллиддиттэ
+\ru И потом, это один год настал, как встал
+\comment
+\ELANBegin 00:14:08.470
+\ELANEnd 00:14:11.790
+\ELANParticipant GNI
+
+\id 264
+\ev коплэчилыддиныси (коплэчилыддыныси). Вот
+\ru затанцевал. Вот
+\comment
+\ELANBegin 00:14:11.790
+\ELANEnd 00:14:15.450
+\ELANParticipant GNI
+
+\id 265
+\ev Эбденды умыкич куӈа.
+\ru Интересный очень ребёнок.
+\comment
+\ELANBegin 00:14:15.450
+\ELANEnd 00:14:17.600
+\ELANParticipant GNI
+
+\id 266
+\ev Эрэк Настяву аӈаннин -
+\ru Это моя Настя сшила
+\comment
+\ELANBegin 00:14:17.600
+\ELANEnd 00:14:19.420
+\ELANParticipant GNI
+
+\id 267
+\ev
+\ru
+\comment о  кукля
+\ELANBegin 00:14:17.660
+\ELANEnd 00:14:24.600
+\ELANParticipant
+
+\id 268
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:14:19.430
+\ELANEnd 00:14:20.470
+\ELANParticipant BP
+
+\id 269
+\ev бэикэн
+\ru кукла
+\comment
+\ELANBegin 00:14:20.410
+\ELANEnd 00:14:21.480
+\ELANParticipant GNI
+
+\id 270
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:14:21.490
+\ELANEnd 00:14:22.450
+\ELANParticipant BP
+
+\id 271
+\ev эрэк - таӈнялкачан
+\ru это- с рогами
+\comment
+\ELANBegin 00:14:22.440
+\ELANEnd 00:14:24.610
+\ELANParticipant GNI
+
+\id 272
+\ev
+\ru
+\comment о значении рога
+\ELANBegin 00:14:24.600
+\ELANEnd 00:14:28.640
+\ELANParticipant
+
+\id 273
+\ev тармы ноӈын эчин аӈаннин,
+\ru только она так сшила,
+\comment
+\ELANBegin 00:14:24.610
+\ELANEnd 00:14:28.620
+\ELANParticipant GNI
+
+\id 274
+\ev э-э... орымӈыл.
+\ru э-э... оленеводы.
+\comment
+\ELANBegin 00:14:28.620
+\ELANEnd 00:14:30.590
+\ELANParticipant GNI
+
+\id 275
+\ev Эрэкыси бэикэн, говэттыккэ, уӈы, э-э...,
+\ru А это кукля, говорят, это, э-э...,
+\comment
+\ELANBegin 00:14:30.590
+\ELANEnd 00:14:34.690
+\ELANParticipant GNI
+
+\id 276
+\ev -
+\ru
+\comment
+\ELANBegin 00:14:34.690
+\ELANEnd 00:14:38.670
+\ELANParticipant GNI
+
+\id 277
+\ev уӈоттэн, ну,
+\ru делает, ну,
+\comment
+\ELANBegin 00:14:38.670
+\ELANEnd 00:14:41.370
+\ELANParticipant GNI
+
+\id 278
+\ev -
+\ru
+\comment
+\ELANBegin 00:14:41.370
+\ELANEnd 00:14:43.790
+\ELANParticipant GNI
+
+\id 279
+\ev яватынкына?
+\ru чего же?
+\comment
+\ELANBegin 00:14:43.790
+\ELANEnd 00:14:44.950
+\ELANParticipant GNI
+
+\id 280
+\ev Э...
+\ru Э...
+\comment
+\ELANBegin 00:14:44.950
+\ELANEnd 00:14:48.210
+\ELANParticipant GNI
+
+\id 281
+\ev "оберег" нючидич (нючидыч), "оберег" -
+\ru "оберег" по русски, "оберег" -
+\comment
+\ELANBegin 00:14:48.210
+\ELANEnd 00:14:51.810
+\ELANParticipant GNI
+
+\id 282
+\ev бэикэн, некчиддёттэ дюлавыркэ,
+\ru кукля, хранят дома же,
+\comment
+\ELANBegin 00:14:51.810
+\ELANEnd 00:14:57.350
+\ELANParticipant GNI
+
+\id 283
+\ev аӈаннин, только по своему аӈанчан.
+\ru сшила, только по своему сшила.
+\comment
+\ELANBegin 00:14:57.350
+\ELANEnd 00:15:02.500
+\ELANParticipant GNI
+
+\id 284
+\ev Илэвучиси биситэн?
+\ru Где-то были?
+\comment
+\ELANBegin 00:15:02.500
+\ELANEnd 00:15:05.950
+\ELANParticipant GNI
+
+\id 285
+\ev Эмэнивуккэ (эмэнывуккэ), эчиву? Э-э... табыч нян...
+\ru Оставила, нет? Э-э... дальше затем...
+\comment
+\ELANBegin 00:15:05.950
+\ELANEnd 00:15:10.850
+\ELANParticipant GNI
+
+\id 286
+\ev -
+\ru
+\comment
+\ELANBegin 00:15:10.850
+\ELANEnd 00:15:14.070
+\ELANParticipant GNI
+
+\id 287
+\ev Би тиик, уӈу аӈаныддаи никрымттиттэ уныт, мэндэччимыкэн, поскольку, 
+э-э...
+\ru 
+
+\ru Я теперь, это сшить буду одежду ещё, по своему, поскольку, э-э...
+
+\comment
+\ELANBegin 00:15:14.070
+\ELANEnd 00:15:21.530
+\ELANParticipant GNI
+
+\id 288
+\ev
+\ru
+\comment никрымт-титтэ (in original transcription hyphenated)
+\ELANBegin 00:15:14.070
+\ELANEnd 00:15:21.540
+\ELANParticipant
+
+\id 289
+\ev э-э... уӈ одиву (одыву), якавукына?
+\ru э-э... эта стала, кто же/ кем же?
+\comment
+\ELANBegin 00:15:21.530
+\ELANEnd 00:15:25.450
+\ELANParticipant GNI
+
+\id 290
+\ev как?
+\ru как?
+\comment
+\ELANBegin 00:15:25.430
+\ELANEnd 00:15:25.750
+\ELANParticipant BP
+
+\id 291
+\ev Член Союза художников, Россияла. мэнкэн тиик би
+\ru 
+
+\ru Член Союза художников, России. сама теперь я
+
+\comment
+\ELANBegin 00:15:25.770
+\ELANEnd 00:15:30.640
+\ELANParticipant GNI
+
+\id 292
+\ev выдумываиддеттым,
+\ru выдумываю
+\comment
+\ELANBegin 00:15:30.640
+\ELANEnd 00:15:32.070
+\ELANParticipant GNI
+
+\id 293
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:15:32.060
+\ELANEnd 00:15:32.750
+\ELANParticipant BP
+
+\id 294
+\ev выдумыва..., мэнкэн мэргэччоттым яв аӈаныддим.
+\ru 
+
+\ru выдумыва..., сама выдумываю/ мыслю. чего сошью.
+
+\comment
+\ELANBegin 00:15:32.750
+\ELANEnd 00:15:36.640
+\ELANParticipant GNI
+
+\id 295
+\ev Ы-ы
+\ru
+\comment
+\ELANBegin 00:15:36.630
+\ELANEnd 00:15:38.050
+\ELANParticipant BP
+
+\id 296
+\ev Эрэк мин уӈыӈылбу -
+\ru Это мои эти -
+\comment
+\ELANBegin 00:15:38.010
+\ELANEnd 00:15:41.720
+\ELANParticipant GNI
+
+\id 297
+\ev онякатчаву гекив,
+\ru писания всякие,
+\comment
+\ELANBegin 00:15:41.720
+\ELANEnd 00:15:46.620
+\ELANParticipant GNI
+
+\id 298
+\ev Эрэктулэ гадетала би уӈ бисиву -
+\ru В этой гадете я это была -
+\comment
+\ELANBegin 00:15:46.620
+\ELANEnd 00:15:51.850
+\ELANParticipant GNI
+
+\id 299
+\ev Э-э
+\ru
+\comment
+\ELANBegin 00:15:51.850
+\ELANEnd 00:15:52.780
+\ELANParticipant BP
+
+\id 300
+\ev внештатный корреспондентэ,  нян переводчик,
+\ru 
+
+\ru внештатный корреспондентэ, затем переводчиком,
+
+\comment
+\ELANBegin 00:15:52.760
+\ELANEnd 00:15:56.610
+\ELANParticipant GNI
+
+\id 301
+\ev А-а
+\ru
+\comment
+\ELANBegin 00:15:56.590
+\ELANEnd 00:15:58.240
+\ELANParticipant BP
+
+\id 302
+\ev вот, онячаву элэ, э-э...
+\ru вот, писала здесь, э-э...
+\comment
+\ELANBegin 00:15:58.210
+\ELANEnd 00:16:01.650
+\ELANParticipant GNI
+
+\id 303
+\ev нян элэ би уӈниву, оняриву
+\ru здесь я делала, писала
+\comment
+\ELANBegin 00:16:01.650
+\ELANEnd 00:16:06.890
+\ELANParticipant GNI
+
+\id 304
+\ev то есть, уӈниву
+\ru то есть, делала
+\comment
+\ELANBegin 00:16:06.890
+\ELANEnd 00:16:11.430
+\ELANParticipant GNI
+
+\id 305
+\ev орыттич оняриву.
+\ru по эвенски писала.
+\comment
+\ELANBegin 00:16:11.430
+\ELANEnd 00:16:14.590
+\ELANParticipant GNI
+
+\id 306
+\ev Майя Петровна Ломовцева
+\ru Майя Петровна Ломовцева
+\comment
+\ELANBegin 00:16:14.590
+\ELANEnd 00:16:17.990
+\ELANParticipant GNI
+
+\id 307
+\ev икэм уӈнин, онярин, нян би эру.
+\ru песню сделала, написала, потом я эму.
+\comment
+\ELANBegin 00:16:17.990
+\ELANEnd 00:16:23.610
+\ELANParticipant GNI
+
+\id 308
+\ev тоже могу икэнысындэи ноӈман, Бу дюридюр тарав уӈнивун.
+\ru 
+
+\ru тоже могу петь её, мы вдвоём это сделали.
+
+\comment
+\ELANBegin 00:16:23.610
+\ELANEnd 00:16:30.540
+\ELANParticipant GNI
+
+\id 309
+\ev -
+\ru
+\comment
+\ELANBegin 00:16:30.540
+\ELANEnd 00:16:33.100
+\ELANParticipant GNI
+
+\id 310
+\ev нян...
+\ru
+\comment
+\ELANBegin 00:16:33.100
+\ELANEnd 00:16:33.810
+\ELANParticipant GNI
+
+\id 311
+\ev
+\ru
+\comment (coughing)
+\ELANBegin 00:16:33.800
+\ELANEnd 00:16:38.520
+\ELANParticipant
+
+\id 312
+\ev
+\ru
+\comment (drumming)
+\ELANBegin 00:16:38.520
+\ELANEnd 00:16:43.460
+\ELANParticipant
+
+\id 313
+\ev Мину уркэр этэр эечиллэ,
+\ru В меня парни не залюбуются,
+\comment
+\ELANBegin 00:16:43.460
+\ELANEnd 00:16:46.260
+\ELANParticipant GNI
+
+\id 314
+\ev Уксичан улидун ичимкэчиддиву (ичимкэчиддыву).
+\ru У Уксичана берегу зеркалилась.
+\comment
+\ELANBegin 00:16:46.260
+\ELANEnd 00:16:49.780
+\ELANParticipant GNI
+
+\id 315
+\ev Ою кэнели, ою кэнели
+\ru моя одежда плохая, одежда плохая
+\comment
+\ELANBegin 00:16:49.780
+\ELANEnd 00:16:54.400
+\ELANParticipant GNI
+
+\id 316
+\ev Ою кэнели, ою кэнели
+\ru одежда плохая, одежда плохая
+\comment
+\ELANBegin 00:16:54.400
+\ELANEnd 00:16:58.650
+\ELANParticipant GNI
+
+\id 317
+\ev Айя! Айя! Айя-я!
+\ru Хорошая! Хорошая! Хорошая!
+\comment
+\ELANBegin 00:16:58.650
+\ELANEnd 00:17:01.640
+\ELANParticipant GNI
+
+\id 318
+\ev Айя! Айя! Айя-я!
+\ru Хорошая! Хорошая! Хорошая!
+\comment
+\ELANBegin 00:17:01.640
+\ELANEnd 00:17:07.110
+\ELANParticipant GNI
+
+\id 319
+\ev Табыч гиркыддыкун, Асаткар керимаччоттэ,
+\ru Когда мы шли, девушки искоса смотрели,
+\comment
+\ELANBegin 00:17:07.110
+\ELANEnd 00:17:11.240
+\ELANParticipant GNI
+
+\id 320
+\ev Гэрбуччоттэ ноӈырмынтыкан нодыл.
+\ru Думают они только красивые.
+\comment
+\ELANBegin 00:17:11.240
+\ELANEnd 00:17:14.800
+\ELANParticipant GNI
+
+\id 321
+\ev Ою кэнели, ою кэнели
+\ru одежда плохая, одежда плохая
+\comment
+\ELANBegin 00:17:14.800
+\ELANEnd 00:17:18.600
+\ELANParticipant GNI
+
+\id 322
+\ev Ою кэнели, ою кэнели
+\ru одежда плохая, одежда плохая
+\comment
+\ELANBegin 00:17:18.600
+\ELANEnd 00:17:22.670
+\ELANParticipant GNI
+
+\id 323
+\ev Эсни! -Нодэ!
+\ru Нет! -Красивая!
+\comment
+\ELANBegin 00:17:22.680
+\ELANEnd 00:17:24.270
+\ELANParticipant GNI
+
+\id 324
+\ev Туракичин дикыӈчиникэр (дыкыӈчиныкэр),
+\ru Как вороны прячась
+\comment
+\ELANBegin 00:17:24.270
+\ELANEnd 00:17:28.260
+\ELANParticipant GNI
+
+\id 325
+\ev Уркэчеекэрбы ипкычиднассивун.
+\ru За парнями следили.
+\comment
+\ELANBegin 00:17:28.260
+\ELANEnd 00:17:32.110
+\ELANParticipant GNI
+
+\id 326
+\ev Ирьелэ?
+\ru Где?
+\comment
+\ELANBegin 00:17:32.110
+\ELANEnd 00:17:33.360
+\ELANParticipant GNI
+
+\id 327
+\ev Тарьяла!
+\ru Вон там!
+\comment
+\ELANBegin 00:17:33.360
+\ELANEnd 00:17:34.810
+\ELANParticipant GNI
+
+\id 328
+\ev Ою кэнели, ою кэнели
+\ru одежда плохая, одежда плохая
+\comment
+\ELANBegin 00:17:34.810
+\ELANEnd 00:17:38.600
+\ELANParticipant GNI
+
+\id 329
+\ev Ою кэнели, ою кэнели
+\ru одежда плохая, одежда плохая
+\comment
+\ELANBegin 00:17:38.600
+\ELANEnd 00:17:43.120
+\ELANParticipant GNI
+
+\id 330
+\ev Ноӈын эчин эрэв икэв орин.
+\ru Она так эту песню построила.
+\comment
+\ELANBegin 00:17:43.120
+\ELANEnd 00:17:46.040
+\ELANParticipant GNI
+
+\id 331
+\ev А-э
+\ru
+\comment
+\ELANBegin 00:17:46.010
+\ELANEnd 00:17:49.650
+\ELANParticipant BP
+
+\id 332
+\ev Унтун?
+\ru Бубен?
+\comment
+\ELANBegin 00:17:49.630
+\ELANEnd 00:17:51.660
+\ELANParticipant GNI
+
+\id 333
+\ev
+\ru
+\comment
+\ELANBegin 00:17:51.660
+\ELANEnd 00:17:57.740
+\ELANParticipant GNI
+
+\id 334
+\ev
+\ru 
+
+\ru А, без бубнов вы могли бы ещё раз спеть. Ато вас, ваш голос не слышен.
+
+\comment
+\ELANBegin 00:17:51.660
+\ELANEnd 00:17:57.740
+\ELANParticipant BP
+
+\id 335
+\ev А-а-а, иӈэ, И-и-и.
+\ru А-а-а, да, да-а.
+\comment
+\ELANBegin 00:17:57.740
+\ELANEnd 00:17:59.380
+\ELANParticipant GNI
+
+\id 336
+\ev Аич умыкич!
+\ru Хорошо очень!
+\comment
+\ELANBegin 00:17:59.380
+\ELANEnd 00:18:02.120
+\ELANParticipant BP
+
+\id 337
+\ev Тармэ...
+\ru Только...
+\comment
+\ELANBegin 00:18:02.120
+\ELANEnd 00:18:03.440
+\ELANParticipant BP
+
+\id 338
+\ev Тикыт...
+\ru Сейчас...
+\comment
+\ELANBegin 00:18:03.070
+\ELANEnd 00:18:04.610
+\ELANParticipant GNI
+
+\id 339
+\ev -
+\ru
+\comment
+\ELANBegin 00:18:04.610
+\ELANEnd 00:18:13.010
+\ELANParticipant GNI
+
+\id 340
+\ev Мину уркэр эмэр эечиллэ,
+\ru В меня парни не залюбуются,
+\comment
+\ELANBegin 00:18:13.010
+\ELANEnd 00:18:16.430
+\ELANParticipant GNI
+
+\id 341
+\ev Уксичан улидун ичимкэчиддиву.
+\ru У Уксичана берещ зеркалилась.
+\comment
+\ELANBegin 00:18:16.430
+\ELANEnd 00:18:19.840
+\ELANParticipant GNI
+
+\id 342
+\ev Ою кэнели, ою кэнели.
+\ru одежда плохая, одежда плохая
+\comment
+\ELANBegin 00:18:19.840
+\ELANEnd 00:18:23.960
+\ELANParticipant GNI
+
+\id 343
+\ev Ою кэнели, ою кэнели.
+\ru одежда плохая, одежда плохая
+\comment
+\ELANBegin 00:18:23.960
+\ELANEnd 00:18:28.060
+\ELANParticipant GNI
+
+\id 344
+\ev Табыч гиркыддыку Асаткар кэримаччоттэ,
+\ru Когда мы шли девушки искоса смотрели,
+\comment
+\ELANBegin 00:18:28.060
+\ELANEnd 00:18:32.580
+\ELANParticipant GNI
+
+\id 345
+\ev гербуччоттэ ноӈыртынтыкан нодыл
+\ru думают они только красивые
+\comment
+\ELANBegin 00:18:32.580
+\ELANEnd 00:18:35.670
+\ELANParticipant GNI
+
+\id 346
+\ev Ою кэнели, ою кэнели. Ою кэнели, ою кэнели.
+\ru 
+
+\ru Одежда плохая, одежда плохая. Одежда плохая, одежда плохая.
+
+\comment
+\ELANBegin 00:18:35.670
+\ELANEnd 00:18:43.390
+\ELANParticipant GNI
+
+\id 347
+\ev Мину уркэр эмэр эечиллэ...
+\ru В меня парни не залюбуются,
+\comment
+\ELANBegin 00:18:43.390
+\ELANEnd 00:18:47.350
+\ELANParticipant GNI
+
+\id 348
+\ev Окрэкэе дулкакындун,
+\ru На помене по средине,
+\comment
+\ELANBegin 00:18:47.350
+\ELANEnd 00:18:51.180
+\ELANParticipant GNI
+
+\id 349
+\ev туракичин ипкычиднассивун.
+\ru воронами следили.
+\comment
+\ELANBegin 00:18:51.180
+\ELANEnd 00:18:54.410
+\ELANParticipant GNI
+
+\id 350
+\ev Ою кэнели, ою кэнели. Ою кэнели, ою кэнели.
+\ru 
+
+\ru Одежда плохая, одежда плохая. Одежда плохая, одежда плохая.
+
+\comment
+\ELANBegin 00:18:54.410
+\ELANEnd 00:19:02.020
+\ELANParticipant GNI
+
+\id 351
+\ev Дикыӈчиникэн (дыкыӈчиникэн) туракичиы,
+\ru Прячась воронами,
+\comment
+\ELANBegin 00:19:02.020
+\ELANEnd 00:19:05.020
+\ELANParticipant GNI
+
+\id 352
+\ev уркэчэекэрбы ипкычиднассивун.
+\ru за парнями следили
+\comment
+\ELANBegin 00:19:05.020
+\ELANEnd 00:19:08.740
+\ELANParticipant GNI
+
+\id 353
+\ev Ирьелэ? Тарияла?
+\ru Где? Там вон.
+\comment
+\ELANBegin 00:19:08.740
+\ELANEnd 00:19:11.340
+\ELANParticipant GNI
+
+\id 354
+\ev Ою кэнели, ою кэнели. Ою кэнели, ою кэнели.
+\ru 
+
+\ru Одежда плохая, одежда плохая. Одежда плохая, одежда плохая.
+
+\comment
+\ELANBegin 00:19:11.340
+\ELANEnd 00:19:19.220
+\ELANParticipant GNI
+
+\id 355
+\ev Эчин нян умыкич Майя Петровна эрэк тэлыӈыддын, онкына?
+\ru 
+
+\ru Так так очень Майя Петровна это рассказывала, как же?
+
+\comment
+\ELANBegin 00:19:19.220
+\ELANEnd 00:19:25.060
+\ELANParticipant GNI
+
+\id 356
+\ev дюр асаткар, тарыкым бу уныт асаткар бисивун,
+\ru 
+
+\ru двое девушек, тогда мы ещё девушками были,
+
+\comment
+\ELANBegin 00:19:25.060
+\ELANEnd 00:19:30.030
+\ELANParticipant GNI
+
+\id 357
+\ev носэчен бисивун, нодыл бисивун,
+\ru молодыми были, красивые были,
+\comment
+\ELANBegin 00:19:30.030
+\ELANEnd 00:19:33.080
+\ELANParticipant GNI
+
+\id 358
+\ev нян эрэв коплэчилдивӈэвыр уӈнивун, оривун.
+\ru затем этом танец сделали, построили.
+\comment
+\ELANBegin 00:19:33.080
+\ELANEnd 00:19:36.870
+\ELANParticipant GNI
+
+\id 359
+\ev Ноӈыныси эрэв икэвдэ орин,
+\ru Она же эту песню построила,
+\comment
+\ELANBegin 00:19:36.870
+\ELANEnd 00:19:39.220
+\ELANParticipant GNI
+
+\id 360
+\ev Ноӈын говэт...
+\ru Она  говор...
+\comment
+\ELANBegin 00:19:39.220
+\ELANEnd 00:19:40.500
+\ELANParticipant GNI
+
+\id 361
+\ev Эрэк говэттын, онкына? Э-э ... э...
+\ru Это говорила, как же? Э-э... э...
+\comment
+\ELANBegin 00:19:40.500
+\ELANEnd 00:19:47.570
+\ELANParticipant GNI
+
+\id 362
+\ev Да, айдитта, гэрбуччоттэ ноӈыртыныси мастерицалы-ы умыкич . Эрэк 
+асал, асаткар говэ... тэлыӈыдду,
+\ru Да, правда, думают они только мастерица вообще, прямо. Эти женищины, 
+девушки гово... рассказываем,
+\comment
+\ELANBegin 00:19:47.570
+\ELANEnd 00:19:55.040
+\ELANParticipant GNI
+
+\id 363
+\ev а аваил бису аӈандавыр, тармы нюмырисчиватттыда.
+\ru 
+
+\ru а мастерицы есть шить только стесняются.
+
+\comment
+\ELANBegin 00:19:55.040
+\ELANEnd 00:20:00.140
+\ELANParticipant GNI
+
+\id 364
+\ev Тэтоттэ нодыч умыкич,
+\ru Оденутся красиво очень,
+\comment
+\ELANBegin 00:20:00.140
+\ELANEnd 00:20:01.610
+\ELANParticipant GNI
+
+\id 365
+\ev нян говэтты:
+\ru потом говорят:
+\comment
+\ELANBegin 00:20:01.610
+\ELANEnd 00:20:02.870
+\ELANParticipant GNI
+
+\id 366
+\ev "Коч гэрбуччир это, кэнелич.
+\ru "Наверно, нодумают это, плохо.
+\comment
+\ELANBegin 00:20:02.870
+\ELANEnd 00:20:06.380
+\ELANParticipant GNI
+
+\id 367
+\ev Нодмые! Курындэ тачин гиркывач... (нодэч аӈанмидиот ) гиркывач...
+\ru Нет, красиво! Нарочно так когда ходил...
+\comment
+\ELANBegin 00:20:06.380
+\ELANEnd 00:20:11.100
+\ELANParticipant GNI
+
+\id 368
+\ev "кэнелич, коч гундир, нян эснэ-э - нодэ-э, нод оилбун, "
+\ru 
+
+\ru " плохо, наверно скажут затем неет - красиво, красивоые одежда"
+
+\comment
+\ELANBegin 00:20:11.100
+\ELANEnd 00:20:15.190
+\ELANParticipant GNI
+
+\id 369
+\ev Про себе говэтты: "Урэчилтэ айя!" Вот, а... это курындэ говэтты:
+\ru 
+
+\ru Про себе говорят: "Все равно хорошо" Вот а... это нарочно говорят:
+
+\comment
+\ELANBegin 00:20:15.190
+\ELANEnd 00:20:19.680
+\ELANParticipant GNI
+
+\id 370
+\ev это курындэ говетты: "кэнели, кэнели ойчарбунбыди,
+\ru 
+
+\ru это нарочно говорят: "плохие, плохие одежды,
+
+\comment
+\ELANBegin 00:20:19.680
+\ELANEnd 00:20:25.030
+\ELANParticipant GNI
+
+\id 371
+\ev а мэркэрыси: "эсни - нодэ, айя, айя! А-а-а...
+\ru 
+
+\ru а сами: "нет - красиво, хорошо, хорошо! А-а-а...
+
+\comment
+\ELANBegin 00:20:25.030
+\ELANEnd 00:20:29.040
+\ELANParticipant GNI
+
+\id 372
+\ev Нян табыч это тарыкым, э-э...
+\ru Затем это тогда, э-э...
+\comment
+\ELANBegin 00:20:29.040
+\ELANEnd 00:20:35.390
+\ELANParticipant GNI
+
+\id 373
+\ev -
+\ru
+\comment
+\ELANBegin 00:20:35.390
+\ELANEnd 00:20:38.980
+\ELANParticipant GNI
+
+\id 374
+\ev би оняриву, мелодиян бисин октябрина Венидиктовна Черканова.
+\ru 
+
+\ru я написала, мелодия была октябрины Венидиктовны Черкановой.
+
+\comment
+\ELANBegin 00:20:38.980
+\ELANEnd 00:20:45.100
+\ELANParticipant GNI
+
+\id 375
+\ev - Зарян, Гяван, Гяван -икэн.
+\ru - Заря, Заря, Заря - песня.
+\comment
+\ELANBegin 00:20:45.100
+\ELANEnd 00:20:48.830
+\ELANParticipant GNI
+
+\id 376
+\ev Би оняриву эрэ.. это,
+\ru Я написала эту... это,
+\comment
+\ELANBegin 00:20:48.830
+\ELANEnd 00:20:52.400
+\ELANParticipant GNI
+
+\id 377
+\ev тиккэ туркудим, коч икэӈэ, после гринна билгыву уныт эч уӈны...
+\ru сейчас не смочу, наверное, спеть, после гринна горло мыё ещё не 
+сделалось...
+\comment
+\ELANBegin 00:20:52.400
+\ELANEnd 00:20:59.640
+\ELANParticipant GNI
+
+\id 378
+\ev Вот... Би орыттич таӈдим тарав онячаи... э-э... айдит?
+\ru 
+
+\ru Вот... Я по эвенски почитаю это моё писание... э-э... Согласны?
+
+\comment
+\ELANBegin 00:20:59.640
+\ELANEnd 00:21:05.340
+\ELANParticipant GNI
+
+\id 379
+\ev ы-ы
+\ru
+\comment
+\ELANBegin 00:21:05.320
+\ELANEnd 00:21:06.060
+\ELANParticipant BP
+
+\id 380
+\ev Асаткан - Гяван - "Девушка Заря" (по русски)
+\ru Девушка - Заря - "Девушка Заря"
+\comment
+\ELANBegin 00:21:06.050
+\ELANEnd 00:21:10.880
+\ELANParticipant GNI
+
+\id 381
+\ev Коетли, Гяван эмнэн,
+\ru Посмотри, заря пришла,
+\comment
+\ELANBegin 00:21:10.880
+\ELANEnd 00:21:13.650
+\ELANParticipant GNI
+
+\id 382
+\ev ноткакан Гяван эмнэн,
+\ru красивая Заря пришла,
+\comment
+\ELANBegin 00:21:13.650
+\ELANEnd 00:21:16.850
+\ELANParticipant GNI
+
+\id 383
+\ev ноткакан асаткакан.
+\ru красивая девушка.
+\comment
+\ELANBegin 00:21:16.850
+\ELANEnd 00:21:20.010
+\ELANParticipant GNI
+
+\id 384
+\ev Коечисли минтыки минӈи нодыӈу асаткаӈу,
+\ru посмотри на меня моя красивая девушка,
+\comment
+\ELANBegin 00:21:20.010
+\ELANEnd 00:21:25.910
+\ELANParticipant GNI
+
+\id 385
+\ev Би ину, ину аяврым!
+\ru Я тебе, тебе люблю!
+\comment
+\ELANBegin 00:21:25.910
+\ELANEnd 00:21:29.660
+\ELANParticipant GNI
+
+\id 386
+\ev Иниву (иныву) мин ӈэриллэн,
+\ru жизнь моя просветлела,
+\comment
+\ELANBegin 00:21:29.660
+\ELANEnd 00:21:33.510
+\ELANParticipant GNI
+
+\id 387
+\ev ин эмныкыс, Гяван,
+\ru ты пришла, Заря,
+\comment
+\ELANBegin 00:21:33.510
+\ELANEnd 00:21:35.540
+\ELANParticipant GNI
+
+\id 388
+\ev умниӈу (умныӈу) асаткаӈу,
+\ru единственная девушка моя,
+\comment
+\ELANBegin 00:21:35.540
+\ELANEnd 00:21:37.700
+\ELANParticipant GNI
+
+\id 389
+\ev Би ину, ину аяврым!
+\ru Я тебе, тебе люблю!
+\comment
+\ELANBegin 00:21:37.700
+\ELANEnd 00:21:40.940
+\ELANParticipant GNI
+
+\id 390
+\ev Няниндила ӈэриснэн,
+\ru На  небе осветлело,
+\comment
+\ELANBegin 00:21:40.940
+\ELANEnd 00:21:43.630
+\ELANParticipant GNI
+
+\id 391
+\ev тоорыӈчанти нямыллэн,
+\ru земля потеплела,
+\comment
+\ELANBegin 00:21:43.630
+\ELANEnd 00:21:46.510
+\ELANParticipant GNI
+
+\id 392
+\ev икэндукус, Гяван,
+\ru от песни твоей, Заря,
+\comment
+\ELANBegin 00:21:46.510
+\ELANEnd 00:21:48.720
+\ELANParticipant GNI
+
+\id 393
+\ev Геки нёчэ тоорыӈнэт
+\ru всякие цветы на нашей земле
+\comment
+\ELANBegin 00:21:48.720
+\ELANEnd 00:21:52.260
+\ELANParticipant GNI
+
+\id 394
+\ev окыӈчиллэн, нургыллэн
+\ru радуются, танцуют
+\comment
+\ELANBegin 00:21:52.260
+\ELANEnd 00:21:54.590
+\ELANParticipant GNI
+
+\id 395
+\ev ин эмныкыс, Гяван,
+\ru ты пришла, заря
+\comment
+\ELANBegin 00:21:54.590
+\ELANEnd 00:21:56.600
+\ELANParticipant GNI
+
+\id 396
+\ev нодыӈу асаткаӈу,
+\ru красивая девушка мое,
+\comment
+\ELANBegin 00:21:56.600
+\ELANEnd 00:21:59.000
+\ELANParticipant GNI
+
+\id 397
+\ev умниву (умныву) мин Гевану.
+\ru единственная моя Заря.
+\comment
+\ELANBegin 00:21:59.000
+\ELANEnd 00:22:01.150
+\ELANParticipant GNI
+
+\id 398
+\ev Би ину, ину аяврым!
+\ru Я тебе, тебе люблю!
+\comment
+\ELANBegin 00:22:01.150
+\ELANEnd 00:22:03.600
+\ELANParticipant GNI
+
+\id 399
+\ev энтэкэе аяврым!
+\ru сильно/ крепко люблю!
+\comment
+\ELANBegin 00:22:03.600
+\ELANEnd 00:22:05.400
+\ELANParticipant GNI
+
+\id 400
+\ev -
+\ru
+\comment
+\ELANBegin 00:22:05.400
+\ELANEnd 00:22:07.710
+\ELANParticipant GNI
+
+\id 401
+\ev Унус?
+\ru Гоняли?
+\comment
+\ELANBegin 00:22:07.710
+\ELANEnd 00:22:08.520
+\ELANParticipant GNI
+
+\id 402
+\ev Ы-ы
+\ru да
+\comment
+\ELANBegin 00:22:08.510
+\ELANEnd 00:22:09.410
+\ELANParticipant BP
+
+\id 403
+\ev ы-ы
+\ru да
+\comment
+\ELANBegin 00:22:09.380
+\ELANEnd 00:22:11.170
+\ELANParticipant GNI
+
+\id 404
+\ev Табыч, уныт эрэ тоже ...
+\ru затем, ещё вот тоже...
+\comment
+\ELANBegin 00:22:11.170
+\ELANEnd 00:22:15.090
+\ELANParticipant GNI
+
+\id 405
+\ev
+\ru
+\comment -
+\ELANBegin 00:22:15.080
+\ELANEnd 00:22:17.020
+\ELANParticipant
+
+\id 406
+\ev эм... мин эньму энинни (энинны)-
+\ru эм... моей мамы мама
+\comment
+\ELANBegin 00:22:17.020
+\ELANEnd 00:22:22.010
+\ELANParticipant GNI
+
+\id 407
+\ev - икэвэн,
+\ru - её песня,
+\comment
+\ELANBegin 00:22:22.010
+\ELANEnd 00:22:23.280
+\ELANParticipant GNI
+
+\id 408
+\ev
+\ru
+\comment -
+\ELANBegin 00:22:23.270
+\ELANEnd 00:22:24.830
+\ELANParticipant
+
+\id 409
+\ev няя... няя.. няяч..., няяван
+\ru мело... мело... мелод... мелодия её
+\comment
+\ELANBegin 00:22:24.820
+\ELANEnd 00:22:28.020
+\ELANParticipant GNI
+
+\id 410
+\ev - би овканиву икэныч,
+\ru я построила песню.
+\comment
+\ELANBegin 00:22:28.020
+\ELANEnd 00:22:30.890
+\ELANParticipant GNI
+
+\id 411
+\ev
+\ru
+\comment -
+\ELANBegin 00:22:30.880
+\ELANEnd 00:22:33.110
+\ELANParticipant
+
+\id 412
+\ev оняриву...
+\ru написала...
+\comment
+\ELANBegin 00:22:33.060
+\ELANEnd 00:22:34.180
+\ELANParticipant GNI
+
+\id 413
+\ev э-э-э... торэлдивмэн.
+\ru э-э-э... слова к ней.
+\comment
+\ELANBegin 00:22:34.180
+\ELANEnd 00:22:38.420
+\ELANParticipant GNI
+
+\id 414
+\ev Явы, это, тоже оняриву, эрэк, эрэк - икэвэттымы-ы-ы,
+\ru Чего, это тоже написала, это, это  пою-ю,
+\comment
+\ELANBegin 00:22:38.420
+\ELANEnd 00:22:43.840
+\ELANParticipant GNI
+
+\id 415
+\ev аяввоттэ тоже орачил эрэв,
+\ru любет тоже эвены эту.
+\comment
+\ELANBegin 00:22:43.840
+\ELANEnd 00:22:47.020
+\ELANParticipant GNI
+
+\id 416
+\ev
+\ru
+\comment -
+\ELANBegin 00:22:47.020
+\ELANEnd 00:22:48.230
+\ELANParticipant
+
+\id 417
+\ev эдэнэ, эдэнэ!
+\ru ветер, ветер!
+\comment
+\ELANBegin 00:22:48.250
+\ELANEnd 00:22:49.630
+\ELANParticipant GNI
+
+\id 418
+\ev Танмарив дэвусымкэлэ!
+\ru Туман разгони
+\comment
+\ELANBegin 00:22:49.630
+\ELANEnd 00:22:51.610
+\ELANParticipant GNI
+
+\id 419
+\ev Усиди (усиди) инив (иныв) ичусындэнэ,
+\ru Древняя жизнь пусть покажется,
+\comment
+\ELANBegin 00:22:51.610
+\ELANEnd 00:22:54.140
+\ELANParticipant GNI
+
+\id 420
+\ev Ичусындэнэ.
+\ru пусть покажется.
+\comment
+\ELANBegin 00:22:54.140
+\ELANEnd 00:22:55.460
+\ELANParticipant GNI
+
+\id 421
+\ev Алӈэиӈындяву гилталысындан мявындулаву нямысындан,
+\ru 
+
+\ru Алӈэй мой чтоб заблестел на сердце потеплело
+
+\comment
+\ELANBegin 00:22:55.460
+\ELANEnd 00:23:00.770
+\ELANParticipant GNI
+
+\id 422
+\ev орыч-ади торэвэн долчисындаку,
+\ru эвена старого говор послушать,
+\comment
+\ELANBegin 00:23:00.770
+\ELANEnd 00:23:03.940
+\ELANParticipant GNI
+
+\id 423
+\ev орыч нургымэн ичисындаку...
+\ru эвена танец увидеть...
+\comment
+\ELANBegin 00:23:03.940
+\ELANEnd 00:23:07.270
+\ELANParticipant GNI
+
+\id 424
+\ev Титэл эниӈакэкэн учикындядии (учикындядыи), таӈнялкаындядии 
+(таӈнялкаындядыи)
+\ru 
+
+\ru Давно бабушка на своем смирном олене, рогаетем
+
+\comment
+\ELANBegin 00:23:07.270
+\ELANEnd 00:23:14.350
+\ELANParticipant GNI
+
+\id 425
+\ev
+\ru
+\comment not sure about the translation roga... ?
+\ELANBegin 00:23:07.270
+\ELANEnd 00:23:14.360
+\ELANParticipant
+
+\id 426
+\ev Алӈэиӈындяи оатандяван алиӈчиддёттынэ,
+\ru У Алнея подножые обьезжала
+\comment
+\ELANBegin 00:23:14.350
+\ELANEnd 00:23:18.240
+\ELANParticipant GNI
+
+\id 427
+\ev Икэчэми тэеликли ӈэнудюкэвэттынэ,
+\ru Песню свою далеко носила
+\comment
+\ELANBegin 00:23:18.240
+\ELANEnd 00:23:22.230
+\ELANParticipant GNI
+
+\id 428
+\ev Алӈэиӈындяи эрэлипкин курукэндюкэвэттынэ
+\ru У Алӈэя кругом гремела
+\comment
+\ELANBegin 00:23:22.230
+\ELANEnd 00:23:26.600
+\ELANParticipant GNI
+
+\id 429
+\ev Тээликли улдыдюкаваттэн.
+\ru Далеко эхом уносилась
+\comment
+\ELANBegin 00:23:26.600
+\ELANEnd 00:23:29.780
+\ELANParticipant GNI
+
+\id 430
+\ev
+\ru
+\comment -
+\ELANBegin 00:23:29.760
+\ELANEnd 00:23:31.630
+\ELANParticipant
+
+\id 431
+\ev Эрэк ноӈын, это...
+\ru Это она, это...
+\comment
+\ELANBegin 00:23:31.610
+\ELANEnd 00:23:33.880
+\ELANParticipant GNI
+
+\id 432
+\ev Аявыс икэсындим, икэдим?
+\ru Нравится спою, спою?
+\comment
+\ELANBegin 00:23:33.880
+\ELANEnd 00:23:37.260
+\ELANParticipant GNI
+
+\id 433
+\ev а-а-а
+\ru
+\comment
+\ELANBegin 00:23:37.250
+\ELANEnd 00:23:38.620
+\ELANParticipant BP
+
+\id 434
+\ev Тэлыӈниву тиик онярысын орыттич, тиик эрэв би икэму уӈысындэку.
+\ru мой рассказ сейчас записали по эвенски, сейчас эту я песню сделою 
+(спою).
+\comment
+\ELANBegin 00:23:38.610
+\ELANEnd 00:23:45.160
+\ELANParticipant GNI
+
+\id 435
+\ev
+\ru
+\comment (drumming)
+\ELANBegin 00:23:45.120
+\ELANEnd 00:23:46.010
+\ELANParticipant
+
+\id 436
+\ev Алӈэй гэрбын эрэк, эрэк... э-э-э
+\ru Алӈэй называется это, это... э-э-э
+\comment
+\ELANBegin 00:23:45.990
+\ELANEnd 00:23:49.750
+\ELANParticipant GNI
+
+\id 437
+\ev пробабушкаву мин, это
+\ru пробабушкиня моей, это
+\comment
+\ELANBegin 00:23:49.750
+\ELANEnd 00:23:52.680
+\ELANParticipant GNI
+
+\id 438
+\ev не пробабушкаву, бабушкаву, эниӈэву бичэ, ноӈын нёмэрин
+\ru 
+
+\ru не пробабушккине, бабушкина, бабушкина была, она умерла
+
+\comment
+\ELANBegin 00:23:52.680
+\ELANEnd 00:23:58.340
+\ELANParticipant GNI
+
+\id 439
+\ev мин анӈыну оди...  (оды... ) ну, чуть моложе, би тиик бисем, эчиву 
+окта би ноӈман иттэ, тэми.
+\ru в мои, мои годы стали... ну, чуть моложе, я сейчас есть, никогла я её 
+не видела, поэтому.
+\comment
+\ELANBegin 00:23:58.340
+\ELANEnd 00:24:08.080
+\ELANParticipant GNI
+
+\id 440
+\ev Эрэ-э-э!
+\ru Вот!
+\comment
+\ELANBegin 00:24:08.080
+\ELANEnd 00:24:22.860
+\ELANParticipant GNI
+
+\id 441
+\ev Эрэ-э-э!
+\ru Вот!
+\comment
+\ELANBegin 00:24:22.870
+\ELANEnd 00:24:30.260
+\ELANParticipant GNI
+
+\id 442
+\ev Эрэ-э-э!
+\ru Вот!
+\comment
+\ELANBegin 00:24:30.260
+\ELANEnd 00:24:34.550
+\ELANParticipant GNI
+
+\id 443
+\ev
+\ru
+\comment (Drumming)
+\ELANBegin 00:24:34.540
+\ELANEnd 00:24:37.480
+\ELANParticipant
+
+\id 444
+\ev А-а-а-а!
+\ru
+\comment
+\ELANBegin 00:24:37.480
+\ELANEnd 00:24:46.120
+\ELANParticipant GNI
+
+\id 445
+\ev Эрэ-э-э!
+\ru Вот!
+\comment
+\ELANBegin 00:24:46.120
+\ELANEnd 00:24:50.970
+\ELANParticipant GNI
+
+\id 446
+\ev Эрэ-э-э!
+\ru Вот!
+\comment
+\ELANBegin 00:24:50.970
+\ELANEnd 00:24:54.730
+\ELANParticipant GNI
+
+\id 447
+\ev Эдынэ танмарив  дывусымкэлэ,
+\ru Ветер туман разгони
+\comment
+\ELANBegin 00:24:54.730
+\ELANEnd 00:25:01.590
+\ELANParticipant GNI
+
+\id 448
+\ev Усиди (усиды) инив (иныв) ичисындэко,
+\ru древнюю жизнь видеть хочу,
+\comment
+\ELANBegin 00:25:01.590
+\ELANEnd 00:25:06.660
+\ELANParticipant GNI
+
+\id 449
+\ev танмарив  дэвусымкэлэ,
+\ru туман разгони,
+\comment
+\ELANBegin 00:25:06.660
+\ELANEnd 00:25:13.730
+\ELANParticipant GNI
+
+\id 450
+\ev ирбэт отырындули гиркывачисындако.
+\ru по старой дороге пройтись,
+\comment
+\ELANBegin 00:25:13.730
+\ELANEnd 00:25:18.720
+\ELANParticipant GNI
+
+\id 451
+\ev Алӈэиӈындяво-о-о-о!
+\ru Алӈэи мои!
+\comment
+\ELANBegin 00:25:18.720
+\ELANEnd 00:25:33.480
+\ELANParticipant GNI
+
+\id 452
+\ev Гилта-а-а-а-а,
+\ru Блеск
+\comment
+\ELANBegin 00:25:33.480
+\ELANEnd 00:25:44.560
+\ELANParticipant GNI
+
+\id 453
+\ev Гилталыддынэ-э-э-э.
+\ru Влестит.
+\comment
+\ELANBegin 00:25:44.560
+\ELANEnd 00:25:54.630
+\ELANParticipant GNI
+
+\id 454
+\ev
+\ru
+\comment (Drumming)
+\ELANBegin 00:25:54.620
+\ELANEnd 00:25:58.060
+\ELANParticipant
+
+\id 455
+\ev Тиитэл...
+\ru В старину...
+\comment
+\ELANBegin 00:25:58.060
+\ELANEnd 00:26:03.600
+\ELANParticipant GNI
+
+\id 456
+\ev эниӈэкэкэн учикындядин,
+\ru бабушка на смирном олене своем,
+\comment
+\ELANBegin 00:26:03.600
+\ELANEnd 00:26:08.410
+\ELANParticipant GNI
+
+\id 457
+\ev таӈнялкаяӈындядин,
+\ru рогастом,
+\comment
+\ELANBegin 00:26:08.410
+\ELANEnd 00:26:12.450
+\ELANParticipant GNI
+
+\id 458
+\ev Алӈэиӈыдяи оатандяван алиӈчиддеттынэ-э-э.
+\ru У Алӈэя подножыя его объезжала-а-а.
+\comment
+\ELANBegin 00:26:12.450
+\ELANEnd 00:26:22.250
+\ELANParticipant GNI
+
+\id 459
+\ev А-а-а-а-а-а-а-а!
+\ru
+\comment
+\ELANBegin 00:26:22.250
+\ELANEnd 00:26:30.030
+\ELANParticipant GNI
+
+\id 460
+\ev О-о-о-о-о-о-о-о!
+\ru
+\comment
+\ELANBegin 00:26:30.030
+\ELANEnd 00:26:34.177
+\ELANParticipant GNI
+
+\id 461
+\ev Ойё-о-о-о-о-о!
+\ru
+\comment
+\ELANBegin 00:26:34.177
+\ELANEnd 00:26:40.612
+\ELANParticipant GNI
+
+\id 462
+\ev Айя, айя, айя, айя!
+\ru Хорошо! хорошо! хорошо!
+\comment
+\ELANBegin 00:26:40.612
+\ELANEnd 00:26:48.789
+\ELANParticipant GNI
+
+\id 463
+\ev о-о-о-о-о!
+\ru
+\comment
+\ELANBegin 00:26:48.789
+\ELANEnd 00:26:50.726
+\ELANParticipant GNI
+
+\id 464
+\ev хэк, хэк, хэк, хэк!
+\ru осторожно, осторожно, осторожно!
+\comment
+\ELANBegin 00:26:50.726
+\ELANEnd 00:26:52.481
+\ELANParticipant GNI
+
+\id 465
+\ev Кэӈгылэк! хэк-хэк!
+\ru Яма! Осторожно!
+\comment
+\ELANBegin 00:26:52.481
+\ELANEnd 00:26:54.353
+\ELANParticipant GNI
+
+\id 466
+\ev хэй, хэй, хэй, хэй!
+\ru 
+
+\ru спокойно, спокойно, спокойно, спокойно!
+
+\comment
+\ELANBegin 00:26:54.353
+\ELANEnd 00:26:58.383
+\ELANParticipant GNI
+
+\id 467
+\ev Иллэ, иллэ, иллэ, иллэ!
+\ru Где! Где! Где! Где!
+\comment
+\ELANBegin 00:26:58.383
+\ELANEnd 00:27:01.828
+\ELANParticipant GNI
+
+\id 468
+\ev а-а-а-а!
+\ru
+\comment
+\ELANBegin 00:27:01.828
+\ELANEnd 00:27:05.130
+\ELANParticipant GNI
+
+\id 469
+\ev ку-у-у-у-у.
+\ru
+\comment
+\ELANBegin 00:27:05.130
+\ELANEnd 00:27:09.108
+\ELANParticipant GNI
+
+\id 470
+\ev
+\ru
+\comment in the transcription is written (в место > ку-у-у-у-у) Яха-а-а!
+\ELANBegin 00:27:05.130
+\ELANEnd 00:27:09.134
+\ELANParticipant
+
+\id 471
+\ev хэк, хэк, хэк, хэк,
+\ru осторожно, осторожно, осторожно,
+\comment
+\ELANBegin 00:27:09.108
+\ELANEnd 00:27:11.565
+\ELANParticipant GNI
+
+\id 472
+\ev Чо! Чо! Чо! Чо!
+\ru
+\comment
+\ELANBegin 00:27:11.565
+\ELANEnd 00:27:14.009
+\ELANParticipant GNI
+
+\id 473
+\ev хэк, хэк, хэк, хэк!
+\ru 
+
+\ru осторожно, осторожно, осторожно, осторожно!
+
+\comment
+\ELANBegin 00:27:14.009
+\ELANEnd 00:27:16.362
+\ELANParticipant GNI
+
+\id 474
+\ev Чо-о! Чо-о! Чо-о!
+\ru Смирно! Смирно! Смирно!
+\comment
+\ELANBegin 00:27:16.362
+\ELANEnd 00:27:20.522
+\ELANParticipant GNI
+
+\id 475
+\ev Чох!
+\ru Смирно!
+\comment
+\ELANBegin 00:27:20.535
+\ELANEnd 00:27:24.682
+\ELANParticipant GNI
+
+\id 476
+\ev Эрэк...
+\ru это
+\comment
+\ELANBegin 00:27:24.682
+\ELANEnd 00:27:27.100
+\ELANParticipant GNI
+
+\id 477
+\ev
+\ru
+\comment (applause)
+\ELANBegin 00:27:27.035
+\ELANEnd 00:27:33.054
+\ELANParticipant
+
+\id 478
+\ev
+\ru совсем грипп сожрал это.
+\comment
+\ELANBegin 00:27:32.898
+\ELANEnd 00:27:35.966
+\ELANParticipant GNI
+
+\id 479
+\ev
+\ru
+\comment (laughing)
+\ELANBegin 00:27:35.953
+\ELANEnd 00:27:37.942
+\ELANParticipant
+
+\id 480
+\ev
+\ru Ещё голоса нету пока...
+\comment
+\ELANBegin 00:27:37.851
+\ELANEnd 00:27:40.022
+\ELANParticipant GNI
+
+\id 481
+\ev (?)
+\ru
+\comment
+\ELANBegin 00:27:40.022
+\ELANEnd 00:27:42.336
+\ELANParticipant GNI
+
+\id 482
+\ev Табыч, уныт.
+\ru Теперь, ещё!
+\comment
+\ELANBegin 00:27:42.336
+\ELANEnd 00:27:44.949
+\ELANParticipant GNI
+
+\id 483
+\ev Манурин?
+\ru Закончилось?
+\comment
+\ELANBegin 00:27:44.949
+\ELANEnd 00:27:46.795
+\ELANParticipant GNI
+
+\id 484
+\ev
+\ru ?
+\comment
+\ELANBegin 00:27:46.769
+\ELANEnd 00:27:49.369
+\ELANParticipant NA
+
+\id 485
+\ev Село?
+\ru
+\comment
+\ELANBegin 00:27:48.160
+\ELANEnd 00:27:49.369
+\ELANParticipant GNI
+
+\id 486
+\ev
+\ru Нет ещё! ...(?)
+\comment
+\ELANBegin 00:27:49.369
+\ELANEnd 00:27:52.034
+\ELANParticipant NA
+
+\id 487
+\ev Табыч бисин чайчибал округлатын -
+\ru Потом была/ жила. У коряков в округе -
+\comment
+\ELANBegin 00:27:51.904
+\ELANEnd 00:27:57.832
+\ELANParticipant GNI
+
+\id 488
+\ev геву, мин геву.
+\ru друг, мой друг.
+\comment
+\ELANBegin 00:27:57.832
+\ELANEnd 00:28:00.770
+\ELANParticipant GNI
+
+\id 489
+\ev Ноӈын адисукан бисин миндук.
+\ru Она старил была меня.
+\comment
+\ELANBegin 00:28:00.770
+\ELANEnd 00:28:04.852
+\ELANParticipant GNI
+
+\id 490
+\ev Татьяна- гэрбын.
+\ru Татьяна - зовут.
+\comment
+\ELANBegin 00:28:04.852
+\ELANEnd 00:28:05.866
+\ELANParticipant GNI
+
+\id 491
+\ev Тэкчэнэ гэрбэн бисин.
+\ru Татьяна имя её было.
+\comment
+\ELANBegin 00:28:05.866
+\ELANEnd 00:28:07.998
+\ELANParticipant GNI
+
+\id 492
+\ev Ноӈын омнэкэн гунни,
+\ru Она однажды говорит,
+\comment
+\ELANBegin 00:28:07.998
+\ELANEnd 00:28:11.625
+\ELANParticipant GNI
+
+\id 493
+\ev Таланатки бу как раз, уӈнэривун,
+\ru В Талану мы как раз делали,
+\comment
+\ELANBegin 00:28:11.625
+\ELANEnd 00:28:14.979
+\ELANParticipant GNI
+
+\id 494
+\ev нургынэкнэддивун (нургынэкнэддывун),
+\ru праздновать
+\comment
+\ELANBegin 00:28:14.979
+\ELANEnd 00:28:16.721
+\ELANParticipant GNI
+
+\id 495
+\ev юбилеитын там округла бисыкын.
+\ru у них юбилей там в округе был.
+\comment
+\ELANBegin 00:28:16.721
+\ELANEnd 00:28:19.958
+\ELANParticipant GNI
+
+\id 496
+\ev Нян тарак - Татьяна умыкичи бисин аси, это, уӈэ - эвэч,
+\ru 
+
+\ru Затём эта - Татьяна очень была женщина, это, это - жизнерадостна
+
+\comment
+\ELANBegin 00:28:19.958
+\ELANEnd 00:28:27.680
+\ELANParticipant GNI
+
+\id 497
+\ev Нян ноӈын мину и мин экму гунни:
+\ru Вот она меня и мою мать говорит:
+\comment
+\ELANBegin 00:28:27.680
+\ELANEnd 00:28:34.102
+\ELANParticipant GNI
+
+\id 498
+\ev "Минтыки", нимэнэдэкун.
+\ru "Ко мне", в гости прийти.
+\comment
+\ELANBegin 00:28:34.102
+\ELANEnd 00:28:35.896
+\ELANParticipant GNI
+
+\id 499
+\ev Эмнивун (эмнывун), нян ноӈыны-ы олэтыдиллин, гунни,
+\ru Пришли, она же-е варила, говорит,
+\comment
+\ELANBegin 00:28:35.896
+\ELANEnd 00:28:40.121
+\ELANParticipant GNI
+
+\id 500
+\ev "тиик би орыттич олэттэку оллыдук, о.о...  орын, орыч уллэдукун,
+\ru "сейчас я по эвенски сварю-ка из рыбы, о..о.. с оленьего, эвен 
+(оговориласья?) мяса
+\comment
+\ELANBegin 00:28:40.121
+\ELANEnd 00:28:44.931
+\ELANParticipant GNI
+
+\id 501
+\ev нян уӈэ, эчины-ы олэтымыл... олэтыддыны-ы
+\ru 
+
+\ru затем это, вот так вот быстро сварила варит,
+
+\comment
+\ELANBegin 00:28:44.931
+\ELANEnd 00:28:49.780
+\ELANParticipant GNI
+
+\id 502
+\ev а дюланыси икутич, как-будто бы юрта урэчинни (урэчинны), эчины-ы 
+мооч.. эчин уӈии...
+\ru а дома прямо как будто бы рта похожа та-ак вотдеревом деревом так 
+сделано ...
+\comment
+\ELANBegin 00:28:49.780
+\ELANEnd 00:28:56.605
+\ELANParticipant GNI
+
+\id 503
+\ev онкына? говэтты? Укыл...
+\ru как же? говорят? Опять...
+\comment
+\ELANBegin 00:28:56.605
+\ELANEnd 00:28:59.231
+\ELANParticipant GNI
+
+\id 504
+\ev мооч эчин уӈыттын,
+\ru деревом так сделано,
+\comment
+\ELANBegin 00:28:59.231
+\ELANEnd 00:29:00.479
+\ELANParticipant GNI
+
+\id 505
+\ev талиси уӈэ, орычилкэ, эчинкэ ноккоттэккэ-
+\ru а на них это, эвены же, вот так вешают -
+\comment
+\ELANBegin 00:29:00.479
+\ELANEnd 00:29:03.898
+\ELANParticipant GNI
+
+\id 506
+\ev уллэвдэ, табыч уӈу ачину,
+\ru мясо, потом это брушной жир олений,
+\comment
+\ELANBegin 00:29:03.898
+\ELANEnd 00:29:07.889
+\ELANParticipant GNI
+
+\id 507
+\ev э-э тачин умыкич,
+\ru э-э так вот,
+\comment
+\ELANBegin 00:29:07.889
+\ELANEnd 00:29:10.801
+\ELANParticipant GNI
+
+\id 508
+\ev эчин ӈэндинни (ӈэндинны) (нян ...динны?)
+\ru так пойдёшь
+\comment
+\ELANBegin 00:29:10.801
+\ELANEnd 00:29:13.154
+\ELANParticipant GNI
+
+\id 509
+\ev нян дибыддинни оллыда, юколада,
+\ru и будешь есть рыбу, сушённую рыбу,
+\comment
+\ELANBegin 00:29:13.154
+\ELANEnd 00:29:16.664
+\ELANParticipant GNI
+
+\id 510
+\ev а уӈэ, олгитчаккэ оллэ, таррочингыли,
+\ru а это, (?)впеушенпая рыба, с таким
+\comment
+\ELANBegin 00:29:16.664
+\ELANEnd 00:29:22.384
+\ELANParticipant GNI
+
+\id 511
+\ev ноӈыныси умыкич эчин,
+\ru она так
+\comment
+\ELANBegin 00:29:22.384
+\ELANEnd 00:29:25.218
+\ELANParticipant GNI
+
+\id 512
+\ev орын уллэдукуны-ы эчин мясорубкала, эчин уттин,
+\ru 
+
+\ru гу оленьего мяса так в мясорубке, вот так крутила,
+
+\comment
+\ELANBegin 00:29:25.218
+\ELANEnd 00:29:30.665
+\ELANParticipant GNI
+
+\id 513
+\ev нян эчин уӈнин,
+\ru затем так сделала,
+\comment
+\ELANBegin 00:29:30.665
+\ELANEnd 00:29:32.550
+\ELANParticipant GNI
+
+\id 514
+\ev тарбыч тала нэдин (нэдын) уӈу,
+\ru потом/ затем там/ туда положила это,
+\comment
+\ELANBegin 00:29:32.550
+\ELANEnd 00:29:35.514
+\ELANParticipant GNI
+
+\id 515
+\ev эӈуту,
+\ru (?)геремшу,
+\comment
+\ELANBegin 00:29:35.514
+\ELANEnd 00:29:38.400
+\ELANParticipant GNI
+
+\id 516
+\ev нян уӈэ
+\ru затем это,
+\comment
+\ELANBegin 00:29:38.400
+\ELANEnd 00:29:40.636
+\ELANParticipant GNI
+
+\id 517
+\ev орын этэ... этэмэныч уӈнины-ы, амнин (амнин) эчин,
+\ru 
+
+\ru олении жи... жиромныч сделала, смешала вот так,
+
+\comment
+\ELANBegin 00:29:40.636
+\ELANEnd 00:29:47.929
+\ELANParticipant GNI
+
+\id 518
+\ev
+\ru
+\comment (gesticulating)
+\ELANBegin 00:29:47.916
+\ELANEnd 00:29:50.113
+\ELANParticipant
+
+\id 519
+\ev нян эчин мэрэтикэкэрбы уӈнин,
+\ru затем такими кругленькими сделала,
+\comment
+\ELANBegin 00:29:50.113
+\ELANEnd 00:29:52.947
+\ELANParticipant GNI
+
+\id 520
+\ev нян (уӈэ тулдэлэ иӈэндула нэдэн)
+\ru затем (...?)
+\comment
+\ELANBegin 00:29:52.947
+\ELANEnd 00:29:58.056
+\ELANParticipant GNI
+
+\id 521
+\ev нян эмурин- даллы-ы умыкич, тачина.
+\ru 
+
+\ru затем принесла - вкусня тина-а очень, такая.
+
+\comment
+\ELANBegin 00:29:58.056
+\ELANEnd 00:30:01.449
+\ELANParticipant GNI
+
+\id 522
+\ev М-м
+\ru
+\comment
+\ELANBegin 00:30:01.436
+\ELANEnd 00:30:02.151
+\ELANParticipant BP
+
+\id 523
+\ev А-а!
+\ru А-а!
+\comment
+\ELANBegin 00:30:02.138
+\ELANEnd 00:30:03.503
+\ELANParticipant GNI
+
+\id 524
+\ev "Эрэк, гунни, мут орыттич уӈыт,
+\ru "Это, говорит, наша эвенская (уӈыӈэт)
+\comment
+\ELANBegin 00:30:03.503
+\ELANEnd 00:30:05.375
+\ELANParticipant GNI
+
+\id 525
+\ev Э-э
+\ru
+\comment
+\ELANBegin 00:30:05.375
+\ELANEnd 00:30:06.220
+\ELANParticipant BP
+
+\id 526
+\ev и-и, диплыӈыт.
+\ru еда, нища
+\comment
+\ELANBegin 00:30:06.181
+\ELANEnd 00:30:08.742
+\ELANParticipant GNI
+
+\id 527
+\ev Нян ноӈыныси, нян тарыкым гунни (гунны), улгимиддэн, а ноӈын мину эч 
+узналлы, тачин би гондэку, омӈырым, онучиси говэтты "узнал"?
+\ru Затем она же, затем тогда говорит, спрашивает, а она меня не узнала, 
+так я скажу, забыла, как же говорят "узнал"?
+\comment
+\ELANBegin 00:30:08.742
+\ELANEnd 00:30:21.625
+\ELANParticipant GNI
+
+\id 528
+\ev "Омӈырин, то есть эч узналлы, потому что, уже, конечко, годы, да ещё 
+би потом бэргэсниву (бэргэсныву), э-э...
+\ru "Забыла, то есть не узнала, потому что, уже, конечко, годы, да еще я 
+потом потолстела, э-э..
+\comment
+\ELANBegin 00:30:21.625
+\ELANEnd 00:30:30.621
+\ELANParticipant GNI
+
+\id 529
+\ev а как раз Таланаду упкучидмиккэ,
+\ru а как раз в Талане училась,
+\comment
+\ELANBegin 00:30:30.621
+\ELANEnd 00:30:33.481
+\ELANParticipant GNI
+
+\id 530
+\ev ноӈын мину окружной радиотки уӈноттын,
+\ru она мину в окружное радио делала,
+\comment
+\ELANBegin 00:30:33.481
+\ELANEnd 00:30:36.796
+\ELANParticipant GNI
+
+\id 531
+\ev би таду  орыттич тор... уӈоттыл - дикторытын орыттич бисиву,
+\ru 
+
+\ru я там по эвенски гов... делала диктором по эвенскиму была
+
+\comment
+\ELANBegin 00:30:36.796
+\ELANEnd 00:30:41.528
+\ELANParticipant GNI
+
+\id 532
+\ev Нян ноӈын улгимиддэн экэнтыву (гунни), экэнтэкиву, гунни:
+\ru 
+
+\ru Затем она спрашивает у матери мои, у матери мой, говорит:
+
+\comment
+\ELANBegin 00:30:41.528
+\ELANEnd 00:30:48.028
+\ELANParticipant GNI
+
+\id 533
+\ev "Эсэнни арэ? Тала ундулэ бисин асаткакакан, иттинда нёбатикакан 
+умыкич бисин,
+\ru 
+
+\ru "Не знаешь? там у вас была девушка лицо-то беленькое прямо очень было,
+
+\comment
+\ELANBegin 00:30:48.028
+\ELANEnd 00:30:55.269
+\ELANParticipant GNI
+
+\id 534
+\ev Наташа Ичанга гэрбын.
+\ru Наташа Ичанга зовут.
+\comment
+\ELANBegin 00:30:55.269
+\ELANEnd 00:30:57.830
+\ELANParticipant GNI
+
+\id 535
+\ev Тар... мэммэву гунни: "Эркэ ноӈын."
+\ru Вот... мама моя говорит "вот же она"
+\comment
+\ELANBegin 00:30:57.830
+\ELANEnd 00:31:02.744
+\ELANParticipant GNI
+
+\id 536
+\ev Каранни (Каранны): "Эснэ-э, тарак бисин нибукэкэкэн, итинда нёбати 
+бисин."
+\ru 
+
+\ru Удивленно смотрит: "Не-е-ет! та была худенькая, и лицом белая была."
+
+\comment
+\ELANBegin 00:31:02.744
+\ELANEnd 00:31:09.595
+\ELANParticipant GNI
+
+\id 537
+\ev э-э...
+\ru
+\comment
+\ELANBegin 00:31:09.595
+\ELANEnd 00:31:10.635
+\ELANParticipant GNI
+
+\id 538
+\ev Нян би инимэлэддуси,
+\ru Затем мы засмеялись,
+\comment
+\ELANBegin 00:31:10.635
+\ELANEnd 00:31:12.143
+\ELANParticipant GNI
+
+\id 539
+\ev Би гуным: "биккэ ину дёӈчирым, ями табыч и, биккэ ингыли нян окружной 
+радиоли гургэ..."
+\ru Я говорю: "Я же тебя помню, почему же ты, я же е тобой потом в 
+окружном радио работала..."
+\comment
+\ELANBegin 00:31:12.143
+\ELANEnd 00:31:18.942
+\ELANParticipant GNI
+
+\id 540
+\ev "Эв и бисэнни?"
+\ru "а ты есть?"
+\comment
+\ELANBegin 00:31:18.942
+\ELANEnd 00:31:20.723
+\ELANParticipant GNI
+
+\id 541
+\ev "иӈэ, би, би бисэмэ!"
+\ru "да, я, я есть! "
+\comment
+\ELANBegin 00:31:20.723
+\ELANEnd 00:31:23.713
+\ELANParticipant GNI
+
+\id 542
+\ev "О-о, гунни (гунны), эв тавыр..., тардиман ( тардыман) одынни 
+(одынны)?
+\ru "О-о, говорит, так это..., такая стала?
+\comment
+\ELANBegin 00:31:23.713
+\ELANEnd 00:31:27.431
+\ELANParticipant GNI
+
+\id 543
+\ev "конечно, если би бэргэриву,"
+\ru "конечно, если я потолстела,"
+\comment
+\ELANBegin 00:31:27.431
+\ELANEnd 00:31:29.628
+\ELANParticipant GNI
+
+\id 544
+\ev
+\ru
+\comment (laughing)
+\ELANBegin 00:31:29.511
+\ELANEnd 00:31:31.136
+\ELANParticipant
+
+\id 545
+\ev Омнэкэн уркэн тоже мину аявыллины-ы,
+\ru 
+
+\ru Однажды парень тоже меня полюбил, на празднике,
+
+\comment
+\ELANBegin 00:31:31.123
+\ELANEnd 00:31:35.244
+\ELANParticipant GNI
+
+\id 546
+\ev нургэнэклэ, тоже аявыллин- ительмен,
+\ru на празднике, тоже полюбил ительмен,
+\comment
+\ELANBegin 00:31:35.244
+\ELANEnd 00:31:40.327
+\ELANParticipant GNI
+
+\id 547
+\ev биси тарыкым нибукэкэн бисиву, няныси,
+\ru я же тогда худенькая была,
+\comment
+\ELANBegin 00:31:40.327
+\ELANEnd 00:31:44.565
+\ELANParticipant GNI
+
+\id 548
+\ev после прошло время, мы уже все в какое-то времени, а биси бэргыриву.
+\ru 
+
+\ru после прошло время, мы уже все в какое-то время, а я пополнела.
+
+\comment
+\ELANBegin 00:31:44.565
+\ELANEnd 00:31:50.662
+\ELANParticipant GNI
+
+\id 549
+\ev Би то бэргывэттым, то худ... нян это - нибукэ оваттым.
+\ru 
+
+\ru Я то пополнею, то худ... затем это - худая становлюсь.
+
+\comment
+\ELANBegin 00:31:50.662
+\ELANEnd 00:31:55.251
+\ELANParticipant GNI
+
+\id 550
+\ev
+\ru
+\comment NIG: имеется - во время отпуска рабочего
+\ELANBegin 00:31:55.264
+\ELANEnd 00:32:00.906
+\ELANParticipant
+
+\id 551
+\ev А тут би прям, би бэргыриву после, а во время - утэдмиккэ гургэдуккэ.
+\ru 
+
+\ru А тут би прям, я пополнела после, а во время - отдыха от работы.
+
+\comment
+\ELANBegin 00:31:55.264
+\ELANEnd 00:32:01.686
+\ELANParticipant GNI
+
+\id 552
+\ev Нян, тут как раз нургынэк горыдла - фестивал,
+\ru 
+
+\ru Затем, тут как раз праздник в городе - фестиваль,
+
+\comment
+\ELANBegin 00:32:01.699
+\ELANEnd 00:32:07.952
+\ELANParticipant GNI
+
+\id 553
+\ev а, не, эснимые -
+\ru а, не, нет
+\comment
+\ELANBegin 00:32:07.952
+\ELANEnd 00:32:09.330
+\ELANParticipant GNI
+
+\id 554
+\ev Белашов уӈын анӈынын бисин,
+\ru Белашов это годовщина была
+\comment
+\ELANBegin 00:32:09.330
+\ELANEnd 00:32:13.425
+\ELANParticipant GNI
+
+\id 555
+\ev адикына (адыкына)?
+\ru сколько же?
+\comment
+\ELANBegin 00:32:13.425
+\ELANEnd 00:32:16.064
+\ELANParticipant GNI
+
+\id 556
+\ev нюӈымер гу бисин,
+\ru шестьдесет что
+\comment
+\ELANBegin 00:32:16.064
+\ELANEnd 00:32:21.134
+\ELANParticipant GNI
+
+\id 557
+\ev тарак бу оллочиддивун (оллочиддывун).
+\ru тогда мы ездили.
+\comment
+\ELANBegin 00:32:21.134
+\ELANEnd 00:32:22.525
+\ELANParticipant GNI
+
+\id 558
+\ev Нян эчин би тыычиддым,
+\ru Затем так я сижу,
+\comment
+\ELANBegin 00:32:22.525
+\ELANEnd 00:32:25.177
+\ELANParticipant GNI
+
+\id 559
+\ev таракыси гунни (гунны), минтэки эмнин (эмнын), нян гунни,
+\ru 
+
+\ru а тот говорит, ко мне подошёл, затем говорит
+
+\comment
+\ELANBegin 00:32:25.177
+\ELANEnd 00:32:28.609
+\ELANParticipant GNI
+
+\id 560
+\ev "Здравствуйте!"
+\ru
+\comment
+\ELANBegin 00:32:28.609
+\ELANEnd 00:32:29.922
+\ELANParticipant GNI
+
+\id 561
+\ev а би как раз эчин унтунди уӈыддиву (уӈыддыву)
+\ru а я как раз так с бубном делала
+\comment
+\ELANBegin 00:32:29.922
+\ELANEnd 00:32:33.120
+\ELANParticipant GNI
+
+\id 562
+\ev - "эрэ-э-э-э-э!"
+\ru - воот!
+\comment
+\ELANBegin 00:32:33.120
+\ELANEnd 00:32:40.166
+\ELANParticipant GNI
+
+\id 563
+\ev Ноӈыныси эчин нян гунни,
+\ru Он же так вот говорит,
+\comment
+\ELANBegin 00:32:40.166
+\ELANEnd 00:32:43.520
+\ELANParticipant GNI
+
+\id 564
+\ev э-э... "минду оняӈанни эрэв икэм, оняӈасын."
+\ru 
+
+\ru э-э... "мне напишите эту песню, напишите."
+
+\comment
+\ELANBegin 00:32:43.520
+\ELANEnd 00:32:48.213
+\ELANParticipant GNI
+
+\id 565
+\ev
+\ru
+\comment "оняӈасыи" or "оняӈасы ис" ?
+\ELANBegin 00:32:43.520
+\ELANEnd 00:32:48.239
+\ELANParticipant
+
+\id 566
+\ev На "вы" - минтэки,
+\ru на "вы" - ко мне.
+\comment
+\ELANBegin 00:32:48.213
+\ELANEnd 00:32:50.137
+\ELANParticipant GNI
+
+\id 567
+\ev Би гуным:
+\ru Я говорю:
+\comment
+\ELANBegin 00:32:50.137
+\ELANEnd 00:32:51.879
+\ELANParticipant GNI
+
+\id 568
+\ev "Ями нян минтэки тачин торэмэттын, осэмидэ выкайрын"
+\ru 
+
+\ru "почему же ко мне так говорит, даже на вы."
+
+\comment
+\ELANBegin 00:32:51.879
+\ELANEnd 00:32:56.806
+\ELANParticipant GNI
+
+\id 569
+\ev Нян, а, потом ноӈын гунни:
+\ru Затем, а, потом он говорит:
+\comment
+\ELANBegin 00:32:56.819
+\ELANEnd 00:32:59.458
+\ELANParticipant GNI
+
+\id 570
+\ev "а вы...
+\ru "а вы...
+\comment
+\ELANBegin 00:32:59.458
+\ELANEnd 00:33:01.369
+\ELANParticipant GNI
+
+\id 571
+\ev нючидич (нючидыч) гунни - с какого  района?
+\ru по русски говорит -   с какого  района?
+\comment
+\ELANBegin 00:33:01.369
+\ELANEnd 00:33:04.736
+\ELANParticipant GNI
+
+\id 572
+\ev (А ) вас как зовут?"
+\ru (А ) вас как зовут?"
+\comment
+\ELANBegin 00:33:04.736
+\ELANEnd 00:33:06.920
+\ELANParticipant GNI
+
+\id 573
+\ev Би гуным - "с Эссо".
+\ru Я говорю - "с Эссо".
+\comment
+\ELANBegin 00:33:06.920
+\ELANEnd 00:33:10.235
+\ELANParticipant GNI
+
+\id 574
+\ev нян гунни "а-а, аичы-ы, гунни, аичы, нодэ икэсын, миндудэ боӈэнни 
+(боӈэнны), иӈэ?"
+\ru затем говорит "а-а, хорошо-о-о, говорит, хорошо, красива ваша песня, 
+мне тоже дашь, ладно?"
+\comment
+\ELANBegin 00:33:10.235
+\ELANEnd 00:33:17.632
+\ELANParticipant GNI
+
+\id 575
+\ev Би гуным: " ы-ы-ы"
+\ru Я говорю: "ы-ы-ы"
+\comment
+\ELANBegin 00:33:17.632
+\ELANEnd 00:33:19.309
+\ELANParticipant GNI
+
+\id 576
+\ev
+\ru 
+
+\ru А потом, ладно, прошло время, уже банкет нначался
+
+\comment
+\ELANBegin 00:33:19.309
+\ELANEnd 00:33:23.313
+\ELANParticipant GNI
+
+\id 577
+\ev нян нючидиллым (нючидыллым), тар банкет торэ...
+\ru 
+
+\ru затем по русски заговорила, вот банкет гово..
+
+\comment
+\ELANBegin 00:33:23.313
+\ELANEnd 00:33:26.862
+\ELANParticipant GNI
+
+\id 578
+\ev нян чаив илуддэвыр ӈэнну эчин,
+\ru затем чай попить пошли так
+\comment
+\ELANBegin 00:33:26.862
+\ELANEnd 00:33:29.813
+\ELANParticipant GNI
+
+\id 579
+\ev нян геки тала диплэ - тэвтыгыли (тэвтыгылы), геки умыкич - оллыда 
+бисин,
+\ru затем всякие там кушанья/ еда - ягода, фрукта, всякое прямо - и рыба 
+была,
+\comment
+\ELANBegin 00:33:29.813
+\ELANEnd 00:33:36.014
+\ELANParticipant GNI
+
+\id 580
+\ev итэльмерыл уӈчэтын,
+\ru итэльмены сделали
+\comment
+\ELANBegin 00:33:36.027
+\ELANEnd 00:33:38.770
+\ELANParticipant GNI
+
+\id 581
+\ev нян эчин бу уӈыдду кофекакам,
+\ru затем так мы делаем кофеёчек,
+\comment
+\ELANBegin 00:33:38.770
+\ELANEnd 00:33:42.553
+\ELANParticipant GNI
+
+\id 582
+\ev нян торэмэчидду эчинэ,
+\ru потом разговариваем так,
+\comment
+\ELANBegin 00:33:42.553
+\ELANEnd 00:33:45.036
+\ELANParticipant GNI
+
+\id 583
+\ev нян ноӈын минтэки эчин нян,
+\ru затем/ потом он ко мне так вот,
+\comment
+\ELANBegin 00:33:45.036
+\ELANEnd 00:33:47.649
+\ELANParticipant GNI
+
+\id 584
+\ev нян ипиммоттындэ, би гуным:
+\ru вот смеётся, я говорю:
+\comment
+\ELANBegin 00:33:47.662
+\ELANEnd 00:33:50.496
+\ELANParticipant GNI
+
+\id 585
+\ev "Лёня, эсынни, эв мину",  это, это узналлы?
+\ru 
+
+\ru "Лёня, не, то есть меня", это, это не узнал?
+
+\comment
+\ELANBegin 00:33:50.496
+\ELANEnd 00:33:55.761
+\ELANParticipant GNI
+
+\id 586
+\ev Ноӈын (еси) гунни (гунны): "ӈи табыч бисынни (бисынны)?"
+\ru Он говорит: "кто же ты есть"
+\comment
+\ELANBegin 00:33:55.761
+\ELANEnd 00:33:59.258
+\ELANParticipant GNI
+
+\id 587
+\ev Би гуным: "Биккэ - Наташа - бисым, иккы мину аяврис."
+\ru 
+
+\ru Я говорю: "Я же - Наташа - есть, ты же меня любил."
+
+\comment
+\ELANBegin 00:33:59.258
+\ELANEnd 00:34:02.469
+\ELANParticipant GNI
+
+\id 588
+\ev
+\ru
+\comment (laughing)
+\ELANBegin 00:34:02.482
+\ELANEnd 00:34:04.419
+\ELANParticipant
+
+\id 589
+\ev Няныси ноӈыныси: "о-о!"
+\ru Потом он же: "о-о!"
+\comment
+\ELANBegin 00:34:04.406
+\ELANEnd 00:34:07.825
+\ELANParticipant GNI
+
+\id 590
+\ev
+\ru А почему ты такая?
+\comment
+\ELANBegin 00:34:07.825
+\ELANEnd 00:34:11.101
+\ELANParticipant GNI
+
+\id 591
+\ev Ями бэргы бисынни?"
+\ru Почему полная ты есть?
+\comment
+\ELANBegin 00:34:11.101
+\ELANEnd 00:34:13.272
+\ELANParticipant GNI
+
+\id 592
+\ev Нян би гуным, эчикын би гору уӈыддиву, утыддиву.
+\ru 
+
+\ru Затем я говорю, столько я долго делала отдыхо(а)ла.
+
+\comment
+\ELANBegin 00:34:13.272
+\ELANEnd 00:34:16.639
+\ELANParticipant GNI
+
+\id 593
+\ev
+\ru
+\comment (laughing)
+\ELANBegin 00:34:16.639
+\ELANEnd 00:34:19.460
+\ELANParticipant
+
+\id 594
+\ev
+\ru "Наташка! Я тебя не узнал,
+\comment
+\ELANBegin 00:34:19.421
+\ELANEnd 00:34:23.893
+\ELANParticipant GNI
+
+\id 595
+\ev
+\ru я же тебя так любил,
+\comment
+\ELANBegin 00:34:23.906
+\ELANEnd 00:34:25.882
+\ELANParticipant GNI
+
+\id 596
+\ev
+\ru почему ты такая стала?"
+\comment
+\ELANBegin 00:34:25.882
+\ELANEnd 00:34:27.936
+\ELANParticipant GNI
+
+\id 597
+\ev
+\ru
+\comment (laughing)
+\ELANBegin 00:34:27.923
+\ELANEnd 00:34:31.563
+\ELANParticipant
+
+\id 598
+\ev
+\ru 
+
+\ru Ну вот, "ой, а почему ты же сразу не сказала,
+
+\comment
+\ELANBegin 00:34:31.563
+\ELANEnd 00:34:36.113
+\ELANParticipant GNI
+
+\id 599
+\ev ями эчистэ отэлнэн гунэ и биши (бисие?)?"
+\ru почему не давно сказяла ты-есть?"
+\comment
+\ELANBegin 00:34:36.113
+\ELANEnd 00:34:42.886
+\ELANParticipant GNI
+
+\id 600
+\ev
+\ru
+\comment бишие/ бисие?
+\ELANBegin 00:34:36.113
+\ELANEnd 00:34:43.029
+\ELANParticipant
+
+\id 601
+\ev Би гуным: "би курындэ тачин уӈыддиву (уӈыддыву), гуным, коч, итчин 
+мину аймыкан, нян гундин - эв и бисэнни (бисэнны)."
+\ru Я говорю: "я нарочно так делала, говорю, наверно, увидит меня 
+хорошенько, потом скажет - а ты это и есть.
+\comment
+\ELANBegin 00:34:42.886
+\ELANEnd 00:34:53.312
+\ELANParticipant GNI
+
+\id 602
+\ev Гунни (гунны): "и нибукэ бисисе."
+\ru Говорит: "ты худае была."
+\comment
+\ELANBegin 00:34:53.312
+\ELANEnd 00:34:56.549
+\ELANParticipant GNI
+
+\id 603
+\ev Гунни (гунны): " тикыси ями бэргымкэр бисынни (бисынны).
+\ru 
+
+\ru Говорит: "А теперь почему полная ты есть.
+
+\comment
+\ELANBegin 00:34:56.549
+\ELANEnd 00:34:59.604
+\ELANParticipant GNI
+
+\id 604
+\ev Асимкэр бисынни (бисынны).
+\ru Женищине большая ты есть."
+\comment
+\ELANBegin 00:34:59.617
+\ELANEnd 00:35:00.995
+\ELANParticipant GNI
+
+\id 605
+\ev
+\ru
+\comment (laughing)
+\ELANBegin 00:35:00.982
+\ELANEnd 00:35:03.283
+\ELANParticipant
+
+\id 606
+\ev Вот. Ну и вот.
+\ru Вот. Ну и вот.
+\comment
+\ELANBegin 00:35:03.283
+\ELANEnd 00:35:04.882
+\ELANParticipant GNI
+
+\id 607
+\ev Татьяна, тарак Ильинична
+\ru Татьяна, эта Ильинична
+\comment
+\ELANBegin 00:35:04.882
+\ELANEnd 00:35:06.858
+\ELANParticipant GNI
+
+\id 608
+\ev
+\ru
+\comment -
+\ELANBegin 00:35:06.832
+\ELANEnd 00:35:07.547
+\ELANParticipant
+
+\id 609
+\ev Уркэчэн, тачин би гуным "биккэ тарак."
+\ru Уркэчэн, так я говорю "я же это".
+\comment
+\ELANBegin 00:35:07.547
+\ELANEnd 00:35:11.980
+\ELANParticipant GNI
+
+\id 610
+\ev
+\ru
+\comment NIG: for "уркэчэн" - здесь фамилия уркечэн - (парень, молодой) значит.
+\ELANBegin 00:35:07.547
+\ELANEnd 00:35:11.980
+\ELANParticipant
+
+\id 611
+\ev "Эснэ, тарак асаткан бисин небатида итин бисин,
+\ru 
+
+\ru "Нет, та девушка была с белым лицом была,
+
+\comment
+\ELANBegin 00:35:11.980
+\ELANEnd 00:35:16.270
+\ELANParticipant GNI
+
+\id 612
+\ev табыч, нэмкукэкэн бисин, аллакакан, - гунни - аричкакан"
+\ru 
+
+\ru потом, тоненькая была, аккуратненькая/ миленькая, - говорит - эвеночка
+
+\comment
+\ELANBegin 00:35:16.270
+\ELANEnd 00:35:20.781
+\ELANParticipant GNI
+
+\id 613
+\ev Би гуным: "Би бисымэ-э, биккэ тиик куӈаӈылкан одиву, куӈаӈылбыривуда, 
+этикэмудэ бисни"
+\ru Я говорю: " Я же это-а." я же сейчас замужем стала, родила ребенка, 
+муж есть
+\comment
+\ELANBegin 00:35:20.781
+\ELANEnd 00:35:27.541
+\ELANParticipant GNI
+
+\id 614
+\ev "А-а!"
+\ru "А-а!"
+\comment
+\ELANBegin 00:35:27.541
+\ELANEnd 00:35:28.568
+\ELANParticipant GNI
+
+\id 615
+\ev Нян, ноӈын гунни (гунны),
+\ru Потом она говорит,
+\comment
+\ELANBegin 00:35:28.568
+\ELANEnd 00:35:31.545
+\ELANParticipant GNI
+
+\id 616
+\ev час... это, би инду, это, будим пода..." - онкына?
+\ru 
+
+\ru ладно... это, я тебе, это, дам пода..." - как же?
+
+\comment
+\ELANBegin 00:35:31.545
+\ELANEnd 00:35:38.604
+\ELANParticipant GNI
+
+\id 617
+\ev "подарилдим" - омӈырымда - бидим ин... ик... мэн икэӈи,- икэ... 
+икэми, икэми, окма икэрэдинни (икэрэдинны)." оӈучиси? тиик Марина 
+никрин, ясчиринуч эчин? А-а
+\ru "подарю" - забыла - дам ин... ик... свою песню - пес... песню свою, 
+песню свою, когда-нибудь будешь петь."
+\comment
+\ELANBegin 00:35:38.604
+\ELANEnd 00:01:10.050
+\ELANParticipant GNI
+
+\id 618
+\ev Нян ноӈын онярин...
+\ru Затем она написала...
+\comment
+\ELANBegin 00:35:48.003
+\ELANEnd 00:35:50.460
+\ELANParticipant GNI
+
+\id 619
+\ev Бу эр онярин, тармэ батарейка села. Выключаем.
+\ru 
+
+\ru Мы вот написал, только батарейка села. Выключаем.
+
+\comment
+\ELANBegin 00:35:50.460
+\ELANEnd 00:35:56.843
+\ELANParticipant BP
+
+
+\ELANMediaURL file:///F:/EVEN_DATA/ELAN_KAM/Grigoreva_Natalia_Ionovna_shkola_remesel/Grigoreva_Natalia_Ionovna_2_280609.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///W:/DOBES_BP/Kamchatka2009/video_mpeg2/Grigoreva_Natalia_Ionovna_2_280609.mpeg
+\ELANMediaURL file:///W:/DOBES_BP/Kamchatka2009/video_mpeg2/Grigoreva_Natalia_Ionovna_2_280609.mpeg
+\ELANMediaMIME video/mpeg

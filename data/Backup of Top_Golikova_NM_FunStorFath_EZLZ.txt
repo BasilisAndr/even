@@ -1,0 +1,461 @@
+\_sh v3.0  1033 Text
+
+\id Golikova_NM_FunStorFath_001
+\nt
+\ELANBegin 0.060
+\ELANEnd 5.560
+\ELANParticipant DM
+\ev
+\ru Что, сейчас? сейчас да? подождите.. а, да.
+
+\id Golikova_NM_FunStorFath_002
+\nt
+\ELANBegin 5.560
+\ELANEnd 9.340
+\ELANParticipant DM
+\ev
+\ru Наталия Михайловна Голикова, 18 июня
+
+\id Golikova_NM_FunStorFath_003
+\ref
+\tx Dʒe   tar  anï  ammụ           buolla  ọlan  bejilbu         tačịn       oːhejeddidʒi           nọŋartan goːŋder,
+\mb dʒe   tar  anï  aman   -W        buollar ọlan  bej -E-L   -W   tarọːčịn oːsej -E-D     -RIdʒI  nọŋartan goːn -Gr(E) -r
+\ge well.Y thus now.Y father -poss.1sg dp.Y    fearful man -ep-pl -acc dist.qual      tease  -ep-prog -ant.cvb 3pl         say   -hab   -3pl
+
+\tx Mihajlada    abaga       goːnin              ŋiːkeriede      Maturonada    upeːńdʒe         goːnin:             Bej
+\mb Mihajla =DE  abaga       goːn -RI  -n(I)     ŋiː =kErIE =DE  Maturona =DE  upeː       -ńdʒE goːn -RI  -n(I)     bej
+\ge Mixail  =ptl grandfather say   -pst -poss.3sg who   =ptl   =ptl Matrjona =ptl grandmother -aug    say   -pst -poss.3sg man
+
+\tx ọlanal,      bej ọlanal       tačịn       ọlan  bejič      ewiːkečiddidʒi             meːndʒide             hagdanịdʒị,
+\mb ọlan  -E-L   bej ọlan  -E-L   tarọːčịn ọlan  bej -E-Č   ewiː -kEČ -E-D     -RIdʒI  meːn -DʒI        =DE  hagdan   -RIdʒI
+\ge fearful -ep-pl man fearful -ep-pl dist.qual      fearful man -ep-ins play  -mult -ep-prog -ant.cvb refl  -ins.prfl.sg =ptl grow.old -ant.cvb
+
+\tx ọlan  ọːdʒịndị.
+\mb ọlan  ọː  -DʒI -nrI
+\ge fearful become -fut  -2sg
+
+\ph ewiːkečididʒi -- no length on ewiː
+\nt
+\qu
+\ELANBegin 9.340
+\ELANEnd 29.990
+\ELANParticipant
+\ev Де тар аны амму буолла олан бэйилбу тачин охэеддидьи ноӈгартан гөӈдэр, Михайла-да  абага гөннин, ӈикэрэ-дэ Матурона
+-да упеньде гөннин: Бэй оланал, бэй оланал тачин олан бэйич эвикэчиддидьи  мэндьидэ хагданидьи, олан одьинди.
+\ru И вот отец мой над пугливыми людьми так подшучивал, ему говорили, дедушка Михаил говорил, и та еще, и бабушка
+Матрена говорила: Пугливых людей, пугливых людей  дразнишь, сам, состарившись,  пугливым станешь.
+
+\id Golikova_NM_FunStorFath_006
+\ref
+\tx Nanmịwdʒịndị,        goːnče,     goːničel        nọŋartan, amantakị
+\mb nanmịn  -W     -DʒI -nrI goːn -čE    goːn -čE -L     nọŋartan  aman   -t(E)kI
+\ge retaliate -advrs -fut  -2sg say   -pf.ptc say   -pf.ptc -pl 3pl          father -all
+
+\gr 1) bi hinu nanmịdʒịm -- ja tebja budu obizhatj; nanmidʒindi -- ty bydeshj obizhatj, minu nanmidʒir -- menja budut obizhatj, nanmiwdʒim -- menja obidjat,   2)
+goːničel: I did not understand i in the middle? why not simply  goːnčel?
+\nt нанминдай -- отомстить
+\ELANBegin 29.990
+\ELANEnd 34.390
+\ELANParticipant
+\ev Нанмивдьинди гөнчэ гоничэл ноӈартан амантаки.
+\ru "Тебе вернётся," -- дедушка отцу сказал, они сказали друг другу, отцу.
+
+\id Golikova_NM_FunStorFath_007
+\ref
+\tx Če   ammụ           hagdịnịdʒị, amarla         mindule         uŋne          boholokle         ele          emden,
+\mb če   aman   -W        hagdị -RIdʒI    amar   -(dU)LE min     -(dU)LE uŋne          poselok   -(dU)LE erek -(dU)LE em   -R(E)    -n(I)
+\ge ptl.Y father -poss.1sg old     -ant.cvb   behind -loc    1sg.obl -loc    over.there.loc village.R -loc    prox -loc    come -nonfut  -3sg
+
+\tx dʒe   ele          bidden                 buolla.
+\mb dʒe   erek -(dU)LE bi -D    -R(E)   -n(I) buollar
+\ge well.Y prox -loc    be -prog -nonfut -3sg  dp.Y
+
+\nt амарла -- потом
+\qu
+\ELANBegin 34.390
+\ELANEnd 40.460
+\ELANParticipant
+\ev Чэ амму хагдинидьи, амарла миндулэ унӈэ бөхөлөклэ  элэ эмдэн, дьэ элэ  биддэн буолла.
+\ru Отец когда состарился, потом приехал ко мне в поселок сюда, здесь  находится.
+
+\id Golikova_NM_FunStorFath_008
+\ref
+\tx Tarịč   omneken        dọlbọ hukledʒimnin,       mịaldam,          mịaldakụ:               "ịak kaịldawaːttan
+\mb tarak -Č  omen -REkEn    dọlba   hukle -D    -mnIn    mịal  -R(E)   -m  mịal  -REk      -W        ịak  kaịlda -WEːČ -R(E)   -n(I)
+\ge dist  -ins one  -iter.adv night     sleep -prog -dur.cvb wake.up -nonfut-1sg wake.up -cond.cvb -poss.1sg what   rustle   -gnr    -nonfut -3sg
+
+\tx ilegutte?"
+\mb irek  -(dU)LE =(W)UttE
+\ge which -loc    =indef
+
+\nt
+\qu
+\ELANBegin 40.460
+\ELANEnd 46.930
+\ELANParticipant
+\ev Тарич өмнэкэн долбо хуклэдьимнин мялдам мялдаку: "як каялдаваттан илэгуттэ "
+\ru Однажды, когда спала ночью, проснулась, когда проснулась: "Кто там  шебуршит где-то?"
+
+\id Golikova_NM_FunStorFath_009
+\ref
+\tx Kụŋa bekečen            hukleddimdeh                bihin,            ịak kaịldan?     goːnem.
+\mb kụŋa bekeč -E-n(I)      hukle -D    -RI       -mdEs bi -RI  -n(I)     ịak kaịlda -n(I) goːn -R(E)   -m
+\ge child   all    -ep-poss.3sg sleep -prog -impf.ptc -sml  be -pst -poss.3sg what  rustle   -3sg  say   -nonfut -1sg
+
+\nt
+\qu
+\ELANBegin 46.930
+\ELANEnd 50.370
+\ELANParticipant
+\ev Куӈа бэкэчэн хуклэддимдэх бихин, як каилдан? гөнэм
+\ru Вроде бы все дети спят, кто там шербуршит? говорю
+
+\id Golikova_NM_FunStorFath_010
+\ref
+\tx Bide      tar  ńụːrmanịkan   dʒe   kukońatki          horrem...
+\mb biː =DE  tar  ńụːrma -nIkEn   dʒe   kukoń    -E-t(E)kI hor -R(E)   -m
+\ge 1sg  =ptl thus stalk      -sim.cvb well.Y kitchen.R -ep-all   go  -nonfut -1sg
+
+\nt нюрмаддам - крадусь
+\qu
+\ELANBegin 50.370
+\ELANEnd 54.810
+\ELANParticipant
+\ev Бидэ тар нюрманикан дье куканетки хөррэм,
+\ru вот, я подкралась к кухне..
+
+\id Golikova_NM_FunStorFath_011
+\ref
+\tx Ńụːrmaram           ečin      eŋenem                  kukońńaj,                kukońńaj                 eŋeneku:
+\mb ńụːrma -R(E)   -m   erroːčin eŋen       -R(E)   -m   kukoń    -(dU)LE -J       kukoń    -(dU)LE -J       eŋen     -REk      -W
+\ge stalk      -nonfut -1sg prox.qual  take.a.look -nonfut -1sg kitchen.R -loc    -prfl.sg kitchen.R -loc    -prfl.sg come.look -cond.cvb -poss.1sg
+
+\tx Araj,      ịak erek?
+\mb araj       ịak erek
+\ge suddenly.Y what  prox
+
+\nt арай -- як.
+\qu
+\ELANBegin 54.810
+\ELANEnd 60.500
+\ELANParticipant
+\ev Нюрмарам эчин эӈэнем куконяй, куконяй эӈэнэм: Арай, як эрэк
+\ru Подкралась я к кухне тихонько, заглянула в кухню тихонько: Ну вот, что это?
+
+\id Golikova_NM_FunStorFath_012
+\ref
+\tx Bi   ammụ                     dọːg ọjdʒị           buketen      unkuːleːdʒeːnden                 buketen      araːhač
+\mb biː aman   -W        -W        dọːg ọj    -DʒI        bụkatïn   ünküːleː -dʒEːn -R(E)    -n(I) bụkatïn   araːs    -E-Č
+\ge 1sg  father -poss.1sg -poss.1sg inner   clothes -ins.prfl.sg completely.Y dance.Y      -dur     -nonfut  -3sg  completely.Y various.Y -ep-ins
+
+\tx - araːhač
+\mb araːs    -E-Č
+\ge various.Y -ep-ins
+
+\nt букэтэн, араҕач -- по-всякому (як.), Роббек: dọːg ọj - нижнее белье 
+\qu
+\ELANBegin 60.500
+\ELANEnd 68.450
+\ELANParticipant
+\ev Би амму дог ойди букэтэн ункулэдендэн букэтэн араhач-араhач
+\ru Мой отец в нижнем белье по-всякому совсем танцует.
+
+\id Golikova_NM_FunStorFath_013
+\ref
+\tx Tarịt čahkị eŋenem,                 čịdalan                   bi   hụnaːdʒu          nọŋman ọlamkanča
+\mb tarịt časkị eŋen       -R(E)   -m   čịda       -(dU)LE -n(I)  biː hụnaːdʒ -W        nọŋman ọlan        -WkEn -čE
+\ge then    far      take.a.look -nonfut -1sg opposite.side -loc -poss.3sg 1sg  daughter    -poss.1sg 3sg.acc   be.frightened -caus -pf.ptc
+
+\tx ebit       ammu.
+\mb ebit       aman   -W
+\ge it.seems.Y father -poss.1sg
+
+\nt čịdalan - za nim, čịdadụn, čịdalịn
+\ELANBegin 68.450
+\ELANEnd 73.060
+\ELANParticipant
+\ev Тарит чахки эӈэнэм, чидалан би хунадю ноӈман оламканча эбит амму
+\ru Посмотрела дальше, за ним дочь моя его напугала, оказывается, отца.
+
+\id Golikova_NM_FunStorFath_014
+\ref
+\tx Dʒe   buketen      hokelen            bekečen            ejeːheken            unkuːleːnden,
+\mb dʒe   bụkatïn   hokel -E-n(I)      bekeč -E-n(I)      ejeː -s(E)n -kEn     ünküːleː  -R(E)   -E  -n(I)
+\ge well.Y completely.Y sweat -ep-poss.3sg all    -ep-poss.3sg flow  -lim   -trm.cvb dance.Y       -nonfut -ep -3sg
+
+\tx ahụn   unkuːleːdditnen                 buolla?
+\mb ahụn   ünküːleː -D    -RI  -tEn      buollar
+\ge how.much dance.Y      -prog -pst -poss.3pl dp.Y
+\gr okaːt ejeːhenče -- potekla, okaːt ejeːnni -- reka techet, bi hokelu -- moj pot  
+\nt ункулэддэн, hokeldej 'vspotetj' , эендэй 'techj' , bụkatïn completely.Y, ункэлэдьитнэн -- ункэлэддитнэн ?
+\ELANBegin 73.060
+\ELANEnd 78.030
+\ELANParticipant
+\ev Дьэ букэтэн хөкэлэн бэкэчен эехэкэн ункулэдендэн, ахун ункэлэдьитнэн буолла
+\ru До того танцует, что аж пот течет, сколько они там танцевали?
+
+\id Golikova_NM_FunStorFath_015
+\ref
+\tx Haːtar    ihin  tarak bi   hụnaːdʒụ        ičin họgnan,     taraw      udukču dʒọːŋịwaːttan.
+\mb haːtar    ihin  tarak biː hụnaːdʒ -W        ičin họgna -n(I) tarak -W           dʒọːŋị -WEːČ -R(E)   -n(I)
+\ge xotja.by.Y for.Y dist  1sg  daughter    -poss.1sg how   move    -3sg  dist  -acc         repeat        -gnr    -nonfut -3sg
+
+\nt хатар ихин -- ну вот (як),  удумаҕа -- сходство с кем-чем-либо (як.)
+\qu udukču
+\ELANBegin 78.030
+\ELANEnd 83.440
+\ELANParticipant
+\ev Хатар ихин , тарак би хунадю ичин хагуннан, тарав удукчу дьониваттан
+\ru Ну вот, как моя дочь там танцует, он точно  так же все повторяет.
+
+\id Golikova_NM_FunStorFath_016
+\ref
+\tx O,      dʒe   bi   erek: ńan   mineč       ọlaldadʒịn           bi   ńụːrmanịkan   amahkị         mụčụram
+\mb o       dʒe   biː erek  ńaːn min     -Č  ọlalda      -DʒI -n(I) biː ńụːrma -nIkEn   amar   -skI      mụčụ -R(E)   -m
+\ge about.R well.Y 1sg  prox  and    1sg.obl -ins be.frightened -fut  -3sg  1sg  stalk      -sim.cvb behind -advb.all return    -nonfut -1sg
+
+\tx kọhlaj.
+\mb xọs  -(dU)LE -J
+\ge room.Y -loc    -prfl.sg
+
+\nt мучуддам -- возвращаюсь,
+\ELANBegin 83.440
+\ELANEnd 88.480
+\ELANParticipant
+\ev Одьэ би эрэк нян минэч олалдадьин би нюрманикан амахки мучурам кохлаи
+\ru Вот я это (подумав): меня испугается, и я крадучись вернулась в комнату.
+
+\id Golikova_NM_FunStorFath_017
+\ref
+\tx Kọhlaji               kuriń    kobelderem                dʒe   edetnen                 mineč
+\mb xọs  -(dU)LE -J       kuriń    kobelde      -R(E)   -m   dʒe   e   -DE       -tEn      min     -Č
+\ge room.Y -loc    -prfl.sg purposely make.a.noise -nonfut -1sg well.Y neg -purp.cvb -poss.3pl 1sg.obl -ins
+
+\tx ọlaldar              oleːkeč       mịalham                   bihem.
+\mb ọlalda      -R       oleːk -E  -Č  mịal  -s(E)n -R(E)   -m   bi -R(E)   -m
+\ge be.frightened -neg.cvb lie    -ep -ins wake.up -lim   -nonfut -1sg be -nonfut -1sg
+
+\nt куринь - нарочно, олэкэч - обманом, кобэлдэддэм -- я стучу (звуки издаю)
+\ELANBegin 88.480
+\ELANEnd 93.430
+\ELANParticipant
+\ev Кохлаи куринь көбэлдэрэм дьэ эдэтнэн минэч олалдар, олэкэч мялхам бихэм.
+\ru В своей комнате нарочно стучала, чтобы не испугались, как будто бы только проснулась.
+
+\id Golikova_NM_FunStorFath_018
+\ref
+\tx Kobeldeniken          ńanda      kukońetki          horrem,          hụnaːdʒu          minu         dʒalapkị
+\mb kobelde      -nIkEn   ńaːn =DE  kukoń    -E-t(E)kI hor -R(E)   -m   hụnaːdʒ -W        min     -W   dʒalapkị
+\ge make.a.noise -sim.cvb and    =ptl kitchen.R -ep-all   go  -nonfut -1sg daughter    -poss.1sg 1sg.obl -acc in.the.opposite.direction
+
+\tx erteki       hịnmajač,       gobon           erteki,      ieltenni.
+\mb erek -t(E)kI hịnma -jEː -Č  gobe      -n(I) erek -t(E)kI ielten -n(I)
+\ge prox -all    fast    -aug  -ins disappear -3sg  prox -all    pass   -3sg
+
+\nt би гоборэм -- я спряталась, hịnmač - bystro, hịnmajač -bystrenjko
+\ELANBegin 93.430
+\ELANEnd 101.240
+\ELANParticipant
+\ev Кобэлдэникэн нянда куконятки хөррэм, хунадю мину дялапки эртэки хинмаяч  гобон эртэки, елтэнни.
+\ru Создавая шум, я пошла в сторону кухни, дочь мне на встречу сюда выбежала быстро, скрылась туда, прошла мимо.
+
+\id Golikova_NM_FunStorFath_019
+\ref
+\tx Tarič        bụọlla ammụ           bụọlla ïna:   O,      dʒe
+\mb tarak -E-Č   buollar    aman   -W        buollar    *ï -DE o       dʒe
+\ge dist  -ep-ins dp.Y       father -poss.1sg dp.Y       *** -vr about.R well.Y
+
+\tx hočuhte       bigreče          ebit       goːniken      tegehnen                          ọlọkmọhtụ.
+\mb hočus    =DE  bi -Gr(E) -čE    ebit       goːn -nIkEn   teg      -E  -s(E)n -R(E)   -n(I) ọlọxmọs -DU
+\ge tiredness =ptl be -hab   -pf.ptc it.seems.Y say   -sim.cvb sit.down -ep -lim   -nonfut -3sg  seat.Y        -dat
+
+\nt олокмо -- стул, табуретка; хочух бигрэчэ , hočus - trudnostj, ustalostj, hočuheː -- trudnocti proizoshli, hočusel -- trudnosti
+\qu ына?
+\ELANBegin 101.240
+\ELANEnd 108.090
+\ELANParticipant
+\ev Тарич буолла амму буолла ына Одьэ хөчух-тэ бигрэчэ эбит гөникэн тэгэхнэн  олохмохту.
+\ru Ну вот отец мой вздохнул со словами: О, как я устал и сел на скамейку..
+
+\id Golikova_NM_FunStorFath_020
+\ref
+\tx Bi.. bi   amantakị     ulgimirem:                   Amaː,     ịadʒịh         tawar?
+\mb biː biː aman   -t(E)kI ulgim -RI       -R(E)   -m   amaː      ịa    -D    -s(I) tarak
+\ge 1sg  1sg  father -all    ask   -impf.ptc -nonfut -1sg father.voc do.what -prog -2sg  dist
+
+\nt
+\qu
+\ELANBegin 108.090
+\ELANEnd 112.000
+\ELANParticipant
+\ev Би... би амантаки улгимирэм: Амма, йаджих тавар?
+\ru Я у отца спросила: Что вы это делаете?
+
+\id Golikova_NM_FunStorFath_021
+\ref
+\tx Tawar dʒe:  Biːkke minu         ọlamkannị             gonni,     bi   minu         buketen      hočekmu
+\mb tarak dʒe   Biːkke min     -W   ọlan        -WkEn -n(I) ge    -nrI biː min     -W   bụkatïn   hot       -E -kEn      -W
+\ge dist  well.Y Vika    1sg.obl -acc be.frightened -caus -3sg  exclm -2sg 1sg  1sg.obl -acc completely.Y get.tired -ep -trm.cvb -poss.1sg
+
+\tx unkuːleːwkenni         ehni              goːnni,    hịkụtịč.
+\mb ünküːleː -WkEn -n(I) e   -R(E)   -n(I) goːn -n(I) hịkụtị -Č
+\ge dance.Y      -caus -3sg  neg -nonfut -3sg  say   -3sg  silent       -ins
+\gr (DM) hočekmu is a inflected form of trm.cvb -kEn, this form is cpecific for TOP. It is not a SS-converb any more, since it has person marking. Phonetics:
+sometimes there is a schwa after k, but not in is case (Golikova speaks very fast)
+\nt
+\ELANBegin 112.000
+\ELANEnd 119.310
+\ELANParticipant
+\ev Тавар дьэ Биккэ мину оламканни гонни, би мину букэтэн хөчэкму ункулэвкэнни  эхни гонни, хикутич
+\ru Вика меня напугала, я.. меня по-всякому, до устали заставила же танцевать,  молча, он сказал
+
+\id Golikova_NM_FunStorFath_022
+\ref
+\tx Ičin họgnan,     taraw      bekeččen  dʒọːŋịram              goːnni
+\mb ičin họgna -n(I) tarak -W   bekeč -KEn dʒọːŋị -r(E) -W        goːn -n(I)
+\ge how   move    -3sg  dist  -acc all    -dim repeat        -vr   -poss.1sg say   -3sg
+
+\ph bekeččin?
+\nt хогнадаи -- шевелиться, двигаться
+\ELANBegin 119.310
+\ELANEnd 123.040
+\ELANParticipant
+\ev Ичин hогнан тарав бэкэччэн дьоӈнирам, гонни
+\ru Как она танцевала, все я повторял, сказал.
+
+\id Golikova_NM_FunStorFath_023
+\ref
+\tx Dʒe   tarịt tegehnidʒi                             bi   ammị          goːnem:           Amaː      dʒọlịga           amahkị,
+\mb dʒe   tarịt teg      -E             -s(E)n -RIdʒI  biː aman   -J       goːn -R(E)   -m   amaː      dʒọn  -LI      =gE  amar   -skI
+\ge well.Y then    sit.down -ep            -lim   -ant.cvb 1sg  father -prfl.sg say   -nonfut -1sg father.voc remember -imp.2sg =ptl behind -advb.all
+
+\tx goːnem.
+\mb goːn -R(E)   -m
+\ge say   -nonfut -1sg
+\gr ikeːli-ge spoj-ka, emni-ge - приходи-ка, horli-ge - idi-ka
+\nt амми -- отцу своему, -га =ptl, appears on imperatives
+\ELANBegin 123.040
+\ELANEnd 128.530
+\ELANParticipant
+\ev Дьэ тарит тэгэхнидьи би амми гонэм: Ама, дьоли-га амахки, гонэм.
+\ru Тогда я, сев, отцу сказала: Отец, вспомни прошлое, говорю.
+
+\id Golikova_NM_FunStorFath_024
+\ref
+\tx Upeːjeːw,            abagajaːw             ọlamkačịdgarandị,                 minu         ńan
+\mb upeː       -jEː -W   abaga       -jEː -W   ọlan  -WkEn -Č  -E  -D    -Gr(E) -nrI min     -W   ńaːn
+\ge grandmother -aug  -acc grandfather -aug  -acc fearful -caus -res -ep -prog -hab   -2sg 1sg.obl -acc and
+
+\tx ọlamkačịkanịkan
+\mb ọlan  -WkEn -Č  -E  -WkEn -nIkEn
+\ge fearful -caus -res -ep -caus -sim.cvb
+\gr ọlamkačịkanịkan has two causatives, the translation was checked and the finite form is ọlamkacịkanam "ja zastavljaju pugatj". It is strange, why it didn't give
+ọlamkačụkanịkan
+\nt оламкачиддам -пугаю
+\ELANBegin 128.530
+\ELANEnd 133.610
+\ELANParticipant
+\qu I wonder whether the glossing of upejew/abagajaw with -jA: (aug) is correct - I think it might just as well/is more likely to be the associative
+plural suffix
+\ev Упэев, абагаяв оламкачидгарандьи, мину нян оламкачиканикан
+\ru Бабушку, дедушку пугал и меня заставлял пугать.
+
+\id Golikova_NM_FunStorFath_025
+\ref
+\tx Čaːmakčalbụda        elgewkenih,               anï  damïr...
+\mb čaːmakčan -L-W    =DE  elge -WkEn -RI  -s(I)     anï  da    - *mï -L
+\ge mouse        -pl-acc =ptl lead -caus -pst -poss.2sg now.Y yes.R - ***  -pl
+
+\nt
+\qu damïr -- something (Sakha)
+\ELANBegin 133.610
+\ELANEnd 137.030
+\ELANParticipant
+\ev Чамакчалбудa элгэвкэних, aны дамыр
+\ru Мышей приводил, ну еще там..
+
+\id Golikova_NM_FunStorFath_026
+\ref
+\tx Elbemutnende              hịrkań     hučukenih                    goːnem,
+\mb elbem -W   -tEn      =DE  hịrkan -Č  hut      -WkEn -RI  -s(I)     goːn -R(E)   -m
+\ge jurt  -acc -poss.3pl =ptl knife    -ins drive.in -caus -pst -poss.2sg say   -nonfut -1sg
+
+\tx talị        huːli        goːnidʒi     anï  damar ịarịhkene.
+\mb tarak -(dU)LI huː -LI      goːn -RIdʒI  anï        ịa    -RI  -s(I)     =kEnE
+\ge dist  -prol   blow -imp.2sg say   -ant.cvb now.Y       do.what -pst -poss.2sg =contr
+
+\nt elbem -- palatka.
+\qu damar ? 
+\ELANBegin 137.030
+\ELANEnd 144.360
+\ELANParticipant
+\ev Элбэмутнэндэ хиркань хучукэних гонэм, тали хули гонидьи аны дамар ярихкене
+\ru Палатку ножом тыкал, говорю, туда дуй говорил, вот такое все делал..
+
+\id Golikova_NM_FunStorFath_027
+\ref
+\tx Ụčakụda              dʒawlị           goːneketnen                 ịalịkene            naŋtịhannaị                   onnudun
+\mb ụčak         -W   =DE  dʒaw      -LI      goːn -E  -kEn     -tEn      ịa    -LI      =kEnE  naŋtị -s(E)n -nE -J             onnudun
+\ge riding.reindeer -acc =ptl catch.hold -imp.2sg say   -ep -trm.cvb -poss.3pl do.what -imp.2sg =contr b     -lim   -intent   -prfl.sg instead.of
+
+\tx kuntek dụlakadụn              čaːwrịnịkan   dessidih              goːnem.
+\mb tek dụlak -E  -DU  -n(I)        čaːwrị -nIkEn   desči -RI  -s(I)     goːn -R(E)   -m
+\ge field  middle  -ep -dat -poss.3sg lie        -sim.cvb lie    -pst -poss.2sg say   -nonfut -1sg
+
+\gr gurgrwčinnej onnodun -- vmesto togo, chtoby rabotatj, gurgewčininnej onnodun -- vmesto togo, chtoby idti rabotatj
+\ph ịalịk'eńe
+\nt
+\ELANBegin 144.360
+\ELANEnd 153.190
+\ELANParticipant
+\ev Учакуда дявли  гонэкэтнэн яликэнэ наӈтихиннаи оннодун кунтэк дулакадун  чавриникан дэссидих гөнэм.
+\ru Когда ему говорят "Поймай верхового оленя", вместо того, чтобы поймать,  посреди поля лежишь, зевая.
+
+\id Golikova_NM_FunStorFath_028
+\ref
+\tx Dʒe   tawar "nanmịwandị           ehendi"  rovno     eleken  goːnčel         goːnem
+\mb dʒe   tarak nanmịn  -W     -E  -nrI e   -nrI rovno     eleken  goːn -čE -L     goːn -R(E)   -m
+\ge well.Y dist  retaliate -advrs -ep -2sg neg -2sg exactly.R exactly say   -pf.ptc -pl say   -nonfut -1sg
+
+\nt
+\qu
+\ELANBegin 153.190
+\ELANEnd 157.970
+\ELANParticipant
+\ev Дье тавар нанмиванди эхэндьи ровно элэкэн гончэл гонэм.
+\ru Ну вот "тебе же это и пришло" точно сказали.
+
+\id Golikova_NM_FunStorFath_029
+\ref
+\tx Meːndʒi          ọlan  ọːča       bihindi,     ọlan  beju     ennej                 oːhejre        ọl_ihin   bekettekin
+\mb meːn -DʒI        ọlan  ọː  -čE    bi -RI  -nrI ọlan  bej -W   e   -nnE     -J       oːsej -R       ọl_ihin   bekeč -t(E)kI -n(I)
+\ge refl  -ins.prfl.sg fearful become -pf.ptc be -pst -2sg fearful man -acc neg -nec.ptc -prfl.sg tease  -neg.cvb therefore.Y all    -all    -poss.3sg
+
+\tx tačịn       goːŋdemi             nada.
+\mb tarọːčịn goːn -Gr(E) -mI       nada
+\ge dist.qual      say   -hab   -cond.cvb need.R
+
+\ELANBegin 157.970
+\ELANEnd 165.030
+\ELANParticipant
+\ev Мэндьи олан оча бихинди, олан бэйу эней охэйрэ олихин бэй бэккэттэкин  тачин гоӈдэми нада
+\ru Ты сам стал пугливым, поэтому нельзя подшучивать над такими людьми, поэтому надо так всем людям сказать.
+
+\id Golikova_NM_FunStorFath_030
+\ref
+\tx Ajeː
+\mb aj   =eː
+\ge good =emph
+
+\nt
+\ELANBegin 165.030
+\ELANEnd 168.430
+\ELANParticipant
+\ev Айэ..
+\ru 
+
+
+\ELANMediaURL file:///C:/NatAr/Topolinoe2011/Top_GNM_3_2-fun.stor.father-ev/Top_GNM_3_2_FunStorFath.CAM.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaURL file:///C:/NatAr/Topolinoe2011/Top_GNM_3_2-fun.stor.father-ev/Top_GNM_3_2_FunStorFath.mpg
+\ELANMediaMIME video/mpeg

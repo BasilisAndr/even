@@ -1,0 +1,4187 @@
+\_sh v3.0  1176 Text
+
+\id Ichanga_Adukanov_muzej1_cont_000_metadata
+\ref Recorded on 22 June 2007 in Esso by Brigitte Pakendorf. The recording was done in the little ethnographic museum, with Aleksej Ichanga and
+his friend Albert Adukanov going through the exhibit, Aleksej mainly explaining things, but Albert pitching in as well. In 2007, only about 4
+minutes were transcribed, translated and glossed, and then in 2016 BP undertook to finish the entire recording. Unfortunately, in 2007 the
+video. although digitized in .avi format, was not converted to an .mpeg format, and in 2016 BP didn't have the video file with her (since she
+hadn't thought she would be working on this when she left for the field). This made the transcription and translation a bit difficult at times, since
+it's not always clear what they're talking about. The file for the first four minutes is "Ichanga_Adukanov_museum" (only Toolbox), which is
+followed by this file (ELAN and Toolbox); the final bit of recording comprises the file "Ichanga_Adukanov_muzej2" (ELAN and Toolbox).
+\qu In 2016, transcribed by BP, transcription checked and Russian translation by Rimma Maksimovna Egorova, glossing by BP. Funding by the Max Planck
+Society (MPRG on Comparative Population Linguistics) and CNRS/Universit� Lyon 2 (laboratoire DDL). Speaker abbreviations = AEI, ASA
+\ref Aleksej Evstropovich Ichanga was 46 at the time of recording. He was working in the ethnographic museum at the time. He had always been
+hard of hearing, which explains why he often doesn't hear what Albert says and therefore asks ("hunh?"), and it also explains his intonation. He is
+the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
+\ref  Al'bert Sergeevič Adukanov was 45 at the time of recording. He has since passed away.
+
+\id Ichanga_Adukanov_muzej1_cont_001
+\ref
+\tx I...  ọːkụtta,   gde-to      v    semnadzatom   veke,         uŋe,   ọrọčịlbe        krestilliten                   pravoslavnaj
+\mb i     ọːk =(W)UttE gde-to      v    semnadzatom   veke          uŋ -E  ọrọč -E  -L  -W   krestil         -RI -tEn       pravoslavnyj
+\ge and.R when   =indef   somewhere.R in.R seventeenth.R century.loc.R do  -ep Oroch     -ep -pl -acc baptize.pst.m.R -pst -poss.3pl orthodox.m.R
+
+\tx veru.
+\mb veru
+\ge faith.acc.f.R
+\ft Sometime in the 17th century they baptized the Evens into the orthodox faith.
+\ev
+\ru Когда-то где-то в 17м веке, эвенов крестили 
+\ELANBegin 00:04:56.820
+\ELANEnd 00:05:07.520
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_002
+\ref
+\tx ....  mut    uŋe    pravoslavnaj ọːdit.
+\mb *.... mut    uŋ -E  pravoslavnyj ọː  -RI -t(I)
+\ge ***   1pl.in do  -ep orthodox.m.R become -pst -poss.1pl.in
+\ft And so, sometime in the 17th century, end of the 17th, 18th century we became orthodox.
+\ev
+\ru И вот, унге, в 17м веке где-то, конец семнадцатого восемнадатый век... мы православные стали
+\ELANBegin 00:05:07.520
+\ELANEnd 00:05:17.800
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_003
+\ref
+\tx Tak  pravoslavnaj ikon,  ač gerbele,   ọːnkana,   Čefan?
+\mb tak  pravoslavnyj ikon   ač gerbe -LE  ọːn =kEnE  Čefan
+\ge so.R orthodox.m.R icon.R neg name  -prv how    =contr Stepan(?)
+\ft So, an orthodox icon without a name, how is it, Chefan?
+\ev
+\ru Православноя икона, без названия, как же, Чефан?
+\ELANBegin 00:05:17.800
+\ELANEnd 00:05:25.700
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_004
+\ref
+\tx Čefan.
+\mb Čefan
+\ge Stepan(?)
+\ft Chefan?
+\ev
+\ru
+\ELANBegin 00:05:25.700
+\ELANEnd 00:05:27.220
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_005
+\ref
+\tx
+\mb
+\ft It doesn't matter...
+\ev
+\ru Это без разниц...
+\ELANBegin 00:05:27.220
+\ELANEnd 00:05:29.880
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_006
+\ev pause
+\ru
+\ELANBegin 00:05:29.880
+\ELANEnd 00:05:36.160
+\ELANParticipant
+
+\id Ichanga_Adukanov_muzej1_cont_007
+\ref
+\tx Erek babka         Ańika, čajčịba.
+\mb erek babuška      Ańika  čajčaba
+\ge prox grandmother.R Anika   reindeer.herding.Koryak
+\ft This is granny Anika, a Koryak.
+\ev
+\ru Это бабка Аника, корячка.
+\ELANBegin 00:05:36.160
+\ELANEnd 00:05:39.900
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_008
+\ref
+\tx
+\ft ehm.... gran.... this...
+\ev uhm... bab.. erek
+\ru
+\ELANBegin 00:05:39.900
+\ELANEnd 00:05:42.100
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_009
+\ref
+\tx Čajčịbal                nọŋartan uŋduk,           nọŋartan severimŋel,             uŋduk,           iduwut,             vsegd(a)..
+\mb čajčaba               -L  nọŋartan uŋ       -DUk(U) nọŋartan sever   -E  -mŋE -E-L   uŋ       -DUk(U) irek  -DU  =(W)UttE vsegda
+\ge reindeer.herding.Koryak -pl 3pl         something -abl    3pl         north.R -ep -nr   -ep-pl something -abl    which -dat =indef   always.R
+
+\tx tegenukeː               uŋkke         ilekene,             Kamenskaduk       nọŋartan.
+\mb tege     -(I)nUk   =eː  uŋ       =kkE irek  -(dU)LE =kEnE  Kamenskoe -DUk(U) nọŋartan
+\ge distance -advb.abl =emph something =ptl which -loc    =contr Kamenskoe -abl    3pl
+
+\ft Koryaks, they are from somewhere, they are northern people, from somewhere, from far away, where again, they are from Kamenskoe.
+\ev
+\ru Коряки они оттуда они северные оттуда откуда-то издалека где-же из Каменска они.
+\ELANBegin 00:05:42.100
+\ELANEnd 00:05:52.066
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_010
+\ref
+\tx Vsjorav(no)    Kamenskoe, severgič.
+\mb vseravno       Kamenskoe  sever   -GIČ
+\ge all.the.same.R Kamenskoe  north.R -elat
+\ft Anyway, from Kamenskoe, from the north.
+\ev
+\ru ...с севера
+\ELANBegin 00:05:52.066
+\ELANEnd 00:05:55.251
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_011
+\ref
+\tx Ọːkụtta    ọrọčịlduk          ńọːnitan            tadụk.
+\mb ọːk =(W)UttE ọrọč -E  -L  -DUk(U) ńọːn -RI -tEn       tarak -DUk(U)
+\ge when   =indef   Oroch     -ep -pl -abl    run.away -pst -poss.3pl dist  -abl
+\ft At some time they ran away from there, from the Evens.
+\ev
+\ru Когда-то от эвенов убежали, оттуда.
+\ELANBegin 00:05:55.251
+\ELANEnd 00:05:58.722
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_012
+\ref
+\tx Etikeːn ečin      guːnin,             ekičeː    ọrọčil      keńelil    bisiten.
+\mb etikeːn erroːčin goːn -RI -n(I)      ekič =eː  ọrọč -E-L   keńeli -L  bi -RI -tEn
+\ge old.man  prox.qual  say   -pst -poss.3sg very  =emph Oroch     -ep-pl bad     -pl be -pst -poss.3pl
+\ft An old man said like that, the Evens were VERY bad.
+\ev
+\ru Старик говорил, очень эвены плохие были.
+\ELANBegin 00:05:58.722
+\ELANEnd 00:06:02.895
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_013
+\ev pause
+\ru
+\ELANBegin 00:06:02.895
+\ELANEnd 00:06:11.202
+\ELANParticipant
+
+\id Ichanga_Adukanov_muzej1_cont_014
+\ref
+\tx Erekkelkke       uŋ       ịak gerben?
+\mb erek =gEl   =kkE uŋ       ịak gerbe -n(I)
+\ge prox =coord =ptl something what  name  -poss.3sg
+\ft Now as for this, how is it called?
+\ev
+\ru Вот это-то, как это называется?
+\ELANBegin 00:06:11.202
+\ELANEnd 00:06:14.179
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_015
+\ref
+\tx Erek... erek... povsedne(vnoe) uŋe,         ereger mešok...
+\mb erek    erek    povsednevnoe   uŋ       -E  ereger mešok
+\ge prox    prox    everyday.R     something -ep always sack.R
+\ft This... this is a whatchamacallit for every day, always, a sack...
+\ev
+\ru
+\ELANBegin 00:06:14.179
+\ELANEnd 00:06:20.315
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_016
+\ref
+\tx innoːčildiwun
+\mb in            -WEːČ -ldIwUn
+\ge carry.on.back -gnr    -nr
+\ft to carry on one's back 
+\ev
+\ru чтобы таскать за спиной
+\ELANBegin 00:06:20.315
+\ELANEnd 00:06:22.811
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_017
+\ref
+\tx eleken
+\mb elek -n(I)
+\ge bag  -poss.3sg
+\ft her bag
+\ph
+\nt assuming that the 3sg possessives here and in the following utterances refer to the belongings of babka Anika
+\ev
+\ru его мешок
+\ELANBegin 00:06:22.811
+\ELANEnd 00:06:24.670
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_018
+\ref
+\tx inasčildiwun
+\mb in            -sčI  -ldIwUn
+\ge carry.on.back -conat -nr
+
+\ft to carry away
+\ph
+\gr conative: probably "meshok chtoby pytatjsja unesti" - but it's clearly not a fixed meaning, she had some problems with this and wanted to listen to it, and repeated it several times, so
+it might be a bit of a pun on ASA's part
+\ev
+\ru чтобы уносить
+\ELANBegin 00:06:24.670
+\ELANEnd 00:06:25.398
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_019
+\ref
+\tx
+\ft that's me
+\ev
+\ru это я
+\ELANBegin 00:06:25.398
+\ELANEnd 00:06:25.827
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_020
+\ref
+\tx elek
+\mb elek
+\ge bag
+\ft a bag
+\ev
+\ru
+\ELANBegin 00:06:25.827
+\ELANEnd 00:06:27.920
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_021
+\ref
+\tx ....  i     tarme min     gịaŋu             gerbeŋu             ịlkaŋu              ịlkan elek, elekke.
+\mb *.... i     tarma min     gịa -ŋ  -W        gerbe -ŋ  -W        ịlkan -ŋ  -W        ịlkan elek  elek =kkE
+\ge ***   and.R but   1sg.obl next  -aln -poss.1sg name  -aln -poss.1sg true    -aln -poss.1sg true    bag   bag  =ptl
+
+\ft They do call me like that, it's my second name, my true name, "bag", Elekke.
+\ph he actually says irkaŋu "my knife", but meant to say ilkaŋu
+\gr
+\nt Aleksej is Elekke in Even
+\ev
+\ru Меня так и называют.... это мое второе имя, настоящее, мешок.
+\ELANBegin 00:06:27.920
+\ELANEnd 00:06:38.502
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_022
+\ref
+\tx I...  uŋe,         ịakawụ..
+\mb i     uŋ       -E  ịak -awụ
+\ge and.R something -ep what  -emph
+\ft and this, something
+\ev
+\ru и вот что
+\ELANBegin 00:06:38.502
+\ELANEnd 00:06:41.518
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_023
+\ref
+\tx Erek giekiw         neːkčiweːtte,             un... araːn  uŋe...
+\mb erek gịakị -W   neː -(k)čI -WEːČ -R(E)   ***   haraːn uŋ       -E
+\ge prox various   -acc put  -dur    -gnr    -nonfut ***   bed     something -ep
+\ft This is (for) keeping various things, a sleeping place...
+\ev
+\ru Это все хранят тут 
+\ELANBegin 00:06:41.518
+\ELANEnd 00:06:45.457
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_024
+\ref
+\tx Gieki     biweːtten              aːn  uŋe          tepkedu,   tarke     uŋe          ọjaldu,           aːnda     uŋdu,         erek
+\mb gịakị bi -WEːČ -R(E) -n(I)  haːn uŋ       -E  tipke -DU  tar  =kkE uŋ       -E  ọj    -E-L   -DU  haːn =DE  uŋ       -DU  erek
+\ge various   be -gnr    -nonfut -3sg some  something -ep bag   -dat thus =ptl something -ep clothes -ep-pl -dat some  =ptl something -dat prox
+
+\tx uŋ       unkandu,     erek...
+\mb uŋ       ụnkan -DU  erek
+\ge something spoon   -dat prox
+\ft There are various (bags), bags for keeping (other bags), that's for clothes, some for something, this is for spoons, this...
+\ev
+\ru Всякие бывают, мешки для хранения, это для одежды, некоторые для чего-то, это для ложек....
+\ELANBegin 00:06:45.457
+\ELANEnd 00:06:56.026
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_025
+\ref
+\tx unkaruk
+\mb ụnkan -RUk
+\ge spoon   -nr
+\ft a bag for spoons
+\ev
+\ru
+\ELANBegin 00:06:56.026
+\ELANEnd 00:06:56.754
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_026
+\ref
+\tx erek ọrakan
+\mb erek ọraːk          -E-n(I)
+\ge prox tobacco.container -ep-poss.3sg
+\ft this is her tobacco container
+\ev
+\ru это его табакерка
+\ELANBegin 00:06:56.754
+\ELANEnd 00:06:58.678
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_027
+\ref
+\tx ọrakan
+\mb ọraːk          -E-n(I)
+\ge tobacco.container -ep-poss.3sg
+\ft her tobacco container
+\ph sounds more like arakan, and Rimma said "chto za arakan" - but I think he just repeats the "orakan" with a less rounded first vowel
+\ev
+\ru
+\ELANBegin 00:06:58.678
+\ELANEnd 00:06:59.822
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_028
+\ref
+\tx Erek tože  ọrakan,                      uŋduk,           tarmekiː   urtaduk
+\mb erek tože  ọraːk          -E-n(I)      uŋ       -DUk(U) tarma =kE   ụrta -DUk(U)
+\ge prox also.R tobacco.container -ep-poss.3sg something -abl    but   =emph bark   -abl
+\ft This is also her tobacco container, but (made) from bark.
+\ev
+\ru Это тоже табакерка, но из коры.
+\ELANBegin 00:06:59.822
+\ELANEnd 00:07:03.046
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_029
+\ref
+\tx kiːwaduk
+\mb kiːwa    -DUk(U)
+\ge birchbark -abl
+\ft from birchbark
+\ev
+\ru из березовой коры
+\ELANBegin 00:07:03.046
+\ELANEnd 00:07:03.813
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_030
+\ref
+\tx kiːwa,   iː kiːwaduk
+\mb kiːwa    iː kiːwa    -DUk(U)
+\ge birchbark yes birchbark -abl
+\ft birchark, yes, from birchbark
+\ev
+\ru
+\ELANBegin 00:07:03.813
+\ELANEnd 00:07:05.750
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_031
+\ref
+\tx Erek taŋńaduk,     anaŋ taŋńadukun
+\mb erek taŋńa -DUk(U) anaŋ taŋńa -DUk(U) -n(I)
+\ge prox antlers -abl    ram   antlers -abl    -poss.3sg
+\ft this is (made) of horn, mountain sheep horn
+\ph
+\nt he uses the wrong word here, antlers instead of horn
+\ev
+\ru
+\ELANBegin 00:07:05.750
+\ELANEnd 00:07:08.181
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_032
+\ref
+\tx koːje
+\mb koːje
+\ge horns
+\ft horn
+\ev
+\ru
+\ELANBegin 00:07:08.181
+\ELANEnd 00:07:09.689
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_033
+\ref
+\tx erek imočiwen
+\mb erek imočiwen
+\ge prox chopping.board
+\ft this is a chopping board
+\ph
+\nt made from thick wood or horn, to chop meat or bones
+\ev
+\ru это резальная доска (из дерева или кости) для рубки мяса или костей
+\ELANBegin 00:07:09.689
+\ELANEnd 00:07:12.068
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_034
+\ref
+\tx Erew      goːweːtte           meriken.
+\mb erek -W   goːn -WEːČ -R(E)   meriken
+\ge prox -acc say   -gnr    -nonfut knife.type
+\ft They call this a meriken (a type of knife).
+\ev
+\ru Это называют мерикен.
+\ELANBegin 00:07:12.068
+\ELANEnd 00:07:14.980
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_035
+\ref
+\tx Ŋiːkke   ešni          aːra         gerbuččoːtten                meriken    ostryj, a     bejdʒimeje   gerben          tarkke
+\mb ŋiː =kkE e -R(E) -n(I)  haː -R       gerbu -Č  -WEːČ -R(E) -n(I)  meriken    ostryj  a.R   bejdʒi =mEjE gerbe -n(I)     tarak =kkE
+\ge who   =ptl neg -nfut -3sg know -neg.cvb call  -res -gnr    -nonfut -3sg knife.type sharp.R but.R itself  =ptl  name  -poss.3sg dist  =ptl
+
+\tx uŋe,         ịak uŋe          meriken,   a     amerikanskij.
+\mb uŋ       -E  ịak uŋ       -E  meriken    a.R   amerikanskij
+\ge something -ep what  something -ep knife.type but.R American.R
+\ft Who doesn't know things that meriken (means) sharp, but it turns out the name is not "meriken", but American.
+\ph
+\ev
+\ru Кто не знает думает что мерикен это острый, а само название такое, не мерикен, а американский.
+\ELANBegin 00:07:14.980
+\ELANEnd 00:07:26.745
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_036
+\ref
+\tx Ọːkụtta    amerikancal       uŋe          iruwaːttitan                     nan    tarakam       tar  ịrkam       gerburiten           meriken.
+\mb ọːk =(W)UttE amerikanec -E-L   uŋ       -E  ịr -U    -WEːČ -RI -tEn       ńaːn tarakam       tar  hịrkan -W   gerbu -RI -tEn       meriken
+\ge when   =indef   American.R -ep-pl something -ep cart -caus -gnr    -pst -poss.3pl and    in.those.days thus knife    -acc call  -pst -poss.3pl knife.type
+\ft At some time Americans brought it and then they called that knife "meriken".
+\ev
+\ru Когда-то американцы возили и тогда назвали мерикен.
+\ELANBegin 00:07:26.745
+\ELANEnd 00:07:35.611
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_037
+\ref
+\tx A     bejdʒi nọŋan amerikanskij.
+\mb a.R   bejdʒi nọŋan amerikanskij
+\ge but.R itself  3sg      American.R
+\ft But actually it's "American".
+\ev
+\ru А сам он американский
+\ELANBegin 00:07:35.611
+\ELANEnd 00:07:38.185
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_038
+\ref
+\tx Erek gerben          nịːna
+\mb erek gerbe -n(I)     nịːna
+\ge prox name  -poss.3sg dish
+\ft This is called nina (a wooden dish).
+\ev
+\ru Это называеся нина (деревянная посуда)
+\ELANBegin 00:07:38.185
+\ELANEnd 00:07:41.578
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_039
+\ref
+\tx nịːna, nịːna
+\mb nịːna  nịːna
+\ge dish      dish
+\ft dish
+\ev
+\ru
+\ELANBegin 00:07:41.578
+\ELANEnd 00:07:43.177
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_040
+\ref
+\tx
+\mb
+\ft not the Russian Nina 
+\ev
+\ru не русская Нина
+\ELANBegin 00:07:43.177
+\ELANEnd 00:07:44.672
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_041
+\ref
+\tx nịːna
+\mb nịːna
+\ge dish
+\ft dish
+\ev
+\ru
+\ELANBegin 00:07:44.672
+\ELANEnd 00:07:45.556
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_042
+\ref
+\tx ah
+\mb ah
+\ge ah
+\ft mhm
+\ev
+\ru
+\ELANBegin 00:07:45.556
+\ELANEnd 00:07:45.972
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_043
+\ref
+\tx nịːna
+\mb nịːna
+\ge dish
+\ft dish
+\ev
+\ru
+\ELANBegin 00:07:45.972
+\ELANEnd 00:07:46.479
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_044
+\ref
+\tx nịːna, iŋe nịːna
+\mb nịːna  iŋe nịːna
+\ge dish      yes  dish
+\ft dish, yes, dish
+\ev
+\ru
+\ELANBegin 00:07:46.479
+\ELANEnd 00:07:47.688
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_045
+\ref
+\tx nịːna
+\mb nịːna
+\ge dish
+\ft dish
+\ev
+\ru
+\ELANBegin 00:07:47.688
+\ELANEnd 00:07:48.351
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_046
+\ref
+\tx ullew     uŋe,         ere  alịk   ullew     neːkčimŋe
+\mb ulre -W   uŋ       -E  erek alịːk ulre -W   neː -(k)čI -mŋE
+\ge meat -acc something -ep prox dish     meat -acc put  -dur    -agnr
+\ft meat, this is a dish for putting meat
+\ph
+\gr during the translation, Rimma said it was correct to say "ullew nekčimŋe", but I thought it was a suffix for humans
+\gr 28/06/2016: checked again about the neːkčimŋe, and she now agreed that it should better be neːkčildiwun, because as said here = kotoryj mjaso lozhit
+\ev
+\ru для мяса, это посуда чтобы мясо ложить
+\ELANBegin 00:07:48.351
+\ELANEnd 00:07:53.317
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_047
+\ref
+\tx košerewda            teːleŋni
+\mb kọːsaŋa -W   =DE  teːleŋ -LI
+\ge big.knife   -acc =ptl tell     -imp.2sg
+\ft tell about the knife
+\ev
+\ru про нож расскажи
+\ELANBegin 00:07:53.317
+\ELANEnd 00:07:54.825
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_048
+\ref
+\tx
+\ft huh?
+\ev
+\ru
+\ELANBegin 00:07:54.825
+\ELANEnd 00:07:55.150
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_049
+\ref
+\tx košerewda            teːleŋni
+\mb kọːsaŋa -W   =DE  teːleŋ -LI
+\ge big.knife   -acc =ptl tell     -imp.2sg
+\ft tell about the big knife
+\ev
+\ru
+\ELANBegin 00:07:55.150
+\ELANEnd 00:07:56.489
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_050
+\ref
+\tx košere?
+\mb kọːsaŋa
+\ge big.knife
+\ft the koshere?
+\ev
+\ru
+\ELANBegin 00:07:56.489
+\ELANEnd 00:07:57.204
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_051
+\ref
+\tx iː
+\mb iː
+\ge yes
+\ft yes
+\ev
+\ru
+\ELANBegin 00:07:57.204
+\ELANEnd 00:07:58.192
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_052
+\ref
+\tx ča  iː  teːleŋni
+\mb čas hiː teːleŋ -LI
+\ge ptl  2sg  tell     -imp.2sg
+\ft better you tell
+\ev
+\ru
+\ELANBegin 00:07:58.192
+\ELANEnd 00:07:59.635
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_053
+\ref
+\tx tarkke     tar  ičukeli           guːli
+\mb tarak =kkE tar  it  -WkEn -LI      goːn -LI
+\ge dist  =ptl thus see -caus -imp.2sg say   -imp.2sg
+\ft that one over there, show (it) and tell
+\ev
+\ru вон тот покажи, скажи
+\ELANBegin 00:07:59.635
+\ELANEnd 00:08:01.221
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_054
+\ref
+\tx
+\mb
+\ft huh?
+\ev
+\ru
+\ELANBegin 00:08:01.221
+\ELANEnd 00:08:01.663
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_055
+\ref
+\tx ọnnọːttiwuten                     ikiriw,    košere
+\mb họn -WEːČ -RI -W         -tEn      ikiri -W   kọːsaŋa
+\ge chop  -gnr    -impf.ptc -acc -poss.3pl bone  -acc big.knife
+
+\ft how they chop bones, the koshere
+\ev
+\ru как кости рубят
+\ELANBegin 00:08:01.663
+\ELANEnd 00:08:04.224
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_057
+\ref
+\tx košere?
+\mb kọːsaŋa
+\ge big.knife
+\ft the koshere?
+\ev
+\ru
+\ELANBegin 00:08:04.224
+\ELANEnd 00:08:04.861
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_058
+\ref
+\tx iː, tarkke     tar  košere,    erkke     ere
+\mb iː  tarak =kkE tar  kọːsaŋa erek =kkE erek
+\ge yes  dist  =ptl thus big.knife   prox =ptl prox
+\ft yes, that koshere over there, this one
+\ev
+\ru вон же нож, вот же
+\ELANBegin 00:08:04.861
+\ELANEnd 00:08:08.826
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_059
+\ref
+\tx Tawụr tawụr uŋduktitta                 morskojke    ịrkan, razdeločnyj.
+\mb tawụr tawụr uŋ       -DUk(U) =tIt =DE  morskoj =kkE hịrkan razdeločnyj
+\ge this    this    something -abl    =ptl =ptl sea.m.R =ptl knife    cutting.R
+\ft That is also (made) from something, a seaman's knife (?), a cutting knife.
+\ph
+\nt Rimma didn't know what a "morskoj nozh" would be, but a razdelochnyj nozh is a kitchen knife, a big knife with which one cuts meat or fish
+\ev
+\ru Вот вот из этого тоже морской же нож, разделочный.
+\ELANBegin 00:08:08.826
+\ELANEnd 00:08:13.844
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_060
+\ref
+\tx guːli         tiːk ọːrin             ọːrin...          ọːdin              uŋe,         ikiriw     ọnaldiwen
+\mb goːn -LI      tiek  ọː -RI -n(I)      ọː -RI -n(I)      ọː  -RI -n(I)      uŋ       -E  ikiri -W   họn -E  -ldIwUn
+\ge say   -imp.2sg now   make  -pst -poss.3sg make  -pst -poss.3sg become -pst -poss.3sg something -ep bone  -acc chop  -ep -nr
+\ft say that it has now become (an instrument) for chopping bones
+\ev  
+\ru скажи что сейчас он стал для разрубания костей
+\ELANBegin 00:08:13.844
+\ELANEnd 00:08:17.523
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_061
+\ref
+\tx iː
+\mb iː
+\ge yes
+\ft yes
+\ph basically cannot really be made out what he says, this fits the best
+\ev
+\ru
+\ELANBegin 00:08:17.523
+\ELANEnd 00:08:19.278
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_062
+\ref
+\tx A     nọŋartanke,   meriken    i          uŋ       košere     umenilkite     bišin,           ikiriw     ọnaldiwen.
+\mb a.R   nọŋartan =kkE meriken    i          uŋ       kọːsaŋa umenilki =t(E) bi -RI -n(I)      ikiri -W   họn -E  -ldIwUn
+\ge but.R 3pl         =ptl knife.type be.audible something big.knife   the.same =ptl  be -pst -poss.3sg bone  -acc chop  -ep -nr
+\ft But these, the meriken and koshere were the same, for chopping bones.
+\ev
+\ru А они мерикен и кошере одинаково были для разрубания костей.
+\ELANBegin 00:08:19.278
+\ELANEnd 00:08:27.091
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_063
+\ref
+\tx Tiːkke   merikem         goːweːtte           meriŋe
+\mb tiek =kkE meriken    -W   goːn -WEːČ -R(E)   meriken    -ŋE
+\ge now  =ptl knife.type -acc say   -gnr    -nonfut knife.type -aug
+
+\ft And now they call the meriken a meringe.
+\ph
+\gr meriŋe = bolshoj; "esli tak podumatj, eto bolshoj amerikanskij nozh; a meriken - eto malenkij"; very nice folk etymology: was "amerikanskij", American knife, became "meriken",
+which was interpreted as "small meri", but since the knife is big, they derived "meriŋe", "big meri"
+\ev
+\ru Сейчас же мерикен называют меринге.
+\ELANBegin 00:08:27.091
+\ELANEnd 00:08:29.379
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_064
+\ref
+\tx iː, gerbuččoːtte            a     to     emer.
+\mb iː  gerbu -Č  -WEːČ -R(E)   a.R   to     emer
+\ge yes  call  -res -gnr    -nonfut but.R that.R sharp
+\ft yes, they think it's sharp
+\ev
+\ru думают что острый
+\ELANBegin 00:08:29.379
+\ELANEnd 00:08:34.267
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_065
+\ev pause
+\ru
+\ELANBegin 00:08:34.267
+\ELANEnd 00:08:38.167
+\ELANParticipant
+
+\id Ichanga_Adukanov_muzej1_cont_066
+\ref
+\tx Erek awša, awša erek, mužskoj  awša, bej awšan         erek.
+\mb erek awsa   awsa  erek  mužskoj  awsa   bej awsa -n(I)     erek
+\ge prox bag    bag   prox  men's.m.R bag    man bag  -poss.3sg prox
+\ft This is a little bag (awsha), this is a bag, a men's bag, a men's bag.
+\ev
+\ru Это сумочка, сумочка это, мужская сумка.
+\ELANBegin 00:08:38.167
+\ELANEnd 00:08:45.122
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_067
+\ref
+\tx Esni           asịŋi         awšan.
+\mb e -R(E) -n(I)  asị -ŋI       awsa -n(I)
+\ge neg -nfut -3sg woman -pred.poss bag  -poss.3sg
+\ft Not a woman's bag.
+\ph
+\gr I checked on 28/06/2016: the construction ašiŋi awšan is correct, but one could also say aši awšan, no difference
+\ev
+\ru Не женская сумка.
+\ELANBegin 00:08:45.122
+\ELANEnd 00:08:47.462
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_068
+\ev pause
+\ru
+\ELANBegin 00:08:47.462
+\ELANEnd 00:08:49.945
+\ELANParticipant
+
+\id Ichanga_Adukanov_muzej1_cont_069
+\ref
+\tx Erek awšakan      tom... ah tọmkaruk,      ịadmiwut                       tọmkarukta          gerben          iŋe.
+\mb erek awsa -KEn     tom    ah tọmka     -RUk ịa    -D    -mI       =(W)UttE tọmka     -RUk =DE  gerbe -n(I)     iŋe
+\ge prox bag  -dim.int ***    ah twist.sinew -nr  do.what -prog -cond.cvb =indef   twist.sinew -nr  =ptl name  -poss.3sg yes
+\ft This little bag is a tomkaruk (bag for thread), for some reason it is called a tomkaruk.
+\ev
+\ru Эта сумочка для ниток, почему-то томкарук называется.
+\ELANBegin 00:08:49.945
+\ELANEnd 00:08:55.106
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_070
+\ref
+\tx tọmkačaw     neːkčildiwun
+\mb tọmkača -W   neː -(k)čI -ldIwUn
+\ge thread     -acc put  -dur    -nr
+\ft to keep thread
+\ev
+\ru нитки ложить
+\ELANBegin 00:08:55.106
+\ELANEnd 00:08:57.069
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_071
+\ref
+\tx iː
+\mb iː
+\ge yes
+\ft mhm
+\ev
+\ru
+\ELANBegin 00:08:57.069
+\ELANEnd 00:08:57.849
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_072
+\ref
+\tx tọmkačaw     neːkčildiwun
+\mb tọmkača -W   neː -(k)čI -ldIwUn
+\ge thread     -acc put  -dur    -nr
+\ft for keeping thread
+\ev  
+\ru
+\ELANBegin 00:08:57.849
+\ELANEnd 00:08:59.318
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_073
+\ref
+\tx tọmkačaw     neːkčir
+\mb tọmkača -W   neː -(k)čI -r
+\ge thread     -acc put  -dur    -3pl
+\ft they keep thread
+\ev
+\ru кладут нитки
+\ELANBegin 00:08:59.318
+\ELANEnd 00:09:01.736
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_074
+\ref
+\tx Erek tože  tọmkaruk.
+\mb erek tože  tọmka     -RUk
+\ge prox also.R twist.sinew -nr
+\ft This is also a tomkaruk.
+\ev
+\ru Это тоже томкарук.
+\ELANBegin 00:09:01.736
+\ELANEnd 00:09:05.064
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_075
+\ref
+\tx Erekkelde        uŋe          nọːdịka uːšiːrtede
+\mb erek =gEl   =DE  uŋ       -E  nọːdịka uːsiːr =t(E) =DE
+\ge prox =coord =ptl something -ep ornament     ancient  =ptl  =ptl
+\ft THIS pattern is also ancient
+\ev
+\ru Это-то узор старинный тоже
+\ELANBegin 00:09:05.064
+\ELANEnd 00:09:08.574
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_076
+\ref
+\tx Erek ọːkarapụtta        emče.
+\mb erek ọːk -(E)rEp =(W)UttE em   -čE
+\ge prox when   -adjr   =indef   come -pf.ptc
+\ft This has come we don't know when (lit. from some time ago).
+\ev
+\ru это неизвестно когда пришло
+\ELANBegin 00:09:08.574
+\ELANEnd 00:09:12.890
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_077
+\ref
+\tx Erekkelde        tiːtelerep.
+\mb erek =gEl   =DE  tiːtel  -(E)rEp
+\ge prox =coord =ptl long.ago -adjr
+\ft THIS is ancient.
+\ev
+\ru Это-то старинное.
+\ELANBegin 00:09:12.890
+\ELANEnd 00:09:15.438
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_078
+\ref
+\tx Daže  mut,   ŋiːda    ịak aːna          ịakawụ   ele          ọńattan.
+\mb daže  mut    ŋiː =DE  ịak haː -n(I) -E  ịak -awụ erek -(dU)LE ọńa -Č  -R(E) -n(I)
+\ge even.R 1pl.in who   =ptl what  know -3sg  -ep what  -emph  prox -loc    write  -res -nonfut -3sg
+
+\ft Even we, nobody knows what is written here.
+\ph
+\ev
+\ru Даже мы, никто не знает что тут написано.
+\ELANBegin 00:09:15.438
+\ELANEnd 00:09:19.728
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_079
+\ref
+\tx biː mergettem             erek ọńattan               uːšiːr
+\mb biː mergeːt -R(E) -m     erek ọńa -Č  -R(E) -n(I)  uːsiːr
+\ge 1sg  think    -nonfut -1sg prox write  -res -nonfut -3sg ancient
+
+\ft I think that what is written here is ancient
+\ph
+\gr checked on 28/06/2016, my translation is correct, it's the writing or the pattern that is ancient
+\ev
+\ru Я думаю это наипано, старинное
+\ELANBegin 00:09:19.728
+\ELANEnd 00:09:23.914
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_080
+\ref
+\tx ịak tačịnnun           ečinnun         uŋniten           a     uŋe
+\mb ịak tarrọːčịn =nun  erroːčin =nun  uŋ -RI -tEn       a.R   uŋ       -E
+\ge what  dist.qual       =emph prox.qual  =emph do  -pst -poss.3pl but.R something -ep
+
+\ft they didn't just do this any which way, right
+\ev
+\ru это же не просто так сделали как попало
+\ELANBegin 00:09:23.914
+\ELANEnd 00:09:28.347
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_081
+\ref
+\tx Mutŋi            dʒuːrke    rodat                   i     čel... uŋen                  dʒuːriŋin...                    tarkke     uŋe          unte
+\mb mut    -ŋI       dʒoːr =kkE rod    -E  -t(I)        i     ***     uŋ       -E-n(I)      dʒoːr -NI   -ŋI       -n(I)     tarak =kkE uŋ       -E  honte
+\ge 1pl.in -pred.poss two     =ptl clan.R -ep -poss.1pl.in and.R ***     something -ep-poss.3sg two     -coll -pred.poss -poss.3sg dist  =ptl something -ep other
+\ft We have two clans, right, and they both have a different (pattern, drawing).
+\ph
+\nt i.e. each clan had their own specific ornament, their own pattern of decoration
+\ev
+\ru У нас же 2 рода и у них у двоих это различное (рисунки)
+\ELANBegin 00:09:28.347
+\ELANEnd 00:09:36.524
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_082
+\ref
+\tx Munŋi                ekŋiwun                       unteč     uŋutten,                   a...  i..., a     akandụlawuši                unte,
+\mb mun        -ŋI       eken   -ŋI       -WUn         honte -Č  uŋ -U    -Č  -R(E) -n(I)  a.R   i     a.R   akan   -(dU)LE -W        =sI   honte
+\ge 1pl.ex.obl -pred.poss mother -pred.poss -poss.1pl.ex other -ins do  -caus -res -nonfut -3sg but.R and.R but.R father -loc    -poss.1sg =emph other
+
+\tx eren              unte.
+\mb erek -E-n(I)      honte
+\ge prox -ep-poss.3sg other
+\ft Our mother's is made differently, and my father's is different, this here is different.
+\ph
+\ev
+\ru У моей матери по-другому сделано, а у отца же по-другому, вот это по-другому.
+\ELANBegin 00:09:36.524
+\ELANEnd 00:09:44.571
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_083
+\ref
+\tx Anawŋajlakke        tiːk tačịnnuniː              aŋankaččoːtte,           uŋ,      koncertetki         tetuttewur.
+\mb Anawgaj -(dU)LE =kkE tiek  tarrọːčịn =nun  =Iː  haŋan -kEČ -WEːČ -R(E)   uŋ       koncert   -E-t(E)kI tet    -U    -Č  -DE -WUr
+\ge Anavgai -loc    =ptl now   dist.qual       =emph =emph sew    -mult -gnr    -nonfut something concert.R -ep-all   put.on -caus -res -purp.cvb -prfl.pl
+
+\ft In Anavgai they now sew whatever, to wear in concerts.
+\ev
+\ru В Анавгае же шьют сейчас как попало, на концерты одевать.
+\ELANBegin 00:09:44.571
+\ELANEnd 00:09:51.734
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_084
+\ref
+\tx Tarak tačịn        nan    uŋnitan,          meːrur            ọːnka    goːweːt...  beritnedʒilliten.
+\mb tarak tarrọːčịn ńaːn uŋ -RI -tEn       meːn -L  -WUr     ọːn =kkE goːn -WEːČ beriː -Č  -nE     -D    -L    -RI -tEn
+\ge dist  dist.qual       and    do  -pst -poss.3pl refl  -pl -prfl.pl how    =ptl say   -gnr    lose   -res -intent -prog -inch -pst -poss.3pl
+\ft They did this in such a way that they, as the say, started to lose themselves.
+\ph
+\gr beritneʤilliten = stali sebja terjat
+\gr 28/06/2016: I asked whether beritneʤilliten didn't mean "poshli sebja terjat"; but no, it (of course) doesn't mean that, it simply means stali sebja terjat; there is also beriʤilliten = and
+also beričiʤilliten; the suffix -nE here does not have a meaning of associated motion
+\gr 29/06/2016: beriʤilliten = stali sebja terjat; beričiʤilliten = stali terjatj sebja;  beritneʤilliten = stali tozhe terjat sebja; for beričiʤilliten and beritneʤilliten she said there's no
+difference, and then even with beriʤilliten, when she thought about it, she said it was the same
+\ev
+\ru Это вот так сделали, что себя стали как говорится терять.
+\ELANBegin 00:09:51.734
+\ELANEnd 00:09:58.364
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_085
+\ref
+\tx Erek tože  uːšiːr.
+\mb erek tože  uːsiːr
+\ge prox also.R ancient
+\ft This is also ancient.
+\ev
+\ru Это тоже старинное.
+\ELANBegin 00:09:58.364
+\ELANEnd 00:10:01.003
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_086
+\ref
+\tx Tarma ọːne,   erek erek aγdị edukte,            erek ewgidedunkke.
+\mb tarma ọːn -E  erek erek hagdị erek -DUk(U) =t(E) erek erek -gIdE -DU  -n(I)     =kkE
+\ge but   how    -ep prox prox old     prox -abl    =ptl  prox prox -part -dat -poss.3sg =ptl
+
+\ft But like this, this is older than this, this is younger (closer in time).
+\ph
+\gr ewgidedun = po-blizhe k nashemu vremeni
+\ev
+\ru Но вот так, это это старше этого, это по-ближе сюда (по-моложе).
+\ELANBegin 00:10:01.003
+\ELANEnd 00:10:09.557
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_087
+\ref
+\tx kọčaj
+\mb kọčaj
+\ge scrape.hide
+\ft a hide scraper
+\ev
+\ru кочай
+\ELANBegin 00:10:09.557
+\ELANEnd 00:10:11.936
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_088
+\ref
+\tx tịbaːk
+\mb tịbaːk
+\ge adze
+\ft an adze
+\ev
+\ru молотить что-то
+\ELANBegin 00:10:11.936
+\ELANEnd 00:10:13.301
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_089
+\ref
+\tx ...ọːjaw   ọńarit?
+\mb họːja -W   ọńa -RI -t(I)
+\ge many     -acc write  -pst -poss.1pl.in
+\ft Did we write (record) a lot?
+\ev
+\ru много написали....
+\ELANBegin 00:10:13.301
+\ELANEnd 00:10:15.485
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_090
+\ref
+\tx
+\ft Perhaps.... It's already quite a lot, of course it's all very good...
+\ev
+\ru
+\ELANBegin 00:10:15.485
+\ELANEnd 00:10:23.519
+\ELANParticipant BP 
+
+\id Ichanga_Adukanov_muzej1_cont_091
+\ref
+\tx aje
+\mb aj   -E
+\ge help -ep
+\ft good
+\ph
+\nt seems to correct my "ajič" which I say just before this
+\ev
+\ru
+\ELANBegin 00:10:23.519
+\ELANEnd 00:10:24.312
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_092
+\ref
+\tx aje
+\mb aj   -E
+\ge good -ep
+\ft good
+\ev
+\ru
+\ELANBegin 00:10:24.312
+\ELANEnd 00:10:24.637
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_093
+\ref
+\tx
+\ft  ... very good, but maybe we can pass over some things
+\ph
+\nt we must have still been standing in front of the first showcase, and I was getting worried that at that pace we'd be there for hours
+\ev
+\ru
+\ELANBegin 00:10:24.637
+\ELANEnd 00:10:33.568
+\ELANParticipant BP
+
+\id Ichanga_Adukanov_muzej1_cont_094
+\ref
+\tx Erekkelda,       erek čajčịbalŋi,                       tarma...
+\mb erek =gEl   =DE  erek čajčaba               -L  -ŋI       tarma
+\ge prox =coord =ptl prox reindeer.herding.Koryak -pl -pred.poss but
+\ft As for this, this is Koryak, but...
+\ev
+\ru Это-то, это корякское, но...
+\ELANBegin 00:10:33.568
+\ELANEnd 00:10:38.950
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_095
+\ref
+\tx Erek čajčịbalŋi,                       iŋe?
+\mb erek čajčaba               -L  -ŋI       iŋe
+\ge prox reindeer.herding.Koryak -pl -pred.poss yes
+\ft This is Koryak, isn't it?
+\ph says čajčibaljeŋ or similar, but meant what is transcribed here
+\ev
+\ru корякское
+\ELANBegin 00:10:38.950
+\ELANEnd 00:10:40.562
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_096
+\ref
+\tx "eliemeγeki" iŋe, čajčịbaŋị
+\mb eliemeγeki   iŋe  čajčaba               -ŋI
+\ge ***           yes   reindeer.herding.Koryak -pred.poss
+
+\ft "eliemeγeki", yes, Koryak
+\ph
+\nt the first word is probably Koryak, ASA probably knew Koryak; in any case, Rimma didn't know the word
+\ev  
+\ru
+\ELANBegin 00:10:40.562
+\ELANEnd 00:10:44.124
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_097
+\ref
+\tx Erek čajčịba             ọjin,               erekesi       ọrọčil      ọjitan.
+\mb erek čajčaba               ọj    -E  -n(I)     erek -E=sI    ọrọč -E-L   ọj    -E  -tEn
+\ge prox reindeer.herding.Koryak clothes -ep -poss.3sg prox -ep=emph Oroch     -ep-pl clothes -ep -poss.3pl
+\ft These are Koryak clothes, and these are clothes of Evens.
+\ev
+\ru Это одежда коряка, а это эвенов одежды.
+\ELANBegin 00:10:44.124
+\ELANEnd 00:10:48.635
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_098
+\ref
+\tx nendeke
+\mb nendekeː
+\ge deerskin.shirt
+\ft a deerskin shirt
+\ev
+\ru кухлянка
+\ELANBegin 00:10:49.280
+\ELANEnd 00:10:50.040
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_099
+\ref
+\tx ọrọčil      XX  tetuččoːtte
+\mb ọrọč -E-L   *XX tet    -U    -Č  -WEːČ -R(E)
+\ge Oroch     -ep-pl *** put.on -caus -res -gnr    -nonfut
+\ft Evens used to wear XXX
+\ph what he says in the middle simply cannot be made out since ASA talks at the same time
+\ev
+\ru
+\ELANBegin 00:10:49.000
+\ELANEnd 00:10:50.884
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_100
+\ref
+\tx ọrọčịlkke       ač uŋnew               varatniketen...
+\mb ọrọč -E  -L  =kkE ač uŋ       -LE  =w    vorotnik -E  -tEn
+\ge Oroch     -ep -pl =ptl neg something -prv =emph collar.R -ep -poss.3pl
+\ft Evens (have shirts) without a whatchamacallit, a collar
+\ph
+\gr should be: ač varatnikla
+\ev
+\ru эвены же без этого, воротника (букв, у эвенов нету их воротника) 
+\ELANBegin 00:10:50.884
+\ELANEnd 00:10:53.536
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_101
+\ref
+\tx maktan
+\mb maktan
+\ge collar
+\ft collar
+\ev
+\ru воротник
+\ELANBegin 00:10:53.536
+\ELANEnd 00:10:54.498
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_102
+\ref
+\tx iː, ač uŋne,         ọːnka    goːw...
+\mb iː  ač uŋ       -LE  ọːn =kkE goːn -WEːČ
+\ge yes  neg something -prv how    =ptl say   -gnr
+\ft yes, without something, how do they say
+\ev
+\ru без этого, как сказать
+\ELANBegin 00:10:54.498
+\ELANEnd 00:10:57.358
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_103
+\ref
+\tx oːŋelele
+\mb oːŋele -LE
+\ge hood     -prv
+
+\ft a hood
+\ev
+\ru
+\ELANBegin 00:10:57.358
+\ELANEnd 00:10:58.125
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_104
+\ref
+\tx
+\ft huh?
+\ev
+\ru
+\ELANBegin 00:10:58.125
+\ELANEnd 00:10:58.489
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_105
+\ref
+\tx oːŋelele
+\mb oːŋele -LE
+\ge hood     -prv
+
+\ft hood
+
+\ev
+\ru
+\ELANBegin 00:10:58.489
+\ELANEnd 00:10:59.308
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_106
+\ref
+\tx iː
+\mb iː
+\ge yes
+\ft mhm
+\ev
+\ru
+\ELANBegin 00:10:59.308
+\ELANEnd 00:11:02.415
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_107
+\ref
+\tx Erek gid,  tože  uːšiːreː,  er   gid,  XXX
+\mb erek gid   tože  uːsiːr =eː  erek gid   *XXX
+\ge prox lance also.R ancient  =emph prox lance ***
+\ft This is a lance, it's also ancient, this is a lance, (see).
+\ph he says a word at the very end, too softly to make out, though it could well be "kojeːnni" - I say "mhm" after that, so he was probably pointing to something specific
+\ev
+\ru Это копье, тоже старинное, это копье
+\ELANBegin 00:11:02.415
+\ELANEnd 00:11:08.694
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_108
+\ev pause
+\ru
+\ELANBegin 00:11:08.694
+\ELANEnd 00:11:12.724
+\ELANParticipant
+
+\id Ichanga_Adukanov_muzej1_cont_109
+\ref
+\tx erek uːsiːr
+\mb erek uːsiːr
+\ge prox ancient
+\ft this is ancient
+\ev
+\ru это старинное
+\ELANBegin 00:11:12.724
+\ELANEnd 00:11:14.752
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_110
+\ref
+\tx Ele          muzejdule        bisni           uŋe,         gidal.
+\mb erek -(dU)LE muzej    -(dU)LE bi -R(E) -n(I)  uŋ       -E  gid   -E-L
+\ge prox -loc    museum.R -loc    be -nonfut -3sg something -ep lance -ep-pl
+\ft Here in the museum there are these, lances.
+\ev
+\ru Здесь в музее есть вот что, копья.
+\ELANBegin 00:11:14.752
+\ELANEnd 00:11:18.184
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_111
+\ref
+\tx Namernojal          kazakalkke            ešten      uŋelten                bihe,       gidaltan.
+\mb nomernyj     -E-L   kazak     -E-L   =kkE e   -R(E)   uŋ       -L  -tEn      bi -R       gid   -E-L   -tEn
+\ge numbered.m.R -ep-pl cossack.R -ep-pl =ptl neg -nonfut something -pl -poss.3pl be -neg.cvb lance -ep-pl -poss.3pl
+
+\ft Numbered, they were probably cossacks', the lances.
+\ph
+\nt i.e. the lances have a number on them, so that it is likely that they were handed out as part of the equipment provided for cossacks, they weren't simply privately made and owned
+\ev
+\ru Номерные, у казаков наверно они были, копья.
+\ELANBegin 00:11:18.184
+\ELANEnd 00:11:23.449
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_112
+\ref
+\tx kọča
+\mb kọč   -E
+\ge probably -ep
+\ft probably
+\ev
+\ru
+\ELANBegin 00:11:23.449
+\ELANEnd 00:11:23.930
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_113
+\ref
+\tx nomerelken         uŋdulen                 ọːnka    pukterewenni
+\mb nomer    -E  -lkEn uŋ       -(dU)LE -n(I)  ọːn =kkE pektereːwun -n(I)
+\ge number.R -ep -prop something -loc -poss.3sg how    =ptl gun          -poss.3sg
+\ft with a number on it, like a gun (lit. his gun)
+\ph
+\gr the poss.3sg on "gun" doesn't seem to have any specific meaning
+\nt every gun has an identification number stamped on it, and this is what AEI is comparing to
+\ev
+\ru с номером на нем как у ружья
+\ELANBegin 00:11:23.930
+\ELANEnd 00:11:27.856
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_114
+\ref
+\tx Kọč   ọːkụttawut          kazakalbe             gidačidmikke                   ečil        gade.
+\mb kọč   ọːk =(W)UttE =(W)UttE kazak     -E  -L-W    gid   -čI -D    -mI       =kkE e   -RI  -L  ga   -R
+\ge probably when   =indef   =indef   cossack.R -ep -pl-acc lance -vr  -prog -cond.cvb =ptl neg -pst -pl take -neg.cvb
+\ft Probably at some time, when they stabbed cossacks, they took (them).
+\ph
+\gr 28/06/2016: oːkuttawut = correct, kogda-to; kọč ọːkuttawut = mozhet kogda-to; there doesn't seem to be much difference, but it seems to increase the indefiniteness (really weird)
+\ev
+\ru Наверно когда-то, когда казаков кололи копями, наверно взяли.
+\ELANBegin 00:11:27.856
+\ELANEnd 00:11:32.263
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_115
+\ref
+\tx uːšiːr
+\mb uːsiːr
+\ge ancient
+\ft ancient
+\ev
+\ru старинное
+\ELANBegin 00:11:32.263
+\ELANEnd 00:11:32.952
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_116
+\ref
+\tx dʒọrmịkačattan
+\mb dʒọrọm -kEČ -Č  -R(E) -n(I)
+\ge steal       -mult -res -nonfut -3sg
+\ft stolen
+\ev
+\ru ворованный
+\ELANBegin 00:11:32.952
+\ELANEnd 00:11:33.875
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_117
+\ref
+\tx
+\ft huh?
+\ph
+\nt AEI is hard of hearing, that is why he frequently doesn't understand what ASA is saying and asks, and that is also why he doesn't enunciate very clearly
+\ev
+\ru
+\ELANBegin 00:11:33.875
+\ELANEnd 00:11:34.239
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_118
+\ref
+\tx dʒọrmịkačattan
+\mb dʒọrọm -kEČ -Č  -R(E) -n(I)
+\ge steal       -mult -res -nonfut -3sg
+\ft stolen
+\ph
+\gr the multiplicative expresses that many lances were stolen
+\ev
+\ru воровали / ворованные
+\ELANBegin 00:11:34.239
+\ELANEnd 00:11:36.748
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_119
+\ref
+\tx patamušto gidal        bisiten           kazakalŋi
+\mb potomučto gid   -E-L   bi -RI -tEn       kazak     -E-L   -ŋI
+\ge because.R  lance -ep-pl be -pst -poss.3pl cossack.R -ep-pl -pred.poss
+\ft because cossacks had lances when, sometime in the 18th century, right
+\ph says "i" at the beginning, but that doesn't have any meaning here
+\ev
+\ru потому что копя были у казаков... когда, где-то в восемнадцатом веке, что ли
+\ELANBegin 00:11:36.748
+\ELANEnd 00:11:43.716
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_120
+\ev pause
+\ru
+\ELANBegin 00:11:43.716
+\ELANEnd 00:11:48.344
+\ELANParticipant
+
+\id Ichanga_Adukanov_muzej1_cont_121
+\ref
+\tx Erekkele        koŋkolbane
+\mb erek =gEl   -E  koŋko -L  -W   -n(I)     -E
+\ge prox =coord -ep kongko -pl -acc -poss.3sg -ep
+
+\ft this here is a kongko (a contraption for transporting yurt poles)
+\ph
+\gr I find the ACC on "koŋkolban" very odd, especially in conjunction with the nominative on erekkele; I tried to discuss this with Rimma on 28/06/2016, but she said since she doesn't
+know the word she finds it too hard to say anything
+\nt Rimma at first translated this as "bell" - but then in a later utterance one isn't supposed to step over it, so she realized it cannot be a bell, but didn't know what it is; in Robbek I find
+"долбленное приспособление для перевозки жердей остова чума" and I think it's probably that
+\ev
+\ru (колокол большой)
+\ELANBegin 00:11:48.344
+\ELANEnd 00:11:51.477
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_122
+\ref
+\tx erek koŋko
+\mb erek koŋko
+\ge prox kongko
+\ft this is a kongko (a contraption for transporting yurt poles)
+\ev
+\ru
+\ELANBegin 00:11:51.477
+\ELANEnd 00:11:52.803
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_123
+\ref
+\tx Tarma uŋe          ọrọčịldụla      bi   ečiwu             ọːkta    erelbe       itte,        ittiwutken                  erroːčim.
+\mb tarma uŋ       -E  ọrọč -E-L   -(dU)LE biː e   -RI  -W        ọːk =DE  erek -L-W    it  -R       it  -RI -W         =t(E)kEn erroːčin -W
+\ge but   something -ep Oroch     -ep-pl -loc    1sg  neg -pst -poss.1sg when   =ptl prox -pl-acc see -neg.cvb see -pst -poss.1sg =restr   prox.qual  -acc
+\ft But I have never seen these among Evens (chez Evens), I have only seen such ones.
+\ev
+\ru Но у эвенов я никогда эти не видел, только видел такое.
+\ELANBegin 00:11:52.803
+\ELANEnd 00:11:59.602
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_124
+\ref
+\tx Nan    tare
+\mb ńaːn tarak -E
+\ge and    dist  -ep
+\ft well that's it
+\ev
+\ru и вот /и все
+\ELANBegin 00:11:59.602
+\ELANEnd 00:12:01.149
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_125
+\ref
+\tx etiken   ŋaːlloːčiddʒoːtten
+\mb etikeːn ŋaːl -WEːČ -D    -WEːČ -R(E) -n(I)
+\ge old.man  hand   -gnr    -prog -gnr    -nonfut -3sg
+\ft the old man is carrying (something) in his hand
+\ev
+\ru старик таскает
+\ELANBegin 00:12:01.149
+\ELANEnd 00:12:03.970
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_126
+\ref
+\tx Ịadụ   koŋkor    uŋe,         eden                    ịakta    gịrkar         ọjlan.
+\mb ịak -DU  koŋko -L  uŋ       -E  e   -DE       -n(I)     ịak =DE  gịrka -R       ọj    -(dU)LE -n(I)
+\ge what  -dat kongko -pl something -ep neg -purp.cvb -poss.3sg what  =ptl walk    -neg.cvb surface -loc -poss.3sg
+\ft What is a kongko for, it's so that nobody walks over (something).
+\ph
+\gr if koŋkor is the same item as koŋko, then of course the -r plural is odd - but it's also odd to imagine that there would be two different items with very similar names, koŋko and
+koŋkon very close to each other in the museum; since Rimma doesn't know the word koŋko I didn't try to discuss this with her, but simply assumed that the -r plural is a slip of the
+tongue and that it should be koŋkol (after all, AEI is slightly deaf and doesn't speak very well)
+\ev
+\ru зачем конгкор, чтобы никто сверху не ходил
+\ELANBegin 00:12:05.972
+\ELANEnd 00:12:10.587
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_127
+\ref
+\tx Mundule            goːweːtte,          uŋe...       ọrọmŋaldụla                  ile...        uŋ... taŋniwu,
+\mb mun        -(dU)LE goːn -WEːČ -R(E)   uŋ       -E  ọrọn          -mŋE -L  -(dU)LE irek  -(dU)LE uŋ    taŋ -RI -W
+\ge 1pl.ex.obl -loc    say   -gnr    -nonfut something -ep domestic.reindeer -agnr -pl -loc    which -loc    do     read -pst -poss.1sg
+
+\tx ulgimidditen                     uːnan     ịamị ečiš        ọllaw     bejčiš,       dʒebboːt... bejčiweːtte.
+\mb ulgim -i    -D    -RI -tEn       huː =nEn  ịamị e   -RI  -s   ọlra -W   bejči -R       dʒeb -WEːČ bejči -WEːČ -R
+\ge ask   -ipf? -prog -pst -poss.3pl 2pl  =emph why      neg -pst -2pl fish   -acc hunt   -neg.cvb eat   -gnr    hunt   -gnr    -neg.cvb
+\ft Chez nous they say, I read, they asked reindeer herders why don't you catch, eat..., catch fish.
+\ev
+\ru У нас говорят что у оленеводов где, я читал, спрашивали, а вы почему рыбу не ловили, ели... ловили.
+\ELANBegin 00:12:15.072
+\ELANEnd 00:12:27.786
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_131
+\ref
+\tx Nan    ọrọčijakar      guːn ịakawụ   ew  buː... uŋel         bisu?              ač ịalada        bisu?
+\mb ńaːn ọrọč -jEkEn -L  goːn ịak -awụ ew  buː    uŋ       -L  bi -R(E)   -(R)U   ač ịak -LE  =DE  bi -R(E)   -(R)U
+\ge and    Oroch     -dim   -pl say   what  -emph  ptl 1pl.ex  something -pl be -nonfut -1pl.ex neg what  -prv =ptl be -nonfut -1pl.ex
+\ft And these (silly little) Evens say "what, are we those whatchamacallits? do we have nothing?".
+\ph
+\gr oročijakar = s prezreniem (Rimma gave a little laugh when she translated it)
+\ev
+\ru И эти орочишки говорят, мы что, эти самые, что у нас ничего нет, что ли?
+\ELANBegin 00:12:27.786
+\ELANEnd 00:12:35.053
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_132
+\ref
+\tx Guːn uŋe          ŋiːkke   ọːnka    nišielkke           ọːnka    goːweːtte,          ač ịalada
+\mb goːn uŋ       -E  ŋiː =kkE ọːn =kkE niščie    -L  =kkE ọːn =kkE goːn -WEːČ -R(E)   ač ịak -LE  =DE
+\ge say   something -ep who   =ptl how    =ptl beggar.pl.R -pl =ptl how    =ptl say   -gnr    -nonfut neg what  -prv =ptl
+\ft they say who, how is it, beggars, how does one say, those who have nothing
+\ph
+\nt he's looking for the word "beggar" in Even
+\ev
+\ru Говорят кто же как же нищих называют, без ничего
+\ELANBegin 00:12:35.053
+\ELANEnd 00:12:43.308
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_134
+\ref
+\tx dụdịka
+\mb dụdịka
+\ge fur.shirt
+\ft a fur shirt
+\ph
+\nt a rather abrupt change of topic...
+\ev
+\ru
+\ELANBegin 00:12:49.704
+\ELANEnd 00:12:51.264
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_135
+\ref
+\tx Erek ụntal,      erek letn...  uŋe,         iril.... erek ọlačịkan,                iŋe?
+\mb erek ụnta    -L  erek letnie   uŋ       -E  ireli    erek ọlačịk      -E-n(I)      iŋe
+\ge prox fur.boots -pl prox summer.R something -ep summer   prox summer.fur.boots -ep-poss.3sg yes
+\ft These are boots, these are summer.... these are (his) olachik (summer boots), right?
+\ph Rimma insisted that he says "erek letnij, iril..." - but I do clearly hear it as transcribed here
+\ev
+\ru Это обувь, это летний, лето, это его олачик, да?
+\ELANBegin 00:12:51.264
+\ELANEnd 00:12:56.672
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_136
+\ref
+\tx ọlačịk
+\mb ọlačịk
+\ge summer.fur.boots
+\ft summer boots
+\ev
+\ru
+\ELANBegin 00:12:56.672
+\ELANEnd 00:12:58.219
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_136b
+\ref
+\tx ọlačịkan
+\mb ọlačịk      -E-n(I)
+\ge summer.fur.boots -ep-poss.3sg
+
+\ft summer boots
+\ph
+\ELANBegin 00:12:56.672
+\ELANEnd 00:12:58.219
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_137
+\ref
+\tx iŋe ọlačịk      erek
+\mb iŋe ọlačịk      erek
+\ge yes  summer.fur.boots prox
+\ft yes, these are summer boots
+\ev
+\ru
+\ELANBegin 00:13:01.846
+\ELANEnd 00:13:02.938
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_138
+\ref
+\tx
+\ft huh?
+\ev
+\ru
+\ELANBegin 00:13:02.938
+\ELANEnd 00:13:03.276
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_139
+\ref
+\tx ọlačịk
+\mb ọlačịk
+\ge summer.fur.boots
+\ft summer boots
+\ev
+\ru
+\ELANBegin 00:13:03.276
+\ELANEnd 00:13:03.757
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_140
+\ref
+\tx iː, erek ọlačịk
+\mb iː  erek ọlačịk
+\ge yes  prox summer.fur.boots
+\ft yes, these are summer boots
+\ev
+\ru
+\ELANBegin 00:13:03.757
+\ELANEnd 00:13:05.499
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_141
+\ref
+\tx dụdịka
+\mb dụdịka
+\ge fur.shirt
+\ft a fur shirt
+\ev
+\ru
+\ELANBegin 00:13:05.499
+\ELANEnd 00:13:06.942
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_142
+\ref
+\tx uŋe,         erewde         erkew,     uŋe          Uljanka        goːweːtten,              ọrọčịl     irildu
+\mb uŋ       -E  erek -W   =DE  erke  -W   uŋ       -E  Uljanka        goːn -WEːČ -R(E) -n(I)  ọrọč -E  -L  ireli  -DU
+\ge something -ep prox -acc =ptl pants -acc something -ep Uljana.hypocor say   -gnr    -nonfut -3sg Oroch     -ep -pl summer -dat
+
+\tx tetutčoːtte,                    iril... i          tugenidu    tože  tetutčoːtte.
+\mb tet    -U    -Č  -WEːČ -R(E)   ireli   i          tugeni -DU  tože  tet    -U    -Č  -WEːČ -R(E)
+\ge put.on -caus -res -gnr    -nonfut summer  be.audible winter -dat also.R put.on -caus -res -gnr    -nonfut
+\ft About these pants Uljana says that the Evens used to wear them in summer, and in winter they also used to wear them.
+\ph
+\ev
+\ru про эти тоже штаны..Улянка говорит эвены летом носят, лето, и зимой тоже носят
+\ELANBegin 00:13:09.750
+\ELANEnd 00:13:22.126
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_144
+\ref
+\tx erek uŋ       ọːnkana
+\mb erek uŋ       ọːn =kEnE
+\ge prox something how    =contr
+\ft this is ... how is it again...
+\ev
+\ru это как же
+\ELANBegin 00:13:22.126
+\ELANEnd 00:13:23.946
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_145
+\ref
+\tx iγenči
+\mb iγenči
+\ge type.of.pants
+\ft iγenchi (warm fur pants)
+\ph
+\nt during the question clarification session on 28/06/2016 Rimma said that iγenči are short pants that go just below the knee, just covering the top of the torbaza; both the torbaza and
+the iγenči are tied up so that no cold air or snow can come in; she thought the advantage of keeping them short like this was that otherwise there would be too much, with thick
+torbaza and thick iγenči over them, then it would all be too much
+\ev
+\ru
+\ELANBegin 00:13:23.946
+\ELANEnd 00:13:25.142
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_146
+\ref
+\tx esni,          teγen!
+\mb e -R(E) -n(I)  teγen
+\ge neg -nfut -3sg type.of.pants
+\ft no, it's a teγen (a different type of pants)
+\ph
+\nt Rimma didn't know what teγen is, but since she knew that iγenči were warm pants, and since they're debating whether what we're looking at is iγenči or teγen, teγen also have to
+be some type of pants
+\ev
+\ru
+\ELANBegin 00:13:25.142
+\ELANEnd 00:13:27.222
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_147
+\ref
+\tx teγen?
+\mb teγen
+\ge type.of.pants
+\ft teγen?
+\ev
+\ru
+\ELANBegin 00:13:27.222
+\ELANEnd 00:13:28.015
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_148
+\ref
+\tx iŋe
+\mb iŋe
+\ge yes
+\ft yes
+\ev
+\ru
+\ELANBegin 00:13:28.015
+\ELANEnd 00:13:28.860
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_149
+\ref
+\tx nọŋ... mutke       esep                tetuččoːtte                     ọːkta    ịawčịnamitkan
+\mb nọŋan  mut    =kkE e   -R(E) -p        tet    -U    -Č  -WEːČ -R       ọːk =DE  ịawčị           -nE     -mI       =t(E)kEn
+\ge 3sg       1pl.in =ptl neg -nonfut -1pl.in put.on -caus -res -gnr    -neg.cvb when   =ptl herd.reindeer(night) -intent -cond.cvb =restr
+
+\tx tetuččoːttep                           ńan
+\mb tet    -U    -Č  -WEːČ -R(E) -p        ńaːn
+\ge put.on -caus -res -gnr    -nonfut -1pl.in and
+\ft we don't ever wear these, right, only when we go to herd reindeer at night do we wear them
+\ph
+\gr I tried to ask during the transcription/translation session why here the combination of =k(k)E + e- gives the meaning of negation, "my zhe ne nosim", whereas in other cases, such
+as rec114, it gives a meaning of "probably"; but Rimma could only say that this here meant "my zhe ne nosim" while the other example means "probably they took"
+\gr 28/06/2016: there is no such word as mutkke, there's only mutke "my zhe" - so the lack of an epistemic here does not have to do with the form of the particle
+\ev
+\ru мы же не носим никогда, только на ночное (дежурство) когда идем, одеваем
+\ELANBegin 00:13:28.860
+\ELANEnd 00:13:33.787
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_150
+\ref
+\tx bi   iγenčiwu         tetuttiwu
+\mb biː iγenči      -W   tet    -U    -Č  -RI -W
+\ge 1sg  type.of.pants -acc put.on -caus -res -pst -poss.1sg
+\ft I wore iγenchi
+\ph
+\ev
+\ru я носил игенчи
+\ELANBegin 00:13:33.787
+\ELANEnd 00:13:35.971
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_151
+\ref
+\tx bi   iγenčiwtede                 tetuttiwu
+\mb biː iγenči      -W   =t(E) =DE  tet    -U    -Č  -RI -W
+\ge 1sg  type.of.pants -acc =ptl  =ptl put.on -caus -res -pst -poss.1sg
+\ft I also wore iγenchi
+\ev
+\ru я тоже носил
+\ELANBegin 00:13:35.971
+\ELANEnd 00:13:38.571
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_152
+\ref
+\tx erek uŋne
+\mb erek uŋ       -(dU)LE
+\ge prox something -loc
+\ft this is something...
+\ev
+\ru
+\ELANBegin 00:13:38.571
+\ELANEnd 00:13:43.251
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_152b
+\ref
+\tx ọrọčịl     tergešutken               tetuččoːtte
+\mb ọrọč -E  -L  terges       -W   =t(E)kEn tet    -U    -Č  -WEːČ -R(E)
+\ge Oroch     -ep -pl soft.leather -acc =restr   put.on -caus -res -gnr    -nonfut
+\ft Evens only wear leather...
+\ru эвены только замшевое носит
+\ELANBegin 00:13:38.571
+\ELANEnd 00:13:43.251
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_153
+\ref
+\tx erek urumkušukan   aŋančal          bišeketenkana
+\mb erek urumkun -sUkEn haŋan -čE -L     bi -REk      -tEn      =kEnE
+\ge prox short   -attn  sew    -pf.ptc -pl be -cond.cvb -poss.3pl =contr
+\ft they should have sewn this a bit shorter
+\ph
+\gr aŋančal bišeketen = should have sewn
+\ev
+\ru вот это покороче бы надо было шить
+\ELANBegin 00:13:43.251
+\ELANEnd 00:13:46.111
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_154
+\ref
+\tx
+\ft huh?
+\ev
+\ru
+\ELANBegin 00:13:46.111
+\ELANEnd 00:13:46.527
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_155
+\ref
+\tx urumkušukan   aŋančal          bišeketen             ere
+\mb urumkun -sUkEn haŋan -čE -L     bi -REk      -tEn      erek
+\ge short   -attn  sew    -pf.ptc -pl be -cond.cvb -poss.3pl prox
+\ft they should have sewn this shorter
+\ev
+\ru по-короче сшито было бы/шили бы
+\ELANBegin 00:13:46.527
+\ELANEnd 00:13:49.413
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_156
+\ref
+\tx erek ŋọnam
+\mb erek ŋọnam
+\ge prox long
+\ft this is long
+\ev
+\ru это длинный
+\ELANBegin 00:13:49.413
+\ELANEnd 00:13:50.362
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_157
+\ref
+\tx ŋọnam
+\mb ŋọnam
+\ge long
+\ft long
+\ev
+\ru
+\ELANBegin 00:13:50.362
+\ELANEnd 00:13:51.181
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_158
+\ref
+\tx ekitte         tette           nan    ečin      ọːd         urumkun
+\mb e   -kIč =DE  tet    -R       ńaːn erroːčin ọː  -R(E)   urumkun
+\ge neg -nr   =ptl put.on -neg.cvb and    prox.qual  become -nonfut short
+
+\ft impossible to wear, it would become short like this
+\ph
+\nt very unclear; it would seem as if ASA thinks the pants are too long, and should be shortened, whereas AEI thinks that if one shortened them they would be too short
+\ev
+\ru невозможно одеть вот он так станет, короткий
+\ELANBegin 00:13:51.181
+\ELANEnd 00:13:54.951
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_159
+\ref
+\tx ịakawụč   aŋanaddin,                 urumkun
+\mb ịak =(W)UttE haŋan -D    -RI -n(I)      urumkun
+\ge what  =indef   sew    -prog -pst -poss.3sg short
+\ft who sewed this, (so) short
+\ev
+\ru кто это шил, короткое
+\ELANBegin 00:13:54.951
+\ELANEnd 00:13:58.721
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_160
+\ref
+\tx uŋe          erek, uŋ
+\mb uŋ       -E  erek  uŋ
+\ge something -ep prox  something
+\ft this here
+\ph
+\nt it might be that the difference in opinion arose because they were looking at different pants, and that here ASA is pointing to the pants he thinks are too long
+\ev
+\ru это вот
+\ELANBegin 00:13:58.721
+\ELANEnd 00:14:00.151
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_161
+\ref
+\tx Ah, iγenči      ŋọnam, iŋe
+\mb ah  iγenči      ŋọnam  iŋe
+\ge ah  type.of.pants long      yes
+\ft ah, iγenchi are long, yes
+\ev
+\ru игенчи длинный, да
+\ELANBegin 00:14:00.151
+\ELANEnd 00:14:02.634
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_162
+\ref
+\tx erekesi       ŋọn... uŋe
+\mb erek -E=sI    ŋọnam  uŋe
+\ge prox -ep=emph long      this.one
+\ft but this one is long...
+\ev
+\ru
+\ELANBegin 00:14:02.634
+\ELANEnd 00:14:04.597
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_163
+\ref
+\tx iγenči      er   diːnnikke                 biweːtten
+\mb iγenči      erek diːn       -n(I)     =kkE bi -WEːČ -R(E) -n(I)
+\ge type.of.pants prox equ.measure -poss.3sg =ptl be -gnr    -nonfut -3sg
+\ft iγenchi are (short/long) like this
+\ph
+\nt he must be showing the length of the iγenchi
+\ev
+\ru игенчи вот такое же бывает
+\ELANBegin 00:14:04.597
+\ELANEnd 00:14:07.587
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_164
+\ref
+\tx ah erek teγen,       teγen        dọːŋičatan            erek
+\mb ah erek teγen        teγen        dọːŋičat -E-n(I)      erek
+\ge ah prox type.of.pants type.of.pants ???           -ep-poss.3sg prox
+\ft ah, this is the XXX of the teγen
+\ph
+\nt Rimma didn't know what dọːŋiča(t) might be
+\ev
+\ru
+\ELANBegin 00:14:07.587
+\ELANEnd 00:14:12.111
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_165
+\ref
+\tx Erek asalda         ọjiltan,               tarma ekič     ụnụr,           erek bejŋikke           ehni           bihe.
+\mb erek asị -L  =DE  ọj    -E-L   -tEn      tarma e   -kIč ụnụ    -R       erek bej -ŋI       =kkE e -R(E) -n(I)  bi -R
+\ge prox woman -pl =ptl clothes -ep-pl -poss.3pl but   neg -nr   understand -neg.cvb prox man -pred.poss =ptl neg -nfut -3sg be -neg.cvb
+
+\ft These are women's clothes, but it's impossible to understand, maybe it's men's clothes.
+\ev
+\ru это женские одежды, но не поймешь, может это мужские, наверно
+\ELANBegin 00:14:12.111
+\ELANEnd 00:14:19.014
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_166
+\ref
+\tx ešni          ešni
+\mb e -R(E) -n(I)  e -R(E) -n(I)
+\ge neg -nfut -3sg neg -nfut -3sg
+\ft no, no
+\ev  
+\ru нет нет
+\ELANBegin 00:14:19.014
+\ELANEnd 00:14:22.160
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_166b
+\ref
+\tx asalda,        iŋe?
+\mb asị -L  =DE  iŋe
+\ge woman -pl =ptl yes
+\ft women's?
+\ph
+\ELANBegin 00:14:19.014
+\ELANEnd 00:14:22.160
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_167
+\ref
+\tx Erek tože  kojeːnni   ornament   erek uŋ       nọːdịkan          tože  ečintitte.
+\mb erek tože  kojeː -nrI ornament   erek uŋ       nọːdịka -n(I)     tože  erroːčin =tIt
+\ge prox also.R watch  -2sg ornament.R prox something ornament     -poss.3sg also.R prox.qual  =ptl
+\ft This too, look, the ornament, the drawing/pattern is also like that.
+\ev
+\ru Это тоже видишь, орнамент, рисунок тоже так же
+\ELANBegin 00:14:22.160
+\ELANEnd 00:14:28.712
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_168
+\ref
+\tx Ekič     ụnụr            awgič,     ŋiːde    ešni          aːr          ịakawụ   erek.
+\mb e   -kIč ụnụ    -R       aw    -GIČ ŋiː =DE  e -R(E) -n(I)  haː -R       ịak -awụ erek
+\ge neg -nr   understand -neg.cvb where -elat who   =ptl neg -nfut -3sg know -neg.cvb what  -emph  prox
+\ft Impossible to understand, from where (it comes), nobody knows what this is.
+\ev
+\ru не поймешь откуда, никто не знает что это 
+\ELANBegin 00:14:28.712
+\ELANEnd 00:14:32.729
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_169
+\ref
+\tx erekte
+\mb erek =DE
+\ge prox =ptl
+\ft this too
+\ev
+\ru этот тоже
+\ELANBegin 00:14:33.899
+\ELANEnd 00:14:34.939
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_170
+\ref
+\tx nele
+\mb nel   -E
+\ge apron -ep
+\ft an apron
+\ev
+\ru
+\ELANBegin 00:14:37.487
+\ELANEnd 00:14:39.489
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_171
+\ref
+\tx aːwal       tože  irroːčin, aːwan
+\mb aːwụn -L  tože  irroːčin  aːwụn
+\ge hat      -pl also.R which       hat
+\ft hats are also like what, hat...
+\ev
+\ru шапки тоже вот какие, шапка
+\ELANBegin 00:14:39.489
+\ELANEnd 00:14:44.507
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_172
+\ref
+\tx Erek bej aːwanni,          tara, iː, bej aːwanni,          a     erekesi       asal      aːwaltan.
+\mb erek bej aːwụn -n(I)     tarak iː  bej aːwụn -n(I)     a.R   erek -E=sI    asị -L  aːwụn -L  -tEn
+\ge prox man hat      -poss.3sg dist  yes  man hat      -poss.3sg but.R prox -ep=emph woman -pl hat      -pl -poss.3pl
+\ft This is a man's hat, right, a man's hat, and this is (these are) women's hats.
+\ev
+\ru это мужская шапка, вот так, мужская шапка, а это же женские шапки
+\ELANBegin 00:14:44.507
+\ELANEnd 00:14:52.801
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_174
+\ref
+\tx Von...  uŋenke       atịkanke     Lidekke
+\mb von     uŋen    =kkE atịkan  =kkE Lide           =kkE
+\ge there.R this.one =ptl old.woman =ptl Lidija.hypocor =ptl
+\ft There, that old woman Lida, right.
+\ev
+\ru Вон та же старуха же Лида
+\ELANBegin 00:14:55.830
+\ELANEnd 00:15:00.549
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_175
+\ref
+\tx Tawụr nọŋan aːwlattan,                    ittiš             fotografijalakka?
+\mb tawụr nọŋan aːwụn -LE -Č  -R(E) -n(I)  it  -RI  -s(I)     fotografija  -(dU)LE =kkE
+\ge this    3sg      hat      -vr -res -nonfut -3sg see -pst -poss.2sg photograph.R -loc    =ptl
+\ft It's her wearing the hat, did you see, in the photo?
+\ev
+\ru Вот она в шапку одета, видел на фотографии?
+\ELANBegin 00:15:00.549
+\ELANEnd 00:15:03.920
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_175b
+\ref
+\tx iŋe
+\mb iŋe
+\ge yes
+\ft yes
+\ph
+\ELANBegin 00:15:03.920
+\ELANEnd 00:15:04.332
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_176
+\ref
+\tx Tarak akannịmaja           aːwannị,        ịak ekenni,          ekenni           aːwanni,          esni.
+\mb tarak akan   -n(I)     =mEjE aːwụn -n(I)     ịak eken   -n(I)     eken   -n(I)     aːwụn -n(I)     e -R(E) -n(I)
+\ge dist  father -poss.3sg =ptl  hat      -poss.3sg what  mother -poss.3sg mother -poss.3sg hat      -poss.3sg neg -nfut -3sg
+\ft That's her father's hat, it turns out, not her mother's, her mother's hat, no.
+\ev
+\ru Это же ее отца шапка, не материна, материна шапка, нет.
+\ELANBegin 00:15:04.332
+\ELANEnd 00:15:10.013
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_177
+\ref
+\tx Bi   dʒulle       gerbuttiwu            uŋe          umenilki, umenilki, a     untemeje    bejŋimeje           unte
+\mb biː dʒul -(dU)LE gerbet -RI -W         uŋ       -E  umenilki  umenilki  a.R   honte =mEjE bej -ŋI       =mEjE honte
+\ge 1sg  front -loc    think  -pst -poss.1sg something -ep the.same  the.same  but.R other =ptl  man -pred.poss =ptl  other
+
+\tx biweːtten.
+\mb bi -WEːČ -R(E) -n(I)
+\ge be -gnr    -nonfut -3sg
+\ft I used to think that they were the same, the same, but it turns out that they are different, it turns out that a man's (hat) is different.
+\ev
+\ru Я раньше думал что одинаково, одинаково, а другое оказывается, у мужчин бывает.
+\ELANBegin 00:15:10.013
+\ELANEnd 00:15:19.503
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_178
+\ref
+\tx erek dọŋka
+\mb erek dọŋka
+\ge prox saddle
+\ft this is a saddle
+\ev
+\ru это седло
+\ELANBegin 00:15:29.266
+\ELANEnd 00:15:32.815
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_179
+\ref
+\tx Erek dọŋk  uŋen    dọŋka, emgun
+\mb erek dọŋka uŋen    dọŋka  emgun
+\ge prox saddle   this.one saddle    reindeer.saddle
+\ft this is a saddle, a reindeer saddle
+\ph
+\nt dọŋka is for horses, emgun for reindeer
+\ev
+\ru
+\ELANBegin 00:15:32.815
+\ELANEnd 00:15:35.662
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_180
+\ref
+\tx emgun
+\mb emgun
+\ge reindeer.saddle
+\ft a reindeer saddle
+\ev
+\ru
+\ELANBegin 00:15:35.194
+\ELANEnd 00:15:35.662
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_181
+\ref
+\tx emgun
+\mb emgun
+\ge reindeer.saddle
+\ft a reindeer saddle
+\ev
+\ru
+\ELANBegin 00:15:36.091
+\ELANEnd 00:15:36.715
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_182
+\ref
+\tx iː emgun,          iŋe
+\mb iː emgun           iŋe
+\ge yes reindeer.saddle yes
+\ft yes, a reindeer saddle
+\ev
+\ru
+\ELANBegin 00:15:36.715
+\ELANEnd 00:15:37.755
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_183
+\ref
+\tx iŋe
+\mb iŋe
+\ge yes
+\ft yes
+\ev
+\ru
+\ELANBegin 00:15:37.755
+\ELANEnd 00:15:38.717
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_184
+\ref
+\tx Erek osnovnoj  ọrọč tarkke     uŋen             dọŋkan.
+\mb erek osnovnoj  ọrọč tarak =kkE uŋ       -E-n(I) dọŋka -E-n(I)
+\ge prox basic.m.R Oroch     dist  =ptl something -ep-3sg saddle   -ep-poss.3sg
+\ft This is the basic Even saddle.
+\ph
+\gr we had initially transcribed this without the particle on "tar", and when I confirmed the presence of the particle on 28/06/16 and asked whether the translation would change, she said
+it didn't; here she agrees with me that it's tar-kke, in contrast to mut-ke (rec 149), and when I asked whether they were the same she said no, they're different, tar-kke and mut-ke;
+however, the Russian translation is "tot zhe" and "my zhe", so that I do think it's probably allomorphs of one particle, as I have been glossing them - at least, I hope it's allomorphs...
+\ev
+\ru Это основное эвенское седло.
+\ELANBegin 00:15:38.717
+\ELANEnd 00:15:42.552
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_185
+\ref
+\tx Uŋ       sever   uŋgič         sibirgič       mut    emnit                  tarkke     erroːčinni         dọŋkač.
+\mb uŋ       sever   uŋ       -GIČ sibir     -GIČ mut    em   -RI -t(I)         tarak =kkE erroːčin -n(I)     dọŋka -Č
+\ge something north.R something -elat Siberia.R -elat 1pl.in come -pst -poss.1pl.in dist  =ptl prox.qual  -poss.3sg saddle   -ins
+\ft The north, from there, from Siberia we came with just such a saddle.
+\ev
+\ru Вот север, оттуда из Сибири мы приехали вот на таком седлею
+\ELANBegin 00:15:42.552
+\ELANEnd 00:15:47.375
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_186
+\ref
+\tx Nan    ewgidele           severlamaːk           tụrkịdawaːttitan,               iŋe.
+\mb ńaːn erek -gIdE -(dU)LE sever   -(dU)LE =mEːk tụrkị -DE -WEːČ -RI -tEn       iŋe
+\ge and    prox -part -loc    north.R -loc    =restr sled      -vr -gnr    -pst -poss.3pl yes
+\ft And closer to here, only in the north, did we (start) to use sleds, right.
+\ev
+\ru И вот уже по-ближе тут на севере только стали ездить на нартах.
+\ELANBegin 00:15:47.375
+\ELANEnd 00:15:51.210
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_187
+\ref
+\tx Erek maːwụt.
+\mb erek maːwụt
+\ge prox lasso
+\ft This is a lasso.
+\ev
+\ru Это чаут.
+\ELANBegin 00:15:54.408
+\ELANEnd 00:15:56.137
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_188
+\ref
+\tx Munŋi                maːwụtun            tarkke     aŋanuttan.
+\mb mun        -ŋI       maːwụt -WUn         tarak =kkE haŋan -U    -Č  -R(E) -n(I)
+\ge 1pl.ex.obl -pred.poss lasso     -poss.1pl.ex dist  =ptl sew    -caus -res -nonfut -3sg
+
+\ft Our lasso is sewn, right.
+\ph says maːwutən, with a very short ə
+\ev
+\ru Наш мавут вот же шитый.
+\ELANBegin 00:15:56.137
+\ELANEnd 00:15:59.543
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_189
+\ref
+\tx čukčelŋi            pletjonnyj, iŋe, i     čajčịbalŋida                           pletjonnyj
+\mb čukča -L  -ŋI       pletennyj   iŋe  i     čajčaba               -L  -ŋI       =DE  pletennyj
+\ge Chukchi -pl -pred.poss braided.R   yes   and.R reindeer.herding.Koryak -pl -pred.poss =ptl braided.R
+\ft the Chukchi (lasso) is braided, right, and the Koryak one is, too
+\ev
+\ru у чукчей плетенный, и у коряков плетенный
+\ELANBegin 00:15:59.543
+\ELANEnd 00:16:03.950
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_191
+\ref
+\tx ịlčattan
+\mb ịlča -Č  -R(E) -n(I)
+\ge braid   -res -nonfut -3sg
+\ft braided
+\ph the last syllable is hardly audible
+\ev
+\ru заплетенный
+\ELANBegin 00:16:03.950
+\ELANEnd 00:16:04.652
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_192
+\ref
+\tx
+\ft huh?
+\ev
+\ru
+\ELANBegin 00:16:04.652
+\ELANEnd 00:16:05.029
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_193
+\ref
+\tx ịlčattan
+\mb ịlča -Č  -R(E) -n(I)
+\ge braid   -res -nonfut -3sg
+\ft braided
+\ev
+\ru
+\ELANBegin 00:16:05.029
+\ELANEnd 00:16:05.874
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_194
+\ref
+\tx iː ịlčattan
+\mb iː ịlča -Č  -R(E) -n(I)
+\ge yes braid   -res -nonfut -3sg
+\ft yes, braided
+\ph sounds like ilčattun to me
+\ev
+\ru
+\ELANBegin 00:16:05.874
+\ELANEnd 00:16:07.083
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_195
+\ref
+\tx ịlčat...
+\mb ịlča -Č
+\ge braid   -res
+\ft braided
+\ph he probably says ịlčattan, but one really cannot hear the ending
+\ev
+\ru
+\ELANBegin 00:16:07.083
+\ELANEnd 00:16:08.240
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_196
+\ref
+\tx tekekej
+\mb etetetekekej
+\ge vot.kakaja(small)
+\ft just look at this
+\ev
+\ru
+\ELANBegin 00:16:09.696
+\ELANEnd 00:16:11.334
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_197
+\ref
+\tx ịawụt      deŋnikteji                           xxx
+\mb ịak =(W)UttE deŋnik            -DE       -J       *xxx
+\ge what  =indef   beat.over.the.head -purp.cvb -prfl.sg ***
+\ft wants to beat something/someone over the head
+\ph the last word cannot be made out, sounds like "kiwu" to me, Rimma suggested "ečin"
+\gr
+\nt not clear who or what this is about
+\ev
+\ru что-то хочет по голове бить
+\ELANBegin 00:16:12.907
+\ELANEnd 00:16:14.480
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_198
+\ref
+\tx tarawda         ịtịːw,    ọːnkana    ọmŋaram           gerben
+\mb tarak -W   =DE  ịtịː -W   ọːn =kEnE  ọmŋa -R(E) -m     gerbe -n(I)
+\ge dist  -acc =ptl face      -acc how    =contr forget  -nonfut -1sg name  -poss.3sg
+\ft that face, I've forgotten the name
+\ph sounds like "ittiwu" (I saw) to me, but Rimma was quite insistent that it's itiːw, 'face'
+\gr
+\nt not clear, maybe some mask
+\ev
+\ru это лицо, забыл как называется
+\ELANBegin 00:16:14.480
+\ELANEnd 00:16:17.483
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_199
+\ref
+\tx erek ko... uŋe,    eniwedden                      tar  kojeːnni
+\mb erek ***   uŋe     en   -W     -D    -R(E) -n(I)  tar  kojeː -nrI
+\ge prox ***   this.one hurt -advrs -prog -nonfut -3sg thus watch  -2sg
+\ft this one is suffering from pain, do you see
+\ev
+\ru кто-то страдает от боли, видишь
+\ELANBegin 00:16:18.627
+\ELANEnd 00:16:21.994
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_200
+\ref
+\tx iː
+\mb iː
+\ge yes
+\ft yes
+\ev
+\ru
+\ELANBegin 00:16:21.994
+\ELANEnd 00:16:22.670
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_201
+\ref
+\tx deŋnikedmi                           mụrọm,   ọrọm               deŋnikedmi
+\mb deŋnik            -E-D     -mI       mụran -W   ọrọn          -W   deŋnik            -E-D     -mI
+\ge beat.over.the.head -ep-prog -cond.cvb horse   -acc domestic.reindeer -acc beat.over.the.head -ep-prog -cond.cvb
+\ft beating a horse over the head, beating a reindeer over the head
+\ph
+\nt deŋnik = to beat over the head with something hard; murom is probably just a slip of the tongue and he meant to say orom
+\ev
+\ru
+\ELANBegin 00:16:22.670
+\ELANEnd 00:16:25.985
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_202
+\ref
+\tx erekeši   dọŋka, mụran dọŋkan
+\mb erek =sI   dọŋka  mụran dọŋka -E-n(I)
+\ge prox =emph saddle    horse   saddle   -ep-poss.3sg
+\ft this is a saddle, a saddle for horses
+\ev
+\ru это же седло, лошадинное седло
+\ELANBegin 00:16:28.429
+\ELANEnd 00:16:31.081
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_203
+\ref
+\tx Awgịt     nan    nọŋan, se...   uŋe,         Jakutijagič   emče?
+\mb aw    -GIČ ńaːn nọŋan  sever   uŋ       -E  Jakutija -GIČ em   -čE
+\ge where -elat and    3sg       north.R something -ep Yakutia  -elat come -pf.ptc
+\ft Where is it from, it came from Yakutia?
+\ev
+\ru откуда он, что, из Якутии прибыл
+\ELANBegin 00:16:32.823
+\ELANEnd 00:16:36.164
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_204
+\ref
+\tx iː
+\mb iː
+\ge yes
+\ft yes
+\ev
+\ru
+\ELANBegin 00:16:36.164
+\ELANEnd 00:16:37.490
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_205
+\ref
+\tx Jakutija dọŋk... eh?
+\mb Jakutija dọŋka   eh
+\ge Yakutia  saddle     eh
+\ft a Yakut saddle... huh?
+\ev
+\ru якутское седло
+\ELANBegin 00:16:37.490
+\ELANEnd 00:16:39.320
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_206
+\ref
+\tx Taraw      tar  dʒoːŋimi,        taraw      dʒoːŋiča.
+\mb tarak -W   tar  dʒoːŋi -mI       tarak -W   dʒoːŋi -čE
+\ge dist  -acc thus repeat    -cond.cvb dist  -acc repeat    -pf.ptc
+\ft repeating (copying) that, they copied that
+\ev
+\ru Это вот подражали, вот это подражали.
+\ELANBegin 00:16:38.023
+\ELANEnd 00:16:40.792
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_207
+\ref
+\tx Jakutalŋi                erroːčin tege... tarma i     erroːčintedekke          ehni           bihe,       iŋe?
+\mb jakut   -E-L   -ŋI       erroːčin         tarma i     erroːčin =t(E) =DE  =kkE e -R(E) -n(I)  bi -R       iŋe
+\ge Yakut.R -ep-pl -pred.poss prox.qual          but   and.R prox.qual  =ptl  =ptl =ptl neg -nfut -3sg be -neg.cvb yes
+\ft the Yakut (saddle) is probably like this, too, right?
+\ph
+\nt this caused a lot of problems, Rimma wasn't sure at all about what he says, and she suggested something like "erročintede binni", but to me it sounds like this, and since AEI
+sometimes "hekaet", and Rimma seems to have some problems to hear/catch that, I think she might simply have missed it; she did finally agree with me that it might be like this and
+gave the rough Russian translation below; ***but this sentence is entirely uslovnoe!!***
+\ev
+\ru якутский наверно такое же есть
+\ELANBegin 00:16:42.625
+\ELANEnd 00:16:48.280
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_208
+\ref
+\tx tonmejil
+\mb tonmej  -E-L
+\ge stirrup -ep-pl
+\ft stirrups
+\ev
+\ru стремена
+\ELANBegin 00:16:50.009
+\ELANEnd 00:16:51.335
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_209
+\ref
+\tx erek
+\mb erek
+\ge prox
+\ft this...
+\ev
+\ru
+\ELANBegin 00:17:01.813
+\ELANEnd 00:17:02.710
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_210
+\ref
+\tx Ukčeneddep                  awụški       urdʒip
+\mb ukčen -D    -R(E) -p        aw    -skI      hor -DʒI -p
+\ge tell   -prog -nonfut -1pl.in where -advb.all go  -fut  -1pl.in
+\ft Let's talk, where will we go.
+\ev
+\ru Давай беседовать, куда мы пойдем
+\ELANBegin 00:17:02.710
+\ELANEnd 00:17:04.478
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_211
+\ref
+\tx urreket                       emur            kojeːnni   kọladdiwutan
+\mb hor -REk      -E-t(I)         em -U      -r   kojeː -nrI kọl -D    -RI -W         -tEn
+\ge go  -cond.cvb -ep-poss.1pl.in come -caus -3pl watch  -2sg drink -prog -impf.ptc -acc -poss.3pl
+\ft when we leave they come, see how they are drinking
+\ph the first two words are very uslovno, sounds like turekečimur
+\gr
+\nt not clear what he's talking about, if I can find the video it might be different; he might be talking about some photo
+\ev
+\ru мы уходим, они несут, видишь как они пьют
+\ELANBegin 00:17:05.622
+\ELANEnd 00:17:07.754
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_212
+\ref
+\tx Ukčenedde:             awụški       ńọːŋčukahendʒip
+\mb ukčen -E-D     -R(E)   aw    -skI      ńọːŋčị -WkEn -s(E)n -DʒI -p
+\ge tell   -ep-prog -nonfut where -advb.all run            -caus -lim   -fut  -1pl.in
+\ft They are talking: where shall we gallop off to.
+\ph
+\nt the most likely interpretation is that this is about a photo
+\ev
+\ru Разговаривают, куда мы поскачем
+\ELANBegin 00:17:07.754
+\ELANEnd 00:17:11.173
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_213
+\ref
+\tx Ile           gelnedʒip?
+\mb irek  -(dU)LE gel      -nE     -DʒI -p
+\ge which -loc    look.for -intent -fut  -1pl.in
+\ft Where will we go to look?
+\ev
+\ru Где пойдем искать?
+\ELANBegin 00:17:11.173
+\ELANEnd 00:17:13.149
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_214
+\ref
+\tx ịawụt      nan    olekčidde
+\mb ịak =(W)UttE ńaːn olekči -D    -R(E)
+\ge what  =indef   and    cheat   -prog -nonfut
+\ft somehow they are lying/cheating 
+\ev
+\ru чего-то они врут/обманывают
+\ELANBegin 00:17:13.708
+\ELANEnd 00:17:16.945
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_215
+\ref
+\tx ịa...
+\mb ịa
+\ge do.what
+\ft what
+\ev  
+\ru
+\ELANBegin 00:17:18.401
+\ELANEnd 00:17:18.895
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_216
+\ref
+\tx ŋiːw     djadja  Vasjaw     uŋčen               ili  ŋiːwgu?
+\mb ŋiː -W   djadja  Vasja -W   uŋ -čE    -n(I)     ili  ŋiː -W   =GU
+\ge who   -acc uncle.R Vasja -acc do  -pf.ptc -poss.3sg or.R who   -acc =q
+\ft who, did they do Uncle Vasja or whom?
+\ph
+\nt might be talking about a photo or something
+\qu
+\qu now I hear "iak" in the very beginning, underneath ASA, can that be?
+\ev
+\ru это дядю Васю сделали или кого
+\ELANBegin 00:17:18.895
+\ELANEnd 00:17:21.612
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_217
+\ref
+\tx ašapar
+\mb asapar
+\ge I.don't.know
+\ft I don't know
+\ev
+\ru
+\ELANBegin 00:17:21.612
+\ELANEnd 00:17:22.990
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_218
+\ref
+\tx ọńattankke
+\mb ọńa -Č  -R(E) -n(I)  =kkE
+\ge write  -res -nonfut -3sg =ptl
+\ft it's written, right
+\ev
+\ru написано же
+\ELANBegin 00:17:22.990
+\ELANEnd 00:17:24.758
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_218b
+\ref
+\tx kọča
+\mb kọč   -E
+\ge probably -ep
+\ft probably
+\ph
+\ELANBegin 00:17:22.990
+\ELANEnd 00:17:24.758
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_219
+\ref
+\tx iː
+\mb iː
+\ge yes
+\ft yes
+\ev
+\ru
+\ELANBegin 00:17:24.758
+\ELANEnd 00:17:26.370
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_220
+\ref
+\tx Aa, ọrọmŋal                ŋiːje
+\mb aa  ọrọn          -mŋE -L  ŋiː =jE
+\ge ah  domestic.reindeer -agnr -pl who   =assoc
+\ft ah, reindeer herders, who are they?
+\ph
+\nt probably they're looking at a photo, and the caption says "reindeer herders" and now he's trying to identify them
+\ev
+\ru аа, оленеводы, кто же это
+\ELANBegin 00:17:29.659
+\ELANEnd 00:17:32.350
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_221
+\ref
+\tx daγrịt uŋče      iŋe
+\mb dagrịt  uŋ -čE    iŋe
+\ge simply    do  -pf.ptc yes
+\ft it's simply done, right
+\ev
+\ru просто так сделано
+\ELANBegin 00:17:33.143
+\ELANEnd 00:17:35.808
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_222
+\ref
+\tx ịaduk       erek?
+\mb ịak -DUk(U) erek
+\ge what  -abl    prox
+\ft from what is this (made)?
+\ev  
+\ru из чего это
+\ELANBegin 00:17:36.757
+\ELANEnd 00:17:38.421
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_223
+\ref
+\tx
+\ft asbestos
+\ev
+\ru азбест
+\ELANBegin 00:17:40.774
+\ELANEnd 00:17:41.853
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_224
+\ref
+\tx
+\ft ah
+\ev
+\ru
+\ELANBegin 00:17:41.853
+\ELANEnd 00:17:43.023
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_225
+\ref
+\tx Viktortakị   ńan   ŋenne
+\mb Viktor -t(E)kI ńaːn ŋen -R(E)
+\ge Viktor -all    and    go   -nonfut
+\ft they again came to Viktor
+\ph
+\nt again unclear: who is they, who is Viktor, where did they go...
+\ev
+\ru к Виктору они пришли
+\ELANBegin 00:17:47.378
+\ELANEnd 00:17:49.042
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_226
+\ref
+\tx
+\ft Now I'll take this little hide, yes?
+\ev
+\ru Счас нан, я вот счас эту шкурку беру, да,
+\ELANBegin 00:17:51.057
+\ELANEnd 00:17:56.036
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_227
+\ref
+\tx
+\ft Mhm, maybe Albert Sergeevich can now tell a bit about the sled because it's already a lot
+\ev
+\ru
+\ELANBegin 00:17:56.829
+\ELANEnd 00:18:04.590
+\ELANParticipant BP 
+
+\id Ichanga_Adukanov_muzej1_cont_228
+\ref
+\tx
+\ft a lot?
+\ev
+\ru много?
+\ELANBegin 00:18:04.590
+\ELANEnd 00:18:04.967
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_229
+\ref
+\tx
+\ft yes
+\ev
+\ru
+\ELANBegin 00:18:04.967
+\ELANEnd 00:18:06.345
+\ELANParticipant BP 
+
+\id Ichanga_Adukanov_muzej1_cont_230
+\ref
+\tx
+\ft Well, then he'll quickly tell...
+\ev
+\ru Ну тогда он быстренько разговаривает
+\ELANBegin 00:18:06.345
+\ELANEnd 00:18:12.078
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_231
+\ref
+\tx
+\ft But of course everything was very good, very interesting, super
+\ev
+\ru
+\ELANBegin 00:18:12.078
+\ELANEnd 00:18:18.591
+\ELANParticipant BP 
+
+\id Ichanga_Adukanov_muzej1_cont_232
+\ref
+\tx Ịaw      tabịč toredʒim?
+\mb ịak -W   tabịč tore  -DʒI -m
+\ge what  -acc again    speak -fut  -1sg
+\ft What will I say?
+\ev
+\ru что я буду говорить?
+\ELANBegin 00:18:18.591
+\ELANEnd 00:18:21.451
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_233
+\ref
+\tx Ịaw      tabịč toredʒim?       Ọːn ọːččọːtta?
+\mb ịak -W   tabịč tore  -DʒI -m   ọːn ọː -Č  -WEːČ -R(E)
+\ge what  -acc again    speak -fut  -1sg how    make  -res -gnr    -nonfut
+
+\ft What will I say? How they make (sleds)?
+\ph
+\nt Rimma had said that he says toreʤip here, 1pl - but she translated it with 1sg, and that's more like what I hear (though I'm very far from being sure), and it makes more sense, since
+he says toreʤim before this, and after this, and the suggestion was that he would tell about the sled
+\ev
+\ru Что я буду говорить, как строят?
+\ELANBegin 00:18:21.451
+\ELANEnd 00:18:24.818
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_234
+\ref
+\tx Ọːn ọːččọːtta          toredʒim?
+\mb ọːn ọː -Č  -WEːČ -R(E)   tore  -DʒI -m
+\ge how    make  -res -gnr    -nonfut speak -fut  -1sg
+\ft Shall I say how they make (it)?
+\ev
+\ru Как строят скажу?
+\ELANBegin 00:18:29.199
+\ELANEnd 00:18:30.785
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_235
+\ref
+\tx Erek tụrkịw     ọːčidʒimŋe...    ọːnka    goːweːtte?
+\mb erek tụrkị -W   ọː -Č  -D    -mŋE ọːn =kkE goːn -WEːČ -R(E)
+\ge prox sled      -acc make  -res -prog -agnr how    =ptl say   -gnr    -nonfut
+\ft This is for making sleds... how does one say?
+\ph a pause of 3 seconds in between the two clauses
+\gr ọːčiʤimŋe = dlja stroenija narty; chelovek kotoryj delaet; the form is normally used to designate a person, he doesn't use it correctly here, since he's probably showing some tool
+\ev
+\ru Как чтобы нарты сделать, как же называется?
+\ELANBegin 00:18:30.785
+\ELANEnd 00:18:38.637
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_237
+\ref
+\tx Bi   meːnŋidʒi                  ọːčịdʒillam,                 tụ.. meːnditken                 ọːram,          iŋe tụrkịgaji
+\mb biː meːn -ŋI       -DʒI        ọː -Č  -D    -L    -R(E) -m     ***    meːn -DI          =t(E)kEn ọː -R(E) -m     iŋe tụrkị -GE    -J
+\ge 1sg  refl  -pred.poss -ins.prfl.sg make  -res -prog -inch -nonfut -1sg ***    refl  -dat.prfl.sg =restr   make  -nonfut -1sg yes  sled      -desig -prfl.sg
+
+\tx meːnduliitken
+\mb meːn -(dU)LI -E  =t(E)kEn
+\ge refl  -prol   -ep =restr
+\ft I start to make (a sled) in my own way, I only make (sleds) for myself, a sled only for myself.
+\ph
+\gr meːnduliitken is not the correct form, should be meːnditken
+\gr 28/06/2016: checked, meːnŋiʤi is not the correct form for "po svoemu", should be meːndeči 
+\ev
+\ru Я по-своему начинаю делать, только себе делаю (нарту), нарту для себя только себе мэндуткэн
+\ELANBegin 00:18:39.352
+\ELANEnd 00:18:45.696
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_238
+\ref
+\tx meːnduliji            uŋ       uŋken
+\mb meːn -(dU)LI -J       uŋ
+\ge refl  -prol   -prfl.sg something
+\ft
+\nt I don't know how to translate this - Rimma didn't know what he meant with "uŋken", and the prolative case on "oneself" is hard to translate into English
+\ev
+\ru по себе что-нибудь
+\ELANBegin 00:18:45.696
+\ELANEnd 00:18:48.491
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_239
+\ref
+\tx meːr     meːni      kojeːtniken     ọːtt..          ọːttan
+\mb meːn -L  meːni      kojeːt -nIkEn   ọː -Č  -R(E)   ọː -Č  -R(E) -n(I)
+\ge refl  -pl refl.sg.acc look.at -sim.cvb make  -res -nonfut make  -res -nonfut -3sg
+\ft he looks at himself and makes (it)
+\ph
+\gr 28/06/2016: even though I find it very odd that there is a plural form in "sam sebja", Rimma said that "meːr meːni" is correct; 
+\nt talking about AEI
+\ev
+\ru сам на себя смотрит и делает
+\ELANBegin 00:18:48.491
+\ELANEnd 00:18:51.234
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_240
+\ref
+\tx ọːridʒi    nan    iajawmi               kojeːtmi         ọrọneč            iajawmi,              ekičeː
+\mb ọː -RIdʒI  ńaːn iaja -W     -mI       kojeːt -mI       ọrọn          -Č  iaja -W     -mI       ekič =eː
+\ge make  -ant.cvb and    race -advrs -cond.cvb look.at -cond.cvb domestic.reindeer -ins race -advrs -cond.cvb very  =emph
+
+\ft and having made them he watches during the reindeer sled races, very much
+\ph
+\gr iajaʤak = gonki; iajaʤaktu iajaram = ja v gonkax uchastvuju, mchusj na gonkax; only in competition, cannot say "iajaram" for a reindeer herder who wants to come home more
+quickly; sorevnueshsja, iajaram
+\nt so Aleksej makes himself a sled, and then he takes part in the race, to see how it works, is it a good sled, he checks the quality while he is racing himself
+\ev
+\ru и когда сделает на гонках посмотрит на олених гонках, очень уж
+\ELANBegin 00:18:55.381
+\ELANEnd 00:19:04.767
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_241
+\ref
+\tx Ujumkunele        umekič biweːtten              erek tụrkịkajakan.
+\mb ejumkun -E  =lE   umekič bi -WEːČ -R(E) -n(I)  erek tụrkị -KEn     -jEkEn
+\ge light   -ep =emph very    be -gnr    -nonfut -3sg prox sled      -dim.int -dim
+\ft This little sled is very light.
+\ph
+\gr checked on 28/06/2016: turkikajakan is derived from turkikan, it cannot be turkikaja-kan
+\ev
+\ru Очень легкая бывает вот эта нарточка
+\ELANBegin 00:19:04.767
+\ELANEnd 00:19:08.433
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_242
+\ref
+\tx ịaduktukan           ọːččan                  ele?
+\mb ịak -DUk(U) =t(E)kEn ọː -Č  -čE    -n(I)     erek -(dU)LE
+\ge what  -abl    =restr   make  -res -pf.ptc -poss.3sg prox -loc
+\ft what only is it made of, here?
+\ph
+\gr 28/06/2016: when I was asking about "ọːččan", Rimma suddenly said it should be "iaduktUkan", not iaduktakan (which is how I had transcribed it at first) - not sure why here the
+restrictive suffix is suddenly expected to assimilate to the preceding vowel - but when I went back to the sound file it's true, he says iaduktukan; ọːttan = sejchas, nastojashe vremja,
+tolko chto sdelano, ọːččan = proshloe, tiniw ọːččan = to chto vchera sdelano
+\ev
+\ru из чего только сделана она здесь?
+\ELANBegin 00:19:08.433
+\ELANEnd 00:19:10.110
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_243
+\ref
+\tx erek čalbanduk
+\mb erek čalban -DUk(U)
+\ge prox birch   -abl
+\ft this is (made) from white birch
+\ev
+\ru это из белой березой
+\ELANBegin 00:19:10.110
+\ELANEnd 00:19:11.501
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_244
+\ref
+\tx Čalbanduk?
+\mb čalban -DUk(U)
+\ge birch   -abl
+\ft from white birch?
+\ev
+\ru
+\ELANBegin 00:19:11.501
+\ELANEnd 00:19:12.294
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_245
+\ref
+\tx iŋe
+\mb iŋe
+\ge yes
+\ft yes
+\ev
+\ru
+\ELANBegin 00:19:12.294
+\ELANEnd 00:19:12.931
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_246
+\ref
+\tx aa, uŋen...
+\mb aa  uŋ       -E-n(I)
+\ge ah  something -ep-poss.3sg
+
+\ft and this
+\ev
+\ru а его 
+\ELANBegin 00:19:12.931
+\ELANEnd 00:19:14.114
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_247
+\ref
+\tx paktalŋannitkan                 diwut
+\mb paktalŋan    -n(I)     =t(E)kEn diwut
+\ge sled.runner.K -poss.3sg =restr   birch
+\ft only its runners are from (another kind of) birch
+\ev
+\ru полозья из каменной березы
+\ELANBegin 00:19:14.114
+\ELANEnd 00:19:15.661
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_248
+\ref
+\tx diwuttuk?
+\mb diwut -DUk(U)
+\ge birch -abl
+\ft from diwut? (a kind of birch)
+\ev
+\ru
+\ELANBegin 00:19:15.661
+\ELANEnd 00:19:16.259
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_249
+\ref
+\tx iː
+\mb iː
+\ge yes
+\ft yes
+\ev
+\ru
+\ELANBegin 00:19:16.259
+\ELANEnd 00:19:16.779
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_250
+\ref
+\tx
+\ft oh (I see)
+\ev
+\ru
+\ELANBegin 00:19:16.779
+\ELANEnd 00:19:17.936
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_251
+\ref
+\tx Erek nan    ewetlelni            ọːn gerben?
+\mb erek ńaːn ewetle -L  -n(I)     ọːn gerbe -n(I)
+\ge prox and    rib    -pl -poss.3sg how    name  -poss.3sg
+\ft And how are its ribs called?
+\ev
+\ru а вот эти вот ребра у него как называется?
+\ELANBegin 00:19:18.222
+\ELANEnd 00:19:21.589
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_252
+\ref
+\tx erel?
+\mb erek -L
+\ge prox -pl
+\ft these?
+\ev
+\ru вот эти?
+\ELANBegin 00:19:21.589
+\ELANEnd 00:19:23.591
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_253
+\ref
+\tx i     tawụr čelewen                i     tawụr..
+\mb i     tawụr čele -W   -E-n(I)      i     tawụr
+\ge and.R this    all   -acc -ep-poss.3sg and.R this
+\ft and this and all this
+\ev
+\ru а вот все это все
+\ELANBegin 00:19:23.591
+\ELANEnd 00:19:25.801
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_254
+\ref
+\tx erekkel     ulja, uljak gerben
+\mb erek =gEl   uljak uljak gerbe -n(I)
+\ge prox =coord uljak uljak name  -poss.3sg
+\ft this here is called ulja, uljak (probably the "ribs" of the sled)
+\ev
+\ru это же уля, уляк называется
+\ELANBegin 00:19:25.801
+\ELANEnd 00:19:28.440
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_255
+\ref
+\tx erek mujgan
+\mb erek mujgan
+\ge prox mujgan
+\ft this is (called) mujgan
+\ev
+\ru это муйган
+\ELANBegin 00:19:28.440
+\ELANEnd 00:19:31.235
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_256
+\ref
+\tx er   mujgan, er   naːnmajan
+\mb erek mujgan  erek naː -nmEj -E-n(I)
+\ge prox mujgan  prox hit  -anr  -ep-poss.3sg
+\ft this is (called) mujgan, this na:nmajan (that which hits)
+\ph
+\nt the naːnmajan is probably at the front of the sled, given the name
+\ev
+\ru это муйган, это нанмаян (то что ударяется)
+\ELANBegin 00:19:31.235
+\ELANEnd 00:19:34.225
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_257
+\ref
+\tx paktalŋanni
+\mb paktalŋan    -n(I)
+\ge sled.runner.K -poss.3sg
+\ft its runners
+\ev
+\ru
+\ELANBegin 00:19:36.591
+\ELANEnd 00:19:38.463
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_258
+\ref
+\tx paktolŋan    ere...
+\mb paktalŋan    erek
+\ge sled.runner.K prox
+\ft the runner, here
+\ev
+\ru
+\ELANBegin 00:19:38.463
+\ELANEnd 00:19:40.465
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_259
+\ref
+\tx Tarma erekke    tarkka     ele          ịak erroːčin, iŋe, uŋe,         mọːd...     uŋe          mọːduk
+\mb tarma erek =kkE tarak =kkE erek -(dU)LE ịak erroːčin  iŋe  uŋ       -E  mọː -DUk(U) uŋ       -E  mọː -DUk(U)
+\ge but   prox =ptl dist  =ptl prox -loc    what  prox.qual   yes   something -ep tree   -abl    something -ep tree   -abl
+
+\tx dolžen  bidʒin        iŋe?
+\mb dolžen  bi -DʒI -n(I) iŋe
+\ge must.m.R be -fut -3sg   yes
+\ft But this here isn't like that, right, it has to be of wood, right?
+\ph
+\nt very hard to understand and not so clear (without the video) what he means
+\ev
+\ru Но вот это же вот здесь не такое, что да, дерево, деревянное должен быть, да?
+\ELANBegin 00:19:40.465
+\ELANEnd 00:19:46.770
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_260
+\ref
+\tx Iŋe, mọːkakan   ele          biweːtten.
+\mb iŋe  mọː -kEkEn erek -(dU)LE bi -WEːČ -R(E) -n(I)
+\ge yes   tree   -dim   prox -loc    be -gnr    -nonfut -3sg
+\ft Yes, there is usually a stick here.
+\ev
+\ru Да, палочка тут бывает.
+\ELANBegin 00:19:46.770
+\ELANEnd 00:19:49.331
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_261
+\ref
+\tx Erekke    amarla         ọːčillitan                  ečin      ońelli.
+\mb erek =kkE amar   -(dU)LE ọː -Č  -L    -RI -tEn       erroːčin ońelli
+\ge prox =ptl behind -loc    make  -res -inch -pst -poss.3pl prox.qual  lace
+\ft This they started to make later, right, like this, the laces.
+\ph
+\nt some part of the sled where two pieces of wood are tied with laces
+\ev
+\ru Это же позже стали строить, онелли (завязки)
+\ELANBegin 00:19:49.331
+\ELANEnd 00:19:52.269
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_262
+\ref
+\tx Erek tiːk ịakụč ọːčitlan?
+\mb erek tiek  ịakụč ọː -Č  -tlE      -n(I)
+\ge prox now   somebody?  make  -res -pst.ptc  -poss.3sg
+\ft Who was it who built this?
+\ph
+\gr ọːčitlan = nuance prenebrezhenija; ọːččan = kto eto delal, neutral; ịakuč ọːttin = also possible, kto-to delal, ọːttan = tolko chto delal; but a concordance of -tlE (only 3 examples in
+the Kamchatka corpus!) indicates that the pejorative connotation of -tlE isn't fixed, but is here probably derived from the context, the other two examples don't appear to have any
+negative connotation, one (Ichanga_Adukanov_museum28) even appears in a more positive context, something which babka Anike gave to the museum, and there the grammar note
+says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto kto tak navaril", kak popalo, olečitlen"
+\ev
+\ru А это вот, кто это делал?
+\ELANBegin 00:19:52.269
+\ELANEnd 00:19:54.622
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_263
+\ref
+\tx I     erek ịadu     ečin      ońerin,              ịnuččoːttan
+\mb i     erek ịak -DU  erroːčin oːńe -RI -n(I)      hịn      -U    -Č  -WEːČ -R(E) -n(I)
+\ge and.R prox what  -dat prox.qual  tie.up -pst -poss.3sg shove.into -caus -res -gnr    -nonfut -3sg
+\ft And this, why did he tie it like this, that is shoved into (something).
+\ev
+\ru И вот это он зачем так завязал, это же засовуют (засовывается)
+\ELANBegin 00:19:55.857
+\ELANEnd 00:19:59.380
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_264
+\ref
+\tx ešni
+\mb e -R(E) -n(I)
+\ge neg -nfut -3sg
+\ft no
+\ev
+\ru нет
+\ELANBegin 00:19:59.380
+\ELANEnd 00:20:00.355
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_265
+\ref
+\tx ečin      ońen?
+\mb erroːčin oːńe -n(I)
+\ge prox.qual  tie.up -3sg
+\ft it is tied like this?
+\ev
+\ru
+\ELANBegin 00:20:00.355
+\ELANEnd 00:20:00.823
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_266
+\ref
+\tx ečin      biweːtten
+\mb erroːčin bi -WEːČ -R(E) -n(I)
+\ge prox.qual  be -gnr    -nonfut -3sg
+\ft it can be like this
+\ev
+\ru так бывает
+\ELANBegin 00:20:00.823
+\ELANEnd 00:20:01.629
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_267
+\ref
+\tx bi   meːnken       ọːttiwutittakke                       erroːčim
+\mb biː meːn -KEn     ọː -Č  -RI -W         =tIt =DE  =kkE erroːčin -W
+\ge 1sg  refl  -dim.int make  -res -pst -poss.1sg =ptl =ptl =ptl prox.qual  -acc
+\ft I myself have made (a sled) like this, right.
+\ev
+\ru я сам строил же тоже такое
+\ELANBegin 00:20:03.579
+\ELANEnd 00:20:05.971
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_268
+\ref
+\tx Bi   erroːčim      ịak ọːttiwu                ečin.
+\mb biː erroːčin -W   ịak ọː -Č  -RI -W         erroːčin
+\ge 1sg  prox.qual  -acc what  make  -res -pst -poss.1sg prox.qual
+\ft I haven't made (a sled) like that.
+\ev
+\ru Я такое же не строил вот так.
+\ELANBegin 00:20:05.971
+\ELANEnd 00:20:07.700
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_268b
+\ref
+\tx aa
+\mb aa
+\ge ah
+\ft ah
+\ph
+\ELANBegin 00:20:07.700
+\ELANEnd 00:20:08.337
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_269
+\ref
+\tx A     bi   ọːttiwu                erroːčim      uŋe
+\mb a.R   biː ọː -Č  -RI -W         erroːčin -W   uŋe
+\ge but.R 1sg  make  -res -pst -poss.1sg prox.qual  -acc this.one
+\ft But I made one like this.
+\ev
+\ru А я строил такое.
+\ELANBegin 00:20:08.571
+\ELANEnd 00:20:10.456
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_270
+\ref
+\tx Ineŋelbe ọːttiwu                tawụr uŋe     egdʒedmer     tụrkịw,    tarak kučukemgel          ečiwu             ọːtta.
+\mb           ọː -Č  -RI -W         tawụr uŋe     egdʒen -dmEr  tụrkị -W   tarak kočuken -W   =gEl   e   -RI  -W        ọː -Č  -R
+\ge           make  -res -pst -poss.1sg this    this.one big     -contr sled      -acc dist  small    -acc =coord neg -pst -poss.1sg make  -res -neg.cvb
+\ft I've made sleds for loads, big sleds, but such a small one I haven't made.
+\ev
+\ru Грузовые делал, вот, большие нарты, а вот эти маленькие не делал.
+\ELANBegin 00:20:10.911
+\ELANEnd 00:20:17.125
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_271
+\ref
+\tx Ujumkuniː    umekič biweːtten,             tụrkịdawmi.
+\mb ejumkun =Iː  umekič bi -WEːČ -R(E) -n(I)  tụrkị -DE -W     -mI
+\ge light   =emph very    be -gnr    -nonfut -3sg sled      -vr -advrs -cond.cvb
+\ft They are very light when sledding.
+\ev
+\ru Очень легкие бывают когда едешь.
+\ELANBegin 00:20:17.125
+\ELANEnd 00:20:20.713
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_272
+\ref
+\tx Dọld... ajịtta          dọlčịn.
+\mb dọlda   aj   -E-Č   =DE  dọlčị -n(I)
+\ge hear      good -ep-ins =ptl listen     -3sg
+\ft it obeys very well
+\ev
+\ru Хорошо слушается
+\ELANBegin 00:20:20.713
+\ELANEnd 00:20:23.105
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_273
+\ref
+\tx Daγrịttakan    buːdeldʒitken               uŋdʒinni
+\mb dagrịt =t(E)kEn boːdel -DʒI        =t(E)kEn uŋ -DʒI -nrI
+\ge simply   =restr   leg(s)  -ins.prfl.sg =restr   do  -fut  -2sg
+\ft you only lightly do (something) with your legs
+\ev
+\ru слегка ногами только будешь делать
+\ELANBegin 00:20:23.105
+\ELANEnd 00:20:25.471
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_274
+\ref
+\tx Ŋịnalbi             maːččọːttan?
+\mb ŋịn -E-L   -J       maː -Č  -WEːČ -R(E) -n(I)
+\ge dog    -ep-pl -prfl.sg kill -res -gnr    -nonfut -3sg
+\ft Does (someone?) kill his dogs?
+\ph
+\gr the resultative suffix = postojanno ubivaet, not many dogs (though of course if it's all the time, then I guess the number of dead dogs does add up...), maːwaːttan = odin raz
+\nt no idea what the sled has to do with killing dogs, and Rimma also didn't know
+\ev
+\ru собак своих убивает
+\ELANBegin 00:20:25.471
+\ELANEnd 00:20:28.188
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_275
+\ref
+\tx erek tar  maŋeč       ọːttan
+\mb erek tar  maŋ -E  -Č  ọː -Č  -R(E) -n(I)
+\ge prox thus hard -ep -ins make  -res -nonfut -3sg
+\ft this is made hard
+\ph
+\gr here, maŋ by itself means "hard", e.g. maŋ stol; one can also say erek maŋši
+\ev
+\ru это вот крепко сделано
+\ELANBegin 00:20:28.188
+\ELANEnd 00:20:30.380
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_275b
+\ref
+\tx iː
+\mb iː
+\ge yes
+\ft yes
+\ph
+\ELANBegin 00:20:30.380
+\ELANEnd 00:20:31.087
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_276
+\ref
+\tx i     erek erekkel     ečinet          nan    bidʒin
+\mb i     erek erek =gEl   erroːčin =et   ńaːn bi -DʒI -n(I)
+\ge and.R prox prox =coord prox.qual  =emph and    be -fut -3sg
+
+\ft and this will be like this
+\ph
+\ev
+\ru а вот это, вот так будет
+\ELANBegin 00:20:31.087
+\ELANEnd 00:20:34.520
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_276b
+\ref
+\tx iː
+\mb iː
+\ge yes
+\ft yes
+\ph
+\ELANBegin 00:20:34.520
+\ELANEnd 00:20:35.169
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_277
+\ref
+\tx erkke     er   kojeːnni   awna... awnalan dʒawnir
+\mb erek =kkE erek kojeː -nrI awnalan awnalan dʒaːwnị -r
+\ge prox =ptl prox watch  -2sg awnalan awnalan yawn        -3pl
+
+\ft this here, look, the awnalan are yawning
+\ph
+\nt no idea what an awnalan might be, and Rimma also didn't know, and she doesn't know any word "awna" either, from which awnalan might be derived
+\ev
+\ru вот какие-то авналан зевают
+\ELANBegin 00:20:35.169
+\ELANEnd 00:20:37.795
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_278
+\ref
+\tx awanni?
+\mb awan -n(I)
+\ge awan -poss.3sg
+\ft ???
+\ev
+\ru
+\ELANBegin 00:20:37.795
+\ELANEnd 00:20:38.796
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_279
+\ref
+\tx awnalan erek
+\mb awnalan erek
+\ge awnalan prox
+\ft this is the awnalan
+\ev
+\ru
+\ELANBegin 00:20:38.796
+\ELANEnd 00:20:39.706
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_280
+\ref
+\tx awnalan gerben          iŋe?
+\mb awnalan gerbe -n(I)     iŋe
+\ge awnalan name  -poss.3sg yes
+\ft it's called awnalan, is it?
+\ev
+\ru
+\ELANBegin 00:20:39.706
+\ELANEnd 00:20:40.980
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_281
+\ref
+\tx awnalan
+\mb awnalan
+\ge awnalan
+\ft awnalan
+\ev
+\ru
+\ELANBegin 00:20:40.980
+\ELANEnd 00:20:43.502
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_282
+\ref
+\tx erkke     er  uŋen
+\mb erek =kkE er  uŋen
+\ge prox =ptl ptl this.one
+\ft this one here 
+\ph
+\nt probably he is pointing to the awnalan
+\ev
+\ru вот это же вот
+\ELANBegin 00:20:43.502
+\ELANEnd 00:20:45.803
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_283
+\ref
+\tx merellen,         ọldanni
+\mb merelle -n(I)     ọldaːn -n(I)
+\ge ribs    -poss.3sg side      -poss.3sg
+\ft its ribs, its side
+\ev
+\ru его ребра, бока
+\ELANBegin 00:20:45.803
+\ELANEnd 00:20:48.390
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_284
+\ref
+\tx tawụr tože  ečintitta           xxx.
+\mb tawụr tože  erroːčin =tIt =DE  *xxx
+\ge this    also.R prox.qual  =ptl =ptl ***
+\ft this is also like that.....
+\ph what he says at the end cannot be made out at all
+\ev
+\ru
+\ELANBegin 00:20:48.390
+\ELANEnd 00:20:49.898
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_285
+\ref
+\tx iŋe, erek erroːčinnititta              biweːtten
+\mb iŋe  erek erroːčin -n(I)     =tIt =DE  bi -WEːČ -R(E) -n(I)
+\ge yes   prox prox.qual  -poss.3sg =ptl =ptl be -gnr    -nonfut -3sg
+\ft yes, that can be like that
+\ev
+\ru
+\ELANBegin 00:20:49.898
+\ELANEnd 00:20:53.044
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_286
+\ref
+\tx Erekta     čajčịba             kučun                 ili  ịakko?
+\mb erek =t(E) čajčaba               kuču        -n(I)     ili  ịak =kkE
+\ge prox =ptl  reindeer.herding.Koryak sleeping.bag -poss.3sg or.R what  =ptl
+\ft Is this here a Koryak sleeping bag or what?
+\ev
+\ru А вот это корякский кукул или что?
+\ELANBegin 00:21:00.571
+\ELANEnd 00:21:03.405
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_287
+\ref
+\tx esni           ọrọtti      bise
+\mb e -R(E) -n(I)  ọrọč -DI   bi -R
+\ge neg -nfut -3sg Oroch     -adjr be -neg.cvb
+\ft it's not Even
+\ev
+\ru
+\ELANBegin 00:21:03.405
+\ELANEnd 00:21:04.653
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_288
+\ref
+\tx iŋe
+\mb iŋe
+\ge yes
+\ft yes
+\ev
+\ru
+\ELANBegin 00:21:04.653
+\ELANEnd 00:21:05.329
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_289
+\ref
+\tx Aa, maxnjodukmaja         kučun                 iŋe, maxnjoduk       kopirujut
+\mb aa  maxnjo  -DUk(U) =mEjE kuču        -n(I)     iŋe  maxnjo  -DUk(U) kopirujut
+\ge ah  Russian -abl    =ptl  sleeping.bag -poss.3sg yes   Russian -abl    copy.prs.3pl.R
+\ft Ah, it's a sleeping back from the Russians, it turns out, right, they copied from Russians
+\ev
+\ru это русский спальный мешок, оказывается, с русского копируют
+\ELANBegin 00:21:05.329
+\ELANEnd 00:21:08.980
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_289b
+\ref
+\tx iː
+\mb iː
+\ge yes
+\ft yes
+\ph
+\ELANBegin 00:21:08.980
+\ELANEnd 00:21:10.178
+\ELANParticipant ASA
+
+\id Ichanga_Adukanov_muzej1_cont_290
+\ref
+\tx uŋčeten
+\mb uŋ -čE    -tEn
+\ge do  -pf.ptc -poss.3pl
+\ft they did (lit. that which they have done)
+\ev
+\ru сделали
+\ELANBegin 00:21:10.178
+\ELANEnd 00:21:11.283
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_291
+\ref
+\tx
+\ft huh?
+\ev
+\ru
+\ELANBegin 00:21:11.283
+\ELANEnd 00:21:11.647
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_292
+\ref
+\tx espalnikkawur                  erek zakazalčatan
+\mb spalnik        -GE    -WUr     erek zakazal       -čE    -tEn
+\ge sleeping.bag.R -desig -prfl.pl prox order.pst.m.R -pf.ptc -poss.3pl
+\ft they ordered a sleeping bag for themselves
+\ev
+\ru спальник себе заказал
+\ELANBegin 00:21:11.647
+\ELANEnd 00:21:13.792
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_293
+\ref
+\tx ŋiːwut       zakazalča            nan    kut... buːriten
+\mb ŋiː =(W)UttE zakazal       -čE    ńaːn ***    boː -RI -tEn
+\ge who   =indef   order.pst.m.R -pf.ptc and    ***    give -pst -poss.3pl
+\ft someone ordered (it) and then they gave it (to the museum)
+\ev
+\ru кто-то заказал и вот отдали
+\ELANBegin 00:21:13.792
+\ELANEnd 00:21:18.875
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_294
+\ref
+\tx Erek untunda          tarma erek esni           ịlkan ọrọtti      a....
+\mb erek untun       =DE  tarma erek e -R(E) -n(I)  ịlkan ọrọč -DI   a.R
+\ge prox shaman.drum =ptl but   prox neg -nfut -3sg true    Oroch     -adjr but.R
+\ft This is a shaman's drum, but it's not really Even but...
+\ev
+\ru Это бубен тоже но это не очень эвенский...
+\ELANBegin 00:21:18.875
+\ELANEnd 00:21:24.049
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_295
+\ref
+\tx iː
+\mb iː
+\ge yes
+\ft yes
+\ev
+\ru
+\ELANBegin 00:21:24.049
+\ELANEnd 00:21:25.284
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_296
+\ref
+\tx ọːnkana,   erek nemnožko čajčịbaw                 dʒọŋịča.
+\mb ọːn =kEnE  erek nemnožko čajčaba               -W   dʒọŋị    -čE
+\ge how    =contr prox a.bit.R   reindeer.herding.Koryak -acc follow.example -pf.ptc
+\ft how is it, it copies the Koryak (drum) a bit.
+\ev
+\ru как же, это немножко коряков повторяли
+\ELANBegin 00:21:25.284
+\ELANEnd 00:21:29.977
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_297
+\ref
+\tx Ịamị?
+\mb ịamị
+\ge why
+\ft why?
+\ev
+\ru
+\ELANBegin 00:21:32.122
+\ELANEnd 00:21:34.475
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_298
+\ref
+\tx er   dʒawanmajan                      tarkke     dụlkalilan             ọrọčịlŋi,            erekesi       ekič     ụnụr,
+\mb erek dʒaw      -E  -nmEj -E-n(I)      tarak =kkE dụlkali -(dU)LE -n(I)  ọrọč -E  -L  -ŋI       erek -E=sI    e   -kIč ụnụ    -R
+\ge prox catch.hold -ep -anr  -ep-poss.3sg dist  =ptl middle    -loc -poss.3sg Oroch     -ep -pl -pred.poss prox -ep=emph neg -nr   understand -neg.cvb
+
+\tx kojeːtli
+\mb kojeːt -LI
+\ge look.at -imp.2sg
+
+\ft the handle is in the middle in an Even (drum), but this one you cannot understand, look
+\ph
+\gr dulkali = po seredke; xleb dulkalič miːneli = po ravnu; po seredke rezh, 
+\nt i.e. here the handle is not in the middle where it should be, but a bit lower
+\ev
+\ru это ручка вот та по-середке у эвенов, а вот это не поймешь, смотри
+\ELANBegin 00:21:34.475
+\ELANEnd 00:21:41.612
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_299
+\ref
+\tx To     li     čajčịbalŋi,                       čajčịbalŋi                        erdelen                     biweːtten
+\mb to     li     čajčaba               -L  -ŋI       čajčaba               -L  -ŋI       her    -gIdE -(dU)LE -n(I)  bi -WEːČ -R(E) -n(I)
+\ge that.R disj.R reindeer.herding.Koryak -pl -pred.poss reindeer.herding.Koryak -pl -pred.poss bottom -part -loc -poss.3sg be -gnr    -nonfut -3sg
+\ft It might be Koryak, in a Koryak (drum) (the handle) is in the bottom.
+\ev
+\ru то ли корякский, у коряков внизу бывает
+\ELANBegin 00:21:41.612
+\ELANEnd 00:21:45.980
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_300
+\ref
+\tx Erekesi       ịakụč ọːčiddan,                    tačịnnun           ọːrin.
+\mb erek -E=sI    ịakụč ọː -Č  -E-D     -R(E) -n(I)  tarrọːčịn =nun  ọː -RI -n(I)
+\ge prox -ep=emph somebody?  make  -res -ep-prog -nonfut -3sg dist.qual       =emph make  -pst -poss.3sg
+
+\ft This one somebody made, made it any which way.
+\ph
+\ev
+\ru А это кто-то делал, как попало сделал.
+\ELANBegin 00:21:45.980
+\ELANEnd 00:21:51.908
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_301
+\ref
+\tx I,    uŋe,         tiːk olločiddiwun                     etikeːr     guːniten            ịak mereti bihin             ọrọčịl
+\mb i     uŋ       -E  tiek  hollot -E-D     -RI -WUn          etikeːn -L  goːn -RI -tEn       ịak mereti bi -RI -n(I)      ọrọč -E  -L
+\ge and.R something -ep now   go     -ep-prog -pst -poss.1pl.ex old.man  -pl say   -pst -poss.3pl what  circle be -pst -poss.3sg Oroch     -ep -pl
+
+\tx untunten,             a     uŋe,         ụmta urečinni.
+\mb untun       -tEn      a.R   uŋ       -E  ụmta ureːčin -n(I)
+\ge shaman.drum -poss.3pl but.R something -ep egg    similar   -poss.3sg
+\ft And now, when we went (somewhere), the old men said that Even shaman drums were not round, but shaped like an egg.
+\ev
+\ru И вот сейчас когда мы ездили, старики сказали, что не круглое был у эвенов бубен, а вот, на яйцо похожий.
+\ELANBegin 00:21:51.908
+\ELANEnd 00:22:01.502
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_302
+\ref
+\tx I     dʒawanmajatan                    tarkke     elduk        bisin.
+\mb i     dʒaw      -E  -nmEj -E-tEn       tarak =kkE hel  -DUk(U) bi -RI -n(I)
+\ge and.R catch.hold -ep -anr  -ep-poss.3pl dist  =ptl iron -abl    be -pst -poss.3sg
+\ft And the handle was (made) of metal.
+\ev
+\ru И ручка вот была из железа/метала.
+\ELANBegin 00:22:01.502
+\ELANEnd 00:22:05.311
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_303
+\ref
+\tx Erek ewgidelen                 ụkal  uŋe          uŋet           uŋelliten,              ọːnka    goːweːtte...
+\mb erek erek -gIdE -(dU)LE -n(I)  ụkal  uŋ       -E  uŋ       =et   uŋ -L    -RI -tEn       ọːn =kkE goːn -WEːČ -R(E)
+\ge prox prox -part -loc -poss.3sg already something -ep something =emph do  -inch -pst -poss.3pl how    =ptl say   -gnr    -nonfut
+\ft This they started to do already closer in time (i.e. more recently), how do they say it...
+\ev
+\ru Это уже ближе по времени стали делать, как говорять...
+\ELANBegin 00:22:05.311
+\ELANEnd 00:22:11.499
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_304
+\ref
+\tx purustojič        ọːčallitan
+\mb prostoj    -E-Č   ọː -Č  -L    -RI -tEn
+\ge simple.m.R -ep-ins make  -res -inch -pst -poss.3pl
+\ft they started to make it simply
+\ev
+\ru по-простому стали делать
+\ELANBegin 00:22:14.762
+\ELANEnd 00:22:17.973
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_305
+\ref
+\tx
+\ev ASA drums on shaman's drum
+\ru
+\ELANBegin 00:22:17.973
+\ELANEnd 00:22:24.174
+\ELANParticipant
+
+\id Ichanga_Adukanov_muzej1_cont_306
+\ref
+\tx Mun        deduškalbun               uŋe          amaːnal       bisiten.
+\mb mun        deduška  -L  -WUn         uŋ       -E  samaːn -E-L   bi -RI -tEn
+\ge 1pl.ex.obl grandad.R -pl -poss.1pl.ex something -ep shaman  -ep-pl be -pst -poss.3pl
+\ft Our grandfathers were shamans.
+\ev
+\ru Наши дедушки шаманы были.
+\ELANBegin 00:22:24.174
+\ELANEnd 00:22:27.723
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_307
+\ref
+\tx Bi,  minu         gerburiten           tarkke     uŋe          min     deduškawu          uŋ,      amaŋawu              nọŋan gerbedʒin.
+\mb biː min     -W   gerbu -RI -tEn       tarak =kkE uŋ       -E  min     deduška  -W        uŋ       amaŋa      -W        nọŋan gerbe -DʒI -n(I)
+\ge 1sg  1sg.obl -acc call  -pst -poss.3pl dist  =ptl something -ep 1sg.obl grandad.R -poss.1sg something grandfather -poss.1sg 3sg      name  -fut -3sg
+\ft I... they called me with the name of my grandfather.
+\ev
+\ru Я, меня называли вот моего дедушки, его именем.
+\ELANBegin 00:22:27.723
+\ELANEnd 00:22:36.810
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_308
+\ref
+\tx Nọŋan i     amaːn  bisin.
+\mb nọŋan i     samaːn bi -RI -n(I)
+\ge 3sg      and.R shaman  be -pst -poss.3sg
+\ft It was he who was the shaman.
+\ev
+\ru Он шаман был.
+\ELANBegin 00:22:36.810
+\ELANEnd 00:22:40.840
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_309
+\ref
+\tx I     nọŋan tože  uŋen
+\mb i     nọŋan tože  uŋ       -E-n(I)
+\ge and.R 3sg      also.R something -ep-poss.3sg
+\ft and his, too
+\ev
+\ru И его тоже
+\ELANBegin 00:22:40.840
+\ELANEnd 00:22:42.868
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_310
+\ref
+\tx inŋi              ịakawụ?
+\mb hin     -ŋI       ịak -awụ
+\ge 2sg.obl -pred.poss what  -emph
+\ft who of yours (was a shaman)?
+\ev
+\ru у тебя кто
+\ELANBegin 00:22:42.868
+\ELANEnd 00:22:44.389
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_311
+\ref
+\tx deduškawu
+\mb deduška  -W
+\ge grandad.R -poss.1sg
+\ft my grandfather
+\ev  
+\ru
+\ELANBegin 00:22:44.389
+\ELANEnd 00:22:45.871
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_311b
+\ref
+\tx gịa amaŋaštada
+\mb gịa amaŋa      -s(I)     =t(E) =DE
+\ge other grandfather -poss.2sg =ptl  =ptl
+\ft your other grandfather too
+\ru второй твой дедушка тоже
+\ph
+\ELANBegin 00:22:44.389
+\ELANEnd 00:22:45.871
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_312
+\ref
+\tx iː, amaŋan               tože  amaːn  bisin.
+\mb iː  amaŋa      -n(I)     tože  samaːn bi -RI -n(I)
+\ge yes  grandfather -poss.3sg also.R shaman  be -pst -poss.3sg
+\ft yes, his grandfather was also a shaman
+\ph
+\nt the "yes" seems to be directed at ASA, the rest is directed at me
+\ev
+\ru его дедушка тоже шаман был
+\ELANBegin 00:22:45.871
+\ELANEnd 00:22:49.407
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_313
+\ref
+\tx Nan    innen         amaŋaš              awụški       urrin?
+\mb ńaːn hin     =nEn  amaŋa      -s(I)     aw    -skI      hor -RI -n(I)
+\ge and    2sg.obl =emph grandfather -poss.2sg where -advb.all go  -pst -poss.3sg
+\ft And where did your grandfather go to?
+\ev
+\ru А твой дедушка куда ушел?
+\ELANBegin 00:22:49.407
+\ELANEnd 00:22:54.737
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_314
+\ref
+\tx Aa, meːnken?
+\mb aa  meːn -KEn
+\ge ah  refl  -dim.int
+\ft ah, by himself?
+\ph
+\gr
+\nt this follows upon a pause, so Rimma and I interpreted this as meaning that ASA gestured a cut throat to indicate that his grandfather got killed or killed himself - otherwise it's a bit
+of a non sequitur
+\ev
+\ru
+\ELANBegin 00:22:57.922
+\ELANEnd 00:22:59.781
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_315
+\ref
+\tx meːnken
+\mb meːn -KEn
+\ge refl  -dim.int
+\ft by himself
+\ev
+\ru
+\ELANBegin 00:22:59.781
+\ELANEnd 00:23:00.652
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_316
+\ref
+\tx
+\ft ah
+\ev
+\ru
+\ELANBegin 00:23:00.652
+\ELANEnd 00:23:01.796
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_317
+\ref
+\tx Minŋi             ekič     ụnụr            očestvonda                 ịak bisni,          ačča
+\mb min     -ŋI       e   -kIč ụnụ    -R       očestvo     -n(I)     =DE  ịak bi -R(E) -n(I)  ačča
+\ge 1sg.obl -pred.poss neg -nr   understand -neg.cvb patronymic.R -poss.3sg =ptl what  be -nonfut -3sg neg
+\ft with mine it's unclear, and he didn't have a patronymic
+\ph
+\gr interesting: in the transcription/translation session, Rimma listened to this, clarified part of it for me and then said "kak dalshe, ochestvonda chego, u nego ne bylo, kak on skazal" -
+i.e. the different ways of expressing negation would really seem to be synonyms, she remembered the negation after first listening to it, but not which construction he'd used
+\nt it's not clear who the grandfather was - it might be that he wasn't a direct grandfather, i.e. not the mother's or father's father, but a more distant ancestor, and so nothing is known
+about him except for his name
+\ev
+\ru у моего не поймешь, и очество у него не было, нету
+\ELANBegin 00:23:01.796
+\ELANEnd 00:23:06.684
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_318
+\ref
+\tx Čeledʒur         dʒọːŋčịr   ọːn mintede            gerbewu         a     očestvawan                    ŋiːde    esten       dʒọːŋčịr
+\mb čele -dʒUr       dʒọŋčị -r   ọːn min     =t(E) =DE  gerbe -W        a.R   očestvo     -W   -E-n(I)      ŋiː =DE  e   -R(E)   dʒọŋčị -R
+\ge all   -ins.prfl.pl remember      -3pl how    1sg.obl =ptl  =ptl name  -poss.1sg but.R patronymic.R -acc -ep-poss.3sg who   =ptl neg -nonfut remember      -neg.cvb
+
+\tx ọːnụt.
+\mb ọːn =(W)UttE
+\ge how    =indef
+
+\ft Everyone remembers that (his) is also my name, but his patronymic no-one remembers, how it was.
+\ev
+\ru Все помнят что мое тоже имя, а очество никто не помнит, как же.
+\ELANBegin 00:23:06.684
+\ELANEnd 00:23:15.732
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_320
+\ref
+\tx Ivan, uŋe,    Koljakka   Fomičke    tawụr nọŋartan ịlan bišiten
+\mb Ivan  uŋe     Kolja =kkE Fomich =kkE tawụr nọŋartan ịlan bi -RI -tEn
+\ge Ivan  this.one Kolja =ptl Fomich =ptl this    3pl         three  be -pst -poss.3pl
+\ft That Ivan, and Kolja Fomich, they were three (brothers), right.
+\ph
+\gr
+\nt 3 brothers: Ivan, Kolja and Vladik; these are his relatives in the father's line
+\ev
+\ru Иван вон, Коля Фомич же, трое их было.
+\ELANBegin 00:23:15.732
+\ELANEnd 00:23:21.348
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_321
+\ref
+\tx Tawụr nọŋan tože  dvojurodnoj deduška  uŋe          amaŋawu
+\mb tawụr nọŋan tože  dvojurodnyj deduška  uŋ       -E  amaŋa      -W
+\ge this    3sg      also.R cousin.R    grandad.R something -ep grandfather -poss.1sg
+\ft Now he is also a great-uncle of mine.
+\ph
+\nt It's a bit surprising that Nikolaj Fomich is his great-uncle, since they're only about 20 years apart in age, but it is of course possible, given big families and large age gaps between
+first and last siblings; Rimma said someone who is considered her daughter Svetlana's great-uncle is younger than Rimma
+\ev
+\ru Вот он тоже двоюродный дедушка мой.
+\ELANBegin 00:23:21.348
+\ELANEnd 00:23:25.794
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_322
+\ref
+\tx Min     amaŋawu              ịlkan rodnoj      i     uŋen    ekmu,            ekenduli       vot    tože, ah, ŋiːkene?
+\mb min     amaŋa      -W        ịlkan rodnoj      i     uŋen    eken   -W        eken   -(dU)LI vot    tože  ah  ŋiː =kEnE
+\ge 1sg.obl grandfather -poss.1sg true    related.m.R and.R this.one mother -poss.1sg mother -prol   here.R also.R ah  who   =contr
+\ft My grandfather, truly related in the mother's line, he too, who was it?
+\ph
+\nt probably "he too" was a shaman
+\ev
+\ru Мой дедушка совсем родной по матери, вот тоже, кто же?
+\ELANBegin 00:23:25.794
+\ELANEnd 00:23:34.985
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_324
+\ref
+\tx Kọč   omettu   mut    tarak uŋen    amaŋatke                     eč      bihe
+\mb kọč   omettu   mut    tarak uŋen    amaŋa      -t(I)        =kkE e   -RI  bi -R
+\ge probably together 1pl.in dist  this.one grandfather -poss.1pl.in =ptl neg -pst be -neg.cvb
+\ft Probably you and I have a (shared) grandfather.
+\ev
+\ru У нас наверно один дедушка
+\ELANBegin 00:23:34.985
+\ELANEnd 00:23:41.056
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_325
+\ref
+\tx ŋiː?
+\mb ŋiː
+\ge who
+\ft who?
+\ev
+\ru
+\ELANBegin 00:23:41.056
+\ELANEnd 00:23:41.823
+\ELANParticipant ASA 
+
+\id Ichanga_Adukanov_muzej1_cont_326
+\ref
+\tx ọmŋaram,          ọńariwu            uŋdule,          esem             dʒọŋčịr
+\mb ọmŋa -R(E) -m     ọńa -RI -W         uŋ       -(dU)LE e   -R(E) -m     dʒọŋčị -R
+\ge forget  -nonfut -1sg write  -pst -poss.1sg something -loc    neg -nonfut -1sg remember      -neg.cvb
+\ft I forgot, I wrote it on something, I don't remember
+\ev
+\ru забыл, я записал на том, не помню
+\ELANBegin 00:23:41.823
+\ELANEnd 00:23:45.619
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_327
+\ref
+\tx Adukanov...
+\mb Adukanov
+\ge Adukanov
+\ft Adukanov...
+\ev
+\ru
+\ELANBegin 00:23:45.619
+\ELANEnd 00:23:47.725
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_328
+\ref
+\tx ọmŋaram
+\mb ọmŋa -R(E) -m
+\ge forget  -nonfut -1sg
+\ft I forgot
+\ev
+\ru
+\ELANBegin 00:23:52.977
+\ELANEnd 00:23:54.121
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_329
+\ref
+\tx ọńariwu            bumagala        tam...
+\mb ọńa -RI -W         bumaga  -(dU)LE tam
+\ge write  -pst -poss.1sg paper.R -loc    there.R
+\ft I wrote it on paper, there
+\ev
+\ru
+\ELANBegin 00:23:54.849
+\ELANEnd 00:23:59.061
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_330
+\ref
+\tx
+\ft Well, that's probably enough or else it will be a lot for me (to transcribe)
+\ev
+\ru
+\ELANBegin 00:23:59.061
+\ELANEnd 00:24:05.405
+\ELANParticipant BP 
+
+\id Ichanga_Adukanov_muzej1_cont_331
+\ref
+\tx
+\ft It will be a lot?
+\ev
+\ru Много будет?
+\ELANBegin 00:24:05.405
+\ELANEnd 00:24:07.225
+\ELANParticipant AEI
+
+\id Ichanga_Adukanov_muzej1_cont_332
+\ref
+\tx
+\ft We'll write it, and you will come...
+\ev
+\ru Напишем, а вы приедете...
+\ELANBegin 00:24:07.225
+\ELANEnd 00:24:10.448
+\ELANParticipant AEI
+
+
+\ELANMediaURL file:///D:/Brigitte PAKENDORF/My Documents/LANGUAGE PROJECTS/Even
+project/fieldwork_Kamchatka_2016/Narrative_recordings/14_Ichanga_Adukanov_muzej_1cont_2/Ichanga_Adukanov_Esso_220607_1.WAV
+\ELANMediaMIME audio/x-wav

@@ -1,0 +1,787 @@
+\_sh v3.0  984  Text
+
+\id Amganov_EI_kino_001
+\tx russian
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:05.290
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_002
+\tx Umekičeː    tarakamke           krasnaj.jarangake      ọːddanasi
+\mb umekič =eː  tarakam       =kE   krasnaja.jaranga =kE   ọː  -D    -R(E) -n(I)  -E  =sI
+\ge very    =emph in.those.days =emph red.yurt.R       =emph become -prog -nonfut -3sg -ep =emph
+
+\tx Twajaːndụlake       elektrostancijade    bisin             ụkal  umekič kinowde
+\mb Twajaːn -(dU)LE =kE   elektrostancija =DE  bi -RI -n(I)      ụkal  umekič kino     -W   =DE
+\ge Twajaːn -loc    =emph powerstation.R  =ptl be -pst -poss.3sg already very    movies.R -acc =ptl
+
+\tx emuriten.
+\mb em -U      -RI -tEn
+\ge come -caus -pst -poss.3pl
+\ft In those days the 'Red Yurt' appeared, in Twajan there was already a powerstation, and they always brought movies.
+\ph
+\gr
+\nt The 'Red Yurt' was a cultural institution that brought song, dance, movies, books, but also lectures and a doctor to
+reindeer herds and outlying villages. They were closed down in the 1970s, or at least changed to the 'Agitkultbrigady',
+Political and Cultural Agitation Brigades. Electricity appeared in Twajan in the late '50s, even earlier than it appeared in
+Esso, which is now the main village in the Bystraja district.
+\ELANBegin 00:00:05.290
+\ELANEnd 00:00:15.370
+\ELANParticipant EIA
+\ev
+\ru В то время, когда красная яранга появилась, в Тваяне электростанция уже было, и кино всегда привозили.
+
+\id Amganov_EI_kino_003
+\tx Umekičeː    adịːkana     pjat'  kopeek        bilet    vxọdtakị.
+\mb umekič =eː  adịː  =kEnE  pjat'  kopeek        bilet    vxod       -t(E)kI
+\ge very    =emph how.much =contr five.R kopecks.gen.R ticket.R entrance.R -all
+\ft Very good, how much, five kopeeks for a entrance ticket.
+\ELANBegin 00:00:15.370
+\ELANEnd 00:00:21.110
+\ELANParticipant EIA
+\ev
+\ru 5 копеек был билет входной.
+
+\id Amganov_EI_kino_004
+\tx Tarakam       etikeːn bisin,            Nikolaj Fedorovič, da,   ego?
+\mb tarakam       etikeːn bi -RI -n(I)      Nikolaj Fedorovič  da    ego
+\ge in.those.days old.man  be -pst -poss.3sg Nikolaj Fedorovich  yes.R 3sg.acc.R
+\ft At that time there lived an old man, Nikolaj Fedorovich, wasn't it?
+\ph
+\gr The Accusative-marked Russian pronoun in the end stems from the ellipted Russian construction 'he was called' ego zvali.
+\nt
+\ELANBegin 00:00:21.110
+\ELANEnd 00:00:25.860
+\ELANParticipant EIA
+\ev
+\ru В то время старик был, Николай Федорович, да, его?
+
+\id Amganov_EI_kino_005
+\tx Nikolaj Dmitrievič
+\mb Nikolaj Dmitrievič
+\ge Nikolaj Dmitrievich
+
+\ELANBegin 00:00:25.860
+\ELANEnd 00:00:26.690
+\ELANParticipant EPA
+\ev
+\ru
+
+\id Amganov_EI_kino_006
+\tx Nikolaj Dmitrievič
+\mb Nikolaj Dmitrievič
+\ge Nikolaj Dmitrievich
+
+\ELANBegin 00:00:26.690
+\ELANEnd 00:00:27.540
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_007
+\tx Olleŋe.
+\mb Olleŋe
+\ge Ollenge
+\ft
+\ph
+\gr
+\nt Ollenge is an Even name without any further meaning; it was the old man's nickname.
+\ELANBegin 00:00:27.540
+\ELANEnd 00:00:28.390
+\ELANParticipant EPA
+\ev
+\ru
+
+\id Amganov_EI_kino_008
+\tx Iŋe, Olleŋe biče.
+\mb iŋe  Olleŋe bi -čE
+\ge yes   Ollenge be -pf.ptc
+\ft Yes, Ollenge (who has already died).
+\ELANBegin 00:00:28.390
+\ELANEnd 00:00:30.260
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_009
+\tx Nọŋanda    gịrkawaːtčọːttan              ečin      erkečemi            kojeːčiddin.
+\mb nọŋan =DE  gịrka -WEːČ -WEːČ -R(E) -n(I)  erroːčin erke  -čEn -J       kojeːt -E-D     -RI -n(I)
+\ge 3sg      =ptl walk    -gnr    -gnr    -nonfut -3sg prox.qual  pants -dim  -prfl.sg look.at -ep-prog -pst -poss.3sg
+
+\ft He too went (to the movies), looked like this in his pants.
+\ELANBegin 00:00:30.260
+\ELANEnd 00:00:34.560
+\ELANParticipant EIA
+\ev
+\ru Он тоже ходил, и так смотрел свои штаны.
+
+\id Amganov_EI_kino_010
+\tx Kojeːtčoːtten,            muntekide               ečin:     Emelle,           emelle,
+\mb kojeːt -WEːČ -R(E) -n(I)  mun        -t(E)kI =DE  erroːčin em   -E  -(LI)lrE em   -E  -(LI)lrE
+\ge look.at -gnr    -nonfut -3sg 1pl.ex.obl -all    =ptl prox.qual  come -ep -imp.2pl come -ep -imp.2pl
+
+\tx emelle.
+\mb em   -E  -(LI)lrE
+\ge come -ep -imp.2pl
+\ft Looked, and said to us, come, come, come!
+\ELANBegin 00:00:34.560
+\ELANEnd 00:00:38.400
+\ELANParticipant EIA
+\ev
+\ru Смотрел и нам говорил вот так: Идите идите идите.
+
+\id Amganov_EI_kino_011
+\tx Adịːčụč         omenič      kopejkaw      taŋaddʒọːttan.
+\mb adịː  -Č  =(W)UttE omen -E-Č   kopejka  -W   taŋ -E-D     -WEːČ -R(E) -n(I)
+\ge how.much -ins =indef   one  -ep-ins kopeck.R -acc read -ep-prog -gnr    -nonfut -3sg
+
+\ft How much, he counted the kopecks one by one.
+\ph
+\gr adịːčụč = poskol'ku
+\ELANBegin 00:00:38.400
+\ELANEnd 00:00:42.540
+\ELANParticipant EIA
+\ev
+\ru Сколько же стоит, по одной копейки считал.
+
+\id Amganov_EI_kino_012
+\tx Nọŋan turkutten                     taŋŋa.
+\mb nọŋan turku       -Č  -R(E) -n(I)  taŋ -ŋE
+\ge 3sg      not.be.able -res -nonfut -3sg read -nmdl.cvb
+\ft He wasn't able to read (or count).
+\ELANBegin 00:00:42.540
+\ELANEnd 00:00:45.790
+\ELANParticipant EIA
+\ev
+\ru Он не умел читать/считать.
+
+\id Amganov_EI_kino_013
+\tx Bednjažka, on bezgramotnyj byl.
+\mb
+\ge
+\ft The poor guy, he was illiterate.
+\ELANBegin 00:00:45.790
+\ELANEnd 00:00:47.710
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_014
+\tx Ne mog čitat', sčitat', mhm.
+\mb
+\ge
+\ft Couldn't read or count.
+\ELANBegin 00:00:47.710
+\ELANEnd 00:00:49.670
+\ELANParticipant BP
+\ev
+\ru
+
+\id Amganov_EI_kino_015
+\tx Bezgramotny, nu on po-russki nu sčitat' ne mog kopejki.
+\mb
+\ge
+\ft Illiterate, in Russian he couldn't count a single kopeck.
+\ELANBegin 00:00:49.670
+\ELANEnd 00:00:53.290
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_016
+\tx Govorit: Ladno!
+\mb
+\ge
+\ft Says: Oh well, OK!
+\ELANBegin 00:00:53.290
+\ELANEnd 00:00:55.700
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_017
+\tx Nan    goːnni     ečinte              iːdʒipeː
+\mb ńaːn goːn -n(I) erroːčin =t(E)     iː   -DʒI -p      =eː
+\ge and    say   -3sg  prox.qual  =utočnit enter -fut  -1pl.in =emph
+\ft And he says, we'll go in like this (without paying).
+\ELANBegin 00:00:55.700
+\ELANEnd 00:00:59.150
+\ELANParticipant EIA
+\ev
+\ru И он говорит, мы так зайдем.
+
+\id Amganov_EI_kino_018
+\tx Ečin      umekičeː    ekram         uŋnidʒur       targịt    kinodʒilla.
+\mb erroːčin umekič =eː  ekran    -W   uŋ -RIdʒI -L   tarak -GIČ kino     -D    -E-L     -R(E)
+\ge prox.qual  very    =emph screen.R -acc do  -ant.cvb -pl dist  -elat movies.R -prog -ep-inch -nonfut
+\ft Like this, having gone (under/around) the screen, from there they watched the movies.
+\ELANBegin 00:00:59.150
+\ELANEnd 00:01:02.780
+\ELANParticipant EIA
+\ev
+\ru Вот так, экран делаем и оттуда кино стали смотреть.
+
+\id Amganov_EI_kino_019
+\tx Munu            čakrịdʒị  ečin      ŋennineː                goːnni     ergič     tegrille.
+\mb mun        -W   čak   -RIdʒI  erroːčin ŋen -RI -n(I)      =eː  goːn -n(I) erek -GIČ teg      -(LI)lrE
+\ge 1pl.ex.obl -acc gather -ant.cvb prox.qual  go   -pst -poss.3sg =emph say   -3sg  prox -elat sit.down -imp.2pl
+\ft Having gathered us he went through like that and says, sit down from here.
+\ph tewrille
+\gr tegrille = teglille, tegri = tegli
+\ELANBegin 00:01:02.780
+\ELANEnd 00:01:06.910
+\ELANParticipant EIA
+\ev
+\ru Нас собрал, прошел туда и говорит, отсюда садитесь.
+
+\id Amganov_EI_kino_020
+\tx Ečin      tegriwun.
+\mb erroːčin teg      -RI -WUn
+\ge prox.qual  sit.down -pst -poss.1pl.ex
+\ft We sat down like this.
+\ELANBegin 00:01:06.910
+\ELANEnd 00:01:08.310
+\ELANParticipant EIA
+\ev
+\ru Вот так сели.
+
+\id Amganov_EI_kino_021
+\tx A     targịč   ičukeččoːtte,              a my s obratnoj storony smotrim.
+\mb a.R   tarak -GIČ it  -WkEn -Č  -WEːČ -R(E)
+\ge but.R dist  -elat see -caus -res -gnr    -nonfut 
+
+\ft And they show from there, and we watch from the back side.
+\ph
+\gr (trans.file Amganov_Efim_quest1, 40:40): *ičukennoːtte = no; postojanno pokazyvajut = ičukeččoːtte;  ičukeweːtte = raz
+pokažet i sprjačet (but compare this with the elicitation a day later, Amganov_EI_ducks_035 (trans.file
+Amganov_Efim_quest2, 26:30), ičukennoːtten = inogda pokazyvaet, raz i sprjačet, ičukeːččoːtte = vsegda pokazyvajut,
+ičukeweːtte = pokazyvajut vsegda, pokazyvajut inogda; ičukeːčiddʒoːtte = postojanno pokazyvajut (with emphasis on the
+postojanno); ičukečkeččoːtte = pokazyvajut kak popalo
+\ELANBegin 00:01:08.310
+\ELANEnd 00:01:12.720
+\ELANParticipant EIA
+\ev
+\ru Оттуда показывают,
+
+\id Amganov_EI_kino_022
+\tx A     kinomexanik       tarakam       Belov Gena bisin,            molodoj takoj, tol'ko s flota prišel.
+\mb a.R   kinomexanik       tarakam       Belov Gena bi -RI -n(I)
+\ge but.R cinema.mechanic.R in.those.days Belov Gena be -pst -poss.3sg
+\ft And in those days the film technician was Gena Belov, a very young man, just got back from the navy.
+\ELANBegin 00:01:12.720
+\ELANEnd 00:01:18.190
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_023
+\tx Govorit: Kopejki nado platit', za film-to.
+\mb
+\ge
+\ft Says, You have to pay kopecks, for the film.
+\ELANBegin 00:01:18.190
+\ELANEnd 00:01:23.680
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_024
+\tx A ded emu govorit:
+\mb
+\ge
+\ft And the old guy tells him:
+\ELANBegin 00:01:23.680
+\ELANEnd 00:01:25.700
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_025
+\tx Čto mne platit', ja že ne s vašej storony smotrju, ja s det'mi s obratnoyj storony smotrju.
+\mb
+\ge
+\ft Why should I pay, I'm not watching from your side, I'm watching from the rear side with the kids.
+\ELANBegin 00:01:25.700
+\ELANEnd 00:01:31.480
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_026
+\tx laughter
+\ELANBegin 00:01:31.480
+\ELANEnd 00:01:33.550
+\ELANParticipant comment
+\ev
+\ru
+
+\id Amganov_EI_kino_027
+\tx Vot takoj on samyj takoj xoxma byla.
+\mb
+\ge
+\ft Well, that was such a funny thing.
+\ELANBegin 00:01:33.550
+\ELANEnd 00:01:36.580
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_028
+\tx laughter
+\ELANBegin 00:01:36.580
+\ELANEnd 00:01:37.550
+\ELANParticipant comment
+\ev
+\ru
+
+\id Amganov_EI_kino_029
+\tx I on postojanno šapku v obratnuju storonu odenet ušanku, i s nami s det'mi vot takimi.
+\mb
+\ge
+\ft And he always put his hat (with ear flaps) on backwards, and (went) with us, with such (small) kids.
+\ELANBegin 00:01:37.550
+\ELANEnd 00:01:45.810
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_030
+\tx russian
+\ELANBegin 00:01:45.810
+\ELANEnd 00:01:51.770
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_031
+\tx russian
+\ELANBegin 00:01:51.770
+\ELANEnd 00:01:58.500
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_032
+\tx I     munu            ečin      mirkewkeweːtten                 dʒuldewunde
+\mb i     mun        -W   erroːčin mirke -WkEn -WEːČ -R(E) -n(I)  dʒul -gIdE -WUn         =DE
+\ge and.R 1pl.ex.obl -acc prox.qual  crawl -caus -gnr    -nonfut -3sg front -part -poss.1pl.ex =ptl
+
+\tx mirkeweːtten              ečin.
+\mb mirke -WEːČ -R(E) -n(I)  erroːčin
+\ge crawl -gnr    -nonfut -3sg prox.qual
+\ft And he made us crawl like that, and (himself) crawled in front of us like this.
+\ELANBegin 00:01:58.500
+\ELANEnd 00:02:03.930
+\ELANParticipant EIA
+\ev
+\ru Он нас вот так заставляет ползти, а сам впереди нас ползает.
+
+\id Amganov_EI_kino_033
+\tx Ečin      rjadal       biweːtte,         eli          mirkeweːttu          ečin      tartaki.
+\mb erroːčin rjad  -E-L   bi -WEːČ -R(E)   erek -(dU)LI mirke -WEːČ -(R)U   erroːčin tarak -t(E)kI
+\ge prox.qual  row.R -ep-pl be -gnr    -nonfut prox -prol   crawl -gnr    -1pl.ex prox.qual  dist  -all
+\ft The rows were like this, and we crawled there along here like this.
+\ELANBegin 00:02:03.930
+\ELANEnd 00:02:07.790
+\ELANParticipant EIA
+\ev
+\ru Вот так ряды бывают, и вот посюда мы ползли вот так туда.
+
+\id Amganov_EI_kino_034
+\tx Etikeːnte         ečin      tettidʒi       talị        ŋennoːtten              nan
+\mb etikeːn =t(E)     erroːčin tet    -RIdʒI  tarak -(dU)LI ŋen -WEːČ -R(E) -n(I)  ńaːn
+\ge old.man  =utočnit prox.qual  put.on -ant.cvb dist  -prol   go   -gnr    -nonfut -3sg and
+
+\tx tegedʒinesi.
+\mb teg      -E-DʒI -n(I) -E=sI
+\ge sit.down -ep-fut -3sg  -ep=emph
+\ft The old man puts (his hat) on like this and goes along there and sits.
+\ph
+\gr tegedʒin = he will sit; ŋennoːtten = prixodit tuda
+\ELANBegin 00:02:07.790
+\ELANEnd 00:02:11.950
+\ELANParticipant EIA
+\ev
+\ru Старик, одевшись вот так, там пройдет и садится.
+
+\id Amganov_EI_kino_035
+\tx Alačịddʒọːttụ        ọːkbedʒi   kinodʒildʒipasị.
+\mb alat -E-D     -WEːČ -(R)U   ọːk =bEdʒI kino     -D    -L    -DʒI -p      -E=sI
+\ge wait -ep-prog -gnr    -1pl.ex when   =emph   movies.R -prog -inch -fut  -1pl.in -ep=emph
+\ft We wait, when will we watch the movie!
+\ph
+\gr The first verb is part of the narrative frame, while the second verb is sort of direct speech inside the narrative, all of those
+sitting there were asking 'when will we finally watch the movie'
+\nt
+\ELANBegin 00:02:11.950
+\ELANEnd 00:02:15.120
+\ELANParticipant EIA
+\ev
+\ru Ждем, когда же будем кино смотреть.
+
+\id Amganov_EI_kino_036
+\tx Tarakam       ŋiːkene,   Belovke     atịkaŋaddịn                      Lidijač.
+\mb tarakam       ŋiː =kEnE  Belov =kE   atịkan  -ŋ -E-D     -RI -n(I)      Lidija -Č
+\ge in.those.days who   =contr Belov =emph old.woman -vr -ep-prog -pst -poss.3sg Lidija -ins
+
+\ft And then who, Belov, married Lidija.
+\ph
+\gr
+\nt
+\ELANBegin 00:02:15.120
+\ELANEnd 00:02:19.570
+\ELANParticipant EIA
+\ev
+\ru Тогда кто-же Белов же женился на Лидии.
+
+\id Amganov_EI_kino_037
+\tx Nu, nu, Banakanova.
+\mb
+\ge
+\ft Well, well, Banakanova.
+\ELANBegin 00:02:19.570
+\ELANEnd 00:02:21.130
+\ELANParticipant EPA
+\ev
+\ru
+
+\id Amganov_EI_kino_038
+\tx Iŋe, Banakanova, iŋe.
+\mb
+\ge
+\ft Yes, Banakanova, yes.
+\ELANBegin 00:02:21.130
+\ELANEnd 00:02:22.870
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_039
+\tx Tarakal     biletelbe            tọrgụjịsčịdʒọːttan.
+\mb tarak =El   bilet    -E  -L-W    torguj -E-sčI   -WEːČ -R(E) -n(I)
+\ge dist  =emph ticket.R -ep -pl-acc deal.R -ep-conat -gnr    -nonfut -3sg
+
+\ft She dealt with tickets (she sold the tickets).
+\ph
+\gr tọrgụjịsčịdʒọːttan = doesn't seem to have much of a separate meaning, because RME didn't really kinut'sja with an
+explanation of what the nuance was, but could be conative, that she tried to (probably with respect to the fact that she
+wasn't able to sell tickets to old Ollenge)
+\nt Although EIA uses the word 'torgovat' which has connotations of dealing in tickets on the black market, all Lidija did was
+to sell the tickets for the movies.
+\ELANBegin 00:02:22.870
+\ELANEnd 00:02:26.380
+\ELANParticipant EIA
+\ev
+\ru Она же билетами торговала (продавала).
+
+\id Amganov_EI_kino_040
+\tx Munteki            ŋennidʒi    goːnni     unille       biletkewurde.
+\mb mun        -t(E)kI ŋen -RIdʒI  goːn -n(I) uni -(LI)lrE bilet    -GE    -WUr     =DE
+\ge 1pl.ex.obl -all    go   -ant.cvb say   -3sg  buy -imp.2pl ticket.R -desig -prfl.pl =ptl
+\ft She came to us and said: Buy yourself tickets, too.
+\ph RME pronounced this biletkawurda
+\ELANBegin 00:02:26.380
+\ELANEnd 00:02:30.600
+\ELANParticipant EIA
+\ev
+\ru Она к нам приходила и говорит: Покупайте и себе билеты.
+
+\id Amganov_EI_kino_041
+\tx Etikeːn goːnni:    Čajak,  mukeles                     biletes                bisni,
+\mb etikeːn goːn -n(I) čaj     muke      -(dU)LE -s(I)     bilet    -E  -s(I)     bi -R(E) -n(I)
+\ge old.man  say   -3sg  go.away  posterior -loc    -poss.2sg ticket.R -ep -poss.2sg be -nonfut -3sg
+
+\tx inŋitken                   biden                  čas, buːkke      amargịč   buːkke
+\mb hin     -ŋI       =t(E)kEn bi -DE       -n(I)     čas  buː   =kE   amar   -GIČ buː   =kE
+\ge 2sg.obl -pred.poss =restr   be -purp.cvb -poss.3sg ptl   1pl.ex =emph behind -elat 1pl.ex =emph
+
+\tx mukeduk           kojeːčiddu.
+\mb muke      -DUk(U) kojeːt -E-D     -(R)U
+\ge posterior -abl    look.at -ep-prog -1pl.ex
+\ft The old man says: Go away, your tickets are in your arse, let them be only yours, we are looking from behind, from the
+arse. 
+\ELANBegin 00:02:30.600
+\ELANEnd 00:02:38.490
+\ELANParticipant EIA
+\ev
+\ru Старик говорит: Иди отсюда, в заднице твоей билеты, пусть у тебя только будут билеты, мы же сзади, мы же с
+задницы смотрим.
+
+\id Amganov_EI_kino_042
+\tx laughs
+\ELANBegin 00:02:38.490
+\ELANEnd 00:02:42.060
+\ELANParticipant comment
+\ev
+\ru
+
+\id Amganov_EI_kino_043
+\tx I vot tak vot postojanno smotreli.
+\mb
+\ge
+\ft And so we always watched.
+\ELANBegin 00:02:42.060
+\ELANEnd 00:02:43.980
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_044
+\tx s obratnoj storony
+\mb
+\ge
+\ft from the opposite side
+\ELANBegin 00:02:43.980
+\ELANEnd 00:02:45.460
+\ELANParticipant EPA
+\ev
+\ru
+
+\id Amganov_EI_kino_045
+\tx Russian
+\ELANBegin 00:02:45.460
+\ELANEnd 00:02:51.300
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_046
+\tx laughter
+\ELANBegin 00:02:51.300
+\ELANEnd 00:02:55.470
+\ELANParticipant comment
+\ev
+\ru
+
+\id Amganov_EI_kino_047
+\tx I eto, seli značit tak, i..
+\mb
+\ge
+\ft And this, so they sat down like this and....
+\ELANBegin 00:02:55.470
+\ELANEnd 00:02:58.040
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_048
+\tx Ečin      lampočka   duredden.
+\mb erroːčin lampočka   dur  -E-D     -R(E) -n(I)
+\ge prox.qual  lightbulb.R burn -ep-prog -nonfut -3sg
+
+\ft A light bulb is burning like this.
+\ELANBegin 00:02:58.040
+\ELANEnd 00:03:00.250
+\ELANParticipant EIA
+\ev
+\ru Вот так лампочка горит.
+
+\id Amganov_EI_kino_049
+\tx Etikeːn kojeːčiddenbedʒi,                  ọːkbedʒi   iːwdʒin.
+\mb etikeːn kojeːt -E-D     -R(E) -n(I)  =bEdʒI ọːk =bEdʒI hiːw  -DʒI -n(I)
+\ge old.man  look.at -ep-prog -nonfut -3sg =emph   when   =emph   go.out -fut  -3sg
+
+\ft The old man is looking, when will it (the light) go out.
+\ft
+\ph
+\gr iːwren = pogas, iːwiren = pogasil; iːwren = zanosit, pogas = iwːren, so there's homonymy now in Kamchatka; biː tọgụ
+iːwirem, tọg iːwren --> here, the -i seems to have a transitivizing effect
+\ELANBegin 00:03:00.250
+\ELANEnd 00:03:05.310
+\ELANParticipant EIA
+\ev
+\ru Старик смотрит, когда же она потухнет.
+
+\id Amganov_EI_kino_050
+\tx Kojeːčiddʒin.
+\mb kojeːt -E-D     -DʒI -n(I)
+\ge look.at -ep-prog -fut  -3sg
+
+\ft He looks.
+\ph
+\gr budet smotret' dolgo = kojeːčiddʒin, but this is also smotrit; on posmotrit = kojeːčiddʒin, *kojeːčidʒin = netu --> though
+why there shouldn't be a simple future form, I don't know
+\ELANBegin 00:03:05.310
+\ELANEnd 00:03:06.680
+\ELANParticipant EIA
+\ev
+\ru (Сидит и) смотрит.
+
+\id Amganov_EI_kino_051
+\tx Nan    ečin      uːweːtten.
+\mb ńaːn erroːčin huː -WEːČ -R(E) -n(I)
+\ge and    prox.qual  blow -gnr    -nonfut -3sg
+\ft And blows like this.
+\ELANBegin 00:03:06.680
+\ELANEnd 00:03:07.750
+\ELANParticipant EIA
+\ev
+\ru И так дует.
+
+\id Amganov_EI_kino_052
+\tx blowing, laughter
+\ELANBegin 00:03:07.750
+\ELANEnd 00:03:11.340
+\ELANParticipant comment
+\ev
+\ru
+
+\id Amganov_EI_kino_053
+\tx Etikeːn, bejelde          targịč   ińimeddʒoːtte,              Olleŋe
+\mb etikeːn  bej -E-L =DE     tarak -GIČ ińin -E-D     -WEːČ -R(E)   Olleŋe
+\ge old.man   man -ep -pl =ptl dist  -elat laugh -ep-prog -gnr    -nonfut Ollenge
+
+\tx ịasčịdịnnịbedʒị?
+\mb ịa    -sčI  -D    -nrI =bEdʒI
+\ge do.what -conat -prog -2sg =emph
+
+\ft The old man... and the people laughed from there, Ollenge, what are you doing?
+\ph
+\gr ịasčịdịnnịbedʒi = čto ty tam ešče delaeš; ịasčịddʒịnnịbedʒi = čto ty budeš delat'?
+\ELANBegin 00:03:11.340
+\ELANEnd 00:03:16.480
+\ELANParticipant EIA
+\ev
+\ru Старик..., а люди оттуда смеялись, Олленге, что ты там делаешь?
+
+\id Amganov_EI_kino_053b
+\ref
+\tx Ịamịbedʒi   enni             iːwre?
+\mb ịamị =bEdʒI e   -R(E) -n(I)  hiːw  -R
+\ge why      =emph   neg -nonfut -3sg go.out -neg.cvb
+\ft Why isn't it going out?
+\ph
+\ELANBegin 00:03:16.480
+\ELANEnd 00:03:18.200
+\ELANParticipant EIA
+\ev
+\ru Почему она (лампочка) не погасает?
+
+\id Amganov_EI_kino_054
+\tx blows, laughter
+\ELANBegin 00:03:18.200
+\ELANEnd 00:03:19.930
+\ELANParticipant comment
+\ev
+\ru
+
+\id Amganov_EI_kino_055
+\tx Nan    tegečiddidʒi                     goːnni:
+\mb ńaːn teg      -E-Č   -E-D     -RIdʒI  goːn -n(I)
+\ge and    sit.down -ep-res -ep-prog -ant.cvb say   -3sg
+\ft And having sat for a bit, he says: 
+\ELANBegin 00:03:19.930
+\ELANEnd 00:03:21.610
+\ELANParticipant EIA
+\ev
+\ru И посидев говорит:
+
+\id Amganov_EI_kino_056
+\tx Egor! Iːwililek                 ịasčịnbedʒi            ńejkeji        enni
+\mb Egor  hiːw  -i   -LI      =lE   ịa    -sčI  -n(I) =bEdʒI ńejke -J       e   -R(E) -n(I)
+\ge Egor  go.out -ipf -imp.2sg =emph do.what -conat -3sg  =emph   lamp   -prfl.sg neg -nonfut -3sg
+
+\tx iːwir.
+\mb hiːw  -i   -R
+\ge go.out -ipf -neg.cvb
+\ft Egor! Switch (it) off right now, why doesn't he switch off his light!
+\ph
+\gr ịasčịnbedʒi = čto že on tam delaet? while ịasčịddanbedʒi = čto on tam tak dolgo delaet? ịasčịnbedʒi has a meaning of
+'why' as well, ịasčịnbedʒi = ịamịbedʒi
+\ELANBegin 00:03:21.610
+\ELANEnd 00:03:26.710
+\ELANParticipant EIA
+\ev
+\ru Егор, да потуши сейчас же, почему же он свет свой не гасит.
+
+\id Amganov_EI_kino_057
+\tx laughter
+\ELANBegin 00:03:26.710
+\ELANEnd 00:03:28.400
+\ELANParticipant comment
+\ev
+\ru
+
+\id Amganov_EI_kino_058
+\tx russian
+\ELANBegin 00:03:28.400
+\ELANEnd 00:03:33.040
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_059
+\tx russian
+\ELANBegin 00:03:33.040
+\ELANEnd 00:03:40.400
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_060
+\tx russian
+\ELANBegin 00:03:40.400
+\ELANEnd 00:03:43.720
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_061
+\tx russian
+\ELANBegin 00:03:43.720
+\ELANEnd 00:03:50.660
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_062
+\tx russian
+\ELANBegin 00:03:50.660
+\ELANEnd 00:03:54.380
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_063
+\tx russian
+\ELANBegin 00:03:54.380
+\ELANEnd 00:04:01.240
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_064
+\tx russian
+\ELANBegin 00:04:01.240
+\ELANEnd 00:04:05.100
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_065
+\tx russian
+\ELANBegin 00:04:05.100
+\ELANEnd 00:04:11.100
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_kino_066
+\tx russian
+\ELANBegin 00:04:11.100
+\ELANEnd 00:04:15.560
+\ELANParticipant EIA
+\ev
+\ru 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Kamchatka2009/sound_from_video/Amganov_EI_kino_Esso_140609.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Kamchatka2009/video_mpeg2/Amganov_EI_kino_Esso_140609.mpg
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Kamchatka2009/video_mpeg2/Amganov_EI_kino_Esso_140609.mpg
+\ELANMediaMIME video/mpeg

@@ -1,0 +1,788 @@
+\_sh v3.0  984  Text
+
+\id Egorova_RM_Tvajan000_metadata
+\ref Recorded on 7 June 2007 in Esso by Brigitte Pakendorf, in the kitchen of the speaker's house. Only the RME and BP
+were obviously present, though RME's grand-nephew was sitting under the table rustling a plastic bag, which she tried to
+take away from him occasionally.
+\qu Transcribed (pen and paper) by Aleksej Evstropovich Ichanga, transcription checked and Russian translation by RME, glossing by
+BP. Funding by the Max Planck Society (MPRG on Comparative Population Linguistics). Speaker abbreviation = RME
+\ref Rimma Maksimovna Egorova was born in 1954, i.e. she was 53 at the time of the recording. She has a college-level
+education and had variously worked as the person who projects movies, a junior nurse, and as a cleaner in the post office
+as well as doing the laundry in the old people's home. She is married to a Russian. She is the sister of Raisa Maksimovna
+Solodikova.
+
+\id Egorova_RM_Tvajan001
+\ref 00:23
+\tx Bi   bisem           Rimma Maksimovna Egorova.
+\mb biː bi -R(E)   -m   Rimma Maksimovna Egorova
+\ge 1sg  be -nonfut -1sg Rimma Maksimovna Egorova
+
+\ft I am Rimma Maksimovna Egorova.
+\ru Я есть Рима Максимовн Егоровна.
+\ph The pronoun was pronounced slightly longer than the auxiliary 'bi', but not very long. Aleksej Ichanga transcribed the
+/s/ as a ш, and the /e/ as a Russian ы. But she clearly pronounces a /s/ here, and definitely a /e/.
+\gr
+\nt Aleksej Ichanga points out in his transcription that her 'real' surname is Solodikova, which is a local Even surname.
+
+\id Egorova_RM_Tvajan002
+\ref 00:26
+\tx Bi   ọrọč bisem.
+\mb biː ọrọč bi -R(E)   -m
+\ge 1sg  Oroch     be -nonfut -1sg
+
+\ft I am an Oroch (Even).
+\ru Я - эвенка.
+\ph She definitely pronounces the second /ọ/ of ọrọč as an /o/, but Aleksej Ichanga transcribed it as a Russian ы. He also
+again transcribed the Nonfuture marker as -шы-.
+
+\id Egorova_RM_Tvajan003
+\ref 00:28
+\tx Bi   bakụrịwụ         Twajaːndu.
+\mb biː bakụ  -RI  -W        Twajaːn -DU
+\ge 1sg  be.born -pst -poss.1sg T.       -dat
+\ft I was born in Twajaːn.
+\ru Я родилась в Тваяне.
+\ph Doerfer gives the verb 'to be born' with a long -ụ, i.e. bakụː-; however, RM clearly pronounces all the vowels as short
+vowels. The -w- in bakụrịwụ is quite bilabial, bakụrịβụ.
+\gr -wụ was not an alternate morphemes in my list of POSS.1SG markers, but it's really the only form that fits here.
+
+\id Egorova_RM_Tvajan004
+\ref 00:30
+\tx Tarak Twajaːn bisni            tegeleː Essoduk.
+\mb tarak Twajaːn bi -R(E)   -n(I) tegeleː Esso -DUk(U)
+\ge dist  T        be -nonfut -3sg  far      Esso -abl
+
+\ft This Twajaːn was far from Esso.
+\ru Тваян находится далеко от Эссо.
+\ph talịləː yassadụk
+\gr
+\nt isig = listvennyj les (исыг)
+
+\id Egorova_RM_Tvajan005
+\ref 00:34
+\tx Tịtal  bu     tadụ     bisiwun,             edleten                munu            eweski
+\mb tiːtel  buː   tarak -DU  bi -RI  -WUn         e   -dle     -tEn      mun        -W   erek -skI
+\ge long.ago 1pl.ex dist  -dat be -pst -poss.1pl.ex neg -trm.cvb -poss.3pl 1pl.ex.obl -acc prox -advb.all
+
+\tx emuwken.
+\mb em   -U    -WkEn
+\ge come -caus -caus
+
+\ft It is long ago that we were (lived) there, until they sent us here.
+\ru Давно мы там жили, пока нас сюда не перевезли.
+\ph Doerfer gives this with a long first vowel, and a soft second vowel; but Aleksej Ichanga transcribed it as титал, and I
+hear a hard [a] as well. And the pronoun she definitely pronounced with a short vowel. This time the -w- was
+pronounced as a bilabial glide: bisiwun. [əmuwka:n] Aleksej Ichanga transcribed that as two separate sentences, and
+translated 'edleten' as 'pozže', but I think this makes more sense, especially since I had been wondering where the finite
+verb of the second sentence was.
+\gr 05062016: edleten munu emuwken = poka nas sjuda ne perevezli; emukeniten = zastavili nas pereexatj; munu emuriten = nas privezli; munu
+emuwkeniten = nas zastavili pereexatj, ne bolshoj raznicy; but it does have a meaning of "make someone bring us"
+\gr
+\nt Doerfer: tiːtel = 'davno, kogda-to (v proshlom)'
+
+\id Egorova_RM_Tvajan007
+\ref 00:40
+\tx Ńan   tadụkasị           bu     urriwun              Bystrojtakị.
+\mb ńaːn tarak -DUk(U) -E=sI    buː   ur -RI  -WUn         Bystroj -t(E)kI
+\ge again  dist  -abl    -ep=emph 1pl.ex go -pst -poss.1pl.ex Bystroe -all
+
+\ft From there we went to Bystroe.
+\ru Оттуда мы переехали на Быстрое.
+\ph Aleksej Ichanga did not transcribe the palatal ń in ńan, though it's clearly there. He transcribed tadụkasị as тадукыши,
+and Bystrojtakị as Быcтройтыки. 
+\gr
+
+\id Egorova_RM_Tvajan008
+\ref 00:43
+\tx Bystrojdụ  biddiwun                   mịan anŋanụ   ńan   tadụk       eweski         ńanda
+\mb Bystroj -DU  bi -D    -RI  -WUn         mịan anŋan -W   ńaːn tarak -DUk(U) erek -skI      ńaːn =DE
+\ge Bystroe -dat be -prog -pst -poss.1pl.ex ten    year   -acc again  dist  -abl    prox -advb.all again  =ptl
+
+\tx nuddiwun,                 Essotki.
+\mb nud     -RI  -WUn         Esso -t(E)kI
+\ge migrate -pst -poss.1pl.ex Esso -all
+
+\ft In Bystroe we lived for ten years, and then we again moved from there, to Esso.
+\ru На Быстрой мы жили 10 лет, и оттуда мы опять переехали, в Эссо.
+\ph The ewuski is pronounced with a lot of schwa's: əwəski; biddiwun with glide; but the nuddiwun has a bit of fricative in
+it.
+\gr
+\nt Doerfer: anŋan = 'god'; nuːddiː = 'brodjachij', nudj- = 'kochevat', pereselit'sja'; Robbek: eweski = sjuda; vpred'; tadụk
+ewuski = s tex por
+
+\id Egorova_RM_Tvajan009
+\ref 00:52
+\tx Bi   kučuken bimi         baldụn     ọrọttịt        toreweːttem,              esem
+\mb biː kočuken bi -mI       baldụn     ọrọč -DI   -Č  tore  -WEːČ -R(E)   -m   e   -R(E)   -m
+\ge 1sg  small    be -cond.cvb all.the.time Oroch     -adjr -ins speak -gnr    -nonfut -1sg neg -nonfut -1sg
+
+\tx ńụčịdịwaːtta
+\mb ńụčị -DI -WEːČ -R
+\ge Russian    -vr -gnr    -neg.cvb
+
+\ft When I was small, I always spoke Even, I did not speak Russian. 
+\ru Когда я была маленькая, я говорила по-эвенски, по-русски я не говорила.
+\ph ọrọttịt toreweːte mešim --> a merging of words. And the -s- in esem was very palatal, the following -em a schwa.
+\gr
+\nt Aleksej Ichanga translates 'esem' (which he transcribes ышым), as 'ne znal'.
+
+\id Egorova_RM_Tvajan010
+\ref 00:57
+\tx Talasị            Twajaːndu    ńụčịl    aːčča bisiten           abïːlkaja  učitel
+\mb tarak -(dU)LE =sI   Twajaːn -DU  ńụčị -L  ač      bi -RI  -tEn      abal -kEːjE učitel
+\ge dist  -loc    =emph Twajaːn -dat Russian    -pl neg      be -pst -poss.3pl few  -aug    teacher
+
+\tx bisin             doktor a   čeːledʒisi            ọrọčịl    bisiten.
+\mb bi -RI  -n(I)     doktor a   čele -DʒI        =sI   ọrọč -E-L   bi -RI  -tEn
+\ge be -pst -poss.3sg doctor but all   -ins.prfl.sg =emph Oroch     -ep-pl be -pst -poss.3pl
+
+\ft There in Twajaːn there weren't any Russians, very few, the teacher was (Russian), the doctor, but all (the rest) were
+Oroch.
+\ru Там-же в Тваяне русских не было, мало было, учитель был, доктор, а остальные все были эвены.
+\ph -s- in first bisiten very palatal; also in bisin (a bit lispelig), but just -s- in the last bisiten; -s- in čeːled'usi very palatal, while
+the fricative was -dju- and not -dʒu-
+\gr 29.01.13 (questions2, 18:30-20:30): abịlkaja = sovsem malo; abịlamkar = netu takogo slova; abịlčan = netu;
+abịlkakan = OK, sovsem sovsem malo; bejkeje = bolshoj, but abịlkaja = sovsEm malo; in this sentence, she could
+have used abịlkakan with the same meaning; čeledʒisi = vse zhe = the same as čeledʒursi, both can be used
+\nt 30.01.13 (questions7, 19:00) rechecked the meaning, that abalkaja = sovsem malo and that one can say abalkakan =
+sovsem malenko, but abalamkar/abaljakan = cannot say
+\nt Note the use of the Russian conjunction a!!
+
+\id Egorova_RM_Tvajan011
+\ref 1:06
+\tx Ńanasị       bu     tadụ     bimi         esụ               ńụčịdịwaːtta,          ereger
+\mb ńaːn -E=sI    buː   tarak -DU  bi -mI       e   -R(E)   -(R)U   ńụčị -DI -WEːČ -R       ereger
+\ge again  -ep=emph 1pl.ex dist  -dat be -cond.cvb neg -nonfut -1pl.ex Russian    -vr -gnr    -neg.cvb always
+
+\tx ọrọttịddʒọːttụ.
+\mb ọrọč -DI -D    -WEːČ -R(E)   -(R)U
+\ge Oroch     -vr -prog -gnr    -nonfut -1pl.ex
+
+\ft When we were there we didn't speak Russian, we always spoke Even.
+\ru И вот, когда мы там жили, мы не говорили по-русски, всегда говорили по-эвенски.
+\ph ńụːčịdịwaːttə, ịrịːr
+
+\id Egorova_RM_Tvajan012
+\ref 1:11
+\tx Ọrọttịt        toredilliwun                           škọlatkị    ormi.
+\mb ọrọč -DI   -Č  tore  -D    -E-L     -RI  -WUn         škọla -t(E)kI hor -mI
+\ge Oroch     -adjr -ins speak -prog -ep-inch -pst -poss.1pl.ex school.R -all    go  -cond.cvb
+
+\ft We started to speak Even (intended: Russian) when we went to school. 
+\ru По-эвенски (по-русски) стали говорить когда в школу пошли.
+\ph ọrọttịt toredilwun urmi ++++
+\gr
+\nt
+
+\id Egorova_RM_Tvajan013
+\ref 1:15
+\tx Tadụ     amnakịt aːmalkarịwụn.
+\mb tarak -DU  amnakịt haː -mElčI -RI  -WUn
+\ge dist  -dat soon      know -acclr  -pst -poss.1pl.ex
+
+\ft There we learned (Russian) very quickly.
+\ru Там мы быстро научились.
+\ph
+\gr In 2009 I did some elicitation with R.M. Egorova to check whether -malka- might be the Accelerative suffix, and
+whether it occurs with other verbs, too (translation file: quest_narratives2007_130609, right at the beginning), and it
+seems as if -malka- is restricted to aːmalka (which does not take -mElčI, *aːmalčịrịwụn does not exist); other verbs take
+-melči, e.g. ormelčiriwun 'my bystro poshli domoj', toremelčiweːtten 'on vsegda bystro govorit', taŋmalčịrịwụ 'ja bystro
+chitala', gịrkamalčịn 'on bystro idet'
+\gr 30.01.2013 (questions4, 1:40-) checked with RME, and aːmalkarịwụn has two meanings, 'bystro nauchitsja' and
+'poznakomit'sja, uznatj drug druga', aːmattịwụn = my v proshlom znalisj, my sejchas znaemsja = aːmattap, I tried to
+find out whether aːmalkarịwụn 'poznakomilisj' might have a meaning of superficiality, but even if you met someone 2
+years ago and are still friends, you would say "aːmalkamattụ" - though in grammar comment of
+Axmetova_VI_childhood_63 I do say "aːmalkamattaj = ottenok bystro poznakomit'sja"
+
+\id Egorova_RM_Tvajan014
+\ref 1:16
+\tx Ńan   bi   eweski         pervyj  klastakị      Essotki      upkutneriwu.
+\mb ńaːn biː erek -skI      pervyj  klas    -t(E)kI Esso -t(E)kI hupkut -nE     -RI  -W
+\ge again  1sg  prox -advb.all first.R grade.R -all    Esso -all    learn  -intent -pst -poss.1sg
+
+\ft And I went here, to Esso, to study in the first grade.
+\ru Вот я поехала учиться в первый класс в Эссо.
+\ph klastəki++ Essodupkutneriwu
+
+\id Egorova_RM_Tvajan015
+\ref 1:24:15
+\tx Uže      tarakam       ... bi   ọrọttịč toreweːttem               urečilte,    nọ  ńụčịdịt     bi
+\mb uže      tarakam           biː ọrọttịč tore  -WEːČ -R(E)   -m   urečilte     no.R  ńụča -DI   -Č  biː
+\ge already.R in.those.days     1sg  in.Even        speak -gnr    -nonfut -1sg no.difference but.R Russian  -adjr -ins 1sg
+
+\tx uže      entekeːje ajč      toreriwu.
+\mb uže      entekeːje aj   -Č  tore  -RI  -W
+\ge already.R strong     good -ins speak -pst -poss.1sg
+
+\ft Already in those days... I still spoke Even, but I already knew Russian very well.
+\ru Все равно я по-эвенски разговаривала,  но по-русски я уже очень хорошо говорила.
+\ph torewɐːttɐm [ajt toreriwu]
+\gr
+\nt
+
+\id Egorova_RM_Tvajan016
+\ref 1:34
+\tx Kučuken bimi         bi   sadịktakị          olloːtčoːttem,           tarma abalụ   bi
+\mb kočuken bi -mI       biː sadịk        -t(E)kI hollot -WEːČ -R(E)   -m   tarma abal -W   biː
+\ge small    be -cond.cvb 1sg  kindergarden.R -all    go     -gnr    -nonfut -1sg but   few  -acc 1sg
+
+\tx tala          gịrkawaːttịwụ,          baːrịwụ.
+\mb tarak -(dU)LE gịrka -WEːČ -RI  -W        baː     -RI  -W
+\ge dist  -loc    walk    -gnr    -pst -poss.1sg not.want -pst -poss.1sg
+
+\ft When I was small I went to kindergarden, but I rarely went there, didn't want to.
+\ru Когда я была маленькой, я ходила в садик, но мало я туда ходила, не хотела.
+\ph kučukɐn
+\nt
+
+\id Egorova_RM_Tvajan017
+\ref 1:42
+\tx Ereger bi   noːŋilbi                    bọdụwaːčịddʒọːttam.
+\mb ereger biː noː            -SEl -J       bọd     -U    -WEːČ -E-D     -WEːČ -R(E) -m
+\ge always 1sg  younger.sibling -pl  -prfl.sg accompany -caus -gnr    -ep-prog -gnr    -nonfut -1sg
+
+\ft I always took along my younger siblings.
+\ru Всегда я младших своих водила.
+\ph nuːŋilbi
+\gr In a way bọdụwaːčịddʒọːttam looks as if it contains -GNR-PROG-GNR-NONFUT-1SG --> but surely you cannot have
+2 generic suffixes in one verb!! bọdụram = ja sejčas vedu; bọdụwaːttam = ja vodila; bọdụwaːčịddʒọːttam = vsegda
+vodila --> the only explanation I have is that it must be two generic suffixes, which is surely quite weird!
+
+\id Egorova_RM_Tvajan018
+\ref 1:48
+\tx Eńtilbun            gurgeːwčiddʒoːtte,            busi         tugenidu
+\mb eńtil  -WUn         gurgeːwči -D    -WEːČ -R(E)   buː   =sI   tugeni -DU
+\ge parents -poss.1pl.ex work        -prog -gnr    -nonfut 1pl.ex =emph winter -dat
+
+\tx irukečiddʒoːttu.
+\mb iruket      -E-D     -WEːČ -R(E)   -(R)U
+\ge go.for.ride -ep-prog -gnr    -nonfut -1pl.ex
+
+\ft Our parents worked, we however in winter went for rides
+\ru Родители работали, а мы зимой катались
+\ph əntilbun +gurgɐːwčiddʒọːttə+ bušị (very palatal š) ++ tuenidu:
+\gr
+\nt
+
+\id Egorova_RM_Tvajan019
+\ref
+\tx megdinduk        tụrkịkanịč,         čelew     ineŋu.
+\mb megdin   -DUk(U) tụrkị -KEn     -E-Č   čele -W   ineŋ -W
+\ge mountain -abl    sled      -dim.int -ep-ins all   -acc day   -acc
+
+\ft from a hill, by sled, all day.
+\ru с горки на саньках,целый день.
+\ph
+\gr 12.02.13 (questions16, 57:30) tụrkịkakanịč = OK, tụrkịjakanịč = OK, tụrkịčanịč = OK; all these are small; tụrkịkan
+= children's sled, while tụrkịkakan = real sled for reindeer, but small
+\nt Of course, this belongs to the previous sentence, but the intonation pattern really sets this apart.
+
+\id Egorova_RM_Tvajan020
+\ref 1:59
+\tx Aːdụnda     gawaːttụ                  ŋịn tụrkịwan.
+\mb haːdụn =DE  ga   -WEːČ -R(E)   -(R)U   ŋịn tụrkị -W   -E-n(I)
+\ge sometimes =ptl take -gnr    -nonfut -1pl.ex dog    sled      -acc -ep-poss.3sg
+
+\ft Sometimes we used to take a dog sled.
+\ru Иногда брали собачие нарты.
+
+\id Egorova_RM_Tvajan021
+\ref 2:02
+\tx Munisi              ŋịnalbụn              ọːja  bisin.
+\mb mun        -E=sI    ŋịn -E-L   -WUn         họːja bi -RI  -n(I)
+\ge 1pl.ex.obl -ep=emph dog    -ep-pl -poss.1pl.ex many     be -pst -poss.3sg
+
+\ft We had many dogs.
+\ru У нас собак много было.
+\ph
+\gr
+\nt Ichanga transcribed bisiten, but she clearly says bisin - unless she swallowed a syllable.
+
+\id Egorova_RM_Tvajan022
+\ref 2:04
+\tx Akmụn             dengaw,      počtaw     emuweːtten                      awgịčụttasị
+\mb akan   -WUn         denga   -W   počta -W   em   -U    -WEːČ -R(E)   -n(I) aw    -GIČ =(W)UttE =sI
+\ge father -poss.1pl.ex money.R -acc post.R -acc come -caus -gnr    -nonfut -3sg  where -elat =indef   =emph
+
+\tx Twajaːntakị.
+\mb Twajaːn -t(E)kI
+\ge Twajaːn -all
+
+\ft My father brought money, the post, from somewhere to Tvajan.
+\ru Наш отец деньги, почту возил откуда-то, в Тваян.
+\ph emuwɐːttɐn
+\gr
+\nt
+
+\id Egorova_RM_Tvajan023
+\ref 2:11
+\tx Ereger ŋịndaddʒọːttan.
+\mb ereger ŋịn -DE -D    -WEːČ -R(E)   -n(I)
+\ge always dog    -vr -prog -gnr    -nonfut -3sg
+
+\ft He always went by dog (sled).
+\ru Все время на собаках ездил.
+\ph [rịːgər]
+\gr
+\nt
+
+\id Egorova_RM_Tvajan024
+\ref 2:13
+\tx Essotkida         ŋịndawaːttan,                oruweːtten                     ŋiːwde,
+\mb Esso -t(E)kI =DE  ŋịn -DE -WEːČ -R(E)   -n(I) hor -U    -WEːČ -R(E)   -n(I) ŋiː -W   =DE
+\ge Esso -all    =ptl dog    -vr -gnr    -nonfut -3sg  go  -caus -gnr    -nonfut -3sg  who   -acc =ptl
+
+\tx bolnicatki         oruweːtten,                    ŋịnač.
+\mb bolnica    -t(E)kI hor -U    -WEːČ -R(E)   -n(I) ŋịn -E-Č
+\ge hospital.R -all    go  -caus -gnr    -nonfut -3sg  dog    -ep-ins
+
+\ft And to Esso he went by dogsled, he took away somebody, took them to the hospital, by dog(sled).
+\ru И в Эссо на собаках ездил, кого-нибудь в больницу увозил на собаках.
+\ph uruwɐːttɐn
+\gr
+\nt
+
+\id Egorova_RM_Tvajan025
+\ref 2:21
+\tx Ńanasị       ọːn goːne        irellekenisi                         mụrịndaddʒọːtta
+\mb ńaːn -E=sI    ọːn goːn -R(E)   irel -REk      -E-n(I)      -E=sI    mụran -DE -D    -WEːČ -R(E)
+\ge again  -ep=emph how    say   -nonfut melt -cond.cvb -ep-poss.3sg -ep=emph horse   -vr -prog -gnr    -nonfut.3pl
+
+\tx ọrọčal.
+\mb ọrọč -E-L
+\ge Oroch     -ep-pl
+
+\ft And then, when the snow melts, they go by horse, Evens.
+\ru Дальше, когда снег таял, на лошадях ехали эвены.
+\ph
+\nt The last syllable of the last word is cut off, swallowed, she continues right away with the next sentence; Ichanga
+transcribed and translated it as the 3PL form, and looking at the video, it does seem as if that's the case; there's also a
+pause before this sentence, and after the word ọrọčịl. And there was a bit inbetween that is not clear, because her
+grandson was sitting under the table and playing with a plastic bag, and she kept trying to take it away with her foot.
+
+\id Egorova_RM_Tvajan026
+\ref 2:30
+\tx Tarakam       čeledʒur          ŋịnottan             bisin,            mụraltanda
+\mb tarakam       čele -dʒUr        ŋịn -E-L   -tEn      bi -RI  -n(I)     mụran -L  -tEn      =DE
+\ge in.those.days all   -ins.prefl.pl dog    -ep-pl -poss.3pl be -pst -poss.3sg horse   -pl -poss.3pl =ptl
+
+\tx bisin,            aččasị   mašịna bisin,            traktorkakan     omen bisin,
+\mb bi -RI  -n(I)     ačča =sI   mašịna bi -RI  -n(I)     traktor   -kEkEn omen bi -RI  -n(I)
+\ge be -pst -poss.3sg neg    =emph car.R     be -pst -poss.3sg tractor.R -dim   one  be -pst -poss.3sg
+
+\tx emuddʒọːttan                  bazgič      produktov...
+\mb emu   -D    -WEːČ -R(E)   -n(I) baza   -GIČ produktov
+\ge bring -prog -gnr    -nonfut -3sg  base.R -elat produce.R
+
+\ft In those days all had dogs, had horses, there were no cars, there was one small tractor that brought food from the base.
+\ru В то время все имели собак, и лошади были, не было машин, одни тракторышка был, привозил из базы продукты.
+\ph emudʥọːttɐn
+\gr ŋịnottan = ŋịnaltan 'u vsex byli sobaki'; ŋịnottan tala desčidde = ix sobaki tam ležat
+\nt The 'baza' was a little port (Ičča) on the coast of the Oxotsk Sea (Tvajan was located about 80 km inland, on the river
+Tvajan), and food and other products were stored there and brought to Tvajan by dog sled.
+
+\id Egorova_RM_Tvajan027
+\ref
+\tx Idi domoj Saša k mame, ne šurši! - Vot našelsja... I vot... [laughter]
+\ft In Russian, [talking to her grandson]: go home to your mother, Sasha, don't rustle! [talking to me or herself]ː What a
+pain... Now well....
+
+\id Egorova_RM_Tvajan028
+\ref 2:56
+\tx Ńan   Essogič   Essogič   Esso Essolada          bisin             tože  tačịn
+\mb ńaːn Esso -GIČ Esso -GIČ Esso Esso -(dU)LE =DE  bi -RI  -n(I)     tože  tarọːčịn
+\ge again  Esso -elat Esso -elat Esso Esso -loc    =ptl be -pst -poss.3sg also.R dist.qual
+
+\tx badụddʒọːtta,              Twajaːntakị.
+\mb badụ -D    -WEːČ -R(E)       Twajaːn -t(E)kI
+\ge ride   -prog -gnr    -nonfut.3pl Twajaːn -all
+
+\ft From Esso they also rode like that (by horse and dog) to Tvajan.
+\ru Из Эссо тоже так-же ездили в Тваян.
+\nt All the while she was saying this, her grandson was still rustling around with the plastic bag under the table,
+distracting her.
+
+\id Egorova_RM_Tvajan029
+\ref 3:05
+\tx Ereger kụŋalba       oruweːtte                školaw       ọddakatan.....
+\mb ereger kụŋa -L  -W   hor -U    -WEːČ -R(E)   škola   -W   ọd -REk      -E-tEn
+\ge always child   -pl -acc go  -caus -gnr    -nonfut school.R -acc stop -cond.cvb -ep-poss.3pl
+
+\ft They always drove the children (home) when they finished school (at the end of the school year, for the holidays).
+\ru Все время детей возили, когда школу заканчивали.
+\ph ərïːr uruwɐːtte ọddọχọtan
+\gr
+\nt Throughout all of this the kid was playing with the plastic bag, she was distracted (trying to pull it away with her feet); at
+the end of this sentence she bent down and took the bag and stuffed it in the heater. She then continued where she'd left
+off.
+
+\id Egorova_RM_Tvajan030
+\ref 3:18
+\tx Oruweːtte                dʒụːtkịten,          kanikula   ọːdakan,                   mụranịč.
+\mb hor -U    -WEːČ -R(E)   dʒụː -t(E)kI -tEn      kanikula   ọː  -REk      -E-n(I)      mụran -E-Č
+\ge go  -caus -gnr    -nonfut house    -all    -poss.3pl holidays.R become -cond.cvb -ep-poss.3sg horse   -ep-ins
+
+\ft They took them to their houses, when the holidays started, by horse.
+\ru Увозили домой, когда каникулы наступали, на лошади.
+\ph uruweːtte
+
+\id Egorova_RM_Tvajan031
+\ref 3:21
+\tx Ọːja  mụram      čakkọːtta.
+\mb họːja mụran -W   čak   -WEːČ -R(E)
+\ge many     horse   -acc gather -gnr    -nonfut.3pl
+
+\ft The gathered many horses.
+\ru Мноооооооого лошадей собирали.
+\ph The ọja was very drawn out, ọːːːːːja
+
+\id Egorova_RM_Tvajan032
+\ref 3:25
+\tx Ńanasị       bu     alačịddʒọːttụ.
+\mb ńaːn -E=sI    buː   alat -E-D     -WEːČ    -R(E)   -(R)U
+\ge again  -ep=emph 1pl.ex wait -ep-prog -gnr       -nonfut -1pl.ex
+\ft And we waited. 
+\ru И дальше мы ждали.
+\ph
+\nt The families at home in Tvajan were informed via the radio when the school-children set off from Esso, and then they
+started waiting, since it could take a long time until they actually arrived home; it generally took about a week from
+Esso to Tvajan on horseback, in bad weather up to 2 weeks, because horses cannot be saddled in the rain, so one has
+to wait somewhere until the rain stops.
+
+\id Egorova_RM_Tvajan033
+\ref 3:27
+\tx Min     agdịŋịlbụn,               Raja, Gena, emmoːtte                Essogič.
+\mb min     hagdị -ŋ  -E-L   -WUn         Raja  Gena  em   -WEːČ -R(E)       Esso -GIČ
+\ge 1sg.obl old     -aln -ep-pl -poss.1pl.ex Raja  Gena  come -gnr    -nonfut.3pl Esso -elat
+
+\ft My elder (siblings), Raja, Gena, used to come from Esso.
+\ru Мои старшие, Рая, Гена, из Эссо приезжали.
+\ph aγdịŋịlbụn Essoγịč
+
+\id Egorova_RM_Tvajan034
+\ref 3:33
+\tx Alačịddʒọːttam              ereger.
+\mb alat -E-D     -WEːČ -R(E)   -m   ereger
+\ge wait -ep-prog -gnr    -nonfut -1sg always
+\ft I always waited.
+\ru Я всегда ждала.
+
+\id Egorova_RM_Tvajan035
+\ref 3:35
+\tx Ńanasị       tarakam       tar  rybalkatki             orroːttu,                 emneketen.
+\mb ńaːn -E=sI    tarakam       tar  rybalka        -t(E)kI or -WEːČ -R(E)   -(R)U   em   -REk      -E-tEn
+\ge again  -ep=emph in.those.days thus fishing.camp.R -all    go -gnr    -nonfut -1pl.ex come -cond.cvb -ep-poss.3pl
+
+\ft And then we went straight to the fishing camp, when they arrived.
+\ru И потом тогда вот же на рыбалку мы ездили, когда приедут.
+\ph
+\gr
+\nt As soon as her siblings arrived from Esso, they all went to the rybalka, the fishing camp.
+
+\id Egorova_RM_Tvajan036
+\ref 3:46
+\tx Tadụ     ọllọw,  ọːjaw      ọllọw   epkuweːttu,           kolxoz
+\mb tarak -DU  ọlra -W   họːja -W   ọlra -W   hepken -WEːČ -(R)U   kolxoz
+\ge dist  -dat fish   -acc many     -acc fish   -acc catch  -gnr    -1pl.ex collective.farm.R
+
+\tx ọllọŋgan.
+\mb ọlra -ŋ     -GE    -n(I)
+\ge fish   -aln    -desig -poss.3sg
+
+\ft There we caught much fish, fish for the collective farm.
+\ru Там мы много ловили рыбы, для колхоза рыбу.
+\ph epkuwaːttɐ
+\gr
+\nt
+
+\id Egorova_RM_Tvajan037
+\ref 3:52
+\tx Ereger akmụn             brigadir         bisin,            ekmunisi
+\mb ereger akan   -WUn         brigadir         bi -RI  -n(I)     eken   -WUn         -E=sI
+\ge always father -poss.1pl.ex brigade.leader.R be -pst -poss.3sg mother -poss.1pl.ex -ep=emph
+
+\tx kamgịddʒọːttan.
+\mb kam        -G(I) -D    -WEːČ -R(E) -n(I)
+\ge dried.fish -vr   -prog -gnr    -nonfut -3sg
+
+\ft Our father was always brigade leader, our mother however produced dried fish.
+\ru Все время отец наш был бригадиром, а мама наша рыбу разделывала.
+\ph very uvular k in kamgịddʒọːttan
+
+\id Egorova_RM_Tvajan038
+\ref 3:59
+\tx Ńanasị       emniwun                eweski         Bystrojtakị.
+\mb ńaːn -E=sI    em   -RI  -WUn         erek -skI      Bystroj -t(E)kI
+\ge again  -ep=emph come -pst -poss.1pl.ex prox -advb.all Bystroe -all
+
+\ft And then we came here to Bystroe.
+\ru И дальше приехали сюда на Быстрое.
+
+\id Egorova_RM_Tvajan039
+\ref 4:02
+\tx Tačịntịtta          eńtilbun            ereger rybalkaddʒọːtta.
+\mb tarọːčịn -tIt =DE  eńtil  -WUn         ereger rybalka        -D    -WEːČ -R(E)
+\ge dist.qual      -ptl =ptl parents -poss.1pl.ex always fishing.camp.R -prog -gnr    -nonfut.3pl
+
+\ft Just the same our parents were always fishing.
+\ru Все так же родители все время рыбачили
+
+\id Egorova_RM_Tvajan040
+\ref 4:06
+\tx Busi         Essola       taŋnịwụn.
+\mb buː   =sI   Esso -(dU)LE taŋ -RI  -WUn
+\ge 1pl.ex =emph Esso -loc    read -pst -poss.1pl.ex
+\ft And we studied (went to school) in Esso.
+\ph
+\gr 29.01.13 (questions2, 22:00): bukke = my zhe, imenno my (small number), busi = more inclusive, my zhe vse, vse
+my bolee objemno
+\ru Мы же в Эссо учились.
+
+\id  Egorova_RM_Tvajan041
+\ref 4:10
+\tx Ekičeː    oruweːtte                munu            internattakị,           baːwaːttụ,
+\mb ekič =eː  hor -U    -WEːČ -R(E)   mun        -W   internat          -t(E)kI baː     -WEːČ -R(E)   -(R)U
+\ge ints  =emph go  -caus -gnr    -nonfut 1pl.ex.obl -acc boarding.school.R -all    not.want -gnr    -nonfut -1pl.ex
+
+\tx aːnda     ńọːwaːtta,              kụŋal    tadụk.
+\mb haːn =DE  ńọːn -WEːČ -R(E)       kụŋa -L  tarak -DUk(U)
+\ge some  =ptl run.away -gnr    -nonfut.3pl child   -pl dist  -abl
+
+\ft It was hard, they took us away to boarding school, we didn't want (to go), some of the children ran away from there.
+\ru Очень тяжело, увозили нас в интернат, мы не хотели, некоторые  дети убегали оттуда.
+\ph uruwɐːtte
+\gr ekič - seems to have meaning of "strong", silno, krepko tjazhelo, rather than specifically difficult, because 29.01.13 she
+said this means "silno, krepko (tjazhelo)", and also said in Adukanov_Sergej_life_076 - basically it means 'strong' or just
+some form of 'bigger', more intensity - but maybe overall 'strong' comes best; 30.01. questions4, beginning: ekič is just
+an intensifying adverb or particle, it doesn't really have a meaning on its own, e.g. ekič uksen (very hot), ekič
+uklemsem 'ochenj xochu spatj', ekičeː eŋi 'ochenj silnyj'; you cannot say "ekič stol", it's ekič maŋị stol 'krepkij stol'
+\nt
+
+\id Egorova_RM_Tvajan042
+\ref
+\tx Vy ponimaete, da? - Nemnožko.
+\ft In Russian: [she to me] Do you understand? [my answer] a bit.
+
+\id Egorova_RM_Tvajan043
+\ref 4:21
+\tx Ńanasị...
+\mb ńaːn -E=sI
+\ge again  -ep=emph
+\ft And then...
+\ru Дальше...
+
+\id Egorova_RM_Tvajan044
+\ref 4:28
+\tx Tačịn       tar  biddiwun                   tar  Bystrojdu    gọrụ, mịan anŋanụ.
+\mb tarọːčịn tar  bi -D    -RI  -WUn         tar  Bystroj -DU  gọrụ  mịan anŋan -W
+\ge dist.qual      thus be -prog -pst -poss.1pl.ex thus Bystroe -dat long      ten    year   -acc
+
+\ft So like that we lived for a long time in Bystroe, ten years.
+\ru Вот так жили на Быстрой долго, 10 лет.
+
+\id Egorova_RM_Tvajan045
+\ref 4:34
+\tx Ajịttịtta,         gịakịw,    kortopiw
+\mb aj   -E-Č   =tIt =DE  gịakị -W   kortopi  -W
+\ge good -ep-ins =ptl =ptl various   -acc potato.R -acc
+
+\tx isuwkečiddʒoːttu,                              kapustaw.
+\mb isu  -WkEn -kEČ -E-D     -WEːČ -R(E)   -(R)U   kapusta   -W
+\ge grow -caus -mult -ep-prog -gnr    -nonfut -1pl.ex cabbage.R -acc
+
+\ft In general we lived well, grew potatoes, and cabbage.
+\ru Жили хорошо вообще-то, всякое, картошку растили, капусту.
+\ph giekiw χartapịw
+\gr *isuwkeNiddʒoːttu - ne govorjat
+
+\id Egorova_RM_Tvajan046
+\ref 4:39
+\tx Ńan   emnidʒur         kanikuladu      bi   ereger gurgeːwčiweːttem.
+\mb ńaːn em   -RIdʒI  -L  kanikula   -DU  biː ereger gurgeːwči -WEːČ -R(E)   -m
+\ge again  come -ant.cvb -pl holidays.R -dat 1sg  always work        -gnr    -nonfut -1sg
+
+\ft And when I came for the holidays I always worked.
+\ru И вот приехав на каникулах, я все время работала.
+\ph gurgɐːwčiwɐːttəm
+
+\id Egorova_RM_Tvajan047
+\ref 4:45
+\tx Čeledʒur          kụŋal    asatkar     čeledʒur          orroːttu                   kolxoztu
+\mb čele -dʒUr        kụŋa -L  asatkan -L  čele -dʒUr        hor -WEːČ -R(E)   -(R)U   kolxoz            -DU
+\ge all   -ins.prefl.pl child   -pl girl    -pl all   -ins.prefl.pl go  -gnr    -nonfut -1pl.ex collective.farm.R -dat
+
+\tx tačịn       gurgeːwčiddʒoːttu             ńan   dengaŋgawụr
+\mb tarọːčịn gurgeːwči -D    -WEːČ -(R)U   ńaːn denga   -ŋ  -GE    -WUr
+\ge dist.qual      work        -prog -gnr    -1pl.ex again  money.R -aln -desig -prfl.pl
+
+\tx zarabotallọːttụ.
+\mb zarabotal -WEːČ -R(E)   -(R)U
+\ge earned.R  -gnr    -nonfut -1pl.ex
+\ft All the children, girls, we all went to the collective farm and worked like that and earned money for ourselves.
+\ru Все дети, девушки все, шли в колхоз, так работали, потом деньги зарабатывали.
+
+\id Egorova_RM_Tvajan048
+\ref
+\tx Essotki      ormi          gịakịw     uniweːttu,                 ọjgawụr             modnuju.
+\mb Esso -t(E)kI hor -mI       gịakị -W   uni -WEːČ -R(E)   -(R)U   ọj    -GE    -WUr     modnuju
+\ge Esso -all    go  -cond.cvb various   -acc buy -gnr    -nonfut -1pl.ex clothes -desig -prfl.pl stylish.R
+
+\ft Going to Esso we bought different things, stylish clothes for ourselves.
+\ru В Эссо уезжая, ну всякое покупали себе, вещи модные.
+\ph urmi giekiw uniwaːttu
+\gr Interesting: the Russian adjective agrees in case and esp. gender with the Russian noun odežda
+
+\id Egorova_RM_Tvajan049
+\ref 5:00
+\tx Tačịn       tara.
+\mb tarọːčịn tarak
+\ge dist.qual      dist
+
+\ft Well, like that.
+\ru Вот так.
+
+\id Egorova_RM_Tvajan050
+\ref 5:02
+\tx Ńan   upkuttidʒi     bi   e... upkučidʒilliwu                        kinomexanik       bideji.
+\mb ńaːn hupkut -RIdʒI  biː      hupkut -E-D     -E-L     -RI  -W        kinomexanik       bi -DE       -J
+\ge again  learn  -ant.cvb 1sg       learn  -ep-prog -ep-inch -pst -poss.1sg cinema.mechanic.R be -purp.cvb -prfl.sg
+\ft And having studied (having finished school).... The I started studying to be a cinema mechanic (the person who shows
+the films).
+\ru Потом закончив (школу) стала учиться на киномеханика.
+\ph bidɐji
+
+\id Egorova_RM_Tvajan051
+\ref 5:09
+\tx Ńan   gurgeːwčiddiwu,                ńanasị       tadụ     buteːnilliwu,
+\mb ńaːn gurgeːwči -D    -RI  -W        ńaːn -E=sI    tarak -DU  buteːn -E-L     -RI  -W
+\ge again  work        -prog -pst -poss.1sg again  -ep=emph dist  -dat be.ill  -ep-inch -pst -poss.1sg
+
+\tx ịašalụ        enillin.
+\mb ịašal -W        en   -E-L     -RI  -n(I)
+\ge eyes     -poss.1sg hurt -ep-inch -pst -poss.3sg
+\ft And I worked, and then I fell ill, my eyes started to hurt.
+\ru И работала, потом (гриппом) заболела, глаза стали болеть.
+\ph butɐnilliwu
+
+\id Egorova_RM_Tvajan052
+\ref 5:16
+\tx Ńan   ọdụkanitan,           goːniten            nọgdak balịːdʒịkas.
+\mb ńaːn ọd -WkEn -RI  -tEn      goːn -RI  -tEn      nọgdak balịː     -DʒIk  -E-s(I)
+\ge again  stop -caus -pst -poss.3pl say   -pst -poss.3pl don't    become.blind -admon  -ep-poss.2sg
+
+\ft Then they stopped me, they said 'you mustn't', you'll become blind.
+\ru Потом запретили, сказали "не надо, а то ослепнешь".
+\ph balịːdʒakaš
+
+\id Egorova_RM_Tvajan053
+\ref 5:19
+\tx Ńan   bi   etikeːŋniwu.
+\mb ńaːn biː etikeːŋ -RI  -W
+\ge again  1sg  marry     -pst -poss.1sg
+\ft And then I married.
+\ru Потом я вышла замуж.
+
+\id Egorova_RM_Tvajan054
+\ref 5:22
+\tx Min     dʒoːr kụŋaŋalbụ,              Sveta, Sergej.
+\mb min     dʒoːr kụŋa -ŋ  -E-L   -W        Sveta  Sergej
+\ge 1sg.obl two     child   -aln -ep-pl -poss.1sg Sveta  Sergej
+\ft I have two children, Sveta, Sergej. 
+\ru У меня двое детей, Света, Сергей.
+
+\id Egorova_RM_Tvajan055
+\ref 5:25
+\tx Ńanasị       bi   gurgeːwčidʒilliwu                      bolnicadụ.
+\mb ńaːn -E=sI    biː gurgeːwči -D    -E-L     -RI  -W        bolnica       -DU
+\ge again  -ep=emph 1sg  work        -prog -ep-inch -pst -poss.1sg hospital.R    -dat
+
+\ft And I started to work in the hospital.
+\ru Я стала работать в больнице.
+
+\id Egorova_RM_Tvajan056
+\ref 5:29
+\tx Gurgeːwčiriwu            pensijaklajị.
+\mb gurgeːwči -RI  -W        pensija   -klE     -J
+\ge work        -pst -poss.1sg pension.R -all.loc -prfl.sg
+
+\ft I worked until my pension.
+\ru Я работала до пенсии.
+\ph gurgɐːwčiriwu
+
+\id Egorova_RM_Tvajan057
+\ref 5:32
+\tx Tačịn       tara.
+\mb tarọːčịn tarak
+\ge dist.qual      dist
+
+\ft Well, like that.
+\ru вот так
+
+\id Egorova_RM_Tvajan058
+\ref 5:33
+\tx Uŋniwu,           mladšaja.medsestra bisiwu.
+\mb uŋ -RI  -W        mladšaja.medsestra bi -RI  -W
+\ge do  -pst -poss.1sg junior.nurse.R      be -pst -poss.1sg
+
+\ft I did like that and was a junior nurse.
+\ru Сделала так, младшей медсестрой была.
+\ph
+
+\id Egorova_RM_Tvajan059
+\ref 5:36
+\tx Tačịn       tara.
+\mb tarọːčịn tarak
+\ge dist.qual      dist
+
+\ft Well, like that.
+\ru вот так
+
+\id Egorova_RM_Tvajan060
+\ref 5:37
+\tx Ńan   tiːkesi   bi   pensijeddem                  teː... urečilte     gurgeːwčirem,          v
+\mb ńaːn tiek =sI   biː pensija   -D    -R(E)   -m   *teː   urečilte     gurgeːwči -R(E)   -m   v
+\ge again  now  =emph 1sg  pension.R -prog -nonfut -1sg ***     no.difference work        -nonfut -1sg in.R
+
+\tx Dome    Miloserdija Invalidov.
+\mb Dome    Miloserdija Invalidov
+\ge house.R charity.R   invalids.R
+\ft And even now I am a pensioner, but I still work, in the House of Charity for Invalids.
+\ru А сейчас я на пенсии, (поэтому) все равно работаю, в Доме Милосердия Инвалидов.
+\ph
+\nt She started to say teːmi 'therefore', but broke off and continued with urečilte 'vse ravno'.
+
+\id Egorova_RM_Tvajan061
+\ref 5.43
+\tx Bi   ọjụtan             ịlkatịddʒọːttam,                   i     počtala              tože,
+\mb biː ọj    -W   -tEn      hịlka -Č  -E-D     -WEːČ -R(E)   -m   i     počta        -(dU)LE tože
+\ge 1sg  clothes -acc -poss.3pl wash    -res -ep-prog -gnr    -nonfut -1sg and.R post.office.R -loc    also.R
+
+\tx pọlụ     awaddʒọːttam.
+\mb pol     -W   aw   -E-D     -WEːČ  -R(E)   -m
+\ge floor.R -acc wash -ep-prog -gnr     -nonfut -1sg
+
+\ft I wash their clothes, and  (I work) at the post-office as well, I wash the floors.
+\ru Я им одежду стираю, и на почте тоже, полы мою.
+\ph awadʥọːttam
+
+\id Egorova_RM_Tvajan062
+\ref 5:49
+\tx Talasị            min     kụŋaŋụ           gurgeːwčin,     Sveta, zamestitel načalnika,
+\mb tarak -(dU)LE =sI   min     kụŋa -ŋ  -W        gurgeːwči -n(I) Sveta  zamestitel načalnika
+\ge dist  -loc    =emph 1sg.obl child   -aln -poss.1sg work.nonfut -3sg  Sveta  vice.R     boss.R
+
+\tx teːmi    bi   tala          gurgeːwčiddem.
+\mb teːmi    biː tarak -(dU)LE gurgeːwči -D    -R(E)   -m
+\ge therefore 1sg  dist  -loc    work        -prog -nonfut -1sg
+
+\ft There my child works, Sveta, the second-in-command, therefore I work there.
+\ru Там работает моя дочь, поэтому я там работаю.
+
+\id Egorova_RM_Tvajan063
+\ref 5:58
+\tx Ńan   tara.
+\mb ńaːn tarak
+\ge again  dist
+
+\ft That's all.
+\ru Вот и все.

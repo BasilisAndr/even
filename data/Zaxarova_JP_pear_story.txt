@@ -1,0 +1,370 @@
+\_sh v3.0  1082 Text
+
+\id Zaxarova_JP_pear_story_000_metadata
+\ref Recorded on 24 Feb 2008 in Sebjan-Küöl by Brigitte Pakendorf; Was recorded in house of Elena Kirillina Krivošapkina, her adopted
+great-aunt (?). Showed her pear story twice, and then she told it to Elena Kirillina sitting at kitchen table while Elena Kirillina
+prepared a sort of dimsum/pel’meni (porzha) -- sound of water boiling on stove, as well as spoon hitting bowl
+\qu Transcribed by Ekaterina Igorevna Shadrina, Russian translation by Ija Vasil'evna Krivoshapkina, glossed by BP. Funding by Max Planck
+Society (MPRG on Comparative Population Linguistics). Speaker abbreviation = JPZ; EKK (some interjections)
+\ref Jarina Petronva is 25 years old, chumrabotnitsa on maternity leave. Jarina speaks Even with her ‘grandmother’ Elena Kirillovna,
+with whom she lives, and also with her 8-month-old son, it would seem. However, she said she doesn’t know Even very well
+
+\id Zaxarova_JP_pear_story_001
+\ref 0:17; Elena Kirillovna Krivošapkina (EKK)
+\tx Biː ukčendʒim       goːli,        ebeddit         uːr   ịakakamgụl           uːr   kinew.
+\mb biː ukčen -DʒI -m   goːn -LI      ewen -DI   -Č  uːr   ịak -kEkEn -W   =(W)Ul uːr   kino     -W
+\ge 1sg  tell   -fut  -1sg say   -imp.2sg Even -adjr -ins before what  -dim   -acc =indef before movies.R -acc
+
+\ft EKK: Say "I will tell in Even", that little what, the movie from just now.
+\ru Скажи "я расскажу по-эвенски", что-то, тогдашнее кино.
+\ph
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_002
+\ref 0:23; JPZ
+\tx Bastakïdu...
+\mb bastakï   -DU
+\ge at.first.Y -dat
+\ft At first [said with Sakha root]
+\ru Сначала...
+\ph
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_003
+\ref 0:24; EKK
+\tx Bastakïdu      edʒi        goːn!      [nọnaptụ?]  nọnaptụ
+\mb bastakï   -DU  e   -LI      goːn       nọnap    -DU  nọnap    -DU
+\ge at.first.Y -dat neg -imp.2sg say.neg.cvb the.first. -dat the.first. -dat
+
+\ft EKK: Don't say "bastakïdu" [the Sakha word for 'at first'] [ZJP: at first? - said in Even] EKK: At first.
+\ru Не говори "бастакыду"! сначала сначала
+\ph nanaptu; it sounds very much like EKK says goːnə, with a final vowel, but that might also just be expelled breath
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_004
+\ref 0:28; JPZ
+\tx Nọnaptụn    ńarịmaja   ịaw      kọmụjaggaran                kọmụjaggaran
+\mb nọnap    -DU  ńarị -mEjE ịak -W   xọmụj -E-D     -Gr(E) -n(I) xọmụj -E-D     -Gr(E) -n(I)
+\ge the.first. -dat man     -aug  what  -acc gather.Y  -ep-prog -hab   -3sg  gather.Y  -ep-prog -hab   -3sg
+
+\tx [čakakgar]            čakakgaran                  grušalbu.
+\mb čak   -E-D     -Gr(E) čak   -E-D     -Gr(E) -n(I) gruša -L  -W
+\ge gather -ep-prog -hab   gather -ep-prog -hab   -3sg  pear.R -pl -acc
+
+\ft At first a big man was gathering [said with the Sakha root] [EKK: gathering - with the Even root] gathering pears.
+\ru Сначала (большой) мужчина собирал груши.
+\ph the first kọmụjaggaran she said with a break in the middle, kọmụj jaggaran
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_005
+\ref 0:37; JPZ
+\tx Họːjakeː!  Torre         tikčekkelbu                igin  anaːn      ïrastantakan.
+\mb họːja =kE   tor   -(dU)LE tik  -čE    -kkEn -L  -W   iŋin anaːn      ïrastaː -ntEkEn
+\ge many     =emph earth -loc    fall -pf.ptc -dim  -pl -acc etc.Y carefully.Y clean.Y   -mult.cvb
+
+\ft Very many! Those that fell to the ground he carefully cleans.
+\ru Очень много! Старательно очищая упавшие на землю.
+\ph
+\gr The use of the 'Multiplicative converb' here has a multiplicative meaning, iterative, cleaning many pears.
+\nt
+
+\id Zaxarova_JP_pear_story_006
+\ref 0:43; JPZ
+\tx [ńọkadịt]     Ịadʒị,        igin  bụlaːtčị          dahantakan.
+\mb ńọka -DI   -Č  ịak -DʒI        iŋin bïlaːt   -DʒI        das   -E  -ntEkEn
+\ge Sakha   -adjr -ins what  -ins.prfl.sg etc.Y kerchief.Y -ins.prfl.sg cover -ep -mult.cvb
+
+\ft [EKK: in Sakha (i.e. JPZ used the Sakha word for 'clean')] JPZ: Covering them with his what, his kerchief.
+\ru Своим этим, платком, закрывая.
+\ph dọhantakan
+\gr The use of the 'Multiplicative converb' here has a multiplicative meaning, iterative, cleaning many pears.
+\nt
+
+\id Zaxarova_JP_pear_story_007
+\ref 0:47; JPZ
+\tx Tarịt [platok]   kozalkamaja        ńarịmaja   ieltendʒiggeren,              delbi
+\mb tarịt platok     koza   -lkEn -mEjE ńarị -mEjE ielten -D    -Gr(E)      -n(I) delbi
+\ge then    kerchief.R goat.R -prop -aug  man     -aug  pass   -prog -hab.nonfut -3sg  very.Y
+
+\tx kojeːčinteken            ieltengeren.
+\mb kojeːt -E       -ntEkEn   ielten -Gr(E)      -E-n(I)
+\ge look.at -ep -mult.cvb pass   -hab.nonfut -ep-3sg
+
+\ft Then a big man with a (big) goat was walking past, staring a lot he walked past.
+\ru Потом проходил большой мужчина с (большой) козой очень смотря (на груши) проходил.
+\ph
+\gr sometimes the augmentative suffix is carried over to the proprietive object, so the goat doesn't necessarily have to big; kojeːčinteken
+= more intensive, definitely progressive or multiplicative, while kojeːtniken - can be a short look or a long time; the combination of
+Progressive and Habitual can have a plain Past tense meaning (says Ija Krivoshapkina), though it would seem as if the Habitual has a
+general narrative past tense meaning, because it occurs very frequently in the pear stories
+
+\id Zaxarova_JP_pear_story_008
+\ref 0:53; JPZ
+\tx Eče        gara          tar   grušalduk.
+\mb e   -čE    ga   -R       tarak gruša -L  -DUk(U)
+\ge neg -pf.ptc take -neg.cvb dist  pear.R -pl -abl
+
+\ft He didn't take from those pears.
+\ru Он не взял из этих груш.
+\ph
+\gr the literary form of the negative converb of ga- would be eče gad
+\nt
+
+\id Zaxarova_JP_pear_story_009
+\ref 0:57; JPZ
+\tx Gọrake       kọmụjran            kọmụjran,           tarịt belosipedelken      kụŋakkan
+\mb gọrụ =kE   kọmụj -R(E)   -n(I) kọmụj -R(E)   -n(I) tarịt velosiped -E  -lkEn kụŋa -kkEn
+\ge long     =emph gather.Y  -nonfut -3sg  gather.Y  -nonfut -3sg  then    bicycle.R -ep -prop child   -dim
+
+\tx ajannaːdgaran                    [ụmụjran           goːli,        kọmụjran            edʒi        goːne].
+\mb ajannaː  -D    -Gr(E)      -n(I) ụmụj -R(E)   -n(I) goːn -LI      kọmụj -R(E)   -n(I) e   -LI      goːn -R
+\ge journey.Y -prog -hab.nonfut -3sg  gather   -nonfut -3sg  say   -imp.2sg gather.Y  -nonfut -3sg  neg -imp.2sg say   -neg.cvb
+
+\ft JPZ: He gathered and gathered for a long time, then a little kid on a bike rode up [EKK: say "umujran" - the Even root for 'gathered',
+not "komujran" - the Sakha root].
+\ru Очень долго собирал собирал (или: собирает собирает), потом ехал ребеночек с велосипедом (говори умуйрин (собирал) не говори
+комуйран).
+\ph
+\gr There are different words for 'gather' that have a slightly different meaning: ụmụj = gather into a pile, v kuču sobirat', taw = gather
+individually, po-odnomu sobirat', čak = tidy up, pribirat', v porjadok privodit'
+
+\id Zaxarova_JP_pear_story_010
+\ref 1:03; JPZ
+\tx Belosipedelken      kụŋakkan   ajannadnịkan,          ịaw holij   korzinamajaw
+\mb velosiped -E  -lkEn kụŋa -kkEn ajannaː  -D    -nIkEn   ịak celyj.R korzina  -mEjE -W
+\ge bicycle.R -ep -prop child   -dim  journey.Y -prog -sim.cvb what  whole.R basket.R -aug  -acc
+
+\tx hotuhnen.
+\mb hotu       -s(E)n      -E-n(I)
+\ge carry.away -lim.nonfut -ep-3sg
+
+\ft A little kid riding a bike carried off a whole big basket.
+\ru Едя ребеночек с велосипедом, эту, целую большую корзину утащил.
+\ph
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_011
+\ref 1:12; JPZ
+\tx Tak  [bejńdʒe] bejńdʒe   bụọlla   enikken      ịara           awdatta        ịaggar[an],
+\mb tak  bej -ńdʒE bej -ńdʒE buollaγïna e   -nIkEn   ịa    -R       awdat -R       ịa    -D    -Gr(E) -E-n(I)
+\ge so.R man -aug    man -aug    dp.Y         neg -sim.cvb do.what -neg.cvb worry -neg.cvb do.what -prog -hab   -ep-3sg
+
+\tx ụmụjaggaran.
+\mb ụmụj -E-D     -Gr(E) -n(I)
+\ge gather   -ep-prog -hab   -3sg
+
+\ft And the big man was gathering without paying attention.
+\ru А большой мужчина не обращая внимания собирал.
+\ph she does not pronounce the 3SG ending on the verbs!!
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_012
+\ref 1:20; JPZ
+\tx Ogile       ọjčịjar                buollaga,              ehni,             ehni              ikkerer
+\mb ogi -(dU)LE ọjčị -j    -Ar         buol  -dEg      -E     e   -R(E)   -n(I) e   -R(E)   -n(I) it  -Gr(E) -R
+\ge top -loc    go.up     -conn -prs.ptcp.Y aux.Y -assert.Y -3sg.Y neg -nonfut -3sg  neg -nonfut -3sg  see -hab   -neg.cvb
+
+\tx hergile        taraw.
+\mb hergi  -(dU)LE tarak -W
+\ge bottom -loc    dist  -acc
+
+\ft He climbs up high, right, doesn't see (what's happening) below.
+\ru Он же взбирается наверх, он не видит внизу этого.
+\ph
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_013
+\ref 1:24; JPZ
+\tx Tarịt kụŋačịkan        hotuhnidʒi                heredniken            ịadnị            ahịkkan
+\mb tarịt kụŋa -čEn -KEn     hotu       -s(E)n -RIdʒI  hor -E-D     -nIkEn   ịa           -n(I) asị -kkEn
+\ge then    child   -dim  -dim.int carry.away -lim   -ant.cvb go  -ep-prog -sim.cvb do.what.nonfut -3sg  woman -dim
+
+\tx kụŋakkam        emie   belosipedelken      bakaldadnị.
+\mb kụŋa -kkEn -W   emie   velosiped -E  -lkEn bak  -(E)ldE -n(I)
+\ge child   -dim  -acc also.Y bicycle.R -ep -prop find -soc    -3sg
+
+\ft Then the kid, riding, having carried off (the basket), met a little girl, also on a bike.
+\ru Потом ребеночек едя утащив встретил девочку, тоже на велосипеде.
+\ph
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_014
+\ref 1:32; JPZ
+\tx Tarčam          ittidʒi     ịŋadụk    họrrịdʒị,    tikten.
+\mb tarak -čEn -W   it  -RIdʒI  ịŋa -DUk(U) họr      -RIdʒI  tik  -R(E)   -n(I)
+\ge dist  -dim  -acc see -ant.cvb stone  -abl    get.caught -ant.cvb fall -nonfut -3sg
+
+\ft Having seen her, he got caught on a stone and fell.
+\ru Увидев эту, зацепившись за камень, упал.
+\ph
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_015
+\ref 1:35, JPZ
+\tx Tarịt, ịŋadụk    họrrịdʒị     buollaγïna, ịak, tikčelen,                     ịlan kụŋamajal
+\mb tarịt  ịŋa -DUk(U) họr      -RIdʒI  buollaγïna  ịak  tik  -čE    -(dU)LE -n(I)     ịlan kụŋa -mEjE -L
+\ge then     stone  -abl    get.caught -ant.cvb dp.Y          what   fall -pf.ptc -loc    -poss.3sg three  child   -aug  -pl
+
+\tx ịlgamaggara.
+\mb ịlgam -E-D     -Gr(E)      -r
+\ge stand   -ep-prog -hab.nonfut -3pl
+
+\ft Then, having gotten caught on a stone, when he fell, three boys were standing.
+\ru Потом, зацепившись за камень, когда он упал, стояли 3 больших ребенка.
+\ph ịa, tikčelenu (probably just expelled breath)
+\gr here, one could replace tikčelen with tikreken, with no difference to the meaning of the sentence
+\nt
+
+\id Zaxarova_JP_pear_story_016
+\ref 1:44, JPZ
+\tx Taraw,     ịawan,                grušawan                ịadʒịr        tiete...  ettieridʒi
+\mb tarak -W   ịak -W   -E-n(I)      gruša -W   -E-n(I)      ịa    -DʒI -r   tiete     ettie   -RIdʒI
+\ge dist  -acc what  -acc -ep-poss.3sg pear.R -acc -ep-poss.3sg do.what -fut  -3pl take.away beat.up -ant.cvb
+
+\tx tietedʒir           gerbetten.
+\mb tiete     -DʒI -r   gerbet -R(E)   -n(I)
+\ge take.away -fut  -3pl think  -nonfut -3sg
+
+\ft So he thought that they will take away his pears, having beaten him up.
+\ru На это он подумал что они отберут его груши, побив его.
+\ph etteːrədʒi teːtedʒir
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_017
+\ref 1:50, JPZ
+\tx Kimneːger   delbi  kömölöstö          ịawan                 igin  ụmụjrịdʒụr   boːre,          tikče
+\mb kimneːger   delbi  kömölös -R(E)       ịak -W   -E-n(I)      iŋin ụmụj -RIdʒI  -L  boː -R(E)       tik  -čE
+\ge who.compar.Y very.Y help.Y     -nonfut.3pl what  -acc -ep-poss.3sg etc.Y gather   -ant.cvb -pl give -nonfut.3pl fall -pf.ptc
+
+\tx grušalbu       [tikteŋmen]
+\mb gruša -L  -W   tik  -DEŋ    -W   -E-n(I)
+\ge pear.R -pl -acc fall -pst.ptc -acc -ep-poss.3sg
+
+\ft They helped better than anybody, collected his what for him, his fallen pears. [EKK: fallen]
+\ru Они очень помогли как никто, собрали это тоже, упавшие груши.
+\ph
+\gr note the use of bo: as a beneficiary marker, Sakha influence, possibly
+
+\id Zaxarova_JP_pear_story_018
+\ref 1:579; JPZ
+\tx Ee, ụmụjrịdʒụr   boːre,          tarịt horehne.
+\mb ee  ụmụj -RIdʒI  -L  boː -R(E)       tarịt hor -E-s(E)n -R(E)
+\ge eh  gather   -ant.cvb -pl give -nonfut.3pl then    go  -ep-lim  -nonfut.3pl
+
+\ft They gathered (the pears) for him, then left.
+\ru Собрали, потом ушли.
+\ph
+\gr boː as a beneficiary marker
+\nt
+
+\id Zaxarova_JP_pear_story_019
+\ref 2:01, JPZ
+\tx Helepečemen                    tikteŋmen                      igin  boːre.
+\mb šljapa -čEn -W   -E-n(I)      tik  -DEŋ    -W   -E-n(I)      iŋin boː -R(E)
+\ge hat.R   -dim  -acc -ep-poss.3sg fall -pst.ptc -acc -ep-poss.3sg etc.Y give -nonfut3pl
+
+\ft And his hat that had fallen down they also gave (him).
+\ru Упавшую его шляпу тоже дали.
+\ph
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_020
+\ref 2:03, JPZ
+\tx [Epteridʒur]      Epteridʒur,       ee.
+\mb epte  -RIdʒI  -L  epte  -RIdʒI  -L  ee
+\ge shake -ant.cvb -pl shake -ant.cvb -pl eh
+
+\ft [EKK: having shaken (it)] Having shaken (it), yes.
+\ru Стряхнув.
+\ph
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_021
+\ref 2:06; JPZ
+\tx Tarịt... tarịt ńarịńdʒa   hergile        hokohnidʒi,     birde  itten             omen korzina
+\mb tarịt    tarịt ńarị -ńdʒE hergi  -(dU)LE hokohon -RIdʒI  birde  it  -R(E)   -n(I) omen korzina
+\ge then       then    man     -aug    bottom -loc    descend -ant.cvb only.Y see -nonfut -3sg  one  basket.R
+
+\tx aččaŋman.
+\mb ačča -ŋ  -W   -E-n(I)
+\ge neg    -aln -acc -ep-poss.3sg
+
+\ft Only then the big man, having climbed down to the ground, saw that one basket is gone.
+\ru Потом этот мужчина, только спустившись вниз увидел, что одной корзины нет.
+\ph
+\gr
+\nt the 3sg on accangman = otsutstive korzina, it does not refer to the guy; and the restrictive birde most probably belongs to the
+seeing, "only then he saw that a basked is gone"
+
+\id Zaxarova_JP_pear_story_022
+\ref 2:16; JPZ
+\tx Taraw      tarịt ịadnị,    kụŋakkal       ieltendʒiggere.
+\mb tarak -W   tarịt ịa    -n(I) kụŋa -kkEn -L  ielten -D    -Gr(E)
+\ge dist  -acc then    do.what -3sg  child   -dim  -pl pass   -prog -hab.nonfut.3pl
+
+\ft The (he) did what, the little kids walked by.
+\ru Потом это сделал, проходили детишки.
+\ph
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_023
+\ref 2:20; JPZ
+\tx Taralbụ         ittidʒi,    ehnide                 awdakkara[r].
+\mb tarak -E-L   -W   it  -RIdʒI  e   -R(E)   -n(I) =DE  awdat -Gr(E)    -R
+\ge dist  -ep-pl -acc see -ant.cvb neg -nonfut -3sg  =ptl worry -hab      -neg.cvb
+
+\ft He saw them and didn't even pay attention.
+\ru Увидев тех, и внимание не обращает.
+\ph
+\gr
+\nt
+
+\id Zaxarova_JP_pear_story_024
+\ref 2:23, JPZ
+\tx Hatar      ulgumimče            ehni              ile           horren              goːmi.
+\mb hatar      ulgim -i      -mč(I) e   -R(E)   -n(I) irek  -(dU)LE hor -R(E)   -E-n(I) goːn -mI
+\ge xotja.by.Y ask   -ipf??? -sbjv   neg -nonfut -3sg  which -loc    go  -nonfut -ep-3sg say   -cond.cvb
+
+\ft He should have asked, where it (the basket) got to.
+\ru Хотя бы спросил, куда пропала (корзина).
+\ph
+\gr ehni as a particle, not the negative verb
+\nt
+
+\id Zaxarova_JP_pear_story_025
+\ref 2:26, JPZ
+\tx Tarčal         bụọlla   grušaw     dʒebkendʒur            ieltenidnen.
+\mb tarak -čEn -L  buollaγïna gruša -W   dʒeb -KEn -dʒUr        ielten -RI  -tEn
+\ge dist  -dim  -pl dp.Y         pear.R -acc eat   -dim -ins.prefl.pl pass   -pst -poss.3pl
+
+\ft And those walked by eating pears.
+\ru А эти прошли кушая груши.
+\ph
+\gr
+\nt cf. Krivoshapkina_childhood_64: the Converb consisting of the Augmentative plus Poss.Refl.Instr. for "doing, of big people", and the
+converse, Diminutive plus Poss.Refl.Instr. for "doing, for small people"
+
+\id Zaxarova_JP_pear_story_026
+\ref 2:30; JPZ
+\tx Tarak, ọddan.
+\mb tarak  ọd -R(E)   -n(I)
+\ge dist   stop -nonfut -3sg
+\ft That's all.
+\ru Это все.
+\ph
+\gr
+\nt
+\qu

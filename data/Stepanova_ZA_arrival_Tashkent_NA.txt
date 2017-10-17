@@ -1,0 +1,699 @@
+\_sh v3.0  1136 Text
+
+\id Stepanova_ZA_arrival_Tashkent_000_metadata
+\ref Recorded on 23 February 2010 in Sebjan-Küöl by Natalia Aralova and Brigitte Pakendorf. ZAS somewhat unexpectedly came to the flat
+where NA and BP are staying - we'd expected her the evening before, when she hadn't come on account of the rather watchful dog that
+belongs to the owner of the flat. We were therefore not fully prepared, hurriedly set up the recording equipment - and as it turned out after
+50 minutes of recording, accidentally hadn't started the video recording properly. The video was recorded in a mpeg format to the memory
+card of the Sony handycam, so the quality of the recording is rather low - which is a great pity, because ZAS was very animated and used a
+lot of gestures, especially in the beginning. The entire session therefore was transcribed only with the Marantz sound files (recorded in
+mono). Overall, it was very quiet, at most a fly might be heard buzzing around the table. The session consists of one long recording of over
+50 minutes in which ZAS touched upon various topics, often turning from one to the other without much pause. To facilitate the further
+workflow (transcription, translation, glossing) we cut up the sound file into 5 separate files that are archived separately. In some cases the
+cut is made at a slightly arbitrary point, but in general the individually archived sessions deal with separate topics. This is the second section
+of the recording session - somewhat artificially cut off after about 4 minutes.
+\qu Transcribed by Ekaterina Igorevna Shadrina (pen and paper), transcribed in ELAN by NA, Russian translation by Ija Vasil'evna Krivoshapkina, glossing
+by NA. Funding by Volkswagen Foundation (DoBeS grant). Speaker abbreviation = ZAS.
+\ref Zoja Afanas'evna Stepanova was 60 years old at time of recording, primary school teacher, social pedagogue (socpedagog) and leader of
+folklore ensemble Merlenke, very much in favour of literary/standard Even language, feels that there are not many differences between
+different dialects, mutual intelligibility, very much against all the mixing of Even and Sakha here in Sebjan (“eto ne Lamunxinskij govor”),
+very interested in Even folklore and language. Sister of Afanasij Afanas'evič Stepanov
+\tx
+
+\id Stepanova_ZA_arrival_Tashkent_001
+\tx Tarịt omneken,       ịaw,     Taškendụla    ọːn heredʒeːki           ịadakụ(n)               dʒi.
+\mb tarịt omen -REkEn    ịak -W   Taškent -(dU)LE ọːn hor -E  -ČEk -J       ịa    -DE       -W        diː
+\ge then    one  -iter.adv what  -acc Tashkent -loc    how    go  -ep -nr   -prfl.sg do.what -purp.cvb -poss.1sg ptl.Y
+
+\ft Let me do (tell), how I went to Tashkent once.
+\ph
+\gr i -- reflexive, heredʒeːkur -- как мы поехали.   ịadakụn -- давай я что-то сделаю. herdeku(n) -- давай я пойду, n часто выпадает. Heredʒeːki
+dʒugulin is also possible, and other nominalizations with -dʒeːk/dʒaːk can be combined both with ọːn and with dʒugulin. Ọńadʒaːk --
+risovanie, ọːn ọːńadʤaːkụ / ọńadʒakụ dʒugulin -- kak ja risoval. 
+\ru Потом, однажды как я поехала в Ташкент сделаю (расскажу).
+\ELANBegin 00:00:00.430
+\ELANEnd 00:00:05.340
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_002
+\tx Adị    anŋanịlkan bihiw?
+\mb adịː  anŋan -lkEn  bi -RI  -W
+\ge how.much year   -prop  be -pst -poss.1sg
+
+\ft How old was I?
+\ph bihiːːːw
+\ru Сколько мне лет было?
+\ELANBegin 00:00:05.340
+\ELANEnd 00:00:07.910
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_003
+\tx Nosegčen bihiw             dʒi.
+\mb nosegčen bi -RI  -W        diː
+\ge young     be -pst -poss.1sg ptl.Y
+
+\ft I was young.
+\ru Молодая была.
+\ELANBegin 00:00:07.910
+\ELANEnd 00:00:09.590
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_004
+\tx Pọdrụgaw          eːrin      minu,        emni          goːniken.
+\mb pọdrụga -W        eːri -n(I) min     -W   em   -LI      goːn -nIkEn
+\ge friend.R    -poss.1sg call  -3sg  1sg.obl -acc come -imp.2sg say   -sim.cvb
+
+\ft My friend invited me, saying "Come".
+\ph
+\gr eːrin -- Nonfuture from eːridej, PST is eːririn "invited"
+\ru Подружка меня пригласила, "Приезжай" говоря. 
+\ELANBegin 00:00:09.590
+\ELANEnd 00:00:12.870
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_005
+\tx Tarịt dụkran            dụkandụlaj                 ečin      goːnni,    ečin      ịača,        ọńača:
+\mb tarịt dụk -R(E)   -n(I) dụk -E  -n  -(dU)LE -J       erroːčin goːn -n(I) erroːčin ịa    -čE    ọńa -čE
+\ge then    write -nonfut -3sg  write -ep -nr -loc    -prfl.sg prox.qual  say   -3sg  prox.qual  do.what -pf.ptc draw   -pf.ptc
+
+\ft So she wrote in her letter, said it, did somewhat, draw:
+\ru Потом написала в письме, так сказала, так сделала что-то, нарисовала:
+\ELANBegin 00:00:12.870
+\ELANEnd 00:00:20.000
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_006
+\tx Pọrtla          emdʒinni,      emnidʒi      avtọvọkzalla       emdʒinni,      avtọvọkzaldụk    erroːčin
+\mb pọrt    -(dU)LE em   -DʒI -nrI em   -RIdʒI  avtọvọkzal -(dU)LE em   -DʒI -nrI avtọvọkzal -DUk(U) erroːčin
+\ge airport.R -loc    come -fut  -2sg come -ant.cvb bus.station.R  -loc    come -fut  -2sg bus.station.R  -abl    prox.qual
+
+\tx trollejbusla          tewdʒinni.
+\mb trollejbus   -(dU)LE  tew   -DʒI -nrI
+\ge trolleybus.R -loc     catch -fut  -2sg
+
+\ft You will come to the airport, having come, you will go to the bus station, from the bus station you will take a trolleybus.
+\ru Приедешь в аэропорт, приехав, на автовокзал пойдешь, с автовокзала на такой троллейбус сядешь. 
+\ELANBegin 00:00:20.000
+\ELANEnd 00:00:26.790
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_007
+\tx Tarịt ele          ilegul               ostanovka bidʒin,       tadụk       avtọbụsla       tewdʒinni,      tarịt
+\mb tarịt erek -(dU)LE irek  -(dU)LE =(W)Ul ostanovka bi -DʒI -n(I) tarak -DUk(U) avtọbụs -(dU)LE tew   -DʒI -nrI tarịt
+\ge then    prox -loc    which -loc    =indef stop.R    be -fut  -3sg  dist  -abl    bus.R       -loc    catch -fut  -2sg then
+
+\tx ele          emdʒinni,      goːniken      dʒi.
+\mb erek -(dU)LE em   -DʒI -nrI goːn -nIkEn   diː
+\ge prox -loc    come -fut  -2sg say   -sim.cvb ptl.Y
+
+\ft There will be a busstop somewhere, you have to take a bus from there, then you will come here, saying.
+\ph towdʒinni
+\ru Потом здесь где-то остановка будет, потом в автобус сядешь,  потом cюда придешь, говоря.
+\ELANBegin 00:00:26.790
+\ELANEnd 00:00:32.100
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_008
+\tx Tarịt biː ịaram,             herehnem,           tarakam       ehemde                ŋeːlle,
+\mb tarịt biː ịa    -R(E)   -m   hor -E  -s(E)n -m   tarakam       e   -R(E)   -m   =DE  ŋeːl    -R
+\ge then    1sg  do.what -nonfut -1sg go  -ep -lim   -1sg in.those.days neg -nonfut -1sg =ptl be.afraid -neg.cvb
+
+\tx ehemde                ịar,           tarakam       bej họːja biwrerin,                bejel      aj
+\mb e   -R(E)   -m   =DE  ịa    -R       tarakam       bej họːja bi -Gr(E) -RI  -n(I)     bej -E-L   aj
+\ge neg -nonfut -1sg =ptl do.what -neg.cvb in.those.days man many     be -hab   -pst -poss.3sg man -ep-pl good
+
+\tx biwreritne
+\mb biː -Gr(E) -RI  -tEn
+\ge 1sg  -hab   -pst -poss.3pl
+
+\ft So I did, I went, I was't afraid in that time, I did'n do, in those days there were a lot of people, people were good.
+\ph
+\ru Тогда я сделала, поехала, я тогда не боялась, не делала, тогда было много людей, люди были хорошие.
+\ELANBegin 00:00:32.100
+\ELANEnd 00:00:42.780
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_009
+\tx Krasnojarskajla       emnem.            Krasnojarskajla       zaderžka ọːdnị.
+\mb Krasnojarskaj -(dU)LE em   -R(E)   -m   Krasnojarskaj -(dU)LE zaderžka ọː  -n(I)
+\ge Krasnojarsk   -loc    come -nonfut -1sg Krasnojarsk   -loc    delay.R   become -3sg
+
+\ft I stopped in Krasnojarsk, there was a delay in Krasnojarsk.
+\ph
+\gr all Russian nouns ending with -sk get -aj in Even. So, Krasnojarsk is Krasnojarskaj, Yakutsk is Jakutskaj.
+\ru В Красноярске остановилась, задержка была.
+\ELANBegin 00:00:42.780
+\ELANEnd 00:00:47.840
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_010
+\tx Biː čemodami           emekettidʒi,          dʒe   talị        gịrkatnịkan,      ŋiːde    biː
+\mb biː čemodan   -J       emeːn -kEČ -RIdʒI   dʒe   tarak -(dU)LI gịrka -Č  -nIkEn   ŋiː =DE  biː
+\ge 1sg  suitcase.R -prfl.sg leave  -mult -ant.cvb  well.Y dist  -prol   walk    -res -sim.cvb who   =ptl 1sg
+
+\tx čemodamụ               ehni              nọːdar,        ŋiːde    biden                  emeːnŋerem.
+\mb čemodan   -W   -W        e   -R(E)   -n(I) nọːda -R       ŋiː =DE  bi -DE       -n(I)     emeːn -Gr(E) -R(E)   -m
+\ge suitcase.R -acc -poss.1sg neg -nonfut -3sg  throw    -neg.cvb who   =ptl be -purp.cvb -poss.3sg leave  -hab   -nonfut -1sg
+
+\ft Having left my suitcase, I was walking there, nobody thew (left) my suitcase, I left it to anybody. 
+\ph
+\gr there is a mismatch between čemodami (which is just one suitcase) and emekettidʒi (which refers to a multitude of objects, in this case the
+suitcase); if she left many suitcases, it should be "čemodalbị emekettidʒi", but it is a common enough 'mistake' that this was not noticed as
+being terribly wrong by IVK
+\ru Оставив свой чемодан, там прогуливаясь, никто мой чемодан не бросал, кому угодно я оставляла.
+\ELANBegin 00:00:47.840
+\ELANEnd 00:00:56.990
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_011
+\tx Anï  biː hatlaw                 họːjakeː   passažịral:
+\mb anï  biː hat  -(dU)LE -W        họːja =kE   passažịr -E-L
+\ge now.Y 1sg  base -loc    -poss.1sg many     =emph passenger.R -ep-pl
+
+\ft There were a lot of passengers close to me.
+\ph
+\gr Ija translates anï as also (еще)
+\ru Рядом со мной много пассажиров.
+\ELANBegin 00:00:56.990
+\ELANEnd 00:00:59.550
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_012
+\tx "Devuška,  prismotrite,      požalujsta," -- goːnteken      emeːnŋer         čemodalbur             bekeččeːmen.
+\mb devuška    prismotrite       požalujsta      goːn -ntEkEn   emeːn -Gr(E) -r   čemodan   -L  -WUr     bekeč -čEn -W   -E-n(I)
+\ge young.woman keep.an.eye.Imp.R please.R      say      -mult.cvb leave  -hab   -3pl suitcase.R -pl -prfl.pl all    -dim  -acc -ep-poss.3sg
+
+\ft "Miss, could you keep an eye, please," -- saying, they left all their suitcases.
+\ph
+\gr čemodalbur  bekečemen -- no number agreement -- plural of reflexive and singular of possesor. The correct form would be čemodalbụr
+bekeččemụtnen or čemodalbị bekeččemen.
+\nt
+\qu
+\ru "Девушка, присмотрите, пожалуйтса," -- говоря, оставляли все свои чемоданы.
+\ELANBegin 00:00:59.550
+\ELANEnd 00:01:05.640
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_013
+\tx Tar   biː tegekke(rem),                tala          dʒe   aːnŋačaddịdʒị,                    rejhi,            honte
+\mb tarak biː teg      -E-Č   -Gr(E) -m   tarak -(dU)LE dʒe   aːnŋa            -Č  -E-D     -RIdʒI  rejs     -J       honte
+\ge dist  1sg  sit.down -ep-res -hab   -1sg dist  -loc    well.Y stop.for.the.night -res -ep-prog -ant.cvb flight.R -prfl.sg other
+
+\tx rejhu         boːče      bihem.
+\mb rejs     -W   boː -čE    bi -R(E)   -m
+\ge flight.R -acc give -pf.ptc be -nonfut -1sg
+
+\ft I was sitting, I spent a hight there, my flight, I gave another flight.
+\ph anŋaddịdʒị aŋŋa? 
+\gr
+\nt Neither our translator, nor me we couldn't understand, what was meant by giving another flight.
+\qu
+\ru Я сижу, переночевав там, свой рейс,  другой рейс дала.
+\ELANBegin 00:01:05.640
+\ELANEnd 00:01:13.090
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_014
+\tx Tarịt pọdrụgaw          tar   rejhu         bakaldanamị                  emče,       emneken                      rejs
+\mb tarịt pọdrụga -W        tarak rejs     -W   bak  -(E)ldE -nE     -mI       em   -čE    em   -REk -E-n(I)            rejs
+\ge then    friend.R    -poss.1sg dist  flight.R -acc find -soc    -intent -cond.cvb come -pf.ptc come -cond.cvb -ep -poss.3sg flight.R
+
+\tx emče        -- biː ačča.
+\mb em   -čE       biː ačča
+\ge come -pf.ptc    1sg  neg
+
+\ft
+\ph
+\gr
+\nt bakaldadaj -- meet someone, bakaldamattaj -- meet each other. Let's meet! -- bakaldamaččịp!
+\qu
+\ru Потом подруга моя пришла этот рейс встречать, когда она пришла, рейс пришел -- я нет.
+\ELANBegin 00:01:13.090
+\ELANEnd 00:01:20.790
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_015
+\tx Tarịt, eńenni          dọlbaniw          kọŋdọs keweniken     eče        huklehemkene:
+\mb tarịt  eńin  -n(I)     dọlbanị -E-W    kọŋdas   kewe -nIkEn   e   -R(E)   hukle -s(E)n -WkEn -R
+\ge then     mother -poss.3sg night       -ep-acc through     jaw  -sim.cvb neg -nonfut sleep -lim   -caus -neg.cvb
+
+\ft After that her mother didn't let her sleep, jawing at her the whole night:
+\ru Потом мать ее не дала спать, всю ночь ругая:
+\ELANBegin 00:01:20.790
+\ELANEnd 00:01:25.730
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_016
+\tx "Ịadaj                   tarak asatkam      ŋaːttịs,          eːriris             hiː, ilegul
+\mb ịa    -DE -J             tarak asatkan -W   ŋaːt -RI  -s(I)     eːri -RI  -s(I)     hiː  irek  -(dU)LE =(W)Ul
+\ge do.what -purp.cvb -prfl.sg dist  girl    -acc call   -pst -poss.2sg call  -pst -poss.2sg 2sg   which -loc    =indef
+
+\tx beripteken                          ọːn nekčip           taraw".
+\mb beriː -B   -REk      -E  -n(I)     ọːn nek -DʒI -p      tarak -W
+\ge lose   -med -cond.cvb -ep -poss.3sg how    do  -fut  -1pl.in dist  -acc
+
+\ft "Why did you invite your friend? if she get lost, what will we do?"
+\ph
+\gr ịadaj is not the same, that ịamị: ịamị is why 'what is the reason' (pochemu?) ịadaj is 'for what purpose' (zachem?)
+\nt
+\qu
+\ru "Зачем пригласила девушку? Если она где-нибудь потеряется, что мы будем с эти делать?"
+\ELANBegin 00:01:25.730
+\ELANEnd 00:01:31.880
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_017
+\tx Bi   tarak bejelbu         ọːkta    eču               itte,        fotokartočkatńun,       tar
+\mb biː tarak bej -E-L   -W   ọːk =DE  e   -RI  -W        it  -R       fotokartočka -Č  =ńUn  tarak
+\ge 1sg  dist  man -ep-pl -acc when   =ptl neg -pst -poss.1sg see -neg.cvb photo.R       -ins =restr dist
+
+\tx ejmen                     boobscheda        ehem             haːr.
+\mb eńin  -W   -E  -n(I)     voobsče     =DE  e   -R(E)   -m   haː -R
+\ge mother -acc -ep -poss.3sg in.general.R =ptl neg -nonfut -1sg know -neg.cvb
+
+\ft I hadn't ever seen those people, only on the photos, I didn't know her mother at all.
+\ph ohom har
+\gr
+\nt
+\ru Я этих людей никогда не видела, только на фотографиях, вот мать вообще не знаю.
+\ELANBegin 00:01:31.880
+\ELANEnd 00:01:37.370
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_018
+\tx "Ịadaj                   eːriris,            tarak mụlańake           asatkan ile           herren,"         --
+\mb ịa    -DE -J             eːri -RI  -s(I)     tarak mụlań  -(h)E =kE   asatkan irek  -(dU)LE hor -R(E)   -n(I) -*-
+\ge do.what -purp.cvb -prfl.sg call  -pst -poss.2sg dist  feel.pity -excl =emph girl    which -loc    go  -nonfut -3sg  - -
+
+\tx goːniken.
+\mb goːn -nIkEn
+\ge say   -sim.cvb
+
+\ft "Why did you invite her, where will this poor girl go?" -- saying.
+\ph mụlańake
+\ru "Почему пригласила, теперь девушка куда пойдет?" -- говорит.
+\ELANBegin 00:01:37.370
+\ELANEnd 00:01:41.340
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_019
+\tx Dọlbanịw        kọŋdas eče        huklehemken        hụnaːdʒị.
+\mb dọlbanị -E-W    kọŋdas e   -R(E)   hukle -s(E)n -WkEn hụnaːdʒ -J
+\ge night       -ep-acc through   neg -nonfut sleep -lim   -caus daughter    -prfl.sg
+
+\ft The whole night she didn't let her daughter sleep.
+\ph
+\gr eče huklehemken(e) minu / hụnaːdʒụ ;   eče huklere/ huklehne.. I was wondering, if there was a negative converb marker on huklehemken.
+It seems not to be obligatory (there is no e in the text, but Ija said it could be).
+\nt
+\qu
+\ru Всю ночь не давала спать дочке.
+\ELANBegin 00:01:41.340
+\ELANEnd 00:01:44.780
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_020
+\tx Ile           biː emnem,            badʒịkar, hatarhị-ee          badʒịkar, tara, ịak, ehni
+\mb irek  -(dU)LE biː em   -R(E)   -m   badʒịkar  hatarsị -E    -E    badʒịkar  tarak ịak  e   -R(E)   -n(I)
+\ge which -loc    1sg  come -nonfut -1sg morning      dark      -excl -excl morning      dist  what   neg -nonfut -3sg
+
+\tx goːlie              ńamgịda tor   --  juk,    tala,         hatarsị dọlbanịl       ehni.
+\mb goːn -LI      -E    ńam -gIdE tor   -*- jug     tarak -(dU)LE hatarsị dọlbanị -E-L   e   -R(E)   -n(I)
+\ge say   -imp.2sg -excl warm -part earth - - South.R dist  -loc    dark      night       -ep-pl neg -nonfut -poss.3sg
+
+\ft I came in the morning, it was very dark, really, it's a warm side, in the south nights are dark.
+\ph hataraki -- hatarhi talaːːː
+\gr Negative verb ehni is used here as an affirmative particle.
+\nt
+\qu
+\ru Я приехала утром, темным утром, правда, там же теплая сторона -- юг, там темные же ночи.
+\ELANBegin 00:01:44.780
+\ELANEnd 00:01:57.290
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_021
+\tx Badʒịkar elekes   ịhrakat,                       talị        ịak hiedden,                   ńolten
+\mb badʒịkar elekes   ịs  -REk      -E  -t(I)        tarak -(dU)LI ịak hie    -D    -R(E)   -n(I) ńolten
+\ge morning     at.first reach -cond.cvb -ep -poss.1pl.in dist  -prol   what  appear -prog -nonfut -3sg  sun
+
+\tx hiedden.
+\mb hie    -D     -R(E)   -n(I)
+\ge appear -prog  -nonfut -3sg
+
+\ft In the morning, when we came, the sun was rising.
+\ph toːli = talị
+\gr
+\nt
+\ru Утром когда добрались, там что-то появляется, солнце появляется.
+\ELANBegin 00:01:57.290
+\ELANEnd 00:02:02.630
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_022
+\tx Hokekieː,       hokekieː,       ńoːrem           vọkzalla,       ee nọnan  tara
+\mb hok    -E  =kE   hok    -E  =kE   ńoː -R(E)   -m   vọkzal  -(dU)LE ee nọnan  tarak
+\ge be.hot -ep =emph be.hot -ep =emph exit  -nonfut -1sg station.R -loc    eh at.first dist
+
+\tx edlen                  ńoltin edlen                  hiere           giehrikken.
+\mb e   -dle     -n(I)     ńolten e   -dle     -n(I)     hie    -R       gier -RI        -kkEn
+\ge neg -trm.cvb -poss.3sg sun     neg -trm.cvb -poss.3sg appear -neg.cvb cool -impf.ptc  -dim
+
+\ft Hot, hot, I got off at the station, before, when there was no sun, it had been cool.
+\ph
+\ru Жарко, жарко, вышла на вокзале, сначала, когда солнца не было, прохладненько.
+\ELANBegin 00:02:02.630
+\ELANEnd 00:02:12.260
+\ELANParticipant
+
+\id  Stepanova_ZA_arrival_Tashkent_023
+\tx Tarịt amarra         hokellen,                     rejh     ehem             haːra        vọkzal, ọmŋaram           ọːn, ọːn
+\mb tarịt amar   -(dU)LE hok    -E  -L    -R(E) -n(I)  rejs     e   -R(E)   -m   haː -R       vọkzal  ọmŋa -R(E)   -m   ọːn  ọːn
+\ge then    behind -loc    be.hot -ep -inch -nonfut -3sg flight.R neg -nonfut -1sg know -neg.cvb station.R forget  -nonfut -1sg how     how
+
+\tx herenneji                ọmŋaridʒi    meːne   ịlačịddakụ,                            omen taksịst     --
+\mb hor -E-nnE      -J       ọmŋa -RIdʒI  meːne   ịl     -E-Č   -E-D     -REk      -W        omen taksịst
+\ge go  -ep-nec.ptc -prfl.sg forget  -ant.cvb simply.Y stand.up -ep-res -ep-prog -cond.cvb -poss.1sg one  taxi.driver.R
+
+\tx etikemeje      emnen,             hawdị, uzbek   etikenni:
+\mb etikeːn -mEjE em   -R(E)   -n(I) hagdị  uzbek   etikeːn -n(I)
+\ge old.man  -aug  come -nonfut -3sg  old      Uzbek.R old.man  -poss.3sg
+
+\ft It became warm after that, I forgot, where I had to go, when I was simply standing, having forgotten it, a taxi driver -- an old man --  came to
+me, an old one,  an uzbek old man. 
+\ph ọmŋaram = ọmŋọrọm 
+\gr
+\nt
+\qu  
+\ru Потом уже потеплело,  я забыла, как я должна была идти, когда я просто стояла, забыв, один таксист-старик пришел, старый,
+старик-узбек.
+\ELANBegin 00:02:12.260
+\ELANEnd 00:02:24.910
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_024
+\tx "Devuška,  Vam       kuda?" -- goːnni.
+\mb devuška    Vam       kuda      goːn -n(I)
+\ge young.woman you.Dat.R where.R   say   -3sg
+
+\ft "Where are you going?" -- he sais.
+\ru "Девушка, Вам куда?" -- говорит.
+\ELANBegin 00:02:24.910
+\ELANEnd 00:02:26.880
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_025
+\tx Bọrụọsta, goːnidʒi,    adrehu       goːnem:           Sarïkul'skaja irekkol      gerbe bihin.
+\mb bọrụọsta  goːn -RIdʒI  adres   -W   goːn -R(E)   -m   Sarïkul'skaja irek  =(W)Ul gerbe bi -RI  -n(I)
+\ge simple.Y        say   -ant.cvb address -acc say   -nonfut -1sg Sarïkul'skaja which =indef name  be -pst -poss.3sg
+
+\ft I just said the adress: 
+\ph irekkul
+\qu
+\ru Просто адрес сказала: Сарыкульская какая-то.
+\ELANBegin 00:02:26.880
+\ELANEnd 00:02:33.210
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_026
+\tx "Tala,        herrep,"            -- goːnem.
+\mb tarak -(dU)LE hor -R(E) -p           goːn -R(E)   -m
+\ge dist  -loc    go  -nonfut -1pl.in    say   -nonfut -1sg
+
+\ft "Let's go," -- I said.
+\ru "Поехали," -- говорю.
+\ELANBegin 00:02:33.210
+\ELANEnd 00:02:34.800
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_027
+\tx Dʒe   herehnep.
+\mb dʒe   hor -E-s(E)n -R(E) -p
+\ge well.Y go  -ep-lim  -nonfut -1pl.in
+
+\ft We went.
+\ru Поехали.
+\ELANBegin 00:02:34.800
+\ELANEnd 00:02:36.540
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_028
+\tx Herehnidʒi             tarak etikeŋu,               tarak adrehu       ehni              haːr.
+\mb hor -E  -s(E)n -RIdʒI  tarak etikeːn -ŋ  -W        tarak adres   -W   e   -R(E)   -n(I) haː -R
+\ge go  -ep -lim   -ant.cvb dist  old.man  -aln -poss.1sg dist  address -acc neg -nonfut -3sg  know -neg.cvb
+
+\ft We went, but this old man doesn't know this address.
+\ru Поехали, оказывается, этот старик не знает адреса.
+\ELANBegin 00:02:36.540
+\ELANEnd 00:02:41.250
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_029
+\tx Ili           talị        biweːčiddidʒur,               bejtenduk          ulgimisčin,
+\mb irek  -(dU)LI tarak -(dU)LI bi -WEːČ -E-D     -RIdʒI -L   bej -tEn   -DUk(U) ulgim -I    -sčI  -n(I)
+\ge which -prol   dist  -prol   be -gnr    -ep-prog -ant.cvb -pl man -distr -abl    ask   -ipf? -conat -3sg
+
+\tx ulgimisčin:
+\mb ulgim -i      -sčI  -n(I)
+\ge ask   -ipf??? -conat -3sg
+
+\ft Having been everywhere, he tried to aks, tried to ask everybody.
+\ph ulgumisčin!!!
+\gr ulgumisčin is Nonfuture,  ulgimisčirin is PST
+\nt
+\qu  
+\ru Повсюду побывав, пытался спрашивать, пытался спросить  у каждого человека.
+\ELANBegin 00:02:41.250
+\ELANEnd 00:02:47.600
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_030
+\tx "Gde    takaja     ulica    Sara..." Nikto  ne   zna...  [laughter]
+\mb gde     takaja     ulica             Nikto  ne   *z  -DE laughter
+\ge where.R such.Fem.R street.R          nobody no.R *** -vr laughter
+
+\ft "Where is this street?" Nobody knows... 
+\ru "Где такая улица?" Никто не зна...
+\ELANBegin 00:02:47.600
+\ELANEnd 00:02:50.880
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_031
+\tx Ŋiːde    ehni              haːhmagụ.
+\mb ŋiː =DE  e   -R(E)   -n(I) haː -m   -R       =GU
+\ge who   =ptl neg -nonfut -3sg  know -des -neg.cvb =q
+
+\ft Or nobody wants to know.
+\ph
+\gr
+\nt
+\qu
+\ru Или никто не хочет знать.
+\ELANBegin 00:02:50.880
+\ELANEnd 00:02:52.360
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_032
+\tx Tarịt dʒe   herrep              e,   orienri... herrep              ọttọn tara  ilegul,              bakča       tar
+\mb tarịt dʒe   hor -R(E) -p        erek            hor -R(E) -p        ọttọn tarak irek  -(dU)LE =(W)Ul bak  -čE    tarak
+\ge then    well.Y go  -nonfut -1pl.in prox            go  -nonfut -1pl.in dp.Y      dist  which -loc    =indef find -pf.ptc dist
+
+\tx Sarïkul'skaja ulicaw.
+\mb Sarïkul'skaja ulica    -W
+\ge Sarïkul'skaja street.R -acc
+
+\ft So we went, went, he found somwhere this Sarykul'skaja street.
+\ph Tareeet 
+\ru Поехали, поехали, нашел где-то вот Сарыкульскую улицу.
+\ELANBegin 00:02:52.360
+\ELANEnd 00:02:59.430
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_033
+\tx Tarịt omen ahị heredden,                  ńụč  ahịn,         ńọːbatị bụlatalkan          ahị, tadụ,
+\mb tarịt omen asị hor -E-D     -R(E)   -n(I) ńụča asị -n(I)     ńọːbatị bụlat     -E  -lkEn asị  tarak -DU
+\ge then    one  woman go  -ep-prog -nonfut -3sg  Russian  woman -poss.3sg white         headscarf.Y -ep -prop woman  dist  -dat
+
+\tx ečin      eŋenidʒi,        taksịdụkụj         eŋenidʒi:
+\mb erroːčin eŋen     -RIdʒI  taksị -DUk(U) -J       eŋen     -RIdʒI
+\ge prox.qual  come.look -ant.cvb taxi.R  -abl    -prfl.sg come.look -ant.cvb
+
+\ft A woman was going, a Russian woman with a white headscarf, so having looked out of his taxi, having looked out:
+\ph
+\gr
+\nt bụlatalkan is a borrowing from Russian trough Sakha. It is not entirely clear who looked from the taxi, but because of the reflexive, it
+should be a taxist. 
+\ru Потом одна женщина шла, русская женщина, с белым платком, так выглянув, из своего такси выглянув:
+\ELANBegin 00:02:59.430
+\ELANEnd 00:03:09.410
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_034
+\tx "Ile          bihni            Sarïkul'skaja ulica?" -- goːniken,     ulgimitni.
+\mb irek  -(dU)LE bi -R(E)   -n(I) Sarïkul'skaja ulica      goːn -nIkEn   ulgim -I    -n(I)
+\ge which -loc    be -nonfut -3sg  Sarïkul'skaja street.R   say   -sim.cvb ask   -ipf? -3sg
+
+\ft "Where is the Sarakoljskaja street?" -- he asks.
+\ph
+\gr
+\nt I was a little bit confused, why he asks about the street, if they found it in the sentance 32, but apparentky now the speaker is describing,
+how the found the street.
+\ru " Где улица Сарыкульская?" -- спрашивает.
+\ELANBegin 00:03:09.410
+\ELANEnd 00:03:13.710
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_035
+\tx Tara  asatkan taraw      emuddeŋmen:                           "Aaaa!"
+\mb tarak asatkan tarak -W   em   -U    -DEŋ    -W   -E  -n(I)     aa
+\ge dist  girl    dist  -acc come -caus -pst.ptc -acc -ep -poss.3sg ah
+
+\ft Thia woman ...... "Aaaa!"
+\ph umuddeŋmen ?? umudemŋen?
+\gr
+\nt umuddeŋmen is something she carried.... absolutely not clear what it means in this context... 
+\qu
+\ev
+\ru Эта женщина на это ??? "Аааа!"
+\ELANBegin 00:03:13.710
+\ELANEnd 00:03:16.470
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_036
+\tx Tarak ahịŋụ,          oreldetni:
+\mb tarak asị -ŋ  -W        orelde   -n(I)
+\ge dist  woman -aln -poss.1sg be.happy -3sg
+
+\ft This woman was happy.
+\ru Женщина обрадавалась.
+\ELANBegin 00:03:16.470
+\ELANEnd 00:03:19.450
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_037
+\tx "Oo, asatkaŋat                    emnen              ehni              erek!" -- goːnteken      dʒi.
+\mb oo   asatkan -ŋ  -E  -t(I)        em   -R(E)   -n(I) e   -R(E)   -n(I) erek      goːn -ntEkEn   diː
+\ge oh   girl    -aln -ep -poss.1pl.in come -nonfut -3sg  neg -nonfut -3sg  prox      say   -mult.cvb ptl.Y
+
+\ft "The girl has come," -- saying.
+\ev
+\ru "Девушка наша приехала, вот, " -- сказала.
+\ELANBegin 00:03:19.460
+\ELANEnd 00:03:23.840
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_038
+\tx Tutten,           er   bihni,           tar   bihni            goːnteken      ičukenni.
+\mb tut -R(E)   -n(I) erek bi -R(E)   -n(I) tarak bi -R(E)   -n(I) goːn -ntEkEn   it  -WkEn -n(I)
+\ge run -nonfut -3sg  prox be -nonfut -3sg  dist  be -nonfut -3sg  say   -mult.cvb see -caus -3sg
+
+\ft She runs, "here, here" saying, she shows.
+\ru Бежит, "вот здесь" говоря, показывает.
+\ELANBegin 00:03:23.840
+\ELANEnd 00:03:28.770
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_039
+\tx Okazyvaetsja, ečin      tarak ọkrụgaw          bekeččeːmen                 ukčenčel,        rastrezvonili:
+\mb Okazyvaetsja  erroːčin tarak ọkrụga      -W   bekeč -čEn -W   -E-n(I)      ukčen -čE -L     rastrezvonili
+\ge it.appears.R  prox.qual  dist  neighbourhood.R -acc all    -dim  -acc -ep-poss.3sg tell   -pf.ptc -pl it.was.spread.R
+
+\ft They told everyone in the whole neighbourhod. 
+\ph
+\gr bekeččemen is a form of bekeč... but why is there two č? Ija proposed an idea, that če is a form of augmentative -jE... Cf.
+Stepanova_ZA_arrival_Tashkent_044 dʒụː beketčenni "vesj dom"
+\nt
+\ru Оказывается, на всю округу рассказали, растрезвонили.
+\ELANBegin 00:03:28.770
+\ELANEnd 00:03:36.890
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_040
+\tx "Erek asatkan emedniken,             Jakutijadụk    emedniken              beripče..."        [laughter]
+\mb erek  asatkan em   -E-D     -nIkEn   Jakutija -DUk(U) em   -E-D     -nIkEn   beriː -B   -čE    laughter
+\ge prox  girl    come -ep-prog -sim.cvb Yakutia  -abl    come -ep-prog -sim.cvb lose   -med -pf.ptc laughter
+
+\ft The girl, comming from Yakutija, got lost...
+\ru Эта деевушка, в поездке, в поездке из Якутии, пропала..
+\ELANBegin 00:03:36.890
+\ELANEnd 00:03:40.930
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_041
+\tx Dʒe,  "ečin     ŋiːgul     haːmị       ịaŋahnan"                goːniken.
+\mb dʒe   erroːčin ŋiː =(W)Ul haː -mI       ịa    -ŋE      -sEn      goːn -nIkEn
+\ge well.Y prox.qual  who   =indef know -cond.cvb do.what -nmdl.cvb -poss.2pl say   -sim.cvb
+
+\ft "If anybody knows (about her), tell us," -- saying.
+\ru "Если кто- то знает, сделайте ... (передайте)" -- говоря.
+\ELANBegin 00:03:40.930
+\ELANEnd 00:03:43.180
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_042
+\tx Dʒe   tala,         ọːkkọl   haːdaŋị            bejgečin     eri ịakkụl   mm  bejel
+\mb dʒe   tarak -(dU)LE ọːk =(W)Ul haː -DEŋ    -J       bej -G(E)čIn     ịak =(W)Ul mm  bej -E-L
+\ge well.Y dist  -loc    when   =indef know -pst.ptc -prfl.sg man -sml          what  =indef mhm man -ep-pl
+
+\tx dʒaːlgačịmị,             tarak asị oreldetnieː.
+\mb dʒaː   -L  -G(E)čIn -J       tarak asị orelde   -n(I) =eː
+\ge relative -pl -sml      -prfl.sg dist  woman be.happy -3sg  =emph
+
+\ft This woman was so happy like (she met) someone, she knew somewhen, like her relatives.
+\ph ọːkkụl dʒaːlgačịmị/ dʒaːlgịčịmị??  ereldetneeː
+\gr
+\ru Там эта женщина обрадовалась как будто людей, которых она знает, как своих родственников.
+\ELANBegin 00:03:43.180
+\ELANEnd 00:03:51.930
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_043
+\tx Tarịt dʒe   emutni           ele          emureku                        dʒụː ečin      omen egdʒemeje    dʒụː,
+\mb tarịt dʒe   em   -U    -n(I) erek -(dU)LE em -U      -REk      -W        dʒụː erroːčin omen egdʒen -mEjE dʒụː
+\ge then    well.Y come -caus -3sg  prox -loc    come -caus -cond.cvb -poss.1sg house    prox.qual  one  big     -aug  house
+
+\tx tarịt ečin      ịakkụl   ed lesnicen,      padrụgačakamụ                    tutten:
+\mb tarịt erroːčin ịak =(W)Ul    lestnice -n(I) podruga      -čEn -KEn     -W        tut -R(E)   -n(I)
+\ge then    prox.qual  what  =indef    ladder.R -3sg  girlfriend.R -dim  -dim.int -poss.1sg run -nonfut -3sg
+
+\ft She entered a house, such a big house, with stairs, my friend was running:
+\ph tuttooon 
+\gr emureku -- When I bring/brought somebody... So Ija guess, ZAS meant emneku -- when I came there.
+\ru В дом привела, когда в дом вошла, в один такой большой дом, что-то лестница, бежит подружка.
+\ELANBegin 00:03:51.930
+\ELANEnd 00:04:02.140
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_044
+\tx "Zoja, --  goːnteken,     --  nakonets-to!" goːnteken,     họː oreldetni,     eńenni   bo,      tok er   dʒụː
+\mb Zoja   -*- goːn -ntEkEn   -*- nakonets-to   goːn -ntEkEn   họː orelde   -n(I) eńin  -n(I)     *bo   erek dʒụː
+\ge Zoja   - - say   -mult.cvb - - at.the.end    say   -mult.cvb very   be.happy -3sg  mother -poss.3sg ***   prox house
+
+\tx beketčenni            hagarakie            oo. [laughter]
+\mb bekeč -čEn -n(I)     hagar    -(h)E =kE   oo  laughter
+\ge all    -dim  -poss.3sg be.noisy -excl =emph oh  laughter
+
+\ft "Zoja, she said, at the end!" she said, she was  very happy, her mother, it became very loud in the whole house. 
+\ph ereldetni
+\nt
+\ru "Зоя, -- говорит, наконец-то!" -- говорит, очень обрадовалась, мать , в доме все так громко стало.
+\ELANBegin 00:04:02.140
+\ELANEnd 00:04:11.510
+\ELANParticipant
+
+\id Stepanova_ZA_arrival_Tashkent_045
+\tx Tarịt, dʒe,  dʒebuken,  dʒebukenidʒur,         dʒe   huklehemken.
+\mb tarịt  dʒe   dʒeb -WkEn dʒeb -WkEn -RIdʒI -L   dʒe   hukle -s(E)n -WkEn
+\ge then     well.Y eat   -caus eat   -caus -ant.cvb -pl well.Y sleep -lim   -caus
+
+\ft After that they fed me, having fed, they let me go to sleep.
+\ph Tareet
+\gr dʒebuken, huklehemken -- 3PL (like goːn-), the form of 3Sg would be dʒebukenni and huklehemkenni.
+\nt
+\ru Потом, накормили, накормив, уложили спать.
+\ELANBegin 00:04:11.510
+\ELANEnd 00:04:16.600
+\ELANParticipant 
+
+
+\ELANMediaURL file:///C:/NatAr/Sebyan2010/Marantz-Sound_Tetxs/Stepanova_ZA_arrival_Tashkent.wav
+\ELANMediaMIME audio/x-wav

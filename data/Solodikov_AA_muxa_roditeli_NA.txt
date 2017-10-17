@@ -1,0 +1,475 @@
+\_sh v3.0  1042 Text
+
+\id Solodikov_AA_muxa_roditeli_000_metadata
+\ref Recorded on 02 July 2009 in Central Kamchatka by Natalia Aralova and Brigitte Pakendorf. This session was made in a
+reindeer herd. Since we were sitting in a small yurt, the tripod couldn't be used, so NA was holding the camera and BP was
+holding the microphone. There were five people in the yurt: NA, BP, Anatolij Afanasjevich, Gennadij Afanasjevich and a
+young herdsman Pavel who flapped in front of camera. This session consists of four recordings: tabun_1, tabun_2,
+muxa_roditeli, bearhunt. When we turned off all our devices, Anatolij Afanasjevich told a hunting story about a bear and
+agreed to retell it in Even, so it was the last story we recorded with him.
+\qu ????Transcribed by NA with Valentina Innokent'evna Axmetova, translated into Russian by VIA, glossed by NA. Funding by the
+Volkswagen Foundation (DoBeS grant). Speaker abbreviation = AAS
+\ref Anatolij Afanas'evich Solodikov was born in February 1956, so he was 53 at the time of the recording. He finished 8 years of
+school and then worked in the reindeer herd as a herder all his life. He was married to Valentina Innokent'evna Axmetova and is
+the brother of Gennadij Afanasevich Solodikov. He passed away in July 2016.
+\tx
+
+\id Solodikov_AA_muxa_roditeli_001
+\tx Russian
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:04.970
+\ELANParticipant
+\ev
+\ru
+
+\id Solodikov_AA_muxa_roditeli_002
+\tx Dilikeːn degsin,            kilebu       bakrin.
+\mb dilikeːn deg -RI  -n(I)     kilieb  -W   bak  -RI  -n(I)
+\ge fly       fly -pst -poss.3sg bread.R -acc find -pst -poss.3sg
+
+\ft
+\ph diγsin
+\ELANBegin 00:00:04.970
+\ELANEnd 00:00:09.560
+\ELANParticipant
+\ev
+\ru Муха летела, хлеб нашла.
+
+\id Solodikov_AA_muxa_roditeli_003
+\tx Dọːrịn,          dʒeptin             nanda       degellin.
+\mb dọː -RI  -n(I)     dʒep -RI -n(I)      ńaːn =DE  deg -E  -L    -RI  -n(I)
+\ge land   -pst -poss.3sg eat   -pst -poss.3sg and    =ptl fly -ep -inch -pst -poss.3sg
+
+\ft
+\ph dʒiptin
+\ELANBegin 00:00:09.560
+\ELANEnd 00:00:13.640
+\ELANParticipant
+\ev
+\ru Села, поела, опять полетела.
+
+\id Solodikov_AA_muxa_roditeli_004
+\tx tịka
+\mb tịka
+\ge all
+
+\ELANBegin 00:00:13.640
+\ELANEnd 00:00:14.860
+\ELANParticipant
+\ev
+\ru Всё.
+
+\id Solodikov_AA_muxa_roditeli_005
+\tx Čeledʒi          nan.
+\mb čele -DʒI        ńaːn
+\ge all   -ins.prfl.sg and
+\ft
+\ph
+\gr 05.02.13 (questions10, 54:15) čeledʒur = vse vmeste; čeledʒi = vse, čeleńdʒedʒur = vse vse vse vmeste, basically the same as
+čeleńdʒedʒi
+\ELANBegin 00:00:14.860
+\ELANEnd 00:00:15.920
+\ELANParticipant
+\ev
+\ru Все вот.
+
+\id Solodikov_AA_muxa_roditeli_006
+\tx Russian
+\ELANBegin 00:00:15.920
+\ELANEnd 00:00:41.977
+\ELANParticipant
+\ev
+\ru
+
+\id Solodikov_AA_muxa_roditeli_007
+\tx Ọrọtịč     eńtelsi.
+
+\ELANBegin 00:00:41.977
+\ELANEnd 00:00:46.293
+\ELANParticipant BP
+\ev
+\ru По-эвенски твои родители.
+
+\id Solodikov_AA_muxa_roditeli_008
+\tx -- ten              dʒugulin                teːleŋnille
+
+\ft
+\ELANBegin 00:00:46.293
+\ELANEnd 00:00:49.504
+\ELANParticipant BP
+\ev
+\ru
+
+\id Solodikov_AA_muxa_roditeli_009
+\tx laughter
+\ELANBegin 00:00:49.504
+\ELANEnd 00:00:56.238
+\ELANParticipant
+\ev
+\ru
+
+\id Solodikov_AA_muxa_roditeli_010
+\tx Teːleŋelle          eńtilbur
+\mb teːleŋ -E  -(LI)lrE eńtil  -WUr
+\ge story    -ep -imp.2pl parents -prfl.pl
+
+\ft Tell about your parents.
+\ph
+\nt this is obviously a correction of what BP had said
+\ELANBegin 00:00:56.238
+\ELANEnd 00:01:00.242
+\ELANParticipant
+\ev
+\ru
+
+\id Solodikov_AA_muxa_roditeli_011
+\tx Eńtilbun            ọrọčịl     bisiten           dʒoːridʒur.
+\mb eńtil  -WUn         ọrọč -E  -L  bi -RI  -tEn      dʒoːr -NI   -dʒUr
+\ge parents -poss.1pl.ex Oroch     -ep -pl be -pst -poss.3pl two     -coll -ins.prfl.pl
+
+\ELANBegin 00:01:00.242
+\ELANEnd 00:01:06.313
+\ELANParticipant
+\ev
+\ru Родители были эвенами оба.
+
+\id Solodikov_AA_muxa_roditeli_012
+\tx Ekmun               leningradla         upkuttin.
+\mb eken   -WUn         Leningrad   -(dU)LE hupkut -RI  -n(I)
+\ge mother -poss.1pl.ex Leningrad.R -loc    learn  -pst -poss.3sg
+
+\ELANBegin 00:01:06.313
+\ELANEnd 00:01:09.950
+\ELANParticipant
+\ev
+\ru Мать в Ленинграде училась.
+
+\id Solodikov_AA_muxa_roditeli_013
+\tx Nan    tadụk       eweski         emnin,              gurgewčirin               sekretarem      selsovetle.
+\mb ńaːn tarak -DUk(U) erek -skI      em   -RI  -n(I)     gurgeːwči -RI  -n(I)     sekretarem      selsovet          -(dU)LE
+\ge and    dist  -abl    prox -advb.all come -pst -poss.3sg work        -pst -poss.3sg secretary.ins.R Soviet.of.village -loc
+
+\ELANBegin 00:01:09.950
+\ELANEnd 00:01:18.481
+\ELANParticipant
+\ev
+\ru Потом сюда приехала, работала секретарем в сельсовете.
+
+\id Solodikov_AA_muxa_roditeli_014
+\tx Akmụn             upkuttidʒi     nan    kusinteki     orrin              Japonija
+\mb akan   -WUn         hupkut -RIdʒI  ńaːn kusin -t(E)kI hor -RI  -n(I)     Japonija
+\ge father -poss.1pl.ex learn  -ant.cvb and    war   -all    go  -pst -poss.3sg Japan.R
+
+\tx Paramụšịrụ   ostrowu       Šum-šu.
+\mb Paramụšịr -W   ostrow   -W   Šum-šu
+\ge Paramushir     -acc island.R -acc Shum-shu
+
+\ft
+\ph urrin
+\gr
+\nt
+\ELANBegin 00:01:18.481
+\ELANEnd 00:01:29.609
+\ELANParticipant
+\ev
+\ru Отец, проучившись, уехал на войну ....
+
+\id Solodikov_AA_muxa_roditeli_015
+\tx Gaddin                    japom...
+\mb ga   -D    -RI  -n(I)     japon      -W
+\ge take -prog -pst -poss.3sg Japanese.R -acc
+\ft
+\ph
+\gr 05.02.13 (questions10, 55:50) gaddịn = bral on, not quite clear how one should imagine this progressive taking of a prisoner
+\nt
+\ELANBegin 00:01:29.609
+\ELANEnd 00:01:32.380
+\ELANParticipant
+\ev
+\ru Взял японца.
+
+\id Solodikov_AA_muxa_roditeli_016
+\tx Nan    tar   ọddịdʒị nan    Twajaːntakị   orrin.
+\mb ńaːn tarak ọd -RIdʒI   ńaːn Twajaːn -t(E)kI hor -RI  -n(I)
+\ge and    dist  stop -ant.cvb  and    Twajaːn -all    go  -pst -poss.3sg
+
+\ft
+\ph  urrin
+\ELANBegin 00:01:32.380
+\ELANEnd 00:01:37.760
+\ELANParticipant
+\ev
+\ru Ну а когда закончил, уехал в Тваян.
+
+\id Solodikov_AA_muxa_roditeli_017
+\tx Tadụ     gurgeːwčillin                  sekretar    pervičnoj    komsomoljskoj  organizatsii.
+\mb tarak -DU  gurgeːwči -L    -RI  -n(I)     sekretar    pervičnoj    komsomoljskoj  organizatsii
+\ge dist  -dat work        -inch -pst -poss.3sg secretary.R primary.gen.R Komsomol.gen.R organization.gen.R
+\ft
+\ph
+\gr
+\nt he says "a kak oni togda" before sekretar....
+\ELANBegin 00:01:37.760
+\ELANEnd 00:01:48.511
+\ELANParticipant
+\ev
+\ru С тех пор стал работать секретарем первичной комсомольской организации.
+
+\id Solodikov_AA_muxa_roditeli_018
+\tx Russian
+\ELANBegin 00:01:48.511
+\ELANEnd 00:01:56.155
+\ELANParticipant
+\ev
+\ru
+
+\id Solodikov_AA_muxa_roditeli_019
+\tx Pereizbrallakatan                  gurgewčinarin                     ọrtakị,               tarapčị  ereger ọrdụ
+\mb pereizbral -REk      -E  -tEn      gurgeːwči -nE     -RI  -n(I)     ọrọn          -t(E)kI tarak -pčI ereger ọrọn          -DU
+\ge reelect.R  -cond.cvb -ep -poss.3pl work        -intent -pst -poss.3sg domestic.reindeer -all    dist  -advr always domestic.reindeer -dat
+
+\tx pensijakla         ọrdụ               gurgewčirin.
+\mb pensija   -klE     ọrọn          -DU  gurgeːwči -RI  -n(I)
+\ge pension.R -all.loc domestic.reindeer -dat work        -pst -poss.3sg
+
+\ft
+\ph  orteki
+\ELANBegin 00:01:56.155
+\ELANEnd 00:02:04.033
+\ELANParticipant
+\ev
+\ru Когда переизбрали, он уехал работать в табун и с тех пор до пенсии работал в табуне.
+
+\id Solodikov_AA_muxa_roditeli_020
+\tx Russian
+\ELANBegin 00:02:04.033
+\ELANEnd 00:02:12.106
+\ELANParticipant
+\ev
+\ru
+
+\id Solodikov_AA_muxa_roditeli_021
+\tx eńtil  ...  eńtilis             dʒugulin ịak, ịaw      ịawda
+
+\ELANBegin 00:02:12.106
+\ELANEnd 00:02:23.520
+\ELANParticipant BP
+\ev
+\ru Родители, твои родители... что.. что-нибудь.
+
+\id Solodikov_AA_muxa_roditeli_022
+\tx teːleŋni,       teːleŋni
+\mb teːleŋ -LI      teːleŋ -LI
+\ge tell     -imp.2sg tell     -imp.2sg
+
+\ELANBegin 00:02:23.520
+\ELANEnd 00:02:25.067
+\ELANParticipant
+\ev
+\ru Расскажи, расскажи.
+
+\id Solodikov_AA_muxa_roditeli_023
+\tx laughter .   ịaw      teːleŋdʒim?
+\mb laughter *.  ịak -W   teːleŋ -DʒI -m
+\ge laughter *** what  -acc tell     -fut  -1sg
+
+\ELANBegin 00:02:25.067
+\ELANEnd 00:02:29.175
+\ELANParticipant
+\ev
+\ru Что мне рассказывать?
+
+\id Solodikov_AA_muxa_roditeli_024
+\tx Russian
+\ELANBegin 00:02:29.175
+\ELANEnd 00:02:40.108
+\ELANParticipant
+\ev
+\ru
+
+\id Solodikov_AA_muxa_roditeli_025
+\tx Nọŋartan ile           amalkariwun ...-kariten, bakaldariten?
+
+\ft
+\ph
+\gr
+\nt BP produces wrong form amalkariwun (1Pl instead of 3Pl), corrects herself saying another verb ending -kariten. The last verbal form is correct.
+\ELANBegin 00:02:40.108
+\ELANEnd 00:02:51.340
+\ELANParticipant BP
+\ev
+\ru Они где познакомились, встретились?
+
+\id Solodikov_AA_muxa_roditeli_026
+\tx Edu       Anavgajdu    bakaldarịtan.
+\mb erek -DU  Anavgaj -DU  bak  -(E)ldE -RI -tEn
+\ge prox -dat Anavgai -dat find -soc    -pst -poss.3pl
+
+\ELANBegin 00:02:51.340
+\ELANEnd 00:02:58.984
+\ELANParticipant
+\ev
+\ru Здесь в Анавгае встретились.
+
+\id Solodikov_AA_muxa_roditeli_027
+\tx Kụŋal    bimi         uŋniten           ụkal, aːriten            meːr     dọːlịwụr
+\mb kụŋa -L  bi -mI       uŋ -RI  -tEn      ụkal  haː -RI  -tEn      meːn -L  dọː -(dU)LI -WUr
+\ge child   -pl be -cond.cvb do  -pst -poss.3pl already know -pst -poss.3pl refl  -pl inside -prol   -prfl.pl
+
+\ft When they were children they already knew each other.
+\ph
+\gr 31.01.13 (questions9, 37:00) meːr doːlịwụr = mezhdu soboj, e.g. meːr dọːlịwụr toremečidden = mezhdu soboj razgovarivajut,
+one could say meːr dọːlịwụr aːmattịtan = mezhdu soboj znalisj (which would make it seem like there's a reciprocal missing on the
+'know'), though then she said "ili meːr dọːlịwụr aːrịtan", so this does seem to be OK
+\ELANBegin 00:02:58.984
+\ELANEnd 00:03:05.796
+\ELANParticipant
+\ev
+\ru Когда детьми были, знали друг друга.
+
+\id Solodikov_AA_muxa_roditeli_028
+\tx Nan    kusin ọdčalan                  nan    uŋniten,          etikelberiten.
+\mb ńaːn kusin ọd -čE    -(dU)LE -n(I)  ńaːn uŋ -RI  -tEn      etikeːn -LbE -RI  -tEn
+\ge and    war   stop -pf.ptc -loc -poss.3sg and    do  -pst -poss.3pl old.man  -vr  -pst -poss.3pl
+
+\ELANBegin 00:03:05.796
+\ELANEnd 00:03:17.158
+\ELANParticipant
+\ev
+\ru Война кончилась, они поженились.
+
+\id Solodikov_AA_muxa_roditeli_029
+\tx Nan    dʒoːridʒur              tar   ọrdụla                gurgewčidditen                  ereger.
+\mb ńaːn dʒoːr -NI   -dʒUr       tarak ọrọn          -(dU)LE gurgeːwči -D    -RI  -tEn      ereger
+\ge and    two     -coll -ins.prfl.pl dist  domestic.reindeer -loc    work        -prog -pst -poss.3pl always
+
+\ft
+\ph dʒuːridʒur
+\gr
+\ELANBegin 00:03:17.158
+\ELANEnd 00:03:21.500
+\ELANParticipant
+\ev
+\ru Потом оба все время работали в табуне.
+
+\id Solodikov_AA_muxa_roditeli_030
+\tx Nan    bu     bakụrịwụn.
+\mb ńaːn buː   bakụ  -RI -WUn
+\ge and    1pl.ex be.born -pst -poss.1pl.ex
+
+\ELANBegin 00:03:21.500
+\ELANEnd 00:03:24.893
+\ELANParticipant
+\ev
+\ru Потом мы родились.
+
+\id Solodikov_AA_muxa_roditeli_031
+\tx Nan    tara
+\mb ńaːn tarak
+\ge and    dist
+
+\ELANBegin 00:03:24.893
+\ELANEnd 00:03:27.610
+\ELANParticipant
+\ev
+\ru Ну и все.
+
+\id Solodikov_AA_muxa_roditeli_032
+\tx laughter adị    kụŋal    bak..
+
+\ELANBegin 00:03:27.610
+\ELANEnd 00:03:36.151
+\ELANParticipant BP
+\ev
+\ru Сколько детей род.. ?
+
+\id Solodikov_AA_muxa_roditeli_033
+\tx Digen bisiwun.
+\mb digen bi -RI -WUn
+\ge four  be -pst -poss.1pl.ex
+
+\ELANBegin 00:03:36.151
+\ELANEnd 00:03:38.244
+\ELANParticipant
+\ev
+\ru Нас было четверо.
+
+\id Solodikov_AA_muxa_roditeli_034
+\tx Ịlan ńarị, umen asị.
+\mb ịlan ńarị  omen asị
+\ge three  boy      one  woman
+
+\ft
+\ph umen 
+\ELANBegin 00:03:38.244
+\ELANEnd 00:03:41.117
+\ELANParticipant
+\ev
+\ru Три пацана, одна девочка.
+
+\id Solodikov_AA_muxa_roditeli_035
+\tx Ụnaːdʒịtan,         Sveta gerben          bisin,            ńoːmeːrin.
+\mb hụnaːdʒ -E  -tEn      Sveta gerbe -n(I)     bi -RI -n(I)      ńoːmeː -RI  -n(I)
+\ge daughter    -ep -poss.3pl Sveta name  -poss.3sg be -pst -poss.3sg die       -pst -poss.3sg
+
+\ft
+\ph unadʒiten, ńoːmerin.
+\gr
+\nt
+\ELANBegin 00:03:41.117
+\ELANEnd 00:03:48.124
+\ELANParticipant
+\ev
+\ru Дочка, Светой звали, умерла.
+
+\id Solodikov_AA_muxa_roditeli_036
+\tx Nuːwun                      agdịwụn          ńoːmeːrin,            Artem bisin.
+\mb noː            -WUn         hagdị -WUn         ńoːmeː -RI  -n(I)     Artem bi -RI  -n(I)
+\ge younger.sibling -poss.1pl.ex old     -poss.1pl.ex die       -pst -poss.3sg Artem be -pst -poss.3sg
+
+\ft
+\ph
+\gr
+\nt Artem was the older brother, he just made a mistake in saying nuːwun
+\ph aγdiwun, ńoːmerin.
+\ELANBegin 00:03:48.124
+\ELANEnd 00:03:52.570
+\ELANParticipant
+\ev
+\ru Младший брат у нас был, Артем.
+
+\id Solodikov_AA_muxa_roditeli_037
+\tx Bu     er   dʒoːkerin  ụlaːptịwụn
+\mb buː   erek dʒoːkerin  hụlaː -B   -RI -WUn
+\ge 1pl.ex prox two.together leave    -med -pst -poss.1pl.ex
+
+\ft
+\ph dʒukerin
+\ELANBegin 00:03:52.580
+\ELANEnd 00:03:58.771
+\ELANParticipant
+\ev
+\ru Нас двое осталось.
+
+\id Solodikov_AA_muxa_roditeli_038
+\tx Tịka
+\mb tịka
+\ge all
+
+\ELANBegin 00:03:58.771
+\ELANEnd 00:04:01.140
+\ELANParticipant
+\ev
+\ru Все.
+
+\id Solodikov_AA_muxa_roditeli_039
+\tx Vsje. Spasibo.
+\ELANBegin 00:04:01.150
+\ELANEnd 00:04:04.998
+\ELANParticipant
+\ev
+\ru Все. Спасибо.
+
+
+\ELANMediaURL file:///C:/NatAr/kamchatka2009/Kamchatka_texts/Audio_from_video/Solodikov_AA_muxa_roditeli_020709.wav
+\ELANMediaMIME audio/x-wav

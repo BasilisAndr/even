@@ -1,0 +1,122 @@
+\_sh v3.0  984  Text
+
+\id elicitation_080312_quest2_01
+\ref
+\gr I had noticed for a long time that there were pairs of verbs with the same/similar meaning, where one had a suffix -čI, and
+I do think after eliciting it with IVK that one should postulate a new "durative" suffix
+\nt
+\gr of course, at first glance one might think that this -čI is just a variant of the resultative -Č; however, the resultative form
+of mịan- "be surprised" (which doesn't exist) should be mịanat-, and not mịaŋčị-
+\nt
+\gr however, it should probably be a suffix not -čI, but rather -(k)čI, because there is neː- and neːkči-, and several of the verbs
+ending in -n (like mịan-) are then -ŋčI, e.g. mịaŋčị-
+\nt
+\gr another argument in favour of a new suffix is that you cannot have two resultatives following on each other, but there is
+the form ọːčịt- 'repair, renovate' derived from ọː- 'make' -, which has a resultative -t, so that the -čị should be something
+else (in this form, obviously, there's also an element of lexicalization, because ọːčị- doesn't exactly mean "make for a long
+time"
+
+\id elicitation_080312_quest2_02
+\ref
+\tx dʒọndaj
+\mb dʒọn  -DE       -J
+\ge remember -purp.cvb -prfl.sg
+
+\ru вспомнить, мне сейчас приходит в голову
+\ref
+\tx dʒọŋčịdaj
+\mb dʒọŋčị -DE       -J
+\ge remember      -purp.cvb -prfl.sg
+\ru держать в памяти
+
+\id elicitation_080312_quest2_03
+\ref
+\tx dekindej
+\mb dekin      -DE       -J
+\ge hide(intr) -purp.cvb -prfl.sg
+
+\ru спрятаться (1 раз)
+\ref
+\tx dekinčidej
+\mb dekinči -DE       -J
+\ge hide     -purp.cvb -prfl.sg
+\ru прятаться, долго
+
+\id elicitation_080312_quest2_04
+\ref
+\tx mịandaj
+\mb mịan       -DE       -J
+\ge be.surprised -purp.cvb -prfl.sg
+
+\ru удивиться 1 раз
+\ref
+\tx mịaŋčịdaj
+\mb mịaŋčị -DE       -J
+\ge be.surprised -purp.cvb -prfl.sg
+\ru удивляться долго
+
+\gr comment in dictionary database with verb mịaŋčị: I don't know how to relate this to 'mian', which Robbek translates with
+the sovershennyj vid in Russian, and this one with nesovershennyj vid. Which would make -GCHI a suffix deriving
+imperfectives?
+
+\id elicitation_080312_quest2_05
+\ref
+\tx emčidej
+\mb emči         -DE       -J
+\ge migrate.alone -purp.cvb -prfl.sg
+\ft
+\gr this is NOT derived from em- 'come', but probably from omen, since it means to migrate on one's own (or at most with
+one's nuclear family), not together with all the others
+
+\id elicitation_080312_quest2_06
+\ref
+\tx neːdej
+\mb neː -DE       -J
+\ge put  -purp.cvb -prfl.sg
+\ru положить
+\ref
+\tx neːkčidej
+\mb neːkči -DE       -J
+\ge keep     -purp.cvb -prfl.sg
+\ru (хранить долго)
+
+\id elicitation_080312_quest2_07
+\ref
+\tx oreldedej
+\mb orelde   -DE       -J
+\ge be.happy -purp.cvb -prfl.sg
+\ru обрадоваться (1 раз)
+\ref
+\tx oreŋčidej
+\mb oreŋči      -DE       -J
+\ge be.very.happy -purp.cvb -prfl.sg
+\ru радоваться
+
+\tx orendej
+\mb oren     -DE       -J
+\ge be.happy -purp.cvb -prfl.sg
+\ru обрадоваться
+
+\id elicitation_080312_quest2_08
+\ref
+\tx orindej
+\mb orin        -DE       -J
+\ge set.up.camp -purp.cvb -prfl.sg
+\ru поставить стойбище
+\ref
+\tx oriŋčidej
+\mb oriŋči    -DE       -J
+\ge set.up.camp -purp.cvb -prfl.sg
+\ru жить стойбищем
+
+\id elicitation_080312_quest2_09
+\ref
+\tx ọːdaj
+\mb ọː -DE       -J
+\ge make  -purp.cvb -prfl.sg
+\ref
+\tx ọːčịdaj
+\mb ọː -(k)čI -DE       -J
+\ge make  -dur    -purp.cvb -prfl.sg
+
+\ft renovate

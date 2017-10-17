@@ -1,0 +1,595 @@
+\_sh v3.0  984  Text
+
+\id SlepcovaNA_her-class_000_metadata
+\ref Recorded on 20 Feb 2008 in Sebjan-Küöl by Brigitte Pakendorf. In school, in the afternoon, in the kabinet zavuča. Zavuč
+was present, as was Ekaterina Igorovna Shadrina, who sat opposite Slepcova during recording. Children were running
+and jumping by outside the door in the corridor – audible on recording; NAS had prepared what she would say
+beforehand, written notes, but didn’t read them off, used them as prompt
+\qu Transcribed by Brigitte Pakendorf with the help of Slepcova's written notes, Russian translation by Ija Vasil'evna Krivo�apkina,
+glossed by BP. Funding by Max Planck Society (MPRG on Comparative Population Linguistics). Speaker abbreviation = NASlep
+\ref Natal'ja Arxipovna is 44 years old, a primary school teacher (but vysshee obrazovanie?), born in Segen-Küöl, but moved
+to Sebjan at age 5years
+\tx
+
+\id SlepcovaNA_her-class_01
+\ref 0:41
+\tx Biː ukčendʒim       meːn kụŋačaːlbị          dʒuguliten.
+\mb biː ukčen -DʒI -m   meːn kụŋa -čEn -L  -J       dʒugu -(dU)LI -tEn
+\ge 1sg  tell   -fut  -1sg refl  child   -dim  -pl -prfl.sg about  -prol   -poss.3pl
+
+\ft I will tell about my (little) children (i.e. those in her class).
+\ru Я расскажу про своих детишек.
+\ph
+\gr
+\nt
+
+\id SlepcovaNA_her-class_02
+\ref 0:47
+\tx Biː klasslawụ               mịan dʒoːr hupkuttil            tatta,            ńuŋen ọmọlgakkar,
+\mb biː klass   -(dU)LE -W        mịan dʒoːr hupkut -RI       -L  tat   -R(E)       ńuŋen ọmọlga -kkEn -L
+\ge 1sg  class.R -loc    -poss.1sg ten    two     learn  -impf.ptc -pl learn -nonfut.3pl six     boy        -dim  -pl
+
+\tx ńuŋen ahatkačar.
+\mb ńuŋen asatkan -čEn -L
+\ge six     girl    -dim  -pl
+
+\ft In my class there are 12 pupils, 6 boys, 6 girls.
+\ru В моем классе учатся 12 учащихся, 6 мальчшек, 6 девчонек.
+\gr Ekaterina Shadrina corrected the transcription (made by Slepcova herself? - it's not a very accurate transcription, perhaps
+it was her notes that she used for the narrative?) to ọmọlgakkaL and ahatkačaL --> this is obviously the local PL, at least
+Shadrina herself does not use the PL in -r, only -l.
+
+\id SlepcovaNA_her-class_03
+\ref 0:54
+\tx Họː ịbgọl    kụŋakkal,      hupkučekur           ajaːwra.
+\mb họː ịbgọ -L  kụŋa -kkEn -L  hupkut -ČEk -WUr     ajaːw -R(E)
+\ge very   good     -pl child   -dim  -pl learn  -nr   -prfl.pl love   -nonfut.3pl
+
+\ft Very good kiddies, they love their studies.
+\ru Очень хорошие детишки, любят свою учебу.
+\ph
+\gr Note the agreement in number between adjective and noun --> literaturnoe!
+
+\id SlepcovaNA_her-class_04
+\ref 0:58
+\tx Tiekereptuk          meroprijatijaldulede,          kružokaldụlada
+\mb tiek -(E)rEp -DUk(U) meroprijatija -L  -(dU)LE =DE  kružok  -E-L   -(dU)LE =DE
+\ge now  -adjr   -abl    events.R      -pl -loc    =ptl circle.R -ep-pl -loc    =ptl
+
+\tx biweːkkerer.
+\mb bi -WEːČ -Gr(E)      -r
+\ge be -gnr    -hab.nonfut -3pl
+
+\ft From this time they take part in events and in after class groups.
+\ru С этих пор ходят и на мероприятия, и на кружки.
+\ph
+\gr
+\nt
+
+\id SlepcovaNA_her-class_05
+\ref 1:03
+\tx Tačịn,      kụŋa ansambəllatan              bihe,          Merlenke ńan   Họgịn gerbe.
+\mb tarọːčịn kụŋa ansambl.R -(dU)LE -tEn      bi -R(E)       Merlenke ńaːn Họgịn gerbe
+\ge dist.qual      child   group.R   -loc    -poss.3pl be -nonfut.3pl Merlenke again  Hogin     name
+\ft So, they take part in the children's (dancing and singing) groups called Merlenke and Hogin.
+\ru Так, находятся в детских ансамблях, называющихся М и Х.
+\ph
+\gr merlenke = podsnezhnik (nurguhun), họgịn = ochre
+\nt
+
+\id SlepcovaNA_her-class_06
+\ref 1:12
+\tx Merlenkele       biweːkkerer                Kejmetinova Snežana ńan   Kejmetinova Polina,
+\mb Merlenke -(dU)LE bi -WEːČ -Gr(E)      -r   Kejmetinova Snežana ńaːn Kejmetinova Polina
+\ge Merlenke -loc    be -gnr    -hab.nonfut -3pl Kejmetinova Snezhana again  Kejmetinova Polina
+
+\tx Semenova Marina.
+\mb Semenova Marina
+\ge Semenova Marina
+
+\ft In Merlenke take part Snezhana Kejmetinova and Polina Kejmetinova, Marina Semenova.
+\ru В мерленке ходят...
+\ph
+\gr
+
+\id SlepcovaNA_her-class_07
+\ref 1:19
+\tx Họgịndụla   - Pavlova Ajta ńan   Krivošapkina Ugulana.
+\mb Họgịn -(dU)LE - Pavlova Ajta ńaːn Krivošapkina Ugulana
+\ge Hogin     -loc    - Pavlova Ajta again  Krivoshapkina Ugulana
+\ft In Hogin Ajta Pavlova and Ugulana Krivoshapkina (take part).
+\ru В хогине . ....
+\ph
+\gr
+\nt
+
+\id SlepcovaNA_her-class_08
+\ref 1:26
+\tx Kụŋakkal       ńan   ọńarịwụr           họːč    ajaːwra.
+\mb kụŋa -kkEn -L  ńaːn ọńa -RI       -WUr     họː -Č  ajaːw -R(E)
+\ge child   -dim  -pl and    draw   -impf.ptc -prfl.pl very   -res love   -nonfut.3pl
+
+\ft The kiddies also love to draw.
+\ru Детишки еще очень любят рисовать.
+\ph
+\gr
+
+\id SlepcovaNA_her-class_09
+\ref 1:30
+\tx Klassdụ    junij   xudožnik, noste ọńačamŋa        gerbe kružokla
+\mb klass   -DU  junij   xudožnik  noste ọńa -Č  -E-mŋE  gerbe kružok  -(dU)LE
+\ge class.R -dat young.R artist.R   young draw   -res -ep-agnr name  circle.R -loc
+
+\tx biweːkkerer                Kejmetinova Snežana, Pavlova Ajta.
+\mb bi -WEːČ -Gr(E)      -r   Kejmetinova Snežana  Pavlova Ajta
+\ge be -gnr    -hab.nonfut -3pl Kejmetinova Snezhana  Pavlova Ajta
+
+\ft In the class Snezhana Kejmetinova and Ajta Pavlova take part in the after class group "young artist".
+\ru В классе в кружок "юний художник" ходят...
+\ph
+\gr the form ọńačamŋa is not correct, "ọńamŋa" would be the correct form.
+\nt
+
+\id SlepcovaNA_her-class_10
+\ref 1:39
+\tx Anglijskej   torem          hupkutte.
+\mb anglijskij.R tore  -n  -W   hupkut -R(E)
+\ge English.R    speak -nr -acc learn  -nonfut.3pl
+
+\ft They learn English.
+\ru Изучают английский язык. 
+\nt
+
+\id SlepcovaNA_her-class_10b
+\ref
+\tx Talawụr              kružokla        biweːkkerer           haːn kụŋal.
+\mb tarak -(dU)LE -WUr     kružok  -(dU)LE bi -WEːČ -Gr(E) -r   haːn kụŋa -L
+\ge dist  -loc    -prfl.pl circle.R -loc    be -gnr    -hab   -3pl some  child   -pl
+\ft Some children go to that after class group.
+\ru Некоторые дети ходят туда на кружок.
+
+\id SlepcovaNA_her-class_11
+\ref 1:50
+\tx Ńan   origami gerbele       biweːkkerer,               bumagaduk       degikkelbu
+\mb ńaːn origami gerbe -(dU)LE bi -WEːČ -Gr(E)      -r   bumaga  -DUk(U) degi -kkEn -L  -W
+\ge again  origami name  -loc    be -gnr    -hab.nonfut -3pl paper.R -abl    bird -dim  -pl -acc
+
+\tx delgenkelbu         ọːwrar.
+\mb dʒelgenke -L  -W   ọː  -Gr(E)      -r
+\ge animal     -pl -acc become -hab.nonfut -3pl
+
+\ft And they also go to the (group) called Origami, they make birds and animals out of paper.
+\ru И еще ходят на оригами, из бумаги делают птичек и животных.
+\ph
+\gr
+\nt dʒelgenke = zhivotnoe, literaturnoe, here they say "kïːl"....
+
+\id SlepcovaNA_her-class_12
+\ref 1:57
+\tx Tar   kružokla        Efremov Nikita, Stepanov Nikita gerbe ọmọlgakkar
+\mb tarak kružok  -(dU)LE Efremov Nikita  Stepanov Nikita gerbe ọmọlga -kkEn -L
+\ge dist  circle.R -loc    Efremov Nikita  Stepanov Nikita name  boy        -dim  -pl
+
+\tx biweːkkerer.
+\mb bi -WEːČ -Gr(E)      -r
+\ge be -gnr    -hab.nonfut -3pl
+
+\ft In that after class group Nikita Efremov and Nikita Stepanov take part.
+\ru На этот кружок ходят мальчишки по имени ... 
+\ph
+
+\id SlepcovaNA_her-class_13
+\ref 2:02
+\tx Kụŋalbụ          dʒaːldụlatan               dʒugulin                ukčenehmem,           kotlenette.
+\mb kụŋa -L  -W        dʒaː   -L  -(dU)LE -tEn      dʒugu -(dU)LI -n(I)     ukčen -E-m    -E-m    kotlen -E-Č   =DE
+\ge child   -pl -poss.1sg relative -pl -loc    -poss.3pl about  -prol   -poss.3sg tell   -ep-des -ep-1sg small  -ep-ins =ptl
+
+\ft I want to tell a bit about the parents of my children.
+\ru Хочу маленько рассказать об родителях моих детей.
+\ph
+\gr
+\nt kụŋalbụ dʒaːltan dʒugulitnen - would be the correct way to say it.
+
+\id SlepcovaNA_her-class_14
+\ref 2:06
+\tx Mut    dʒaːldụlat                 melodist   bisni,           Stepanov Alkviad Spiridonovič.
+\mb mut    dʒaː   -L  -(dU)LE -t(I)     melodist   bi -R(E)   -n(I) Stepanov Alkviad Spiridonovič
+\ge 1pl.in relative -pl -loc -poss.1pl.in composer.R be -nonfut -3sg  Stepanov Alkviad Spiridonovich
+
+\ft Amongst our parents is a composer, Alkviad Spiridonovich Stepanov.
+\ru Среди наших родителей есть мелодист.
+\ph
+\gr
+\nt
+\qu
+
+\id SlepcovaNA_her-class_15
+\ref 2:11
+\tx Họː haːwrị             bej ele          mut    Sebjandulet,                Sebjandulet.
+\mb họː haː -W     -RI       bej erek -(dU)LE mut    Sebjan -(dU)LE -t(I)        Sebjan -(dU)LE -t(I)
+\ge very   know -advrs -impf.ptc man prox -loc    1pl.in Sebjan -loc    -poss.1pl.in Sebjan -loc    -poss.1pl.in
+
+\ft A very famous person here, in our Sebjan.
+\ru Очень известный здесь человек, в нашем Себяне.
+\ph
+\gr
+
+\id SlepcovaNA_her-class_16
+\ref 2:15
+\tx Kristina Stepanova  gerbe amannị.
+\mb Kristina Stepanova  gerbe aman   -n(I)
+\ge Kristina Stepanova  name  father -poss.3sg
+\ft The father of Kristina Stepanova.
+\ru Отец КС
+
+\id SlepcovaNA_her-class_17
+\ref 2:18
+\tx Polina Kejmetinova eńenni          stadala        gurgeːwčini,    Kejmetinova Ljubov
+\mb Polina Kejmetinova eńin  -n(I)     stado  -(dU)LE gurgeːwči -n(I) Kejmetinova Ljubov
+\ge Polina Kejmetinova mother -poss.3sg herd.R -loc    work        -3sg  Kejmetinova Ljubov
+
+\tx Fedorovna gerbe.
+\mb Fedorovna gerbe
+\ge Fedorovna name
+
+\ft The mother of Polina Kejmetinova works in the reindeer herd, Ljubov Fedorovna Kejmetinova.
+\ru Мать ПК работает в стаде, по имени ...
+
+\id SlepcovaNA_her-class_18
+\ref 2:25
+\tx Alekseev Ivan abaganda,                  upeːnde                   ele          mut
+\mb Alekseev Ivan abaga       -n(I)     =DE  upeː       -n(I)     =DE  erek -(dU)LE mut
+\ge Alekseev Ivan grandfather -poss.3sg =ptl grandmother -poss.3sg =ptl prox -loc    1pl.in
+
+\tx Sebjandulet                 ńan   họː haːwrị             bejil.
+\mb Sebjan -(dU)LE -t(I)        ńaːn họː haː -W     -RI       bej -E-L
+\ge Sebjan -loc    -poss.1pl.in and    very   know -advrs -impf.ptc man -ep-pl
+
+\ft The grandfather and grandmother of Ivan Alekseev are also very famous people here in our Sebjan.
+\ru Дедушка и бабушка АИ здесь в нашем Себяне тоже очень известные люди.
+\ph
+
+\id SlepcovaNA_her-class_19
+\ref 2:31
+\tx Eńenni          ele          mut    hupkučeklet                      nọŋan hupkučimŋet
+\mb eńin  -n(I)     erek -(dU)LE mut    hupkut -ČEk -(dU)LE -t(I)        nọŋan hupkut -E-mŋE  -Č
+\ge mother -poss.3sg prox -loc    1pl.in learn  -nr   -loc    -poss.1pl.in 3sg      learn  -ep-agnr -ins
+
+\tx gurgeːwčin      ńan   psixolog.
+\mb gurgeːwči -n(I) ńaːn psixolog
+\ge work.nonfut -3sg  again  psychologist.R
+
+\ft His mother works here in our school as a teacher and psychologist.
+\ru Его мать здесь в нашей школе, она работает учителем и психологом.
+
+\id SlepcovaNA_her-class_20
+\ref 2:41
+\tx Kejmetinova Snežana dʒaːltan             dʒaːlbụtan              ukčemmi         nọŋartan nosti
+\mb Kejmetinova Snežana dʒaː   -L  -tEn      dʒaː   -L  -W   -tEn      ukčen -mI       nọŋartan noste
+\ge Kejmetinova Snezhana relative -pl -poss.3pl relative -pl -acc -poss.3pl tell   -cond.cvb 3pl         young
+
+\tx bejil.
+\mb bej -E-L
+\ge man -ep-pl
+
+\ft If one were to tell about the parents of Snezhana Kejmetinova, they are young people.
+\ph
+\gr K.S. dʒaːltan, dʒaːlbụtan - is of course not correct, should be K.S. dʒaːlnị or dʒaːlban
+\ru Если рассказать о родителях КС то они молодые люди.
+
+\id SlepcovaNA_her-class_21
+\ref 2:47
+\tx Meːn enenni           meːn kụŋaŋńumị,           dʒụːlaj,              ebeddit
+\mb meːn enen   -n(I)     meːn kụŋa -ŋ  -ńUn -J       dʒụː -(dU)LE -J       ewen -DI   -Č
+\ge refl  mother -poss.3sg refl  child   -aln -com  -prfl.sg house    -loc    -prfl.sg Even -adjr -ins
+
+\tx ukčemmekkeren.
+\mb ukčen -mEČ -Gr(E)      -n(I)
+\ge tell   -rec  -hab.nonfut -3sg
+
+\ft The mother speaks Even at home with her child.
+\ru Своя мать со своим ребенком дома разговаривает по-эвенски.
+\ph
+\gr here the ALN suffix on kụŋa is not perceived as being wrong by Ija Krivoshapkina
+
+\id SlepcovaNA_her-class_22
+\ref 2:55
+\tx Dʒe   meːrkur hụnaːčannị            Snežana gerbe ịbgọ tattan,             ele
+\mb dʒe            hụnaːdʒ -čEn -n(I)     Snežana gerbe ịbgọ tat   -R(E)   -n(I) erek -(dU)LE
+\ge well.Y          daughter    -dim  -poss.3sg Snezhana name  good     learn -nonfut -3sg  prox -loc
+
+\tx hupkučekle.
+\mb hupkut -ČEk -(dU)LE
+\ge learn  -nr   -loc
+
+\ft Her daughter Snezhana studies well here in school.
+\ru Ее дочка по имени С хорошо учится здесь в школе.
+\nt meːekur - Ija Krivoshapkina couldn't make out what Slepcova said here, and cannot tell from the context, either;
+
+\id SlepcovaNA_her-class_23
+\ref 3:01
+\tx Ebeddit         haːrị       kụŋakkan   [stammers] ere  goːndikčin            ele
+\mb ewen -DI   -Č  haː -RI       kụŋa -kkEn stammers   erek goːn -čE    -G(E)čIn erek -(dU)LE
+\ge Even -adjr -res know -impf.ptc child   -dim  stammers   prox say   -pf.ptc -sml      prox -loc
+
+\tx ịala        mere... Merlenkele       biweːkkeren            ehni.
+\mb ịak -(dU)LE mere    Merlenke -(dU)LE bi -WEːČ -Gr(E) -n(I) e   -R(E)   -n(I)
+\ge what  -loc    mere    Merlenke -loc    be -gnr    -hab   -3sg  neg -nonfut -3sg
+\ft A child that knows Even, she takes part in this... in the Merlenke group, right.
+\ru Знающий по-эвенски ребеночек, как будто сказавший это, она ходит же здесь на это, на Мерленке.
+\ph
+\gr the literary form of what Slepcova said, "goːndikčin" is goːnčekčin, which is how I analysed it. The form Slepcova used is
+not correct; in Sebjan they say goːnčewčin = "kak budto skazavshij", it is just a filler word
+
+\id SlepcovaNA_her-class_24
+\ref 3:09
+\tx Tara  ńan   Krivošapkin Timur gerbe kụŋakkan   bihni            mindule.
+\mb tarak ńaːn Krivošapkin Timur gerbe kụŋa -kkEn bi -R(E)   -n(I) min     -(dU)LE
+\ge dist  again  Krivoshapkin Timur name  child   -dim  be -nonfut -3sg  1sg.obl -loc
+
+\ft And then there is another child called Timur Krivoshapkin in my class.
+\ru Вот, еще у меня есть ребеночек по им КТ.
+\ph
+\gr
+
+\id SlepcovaNA_her-class_25
+\ref 3:16
+\tx Nọŋan eńennide             amannịda            ebeddit         toreri          bejil.
+\mb nọŋan eńin  -n(I)     =DE  aman   -n(I)     =DE  ewen -DI   -Č  tore  -RI       bej -E-L
+\ge 3sg      mother -poss.3sg =ptl father -poss.3sg =ptl Even -adjr -ins speak -impf.ptc man -ep-pl
+
+\ft His mother and his father are people who speak Even.
+\ru И его мать и его отец - говорящие по-эвенски люди.
+
+\id SlepcovaNA_her-class_25b
+\ref
+\tx Dʒụːlawụr           er   kụŋakkal       haːn kụŋalduk         mut    kụŋaldụkụt
+\mb dʒụː -(dU)LE -WUr     erek kụŋa -kkEn -L  haːn kụŋa -L  -DUk(U) mut    kụŋa -L  -DUk(U) -t(I)
+\ge house    -loc    -prfl.pl prox child   -dim  -pl other child   -pl -abl    1pl.in child   -pl -abl    -poss.1pl.in
+
+\tx goːmi          enmurde              ammụrda,           "eńeː,   amaː"     goːniken      nọŋartan
+\mb goːn -mI       enen   -WUr     =DE  aman   -WUr     =DE  eńeː     amaː      goːn -nIkEn   nọŋartan
+\ge say   -cond.cvb mother -prfl.pl =ptl father -prfl.pl =ptl mother.voc father.voc say   -sim.cvb 3pl
+
+\tx ŋaːkkarar.
+\mb ŋaːt -Gr(E)      -r
+\ge call   -hab.nonfut -3pl
+\ft At home these children call their mother and their father "eńe, amma", in contrast to other children, to our children.
+\ru Дома эти дети в отличе от других детей, от наших детей, и мать и отца зовут "енье, амма".
+\ph
+\gr ABL + goːmi --> v otlichie ot
+
+\id SlepcovaNA_her-class_26
+\ref 3:34
+\tx "Papa, mama"  ester            goːŋne.
+\mb papa   mama   e   -R(E)   -r   goːn -Gr(E)
+\ge papa.R mama.R neg -nonfut -3pl say   -hab.nonfut.3pl
+
+\ft They don't say "papa, mama".
+\ru Папа, мама не говорят.
+\ph although she clearly says esteR goːŋne, this is not correct
+\gr
+\nt
+
+\id SlepcovaNA_her-class_27
+\ref 3:37
+\tx Tara, ebeddit,        ebeddičeken.
+\mb tarak ewen -DI   -Č  ewen -DI   -Č  -E-KEn
+\ge dist  Even -adjr -ins Even -adjr -ins -ep-dim
+
+\ft So, in Even.
+\ru Вот, по-эвенски, по-эвенски.
+\ph
+\gr
+\nt
+
+\id SlepcovaNA_her-class_28
+\ref 3:42
+\tx Tara  ńan   Semenova Marina gerbe ahịkkačan      bihni.
+\mb tarak ńaːn Semenova Marina gerbe asị -kkEn -čEn bi -R(E)   -n(I)
+\ge dist  again  Semenova Marina name  woman -dim  -dim  be -nonfut -3sg
+
+\ft And then there's a little girl called Marina Semenova.
+\ru Вот еще СМ девчоночка есть.
+\ph
+\gr
+\nt
+\qu
+
+\id SlepcovaNA_her-class_29
+\ref 3:48
+\tx Ńan   nọŋan upeːn                ńan   eben... ebeddit         họː torewren,
+\mb ńaːn nọŋan upeː       -n(I)     ńaːn ewen    ewen -DI   -Č  họː tore  -Gr(E)      -n(I)
+\ge again  3sg      grandmother -poss.3sg again  Even    Even -adjr -ins very   speak -hab.nonfut -3sg
+
+\tx torewrende                   ńan   nọŋan muttule        ịak ehni.
+\mb tore  -Gr(E)      -n(I) =DE  ńaːn nọŋan mut    -(dU)LE ịak e   -R(E)   -n(I)
+\ge speak -hab.nonfut -3sg  =ptl again  3sg      1pl.in -loc    what  neg -nonfut -3sg
+
+\ft And her grandmother is also an Even, and she speaks Even very (well), speaks, and she is a what here with us (i.e. she
+works here as a....).
+\ru Еще ее бабушка тоже эвенка, по-эвенски очень говорит, говорит, и она у нас это же (кем-то работает).
+\ph ehni - here in the function of a confirming, asserting particle
+
+\id SlepcovaNA_her-class_30
+\ref 4:06
+\tx Nọŋan họːč    ajịč      haŋangaran,               họːč    ajịč      haŋangaran.
+\mb nọŋan họː -Č  aj   -E-Č   haŋan -Gr(E)      -E-n(I) họː -Č  aj   -E-Č   haŋan -Gr(E)      -E-n(I)
+\ge 3sg      very   -ins good -ep-ins sew    -hab.nonfut -ep-3sg very   -ins good -ep-ins sew    -hab.nonfut -ep-3sg
+\ft She sews very well, sews very well.
+\ru Она очень хорошо шьет
+\ph
+\gr
+
+\id SlepcovaNA_her-class_31
+\ref 4:11
+\tx Nọŋan vystavkaldụla,         Kejmeti.... eh Dyganova Tatjana Gavrilevna gerbe,
+\mb nọŋan vystavka     -L  -(dU)LE Kejmeti     eh Dyganova Tatjana Gavrilevna gerbe
+\ge 3sg      exhibition.R -pl -loc    Kejmeti...  eh Dyganova Tatjana Gavrilevna name
+
+\tx upeːn,               nọŋan vystavkaldụla          ele          họːč    ajịč
+\mb upeː       -n(I)     nọŋan vystavka     -L  -(dU)LE erek -(dU)LE họː -Č  aj   -E-Č
+\ge grandmother -poss.3sg 3sg      exhibition.R -pl -loc    prox -loc    very   -ins good -ep-ins
+
+\tx ičukengeren,                 meːn haŋandaŋị            ọjịlbị.
+\mb it  -WkEn -Gr(E)      -E-n(I) meːn haŋan -DEŋ    -J       ọj    -E-L   -J
+\ge see -caus -hab.nonfut -ep-3sg refl  sew    -pst.ptc -prfl.sg clothes -ep-pl -prfl.sg
+
+\ft She (shows her work) at exhibitions, Tatjana Gavrilevna Dyganova, her grandmother, she shows the clothes she has sewn
+here at exhibitions very well.
+\ru Она на выставках ДТГ ее бабушка, она здесь на выставках очень хорошо показывает свои сшитые вещи.
+\gr -deng always takes Possessive suffixes, Ija says - checked, and it really is the case; and I have a fair amount of -DEŋ in my
+Sebjan corpus, but none at all in Kamchatka
+
+\id SlepcovaNA_her-class_32
+\ref 4:28
+\tx Slepcov Avgustin dʒaːltan             ukčemmi,        nọŋan amannị         họː ajịč
+\mb Slepcov Avgustin dʒaː   -L  -tEn      ukčen -mI       nọŋan aman   -n(I)     họː aj   -E-Č
+\ge Slepcov Augustin relative -pl -poss.3pl tell   -cond.cvb 3sg      father -poss.3sg very   good -ep-ins
+
+\tx ikeːri         bej.
+\mb ikeː -RI       bej
+\ge sing  -impf.ptc man
+
+\ft If one were to tell about the parents of Augustin Slepcov, his father is a person who sings very well.
+\ph
+\gr S:A. dʒaːltan = not correct, of course, should be S.A. dʒaːlnị - but here it should actually have the accusative case, S.A.
+dʒaːlban, because the complement of the verb ukčen (tell about) takes accusative case marking
+\ru Если рассказать про родители СА то его отец очень хорошо поющий человек.
+
+\id SlepcovaNA_her-class_33
+\ref 4:34
+\tx Ńan   noste bejil,     amannị         ńan   họːč    ajịč      ọńawran.
+\mb ńaːn noste bej -E-L   aman   -n(I)     ńaːn họː -Č  aj   -E-Č   ọńa -Gr(E) -n(I)
+\ge again  young man -ep-pl father -poss.3sg again  very   -ins good -ep-ins write  -hab   -3sg  
+
+\ft And they are also young people, his father draws very well.
+\ru Тоже молодые люди, его отец очень хорошо рисует.
+
+\id SlepcovaNA_her-class_33b
+\ref
+\tx Ele          todekkeren                  klasla          ńan   muttule,       stendekkelbu
+\mb erek -(dU)LE todi -Č  -Gr(E)      -n(I) klas    -(dU)LE ńaːn mut    -(dU)LE stend    -E  -kkEn -L  -W
+\ge prox -loc    help -res -hab.nonfut -3sg  class.R -loc    and    1pl.in -loc    poster.R -ep -dim  -pl -acc
+
+\tx ịalbụ      ọńarịdʒị boːwren               nọŋan muttu       klasla.
+\mb ịak -L  -W   ọńa -RIdʒI   boː -Gr(E)      -n(I) nọŋan mut    -DU  klas    -(dU)LE
+\ge what  -pl -acc draw   -ant.cvb  give -hab.nonfut -3sg  3sg      1pl.in -dat class.R -loc
+\ft He helps here, in class and us, after drawing posters he gives them to us in class.
+\ru Здесь помогает, в классе и нам, нарисовав стенды, это дает, он нам в класс.
+\ph
+\gr todi - has not only the meaning of "help", but also means "a group of people beating up one person"
+
+\id SlepcovaNA_her-class_34
+\ref 4:50
+\tx Abramov Ujusxan gerbe kụŋa dʒaːlban                     ukčemmi,        abagan
+\mb Abramov Ujusxan gerbe kụŋa dʒaː   -L  -W   -E-n(I)      ukčen -mI       abaga       -n(I)
+\ge Abramov Ujusxan name  child   relative -pl -acc -ep-poss.3sg tell   -cond.cvb grandfather -poss.3sg
+
+\tx ele,         muttule,       hupkučimŋe,   fizkultura urokban                   boːwren.
+\mb erek -(dU)LE mut    -(dU)LE hupkut -E-mŋE  fizkultura urok       -W   -n(I)     boː -Gr(E) -n(I)
+\ge prox -loc    1pl.in -loc    learn  -ep-agnr sport.R    homework.R -acc -poss.3sg give -hab   -3sg
+
+\ft If one were to tell about the relatives of Ujusxan Abramov, his grandfather teaches sports here, in our (school) (chez
+nous).
+\ru Если рассказать о родных АУ, его дед здесь у нас учитель, дает урок физкультура.
+\ph
+\gr urok boːwren = calque from Russian
+
+\id SlepcovaNA_her-class_35
+\ref 5:00
+\tx Nọŋmaːn họːč    ele          ajaːwra,          Sebjandule,    muttule.
+\mb nọŋmaːn họː -Č  erek -(dU)LE ajaːw -R(E)       sebjan -(dU)LE mut    -(dU)LE
+\ge 3sg.acc     very   -ins prox -loc    love   -nonfut.3pl Sebjan -loc    1pl.in -loc
+\ft They love him a lot here, in Sebjan, chez nous.
+\ru Его здесь очень любят, в Себяне, у нас.
+\ph
+\gr
+\nt
+
+\id SlepcovaNA_her-class_36
+\ref 5:07
+\tx Upeːn,               upeːn                họːč    ajịč      ikeːwren,              Abramova Ańet
+\mb upeː       -n(I)     upeː       -n(I)     họː -Č  aj   -E-Č   ikeː -Gr(E)      -n(I) Abramova Ańet
+\ge grandmother -poss.3sg grandmother -poss.3sg very   -ins good -ep-ins sing  -hab.nonfut -3sg  Abramova Ańet
+
+\tx Egorovna gerbe.
+\mb Egorovna gerbe
+\ge Egorovna name
+
+\ft His grandmother Anet Egorovna Abramova sings very well.
+\ru Его бабушка очень хорошо поет, по имени ААЕ 
+\ph
+\gr ajič "good" = literaturnoe
+
+\id SlepcovaNA_her-class_37
+\ref 5:13
+\tx Nọŋan ńan   ajịč      haŋangaran.
+\mb nọŋan ńaːn aj   -E-Č   haŋan -Gr(E)      -E-n(I)
+\ge 3sg      again  good -ep-ins sew    -hab.nonfut -ep-3sg
+\ft And she also sews very well.
+\ru Еще она хорошо сшет.
+\ph
+\gr
+
+\id SlepcovaNA_her-class_38
+\ref 5:18
+\tx Tara... tačịkan go?
+\mb tarak   tačịkan ge
+\ge dist    like.that  exclm
+
+\ft Well, like that.
+\ru Вот, ну так.
+\ph
+
+\id SlepcovaNA_her-class_39
+\ref 5:23
+\tx Họːč    aj... họː ịbgọl    dʒaːltan,            mut    dʒaːltị,              goːmi.
+\mb họː -Č  aj    họː ịbgọ -L  dʒaː   -L  -tEn      mut    dʒaː   -L  -t(I)        goːn -mI
+\ge very   -ins good  very   good     -pl relative -pl -poss.3pl 1pl.in relative -pl -poss.1pl.in say   -cond.cvb
+
+\ft Very good, their relatives are very good, our relatives, if one were to say it.
+\ru Очень хорошо, очень хорошие их родные, наши родители, если сказать.
+\ph
+\gr
+\nt
+
+\id SlepcovaNA_her-class_40
+\ref 5:28
+\tx Ee, tarbačan      dʒaːlkahal        bihep.
+\mb ee  tarọːčịn dʒaː   -lkEn -SEl bi -R(E)   -p
+\ge eh  dist.qual      relative -prop -pl  be -nonfut -1pl.in
+
+\ft Yes, we have such relatives/parents.
+\ru Да мы с такими родителями.
+\ph
+\gr
+\nt
+\qu
+
+\id SlepcovaNA_her-class_41
+\ref 5:31
+\tx Họːč    ajịč      bibekkererep,                     nọŋartan, dʒaːltan,            mindulede,
+\mb họː -Č  aj   -E-Č   bi -WEːČ -Gr(E) -R(E)   -p      nọŋartan  dʒaː   -L  -tEn      min     -(dU)LE =DE
+\ge very   -ins good -ep-ins be -gnr    -hab   -nonfut -1pl.in 3pl          relative -pl -poss.3pl 1sg.obl -loc    =ptl
+
+\tx klasslada            biweːkkerer,          baldamịda,           ee bakaldamịda
+\mb klass   -(dU)LE =DE  bi -WEːČ -Gr(E) -r   balda   -mI       =DE  ee bak  -(E)ldE -mI       =DE
+\ge class.R -loc    =ptl be -gnr    -hab   -3pl be.born -cond.cvb =ptl eh find -soc    -cond.cvb =ptl
+
+\tx nọŋartan ulgimiwrer,               todekkerer.
+\mb nọŋartan ulgim -i      -Gr(E) -r   todi -Č  -Gr(E)      -r
+\ge 3pl         ask   -ipf??? -hab   -3pl help -res -hab.nonfut -3pl
+
+\ft We go (spend time together) very well, their parents come to me, to the class, and when I meet them they ask, they help.
+\ru Очень хорошо мы ходим (вместе проводим время), их родители и ко мне, и в класс приходят, если их встретить они
+спрашивают, помогают.
+
+\id SlepcovaNA_her-class_43
+\ref 5:46
+\tx Tačịkan.
+\mb tačịkan
+\ge like.that
+\ft That's it.
+\ru Вот так.
+\ph

@@ -1,0 +1,1457 @@
+\_sh v3.0  557  Text
+
+\id Bochilikan_etiken_000a_metadata
+\ref Recorded on 01 March 2009 in Sebjan-Küöl by Brigitte Pakendorf, 
+at Zoja Afanas'evna's kitchen table; had sent away her daughter and
+grandson so that it was very nice and quiet. Only BP was present.
+She had written down the fairytale beforehand (in order to get it all
+right) and more or less read it off; was a conscious effort to speak in
+the local dialect (but has numerous standard Even elements)
+\qu Transcribed by BP in Elan with the help of her notes; a very free
+translation into Russian given by Zoja Afanas'evna herself, later on a more
+accurate sentence-by-sentence translation into Russian was given by Ija
+Vasil'evna Krivoshapkina. Glossed by BP. Speaker abbreviation = ZAS
+\ref Zoja Afanas'evna Stepanova was 59 years old at time of recording,
+primary school teacher, social pedagogue (socpedagog) and leader of
+folklore ensemble Merlenke, very much in favour of
+literary/standard Even language, feels that there are not many
+differences between different dialects, mutual intelligibility, very
+much against all the mixing of Even and Sakha here in Sebjan (“eto
+ne Lamunxinskij govor”), very interested in Even folklore and
+language. Sister of Afanasij Afanas'evič Stepanov
+
+\id Bochilikan_etiken_000b
+\ref
+\tx Otsjuda ja budu čitat', da?
+
+\id Bochilikan_etiken_001
+\tx Segodnja pervoe marta dve tysači devjatogo goda, Zoja
+Afanasevna Stepanovna rasskažet nam o tom, kak...
+skaz... skazku evenskuju.
+\ELANBegin 0.020
+\ELANEnd 20.560
+\ELANParticipant
+
+\id Bochilikan_etiken_002
+\tx Mhm vot etu skazku mne rasskazyval mne otec, kogda
+mne bylo vsego pjat' let.
+\ELANBegin 20.560
+\ELANEnd 30.460
+\ELANParticipant
+
+\id Bochilikan_etiken_003
+\tx S tex por ja ee zapomnila i každy raz svoim detjam ja
+pereskazyvaju, i  svoim uchenikam.
+\ELANBegin 30.460
+\ELANEnd 39.370
+\ELANParticipant
+
+\id Bochilikan_etiken_004
+\tx Po etoj skazke my stavim spektakli.
+\ELANBegin 39.370
+\ELANEnd 42.940
+\ELANParticipant
+
+\id Bochilikan_etiken_005
+\tx Vot sčas ja vam pročitaj... rasskažu etu skazku.
+\ELANBegin 42.940
+\ELANEnd 50.260
+\ELANParticipant
+
+\id Bochilikan_etiken_006
+\tx Bọčịlịkan etiken   nazyvaetsja.
+\mb Bọčịlịkan etikeːn
+\ge Bochilikan       old.man  
+\ft It's called 'Old man Bochilikan'.
+\ELANBegin 50.260
+\ELANEnd 52.970
+\ELANParticipant
+
+\id Bochilikan_etiken_008
+\tx Ńịmkan.
+\mb ńịmkan
+\ge tale
+\ft A fairy tale.
+\ELANBegin 52.970
+\ELANEnd 54.080
+\ELANParticipant
+
+\id Bochilikan_etiken_009
+\tx xm
+\ELANBegin 54.080
+\ELANEnd 54.960
+\ELANParticipant
+
+\id Bochilikan_etiken_010
+\tx Omneken        hụlịčakakan    dawŋa
+\mb omen -REkEn    hụlịčan -kEkEn daw         -ŋE
+\ge one  -iter.adv fox          -dim   cross.river -nmdl.cvb
+
+\tx turkutmi                   ọkaːt holilin
+\mb turku       -Č  -mI       ọkaːt holi -(dU)LI -n(I)
+\ge not.be.able -res -cond.cvb river    edge -prol   -poss.3sg
+
+\tx kụńawatnịkan                ikeːčče:
+\mb kụńa         -WEːČ -nIkEn   ikeː -Č  -čE
+\ge run(of.animals) -gnr    -sim.cvb sing  -res -pf.ptc
+
+\ft Once a little fox ran along the edge of a river, not being able to cross
+it, singing:  
+\ru Однажды лиса пыталась перейти через реку, но никак не могла,
+бегала по берегу реки и пела:
+\ru Однажды лисичка затрудняясь перейти на другую сторону пела,
+бегая по краю реки.
+\ph
+\gr Ija Krivoshapkina explained that kụńawatnịkan, kụńawattan (3SG,
+nonfut) has a meaning of durativity or iterativity, not habituality,
+i.e. not the meaning that -WE:Č has in Kamchatka; however, I think
+this must be the underlying suffix, and it probably just underwent a
+semantic shift, because the -Gr(E) suffix took over the
+generic/habitual meaning 
+\ELANBegin 54.960
+\ELANEnd 62.390
+\ELANParticipant
+
+\id Bochilikan_etiken_011
+\tx Eńe   mụla    tụsankịčụ   gum  gum  gum.
+\mb eńin  mụla    tụsan -kIč -W   gum  gum  gum
+\ge mother pity.itrs jump    -nr   -acc goom goom goom
+
+\ft
+\ru
+\ph
+\gr ene mula - ne imeet smysla, tusankichu = mesto moix pryzhkov,
+moi pryzhki - -kIč derives nouns with a meaning of 'possibility, place
+where an action is possible', e.g. ulmikič 'mesto belkovki' > ulmidej
+'belkovat'
+\nt this cannot be translated, it is just words, the foxes song, without
+any real meaning
+\ELANBegin 62.390
+\ELANEnd 66.660
+\ELANParticipant
+
+\id Bochilikan_etiken_012
+\tx Tar  nọŋan "enńel     amịal
+\mb tar  nọŋan enen   -SEl aman   -SEl
+\ge thus 3sg      mother -pl  father -pl
+
+\tx dʒụpkaŋịtnan          tụsankịčụ   gum  gum
+\mb dʒupke -RI -tEn            tụsan -kIč -W   gum  gum
+\ge track   -impf.ptc -poss.3pl jump    -nr   -acc goom goom
+
+\tx gum" goːniken.
+\mb gum  goːn -nIkEn
+\ge goom say   -sim.cvb
+
+\ft
+\ru Вспомнила былые времена как она бегала по проторенным
+матерью и отцом тропинкам и это было для нее очень легко
+\ru Это она прыгала по ручейкам мамочки и папочки.
+\ph
+\gr (March 2009 - I had glossed the word dʒụpkaŋịtnan as
+stream-pred.poss-poss.3pl) I am not sure about dʒụpkaŋịtnan - it
+seems very odd to have a Pred.Poss. followed by the Poss.3PL; Ija
+Krivoshapkina didn't know what the word means as a whole, and did
+not know what the ending -ŋịtnan would be, if dʒụpka means
+'stream';; (March 2010 - changed glossing, because) I think that
+dʒupkangitnan must be a verb, the imperfect participle with poss.
+3pl, as translated by Zoja Afanasevna ('po protorennym materju i
+otcom tropinkam'); there is a verb dʒupkedej in Robbek, which has
+as its second meaning 'ustanovit' kuda idut sledy', and this would
+more or less fit; I do not know, however, why it would be
+dʒụpkaŊịtnan and not dʒụpkaRịtnan, and also ZAS pronounces the
+word with back vowels, when it should be front
+\ELANBegin 66.660
+\ELANEnd 72.740
+\ELANParticipant
+
+\id Bochilikan_etiken_013
+\tx Taraw      ikiewen                 dọldarịdʒị
+\mb tarak -W   ikeː -W   -E-n(I)      dọlda -RIdʒI
+\ge dist  -acc song  -acc -ep-poss.3sg hear    -ant.cvb
+
+\tx moːduk       ọlrakakan   eŋenni:
+\mb moː  -DUk(U) ọlra -kEkEn eŋen              -n(I)
+\ge water -abl    fish   -dim   take.a.look.nonfut -3sg
+
+\ft Having heard that song of his a little fish looked out from the water:
+\ru Услышав песенку лисы из воды выглянула рыбка и говорит:
+\ru Улышав эту ее песню из воды выглянула рыбка.
+\ELANBegin 72.740
+\ELANEnd 77.240
+\ELANParticipant
+
+\id Bochilikan_etiken_014
+\tx Hụlị,    ịamị họŋannị?
+\mb hụlịčan ịamị họŋ -R(E)   -nrI
+\ge fox          why      cry    -nonfut -2sg
+\ft Fox, why are you crying?
+\ru Лисичка, почему ты плачешь?
+\ELANBegin 77.240
+\ELANEnd 79.730
+\ELANParticipant
+
+\id Bochilikan_etiken_015
+\tx Hụlịčan goːnni:
+\mb hụlịčan goːn      -n(I)
+\ge fox          say.nonfut -3sg
+\ft The fox said:
+\ru Лисичка отвечает:
+\ELANBegin 79.730
+\ELANEnd 81.180
+\ELANParticipant
+
+\id Bochilikan_etiken_016
+\tx Họŋaddamman                    ikeːddem
+\mb họŋ -E-D     -R(E)   -m   =mEn ikeː -D    -R(E)   -m
+\ge cry    -ep-prog -nonfut -1sg =neg sing  -prog -nonfut -1sg
+
+\tx ehem.
+\mb e   -R(E)   -m
+\ge neg -nonfut -1sg
+
+\ft No, I'm not crying, I'm singing.
+\ph
+\gr it seems as if the 3SG form of the neg.auxiliary is used most
+frequently as an affirmative particle; but some people use inflected
+forms with then agree with the main verb, e.g. ikeːddem ehem,
+ikeːdʒes ehes; họŋaddam=man - the particle is used with contrastive
+focus, i.e. when the negated action is contrasted with some other
+action, as here in the translation; a normal negative statement takes
+the negative auxiliary
+\ru Нет, я не плачу, я пою же.
+\ph
+\ELANBegin 81.180
+\ELANEnd 84.590
+\ELANParticipant
+
+\id Bochilikan_etiken_017
+\tx Tara  esem             họŋadda
+\mb tarak e   -R(E)   -m   họŋ -E-D     -R
+\ge dist  neg -nonfut -1sg cry    -ep-prog -neg.cvb
+
+\tx ikeːddem                goːniken.
+\mb ikeː -D    -R(E)   -m   goːn -nIkEn
+\ge sing  -prog -nonfut -1sg say   -sim.cvb
+
+\ft No, I'm not crying, I'm singing.
+\ru Нет, я не плачу, пою же.
+\ELANBegin 84.590
+\ELANEnd 88.100
+\ELANParticipant
+
+\id Bochilikan_etiken_018
+\tx Hụlịčan mụlgattan            erek ọldal
+\mb hụlịčan mụlgat -R(E)   -n(I) erek ọlra -L
+\ge fox          think    -nonfut -3sg  prox fish   -pl
+
+\tx belnedʒiten            dawrakụ
+\mb bel  -nE -Č  -tEn      daw         -REk      -W
+\ge help -nr -ins -poss.3pl cross.river -cond.cvb -poss.1sg
+
+\tx ọkaːtụ.
+\mb ọkaːt -W
+\ge river    -acc
+
+\ft The fox thought 'let me cross this river with the help of these fish'.
+\ph
+\ru Лисичка тут-же подумала давай-ка я перейду эту реку с помощью
+рыбы.
+\ph
+\ru Лисичка подумала, что если я перейду реку при помощи этих рыб.
+\ph
+\gr Although it seems odd to have the INS.PRFL.SG followed by
+Poss.3Pl, I have a similar case in Stepanova_hunting_stado09,
+gerbedjitnen 'by their name', which was explained to me in such a
+way by Ija Krivoshapkina in 2008 that this analysis fits; and now in
+March 2009, when I asked about belnedjiten, at first she said she
+didn't know, and thought maybe it was from bel-nedʒ, a lterary Even
+suffix deriving action nominals; however, when I asked how she
+would say 'with their help' she said she would say belriDJITEN, i.e.
+with the participle - but with the same ending. So I think for the time
+being my analysis is right
+\ELANBegin 88.100
+\ELANEnd 93.580
+\ELANParticipant
+
+\id Bochilikan_etiken_019
+\tx Tarịt goːnni:
+\mb tarịt goːn      -n(I)
+\ge then    say.nonfut -3sg
+\ft Then (the fox) said:
+\ru
+\ELANBegin 93.580
+\ELANEnd 95.280
+\ELANParticipant
+
+\id Bochilikan_etiken_020
+\tx Ọldọːl     ahụn   họːjal    bihes?
+\mb ọlra -Eː -L  ahụn   họːja -L  bi -R(E)   -s
+\ge fish   -voc -pl how.much many     -pl be -nonfut -2pl
+\ft Fish, how many are you?
+\ru Рыбки, сколько вас?
+\ELANBegin 95.280
+\ELANEnd 98.200
+\ELANParticipant
+
+\id Bochilikan_etiken_021
+\tx Taŋdakụ                erew      ọkaːtu     kọŋdas
+\mb taŋ  -REk      -W        erek -W   ọkaːt -W   kọŋdas
+\ge count -cond.cvb -poss.1sg prox -acc river    -acc through
+
+\tx ịlalda.
+\mb ịl     -E-(LI)lrE
+\ge stand.up -ep-imp.2pl
+
+\ft Let me count (you), stand (in a line) across this river.
+\ru Давайте я посчитаю, встаньте поперек этой реки.
+\ph
+\ELANBegin 98.200
+\ELANEnd 101.540
+\ELANParticipant
+
+\id Bochilikan_etiken_022
+\tx Ọldal       họka... họkačịllịdʒụr        họːjawụr
+\mb ọlra -E-L             họkat  -E-L     -RIdʒI  -L  họːja -WUr
+\ge fish   -ep-pl           show.off -ep-inch -ant.cvb -pl many     -prfl.pl
+
+\tx ičukendeːr                 ọkaːtụ   kọŋdas
+\mb it  -WkEn -DE       -WUr     ọkaːt -W   kọŋdas
+\ge see -caus -purp.cvb -prfl.pl river    -acc through
+
+\tx ịlran.
+\mb ịl     -R(E)   -n(I)
+\ge stand.up -nonfut -3sg
+
+\ft The fish started to show off and stood across the river in order to
+show off how many they were.
+\ru Услышав это, чтобы показаться, сколько их много, рыбки встали
+поперек реки.
+\ru Рыбы из хвастовства, чтобы показать свою многочисленность,
+встали поперек реки.
+\ph
+\ELANBegin 101.540
+\ELANEnd 111.210
+\ELANParticipant
+
+\id Bochilikan_etiken_023
+\tx Omen dʒoːr omen dʒoːr taŋahman       ọːnịkan
+\mb omen dʒoːr omen dʒoːr taŋ  -EhmEn    ọː  -nIkEn
+\ge one  two     one  two     count -pretense become -sim.cvb
+
+\tx hụlịčan ọkaːtụ   dawran,                     tarịt
+\mb hụlịčan ọkaːt -W   daw         -R(E)   -E-n(I) tarịt
+\ge fox          river    -acc cross.river -nonfut -ep-3sg then
+
+\tx ọldọːl     họːjal    bihes           goːniken
+\mb ọlra -Eː -L  họːja -L  bi -R(E)   -s   goːn -nIkEn
+\ge fish   -voc -pl many     -pl be -nonfut -2pl say   -sim.cvb
+
+\tx kụːnịsnịdʒị      họtarmakaːmịn
+\mb kụːnị -s(E)n -RIdʒI  họtọrọn -mEkEːmI -n(I)
+\ge scream     -lim   -ant.cvb road          -directly -poss.3sg
+
+\tx tụhahnan.
+\mb tụsan -s(E)n -R(E)   -n(I)
+\ge hop     -lim   -nonfut -3sg
+
+\ft Pretending to count 'one two, one two' the fox crossed the river,
+then "fish, you are very many" he called and hopped straight along
+the path.
+\ru Раз два, раз два считая, лиса перешла реку и крикнула рыбам
+"рыбки, вас очень много!" и побежала по тропинке.
+\ru Делая вид, что считает один два, один два, лиса перешла реку,
+потом, прокричав "рыбы, вас много", побежала прямо по дороге.
+\gr
+\ELANBegin 111.210
+\ELANEnd 124.050
+\ELANParticipant
+
+\id Bochilikan_etiken_024
+\tx Tar  tụhatnịkan        etikeːn tụrkịčamị
+\mb tar  tụsan -Č  -nIkEn   etikeːn tụrkị -čEn -J
+\ge thus hop     -res -sim.cvb old.man  sled      -dim  -prfl.sg
+
+\tx ịrnịkan   depki
+\mb ịr -nIkEn   deːpki
+\ge drag -sim.cvb opposite
+
+\tx emeddiwen                                 itten.
+\mb em   -E-D     -RI       -W   -E-n(I)      it  -R(E)   -n(I)
+\ge come -ep-prog -impf.ptc -acc -ep-poss.3sg see -nonfut -3sg
+
+\ft Running along like that (the fox) saw an old man coming towards
+him dragging his little sled.
+\ru Побежала по тропинке и увидела навстречу идет старик, тащит
+саночки свои.
+\ph turkičämi, irnikän
+\ru Так пробегая по дороге, она увидела что старик идет навстречу
+таща свою нарточку.
+\ELANBegin 124.050
+\ELANEnd 130.340
+\ELANParticipant
+
+\id Bochilikan_etiken_025
+\tx Boːdeli         maːča      bideji                oleket
+\mb boːdel -J       maː -čE    bi -DE       -J       olek -E-Č
+\ge leg     -prfl.sg kill -pf.ptc be -purp.cvb -prfl.sg liar -ep-ins
+
+\tx ogerbetniken         desčin.
+\mb ogerbet     -nIkEn   desči -n(I)
+\ge be.restless -sim.cvb lie    -3sg
+
+\ft (The fox) lay with raised paws, pretending that it had broken its leg.
+\ru (Увидев старика) она притворилась будто сломала ногу.
+\ru Как будто она поранила ногу, она ложно там лежала, метаясь.
+\ELANBegin 130.340
+\ELANEnd 136.630
+\ELANParticipant
+
+\id Bochilikan_etiken_026
+\tx Taraw      ittidʒi     Bọčịlịkan ulgimin
+\mb tarak -W   it  -RIdʒI  Bọčịlịkan ulgim -i      -n(I)
+\ge dist  -acc see -ant.cvb Bochilikan       ask   -ipf??? -3sg
+
+\tx hụlịdụk.
+\mb hụlịčan -DUk(U)
+\ge fox          -abl
+
+\ft Having seen that, Bochilikan asked the fox:
+\ph
+\gr In theory, the form ulgimi is supposed to have an imperfective and
+iterative meaning (sprašivat, rassprašivat, zadavat voprosy) but this
+doesn't fit here
+\ru Увидев лису, старик Бочиликан спрашивает:
+\ru Увидев это, Бочиликан спросил у лисы
+\ELANBegin 136.630
+\ELANEnd 141.130
+\ELANParticipant
+
+\id Bochilikan_etiken_027
+\tx Dʒaː, ịannị?
+\mb dʒaː  ịa    -nrI
+\ge friend  do.what -2sg
+\ft Friend, what are you doing?
+\ru Сестричка, что с тобой?
+\ELANBegin 141.130
+\ELANEnd 143.930
+\ELANParticipant
+
+\id Bochilikan_etiken_028
+\tx Akaː              akaː              boːdeli
+\mb akan          -Eː akan          -Eː boːdel -J
+\ge older.brother -voc older.brother -voc leg     -prfl.sg
+
+\tx maːram           gịrkaŋa
+\mb maː -R(E)   -m   gịrka -ŋE
+\ge kill -nonfut -1sg walk    -nmdl.cvb
+
+\tx turkuttem                     tụrkịčandụlaj
+\mb turku       -Č  -R(E)   -m   tụrkị -čEn -(dU)LE -J
+\ge not.be.able -res -nonfut -1sg sled      -dim  -loc    -prfl.sg
+
+\tx tegukeli.
+\mb teg      -WkEn -LI
+\ge sit.down -caus -imp.2sg
+
+\ft Grandad, grandad, I hurt my leg, I cannot walk, let me sit on your
+little sled.
+\ru Дедушка, дедушка, я сломала ногу, посадите пожалуйста меня на
+саночку.
+\ru Брат брат я ногу поранила, не могу идти, посади меня на свои
+нарты.
+\gr
+\nt akaː is a form of address to older brothers, older relatives
+\ELANBegin 143.930
+\ELANEnd 149.530
+\ELANParticipant
+
+\id Bochilikan_etiken_029
+\tx Bọčịlịkan hụlịčam      mụlallan                   ge
+\mb Bọčịlịkan hụlịčan -W   mụlaːn -L    -R(E) -n(I)  ge
+\ge Bochilikan       fox          -acc pity      -inch -nonfut -3sg exclm
+
+\tx tewli             ịrdakụn              goːnni.
+\mb teg      -LI      ịr -DE       -W        goːn -n(I)
+\ge sit.down -imp.2sg cart -purp.cvb -poss.1sg say   -3sg
+
+\ft Bochilikan pitied the fox, well sit down, I'll pull you, he said.
+\ru Старик Бочиликан пожалел лису и посадил, давай садись, я повезу
+тебя, сказал.
+\ru Бочиликан пожалел лису, ну садись, потащу, сказал.
+\gr
+\ELANBegin 149.530
+\ELANEnd 155.330
+\ELANParticipant
+
+\id Bochilikan_etiken_030
+\tx Tačịn       Bọčịlịkan etikeːn hụlịčam
+\mb tarọːčịn Bọčịlịkan etikeːn hụlịčan -W
+\ge dist.qual      Bochilikan       old.man  fox          -acc
+
+\tx ịrbatnịkan        họtarandụlị
+\mb ịr -WEːČ -nIkEn   họtọrọn -(dU)LI
+\ge drag -gnr    -sim.cvb road          -prol
+
+\tx gịrkadʒaːnnan              gịrkadʒaːnnan
+\mb gịrka -dʒEːn -R(E)   -n(I) gịrka -dʒEːn -R(E)   -n(I)
+\ge walk    -dur     -nonfut -3sg  walk    -dur     -nonfut -3sg
+
+\tx gịrkadʒaːnnan.
+\mb gịrka -dʒEːn -R(E)   -n(I)
+\ge walk    -dur     -nonfut -3sg
+
+\ft So old man Bochilikan dragged the fox along the road, he walks and
+walks and walks.
+\ru Посадив лисицу на санки он пошел дальше по тропинке, идет идет
+идет.
+\ru Так старик Бочиликан идет идет по дороге, таща лису.
+\gr Zoja Afanasevna in her notes wrote girkadʒanDan with a d, but she
+clearly pronounces a N
+\nt
+\ELANBegin 155.330
+\ELANEnd 163.590
+\ELANParticipant
+
+\id Bochilikan_etiken_031
+\tx Hụlịčan Bọčịlịkan tụrkịdụn
+\mb hụlịčan Bọčịlịkan tụrkị -DU  -n(I)
+\ge fox          Bochilikan       sled      -dat -poss.3sg
+
+\tx ịrbačịwnịkan
+\mb ịr -WEːČ -E-W      -nIkEn
+\ge drag -gnr    -ep-advrs -sim.cvb
+
+\tx heːrukčemen
+\mb heːruk    -čEn -W   -E-n(I)
+\ge saddle.bag -dim  -acc -ep-poss.3sg
+
+\tx nụŋdịddan.
+\mb nụŋrị    -D    -R(E)   -n(I)
+\ge search.around -prog -nonfut -3sg
+
+\ft The fox, being carried in Bochilikan's sled, was searching around in
+his bag.
+\ru Лисичка сидит на саночке и стала рыться в суме дедушки.
+\ru Лиса везомая на нарте Бочлилкана, в его суме копается.
+\ph heːrukčewen
+\ELANBegin 163.590
+\ELANEnd 171.870
+\ELANParticipant
+
+\id Bochilikan_etiken_032
+\tx Tala          etikeːn dʒebleŋen
+\mb tarak -(dU)LE etikeːn dʒeb -LE -ŋ  -E-n(I)
+\ge dist  -loc    old.man  eat   -nr -aln -ep-poss.3sg
+
+\tx bihni            taraw      bakran.
+\mb bi -R(E)   -n(I) tarak -W   bak  -R(E)   -n(I)
+\ge be -nonfut -3sg  dist  -acc find -nonfut -3sg
+
+\ft There was the old man's food, and that (the fox) found.
+\ru Нашла там еду и стала есть.
+\ru Там есть еда старика, то нашла.
+\ELANBegin 171.870
+\ELANEnd 176.370
+\ELANParticipant
+
+\id Bochilikan_etiken_033
+\tx Gịrkadʒaːnnịkan     Bọčịlịkan etikeːn hụlịčandụk
+\mb gịrka -dʒEːn -nIkEn   Bọčịlịkan etikeːn hụlịčan -DUk(U)
+\ge walk    -dur     -sim.cvb Bochilikan       old.man  fox          -abl
+
+\tx ulgimin
+\mb ulgim -i      -n(I)
+\ge ask   -ipf??? -3sg
+
+\ft Walking old man Bochilikan asked the fox:
+\ru Продолжая идти, старик Бочиликан спросил у лисы.
+\ELANBegin 176.370
+\ELANEnd 180.860
+\ELANParticipant
+
+\id Bochilikan_etiken_034
+\tx Dʒaː, erek irek  toreŋkenti?
+\mb dʒaː  erek irek  tor   -ŋ  -KEn -t(I)
+\ge friend  prox which earth -aln -dim -poss.1pl.in
+\ft Friend, what is this place called?
+\ru Сестричка, это как называется эта местность?
+\ru Это какая местность?
+\ph
+\gr
+\nt toreŋkenti - literally 'nasha malen'kaja zemlja'
+\ELANBegin 180.860
+\ELANEnd 183.470
+\ELANParticipant
+
+\id Bochilikan_etiken_035
+\tx Nọnalgịŋńaːttụ,        abaga,      goːnni,    hụlịčan.
+\mb nọnap    -lgịŋńaːt =tU   abaga       goːn -n(I) hụlịčan
+\ge the.first. -***           =pres grandfather say   -3sg  fox
+
+\ft The fox said "It's probably the beginning, grandfather".
+\ru А лиса отвечает "Это речка начальная."
+\ph
+\gr Neither Ija Krivoshapkina nor Zoja Afanas'evna can translate the
+words nonalginattu, dulalginattu, kingalginattu; Zoja Afanas'evna
+said these were restricted to folklore texts and that they have the
+general meaning 'it's the beginning/middle/end', with the =tU having
+a meaning of 'probably', but she couldn't say anything about the
+middle part of the word. I wonder if it isn't a verb, with -l a
+verbalizer that here seems to derive verbs from adverbs, and ńaːt
+possibly being the Generic suffix?
+\nt
+\ELANBegin 183.470
+\ELANEnd 188.720
+\ELANParticipant
+
+\id Bochilikan_etiken_036
+\tx Tar  hụlịčan etikeːn dʒebleŋmen
+\mb tar  hụlịčan etikeːn dʒeb -LE -ŋ  -W   -E-n(I)
+\ge thus fox          old.man  eat   -nr -aln -acc -ep-poss.3sg
+
+\tx elekes   bakrịdʒị dʒebeddin
+\mb elekes   bak  -RIdʒI  dʒeb -E-D     -RI       -n(I)
+\ge at.first find -ant.cvb eat   -ep-prog -impf.ptc -poss.3sg
+
+\tx biče.
+\mb bi -čE
+\ge be -pf.ptc
+
+\ft That means that the fox was eating the food of the old man, having
+just found it.
+\ru Это означает что она только нашла еду и стала есть.
+\ru Это лиса ела еду старика, только что найдя.
+\gr dʒebeddin = v eto vremja kushala; ptcp + biče = evidentiality, the
+narrator didn't see this herself, but is recounting what others have
+told her; at first Ija Krivoshapkina said there is no difference whether
+one says just dʒebeddin or dʒebeddin biče, but when I asked whether
+biče doesn't give a nuance of something, then she said yes, the
+evidentiality
+\gr 120312 elicitation session (different questions, at end) I asked about
+dʒebeddin biče: at first she said it should be dʒebečče biče,
+okazyvaetsja ela, ottenok neozhidannosti; dʒebeddin biče = in
+Sebjan they don't say this, dʒebbedi biče "s natjazhkoj mozhno
+skazatj", this would be without any "okazyvaetsja"; so if at all, they
+would say dʒebeddi biče, but not dʒebeddin biče
+\ELANBegin 188.720
+\ELANEnd 198.050
+\ELANParticipant
+
+\id Bochilikan_etiken_037
+\tx Bọčịlịkan ńanda      gịrkadʒaːnnan
+\mb Bọčịlịkan ńaːn =DE  gịrka -dʒEːn -R(E)   -n(I)
+\ge Bochilikan       and    =ptl walk    -dur     -nonfut -3sg
+
+\tx toreŋi                 dụlaklarịdʒị
+\mb tor   -E  -ŋ  -J       dụlak -LE -RIdʒI
+\ge earth -ep -aln -prfl.sg middle  -vr -ant.cvb
+
+\tx ulgimin             hụlịčandụk.
+\mb ulgim -i      -n(I) hụlịčan -DUk(U)
+\ge ask   -ipf??? -3sg  fox          -abl
+
+\ft And Bochilikan walked on, having reached the middle (of the
+journey) he asked the fox:
+\ru А старик идет дальше, дойдя до середины маршрута он опять
+спрашивает:
+\ru Бочиликан опять идет, дойдя до середины местности, спросил у
+лисы.
+\ph
+\gr dụlakla = sdelat' seredinu
+\ELANBegin 198.050
+\ELANEnd 206.690
+\ELANParticipant
+
+\id Bochilikan_etiken_038
+\tx Dʒaː, erek irek  toreŋkenti?
+\mb dʒaː  erek irek  tor   -ŋ  -KEn -t(I)
+\ge friend  prox which earth -aln -dim -poss.1pl.in
+\ft Friend, which place is this?
+\ru Сестричка, это как называется эта местность?
+\ELANBegin 206.690
+\ELANEnd 209.420
+\ELANParticipant
+
+\id Bochilikan_etiken_039
+\tx Dụlalgịŋńaːttụ,     hụlịčan bargụttan.
+\mb dụlak -lgịŋńaːt =tU   hụlịčan bargụt -R(E)   -n(I)
+\ge middle  -***           =pres fox          answer   -nonfut -3sg
+
+\ft It's probably the middle (one), the fox answers.
+\ru Это серединная, лиса отвечает.
+\ru Это наверно серединка, отвечает лиса.
+\ELANBegin 209.420
+\ELANEnd 212.930
+\ELANParticipant
+
+\id Bochilikan_etiken_040
+\tx Bọčịlịkan dʒuleski           gịrkadʒaːnnan,
+\mb Bọčịlịkan dʒul -E  -skI      gịrka -dʒEːn -R(E)   -n(I)
+\ge Bochilikan       front -ep -advb.all walk    -dur     -nonfut -3sg
+
+\tx hụlịčan nọŋan dʒebleŋmen
+\mb hụlịčan nọŋan dʒeb -LE -ŋ  -W   -E-n(I)
+\ge fox          3sg      eat   -nr -aln -acc -ep-poss.3sg
+
+\tx dʒebedʒeːnnen,                mannan
+\mb dʒeb -E  -dʒEːn -R(E)   -n(I) man    -R(E) -n(I)
+\ge eat   -ep -dur     -nonfut -3sg  finish -nonfut -3sg
+
+\tx bekekkeːmen.
+\mb bekeč -KEn     -W   -E-n(I)
+\ge all    -dim.int -acc -ep-poss.3sg
+
+\ft Bochilikan walks on (for a long time), the fox eats and eats his food,
+eats it all up.
+\ru Старик идет дальше, а лисичка все ест его еду, все съела.
+\ru Бочиликан вперед идет, лисичка его еду кушает, все прикончила.
+\ELANBegin 212.930
+\ELANEnd 223.650
+\ELANParticipant
+
+\id Bochilikan_etiken_041
+\tx Dʒaː, erek irek  toreŋkenti,
+\mb dʒaː  erek irek  tor   -E-ŋ   -KEn -t(I)
+\ge friend  prox which earth -ep-aln -dim -poss.1pl.in
+
+\tx Bọčịlịkan ńanda      ulgimin.
+\mb Bọčịlịkan ńaːn =DE  ulgim -i      -n(I)
+\ge Bochilikan       and    =ptl ask   -ipf??? -3sg
+
+\ft Friend, which place is this, Bochilikan again asks.
+\ELANBegin 223.650
+\ELANEnd 228.800
+\ELANParticipant
+
+\id Bochilikan_etiken_042
+\tx Kịŋgalgịŋńaːttụ,        hụlịčan goːnni.
+\mb kịŋgakụ -lgịŋńaːt =tU   hụlịčan goːn      -n(I)
+\ge empty        -***           =pres fox          say.nonfut -3sg
+
+\ft It's the end, said the fox.
+\ru Это уже конец, сказала лиса.
+\ph
+\ru
+\ph
+\gr
+\nt
+\ELANBegin 228.800
+\ELANEnd 231.650
+\ELANParticipant
+
+\id Bochilikan_etiken_043
+\tx Tar   dʒebleŋmen                     manahnịdʒị
+\mb tarak dʒeb -LE -ŋ  -W   -E-n(I)      man    -E-s(E)n -RIdʒI
+\ge dist  eat   -nr -aln -acc -ep-poss.3sg finish -ep-lim  -ant.cvb
+
+\tx goːndʒidden.
+\mb goːn -D    -R(E)   -n(I)
+\ge say   -prog -nonfut -3sg
+
+\ft That means that (the fox) ate up all the food.
+\ru Это означает что она все съела.
+\ru Прикончив эту его еду говорит.
+\ph
+\gr manahnịdʒị = bystrota, odnokratnost'
+\ELANBegin 231.650
+\ELANEnd 238.010
+\ELANParticipant
+
+\id Bochilikan_etiken_044
+\tx Akaː              akaː,             ele
+\mb akan          -Eː akan          -Eː erek -(dU)LE
+\ge older.brother -voc older.brother -voc prox -loc
+
+\tx torle         oringelde,              tọbakčamị
+\mb tor   -(dU)LE orin        -GEr        tọːbar -čEn -J
+\ge earth -loc    set.up.camp -imp.1pl.in axe.R     -dim  -prfl.sg
+
+\tx boːli,       biː mọːw     gọlladakụn.
+\mb boː -LI      biː mọː -W   gọl    -LE -DE       -W
+\ge give -imp.2sg 1sg  tree   -acc firewood -vr -purp.cvb -poss.1sg
+
+\ft Grandad, grandad, let's set up camp here, give me your little axe, I'll
+go get firewood.
+\ru Дедушка дедушка, давай тут остановимся, дай мне топорик, я
+пойду за дровами.
+\ru Брат, брат, встанем здесь стойбищем, дай мне свой топор, я пойду
+заготавливать дрова.
+\ph
+\gr Zoja Afan-na wrote oringelde with a velar nasal, which is also how
+she pronounces it - so disregarding morpheme boundaries;
+golladakun = davaj ja pojdu zagotavlivaju drova, golladakuN =
+normalno, tak zdes' govorjat
+\ELANBegin 238.010
+\ELANEnd 244.450
+\ELANParticipant
+
+\id Bochilikan_etiken_045
+\tx Edʒi,       dʒaː, boːdeli         họnahandʒịnnị,
+\mb e   -LI      dʒaː  boːdel -J       họn -E-s(E)n -DʒI -nrI
+\ge neg -imp.2sg friend  leg     -prfl.sg chop  -ep-lim  -fut  -2sg
+
+\tx goːnni          etikeːn.
+\mb goːn      -n(I) etikeːn
+\ge say.nonfut -3sg  old.man
+
+\ft Don't, friend, you'll hurt your leg, said the old man.
+\ru Не надо, сестричка, а то ноги поранишь, сказал старик.
+\ru Нет, отрубишь себе ногу сказал старик.
+\ELANBegin 244.450
+\ELANEnd 248.540
+\ELANParticipant
+
+\id Bochilikan_etiken_046
+\tx Etem           etem           eččikken
+\mb e   -t(E) -m   e   -t(E) -m   erroːčin -kkEn
+\ge neg -fut  -1sg neg -fut  -1sg prox.qual  -dim
+
+\tx iččikken       họndʒịm.
+\mb erroːčin -kkEn họn -DʒI -m
+\ge prox.qual  -dim  chop  -fut  -1sg
+
+\ft No I won't, I'll chop like this, like this.
+\ru Нет нет, я осторожненько, вот так вот так буду рубить.
+\ru Нет, нет, так этак буду рубить.
+\ELANBegin 248.540
+\ELANEnd 251.630
+\ELANParticipant
+
+\id Bochilikan_etiken_047
+\tx Bọčịlịkan tedʒeridʒi     tọbakčamị           hụlịdụ
+\mb Bọčịlịkan tedʒe  -RIdʒI  tọːbar -čEn -J       hụlịčan -DU
+\ge Bochilikan       believe -ant.cvb axe.R     -dim  -prfl.sg fox          -dat
+
+\tx boːn.
+\mb boː -R(E)
+\ge give -nonfut
+
+\ft Bochilikan believed the fox and gave (him) the axe.
+\ru Бочиликан поверил лисе и отдал топорик.
+\ph tedʒeːdʒidʒi
+\ru Бочиликан поверив отдал топор лисе.
+\ELANBegin 251.630
+\ELANEnd 255.350
+\ELANParticipant
+
+\id Bochilikan_etiken_048
+\tx Omen mudekem         tọːk, omen mudekem
+\mb omen mudeken    -W   tọːk  omen mudeken    -W
+\ge one  tree.stump -acc thwack   one  tree.stump -acc
+
+\tx tọːk, omen mudekem         tọːk goːmnin       hụlị
+\mb tọːk  omen mudeken    -W   tọːk goːn -mnIn    hụlịčan
+\ge thwack   one  tree.stump -acc thwack  say   -dur.cvb fox
+
+\tx hịgịːla       gobeːn.
+\mb hịgịː -(dU)LE gobeː    -n(I)
+\ge forest     -loc    disappear -3sg
+
+\ft Saying "One tree stump 'thwack', one tree stump 'thwack', one tree
+stump 'thwack'" the fox disappeared in the forest.
+\ru Она как будто ударяет топором первое дерево, второе, третьее, и
+далеко в лес исчезла.
+\ru "Один пень стук, один пень стук, один пень стук" говоря лиса
+скрылась в лесу. 
+\gr
+\ELANBegin 255.350
+\ELANEnd 263.740
+\ELANParticipant
+
+\id Bochilikan_etiken_049
+\tx Akaː,             tọbakčamị           gaŋannị
+\mb akan          -Eː tọːbar -čEn -J       ga   -ŋE     -nrI
+\ge older.brother -voc axe.R     -dim  -prfl.sg take -pol.imp -2sg
+
+\tx goːniken,     tọbakčaman                     Bọčịlịkantakị
+\mb goːn -nIkEn   tọːbar -čEn -W   -E-n(I)      Bọčịlịkan -t(E)kI
+\ge say   -sim.cvb axe.R     -dim  -acc -ep-poss.3sg Bochilikan       -all
+
+\tx nọːdan.
+\mb nọːda -n(I)
+\ge throw    -3sg
+
+\ft Grandad, take your little axe, said the fox and threw the axe to
+Bochilikan.
+\ru Дедушка, забери топорик, крикнула лисичка и кинула топорик.
+\ru "Брат возьмешь топор" говоря, бросила топор Бочиликану.
+\ph gaŋannïːːːː
+\gr
+\ELANBegin 263.740
+\ELANEnd 272.050
+\ELANParticipant
+
+\id Bochilikan_etiken_050
+\tx Bọčịlịkan tịkụlran,
+\mb Bọčịlịkan tịkụl -R(E)   -E-n(I)
+\ge Bochilikan       get.angry -nonfut -ep-3sg
+
+\tx ịadʒịnka,            dʒụːgaj
+\mb ịa    -DʒI -n(I) =kE   dʒụː -GE    -J
+\ge do.what -fut  -3sg  =emph house    -desig -prfl.sg
+
+\tx elben.
+\mb elbe       -n(I)
+\ge cover.yurt -3sg
+
+\ft Bochilikan got angry, but what should he do, built himself a yurt.
+\ru Бочиликан рассердился но ничего не смог делать и соорудил себе
+чум.
+\ru Бочиликан рассердился, а что поделает, поставил себе дом.
+\ELANBegin 272.050
+\ELANEnd 278.290
+\ELANParticipant
+
+\id Bochilikan_etiken_051
+\tx Ịlụmụčamị         elberidʒi          dʒebleŋi
+\mb ịlụmụ -čEn -J       elbe       -RIdʒI  dʒeb -LE -ŋ  -J
+\ge yurt        -dim  -prfl.sg cover.yurt -ant.cvb eat   -nr -aln -prfl.sg
+
+\tx gennen,                itteken
+\mb gel      -nE     -n(I) it  -REk      -E-n(I)
+\ge look.for -intent -3sg  see -cond.cvb -ep-poss.3sg
+
+\tx heːrukčenni              kịŋgakụ, heːruk
+\mb heːruk    -čEn -n(I)     kịŋgakụ  heːruk
+\ge saddle.bag -dim  -poss.3sg empty         saddle.bag
+
+\tx herlenteken                       iːtmejeńun
+\mb her    -(dU)LE -n(I)     =t(E)kEn iːt  -mEjE =ńUn
+\ge bottom -loc    -poss.3sg =restr   tooth -aug  =restr
+
+\tx desčin.
+\mb desči     -n(I)
+\ge lie.nonfut -3sg
+
+\ft Having built his little yurt he went for his food and sees, his bag is
+empty, only at the bottom a big tooth is lying.
+\ru Соорудив жилище он пошел за едой, открывает суму свою,
+смотрит, там пусто, только на дне валяется зуб большой.
+\ru Поставив чум пошел за своей едой, видит сума его пустая, только
+на дне сумы лежит зубище.
+\ph genne = consonant assimilation, standard = gelne
+\ELANBegin 278.290
+\ELANEnd 292.040
+\ELANParticipant
+
+\id Bochilikan_etiken_052
+\tx Bọčịlịkan hụlịčam      bọkandaj
+\mb Bọčịlịkan hụlịčan -W   bọkan  -DE       -J
+\ge Bochilikan       fox          -acc catch.up -purp.cvb -prfl.sg
+
+\tx dʒọmkattan.
+\mb dʒọm  -kEČ -R(E)   -n(I)
+\ge remember -mult -nonfut -3sg
+
+\ft Bochilikan thought how can I take revenge on the fox.
+\ru Старик думает как бы мне мстить лисичке.
+\ru Бочиликан подумал/решил догнать лису.
+\gr
+\nt
+\ELANBegin 292.040
+\ELANEnd 295.860
+\ELANParticipant
+
+\id Bochilikan_etiken_053
+\tx Hịarịmụ dʒụːjị      hitkilben
+\mb hịaramụ   dʒụː -J       hitki     -L  -W   -n(I)
+\ge yurt          house    -prfl.sg yurt.wall -pl -acc -poss.3sg
+
+\tx nipkuketten,              hụtụrọː
+\mb nipke -kEČ -R(E)   -n(I) họtụrọː
+\ge close -mult -nonfut -3sg  fur.pants
+
+\tx herkeni                      hịlgụnač
+\mb herke              -n(I)     hịlgụn -E-Č
+\ge leather.underpants -poss.3sg borer      -ep-ins
+
+\tx tomtekren,                tarịt tala
+\mb tomtek      -R(E)   -n(I) tarịt tarak -(dU)LE
+\ge punch.holes -nonfut -3sg  then    dist  -loc
+
+\tx huːku           čịpčịn,       tarịt dʒelgenkelbu
+\mb huːk       -W   čịpčị   -n(I) tarịt dʒelgenke -L  -W
+\ge rotten.wood -acc stuff.tightly -3sg  then    animal     -pl -acc
+
+\tx ŋaːttan:
+\mb ŋaːt -R(E)   -n(I)
+\ge call   -nonfut -3sg
+
+\ft He closed the lower walls of his yurt, punched holes into his fur
+pants with a borer, then he stuffed rotten wood into his pants, then
+called the animals.
+\ru И решил так отомстить: надел на себя штаны, специально заделал
+в них дыры, запихал трухи в штаны, а потом все дыры в чуме
+залатал, чтобы никто не вышел, потом позвал зверей.
+\ru Нижние стенки юрты своей он заткнул, продырявил шилом свои
+меховые штаны, потом туда плотно запихал гнилушки, потом
+позвал животных.
+\gr nipku actually means 'zadoxnut'sja' (suffocate), while 'zatknut' is
+nipke, so she ogovorilas' here
+\ELANBegin 295.860
+\ELANEnd 310.980
+\ELANParticipant
+
+\id Bochilikan_etiken_054
+\tx Dʒelgenkeːl,      emelde,          goːn.
+\mb dʒelgenke -Eː -L  em   -E-(LI)lrE  goːn
+\ge animal     -voc -pl come -ep-imp.2pl say
+\ft Animals, come (to me), he said.
+\ru Звери, идите ко мне в гости.
+\ru "Звери идите", говорит.
+\ph emeldeːːːːːj
+\gr goːn is actually the 3PL nonfuture form for goːn, but just swallowed
+the ending -ni, she ends on a very soft note.
+\nt
+\ELANBegin 310.980
+\ELANEnd 313.670
+\ELANParticipant
+
+\id Bochilikan_etiken_055
+\tx Taraw      dọldarịdʒụr   mụnrụkačakar,
+\mb tarak -W   dọlda -RIdʒI  -L  mụnrụkan -čEkEn -L
+\ge dist  -acc hear    -ant.cvb -pl hare         -plen   -pl
+
+\tx dilikičeker,      hụlịčịčịkar    miltereːn.
+\mb diliki -čEkEn -L  hụlịčan -čEkEn -L  miltereːn
+\ge ermine -plen   -pl fox          -plen   -pl become.full.nonfut.3pl
+
+\ft Having heard that, hares, ermine and foxes came running.
+\ru Услышав зов деда прибежали зайцы, горностаи и лисицы
+(заполнили чум).
+\ru Услышав это зайцы, горностаи лисицы переполнили (их стало
+полным-полно).
+\gr miltereːn is not a transitive verb, so one cannot say 'dʒụw miltereːn',
+it's not really that they filled up the space, but more a calque from
+Russian 'ix stalo polnym-polno'
+\nt
+\ELANBegin 313.670
+\ELANEnd 320.520
+\ELANParticipant
+
+\id Bochilikan_etiken_056
+\tx Bọčịlịkan taralbụ         gụlụm      ereli
+\mb Bọčịlịkan tarak -E-L   -W   gụlụn -W   ereːliː
+\ge Bochilikan       dist  -ep-pl -acc fire      -acc around
+
+\tx tegukenni,           tarịt hokenit...
+\mb teg      -WkEn -n(I) tarịt
+\ge sit.down -caus -3sg  then
+
+\tx hokonedden.
+\mb hokon -E-D     -R(E)   -n(I)
+\ge jump  -ep-prog -nonfut -3sg
+
+\ft Bochilikan sat them down around the fire, then jumped.
+\ru Бочиликан посадил всех вокруг костра и начал плясать перед ними.
+\ru Бочиликан этих усадил вокруг костра, потом прыгает.
+\gr
+\nt
+\ELANBegin 320.520
+\ELANEnd 329.130
+\ELANParticipant
+
+\id Bochilikan_etiken_057
+\tx Gahị taptanịkan   ikeːn,     hụŋtụn hobgon hụŋtụn
+\mb gahị tapta -nIkEn   ikeː -n(I) hụŋtụn hebgen hụŋtụn
+\ge haunch slap  -sim.cvb sing  -3sg  dust        smoke  dust
+
+\tx hobgon hụŋtụn hobgon, goːniken
+\mb hebgen hụŋtụn hebgen  goːn -nIkEn
+\ge smoke  dust        smoke   say   -sim.cvb
+
+\ft Slapping his thighs he sings "smoke dust, smoke dust, smoke dust".
+\ru Начал плясать хлопая по ляжкам, чтобы труха вылетела из дырок
+штан, приговаривая "лети пыль".
+\ru Шлепая себя по ляжкам поет.
+\gr
+\ELANBegin 329.130
+\ELANEnd 336.450
+\ELANParticipant
+
+\id Bochilikan_etiken_058
+\tx Tarakam       uːr   čịpčịdaŋan
+\mb tarakam       uːr   čịpčị   -DEŋ    -E-n(I)
+\ge in.those.days before stuff.tightly -pst.ptc -ep-poss.3sg
+
+\tx huːk       hụtụrọːn          haŋaːrlịn
+\mb huːk       hụtụrọː -n(I)     haŋaːr -(dU)LI -n(I)
+\ge rotten.wood fur.pants      -poss.3sg hole     -prol   -poss.3sg
+
+\tx oŋkelben,       hobgollen                  Bọčịlịkan
+\mb oŋke -LbE -n(I) hebgen -L    -R(E)   -n(I) Bọčịlịkan
+\ge pour  -vr  -3sg  smoke  -inch -nonfut -3sg  Bochilikan
+
+\tx entekeːje hokonedʒilleren.
+\mb entekeːje hokon -E-D     -L    -R(E)   -n(I)
+\ge strong     jump  -ep-prog -inch -nonfut -3sg
+
+\ft Then the rotten wood he'd stuffed into his pants before poured out
+of the holes in his pants, started to smoke, and Bochilikan continued
+to jump even harder. 
+\ru Когда он так хлопает по штанам, поднимается пыль, вылетая из
+дырочек, и он еще пуще плящет.
+\ru Тогда давеча напиханная труха посыпалась через дырки штанов,
+задымилась, Бочиликан сильно продолжал прыгать.
+\gr hokonedʒilleren = lit. nachinal prodolzhat' prygat', sometimes can
+have a nuance of doing something not at the right time, ne kstati,
+ịaw nekidʒenenni (?) (what are you doing, if you are trying to hurry
+somewhere and person who should accompany you is doing
+something else, bummelt herum)
+\ELANBegin 336.450
+\ELANEnd 347.920
+\ELANParticipant
+
+\id Bochilikan_etiken_059
+\tx Dʒelgenkeldu       họː hebdʒen ọːdnị,
+\mb dʒelgenke -L  -DU  họː hebdʒen ọː  -n(I)
+\ge animal     -pl -dat very   funny    become -3sg
+
+\tx bekeččur          ininedʒiːllere,            ha ha ha
+\mb bekeč -dʒUr       ińin -E-D     -L    -R(E)   ha ha ha
+\ge all    -ins.prfl.pl laugh -ep-prog -inch -nonfut ha ha ha
+
+\tx ha ha ha, goːniken.
+\mb ha ha ha  goːn -nIkEn
+\ge ha ha ha  say   -sim.cvb
+
+\ft And this amused the animals, and they all started laughing, hahaha.
+\ru А зверям так смешно стало, и все стали хохотать.
+\ru Зверям стало очень смешно, все смеялись.
+\gr hebdʒen is not a Sebjan form, it's literary, in Sebjan they would say
+hebdʒeńe ọːdnị
+\ELANBegin 347.920
+\ELANEnd 358.350
+\ELANParticipant
+
+\id Bochilikan_etiken_060
+\tx Araj       Bọčịlịkan itteken,                   omen
+\mb araj       Bọčịlịkan it  -REk      -E-n(I)      omen
+\ge suddenly.Y Bochilikan       see -cond.cvb -ep-poss.3sg one
+
+\tx hụlịčakakan    haːmačịddan.
+\mb hụlịčan -kEkEn haːmat -E-D     -R(E)   -n(I)
+\ge fox          -dim   laugh   -ep-prog -nonfut -3sg
+
+\ft Suddenly Bochilikan sees one little fox is laughing.
+\ru Вдруг он услышал тоненький такой смех и обратил на это
+внимание.
+\ru Вдруг Бочиликан видит, одна лисичка хохочет.
+\ELANBegin 358.360
+\ELANEnd 363.840
+\ELANParticipant
+
+\id Bochilikan_etiken_061
+\tx Họː kịlŋịjamkar   dịlgandʒị, hu hu hu goːniken.
+\mb họː kịlŋịja -mkEr dịlgan -Č    hu hu hu goːn -nIkEn
+\ge very   thin         -aug  voice    -ins   hu hu hu say   -sim.cvb
+
+\ft With a very high voice, huhuhu.
+\ru Очень тоненьким голосом.
+\ph
+\gr
+\nt
+\ELANBegin 363.840
+\ELANEnd 369.040
+\ELANParticipant
+
+\id Bochilikan_etiken_062
+\tx Itteken                    iːten             emteku
+\mb it  -REk      -E-n(I)      iːt  -E-n(I)      emten     -kU
+\ge see -cond.cvb -ep-poss.3sg tooth -ep-poss.3sg be.broken -adjr
+
+\tx Bọčịlịkan ụnụn         nọŋman
+\mb Bọčịlịkan ụnụ    -n(I) nọŋan -W   -n(I)
+\ge Bochilikan       understand -3sg  3sg      -acc -poss.3sg
+
+\tx olekčiče      hụlịčịčan  er
+\mb olekči -čE    hụlịčan -čEn erek
+\ge cheat   -pf.ptc fox          -dim  prox
+
+\tx biddiwen.
+\mb bi -D    -RI       -W   -E-n(I)
+\ge be -prog -impf.ptc -acc -ep-poss.3sg
+
+\ft And Bochilikan saw that one tooth is missing and understands that
+this is the fox who cheated him.
+\ru А старик увидел что у этой лисички нет одного зуба и догадался
+что это и есть та самая лисичка, которая его обманула.
+\ru Видит, зубы у нее пробитые, Бочиликан понял что это обманувшая
+его лисичка.
+\ELANBegin 369.040
+\ELANEnd 377.880
+\ELANParticipant
+
+\id Bochilikan_etiken_063
+\tx Entekeːje hokoniken,     tartakị     ahụkalbụn:
+\mb entekeːje hokon -nIkEn   tarak -t(E)kI ahụkan -LbE -n(I)
+\ge strong     jump  -sim.cvb dist  -all    near     -vr  -3sg
+
+\ft Jumping a lot, he moves closer to that (fox).
+\ru Постепенно приближается к той лисичке, прыгая.
+\ru Сильно прыгая, туда приблизился.
+\gr
+\ELANBegin 377.880
+\ELANEnd 383.380
+\ELANParticipant
+
+\id Bochilikan_etiken_064
+\tx Atịkọːn,  hitkilbi,              họnalbị
+\mb atịkan  -Eː hitki     -L  -J       họnan  -L  -J
+\ge old.woman -voc yurt.wall -pl -prfl.sg top.hole -pl -prfl.sg
+
+\tx nipkuketlej!,        goːmnin       tar   emteku
+\mb nipke -kEČ -LI      goːn -mnIn    tarak emter       -kU
+\ge close -mult -imp.2sg say   -dur.cvb dist  break.intrs -adjr
+
+\tx hụlịčačam         ịaldalkan   ọldaːndʒị
+\mb hụlịčan -čEn -W   ịalda -lkEn ọldaːn       -Č
+\ge fox          -dim  -acc soot    -prop hook.for.kettle -ins
+
+\tx pahanụkannị.
+\mb pasanụkan -n(I)
+\ge hit         -3sg
+
+\ft Saying "Granny, close your walls, your top hole!" he beat this fox
+with a broken tooth with the bar from which the kettle hangs,
+covered with soot.
+\ru Он кликнул "старушка, закрывай все свои дырки" и с таким
+возгласом бьет этим крюком для повешивания чайника по хвосту
+лису.
+\ru "Старуха, стеньки окна заткни", говоря эту беззубую лису ударил
+перекладиной с золой.
+\ph
+\gr
+\nt emteku - maybe used only for teeth, not clear whether cups can also
+be emteku
+\ELANBegin 383.380
+\ELANEnd 397.410
+\ELANParticipant
+
+\id Bochilikan_etiken_065
+\tx Dʒelgenker    ọlaldarịdʒụr,
+\mb dʒelgenke -L  ọlalda      -RIdʒI  -L
+\ge animal     -pl be.frightened -ant.cvb -pl
+
+\tx ŋeːleliridʒur                   tolehki
+\mb ŋeːl    -E-L     -E-RIdʒI   -L  tol     -E  -skI
+\ge be.afraid -ep-inch -ep-ant.cvb -pl outside -ep -advb.all
+
+\tx tọhaŋčịr.
+\mb tụsan -Č  -r
+\ge hop     -res -3pl
+
+\ft The animals got a fright, were terrified and jumped outside.
+\ru Все звери испугались и кто куда бросились, через дверь через
+полог через верхное отверстие на улицу.
+\ph ŋeːreliridʒur
+\ru Звери испугавшись устрашившись, прыгнули на улицу.
+\gr here, the suffix -čI gives a slightly durative meaning, not a
+distributive meaning; I am not entirely sure whether this is the
+Resultative suffix with an imperfective meaning, or some other
+meaning.
+\ELANBegin 397.410
+\ELANEnd 404.930
+\ELANParticipant
+
+\id Bochilikan_etiken_066
+\tx Tolim        teːčimette.
+\mb tolin   -W   tiete     -mEČ -R(E)
+\ge outside -acc take.away -rec  -nonfut
+
+\ft They jostled each other to get outside.
+\ru Все на улицу.
+\ph
+\gr
+\gr
+\ELANBegin 404.930
+\ELANEnd 407.220
+\ELANParticipant
+
+\id Bochilikan_etiken_067
+\tx Tačịn       hitkili           tọhaŋčịddịlbụ
+\mb tarọːčịn hitki     -(dU)LI tụsan -Č  -D    -RI       -L  -W
+\ge dist.qual      yurt.wall -prol   hop     -res -prog -impf.ptc -pl -acc
+
+\tx hụlịčakakarbụ         họgdʒịmakaːmịtan,
+\mb hụlịčan -kEkEn -L  -W   họgdʒị -mEkEːmI -tEn
+\ge fox          -dim   -pl -acc tail        -directly -poss.3pl
+
+\tx urkeli       polpenukendʒiddilbu
+\mb urke -(dU)LI polpenuken -D    -RI       -L  -W
+\ge door -prol   jump.out   -prog -impf.ptc -pl -acc
+
+\tx mụnrụkarbụ      kọrịtatnan
+\mb mụnrụkan -L  -W   kọrịt -E  -tEn
+\ge hare         -pl -acc ear       -ep -poss.3pl
+
+\tx huːremekeːmin,           họnandụlị
+\mb huːre -mEkEːmI -n(I)     họnan  -(dU)LI
+\ge tip    -directly -poss.3sg top.hole -prol
+
+\tx tọhaŋdʒịddị     dilikerbu
+\mb tụsan -D    -RI       diliki -L  -W
+\ge hop     -prog -impf.ptc ermine -pl -acc
+
+\tx họgdʒịmakaːnịtan        kịhnịwkannị.
+\mb họgdʒị -mEkEːmI -tEn      kịhnị -WkEn -n(I)
+\ge tail        -directly -poss.3pl hit??     -caus -3sg
+
+\ft So the foxes who were jumping out through the holes in the yurt
+wall he hit directly on their tails, the hares who were jumping out
+through the door he hit directly on the ears, and the ermine who
+were jumping out through the smoke hole he hit on the tails.
+\ru Всех лисичек, которые через полог бегают, бьет по хвостам, а
+заичики через дверь выскакали, их по концам ушей бьет, а
+горностаи через дымовое отверстие, их по хвосту бьет.
+\ru Так прыгавших под стенками жиля лисичек прямо по хвосту, в
+дверь выпрыгывающих зайцев прямо по кончикам ушей, в окна
+прыгаюцих горностаев прямо по хвостам бил.
+\ph
+\gr actually, the accusative plural of diliki should be dilikilbu; Ija
+Krivoshapkina did not know the word kihniwkanni, surmised it
+should be 'hit'
+\ELANBegin 407.220
+\ELANEnd 429.390
+\ELANParticipant
+
+\id Bochilikan_etiken_068
+\tx Taraptụk            hụlịčar,    dilikil
+\mb tarak -(E)rEp -DUk(U) hụlịčan -L  diliki -L
+\ge dist  -adjr   -abl    fox          -pl ermine -pl
+
+\tx họgdʒịtan        huːren          hakarịn ọːča,
+\mb họgdʒị -tEn      huːre -n(I)     hakarịn ọː  -čE
+\ge tail        -poss.3pl tip    -poss.3sg dark      become -pf.ptc
+
+\tx mụnrụkar     kọrịtatan          huːren          ịaldańa.
+\mb mụnrụkan -L  kọrịt -E-tEn       huːre -n(I)     ịalrańa
+\ge hare         -pl ear       -ep-poss.3pl tip    -poss.3sg coal.black
+
+\ft Since then the tips of the tails of foxes and ermines are dark, and the
+tips of the hares' ears are black as coal.
+\ru С тех пор у лисичек, горностаев концы хвоста черные, а у зайцев
+концы ушей черные стали.
+\ru С этих пор у лис горностаев кончики хвостов стали темными у
+зайцев кончики ушей черные.
+\ph
+\gr according to Ija Krivoshapkina, hakarịn is a literary Even word
+\ELANBegin 429.390
+\ELANEnd 439.690
+\ELANParticipant
+
+\id Bochilikan_etiken_069
+\tx Huː kụŋal    taraw      meːn ịahaldʒụr
+\mb huː kụŋa -L  tarak -W   meːn ịašal -dʒUr
+\ge 2pl  child   -pl dist  -acc refl  eyes     -ins.prfl.pl
+
+\tx kojeːtkeres        goːli,        tiːk mụnrụkan
+\mb kojeːt -Gr(E) -s   goːn -LI      tiek  mụnrụkan
+\ge look.at -hab   -2pl say   -imp.2sg now   hare
+
+\tx kọrịtan            huːren          ịaldańa, diliki,
+\mb kọrịt -E-n(I)      huːre -n(I)     ịalrańa  diliki
+\ge ear       -ep-poss.3sg tip    -poss.3sg coal.black  ermine
+
+\tx ńọkadịt       kïrïnaːs ịan           họgdʒịn
+\mb ńọka -DI   -Č  kïrïnaːs ịak -n(I)     họgdʒị -n(I)
+\ge Sakha   -adjr -ins ermine.Y    what  -poss.3sg tail        -poss.3sg
+
+\tx huːren          ịaldańakakam        huː itkeres
+\mb huːre -n(I)     ịalrańa -kEkEn -W   huː it  -Gr(E) -s
+\ge tip    -poss.3sg coal.black -dim   -acc 2pl  see -hab   -2pl
+
+\tx goːli.
+\mb goːn -LI
+\ge say   -imp.2sg
+
+\ft Kids, you yourself see that now, the tip of the hares' ears are black,
+and the tip of the tail of the ermine, kirinas in Yakut, are black, you
+yourself see that, don't you.
+\ru Ребята, вы это сами видите, счас у зайцев концы ушей черные, у
+горностаев и лисиц концы хвоста черные, вы сами видите.
+\ru Вы дети видите это своими глазами, сейчас у зайца кончик ушей
+черный, у горностая кончик хвоста черненьки, вы видите.
+\ELANBegin 439.690
+\ELANEnd 458.830
+\ELANParticipant
+
+\id Bochilikan_etiken_070
+\tx Tarọːčịn er... tar   dʒugulin                erek ńịmkan.
+\mb tarọːčịn erek  tarak dʒugu -(dU)LI -n(I)     erek ńịmkan
+\ge dist.qual      prox  dist  about  -prol   -poss.3sg prox tale
+\ft That's what this fairy tale is about.
+\ru Такой это об этом эта сказка.
+\ELANBegin 458.830
+\ELANEnd 463.130
+\ELANParticipant
+
+\id Bochilikan_etiken_071
+\tx Vse.
+\ELANBegin 463.130
+\ELANEnd 464.000
+\ELANParticipant
+
+\id Bochilikan_etiken_072
+\tx laughter, clapping.
+\ELANBegin 464.000
+\ELANEnd 467.620
+\ELANParticipant
+
+\id Bochilikan_etiken_073
+\tx Očen' xorošo.
+\ELANBegin 467.620
+\ELANEnd 469.320
+\ELANParticipant
+
+\id Bochilikan_etiken_074
+\tx A ja podumala vot eto naprimer, esli ja eto zapišu
+evenskim šriftom [a nu  zapišem] i esli ja pojdu v
+detsad naprimer ili možet byt' v načal'noj  klasse,
+možno by poprosit' detej čtoby oni risovali čto-nibud'
+pod etim  skazkam, i my doma mogli by kak knižka
+sdelat [nu aha, knižečku možno]  dlja detej dlja dlja....
+eto normal'no bylo by že [nu možno, aha]
+\ELANBegin 469.410
+\ELANEnd 504.330
+\ELANParticipant
+
+\id Bochilikan_etiken_075
+\tx U zajcev, u gornostaev, u lisiček xvosty černye že, da,
+u lisiček u  gornostaev xvosty černye, a u zajc... u
+zajčat, u zajčikov eto... konec  [uši] uši.
+\ELANBegin 504.330
+\ELANEnd 527.060
+\ELANParticipant
+
+\id Bochilikan_etiken_076
+\tx Vot eto pometka starika Bočilikan.
+\ELANBegin 527.060
+\ELANEnd 531.000
+\ELANParticipant
+
+\id Bochilikan_etiken_077
+\tx Eto on otomstil za to čto etot... za to čto lisička ego
+obmanula.
+\ELANBegin 531.000
+\ELANEnd 539.040
+\ELANParticipant
+
+\id Bochilikan_etiken_078
+\tx laughter
+\ELANBegin 539.040
+\ELANEnd 541.190
+\ELANParticipant
+
+\id Bochilikan_etiken_079
+\tx On zloj na vsex zverej byl iz-za odnoj etoj lisički
+kotoraja obmanula, vot  tak on otomstil.
+\ELANBegin 541.190
+\ELANEnd 549.780
+\ELANParticipant 
+
+
+\ELANMediaURL file:///c:/Documents and Settings/Brigitte
+Pakendorf/Desktop/Sebjan_Kuel2009/sound_files/narratives/StepanovaZA_bochelikan_etiken.WAV
+\ELANMediaMIME audio/x-wav

@@ -1,0 +1,178 @@
+\_sh v3.0  1142 Text
+
+\id Amganov_EI_pear_story21
+\ref dewuL, nominal, intensifies
+\tx Tarakasị     bejkeːje   unet  čakačịddan,                         ọːnakan ablandawụl,           amaskị
+\mb tarak -E=sI    bej -kEːjE unet  čak   -E-Č   -E-D     -R(E)   -E-n(I) ọːnakan abla   -n(I)     =dEwUl amar   -skI
+\ge dist  -ep=emph man -aug    still gather -ep-res -ep-prog -nonfut -ep-3sg how        stupid -poss.3sg =disj  behind -advb.all
+
+\tx kojeːčislide
+\mb kojeːt -E-s(E)n -LI      =DE
+\ge look.at -ep-lim  -imp.2sg =ptl
+
+\ft And that man is still gathering (pears), what an idiot, you should look back!
+\ru А тот мужчина еще собирает, ой какой глупый, посмотрел бы назад!
+\ph
+\gr kojeːčislillede = posmotrite xotja by!
+
+\id Amganov_EI_pear_story26
+\ref dewuL, verb, xotj by
+\tx Kojeːtli        ịadụ   kụŋakar       emedde                    deːpki, ulgimdendewul,                   ittintitte
+\mb kojeːt -LI      ịak -DU  kụŋa -KEn -L  em   -E-D     -R(E)       deːpki  ulgim -DE       -n(I)     =dEwUl it  -RI  -n(I)     =tIt =DE
+\ge look.at -imp.2sg what  -dat child   -dim -pl come -ep-prog -nonfut.3pl opposite ask   -purp.cvb -poss.3sg =disj  see -pst -poss.3sg =ptl =ptl
+
+\tx taral        kụŋal    grušaw     gịrkar            debniker.
+\mb tarak -E-L   kụŋa -L  gruša -W   gịrka -R(E)       dʒeb -nIkEn   -L
+\ge dist  -ep-pl child   -pl pear.R -acc walk    -nonfut.3pl eat   -sim.cvb -pl
+
+\ft Look, why are the boys coming this way, he should have asked, after all he saw that the boys walk eating pears.
+\ru Посмотри, зачем пацаны идут навстречу, хоть бы спросил, он же видел, что пацаны идут и едят грушу. 
+\ph
+\gr (2007) ulgimdendewul = on xot' by sprosil; ty xot' by sprosil = ulgimnideːlu; vy xot' sprosili by = ulgimemčis or ulgimčedewul bisekes; oni xot' by sprosili = ulgimčedewul
+biseketen --> once again I'm not getting paradigms when I ask for them.... (2009: translation file quest_narratives2007_130609, 25:30) ulgimdendewul = emu by sprosit', tebe
+by sprosit' = ulgimnekeste(wur), ja sprosila by = bi ulgimdekudewul; verified later (translation files quest_narrat2007_230609, 6:28) that there are basically two synonymous
+ways of expressing this subjunctive meaning: 1) with the Purposive converb + Possessive, 2) with the Conditional converb (REk) + Possessives --> ulgimdendewul =
+ulgimnekendewul, ulgimnekestewul = ulgimdestewul 'ty by sprosil', ulgimdekudewul = ulgimnekudewul 'ja sprosila by'
+
+\id Egorova_RM_Anin_1_050
+\ref dewuL, verb, ili
+\tx Tarak goːweːtten               emdeji,       emmoːttendewul                   ńuːnnoːtten,             goːweːtten,              biː
+\mb tarak goːn -WEːČ -R(E) -n(I)  emde -J       em   -WEːČ -R(E)  -n(I)  =dEwUl ńuːn -WEːČ -R(E) -n(I)  goːn -WEːČ -R(E) -n(I)  biː
+\ge dist  say   -gnr    -nonfut -3sg soul -prfl.sg come -gnr    -nonfut  -3sg =disj  point  -gnr    -nonfut -3sg say   -gnr    -nonfut -3sg 1sg
+
+\tx undule          emnem.
+\mb hun     -(dU)LE em   -R(E) -m
+\ge 2pl.obl -loc    come -nonfut -1sg
+
+\ft That one says that he will come, or is coming, he points and says "I have come to you".
+\ph
+\gr 30.01.13 (questions6, 9:15) goːweːtten emdeji = lit. govorit chtoby pridti; =dewul seems to have a meaning of 'ili' (cf. 133), though at this point she said it means "esli on
+prixodit" as opposed to emneken = esli on pridet, esli ja prixozhu = emmoːttemdewel
+\ru Этот говорит, что он придет, или приходит, показывает, говорит: "Я к вам  пришел."
+\ev Тарак говэттэн эмдэйи, эммоттэндэвэл, нённоттэн, говэттэн: "Би ундулэ  эмнэм."
+\ELANBegin 00:05:01.221
+\ELANEnd 00:05:07.662
+\ELANParticipant
+
+\id Egorova_RM_Anin_1_133
+\ref dewuL, nominal, ili
+\tx Asịtkị,   asịtkịdawụl    uŋ ŋennoːtten,             ili  bejtekidewul
+\mb asị -t(E)kI asị -t(E)kI =dEwUl uŋ ŋen -WEːČ -R(E) -n(I)  ili  bej -t(E)kI =dEwUl
+\ge woman -all    woman -all    =disj  do  go   -gnr    -nonfut -3sg or.R man -all    =disj
+
+\ft to a woman, it goes to a woman or to a man
+\ph
+\gr 30.01.13 (questions6, 37:45) asịtkịdawụl, bejtekidewul = ili k zhenshine, ili k muzhchine (39:15) asịtkịgụ, bejtekigu = to li k zhenshine, to li k muzhchine - question, doubt
+\ru К женщине, или же женщине приходит, или же мужчине.
+\ev Ашитки, ашитки-давал ӈэнноттэн или бэйтэки-дэвэл
+\ELANBegin 00:12:10.184
+\ELANEnd 00:12:15.370
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_075
+\ref dewuR, nominal, intensifies
+\tx Tiːkkel    ačča, tiːkbedʒi  ọrdụla                ọrọttịdawurdatit           aːnda     ešten      aːra.
+\mb tiek =gEl   ačča  tiek =bEdʒI ọrọn          -(dU)LE ọrọč -DI   =dEwUl =DE  =tIt haːn =DE  e   -R(E)   haː -R
+\ge now  =coord neg     now  =emph   domestic.reindeer -loc    Oroch     -adjr =disj  =ptl =ptl some  =ptl neg -nonfut know -neg.cvb
+
+\ft Now there aren't (any), NOW in the herd some don't even know Even anymore!
+\gr orroti-dawur-da-tit = po-evenski dazhe govoritj, ochenj usilenno, *orrottidatit = no; orottidawur = dazhe po-evenski, orottidawurdatit = even stronger expression; glossing
+dawur as =dEwUl is not correct, I think, 
+\gr checked 29/06/2016: could one say this with =dawuL? orrotidawuldatit = no, and one cannot say "orrotidawul" by itself, either
+\nt
+\ev Тик-кэл ачча, тик-бэди ордула оротти-давыр-да ан-да эштэн ара.
+\ru Сейчас-то нету, уж сейчас-то в табуне даже по-эвенски говорить некоторые  не умеют.
+\ELANBegin 00:05:55.683
+\ELANEnd 00:06:02.298
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_098
+\ref dewuL, nominal, epistemic
+\tx Ịmanna bišeken               goːweːtten               "Tịmịna aj   ọːdan",                 tọːbaru     ukelgiččoːtten
+\mb ịmanra bi -REk      -n(I)     goːn -WEːČ -R(E) -n(I)  tịmịna  aj   ọː  -DE       -n(I)     tọːbar -W   ukelgič -WEːČ -R(E) -n(I)
+\ge snow     be -cond.cvb -poss.3sg say   -gnr    -nonfut -3sg tomorrow    good become -purp.cvb -poss.3sg axe.R     -acc heat.up  -gnr    -nonfut -3sg
+
+\tx tọγla,     ńanaši     uŋne             ịalada,          ịmannaladawul         ečin      nekešn...,    neːweːtten.
+\mb tọg -(dU)LE ńaːn =sI   uŋ       -(dU)LE ịak -(dU)LE =DE  ịmanra -(dU)LE =dEwUl erroːčin nek -E  -s(E)n neː -WEːČ -R(E) -n(I)
+\ge fire  -loc    and    =emph something -loc    what  -loc    =ptl snow     -loc    =disj  prox.qual  do  -ep -lim   put  -gnr    -nonfut -3sg
+
+\ft If there was snow, he would say "let it be good (weather) tomorrow", he would heat up the axe in the fire and then do quickly like this... would put it in the snow.
+\ph
+\gr ukelgiččoːtten = nagreval; ukelloːtten = intrans, kubek ukelloːtten chajnik nagrevaetsja; kubeku ukelgičiddem = ja greju chajnik; the -gič- clearly has a transitivizing function
+here, but since we don't have any other verbs with this ending, I'm going to enter it as a separate lexeme;;; imannaladawul = v sneg, "ili mozhet v sneg lozhil", I think here the
+particle has indeed a disjunctive meaning -- "uŋne ịalada imannaladawul" = kuda-nibudj ili v sneg
+\nt
+\ev иманна бишэкэн говэттэн: "Тимина  ай одан", тобару укэльгиччоттэн тогла Нянаши уӈнэ яла-да иманнала-давал эчин нэкэшноттэн,
+нэвэттэн
+\ru когда снег был, говорил:  "Завтра чтобы стало хорошо", топор нагревал на огне. И вот на нем, где-нибудь на снег вот так сделает
+быстренько, положит.
+
+\ELANBegin 00:07:57.700
+\ELANEnd 00:08:08.754
+\ELANParticipant RME
+
+\id Egorova_RM_father_farrier_132
+\ref dewuR, numeral, epistemic
+\tx Ọkaːtaši       bišin            ịlandawur   kilometr   seloduk.
+\mb ọkaːt -E  =sI   bi -RI -n(I)      ịlan =dEwUl kilọmetr selo      -DUk(U)
+\ge river    -ep =emph be -pst -poss.3sg three  =disj  km.R       village.R -abl
+\ft As for the river, it was probably three kilometres from the village.
+\ph
+\gr ilandawur = okolo 3-x kilometrov, vozmozhno, naverno stolko bylo;  
+\gr 29/06/2016: could one say "ilandawul"? = NO, ilandawur; 
+\qu could one say this with dawuL? ilandawuL kilometr?
+\ev Окаташи бишин илан-давар километр селодук.
+\ru Река же была наверно в трех километрах от села.
+
+\ELANBegin 00:11:07.742
+\ELANEnd 00:11:11.795
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_037
+\ref dewuL, numeral, xotja by
+\tx Ńanaši     tarak ụlaːbboːttan                   dʒuːre:   ekedmer       i     umendewul   kụŋaŋan            bidʒin.
+\mb ńaːn =sI   tarak hụlaː -B   -WEːČ -R(E) -n(I)  dʒoːr -E  eken   -dmEr  i     omen =dEwUl kụŋa -ŋ  -n(I)     bi -DʒI -n(I)
+\ge and    =emph dist  leave    -med -gnr    -nonfut -3sg two     -ep mother -contr and.R one  =disj  child   -aln -poss.3sg be -fut -3sg
+\ft And then two are left: the mother and at least one child.
+\ph
+\gr umendewul = xotja by 1; ʤuːrdewul = xotja by 2; (dajte mne) xotja by 2 jabloka = ʤuːrbedewul
+\nt
+\ev Нянаши тарак улабботан дьөр: экэдмэр и умэндэвэл куӈаӈэн бидин.
+\ru И вот остаются двое: мать и хотя бы один ребенок бывает.
+
+\ELANBegin 00:03:37.560
+\ELANEnd 00:03:44.590
+\ELANParticipant RME
+
+\id Egorova_RM_Utakan_046
+\ref dewuL, verb, chto ugodno
+\tx Ịawda         "magdʒịlịw    dʒebboːttam"             ili  guːndʒindewul,         ili  "ọltịwaːttam",             ịawụl
+\mb ịak -W   =DE  magdʒịlị -W   dʒeb -WEːČ -R(E) -m     ili  goːn -DʒI -n(I) =dEwUl ili  ọlra -tI -WEːČ -R(E) -m     ịak =(W)Ul
+\ge what  -acc =ptl insect        -acc eat   -gnr    -nonfut -1sg or.R say   -fut -3sg   =disj  or.R fish   -vr -gnr    -nonfut -1sg what  =indef
+
+\tx guːndʒinni.
+\mb goːn -DʒI -nrI
+\ge say   -fut  -2sg
+
+\ft Whatever, "I eat worms" or it will say "I eat fish soup", you will say whatever.
+\nt
+\ev Явда, "магдилив дебботтам", или гундиндэвэл или "олтиваттам", явул  гундинни.
+\ru Что-нибудь "червей ем", или хотя бы скажет (или) "уху ем", что угодно  скажешь.
+\ELANBegin 00:04:28.300
+\ELANEnd 00:04:36.730
+\ELANParticipant RME
+
+\id Egorova_RM_Yakutia069
+\ref dewuL, numeral, epistemic
+\tx Munduleke                nurgeniddʒoːtte,                  ajịč      umekič uŋe, možet omendewul   bej nurgedeji,
+\mb mun        -(dU)LE =kE   nurgen -E-D     -WEːČ -R(E)       aj   -E-Č   umekič uŋe  možet omen =dEwUl bej nurge -DE       -J
+\ge 1pl.ex.obl -loc    =emph dance  -ep-prog -gnr    -nonfut.3pl good -ep-ins very    now   can.R  one  =disj  man dance -purp.cvb -prfl.sg
+
+\tx meːn nurgeni             binni.
+\mb meːn nurge -n  -n(I)     bi -R(E)   -n(I)
+\ge refl  dance -nr -poss.3sg be -nonfut -3sg
+
+\ft  Chez nous they dance very well, well one person can dance, he has his own dance.
+\ru Вот у нас танцуют хорошо очень, ну вот может один человек танцевать, свой танец есть.
+\ph
+\gr binni = bisni, just an assimilated form

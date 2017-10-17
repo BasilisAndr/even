@@ -1,0 +1,261 @@
+\_sh v3.0  984  Text
+
+\id S_InalienablePossession01
+\ref elicited with Ija Krivoshapkina, sebjan170308_27:35
+\tx Minu         irgečeddi               ejmu             biː adʒịt ejmu             ehni
+\mb min     -W   irget -E-D     -RI       enen   -W        biː ajdịt  enen   -W        e   -R(E)   -n(I)
+\ge 1sg.obl -acc raise -ep-prog -impf.ptc mother -poss.1sg 1sg  truth    mother -poss.1sg neg -nonfut -3sg
+
+\tx bihe.       Adʒịt ejmu             kọratla      tegetten,                      haːdụn biː
+\mb bi -R       ajdịt  enen   -W        gorod  -(dU)LE teg      -E-Č   -R(E)   -n(I) haːdụn biː
+\ge be -neg.cvb truth    mother -poss.1sg town.R -loc    sit.down -ep-res -nonfut -3sg  sometimes 1sg
+
+\tx nọŋman               ikkerem.
+\mb nọŋan -W   -n(I)     it  -Gr(E)      -m
+\ge 3sg      -acc -poss.3sg see -hab.nonfut -1sg
+
+\ft
+\ru Моя мама которая меня воспитывает, не моя настоящая мать. Моя настоящая мать живет в городе, и я ее иногда там
+вижу.
+\gr *eneŋmu - they don't say this for 'adoptive mother'; kụŋaŋụ govorjat, but this does not mean 'not true child', this is used
+for one's own children
+
+\id S_Predicate_Possessive_01
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_0:15
+\tx Erek ọrọn          miŋŋi            ehni              bihe,       amụ
+\mb erek ọrọn          min     -ŋI       e   -R(E)   -n(I) bi -R       aman   -W
+\ge prox domestic.reindeer 1sg.obl -pred.poss neg -nonfut -3sg  be -neg.cvb father -poss.1sg
+
+\tx ọrọnnị                //  amŋiw.
+\mb ọrọn          -n(I)     *// aman   -ŋI       -W
+\ge domestic.reindeer -poss.3sg *** father -pred.poss -poss.1sg
+\ft
+\ru Этот олень не мой, а моего отца.
+\ph
+\nt sebjan040308_keti_27:15 (I wanted to find out whether the order is N-Pred-Poss, or N-Poss-Pred, because in Kamchatka I
+got 2 different orders of the suffix)
+\tx Erek kniga  miŋŋi            ehni              bihe,       biː etikeŋiw.
+\mb erek kniga  min     -ŋI       e   -R(E)   -n(I) bi -R       biː etikeːn -ŋI       -W
+\ge prox book.R 1sg.obl -pred.poss neg -nonfut -3sg  be -neg.cvb 1sg  old.man  -pred.poss -poss.1sg
+\ru Эта книга - не моя, а моего мужа.
+\tx Hiː tegetti                    dʒụːs          hiŋŋi            ehni              bihe,       hiː
+\mb hiː teg      -E-Č   -RI       dʒụː -s(I)     hin     -ŋI       e   -R(E)   -n(I) bi -R       hiː
+\ge 2sg  sit.down -ep-res -impf.ptc house    -poss.2sg 2sg.obl -pred.poss neg -nonfut -3sg  be -neg.cvb 2sg
+
+\tx upeːŋis.
+\mb upeː       -ŋI       -s(I)
+\ge grandmother -pred.poss -poss.2sg
+\ru Дом где ты живешь не твой, а твоей бабушки.
+
+\id S_Predicate_Possessive_02
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_1:01
+\tx Erek ahịkan   knigan.
+\mb erek asị -KEn kniga  -n(I)
+\ge prox woman -dim book.R -poss.3sg
+\ft
+\ru Это книга девушки. (Эта книга - девушкина.)
+
+\id S_Predicate_Possessive_03
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_1:10
+\tx Erek ŋiː ịbgọke      dʒụːn?         - Uybanopalŋị.
+\mb erek ŋiː ịbgọt =kE   dʒụː -n(I)     - Uybanop -E-L   -ŋI
+\ge prox who   good      =emph house    -poss.3sg - Ivanov  -ep-pl -pred.poss
+\ft
+\ru Чей этот красивый дом? Ивановых.
+\ph no vowel harmony between adjective and particle in ịbgọke
+\gr
+\nt elicited with Ija Krivoshapkina, sebjan080308_40:55
+\tx Er   ŋiː ịbgọke      dʒụːn?         - Ivanovalŋi.
+\mb erek ŋiː ịbgọt =kE   dʒụː -n(I)     - Ivanov -E-L   -ŋI
+\ge prox who   good      =emph house    -poss.3sg - Ivanov -ep-pl -pred.poss
+
+\id S_Predicate_Possessive_04
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_2.00
+\tx Ahịkan   dʒajụtnịkan       atịkan  škatulkawan                garịn,            tarịt haraːn
+\mb asị -KEn dʒaj -E-Č   -nIkEn   atịkan  škatulka -W   -E-n(I)      ga   -RI  -n(I)     tarịt haraːn
+\ge woman -dim hide  -ep-res -sim.cvb old.woman box.R     -acc -ep-poss.3sg take -pst -poss.3sg then    bed
+
+\tx herdelen                 dʒajrịn.
+\mb herde  -(dU)LE -n(I)     dʒaj -RI  -n(I)
+\ge bottom -loc    -poss.3sg hide  -pst -poss.3sg
+\ft
+\ru Девочка тайком взяла маленькую шкатулки старухи и спрятала ее под кровать.
+\ph
+\nt elicited with Ija Krivoshapkina, sebjan080308_41:15
+\tx Ahịkan   dʒọrmịnịkan   atịkan  kotlen škatulkawan                gan              ńan   haraːn
+\mb asị -KEn dʒọrọm -nIkEn   atịkan  kotlen škatulka -W   -E-n(I)      ga   -R(E)       ńaːn haraːn
+\ge woman -dim steal       -sim.cvb old.woman small  box.R     -acc -ep-poss.3sg take -nonfut.3sg and    bed
+
+\tx herdelen                 dʒajran.
+\mb herde  -(dU)LE -n(I)     dʒaj -R(E)   -n(I)
+\ge bottom -loc    -poss.3sg hide  -nonfut -3sg
+
+\id S_Predicate_Possessive_05
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_2_3:30
+\tx Erek dʒụː, upeːŋi,              dʒulle       ọːpča.
+\mb erek dʒụː  upeː       -ŋI       dʒul -(dU)LE ọː  -B   -čE
+\ge prox house     grandmother -pred.poss front -loc    become -med -pf.ptc
+
+\ft
+\ru Этот дом, бабушкин, давно построен.
+\ph
+\nt haːwdị is only used for living beings, humans and animals
+\gr
+\nt elicited with Ija Krivoshapkina, sebjan080308_42:20
+\tx Erek dʒụː, upeːŋi,              họː irbeːt.
+\mb erek dʒụː  upeː       -ŋI       họː irbeːt
+\ge prox house     grandmother -pred.poss very   old
+
+\id S_Predicate_Possessive_06
+\ref elicited with Ekaterina Igorovna Shadrina, sebjan040308_keti_31:00
+\tx Nọŋan dʒaːltan          tiːk emniten,            miŋŋi            tịmana   emdʒir.
+\mb nọŋan dʒaːl   -tEn      tiek  em   -RI  -tEn      min     -ŋI       tịmịna em   -DʒI -r
+\ge 3sg      relatives -poss.3pl now   come -pst -poss.3pl 1sg.obl -pred.poss tomorrow   come -fut  -3pl
+
+\ft
+\ru Его родственники сейчас приехали, а мои завтра приедут.
+\ph
+\nt elicited with Ija Krivoshapkina, sebjan080308_42:35
+\tx Nọŋan dʒaːlnị         uže      emne,        miŋŋilke                   tịmana   emdʒir.
+\mb nọŋan dʒaːl   -n(I)     uže      em   -R(E)   min     -ŋI       -L  =kE   tịmịna em   -DʒI -r
+\ge 3sg      relatives -poss.3sg already.R come -nonfut 1sg.obl -pred.poss -pl =emph tomorrow   come -fut  -3pl
+
+\id S_Predicate_Possessive_07
+\ref elicited with Ekaterina Igorovna Shadrina, sebjan040308_keti_31:35
+\tx Biː dʒaːldụlaw              goːli         //  goːŋenni          mindule         emdednen.
+\mb biː dʒaːl   -(dU)LE -W        goːn -LI      *// goːn -ŋE     -nrI min     -(dU)LE em   -DE       -tEn
+\ge 1sg  relatives -loc    -poss.1sg say   -imp.2sg *** say   -pol.imp -2sg 1sg.obl -loc    come -purp.cvb -poss.3pl
+\ft
+\ru Скажи моим родственникам, чтобы они пришли.
+
+\id S_Predicate_Possessive_08
+\ref elicited with Ekaterina Igorovna Shadrina, sebjan040308_keti_32:00
+\tx Erek hịrkan - miŋŋi.
+\mb erek hịrkan - min     -ŋI
+\ge prox knife    - 1sg.obl -pred.poss
+\ft
+\ru Этот нож - мой.
+
+\id S_Predicate_Possessive_09
+\ref elicited with Ekaterina Igorovna Shadrina, sebjan040308_keti_33:15
+\tx Tar   knigaw      boːli,       miŋŋiw.
+\mb tarak kniga  -W   boː -LI      min     -ŋI       -W
+\ge dist  book.R -acc give -imp.2sg 1sg.obl -pred.poss -poss.1sg
+\ru Дай мне ту книгу, мою.
+\ph
+\gr sebjan040308_keti_32:15
+\tx Tar   biː knigawụ             boːli.
+\mb tarak biː kniga  -W   -W        boː -LI
+\ge dist  1sg  book.R -acc -poss.1sg give -imp.2sg
+\nt At first she misunderstood, and gave me this sentence, which is "daj mne tu moju knigu". And at first she said only "biː
+knigaw boːli" and said that that means "daj mne moju knigu", i.e. ACC-POSS.1SG, but then she changed that
+
+\id S_Predicate_Possessive_10
+\ref elicited with Ekaterina Igorovna Shadrina, sebjan040308_keti_34:00
+\tx Ŋiː erek lodkan?          - Ọmọlgọŋị.
+\mb ŋiː erek lodka  -n(I)     - ọmọlga -ŋI
+\ge who   prox boat.R -poss.3sg - boy        -pred.poss
+\ft
+\ru Чья эта лодка? - мальчика.
+\ph
+\nt elicited with Ija Krivoshapkina, sebjan080308_43:10
+\tx Er   ŋiː lodkan?          - Ọmọlgọŋị.
+\mb erek ŋiː lodka  -n(I)     - ọmọlga -ŋI
+\ge prox who   boat.R -poss.3sg - boy        -pred.poss
+
+\id S_Predicate_Possessive_11
+\ref elicited with Ekaterina Igorovna Shadrina, sebjan040308_keti_34:25
+\tx Anŋamta hupkučimŋe    dʒụːwan                mut    mịan ineŋit       ịlụrịt.
+\mb anŋamta hupkut -E-mŋE  dʒụː -W   -E-n(I)      mut    mịan ineŋ -E-Č   ịl     -U    -RI  -t(I)
+\ge new      learn  -ep-agnr house    -acc -ep-poss.3sg 1pl.in ten    day   -ep-ins stand.up -caus -pst -poss.1pl.in
+\ft
+\ru Новый дом учительницы мы построили за 10 дней.
+\gr Checked whether the above is the "new house of the teacher" or "the house of the new teacher", and she said it is the
+"new house of the teacher"; "dom novoj uchitel'nicy" would be:
+\tx elekes   //anŋamta emče        hupkučimŋe    dʒụːn
+\mb elekes   anŋamta   em   -čE    hupkut -E-mŋE  dʒụː -n(I)
+\ge at.first new        come -pf.ptc learn  -ep-agnr house    -poss.3sg
+
+\id S_Predicate_Possessive_12
+\ref elicited with Ija Krivoshapkina, sebjan170308_29:40
+\tx Tiniw     biː glava  anŋamta atịkaŋman                ittiw              - nọŋan họː nọːd,
+\mb tiniw     biː glava  anŋamta atịkan  -W   -E-n(I)      it  -RI  -W        - nọŋan họː nọːd
+\ge yesterday 1sg  head.R new      old.woman -acc -ep-poss.3sg see -pst -poss.1sg - 3sg      very   pretty
+
+\tx goːli.
+\mb goːn -LI
+\ge say   -imp.2sg
+\ft
+\ru Я вчера видела новую жену главы - она очень красивая, правда?
+
+\id S_Predicate_Possessive_13
+\ref elicited with Ija Krivoshapkina, sebjan170308_30:10
+\tx Biː knigew      hupkučimŋe    ọmọlgọdụn         boːriw,            (ịamị goːmị)
+\mb biː kniga  -W   hupkut -E-mŋE  ọmọlga -DU  -n(I)     boː -RI  -W        ịamị  goːn -mI
+\ge 1sg  book.R -acc learn  -ep-agnr boy        -dat -poss.3sg give -pst -poss.1sg why       say   -cond.cvb
+
+\tx hupkučimŋe    dʒụːlaj               ačča bihin.
+\mb hupkut -E-mŋE  dʒụː -(dU)LE -J       ačča bi -RI  -n(I)
+\ge learn  -ep-agnr house    -loc    -prfl.sg neg    be -pst -poss.3sg
+\ft
+\ru Я дал книгу молодому сыну учителя, потому что учитель не был дома.
+\gr the phrase in brackets is an obvious calque from Sakha toγo dieteχχe, is occasionally said for "because"
+
+\id S_Predicate_Possessive_14
+\ref elicited with Ija Krivoshapkina, sebjan170308_36:55
+\tx Mut    tiniw     hiː upeːs                anŋamta ogorottekin                         herrit,
+\mb mut    tiniw     hiː upeː       -s(I)     anŋamta ogorod            -t(E)kI -n(I)     hor -RI  -t(I)
+\ge 1pl.in yesterday 2sg  grandmother -poss.2sg new      vegetable.patch.R -all    -poss.3sg go  -pst -poss.1pl.in
+
+\tx nọŋan muttu       kapustaw       moːlelde             goːnin.
+\mb nọŋan mut    -DU  kapusta   -W   moː  -l  -E-(LI)lrE  goːn -RI  -n(I)
+\ge 3sg      1pl.in -dat cabbage.R -acc water -vr -ep-imp.2pl say   -pst -poss.3sg
+
+\ft
+\ru Мы вчера пошли к новому огороду твоей бабушки, она нас попросила там поливать капусту.
+
+\id S_Predicate_Possessive_15
+\ref elicited with Ija Krivoshapkina, sebjan170308_31:20
+\tx Biː Ivanoval      //  Ivanovja      anŋamta kvartiraladnan
+\mb biː Ivanov -E-L   *// Ivanov =jE    anŋamta kvartira     -(dU)LE -tEn
+\ge 1sg  Ivanov -ep-pl *** Ivanov =assoc new      appartment.R -loc    -poss.3pl
+
+\tx tegettem,                     nọŋartan kọratla      biddilednen.
+\mb teg      -E-Č   -R(E)   -m   nọŋartan gorod  -(dU)LE bi -D    -RI       -(dU)LE -tEn
+\ge sit.down -ep-res -nonfut -1sg 3pl         town.R -loc    be -prog -impf.ptc -loc    -poss.3pl
+\ft
+\ru Я живу в новой квартире Ивановых, пока они в городе.
+
+\id S_Predicate_Possessive_16
+\ref elicited with Ija Krivoshapkina, sebjan170308_37:50
+\tx Mut    hupkučimŋe    nọːd dʒụːdụkụn          ńuːrit ńan   magazindụla   //  magazinteki
+\mb mut    hupkut -E-mŋE  nọːd dʒụː -DUk(U) -n(I)     ńuːrit ńaːn magazin -(dU)LE *// magazin -t(E)kI
+\ge 1pl.in learn  -ep-agnr pretty  house    -abl    -poss.3sg hair     and    shop.R  -loc    *** shop.R  -all
+
+\tx herrit.
+\mb hor -RI  -t(I)
+\ge go  -pst -poss.1pl.in
+\ft
+\ru Мы вышли из красивого дома учителя и пошли в магазин / к магазину.
+
+\id S_Predicate_Possessive_17
+\ref elicited with Ija Krivoshapkina, sebjan170308_38:45
+\tx Ammụ           anŋamta hịrkandʒịn         biː kiliepu      čịkịrịw           ńan
+\mb aman   -W        anŋamta hịrkan -Č  -n(I)     biː kilieb  -W   čịkị -RI  -W        ńaːn
+\ge father -poss.1sg new      knife    -ins -poss.3sg 1sg  bread.R -acc cut.off   -pst -poss.1sg and
+
+\tx hajaːldaj          čịkịrịw.
+\mb hajaːlda  -J       čịkị -RI  -W
+\ge finger.toe -prfl.sg cut.off   -pst -poss.1sg
+\ft
+\ru Я с новым ножом отца порезала хлеб и порезала себе палец.
+
+\id S_Predicate_Possessive_18
+\ref elicited with Ija Krivoshapkina, sebjan170308_39:45
+\tx Biː hupkučimŋe    nọːd atịkanńụnnị   kọratla      biweːttiw.
+\mb biː hupkut -E-mŋE  nọːd atịkan  -ńUn -nrI gorod  -(dU)LE bi -WEːČ -RI  -W
+\ge 1sg  learn  -ep-agnr pretty  old.woman -com  -2sg town.R -loc    be -gnr    -pst -poss.1sg
+\ft
+\ru Я с красивой женой учителя ездила в город.
+\ph
+\gr biweːt seems to have a similar function to Sakha sïrït --> calque?

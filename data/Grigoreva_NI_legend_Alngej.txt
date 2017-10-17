@@ -1,0 +1,2148 @@
+\_sh v3.0  1082 Text
+
+\id Grigoreva_NI_legend_Alngej_000_metadata
+\ref Recorded on 12 July 2009 by Natalia Aralova and Brigitte Pakendorf. Since during the first recording session
+(Grigoreva_Natalia_Ionovna_shkola_remesel) NIG got somewhat carried away, telling us about her life and giving a Christian sermon,
+she hadn't managed to tell the things she had actually prepared - fairy tales and a legend and a bit about the local toponymy. We
+therefore arranged for a second recording session, which took place 2 weeks after the first one in the flat that BP and NA are renting
+in Esso. We recorded in the living room, and had switched off the fridge and all telephones, so it was fairly quiet with the exception of
+the occasional car going by outside the window, or a group of children shouting. This session was even longer than the first, taking 4
+hours in total; however, there was a break in between to drink tea, and later NIG also went to the shops to buy some cigarettes, the
+actual recording time was 2 hours. NIG had prepared herself beforehand, and had brought written versions (Russian and Even) of
+the stories and fairy tales she wanted to tell, which she used mainly as a prompt. BP monitored the Marantz while NA monitored the
+video camera.
+\qu In 2016, transcribed by BP, transcription checked and Russian translation by Rimma Maksimovna Egorova, glossing by BP. Funding by the
+Volkswagen Foundation (DoBeS grant) and CNRS/Universit� Lyon 2 (laboratoire DDL). Speaker abbreviation = NIG
+\ref Natalja Ionovna Grigor'eva (Ichanga) was born in 1956, i.e. she was 53-54 at the time of the recording. She had first trained as a
+leather worker, but later gone on to get a higher education as an actor and director of spectacles. She speaks Russian with her
+husband and children. 
+
+\id Grigoreva_NI_legend_Alngej_001
+\ev Clap
+\ru
+\ELANBegin 00:00:11.000
+\ELANEnd 00:00:14.920
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_002
+\ref
+\tx Muttule        ele          rajondụlat                 binni           epiŋej.
+\mb mut    -(dU)LE erek -(dU)LE rajon      -(dU)LE -t(I)     bi -R(E) -n(I)  epiŋej
+\ge 1pl.in -loc    prox -loc    district.R -loc -poss.1pl.in be -nonfut -3sg volcano
+\ft Here in our district is a volcano.
+\ev
+\ru У нас здесь в районе есть вулкан.
+\ELANBegin 00:00:14.920
+\ELANEnd 00:00:22.600
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_003
+\ref
+\tx Alŋej gerben          tarak čajčịbadịč.
+\mb Alŋej gerbe     -n(I) tarak čajčaba               -DI   -Č
+\ge Alnej  give.name -3sg  dist  reindeer.herding.Koryak -adjr -ins
+\ft That is called Alnej in Koryak.
+\ph
+\gr gerben = ego imja; *gerberem = netu, gerburem = ja nazyvaju
+\ev
+\ru Алней называется это по-корякски.
+\ELANBegin 00:00:22.600
+\ELANEnd 00:00:26.000
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_004
+\ref
+\tx Dịlan...         ọrọttịčeši             goːmi          dịlan            ńọːbatị, uːren           ńọːbatị.
+\mb dịl -E-n(I)      ọrọč -DI   -Č  -E  =sI   goːn -mI       dịl -E-n(I)      ńọːbatị  huːre -n(I)     ńọːbatị
+\ge head  -ep-poss.3sg Oroch     -adjr -ins -ep =emph say   -cond.cvb head  -ep-poss.3sg white          tip    -poss.3sg white
+\ft Its head... to say it in Even, it's head is white, the summit is white.
+\ev
+\ru Голова... по-эвенски же сказать голова белая, вершина белая.
+\ELANBegin 00:00:26.000
+\ELANEnd 00:00:35.000
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_005
+\ref
+\tx Taleː              tiːtelereptuk           ọrọčịl     kusčidmi,                    tabịč uŋedmi                nudmi
+\mb tarak -(dU)LE =eː  tiːtel  -(E)rEp -DUk(U) ọrọč -E  -L  kusči        -D    -mI       tabịč uŋ -E-D     -mI       nud     -mI
+\ge dist  -loc    =emph long.ago -adjr   -abl    Oroch     -ep -pl herd.reindeer -prog -cond.cvb again    do  -ep-prog -cond.cvb migrate -cond.cvb
+
+\tx awụškida          untetki       turteki       talịnun            gịrkar,    ańčịndụlan            Alŋej.
+\mb aw    -skI      =DE  honte -t(E)kI tor   -t(E)kI tarak -(dU)LI =ńUn  gịrka -r   ańčịn    -(dU)LE -n(I)  Alŋej
+\ge where -advb.all =ptl other -all    earth -all    dist  -prol   =restr walk    -3pl space.beside -loc -poss.3sg Alnej
+
+\ft There from ancient times Evens herding their reindeer, migrating somewhere, to new places, there they walked, near Alnej.
+\ph
+\gr talinun = tam zhe
+\ev
+\ru Там издревле эвены кочуя куда-нибудь в другие земли там все время шли около Алнея.
+\ELANBegin 00:00:35.000
+\ELANEnd 00:00:58.800
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_006
+\ref
+\tx Nan    tala          erdelen                     binni           ojoːmker,  ereger neːddʒoːtte             ulekiču.
+\mb ńaːn tarak -(dU)LE her    -gIdE -(dU)LE -n(I)  bi -R(E) -n(I)  ojoː -mkEr ereger neː -D    -WEːČ -R(E)   ulekič -W
+\ge and    dist  -loc    bottom -part -loc -poss.3sg be -nonfut -3sg ***   -aug  always put  -prog -gnr    -nonfut treat   -acc
+
+\ft And there at the bottom is a big something (possibly: rock), they always put a treat.
+\ph
+\nt Rimma didn't know what "ojoːmker" would be, but upon first hearing this sentence she had thought that NIG said "ʤolamker", big rock
+\ev
+\ru И там внизу есть что-то большое всегда ложат улекич.
+\ELANBegin 00:00:58.800
+\ELANEnd 00:01:08.720
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_007
+\ref
+\tx Ịamị tarak?
+\mb ịamị tarak
+\ge why      dist
+\ft Why is that?
+\ev
+\ru Почему так?
+\ELANBegin 00:01:08.720
+\ELANEnd 00:01:11.960
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_008
+\ref
+\tx Tiːtelereptuk           teːleŋeddʒoːtte               tala          Alŋejduk      umen asatkan eššeki  tikrin,             nan    ačča
+\mb tiːtel  -(E)rEp -DUk(U) teːleŋ -E-D     -WEːČ -R(E)   tarak -(dU)LE Alŋej -DUk(U) omen asatkan esseki    tik  -RI -n(I)      ńaːn ačča
+\ge long.ago -adjr   -abl    tell     -ep-prog -gnr    -nonfut dist  -loc    Alnej  -abl    one  girl    downwards fall -pst -poss.3sg and    neg
+
+\tx ọːdin.
+\mb ọː  -RI -n(I)
+\ge become -pst -poss.3sg
+
+\ft From ancient times they tell that there from Alnej one girl fell down and died.
+\ev
+\ru Издревле рассказывали что там с Алнея одна девушка вниз упала и ее не стало.
+\ELANBegin 00:01:11.960
+\ELANEnd 00:01:30.480
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_009
+\ref
+\tx I     nan... ịamị tarak Alŋej tala          ọːdin?
+\mb i     ńaːn ịamị tarak Alŋej tarak -(dU)LE ọː  -RI -n(I)
+\ge and.R and    why      dist  Alnej  dist  -loc    become -pst -poss.3sg
+\ft And so... why did that Alnej become there (i.e. how did it appear there)?
+\ev
+\ru И вот почему там Алней там стал?
+\ELANBegin 00:01:30.480
+\ELANEnd 00:01:41.760
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_010
+\ref
+\tx Tiːk bi   teːleŋdʒim.
+\mb tiek  biː teːleŋ -DʒI -m
+\ge now   1sg  tell     -fut  -1sg
+\ft Now I will tell (you).
+\ev
+\ru Сейчас я расскажу.
+\ELANBegin 00:01:41.760
+\ELANEnd 00:01:46.280
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_011
+\ref
+\tx Tiːtel  ńan   talị        bišiten          čajčịbal.
+\mb tiːtel  ńaːn tarak -(dU)LI bi -RI -tEn       čajčaba               -L
+\ge long.ago and    dist  -prol   be -pst -poss.3pl reindeer.herding.Koryak -pl
+\ft In the past there Koryaks lived.
+\ev
+\ru В старину там были коряки.
+\ELANBegin 00:01:46.280
+\ELANEnd 00:01:58.040
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_012
+\ref
+\tx Nan    nọŋanŋịtan              bišin            umekič nọːdeː    umekič kụŋaŋatan,            bej.
+\mb ńaːn nọŋan -ŋI       -tEn      bi -RI -n(I)      umekič nọːd =eː  umekič kụŋa -ŋ  -E-tEn       bej
+\ge and    3sg      -pred.poss -poss.3pl be -pst -poss.3sg very    pretty  =emph very    child   -aln -ep-poss.3pl man
+\ft And they had a very beautiful child, a boy.
+\ev
+\ru И у них был очень красивый очень ребенок, мальчик.
+\ELANBegin 00:01:58.040
+\ELANEnd 00:02:05.760
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_013
+\ref
+\tx Nọŋan bišin            egdʒemker,   eŋimker     urkeːn  bišin            čajčịba.
+\mb nọŋan bi -RI -n(I)      egdʒen -mkEr eŋi   -mkEr hurkeːn bi -RI -n(I)      čajčaba
+\ge 3sg      be -pst -poss.3sg big     -aug  strong -aug  boy      be -pst -poss.3sg reindeer.herding.Koryak
+\ft He was a very big, very strong boy, the Koryak.
+\ph
+\gr eŋimker = ochenj silnyj
+\ev
+\ru Он был большой, сильный парень был коряк.
+\ELANBegin 00:02:05.760
+\ELANEnd 00:02:14.720
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_014
+\ref
+\tx Nọŋan umente     bišin            ekendulej               akandụlaji.
+\mb nọŋan omen =t(E) bi -RI -n(I)      eken   -(dU)LE -J       akan   -(dU)LE -J
+\ge 3sg      one  =ptl  be -pst -poss.3sg mother -loc    -prfl.sg father -loc    -prfl.sg
+\ft He was the only child of his parents (lit. he was only one at his mother and his father).
+\gr umente = tolko odin
+\ev
+\ru Он один был у матери и у отца.
+\ELANBegin 00:02:14.720
+\ELANEnd 00:02:23.760
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_015
+\ref
+\tx Ajaːwritanịː            umekič ečin      nọːdiweddʒoːtte                kụŋaŋdʒụr          tar  amtịlni.
+\mb ajaːw -RI -tEn       =Iː  umekič erroːčin nọːd -(I)w -D    -WEːČ -R(E)   kụŋa -ŋ  -dʒUr       tar  aman   -SEl -n(I)
+\ge love   -pst -poss.3pl =emph very    prox.qual  pretty  -vr   -prog -gnr    -nonfut child   -aln -ins.prfl.pl thus father -pl  -poss.3sg
+
+\ft They loved their child very much and admired him, his parents.
+\ph
+\gr kuŋaŋʤur = svoim rebenkom ljubovalisj; ja ljubujusj tvoim rebenkom = noːdiwedʤottem kuŋaŋd'iš, ja ljubujus domom = ʤuːč, i.e. verb takes object in INS case; Rimma said she says
+"kuŋaŋdu", but I actually she says kuŋaŋʤur, which would be the correct form; I had initially transcribed kuŋaŋu taraW, which is reflected in Rimma's translation, but on listening again
+closely to what she says, after clarifying that she most probably says "kuŋaŋʤur", I think she doesn't say taraw, but tar(e) or so
+\ev
+\ru Любили его очень, любовались ребенком этим, родители.
+\ELANBegin 00:02:23.760
+\ELANEnd 00:02:31.640
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_016
+\ref
+\tx Nan    uŋŋende                       atịkaŋŋanda                      mergečidditen                   kučukeruptuk            uŋniten,
+\mb ńaːn uŋ       -GE    -n(I)     =DE  atịkan  -ŋ  -GE    -n(I)     =DE  mergeːt -E-D     -RI -tEn       kočuken -(E)rEp -DUk(U) uŋ -RI -tEn
+\ge and    something -desig -poss.3sg =ptl old.woman -aln -desig -poss.3sg =ptl think    -ep-prog -pst -poss.3pl small    -adjr   -abl    do  -pst -poss.3pl
+
+\tx uže      bakritan            uŋgen,                    egdʒen ọːdakan,                    atịkaŋdan,                     asatkam
+\mb uže      bak  -RI -tEn       uŋ       -GE    -n(I)     egdʒen ọː  -REk -E-n(I)            atịkan  -ŋ -DE       -n(I)     asatkan -W
+\ge already.R find -pst -poss.3pl something -desig -poss.3sg big     become -cond.cvb -ep -poss.3sg old.woman -vr -purp.cvb -poss.3sg girl    -acc
+
+\tx čajčịbaw.
+\mb čajčaba               -W
+\ge reindeer.herding.Koryak -acc
+
+\ft And they thought about a wife for him from his childhood, and had already found one for him, so that he would marry, when he grew up, a Koryak girl.
+\gr during the transcription checking and translation session Rimma said that she says "asatkan čajčiba" at the end, but that it should be "asatkam čajčibaw"; during glossing it seems to me
+as if she indeed says it with the accusative case, and I glossed it as such
+\ev
+\ru И жену ему думали, с детства сделали, уже нашли, чтобы он взрослым встав женился, девушку корячку (нашли).
+\ELANBegin 00:02:31.640
+\ELANEnd 00:02:55.200
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_017
+\ref
+\tx Tačịn        ajịt       bidditen.
+\mb tarrọːčịn aj   -E-Č   bi -D    -RI -tEn
+\ge dist.qual       good -ep-ins be -prog -pst -poss.3pl
+\ft Like that they lived well.
+\ev
+\ru Так хорошо жили.
+\ELANBegin 00:02:55.200
+\ELANEnd 00:02:57.880
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_018
+\ref
+\tx Nan    omneken        tarak urkeːn  gịrkašnin                  nam urilkin, namteki,    nam ulitkin,               nan    tadụk
+\mb ńaːn omen -REkEn    tarak hurkeːn gịrka -s(E)n -RI -n(I)      nam urilkin  nam -t(E)kI nam holi -t(E)kI -n(I)     ńaːn tarak -DUk(U)
+\ge and    one  -iter.adv dist  boy      walk    -lim   -pst -poss.3sg sea ***      sea -all    sea edge -all    -poss.3sg and    dist  -abl
+
+\tx uŋdeji                bejčideji                ọllaw.
+\mb uŋ -DE       -J       bejči -DE       -J       ọlra -W
+\ge do  -purp.cvb -prfl.sg hunt   -purp.cvb -prfl.sg fish   -acc
+
+\ft And one day that boy set of for the coast to catch fish there.
+\gr would be better to say "tadu bejčideji ollaw"; and she of course ogovorilasj at first with "nam urilkin" and corrects herself
+\ev
+\ru И однажды этот парень пошел на берег моря, и оттуда хотел ловить рыбу.
+\ELANBegin 00:02:57.880
+\ELANEnd 00:03:19.960
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_019
+\ref
+\tx Nan    ečin      gịrkaddan                nan    ịamị itten,           ịakawụliː     tala?
+\mb ńaːn erroːčin gịrka -D    -R(E) -n(I)  ńaːn ịamị it  -R(E) -n(I)  ịak =(W)Ul =Iː  tarak -(dU)LE
+\ge and    prox.qual  walk    -prog -nonfut -3sg and    ptl      see -nonfut -3sg what  =indef =emph dist  -loc
+\ft And he is walking like that and suddenly he sees, what is that there?
+\ph
+\ev
+\ru И вот так идет и вот увидел, что же это там такое.
+\ELANBegin 00:03:19.960
+\ELANEnd 00:03:29.440
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_020
+\ref
+\tx Ịakawụčeši         ibdiri bidden.
+\mb ịak =(W)UttE -E  =sI   ibdiri bi -D    -R(E) -n(I)
+\ge what  =indef   -ep =emph people be -prog -nonfut -3sg
+\ft Some people are (there).
+\ev
+\ru Какие-то люди там есть/находится там.
+\ELANBegin 00:03:29.440
+\ELANEnd 00:03:34.440
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_021
+\ref
+\tx Kojeːtten           ečin,     ịakawụl?
+\mb kojeːt -R(E) -n(I)  erroːčin ịak =(W)Ul
+\ge look.at -nonfut -3sg prox.qual  what  =indef
+\ft He looks like this, who are these?
+\ph
+\ev
+\ru Смотрит так, кто это такие?
+\ELANBegin 00:03:34.440
+\ELANEnd 00:03:38.480
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_022
+\ref
+\tx Un... untete      ọjịtan,          unte  ọjịtan,          tabịč ịtịːtanda           ịak čileńel,   ńọːbatị ịtịːtan.
+\mb honte honte =t(E) ọj    -E-tEn       honte ọj    -E-tEn       tabịč ịtịː -tEn      =DE  ịak čileńe -L  ńọːbatị ịtịː -tEn
+\ge other other =ptl  clothes -ep-poss.3pl other clothes -ep-poss.3pl again    face      -poss.3pl =ptl what  dark     -pl white         face      -poss.3pl
+\ft Their clothes are different, and their faces aren't dark, they have white faces.
+\ph to me it sounds very much like "litsatan" at the end, but Rimma insisted that it was the Even word ititan
+\ev
+\ru И другая одежда у них, другая одежда, и лица у них не темные, белые лица.
+\ELANBegin 00:03:38.480
+\ELANEnd 00:03:50.960
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_023
+\ref
+\tx Ịašalatanda             ečin      čụlbańal,   ńuːritetende              gụla.
+\mb ịašal -E-tEn       =DE  erroːčin čụlbańa -L  ńuːrit -E  -tEn      =DE  gụla
+\ge eyes     -ep-poss.3pl =ptl prox.qual  grue        -pl hair     -ep -poss.3pl =ptl red.furred
+\ft And their eyes are green, and their hair is red.
+\ph
+\gr would be better if "čulbańa" was in the singular, since grammatically iašal is singular
+\ev  
+\ru И глаза у них зеленые, и волосы рыжие.
+\ELANBegin 00:03:50.960
+\ELANEnd 00:03:58.800
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_024
+\ref
+\tx Tabịč iːnŋ... iːnŋetende          unte, esten       čajčịbal                torer,         ịakụčeši.
+\mb tabịč ienŋe    ienŋe -tEn      =DE  honte e   -R(E)   čajčaba               -L  tore  -R       ịakụč -E  =sI
+\ge again    tongue    tongue -poss.3pl =ptl other neg -nonfut reindeer.herding.Koryak -pl speak -neg.cvb somebody?  -ep =emph
+\ft Also their language is different, they don't speak Koryak, who are these?
+\ph
+\ph to me it sounds like she says "ečin" at the very end, but Rimma listened and didn't hear it
+\gr iakawuč = iakuč = the same thing, used for "someone" when he's not visible
+\nt
+\ev
+\ru И еще язык у них другой, не говорят по-корякски, кто это такие?
+\ELANBegin 00:03:58.800
+\ELANEnd 00:04:07.040
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_025
+\ref
+\tx Nan    ečin      ńọːŋčịneː         umekič eto    tar... uŋteki           dʒụːmŋaltekiji.
+\mb ńaːn erroːčin ńọːŋčị -n(I) =eː  umekič eto    tar    uŋ       -t(E)kI dʒụː -mŋE -L  -t(E)kI -J
+\ge and    prox.qual  run            -3sg  =emph very    this.R thus   something -all    house    -nr   -pl -all    -prfl.sg
+
+\ft And so he runs very fast to his family (lit. to those who live in his house).
+\ph
+\ev
+\ru И вот он бежит силько к своим домашним.
+\ELANBegin 00:04:07.040
+\ELANEnd 00:04:15.320
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_026
+\ref
+\tx Nan    ečin      etekaγ       dọːlan             ńọːŋčịddakan                     ịamị uŋe          nukiduk        nukiγčin,      buːdelen
+\mb ńaːn erroːčin hịat -K(Ag) dọː -(dU)LE -n(I)  ńọːŋčị -D    -REk      -n(I)     ịamị uŋ       -E  noːki -DUk(U) noːki -G(E)čIn boːdel -E-n(I)
+\ge and    prox.qual  willow -nr    inside -loc -poss.3sg run            -prog -cond.cvb -poss.3sg ptl      something -ep bow    -abl    arrow  -sml      leg(s)  -ep-poss.3sg
+
+\tx ańčịndụlan            ečin      uŋnin.
+\mb ańčịn    -(dU)LE -n(I)  erroːčin uŋ -RI -n(I)
+\ge space.beside -loc -poss.3sg prox.qual  do  -pst -poss.3sg
+
+\ft And as he was running like this among the willows suddenly (someone shot) from bow and (an arrow fell) like this by his legs.
+\ph
+\nt The translation is based on the fact that Rimma felt she should have said "nukiduk nukileriten", shot from a bow
+\ev
+\ru И вот он так по тальникам бежал и из лука а около его ноги вот так сделалось. (пока он бежал из лука кто-то стрельнул около его ног)
+\ELANBegin 00:04:15.320
+\ELANEnd 00:04:33.520
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_027
+\ref
+\tx Ịarịnkana                 ọːnkana    goːweːttekene,             ...
+\mb ịa    -RI -n(I)      =kEnE  ọːn =kEnE  goːn -WEːČ -R(E)   =kEnE  *...
+\ge do.what -pst -poss.3sg =contr how    =contr say   -gnr    -nonfut =contr ***
+\ft What did he do, how do they say again, "he stumbled", I forgot how to say that (in Even).
+\ev  
+\ru Что же он сделал то, говорят-то ... (споткнулся, как это сказать забыла).
+\ELANBegin 00:04:33.520
+\ELANEnd 00:04:41.960
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_028
+\ref
+\tx Tarak nuki   ečin      tikren            ịkụtịč,   nan    ečin      tur   dọːlan             iːn.
+\mb tarak noːki erroːčin tik  -R(E) -n(I)  ịkụt -E-Č   ńaːn erroːčin tor   dọː -(dU)LE -n(I)  iː   -n(I)
+\ge dist  arrow  prox.qual  fall -nonfut -3sg straight -ep-ins and    prox.qual  earth inside -loc -poss.3sg enter -3sg
+\ft That arrow fell just like that and entered the ground like this.
+\ev
+\ru И эта стрела прямо упала и вот так в землю вошла.
+\ELANBegin 00:04:41.960
+\ELANEnd 00:04:48.320
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_029
+\ref
+\tx Nan    ujgič    tarak nuki   tala          tikrin              nanaši      nuːn kojeːtten,          ịamị ịakta    ačča.
+\mb ńaːn oj  -GIČ tarak noːki tarak -(dU)LE tik  -RI -n(I)      ńaːn =sI   nuːn kojeːt -R(E) -n(I)  ịamị ịak =DE  ačča
+\ge and    top -elat dist  arrow  dist  -loc    fall -pst -poss.3sg and    =emph ***   look.at -nonfut -3sg ptl      what  =ptl neg
+\ft And that arrow fell from high, and he looks, why, there's nobody there!
+\ph
+\nt nuːn of course means "not be able to, ne umetj", but it wouldn't really make sense here, and Rimma felt it didn't mean anything here
+\ev
+\ru Это сверху эта стрела туда упала, посмотрел, видит никого нету.
+\ELANBegin 00:04:48.320
+\ELANEnd 00:05:02.040
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_030
+\ref
+\tx Nan    ịamị ečin      uŋe,         diwet ịlačịddan.
+\mb ńaːn ịamị erroːčin uŋ       -E  diwut ịl     -Č  -D    -R(E) -n(I)
+\ge and    ptl      prox.qual  something -ep birch stand.up -res -prog -nonfut -3sg
+\ft And a birch tree is standing like this.
+\ev
+\ru И вот так береза стоит.
+\ELANBegin 00:05:02.040
+\ELANEnd 00:05:10.080
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_031
+\ref
+\tx Nan    tadụk       ịamịịː  ịakụčešị     meluŋčin      nọŋantakịn.
+\mb ńaːn tarak -DUk(U) ịamị =Iː  ịakụč -E  =sI   meluŋči -n(I) nọŋantakịn
+\ge and    dist  -abl    ptl      =emph somebody?  -ep =emph jump      -3sg  3sg.all
+\ft And from there suddenly someone jumped towards him.
+\ev
+\ru И вот оттуда вот кто-то прыгнул к нему.
+\ELANBegin 00:05:10.080
+\ELANEnd 00:05:17.960
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_032
+\ref
+\tx Nanaši,     nọŋan ečin      kojeːčišnen,             ịamị ịakawụ   ečin.
+\mb ńaːn =sI   nọŋan erroːčin kojeːt -s(E)n -R(E) -n(I)  ịamị ịak -awụ erroːčin
+\ge and    =emph 3sg      prox.qual  look.at -lim   -nonfut -3sg ptl      what  -emph  prox.qual
+\ft And he looked like this, why, what on earth is this?
+\ev
+\ru И вот он так посмотрел, что же это такое.
+\ELANBegin 00:05:17.960
+\ELANEnd 00:05:26.280
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_033
+\ref
+\tx Ịakụčešị     ečin      ịlattan.
+\mb ịakụč -E  =sI   erroːčin ịl     -E-Č   -R(E) -n(I)
+\ge somebody?  -ep =emph prox.qual  stand.up -ep-res -nonfut -3sg
+\ft Somebody stands like this.
+\ph
+\gr this should be ịakuttaši = kogda ne vidjat, and neponjatno chto, ŋiːwutteši when they see the person and just don't him/her - however, I don't think that really holds in practice, they seem
+to use iakuttasi a lot more than ngiwuttesi
+\ev
+\ru Непонятно кто вот так стоит.
+\ELANBegin 00:05:26.280
+\ELANEnd 00:05:31.960
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_034
+\ref
+\tx Ọjande                  ečin      ịkụtịč    nọːdịčịː     aŋanuttana.
+\mb ọj    -E-n(I)      =DE  erroːčin ịkụt -E-Č   nọːd -E-Č   =Iː  haŋan -U    -Č  -R(E) -n(I)
+\ge clothes -ep-poss.3sg =ptl prox.qual  straight -ep-ins pretty  -ep-ins =emph sew    -caus -res -nonfut -3sg
+
+\ft And his clothes are sewed beautifully.
+\ph
+\gr Rimma said that the "epenthetic" vowel at the end of words such as here aŋanuttan "usilivaet"; and here the transitivity of the verb is changed with the suffix, but ọńattan, simply
+resultative-nonfuture means "napisano" 
+\ev
+\ru
+\ev
+\ru И одежда у него прямо красиво сшито.
+\ELANBegin 00:05:31.960
+\ELANEnd 00:05:38.200
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_035
+\ref
+\tx Nan    tarak kojeːtten           ečin,     nan    tarak ečin      aːwčami               ečin      uŋnen.
+\mb ńaːn tarak kojeːt -R(E) -n(I)  erroːčin ńaːn tarak erroːčin aːwụn -čEn -J       erroːčin uŋ -R(E) -n(I)
+\ge and    dist  look.at -nonfut -3sg prox.qual  and    dist  prox.qual  hat      -dim  -prfl.sg prox.qual  do  -nonfut -3sg
+\ft And that one looked like this, and that one (took off) his hat like this.
+\ph
+\nt not really clear who does the looking - I would think the Koryak boy; it's the unknown person who takes off the hat
+\ev
+\ru И вот этот посмотрел вот так, и вот этот свою шапку снял.
+\ELANBegin 00:05:38.200
+\ELANEnd 00:05:44.040
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_036
+\ref
+\tx Atallịn               nan    ịamị ečin      uŋeńdʒen                     ńuːriteńdʒen               ečin      egdʒemker    umekič tarma gụla,
+\mb atal     -RI -n(I)      ńaːn ịamị erroːčin uŋ       -E  -ńdʒE -n(I)     ńuːrit -E  -ńdʒE -n(I)     erroːčin egdʒen -mkEr umekič tarma gụla
+\ge take.off -pst -poss.3sg and    ptl      prox.qual  something -ep -aug    -poss.3sg hair     -ep -aug    -poss.3sg prox.qual  big     -aug  very    but   red.furred
+
+\tx ịašalanda               čụlbańa.
+\mb ịašal -E-n(I)      =DE  čụlbańa
+\ge eyes     -ep-poss.3sg =ptl grue
+
+\ft He took off (his hat) and why, he had such very long hair, but red, and the eyes are green.
+\ev
+\ru Снял и у него большие волосы очень, но рыжые, и глаза зеленые.
+\ELANBegin 00:05:44.040
+\ELANEnd 00:05:54.000
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_037
+\ref
+\tx Nan    kojeːn,     nọːdekịː!   emdelen             ečin      ọːdnị.
+\mb ńaːn kojeː -n(I) nọːd -E  =kE   emde -(dU)LE -n(I)  erroːčin ọː  -R(E) -n(I)
+\ge and    watch  -3sg  pretty  -ep =emph soul -loc -poss.3sg prox.qual  become -nonfut -3sg
+
+\ft And he looked, oh how beautiful!, in his soul it became like this.
+\ev
+\ru И вот смотрит, как красиво, в душе у него стало.
+\ELANBegin 00:05:54.000
+\ELANEnd 00:06:01.120
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_038
+\ref
+\tx Nanaši      kojeːtte       ečin.
+\mb ńaːn =sI   kojeːt -R(E)   erroːčin
+\ge and    =emph look.at -nonfut prox.qual
+\ft And they look like this.
+\ev
+\ru И вот смотрят так.
+\ELANBegin 00:06:01.120
+\ELANEnd 00:06:05.440
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_039
+\ref
+\tx Tarakta    ašatkan taraktakị   čajčịba             urkeːnteki      kojeːtten,          i     karaŋčimačidde                ečin      nan.
+\mb tarak =DE  asatkan  tarak -t(E)kI čajčaba               hurkeːn -t(E)kI kojeːt -R(E) -n(I)  i     karaŋči -mEČ -E-D     -R(E)   erroːčin ńaːn
+\ge dist  =ptl girl     dist  -all    reindeer.herding.Koryak boy      -all    look.at -nonfut -3sg and.R stare     -rec  -ep-prog -nonfut prox.qual  and
+\ft That girl looked at that Koryak boy, and they stared at each other like this.
+\ev
+\ru Эта девушка на этого коряка парня смотрит и таращились так.
+\ELANBegin 00:06:05.440
+\ELANEnd 00:06:13.960
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_040
+\ref
+\tx Nan    ajaːwallitan.
+\mb ńaːn ajaːw -L    -RI -tEn
+\ge and    love   -inch -pst -poss.3pl
+\ft And they fell in love.
+\ev
+\ru И полюбили.
+\ELANBegin 00:06:13.960
+\ELANEnd 00:06:16.640
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_041
+\ref
+\tx Nan    tawụr, ašapar,     adịː.. adịːda    inŋenen ŋennin,            ineŋen            ŋennin             adịːda,   nọŋartan uŋ
+\mb ńaːn tawụr  asapar       adịː   adịː =DE           ŋen -RI -n(I)      ineŋ -E-n(I)      ŋen -RI -n(I)      adịː =DE  nọŋartan uŋ
+\ge and    this     I.don't.know how.much  some    =ptl          go   -pst -poss.3sg day   -ep-poss.3sg go   -pst -poss.3sg some    =ptl 3pl         do
+
+\tx gịalatillitan.
+\mb gịa  -LEČ -L    -RI -tEn
+\ge friend -vr   -inch -pst -poss.3pl
+
+\ft And then, I don't know how many days passed, they became friends.
+\ph Rimma said it should be gialačillitan
+\gr she stumbles over the expression "ineŋen ŋennin" and therefore mispronounces the first "ineŋen"; and the expression with "ineŋen ŋennin adiːda" is not a stylistic element of folk tales, but
+is something that is said in general; the repetition here is simply due to the fact that she corrects herself, having mispronounced "ineŋen" the first time round
+\ev
+\ru И вот не знаю сколько, сколько дней прошло, прошло дней сколько, они подружились.
+\ELANBegin 00:06:16.640
+\ELANEnd 00:06:36.960
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_042
+\ref
+\tx Nan    tarak ašị... ašatkan tarak... taraktakị   urkeːnteki      ečin      ńọːŋčịwaːttan,             arčịmkaldawaːtta.
+\mb ńaːn tarak asị     asatkan  tarak    tarak -t(E)kI hurkeːn -t(E)kI erroːčin ńọːŋčị -WEːČ -R(E) -n(I)  arčịmka -(E)ldE -WEːČ -R(E)
+\ge and    dist  woman     girl     dist     dist  -all    boy      -all    prox.qual  run            -gnr    -nonfut -3sg meet       -soc    -gnr    -nonfut
+\ft And so that girl would run to that boy, they would meet.
+\ev
+\ru И вот эта девушка к этому парню так бежала, встречались они.
+\ELANBegin 00:06:36.960
+\ELANEnd 00:06:52.320
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_043
+\ref
+\tx Nan    ašatkan ulgimidden,                      "Ịamị tabịč inu          Twajanat          gerburiten?"
+\mb ńaːn asatkan  ulgim -i      -D    -R(E) -n(I)  ịamị  tabịč hin     -W   Twajaːn -E  -Č  gerbu -RI -tEn
+\ge and    girl     ask   -ipf??? -prog -nonfut -3sg why       again    2sg.obl -acc Twajaːn -ep -ins call  -pst -poss.3pl
+\ft And the girl asked "Why did they call you Twajan?".
+\ev
+\ru И эта девушка спрашивала "Почему тебя Тваяном называли?".
+\ELANBegin 00:06:52.320
+\ELANEnd 00:06:59.640
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_044
+\ref
+\tx Urkeːn  goːnni     "Biː ọkọkọ dọːlan             bakụriwu,            teːmi    nan    minu         gerburiten           Twajan".
+\mb hurkeːn goːn -n(I) biː  ọkọkọ dọː -(dU)LE -n(I)  bakụ  -RI -W         teːmi    ńaːn min     -W   gerbu -RI -tEn       Twajaːn
+\ge boy      say   -3sg  1sg   nettles     inside -loc -poss.3sg be.born -pst -poss.1sg therefore and    1sg.obl -acc call  -pst -poss.3pl Twajaːn
+\ft The boy says "I was born inside nettles, that is why they called me Twajan ("nettles" in Koryak)".
+\ev
+\ru Парень говорит, я в крапиве родился, поэтому меня назвали Тваян.
+\ELANBegin 00:06:59.640
+\ELANEnd 00:07:08.000
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_045
+\ev Mmm.
+\ru
+\ELANBegin 00:07:08.000
+\ELANEnd 00:07:11.400
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_046
+\ref
+\tx Nọŋartan aːmnak   aːmalkarịtan             toremettewur                   čajčabadịč                    ọrọttịč.
+\mb nọŋartan aːmnịk haː -mElčI -RI -tEn       tore  -mEČ -DE -WUr           čajčaba               -DI   -Č  ọrọč -DI   -Č
+\ge 3pl         quick     know -acclr  -pst -poss.3pl speak -rec  -purp.cvb -prfl.pl reindeer.herding.Koryak -adjr -ins Oroch     -adjr -ins
+\ft They quickly learned how to speak Koryak, Even.
+\ev
+\ru Они быстро научились разговаривать по-корякски, по-эвенски.
+\ELANBegin 00:07:11.400
+\ELANEnd 00:07:25.640
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_047
+\ref
+\tx Tačịnkke          biweːtten,             ọːnkana,   uŋel,        noseγčer,   asatkar     urkečer           aːmnak   aːmalkawaːtta
+\mb tarrọːčịn =kkE bi -WEːČ -R(E) -n(I)  ọːn =kEnE  uŋ       -L  nosegčen -L  asatkan -L  hurkeːn -čEn -L  aːmnịk haː -mElčI -WEːČ -R(E)
+\ge dist.qual       =ptl be -gnr    -nonfut -3sg how    =contr something -pl young     -pl girl    -pl boy      -dim  -pl quick     know -acclr  -gnr    -nonfut
+
+\tx toredewur                unteč     iːnŋeč.
+\mb tore  -DE -WUr           honte -Č  ienŋe -Č
+\ge speak -purp.cvb -prfl.pl other -ins tongue -ins
+
+\ft It's like that, right, these young girls and boys learn to speak a different language very quickly.
+\ev
+\ru Так же ведь бывает как же эти молодые девушки парни быстро научиваются говорить другим языком.
+\ELANBegin 00:07:25.640
+\ELANEnd 00:07:39.760
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_048
+\ref
+\tx Nan    teːmi    tačịn.
+\mb ńaːn teːmi    tarrọːčịn
+\ge and    therefore dist.qual
+\ft That's why.
+\ph
+\nt probably this means: That's why they were able to talk with each other, even though in the beginning they didn't know each other's language
+\ev
+\ru И поэтому так.
+\ELANBegin 00:07:39.760
+\ELANEnd 00:07:42.840
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_049
+\ref
+\tx A     tak, asatkan guːnni     "Minuši           min     eniŋewu              gerburin             Ńuːt".
+\mb a.R   tak  asatkan goːn -n(I) min     -W   =sI   min     eniŋeː    -W        gerbu -RI -n(I)      ńut
+\ge but.R so.R girl    say   -3sg  1sg.obl -acc =emph 1sg.obl grandmother -poss.1sg call  -pst -poss.3sg resin
+\ft And so, the girl says "As for me, my grandmother called me Njut (resin)".
+\ev
+\ru А так девушка говорит, меня же моя бабушка называла Ньут (смола).
+\ELANBegin 00:07:42.840
+\ELANEnd 00:07:52.760
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_050
+\ref
+\tx "Biː bakụriwu             uŋe          ịsag       dọːlan."
+\mb biː  bakụ  -RI -W         uŋ       -E  ịsịg     dọː -(dU)LE -n(I)
+\ge 1sg   be.born -pst -poss.1sg something -ep larch.forest inside -loc -poss.3sg
+\ft "I was born in a larch forest".
+\ev
+\ru Я родилась среди лиственниц.
+\ELANBegin 00:07:52.760
+\ELANEnd 00:08:01.400
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_051
+\ref
+\tx "Tarakamašiịː             bakụddeku                       tarakam       ọːja  umekiče    ńuːt ịsagduk            uŋŋoːtten,
+\mb tarakam       -E  =sI   =Iː  bakụ  -D    -REk      -W        tarakam       họːja umekič -E  ńut   ịsịg     -DUk(U) uŋ -WEːČ -R(E) -n(I)
+\ge in.those.days -ep =emph =emph be.born -prog -cond.cvb -poss.1sg in.those.days many     very    -ep resin  larch.forest -abl    do  -gnr    -nonfut -3sg
+
+\tx nubliweːtten,                teːmi    nan    minu         gerburiten           Ńuːt, Ńuːteč."
+\mb nubli    -WEːČ -R(E) -n(I)  teːmi    ńaːn min     -W   gerbu -RI -tEn       ńut    ńut  -E  -Č
+\ge flow.out -gnr    -nonfut -3sg therefore and    1sg.obl -acc call  -pst -poss.3pl resin   resin -ep -ins
+
+\ft "At the time when I was born a lot of resin flowed out of the larch forest, that is why they called me Njut".
+\ph
+\gr INS for the secondary predicate of "call" is correct
+\ev
+\ru Тогда когда я родилась тогда много сильно смола в лиственничнике текла поэтому меня назвали Нют.
+\ELANBegin 00:08:01.400
+\ELANEnd 00:08:18.440
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_052
+\ref
+\tx Biː geleweːttem                taraw      egdʒem      turu,      emeːnčewur.
+\mb biː geleː -WEːČ -R(E) -m     tarak -W   egdʒen -W   tor   -W   emeːn -čE    -WUr
+\ge 1sg  miss   -gnr    -nonfut -1sg dist  -acc big     -acc earth -acc leave  -pf.ptc -prfl.pl
+\ft I always miss that big land that we left.
+\ph
+\gr the plural reflexive possessive on the participle is correct, even though the subject is singular
+\ev
+\ru Я всегда скучаю по той большой земле которую мы оставили.
+\ELANBegin 00:08:18.440
+\ELANEnd 00:08:27.520
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_053
+\ref
+\tx Tala          ọːja  umekič eto...
+\mb tarak -(dU)LE họːja umekič eto
+\ge dist  -loc    many     very    this.R
+\ft There is a lot of this...
+\ev
+\ru Там очень много это...
+\ELANBegin 00:08:27.520
+\ELANEnd 00:08:31.040
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_054
+\ref
+\tx Tala          umekič ọːjịː    ịsaγ      bisintitte,                 elegelde                 abalta,    esni           ičur
+\mb tarak -(dU)LE umekič họːja =eː  ịsịg     bi -RI -n(I)      =tIt =DE  erek -(dU)LE =gEl   =DE  abal =t(E) e -R(E) -n(I)  it  -U    -R
+\ge dist  -loc    very    many     =emph larch.forest be -pst -poss.3sg =ptl =ptl prox -loc    =coord =ptl few  =ptl  neg -nfut -3sg see -caus -neg.cvb
+
+\tx ịsaγ.
+\mb ịsịg
+\ge larch.forest
+
+\ft There, there were a LOT of larches, but here there's very few, no larches are to be seen.
+\ph
+\gr abalta = sovsem malo
+\ev
+\ru Там очень много было лиственницы, а здесь-то мало совсем, не видно лиственниц.
+\ELANBegin 00:08:31.040
+\ELANEnd 00:08:43.080
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_055
+\ref
+\tx Nan    tačịn        ereger arčịmkarịdʒụr   ịawdat             toresčiddʒoːtte,                teːleŋesčiddʒoːtte.
+\mb ńaːn tarrọːčịn ereger arčịmka -RIdʒI -L   ịak -W   =DE  =tIt tore  -sčI  -D    -WEːČ -R(E)   teːleŋ -sčI  -D    -WEːČ -R(E)
+\ge and    dist.qual       always meet       -ant.cvb -pl what  -acc =ptl =ptl speak -conat -prog -gnr    -nonfut tell     -conat -prog -gnr    -nonfut
+\ft And like that they always met and talked about something, told something.
+\ph
+\gr conative = nemnozhko razgovarivali
+\ev
+\ru И вот всегда встречаясь, что-нибудь разговаривали, рассказывали.
+\ELANBegin 00:08:43.080
+\ELANEnd 00:08:52.880
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_056
+\ref
+\tx Nan    tarak asatkan guːnni     "Bi  erew      turu       ajaːwalliwu,                  ele          nọːdtitta,     nọːde,   ele
+\mb ńaːn tarak asatkan goːn -n(I) biː erek -W   tor   -W   ajaːw -E-L     -RI -W         erek -(dU)LE nọːd =tIt =DE  nọːd -E  erek -(dU)LE
+\ge and    dist  girl    say   -3sg  1sg  prox -acc earth -acc love   -ep-inch -pst -poss.1sg prox -loc    pretty  =ptl =ptl pretty  -ep prox -loc
+
+\tx namda    binni.
+\mb nam =DE  bi -R(E) -n(I)
+\ge sea =ptl be -nonfut -3sg
+
+\ft And that girl says "I have come to love this place, it is beautiful here too, beautiful, and the sea is here.
+\ev
+\ru И эта девушка говорит, я эту землю полюбила, здесь красиво тоже, красиво, здесь море тоже есть.
+\ELANBegin 00:08:52.880
+\ELANEnd 00:09:08.040
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_057
+\ref
+\tx I     tabịč inde         amtilši          umekič ajịl,     ibdirida    ajị", nan    tačịn        ajịč      umekič gịalattitan,
+\mb i     tabịč hin     =DE  aman   -SEl =sI   umekič aj   -E-L   ibdiri =DE  aj      ńaːn tarrọːčịn aj   -E-Č   umekič gịa  -LEČ -RI -tEn
+\ge and.R again    2sg.obl =ptl father -pl  =emph very    good -ep-pl people =ptl good    and    dist.qual       good -ep-ins very    friend -vr   -pst -poss.3pl
+
+\tx ajịč      bidditen.
+\mb aj   -E-Č   bi -D    -RI -tEn
+\ge good -ep-ins be -prog -pst -poss.3pl
+
+\ft And your parents are very good, and the people are good", and like that they were very good friends, they lived well.
+\ev
+\ru И вот у тебя родители хорошие очень, и люди хорошие", и вот так хорошо очень дружили, хорошо жили.
+\ELANBegin 00:09:08.040
+\ELANEnd 00:09:26.960
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_058
+\ref
+\tx Talaši             čajčịbala                   biddin                  umen, bisin             umen umekič eŋejemker   uŋe,
+\mb tarak -(dU)LE =sI   čajčaba               -(dU)LE bi -D    -RI -n(I)      omen  bi -RI -n(I)      omen umekič eŋeje -mkEr uŋ       -E
+\ge dist  -loc    =emph reindeer.herding.Koryak -loc    be -prog -pst -poss.3sg one   be -pst -poss.3sg one  very    rich   -aug  something -ep
+
+\tx čajčịba.
+\mb čajčaba
+\ge reindeer.herding.Koryak
+
+\ft But there, among the Koryaks, there was one very rich Koryak.
+\ph
+\gr no big difference biddin and bisin, both can be said in this context
+\ev
+\ru А там у коряков был один был один очень богатый коряк.
+\ELANBegin 00:09:26.960
+\ELANEnd 00:09:42.560
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_059
+\ref
+\tx Eŋeje umekič, etikeːmker    bisin,            umekič eŋejemker.
+\mb eŋeje umekič  etikeːn -mkEr bi -RI -n(I)      umekič eŋeje -mkEr
+\ge rich   very     old.man  -aug  be -pst -poss.3sg very    rich   -aug
+\ft Very rich, he was a big old man, very rich and big.
+\ev
+\ru Богатый очень, старикан был, очень богатый.
+\ELANBegin 00:09:42.560
+\ELANEnd 00:09:48.680
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_060
+\ref
+\tx Nọŋanaši,      ašatkajakam,       ọrọčịjakam     ittidʒi,    ejeːllin.
+\mb nọŋan -E  =sI   asatkan -jEkEn -W   ọrọč -jEkEn -W   it  -RIdʒI  ejeːl       -RI -n(I)
+\ge 3sg      -ep =emph girl    -dim   -acc Oroch     -dim   -acc see -ant.cvb fall.in.love -pst -poss.3sg
+\ft And he, having seen that Even girl, fell in love (with her).
+\gr ajaːwallin = poljubil (uznal xorosho i poljubil), ejeːllin = vljubilsja (srazu)
+\ev
+\ru А он эту девушку эвенку, увидав, влюбился.
+\ELANBegin 00:09:48.680
+\ELANEnd 00:09:55.320
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_061
+\ref
+\tx Nan    guːnni     "Bi  nọŋman gadʒim         atịkaŋŋaji".
+\mb ńaːn goːn -n(I) biː nọŋman ga   -DʒI -m   atịkan  -ŋ  -GE    -J
+\ge and    say   -3sg  1sg  3sg.acc   take -fut  -1sg old.woman -aln -desig -prfl.sg
+\ft And he said "I will take her for my wife".
+\ph
+\ev
+\ru И говорит "Я его возьму в жены".
+\ELANBegin 00:09:55.320
+\ELANEnd 00:10:01.880
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_062
+\ref
+\tx Nan    gasčinarin                        akantakịn              ašatkam.
+\mb ńaːn ga   -sčI  -nE     -RI -n(I)      akan   -t(E)kI -n(I)     asatkan -W
+\ge and    take -conat -intent -pst -poss.3sg father -all    -poss.3sg girl    -acc
+
+\ft And he went to the girl's father to ask (for her hand).
+\ph I hear asatkaN, but Rimma said asatkaM
+\gr asatkam is correct, it's the direct object of gasčin, while akantakin is the adjunct of -ne- in gasčinarin
+\ev
+\ru И он пошел просить к ее отцу девушку.
+\ELANBegin 00:10:01.880
+\ELANEnd 00:10:12.200
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_063
+\ref
+\tx Nan    taral,       taral        guːn "iŋe, iːbedʒi    eŋeje bišenni."
+\mb ńaːn tarak -E-L   tarak -E-L   goːn iŋe   hiː =bEdʒI eŋeje bi -R(E)     -nrI
+\ge and    dist  -ep-pl dist  -ep-pl say   yes    2sg  =emph   rich   be -nonfut   -2sg
+\ft And they, they said "yes, after all, you are rich".
+\ph
+\ev
+\ru И вот они они говорят "да, ты же богатый".
+\ELANBegin 00:10:12.200
+\ELANEnd 00:10:16.880
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_064
+\ref
+\tx Nan    guːne    "Nọŋanbedʒi  eŋeje, čaš boːγer         nọŋandụn kụŋaŋụr,        atịkami          biden".
+\mb ńaːn goːn -E  nọŋan =bEdʒI eŋeje  čas  boː -GEr        nọŋandụn kụŋa -ŋ  -WUr     atịkan  -J       bi -DE        -n(I)
+\ge and    say   -ep 3sg      =emph   rich    ptl   give -imp.1pl.in 3sg.dat       child   -aln -prfl.pl old.woman -prfl.sg be -purp.cvb  -poss.3sg
+\ft And they say "He is rich, after all, let's give him our child to be his wife".
+\ph
+\gr Should be "atikanni biden"; I clearly hear "atikami", though Rimma insisted all she said was "atikan"
+\ev
+\ru И говорят "Он же богатый, давай отдадим ему своего ребенка, чтобы она женой была".
+\ELANBegin 00:10:16.880
+\ELANEnd 00:10:25.640
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_065
+\ref
+\tx Tarakaši   asatkan Ńuːt ajaːwallankke                 Twajaːm.
+\mb tarak =sI   asatkan ńut   ajaːw -L    -R(E) -n(I)  =kkE Twajaːn -W
+\ge dist  =emph girl    resin  love   -inch -nonfut -3sg =ptl Twajaːn -acc
+
+\ft But that girl Njut had fallen in love with Twajan, right.
+\ph
+\ev
+\ru А эта девушка Ньут полюбила же Тваяна.
+\ELANBegin 00:10:25.640
+\ELANEnd 00:10:31.920
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_066
+\ref
+\tx Nan    dọldarin             boːtne..  buː... buː... buː... boːdewur               taral        amtịlni             taraktu    etikekeːjedu.
+\mb ńaːn dọlda -RI -n(I)      boː -DnE  boː    boː    boː    boː -DE -WUr           tarak -E-L   aman   -SEl -n(I)     tarak -DU  etikeːn -kEːjE -DU
+\ge and    hear    -pst -poss.3sg give -iter give    give    give    give -purp.cvb -prfl.pl dist  -ep-pl father -pl  -poss.3sg dist  -dat old.man  -aug    -dat
+\ft And she heard that her parents wanted to give her to that big old man.
+\ev
+\ru И вот услышала что ее хотят отдать ее родители этому старику.
+\ELANBegin 00:10:31.920
+\ELANEnd 00:10:44.040
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_067
+\ref
+\tx Nan    ọːdịn            tarak ineŋ emennen                 etikekeːje      eŋejekeːje.
+\mb ńaːn ọː  -RI -n(I)      tarak ineŋ em   -nnE     -n(I)     etikeːn -kEːjE eŋeje -kEːjE
+\ge and    become -pst -poss.3sg dist  day   come -nec.ptc -poss.3sg old.man  -aug    rich   -aug
+\ft And then it became the day when that rich old man was supposed to come.
+\ev
+\ru И вот настал тот день когда должен был приехать старик богатый.
+\ELANBegin 00:10:44.040
+\ELANEnd 00:10:54.240
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_068
+\ref
+\tx Nan.... kimečidden                            tarak eto    etikekeje        emdeji.
+\mb ńaːn  kim     -E  -Č  -E-D     -R(E) -n(I)  tarak eto    etikeːn -kEːjE em   -DE       -J
+\ge and     prepare -ep -res -ep-prog -nonfut -3sg dist  this.R old.man  -aug    come -purp.cvb -prfl.sg
+\ft And that old man was preparing to come.
+\ph
+\gr bi kimettem OR kimeddem = ja gotovljusj, bi kimeddem inu = ja gotovlju tebja, kuŋaw kimeddem, labile verb
+\ev
+\ru И готовился этот старик приехать.
+\ELANBegin 00:10:54.240
+\ELANEnd 00:11:07.080
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_069
+\ref
+\tx Tarme nọŋan uŋdeji                aːrin              čto   Twajan   ajaːwrin             Ńuːtu.
+\mb tarma nọŋan uŋ -DE       -J       haː -RI -n(I)      čto   Twajaːn ajaːw -RI -n(I)      ńut  -W
+\ge but   3sg      do  -purp.cvb -prfl.sg know -pst -poss.3sg what.R Twajaːn love   -pst -poss.3sg resin -acc
+\ft But he wanted to do.... he knew that Twajan loved Njut.
+\ph sounds like aːDin to me, but Rimma said it was aːRin
+\gr uŋdeji = wanted to do something
+\ev
+\ru Но он хотел... знал что Тваян любит Нют.
+\ELANBegin 00:11:07.080
+\ELANEnd 00:11:13.200
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_070
+\ref
+\tx Nan    tabịčịn tarak uŋ       bisinde                ergi... uŋŋoːtten,            ịawaːttankana,                   amaːn
+\mb ńaːn tabịč -E  tarak uŋ       bi -RI -n(I)      =DE  ergi    uŋ -WEːČ -R(E) -n(I)  ịa    -WEːČ -R(E) -n(I)  =kEnE  samaːn
+\ge and    again    -ep dist  something be -pst -poss.3sg =ptl ***     do  -gnr    -nonfut -3sg do.what -gnr    -nonfut -3sg =contr shaman
+
+\tx biweːttende                 tarak etikekeːje.
+\mb bi -WEːČ -R(E) -n(I)  =DE  tarak etikeːn -kEːjE
+\ge be -gnr    -nonfut -3sg =ptl dist  old.man  -aug
+
+\ft And that one was a... he did something, he was a shaman, that old man.
+\ph
+\nt She looks for the right expressions here, so it's not very skladno, and when she says ergi... she might have wanted to say irgeːweːn "sorcerer"
+\ev
+\ru И вот так этот старик был ХХХ делал что-то делал, шаманом был этот старик.
+\ELANBegin 00:11:13.200
+\ELANEnd 00:11:24.960
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_071
+\ref
+\tx Nan    omneken        nọŋan gịrkanbedʒi        tar  eto    uŋ...    uŋ...    uŋkeje           uŋenteki        Twajantakị.
+\mb ńaːn omen -REkEn    nọŋan gịrka -n(I) =bEdʒI tar  eto    uŋ       uŋ       uŋ       -kEːjE uŋen    -t(E)kI Twajaːn -t(E)kI
+\ge and    one  -iter.adv 3sg      walk    -3sg  =emph   thus this.R something something something -aug    this.one -all    Twajaːn -all
+\ft And once he went to ... this big one (the old man) went to that one, to Twajan.
+\ev
+\ru И однажды он шел вот этот к нему, к Тваяну.
+\ELANBegin 00:11:25.000
+\ELANEnd 00:11:35.880
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_072
+\ref
+\tx Nan    guːnni     "Twajan, ge    orger           mingeli         uŋnedewur                     bejčidneγer".
+\mb ńaːn goːn -n(I) Twajaːn ge    hor -GEr        min     -g(E)lI uŋ -nE     -DE -WUr           bejči -D    -nE     -GEr
+\ge and    say   -3sg  Twajaːn exclm go  -imp.1pl.in 1sg.obl -com    do  -intent -purp.cvb -prfl.pl hunt   -prog -intent -imp.1pl.in
+\ft And he says "Twajan, hey, let's go with me to go and do something, let's go hunt".
+\ev
+\ru И вот говорит "Тваян, давай пойдем со мной, делать будем, ловить".
+\ELANBegin 00:11:35.880
+\ELANEnd 00:11:45.600
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_073
+\ref
+\tx Twajaneši         guːnni     "Ge,  orger!".
+\mb Twajaːn -E  =sI   goːn -n(I) ge    hor -GEr
+\ge Twajaːn -ep =emph say   -3sg  exclm go  -imp.1pl.in
+\ft And Twajan said "OK, let's go".
+\ev
+\ru А Тваян же говорит, давай пойдем.
+\ELANBegin 00:11:45.600
+\ELANEnd 00:11:48.560
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_074
+\ref
+\tx Nan    urriten.
+\mb ńaːn hor -RI -tEn
+\ge and    go  -pst -poss.3pl
+\ft And they went.
+\ev
+\ru И пошли.
+\ELANBegin 00:11:48.560
+\ELANEnd 00:11:50.160
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_075
+\ref
+\tx Etikekeːje      tarak urrin.
+\mb etikeːn -kEːjE tarak hor -RI -n(I)
+\ge old.man  -aug    dist  go  -pst -poss.3sg
+\ft That old man left.
+\ev
+\ru Старик этот ушел.
+\ELANBegin 00:11:50.160
+\ELANEnd 00:11:52.960
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_076
+\ref
+\tx Nan    ịamị emniten             ečin      nan    etikekeːje      guːnni     "Ekiče bi   ošeːllemeː,                  Twajan"
+\mb ńaːn ịamị em   -RI -tEn       erroːčin ńaːn etikeːn -kEːjE goːn -n(I) ekič   biː oseːl       -R(E) -m     =eː  Twajaːn
+\ge and    ptl      come -pst -poss.3pl prox.qual  and    old.man  -aug    say   -3sg  very    1sg  become.tired -nonfut -1sg =emph Twajaːn
+
+\ft And so they arrived and that old man says "I'm very tired, Twajan".
+\ev
+\ru И вот они пришли вот так и старик этот говорит "очень я устал, Тваян".
+\ELANBegin 00:11:52.960
+\ELANEnd 00:12:00.600
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_077
+\ref
+\tx Utešŋerkene                  ečin.
+\mb hot  -s(E)n -GEr        =kEnE  erroːčin
+\ge rest -lim   -imp.1pl.in =contr prox.qual
+\ft "Let us rest a bit like this."
+\ev
+\ru Давай отдохнем (сначала) так.
+\ELANBegin 00:12:00.600
+\ELANEnd 00:12:03.040
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_078
+\ref
+\tx Nan    guːnni     "čaju     iludʒinni?"
+\mb ńaːn goːn -n(I) čaj  -W   hilu  -DʒI -nrI
+\ge and    say   -3sg  tea.R -acc drink -fut  -2sg
+
+\ft And he says "Will you drink tea?".
+\ev
+\ru И говорит "Чай будешь пить?".
+\ELANBegin 00:12:03.040
+\ELANEnd 00:12:05.720
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_079
+\ref
+\tx Nan    tarak guːnni     "iŋe!".
+\mb ńaːn tarak goːn -n(I) iŋe
+\ge and    dist  say   -3sg  yes
+
+\ft And that one says "yes!".
+\ev
+\ru И тот говорит "да".
+\ELANBegin 00:12:05.720
+\ELANEnd 00:12:08.240
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_080
+\ref
+\tx Nan    tarak poka... poka!   Twajan   ečin      tọγu,   tọγu    uŋeddin,                    duručillin,                         etikekeːje
+\mb ńaːn tarak poka    poka    Twajaːn erroːčin tọg -W   tọg -W   uŋ -E  -D    -RI -n(I)      dur  -U    -Č  -L    -RI -n(I)      etikeːn -kEːjE
+\ge and    dist  until.R until.R Twajaːn prox.qual  fire  -acc fire  -acc do  -ep -prog -pst -poss.3sg burn -caus -res -inch -pst -poss.3sg old.man  -aug
+
+\tx čaškalan...          ịak čaškalan!
+\mb čaška -(dU)LE -n(I)  ịak čaška -(dU)LE -n(I)
+\ge cup.R   -loc -poss.3sg what  cup.R   -loc -poss.3sg
+
+\ft And then while... while! Twajan lit a fire like this, the old man (put something) into his cup... not "his cup"!
+\ph
+\nt the second "poka" and "iak čaškalan" are annoyed asides to herself - she's annoyed that she uses Russian words, and so - in Rimma's interpretation - the "iak čaškalan" means "not
+časkalan (but dowikalan)"
+\ev
+\ru И вот этот пока... пока! Тваян так костер делал зажигал, старик в его чашку... не в чашку...
+\ELANBegin 00:12:08.240
+\ELANEnd 00:12:26.320
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_081
+\ref
+\tx
+\ft cup (in Even)
+\ev dọwika
+\ru
+\ELANBegin 00:12:26.320
+\ELANEnd 00:12:28.680
+\ELANParticipant NA
+
+\id Grigoreva_NI_legend_Alngej_082
+\ref
+\tx ịakawụ?
+\mb ịak -awụ
+\ge what  -emph
+\ft What's that?
+\ev
+\ru
+\ELANBegin 00:12:28.680
+\ELANEnd 00:12:30.400
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_083
+\ref
+\tx
+\ft into the cup (in Even)
+\ev dọwikadu?
+\ru
+\ELANBegin 00:12:30.400
+\ELANEnd 00:12:31.800
+\ELANParticipant BP
+
+\id Grigoreva_NI_legend_Alngej_084
+\ref
+\tx Uŋnen                   iluldiwŋen                    ečin      ọːnkana    goːweːttekene?             kruškelen             uŋnin..
+\mb uŋ       -(dU)LE -n(I)  hilu  -ldIwUn -GE    -n(I)     erroːčin ọːn =kEnE  goːn -WEːČ -R(E)   =kEnE  kruška -(dU)LE -n(I)  uŋ -RI -n(I)
+\ge something -loc -poss.3sg drink -nr     -desig -poss.3sg prox.qual  how    =contr say   -gnr    -nonfut =contr mug.R   -loc -poss.3sg do  -pst -poss.3sg
+\ft Into his .... the instrument for drinking, how do they say, he put something into his mug.
+\ev
+\ru В его штучка для питья, как же говорят, в его кружку сделал...
+\ELANBegin 00:12:31.800
+\ELANEnd 00:12:46.200
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_085
+\ref
+\tx ečin      uŋčeji             ịawụčaši...         ọːnkana?   ọraːttuk      uŋu           ọːrin...
+\mb erroːčin uŋ -čE    -J       ịak -W   =(W)UttE =sI   ọːn =kEnE  ọraːt -DUk(U) uŋ       -W   ọː -RI -n(I)
+\ge prox.qual  do  -pf.ptc -prfl.sg what  -acc =indef   =emph how    =contr grass    -abl    something -acc make  -pst -poss.3sg
+\ft something that he did... how does one say it? he made something from herbs
+\ph
+\nt this is neskladno, she is looking for the word for "poison" and cannot find it and is therefore stumbling along
+\ev
+\ru что-то свое сделанное из травы
+\ELANBegin 00:12:46.200
+\ELANEnd 00:13:02.000
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_086
+\ref
+\tx beγ,    beγ     ureččon,         tarma tarak ịak beγ     tarak ịakawụ   ịak beγ     tarak uŋe          šamanịlkke
+\mb beg      beg      ureːčin -Con     tarma tarak ịak beg      tarak ịak -awụ ịak beg      tarak uŋ       -E  šaman   -E-L   =kkE
+\ge medicine medicine similar   -acc.3sg but   dist  what  medicine dist  what  -emph  what  medicine dist  something -ep shaman.R -ep-pl =ptl
+
+\tx uŋŋoːtte.
+\mb uŋ -WEːČ -R(E)
+\ge do  -gnr    -nonfut
+
+\ft like medicine, but that isn't medicine, what is that, not medicine, it's what shamans make.
+\ph I don't hear ureččon in the beginning, but ureːčen or ureččen, but Rimma said it was ureččon, which would make sense syntactically, if it's the continuation of the preceding sentence
+\nt she seems to get a bit hung up on the beγ and stumbles over it
+\ev
+\ru Похоже на лекарство, но это не лекарство, это то что шаманы делают.
+\ELANBegin 00:13:02.000
+\ELANEnd 00:13:14.040
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_087
+\ref
+\tx Ili, ili  ọːnkana... irg... irg... irgeːwenelle          uŋel,        bejel,     keńelič    uŋewmi,                keńelič
+\mb ili  ili  ọːn =kEnE                irgeːwen -E-L   =lE   uŋ       -L  bej -E-L   keńeli -Č  uŋ -E-W      -mI       keńeli -Č
+\ge or.R or.R how    =contr               sorcerer  -ep-pl =emph something -pl man -ep-pl bad     -ins do  -ep-advrs -cond.cvb bad     -ins
+
+\tx ọːwkandawur                  beju,    tačịn        uŋnin.
+\mb ọː  -WkEn -DE -WUr           bej -W   tarrọːčịn uŋ -RI -n(I)
+\ge become -caus -purp.cvb -prfl.pl man -acc dist.qual       do  -pst -poss.3sg
+
+\ft Or, how is it, sorcerers, people who do bad (things), who harm others, he did like that.
+\gr 20.06.2016: neskladnoe predlozhenie; the plural form of irgeːwen is not correct, it should be irgeːwel; keńelic uŋewmi = ploxo sdelav; kenelic owkandawur bejel = chtoby ploxo delatj
+cheloveku
+\gr 21.06.2016: asked about irgeːwel, since I would have expected irgeːweR as a plural of irgeːwen; and now she said one could say irgeːwenel or irgeːwer, which would mean that the form
+which she yesterday said was not correct, was correct...; keńelič uŋewmi = mozhno sdelatj ploxo, voobshe, keńelič uŋmi = sejchas delaja 
+\ev
+\ru Или или как же, колдуны вот люди плохо которые делали, вот так сделал
+\ELANBegin 00:13:14.040
+\ELANEnd 00:13:27.200
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_088
+\ref
+\tx Nan    tačịn        neːdin,            čajiŋgan                  uŋkerin,            nan    ečin      guːnni     "Ere, indu".
+\mb ńaːn tarrọːčịn neː -RI -n(I)      čaj  -ŋ  -GE    -n(I)     oŋke -RI -n(I)      ńaːn erroːčin goːn -n(I) erek  hin     -DU
+\ge and    dist.qual       put  -pst -poss.3sg tea.R -aln -desig -poss.3sg pour  -pst -poss.3sg and    prox.qual  say   -3sg  prox  2sg.obl -dat
+\ft And he put (the poison) like that, poured tea for him and says like this "Here, this is for you".
+\ev
+\ru И вот так положил, чай ему налил и так говорит "вот, тебе".
+\ELANBegin 00:13:27.200
+\ELANEnd 00:13:34.800
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_089
+\ref
+\tx Nan    tarak Twajan   ečin      kọlašnin                 taraw,     iluš...     ilušnin                    ečin,     iluddin                    nan.
+\mb ńaːn tarak Twajaːn erroːčin kọl -s(E)n -RI -n(I)      tarak -W   hilu  -s(E)n hilu  -s(E)n -RI -n(I)      erroːčin hilu  -D    -RI -n(I)      ńaːn
+\ge and    dist  Twajaːn prox.qual  drink -lim   -pst -poss.3sg dist  -acc drink -lim   drink -lim   -pst -poss.3sg prox.qual  drink -prog -pst -poss.3sg and
+\ft And that Twajan drank a bit like that, drank a bit like that, and drank.
+\ph
+\gr kolašnin, ilušnin = otpil, pil nemnogo, iluddin = pil; ilu- for tea specifically (probably that's why she corrects kolašnin to ilušnin)
+\ev
+\ru И вот Тваян вот так отпил это, выпил так, и пил.
+\ELANBegin 00:13:34.800
+\ELANEnd 00:13:43.160
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_090
+\ref
+\tx Nan    ịamịịː, entekeːje uklemelline.
+\mb ńaːn ịamị =Iː  entekeːje hukle -mEl -RI -n(I)      -E
+\ge and    why      =emph strong     sleep -des -pst -poss.3sg -ep
+
+\ft And for some reason he felt very sleepy.
+\ev
+\ru И вот почему-то сильно спать захотел.
+\ELANBegin 00:13:43.160
+\ELANEnd 00:13:47.320
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_091
+\ref
+\tx Uklemellineː
+\mb hukle -mEl -RI -n(I)      =eː
+\ge sleep -des -pst -poss.3sg =emph
+\ft Felt VERY sleepy.
+\ev
+\ru Спать захотел
+\ELANBegin 00:13:47.320
+\ELANEnd 00:13:51.000
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_092
+\ref
+\tx Uklesnin.
+\mb hukle -s(E)n -RI -n(I)
+\ge sleep -lim   -pst -poss.3sg
+\ft And fell asleep.
+\ev
+\ru И уснул.
+\ELANBegin 00:13:51.000
+\ELANEnd 00:13:54.000
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_093
+\ref
+\tx Nan    ịamị omneken        ečin      mịaladdan.
+\mb ńaːn ịamị omen -REkEn    erroːčin mịal  -E-D     -R(E) -n(I)
+\ge and    ptl      one  -iter.adv prox.qual  wake.up -ep-prog -nonfut -3sg
+\ft And then one day he wakes up like this.
+\ev
+\ru И вот однажды вот так просыпается.
+\ELANBegin 00:13:54.000
+\ELANEnd 00:14:01.680
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_094
+\ref
+\tx Tarma ešni          itte         ịawda,        guːnni     ịamị nan    uŋel...      ọkaːtta    kučeńekeken    tabịčị
+\mb tarma e -R(E) -n(I)  it  -R       ịak -W   =DE  goːn -n(I) ịamị ńaːn uŋ       -L  ọkaːt =DE  kučeːle -kEkEn tabịč -E
+\ge but   neg -nfut -3sg see -neg.cvb what  -acc =ptl say   -3sg  why      and    something -pl river    =ptl small     -dim   again    -ep
+
+\tx biledʒukude              ịlak...  uŋelde,               dʒụːwde             ịamịwụčeši          kučeńekeker.
+\mb biledʒek  -W        =DE  ịlak     uŋ       -E-L =DE     dʒụː -W        =DE  ịamị =(W)UttE -E  =sI   kučeːle -kEkEn -L
+\ge habitation -poss.1sg =ptl crossbar.Y something -ep -pl =ptl house    -poss.1sg =ptl why      =indef   -ep =emph small     -dim   -pl
+
+\ft And he doesn't see anything and he says, why is the river so tiny and the place where I am, my house is tiny for some reason.
+\ph
+\ph she mumbles frightfully in the beginning, it's hard to make out, and it sounds as if there's something like "vdrug" after the "iawda"
+\gr bileʤek = tam gde ja naxozhusj, gde ja zhivu; one can also say biʤek, and bilek, all mean the same thing
+\ev
+\ru Ничего ничего не видит, говорит почему же так речки маленькие и где я нахожусь/жилища, и дом почему-то маленький
+\ELANBegin 00:14:01.680
+\ELANEnd 00:14:20.360
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_096
+\ref
+\tx Nan    ečin      ịldaj                     nekrin             nan    turkutten.
+\mb ńaːn erroːčin ịl     -DE       -J       nek -RI -n(I)      ńaːn turku       -Č  -R(E) -n(I)
+\ge and    prox.qual  stand.up -purp.cvb -prfl.sg do  -pst -poss.3sg and    not.be.able -res -nonfut -3sg
+\ft And he wants to get up like this and isn't able to.
+\ev
+\ru Вот так встать хочет но не может.
+\ELANBegin 00:14:20.360
+\ELANEnd 00:14:24.600
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_097
+\ref
+\tx Nan    ečin      kojeːšn...  kojeːčidden                  ečin      meːni,     ịamị nọŋanmoja   ọːdin              epiŋaj.
+\mb ńaːn erroːčin kojeː -s(E)n kojeː -Č  -D    -R(E) -n(I)  erroːčin meːni      ịamị nọŋan =mEjE ọː  -RI -n(I)      epiŋej
+\ge and    prox.qual  watch  -lim   watch  -res -prog -nonfut -3sg prox.qual  refl.sg.acc ptl      3sg      =ptl  become -pst -poss.3sg volcano
+\ft And he looks at him self like this and why, it turns out he's become a volcano!
+\ev
+\ru И вот он смотрит на себя и оказывается он стал вулканом.
+\ELANBegin 00:14:24.600
+\ELANEnd 00:14:33.600
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_098
+\ref
+\tx Nan    guːnni     "eweː   ečin",    mergečidden,                  guːnni...  dʒọmkačiddan                     nan    guːnni    "Tarakmeje
+\mb ńaːn goːn -n(I) ew =eː  erroːčin mergeːt -E-D     -R(E) -n(I)  goːn -n(I) dʒọm  -kEČ -E-D     -R(E) -n(I)  ńaːn goːn -RI  tarak =mEjE
+\ge and    say   -3sg  oh =emph prox.qual  think    -ep-prog -nonfut -3sg say   -3sg  remember -mult -ep-prog -nonfut -3sg and    say   -pst dist  =ptl
+
+\tx etikekeːje      minu         uŋnin,            irgerin                ečin      ọːdaku".
+\mb etikeːn -kEːjE min     -W   uŋ -RI -n(I)      irge    -RI -n(I)      erroːčin ọː  -DE       -W
+\ge old.man  -aug    1sg.obl -acc do  -pst -poss.3sg bewitch -pst -poss.3sg prox.qual  become -purp.cvb -poss.1sg
+
+\ft And he says "oh, so that's how it is", he thinks, he remembers and says "It turns out that that big old man did this to me, bewitched me so that I would become like this".
+\ev
+\ru И вот говорит вот оно как, думает, вспоминает, это же старик меня так сделал, заколдовал, чтобы я так стал.
+\ELANBegin 00:14:33.680
+\ELANEnd 00:14:47.400
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_099
+\ref
+\tx Nan    bi   epiŋaj ọːdam.
+\mb ńaːn biː epiŋej ọː  -R(E) -m
+\ge and    1sg  volcano become -nonfut -1sg
+\ft And so I became a volcano.
+\ev
+\ru И вот я вулкано стал.
+\ELANBegin 00:14:47.400
+\ELANEnd 00:14:50.880
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_100
+\ref
+\tx Nan    tarakam       tačịn        nan    ọrọčịl     gịrkawaːtta          talị        torli.
+\mb ńaːn tarakam       tarrọːčịn ńaːn ọrọč -E  -L  gịrka -WEːČ -R(E)   tarak -(dU)LI tor   -(dU)LI
+\ge and    in.those.days dist.qual       and    Oroch     -ep -pl walk    -gnr    -nonfut dist  -prol   earth -prol
+\ft And at that time Evens went through that land.
+\ev
+\ru И вот тогда так эвены ходят по той земле.
+\ELANBegin 00:14:50.880
+\ELANEnd 00:14:58.480
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_101
+\ref
+\tx Nan    ịamị kojeːr     eto... ịamị nan    erek ọːkerepči         erek epiŋaj ele          ịlattan,                    erekeši
+\mb ńaːn ịamị kojeː -r   eto    ịamị ńaːn erek ọːk -(E)rEp -pčVn erek epiŋej erek -(dU)LE ịl     -E-Č   -R(E) -n(I)  erek =sI
+\ge and    ptl      watch  -3pl this.R why      and    prox when   -adjr   -adjr  prox volcano prox -loc    stand.up -ep-res -nonfut -3sg prox =emph
+
+\tx ịakta    ịlattan.
+\mb ịak =DE  ịl     -E-Č   -R(E) -n(I)
+\ge what  =ptl stand.up -ep-res -nonfut -3sg
+
+\ft And they look, why, since when is there a volcano here, there didn't used to be anything here.
+\ev
+\ru И вот смотрят это почему вот с каких пор этот вулкан стал стоять, не стояло же ничего тут.
+\ELANBegin 00:14:58.480
+\ELANEnd 00:15:08.480
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_102
+\ref
+\tx Ịamị tiːk ele          ịlattan?
+\mb ịamị tiek  erek -(dU)LE ịl     -E-Č   -R(E) -n(I)
+\ge why      now   prox -loc    stand.up -ep-res -nonfut -3sg
+\ft Why is it standing here now?
+\ev
+\ru Почему сейчас здесь стоит?
+\ELANBegin 00:15:08.480
+\ELANEnd 00:15:10.440
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_103
+\ref
+\tx Čajčịbalda                   gịrkawaːtta          talị        nan    goːweːtte           "ịakawụ  nan,   ịamị ele          epiŋej
+\mb čajčaba               -L  =DE  gịrka -WEːČ -R(E)   tarak -(dU)LI ńaːn goːn -WEːČ -R(E)   ịak -awụ ńaːn ịamị erek -(dU)LE epiŋej
+\ge reindeer.herding.Koryak -pl =ptl walk    -gnr    -nonfut dist  -prol   and    say   -gnr    -nonfut what  -emph  and    why      prox -loc    volcano
+
+\tx ịlattan,                    elekke            ačča ịakta    bisin.
+\mb ịl     -E-Č   -R(E) -n(I)  erek -(dU)LE =kkE ačča ịak =DE  bi -RI -n(I)
+\ge stand.up -ep-res -nonfut -3sg prox -loc    =ptl neg    what  =ptl be -pst -poss.3sg
+
+\ft And Koryaks were walking there and they say "What on earth is this? why is there a volcano here, there was nothing here before!.
+\ev
+\ru И коряки ходят там же и говорят, "что это почему здесь вулкан стоит, здесь же ничего не было".
+\ELANBegin 00:15:10.440
+\ELANEnd 00:15:22.560
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_104
+\ref
+\tx Ili  bu     ečiwun               eto    uŋne...
+\mb ili  buː   e   -RI -WUn          eto    uŋ -R
+\ge or.R 1pl.ex neg -pst -poss.1pl.ex this.R do  -neg.cvb
+\ft Or did we not do... (see)
+\ph
+\nt from the contents this belongs with the next record, but she makes a long pause in between (5 seconds)
+\ev
+\ru Или мы ничего не делали...
+\ELANBegin 00:15:22.560
+\ELANEnd 00:15:31.360
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_105
+\ref
+\tx ...kọč ịlattin                    ọːkta,   tarma bu     ečiwun               erek kojeːr.
+\mb kọč    ịl     -Č  -RI -n(I)      ọːk =DE  tarma buː   e   -RI -WUn          erek kojeː -R
+\ge probably  stand.up -res -pst -poss.3sg when   =ptl but   1pl.ex neg -pst -poss.1pl.ex prox watch  -neg.cvb
+\ft probably it stood here at some time, but we didn't see it.
+\ph
+\gr should surely be ečiwun ereW kojeːr
+\ev
+\ru наверно стояло когда-то только мы не видели это.
+\ELANBegin 00:15:31.360
+\ELANEnd 00:15:37.600
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_106
+\ref
+\tx Nan    tačịn        gerbučidʒillitan.
+\mb ńaːn tarrọːčịn gerbu -Č  -D    -L    -RI -tEn
+\ge and    dist.qual       call  -res -prog -inch -pst -poss.3pl
+\ft And they started to think like that.
+\ph
+\nt according to what Rimma told me during some other clarification session, the difference between merget- 'think' and gerbut- 'think' is one of "razmyshljat" vs. "schitat", think vs.
+consider - so surely this should rather be mergečiʤillitan.... Though I'm not sure whether people actually maintain the distinction in practice, I haven't checked.
+\ev
+\ru И стали так думать.
+\ELANBegin 00:15:37.600
+\ELANEnd 00:15:41.360
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_107
+\ref
+\tx Tarakaši   ašatkan ọːdịda nọːdịː  ọːdin.
+\mb tarak =sI   asatkan  ọːdịda nọːd =Iː  ọː  -RI -n(I)
+\ge dist  =emph girl     even.more   pretty  =emph become -pst -poss.3sg
+\ft And that girl had become even more beautiful.
+\ev
+\ru А эта девушка еще краще стала.
+\ELANBegin 00:15:41.360
+\ELANEnd 00:15:47.320
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_108
+\ref
+\tx Nan    tarịt etikekeːje      kimnin                 uže      uŋnin...
+\mb ńaːn tarịt etikeːn -kEːjE kim     -RI -n(I)      uže      uŋ -RI -n(I)
+\ge and    then    old.man  -aug    prepare -pst -poss.3sg already.R do  -pst -poss.3sg
+\ft And that old man prepared himself already...
+\ev
+\ru И этот старик приготовился уже
+\ELANBegin 00:15:47.320
+\ELANEnd 00:15:53.320
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_109
+\ref
+\tx Ọːja  ọrọlnide                         ọːja  bišin            umekič.
+\mb họːja ọrọn          -L  -n(I)     =DE  họːja bi -RI -n(I)      umekič
+\ge many     domestic.reindeer -pl -poss.3sg =ptl many     be -pst -poss.3sg very
+
+\ft He had very many reindeer.
+\ph
+\ev
+\ru Много оленей у него было очень.
+\ELANBegin 00:15:53.320
+\ELANEnd 00:15:57.560
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_110
+\ref
+\tx No    sam       nọːdelbe         umekič ụčakalbe                 kimnen,              nan    tar  gasčịnadda                  taraw
+\mb no    sam       nọːd -E  -L-W    umekič ụčak         -E  -L-W    kim     -R(E) -n(I)  ńaːn tar  gasčị -nE     -D    -R(E)   tarak -W
+\ge but.R himself.R pretty  -ep -pl-acc very    riding.reindeer -ep -pl-acc prepare -nonfut -3sg and    thus ask      -intent -prog -nonfut dist  -acc
+
+\tx gadʒidde                  ašatkam     uže.
+\mb ga   -nE     -D    -R(E)   asatkan -W   uže
+\ge take -intent -prog -nonfut girl    -acc already.R
+
+\ft And he himself prepared very beautfiul riding reindeer, and they set off to ask for, to fetch that girl.
+\ph to me it sounds like nọːgelbe, but Rimma confirmed several times that it's noːdelbe, ochenj krasivyx ezdovyx prigotovil
+\ev
+\ru И вот красивых очень ездовых приготовил, вот собрались эту девушку забирать уже, едет просить забирать эту девушку уже.
+\ELANBegin 00:15:57.560
+\ELANEnd 00:16:09.200
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_111
+\ref
+\tx Ńuːt, Ńuːt amtịlni             kimet... kimusčidditen                            uruwkendewur                       kụŋaŋur           taraktakị,
+\mb ńut    ńut   aman   -SEl -n(I)     kim      kim     -U    -sčI  -D    -RI -tEn       hor -U    -WkEn -DE -WUr           kụŋa -ŋ  -WUr     tarak -t(E)kI
+\ge resin   resin  father -pl  -poss.3sg prepare  prepare -caus -conat -prog -pst -poss.3pl go  -caus -caus -purp.cvb -prfl.pl child   -aln -prfl.pl dist  -all
+
+\tx eŋejekejetki          čajčịbatki.
+\mb eŋeje -kEːjE -t(E)kI čajčaba               -t(E)kI
+\ge rich   -aug    -all    reindeer.herding.Koryak -all
+
+\ft And Njut's parents prepared to send their daughter to that rich Koryak.
+\ph
+\gr 21.06.16: should be kimučidditen = uzhe gotovye zhdali;  kimusčiddu = my potixonjku sobiraemsja
+\nt 22.06.16: bi kimnem = ja gotovljusj; bi kimurem = ja uzhe vse, gotova; bi kimuttem = ja uzhe gotova polnostju;  *bi kimettem = no; bi kimučiddem = ja gotova uzhe, davno zhdu; bi
+kimečiddem = to zhe samoe kak kimučiddem; kimnem = kimaddam, basically the same thing; so with this verb the suffix -U suddenly changes not the valency, but the aspect...;;
+nevertheless, I'm not sure why she felt yesterday that kimusčidditen was wrong, and why it needed to be kimučidditen - since kimusčidditen means "potixonjku sobiralisj", which would
+fit, too, I don't know why she felt that they were already sitting all ready and prepared
+\ev
+\ru А родители Нют готовились отправлять дочку свою к этому богатому коряку.
+\ELANBegin 00:16:09.200
+\ELANEnd 00:16:28.120
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_112
+\ref
+\tx Tarma Ńuːt turkurin                   ọmŋaŋa.
+\mb tarma ńut   turku       -RI -n(I)      ọmŋa -ŋE
+\ge but   resin  not.be.able -pst -poss.3sg forget  -nmdl.cvb
+\ft But Njut wasn't able to forget.
+\ev
+\ru Но Нют не могла забыть.
+\ELANBegin 00:16:28.120
+\ELANEnd 00:16:31.720
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_113
+\ref
+\tx "Ilewučeši                 beripten                 tarak", guːnni,    "awụškị    urrin,             tarak, min     urkeŋu
+\mb irek  -(dU)LE =(W)UttE =sI   beriː -B   -R(E) -n(I)  tarak   goːn -n(I) aw    -skI      hor -RI -n(I)      tarak  min     hurkeːn -ŋ  -W
+\ge which -loc    =indef   =emph lose   -med -nonfut -3sg dist    say   -3sg  where -advb.all go  -pst -poss.3sg dist   1sg.obl boy      -aln -poss.1sg
+
+\tx Twajan".
+\mb Twajaːn
+\ge Twajaːn
+
+\ft "Where did he get lost", she said", "where did he go, my mate Twajan".
+\ev
+\ru Где потерялся этот говорит. куда ушел этот мой парень Тваян.
+\ELANBegin 00:16:31.720
+\ELANEnd 00:16:43.520
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_114
+\ref
+\tx Nan    ịamịịː  tar  dọldan      uŋel,        ọrọnịč             emedde.
+\mb ńaːn ịamị =Iː  tar  dọlda -n(I) uŋ       -L  ọrọn          -E-Č   em   -E-D     -R(E)
+\ge and    ptl      =emph thus hear    -3sg  something -pl domestic.reindeer -ep-ins come -ep-prog -nonfut
+\ft And then she hears, these are coming by reindeer.
+\ev
+\ru И вот слышит эти на оленях едут.
+\ELANBegin 00:16:43.520
+\ELANEnd 00:16:51.960
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_115
+\ref
+\tx Nan    nọŋan meːn ụčakańdʒadi                         tegrin                  nan    ńọːŋčukanin.
+\mb ńaːn nọŋan meːn ụčak         -E  -ńdʒE -DI          teg      -RI -n(I)      ńaːn ńọːŋčị -WkEn -RI -n(I)
+\ge and    3sg      refl  riding.reindeer -ep -aug    -dat.prfl.sg sit.down -pst -poss.3sg and    run            -caus -pst -poss.3sg
+
+\ft And she jumped onto her own riding reindeer and rode off.
+\ph
+\ev
+\ru И вот она села на своего ездового и поскакала.
+\ELANBegin 00:16:51.960
+\ELANEnd 00:16:58.800
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_116
+\ref
+\tx Ịkụtịč    awụškị     ịašalan            kojeːtten,          ọŋnịkanda.
+\mb ịkụt -E-Č   aw    -skI      ịašal -E-n(I)      kojeːt -R(E) -n(I)  họŋ -nIkEn   =DE
+\ge straight -ep-ins where -advb.all eyes     -ep-poss.3sg look.at -nonfut -3sg cry    -sim.cvb =ptl
+\ft Straight ahead (lit. where her eyes look), crying.
+\ph
+\nt "awuški iašalan kojetten" to me sounds very much like a calque from Russian
+\ev
+\ru Прямо куда глаза глядят, плача.
+\ELANBegin 00:16:58.800
+\ELANEnd 00:17:03.760
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_117
+\ref
+\tx Ńọːŋčukanin                   nan    tareː     tačịn        ńọːŋčukaddị,                 ịamị itten            ịamị epiŋaj
+\mb ńọːŋčị -WkEn -RI -n(I)      ńaːn tar  =eː  tarrọːčịn ńọːŋčị -WkEn -D    -RI       ịamị it  -R(E) -n(I)  ịamị epiŋej
+\ge run            -caus -pst -poss.3sg and    thus =emph dist.qual       run            -caus -prog -impf.ptc ptl      see -nonfut -3sg ptl      volcano
+
+\tx ịlačiddan,                          ańčịndụlan.
+\mb ịl     -E-Č   -E-D     -R(E) -n(I)  ańčịn    -(dU)LE -n(I)
+\ge stand.up -ep-res -ep-prog -nonfut -3sg space.beside -loc -poss.3sg
+
+\ft She rode like that and riding she saw, why a volcano is standing next to her.
+\ph
+\gr ńọːŋčukaddi = lit. skachushaja; one could also say ńọŋčukadmi, which would be better (though I don't think that Rimma noticed anything badly wrong with the form as said here)
+\ev
+\ru Скакала так, так скача и видит стоит вулкан около нее.
+\ELANBegin 00:17:03.760
+\ELANEnd 00:17:15.760
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_118
+\ref
+\tx Nan    ịamị amardalan                   tar  amtịlni             kojeːriten           ečil        ečilme           aːra.
+\mb ńaːn ịamị amar   -gIdE -(dU)LE -n(I)  tar  aman   -SEl -n(I)     kojeː -RI -tEn       e   -RI  -L  e   -RI  -L  =me  haː -R
+\ge and    ptl      behind -part -loc -poss.3sg thus father -pl  -poss.3sg watch  -pst -poss.3pl neg -pst -pl neg -pst -pl =??? know -neg.cvb
+
+\ft And behind her her parents looked but didn't know (i.e. didn't understand).
+\ph
+\gr I don't know what the =me is, another particle it would seem, Rimma said that "ečilme aːra" means  "no ne znali"
+\ev
+\ru И вот сзади ее родители видели но не знали
+\ELANBegin 00:17:15.760
+\ELANEnd 00:17:25.760
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_119
+\ref
+\tx No    tarak čajčịbakaːja               guːnni     "kụŋaŋašan        ńọːnin.
+\mb no    tarak čajčaba               -kEːjE goːn -n(I) kụŋa -ŋ  -sEn      ńọːn -RI -n(I)
+\ge but.R dist  reindeer.herding.Koryak -aug    say   -3sg  child   -aln -poss.2pl run.away -pst -poss.3sg
+\ft But that big Koryak said "your child has run away.
+\ev
+\ru Но этот коряк большой говорит "ребенок ваш убежал".
+\ELANBegin 00:17:25.760
+\ELANEnd 00:17:29.760
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_120
+\ref
+\tx Tar  epkunelle               nọŋman".
+\mb tar  hepken -nE     -(LI)lrE nọŋman
+\ge thus catch  -intent -imp.2pl 3sg.acc
+\ft Go to catch her".
+\ev
+\ru Идите ловите ее.
+\ELANBegin 00:17:29.760
+\ELANEnd 00:17:34.080
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_121
+\ref
+\tx Nan    amtịlni             ńọːŋčịri..  uŋe,   ńọːŋčukanitan,                ọrọndụla            tegridʒur.
+\mb ńaːn aman   -SEl -n(I)     ńọːŋčị -RI  uŋ -E  ńọːŋčị -WkEn -RI -tEn       ọrọn          -(dU)LE teg      -RIdʒI -L
+\ge and    father -pl  -poss.3sg run            -pst do  -ep run            -caus -pst -poss.3pl domestic.reindeer -loc    sit.down -ant.cvb -pl
+\ft And her parents rode off, having sat on reindeer.
+\ph
+\ev
+\ru И ее родители скакали на оленей севши.
+\ELANBegin 00:17:34.080
+\ELANEnd 00:17:42.000
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_122
+\ref
+\tx Gadʒiritan                 umekič taraw,     epkendewur                asatkam.
+\mb ga   -nE     -RI -tEn       umekič tarak -W   hepken -DE -WUr           asatkan -W
+\ge take -intent -pst -poss.3pl very    dist  -acc catch  -purp.cvb -prfl.pl girl    -acc
+\ft They went to take her, to catch the girl.
+\ev
+\ru Поехали за ней, чтобы поймать девушку.
+\ELANBegin 00:17:42.000
+\ELANEnd 00:17:45.920
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_123
+\ref
+\tx Asatkanaši       uŋne,            ịankana            itten            ịamị bọka...    bọkan... bọkadʒille nọŋman,
+\mb asatkan -E  =sI   uŋ       -(dU)LE ịa    -n(I) =kEnE  it  -R(E) -n(I)  ịamị bọkan  -E  bọkan                  nọŋman
+\ge girl    -ep =emph something -loc    do.what -3sg  =contr see -nonfut -3sg ptl      catch.up -ep catch.up                 3sg.acc
+
+\tx bọkandʒidʒille.
+\mb bọkan  -D    -L    -R(E)
+\ge catch.up -prog -inch -nonfut
+
+\ft And the girl, what is it that she does, she sees that they are catching up with her.
+\ph
+\gr bokaʤille is not correct, bokanʤiʤille is
+\ev
+\ru А девушка же вот что же она делает, видит что догоняет ее.
+\ELANBegin 00:17:45.920
+\ELANEnd 00:18:00.960
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_124
+\ref
+\tx Nan    guːnni     "Awụškịnan       urdʒim?"
+\mb ńaːn goːn -n(I) aw    -skI      =nEn  hor -DʒI -m
+\ge and    say   -3sg  where -advb.all =emph go  -fut  -1sg
+\ft And she says "Where on earth will I go?".
+\ev
+\ru И вот говорит "Куда же я пойду?"
+\ELANBegin 00:18:00.960
+\ELANEnd 00:18:03.800
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_125
+\ref
+\tx Nan    ịamị dọldan      Twajan   toresniwen.
+\mb ńaːn ịamị dọlda -n(I) Twajaːn tore  -s(E)n -RI -W -E -n(I)
+\ge and    ptl      hear    -3sg  Twajaːn speak -lim   -ipf.ptc -acc -ep -poss.3sg
+\ft And she hears Twajan speaking.
+\ev
+\ru И вот слышит голос Тваяна, слышит что Тваян говорит.
+\ELANBegin 00:18:03.800
+\ELANEnd 00:18:11.000
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_126
+\ref
+\tx "Eweški       ọjčịli".
+\mb erek -skI      ọjčị -LI
+\ge prox -advb.all go.up     -imp.2sg
+\ft "Climb up here".
+\ev
+\ru Сюда лезь.
+\ELANBegin 00:18:11.000
+\ELANEnd 00:18:14.240
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_127
+\ref
+\tx Nan    Ńuːt kojeːtten,          guːnni     "epiŋaj ịamị tačịmụr    torenni            Twajangačịn?"
+\mb ńaːn ńut   kojeːt -R(E) -n(I)  goːn -n(I) epiŋej  ịamị tarrọːčịn tore  -R(E)   -nrI Twajaːn -G(E)čIn
+\ge and    resin  look.at -nonfut -3sg say   -3sg  volcano  why      dist.qual       speak -nonfut -2sg Twajaːn -sml
+\ft And Njut looked and said "Volcano, why do you speak like Twajan?".
+\ev
+\ru И вот Нют посмотрела, говорит "вулкан, почему ты так говоришь как Тваян?".
+\ELANBegin 00:18:14.240
+\ELANEnd 00:18:23.880
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_128
+\ref
+\tx Guːnni     "Bi  bišem          erek.
+\mb goːn -n(I) biː bi -R(E) -m     erek
+\ge say   -3sg  1sg  be -nonfut -1sg prox
+\ft He said "It's me.
+\ev
+\ru Говорит "это я есть".
+\ELANBegin 00:18:23.880
+\ELANEnd 00:18:25.960
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_129
+\ref
+\tx Minu         tačịmụr    ọːwkanịn               tawụr etikekeːje      inu          gasčịčakaːja".
+\mb min     -W   tarrọːčịn ọː  -WkEn -RI -n(I)      tawụr etikeːn -kEːjE hin     -W   gasčị -čE    -kEːjE
+\ge 1sg.obl -acc dist.qual       become -caus -pst -poss.3sg this    old.man  -aug    2sg.obl -acc ask      -pf.ptc -aug
+\ft That old man who was asking you (as a wife) did this to me".
+\ev
+\ru Со мной так сделал этот старик к тебя просящий.
+\ELANBegin 00:18:25.960
+\ELANEnd 00:18:31.120
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_130
+\ref
+\tx Nan    Ńụːt tarak ọjčịladdanaši.
+\mb ńaːn ńụča tarak ọjčị -L    -D    -R(E) -n(I)  =sI
+\ge and    Russian  dist  go.up     -inch -prog -nonfut -3sg =emph
+\ft And that Njut started to climb up quickly.
+\ph
+\gr it would seem as if the combination of inchoative plus progressive here gives a reading of speed; at least, I peresprosila when Rimma translated, and she confirmed that this form means
+"bystro stala zalezatj naverx"
+\ev
+\ru И вот эта Нют стала лезть быстро, быстро стала залезать наверх.
+\ELANBegin 00:18:31.120
+\ELANEnd 00:18:34.600
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_131
+\ref
+\tx Guːnni     ele          ọjčịli,       tawụr, Ńuːt, tiːk epkendʒireši.
+\mb goːn -n(I) erek -(dU)LE ọjčị -LI      tawụr  ńut    tiek  hepken -DʒI -r   -E  =sI
+\ge say   -3sg  prox -loc    go.up     -imp.2sg this     resin   now   catch  -fut  -3pl -ep =emph
+\ft He says "climb up here, Njut, they're going to catch you now".
+\ev
+\ru Говорит сюда залезай, вот Нют, сейчас поймают.
+\ELANBegin 00:18:34.600
+\ELANEnd 00:18:39.480
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_132
+\ref
+\tx Nan    ašatkan tarakeː    ọjčịladdanaši.
+\mb ńaːn asatkan  tarak =eː  ọjčị -L    -D    -R(E) -n(I)  =sI
+\ge and    girl     dist  =emph go.up     -inch -prog -nonfut -3sg =emph
+\ft And that girl started to climb up quickly.
+\ph
+\gr could one say ojčiʤillanaši? = YES, nachinaet zalezatj;     ọjčịladdanaši = bystro nachinaet zalezatj, the accelerative reading of inch-prog-nfut
+\ev
+\ru И вот эта девушка стала быстро залезать.
+\ELANBegin 00:18:39.480
+\ELANEnd 00:18:43.520
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_133
+\ref
+\tx Nan    taral        amardadun                 umekič ọjč..  eŋileši        tala          ọrọčịl     bišiten.
+\mb ńaːn tarak -E-L   amar -gIdE -DU  -n(I)     umekič ọjčị eŋi   -L  =sI   tarak -(dU)LE ọrọč -E  -L  bi -RI -tEn
+\ge and    dist  -ep-pl last -part -dat -poss.3sg very    go.up     strong -pl =emph dist  -loc    Oroch     -ep -pl be -pst -poss.3pl
+\ft And those behind her ... there were very strong Evens there, right.
+\ev
+\ru И вот эти за ней следом, очень сильные же там эвены были.
+\ELANBegin 00:18:43.520
+\ELANEnd 00:18:53.080
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_134
+\ref
+\tx Nan... tiːk epkendʒidʒilleši,             bọk... bọk... bọk... bọknịtan            nọŋman, ašatkam     taraw.
+\mb ńaːn tiek  hepken -D    -L    -R(E)   =sI   bọkan  bọkan  bọkan  bọkan  -RI -tEn       nọŋman  asatkan -W   tarak -W
+\ge and    now   catch  -prog -inch -nonfut =emph catch.up catch.up catch.up catch.up -pst -poss.3pl 3sg.acc    girl    -acc dist  -acc
+\ft And they were just about to catch her, they had caught up with her, with that girl.
+\ev
+\ru И вот уже стали ее ловить, вот-вот поймают, догнали ее, девушку эту.
+\ELANBegin 00:18:53.080
+\ELANEnd 00:19:03.640
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_135
+\ref
+\tx Nan    ečin      epkusčịlleketen                      ašatkan tarak nan    ịkụtịč    ujgič    meːni      usiŋderin,            esseki.
+\mb ńaːn erroːčin hepken -sčI  -L    -REk      -tEn      asatkan  tarak ńaːn ịkụt -E-Č   oj  -GIČ meːni      usiŋde -RI -n(I)      esseki
+\ge and    prox.qual  catch  -conat -inch -cond.cvb -poss.3pl girl     dist  and    straight -ep-ins top -elat refl.sg.acc throw   -pst -poss.3sg downwards
+\ft And when they were about to catch her that girl just threw herself down from the top.
+\ph
+\gr epkusčilleketen = epkesčilleketen, just the way she pronounces the word
+\gr 27/06/2016: epkusčilleketen = kogda vot-vot pojmajut; epkelleketen = xvatatj uzhe nachal - i.e. here he already grabs her, with the "conative" suffix he hasn't quite yet grabbed her, but
+is about to
+\nt
+\ev
+\ru И вот когда стали уже ее ловить, девушка эта прямо бросилась сверху себя вниз.
+\ELANBegin 00:19:03.640
+\ELANEnd 00:19:16.840
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_136
+\ref
+\tx Nan    tala          torle         Alŋej...
+\mb ńaːn tarak -(dU)LE tor   -(dU)LE Alŋej
+\ge and    dist  -loc    earth -loc    Alnej
+\ft And there in that place Alnej...
+\ev
+\ru И вот на этой земле Алней...
+\ELANBegin 00:19:16.840
+\ELANEnd 00:19:20.000
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_137
+\ref
+\tx Ah, tarak epiŋej ańčịndu...    ergilen                     tikrin.
+\mb ah  tarak epiŋej ańčịn    -DU  her    -gIdE -(dU)LE -n(I)  tik  -RI -n(I)
+\ge ah  dist  volcano space.beside -dat bottom -part -loc -poss.3sg fall -pst -poss.3sg
+\ft Ah, she fell at the bottom of that volcano.
+\ev
+\ru И вот она под (у подножия) вулкан упала.
+\ELANBegin 00:19:20.000
+\ELANEnd 00:19:26.160
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_138
+\ref
+\tx Nan    ojdukun               uŋel  ńuːrin.
+\mb ńaːn oj  -DUk(U) -n(I)     huŋel ńoː -RI -n(I)
+\ge and    top -abl    -poss.3sg blood  exit  -pst -poss.3sg
+\ft And blood flowed out of her.
+\ph
+\gr Rimma said that "ojdukun" (here) meant "iz nee"
+\ev
+\ru И из нее кровь вышла.
+\ELANBegin 00:19:26.160
+\ELANEnd 00:19:31.640
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_139
+\ref
+\tx Nan    tarak uŋel  tur   dọːlin                iːrin.
+\mb ńaːn tarak huŋel tor   dọː -(dU)LI -n(I)     iː   -RI -n(I)
+\ge and    dist  blood  earth inside -prol   -poss.3sg enter -pst -poss.3sg
+\ft And that blood entered into the earth.
+\ev
+\ru И вот эта кровь в землю ушла.
+\ELANBegin 00:19:31.640
+\ELANEnd 00:19:36.640
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_140
+\ref
+\tx Ịamị tur...duk      nan    ńuːrin             gielbeti muː
+\mb ịamị tor    -DUk(U) ńaːn ńoː -RI -n(I)      gielbeti moː
+\ge ptl      earth  -abl    and    exit  -pst -poss.3sg clean    water
+\ft And from the earth flowed clean water.
+\ph
+\nt note the pause between tur and the ablative suffix
+\ev
+\ru Из земли вышла чистая вода.
+\ELANBegin 00:19:36.640
+\ELANEnd 00:19:44.960
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_141
+\ref
+\tx Ńan   ọkaːteč       ejesnin                     urekčen daːlịlịn.
+\mb ńaːn ọkaːt -E  -Č  ejeː -s(E)n -RI -n(I)      urekčen daːlị -(dU)LI -n(I)
+\ge and    river    -ep -ins flow  -lim   -pst -poss.3sg hill     near     -prol   -poss.3sg
+\ft And flowed as a river near the hill.
+\ev
+\ru И рекой потекла возле горы.
+\ELANBegin 00:19:44.960
+\ELANEnd 00:19:53.000
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_142
+\ref
+\tx Tarak ọkaːt ọːčaw           ọrọčịl     gerburiten           ọkaːt Iːče.
+\mb tarak ọkaːt ọː  -čE    -W   ọrọč -E  -L  gerbu -RI -tEn       ọkaːt iː   -čE
+\ge dist  river    become -pf.ptc -acc Oroch     -ep -pl call  -pst -poss.3pl river    enter -pf.ptc
+\ft That river that had become the Evens called the river Icha.
+\ph
+\gr should really be "taraw okatu gerburiten okateč Ičet"
+\ev
+\ru Эту реку ставшей эвены называли река Ичча.
+\ELANBegin 00:19:53.000
+\ELANEnd 00:20:00.760
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_143
+\ref
+\tx Iːrin,              iːče,       tačịn        goːweːtte.
+\mb iː   -RI -n(I)      iː   -čE    tarrọːčịn goːn -WEːČ -R(E)
+\ge enter -pst -poss.3sg enter -pf.ptc dist.qual       say   -gnr    -nonfut
+\ft Came out, the one who came out, that is how they say.
+\ph
+\gr here the verb iː- has the meaning of "come out, rise up", as it has when used for plants growing in the vegetable patch
+\ev
+\ru Вышла, вышедшая, так говорят.
+\ELANBegin 00:20:00.760
+\ELANEnd 00:20:04.000
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_144
+\ref
+\tx Nan...
+\mb ńaːn
+\ge and
+\ft and
+\ev
+\ru
+\ELANBegin 00:20:04.000
+\ELANEnd 00:20:06.880
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_145
+\ref
+\tx Asatkan tarak meːni      usiŋdereken                    urekčen, erek urekčen epiŋaj uːrelin                 ńọːbalašnin.
+\mb asatkan tarak meːni      usiŋde -REk -E-n(I)            urekčen  erek urekčen epiŋej huːre -(dU)LI -n(I)     ńọːbatị -LE -s(E)n -RI -n(I)
+\ge girl    dist  refl.sg.acc throw   -cond.cvb -ep -poss.3sg hill      prox hill     volcano tip    -prol   -poss.3sg white         -vr -lim   -pst -poss.3sg
+\ft And when that girl threw herself down, the summit of that volcano turned white.
+\ev
+\ru И когда девушка себя бросила гора, вершина этого вулкана побелела.
+\ELANBegin 00:20:06.880
+\ELANEnd 00:20:22.440
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_146
+\ref
+\tx Nan    čajčịbal                urekčem      gerburiten           Alŋej, dịlan            ńọːbatị, ọrọttịč.
+\mb ńaːn čajčaba               -L  urekčen -W   gerbu -RI -tEn       Alŋej  dịl -E-n(I)      ńọːbatị  ọrọč -DI   -Č
+\ge and    reindeer.herding.Koryak -pl hill     -acc call  -pst -poss.3pl Alnej   head  -ep-poss.3sg white          Oroch     -adjr -ins
+\ft And the Koryaks called the hill Alney, "its head is white" in Even.
+\ev
+\ru И коряки назвали Алней, голова белая по-эвенски.
+\ELANBegin 00:20:22.440
+\ELANEnd 00:20:33.480
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_147
+\ref
+\tx Ireptu dịlan            ńọːbatị ọːdịn            tarak Alŋej kojeːmi         ọːn asatkan tikrin              esseki,   meːni
+\mb ireptu dịl -E-n(I)      ńọːbatị ọː  -RI -n(I)      tarak Alŋej kojeː -mI       ọːn asatkan tik  -RI -n(I)      esseki    meːni
+\ge even   head  -ep-poss.3sg white         become -pst -poss.3sg dist  Alnej  watch  -cond.cvb how    girl    fall -pst -poss.3sg downwards refl.sg.acc
+
+\tx usiŋderin.
+\mb usiŋde -RI -n(I)
+\ge throw   -pst -poss.3sg
+
+\ft The summit (lit. head) of that Alnej turned white when he saw how the girl fell down, having thrown herself.
+\ph
+\gr would have been better to say "tikrin esseki, meːni usiŋderiʤi", rather than two main clauses with finite verbs
+\ev
+\ru Аж голова белая стала у этого Алнея когда смотрел он как девушка упала вниз, себя бросив.
+\ELANBegin 00:20:33.480
+\ELANEnd 00:20:42.560
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_148
+\ref
+\tx Tiːk biken       ọrọčịl     talị        nulgel...   nulge... nulgedmi                ereger ulekiču     neːddʒoːtte.
+\mb tiek  bi -kEn     ọrọč -E  -L  tarak -(dU)LI nulge   -L  nulge    nulge   -D    -mI       ereger ulekič -W   neː -D    -WEːČ -R(E)
+\ge now   be -trm.cvb Oroch     -ep -pl dist  -prol   migrate -pl migrate  migrate -prog -cond.cvb always treat   -acc put  -prog -gnr    -nonfut
+\ft Until this day the Evens always leave a treat when they migrate there.
+\ev
+\ru По настоящее время эвены там кочуя всегд приношение делают.
+\ELANBegin 00:20:42.560
+\ELANEnd 00:20:52.120
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_149
+\ref
+\tx Esten       ọːkta    ọmŋawaːtta           ọːn tala          asatkan meːni      maːrin.
+\mb e   -R(E)   ọːk =DE  ọmŋa -WEːČ -R       ọːn tarak -(dU)LE asatkan meːni      maː -RI -n(I)
+\ge neg -nonfut when   =ptl forget  -gnr    -neg.cvb how    dist  -loc    girl    refl.sg.acc kill -pst -poss.3sg
+\ft They never forget how there a girl killed herself.
+\ev
+\ru Никогда не забывают как там девушка себя убила.
+\ELANBegin 00:20:52.120
+\ELANEnd 00:20:59.240
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_150
+\ref
+\tx Emi           ajaːwra        eŋejew     čajčịbaw,                entekeːje ajaːwrin             meːn urkeŋeńdʒeji.
+\mb e   -mI       ajaːw -R       eŋeje -W   čajčaba               -W   entekeːje ajaːw -RI -n(I)      meːn hurkeːn -ŋ  -ńdʒE -J
+\ge neg -cond.cvb love   -neg.cvb rich   -acc reindeer.herding.Koryak -acc strong     love   -pst -poss.3sg refl  boy      -aln -aug    -prfl.sg
+\ft Not loving the rich Koryak, she loved her big boy very much.
+\ev
+\ru Не любя богатого коряка сильно любила своего парня большого.
+\ELANBegin 00:20:59.240
+\ELANEnd 00:21:08.760
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_151
+\ref
+\tx Nan    tiːk tarak Alŋej tačịnta            ịlačịddan.
+\mb ńaːn tiek  tarak Alŋej tarrọːčịn =t(E) ịl     -Č  -D    -R(E) -n(I)
+\ge and    now   dist  Alnej  dist.qual       =ptl  stand.up -res -prog -nonfut -3sg
+
+\ft And now that Alnej stands there just the same.
+\ev
+\ru И сейчас же этот Алней так же стоит.
+\ELANBegin 00:21:08.760
+\ELANEnd 00:21:14.160
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_152
+\ref
+\tx Talị        tabịč ańčịndụlịn             ọkaːt ejeːnni,    Iːče        gerben.
+\mb tarak -(dU)LI tabịč ańčịn    -(dU)LI -n(I)     ọkaːt ejeːn -n(I) iː   -čE    gerbe -n(I)
+\ge dist  -prol   again    space.beside -prol   -poss.3sg river    flow   -3sg  enter -pf.ptc name  -poss.3sg
+\ft And next to it flows a river, its name is Icha.
+\ev
+\ru И там вот рядышком река течет, Ичей называется.
+\ELANBegin 00:21:14.160
+\ELANEnd 00:21:23.680
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_153
+\ref
+\tx Tiːk biken       tačịnta            bidden.
+\mb tiek  bi -kEn     tarrọːčịn =t(E) bi -D    -R(E) -n(I)
+\ge now   be -trm.cvb dist.qual       =ptl  be -prog -nonfut -3sg
+\ft It's like that until now.
+\ev
+\ru До сих пор так есть.
+\ELANBegin 00:21:23.680
+\ELANEnd 00:21:26.600
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_154
+\ref
+\tx Tiːk biken       Alŋej tarak uːreńdʒen             ńọːba...  ńọːbaladdan,                     gịltaladdan.
+\mb tiek  bi -kEn     Alŋej tarak huːre -ńdʒE -n(I)     ńọːbatị ńọːbatị -LE -D    -R(E) -n(I)  gịltaːldị -LE -D    -R(E) -n(I)
+\ge now   be -trm.cvb Alnej  dist  tip    -aug    -poss.3sg white         white         -vr -prog -nonfut -3sg pure.white     -vr -prog -nonfut -3sg
+\ft And until now the summit of that Alnej is white, shining white.
+\ev
+\ru До сих пор вершина Алнея белеет, светится.
+\ELANBegin 00:21:26.600
+\ELANEnd 00:21:32.600
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_155
+\ref
+\tx Nan    tare.
+\mb ńaːn tarak -E
+\ge and    dist  -ep
+\ft That's it.
+\ev
+\ru И все.
+\ELANBegin 00:21:32.600
+\ELANEnd 00:21:36.640
+\ELANParticipant
+
+\id Grigoreva_NI_legend_Alngej_156
+\ev the end
+\ru
+\ELANBegin 00:21:36.640
+\ELANEnd 00:21:40.608
+\ELANParticipant 
+
+
+\ELANMediaURL file:///D:/Brigitte PAKENDORF/My Documents/LANGUAGE PROJECTS/Even
+project/fieldwork_Kamchatka_2016/Narrative_recordings/12_Grigoreva_NI_legend_Alinge/Grigoreva_NI_legend_Alinge_120709.WAV
+\ELANMediaMIME audio/x-wav

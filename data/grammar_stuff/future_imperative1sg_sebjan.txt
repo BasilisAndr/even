@@ -1,0 +1,146 @@
+\_sh v3.0  984  Text
+
+\id aa_grammatical_thoughts
+\ref
+\gr Although the grammars seem to distinguish between -DʒIŋe 'hypothetical participle' and -DIŋe 'future participle', here in
+Sebjan these seem to be allomorphs; after consonants for the Future Imperative 1SG only the variant -DʒIŋe is used,
+while after vowels -D(I)ŋE is mostly used, though -DʒIŋe is also sometimes used.
+
+\id ConverbsComplementizers4.4
+\ref elicited with Ekaterina Shadrina 18.02.08; sebjan180208_31:17
+\tx Nọŋan ile   herdej                 dʒọmkattịn.
+\mb nọŋan ile   hur -DE       -J       dʒọm  -kEČ -RI  -n(I)
+\ge 3sg      where go  -purp.cvb -prfl.sg remember -mult -pst -poss.3sg
+\ft
+\ru Он думал куда идти.
+\ph
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan060308_ija_1:55
+\tx Ile   herŋe       goːniken      nọŋan dʒọmkattan.
+\mb ile   hor -ŋE     goːn -nIkEn   nọŋan dʒọm  -kEČ -R(E)   -n(I)
+\ge where go  -pol.imp say   -sim.cvb 3sg      remember -mult -nonfut -3sg
+
+\gr I'm not at all sure about the "herŋe" - at first I had analyzed it as the "negative modal converb", but that supposedly
+only occurs in periphrastic expressions with negative verbs. After further elicitation (cf. below) I figured it might be the
+polite imperative suffix, because the above sentence is synonymous with forms with the hypothetical participle.
+\nt Checked this form (elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_3:35): it cannot be used without
+"goːniken", and it is synonymous with the hypothetical participle. However, when I asked her a day later
+(sebjan080308_25:10), she at first said that it was the negative modal converb (i.e the converb that occurs with verbs
+like turkut), but then also pointed out that it is synonymous with the hypothetical participle, and then agreed with me
+that it might also be the polite imperative, perhaps both.
+\tx ile   herŋe       goːniken      dʒọmkattan                = ile   herdʒiŋej
+\mb ile   hor -ŋE     goːn -nIkEn   dʒọm  -kEČ -R(E)   -n(I) = ile   hor -DʒIŋE -J
+\ge where go  -pol.imp say   -sim.cvb remember -mult -nonfut -3sg  = where go  -hyp.ptc -prfl.sg
+
+\tx (goːniken)    dʒọmkattan
+\mb goːn -nIkEn   dʒọm  -kEČ -R(E)   -n(I)
+\ge say   -sim.cvb remember -mult -nonfut -3sg
+\ft
+\tx ịaw      gaŋa         goːniken      dʒọmkattam               = ịaw      gadʒịŋaj
+\mb ịak -W   ga   -ŋE     goːn -nIkEn   dʒọm  -kEČ -R(E)   -m   = ịak -W   ga   -DʒIŋE -J
+\ge what  -acc take -pol.imp say   -sim.cvb remember -mult -nonfut -1sg = what  -acc take -hyp.ptc -prfl.sg
+
+\tx (goːniken)    dʒọmkattam
+\mb goːn -nIkEn   dʒọm  -kEČ -R(E)   -m
+\ge say   -sim.cvb remember -mult -nonfut -1sg
+\ru Я думала что купить
+\ph
+\gr one could also say gadŋaj
+\tx Ọːn nekčim        goːniken      ulgimin.
+\mb ọːn nek -DʒI -m   goːn -nIkEn   ulgimi -n(I)
+\ge how    do  -fut  -1sg say   -sim.cvb ask    -3sg
+\ru Он спрашивал что делать.
+\nt Obviously, this is not a very good example for elicitation, because it is translated (and usually said) just like direct
+speech.
+
+\id Imperatives02
+\ref elicited with Ekaterina Shadrina 22.02.08; sebjan220208_1_26:43
+\tx Biː amarra //  amarrakan   beju             gorodla        hordʒim.
+\mb biː amarra *// amarra -KEn bej    -W        gorod  -(dU)LE hor -DʒI -m
+\ge 1sg  later  *** later  -dim self.Y -poss.1sg town.R -loc    go  -fut  -1sg
+
+\ft
+\ru Давай в сентябре сама поеду в город!
+\ph
+\gr beju = bejem (Sakha)!
+\nt
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_39:05
+\tx Sentjabrdu       biː beju             kọratla      herdeku.
+\mb sentjabr    -DU  biː bej    -W        gorod  -(dU)LE hor -DE       -W
+\ge September.R -dat 1sg  self.Y -poss.1sg town.R -loc    go  -purp.cvb -poss.1sg
+\ft
+\nt elicited with Ija Krivoshapkina, sebjan170308_23:00
+\tx Emni           nedeljadu    Semen Ivanovič ukčenekpen                ńanda      dụkassịdŋaw!
+\mb em   -RI       nedelja -DU  Semen Ivanovič ukčenek -W   -E-n(I)      ńaːn =DE  dụk -E-sčI   -DʒIŋE -W
+\ge come -impf.ptc week.R  -dat Semen Ivanovich story    -acc -ep-poss.3sg and    =ptl write -ep-conat -hyp.ptc -poss.1sg
+\ft
+\ru Давай я на следующей неделе опять попробую записать рассказ у Семена Ивановича!
+\ph
+\nt elicited with Ija Krivoshapkina, sebjan170308_24:15
+\tx Jakutskajla     bańịkla           herdʒiŋew,           pardu        tegečehendej.
+\mb Jakutsk -(dU)LE banja        -(dU)LE hor -DʒIŋE -W        par     -DU  teg      -E-Č   -E-s(E)n -DE       -J
+\ge Yakutsk -loc    bath.house.R -loc    go  -hyp.ptc -poss.1sg steam.R -dat sit.down -ep-res -ep-lim  -purp.cvb -prfl.sg
+
+\ft
+\ru Давай я в Якутске пойду в баню, попарюсь как следует.
+\ph
+\nt elicited with Ija Krivoshapkina, sebjan170308_34:50
+\tx Ge,   bekeččeːn   ọːptan,                ŋiːde    ńan   ehni              ukčenehme, teːmi    er   nedelja
+\mb ge    bekeččeːn   ọː  -B   -R(E)   -n(I) ŋiː =DE  ńaːn e   -R(E)   -n(I)             teːmi    erek nedelja
+\ge exclm absolutely.all become -med -nonfut -3sg  who   =ptl and    neg -nonfut -3sg              therefore prox week.R
+
+\tx ọdọddọkọn                    biː Jakutskajla     herdʒiŋew.
+\mb ọd -E-D     -REk      -E-n(I)      biː Jakutsk -(dU)LE hor -DʒIŋE -W
+\ge stop -ep-prog -cond.cvb -ep-poss.3sg 1sg  Yakutsk -loc    go  -hyp.ptc -poss.1sg
+
+\ft
+\ru Ладно, все сделано, никто рассказать не хочет, так что давай я в конце недели в Якутск поеду!
+
+\id Imperatives18
+\ref elicited with Ekaterina Shadrina; sebjan280208_1_31:50
+\tx Biː ọːkta    kọlata      etem           bihe.
+\mb biː ọːk =DE  kọl -E  -tE e   -t(E) -m   bi -R
+\ge 1sg  when   =ptl drink -ep -nr neg -fut  -1sg be -neg.cvb
+\ru Я никогда не буду пьяницей.
+\gr kọlata = drunkard
+\nt (sebjan040308_keti_7:30) checked the form "kọlata", and she said that a local synonym was hobelčeːgin
+\qu
+\nt sebjan040308_keti_8:20
+\tx Biː tortu       etem           dʒebte,       họː berge ọːča       bihem.
+\mb biː tort   -W   e   -t(E) -m   dʒeb -R       họː berge ọː  -čE    bi -R(E)   -m
+\ge 1sg  cake.R -acc neg -fut  -1sg eat   -neg.cvb very   fat   become -pf.ptc be -nonfut -1sg
+\ru Давай я в 8-ое марта не буду кушать торт, слишком я уже толстая.
+\ph
+\nt elicited with Ija Krivoshapkina, sebjan080308_47:30
+\tx Biː edŋew                 ọːkta    tardịm        kọlla.
+\mb biː e   -DʒIŋE -W        ọːk =DE  tardịn   -W   kọl -R
+\ge 1sg  neg -hyp.ptc -poss.1sg when   =ptl dist.quant -acc drink -neg.cvb
+
+\gr Started to say "egdʒen bimi", i.e. "when I'm big", but then saw that that was not in the sentence, that was just my context
+\ph egŋew
+\gr
+\nt elicited with Ija Krivoshapkina, sebjan130308_18:45
+\tx Holotle                             emnewu             tọrụ    dʒebte,       i     tak  berge
+\mb slet_olenovodov             -(dU)LE e   -mnE -W        tort   -W   dʒeb -R       i     tak  berge
+\ge meeting.of.reindeer.herders -loc    neg -hyp -poss.1sg cake.R -acc eat   -neg.cvb and.R so.R fat
+
+\tx bihem.
+\mb bi -R(E)   -m
+\ge be -nonfut -1sg
+\ft
+\ru Давай я в праздник оленоводов не буду торт кушать, слишком я уже толстая!
+\ph
+\gr emnewu = objazannost'
+
+\id Imperatives32
+\ref elicited with Ija Krivoshapkina, sebjan130308_26:10
+\tx Hiː minu         amarra moːle        nọːdaŋannị!      Ge,   amarra nọːdadʒịŋaw!
+\mb hiː min     -W   amarra moː  -(dU)LE nọːda -ŋE     -nrI ge    amarra nọːda -DʒIŋE -W
+\ge 2sg  1sg.obl -acc later  water -loc    throw    -pol.imp -2sg exclm later  throw    -hyp.ptc -poss.1sg
+
+\ft
+\ru Ты меня потом в воду брось! Ладно, давай я тебя потом туда брошу!
+\nt This was a sentence from my thesis (example from Malchukov, I believe), which I had given Rimma Maksimovna for
+judgement on Kamchatka. Here, I first asked Ija for the translation of the Russian sentence, then I gave her the following
+for judgement:
+\tx Minu moːle nọːdadaj! Ịŋa, nọːdadŋaw.
+\gr said no, they wouldn't say "nọːdadaj" here

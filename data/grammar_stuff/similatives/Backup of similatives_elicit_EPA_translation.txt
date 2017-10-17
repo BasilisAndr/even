@@ -1,0 +1,125 @@
+\_sh v3.0  1082 Text
+
+\id 02_equative
+\ru Маша такая же красивая как ее мать. 
+\tx Maša ekmi            urečinni           nọːd.
+\mb Maša eken   -J       ureːčin -n(I)     nọːd
+\ge Masha mother -prfl.sg similar   -poss.3sg pretty
+
+
+\id 08_equative
+\ru Его сын не такой же сильный, как твой, но зато он очень умен.
+\tx Min kụŋaŋu esni eŋi bise, no mergeč.
+\mb
+\ref asked her again to say "not as strong as"
+\tx Esni eŋi bise min kụŋaŋdukuw.
+\ft
+\gr this would seem to be erroneous, I don't believe this
+
+\id 09_similative
+\ru Мы ели макароны как итальянцы.
+\tx Makarom         dʒebeddiwun                      italjancalgečin.
+\mb makaron    -W   dʒeb -E  -D    -RI -WUn          italjancy -E-L   -G(E)čIn
+\ge macaroni.R -acc eat   -ep -prog -pst -poss.1pl.ex Italian.R -ep-pl -sml
+
+
+\id 11_similative
+\ru Похожие на шарики рыбы очень страшные.
+\tx Ọlla miečik urečilni               eŋundel.
+\mb ọlra mjačik ureːčin -L  -n(I)     heŋun    -DI   -L
+\ge fish   ball.R  similar   -pl -poss.3sg be.afraid -adjr -pl
+\ft
+\gr should have been ọllal...
+\tx
+
+\id 12_similative
+\ru Отсюда, кажется, приехал
+\tx Ewgič     emče        urečinni.
+\mb erek -GIČ em   -čE    ureːčin -n(I)
+\ge prox -elat come -pf.ptc similar   -poss.3sg
+\ft
+\gr ewgič = ergič (cf. Amganov_EI_kino_019), no difference
+
+\id 13_similative
+\ru Этот домик будто сгорел 
+\tx Erek dʒụː durče       urečinni.
+\mb erek dʒụː dur  -čE    ureːčin -n(I)
+\ge prox house    burn -pf.ptc similar   -poss.3sg
+
+
+\id 14_similative
+\ru Где-то как будто он ее видел
+\tx Ilewutte               ittiwu.
+\mb irek  -(dU)LE =(W)UttE it  -RI  -W
+\ge which -loc    =indef   see -pst -poss.1sg
+\ft
+\gr even though I repeated the question and said "emu tolko kazhetsja", she insisted on this, "on zhe ne znaet, gde on ee videl"
+
+\id 17_similative
+\ru Слышен звук, как будто он идет в тапочках 
+\tx Gịrkarị       urečenni           tapočkilkan.
+\mb gịrka -RI       ureːčin -n(I)     tapočki   -lkEn
+\ge walk    -impf.ptc similar   -poss.3sg slippers.R -prop
+
+
+\id 1_equative
+\ru Он такой же высокий как его отец.
+\tx Erek akmaγčimi               gụːd
+\mb erek akan   -G(E)čIn -J       gụd
+\ge prox father -sml      -prfl.sg high
+
+
+\id 26_comparative
+\ru Мой сын в школе учится лучше, чем твой сын.
+\tx Min     kụŋaŋu  školele         ajịč      taŋnan            inŋiduk.
+\mb min     kụŋa =GU škola   -(dU)LE aj   -E-Č   taŋ -R(E)   -n(I) hin     -ŋI       -DUk(U)
+\ge 1sg.obl child   =q  school.R -loc    good -ep-ins read -nonfut -3sg  2sg.obl -pred.poss -abl
+
+
+\id 27_comparative
+\ru Лион более красивый город, чем Лейпциг.
+\tx Lion nọːd gorod  Lejpcigduk
+\mb Lion nọːd gorod  Lejpcig -DUk(U)
+\ge Lyon pretty  town.R Leipzig -abl
+
+
+\id 28_comparative
+\ru Ты на 5 лет старше меня.
+\tx Iː  minduk          aγdị bišenni        tụnŋanịč    anŋanịč.
+\mb hiː min     -DUk(U) hagdị bi -R(E)   -nrI tụnŋan -E-Č   anŋan -E-Č
+\ge 2sg  1sg.obl -abl    old     be -nonfut -2sg five      -ep-ins year   -ep-ins
+
+
+\id 34_superlative
+\ru Новая школа в Эссо – самая большая школа во всей Камчатке.
+\tx Essola           egdʒen škola   čeledukun              Kamčatkala       bisiduk.
+\mb Essọː -(dU)LE egdʒen škola   čele -DUk(U) -n(I)     Kamčatka -(dU)LE bi -RI       -DUk(U)
+\ge Esso     -loc    big     school.R all   -abl    -poss.3sg Kamchatka -loc    be -impf.ptc -abl
+
+
+\id 35_pretense
+\ru Ребенок делает вид, что он делает уроки, но на самом деле он играет на компьютере.
+\tx Kụŋa uroki               nekeššen        bišni,          a     meːnken   ewidden                   kompjuterič.
+\mb kụŋa urok       -J       nek -E  -ssEn     bi -R(E)   -n(I) a.R   meːn =kEn ewiː -D    -R(E)   -n(I) kompjuter  -E-Č
+\ge child   homework.R -prfl.sg do  -ep -pretense be -nonfut -3sg  but.R refl  =ptl play  -prog -nonfut -3sg  computer.R -ep-ins
+
+
+\id 36_pretense
+\ru Я делала вид, что ела нялакчу, но на самом деле дала ее собаке.
+\tx Bi   dʒebeššen        bišiwu           ńaːlakčaw,    no    bi   ŋịndu    buːriwu.
+\mb biː dʒeb -E  -ssEn     bi -RI  -W        ńaːlakča -W   no    biː ŋịn -DU  boː -RI  -W
+\ge 1sg  eat   -ep -pretense be -pst -poss.1sg fresh.meat  -acc but.R 1sg  dog    -dat give -pst -poss.1sg
+
+
+\id 40_pretense
+\ru Мы сделали вид что мы уехали в город.
+\tx Ureššen        bišiwun             gorodtakị.
+\mb uːr   -ssEn     bi -RI -WUn          gorod  -t(E)kI
+\ge before -pretense be -pst -poss.1pl.ex town.R -all
+
+
+\id 42_pretense
+\ru Ребенок притворяется, что плачет, чтобы мама его пожалела.
+\tx Kụŋa ọŋaššan         bišni           ekedmer       nakadan.
+\mb kụŋa họŋ -E  -ssEn     bi -R(E)   -n(I) eken   -dmEr  naka -DE       -n(I)
+\ge child   cry    -ep -pretense be -nonfut -3sg  mother -contr pity -purp.cvb -poss.3sg

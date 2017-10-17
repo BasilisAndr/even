@@ -1,0 +1,193 @@
+\_sh v3.0  984  Text
+
+\id Zaxarov_AV_song_000_metadata
+\ref Recorded on 18 March 2010 in Sebjan-Küöl by Natalia Aralova and Brigitte Pakendorf. AVZ came to the flat that NA
+and BP were renting in the the early evening specifically to tell a story in Even. It was quiet except for a truck or two
+that went by outside. This is a song written by another Sebjan-Küöl resident, Petr Dmitrievich Neustroev. 
+\qu In 2012, transcribed by Brigitte Pakendorf, transcription checked and Russian translation by Ija Vasil'evna Krivoshapkina, glossing
+by BP. Funding by the Volkswagen Foundation (DoBeS grant). Speaker abbreviation = AVZ
+\ref Aleksandr Vasilevich Zaxarov was born in 1963, i.e. he was 46-47 years old at the time of recording. He has a
+college-level education and works as a "metodist" in the "klub". He is married to a Sakha and speaks Sakha and Russian
+with her.
+
+\id Zaxarov_AV_song_001
+\tx clap and background
+\ru
+\ELANBegin 00:00:00.030
+\ELANEnd 00:00:06.812
+\ELANParticipant
+
+\id Zaxarov_AV_song_002
+\tx Biː tiːk Pjọtr Dmitrievič Neustroev ikeːldukun                 "Dʒulle      biː bakaldača
+\mb biː tiek  Petr    Dmitrievič Neustroev ikeː -L  -DUk(U) -n(I)     dʒul -(dU)LE biː bak  -(E)ldE -čE
+\ge 1sg  now   Petr    Dmitrievich Neustroev song  -pl -abl    -poss.3sg front -loc    1sg  find -soc    -pf.ptc
+
+\tx bidek"       gerbe ikeːwen                ikeːniken     dọlčịwkandʒịm.
+\mb bi -REk      gerbe ikeː -W   -E-n(I)      ikeː -nIkEn   dọlčị -WkEn -DʒI -m
+\ge be -cond.cvb name  song  -acc -ep-poss.3sg sing  -sim.cvb listen     -caus -fut  -1sg
+\ft I will now let you hear one of the songs of Petr Dmitrievich Neustroev, a song by the name of "If I had met you earlier".
+\ph
+\gr bidek - the person marking -u is omitted
+\ru Я сейчас дам вам послушать из песень ПДН песню под названием "Если бы я раньше встретил"
+\ELANBegin 00:00:06.812
+\ELANEnd 00:00:20.150
+\ELANParticipant
+
+\id Zaxarov_AV_song_003
+\tx Tara, otemi??, tarak dʒe
+\mb tarak          tarak dʒe
+\ge dist           dist  well.Y
+\ft
+\nt this cannot be translated, otemi is not a word, perhaps he meant to say ọttọn emie 'and also'
+\ru
+\ELANBegin 00:00:20.150
+\ELANEnd 00:00:24.336
+\ELANParticipant
+
+\id Zaxarov_AV_song_004
+\tx Ile           ọːk itteŋu                asatkačan    gịrkadnị
+\mb irek  -(dU)LE ọːk it  -DEŋ    -W        asatkan -čEn gịrka -n(I)
+\ge which -loc    when   see -pst.ptc -poss.1sg girl    -dim  walk    -3sg
+\ft the girl which I saw where, when, walked (by)
+\ph
+\gr
+\ru где когда виденная мной девушка прошла (идет девушка которую я видела где,когда)
+\ELANBegin 00:00:24.336
+\ELANEnd 00:00:29.991
+\ELANParticipant
+
+\id Zaxarov_AV_song_005
+\tx nọŋan Jana hụnaːdʒan            erek tordu      isuče
+\mb nọŋan Jana hụnaːdʒ -E-n(I)      erek tor   -DU  isu  -čE
+\ge 3sg      Yana daughter    -ep-poss.3sg prox earth -dat grow -pf.ptc
+\ft she is the daughter of the Yana, grew up in this place
+\ru она дочь Яны, на этой земле выросла
+\ELANBegin 00:00:29.991
+\ELANEnd 00:00:35.620
+\ELANParticipant
+
+\id Zaxarov_AV_song_006
+\tx Dʒulle       biː bakaldača           bidekun,               dʒulle       biː ukčemetče
+\mb dʒul -(dU)LE biː bak  -(E)ldE -čE    bi -DE       -W        dʒul -(dU)LE biː ukčen -mEČ -čE
+\ge front -loc    1sg  find -soc    -pf.ptc be -purp.cvb -poss.1sg front -loc    1sg  tell   -rec  -pf.ptc
+
+\tx bidekun
+\mb bi -DE       -W
+\ge be -purp.cvb -poss.1sg
+
+\ft if I had met her earlier, if I had spoken with her earlier
+\ph
+\ru если бы я раньше встретил, если бы я раньше поговорил
+\ELANBegin 00:00:35.620
+\ELANEnd 00:00:43.830
+\ELANParticipant
+
+\id Zaxarov_AV_song_007
+\tx Haːdụn ńan   hịːrrịmdaskan                bidʒingu,         haːdụn ńan
+\mb haːdụn ńaːn hịːr  -RI       -mdEs -KEn     bi -DʒI -n(I) =GU haːdụn ńaːn
+\ge sometimes and    be.angry -impf.ptc -sml  -dim.int be -fut -3sg   =q  sometimes and
+
+\tx muhomkendʒi                kojeːtčin
+\mb musem -KEn     -DʒI        kojeːt -DʒI -n(I)
+\ge smile -dim.int -ins.prfl.sg look.at -fut -3sg
+\ft sometimes she will be as if angry, sometimes she will look and smile
+\ph biddingu
+\ru иногда еще она сердитая бывает ли, иногда улыбаясь посмотрит
+\ELANBegin 00:00:43.830
+\ELANEnd 00:00:51.990
+\ELANParticipant
+
+\id Zaxarov_AV_song_008
+\tx Haːdụn ńan   hịːrrịmdaskan                bidʒingu,         haːdụn ńan
+\mb haːdụn ńaːn hịːr  -RI       -mdEs -KEn     bi -DʒI -n(I) =GU haːdụn ńaːn
+\ge sometimes and    be.angry -impf.ptc -sml  -dim.int be -fut -3sg   =q  sometimes and
+
+\tx muhomkendʒi                kojeːtčin
+\mb musem -KEn     -DʒI        kojeːt -DʒI -n(I)
+\ge smile -dim.int -ins.prfl.sg look.at -fut -3sg
+\ft sometimes she will be as if angry, sometimes she will look and smile
+\ph biddingu
+\ru
+\ELANBegin 00:00:51.990
+\ELANEnd 00:01:01.080
+\ELANParticipant
+
+\id Zaxarov_AV_song_009
+\tx Nọŋan ile           biddiwen                             odon ńana  motuli
+\mb nọŋan irek  -(dU)LE bi -D -RI -W -E -n(I)                eden ńaːn metu   -LI
+\ge 3sg      which -loc    be -prog -ipf.ptc -acc -ep -poss.3sg wind and    inform -imp.2sg
+
+\ft tell me, wind, where she is
+\ru скажи мне ветер, где она находится
+\ELANBegin 00:01:01.080
+\ELANEnd 00:01:07.350
+\ELANParticipant
+
+\id Zaxarov_AV_song_010
+\tx Nọŋan ile           bihiwen,                       odon ńana  humketli
+\mb nọŋan irek  -(dU)LE bi -RI -W -E-n(I)              eden ńaːn humken  -Č  -LI
+\ge 3sg      which -loc    be -impf.ptc -acc -ep-poss.3sg wind and    whisper -res -imp.2sg
+\ft wind, whisper where she is
+\ph
+\gr biddiwen and bihiwen - no real difference
+\ru где она находится, ветер опять прошепчи
+\ELANBegin 00:01:07.350
+\ELANEnd 00:01:12.940
+\ELANParticipant
+
+\id Zaxarov_AV_song_011
+\tx Dʒulle       biː bakaldača           bidekun,               dʒulle       biː ukčemetče
+\mb dʒul -(dU)LE biː bak  -(E)ldE -čE    bi -DE       -W        dʒul -(dU)LE biː ukčen -mEČ -čE
+\ge front -loc    1sg  find -soc    -pf.ptc be -purp.cvb -poss.1sg front -loc    1sg  tell   -rec  -pf.ptc
+
+\tx bidekun
+\mb bi -DE       -W
+\ge be -purp.cvb -poss.1sg
+
+\ft if I had met her earlier, if I had spoken with her earlier
+\ph
+\ru
+\ELANBegin 00:01:12.940
+\ELANEnd 00:01:21.400
+\ELANParticipant
+
+\id Zaxarov_AV_song_012
+\tx Haːdụn ńan   hịːrrịmdaskan                bidʒingu,         haːdụn ńan
+\mb haːdụn ńaːn hịːr  -RI       -mdEs -KEn     bi -DʒI -n(I) =GU haːdụn ńaːn
+\ge sometimes and    be.angry -impf.ptc -sml  -dim.int be -fut -3sg   =q  sometimes and
+
+\tx muhomkendʒi                kojeːtčin
+\mb musem -KEn     -DʒI        kojeːt -DʒI -n(I)
+\ge smile -dim.int -ins.prfl.sg look.at -fut -3sg
+\ft sometimes she will be as if angry, sometimes she will look and smile
+\ph biddingu
+\ru
+\ELANBegin 00:01:21.400
+\ELANEnd 00:01:29.740
+\ELANParticipant
+
+\id Zaxarov_AV_song_013
+\tx Haːdụn ńan   hịːrrịmdaskan                bidʒingu,         haːdụn ńan
+\mb haːdụn ńaːn hịːr  -RI       -mdEs -KEn     bi -DʒI -n(I) =GU haːdụn ńaːn
+\ge sometimes and    be.angry -impf.ptc -sml  -dim.int be -fut -3sg   =q  sometimes and
+
+\tx muhomkendʒi                kojeːtčin,        goːniken.
+\mb musem -KEn     -DʒI        kojeːt -DʒI -n(I) goːn -nIkEn
+\ge smile -dim.int -ins.prfl.sg look.at -fut -3sg   say   -sim.cvb
+\ft sometimes she will be as if angry, sometimes she will look and smile
+\ru
+\ELANBegin 00:01:29.740
+\ELANEnd 00:01:38.720
+\ELANParticipant
+
+\id Zaxarov_AV_song_014
+\tx applause
+\ru
+\ELANBegin 00:01:38.720
+\ELANEnd 00:01:43.600
+\ELANParticipant 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My Documents/Even
+project/Sebjan_2010_fielddata/sound_files/songs/Zaxarov_AV_song.wav
+\ELANMediaMIME audio/x-wav

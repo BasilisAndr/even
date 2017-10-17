@@ -1,0 +1,369 @@
+\_sh v3.0  1042 Text
+
+\id Solodikov_AA_bearhunt_000_metadata
+\ref Recorded on 02 July 2009 in Central Kamchatka by Natalia Aralova and Brigitte Pakendorf. This session was made in a
+reindeer herd. Since we were sitting in a small yurt, the tripod couldn't be used, so NA was holding the camera and BP was
+holding the microphone. There were five people in the yurt: NA, BP, Anatolij Afanasjevich, Gennadij Afanasjevich and a
+young herdsman Pavel who flapped in front of camera. This session consists of four recordings: tabun_1, tabun_2,
+muxa_roditeli, bearhunt. When we turned off all our devices, Anatolij Afanasjevich told a hunting story about a bear and
+agreed to retell it in Even, so it was the last story we recorded with him.
+\qu ????Transcribed by NA with Valentina Innokent'evna Axmetova, translated into Russian by VIA, glossed by NA. Funding by the
+Volkswagen Foundation (DoBeS grant). Speaker abbreviation = AAS
+\ref Anatolij Afanas'evich Solodikov was born in February 1956, so he was 53 at the time of the recording. He finished 8 years of
+school and then worked in the reindeer herd as a herder all his life. He was married to Valentina Innokent'evna Axmetova and
+is the brother of Gennadij Afanasevich Solodikov. He passed away in July 2016.
+
+\id Solodikov_AA_bearhunt_001
+\tx Vključila. Omneken        erek er   ọkaːtla.
+\mb vključila  omen -REkEn    erek erek ọkaːt -(dU)LE
+\ge turned.on.R one  -iter.adv prox prox river    -loc
+
+\ft
+\ph ọkaːtlu
+\gr
+\nt
+\qu
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:03.000
+\ELANParticipant
+\ev
+\ru Включила. Однажды вот на реке...
+
+\id Solodikov_AA_bearhunt_002
+\tx Omneken        nelke        uŋe      kọbalam      bujuriwun              bụranač.
+\mb omen -REkEn    nelkeni      uŋ   -E  kọbalan -W   buju -RI -WUn          bụran       -E-Č
+\ge one  -iter.adv early.spring hesit -ep bear      -acc hunt -pst -poss.1pl.ex snow.mobile.R -ep-ins
+
+\ELANBegin 00:00:03.000
+\ELANEnd 00:00:09.430
+\ELANParticipant
+\ev
+\ru Однажды весной поехали на охоту на медведя на буране.
+
+\id Solodikov_AA_bearhunt_003
+\tx Bi   dʒụːla       biddiwu,                nan    Andrijan  Nikolaevič emnin,              ịamị goːnni         :
+\mb biː dʒụː -(dU)LE bi -D    -RI -W         ńaːn Andrijan  Nikolaevič em   -RI  -n(I)     ịamị goːn -n(I)
+\ge 1sg  house    -loc    be -prog -pst -poss.1sg and    Andriajan Nikolaevich come -pst -poss.3sg why      say   -poss.3sg 
+
+\tx ịnmač     ilumelčili,           tala          kọbalan horedden.
+\mb hịnma -Č  hilu  -mElčI -LI      tarak -(dU)LE kọbalan hor -E-D     -R(E)   -n(I)
+\ge fast    -ins drink -acclr  -imp.2sg dist  -loc    bear      go  -ep-prog -nonfut -poss.3sg
+
+\ft
+\ph gunni , uredden
+\ELANBegin 00:00:09.430
+\ELANEnd 00:00:17.390
+\ELANParticipant
+\ev
+\ru Я был дома, потом Андриан Николаевич пришел и говорит: скорей чаюй, там медведь уходит.
+
+\id Solodikov_AA_bearhunt_004
+\tx Nan    ilumelčiridʒur,          pukterewurbur           čawrịsnịdʒụr,         ńọːŋčụkasnụ
+\mb ńaːn hilu  -mElčI -RIdʒI -L   pukterewun -L  -WUr     dʒawrị -s(E)n -RIdʒI  -L  ńọːŋčị -WkEn -s(E)n -(R)U
+\ge and    drink -acclr  -ant.cvb -pl gun        -pl -prfl.pl grab      -lim   -ant.cvb -pl run            -caus -lim   -1pl.ex
+
+\ELANBegin 00:00:17.390
+\ELANEnd 00:00:23.820
+\ELANParticipant
+\nt ńoːŋčiram -- ja begu, ńoːŋčukannam -- ja mchusj na chem-to (na sobakax, na mashine, na loshadjax), ńoːŋčukasnam -- ja
+poskakal. So, yes, I think the analysis is correct
+\gr 06.02.13 (questions13, 2:15) ńọːŋčụkasnụ = my pomchalisj na loshadjax; lit. my ix zastavljaem begatj; one can also say
+ńọːŋčụkanụ
+\ev
+\ru Быстро почаевав, схватив ружья, помчались.
+
+\id Solodikov_AA_bearhunt_005
+\tx Bi   mogeːtneniken     nan    ńụralbị           ọmŋarịwụ.
+\mb biː mogeːtne -nIkEn   ńaːn ńụr -E-L   -J       ọmŋa -RI -W
+\ge 1sg  hurry.up  -sim.cvb and    bullet -ep-pl -prfl.sg forget  -pst -poss.1sg
+
+\ft
+\ph moγaeːnenikan
+\ELANBegin 00:00:23.820
+\ELANEnd 00:00:29.390
+\ELANParticipant
+\ev
+\ru Торопясь, я забыл патроны.
+
+\id Solodikov_AA_bearhunt_006
+\tx Ńọːŋčụkanụ         kọbalam      bọknịdʒụr      ańčịndụn.
+\mb ńọːŋčị -WkEn -(R)U   kọbalan -W   kan  -RIdʒI -L   ańčịn    -DU  -n(I)
+\ge run            -caus -1pl.ex bear      -acc h.up -ant.cvb -pl space.beside -dat -poss.3sg
+
+\ft
+\ph
+\gr 06.02.13 (questions13, 3:30) he says ńọːŋčụkanụw = probably wanted to say ńọːŋčụkanụ or ńọːŋčụkanịwụ; skakali my 
+\nt NA: I checked with my notes, it is the same form as in 004, but without -s(E)n
+\ELANBegin 00:00:29.390
+\ELANEnd 00:00:33.240
+\ELANParticipant
+\ev
+\ru Мчались, догнав медведя, рядом.
+
+\id Solodikov_AA_bearhunt_007
+\tx Tarak gịawụ       bụrandụk          minteki         goːnni         : pukteruli!
+\mb tarak gịa -W        bụran       -DUk(U) min     -t(E)kI goːn -n(I)     : pekteren -LI
+\ge dist  next  -poss.1sg snow.mobile.R -abl    1sg.obl -all    say   -poss.3sg   shoot    -imp.2sg
+
+\ft
+\ph guːnni, pukturule
+\ELANBegin 00:00:33.240
+\ELANEnd 00:00:37.220
+\ELANParticipant
+\ev
+\ru Мой друг с бурана мне говорит: стреляй!
+
+\id Solodikov_AA_bearhunt_008
+\tx a     bi   deːpki  goːnem :            ačča ńụralbụ!
+\mb a.R   biː deːpki  goːn -R(E)   -m     ačča ńụrị -E-L   -W
+\ge but.R 1sg  opposite say   -nonfut -1sg   neg    bullet    -ep-pl -poss.1sg
+
+\ft
+\ph guːnem, aččeː
+\ELANBegin 00:00:37.220
+\ELANEnd 00:00:43.100
+\ELANParticipant
+\ev
+\ru А я ему говорю : нету патронов!
+
+\id Solodikov_AA_bearhunt_009
+\tx Nan    nọŋan ịllịdʒị,   goːnni         : tegli             bụrandụ,       bi   tụrkịdụ     pukturudeku
+\mb ńaːn nọŋan ịl     -RIdʒI  goːn -n(I)       teg      -LI      bụran       -DU  biː tụrkị -DUk(U) pekteren -DE       -W
+\ge and    3sg      stand.up -ant.cvb say   -poss.3sg   sit.down -imp.2sg snow.mobile.R -dat 1sg  sled      -abl    shoot    -purp.cvb -poss.1sg
+
+\ft
+\ph guːnni
+\ELANBegin 00:00:43.100
+\ELANEnd 00:00:50.270
+\ELANParticipant
+\ev
+\ru Потом он встал и говорит: садись в буран, я с нарты стрелять буду.
+
+\id Solodikov_AA_bearhunt_010
+\tx Nanda       učiddusi                     dʒawal kọbalan bịrakčan deːgdestelin                  ńọːŋčịn.
+\mb ńaːn =DE  hot   -E  -D    -(R)U   =sI   dʒawal kọbalan bịrakčan degde  -stE  -(dU)LI -n(I)     ńọːŋčị -n(I)
+\ge and    =ptl chase -ep -prog -1pl.ex =emph devil.R bear      stream      height -attn -prol   -poss.3sg run            -poss.3sg
+
+\ELANBegin 00:00:50.270
+\ELANEnd 00:00:56.650
+\ELANParticipant
+\nt Robbek: deːgič -- sverxu, s gory. Rimma: degde -- na gore, sverxu, degdestele -- chutj povyshe
+\nt učidden -- on načinaet pogonju
+\gr 06.02.13 (questions13, 4:45) učiddusi > uttem "ja gonjaju za kogo", učiddusi = pognalisj my, nachali opjatj pogonju, opjatj
+my pognalisj; učellusi = ? I'd asked if this wouldn't be the form for "pognalisj", with inchoative, but then she suggested just:
+uttusi = my pognalisj opjatj; učiddu = sejchas my gonimsja; bi uːčiddem = ja sejchas gonjusj, bi učIddem = ja kolju -->
+difference in word meaning between stressed (and long-sounding) Učiddem and stressed učIddem; deːgdestelin = chutj
+po-vyshe; degde = poverxnostj gory, vyshe; degdelin ńọːŋčịn = poverxu ego; degdeSTElin = chutj povyshe, so the -ste-
+looks like an attenuative marker
+\gr 08.02.13 (questions15, 36:20) bi amardastalawụ = chutj pozadi menja, correct; nọŋan dʒuldestelen = chutj vperedi ego; ja
+chutj po-starshe ego = bi nọŋandụk agdịste (so it's not used only with relational nouns) = agdịsuken, no difference
+\ev
+\ru Опять погнались, дьявол медведь повыше оврага побежал.
+
+\id Solodikov_AA_bearhunt_011
+\tx Bi   ŋụːnamdajị                    dʒulmeldeji                           ičin dereːndulin                    uŋde
+\mb biː ŋụːn -E  -m  -DE       -J       dʒul -m  -E  -L    -DE       -J       ičin dereːn       -(dU)LI -n(I)     uŋ   =DE
+\ge 1sg  straight -ep -vr -purp.cvb -prfl.sg front -vr -ep -inch -purp.cvb -prfl.sg how   upper.reaches -prol   -poss.3sg hesit =ptl
+
+\tx ńọŋčụkanakụ                     bụranda    turkučidden                              kutegesi
+\mb ńọːŋčị -WkEn -REk      -W        bụran =DE  turku       -Č  -E-D     -R(E)   -E-n(I) kuteg -E=sI
+\ge run            -caus -cond.cvb -poss.1sg buran.R =ptl not.be.able -res -ep-prog -nonfut -ep-3sg steep -ep=emph
+
+\ft
+\ph kuteγesi
+\gr  06.02.13 (questions13, 8:15) ŋuːnemdeji = chtoby sprjamitj; ŋuːneč gịrkalị = prjamo idi; dʒulmeldeji = chtoby pereditj; bi
+dʒulmellem = ja operedil; ja sejchas operezhaju = dʒulmeleddem; kuteg urekčen = krutaja gora; bi kutegu ittem = ja
+krutuju vizhu; ńọŋčụkanakụ = lit. kogda ja zastavil begatj, is used for horses or buran
+\gr 08.02.13 (questions15, 37:10) ŋuːn ọtaran = correct, prjamaja doroga; bi dʒulmerem = mozhno, ja operezhaju; bi
+dʒulmellem = ja nachinaju opereditj (I'd asked if one could say that and she just agreed)
+\nt RME: dʒulmeldeji -- opereditj; BP: my analysis of nongchukanaku correct? -- yes, it correspontds to what I have in the note
+book,  RME: kuteg -- steep, sharp (also there is kuter with similar meaning)
+\ELANBegin 00:00:56.650
+\ELANEnd 00:01:04.380
+\ELANParticipant
+\ev  
+\ru Я хотел напрямую, обогнуть этого медведя по верху оврага, а буран уже не мог по крутому.
+
+\id Solodikov_AA_bearhunt_012
+\tx Ịamị kọbalaŋŋun              ukerkinčeridʒi          ŋaːski         neːddenesi                      munteki
+\mb ịamị kọbalan -ŋ  -WUn         ukerkinče       -RIdʒI  ŋaː  -skI      neː -D     -R(E)-n(I)  -E=sI    mun        -t(E)kI
+\ge why      bear      -aln -poss.1pl.ex jump.up.suddenly -ant.cvb bottom -advb.all put  -prog  -nonfut-3sg -ep=emph 1pl.ex.obl -all
+
+\tx amŋajị      tụrrịdʒị.
+\mb amŋa -J       tụr -RIdʒI
+\ge mouth -prfl.sg open  -ant.cvb
+
+\ft
+\ph kọbalanŋụn
+\gr Cincius: ukesendej povernutjsja
+\gr 06.02.13 (questions13, 11:20) nọŋan ukerkinčen = vskochil; on vskochil = ukerkinin; on sejchas vskochaet = ukerkind'in;
+nọŋan ukerkinni = on vskochil; bi ukerkinem; ukerkinčeridʒi = vskochiv; ukerkinčerem = rezko vskochil; neːddenesi =
+kak dal! - RME didn't really see the link to "put"
+\gr 08.02.13 (questions15, 38:15) I thought if there was a verb ukerkin- "vskochitj" and ukerkinče- "rezko vskochitj", then -če-
+might derive more verbs with "rezko" meaning, so I asked for judgement on: ịllatčarịdʒị urrin - rezko vstavav on ushel = NO;
+eːsetčeridʒi minteki ńọːŋčịn - ?? eːsetčeridʒi = smotrev, obarachival i smotrel, golovu povernutj i smotretj; "rezko vstavatj" =
+ịlamalčịrịwụ; ukerkinem = ja vskochila, ukerkinčerem = rezko vskochila; but -če is just lexicalized here
+\nt RME: ukerkinčedeji -- bystro povernutjsja. Nọŋan ukerkinčedden -- on rezko povarchivaet. Neːddenesi -- nachnaet na nas,
+nachinaet svoj strashnyj poryv, nachinaet na nas mchatjsja (esche mozhno skazatj, kogda nachinaet skandal). Past: 3Sg
+neːddinesi, 3Pl neːdditenesi, Nonfut 3pl neːddesi. Is it really related to neː 'put'?
+\ELANBegin 00:01:04.380
+\ELANEnd 00:01:12.500
+\ELANParticipant
+\ev
+\ru Потом медведь повернулся и помчался на нас, разинув пасть.
+
+\id Solodikov_AA_bearhunt_013
+\tx Eːseweːttem                    ịamị gịawụ        buːdeli         ugerridʒi       pukturun
+\mb eːse       -WEːČ -R(E) -m     ịamị gịa  -W        boːdel -J       uger    -RIdʒI  pekteren -n(I)
+\ge turn.around -gnr    -nonfut -1sg why      friend -poss.1sg leg(s)  -prfl.sg lift.up -ant.cvb shoot    -3sg
+
+\ft
+\ph uγerridi
+\gr 08.02.13 (questions15, 40:00) nọŋan eːsenni = on ogljadyvaetsja, bi eːsennem = ogljanulsja, to zhe samoe kak eːserem; bi
+eːserem = ja ogljanulsja;  eːsettem = ja ogljadyvajusj; bi eːsellem = ja nachinaju ogljanutsja; eːsečellem = ja ogljadyvajusj
+mnogo raz
+\ELANBegin 00:01:12.500
+\ELANEnd 00:01:17.850
+\ELANParticipant
+\ev
+\ru Оглянулся, а друг, подняв ногу стреляет.
+
+\id Solodikov_AA_bearhunt_014
+\tx Ụrụkụːttan           dʒoːreken.
+\mb ụrụkụːt -R(E) -n(I)  dʒoːr -REkEn
+\ge miss           -nonfut -3sg two     -iter.adv
+
+\ft
+\ph
+\gr uraː -- promaxnutjsja.
+\ELANBegin 00:01:17.850
+\ELANEnd 00:01:20.160
+\ELANParticipant
+\ev
+\ru Дважды промахнулся.
+
+\id Solodikov_AA_bearhunt_015
+\tx Nan    ịlịwịːdịllakan                                        ịamị daːlịla       asụkụt
+\mb ńaːn ịlan -(G)I -(I)w -E  -D    -E  -L    -REk      -E  -n(I)     ịamị daːlị -(dU)LE asụkụt
+\ge and    three  -ord  -vr   -ep -prog -ep -inch -cond.cvb -ep -poss.3sg why      near     -loc    almost
+
+\tx buːdeldun             epkenin.
+\mb boːdel -DU  -n(I)     hepken -RI  -n(I)
+\ge leg(s)  -dat -poss.3sg catch  -pst -poss.3sg
+
+\ft
+\ph     ịlịwịdịllakan
+\gr 06.02.13 (questions13, 14:15) ịlịwịːdịllakan = v tretij raz; ịlịwịːdịllam = ja delaju v 3j raz; bi digiwrem = ja delaju v 4j raz;
+nọŋan digiwillen = on nachinaet v 4j raz; bi dʒoːriwiddem = ja sejchas delaju vo 2j raz
+\nt RME: ịlịwrakan -- na tretij raz , ịlịwịːdịllakan -- kogda on na tretij raz nachal
+\nt iliwrakan -- na tretij raz (adverb, I think), but iliwidillan -- ja nachinaju tretij raz, iliwidillaku -- kogda ja nachinaju tretij raz,  iliwidillakas -- kogda ty
+nachinaeshj 3ij raz, iliwidillakatan -- kogda oni nachinajut 3ij raz. iliwram -- ja chto-to delaju tretij raz, iliwram olloːttem -- tretij raz edu, iliwdʒim -- budu
+delatj tretij raz, iliwriwu -- ja sdelal v tretij raz. Now I can not hear any length there.
+\ELANBegin 00:01:20.160
+\ELANEnd 00:01:25.650
+\ELANParticipant
+\ev
+\ru На третий раз так близко, что чуть за ногу его не схватил.
+
+\id Solodikov_AA_bearhunt_016
+\tx Nan    iku... ( ikutič          ) amŋalan             usesnin.
+\mb ńaːn          ikut     -E-Č   ) amŋa -(dU)LE -n(I)  os   -s(E)n  -RI  -n(I)
+\ge and             straight -ep-ins   mouth -loc -poss.3sg yank -lim    -pst -poss.3sg
+
+\ft
+\ph
+\gr
+\nt usi переводит буквально как дергает, перен. стреляет
+\nt usesnotten -- bystro perevjazyvajut, ussin -- on perevjazal. BUT here it is another verb at all!!!
+\ELANBegin 00:01:25.650
+\ELANEnd 00:01:27.900
+\ELANParticipant
+\ev
+\ru И прямо в пасть стрельнул.
+
+\id Solodikov_AA_bearhunt_017
+\tx Nan    kọbalan tikrin,             pukterewunnide            tikrin.
+\mb ńaːn kọbalan tik  -RI  -n(I)     pukterewun -n(I)     =DE  tik  -RI  -n(I)
+\ge and    bear      fall -pst -poss.3sg gun        -poss.3sg =ptl fall -pst -poss.3sg
+
+\ELANBegin 00:01:27.900
+\ELANEnd 00:01:32.040
+\ELANParticipant
+\ev
+\ru Медведь упал, и его ружье тоже упало.
+
+\id Solodikov_AA_bearhunt_018
+\tx Nan    erteki       dereːndulin                    bịrakčan ọjčịrịwụn
+\mb ńaːn erek -t(E)kI dereːn       -(dU)LI -n(I)     bịrakčan ọjčị -RI -WUn
+\ge and    prox -all    upper.reaches -prol   -poss.3sg stream      go.up     -pst -poss.1pl.ex
+
+\ft
+\ph ojčeriwun
+\ELANBegin 00:01:32.040
+\ELANEnd 00:01:36.460
+\ELANParticipant
+\ev
+\ru А потом поднялись сюда по верховью оврага.
+
+\id Solodikov_AA_bearhunt_019
+\tx Tadụk       kojeː ( kojeːttu       ) ịamị kọbalaŋŋun              kokeče.
+\mb tarak -DUk(U) kojeː   kojeːt -(R)U     ịamị kọbalan -ŋ  -WUn         koke -čE
+\ge dist  -abl    watch    look.at -1pl.ex   why      bear      -aln -poss.1pl.ex die  -pf.ptc
+\qu
+\gr 06.02.13 (questions13, 16:15) swallowing endings is done very commonly, it's not an idiosyncracy of Anatolij Afanasevich,
+and people understand each other without problems
+\ELANBegin 00:01:36.460
+\ELANEnd 00:01:39.640
+\ELANParticipant
+\ev
+\ru Потом смотрим, оказывается медведь мертвый.
+
+\id Solodikov_AA_bearhunt_020
+\tx Tarmaːk     tar   bu     uŋniwun              ińinedʒilliwun.
+\mb tarak =mEːk tarak buː   uŋ -RI -WUn          ińin -D    -L    -RI -WUn
+\ge dist  =restr dist  1pl.ex do  -pst -poss.1pl.ex laugh -prog -inch -pst -poss.1pl.ex
+
+\ELANBegin 00:01:39.640
+\ELANEnd 00:01:43.760
+\ELANParticipant
+\ev
+\ru Только тогда мы стали смеяться.
+
+\id Solodikov_AA_bearhunt_021
+\tx Gịawuda             goːnni    : ịadunan        minu         uŋnis             asụkụt minu
+\mb gịa  -W        =DE  goːn -n(I)  ịak -DU  =nAn  min     -W   uŋ -RI -s(I)      asụkụt min     -W
+\ge friend -poss.1sg =ptl say   -3sg   what  -dat =emph 1sg.obl -acc do  -pst -poss.2sg almost     1sg.obl -acc
+
+\tx kọbalandu    boːris             dʒebden?
+\mb kọbalan -DU  boː -RI  -s(I)     dʒep -DE       -n(I)
+\ge bear      -dat give -pst -poss.2sg eat   -purp.cvb -poss.3sg
+
+\ft
+\ph guːnni ,     buːris
+\ELANBegin 00:01:43.760
+\ELANEnd 00:01:50.960
+\ELANParticipant
+\ev
+\ru Друг говорит : зачем же ты меня медведю чуть не отдал на съедение?
+
+\id Solodikov_AA_bearhunt_023
+\tx laughter
+\ELANBegin 00:01:50.960
+\ELANEnd 00:01:52.120
+\ELANParticipant
+\ev
+\ru (смех)
+
+\id Solodikov_AA_bearhunt_024
+\tx Vsje -- Xorošo, spasibo!
+\mb 
+
+\ELANBegin 00:01:52.120
+\ELANEnd 00:01:55.340
+\ELANParticipant
+\ev
+\ru Все. Хорошо, спасибо!
+
+
+\ELANMediaURL file:///C:/NatAr/kamchatka2009/Kamchatka_texts/Audio_from_video/Solodikov_AA_ bearhunt_020709.wav
+\ELANMediaMIME audio/x-wav

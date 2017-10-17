@@ -1,0 +1,1405 @@
+\_sh v3.0  1076 Text
+
+\id RDA_TPK_birth_000_metadata
+\ref Recorded on 03 March 2010 in Sebjan-Küöl by Natalia Aralova and Brigitte Pakendorf  at the flat rented by NA and BP. The two
+women were invited to our place to discuss some Even traditions and customs, and initially we had hoped it would be a conversation
+between the two of them. BP & NA were sitting close to them. BP asked a lot of questions, so they were looking at her (though she
+cannot be seen in the first part of the recording). For ease of trancription and annotation, the recordings were cut into ten separate
+files. This one "RDA_TPK_birth" is the third part. 
+\qu Transcribed (pen & paper) by Ija Vasil'evna Krivoshapkina, transcribed in ELAN by BP, translated into Russian by IVK, glossed by BP.
+Funding by the Volkswagen Foundation (DoBeS grant). Speaker abbreviations = RDA, TPK.
+\ref Raisa Dmitrievna Alekseeva was born 10 Feb 1961, so she was 49 at the time of the recording. She holds a university degree and was
+working in the school as psychologist at the time of the recording; every summer, however, she went to the reindeer herd as a "tent
+worker" (chumrabotnitsa). She is the sister of Innokentij Dmitrievich Burtsev.
+\ref Tatjana Petrovna has higher education, is a teacher at the school, was 46 years old at times of recording. She is the aunt of Ija
+Vasil'evna Krivoshapkina.
+
+\id RDA_TPK_birth_001
+\tx Tar,  tar,  gịa, dʒulep       tar   ịadụ   abyčaj,    tradịcịja, ahị baldadaj
+\mb tarak tarak gịa  dʒul -(E)rEp tarak ịak -DU  obyčaj     tradicija      asị balda   -DE       -J
+\ge dist  dist  next   front -adjr   dist  what  -dat tradition.R tradition.R    woman be.born -purp.cvb -prfl.sg
+
+\tx nekreken.
+\mb nek -REk -E-n(I)
+\ge do  -cond.cvb -ep -poss.3sg
+\ft Another previous tradition (concerns the time) when a woman is about to give birth.
+\ru Другой прежний в чем-то обычай, традиция когда женщина собирается рожать.
+\ELANBegin 00:00:00.010
+\ELANEnd 00:00:10.180
+\ELANParticipant RDA
+
+\id RDA_TPK_birth_002
+\tx Ahị biwečeddi                    biheken                    tar   baldarị         tordun
+\mb asị bi -WEːČ -E-D     -RI       bi -REk -E-n(I)            tarak balda   -RI       tor   -DU  -n(I)
+\ge woman be -gnr    -ep-prog -impf.ptc be -cond.cvb -ep -poss.3sg dist  be.born -impf.ptc earth -dat -poss.3sg
+
+\tx gọlọmọw     ọːwrar.
+\mb gọlọmọ -W   ọː -Gr(E) -r
+\ge yurt.type    -acc make  -hab   -3pl
+\ft If the woman is migrating they make a golomo (a specialy type of yurt) in the place where she will give birth.
+\ru Если женщина ходит там где она должна рожать делают голомо.
+\ELANBegin 00:00:10.180
+\ELANEnd 00:00:16.390
+\ELANParticipant RDA
+
+\id RDA_TPK_birth_003
+\tx Tar   biriemedu   dʒiŋ gọlọmọ ọːčalatna...                ịak haːn gọlọmọla,      gọlọmọ
+\mb tarak vremja -DU  dʒiŋ gọlọmọ ọː -čE    -(dU)LE -tEn      ịak haːn gọlọmọ -(dU)LE gọlọmọ
+\ge dist  time.R -dat very.Y yurt.type    make  -pf.ptc -loc    -poss.3pl what  some  yurt.type    -loc    yurt.type
+
+\tx bejdʒińun                bidʒin.
+\mb bej    -DʒI        =ńUn  bi -DʒI -n(I)
+\ge self.Y -ins.prfl.sg =restr be -fut -3sg
+\ft At the time when they made the golomo... in some golomo, the golomo was by itself (separate from the main yurt).
+\ph biriemedüdün
+\gr haːn gọlọmọla = the word haːn gives a plural meaning
+\ru В это время когда сделают голомо, в некоторых голомо, голомо само по себе только будет.
+\ELANBegin 00:00:16.390
+\ELANEnd 00:00:26.060
+\ELANParticipant RDA
+
+\id RDA_TPK_birth_004
+\tx Haːn gọlọmọlọ     bọllaγïna ečimur    ịat      ọːča      biwrer,        ụstụlamdas,   gọl.
+\mb haːn gọlọmọ -(dU)LE buollaγïna  erroːčin ịak -Č  ọː -čE    bi -Gr(E) -r   stul    -E  -mdEs gọl
+\ge some  yurt.type    -loc    dp.Y          prox.qual  what  -ins make  -pf.ptc be -hab   -3pl chair.R -ep -sml  firewood
+\ft In some golomo, however, there was something like a chair, made from wood.
+\ru В некоторых голомо так делали как стул, деревянный.
+\ELANBegin 00:00:26.060
+\ELANEnd 00:00:33.360
+\ELANParticipant RDA
+
+\id RDA_TPK_birth_005
+\tx Ečin      ịamdaskan          die   ečin.
+\mb erroːčin ịak -mdEs -KEn     die   erroːčin
+\ge prox.qual  what  -sml  -dim.int say.Y prox.qual
+\ft Like something, right.
+\ph
+\gr die - calque of goːli...
+\ru Так как что-то.
+\ELANBegin 00:00:33.360
+\ELANEnd 00:00:34.970
+\ELANParticipant TPA
+
+\id RDA_TPK_birth_006
+\tx Ehni           ečiken
+\mb e -R(E) -n(I)  erroːčin -KEn
+\ge neg -nfut -3sg prox.qual  -dim.int
+\ft No, like this.
+\ru Нет, такой.
+\ELANBegin 00:00:34.970
+\ELANEnd 00:00:37.470
+\ELANParticipant RDA
+
+\id RDA_TPK_birth_007
+\tx Ọːn nekŋe?
+\mb ọːn nek -ŋE
+\ge how    do  -pol.imp
+\ft How to do it?
+\ru Что делать?
+\ELANBegin 00:00:37.470
+\ELANEnd 00:00:38.850
+\ELANParticipant RDA
+
+\id RDA_TPK_birth_008
+\tx Ečimur    meːne   ečimur    gọlkakalbụ.
+\mb erroːčin meːne   erroːčin gọl    -kEkEn -L-W
+\ge prox.qual  simply.Y prox.qual  firewood -dim   -pl-acc
+\ft Simply like this, sticks.
+\ru Так просто так деревяшки.
+\ELANBegin 00:00:38.850
+\ELANEnd 00:00:41.790
+\ELANParticipant RDA
+
+\id RDA_TPK_birth_009
+\tx Digen gọlụ      ịlụwrar,               ečimur,   ečimur    ịlụpča                 biwren.
+\mb digen gọl    -W   ịl     -U    -Gr(E) -r   erroːčin erroːčin ịl     -U    -B   -čE    bi -Gr(E) -n(I)
+\ge four  firewood -acc stand.up -caus -hab   -3pl prox.qual  prox.qual  stand.up -caus -med -pf.ptc be -hab   -3sg
+\ft They stand four sticks like this, like this, it is standing.
+\ru 4 деревянных ставят, так так, бывает поставлено.
+\ELANBegin 00:00:41.790
+\ELANEnd 00:00:46.430
+\ELANParticipant RDA
+
+\id RDA_TPK_birth_010
+\tx Gọršọkọmdas
+\mb goršok -E  -mdEs
+\ge bowl.R  -ep -sml
+\ft Like a bowl.
+\ru Как горшок.
+\ELANBegin 00:00:46.430
+\ELANEnd 00:00:48.640
+\ELANParticipant RDA
+
+\id RDA_TPK_birth_011
+\tx Mm, tipa gorška.
+\mb
+\ge
+\ft Yes, like a bowl.
+\ru
+\ELANBegin 00:00:48.640
+\ELANEnd 00:00:49.900
+\ELANParticipant T
+
+\id RDA_TPK_birth_012
+\tx Tadụ     tiːkerep    oːt....   tiːkerep    kiriehile, radilnaj   kiriehile.
+\mb tarak -DU  tiek -(E)rEp oːtel     tiek -(E)rEp kreslo     rodilnyj   kreslo
+\ge dist  -dat now  -adjr   previously now  -adjr   armchair.R birthing.R armchair.R
+\ft There is a modern birthing chair.
+\ru Там современный кресло родилный.
+\ELANBegin 00:00:49.900
+\ELANEnd 00:00:54.660
+\ELANParticipant R
+
+\id RDA_TPK_birth_013
+\tx Tarakam       bọlla      ačča bọlla.
+\mb tarakam       buollaγïna ačča buol  -dEg      -E
+\ge in.those.days dp.Y         neg    aux.Y -assert.Y -poss.3sg.Y
+
+\ft In those days there weren't any, right.
+\ru А тогда не было же.
+\ELANBegin 00:00:54.660
+\ELANEnd 00:00:57.390
+\ELANParticipant R
+
+\id RDA_TPK_birth_014
+\tx Dʒe   tadụ,    tadụ     ọːngọl   ečimur    tegetniken                baldawračal.
+\mb dʒe   tarak -DU  tarak -DU  ọːn =(W)Ul erroːčin teg      -E-Č   -nIkEn   balda   -Gr(E) -čE -L
+\ge well.Y dist  -dat dist  -dat how    =indef prox.qual  sit.down -ep-res -sim.cvb be.born -hab   -pf.ptc -pl
+\ft There they somehow sitting like this gave birth.
+\ru Там как-то так сидя рожали.
+\ELANBegin 00:00:57.390
+\ELANEnd 00:01:03.030
+\ELANParticipant R
+
+\id RDA_TPK_birth_015
+\tx Haːldụla       ačča
+\mb haːn -L  -(dU)LE ačča
+\ge other -pl -loc    neg
+\ft The others didn't have (such a contraption).
+\ru У остальных нету.
+\ELANBegin 00:01:03.030
+\ELANEnd 00:01:05.450
+\ELANParticipant R
+
+\id RDA_TPK_birth_016
+\tx Haːdụn bọllaγïna ere  ahị pasledan                  ehni           emgerer,
+\mb haːdụn buollaγïna  erek asị posled       -E-n(I)      e -R(E) -n(I)  em   -Gr(E) -R
+\ge sometimes dp.Y          prox woman afterbirth.R -ep-poss.3sg neg -nfut -3sg come -hab   -neg.cvb
+
+\tx kaːttargaran               ehni,          pasledan,                 goːli?
+\mb xaːjtar     -Gr(E) -E-n(I) e -R(E) -n(I)  posled       -E-n(I)      goːn -LI
+\ge be.delayed.Y -hab   -ep-3sg neg -nfut -3sg afterbirth.R -ep-poss.3sg say   -imp.2sg
+\ft Sometimes however the afterbirth doesn't come, it is delayed, the afterbirth, right?
+\ru Иногда женский послед не приходит, задерживается же, послед.
+\ELANBegin 00:01:05.450
+\ELANEnd 00:01:11.180
+\ELANParticipant R
+
+\id RDA_TPK_birth_017
+\tx Taraw      baldača        ahị, baldača...     baldarịdʒị  taraŋan                eheken
+\mb tarak -W   balda   -čE    asị  balda   -čE    balda   -RIdʒI  tarak -ŋ  -E-n(I)      e   -REk -E-n(I)
+\ge dist  -acc be.born -pf.ptc woman  be.born -pf.ptc be.born -ant.cvb dist  -aln -ep-poss.3sg neg -cond.cvb -ep -poss.3sg
+
+\tx emne          tar   ọrọm               maːrịdʒụr,  tar   nandawan                hoːkiridʒur         tar
+\mb em   -R       tarak ọrọn          -W   maː -RIdʒI -L   tarak nanra -W   -E-n(I)      hoːki   -RIdʒI -L   tarak
+\ge come -neg.cvb dist  domestic.reindeer -acc kill -ant.cvb -pl dist  hide  -acc -ep-poss.3sg cut.open -ant.cvb -pl dist
+
+\tx ọjdụn              tegečukengerečel.
+\mb ọj    -DU  -n(I)     teg      -E-Č   -WkEn -Gr(E) -čE -L
+\ge surface -dat -poss.3sg sit.down -ep-res -caus -hab   -pf.ptc -pl
+\ft If a woman's afterbirth doesn't come, after she has given birth, they used to kill a reindeer and taking off the hide made her sit on
+that.
+\ph
+\gr hoːkidej - actually means to cut open the tummy of an animal to remove the intestines (say Robbek and IVK), but RDA uses it to
+mean take off the hide; the correct verb would be ildej, ilehendej 'sdirat' (škuru)'
+\ru Если родившая женщина, родив, это ее не приходит, тогда убив оленя, заставляли сидеть на его шкуре, задрав.
+\ELANBegin 00:01:11.180
+\ELANEnd 00:01:21.260
+\ELANParticipant R
+
+\id RDA_TPK_birth_018
+\tx Tarakam       tar   ịas...        kụŋas          tepken           ịmmat      ịamassịrịdʒị
+\mb tarakam       tarak ịak -s(I)     kụŋa -s(I)     tepke  -n(I)     hịnma -Č  ịa    -mElčI -RIdʒI
+\ge in.those.days dist  what  -poss.2sg child   -poss.2sg sheath -poss.3sg fast    -ins do.what -acclr  -ant.cvb
+
+\tx tikkereče
+\mb tik  -Gr(E) -čE
+\ge fall -hab   -pf.ptc
+\ft Then the baby's afterbirth very quickly comes down.
+\ph
+\gr ịamassịrịdʒị - the variant -massị for the accelerative suffix is apparently common in Sebjan, not only RDA, one can say both variants
+-mElčI  and -mEssI, used with all verbs, e.g. hormessiridʒi
+\ru Тогда послед ребенка быстро что-то делав выпадает.
+\ELANBegin 00:01:21.260
+\ELANEnd 00:01:26.840
+\ELANParticipant R
+
+\id RDA_TPK_birth_019
+\tx ńoːden,                 tikten                   goːmi
+\mb ńoː -DE       -n(I)     tik  -DE       -n(I)     goːn -mI
+\ge exit  -purp.cvb -poss.3sg fall -purp.cvb -poss.3sg say   -cond.cvb
+\ft so that it would go out, fall out
+\ru чтобы вышел, выпал
+\ELANBegin 00:01:26.840
+\ELANEnd 00:01:27.870
+\ELANParticipant T
+
+\id RDA_TPK_birth_020
+\tx Tarakam       emie   ịak..
+\mb tarakam       emie   ịak
+\ge in.those.days also.Y what
+\ft
+\ru В то время еще что
+\ELANBegin 00:01:27.870
+\ELANEnd 00:01:30.450
+\ELANParticipant R
+
+\id RDA_TPK_birth_021
+\tx A     ahị gọrụ gọlọmọla
+\ft And was the woman in the golomo for a long time?
+\ru
+\ELANBegin 00:01:30.450
+\ELANEnd 00:01:35.540
+\ELANParticipant BP
+
+\id RDA_TPK_birth_022
+\tx Baldadajńụn
+\mb balda   -DE       -J       =ńUn
+\ge be.born -purp.cvb -prfl.sg =restr
+\ft Only to give birth.
+\ru Чтобы только родить.
+\ELANBegin 00:01:35.540
+\ELANEnd 00:01:36.450
+\ELANParticipant R
+
+\id RDA_TPK_birth_023
+\tx Baldadajńụn                    emdʒin
+\mb balda   -DE       -J       =ńUn  em   -DʒI -n(I)
+\ge be.born -purp.cvb -prfl.sg =restr come -fut -3sg
+\ft She comes only to give birth.
+\ru Приходитт только чтобы родить.
+\ELANBegin 00:01:36.450
+\ELANEnd 00:01:37.360
+\ELANParticipant T
+
+\id RDA_TPK_birth_024
+\tx Baldadańụn
+\ft
+\ru
+\ELANBegin 00:01:37.360
+\ELANEnd 00:01:38.120
+\ELANParticipant BP
+
+\id RDA_TPK_birth_025
+\tx Baldarakan,                     taraw      bütünniː  ịarịdʒụr      emeːngerer,
+\mb balda   -REk -E-n(I)            tarak -W   bütünnüː ịa    -RIdʒI -L   emeːn -Gr(E) -r
+\ge be.born -cond.cvb -ep -poss.3sg dist  -acc entirely.Y   do.what -ant.cvb -pl leave  -hab   -3pl
+\ft When she gives birth, they leave everything there, having done something
+\ru Когда рожает, это все что-то там сделав, оставляют
+\ELANBegin 00:01:38.120
+\ELANEnd 00:01:42.780
+\ELANParticipant R
+
+\id RDA_TPK_birth_026
+\tx Taraw      bejben                   bọlla      tar   balakkala       emuridʒur,             dʒụːla
+\mb tarak -W   bej    -W   -E-n(I)      buollaγïna tarak palatka -(dU)LE em -U      -RIdʒI -L   dʒụː -(dU)LE
+\ge dist  -acc self.Y -acc -ep-poss.3sg dp.Y         dist  tent.R  -loc    come -caus -ant.cvb -pl house    -loc
+
+\tx emudʒir.
+\mb em -U      -DʒI -r
+\ge come -caus -fut  -3pl
+\ft And her herself they bring to the tent, to the house.
+\ph
+\gr They frequently use bej to refer not only to themselves, but to others, samogo ego, samu ee
+\ru А саму ее в палатку приведя домой приводят.
+\ELANBegin 00:01:42.780
+\ELANEnd 00:01:46.150
+\ELANParticipant R
+
+\id RDA_TPK_birth_027
+\tx Dʒụːla       emudʒir
+\mb dʒụː -(dU)LE em -U      -DʒI -r
+\ge house    -loc    come -caus -fut  -3pl
+\ft Bring (her) to the house.
+\ru
+\ELANBegin 00:01:46.150
+\ELANEnd 00:01:47.600
+\ELANParticipant T
+
+\id RDA_TPK_birth_028
+\tx Tarak balakkadụk    gọrkan.
+\mb tarak palatka -DUk(U) gọrụ -KEn
+\ge dist  tent.R  -abl    far      -dim.int
+\ft That is somewhat distant from the tent.
+\ph
+\gr gọrkan - fairly far, e.g. from the Semenov's house to Ija's house, or at least to the old school
+\ru Это от палатки далеко немного.
+\ELANBegin 00:01:47.600
+\ELANEnd 00:01:49.970
+\ELANParticipant RDA
+
+\id RDA_TPK_birth_029
+\tx Baldadaj                   ele          enelleken                             tala          erde    tala
+\mb balda   -DE       -J       erek -(dU)LE en   -E-L     -REk -E-n(I)            tarak -(dU)LE erde    tarak -(dU)LE
+\ge be.born -purp.cvb -prfl.sg prox -loc    hurt -ep-inch -cond.cvb -ep -poss.3sg dist  -loc    early.Y dist  -loc
+
+\tx hergerer.
+\mb hor -Gr(E) -r
+\ge go  -hab   -3pl
+\ft In order to give birth, when it starts to hurt, they go there early.
+\ph
+\gr (14_quest_2010, 5:00) here they do say enilče 'she fell sick' when a woman goes into labour, so basically here they would say baldadaj
+enilleken, 'fell sick in order to give birth'
+\ru Чтобы родить, когда заболеет туда идут.
+\ELANBegin 00:01:49.970
+\ELANEnd 00:01:53.990
+\ELANParticipant R
+
+\id RDA_TPK_birth_030
+\tx Tarịt dʒe   ertiki.
+\mb tarịt dʒe   erek -t(E)kI
+\ge then    well.Y prox -all
+\ft And then here (back to the tent).
+\ru И потом сюда.
+\ELANBegin 00:01:53.990
+\ELANEnd 00:01:54.920
+\ELANParticipant R
+
+\id RDA_TPK_birth_031
+\tx Uonna posledok     gọlọmọla       čọŋkarịdʒụr...
+\ft And they bury the afterbirth in the golomo?
+\ru
+\ELANBegin 00:01:54.920
+\ELANEnd 00:02:00.220
+\ELANParticipant BP
+
+\id RDA_TPK_birth_032
+\tx Pasled...    tadụ     hụnŋịl    hịakịtala       nọkkaračal,             hịakịtadụ
+\mb posled       tarak -DU  hụnŋị -L  hịakịta -(dU)LE nọk   -Gr(E) -čE -L     hịakịta -DU
+\ge afterbirth.R dist  -dat master     -pl tree        -loc    hang.up -hab   -pf.ptc -pl tree        -dat
+\ft The masters/owners hung the afterbirth in a tree.
+\ph
+\gr no difference in meaning hịakịtala and hịakịtadụ
+\ru Хозяева на дерево вешали.
+\ELANBegin 00:02:00.220
+\ELANEnd 00:02:04.010
+\ELANParticipant R
+
+\id RDA_TPK_birth_033
+\tx Hịakịtadụ
+\mb hịakịta -DU
+\ge tree        -dat
+
+\ru
+\ELANBegin 00:02:04.010
+\ELANEnd 00:02:05.420
+\ELANParticipant R
+
+\id RDA_TPK_birth_034
+\tx hịakịtadụ?
+\ft in a tree?
+\ru
+\ELANBegin 00:02:05.420
+\ELANEnd 00:02:05.750
+\ELANParticipant BP
+
+\id RDA_TPK_birth_035
+\tx hịakịta bejlen,               ečin
+\mb hịakịta bej    -(dU)LE -n(I)  erroːčin
+\ge tree        self.Y -loc -poss.3sg prox.qual
+\ft Onto a tree itself, like this.
+\ru на дерево самом, так
+\ELANBegin 00:02:05.750
+\ELANEnd 00:02:06.950
+\ELANParticipant T
+
+\id RDA_TPK_birth_036
+\tx Ee, tolle           hịakịtala,      ile           hịakịta biheken                    tala
+\mb ee  tol     -(dU)LE hịakịta -(dU)LE irek  -(dU)LE hịakịta bi -REk -E-n(I)            tarak -(dU)LE
+\ge eh  outside -loc    tree        -loc    which -loc    tree        be -cond.cvb -ep -poss.3sg dist  -loc
+
+\tx nọkčịr.
+\mb nọk   -DʒI -r
+\ge hang.up -fut  -3pl
+\ft Yes, outside in a tree, where there are trees, there they hang it.
+\ru На улице на дерево, где дерево есть туда вешают.
+\ELANBegin 00:02:06.950
+\ELANEnd 00:02:13.650
+\ELANParticipant R
+
+\id RDA_TPK_birth_037
+\tx Tar.
+\mb tarak
+\ge dist
+
+\ru
+\ELANBegin 00:02:13.650
+\ELANEnd 00:02:15.930
+\ELANParticipant R
+
+\id RDA_TPK_birth_038
+\tx ńan   ịak goːnem?
+\mb ńaːn ịak goːn -R(E) -m
+\ge and    what  say   -nonfut -1sg
+\ft And what will I say?
+\ph the goːnem is not quite clear, it's definitely the root goːn, but the rest is hard to make out
+\ru
+\ELANBegin 00:02:15.930
+\ELANEnd 00:02:16.620
+\ELANParticipant T
+
+\id RDA_TPK_birth_039
+\tx Uonna mladenec novoroždennyj, obyčaj, obrjady bihin?
+\mb
+\ge
+\ft And are there traditions, rituals concerning the newborn baby?
+\ru
+\ELANBegin 00:02:16.620
+\ELANEnd 00:02:23.290
+\ELANParticipant BP
+
+\id RDA_TPK_birth_040
+\tx Kụŋa baldarakan,                     tar   ọrọm               maːdʒịr     kụŋadụ.
+\mb kụŋa balda   -REk -E-n(I)            tarak ọrọn          -W   maː -DʒI -r   kụŋa -DU
+\ge child   be.born -cond.cvb -ep -poss.3sg dist  domestic.reindeer -acc kill -fut  -3pl child   -dat
+\ft When a child is born, they slaughter a reindeer for the child.
+\ru Когда ребенок рождается, оленя забивают для ребенка.
+\ELANBegin 00:02:23.290
+\ELANEnd 00:02:30.060
+\ELANParticipant R
+
+\id RDA_TPK_birth_041
+\tx Tara  ńịmat, kụŋa, kụŋa baldadnị    nọŋan ńịmabčịr.
+\mb tarak ńịmat  kụŋa  kụŋa balda   -n(I) nọŋan ńịmat -B   -DʒI -r
+\ge dist  nimat     child    child   be.born -3sg  3sg      nimat    -med -fut  -3pl
+\ft That is nimat, the child is born and does nimat.
+\ph
+\gr ńịmabčịr is the wrong form, of course, because ńịmat isn't the verb; but when I asked on 250312, IVK at first asked whether she
+maybe said ńimatčịr, i.e. what seemed wrong was the medio-passive form; but when we'd listened she seemed to think that it should
+be nịmaːdụdʒịr, and that both the root and the medio-passive were wrong
+\nt This is not quite right, because the nimat is only a hunting ritual; here, they just slaughter a reindeer to celebrate the birth of a child,
+that is not the same as the nimat.
+\ru Это нимат, когда ребенок рождается (ребенок родился) он делает нимат.
+\ELANBegin 00:02:30.060
+\ELANEnd 00:02:34.290
+\ELANParticipant R
+
+\id RDA_TPK_birth_042
+\tx ọrọn,         kụŋa ńịmatan            goːŋner
+\mb ọrọn          kụŋa ńịmat -E-n(I)      goːn -Gr(E) -r
+\ge domestic.reindeer child   nimat    -ep-poss.3sg say   -hab   -3pl
+\ft That is the child's nimat, they say.
+\ru Это детский нимат говорят.
+\ELANBegin 00:02:34.290
+\ELANEnd 00:02:36.290
+\ELANParticipant T
+
+\id RDA_TPK_birth_043
+\tx haːdụn
+\mb haːdụn
+\ge sometimes
+
+\ru иногда
+\ELANBegin 00:02:36.290
+\ELANEnd 00:02:36.580
+\ELANParticipant R
+
+\id RDA_TPK_birth_044
+\tx Kụŋa ńịmatan?
+
+\ru
+\ELANBegin 00:02:36.580
+\ELANEnd 00:02:37.120
+\ELANParticipant BP
+
+\id RDA_TPK_birth_045
+\tx Ee
+\mb ee
+\ge eh
+
+\ru
+\ELANBegin 00:02:37.120
+\ELANEnd 00:02:37.960
+\ELANParticipant R
+
+\id RDA_TPK_birth_046
+\tx Haːdụn tar   kụŋa, kụŋa baldaddakan                           ịak emdʒin,         tọːkị emdʒin,
+\mb haːdụn tarak kụŋa  kụŋa balda   -D    -REk -E-n(I)            ịak em   -DʒI -n(I) tọːkị em   -DʒI -n(I)
+\ge sometimes dist  child    child   be.born -prog -cond.cvb -ep -poss.3sg what  come -fut -3sg   elk        come -fut -3sg
+
+\tx ụjamkan      emdʒin.
+\mb ụjamkan      em   -DʒI -n(I)
+\ge mountain.sheep come -fut -3sg
+\ft Sometimes while the child is being born something comes, an elk, a mountain sheep.
+\ru Иногда когда ребенок рождается приходит лось и уямкан.
+\ELANBegin 00:02:37.960
+\ELANEnd 00:02:47.570
+\ELANParticipant R
+
+\id RDA_TPK_birth_047
+\tx Tarak kụŋa, baldača        kụŋa, bujusimŋe          bidʒịn.
+\mb tarak kụŋa  balda   -čE    kụŋa  buju -s    -E-mŋE  bi -DʒI -n(I)
+\ge dist  child    be.born -pf.ptc child    hunt -mult -ep-agnr be -fut -3sg
+\ft That child, the child that was born, will be a hunter.
+\ru Этот родившися ребенок будет охотник.
+\ELANBegin 00:02:47.570
+\ELANEnd 00:02:51.340
+\ELANParticipant R
+
+\id RDA_TPK_birth_048
+\tx tačịn
+\mb tarọːčịn
+\ge dist.qual
+
+\ru
+\ELANBegin 00:02:51.340
+\ELANEnd 00:02:51.780
+\ELANParticipant T
+
+\id RDA_TPK_birth_049
+\tx tarbačan      tradịcịja nọŋandụn
+\mb tarọːčịn tradicija     nọŋan -DU  -n(I)
+\ge dist.qual      tradition.R   3sg      -dat -poss.3sg
+\ft That is a tradition for him.
+\ru Такая традиция для него.
+\ELANBegin 00:02:51.780
+\ELANEnd 00:02:53.000
+\ELANParticipant R
+
+\id RDA_TPK_birth_050
+\tx tačịn       emgeren
+\mb tarọːčịn em   -Gr(E) -E-n(I)
+\ge dist.qual      come -hab   -ep-3sg
+\ft It comes like that.
+\ru Так приходит.
+\ELANBegin 00:02:53.000
+\ELANEnd 00:02:53.820
+\ELANParticipant T
+
+\id RDA_TPK_birth_051
+\tx Nọŋan tar   baldadaŋịn                 ineŋidun            tarak ebezet         bujusi...  bujus...
+\mb nọŋan tarak balda   -DEŋ    -E-n(I)      ineŋ -DU  -n(I)     tarak objazatelno    buju -s    buju -s
+\ge 3sg      dist  be.born -pst.ptc -ep-poss.3sg day   -dat -poss.3sg dist  without.fail.R hunt -mult hunt -mult
+\ft On the day of his birth he will hunt... without fail.
+\ru В день его рождения это обязательная охота
+\ELANBegin 00:02:53.820
+\ELANEnd 00:03:00.210
+\ELANParticipant R
+
+\id RDA_TPK_birth_052
+\tx bujusnemi
+\mb buju -s    -nE     -mI
+\ge hunt -mult -intent -cond.cvb
+
+\ru
+\ELANBegin 00:03:00.210
+\ELANEnd 00:03:01.210
+\ELANParticipant T
+
+\id RDA_TPK_birth_053
+\tx Ehni
+\mb e -R(E) -n(I)
+\ge neg -nfut -3sg
+
+\ru
+\ELANBegin 00:03:01.210
+\ELANEnd 00:03:02.360
+\ELANParticipant R
+
+\id RDA_TPK_birth_054
+\tx Tọːkị emdʒịn,       buju,         ịak emdʒin          ere
+\mb tọːkị em   -DʒI -n(I) bujun         ịak em   -DʒI -n(I) erek
+\ge elk        come -fut -3sg   wild.reindeer what  come -fut -3sg   prox
+
+\ft An elk comes, a wild reindeer, something comes.
+\ru
+\ELANBegin 00:03:02.360
+\ELANEnd 00:03:05.170
+\ELANParticipant R
+
+\id RDA_TPK_birth_055
+\tx bujun
+\mb bujun
+\ge wild.reindeer
+
+\ru
+\ELANBegin 00:03:05.170
+\ELANEnd 00:03:05.440
+\ELANParticipant T
+
+\id RDA_TPK_birth_056
+\tx ụjamkan
+\mb ụjamkan
+\ge mountain.sheep
+
+\ru
+\ELANBegin 00:03:05.440
+\ELANEnd 00:03:06.390
+\ELANParticipant R
+
+\id RDA_TPK_birth_057
+\tx bujun
+\mb bujun
+\ge wild.reindeer
+
+\ru
+\ELANBegin 00:03:06.390
+\ELANEnd 00:03:08.230
+\ELANParticipant T
+
+\id RDA_TPK_birth_058
+\tx Dʒe   tarak
+\mb dʒe   tarak
+\ge well.Y dist
+
+\ru
+\ELANBegin 00:03:08.230
+\ELANEnd 00:03:09.140
+\ELANParticipant R
+
+\id RDA_TPK_birth_059
+\tx Nọŋandụn           tarak tradịcịja emebgeren.
+\mb nọŋan -DU  -n(I)     tarak tradicija     emeːn -B   -Gr(E) -E-n(I)
+\ge 3sg      -dat -poss.3sg dist  tradition.R   leave  -med -hab   -ep-3sg
+\ft That remains like a tradition for him.
+\ru Для него это как традиция остается.
+\ELANBegin 00:03:09.140
+\ELANEnd 00:03:11.790
+\ELANParticipant R
+
+\id RDA_TPK_birth_060
+\tx Bi   baldada          ineŋidu    er   ečin      ịak em... ịak emdʒin          goːniken.
+\mb biː balda   -DEŋ    ineŋi -DU  erek erroːčin ịak em    ịak em   -DʒI -n(I) goːn -nIkEn
+\ge 1sg  be.born -pst.ptc day    -dat prox prox.qual  what  come  what  come -fut -3sg   say   -sim.cvb
+
+\ft On my birthday something like that will come.
+\ph
+\gr should be baldadaŋụ ineŋidu
+\ru В день моего рождения такое что-то придет.
+\ELANBegin 00:03:11.790
+\ELANEnd 00:03:16.000
+\ELANParticipant R
+
+\id RDA_TPK_birth_061
+\tx Alakkaran.
+\mb alat -Gr(E) -n(I)
+\ge wait -hab   -3sg
+\ft He waits.
+\ph
+\gr Ija hears alakkarannị, 'you wait', but I cannot hear that at all, and the 3sg makes more sense anyway
+\ru ждет
+\ELANBegin 00:03:16.000
+\ELANEnd 00:03:17.860
+\ELANParticipant R
+
+\id RDA_TPK_birth_062
+\tx Tar
+\mb tarak
+\ge dist
+
+\ru
+\ELANBegin 00:03:17.860
+\ELANEnd 00:03:18.870
+\ELANParticipant R
+
+\id RDA_TPK_birth_063
+\tx Ńan   tar   kụŋadụ  ńịmatča      ọran,           ńịmapča,          boːpče          ọran,
+\mb ńaːn tarak kụŋa -DU  ńịmat -čE    ọrọn          ńịmat -B   -čE    boː -B   -čE    ọrọn
+\ge and    dist  child   -dat nimat    -pf.ptc domestic.reindeer nimat    -med -pf.ptc give -med -pf.ptc domestic.reindeer
+
+\tx kụːdʒaj goːbgeren.
+\mb kụːdʒaj goːn -B   -Gr(E) -E-n(I)
+\ge kudjaj      say   -med -hab   -ep-3sg
+\ft And that reindeer that was made as a nimat for the child, that was given, is called kudjaj.
+\ph
+\nt Here, things are getting confused: nimat is the ritual in which an animal killed in the hunt is given away to somebody else to be
+slaughtered and distributed by them; the reindeer that is slaughtered to celebrate the birth of a child is not nimat. Neither is it the
+kudjaj, since the kudjaj is considered sacred; it is not touched at all and is allowed to die in its own good time. cf.
+Burtsev_ID_traditions, sentence 72, 73 and Neustroev_PD_nimat
+\ru Это для ребенка сделанный нимат олень, отданный олень, называется куджай.
+\ELANBegin 00:03:18.870
+\ELANEnd 00:03:25.230
+\ELANParticipant R
+
+\id RDA_TPK_birth_064
+\tx kụːdʒaj?
+
+\ru
+\ELANBegin 00:03:25.230
+\ELANEnd 00:03:25.850
+\ELANParticipant BP
+
+\id RDA_TPK_birth_065
+\tx kụːdʒaj
+\mb kụːdʒaj
+\ge kudjaj
+
+\ru
+\ELANBegin 00:03:25.850
+\ELANEnd 00:03:26.920
+\ELANParticipant R
+
+\id RDA_TPK_birth_066
+\tx Taraŋan                bọlla,     taraŋan                ńụčịdịt     goːmi          angel_xranitel.
+\mb tarak -ŋ  -E-n(I)      buollaγïna tarak -ŋ  -E-n(I)      ńụča -DI   -Č  goːn -mI       angel_xranitel
+\ge dist  -aln -ep-poss.3sg dp.Y         dist  -aln -ep-poss.3sg Russian  -adjr -ins say   -cond.cvb guardian.angel.R
+\ft And that, however, is his guardian angel.
+\ru
+\ELANBegin 00:03:26.920
+\ELANEnd 00:03:31.960
+\ELANParticipant R
+
+\id RDA_TPK_birth_067
+\tx Nọŋan ịan
+\mb nọŋan ịak -n(I)
+\ge 3sg      what  -poss.3sg
+\ft his whatchamacallit
+\ru
+\ELANBegin 00:03:31.960
+\ELANEnd 00:03:33.410
+\ELANParticipant R
+
+\id RDA_TPK_birth_068
+\tx zašita      ọːjar                 nọŋandụn
+\mb zaščita    ọː  -j    -Ar         nọŋan -DU  -n(I)
+\ge protection.R become -conn -prs.ptcp.Y 3sg      -dat -poss.3sg
+\ft It becomes his protection.
+\ru Станет для него защитой.
+\ELANBegin 00:03:33.410
+\ELANEnd 00:03:35.210
+\ELANParticipant T
+
+\id RDA_TPK_birth_069
+\tx Nọŋ... nọŋman               ịan
+\mb nọŋan  nọŋan -W   -n(I)     ịak -n(I)
+\ge 3sg       3sg      -acc -poss.3sg what  -poss.3sg
+\ft his what
+\ru
+\ELANBegin 00:03:35.210
+\ELANEnd 00:03:36.210
+\ELANParticipant R
+
+\id RDA_TPK_birth_070
+\tx kojeːt... kojeːt...
+
+\ru
+\ELANBegin 00:03:36.210
+\ELANEnd 00:03:37.170
+\ELANParticipant BP
+
+\id RDA_TPK_birth_071
+\tx kojeːtčin         ečin,     kojeːtčin
+\mb kojeːt -DʒI -n(I) erroːčin kojeːt -DʒI -n(I)
+\ge look.at -fut -3sg   prox.qual  look.at -fut -3sg
+\ft It will look after him.
+\ru
+\ELANBegin 00:03:37.170
+\ELANEnd 00:03:38.450
+\ELANParticipant T
+
+\id RDA_TPK_birth_072
+\tx Gịan,          gịan           gerbe bidʒin.
+\mb gịa  -n(I)     gịa  -n(I)     gerbe bi -DʒI -n(I)
+\ge friend -poss.3sg friend -poss.3sg name  be -fut -3sg
+\ft He will be called his friend.
+\ru Его друг будет называться.
+\ELANBegin 00:03:38.450
+\ELANEnd 00:03:42.770
+\ELANParticipant R
+
+\id RDA_TPK_birth_073
+\tx Tarak tiːkerrende                     dï..   bihni.
+\mb tarak tiek -(E)rEp -(dU)LE -n(I)  =DE  dïlï  bi -R(E) -n(I)
+\ge dist  now  -adjr   -loc -poss.3sg =ptl until.Y be -nonfut -3sg
+\ft And that exists until now.
+\ru Это и до сих пор есть.
+\ELANBegin 00:03:42.770
+\ELANEnd 00:03:44.550
+\ELANParticipant R
+
+\id RDA_TPK_birth_074
+\tx Kụŋa, kụŋa baldarakan                      ọrọm               maːwrar.
+\mb kụŋa  kụŋa balda   -REk -E-n(I)            ọrọn          -W   maː -Gr(E) -r
+\ge child    child   be.born -cond.cvb -ep -poss.3sg domestic.reindeer -acc kill -hab   -3pl
+\ft When a child is born they slaughter a reindeer.
+\ru Когда рождается ребенок забивают оленя.
+\ELANBegin 00:03:44.550
+\ELANEnd 00:03:48.030
+\ELANParticipant R
+
+\id RDA_TPK_birth_075
+\tx ebezetelne
+\mb objazatelno
+\ge without.fail.R
+
+\ru
+\ELANBegin 00:03:48.030
+\ELANEnd 00:03:48.950
+\ELANParticipant R
+
+\id RDA_TPK_birth_076
+\tx Tradịcịja tarak bihni           muttu.
+\mb tradicija     tarak bi -R(E) -n(I)  mut    -DU
+\ge tradition.R   dist  be -nonfut -3sg 1pl.in -dat
+\ft We have that tradition.
+\ru У нас есть эта традиция.
+\ELANBegin 00:03:48.950
+\ELANEnd 00:03:50.180
+\ELANParticipant T
+
+\id RDA_TPK_birth_077
+\tx tradịcịjaw   muttu
+\mb tradicija   -W   mut    -DU
+\ge tradition.R -acc 1pl.in -dat
+
+\ru
+\ELANBegin 00:03:50.180
+\ELANEnd 00:03:50.810
+\ELANParticipant R
+
+\id RDA_TPK_birth_078
+\tx A     ŋiːdu    maːča      ọrọm               uldewen                boːr...  boːrer
+\ft And whom do they give the meat of the slaughtered reindeer?
+\ru
+\ELANBegin 00:03:50.810
+\ELANEnd 00:04:00.440
+\ELANParticipant BP
+
+\id RDA_TPK_birth_079
+\tx taraw
+\mb tarak -W
+\ge dist  -acc
+
+\ru
+\ELANBegin 00:04:00.440
+\ELANEnd 00:04:01.010
+\ELANParticipant R
+
+\id RDA_TPK_birth_080
+\tx boːwrer
+\ft they give
+\ru
+\ELANBegin 00:04:01.010
+\ELANEnd 00:04:01.660
+\ELANParticipant BP
+
+\id RDA_TPK_birth_081
+\tx Tala          bihi         bejeldu.
+\mb tarak -(dU)LE bi -RI       bej -E-L   -DU
+\ge dist  -loc    be -impf.ptc man -ep-pl -dat
+\ft To the people who are there.
+\ru Тем, кто там есть.
+\ELANBegin 00:04:01.660
+\ELANEnd 00:04:03.720
+\ELANParticipant R
+
+\id RDA_TPK_birth_082
+\tx Tar   stojbiš..  tar
+\mb tarak stojbišče tarak
+\ge dist  camp.R      dist
+
+\ru
+\ELANBegin 00:04:03.720
+\ELANEnd 00:04:05.610
+\ELANParticipant R
+
+\id RDA_TPK_birth_083
+\tx stojbiše?
+
+\ru
+\ELANBegin 00:04:05.610
+\ELANEnd 00:04:06.230
+\ELANParticipant BP
+
+\id RDA_TPK_birth_084
+\tx stojbišela         bihi         bejeldule
+\mb stojbišče -(dU)LE bi -RI       bej -E-L   -(dU)LE
+\ge camp.R      -loc    be -impf.ptc man -ep-pl -loc
+\ft To the people who are in the camp.
+\ru Людям которые есть в стойбище
+\ELANBegin 00:04:06.230
+\ELANEnd 00:04:06.930
+\ELANParticipant T
+
+\id RDA_TPK_birth_085
+\tx bejeldu         boːdʒir,      ńịmadʒịr
+\mb bej -E-L   -DU  boː -DʒI -r   ńịmat -DʒI -r
+\ge man -ep-pl -dat give -fut  -3pl nimat    -fut  -3pl
+\ft They give it to the people.
+\ru
+\ELANBegin 00:04:06.930
+\ELANEnd 00:04:08.620
+\ELANParticipant R
+
+\id RDA_TPK_birth_086
+\tx ńịmadʒịr
+\mb ńịmat -DʒI -r
+\ge nimat    -fut  -3pl
+\ft they do the nimat
+\ru
+\ELANBegin 00:04:08.620
+\ELANEnd 00:04:09.910
+\ELANParticipant T
+
+\id RDA_TPK_birth_087
+\tx Er   kụŋa
+\mb erek kụŋa
+\ge prox child
+
+\ru
+\ELANBegin 00:04:09.910
+\ELANEnd 00:04:11.190
+\ELANParticipant R
+
+\id RDA_TPK_birth_088
+\tx kụŋa ịan           goːniken
+\mb kụŋa ịak -n(I)     goːn -nIkEn
+\ge child   what  -poss.3sg say   -sim.cvb
+\ft The child's whatchamacallit.
+\ru
+\ELANBegin 00:04:11.190
+\ELANEnd 00:04:14.860
+\ELANParticipant T
+
+\id RDA_TPK_birth_089
+\tx Kụːdʒajụ   este        maːwrar.
+\mb kụːdʒaj -W   e   -R(E)   maː -Gr(E) -R
+\ge kudjaj      -acc neg -nonfut kill -hab   -neg.cvb
+\ft They don't kill the kudjaj.
+\ru Куджай не убивают.
+\ELANBegin 00:04:14.860
+\ELANEnd 00:04:17.390
+\ELANParticipant R
+
+\id RDA_TPK_birth_090
+\tx Tar   kụŋa baldarakan                      maːrị       ọdọn.. ọrọn
+\mb tarak kụŋa balda   -REk -E-n(I)            maː -RI                  ọrọn
+\ge dist  child   be.born -cond.cvb -ep -poss.3sg kill -impf.ptc ?          domestic.reindeer
+\ft The reindeer that is killed when a child is born..
+\ph
+\gr (14_quest_2010, 8:00) maːrị ọrọn = that which kills, the killed reindeer = maːptị ọrọn
+\ru Когда ребенок рождается убиваемый олень
+\ELANBegin 00:04:17.390
+\ELANEnd 00:04:20.690
+\ELANParticipant R
+
+\id RDA_TPK_birth_091
+\tx honte?
+
+\ru
+\ELANBegin 00:04:20.690
+\ELANEnd 00:04:21.280
+\ELANParticipant BP
+
+\id RDA_TPK_birth_092
+\tx honte
+\mb honte
+\ge other
+
+\ru
+\ELANBegin 00:04:21.280
+\ELANEnd 00:04:22.690
+\ELANParticipant R
+
+\id RDA_TPK_birth_093
+\tx Kụːdʒaj ot... tarak bejen
+\mb kụːdʒaj       tarak bej    -E-n(I)
+\ge kudjaj            dist  self.Y -ep-poss.3sg
+\ft The kudjaj is separate.
+\ru Куджай это отдельно
+\ELANBegin 00:04:22.690
+\ELANEnd 00:04:25.460
+\ELANParticipant R
+
+\id RDA_TPK_birth_094
+\tx bejen               biwekkeren              nọŋan,
+\mb bej    -E-n(I)      bi -WEːČ -Gr(E) -n(I) nọŋan
+\ge self.Y -ep-poss.3sg be -gnr    -hab   -3sg  3sg
+\ft It goes by itself.
+\ru сам по себе ходит
+\ELANBegin 00:04:25.460
+\ELANEnd 00:04:26.130
+\ELANParticipant T
+
+\id RDA_TPK_birth_095
+\tx angel_xranitel
+\mb angel_xranitel
+\ge guardian.angel.R
+
+\ru
+\ELANBegin 00:04:26.130
+\ELANEnd 00:04:26.660
+\ELANParticipant R
+
+\id RDA_TPK_birth_096
+\tx nọŋan ehni           este        XXX
+\mb nọŋan e -R(E) -n(I)  e   -R(E)   *XXX
+\ge 3sg      neg -nfut -3sg neg -nonfut ***
+\ft it doesn't xxx (indiscernible)
+\ph
+\ru
+\ELANBegin 00:04:26.660
+\ELANEnd 00:04:27.990
+\ELANParticipant T
+
+\id RDA_TPK_birth_097
+\tx Gịan.
+\mb gịa  -n(I)
+\ge friend -poss.3sg
+\ft His friend.
+\ru
+\ELANBegin 00:04:27.990
+\ELANEnd 00:04:28.690
+\ELANParticipant R
+
+\id RDA_TPK_birth_098
+\tx Taraw      etenni         maːra.
+\mb tarak -W   e   -t(E) -nrI maː -R
+\ge dist  -acc neg -fut  -2sg kill -neg.cvb
+\ft That you won't kill.
+\ru Этого не убьешь.
+\ELANBegin 00:04:28.690
+\ELANEnd 00:04:30.130
+\ELANParticipant R
+
+\id RDA_TPK_birth_099
+\tx Tarak bejen               kokemi         kokedʒin.
+\mb tarak bej    -E-n(I)      koke -mI       koke -DʒI -n(I)
+\ge dist  self.Y -ep-poss.3sg die  -cond.cvb die  -fut -3sg
+\ft That will die by itself.
+\ru Этот сам если умрет умрет.
+\ELANBegin 00:04:30.130
+\ELANEnd 00:04:34.060
+\ELANParticipant R
+
+\id RDA_TPK_birth_100
+\tx Tačịmụ    biweččin
+\mb tarọːčịn bi -WEːČ -DʒI -n(I)
+\ge dist.qual      be -gnr    -fut -3sg
+\ft It will go like that.
+\ru Так будет ходить.
+\ELANBegin 00:04:34.060
+\ELANEnd 00:04:36.210
+\ELANParticipant R
+
+\id RDA_TPK_birth_101
+\tx Tiːk er   haːn haːwdị bejel      bejeldule          tiːkerren                  dïlï  bihni.
+\mb tiek  erek haːn hagdị   bej -E-L   bej -E-L   -(dU)LE tiek -(E)rEp -(dU)LE -n(I)  dïlï  bi -R(E) -n(I)
+\ge now   prox some  old       man -ep-pl man -ep-pl -loc    now  -adjr   -loc -poss.3sg until.Y be -nonfut -3sg
+\ft Now some old people still have that up to now.
+\ph
+\gr
+\nt This probably refers to the tradition, that some old people are keeping up the tradition of giving a kudjaj; reindeer do not get as old
+as people.
+\ru Сейчас у некоторых старых людей до сих пор есть.
+\ELANBegin 00:04:36.210
+\ELANEnd 00:04:40.660
+\ELANParticipant R
+
+\id RDA_TPK_birth_102
+\tx bihni           tarak ịak, tiːkerren                  dïlï
+\mb bi -R(E) -n(I)  tarak ịak  tiek -(E)rEp -(dU)LE -n(I)  dïlï
+\ge be -nonfut -3sg dist  what   now  -adjr   -loc -poss.3sg until.Y
+\ft That exists until now.
+\ru
+\ELANBegin 00:04:40.660
+\ELANEnd 00:04:44.830
+\ELANParticipant T
+
+\id RDA_TPK_birth_103
+\tx Uonna oːtel     gerbew
+\ft And (how did they give) names previously
+\ru
+\ELANBegin 00:04:44.830
+\ELANEnd 00:04:49.600
+\ELANParticipant BP
+
+\id RDA_TPK_birth_104
+\tx ee
+\mb ee
+\ge eh
+
+\ru
+\ELANBegin 00:04:49.600
+\ELANEnd 00:04:50.580
+\ELANParticipant T
+
+\id RDA_TPK_birth_105
+\tx ọːn
+
+\ru
+\ELANBegin 00:04:50.580
+\ELANEnd 00:04:50.950
+\ELANParticipant BP
+
+\id RDA_TPK_birth_106
+\tx gerbewrečel?
+\mb gerbe     -Gr(E) -čE -L
+\ge give.name -hab   -pf.ptc -pl
+\ft (How) did they give names?
+\ru называли
+\ELANBegin 00:04:50.950
+\ELANEnd 00:04:52.160
+\ELANParticipant R
+
+\id RDA_TPK_birth_107
+\tx Ńoːče, ńoːčedʒin,        ńoːče gerbedʒin          gerbewrečel                 ečin      tor
+\mb ńoːče  ńoːče -Č -n(I)    ńoːče gerbe -Č -n(I)     gerbe     -Gr(E) -čE -L     erroːčin tor
+\ge flower    flower -ins -poss.3sg flower   name -ins -poss.3sg give.name -hab   -pf.ptc -pl prox.qual  earth
+
+\tx gerbedʒin.
+\mb gerbe -Č -n(I)
+\ge name -ins -poss.3sg
+
+\ft They called them by the names of plants, by the names of places.
+\ru По названиям расстений называли и по названиям местности.
+\ELANBegin 00:04:52.160
+\ELANEnd 00:04:57.650
+\ELANParticipant T
+
+\id RDA_TPK_birth_108
+\tx Irek, irek  torre         baldannị
+\mb irek  irek  tor   -(dU)LE balda   -nrI
+\ge which which earth -loc    be.born -2sg
+\ft In which place you were born.
+\ru В каком месте ты родился.
+\ELANBegin 00:04:57.650
+\ELANEnd 00:04:59.540
+\ELANParticipant R
+
+\id RDA_TPK_birth_109
+\tx tarak
+\mb tarak
+\ge dist
+
+\ru
+\ELANBegin 00:04:59.540
+\ELANEnd 00:04:59.940
+\ELANParticipant T
+
+\id RDA_TPK_birth_110
+\tx tarak tordʒin
+\mb tarak tor -Č -n(I)
+\ge dist  earth -ins -poss.3sg
+
+\ft by that place.
+\ru
+\ELANBegin 00:04:59.940
+\ELANEnd 00:05:01.510
+\ELANParticipant R
+
+\id RDA_TPK_birth_111
+\tx Tarak tordʒin             gerbedʒin          gerbedʒir.
+\mb tarak tor -Č -n(I)        gerbe -Č -n(I)     gerbe     -DʒI -r
+\ge dist  earth -ins -poss.3sg name -ins -poss.3sg give.name -fut  -3pl
+
+\ft They give the name of that place.
+\ru По названию
+\ELANBegin 00:05:01.510
+\ELANEnd 00:05:03.240
+\ELANParticipant T
+
+\id RDA_TPK_birth_112
+\tx tordʒin
+\mb tor -Č -n(I)
+\ge earth -ins -poss.3sg
+
+\ft with the place
+\ru
+\ELANBegin 00:05:03.240
+\ELANEnd 00:05:05.650
+\ELANParticipant R
+
+\id RDA_TPK_birth_113
+\tx Bïl...       dʒulep       upedukuj                     ulgimiwrerem                      er   huː ịadụhna
+\mb bïlïr       dʒul -(E)rEp upeː       -DUk(U) -J       ulgim -i      -Gr(E) -R(E) -m     erek huː ịak -DU  -sEn
+\ge in.the.past.Y front -adjr   grandmother -abl    -prfl.sg ask   -ipf??? -hab   -nonfut -1sg prox 2pl  what  -dat -poss.2pl
+
+\tx kalendar   ačča bihin             taraw      ọːn huː haːwrarịhna             iler.. ireldu      baldača,
+\mb kalendar'  ačča bi -RI -n(I)      tarak -W   ọːn huː haː -Gr(E) -RI  -sEn             ireli  -DU  balda   -čE
+\ge calendar.R neg    be -pst -poss.3sg dist  -acc how    2pl  know -hab   -pst -poss.2pl        summer -dat be.born -pf.ptc
+
+\tx dʒụganịdụ  tugeni baldača,       nelke        baldača,       bọlọrọ         baldača.
+\mb dʒụganị -DU  tugeni balda   -čE    nelkeni      balda   -čE    bọlọnị -R(E)   balda   -čE
+\ge summer       -dat winter be.born -pf.ptc early.spring be.born -pf.ptc late.autumn  -nonfut be.born -pf.ptc
+\ft I asked my grandmother, in the past, in your whatchamacallit, you didn't have calendars, how did you know that (someone) was born
+in summer, was born in winter, was born in spring, was born in autumn.
+\ru У бабушки спрашивала раньше вот вы ваши вам что-то календар у вас не было, как вы узнали летом родился, зимой родился,
+весной родился, осенью родился.
+\ELANBegin 00:05:05.650
+\ELANEnd 00:05:24.090
+\ELANParticipant R
+
+\id RDA_TPK_birth_114
+\tx Taraw      ọːn haːwras         goːŋnerem.
+\mb tarak -W   ọːn haː -Gr(E) -s   goːn -Gr(E) -R(E) -m
+\ge dist  -acc how    know -hab   -2pl say   -hab   -nonfut -1sg
+\ft How did you know that, I say.
+\ru Как вы это узнавали, говорю.
+\ELANBegin 00:05:24.090
+\ELANEnd 00:05:26.500
+\ELANParticipant R
+
+\id RDA_TPK_birth_115
+\tx Tarak či... ịawan                 estel           haːr         bọlla                     er   čisla ọːk
+\mb tarak čislo ịak -W   -E-n(I)      e   -R(E)   -L  haː -R       buol  -dEg      -E          erek čislo ọːk
+\ge dist  date.R what  -acc -ep-poss.3sg neg -nonfut -pl know -neg.cvb aux.Y -assert.Y -poss.3sg.Y prox date.R when
+
+\tx baldarịn.
+\mb balda   -RI -n(I)
+\ge be.born -pst -poss.3sg
+\ft They didn't know the date, right, when someone was born.
+\ph ịakwan
+\gr estel - could be a hybrid between este(n) and ečel, or just a mispronunciation of esten
+\ru Не знают же они числа когда он родился.
+\ELANBegin 00:05:26.500
+\ELANEnd 00:05:30.750
+\ELANParticipant R
+
+\id RDA_TPK_birth_116
+\tx čịhlawan              esten       haːra        bọlla
+\mb čislo -W   -E-n(I)      e   -R(E)   haː -R       buol  -dEg      -E
+\ge date.R -acc -ep-poss.3sg neg -nonfut know -neg.cvb aux.Y -assert.Y -poss.3sg.Y
+
+\ft They didn't know the date, right.
+\ru
+\ELANBegin 00:05:30.750
+\ELANEnd 00:05:31.450
+\ELANParticipant T
+
+\id RDA_TPK_birth_117
+\tx Čịhịlan     ačča.
+\mb čislo -n(I)     ačča
+\ge date.R -poss.3sg neg
+\ft There were no dates.
+\ru
+\ELANBegin 00:05:31.450
+\ELANEnd 00:05:33.150
+\ELANParticipant R
+
+\id RDA_TPK_birth_118
+\tx Primerno        ịanịkan
+\mb primerno        ịa    -nIkEn
+\ge approximately.R do.what -sim.cvb
+\ft Doing it approximately.
+\ru
+\ELANBegin 00:05:33.150
+\ELANEnd 00:05:35.390
+\ELANParticipant R
+
+\id RDA_TPK_birth_119
+\tx ečin      ečin      goːniken
+\mb erroːčin erroːčin goːn -nIkEn
+\ge prox.qual  prox.qual  say   -sim.cvb
+\ft like this like this
+\ru
+\ELANBegin 00:05:35.390
+\ELANEnd 00:05:36.320
+\ELANParticipant T
+
+\id RDA_TPK_birth_120
+\tx Erek moː  ejeːnni,    tarak značit   nelke        gerbe.
+\mb erek moː  ejeːn -n(I) tarak značit   nelkeni      gerbe
+\ge prox water flow   -3sg  dist  that.is.R early.spring name
+\ft Water flows, that means it's spring.
+\ru Течет вода, это значит весна.
+\ELANBegin 00:05:36.320
+\ELANEnd 00:05:39.950
+\ELANParticipant R
+
+\id RDA_TPK_birth_121
+\tx nelke        gerbe, aha.
+
+\ru
+\ELANBegin 00:05:39.950
+\ELANEnd 00:05:42.080
+\ELANParticipant BP
+
+\id RDA_TPK_birth_122
+\tx Ịmanra tikren,            ụdan tikren,            bọlọrọ.
+\mb ịmanra tik  -R(E)   -n(I) ụdan tik  -R(E)   -n(I) bọlọnị
+\ge snow     fall -nonfut -3sg  rain   fall -nonfut -3sg  late.autumn
+
+\ft It snows and rains, (that's) autumn.
+\ph
+\gr (14_quest_2010, 10:20) bọlọrọ doesn't exist as such, usually, perhaps bọlọrọp 'autumnal' influenced this, maybe something like
+'osennjaja pora'
+\ru Снег идет, дождь идет, осень.
+\ELANBegin 00:05:42.080
+\ELANEnd 00:05:44.810
+\ELANParticipant R
+
+\id RDA_TPK_birth_123
+\tx tuge
+
+\ru
+\ELANBegin 00:05:44.810
+\ELANEnd 00:05:45.120
+\ELANParticipant BP
+
+\id RDA_TPK_birth_124
+\tx bọlọrọ
+\mb bọlọnị
+\ge late.autumn
+
+\ru
+\ELANBegin 00:05:45.120
+\ELANEnd 00:05:45.440
+\ELANParticipant R
+
+\id RDA_TPK_birth_125
+\tx Ah, bọlọrọ, aha.
+
+\ru
+\ELANBegin 00:05:45.440
+\ELANEnd 00:05:46.880
+\ELANParticipant BP
+
+\id RDA_TPK_birth_126
+\tx Ịmanda značit   tuge.
+\mb ịmanra značit   tugeni
+\ge snow     that.is.R winter
+
+\ru
+\ELANBegin 00:05:46.880
+\ELANEnd 00:05:49.700
+\ELANParticipant R
+
+\id RDA_TPK_birth_127
+\tx xxx  tak  tačịn
+\mb *xxx tak  tarọːčịn
+\ge ***  so.R dist.qual
+\ft
+\ph what she says cannot be made out
+\ru
+\ELANBegin 00:05:49.700
+\ELANEnd 00:05:50.840
+\ELANParticipant T
+
+\id RDA_TPK_birth_128
+\tx hokči biheken                    erek dʒe.
+\mb hokči bi -REk -E-n(I)            erek dʒe
+\ge hot    be -cond.cvb -ep -poss.3sg prox well.Y
+\ft If it is hot, this...
+\ph
+\gr hokči is used only for weather, not other forms of heat, it means both "žara" and "žarkij"
+\ru
+\ELANBegin 00:05:50.840
+\ELANEnd 00:05:52.340
+\ELANParticipant R
+
+\id RDA_TPK_birth_129
+\tx Ńoːče hieče         biheken,                   ere  irel.. ireldu      gerbe.
+\mb ńoːče hie    -čE    bi -REk -E-n(I)            erek ireli  ireli  -DU  gerbe
+\ge flower   appear -pf.ptc be -cond.cvb -ep -poss.3sg prox summer summer -dat name
+
+\ft If plants have appeared (if it is green), it is summer.
+\ru Если выросла зелень значит лето.
+\ELANBegin 00:05:52.340
+\ELANEnd 00:05:57.010
+\ELANParticipant R 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Sebjan2010/sound_files/spontaneous_Marantz/RDA_TPK_birth.wav
+\ELANMediaMIME audio/x-wav

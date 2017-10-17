@@ -1,0 +1,58 @@
+\_sh v3.0  1082 Text
+
+\id 01_Kamchatka_June2016
+\ref translation from Russian
+\ru Я сегодня не хочу готовить ужин – голова заболела.
+\tx Bi   tiːk baːram               oleːtteji                    užim,        dilu            enellin.
+\mb biː tiek  baː     -R(E)   -m   oleː -Č  -DE -J             užin    -W   dilu            en   -E-L     -RI  -n(I)
+\ge 1sg  now   not.want -nonfut -1sg cook  -res -purp.cvb -prfl.sg dinner.R -acc upustit'.moment hurt -ep-inch -pst -poss.3sg
+
+
+\id 02_Kamchatka_June2016
+\ref translation from Russian
+\ru Ты мне сказала что ты не хочешь идти в концерт – так что я только для себя взяла билет.
+\tx Iː  mindu        guːniš                  baːriji                    ordeji                 koncertetki,        teːmi    bi
+\mb hiː min     -DU  goːn -RI       -s(I)     baː     -RI       -J       hor -DE -J             koncert   -E-t(E)kI teːmi    biː
+\ge 2sg  1sg.obl -dat say   -impf.ptc -poss.2sg not.want -impf.ptc -prfl.sg go  -purp.cvb -prfl.sg concert.R -ep-all   therefore 1sg
+
+\tx meːnditken                 uniriwu            biletgaji.
+\mb meːn -DI          =t(E)kEn uni -RI  -W        bilet    -GE    -J
+\ge refl  -dat.prfl.sg =restr   buy -pst -poss.1sg ticket.R -desig -prfl.sg
+
+
+\id 03_Kamchatka_June2016
+\ref translation from Russian
+\ru Учители не хотели отпускать детей, но те просто убежали.
+\tx Učitelel        baːritan               tiːndewur                kụŋalba,      tarma nọŋartan ńọːnitan.
+\mb učitel   -E-L   baː     -RI  -tEn      tiːn  -DE -WUr           kụŋa -L  -W   tarma nọŋartan ńọːn -RI  -tEn
+\ge teacher.R -ep-pl not.want -pst -poss.3pl let.go -purp.cvb -prfl.pl child   -pl -acc but   3pl         run.away -pst -poss.3pl
+
+
+\id 04_Kamchatka_June2016
+\ref translation from Russian
+\ru Мой сын никогда не хочет идти в детсад, всегда надо его силой туда таскать.
+\tx Min     kụŋaŋụ           ọːkta    ešni             uremmoːtte             detsadtakị,          nọŋman ereger
+\mb min     kụŋa -ŋ  -W        ọːk =DE  e   -R(E)   -n(I) hor -n  -WEːČ -R(E)   detsad         -t(E)kI nọŋman ereger
+\ge 1sg.obl child   -aln -poss.1sg when   =ptl neg -nonfut -3sg  go  -nr -gnr    -nonfut kindergarten.R -all    3sg.acc   always
+
+\tx urudʒinni           tartakị     baːriw.
+\mb hor -U    -DʒI -nrI tarak -t(E)kI baː     -RI       -W
+\ge go  -caus -fut  -2sg dist  -all    not.want -impf.ptc -acc
+\ft
+\gr baːriw = ne xotjashego (taskatj); ja ne xochu = bi baːriwu
+
+\id 05_Kamchatka_June2016
+\ref translation from Russian
+\ru Мне лень готовить ужин, давай купим пельмени.
+\tx Bi   baːram               oleːtedeji                   užinu,       unigar          pelmenaw.
+\mb biː baː     -R(E)   -m   oleː -Č  -DE -J             užin    -W   uni -GEr        pelmen    -E  -W
+\ge 1sg  not.want -nonfut -1sg cook  -res -purp.cvb -prfl.sg dinner.R -acc buy -imp.1pl.in pelmeni.R -ep -acc
+
+
+\id 06_Kamchatka_June2016
+\ref translation from Russian
+\ru Он всегда ленится делать уроки.
+\tx Nọŋan ereger baːwaːttan                  nekteji                uroki.
+\mb nọŋan ereger baː    -WEːČ -R(E)   -n(I) nek -DE -J             urok       -J
+\ge 3sg      always be.lazy -gnr    -nonfut -3sg  do  -purp.cvb -prfl.sg homework.R -prfl.sg
+

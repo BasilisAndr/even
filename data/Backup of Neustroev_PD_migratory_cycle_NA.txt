@@ -1,0 +1,294 @@
+\_sh v3.0  1061 Text
+
+\id Neustroev_PD_migratory_cycle_000_metadata
+\ref Recorded on 25 March 2009 in Sebjan-Küöl by Brigitte Pakendorf, in the office of the klub, in the morning. Only he and BP were
+in the klub, and it was very quiet. We discussed what he would tell in Russian, then BP switched on the recording equipment and
+he spoke; when he finished with one topic, BP paused the recording equipment; so there are different topics in one big file, which
+were cut into separate sound and video files
+\qu ????? transcribed in ELAN by BP in 2009 and translated orally into Russian by Ija Vasil'evna Krivoshapkina in 2009; glossed by Natalia
+Aralova in 2010. Speaker abbreviation = PDN
+\ref Petr Dmitrievich Neustroev was 68 years old at the time of recording, srednee obrazovanie, is trained as a carpenter, worked as a
+horse and reindeer herder, is a master in making sleds and lassos; his origins are from Tompo, both parents from Tompo, but he
+grew up on some priiskax in the Verxojansk region, and has been living in Sebjan for 40 years - has nevertheless retained some
+Tompo dialectal features
+
+\id Neustroev_PD_migratory_cycle_001
+\tx Ńulgun     dʒugulin                ukčenni.
+\mb nulge   -n  dʒugu -(dU)LI -n(I)     ukčen -LI
+\ge migrate -nr about  -prol   -poss.3sg tell   -imp.2sg
+\ft Tell about the route of migration. 
+\ru Расскажи о маршруте кочевки.
+\ELANBegin 00:00:00.010
+\ELANEnd 00:00:05.670
+\ELANParticipant BP
+
+\id Neustroev_PD_migratory_cycle_002
+\tx Nulgun      dʒugunni,        ee, dʒugulin,               tar,  maršrụt biwren          stadala,       každaj
+\mb nulge   -n  dʒugu  -n(I)     ee  dʒugu -(dU)LI -n(I)     tarak maršrụt bi -Gr(E) -n(I) stado  -(dU)LE každyj
+\ge migrate -nr about   -poss.3sg eh  about  -prol   -poss.3sg dist  route.R    be -hab   -3sg  herd.R -loc    every.R
+
+\tx brigadirdu            boːwrer         maršrụt, maršrụt ọːrịdʒụr.
+\mb brigadir         -DU  boː -Gr(E) -r   maršrụt  maršrụt ọː -RIdʒI -L
+\ge brigade.leader.R -dat give -hab   -3pl route.R     route.R    make  -ant.cvb -pl
+
+\ft About a route... There is a route in the herd. The route is given to each brigade leader.
+\ru О кочевке... бывает маршрут в стаде, маршрут дают каждому бригадиру, сделав маршрут.
+\ELANBegin 00:00:05.670
+\ELANEnd 00:00:18.040
+\ELANParticipant
+
+\id Neustroev_PD_migratory_cycle_003
+\tx Tar  ferme  hibidissijeńun   omettu   ńan   direktsija  brigadir         ọːnịkahal,      vetwrač
+\mb tar  ferma  hibidissije -ńUn omettu   ńaːn direktsija  brigadir         ọː  -nIkEn   -SEl vetvrač
+\ge thus farm.R manager.Y   -com  together and    directors.R brigade.leader.R become -sim.cvb -pl  vet.R
+
+\tx ọːnịkal       tar   maršrụtụ   ọːwrarịtna              dʒulle.
+\mb ọː -nIkEn   -L  tarak maršrụt -W   ọː -Gr(E)  -RI  -tEn      dʒulle
+\ge make  -sim.cvb -pl dist  route.R    -acc make  -hab    -pst -poss.3pl before
+
+\ft Directors, manager of the farm, brigade leader with a vet made a route together before.
+\ph
+\gr ferme  hibidissijeńun omettu ńan direktsija brigadir ọːnịkahal -- when they all become together (gather); ọːnịkal: according to the
+translator it should be also ọːnịkahal, the speaker just missed the ha.
+\nt
+\qu
+\ru Дирекция с бригадиром вместе с заведующим фермой, с ветврачом делали раньше маршрут
+\ELANBegin 00:00:18.040
+\ELANEnd 00:00:29.090
+\ELANParticipant
+
+\id Neustroev_PD_migratory_cycle_004
+\tx Ọttọ  tiekte    tačịn.
+\mb ọttọn tiek =DE  tarọːčịn
+\ge dp.Y      now  =ptl dist.qual
+
+\ft And now as well.
+\ph
+\gr
+\nt
+\qu  
+\ru И сейчас есть.
+\ELANBegin 00:00:29.090
+\ELANEnd 00:00:30.880
+\ELANParticipant
+
+\id Neustroev_PD_migratory_cycle_005
+\tx Tarak ịak eče        emeːpre.
+\mb tarak ịak e   -R(E)   emeːn -B   -R
+\ge dist  what  neg -nonfut leave  -med -neg.cvb
+
+\ft It was not left in the past.
+\ph
+\gr emeːpten / emeːpren -- if the child was left at home alone, emeːne -- if somebody left him.
+\nt
+\qu
+\ru Это не осталось в прошлом..
+\ELANBegin 00:00:30.880
+\ELANEnd 00:00:33.910
+\ELANParticipant
+
+\id Neustroev_PD_migratory_cycle_006
+\tx Erek ọkaːttụ  tuguček,           majdụk      haγalangaran,            tugu          tugu
+\mb erek ọkaːt -DU  tug     -U    -ČEk maj   -DUk(U) saγalan -Gr(E) -n(I)     tug     -U    tug     -U
+\ge prox river    -dat be.born -caus -nr   May.R -abl    begin.Y  -hab   -poss.3sg be.born -caus be.born -caus
+
+\tx tuguridʒi             ọddakan                    dʒe   tar  ńamịčalbụ
+\mb tug     -U    -RIdʒI  ọd -REk -E-n(I)            dʒe   tar  ńamịčan     -L-W
+\ge be.born -caus -ant.cvb stop -cond.cvb -ep -poss.3sg well.Y thus female.reindeer -pl-acc
+
+\tx ịawkandụla,                 koːrbeldule              haːmụkawrar          omettu.
+\mb ịawkan                -(dU)LE koːrbe       -L  -(dU)LE haːm -WkEn -Gr(E) -r   omettu
+\ge young.domestic.reindeer -loc    sire-reindeer -pl -loc    join  -caus -hab   -3pl together
+
+\ft
+\ph tugu / togu? какой там гласный ? ö?
+\gr
+\nt
+\ru На этой реке отел, с мая начинается , когда отел заканчивается, важенок к прошлогодним самцам, ко взрослым самцам
+присоединяют вместе.  
+\ELANBegin 00:00:33.910
+\ELANEnd 00:00:49.320
+\ELANParticipant
+
+\id Neustroev_PD_migratory_cycle_007
+\tx Dʒe   tarịt dʒe   nulguwrer.
+\mb dʒe   tarịt dʒe   nulge   -Gr(E)  -r
+\ge well.Y then    well.Y migrate -hab    -3pl
+
+\ft They migrate after that.
+\ru И кочуют потом.
+\ELANBegin 00:00:49.320
+\ELANEnd 00:00:51.560
+\ELANParticipant
+
+\id Neustroev_PD_migratory_cycle_008
+\tx Irildeːrep    maršrụtlị     biwekkerer.
+\mb irildu -(E)rEp maršrụt -(dU)LI bi -WEːČ -Gr(E) -r
+\ge summer -adjr   route.R    -prol   be -gnr    -hab   -3pl
+
+\ft They go on the summer route.
+\ph Ija says, it's ireldeːrep
+\gr
+\nt
+\qu
+\ru По летнему маршруту ездят.
+\ELANBegin 00:00:51.560
+\ELANEnd 00:00:56.560
+\ELANParticipant
+
+\id Neustroev_PD_migratory_cycle_009
+\tx Dʒụganịdụ  tara  kụlịn ńan   ịrgọt naːrakan                    emie   hontekiten       torre
+\mb dʒụganị -DU  tarak kụlịn ńaːn ịrgat   naː -REk -E-n(I)            emie   honteki   -tEn   tor   -(dU)LE
+\ge summer       -dat dist  mosquito  and    gadfly    hit  -cond.cvb -ep -poss.3sg also.Y different -distr earth -loc
+
+\tx nulgewrer.
+\mb nulge   -Gr(E) -r
+\ge migrate -hab   -3pl
+
+\ft In the summer, when mosquitos and gadflies attack, they migrate in different places.
+\ph ịrgat -->ịrgọt
+\gr naːrakan : in Cicncius this verb has also the meaning 'attack', but our translator denies it, she says it is just "begin" here.
+hontekiten: every different, each place for each brigadir
+\nt
+\qu
+\ru Летом, комары и овод когда наступает, кочуют в разные места.
+\ELANBegin 00:00:56.560
+\ELANEnd 00:01:08.730
+\ELANParticipant
+
+\id Neustroev_PD_migratory_cycle_010
+\tx Tar   nulgeridʒur         bọlọnịdụ  koːrbe       eŋtillidun                          emie   bịhịt
+\mb tarak nulge   -RIdʒI -L   bọlọnị -DU  koːrbe       eŋti -L    -RI       -DU  -n(I)     emie   bịhịt
+\ge dist  migrate -ant.cvb -pl late.autumn  -dat sire-reindeer rut   -inch -impf.ptc -dat -poss.3sg also.Y plotina.Y
+
+\tx xaːrčakụ                ọːrịdʒụr   tala          iːwgerer.
+\mb *x  -E  *   -L  -čE    =GU ọː -RIdʒI -L   tarak -(dU)LE iː   -W     -Gr(E) -r
+\ge *** -ep *** -pl -pf.ptc =q  make  -ant.cvb -pl dist  -loc    enter -advrs -hab   -3pl
+
+\ft
+\ph
+\gr
+\nt bịhịt: see comment in  Krivoshapkina_Ija_memories_124  
+\qu  xarchaku??
+\ru Перекочевав, осенью, когда у самцов начинается гон, сделав большой загон, их туда загоняют.
+\ELANBegin 00:01:08.730
+\ELANEnd 00:01:19.500
+\ELANParticipant
+
+\id Neustroev_PD_migratory_cycle_011
+\tx Dʒe   tarịt dʒe   koːrbe       taŋńawan                ọːrịdʒụr   dʒe   koːrbew
+\mb dʒe   tarịt dʒe   koːrbe       taŋńa -W   -E-n(I)      ọː -RIdʒI -L   dʒe   koːrbe       -W
+\ge well.Y then    well.Y sire-reindeer antlers -acc -ep-poss.3sg make  -ant.cvb -pl well.Y sire-reindeer -acc
+
+\tx eŋtiwkeŋner.
+\mb eŋti -WkEn -Gr(E) -r
+\ge rut   -caus -hab   -3pl
+
+\ft
+\ph
+\gr
+\nt Thanslator comments 'having made' means 'having  sawn' (to estj podpiliv ix), reindeers 
+\qu
+\ru Сделав рога у самцов, им разрешают продолжать брачный сезон.
+\ELANBegin 00:01:19.500
+\ELANEnd 00:01:25.560
+\ELANParticipant
+
+\id Neustroev_PD_migratory_cycle_012
+\tx Tuge,  ee, tar   ịmanda tikčelen                   ọrọm               taŋmi          karaːldụ   ispiseːlne
+\mb tugeni ee  tarak ịmanra tik  -čE    -(dU)LE -n(I)  ọrọn          -W   taŋ  -mI       karaːl  -DU  ispiseːlne
+\ge winter eh  dist  snow     fall -pf.ptc -loc -poss.3sg domestic.reindeer -acc count -cond.cvb corral.R -dat specially
+
+\tx iːwridʒur,              dʒe   hujemgerer:                 zakụp    ọrọnni,                 er   tugerep,
+\mb iː   -W     -RIdʒI -L   dʒe   hujen    -W     -Gr(E) -r   zakụp    ọrọn          -n(I)     erek tugeni -(E)rEp
+\ge enter -advrs -ant.cvb -pl well.Y separate -advrs -hab   -3pl for.sale.R domestic.reindeer -poss.3sg prox winter -adjr
+
+\tx hụːmaw     omettu   biwken... emie   tadụ     hujemgerer.
+\mb hụːma -W   omettu   bi -WkEn  emie   tarak -DU  hujen    -W     -Gr(E) -r
+\ge herd     -acc together be -caus  also.Y dist  -dat separate -advrs -hab   -3pl
+
+\ft In winter, when the snow falls, counting the reindeer, having chased them into a special corral, they separate them: the reindeer for
+sale, the winter herd, (having let them be together?) they separate them.
+\ph
+\gr hujemgerer -- the meaning is closer to CAUS, but we have allomorph m just for advs and suspect, that it is the same morpheme.
+\nt
+\qu
+\ru Зимой, когда выпадает снег, считая оленей, загнав в корал специально, они их разъединяют, оленьи закупа, зимние, всех вместе,
+потом опять разъединяют
+\ELANBegin 00:01:25.560
+\ELANEnd 00:01:43.350
+\ELANParticipant
+
+\id Neustroev_PD_migratory_cycle_013
+\tx Dʒụː ọrman                             gawrar,          takkakkarar
+\mb dʒụː ọrọn          -W   -E-n(I)      ga   -Gr(E) -r   tat   -kEČ -Gr(E) -r
+\ge house    domestic.reindeer -acc -ep-poss.3sg take -hab   -3pl learn -mult -hab   -3pl
+
+\tx meːnnilbu                 oːńeniken.
+\mb meːnni            -L-W    oːńe -nIkEn
+\ge half.tame.reindeer -pl-acc tie.up -sim.cvb
+
+\ft They take the working reindeer, they train the half-wild ones tying them up.
+\ph
+\gr
+\nt
+\qu
+\ru Берут домашних оленей, привязывая, учат неприученных.
+\ELANBegin 00:01:43.350
+\ELANEnd 00:01:51.370
+\ELANParticipant
+
+\id Neustroev_PD_migratory_cycle_014
+\tx Tar   amardadụkụn                dʒe   teːrintikin              hujitnewrer.
+\mb tarak amar   -gIdE -DUk(U) -n(I)     dʒe   teːrin -t(E)kI -n(I)     hujen    -Č  -n    -E  -Gr(E) -r
+\ge dist  behind -part -abl    -poss.3sg well.Y both    -all    -poss.3sg separate -res -mult -ep -hab   -3pl
+
+\ft
+\ph
+\gr teːrintikin has the marker of poss.3sg (not 3pl), because there are two sides of one place. 
+\gr hujitnewrer - the form is odd, it's not clear whether it's the resultative+intentional, or the resultative + multiplicative, as glossed
+here, or something else; IVK said in Sebjan they don't use this form (hujitne), they only use hujen, and there is no form hujet; it
+might very well be that the form hujitnewrer is a slip of the tongue;  in Sebjan they would say "tụs tụspa dʒawakkarar" for "derzhat
+po otdel'nosti";
+\ru После этого в разные стороны, держат по отдельности.
+\ELANBegin 00:01:51.370
+\ELANEnd 00:01:55.980
+\ELANParticipant
+
+\id Neustroev_PD_migratory_cycle_015
+\tx Boholekle         emnil              bejel,     naːdalkahal      bejel      no... dʒe   pọrọdụktawda
+\mb poselok   -(dU)LE em   -RI       -L  bej -E-L   nada   -lkEn -SEl bej -E-L         dʒe   pọrọdụkta -W   =DE
+\ge village.R -loc    come -impf.ptc -pl man -ep-pl need.R -prop -pl  man -ep-pl       well.Y food            -acc =ptl
+
+\tx ganami                 tar   ịala        zakụp    ọrńụnnị                    omettu   emgerer,
+\mb ga   -nE     -mI       tarak ịak -(dU)LE zakụp    ọrọn          -ńUn -n(I)     omettu   em   -Gr(E) -r
+\ge take -intent -cond.cvb dist  what  -loc    for.sale.R domestic.reindeer -com  -poss.3sg together come -hab   -3pl
+
+\tx toːditnikehel,           tarịt tala          stadala        emeːpče           bej tugerep
+\mb toːdi -Č  -nIkEn   -SEl tarịt tarak -(dU)LE stado  -(dU)LE emeːn -B   -čE    bej tugeni -(E)rEp
+\ge help   -res -sim.cvb -pl  further dist  -loc    herd.R -loc    leave  -med -pf.ptc man winter -adjr
+
+\tx maršrụtla       ọrmị                   horuwren.
+\mb maršrụt -(dU)LE ọrọn          -J       hor -U    -Gr(E) -n(I)
+\ge route.R    -loc    domestic.reindeer -prfl.sg go  -caus -hab   -3sg
+
+\ft
+\ph
+\gr
+\ev
+\ru Приезжающие в поселок люди, нуждающиеся люди, чтобы взять продукты, вместе с закупными оленями приезжают, помогая;
+оставшиеся в стаде люди уводят оленей на зимний маршрут.
+\ELANBegin 00:01:55.980
+\ELANEnd 00:02:11.990
+\ELANParticipant
+
+\id Neustroev_PD_migratory_cycle_016
+\tx Xorošo
+\ru
+\ELANBegin 00:02:11.990
+\ELANEnd 00:02:19.724
+\ELANParticipant BP
+
+
+\ELANMediaURL file:///C:/NatAr/Sebyan2010/Neustroev_migratory_cycle/Neustroev_PD_migratory_cycle.wav
+\ELANMediaMIME audio/x-wav

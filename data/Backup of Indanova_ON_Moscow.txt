@@ -1,0 +1,250 @@
+\_sh v3.0  1232 Text
+
+\id Indanova_ON_Moscow00_metadata
+\ref Recorded on 25 June 2007 in Esso by Brigitte Pakendorf in the kitchen of Indanova's house. Only BP was present during the recording. There were
+two different topics touched upon in the recording, divided into two sessions; this is the second one.
+\qu Transcribed (pen and paper) by Alevtina Mixajlovna Malaxova, transcription checked and Russian translation by Valentina Innokent'evna Axmetova, glossing by BP.
+Funding by the Max Planck Society (MPRG on Comparative Population Linguistics). Speaker abbreviation = ONI
+\ref Oktjabrina Nikolaevna Indanova was 72 at the time of recording. She had worked in a reindeer herd all her life.
+\tx
+
+\id Indanova_ON_Moscow01
+\ref 3:44
+\tx Tiːk bi... tiːr bi   apreːlle        olloːttiwu            Moskvatkị.
+\mb tiek  biː  tiːr biː aprel'.R -(dU)LE olloːt -RI  -W        Moskva -t(E)kI
+\ge now   1sg   then  1sg  April.R  -loc    go      -pst -poss.1sg Moscow -all
+
+\ft Then in April I went to Moscow.
+\ru Тогда я в апреле ездила в Москву.
+\ph
+
+\id Indanova_ON_Moscow02
+\ref
+\tx Tala          ọːja  bejil      čakaptịtan                 čeledʒi          ibdiri.
+\mb tarak -(dU)LE họːja bej -E-L   čak   -E-B    -RI  -tEn      čele -DʒI        ibdiri
+\ge dist  -loc    many     man -ep-pl gather -ep-med -pst -poss.3pl all   -ins.prfl.sg people
+
+\ft There a lot of people gathered , all the people.
+\ru Там много людей собралось, весь народ.
+\ph
+
+\id Indanova_ON_Moscow03
+\ref
+\tx Nọŋartan emniten             emuriten             meːr     gurgeːwur       ičukettewur.
+\mb nọŋartan em   -RI  -tEn      emu   -RI  -tEn      meːn -L  gurgeː -WUr     it  -WkEn -Č  -DE       -WUr
+\ge 3pl         come -pst -poss.3pl bring -pst -poss.3pl refl  -pl work    -prfl.pl see -caus -res -purp.cvb -prfl.pl
+
+\ft They came and brought their own work to show it.
+\ru Они приехали привезли показать свою работу.
+\ph
+\gr ičukendʒim = ja pokažu; ičukettin = ičukendʒin = on pokažet; ičukennem = ja vot sejčas pokazyvaju
+
+\id Indanova_ON_Moscow04
+\ref
+\tx Bi   nọŋmaːtanda              gurgeːwesin              kojeːttiwu,           gịakịw     umekič
+\mb biː nọŋan -W   -tEn      =DE  gurgeː -W   -E-tEn       kojeːt -RI  -W        gịakị -W   umekič
+\ge 1sg  3sg      -acc -poss.3pl =ptl work    -acc -ep-poss.3pl look.at -pst -poss.1sg various   -acc very
+
+\tx aŋaːnčatan            ụntaltan,             karbakaltan,          kamnejkaltan,           čeledʒur
+\mb haŋan -čE    -tEn      unte      -L  -tEn      karbaka -L  -tEn      kamnejka  -L  -tEn      čele -dʒUr
+\ge sew    -pf.ptc -poss.3pl fur.boots -pl -poss.3pl fur.hat -pl -poss.3pl overshirt -pl -poss.3pl all   -ins.prefl.pl
+
+\tx nọːdal      umekič.
+\mb nọːd -E-L   umekič
+\ge pretty  -ep-pl very
+\ft I looked at their work, various sewn fur boots, fur hats, overshirts, everything very pretty.
+\ru Я их работу смотрела, разные торбаза сшитые, шапки-малахаи, камлейки, все очень красивые.
+\ph [čeledʒi] She clearly says [nọŋmatanda gurgeːwesin], but when I asked Valentina Innokent'evna what that means, she
+said it had to be gurgeːweten, 'their work', and that [gurgeːwesen] would be 'your.PL work'.
+
+\id Indanova_ON_Moscow05
+\ref
+\tx Atịkarda         emniten,            meːr     aŋaːnčal        emuriten.
+\mb atịkan  -L  =DE  em   -RI  -tEn      meːn -L  haŋan -čE    -L  emu   -RI  -tEn
+\ge old.woman -pl =ptl come -pst -poss.3pl refl  -pl sew    -pf.ptc -pl bring -pst -poss.3pl
+
+\ft Old women came and brought things they themselves had sewed.
+\ru Старухи приехали, свое шитье привезли.
+\ph
+
+\id Indanova_ON_Moscow06
+\ref
+\tx Mindukte             agdịl     atịkar      tala          olloːttiten.
+\mb min     -DUk(U) =DE  hagdị -L  atịkan  -L  tarak -(dU)LE olloːt -RI  -tEn
+\ge 1sg.obl -abl    =ptl old     -pl old.woman -pl dist  -loc    go      -pst -poss.3pl
+
+\ft Women older even than me went there.
+\ru Старше меня старухи приезжали туда.
+\ph
+\gr
+
+\id Indanova_ON_Moscow07
+\ref 4:18
+\tx Čeledʒur          mannụttịtan             ičukendewur                 čeledin                     ọːn nọŋartan
+\mb čele -dʒUr        manrụ -Č  -RI -tEn       it  -WkEn -DE       -WUr     čele -DI          -n(I)     ọːn nọŋartan
+\ge all   -ins.prefl.pl try     -res -pst -poss.3pl see -caus -purp.cvb -prfl.pl all   -dat.prfl.sg -poss.3sg how    3pl
+
+\tx biweːtte,             ọːn nọŋartan aŋaːnịtan.
+\mb bi -WEːČ -R(E)       ọːn nọŋartan haŋan -RI  -tEn
+\ge be -gnr    -nonfut.3pl how    3pl         sew    -pst -poss.3pl
+
+\ft All tried to showed everyone (how they live, how they sewed.
+\ru Все старались показать всем, как они живут, как они шьют.
+\ph
+
+\id Indanova_ON_Moscow08
+\ref
+\tx I     taral        iːniwur       meːn ereger ičukettitten.
+\mb i     tarak -E-L   iːni -WUr     meːn ereger it  -WkEn -Č  -RI  -tEn
+\ge and.R dist  -ep-pl life  -prfl.pl refl  always see -caus -res -pst -poss.3pl
+
+\ft And these always showed this life of theirs.
+\ru Эти свою жизть всегда показывали.
+\ph
+\gr
+
+\id Indanova_ON_Moscow09
+\ref
+\tx Min...  mindu        tala          ajaːwrịwụ        ọːjaw      ittidʒi.
+\mb min     min     -DU  tarak -(dU)LE ajaːw -RI  -W        họːja -W   it  -RIdʒI
+\ge 1sg.obl 1sg.obl -dat dist  -loc    love   -pst -poss.1sg many     -acc see -ant.cvb
+
+\ft I liked much that I saw.
+\ru Мне там увиденное много понравилось.
+\ph
+\gr mindu ajaːwriwu = the Dative case is probably due to Russian influence, it should be 'bi ajaːwrịwụ'; one could also say
+'mindu ajaːwallaptịn' = mne ponravilos'
+
+\id Indanova_ON_Moscow10
+\ref
+\tx Olloːttiwuda               Ploščad' Krasnojteki,    talada             kojeːttiwu,
+\mb olloːt -RI  -W        =DE  Ploščad' Krasnoj -t(E)kI tarak -(dU)LE =DE  kojeːt -RI  -W
+\ge go      -pst -poss.1sg =ptl square.R   red     -all    dist  -loc    =ptl look.at -pst -poss.1sg
+
+\tx Mauzolejxxx      ittiwu,            Kreml'  ittiwu,            soldatskij
+\mb Mauzolej  - *xxx it  -RI  -W        Kreml'  it  -RI  -W        soldatskij
+\ge mausoleum - ***  see -pst -poss.1sg Kremlin see -pst -poss.1sg soldier's.R
+
+\tx pamjat', soldat.
+\mb pamjat'  soldat
+\ge memory.R soldier
+
+\ft I went to the Red Square and looked at that, I saw the Mausoleum, the Kremlin, the (grave of the unknown) soldier.
+\ru Ходила на Кр асную Площадь, смотрела, маузолей видела, Кремль видела, памятник солдату.
+\ph [ulloːttiwu] We were unable to figure out what she says between 'Mauzolej' and 'ittiwu'
+
+\id Indanova_ON_Moscow11
+\ref
+\tx Taraw      čelewen                kojeːttiwu.
+\mb tarak -W   čele -W   -E-n(I)      kojeːt -RI  -W
+\ge dist  -acc all   -acc -ep-poss.3sg look.at -pst -poss.1sg
+\ft All that I saw.
+\ru Все я это увидела.
+\ph
+\gr she could also have said: taraw ejdu ittiwu = vse ja uvidela (when Valentina Innokent'evna said this, she pronounced it
+[tarawajdụ]
+
+\id Indanova_ON_Moscow12
+\ref
+\tx Ńan   minduda           aj   emdelewu               ọːdịn,           čto   bi   olloːttiwu
+\mb ńaːn min     -DU  =DE  aj   emde -(dU)LE -W        ọː  -RI  -n(I)     čto   biː olloːt -RI  -W
+\ge again  1sg.obl -dat =ptl good soul -loc    -poss.1sg become -pst -poss.3sg what.R 1sg  go      -pst -poss.1sg
+
+\tx tala.
+\mb tarak -(dU)LE
+\ge dist  -loc
+
+\ft And I was so happy (it became so good in my soul), because I went there.
+\ru Мне на душе так хорошо стало, оттого что я туда ездила.
+\ph
+\gr
+
+\id Indanova_ON_Moscow13
+\ref 5ː04
+\tx Ńan   emčeleji                     eweski,        bi   meːn atịkartakịj                teːleŋniwu            ọːn
+\mb ńaːn em   -čE    -(dU)LE -J       erek -skI      biː meːn atịkan  -L  -t(E)kI -J       teːleŋ -RI  -W        ọːn
+\ge again  come -pf.ptc -loc    -prfl.sg prox -advb.all 1sg  refl  old.woman -pl -all    -prfl.sg tell     -pst -poss.1sg how
+
+\tx tala          Moskvala       bise.
+\mb tarak -(dU)LE Moskva -(dU)LE bi -R(E)
+\ge dist  -loc    Moscow -loc    be -nonfut.3pl
+
+\ft And when I came back I told my old women how they live there in Moscow.
+\ru Когда сюда приехала, я своим старушкам рассказала, как живут в Москве.
+\ph [wuski]
+\gr
+
+\id Indanova_ON_Moscow14
+\ref
+\tx Ọːn tala          gịakị ńọːča iːnne           [stammers] ibdiride    ọːja
+\mb ọːn tarak -(dU)LE gịakị ńụčị iːn -R(E)       stammers   ibdiri =DE  họːja
+\ge how    dist  -loc    various   Russian    live -nonfut.3pl stammers   people =ptl many
+
+\tx estende          goːn       ịakawụ   ọrọč emnin.
+\mb e   -R(E)   =DE  goːn       ịak -awụ ọrọč em   -RI  -n(I)
+\ge neg -nonfut =ptl say.neg.cvb what  -emph  Oroch     come -pst -poss.3sg
+
+\ft How various Russians live there, a lot of people and they don't say anything, what did this Even come for.
+\ru Как там всякие русские живут, народу много и ничего не говорят, что за эвен пришел.
+\ph
+\gr iːnne = živut; iːndidde = živut;  iːnnem = živu; iːndidʒim = budu žit'; estende goːn = ničego ne govorjat
+
+\id Indanova_ON_Moscow15
+\ref
+\tx Tiːk atịkartakị        teːleŋčeji             atịkal      goːweːtte               ọːn
+\mb tiek  atịkan  -L  -t(E)kI teːleŋ -čE    -J       atịkan  -L  goːn -WEːČ -R(E)       ọːn
+\ge now   old.woman -pl -all    tell     -pf.ptc -prfl.sg old.woman -pl say   -gnr    -nonfut.3pl how
+
+\tx ???  goːnem            ajịčeː         degsiwu.
+\mb *??? goːn -R(E)   -m   aj   -E-Č   =eː  deg -RI  -W
+\ge ***  say   -nonfut -1sg good -ep-ins =emph fly -pst -poss.1sg
+
+\ft Now I told the old women, and the old women say, how (did you fly - ?? - we were unable to figure out what she says
+here), and I say "I flew well".
+\ru Сейчас старушкам рассказала,  старушки говорят "Как мол летела", я говорю "Хорошо летела".
+
+\id Indanova_ON_Moscow16
+\ref
+\tx Ečiwuda                ịawda         buteːnedde,              ebdʒeːnde      umekič tala
+\mb e   -RI  -W        =DE  ịak -W   =DE  buteːn -E-D     -R       hebdʒen    =DE  umekič tarak -(dU)LE
+\ge neg -pst -poss.1sg =ptl what  -acc =ptl be.ill  -ep-prog -neg.cvb interesting =ptl very    dist  -loc
+
+\tx bisin.
+\mb bi -RI  -n(I)
+\ge be -pst -poss.3sg
+
+\ft Nothing, I wasn't ill, it was interesting there.
+\ru Ничего, не болела, весело там было.
+\ph
+\gr According to Valentina Innokent'evna, it should be "ečiwu ịatta buteːnedde" 'ja ničem ne bolela', i.e. the Instrumental
+case, not the Accusative. \\ ja boleju = bi buteːneddem; ja bolela = bi buteːneddiwu \ buteːnniwu; ty boleeš' =
+buteːnenni; ty ne boleeš'? = ečis buteːnne? ečis buteːnedde
+
+\id Indanova_ON_Moscow17
+\ref
+\tx Tiːk emčeleji                     bi   ajịtta          biddem,               emdewude
+\mb tiek  em   -čE    -(dU)LE -J       biː aj   -E-Č   =DE  bi -D    -R(E)   -m   emde -W        =DE
+\ge now   come -pf.ptc -loc    -prfl.sg 1sg  good -ep-ins =ptl be -prog -nonfut -1sg soul -poss.1sg =ptl
+
+\tx ŋeːrinsen            ọːn bi   tačịn       olloːttiwu            tala.
+\mb ŋeːrin -R(E)   -n(I) ọːn biː tarọːčịn olloːt -RI  -W        tarak -(dU)LE
+\ge bright   -nonfut -3sg  how    1sg  dist.qual      go      -pst -poss.1sg dist  -loc
+
+\ft Having come home I now live well, my soul has become bright, how did I go there.
+\ru Когда приехала я хорошо живу, на душе светло, как это я туда ездила.
+
+\id Indanova_ON_Moscow18
+\ref
+\tx Tarak min     urelbu             Diana Kučerenko minu         goːnni          urrepe             eniŋeː
+\mb tarak min     urel     -W        Diana Kučerenko min     -W   goːn      -n(I) ur -R(E)   -p      eniŋeː
+\ge dist  1sg.obl children -poss.1sg Diana Kučerenko 1sg.obl -acc say.nonfut -3sg  go -nonfut -1pl.in grandmother
+
+\tx kojeːtnerep                    ọːn tala          bise,          ńan   tar   bi   uredʒeːnniwu.
+\mb kojeːt -nE     -R(E)   -p      ọːn tarak -(dU)LE bi -R(E)       ńaːn tarak biː ur -E-dʒEːn -RI  -W
+\ge look.at -intent -nonfut -1pl.in how    dist  -loc    be -nonfut.3pl again  dist  1sg  go -ep-dur    -pst -poss.1sg
+
+\ft And my children, Diana Kučerenko says to me, "Let's go, grandma, let's go to see how they live there", and then I went.
+\ru Вот мои дети, ДК мне говорит, поехали бабушка, поедем смотреть как там живут, и я тогда поехала.
+\ph
+\gr urrepe = urrep = poexali, pošli; urdʒip = poedem; urrem = ja edu\uxožu; urdʒinni = ujdeš', poedeš'; urli = uxodi;
+badụsnịp = poexali

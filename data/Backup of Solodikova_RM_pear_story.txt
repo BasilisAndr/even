@@ -1,0 +1,453 @@
+\_sh v3.0  544  Text
+
+\id Solodikova_RM_pear_story00_metadata
+\ref Recorded on 25 June 2007 in Anavgai by Brigitte Pakendorf. BP
+showed the pear film to RMS, who then narrated it to her (i.e.
+there was no native speaker of Even present who did not know the
+film).  The recording was done in the speaker's house, and her
+daughter (who does not understand or speak Even) was present,
+too.
+\qu Transcribed (pen and paper) by Rimma Maksimovna Egorova and also
+translated by her into Russian; glossed by BP. Funding by the Max
+Planck Society (MPRG on Comparative Population Linguistics).
+Speaker abbreviation = RMS.
+\ref Raisa Maksimovna Solodikova was born in 1945, i.e. she was 63-64
+at the time of the recording. She had 11 years of schooling and
+worked as the school librarian. She speaks Russian with her
+children. She is the sister of Rimma Maksimovna Egorova.
+
+\id Solodikova_RM_pear_story01
+\ref 0:25
+\tx Ele          kinola           ičukeniten
+\mb erek -(dU)LE kino     -(dU)LE it  -WkEn -RI  -tEn
+\ge prox -loc    movies.R -loc    see -caus -pst -poss.3pl
+
+\tx [stammers] bejemker  goːweːtte
+\mb stammers   bej -mkEr goːn -WEːČ -R(E)
+\ge stammers   man -aug  say   -gnr    -nonfut.3pl
+
+\tx nọŋargịdatịtan              fermer   meːn
+\mb nọŋan -L  -gIdE -DI   -tEn      fermer   meːn
+\ge 3sg      -pl -part -adjr -poss.3pl farmer.R refl
+
+\tx tureŋneji                     kọč
+\mb tor   -E-ŋ   -(dU)LE -J       kọč
+\ge earth -ep-aln -loc    -prfl.sg probably
+
+\tx uŋeddin                    čakaddịn
+\mb uŋ -E-D     -RI  -n(I)     čak   -E-D     -RI  -n(I)
+\ge do  -ep-prog -pst -poss.3sg gather -ep-prog -pst -poss.3sg
+
+\tx tewteŋgeji,                 gerben          gruša.
+\mb tewte   -ŋ  -GE    -J       gerbe -n(I)     gruša
+\ge berries -aln -desig -prfl.sg name  -poss.3sg pear.R
+
+\ft In this film they show a man, as they say a farmer, probably on his
+own land, was picking berries, their name is 'pear'.
+\ru В этом фильме показали, мужчина, по-ихнему называют фермер,
+на своей земле наверно делал, собирал ягоду, наззывается груша.
+\ph
+\gr nọŋargịdatịtan = na ixnej storone, po ixnemu; meːndeči =
+po-moemu (po-svoemu); mungidetič = po-našemu (these first
+examples were elicited from Rimma Maksimovna); (the following
+examples were elicited from Valentina Innokent'evna):
+mutkidagčin = po-našemu, ungidagčin = po-vašemu, ingidegčin
+= po-tvoemu, but nọŋargịdịtan = po-ixnemu.....; toreŋneji =
+toreŋduleji, no difference
+
+\id Solodikova_RM_pear_story02
+\ref 0:46
+\tx Čakad...       uŋneji
+\mb čak   -E-D     uŋ       -(dU)LE -J
+\ge gather -ep-prog something -loc    -prfl.sg
+
+\tx korzinalaji               čakrịn,            dʒoːrbe
+\mb korzina  -(dU)LE -J       čak   -RI  -n(I)     dʒoːr -W
+\ge basket.R -loc    -prfl.sg gather -pst -poss.3sg two     -acc
+
+\tx uže      ụkal  miltereːmkenin.
+\mb uže      ụkal  miltereːn  -WkEn -RI  -n(I)
+\ge already.R already become.full -caus -pst -poss.3sg
+
+\ft He gathered them into his basket, two he already filled up.
+\ru Он в свою корзину собрал, 2 уже наполнил.
+\ph
+\gr From the form, 'uŋneji' could mean both 'čtoby delat' (i.e. the verb
+'uŋ' with a Purposive converb), and 'na\v svoem čem-nibud' (i.e.
+the noun 'uŋ' with a Locative marker); since it is hear followed by
+the basket in the reflexively-possessed Locative case, I have taken
+'uŋ' to be the noun.
+
+\id Solodikova_RM_pear_story03
+\ref 0:57
+\tx Ńan   ịlịgajị                čaktajị
+\mb ńaːn ịlan -(G)I -GE    -J       čak   -DE       -J
+\ge again  three  -ord  -desig -prfl.sg gather -purp.cvb -prfl.sg
+
+\tx ọjčịrịn           tọkarandụlị mọːla,
+\mb ọjčị -RI  -n(I)     tọkaran -(dU)LI mọː -(dU)LE
+\ge go.up     -pst -poss.3sg ladder    -prol   tree   -loc
+
+\tx tarakta         grušala,      ńan
+\mb tarak =t(E)     gruša -(dU)LE ńaːn
+\ge dist  =utočnit pear.R -loc    again
+
+\tx čakadʒịllịn.
+\mb čak   -E-D     -E-L      -RI  -n(I)
+\ge gather -ep-prog -ep-inch  -pst -poss.3sg
+
+\ft And in order to gather into his third (basket) he climbed into the
+tree - that pear-tree - with a ladder and started to pick.
+\ru И вот третью хотел собрать, залез по лестнице на дерево, на эту
+грушу, и стал собирать.
+\ph
+\gr tarakta = nu vot eto
+
+\id Solodikova_RM_pear_story04
+\ref 1:12
+\tx Čakaddakan                            ńan
+\mb čak   -E-D     -REk      -E-n(I)      ńaːn
+\ge gather -ep-prog -cond.cvb -ep-poss.3sg again
+
+\tx kụŋakakakan          ńarị tụrkịdarịn
+\mb kụŋa -KEn     -kEkEn ńarị tụrkị -DE -RI  -n(I)
+\ge child   -dim.int -dim   boy     sled      -vr -pst -poss.3sg
+
+\tx velosipedič.
+\mb velosiped -E-Č
+\ge bicycle.R -ep-ins
+
+\ft While he was picking (pears), a boy rode by on a bicycle.
+\ru Когда он собирал, мальчишечка подъехал на велосипеде.
+
+\id Solodikova_RM_pear_story05
+\ref 1:20
+\tx Ittidʒi     ńan   taraw      grušaw,    korzinala
+\mb it  -RIdʒI  ńaːn tarak -W   gruša -W   korzina  -(dU)LE
+\ge see -ant.cvb again  dist  -acc pear.R -acc basket.R -loc
+
+\tx bisiw,            dʒọrmịdajị
+\mb bi -RI       -W   dʒọrọm -DE       -J
+\ge be -impf.ptc -acc steal       -purp.cvb -prfl.sg
+
+\tx ịmkanịn.
+\mb ịmkan -RI  -n(I)
+\ge decide  -pst -poss.3sg
+
+\ft He saw those pears, those in the basket, and decided to steal them.
+\ru И вот  увидев эти груши в корзине задумал украсть.
+\ph ittid'i bisiw
+\gr ịmkanịn = zadumal; bi ịmkanam = ja zadumaju; bi ịkanịwụ = ja
+zadumala; bi ịmkandʒịddam = ja zadumyvaju; *ịmkaddam = does
+not exist, this verb takes the long form -dʒId of the Progressive
+suffix
+
+\id Solodikova_RM_pear_story06
+\ref 1:35
+\tx Bej ńan   ịawda         eč          dọldar.
+\mb bej ńaːn ịak -W   =DE  e   -RI      dọlda -R
+\ge man again  what  -acc =ptl neg -pst.3sg hear    -neg.cvb
+\ft And the man didn't hear anything.
+\ru Мужчина вот ничего не слышал.
+\ph [dọldər]
+\gr
+
+\id Solodikova_RM_pear_story07
+\ref 1:40
+\tx [stammers] Ńarịjakan   ńan   alladịn
+\mb stammers   ńarị -jEkEn ńaːn alladịn
+\ge stammers   boy     -dim   again  properly
+
+\tx velosipedlajị            teːwridʒi       ńan
+\mb velosiped -(dU)LE -J       teːw    -RIdʒI  ńaːn
+\ge bicycle.R -loc    -prfl.sg put.down -ant.cvb again
+
+\tx tụrkịdasnịn.
+\mb tụrkị -DE -s(E)n -RI  -n(I)
+\ge sled      -vr -lim   -pst -poss.3sg
+
+\ft The boy put (the basket) on his bike properly, and rode off.
+\ru И мальчишка как следует на велосипед поставил и поехал.
+\gr The Limitative aspect as an inchoative.
+
+\id Solodikova_RM_pear_story08
+\ref 1:52
+\tx Ńan   tụrkịdadmị              ńan
+\mb ńaːn tụrkị -DE -D    -mI       ńaːn
+\ge again  sled      -vr -prog -cond.cvb again
+
+\tx asatkakakam         arčịldarịn,
+\mb asatkan -kEkEn -W   arčị -(E)ldE -RI  -n(I)
+\ge girl    -dim   -acc meet    -soc    -pst -poss.3sg
+
+\tx tačịnda          velosipedit       tụrkịdarịw.
+\mb tarọːčịn =DE  velosiped -E-Č   tụrkị -DE -RI       -W
+\ge dist.qual      =ptl bicycle.R -ep-ins sled      -vr -impf.ptc -acc
+
+\ft And as he was riding he met a girl riding a bike just like (him).
+\ru И вот когда ехал, он девочку встретил, так-же на велике едущую.
+
+\id Solodikova_RM_pear_story09
+\ref 2:02
+\tx Ńan   eːsečidmi                         ńan
+\mb ńaːn eːse       -Č  -E-D     -mI       ńaːn
+\ge again  turn.around -res -ep-prog -cond.cvb again
+
+\tx dilurin,                       tar  dʒọlla
+\mb dilu            -RI  -n(I)     tar  dʒọl -(dU)LE
+\ge upustit'.moment -pst -poss.3sg thus stone   -loc
+
+\tx naːdidʒi,   kumerkinnin.
+\mb naː -RIdʒI  kumerkin -RI  -n(I)
+\ge hit  -ant.cvb tip.over -pst -poss.3sg
+
+\ft But turning around he upustil moment hit a stone and tipped
+over.
+\ru Но оглядываясь он упустил момент и ударившись об камень,
+перевернулся.
+
+\id Solodikova_RM_pear_story10
+\ref 2:10
+\tx Čeledʒi          ńan   uŋen
+\mb čele -DʒI        ńaːn uŋ       -E-n(I)
+\ge all   -ins.prfl.sg again  something -ep-poss.3sg
+
+\tx oŋkeptin                 grušaŋịlnị             ejdu,
+\mb oŋke -B   -RI  -n(I)     gruša -ŋ  -E-L   -n(I)     ejdu
+\ge pour  -med -pst -poss.3sg pear.R -aln -ep-pl -poss.3sg all
+
+\tx ukellin              ča... uŋni.
+\mb ukel      -RI  -n(I)        uŋni
+\ge roll.away -pst -poss.3sg    over.there
+
+\ft All his pears poured out and rolled everywhere.
+\ru Все его груши высыпались и укатились.
+\ph ʊŋkeptin
+
+\id Solodikova_RM_pear_story11
+\ref 2:21
+\tx Ńan   čakịsčịdʒịllakan
+\mb ńaːn čak   -E-sčI   -D    -E-L     -REk      -E-n(I)
+\ge again  gather -ep-conat -prog -ep-inch -cond.cvb -ep-poss.3sg
+
+\tx ńan   ịamị ńarịkakar       gịrkarịtan         deːpki,
+\mb ńaːn ịamị ńarị -kEkEn -L  gịrka -RI  -tEn      deːpki
+\ge again  why      boy     -dim   -pl walk    -pst -poss.3pl opposite
+
+\tx belidʒilliten                        ńan   taraw
+\mb bel  -E-D     -E-L     -RI  -tEn      ńaːn tarak -W
+\ge help -ep-prog -ep-inch -pst -poss.3pl again  dist  -acc
+
+\tx čakrịdʒụr     čelewen                alladịnda
+\mb čak   -RIdʒI  -L  čele -W   -E-n(I)      alladịn =DE
+\ge gather -ant.cvb -pl all   -acc -ep-poss.3sg properly  =ptl
+
+\tx ńanda      velosipedlan
+\mb ńaːn =DE  velosiped -(dU)LE -n(I)
+\ge again  =ptl bicycle.R -loc    -poss.3sg
+
+\tx teːwriten,             ńan   ńarịjakan   orrin.
+\mb teːw    -RI  -tEn      ńaːn ńarị -jEkEn hor -RI  -n(I)
+\ge put.down -pst -poss.3pl and    boy     -dim   go  -pst -poss.3sg
+
+\ft And when he began to try and gather (the pears), boys walked his
+way, they started to help and having gathered them all, put them
+on his bike properly, and the boy left.
+\ru И вот когда он стал пытаться собирать, мальчишки шли
+навстречу, стали ему помогать и все это собрав,  как следует
+опять поставили на его велосипед, и вот мальчишка уехал.
+\ph ʊrrin
+\gr ńan ịamị= i vot;
+
+\id Solodikova_RM_pear_story12
+\ref 2:41
+\tx Gịrkadmị            ńan   bakrịtan          tar
+\mb gịrka -D    -mI       ńaːn bak  -RI  -tEn      tarak
+\ge walk    -prog -cond.cvb again  find -pst -poss.3pl dist
+
+\tx šljapajị      tikewčewen.
+\mb šljapa -J       tikew -čE    -W   -E-n(I)
+\ge hat.R   -prfl.sg drop  -pf.ptc -acc -ep-poss.3sg
+
+\ft And walking they found that one's hat which he'd dropped.
+\ru И идя они нашли шляпу того, которую он уронил.
+\ph sljapajị
+
+\id Solodikova_RM_pear_story13
+\ref 2:46
+\tx Ńan   eːriridʒur       [stammers] gịatan    ńan
+\mb ńaːn eːri -RIdʒI  -L  stammers   gịa  -tEn ńaːn
+\ge again  call  -ant.cvb -pl stammers   friend -poss.again
+
+\tx ŋenurin                  taraw      awman.
+\mb ŋen -U    -RI  -n(I)     tarak -W   awman
+\ge go   -caus -pst -poss.3sg dist  -acc hat.acc.3sg
+
+\ft They called him and their friend brought him that hat of his.
+\ru И они окликнув его, их товарищ понес вот эту его шапку.
+\ph gịakan
+\gr awụn = hat, awụnnị = his hat (hat.poss.3sg), awman =
+hat.acc.3sg, ego šapku
+\nt
+
+\id Solodikova_RM_pear_story14
+\ref 2:53
+\tx Ńan   tar   ńarịjakan   ńan   uŋnin
+\mb ńaːn tarak ńarị -jEkEn ńaːn uŋ -RI  -n(I)
+\ge again  dist  boy     -dim   again  do  -pst -poss.3sg
+
+\tx tojrin                  tarịl      kụŋakajakar
+\mb toj      -RI  -n(I)     tarak -E-L   kụŋa -KEn     -jEkEn -L
+\ge ugostit' -pst -poss.3sg dist  -ep-pl child   -dim.int -dim   -pl
+
+\tx uŋititte              tarịt    tarị
+\mb uŋ       -E=tIt  =DE  tarak -Č  tar
+\ge something -ep=ptl =ptl dist  -ins thus
+
+\tx debdeten                  grušaw     boːrin.
+\mb dʒeb -DE       -tEn      gruša -W   boː -RI  -n(I)
+\ge eat   -purp.cvb -poss.3pl pear.R -acc give -pst -poss.3sg
+
+\ft And that boy ugostil those kids, he gave them a pear to eat.
+\ru И вот мальчишка сделал, угостил тем мальчишкам-хулиганам
+этими грушами, чтобы они съели грушу дал
+\ph tujrin buːrin
+\gr kụŋakakan = xorošij mal'čišečka, kụŋakajakan = xuliganistyj
+mal'čiška
+
+\id Solodikova_RM_pear_story15
+\ref 3:06
+\tx Tarak ńan   dʒaːlnụmị        bọrịtmattịn.
+\mb tarak ńaːn dʒaːl -ńUn -J       bọrịt -mEČ -RI  -n(I)
+\ge dist  again  friends -com  -prfl.sg share     -rec  -pst -poss.3sg
+\ft That one shared with his friends.
+\ru И вот тот с друзьями поделился.
+
+\id Solodikova_RM_pear_story16
+\ref 3:11
+\tx Ńan   časkị         urriten.
+\mb ńaːn čaːg -skI      hor -RI   -tEn
+\ge again  far    -advb.all go  -pst  -poss.3pl
+
+\ft And they went on.
+\ru Дальше поехали.
+\ph ʊrriten
+
+\id Solodikova_RM_pear_story17
+\ref 3:15
+\tx Bejkeje     ńan   tačịn       tar  čakrịdʒị  ńan
+\mb bej -kEːjE ńaːn tarọːčịn tar  čak   -RIdʒI  ńaːn
+\ge man -aug    again  dist.qual      thus gather -ant.cvb again
+
+\tx nelleji                ewrin                  tar
+\mb nel   -(dU)LE -J       ew      -RI  -n(I)     tarak
+\ge apron -loc    -prfl.sg go.down -pst -poss.3sg dist
+
+\tx tọkarandụlị ičiddin                    ịamị
+\mb tọkaran -(dU)LI it  -E-D     -RI  -n(I)     ịamị
+\ge ladder    -prol   see -ep-prog -pst -poss.3sg why
+
+\tx umente         uŋen                  alịːkan
+\mb omen =t(E)     uŋ       -E-n(I)      alịːk -E-n(I)
+\ge one  =utočnit something -ep-poss.3sg dish     -ep-poss.3sg
+
+\tx dọːlkan,    gịaŋan               ač dọːla.
+\mb dọː   -lkEn gịa -ŋ  -E-n(I)      ač dọː   -LE
+\ge contents -prop next  -aln -ep-poss.3sg neg contents -prv
+
+\ft And the man picked (pears) in that way, in his apron, and he went
+down that ladder and saw why, only one of his dishes is full (with
+contents), the next one is empty.
+\ru И мужчина собрав вот так в фартук, слез так по леснице, увидел
+почему одна лишь посуда полная, а вторая пустая.
+\ph ʊmente
+
+\id Solodikova_RM_pear_story18
+\ref 3:35
+\tx Mịaŋčịdʒịllịn,
+\mb mịan       -(k)čI -D    -E-L     -RI -n(I)
+\ge be.surprised -dur    -prog -ep-inch -pst -poss.3sg
+
+\tx awụskị      ńan   tarak uŋen
+\mb aw    -skI      ńaːn tarak uŋ       -E-n(I)
+\ge where -advb.all again  dist  something -ep-poss.3sg
+
+\tx gịaŋan               ńan   urrin
+\mb gịa -ŋ  -E-n(I)      ńaːn hor  -RI  -n(I)
+\ge next  -aln -ep-poss.3sg again  go   -pst -poss.3sg
+
+\tx uŋeŋen                       tar
+\mb uŋ       -E-ŋ   -E-n(I)      tarak
+\ge something -ep-aln -ep-poss.3sg dist
+
+\tx čakčalni                   tar   uŋi
+\mb čak   -čE    -L  -n(I)     tarak uŋ       -n(I)
+\ge gather -pf.ptc -pl -poss.3sg dist  something -poss.3sg
+
+\tx tewličelni.
+\mb tewte   -lI -čE -L     -n(I)
+\ge berries -vr -pf.ptc -pl -poss.3sg
+
+\ft He was surprised, where did that go, those which he had gathered,
+those which he had picked.
+\ru Стал удивляться, куда вторая подевалась его вот, то что он
+собрал, ягоды насобирал.
+\ph ʊrrin
+
+\id Solodikova_RM_pear_story19
+\ref 3:50
+\tx Tačịn       tar  uŋiddeken                          ịamị
+\mb tarọːčịn tar  uŋ -E-D     -REk      -E-n(I)      ịamị
+\ge dist.qual      thus do  -ep-prog -cond.cvb -ep-poss.3sg why
+
+\tx ńarịkakar       gịrkar            [stammers]
+\mb ńarị -kEkEn -L  gịrka -R(E)       stammers
+\ge boy     -dim   -pl walk    -nonfut.3pl stammers
+
+\tx ńarịjakar       debniker           taraw      tar
+\mb ńarị -jEkEn -L  dʒeb -nIkEn   -L  tarak -W   tarak
+\ge boy     -dim   -pl eat   -sim.cvb -pl dist  -acc dist
+
+\tx gịawụr      tar   tojčewen
+\mb gịa  -WUr     tarak toj      -čE    -W   -E-n(I)
+\ge friend -prfl.pl dist  ugostit' -pf.ptc -acc -ep-poss.3sg
+
+\tx uŋi               kojeːttin.
+\mb uŋ       -J       kojeːt -RI  -n(I)
+\ge something -prfl.sg look.at -pst -poss.3sg  
+
+\ft And while he was doing that (i.e. while he was wondering where
+his pears had gone) for some reason the boys walk by, the boys
+eating that which their friend had given them.
+\ph
+\gr 31.01.13 (questions9, 19:45) ńarịkakar = prosto malchiki
+kakie-nibudj; ńarịjakar = vot eti malchiki
+\ru И вот так пока он делал, и вот мальчишки идут, мальчишки
+кушая то, что их друг угостил, (и он) увидел свое (свои груши)ю
+\gr From the intonation pattern, the first phrase from the next
+sentence belongs with this sentence, but from the syntax it belongs
+to the next.
+
+\id Solodikova_RM_pear_story20
+\ref 4:00
+\tx Ńan   tarak bejkeje     mịaŋčịngal
+\mb ńaːn tarak bej -kEːjE mịan       -(k)čI -n(I) =gEl
+\ge and    dist  man -aug    be.surprised -dur    -3sg  =coord
+
+\tx ńan   mịaŋčịnịkan,          ńan   dʒaːwụl kụŋal
+\mb ńaːn mịan       -(k)čI -nIkEn   ńaːn d'javol.R   kụŋa -L
+\ge and    be.surprised -dur    -sim.cvb again  devilish.R  child   -pl
+
+\tx ńan   časkị         ńan   urriten            ịkụtịč,
+\mb ńaːn čaːg -skI      ńaːn hor -RI  -tEn      ịkụt -E-Č
+\ge again  far    -advb.all again  go  -pst -poss.3pl straight -ep-ins
+
+\tx ịak nọŋartan gurgeːten.
+\mb ịak nọŋartan gurgeː -tEn
+\ge what  3pl         work    -poss.3pl
+
+\ft And this man wonders and wonders, and the devilish kids walked
+on their, it's no problem of theirs.
+\ru И вот этот мужчина удивляясь удивляется, и дьявольские дети
+пошли дальше своей дорогой, какое их дело.
+\ph ʊrriten  gurgeten (short vowels)

@@ -1,0 +1,335 @@
+\_sh v3.0  1088 Text
+
+\id Stepanov_AA_his_life_000_metadata
+\ref Recorded on 12 March 2008 in Sebjan-Küöl by Brigitte Pakendorf in the kitchen of his house, with his little grandson
+present – occasional sounds of the grandson banging a bowl of cookies on the table, riding his little bike, and Afanasij
+Afanas’evič was playing with some sort of instrument and also occasionally knocked that on the table. BP was the only
+one present. One recording, but cut out little narratives in Even into individual files.
+\qu Transcribed by BP, Russian translation with Ija Krivoshapkina, glossed by BP. Funding by Max Planck Society (MPRG on Comparative
+Population Linguistics). Speaker abbreviation = AAS
+\ref Afanasij Afanas'evič was 56 years old at the time of recording, used to be a reindeer herder, then glava of the village, owned one of
+the shops in the village at the time of recording. Brother of Zoja Afanas'evna Stepanova.
+
+\id Stepanov_AA_his_life_01
+\ref 0:01
+\tx Kučuken bihiŋij              biː mịan tụŋŋan anŋanịlaj            dïlï  eninčel,    amančal,
+\mb kučuke  bi -ŋsI     -J       biː mịan tụnŋan  anŋan -(dU)LE -J       dïlï  enen   -čEl aman   -čEl
+\ge small    be -impf.cvb -prfl.sg 1sg  ten    five       year   -loc    -prfl.sg until.Y mother -com  father -com
+
+\tx dʒaːlčal        školaw       mụdakmị,      maj   ịlaːn ọdọntọkọn  domŋele
+\mb dʒaː   -L  -čEl škola   -W   mụdak -mI       maj   ịlaːn ọd -E  -ntEkEn   doːmŋe -(dU)LE
+\ge relative -pl -com  school.R -acc finish  -cond.cvb May.R month    stop -ep -mult.cvb taiga    -loc
+
+\tx hergereriw.
+\mb hor -Gr(E) -RI  -W
+\ge go  -hab   -pst -poss.1sg
+\ft When I was small, I used to go to the taiga with my mother, my father, my relatives when I finished school, at the end of
+May.
+\ru Когда я был маленьким, я до 15.и лет с матерью с отцом с родными закончив школу, когда заканчивался май месяц,
+уезжал в тайгу.
+\ph the Accusative case ending on škola is not very audible at all; mụdọkmị
+\gr Ija says he said ọdọddọkọn and translated it like this, ọdọntọkọn would be "mnogo raz zakanchivaja" - however, to my
+ears it definitely sounds like odoNTokon; the form "bihiŋij" is obviously the Imperfective converb with the metathesis that
+is usual here, Ija said that some say bihŋiw, for example, and in this case (and the way Ija says it) we have the insertion of
+an epenthetic vowel
+
+\id Stepanov_AA_his_life_02
+\ref 0:17
+\tx Domŋele         gerbe tar   stado, naprimer      axsïs   stadodu     mut    họː gọr
+\mb doːmŋe -(dU)LE gerbe tarak stado  naprimer      axsïs   stado  -DU  mut    họː gọrụ
+\ge taiga    -loc    name  dist  herd.R for.example.R eighth.Y herd.R -dat 1pl.in very   far
+
+\tx bihit                adịda,      ee biː tọxsụs klahu        mụdakrịlaw                      dïlï
+\mb bi -RI  -t(I)        adị    =DE  ee biː tọxsụs klas    -W   mụdak -RI       -(dU)LE -W        dïlï
+\ge be -pst -poss.1pl.in how.much =ptl eh 1sg  ninth.Y    grade.R -acc finish  -impf.ptc -loc    -poss.1sg until.Y
+
+\tx ịstala.
+\mb ịstala
+\ge until
+
+\ft To the taiga that means the reindeer herd, for example we were in the eighth herd for a long time, several... until I
+finished ninth grade.
+\ru В тайге это значит стадо, например в 8-м стаде мы были очень долго, несколько... до моего окончания 9-го класса.
+\ph mụdaklịraw
+\gr
+\nt
+
+\id Stepanov_AA_his_life_03
+\ref 0:33
+\tx Tarbač        biː mịan tụŋŋan anŋanịlaj            ịstala kuruk     stadola
+\mb tarọːčịn biː mịan tụnŋan  anŋan -(dU)LE -J       ịstala kuruk     stado  -(dU)LE
+\ge dist.qual      1sg  ten    five       year   -loc    -prfl.sg until    always.Y. herd.R -loc
+
+\tx dʒaːlčal        biweːttiw.
+\mb dʒaː   -L  -čEl bi -WEːČ   -RI  -W
+\ge relative -pl -com  be -gnr      -pst -poss.1sg
+
+\ft In that way I always went to the herd with my family until I was 15.
+\ru Таким образом я до 15.и лет постоянно ездил в стадо с родными.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_his_life_04
+\ref 0:40
+\tx Mịan tụŋŋan anŋanị amardadụkụn                biː... tarakam       ele          dʒapkan
+\mb mịan tụnŋan  anŋan    amar   -gIdE -DUk(U) -n(I)     biː    tarakam       erek -(dU)LE dʒapkan
+\ge ten    five       year      behind -part -abl    -poss.3sg 1sg     in.those.days prox -loc    eight
+
+\tx klahịlkan       škola   bihin,            ujun klasdu       vot    Sangardụ
+\mb klas    -E  -lkEn škola   bi -RI  -n(I)     ujun klas    -DU  vot    Sangar -DU
+\ge grade.R -ep -prop school.R be -pst -poss.3sg nine grade.R -dat here.R Sangar -dat
+
+\tx üörenit,                tattịt,               to     est'.
+\mb üören -RI  -t(I)        tat   -RI  -t(I)        to     est'
+\ge study.Y -pst -poss.1pl.in learn -pst -poss.1pl.in that.R is.R
+
+\ft After turning 15 I .... in those days the school here only had 8 grades, for the ninth grade we studied in Sangar.
+\ru После 15.и лет я ... Тогда здесь была школа с 8-ью классами, в 9-ом классе мы учились в Сангарах.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_his_life_05
+\ref 0:57
+\tx Tarbač      tarị tarda      bimi         Sangarduk      emnidʒi      irildu      himbiːr       amandụlaj
+\mb tarbač      tar    tarak =DE  bi -mI       Sangar -DUk(U) em   -RIdʒI  ireli  -DU  himbiːr       aman   -(dU)LE -J
+\ge in.that.case thus   dist  =ptl be -cond.cvb Sangar -abl    come -ant.cvb summer -dat all.the.same.Y father -loc    -prfl.sg
+
+\tx toːdniken,     tarakam       uže      ejmu             ačča bihin,            amandụlaj
+\mb toːdi -nIkEn   tarakam       uže      enen   -W        ačča bi -RI  -n(I)     aman   -(dU)LE -J
+\ge help   -sim.cvb in.those.days already.R mother -poss.1sg neg    be -pst -poss.3sg father -loc    -prfl.sg
+
+\tx toːdniken      amančal     stadadu     gurgeːwčiriw.
+\mb toːdi -nIkEn   aman   -čEl stado  -DU  gurgeːwči -RI  -W
+\ge help   -sim.cvb father -com  herd.R -dat work        -pst -poss.1sg
+
+\ft Even though it was like that (i.e. even though he went to school in Sangar) in summer I still came and helped my father,
+in those days my mother had already died, helping my father I worked in the herd.
+\ru Хоть и было так (хоть в Сангаре учился) приехав из Сангара, летом я все равно помогая отцу, тогда моей матери уже
+не было, помогая отцу вместе с отцом работал в стаде.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_his_life_06
+\ref 1:12
+\tx Stadodu     gurgeːwčiridʒi    mịan dʒapkan anŋanị ọːčalan                      Sovietskaj
+\mb stado  -DU  gurgeːwči -RIdʒI  mịan dʒapkan anŋan    ọː  -čE    -(dU)LE -n(I)     sovetskij
+\ge herd.R -dat work        -ant.cvb ten    eight    year      become -pf.ptc -loc    -poss.3sg Soviet.R
+
+\tx Armịjala       službala         ŋaːttịdnan.
+\mb armija.R -(dU)LE služba   -(dU)LE ŋaːt -RI -tEn
+\ge army.R   -loc    service.R -loc    call   -pst -poss.3pl
+
+\ft Having worked in the herd, when I turned 18 they called me to serve in the Soviet Army.
+\ru Отработав в стаде когда мне стало 18 лет, призвали на службу в Советскую Армию.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_his_life_07
+\ref 1:22
+\tx Tarbač        biː radiotexničeskaj vojskadu      službalariw,                radiotelegrafist
+\mb tarọːčịn biː radiotexničeskij vojska   -DU  služba   -LE -RI  -W        radiotelegrafist
+\ge dist.qual      1sg  radio.technical.R forces.R -dat service.R -vr -pst -poss.1sg radio.operator.R
+
+\tx bihiw,            pervyj  klasdu       dʒabukanịw,                  ekzamem.
+\mb bi -RI  -W        pervyj  klas    -DU  dʒaw      -WkEn -RI  -W        ekzamen -W
+\ge be -pst -poss.1sg first.R grade.R -dat catch.hold -caus -pst -poss.1sg exam.R  -acc
+\ft In that way I served in the radio-technical forces, I was a radio-telegrapher, I finished the exam with a first grade mark.
+\ru Таким образом я служил в радиотехнический войсках, был радиотелеграфистом, сдал экзамен на первый клас.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_his_life_08
+\ref 1:32
+\tx Uonna dʒoːr mịar     anŋanịdị,      uonna goːhenteken           dʒoːr mịar
+\mb uonna dʒoːr mịan -L  anŋan -DI          uonna goːn -s(E)n -ntEkEn   dʒoːr mịan -L
+\ge and.Y two     ten    -pl year   -dat.prfl.sg and.Y say   -lim   -mult.cvb two     ten    -pl
+
+\tx anŋanịdị       biː dʒụːlaj               ele          mụčụrịw,          Sebjandule.
+\mb anŋan -DI          biː dʒụː -(dU)LE -J       erek -(dU)LE mụčụ -RI  -W        Sebjan -(dU)LE
+\ge year   -dat.prfl.sg 1sg  house    -loc    -prfl.sg prox -loc    return    -pst -poss.1sg Sebjan -loc
+
+\ft And when I was 20, I said "uonna" (a Sakha conjunction - laughs a bit), when I was 20 I returned home, here, to Sebjan.
+\ru И в 20 лет, говоря уонна, в 20 лет я вернулся сюда домой, в Себян.
+\ph
+\gr goːhenteken = lit. "pogavarivaja"
+\nt
+
+\id Stepanov_AA_his_life_09
+\ref 1:44
+\tx Tarda      bimi         otton biː, sovxoz        Kirovskaj gerbe bihin,
+\mb tarak =DE  bi -mI       otton biː  sovxoz        Kirovskij gerbe bi -RI  -n(I)
+\ge dist  =ptl be -cond.cvb dp.Y  1sg   soviet.farm.R Kirovskij name  be -pst -poss.3sg
+
+\tx olenovodčeskaj,   tala          gurgeːwčiriw,            olenovodat.
+\mb olenovodčeskij    tarak -(dU)LE gurgeːwči -RI  -W        olenovod          -E  -Č
+\ge reindeer.herding.R dist  -loc    work        -pst -poss.1sg reindeer.herder.R -ep -ins
+\ft Even though it was like that (i.e. he probably meant that even though he was a trained radio-telegraph specialist), there
+was a state farm called Kirovskij, a reindeer herding state farm, there I worked as a reindeer herder.
+\ru Хоть и было так (радиотелеграфистом был) я - был совхоз Кироский оленоводческий, там работал, оленоводом.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_his_life_10
+\ref 1:57
+\tx Teːmi    ọrọlčịmŋaw       gurgewen                  họː ajịč      haːram.
+\mb teːmi    ọrọlčị -mŋE -W   gurgeː -W   -E-n(I)      họː aj   -E-Č   haː -R(E)   -m
+\ge therefore herd.reindeer -agnr -acc work    -acc -ep-poss.3sg very   good -ep-ins know -nonfut -1sg
+\ft Therefore I know the work of a reindeer herder very well.
+\ru Поэтому рабботу оленовода очень хорошо знаю.
+\ph
+\gr he says ọrọlčịmŋaw gurgewen, but the Accusative case marking on the "reindeer herder" is a slip of the tongue, that
+should be in the Nominative case
+\nt
+
+\id Stepanov_AA_his_life_11
+\ref 2:05
+\tx Onton  biː gurgedʒi            er... Hebendule      gurge   bekebbende
+\mb onton  biː gurgeː -DʒI        erek  Sebjan -(dU)LE gurgeː bekeč -W   -E-n(I)      =DE
+\ge then.Y 1sg  work    -ins.prfl.sg prox  Sebjan -loc    work    all    -acc -ep-poss.3sg =ptl
+
+\tx gurgeːwčiriw,            gramotalbi                 igin  itmi.
+\mb gurgeːwči -RI  -W        gramota       -L  -J       iŋin it  -mI
+\ge work        -pst -poss.1sg certificate.R -pl -prfl.sg etc.Y see -cond.cvb
+
+\ft Well, and here in Sebjan I worked in all kinds of work, if you look at my certificates (of merit).
+\ru Ну я по работе вот в Себяне проработал на всех работах, если посмотреть на свои грамоты.
+\ph it definitely sounds as if he says "gramotalbi iŋil itmi" - perhaps he meant to have a Plural marker on "iŋin"?
+\nt since in ConverbsComplex2.23 Keti gave beketben, I think one can safely assume that bekebben(de) is the assimilated
+version of bekečben --> beketben --> bekebben
+
+\id Stepanov_AA_his_life_12
+\ref 2:16
+\tx Nahaː keńelit     eču               gurgeːwčir         bihem           uručen,  tarbač      ujum mịar
+\mb nahaː keńeli -Č  e   -RI  -W        gurgeːwči -R       bi -R(E)   -m   ureːčin tarbač      ujun mịan -L
+\ge very.Y bad     -ins neg -pst -poss.1sg work        -neg.cvb be -nonfut -1sg it.seems  in.that.case nine ten    -pl
+
+\tx anŋanịldụ     erek nehiliektu    glavat      üleleːriw.
+\mb anŋan -E-L   -DU  erek nehiliek -DU  glava  -Č  üleleː -RI  -W
+\ge year   -ep-pl -dat prox nasleg.Y -dat head.R -ins work.Y   -pst -poss.1sg
+\ft I didn't work too badly, it seems, so in the 1990s I worked in this nasleg as the head (of administration).
+\ru Кажется я не очень плохо работал, таким образом в 90х годах в этом наслеге работал главой.
+\ph
+\gr
+\nt
+\qu
+
+\id Stepanov_AA_his_life_13
+\ref 2:29
+\tx Ujum mịar     dʒoːr anŋanịdụ malaj   predprijatie gerbel
+\mb ujun mịan -L  dʒoːr anŋan -DU    maloe   predprijatie gerbe -L
+\ge nine ten    -pl two     year   -dat   small.R business.R   name  -pl
+
+\tx aːŋawaddakadnan,                            biː nọnap    udu       aːŋarịw,          pantịw
+\mb aːŋa -W     -E-D     -REk      -E-tEn       biː nọnap    erek -DU  aːŋa -RI  -W        pantị -W
+\ge open   -advrs -ep-prog -cond.cvb -ep-poss.3pl 1sg  the.first. prox -dat open   -pst -poss.1sg panty   -acc
+
+\tx ọlgịkkararịt                 uonna kụčụkan magazilkan    bihit,               bihiw.
+\mb ọlgịt -Gr(E) -RI  -t(I)        uonna kụčụkan magazin -lkEn bi -RI  -t(I)        bi -RI  -W
+\ge dry       -hab   -pst -poss.1pl.in and.Y small        shop.R  -prop be -pst -poss.1pl.in be -pst -poss.1sg
+
+\ft When in the year '92 the first so-called "small businesses" opened up I was the first to open (one) here, we dried panty
+(newly-grown reindeer horns) and we, I had a small shop.
+\ru Когда в 92.м году открылись малые предприятия, я первым здесь открыл, сушили панты и у нас , у меня был
+маленький магазин.
+\ph maγazilkan
+\gr
+\nt
+
+\id Stepanov_AA_his_life_14
+\ref 2:47
+\tx Tarbač      tarịt gurgetukuj               biː minu         glavat      gurgeːwčiri        goːniken
+\mb tarbač      tarịt gurgeː -DUk(U) -J       biː min     -W   glava  -Č  gurgeːwči -LI      goːn -nIkEn
+\ge in.that.case then    work    -abl    -prfl.sg 1sg  1sg.obl -acc head.R -ins work        -imp.2sg say   -sim.cvb
+
+\tx ịlụrịdnan.
+\mb ịl     -U    -RI  -tEn
+\ge stand.up -caus -pst -poss.3pl
+
+\ft So then from my work they appointed me head (lit. "saying you work as head").
+\ru Таким образом потом со своей работы я... меня поставили главой.
+\ph
+\gr
+\nt The Ablative case-marked noun can give a meaning of "taking him from that work they appointed him glava" and also
+"because he worked well, iz-za raboty, they appointed him glava". The video ends with this sentence, because the tape ran
+out.
+
+\id Stepanov_AA_his_life_15
+\ref 2:57
+\tx Glavat      gurgeːwčiridʒi    meːn ọnnụdị          noste ọmọlgọw,  nosegčen ọmọlgọw
+\mb glava  -Č  gurgeːwči -RIdʒI  meːn ọnnụ -DI          noste ọmọlga -W   nosegčen ọmọlga -W
+\ge head.R -ins work        -ant.cvb refl  place.Y  -dat.prfl.sg young boy        -acc young     boy        -acc
+
+\tx tatukanịkan,       tarị[t] meːn ọnnụdị          nọŋman               emeːniw.
+\mb tat   -WkEn -nIkEn   tarịt   meːn ọnnụ -DI          nọŋan -W   -n(I)     emeːn -RI  -W
+\ge learn -caus -sim.cvb then      refl  place.Y  -dat.prfl.sg 3sg      -acc -poss.3sg leave  -pst -poss.1sg
+
+\ft After having worked as the head (of administration) in my place I left a young man (lit. boy), I left him in my place after
+having taught him.
+\ru Проработав главой, вместо себя оставил молодого парня проучив, потом вместо себя оставил его.
+\ph
+
+\id Stepanov_AA_his_life_16
+\ref 3:11
+\tx Tarịt glavat      ülej           mụdaktịdʒị biː emie   meːn magaziŋaj                aːŋarịdʒị,
+\mb tarịt glava  -Č  üle   -J       mụdak -RIdʒI   biː emie   meːn magazin -E       -J       aːŋa -RIdʒI
+\ge then    head.R -ins work.Y -prfl.sg finish  -ant.cvb  1sg  also.Y refl  shop.R  -ep -prfl.sg open   -ant.cvb
+
+\tx magazin, magazin, magazindu    gurgeːwčirem.
+\mb magazin  magazin  magazin -DU  gurgeːwči -R(E) -m
+\ge shop.R   shop.R   shop.R  -dat work        -nonfut -1sg
+
+\ft Then after I finished working as head I also opened up my own shop, I work in the shop.
+\ph
+\gr magaziŋaj aːŋarịdʒị = lit. opened a shop for myself
+\ru Потом закончив работу главы, я тоже открыв себе магазин, работаю в магазине.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_his_life_17
+\ref 3:27
+\tx Biː selu             tar   magazindu    họːja xarčịw     maːdaj                 goːmi
+\mb biː cel    -W        tarak magazin -DU  họːja xarčị -W   maː -DE       -J       goːn -mI
+\ge 1sg  goal.R -poss.1sg dist  shop.R  -dat many     money.Y  -acc kill -purp.cvb -prfl.sg say   -cond.cvb
+
+\tx ehni              bihe.
+\mb e   -R(E)   -n(I) bi -R
+\ge neg -nonfut -3sg  be -neg.cvb
+\ft My goal is not to earn a lot of money in that shop.
+\ru Моей целью не является заработать много денег в этом магазине.
+\ph
+\gr note the calque from Russian via Sakha, or is it directly from Russian? In Sakha they also say "ölör" for 'to make money',
+and I think for LWT we decided that was a calque from Russian
+
+\id Stepanov_AA_his_life_18
+\ref 3:35
+\tx Er   nehiliektu    konkurent gerbe, konkurencijaw     ọːdaj,                 ele
+\mb erek nehiliek -DU  konkurent gerbe  konkurencija -W   ọː  -DE       -J       erek -(dU)LE
+\ge prox nasleg.Y -dat rival.R   name   rivalry.R    -acc become -purp.cvb -prfl.sg prox -loc
+
+\tx emnib               honte bụktụk    emče        bejel,     ńụčalda       bihe,
+\mb em   -RI       -W   honte bụg -DUk(U) em   -čE    bej -E-L   ńụča -L  =DE  bi -R(E)
+\ge come -impf.ptc -acc other place -abl    come -pf.ptc man -ep-pl Russian  -pl =ptl be -nonfut.3pl
+
+\tx hontelde       bihe,          taral        cenalbudnan                konkurencijaw,    konkurencijaw
+\mb honte -L  =DE  bi -R(E)       tarak -E-L   cena    -L  -W   -tEn      konkurencija -W   konkurencija -W
+\ge other -pl =ptl be -nonfut.3pl dist  -ep-pl price.R -pl -acc -poss.3pl rivalry.R    -acc rivalry.R    -acc
+
+\tx ọːnịkan,   konkurent biniken     nọŋartan cenalbudnan                hergehki
+\mb ọː  -nIkEn   konkurent bi -nIkEn   nọŋartan cena    -L  -W   -tEn      hergi  -skI
+\ge become -sim.cvb rival.R   be -sim.cvb 3pl         price.R -pl -acc -poss.3pl bottom -advb.all
+
+\tx tipkeniken          gurgeːwčiriw.
+\mb tik  -WkEn -nIkEn   gurgeːwči -RI  -W
+\ge fall -caus -sim.cvb work        -pst -poss.1sg
+\ft I worked in order to provide some competition in this nasleg for those who come from elsewhere, there are Russians and
+there are others, providing competition for their prices, being a competitor I worked lowering their prices.
+\ru Я работал чтобы делать в этом наслеге конкуренцию, приезжающих сюда, приехавших из других мест есть русские, и
+другие есть, делая на их цены конкуренцию, являясь конкурентом, снижая вниз их цены.
+\ph

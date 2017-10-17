@@ -1,0 +1,604 @@
+\_sh v3.0  400  Text
+
+\id ConverbsPerception3.2
+\ref elicited with Ekaterina Shadrina 19.02.08; sebjan190208_1:03:23
+\tx Ajuka      itteku                  kotlekken    bejkeken   tọw
+\mb ajuka      it  -DE       -W        kotlen -kkEn bej -kEkEn tọg
+\ge suddenly.Y see -purp.cvb -poss.1sg small  -dim  man -dim   fire
+
+\tx čawdadụkụn             hieriwen.
+\mb čawda    -DUk(U) -n(I)     hie    -RI       -W   -E-n(I)
+\ge back.part -abl    -poss.3sg appear -impf.ptc -acc -ep-poss.3sg
+\ru Вдруг я увидел, как один маленький человек появился из-за печи.
+\ph taw (with a as in Arhus)
+\gr I at first analyzed "itteku" as the Conditional Converb -REk, which has the same form; but I think it makes more sense
+that this is the Hortative1SG/Purposive Converb, as in "davaj ja uvizhu", cf. Anna Egorovna Krivoshapkina049
+\nt At first she only said "kotlen bejkeken", but when I repeated the sentence to her she wanted "kotlekken"
+\qu
+\nt On 20.02.08 she translated the above sentence as "Vdrug vižu, kak malen'kij čeloveček pojavilsja iz-za peči.", as if the
+form "itteku" was a finite verb. But she also gave the following (sebjan200208_22:23):
+\tx Hobelčeri         bejilbu         itteku                  biː neːgiwrerem.
+\mb hobelče -RI       bej -E-L   -W   it  -REk      -W        biː neːgi -Gr(E) -R(E)   -m
+\ge drunk    -impf.ptc man -ep-pl -acc see -cond.cvb -poss.1sg 1sg  scold  -hab   -nonfut -1sg
+\ru Когда я вижу пьяных, я их ругаю.
+\ph
+\nt sebjan040308_keti_13:00
+\tx Ammụ           tamam        boːrin             biː šubaŋgaj                      gadakụ.
+\mb aman   -W        taman   -W   boː -RI  -n(I)     biː šuba      -ŋ  -GE    -J       ga   -DE       -W
+\ge father -poss.1sg payment -acc give -pst -poss.3sg 1sg  fur.coat.R -aln -desig -prfl.sg take -purp.cvb -poss.1sg
+\ru Отец мне дал деньги, чтобы я купила (новую) шубу.
+\ph at first said gadụkụ
+\tx Etikeŋu                Parižla       minu         horurin                  biː NotreDamu
+\mb etikeːn -ŋ  -W        Pariž -(dU)LE min     -W   hor -U    -RI  -n(I)     biː NotreDam   -W
+\ge old.man  -aln -poss.1sg Paris  -loc    1sg.obl -acc go  -caus -pst -poss.3sg 1sg  Notre-Dame -acc
+
+\tx itteku                  goːniken.
+\mb it  -DE       -W        goːn -nIkEn
+\ge see -purp.cvb -poss.1sg say   -sim.cvb
+\ru Муж меня повез в Париж чтобы я видела Нотре-Дам.
+
+\id Kejmetinova_TV_family_002
+\ref 0:10; Taisija Vasil'evna Kejmetinova
+\tx Ebedit          torerekes                    hiː, nọŋan tar   mut    ebedit          toreriwut
+\mb ewen -DI   -Č  tore  -REk      -E-s(I)      hiː  nọŋan tarak mut    ewen -DI   -Č  tore  -RI       -W   -t(I)
+\ge Even -adjr -ins speak -cond.cvb -ep-poss.2sg 2sg   3sg      dist  1pl.in Even -adjr -ins speak -impf.ptc -acc -poss.1pl.in
+
+\tx alačaddan.
+\mb alat -E-D     -R(E)   -n(I)
+\ge wait -ep-prog -nonfut -3sg
+\ft You should speak Even, she expects us to speak Even.
+\ru Говорил бы ты по-эвенски, она же ждет что мы будем говорить по-эвенски.
+\ph
+\gr torerekes is the Conditional DS converb, but it is frequently used with an imperative meaning, a soft, polite imperative
+\nt
+
+\id Kejmetinova_TV_family_015
+\ref 1:36
+\tx Ejmu             digen anŋanị ọːdnị   ačča ọːdakan,                   dʒapkan mịar     anŋanịdị       ačča
+\mb enen   -W        digen anŋan    ọː  -n(I) ačča ọː  -REk      -E-n(I)      dʒapkan mịan -L  anŋan -DI          ačča
+\ge mother -poss.1sg four  year      become -3sg  neg    become -cond.cvb -ep-poss.3sg eight    ten    -pl year   -dat.prfl.sg neg
+
+\tx ọːrịn.
+\mb ọː  -RI  -n(I)
+\ge become -pst -poss.3sg
+
+\ft My mother died four years ago, she died at age 80.
+\ru Четыре года как не стало моей матери, умерла в 80 лет.
+\ph aččọːdakan ačọːrịn
+\gr
+\nt
+
+\id Kejmetinova_TV_family_022
+\ref 2:24
+\tx Irildu ọːrọkọn                noːleːr                        stadala        horgerep,
+\mb irildu ọː  -REk      -E-n(I)      noː            -(dU)LE -WUr     stado  -(dU)LE hor -Gr(E) -p
+\ge summer become -cond.cvb -ep-poss.3sg younger.sibling -loc    -prfl.pl herd.R -loc    go  -hab   -1pl.in
+
+\tx hotnemi,               ńan   haːdụn edu       biwrerep,                 bileːktu,      poseloktu.
+\mb het  -nE     -mI       ńaːn haːdụn erek -DU  bi -Gr(E) -R(E)   -p      bileːk    -DU  poselok   -DU
+\ge rest -intent -cond.cvb again  sometimes prox -dat be -hab   -nonfut -1pl.in settlement -dat village.R -dat
+
+\ft In summer we go to the (reindeer) herd to my younger brother for a holiday, and sometimes we are here, in the village.
+\ru Летом мы ездим в стадо к младшему брату, отдыхать, и иногда бываем здесь, в поселке.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_023
+\ref 2:33
+\tx Otton irildu ọːrakan                    biː teplicew        teguwrerem,                        tala
+\mb otton irildu ọː  -REk      -E-n(I)      biː teplica    -W   teg      -U    -Gr(E) -R(E)   -m   tarak -(dU)LE
+\ge dp.Y  summer become -cond.cvb -ep-poss.3sg 1sg  hothouse.R -acc sit.down -caus -hab   -nonfut -1sg dist  -loc
+
+\tx ogurcï,    pomidor.
+\mb ogurcy      pomidor
+\ge cucumbers.R tomato.R
+\ft And when it turns summer I plant my hothouse, there are cucumbers and tomatoes.
+\ru Когда наступает лето, я сажаю теплицу, там огурцы, помидоры.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_042
+\ref 4:00
+\tx Teːmi    tolle           ńuːreken,                  ńuːwkenit.
+\mb teːmi    tol     -(dU)LE ńuː -REk      -E-n(I)      ńuː -WkEn -RI  -t(I)
+\ge therefore outside -loc    exit  -cond.cvb -ep-poss.3sg exit  -caus -pst -poss.1pl.in
+\ft Therefore when he goes out we let him out.
+\ru Поэтому когда выходит на улицу, мы вывели.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_family_058
+\ref 4:59
+\tx Irildu ọːrọkọn,               tiːk daγanï voskresenjadu,   hịgịːla       horgereridʒur,
+\mb irildu ọː  -REk      -E-n(I)      tiːk daγanï voskresenja -DU  hịgịː -(dU)LE hor -Gr(E) -RIdʒI  -L
+\ge summer become -cond.cvb -ep-poss.3sg now   even.Y   Sunday.R    -dat forest     -loc    go  -hab   -ant.cvb -pl
+
+\tx [stammers] hịgịːla       ịaw      dʒepnerep                    goːniken      horgerrep,                 "halgïn".
+\mb stammers   hịgịː -(dU)LE ịak -W   dʒeb -nE     -R(E)   -p      goːn -nIkEn   hor -Gr(E) -R(E)   -p      halgïn
+\ge stammers   forest     -loc    what  -acc eat   -intent -nonfut -1pl.in say   -sim.cvb go  -hab   -nonfut -1pl.in air.Y
+\ft When it turns summer, even now on Sundays we go to the forest, we go to get some air.
+\ru Когда наступает лето, и сейчас в воскресенье, пойдя в лес, говоря что мы идем дышать свежим воздухом, идем.
+\ph
+\gr "salgïn hie"....
+\nt
+
+\id Kejmetinova_TV_pear_story_019
+\ref 1:31
+\tx Tarịt ieltendʒiddeken,                   toooola       emie   honte bejil      emie   bidde.
+\mb tarịt ielten -D    -REk      -E-n(I)      tarak -(dU)LE emie   honte bej -E-L   emie   bi -D    -R(E)
+\ge then    pass   -prog -cond.cvb -ep-poss.3sg dist  -loc    also.Y other man -ep-pl also.Y be -prog -nonfut.3pl
+
+\ft Then when he passed by there (far away) other people are also present.
+\ru Потом когда он проходил там тоже другие люди тоже есть.
+\ph
+\gr
+\nt
+
+\id Kejmetinova_TV_pear_story_052
+\ref 3:10
+\tx Dʒe   taraw      [tawran]                              tawnịkan
+\mb dʒe   tarak -W   taw                     -R(E)   -n(I) taw                     -nIkEn
+\ge well.Y dist  -acc gather.scattered.things -nonfut -3sg  gather.scattered.things -sim.cvb
+
+\tx biddeken                        ịlan kụŋakal       emne,            emie   ọmọlgakal,      nọŋan
+\mb bi -D    -REk      -E-n(I)      ịlan kụŋa -KEn -L  em   -R(E)       emie   ọmọlga -kIl     nọŋan
+\ge be -prog -cond.cvb -ep-poss.3sg three  child   -dim -pl come -nonfut.3pl also.Y boy        -proh.sg 3sg
+
+\tx hemekelni.
+\mb hemek    -E-L   -n(I)
+\ge age.mate -ep-pl -poss.3sg
+
+\ft While he was gathering that [gathered] three children came, also boys, his age-mates.
+\ru Когда он это собирал, пришли 3 ребенка, тоже мальчики, его ровесники.
+\ph
+\gr tawnikan biddeken = kogda prishli malchiki, on eshe sobiral
+
+\id Krivoshapkina_AE_childhood_018
+\ref 1:35; EKK
+\tx Ehni,             tiːk unde,   [unde]  tiːk, ọddọkọs.
+\mb e   -R(E)   -n(I) tiːk unde    unde    tiːk  ọd -REk      -E-s(I)
+\ge neg -nonfut -3sg  now   not.yet not.yet now    stop -cond.cvb -ep-poss.2sg
+
+\ft No, not yet [not yet], now, when you've finished (eating).
+\ru Нет, сейчас еще не время, сейчас, когда закончишь (кушать).
+\ph
+
+\id Krivoshapkina_AE_childhood_049
+\ref 5:33; AEK
+\tx Kojeːtteku                 ọkaːt ịalịn               bütünnüː, hịgịː dọːn          bütünnüː kụŋa,
+\mb kojeːt -REk      -W        ọkaːt ịak -(dU)LI -n(I)     bütünnüː  hịgịː dọː -n(I)     bütünnüː kụŋa
+\ge look.at -cond.cvb -poss.1sg river    what  -prol   -poss.3sg entirely.Y    forest     inside -poss.3sg entirely.Y   child
+
+\tx bej, moː  buolla  ejeːndʒiddi          bihin.
+\mb bej  moː  buollar ejeːn -D    -RI       bi -RI  -n(I)
+\ge man  water dp.Y    flow   -prog -impf.ptc be -pst -poss.3sg
+
+\ft And when I look, along the entire what (bank) of the river, in the whole forest, children, people, and the water (the river)
+was flowing.
+\ru Смотрю (lit. когда я смотрю), по реке (по берег) все, все в лесу, дети, люди, а река текущая была.
+\ph
+\gr
+\nt
+
+\id Krivoshapkina_AE_childhood_056
+\ref 6:05; AEK
+\tx Araj       omneken        dʒoːreken       tewte   ičuhneken,                              taraw
+\mb araj       omen -REkEn    dʒoːr -REkEn    tewte   iču       -s(E)n -REk      -E-n(I)      tarak -W
+\ge suddenly.Y one  -iter.adv two     -iter.adv berries be.visible -lim   -cond.cvb -ep-poss.3sg dist  -acc
+
+\tx dʒebgerem.
+\mb dʒeb -Gr(E)      -m
+\ge eat   -hab.nonfut -1sg
+\ft When all of a sudden once or twice some berries are visible, I eat those.
+\ru Вдруг если покажется однажды дважды ягода, это кушаю.
+\ph
+\gr The Limitative suffix in "ičuhneken" gives it a meaning of 'being visible not for a long time'
+\nt
+
+\id Krivoshapkina_AE_childhood_057
+\ref 6:11; AEK
+\tx Tarịt hukleče      bihem           [dọlbụ?], mịallụkụ              tarak hịgịː dọːn
+\mb tarịt hukle -čE    bi -R(E)   -m   dọlbanị   mịal  -REk      -W        tarak hịgịː dọː -n(I)
+\ge then    sleep -pf.ptc be -nonfut -1sg night         wake.up -cond.cvb -poss.1sg dist  forest     inside -poss.3sg
+
+\tx bütünnüː bej ọːča.
+\mb bütünnüː bej ọː  -čE
+\ge entirely.Y   man become -pf.ptc
+\ft Then it seems I slept, when I woke up the whole forest was full of people.
+\ru Потом я оказывается спала, когда проснулась этот лес весь стал в людях.
+\ph
+\gr
+\nt
+
+\id Krivoshapkina_AE_childhood_059
+\ref 6:34; AEK
+\tx Mendedduku                       dʒe   dʒọmkattam:
+\mb mende  -D    -REk      -W        dʒe   dʒọm  -kEČ -R(E)   -m
+\ge search -prog -cond.cvb -poss.1sg well.Y remember -mult -nonfut -1sg
+
+\ft While I was looking, I thought:
+\ru Когда я искала, подумала:
+\ph
+\gr
+\nt
+\qu
+
+\id Krivoshapkina_AE_childhood_095
+\ref 10:55; AEK
+\tx Bej emneken                     ohok    diewdelen                   dikeŋnerem,
+\mb bej em   -REk      -E-n(I)      ohok    diewde    -(dU)LE -n(I)     diken      -Gr(E) -R(E)   -m
+\ge man come -cond.cvb -ep-poss.3sg stove.Y back.side -loc    -poss.3sg hide(intr) -hab   -nonfut -1sg
+
+\tx edeji                  ičuken,          itte.
+\mb e   -DE       -J       it  -WkEn         it  -R
+\ge neg -purp.cvb -prfl.sg see -caus.neg.cvb see -neg.cvb
+
+\ft When people come I hide behind the stove so as not to show (myself), so as not to see.
+\ru Когда приходит человек, я прячусь за печкой, чтобы не показать, не увидеть.
+\ph
+\gr
+\nt
+
+\id Krivoshapkina_AE_childhood_096
+\ref 11:02; EKK
+\tx Bej dʒụːmarakan,                  ee?
+\mb bej dʒụːma -REk      -E-n(I)      ee
+\ge man visit      -cond.cvb -ep-poss.3sg eh
+\ft When people visit, yes?
+\ru Когда человек приходит в гости, да?
+\ph
+\gr
+\nt
+\qu
+
+\id Krivoshapkin_IN_pearstory_04
+\ref 1:15
+\tx Tačịn       nekeddeken                          nọnap    ịaw,     omen bej ieltengeren,          ịaw,
+\mb tarọːčịn nek -E-D     -REk      -E-n(I)      nọnap    ịak -W   omen bej ielten -Gr(E) -E-n(I) ịak -W
+\ge dist.qual      do  -ep-prog -cond.cvb -ep-poss.3sg the.first. what  -acc one  man pass   -hab   -ep-3sg what  -acc
+
+\tx omen ịaw      kozaw,      kozawgu         ịawgụ      elgeniken.
+\mb omen ịak -W   koza   -W   koza   -W   =GU ịak -W   =GU elge -nIkEn
+\ge one  what  -acc goat.R -acc goat.R -acc =q  what  -acc =q  lead -sim.cvb
+\ft While he is doing this at first a man walks buy, leading a goat or something.
+\ru Когда он так делает первый один человек проходит, одну козу, или что ведя.
+
+\id Krivoshapkin_IN_pearstory_15
+\ref 2:14
+\tx Tar   ụmụjaddakan                     ar hattụn            ịlan ọmọlgọkkọl   bičel.
+\mb tarak ụmụj -E-D     -REk      -E-n(I)    hat  -DU  -n(I)     ịlan ọmọlga -kkEn -L  bi -čE    -L
+\ge dist  gather   -ep-prog -cond.cvb -ep-3sg    base -dat -poss.3sg three  boy        -dim  -pl be -pf.ptc -pl
+\ft While he was gathering (them) next to him there were three little boys.
+\ru Вот когда он собирал рядом с ним были 3 мальчика.
+\ph
+\gr
+\nt he says "ar", which is possibly just a stammer, or possibly he wanted to say "er", the proximal demonstrative pronoun
+
+\id Krivoshapkin_IN_pearstory_18
+\ref 2:33
+\tx Tar   hereddeken                          tar   ịlan kụŋakkahal      kiːkeridʒi     ŋaːtta
+\mb tarak hor -E-D     -REk      -E-n(I)      tarak ịlan kụŋa -kkEn -SEl kiːke  -RIdʒI  ŋaːt -R(E)
+\ge dist  go  -ep-prog -cond.cvb -ep-poss.3sg dist  three  child   -dim  -pl  whistle -ant.cvb call   -nonfut.3pl
+\ft When he rode like that, those three little kids whistled and called him.
+\ru Когда он так ехал, те 3 ребенка свистнув позвали.
+\ph
+\gr
+\nt He actually says kiːkenidʒir, but that is not the correct form.
+
+\id Krivoshapkin_IN_pearstory_22
+\ref 2:52
+\tx Dʒe   tačịn,      ịaddakadnan                        dʒe   ńan   daγanï ŋiː etiken... tar
+\mb dʒe   tarọːčịn ịa    -D    -REk      -E-tEn       dʒe   ńaːn daγanï ŋiː etikeːn  tarak
+\ge well.Y dist.qual      do.what -prog -cond.cvb -ep-poss.3pl well.Y and    even.Y   who   old.man   dist
+
+\tx fermerdu,     fermeru       ušukenne.
+\mb fermer   -DU  fermer   -W   it  -WkEn -R(E)
+\ge farmer.R -dat farmer.R -acc see -caus -nonfut.3pl
+
+\ft Well like that, while they were doing (that), well they again show the old man, the farmer.
+\ru Вот так, когда они так делали, опять старик, тому фермеру, показывают фермера.
+\ph
+
+\id Krivoshapkin_IN_pearstory_24
+\ref 3:06
+\tx Lesniceli        tikridʒi     itteken,                   omen ịan       korzinan       ačča, tar   miltereː
+\mb lestnice -(dU)LI tik  -RIdʒI  it  -REk      -E-n(I)      omen ịak -n(I) korzina  -n(I) ačča  tarak miltereː
+\ge ladder.R -prol   fall -ant.cvb see -cond.cvb -ep-poss.3sg one  what  -poss.basket.R -poss.neg     dist  full
+
+\tx ụmụjapča            ịak gruša biče.
+\mb ụmụj -E-B    -čE    ịak gruša bi -čE
+\ge gather   -ep-med -pf.ptc what  pear.R be -pf.ptc
+
+\ft When he looked, having climbed down a ladder, one of his baskets is missing, the one which was full of gathered pears.
+\ru Когда он посмотрел, спустившись по лестнице, нет одной его корзины, та в которой были груши собранные доверху.
+\nt
+
+\id Krivoshapkin_IN_pearstory_25
+\ref 3:14
+\tx Tar   dʒọmkattakan,                      mergečidniken             ịlgamaddakan
+\mb tarak dʒọm  -kEČ -REk      -E-n(I)      mergeːt -E-D     -nIkEn   ịlgam -E-D     -REk      -E-n(I)
+\ge dist  remember -mult -cond.cvb -ep-poss.3sg think    -ep-prog -sim.cvb stand   -ep-prog -cond.cvb -ep-poss.3sg
+
+\tx ŋiː tar   ịlan kụŋakkal       dʒe   hattụn            ieltenne.
+\mb ŋiː tarak ịlan kụŋa -kkEn -L  dʒe   hat  -DU  -n(I)     ielten -R(E)
+\ge who   dist  three  child   -dim  -pl well.Y base -dat -poss.3sg pass   -nonfut.3pl
+
+\ft While he was thinking, while he was standing and wondering, who, those thre little kids walked past him.
+\ru Когда он так думал, когда стоял переживая, прошли мимо те 3 ребенка.
+\ph
+
+\id Krivoshapkin_Segen_009
+\ref 2:51
+\tx [stammers] Tarak vremjadu    buolla mindu        ịarịdnan,          erew      [stammers]
+\mb stammers   tarak vremja -DU  buolla min     -DU  ịa    -RI  -tEn      erek -W   stammers
+\ge stammers   dist  time.R -dat dp.Y   1sg.obl -dat do.what -pst -poss.3pl prox -acc stammers
+
+\tx gurgew       gurgeːwčidʒeːnneku,                  abịga     beju     ịlgịdaŋan                 dʒugulin
+\mb gurgeː -W   gurgeːwči -dʒEːn -REk      -W        abịga     bej -W   ịlgị -DEŋ    -E-n(I)      dʒugulin
+\ge work    -acc work        -dur     -cond.cvb -poss.1sg grandfather man -acc ??       -pst.ptc -ep-poss.3sg about
+
+\tx dọldarịt,             stadadụ,  abịga.
+\mb dọlda -RI  -t(I)        stado  -DU  abịga
+\ge hear    -pst -poss.1pl.in herd.R -dat grandfather
+
+\ft At that time they did what (to me).... when I did (worked) this work.... we heard that a bear had killed/eaten (?) a man, in
+the herd.
+\ru В это время мне что-то сделали..... когда я работал на этой работе.... мы услышали что медведь человека задрал (?), в
+стаде.
+\ph He says something between erew and gurgeːwčidʒeːnneku, but it's too hard to understand + gurguwčịdʒeːnneku 
+\gr gurgeːwčidʒeːnneku = ottenok of "poor me, baraxsan"; Ija Krivoshapkina says that the verbal Diminutive suffix -jEt
+occurs only after vowels, while a verbal Diminutive suffix -Eːn occurs only after consonants; the consonant that
+Novikova called the Durative is, according to Ija, a merged form of the Progressive suffix with this latter post-consonantal
+Diminutive suffix
+\nt Ija Krivoshapkina does not know the verb "ịlgị", and neither does Elena Kirillovna Krivoshapkina. From the context (and
+apparently from what he said later on, when he started repeating all of this again) it is clear that it must be something like
+'attack, wound, hurt, kill, eat'.
+
+\id Krivoshapkin_Segen_023
+\ref 5:19
+\tx Elekes   emehendej                        nekedduku                        kolkos
+\mb elekes   em   -E-s(E)n -DE       -J       nek -E-D     -REk      -W        xolkoz
+\ge at.first come -ep-lim  -purp.cvb -prfl.sg do  -ep-prog -cond.cvb -poss.1sg collective.farm.R
+
+\tx ńuŋen ńamaw       họlkọbajụ   boːridnen,         xarčịw.
+\mb ńuŋen ńama   -W   họlkọbaj -W   boː -RI  -tEn      xarčị -W
+\ge six     hundred -acc ruble.Y      -acc give -pst -poss.3pl money.Y  -acc
+
+\ft When I was just intending to go, in the collective farm they gave (me) 600 rubles.
+\ru Когда я только собирался приехать, в колхозе дали (мне) 600 рублей.
+\ph ələkəs əməhəndej nəkədduku 
+\gr emehendej = vyexat' otkudo-libo sjuda; PURP.CVB + nek- --> Sakha influence, -AːrI gïn!
+
+\id Stepanov_AA_den'_olenovoda_02
+\ref 0:13
+\tx Ńụčịdịt     goːmi          mart    ịlaːn ọdọddọkọn                    ńultin
+\mb ńụča -DI   -Č  goːn -mI       mart    ịlaːn ọd -E-D     -REk      -E-n(I)      ńulten
+\ge Russian  -adjr -ins say   -cond.cvb March.R month    stop -ep-prog -cond.cvb -ep-poss.3sg sun
+
+\tx ńọmọllọkọn,            ineŋi ŋọnọmọllọkọn              ebel     omen tordu
+\mb ńamal   -REk      -E-n(I)      ineŋi ŋọnamal    -REk      -E-n(I)      ewen -L  omen tor   -DU
+\ge get.warm -cond.cvb -ep-poss.3sg day    become.longer -cond.cvb -ep-poss.3sg Even -pl one  earth -dat
+
+\tx čakụptụdʒụr         hebdʒekidʒek     ọːwrar,              ọːwrarịtan.
+\mb čak   -E-B    -RIdʒI  -L  hebdʒek  -E -ČEk ọː  -Gr(E)      -r   ọː  -Gr(E) -RI  -tEn
+\ge gather -ep-med -ant.cvb -pl celebrate -ep  -nr become -hab.nonfut -3pl become -hab   -pst -poss.3pl
+\ft When the month of March, to say it in Russian, ends, when the sun gets warmer and the days become longer, Evens gathered in
+one place and made a holiday.
+\ru Сказать по-русски когда заканчивался март месяц, когда солнц нагревается, день становится длиннее, эвены собравшись в
+одном месте устраивали праздник.
+
+\id Stepanov_AA_den'_olenovoda_06
+\ref 1:00
+\tx Tačịn       hebieskej vlast'  vremjadun             emie   slet_olenovodov             goːniken      mart
+\mb tarọːčịn hebieskej vlast'  vremja -DU  -n(I)     emie   slet_olenovodov             goːn -nIkEn   mart
+\ge dist.qual      Soviet.Y  power.R time.R -dat -poss.3sg also.Y meeting.of.reindeer.herders say   -sim.cvb March.R
+
+\tx manụddakan                         toŋeːrdu    mutŋi            ọːwran.
+\mb manụ  -D    -REk      -E-n(I)      toŋeːr -DU  mut    -ŋI       ọː  -Gr(E)      -n(I)
+\ge run.out -prog -cond.cvb -ep-poss.3sg lake     -dat 1pl.in -pred.poss become -hab.nonfut -3sg
+
+\ft During the Soviet era our so-called Meeting of the Reindeer Herders also takes place on the lake when March ends.
+\ru Так во времена советской власти слет оленоводов тоже наш бывает на озере, когда заканчавается март.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_elk_08
+\ref 1:32
+\tx Heredniken            itteken                    tar   ńọŋčaw      ụdʒan            ọjlịn                 tiːnepgụ
+\mb hor -E-D     -nIkEn   it  -REk      -E-n(I)      tarak ńọŋčak -W   ụdʒ -E-n(I)      ọj    -(dU)LI -n(I)     tiːnep =GU
+\ge go  -ep-prog -sim.cvb see -cond.cvb -ep-poss.3sg dist  wolf        -acc track  -ep-poss.3sg surface -prol   -poss.3sg past    =q
+
+\tx čaːwdụgụ   dʒoːr tọːkị tar   bịrakčam      họlahančal.
+\mb čaːg -DI   =GU dʒoːr tọːkị tarak bịrakčan -W   họl        -E-s(E)n -čE    -L
+\ge far    -adjr =q  two     elk        dist  stream      -acc move.upriver -ep-lim  -pf.ptc -pl
+
+\ft And while riding he saw that over that wolf's tracks yesterday or the day before two elks moved up that river.
+\ru Он увидел во время поездки (хередникен) поверх волчего следа вчера или позавчера пошли верх по этому ручью 2 лося.
+\ph
+\gr the form "itteken", i.e the Conditional converb, appears to have a purely narrative function as well, although Ija initially translated it
+as "kogda on videl" here (and elsewhere". When I discussed it with her, she agreed that from the structure of the sentence and the
+context it should be just an Indicative form. There may  even be a nuance of suddenness, from the context, though Ija didn't seem to
+see it that way.
+\nt before saying čaːwdu you have to say tiːniw, otherwise it is not comprehensible, i.e. čaːwdụ doesn't really exist by itself; and the correct
+form for this construction would have been tiːniw, not tiːnep; tiːnep by itself means "the day before yesterday" as well
+
+\id Stepanov_AA_elk_09
+\ref 1:45
+\tx Dʒe,  biː akmụ             bịrakčam      họllọn                 apkịtlaj               ịhrịdʒị, tar
+\mb dʒe   biː akan          -W   bịrakčan -W   họl        -R(E)   -n(I) apkịt -(dU)LE -J       ịs  -RIdʒI   tarak
+\ge well.Y 1sg  older.brother -acc stream      -acc move.upriver -nonfut -3sg  ravine  -loc    -prfl.sg reach -ant.cvb  dist
+
+\tx kapkamị       tuldeŋi              miestelen                 ịhrịdʒị, itteken                    tar   kapkan
+\mb kapkan -J       tul -DEŋ    -J       mesto   -(dU)LE -n(I)     ịs  -RIdʒI   it  -REk      -E-n(I)      tarak kapkan
+\ge trap.R -prfl.sg set -pst.ptc -prfl.sg place.R -loc    -poss.3sg reach -ant.cvb  see -cond.cvb -ep-poss.3sg dist  trap.R
+
+\tx bihin             torri         dʒoːr tọːkịl    gịrkačal.
+\mb bi -RI  -n(I)     tor   -(dU)LI dʒoːr tọːkị -L  gịrka -čE    -L
+\ge be -pst -poss.3sg earth -prol   two     elk        -pl walk    -pf.ptc -pl
+\ft Well, my brother rode up that river and reached a ravine, reached the place where he set that trap of his, and sees that over the place
+where the trap was two elks walked.
+\ru Мой брат поехал вверх по ручю, доехав до ушелья, доехав до места, где он поставил свой капкан, видит, по месту где находится
+капкан, прошли 2 лося.
+
+\id Stepanov_AA_elk_11
+\ref 2:08
+\tx Če,  kapkamị       bihin                  miestew      ịbgat       ịarụttakan,                      kapkanị ačča bihin.
+\mb če   kapkan -J       bi -RI       -n(I)     mesto   -W   ịbgọ -Č  ịarụ -Č  -REk      -E-n(I)      kapkan    ačča bi -RI  -n(I)
+\ge ptl.Y trap.R -prfl.sg be -impf.ptc -poss.3sg place.R -acc good     -ins check    -res -cond.cvb -ep-poss.3sg trap.R    neg    be -pst -poss.3sg
+\ft When he thoroughly checked the place where the trap was, there was no trap.
+\ru Когда он хорошо осмотрел место где был капкан, капкана не было.
+\ph
+\gr
+\nt
+
+\id Stepanov_AA_elk_15
+\ref 2:39
+\tx Tar   ụdlịn                herreken                   tụŋŋan ńama   mietre
+\mb tarak ụdʒ -(dU)LI -n(I)     hor -REk      -E-n(I)      tụnŋan  ńama   metr
+\ge dist  track  -prol   -poss.3sg go  -cond.cvb -ep-poss.3sg five       hundred meter.R
+
+\tx herčelen                     [stammers] hịgịː hịat dọːdịgụn          tọːkịŋan               hekeːrkinin.
+\mb hor -čE    -(dU)LE -n(I)     stammers   hịgịː hịat dọː -DUk(U) -n(I)     tọːkị -ŋ  -E-n(I)      hekeːrkin -RI  -n(I)
+\ge go  -pf.ptc -loc    -poss.3sg stammers   forest     willow inside -abl    -poss.3sg elk        -aln -ep-poss.3sg jump.out   -pst -poss.3sg
+
+\ft When he went along that track, when he had gone 500 m, out of the forest, out of the bushes his elk jumped out.
+\ru Когда он пошел по этому его следу через 500 метров, из леса из ивняка вскочил его лось.
+\ph
+\gr
+\nt
+
+\id Zaxarova_Zhenja_pear_story_02
+\ref 0:50
+\tx Tarịt nọŋan tawaddakan                                              nọŋan hatlịn
+\mb tarịt nọŋan taw                     -E-D     -REk      -E-n(I)      nọŋan hat  -(dU)LI -n(I)
+\ge then    3sg      gather.scattered.things -ep-prog -cond.cvb -ep-poss.3sg 3sg      base -prol   -poss.3sg
+
+\tx kozalkan     bej herče.
+\mb koza   -lkEn bej hor -čE
+\ge goat.R -prop man go  -pf.ptc
+\ft Then when he was gathering, next to him a man with a goat walked past.
+\ru Потом когда он собирал, рядом с ним прошел человек с козой.
+\ph
+\gr
+
+\id Zaxarova_Zhenja_pear_story_03
+\ref 0:55
+\tx Tarịt ńanda      xọmụjaddakan                          kụŋa emče.
+\mb tarịt ńaːn =DE  xọmụj -E-D     -REk      -E-n(I)      kụŋa em   -čE
+\ge then    again  =ptl gather.Y  -ep-prog -cond.cvb -ep-poss.3sg child   come -pf.ptc
+\ft Then while he was still gathering, a child came.
+\ru Потом когда он еще собирал, пришел ребенок.
+\ph
+\gr
+\nt
+
+\id Zaxarova_Zhenja_pear_story_10
+\ref 1:23
+\tx Tačịn       horoddokon                          emiske     omen ahịk.. ahịkkan  emie
+\mb tarọːčịn hor -E-D     -REk      -E-n(I)      emiske     omen asị    asị -KEn emie
+\ge dist.qual      go  -ep-prog -cond.cvb -ep-poss.3sg suddenly.Y one  woman    woman -dim also.Y
+
+\tx velosipedelkan,     velosipedelkan      deːpkit  emedče.
+\mb velosiped -E  -lkEn velosiped -E  -lkEn deːpki   em   -E-D     -čE
+\ge bicycle.R -ep -prop bicycle.R -ep -prop opposite  come -ep-prog -pf.ptc
+
+\ft While he was riding like this, suddenly a girl, also on a bike, was riding towards (him).
+\ru Когда он так ехал, вдруг навстречу ехала девочка, тоже на велосипеде.
+\ph
+\gr it should be deːpki, but she says deːpkiT
+
+\id Zaxarova_Zhenja_pear_story_13
+\ref 1:45
+\tx Tar   ọjịŋị             epteddeken,                        hịakịta hatlan
+\mb tarak ọj    -E-ŋ   -J       epte  -D    -REk      -E-n(I)      hịakịta hat  -(dU)LE -n(I)
+\ge dist  clothes -ep-aln -prfl.sg shake -prog -cond.cvb -ep-poss.3sg tree        base -loc    -poss.3sg
+
+\tx tikčelen,                     ịlan ọmọlgọl  nọŋman                itčel.
+\mb tik  -čE    -(dU)LE -n(I)     ịlan ọmọlga -L  nọŋ -W   -E-n(I)      it  -čE    -L
+\ge fall -pf.ptc -loc    -poss.3sg three  boy        -pl 3sg    -acc -ep-poss.3sg see -pf.ptc -pl
+\ft While he was shaking off his clothes, when he fell next to a tree, three boys saw him.
+\ru Когда он стряхивал одежду, когда он упал возле дерева, его увидели 3 мальчика.
+\ph
+
+\id Zaxarova_Zhenja_pear_story_17
+\ref 2:08
+\tx Tar   ńanda      horeddeken,                         tar   kụŋa edlen                  gọrọllọ,
+\mb tarak ńaːn =DE  hor -E-D     -REk      -E-n(I)      tarak kụŋa e   -dle     -n(I)     gọrụ -l  -R
+\ge dist  again  =ptl go  -ep-prog -cond.cvb -ep-poss.3sg dist  child   neg -trm.cvb -poss.3sg far      -vr -neg.cvb
+
+\tx kiːkečel.
+\mb kiːke  -čE    -L
+\ge whistle -pf.ptc -pl
+
+\ft When he again rode, while that kid had not gone far, they whistled.
+\ru Когда он опять ехал, пока этот ребенок не удалился (не уехал далеко), они свистнули.
+\ph
+
+\id Zaxarov_VN_poselok_003
+\ref ZaxarovVN_Even_270208_1:00
+\tx Dʒiŋ gọrọllọn             ešče  erek zastoj   biriem... Stalin, ešče  Stalin
+\mb dʒiŋ gọrụ -l  -R(E)   -n(I) ešče  erek zastoj   vremja    Stalin  ešče  Stalin
+\ge very.Y far      -vr -nonfut -3sg  still.R prox zastoj.R time.R    Stalin  still.R Stalin
+
+\tx biddeken                        mut    bihit                ele.
+\mb bi -D    -REk      -E-n(I)      mut    bi -RI  -t(I)        erek -(dU)LE
+\ge be -prog -cond.cvb -ep-poss.3sg 1pl.in be -pst -poss.1pl.in prox -loc
+\ft For a long time, even in the times of the 'zastoj', even when Stalin was, we were here.
+\ru Очень прошло, еще когда были времена застоя, когда был Сталин, мы здесь были.
+\ph
+
+\id Zaxarov_VN_poselok_008
+\ref ZaxarovVN_Even_270208_1:43
+\tx Dʒiŋ dʒiŋ dʒulle bide      ačča biddeku,                     tar... tarak biː
+\mb dʒiŋ dʒiŋ dʒulle biː =DE  ačča bi -D    -REk      -W        tarak  tarak biː
+\ge very.Y very.Y before  1sg  =ptl neg    be -prog -cond.cvb -poss.1sg dist   dist  1sg
+
+\tx abagawụ,            ammụ           ukčengereridnen,            tačịn       goːniken.
+\mb abaga       -W        aman   -W        ukčen -Gr(E) -RI  -tEn      tarọːčịn goːn -nIkEn
+\ge grandfather -poss.1sg father -poss.1sg tell   -hab   -pst -poss.3pl dist.qual      say   -sim.cvb
+
+\ft A long long time ago, I didn't exist yet, my grandfather, my father told me that.
+\ru Очень очень давно и меня не было, это мой дедушка, отец рассказывали.
+\ph
+\gr
+
+\id Zaxarov_VN_poselok_009
+\ref ZaxarovVN_Even_270208_1:50
+\tx Biː otton kotlen bihiklew                         ere  baldarịdʒị, ịarịdʒị   haŋa nọnan
+\mb biː otton kotlen bi -RI       -klE      -W        erek balda   -RIdʒI  ịa    -RIdʒI  saŋa nọnan
+\ge 1sg  dp.Y  small  be -impf.ptc -conc.cvb -poss.1sg prox be.born -ant.cvb do.what -ant.cvb new.Y beginning
+
+\tx hupkučekle          emnidʒi,     er   omneken        itteku,                 boholek   dʒiŋ kotlen
+\mb hupkut -ČEk -(dU)LE em   -RIdʒI  erek omen -REkEn    it  -REk      -W        poselok   dʒiŋ kotlen
+\ge learn  -nr   -loc    come -ant.cvb prox one  -iter.adv see -cond.cvb -poss.1sg village.R very.Y small
+
+\tx bihin             ee.
+\mb bi -RI  -n(I)     ee
+\ge be -pst -poss.3sg eh
+\ft When I was small, just born, when I first came to school, one day I saw the village really was very small.
+\ru Когда я был маленьким, вот родившись, придя впервые в школуб вот когда увидел однажды поселок был очень
+маленьким.
+\ph
+\gr nọnan = the noun "beginning", but also adverb, "in the beginning", he first said it in Sakha and then repeated it in
+Even; Ija Krivoshapkina was not sure how frequently the form "bihiklej", i.e. what I defined as the Concessive converb, is
+used with a temporal meaning, said she'd only noticed it with Vasilij Nikolaevič, but couldn't say whether others use it this
+way too or not
+
+\id Zaxarov_VN_poselok_049
+\ref ZaxarovVN_Even_270208_6:09
+\tx Xọlọbụra tiːk dʒụːla       [stammers] ịhrịdʒị ukčen hụnaːdʒaltakịj
+\mb xọlọbụr  tiːk dʒụː -(dU)LE stammers   ịs  -RIdʒI  ukčen hụnaːdʒ -E-L   -t(E)kI -J
+\ge for.example.Y  now   house    -loc    stammers   reach -ant.cvb tell   daughter    -ep-pl -all    -prfl.sg
+
+\tx ukčenneku                 ọlọx     ïnïrïk  ịak bidʒin,       ee.
+\mb ukčen -REk      -W        ọlọx     ïnïrïk  ịak bi -DʒI -n(I) ee
+\ge tell   -cond.cvb -poss.1sg completely.Y terribly.Y what  be -fut  -3sg  eh
+\ft For example after I go home, if I tell my daughters, that will be very so.
+\ru Например дойдя домой, если я расскажу своим дочерям, будет совсем сильное это.
+\ph
+\gr
+\nt

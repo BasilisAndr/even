@@ -1,0 +1,250 @@
+\_sh v3.0  984  Text
+
+\id Tylkanova_NA_BAM_000_metadata
+\ref Recorded on 13 June 2009 in Esso by Natalia Aralova and Brigitte Pakendorf. NAT came to the house that BP and NA
+were renting; we first had tea together where she chatted with us, then BP and NAT went into the living room, where the
+recording took place; NA stayed in the kitchen, where she was not visible to NAT. A first attempt at a narrative was
+interrupted by a mobile phone ringing, after which all phones were switched off and the narrative was started anew.
+Other than an occasional truck going by on the street outside there are no extraneous sounds. NAT told four little
+stories (each around 2 minutes in length) in Even; after narrating each of the stories, she renarrated it in Russian (with
+more details, actually, than in the Even version). The Russian versions consitute a separate sound and video file. The
+four narratives are archived as separate sessions. This is the last little narrative that was given when NAT was actually
+already getting ready to go.
+\qu Transcribed by BP with Rimma Maksimovna Egorovna, translated into Russian by RME, glossed by BP. Funding by the
+Volkswagen Foundation (DoBeS grant). Speaker abbreviation = NAT
+\ref Natalija Aleksandrovna Tylkanova was born in early June 1951, so she was 58 at the time of the recording. She has a
+college-level education and works as a kindergarten teacher. Her father was Chuvash, and she is married to a Russian,
+speaks Russian with her husband and children and felt that her Russian was more fluent than her Even.
+\tx
+
+\id Tylkanova_NA_BAM_001
+\tx half word
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:00.490
+\ELANParticipant
+\ev
+\ru
+
+\id Tylkanova_NA_BAM_002
+\tx Valera      uŋeddin                    armịjadụ  biddin                  nan    nọŋan
+\mb Valera      uŋ -E-D     -RI  -n(I)     armija.R -DU  bi -D    -RI  -n(I)     ńaːn nọŋan
+\ge Valerij.dim do  -ep-prog -pst -poss.3sg army.R   -dat be -prog -pst -poss.3sg and    3sg
+
+\tx olloːttin            BAMtakị.
+\mb hollot -RI  -n(I)     BAM -t(E)kI
+\ge go     -pst -poss.3sg BAM -all
+\ft Valera was in the army, and he went to the BAM (Baikal-Amur railway line).
+\ph
+\gr
+\nt This little anecdote is about her nephew Valera.
+\ELANBegin 00:00:00.490
+\ELANEnd 00:00:06.730
+\ELANParticipant
+\ev
+\ru Валера в армии был, и он ездил на БАМ.
+
+\id Tylkanova_NA_BAM_003
+\tx Ọːn ọːn tala          ŋennin,                 uŋniten           ulgimniten,          iː
+\mb ọːn ọːn tarak -(dU)LE ŋen -n(I)     -n(I)     uŋ -RI  -tEn      ulgim -RI  -tEn      hiː
+\ge how    how    dist  -loc    go   -poss.3sg -poss.3sg do  -pst -poss.3pl ask   -pst -poss.3pl 2sg
+
+\tx drụžbač..., ŋiː drụžbač   gurgeːwčideji                aːn?
+\mb družba  -Č    ŋiː družba  -Č  gurgeːwči -DE       -J       haː -n(I)
+\ge chainsaw -ins   who   chainsaw -ins work        -purp.cvb -prfl.sg know -3sg
+\ft How did he get there: they asked, "do you... who knows how to work with a chainsaw?" (usually called by the brand
+name Družba).
+\ELANBegin 00:00:06.730
+\ELANEnd 00:00:14.380
+\ELANParticipant
+\ev
+\ru Как он туда попал: спрашивали, кто умеет работать на дружбе.
+
+\id Tylkanova_NA_BAM_004
+\tx Nan    Valera      dʒulepki ńoːrin.
+\mb ńaːn Valera      dʒulepki ńoː -RI  -n(I)
+\ge and    Valerij.dim ahead     exit  -pst -poss.3sg
+\ft And Valera stepped out (of the line).
+\ELANBegin 00:00:14.380
+\ELANEnd 00:00:16.540
+\ELANParticipant
+\ev
+\ru И Валера вперед вышел.
+
+\id Tylkanova_NA_BAM_005
+\tx Goːnni,    biː aːram.
+\mb goːn -n(I) biː haː -R(E)   -m
+\ge say   -3sg  1sg  know -nonfut -1sg
+\ft Said "I know".
+\ELANBegin 00:00:16.540
+\ELANEnd 00:00:17.810
+\ELANParticipant
+\ev
+\ru Сказал, я знаю.
+
+\id Tylkanova_NA_BAM_006
+\tx Ńan   orukeniten               tar   uŋteki,          armịjatkị,   tadụ     nan    nọŋan
+\mb ńaːn hor -WkEn -RI  -tEn      tarak uŋ       -t(E)kI armija.R -t(E)kI tarak -DU  ńaːn nọŋan
+\ge and    go  -caus -pst -poss.3pl dist  something -all    army.R   -all    dist  -dat and    3sg
+
+\tx uŋeddin,                   ịaddịn,                  uŋeddin
+\mb uŋ -E-D     -RI  -n(I)     ịa    -D    -RI  -n(I)     uŋ -E-D     -RI  -n(I)
+\ge do  -ep-prog -pst -poss.3sg do.what -prog -pst -poss.3sg do  -ep-prog -pst -poss.3sg
+
+\tx ọːddịnka                    ọtarkajaw              taraw.
+\mb ọː -D    -RI  -n(I)     =kE   họtọran -kEːjE -W   tarak -W
+\ge make  -prog -pst -poss.3sg =emph road        -aug    -acc dist  -acc
+\ft And they took him somewhere, to the army, and there he did what, he built that big (rail)road.
+\ph
+\gr
+\nt The Baikal-Amur railroad was built to a large extent by soldiers on service in the army, and obviously they chose such
+young men as knew how to work with a chainsaw. Since Valera had prior experience with chainsaws, they took him. The
+BAM doesn't really play any further role in the narrative; probably NAT only mentions this detail because that explains
+why Valera was in the army in a place where he could go hunting and where there were reindeer.
+\ELANBegin 00:00:17.810
+\ELANEnd 00:00:26.380
+\ELANParticipant
+\ev
+\ru И увезли его в армию, и там он делал, строил эту большую дорогу.
+
+\id Tylkanova_NA_BAM_007
+\tx Nan    tara  omneken        tar   olloːtten          uŋteki,          uŋu
+\mb ńaːn tarak omen -REkEn    tarak hollot -R(E) -n(I)  uŋ       -t(E)kI uŋ       -W
+\ge and    dist  one  -iter.adv dist  go     -nonfut -3sg something -all    something -acc
+
+\tx ọram... kakam                    kučeːlekekem        uŋnin,
+\mb ọrọn          -W   -kEkEn -W   kučeːle -kEkEn -W   uŋ -RI  -n(I)
+\ge domestic.reindeer -acc -dim   -acc small     -dim   -acc do  -pst -poss.3sg
+
+\tx bujunin,                  bujunin,                  nan    tarawda         dʒebeddʒoːtten.
+\mb buju -n    -RI  -n(I)     buju -n    -RI  -n(I)     ńaːn tarak -W   =DE  dʒep -E-D     -WEːČ -R(E) -n(I)
+\ge hunt -mult -pst -poss.3sg hunt -mult -pst -poss.3sg and    dist  -acc =ptl eat   -ep-prog -gnr    -nonfut -3sg
+
+\ft And then once he went somewhere and did what, shot a tiny little reindeer, and that he ate.
+\ph
+\gr (translation file Tylkanova_quest_270609, 1:00) bujudej = idti na oxotu, bujustej = periodičeski postojanno idti,
+bujundej = idti na oxotu 1 raz --> basically I don't think that there is much difference between buju and bujun, while
+bujuS does have a multiplicative meaning; it's VERY odd to have 2 ACC cases in one word - it sounds as if she says ọraM
+all right, and then she starts to stammer; stutters around ọram... and -kakam, clearly first said "reindeer.acc" and then
+thought that it was a small baby reindeer, and added the -kakam, therefore the double acc; the correct form would be
+ọrkakam
+\ELANBegin 00:00:26.380
+\ELANEnd 00:00:38.500
+\ELANParticipant
+\ev
+\ru Однажды он там ходил куда-то  и убил маленького оленя, и того он кушал.
+
+\id Tylkanova_NA_BAM_008
+\tx Dʒeptiten           ịkụtịč    ńalakčaw     dʒeptin.
+\mb dʒep -RI  -tEn      ịkụt -E-Č   ńalakča -W   dʒep -RI  -n(I)
+\ge eat   -pst -poss.3pl straight -ep-ins raw       -acc eat   -pst -poss.3sg
+
+\ft They ate that, he ate that raw.
+\ph
+\gr
+\nt He skinned the carcass and ate parts of it (the internal organs such as lungs, liver, kidneys) raw; the rest he wrapped up
+and carried back to his mates.
+\ELANBegin 00:00:38.500
+\ELANEnd 00:00:41.070
+\ELANParticipant
+\ev
+\ru Съели, прямо свеженину (сырое) съел.
+
+\id Tylkanova_NA_BAM_009
+\tx Nan    dʒaːlnịsị               ńụčịŋalnị                bideji
+\mb ńaːn dʒaː -L  -n(I)     -E=sI    ńụča -E-ŋ   -E-L   -n(I)     bi -DE -J
+\ge and    friend -pl -poss.3sg -ep=emph Russian  -ep-aln -ep-pl -poss.3sg be -vr -prfl.sg
+
+\tx uŋiddʒoːtte               kiriwelliten                         nan    asụkụt uŋniten
+\mb uŋ -E-D     -WEːČ -R(E)   kiriw        -E-L     -RI  -tEn      ńaːn asụkụt uŋ -RI  -tEn
+\ge do  -ep-prog -gnr    -nonfut be.disgusted -ep-inch -pst -poss.3pl and    almost     do  -pst -poss.3pl
+
+\tx issiten              omen asụkụt issin                nan    goːnni     ọːna:
+\mb is    -RI  -tEn      omen asụkụt is    -RI  -n(I)     ńaːn goːn -n(I) ọːn -E
+\ge vomit -pst -poss.3pl one  almost     vomit -pst -poss.3sg and    say   -3sg  how    -ep
+
+\ft And his friends, Russians, were disgusted and nearly vomited, one nearly vomited and said:
+\ph iššiten
+\gr ńụčịŋalnị bideji = kotorye russkie, lit. 'his Russians', but that doesn't mean they're close friends, just those who were with
+him; mne protivno = kiriwrem, mne protivno bylo = kiriwriwu; biː issem = menja vyryvaet, biː iseddem menja v
+dannoe vremja 
+\nt Valera's face got bloody while eating the raw intestines, and this sight sickened one of his comrades who was from
+Moscow - so Valera on purpose smeared his face even more with blood to make himself looking even more disgusting.
+\ELANBegin 00:00:41.070
+\ELANEnd 00:00:52.660
+\ELANParticipant
+\ev
+\ru И его друзья, русские которые были, им противно было, их чуть ли не вырвало, одного чуть не вырвало, и он сказал,
+
+\id Tylkanova_NA_BAM_010
+\tx Ịamị gadịdʒị  taraw      (stammers) ọrmị                   ineddin
+\mb ịamị ga   -RIdʒI  tarak -W   stammers   ọrọn          -J       in            -E-D     -RI  -n(I)
+\ge why      take -ant.cvb dist  -acc stammers   domestic.reindeer -prfl.sg carry.on.back -ep-prog -pst -poss.3sg
+
+\tx oreddin                     dʒụːtkịjị?
+\mb hor -E-D     -RI  -n(I)     dʒụː -t(E)kI -J
+\ge go  -ep-prog -pst -poss.3sg house    -all    -prfl.sg
+
+\ft Why did you take that reindeer and carry it home?
+\ph
+\gr (transl. file Tylkanova_quest_270609, 7:10) biː ineddem = ja nošu na sebja, biː innem = ja nesu na sebja, innoːčidditen =
+nosili tuda-sjuda --> this is very weird, because it would appear as if it has the order root-WEC-D-pst-3pl, when
+everywhere else the order is -D-WEC; (trans.file Evd_Grigna_quest_1_070709, 0:30) in-id-dʒoːt-ti-ten = to, čto oni nosili;
+biː insem = ja nesu na spine = biː innem, tože govorjat
+\nt After he had eaten parts of the reindeer raw, Valera wrapped up the rest to carry it back; while on the way they met some
+other soldiers who asked what he was carrying.
+\ELANBegin 00:00:52.660
+\ELANEnd 00:00:58.370
+\ELANParticipant
+\ev
+\ru Почему взяв того оленя понес на себе, пошел домой?
+
+\id Tylkanova_NA_BAM_011
+\tx Ulgimiweːtte,                ọːn tarak gerben,         ọːnda    gerben,         ịaw      ŋaːladịnnị?
+\mb ulgim -i      -WEːČ -R(E)   ọːn tarak gerbe -n(I)     ọːn =DE  gerbe -n(I)     ịak -W   ŋaːl -E-D     -R(E)   -nrI
+\ge ask   -ipf??? -gnr    -nonfut how    dist  name  -poss.3sg how    =ptl name  -poss.3sg what  -acc hand   -ep-prog -nonfut -2sg
+
+\ft They ask, what is that called, what is that called, what are you carrying?
+\ph ŋaːlaʥịnnị - sounds like the future tense
+\gr (trans. file Tylkanov_quest_270609, 7:40) ŋaːlaʥịnnị = ty neseš,,  budeš nesti = ŋaːlədʥịnnị, biː ŋaːləddəm = ja nesu -->
+I really cannot hear much of a difference in the Prs and Fut 2SG forms that RME was giving me, it seems as if the main
+difference is one of vowel length or stress on the first syllable, and as if the Future form has a Progressive suffix....;
+(trans.file Evd_Grigna_quest_1_070709, 2:10) ŋaːladdam = sejčas v rukax nesu, ŋaːllam = ŋaːlsam, = ja nesu v rukax;
+ŋaːladdannị = netu, ty neseš = ŋaːladd'ịnnị, ŋaːlan(ə) = vse vremja nosjat
+\nt
+\ELANBegin 00:00:58.370
+\ELANEnd 00:01:04.270
+\ELANParticipant
+\ev
+\ru Спрашивают, как это называется, как называется, что ты несешь?
+
+\id Tylkanova_NA_BAM_012
+\tx Nan    goːnni     ọːn, asapar       mumi... ńụčadịč      esem             aːra
+\mb ńaːn goːn -n(I) ọːn  asapar       mumi    ńụča -DI   -Č  e   -R(E)   -m   haː -R
+\ge and    say   -3sg  how     I.don't.know ****    Russian  -adjr -ins neg -nonfut -1sg know -neg.cvb
+
+\tx ọrọtịčịsị       gerben          bujun.
+\mb ọrọč -E-Č   -E=sI    gerbe -n(I)     bujun
+\ge Oroch     -ep-ins -ep=emph name  -poss.3sg wild.reindeer
+\ft And he says: "I don't know, I don't know in Russian, in Even it's called bujun."
+\ph
+\gr
+\nt The point here is that Valera was so thrilled to have shot the reindeer, and to have been able to eat raw intestines that he
+completely forgot how to call it in Russian and could only remember the Even word.
+\ELANBegin 00:01:04.270
+\ELANEnd 00:01:10.210
+\ELANParticipant
+\ev
+\ru Он говорит, по-русски я не знаю, по-эвенски это называется буюн.
+
+\id Tylkanova_NA_BAM_013
+\tx vse
+\ELANBegin 00:01:10.210
+\ELANEnd 00:01:11.560
+\ELANParticipant
+\ev
+\ru 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Kamchatka2009/sound_from_video/Tylkanova_NA_Esso_130609_BAM.wav
+\ELANMediaMIME audio/x-wav

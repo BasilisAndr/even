@@ -1,0 +1,127 @@
+\_sh v3.0  1227 Text
+
+\id BYS_evaluative_13
+\ref Adukanova_Darja_Borisovna_113
+\tx dʒọɣaːnịl             ọːnkana    goːweːtte           dʒọɣaːnịl
+\mb
+\gr ʤoγanil = bednye; Q: bi ʤoγram = ja bedstvuju; A: ʤoγanil = massa ljudej, bednye; Q: okanaːnin (dolgo radovalasj), A: oknin (obradovalasj); 1 ʤoγri, ʤoγril ili ʤoγaːnil, raznitsa net;
+Q: ibdireːnil A: net, ibdiril; Q: -aːnil does it exist in other words? A: maybe, there are so many different words, and maybe also some dialectal intrusions; Q: aːšaːnallan A: aːšanallan =
+nachinaet obizhatjsja; kuŋa aːšaːnni = kuŋa kotoryj chasto obizhaetsja --> I think the n here is simply the nominalizer, and the long vowel emphasis or I misheard, it's not the "compassion"
+suffix; Q: bi ebʤeneːnniwu? A: netu
+
+\id BYS_evaluative_14
+\ref Adukanov_Sergej_life_063
+\tx Gịakịlbụ    ittiwu,            kọbalam,     bọŋgačam              ittiwu
+\mb
+\ge
+\gr Q: boŋgačan = malenkij? A: boŋgačan = gornyj baran, is the same as boŋga
+
+\id BYS_evaluative_15
+\ref judgement/discussion; from the razgovor, I had figured out the following
+\tx Svetačan = prenebrezhenie
+\tx Svetajakan = prosto malenkaja rostom
+\tx Svetakakan = milaja Sveta
+\gr and Rimma agreed with this
+\nt
+\ref with augmentatives: I asked what the different forms might mean, and Rimma explained; but for Svetańdʒa she at first said it only meant "bolshoj", and only when I asked how one would
+say it if one wanted to express positive feelings about a big person did she say that would be Svetańʤa
+\tx Svetańdʒa = bolshaja takaja, prosto bolshaja, or with positive ottenok
+\tx Svetakaja = bolshaja, no uzhe nemnozhko serdita (Komarixa = Svetakaja)
+\tx Svetakamkar = bolshaja, vot eta Sveta
+\gr
+\gr HOWEVER, it is actually clear that there is NO one-to-one relationship between diminutive morpheme and emotional nuance, because in the razgovor (JIP_RME_razogovor_211) there is
+Mikulejčen, and when we discussed that she had said he was only small, there was no pejorative meaning involved, and in Solodikova_RM_nimkan (38) bejjeken has a disapproving nuance
+
+\id BYS_evaluative_16
+\ref judgement/discussion: kụŋakan
+\tx kụŋa vs. kụŋakan
+\gr
+\gr at first she said there was no difference, but then she said "kụŋakan" = malenkij rebenok, and "kụŋakajakan" = xuliganisty rebenok
+
+\id BYS_evaluative_17
+\ref judgement/discussion (Egorova_RM_Uindja_005)
+\tx Ọrčartan                           bisin
+\ph
+\gr Malo olenej bylo, nemnozhko; not malenkije rostom
+
+\id LAM_evaluative_01
+\ref modified sentence from Sebjan and asked whether they can say this:
+\tx Bi okatla ittem kọbalanamkar. Minu ittiʤi, kobalankaja ilabahadni ečijeken.
+\mb
+\gr A: no, chto eto takoe "ilabahadni"? Q: do they have forms that let you express size on the verb? A: net naverno
+
+\id LAM_evaluative_02
+\ref modified sentence from Sebjan and asked whether they can say this:
+\tx taral kuŋajakar   gruša-w     ʤeb-kenʤur    ilten-i-ten
+\mb
+\gr A: ʤebkenʤur = net, ʤebniker
+
+\id LAM_evaluative_03
+\ref modified sentence from Sebjan and asked whether they can say this:
+\tx Kobalankaja ilijaːʤi ečin nekrin.
+\mb
+\gr A: illiʤi
+
+\id LAM_evaluative_04
+\ref modified sentence from Sebjan and asked whether they can say this:
+\tx kuŋa irkallakan amar-da-duku-n    akm-u    ńuː-jeːt-te-n
+\mb
+\gr interesting, didn't understand "irkačalan", changed it to irkallakan; 
+\gr A: ńuːjeːtten = da, vyshel; ńuːrin = vyshel;  ńuːjeːttin = vyshel sovsem; Q: iːjeːttem mozhno skazatj (ja sovsem voshla) A: net; ńuːjeːtten = ushel on i vsje: Q: urijeːttin? A: da, kogda uxodjat
+s obidy; Q: gurgewčijeːtten? A: tozhe mozhno, rabotatj kak popalo, tut i tam, n raznyx rabotax, naprimer "čelelin gurgewčijeːttiwu" kogda vspominaesh, tam i tam rabotala
+
+\id LAM_evaluative_05
+\ref modified sentence from Sebjan and asked whether they can say this:
+\tx nọŋan  tariʤit  bukeš doːlan, muː  dọː-la-n      ur-eːn-če
+\mb
+\gr A: chto takoe ureːnčen? netu; Q: ureʤeːnče? A: ureʤeːnnin, da, ushel navsegda, bednenjkij; Q: ureːnnin? A: netu... then said: ureːnin adirada = mnogo raz uezhal; emneːnin (I'd asked
+whether one could say "emeːnnin" and she changed it to emneːnin" - which doesn't make sense and casts doubt on the existence of a suffix -Eːn; RME: kogda vspominajut pro proshloe
+govorjat emneːnin adirada "100 raz priezhal"
+
+\id LAM_evaluatve_06
+\ref sentence from Kamchatka
+\tx Ịamị tala          Valerka     tegečidden,                           ves'  ŋuleńe!  
+\mb
+\gr Q: can one say ŋuleŋeje? A: no, ŋuleńe; Q: ŋuleŋeken? A: ŋuleńekeken = krasnenkij, or ŋuleńeken = krasnenkij kakoj-to; both forms with the diminutive seem to have an attenuative
+meaning
+
+\id LAM_evaluatve_07
+\ref sentence from Kamchatka
+\tx Tala               bisin        čụlbańa dʒụːkakan.
+\mb
+\gr Q: čulbaŋakan ʤu A: no.... then peredumala, said "mozhno, no eto redko"; Q: čulbaŋakan ʤu = malenkij dom? A: net, po cvetu, zelenenkij takoj;
+
+\id LAM_evaluatve_08
+\ref sentence from Kamchatka
+\tx Noŋan   minteki         ičịsnin        nan    bisi mịanịwụ    ịasalan     ịamị tarọːčịnị čụlbańa.
+\mb
+\gr Q: can one say: čulbaŋaja A: no, netu! Q: čulbaŋakan? A: nu mozhno govoritj čulbaŋakan, ne sovsem zelenye; naprimer "Zelenyj Dom", awuski urenni? bi čulbaŋakantaki -- so this is a
+specific house and people know which house
+
+\id LAM_evaluatve_09
+\ref modified sentence from Sebjan and asked whether they can say this:
+\tx tar  unta-čam-i    tet-tiʤi, bombo-ʤeːgegej   girka-waːttan, hut-u
+\mb
+\gr A: doesn't know what that might bomboʤeːgegej; Q: how do they gush over children? A: buŋuńakakan = kruglenkij; tembeńekeken; Q: any specific suffix for kids? A: bombočekakaːj,
+xodit puxlenkij; tembačekakaːj "tolstenkij", Q: so one can say tembačekakaːj girkawaːttan? A: yes, or bergečekekeːj
+\gr Q: tried to find out whether one can use the suffix -čekekeːj with negative verbs, but didn't know an equivalent of pelpelde-; huligančakakaːj mozhno skazatj? A: net; irkunita = huligan; Q:
+irkuničakakaːj? A: irkunitakakan = malenkij huligan
+
+\id LAM_evaluatve_10
+\ref modified sentence from Sebjan and asked whether they can say this:
+\tx tara-ńʤa-kan       gọgọ-llan
+\mb
+\gr didn't accept gogolča, changed it to gogoddan or gogollan
+\gr one can say this, "von tot"; tawuranʤakan gogollan, vot etot
+
+\id LAM_evaluatve_11
+\ref modified sentence from Sebjan and asked whether they can say this:
+\tx tar   iatakaγduk oromkarakan          tušaŋčirin
+\mb
+\gr A: oromkarakan = net; Q: oronʤakan? A: no, govorjat: orjakan 
+
+\id LAM_evaluatve_12
+\ref modified sentence from Sebjan and asked whether they can say this:
+\tx ńari-ča-kaːn,   ńurma-riʤi,      iat amar-gida-duku-n         tuhaŋčirin
+\mb
+\gr Q: ńaričakan? A: no, it should be ńarijakan, or ńarikan

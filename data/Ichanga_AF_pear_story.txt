@@ -1,0 +1,244 @@
+\_sh v3.0  776  Text
+
+\id Ichanga_AF_pear_story_00_metadata
+\ref Recorded on 27 June 2007 in Esso by Brigitte Pakendorf, in the kitchen of Rimma
+Maksimovna's house. BP had showed the pear film to AFI, who then narrated it to RME.
+Unfortunately, he was rather heavily inebriated at the time.
+\qu Transcribed by BP, transcription checked and Russian translation by Valentina Innokent'evna
+Axmetova, glossing by BP. Funding by the Max Planck Society (MPRG on Comparative Population
+Linguistics). Speaker abbreviation = AFI
+\ref Aleksandr Fomich Ichanga was 41 years old at the time of the recording. He is probably the
+younger brother of Nikolaj Fomich Ichanga (of the Managich fishing camp).
+
+\id Ichanga_AF_pear_story_01
+\ref 0:22
+\tx Ọːntakan     biweːčinni?
+\mb ọːn =t(E)kEn bi -WEːČ -R(E)    -nrI
+\ge how    =restr   be -gnr    -nonfut  -2sg
+\ft How are you?
+\ru Как поживаешь?
+
+\id Ichanga_AF_pear_story_02
+\ref 0:55
+\tx Bi   kojeːttiwu            tala          erek bej omen tewtew       ...
+\mb biː kojeːt -RI  -W        tarak -(dU)LE erek bej omen tewte   -W   *...
+\ge 1sg  look.at -pst -poss.1sg dist  -loc    prox man one  berries -acc ***
+\ft I saw there (how) one man (picked) berries...
+\ru Я видел там этот один мужчина ягоду....
+
+\id Ichanga_AF_pear_story_03
+\ref 1:06
+\tx U nas eto fruktov netu i tam po-našemu-to.
+\ft [in Russian:] We don't have fruit, and in our language...
+
+\id Ichanga_AF_pear_story_04
+\ref 1:11
+\tx ...tewtew    gurgeːwčidden,                tewtew       ataladdan
+\mb tewte   -W   gurgeːwči -D    -R(E)   -n(I) tewte   -W   atal     -E-D     -R(E)   -n(I)
+\ge berries -acc work        -prog -nonfut -3sg  berries -acc take.off -ep-prog -nonfut -3sg
+
+\tx tala.
+\mb tarak -(dU)LE
+\ge dist  -loc
+
+\ft ...worked in the berries, picked berries there.
+\ru Ягоду работает, ягоду снимает там.
+\ph
+\gr
+
+\id Ichanga_AF_pear_story_05
+\ref 1:17
+\tx Ńan   kụŋaŋịn             emnin               velosipedič,     ńan
+\mb ńaːn kụŋa -ŋ  -E-n(I)      em   -RI  -n(I)     velosiped -E-Č   ńaːn
+\ge again  child   -aln -ep-poss.3sg come -pst -poss.3sg bicycle.R -ep-ins again
+
+\tx nọŋandụlan            velosipedulan               teːwrin                ile
+\mb nọŋan -(dU)LE -n(I)     velosiped -(dU)LE -n(I)     teːw    -RI  -n(I)     irek  -(dU)LE
+\ge 3sg      -loc    -poss.3sg bicycle.R -loc    -poss.3sg put.down -pst -poss.3sg which -loc
+
+\tx dʒullelen,          bagažnịkdụla.
+\mb dʒul -(dU)LE -n(I)  bagažnik.R       -(dU)LE
+\ge front -loc -poss.3sg luggage.rack.R    -loc
+
+\ft And his child came by bike and put on his bike, where, in front, on the luggage rack.
+\ru Потом пришел пацан, поставил на свой велосипед спереди, на багажник. 
+\ph
+\nt When I asked the next day what "kụŋaŋịn emnin velosipedič" means, she translated it as "ego
+rebenok priexal na velosipede"
+
+\id Ichanga_AF_pear_story_06
+\ref 1:38
+\tx Ńan   nọŋan badụsnịn                 velosipedič.
+\mb ńaːn nọŋan badụ -s(E)n -RI  -n(I)     velosiped -E-Č
+\ge again  3sg      ride   -lim   -pst -poss.3sg bicycle.R -ep-ins
+\ft And he rode off by bicycle.
+\ru И он уехал на велосипеде.
+\ph
+
+\id Ichanga_AF_pear_story_07
+\ref 1:43
+\tx Ńan   arčarịn             asatkam, ńan   dʒoːkerin  ńan   nọŋartan ...
+\mb ńaːn arčị -RI  -n(I)     asatkan  ńaːn dʒoːkerin  ńaːn nọŋartan *...
+\ge again  meet    -pst -poss.3sg girl     again  two.together again  3pl         ***
+
+\tx ọːnkana    goːweːtteke...                [naːdịtan]
+\mb ọːn =kEnE  goːn -WEːČ -R(E)       =kE   naː -RI  -tEn
+\ge how    =contr say   -gnr    -nonfut.3pl =emph hit  -pst -poss.3pl
+
+\ft And he met a girl, and they ... how do they say .... [Rimma Maksimovna, whispered:] they hit...
+\ru Потом встречал девушку, и они вдвоем.... как говорят же
+\ph
+\gr dʒoːkerin = vdvoem, dʒọːrridʒur = vdvoem, my s toboj; ịlnịdʒụr = vtroem, *ịlkarịn ne
+govorjat; dignidʒur = včetverom, *dig(en)kerin ne govorjat; 
+\gr Feb.2013 - the form he uses for 'meet' is probably wrong, because it means "meet on purpose,
+go to meet" - but in the movie this meeting is of course not on purpose
+
+\id Ichanga_AF_pear_story_08
+\ref 2:02
+\tx Ńan   nọŋan ŋenedden,                    ńan   aːwụnnị
+\mb ńaːn nọŋan ŋen -E-D     -R(E)   -E-n(I) ńaːn aːwụn -n(I)
+\ge again  3sg      go   -ep-prog -nonfut -ep-3sg again  hat      -poss.3sg
+
+\tx asatkaːjakan... ńan   tikrin              aːwụnnị,      degil        ...
+\mb asatkan -jEkEn   ńaːn tik  -RI  -n(I)     aːwụn -n(I)     deg -E-L     *...
+\ge girl    -dim     again  fall -pst -poss.3sg hat      -poss.3sg fly -ep-inch ***
+
+\ft And he went and  his hat the girl..... [shows with his hands how the girl knocked the boy's hat off
+his head] and his hat fell off.
+\ru Он идет потом его шляпа, ... девушка... потом упала шляпа....
+\ph
+
+\id Ichanga_AF_pear_story_09
+\ref 2:18
+\tx Ńan   tarak ịllịn,          ńan   aːwmị          gelnerin.
+\mb ńaːn tarak ịl -RI  -n(I)     ńaːn aːwụn -J       gel      -nE     -RI  -n(I)
+\ge again  dist  stop -pst -poss.3sg again  hat      -prfl.sg look.for -intent -pst -poss.3sg
+
+\ft And he stopped and went to get his hat.
+\ru Он потом остановился, пошел искать шапку.
+\ph
+
+\id Ichanga_AF_pear_story_10
+\ref 2:28
+\tx Ńan   ịlan kụŋakajakar              ŋenniten           ńan
+\mb ńaːn ịlan kụŋa -KEn     -jEkEn -L  ŋen -RI  -tEn      ńaːn
+\ge again  three  child   -dim.int -dim   -pl go   -pst -poss.3pl again
+
+\tx toremečidditen.
+\mb tore  -mEČ -E-D     -RI  -tEn
+\ge speak -rec  -ep-prog -pst -poss.3pl
+
+\ft And three boys came and they spoke with each other.
+\ph
+\gr 30.01.13 (questions7, 20:15) kụŋakajakar = kụŋakan+jakan; kụŋakaja = bolshoj rebenok;
+kụŋakan = prosto rebenok; kụŋakajakar = malenkie rebjatishki; kụŋakajakar - she said it
+would be correct, and one could say kụŋakakakar, and both would be correct - but I only gave
+her a quick synopsis of the story and so I'm not sure how much weight I would give to this
+answer, I would rather think that Ichanga was drunk and thus not very fluent and she now
+confused as to what I was driving at
+\ru Потом трое пацанов пришли и стали разговаривать.
+\ph
+\gr
+
+\id Ichanga_AF_pear_story_11
+\ref 2:36
+\tx Ńan   tarak badụsnịn,                asụkụt kusiriten,          nọŋmaːn.
+\mb ńaːn tarak badụ -s(E)n -RI  -n(I)     asụkụt kusi -RI  -tEn      nọŋmaːn
+\ge again  dist  ride   -lim   -pst -poss.3sg almost     beat -pst -poss.3pl 3sg.acc
+
+\ft Then that one rode off, they almost beat him up.
+\ru Потом тот уехал, чуть не отлупили его.
+\ph
+
+\id Ichanga_AF_pear_story_12
+\ref 2:44
+\tx Ńan   gadịdʒị  veliki          ńan   ŋenidden.
+\mb ńaːn ga   -RIdʒI  velik  -J       ńaːn ŋen -E-D     -R(E)   -E-n(I)
+\ge again  take -ant.cvb bike.R -prfl.sg again  go   -ep-prog -nonfut -ep-3sg
+\ft Then he took his bike and went.
+\ru Потом взял велик и поехал.
+\ph
+
+\id Ichanga_AF_pear_story_13
+\ref 2:48
+\tx Ńan   tarịl      kụŋakajakar              ịlan bọknịtan            nọŋmaːn.
+\mb ńaːn tarak -E-L   kụŋa -KEn     -jEkEn -L  ịlan bọkan  -RI  -tEn      nọŋmaːn
+\ge again  dist  -ep-pl child   -dim.int -dim   -pl three  catch.up -pst -poss.3pl 3sg.acc
+
+\ft And those boys, the three, caught up with him.
+\ru Вот эти трое пацаны догнали его.
+\ph
+\gr bọknịtan = dognali; bọknam = dognal; bọkandʒịm = dogonju; bọkandʒịnnị = dogoniš'
+
+\id Ichanga_AF_pear_story_14
+\ref 2:55
+\tx Ńan   aːwman                    bakrịtan          ńan   buːriten.
+\mb ńaːn aːwụn -W   -E-n(I)      bak  -RI  -tEn      ńaːn buː -RI  -tEn
+\ge again  hat      -acc -ep-poss.3sg find -pst -poss.3pl again  give -pst -poss.3pl
+\ft And they found his hat and gave it to him.
+\ru Потом нашли шапку и отдали.
+\ph
+
+\id Ichanga_AF_pear_story_15
+\ref 3:00
+\tx Ńan   ...  ọːnkana
+\mb ńaːn *... ọːn =kEnE
+\ge again  ***  how    =contr
+
+\tx goːweːtte,              kak   mirovaja-to  u    nas  nazyvaetsja?
+\mb goːn -WEːČ -R(E)   
+\ge say   -gnr    -nonfut.3pl 
+
+\ft And.... how does one say, [in Russian, addressed to Rimma Maksimovnaː] How is ..... called in
+Even?
+\ru Как же сказать... 
+\ph
+
+\id Ichanga_AF_pear_story_16
+\ref 3:10
+\tx [ajmụldụrịtan]       Nu,    dorobočidditen
+\mb ajmụldụ -RI  -tEn      nu     dorobo  -Č  -E-D     -RI  -tEn
+\ge make.peace  -pst -poss.3pl well.R hello.R -res -ep-prog -pst -poss.3pl
+
+\tx [ajmụldụrịtan!]      ah, iŋe.
+\mb ajmụldụ -RI  -tEn      ah  ịŋa
+\ge make.peace  -pst -poss.3pl ah  yes
+
+\ft [Rimma Maksimovna, softly: make peace] Well, they said hello [Rimma Maksimovna, loudly:
+make peace] ah, yes.
+\ru (помирились) Ну, поздоровались. (помирились!) А, да. 
+\ph
+\gr
+
+\id Ichanga_AF_pear_story_17
+\ref 3:19
+\tx Ńan   uredden.
+\mb ńaːn ur    -E-D     -R(E)   -n(I)
+\ge again  leave -ep-prog -nonfut -3sg
+\ft And he leaves.
+\ru И уходит.
+\ph
+
+\id Ichanga_AF_pear_story_18
+\ref 3:23
+\tx Ńan   tarak bejkeje     unet  ńanda      korzinagli       ńanda      erew
+\mb ńaːn tarak bej -kEːjE unet  ńaːn =DE  korzina  -g(E)lI ńaːn =DE  erek -W
+\ge again  dist  man -aug    still again  =ptl basket.R -com    again  =ptl prox -acc
+
+\tx ataladdan                       značit   ńan   ....
+\mb atal     -E-D     -R(E)   -n(I) značit   ńaːn
+\ge take.off -ep-prog -nonfut -3sg  that.is.R again
+
+\ft And that man is still with his basket and is still picking this....
+\ru И этот мужчина еще опять корзину опять вот это снимает....
+\ph
+
+\id Ichanga_AF_pear_story_19
+\ref 3:37
+\tx Ńan   tarị vrode   by.
+\mb ńaːn tar    vrode   by
+\ge again  thus   as.if.R ptl.R
+\ft And that's all, I think.
+\ru И все, вроде бы.
+\ph
+\gr

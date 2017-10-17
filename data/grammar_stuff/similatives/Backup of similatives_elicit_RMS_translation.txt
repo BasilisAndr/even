@@ -1,0 +1,105 @@
+\_sh v3.0  1082 Text
+
+\id 01_equative
+\ru Он такой же высокий как его отец.
+\tx Nọŋan gụːd akŋečimi.
+\mb
+\ge
+\gr akŋečimi = correct (Rimma said ekŋečimi in one of the elicitation sentences)
+
+\id 02_equative
+\ru Маша такая же красивая как ее мать. 
+\tx Maša ekmitit urečinni nọːd.
+
+\id 08_equative
+\ru Его сын не такой же сильный, как твой, но зато он очень умен.
+\tx Nọŋan esni in... eŋi bise, no nọŋan mergeč in uttukus.
+\mb
+\ge
+\ft
+\gr had very very big problems saying this; I think they really don't do negative comparisons...
+
+\id 09_similative
+\ru Мы ели макароны как итальянцы.
+\tx Bu makarom dʒebeddiwun italjancalgačin.
+
+\id 11_similative
+\ru Похожие на шарики рыбы очень страшные.
+\tx Meretil ọlla(l) ịlkan eŋundel.
+
+\id 12_similative
+\ru Отсюда, кажется, приехал
+\tx Kọt tadụk emnin.
+
+\id 13_similative
+\ru Этот домик будто сгорел 
+\tx Erek dʒụː durče       biγreden.
+\mb erek dʒụː dur  -čE    bi -Gr(E) -DE       -n(I)
+\ge prox house    burn -pf.ptc be -hab   -purp.cvb -poss.3sg
+
+\ft
+\ph
+\gr durče biγreden = kak budto by sgorel, sgorevshy budto by
+
+\id 14_similative
+\ru Где-то как будто он ее видел
+\tx Nọŋan ilewučesi itče urečinni.
+
+\id 17_similative
+\ru Слышен звук, как будто он идет в тапочках 
+\tx tapočkič      tetuttiγčin                         isni     gịrkanni
+\mb tapočki   -Č  tet    -U    -Č  -RI       -G(E)čIn isni     gịrka -n  -n(I)
+\ge slippers.R -ins put.on -caus -res -impf.ptc -sml      be.heard walk    -nr -poss.3sg
+
+\ft
+\gr tetuttiγčin = kak budto on odet v tapochkax
+\ru как будто в тапочках идет слышны его шаги
+\gr she had big problems with this one
+
+\id 26_comparative
+\ru Мой сын в школе учится лучше, чем твой сын.
+\tx Min utu skolele upkutten in uttukus ajịč.
+
+\id 27_comparative
+\ru Лион более красивый город, чем Лейпциг.
+\tx Lion Lejpcigduk nọːd.
+
+\id 28_comparative
+\ru Ты на 5 лет старше меня.
+\tx Iː minduk tụnŋan anŋanịč eken bisenni.
+
+\id 34_superlative
+\ru Новая школа в Эссо – самая большая школа во всей Камчатке.
+\tx Essola skola čeledukun skolelduk Kamčatkala egdʒen.
+
+\id 35_pretense
+\ru Ребенок делает вид, что он делает уроки, но на самом деле он играет на компьютере.
+\tx Uroki upkučissen bideji nọŋan ewiddʒoːtten kompjuterič.
+
+\id 36_pretense
+\ru Я делала вид, что ела нялакчу, но на самом деле дала ее собаке.
+\tx Bi dʒebessen bisiwu ńalakčaw, meːnkenesi ŋịndu buːriwu.
+
+\id 40_pretense
+\ru Мы сделали вид что мы уехали в город.
+\tx Bu     uresser gorodtakị.
+\mb buː           gorod  -t(E)kI
+\ge 1pl.ex         town.R -all
+
+\ft
+\gr bu uresser gorodtaki = my kak budto uexali v gorod; bi uresserem gorodtaki = kak budto ja uexala
+\qu uresser?? (0:35-0:40) shouldn't this be uresserU?? 
+\ref then corrected herself, or added:
+\tx uresser bidewur gorodtakị nekriwun.
+
+\id 42_pretense
+\ru Ребенок притворяется, что плачет, чтобы мама его пожалела.
+\tx Kụŋakan       awkaldaddan                 olekčin...   awkaldan       ọŋassan           bideji                ekmi            nọŋman
+\mb kụŋa -KEn     hawkalda -D    -R(E) -n(I)  olekči -n(I) hawkalda -n(I) họŋ -E  -ssEn     bi -DE       -J       eken   -J       nọŋman
+\ge child   -dim.int be.sly   -prog -nonfut -3sg cheat   -3sg  be.sly   -3sg  cry    -ep -pretense be -purp.cvb -prfl.sg mother -prfl.sg 3sg.acc
+
+\tx illaldan.
+\mb illal -R(E) -n(I)
+\ge pity  -nonfut -3sg
+
+\gr bi awkaldaram = ja xitrju; illaːldan = pozhalela; bi illaːllam = ja zhaleju

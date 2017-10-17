@@ -1,0 +1,614 @@
+\_sh v3.0  400  Text
+
+\id beseda_0408
+\ref 3sg, em
+\tx Ọːk emejer?
+\mb ọːk em   -E  -j    -Ar
+\ge when   come -ep -conn -prs.ptcp.Y
+
+\ru Когда приедут? 
+\ELANBegin 00:12:08.088
+\ELANEnd 00:12:09.408
+\ELANParticipant RDA
+
+\id beseda_0412
+\ref 3pl, em
+\tx Tiːk ere  nelke        emejeller.
+\mb tiek  erek nelkeni      em   -E  -j    -EllEr
+\ge now   prox early.spring come -ep -conn -prs.ptc.Y
+\ft They will come now in spring.
+\ru Сейчас вот весной приедут.
+\ELANBegin 00:12:15.426
+\ELANEnd 00:12:17.244
+\ELANParticipant RDA
+
+\id beseda_0418
+\ref 3pl, em
+\tx Emejeller.
+\mb em   -E  -j    -EllEr
+\ge come -ep -agnr -prs.ptc.Y
+\ft They will come.
+\ru Приедут.
+\ELANBegin 00:12:21.762
+\ELANEnd 00:12:23.664
+\ELANParticipant RDA
+
+\id beseda_0434
+\ref 1pl, hor
+\tx Tadụ     herejebit.
+\mb tarak -DU  hor -E-j     -EbIt
+\ge dist  -dat go  -ep-conn -prs.1pl.Y
+\ft We will go there.
+\ru Туда поедем.
+\ELANBegin 00:12:54.246
+\ELANEnd 00:12:56.286
+\ELANParticipant RDA
+
+\id beseda_0447
+\ref 3pl, hor
+\tx tarjeː     ịlanmịar      ineŋile       herejeller               ineŋin.
+\mb tarak -jEː ịlan mịan -L  ineŋi -(dU)LE hor -E  -j    -EllEr     ineŋ -E-n(I)
+\ge dist  -aug  three  ten    -pl day    -loc    go  -ep -conn -prs.ptc.Y day   -ep-poss.3sg
+
+\ru На тридцать дней едут.
+\ELANBegin 00:13:12.486
+\ELANEnd 00:13:16.578
+\ELANParticipant RDA
+
+\id beseda_0703
+\ref 3sg, baγar
+\tx Tụspa      nahaː ịajịan                     baγarar           ehni,          tegečejien.
+\mb tụspa      nahaː ịa    -j    -IEn             baγar -Ar         e -R(E) -n(I)  teg      -E  -Č  -E  -j    -IEn
+\ge separately.Y very.Y do.what -conn -futpt.acc.3sg.Y wish.Y -prs.ptcp.Y neg -nfut -3sg sit.down -ep -res -ep -conn -futpt.acc.3sg.Y
+
+\ft she very much wants to live alone
+\ph
+\gr in Sakha, the present participle is the 3sg form of the present indicative
+\ru она очень хочет жить отдельно
+\ELANBegin 00:20:41.955
+\ELANEnd 00:20:45.140
+\ELANParticipant IAS
+
+\id beseda_0977
+\ref 1sg, iesčimet
+\tx biː emie   iesče... ịadʒịm,       iečemečejebin.
+\mb biː emie             ịa    -DʒI -m   ie       -sčI  -mEČ -E  -j    -EbIn
+\ge 1sg  also.Y           do.what -fut  -1sg overtake -conat -rec  -ep -conn -prs.1sg.Y
+
+\ft I will also take part
+\ph
+\gr in Sebjan they say iečemet- rather than iesčimet- (though several of the speakers here have used the form iesčimet-)
+\ru я тоже буду состязаться
+\ELANBegin 00:28:08.155
+\ELANEnd 00:28:10.920
+\ELANParticipant RDA
+
+\id beseda_1522
+\ref 1sg, ga
+\tx ŋiːgol     goːli         bi   gajabịn             ọlọk
+\mb ŋiː =(W)Ul goːn -LI      biː ga   -j    -EbIn      ọlọx
+\ge who   =indef say   -imp.2sg 1sg  take -conn -prs.1sg.Y completely.Y
+\ft somebody, I will definitely take
+\ru кто-нибудь да, я возьму обязательно
+\ELANBegin 00:46:10.360
+\ELANEnd 00:46:11.490
+\ELANParticipant RDA
+
+\id beseda_1775
+\ref 3sg, em
+\tx Emdʒi...  emejer                     uhu?
+\mb em   -DʒI em   -E  -j    -Ar         ühü
+\ge come -fut  come -ep -conn -prs.ptcp.Y hsy.Y
+\ft she'll come, I hear?
+\ru она приедет
+\ELANBegin 00:53:41.205
+\ELANEnd 00:53:42.390
+\ELANParticipant IAS
+
+\id beseda_1979
+\ref 3sg, em
+\tx Ŋiː emejer?
+\mb ŋiː em   -E  -j    -Ar
+\ge who   come -ep -conn -prs.ptcp.Y
+\ft who's coming?
+\ru кто приедет?
+\ELANBegin 00:58:54.570
+\ELANEnd 00:58:55.572
+\ELANParticipant RDA
+
+\id beseda_2019
+\ref 3sg, ọː; a lot of Sakha
+\tx Omen masịna ọttọn hin     ọːjar                 ebit.
+\mb omen mašina  ọttọn sin     ọː  -j    -Ar         ebit
+\ge one  car.R    dp.Y      a.bit.Y become -conn -prs.ptcp.Y it.seems.Y
+
+\ft that might be enough for one truck
+\ru 1 машина может быть станет,
+\ELANBegin 00:59:46.335
+\ELANEnd 00:59:48.305
+\ELANParticipant IAS
+
+\id Kejmetinova_TV_family_005
+\ref 3sg, em
+\tx Hiː taraw      ịalị,        ịamị ịadʒịnnị,   biː ukčendʒim
+\mb hiː tarak -W   ịa    -LI      ịamị ịa    -DʒI -nrI biː ukčen -DʒI -m
+\ge 2sg  dist  -acc do.what -imp.2sg why      do.what -fut  -2sg 1sg  tell   -fut  -1sg
+
+\tx ọdčalaw                     omojor                     iːdʒin          čaːgaw
+\mb ọd -čE    -(dU)LE -W        em   -E  -j    -Ar         iː   -DʒI -n(I) čaːg -(g)Ew
+\ge stop -pf.ptc -loc    -poss.1sg come -ep -conn -prs.ptcp.Y enter -fut  -3sg  far    -adjr
+
+\tx goːli.
+\mb goːn -LI
+\ge say   -imp.2sg
+
+\ft You do that, why will you do (that), he will come when I finish telling, that one will come in,
+right.
+\ru Ты это сделай, почему ты будешь делать, он придет когда я закочну рассказывать, зайдет
+тот скажи.
+\ph
+\gr
+\nt ukčendʒim - not clear what she says, from the form it doesn't make sense here; the whole
+"sentence" is very hard to understand, not clear what she meant, and also very hard to
+razslyshat'
+
+\id Krivoshapkina_AE_childhood_112
+\ref 3pl, em
+\tx Ịndịbaldụ  buolla  erteki       ịbgọnụn   bejil      emejer                     buolla,
+\mb Ịndịbal -DU  buollar erek -t(E)kI ịbgọ =ńUn  bej -E-L   em   -E  -j    -Ar         buol  -dEg      -E
+\ge Endybal     -dat dp.Y    prox -all    good     =restr man -ep-pl come -ep -conn -prs.ptcp.Y aux.Y -assert.Y -poss.3sg.Y
+
+\tx kụŋallị          emejeller                 [tala         emejeller                 tarịt].
+\mb kụŋa -L  -n(I)     em   -E  -j    -EllEr     tarak -(dU)LE em   -E  -j    -EllEr     tarịt
+\ge child   -pl -poss.3sg come -ep -conn -prs.ptc.Y dist  -loc    come -ep -conn -prs.ptc.Y then
+
+\ft Here, to Yndybal, only able people could come, and their children also came.
+\ru На Ындыбал сюда приезжают только хорошие люди, его дети приедут. // На Ындыбал могли приехать только те люди
+которые могли (с оленями, молодые, здоровые), и их дети тоже приехали.
+\ph
+\gr Ija Krivoshapkina at first said that the Sakha Present Participle here in Sebjan has a meaning of "objazatel'no,
+vynuzhdeno", but it doesn't seem to be the case in this sentence, here it appears to be just a factual statement.
+\nt
+
+\id Krivoshapkina_AX_svatovstvo_103
+\ref 3sg, em
+\tx Ahịkkačakal          bọlla      ńamịčačakalbụ            ọrọn          emejer                     uže,
+\mb asị -kkEn -čEkEn -L  buollaγïna ńamịčan     -čEkEn -L-W    ọrọn          em   -E  -j    -Ar         uže
+\ge woman -dim  -plen   -pl dp.Y         female.reindeer -plen   -pl-acc domestic.reindeer come -ep -conn -prs.ptcp.Y already.R
+
+\tx hụːmačakan,  delmiče      emejer.
+\mb hụːma -čEkEn delmiče      em   -E  -j    -Ar
+\ge herd     -plen   reindeer.herd come -ep -conn -prs.ptcp.Y
+
+\ft And the girls (milk) the does; the herd of reindeer comes already.
+\ph
+\gr hụːmačakan = množestvo stad olenej, because a lot of different little herds came, from all the different families who had gathered
+\ELANBegin 00:15:13.870
+\ELANEnd 00:15:21.650
+\ELANParticipant
+\ru А девушки важенок, олени приходят уже, стадо приходит.
+
+\id Krivoshapkina_Sofija_life_050
+\ref 1sg, hor
+\tx Biː buollar ŋeːlelejer                             buollagïm,            ọl_ihin   dʒe   dʒe
+\mb biː buollar ŋeːl    -E-L     -E  -j    -Ar         buol  -dEg      -Im    ọl_ihin   dʒe   dʒe
+\ge 1sg  dp.Y    be.afraid -ep-inch -ep -conn -prs.ptcp.Y aux.Y -assert.Y -1sg.Y therefore.Y well.Y well.Y
+
+\tx horejebin.
+\mb hor -E  -j    -EbIn
+\ge go  -ep -conn -prs.1sg.Y
+
+\ft And I got frightened, therefore I went (i.e. married him).
+\ru А я пугаюсь поэтому иду.
+\ph
+\gr
+\nt
+
+\id Krivoshapkin_SP_oxota_070
+\ref 2sg, duru
+\tx Tọwụ   tọwụ   durujegin,                  ahụkandụ  gọl    bihiken.
+\mb tọg -W   tọg -W   dur  -U    -j    -EgIn      ahụkan -DU  gọl    bi -REk -E-n(I)
+\ge fire  -acc fire  -acc burn -caus -conn -prs.2sg.Y near     -dat firewood be -cond.cvb -ep -poss.3sg
+\ft You light a fire if there is wood nearby.
+\ru Разжигаешь огонь, если по-близости дрова есть.
+\ELANBegin 00:05:09.090
+\ELANEnd 00:05:14.710
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_071
+\ref 2sg, ilgam
+\tx Meːne   ịlgamajagịn,             eniken       torerde,            ịak, deːpki  itniken.
+\mb meːne   ịlgam -E  -j    -EgIn      e   -nIkEn   tore  -R       =DE  ịak  deːpki  it  -nIkEn
+\ge simply.Y stand   -ep -conn -prs.2sg.Y neg -sim.cvb speak -neg.cvb =ptl what   opposite see -sim.cvb
+\ft You simply stand without speaking, looking ahead.
+\ru Просто стоишь не говоря, навстречу смотря.
+\ELANBegin 00:05:14.710
+\ELANEnd 00:05:18.670
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_198
+\ref 2sg, ʤeb
+\tx Üldʒü      dʒebejegin                taraw,     maːmị.
+\mb üldʒü      dʒep -E  -j    -EgIn      tarak -W   maː -mI
+\ge immediately.Y eat   -ep -conn -prs.2sg.Y dist  -acc kill -cond.cvb
+
+\ft You have to eat that at once.
+\ph
+\gr (trans RDA_stuck_SPK_oxota, 40:00) dʒebejegin = ottenok nužno srazu kušat', ne prosto 'srazu kušaeš'; (09_quest_2010, from about 3:00)
+long discussion about the forms in -(e)jegin, which she translated sometimes with 'nužno', sometimes with simple 2SG present tense. At first
+she said it should all be just 2SG.prs, and that she just put in the 'nužno' meaning from the context, but then (about 7:00) she said that the
+'nužno' would have a long vowel on the middle syllable, -(e)jeːgin - but I cannot hear that; (10_quest_2010, beginning) tulejeːgin naːda - one
+cannot use the verb form without naːda, and the lenght is on the Sakha fut.ptcp, tulejeːgin = 3SG, on dolžen postavit', 2SG ty dolžen
+postavit' = tulejeːkkin, 1SG tulejeːkpin; so the nuance of necessity comes only from the context, it's not inherent in the form
+\ru Нужно сразу съесть, убив.
+\ELANBegin 00:15:46.300
+\ELANEnd 00:15:52.200
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_228
+\ref 2sg, tul
+\tx Kapkan ịan           họtarandụn             tulejegin,               ụdlan               čọŋ... herdelin
+\mb kapkan ịak -n(I)     họtọran -DU  -n(I)     tul -E  -j    -EgIn      ụdʒ -(dU)LE -n(I)  ...        her    -gIdE -(dU)LI -n(I)
+\ge trap.R what  -poss.3sg road        -dat -poss.3sg set -ep -conn -prs.2sg.Y track  -loc -poss.3sg ...        bottom -part -prol   -3sg
+
+\tx čọŋkarịdʒị ečin.
+\mb čọŋka -RIdʒI   erroːčin
+\ge dig       -ant.cvb  prox.qual
+\ft You (have to) set the trap on its path, on its tracks, having dug under it like this.
+\ph
+\gr The translation that IVK gave with the necessitative reading is obtained only from the context, it's not inherent in the verb form
+\ru Капкан нужно ставить на его дороге, на его следах, подкопав под него. 
+\ELANBegin 00:17:59.750
+\ELANEnd 00:18:09.880
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_230
+\ref 2sg, ia
+\tx Ńan   ịat      ịajagịn,             ńan   kïrahaː,    poroša,      čtob       eden
+\mb ńaːn ịak -Č  ịa    -j    -EgIn      ńaːn kïrahaː     poroša       čto   -B   e   -DE       -n(I)
+\ge and    what  -ins do.what -conn -prs.2sg.Y and    powder.snow.Y powder.snow.R what.R -med neg -purp.cvb -poss.3sg
+
+\tx ičure              goːmi
+\mb it  -W     -R       goːn -mI
+\ge see -advrs -neg.cvb say   -cond.cvb
+\ft And then you cover it with snow so that it cannot be seen.
+\ph
+\ru И прикрываешь как бы снегом, чтобы не было видно.
+\ELANBegin 00:18:16.640
+\ELANEnd 00:18:28.030
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_232
+\ref 1sg, tul
+\tx Eče        horre        biheken,                   honte torle         tulejebin.
+\mb e   -čE    hor -R       bi -REk -E-n(I)            honte tor   -(dU)LE tul -E  -j    -EbIn
+\ge neg -pf.ptc go  -neg.cvb be -cond.cvb -ep -poss.3sg other earth -loc    set -ep -conn -prs.1sg.Y
+\ft If it didn't go (into the trap), I set (my trap) in a different place.
+\ru Если он не попался,я в другом месте ставлю.
+\ELANBegin 00:18:35.580
+\ELANEnd 00:18:43.750
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_234
+\ref 1sg, neː
+\tx Ọldaw     neːjebin.
+\mb ọlra -W   neː -j    -EbIn
+\ge fish   -acc put  -conn -prs.1sg.Y
+
+\ft I put fish.
+\ph
+\gr I checked on March 17th (10_quest_2010, 3:10), he says neːjebin, i.e. the 1SG form, and IVK obviously translated it as it was previously
+transcribed, with 2SG
+\ru Кладешь рыбу.
+\ELANBegin 00:18:51.170
+\ELANEnd 00:18:53.300
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_247
+\ref 2sg, tul
+\tx Mụnrụkandụ  ịaw      hụrkaw     tulejegin,               petljaw.
+\mb mụnrụkan -DU  ịak -W   hụrka -W   tul -E  -j    -EgIn      petlja  -W
+\ge hare         -dat what  -acc snare   -acc set -ep -conn -prs.2sg.Y snare.R -acc
+
+\ft For hares you set snares.
+\ph
+\ru На зайца нужно ставить петлю.
+\ELANBegin 00:20:04.500
+\ELANEnd 00:20:09.480
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_257
+\ref 2sg, ia
+\tx Ọrọktụn                ečin...   ịak  ịak goːmi   höp tropinkadụn           ečin      ịajagịn..
+\mb orox          -DU  -n(I)     erroːčin ịak goːn -mI       söp tropinka -DU  -n(I)     erroːčin ịa    -j    -EgIn
+\ge animal.path.Y -dat -poss.3sg prox.qual  what  say   -cond.cvb OK.Y path.R   -dat -poss.3sg prox.qual  do.what -conn -prs.2sg.Y
+
+\tx po   snegu.     
+\mb po   snegu
+\ge on.R snow.dat.R
+
+\ft On its path like this, how to say it...., on its path you put it like this, in the snow.
+\ph
+\ru На его тропе, так что-то там делаешь по снегу.
+\ELANBegin 00:20:39.830
+\ELANEnd 00:20:51.029
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_258
+\ref 2sg, tul
+\tx Tadụ     hịattụ  ečin      neː... tulejegin.
+\mb tarak -DU  hịat -DU  erroːčin neː    tul -E  -j    -EgIn
+\ge dist  -dat willow -dat prox.qual  put     set -ep -conn -prs.2sg.Y
+
+\ft You set it like this in a willow bush.
+\ph
+\ru И там на иве так ставишь.
+\ELANBegin 00:20:51.029
+\ELANEnd 00:20:54.097
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_260
+\ref 2sg, tul
+\tx Tala          at  ịal...  ịlaːnmụla    dọlbọnịdụ tulejegin,               haːtahrịdụ.
+\mb tarak -(dU)LE ač ịak -L  ịlaːnmụ -LE  dọlbanị -DU   tul -E  -j    -EgIn      haːtar -RI       -DU
+\ge dist  -loc    neg what  -pl full.moon    -prv night       -dat  set -ep -conn -prs.2sg.Y be.dark -impf.ptc -dat
+
+\ft You set the trap in a moonless night, in the dark.
+\ph
+\gr at ịlaːnna možet byt', but they normally say it like this
+\ru Нужно ставить в безлунную ночь, в темноте.
+\ELANBegin 00:21:02.131
+\ELANEnd 00:21:09.294
+\ELANParticipant SPK
+
+\id Krivoshapkin_SP_oxota_273
+\ref 2sg, kọl
+\tx Egdʒenet       hiemkelmi               bọlla      enelmi,                 ịat      ịaw      ịaw
+\mb egdʒen -E-Č   hiːmke -L    -mI       buollaγïna en   -E-L     -mI       ịak -Č  ịak -W   ịak -W
+\ge big     -ep-ins cough   -inch -cond.cvb dp.Y         hurt -ep-inch -cond.cvb what  -ins what  -acc what  -acc
+
+\tx kọlajagịn,             zolotoj_koren    nastojkalaːnịkan.
+\mb kọl -E  -j    -EgIn      zolotoj_koren    nastojka -LE -nIkEn
+\ge drink -ep -conn -prs.2sg.Y golden.root???.R extract  -vr -sim.cvb
+\ft If you have a bad cough, however, you drink an extract of golden root.
+\ph
+\ru А если сильно простжаешься, заболеваешь, надо пить что-то, делая настойку золотой корень.
+\ELANBegin 00:22:28.503
+\ELANEnd 00:22:42.920
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_275
+\ref 2sg, čọŋka
+\tx Tarịt urekčendule     ọjčịrịdʒị ịmandadụk    čọŋkajagịn           ọrat.
+\mb tarịt urekčen -(dU)LE ọjčị -RIdʒI   ịmanra -DUk(U) čọŋka -j    -EgIn      ọrat
+\ge then    hill     -loc    go.up     -ant.cvb  snow     -abl    dig       -conn -prs.2sg.Y herbs
+
+\ft The you climb up a hill and dig up herbs from under the snow.
+\ph he swallows a lot of syllables in urekčendule, making it sound like ukčenle
+\ru И забравшись на гору в снегу выкапываешь траву.
+\ELANBegin 00:22:48.991
+\ELANEnd 00:22:56.245
+\ELANParticipant
+
+\id Nikitin_Sergej_comment_video_012
+\ref 1pl, hor
+\tx Mut    bejet                  balaːkkat   balaːkkat   herejebit,              tara.
+\mb mut    bej    -E-t(I)         palatka -Č  palatka -Č  hor -E-j     -EbIt      tarak
+\ge 1pl.in self.Y -ep-poss.1pl.in tent.R  -ins tent.R  -ins go  -ep-conn -prs.1pl.Y dist
+
+\ft We ourselves will go with a tent.
+\ru Мы сами поедем с палаткой.
+\ph
+\gr
+\ELANBegin 00:01:21.950
+\ELANEnd 00:01:29.800
+\ELANParticipant
+
+\id RDA_TPK_birth_068
+\ref 3sg, ọː
+\tx zašita      ọːjar                 nọŋandụn
+\mb zaščita    ọː  -j    -Ar         nọŋan -DU  -n(I)
+\ge protection.R become -conn -prs.ptcp.Y 3sg      -dat -poss.3sg
+\ft It becomes his protection.
+\ru Станет для него защитой.
+\ELANBegin 00:03:33.410
+\ELANEnd 00:03:35.210
+\ELANParticipant T
+
+\id RDA_TPK_death_112
+\ref 2sg, ga
+\tx Tar   tördüön ńama... digen mịar     ineŋi, ineŋidun            tar   mọːlan             herridʒi    tar   ịaw
+\mb tarak tördüön ńama    digen mịan -L  ineŋi  ineŋ -DU  -n(I)     tarak mọː -(dU)LE -n(I)  hor -RIdʒI  tarak ịak -W
+\ge dist  forty.Y    hundred  four  ten    -pl day     day   -dat -poss.3sg dist  tree   -loc -poss.3sg go  -ant.cvb dist  what  -acc
+
+\tx araŋastụkụn               ịaw      gajagịn,            emgumen                           gajagịn
+\mb araŋas      -DUk(U) -n(I)     ịak -W   ga   -j    -EgIn      emgun           -W   -E-n(I)      ga   -j    -EgIn
+\ge store.room.Y -abl    -poss.3sg what  -acc take -conn -prs.2sg.Y reindeer.saddle -acc -ep-poss.3sg take -conn -prs.2sg.Y
+
+\tx gadʒịnnị.
+\mb gadʒị -nrI
+\ge fetch    -2sg
+\ft On the fortieth day you go to his grave and from the storage platform you take his saddle.
+\ru На 40й день пойдя на могилу из лабаза берешь седло, возьмешь.
+\ELANBegin 00:05:28.610
+\ELANEnd 00:05:40.800
+\ELANParticipant R
+
+\id RDA_TPK_death_115
+\ref 2sg, boːt-
+\tx Ńọgụhụbban             maːrịdʒị bọlla      bejte      bejeldu         boːčejegin,                  goːli,
+\mb ńọgụhụt -W   -n(I)     maː -RIdʒI   buollaγïna bej -tEn   bej -E-L   -DU  boː -Č  -E  -j    -EgIn      goːn -LI
+\ge lead.reindeer  -acc -poss.3sg kill -ant.cvb  dp.Y         man -distr man -ep-pl -dat give -res -ep -conn -prs.2sg.Y say   -imp.2sg
+
+\tx bejes            dʒebdʒinni
+\mb bej    -s(I)     dʒep -DʒI -nrI
+\ge self.Y -poss.2sg eat   -fut  -2sg
+\ft Having killed the lead reindeer, however, you give (the meat) to people, right, you yourself eat.
+\ru Убив упряжного оленя людям раздаешь, сам будешь есть
+\ELANBegin 00:05:45.290
+\ELANEnd 00:05:48.710
+\ELANParticipant R
+
+\id RDA_TPK_death_127
+\ref 2sg, ʤebuken
+\tx Hiː bọlla      tar   dʒeblewen,                 uldewen                ịanịkan      nọŋan
+\mb hiː buollaγïna tarak dʒep -LE -W   -E-n(I)      ulre -W   -E-n(I)      ịa    -nIkEn   nọŋan
+\ge 2sg  dp.Y         dist  eat   -nr -acc -ep-poss.3sg meat -acc -ep-poss.3sg do.what -sim.cvb 3sg
+
+\tx dʒebeddimdes                  dʒebukejegin.
+\mb dʒep -E-D     -RI       -mdEs dʒep -WkEn -j    -EgIn
+\ge eat   -ep-prog -impf.ptc -sml  eat   -caus -conn -prs.2sg.Y
+\ft You, however, give (people) that food of his, that meat of his to eat, as if he were eating.
+\ph
+\nt This again refers to the traditions in Sebjan, while in other places they leave the reindeer to rot, here they eat its meat as if the deceased
+himself were eating with them.
+\ru А ты еду его мясо его что-то делая кормишь как будто он ест.
+\ELANBegin 00:06:27.230
+\ELANEnd 00:06:32.240
+\ELANParticipant R
+
+\id RDA_TPK_death_304
+\ref 1sg, goːn
+\tx Tarak bi   goːjebin
+\mb tarak biː goːn -j    -EbIn
+\ge dist  1sg  say   -conn -prs.1sg.Y
+\ft Then I say
+\ph
+\gr goːjebin = goːnem, no difference in meaning; she may have wanted to say tarịt 'then', or taraw '(in response) to that I say)
+\ru вот я говорю 
+\ELANBegin 00:15:26.840
+\ELANEnd 00:15:28.910
+\ELANParticipant R
+
+\id stado#10_anna_nikitina_027
+\ref 2sg, haŋan
+\tx Tarịt bụọlla   ečin      hiltet            mọŋŋadʒịnnị      taraw,     kerdeniken
+\mb tarịt buollaγïna erroːčin hilte        -Č  mọnŋa       -DʒI -nrI tarak -W   kerde       -nIkEn
+\ge then    dp.Y         prox.qual  rotten.larch -ins soften.leather -fut  -2sg dist  -acc kozhemjalka -sim.cvb
+
+\tx ịanịkan,     tarịt dʒe   haŋanajagịn.
+\mb ịa    -nIkEn   tarịt dʒe   haŋan -E-j     -EgIn
+\ge do.what -sim.cvb then    well.Y sew    -ep-conn -prs.2sg.Y
+
+\ft Then you soften the leather with rotten larch, softening it with a kerde, then you begin to sew.
+\ru И потом с этими гнилушками мнешь это, мнешь с кэрдей, и начинаешь шить.
+\ph
+\gr Ija Krivoshapkina translated this as 'you start to sew', even though there is no inchoative suffix, because of the particle dʒe, this
+gives an inceptive meaning to the whole sentence - actually, it should be tarịt dʒe that gives the inchoative meaning
+\ELANBegin 00:02:11.540
+\ELANEnd 00:02:20.800
+\ELANParticipant
+
+\id stado#9_kochevka_038
+\ref 2sg, ọː
+\tx Omen aŋŋanị[dụ] dʒe   grapịk   ọːjagịn.
+\mb omen anŋan -DU       dʒe   grafik     ọː -j    -EgIn
+\ge one  year   -dat      well.Y schedule.R make  -conn -prs.2sg.Y
+
+\ft You make the schedule for one year.
+\ru На весь год график делается. // График делаешь на один год.
+\ELANBegin 00:03:21.770
+\ELANEnd 00:03:26.160
+\ELANParticipant AVK
+
+\id Stepanova_NA_kochevaja_shkola_101
+\ref 3sg, takkat-
+\tx Min,    bi   dogovordasčịm                 er,  er   raditel  eduk         ele          ịstala
+\mb min     biː dogovor    -DE -s     -DʒI -m   erek erek roditel' erek -DUk(U) erek -(dU)LE ịstala
+\ge 1sg.obl 1sg  contract.R -vr -rec.Y -fut  -1sg prox prox parent.R prox -abl    prox -loc    until
+
+\tx takkačajar,                         tarịt asnavnọj školala         emudʒin               goːniken.
+\mb tat   -kE -Č  -E  -j    -Ar         tarịt osnovnoj   škola   -(dU)LE em -U      -DʒI -n(I) goːn -nIkEn
+\ge learn -?? -res -ep -conn -prs.ptcp.Y then    basic.R    school.R -loc    come -caus -fut -3sg   say   -sim.cvb
+
+\ft I will make a contract that this parent will teach from here to here, then he will bring (the child) to the primary school.
+\ph takkačajal
+\gr checked to make sure that the -s is really the Sakha reciprocal (13_quest_2010, 20:00)
+\ru Я договор сделаю этот родитель отсюда досюда будет учить, потом что он привозит в основную школу.
+\ELANBegin 00:11:44.405
+\ELANEnd 00:11:52.621
+\ELANParticipant
+
+\id Stepanova_NA_kochevaja_shkola_102
+\ref 3sg, horu
+\tx Tarịt eduk         emie   horujer,                    emie   asnavnọjdụ emudʒin.
+\mb tarịt erek -DUk(U) emie   hor -U    -j    -Ar         emie   osnovnoj -DU   em -U      -DʒI -n(I)
+\ge then    prox -abl    also.Y go  -caus -conn -prs.ptcp.Y also.Y basic.R  -dat  come -caus -fut -3sg
+\ft Then he will take (the child) from here again, and again will bring it to the primary school.
+\ru Потом отсюда опять увезет, опрять в основную привезет.
+\ELANBegin 00:11:52.621
+\ELANEnd 00:11:56.911
+\ELANParticipant
+
+\id Zaxarov_AV_indjuk_internat_007
+\ref 3pl, tiːn
+\tx Alta  ịlaːn bihidʒi    takkattịdʒụr           seržantskaj učebka    gerbe bihin,            tadụ
+\mb alta  ịlaːn bi -RIdʒI  tat   -kE -Č  -RIdʒI -L   seržantskij učebka    gerbe bi -RI -n(I)      tarak -DU
+\ge six.Y moon     be -ant.cvb learn -?? -res -ant.cvb -pl sergeant's.R training.R name  be -pst -poss.3sg dist  -dat
+
+\tx vọjskala       tiːjeller,            ukreprajon gerbel    bihe.
+\mb vojska   -(dU)LE tiːn -j    -EllEr     ukreprajon gerbe -L  bi -R(E)
+\ge forces.R -loc    send  -conn -prs.3pl.Y ukreprajon name  -pl be -nonfut
+\ft After training there for six months, there was a so-called sergeant's training, they send (you) to the forces, there were so-called
+ukreprajony (reinforcement regions).
+\ru Обучившись 6 месяцев, была сержантская учебка, потом отправляют в войска, были так называемые укрепрайоны (укрепительные
+районы).
+\ELANBegin 00:01:14.763
+\ELANEnd 00:01:24.149
+\ELANParticipant
+
+\id Zaxarov_AV_indjuk_internat_053a
+\ref 2sg, em
+\tx Dʒụːlaj               horemelmi             horridʒi    emejegin,                 a     tak  strogo
+\mb dʒụː -(dU)LE -J       hor -E-mEl  -mI       hor -RIdʒI  em   -E  -j    -EgIn      a.R   tak  strogo
+\ge house    -loc    -prfl.sg go  -ep-des -cond.cvb go  -ant.cvb come -ep -conn -prs.2sg.Y but.R so.R strict.R
+
+\tx bihin             raspisanie, s      četyrex   do      šesti    ee, ọttọn digenduk      ńuŋendule     ịstala
+\mb bi -RI -n(I)      raspisanie  s      četyrex   do      šesti    ee  ọttọn digen -DUk(U) ńuŋen -(dU)LE ịstala
+\ge be -pst -poss.3sg schedule.R  from.R four.gen.R until.R six.gen.R eh  dp.Y      four  -abl    six     -loc    until
+
+\tx ụrọkị         ọːwrannị.
+\mb urok       -J       ọː -Gr(E) -nrI
+\ge homework.R -prfl.sg make  -hab   -2sg
+\ft If you want to go home you go and come back, but otherwise it was strictly according to the schedule, from four to six you do your
+homework.
+\ph
+\ru Если хочешь домой пойдя приходишь, а так было строго, по расписанию, с 4х до 6и делаешь уроки.
+\ELANBegin 00:05:24.025
+\ELANEnd 00:05:35.712
+\ELANParticipant
+
+\id Zaxarov_AV_indjuk_internat_059
+\ref 3pl, ilu
+\tx Mutu        stenadu     ịlụjallar                   ečin,     kollečekeːl      bọllaxpịt,
+\mb mut    -W   stena  -DU  ịl     -U    -j    -EllEr     erroːčin kotlen -čEkEn -L  buol  -dEg      -BIt
+\ge 1pl.in -acc wall.R -dat stand.up -caus -conn -prs.3pl.Y prox.qual  small  -plen   -pl aux.Y -assert.Y -1pl.Y
+
+\tx erdiːn,        ọːčaratat.
+\mb erek =diːn     očered' -E  -Č
+\ge prox =quant.dem queue.R  -ep -ins
+\ft They made us stand at the wall like this, we were small like this, right, one after the other.
+\ph
+\gr kollečekeːl = množestvo odnorodnyx malen'kix malčikov
+\ru Нас к стене так ставят, мы же маленькие такие, по очереди.
+\ELANBegin 00:06:31.820
+\ELANEnd 00:06:36.799
+\ELANParticipant
+
+\id Zaxarov_AV_indjuk_internat_060
+\tx Dʒe   nọːdụjar              tadụ,    elede             nọːdụjar,             elede
+\mb dʒe   nọːda -j    -Ar         tarak -DU  erek -(dU)LE =DE  nọːda -j    -Ar         erek -(dU)LE =DE
+\ge well.Y throw    -conn -prs.ptcp.Y dist  -dat prox -loc    =ptl throw    -conn -prs.ptcp.Y prox -loc    =ptl
+
+\tx nọːdụjar,             bejen,              a     sam,      bejen               bọlla      delbi  haːmačantakan
+\mb nọːda -j    -Ar         bej    -E-n(I)      a.R   sam       bej    -E-n(I)      buollaγïna delbi  haːmat -E  -ntEkEn
+\ge throw    -conn -prs.ptcp.Y self.Y -ep-poss.3sg but.R himself.R self.Y -ep-poss.3sg dp.Y         very.Y laugh   -ep -mult.cvb
+
+\tx dʒiŋ ečin      dʒe   pytka     goːniken      dʒe.
+\mb dʒiŋ erroːčin dʒe   pytka     goːn -nIkEn   dʒe
+\ge very.Y prox.qual  well.Y torture.R say   -sim.cvb well.Y
+\ft Well, he throws on that, he throws here, he throws here, and he himself is laughing a lot, saying it's torture.
+\ru И он бросает на это, и здесь бросит, и здесь бросит, а сам сильно смеясь, так пытка называя.
+\ELANBegin 00:06:36.799
+\ELANEnd 00:06:45.522
+\ELANParticipant

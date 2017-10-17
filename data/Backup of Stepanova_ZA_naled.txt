@@ -1,0 +1,1729 @@
+\_sh v3.0  1090 Text
+
+\id Stepanova_ZA_naled_001
+\tx Ladno, ty xlopaeš? Ona budet xlopat' i datu skazat'
+\mb
+\ge
+\ft OK, you'll clap? She'll clap and say the date.
+\ru
+\ELANBegin 00:00:00.020
+\ELANEnd 00:00:09.130
+\ELANParticipant BP
+
+\id Stepanova_ZA_naled_002
+\tx Clap
+\ru
+\ELANBegin 00:00:09.130
+\ELANEnd 00:00:10.150
+\ELANParticipant
+
+\id Stepanova_ZA_naled_003
+\tx 23oe fevralja, 2010j god, Stepanova Zoja Afanasevna
+\mb
+\ge
+\ft The 23rd of February, 2010, Zoja Afanasevna Stepanova.
+\ru
+\ELANBegin 00:00:10.150
+\ELANEnd 00:00:15.980
+\ELANParticipant NA
+
+\id Stepanova_ZA_naled_004
+\tx ukčendʒin        ebedit
+\ft ...will tell in Even
+\ru
+\ELANBegin 00:00:15.980
+\ELANEnd 00:00:17.900
+\ELANParticipant BP
+
+\id Stepanova_ZA_naled_005
+\tx Bi   tiːk hunteki         ebedit          ukčendʒim.
+\mb biː tiek  hun     -t(E)kI ewen -DI   -Č  ukčen -DʒI -m
+\ge 1sg  now   2pl.obl -all    Even -adjr -ins tell   -fut  -1sg
+\ft I will now tell you in Even.
+\ru Я вам сейчас по-эвенски расскажу.
+\ELANBegin 00:00:17.900
+\ELANEnd 00:00:23.540
+\ELANParticipant ZAS
+
+\id Stepanova_ZA_naled_006
+\tx Erek bihin             tysiča    ujun ńama   nadan mịar     tụnŋan anŋanịdụ.
+\mb erek bi -RI -n(I)      tysjača   ujun ńama   nadan mịan -L  tụnŋan anŋan -DU
+\ge prox be -pst -poss.3sg thousand.R nine hundred seven ten    -pl five      year   -dat
+
+\ft It was in the year 1975.
+\ru Это было в 1975м году.
+\ELANBegin 00:00:23.540
+\ELANEnd 00:00:30.303
+\ELANParticipant
+
+\id Stepanova_ZA_naled_007
+\tx Eh, bi,  biː noːčel              Afonjańun     ńan   kokenčel             Elenańun   stadatkị
+\mb eh  biː biː noː            -čEl Afanasij -ńUn ńaːn koken           -čEl Elena -ńUn stado  -t(E)kI
+\ge eh  1sg  1sg  younger.sibling -com  Afanasij -com  and    daughter.in.law -com  Elena -com  herd.R -all
+
+\tx hereddit.
+\mb hor -E-D     -RI -t(I)
+\ge go  -ep-prog -pst -poss.1pl.in
+\ft I was going to the herd with my younger brother Afanasij and my sister-in-law Elena.
+\ph
+\gr checked on 260312: the plural marking on the verb is correct, 1sg person-marking would also be correct; the difference is that if it's
+1sg marking, the emphasis is on herself, and the others are basically just accompanying her, while 1pl subject agreement means they're
+all together
+\ru Я с братом Афанасием и невесткой Еленой ехали в стадо.
+\ELANBegin 00:00:30.303
+\ELANEnd 00:00:43.004
+\ELANParticipant
+
+\id Stepanova_ZA_naled_008
+\tx Bi   tar   ọtpụskalaj                ammị          bakaldanamị                  hereddiw.
+\mb biː tarak otpusk     -E-(dU)LE -J       aman   -J       bak  -(E)ldE -nE     -mI       hor -E-D     -RI -W
+\ge 1sg  dist  holidays.R -ep-loc   -prfl.sg father -prfl.sg find -soc    -intent -cond.cvb go  -ep-prog -pst -poss.1sg
+\ft I was going to see (meet) my father in my holidays.
+\ru Я на отпуск чтобы встретить отца ехала
+\ELANBegin 00:00:43.004
+\ELANEnd 00:00:47.814
+\ELANParticipant
+
+\id Stepanova_ZA_naled_009
+\tx Họː iŋeń bisin,            adịː  gradụs bideŋmen                     ehem             haːra.
+\mb họː iŋeń bi -RI -n(I)      adịː  gradus   bi -DEŋ    -W   -E-n(I)      e   -R(E) -m     haː -R
+\ge very   cold   be -pst -poss.3sg how.much degree.R be -pst.ptc -acc -ep-poss.3sg neg -nonfut -1sg know -neg.cvb
+\ft It was very cold, how cold exactly (i.e. how many degrees) I don't know.
+\ph
+\gr 260312: iŋeń = iŋehni, iŋeń = lit.
+\nt This episode took place in January, one the coldest months.
+\ru Было очень холодно, не знаю сколько градусов было.
+\ELANBegin 00:00:47.814
+\ELANEnd 00:00:54.652
+\ELANParticipant
+
+\id Stepanova_ZA_naled_010
+\tx Bi,  ịtịːjị      edej                   begir                    bụlatač         ịahalịńụn         iči... iču...
+\mb biː ịtịː -J       e   -DE       -J       begi            -R       platok     -E-Č   ịašal -J       =ńUn
+\ge 1sg  face      -prfl.sg neg -purp.cvb -prfl.sg get.frostbitten -neg.cvb kerchief.R -ep-ins eyes     -prfl.sg =restr
+
+\tx ičuridʒin                         ịtịj           haptụrịdʒị,  ŋeneddiw.
+\mb it -W -RI -Č -n(I)                 ịtịː -J       haptụ    -RIdʒI  ŋen -E-D     -RI -W
+\ge see -advrs -impf.ptc -ins -poss.3sg face      -prfl.sg cover.face -ant.cvb go   -ep-prog -pst -poss.1sg
+
+\ft I had wrapped my shawl around my face so that my face wouldn't get frostbitten, only my eyes were visible, so I went.
+\ph
+\gr 260312: should be begir, because the root is begidej "zamerznutj"; should be ịahalụńụn (poss.1sg), so that only my eyes were visible
+\ru Чтобы не обморозиться я платком закрыла лицо, чтобы только глаза видно были.
+\ELANBegin 00:00:54.652
+\ELANEnd 00:01:08.300
+\ELANParticipant
+
+\id Stepanova_ZA_naled_011
+\tx Eh, amar   beju,            beju             ńọgụlannịkan        hereddiw.
+\mb eh  amar   bej    -W        bej    -W        ńọgụlan        -nIkEn hor -E-D     -RI -W
+\ge eh  behind self.Y -poss.1sg self.Y -poss.1sg drive.reindeer.sled -sim.cvgo  -ep-prog -pst -poss.1sg
+
+\ft I went behind, driving my reindeer myself.
+\ph
+\gr 260312: amar... = she didn't finish the word, it should be amargịdadụkatna = amardadụkụtnan
+\gr ńọgụlan is probably related to ńọgụhụt, the lead reindeer, and all of this is related to ńọːg, bridle
+\ru Я ехала позади сама управляя оленями.
+\ELANBegin 00:01:08.300
+\ELANEnd 00:01:14.880
+\ELANParticipant
+
+\id Stepanova_ZA_naled_012
+\tx Dʒuldelewu                    noːwu                    horrin,            họːja tụrkịlkan
+\mb dʒul -gIdE -(dU)LE -W         noː            -W        hor -RI -n(I)      họːja tụrkị -lkEn
+\ge front -part -loc    -poss.1sg  younger.sibling -poss.1sg go  -pst -poss.3sg many     sled      -prop
+
+\tx amardalajị.
+\mb amar   -gIdE -(dU)LE -J
+\ge behind -part -loc    -prfl.sg
+\ft In front of me my brother rode, with a lot of sleds behind him.
+\ru Передо мной ехал мой брат, сзади было много нарт.
+\ELANBegin 00:01:14.880
+\ELANEnd 00:01:21.760
+\ELANParticipant
+
+\id Stepanova_ZA_naled_013
+\tx Tarak tụrkịlan             kokmu                     Elena tegečiddin.
+\mb tarak tụrkị -(dU)LE -n(I)  koken           -W        Elena teg      -E-Č   -E-D     -RI -n(I)
+\ge dist  sled      -loc -poss.3sg daughter.in.law -poss.1sg Elena sit.down -ep-res -ep-prog -pst -poss.3sg
+\ft On those sleds sat my sister-in-law Elena.
+\ru На этих нартах сидела невестка Елена.
+\ELANBegin 00:01:21.760
+\ELANEnd 00:01:25.780
+\ELANParticipant
+
+\id Stepanova_ZA_naled_014
+\tx Tar   ejmu,            ee! ammụ,          ee akmụ                  atịkaŋan                 Elena
+\mb tarak enen   -W        ee  aman   -W        ee akan          -W        atịkan  -ŋ  -E-n(I)      Elena
+\ge dist  mother -poss.1sg eh  father -poss.1sg eh older.brother -poss.1sg old.woman -aln -ep-poss.3sg Elena
+
+\tx Stručkova gerben,         Tabalaxtụk    em...
+\mb Stručkova gerbe -n(I)     Tabalax -DUk(U) em
+\ge Struchkova name  -poss.3sg Tabalax -abl    come
+\ft That (was) the wife of my older brother, Elena Struchkova, (she came) from Tabalax.
+\ph
+\nt Tabalax is a village in the Verxojansk district in which two Even families still live.
+\ru Это жена моего старшего брата Елена Стручкова, приехала из Табалаха.
+\ELANBegin 00:01:25.780
+\ELANEnd 00:01:36.980
+\ELANParticipant
+
+\id Stepanova_ZA_naled_015
+\tx Tabalaxtụk    emče?
+\mb Tabalax -DUk(U) em   -čE
+\ge Tabalax -abl    come -pf.ptc
+\ft She came from Tabalax?
+\ru
+\ELANBegin 00:01:36.980
+\ELANEnd 00:01:38.220
+\ELANParticipant BP
+
+\id Stepanova_ZA_naled_016
+\tx nọŋan Tabalaxtụk    bihin
+\mb nọŋan Tabalax -DUk(U) bi -RI -n(I)
+\ge 3sg      Tabalax -abl    be -pst -poss.3sg
+\ft She was from Tabalax.
+\ru Она была из Табалаха.
+\ELANBegin 00:01:38.220
+\ELANEnd 00:01:40.720
+\ELANParticipant ZAS
+
+\id Stepanova_ZA_naled_017
+\tx Ịamị nọŋan meːnken       eče        ŋenedde,              nọŋan ŋaːlị       maːča      bihni.
+\mb ịamị nọŋan meːn -KEn     e   -čE    ŋen -E-D     -R       nọŋan ŋaːl -J       maː -čE    bi -R(E) -n(I)
+\ge why      3sg      refl  -dim.int neg -pf.ptc go   -ep-prog -neg.cvb 3sg      hand   -prfl.sg kill -pf.ptc be -nonfut -3sg
+
+\ft Why she didn't drive herself, she had hurt her hand.
+\ph
+\gr it should actually be maːča bihin; 260312: her use of the perfect.ptcp here implies that she was not a witness of the injuring, if she'd
+witnessed it she would have said maːrịn
+\nt
+\ru Почему она одна не ехала, она поранила руку.
+\ELANBegin 00:01:40.720
+\ELANEnd 00:01:45.760
+\ELANParticipant
+
+\id Stepanova_ZA_naled_018
+\tx Er   pasjọlaktụ emdej,                  pasjọlakla      emdej
+\mb erek poselok   -DU  em   -DE       -J       poselok   -(dU)LE em   -DE       -J
+\ge prox village.R -dat come -purp.cvb -prfl.sg village.R -loc    come -purp.cvb -prfl.sg
+
+\tx nekeddeken...                        bi   tar   kučuken noːw                     bihin,            ekmu
+\mb nek -E-D     -REk -E-n(I)            biː tarak kočuken noː            -W        bi -RI -n(I)      eken         -W
+\ge do  -ep-prog -cond.cvb -ep -poss.3sg 1sg  dist  small    younger.sibling -poss.1sg be -pst -poss.3sg older.sister -poss.1sg
+
+\tx hute... hurkeŋen,                 taraw      irgečidditnen,               akmụ.
+\mb hut     hurkeːn -ŋ  -E-n(I)      tarak -W   irget -E-D     -RI -tEn       akan          -W
+\ge child   boy      -aln -ep-poss.3sg dist  -acc raise -ep-prog -pst -poss.3pl older.brother -poss.1sg
+\ft When she wanted to come to the village... I had a small nephew (lit. younger sibling) then, the son of my elder sister, my older brother
+(and Elena) were raising that one.
+\ru Чтобы приехать в поселок, когда она хотела приехать в поселок, у меня был маленький брат, ребенок старшей сестры, они того
+воспитывали, мой брат (с Еленой).
+\ELANBegin 00:01:45.760
+\ELANEnd 00:01:59.640
+\ELANParticipant
+
+\id Stepanova_ZA_naled_019
+\tx Tarak kụŋa adịlkankene         bihin?            Digelken    kụŋakakan
+\mb tarak kụŋa adịː  -lkEn =kEnE  bi -RI -n(I)      digen -lkEn kụŋa -kEkEn
+\ge dist  child   how.much -prop =contr be -pst -poss.3sg four  -prop child   -dim
+\ft How old was that child? Four years old.
+\ru Сколько же лет ему было, четырехлетний ребенок.
+\ELANBegin 00:01:59.640
+\ELANEnd 00:02:05.680
+\ELANParticipant
+
+\id Stepanova_ZA_naled_020
+\tx Tarak hịrkam      dʒawačadnịkan                    tutmi         eli          hịrkanat       ịača
+\mb tarak hịrkan -W   dʒaw      -E-Č   -E-D     -nIkEn   tut -mI       erek -(dU)LI hịrkan -E-Č   ịa    -čE
+\ge dist  knife    -acc catch.hold -ep-res -ep-prog -sim.cvb run -cond.cvb prox -prol   knife    -ep-ins do.what -pf.ptc
+
+\tx bihin,            ụlkụkačadnịkan,           taraŋị           ŋaːlan            ečin,     ečije
+\mb bi -RI -n(I)      ụlkụ -kEČ -E-D     -nIkEn   tarak -ŋ  -J       ŋaːl -E-n(I)      erroːčin erroːčin -jEː
+\ge be -pst -poss.3sg stir     -mult -ep-prog -sim.cvb dist  -aln -prfl.sg hand   -ep-poss.3sg prox.qual  prox.qual  -aug
+
+\tx kebderče        bihin.
+\mb kebder   -čE    bi -RI -n(I)
+\ge swell.up -pf.ptc be -pst -poss.3sg
+\ft He was holding a knife and running and (cut her) with the knife along here, while touching (the knife), her hand was swollen big like
+this.
+\ph tutmu
+\gr Ija said that in Sebjan ụlkụ doesn't only mean 'stir', but also 'trogat', just touch in general; 260312: her use of the perfect.ptcp here
+implies that she was not a witness of the injuring
+\nt The little boy was running around with a knife and cut his foster mother's hand, which swelled up badly.
+\ph
+\ru Он держа вот нож бегал и этим ножом что-то там, поранился, когда он его трогал, эта его рука что-то было.
+\ELANBegin 00:02:05.680
+\ELANEnd 00:02:21.360
+\ELANParticipant
+
+\id Stepanova_ZA_naled_021
+\tx Tarịŋị         pasjọlakla      eniken       begdette,                  nọŋan stadatkịjaːkị
+\mb tarak -ŋ  -J       poselok   -(dU)LE e   -nIkEn   beg      -DE -Č  -R       nọŋan stado  -t(E)kI -jEːkI
+\ge dist  -aln -prfl.sg village.R -loc    neg -sim.cvb medicine -vr -res -neg.cvb 3sg      herd.R -all    -directly
+
+\tx horehnen.
+\mb hor -E-s(E)n -R(E) -n(I)
+\ge go  -ep-lim  -nonfut -3sg
+\ft She didn't treat that in the village, she left straight for the herd.
+\ph
+\gr horehnen = otexala, horren = uexala
+\ru Она не лечила это в поселке, она поехала в стадо.
+\ELANBegin 00:02:21.360
+\ELANEnd 00:02:26.861
+\ELANParticipant
+
+\id Stepanova_ZA_naled_022
+\tx Mut    nọŋman               begdetli                   goːŋe         turkurit,                     etem
+\mb mut    nọŋan -W   -n(I)     beg      -DE -Č  -LI      goːn -ŋE      turku       -RI -t(I)         e   -t(E) -m
+\ge 1pl.in 3sg      -acc -poss.3sg medicine -vr -res -imp.2sg say   -nmdl.cvb not.be.able -pst -poss.1pl.in neg -fut  -1sg
+
+\tx goːnin,             bi   tala          bejdʒiw              begdeččim                  goːniken.
+\mb goːn -RI -n(I)      biː tarak -(dU)LE bej    -Č  -W        beg      -DE -Č  -DʒI -m   goːn -nIkEn
+\ge say   -pst -poss.3sg 1sg  dist  -loc    self.Y -ins -poss.1sg medicine -vr -res -fut  -1sg say   -sim.cvb
+\ft We tried to say "heal (your hand)", but she said "I won't, I will heal myself there", she said.
+\ru Мы говорили ей "лечись", не смогли (уговорить) "не буду" сказала, "я там буду сама лечиться" сказала.
+\ELANBegin 00:02:26.861
+\ELANEnd 00:02:32.724
+\ELANParticipant
+
+\id Stepanova_ZA_naled_023
+\tx Tarịt    heredʒeːnnep,                bi   họːč    ammị          gelelče             bihiw,            teːmi
+\mb tarak -Č  hor -E-dʒEːn -R(E) -p        biː họː -Č  aman   -J       geleː -L    -čE    bi -RI -W         teːmi
+\ge dist  -ins go  -ep-dur    -nonfut -1pl.in 1sg  very   -ins father -prfl.sg miss   -inch -pf.ptc be -pst -poss.1sg therefore
+
+\tx hịnmamakan   ịstajị               holiŋčiriw.
+\mb hịnma -mEkEn ịs  -DE       -J       heliŋči -RI -W
+\ge fast    -ints  reach -purp.cvb -prfl.sg hurry     -pst -poss.1sg
+
+\ft So we went on, I had missed my father very much and therefore hurried to get to him quickly.
+\ph
+\gr 20312: IVK wasn't able to answer my question whether there is a verb holindej, because holiŋči is a standard Even verb and they don't
+use it, they use the Sakha word ịksaː-; gelelče bihiw = her use of the perfect participle here gives a nuance of unexpectedness, that she
+hadn't expected that she would miss her father and then suddenly realized that she did; and the heredʒeːnnep gives a nuance of pitying
+themselves, that they're travelling in such cold temperatures, -dʒEːn always gives a nuance of pity
+\ru И едем мы, я очень соскучилась по отцу, поэтому чтобы быстро доехать спешила.
+\ELANBegin 00:02:32.724
+\ELANEnd 00:02:43.189
+\ELANParticipant
+
+\id Stepanova_ZA_naled_024
+\tx Tarịt tala          Kụrụŋnaːx gerbe torle         palatkakkan   ịlattịn.
+\mb tarịt tarak -(dU)LE Kụrụŋnaːx gerbe tor   -(dU)LE palatka -kkEn ịl     -E-Č   -RI -n(I)
+\ge then    dist  -loc    Kurungnax       name  earth -loc    tent.R  -dim  stand.up -ep-res -pst -poss.3sg
+\ft There in a place called Kurungnax stood a small tent.
+\ru И там в Курунгнахе стояла палаточка.
+\ELANBegin 00:02:43.189
+\ELANEnd 00:02:50.651
+\ELANParticipant
+
+\id Stepanova_ZA_naled_025
+\tx Tala          bejel      aːnŋahakatnan                        palatka.
+\mb tarak -(dU)LE bej -E-L   aːnŋa            -ČEk -E  -tEn      palatka
+\ge dist  -loc    man -ep-pl stop.for.the.night -nr   -ep -poss.3pl tent.R
+\ft There was a tent where people spent the night.
+\ru Это палатка для ночевки людей/где люди ночуют.
+\ELANBegin 00:02:50.651
+\ELANEnd 00:02:54.070
+\ELANParticipant
+
+\id Stepanova_ZA_naled_026
+\tx Tala          adịː  častụkene,    nadan častụ  ịhrịt,              hiesečen, gịawan
+\mb tarak -(dU)LE adịː  čas -DU  =kEnE  nadan čas -DU  ịs  -RI -t(I)         hiːsečin gịawan
+\ge dist  -loc    how.much hour -dat =contr seven hour -dat reach -pst -poss.1pl.in evening    dawn
+
+\tx goboːddi                 bisin.
+\mb gobeː    -D    -RI       bi -RI -n(I)
+\ge disappear -prog -impf.ptc be -pst -poss.3sg
+\ft When did we arrive, we arrived at seven in the evening, when the dusk was ending.
+\ph
+\gr
+\nt It's not quite clear in which month this took place, the speaker's brother said it was in January, but in January at 7h00 p.m. it would be
+dark already
+\gr kene - ija said 'utochnitelnaja chastica' - so contrastive doesn't work; and here and in the previous example (19) it really is more
+utochnitelnyj than contrastive<<< 
+\ru Во сколько мы доехали, доехали в 7 вечера, когда закат - солнце заходила.
+\ELANBegin 00:02:54.070
+\ELANEnd 00:03:02.819
+\ELANParticipant
+
+\id Stepanova_ZA_naled_027
+\tx Tarịt Afonja   goː... goːnin:             "Ọːn nekčip,          eleːr
+\mb tarịt Afanasij goːn   goːn -RI -n(I)      ọːn  nek -DʒI -p      erek -(dU)LE -WUr
+\ge then    Afanasij say     say   -pst -poss.3sg how     do  -fut  -1pl.in prox -loc    -prfl.pl
+
+\tx aːnŋadʒịpgụ,                  etepgu?"
+\mb aːnŋa            -DʒI -p      =GU e   -t(E) -p      =GU
+\ge stop.for.the.night -fut  -1pl.in =q  neg -fut  -1pl.in =q
+\ft Then Afanasij said: "What will we do, will we spend the night here or not?"
+\ru Потом Афоня говорит, что мы будем делать, здесь ночуем или нет?
+\ELANBegin 00:03:02.819
+\ELANEnd 00:03:07.018
+\ELANParticipant
+
+\id Stepanova_ZA_naled_028
+\tx "Egel           aːnŋar!"                  goːniken      bi,  hịnmamakan   ịstajị.
+\mb e   -GEr        aːnŋa            -R       goːn -nIkEn   biː hịnma -mEkEn ịs  -DE       -J
+\ge neg -imp.1pl.in stop.for.the.night -neg.cvb say   -sim.cvb 1sg  fast    -ints  reach -purp.cvb -prfl.sg
+\ft "Let's not spend the night (here)" I said, in order to arrive faster.
+\ru "Не будем ночевать" говоря я, чтобы быстрее доехать.
+\ELANBegin 00:03:07.018
+\ELANEnd 00:03:11.763
+\ELANParticipant
+
+\id Stepanova_ZA_naled_029
+\tx Taraw      ieltenep,              ieltenidʒur        dʒe   haːtahrịdụ        heredʒeːnnep.
+\mb tarak -W   ielten -R(E) -p        ielten -RIdʒI -L   dʒe   haːtar -RI       -DU  hor -E-dʒEːn -R(E) -p
+\ge dist  -acc pass   -nonfut -1pl.in pass   -ant.cvb -pl well.Y be.dark -impf.ptc -dat go  -ep-dur    -nonfut -1pl.in
+
+\ft We passed that and then went on in the dark for a long time (poor us).
+\ph tarịw - something in the middle between taraw and tarịt
+\gr heredʒeːnnep - pityingly, going through darkness
+\gr haːtar is a stative verb and as such takes the impf.ptc in -sI; in Sebjan this metathesizes, giving haːtahrị
+\ru Проехали, проехав в темноте едем.
+\ELANBegin 00:03:11.763
+\ELANEnd 00:03:18.042
+\ELANParticipant
+
+\id Stepanova_ZA_naled_030
+\tx Hergit,      dʒuldelet                    tun, ečin      ịaka, hobgi bekeččenni.
+\mb her    -GIČ dʒul -gIdE -(dU)LE -t(I)     ...  erroːčin ịak   hebgi bekeč -čEn -n(I)
+\ge bottom -elat front -part -loc -poss.1pl.in ...  prox.qual  what    steam all    -dim  -poss.3sg
+
+\ft From below, in front of us, everything is fog.
+\ph
+\nt When it is very cold (colder than -40C/-45C) fog develops in settlements through the heat from the houses as well as the smoke from
+the fires and exhaust fumes. In this case, however, the patch of thin ice and open water into which they rode of course was warmer
+than the surrounding air, creating steam.
+\ru Снизу, впереди, все в пару.
+\ELANBegin 00:03:18.042
+\ELANEnd 00:03:22.644
+\ELANParticipant
+
+\id Stepanova_ZA_naled_031
+\tx Emneken        ọrọ..         ọrọltị                       ịamịgụl   ịlčal.
+\mb omen -REkEn    ọrọn          ọrọn          -L  -t(I)        ịamị =(W)Ul ịl     -čE -L
+\ge one  -iter.adv domestic.reindeer domestic.reindeer -pl -poss.1pl.in why      =indef stand.up -pf.ptc -pl
+
+\ft Once our reindeer stopped for some reason.
+\ph
+\gr 260312: she was a witness, but here the evidential form gives a nuance of suddenness, unexpectedness, neozhidannostj, rezkostj
+\gr the use of omneken here is a bit odd in Even, it does not have a meaning of 'suddenly'
+\ru Однажды наши олени почему-то стали.
+\ELANBegin 00:03:22.644
+\ELANEnd 00:03:27.753
+\ELANParticipant
+
+\id Stepanova_ZA_naled_032
+\tx Bi   dʒọmkattam           "ịamị ịlčal?"           goːniken.
+\mb biː dʒọmkat -R(E) -m     ịamị  ịl     -čE -L     goːn -nIkEn
+\ge 1sg  think      -nonfut -1sg why       stand.up -pf.ptc -pl say   -sim.cvb
+\ft I thought "Why did they stop?".
+\ru Я подумала, почему встали.
+\ELANBegin 00:03:27.753
+\ELANEnd 00:03:30.639
+\ELANParticipant
+
+\id Stepanova_ZA_naled_033
+\tx Taraŋụ       itteku,                 noːwu                    moːli        gịrkačịddan.
+\mb tarak -ŋ  -W   it  -REk      -W        noː            -W        moː  -(dU)LI gịrka -Č  -E-D     -R(E) -n(I)
+\ge dist  -aln -acc see -cond.cvb -poss.1sg younger.sibling -poss.1sg water -prol   walk    -res -ep-prog -nonfut -3sg
+\ft Suddenly I see, my brother is walking in water!
+\ru Вижу, мой брат по воде ходит.
+\ELANBegin 00:03:30.639
+\ELANEnd 00:03:37.061
+\ELANParticipant
+
+\id Stepanova_ZA_naled_034
+\tx Ečin      moːn           ere  eli.
+\mb erroːčin moː  -n(I)     erek erek -(dU)LI
+\ge prox.qual  water -poss.3sg prox prox -prol
+\ft Water like this, up to here.
+\ru Вода его посюда.
+\ELANBegin 00:03:37.061
+\ELANEnd 00:03:39.544
+\ELANParticipant
+
+\id Stepanova_ZA_naled_035
+\tx Tarịt bi   ŋeːlellidʒi              uːr   tuːtuŋeje               ujedʒeki               balaːtalbị
+\mb tarịt biː ŋeːl    -E-L     -RIdʒI  uːr   tuːten          -ŋEjE   uj     -E-ČEk -J       platok     -E-L   -J
+\ge then    1sg  be.afraid -ep-inch -ant.cvb before get.swollen.eyes -aug.adj tie.up -ep-nr  -prfl.sg kerchief.R -ep-pl -prfl.sg
+
+\tx bekeččemetnen             nụkram              ečin,     uleːrem.
+\mb bekeč -čEn -W   -tEn      nụk    -R(E) -m     erroːčin uleː -R(E) -m
+\ge all    -dim  -acc -poss.3pl take.off -nonfut -1sg prox.qual  throw -nonfut -1sg
+
+\ft Then I got a fright and took off all the scarves that I had tied before and that didn't let me see properly and threw them down.
+\ph
+\gr 260312: there is a descriptive verb tuːtendej "statj s opuxshimi glazami", the durative/imperfective form is tuːtuŋčidej (vowel
+assimilation), and the adjectives are tuːteku, tuːtuŋeje
+\gr (file Stepanova_ZA_naled_transl, 15:30) dʒek = the same as -hek, but has a durative meaning or refers to the past, while -hek is more
+general, or refers to the present, one could also say ujeheki; (10_quest_2010, 13:00) ujedʒeki = lit. 'svoe povjazannoe'; one could say
+ujedʒeku bụlaːtalbụ, but one cannot say *ujedʒek bụlaːtalbụ
+\nt
+\ru Я испугавшись повязанные платки все развязала так бросила.
+\ELANBegin 00:03:39.544
+\ELANEnd 00:03:50.386
+\ELANParticipant transl file 16:00
+
+\id Stepanova_ZA_naled_036
+\tx Elena tartakị     tọhaŋča,    tọːr... ele          bidden,               bohkele
+\mb Elena tarak -t(E)kI tụsan -čE    tarak      erek -(dU)LE bi -D    -R(E) -n(I)  bokes  -(dU)LE
+\ge Elena dist  -all    hop     -pf.ptc dist       prox -loc    be -prog -nonfut -3sg ice    -loc
+
+\tx ịlačaddan,                          kụnịnịkan.
+\mb ịl     -E-Č   -E-D     -R(E) -n(I)  kụːnị -nIkEn
+\ge stand.up -ep-res -ep-prog -nonfut -3sg scream     -sim.cvb
+\ft Elena jumped over there, she stands on the ice screaming.
+\ph
+\ru Елена туда вскочила, здесь находится, на льду стоит, крича.
+\ELANBegin 00:03:50.386
+\ELANEnd 00:03:57.757
+\ELANParticipant
+
+\id Stepanova_ZA_naled_037
+\tx "Ịaw     kụnịnaddan?"                       goːniken      ečin      hobgiw     iduk,         ajịt
+\mb ịak -W   kụːnị -n    -E-D     -R(E) -n(I)  goːn -nIkEn   erroːčin hebgi -W   irek  -DUk(U) aj   -E-Č
+\ge what  -acc scream     -mult -ep-prog -nonfut -3sg say   -sim.cvb prox.qual  steam -acc which -abl    good -ep-ins
+
+\tx ehni           ičur.
+\mb e -R(E) -n(I)  it  -W     -R
+\ge neg -nfut -3sg see -advrs -neg.cvb
+
+\ft "What is she screaming at?" I thought, through the fog nothing is properly visible.
+\ph
+\ru На что кричит думая из-за пара ничего хорошо не видно.
+\ELANBegin 00:03:57.757
+\ELANEnd 00:04:02.619
+\ELANParticipant
+
+\id Stepanova_ZA_naled_038
+\tx Oo, bi   ŋeːlellem,                    họːč    ŋeːlellem,                    ere  nọŋan tụrkịn
+\mb oo  biː ŋeːl    -E-L     -R(E) -m     họː -Č  ŋeːl    -E-L     -R(E) -m     erek nọŋan tụrkị -n(I)
+\ge oh  1sg  be.afraid -ep-inch -nonfut -1sg very   -ins be.afraid -ep-inch -nonfut -1sg prox 3sg      sled      -poss.3sg
+
+\tx ečikkekoːn              lọdkamdas  melumečidni      dʒiː, noːwu                    moːle
+\mb erroːčin -kkEn -KEn     lodka  -mdEs melumet -E  -n(I) dʒIː  noː            -W        moː  -(dU)LE
+\ge prox.qual  -dim  -dim.int boat.R -sml  rock    -ep -3sg  aff     younger.sibling -poss.1sg water -loc
+
+\tx gịrkačịddan.
+\mb gịrka -Č  -E-D     -R(E) -n(I)
+\ge walk    -res -ep-prog -nonfut -3sg
+\ft Oh, I got a fright, a big fright, here his sled is floating?? in the water like this like a boat, my brother is walking in water.
+\gr (10_quest_2010, 15:50) gịrkačịddan - dolgo xodit; gịrkaddan would not be good here, ne podxodit zdes', gịrkačịddan is better, podxodit
+\ru Я испугалась, очень испугалась, и его нарты так как лодка ччч мой брат ходит по воде.
+\ELANBegin 00:04:02.619
+\ELANEnd 00:04:14.995
+\ELANParticipant
+
+\id Stepanova_ZA_naled_039
+\tx Minu         ŋaːttan,          eːridni:   "Emniː!"           ečin      ịaj          boːtten,              tijumi.
+\mb min     -W   ŋaːt -R(E) -n(I)  eːri -n(I) em   -LI      =Iː  erroːčin ịak -J       boː -Č  -R(E) -n(I)  tijun -J
+\ge 1sg.obl -acc call   -nonfut -3sg call  -3sg  come -imp.2sg =emph prox.qual  what  -prfl.sg give -res -nonfut -3sg staff -prfl.sg
+\ft He calls me, "Come!!", and holds out his staff to me like this.
+\ph
+\gr (10_quest_2010, 16:45), normally, boːtten with the resultative can have a distributive meaning, but here the resultative gives a
+meaning of length, dolgo protjagivat'
+\ru Он меня зовет, иди! и протягивает мне свой посох.
+\ELANBegin 00:04:14.995
+\ELANEnd 00:04:19.857
+\ELANParticipant
+
+\id Stepanova_ZA_naled_040
+\tx Bi   emnidʒi      tijundukun              gasčịrakụ,                 tijunni         bekečen            ečin
+\mb biː em   -RIdʒI  tijun -DUk(U) -n(I)     ga   -sčI  -REk      -W        tijun -n(I)     bekeč -E-n(I)      erroːčin
+\ge 1sg  come -ant.cvb staff -abl    -poss.3sg take -conat -cond.cvb -poss.1sg staff -poss.3sg all    -ep-poss.3sg prox.qual
+
+\tx bakahrị
+\mb bakar       -RI
+\ge be.slippery -impf.ptc
+\ft When I came and tried to take his staff, his staff was completely slippery.
+\ph
+\gr The imperfect participles of stative verbs have the form -si/-hi, and here of course we have metathesis; these participles basically derive
+nominals (adjectives)
+\ru Когда я пыталась взять его посох, весь посох скользкий.
+\ELANBegin 00:04:19.857
+\ELANEnd 00:04:24.862
+\ELANParticipant
+
+\id Stepanova_ZA_naled_041
+\tx Ọːnda    taːŋčịŋa          turkurem,                beju             moːle        eŋeneŋ tikrem.
+\mb ọːn =DE  taːn -(k)čI -ŋE      turku       -R(E) -m     bej    -W        moː  -(dU)LE oŋonoŋ tik  -R(E) -m
+\ge how    =ptl pull  -dur    -nmdl.cvb not.be.able -nonfut -1sg self.Y -poss.1sg water -loc    nearly   fall -nonfut -1sg
+
+\ft I wasn't able to pull him out, I nearly fell into the water myself.
+\ph
+\gr taːŋčị = dolgo, resultative of taːn; 260312: I checked, there is no resultative taːnat-, only taːŋčị-, the progressive is taːŋdʒịd-
+\nt
+\ru Не могла его вытянуть, сама чуть не упала в воду.
+\ELANBegin 00:04:24.862
+\ELANEnd 00:04:28.307
+\ELANParticipant
+
+\id Stepanova_ZA_naled_042
+\tx "Herreː!          Bụgụn ọːlị       čahkị!"       goːnni     dʒiː, minu         herriw
+\mb hor -LI      =eː  bụgụn ọː  -LI      čaːg -skI      goːn -n(I) dʒIː  min     -W   hor -RI -W
+\ge go  -imp.2sg =emph side      become -imp.2sg far    -advb.all say   -3sg  aff     1sg.obl -acc go -impf.ptc -acc
+
+\tx goːnčelen,                 bi   amahjakọːkị           ečin      mịːttam             ịmmajịkaːn.
+\mb goːn -čE    -(dU)LE -n(I)  biː amar   -jEkEː   -skI      erroːčin mịːt   -R(E) -m     hịnma -jEː -KEn
+\ge say   -pf.ptc -loc -poss.3sg 1sg  behind -directly -advb.all prox.qual  move.back -nonfut -1sg fast    -aug  -dim.int
+
+\ft "Go away! Go aside!!" he said, right, when he said I should go back I went straight back very fast.
+\ph bugun alị čahkị
+\gr (10_quest_2010, 18:30) he told me 'go away!' would correctly be: minu herri goːnčelen; basically, I think the 'directly' suffix is infixed in
+the Allative suffix: amahkị -- amah-jakọː-kị, see also Zaxarov_AV_indjuk_28
+\ru "Уходи! Уйди отсюда подальше" сказал на меня, когда он это сказал уйти я назад, прямо назад, подвинулась.
+\ELANBegin 00:04:28.307
+\ELANEnd 00:04:36.276
+\ELANParticipant
+
+\id Stepanova_ZA_naled_043
+\tx Họːč    ŋeːlelčelew                               Elena tala          kụnịnịkan     ịrkanịkan
+\mb họː -Č  ŋeːl    -E-L     -čE    -(dU)LE -W        Elena tarak -(dU)LE kụːnị -nIkEn   ịrka -nIkEn
+\ge very   -ins be.afraid -ep-inch -pf.ptc -loc    -poss.1sg Elena dist  -loc    scream     -sim.cvb scream -sim.cvb
+
+\tx ịlačaddan.
+\mb ịl     -E-Č   -E-D     -R(E) -n(I)
+\ge stand.up -ep-res -ep-prog -nonfut -3sg
+\ft When I got a big fright, Elena stood there screaming.
+\ph kụnịnịkaːːːːn
+\gr ịrka- = standard Even, kụnị- = Sebjan, both just mean 'scream'
+\gr I asked Ija during the translation whether the locative-marked perfect participle here might have a meaning of 'I got such a big fright',
+similar to the cond.cvb frequently having a meaning of 'a vdrug ja uvizhu' etc, but she said, no, only the temporal meaning
+\ru Когда я очень испугалась, Елена там крича стоит.
+\ELANBegin 00:04:36.276
+\ELANEnd 00:04:41.684
+\ELANParticipant
+
+\id Stepanova_ZA_naled_044
+\tx Tarịt aran   aran   nọŋan ečin,     ịaldụ      tụrkịldụlị    ịanịkan,     kata
+\mb tarịt aran   aran   nọŋan erroːčin ịak -L  -DU  tụrkị -L  -(dU)LI ịa    -nIkEn   xata
+\ge then    barely barely 3sg      prox.qual  what  -pl -dat sled      -pl -prol   do.what -sim.cvb thank.god.Y
+
+\tx ọrọnnị,               aj   ọrọn          bimi.
+\mb ọrọn          -n(I)     aj   ọrọn          bi -mI
+\ge domestic.reindeer -poss.3sg good domestic.reindeer be -cond.cvb
+\ft Then he barely, barely did what (probably: jumped, or pulled himself) along the sleds, thank god his reindeer were good.
+\ph
+\gr (10_quest_2010, 20:30) aj ọrọlkan bihin = no, imejushie xoroshie oleni, this would be a statement about the person, but here the
+statement is about the reindeer, the bimi gives a nuance of reason, on spas ego potomuchto buduchi xoroshim olenem; aj ọrọn bihin =
+byl xoroshij olen'
+\ru Еле-еле он так по нартам что-то делая (перепрыгивая?), хорошо что олени у него хорошие были.
+\ELANBegin 00:04:41.684
+\ELANEnd 00:04:49.068
+\ELANParticipant
+
+\id Stepanova_ZA_naled_045
+\tx Keńeli ọrọn          bimi         tala          meːkukniken           Apọńawda        tipkenče
+\mb keńeli ọrọn          bi -mI       tarak -(dU)LE meːkuk       -nIkEn   Afanasij -W   =DE  tik  -WkEn -čE
+\ge bad     domestic.reindeer be -cond.cvb dist  -loc    thrash.around -sim.cvb Afanasij -acc =ptl fall -caus -pf.ptc
+
+\tx bimče.
+\mb bi -mč(I)
+\ge be -sbjv
+\ft If the reindeer had been bad it would have thrashed around and made Afanasij fall.
+\ru Если бы плохой олень был, там он брыкаясь Афоню бы уронил (заставил бы упасть).
+\ELANBegin 00:04:49.068
+\ELANEnd 00:04:54.047
+\ELANParticipant
+
+\id Stepanova_ZA_naled_046
+\tx Ọrọnnị                ịlča.
+\mb ọrọn          -n(I)     ịl     -čE
+\ge domestic.reindeer -poss.3sg stand.up -pf.ptc
+\ft His reindeer stood.
+\ph
+\gr 260312: here the evidential form expresses the unexpectedness that the reindeer were so good that they stood, and didn't let Afanasij
+fall into the water
+\ru Олень его встал.
+\ELANBegin 00:04:54.047
+\ELANEnd 00:04:55.581
+\ELANParticipant
+
+\id Stepanova_ZA_naled_047
+\tx Bejen               haːča      tartakị     hermi         keńeli goːniken.
+\mb bej    -E-n(I)      haː -čE    tarak -t(E)kI hor -mI       keńeli goːn -nIkEn
+\ge self.Y -ep-poss.3sg know -pf.ptc dist  -all    go  -cond.cvb bad     say   -sim.cvb
+\ft It knew by itself that it would be bad to go there.
+\ph
+\nt The important reindeer is the lead reindeer, the second reindeer just pulls.
+\ru Он сам почувствовал/знал что плохо будет если туда пойти.
+\ELANBegin 00:04:55.581
+\ELANEnd 00:04:58.246
+\ELANParticipant
+
+\id Stepanova_ZA_naled_048
+\tx Tarbačan      ọrọn          biwren,         bejdʒi             ere  mergeč ọrọn.
+\mb tarọːčịn ọrọn          bi -Gr(E) -n(I) bej    -DʒI        erek mergeč ọrọn
+\ge dist.qual      domestic.reindeer be -hab   -3sg  self.Y -ins.prfl.sg prox clever  domestic.reindeer
+\ft There are reindeer like that, reindeer that are clever by themselves.
+\ru Такой олень бывает, сам по себе умный олень.
+\ELANBegin 00:04:58.246
+\ELANEnd 00:05:01.132
+\ELANParticipant
+
+\id Stepanova_ZA_naled_049
+\tx Keńelitki      eti           horre.
+\mb keńeli -t(E)kI e   -RI       hor -R
+\ge bad     -all    neg -impf.ptc go  -neg.cvb
+\ft (Reindeer) which don't go towards bad (things).
+\ph
+\ru К плохому не идет.
+\ELANBegin 00:05:01.132
+\ELANEnd 00:05:02.757
+\ELANParticipant
+
+\id Stepanova_ZA_naled_050
+\tx Teːmi,   eli          hịrgaldụlị    ečin      ịanịkan,     dʒiŋ ńoːrep.
+\mb teːmi    erek -(dU)LI hïarga -L  -(dU)LI erroːčin ịa    -nIkEn   dʒiŋ ńoː -R(E) -p
+\ge therefore prox -prol   sled.Y  -pl -prol   prox.qual  do.what -sim.cvb very.Y exit  -nonfut -1pl.in
+
+\ft That is why, doing something along the sleds, we got out.
+\ph ńọːrap
+\ru Поэтому по нартам что-то делая вышли.
+\ELANBegin 00:05:02.757
+\ELANEnd 00:05:08.087
+\ELANParticipant
+
+\id Stepanova_ZA_naled_051
+\tx Beketkenni                iŋemče               ečin,     tarịt amahkị         mụčụrap.
+\mb bekeč -KEn     -n(I)     iŋeń  -W     -čE    erroːčin tarịt amar   -skI      mụčụ -R(E) -p
+\ge all    -dim.int -poss.3sg be.cold -advrs -pf.ptc prox.qual  then    behind -advb.all return    -nonfut -1pl.in
+
+\ft Everything of his froze like this, then we went back.
+\ru Все замерзло так, потом вернулись назад.
+\ELANBegin 00:05:08.087
+\ELANEnd 00:05:12.611
+\ELANParticipant
+
+\id Stepanova_ZA_naled_052
+\tx Amahkị         mụčụnịkan   eliːr,               emdeŋuːr             họtarandụlịr           ehep
+\mb amar   -skI      mụčụ -nIkEn   erek -(dU)LI -WUr     em   -DEŋ    -WUr     họtọran -(dU)LI -WUr     e   -R(E) -p
+\ge behind -advb.all return    -sim.cvb prox -prol   -prfl.pl come -pst.ptc -prfl.pl road        -prol   -prfl.pl neg -nonfut -1pl.in
+
+\tx horre,       ečin      amkandụlị ọjčịnịkan.
+\mb hor -R       erroːčin amkan -(dU)LI ọjčị -nIkEn
+\ge go  -neg.cvb prox.qual  hill  -prol   go.up     -sim.cvb
+\ft When we went back we didn't go by the road we had come by, we went over a hill like this.
+\ph
+\gr (10_quest_2010, 22:45) emdeŋur họtarandụlịwụr = emdeŋur họtarandụlịr mozhno skazat'; *emdeŋ họtarandụliwụr = no, impossible,
+but one could say emče họtarandụlịwụr; (this elicitation was done when I still thought the transcription was họtarandụlị, only
+afterwards did I realize that she said họtarandụlịr)
+\ru А назад возвращаясь, повсюда, не поехали по той дороге по которой приехали, так по горе поднимаясь.
+\ELANBegin 00:05:12.611
+\ELANEnd 00:05:19.670
+\ELANParticipant
+
+\id Stepanova_ZA_naled_053
+\tx Tala          ọmkandụla    ọjčịrakat,                      Apọńa kata,       ečin,     bekeččenni
+\mb tarak -(dU)LE ọmkan  -(dU)LE ọjčị -REk      -E  -t(I)        Afanasij xata        erroːčin bekeč -čEn -n(I)
+\ge dist  -loc    mountain -loc    go.up     -cond.cvb -ep -poss.1pl.in Afanasij thank.god.Y prox.qual  all    -dim  -poss.3sg
+
+\tx ereŋen                iŋemdeŋen,                         ajịkeː, ečikkeken                ọjčịrakan
+\mb erek -ŋ  -E-n(I)      iŋeń  -W     -DEŋ    -E-n(I)      aj   =kE   erroːčin -kkEn -KEn     ọjčị -REk -E-n(I)
+\ge prox -aln -ep-poss.3sg be.cold -advrs -pst.ptc -ep-poss.3sg good =emph prox.qual  -dim  -dim.int go.up     -cond.cvb -ep -poss.3sg
+
+\tx ehni           bakarkịtta.
+\mb e -R(E) -n(I)  bakarkịn -Č  -R
+\ge neg -nfut -3sg slip       -res -neg.cvb
+
+\ft When we were climbing up that mountain, luckily everything that had frozen on Afanasij, very good, when he climbed up like this he
+didn't slip.
+\ph
+\gr the diminutive in eččikekken might be because the steps were small and frequent; bakar- "be.slippery" and bakarkịn- "slip" are the
+only verb pair of this kind that IVK was able to come up with, remember - i.e. when I asked whether there were any other such pairs,
+she couldn't come up with any
+\ru Когда мы поднялись в гору, у Афони вот так все что замерзло, так, когда он поднимается не скользит.  
+\ELANBegin 00:05:19.670
+\ELANEnd 00:05:29.433
+\ELANParticipant
+
+\id Stepanova_ZA_naled_054
+\tx Tarịt uːrihip       palatkačandụlaːr           mụčụrap,             mut.
+\mb tarịt uːr   -(E)rEp palatka -čEn -(dU)LE -WUr     mụčụ -R(E) -p        mut
+\ge then    before -adjr   tent.R  -dim  -loc    -prfl.pl return    -nonfut -1pl.in 1pl.in
+\ft Then we returned to that little tent of ours (that we had passed) previously.
+\ph
+\ru Потом вернулись к той своей палатке.
+\ELANBegin 00:05:29.433
+\ELANEnd 00:05:32.774
+\ELANParticipant
+
+\id Stepanova_ZA_naled_055
+\tx Tala          palatkala       emessireket,                              gọlda       ịakta    ačča.
+\mb tarak -(dU)LE palatka -(dU)LE em   -E  -sčI  -REk      -E-t(I)         gọl    =DE  ịak =DE  ačča
+\ge dist  -loc    tent.R  -loc    come -ep -conat -cond.cvb -ep-poss.1pl.in firewood =ptl what  =ptl neg
+\ft When we arrived at the tent, there was no firewood, nothing.
+\ph
+\gr When I asked during the translation session whether the conative suffix on 'come' might have a meaning of 'having arrived with
+difficulty' she said 'yes-yes', but with such an unwillingness, as if she was just trying to preempt any further nudnye questions from my
+side, so I'm not sure that can be trusted; (10_quest_2010, 25:50) asked again, and then Ija explained that the conative suffix is used
+when something unexpected happens, also as in the text Alekseeva_stuck_in_stado_41, where they stood up and found that the sky
+unexpectedly was blue and it was sunny, although it had been threatening rain
+\ru Когда пришли к палатке, не дров ничего нет.
+\ELANBegin 00:05:32.774
+\ELANEnd 00:05:36.778
+\ELANParticipant
+
+\id Stepanova_ZA_naled_056
+\tx Tiːkerep    bej tarọːčịn, dʒulep       bej, bide      ammụ           goːŋnerin:                "Ọːkta
+\mb tiek -(E)rEp bej tarọːčịn  dʒul -(E)rEp bej  biː =DE  aman   -W        goːn -Gr(E) -RI -n(I)      ọːk =DE
+\ge now  -adjr   man dist.qual       front -adjr   man  1sg  =ptl father -poss.1sg say   -hab   -pst -poss.3sg when   =ptl
+
+\tx ọːkta    palatkaw     tačịn       ehni           emeːŋner.
+\mb ọːk =DE  palatka -W   tarọːčịn e -R(E) -n(I)  emeːn -Gr(E) -R
+\ge when   =ptl tent.R  -acc dist.qual      neg -nfut -3sg leave  -hab   -neg.cvb
+\ft Modern people are like that, previous people... and my father used to say: "(He) never, never leaves a tent like that."
+\ru Современный человек такой, прежние люди... и мой отец говорил, Никогда палатку так не оставляет.
+\ELANBegin 00:05:36.778
+\ELANEnd 00:05:43.551
+\ELANParticipant
+
+\id Stepanova_ZA_naled_057
+\tx Tala          objazatelno    dʒeblekekengu       bidʒin,       gọlụ      ečin      ịtawrịdʒụr,
+\mb tarak -(dU)LE objazatelno    dʒep -LE -kEkEn =GU bi -DʒI -n(I) gọl    -W   erroːčin ịtag  -RIdʒI -L
+\ge dist  -loc    without.fail.R eat   -nr -dim   =q  be -fut -3sg   firewood -acc prox.qual  prepare -ant.cvb -pl
+
+\tx ŋiːgul     ere  horedniken            haːtawra... haːtarawrịdʒịgụ        haːtaralawrịdʒịgụ
+\mb ŋiː =(W)Ul erek hor -E-D     -nIkEn                haːtar -E-W      -RIdʒI  =GU haːtar -E-L     -E-W      -RIdʒI  =GU
+\ge who   =indef prox go  -ep-prog -sim.cvb              be.dark -ep-advrs -ant.cvb =q  be.dark -ep-inch -ep-advrs -ant.cvb =q
+
+\tx ịarịdʒịgụ   bej aːnŋadʒịn                 goːniken,     hontede    beju     dʒọmkattị
+\mb ịa    -RIdʒI  =GU bej aːnŋa            -DʒI -n(I) goːn -nIkEn   honte =DE  bej -W   dʒọmkat -RI
+\ge do.what -ant.cvb =q  man stop.for.the.night -fut -3sg   say   -sim.cvb other =ptl man -acc think      -impf.ptc
+
+\tx bihitnen.
+\mb bi -RI -tEn
+\ge be -pst -poss.3pl
+\ft There will always be a little bit of food, some prepared firewood, because somebody might get caught by darkness and stop for the
+night, they used to think about other people.
+\ph
+\gr 260312: dʒọmkattị bihitnen = several times in the past, while dʒọmkattịtnen = once thought about someone in the past
+\gr (10_quest_2010, 27:30) haːtarawrịdʒịgụ, haːtaralawrịdʒịgụ = lit podvergjas' potemneniju and the phrase "ngigul ha:taralawridjigu bej
+angadjin goniken" - can have a meaning of reason,  'because somebody might want to spend the night'; "goːniken potomu čto často
+byvaet
+\qu
+\ru Там обязательно будет еда немножко, приготовив дрова, что кто-нибудь проезжая припозднившись человек здесь ночует, о
+другом человеке думали.
+\ELANBegin 00:05:43.551
+\ELANEnd 00:05:58.969
+\ELANParticipant
+
+\id Stepanova_ZA_naled_058
+\tx Tiːkerep    kụŋaŋaltị                  tara  tara  ačča.
+\mb tiek -(E)rEp kụŋa -ŋ  -E-L   -t(I)        tarak tarak ačča
+\ge now  -adjr   child   -aln -ep-pl -poss.1pl.in dist  dist  neg
+\ft Our children of today don't.
+\ph
+\gr one should better have said kụŋaldụlat tarbačan ačča
+\ru Современные наши дети нет. У современных детей такого (представления) нет.
+\ELANBegin 00:05:58.969
+\ELANEnd 00:06:02.375
+\ELANParticipant
+
+\id Stepanova_ZA_naled_059
+\tx Tara  bi   dʒe   gọlụ      dururem,                tọgụ   dururem.
+\mb tarak biː dʒe   gọl    -W   dur  -U    -R(E) -m     tọg -W   dur  -U    -R(E) -m
+\ge dist  1sg  well.Y firewood -acc burn -caus -nonfut -1sg fire  -acc burn -caus -nonfut -1sg
+\ft I lit firewood, lit a fire.
+\ru Я дрова разожгла, огонь разожгла.
+\ELANBegin 00:06:02.375
+\ELANEnd 00:06:07.887
+\ELANParticipant
+
+\id Stepanova_ZA_naled_060
+\tx Afonja   telle           ọrọlbị                   ịak, kaŋdụnamị            ńoːdni.
+\mb Afanasij tol     -(dU)LE ọrọn          -L  -J       ịak  kaŋdụ    -nE -mI       ńoː -n(I)
+\ge Afanasij outside -loc    domestic.reindeer -pl -prfl.sg what   tie.kangdun -nr -cond.cvb exit  -3sg
+
+\ft Afanasij went outside to hobble his reindeer.
+\ph
+\nt The kangdun is a big piece of wood that is tied to a reindeer's neck to prevent it from walking off too far.
+\ru Афоня вышел на улицу чтобы оленей своих кангдунать. (чтобы пойти привязывать кангдун)
+\ELANBegin 00:06:07.887
+\ELANEnd 00:06:13.900
+\ELANParticipant
+
+\id Stepanova_ZA_naled_061
+\tx Elena ŋaːlan            bütenniːken         desčin.
+\mb Elena ŋaːl -E-n(I)      bütünnüː -KEn     desči -n(I)
+\ge Elena hand   -ep-poss.3sg entirely.Y   -dim.int lie    -3sg
+\ft Elena's hands lie entirely.
+\ph
+\nt She probably wanted to say that Elena had to lie down because of her wounded hand.
+\ru Еленины руки все лежат.
+\ELANBegin 00:06:13.900
+\ELANEnd 00:06:17.260
+\ELANParticipant
+
+\id Stepanova_ZA_naled_062
+\tx Bi   tọgụ   dururidʒi          ịarịdʒị,  dʒe   dʒeptep              ịaw,     ịak bihin,
+\mb biː tọg -W   dur  -U    -RIdʒI  ịa    -RIdʒI  dʒe   dʒep -R(E) -p        ịak -W   ịak bi -RI -n(I)
+\ge 1sg  fire  -acc burn -caus -ant.cvb do.what -ant.cvb well.Y eat   -nonfut -1pl.in what  -acc what  be -pst -poss.3sg
+
+\tx kanserva, ọlda kanserva...
+\mb konserva  ọlra konserva
+\ge can.R     fish   can.R
+\ft I lit a fire and did what, and we ate what, well what was there, canned fish.
+\ru Я разжогя огонь мы покушали, что было, рыбные консервы.
+\ELANBegin 00:06:17.260
+\ELANEnd 00:06:27.380
+\ELANParticipant
+
+\id Stepanova_ZA_naled_063
+\tx Taraw      dʒeptidʒur       huklehne,            bi   dọlbanịw     kọŋdas eniken       huklere,       ere  tọgụ
+\mb tarak -W   dʒep -RIdʒI -L   hukle -s(E)n -R(E)   biː dọlbanị -W   kọŋdas e   -nIkEn   hukle -R       erek tọg -W
+\ge dist  -acc eat   -ant.cvb -pl sleep -lim   -nonfut 1sg  night       -acc through   neg -sim.cvb sleep -neg.cvb prox fire  -acc
+
+\tx durutniken.
+\mb dur  -U    -Č  -nIkEn
+\ge burn -caus -res -sim.cvb
+\ft Having eaten that they went to sleep, I kept the fire going without sleeping all night.
+\ru Покушав они легли спать, я всю ночь не спя вот огонь сжигаю.
+\ELANBegin 00:06:27.380
+\ELANEnd 00:06:34.537
+\ELANParticipant
+
+\id Stepanova_ZA_naled_064
+\tx Noːwu                    ịadan                     goːmị        hetče               bihin,            teːmi
+\mb noː            -W        ịa    -DE       -n(I)     goːn -mI       het          -čE    bi -RI -n(I)      teːmi
+\ge younger.sibling -poss.1sg do.what -purp.cvb -poss.3sg say   -cond.cvb be.exhausted -pf.ptc be -pst -poss.3sg therefore
+
+\tx deremkeden                  nọŋan nọŋan hettidʒi             enillekengu
+\mb deremke -DE       -n(I)     nọŋan nọŋan het          -RIdʒI  enin   -L    -REk -E-n(I)            =GU
+\ge rest    -purp.cvb -poss.3sg 3sg      3sg      be.exhausted -ant.cvb be.ill -inch -cond.cvb -ep -poss.3sg =q
+
+\tx ịarakangụ,                      mut    bej etep              ọːr          goːniken,     taraw
+\mb ịa    -REk -E-n(I)            =GU mut    bej e   -t(E) -p      ọː  -R       goːn -nIkEn   tarak -W
+\ge do.what -cond.cvb -ep -poss.3sg =q  1pl.in man neg -fut  -1pl.in become -neg.cvb say   -sim.cvb dist  -acc
+
+\tx mergetmi           ehem             huklehne.
+\mb mergeːt -mI       e   -R(E) -m     hukle -s(E)n -R
+\ge think    -cond.cvb neg -nonfut -1sg sleep -lim   -neg.cvb
+\ft So that my brother could do what, he was exhausted, therefore so that he could rest, if he fell ill or what being so exhausted we might
+die (we will not become people), thinking of that I didn't sleep.
+\ru Чтобы мой брат что-то сделал, он был уставши, поэтому чтобы он отдохнул, если он устав заболеет, что-то с ним случится, с нами
+плохо будет, об этом переживая не спала.
+\ELANBegin 00:06:34.537
+\ELANEnd 00:06:46.679
+\ELANParticipant
+
+\id Stepanova_ZA_naled_065
+\tx Dʒe   bačịkar  ŋeːrilčelen                             dʒe   herehnep.
+\mb dʒe   badʒịkar ŋeːrin      -L    -čE    -(dU)LE -n(I)  dʒe   hor -E-s(E)n -R(E) -p
+\ge well.Y morning     become.bright -inch -pf.ptc -loc -poss.3sg well.Y go  -ep-lim  -nonfut -1pl.in
+\ft Well in the morning when it became bright we left.
+\ru Когда рассвело утром мы поехали.
+\ELANBegin 00:06:46.679
+\ELANEnd 00:06:49.331
+\ELANParticipant
+
+\id Stepanova_ZA_naled_066
+\tx Talị        tar   moːli        ehep                horre,       ogide     ečin,     ogidele
+\mb tarak -(dU)LI tarak moː  -(dU)LI e   -R(E) -p        hor -R       ogi -gIdE erroːčin ogi -gIdE -(dU)LE
+\ge dist  -prol   dist  water -prol   neg -nonfut -1pl.in go  -neg.cvb top -part prox.qual  top -part -loc
+
+\tx hereddep.
+\mb hor -E-D     -R(E) -p
+\ge go  -ep-prog -nonfut -1pl.in
+
+\ft We didn't go along the river, we went along the top.
+\ph
+\gr It should really be ogideli, with the prolative case.
+\ru Так по воде мы не пошли, поверху едем.
+\ELANBegin 00:06:49.331
+\ELANEnd 00:06:54.284
+\ELANParticipant
+
+\id Stepanova_ZA_naled_067
+\tx Ogile       họː keńeli họtaran.
+\mb ogi -(dU)LE họː keńeli họtọran
+\ge top -loc    very   bad     road
+\ft On top the 'road' is very bad.
+\ru Наверху очень плохая дорога.
+\ELANBegin 00:06:54.284
+\ELANEnd 00:06:56.234
+\ELANParticipant
+
+\id Stepanova_ZA_naled_068
+\tx Anï  hergehki         tikmi          ere  bej ịamnan.
+\mb anï  hergi  -skI      tik  -mI       erek bej ịa    -mnE -n(I)
+\ge now.Y bottom -advb.all fall -cond.cvb prox man do.what -hyp -poss.3sg
+
+\ft If you go down a person does what.
+\ph
+\gr (10_quest_2010, 29:45) ịamnan = big probability that something will happen, both good and bad, horemnew = ja objazatel'no ujdu,
+bolshoe predpolozhenie, bolshaja vozmozhnost' chto chto-to sluchitsja
+\ru Если вниз спустится человек что-то делает.
+\ELANBegin 00:06:56.234
+\ELANEnd 00:07:00.121
+\ELANParticipant
+
+\id Stepanova_ZA_naled_069
+\tx Tarịt emneken        hergehki         tik... tar   hergehki         tikeddeket                              ńan
+\mb tarịt omen -REkEn    hergi  -skI      tik    tarak hergi  -skI      tik  -E-D     -REk      -E-t(I)         ńaːn
+\ge then    one  -iter.adv bottom -advb.all fall   dist  bottom -advb.all fall -ep-prog -cond.cvb -ep-poss.1pl.in and
+
+\tx ọrọltị                       ọːngul     ịačalatnan,                    bi   noːji                   bụllịdʒị
+\mb ọrọn          -L  -t(I)        ọːn =(W)Ul ịa    -čE    -(dU)LE -tEn      biː noː            -J       bụl -RIdʒI
+\ge domestic.reindeer -pl -poss.1pl.in how    =indef do.what -pf.ptc -loc    -poss.3pl 1sg  younger.sibling -prfl.sg pity  -ant.cvb
+
+\tx nọŋantịkaːkan                  herridʒi    nọŋandụn           toːdičissimi               belessimi
+\mb nọŋan -t(E)kI -jEkEːkI -n(I)     hor -RIdʒI  nọŋan -DU  -n(I)     toːdi -Č  -sčI  -mI       bel  -E-sčI   -mI
+\ge 3sg      -all    -directly -poss.3sg go  -ant.cvb 3sg      -dat -poss.3sg help   -res -conat -cond.cvb help -ep-conat -cond.cvb
+
+\tx ịak tụrkị herdelin,                      čụːnam!
+\mb ịak tụrkị her    -gIdE -(dU)LI -n(I)     čụːn  -R(E) -m
+\ge what  sled      bottom -part -prol   -poss.3sg disappear -nonfut -1sg
+
+\ft Once when we were going down, when our reindeer did something somehow, I pitied my brother and went straight to him, trying to
+help him I disappeared (e.g. fell, slipped) under the sled!
+\gr nọŋantịkịjaːkịn would be better; prjamo ko mne = mintijeːki, prjamo-prjamo ko mne=  mintijekeːki; beldej = uxazhivatj, zabotitsja,
+laskatj, gladitj; toːdi = help
+\ru Потом однажды внизу когда мы спускались вниз наши олени опять  как-то что-то сделали, я пожалев брата пямо идя к нему, ему
+пытаясь помочь прямо под нарты прошмыгнула!
+\ELANBegin 00:07:00.121
+\ELANEnd 00:07:16.370
+\ELANParticipant
+
+\id Stepanova_ZA_naled_070
+\tx Afanasija    "Herreː!          Bụgụn ọːlị       herri!       hindel beldʒiŋeduk          hi....
+\mb Afanasij -E  hor -LI      =eː  bụgụn ọː  -LI      hor -LI             bel  -D(I)ŋE  -DUk(U) hiː
+\ge Afanasij -ep go  -imp.2sg =emph side      become -imp.2sg go  -imp.2sg        help -fut.ptcp -abl    2sg
+
+\ft Afanasij "Leave!! Go away!" rather than help you...
+\ph
+\ru Афанасий "Уходи отсюда в сторону!", чем помочь ты....
+\ELANBegin 00:07:16.370
+\ELANEnd 00:07:23.380
+\ELANParticipant
+
+\id Stepanova_ZA_naled_071
+\tx Ịak bihenni,        ụrụńa herri"       goːnni     dʒiː.
+\mb ịak bi -R(E)   -nrI ụrụńa hor -LI      goːn -n(I) dʒIː
+\ge what  be -nonfut -2sg quiet      go  -imp.2sg say   -3sg  aff
+
+\ft What are you, go xxx " he said, right.
+\ph
+\qu ask Zoja what urunja means
+\ru Что ты есть, иди 
+\ELANBegin 00:07:23.380
+\ELANEnd 00:07:27.470
+\ELANParticipant
+
+\id Stepanova_ZA_naled_072
+\tx Dʒe   bi   ńan   amahkịhịjaːkakan      herrem.
+\mb dʒe   biː ńaːn amar   -skI      -jEkEːkI hor -R(E) -m
+\ge well.Y 1sg  and    behind -advb.all -directly go  -nonfut -1sg
+
+\ft And again I went straight back.
+\ph
+\gr amahịjakaːkị = prjamo-prjamo nazad
+\ru Я опять назад пошла.
+\ELANBegin 00:07:27.470
+\ELANEnd 00:07:30.080
+\ELANParticipant
+
+\id Stepanova_ZA_naled_073
+\tx Dʒe   tačịn,      tačịn       herehnit.
+\mb dʒe   tarọːčịn tarọːčịn hor -E-s(E)n -RI -t(I)
+\ge well.Y dist.qual      dist.qual      go  -ep-lim  -pst -poss.1pl.in
+\ft Well, we went like that.
+\ru Так поехали.
+\ELANBegin 00:07:30.080
+\ELANEnd 00:07:32.880
+\ELANParticipant
+
+\id Stepanova_ZA_naled_074
+\tx Herroːp            ajịkeː  ịaka, ineŋ.
+\mb hor -R(E) -p        aj   =kE   ịak   ineŋ
+\ge go  -nonfut -1pl.in good =emph what    day
+
+\ft We go, a very good day.
+\ph the lengthened and rounded vowel of the nonfuture is emphatic
+\ru Едем, очень хороший день.
+\ELANBegin 00:07:32.880
+\ELANEnd 00:07:40.000
+\ELANParticipant
+
+\id Stepanova_ZA_naled_075
+\tx Kolluːkken  ńoltikken    bihni,          talị        horedʒeːnnep                   ajị.
+\mb kotlen -kkEn ńolten -kkEn bi -R(E) -n(I)  tarak -(dU)LI hor -E  -dʒEːn -R(E) -p        aj
+\ge small  -dim  sun     -dim  be -nonfut -3sg dist  -prol   go  -ep -dur     -nonfut -1pl.in good
+\ft There is a little sun (i.e. a little bit of sunshine), through that we go, good.
+\ph
+\gr 260312: horedʒeːnnep = even though it was good with the sunshine, "one always pities oneself when travelling", "sebje vsegda zhalko,
+osobenno v kochevoj zhizni"
+\ru Маленькое солнце есть, так едем.
+\ELANBegin 00:07:40.000
+\ELANEnd 00:07:44.560
+\ELANParticipant
+
+\id Stepanova_ZA_naled_076
+\tx Ertiki       hormi         dʒapkịs      stada  bihni,          ertiki       mịan omen stada.
+\mb erek -t(E)kI hor -mI       dʒapkan -Is    stado  bi -R(E) -n(I)  erek -t(E)kI mịan omen stado
+\ge prox -all    go  -cond.cvb eight    -ord.Y herd.R be -nonfut -3sg prox -all    ten    one  herd.R
+\ft If you go here it is the eighth reindeer brigade, over here the eleventh brigade.
+\ph mịan omen ịstada
+\gr 260312: I had though that the fact that she says mịan omeni stado would mean that she used the ordinal; but the ordinal would be mịan
+omni stada, and so IVK insisted that she'd just added an "epenthetic" vowel to omen
+\nt The territories of the eighth and eleventh reindeer brigades were adjacent.
+\ru Если сюда поехать 8ме стадо, сюда поехать 11ое стадо.
+\ELANBegin 00:07:44.560
+\ELANEnd 00:07:50.670
+\ELANParticipant
+
+\id Stepanova_ZA_naled_077
+\tx Tala          ammụ           tar   digen anŋanịlkan hurkečenńun        dʒoːr... dʒoːridʒurńun
+\mb tarak -(dU)LE aman   -W        tarak digen anŋan -lkEn  hurkeːn -čEn -ńUn dʒoːr    dʒoːr -NI   -dʒUr       =ńUn
+\ge dist  -loc    father -poss.1sg dist  four  year   -prop  boy      -dim  -com  two        two     -coll -ins.prfl.pl =restr
+
+\tx bidʒeːnne.
+\mb bi -dʒEːn -R(E)
+\ge be -dur     -nonfut
+\ft There my father is all alone with the little four-year-old boy.
+\ph
+\gr 260312: bidʒeːnne = umilenie, tender emotion
+\nt Her father was in the eleventh brigade; however, ZAS later said that he wasn't alone in the brigade, although he was alone in the tent
+with the little boy when they arrived; the speaker's older brother was in the brigade with their father.
+\ru Мой отец там находится вместе с 4летним мальчиком.
+\ELANBegin 00:07:50.670
+\ELANEnd 00:07:58.360
+\ELANParticipant
+
+\id Stepanova_ZA_naled_078
+\tx Apkịt biče      tara, heredʒeːnnep                 ajịkeː  tikeddep                      ečiken
+\mb apkịt bi -čE    tarak hor -E-dʒEːn -R(E) -p        aj   =kE   tik  -E-D     -R(E) -p        erroːčin -KEn
+\ge ravine  be -pf.ptc dist  go  -ep-dur    -nonfut -1pl.in good =emph fall -ep-prog -nonfut -1pl.in prox.qual  -dim.int
+
+\tx tọːla      apkịt ečin      ičudni,         balatkakkan   dʒe   ečiken,            haːnịnčannị.
+\mb tarak -(dU)LE apkịt erroːčin it  -W     -n(I) palatka -kkEn dʒe   erroːčin -KEn     haːnịn -čEn -n(I)
+\ge dist  -loc    ravine  prox.qual  see -advrs -3sg  tent.R  -dim  well.Y prox.qual  -dim.int smoke     -dim  -poss.3sg
+\ft There is a ravine there, we go and go, it is very good, we go down like this, theeeeere a ravine can be seen like this, a small tent, a bit
+of smoke.
+\ph apkịːːːːːːt
+\gr heredʒeːnnep = zhaleet sebja (even though all is fine)
+\gr possibly she used the non-witnessed past apkịt biče - which literally means 'there was a ravine', even though the ravine still exists there
+- because she doesn't remember everything so clearly, in so much detail anymore; remembers only 'chto ushelje tam, okazyvaetsja,
+bylo'
+\ru Там ущелье, едем, хорошо, спускаемся так, там ущелье виднеется, палаточка, и дымок.
+\ELANBegin 00:07:58.360
+\ELANEnd 00:08:11.750
+\ELANParticipant
+
+\id Stepanova_ZA_naled_079
+\tx Trụbadụk   haːnịnkakan,  ečin      tikepti,               egdʒoːn tikepti                bihni,
+\mb truba  -DUk(U) haːnịn -kEkEn erroːčin tik  -E-B    -RI       egdʒen   tik  -E-B    -RI       bi -R(E) -n(I)
+\ge pipe.R -abl    smoke     -dim   prox.qual  fall -ep-med -impf.ptc big       fall -ep-med -impf.ptc be -nonfut -3sg
+
+\tx tadụk       hergili        itteket,                      omen kụŋakkan   ńoːdni,   kolluːkken  kụŋakkan.
+\mb tarak -DUk(U) hergi  -(dU)LI it  -REk      -E-t(I)         omen kụŋa -kkEn ńoː -n(I) kotlen -kkEn kụŋa -kkEn
+\ge dist  -abl    bottom -prol   see -cond.cvb -ep-poss.1pl.in one  child   -dim  exit  -3sg  small  -dim  child   -dim
+\ft Out of the pipe (chimney) a bit of smoke, there is a big slope (descent), when we looked down from there a small child came out, a very
+small little child.
+\ru Из трубы дым, так спуск, большой спуск есть, оттуда вниз когда смотрели, один ребеночек вышел, маленький ребенок.
+\ELANBegin 00:08:11.750
+\ELANEnd 00:08:22.190
+\ELANParticipant
+
+\id Stepanova_ZA_naled_080
+\tx Kojeːtten           mutu,       eli          ičudni,         amardadụkụn...             ịawgụl
+\mb kojeːt -R(E) -n(I)  mut    -W   erek -(dU)LI it  -W     -n(I) amar   -gIdE -DUk(U) -n(I)     ịak -W      =(W)Ul
+\ge look.at -nonfut -3sg 1pl.in -acc prox -prol   see -advrs -3sg  behind -part -abl    -poss.3sg what  -acc    =indef
+
+\tx ịrkatnị  ịrkačalan                  amardadụkụn                ammụ           ńoːjeːtten.
+\mb ịrka -n(I) ịrka -čE    -(dU)LE -n(I)  amar   -gIdE -DUk(U) -n(I)     aman   -W        ńoː -jEːt -R(E) -n(I)
+\ge scream -3sg  scream -pf.ptc -loc -poss.3sg behind -part -abl    -poss.3sg father -poss.1sg exit  -dim   -nonfut -3sg
+\ft (The child) looked at us, it was visible here, then it shouted something, and from behind him my father came out.
+\ph
+\gr 260312: ńoːjeːtten = ottenok umilenija, tenderness
+\ru На нас посмотрел, здесь видно, сзади... он что-то крикнул, когда кричал сзади вышел мой отец. 
+\ELANBegin 00:08:22.190
+\ELANEnd 00:08:28.560
+\ELANParticipant
+
+\id Stepanova_ZA_naled_081
+\tx Gudʒejekiet,               tar   ịahallaw                 ičudni,         hawdị etiken,  etiken   ńan   tar   kụŋačan.
+\mb gudʒen    -(h)E =kE   -Č  tarak ịašal -(dU)LE -W        it  -W     -n(I) hagdị etikeːn etikeːn ńaːn tarak kụŋa -čEn
+\ge be.beloved -excl =emph -ins dist  eyes     -loc    -poss.1sg see -advrs -3sg  old     old.man  old.man  and    dist  child   -dim
+
+\ft Very sweet, I still see that before me, the old old man and that little child.
+\ph
+\gr
+\ru Очень мило, в глазах видно, старый старик и этот ребенок.
+\ELANBegin 00:08:28.560
+\ELANEnd 00:08:35.500
+\ELANParticipant
+
+\id Stepanova_ZA_naled_082
+\tx Bi   họːč    orelderem.
+\mb biː họː -Č  orelde   -R(E) -m
+\ge 1sg  very   -ins be.happy -nonfut -1sg
+\ft I was very happy.
+\ru Я очень обрадовалась.
+\ELANBegin 00:08:35.500
+\ELANEnd 00:08:37.210
+\ELANParticipant
+
+\id Stepanova_ZA_naled_083
+\tx Dʒe   ajịkeː  tikrep,              tikridʒur        emnep,               họː orelderep,
+\mb dʒe   aj   =kE   tik  -R(E) -p        tik  -RIdʒI -L   em   -R(E) -p        họː orelde   -R(E) -p
+\ge well.Y good =emph fall -nonfut -1pl.in fall -ant.cvb -pl come -nonfut -1pl.in very   be.happy -nonfut -1pl.in
+
+\tx ịarap,                bi   tadụk       butenellem.
+\mb ịa    -R(E) -p        biː tarak -DUk(U) buteːn -E-L     -R(E) -m
+\ge do.what -nonfut -1pl.in 1sg  dist  -abl    be.ill  -ep-inch -nonfut -1sg
+\ft We descended very well and arrived, we were very glad, we did something, and then I fell ill.
+\ru Очень хорошо спустились, спустившись пришли, очень обрадовались, что-то сделали, я потом заболела.
+\ELANBegin 00:08:37.210
+\ELANEnd 00:08:43.830
+\ELANParticipant
+
+\id Stepanova_ZA_naled_084
+\tx Dọlbanịw     kọŋdas ehem             huklehne,             beketkenni                moː!.
+\mb dọlbanị -W   kọŋdas e   -R(E) -m     hukle -s(E)n -R       bekeč -KEn     -n(I)     moː
+\ge night       -acc through   neg -nonfut -1sg sleep -lim   -neg.cvb all    -dim.int -poss.3sg water
+\ft I didn't sleep all night, everything wet! (i.e. she sweated so much)
+\ru Всю ночь не заснула, все вода!
+\ELANBegin 00:08:43.830
+\ELANEnd 00:08:48.400
+\ELANParticipant
+
+\id Stepanova_ZA_naled_085
+\tx Majkaw              bekečen            moː, nụkrụkụ                ečin      hịrbaptị,              moː.
+\mb majka     -W        bekeč -E-n(I)      moː  nụk    -REk      -W        erroːčin hịrba     -B   -RI       moː
+\ge T.shirt.R -poss.1sg all    -ep-poss.3sg water take.off -cond.cvb -poss.1sg prox.qual  squeeze.out -med -impf.ptc water
+
+\ft My T-shirt is completely wet, when I take it off the water can be squeezed out like this.
+\ph
+\gr (10_quest_2010, 36:20) vyžimaetsja = hịrbaptan, hịrbaptị = vyžimajušajasja, the participle possibly has a more general meaning, bolee
+obobshennoe
+\ru Вся майка мокрая, когда снимаю вот так выжимается, вода.
+\ELANBegin 00:08:48.400
+\ELANEnd 00:08:53.440
+\ELANParticipant
+
+\id Stepanova_ZA_naled_086
+\tx Uru               enellen,                   beketčenni,           ammụ           mergetmi           ńan
+\mb ur      -W        en   -E-L     -R(E) -n(I)  bekeč -čEn -n(I)     aman   -W        mergeːt -mI       ńaːn
+\ge stomach -poss.1sg hurt -ep-inch -nonfut -3sg all    -dim  -poss.3sg father -poss.1sg think    -cond.cvb and
+
+\tx ehni           huklehne.
+\mb e -R(E) -n(I)  hukle -s(E)n -R
+\ge neg -nfut -3sg sleep -lim   -neg.cvb
+
+\ft My stomach started to hurt, completely, my father also didn't sleep, worrying.
+\ru Живот заболел, все, мой отец переживая тоже не заснул.
+\ELANBegin 00:08:53.440
+\ELANEnd 00:08:59.300
+\ELANParticipant
+
+\id Stepanova_ZA_naled_087
+\tx Bi   dʒọmkattam:          "Ọːn wertaljọtu      ŋaːtčịp,        edu       ịat      eːridʒip?"        goːniken.
+\mb biː dʒọmkat -R(E) -m     ọːn  vertolet     -W   ŋaːt -DʒI -p      erek -DU  ịak -Č  eːri -DʒI -p      goːn -nIkEn
+\ge 1sg  think      -nonfut -1sg how     helicopter.R -acc call   -fut  -1pl.in prox -dat what  -ins call  -fut  -1pl.in say   -sim.cvb
+\ft I thought "How will we call a helicopter, with what will we call?".
+\ru Я подумала "Как позовем вертолет, чем позовем?"
+\ELANBegin 00:08:59.300
+\ELANEnd 00:09:03.110
+\ELANParticipant transl 43:35
+
+\id Stepanova_ZA_naled_088
+\tx Araj       eːrireketde                          stadala        horridʒur       eːrireketde
+\mb araj       eːri -REk      -E  -t(I)        =DE  stado  -(dU)LE hor -RIdʒI -L   eːri -REk      -E-t(I)         =DE
+\ge suddenly.Y call  -cond.cvb -ep -poss.1pl.in =ptl herd.R -loc    go  -ant.cvb -pl call  -cond.cvb -ep-poss.1pl.in =ptl
+
+\tx ile           dọːdʒịn      goːniken.
+\mb irek  -(dU)LE dọː -DʒI -n(I) goːn -nIkEn
+\ge which -loc    land   -fut -3sg   say   -sim.cvb
+\ft And even if we call, if we go to the herd and call, where will it land. 
+\ph
+\nt Their tent was in a ravine, so a helicopter couldn't have landed anywhere near there.
+\ru Даже если позовем, если поедем в стадо и позовем, где сядет.
+\ELANBegin 00:09:03.110
+\ELANEnd 00:09:08.170
+\ELANParticipant
+
+\id Stepanova_ZA_naled_089
+\tx Apkịt.
+\mb apkịt
+\ge ravine
+
+\ru
+\ELANBegin 00:09:08.170
+\ELANEnd 00:09:09.090
+\ELANParticipant
+
+\id Stepanova_ZA_naled_090
+\tx Ertiki       ečijeː         kadaːr, ertiki       kadaːr, ečikenńun                ere  bihni
+\mb erek -t(E)kI erroːčin -jEː kadaːr  erek -t(E)kI kadaːr  erroːčin -KEn     =ńUn  erek bi -R(E) -n(I)
+\ge prox -all    prox.qual  -aug  rock     prox -all    rock     prox.qual  -dim.int =restr prox be -nonfut -3sg
+\ft Here a big rock, there a rock, only here like this it is.
+\ph it sounds as if she says ịarụn bihni rather than ere bihni
+\ru Здесь скала, здесь скала, только здесь вот есть.
+\ELANBegin 00:09:09.090
+\ELANEnd 00:09:15.370
+\ELANParticipant
+
+\id Stepanova_ZA_naled_091
+\tx Tarịːt        ammụ,          tačịn       desčirem,          amandụla     "Ftolazol" gerbekeken   bow
+\mb tarak =Iː  -Č  aman   -W        tarọːčịn desči -R(E) -m     aman   -(dU)LE Ftolazol   gerbe -kEkEn beg
+\ge dist  =emph -ins father -poss.1sg dist.qual      lie    -nonfut -1sg father -loc    Ftolazol   name  -dim   medicine
+
+\tx biče.
+\mb bi -čE
+\ge be -pf.ptc
+\ft Then my father, I lay like that, my father had medicine called Ftolazol.
+\ru Потом отец, так я лежала, у отца было лекарство Фтолазол.
+\ELANBegin 00:09:15.370
+\ELANEnd 00:09:21.820
+\ELANParticipant
+
+\id Stepanova_ZA_naled_092
+\tx Tarčačam             kọllịdʒị ajọːram.
+\mb tarak -čEn -čEn -W   kọl -RIdʒI   aj   ọː  -R(E) -m
+\ge dist  -dim  -dim  -acc drink -ant.cvb  good become -nonfut -1sg
+
+\ft Having drunk that I got better.
+\ph
+\ru Вот это выпив поправилась.
+\ELANBegin 00:09:21.820
+\ELANEnd 00:09:24.400
+\ELANParticipant
+
+\id Stepanova_ZA_naled_093
+\tx Tarịt dʒe   tadụ     deremkečeddidʒi,             deremkečeddit.
+\mb tarịt dʒe   tarak -DU  deremke -Č  -E-D     -RIdʒI  deremke -Č  -E-D     -RI -t(I)
+\ge then    well.Y dist  -dat rest    -res -ep-prog -ant.cvb rest    -res -ep-prog -pst -poss.1pl.in
+\ft Well then we rested there.
+\ru Потом там отдыхая, мы отдыхали.
+\ELANBegin 00:09:24.400
+\ELANEnd 00:09:28.920
+\ELANParticipant
+
+\id Stepanova_ZA_naled_094
+\tx Tarịt dʒe   mịan omeni      stada  dʒụːn          ačča, vasmọj, dʒapkịńụn       stada  dʒụːlkan.
+\mb tarịt dʒe   mịan omen -(G)I stado  dʒụː -n(I)     ačča  vos'moj   dʒapkan -(G)I =ńUn  stado  dʒụː -lkEn
+\ge then    well.Y ten    one  -ord  herd.R house    -poss.3sg neg     eighth.R  eight    -ord  =restr herd.R house    -prop
+\ft Well then in the eleventh brigade there was no house, only the eighth brigade had a house.
+\ru В 11м стаде дома нету, только в 8м стаде есть дом.
+\ELANBegin 00:09:28.920
+\ELANEnd 00:09:36.020
+\ELANParticipant
+
+\id Stepanova_ZA_naled_095a
+\tx Tarịt, eh, ọralbụ                tala          emeːnidʒur,       mut    ertiki       ńulgerep.
+\mb tarịt  eh  ọrọn          -L-W    tarak -(dU)LE emeːn -RIdʒI -L   mut    erek -t(E)kI nulge   -R(E) -p
+\ge then     eh  domestic.reindeer -pl-acc dist  -loc    leave  -ant.cvb -pl 1pl.in prox -all    migrate -nonfut -1pl.in
+\ft We left the reindeer there and migrated here.
+\ph
+\gr
+\nt The reindeer of the two brigades grazed separately, on the respective brigade territories; but because the eleventh brigade didn't have
+a house, they slept in the house of the eighth brigade together with the eighth brigade and went to herd their reindeer from there.
+\ru Там оленей оставив мы сюда перекочевалию
+\ELANBegin 00:09:36.020
+\ELANEnd 00:09:41:660
+\ELANParticipant
+
+\id Stepanova_ZA_naled_095b
+\tx Dʒapkịs      stada  dʒụːlan             omettu   tegetniken.
+\mb dʒapkan -Is    stado  dʒụː -(dU)LE -n(I)  omettu   teg      -E-Č   -nIkEn
+\ge eight    -ord.Y herd.R house    -loc -poss.3sg together sit.down -ep-res -sim.cvb
+\ft We lived in the house of the eighth brigade (together with them).
+\ph
+\ru В доме 8го стада вместе живем.
+\ELANBegin 00:09:41:660
+\ELANEnd 00:09:45.200
+\ELANParticipant
+
+\id Stepanova_ZA_naled_096
+\tx Dʒapkịs      stadal     ọrantan                   tartịkị,  taraw      nọŋartan tartịkị
+\mb dʒapkan -Is    stado  -L  ọrọn          -tEn      tarak -t(E)kI tarak -W   nọŋartan tarak -t(E)kI
+\ge eight    -ord.Y herd.R -pl domestic.reindeer -poss.3pl dist  -all    dist  -acc 3pl         dist  -all
+
+\tx itnewrer,               er,  er   uteːnduk      bi   aknịlbụ                  ọrmụr
+\mb it  -nE     -Gr(E) -r   erek erek uteːn -DUk(U) biː akan          -SEl -W        ọrọn          -WUr
+\ge see -intent -hab   -3pl prox prox hut    -abl    1sg  older.brother -pl  -poss.1sg domestic.reindeer -prfl.pl
+
+\tx tala          itniken,     erek ịala.
+\mb tarak -(dU)LE it  -nIkEn   erek ịak -(dU)LE
+\ge dist  -loc    see -sim.cvb prox what  -loc
+\ft The reindeer of the eighth herd went there, and they went there to watch them, my older brothers watched their reindeer there from
+that hut.
+\ph
+\gr 260312: here the plural marking on "stada" means that it is the people from the 8th herd, dʒapkịs stadal = ljudi s 8go stada, ix oleni
+\ru Олени 8го стада там, они вот это туда едут смотреть, вот из избушки мои старшие братья своих оленей там смотря.
+\ELANBegin 00:09:45.200
+\ELANEnd 00:09:58.370
+\ELANParticipant
+
+\id Stepanova_ZA_naled_097
+\tx Tar   bi   tarakam       ọtpụskalaj                iduk          emeddiw                      goːli,        bi
+\mb tarak biː tarakam       otpusk     -E-(dU)LE -J       irek  -DUk(U) em   -E-D     -RI -W         goːn -LI      biː
+\ge dist  1sg  in.those.days holidays.R -ep-loc   -prfl.sg which -abl    come -ep-prog -pst -poss.1sg say   -imp.2sg 1sg
+
+\tx Taškent gọrọdla    gurgewčiddiw,                   tarakam.
+\mb Taškent gorod  -(dU)LE gurgeːwči -D    -RI -W         tarakam
+\ge Tashkent town.R -loc    work        -prog -pst -poss.1sg in.those.days
+\ft At that time I had come on holiday from where, I was working in the town of Tashkent in those days.
+\ru Я тогда на отпуск откуда приезжала, скажи, я тогда работала в городе Ташкент.
+\ELANBegin 00:09:58.370
+\ELANEnd 00:10:06.870
+\ELANParticipant
+
+\id Stepanova_ZA_naled_098
+\tx Bi   nosegčen bihŋiw,               họː tar   Srednij_Azija   gerbew     ịamịgul     ajaːwrị
+\mb biː nosegčen bi -ŋsI     -W        họː tarak Srednjaja_Azija gerbe -W   ịamị =(W)Ul ajaːw -RI
+\ge 1sg  young     be -impf.cvb -poss.1sg very   dist  Central.Asia    name  -acc why      =indef love   -impf.ptc
+
+\tx bihit                mut,   dʒiː.
+\mb bi -RI -t(I)         mut    dʒIː
+\ge be -pst -poss.1pl.in 1pl.in aff
+
+\ft When I was young, we really loved Central Asia for some reason, right.
+\ru Когда были молодыми, очень любили почему-то Среднюю Азию.
+\ELANBegin 00:10:06.870
+\ELANEnd 00:10:16.250
+\ELANParticipant
+
+\id Stepanova_ZA_naled_099
+\tx Tala          kiːnew       kojeːtniken,    irew       taraw      kojeːtniken,    ajịkịːmdas  ịakgụl
+\mb tarak -(dU)LE kino     -W   kojeːt -nIkEn   irek  -W   tarak -W   kojeːt -nIkEn   aj   =kE   -mdEs ịak =(W)Ul
+\ge dist  -loc    movies.R -acc look.at -sim.cvb which -acc dist  -acc look.at -sim.cvb good =emph -sml  what  =indef
+
+\tx ramantịka goːniken,     dʒiː.
+\mb romantika   goːn -nIkEn   dʒIː
+\ge romance.R   say   -sim.cvb aff
+
+\ft We watched movies, watched this and that, and it seemed so very good, so romantic, right.
+\ru Там смотря кино всякое разное смотря очень казалось хорошим, романтичным.
+\ELANBegin 00:10:16.250
+\ELANEnd 00:10:22.310
+\ELANParticipant
+
+\id Stepanova_ZA_naled_100
+\tx Tala          heremekieː             biwrerin,                teːmi    bi   tala          horriw,           "klub
+\mb tarak -(dU)LE hor -E-m    -(h)E =kE   bi -Gr(E) -RI -n(I)      teːmi    biː tarak -(dU)LE hor -RI -W        klub
+\ge dist  -loc    go  -ep-des -excl =emph be -hab   -pst -poss.3sg therefore 1sg  dist  -loc    go -pst -poss.1sg club.R
+
+\tx internacionalnaj družby"         gerbe biwrerin.
+\mb internacionalnaj družby          gerbe bi -Gr(E) -RI -n(I)
+\ge international.R  friendship.gen.R name  be -hab   -pst -poss.3sg
+\ft I really wanted to go there, that is why I went, there was a so-called "Club of international friendship".
+\ph
+\gr (10_quest_2010, 37:30) horemekieː biwrerin = postojanno ochen' xotelos' (the =keː gives the meaning of ochen'); tala horemniw = ja
+xotela exat'; horemgereriw = postojanno xotela exat'; (11_quest_2010, 5:30) horemekieː biwreris = tebe očen' xotelos' exat', ja očen'
+xotela exat' = horemekieː biwreriw, on očen' xotel exat' = horemekieː biwrerin; the form ZAS used here is a generalized desire, as in
+the Russian translation,
+\ru Туда очень хотелось поехать, поэтому я туда поехала, был такой клуб интернациональной дружбы.
+\ELANBegin 00:10:22.310
+\ELANEnd 00:10:28.860
+\ELANParticipant
+
+\id Stepanova_ZA_naled_101
+\tx Tarakam       mut    iduk          tadụk       kụŋalńụn    dụkmatnịkan.
+\mb tarakam       mut    irek  -DUk(U) tarak -DUk(U) kụŋa -L  -ńUn dụk -mEČ -nIkEn
+\ge in.those.days 1pl.in which -abl    dist  -abl    child   -pl -com  write -rec  -sim.cvb
+\ft In those days we exchanged letters with children from here and there.
+\ru Тогда мы переписывались с разными детьми отовсюду.
+\ELANBegin 00:10:28.860
+\ELANEnd 00:10:31.960
+\ELANParticipant
+
+\id Stepanova_ZA_naled_102
+\tx Bi   Taškent kụŋalńụnnị          dụkmattịw,             tala          uzbekalda          bihitnen,
+\mb biː Taškent kụŋa -L  -ńUn -n(I)     dụk -mEČ -RI -W         tarak -(dU)LE uzbek -E-L =DE     bi -RI -tEn
+\ge 1sg  Tashkent child   -pl -com  -poss.3sg write -rec  -pst -poss.1sg dist  -loc    Uzbek -ep -pl =ptl be -pst -poss.3pl
+
+\tx tataralda          bihitnen,         bi   padrụgaw             tatarka bihin.
+\mb tatar -E-L =DE     bi -RI -tEn       biː podruga      -W        tatarka bi -RI -n(I)
+\ge Tatar -ep -pl =ptl be -pst -poss.3pl 1sg  girlfriend.R -poss.1sg Tatar.f be -pst -poss.3sg
+\ft I exchanged letters with children in Tashkent, there were Uzbeks and Tatars, my friend was a Tatar.
+\ru Я переписывалась с детьми из Ташкента, там были узбеки, татары, моя подруга была татаркой.
+\ELANBegin 00:10:31.960
+\ELANEnd 00:10:38.500
+\ELANParticipant
+
+\id Stepanova_ZA_naled_103
+\tx Vengrijaduk      dụkmattị          bihit,               Polšadụk    dụkmattị          bihit,
+\mb Vengrija -DUk(U) dụk -mEČ -RI       bi -RI -t(I)         Polša -DUk(U) dụk -mEČ -RI       bi -RI -t(I)
+\ge Hungary  -abl    write -rec  -impf.ptc be -pst -poss.1pl.in Poland -abl    write -rec  -impf.ptc be -pst -poss.1pl.in
+
+\tx iduk          tadụk       bekeččendukun.
+\mb irek  -DUk(U) tarak -DUk(U) bekeč -čEn -DUk(U) -n(I)
+\ge which -abl    dist  -abl    all    -dim  -abl    -poss.3sg
+
+\ft We exchanged letters (with children) from Hungary, we exchanged letters (with children) from Poland, from everywhere.
+\ru Переписывались с Венгрией, с Польшей, отовсюду.
+\ELANBegin 00:10:38.500
+\ELANEnd 00:10:44.970
+\ELANParticipant
+
+\id Stepanova_ZA_naled_104
+\tx Er   Sawetskaj_Sajuz respublikalni            bekettukun,              tar   zarubežnajduk      Vengrija, Polša
+\mb erek Sovetskij_Sojuz respublika -L  -n(I)     bekeč -DUk(U) -n(I)     tarak zarubežnyj -DUk(U) Vengrija  Polša
+\ge prox Soviet.Union    republic.R -pl -poss.3sg all    -abl    -poss.3sg dist  foreign.R   -abl    Hungary   Poland
+
+\tx gerbelńun      dụkmatnịkahal.
+\mb gerbe -L  -ńUn dụk -mEČ -nIkEn   -SEl
+\ge name  -pl -com  write -rec  -sim.cvb -pl
+
+\ft We exchanged letters (with children) from all the Soviet republics, and amongst foreign countries with Hungary and Poland.
+\ru Из всех республик Советского Союза, из зарубежа с Венгрией, Польшей переписывались.
+\ELANBegin 00:10:44.970
+\ELANEnd 00:10:52.410
+\ELANParticipant
+
+\id Stepanova_ZA_naled_105
+\tx Tarịt meːnteki     eːrimetniken,       minu         eːriritnen          tarak, podrugaw,              podrugaw
+\mb tarịt meːn -t(E)kI eːri -mEČ -nIkEn   min     -W   eːri -RI -tEn       tarak  podruga      -W        podruga      -W
+\ge then    refl  -all    call  -rec  -sim.cvb 1sg.obl -acc call  -pst -poss.3pl dist   girlfriend.R -poss.1sg girlfriend.R -poss.1sg
+
+\tx eːričelen,                 horriw            bi.
+\mb eːri -čE    -(dU)LE -n(I)  hor -RI -W        biː
+\ge call  -pf.ptc -loc -poss.3sg go -pst -poss.1sg 1sg
+\ft Then we invited each other to our homes, they invited me, when my friend invited (me), I went.
+\ru Потом друг друга к себе зовя (приглашая) меня позвали, когда моя подруга меня позвала я поехала.
+\ELANBegin 00:10:52.410
+\ELANEnd 00:10:59.530
+\ELANParticipant
+
+\id Stepanova_ZA_naled_106
+\tx Tadụk       dʒe   ọtpụskalaj              emče        bisiw,            tara.
+\mb tarak -DUk(U) dʒe   otpusk     -(dU)LE -J       em   -čE    bi -RI -W         tarak
+\ge dist  -abl    well.Y holidays.R -loc    -prfl.sg come -pf.ptc be -pst -poss.1sg dist
+\ft From there I had come on my holiday.
+\ru Оттуда я приехала в отпуск.
+\ELANBegin 00:10:59.530
+\ELANEnd 00:11:03.580
+\ELANParticipant
+
+\id Stepanova_ZA_naled_107
+\tx Tarịt dʒe   ajịkieː tačịn       biddidʒi,        dʒe   emnem,            poselokla         emnem,
+\mb tarịt dʒe   aj   =kE   tarọːčịn bi -D    -RIdʒI  dʒe   em   -R(E) -m     poselok   -(dU)LE em   -R(E) -m
+\ge then    well.Y good =emph dist.qual      be -prog -ant.cvb well.Y come -nonfut -1sg village.R -loc    come -nonfut -1sg
+
+\tx ammụ           tala          eme    uteːčendule        emeːpte,           ńan   minu,        bi
+\mb aman   -W        tarak -(dU)LE emeːn uteːn -čEn -(dU)LE emeːn -B   -R(E)   ńaːn min     -W   biː
+\ge father -poss.1sg dist  -loc    leave  hut    -dim  -loc    leave  -med -nonfut and    1sg.obl -acc 1sg
+
+\tx emehendʒiddeku,                        ńaːn uteːn urkedun             dʒoːkerken tarịt ọmọlgọčan ńan   ammụ
+\mb em   -E-s(E)n -D    -REk      -W        ńaːn uteːn urke -DU  -n(I)     dʒoːkerken tarịt ọmọlga -čEn ńaːn aman   -W
+\ge come -ep-lim  -prog -cond.cvb -poss.1sg and    hut    door -dat -poss.3sg only.two     then    boy        -dim  and    father -poss.1sg
+
+\tx ịlačaddịn,                          tiːkde.
+\mb ịl     -E-Č   -E-D     -RI -n(I)      tiek =DE
+\ge stand.up -ep-res -ep-prog -pst -poss.3sg now  =ptl
+\ft Well, after I had spent a very good time there I came to the village, my father stayed there in the little hut, when I was coming from
+there they were standing in the door of the hut, just the two of them, the little boy and my father, even now.
+\ph
+\gr (10_quest_2010, 40:00), emehendʒiddeku = kogda ja v tot moment vyexala sjuda; emehendej = vyexat' sjuda
+\ru Потом я так хорошо там находясь, я приехала в поселок, мой отец там остались в избушке, потом меня, когда я уезжала оттуда,
+опять только вдвоем в дверях этой избушке потом с этим мальчиком мой отец стоял, до сих пор.
+\ELANBegin 00:11:03.580
+\ELANEnd 00:11:23.360
+\ELANParticipant
+
+\id Stepanova_ZA_naled_108
+\tx Tarịt balatkadụk    ečiken             bakaldaddịtnan                  ńan   ere  minu,        er
+\mb tarịt palatka -DUk(U) erroːčin -KEn     bak  -(E)ldE -D    -RI -tEn       ńaːn erek min     -W   erek
+\ge then    tent.R  -abl    prox.qual  -dim.int find -soc    -prog -pst -poss.3pl and    prox 1sg.obl -acc prox
+
+\tx poseloktuk        emeddeku,                         ńan   tačịkan ịlačaddịtnan,                       tiːkde
+\mb poselok   -DUk(U) em   -E-D     -REk      -W        ńaːn tačịkan ịl     -E-Č   -E-D     -RI -tEn       tiek =DE
+\ge village.R -abl    come -ep-prog -cond.cvb -poss.1sg and    like.that  stand.up -ep-res -ep-prog -pst -poss.3pl now  =ptl
+
+\tx ịahallaw                 ičudni.
+\mb ịašal -(dU)LE -W        it  -W     -n(I)
+\ge eyes     -loc    -poss.1sg see -advrs -3sg
+\ft That is how they had met me from the tent when I arrived from the village, and they were standing like that (when I left), even now I
+can see it (lit. even now it is visible in my eyes).
+\ru Потом из палатки так они встречали тоже меня, когда я из поселка приехала, и так оин стояли, до сих пор в глазах видно.
+\ELANBegin 00:11:23.360
+\ELANEnd 00:11:36.040
+\ELANParticipant
+
+\id Stepanova_ZA_naled_109
+\tx Tarịt    ajịkeː  dʒe   biwečeddidʒi               emnem,            emnidʒi      dʒe   gọrọdla
+\mb tarak -Č  aj   =kE   dʒe   bi -WEːČ -E-D     -RIdʒI  em   -R(E) -m     em   -RIdʒI  dʒe   gorod  -(dU)LE
+\ge dist  -ins good =emph well.Y be -gnr    -ep-prog -ant.cvb come -nonfut -1sg come -ant.cvb well.Y town.R -loc
+
+\tx horrem.
+\mb hor -R(E) -m
+\ge go  -nonfut -1sg
+\ft After having been there so well I came (to the village), and then I went to town (i.e. Yakutsk).
+\ru Так хорошо находясь приехала, приехав поехала в город.
+\ELANBegin 00:11:36.040
+\ELANEnd 00:11:40.730
+\ELANParticipant
+
+\id Stepanova_ZA_naled_110
+\tx Gọrọdla    bileteŋgewu                      gačal,          tala          bi   haːrakalbụ
+\mb gorod  -(dU)LE bilet    -E-ŋ   -GE    -W        ga   -čE -L     tarak -(dU)LE biː haːrak      -E-L   -W
+\ge town.R -loc    ticket.R -ep-aln -desig -poss.1sg take -pf.ptc -pl dist  -loc    1sg  acquaintance -ep-pl -poss.1sg
+
+\tx bihitnen.
+\mb bi -RI -tEn
+\ge be -pst -poss.3pl
+\ft In town they had bought a (plane) ticket for me, I had acquaintances there.
+\ru В городе мне купили билет, там у меня были знакомые.
+\ELANBegin 00:11:40.730
+\ELANEnd 00:11:46.270
+\ELANParticipant
+
+\id Stepanova_ZA_naled_111
+\tx Họː ajịč      bakaldarịdʒụr,       ịarịdʒụr,     dʒe   bi
+\mb họː aj   -E-Č   bak  -(E)ldE -RIdʒI -L   ịa    -RIdʒI -L   dʒe   biː
+\ge very   good -ep-ins find -soc    -ant.cvb -pl do.what -ant.cvb -pl well.Y 1sg
+
+\tx bileteŋgej                      tịmịna herennew                  bihin.
+\mb bilet    -E-ŋ   -GE    -J       tịmịna hor -E-nnE      -W        bi -RI -n(I)
+\ge ticket.R -ep-aln -desig -prfl.sg tomorrow   go  -ep-nec.ptc -poss.1sg be -pst -poss.3sg
+
+\ft We met very well, did what, well, I (took) my ticket, I was supposed to leave the next day.
+\ph
+\gr herennew bihin - here is used, but only with auxiliary; the literary necessitative here occurs only with the auxiliary, only herennew
+one doesn't say here, but one would say hiː herennes bihin (you were supposed to leave), hiː herennes bidʒin (you will be supposed to
+leave); hiː herennes bihni (with the auxiliary in the nonfuture the meaning is slightly different), but Ija couldn't quite explain
+\ru Очень хорошо встретившись, я свой билет, и я назаврта должна была уехать.
+\ELANBegin 00:11:46.270
+\ELANEnd 00:11:52.690
+\ELANParticipant
+
+\id Stepanova_ZA_naled_112
+\tx Ajụka,   ajụkajat      telegramma emnen.
+\mb ajụka    ajụkaja  -Č  telegramma em   -R(E) -n(I)
+\ge suddenly.Y suddenly.Y -ins telegram.R come -nonfut -3sg
+\ft Suddenly a telegram arrived.
+\ru Вдруг пришла телеграмма.
+\ELANBegin 00:11:52.690
+\ELANEnd 00:11:56.330
+\ELANParticipant
+
+\id Stepanova_ZA_naled_113
+\tx Amahnị         butenellen                    goːniken.
+\mb aman   -s(I)     buteːn -E-L     -R(E) -n(I)  goːn -nIkEn
+\ge father -poss.2sg be.ill  -ep-inch -nonfut -3sg say   -sim.cvb
+
+\ft Your father has fallen ill.
+\ph
+\gr This is borderline between direct speech and a complement of telegramm
+\ph
+\gr amahnị = lit. amansị, vash otec = amahnan, ee otec = amannị
+\ru О том что твой отец заболел.
+\ELANBegin 00:11:56.330
+\ELANEnd 00:11:59.630
+\ELANParticipant
+
+\id Stepanova_ZA_naled_114
+\tx Deː   oo, bi   ọːn nekčiŋej             ehem             haːra,       tarịt dʒe   tara
+\mb dʒe   oo  biː ọːn nek -D(I)ŋE  -J       e   -R(E) -m     haː -R       tarịt dʒe   tarak
+\ge well.Y oh  1sg  how    do  -fut.ptcp -prfl.sg neg -nonfut -1sg know -neg.cvb then    well.Y dist
+
+\tx aːwahńụmị                       bileteŋur                ịanamị                herrep
+\mb aːwas                 -ńUn -J       bilet    -E-ŋ   -WUr     ịa    -nE     -mI       hor -R(E) -p
+\ge older.sister's.husband -com  -prfl.sg ticket.R -ep-aln -prfl.pl do.what -intent -cond.cvb go  -nonfut -1pl.in
+
+\tx mụčụwkanamị.
+\mb mụčụ -WkEn -nE     -mI
+\ge return    -caus -intent -cond.cvb
+\ft Oh dear, I don't know what to do, then I went with the husband of my older sister to return the ticket.
+\ru Я не знаю что мне делать, потом вот вместе с мужем старшей сестры пошли возвращать билеты свои.
+\ELANBegin 00:11:59.630
+\ELANEnd 00:12:09.990
+\ELANParticipant
+
+\id Stepanova_ZA_naled_115
+\tx Tarakam       bilet    adịː  bihin?
+\mb tarakam       bilet    adịː  bi -RI -n(I)
+\ge in.those.days ticket.R how.much be -pst -poss.3sg
+\ft How much was a ticket then?
+\ru Тогда билеты сколько стоили.
+\ELANBegin 00:12:09.990
+\ELANEnd 00:12:12.370
+\ELANParticipant
+
+\id Stepanova_ZA_naled_116
+\tx Ńama   digen rubl     bihin,            eh, ńama   ńuŋen rubl,    Taškendụla    ịstala.
+\mb ńama   digen rubl     bi -RI -n(I)      eh  ńama   ńuŋen rubl     Taškent -(dU)LE ịstala
+\ge hundred four  rouble.R be -pst -poss.3sg eh  hundred six     rouble.R Tashkent -loc    until
+\ft It was one hundred and four rubles, eh, one hundred and six rubles, to Tashkent.
+\ru 104, 106 рублей до Ташкента
+\ELANBegin 00:12:12.370
+\ELANEnd 00:12:17.410
+\ELANParticipant
+
+\id Stepanova_ZA_naled_117
+\tx Taraŋị,          taraŋịda              biden,                 tarak emebden                         goːnem
+\mb tarak -ŋ  -J       tarak -ŋ  -J       =DE  bi -DE       -n(I)     tarak emeːn -B   -DE       -n(I)     goːn -R(E) -m
+\ge dist  -aln -prfl.sg dist  -aln -prfl.sg =ptl be -purp.cvb -poss.3sg dist  leave  -med -purp.cvb -poss.3sg say   -nonfut -1sg
+
+\tx bi,  edekunde                     boːre,       emiske     mụčụdʒịm.
+\mb biː e   -DE       -W        =DE  boː -R       emiske     mụčụ -DʒI -m
+\ge 1sg  neg -purp.cvb -poss.1sg =ptl give -neg.cvb suddenly.Y return    -fut  -1sg
+\ft Oh, let that of mine be, let it remain, I said, I won't give it back, what if I suddenly return.
+\ru Пусть ето мое будет, пусть останется, и не буду возвращать, вдруг вернусь.
+\ELANBegin 00:12:17.410
+\ELANEnd 00:12:24.290
+\ELANParticipant
+
+\id Stepanova_ZA_naled_118
+\tx Tarak "ịadajị!               Ńama   ńuŋemeskem           nọːdadaj                 meːne   nekenni,         uleːdej
+\mb tarak ịa    -DE       -J       ńama   ńuŋen -mEskEn   -W   nọːda -DE       -J       meːne   nek -R(E)   -nrI uleː -DE       -J
+\ge dist  do.what -purp.cvb -prfl.sg hundred six     -emph.num -acc throw    -purp.cvb -prfl.sg simply.Y do  -nonfut -2sg throw -purp.cvb -prfl.sg
+
+\tx nekenni"         goːniken,     "hergel         mụčụwkaŋal".
+\mb nek -R(E)   -nrI goːn -nIkEn   hor -GEr        mụčụ -WkEn -GEr
+\ge do  -nonfut -2sg say   -sim.cvb go  -imp.1pl.in return    -caus -imp.1pl.in
+\ft To that he said "Why? You want to just throw away a whole 106 (rubles)?? Let's go, let's return (the ticket)".
+\ph
+\ru На это "зачем? целых 106 хочешь бросить, собралась бросить, пошли возвращать.
+\ELANBegin 00:12:24.290
+\ELANEnd 00:12:33.230
+\ELANParticipant
+
+\id Stepanova_ZA_naled_119
+\tx Haːwan                 gadʒịnnị,  haːwan                 štraf bidʒin.
+\mb haːn -W   -E-n(I)      ga   -DʒI -nrI haːn -W   -E-n(I)      štraf bi -DʒI -n(I)
+\ge some  -acc -ep-poss.3sg take -fut  -2sg some  -acc -ep-poss.3sg fine.R be -fut -3sg
+\ft Part of it you will take, part will be a fine.
+\ru Остальное возьмешь, остальное будет штраф.
+\ELANBegin 00:12:33.230
+\ELANEnd 00:12:36.630
+\ELANParticipant
+
+\id Stepanova_ZA_naled_120
+\tx Ta,   tara  herrep              tar,  herridʒur       garap.
+\mb tarak tarak hor -R(E) -p        tarak hor -RIdʒI -L   ga   -R(E) -p
+\ge dist  dist  go  -nonfut -1pl.in dist  go  -ant.cvb -pl take -nonfut -1pl.in
+\ft Well, we went and took (the money back).
+\ru Пошли вот, и взяли.
+\ELANBegin 00:12:36.630
+\ELANEnd 00:12:39.100
+\ELANParticipant
+
+\id Stepanova_ZA_naled_121
+\tx Garịdʒị  ńanda      ele,         amaskị         mụčụram           bi.
+\mb ga   -RIdʒI  ńaːn =DE  erek -(dU)LE amar   -skI      mụčụ -R(E) -m     biː
+\ge take -ant.cvb and    =ptl prox -loc    behind -advb.all return    -nonfut -1sg 1sg
+\ft I took it and again returned here.
+\ru Взяв, опять я сюда обратно вернулась.
+\ELANBegin 00:12:39.100
+\ELANEnd 00:12:43.370
+\ELANParticipant
+
+\id Stepanova_ZA_naled_122
+\tx Tara.
+\mb tarak
+\ge dist
+
+\ru
+\ELANBegin 00:12:43.370
+\ELANEnd 00:12:46.070
+\ELANParticipant 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Sebjan2010/sound_files/spontaneous_Marantz/Stepanova_ZA_naled.wav
+\ELANMediaMIME audio/x-wav

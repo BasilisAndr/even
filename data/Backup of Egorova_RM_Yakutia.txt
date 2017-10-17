@@ -1,0 +1,1256 @@
+\_sh v3.0  1082 Text
+
+\id Egorova_RM_Yakutia001
+\ref 6:32
+\tx Tiːnep anŋanụ   bu     olloːttiwun             Jakutijatki,     Sveta, Svetlana Vladimirovna
+\mb tiːnep anŋan -W   buː   hollot -RI  -WUn         Jakutija -t(E)kI Sveta  Svetlana Vladimirovna
+\ge past    year   -acc 1pl.ex go     -pst -poss.1pl.ex Yakutia  -all    Sveta  Svetlana Vladimirovna
+
+\tx Komarova, tarakasị,    specialist   po   mežnacionalnym otnošenijam,   tačịn
+\mb Komarova  tarak -E=sI    specialist   po   mežnacionalnym otnošenijam    tarọːčịn
+\ge Komarova  dist  -ep=emph specialist.R on.R interethnic.R   relationships.R dist.qual
+
+\tx ńụčịdịt     goːweːtte.
+\mb ńụča -DI   -Č  goːn -WEːČ -R(E)
+\ge Russian  -adjr -ins say   -gnr    -nonfut.3pl
+
+\ft Last year we went to Jakutia, Sveta, Svetlana Vladimirovna Komarova, that one, the specialist on interethnic
+relationships, that's how they say in Russian.
+\ru В прошлом году мы съездили в Якутию, Света, Светлана Владимировна Комарова, она является специалистом по
+межнациональным отношениям, по-русски так говорят.
+\ph goːwɐːttɐ
+
+\id Egorova_RM_Yakutia002
+\ref 06:44
+\tx Olloːttiwun             Jakutijatki      sjezdetki.
+\mb hollot -RI  -WUn         Jakutija -t(E)kI sjezd      -E-t(E)kI
+\ge go     -pst -poss.1pl.ex Yakutia  -all    congress.R -ep-all
+
+\ft We went to the congress (of Evens) in Yakutia.
+\ru Мы съездили в Якутию на съезд.
+
+\id Egorova_RM_Yakutia003
+\ref 06:48
+\tx Gọrụ ŋeneddiwun.                    
+\mb gọrụ ŋen -E-D     -RI  -WUn         
+\ge long     go   -ep-prog -pst -poss.1pl.ex 
+
+\ft We journeyed for a long time.
+\ru Долго ехали.
+
+\id Egorova_RM_Yakutia003b
+\ref 06:50
+\tx Xabarovskala         degsiwun              samoletič,        ńan   tadụ
+\mb Xabarovsk  -E-(dU)LE deg -RI  -WUn         samolet    -E-Č   ńaːn tarak -DU
+\ge Khabarovsk -ep-loc   fly -pst -poss.1pl.ex airplane.R -ep-ins again  dist  -dat
+
+\tx aːnŋattịwụn                 gostinicadu.
+\mb aːnŋat        -RI  -WUn         gostinica -DU
+\ge spend.the.night -pst -poss.1pl.ex hotel.R   -dat
+\ft We flew to Khabarovsk by plane, and there we spent the night in a hotel.
+\ru В Хабаровск прилетели на самолетом, и там мы ночевали в гостинице.
+\ph dəγɕiwun
+
+\id Egorova_RM_Yakutia004
+\ref 06.57
+\tx Ńanasị       orriwun               Jakutijatki      kučeːlekeken   samoletič.
+\mb ńaːn -E=sI    hor -RI  -WUn         Jakutija -t(E)kI kučeːle -kEkEn samolet    -E-Č
+\ge again  -ep=emph go  -pst -poss.1pl.ex Yakutia  -all    small     -dim   airplane.R -ep-ins
+
+\ft And then we went to Yakutia in a tiny plane.
+\ru Дальше поехали в Якутию на маленьком самолете.
+\ph urriwun kučeːlekekɐn
+
+\id Egorova_RM_Yakutia004b
+\ref 07:01
+\tx Gọrụ, digem      času     degsiwun.
+\mb gọrụ  digen -W   čas -W   deg -RI  -WUn
+\ge long      four  -acc hour -acc fly -pst -poss.1pl.ex
+\ft We flew for a loooooooong time, four hours
+\ru Долго, 4 часа летели.
+\ph dəγɕiwun
+\nt the gọrụ was stretched out very long
+
+\id Egorova_RM_Yakutia004c
+\ref 07:07
+\tx Gọrụ.
+\mb gọrụ
+\ge long
+\ft A long time.
+\ru Долго.
+
+\id Egorova_RM_Yakutia005
+\ref 7:08
+\tx Kojeːčiddiwu                  čelewen,               tor   erdeli               tar   samolet
+\mb kojeːt -E-D     -RI -W         čele -W   -E-n(I)      tor   her    -gIdE -(dU)LI tarak samolet
+\ge look.at -ep-prog -pst -poss.1sg all   -acc -ep-poss.3sg earth bottom -part -prol   dist  airplane.R
+
+\tx erdelin                        ičun            ejdu ajịč.
+\mb her    -gIdE -(dU)LI -n(I)     it  -W     -n(I) ejdu aj   -E-Č
+\ge bottom -part -prol   -poss.3sg see -advrs -3sg  all  good -ep-ins
+
+\ft I looked at everything, the land below, everything is visible well under the plane.
+\ru Смотрелa всю землю, которая внизу, под самолетом все хорошо видно.
+\ph tur 
+\gr 29.01.13 (questions2, 24:30): tor erdeli = zemlja vnizu; samolet erdelin = pod samoletom; toru čelewen = vsju zemlju;
+čelew ineŋu gurgewčiriwu = ja vesj denj rabotala; 
+\nt
+
+\id Egorova_RM_Yakutia007
+\ref 07:14
+\tx Ureːkčeːn ọːja, ọkaːtaŋịtan             ọːja, ńan   goːniten            tiːk Jakutsk ọːdʒịn.
+\mb ureːkčeːn họːja ọkaːt -E-ŋ   -E-tEn       họːja ńaːn goːn -RI  -tEn      tiek  Jakutsk ọː  -DʒI -n(I)
+\ge hill         many     river    -ep-aln -ep-poss.3pl many     again  say   -pst -poss.3pl now   Yakutsk become -fut  -3sg
+
+\ft A lot of hills, they have many rivers, and then they said "Now Yakutsk will come."
+\ru Гор много, у них речек много, потом сказали, сейчас Якутск будет.
+\ph guniten
+\gr ọkaːtịŋịtan = u nix reki est'
+
+\id Egorova_RM_Yakutia008
+\ref 07:20
+\tx Ńan   kojeːčiddem                 ịamị   ụdʒeː    ọːja.
+\mb ńaːn kojeːt -E-D     -R(E)   -m   ịak -W   ụdʒ =eː  họːja
+\ge again  look.at -ep-prog -nonfut -1sg what  -acc track  =emph many
+
+\ft And I look, why so many tracks.
+\ph ụdʒịịịịịịịịịịịị
+\ru И вот я смотрю, почему следов много.
+
+\id Egorova_RM_Yakutia008b
+\ref 07:23
+\tx Goːnem            ịakawụ   erek gịrkawaːttịn?
+\mb goːn -R(E)   -m   ịak -awụ erek gịrka -WEːČ -RI  -n(I)
+\ge say   -nonfut -1sg what  -emph  prox walk    -gnr    -pst -poss.3sg
+\ft I  say, "What walked here?".
+\ru Я говорю "кто это ходил?".
+
+\id Egorova_RM_Yakutia009
+\ref 07:27
+\tx Aːnda     goːweːtte               "tarak ọrọn".
+\mb haːn =DE  goːn -WEːČ -R(E)       tarak  ọrọn
+\ge some  =ptl say   -gnr    -nonfut.3pl dist   domestic.reindeer
+
+\ft Some said "That's reindeer".
+\ru Одни говорят это олень (ходил).
+\ph goːwɐːttɐ
+
+\id Egorova_RM_Yakutia010
+\ref 07:29
+\tx Goːnem            "esni             ọrọn,         ịak tačịn       gịrkawaːttan
+\mb goːn -R(E)   -m   e   -R(E)   -n(I) ọrọn          ịak tarọːčịn gịrka -WEːČ -R(E)   -n(I)
+\ge say   -nonfut -1sg neg -nonfut -3sg  domestic.reindeer what  dist.qual      walk    -gnr    -nonfut -3sg
+
+\tx ọrọn,         egdʒemker    ụdʒịn."
+\mb ọrọn          egdʒen -mkEr ụdʒ -E-n(I)
+\ge domestic.reindeer big     -aug  track  -ep-poss.3sg
+
+\ft And I said: "That's not reindeer that walked like that, such biiiiiiiig tracks."
+\ru Я говорю, "это не олень, олень так не ходит, большие следы".
+\ph She emphasized the largeness of the tracks by drawing out the second vowel on egdʒemker
+
+\id Egorova_RM_Yakutia011
+\ref 7:34
+\tx Ńan   ajịč      kojeːčidʒilliwu,                      ịamị mụrantan.
+\mb ńaːn aj   -E-Č   kojeːt -E-D     -E-L     -RI  -W        ịamị mụran -tEn
+\ge again  good -ep-ins look.at -ep-prog -ep-inch -pst -poss.1sg why      horse   -poss.3pl
+\ft And I looked properly, why, it's their horses.
+\ru Потом я стала хорошо смотреть, оказывается лошади у них.
+\ph mụrɑntɑn
+\gr ịamị is used as a question word 'why', but also to state a fact, 'okazyvaetsja'; and the possessive marking is because it's the
+horses of the Yakuts
+
+\id Egorova_RM_Yakutia012
+\ref 07:37
+\tx Ọːjawụ   mụram      dʒawatta                      Jakutijala,      Jakutsk prjamo     ereli.
+\mb họːja -W   mụran -W   dʒaw      -E-Č   -R(E)       Jakutija -(dU)LE Jakutsk prjamo     ereli
+\ge many     -acc horse   -acc catch.hold -ep-res -nonfut.3sg Yakutia  -loc    Yakutsk straight.R around
+
+\ft They keep a lot of horses in Yakutia, right around Yakutsk.
+\ru Много лошадей держат в Якутии, прямо вокруг Якутска.
+\ph [ọjawịː mụrɑm dʒawịttə]
+
+\id Egorova_RM_Yakutia013
+\ref 07:43
+\tx Ńanasị       ŋenniwun              tala          sjezdala.
+\mb ńaːn -E=sI    ŋen -RI  -WUn         tarak -(dU)LE sjezd      -E-(dU)LE
+\ge again  -ep=emph go   -pst -poss.1pl.ex dist  -loc    congress.R -ep-loc
+
+\ft And then we went to that congress. 
+\ru Дальше мы поехали на этот съезд.
+\qu
+
+\id Egorova_RM_Yakutia013b
+\ref 07:46
+\tx Gostinicala       ŋenuriten,               kenerekeken   gostinicatan.
+\mb gostinica -(dU)LE ŋen -U    -RI  -tEn      kenere -kEkEn gostinica -tEn
+\ge hotel.R   -loc    go   -caus -pst -poss.3pl bad    -dim   hotel.R   -poss.3pl
+
+\ft They brought us to the hotel, their hotel was bad and small.
+\ph
+\gr 12.02.13 (questions16, 21:45) keńerekeken = malenkaja i ploxenkaja; keńeli gostinitsačantan = OK, keńerečen
+gostinitsatan = NO; keńelijeken gostinitsatan = OK; keńelikeken gostinitsatan = keńelijeken gostinitsatan, no difference
+\ru Привезли нас в гостиницу, плохенькая, маленькая гостиница ихняя.
+
+\id Egorova_RM_Yakutia014
+\ref 07:50
+\tx Ńanasị       adịːwda        ineŋu,    dʒoːrbe    ineŋu     sjezddarịwụn,                ńan
+\mb ńaːn -E=sI    adịː -W   =DE  ineŋ -W   dʒoːr -W   ineŋ -W   sjezd      -DE -RI  -WUn         ńaːn
+\ge again  -ep=emph some    -acc =ptl day   -acc two     -acc day   -acc congress.R -vr -pst -poss.1pl.ex again
+
+\tx ịlịdụ       ineŋdu    degilliwun                     amaskị.
+\mb ịlan -(G)I -DU  ineŋ -DU  deg -E-L     -RI  -WUn         amar   -skI
+\ge three  -ord  -dat day   -dat fly -ep-inch -pst -poss.1pl.ex behind -advb.all
+
+\ft And we 'congressed' for some days, for two days, and on the third day we flew back.
+\ru И дальше несколько дней, 2 дня, съезд проводили, на третий день полетели назад.
+\ph dəγilliwun
+
+\id Egorova_RM_Yakutia015
+\ref 08:01
+\tx Ọːja  ọrọčịl    tala          čakaptịtan.
+\mb họːja ọrọč -E-L   tarak -(dU)LE čak   -E-B    -RI  -tEn
+\ge many     Oroch     -ep-pl dist  -loc    gather -ep-med -pst -poss.3pl
+
+\ft A lot of Evens gathered there.
+\ru Много эвенов там собралось.
+
+\id Egorova_RM_Yakutia016
+\ref 8:03
+\tx Umekit  nọːdịt     tetutte                ọjịtan,          čeledʒur          tergesič.
+\mb umekič nọːd -E-Č   tet    -E-Č   -R(E)   ọj    -E-tEn       čele -dʒUr        terges       -E-Č
+\ge very    pretty  -ep-ins put.on -ep-res -nonfut clothes -ep-poss.3pl all   -ins.prefl.pl soft.leather -ep-ins
+
+\ft All were very nicely dressed, all in leather (zamša).
+\ru Очень красиво одеты были, у всех одежда из замши.
+\ph [nọːdịt]
+
+\id Egorova_RM_Yakutia017
+\ref 08:10
+\tx Ejdu ereːtten                   nịsamị gịakị gịakịw     umuriten                  vystavkatki,
+\mb ejdu ereː    -Č  -R(E)   -n(I) nịsa     gịakị gịakị -W   em   -U    -RI  -tEn      vystavka     -t(E)kI
+\ge all  vyshivat -res -nonfut -3sg  beads      various   various   -acc come -caus -pst -poss.3pl exhibition.R -all
+
+\tx nọːdụ   ọjụ.
+\mb nọːd -W   ọj    -W
+\ge pretty  -acc clothes -acc
+
+\ft Everything sewed with beads, they brought different things to the exhibition, pretty clothes.
+\ru Все вышито, бисерное все, всякую всячину привезли на выставку, красивую одежду, 
+\gr
+\nt Ichanga transcribed "ejdu erekta nisamich, geki geki", but I don't hear that. And the 'nisamich' he translated as 'obshitoe
+biserom', but according to Robbek, nisami = prazdnichnaja obuv', obshitaja biserom;
+
+\id Egorova_RM_Yakutia018
+\ref 8:19
+\tx Tarma bisi       kojeːtteku                 min     memewuke             biče      ajịč
+\mb tarma biː =sI   kojeːt -REk      -W        min     meme -W        =kE   bi -čE    aj   -E-Č
+\ge but   1sg  =emph look.at -cond.cvb -poss.1sg 1sg.obl mama -poss.1sg =emph be -pf.ptc good -ep-ins
+
+\tx aŋaːnnọːttan            nọŋardụkụtan.
+\mb haŋan -WEːČ -R(E)   -n(I) nọŋan -L  -DUk(U) -tEn
+\ge sew    -gnr    -nonfut -3sg  3sg      -pl -abl    -poss.3pl
+
+\ft But when I looked my deceased mother (meine selige Mutter) used to sew better than them.
+\ru Но я когда смотрела, моя-то мама покойная, она шила лучше чем они.
+
+\id Egorova_RM_Yakutia020
+\ref 08:27
+\tx Ńanasị       uŋe taraw      kojeːčiddiwun                    vystavkawụtan,
+\mb ńaːn -E=sI    uŋe tarak -W   kojeːt -E-D     -RI  -WUn         vystavka     -W   -tEn
+\ge again  -ep=emph now  dist  -acc look.at -ep-prog -pst -poss.1pl.ex exhibition.R -acc -poss.3pl
+
+\tx kojeːčiddiwun                    tar  koncertiwuten,            tarak kụŋal    jakutal.
+\mb kojeːt -E-D     -RI  -WUn         tar  koncert -E-W    -tEn      tarak kụŋa -L  jakut -E-L
+\ge look.at -ep-prog -pst -poss.1pl.ex thus concert -ep-acc -poss.3pl dist  child   -pl Yakut -ep-pl
+
+\ft And we looked at that, their exhibition, and we looked at their concert, that's Yakut children.
+\ru И дальше вот, ну смотрели их выставку, смотрели их концерт, это дети якуты.
+
+\id Egorova_RM_Yakutia021
+\ref 8:38
+\tx Gịakịt     nọŋartan, mutŋi            kụŋal    uŋedmi                ịawdak
+\mb gịakị -Č  nọŋartan  mut    -ŋI       kụŋa -L  uŋ -E-D     -mI       ịak -W   =dak
+\ge various   -ins 3pl          1pl.in -pred.poss child   -pl do  -ep-prog -cond.cvb what  -acc =indef?
+
+\tx ọrọm               ičukeːtčoːtte,                 nọŋartan že   mụram.
+\mb ọrọn          -W   it  -WkEn -Č  -WEːČ -R(E)       nọŋartan že   mụran -W
+\ge domestic.reindeer -acc see -caus -res -gnr    -nonfut.3pl 3pl         ptl.R horse   -acc
+
+\ft They (did things) variously, our children, when they do something like that (have a concert), show reindeer, and theirs
+(show) horses.
+\ru По-всякому они, наши дети, когда делают что-нибудь такое, оленей показывают, они же лошадей.
+\ph geːkit ičukɐːččoːtte mụrɑm
+
+\id Egorova_RM_Yakutia022
+\ref 08:47
+\tx Gịakịč... mogut      dịlgandʒụr        ičukendewur                 ọːn mụran
+\mb gịakị -Č  mogut      dịlgan -dʒUr        it  -WkEn -DE       -WUr     ọːn mụran
+\ge various   -ins they.can.R voice    -ins.prefl.pl see -caus -purp.cvb -prfl.pl how    horse
+
+\tx čirgineweːtten               gịakịt     tarị ńọːŋčịrịwan,                     mụran.
+\mb čirgine -WEːČ -R(E)   -n(I) gịakị -Č  tar    ńọːŋčị -RI       -W   -E-n(I)      mụran
+\ge whinny   -gnr    -nonfut -3sg  various   -ins thus   run            -impf.ptc -acc -ep-poss.3sg horse
+
+\ft Different things... They can show with their voice how a horse whinnies, how it runs.
+\ru По-всякому... могут горловым пением показать как лошадь ржет, как бежит по-всякому, лошадь.
+\ph ičukɐndawur mụrɑn čirginɐwaːttan
+
+\id Egorova_RM_Yakutia023
+\ref 08:55
+\tx Bi   taraw      mịannịwụ,             umekič ajịč.
+\mb biː tarak -W   mịan       -RI  -W        umekič aj   -E-Č
+\ge 1sg  dist  -acc be.surprised -pst -poss.1sg very    good -ep-ins
+\ft That surprised me, (it was) very good.
+\ru Я очень удивилась, очень хорошо.
+
+\id Egorova_RM_Yakutia024
+\ref 08:59
+\tx Ọrọčịŋaltan                tože  kojeːčiddiwun,                   toreriwuten
+\mb ọrọč -E-ŋ   -E-L   -tEn      tože  kojeːt -E-D     -RI  -WUn         tore  -RI        -W   -tEn
+\ge Oroch     -ep-aln -ep-pl -poss.3pl also.R look.at -ep-prog -pst -poss.1pl.ex speak -impf.ptc  -acc -poss.3pl
+
+\tx dọlčịddịwụn.
+\mb dọlčị -D    -RI  -WUn
+\ge listen     -prog -pst -poss.1pl.ex
+
+\ft We also saw their Evens (i.e. the Evens from Yakutia), listened to their speech.
+\ru Их эвенов смотрели, говор их слушали.
+\ph toːreriwuten (o as in Boot)
+
+\id Egorova_RM_Yakutia025
+\ref 9:05
+\tx Aːndasị       etennidetit              ụnụr,           bi   ečiwu        aːwanda
+\mb haːn =DE  =sI   e   -t(E) -nrI =DE  =tIt ụnụ    -R       biː e   -RI  -W   aːwan =DE
+\ge some  =ptl =emph neg -fut  -2sg =ptl =ptl understand -neg.cvb 1sg  neg -pst -acc part   =ptl
+
+\tx ụnụr.
+\mb ụnụ    -R
+\ge understand -neg.cvb
+\ft
+\ft And some you would not even be able to understand, some of them I couldn't understand.
+\ru А некоторые даже не сможешь понять, некоторую часть я не могла понять.
+
+\id Egorova_RM_Yakutia026
+\ref 9:09
+\tx Gerbuttiwu            ịakawụlụtta,        jakutalgu        torer.
+\mb gerbet -RI  -W        ịak -E=(W)Ul  =t(E)     jakut -E-L   =GU tore  -r
+\ge think  -pst -poss.1sg what  -ep=indef =utočnit Yakut -ep-pl =q  speak -3pl
+
+\ft I thought who is it who speaks like this, is it Yakuts who are speaking.
+\ru Думала, кто это такие, то ли якуты говорят.
+\ph toːrer
+
+\id Egorova_RM_Yakutia027
+\ref 09:14
+\tx Ńan   goːniten:           esni,             tarak ọrọčịl    targịdala         bisil
+\mb ńaːn goːn -RI  -tEn      e   -R(E)   -n(I) tarak ọrọč -E-L   tarak -gIdE -(dU)LE bi -RI       -L
+\ge again  say   -pst -poss.3pl neg -nonfut -3sg  dist  Oroch     -ep-pl dist  -part -loc    be -impf.ptc -pl
+
+\tx zapadla.
+\mb zapad  -(dU)LE
+\ge west.R -loc
+
+\ft And they said: "No, those are Evens from over there, living in the west."
+\ru Потом сказали, нет это эвены, которые там на той стороне живут, на западе.
+\ph guniten bisil
+\gr bisil = živuščie
+
+\id Egorova_RM_Yakutia028
+\ref 09:19
+\tx Mun        ańčịndụlawụn              bisiten           tegettiten                      ọrọčịl,   Berezovkagič.
+\mb mun        ańčịn    -(dU)LE -WUn         bi -RI  -tEn      teg      -E-Č   -RI  -tEn      ọrọč -E-L   Berezovka -GIČ
+\ge 1pl.ex.obl space.beside -loc    -poss.1pl.ex be -pst -poss.3pl sit.down -ep-res -pst -poss.3pl Oroch     -ep-pl Berezovka -elat
+
+\ft Next to us sat Evens from Berezovka.
+\ru Около нас сидели эвени, из Березовки.
+\ph Berezovkaγịč
+
+\id Egorova_RM_Yakutia029
+\ref 9:26
+\tx Gerben          Oktjabrina.
+\mb gerbe -n(I)     Oktjabrina
+\ge name  -poss.3sg Oktjabrina
+\ft Her name (was) Oktjabrina.
+\ru Зовут Октябрина.
+\ph
+
+\id Egorova_RM_Yakutia030
+\ref 09:27
+\tx Tarak Oktjabrina ajịč      ụnụwaːttịn                 tarịlba.
+\mb tarak Oktjabrina aj   -E-Č   ụnụ    -WEːČ -RI  -n(I)     tarak -E-L   -W
+\ge dist  Oktjabrina good -ep-ins understand -gnr    -pst -poss.3sg dist  -ep-pl -acc
+\ft That Oktjabrina understood those (the western reindeer herders) well.
+\ru Вот эта Октябрина хорошо понимала тех.
+\ph
+
+\id Egorova_RM_Yakutia031
+\ref 9:32
+\tx Goːnin              tarak         nọŋartanasị     goːnni          amụtta                      jụkagịralnụn.
+\mb goːn -RI  -n(I)     tarak -R(E)   nọŋartan -E=sI    goːn      -n(I) amụ        -Č  -R(E)       jukagir  -E-L   -ńUn
+\ge say   -pst -poss.3sg dist  -nonfut 3pl         -ep=emph say.nonfut -3sg  get.mixed.up -res -nonfut.3pl Yukaghir -ep-pl -com
+
+\ft She said that these were mixed up with Yukaghirs.
+\ru Она сказала, эти они смешаны с юкагирами.
+\ph gunin gunni
+\gr amụtta = smešannye; amụčịr = oni budut smešivat'sja; amụččọːtta = cmešivalis'
+\nt She repeated the 'go:nne', i.e. she says; I've omitted that from the translation.
+
+\id Egorova_RM_Yakutia032
+\ref 9:40
+\tx Ebdʒelliwu                        jụkagịralbị        ịamịwụtta   ọrọčịl
+\mb hebdʒen      -L    -RI  -W        jukagir  -E-L   -J       ịamị =(W)UttE ọrọč -E-L
+\ge be.interested -inch -pst -poss.1sg Yukaghir -ep-pl -prfl.sg why      =indef   Oroch     -ep-pl
+
+\tx goːweːtte               "kụlịčar".
+\mb goːn -WEːČ -R(E)       kụlịčan -L
+\ge say   -gnr    -nonfut.3pl mosquito     -pl
+
+\ft I was interested, why do the Evens call the Yukaghirs 'mosquitoes'.
+\ru Мне интересно стало, почему-то эвены называют юкагиров комарами.
+\ph goːwɐːttɐ
+
+\id Egorova_RM_Yakutia033
+\ref 09:43
+\tx Kụlịčar     že   u    nas, kụlịčan eto    komar,     ńụčịdịč.
+\mb kụlịčan -L  že   u    nas  kụlịčan eto    komar      ńụča -DI   -Č
+\ge mosquito     -pl ptl.R at.R us.R mosquito     this.R mosquito.R Russian  -adjr -ins
+
+\ft [code-switching]: "Kụlịčar" is 'mosquito' in Russian.
+\ru Куличан это же комар по-русски.
+\ph
+
+\id Egorova_RM_Yakutia034
+\ref 09:46
+\tx Ńan   ebdʒelliwu,                       ịamị kụlịčar?    Ịamịwụt.
+\mb ńaːn hebdʒen      -L    -RI  -W        ịamị kụlịčan -L  ịamị =(W)UttE
+\ge again  be.interested -inch -pst -poss.1sg why      mosquito     -pl why      =indef
+
+\ft And I was interested, why 'mosquitoes'? (They answered) we don't know (just because).
+\ru Мне было интересно, почему комары? (Они говорят) иамивут. (=не знаем)
+\ph
+
+\id Egorova_RM_Yakutia035
+\ref 09:50
+\tx Ńanasị       uŋniwun              tačịn       dọlčịddịwụn               ajịt       torer.
+\mb ńaːn -E=sI    uŋ -RI  -WUn         tarọːčịn dọlčị -D    -RI  -WUn         aj   -E-Č   tore         -r
+\ge again  -ep=emph do  -pst -poss.1pl.ex dist.qual      listen     -prog -pst -poss.1pl.ex good -ep-ins speak.nonfut -3pl
+
+\ft And then we did what, we listened so, they speak well.
+\ru Дальше что сделали, так слушали, хорошо говорят.
+
+\id Egorova_RM_Yakutia036
+\ref 9:55
+\tx Tarma toreriwutengel                        bu     taraw      uže      ọːn kak   uŋniwun,
+\mb tarma tore  -RI       -W   -tEn      =gEl   buː   tarak -W   uže      ọːn kak   uŋ -RI  -WUn
+\ge but   speak -impf.ptc -acc -poss.3pl =coord 1pl.ex dist  -acc already.R how    how.R do  -pst -poss.1pl.ex
+
+\tx aːrụ             čelewen,               erdeŋil.
+\mb aː         -(R)U   čele -W   -E-n(I)      erde      -ŋ  -E-L
+\ge know.nonfut -1pl.ex all   -acc -ep-poss.3sg this.side -aln -ep-pl
+
+\ft But we, our side, already know all that they're talking about.
+\ru Но то. что они говорят сейчас, мы уже сделали, знаем все, здешние.
+\nt The contents of the conversation wasn't so interesting for Rima Maksimovna and Svetlana Vladimirovna, because the
+plans the Yakutian Evens were discussing had already been discussed and brought about in the Bystraja district on
+Kamchatka.
+
+\id Egorova_RM_Yakutia037
+\ref 10:04
+\tx Nọŋartanịsị   ịamị tegeligu   bise          uŋni      tegeli bimi         čto-li elekes
+\mb nọŋartan -E=sI    ịamị tegeli =GU bi -R(E)      uŋni      tegeli bi -mI       čto-li elekes
+\ge 3pl         -ep=emph why      far    =q  be -nonfut.pl over.there far    be -cond.cvb ptl.R   at.first
+
+\tx uŋedde.
+\mb uŋ -E-D      -R(E)
+\ge do  -ep-prog  -nonfut.3pl
+
+\ft Probably because they live far away, that's why they're only starting to do (what we've already done).
+\ru Наверно потому что они далеко живут, поэтому только начинают делать то, (что у нас сделано).
+
+\id Egorova_RM_Yakutia038
+\ref 10:12
+\tx Ńanasị       ontelesi           severli         Jakutijali       bisil,           ewgidemŋil,
+\mb ńaːn -E=sI    honte -L  -E=sI    sever   -(dU)LI Jakutija -(dU)LI bi -RI       -L  erek -gIdE -mŋE -L
+\ge again  -ep=emph other -pl -ep=emph north.R -prol   Yakutia  -prol   be -impf.ptc -pl prox -part -agnr -pl
+
+\tx ewgidetki          bisil             torer             ọrọttịč       mungečin.
+\mb erek -gIdE -t(E)kI bi -RI       -L   tore         -r   ọrọč -DI   -Č  mun        -G(E)čIn
+\ge prox -part -all    be -impf.ptc -pl  speak.nonfut -3pl Oroch     -adjr -ins 1pl.ex.obl -sml
+
+\ft And then, others, those from the north of Yakutia, from living closer to this side, they speak Even like we do.
+\ru Дальше, другие которые по северу Якутии живут, которые по-ближе в эту сторону живущие, говорят по-эвенски
+по-нашему.
+\ph uːnteliɕi bisil
+
+\id Egorova_RM_Yakutia039
+\ref 10:21
+\tx Tarma aːndasị       aːmnịksụkan toreweːtte,              mungič.
+\mb tarma haːn =DE  =sI   aːmnịk -sUkEn tore  -WEːČ -R(E)       mun        -GIČ
+\ge but   some  =ptl =emph quickly   -attn  speak -gnr    -nonfut.3pl 1pl.ex.obl -elat
+
+\ft But some speak more quickly than we do.
+\ru Но некоторые по-быстрее говорят чем мы.
+\ph [tamme] [aːmnakɕukan]
+\gr There is no difference between using the Elative and the Ablative for the standard of comparison.
+
+\id Egorova_RM_Yakutia040
+\ref 10:25
+\tx Aːmnịksụkanịsị   toreweːtte               severla         bisil              Oljutorskiel,   aːmnịk
+\mb aːmnịk -sUkEn -E=sI    tore  -WEːČ -R(E)       sever   -(dU)LE bi -RI       -L    Oljutorskie -L  aːmnịk
+\ge quickly   -attn  -ep=emph speak -gnr    -nonfut.3pl north.R -loc    be -impf.ptc -pl  Aljutor      -pl quickly
+
+\tx toremelčiweːtte.
+\mb tore  -mElčI -WEːČ -R(E)
+\ge speak -acclr  -gnr    -nonfut.3pl
+
+\ft Those who live in the north speak faster, the Aljutor Evens, they speak fast.
+\ru По-быстрее говорят которые живут на севере, Алюторские, быстро проговаривают.
+\ph [aːmnakɕukaniɕi]
+
+\id Egorova_RM_Yakutia041
+\ref 10:34
+\tx Uŋe ọːnkene    olutewrigčin,                           min     ekmu             goːweːttin,
+\mb uŋe ọːn =kEnE  holu  -Č  -E-W      -RI       -G(E)čIn min     eken   -W        goːn -WEːČ  -RI  -n(I)
+\ge now  how    =contr chase -res -ep-advrs -impf.ptc -sml      1sg.obl mother -poss.1sg say   -gnr     -pst -poss.3sg
+
+\tx olutewrigčin                            torer,           aːmnịk aːmnịk.
+\mb holu  -Č  -E-W      -RI       -G(E)čIn tore     -r      aːmnịk aːmnịk
+\ge chase -res -ep-advrs -impf.ptc -sml      speak.nonfut -3pl quickly   quickly
+
+\ft Well, it's as if someone is chasing them, my mother used to say, they speak as if someone is chasing them, fast, fast.
+\ru Как-же, как будто их кто-то гоняет, так моя мама говорила, как будто их гоняют говорят, быстро быстро. 
+\ph ulutewrigčin goːwɐːttin
+\gr ulutewrigčin = kak budto ix gonjajut; kak budto ix gonjali = ulutewriten; kak budto menja gonjajut = minu
+ulutkewtigčin; kak budto nas gonjajut = mutu ulutkettigčin; kak budto ego gonjajut = noŋmaːn ulutkettigčin;
+ulutmettigčir = kak budto drug druga gonjajut; kak budto ja gonjaju = ulutkettem --> the problem is that there's no
+visible paradigm; on the one hand, some forms look as if they have a Multiplicative suffix, the 'drug druga' form clearly
+has the Reciprocal; but the form in the narrative has neither; figured out the form later, as seen above
+
+\id Egorova_RM_Yakutia042
+\ref 10:42
+\tx Uŋe Čukotkalasi           bisi         tala          Uljana, Čukotkala.
+\mb uŋe Čukotka -(dU)LE =sI   bi -RI       tarak -(dU)LE Uljana  Čukotka -(dU)LE
+\ge now  Chukotka -loc    =emph be -impf.ptc dist  -loc    Uljana  Chukotka -loc
+
+\ft Now in Chukotka lives Uljana, in Chukotka.
+\ru Вот на Чукотке живет Ульяна.
+\ph
+\gr bisi tala = živuščaja tam
+
+\id Egorova_RM_Yakutia043
+\ref 10:48
+\tx Tarak ona   nọŋan učitelnica.
+\mb tarak ona   nọŋan učitelnica
+\ge dist  she.R 3sg      teacher.R
+
+\ft Now she, she's a teacher.
+\ru Вот эта, она учительница.
+
+\id Egorova_RM_Yakutia044
+\ref 10:52
+\tx I     vot    tarak Uljana tarakasị     mungečin            prjamo     toren
+\mb i     vot    tarak Uljana tarak -E=sI    mun        -G(E)čIn prjamo     tore         -n(I)
+\ge and.R here.R dist  Uljana dist  -ep=emph 1pl.ex.obl -sml      straight.R speak.nonfut -3sg
+
+\tx ajịč.
+\mb aj   -E-Č
+\ge good -ep-ins
+\ft And this Uljana really spoke well, like us.
+\ru Вот Ульяна как мы хорошо разговаривает
+\ph
+
+\id Egorova_RM_Yakutia045
+\ref 10:55
+\tx Tarma ọmŋarịtan         kubek, slovo  kubek.
+\mb tarma ọmŋa -RI  -tEn      kubek  slovo  kubek
+\ge but   forget  -pst -poss.3pl teapot word.R teapot
+\ft But they forgot "kubek", the word "kubek".
+\ru Но они забыли слово кубек.
+\ph
+
+\id Egorova_RM_Yakutia046
+\ref 10:59
+\tx Bi   ŋenniwu            tala          iːsečin  gostinicadu    iludewur.
+\mb biː ŋen -RI  -W        tarak -(dU)LE hiːsečin gostinica -DU  hilu  -DE       -WUr
+\ge 1sg  go   -pst -poss.1sg dist  -loc    evening    hotel.R   -dat drink -purp.cvb -prfl.pl
+
+\ft I went there to the hotel in the evening to drink tea.
+\ru Я пришла туда в гостиница чай питью
+\ph iludɐwur
+\gr ilu = drink hot beverages
+
+\id Egorova_RM_Yakutia046b
+\ref 11:04
+\tx Alačịdʒaːn[niwun]            ọːkbedʒi   kubeku      emudʒir.
+\mb alat -E-dʒEːn -RI  -WUn         ọːk =bEdʒI kubek  -W   em   -U    -DʒI -r
+\ge wait -ep-dur    -pst -poss.1pl.ex when   =emph   teapot -acc come -caus -fut  -3pl
+
+\ft We waited and waited, when on earth will they bring the teapot.
+\ru Ждали ждали, когда-же чайник принесут.
+\ph alačịdʒɐːn
+
+\id Egorova_RM_Yakutia047
+\ref 11:08
+\tx Asịmkar   goːnin              tiːket    tiːket    tiːket    emudʒiru.
+\mb asị -mkEr goːn -RI  -n(I)     tiek =et   tiek =et   tiek =et   em   -U    -DʒI -(R)U
+\ge woman -aug  say   -pst -poss.3sg now  =emph now  =emph now  =emph come -caus -fut  -1pl.ex
+
+\ft A big woman said "We'll bring (it) very soon (now-now)."
+\ru Бабище сказала "сейчас сейчас принесем".
+\ph gunin
+
+\id Egorova_RM_Yakutia048
+\ref 11:11
+\tx Ńanasị       goːnem            "Naverno tala          ŋenuriten,                 asaltakị."
+\mb ńaːn -E=sI    goːn -R(E)   -m   naverno  tarak -(dU)LE ŋen -U      -RI  -tEn      asị -L  -t(E)kI
+\ge again  -ep=emph say   -nonfut -1sg probably dist  -loc    go   -trns?? -pst -poss.3pl woman -pl -all
+
+\ft And I said: "Probably they took it there, to the women."
+\ru Я говорю "Наверно туда принесли, к женщинам."
+\ph gunem
+
+\id Egorova_RM_Yakutia049
+\ref 11:14
+\tx Ńan   goːnem            "Uljana, tiːk kubeku      emuriten?"
+\mb ńaːn goːn -R(E)   -m   Uljana   tiek  kubek  -W   em   -U    -RI  -tEn
+\ge again  say   -nonfut -1sg Uljana   now   teapot -acc come -caus -pst -poss.3pl
+
+\ft And I say: "Uljana, have they brought the teapot?"
+\ru Я говорю "Уляна, ну что, чайник принесли?".
+\ph gunem
+\gr tiːk can mean both 'now' (sejčas) and 'nu kak'
+
+\id Egorova_RM_Yakutia050
+\ref 11:18
+\tx Nọŋartan čeledʒur          karanịtan                 "Ịadụ  nada?".
+\mb nọŋartan čele -dʒUr        karan        -RI  -tEn      ịak -DU  nada
+\ge 3pl         all   -ins.prefl.pl be.surprised -pst -poss.3pl what  -dat need.R
+\ft They were all surprised: "What do you need (it) for??"
+\ru Они все удивились (удивленно вставились): "И зачем это надо?"
+\ph
+
+\id Egorova_RM_Yakutia051
+\ref 11:22
+\tx Goːnem            "Iŋe, iludewur!"
+\mb goːn -R(E)   -m   iŋe   hilu  -DE       -WUr
+\ge say   -nonfut -1sg yes    drink -purp.cvb -prfl.pl
+
+\ft I say "Well, to drink (tea)!"
+\ru Я говорю: "Да чай пить!"
+\ph
+\gr
+
+\id Egorova_RM_Yakutia052
+\ref 11:24
+\tx Ńanda      kojeːčidʒille                      "Ịawụ  ulgimenni?"
+\mb ńaːn =DE  kojeːt -E-D     -E-L     -R(E)       ịak -W   ulgim -R(E)    -nrI
+\ge again  =ptl look.at -ep-prog -ep-inch -nonfut.3pl what  -acc ask   -nonfut  -2sg
+
+\ft And again they stare: "What are you asking?"
+\ru Они опять смотрят:  "Что ты спрашиваешь?"
+\ph ịawə ulgiminni
+
+\id Egorova_RM_Yakutia053
+\ref 11:27
+\tx Ja govorju: "Čajnik u vas est'?",                   po-russki,                    ulgimnem.
+\mb                                                                                    ulgim -R(E)   -m
+\ge                                                                                    ask   -nonfut -1sg
+\ft [In Russian]: I say "Do you have a teapot?" in Russian, [in Even]: I asked.
+\ru
+\ph ulgimnɐm
+\gr
+
+\id Egorova_RM_Yakutia054
+\ref 11:31
+\tx Nọŋartan ińineleddesi,                        goːn          "Ew, uː goːweːčes               kubek?"
+\mb nọŋartan ińin -E-L     -E-D     -R(E)   =sI   goːn          ew   uː goːn -WEːČ -R(E)   -s   kubek
+\ge 3pl         laugh -ep-inch -ep-prog -nonfut =emph say.nonfut.3pl oh   2pl say   -gnr    -nonfut -2pl teapot
+
+\ft How they started laughing, said: "Oh, you say 'kubek'?"
+\ru Они как начали смеяться, говорят: "А, вы говорите кубек?".
+\ph
+\gr on 29/06/2016 I asked about rec.89, which had earlier been transcribed as "iniledʤoːtte", i.e. inch-prog - and it then turned out that the transcription was wrong, that
+she simply says ińinedʤoːtte; she said: *ińilidʤoːtte = netu, that there is ińineʤilloːtte
+\ph goːwɐčɐɕ
+\gr tried to elicit a paradigm for 'zasmejalas' (translation file quest_narratives2007_130609, 9:45) 'ja zasmejalas' bi ińinelliwu,
+bi ińineleddem 'ja načala smejat'sja', *ińinelerem is ungrammatical, 'ty načal smejat'sja' ińineleddis; 'ty načal smejat'sja'
+ińineledd'inni (this is really weird, because it sounds to me like it should be the future tense, but she translates it with past
+tense, and she said *ińineleddenni doesn't exist), 'budu smejat'sja' bi ińineleddʒim OR bi ińineddʒim; iː ińineddʒinni 'ty
+budeš' smejat'sja'; ińineledd'inni 'ty načinaeš' smejat'sja'
+\nt
+
+\id Egorova_RM_Yakutia055
+\ref 11:36
+\tx Goːnem            "uːnen    ọːn goːweːčes?"
+\mb goːn -R(E)   -m   huː =nEn  ọːn goːn -WEːČ -R(E)   -s
+\ge say   -nonfut -1sg 2pl  =emph how    say   -gnr    -nonfut -2pl
+
+\ft I say: "So how do you say?"
+\ru Я говорю: "А вы как говорите?".
+\ph gunem  goːwɐčəɕ
+
+\id Egorova_RM_Yakutia056
+\ref 11:38
+\tx Un  "čajnik" goːn,         ọːnmaja!
+\mb un  čajnik   goːn          ọːn =mEjE
+\ge mol teapot.R  say.nonfut.3pl how    =ptl
+
+\ft They say 'čajnik' (the Russian word for teapot), now how is that??
+\ph ọːnmeja
+\gr 05.02.13 (questions11, 45:30) oːnmeja = kak-to oni govorjat, okazyvaetsja, ne pravilno oni govorjat, tačịnmeja; dʒụːmịja
+= staryj dom, a zdesj "okazyvaetsja"
+\ru Мол, чайник говорят, как так!
+
+\id Egorova_RM_Yakutia057
+\ref 11:41
+\tx Ọrọttịč       goːwaːtta               "kubek".
+\mb ọrọč -DI   -Č  goːn -WEːČ -R(E)       kubek
+\ge Oroch     -adjr -ins say   -gnr    -nonfut.3pl teapot
+
+\ft In Even they say 'kubek'.
+\ru По-эвенски говорят "кубек".
+\ph goːwɐːtte
+\gr
+
+\id Egorova_RM_Yakutia058
+\ref 11:43
+\tx A     nọŋartan ọmŋarịtan         taraw,     "kubeku"    gerbewen                ọrọttịč.
+\mb a.R   nọŋartan ọmŋa -RI  -tEn      tarak -W   kubek  -W   gerbe -W   -E-n(I)      ọrọč -DI   -Č
+\ge but.R 3pl         forget  -pst -poss.3pl dist  -acc teapot -acc name  -acc -ep-poss.3sg Oroch     -adjr -ins
+
+\ft But they've forgotten that, that in Even the name is "kubek".
+\ru Они забыли это, назвние чайника, по-эвенски.
+\ph
+
+\id Egorova_RM_Yakutia059
+\ref 11:50
+\tx Ńan   bisi       ulgimiddem,                 gadam             čaškaw,
+\mb ńaːn biː =sI   ulgim -E-D     -R(E)   -m   ga   -R(E)   -m   čaška -W
+\ge again  1sg  =emph ask   -ep-prog -nonfut -1sg take -nonfut -1sg cup.R   -acc
+
+\tx goːnem            "Ịakawụ  erek?".
+\mb goːn -R(E)   -m   ịak -awụ erek
+\ge say   -nonfut -1sg what  -emph  prox
+\ft And I continued to ask, took a cup and said "What's this?".
+\ru И я спрашиваю, беру чашку, говорю "Что это?".
+\ph gunem
+
+\id Egorova_RM_Yakutia060
+\ref 11:55
+\tx A     nọŋartan goːweːtte               "čaška".
+\mb a.R   nọŋartan goːn -WEːČ -R(E)       čaška
+\ge but.R 3pl         say   -gnr    -nonfut.3pl cup.R
+
+\ft And they say "čaška" (the Russian word for cup).
+\ru Они говорят "чашка".
+\ph I do think she says 'govorit' here, and not 'goːwaːtta', but both she and Aleksej Ichanga said that she said it in Even
+\gr
+
+\id Egorova_RM_Yakutia061
+\ref 11:57
+\tx Goːnem            "esni!"
+\mb goːn -R(E)   -m   e   -R(E)   -n(I)
+\ge say   -nonfut -1sg neg -nonfut -3sg
+\ft And I say "no!".
+\ru Говорю" "нет!".
+\ph
+
+\id Egorova_RM_Yakutia062
+\ref 11:59
+\tx Goːnem            "erekesi      gerben          dọːwịka".
+\mb goːn -R(E)   -m   erek -E=sI    gerbe -n(I)     dọːwịka
+\ge say   -nonfut -1sg prox -ep=emph name  -poss.3sg teacup
+\ft I say "This is called 'dowika' ". 
+\ru Говорю: "Вот это называется довика".
+\ph
+\gr
+
+\id Egorova_RM_Yakutia063
+\ref 12:03
+\tx Ọrọttịč       goːweːtte               "dọːwịka".
+\mb ọrọč -DI   -Č  goːn -WEːČ -R(E)       dọːwịka
+\ge Oroch     -adjr -ins say   -gnr    -nonfut.3pl teacup
+
+\ft In Even they say 'dowika'.
+\ru По-эвенски говорят "довика".
+\ph goːwɐːtte
+
+\id Egorova_RM_Yakutia064
+\ref 12:05
+\tx A     tardamŋal            ọmŋarịtan         uže.
+\mb a.R   tarak -gIdE -mŋE -L  ọmŋa -RI  -tEn      uže
+\ge but.R dist  -part -nr   -pl forget  -pst -poss.3pl already.R
+
+\ft But those have already forgotten.
+\ru А те, кто живут на той стороне, забыли уже.
+\ph
+
+\id Egorova_RM_Yakutia065
+\ref 12:08
+\tx Ńanasị       ečin      gịakịw     ulgimiddʒoːttem                   bi   nọŋardụlatan.
+\mb ńaːn -E=sI    erroːčin gịakị -W   ulgim -E-D     -WEːČ -R(E)   -m   biː nọŋan -L  -(dU)LE -tEn
+\ge again  -ep=emph prox.qual  various   -acc ask   -ep-prog -gnr    -nonfut -1sg 1sg  3sg      -pl -loc    -poss.3pl
+
+\ft And so I asked them many different things.
+\ru И вот так я всякое спрашивала у них.
+\ph geːkiw
+\gr
+
+\id Egorova_RM_Yakutia066
+\ref 12:13
+\tx "Ọːn ịa  erew      ọːn goːndʒis,      erewda         ọːn goːndʒis?"
+\mb ọːn  ịak erek -W   ọːn goːn -DʒI -s   erek -W   =DE  ọːn goːn -DʒI -s
+\ge how     what  prox -acc how    say   -fut  -2pl prox -acc =ptl how    say   -fut  -2pl
+
+\ft "How do you call this, and how do you call this?"
+\ru "Как вы это скажете, а как вот это скажете". 
+\ph gunʥiɕ
+
+\id Egorova_RM_Yakutia067
+\ref 12:17
+\tx Čelewen                mutkečin        torer.
+\mb čele -W   -E-n(I)      mut    -G(E)čIn tore         -r
+\ge all   -acc -ep-poss.3sg 1pl.in -sml      speak.nonfut -3pl
+\ft Everything they say like us.
+\ru Все говорят по-нашему (как мы).
+\ph
+
+\id Egorova_RM_Yakutia068
+\ref 12:21
+\tx Ńanda      tarma nurgeniweten.
+\mb ńaːn =DE  tarma nurge -n  -E-W    -tEn
+\ge again  =ptl but   dance -nr -ep-acc -poss.3pl
+
+\ft But how they dance!
+\ru Но как они танцуют! (лит Но ихний танец!)
+\ph
+\gr (translation files quest_narratives2007_130609, 13:15) oni tancujut nurgennoːtte, ja postojanno tancuju =
+nurgeneddʒoːttem, nurgeddʒoːttem, nurgeweːttem; (translation files quest_narrat2007_230609_1, 2min15) ja vižu ixnij
+tanec = biː ittem nurgeniweten, on vidit moj tanec = nọŋan itten min nurgeniwu, moj tanec xorošij = min nurgeniwu
+aja
+\nt
+
+\id Egorova_RM_Yakutia069
+\ref 12:23
+\tx Munduleke                nurgeniddʒoːtte,                  ajịč      umekič uŋe, možet
+\mb mun        -(dU)LE =kE   nurgen -E-D     -WEːČ -R(E)       aj   -E-Č   umekič uŋe  možet
+\ge 1pl.ex.obl -loc    =emph dance  -ep-prog -gnr    -nonfut.3pl good -ep-ins very    now   can.R
+
+\tx omendewul   bej nurgedeji,               meːn nurgeni             binni.
+\mb omen =dEwUl bej nurge -DE       -J       meːn nurge -n  -n(I)     bi -R(E)   -n(I)
+\ge one  =disj  man dance -purp.cvb -prfl.sg refl  dance -nr -poss.3sg be -nonfut -3sg
+
+\ft  Chez nous they dance very well, well one person can dance, he has his own dance.
+\ru Вот у нас танцуют хорошо очень, ну вот может один человек танцевать, свой танец есть.
+\ph
+\gr binni = bisni, just an assimilated form
+
+\id Egorova_RM_Yakutia070
+\ref 12:31
+\tx A     nọŋartanasị     ịladdʒọːtta                     ečin      ereli, heːde.
+\mb a.R   nọŋartan -E=sI    ịl     -E-D     -WEːČ -R(E)       erroːčin ereli  heːdʒe
+\ge but.R 3pl         -ep=emph stand.up -ep-prog -gnr    -nonfut.3pl prox.qual  around circular.dance
+
+\ft But they all stand in a circle like this, 'hede'.
+\ru А они же становятся вокруг, хедже.
+\ph ičin
+\gr ičin = vot tak, takim obrazom
+
+\id Egorova_RM_Yakutia071
+\ref 12:37
+\tx Mundulesi                heːdew             esten                 tiːk nekkoːtte.
+\mb mun        -(dU)LE =sI   heːdʒe       -W   e   -R(E)   -tEn      tiek  nek -WEːČ -R
+\ge 1pl.ex.obl -loc    =emph circular.dance -acc neg -nonfut -poss.3pl now   do  -gnr    -neg.cvb
+
+\ft They don't do the he:dje at our place now.
+\ru У нас же хэдже сейчас не делают.
+\ph
+\gr
+\nt
+
+\id Egorova_RM_Yakutia072
+\ref 12:40
+\tx Tiːtel  emedmi                  goːweːtte               ešče  ekmu             biče
+\mb tiːtel  em   -E-D     -mI       goːn -WEːČ -R(E)       ešče  eken   -W        bi -čE
+\ge long.ago come -ep-prog -cond.cvb say   -gnr    -nonfut.3pl still.R mother -poss.1sg be -pf.ptc
+
+\tx goːweːtten                bu     heːdewu            um... aːrịwụn.
+\mb goːn -WEːČ -R(E)   -n(I) buː   heːdʒe       -W         haː -RI  -WUn
+\ge say   -gnr    -nonfut -3sg  1pl.ex circular.dance -acc ...   know -pst -poss.1pl.ex
+
+\ft Long ago they say, when we were came (here), my deceased mother used to say, we knew the he:dje.
+\ru В древности, когда пришли сюда, говорила моя покойная мама, мы хэдже знали.
+\ph
+\gr Rimma Maksimovna just repeated 'govorila' twice, i.e. she thought the first 'goːweːtte' was also 3SG.
+\nt I think she at first meant to say something about 'forgot', that's where the 'um' comes from.
+
+\id Egorova_RM_Yakutia073
+\ref 12:46
+\tx A     tiːkes    ọmŋarịwụn          uže,     esu                 tačịn       nekkoːtte.
+\mb a.R   tiek =sI   ọmŋa -RI  -WUn         uže      e   -R(E)   -(R)U   tarọːčịn nek -WEːČ -R
+\ge but.R now  =emph forget  -pst -poss.1pl.ex already.R neg -nonfut -1pl.ex dist.qual      do  -gnr    -neg.cvb
+
+\ft But now we've forgotten, we don't do like that anymore.
+\ru А сейчас забыли уже, сейчас так не делаем.
+\ph
+\gr
+
+\id Egorova_RM_Yakutia074
+\ref 12:50
+\tx Ńanịsị     bu     ordewurtitte                     nekriwun              taraw
+\mb ńaːn -E=sI    buː   hor -DE -WUr           =tIt =DE  nek -RI  -WUn         tarak -W
+\ge again  -ep=emph 1pl.ex go  -purp.cvb -prfl.pl =ptl =ptl do  -pst -poss.1pl.ex dist  -acc
+
+\tx kojeːttewur,              heːdedʒek          bisin,            prazdnik.
+\mb kojeːt -DE       -WUr     heːdʒe       -ČEk bi -RI  -n(I)     prazdnik
+\ge look.at -purp.cvb -prfl.pl circular.dance -nr   be -pst -poss.3sg holiday.R
+\ft And we wanted to go and see that, there was a he:dje holiday.
+\ru И мы хотели пойти посмотреть, праздник хэдже был.
+\ph
+
+\id Egorova_RM_Yakutia075
+\ref 12:56
+\tx Tarma ečiwun               potomučto biletun               uže      bisin.
+\mb tarma e   -RI  -WUn         potomučto bilet    -WUn         uže      bi -RI  -n(I)
+\ge but   neg -pst -poss.1pl.ex because.R  ticket.R -poss.1pl.ex already.R be -pst -poss.3sg
+\ft But we didn't go, because we already had tickets (for the airplane).
+\ru Но не ходили, потому что уже билеты (на самолет) были
+\ph
+
+\id Egorova_RM_Yakutia076
+\ref 13:00
+\tx Ńan   ur... degilliwun.
+\mb ńaːn       deg -E-L     -RI  -WUn
+\ge again        fly -ep-inch -pst -poss.1pl.ex
+
+\ft And we left (flew off).
+\ru И мы улетели.
+\ph
+
+\id Egorova_RM_Yakutia077
+\ref 13:02
+\tx Televizorlitkan            ittiwun,              kučeːlekekem        ičukeniten.
+\mb televizor -(dU)LI =t(E)kEn it  -RI  -WUn         kučeːle -kEkEn -W   it  -WkEn -RI  -tEn
+\ge TV.R      -prol   =restr   see -pst -poss.1pl.ex small     -dim   -acc see -caus -pst -poss.3pl
+\ft We only watched it on TV, they showed a very little bit.
+\ru Только по телевизору видели, немножко показывали.
+\ph kučɐːlekekam ičukaniten
+\gr 12.02.13 (questions16, 23:00) kučeːlekekem ičukeniten = nemnozhko pokazyvali; if they'd showed a lot: egdʒem
+ičukettiten; or ọːjaw; when I asked, agreed with egdʒemkeru ičukeniten = OK, eto uzhe MNOOOGO pokazyvali
+
+\id Egorova_RM_Yakutia078
+\ref 13:06
+\tx Tarma ebdʒendeč         uŋiddʒoːtte.
+\mb tarma hebdʒen    -E-Č   uŋ -E-D     -WEːČ -R(E)
+\ge but   interesting -ep-ins do  -ep-prog -gnr    -nonfut.3pl
+
+\ft But they do it very interestingly.
+\ru Но интересно делают.
+\ph
+
+\id Egorova_RM_Yakutia079
+\ref 13:10
+\tx Olloːttiwun             restoran,    otdyxali, večerom,        iːsečin tarị, čeleńdʒedʒur            tarị.
+\mb hollot -RI  -WUn         restoran     otdyxali  večerom         iːsečin tar     čele -ńdʒE -dʒUr        tar
+\ge go     -pst -poss.1pl.ex restaurant.R relaxed.R in.the.evening.R evening   thus    all   -aug    -ins.prefl.pl thus
+
+\ft We went to a restaurant in the evening and relaxed, absolutely everyone went.
+\ru Ходили в ресторан, отдыхали вечером, именно вечером, все все.
+\ph [tarə]
+\gr 30.01.13 (questions7, 26:15) čeleńdʒedʒur = usilivaet, vse vmeste, čelečendʒur = OK, no big difference, čelekekendʒur
+= NO
+
+\id Egorova_RM_Yakutia080
+\ref 13:17
+\tx Tar   ebdʒendeč         ńaːjawaːttịː                umekič.
+\mb tarak hebdʒen    -E-Č   ńaːja -WEːČ -R(E)       =Iː  umekič
+\ge dist  interesting -ep-ins sing    -gnr    -nonfut.3pl =emph very
+
+\ft There they sang so nicely, very well.
+\ru Так интересно поют
+\ph [ńaːjawaːttịịịịịịịịịị]
+\gr The long-drawn-out high last vowel on the verb expresses her admiration and delight (vosxishenie).
+
+\id Egorova_RM_Yakutia081
+\ref 13:22
+\tx Tiːkel    ele          ŋiːde    esni              ńaːjawaːtta,          a     tadụsị
+\mb tiek =El   erek -(dU)LE ŋiː =DE  e   -R(E)   -n(I) ńaːja -WEːČ -R       a.R   tarak -DU  =sI
+\ge now  =emph prox -loc    who   =ptl neg -nonfut -3sg  sing    -gnr    -neg.cvb but.R dist  -dat =emph
+
+\tx umekič etikeːmker    ńaːjarịn.
+\mb umekič etikeːn -mkEr ńaːja -RI  -n(I)
+\ge very    old.man  -aug  sing    -pst -poss.3sg
+
+\ft Now here nobody sings, but there one old man sang very well.
+\ru Сейчас-же здесь никто не поет, а там очень хорошо старик пел.
+\ph tadụsị
+
+\id Egorova_RM_Yakutia082
+\ref 13:30
+\tx Osemi čelelin                jụrtamkartụ    osemi ụldụwaːttan              čeledʒi,
+\mb osemi čele -(dU)LI -n(I)     jụrta -mkEr -DU  osemi ụlda   -WEːČ -R(E) -n(I)  čele -DʒI
+\ge azh   all   -prol   -poss.3sg yurt    -aug  -dat azh   resonate -gnr    -nonfut -3sg all   -ins.prfl.sg
+
+\tx ikeːweːtten               tačịkan.
+\mb ikeː -WEːČ -R(E)   -n(I) tačịkan
+\ge sing  -gnr    -nonfut -3sg  like.that
+
+\ft Azh everything in the big yurt resonated, that's how he sang.
+\ru Аж везде в юрте резонировала все, так он пел.
+\ph
+\gr 29.01.13 (questions 2, 29:50) ikeːweːtten = on poet, ikeːweːttin = on v proshlom pel; ikeːweːtten = on zhe tam pel (tak
+pel), ikeːweːttin = would refer to something before the time of the party
+\nt
+
+\id Egorova_RM_Yakutia083
+\ref 13:37
+\tx Ńanasị       goːniten            "tiːk heːdedʒip".
+\mb ńaːn -E=sI    goːn -RI  -tEn      tiek   heːdʒe       -DʒI -p
+\ge again  -ep=emph say   -pst -poss.3pl now    circular.dance -fut  -1pl.in
+
+\ft And then they said: "Now we'll do the he:dje".
+\ru И потом сказали, "сейчас будем хэдже делать".
+\ph guniten
+\gr
+
+\id Egorova_RM_Yakutia084
+\ref 13:41
+\tx Ebdʒelliwu.
+\mb hebdʒen      -L    -RI  -W
+\ge be.interested -inch -pst -poss.1sg
+
+\ft I was interested.
+\ru Мне стало интересно.
+\ph
+
+\id Egorova_RM_Yakutia085
+\ref 13:43
+\tx Eti     olenovodal               tar   ọrọmŋal
+\mb eti     olenovod          -E-L   tarak ọrọn          -mŋE -L
+\ge these.R reindeer.herder.R -ep-pl dist  domestic.reindeer -agnr -pl
+
+\tx heːdedditen,                       umekič.
+\mb heːdʒe       -D    -RI  -tEn      umekič
+\ge circular.dance -prog -pst -poss.3pl very
+\ft Those reindeer herders did the he:dje, very well.
+\ru Это оленоводы делали хэдже.
+\ph
+\ph
+
+\id Egorova_RM_Yakutia086
+\ref 13:47
+\tx Muttitte         olenovodịlti                        urečin   ọrọmŋalta
+\mb mut    =tIt =DE  olenovod          -E-L   -t(I)        ureːčin ọrọn          -mŋE -L  =DE
+\ge 1pl.in =ptl =ptl reindeer.herder.R -ep-pl -poss.1pl.in similar   domestic.reindeer -agnr -pl =ptl
+
+\tx tačịnda          nogleŋeːmkeril        aːnda     taːrụtị ịtịːtan        ịamịwụttasị     čileńe.
+\mb tarọːčịn =DE  nogleŋeː -mkEr -E-L   haːn =DE  taːrụtị ịtịː -tEn      ịamị =(W)UttE =sI   čileńe
+\ge dist.qual      =ptl shaggy     -aug  -ep-pl some  =ptl dirty        face      -poss.3pl why      =indef   =emph dark
+
+\ft Just like our reindeer herders, just as shaggy, some of them just as sunburnt, as if their faces were dirty.
+\ru Такие же как наши оленоводы, такие же лохматые, такие же загорелые, как чумазые, некоторые.
+\ph noγleŋeːmkeril
+\gr čileńe = here: sunburnt
+
+\id Egorova_RM_Yakutia087
+\ref 13:57
+\tx Ńanasị       tačịn       tar  ebdʒelliwun.
+\mb ńaːn -E=sI    tarọːčịn tar  hebdʒen      -L    -RI  -WUn
+\ge again  -ep=emph dist.qual      thus be.interested -inch -pst -poss.1pl.ex
+
+\ft Now we found that very interesting.
+\ru И вот так нам было интересно.
+\ph
+\gr
+
+\id Egorova_RM_Yakutia088
+\ref 14:00
+\tx Omen toren,             aːnasị      amardadụn                 toreweːtte.
+\mb omen tore         -n(I) haːn -E=sI    amar   -gIdE -DU  -n(I)     tore  -WEːČ -R(E)
+\ge one  speak.nonfut -3sg  other -ep=emph behind -part -dat -poss.3sg speak -gnr    -nonfut.3pl
+
+\ft One speaks, the others repeat what he said.
+\ru Один говорит, а остальные вслед за ним говорят.
+\ph toːrɐn torewɐːtte
+\gr
+\nt
+
+\id Egorova_RM_Yakutia089
+\ref 14:06
+\tx Ńan   ịawda         ńabarasnọːttan                             gu tarak, čeledʒur          ińinmi
+\mb ńaːn ịak -W   =DE  ńabar          -E-s(E)n -WEːČ -R(E)   -n(I) gu tarak  čele -dʒUr        ińin -mI
+\ge again  what  -acc =ptl joke.indecently -ep-lim  -gnr    -nonfut -3sg  Q  dist   all   -ins.prefl.pl laugh -cond.cvb
+
+\tx torle         tikkoːtte,              tar  ińineddʒoːtte.
+\mb tor   -(dU)LE tik  -WEːČ -R(E)       tar  ińin -E-D     -WEːČ -R(E)
+\ge earth -loc    fall -gnr    -nonfut.3pl thus laugh -ep-prog -gnr    -nonfut
+
+\ft And he (the leader) says something indecent, or what, all laughingly fall to the ground, lthey laugh so much.
+\ru И вот что-нибудь неприличное скажет что-ли, вот этот, (заводила) все смеясь падают на землю, так смеются.
+\ph
+
+\id Egorova_RM_Yakutia090
+\ref 14:14
+\tx Ebdʒendeč         umekič.
+\mb hebdʒen    -E-Č   umekič
+\ge interesting -ep-ins very
+
+\ft Very interesting.
+\ru Интересно очень.
+\gr
+
+\id Egorova_RM_Yakutia091
+\ref 14:17
+\tx Umekič Jakutskegel       egdʒentitte      gorod, tarma kojeːčiddiwu,                 tam
+\mb umekič Jakutsk -E=gEl    egdʒen =tIt =DE  gorod  tarma kojeːt -E-D     -RI  -W        tam
+\ge very    Yakutsk -ep=coord big     =ptl =ptl town.R but   look.at -ep-prog -pst -poss.1sg there.R
+
+\tx egdʒeniː    nọːd dʒụː, an... daže  ańčịndụlanịsị                 keńerekeker
+\mb egdʒen =Iː  nọːd dʒụː        daže  ańčịn    -(dU)LE -n(I)     -E=sI    kenere -kEkEn -L
+\ge big     =emph pretty  house           even.R space.beside -loc    -poss.3sg -ep=emph bad    -dim   -pl
+
+\tx irbeːt kapčụńal    dʒụː, mọːdụk    ọːča.
+\mb irbeːt kapčụńa -L  dʒụː  mọː -DUk(U) ọː -čE
+\ge old     low         -pl house     tree   -abl    make  -pf.ptc
+
+\ft In general Yakutsk is a big town, but I looked, there's a big beautiful house and right next to it there are bad, old, low
+(huddled to the ground) houses, built from wood.
+\ru Вообще.то Якутск большой город, но я смотрела, там большой красивый дом, а рядом же плохенькие старые
+приземистые дома, сделанные из дерева.
+\ph Jakutskeγel
+\gr
+
+\id Egorova_RM_Yakutia092
+\ref 14:32
+\tx Tarawgal          ọːssakatan,                  nọːd bidʒin.
+\mb tarak -W   =gEl   ọːs   -REk      -E-tEn       nọːd bi -DʒI -n(I)
+\ge dist  -acc =coord clear.up -cond.cvb -ep-poss.3pl pretty  be -fut  -3sg
+
+\ft When they remove those it will be pretty.
+\ru Вот это уберут и будет красиво.
+\ph
+\gr ọːssakatan = kogda uberut, ọːssam = ja ubiraju
+
+\id Egorova_RM_Yakutia092b
+\ref 14:35
+\tx Ulicatende              umekič ịmanna, uže      tarakamịč          apreːl  bisin,            unet
+\mb ulica    -tEn      =DE  umekič ịmanra  uže      tarakam       -E-Č   aprel'.R bi -RI  -n(I)     unet
+\ge street.R -poss.3pl =ptl very    snow      already.R in.those.days -ep-ins April.R  be -pst -poss.3sg still
+
+\tx iŋeńsin              tala.
+\mb iŋeń  -RI -n(I)      tarak -(dU)LE
+\ge be.cold -pst -poss.3sg dist  -loc
+
+\ft And their streets, there was snow, it was April, and it was still cold there.
+\ru А улицы, снег же был, тогда был апрель, еще было холодно там.
+\ph
+\gr iŋeńsin = bylo xolodno, tiːk iŋeńsen = sejčas xolodno; uksin = bylo žarko, uksen = sejčas žarko; ụdnịn = dožd' byl,
+ụdnan = dožd' idet
+
+\id Egorova_RM_Yakutia094
+\ref 14:42
+\tx Ịmanịŋịtan             aččadatịt,   ejdu ọːssọːtta.
+\mb ịmanra -E-ŋ   -E-tEn       ačča =DE  =tIt ejdu ọːs   -WEːČ -R(E)
+\ge snow     -ep-aln -ep-poss.3pl neg    =ptl =ptl all  clear.up -gnr    -nonfut.3pl
+
+\ft There's no snow at all, they clear it all away.
+\ru Снега у них вообще нету, все убирают.
+\ph
+
+\id Egorova_RM_Yakutia095
+\ref 14:45
+\tx Tačịngel           goːnem            Petropavlovskala        ọːskararakatan.
+\mb tarọːčịn =gEl   goːn -R(E)   -m   Petropavlovsk -E-(dU)LE ọːs   -Gr(E) -REk      -E-tEn
+\ge dist.qual      =coord say   -nonfut -1sg Petropavlovsk -ep-loc   clear.up -hab   -cond.cvb -ep-poss.3pl
+
+\ft If only they would clear up like this in Petropavlovsk, I said.
+\ru Вот так бы там, я говорю, в ПП бы убирали.
+\ph [ọːš'karaːkịtan]
+\gr I'm not entirely sure about the verb, because she contracted it quite a bit; and actually, from the meaning I would expect
+the Subjunctive here (-mčI), which it clearly isn't. So from the meaning plus form the Conditional fits best. ọːskararəku =
+ja by ubrala)
+\gr June 2016: oːskararakatan, oːššakatan = OK, difference: oːššakatan = odin raz by ubirali, oːškararakatan = vsegda by ubirali
+
+\id Egorova_RM_Yakutia096
+\ref 14:49
+\tx Ọːkụttasị      tačịn       bidʒin,       tiːkel    ele.
+\mb ọːk =(W)UttE =sI   tarọːčịn bi -DʒI -n(I) tiek =El   erek -(dU)LE
+\ge when   =indef   =emph dist.qual      be -fut  -3sg  now  =emph prox -loc
+
+\ft When will it be like that, in this time, here.
+\ru Когда же это так будет, в настоящее время тут.
+\ph
+\gr
+\nt
+
+\id Egorova_RM_Yakutia097
+\ref 14:53
+\tx Ńan   tačịn       tar  gọrụ tadụ     biddidʒur,           ebdʒelliwun,
+\mb ńaːn tarọːčịn tar  gọrụ tarak -DU  bi -D    -RIdʒI  -L  hebdʒen      -L    -RI  -WUn
+\ge again  dist.qual      thus long     dist  -dat be -prog -ant.cvb -pl be.interested -inch -pst -poss.1pl.ex
+
+\tx asalnụnda          aːmalkarịwụn.
+\mb asị -L  -ńUn =DE  haː -mElčI -RI  -WUn
+\ge woman -pl -com  =ptl know -acclr  -pst -poss.1pl.ex
+
+\ft And like that we were there for a long time, it was very interesting, and we met women.
+\ru И вот так мы долго были, нам было интересно, и с женщинами познакомились.
+\ph
+\gr It's a bit odd that she says they were there for a long time, since they were only there for 2 days; probably it seemed like a
+long time, because they had so many new experiences.
+\nt
+\gr 29.01.13 (questions, 31:30): aːmalkịriwụn = poznakomilisj; ja poznakomilasj = aːmalkarịwụ; aːmattịwụ = net (which
+would be with the reciprocal); but then said "aːmattịwu 'ja znalasj', ja s nimi imela delo"; aːmalkadʒịm = ja sejchas
+poznakomljusj;  teːleŋmečiddʒoːttu = beseduem, razgovarivaem; teːleŋmelkiddʒoːttu = netu; ičimeččoːttu = videtsja;
+itmelkeriwu = netu; aːmalkarịwụn = segodnja poznakomilisj; (34:30-35:30) buː ebdʒelliwun = nam stalo interesno; buː
+Jakutskajla ebdʒelliwun; bu knigaw ebdʒelliwun = kniga nam interesno; kniga mindu ebdʒenen(?) = kniga mne
+interesno; bi knigaw ebdʒellem = kniga mindu ebdʒeni (ona mne interesno)
+\nt
+\gr 30.01.2013 (questions4, 1:40-) checked with RME, and aːmalkarịwụn has two meanings, 'bystro nauchitsja' and
+'poznakomit'sja, uznatj drug druga', aːmattịwụn = my v proshlom znalisj, my sejchas znaemsja = aːmattap, I tried to find
+out whether aːmalkarịwụn 'poznakomilisj' might have a meaning of superficiality, but even if you met someone 2 years
+ago and are still friends, you would say "aːmalkamattụ" - though in grammar comment of Axmetova_VI_childhood_63 I do
+say "aːmalkamattaj = ottenok bystro poznakomit'sja"
+\nt
+
+\id Egorova_RM_Yakutia098
+\ref 15ː02
+\tx Aːnda     tarị emdewur                 [stammers] eweski,        goːniten,           ọːkụtta.
+\mb haːn =DE  tar    em   -DE       -WUr     stammers   erek -skI      goːn -RI  -tEn      ọːk =(W)UttE
+\ge some  =ptl thus   come -purp.cvb -prfl.pl stammers   prox -advb.all say   -pst -poss.3pl when   =indef
+
+\ft Some promised to come here, sometime.
+\ru Некоторые приехать сюда обещались, когда-нибудь.
+\ph guniten
+
+\id Egorova_RM_Yakutia099
+\ref 15:08
+\tx Kọč   ọːkta    emdʒir.
+\mb kọč   ọːk =DE  em   -DʒI -r
+\ge probably when   =ptl come -fut  -3pl
+\ft Perhaps they will come sometime.
+\ru Может, когда-нибудь приедут.
+\ph
+\gr
+\nt
+
+\id Egorova_RM_Yakutia100
+\ref 15:10
+\tx Eŋennedʒir                 mun        biddiwun.
+\mb eŋen     -nE     -DʒI -r   mun        bi -D    -RI       -WUn
+\ge come.look -intent -fut  -3pl 1pl.ex.obl be -prog -impf.ptc -poss.1pl.ex
+\ft They'll come to see how we live (come to look at our life).
+\ru Приедут смотреть нашу жизнь.
+\ph
+\gr
+
+\id Egorova_RM_Yakutia101
+\ref 15:13
+\tx Tika.
+\mb tika
+\ge all
+\ft That's all.
+\ru
+\ph
+\gr 'tika' cannot be used as a quantifier, only to indicate that something's done.

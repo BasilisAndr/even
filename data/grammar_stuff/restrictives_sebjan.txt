@@ -1,0 +1,435 @@
+\_sh v3.0  984  Text
+
+\id aaaaaaaaa_general_thoughts
+\tx =t(E)kEn
+\gr So the suffix =t(E)kEn appears in my entire narrative corpus (incl. beseda) 44 times - of which 37 examples are from
+Kamchatka, and only 7 examples are from Sebjan; of these, 4 tokens are from Burtsev, who uses it with an intensifying
+rather than restrictive meaning, ajmakantakan "very well" (makan is also intensifying) and egdʒenteken "very big, very"
+- this is an idiosyncratic usage, it's not what is commonly done, not typical (I asked on 270312, Ija didn't really even
+understand the phrases without the context); 1 example is ịaktakan where I have a note that when several objects are
+being enumerated it has a meaning of "exactly this" "chto imenno";  2 tokens are restrictive
+\nt
+\tx =ńUn
+\gr this appears 110 times in the narrative corpus (incl. beseda) - 4 examples from Kamchatka, Amganov_ducks_26 with
+intensifying meaning rather than restrictive, Meme_ded_89 with restrictive meaning (lish by), Meme_ded_105 probably
+more intensifying, not restrictive, Solodikov_AA_tabun1 very unclear, but not restrictive, I don't think
+\gr combines with nouns, after case-marking, with numerals, with converbs, with participles, with pronouns, with a finite
+verb (KNK_eksponat42), with ideophone (chuchuna_14, amịlị-kuːkńun), with adjectives, with adverbs
+\nt
+\tx =mEːk
+\gr I have 7 tokens in my entire spontaneous corpus, 3 from Sebjan, all with a restrictive meaning, 4 from Kamchatka, of
+which 3 have a clear restrictive meaning, one is a bit ambiguous, but could be interpreted as broadly restrictive
+\nt
+\gr on 260312 I did a bit of elicitation (inserted here under the individual textual examples, i.e. in different records), and
+basically it transpires that the 3 suffixes are practically completely interchangeable, but =ńUn comes after the
+case-marking, while =t(E)kEn and =mEːk come before the case suffixes, and only ịaktakan has a meaning of "čto
+imenno"
+\nt
+\gr but then I checked, and Zoja_Bochilikan says heːruk herlenteken, not heːruk hertekennen, so I asked again on 270312,
+and then IVK changed her judgements and wanted the case suffix before =tEkEn! though she did say perhaps both are
+OK, though case before =tEkEn is more correct
+\nt
+\gr it does seem from the elicitation though that while =ńUn and =tEkEn are basically synonyms, =mEːk has a more
+restricted use, e.g. cannot be used with converbs (cf. Tulasynova_46, birth_23)
+
+\id Bochilikan_etiken_051
+\tx Ịlụmụčamị         elberidʒi          dʒebleŋi              gennen,                itteken
+\mb ịlụmụ -čEn -J       elbe       -RIdʒI  dʒeb -LE -ŋ  -J       gel      -nE     -n(I) it  -REk      -E-n(I)
+\ge yurt        -dim  -prfl.sg cover.yurt -ant.cvb eat   -nr -aln -prfl.sg look.for -intent -3sg  see -cond.cvb -ep-poss.3sg
+
+\tx heːrukčenni              kịŋgakụ, heːruk    herlenteken                       iːtmejeńun
+\mb heːruk    -čEn -n(I)     kịŋgakụ  heːruk    her    -(dU)LE -n(I)     =t(E)kEn iːt  -mEjE =ńUn
+\ge saddle.bag -dim  -poss.3sg empty         saddle.bag bottom -loc    -poss.3sg =restr   tooth -aug  =restr
+
+\tx desčin.
+\mb desči     -n(I)
+\ge lie.nonfut -3sg
+
+\ft Having built his little yurt he went for his food and sees, his bag is empty, only at the bottom a big tooth is lying.
+\ru Соорудив жилище он пошел за едой, открывает суму свою, смотрит, там пусто, только на дне валяется зуб большой.
+\ru Поставив чум пошел за своей едой, видит сума его пустая, только на дне сумы лежит зубище.
+\ph genne = consonant assimilation, standard = gelne
+\gr on 260312 asked: one could say herlenńun iːtmejeteken desčin, same meaning; one could say herenmeːklen "tol'ko na dne
+sumy", one could say iːtmeːkmeje "tol'ko bol'šoj zub"
+\ELANBegin 278.290
+\ELANEnd 292.040
+\ELANParticipant
+
+\id Burtsev_ID_traditions_002
+\tx Aj   hiesečin, hiesečin  biden                  erek televizoru,    čụlbańa     ekram         koječe...
+\mb aj   hiːsečin hiːsečin bi -DE       -n(I)     erek televizor -W   čụlban -ńE  ekran    -W   kojeːt -E
+\ge good evening    evening    be -purp.cvb -poss.3sg prox TV.R      -acc be.grue   -adjr screen.R -acc look.at -ep
+
+\tx koječeddi                 dʒaːŋịldị,                 amarrada          biden
+\mb kojeːt -E-D     -RI       dʒaː   -ŋ  -E-L   -DI          amar -(dU)LE =DE  bi -DE       -n(I)
+\ge look.at -ep-prog -impf.ptc relative -aln -ep-pl -dat.prfl.sg last -loc    =ptl be -purp.cvb -poss.3sg
+
+\tx hureldi,                hu... ebeheldu       čeːleduhne         ajmakantakan         ebedič
+\mb hut   -SEl -DI          hut   ewen -SEl -DU  čele -DU  -sEn      aj   -mEkEn =t(E)kEn ewen -DI   -Č
+\ge child -pl  -dat.prfl.sg child Even -pl  -dat all   -dat -poss.2pl good -ints  =restr   Even -adjr -ins
+
+\tx ukčendeku                 ịaw      haːrịjị,           ịaw      mindu        ejmu
+\mb ukčen -REk      -W        ịak -W   haː -RI       -J       ịak -W   min     -DU  enen   -W
+\ge tell   -cond.cvb -poss.1sg what  -acc know -impf.ptc -prfl.sg what  -acc 1sg.obl -dat mother -poss.1sg
+
+\tx ammụ,          upewu                 abịgalbụ              takkattaŋụtnọ,                    ọːn
+\mb aman   -W        upeː       -W        abaga -L -W               tat   -kE -Č  -DEŋ    -W   -tEn      ọːn
+\ge father -poss.1sg grandmother -poss.1sg grandfather -pl -poss.1sg learn -?? -res -pst.ptc -acc -poss.3pl how
+
+\tx goːniken      irgetteŋutno                 pọmpịtịč    ukčendʒim.
+\mb goːn -nIkEn   irget -DEŋ    -W   -tEn      pọmpịtị -Č  ukčen -DʒI -m
+\ge say   -sim.cvb raise -pst.ptc -acc -poss.3pl short         -ins tell   -fut  -1sg
+
+\ft Good evening, let me tell my relatives, my children in the future, all you Evens who are watching this TV, this silver
+screen, briefly and thoroughly in Even what I know, what my parents and grandparents taught me, how they brought me
+up.
+\ph
+\gr (11_quest_19:45) hiesečin = hiehečen, aj hiesečin - literally way of saying 'good evening'; čeleduhne = vsem vam;
+ajmakantakan - it would seem as if IDB uses the particle =tEkEn with an intensifying meaning rather than a restrictive
+meaning
+\ru Добрый вечер, пусть будет тем кто смотрит этот телевизор, голубой экран, своим родным, пусть будет потом своим
+детям эвенам всем хорошенько по-эвенски расскажу, что я знаю, что мне рассказывали отец мать, бабушка дедушки,
+чему меня учили, как меня воспитывали коротко расскажу.
+\ELANBegin 00:00:07.970
+\ELANEnd 00:00:40.144
+\ELANParticipant IDB
+
+\id Burtsev_ID_traditions_015
+\tx Uduk         dʒulehki           hureldur                ajmakaːntakan       takkamị
+\mb erek -DUk(U) dʒul -E  -skI      hut   -SEl -DUr         aj   -mEkEn =t(E)kEn tat   -kE -mI
+\ge prox -abl    front -ep -advb.all child -pl  -dat.prfl.pl good -ints  =restr   learn -?? -cond.cvb
+
+\tx goːniken      mut    dʒọmkat.. dʒọmkattap              ńan   daγanï.
+\mb goːn -nIkEn   mut    dʒọmkat   dʒọmkat -R(E) -p        ńaːn daγanï
+\ge say   -sim.cvb 1pl.in think        think      -nonfut -1pl.in and    even.Y
+
+\ft We think that in future we will have to teach our children well.
+\ph
+\ru В будущем своим детям хорошенько обучить говорим, мы думаем. // Мы думаем что в будущем наших детей нужно
+обучать хорошенько.
+\ELANBegin 00:03:30.660
+\ELANEnd 00:03:40.272
+\ELANParticipant
+
+\id Burtsev_ID_traditions_020
+\tx Butunnu      ečin      bekeččur          ịalakkene..        ečin      poselokla         iːniken
+\mb bütünnüː erroːčin bekeč -dʒUr       ịak -(dU)LE =kEnE  erroːčin poselok   -(dU)LE iː   -nIkEn
+\ge entirely.Y   prox.qual  all    -ins.prfl.pl what  -loc    =contr prox.qual  village.R -loc    enter -sim.cvb
+
+\tx towmi,             hurelbur            ńụčịdịč    ńọkadịč      ịatkụ
+\mb teg      -mI       hut   -SEl -WUr     ńụča -DI   -Č  ńọka -DI   -Č  ịak -Č  =GU
+\ge sit.down -cond.cvb child -pl  -prfl.pl Russian  -adjr -ins Sakha   -adjr -ins what  -ins =q
+
+\tx takkamị           amarra         mut    hurelti                 egdʒenteken     dʒe   keńeli,
+\mb tat   -kE -mI       amar   -(dU)LE mut    hut   -SEl -t(I)        egdʒen =t(E)kEn dʒe   keńeli
+\ge learn -?? -cond.cvb behind -loc    1pl.in child -pl  -poss.1pl.in big     =restr   well.Y bad
+
+\tx ịawụ   goːniken,     eben ačča ọːrakan,                    nọŋardụtnọ
+\mb ịak -W   goːn -nIkEn   ewen ačča ọː  -REk -E-n(I)            nọŋan -L  -DU  -tEn
+\ge what  -acc say   -sim.cvb Even neg    become -cond.cvb -ep -poss.3sg 3sg      -pl -dat -poss.3pl
+
+\tx tegejetne         họː hịːlụse      bidʒin,       hịːlụse      bidʒin.
+\mb tegeńe -tEn      họː hịːlụs -(h)E bi -DʒI -n(I) hịːlụs -(h)E bi -DʒI -n(I)
+\ge life?   -poss.3pl very   trouble     -excl be -fut -3sg   trouble     -excl be -fut -3sg
+
+\ft If all enter this village and settle, if we teach our children Russian and Sakha and what else, it will be very bad for our
+children, if Evens won't be anymore, their life will be very poor and troubled.
+\ph
+\ru Если все где именно так войдя в поселок если сесть, наши дети если по-русски по-якутски обучить, потом наши дети
+очень большое что-то плохое если эвенов не станут, для них их жизнь будет очень бедственно..
+\ELANBegin 00:04:27.306
+\ELANEnd 00:04:53.488
+\ELANParticipant
+
+\id Burtsev_ID_traditions_066
+\tx Vot    etot,    tarak egdʒen, egdʒenteken     abyčaj     bihin.
+\mb vot    etot     tarak egdʒen  egdʒen =t(E)kEn obyčaj     bi -RI -n(I)
+\ge here.R this.m.R dist  big      big     =restr   tradition.R be -impf.ptc -poss.3sg
+\ft That was a very big tradition.
+\ph
+\gr IBD uses the 'restrictive' particle =t(E)kEn with intensive meaning, not restrictive
+\ru Это был большой обычай.
+\ELANBegin 00:09:38.591
+\ELANEnd 00:09:42.738
+\ELANParticipant
+
+\id Kejmetinova_AA_headmistress_096
+\ft
+\tx Bi   sčotuńun         dasčịm,       bọkụma       ...  ịaw      baktịdʒị, - goːnem
+\mb biː sčot  -W   =ńUn  das   -DʒI -m   bọkụm  -E    *... ịak -W   bak  -RIdʒI   - goːn -R(E)   -m
+\ge 1sg  bill.R -acc =restr cover -fut  -1sg get.fed.up -excl ***  what  -acc find -ant.cvb  - say   -nonfut -1sg
+\ft "I will just cover the bill, don't bother me (I've had enough), (do what you can with) what you find", I said.
+\nt bọkụma -- the same form as in Krivoshapkina_Sofija_life_073, was glossed like this see also BP's comment to this
+\gr asked on 260312: one could also say sčottakam dasčịm, sčotmaːkụ dasčịm; on 270312 when I asked again she said it should
+be sčotutkan dasčịm, and that sčottakam dasčịm is wrong, but sčotmaːku is correct
+\ELANBegin 00:10:50.040
+\ELANEnd 00:10:54.950
+\ELANParticipant
+\ru Я только счет оформлю, не мешай, что найдешь, - сказала
+
+\id Kejmetinova_XA_various_043
+\tx Tar,  tarakam       nọŋan nahaː họːja ukčengererin,               nọŋan kuhimeːk    tụhụnan
+\mb tarak tarakam       nọŋan nahaː họːja ukčen -Gr(E) -RI -n(I)      nọŋan kuhi  =mEːk tuhunan
+\ge dist  in.those.days 3sg      very.Y many     tell   -hab   -pst -poss.3sg 3sg      fight =ptl   about.Y
+
+\tx ukčengererin,               no    haːwdịl, mut    amantị,           eńinti,            muttiki,       mutude,
+\mb ukčen -Gr(E) -RI -n(I)      no    hagdị -L  mut    aman   -t(I)        eńin  -t(I)        mut    -t(E)kI mut    -W   =DE
+\ge tell   -hab   -pst -poss.3sg but.R old     -pl 1pl.in father -poss.1pl.in mother -poss.1pl.in 1pl.in -all    1pl.in -acc =ptl
+
+\tx nọŋman               akmụtta                            Ńụkụlajụ nụwčịwrarịt.
+\mb nọŋan -W   -n(I)     akan          -W   -t(I)        =DE  Nikolaj -W      nụčị -Gr(E) -RI -t(I)
+\ge 3sg      -acc -poss.3sg older.brother -acc -poss.1pl.in =ptl Nikolaj -acc    forbid    -hab   -pst -poss.1pl.in
+
+\ft In those days he told a lot , told only about the war, but our elders, our mother and father forbade him and us (to talk about it).
+\ph
+\gr should be kuhiNmeːk, kuhi- is a verb
+\gr 1pl ending on finite verb of course doesn't fit at all here, should of course be 3pl; the particle =mEːk has a restrictive meaning in
+Sebjan; nụčị- (here glossed as 'forbid') takes accusative case marking, said IVK, she says the accusative is correct here, but when I tried
+to elicit sentences with the verb nụčị- she at first gave dative case (which could, however, be a problem with translating from Russian,
+where 'forbid' takes dative case); but it's not so much 'forbid' directly, but rather 'talk someone out of something, persuade not to do
+something', so 'I forbid my children to eat chocolate' would normally be said as "šakalatụ ehem dʒebukeŋner" (don't let them eat), with
+the verb nụčị- "šakalatụ dʒebutnen nụčịwraram kụŋaldị (at first), corrected to kụŋalbị", kụŋalbị nụčịwraram; she forbids you - again
+first said "mindu" then corrected to "minu"
+\nt
+\gr on 280212 again tried to find out more about the valency of nụčị - it seems this is a very tricky question, because IVK keeps on
+spontaneously giving a dative-marked object and then saying accusative would be better; zapreshali rasskazyvatj = ukčenniwen
+nụčịwrarịtnan, and when I asked whether it would be ŃukulajU she said no, ŃukulajDU, but then corrected herself to Ńukulaju, but
+then doubted, said yes when I asked whether it would be "NukulajDU ukčenniwen nụčịwrarịtnan", but when I asked whether it wasn't
+rather ŃukulajU she corrected the sentence to ŃukulajU ukčenniwen nụčịwrarịtnan; then she explained that 2 accusatives is
+"neponjatno" and that she had therefore changed it to Ńukulajdu, but that this is then ambiguous, because it sounds as if they forbade
+someone to tell Nikolaj; accusative case is OK, and without the verb Ńukulaju nụčịwrarịtnan is "ochenj dazhe xorosho". and her final
+judgement was that even two accusatives would be OK, and better than dative (little_quest_kejm_tulasyn_280212, first 3 minutes)
+\nt
+\gr on 260312 I asked about the restrictive: kuhinmeːk tuhunan, kuhinteken tuhunan, kuhinńun tuhunan are all equally
+possible, same meaning
+\nt
+\ru Тогда он очень много рассказывал, он рассказывал о войне, но старики, наш мать, отец, к нам и нас и его. старшего брата Николая
+запрещали рассказывать. 
+\ELANBegin 00:06:36.812
+\ELANEnd 00:06:56.533
+\ELANParticipant
+
+\id Klim_Nikolaevich_eksponat_017
+\tx Tadụ     čọːŋaːl    heːruken               buollar tadụ     nịːna, nịːnamaːkụńụn
+\mb tarak -DU  čọːŋaːl    heːruk    -E-n(I)      buollar tarak -DU  nịːna  nịːna =mEːk -W   =ńUn
+\ge dist  -dat place.for.dishes saddle.bag -ep-poss.3sg dp.Y    dist  -dat dish      dish     =ptl   -acc =restr
+
+\tx hịngarar             tadụ.
+\mb hịn      -Gr(E) -r   tarak -DU
+\ge shove.into -hab   -3pl dist  -dat
+\ft Into that saddle bag for dishes they put only dishes.
+\ru Там во вьюк посуды там посуда, только лишь посуду кладут.
+\ph
+\gr double restrictive on nịːna (translation session Klim_Nikolaevich_first_half, about 47 min)
+\nt
+\gr 260312 elicited around restrictives: with only one restrictive suffix it would be nịːnamaːkụ hịngarar, or nịːnawńụn
+hịngarar; *nịːnańụnmaːk = impossible, nịːnakkanńụn = OK (=t(E)kEn with the first vowel eliding and then consonant
+assimilation), nịːnamaːktakan = probably OK
+\ELANBegin 00:02:24.480
+\ELANEnd 00:02:30.530
+\ELANParticipant
+
+\id Klim_Nikolaevich_eksponat_042
+\tx Tar   irildu      irildu      este        ịawrar                ere  erew      irildu
+\mb tarak ireli  -DU  ireli  -DU  e   -R(E)   ịa    -Gr(E) -R       erek erek -W   ireli  -DU
+\ge dist  summer -dat summer -dat neg -nonfut do.what -hab   -neg.cvb prox prox -acc summer -dat
+
+\tx ńulgewekkererńun                 er   irildu      er   bọlọńụn      bọlọ     ńan   tuge   er
+\mb nulge   -WEːČ -Gr(E) -r   =ńUn  erek ireli  -DU  erek bọlọnị =ńUn  bọlọnị ńaːn tugeni erek
+\ge migrate -gnr    -hab   -3pl =restr prox summer -dat prox late.autumn  =restr late.autumn  and    winter prox
+
+\tx erbečem        ọːwrar.
+\mb erroːčin -W   ọː -Gr(E) -r
+\ge prox.qual  -acc make  -hab   -3pl
+\ft
+\ru Летом только вот кочуют, это только осенью и зимой так делают.
+\ph
+\gr 260312: 
+\gr ńulgewekkererńun = postojanno i dolgo kochujut; 
+\gr 270312: one can say ńulgewekkererteken, but not *ńulgewekkerermeːk; ja v etom godu tolko rabotala = erek anŋanịdụ
+gurgewčiriwńun, that is a correct and possible form
+\ELANBegin 00:05:33.190
+\ELANEnd 00:05:42.440
+\ELANParticipant
+
+\id Krivoshapkina_AX_1930s_088
+\tx Ńọkaltakanman,         ńulgewečeddi                     ebehelde,      ịalda,
+\mb ńọka -L  =t(E)kEn =mEn nulge   -WEːČ -E-D     -RI       ewen -SEl =DE  ịak -L  =DE
+\ge Sakha   -pl =restr   =neg migrate -gnr    -ep-prog -impf.ptc Even -pl  =ptl what  -pl =ptl
+
+\tx čụkčalda,    jụkagịralda       ịbgat       tegettetne,                          delbi
+\mb čukča -L  =DE  jukagir  -E-L =DE     ịbgọ -Č  teg      -E-Č   -DE       -tEn      delbi
+\ge Chukchi -pl =ptl Yukaghir -ep -pl =ptl good     -ins sit.down -ep-res -purp.cvb -poss.3pl very.Y
+
+\tx uorenče        bejčekel       dụkụptịdụ            takkatnajaktaːkal
+\mb üören -čE    bej -čEkEn -L  dụk -E-B    -RI       -DU  tat   -kEČ -nE     -jEktEːk -E-L
+\ge study.Y -pf.ptc man -plen   -pl write -ep-med -impf.ptc -dat learn -mult -intent -nec.Y    -ep-pl
+
+\tx bịraːhal     emejekteːkel,            ụčụtalal      emejekteːkel,            kuruk
+\mb vrač    -E-L   em   -E  -jEktEːk -E-L   ụčụtal -E-L   em   -E  -jEktEːk -E-L   kuruk
+\ge doctor.R -ep-pl come -ep -nec.Y    -ep-pl teacher.Y   -ep-pl come -ep -nec.Y    -ep-pl always.Y.
+
+\tx ńulgewečepti                    sịːha, keńeli, keńelit     tegečedče
+\mb nulge   -WEːČ -E-B    -RI       sïːha   keńeli  keńeli -Č  teg      -E-Č   -E-D     -čE
+\ge migrate -gnr    -ep-med -impf.ptc mistake.Y bad      bad     -ins sit.down -ep-res -ep-prog -pf.ptc
+
+\tx bihes           ebit,      goːnče.
+\mb bi -R(E)   -s   ebit       goːn -čE
+\ge be -nonfut -2pl it.seems.Y say   -pf.ptc
+
+\ft Not only Sakha, in order for the migrating Evens, Chukchi, Yukaghirs to live well, very educated people have to come
+and teach them to read and write, doctors have to come, teachers have to come, it is wrong to always migrate, you live
+badly, he said.
+\ph
+\gr (trans_file 01_quest_2010 1:22:30) keńelit tegečedče bihes = non-witnessed past: vy ploxo poživali (dolgo žili),
+tegečedčehne = incorrect; tegečeddihnen = would be correct if he had witnessed how they lived, but he didn't see how
+they lived in the past, he concludes this from stories or evidence he sees now; (04_quest_2010, kuruk nulgewečepti =
+kuruk nulgewetti, no difference
+\gr asked on 260312: one could also say ńọkalńụnman with no difference in meaning as well as ńọkalmaːkman
+\ELANBegin 00:10:41.080
+\ELANEnd 00:11:10.550
+\ELANParticipant
+\ru Не только якуты, и кочующие эти народности, чтобы хорошо жили, очень образованные люди должны учить их
+письму, должны приехать врачи, учителя, постоянно кочевать это неправильно, вы живете плохо.
+
+\id Krivoshapkina_Ija_memories_141
+\tx Ammụ           buollaγịna egdʒenńun    nụŋalkan,  karabịn gerbe nụŋalkan.
+\mb aman   -W        buollaγïna  egdʒen =ńUn  nụŋa -lkEn karabịn gerbe nụŋa -lkEn
+\ge father -poss.1sg dp.Y          big     =restr gun     -prop carbine.R name  gun     -prop
+
+\ft But my father only had a big gun, a Karabiner.
+\ph
+\gr 270312: egdʒenńun nụŋalkan = focus on the fact that there is only a BIG gun, tol'ko bol'shoe ruzhje bylo; one could also
+say egdʒen nụŋalkanńụn, then the focus is on the fact that he has only 1 gun, tol'ko ruzhje bylo (odno), bol'shoe
+\ru А у отца только большое ружье, карабин.
+\ELANBegin 00:13:31.520
+\ELANEnd 00:13:36.610
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_159
+\tx Ịawan                 čalmịwanńụn                   horugelde             gerbe ọːdnị,
+\mb ịak -W   -E-n(I)      čalmị   -W   -E-n(I)      =ńUn  hor -U    -GEr        gerbe ọː  -n(I)
+\ge what  -acc -ep-poss.3sg intestines -acc -ep-poss.3sg =restr go  -caus -imp.1pl.in name  become -3sg
+
+\tx dọːwan,               tar   haːkman,                 mịawman                    igin  horugelde
+\mb dọː -W   -E-n(I)      tarak haːkan -W   -E-n(I)      mịawụn -W   -E-n(I)      iŋin hor -U    -GEr
+\ge inside -acc -ep-poss.3sg dist  liver   -acc -ep-poss.3sg heart      -acc -ep-poss.3sg etc.Y go  -caus -imp.1pl.in
+
+\tx gerbe ọːdnị.
+\mb gerbe ọː  -n(I)
+\ge name  become -3sg
+
+\ft We decided to take only the intestines, the liver, the heart.
+\ru Мы решили взять только вот внутренности, печень, сердце решили взять.
+\ph
+\gr 270312: čalmịmaːkban mozhno skazatj, i mozhno tozhe čalmịwantakan
+\nt During the translation Ija Krivoshapkina said they probably didn't even take the heart at that time (though of course they
+went back later and fetched all the remaining meat).
+\ELANBegin 00:15:00.260
+\ELANEnd 00:15:09.140
+\ELANParticipant
+
+\id Krivoshapkina_Ija_memories_196
+\tx Tara  uldeŋur           himbiːr       himbiːr       ečelti               emeːne,        ịala
+\mb tarak ulre -ŋ  -WUr     himbiːr       himbiːr       e   -RI -t(I)         emeːn -R       ịak -(dU)LE
+\ge dist  meat -aln -prfl.pl all.the.same.Y all.the.same.Y neg -pst -poss.1pl.in leave  -neg.cvb what  -loc
+
+\tx ịawur        heːruku        nọːdarịdʒụr   amarra         gadʒịp          goːniken      ịaw
+\mb ịak -WUr     heːruk    -W   nọːda -RIdʒI -L   amar   -(dU)LE ga   -DʒI -p      goːn -nIkEn   ịak -W
+\ge what  -prfl.pl saddle.bag -acc throw    -ant.cvb -pl behind -loc    take -fut  -1pl.in say   -sim.cvb what  -acc
+
+\tx uldemeːku       emurit,                      omen heːruku        nọːdarịdʒụr   ọttọn.
+\mb ulre =mEːk -W   em   -U    -RI -t(I)         omen heːruk    -W   nọːda -RIdʒI -L   ọttọn
+\ge meat =restr -acc come -caus -pst -poss.1pl.in one  saddle.bag -acc throw    -ant.cvb -pl dp.Y
+
+\ft That meat we didn't leave, we only left one saddle bag saying "we will get that later", we brought only the meat, having
+left one saddle bag.
+\ru Это мясо мы все равно не оставили, просто выбросили вьюк (с вещами), что возьмем потом, только мясо привезли,
+один вьюк бросили.
+\ph
+\gr 260312: uldemeːku emurit = uldetkem / uldekkem emurit = uldewńun emurit; 270312: said it should probably be
+uldewteken, but that both forms are used, uldewteken and uldetkem
+\nt So they left the saddle bag of the dead reindeer behind, and later that dead reindeer was also eaten.
+\ELANBegin 00:18:00.020
+\ELANEnd 00:18:12.560
+\ELANParticipant
+
+\id Krivoshapkina_Marta_bear_009
+\ref 1:31
+\tx Ịaktakan,    tar   ọːn ụjamkalbụ           igin  delbi kojeːttep.
+\mb ịak =t(E)kEn tarak ọːn ụjamkan      -L  -W   iŋin delbi             it  -R(E)   -p
+\ge what  =restr   dist  how    mountain.sheep -pl -acc etc.Y very.Y            see -nonfut -1pl.in
+
+\ft And we also watched the mountain sheep closely.
+\ru Что именно, это как тоже пристально смотрели на горных баранов.
+\ph
+\gr when there are several objects that are being enumerated, then ịaktakan has a meaning of "exactly what" - though here
+the beginning is just empty words
+\nt
+\gr asked on 260312: ịaktakan = čto imenno; *ịakńụn, *ịakmaːk are not possible with a meaning of čto imenno, though the
+could occur as "tolko"; ịaktakan tala bihni "čto imenno tam estj, kakie predmety tam estj"
+
+\id Krivoshapkin_SP_oxota_080
+\tx Bej anaːn       ehni           bụltụjgarar,      meːndusńun                emneken.
+\mb bej anaːn       e -R(E) -n(I)  bụltaː -Gr(E) -r   meːn -DU  -s(I)     =ńUn  em   -REk -E-n(I)
+\ge man on.purpose.Y neg -nfut -3sg hunt.Y    -hab   -3pl refl  -dat -poss.2sg =restr come -cond.cvb -ep -poss.3sg
+
+\ft A person doesn't hunt (bears) on purpose, only if it comes to you.
+\ph
+\gr 280312: meːndusńun emneken = meːndus emnekenńun, no difference; meːndusteken emneken is OK, *meːnmeːktus =
+no
+\ru Человек специально не охотится, только если к тебе придет.
+\ELANBegin 00:06:04.930
+\ELANEnd 00:06:11.660
+\ELANParticipant
+
+\id Krivoshapkin_SP_oxota_215
+\tx Himbiːr       ịak bej kuruk     ọrọnńụn           uldedʒin           biwren.
+\mb himbiːr       ịak bej kuruk     ọrọn          =ńUn  ulre -Č  -n(I)     bi -Gr(E) -n(I)
+\ge all.the.same.Y what  man always.Y. domestic.reindeer =restr meat -ins -poss.3sg be -hab   -3sg
+\ft All the same a person only lives off reindeer meat.
+\ph
+\gr ọrọnńụn uldedʒin biwren = ọrọn uldedʒinńun biwren; ọrọntakan uldedʒin biwren = OK; on 280312 I thought she'd
+said with -mEːk it wouldn't work, that was part of what didn't get recorded; when I asked on 290312 she said ọrmaːk
+uldedʒin biwren would probably be OK
+\ru Все равно человек только на оленнем мясе бывает.
+\ELANBegin 00:16:38.450
+\ELANEnd 00:16:48.030
+\ELANParticipant SPK
+
+\id RDA_TPK_birth_023
+\tx Baldadajńụn                    emdʒin
+\mb balda   -DE       -J       =ńUn  em   -DʒI -n(I)
+\ge be.born -purp.cvb -prfl.sg =restr come -fut -3sg
+\ft She comes only to give birth.
+\ph
+\gr 290312: baldadajńụn emdʒin = baldadajtakan emdʒin; *baldadajmaːk emdʒin = no
+\ru Приходитт только чтобы родить.
+\ELANBegin 00:01:36.450
+\ELANEnd 00:01:37.360
+\ELANParticipant T
+
+\id Stepanova_ZA_naled_094
+\tx Tarịt dʒe   mịan omeni      stada  dʒụːn          ačča, vasmọj, dʒapkịńụn       stada  dʒụːlkan.
+\mb tarịt dʒe   mịan omen -(G)I stado  dʒụː -n(I)     ačča  vos'moj   dʒapkan -(G)I =ńUn  stado  dʒụː -lkEn
+\ge then    well.Y ten    one  -ord  herd.R house    -poss.3sg neg     eighth.R  eight    -ord  =restr herd.R house    -prop
+\ft Well then in the eleventh brigade there was no house, only the eighth brigade had a house.
+\ph
+\gr 270312: dʒapkịńụn stada dʒụːlkan = dʒapkị stadańụn dʒụːlkan, no big difference
+\ru В 11м стаде дома нету, только в 8м стаде есть дом.
+\ELANBegin 00:09:28.920
+\ELANEnd 00:09:36.020
+\ELANParticipant
+
+\id Tulasynova_LA_family_history_046
+\tx Anï  dʒulehki           kuruk     iduk          tadụk       altatnịkanńụn            biweččinni          goːnče.
+\mb anï  dʒul -E  -skI      kuruk     irek  -DUk(U) tarak -DUk(U) alta     -Č  -nIkEn   =ńUn  bi -WEːČ -DʒI -nrI goːn -čE
+\ge now.Y front -ep -advb.all always.Y. which -abl    dist  -abl    persuade -res -sim.cvb =restr be -gnr    -fut  -2sg say   -pf.ptc
+
+\ft "And in future you will always wander only asking from here from there", he said.
+\ph
+\gr 290312: altatnịkanńụn = altatnịkantakan; *altatnịkanmaːk = no, *altatmaːknịkan = no
+\ru В будущем всегда ты будешь ходить только отовсюду выпрашивая.
+\ELANBegin 00:04:10.523
+\ELANEnd 00:04:17.621
+\ELANParticipant

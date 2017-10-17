@@ -1,0 +1,711 @@
+\_sh v3.0  1192 Text
+
+\id Egorova_RM_Uindja_000_metadata
+\ref Recorded on 24 June 2009 in Esso by Brigitte Pakendorf. RME came by the flat BP and NA are renting in Esso in the afternoon to record two
+fairy tales (this one and the session Egorova_RM_fox_wolf_Esso_240609). The recording was done in the living room; apart from RME, only BP was
+present. A big fly flew about the room at the beginning of the recording, otherwise it was mostly quiet.
+\qu Transcribed by Natalia Aralova with RME, translated into Russian by RME, glossed by NA. Funding by the Volkswagen Foundation (DoBeS grant). Speaker
+abbreviation = RME.
+\ref Rimma Maksimovna Egorova was born in 1954, i.e. she was 54-55 at the time of the recording. She has a college-level education and had variously
+worked as the person who projects movies, a junior nurse, and as a cleaner in the post office as well as doing the laundry in the old people's home.
+She is married to a Russian. She is the sister of Raisa Maksimovna Solodikova.
+
+\id Egorova_RM_Uindja_001
+\tx 24  ijunja 2009 goda selo Esso, Egorova Rimma Maximovna
+\mb
+\ge
+\ft the 24-th of June 2009, village of Esso, Egorova Rimma Maksimovna
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:12.110
+\ELANParticipant BP
+\ev
+\ru 24 июня 2009 года село Эссо, Егорова Римма Максимовна
+
+\id Egorova_RM_Uindja_002
+\tx Ọrọtịč     teːleŋdʒin        ńịmkam.
+\ft ...will tell a tale in Even.
+\ELANBegin 00:00:12.110
+\ELANEnd 00:00:17.830
+\ELANParticipant BP
+\ev
+\ru ... по-эвенски будет рассказывать сказку.
+
+\id Egorova_RM_Uindja_003
+\tx ... ńịmkam.     Ńịmkan gerben          Ụịndʒa.
+\mb     ńịmkan -W   ńịmkan gerbe -n(I)     Ụịndʒa
+\ge     tale      -acc tale      name  -poss.3sg Uindja
+
+\ft ... a tale. The title of the tale is Uindja.
+\ph The proper name might be Ụịńdʒa with ń, but it can be also palatalasation effect. So I trinscribed the name only with n.  
+\ELANBegin 00:00:17.830
+\ELANEnd 00:00:24.520
+\ELANParticipant RME
+\ev
+\ru ... сказку. Сказка называется Уиндя.
+
+\id Egorova_RM_Uindja_004
+\tx Bidditen                Ụịndʒa agdịlnụmị            bụjịn.
+\mb bi -D    -RI  -tEn      Ụịndʒa hagdị -L  -ńUn -J       bụj  -E-n(I)
+\ge be -prog -pst -poss.3pl Uindja      old     -pl -com  -prfl.sg forest -ep-poss.3sg
+
+\ft Uindja and his older lived in the forest.
+\ph aγdilnumi
+\gr Bidditen: plural because of comitative NP, but singular is also possible. agdịlnụmị (comment for the reflrxive marker): the variant in -mi occurs
+after stems ending in the 'primary n', so the end -n in comitative marker is 'primary n'; the variant in -bi is impossible here. bụjịn is equivalent to
+bụjla and bụjdụla. 
+\nt
+\ELANBegin 00:00:24.520
+\ELANEnd 00:00:28.990
+\ELANParticipant RME
+\ev
+\ru Жил Уиндя со своими старшими в лесу.
+
+\id Egorova_RM_Uindja_005
+\tx Ọrčartan                           bisin.
+\mb ọrọn          -čEn -L  -tEn      bi -RI  -n(I)
+\ge domestic.reindeer -dim  -pl -poss.3pl be -pst -poss.3sg
+
+\ft They had reindeers.
+\ph Ọrčaːrtan
+\gr NA (2009): Again the number on subject and verb is not agreed. 1 reindeer (with dim) is ọrčan,  many reindeer -- ọrčar.  Ọrčartan bisiten is also possible. Ọrčatan bisin means 'they
+had a reindeer herd'
+\nt
+\gr BP, 09.06.2016: orčartan = malo olenej bylo, not malenkie
+\nt
+\ELANBegin 00:00:28.990
+\ELANEnd 00:00:31.790
+\ELANParticipant RME
+\ev
+\ru Олешки у них были.
+
+\id Egorova_RM_Uindja_006
+\tx Nan    omneken        Ụịndʒaw     agdịlnị           goːne        oredʒilmi.
+\mb ńaːn omen -REkEn    Ụịndʒa -W   hagdị -L  -n(I)     goːn -R(E)   hor -E-D       -L    -mI
+\ge and    one  -iter.adv Uindja      -acc old     -pl -poss.3sg say   -nonfut go  -ep-prog   -inch -cond.cvb
+
+\ft Once his older told him before leaving:
+\ph omnakan, aγdilni  в тексте gu:nni,  a не guːniten             uːredilmi
+\gr uredilmi: *urmi, uredmi -- at the moment of leaving (v moment uxoda), uredilmi -- when they were starting to go. uridelliten -- sobiralisj uxoditj,
+uridditen -- uxodili
+\gr 06.02.13 (questions13, 18:15) Uindʒaw goːnni = Uindʒatkị goːnni = Uindʒadụ goːnni, she said no difference, but I'm not so sure whether she just
+accepted everything
+\ELANBegin 00:00:31.790
+\ELANEnd 00:00:36.230
+\ELANParticipant RME
+\ev
+\ru Однажды Уинде старшие сказали, уходя:
+
+\id Egorova_RM_Uindja_007
+\tx Ụịndʒa, dʒụːdụ  bidŋenni,             eniken           awụskịda             orre.
+\mb Ụịndʒa  dʒụː -DU  bi -D    -ŋE     -nrI e   -niken       aw    -E  -skI      =DE  hor -R
+\ge Uindja       house    -dat be -prog -pol.imp -2sg neg -fut.proh.sg where -ep -advb.all =ptl go  -neg.cvb
+
+\ft Uindja, stay at home, don't go anywhere.
+\ph urre 
+\gr  bidŋenni : *biŋenni *bidʒili, but possible forms are bili, bidli (semantically equivalent). bidŋenni is "stay here for a long time" and bili, bidni are
+just "stay here"
+\gr 06.02.13 (questions13, 18:45) nọŋan dʒụːdụ bidŋen = OK, pustj on budet doma; bi dʒụːdụ bidŋewu = OK, pustj ja budu doma; dʒụːdụ bidŋenni
+= budj doma --> dŋe here must be the future participle
+\gr 08.02.13 (questions15, 35:00) dʒụːdụ biŋenni = doma sidi; dʒụːdị biŋewu = pustj ja budu doma sidetj; dʒụːlajị emnidʒi mamatkị goːŋenni = OK,
+after coming home tell your mother; dʒụːlajị emnidʒi mamatkị goːŋewu = OK, correct --> this would make it seem as if the "polite imperative" can
+be used with persons other than 2nd, which is odd, because it's supposed to occur only with 2nd person
+\ELANBegin 00:00:36.230
+\ELANEnd 00:00:40.690
+\ELANParticipant RME
+\ev
+\ru Уиндя, будь дома, никуда не уходи.
+
+\id Egorova_RM_Uindja_008
+\tx Ọkaːt egdʒen ọːdịn.
+\mb ọkaːt egdʒen ọː  -RI  -n(I)
+\ge river    big     become -pst -poss.3sg
+\ft The river became high.
+\ELANBegin 00:00:40.690
+\ELANEnd 00:00:43.250
+\ELANParticipant RME
+\ev
+\ru Речка стала большая.
+
+\id Egorova_RM_Uindja_009
+\tx Tikčikes,                edʒi        olloːtkir      talị.
+\mb tik  -DʒIk -E  -s(I)     e   -LI      hollot -kIl     tarak -(dU)LI
+\ge fall -admon -ep -poss.2sg neg -imp.2sg go     -proh.sg dist  -prol
+
+\ft Don't go there, or else you fall.
+\ph
+\gr tikčikes: bi tikriwu -- I fell, tikedden -- he is falling, tikčik -- [Look after the child, or else he] will fall (a to upadet), tikčikeriwun -- [help us, or else
+we] will fall (a to my upadem), tikčekesen -- or else you will fall (a to vy upadete). olloːtker: predosteregateljnoe naklonenie + neg.cnv
+\nt
+\ev
+\ELANBegin 00:00:43.250
+\ELANEnd 00:00:46.680
+\ELANParticipant RME
+\ev
+\ru Упадешь, не ходи там.
+
+\id Egorova_RM_Uindja_010
+\tx Nan    orriten            agdịŋịlnị,             Ụịndʒa bidillen.
+\mb ńaːn hor -RI  -tEn      hagdị -ŋ  -E-L   -n(I)     Ụịndʒa bi -D    -L    -R(E)   -n(I)
+\ge and    go  -pst -poss.3pl old     -aln -ep-pl -poss.3sg Uindja      be -prog -inch -nonfut -3sg
+
+\ft His older brothers have gone and he stayed. 
+\ph uːrriten,  aγdeγŋilni -- something like dissimilation of ŋ?
+\gr nuː -- younger brother, nuːŋilbu -- my younger brothers, nuːŋilni -- his younger brothers.
+\gr ụlaːptịn = bidillen, to zhe samoe, no difference (06.02.13, questions13, 19:45)
+\ELANBegin 00:00:46.680
+\ELANEnd 00:00:50.650
+\ELANParticipant RME
+\ev
+\ru И ушли старшие, Уиндя остался.
+
+\id Egorova_RM_Uindja_011
+\tx Mergečidden                           : ịamịnan    goːniten            edeku                   orre         ọkaːttakị.
+\mb mergeːt -E-D     -R(E)   -E-n(I)        ịamị =nEn  goːn -RI  -tEn      e   -DE       -W        hor -R       ọkaːt -t(E)kI
+\ge think    -ep-prog -nonfut -ep-poss.3sg   why      =emph say   -pst -poss.3pl neg -purp.cvb -poss.1sg go  -neg.cvb river    -all
+
+\ft He thinks: why did they say, I should not go to the river?
+\ph guːniten urre
+\gr
+\ELANBegin 00:00:50.650
+\ELANEnd 00:00:56.250
+\ELANParticipant RME
+\ev
+\ru Думает, почему же они сказали, чтобы я не ходил к реке.
+
+\id Egorova_RM_Uindja_012
+\tx Ịawụt      nipkette           tala.
+\mb ịak =(W)UttE nipke -Č  -R(E)   tarak -(dU)LE
+\ge what  =indef   close -res -nonfut dist  -loc
+\ft They hide something there.
+\ELANBegin 00:00:56.250
+\ELANEnd 00:00:58.940
+\ELANParticipant RME
+\ev
+\ru Что-то прячут там.
+
+\id Egorova_RM_Uindja_013
+\tx Orrin              Ụịndʒa ọkaːttakị.
+\mb hor -RI  -n(I)     Ụịndʒa ọkaːt -t(E)kI
+\ge go  -pst -poss.3sg Uindja      river    -all
+
+\ft Uindja went to the river.
+\ph urrin
+\ELANBegin 00:00:58.940
+\ELANEnd 00:01:01.180
+\ELANParticipant RME
+\ev
+\ru Пошел Уиндя к реке.
+
+\id Egorova_RM_Uindja_014
+\tx Eŋečidden                             ịamị itten.
+\mb eŋen     -Č  -E-D     -R(E)   -E-n(I) ịamị it  -R(E)   -n(I)
+\ge come.look -res -ep-prog -nonfut -ep-3sg why      see -nonfut -3sg
+
+\ft He looks in and sees...
+\ELANBegin 00:01:01.180
+\ELANEnd 00:01:04.480
+\ELANParticipant RME
+\ev
+\ru Заглядывает и видит...
+
+\id Egorova_RM_Uindja_015
+\tx Moːle        bej nọŋantakịn kojeːčidden.
+\mb moː  -(dU)LE bej nọŋantakịn kojeːt -E-D     -R(E)   -E-n(I)
+\ge water -loc    man 3sg.all         look.at -ep-prog -nonfut -ep-3sg
+
+\ft There is a little man in the water staring at him.
+\ph Moːla
+\ELANBegin 00:01:04.480
+\ELANEnd 00:01:07.600
+\ELANParticipant RME
+\ev
+\ru В воде человек на него смотрит.
+
+\id Egorova_RM_Uindja_016
+\tx Tačịnda          tetetten... tetutten                        Ụịndʒagčịn.
+\mb tarọːčịn =DE      tet     tet    -U    -Č  -R(E)   -n(I) Ụịndʒa -G(E)čIn
+\ge dist.qual      =ptl  put.on     put.on -caus -res -nonfut -3sg  Uindja      -sml
+
+\ft He is dressed like Uindja.
+\ph Ụịndʒaγčịn
+\gr 06.02.13 (questions13, 20:30) ja rebenka odewaju = bi kụŋaw teturem; rebenok odet v shapke = kụŋa tetutten aːwam (lit rebenok odet shapku)
+or kụŋa awattan (odet v shapke, one word); bi kụŋaw tetuttem = NO (that would be ja odet v rebenke); 
+\nt tetetten is false, then the speaker repeated the correct form.
+\ELANBegin 00:01:07.600
+\ELANEnd 00:01:12.580
+\ELANParticipant RME
+\ev
+\ru Так же одет, как Уиндя.
+
+\id Egorova_RM_Uindja_017
+\tx Nan    Ụịndʒa kọːmńamaːčịdʒịllan                      taraktakị.
+\mb ńaːn Ụịndʒa kọːmńal -mEČ -E  -D    -E  -L    -R(E) -n(I)  tarak -t(E)kI
+\ge and    Uindja      pull.face   -rec  -ep -prog -ep -inch -nonfut -3sg dist  -all
+
+\ft Then Uindja started grimacing at him.
+\ph
+\gr 06.02.13 (questions13, 22:15) kọmńallan = ? kọmńaladdan = on sidit s krivoj rozhoj; kọmńallam = ja sejchas sizhu krivaja takaja; kọmńaram =
+NO; kọmńaladʒịllam = she said it exists, but when I said it means "I start to pull a face" she repeated it as kọmńamačịdʒịllan
+\ELANBegin 00:01:12.580
+\ELANEnd 00:01:17.470
+\ELANParticipant RME
+\ev
+\ru Тогда Уиндя стал ему строить рожи.
+
+\id Egorova_RM_Uindja_018
+\tx Gịakịč    ọgnaddịn.
+\mb gịakị -Č  họgna -D    -RI  -n(I)
+\ge various   -ins move    -prog -pst -poss.3sg
+
+\ft He was moving in different ways.
+\ph Giekič  oγnadʤin
+\ELANBegin 00:01:17.470
+\ELANEnd 00:01:20.860
+\ELANParticipant RME
+\ev
+\ru Всяко шевелился.
+
+\id Egorova_RM_Uindja_019
+\tx Ịrkaddịn,               tarakasị     ịawda         esni              goːweːtte,
+\mb ịrka -D    -RI  -n(I)     tarak -E=sI    ịak -W   =DE  e   -R(E)   -n(I) goːn -WEːČ -R
+\ge scream -prog -pst -poss.3sg dist  -ep=emph what  -acc =ptl neg -nonfut -3sg  say   -gnr    -neg.cvb
+
+\tx inimeddinteken.
+\mb inim  -E  -D    -RI  -n(I)     =t(E)kEn
+\ge smile -ep -prog -pst -poss.3sg =restr
+
+\ft He cryed, but the other doesn't say anything, just smiles.
+\ph inim and ińim have the same n?
+\gr
+\ELANBegin 00:01:20.860
+\ELANEnd 00:01:26.000
+\ELANParticipant RME
+\ev
+\ru Кричал, а тот ничего не говорит, только улыбается.
+
+\id Egorova_RM_Uindja_020
+\tx Nan    Ụịndʒa ŋaːldʒị        dawsadʒịllịn,               tarakta    dawsan.
+\mb ńaːn Ụịndʒa ŋaːl -DʒI        dawsa -D    -L    -RI  -n(I)     tarak =DE  dawsa -n(I)
+\ge and    Uindja      hand   -ins.prfl.sg wave  -prog -inch -pst -poss.3sg dist  =ptl wave  -3sg
+
+\ft Then Uindja started waving with his hands, and the other also waves.
+\ph
+\ELANBegin 00:01:26.000
+\ELANEnd 00:01:30.150
+\ELANParticipant RME
+\ev
+\ru Уиндя стал своими руками махать, и тот тоже машет.
+
+\id Egorova_RM_Uindja_021
+\tx Nan    Ụịndʒańdʒakan         goːnni     :
+\mb ńaːn Ụịndʒa -ńdʒE -KEn     goːn -n(I)
+\ge and    Uindja      -aug    -dim.int say   -3sg
+
+\ft So the big Uindja says:
+\ph guːnni
+\gr 06.02.13 (questions13, 24:45) Uińdʒańdʒakan = vot sejchas govorit, imenno sejchas; Uińdʒańdʒa goːnni = bolshoj Uindja govorit, and not further
+attitudinal nuance; Uińdʒačan = OK, Uińdʒakaja = OK, but negative attitude, kogda otricatelno otnosishsja, asikaja, bejkeje = otricatelnye
+emotsii; Uińdʒakakan = OK
+\nt Ụịndʒańdʒakan  aug+dim? Ụịndʒańdʒa -- big Uindja, *Ụịndʒakan, ŋeːluki-- wolf, ŋeːlukińdʒeken -- big wolf (boljshoj, nepovorotlivyj), nimek --
+neighbour, nimekeńdʒeken -- big neighbour, but he still tries to do something... Not really clear, if it is a suffix or a combination of suffixes and its
+meaning
+\ELANBegin 00:01:30.150
+\ELANEnd 00:01:32.620
+\ELANParticipant RME
+\ev
+\ru И вот большой Уиндя говорит:
+
+\id Egorova_RM_Uindja_022
+\tx Kọg, ịamị esenni           torer?         Eːw ọkaːt ọịttan?
+\mb Kọg  ịamị e   -R(E)   -nrI tore  -R       ew   ọkaːt họịt -R(E)   -n(I)
+\ge hey    why      neg -nonfut -2sg speak -neg.cvb oh   river    disturb  -nonfut -3sg
+
+\ft Hey, why don't you speak? Does the river disturb you?
+\ph Kọγ, E(ː)w
+\gr
+\nt E:w doesn't express any surprise or admiration here, but it is the most close item I could find. Here it is someting like "or" in interrogatives. Eːw i
+ollotis? -- Or was it you who came? ... but also: Ni ollotin: Ịvangụ, Mačịlịgụ? -- Who has come: Ivan or Vasiij? * Ịvangụ eːw Mačịlịgụ
+\ELANBegin 00:01:32.620
+\ELANEnd 00:01:38.880
+\ELANParticipant RME
+\ev
+\ru Эй, почему ты не говоришь? Что река мешает?
+
+\id Egorova_RM_Uindja_023
+\tx Tarak ịawda         ịrkanda         tačịnda.
+\mb tarak ịak -W   =DE  ịrka -n(I) =DE  tarọːčịn =DE
+\ge dist  what  -acc =ptl scream -3sg  =ptl dist.qual      =ptl
+
+\ft And this one also cries something.
+\ELANBegin 00:01:38.880
+\ELANEnd 00:01:42.220
+\ELANParticipant RME
+\ev
+\ru И этот вроде что-то кричит.
+
+\id Egorova_RM_Uindja_024
+\tx Ńanasi      Ụịndʒa goːnni     :
+\mb ńaːn =sI   Ụịndʒa goːn -n(I)
+\ge and    =emph Uindja      say   -3sg
+
+\ft So Uindj says:
+\ph nanesi guːnni
+\gr
+\ELANBegin 00:01:42.220
+\ELANEnd 00:01:45.390
+\ELANParticipant RME
+\ev
+\ru И вот Уиндя говорит:
+
+\id Egorova_RM_Uindja_025
+\tx Ge,   kojeːtteku                 ọːn nurgeweːčinni,           bide      nurgendʒim            tiːke.
+\mb ge    kojeːt -DE       -W        ọːn nurge -WEːČ -R(E)   -nrI biː =DE  nurge -n    -DʒI -m   tiek
+\ge exclm look.at -purp.cvb -poss.1sg how    dance -gnr    -nonfut -2sg 1sg  =ptl dance -mult -fut  -1sg now
+
+\ft
+\ph ga    kojeːttaku
+\gr  Ge orger-- let's go, she pronounces very carefully with e.
+\ELANBegin 00:01:45.390
+\ELANEnd 00:01:50.150
+\ELANParticipant RME
+\ev
+\ru Давай, посмотрю, как ты танцуешь, и я тоже буду сейчас.
+
+\id Egorova_RM_Uindja_026
+\tx Nurgenedʒillen                          Ụịndʒa, torekli         nurgeweːtten.
+\mb nurge -n    -E  -D    -L    -R(E) -n(I)  Ụịndʒa  tor   -klI      nurge -WEːČ -R(E) -n(I)
+\ge dance -mult -ep -prog -inch -nonfut -3sg Uindja       earth -all.prol dance -gnr    -nonfut -3sg
+
+\ft Uindja started dancing, he is dancing [bending] to the floor.
+\ph  turekli
+\gr
+\nt
+\qu
+\ELANBegin 00:01:50.150
+\ELANEnd 00:01:53.860
+\ELANParticipant RME
+\ev
+\ru Стал Уиндя нургели танцевать, до земли танцует.
+
+\id Egorova_RM_Uindja_027
+\tx Tarakta    tačịnda          dʒọːŋịn.
+\mb tarak =DE  tarọːčịn =DE  dʒọːŋị -n(I)
+\ge dist  =ptl dist.qual      =ptl repeat        -3sg
+\ft Another one is repeating.
+\ELANBegin 00:01:53.860
+\ELANEnd 00:01:55.930
+\ELANParticipant RME
+\ev
+\ru И тот так же повторяет.
+
+\id Egorova_RM_Uindja_028
+\tx Ńaːn Ụịndʒa tačịn       uŋeddidʒi           oseːledʒeːnnin,                       aːssịn                  ńaːn.
+\mb ńaːn Ụịndʒa tarọːčịn uŋ -E-D     -RIdʒI  oseːl       -E  -dʒEːn -RI  -n(I)     aːs        -RI  -n(I)     ńaːn
+\ge and    Uindja      dist.qual      do  -ep-prog -ant.cvb become.tired -ep -dur     -pst -poss.3sg be.offended -pst -poss.3sg and
+
+\ft After doing that Uindja got tired and offended.
+\ph
+\gr  
+\nt
+\qu
+\ELANBegin 00:01:55.930
+\ELANEnd 00:02:02.720
+\ELANParticipant RME
+\ev
+\ru Уиндя, так поделав, устал, обиделся.
+
+\id Egorova_RM_Uindja_029
+\tx Goːnni,    ịaw      minu         oːsejinni?
+\mb goːn -n(I) ịak -W   min     -W   oːsej  -E  -nrI
+\ge say   -3sg  what  -acc 1sg.obl -acc tease   -ep -2sg
+
+\ft He says: why do you tease me?
+\ph Guːnni osajịnnị!! but in Top and in Robbek it is oːsej, RME has clear osaj! 
+\gr   osainni -- not in dictionaries... : 1Sg ọːsaịram 2Sg ọːsaịnnị 3Sg ọːsaịran 1Pl.ex ọːsaịrụ 2Pl ọːsaịs 3Pl ọːsaịra
+\gr 06.02.13 (questions13, 26:45) oːsejinni = draznish, ịrkaŋịnnị = shutish
+\ELANBegin 00:02:02.720
+\ELANEnd 00:02:06.380
+\ELANParticipant RME
+\ev
+\ru Говорит: зачем меня дразнишь?
+
+\id Egorova_RM_Uindja_030
+\tx Goːnni     :   tiːk, ge,   dịlmatkar,         ńuːli!
+\mb goːn -n(I)     tiek   ge    dịlmat -GEr        ńoː -LI
+\ge say   -3sg      now    exclm fight    -imp.1pl.in exit  -imp.2sg
+
+\ft He says: hey, let's fight, come here!
+\ph Guːnni
+\gr 06.02.13 (questions13, 27:30) bi dịllam = NO; bi dịlmattam = OK, bi dịlmattam nọŋannụn; bi dịlmattam nọŋman = NO
+\nt
+\ELANBegin 00:02:06.380
+\ELANEnd 00:02:09.790
+\ELANParticipant RME
+\ev
+\ru Говорит : сейчас давай будем бороться, выходи!
+
+\id Egorova_RM_Uindja_031
+\tx Tarakasị     ińinnen,           tačịnda          eːrinni          Ụịndʒaw.
+\mb tarak -E=sI    ińin -R(E)   -n(I) tarọːčịn =DE  eːri -n    -n(I) Ụịndʒa -W
+\ge dist  -ep=emph laugh -nonfut -3sg  dist.qual      =ptl call  -mult -3sg  Uindja      -acc
+
+\ft
+\ph
+\gr 1Sg eːrinnem, 2Sg eːrinenni, 3Sg eːrinni, 1Pl.ex eːrinnu, 2Pl erinis, 3Pl eːrinne  In the dictionary there is only variant eːridej, can -n- be a
+multiplicative? comment from RME: eːrisli -- call him now
+\nt  
+\ELANBegin 00:02:09.790
+\ELANEnd 00:02:13.840
+\ELANParticipant RME
+\ev
+\ru А тот смеется, тоже так же зовет Уиндю.
+
+\id Egorova_RM_Uindja_032
+\tx Ńan   Ụịndʒa ọːdịda,      tịkụladdanasị,                       dilŋiŋčin        moːle        epkendej
+\mb ńaːn Ụịndʒa họː -DI   =DE  tịkụl -E  -D    -R(E) -n(I)  -E  =sI   dʒilŋuŋči -n(I) moː  -(dU)LE hepken -DE  -J
+\ge and    Uindja      very   -adjr =ptl get.angry -ep -prog -nonfut -3sg -ep =emph jump          -3sg  water -loc    catch  -purp.cvb  -prfl.sg
+
+\tx taraw.
+\mb tarak -W
+\ge dist  -acc
+
+\ft After that Undja got angry much more, he jumped in the water to catch that guy.
+\ph
+\gr 1) ọːdịda : what is -dị-? ọːdị -- more, to a large degree, E. g. nọŋan ọːdị tịkụllịn -- he got  angrier. There is also a word ọdịč: nọŋan ọdịč tịkụllịn -- he
+got  angrier. ọdịkakan --  a little bit more 2) dilŋiŋči : PST-1SG dilŋiŋčiriwu,  PST-2Sg dilŋiŋčiris, FUT-1SG dilŋiŋčidʒim , IMP dilŋiŋčili,
+dilŋiŋčisli (kogda deti prigajut cherez prygalki)
+\nt
+\ELANBegin 00:02:13.840
+\ELANEnd 00:02:22.280
+\ELANParticipant RME
+\ev
+\ru Тогда Уиндя еще пуще обозлился. Прыгнул в воду, чтобы его поймать.
+
+\id Egorova_RM_Uindja_033
+\tx Kojeːtten            ịamị ačča ịakta    muː  dọːlan.
+\mb kojeːt -R(E)   -n(I) ịamị ačča ịak =DE  moː  dọː -(dU)LE -n(I)
+\ge look.at -nonfut -3sg  why      neg    what  =ptl water inside -loc -poss.3sg
+
+\ft He looks: there is nothing in the water.  
+\ph muː
+\gr
+\ELANBegin 00:02:22.280
+\ELANEnd 00:02:26.310
+\ELANParticipant RME
+\ev
+\ru Смотрит, ничего в воде нет.
+
+\id Egorova_RM_Uindja_034
+\tx Ńan   turkun            ńoːŋe,       asụkụt ejeːsnen,                           ịrkadịllịn.
+\mb ńaːn turku       -n(I) ńoː -ŋE      asụkụt ejeː           -s(E)n -R(E)   -n(I) ịrka -D    -E-L     -RI -n(I)
+\ge and    not.be.able -3sg  exit  -nmdl.cvb almost     float.downriver -lim   -nonfut -3sg  scream -prog -ep-inch -pst -poss.3sg
+
+\ft He can't go from the river, he almost floated and started crying.
+\ph ńoːŋa
+\gr
+\nt
+\ELANBegin 00:02:26.310
+\ELANEnd 00:02:34.910
+\ELANParticipant RME
+\ev
+\ru Потом не может выйти, чуть не уплыл, стал кричать.
+
+\id Egorova_RM_Uindja_035
+\tx Ajdịtta    nan    goːnni     ịakụttasị      nan    oːsejridʒi    minu,        ńọːnịn.
+\mb ajdịt =DE  ńaːn goːn -n(I) ịak =(W)UttE =sI   ńaːn oːsej -RIdʒI  min     -W   ńọːn -RI  -n(I)
+\ge truth   =ptl and    say   -3sg  what  =indef   =emph and    tease  -ant.cvb 1sg.obl -acc run.away -pst -poss.3sg
+
+\ft Really, he says, somebody tease me and ran away.
+\ph  again (Cf 029)  ọːsaịrịdʒị is rather with a, but it should be e
+\gr ŋịwụttasi (somebody) is also possible, but Uindja didn't understand yet, what that was.
+\ELANBegin 00:02:34.910
+\ELANEnd 00:02:39.900
+\ELANParticipant RME
+\ev
+\ru Правда, он говорит, кто-то, подразнив меня, убежал.
+
+\id Egorova_RM_Uindja_036
+\tx Značit   bi   eŋi   bisem,          eŋulukenem.
+\mb značit   biː eŋi   bi -R(E) -m     eŋul             -WkEn -R(E)   -m
+\ge that.is.R 1sg  strong be -nonfut -1sg become.frightened -caus -nonfut -1sg
+
+\ft It means, I'm strong, I frightened him
+\gr eŋulikanem -- CAUS? bi eŋulliwu -- I got frightened, bi eŋulukeniwu nọŋman -- I frightened him. 
+\nt
+\qu
+\ELANBegin 00:02:39.900
+\ELANEnd 00:02:43.960
+\ELANParticipant RME
+\ev
+\ru Значит, я сильный, испугал его.
+
+\id Egorova_RM_Uindja_037
+\tx Tarakamasị           agdịŋalnị                gịrkaddịtan              bụjgịč
+\mb tarakam       -E=sI    hagdị -ŋ  -E-L   -n(I)     gịrka -D    -RI -tEn       bụj  -GIČ
+\ge in.those.days -ep=emph old     -aln -ep-pl -poss.3sg walk    -prog -pst -poss.3pl forest -elat
+
+\ft In that time his older brothers came from the forest.
+\ph aγdiŋalni 
+\ELANBegin 00:02:43.960
+\ELANEnd 00:02:48.220
+\ELANParticipant RME
+\ev
+\ru В то время его старшие шли из леса.
+
+\id Egorova_RM_Uindja_038
+\tx Ịamị dọldar     ilewut                 Ụịndʒa ịrkaddan.
+\mb ịamị dọlda -r   irek  -(dU)LE =(W)UttE Ụịndʒa ịrka -D    -R(E)   -n(I)
+\ge why      hear    -3pl which -loc    =indef   Uindja      scream -prog -nonfut -3sg
+
+\ft They hear Uindja crying somewhere.
+\ELANBegin 00:02:48.220
+\ELANEnd 00:02:51.910
+\ELANParticipant RME
+\ev
+\ru И вот они слышат, где-то Уиндя кричит.
+
+\id Egorova_RM_Uindja_039
+\tx Gịrkar     ọkaːttakị,  ịamị
+\mb gịrka -r   ọkaːt -t(E)kI ịamị
+\ge walk    -3pl river    -all    why
+\ft They go to the river...
+\ELANBegin 00:02:51.910
+\ELANEnd 00:02:53.970
+\ELANParticipant RME
+\ev
+\ru Идут к речке...
+
+\id Egorova_RM_Uindja_040
+\tx Ụịndʒa ọkaːtlị     ńabalandʒịddan.
+\mb Ụịndʒa ọkaːt -(dU)LI ńabalan       -D    -R(E)   -n(I)
+\ge Uindja      river    -prol   flounder.about -prog -nonfut -3sg
+
+\ft Uindja is floundering about in the river.
+\ph
+\gr ńabalandan -- to flounder about, ńabalan -- floundering
+\ELANBegin 00:02:53.970
+\ELANEnd 00:02:58.580
+\ELANParticipant RME
+\ev
+\ru Уиндя в речке бултыхается.
+
+\id Egorova_RM_Uindja_041
+\tx Ịasčịdịnnị?          nụːrịtan,          Ụịndʒa, ịasčịdnarịs                          eweski?
+\mb ịa    -sčI  -D    -E  -nrI nụː   -RI  -tEn      Ụịndʒa  ịa    -sčI  -D    -nE     -RI  -s(I)     erek -skI
+\ge do.what -conat -prog -ep -2sg take.out -pst -poss.3pl Uindja       do.what -conat -prog -intent -pst -poss.2sg prox -advb.all
+
+\ft What are you doing? They dragged him out. Why did you come here?
+\ph
+\gr conative: ịasčịdịnnị -- what are you doing NOW? in comparison with ịadịnnị -- what do you do? The same difference between ịadnannị and
+ịasčịdnannị -- what are you going to do? and what are you going to do NOW? I don't know what progressive does here... 
+\ELANBegin 00:02:58.580
+\ELANEnd 00:03:03.840
+\ELANParticipant RME
+\ev
+\ru Что ты делаешь? вытащили. Уиндя, что ты пришел сюда делать?
+
+\id Egorova_RM_Uindja_042
+\tx Eŋenneriwu,                     goːnisenke,               ele          ịakta    ačča.
+\mb eŋen     -nE     -RI -W         goːn -RI  -sEn      =kE   erek -(dU)LE ịak =DE  ačča
+\ge come.look -intent -pst -poss.1sg say   -pst -poss.2pl =emph prox -loc    what  =ptl neg
+
+\ft I came to look. You told me, there was nothing here.
+\ph guːnisenke
+\gr
+\nt
+\ELANBegin 00:03:03.840
+\ELANEnd 00:03:08.850
+\ELANParticipant RME
+\ev
+\ru Я пришел посмотреть, вы же сказали, что здесь ничего нет.
+
+\id Egorova_RM_Uindja_043
+\tx Bi   eŋenneriwu,                     gerbuttiwu            uː  minu         olekčis
+\mb biː eŋen     -nE     -RI -W         gerbet -RI -W         huː min     -W   olekči -s
+\ge 1sg  come.look -intent -pst -poss.1sg think  -pst -poss.1sg 2pl  1sg.obl -acc cheat   -2pl
+
+\ft I came to look, I thought, you lay to me.
+\ELANBegin 00:03:08.850
+\ELANEnd 00:03:13.760
+\ELANParticipant RME
+\ev
+\ru Я пришел посмотреть, думал, вы меня обманываете.
+
+\id Egorova_RM_Uindja_044
+\tx goːn : Ịasčịdịnnị?
+\mb goːn   ịa    -sčI  -D    -E  -nrI
+\ge say     do.what -conat -prog -ep -2sg
+
+\ft They say: what are you doing`?
+\ph guːn
+\gr
+\nt
+\qu
+\ELANBegin 00:03:13.760
+\ELANEnd 00:03:15.580
+\ELANParticipant RME
+\ev
+\ru Говорят: что ты делаешь?
+
+\id Egorova_RM_Uindja_045
+\tx Tala          ịakụttasị      minu         oːsejeddin                    muː  dọːlan.
+\mb tarak -(dU)LE ịak =(W)UttE =sI   min     -W   oːsej -E-D     -RI -n(I)      moː  dọː -(dU)LE -n(I)
+\ge dist  -loc    what  =indef   =emph 1sg.obl -acc tease  -ep-prog -pst -poss.3sg water inside -loc -poss.3sg
+
+\ft Somebody in the water teased me.
+\ELANBegin 00:03:15.580
+\ELANEnd 00:03:18.980
+\ELANParticipant RME
+\ev
+\ru Там кто-то меня дразнил в воде.
+
+\id Egorova_RM_Uindja_046
+\tx Bi   nọŋman nụːdajị                nekriwu.
+\mb biː nọŋman nụː   -DE -J             nek -RI -W
+\ge 1sg  3sg.acc   take.out -purp.cvb -prfl.sg do  -pst -poss.1sg
+
+\ft I wanted to drag him out.
+\ELANBegin 00:03:18.980
+\ELANEnd 00:03:22.800
+\ELANParticipant RME
+\ev
+\ru Я его хотел вытащить.
+
+\id Egorova_RM_Uindja_047
+\tx Nan    taral        goːn : Ụịndʒeː    tarak iː  bisis,            in      ịńaːnsị.
+\mb ńaːn tarak -E-L   goːn   Ụịndʒa -Eː tarak hiː bi -RI  -s(I)     hin     hịńaːn -s(I)
+\ge and    dist  -ep-pl say     Uindja      -voc dist  2sg  be -pst -poss.2sg 2sg.obl reflection -poss.2sg
+
+\ft Then those say: Uindja, that was you, your reflection.
+\ph guːn, ińaːnsi -- maybe a supershort epenthetic a between n and si.
+\gr In Robbek there is no meaning for reflection. Other examples from RME: ịńaːnụ -- my reflection, ịńaːnan -- his reflection, Bi ičurem (reflrxive?) /
+ịńaːnŋattem ičimkewundule -- I see myself / I'm reflected in the mirror.  (Я отражаюсь в зеркале.)  ńaːnịn ịńaːnŋatten moːle -- Sky is reflected in the
+water (Небо отражается в воде.)
+\ELANBegin 00:03:22.800
+\ELANEnd 00:03:29.300
+\ELANParticipant RME
+\ev
+\ru И вот эти говорят: Уиндя, это ты был, твое отражение.
+
+\id Egorova_RM_Uindja_048
+\tx Nan    Ụịndʒa goːnni     "Ew". Nan    oredʒeːnniten                 dʒụːtkịwụr.
+\mb ńaːn Ụịndʒa goːn -n(I) ew    ńaːn hor -E  -dʒEːn -RI -tEn       dʒụː -t(E)kI -WUr
+\ge and    Uindja      say   -3sg  oh    and    go  -ep -dur     -pst -poss.3pl house    -all    -prfl.pl
+
+\ft Then Uindja said: "Ah" and they went home.
+\ph guːnni uridʒeːniten
+\gr uridʒeːnniten -- poor they. It could be possible also uriten here.
+\nt
+\ELANBegin 00:03:29.300
+\ELANEnd 00:03:34.540
+\ELANParticipant RME
+\ev
+\ru Тогда Уиндя сказал "A". И вот ушли к себе домой.
+
+
+\ELANMediaURL file:///C:/NatAr/kamchatka2009/Kamchatka_texts/Audio_from_video/Egorova_RM_ujindja_Esso_240609.wav
+\ELANMediaMIME audio/x-wav
+
+\id Egorova_RM_Uindja_49
+\ref
+\tx

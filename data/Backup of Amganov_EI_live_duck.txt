@@ -1,0 +1,267 @@
+\_sh v3.0  968  Text
+
+\id Amganov_EI_live_duck_001
+\tx A     Viktordaka        kụŋaŋụ           emniten.
+\mb a.R   Viktor =DE  =kE   kụŋa -ŋ  -W        em   -RI -tEn
+\ge but.R Viktor =ptl =emph child   -aln -poss.1sg come -pst -poss.3pl
+\ft And Viktor, too, my son, (they) came.
+\ph
+\gr
+\nt The Plural marking on the verb must be a speech error, because he only talks about his son and how he hunted, and
+this is really the very beginning of the narrative, he had just told about the incident with the ducklings on the
+gunbarrel (cf. Amganov_EI_ducks) and his wife reminded him of this incident by saying "Viktordaka", and he
+immediately picked up the thread from there.
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:03.630
+\ELANParticipant EIA
+\ev
+\ru Виктор же тоже, мой сын, (они) пришли.
+
+\id Amganov_EI_live_duck_002
+\tx net
+\mb net
+\ge no.R
+
+\ELANBegin 00:00:03.630
+\ELANEnd 00:00:04.020
+\ELANParticipant EPA
+\ev
+\ru
+
+\id Amganov_EI_live_duck_003
+\tx Armịjatkị    stammers oreddejike                            axọtanarịtan.
+\mb armija.R -t(E)kI stammers hor -E-D     -DE       -J       =kE   oxota  -nE     -RI -tEn
+\ge army.R   -all    stammers go  -ep-prog -purp.cvb -prfl.sg =emph hunt.R -intent -pst -poss.3pl
+\ft Before going to the army they went hunting.
+\ph ʊriddejike
+\ELANBegin 00:00:04.020
+\ELANEnd 00:00:07.390
+\ELANParticipant EIA
+\ev
+\ru Перед тем как в армию уйти, они пошли на охоту.
+
+\id Amganov_EI_live_duck_004
+\tx Net, v otpusk on priexal.
+\mb
+\ge
+\ft No, he came (from the army) on leave.
+\ELANBegin 00:00:07.390
+\ELANEnd 00:00:09.170
+\ELANParticipant EPA
+\ev
+\ru
+
+\id Amganov_EI_live_duck_005
+\tx Ili  otpusku         priexal armịjagịč asapar       ọmŋaramdatịt
+\mb ili  otpusk     -W   priexal armija.R -GIČ asapar       ọmŋa -R(E) -m     =DE  =tIt
+\ge or.R holidays.R -acc came.R  army.R   -elat I.don't.know forget  -nonfut -1sg =ptl =ptl
+
+\tx ireptu.
+\mb ireptu
+\ge even
+\ft Or maybe he came on leave from the army, I don't know, I completely forgot.
+\ELANBegin 00:00:09.170
+\ELANEnd 00:00:13.570
+\ELANParticipant
+\ev
+\ru Или в отпуск приехал из армии, я даже забыл совсем.
+
+\id Amganov_EI_live_duck_006
+\tx Niːkimeːriten.
+\mb niːkičeːn -mEː -RI -tEn
+\ge duck         -vr   -pst -poss.3pl
+\ft They went to hunt ducks.
+\ELANBegin 00:00:13.570
+\ELANEnd 00:00:15.080
+\ELANParticipant
+\ev
+\ru За утками пошли.
+
+\id Amganov_EI_live_duck_007
+\tx Emnin               iːsečin, aːtarsịweː.
+\mb em   -RI -n(I)      hiːsečin haːtar -RI -W =eː
+\ge come -pst -poss.3sg evening    be.dark -impf.ptc -acc =emph
+
+\ft He came (back) in the evening, when it was already dark.
+\ph RME insisted that it was aːtasịweː, without the -r-, but Amganov says aːtarsịweː, and 'to become dark' is (h)aːtar,
+'darkness' is 'haːtarsị', both with -r-
+\gr aːtarčaweː = netu; aːtarsịw, tiːk aːtarallan = sejčas stemnelo, tiːk aːtar = sejčas temno; v temnote = aːtarsịw, aːtarsịdụ,
+aːtarsịla
+\ELANBegin 00:00:15.080
+\ELANEnd 00:00:18.050
+\ELANParticipant
+\ev
+\ru Пришел вечером, когда уже темно было.
+
+\id Amganov_EI_live_duck_008
+\tx Niːkičeːngeji             ...  elekčenni           dọːlan             niːkičeːkeken.
+\mb niːkičeːn -GE    -J       *... elek -čEn -n(I)     dọː -(dU)LE -n(I)  niːkičeːn -kEkEn
+\ge duck         -desig -prfl.sg ***  bag  -dim  -poss.3sg inside -loc -poss.3sg duck         -dim
+
+\ft And inside his bag there's a little duck.
+\ELANBegin 00:00:18.050
+\ELANEnd 00:00:22.490
+\ELANParticipant
+\ev
+\ru Внутри мешочка уточка.
+
+\id Amganov_EI_live_duck_009
+\tx Badʒịkar ịllịdʒị    goːnem:           Erek nan    ịakawụ?
+\mb badʒịkar ịl     -RIdʒI  goːn -R(E) -m     erek ńaːn ịak -awụ
+\ge morning     stand.up -ant.cvb say   -nonfut -1sg prox and    what  -emph
+\ft Having gotten up in the morning I say: "And what's this?".
+\ELANBegin 00:00:22.490
+\ELANEnd 00:00:25.840
+\ELANParticipant
+\ev
+\ru А утром вставши я говорю, что это такое?
+
+\id Amganov_EI_live_duck_010
+\tx Ịamị ŋịačịkakakan  iːnni!
+\mb ịamị niːkičeːn -kEkEn iːn -n(I)
+\ge why      duck         -dim   live -3sg
+\ft Why, the duck's alive!
+\ph
+\gr biː iːnnem = ja živu, biː iːnni bisem = ja živaja
+\gr 14.02.13 (questions18, 54:30) niːkičekeken = correct, vot eta utochka; niːkičejeken = tozhe, prosto utochka
+\nt
+\ELANBegin 00:00:25.840
+\ELANEnd 00:00:30.700
+\ELANParticipant
+\ev
+\ru Вот уточка живая!
+
+\id Amganov_EI_live_duck_011
+\tx I     Irede    kojeːtčoːtten.
+\mb i     Ira =DE  kojeːt -WEːČ -R(E) -n(I)
+\ge and.R Ira =ptl look.at -gnr    -nonfut -3sg
+\ft And Ira (the daughter) also looks.
+\ELANBegin 00:00:30.700
+\ELANEnd 00:00:33.870
+\ELANParticipant
+\ev
+\ru А Ира тоже смотрит.
+
+\id Amganov_EI_live_duck_012
+\tx Ŋiː erek emučen,                     Vitja  emurine.
+\mb ŋiː erek em -U      -čE    -n(I)     Viktor em -U      -RI -n(I)      -E
+\ge who   prox come -caus -pf.ptc -poss.3sg Viktor come -caus -pst -poss.3sg -ep
+
+\ft Who brought this? Vitja brought it.
+\ph
+\gr erek Vitja emučen = lit. 'eto Vitja prinesennoe'
+\nt This is probably a dialogue between little daughter (asking) and father (answering).
+\ELANBegin 00:00:33.870
+\ELANEnd 00:00:36.800
+\ELANParticipant
+\ev
+\ru Кто это принес? Витя принес.
+
+\id Amganov_EI_live_duck_013
+\tx Erroːčekene ńan   ńoːridʒi    toleːski             tiːnit
+\mb erroːčekene ńaːn ńoː -RIdʒI  tol     -E  -skI      tiːn    -RI -t(I)
+\ge my.goodness   and    exit  -ant.cvb outside -ep -advb.all set.free -pst -poss.1pl.in
+
+\tx degeleddenesi                               niːkičeːŋene                   nan.
+\mb deg -E-L     -E-D     -R(E) -n(I)  -E=sI    niːkičeːn -ŋ  -E-n(I)      -E  ńaːn
+\ge fly -ep-inch -ep-prog -nonfut -3sg -ep=emph duck         -aln -ep-poss.3sg -ep and
+
+\ft My goodness, and we went outside and set it free, and how that duck of his flew off!
+\ph ńuːriʥi; RME insists that he says tiːlit, which is a wrong form, but I hear tiːnit - which is what he meant to say anyway
+\gr There is again a mismatch between the SG Anterior converb and the 1PL person marking on the verb; RME translated
+it as SG, while I translated it as 1PL, since I do think he went outside with his daughter to set the duck free. This time
+RME noticed the mismatch, stumbled over it, but took the SG Anterior converb to be 'correct' and felt that the Plural
+marking on the main verb was wrong
+\ELANBegin 00:00:36.800
+\ELANEnd 00:00:43.870
+\ELANParticipant
+\ev
+\ru Ничего себе! и вышли на улицу и отпустили, и утка как полетела.
+
+\id Amganov_EI_live_duck_014
+\tx Nan    badʒịkar Vitja  ịllanalla                       goːnni     "Ile          niːkičeːŋu
+\mb ńaːn badʒịkar Viktor ịl     -R(E) -n(I)  =El   =lE   goːn -n(I) irek  -(dU)LE niːkičeːn -ŋ  -W
+\ge and    morning     Viktor stand.up -nonfut -3sg =emph =emph say   -3sg  which -loc    duck         -aln -poss.1sg
+
+\tx rjukzakla?",       goːnem            "degellenke                     nan"
+\mb rjukzak    -(dU)LE goːn -R(E) -m     deg -E-L     -R(E) -n(I)  =kE   ńaːn
+\ge rucksack.R -loc    say   -nonfut -1sg fly -ep-inch -nonfut -3sg =emph and
+
+\ft And in the morning Vitja finally got up and asks, "Where is my duck in the bag?", and I say "She flew off".
+\ELANBegin 00:00:43.870
+\ELANEnd 00:00:50.320
+\ELANParticipant
+\ev
+\ru И вот утром Витя наконец-то встал, говорит, где моя утка в рюкзаке, я говорю, улетела же она.
+
+\id Amganov_EI_live_duck_015
+\tx "Ọːnda?" goːnni.
+\mb ọːn =DE   goːn -n(I)
+\ge how    =ptl  say   -3sg
+\ft "How can that be?" he says.
+\ELANBegin 00:00:50.320
+\ELANEnd 00:00:51.360
+\ELANParticipant
+\ev
+\ru Как же так? говорит.
+
+\id Amganov_EI_live_duck_016
+\tx Ire teːleŋen            ulteredden.
+\mb Ira teːleŋ -E-n(I)      hulter        -E-D     -R(E) -n(I)
+\ge Ira story    -ep-poss.3sg burst.through -ep-prog -nonfut -3sg
+\ft And Ira's story came rushing out.
+\ELANBegin 00:00:51.360
+\ELANEnd 00:00:53.650
+\ELANParticipant
+\ev
+\ru У Иры рассказ начал бурлить/лопнулся.
+
+\id Amganov_EI_live_duck_017
+\tx Rjukzak    aːŋarakụnka                     ịamị niːkičeːŋes                iːnine.
+\mb rjukzak    aːŋa -REk      -WUn         =kE   ịamị niːkičeːn -ŋ  -E-s(I)      iːn -RI -n(I)      -E
+\ge rucksack.R open   -cond.cvb -poss.1pl.ex =emph why      duck         -aln -ep-poss.2sg live -pst -poss.3sg -ep
+\ft When we opened the rucksack, your duck was alive!
+\ELANBegin 00:00:53.650
+\ELANEnd 00:00:57.090
+\ELANParticipant
+\ev
+\ru Рюкзак когда мы открылы, а там твоя утка была живая.
+
+\id Amganov_EI_live_duck_018
+\tx Nan    iːniw              degelukeniwuneː.
+\mb ńaːn iːn -RI -W         deg -E-L     -WkEn -RI -WUn          =eː
+\ge and    live -impf.ptc -acc fly -ep-inch -caus -pst -poss.1pl.ex =emph
+
+\ft And the live (one) we let fly away.
+\ph
+\gr iːniw = tu, kotoraja živaja, otpustili; iːnčew = tu, kotoraja byla živa, otpustili; *degukelliwun = netu (I had thought it
+might have a meaning of 'we started to make them fly') - this latter meaning was then translated by RME as
+degelukendʒidukeniwun with 2 Causatives, which doesn't really make sense; degelukendewur nekriwun = my
+načinali zastavit letat', can also be expressed by degelukemkečiddiwun --> this again looks like 2 Causatives!!!
+\gr 08.02.13 (questions15, 42:30) asked about the form degelukendʒidukeniwun - when I asked like this she didn't seem to
+recognize it, said "degelukenu", one can say degelukendʒiddiwu = correct; tried out variants, e.g.
+degelukendʒiddikeniwun and wasn't happy; but then when I asked how she would say "we started to make them fly" =
+degelukendʒidukeniwun - which is the form she gave 4 years ago, which she now didn't seem to recognize...
+\ELANBegin 00:00:57.090
+\ELANEnd 00:01:00.720
+\ELANParticipant
+\ev
+\ru И живую отпустили летать.
+
+\id Amganov_EI_live_duck_019
+\tx vot
+\ELANBegin 00:01:00.720
+\ELANEnd 00:01:01.560
+\ELANParticipant
+\ev
+\ru 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Kamchatka2009/sound_from_video/Amganov_EI_live_duck_Esso_140609.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Kamchatka2009/video_mpeg2/Amganov_EI_live_duck_Esso_140609.mpg
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Kamchatka2009/video_mpeg2/Amganov_EI_live_duck_Esso_140609.mpg
+\ELANMediaMIME video/mpeg

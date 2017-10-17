@@ -1,0 +1,380 @@
+\_sh v3.0  1082 Text
+
+\id 01_equative
+\ru Он такой же высокий как его отец.
+\tx Nọŋan tarrọːčịnnịtịtta    ŋọnam akangečimi.
+\mb nọŋan tarọːčịn -RI  =tIt =DE  ŋọnam akan   -G(E)čIn -J
+\ge 3sg      dist.qual      -pst =ptl =ptl long     father -sml      -prfl.sg
+\ft
+\ru Он одинак по росту...
+\tx Nọŋan tarrọːčịnnịtịtta         akmịdịn                ŋọnam.
+\mb nọŋan tarọːčịn -n(I)     =tIt =DE  akan   -J       =dIːn     ŋọnam
+\ge 3sg      dist.qual      -poss.3sg =ptl =ptl father -prfl.sg =quant.dem long
+
+
+\id 02_equative
+\ru Маша такая же красивая как ее мать. 
+\tx Maša tarrọːčịnnịtịtta         nọːd ekŋečimi.
+\mb Maša tarọːčịn -n(I)     =tIt =DE  nọːd eken   -G(E)čIn -J
+\ge Masha dist.qual      -poss.3sg =ptl =ptl pretty  mother -sml      -prfl.sg
+\ft
+\nt had some difficulty with the similative form of eken, stumbled a bit
+
+\id 03_equative
+\ru Я испугалась, когда увидела медведь, а медведь так же испугался как я.
+\tx Bi   eŋulliwu                      ittidʒi     kọbalam,     kọbalanaši       eŋullin                         minečtitta.
+\mb biː heŋun    -L    -RI  -W        it  -RIdʒI  kọbalan -W   kọbalan -E  =sI   eŋul             -RI  -n(I)     min     -Č  =tIt =DE
+\ge 1sg  be.afraid -inch -pst -poss.1sg see -ant.cvb bear      -acc bear      -ep =emph become.frightened -pst -poss.3sg 1sg.obl -ins =ptl =ptl
+
+\gr "be afraid of, get frightened" govern the stimulus in INS, also mineč ńumerin = on menja stesnjasja
+
+\id 04_equative
+\ru Домик бабушки находится так же далеко от нашего дома как от клуба.
+\tx Dʒụːčanni           eńiŋe     bišni           ečinde         teγele    mun        dʒụːdukun                 (klubgečin)
+\mb dʒụː -čEn -n(I)     eniŋeː    bi -R(E)   -n(I) erroːčin =DE  tege =lE   mun        dʒụː -DUk(U) -WUn         klub   -G(E)čIn
+\ge house    -dim  -poss.3sg grandmother be -nonfut -3sg  prox.qual  =ptl far  =emph 1pl.ex.obl house    -abl    -poss.1pl.ex club.R -sml
+
+\tx ọːnka    klubgič.
+\mb ọːn =kE  klub   -GIČ
+\ge how    =ptl club.R -elat
+\ft
+\nt first said klubgečin, corrected to ọːnka klubgič
+
+\id 05_equative
+\ru Сын моего брата того же возраста как твоя дочь. 
+\tx Min     bratu               kụŋaŋan      tarrọːčịnnịtịtta         anŋanan            (muːjuken)           in
+\mb min     brat      -W        kụŋa -ŋEn    tarọːčịn -n(I)     =tIt =DE  anŋan -E-n(I)      muːjuk  -E-n(I)      hin
+\ge 1sg.obl brother.R -poss.1sg child   -pol.imp dist.qual      -poss.3sg =ptl =ptl year   -ep-poss.3sg age.mate -ep-poss.3sg 2sg.obl
+
+\tx ašatkanduš.
+\mb asatkan -DU  -s(I)
+\ge girl    -dat -poss.2sg
+
+
+\id 06_equative
+\ru Наша собака не такая красивая как ваша, но зато она очень добрая.
+\tx Mun        ŋịnụn          ešni             nọːd biš        un      ŋịngačịlšan,            tarma nọŋan nụmak.
+\mb mun        ŋịn -WUn         e   -R(E)   -n(I) nọːd bi -R       hun     ŋịn -G(E)čIn -L  -sEn      tarma nọŋan nụmak
+\ge 1pl.ex.obl dog    -poss.1pl.ex neg -nonfut -3sg  pretty  be -neg.cvb 2pl.obl dog    -sml      -pl -poss.2pl but   3sg      tame
+
+\gr ŋingačilšan - on 11.06. when I asked Rimma about this she had massive problems pronouncing it; the word is correct, -gEčin takes the plural possessives with an
+added plural suffix; (krasivaja) kak sobaka = ŋịngačin, kak vasha sobaka = ŋingačilšan; kak nasha sobaka = mun ŋingačilbun; nọŋartan ŋingačiltan
+
+\id 07_equative
+\ru Я на празднике не видела девушку, сравнима по красоте с нашей дочью (такую же красивую)
+\tx Bi   ečiwu        itte         prazdnikla        asatkam      erroːččon        nọːdu     mut    ụnaːdʒgečin.
+\mb biː e   -RI  -W   it  -R       prazdnik  -(dU)LE asatkan -W   erroːčin -Con     nọːd -W   mut    hụnaːdʒ -G(E)čIn
+\ge 1sg  neg -pst -acc see -neg.cvb holiday.R -loc    girl    -acc prox.qual  -acc.3sg pretty  -acc 1pl.in daughter    -sml
+
+
+\id 08_equative
+\ru Его сын не такой же сильный, как твой, но зато он очень умен.
+\tx Nọŋan kụŋaŋan            ešni             eŋi   biše       in      kụŋaŋgačịnši,        tarma nọŋan mergeč umekič.
+\mb nọŋan kụŋa -ŋ  -n(I)     e   -R(E)   -n(I) eŋi   bi -R       hin     kụŋa -ŋ  -G(E)čIn =sI   tarma nọŋan mergeč umekič
+\ge 3sg      child   -aln -poss.3sg neg -nonfut -3sg  strong be -neg.cvb 2sg.obl child   -aln -sml      =emph but   3sg      clever  very
+
+
+\id 09_similative
+\ref Russian sentence from Sebjan
+\ru Мы ели макароны как итальянцы.
+\tx Bu     dʒebeddiwun                      makarom         italjancelgečin.
+\mb buː   dʒeb -E  -D    -RI -WUn          makaron    -W   italjancy -E-L   -G(E)čIn
+\ge 1pl.ex eat   -ep -prog -pst -poss.1pl.ex macaroni.R -acc Italian.R -ep-pl -sml
+
+
+\id 10_similative
+\ru Птица летит так же быстро как стрела.
+\tx Čụkačaːn deγšen          turguń  (aːmnakat)    ńurgečin.
+\mb čụkačaːn deg -R(E)   -n(I) turguń  aːmnịk -Č  ńur  -G(E)čIn
+\ge bird          fly -nonfut -3sg  fast     quickly   -ins arrow -sml
+
+
+\id 11_similative
+\ru Похожие на шарики рыбы ужасно ядовиты.
+\tx šarik urečinni           ọlla eŋunde.
+\mb šarik ureːčin -n(I)     ọlra heŋun    -DI
+\ge ball.R similar   -poss.3sg fish   be.afraid -adjr
+
+
+\id 12_similative
+\ref Russian sentence taken from Sebjan
+\ru Отсюда, кажется, приехал 
+\tx Ergič     kọč   emnin.
+\mb erek -GIČ kọč   em   -RI  -n(I)
+\ge prox -elat probably come -pst -poss.3sg
+\ft
+\ref judgement question
+\tx ergič     emčeγčin
+\mb erek -GIČ em   -čE    -G(E)čIn
+\ge prox -elat come -pf.ptc -sml
+\ft
+\gr YES, kak budto otsjuda priexal
+
+\id 13_similative
+\ref Russian sentence taken from Sebjan
+\ru Этот домик будто сгорел 
+\tx Erek dʒụː durče       urečinni.
+\mb erek dʒụː dur  -čE    ureːčin -n(I)
+\ge prox house    burn -pf.ptc similar   -poss.3sg
+\ft
+\gr judgement question: can one say durčeγčin? She at first offered this: durčeːmče urečinni
+\mb
+\gr then this: durčeγčin urečinni which seems to be unlikely, given that it's two similative constructions in one...
+\mb
+\gr then I asked "durčemdes"? And she offered: durčemdiš ʤuː = tolko chto sgorel; but I have no idea what that could be, and I'm not going to worry about it...
+\gr
+
+\id 14_similative
+\ref Russian sentence from Sebjan
+\ru Где-то как будто он ее видел 
+\tx Ilewut                 nọŋan ičeššen        bišin            nọŋman.
+\mb irek  -(dU)LE =(W)UttE nọŋan it  -E  -ssEn     bi -RI  -n(I)     nọŋman
+\ge which -loc    =indef   3sg      see -ep -pretense be -pst -poss.3sg 3sg.acc
+
+
+\id 15_similative
+\ru Похожие на негры оказались наряженными.
+\tx Negr    urečilni               tetutčel                     biše.
+\mb negr    ureːčin -L  -n(I)     tet    -U    -Č  -čE -L     bi -R
+\ge negro.R similar   -pl -poss.3sg put.on -caus -res -pf.ptc -pl be -neg.cvb
+
+
+\id 16_similative
+\ref Russian sentence from Sebjan
+\ru Ты должен кушать это мясо, как будто ест умерший человек 
+\tx I     dʒebenneš                 erew      ullew,    ńoːmeče        dʒebeššon        biden.
+\mb i     dʒeb -E-nnE      -s(I)     erek -W   ulre -W   ńoːmeː -čE    dʒeb -E  -ssEn     bi -DE       -n(I)
+\ge and.R eat   -ep-nec.ptc -poss.2sg prox -acc meat -acc die       -pf.ptc eat   -ep -pretense be -purp.cvb -poss.3sg
+\qu
+\gr Q: ńoːmeče bej ʤebeddiγčin? A: ńomeːče ʤebeššan biden
+
+\id 17_similative
+\ref Russian sentence from Sebjan
+\ru Слышен звук, как будто он идет в тапочках 
+\tx Išni                   nọŋan tapočkač     gịrkaddiγčin.
+\mb i          -s(E)n -n(I) nọŋan tapočka  -Č  gịrka -D    -RI       -G(E)čIn
+\ge be.audible -lim   -3sg  3sg      slipper.R -ins walk    -prog -impf.ptc -sml
+
+
+\id 18_similative
+\ref judgement/discussion question; Amganov_EI_leaving_Twajan_096
+\tx Elekes   ittiwun               tarọːčịn, ịakawụ   tụrkị erek dʒụː urečinni
+\mb
+\gr Q: Can one say ịakawu turki erek, ʤuːγčin? A: ʤuːγčin "kak dom", ʤuːγčin turki; Q: ʤuː urečinni turki? A: tozhe mozhno, odno i to zhe samoe; Q: mozhno skazat
+ʤuː urečin? A: yes; no difference, odno i to zhe, it's not a real possessive suffix; 
+\gr then offered by herself: urečinni, eto voobshe "ty", iː taːjel urečinni bišenni; bi taːjel urečin bišem (ja kak durak); nọŋan taːjel urečin bišni -- but it's of course not likely
+that urečinni really is a 2sg form, since the Amganov example is 3sg with urečinni...
+
+\id 19_similative
+\ref judgement/discussion question; Egorova_RM_Anin_1_075
+\tx Ńanasị       eːčendulen     ečin      ịγat urečinni,          ịγattụkkka biweːtten,   ụdʒan.
+\ft
+\gr Q: can one say: eːčendulen iγatgečin; A: yes
+
+
+\id 20_similative
+\ref judgement/discussion question; Paderina_Egorova_razgovor_202
+\tx Ịašalan            bienari                urečinni           bisin.
+\mb
+\gr Q: mozhno "iašalan bienariγčin bišin"? A: yes, OK
+
+\id 21_similative
+\ref judgement/discussion question; Solodikov_GA_tabun_122
+\tx Muke      urečinni           dʒoːrke    tar   daramandʒaːlnị              tar   ičuddʒoːtte                   tar.
+\mb
+\gr Q: can one say mukeγčin? A: yes
+
+\id 22_similative
+\ru Он плавает как рыба.
+\tx Nọŋan teːmaččoːtten             ọllaγčin.
+\mb nọŋan teːmat -WEːČ -R(E)   -n(I) ọlra -G(E)čIn
+\ge 3sg      swim    -gnr    -nonfut -3sg  fish   -sml
+
+
+\id 23_similative
+\ru Моя мама поет как соловей.
+\tx Min     ekmu             ikeːweːtten               solovejgečin.
+\mb min     eken   -W        ikeː -WEːČ -R(E)   -n(I) solovej       -G(E)čIn
+\ge 1sg.obl mother -poss.1sg sing  -gnr    -nonfut -3sg  nightingale.R -sml
+\ft
+\nt she actually said "mun ekmu", but I changed that
+
+\id 24_similative
+\ru Он хочет быть сильным как медведь и храбрым как лев.
+\tx Nọŋan eŋi   bideji                nekren            kọbalangečin     i     botur   lewgečin.
+\mb nọŋan eŋi   bi -DE -J             nek -R(E)   -n(I) kọbalan -G(E)čIn i     baːtur lew    -G(E)čIn
+\ge 3sg      strong be -purp.cvb -prfl.sg do  -nonfut -3sg  bear      -sml      and.R brave   lion.R -sml
+
+
+\id 25_comparative
+\ru Сын уже выше своего отца, а дочь – тольще матери.
+\tx Urkeːn  gụːd akanduki,               ụnaːdʒeši        dịram ekenduki.
+\mb hurkeːn gụd   akan   -DUk(U) -J       hụnaːdʒ -E  =sI   dịram eken   -DUk(U) -J
+\ge boy      high    father -abl    -prfl.sg daughter    -ep =emph fat     mother -abl    -prfl.sg
+\ft
+\nt couldn't remember the word for 'son'
+
+\id 26_comparative
+\ru Мой сын в школе учится лучше, чем твой сын.
+\tx Min     kụŋaŋụ           eskolala         upkutten             ajịč      in      kụŋaŋdukuš.
+\mb min     kụŋa -ŋ  -W        škola   -(dU)LE hupkut -R(E)   -n(I) aj   -E-Č   hin     kụŋa -ŋ  -DUk(U) -s(I)
+\ge 1sg.obl child   -aln -poss.1sg school.R -loc    learn  -nonfut -3sg  good -ep-ins 2sg.obl child   -aln -abl    -poss.2sg
+
+
+\id 27_comparative
+\ru Лион более красивый город, чем Лейпциг.
+\tx Lion nọːdšukan  Lejpcigduk.
+\mb Lion nọːd -sUkEn Lejpcig -DUk(U)
+\ge Lyon pretty  -attn  Leipzig -abl
+\ft
+\gr -šukAn here has a meaning of "more than", not attenuative! ŋuleńešuken = krasnee, bolee krasnyj; NE menee krasnyj; egʤešuken = bol'she; comparing her bright
+turquoise T-shirt with my greyish-bluegreen one: her's is čulbańašukan taduk (mine). -- so should check the texts, I think -sukAn isn't used in LAM at all, should
+change the gloss - but not to AUG, need to find a better gloss!
+
+\id 28_comparative
+\ru Ты на 5 лет старше меня.
+\tx Iː  minduk          tụnŋanịč    anŋanịč    aγdị.
+\mb hiː min     -DUk(U) tụnŋan -E-Č   anŋan -E-Č   hagdị
+\ge 2sg  1sg.obl -abl    five      -ep-ins year   -ep-ins old
+
+
+\id 29_superlative
+\ru Его олени самые здоровые во всем табуне.
+\tx Nọŋan ọrọlni                      egdʒemkerel          čeledukun              ọrdụla.
+\mb nọŋan ọrọn          -L  -n(I)     egdʒen -mkEr -E  -L  čele -DUk(U) -n(I)     ọrọn          -(dU)LE
+\ge 3sg      domestic.reindeer -pl -poss.3sg big     -aug  -ep -pl all   -abl    -poss.3sg domestic.reindeer -loc
+
+
+\id 30_superlative
+\ru Ты – самый лучший танцор в Эссо.
+\tx Iː  čeledukun              nurgelen    bisenni         Essola.
+\mb hiː čele -DUk(U) -n(I)     nurgen -LEn bi -R(E)   -nrI Essọː -(dU)LE
+\ge 2sg  all   -abl    -poss.3sg dance  -nr  be -nonfut -2sg Esso     -loc
+\ft
+\nt sounds as if she says ńurgeren - but the -LEn suffix fits the meaning, and here they say nurgen- for 'dance', so I changed it
+
+\id 31_superlative
+\ru Мы были самыми лучшими учениками нашего класса.
+\tx Bu     bisiwun              čeledukun              upkučeler      mun        klasslawun.
+\mb buː   bi -RI -WUn          čele -DUk(U) -n(I)     hupkut -LEn -L  mun        klas    -(dU)LE -WUn
+\ge 1pl.ex be -pst -poss.1pl.ex all   -abl    -poss.3sg learn  -nr  -pl 1pl.ex.obl class.R -loc    -poss.1pl.ex
+
+\ft
+
+\id 32_superlative
+\ru Твоя дочь будет самой красивой девушкой Камчатки. 
+\tx In      ụnaːdʒịš           bidʒin            čeledukun              nọːd ašatkan Kamčatkala.
+\mb hin     hụnaːdʒ -E  -s(I)     bi -DʒI -n(I)     čele -DUk(U) -n(I)     nọːd asatkan  Kamčatka -(dU)LE
+\ge 2sg.obl daughter    -ep -poss.2sg be -fut  -poss.3sg all   -abl    -poss.3sg pretty  girl     Kamchatka -loc
+
+
+\id 33_superlative
+\ru Я видела самый высокий дом в России.
+\tx Bi   ittiwu             čelew     ŋọnamu     dʒụːw     Rossijala.
+\mb biː it  -RI  -W        čele -W   ŋọnam -W   dʒụː -W   Rossija  -(dU)LE
+\ge 1sg  see -pst -poss.1sg all   -acc long     -acc house    -acc Russia.R -loc
+\ft
+\nt This is obviously not correct; it was one of the last sentences I asked her to translate, and from the other superlative examples it is clear that superlatives are
+constructed with čeledukun - she was obviously already quite tired (and she was tired overall, it was late and she'd stood in a queue for a long time)
+
+\id 34_superlative
+\ru Когда построят новую школу, она будет самым современным зданием в Камчатке.
+\tx Ọːrakatan              anŋamtaw     školaw,      nọŋan bidʒin        (ọːnkana)  čeledukun              sovremennyj Kamčatkala.
+\mb ọː -REk      -tEn      anŋamta -W   škola   -W   nọŋan bi -DʒI -n(I) ọːn =kEnE  čele -DUk(U) -n(I)     sovremennyj Kamčatka -(dU)LE
+\ge make  -cond.cvb -poss.3pl new      -acc school.R -acc 3sg      be -fut  -3sg  how    =contr all   -abl    -poss.3sg modern.R    Kamchatka -loc
+
+
+\id 35_pretense
+\ru Ребенок делает вид, что он делает уроки, но на самом деле он играет на компьютере.
+\tx Kụŋa uroki               upkučiššen         bid'in,        a     meːnkeneši       ewiddʒoːtten                    kompjuterla.
+\mb kụŋa urok       -J       hupkut -I   -ssEn     bi -DʒI -n(I) a.R   meːn =kEnE  =sI   ewiː -D    -WEːČ -R(E)   -n(I) kompjuter  -(dU)LE
+\ge child   homework.R -prfl.sg learn  -ipf -pretense be -fut  -3sg  but.R refl  =contr =emph play  -prog -gnr    -nonfut -3sg  computer.R -loc
+
+
+\id 36_pretense
+\ru Я делала вид, что ела нялакчу, но на самом деле дала ее собаке.
+\tx Bi   dʒebeššen        bisiwu            ńaːlakčaw,    a     meːnkeneši       buːriwu            ŋịndu.
+\mb biː dʒeb -E  -ssEn     bi -RI  -W        ńaːlakča -W   a.R   meːn =kEnE  =sI   boː -RI  -W        ŋịn -DU
+\ge 1sg  eat   -ep -pretense be -pst -poss.1sg fresh.meat  -acc but.R refl  =contr =emph give -pst -poss.1sg dog    -dat
+
+
+\id 37_pretense
+\ref Russian sentence from Sebjan
+\ru Делая вид, что считает один два, один два, лиса перешла реку,...
+\tx Taŋaššan         bideji                umen dʒuːr umen dʒuːr ụlịčan  dawrịn                   ọkatu.
+\mb taŋ  -E  -ssEn     bi -DE -J             omen dʒoːr omen dʒoːr hụlịčan daw         -RI  -n(I)     ọkaːt -W
+\ge count -ep -pretense be -purp.cvb -prfl.sg one  two     one  two     fox          cross.river -pst -poss.3sg river    -acc
+
+
+\id 38_pretense
+\ref Russian sentence from Sebjan
+\ru Делая вид, что говорит про иголку, она горе отвела в сторону.
+\tx Nọŋan inmew       toreššen      bideji,               nọŋan erteki       ọːwkanịn              gorewen.
+\mb nọŋan inme   -W   tore  -ssEn     bi -DE -J             nọŋan erek -t(E)kI ọː -WkEn -RI  -n(I)     gore    -W   -E-n(I)
+\ge 3sg      needle -acc speak -pretense be -purp.cvb -prfl.sg 3sg      prox -all    make  -caus -pst -poss.3sg grief.R -acc -ep-poss.3sg
+
+
+\id 39_pretense
+\ru Ты будешь делать вид что рассказываешь мне.
+\tx Iː  uŋŋenni         teːleŋeššen        bideji                mindu.
+\mb hiː uŋ -ŋE     -nrI teːleŋ -E  -ssEn     bi -DE -J             min     -DU
+\ge 2sg  do  -pol.imp -2sg tell     -ep -pretense be -purp.cvb -prfl.sg 1sg.obl -dat
+
+\ft
+
+\id 40_pretense
+\ru Мы сделали вид что мы уехали в город.
+\tx Bu     gorodteki      ureššen        bišiwun.
+\mb buː   gorod  -t(E)kI uːr   -ssEn     bi -RI -WUn
+\ge 1pl.ex town.R -all    before -pretense be -pst -poss.1pl.ex
+
+
+\id 41_pretense
+\ref Russian sentence from EPA_cannibals 03
+\ru Они берут жену себе от чужого рода, как будто они хотят жениться.
+\tx Nọŋartan gawaːtta            atịkaŋgawụr               untelduk,         atịkaŋaššan        bidewur.
+\mb nọŋartan ga   -WEːČ -R(E)   atịkan  -ŋ  -GE    -WUr     honte -L  -DUk(U) atịkan  -ŋ -ssEn     bi -DE -WUr
+\ge 3pl         take -gnr    -nonfut old.woman -aln -desig -prfl.pl other -pl -abl    old.woman -vr -pretense be -purp.cvb -prfl.pl
+
+
+\id 42_pretense
+\ru Ребенок притворяется, что плачет, чтобы мама его пожалела.
+\tx Kụŋa ọŋaššan         bideji                ekedmer       nọŋman nakadan.
+\mb kụŋa họŋ -E  -ssEn     bi -DE -J             eken   -dmEr  nọŋman naka -dan
+\ge child   cry    -ep -pretense be -purp.cvb -prfl.sg mother -contr 3sg.acc   pity -vr.cvb.Y
+
+
+\id 43_mdEs
+\ref judgement question, do they know -mdes; beseda_0424
+\tx Dʒoːridʒur ajịč biweːtten, umekken aŋatkamdas biweːtten.
+\mb
+\ref changed to:
+\tx Dʒoːridʒur ajịč biweːtten, umekken aŋatkaŋčin biweːtten.
+\mb
+\gr said that she didn't know the word aŋatkamdas
+
+\id 44_mdEs
+\ref judgement question; beseda_0611
+\tx Nogavitsyn Edik   amamdašịj               nulgeweːtten
+\mb
+\gr changed to: amangačimi, kak otec tancuet
+
+\id 45_mdEs
+\ref judgement question; Krivoshapkina_Ija_memories_092
+\tx Ịamdas,   delgenkemdes     ọjčịčal.
+\mb
+\ref changed to
+\tx delgenkeγčin ọjčičal
+\mb
+\gr Q: so they don't have a word like "delgenkemdes" in the Bystraja govor? A: delgenkemdeš, eto naverno shkura ot zhivotnogo, tirgiš, vot takoe
+
+\id 46_mdEs
+\ref judgement question; RDA_TPK_names_origins_057
+\tx Dịlamdas      ịŋa bišni,          teːmi   Dịlčan   goːweːtte.
+\mb
+\gr She pronounced the sentence and then said that dilamdas = kak budto gora; but then when I peresprosila she said "dilamdaš urečinni"; when I asked what dilamdas
+meant, she said "na golovu poxozhe", when I peresprosila, she again repeated it with "dilamdaš urečinni"; Q: sam po sebe "dilamdas iŋa" kamen poxozh na golovu? --
+corrected to ʤol, and said "dilamdaš urečinni ʤola", ili "dil urečinni ʤola" -- and this would be better to say; and every time I posed the question simply with
+dilamdas ʤol she repeated it as "dilamdas urečinni ʤol" - so it's fairly clear that "dilamdas" by itself doesn't exist; Q: dil urečinni ʤol = OK, dilgečin ʤol = at first
+said OK, but then said "dilgečin biddi ʤol" and even said "dilgečin urečinni"
+\gr Q: can one say: muramdaš ŋin? A: NO; Q: muraŋgačin ŋin A: OK; then said: one can say "muramdaš biden" kak budto loshadj u tebja

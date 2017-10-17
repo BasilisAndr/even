@@ -1,0 +1,264 @@
+\_sh v3.0  1167 Text
+
+\id black_hair_raven
+\ref equative
+\ref cvet volos sravnitj
+\tx Asatkan ńuːritan            aŋna entekeje   bumŋen      tụrakị ịnŋatan            urečinni.          Tarrọːčịn tar
+\mb asatkan ńuːrit -E-n(I)      aŋna entekeːje bumŋen      tụrakị ịnŋat -E-n(I)      ureːčin -n(I)     tarrọːčịn tar
+\ge girl    hair     -ep-poss.3sg black strong     exactly.like crow       fur      -ep-poss.3sg similar   -poss.3sg dist.qual       thus
+
+\tx asụkụt ịalladuktatịtta       aŋna, čụlbańasumnin        asụkụt.
+\mb asụkụt ịalda -DUk(U) =DE  =tIt aŋna  čụlbańa -sUkEn -mrIn asụkụt
+\ge almost     soot    -abl    =ptl =ptl black  grue        -attn  -attn almost
+
+\ft
+\gr čulbańasumnin = chutj sinevato; it looks very much like a hybrid form of -suken and -mnin, so I glossed it like that rather than adding yet another attenuative suffix -
+and of course it seems as if this really has an attenuative meaning, whereas the other "attenuative" suffixes in Kamchatka seem to function as comparatives; inŋat = fur
+and feathers
+\ru У девушки волосы черные сильно, точно как на вороны перья похожие, почти как уголь черные, синеватые немножко
+
+\id bragging_fish
+\ref equative
+\tx Urkeːn  teːleŋedden                  ọllaw     epkenčeji,             guːnni     "asụnni         egdʒemen              bi   epkeniwu
+\mb hurkeːn teːleŋ -E-D     -R(E) -n(I)  ọlra -W   hepken -čE    -J       goːn -n(I) asụn  -n(I)     egdʒen -W   -n(I)     biː hepken -RI -W
+\ge boy      tell     -ep-prog -nonfut -3sg fish   -acc catch  -pf.ptc -prfl.sg say   -3sg  how.big -poss.3sg big     -acc -poss.3sg 1sg  catch  -pst -poss.1sg
+
+\tx ọllaw".
+\mb ọlra -W
+\ge fish   -acc
+
+\ft
+\ph
+\gr egʤemen = correct, kakoj velichinoj ja pojmal rybu
+
+\id children_sailing
+\ref pretense
+\ref prompt: delajut vid budto
+\tx Dʒuːr asatkar ewidde, ịawụčasị kojeːčidde trubeč, turubeludde. Ekedmer kụŋa ịawụč ajmakan mịaŋčịddan,
+gịadmar nan kojeːčidden, gịatkiji. Mọmịkandu tegečidde.
+
+\id child_doctor
+\ref pretense
+\ref prompted with "delaet vid"
+\tx Kụŋa ewidden begdečimŋe bideji, kojeːčiddende, ịawụčasi ọńadaji nekedden.
+
+\id child_fishing
+\ref pretense
+\tx Kụŋa ewidden                  ọllakam            bejčidden,               čiŋečidden.
+\mb kụŋa ewiː -D    -R(E) -n(I)  ọlra -KEn     -W   bejči -D    -R(E) -n(I)  čiŋeč    -E-D     -R(E) -n(I)
+\ge child   play  -prog -nonfut -3sg fish   -dim.int -acc hunt   -prog -nonfut -3sg fishing.rod -ep-prog -nonfut -3sg
+
+\ft
+\gr čiŋečidden = lovit udochkoj
+
+\id child_professor
+\ref equative
+\tx Kụŋa meːni eskedden, professor urečinni bideji, ajdịt?
+
+\id child_superman
+\ref pretense
+\ref delaet vid chto on supermen
+\tx Kụŋa meːni egdʒen eŋi bej bideji čeledukun mergeč.
+
+\id church_tree
+\ref comparative
+\tx Cerkov   ańčịndụlan            gụːdaŋamkar        mọː isudden.
+\mb cerkov'  ańčịn    -(dU)LE -n(I)  gụːdan -ŋ  -E-mkEr mọː isu  -D    -R(E) -n(I)
+\ge church.R space.beside -loc -poss.3sg height    -aln -ep-aug tree   grow -prog -nonfut -3sg
+\ft
+\ref prompted with "cerkov nizhe"
+\tx Cerkov mọːduk irgile bisni.
+
+\id fish_ball
+\ref similative
+\tx Ọlla buŋńuli meːčik urečinni.
+
+\id fish_hedgehog
+\ref similative
+\ref poxozh na ezhik
+\tx Ọlla mereti inmelkende, jožik urečinni.
+
+\id flying_birds
+\ref equative
+\tx Sinica deγsen           ojli        detlejide             gusete detleγčinni               kalimkanni.
+\mb sinica deg -R(E)   -n(I) oj  -(dU)LI deːtle -J       =DE  gusete deːtle -G(E)čIn -n(I)     kalimkan -n(I)
+\ge tit.R  fly -nonfut -3sg  top -prol   wing    -prfl.sg =ptl eagle  wing    -sml      -poss.3sg soar     -3sg
+
+\ft
+\gr gusete detleγčinni = kak orlinnye krylja
+\ru Синица летит так высоко, что крылья как орлинные крылья парят
+
+\id giant
+\ref superlative
+\tx Urkeːn  isurin              eńtildukijidetitte                     tar  gụːde, dʒuːrekendetitte          ịlụkandʒin
+\mb hurkeːn isu  -RI -n(I)      eńtil  -DUk(U) -J       =DE  =tIt =DE  tar  gụd -E  dʒoːr -REkEn    =DE  =tIt ịl     -WkEn -DʒI -n(I)
+\ge boy      grow -pst -poss.3sg parents -abl    -prfl.sg =ptl =ptl =ptl thus high  -ep two     -iter.adv =ptl =ptl stand.up -caus -fut -3sg
+
+\ft
+\ru Парень вырос выше родителей даже, аж дважды поставить можно.
+
+\id horse_snow
+\ref equative
+\ref po cvetu vot loshadj
+\tx Ńọːbatị mụran tugenidu bụjịn urečinni.
+\mb
+\ref she sort of perestroila sentence on the go, so a different version is:
+\tx tugenidu bụjịn urečinni ńọːbatị mụran
+\mb
+\ref when I peresprosila:
+\tx Mụran ńọːbatị tugenidu bụjịn urečinni.
+\ru лошадь похожая на зимний лес
+
+\id  huge_fish
+\ref equative / comparative
+\tx Erek bej ọllaŋgaji                epkenin,              ịakụč gerbenesi                asụkụt soma,         erroːčinni
+\mb erek bej ọlra -ŋ  -GE    -J       hepken -RI -n(I)      ịakụč gerbe -n(I)     -E=sI    asụkụt som       -E  erroːčin -n(I)
+\ge prox man fish   -aln -desig -prfl.sg catch  -pst -poss.3sg somebody?  name  -poss.3sg -ep=emph almost     catfish.R -ep prox.qual  -poss.3sg
+
+\tx amarla         goːweːtte           biweːtten.             Ọːnụčasi        eŋi   urečinni,          ọllakaːja.
+\mb amar   -(dU)LE goːn -WEːČ -R(E)   bi -WEːČ -R(E) -n(I)  ọːn =(W)UttE =sI   eŋi   ureːčin -n(I)     ọlra -kEːjE
+\ge behind -loc    say   -gnr    -nonfut be -gnr    -nonfut -3sg how    =indef   =emph strong similar   -poss.3sg fish   -aug
+\ft
+\gr amardal = te kotorye szadi = predki
+\ru этот человек рыбу себе поймал, как называется, чуть ли не сом, такая рыба в старину говорят была.
+\ph
+\ref asked her to say "rostom kak on"
+\tx egdʒen nọŋandukun, urgedatitte
+
+\id Masha_sister
+\ref equative
+\tx Nuːdmer asatkan nọːdkakan ekenduki, čeledʒi attatịtta, ịtịːn čeledʒi nọːd, arumtunda nọːd, emennide, 
+ịasalonda.
+
+\ru Младшая девушка красивее старшей, ничего нет, лицо все красивое, и брови красивые и губы и глаза.
+\ph RMS clearly pronounces arUmtUnda, even though the word is aramta, and she also says iasalOnda
+\gr čeleʤi attatitta - meant to say čeleʤi keńelin attatitta = nichego ploxogo net; noːdkakan ekenduki = krasivee svoej starshej sestry
+\nt
+\ref asked for "Masha isn't as pretty as her sister)
+\tx Maša enni nuːduki esni nọːd bise.
+
+\id Petya_Misha_simple
+\ref comparative
+\tx Dʒuːr kụŋal,   ịlanńuleken               digenńuleken               anŋanatan.         Akadmar              kụŋa aγdịdmar    kụŋa kučuken
+\mb dʒoːr kụŋa -L  ịlan ńulek      -n(I)     digen ńulek      -n(I)     anŋan -E-tEn       akan          -dmEr  kụŋa hagdị -dmEr  kụŋa kočuken
+\ge two     child   -pl three  in.addition -poss.3sg four  in.addition -poss.3sg year   -ep-poss.3pl older.brother -contr child   old     -contr child   small
+
+\tx baːddʒi,              nuːdmerdu,                 nibuke, gịadmar     egdʒen, bergemnin   urečinni berge.
+\mb baːd      -DʒI        noː            -dmEr  -DU  ńubuke gịa  -dmEr  egdʒen  berge -mrIn ureːčin berge
+\ge appearance -ins.prfl.sg younger.sibling -contr -dat thin    friend -contr big      fat   -attn similar   fat
+
+\ft
+\gr bergemnin = po-zhirnee = bergešuken, nemnozhko zhirnee, tolshe; nuːdmerdu = not correct, should be nuːdmerduK
+
+\id Petya_Misha_strong
+\ref equative
+\tx Petja meːni mergečidden eŋi ọːdaji Mišeγčin.
+
+\id Petya_Misha_tall
+\ref equative
+\tx Miša Petjaduk      gụːd.
+\mb Miša Petja -DUk(U) gụd
+\ge Misha Petja -abl    high
+\ft
+\ref prompted with "ne takoj vysokij"
+\tx Petja Mišaduk      tobekemnin,   miːreklen                     bidʒin.
+\mb Petja Miša -DUk(U) tobekun -mrIn miːr    -E-klE      -n(I)     bi -DʒI -n(I)
+\ge Petja Misha -abl    low     -attn shoulder -ep-all.loc -poss.3sg be -fut -3sg
+
+\ft
+\gr tobekemnin = tobekšuken = nizhe, Petja nizhe Mishi
+
+\id Petya_Misha_wish
+\ref equative
+\tx Bide Miša urečinni bimsem, gụːdde eŋide.
+
+\id piggy_girl
+\ref similative
+\tx Kụŋa dʒebesčidden ejdu meːni esirin čelelinde usiŋeddin, swińaγčin meːni ejdu esirin.
+
+\id pretty_mother_daughter
+\ref equative
+\tx Asị ụnaːdʒnumi             tegečidden.                           Ụnaːdʒadmar        ekmi            bumŋen      urečinni.          Ińimsede,
+\mb asị hụnaːdʒ -ńUn -J       teg      -E-Č   -E-D     -R(E) -n(I)  hụnaːdʒ -E  -dmEr  eken   -J       bumŋen      ureːčin -n(I)     inim  -R(E)   =DE
+\ge woman child       -com  -prfl.sg sit.down -ep-res -ep-prog -nonfut -3sg daughter    -ep -contr mother -prfl.sg exactly.like similar   -poss.3sg smile -nonfut =ptl
+
+\tx ińimsen           tačịnta           tegečimi               emennida            allad'ịn, ekmi            emenni         urečinni,          tabịč
+\mb inim  -R(E) -n(I)  tarrọːčịn =DE  teg      -Č  -mI       emen -n(I)     =DE  allad'ịn  eken   -J       emen -n(I)     ureːčin -n(I)     tabịč
+\ge smile -nonfut -3sg dist.qual       =ptl sit.down -res -cond.cvb lips -poss.3sg =ptl properly    mother -prfl.sg lips -poss.3sg similar   -poss.3sg again
+
+\tx ịasalatan           urečil,      ịasalon          uŋe          tarme gieŋi           čụlbańašukan, ńuːriteten           urečil.
+\mb ịašal -E-tEn       ureːčin -L  ịašal -n(I)     uŋ       -E  tarma gịa -ŋI       čụlbańa -sUkEn ńuːrit -E  -tEn      ureːčin -L
+\ge eyes     -ep-poss.3pl similar   -pl eyes     -poss.3sg something -ep but   next  -pred.poss grue        -attn  hair     -ep -poss.3pl similar   -pl
+
+\ft
+\gr bi ińimsem, ińimsiwu; urečil = odinakovye, and poxozhie; 
+\ru их глаза одинаковые, ее глаза немножно голубее чем у другой, волосы их одинаковые
+
+\id Ruslan_Mikhail
+\ref equative
+\tx Ruslan Mikhailduk noseːγčen, Mikhail kọč ujunmịarda anŋaŋanni, Mikhailaŋi tụnŋanmịar. 
+
+\id singing_bird
+\ref similative
+\tx Asatkan ikeːw ikeːdden, čụkačaːnasi čịbalandʒiddan.
+\mb
+\ge
+\ref then added "what more?" and slowly repeated for my benefit; so I asked "ona poet kak solovej"
+\tx Asatkan nọːdịč    ikeːn      čịllịlịγčin.
+\mb asatkan nọːd -E-Č   ikeː -n(I) čịllịlị -G(E)čIn
+\ge girl    pretty  -ep-ins sing  -3sg  nightingale    -sml
+
+
+\id smoking_chimney
+\ref
+\tx Asatkan tebekiw        kọllan           peč    trubeγčinni,                 aːnịm       ọŋatliji                iːran.
+\mb asatkan tabak     -W   kọl -R(E) -n(I)  peč'   truba  -G(E)čIn -n(I)     -E  haːnịn -W   ọŋọt -(dU)LI -J       hiːra  -n(I)
+\ge girl    tobacco.R -acc drink -nonfut -3sg stove.R pipe.R -sml      -poss.3sg -ep smoke     -acc nose      -prol   -prfl.sg breathe -3sg
+
+\ft
+\ph
+\gr iːan = dyshit, bi iːraram; pec trubeγčinni = kak pechnaja truba, one can also say peč trubeγčin
+\nt
+
+\id spiders
+\ref equative
+\ref razmer kak eti doma
+\tx Atakị gịrkaddan gorodli egdʒen, asụkụt umen etaž diːnni.
+
+\id strong_as_lion
+\ref equative
+\tx Urkeːn mergečidden, ọːngu bi eŋi biseku, čelewen urgedereji, lewgečin.
+
+\id swims_like_fish
+\ref similative
+\tx Ńarịkan teːŋčin basejnali ọllaγčin.
+
+\id swordfish
+\ref similative
+\tx Ọlla ọŋatan gịd urečinni.
+
+\id tea_for_dolls
+\ref pretense
+\tx Kučuken asatkan ewidden, ewikelbi bejikerbi alịkaldulatan čajiŋgatan uŋkedden.
+
+\id tree_church
+\ref equative
+\tx Mọː gụːdsụkan cerkovduk.
+\mb mọː gụd -sUkEn   cerkov'  -DUk(U)
+\ge tree   high  -attn    church.R -abl
+\ft
+\ru выше церкви
+
+\id walking_duck
+\ref similative
+\tx Eːrbeːč gịrkaddan                kụŋakan       amardadun,                  tačịnda           buːdeli         buːdeldʒi          uŋnen,
+\mb eːrbeč   gịrka -D    -R(E) -n(I)  kụŋa -KEn     amar   -gIdE -DU  -n(I)     tarrọːčịn =DE  boːdel -J       boːdel -DʒI        uŋ -R(E) -n(I)
+\ge goose      walk    -prog -nonfut -3sg child   -dim.int behind -part -dat -poss.3sg dist.qual       =ptl leg(s)  -prfl.sg leg(s)  -ins.prfl.sg do  -nonfut -3sg
+
+\tx kụŋa bumŋen      kụŋakan       gịrkan      urečinni.
+\mb kụŋa bumŋen      kụŋa -KEn     gịrka -n(I) ureːčin -n(I)
+\ge child   exactly.like child   -dim.int walk    -3sg  similar   -poss.3sg
+
+\ft
+\gr the correct form is "tačịnda buːdelʤi uŋnen"
+\ru гусь ходит за ребенком, так же ногами делает, точно как ребенок идет этот гусь

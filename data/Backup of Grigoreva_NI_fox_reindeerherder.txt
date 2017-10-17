@@ -1,0 +1,1637 @@
+\_sh v3.0  1198 Text
+
+\id Grigoreva_NI_fox_reindeerherder_001
+\ref
+\tx Pašanukandʒim.
+\mb pasanụkan -DʒI -m
+\ge hit         -fut  -1sg
+\ft I'll clap.
+\ph
+\nt
+\ev
+\ru Я буду хлопать...
+\ELANBegin 00:00:00.190
+\ELANEnd 00:00:01.580
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_002
+\ref
+\tx
+\ft We'll clap.
+\ev
+\ru
+\ELANBegin 00:00:01.580
+\ELANEnd 00:00:03.620
+\ELANParticipant BP
+
+\id Grigoreva_NI_fox_reindeerherder_003
+\ev Clap and laughter.
+\ru
+\ELANBegin 00:00:03.620
+\ELANEnd 00:00:08.560
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_004
+\ref
+\tx Etikeːn Pačinoj kusčiddeneːj                         ọrčarbi.
+\mb etikeːn Pačinoj kusči        -D    -R(E) -n(I)  =eː  ọrọn          -čEn -L  -J
+\ge old.man  Pachinoj herd.reindeer -prog -nonfut -3sg =emph domestic.reindeer -dim  -pl -prfl.sg
+
+\ft Old man Pachinoj is herding his (few) reindeer.
+\ph
+\gr 27/06/2016: Q: ọrčarbi = potomuchto ix malo? A: da, ili mozhet bytj oni milenkie oleshki; so a positive connotation, and not fixed - in "Uindja", rec.5 she said (when I asked) that it
+was "malo olenej", and here she feels there could be a different connotation; which supports the finding that the diminutives don't have fixed specific semantic connotations, but a
+primary grammatical function with additional possible connotations depending on the context
+\ev
+\ru Старик Пачиной пасет своих оленей.
+\ELANBegin 00:00:08.560
+\ELANEnd 00:00:14.360
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_005
+\ref
+\tx Nan    tare      abalkaːja   ọːdakan                     ọrọl...           ọrọlni                      nọŋan untetki       turteki
+\mb ńaːn tarak -E  abal -kEːjE ọː  -REk -E-n(I)            ọrọn          -L  ọrọn          -L  -n(I)     nọŋan honte -t(E)kI tor   -t(E)kI
+\ge and    dist  -ep few  -aug    become -cond.cvb -ep -poss.3sg domestic.reindeer -pl domestic.reindeer -pl -poss.3sg 3sg      other -all    earth -all
+
+\tx nuddin.
+\mb nud     -RI -n(I)
+\ge migrate -pst -poss.3sg
+
+\ft And when his reindeer had become very few, he migrated to a different place.
+\ev
+\ru И вот когда стало мало у него оленей он на другую землю перекочевал.
+\ELANBegin 00:00:14.360
+\ELANEnd 00:00:27.320
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_006
+\ref
+\tx Nuddineːj                   umekiče,   nan    emniten             ọkaːtkakan   ańčịndụlan.
+\mb nud     -RI -n(I)      =eː  umekič -E  ńaːn em   -RI -tEn       ọkaːt -kEkEn ańčịn    -(dU)LE -n(I)
+\ge migrate -pst -poss.3sg =emph very    -ep and    come -pst -poss.3pl river    -dim   space.beside -loc -poss.3sg
+\ft And he migrated, and they arrived near a little river.
+\ph
+\gr okatkakan = prosto reka malenkaja
+\ev
+\ru И вот они переехали и пришли они на берег речки /возле речки. 
+\ELANBegin 00:00:27.320
+\ELANEnd 00:00:34.240
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_007
+\ref
+\tx Nan    ečin      guːnni     atịkantakịji:
+\mb ńaːn erroːčin goːn -n(I) atịkan  -t(E)kI -J
+\ge and    prox.qual  say   -3sg  old.woman -all    -prfl.sg
+
+\ft And he said like this to his wife:
+\ph
+\ev
+\ru И вот так говорит своей жене.
+\ELANBegin 00:00:34.240
+\ELANEnd 00:00:38.000
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_008
+\ref
+\tx Eto    teːdeke ọkaːt.
+\mb eto    teːdeke ọkaːt
+\ge this.R mat      river
+\ft This is a XXX river.
+\ph
+\nt Rimma couldn't understand what this was supposed to mean, since teːdeke means "mat" and that doesn't fit with 'river'
+\ev
+\ru
+\ELANBegin 00:00:38.000
+\ELANEnd 00:00:41.160
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_009
+\ref
+\tx Họːja hele         ọllada    biddʒin,            ajdịt, dilgenkede      ele          tuttoːtten.
+\mb họːja erek -(dU)LE ọlra =DE  bi -D    -DʒI -n(I) ajdịt  dʒelgenke =DE  erek -(dU)LE tut -WEːČ -R(E) -n(I)
+\ge many     prox -loc    fish   =ptl be -prog -fut -3sg   truth    animal     =ptl prox -loc    run -gnr    -nonfut -3sg
+\ft There will be a lot of fish here, right, and animals run here.
+\ev
+\ru Много здесь рыбы тоже будет, правда, и животные/звери здесь бегают.
+\ELANBegin 00:00:41.160
+\ELANEnd 00:00:48.380
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_010
+\ref
+\tx Atịkanni          guːnni     "Iŋe iŋe, etikeːn, ajdịtta."
+\mb atịkan  -n(I)     goːn -n(I) iŋe  iŋe  etikeːn  ajdịt =DE
+\ge old.woman -poss.3sg say   -3sg  yes   yes   old.man   truth   =ptl
+\ft His wife says: "Yes, yes, old man, that's right".
+\ev
+\ru Старуха его говорит, да да старик, правда  тоже.
+\ELANBegin 00:00:48.380
+\ELANEnd 00:00:52.640
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_011
+\ref
+\tx "Abal umekič ọːdịn            ọrčarti.
+\mb abal  umekič ọː  -RI -n(I)      ọrọn          -čEn -L  -t(I)
+\ge few   very    become -pst -poss.3sg domestic.reindeer -dim  -pl -poss.1pl.in
+\ft "Our reindeer have become very few.
+\ev
+\ru Мало очень стало у нас оленей.
+\ELANBegin 00:00:52.640
+\ELANEnd 00:00:56.680
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_012
+\ref
+\tx Čaš iludger."
+\mb čas  hilu  -D    -GEr
+\ge ptl   drink -prog -imp.1pl.in
+\ft Well, let's drink tea".
+\ev
+\ru Ну ладно, давай будем пить чай.
+\ELANBegin 00:00:56.680
+\ELANEnd 00:00:59.660
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_013
+\ref
+\tx Nan    ečin      iluddeketeneːj                       ịamị ịakkakanbedʒi     tuttenbedʒi             etetetekekejišịle.
+\mb ńaːn erroːčin hilu  -D    -REk      -tEn      =eː  ịamị ịak -kEkEn =bEdʒI tut -R(E) -n(I)  =bEdʒI etetetekekej      -E  =sI   =lE
+\ge and    prox.qual  drink -prog -cond.cvb -poss.3pl =emph ptl      what  -dim   =emph   run -nonfut -3sg =emph   vot.kakaja(small) -ep =emph =emph
+\ft And as they were drinking tea like this suddenly something small and fast run up.
+\ev
+\ru И вот они пили долго чай и вдруг кто это какая бежит такая шустренька.
+\ELANBegin 00:00:59.660
+\ELANEnd 00:01:07.100
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_014
+\ref
+\tx Nan    ečin      uŋešnin:                "Dorowa, Pačinoj!".
+\mb ńaːn erroːčin uŋ -s(E)n -RI -n(I)      dorobo   Pačinoj
+\ge and    prox.qual  do  -lim   -pst -poss.3sg hello.R  Pachinoj
+\ft And it did like this: "Hi there, Pachinoj!".
+\ev
+\ru И вот так она сделала: "Здравствуй, Пачиной!"
+\ELANBegin 00:01:07.100
+\ELANEnd 00:01:14.020
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_015
+\ref
+\tx Tarak ọllan,                       guːnni     "Bobobo, ịakawụl  bišenni?".
+\mb tarak ọl              -R(E) -n(I)  goːn -n(I) bobobo   ịak =(W)Ul bi -R(E)   -nrI
+\ge dist  become.frightened -nonfut -3sg say   -3sg  bobobo   what  =indef be -nonfut -2sg
+\ft That one got a fright, said "Bobobo, who on earth are you?".
+\ev
+\ru Тот испугался, говорит "бобобо, кто ты есть?".
+\ELANBegin 00:01:14.020
+\ELANEnd 00:01:18.020
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_016
+\ref
+\tx "Herekke, bi   bišem,         uli".
+\mb erek =kkE biː bi -R(E) -m     hụlịčan
+\ge prox =ptl 1sg  be -nonfut -1sg fox
+\ft "But it's me, the fox".
+\ph
+\nt the usual word for 'fox' is uličan, but in fairy tales it's uli
+\ev
+\ru Это же я, лиса.
+\ELANBegin 00:01:18.020
+\ELANEnd 00:01:21.980
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_017
+\ref
+\tx "Čajak! Ịadaj              iː  eweški        emenni?".
+\mb čaj     ịa    -DE -J       hiː erek -skI      em   -R(E)   -nrI
+\ge go.away  do.what -vr -prfl.sg 2sg  prox -advb.all come -nonfut -2sg
+\ft "Go away! What did you come here for?".
+\ph
+\nt as is obvious from the voice, this is Pachinoj speaking
+\ev
+\ru Пошла вон, что ты/зачем ты сюда пришла!
+\ELANBegin 00:01:21.980
+\ELANEnd 00:01:26.620
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_018
+\ref
+\tx "Bi  kojeːčiddemeːj                   abalkakan   umekič ọːdịn            ọrọlši,                    tarte"
+\mb biː kojeːt -E-D     -R(E) -m     =eː  abal -kEkEn umekič ọː  -RI -n(I)      ọrọn          -L  -s(I)     tarte
+\ge 1sg  look.at -ep-prog -nonfut -1sg =emph few  -dim   very    become -pst -poss.3sg domestic.reindeer -pl -poss.2sg only.this.much
+
+\ft "I see that your reindeer have become very few, only this much".
+\ph I hear "tarteT" at the end, but I checked again on 27/06/2016 and Rimma was adamant that it is only "tarte"
+\ev
+\ru тарте = вот только Я смотрю, мало совсем стало оленей, вот столько.
+\ELANBegin 00:01:26.620
+\ELANEnd 00:01:35.560
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_019
+\ref
+\tx "Nan   ọːnaši   tar  tačịnda           nan    ọːdịtan,         abalkakan.
+\mb ńaːn ọːn =sI   tar  tarrọːčịn =DE  ńaːn ọː  -RI -tEn       abal -kEkEn
+\ge and    how    =emph thus dist.qual       =ptl and    become -pst -poss.3pl few  -dim
+\ft Well so what, that's how many are left, a few.
+\ph
+\gr abalkakan = malovato
+\ev
+\ru Ну и что, столько-то стало (не твое дело), маловато.
+\ELANBegin 00:01:35.560
+\ELANEnd 00:01:41.820
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_020
+\ref
+\tx Tụnŋan ọrčarbu                            ụlaːptitan."
+\mb tụnŋan ọrọn          -čEn -L  -W        hụlaː -B   -RI -tEn
+\ge five      domestic.reindeer -dim  -pl -poss.1sg leave    -med -pst -poss.3pl
+\ft Five reindeer of mine are left."
+\ev
+\ru Пятеро моих оленей осталось.
+\ELANBegin 00:01:41.820
+\ELANEnd 00:01:45.940
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_021
+\ref
+\tx "Iŋe iŋe guːnem,           tarme ele          ajdụla     torle         emniš,             ele          uŋde          ọr..
+\mb iŋe  iŋe goːn -R(E) -m     tarma erek -(dU)LE aj   -(dU)LE tor   -(dU)LE em   -RI  -s(I)     erek -(dU)LE uŋ       =DE  ọrọn
+\ge yes   yes  say   -nonfut -1sg but   prox -loc    good -loc    earth -loc    come -pst -poss.2sg prox -loc    something =ptl domestic.reindeer
+
+\tx ọllọŋešta            bidʒin,       ajdịt?"
+\mb ọlra -ŋ  -s(I)     =DE  bi -DʒI -n(I) ajdịt
+\ge fish   -aln -poss.2sg =ptl be -fut -3sg   truth
+
+\ft "Yes, yes, I agree, but here you've come to a good place, here there will be fish for you too, right?".
+\ev
+\ru Да да говорю, но здесь на хорошую землю пришел, здесь и рыбы тебе будет, правда?
+\ELANBegin 00:01:45.940
+\ELANEnd 00:01:57.080
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_022
+\ref
+\tx "Iŋe, ọllaŋuda                bidʒin,       čaš ọllọwbedʒi     epkudʒimbedʒi.
+\mb iŋe   ọlra -ŋ  -W        =DE  bi -DʒI -n(I) čas  ọlra -W   =bEdʒI hepken -DʒI -m   =bEdʒI
+\ge yes    fish   -aln -poss.1sg =ptl be -fut -3sg   ptl   fish   -acc =emph   catch  -fut  -1sg =emph
+\ft "Yes, I will have fish, well, I will catch fish.
+\ev
+\ru Да, и рыба у меня будет, ладно, рыбу же ловить будут.
+\ELANBegin 00:01:57.080
+\ELANEnd 00:02:02.240
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_023
+\ref
+\tx Taralgelda            bergedeten                meːnken."
+\mb tarak -L  =gEl   =DE  berge -DE       -tEn      meːn -KEn
+\ge dist  -pl =coord =ptl fat   -purp.cvb -poss.3pl refl  -dim.int
+\ft And let these (reindeer) fatten up by themselves."
+\ev
+\ru А эти то пусть жиреют сами.
+\ELANBegin 00:02:02.240
+\ELANEnd 00:02:05.060
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_024
+\ref
+\tx "Tabịčị... dọldal...   dọldanni,  Pačinoj.
+\mb tabịč -E     dọlda -L    dọlda -nrI Pačinoj
+\ge again    -ep    hear    -inch hear    -2sg Pachinoj
+\ft "Well, listen here, Pachinoj.
+\ev
+\ru Ну вот, слышишь Пачиной?
+\ELANBegin 00:02:05.060
+\ELANEnd 00:02:08.920
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_025
+\ref
+\tx Uŋeŋeškkeda                     aččada,   kusčimŋešda                     ačča."
+\mb uŋ       -ŋ  -s(I)     =kkE =DE  ačča =DE  kusči        -mŋE -s(I)     =DE  ačča
+\ge something -aln -poss.2sg =ptl =ptl neg    =ptl herd.reindeer -agnr -poss.2sg =ptl neg
+\ft You don't have this one, you don't have a herder."
+\ev
+\ru Ну этого то нету у тебя, пастуха нету.
+\ELANBegin 00:02:08.920
+\ELANEnd 00:02:14.040
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_026
+\ref
+\tx "Iŋe, ačča kusčimŋu!
+\mb iŋe   ačča kusči        -mŋE -W
+\ge yes    neg    herd.reindeer -agnr -poss.1sg
+\ft "Yes, I have no herder!
+\ev
+\ru Нету пастуха у меня.
+\ELANBegin 00:02:14.040
+\ELANEnd 00:02:17.760
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_027
+\ref
+\tx Tabịt       bide      aγdịram,          aγdị ọːdam.
+\mb tabačịsị biː =DE  hagdị -R(E) -m     hagdị ọː  -R(E) -m
+\ge then          1sg  =ptl old     -nonfut -1sg old     become -nonfut -1sg
+\ft And I have become old.
+\ph
+\gr aγdiram is the wrong form, should be aγdinam
+\ev
+\ru Но ведь тоже состарился, старым стал.
+\ELANBegin 00:02:17.760
+\ELANEnd 00:02:24.080
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_028
+\ref
+\tx Kụŋaŋalbunda,                     ašapar,     ačča."
+\mb kụŋa -ŋ  -E-L   -WUn         =DE  asapar       ačča
+\ge child   -aln -ep-pl -poss.1pl.ex =ptl I.don't.know neg
+\ft And I don't know, we don't have any children."
+\ev
+\ru И детей-то не знаю, нету.
+\ELANBegin 00:02:24.080
+\ELANEnd 00:02:29.680
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_029
+\ref
+\tx "Dọldanni, Pačinoj"
+\mb dọlda -nrI Pačinoj
+\ge hear    -2sg Pachinoj
+\ft "Listen, Pachinoj".
+\ev
+\ru Слышишь Пачиной.
+\ELANBegin 00:02:29.680
+\ELANEnd 00:02:33.680
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_030
+\ref
+\tx "Iː"
+\mb iː
+\ge yes
+\ft "yes"
+\ev
+\ru
+\ELANBegin 00:02:33.680
+\ELANEnd 00:02:36.260
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_031
+\ref
+\tx "Bikke    ere  kusčilen          bišem."
+\mb biː =kkE erek kusči        -LEn bi -R(E) -m
+\ge 1sg  =ptl prox herd.reindeer -nr  be -nonfut -1sg
+\ft "I'm a master at herding reindeer."
+\ev
+\ru Я же пасти оленей мастер.
+\ELANBegin 00:02:36.260
+\ELANEnd 00:02:39.980
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_032
+\ref
+\tx "Iː, hụlị?
+\mb hiː  hụlịčan
+\ge 2sg   fox
+\ft "You, fox??
+\ev
+\ru Ты лиса?
+\ELANBegin 00:02:39.980
+\ELANEnd 00:02:42.220
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_033
+\ref
+\tx Ọːkarapči         iː  tawụr kusčilen          bišenni?"
+\mb ọːk -(E)rEp -pčVn hiː tawụr kusči        -LEn bi -R(E)   -nrI
+\ge when   -adjr   -adjr  2sg  this    herd.reindeer -nr  be -nonfut -2sg
+\ft Since when are you a master at herding reindeer?"
+\ev
+\ru С каких пор ты вот мастер пасти стало?
+\ELANBegin 00:02:42.220
+\ELANEnd 00:02:45.360
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_034
+\ref
+\tx "Edʒi       guːkileː           Pačinoj, bikke     er  umekiče    haːwaj   bišeme,            giekiw         ọralbe
+\mb e   -LI      goːn -kIl     =eː  Pačinoj  biː =kkE er  umekič -E  haːwaj   bi -R(E) -m     -E  gịakị -W   ọrọn          -L-W
+\ge neg -imp.2sg say   -proh.sg =emph Pachinoj  1sg  =ptl ptl very    -ep skillfull be -nonfut -1sg -ep various   -acc domestic.reindeer -pl-acc
+
+\tx kusčiddʒime,                     ọːjaw      ọːwkandʒima".
+\mb kusči        -D    -DʒI -m   -E  họːja -W   ọː -WkEn -DʒI -m   -E
+\ge herd.reindeer -prog -fut  -1sg -ep many     -acc make  -caus -fut  -1sg -ep
+
+\ft "Don't say (that), Pachinoj, I am very skillful, I will herd various reindeer, make (them) become many".
+\ev
+\ru Не говори Пачиной, я же вот очень мастер, всяких оленей пасти, сделаю что много их станет.
+\ELANBegin 00:02:45.360
+\ELANEnd 00:02:58.400
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_035
+\ref
+\tx "Herro, mịamdačakan                   elekes   dọldịram         uli          ụlịčam       kusčiden!
+\mb erro    mịan       -W     =DE  =čEkEn elekes   dọlda -R(E) -m     hụlịčan hụlịčan -W   kusči        -DE       -n(I)
+\ge oh      be.surprised -advrs =ptl =emph   at.first hear    -nonfut -1sg fox          fox          -acc herd.reindeer -purp.cvb -poss.3sg
+\ft "Well, how surprising, I hear that for the first time that a fox herds (reindeer)!".
+\ph
+\gr uličam: ACC case = slyshu pro lisu
+\gr miamdačakan = kak udivitelno, tikundačakan = kak dosadno; miamdačakan = from miandaj, bi mianam; estj slovo miamda, "udivitelno", tikundačakan ot slova tikunde "serdito", est
+slovo tikuń, tikuńa, tikuńda; est: mianam and miaŋčiram; when I asked whether there is a verb "miamdaj", bi miamnam, she said "no", but then she said "bi miamnam" = udivilisj ot
+menja, ja natvorila chto vse udivlajutsja, bi miamnam bejildu
+\ev
+\ru Вот удивительно, первый раз слышу, чтобы лиса пасла!
+\ELANBegin 00:02:58.400
+\ELANEnd 00:03:06.860
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_036
+\ref
+\tx Ụlịčankke    dʒọrmịn"
+\mb hụlịčan =kkE dʒọrọm -n
+\ge fox          =ptl steal       -nr
+\ft The fox is a thief, right".
+\ev
+\ru Лиса же воровка.
+\ELANBegin 00:03:06.860
+\ELANEnd 00:03:09.080
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_037
+\ref
+\tx "Ešni         bi   dʒọrmịn    biše,      bi   beldʒim        indu,        Pačinoj, dọldanni?".
+\mb e -R(E) -n(I)  biː dʒọrọm -n  bi -R       biː bel  -DʒI -m   hin     -DU  Pačinoj  dọlda -nrI
+\ge neg -nfut -3sg 1sg  steal       -nr be -neg.cvb 1sg  help -fut  -1sg 2sg.obl -dat Pachinoj  hear    -2sg
+\ft "I'm not a thief, I will help you, Pachinoj, do you hear?".
+\ph
+\gr should be "ešem bi ʤormin biše" - she probably started off with "ešni" for "no" and then simply forgot the 1sg neg verb
+\ev
+\ru Я не воровка, я помогу тебе Пачиной, слышишь?
+\ELANBegin 00:03:09.080
+\ELANEnd 00:03:15.360
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_038
+\ref
+\tx Atịkan  guːnni     "Edʒi,      etikeːn, tedʒette             tawụr ụlịčajakan     olekčine".
+\mb atịkan  goːn -n(I) e   -LI      etikeːn  tedʒe  -Č  -R       tawụr hụlịčan -jEkEn olekči -n(I) -E
+\ge old.woman say   -3sg  neg -imp.2sg old.man   believe -res -neg.cvb this    fox          -dim   cheat   -3sg  -ep
+\ft The old woman says "Don't believe (it), old man, that fox is lying!".
+\ph there's a "ta" before teʤette, which is simply an ogovorka
+\gr Rimma said that eʤi teʤette was correct, it doesn't have to be eʤi teʤetkil; uličajakan = ploxaja lisička
+\ev
+\ru Старуха говорит, Не верь, старик, эта лиса врет/обманывает.
+\ELANBegin 00:03:15.360
+\ELANEnd 00:03:23.380
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_039
+\ref
+\tx "Ešem           bi   olekčir!
+\mb e   -R(E) -m     biː olekči -R
+\ge neg -nonfut -1sg 1sg  cheat   -neg.cvb
+\ft "I'm not cheating!
+\ev
+\ru Я не обманываю.
+\ELANBegin 00:03:23.380
+\ELANEnd 00:03:25.140
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_040
+\ref
+\tx Bi   ajdịtta    beldʒim,       bikke     mannụttam               undu,        ịadu     minu         tačịmụr    goːnenni?"
+\mb biː ajdịt =DE  bel  -DʒI -m   biː =kkE manrụ -Č  -R(E) -m     hun     -DU  ịak -DU  min     -W   tarrọːčịn goːn -R(E)   -nrI
+\ge 1sg  truth   =ptl help -fut  -1sg 1sg  =ptl try     -res -nonfut -1sg 2pl.obl -dat what  -dat 1sg.obl -acc dist.qual       say   -nonfut -2sg
+\ft I will really help, I will try hard for you, why do you say like that about me?"
+\ev
+\ru Я правда помогу, я же стараюсь вам, зачем про меня так говоришь?
+\ELANBegin 00:03:25.140
+\ELANEnd 00:03:30.740
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_041
+\ref
+\tx Atịkan: "čajak!"
+\mb atịkan  čaj
+\ge old.woman go.away
+\ft The old woman (says): "Go away!"
+\ev
+\nt It's not really clear whether this is the fox telling the old woman to go away or the old woman telling the fox.
+\ru Старуха: Уходи
+\ELANBegin 00:03:30.740
+\ELANEnd 00:03:35.080
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_042
+\ref
+\tx "Voobše     eto    ajdịtta,   atịkan, hụlị     tawụr hajị toren.
+\mb voobše      eto    ajdịt =DE  atịkan  hụlịčan tawụr aj     tore  -n(I)
+\ge in.general.R this.R truth   =ptl old.woman fox          this    good   speak -3sg
+\ft "In general that is correct, old woman, the fox is speaking well.
+\ev
+\ru Вообще это правда, старуха, лиса вот хорошое говорит.
+\ELANBegin 00:03:35.080
+\ELANEnd 00:03:42.440
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_043
+\ref
+\tx Gurgew...,   čaš kọč   beldʒin.
+\mb gurgeː -W   čas  kọč   bel  -DʒI -n(I)
+\ge work    -acc ptl   probably help -fut -3sg
+\ft Work..., well, perhaps he'll help." 
+\ph
+\nt not really clear what is meant by the "work" - but perhaps she meant to say "perhaps he'll help to do the work"
+\qu
+\ev
+\ru Работу, ладно может поможет.
+\ELANBegin 00:03:42.440
+\ELANEnd 00:03:46.460
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_044
+\ref
+\tx "Učuńa,           ịawụl    nekešmeli,                  čaš."
+\mb učul         -ńE  ịak =(W)Ul nek -E  -smE        -LI      čas
+\ge become.fed.up -adjr what  =indef do  -ep -dismissive -imp.2sg ptl
+\ft "Well, I've had enough, do whatever you want!"
+\ev
+\ru Ну ладно, надоело, делай что хочешь!
+\ELANBegin 00:03:46.460
+\ELANEnd 00:03:50.180
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_045
+\ref
+\tx "Čaš, uli,         kusčineli!
+\mb čas    hụlịčan kusči        -nE     -LI
+\ge ptl     fox          herd.reindeer -intent -imp.2sg
+\ft "OK, fox, go herd!
+\ev
+\ru Ну ладно лисичка, иди паси.
+\ELANBegin 00:03:50.180
+\ELANEnd 00:03:54.300
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_046
+\ref
+\tx Atịkan, dʒebleŋgen                    kimni!"
+\mb atịkan  dʒeb -LE -ŋ  -GE    -n(I)     kim     -LI
+\ge old.woman eat   -nr -aln -desig -poss.3sg prepare -imp.2sg
+\ft Old woman, prepare food for it (the fox)!".
+\ev
+\ru Стариха, еду ей приготовь!
+\ELANBegin 00:03:54.300
+\ELANEnd 00:03:57.240
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_047
+\ref
+\tx Atịkanịː   dʒebleŋgen                    umekiče    neːdni,          umekič giekiw         tala,         kamaŋganda,
+\mb atịkan  =Iː  dʒeb -LE -ŋ  -GE    -n(I)     umekič -E  neː -R(E) -n(I)  umekič gịakị -W   tarak -(dU)LE kam        -ŋ  -GE    -n(I)     =DE
+\ge old.woman =emph eat   -nr -aln -desig -poss.3sg very    -ep put  -nonfut -3sg very    various   -acc dist  -loc    dried.fish -aln -desig -poss.3sg =ptl
+
+\tx kiliebeŋgende                     ečin      neːdin.
+\mb kilieb  -ŋ  -GE    -n(I)     =DE  erroːčin neː -RI -n(I)
+\ge bread.R -aln -desig -poss.3sg =ptl prox.qual  put  -pst -poss.3sg
+
+\ft And the old woman packed a lot of food, different food, dried fish for the fox, bread for it, she put it like this.
+\ev
+\ru А старуха всякую еду ложит, всякое там и юколу хлеба наложила, вот так наложила.
+\ELANBegin 00:03:57.240
+\ELANEnd 00:04:09.320
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_048
+\ref
+\tx Nan    tarak inešneniː                             urren             kusčinene.
+\mb ńaːn tarak in            -s(E)n -R(E) -n(I)  =Iː  hor -R(E)   -n(I) kusči        -nE     -n(I) -E
+\ge and    dist  carry.on.back -lim   -nonfut -3sg =emph go  -nonfut -3sg  herd.reindeer -intent -3sg  -ep
+\ft And he carried (that) on his back, went off, went to herd.
+\ev
+\ru И она понесла на спине, пошла пасти.
+\ELANBegin 00:04:09.320
+\ELANEnd 00:04:14.780
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_049
+\ref
+\tx Nan    taralašiː           elke bidde,           etikeːn atịkan.
+\mb ńaːn tarak -L  =sI   =Iː  elke bi -D    -R(E)   etikeːn atịkan
+\ge and    dist  -pl =emph =emph rest be -prog -nonfut old.man  old.woman
+\ft And those two rest, the old man and the old woman.
+\ph
+\gr elke bi- occurs together, means "rest", bi elke biddem "ja otdyxaju volgotno"; though in Amganov_EI_kids_uphill_011 elke is glossed and translated as "here they sit" and in the \gr
+comment it cooccurs with "laugh", and in Kizjavka_GI_life_Anavgaj_020 elke is glossed and translated as "during that time"; so it seems like a particle with a very broad and vague
+meaning
+\ev
+\ru А эти остались старик со старухой, отдыхают.
+\ELANBegin 00:04:14.780
+\ELANEnd 00:04:20.400
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_050
+\ref
+\tx Ọllawtakan         ečin      kamgidda.
+\mb ọlra -W   =t(E)kEn erroːčin kam        -G(I) -D    -R(E)
+\ge fish   -acc =restr   prox.qual  dried.fish -vr   -prog -nonfut
+\ft They dry fish like anything.
+\ev
+\ru Рыбу только так пластают.
+\ELANBegin 00:04:20.400
+\ELANEnd 00:04:23.760
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_051
+\ref
+\tx Nan    etikeːn kojeːčiddʒoːtten                  tartịːkie.
+\mb ńaːn etikeːn kojeːt -E-D     -WEːČ -R(E) -n(I)  tarak -t(E)kI =kE
+\ge and    old.man  look.at -ep-prog -gnr    -nonfut -3sg dist  -all    =emph
+\ft And the old man looks over theeeeeere.
+\ev
+\ru И старик смотрит туда.
+\ELANBegin 00:04:23.760
+\ELANEnd 00:04:28.100
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_052
+\ref
+\tx "Tar kojeːrem,          kojeːnni,  kusčidden                       ge    ere.
+\mb tar  kojeː -R(E) -m     kojeː -nrI kusči        -D    -R(E) -n(I)  ge    erek
+\ge thus watch  -nonfut -1sg watch  -2sg herd.reindeer -prog -nonfut -3sg exclm prox
+\ft I look there, do you see, he's herding.
+\ev
+\ru Вон смотрю, видишь, пасет.
+\ELANBegin 00:04:28.100
+\ELANEnd 00:04:34.160
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_053
+\ref
+\tx Uŋe, umekič ajịč      kusčidden                       kojeːreme.
+\mb uŋe  umekič aj   -E-Č   kusči        -D    -R(E) -n(I)  kojeː -R(E) -m     -E
+\ge now   very    good -ep-ins herd.reindeer -prog -nonfut -3sg watch  -nonfut -1sg -ep
+\ft He's herding very well, I see.
+\ev
+\ru Да, очень хорошо пасет, вижу.
+\ELANBegin 00:04:34.160
+\ELANEnd 00:04:41.380
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_054
+\ref
+\tx Iː"
+\mb iː
+\ge yes
+\ft yes"
+\ev
+\ru
+\ELANBegin 00:04:41.380
+\ELANEnd 00:04:44.100
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_055
+\ref
+\tx "Edʒi,      etikeːn meːnken       kojeːtneli                  taraw,     ụlịčajakan     ọːn kusčidden.
+\mb e   -LI      etikeːn meːn -KEn     kojeː -Č  -nE     -LI      tarak -W   hụlịčan -jEkEn ọːn kusči        -D    -R(E) -n(I)
+\ge neg -imp.2sg old.man  refl  -dim.int watch  -res -intent -imp.2sg dist  -acc fox          -dim   how    herd.reindeer -prog -nonfut -3sg
+\ft "No, old man, go look at that for yourself, how the fox is herding."
+\ev
+\ru Нет, старик, сам иди посмотри это лисичку, как она пасет.
+\ELANBegin 00:04:44.100
+\ELANEnd 00:04:51.400
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_056
+\ref
+\tx "Biːde   čaš kojeːtnedʒim."
+\mb biː =DE  čas  kojeːt -nE     -DʒI -m
+\ge 1sg  =ptl ptl   look.at -intent -fut  -1sg
+\ft "OK, let me go to have a look".
+\ev
+\ru Ладно, сейчас я пойду смотреть.
+\ELANBegin 00:04:51.400
+\ELANEnd 00:04:54.140
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_057
+\ref
+\tx Nan    ečin      guːnni     "Kojeːtnedekubedʒi,                           ajdịtta.
+\mb ńaːn erroːčin goːn -n(I) kojeː -Č  -nE     -DE       -W        =bEdʒI ajdịt =DE
+\ge and    prox.qual  say   -3sg  watch  -res -intent -purp.cvb -poss.1sg =emph   truth   =ptl
+\ft And he says like this "In truth, let me go look.
+\ev
+\ru И так говорит "Пойду-ка я и вправду посмотрю.
+\ELANBegin 00:04:54.140
+\ELANEnd 00:05:00.200
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_058
+\ref
+\tx Kọč   ọːja  ọralbu,                       bergette          kọč,  unet  kọč   unet  ọːja  ọːda.
+\mb kọč   họːja ọrọn          -L  -W        berge -t  -R(E)   kọč   unet  kọč   unet  họːja ọː  -R(E)
+\ge probably many     domestic.reindeer -pl -poss.1sg fat   -vr -nonfut probably still probably still many     become -nonfut
+\ft Probably there are many reindeer of mine, they have probably become fat, maybe they have become many.
+\ev
+\ru Наверно много оленей стало, жиреют наверно, может быть их много стало.
+\ELANBegin 00:05:00.200
+\ELANEnd 00:05:06.480
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_059
+\ref
+\tx Ụlịčanka     guːnni     ajịč      kusčideji."
+\mb hụlịčan =kkE goːn -n(I) aj   -E-Č   kusči        -DE       -J
+\ge fox          =ptl say   -3sg  good -ep-ins herd.reindeer -purp.cvb -prfl.sg
+\ft After all, the fox said he would herd well".
+\ev
+\ru Лиса же сказала что она хорошо будет пасти.
+\ELANBegin 00:05:06.480
+\ELANEnd 00:05:09.760
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_060
+\ref
+\tx Ńan   ečin      gịrkanbedʒi        gịrkandašnan etetetekekej      gịrkašnan                nan    kojeːčidden:
+\mb ńaːn erroːčin gịrka -n(I) =bEdʒI                 etetetekekej      gịrka -s(E)n -R(E) -n(I)  ńaːn kojeː -Č  -D    -R(E) -n(I)
+\ge and    prox.qual  walk    -3sg  =emph                   vot.kakaja(small) walk    -lim   -nonfut -3sg and    watch  -res -prog -nonfut -3sg
+\ft And he goes, he walks fast like this, he walks and looks:
+\gr гиркандашнан = зашагал
+\gr girkandašnan = poshagala; bi girkanam = ja xozhu vse vremja tuda, bi girkanam ereger; bi girkandaram = ja shagaju; girkašnan = poshel, girkan = idet; so the suffix -da here
+gives an additional meaning of "shagal"... do not know what to do with it, am going to leave that verb unglossed
+\ev
+\ru И вот так он идет пошел быстро шустрый, идет и смотрит: 
+\ELANBegin 00:05:09.760
+\ELANEnd 00:05:18.560
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_061
+\ref
+\tx Ịamị, ịamị desčiddeeː               umeč   ọrọlni.
+\mb ịamị  ịamị desči -D    -R(E)   =eː  umekič ọrọn          -L  -n(I)
+\ge ptl       ptl      lie    -prog -nonfut =emph very    domestic.reindeer -pl -poss.3sg
+\ft And why, his reindeer are lying (fatly).
+\ev
+\ru И вот лежааааааааат очень его олени.
+\ELANBegin 00:05:18.560
+\ELANEnd 00:05:25.960
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_062
+\ref
+\tx Bergeŋeːmkerel     desčidde.
+\mb berge -ŋE -mkEr -L  desči -D    -R(E)
+\ge fat   -aug -aug  -pl lie    -prog -nonfut
+
+\ft They are lying SO fat!
+\ph
+\gr 27/06/2016; bergeŋe = zhirnyj about person, simply berge about things in general; guːd = about house, tree; gudaŋa about a person; do they say ŋonamaŋa? da, govorjat; bergeŋejeken
+= zhirnyj malenkij chelovek; however, in this example it is reindeer who are fat, not a person, and during the čimakčar transcription/translation it seemed more like -ŋE is an
+augmentative suffix, because there was the form duriŋe "pozharishe" from duri "pozhar"; from what she said during the question clarification session (bergeŋejeken = zhirnyj malenkij
+chelovek) it would seem as if -ŋE might be an augmentative suffix in the frequently used sense, i.e. that with adjectives it intensifies the quality, with nouns the size; that would also fit
+with this example here: -mkEr would indicate that the reindeer are big, -ŋe that they are very fat; and of course this suffix is particularly interesting with respect to the evaluative
+adjectivizers in Lamunkhin Even, because this explains how they might have developed
+\ev
+\ru Такие жиииииирные лежат.
+\ELANBegin 00:05:25.960
+\ELANEnd 00:05:29.040
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_063
+\ref
+\tx Etikeːn guːnni     "Herulleeː, hụlịwa!
+\mb etikeːn goːn -n(I) erulle =eː  hụlịčan -wE
+\ge old.man  say   -3sg  interj =emph fox          -admirative
+\ft The old man says "Wow, that fox!
+\ph
+\gr huli-wa = vot daet, vot eto da! -wa is used with admiration and surprise, e.g. Brigittewe kojetli "vo, smotri kak Brigitta!" 
+\ev
+\ru Старик говорит "Вот это да, лиса! Вот эта лиса дает!
+\ELANBegin 00:05:29.040
+\ELANEnd 00:05:34.191
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_064
+\ref
+\tx Haːwajčakan,    ajịčtakan          umekič gurgeːwčilende.
+\mb haːwaj   =čEkEn aj   -E-Č   =t(E)kEn umekič gurgeːwči -LEn =DE
+\ge skillfull =emph   good -ep-ins =restr   very    work        -nr  =ptl
+\ft What a master, how well he works!
+\ev
+\ru Вот мастер, хорошо умеет работать.
+\ELANBegin 00:05:34.191
+\ELANEnd 00:05:37.883
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_065
+\ref
+\tx Hajịč  umekič kusčiriš,                  ireptude    họralbu                       tara  ošemi, kojeːtlikene           bergel,   ošemi
+\mb aj   -Č  umekič kusči        -RI  -s(I)     ireptu =DE  ọrọn          -L  -W        tarak osemi   kojeːt -LI      =kEnE  berge -L  osemi
+\ge good -ins very    herd.reindeer -pst -poss.2sg even   =ptl domestic.reindeer -pl -poss.1sg dist  azh     look.at -imp.2sg =contr fat   -pl azh
+
+\tx baːrdatitta                 gịrkawaːt... gịrkawaːtŋa           tuttoːtŋe."
+\mb baː     -r   =DE  =tIt =DE  gịrka -WEːČ gịrka -WEːČ -ŋE      tut -WEːČ -ŋE
+\ge not.want -3pl =ptl =ptl =ptl walk    -gnr    walk    -gnr    -nmdl.cvb run -gnr    -nmdl.cvb
+
+\ft You herded very well, my reindeer even, just look, they are fat, they don't even want to walk, to run."
+\ev
+\ru Хорошо очень пасла, аж олени мои аж посмотри-ка жирные стали, аж не хотят ходить, бегать.
+\ELANBegin 00:05:37.883
+\ELANEnd 00:05:48.569
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_066
+\ref
+\tx Ečin      ŋennenbedʒi             ŋennenbedʒi             nan    ečin...   unki... unkiden.
+\mb erroːčin ŋen -R(E) -n(I)  =bEdʒI ŋen -R(E) -n(I)  =bEdʒI ńaːn erroːčin unkide  unkide -n(I)
+\ge prox.qual  go   -nonfut -3sg =emph   go   -nonfut -3sg =emph   and    prox.qual  kick    kick   -3sg
+\ft He goes like that he goes and he... kicks (a reindeer) like this.
+\ev
+\ru И так идет и идет и так вот пнул.
+\ELANBegin 00:05:48.569
+\ELANEnd 00:05:54.588
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_067
+\ref
+\tx Ešnidetit               ọrkaja                  ịlla.
+\mb e -R(E) -n(I)  =DE  =tIt ọrọn          -kEːjE ịl     -R
+\ge neg -nfut -3sg =ptl =ptl domestic.reindeer -aug    stand.up -neg.cvb
+\ft The big reindeer doesn't get up.
+\ev
+\ru Не встает большой олень.
+\ELANBegin 00:05:54.588
+\ELANEnd 00:05:57.448
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_068
+\ref
+\tx "Hero tačịkan berge bimi         turkuttendatitta                             hịlŋa".
+\mb erro  tačịkan berge bi -mI       turku       -Č  -R(E) -n(I)  =DE  =tIt =DE  ịl     -ŋE
+\ge oh    like.that  fat   be -cond.cvb not.be.able -res -nonfut -3sg =ptl =ptl =ptl stand.up -nmdl.cvb
+\ft "Oh, it's become so fat that it cannot stand up!".
+\ev
+\ru Вот до того жирный стал что даже вставать не может.
+\ELANBegin 00:05:57.448
+\ELANEnd 00:06:01.933
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_069
+\ref
+\tx Ńan   gịatki      ńọːŋčịnbedʒi        gịatki.
+\mb ńaːn gịa -t(E)kI ńọːŋčị -n(I) =bEdʒI gịa -t(E)kI
+\ge and    other -all    run            -3sg  =emph   other -all
+\ft And he runs to another, to another.
+\ph it's not clear what she says at the end, but Rimma and I both think it must be giatki
+\ev
+\ru К другому бежит. к другому...
+\ELANBegin 00:06:01.933
+\ELANEnd 00:06:04.104
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_070
+\ref
+\tx Gịakaja     torre         desčiddeneːj                  berge ečin      umekiče.
+\mb gịa -kEːjE tor   -(dU)LE desči -D    -R(E) -n(I)  =eː  berge erroːčin umekič -E
+\ge next  -aug    earth -loc    lie    -prog -nonfut -3sg =emph fat   prox.qual  very    -ep
+
+\ft The next one also lies on the ground, FAT like this.
+\ev
+\ru Второй тоже лежит, жирный такой.
+\ELANBegin 00:06:04.104
+\ELANEnd 00:06:09.070
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_071
+\ref
+\tx "Erro erro, erulle, haha, uli!
+\mb erro  erro  erulle        hụlịčan
+\ge oh    oh    interj        fox
+\ft "Oh wow, now that fox sure is something!
+\ev
+\ru Вот это да, вот эта лиса!
+\ELANBegin 00:06:09.070
+\ELANEnd 00:06:14.348
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_073
+\ref
+\tx Mannụrina,               mannụrina,               belline                 ọːja  tiːk eten."
+\mb manrụ -RI -n(I)      -E  manrụ -RI -n(I)      -E  bel  -RI -n(I)      -E  họːja tiek  e   -t(E) -n(I)
+\ge try     -pst -poss.3sg -ep try     -pst -poss.3sg -ep help -pst -poss.3sg -ep many     now   neg -fut  -3sg
+\ft He tried hard, he tried hard, he helped, now there will probably be a lot (of reindeer)".
+\ph
+\gr she omitted a verb in the connegative form, ọːda or biše
+\gr 27/06/2016: shouldn't this be "ọːja tiːkke eten (ọːd)"? A: no, why? -- Rimma felt the sentence as is was just fine (with the exception of the fact that NIG omitted the connegative verb -
+which bothered her a lot), and of course I'm all confused cos normally it's the combination of =kkE + e- that gives an epistemic reading....
+\ev
+\ru Старалась, старалась, помогла, наверно сейчас много (станет).
+\ELANBegin 00:06:14.348
+\ELANEnd 00:06:18.118
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_074
+\ref
+\tx Nan    guːnni     "ajịtbedʒi        kojeːttekubedʒi,                  kọč   bi   umem      uŋdeku                 kojeːtteku."
+\mb ńaːn goːn -n(I) aj   -E-Č   =bEdʒI kojeːt -DE       -W        =bEdʒI kọč   biː omen -W   uŋ -DE       -W        kojeːt -DE       -W
+\ge and    say   -3sg  good -ep-ins =emph   look.at -purp.cvb -poss.1sg =emph   probably 1sg  one  -acc do  -purp.cvb -poss.1sg look.at -purp.cvb -poss.1sg
+\ft And he says "Let me look properly, maybe I will look at one of them".
+\ev
+\ru И сказал давай-ка хорошенько посмотрю, может хоть одного посмотрю.
+\ELANBegin 00:06:18.118
+\ELANEnd 00:06:27.647
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_075
+\ref
+\tx Nan    ečin      unkidenteken          guːnni     "hịlli,         hịlli!
+\mb ńaːn erroːčin unkide -n(I) =t(E)kEn goːn -n(I) ịl     -LI      ịl     -LI
+\ge and    prox.qual  kick   -3sg  =restr   say   -3sg  stand.up -imp.2sg stand.up -imp.2sg
+\ft And he kicks like this, he says "Get up, get up!.
+\ev
+\ru И вот так он пинает, говорит вставай вставай!
+\ELANBegin 00:06:27.647
+\ELANEnd 00:06:31.222
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_076
+\ref
+\tx Ịadụbedʒi     desčikačinni,           ịlli!"
+\mb ịak -DU  =bEdʒI desči -kEČ -R(E)   -nrI ịl     -LI
+\ge what  -dat =emph   lie    -mult -nonfut -2sg stand.up -imp.2sg
+\ft What are you lying around for, get up!"
+\ph
+\gr desčikačinni = razleživaeshsja
+\ev
+\ru Что ты разлегся.
+\ELANBegin 00:06:31.222
+\ELANEnd 00:06:33.835
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_077
+\ref
+\tx Tarak ịamị eren           uren                 teberren.
+\mb tarak ịamị erek -n(I)     ur      -E-n(I)      teber -R(E) -n(I)
+\ge dist  ptl      prox -poss.3sg stomach -ep-poss.3sg burst -nonfut -3sg
+\ft And then its stomach burst.
+\ev
+\ru И вот у него живот лопнул.
+\ELANBegin 00:06:33.835
+\ELANEnd 00:06:37.358
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_078
+\ref
+\tx Tadụkaši             gieki     mọː dʒọl gieki     umekiče    ńuːne.
+\mb tarak -DUk(U) -E  =sI   gịakị mọː dʒọl gịakị umekič -E  ńoː -n(I)
+\ge dist  -abl    -ep =emph various   tree   stone   various   very    -ep exit  -3sg
+\ft And from there all sorts of things, wood, stones, came out.
+\ev
+\ru Оттуда всякое, дрова, камни, всякое вышло.
+\ELANBegin 00:06:37.358
+\ELANEnd 00:06:44.326
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_079
+\ref
+\tx Nan    tarak etikeːn bideji                guːnni     "Herulle, herro!!
+\mb ńaːn tarak etikeːn bi -DE       -J       goːn -n(I) erulle    erro
+\ge and    dist  old.man  be -purp.cvb -prfl.sg say   -3sg  interj    oh
+\ft And that same old man says "Oh my god!
+\ph
+\gr etikeːn bideji = sam starik
+\ev
+\ru И вот этот старик говорит "Вот это да!!"
+\ELANBegin 00:06:44.326
+\ELANEnd 00:06:50.722
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_080
+\ref
+\tx Dọldanni,  atịkan!!!"
+\mb dọlda -nrI atịkan
+\ge hear    -2sg old.woman
+\ft Do you hear, old woman!!"
+\ev
+\ru Слышишь старухааа!!
+\ELANBegin 00:06:50.722
+\ELANEnd 00:06:53.699
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_081
+\ref
+\tx Ńanaši     at.... poka    tarak Pačinoj gịrkawaːčịddan                  ọralduli                       ụlịčajakan     ńọːŋčịrankakan
+\mb ńaːn =sI          poka    tarak Pačinoj gịrka -WEːČ -E-D     -R(E) -n(I)  ọrọn          -E-L   -(dU)LI hụlịčan -jEkEn ńọːŋčị -R(E) -n(I)  -kEkEn
+\ge and    =emph        until.R dist  Pachinoj walk    -gnr    -ep-prog -nonfut -3sg domestic.reindeer -ep-pl -prol   fox          -dim   run            -nonfut -3sg -dim
+
+\tx tarak atịkantakị.
+\mb tarak atịkan  -t(E)kI
+\ge dist  old.woman -all
+
+\ft And so, while that Pachinoj was going among the reindeer, the little fox quickly ran to that old woman.
+\ph
+\gr ńoŋčirankakan = bystrenko pobezhala
+\ev
+\ru И вот пока этот Пачиной ходил среди оленей лиса быстренько прибежала к старухе.
+\ELANBegin 00:06:53.699
+\ELANEnd 00:07:07.245
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_082
+\ref
+\tx "Eniŋe,    dọldanni?
+\mb eniŋeː    dọlda -nrI
+\ge grandmother hear    -2sg
+\ft "Granny, do you hear?
+\ev
+\ru Бабушка, слышишь?
+\ELANBegin 00:07:07.245
+\ELANEnd 00:07:09.949
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_083
+\ref
+\tx Bi   kusčiridʒikke             emnem.
+\mb biː kusči        -RIdʒI  =kkE em   -R(E) -m
+\ge 1sg  herd.reindeer -ant.cvb =ptl come -nonfut -1sg
+\ft I herded and have come.
+\ev
+\ru Я же пасла и пришла.
+\ELANBegin 00:07:09.949
+\ELANEnd 00:07:12.445
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_084
+\ref
+\tx Kojeːtli,       tar  bergeliː       desčidde            umekič ọrọlši."
+\mb kojeːt -LI      tar  berge -L  =Iː  desči -D    -R(E)   umekič ọrọn          -L  -s(I)
+\ge look.at -imp.2sg thus fat   -pl =emph lie    -prog -nonfut very    domestic.reindeer -pl -poss.2sg
+\ft Look, there your reindeer are lying very fat."
+\ev
+\ru Посмотри вон, жирные лежат олени твои.
+\ELANBegin 00:07:12.445
+\ELANEnd 00:07:16.462
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_085
+\ref
+\tx "Ajdịtta?
+\mb ajdịt =DE
+\ge truth   =ptl
+\ft "Really?
+\ev
+\ru Правда?
+\ELANBegin 00:07:16.462
+\ELANEnd 00:07:18.464
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_086
+\ref
+\tx "Uli,        čaš ere  čaju      iludʒinni?"
+\mb hụlịčan čas  erek čaj  -W   hilu  -DʒI -nrI
+\ge fox          ptl   prox tea.R -acc drink -fut  -2sg
+\ft "Oh fox, well, will you drink tea?"
+\ev
+\ru Лисичка, давай, вот чай будешь пить?
+\ELANBegin 00:07:18.464
+\ELANEnd 00:07:23.066
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_087
+\ref
+\tx "Iludʒime,          iludʒime            ekitte     ekitte     kallam,                 koːjenni,  umekič ńọːmattiwuda
+\mb hilu  -DʒI -m   -E  hilu  -DʒI -m   -E  ekič =DE  ekič =DE  kal        -R(E) -m     koːje -nrI umekič ńọːmat -RI -W         =DE
+\ge drink -fut  -1sg -ep drink -fut  -1sg -ep very  =ptl very  =ptl be.thirsty -nonfut -1sg horns  -2sg very    jump       -pst -poss.1sg =ptl
+
+\tx ireptude    niblurgeriwu."
+\mb ireptu =DE  niblurge  -RI -W
+\ge even   =ptl grow.thin -pst -poss.1sg
+\ft "I will drink tea, I will drink tea indeed, I have become very thirsty, look, I jumped around so much that I have even grown thin!".
+\ev
+\ru Буду чай пить, буду, аж сильно пить захотела, видишь аж сильно бегала, похудела вся.
+\ELANBegin 00:07:23.066
+\ELANEnd 00:07:31.191
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_088
+\ref
+\tx A     meːnkeneši             ụlịčajakan     bergetit   ečin      ọːdịneːj.
+\mb a.R   meːn -KEn     -E  =sI   hụlịčan -jEkEn berge =tIt erroːčin ọː  -RI -n(I)      =eː
+\ge but.R refl  -dim.int -ep =emph fox          -dim   fat   =ptl prox.qual  become -pst -poss.3sg =emph
+\ft But the fox has actually become FAT like this.
+\ev
+\ru А сама лиса-то жирная вот так стала.
+\ELANBegin 00:07:31.191
+\ELANEnd 00:07:36.066
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_089
+\ref
+\tx Tabịč atịkanta      mịaŋ...   mịaŋčịnịkan   kojeː... kojeːtten:
+\mb tabịč atịkan  =t(E) mịan       mịaŋčị -nIkEn   kojeː    kojeː -Č  -R(E) -n(I)
+\ge again    old.woman =ptl  be.surprised be.surprised -sim.cvb watch     watch  -res -nonfut -3sg
+\ft And the old woman looked, surprised:
+\ev
+\ru И вот старуха-то с удивлением смотрела:
+\ELANBegin 00:07:36.066
+\ELANEnd 00:07:39.667
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_090
+\ref
+\tx "Ešnidetitte                 urečinnide              ńibukew.
+\mb e -R(E) -n(I)  =DE  =tIt =DE  ureːčin -n(I)     =DE  ńubuke -W
+\ge neg -nfut -3sg =ptl =ptl =ptl similar   -poss.3sg =ptl thin    -acc
+\ft "Somehow he doesn't look thin.
+\ev
+\ru Что-то она не похоже на худую.
+\ELANBegin 00:07:39.667
+\ELANEnd 00:07:44.165
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_091
+\ref
+\tx Bergemker,  ịamị uli          tačịn        umekič ọːdịn?
+\mb berge -mkEr ịamị hụlịčan tarrọːčịn umekič ọː  -RI -n(I)
+\ge fat   -aug  why      fox          dist.qual       very    become -pst -poss.3sg
+\ft Very fat, why has the fox become like that?"
+\ev
+\ru Очень толстая, почему лиса такая стала?
+\ELANBegin 00:07:44.165
+\ELANEnd 00:07:49.027
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_092
+\ref
+\tx Nan    guːnni     kọč   "Ešni,        biši      uŋne,            ńụːčịdịč  ńụːčịdịč  goːweːtte           svežij vozduxtu
+\mb ńaːn goːn -n(I) kọč   e -R(E) -n(I)  biː =sI   uŋ       -(dU)LE ńụča -DI   -Č  ńụča -DI   -Č  goːn -WEːČ -R(E)   svežij vozdux -DU
+\ge and    say   -3sg  probably neg -nfut -3sg 1sg  =emph something -loc    Russian  -adjr -ins Russian  -adjr -ins say   -gnr    -nonfut fresh.R air.R  -dat
+
+\tx bidmi,             teːmi    nan    bergeriwu,           kojeːnni,  umekičeː.
+\mb bi -D    -mI       teːmi    ńaːn berge -RI -W         kojeː -nrI umekič =eː
+\ge be -prog -cond.cvb therefore and    fat   -pst -poss.1sg watch  -2sg very    =emph
+\ft And (the fox) says: "No, I was in the fresh air, as they say in Russian, that is why I have grown fat, you see, very much.
+\ph
+\nt the "kọč" doesn't fit, neither with the matrix clause, nor with the direct speech; probably just a slip of the tongue
+\ev
+\ru И вот говорит, нет я по-русски говоря на свежем воздухе была, поэтому так потолстела, посмотри, очень.
+\ELANBegin 00:07:49.027
+\ELANEnd 00:08:02.911
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_093
+\ref
+\tx Tarma bi   ajịč      kusčiddiwu.
+\mb tarma biː aj   -E-Č   kusči        -D    -RI -W
+\ge but   1sg  good -ep-ins herd.reindeer -prog -pst -poss.1sg
+\ft But I herded well.
+\ev
+\ru Но я хорошо пасла.
+\ELANBegin 00:08:02.911
+\ELANEnd 00:08:05.004
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_094
+\ref
+\tx Ọːja  tala          bergeriten           umekič ọrọlši."
+\mb họːja tarak -(dU)LE berge -RI -tEn       umekič ọrọn          -L  -s(I)
+\ge many     dist  -loc    fat   -pst -poss.3pl very    domestic.reindeer -pl -poss.2sg
+\ft There are many (reindeer) there, they grew very fat".
+\ev
+\ru Много там, сильно разжирели твои олени.
+\ELANBegin 00:08:05.004
+\ELANEnd 00:08:09.333
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_095
+\ref
+\tx "Mhm?"
+\mb mhm
+\ge mhm
+\ft "Oh"
+\ev
+\ru
+\ELANBegin 00:08:09.333
+\ELANEnd 00:08:10.971
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_096
+\ref
+\tx Nan    ịamị atịkan  kojeːtten               ịamị etikeniː      tala          umeč   ịrkaddan                ečin
+\mb ńaːn ịamị atịkan  kojeː -Č  -R(E) -n(I)  ịamị etikeːn =Iː  tarak -(dU)LE umekič ịrka -D    -R(E) -n(I)  erroːčin
+\ge and    ptl      old.woman watch  -res -nonfut -3sg why      old.man  =emph dist  -loc    very    scream -prog -nonfut -3sg prox.qual
+
+\tx ịawụčeši          ịrkaddan.
+\mb ịak =(W)UttE -E=sI    ịrka -D    -R(E) -n(I)
+\ge what  =indef   -ep=emph scream -prog -nonfut -3sg
+\ft And the old woman look, why is the old man screaming there loudly like this, screaming something.
+\ev
+\ru И вот старуха видит, почему старик там сильно кричит и что-то кричит.
+\ELANBegin 00:08:10.971
+\ELANEnd 00:08:17.211
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_097
+\ref
+\tx Nan    atịkan  "ịawe?".
+\mb ńaːn atịkan  ịak -W   -E
+\ge and    old.woman what  -acc -ep
+\ft And the old woman: "What?".
+\ev
+\ru И старуха "что?"
+\ELANBegin 00:08:17.211
+\ELANEnd 00:08:20.318
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_098
+\ref
+\tx Uli          guːnni:    "Tarak guːnni     ajịč      minu         ulitteše".
+\mb hụlịčan goːn -n(I) tarak  goːn -n(I) aj   -E-Č   min     -W   ulič -DE       -s(I)     -E
+\ge fox          say   -3sg  dist   say   -3sg  good -ep-ins 1sg.obl -acc feed  -purp.cvb -poss.2sg -ep
+\ft And the fox says "He says that you should feed me well".
+\ev
+\ru А лиса говорит, он говорит что ты меня хорошо кормила.
+\ELANBegin 00:08:20.318
+\ELANEnd 00:08:25.206
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_099
+\ref
+\tx "Aa, čaš er  dʒebli!"
+\mb aa   čas  er  dʒeb -LI
+\ge ah   ptl   ptl eat   -imp.2sg
+\ft "Ah, OK, here you go, eat!".
+\ev
+\ru А, ладно вот ешь.
+\ELANBegin 00:08:25.206
+\ELANEnd 00:08:27.481
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_100
+\ref
+\tx Neːden,          neːden           dʒebleŋgen                    giekiw         umekiče,   kolaliwgali       dʒebden,                 amčawda
+\mb neː -R(E) -n(I)  neː -R(E) -n(I)  dʒeb -LE -ŋ  -GE    -n(I)     gịakị -W   umekič -E  kolali -W   =gEli dʒeb -DE       -n(I)     am  -čE    -W   =DE
+\ge put  -nonfut -3sg put  -nonfut -3sg eat   -nr -aln -desig -poss.3sg various   -acc very    -ep roe    -acc =emph eat   -purp.cvb -poss.3sg mix -pf.ptc -acc =ptl
+
+\tx buːtten,              ečin      tewtenun      amčaji,             tarawe         umekiče.
+\mb boː -Č  -R(E) -n(I)  erroːčin tewte   -ńUn am  -čE    -J       tarak -W   -E  umekič -E
+\ge give -res -nonfut -3sg prox.qual  berries -com  mix -pf.ptc -prfl.sg dist  -acc -ep very    -ep
+\ft And she lays out and lays out different food for him, fish roe for him to eat, she gives a lot of "mixed", (fish) that she mixed like this with berries, a lot of everything.
+\ph
+\gr 27/06/2016: kolaliwgali = is not the same as kolaliwgal, it means "i IKRU tozhe", usilivaet; so it would seem as if here in Bystraja Even this comitative suffix has developed a meaning
+of emphasis, just like =nun in Sebjan (there's at least one other example like this in the texts I glossed in June 2016)
+\ev
+\ru Ложит ложит всякую еду, и икру чтобы она ела, и мешанину дает что с ягодой так мешала, очень много дает ей.
+\ELANBegin 00:08:27.481
+\ELANEnd 00:08:41.040
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_101
+\ref
+\tx Nan    uli          dʒebedden                  nan    tarakaši   etikeːn ịrkaddan                umekiče    ịawụčeši          ečin.
+\mb ńaːn hụlịčan dʒeb -E-D     -R(E) -n(I)  ńaːn tarak =sI   etikeːn ịrka -D    -R(E) -n(I)  umekič -E  ịak =(W)UttE -E=sI    erroːčin
+\ge and    fox          eat   -ep-prog -nonfut -3sg and    dist  =emph old.man  scream -prog -nonfut -3sg very    -ep what  =indef   -ep=emph prox.qual
+\ft And the fox is eating all the while, and that old man is shouting something very loudly like this.
+\ph
+\gr the reading of "tem vremenem" which I translated with "all the while" comes from the progressive on "eat"
+\ev
+\ru А лиса тем временем ест а тот старик кричит сильно что-то вот так.
+\ELANBegin 00:08:41.040
+\ELANEnd 00:08:46.220
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_102
+\ref
+\tx Tarak "kojeːnni  umekič ọːkaŋčịddan"               uli          goːweːtten,              "ọːkaŋčịddanịː                taraw
+\mb tarak kojeː -nrI umekič ọːkaŋčị -D    -R(E) -n(I)  hụlịčan goːn -WEːČ -R(E) -n(I)  ọːkaŋčị -D    -R(E) -n(I)  =Iː  tarak -W
+\ge dist  watch  -2sg very    be.happy       -prog -nonfut -3sg fox          say   -gnr    -nonfut -3sg be.happy       -prog -nonfut -3sg =emph dist  -acc
+
+\tx ọrọlši                     bergeriten           umekič."
+\mb ọrọn          -L  -s(I)     berge -RI -tEn       umekič
+\ge domestic.reindeer -pl -poss.2sg fat   -pst -poss.3pl very
+\ft And that one "look, he's very happy" the fox says, "he's so happy because your reindeer have become so fat".
+\ev
+\ru А та "видишь как радуется" лиса говорит "радуется потому что ваши олени разжирели так".
+\ELANBegin 00:08:46.220
+\ELANEnd 00:08:52.880
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_103
+\ref
+\tx "Iː, uli,         dʒebli,       dʒebli,       dʒebli!".
+\mb iː   hụlịčan dʒeb -LI      dʒeb -LI      dʒeb -LI
+\ge yes   fox          eat   -imp.2sg eat   -imp.2sg eat   -imp.2sg
+\ft "Yes, fox, eat, eat, eat!".
+\ev
+\ru О лиса, ешь ешь ешь .
+\ELANBegin 00:08:52.880
+\ELANEnd 00:08:55.940
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_104
+\ref
+\tx Nan    ịamị tarak Pačinojńdʒakan         ńọːŋčịnańdʒakan                 ereger ńọːŋčịn      tartakị,    jurtatkiji.
+\mb ńaːn ịamị tarak Pačinoj -ńdʒE -KEn     ńọːŋčị -n(I) -E  -ńdʒE -KEn     ereger ńọːŋčị -n(I) tarak -t(E)kI jurta  -t(E)kI -J
+\ge and    ptl      dist  Pachinoj -aug    -dim.int run            -3sg  -ep -aug    -dim.int always run            -3sg  dist  -all    yurt.R -all    -prfl.sg
+\ft And why, here's that big Pachinoj running fast, running there, to his yurt.
+\ph
+\gr noŋčinanʤakan = vot tak bezhit takoj bolshoj; even though Rimma only said what is written here when I asked about the evaluatives, I think from the original Russian translation "silno
+bezhit" and the intonation of NIG one can safely say that here we have a case of heightened dynamicity - which comes through even in "vot tak bezhit takoj bolshoj", I think
+\ev
+\ru Вот этот Пачиной бежит сильно, сильно бежит туда, к своей юрте.
+\ELANBegin 00:08:55.940
+\ELANEnd 00:09:03.520
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_105
+\ref
+\tx "Dọldanni  atịkan, epkeli,         epkeli          tawụr ụlịčajakama!
+\mb dọlda -nrI atịkan  hepken -LI      hepken -LI      tawụr hụlịčan -jEkEn -W   -E
+\ge hear    -2sg old.woman catch  -imp.2sg catch  -imp.2sg this    fox          -dim   -acc -ep
+\ft "Do you hear, old woman, catch it, catch that cheeky little fox!!
+\ev
+\ru Слышишь старуха, лови лови вот эту лисичку (плохую).
+\ELANBegin 00:09:03.520
+\ELANEnd 00:09:07.900
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_106
+\ref
+\tx Hepkeli!
+\mb hepken -LI
+\ge catch  -imp.2sg
+\ft Catch it!!"
+\ev
+\ru Лови (поймай!)
+\ELANBegin 00:09:07.900
+\ELANEnd 00:09:09.240
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_107
+\ref
+\tx "Ha??"
+\mb ha
+\ge ha
+\ft "Huhh???"
+\ev
+\ru
+\ELANBegin 00:09:09.240
+\ELANEnd 00:09:10.520
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_108
+\ref
+\tx "Guːnem           epkeli          tarawura          taraw      arịŋkajakam,       tiːkkelle        maːdʒillama,                    tiːk
+\mb goːn -R(E) -m     hepken -LI      tarawur       -E  tarak -W   arịŋka -jEkEn -W   tiek =gEl   =lE   maː -D    -L    -R(E) -m     -E  tiek
+\ge say   -nonfut -1sg catch  -imp.2sg this.very.one -ep dist  -acc demon     -dim   -acc now  =coord =emph kill -prog -inch -nonfut -1sg -ep now
+
+\tx baukčima!"
+\mb bauk            -DʒI -m   -E
+\ge beat.with.stick -fut  -1sg -ep
+\ft "I said catch that one, that little demon, I am going to kill it, I will now clobber it!!"
+\ph
+\gr 27/06/2016: maːʤillama = ja naverno ee sejchas ubju, sejchas ja ee ubivatj budu; *maːladdam = net; tarawara = tarawur = vot etu, vot ee; tawur = vot
+\ev
+\ru Говорю лови, вот эту вот эту чертовку, сейчас я ее убью наверно (сейчас я ее убью!), сейчас буду бить палкой.
+\ELANBegin 00:09:10.520
+\ELANEnd 00:09:17.020
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_109
+\ref
+\tx Nan    ịamị eto    uluteleddeneši                           eto    taraw      ụlịčajakam.
+\mb ńaːn ịamị eto    holu  -Č  -L    -D    -R(E) -n(I)  =sI   eto    tarak -W   hụlịčan -jEkEn -W
+\ge and    ptl      this.R chase -res -inch -prog -nonfut -3sg =emph this.R dist  -acc fox          -dim   -acc
+\ft And how he started to chase that cheeky fox!!
+\ph
+\gr throughout the skazka NIG refers to the fox as uličajakan = cheeky, naughty fox, xuligan, nexoroshaja lisichka; could one say: uluteʤillenesi? A: yes; uluteʤillenesi = pogonju nachal;
+uluteleddenesi = nachal ee gonjatj - seems as if the order inchoative-progressive emphasises the starting ("kak NAchal ee gonjat") while the order progressive-inchoative emphasises
+the long chase, pogonju nachal
+\ev
+\ru И как начал гонять эту лисичку.
+\ELANBegin 00:09:17.020
+\ELANEnd 00:09:25.820
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_110
+\ref
+\tx Atịkan  ụnụn         nak....   eto    ulimeje            olekčiddin.
+\mb atịkan  ụnụ    -n(I) nakonec   eto    hụlịčan =mEjE olekči -D    -RI -n(I)
+\ge old.woman understand -3sg  finally.R this.R fox          =ptl  cheat   -prog -pst -poss.3sg
+\ft The old woman finally understood, the fox had been cheating, it seems.
+\ph
+\gr (=mEjE with "okazyvaetsja" meaning)
+\ev
+\ru Старуха поняла,  оказывается лиса обманывала.
+\ELANBegin 00:09:25.820
+\ELANEnd 00:09:30.980
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_111
+\ref
+\tx "Tawụr ulieː             olekčiddin                  ejdu dʒeptin             ọrọlbutej",                               atịkan: "Arrrr!"
+\mb tawụr  hụlịčan =eː  olekči -D    -RI -n(I)      ejdu dʒeb -RI -n(I)      ọrọn          -L  -W   -t(I)        =eː  atịkan  arrrr
+\ge this     fox          =emph cheat   -prog -pst -poss.3sg all  eat   -pst -poss.3sg domestic.reindeer -pl -acc -poss.1pl.in =emph old.woman arrrr
+\ft "This fox has been cheating us, it ate all our reindeer!", the old woman (cried): "Arrrrr!!".
+\ph
+\nt I think it's the old man informing her that the fox has eaten all the reindeer, whereupon the woman screams; though it could also be the old woman's thoughts, that she's finally
+understood what's going on
+\ev
+\ru Вот эта лиса обманывала нас, совсем съела наших оленей, старуха
+\ELANBegin 00:09:30.980
+\ELANEnd 00:09:36.780
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_112
+\ref
+\tx Ńan   tačịn        uluteleddeši                        ńan...
+\mb ńaːn tarrọːčịn holu  -Č  -L    -D    -R(E)   =sI   ńaːn
+\ge and    dist.qual       chase -res -inch -prog -nonfut =emph and
+\ft And like that they started to chase (the fox)....
+\ev
+\ru И так стали гонять...
+\ELANBegin 00:09:36.780
+\ELANEnd 00:09:40.930
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_113
+\ev laughs
+\ru
+\ELANBegin 00:09:40.930
+\ELANEnd 00:09:42.647
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_114
+\ref
+\tx Ečin      etikeːn epkenni      ụlịčajakan     irgedun             nan    ụlịčajakan     guːnni:
+\mb erroːčin etikeːn hepken -n(I) hụlịčan -jEkEn irge -DU  -n(I)     ńaːn hụlịčan -jEkEn goːn -n(I)
+\ge prox.qual  old.man  catch  -3sg  fox          -dim   tail -dat -poss.3sg and    fox          -dim   say   -3sg
+\ft And like this the old man caught the fox's tail and the fox said:
+\ph
+\gr uličajakan irgedun = correct, sxvatila lisij xvost
+\gr 27/06/2016: how do you say: on sxvatil lisu za xvost? = nọŋan epkenin uličam irgedun; as said here it is also correct: epkenni uličajakan irgedun = sxvatil xvost lisy, lisij xvost
+\ev
+\ru Вот так старик поймал лисий хвост и лиса говорит
+\ELANBegin 00:09:42.647
+\ELANEnd 00:09:47.626
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_115
+\ref
+\tx "Edʒi       edʒi        irgewu         tačịmụr    uγeški,     edʒi        uγeški      uγerkile.
+\mb e   -LI      e   -LI      irge -W        tarrọːčịn oj  -skI      e   -LI      oj  -skI      uger    -kIl     -E
+\ge neg -imp.2sg neg -imp.2sg tail -poss.1sg dist.qual       top -advb.all neg -imp.2sg top -advb.all lift.up -proh.sg -ep
+\ft "Don't, don't (lift) my tail up like that, don't lift it up!
+\ph
+\gr irgewu = ACC+poss.1sg
+\ev
+\ru Нет, мой хвост так вверх не поднимай, не поднимай вверх.
+\ELANBegin 00:09:47.626
+\ELANEnd 00:09:54.802
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_116
+\ref
+\tx Tawụr ńulten uŋdʒin,       aːtar... aːtaraldʒin.
+\mb tawụr ńulten uŋ -DʒI -n(I) haːtar   haːtar -E-L     -DʒI -n(I)
+\ge this    sun     do  -fut -3sg   be.dark   be.dark -ep-inch -fut -3sg
+\ft Or the sun will go dark.
+\ev
+\ru А то солнце сделает, а то темно станет.
+\ELANBegin 00:09:54.802
+\ELANEnd 00:10:00.119
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_117
+\ref
+\tx Edʒi!
+\mb e   -LI
+\ge neg -imp.2sg
+\ft Don't!"
+\ev
+\ru Не делай.
+\ELANBegin 00:10:00.119
+\ELANEnd 00:10:01.540
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_118
+\ref
+\tx Nan    taralaši       bauščirda                      nan    ut... at... ụlịčajakan     uŋnin,            ente...    entekeje   ečin
+\mb ńaːn tarak -L  =sI   bauk            -sčI  -r   =DE  ńaːn             hụlịčan -jEkEn uŋ -RI -n(I)      entekeːje entekeːje erroːčin
+\ge and    dist  -pl =emph beat.with.stick -conat -3pl =ptl and                fox          -dim   do  -pst -poss.3sg strong     strong     prox.qual
+
+\tx uŋešnin                 ušešnin                      meːni,     nan    irgečennitken                ŋaːllan             etikeːndule
+\mb uŋ -s(E)n -RI -n(I)      us       -s(E)n -RI -n(I)      meːni      ńaːn irge -čEn -n(I)     =t(E)kEn ŋaːl -(dU)LE -n(I)  etikeːn -(dU)LE
+\ge do  -lim   -pst -poss.3sg pull.out -lim   -pst -poss.3sg refl.sg.acc and    tail -dim  -poss.3sg =restr   hand   -loc -poss.3sg old.man  -loc
+
+\tx ụlaːptin.
+\mb hụlaː -B   -RI -n(I)
+\ge leave    -med -pst -poss.3sg
+\ft And those tried to beat (the fox) with a stick and the fox pulled itself very hard, and only its tail remained in the hand of the old man.
+\gr 27/06/2016: irgečennitken ŋaːllan etikendule ulaptin = correct, ostalsja v rukax u starika; but one could also say irgen etiken ŋaːllan ulaptin
+\ev
+\ru И вот эти стараются бить и лиса сделала, и сильно так сделала, дернула себя и хвостик у старика в руке остался.
+\ELANBegin 00:10:01.540
+\ELANEnd 00:10:19.640
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_120
+\ref
+\tx Nan    tačịn        tačịnkke          ụlịčajakan     olekčiridʒi    dʒeptin             ejdu nan    ńọːnịn.
+\mb ńaːn tarrọːčịn tarrọːčịn =kkE hụlịčan -jEkEn olekči -RIdʒI  dʒeb -RI -n(I)      ejdu ńaːn ńọːn -RI -n(I)
+\ge and    dist.qual       dist.qual       =ptl fox          -dim   cheat   -ant.cvb eat   -pst -poss.3sg all  and    run.away -pst -poss.3sg
+\ft And like that the naughty little fox, having tricked (them), ate everything and ran away.
+\ev
+\ru И вот так вот лиса обманув съела все и убежала.
+\ELANBegin 00:10:19.640
+\ELANEnd 00:10:27.120
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_121
+\ref
+\tx Nan    tačịnta            olekčirin             nan    ačča ọralkar                   ọːdịtan.
+\mb ńaːn tarrọːčịn =t(E) olekči -RI -n(I)      ńaːn ačča ọrọn          -lkEn -L  ọː  -RI -tEn
+\ge and    dist.qual       =ptl  cheat   -pst -poss.3sg and    neg    domestic.reindeer -prop -pl become -pst -poss.3pl
+
+\ft And thus she tricked (them) and they lost their reindeer (lit. became without reindeer).
+\ph
+\gr during the translation session Rimma said that ačča oralkar is correct
+\gr 27/06/2016: ačča ọralkar = correct, bez olenej; bi ač ʤeble bišem = should be ač ʤebleŋne bišem; can one say bi ač ʤebleŋelken bišem = NO, ʤebleŋelken = s pishej; nọŋartan
+oralkar ọːditan = s olenjami stali, a ačča oralkar oːditan = bez olenej stali; or one can say "ač ọrna" - a completely weird construction that goes against all logic!!! but since she said it
+was fine like this on two separate days, I guess it's like this
+\nt
+\ev
+\ru Вот так обманула и остались без оленей.
+\ELANBegin 00:10:27.120
+\ELANEnd 00:10:36.280
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_122
+\ref
+\tx Tačịn.
+\mb tarrọːčịn
+\ge dist.qual
+\ft Like that.
+\ev
+\ru вот так
+\ELANBegin 00:10:36.280
+\ELANEnd 00:10:42.560
+\ELANParticipant
+
+\id Grigoreva_NI_fox_reindeerherder_123
+\ref
+\tx
+\ft Such stories we...
+\ev
+\ru Вот мы вот таких рас...
+\ELANBegin 00:10:42.560
+\ELANEnd 00:10:44.360
+\ELANParticipant NIG
+
+\id Grigoreva_NI_fox_reindeerherder_124
+\ref
+\tx
+\ft Very interesting.
+\ev
+\ru
+\ELANBegin 00:10:44.360
+\ELANEnd 00:10:45.500
+\ELANParticipant BP 
+
+\id Grigoreva_NI_fox_reindeerherder_125
+\ref
+\tx Ebdʒenič,         ebdʒende?
+\mb hebdʒen    -E-Č   hebdʒen -DI
+\ge interesting -ep-ins funny    -adjr
+\ft Interesting, yes?
+\ev
+\ru
+\ELANBegin 00:10:45.500
+\ELANEnd 00:10:50.080
+\ELANParticipant NIG 
+
+\id Grigoreva_NI_fox_reindeerherder_126
+\ref
+\tx
+\ft Well, and then ...
+\ev
+\ru Ну вот, потом, значит...
+\ELANBegin 00:10:50.080
+\ELANEnd 00:10:54.380
+\ELANParticipant NIG
+
+
+\ELANMediaURL file:///D:/Brigitte PAKENDORF/My Documents/LANGUAGE PROJECTS/Even
+project/fieldwork_Kamchatka_2016/Narrative_recordings/13_Grigoreva_NI_fox_reindeerherder/Grigoreva_NI_fox_reindeerherder_120709.WAV
+\ELANMediaMIME audio/x-wav

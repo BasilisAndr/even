@@ -1,0 +1,575 @@
+\_sh v3.0  984  Text
+
+\id Amganov_EI_ducks_000_metadata
+\ref Recorded on 14 June 2009 in Esso by Natalia Aralova and Brigitte Pakendorf. BP and NA went to visit the Amganovs,
+where we first drank tea, looked at their photo album and asked some questions; only after an hour did we get out the
+recording equipment. NA was in charge of the video, while BP monitored the Marantz recorder. Only EIA and EPA
+were present (in addition to BP and NA); however, somewhere in the middle of the recording a daughter or two plus
+grandkids slipped in and out - but they did not join in the storytelling. Other than that there were hardly any
+surrounding noises. EIA was in a storytelling mood and kept remembering humourous little anecdotes, which he
+recounted with a lot of accompanying gestures. In between he gave Russian summaries/retold it all in Russian - but the
+video files were cut in such a way as to exclude that (except where he switched to Russian in the middle of an Even
+narrative). The individual anecdotes (11 in total, varying in length from 1 minute to 12 minutes) were analysed
+individually, as individual ELAN/Toolbox files. 
+\tx
+
+\id Amganov_EI_ducks_001
+\tx Russian
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:02.770
+\ELANParticipant BP
+\ev
+\ru
+
+\id Amganov_EI_ducks_002
+\tx Aha omnekende           teːleŋdekukene,                   Vadim teːleŋčewen,
+\mb aha omen -REkEn    =DE  teːleŋ -DE       -W        =kEnE  Vadim teːleŋ -čE    -W   -E-n(I)
+\ge aha one  -iter.adv =ptl tell     -purp.cvb -poss.1sg =contr Vadim tell     -pf.ptc -acc -ep-poss.3sg
+
+\tx minde        teːleŋu          ọːdan                   čas.
+\mb min     =DE  teːleŋ -W        ọː  -DE       -n(I)     čas
+\ge 1sg.obl =ptl story    -poss.1sg become -purp.cvb -poss.3sg ptl
+
+\ft Aha, once... let me tell what Vadim told, let it become my story now.
+\ELANBegin 00:00:02.770
+\ELANEnd 00:00:08.660
+\ELANParticipant EIA
+\ev
+\ru Однажды, давай-ка я расскажу Вадимом рассказанное, как будто мой рассказ станет.
+
+\id Amganov_EI_ducks_004
+\tx ịaw
+\mb ịak -W
+\ge what  -acc
+
+\ELANBegin 00:00:08.660
+\ELANEnd 00:00:09.150
+\ELANParticipant EPA
+\ev
+\ru
+
+\id Amganov_EI_ducks_005
+\tx Niːkičeːmke          pukturunerin                    umekič.
+\mb niːkičeːn -W   =kE   pekteren -nE     -RI -n(I)      umekič
+\ge duck         -acc =emph shoot    -intent -pst -poss.3sg very
+
+\ft He went to shoot ducks.
+\ph
+\gr I shoot = biː puktururem --> so this would be a verb ending in a vowel; there are probably two forms, like for so
+many others
+\nt
+\ELANBegin 00:00:09.150
+\ELANEnd 00:00:13.580
+\ELANParticipant
+\ev
+\ru Уток пошел стрелять.
+
+\id Amganov_EI_ducks_006
+\tx Russian
+\ELANBegin 00:00:13.580
+\ELANEnd 00:00:15.680
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_ducks_007
+\tx Russian?
+\ELANBegin 00:00:15.680
+\ELANEnd 00:00:16.640
+\ELANParticipant EPA
+\ev
+\ru
+
+\id Amganov_EI_ducks_008
+\tx Eto ne darom.
+\ELANBegin 00:00:16.640
+\ELANEnd 00:00:18.380
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_ducks_009
+\tx Vot.
+\ELANBegin 00:00:18.380
+\ELANEnd 00:00:20.460
+\ELANParticipant
+\ev
+\ru
+
+\id Amganov_EI_ducks_010
+\tx Russian
+\ELANBegin 00:00:20.460
+\ELANEnd 00:00:30.410
+\ELANParticipant
+\ev
+\ru
+
+\id Amganov_EI_ducks_011
+\tx Russian
+\ELANBegin 00:00:30.410
+\ELANEnd 00:00:38.400
+\ELANParticipant
+\ev
+\ru
+
+\id Amganov_EI_ducks_012
+\tx Russian
+\ELANBegin 00:00:38.400
+\ELANEnd 00:00:42.700
+\ELANParticipant
+\ev
+\ru
+
+\id Amganov_EI_ducks_013
+\tx Russian
+\ELANBegin 00:00:42.700
+\ELANEnd 00:00:45.230
+\ELANParticipant
+\ev
+\ru
+
+\id Amganov_EI_ducks_014
+\tx Omneken        ečin      umekičeː    Vadim tawụr badʒịkara
+\mb omen -REkEn    erroːčin umekič =eː  Vadim tawụr badʒịkar -E
+\ge one  -iter.adv prox.qual  very    =emph Vadim this    morning     -ep
+\ft Once Vadim in the morning like this...
+\ELANBegin 00:00:45.230
+\ELANEnd 00:00:48.930
+\ELANParticipant EIA
+\ev
+\ru Однажды вот так Вадим вот утром
+
+\id Amganov_EI_ducks_015
+\tx ịak Vadim?
+\mb ịak Vadim
+\ge what  Vadim
+
+\ELANBegin 00:00:48.930
+\ELANEnd 00:00:49.640
+\ELANParticipant EPA
+\ev
+\ru
+
+\id Amganov_EI_ducks_016
+\tx Ičanga
+\mb Ičanga
+\ge Ichanga
+
+\ELANBegin 00:00:49.640
+\ELANEnd 00:00:51.380
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_ducks_017
+\tx pukturunerinelle                            niːkiminerin
+\mb pekteren -nE     -RI -n(I)      =El   =lE   niːkičeːn -mI -nE     -RI -n(I)
+\ge shoot    -intent -pst -poss.3sg =emph =emph duck         -vr -intent -pst -poss.3sg
+\ft ...finally went to shoot, went to hunt ducks.
+\ph
+\gr According to RME, =elle has a meaning of 'nakonec-to', finally. So I wonder if we shouldn't set up a separate
+morpheme for that.
+\ELANBegin 00:00:51.380
+\ELANEnd 00:00:53.960
+\ELANParticipant EIA
+\ev
+\ru Наконец-то пошел стрелять, пошел охотиться на уток.
+
+\id Amganov_EI_ducks_018
+\tx Tawụrke     Ozernaj  ọkaːtčannị         dọːlịn              tawụr gịrkan
+\mb tawụr =kE   Ozernaja ọkaːt -čEn -n(I)     dọː -(dU)LI -n(I)     tawụr gịrka -n(I)
+\ge this    =emph Ozernaja river    -dim  -poss.3sg inside -prol   -poss.3sg this    walk    -3sg
+
+\tx goːnni     desčihendʒiddenehi                      goːnni     tiːk er   niːkimedʒinesi.
+\mb goːn -n(I) desči -s(E)n -D    -R(E) -n(I)  -E=sI    goːn -n(I) tiek  erek niːkičeːn -mEː -DʒI -n(I) -E=sI
+\ge say   -3sg  lie    -lim   -prog -nonfut -3sg -ep=emph say   -3sg  now   prox duck         -vr   -fut  -3sg  -ep=emph
+
+\ft Along that river Ozernaja he goes, he says, and lies down properly, he says, and will now hunt ducks.
+\ph
+\gr desčisnen = on leg, desčisenden = pust' ložitsja, desčisendʒidden = dolgo ložitsja; there is no difference between
+niːkimi- (sentence 17) and niːkime-
+\ELANBegin 00:00:53.960
+\ELANEnd 00:01:02.190
+\ELANParticipant
+\ev
+\ru Вот по речке Озерной идет, рассказывает, он лег хорошенько и говорит сейчас будет охотиться на уток.
+
+\id Amganov_EI_ducks_019
+\tx Umekič ittenelle                    tar   niːkičeːreː        umekič
+\mb umekič it  -R(E) -n(I)  =El   =lE   tarak niːkičeːn -L  =eː  umekič
+\ge very    see -nonfut -3sg =emph =emph dist  duck         -pl =emph very
+
+\tx teːŋčer.
+\mb teːŋče -r
+\ge swim      -3pl
+
+\ft And then he finally sees, over there ducks are swimming.
+\ph
+\gr biː teːŋčerem = ja plyvu, teːŋčeddem = sejčas ja plyvu, ja plavaju = teːmačịddem
+\ELANBegin 00:01:02.190
+\ELANEnd 00:01:07.910
+\ELANParticipant
+\ev
+\ru И вот наконец-то он видит, вон утки плывут.
+
+\id Amganov_EI_ducks_020
+\tx Aːngịt,  aːntakịda       enni             kojeːtte.
+\mb aːn  -GIČ aːn  -t(E)kI =DE  e   -R(E) -n(I)  kojeːt -R
+\ge right -elat right -all    =ptl neg -nonfut -3sg look.at -neg.cvb
+\ft He doesn't look to the right.
+\ph
+\gr digenteki = nalevo, levša = digeka
+\ELANBegin 00:01:07.910nn
+\ELANEnd 00:01:11.220
+\ELANParticipant
+\ev
+\ru На право он не смотрит.
+
+\id Amganov_EI_ducks_021
+\tx Tala          utelken         niːkičeːkeken    bisin.
+\mb tarak -(dU)LE hut   -E  -lkEn niːkičeːn -kEkEn bi -RI -n(I)
+\ge dist  -loc    child -ep -prop duck         -dim   be -pst -poss.3sg
+
+\ft There was a small duck with ducklings.
+\ELANBegin 00:01:11.220
+\ELANEnd 00:01:15.500
+\ELANParticipant
+\ev
+\ru Там с детьми уточка была.
+
+\id Amganov_EI_ducks_022
+\tx Adịwut          dʒapkangụ goːnni     uŋelni                    bisiten           tar,
+\mb adịː  =(W)UttE dʒapkan =GU goːn -n(I) uŋ       -E-L   -n(I)     bi -RI -tEn       tarak
+\ge how.much =indef   eight    =q  say   -3sg  something -ep-pl -poss.3sg be -pst -poss.3pl dist
+
+\tx ọnŋačačannị.
+\mb họnŋačan -čEn -n(I)
+\ge animal.young -dim  -poss.3sg
+
+\ft How many, was it 8 of her young were there.
+\ELANBegin 00:01:15.500
+\ELANEnd 00:01:20.580
+\ELANParticipant
+\ev
+\ru Сколько-то, 8 что ли этих было там, ее детишек.
+
+\id Amganov_EI_ducks_023
+\tx Umekičeː    goːnni     pukterendeji                uŋnem,          erroː  goːnni     erek nan
+\mb umekič =eː  goːn -n(I) pekteren -DE       -J       uŋ -R(E) -m     erroːj goːn -n(I) erek ńaːn
+\ge very    =emph say   -3sg  shoot    -purp.cvb -prfl.sg do  -nonfut -1sg oh.dear say   -3sg  prox and
+
+\tx ịamịbedʒi   ačkịwụnan            goːnni     utkereŋgeji                   geleteddem.
+\mb ịamị =bEdʒI očki     -W        =nEn  goːn -n(I) utker -E  -ŋ  -GE    -J       geleːt  -E-D     -R(E) -m
+\ge why      =emph   glasses.R -poss.1sg =emph say   -3sg  patch -ep -aln -desig -prfl.sg look.for -ep-prog -nonfut -1sg
+
+\ft So, he says, I wanted to shoot, oh dear, he says, why are my glasses (dirty), he says, started to look for a patch (to clean
+them).
+\ph
+\gr pukturun- and pukteren- = no difference; pukturun- = shoot once; pukturu- = mnogo raz streljat'; pukterendeji
+uŋnem = xoču vystrelit' (1 raz), geleteddem = išču zaplatku
+\ELANBegin 00:01:20.580
+\ELANEnd 00:01:28.620
+\ELANParticipant
+\ev
+\ru И вот, говорит, хотел выстрелить, эрро, говорит, почему это очки мои, стал искать заплатку.
+
+\id Amganov_EI_ducks_024
+\tx Utkeriŋgeji                   turkuridʒi          bakŋa,        karmamị         nasallịdʒị
+\mb utker -E  -ŋ  -GE    -J       turku       -RIdʒI  bak  -ŋE      karman   -J       nasal          -RIdʒI
+\ge patch -ep -aln -desig -prfl.sg not.be.able -ant.cvb find -nmdl.cvb pocket.R -prfl.sg tear.trns.smlf -ant.cvb
+
+\tx ačkịjị        awaddan.
+\mb očki     -J       aw  -E-D     -R(E) -n(I)
+\ge glasses.R -prfl.sg rub -ep-prog -nonfut -3sg
+\ft He couldn't find a patch, tore off his pocket and wipes his glasses.
+\ph
+\gr awaddan = vytiraet; vytiral = awaddịn
+\ELANBegin 00:01:28.620
+\ELANEnd 00:01:33.140
+\ELANParticipant EIA
+\ev
+\ru Заплатку он найти не мог, карман оторвал, очки вытирал.
+
+\id Amganov_EI_ducks_025
+\tx čiːmeti
+\mb čiːmet -J
+\ge glasses  -prfl.sg
+
+\ELANBegin 00:01:33.140
+\ELANEnd 00:01:33.820
+\ELANParticipant EPA
+\ev
+\ru
+
+\id Amganov_EI_ducks_026
+\tx Čiːmeti         awrantekeːnnun                     tetedden.
+\mb čiːmet -J       aw   -R(E)   -E-n(I) =tekeːn =ńUn tet    -E-D     -R(E) -n(I)
+\ge glasses  -prfl.sg wash -nonfut -ep-3sg =dur     =emph put.on -ep-prog -nonfut -3sg
+\ft He wiped and wiped and puts them (back) on.
+\ph
+\gr awrantekeːn dʒebrentekeːn = kušaet dolgo, uklentekeːn gọrụ, ja dolgo vytiraju = awrantekeːn, ty dolgo vytiraeš =
+awịštekeːn; ja vytiraju = awaddam; awram; ty vytiraeš = awadịnni, awannị; on vytiraet = awaddan, awran; mut
+awaddap, awrap; bu awaddụ, awrụ; uː awadịs, awịs; nọŋartan awadda, awra; ja dolgo vytiraju = gọrụ awaddam;
+*awattam = netu; ja dolgo vytiraju vytiraju = awramtekeːn, ty dolgo vytiraeš vytiraeš = awannịtkan, on dolgo
+vytiraet = awratkan
+\ELANBegin 00:01:33.820
+\ELANEnd 00:01:36.780
+\ELANParticipant EIA
+\ev
+\ru Очки вытирал вытирал и одевает.
+
+\id Amganov_EI_ducks_027
+\tx Nanda       umekič enni             iču[r]
+\mb ńaːn =DE  umekič e   -R(E) -n(I)  it  -U     -R
+\ge and    =ptl very    neg -nonfut -3sg see -caus  -neg.cvb
+
+\ft And again nothing is visible.
+\ph
+\gr vse xorošo vidno = čeledʒi ajịč ičun; ničego ne vidno = ịakta esni ičur
+\ELANBegin 00:01:36.780
+\ELANEnd 00:01:39.020
+\ELANParticipant
+\ev
+\ru И опять ничего не видно.
+
+\id Amganov_EI_ducks_028
+\tx Unde  ečin      kojeːčisčiddekenesi                                   pukterewunni         nanda
+\mb unde  erroːčin kojeːt -E-sčI   -D    -REk -E-n(I)            -E=sI    pukterewun -n(I)     ńaːn =DE
+\ge while prox.qual  look.at -ep-conat -prog -cond.cvb -ep -poss.3sg -ep=emph gun        -poss.3sg and    =ptl
+
+\tx niːkičeːŋelni                  ilewut                  orroːtte           nanda.
+\mb niːkičeːn -ŋ  -E-L   -n(I)     irek  -(dU)LE =(W)UttE  hor -WEːČ -R(E)   ńaːn =DE
+\ge duck         -aln -ep-pl -poss.3sg which -loc    =indef    go  -gnr    -nonfut and    =ptl
+
+\ft And while he is looking at his gun like this, again his ducks leave somewhere.
+\ph
+\gr pukterewunni = not correct, should be pukterewmi, with possessive reflexive
+\ELANBegin 00:01:39.020
+\ELANEnd 00:01:46.660
+\ELANParticipant
+\ev
+\ru И вот пока он рассматривает свое ружье, опять его утки куда-то уходят.
+
+\id Amganov_EI_ducks_029
+\tx Ńanasi      goːnni     ịakawụ   erek ńan   eli          goːnni     gịrkannị pukterewmi
+\mb ńaːn =sI   goːn -n(I) ịak -awụ erek ńaːn erek -(dU)LI goːn -n(I) gịrka -    pukterewun -J
+\ge and    =emph say   -3sg  what  -emph  prox and    prox -prol   say   -3sg  walk    -    gun        -prfl.sg
+
+\tx ọjlịnasị.
+\mb ọj    -(dU)LI -n(I)     -E=sI
+\ge surface -prol   -poss.3sg -ep=emph
+\ft And he says, what is this, he says, here along my gun (it) walks.
+\ph
+\gr ja idu = gịrkaddam, ja idu sejčas = gịrkaram; ty ideš sejčas = iː gịrkannị, nọŋan gịrkan, mut gịrkarap, bu gịrkarụ, uː
+gịrkas, nọŋartan gịrkar; ty ideš (voobšče) = iː gịrkadịnnị, uː gịrkadịs, nọŋartan gịrkadda, nọŋan gịrkaddan; he uses the
+wrong form for the 3SG Nonfut of gịrka, it should be gịrkan
+\ELANBegin 00:01:46.660
+\ELANEnd 00:01:51.550
+\ELANParticipant
+\ev
+\ru И вот он говорит, что это такое, здесь говорит утки поверху ружье.
+
+\id Amganov_EI_ducks_030
+\tx Niːkičeːn ọnŋačannị        pukterewunni         ọjlịna,                   ačkịjị
+\mb niːkičeːn họnŋačan -n(I)     pukterewun -n(I)     ọj    -(dU)LI -n(I)     -E  očki     -J
+\ge duck         animal.young -poss.3sg gun        -poss.3sg surface -prol   -poss.3sg -ep glasses.R -prfl.sg
+
+\tx nụkrịdʒị   kojeːtten.
+\mb nụk    -RIdʒI  kojeːt -R(E) -n(I)
+\ge take.off -ant.cvb look.at -nonfut -3sg
+
+\ft Ducklings along the top of his gun, he takes off his glasses and looks.
+\ELANBegin 00:01:51.550
+\ELANEnd 00:01:56.200
+\ELANParticipant
+\ev
+\ru Детеныши утки поверх ружья, сняв очки он смотрит.
+
+\id Amganov_EI_ducks_031
+\tx Ịamị niːkičeːŋelni                  eli          ŋenne.
+\mb ịamị niːkičeːn -ŋ  -E-L   -n(I)     erek -(dU)LI ŋen -R(E)
+\ge why      duck         -aln -ep-pl -poss.3sg prox -prol   go   -nonfut
+\ft Why, his ducks are walking here!
+\ELANBegin 00:01:56.200
+\ELANEnd 00:01:59.460
+\ELANParticipant
+\ev
+\ru И вот утки его тут идут.
+
+\id Amganov_EI_ducks_032
+\tx Erroː  goːnni     ịasčịramnan                  erek.
+\mb erroːj goːn -n(I) ịa    -sčI  -R(E) -m     =nEn  erek
+\ge oh.dear say   -3sg  do.what -conat -nonfut -1sg =emph prox
+\ft Oh dear,he says, what shall I do!
+\ELANBegin 00:01:59.460
+\ELANEnd 00:02:02.920
+\ELANParticipant
+\ev
+\ru Ой, что же я делаю, вот!
+
+\id Amganov_EI_ducks_033
+\tx Buːsi       ečin      dọlčịddịdʒụr        goːnem            ọːna
+\mb buː   =sI   erroːčin dọlčị -D    -RIdʒI -L   goːn -R(E) -m     ọːn
+\ge 1pl.ex =emph prox.qual  listen     -prog -ant.cvb -pl say   -nonfut -1sg how
+\ft We listened to this, and I say:
+\ph
+\gr The combination of PL Anterior converb agreeing with the 1PL subject of the subordinate clause and the 1SG main
+verb is OK.
+\ELANBegin 00:02:02.920
+\ELANEnd 00:02:05.760
+\ELANParticipant
+\ev
+\ru Мы же слушали, а я говорю:
+
+\id Amganov_EI_ducks_034
+\tx Vadeːm,  buːdeke          kojeːčiddʒoːttu              televizorla       Baženov tala
+\mb Vadeːm   buː   =DE  =kE   kojeːt -E-D     -WEːČ -(R)U   televizor -(dU)LE Baženov tarak -(dU)LE
+\ge Vadim.voc 1pl.ex =ptl =emph look.at -ep-prog -gnr    -1pl.ex TV.R      -loc    Bazhenov dist  -loc
+
+\tx binni.
+\mb bi -R(E) -n(I)
+\ge be -nonfut -3sg
+
+\ft Vadim, we also watch TV, there's Bazhenov there.
+\ph
+\gr
+\nt
+\ELANBegin 00:02:05.760
+\ELANEnd 00:02:11.540
+\ELANParticipant
+\ev
+\ru Мы же тоже телевизор смотрим, Баженов там есть.
+
+\id Amganov_EI_ducks_035
+\tx Skazki        Baženova      tala          ičukečiddʒoːtte.
+\mb skazki        Baženova      tarak -(dU)LE it  -WkEn -Č  -E-D     -WEːČ -R(E)
+\ge fairy.tales.R Bazhenov.gen.R dist  -loc    see -caus -res -ep-prog -gnr    -nonfut
+\ft They show Bazhenov's fairy tales there.
+\ph
+\gr ičukečiddʒoːtte = mnogo raz pokazyvajut; ičukeččoːtte, ičukeweːtte = 1 raz pokazyvajut; ičukečidden = pokazyvaet;
+(trans.file Amganov_Efim_quest2, 26:30) ičukennoːtten = inogda pokazyvaet, raz i sprjačet (but a day earlier,
+(Amganov_Efim_quest1 40:40, kino021) she'd said that ičukeːnnoːtte is not possible), ičukeːččoːtte = vsegda
+pokazyvajut, ičukeweːtte = pokazyvajut vsegda, pokazyvajut inogda; ičukeːčiddʒoːtte = postojanno pokazyvajut (with
+emphasis on the postojanno); ičukečkeččoːtte = pokazyvajut kak popalo
+\gr 29.01.2013: ičukečiddʒoːtte  ičukettej = pokazatj vot tak; bi ičukenem = sejchas nemnogo pokazyvaju; ičukettem = ja
+dolgo pokazyvaju; ičukeččoːtte = pokazyvajut po televizoru; (then, when I said, aah, pokazyvajut neskolko raz, she
+said, da, ičukečiddʒoːtte -- which makes it seem as if there isn't really much difference between ičukeččoːtte and
+ičukečiddʒoːtte); bi ičukečiddʒoːttem = da, mozhno; bi ičukečiddem = mozhno, ja pokazyvaju; bi ičukečiddem dʒụːjị =
+ja svoj dom pokazyvaju sejchas; bi ičukečiddʒoːttem kinow = ja kino pokazyvaju, moja rabota; ičukenem = ja korotko
+pokazyvaju (1 fotografiju); ičukettem = OK,  ičukeneddem = ja pokazyvaju vot tak, mozhno;
+\nt Bazhenov is a famous Russian writer of fairy tales.
+\ELANBegin 00:02:11.540
+\ELANEnd 00:02:14.600
+\ELANParticipant
+\ev
+\ru Сказки Баженова там показывают.
+
+\id Amganov_EI_ducks_036
+\tx Iː  ehenni           Baženov bise,       Vadim?
+\mb hiː e   -R(E)   -nrI Baženov bi -R       Vadim
+\ge 2sg  neg -nonfut -2sg Bazhenov be -neg.cvb Vadim
+\ft You aren't Bazhenov, are you, Vadim?
+\ELANBegin 00:02:14.600
+\ELANEnd 00:02:17.680
+\ELANParticipant
+\ev
+\ru Ты не Баженов ли, Вадим?
+
+\id Amganov_EI_ducks_037
+\tx Esemeː,               ajdịtta         goːnni,    pukterewmu           ọjlịn
+\mb e   -R(E) -m     =eː  ajdịt =t(E)     goːn -n(I) pukterewun -W        ọj    -(dU)LI -n(I)
+\ge neg -nonfut -1sg =emph truth   =utočnit say   -3sg  gun        -poss.1sg surface -prol   -poss.3sg
+
+\tx niːkičeːn ńọːŋčịrịn.
+\mb niːkičeːn ńọːŋčị -RI -n(I)
+\ge duck         run            -pst -poss.3sg
+
+\ft No, it's the truth, he says, along the top of my gun a duck ran!
+\ELANBegin 00:02:17.680
+\ELANEnd 00:02:22.320
+\ELANParticipant
+\ev
+\ru Нет, правду говорю, по моему ружью утка пробежала.
+
+\id Amganov_EI_ducks_038
+\tx erroːčekene
+\mb erroːčekene
+\ge my.goodness
+
+\ELANBegin 00:02:22.320
+\ELANEnd 00:02:24.100
+\ELANParticipant
+\ev
+\ru Вот так дела.
+
+\id Amganov_EI_ducks_039
+\tx Čas tačịnda          biden                  goːnem
+\mb čas tarọːčịn =DE  bi -DE       -n(I)     goːn -R(E) -m
+\ge ptl  dist.qual      =ptl be -purp.cvb -poss.3sg say   -nonfut -1sg
+\ft Well, OK, let it be like that.
+\ELANBegin 00:02:24.100
+\ELANEnd 00:02:26.340
+\ELANParticipant
+\ev
+\ru Ну ладно, пусть так будет
+
+\id Amganov_EI_ducks_040
+\tx Vot
+\mb vot
+\ge here.R
+
+\ELANBegin 00:02:26.340
+\ELANEnd 00:02:27.520
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_ducks_041
+\tx Nan    nọŋman               tiːk Baženovič      goːweːtte
+\mb ńaːn nọŋan -W   -n(I)     tiek  Baženov -E-Č   goːn -WEːČ -R(E)
+\ge and    3sg      -acc -poss.3sg now   Bazhenov -ep-ins say   -gnr    -nonfut
+
+\ft And they now call him Bazhenov.
+\ELANBegin 00:02:27.520
+\ELANEnd 00:02:29.140
+\ELANParticipant EPA
+\ev
+\ru Его сейчас называют Баженов.
+
+\id Amganov_EI_ducks_042
+\tx Nan    nọŋman               tiːk goːweːtte           Vadim Baženov.
+\mb ńaːn nọŋan -W   -n(I)     tiek  goːn -WEːČ -R(E)   Vadim Baženov
+\ge and    3sg      -acc -poss.3sg now   say   -gnr    -nonfut Vadim Bazhenov
+
+\ft And they now call him Vadim Bazhenov.
+\ELANBegin 00:02:29.140
+\ELANEnd 00:02:32.170
+\ELANParticipant EIA
+\ev
+\ru
+
+\id Amganov_EI_ducks_043
+\tx laughs
+\ELANBegin 00:02:32.170
+\ELANEnd 00:02:33.720
+\ELANParticipant comment
+\ev
+\ru
+
+\id Amganov_EI_ducks_044
+\tx ah
+\ELANBegin 00:02:33.720
+\ELANEnd 00:02:35.170
+\ELANParticipant BP
+\ev
+\ru 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Kamchatka2009/sound_from_video/Amganov_EI_ducks_Esso_140609.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Kamchatka2009/video_mpeg2/Amganov_EI_ducks_Esso_140609.mpg
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My
+Documents/DOBES/Kamchatka2009/video_mpeg2/Amganov_EI_ducks_Esso_140609.mpg
+\ELANMediaMIME video/mpeg

@@ -1,0 +1,774 @@
+\_sh v3.0  400  Text
+
+\id Axmetova_VI_tabun01
+\ref 17:42
+\tx Tugenidu    gọrụ ịlatčọːttụ               omendu    mestodu.
+\mb tugeni -DU  gọrụ ịl     -E-Č   -WEːČ -(R)U   omen -DU  mesto   -DU
+\ge winter -dat long     stand.up -ep-res -gnr    -1pl.ex one  -dat place.R -dat
+
+\ft In winter we stand in one place for a long time.
+\ru Зимой долго стоим на одном месте.
+\ph
+\gr
+
+\id Axmetova_VI_tabun02
+\ref 17:48
+\tx Ịmannakasị       tiːke liš'  by    tor   egdʒen biden,                 specialno tugeni
+\mb ịmanra =kE   =sI   tiek   liš'  by    tor   egdʒen bi -DE       -n(I)     specialno tugeni
+\ge snow     =emph =emph now    only.R ptl.R earth big     be -purp.cvb -poss.3sg special.R winter
+
+\tx pastbiščan,         kusčimŋe          binni            mesto,  ịlkanda    egdʒen tor.
+\mb pastbišča -n(I)     kusči        -mŋE bi -R(E)   -n(I) mesto   ịlkan =DE  egdʒen tor
+\ge pasture.R   -poss.3sg herd.reindeer -agnr be -nonfut -3sg  place.R true    =ptl big     earth
+
+\ft Because there's snow, as long as the place is large, a special winter pasture, a truly large place.
+\ru Потому что снег, лишь бы земли много было, специально есть зимние пастбища, ну обширная земля.
+\ph tur ịlkanta turə
+\gr (translation file quest_narrat2007_230609_1 49:00): checked tiːke with Rimma Maksimovna, who said it only means 'sejčas';
+(ibid 52:00) kusčimŋe binni mesto = dlja pastbišča est' mesto, pastbiščnoe mesto est'
+\nt In winter the camp on plateaus, where there's lots of reindeer moss, and in summer they go to a different place, in the
+mountains, where the bushes are small so they don't harm the reindeers' legs, because the fur between the hooves hasn't
+really grown out yet in summer, and then big hard bushes damages the skin there and they fall ill with the disease called
+'kopytica'.
+\qu
+
+\id Axmetova_VI_tabun03
+\ref 18:07
+\tx I     tadụ     ịlamda         atkịkam      ịlatčọːtta.
+\mb i     tarak -DU  ịlan -W   =DE  atkịkan -W   ịl     -E-Č   -WEːČ -R(E)
+\ge and.R dist  -dat three  -acc =ptl moon      -acc stand.up -ep-res -gnr    -nonfut
+
+\ft And there they stand 3 months.
+\ru Там могут три месяца стоять.
+\ph
+\gr
+
+\id Axmetova_VI_tabun04
+\ref 18:13
+\tx Jurtawesi            teːwoːtte                  egdʒemkeru,       prjamo     egdʒemkeru.
+\mb jurta  -W   -E=sI    teːw    -WEːČ -R(E)       egdʒen -mkEr -W   prjamo     egdʒen -mkEr -W
+\ge yurt.R -acc -ep=emph put.down -gnr    -nonfut.3pl big     -aug  -acc straight.R big     -aug  -acc
+
+\ft They put up a huuuuge yurt, a really huge one.
+\ru Ставят большую юрту.
+\ph egʥeːmkeru with very long-drawn out vowel for emphasis
+\gr
+
+\id Axmetova_VI_tabun05
+\ref 18:17
+\tx Tabịč ńamụda,     tala          dọːlan                ịlatčọːttan                     kamin.
+\mb tabịč ńam -W   =DE  tarak -(dU)LE dọː -(dU)LE -n(I)     ịl     -E-Č   -WEːČ -R(E) -n(I)  kamin
+\ge again    warm -acc =ptl dist  -loc    inside -loc    -poss.3sg stand.up -ep-res -gnr    -nonfut -3sg fireplace.R
+
+\ft When it's warm, inside stands a fireplace.
+\ru Когда тепло, там в юрте стоит камин. (Тепло, внутри стоит камин.)
+\ph
+\gr ńamụda = kogda teplo; ńam = teplo; ńamakị = ńamčakan = oj teplo! (translation file quest_narrat2007_230609_1 56:15)
+Rimma Maksimovna said that there is no word ńamụda, and that what makes most sense is that it should be ńamdụda
+'čtoby bylo teplo/dlja tepla, vnutri stoit kamin' --> but in 2013 she said that ńamụ = correct, just means "v teple/v teplo"
+
+\id Axmetova_VI_tabun07
+\ref 18:25
+\tx Kiliebu      bi... pastuxal        orroːtte,          omenda    pastux   ili  dʒoːrde    mọːw
+\mb kilieb  -W   biː  pastux   -E-L   hor -WEːČ -R(E)   omen =DE  pastux   ili  dʒoːr =DE  mọː -W
+\ge bread.R -acc 1sg   herder.R -ep-pl go  -gnr    -nonfut one  =ptl herder.R or.R two     =ptl tree   -acc
+
+\tx mọːlịddʒọːtta,              a     dʒoːrde    orroːtte           ọrtakị
+\mb mọː -LE -D    -WEːČ -R(E)       a.R   dʒoːr =DE  hor -WEːČ -R(E)   ọrọn          -t(E)kI
+\ge tree   -vr -prog -gnr    -nonfut.3pl but.R two     =ptl go  -gnr    -nonfut domestic.reindeer -all
+
+\tx ọrbe                 eŋeneweːtte.
+\mb ọrọn          -W   eŋen     -E-WEːČ -R(E)
+\ge domestic.reindeer -acc come.look -ep-gnr   -nonfut.3pl
+
+\ft Bread I ... The herders go, one or two herders bring firewood, and two go to the herd to look (how it is).
+\ru Когда пастухи уходят, одни или два готовят дрова, а два идут в табун оленей смотреть.
+\ph
+
+\id Axmetova_VI_tabun08
+\ref 18:41
+\tx Nan    tarị.
+\mb ńaːn tar
+\ge again  thus
+
+\ft Like that.
+\ru
+\ph
+
+\id Axmetova_VI_tabun09
+\ref 18:41
+\tx A     bi   oleːtidʒilloːttem,                             kočelindʒeji               kamindụla
+\mb a.R   biː oleː -Č  -E-D     -E-L     -WEːČ -R(E)   -m   kočel    -E-ńdʒE -J       kamin       -(dU)LE
+\ge but.R 1sg  cook  -res -ep-prog -ep-inch -gnr    -nonfut -1sg big.pot.R -ep-aug   -prfl.sg fireplace.R -loc
+
+\tx teːwrem,              mọː ereger ọːja  biweːtten,             ńamịː  biweːtten,
+\mb teːw    -R(E)   -m    mọː ereger họːja bi -WEːČ -R(E) -n(I)  ńam =Iː  bi -WEːČ -R(E) -n(I)
+\ge put.down -nonfut -1sg  tree   always many     be -gnr    -nonfut -3sg warm =emph be -gnr    -nonfut -3sg
+
+\tx jurtadu
+\mb jurta  -DU
+\ge yurt.R -dat
+
+\ft And I start to cook, I put my big pot on the fireplace, there's always a lot of wood, it's warm in the yurt.
+\ru Я начинаю варить, котел ставлю на камин, дров постоянно много бывает, очень тепло в юрте бывает.
+\ph
+\gr 30.01.13 (questions7, 41:10) kočelindʒeji = svoj kotel, if it had been just any old pot it would be kočelimkeru teːwrem
+\gr in Even, "kočelindʒe" would be "erkendʒe", 'erken' = 'kastrjulja' (Cincius writes 'iekeːn')
+
+\id Axmetova_VI_tabun11
+\ref 18:55
+\tx Ńan   tar   oleːtidʒilloːttem                              ulleŋi,           tọbakčandʒị,
+\mb ńaːn tarak oleː -Č  -E-D     -E-L     -WEːČ -R(E)   -m   ulre -ŋ  -J       tọːbar -čEn -DʒI
+\ge again  dist  cook  -res -ep-prog -ep-inch -gnr    -nonfut -1sg meat -aln -prfl.sg axe.R     -dim  -ins.prfl.sg
+
+\tx ọnnọːttam             timnikkoːttem.
+\mb họn -WEːČ -R(E)   -m   timnik  -WEːČ -R(E)   -m
+\ge chop  -gnr    -nonfut -1sg chop.up -gnr    -nonfut -1sg
+
+\ft And I start to cook, meat, I chop up (the meat) into small pieces with a small axe.
+\ru Потом начниаю варить, мясо топориком разрубаю, вот на мелкие куски.
+\ph tọbakčanʥị
+\gr
+
+\id Axmetova_VI_tabun12
+\ref 19:06
+\tx Gịakịw     oleːweːttem,             supuda           kapusta   biseken                   boršč,
+\mb gịakị -W   oleː -WEːČ -R(E)   -m   sup    -W   =DE  kapusta   bi -REk      -E-n(I)      boršč
+\ge various   -acc cook  -gnr    -nonfut -1sg soup.R -acc =ptl cabbage.R be -cond.cvb -ep-poss.3sg borsht.R
+
+\tx kašawda             plow,  pelmemde            nekiddʒoːttu,                  tabačịsị.
+\mb kaša      -W   =DE  plow   pelmen    -W   =DE  nek -E-D     -WEːČ     -(R)U   tabačịsị
+\ge porridge.R -acc =ptl plov.R pelmeni.R -acc =ptl do  -ep-prog -gnr.nonfut -1pl.ex then
+
+\ft I cook various things, soup, and when there's cabbage borsht, porridge and plow, and we make pelmeni.
+\ru Все варю суп, капуста когда есть борщ, каша да плов, пельмени делаем, потом.
+\ph
+\gr
+\nt
+\qu
+
+\id Axmetova_VI_tabun13
+\ref 19:30
+\tx Kiliebiwmisi,              kiliebu...   ranše       lepeškiw       nekkoːtte,         tiːtel,
+\mb kiliebiw   -mI       =sI   kilieb  -W   ranše       lepeški   -W   nek -WEːČ -R(E)   tiːtel
+\ge make.bread -cond.cvb =emph bread.R -acc previously.R pancakes.R -acc do  -gnr    -nonfut long.ago
+
+\tx potomučto ečil        aːr          ọːn kiliebu      nekkoːtten,             ịlkan kiliebu.
+\mb potomučto e   -RI  -L  aː  -R       ọːn kilieb  -W   nek -WEːČ -R(E) -n(I)  ịlkan kilieb  -W
+\ge because.R  neg -pst -pl know -neg.cvb how    bread.R -acc do  -gnr    -nonfut -3sg true    bread.R -acc
+
+\ft And when we make bread.... Previously they made pancakes, long ago, because they didn't know how to make bread, real
+bread.
+\ru А когда хлеб делаем,,, раньше делали лепешки, потому что не знали как хлеб делать, настоящий хлеб.
+\ph [nakoːttəw nakkoːttịn]
+\gr (transl. file Tylkanova_quest_270609, 1:06:40) Oni ne znajut, kak delat' xleb = Nọŋartan esten aːra ọːn ọːwaːtta kiliebu. Ja
+ne znaju kak šit' odeždu = Bi esem aːra ọːn aːŋannọːtta ọjụ. Ty ne znaeš' kak delat' nartu = Iː esenni aːra ọːn ọːdʒịr
+tụrkịw. --> Lit. = don't how how THEY make something
+
+\id Axmetova_VI_tabun14
+\ref 19:35
+\tx Tabačịsị, nu     testow       nekkoːtte              egdʒendu    kastrjuljadu    čtoby
+\mb tabačịsị  nu     testo   -W   nek -WEːČ -R(E)       egdʒen -DU  kastrjulja -DU  čtoby
+\ge then           well.R dough.R -acc do  -gnr    -nonfut.3sg big     -dat pot.R      -dat so.that.R
+
+\tx čeledun             uŋden,                 čeledun             ọːja  biden,                 kilieb.
+\mb čele -DU  -n(I)     uŋ -DE       -n(I)     čele -DU  -n(I)     họːja bi -DE       -n(I)     kilieb
+\ge all   -dat -poss.3sg do  -purp.cvb -poss.3sg all   -dat -poss.3sg many     be -purp.cvb -poss.3sg bread.R
+
+\ft Then, the dough they make in a big pot, so that there will be a lot of bread for everyone.
+\ru Потом, ну тесто делают в большой кастрюле, чтобы всем хватило, чтоб много было.
+\ph
+
+\id Axmetova_VI_tabun15
+\ref 19:48
+\tx A     potom, vot    v    devjanosto pjatye  gody    uže      aːmalkarịtan             kiliebu
+\mb a.R   potom  vot    v    devjanosto pjatye  gody    uže      haː -mElčI -RI  -tEn      kilieb  -W
+\ge but.R then.R here.R in.R ninety.R   fifth.R years.R already.R know -acclr  -pst -poss.3pl bread.R -acc
+
+\tx nektewur.
+\mb nek -DE       -WUr
+\ge do  -purp.cvb -prfl.pl
+
+\ft [in Russian:] And then, in the 1995's [continues in Even:] they learnt how to bake bread.
+\ru А потом, вот в девяносто пятые годы уже научились хлеб ставить.
+\ph nɐktɐwər
+\nt And Valentina Innokent'evna was the first to figure out how to bake bread in the tabun.
+
+\id Axmetova_VI_tabun16
+\ref 19:57
+\tx Bi   nekkoːttem              gịakịdụ  uŋdu          kastrjuljaldu       kakie... irelke
+\mb biː nek -WEːČ -R(E)   -m   gịakị -DU  uŋ       -DU  kastrjulja -L  -DU  kakie    irek  -L  =kE
+\ge 1sg  do  -gnr    -nonfut -1sg various   -dat something -dat pot.R      -pl -dat which.R  which -pl =emph
+
+\tx kastrjulja erroːčinda    erroːčinda    teːwoːttem.
+\mb kastrjulja erroːčin =DE  erroːčin =DE  teːw    -WEːČ -R(E)   -m
+\ge pot.R      prox.qual  =ptl prox.qual  =ptl put.down -gnr    -nonfut -1sg
+
+\ft I make (bread) in various pots, which pots, and like this and like this, I make it.
+\ru Я делаю в разных кастрюлях, какие кастрюли, и такая и такая., ставлю.
+\ph gịagịdụ
+
+\id Axmetova_VI_tabun17
+\ref 20:06
+\tx Ečin      podnimetsja, podnjallakan                   prjamo     na   pečke      stoit,
+\mb erroːčin podnimetsja  podnjal -REk      -E-n(I)      prjamo     na   pečke      stoit
+\ge prox.qual  rises.R      rose.R  -cond.cvb -ep-poss.3sg straight.R on.R stove.loc.R stands.R
+
+\tx ịlatčọːttan                     kastrjulja, itenni           kraja   uže      rumjannye,
+\mb ịl     -E-Č   -WEːČ -R(E) -n(I)  kastrjulja  it  -R(E)   -nrI kraja   uže      rumjannye
+\ge stand.up -ep-res -gnr    -nonfut -3sg pot.R       see -nonfut -2sg sides.R already.R rosy.R
+
+\tx uŋŋoːtten              nan    tawgịdawan.
+\mb uŋ -WEːČ -R(E)   -n(I) ńaːn tawgịda     -W   -E-n(I)
+\ge do  -gnr    -nonfut -3sg  again  opposite.side -acc -ep-poss.3sg
+
+\ft When (the dough) has risen it stands right on top of the stove, when you see the sides are already dark, you turn it over
+[all this was accompanied by gestures showing the process of making bread in a yurt].
+\ru Когда поднимется прямо на печке стоит, увидишь, края уже румянные, и обратную сторону.
+
+\id Axmetova_VI_tabun18
+\ref 20:20
+\tx Umekit  dalla biweːtten               i     nọːd biweːtten               kiliebe.
+\mb umekič dalra bi -WEːČ -R(E)   -n(I) i     nọːd bi -WEːČ -R(E)   -n(I) kilieb
+\ge very    tasty be -gnr    -nonfut -3sg  and.R pretty  be -gnr    -nonfut -3sg  bread.R
+
+\ft My bread is very tasty and pretty.
+\ph
+\gr dalra is clearly related to/derived from dal 'be tasty', but we don't yet know (March 2010) what the suffix -ra would be
+\ru Вкусно бывает и красиво, хлеб.
+\ph
+
+\id Axmetova_VI_tabun19
+\ref 20:25
+\tx Risunokilken,      kak.budto... potomučto erenke                    bityj    biweːtten
+\mb risunok   -E-lkEn  kak.budto    potomučto her    -E-n(I)      =kE   bityj    bi -WEːČ -R(E)   -n(I)
+\ge pattern.R -ep-prop as.if.R      because.R  bottom -ep-poss.3sg =emph beaten.R be -gnr    -nonfut -3sg
+
+\tx ọːnda    talị        ịkụtịč    bitye,   nọːd umekit  kilieb.
+\mb ọːn =DE  tarak -(dU)LI ịkụt -E-Č   bityj    nọːd umekič kilieb
+\ge how    =ptl dist  -prol   straight -ep-ins beaten.R pretty  very    bread.R
+
+\ft With a pattern, as if.... because the bottom (of the pot) is usually beaten (with bumps), so the bread also has bumps, very
+pretty bread.
+\ru С рисунком хлеб получается, потому что дно битый бывает, как-же там прямо битый, и хлеб очень красивый.
+\ph
+\gr ọːnda talị = tam (vnutri)
+
+\id Axmetova_VI_tabun21
+\ref 20:34
+\tx Tabịč      dʒụganịdụ, dʒụganịdụsị    ereger ịlam      ineŋu     bisnoːttu
+\mb tabačịsị dʒụganị -DU  dʒụganị -DU  =sI   ereger ịlan -W   ineŋ -W   bi -s(E)n -WEːČ     -(R)U
+\ge then          summer       -dat summer       -dat =emph always three  -acc day   -acc be -lim   -gnr.nonfut -1pl.ex
+
+\tx dʒoːrbe    ili  ịlam      ineŋu     nanda       časkị         nuddʒoːttu.
+\mb dʒoːr -W   ili  ịlan -W   ineŋ -W   ńaːn =DE  čaːg -skI      nud     -WEːČ     -(R)U
+\ge two     -acc or.R three  -acc day   -acc again  =ptl far    -advb.all migrate -gnr.nonfut -1pl.ex
+
+\ft Then in summer we always stay (in one place) for a bit, two or three days and then we migrate further.
+\ru Потом летом всегда два дня побудем, два три дня, опять дальше кочуем.
+\ph
+\gr
+
+\id Axmetova_VI_tabun22
+\ref 20:50
+\tx Tiːkesi      ọrọl              travaw       debniken       ereger gịrkar         i     ńoːče
+\mb tiek -E=sI    ọrọn          -L  trava   -W   dʒeb -nIkEn   ereger gịrka     -r   i     ńoːče
+\ge now  -ep=emph domestic.reindeer -pl grass.R -acc eat   -sim.cvb always walk.nonfut -3pl and.R flower
+
+\tx desčisnen.
+\mb desči -s(E)n -R(E)   -n(I)
+\ge lie    -lim   -nonfut -3sg
+
+\ft Because the reindeer walk while they eat and flatten the grass.
+\ru Потому что олени шипля траву постоянно идут, и трава ложится. 
+\ph dibniken
+\gr (translation file quest_narrat2007_230609_1 49:00): checked tiːke with Rimma Maksimovna, who said it only means 'sejčas'
+
+\id Axmetova_VI_tabun23
+\ref 21:02
+\tx I     gọrụ esten                 ịlatčọːtta.
+\mb i     gọrụ e   -R(E)   -tEn      ịl     -E-Č   -WEːČ -R
+\ge and.R long     neg -nonfut -poss.3pl stand.up -ep-res -gnr    -neg.cvb
+
+\ft And that is why the herd doesn't stand (stay in one place) for a long time.
+\ru И поэтому долго не стоят (табун).
+\ph
+\gr
+
+\id Axmetova_VI_tabun24
+\ref
+\tx Trava b'etsja.
+\ft [in Russian:] The grass gets beaten down.
+
+\id Axmetova_VI_tabun25
+\ref 21:12
+\tx My... bu     ečin      nekkoːttu.
+\mb my    buː   erroːčin nek -WEːČ     -(R)U
+\ge 1pl.R 1pl.ex prox.qual  do  -gnr.nonfut -1pl.ex
+
+\ft We do like this.
+\ru Мы так делаем.
+\ph ičin
+
+\id Axmetova_VI_tabun26
+\ref 21:14
+\tx Časov...   večerom         značit   ọjịl       bejdu    neːkettu                 čeledʒur,
+\mb časov      večerom         značit   ọj    -E-L   bej -DU  neː -kEČ        -(R)U   čele -dʒUr
+\ge clock.gen.R in.the.evening.R that.is.R clothes -ep-pl man -dat put  -mult.nonfut -1pl.ex all   -ins.prefl.pl
+
+\tx etikeːmude,            biːde    i     pastuxi  biddil,                ụmịwra           ejdu,
+\mb etikeːn -W        =DE  biː =DE  i     pastux   bi -D    -RI       -L  ụmịw -R(E)       ejdu
+\ge old.man  -poss.1sg =ptl 1sg  =ptl and.R herder.R be -prog -impf.ptc -pl gather   -nonfut.3pl all
+
+\tx palatkada    dọːdụn,          dọːwan                  ejdu vjučnyj sumkala
+\mb palatka =DE  dọː -DU  -n(I)     dọː   -W   -E-n(I)      ejdu vjučnyj sumka -(dU)LE
+\ge tent.R  =ptl inside -dat -poss.3sg contents -acc -ep-poss.3sg all  pack.R   bag.R -loc
+
+\tx ịnnọːttụ.
+\mb hịn      -WEːČ -(R)U
+\ge shove.into -gnr    -1pl.ex
+
+\ft In the evening we pack all our things, my husband, the herders and I, they pack everything inside the tent, pack
+everything into saddle bags.
+\ru Вечером все вещи складываем и пастухи и муж, и я, что внутри палатке все складывают, в вючные сумки складываем.
+
+\id Axmetova_VI_tabun27
+\ref 21:35
+\tx I     ụlaːwaːttụ         jurtačemun               pustoj  ịlattan.
+\mb i     hụlaː -WEːČ -(R)U   jurta  -čEn -WUn         pustoj  ịl     -E-Č   -R(E) -n(I)
+\ge and.R leave    -gnr    -1pl.ex yurt.R -dim  -poss.1pl.ex empty.R stand.up -ep-res -nonfut -3sg
+
+\ft We leave only the empty yurt.
+\ru Оставляем, только юрта пустая стоит.
+\ph
+
+\id Axmetova_VI_tabun28
+\ref 21:39
+\tx Tala          ejdu neːče,     netu  ničego.
+\mb tarak -(dU)LE ejdu neː -čE    netu  ničego
+\ge dist  -loc    all  put  -pf.ptc not.R nothing.R
+
+\ft There, everything is packed, there's nothing.
+\ru Там все сложено, нету ничего.
+\ph
+
+\id Axmetova_VI_tabun29
+\ref 21:42
+\tx Čeledʒisi              neːketče         vjučnyj sumkala.
+\mb čele -DʒI        =sI   neː -kEČ -čE    vjučnyj sumka -(dU)LE
+\ge all   -ins.prfl.sg =emph put  -mult -pf.ptc pack.R   bag.R -loc
+
+\ft Everything is packed in the saddle bags.
+\ru Все же сложено в вючн сумки.
+\ph
+\gr The Even word for 'saddle bag' is muŋgere.
+
+\id Axmetova_VI_tabun30
+\ref 21:48
+\tx Tol'ko ụlaːwaːttụ         čaškalbị.
+\mb tol'ko hụlaː -WEːČ -(R)U   čaška -L  -J
+\ge only.R leave    -gnr    -1pl.ex cup.R   -pl -prfl.sg
+
+\ft We leave only our cups.
+\ru Только чашки оставляем.
+\ph
+\gr
+\nt And other dishes, what is needed for breakfast.
+
+\id Axmetova_VI_tabun31
+\ref 21:50
+\tx Iːsečin bi   oleːweːttem              ullewoːt... kotelu,    kiliebeŋude                        ọːja.
+\mb iːsečin biː oleː -WEːČ -R(E)   -m   ulle -WEːČ kotel -W   xleb    -E-ŋ   -W   -W        =DE  họːja
+\ge evening   1sg  cook  -gnr    -nonfut -1sg meat -gnr    pot.R -acc bread.R -ep-aln -acc -poss.1sg =ptl many
+
+\ft In the evening I cook meat in a pot, make a lot of bread.
+\ru Вечером я отвариваю в котле мясо, хлеба много.
+\ph
+
+\id Axmetova_VI_tabun32
+\ref 21:58
+\tx Tarawụsị       ullewu              oleːčew          ịkụt tačịn       oleːčew          neːdem
+\mb tarak -awụ =sI   ulre -W   -W        oleː -čE    -W   ịkụt tarọːčịn oleː -čE    -W   neː -R(E)   -m
+\ge dist  -emph  =emph meat -acc -poss.1sg cook  -pf.ptc -acc straight dist.qual      cook  -pf.ptc -acc put  -nonfut -1sg
+
+\tx elekle,      nan    neːdu               taraw      badʒịkar iluddutken,
+\mb elek -(dU)LE ńaːn neː -R(E)   -(R)U   tarak -W   badʒịkar hilu  -D    -(R)U   =t(E)kEn
+\ge bag  -loc    again  put  -nonfut -1pl.ex dist  -acc morning     drink -prog -1pl.ex =restr
+
+\tx iluru                debisnu                      taraw      čelewen                vjučnyj sumkala
+\mb hilu         -(R)U   dʒeb -E-s(E)n       -(R)U   tarak -W   čele -W   -E-n(I)      vjučnyj sumka -(dU)LE
+\ge drink.nonfut -1pl.ex eat   -ep-lim.nonfut -1pl.ex dist  -acc all   -acc -ep-poss.3sg pack.R   bag.R -loc
+
+\tx pustoj  tut    ele          biddʒoːtten.
+\mb pustoj  tut    erek -(dU)LE bi -D    -WEːČ -R(E)   -n(I)
+\ge empty.R here.R prox -loc    be -prog -gnr    -nonfut -3sg
+
+\ft This cooked meat I put straight into a bag just cooked, and in the morning we just drink (tea) and eat a bit, and then (I
+put) everything into an empty bag that's right here.
+\gr 29.01.2013: iluddutken = my tol'ko čaj pjem; biː iluddem = ja čaj pju; bi iluddemteken = ja tolko čaj pju; iː iludinnitken
+=ty tolko chaj pjesh; iː iluddʒinnitken = ty budesh tolko chaj pitj; biː iluddʒimtkeken = ja budu tolko chaj pitj; 
+\ru Вот это мясо варенное , прямо так отваренное складываю в мешок, утром поели почаевали, вот тут в вючную сумку
+пустую складываешь.
+\ph
+
+\id Axmetova_VI_tabun33
+\ref 21:19
+\tx Tala          bi   kuxnjaji           neːdem           ejdu čelewen
+\mb tarak -(dU)LE biː kuxnja    -J       neː -R(E)   -m   ejdu čele -W   -E-n(I)
+\ge dist  -loc    1sg  kitchen.R -prfl.sg put  -nonfut -1sg all  all   -acc -ep-poss.3sg
+
+\tx alịːkalbị,          ịrkaːrbị,        kruškaw,    čelewen.
+\mb alịːk -E-L   -J       hịrkan -L  -J       kruška -W   čele -W   -E-n(I)
+\ge dish     -ep-pl -prfl.sg knife    -pl -prfl.sg mug.R   -acc all   -acc -ep-poss.3sg
+
+\ft There I pack my kitchen, everything, dishes, knives, cups, everything.
+\ru Туда я всю свою кухню складываю, посуду, ножи, крушки, все.
+
+\id Axmetova_VI_tabun34
+\ref 22:26
+\tx Nanta            tala          neːmelčirem,            aːnasi        palatkačarbur
+\mb ńaːn =t(E)     tarak -(dU)LE neː -mElčI -R(E)   -m   haːn -E=sI    palatka -čEn -L  -WUr
+\ge again  =utočnit dist  -loc    put  -acclr  -nonfut -1sg other -ep=emph tent.R  -dim  -pl -prfl.pl
+
+\tx atalla,              vobščem    oblegčenno  utrom.
+\mb atal     -R(E)       vobščem    oblegčenno  utrom
+\ge take.off -nonfut.3pl in.general.R simplified.R in.the.morning.R
+\ft I pack everything there quickly, and the others take down the tents, in general (we do things) simply in the morning.
+\ru Все туда быстро складываю, другие палатки снимают, в общем облегченно утром.
+
+\id Axmetova_VI_tabun35
+\ref 22:35
+\tx Tabačịsị, a     mịallọːttụ           tụnŋan [stammers] časla       badʒịkar.
+\mb tabačịsị  a.R   mịal  -WEːČ     -(R)U   tụnŋan stammers   čas -(dU)LE badʒịkar
+\ge then           but.R wake.up -gnr.nonfut -1pl.ex five      stammers   hour -loc    morning
+
+\ft And we get up at five in the morning.
+\ru А встаем в 5 часов утра.
+\ph baʥịkar
+\gr
+
+\id Axmetova_VI_tabun36
+\ref 22:43
+\tx Tabačịsị i     časov...   mụralba        ọːńattịlba               gadʒịmalčịwaːtta
+\mb tabačịsị i     časov      mụran -L  -W   oːńe -Č  -RI       -L  -W   gadʒị -mElčI -WEːČ -R(E)
+\ge then          and.R clock.gen.R horse   -pl -acc tie.up -res -impf.ptc -pl -acc fetch    -acclr  -gnr    -nonfut
+
+\tx i     namamalčar                  nan    badụsnọːttụjụ,                 časkị.
+\mb i     nam    -E-mElčI        -r   ńaːn badụ -s(E)n -WEːČ     -(R)U   =jụ čaːg -skI
+\ge and.R saddle -ep-acclr.nonfut -3pl again  ride   -lim   -gnr.nonfut -1pl.ex =emph far    -advb.all
+
+\ft Then ... they go fetch the horses that are tied up, saddle them quickly, and we ride on further.
+\ru Потом идут за привязанными лошадьми, заседляют и уезжаем дальше.
+\ph badụɕnọttọːjụ; I think that ọːńe 'tie up' probably is a soft-vowel word here, too, although they pronounce it SO much like
+ọːńa...
+\gr mụralba = mụrarba; (translation file quest_narrat2007_230609_2, 4:10) ọːńarịlba = ljudi kotorye privjazyvajut, ọːńattịlba
+= privjazannyx konej; gadʒịmalčịwaːtta bystren'ko zabirali (šli vzjat');
+
+\id Axmetova_VI_tabun37
+\ref 23:01
+\tx Nan    tar   uže      svjaz'       biweːtten               s      centrom      polodinadcatogo.
+\mb ńaːn tarak uže      svjaz'       bi -WEːČ -R(E)   -n(I) s      centrom      polodinadcatogo
+\ge again  dist  already.R connection.R be -gnr    -nonfut -3sg  with.R centre.ins.R half.past.ten.R
+\ft [mostly in Russian] And then there's the (radio) connection with the centre at half past ten.
+\ru Связь бывает с центром (Анавгай) полодинадцатого.
+\nt The 'centre' is the collective farm, the director (načal'stvo).
+
+\id Axmetova_VI_tabun38
+\ref 23:09
+\tx Bu     tarakam       uže      uriweːttu.
+\mb buː   tarakam       uže      urin -WEːČ     -(R)U
+\ge 1pl.ex in.those.days already.R stop -gnr.nonfut -1pl.ex
+
+\ft At that time we have already stopped (at the new camp).
+\ru Мы к этому времени уже останавливаемся (на новом месте).
+\ph
+\gr
+
+\id Axmetova_VI_tabun39
+\ref 23:12
+\tx Kočevali, nulgeweːttu                ereger iŋenisčeriw,                   badʒịčịsị   bu     ịllịdʒụr,
+\mb kočevali  nulge   -WEːČ     -(R)U   ereger iŋeń -E-sčI -RI -W            badʒịč -E=sI    buː   ịl     -RIdʒI  -L
+\ge migrated.R migrate -gnr.nonfut -1pl.ex always be.cold -ep-conat -impf.ptc -acc early      -ep=emph 1pl.ex stand.up -ant.cvb -pl
+
+\tx nuddoːttu.
+\mb nud     -WEːČ     -(R)U
+\ge migrate -gnr.nonfut -1pl.ex
+
+\ft We always migrate when it's cool, we get up early and leave.
+\ru Кочевали по прохладе, рано встали и поехали.
+\ph badịčịsị
+\gr (translation file quest_narrat2007_230609_2, 5:50) iŋenisčeriw = kogda ešče xolodnovato bylo; kogda xolodnovato budet
+= iŋenisčireken; bylo xolodno = iŋen bisin --> this doesn't really help with analyzing the verb... iŋenneken = kogda
+byvaet xolodno
+\gr (trans.file Tylkanova_quest_270609, 1:09:00) Včera bylo xolodno = tiːniw bisin iŋeń/iŋennin;; Včera bylo xolodnovato =
+tiːniw iŋenisčirin;; kogda bylo xolodno = iŋeń biseken / iŋenneken;; kogda bylo xolodnovato = iŋenisčiri biseken //
+iŋenisčireken
+
+\id Axmetova_VI_tabun40
+\ref 23:25
+\tx Potomučto ineŋ ọːwaːt gịakị kụlịčanda,   a     bu     (is) taraw      uŋmi
+\mb potomučto ineŋ ọːwaːt gịakị kụlịčan =DE  a.R   buː   is   tarak -W   uŋ -mI
+\ge because.R  day   horsefly.R various   mosquito     =ptl but.R 1pl.ex hide dist  -acc do  -cond.cvb
+
+\tx edewur                 uksi             ukčidu     badụr         badịtmakan      mịallọːttụ.
+\mb e   -DE       -WUr     hok    -RI       hokči -DU  badụ -R       badʒịč -mEkEn mịal  -WEːČ     -(R)U
+\ge neg -purp.cvb -prfl.pl be.hot -impf.ptc hot    -dat ride   -neg.cvb early      -ints  wake.up -gnr.nonfut -1pl.ex
+
+\ft Because when it becomes day there are horseflies and mosquitoes, and we get up very early so as not to ride in the heat.
+\ru Потому что днем и оводы и комары поэтому, чтобы по жаре не ехать, рано встаем.
+\ph
+\gr (March 2010) It is not yet clear whether the ending -či in hokči (ukči) is just an allomorph of the imperfect participle hoksi
+or whether it is something separate; in Sebjan, IVK said that hokči refers specifically to outside temperature, i.e. weather
+phenomena, so I am leaving that as a separate morpheme as now
+\gr is = just an ogovorka
+\nt horses and reindeer hate horseflies (ovody) the most
+\gr
+
+\id Axmetova_VI_tabun41
+\ref 23:40
+\tx Tabịč, ja    bi   tarakam       uŋu           temujodmi                 kọkčịrbe        suxoži...
+\mb tabịč  ja    biː tarakam       uŋ       -W   temujo    -D    -mI       kọkčịn -L  -W   suxoži...
+\ge again     1sg.R 1sg  in.those.days something -acc slaughter -prog -cond.cvb hoof        -pl -acc tendons.R
+
+\tx umnunten               tixarja    etikeːnduki              elekle       neːweːttem              i
+\mb um     -ńUn -tEn      tixarja    etikeːn -DUk(U) -J       elek -(dU)LE neː -WEːČ -R(E)   -m   i
+\ge tendon -com  -poss.3pl secretly.R old.man  -abl    -prfl.sg bag  -loc    put  -gnr    -nonfut -1sg and.R
+
+\tx vjučnyj sumkala       neːweːttem.
+\mb vjučnyj sumka -(dU)LE neː -WEːČ -R(E)   -m
+\ge pack.R   bag.R -loc    put  -gnr    -nonfut -1sg
+
+\ft Then in those days I secretly packed the hooves and tendons in the saddle bags when they slaughtered (reindeer).
+\ru Потом когда забивали на мясо оленя, я собирала копыта с сухожилиями, и не говоря мужу, вложила в вючную сумку.
+\ph
+\gr
+\nt The episode she narrates here happened only once, while they were migrating on horseback - reindeer hooves are very
+heavy, and the horses have a heavy enough load anyway, so she couldn't always take hooves along with her. It's different
+when they use snowmobiles to migrate, then you can take more things (and the snowmobiles can do the trip several
+times), and then she openly takes along 'spare' hooves for meat jelly. 
+\ph
+
+\id Axmetova_VI_tabun42
+\ref 24:04
+\tx Kogda  namadʒịllọːttụ                       etikeːmu          goːweːtten                "ịamịbedʒi
+\mb kogda  nam    -E-D     -E-L     -WEːČ     -(R)U   etikeːn -W        goːn -WEːČ -R(E)   -n(I) ịamị =bEdʒI
+\ge when.R saddle -ep-prog -ep-inch -gnr.nonfut -1pl.ex old.man  -poss.1sg say   -gnr    -nonfut -3sg  why      =emph
+
+\tx erek urgen           ečinbedʒi?"
+\mb erek urge  -n(I)     erroːčin =bEdʒI
+\ge prox heavy -poss.3sg prox.qual  =emph
+
+\ft When we started to saddle up my husband said "Why is this so heavy??"
+\ru Когда начинают вьючить муж говорит "Почему такие тяжелые?"
+\ph ičinbəʥi
+\nt We translated this on the very last afternoon, so I did not have the opportunity to check things again; thus, I am not sure
+about "urgen" - is that really the Possessive 3SG at the end?
+
+\id Axmetova_VI_tabun43
+\ref 24:10
+\tx Goːweːttem               "Nan   čeledʒi          iːnke        tawụr patroŋalsị
+\mb goːn -WEːČ -R(E)   -m   ńaːn čele -DʒI        iːn    =kE   tawụr patron   -ŋ  -E-L   -s(I)
+\ge say   -gnr    -nonfut -1sg again  all   -ins.prfl.sg 2sg.obl =emph this    bullet.R -aln -ep-pl -poss.2sg
+
+\tx talawụr              bise,      tarak urge  biweːtten."
+\mb tarak -(dU)LE -WUr     bi -R(E)   tarak urge  bi -WEːČ -R(E)   -n(I)
+\ge dist  -loc    -prfl.pl be -nonfut dist  heavy be -gnr    -nonfut -3sg
+\ft I say "Well, that's where all your bullets are, that's why it's so heavy".
+\ru Я говорю "Там же все твои патроны, поэтому тяжелые". (это же всегда тяжелое бывает)
+\ph patrọŋalsị   bis
+
+\id Axmetova_VI_tabun44
+\ref 24:17
+\tx Tabịč      urinnidʒur       temujoddʒoːttu,                   u    menja     minŋi             uže
+\mb tabačịsị urin -RIdʒI  -L  temujo    -D    -WEːČ     -(R)U   u    menja     min     -ŋI       uže
+\ge then          stop -ant.cvb -pl slaughter -prog -gnr.nonfut -1pl.ex at.R 1sg.acc.R 1sg.obl -pred.poss already.R
+
+\tx kopytaŋalbu                   ọːja  ọːwaːtta.
+\mb kopyta   -ŋ  -E-L   -W        họːja ọː  -WEːČ -R(E)
+\ge hooves.R -aln -ep-pl -poss.1sg many     become -gnr    -nonfut.3pl
+
+\ft And then when we slaughter again after stopping, I already have a lot of hooves.
+\ru Потом когда останавливаемся забиваем оленя, а у меня уже корыт много.
+\ph
+\nt They only slaughter a reindeer when they have arrived at a new camping place (not every time,though), so that they
+don't have to carry so much on the pack horses when they move. Since Valentina Innokent'evna took along the hooves
+from the previous slaughter, she now had enough hooves (plus the head and a few leg muscles) to make meat jelly; the
+hooves of just one reindeer are not enough.
+
+\id Axmetova_VI_tabun45
+\ref 24:29
+\tx Nan    biː oleːweːttem              xolodecaŋgajị.
+\mb ńaːn biː oleː -WEːČ -R(E)   -m   xolodec      -E-ŋ   -GE    -J
+\ge again  1sg  cook  -gnr    -nonfut -1sg meat.jelly.R -ep-aln -desig -prfl.sg
+\ft And I cook meat jelly.
+\ru И я готовлю холодец.
+\ph
+\gr
+\nt In Even meat jelly is called "bomba" (her explanation: because it shakes, but I cannot find a similar verb in the
+dictionaries, except perhaps bobaldat 'vzdragivat' porxat'.
+
+\id Axmetova_VI_tabun46
+\ref 24:33
+\tx Taralba        kopytalba         dostalloːttem,             nan    tar   oleːweːttem              i
+\mb tarak -L  -W   kopyta   -L  -W   dostal -WEːČ -R(E)   -m   ńaːn tarak oleː -WEːČ -R(E)   -m   i
+\ge dist  -pl -acc hooves.R -pl -acc get.R  -gnr    -nonfut -1sg again  dist  cook  -gnr    -nonfut -1sg and.R
+
+\tx tịmịn  badʒịkar xolodecit            zavtrakajddʒọːtta.
+\mb tịmịna badʒịkar xolodec      -E-Č   zavtrakaj      -D    -WEːČ -R(E)
+\ge tomorrow   morning     meat.jelly.R -ep-ins have.breakfast -prog -gnr    -nonfut.3pl
+
+\ft I get out those hooves and I cook them and the next morning they have meat jelly for breakfast.
+\ru Эти копыта достаю и варю, и завтра утром завтракаем холодец.
+\ph bad'ịkar
+\gr She translated this as the 1PL, but she clearly says zavtrakajddʒọːtta, i.e. 3PL.
+
+\id Axmetova_VI_tabun47
+\ref 24:44
+\tx Pastuxal        ọkaŋčịwaːtta,             etikeːmu          goːweːtten                "Awgịč   er   diːnni
+\mb pastux   -E-L   ọkaŋčị -WEːČ -R(E)       etikeːn -W        goːn -WEːČ -R(E)   -n(I) aw    -GIČ erek diːn       -n(I)
+\ge herder.R -ep-pl be.happy     -gnr    -nonfut.3pl old.man  -poss.1sg say   -gnr    -nonfut -3sg  where -elat prox equ.measure -poss.3sg
+
+\tx kọkčịŋalsị?"
+\mb kọkčịn -ŋ  -E-L   -s(I)
+\ge hoof        -aln -ep-pl -poss.2sg
+
+\ft The herders are happy, and my old man (husband) says "Where did you get so many hooves from?"
+\ru Пастухи радуются, муж говорит "Откуда у тебя столько копыт?"
+\ph
+
+\id Axmetova_VI_tabun48
+\ref 24:51
+\tx Bi   goːweːttem               "Talakka           muŋgerele       neːkčiriwu".
+\mb biː goːn -WEːČ -R(E)   -m   tarak -(dU)LE =kkE muŋgere -(dU)LE neː -(k)čI -RI -W
+\ge 1sg  say   -gnr    -nonfut -1sg dist  -loc    =ptl bag      -loc    put  -dur    -pst -poss.1sg
+
+\ft I say "I kept (them) in that bag."
+\ru Я говорю "Я же их во вючной сумке держала".
+\ph
+\gr 29.01.13: could have said "tala muŋgerele neːkčiriwu"; talakka = tam zhe ja...; talanan = no, could not have said, that
+would be "a vot tam",kogda sprashivajut: "talanan bisni muŋgerele ịakta?, "tam estj v mungere chto-nibudj?"
+\qu
+
+\id Axmetova_VI_tabun49
+\ref 24:55
+\tx Čeledʒur          ińiniddʒoːttịː.
+\mb čele -dʒUr        ińin -E-D     -WEːČ -R(E)       =Iː
+\ge all   -ins.prefl.pl laugh -ep-prog -gnr    -nonfut.3pl =emph
+\ft They all laugh.
+\ru Все смеются.
+\ph
+
+\id Axmetova_VI_tabun50
+\ref 24:58
+\tx Etikeːmu          goːweːtten                "Teːmi   ičiken   urgeweːttene"
+\mb etikeːn -W        goːn -WEːČ -R(E)   -n(I) teːmi    ičiken   urge  -WEːČ -R(E)   -n(I) =eː
+\ge old.man  -poss.1sg say   -gnr    -nonfut -3sg  therefore this.much heavy -gnr    -nonfut -3sg  =emph
+
+\ft My husband says "So that is why (the bag) was so heavy!".
+\ru Муж говорит "Вот почему так тяжело бывает".
+\ph
+\gr (translation file quest_narrat2007_230609_2, 13:45) urgeweːttene = tjaželym byvaet; urgeweːttem = ja byvaju tjaželaja;
+nọŋartan urgeriten = oni byli tjaželye
+
+\id Axmetova_VI_tabun51
+\ref 25:03
+\tx Potom... i     vot    xolodecude             dʒeboːtte,              gịakịč    biː staralas'
+\mb potom    i     vot    xolodec      -W   =DE  dʒeb -WEːČ -R(E)       gịakị -Č  biː staralas'
+\ge then.R   and.R here.R meat.jelly.R -acc =ptl eat   -gnr    -nonfut.3pl various   -ins 1sg  tried.R
+
+\tx oleːtteji                    dallač.
+\mb oleː -Č  -DE       -J       dalra -Č
+\ge cook  -res -purp.cvb -prfl.sg tasty -ins
+
+\ft Well, and so they ate the meat jelly; I tried to cook tasty things.
+\ru Вот и холодец кушают, я старалась вкусно готовить.
+\ph d'eboːtte
+\nt There are 2 cooks (čumrabotnitsy) in a tabun-zveno, and they work every second day; on her day off, Valentina
+Innokent'evna (at least in winter) takes the time to prepare leather (skoblit'), and to cut out the leather and to sew clothes.
+
+\id Axmetova_VI_tabun52
+\ref
+\tx Vot tak vot.
+\ft [in Russian:] Like that.
+
+\id Axmetova_VI_tabun53
+\ref 25:19
+\tx Pirožki,  pirožkiwde          nekkoːttem,             uk  biweːtten               nọ  čto-že.
+\mb pirožki   pirožki   -W   =DE  nek -WEːČ -R(E)   -m   uk  bi -WEːČ -R(E)   -n(I) no.R  čto   - že
+\ge pirozhki.R pirozhki.R -acc =ptl do  -gnr    -nonfut -1sg hot be -gnr    -nonfut -3sg  but.R what.R - ptl.R
+
+\ft I make pirozhki - it's hot, but oh well.
+\ru Пирожки делаю, жарко бывает, но что же.
+\ph
+\nt It's hot in the yurt with the fire going.
+
+\id Axmetova_VI_tabun54
+\ref 25:27
+\tx Ajaːwwọːttam            bi   uliːtteji              dallač.
+\mb ajaːw -WEːČ -R(E)   -m   biː uliː -Č  -DE -J       dalra -Č
+\ge love   -gnr    -nonfut -1sg 1sg  feed  -res -vr -prfl.sg tasty -ins
+
+\ft I love to feed (the herders) well, tastily.
+\ru Я любила вкусно кормить.
+\ph
+\gr
+
+\id Axmetova_VI_tabun55
+\ref 25:34
+\tx Bi   testoŋgajị                nekkoːttem,             paket celofanovyjla        testoŋị
+\mb biː testo   -ŋ  -GE    -J       nek -WEːČ -R(E)   -m   paket celofanovyj  -(dU)LE testo   -ŋ  -J
+\ge 1sg  dough.R -aln -desig -prfl.sg do  -gnr    -nonfut -1sg bag.R plastic.R -loc    dough.R -aln -prfl.sg
+
+\tx neːddem,               nan    alkamčala        nọkkọːttam.
+\mb neː -D    -R(E)   -m   ńaːn alkamča  -(dU)LE nọk   -WEːČ -R(E)   -m
+\ge put  -prog -nonfut -1sg again  yurt.pole -loc    hang.up -gnr    -nonfut -1sg
+
+\ft I make dough, put the dough in a plastic bag, and hang it from the yurt pole
+\ru Я тесто делаю, в пакет ложу, и подвешиваю на крючок (у остова).
+\ph nɐkkoːttəm  nọqqọːttəm
+\gr
+
+\id Axmetova_VI_tabun56
+\ref 25:48
+\tx Vot,   uže      er   dinni                 ọːwaːttan,               ja    bystren'ko uronju, opjat'
+\mb vot    uže      erek diːn       -n(I)     ọː  -WEːČ -R(E)   -n(I) ja    bystren'ko uronju  opjat'
+\ge here.R already.R prox equ.measure -poss.3sg become -gnr    -nonfut -3sg  1sg.R quickly.R  drop.R  again.R
+
+\tx nọkačịddʒọːttam.
+\mb nọk   -E-Č   -E-D     -WEːČ -R(E)   -m
+\ge hang.up -ep-res -ep-prog -gnr    -nonfut -1sg
+
+\ft When it becomes like this [shows with her hands how the plastic bag has filled out with the rising dough] I quickly knead
+it down and again hang it up.
+\ru Вот уже такое делается я быстренько уроню, опять вешу.
+\gr nọkačịddʒọːttam = ja vešaju i dolgo visit; nọkaddʒọːttam = razvešivaju
+
+\id Axmetova_VI_tabun57
+\ref 25:54
+\tx Tak  ịllakanda           uŋŋoːttem             uronilloːttem,                a     potom
+\mb tak  ịlan -REkEn    =DE  uŋ -WEːČ -R(E)   -m   uronil    -WEːČ -R(E)   -m   a.R   potom
+\ge so.R three  -iter.adv =ptl do  -gnr    -nonfut -1sg dropped.R -gnr    -nonfut -1sg but.R then.R
+
+\tx dostallam           i...
+\mb dostal -R(E)   -m   i
+\ge get.R  -nonfut -1sg and.R
+
+\ft I do like that three times, drop it (make the dough go down), and then I get it and [shows with hands how she forms
+pirozhki].
+\ru Так раза три делаю. уроняю а потом достаю и
+\ph
+
+\id Axmetova_VI_tabun58
+\ref 26:02
+\tx Opjat'  ọkaŋčịwaːtta              bejil.
+\mb opjat'  ọkaŋčị -WEːČ -R(E)       bej -E-L
+\ge again.R be.happy  -gnr    -nonfut.3pl man -ep-pl
+\ft And again the men are happy.
+\ru Опять мужики радуются.
+\ph
+\gr
+
+\id Axmetova_VI_tabun59
+\ref
+\tx Nu vse.
+\ft And that's all.

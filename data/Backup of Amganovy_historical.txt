@@ -1,0 +1,360 @@
+\_sh v3.0  984  Text
+
+\id Amganovy_historical00_metadata
+\ref Recorded on 10 June 2007 in Esso by Brigitte Pakendorf in the house of the speakers. Only the speakers and BP were
+present.
+\qu Transcribed (pen and paper) by Aleksej Evstropovich Ichanga, transcription checked and Russian translation by Valentina
+Innokent'evna Axmetova, glossing by BP. Funding by the Max Planck Society (MPRG on Comparative Population Linguistics).
+Speaker abbreviations = EIA, EPA
+\ref Efim Innokent'evich Amganov was born in 1952, i.e. he was 54-55 at the time of the recording. He had a college-level
+education and worked as a driver before going on pension. He passed away in 2012.
+\ref Elena Petrovna Amganova was born in 1952, i.e. she was 54-55 at the time of the recording. She had 8 years of schooling
+and had worked as a milker and then a cleaner. 
+\tx
+
+\id Amganovy_historical01
+\ref 4:15
+\tx A ran'še kak bylo, esli vot oleni, s olenjami kočevali, no i nazimu nado rybu gotovit'.
+\ft BP [in Russian:] And how was it in the past, when they migrated with the reindeer, but also had to prepare fish for the
+winter.
+
+\id Amganovy_historical02
+\ref 4:21
+\tx A vot v obščem tak ono proisxodilo - po-russki govorit', da?
+\mb
+\ft EIA [in Russian:] Well, in general it happened like this - in Russian, OK?
+
+\id Amganovy_historical03
+\ref
+\tx Po-evenski.
+\ft BP [in Russian:] In Even.
+
+\id Amganovy_historical04
+\ref 4:26
+\tx Ah [laughter] Ọrọčịl,   ọrọčịl    tawụr        nulgedniker,               aːn
+\mb ah laughter   ọrọč -E-L   ọrọč -E-L   tarak -WUr     nulge   -D    -nIkEn   -L  haːn
+\ge ah laughter   Oroch     -ep-pl Oroch     -ep-pl dist  -prfl.pl migrate -prog -sim.cvb -pl some
+
+\tx kụŋaŋalkar            ụlaːbbọːtta             ọkaːt ulilen,                teliddewur.
+\mb kụŋa -ŋ  -E-lkEn  -L  hụlaː -B   -WEːČ -R(E)   ọkaːt holi -(dU)LE -n(I)     teli           -D    -DE -WUr
+\ge child   -aln -ep-prop -pl leave    -med -gnr    -nonfut river    edge -loc    -poss.3sg stockpile.fish -prog -vr -prfl.pl
+
+\ft EIA: While the Evens were migrating, some, those with children, stayed by the river to fish.
+\ru Эти кочующие эвены, некоторые с детьми остаются на берегу реки рыбачить.
+\ph tiliddewər
+\gr tawụr = eti
+\ru
+
+\id Amganovy_historical05
+\ref 4:38
+\tx Ọllaŋgawụr             tarak kimeddʒoːtte                       tugeseddewur.
+\mb ọlra -ŋ  -GE    -WUr     tarak kim     -E-D     -WEːČ -R(E)       tuges            -E-D     -DE       -WUr
+\ge fish   -aln -desig -prfl.pl dist  prepare -ep-prog -gnr    -nonfut.3pl spend.the.winter -ep-prog -purp.cvb -prfl.pl
+\ft EIA: They prepare fish for the winter.
+\ru Они готовят рыбу на зиму (чтобы зимовать).
+\ph kimedʥoːt
+\gr
+\nt
+
+\id Amganovy_historical06
+\ref 4:43
+\tx Ńan   tačịnda          aːngal      časkị         nulgeweːtte.
+\mb ńaːn tarọːčịn =DE  haːn =gEl   čaːg -skI      nulge   -WEːČ -R(E)
+\ge again  dist.qual      =ptl some  =coord far    -advb.all migrate -gnr    -nonfut.3pl
+
+\ft EIA: And others continue to migrate.
+\ru А другие дальше кочуют.
+
+\id Amganovy_historical07
+\ref
+\tx I vse.
+\ft EIA [In Russian:] And that's all.
+
+\id Amganovy_historical08
+\ref
+\tx A ran'še korjaki, eveny, nu ran'še do Sovetskogo perioda, oni voobšče vstrečalis'?
+\ft BP [in Russian]: Before the Soviet period, did Koryaks and Evens actually even meet?
+
+\id Amganovy_historical09
+\ref 5:10
+\tx Iŋe, eregerke     itmeːččoːtte,             gajmatnikar
+\mb iŋe  ereger =kE   it  -mEČ -WEːČ -R(E)       gaj      -mEČ -nIkEn   -L
+\ge yes   always =emph see -rec  -gnr    -nonfut.3pl exchange -rec  -sim.cvb -pl
+
+\tx ọrbụrda,                    bisitenke.
+\mb ọrọn          -WUr     =DE  bi -RI  -tEn      =kE
+\ge domestic.reindeer -prfl.pl =ptl be -pst -poss.3pl =emph
+
+\ft EIA: Yes, they always met, they exchanged reindeer, they lived.
+\ru Да всегда виделись, менялись оленями, жили.
+\ph
+\nt It's not quite clear what he wanted to say with the 'bisitenke', but he probably wanted to say they lived together or close
+by. ++ Probably it's 'menjajas' olenjami zhili', i.e. that bisitenke is the finite verb for the converb
+
+\id Amganovy_historical10
+\ref 5:18
+\tx Ọrọčịl    aːnda     gurgeːwčiriten           čajčabal
+\mb ọrọč -E-L   haːn =DE  gurgeːwči -RI  -tEn      čajčaba               -L
+\ge Oroch     -ep-pl some  =ptl work        -pst -poss.3pl reindeer.herding.Koryak -pl
+
+\tx ọrdụlatan                       biweːtte.
+\mb ọrọn          -(dU)LE -tEn      bi -WEːČ -R(E)
+\ge domestic.reindeer -loc    -poss.3pl be -gnr    -nonfut.3pl
+\ft EIA: Some Evens worked in the Koryak reindeer herds, lived (there).
+\ru Некоторые эвены работали у коряков в табуне, там и жили.
+\ph [tajčịbal]
+\gr
+
+\id Amganovy_historical11
+\ref 5:24
+\tx Amụlanka ọːdịtan          tarakam,      amụllịn.
+\mb amụlanka ọː  -RI  -tEn      tarakam       amụ        -L    -RI  -n(I)
+\ge mixed.up   become -pst -poss.3pl in.those.days get.mixed.up -inch -pst -poss.3sg
+
+\ft Well, they started to get mixed up in those days, they mixed.
+\ru Ну смешиваться начали, (lit вперемежку стали) в те времена, ну  смешались.
+\ph
+\gr mut amụdʒịllịp = my načinaem smešivat'sja, mut amụrịp = my smešalis'; mut amụdʒịp = my smešaemsja; *amụlanča =
+ungrammatical; amụrịtan = smešalis', amnịtan = smešali, amdʒịm = ja budu smešat'
+
+\id Amganovy_historical12
+\ref 5:27
+\tx Asatkaŋịltan               nọŋŋịtan                   (ili že)  etikeːŋniten.
+\mb asatkan -ŋ  -E-L   -tEn      nọŋartan -ŋI       -tEn      ili  že   etikeːŋ -RI  -tEn
+\ge girl    -aln -ep-pl -poss.3pl 3pl         -pred.poss -poss.3pl or.R ptl.R marry     -pst -poss.3pl
+
+\ft Their girls married.
+\ru Их девушки выходили замуж.
+\ph He apparently says the Russian word 'ili' there, which doesn't really make sense; and he also says [asatkaŋịRtan], but that's
+just an error
+
+\id Amganovy_historical13
+\ref 5:33
+\tx Omem      ọrọč asịw     gamịda,           mịamda         boːweːtte
+\mb omen -W   ọrọč asị -W   ga   -mI       =DE  mịan -W   =DE  boː -WEːČ -R(E)
+\ge one  -acc Oroch     woman -acc take -cond.cvb =ptl ten    -acc =ptl give -gnr    -nonfut.3pl
+
+\tx ọrgatan                          ọrọčịldụ.
+\mb ọrọn          -GE    -tEn      ọrọč -E-L   -DU
+\ge domestic.reindeer -desig -poss.3pl Oroch     -ep-pl -dat
+\ft EIA: Taking one Even women (for a wife) they would give the Evens 10 reindeer.
+\ru Одну эвенскую женщину возмут,  10 оленей дают эвенам.
+\ph asịw boːwɐːttɐ
+
+\id Amganovy_historical14
+\ref 5:39
+\tx Tačịn       bisiten.
+\mb tarọːčịn bi -RI  -tEn
+\ge dist.qual      be -pst -poss.3pl
+\ft EIA: That's how they lived.
+\ru Так жили.
+\ph
+\gr
+
+\id Amganovy_historical15
+\ref 5:40
+\tx Ńan   tarị.
+\mb ńaːn tar
+\ge again  thus
+\ft EIA: That's all.
+\ru Вот и все.
+\ph
+\gr
+
+\id Amganovy_historical16
+\ref 5:42
+\tx Aːnda     ọrọčịl    tože  čajčabadịwaːtta,                           potomučto omettu
+\mb haːn =DE  ọrọč -E-L   tože  čajčaba               -dI -WEːČ -R(E)       potomučto omettu
+\ge some  =ptl Oroch     -ep-pl also.R reindeer.herding.Koryak -vr -gnr    -nonfut.3pl because.R  together
+
+\tx bisiten           [kụŋarapčalịː]
+\mb bi -RI  -tEn      kụŋarapčị
+\ge be -pst -poss.3pl from.childhood
+
+\ft EPA: Some Evens also spoke Koryak, because they lived together [EIA: from childhood].
+\ru Другие эвены тоже говорили по-корякски, потому что вместе жили (с детства).
+\ph
+
+\id Amganovy_historical17
+\ref 5:49
+\tx Minŋi             tar... akmụ           ekennide,             potom  nọŋanda
+\mb min     -ŋI       tarak  akan   -W        eken   -n(I)     =DE  potom  nọŋan =DE
+\ge 1sg.obl -pred.poss dist   father -poss.1sg mother -poss.3sg =ptl then.R 3sg      =ptl
+
+\tx noːŋilni,                    čeledʒur          čajčabadịwaːtta.
+\mb noː            -SEl -n(I)     čele -dʒUr        čajčaba               -dI -WEːČ -R(E)
+\ge younger.sibling -pl  -poss.3sg all   -ins.prefl.pl reindeer.herding.Koryak -vr -gnr    -nonfut.3pl
+
+\ft EPA: My father's mother, and her younger siblings, all spoke Koryak.
+\ru У моего отца мама и ее младшие тоже все говорили по-корякски.
+\ph nuːŋilni
+\gr I had originally parsed noːŋilni as noː -ŋ -E-L -n(I), i.e. alienable suffix and normal plural; I now think that it is probably
+more likely to be the special human plural suffix, since Robbek also gives no:ngil as the plural form (i.e. he notes the
+special plural); however, this suffix might of course very well go back to the alienable+plural
+\nt
+
+\id Amganovy_historical18
+\ref 5:59
+\tx Iŋe, ọrọttịnịkar        čajčabalda                     ọrọttịrịtan.
+\mb iŋe  ọrọč -DI -nIkEn   -L  čajčaba               -L  =DE  ọrọč -DI -RI  -tEn
+\ge yes   Oroch     -vr -sim.cvb -pl reindeer.herding.Koryak -pl =ptl Oroch     -vr -pst -poss.3pl
+
+\ft EIA: Yes, and Koryaks spoke Even, too.
+\ru Да и коряки говорили по-эвенски.
+\ph
+\gr
+
+\id Amganovy_historical19
+\ref 6:02
+\tx Čajčabadịwaːtta                            nọŋartan, potomučto nọŋartan omettu
+\mb čajčaba               -DI -WEːČ -R(E)       nọŋartan  potomučto nọŋartan omettu
+\ge reindeer.herding.Koryak -vr -gnr    -nonfut.3pl 3pl          because.R  3pl         together
+
+\tx isuriten            teːmide       toreweːtte.
+\mb isu  -RI  -tEn      teːmi    =DE  tore  -WEːČ -R(E)
+\ge grow -pst -poss.3pl therefore =ptl speak -gnr    -nonfut
+\ft EPA: They spoke Koryak, because they grew up together, therefore they spoke (Koryak).
+\ru Говорили по-корякски, потому что они вместе расли, поэтому говорили.
+\ph
+
+\id Amganovy_historical20
+\ref 6:08
+\tx A     to     buːtken        sčas tol'ko ọrọttịwaːttụda
+\mb a.R   to     buː   =t(E)kEn sčas tol'ko ọrọč -DI -WEːČ     -(R)U   =DE
+\ge but.R that.R 1pl.ex =restr   now.R only.R Oroch     -vr -gnr.nonfut -1pl.ex =ptl
+
+\tx ńụčịdịwaːttụ            ńan   tarị.
+\mb ńụčị -DI -WEːČ     -(R)U   ńaːn tar
+\ge Russian    -vr -gnr.nonfut -1pl.ex again  thus
+
+\ft EPA: It's only us now how speak only Even and Russian and that's all.
+\ru А то только мы говорим по-эвенски и по-русски, и все.
+\ph [ńụčịdịwɐːttə]
+\gr
+
+\id Amganovy_historical21
+\ref
+\tx A vse v Esso, vse Eveny, kotorye sejčas v Esso živut, ran'she v Tvajane žili?
+\mb
+\ft BP [in Russian]ː Did everyone in Esso, all the Evens, who now live in Esso, did they use to live in Tvajan?
+
+\id Amganovy_historical22
+\ref 6:25
+\tx A     tarak tiːtel  reorganizacija   biseken,                  ob'edinenie ukrupnenie bylo.
+\mb a.R   tarak tiːtel  reorganizacija   bi -REk      -E-n(I)
+\ge but.R dist  long.ago reorganisation.R be -cond.cvb -ep-poss.3sg *
+
+\ft EIA: When in the past the reorganization took place, [in Russian:] they united and enlarged (the settlements).
+\ru А когда раньше реорганизация наступила/началась, объединение, укрупнение было.
+\ph
+\gr in Even one would say (instead of reorganizacija): anŋamta iːni ọːdịllakan = kogda načinalas' novaja žizn'
+
+\id Amganovy_historical23
+\ref 6:39
+\tx Tarakam       ọrọčịlba       čelewen                Twajaːndụk    samoletaldʒị
+\mb tarakam       ọrọč -E-L   -W   čele -W   -E-n(I)      Twajaːn -DUk(U) samolet    -E-L   -Č
+\ge in.those.days Oroch     -ep-pl -acc all   -acc -ep-poss.3sg Twajaːn -abl    airplane.R -ep-pl -ins
+
+\tx emuriten,                 čerez    Kozyrevsk.
+\mb em   -U    -RI  -tEn      čerez    Kozyrevsk
+\ge come -caus -pst -poss.3pl through.R Kozyrevsk
+
+\ft EIA: At that time they brought all the Evens from Tvajan by plane, via Kozyrevsk.
+\ru Тогда всех эвенов привезли на самолетах из Тваяна, через Козыревск.
+\ph
+\gr in Even one would say: Kozyrevkalida ŋenniten\degsiten
+
+\id Amganovy_historical24
+\ref 6:46
+\tx Ele          Bystrojteki,    bụjla        ịsịgla           emuriten,                 ńan   tadụ     ọrọčịl
+\mb erek -(dU)LE Bystroj -t(E)kI bụj  -(dU)LE ịsịg     -(dU)LE em   -U    -RI  -tEn      ńaːn tarak -DU  ọrọč -E-L
+\ge prox -loc    Bystroe -all    forest -loc    larch.forest -loc    come -caus -pst -poss.3pl again  dist  -dat Oroch     -ep-pl
+
+\tx Twajaːmŋịl     bidditen.
+\mb Twajaːn -mŋE -L  bi -D    -RI  -tEn
+\ge Twajaːn -agnr -pl be -prog -pst -poss.3pl
+
+\ft EIA: Here to the (river) Bystraja, to dense forest they brought (them), and there the Tvajan Evens started to live.
+\ru Сюда на Быструю, в лес, листвяк привезли, и там эвены-Тваянцы стали жить.
+\ph bujlɐ isiγlɐ -- I had initially written isig with soft vowels, but in this sentence the Locative suffix on bujla and isigla sounds
+the same; since bụj is given as having a hard vowel in the dictionaries (and I cannot find isig), I have changed isig to
+having hard vowels
+\gr
+
+\id Amganovy_historical25
+\ref 6:53
+\tx Aːngịlda,    min     uŋilbu                    [eńtilbu]        eńtilbu          ịkụtịč    amaskị
+\mb haːn -SEl =DE  min     uŋ       -E-L   -W        eńtil  -W        eńtil  -W        ịkụt -E-Č   amar   -skI
+\ge other -pl  =ptl 1sg.obl something -ep-pl -poss.1sg parents -poss.1sg parents -poss.1sg straight -ep-ins behind -advb.all
+
+\tx badụsnịtan.
+\mb badụ -s(E)n -RI  -tEn
+\ge ride   -lim   -pst -poss.3pl
+\ft EIA: Others, my what [EPA: my parents], my parents went straight back.
+\ru Некоторые, мои родители, поехали обратно.
+\ph amaskị badụsnịtan
+\gr badụsnịtan = exat' na vsex vidax transporta
+
+\id Amganovy_historical26
+\ref 7:00
+\tx Ńan   orriten            tawụr Ketačan bičele.
+\mb ńaːn hor -RI  -tEn      tawụr Ketačan bi -čE    -(dU)LE
+\ge again  go  -pst -poss.3pl this    Ketachan be -pf.ptc -loc
+
+\ft EIA: And they left to the previous Ketachan.
+\ru И они уехали на бывший Кетачан.
+\ph ʊrriten bisele
+\gr
+\nt Ketačan is the name of a river, and there used to be a house or even a small settlement there; that is where these Evens
+went to, but the houses there were already empty and like ruins.
+
+\id Amganovy_historical27
+\ref 7:04
+\tx Ńan   tadụ     bisiten           geologer           edleten                aːŋanar               tala
+\mb ńaːn tarak -DU  bi -RI  -tEn      geolog      -E-L   e   -dle     -tEn      aːŋa -nE     -R       tarak -(dU)LE
+\ge again  dist  -dat be -pst -poss.3pl geologist.R -ep-pl neg -trm.cvb -poss.3pl open   -intent -neg.cvb dist  -loc
+
+\tx mestoroždenija ńan   tadụk       ńan   časkị         ńọːndʒịdʒaːnnitan             tawụr
+\mb mestoroždenija ńaːn tarak -DUk(U) ńaːn čaːg -skI      ńọːn -D    -dʒEːn -RI  -tEn      tarak -WUr
+\ge ore.deposit.R   again  dist  -abl    again  far    -advb.all run.away -prog -dur     -pst -poss.3pl dist  -prfl.pl
+
+\tx Šanụtkịdatkị,   uŋtekide,             Managịskịdatkị    ńọːnnịtan         ńan
+\mb Sanụč -gIdE -t(E)kI uŋ       -t(E)kI =DE  Managịs -gIdE -t(E)kI ńọːn -RI  -tEn      ńaːn
+\ge Sanuč   -part -all    something -all    =ptl Managis   -part -all    run.away -pst -poss.3pl again
+
+\tx maxnjọldụk...
+\mb maxnjọm -L  -DUk(U)
+\ge Russian   -pl -abl
+
+\ft And there they lived until the geologists came to discover ore deposits and from there they ran away further, to the
+Shanuch, where else, to the Managis, running away from the Russians.
+\ru И они там жили пока геологи не приехали открывать месторождения, и они оттуда убежали, на Сануч (в сторону
+Сануча), еще куда-же, на Манагис (в сторону Манагиса) убежали от русских...
+\ph
+\gr ńọːndʒịdʒaːnnitan = nuance of pity, bednen'kie ubežali; Šanụtkịdatkị = v storonu Sanuča, Šanụčtakị = na Sanuč; v
+storonu doma = dʒụːgịdatkị (translation file quest_narrat2007_230609_1, 9:05)
+
+\id Amganovy_historical28
+\ref 7:22
+\tx Bi   omnekenteken            bisiwu            tawụr Ketačanduk      ńan
+\mb biː omen -REkEn    =t(E)kEn bi -RI  -W        tawụr Ketačan -DUk(U) ńaːn
+\ge 1sg  one  -iter.adv =restr   be -pst -poss.1sg this    Ketachan -abl    again
+
+\tx ečiwusi                 olloːčimelle.
+\mb e   -RI  -W        =sI   olloːt -E-mEl  -R
+\ge neg -pst -poss.1sg =emph go      -ep-des -neg.cvb
+
+\ft EIA: I only once was at the Ketachan, but didn't want to go (anymore).
+\ru Я был только 1 раз на Кетачане, и я больше не захотел ездить.
+\ph bihiwu
+\gr He says 'Ketačanduk', i.e. the Ablative case, but it should have been 'Ketačandụ', the Dative case.
+
+\id Amganovy_historical29
+\ref 7:30
+\tx Ńan   tak.
+\mb ńaːn tak
+\ge again  so.R
+\ft EIA: Like that.
+\ru
+\ph
+\gr

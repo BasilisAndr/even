@@ -1,0 +1,51 @@
+\_sh v3.0  400  Text
+
+\id 01
+\ref judgement question, can one say
+\tx Bi mọːkla ŋenneku čukačan degellin
+\mb
+\gr yes, OK
+\ru я до дерева дошел, и птичка улетела
+
+\id 02
+\ref judgement question, can one say
+\tx Iː okaːtakla eʤi urre, tikčikes! 
+\mb
+\ge
+\ft
+\gr OK
+\ru ты до речки не ходи, а то упадешь!
+
+\id 03
+\ref judgement question, can one say
+\tx Noŋartan timina gorodakla urʤir. 
+\mb
+\ft
+\gr
+\ru они завтра до города поедут
+
+\id 04
+\ref judgement question, can one say
+\tx Slugin eːririn muzejekle gurgenedeku
+\mb
+\ft
+\gr no "do muzeja, muzejekle"
+
+\id 05
+\ref judgement question, can one say
+\tx desčisŋereli boːdeleklewu 
+\mb
+\gr no
+
+\id 06
+\ref judgement question, can one say
+\tx Ira pervyj klasakla taŋnarin
+\mb
+\gr pervyj klastaki
+
+\id 07
+\ref judgement question, can one say
+\tx Mo:le bej nọŋanklan koječidden
+\mb
+\gr no; Q: is there a word nọŋanklan? A: netu, estj nọŋanaklan
+= do samogo ego, do nego idti

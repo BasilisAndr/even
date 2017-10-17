@@ -1,0 +1,166 @@
+\_sh v3.0  984  Text
+
+\id S_Reciprocals01
+\ref elicited with Ija Vasil'evna Krivoshapkina, sebjan040308_ija_41:15
+\tx Bejel      meːn meːnur        kumnumetniken        ịlgamna.
+\mb bej -E-L   meːn meːn -WUr     kumnu -mEČ -nIkEn   ịlgam -R(E)
+\ge man -ep-pl refl  refl  -prfl.pl hug   -rec  -sim.cvb stand   -nonfut.3pl
+\ft
+\nt elicited with Ekaterina Igorovna Shadrina, sebjan040308_keti_1:22:15
+\tx Nọŋartan meːn meːnuŋur     gudʒeːre.
+\mb nọŋartan meːn meːn -WUr     gudʒeːn -R(E)
+\ge 3pl         refl  refl  -prfl.pl kiss      -nonfut.3pl
+
+\ru Они друг друга поцеловали.
+\gr Since she said that one could say meːn meːnur OR meːn meːnuŋur, I assume it's the same underlying form
+
+\id S_Reciprocals02
+\ref elicited with Ija Vasil'evna Krivoshapkina, sebjan040308_ija_42:05
+\tx Ahị ịlgamaddakan                          honte ahị emnidʒi      ietten,           taraw      erek
+\mb asị ịlgam -E-D     -REk      -E-n(I)      honte asị em   -RIdʒI  iet -R(E)   -n(I) tarak -W   erek
+\ge woman stand   -ep-prog -cond.cvb -ep-poss.3sg other woman come -ant.cvb hit -nonfut -3sg  dist  -acc prox
+
+\tx ahị bejben                   ietten.
+\mb asị bej    -W   -E-n(I)      iet -R(E)   -n(I)
+\ge woman self.Y -acc -ep-poss.3sg hit -nonfut -3sg
+\ru Когда стояла женщина, подойдя другая женщина ударила, эта женщина ту саму ударила.
+\ph
+\nt elicited with Ekaterina Igorovna Shadrina, sebjan040308_keti_
+\tx Dʒoːr ahal      bakaldamattịdʒụr           meːn meːnuŋur     iette.
+\mb dʒoːr asị -L  bak  -(E)ldE -mEČ -RIdʒI  -L  meːn meːn -WUr     iet -R(E)
+\ge two     woman -pl find -soc    -rec  -ant.cvb -pl refl  refl  -prfl.pl hit -nonfut.3pl
+
+\id S_Reciprocals03
+\ref elicited with Ekaterina Shadrina, sebjan050308_keti_37:50
+\tx Dʒoːr ahị bakaldamattịdʒị        gudʒeːmmette.
+\mb dʒoːr asị bak  -(E)ldE -mEČ -RIdʒI  gudʒeːn -mEČ  -R(E)
+\ge two     woman find -soc    -rec  -ant.cvb kiss      -rec   -nonfut.3pl
+
+\ft
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_1:05:13
+\tx Ahịl    bakaldamattịdʒụr           kumnumette.
+\mb asị -L  bak  -(E)ldE -mEČ -RIdʒI  -L  kumnu -mEČ -R(E)
+\ge woman -pl find -soc    -rec  -ant.cvb -pl hug   -rec  -nonfut.3pl
+
+\id S_Reciprocals04
+\ref elicited with Ekaterina Shadrina, sebjan050308_keti_38:50
+\tx Digem bej meːn meːnuŋur     ietmette.
+\mb digen bej meːn meːn -WUr     iet -mEČ -R(E)
+\ge four  man refl  refl  -prfl.pl hit -rec  -nonfut.3pl
+\ft
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_1:05:55
+\tx Bejel      meːn meːnur        ịtịːlaːr             pahakmačadda.
+\mb bej -E-L   meːn meːn -WUr     ịtịː -(dU)LE -WUr     pasak -mEČ -E-D     -R(E)
+\ge man -ep-pl refl  refl  -prfl.pl face      -loc    -prfl.pl slap  -rec  -ep-prog -nonfut.3pl
+\ft
+\gr The reflexive pronoun is not obligatory, one can say the sentence without meːn meːnur.
+
+\id S_Reciprocals05
+\ref elicited with Ekaterina Shadrina, sebjan050308_keti_39:40
+\tx Ometekeldʒi                  digen bej emniken       tegenmejle               tewre.
+\mb omen -tEl   -KEn -DʒI        digen bej em   -nIkEn   teg      -E-nmEj -(dU)LE teg      -R(E)
+\ge one  -distr -dim -ins.prfl.sg four  man come -sim.cvb sit.down -ep-anr -loc    sit.down -nonfut.3pl
+
+\ft
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_1:06:55
+\tx Ahịl    ometeldʒi               ementeken          skamejkala       keːnterewur       dʒawrịdʒụr
+\mb asị -L  omen -tEl   -DʒI        em   -E  -ntEkEn   skamejka -(dU)LE keːntere -WUr     dʒaw      -RIdʒI  -L
+\ge woman -pl one  -distr -ins.prfl.sg come -ep -mult.cvb bench.R  -loc    torso     -prfl.pl catch.hold -ant.cvb -pl
+
+\tx tewre.
+\mb teg      -R(E)
+\ge sit.down -nonfut.3pl
+\ru обняв свои туловища сели -- скрестись руками
+\nt they sit down with arms crossed, and that's what she expressed by saying "keːnterewur dʒawrịdʒụr"
+
+\id S_Reciprocals06
+\ref elicited with Ekaterina Shadrina, sebjan050308_keti_58:40
+\tx Ịlan bej ometekeldʒi                  omen beju     gudʒeːne.
+\mb ịlan bej omen -tEl   -KEn -DʒI        omen bej -W   gudʒeːn -R(E)
+\ge three  man one  -distr -dim -ins.prfl.sg one  man -acc kiss      -nonfut.3pl
+
+\ft
+\nt elicited with Ija Vasil'evna Krivoshapkina, sebjan070308_1:08:20
+\tx Ịlgamaddị              bejel      bekečur        omen bejeŋur             ometeldʒi               kumnur.
+\mb ịlgam -E-D     -RI       bej -E-L   bekeč -WUr     omen bej -E-ŋ   -WUr     omen -tEl   -DʒI        kumnu      -r
+\ge stand   -ep-prog -impf.ptc man -ep-pl all    -prfl.pl one  man -ep-aln -prfl.pl one  -distr -ins.prfl.sg hug.nonfut -3pl
+
+\id S_Reciprocals07
+\ref elicited with Ekaterina Shadrina, sebjan050308_keti_59:15
+\tx Omen ńarị gịa ńarịw     ietten.
+\mb omen ńarị gịa ńarị -W   iet -R(E)   -n(I)
+\ge one  man     next  man     -acc hit -nonfut -3sg
+\ph jətten
+\gr
+\nt elicited with Ija Krivoshapkina, sebjan080308_0:55
+\tx Dʒoːr bejel      meːn meːnur        depki    tegetniken                ietmečedde.
+\mb dʒoːr bej -E-L   meːn meːn -WUr     deːpki  teg      -E-Č   -nIkEn   iet -mEČ -E-D     -R(E)
+\ge two     man -ep-pl refl  refl  -prfl.pl opposite sit.down -ep-res -sim.cvb hit -rec  -ep-prog -nonfut.3pl
+\ft
+\nt I then pointed out that only one hits the other:
+\tx Meːn meːnur        depki    tegečiddi                          bejelduk           omen gịadmar
+\mb meːn meːn -WUr     deːpki  teg      -E-Č   -E-D     -RI       bej -E-L   -DUk(U) omen gịa -dmEr
+\ge refl  refl  -prfl.pl opposite sit.down -ep-res -ep-prog -impf.ptc man -ep-pl -abl    one  next  -emph
+
+\tx ietten.
+\mb iet -R(E)   -n(I)
+\ge hit -nonfut -3sg
+\ru из сидящих один другого бил
+\ph
+\gr The reflexive pronoun is not obligatory, one can say the sentence without meːn meːnur.
+
+\id S_Reciprocals08
+\ref elicited with Ekaterina Shadrina, sebjan050308_keti_59:40
+\tx Ịlan bej ịlnịdʒụr            gudʒeːmmette.
+\mb ịlan bej ịlan -NI   -dʒUr        gudʒeːn -mEČ  -R(E)
+\ge three  man three  -coll -ins.prefl.pl kiss      -rec   -nonfut.3pl
+
+\ft
+\nt elicited with Ija Krivoshapkina, sebjan080308_2:25
+\tx Ịlan ahịl    kumnumette.
+\mb ịlan asị -L  kumnu -mEČ -R(E)
+\ge three  woman -pl hug   -rec  -nonfut.3pl
+
+\id S_Reciprocals09
+\ref elicited with Ekaterina Shadrina, sebjan050308_keti_1:00:10
+\tx Omen bej emčelen                       gịa bej nọŋman               gudʒeːnni.
+\mb omen bej em   -čE    -(dU)LE -n(I)     gịa bej nọŋan -W   -n(I)     gudʒeːn   -n(I)
+\ge one  man come -pf.ptc -loc    -poss.3sg next  man 3sg      -acc -poss.3sg kiss.nonfut -3sg
+
+\ft
+\ru Когда пришел один человек, другой человек его поцеловал.
+\ph
+\nt elicited with Ija Krivoshapkina, sebjan080308_2:55
+\tx Omen bej emnidʒi      ịlgamaddị              beju     kumnudni.
+\mb omen bej em   -RIdʒI  ịlgam -E-D     -RI       bej -W   kumnu      -n(I)
+\ge one  man come -ant.cvb stand   -ep-prog -impf.ptc man -acc hug.nonfut -3sg
+\ft
+\ph omem bej, regressive assimilation
+
+\id S_Reciprocals10
+\ref elicited with Ekaterina Shadrina, sebjan050308_keti_1:01:15
+\tx Digen bej meːn meːnur        ietmette.
+\mb digen bej meːn meːn -WUr     iet -mEČ -R(E)
+\ge four  man refl  refl  -prfl.pl hit -rec  -nonfut.3pl
+\ft
+\nt elicited with Ija Krivoshapkina, sebjan080308_3:25
+\tx Digen ahịl    meːn meːnur        boːdelleːr             ietmette.
+\mb digen asị -L  meːn meːn -WUr     boːdel -(dU)LE -WUr     iet -mEČ -R(E)
+\ge four  woman -pl refl  refl  -prfl.pl leg     -loc    -prfl.pl hit -rec  -nonfut.3pl
+\ft
+\gr The reflexive pronoun is not obligatory, one can say the sentence without meːn meːnur.
+
+\id S_Reciprocals11
+\ref elicited with Ekaterina Shadrina, sebjan050308_keti_1:01:50
+\tx Ịlan bej emnidʒur         ịlan bej biddińun                gudʒeːmmette.
+\mb ịlan bej em   -RIdʒI  -L  ịlan bej bi -D    -RI       -ńUn gudʒeːn -mEČ -R(E)
+\ge three  man come -ant.cvb -pl three  man be -prog -impf.ptc -com  kiss      -rec  -nonfut.3pl
+\ft
+\ru Пришедшие трое людей поцеловались с тремя находящимися.
+\ph
+\nt elicited with Ija Krivoshapkina, sebjan080308_4:05
+\tx Ịlan bej emnidʒi      ịlan beju     ometeldʒi               kumnur.
+\mb ịlan bej em   -RIdʒI  ịlan bej -W   omen -tEl   -DʒI        kumnu      -r
+\ge three  man come -ant.cvb three  man -acc one  -distr -ins.prfl.sg hug.nonfut -3pl
+\ft
+\ph ịlam beju, regressive assimilation

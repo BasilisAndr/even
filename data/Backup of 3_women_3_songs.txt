@@ -1,0 +1,1012 @@
+\_sh v3.0  968  Text
+
+\id 3_women_3_songs_000_metadata
+\ref Recorded on 19 March 2010 in Sebjan-Küöl by Natalia Aralova and Brigitte Pakendorf. Three women (all of them are
+Even, teachers of the Sebjan school) were invited to sing songs in Even. They were sitting in front of the camera. They
+brought lyrics with them in case they forget it. After the recording we all drank some tea. 
+\qu In 2012, transcribed by Brigitte Pakendorf, transcription checked and Russian translation by Ija Vasil'evna Krivoshapkina, glossing
+by BP. Funding by the Volkswagen Foundation (DoBeS grant). Speaker abbreviations = 
+
+\id 3_women_3_songs_001
+\tx clap
+\ru
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:04.870
+\ELANParticipant
+
+\id 3_women_3_songs_002
+\tx Segodnja 19oe marta 2010j god, poselok Sebjan-Kuel; Lilja Nikolaevna,  Nadežda Petrovna i Ija
+Vasilevna nam ebedit...
+\ft Today is the 19th of March 2010, Sebjan-Kuel, and Lilja Nikolaevna, Nadezhda Petrovna and Ija Vasilevna (will sing) for
+us in Even
+\ELANBegin 00:00:04.870
+\ELANEnd 00:00:17.280
+\ELANParticipant NA
+
+\id 3_women_3_songs_003
+\tx ikeːdʒir
+\mb ikeː -DʒI -r
+\ge sing  -fut  -3pl
+\ft will sing
+\ru
+\ELANBegin 00:00:17.280
+\ELANEnd 00:00:18.450
+\ELANParticipant NPZ
+\ELANParticipant IVK
+
+\id 3_women_3_songs_004
+\tx ikeːdʒir
+\mb ikeː -DʒI -r
+\ge sing  -fut  -3pl
+\ft will sing
+\ru
+\ELANBegin 00:00:18.450
+\ELANEnd 00:00:20.550
+\ELANParticipant NA
+
+\id 3_women_3_songs_005
+\tx Platon Lamutskaj torenni,            Jan Sleptsov ọgan,            "Sebjan       toŋeːren"
+\mb Platon Lamutskaj tore  -n  -n(I)     Jan Slepcov  ọg  -E-n(I)      Sebjan-Küöl toŋeːr -E-n(I)
+\ge Platon Lamutskij speak -nr -poss.3sg Jan Sleptsov music -ep-poss.3sg Sebjan-Küöl lake     -ep-poss.3sg
+\ft Platon Lamutskij wrote the words, Jan Sleptsov wrote the words, "Lake Sebjan".
+\ru слова Платона Ламутского, мелодия Яна Слепцова, "Озеро Себян"
+\ELANBegin 00:00:20.550
+\ELANEnd 00:00:26.660
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_006
+\tx raz, dva, tri
+\ft one, two, three
+\ELANBegin 00:00:26.660
+\ELANEnd 00:00:28.600
+\ELANParticipant IVK
+
+\id 3_women_3_songs_007
+\tx Eŋsi  hunŋeː ọːtaːdʒị,
+\mb eŋsi  hunŋeː ọːtaː -DʒI
+\ge strong gale     wave      -ins.prfl.sg
+\ft a strong wind with its waves
+\ru сильный ветер своими волнами
+\ELANBegin 00:00:28.600
+\ELANEnd 00:00:33.770
+\ELANParticipant
+
+\id 3_women_3_songs_008
+\tx herilew             hịattaddan
+\mb herile         -W   hịatta -D    -R(E) -n(I)
+\ge stony.mountain -acc slap     -prog -nonfut -3sg
+\ft is slapping the rocks on the mountain slope
+\ru хлещет скалы на склоне горы
+\ELANBegin 00:00:33.770
+\ELANEnd 00:00:38.680
+\ELANParticipant
+
+\id 3_women_3_songs_009
+\tx ńolten dusli             nesudʒi
+\mb ńolten dul     -RI       nesu -DʒI
+\ge sun     warm.up -impf.ptc ??   -ins.prfl.sg
+\ft the sun with its warm (rays?)
+\gr IVK said that she doesn't know what nesu means - even though she sings the song herself; she said she couldn't find it in
+any dictionaries
+\ru солнце теплымы ХХХ
+\ELANBegin 00:00:38.680
+\ELANEnd 00:00:44.300
+\ELANParticipant
+
+\id 3_women_3_songs_010
+\tx tala          dʒọlụ   taladdan
+\mb tarak -(dU)LE dʒọl -W   talal -D    -R(E) -n(I)
+\ge dist  -loc    stone   -acc shine -prog -nonfut -3sg
+\ft let's the stones shine there
+\gr talakụ = blistjashij; IVK wasn't sure whether there is a verb talandaj or taldaj, Robbek has talaldaj "blestetj na solnce" and
+talalahandaj "zablestetj" - so here the underlying root should be transitive, i.e. talalụ- or such; but since I don't know I've
+left it at talal-; the next day I asked IVK whether there was a verb talalu-, but she didn't know
+\nt
+\ru там камни делает блестящими
+\ELANBegin 00:00:44.300
+\ELANEnd 00:00:49.640
+\ELANParticipant
+
+\id 3_women_3_songs_011
+\tx ńolten dusli             nesudʒi
+\mb ńolten dul     -RI       nesu -DʒI
+\ge sun     warm.up -impf.ptc ??   -ins.prfl.sg
+\ft the sun with its warm (rays?)
+\ru
+\ELANBegin 00:00:49.640
+\ELANEnd 00:00:54.950
+\ELANParticipant
+
+\id 3_women_3_songs_012
+\tx tala          dʒọlụ   taladdan
+\mb tarak -(dU)LE dʒọl -W   talal -D    -R(E) -n(I)
+\ge dist  -loc    stone   -acc shine -prog -nonfut -3sg
+
+\ft let's the stones shine there
+\ru
+\ELANBegin 00:00:54.950
+\ELANEnd 00:01:00.640
+\ELANParticipant
+
+\id 3_women_3_songs_013
+\tx Sebeːn       moːlen              ereːli
+\mb Sebjan-Küöl moː  -(dU)LE -n(I)  ereːliː
+\ge Sebjan-Küöl water -loc -poss.3sg around
+\ft around the waters of Sebjan
+\ru вокруг вод Себяна
+\ELANBegin 00:01:00.640
+\ELANEnd 00:01:06.350
+\ELANParticipant
+
+\id 3_women_3_songs_014
+\tx donre    baːdị            ịːmkattan
+\mb doːmŋe baːd      -J       ịːmkat -R(E) -n(I)
+\ge taiga    appearance -prfl.sg aim       -nonfut -3sg
+
+\ft the taiga studies its appearance
+\ph apparently, in Sebjan they normally say donde rather than donre (though I have only come across domŋe)
+\gr normally, ịːmkat- means 'to aim' as in shooting, but here it is used to mean "observe closely"
+\ru тайга разглядывает свой образ
+\ELANBegin 00:01:06.350
+\ELANEnd 00:01:11.950
+\ELANParticipant
+
+\id 3_women_3_songs_015
+\tx adalčịmŋa      ojdelin
+\mb adal    -čI -mŋE oj  -gIdE -(dU)LI -n(I)
+\ge fishnet -vr  -agnr top -part -prol   -poss.3sg
+\ft above the fisherman
+\ru над рыбаком
+\ELANBegin 00:01:11.950
+\ELANEnd 00:01:17.350
+\ELANParticipant
+
+\id 3_women_3_songs_016
+\tx ọlra esken                tịtkattan
+\mb ọlra ekes       -n(I)     tịtkat -R(E) -n(I)
+\ge fish   fish.scale -poss.3sg splash   -nonfut -3sg
+\ft fish scales sparkle
+\ph
+\gr IVK said that titkat- means "vyletatj (tsh tsh)" in all directions, one can say this about sparks flying from a fire; and she
+said that in Sebjan they say ehken for "fishscale", and from that she concluded that the standard form should be ekes, so
+that the possessed form should be "ekesen" 
+\ru рыбья чешуя искрится
+\ELANBegin 00:01:17.350
+\ELANEnd 00:01:22.800
+\ELANParticipant
+
+\id 3_women_3_songs_017
+\tx adalčịmŋa      ojdelin
+\mb adal    -čI -mŋE oj  -gIdE -(dU)LI -n(I)
+\ge fishnet -vr  -agnr top -part -prol   -poss.3sg
+
+\ft above the fisherman
+\ELANBegin 00:01:22.800
+\ELANEnd 00:01:27.860
+\ELANParticipant
+
+\id 3_women_3_songs_018
+\tx ọlra esken                tịtkattan
+\mb ọlra ekes       -n(I)     tịtkat -R(E) -n(I)
+\ge fish   fish.scale -poss.3sg splash   -nonfut -3sg
+
+\ru fish scales sparkle
+\ELANBegin 00:01:27.860
+\ELANEnd 00:01:33.050
+\ELANParticipant
+
+\id 3_women_3_songs_019
+\tx nulge   torduk        neselren
+\mb nulge   tor   -DUk(U) nesen   -L    -R(E) -n(I)
+\ge migrate earth -abl    open.up -inch -nonfut -3sg
+
+\ft even from a distance of 10km it opens up (is visible)
+\ph 1 woman sings nuselren, but that is just a slip of the tongue
+\nt 1 nulge is approximately 10km
+\ru даже с расстояния 10.и км открывается (виднеется)
+\gr 260312: neheku, neheŋeje = slishkom shirokoe, otkrytoe (pro misku) - but then when I asked on 270312 she said she'd
+been wrong, she'd thought of neleku, which would be derived from nelendej and which means "to be flat and wide", and
+she said there would be two verbs, nelendej and nehendej and that from nehendej neheku would be derived - which
+basically brings us full circle.... so it's not clear whether there is a verb nehendej with derived adjective neheku; but in
+Robbek (where I probably should have looked right away) I find nesendej "razvernutj raskrytj"
+\ELANBegin 00:01:33.050
+\ELANEnd 00:01:38.750
+\ELANParticipant
+
+\id 3_women_3_songs_020
+\tx Sebjan        Sebjan,       upeːwu
+\mb Sebjan-Küöl Sebjan-Küöl upeː       -W
+\ge Sebjan-Küöl Sebjan-Küöl grandmother -poss.1sg
+\ft Sebjan Sebjan, my grandmother
+\ph
+\nt lakes and rivers can be referred to as "granny", upeː
+\ru Себян Себян бабушка моя 
+\ELANBegin 00:01:38.750
+\ELANEnd 00:01:43.980
+\ELANParticipant
+
+\id 3_women_3_songs_021
+\tx ančịndụlan             biddeku
+\mb ańčịn    -(dU)LE -n(I)  bi -D    -REk      -W
+\ge space.beside -loc -poss.3sg be -prog -cond.cvb -poss.1sg
+\ft when I'm next to you 
+\ru когда я рядом с ней
+\ELANBegin 00:01:43.980
+\ELANEnd 00:01:49.160
+\ELANParticipant
+
+\id 3_women_3_songs_022
+\tx ŋeːrikiede             Sebjamu
+\mb ŋeːrin      =kE   =DE  Sebjan-Küöl -W
+\ge become.bright =emph =ptl Sebjan-Küöl -poss.1sg
+\ft my Sebjan so bright
+\ru мой Себян очень светлый
+\ELANBegin 00:01:49.160
+\ELANEnd 00:01:54.660
+\ELANParticipant
+
+\id 3_women_3_songs_023
+\tx ančịndụlan             biddeku
+\mb ańčịn    -(dU)LE -n(I)  bi -D    -REk      -W
+\ge space.beside -loc -poss.3sg be -prog -cond.cvb -poss.1sg
+\ft when I'm next to you 
+\ru
+\ELANBegin 00:01:54.660
+\ELANEnd 00:01:59.730
+\ELANParticipant
+
+\id 3_women_3_songs_024
+\tx ŋeːrikiede        Sebjamu
+\mb ŋeːrin =kE   =DE  Sebjan-Küöl -W
+\ge bright   =emph =ptl Sebjan-Küöl -poss.1sg
+\ft my Sebjan so bright
+\ru
+\ELANBegin 00:01:59.730
+\ELANEnd 00:02:06.700
+\ELANParticipant
+
+\id 3_women_3_songs_025
+\tx oohh!!
+\ru
+\ELANBegin 00:02:06.700
+\ELANEnd 00:02:08.000
+\ELANParticipant
+
+\id 3_women_3_songs_026
+\tx U menja golosa ne xvataet!
+\ft I don't have enough voice!
+\ELANBegin 00:02:08.000
+\ELANEnd 00:02:09.360
+\ELANParticipant IVK
+
+\id 3_women_3_songs_027
+\tx applause, laughter
+\ru
+\ELANBegin 00:02:09.360
+\ELANEnd 00:02:11.760
+\ELANParticipant
+
+\id 3_women_3_songs_028
+\tx ńoːwli             nọŋandụn
+\mb ńoː -U    -LI      nọŋan -DU  -n(I)
+\ge exit  -caus -imp.2sg 3sg      -dat -poss.3sg
+\ft take (something) out for him
+\ph
+\nt it's not clear what this refers to - but I wonder whether NPZ wasn't asking LNZ to take some papers with the text of songs
+or such out of her bag, because in record 34 she asks the others "do you know this melody", so it appears to me that she
+may have showed them something - and that this something is what is here being taken out
+\ru вынеси что-то ему
+\ELANBegin 00:02:11.760
+\ELANEnd 00:02:12.630
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_029
+\tx oni po-literaturnomu pojut, ja po sebjanskomu govoru poju
+\ft they are singing in standard Even, I am singing in the Sebjan dialect
+\ELANBegin 00:02:12.630
+\ELANEnd 00:02:15.560
+\ELANParticipant IVK
+
+\id 3_women_3_songs_030
+\tx laughter
+\ru
+\ELANBegin 00:02:15.560
+\ELANEnd 00:02:16.770
+\ELANParticipant
+
+\id 3_women_3_songs_031
+\tx oni po pravilam
+\ft they (sing) by the rules
+\ELANBegin 00:02:16.770
+\ELANEnd 00:02:18.350
+\ELANParticipant IVK
+
+\id 3_women_3_songs_032
+\tx ŋiːdu    boːli        erew      kojeː...
+\mb ŋiː -DU  boː -LI      erek -W   kojeː
+\ge who   -dat give -imp.2sg prox -acc watch
+
+\ft give this to someone to look
+\ph
+\nt again, it is not clear what this refers to, and the last word cannot really be discerned
+\ru
+\ELANBegin 00:02:18.350
+\ELANEnd 00:02:20.770
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_033
+\tx ja xvastalasj, čto slova znaju, potom zabyla!
+\ft I bragged that I know the words, and then I forgot them!
+\ELANBegin 00:02:20.770
+\ELANEnd 00:02:23.920
+\ELANParticipant IVK
+
+\id 3_women_3_songs_034
+\tx erek melodijan          haːnnị?
+\mb erek melodija -n(I)     haː -nrI
+\ge prox melody.R -poss.3sg know -2sg
+\ft do you know this melody?
+\ru
+\ELANBegin 00:02:23.920
+\ELANEnd 00:02:25.950
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_035
+\tx erek
+\mb erek
+\ge prox
+
+\ru
+\ELANBegin 00:02:25.950
+\ELANEnd 00:02:26.570
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_036
+\tx ọːn bihin?
+\mb ọːn bi -RI -n(I)
+\ge how    be -pst -poss.3sg
+\ft how was it?
+\ru
+\ELANBegin 00:02:26.570
+\ELANEnd 00:02:26.940
+\ELANParticipant IVK
+
+\id 3_women_3_songs_037
+\tx erek ńọkadịt     ńọkadịdụk      tụlmačịpča               goːniken
+\mb erek ńọka -DI -Č  ńọka -DI   -DUk(U) tụlma   -Č  -E-B    -čE    goːn -nIkEn
+\ge prox Sakha   -vr -ins Sakha   -adjr -abl    translate -res -ep-med -pf.ptc say   -sim.cvb
+\ft this is translated from Sakha
+\ru это с якутского переведено
+\ELANBegin 00:02:26.940
+\ELANEnd 00:02:31.780
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_038
+\tx biː goːndʒim?
+\mb biː goːn -DʒI -m
+\ge 1sg  say   -fut  -1sg
+\ft shall I say it?
+\ru мне говорить,
+\ELANBegin 00:02:31.780
+\ELANEnd 00:02:32.700
+\ELANParticipant IVK
+
+\id 3_women_3_songs_039
+\tx mm
+\ru
+\ELANBegin 00:02:32.700
+\ELANEnd 00:02:33.190
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_040
+\tx ee
+\ru
+\ELANBegin 00:02:33.190
+\ELANEnd 00:02:34.190
+\ELANParticipant IVK
+
+\id 3_women_3_songs_041
+\tx ńọkadị   ikeːw     tụlmačapča,                ŋiː ikeːwen                ehep
+\mb ńọka -DI   ikeː -W   tụlma   -Č  -E-B    -čE    ŋiː ikeː -W   -E-n(I)      e   -R(E) -p
+\ge Sakha   -adjr song  -acc translate -res -ep-med -pf.ptc who   song  -acc -ep-poss.3sg neg -nonfut -1pl.in
+
+\tx haːra,       goːli?
+\mb haː -R       goːn -LI
+\ge know -neg.cvb say   -imp.2sg
+\ft a translated Sakha song, whose song it is we don't know, right?
+\ph
+\gr I asked whether ikeːw tụlmačapča shouldn't rather be tụlmačača, since ikeː is in the accusative, but IVK said no, this is
+correct, even though I repeated the Russian translation to her, jakutskUJU pesnJU pereVEDENO 
+\ru якутскую песню переведено, чья песня не знаем
+\ELANBegin 00:02:34.190
+\ELANEnd 00:02:38.440
+\ELANParticipant IVK
+
+\id 3_women_3_songs_042
+\tx narọd  ŋunmir     ikeːn
+\mb narod    ŋunmin -L  ikeː -n(I)
+\ge people.R people  -pl sing  -poss.3sg
+
+\ft a folk song
+\ru народная песня
+\ELANBegin 00:02:38.440
+\ELANEnd 00:02:39.820
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_043
+\tx ŋiː tụlmattaŋan                       emie   ehep                haːra
+\mb ŋiː tụlma   -Č  -DEŋ    -E-n(I)      emie   e   -R(E) -p        haː -R
+\ge who   translate -res -pst.ptc -ep-poss.3sg also.Y neg -nonfut -1pl.in know -neg.cvb
+\ft whose translation we also don't know
+\ru кто перевел мы тоже не знаем
+\ELANBegin 00:02:39.820
+\ELANEnd 00:02:41.260
+\ELANParticipant IVK
+
+\id 3_women_3_songs_044
+\tx narodnaja_pesnja
+\mb narodnaja_pesnja
+\ge folk.song.R
+\nt at the same time as NPZ says this, IVK says "ehni haːwra" 'it is not known'
+\ru
+\ELANBegin 00:02:41.260
+\ELANEnd 00:02:43.660
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_045
+\tx ŋenmin ikeːn,         go
+\mb ŋunmin ikeː -n(I)     ge
+\ge people  song  -poss.3sg exclm
+\ft a folk song
+\ru
+\ELANBegin 00:02:43.660
+\ELANEnd 00:02:45.180
+\ELANParticipant IVK
+
+\id 3_women_3_songs_046
+\tx omen, dʒoːr, ịlan
+\mb omen  dʒoːr  ịlan
+\ge one   two      three
+
+\ru
+\ELANBegin 00:02:45.180
+\ELANEnd 00:02:46.440
+\ELANParticipant IVK
+
+\id 3_women_3_songs_047
+\tx gitara
+\mb gitara
+\ge guitar.R
+\nt the name of the song
+\ru
+\ELANBegin 00:02:46.440
+\ELANEnd 00:02:47.240
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_048
+\tx ee
+\ru
+\ELANBegin 00:02:47.240
+\ELANEnd 00:02:48.610
+\ELANParticipant IVZ
+
+\id 3_women_3_songs_049
+\tx Mịawmụ           heːkiniken
+\mb mịawụn -W        heːki -nIkEn
+\ge heart      -poss.1sg kick   -sim.cvb
+\ft kicking my heart
+\ru пиная мое сердце
+\ELANBegin 00:02:48.610
+\ELANEnd 00:02:52.140
+\ELANParticipant
+
+\id 3_women_3_songs_050
+\tx gitara   ikeːn
+\mb gitara   ikeː -n(I)
+\ge guitar.R song  -poss.3sg
+\ft the song of a guitar
+\ru песня гитары
+\ELANBegin 00:02:52.140
+\ELANEnd 00:02:55.640
+\ELANParticipant
+
+\id 3_women_3_songs_051
+\tx gịačamụ           gịačamụ
+\mb gịa  -čEn -W        gịa  -čEn -W
+\ge friend -dim  -poss.1sg friend -dim  -poss.1sg
+\ft my little friend, my little friend
+\ru дружочек дружочек
+\ELANBegin 00:02:55.640
+\ELANEnd 00:02:59.370
+\ELANParticipant
+
+\id 3_women_3_songs_052
+\tx gịawụ        dọlčịlị
+\mb gịa  -W        dọlčị -LI
+\ge friend -poss.1sg listen     -imp.2sg
+
+\ft my friend, listen
+\ru друг мой слушай
+\ELANBegin 00:02:59.370
+\ELANEnd 00:03:02.830
+\ELANParticipant
+
+\id 3_women_3_songs_053
+\tx omem      torem          goːniken
+\mb omen -W   tore  -n  -W   goːn -nIkEn
+\ge one  -acc speak -nr -acc say   -sim.cvb
+\ft saying one word
+\ru одно слово говоря
+\ELANBegin 00:03:02.830
+\ELANEnd 00:03:07.140
+\ELANParticipant
+
+\id 3_women_3_songs_054
+\tx hindu        goːndeku
+\mb hin     -DU  goːn -DE       -W
+\ge 2sg.obl -dat say   -purp.cvb -poss.1sg
+\ft let me say to you
+\ru дай я тебе скажу
+\ELANBegin 00:03:07.140
+\ELANEnd 00:03:10.430
+\ELANParticipant
+
+\id 3_women_3_songs_055
+\tx gịačamụ           gịačamụ
+\mb gịa  -čEn -W        gịa  -čEn -W
+\ge friend -dim  -poss.1sg friend -dim  -poss.1sg
+\ft my little friend, my little friend
+\ru
+\ELANBegin 00:03:10.430
+\ELANEnd 00:03:13.880
+\ELANParticipant
+
+\id 3_women_3_songs_056
+\tx gịawụ        dọlčịlị
+\mb gịa  -W        dọlčị -LI
+\ge friend -poss.1sg listen     -imp.2sg
+\ft my friend, listen
+\ru
+\ELANBegin 00:03:13.880
+\ELANEnd 00:03:17.030
+\ELANParticipant
+
+\id 3_women_3_songs_057
+\tx nịanịmụ        ojdelin
+\mb nịanịn -W        oj  -gIdE -(dU)LI -n(I)
+\ge sky        -poss.1sg top -part -prol   -poss.3sg
+\ft above my sky
+\ru над моим небом
+\ELANBegin 00:03:17.030
+\ELANEnd 00:03:20.960
+\ELANParticipant
+
+\id 3_women_3_songs_058
+\tx ịlaːmụ        ičun
+\mb ịlaːn -W        it  -W     -n(I)
+\ge moon     -poss.1sg see -advrs -3sg
+
+\ft my moon is seen
+\ru виднеется моя луна
+\ELANBegin 00:03:20.960
+\ELANEnd 00:03:24.200
+\ELANParticipant
+
+\id 3_women_3_songs_059
+\tx gịačamụ           dọlbanị
+\mb gịa  -čEn -W        dọlbanị
+\ge friend -dim  -poss.1sg night
+\ft my friend, the night
+\ru мой друг ночь
+\ELANBegin 00:03:24.200
+\ELANEnd 00:03:27.760
+\ELANParticipant
+
+\id 3_women_3_songs_060
+\tx muhomnen           ewiːn
+\mb musem -R(E) -n(I)  ewiː   -n(I)
+\ge smile -nonfut -3sg play    -3sg
+\ft smiles, plays
+\ph
+\nt i.e. the whole song is addressed to the (beloved) friend of the singer, listen, my friend, the night is playing, is smiling"
+\ru улыбается, играет
+\ELANBegin 00:03:27.760
+\ELANEnd 00:03:31.120
+\ELANParticipant
+
+\id 3_women_3_songs_061
+\tx omem      torem          goːniken
+\mb omen -W   tore  -n  -W   goːn -nIkEn
+\ge one  -acc speak -nr -acc say   -sim.cvb
+\ft saying one word
+\ru
+\ELANBegin 00:03:31.120
+\ELANEnd 00:03:35.290
+\ELANParticipant
+
+\id 3_women_3_songs_062
+\tx hindu        goːndeku
+\mb hin     -DU  goːn -DE       -W
+\ge 2sg.obl -dat say   -purp.cvb -poss.1sg
+\ft let me say to you
+\ru
+\ELANBegin 00:03:35.290
+\ELANEnd 00:03:38.340
+\ELANParticipant
+
+\id 3_women_3_songs_063
+\tx gịačamụ           gịačamụ
+\mb gịa  -čEn -W        gịa  -čEn -W
+\ge friend -dim  -poss.1sg friend -dim  -poss.1sg
+\ft my little friend, my little friend
+\ru
+\ELANBegin 00:03:38.340
+\ELANEnd 00:03:41.740
+\ELANParticipant
+
+\id 3_women_3_songs_064
+\tx gịawụ        dọlčịlị
+\mb gịa  -W        dọlčị -LI
+\ge friend -poss.1sg listen     -imp.2sg
+\ft my friend, listen
+\ru
+\ELANBegin 00:03:41.740
+\ELANEnd 00:03:45.180
+\ELANParticipant
+
+\id 3_women_3_songs_065
+\tx omem      torem          goːniken
+\mb omen -W   tore  -n  -W   goːn -nIkEn
+\ge one  -acc speak -nr -acc say   -sim.cvb
+\ft saying one word
+\ru
+\ELANBegin 00:03:45.180
+\ELANEnd 00:03:49.150
+\ELANParticipant
+
+\id 3_women_3_songs_066
+\tx hindu        goːndeku
+\mb hin     -DU  goːn -DE       -W
+\ge 2sg.obl -dat say   -purp.cvb -poss.1sg
+\ft let me say to you
+\ru
+\ELANBegin 00:03:49.150
+\ELANEnd 00:03:52.130
+\ELANParticipant
+
+\id 3_women_3_songs_067
+\tx gịačamụ           gịačamụ
+\mb gịa  -čEn -W        gịa  -čEn -W
+\ge friend -dim  -poss.1sg friend -dim  -poss.1sg
+\ft my little friend, my little friend
+\ru
+\ELANBegin 00:03:52.130
+\ELANEnd 00:03:55.380
+\ELANParticipant
+
+\id 3_women_3_songs_068
+\tx gịawụ        dọlčịlị
+\mb gịa  -W        dọlčị -LI
+\ge friend -poss.1sg listen     -imp.2sg
+\ft my friend, listen
+\ru
+\ELANBegin 00:03:55.380
+\ELANEnd 00:04:00.100
+\ELANParticipant
+
+\id 3_women_3_songs_069
+\tx mmmm
+\ru
+\ELANBegin 00:04:00.100
+\ELANEnd 00:04:01.120
+\ELANParticipant
+
+\id 3_women_3_songs_070
+\tx ọddọn!
+\mb ọd -R(E) -n(I)
+\ge stop -nonfut -3sg
+\ft that's all!
+\ru
+\ELANBegin 00:04:01.120
+\ELANEnd 00:04:01.530
+\ELANParticipant IVK
+
+\id 3_women_3_songs_071
+\tx applause
+\ru
+\ELANBegin 00:04:01.530
+\ELANEnd 00:04:02.740
+\ELANParticipant
+
+\id 3_women_3_songs_072
+\tx estj eše lira evenskaja
+\ft there's also the "Even lyre"
+\ELANBegin 00:04:02.740
+\ELANEnd 00:04:04.520
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_073
+\tx A ona tože perevedennaja, govorjat
+\ft that is also translated, they say
+\ELANBegin 00:04:04.520
+\ELANEnd 00:04:07.190
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_074
+\tx toremen                       haːnnị?
+\mb tore  -n    -W   -E-n(I)      haː -nrI
+\ge speak -mult -acc -ep-poss.3sg know -2sg
+\ft do you know the words?
+\ru знаешь слова?
+\ELANBegin 00:04:07.190
+\ELANEnd 00:04:08.270
+\ELANParticipant IVK
+
+\id 3_women_3_songs_075
+\tx ehe
+\ru
+\ELANBegin 00:04:08.270
+\ELANEnd 00:04:08.910
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_076
+\tx go, Nadežda Petrovna
+\ft well then, Nadezhda Petrovna
+\ELANBegin 00:04:08.910
+\ELANEnd 00:04:09.470
+\ELANParticipant IVK
+
+\id 3_women_3_songs_077
+\tx biː ehem             haːrahnị,          hiː bejes            ịalịgo            ikeːli
+\mb biː e   -R(E) -m     haː -R       =hni    hiː bej    -s(I)     ịa    -LI      =go  ikeː -LI
+\ge 1sg  neg -nonfut -1sg know -neg.cvb =affirm 2sg  self.Y -poss.2sg do.what -imp.2sg =ptl sing  -imp.2sg
+\ft I don't know (the words), right, so you yourself go on, sing
+\ru я же не знаю, ты сама пой, давай
+\ELANBegin 00:04:09.470
+\ELANEnd 00:04:13.250
+\ELANParticipant LNZ
+
+\id 3_women_3_songs_078
+\tx nu lira, evenskaja lira, nazyvaetsja, nu, kak dvoe
+\ft well lyre, it's called "Even lyre", well, how two...
+\ELANBegin 00:04:13.250
+\ELANEnd 00:04:18.220
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_079
+\tx mut    ịadʒịp
+\mb mut    ịa    -DʒI -p
+\ge 1pl.in do.what -fut  -1pl.in
+\ft we'll do what
+\ru мы что будем делать
+\ELANBegin 00:04:18.220
+\ELANEnd 00:04:19.720
+\ELANParticipant LNZ
+
+\id 3_women_3_songs_080
+\tx kak dvoe vljublennyx, značit, ljubovj dvoix vljublennyx
+\ft how two lovers, so the love of two lovers
+\ELANBegin 00:04:19.720
+\ELANEnd 00:04:24.610
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_081
+\tx Vy ee sčas gotovy tože spetj?
+\ft are you willing to sing that now as well?
+\ELANBegin 00:04:24.610
+\ELANEnd 00:04:27.050
+\ELANParticipant NA
+
+\id 3_women_3_songs_082
+\tx hiː ikeːli        mut    bọlla      pripevan,              ee?
+\mb hiː ikeː -LI      mut    buollaγïna pripev    -E-n(I)      ee
+\ge 2sg  sing  -imp.2sg 1pl.in dp.Y         refrain.R -ep-poss.3sg eh
+\ft you sing, and we'll (sing) the refrain, hey?
+\ph
+\gr here, it should be pripevban, the accusative case, since it's "we'll sing the pripev"
+\ru ты пой а мы припев
+\ELANBegin 00:04:27.050
+\ELANEnd 00:04:28.970
+\ELANParticipant LNZ
+
+\id 3_women_3_songs_083
+\tx pripevan
+\mb pripev    -E-n(I)
+\ge refrain.R -ep-poss.3sg
+
+\ru
+\ELANBegin 00:04:28.970
+\ELANEnd 00:04:29.650
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_084
+\tx pripevban                haːnnị?
+\mb pripev    -W   -n(I)     haː -nrI
+\ge refrain.R -acc -poss.3sg know -2sg
+\ft do you know the refrain?
+\ru
+\ELANBegin 00:04:29.650
+\ELANEnd 00:04:31.090
+\ELANParticipant IVK
+
+\id 3_women_3_songs_085
+\tx irek  tor... dʒịː?
+\mb irek  tor    dʒIː
+\ge which earth  aff
+\ft which land, right?
+\ru какая земля
+\ELANBegin 00:04:31.090
+\ELANEnd 00:04:32.280
+\ELANParticipant LNZ
+
+\id 3_women_3_songs_086
+\tx ee, tarak, ee, go
+\mb ee  tarak  ee  ge
+\ge eh  dist   eh  exclm
+
+\ru
+\ELANBegin 00:04:32.280
+\ELANEnd 00:04:34.110
+\ELANParticipant IVK
+
+\id 3_women_3_songs_087
+\tx ehe, go
+\mb aha  ge
+\ge aha  exclm
+
+\ru
+\ELANBegin 00:04:34.110
+\ELANEnd 00:04:35.270
+\ELANParticipant IVK
+
+\id 3_women_3_songs_088
+\tx tarawńụn       mut
+\mb tarak -W   =ńUn  mut
+\ge dist  -acc =restr 1pl.in
+\ft only that we (will sing)
+\ru только это мы
+\ELANBegin 00:04:35.270
+\ELANEnd 00:04:37.730
+\ELANParticipant LNZ
+
+\id 3_women_3_songs_089
+\tx Lira
+\ft the lyre
+\ELANBegin 00:04:37.730
+\ELANEnd 00:04:39.900
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_090
+\tx Ńan   ńọkadịdụk      tụlmačịpča               ŋunmir     ikeːn
+\mb ńaːn ńọka -DI   -DUk(U) tụlma   -Č  -E-B    -čE    ŋunmin -L  ikeː -n(I)
+\ge and    Sakha   -adjr -abl    translate -res -ep-med -pf.ptc people  -pl song  -poss.3sg
+\ft also a folk song that was translated from Sakha
+\ph
+\gr IVK said that tụlmačịpča is the standard Even form, and tụlmačapča the Sebjan form
+\ru с якутского переведенного народная песня
+\ELANBegin 00:04:39.900
+\ELANEnd 00:04:44.890
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_091
+\tx tri četyre
+\ft three four
+\ELANBegin 00:04:44.890
+\ELANEnd 00:04:46.020
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_092
+\tx eŋi   gurge   ineŋidu    erusič      bakaldannaw
+\mb eŋi   gurgeː ineŋi -DU  orus -E-Č   bak  -(E)ldE -nnE     -W
+\ge strong work    day    -dat joy  -ep-ins find -soc    -nec.ptc -poss.1sg
+
+\ft in days of hard work I have to meet with joy
+\ph bakladannaw (and also lots of -h- in long vowels)
+\ru в дни синльной работы радостно я должна встретить
+\ELANBegin 00:04:46.020
+\ELANEnd 00:04:52.640
+\ELANParticipant
+
+\id 3_women_3_songs_093
+\tx irek  torle         biweččinni,         idu        hinu         ọːk bakčịm
+\mb irek  tor   -(dU)LE bi -WEːČ -DʒI -nrI irek  -DU  hin     -W   ọːk bak  -DʒI -m
+\ge which earth -loc    be -gnr    -fut  -2sg which -dat 2sg.obl -acc when   find -fut  -1sg
+\ft in which place you will be, where, when I will find you
+\ru в какой земле ты будешь ходить, где тебя , когда я найду
+\ELANBegin 00:04:52.640
+\ELANEnd 00:04:59.190
+\ELANParticipant
+
+\id 3_women_3_songs_094
+\tx irek  torle         biweččinni,         idu        hinu         ọːk bakčịm
+\mb irek  tor   -(dU)LE bi -WEːČ -DʒI -nrI irek  -DU  hin     -W   ọːk bak  -DʒI -m
+\ge which earth -loc    be -gnr    -fut  -2sg which -dat 2sg.obl -acc when   find -fut  -1sg
+\ft in which place you will be, where, when I will find you
+\ru
+\ELANBegin 00:04:59.190
+\ELANEnd 00:05:06.210
+\ELANParticipant
+
+\id 3_women_3_songs_095
+\tx muhomniken,    hebdʒeniken,          tala  dʒulu         mut    meddʒip
+\mb musem -nIkEn   hebdʒen      -nIkEn   talal dʒul     -W   mut    med    -DʒI -p
+\ge smile -sim.cvb be.interested -sim.cvb shine happiness -acc 1pl.in notice -fut  -1pl.in
+\ft smiling, having fun, there will will learn what happiness is
+\ru улыбаясь веселясь, там счастье мы познаем
+\ELANBegin 00:05:06.210
+\ELANEnd 00:05:12.750
+\ELANParticipant
+
+\id 3_women_3_songs_096
+\tx alatmatčịp            bakaldatčịp,                 hiː bisonni         goːmetčip
+\mb alat -mEČ -DʒI -p      bak  -(E)ldE -Č  -DʒI -p      hiː bi -R(E)   -nrI goːn -mEČ -DʒI -p
+\ge wait -rec  -fut  -1pl.in find -soc    -res -fut  -1pl.in 2sg  be -nonfut -2sg say   -rec  -fut  -1pl.in
+\ft we will wait for each other, we will meet, we will say to each other "you are"
+\ph
+\gr bakaldatčịp is not a correct verb form, there is no resultative of bakalda-, should probably be bakaldadʒịp
+\ru будем друг друга ждать, встретимся, "ты есть" скажем друг друга
+\ELANBegin 00:05:12.750
+\ELANEnd 00:05:19.360
+\ELANParticipant
+
+\id 3_women_3_songs_097
+\tx alatmatčịp            bakaldadʒịp,            hiː bisonni         goːmetčip
+\mb alat -mEČ -DʒI -p      bak  -(E)ldE -DʒI -p      hiː bi -R(E)   -nrI goːn -mEČ -DʒI -p
+\ge wait -rec  -fut  -1pl.in find -soc    -fut  -1pl.in 2sg  be -nonfut -2sg say   -rec  -fut  -1pl.in
+\ft we will wait for each other, we will meet, we will say to each other "you are"
+\ru
+\ELANBegin 00:05:19.360
+\ELANEnd 00:05:26.440
+\ELANParticipant
+
+\id 3_women_3_songs_098
+\tx ọddọn,        ịaw      ereskejen
+\mb ọd -R(E) -n(I)  ịak -W   rezkij   -E-n(I)
+\ge stop -nonfut -3sg what  -acc abruptly -ep-poss.3sg
+\ft that's all, how abruptly
+\ph
+\nt there are actually more verses to the song
+\ru все, как резко
+\ELANBegin 00:05:26.440
+\ELANEnd 00:05:27.910
+\ELANParticipant IVK
+
+\id 3_women_3_songs_099
+\tx applause, laughter
+\ru
+\ELANBegin 00:05:27.910
+\ELANEnd 00:05:32.010
+\ELANParticipant
+
+\id 3_women_3_songs_100
+\tx vsje
+\ft that's all
+\ELANBegin 00:05:32.010
+\ELANEnd 00:05:33.520
+\ELANParticipant IVK
+
+\id 3_women_3_songs_101
+\tx malenkij koncert
+\ft a little concert
+\ELANBegin 00:05:33.520
+\ELANEnd 00:05:34.730
+\ELANParticipant IVK
+
+\id 3_women_3_songs_102
+\tx kak malenkij, mini-koncert!
+\ft what do you mean, a small concert - a mini concert!
+\ELANBegin 00:05:34.730
+\ELANEnd 00:05:37.650
+\ELANParticipant NPZ
+
+\id 3_women_3_songs_103
+\tx mut trio budem sozdavatj, gastrolirovatj budem
+\ft we'll form a trio and go on tour
+\ELANBegin 00:05:37.650
+\ELANEnd 00:05:42.230
+\ELANParticipant IVK 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My Documents/Even
+project/Sebjan_2010_fielddata/sound_files/songs/3_women_songs_190310_Sebjan.wav
+\ELANMediaMIME audio/x-wav

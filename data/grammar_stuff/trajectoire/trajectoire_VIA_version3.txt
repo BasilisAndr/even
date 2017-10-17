@@ -1,0 +1,585 @@
+\_sh v3.0  1082 Text
+
+\id 001_Filler_M_pick_fruit_back
+\ref
+\tx Bejkeken   ịakịtaduk       čakačiddan                         tewtew.
+\mb bej -kEkEn hịakịta -DUk(U) čak   -E-Č   -E-D     -R(E) -n(I)  tewte   -W
+\ge man -dim   tree        -abl    gather -ep-res -ep-prog -nonfut -3sg berries -acc
+
+
+\id 002_Filler_M_sleep_side
+\ref
+\tx Urkemker       ịakịta  attun               desčidden.
+\mb hurkeːn -mkEr hịakịta hat  -DU  -n(I)     desči -D    -R(E) -n(I)
+\ge boy      -aug  tree        base -dat -poss.3sg lie    -prog -nonfut -3sg
+
+
+\id 003_Filler_M_read_book
+\ref
+\tx Bejemker  ịakịta  uŋdun                   tegridʒi         knigaw      kojeːčidden,                 turdu.
+\mb bej -mkEr hịakịta uŋ       -DU  -n(I)     teg      -RIdʒI  kniga  -W   kojeː -Č  -D    -R(E) -n(I)  tor   -DU
+\ge man -aug  tree        something -dat -poss.3sg sit.down -ant.cvb book.R -acc watch  -res -prog -nonfut -3sg earth -dat
+
+
+\id 004_Filler_M_eat_banana
+\ref
+\tx Bej ịakịta  attun               tegetniken                dʒebedden                  banan.
+\mb bej hịakịta hat  -DU  -n(I)     teg      -E-Č   -nIkEn   dʒeb -E-D     -R(E) -n(I)  banan
+\ge man tree        base -dat -poss.3sg sit.down -ep-res -sim.cvb eat   -ep-prog -nonfut -3sg banana.R
+
+
+\id 005_Filler_M_feed_ducks
+\ref
+\tx Ọkaːtla       teːmačidda             niːkičeːr     i     bejemker  turduk        ušiŋečidden
+\mb ọkaːt -(dU)LE teːmat -E-D     -R(E)   niːkičeːn -L  i     bej -mkEr tor   -DUk(U) usiŋ -E  -Č  -E-D     -R(E) -n(I)
+\ge river    -loc    swim    -ep-prog -nonfut duck         -pl and.R man -aug  earth -abl    throw -ep -res -ep-prog -nonfut -3sg
+
+\tx kiliebu      dʒebdeten.
+\mb kilieb  -W   dʒeb -DE       -tEn
+\ge bread.R -acc eat   -purp.cvb -poss.3pl
+
+
+\id 006_Filler_M_drink_water
+\ref
+\tx Bej teːdekedu    tegridʒi         iludden.
+\mb bej teːdeke -DU  teg      -RIdʒI  hilu  -D    -R(E) -n(I)
+\ge man mat      -dat sit.down -ant.cvb drink -prog -nonfut -3sg
+
+
+\id 007_Filler_M_puton_jumper
+\ref
+\tx Bejkeje     nanda       ụrbakị tetudʒillin.
+\mb bej -kEːjE ńaːn =DE  rubaxa     tet    -U    -D    -L    -RI -n(I)
+\ge man -aug    and    =ptl shirt.R    put.on -caus -prog -inch -pst -poss.3sg
+
+
+\id 008_Filler_M_takeoff_jumper
+\ref
+\tx Bejemker  eŋerdekeji          gịaŋin               nụkrin.
+\mb bej -mkEr eŋeːrdeke -J       gịa -ŋ  -E-n(I)      nụk    -RI -n(I)
+\ge man -aug  jersey      -prfl.sg next  -aln -ep-poss.3sg take.off -pst -poss.3sg
+
+
+\id 009_Filler_M_footpass_ball_to_F
+\ref
+\tx Asatkan urkeːngeli      okredu      miečikeč       ewidde.
+\mb asatkan hurkeːn -g(E)lI okre   -DU  mjačik -E  -Č  ewiː -D    -R(E)
+\ge girl    boy      -com    tundra -dat ball.R  -ep -ins play  -prog -nonfut
+
+
+\id 010_train_M_handpass_ball_to_F
+\ref
+\tx Bej asịγli     ewidde              miečikeč.
+\mb bej asị -g(E)lI ewiː -D    -R(E)   mjačik -E  -Č
+\ge man woman -com    play  -prog -nonfut ball.R  -ep -ins
+
+
+\id 011_Filler_F_give_banana
+\ref
+\tx Asatkajakan    bejnun    ur   dọːdun             turdu      tegridʒur            ukčeneddeeː.
+\mb asatkan -jEkEn bej -ńUn hur  dọː -DU  -n(I)     tor   -DU  teg      -RIdʒI -L   ukčen -E-D     -R(E)   =eː
+\ge girl    -dim   man -com  cave inside -dat -poss.3sg earth -dat sit.down -ant.cvb -pl tell   -ep-prog -nonfut =emph
+
+
+\id 012_Filler_F_takeoff_cardigan
+\ref
+\tx Asatkakakan    tordu      tegečidden                            eŋerdekeji          nụknịkan.
+\mb asatkan -kEkEn tor   -DU  teg      -E-Č   -E-D     -R(E) -n(I)  eŋeːrdeke -J       nụk    -nIkEn
+\ge girl    -dim   earth -dat sit.down -ep-res -ep-prog -nonfut -3sg jersey      -prfl.sg take.off -sim.cvb
+
+
+\id 013_train_F_spread_blanket
+\ref
+\tx Asatkan ubirajiddan                     dʒụːji.
+\mb asatkan ubiraj    -E-D     -R(E) -n(I)  dʒụː -J
+\ge girl    tidy.up.R -ep-prog -nonfut -3sg house    -prfl.sg
+
+
+\id 014_Filler_F_puton_flipflop
+\ref
+\tx Asatkajakan    teːdekeduk      ịllidʒi        ụntaji           tetudʒillin.
+\mb asatkan -jEkEn teːdeke -DUk(U) ịl     -RIdʒI  ụnta    -J       tet    -U    -D    -L    -RI -n(I)
+\ge girl    -dim   mat      -abl    stand.up -ant.cvb fur.boots -prfl.sg put.on -caus -prog -inch -pst -poss.3sg
+
+
+\id 015_Filler_F_sitdown_blanket
+\ref
+\tx Asatkajakan    ịlačiddidʒi                    teːdekedu    tegren.
+\mb asatkan -jEkEn ịl     -E-Č   -E-D     -RIdʒI  teːdeke -DU  teg      -R(E) -n(I)
+\ge girl    -dim   stand.up -ep-res -ep-prog -ant.cvb mat      -dat sit.down -nonfut -3sg
+
+
+\id 016_Filler_F_fold_cloth
+\ref
+\tx Asatkajakan    teːdekedu    tegetniken                ọji            nọːdịč    neːkečidden.
+\mb asatkan -jEkEn teːdeke -DU  teg      -E-Č   -nIkEn   ọj    -J       nọːd -E-Č   neː -kEČ -E-D     -R(E) -n(I)
+\ge girl    -dim   mat      -dat sit.down -ep-res -sim.cvb clothes -prfl.sg pretty  -ep-ins put  -mult -ep-prog -nonfut -3sg
+
+
+\id 017_Filler_F_takeoff_flipflop
+\ref
+\tx Asị nụkridʒi       ụntaji           iːrin               teːdekele       dʒụlakkanịč      edeji
+\mb asị nụk    -RIdʒI  ụnta    -J       iː   -RI -n(I)      teːdeke -(dU)LE dʒụːlakkan -E-Č   e   -DE       -J
+\ge woman take.off -ant.cvb fur.boots -prfl.sg enter -pst -poss.3sg mat      -loc    naked          -ep-ins neg -purp.cvb -prfl.sg
+
+\tx kirderar.
+\mb kirde -r(E) -E-R
+\ge dirty -vr   -ep-neg.cvb
+
+
+\id 018_Filler_F_footpass_ball_to_M
+\ref
+\tx Dʒuːr asatkan i     urkemker       ewidde,             buːdeldʒur         unkideweːtte          miečikur.
+\mb dʒoːr asatkan i     hurkeːn -mkEr ewiː -D    -R(E)   boːdel -dʒUr       unkide -WEːČ -R(E)   mjačik -WUr
+\ge two     girl    and.R boy      -aug  play  -prog -nonfut leg(s)  -ins.prfl.pl kick   -gnr    -nonfut ball.R  -prfl.pl
+
+
+\id 019_Filler_F_comb_hair
+\ref
+\tx Asatkan tegetniken                teːdekedu    ńuːriti         ịdaddan.
+\mb asatkan teg      -E-Č   -nIkEn   teːdeke -DU  ńuːrit -J       ịd -E-D     -R(E) -n(I)
+\ge girl    sit.down -ep-res -sim.cvb mat      -dat hair     -prfl.sg comb -ep-prog -nonfut -3sg
+
+
+\id 020_Filler_F_plait_hair
+\ref
+\tx Asatkakakan    teːdekedu     tegridʒi         ńuːriti         ịlčaddan.
+\mb asatkan -kEkEn teːdeke =DU   teg      -RIdʒI  ńuːrit -J       ịlča -D    -R(E) -n(I)
+\ge girl    -dim   mat      =disj sit.down -ant.cvb hair     -prfl.sg braid   -prog -nonfut -3sg
+
+
+\id 021_Filler_F_pour_water
+\ref
+\tx Asatkan teːdekedu    tegetniken                bejkejedu        muːw      kọldan                  uŋkerin.
+\mb asatkan teːdeke -DU  teg      -E-Č   -nIkEn   bej -kEːjE -DU  moː  -W   kọl -DE       -n(I)     oŋke -RI -n(I)
+\ge girl    mat      -dat sit.down -ep-res -sim.cvb man -aug    -dat water -acc drink -purp.cvb -poss.3sg pour  -pst -poss.3sg
+
+
+\id 022_Path_F_walk_down_into_cave_front
+\ref
+\tx Asatkakakan    turgič     iːrin               ur   dọːtkin.
+\mb asatkan -kEkEn tor   -GIČ iː   -RI -n(I)      hur  dọː -t(E)kI -n(I)
+\ge girl    -dim   earth -elat enter -pst -poss.3sg cave inside -all    -poss.3sg
+
+
+\id 023_Path_F_walk_outof_cave_front
+\ref
+\tx Asatkajakan    urduk        ńuːne     ereger dʒuγarmali       gịrkasnan.
+\mb asatkan -jEkEn hur  -DUk(U) ńoː -n(I) ereger dʒuγarma -(dU)LI gịrka -s(E)n -R(E) -n(I)
+\ge girl    -dim   cave -abl    exit  -3sg  always path       -prol   walk    -lim   -nonfut -3sg
+
+
+\id 024_Path_F_walk_out_take_walk_into_cave_back
+\ref
+\tx Asatkajakan    urduk        ńuːrin             nan    gadịn...          korzinaw      gadidʒi      nanda       mụčụrin,
+\mb asatkan -jEkEn hur  -DUk(U) ńoː -RI -n(I)      ńaːn ga   -RI -n(I)      korzina  -W   ga   -RIdʒI  ńaːn =DE  mụčụ -RI -n(I)
+\ge girl    -dim   cave -abl    exit  -pst -poss.3sg and    take -pst -poss.3sg basket.R -acc take -ant.cvb and    =ptl return    -pst -poss.3sg
+
+\tx amaskị         iːrin.
+\mb amar   -skI      iː   -RI -n(I)
+\ge behind -advb.all enter -pst -poss.3sg
+
+
+\id 025_Path_F_walk_outof_cave_back
+\ref
+\tx Asị ńuːn urduk        awụskịwụč             urren.
+\mb asị ńuːn hur  -DUk(U) aw    -E  -skI      =(W)UttE hor -R(E)   -E-n(I)
+\ge woman point  cave -abl    where -ep -advb.all =indef   go  -nonfut -ep-3sg
+
+
+\id 026_Path_M_walk_into_woods_back
+\ref
+\tx Urkemker       okreduk       bụjla        iːn.
+\mb hurkeːn -mkEr okre  -DUk(U) bụj  -(dU)LE iː   -n(I)
+\ge boy      -aug  field -abl    forest -loc    enter -3sg
+
+
+\id 027_Path_F_walk_outof_woods_sideRL
+\ref
+\tx Asatkajakan    ịakịtal     ọːja  čịdaldukutan                     ńuːridʒi    gịrkasnan.
+\mb asatkan -jEkEn hịakịta -L  họːja čịda       -L  -DUk(U) -tEn      ńoː -RIdʒI  gịrka -s(E)n -R(E) -n(I)
+\ge girl    -dim   tree        -pl many     opposite.side -pl -abl    -poss.3pl exit  -ant.cvb walk    -lim   -nonfut -3sg
+
+
+\id 028_Path_C_walk_outof_cave_to_sea_sideLR
+\ref
+\tx Kụŋakakakan          urduk        ńuːrin             dʒọlakaγdu      ńan   ịlačịdʒịllịn.
+\mb kụŋa -KEn     -kEkEn hur  -DUk(U) ńoː -RI -n(I)      dʒọl -K(Ag) -DU  ńaːn ịl     -Č  -D    -L    -RI -n(I)
+\ge child   -dim.int -dim   cave -abl    exit  -pst -poss.3sg stone   -nr    -dat and    stand.up -res -prog -inch -pst -poss.3sg
+
+
+\id 029_Path_F_walk_outof_cave_up_stairs_back
+\ref
+\tx Asịmkar   urduk        ńuːn      tala          buγeski        ịlkan ńultenteki.
+\mb asị -mkEr hur  -DUk(U) ńoː -n(I) tarak -(dU)LE bụg -skI      ịlkan ńulten -t(E)kI
+\ge woman -aug  cave -abl    exit  -3sg  dist  -loc    earth -advb.all true    sun     -all
+
+
+\id 030_Path_C_walk_outof_cave_toward_C_sideLR
+\ref
+\tx Dʒuːr kụŋakakakar              ewidde              i     dʒọl uŋduk            ńuːdden                omen gịadmar    kụŋa.
+\mb dʒoːr kụŋa -KEn     -kEkEn -L  ewiː -D    -R(E)   i     dʒọl uŋ       -DUk(U) ńoː -D    -R(E) -n(I)  omen gịa -dmEr  kụŋa
+\ge two     child   -dim.int -dim   -pl play  -prog -nonfut and.R stone   something -abl    exit  -prog -nonfut -3sg one  other -contr child
+
+
+\id 031_Path_M_run_outof_sea_sideRL
+\ref
+\tx Kụŋakajakan          namdu    teːmačiddidʒi          amaskị         ńọːŋčịn.
+\mb kụŋa -KEn     -jEkEn nam -DU  teːmat -E-D     -RIdʒI  amar   -skI      ńọːŋčị -n(I)
+\ge child   -dim.int -dim   sea -dat swim    -ep-prog -ant.cvb behind -advb.all run            -3sg
+
+
+\id 032_Path_F_walk_awayfrom_tree_front
+\ref
+\tx Asatkakakan    ịakịtaduk       ịlačiddidʒi                    urren.
+\mb asatkan -kEkEn hịakịta -DUk(U) ịl     -E-Č   -E-D     -RIdʒI  hor -R(E)   -E-n(I)
+\ge girl    -dim   tree        -abl    stand.up -ep-res -ep-prog -ant.cvb go  -nonfut -ep-3sg
+
+
+\id 033_Path_F_run_awayfrom_tree_front
+\ref
+\tx Asatkajakan    ịakịta  attukun                dʒulepki ńọːnnị.
+\mb asatkan -jEkEn hịakịta hat  -DUk(U) -n(I)     dʒulepki ńọːn -n(I)
+\ge girl    -dim   tree        base -abl    -poss.3sg ahead     run.away -3sg
+
+
+\id 034_Path_C_jump_from_stone_run_front
+\ref
+\tx Kụŋakajakan          dʒọlamkaralduk              meluŋčin      pesoktakị    ńan   ńọːnin              awụskị.
+\mb kụŋa -KEn     -jEkEn dʒọl -E-mkEr -E-L   -DUk(U) meluŋči -n(I) pesok  -t(E)kI ńaːn ńọːn -RI -n(I)      aw    -E  -skI
+\ge child   -dim.int -dim   stone   -ep-aug -ep-pl -abl    jump      -3sg  sand.R -all    and    run.away -pst -poss.3sg where -ep -advb.all
+
+\ft
+
+\id 035_Path_M_walk_awayfrom_F_front
+\ref
+\tx Bej awụskị          gịrkasnan                 a     gịadmar    desčidden.
+\mb bej aw    -E  -skI      gịrka -s(E)n -R(E) -n(I)  a.R   gịa -dmEr  desči -D    -R(E) -n(I)
+\ge man where -ep -advb.all walk    -lim   -nonfut -3sg but.R other -contr lie    -prog -nonfut -3sg
+
+
+\id 036_Path_M_walk_toward_F_back
+\ref
+\tx Dʒuːr bejel,     omen desčidden                turdu,     gịadmaraši      nọŋantakịn ŋennin.
+\mb dʒoːr bej -E-L   omen desči -D    -R(E) -n(I)  tor   -DU  gịa -dmEr  =sI   nọŋantakịn ŋen -RI -n(I)
+\ge two     man -ep-pl one  lie    -prog -nonfut -3sg earth -dat other -contr =emph 3sg.all         go   -pst -poss.3sg
+
+
+\id 037_Path_M_run_up_from_river_back
+\ref
+\tx Bej ŋịanduk     dʒuγarmali       ereger ńọːŋčịn.
+\mb bej ŋịa -DUk(U) dʒuγarma -(dU)LI ereger ńọːŋčị -n(I)
+\ge man bottom -abl    path       -prol   always run            -3sg
+
+\ft
+\ph
+\gr says ŋianduk, but that is not correct, should be ŋiaduk as glossed
+
+\id 038_Path_F_walk_outof_field_sideRL
+\ref
+\tx Asatkan urip bụjteki      ollotče       amaskị         mụčụn.
+\mb asatkan urip bụj  -t(E)kI hollot -čE    amar   -skI      mụčụ -n(I)
+\ge girl    this forest -all    go     -pf.ptc behind -advb.all return    -3sg
+
+\ru Девушка которая ходила в лес вернулась обратно
+
+\id 039_Path_M_walk_behind_tree_sideLR
+\ref
+\tx Bejemker  nọːdli       turli         gịrkan      ịakịtakaːja    čịdalin.
+\mb bej -mkEr nọːd -(dU)LI tor   -(dU)LI gịrka -n(I) hịakịta -kEːjE čịda       -(dU)LI -n(I)
+\ge man -aug  pretty  -prol   earth -prol   walk    -3sg  tree        -aug    opposite.side -prol   -poss.3sg
+
+
+\id 040_Path_F_walk_front_tree_sideRL
+\ref
+\tx Asatkan okreli        gịrkan      nọːdli       ịakịtakaja      ewgidelin.
+\mb asatkan okre  -(dU)LI gịrka -n(I) nọːd -(dU)LI hịakịta -kEːjE erek -gIdE -(dU)LI -n(I)
+\ge girl    field -prol   walk    -3sg  pretty  -prol   tree        -aug    prox -part -prol   -poss.3sg
+
+
+\id 041_Path_3_walk_under_branch _behind_tree_front
+\ref
+\tx Dʒuːr asatkar     umen urkemker       awgịčụt          gịrkaritan          ńan   erteki       ujeːniten.
+\mb dʒoːr asatkan -L  omen hurkeːn -mkEr aw    -GIČ =(W)UttE gịrka -RI -tEn       ńaːn erek -t(E)kI hujeːn    -RI -tEn
+\ge two     girl    -pl one  boy      -aug  where -elat =indef   walk    -pst -poss.3pl and    prox -all    turn.aside -pst -poss.3pl
+
+\ft
+\ph
+\gr ujeniten = svernuli, bi ujenem
+\ev
+
+\id 042_Path_C_run_behind_stone_sideLR
+\ref
+\tx Kụŋakajakan          amaskị         ereger ńọːŋčịn.
+\mb kụŋa -KEn     -jEkEn amar   -skI      ereger ńọːŋčị -n(I)
+\ge child   -dim.int -dim   behind -advb.all always run            -3sg
+
+
+\id 043_Path_F_run_behind_tree_sideRL
+\ref
+\tx Ịakịtakaja      čịdalin                      ńọːŋčịn      asatkan.
+\mb hịakịta -kEːjE čịda       -(dU)LI -n(I)     ńọːŋčị -n(I) asatkan
+\ge tree        -aug    opposite.side -prol   -poss.3sg run            -3sg  girl
+
+
+\id 044_Path_F_run_front_tree-sideLR
+\ref
+\tx Asatkajakan    amaskị         ńọːŋčịn.
+\mb asatkan -jEkEn amar   -skI      ńọːŋčị -n(I)
+\ge girl    -dim   behind -advb.all run            -3sg
+
+
+\id 045_Path_3_ walk_across _bridge_back
+\ref
+\tx Ịlan asatkar     taklawanduli       gịrkar.
+\mb ịlan asatkan -L  taklawụn -(dU)LI gịrka -r
+\ge three  girl    -pl bridge     -prol   walk    -3pl
+
+
+\id 046_Path_M_walk_across_bridge_walk_front women_back
+\ref
+\tx Ịlan asatkar     taklawandu      ukčeneddeeː                 i     nọŋartan ańčịndụlịtan           bejemker
+\mb ịlan asatkan -L  taklawụn -DU  ukčen -E-D     -R(E)   =eː  i     nọŋartan ańčịn    -(dU)LI -tEn      bej -mkEr
+\ge three  girl    -pl bridge     -dat tell   -ep-prog -nonfut =emph and.R 3pl         space.beside -prol   -poss.3pl man -aug
+
+\tx gịrkarin             urrin              čaškị.
+\mb gịrka -RI -n(I)      hor -RI -n(I)      časkị
+\ge walk    -pst -poss.3sg go  -pst -poss.3sg further
+
+
+\id 047_Path_F_ walk_across _bridge_front_man_sideLR
+\ref
+\tx Taklawandụla     bejemker  ịlačiddan                           muːtki       kojeːtniken     i     čịdalin
+\mb taklawụn -(dU)LE bej -mkEr ịl     -E-Č   -E-D     -R(E) -n(I)  moː  -t(E)kI kojeːt -nIkEn   i     čịda       -(dU)LI -n(I)
+\ge bridge     -loc    man -aug  stand.up -ep-res -ep-prog -nonfut -3sg water -all    look.at -sim.cvb and.R opposite.side -prol   -poss.3sg
+
+\tx asatkan gịrkarin.
+\mb asatkan gịrka -RI -n(I)
+\ge girl    walk    -pst -poss.3sg
+
+
+\id 048_Path_F_ walk_across _path_sideLR
+\ref
+\tx Asatkan nọːdli       turli         ịakịta  ịlatta              gịrkan      dʒuγarmali.
+\mb asatkan nọːd -(dU)LI tor   -(dU)LI hịakịta ịl     -Č  -R(E)   gịrka -n(I) dʒuγarma -(dU)LI
+\ge girl    pretty  -prol   earth -prol   tree        stand.up -res -nonfut walk    -3sg  path       -prol
+
+
+\id 049_Path_M_ walk_across _path_sideRL
+\ref
+\tx Urkeːn  ereger dʒuγarmali       dʒulepki gịrkan.
+\mb hurkeːn ereger dʒuγarma -(dU)LI dʒulepki gịrka -n(I)
+\ge boy      always path       -prol   ahead     walk    -3sg
+
+
+\id 050_Path_C_cross_water_sideRL
+\ref
+\tx Urip kụŋakajakan          taklawanduli       gịrkan      nan    awụskịwụč             ewren.
+\mb urip kụŋa -KEn     -jEkEn taklawụn -(dU)LI gịrka -n(I) ńaːn aw    -E  -skI      =(W)UttE ew      -R(E)   -E-n(I)
+\ge this child   -dim.int -dim   bridge     -prol   walk    -3sg  and    where -ep -advb.all =indef   go.down -nonfut -ep-3sg
+
+
+\id 051_Path_F_cross_field_front
+\ref
+\tx Asatkan bụjnuk         ńuːridʒi    okreli        gịrkan.
+\mb asatkan bụj  -(I)nUk   ńoː -RIdʒI  okre  -(dU)LI gịrka -n(I)
+\ge girl    forest -advb.abl exit  -ant.cvb field -prol   walk    -3sg
+
+
+\id 052_Path_F_cross_field_back
+\ref
+\tx Asatkan ereger bulduteli            turli         gịrkan      dʒulepki ịakịtakaγla           tala          iːn.
+\mb asatkan ereger bulduti      -(dU)LI tor   -(dU)LI gịrka -n(I) dʒulepki hịakịta -K(Ag) -(dU)LE tarak -(dU)LE iː   -n(I)
+\ge girl    always even.surface -prol   earth -prol   walk    -3sg  ahead     tree        -nr    -loc    dist  -loc    enter -3sg
+
+\ft
+
+\id 053_Path_F_walk_into_cave_back
+\ref
+\tx Asatkakakan    dʒuγarmali       ereger gịrkan      nan    urteki       iːn.
+\mb asatkan -kEkEn dʒuγarma -(dU)LI ereger gịrka -n(I) ńaːn hur  -t(E)kI iː   -n(I)
+\ge girl    -dim   path       -prol   always walk    -3sg  and    cave -all    enter -3sg
+
+
+\id 054_Path_F_walk_into_cave_front
+\ref
+\tx Asatkajakan    bụjnduk      mụčụn      urteki.
+\mb asatkan -jEkEn bụj  -DUk(U) mụčụ -n(I) hur  -t(E)kI
+\ge girl    -dim   forest -abl    return    -3sg  cave -all
+
+
+\id 055_Path_M_walk_out of_woods_front
+\ref
+\tx Bejemker  bụjinuk        ńuːdden                ŋaːldʒi          belniken.
+\mb bej -mkEr bụj  -(I)nUk   ńoː -D    -R(E) -n(I)  ŋaːl -DʒI        bel    -nIkEn
+\ge man -aug  forest -advb.abl exit  -prog -nonfut -3sg hand   -ins.prfl.sg stroke -sim.cvb
+\ft
+\nt she wanted to say that he moves the branches apart with his hands, but couldn't think of how to say that
+
+\id 056_Path_M_walk_into_bush_back
+\ref
+\tx Beje gịrkan      urrin              buγeški.
+\mb bej  gịrka -n(I) hor -RI -n(I)      bụg -skI
+\ge man  walk    -3sg  go  -pst -poss.3sg place -advb.all
+\ft
+\nt VIA uses buγeški here to refer to "to the forest"
+
+\id 057_Path_F_walk_into_woods_sideLR
+\ref
+\tx Asatkajakan    mụčụrin             ịakịtakaγla           iːrin.
+\mb asatkan -jEkEn mụčụ -RI -n(I)      hịakịta -K(Ag) -(dU)LE iː   -RI -n(I)
+\ge girl    -dim   return    -pst -poss.3sg tree        -nr    -loc    enter -pst -poss.3sg
+
+
+\id 058_Path_C_walk_into_cave_sideRL
+\ref
+\tx Kụŋakajakan          ịlačịddịdʒị              dʒọlakaγdu      nanda       urteki       iːn.
+\mb kụŋa -KEn     -jEkEn ịl     -E-Č   -E-D     -RIdʒI  dʒọl -K(Ag) -DU  ńaːn =DE  hur  -t(E)kI iː   -n(I)
+\ge child   -dim.int -dim   stand.up -ep-res -ep-prog -ant.cvb stone   -nr    -dat and    =ptl cave -all    enter -3sg
+
+
+\id 059_Path_C_run_into_sea_sideRL
+\ref
+\tx Kụŋakajakan          namtakị   ńọːŋčịn      muːtki.
+\mb kụŋa -KEn     -jEkEn nam -t(E)kI ńọːŋčị -n(I) moː  -t(E)kI
+\ge child   -dim.int -dim   sea -all    run            -3sg  water -all
+
+
+\id 060_Path_M_walk_out_cave_pass_walk_into_cave_side
+\ref
+\tx Bej awgịčụč        emnen             nan    dʒọlal      nọːd umekič  ịkụ.. ịlatta              nan    tar  urle
+\mb bej aw    -GIČ =(W)UttE em   -R(E) -n(I)  ńaːn dʒọl -E-L   nọːd umekič  ịkụt  ịl     -Č  -R(E)   ńaːn tar  hur  -(dU)LE
+\ge man where -elat =indef   come -nonfut -3sg and    stone   -ep-pl pretty  very     straight  stand.up -res -nonfut and    thus cave -loc
+
+\tx iːrin.
+\mb iː   -RI -n(I)
+\ge enter -pst -poss.3sg
+\ft
+
+\id 061_Path_F_walk_toward_tree_back
+\ref
+\tx Asatkajakan    mụčụn      ịakịtatki.
+\mb asatkan -jEkEn mụčụ -n(I) hịakịta -t(E)kI
+\ge girl    -dim   return    -3sg  tree        -all
+
+
+\id 062_Path_C_run_toward_stone_jump_on_stone_sideRL
+\ref
+\tx Kụŋakajakan          dʒọlakaγli         meluŋčin      dʒọltakị.
+\mb kụŋa -KEn     -jEkEn dʒọl -K(Ag) -(dU)LI meluŋči -n(I) dʒọl -t(E)kI
+\ge child   -dim.int -dim   stone   -nr    -prol   jump      -3sg  stone   -all
+
+
+\id 063_Path_C_run_toward_stone_jump_over_stone_front
+\ref
+\tx Kụŋakakakan          melumečidden                 dʒọlli.
+\mb kụŋa -KEn     -kEkEn melu -mEČ -D    -R(E) -n(I)  dʒọl -(dU)LI
+\ge child   -dim.int -dim   jump -rec  -prog -nonfut -3sg stone   -prol
+
+
+\id 064_Path_C_jump_from_cliff_into_water_sideLR
+\ref
+\tx Kụŋakakakan          kadarduk      ujinuk        esseki    namtakị   meluŋčin.
+\mb kụŋa -KEn     -kEkEn kadar -DUk(U) oj  -(I)nUk   esseki    nam -t(E)kI meluŋči -n(I)
+\ge child   -dim.int -dim   cliff -abl    top -advb.abl downwards sea -all    jump      -3sg
+
+
+\id 065_Path_C_walk_up_path_side_LR
+\ref
+\tx Kụŋakamkar          dʒuγarmali       ereger kadakčan   atlin                  gịrkan.
+\mb kụŋa -KEn     -mkEr dʒuγarma -(dU)LI ereger kadar -čEn hat  -(dU)LI -n(I)     gịrka -n(I)
+\ge child   -dim.int -aug  path       -prol   always cliff -dim  base -prol   -poss.3sg walk    -3sg
+
+\ft
+\ph
+\gr kadakčan = nebolshaja skala; *kadakkakan; mozhno skazatj kadakčakakan
+
+\id 066_Path_5_walk_toward_lake_across_road_back
+\ref
+\tx Tụnŋan bejel      asalnun         gịrkar     bụjgič    ọːtaranduli      ŋennidʒur       nan    ọkaːttakị   ewre.
+\mb tụnŋan bej -E-L   asị -L  -ńUn gịrka -r   bụj  -GIČ họtọran -(dU)LI ŋen -RIdʒI -L   ńaːn ọkaːt -t(E)kI ew      -R(E)
+\ge five      man -ep-pl woman -pl -com  walk    -3pl forest -elat road        -prol   go   -ant.cvb -pl and    river    -all    go.down -nonfut
+
+
+\id 067_Path_C_walk_down_path_front
+\ref
+\tx Kụŋakakakan          ukčiw      attatit       ụntala       gịrkan,     attatit       ọjla       gịrkan,
+\mb kụŋa -KEn     -kEkEn hokči -W   ač =DE  =tIt ụnta    -LE  gịrka -n(I) ač =DE  =tIt ọj    -LE  gịrka -n(I)
+\ge child   -dim.int -dim   hot    -acc neg =ptl =ptl fur.boots -prv walk    -3sg  neg =ptl =ptl clothes -prv walk    -3sg
+
+\tx awụskịwụč             urren.
+\mb aw    -E  -skI      =(W)UttE hor -R(E) -n(I)
+\ge where -ep -advb.all =indef   go  -nonfut -3sg
+
+\ft
+\ph she says attarit, but she means attatit "dazhe bez obuvi, sovsem bez obuvi"; ukčiw = po zhare
+
+\id 068_Path_M_walk_front_people_into_cave_back
+\ref
+\tx Dʒuːr bejel      i     asatkan ur   toldedun             ukčeneddeeː                 a     umen urkeːn  urteki
+\mb dʒoːr bej -E-L   i     asatkan hur  tolde -DU  -n(I)     ukčen -E-D     -R(E)   =eː  a.R   omen hurkeːn hur  -t(E)kI
+\ge two     man -ep-pl and.R girl    cave yard  -dat -poss.3sg tell   -ep-prog -nonfut =emph but.R one  boy      cave -all
+
+\tx iːrin.
+\mb iː   -RI -n(I)
+\ge enter -pst -poss.3sg
+
+
+\id 069_Path_F_walk_into_field_sideLR
+\ref
+\tx Asị awgịč    gịrkan      dʒuγarmaw     dawridʒi            nan    ịkụtịč    iːn        uŋteki.
+\mb asị aw    -GIČ gịrka -n(I) dʒuγarma -W   daw         -RIdʒI  ńaːn ịkụt -E-Č   iː   -n(I) uŋ       -t(E)kI
+\ge woman where -elat walk    -3sg  path       -acc cross.river -ant.cvb and    straight -ep-ins enter -3sg  something -all
+
+
+\id 070_Path_F_walk_up_stairs_front
+\ref
+\tx Asatkajakan    dʒuγarmali       ereger ejetkin                ọjčịn.
+\mb asatkan -jEkEn dʒuγarma -(dU)LI ereger heje -t(E)kI -n(I)     ọjčị -n(I)
+\ge girl    -dim   path       -prol   always peak -all    -poss.3sg go.up     -3sg
+
+
+\id 071_Path_F_walk_up_stairs_back
+\ref
+\tx Asatkajakan    dʒuγarmali       ọjčịn      nan    gịrkasnin                   awụskịwụč             dʒulepki.
+\mb asatkan -jEkEn dʒuγarma -(dU)LI ọjčị -n(I) ńaːn gịrka -s(E)n -RI -n(I)      aw    -E  -skI      =(W)UttE dʒulepki
+\ge girl    -dim   path       -prol   go.up     -3sg  and    walk    -lim   -pst -poss.3sg where -ep -advb.all =indef   ahead
+
+
+\id 072_Path_M_jump_over_tronc_back
+\ref
+\tx Bejkeken   ńọːŋčịrin             mọː ojlin                 meluŋčirin             ńọːnin.
+\mb bej -kEkEn ńọːŋčị -RI -n(I)      mọː oj  -(dU)LI -n(I)     meluŋči -RI -n(I)      ńọːn -RI -n(I)
+\ge man -dim   run            -pst -poss.3sg tree   top -prol   -poss.3sg jump      -pst -poss.3sg run.away -pst -poss.3sg
+
+
+\id 073_Path_F_walk_down_to_lake_back
+\ref
+\tx Asatkan dʒuγarmali       ewrin                  nan    muːtki,      toŋeːrteki.
+\mb asatkan dʒuγarma -(dU)LI ew      -RI -n(I)      ńaːn moː  -t(E)kI toŋeːr -t(E)kI
+\ge girl    path       -prol   go.down -pst -poss.3sg and    water -all    lake     -all
+
+
+\id 074_Path_F_walk_up_from_lake_front
+\ref
+\tx Asatkakakan    muːduk       ọjčịddan                ejetkin.
+\mb asatkan -kEkEn moː  -DUk(U) ọjčị -D    -R(E) -n(I)  heje -t(E)kI -n(I)
+\ge girl    -dim   water -abl    go.up     -prog -nonfut -3sg peak -all    -poss.3sg
+\ft
+\ph
+\gr ejetkin = naverx, (even though I twice asked if it meant bukvalno "k ego vershine" and she said yes, she then said ejetkin 'naverx'), and it's correct like this, one
+doesn't need to have a dependent noun whose peak it is
+
+\id 075_Path_C_jump_from_rock_to_rock_side
+\ref
+\tx Kụŋakakakan          nam uridun              dʒọlalduli          melumečidden.
+\mb kụŋa -KEn     -kEkEn nam holi -DU  -n(I)     dʒọl -E-L   -(dU)LI melu -mEČ -D    -R(E) -n(I)
+\ge child   -dim.int -dim   sea edge -dat -poss.3sg stone   -ep-pl -prol   jump -rec  -prog -nonfut -3sg
+\ft
+\nt I'm assuming she meant to say nam ulidun
+
+\id 076_Path_C_walk_down_rock_front
+\ref
+\tx Kụŋakakakan          dʒọlakaγli         dʒụlakkan   gịrkan      ewedden.
+\mb kụŋa -KEn     -kEkEn dʒọl -K(Ag) -(dU)LI dʒụːlakkan gịrka -n(I) ew      -E-D     -R(E) -n(I)
+\ge child   -dim.int -dim   stone   -nr    -prol   naked          walk    -3sg  go.down -ep-prog -nonfut -3sg

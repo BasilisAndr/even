@@ -1,0 +1,228 @@
+\_sh v3.0  968  Text
+
+\id Suzopova_Olja_eveny_Tompo_000_metadata
+\ref Recorded on 24 March 2010 in Sebjan-Küöl by Natalia Aralova. This session was recorded in the flat rented by NA and
+BP in Sebjan. OS came with her friend who also speaks a little bit Even, but didn't tell anything for the Archive, she was
+presented just for the support. This is the second story of this session. 
+\qu In 2012, transcribed by Brigitte Pakendorf, transcription checked and Russian translation by Ija Vasil'evna Krivoshapkina,
+glossing by BP. Funding by the Volkswagen Foundation (DoBeS grant). Speaker abbreviation = OS
+\ref Olja Suzopova was a 16- or 17-year old schoolgirl at the time of recording, the granddaughter of Faina Nikolaevna
+Stepanova (of whom unglossed recordings exist).
+
+\id Suzopova_Olja_eveny_Tompo_001
+\tx clap
+\ru
+\ELANBegin 00:00:00.010
+\ELANEnd 00:00:02.430
+\ELANParticipant
+
+\id Suzopova_Olja_eveny_Tompo_002
+\tx Kọratla      bietniken           biː Tompo kụŋalban                ittiw.
+\mb gorod  -(dU)LE bi -WEːČ -nIkEn   biː Tompo kụŋa -L  -W   -n(I)     it  -RI -W
+\ge town.R -loc    be -gnr    -sim.cvb 1sg  Tompo child   -pl -acc -poss.3sg see -pst -poss.1sg
+\ft When I was in town I saw children from Tompo.
+\ru В городе побывав увидела детишек из Томпо.
+\ELANBegin 00:00:02.430
+\ELANEnd 00:00:06.450
+\ELANParticipant
+
+\id Suzopova_Olja_eveny_Tompo_003
+\tx Nọŋartan ebedi      ọjalkan         bihitnen.
+\mb nọŋartan ewen -DI   ọj    -E  -lkEn bi -RI -tEn
+\ge 3pl         Even -adjr clothes -ep -prop be -pst -poss.3pl
+\ft They were wearing Even clothes.
+\ru Они в эвенской одежде были.
+\ELANBegin 00:00:06.450
+\ELANEnd 00:00:09.480
+\ELANParticipant
+
+\id Suzopova_Olja_eveny_Tompo_004
+\tx Tala          biː, taralbụ     ittidʒi     ebedit          ulgimiriw,                   er   ọj
+\mb tarak -(dU)LE biː  tarak -L-W    it  -RIdʒI  ewen -DI   -Č  ulgim -i      -RI -W         erek ọj
+\ge dist  -loc    1sg   dist  -pl-acc see -ant.cvb Even -adjr -ins ask   -ipf??? -pst -poss.1sg prox clothes
+
+\tx iduku         ọːča      goːniken.
+\mb irek  -DUk(U) ọː -čE    goːn -nIkEn
+\ge which -abl    make  -pf.ptc say   -sim.cvb
+\ft When I saw them I asked in Even, "these clothes, what are they made of?".
+\ph
+\gr should be iduk ọːpča, used incorrect verb form
+\ru Там я увидев их, я у них спросила, из чего сделана одежда.
+\ELANBegin 00:00:09.480
+\ELANEnd 00:00:16.350
+\ELANParticipant
+
+\id Suzopova_Olja_eveny_Tompo_005
+\tx Nọŋartan minteki         ikkere     ikkere,    delbi  ikkere     tarịt ịawda         ehni..
+\mb nọŋartan min     -t(E)kI it  -Gr(E) it  -Gr(E) delbi  it  -Gr(E) tarịt ịak -W   =DE  e -R(E) -n(I)
+\ge 3pl         1sg.obl -all    see -hab   see -hab   very.Y see -hab   then    what  -acc =ptl neg -nfut -3sg
+
+\tx es.. este        goːne.
+\mb es   e   -R(E)   goːn -R
+\ge no.Y neg -nonfut say   -neg.cvb
+\ft They looked and looked at me, and then didn't say anything.
+\gr should be kojeːt- and should be kojeːttidʒur rather than a finite verb
+\nt
+\gr 270312: ikkere ikkere = oni na menja smotrjat smotraj
+\nt
+\ru Они на меня смотрели смотрели, очень смотрели, затем ничего не сказали.
+\ELANBegin 00:00:16.350
+\ELANEnd 00:00:23.010
+\ELANParticipant
+
+\id Suzopova_Olja_eveny_Tompo_006
+\tx Tarịt biː emie   ịaram              ulgimirem.
+\mb tarịt biː emie   ịa    -R(E) -m     ulgim -i      -R(E) -m
+\ge then    1sg  also.Y do.what -nonfut -1sg ask   -ipf??? -nonfut -1sg
+\ft Then I again asked.
+\ru Затем я опять спросила.
+\ELANBegin 00:00:23.010
+\ELANEnd 00:00:26.570
+\ELANParticipant
+
+\id Suzopova_Olja_eveny_Tompo_007
+\tx Er   ọj    ebe  ebedit,         ebe  eben ọjọn             doː goːniken
+\mb erek ọj    ewen ewen -DI   -Č  ewen ewen ọj    -E-n(I)      duo  goːn -nIkEn
+\ge prox clothes Even Even -adjr -ins Even Even clothes -ep-poss.3sg q.Y  say   -sim.cvb
+
+\tx ulgimirem.
+\mb ulgim -i      -R(E) -m
+\ge ask   -ipf??? -nonfut -1sg
+\ft "Are these Even clothes?", I ask.
+\ru Эта одежда эвенская говоря спрашиваю
+\ELANBegin 00:00:26.570
+\ELANEnd 00:00:31.200
+\ELANParticipant
+
+\id Suzopova_Olja_eveny_Tompo_008
+\tx Nọŋartan minteki         emie   ikkere,    tarịt goːngere:   mut    ebedit          ehep
+\mb nọŋartan min     -t(E)kI emie   it  -Gr(E) tarịt goːn -Gr(E) mut    ewen -DI   -Č  e   -R(E) -p
+\ge 3pl         1sg.obl -all    also.Y see -hab   then    say   -hab   1pl.in Even -adjr -ins neg -nonfut -1pl.in
+
+\tx haːra        goːngere.
+\mb haː -R       goːn -Gr(E)
+\ge know -neg.cvb say   -hab
+\ft The look at me again, then they say "we don't know Even", they say.
+\ru Они на меня опять смотрят, затем говорят мы по-эвенски не знаем, говорят
+\ELANBegin 00:00:31.200
+\ELANEnd 00:00:36.100
+\ELANParticipant
+
+\id Suzopova_Olja_eveny_Tompo_009
+\tx Tarịt bọlla      biː saxa    toren,    eh, ịat      ńọxadịt       ulgimirem:
+\mb tarịt buollaγïna biː saxa    tore  -n  eh  ịak -Č  ńọka -DI   -Č  ulgim -i      -R(E) -m
+\ge then    dp.Y         1sg  Sakha.Y speak -nr eh  what  -ins Sakha   -adjr -ins ask   -ipf??? -nonfut -1sg
+\ft Then I asked in Sakha.
+\ru Затем я по-якутски спросила
+\ELANBegin 00:00:36.100
+\ELANEnd 00:00:46.350
+\ELANParticipant
+
+\id Suzopova_Olja_eveny_Tompo_010
+\tx Nọŋartan emie   ikkere     ikkere     tarịt emie   goːngere:   mut    ńọxadịt
+\mb nọŋartan emie   it  -Gr(E) it  -Gr(E) tarịt emie   goːn -Gr(E) mut    ńọka -DI   -Č
+\ge 3pl         also.Y see -hab   see -hab   then    also.Y say   -hab   1pl.in Sakha   -adjr -ins
+
+\tx ehep                öjdöːr           goːngere
+\mb e   -R(E) -p        öjdöː   -R       goːn -Gr(E)
+\ge neg -nonfut -1pl.in remember.Y -neg.cvb say   -hab
+\ft They again looked and looked and then again said: "We don't understand Sakha", they said.
+\ru Они опять смотрели смотрели затем опять говорят, мы по-якутски не знаем.
+\ELANBegin 00:00:46.350
+\ELANEnd 00:00:51.840
+\ELANParticipant
+
+\id Suzopova_Olja_eveny_Tompo_011
+\tx Tarịt biː ịat      ulgimirem,                 ńụčịdịt     ulgimirem:
+\mb tarịt biː ịak -Č  ulgim -i      -R(E) -m     ńụča -DI   -Č  ulgim -i      -R(E) -m
+\ge then    1sg  what  -ins ask   -ipf??? -nonfut -1sg Russian  -adjr -ins ask   -ipf??? -nonfut -1sg
+\ft Then I asked in Russian.
+\ru Затем я по-русски спросила
+\ELANBegin 00:00:51.840
+\ELANEnd 00:00:57.240
+\ELANParticipant
+
+\id Suzopova_Olja_eveny_Tompo_012
+\tx Nọŋartan ịan           ńụčịdịt     torere.
+\mb nọŋartan ịak -n(I)     ńụča -DI   -Č  tore  -R(E)
+\ge 3pl         what  -poss.3sg Russian  -adjr -ins speak -nonfut
+\ft Thy said in Russian
+\ph
+\gr ịan has no meaning here, it's not even a hesitative, so it does show any "concordance" with any of the other words, it's just
+a word she inserts, like "ehm"
+\ru Они по-русски сказали
+\ELANBegin 00:00:57.240
+\ELANEnd 00:00:59.180
+\ELANParticipant
+
+\id Suzopova_Olja_eveny_Tompo_013
+\tx Mut    ńụčịdịt     tore... tore... torewrep             goːngere,   ebedit          ńan
+\mb mut    ńụča -DI   -Č  tore    tore    tore  -Gr(E) -p      goːn -Gr(E) ewen -DI   -Č  ńaːn
+\ge 1pl.in Russian  -adjr -ins speak   speak   speak -hab   -1pl.in say   -hab   Even -adjr -ins and
+
+\tx ńọxadịt       ehep                haːra        goːngerer.
+\mb ńọka -DI   -Č  e   -R(E) -p        haː -R       goːn -Gr(E) -r
+\ge Sakha   -adjr -ins neg -nonfut -1pl.in know -neg.cvb say   -hab   -3pl
+\ft "We speak Russian", they said, "we don't know Even or Sakha", the said.
+\ph says ehem instead of ehep
+\ru Мы по-русски говорим, по-эвенски и по-якутски не знаем
+\ELANBegin 00:00:59.180
+\ELANEnd 00:01:05.990
+\ELANParticipant
+
+\id Suzopova_Olja_eveny_Tompo_014
+\tx Nọŋartan bọllaːna  ebedi      ọjalkahal           daγanị ńụčịdịt     nahaː ịbgat
+\mb nọŋartan buollaγïna ewen -DI   ọj    -E-lkEn  -SEl daγanï  ńụča -DI   -Č  nahaː ịbgọ -Č
+\ge 3pl         dp.Y         Even -adjr clothes -ep-prop -pl  even.Y    Russian  -adjr -ins very.Y good     -ins
+
+\tx torewrer
+\mb tore  -Gr(E) -r
+\ge speak -hab   -3pl
+\ft Even though they wore Even clothes they spoke Russian very well.
+\ph
+\gr "even though" - the Even construction would be "ebedi ọjalkahalda, "... they speak Russian very well
+\ru Хотя них эвенская одежда по-русски очень хорошо говорят.
+\ELANBegin 00:01:05.990
+\ELANEnd 00:01:13.140
+\ELANParticipant
+
+\id Suzopova_Olja_eveny_Tompo_015
+\tx ńan   daγanị heːdʒew     heːdʒengere    heːdʒew     heːdʒengereńun       hataːra       ebit,
+\mb ńaːn daγanï  heːdʒe -W   heːdʒen -Gr(E) heːdʒe -W   heːdʒen -Gr(E) =ńUn  hataː -R(E)   ebit
+\ge and    even.Y    hedje    -acc dance     -hab   hedje    -acc dance     -hab   =restr know.Y -nonfut it.seems.Y
+
+\tx nọŋartan.
+\mb nọŋartan
+\ge 3pl
+\ft and they also know how to dance the hedje.
+\ph
+\gr heːdʒew heːdʒenniwurńun hataːra = this would be the correct way to say it
+\ru но умеют только хэдже танцевать (2703, ИВК) и тоже хорошо танцуют
+\ELANBegin 00:01:13.140
+\ELANEnd 00:01:19.572
+\ELANParticipant
+
+\id Suzopova_Olja_eveny_Tompo_016
+\tx Tarịt tar.
+\mb tarịt tarak
+\ge then    dist
+
+\ru
+\ELANBegin 00:01:19.572
+\ELANEnd 00:01:20.976
+\ELANParticipant
+
+\id Suzopova_Olja_eveny_Tompo_017
+\tx Ọddọn.
+\mb ọd -R(E) -n(I)
+\ge stop -nonfut -3sg
+
+\ru
+\ELANBegin 00:01:20.976
+\ELANEnd 00:01:22.488
+\ELANParticipant 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/Brigitte Pakendorf/My Documents/Even
+project/Sebjan_2010_fielddata/sound_files/natashas_recordings/Suzopova_Olja_eveny_Tompo_240310_Sebjan.wav
+\ELANMediaMIME audio/x-wav
