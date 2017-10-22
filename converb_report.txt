@@ -1,0 +1,27 @@
+Number of sentences in corpora:
+	Sebjan: 7947
+	Kamchatka: 5478
+
+Average length of a sentence:
+	Sebjan: 6.27
+	Kamchatka: 5.98
+
+Average number of converbs in a sentence:
+	Sebjan: 0.49
+	Kamchatka: 0.28
+
+Average number of verbs in a sentence:
+	Sebjan: 1.37
+	Kamchatka: 1.55
+
+Average number of conj in a sentence:
+	Sebjan: 0.03
+	Kamchatka: 0.08
+
+Share of polipredicative sentences:
+	Sebjan: 0.36
+	Kamchatka: 0.43
+
+Share of v+cvb sentences:
+	Sebjan: 0.27
+	Kamchatka: 0.21
