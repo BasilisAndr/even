@@ -404,7 +404,7 @@ is not a single Even word here.
 
 \tx kokejdegediː,                      kọːr   gerbe.
 \mb koke -j    -dEg      -E     =diː    kọːr      gerbe
-\ps v                                   n         n    
+\ps v                                   n         n     
 \ge die  -conn -assert.Y -3sg.Y =emph.Y measles.R name 
 
 \ft My mother caught a cough and died, right, it's called the measles.
@@ -483,7 +483,7 @@ like I wrote it, possibly with the particle - that's not clear, because EKK pitc
 
 \tx ọmŋọjdọgịmdiː.
 \mb ọmŋa   -j    -dEg      -Im    =diː   
-\ps v                                    
+\ps v                                     
 \ge forget -conn -assert.Y -1sg.Y =emph.Y
 
 \ft But the time when I was a child I don't know very well, I forgot, right.
@@ -788,7 +788,7 @@ Sakha as "hïjjïbïtïm ebite buollar"
 \ref 6:02; AEK
 \tx Dʒebemniken           gịrkačajdaγịmdiː.
 \mb dʒeb -E  -m   -nIkEn   gịrka -Č   -E  -j    -dEg      -Im    =diː   
-\ps v                      v                                            
+\ps v                      v                                             
 \ge eat  -ep -des -sim.cvb walk  -res -ep -conn -assert.Y -1sg.Y =emph.Y
 
 \ft I walked hungry, right.
@@ -1350,7 +1350,7 @@ can make it out. But it doesn't appear to be important.
 \ref 10:10; AEK
 \tx Ele          emnidʒi      ńan   gọlụ      kaltakkararam.
 \mb erek -(dU)LE em   -RIdʒI   ńaːn  gọl      -W   kaltak -Gr(E) -R(E)   -m  
-\ps pron         v             ?     n             v                         
+\ps pron         n             ?     n             v                          
 \ge prox -loc    come -ant.cvb again firewood -acc split  -hab   -nonfut -1sg
 
 \ft And having come here I chop wood.

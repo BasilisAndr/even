@@ -79,7 +79,7 @@ early and her father was Russian.
 \id Kucherenko_NM_granny_songs_ 007
 \tx Tala          minŋi             ọːja  bišiten          gịakị... eniŋe      Evdokija Romanovna, unet... goːweː...   ńụčịdịč
 \mb tarak -(dU)LE min     -ŋI        họːja bi -RI  -tEn      gịakị   eniŋeː      Evdokija Romanovna unet  goːn -WEːČ ńụča    -DI   -Č  
-\ps pron          pron               quant v                 pron    n           ?        ?         adv   v          n                 
+\ps pron          n               quant v                 pron    n           ?        ?         adv   v          n                  
 \ge dist  -loc    1sg.obl -pred.poss many  be -pst -poss.3pl various grandmother Eudoxia  Romanovna still say  -gnr  Russian -adjr -ins
 
 \tx goːweːtte           Baba     Dunja.
@@ -274,7 +274,7 @@ early and her father was Russian.
 
 \tx teːrenu       gurgeːwčiddem                ele,         mut    upkučekla,          anawgajimŋal.
 \mb teːrenu        gurgeːwči -D    -R(E)   -m   erek -(dU)LE mut    hupkut -ČEk -(dU)LE Anawgaj -mŋE -L 
-\ps adv            v                            pron         pron   v                   n               
+\ps adv            v                            pron         pron   n                   n                 
 \ge till.that.time work      -prog -nonfut -1sg prox -loc    1pl.in learn  -nr  -loc    Anavgai -nr  -pl
 
 \ft There I studied and I became a teacher, Russian language and literature, and I work here until this day, in our Anavgai school.
@@ -292,7 +292,7 @@ as an adjectivizer: прилагательные, указывающие мес�
 \id Kucherenko_NM_granny_songs_ 033
 \tx Nan    bide      ele          etikeŋŋeji                  bakriwu,            gerben          Čandr,   min     etikeːn.
 \mb ńaːn biː =DE  erek -(dU)LE etikeːn -ŋ   -GE    -J       bak  -RI  -W        gerbe -n(I)     Aleksandr min     etikeːn
-\ps adv  pron     pron         n                            v                   n               ?         pron    n      
+\ps adv  pron     pron         n                            n                   n               ?         pron    n       
 \ge and  1sg =ptl prox -loc    old.man -aln -desig -prfl.sg find -pst -poss.1sg name  -poss.3sg Alexander 1sg.obl old.man
 
 \ft And I found myself a husband here, his name is Chandr, my husband.
@@ -401,7 +401,7 @@ as an adjectivizer: прилагательные, указывающие мес�
 \id Kucherenko_NM_granny_songs_ 044
 \tx Nan    kụŋa minŋi             binni,           min     kọːkačaŋụ              Rodion.
 \mb ńaːn kụŋa  min     -ŋI        bi -R(E)   -n(I) min     kọːka -čEn -ŋ   -W        Rodion
-\ps adv  n     pron               v                pron    n                         ?     
+\ps n  n     pron               v                pron    n                         ?      
 \ge and  child 1sg.obl -pred.poss be -nonfut -3sg  1sg.obl boy   -dim -aln -poss.1sg Rodion
 
 \ft And I have a child, my little boy, Rodion.
@@ -1554,7 +1554,7 @@ like goːn-, so the correct converb should be agdaniʤi - so I won't gloss it he
 \id Kucherenko_NM_granny_songs_ 148
 \tx Tarme, ọːnkana    goːweːtte,          literaturnyj, tarak ekič... a     buːkke     bystrinskijelde.
 \mb tarma ọːn =kEnE  goːn -WEːČ -R(E)   literaturnyj tarak ekič a.R   buː    =kkE bystrinskije  -L  =DE 
-\ps conj  pron       v                  adj          pron  ?    ?     pron        adj                   
+\ps n  pron       v                  adj          pron  ?    ?     pron        adj                    
 \ge but   how =contr say  -gnr  -nonfut standard.m.R dist  very but.R 1pl.ex =ptl Bystraja.pl.R -pl =ptl
 
 \ft But, how does one say it, (they teach) the standard (language), that is very (different), and we are Bystraians, right.

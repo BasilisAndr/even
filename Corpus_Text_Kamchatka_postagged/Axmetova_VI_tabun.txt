@@ -57,7 +57,7 @@ really grown out yet in summer, and then big hard bushes damages the skin there 
 \ref 18:07
 \tx I     tadụ     ịlamda         atkịkam      ịlatčọːtta.
 \mb i     tarak -DU  ịlan  -W   =DE  atkịkan -W   ịl       -E  -Č   -WEːČ -R(E)  
-\ps conj  pron       num             n            v                              
+\ps conj  n       num             n            v                               
 \ge and.R dist  -dat three -acc =ptl moon    -acc stand.up -ep -res -gnr  -nonfut
 
 \ft And there they stand 3 months.

@@ -585,7 +585,7 @@ his sons, not to any two boys
 \id Krivoshapkin_SP_oxota_048
 \tx Ọrọlčịwran          tačịn       irildu,     tar   bọlọnị ọːčalan
 \mb ọrọlčị        -Gr(E) -n(I) tarọːčịn  ireli  -DU  tarak bọlọnị      ọː     -čE     -(dU)LE -n(I)    
-\ps v                          pron      n           pron  n           v                               
+\ps n                          pron      n           pron  n           v                                
 \ge herd.reindeer -hab   -3sg  dist.qual summer -dat dist  late.autumn become -pf.ptc -loc    -poss.3sg
 
 \tx ọrọlbị                   hepkuridʒi     bujusnemi                    hergeren.
@@ -1153,7 +1153,7 @@ here, not realizing that he'd spoken about him.
 \id Krivoshapkin_SP_oxota_096
 \tx Ee.
 \mb ee
-\ps interj
+\ps interj 
 \ge eh
 
 \ru
@@ -1357,7 +1357,7 @@ nọŋńụnnị; but people say all these forms.
 
 \tx ụjamkan      nandadụkụn.
 \mb ụjamkan        nanra -DUk(U) -n(I)    
-\ps n              n                      
+\ps n              n                       
 \ge mountain.sheep hide  -abl    -poss.3sg
 
 \ft For the legs (it is made) from the fur from elks' legs, while this (the coat) is made of mountain sheep fur.
@@ -1560,7 +1560,7 @@ nọŋńụnnị; but people say all these forms.
 \id Krivoshapkin_SP_oxota_131
 \tx Digen ịak čụm ahị ịawrar,           dʒeblew       iriwrer.
 \mb digen ịak  čum    asị   ịa      -Gr(E) -r   dʒep -LE -W   iri  -Gr(E) -r  
-\ps num   pron n      n     v                   v             v               
+\ps num   pron n      n     n                   v             v                
 \ge four  what yurt.R woman do.what -hab   -3pl eat  -nr -acc cook -hab   -3pl
 \ft Four yurt workers make food.
 \ru Четыре чумработниц что-то делают, готовят еду.
@@ -1571,7 +1571,7 @@ nọŋńụnnị; but people say all these forms.
 \id Krivoshapkin_SP_oxota_132
 \tx Ah, ịlan čumrabotnitsaj, digen ọrọlčịmŋal?
 \mb ah ịlan  čumrabotnica  digen ọrọlčị        -mŋE  -L 
-\ps interj num   n             num   v                      
+\ps interj num   n             num   v                       
 \ge ah three yurt.worker.R four  herd.reindeer -agnr -pl
 \ft Ah, three yurt workers, four reindeer herders? 
 \ph
@@ -1586,7 +1586,7 @@ nọŋńụnnị; but people say all these forms.
 \id Krivoshapkin_SP_oxota_133
 \tx Nadan ọrọlčịmŋa
 \mb nadan ọrọlčị        -mŋE 
-\ps num   v                  
+\ps num   v                   
 \ge seven herd.reindeer -agnr
 \ft Seven reindeer herders.
 \ru
@@ -1605,7 +1605,7 @@ nọŋńụnnị; but people say all these forms.
 \id Krivoshapkin_SP_oxota_135
 \tx Omen?
 \mb omen
-\ps num 
+\ps num  
 \ge one 
 
 \ru
@@ -1839,7 +1839,7 @@ nọŋńụnnị; but people say all these forms.
 \id Krivoshapkin_SP_oxota_157
 \tx emdʒir,        emdʒir
 \mb em   -DʒI -r   em   -DʒI -r  
-\ps v              v             
+\ps v              n              
 \ge come -fut -3pl come -fut -3pl
 \ft Will come, will come.
 \ru
@@ -2527,7 +2527,7 @@ edy golodaet = bej at dʒeblele dʒebemgeren
 \id Krivoshapkin_SP_oxota_218
 \tx ah, kilieb
 \mb ah xleb   
-\ps interj n      
+\ps interj n       
 \ge ah bread.R
 
 \ru
@@ -2773,7 +2773,7 @@ as it was previously transcribed, with 2SG
 
 \tx tiːke ele,         mandarin     kọrkan         bihnihni,               taraw.
 \mb tiek erek -(dU)LE mandarin     korka  -n(I)     bi -R(E)   -n(I) =hni    tarak -W  
-\ps adv  pron         n            n                v                        pron      
+\ps adv  pron         n            n                v                        pron       
 \ge now  prox -loc    clementine.R peel.R -poss.3sg be -nonfut -3sg  =affirm dist  -acc
 
 \ft And nowadays hunter put what, it's appeared here now, clementine peel.
@@ -3149,7 +3149,7 @@ as it was previously transcribed, with 2SG
 \id Krivoshapkin_SP_oxota_270
 \tx Ńan   ịak ịadụk     ulujmi             bọllaγïna, ịak obmoroženie, abịga
 \mb ńaːn ịak  ịak  -DUk(U) ülüj     -mI       buollaγïna ịak  obmoroženie abaga      
-\ps adv  pron pron         v                  ptl        pron n           n          
+\ps adv  n pron         v                  ptl        pron n           n           
 \ge and  what what -abl    freeze.Y -cond.cvb dp.Y       what frostbite.R grandfather
 
 \tx ịan...

@@ -76,7 +76,7 @@ in the old people's home. She is married to a Russian. She is the sister of Rais
 
 \tx bišin.
 \mb bi -RI  -n(I)    
-\ps v                
+\ps v                 
 \ge be -pst -poss.3sg
 
 \ft My father Maksim Xristoforovich Solodikov was a smith all his life.
@@ -110,7 +110,7 @@ in the old people's home. She is married to a Russian. She is the sister of Rais
 \ref
 \tx Baldụnni             meːnken       ịrkam       tawačiddʒoːttan,                tọγla      uŋnidʒi    ečin,
 \mb baldụn       -n(I)     meːn -KEn     hịrkan -W   tawači -D    -WEːČ -R(E)   -n(I) tọg  -(dU)LE uŋ -RIdʒI   erroːčin 
-\ps adv                    pron          n           v                                n            v           pron     
+\ps adv                    pron          n           v                                n            v           pron      
 \ge all.the.time -poss.3sg refl -dim.int knife  -acc forge  -prog -gnr  -nonfut -3sg  fire -loc    do -ant.cvb prox.qual
 
 \tx ọːnkana,   ịallawịː      tọγu    duruččoːtten.
@@ -173,7 +173,7 @@ in the old people's home. She is married to a Russian. She is the sister of Rais
 \ref
 \tx Ńan   ońeweːtte            ušič    mọːt(ki).
 \mb ńaːn oːńe   -WEːČ -R(E)   usi  -Č   mọː  -t(E)kI
-\ps adv  v                    n         n           
+\ps n  v                    n         n            
 \ge and  tie.up -gnr  -nonfut rope -ins tree -all   
 \ft And they tied (these) to wooden poles with rope.
 \nt
@@ -333,7 +333,7 @@ themselves.
 \ref
 \tx Ńanaši     bi   kučuken bimi         uŋeddiwu,                  ebdʒelliwu                   tačịn
 \mb ńaːn =sI   biː kočuken bi -mI       uŋ -E  -D    -RI  -W        hebdʒen -L    -RI  -W        tarrọːčịn
-\ps adv        pron adj     v            v                           v                            pron     
+\ps adv        n adj     v            v                           v                            pron      
 \ge and  =emph 1sg small   be -cond.cvb do -ep -prog -pst -poss.1sg funny   -inch -pst -poss.1sg dist.qual
 
 \tx tawačiddaji.
@@ -595,7 +595,7 @@ baγakriwu (wonder if the causative form emphasises the agent more...)
 \ref
 \tx Ečin      er,  ečin      egdʒen bišin.
 \mb erroːčin  erek erroːčin  egdʒen bi -RI  -n(I)    
-\ps pron      pron pron      adj    v                
+\ps pron      pron pron      adj    v                 
 \ge prox.qual prox prox.qual big    be -pst -poss.3sg
 \ft It was like this, big like this (shows how big - very big!).
 \ph
@@ -625,7 +625,7 @@ baγakriwu (wonder if the causative form emphasises the agent more...)
 \ref
 \tx Ńan   akmụ           kojeːčiddin,                  guːnni     "ńan  erek gid".
 \mb ńaːn akan   -W        kojeːt  -E  -D    -RI  -n(I)     goːn -n(I) ńaːn erek gid  
-\ps adv  n                v                                v          adv  pron n    
+\ps adv  n                v                                n          adv  pron n     
 \ge and  father -poss.1sg look.at -ep -prog -pst -poss.3sg say  -3sg  and  prox lance
 \ft And my father looked and said "Now that's a lance!".
 \ph
@@ -705,7 +705,7 @@ baγakriwu (wonder if the causative form emphasises the agent more...)
 \ref
 \tx Guːnni     "Tiːtel erroːčineč   maːwaːtta".
 \mb goːn -n(I) tiːtel   erroːčin  -Č   maː  -WEːČ -R(E)  
-\ps v          adv      pron           v                 
+\ps v          n      pron           v                  
 \ge say  -3sg  long.ago prox.qual -ins kill -gnr  -nonfut
 \ft He said "In the past they killed with these".
 \nt
@@ -1155,7 +1155,7 @@ questioning; erekem = azh, yet another particle
 \ref
 \tx Tiːtelke     biweːtten,             muzejladakka               binni,          biš...,   ittiš?
 \mb tiːtel   =kkE bi -WEːČ -R(E)   -n(I) muzej    -(dU)LE =DE  =kkE bi -R(E)   -n(I) bi -R(E)   it  -RI  -s(I)    
-\ps adv           v                      n                          v                v          v                 
+\ps adv           v                      n                          v                n          v                  
 \ge long.ago =ptl be -gnr  -nonfut -3sg  museum.R -loc    =ptl =ptl be -nonfut -3sg  be -nonfut see -pst -poss.2sg
 \ft In the past those were (people had those), in the museum there are some, did you see?
 \ph
@@ -1274,7 +1274,7 @@ orottidawurdatit = even stronger expression; glossing dawur as =dEwUl is not cor
 \ref
 \tx Aːnị  goːweːtte,          mun        aːnịlbun,                 naš  rod.
 \mb aːnị     goːn -WEːČ -R(E)   mun        aːnị     -E  -L  -WUn         naš   rod   
-\ps n        v                  ?          n                             pron  n     
+\ps n        v                  ?          n                             pron  n      
 \ge relative say  -gnr  -nonfut 1pl.ex.obl relative -ep -pl -poss.1pl.ex our.R clan.R
 \ft They say "ani", our relatives, our clan.
 \nt
@@ -1325,7 +1325,7 @@ orottidawurdatit = even stronger expression; glossing dawur as =dEwUl is not cor
 
 \tx uŋ       tawačimŋal      bišiten.
 \mb uŋ        tawači -mŋE  -L  bi -RI  -tEn     
-\ps n         v                v                
+\ps n         v                v                 
 \ge something forge  -agnr -pl be -pst -poss.3pl
 
 \ft Yes, they say that the Solodikovs were smiths all the time.
@@ -1341,7 +1341,7 @@ orottidawurdatit = even stronger expression; glossing dawur as =dEwUl is not cor
 \ref
 \tx Goːweːttekke             ọːn, ọrọčịl     turkuttiten.
 \mb goːn -WEːČ -R(E)   =kkE ọːn ọrọč  -E  -L  turku       -Č   -RI  -tEn     
-\ps v                       pron n             v                              
+\ps v                       n n             v                               
 \ge say  -gnr  -nonfut =ptl how Oroch -ep -pl not.be.able -res -pst -poss.3pl
 \ft And they say, how, that Evens weren't able (to forge metal).
 \nt

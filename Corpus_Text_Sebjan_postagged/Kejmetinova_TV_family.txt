@@ -377,7 +377,7 @@ example somewhere of -U deriving an intransitive verb
 \ref 2:24
 \tx Irildu      ọːrọkọn                noːleːr
 \mb ireli  -DU  ọː     -REk      -E  -n(I)     noː             -(dU)LE -WUr    
-\ps n           v                              n                               
+\ps n           v                              n                                
 \ge summer -dat become -cond.cvb -ep -poss.3sg younger.sibling -loc    -prfl.pl
 
 \tx stadala        horgerep,          hotnemi,               ńan   haːdụn
@@ -999,7 +999,7 @@ fur, this one of ours also has short fur.
 \ref 5:10
 \tx Tar  [stammers] horridʒur       ịarịdʒụr      emgererep.
 \mb tar  stammers hor -RIdʒI   -L  ịa      -RIdʒI   -L  em   -Gr(E) -R(E)   -p     
-\ps adv  interj   v                v                    v                          
+\ps adv  interj   v                v                    n                           
 \ge thus stammers go  -ant.cvb -pl do.what -ant.cvb -pl come -hab   -nonfut -1pl.in
 
 \ft We go there and do something, then we come.
@@ -1023,7 +1023,7 @@ fur, this one of ours also has short fur.
 
 \tx ajaːwrap.
 \mb ajaːw -R(E)   -p     
-\ps v                    
+\ps v                     
 \ge love  -nonfut -1pl.in
 
 \ft It's good for a person's what, it's for breathing, and the taiga, going to the taiga, we love going

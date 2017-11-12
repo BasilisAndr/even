@@ -169,7 +169,7 @@ i.e. imperfective function of the resultative
 \id Solodikov_AA_tabun_2_011
 \tx Nan    esni              enuledde                        ịrkaŋnarịwụn,             nan    tadụk       munu
 \mb ńaːn e   -R(E)   -n(I) enu     -L    -E  -D    -R       ịrkaŋnị -RI      -W   -WUn         ńaːn tarak -DUk(U) mun        -W  
-\ps adv  v                 v                                v                                  adv  pron          n              
+\ps n  v                 v                                v                                  adv  pron          n               
 \ge and  neg -nonfut -3sg  suspect -inch -ep -prog -neg.cvb tease   -ipf.ptc -acc -poss.1pl.ex and  dist  -abl    1pl.ex.obl -acc
 
 \tx dʒargaladdanasị                           ịak nan    aːssịn.
@@ -574,7 +574,7 @@ least, that's what she said, it's difficult to make the context fully clear
 \id Solodikov_AA_tabun_2_036
 \tx Nan    dʒawrakụnda                         maːwụtan            egderrin.
 \mb ńaːn dʒaw       -REk      -WUn         =DE  maːwụt -E  -n(I)     hegder   -RI  -n(I)    
-\ps adv  v                                      n                    v                      
+\ps adv  v                                      n                    v                       
 \ge and  catch.hold -cond.cvb -poss.1pl.ex =ptl lasso  -ep -poss.3sg tear.off -pst -poss.3sg
 \ft When we caught, the lasso tore off.
 \gr 05.02.13 (questions11, 8:00) egderrin = 1 raz porvalsja, maːwụtụ egdellin = kto-to porval 1 raz;  egdekrin = egdemnin = kto-to narochno izorval;
@@ -620,12 +620,12 @@ listened and said he says dʒawasụ, povtorili lovitj; ụdanasị = potomu cht
 \id Solodikov_AA_tabun_2_039
 \tx Nan    ịamịka     ajịč      dʒawrịwụn               nan    temujom            ọːrị... temujomur
 \mb ńaːn ịamị =kE   aj   -E  -Č   dʒaw       -RI  -WUn         ńaːn temujo    -n  -W   ọː   -RI  temujo    -n  -WUr    
-\ps adv  pron       adj           v                            adv  v                  v         v                     
+\ps adv  pron       adj           n                            adv  v                  v         v                      
 \ge and  why  =emph good -ep -ins catch.hold -pst -poss.1pl.ex and  slaughter -nr -acc make -pst slaughter -nr -prfl.pl
 
 \tx igeddiwun.
 \mb hig  -E  -D    -RI  -WUn        
-\ps v                               
+\ps v                                
 \ge flay -ep -prog -pst -poss.1pl.ex
 
 \ft Then we caught well and flayed the slaughter.
@@ -669,7 +669,7 @@ listened and said he says dʒawasụ, povtorili lovitj; ụdanasị = potomu cht
 \id Solodikov_AA_tabun_2_043
 \tx I     tiːk er   tegečiddem                            ukčeneddem                  unnun.
 \mb i     tiek erek teg      -E  -Č   -E  -D    -R(E)   -m   ukčen -E  -D    -R(E)   -m   hun     -ńUn
-\ps conj  adv  pron v                                        v                            pron        
+\ps conj  adv  pron n                                        v                            pron         
 \ge and.R now  prox sit.down -ep -res -ep -prog -nonfut -1sg tell  -ep -prog -nonfut -1sg 2pl.obl -com
 
 \ft Now I'm sitting here and talking to you.

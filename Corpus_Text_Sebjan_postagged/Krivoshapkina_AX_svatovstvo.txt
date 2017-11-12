@@ -146,7 +146,7 @@ stojbiščem;  orinin = on vstal stojbiščem; orinči and orinčid - nearly the
 \id Krivoshapkina_AX_svatovstvo_009
 \tx Omenńun    hiehečen  ehni              bihe.
 \mb omen =ńUn   hiːsečin e   -R(E)   -n(I) bi -R      
-\ps num         n        v                 v          
+\ps num         n        v                 n           
 \ge one  =restr evening  neg -nonfut -3sg  be -neg.cvb
 
 \ft It was not only one evening('s worth of stories).
@@ -568,7 +568,7 @@ videt'; (02_quest_2010, 8:15) she actually said irel talal, but that is clearly 
 
 \tx ukčemmečedden                     ebit,      ńimeːr  ọːwkandaːr                  goːniken.
 \mb ukčen -mEČ -E  -D    -R(E)   -n(I) ebit       ńimer     ọː     -WkEn -DE       -WUr     goːn -nIkEn  
-\ps v                                  ptl        n         v                               v            
+\ps v                                  ptl        n         v                               v             
 \ge tell  -rec -ep -prog -nonfut -3sg  it.seems.Y neighbour become -caus -purp.cvb -prfl.pl say  -sim.cvb
 
 \ft The people of the house immediately understood that she is talking business, in order to make a family (i.e. she wanted to come to an
@@ -722,7 +722,7 @@ objazuešsja otdat'
 
 \tx goːniken      ukčemmekkerečel.
 \mb goːn -nIkEn   ukčen -mEČ -Gr(E) -čE     -L 
-\ps v             v                            
+\ps v             v                             
 \ge say  -sim.cvb tell  -rec -hab   -pf.ptc -pl
 
 \ft Then,, when so many summers have passed we will meet at the summer camp, they discussed.
@@ -1051,12 +1051,12 @@ distal demonstrative
 
 \tx čọːŋaːlkačak          goːniken      ńarịkačal              bọlla      akataw     garịdʒụr     nemketniken
 \mb čọːŋaːl          -kEČ  -ČEk goːn -nIkEn   ńarị -KEn     -čEn -L  buollaγïna akata -W   ga   -RIdʒI   -L  nemke -Č   -nIkEn  
-\ps n                           v             ?                      ptl        n          v                 v                  
+\ps n                           v             n                      ptl        n          v                 v                   
 \ge place.for.dishes -mult -nr  say  -sim.cvb man  -dim.int -dim -pl dp.Y       bow   -acc take -ant.cvb -pl shoot -res -sim.cvb
 
 \tx nemkečenteken           ewiwrečel.
 \mb nemke -Č   -E  -ntEkEn   ewiː -Gr(E) -čE     -L 
-\ps v                        v                      
+\ps n                        v                       
 \ge shoot -res -ep -mult.cvb play -hab   -pf.ptc -pl
 
 \ft Talking like that, old men and old women, old ones, young ones were not there, the young ones played outside, the girls played at house
@@ -1383,7 +1383,7 @@ taŋnịwụr ọddịdʒụr svetu hiːburit
 
 \tx dʒelgenkew     maːwran,         olikiw        họːjaw     maːwran,         goːnteken.
 \mb dʒelgenke -W   maː  -Gr(E) -n(I) oliki    -W   họːja -W   maː  -Gr(E) -n(I) goːn -ntEkEn  
-\ps n              v                 n             quant      v                 v             
+\ps n              v                 n             quant      n                 v              
 \ge animal    -acc kill -hab   -3sg  squirrel -acc many  -acc kill -hab   -3sg  say  -mult.cvb
 \ft Our son is like this, he is a good hunter, he has many reindeer, he kills lots of various animals, he hunts lots of squirrels.
 \ELANBegin 00:12:54.520
@@ -1420,7 +1420,7 @@ taŋnịwụr ọddịdʒụr svetu hiːburit
 
 \tx hịrrị,      eltiŋelbu             haŋannị,      bekebben                 haŋannị       [stammers]
 \mb hịr  -RI       eltiŋ      -E  -L  -W   haŋan -RI       bekeč -W   -E  -n(I)     haŋan -RI       stammers
-\ps v              n                       v               adv                      v               interj  
+\ps n              n                       v               adv                      v               interj   
 \ge milk -impf.ptc yurt.cover -ep -pl -acc sew   -impf.ptc all   -acc -ep -poss.3sg sew   -impf.ptc stammers
 
 \tx bekebben                 hataːwrača,         goːniken.
@@ -1638,7 +1638,7 @@ hedje).
 
 \tx tadụk       haːdʒịnnị.
 \mb tarak -DUk(U) haː  -DʒI -nrI
-\ps pron          v             
+\ps pron          v              
 \ge dist  -abl    know -fut -2sg
 \ft From that you learn how which hunter chases and kills wild reindeer.
 \ph
@@ -1748,7 +1748,7 @@ causative -WkEn plus resultative -Č
 \id Krivoshapkina_AX_svatovstvo_108
 \tx Tara.
 \mb tarak
-\ps pron 
+\ps pron  
 \ge dist 
 
 \ELANBegin 00:15:48.450
@@ -1853,7 +1853,7 @@ smaller groups, so they are easier to catch when they run away
 \id Krivoshapkina_AX_svatovstvo_115
 \tx Tačịn.
 \mb tarọːčịn 
-\ps pron     
+\ps pron      
 \ge dist.qual
 \ft Like that.
 \ELANBegin 00:16:23.600

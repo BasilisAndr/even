@@ -139,7 +139,7 @@ any real meaning
 \id Bochilikan_etiken_012
 \tx Tar  nọŋan "enńel     amịal
 \mb tar  nọŋan enen   -SEl aman   -SEl
-\ps adv  pron  n           n          
+\ps adv  pron  n           n           
 \ge thus 3sg   mother -pl  father -pl 
 
 \tx dʒụpkaŋịtnan          tụsankịčụ   gum  gum
@@ -149,7 +149,7 @@ any real meaning
 
 \tx gum" goːniken.
 \mb gum  goːn -nIkEn  
-\ps ptl  v            
+\ps ptl  n             
 \ge goom say  -sim.cvb
 
 \ft
@@ -270,7 +270,7 @@ the negative auxiliary
 
 \tx ọkaːtụ.
 \mb ọkaːt -W  
-\ps n         
+\ps n          
 \ge river -acc
 
 \ft The fox thought 'let me cross this river with the help of these fish'.
@@ -601,7 +601,7 @@ his bag.
 
 \tx bihni            taraw      bakran.
 \mb bi -R(E)   -n(I) tarak -W   bak  -R(E)   -n(I)
-\ps v                pron       v                 
+\ps v                pron       n                  
 \ge be -nonfut -3sg  dist  -acc find -nonfut -3sg 
 
 \ft There was the old man's food, and that (the fox) found.
@@ -673,7 +673,7 @@ possibly being the Generic suffix?
 
 \tx elekes   bakrịdʒị dʒebeddin
 \mb elekes   bak  -RIdʒI   dʒeb -E  -D    -RI       -n(I)    
-\ps ?        v             v                                 
+\ps ?        v             v                                  
 \ge at.first find -ant.cvb eat  -ep -prog -impf.ptc -poss.3sg
 
 \tx biče.
@@ -766,7 +766,7 @@ journey) he asked the fox:
 
 \tx dʒebedʒeːnnen,                mannan
 \mb dʒeb -E  -dʒEːn -R(E)   -n(I) man    -R(E)   -n(I)
-\ps v                             v                   
+\ps v                             v                    
 \ge eat  -ep -dur   -nonfut -3sg  finish -nonfut -3sg 
 
 \tx bekekkeːmen.
@@ -823,7 +823,7 @@ eats it all up.
 
 \tx goːndʒidden.
 \mb goːn -D    -R(E)   -n(I)
-\ps v                       
+\ps v                        
 \ge say  -prog -nonfut -3sg 
 
 \ft That means that (the fox) ate up all the food.
@@ -1006,7 +1006,7 @@ Bochilikan.
 
 \tx gennen,                itteken
 \mb gel      -nE     -n(I) it  -REk      -E  -n(I)    
-\ps v                      v                          
+\ps v                      v                           
 \ge look.for -intent -3sg  see -cond.cvb -ep -poss.3sg
 
 \tx heːrukčenni              kịŋgakụ, heːruk

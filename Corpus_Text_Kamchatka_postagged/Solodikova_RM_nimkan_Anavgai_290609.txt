@@ -41,7 +41,7 @@ librarian. She speaks Russian with her children. She is the sister of Rimma Maks
 \id Solodikova_RM_nimkan_004
 \tx Nọŋan isaγla              kusčiddʒoːtten                         ọrọlbi
 \mb nọŋan isa   -K(Ag) -(dU)LE kusči         -D    -WEːČ -R(E)   -n(I) ọrọn              -E  -L  -J      
-\ps pron  n                    v                                       n                                 
+\ps pron  n                    n                                       n                                  
 \ge 3sg   larch -coll  -loc    herd.reindeer -prog -gnr  -nonfut -3sg  domestic.reindeer -ep -pl -prfl.sg
 
 \ft He herded his reindeer in a larch forest.
@@ -78,7 +78,7 @@ librarian. She speaks Russian with her children. She is the sister of Rimma Maks
 \id Solodikova_RM_nimkan_007
 \tx Tarak atlan                 neγ...      nelke        irelče      bišin.
 \mb tarak at     -(dU)LE -n(I)     nelkeni      nelkeni      irel -čE     bi -RI  -n(I)    
-\ps pron  rel.n                    n            n            v            v                
+\ps pron  n                    n            n            v            v                 
 \ge dist  bottom -loc    -poss.3sg early.spring early.spring melt -pf.ptc be -pst -poss.3sg
 \ft At its base there was a thawed patch in early spring.
 \ev

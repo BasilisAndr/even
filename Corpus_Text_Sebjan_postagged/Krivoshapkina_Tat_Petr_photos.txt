@@ -67,7 +67,7 @@ lives with her younger sister (Emilia Petrovna Krivoshapkina) and that sister’
 \id Tatjana_Petrovna_photos_005
 \tx Ere  ču... ejmu             hatlan                 daːlịlatan              bihni
 \mb erek *   enen   -W        hat  -(dU)LE -n(I)     daːlị -(dU)LE -tEn      bi -R(E)   -n(I)
-\ps pron ?   n                rel                    rel.n                   v               
+\ps n ?   n                rel                    rel.n                   v                
 \ge prox *** mother -poss.1sg base -loc    -poss.3sg near  -loc    -poss.3pl be -nonfut -3sg 
 
 \tx ejmu             ere  ukčemmečedde.
@@ -262,7 +262,7 @@ to mean 'settlement, village' (cf. translation session Tat_Petr_family_photos 51
 
 \tx iridden                  ereldule         ele.
 \mb iri  -D    -R(E)   -n(I) erek -L  -(dU)LE erek -(dU)LE
-\ps v                        pron             pron        
+\ps v                        pron             pron         
 \ge cook -prog -nonfut -3sg  prox -pl -loc    prox -loc   
 
 \ft My poor mother cooked something, is cooking food for these (people).
@@ -1755,7 +1755,7 @@ carries the cradle.
 \id Tatjana_Petrovna_photos_146
 \tx Dʒe   erek erek starinnoe diː, erek.
 \mb dʒe    erek erek starinnoe diː   erek
-\ps ptl    pron pron adj       ptl   pron
+\ps n    pron pron adj       ptl   pron 
 \ge well.Y prox prox old.R     ptl.Y prox
 
 \ft This is really old, this.

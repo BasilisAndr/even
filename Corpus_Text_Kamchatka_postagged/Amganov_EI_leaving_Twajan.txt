@@ -339,7 +339,7 @@ byla odeta v teti, biː aːwanịč tetuttiwu = ja byl odet v šapke; (trans.fil
 \id Amganov_EI_leaving_Twajan_026
 \tx Karawaskakan      nọːdkakaneː      bisin,            tetičemu.
 \mb korova -s  -kEkEn nọːd   -kEkEn =eː   bi -RI  -n(I)     teti -čEn -W       
-\ps n                 adj                 v                 n                  
+\ps n                 adj                 v                 n                   
 \ge cow.R  -nr -dim   pretty -dim   =emph be -pst -poss.3sg coat -dim -poss.1sg
 
 \ft My cow-hide jacket was very pretty, my little coat.
@@ -357,7 +357,7 @@ when I said to RME that I hear tetičenu here did she realize that it was tetič
 \id Amganov_EI_leaving_Twajan_027
 \tx Ilewutte                fotografijada     binni,          sestrala         tala,         noːlewu
 \mb irek  -(dU)LE =(W)UttE fotografija  =DE  bi -R(E)   -n(I) sestra   -(dU)LE tarak -(dU)LE noː             -(dU)LE -W       
-\ps pron                   n                 v                n                pron          n                                
+\ps n                   n                 v                n                pron          n                                 
 \ge which -loc    =indef   photograph.R =ptl be -nonfut -3sg  sister.R -loc    dist  -loc    younger.sibling -loc    -poss.1sg
 
 \tx Ljudmilele.
@@ -433,7 +433,7 @@ bukeːttiddiwun = my eli golovki ryby; minu tilkukeniten bukeːttiddiwu = kak ja
 \id Amganov_EI_leaving_Twajan_031
 \tx Tarak, tarakam       - adịgụ    ńuŋengu   anŋanụ        bisine                - tilkukendiddeket[en].
 \mb tarak tarakam       adịː     =GU ńuŋen =GU anŋan -W        bi -RI  -n(I)     -E  tilku      -WkEn -D    -REk      -E  -tEn     
-\ps pron  adv           ?            num       n               v                     v                                             
+\ps pron  n           ?            num       n               v                     v                                              
 \ge dist  in.those.days how.much =q  six   =q  year  -poss.1sg be -pst -poss.3sg -ep shoot.intr -caus -prog -cond.cvb -ep -poss.3pl
 
 \ft I was then perhaps 6 years old, when we were photographed.
@@ -1445,7 +1445,7 @@ Amganov_Twajan_quest2, 36:00)
 \id Amganov_EI_leaving_Twajan_095
 \tx Tadụ     ukleriwun               nan    tịmịn  badịkar   avtọbụsamkaral     emniten.
 \mb tarak -DU  hukle -RI  -WUn         ńaːn tịmịna   badʒịkar avtobus -E  -mkEr -E  -L  em   -RI  -tEn     
-\ps pron       v                       adv  adv      n        n                         v                  
+\ps pron       v                       adv  n      n        n                         v                   
 \ge dist  -dat sleep -pst -poss.1pl.ex and  tomorrow morning  bus.R   -ep -aug  -ep -pl come -pst -poss.3pl
 
 \ft There we slept and in the morning big busses came.
@@ -2016,7 +2016,7 @@ they said in conversation, so I left the English translation like that.
 \id Amganov_EI_leaving_Twajan_131
 \tx Tarịt    nan    egdʒekeječ         mahịnač     ịrụwaːčịdʒịllịwụ                     bejelbe     Essoːtkị.
 \mb tarak -Č   ńaːn egdʒen -kEːjE -Č   mašịna -Č   ịr   -U    -WEːČ -E  -D    -E  -L    -RI  -W        bej -L  -W   Esso -t(E)kI
-\ps pron       adv  adj                n           v                                                   n            n           
+\ps n       adv  adj                n           v                                                   n            n            
 \ge dist  -ins and  big    -aug   -ins car.R  -ins cart -caus -gnr  -ep -prog -ep -inch -pst -poss.1sg man -pl -acc Esso -all   
 
 \ft Then I started transporting people to Esso with the big truck.

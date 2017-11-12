@@ -187,7 +187,7 @@ father of Ekaterina Afanas'evna Krivoshapkina
 \id stado#9_kochevka_017
 \tx Tala          uteːlkehel       bihep,             dʒoːr uteːlkehel       bihep.
 \mb tarak -(dU)LE uteːn -lkEn -SEl bi -R(E)   -p      dʒoːr uteːn -lkEn -SEl bi -R(E)   -p     
-\ps pron          n                v                  num   n                v                 
+\ps pron          n                v                  n   n                v                  
 \ge dist  -loc    hut   -prop -pl  be -nonfut -1pl.in two   hut   -prop -pl  be -nonfut -1pl.in
 \ft There we have huts, two huts.
 \ph bihop

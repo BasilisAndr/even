@@ -130,7 +130,7 @@ the second brother); but Sergej and Emilia live with her, so she probably named 
 
 \tx hupkuttiten.
 \mb hupkut -RI  -tEn     
-\ps v                    
+\ps n                     
 \ge learn  -pst -poss.3pl
 \ft My relatives (parents), my mother and father worked as reindeer herders for a very long time, taught their sons (to do) good, to work
 nicely.
@@ -241,7 +241,7 @@ pensions are small; pensioners who work receive both their pension and their sal
 \id Tatjana_Petrovna_family_016
 \tx Ńan....
 \mb ńaːn
-\ps adv 
+\ps adv  
 \ge and 
 
 \ELANBegin 00:01:58.960
@@ -270,12 +270,12 @@ pensions are small; pensioners who work receive both their pension and their sal
 
 \tx họː ukčemmetmi            naːda meːn toremur            ọdʒanịkan,   họːjač    dʒaːltŋịmụr          toreniken,     irew
 \mb họː  ukčen -mEČ -mI       nada   meːn tore  -n  -WUr     ọdʒa     -nIkEn   họːja -Č   dʒaː     -L  -ńUn -WUr     tore  -nIkEn   irek  -W  
-\ps adv  v                    v      pron v                  v                 quant      n                          v              pron      
+\ps adv  v                    n      pron v                  v                 quant      n                          v              pron       
 \ge very tell  -rec -cond.cvb need.R refl speak -nr -prfl.pl care.for -sim.cvb many  -ins relative -pl -com -prfl.pl speak -sim.cvb which -acc
 
 \tx taraw      haːldawụr...
 \mb tarak -W   haː  -L    -DE       -WUr    
-\ps pron       v                            
+\ps pron       v                             
 \ge dist  -acc know -inch -purp.cvb -prfl.pl
 
 \ft So that the Even language doesn't get lost we need to speak a lot with each other, protecting our language, speaking with our relatives a
@@ -318,7 +318,7 @@ says dʒaːlt(i)ŋịmụr, which Ija Krivoshapkina interpreted as representing 
 \id Tatjana_Petrovna_family_021
 \tx Meːn [stammers] ọmọlgọldụlaj            ọjọlbụ        họː nọːd ọjọlbụ        haŋannị
 \mb meːn stammers ọmọlga -L  -(dU)LE -J       ọj      -E  -L  -W   họː  nọːd   ọj      -E  -L  -W   haŋan -RI      
-\ps pron interj   n                           n                    adv  adj    n                    v              
+\ps pron interj   n                           n                    adv  adj    n                    v               
 \ge refl stammers boy    -pl -loc    -prfl.sg clothes -ep -pl -acc very pretty clothes -ep -pl -acc sew   -impf.ptc
 
 \tx bihin.
@@ -383,7 +383,7 @@ younger sister and nephew; she thought at first that the beautiful clothes the m
 \id Tatjana_Petrovna_family_025
 \tx Tak...
 \mb tak 
-\ps interj
+\ps interj  
 \ge so.R
 
 \ELANBegin 00:03:15.470
@@ -444,7 +444,7 @@ younger sister and nephew; she thought at first that the beautiful clothes the m
 \id Tatjana_Petrovna_family_030
 \tx Ńan   ịaw      goːjoːkpün    höp?
 \mb ńaːn ịak  -W   goːn -jEːkpIn   söp
-\ps adv  pron      v               ?  
+\ps adv  pron      v               ?   
 \ge and  what -acc say  -hyp.1sg.Y OK 
 
 \ft What else can I say?
@@ -618,7 +618,7 @@ doesn't work for past tense, only present and future tense, 'be able to'
 
 \tx tar   bụlkaːs torewrerep,                  pọlụ... pọlụ jekutski  pọlụ eto    slava   torewrerep,                  ee.
 \mb tarak bụlkaːs   tore  -Gr(E) -R(E)   -p      polu   polu   jakutskij polu   eto    slova   tore  -Gr(E) -R(E)   -p      ee
-\ps pron  n         v                            adj    adj    adj       adj    pron   n       v                            interj
+\ps pron  n         v                            adj    adj    adj       n    pron   n       v                            interj 
 \ge dist  mixture.Y speak -hab   -nonfut -1pl.in half.R half.R Sakha.R   half.R this.R words.R speak -hab   -nonfut -1pl.in eh
 
 \ft Well we talk in our native language, only sometimes do we talk mixed, we speak words (that are) half-Sakha, half this.
@@ -1112,7 +1112,7 @@ session Tat_Petr_family_photos, around 3min30/4min00); so this stative verb appe
 \id Tatjana_Petrovna_family_079
 \tx Ọralčịmŋal        biniten        dʒuguliten              họːjaw     haːdʒịnnị.
 \mb ọrọlčị        -mŋE  -L  bini -tEn      dʒugu -(dU)LI -tEn      họːja -W   haː  -DʒI -nrI
-\ps v                       n              rel.n                   quant      v             
+\ps v                       n              rel.n                   quant      v              
 \ge herd.reindeer -agnr -pl life -poss.3pl about -prol   -poss.3pl many  -acc know -fut -2sg
 \ft You learn a lot about the life of reindeer herders.
 \ru О жизни оленеводов знаешь больше.
@@ -1126,7 +1126,7 @@ session Tat_Petr_family_photos, around 3min30/4min00); so this stative verb appe
 \id Tatjana_Petrovna_family_080
 \tx Ọrọlbị                   ịadʒịnnị    ...  edʒi        edʒi        (to dog)
 \mb ọrọn              -L  -J       ịa      -DʒI -nrI *... e   -LI      e   -LI     
-\ps n                              v                 ?    v            v           
+\ps n                              v                 ?    v            v            
 \ge domestic.reindeer -pl -prfl.sg do.what -fut -2sg ***  neg -imp.2sg neg -imp.2sg
 \ft You do something to your reindeer... don't don't!
 \ru Своих оленей...
@@ -1273,7 +1273,7 @@ good.
 \id Tatjana_Petrovna_family_092
 \tx Họnŋačan  [họnŋačan] baldarakan.
 \mb họnŋačan      họnŋačan      balda   -REk      -E  -n(I)    
-\ps n             n             v                              
+\ps n             n             v                               
 \ge reindeer.fawn reindeer.fawn be.born -cond.cvb -ep -poss.3sg
 \ft When a reindeer fawn is born.
 \ru Когда рождается олененок.
@@ -1385,7 +1385,7 @@ good.
 \id Tatjana_Petrovna_family_103
 \tx Ńịmkandụla,  ukčenekle,          ukčengerer,       tak, ọrọn          ịadụk     hiedeŋmen.
 \mb ńịmkan -(dU)LE ukčen -ČEk -(dU)LE ukčen -Gr(E) -r   tak  ọrọn              ịak  -DUk(U) hie    -DEŋ     -W   -E  -n(I)    
-\ps n              v                  v                 interj n                 pron         n                                 
+\ps n              v                  v                 interj n                 pron         n                                  
 \ge tale   -loc    tell  -nr  -loc    tell  -hab   -3pl so.R domestic.reindeer what -abl    appear -pst.ptc -acc -ep -poss.3sg
 
 \ft In fairy tales, in stories they tell from where reindeer appeared.
@@ -1406,7 +1406,7 @@ good.
 \id Tatjana_Petrovna_family_105
 \tx Ọrọn          hieče         gọldụk       goːniken      goːngerer,       gọldụk.
 \mb ọrọn              hie    -čE     gọl      -DUk(U) goːn -nIkEn   goːn -Gr(E) -r   gọl      -DUk(U)
-\ps n                 v              n                v             v                n               
+\ps n                 n              n                v             v                n                
 \ge domestic.reindeer appear -pf.ptc firewood -abl    say  -sim.cvb say  -hab   -3pl firewood -abl   
 \ft Reindeer appeared from wood,/a tree they say, from wood/a tree.
 \ru Олень появился из дерева говорят, из дерева.
@@ -1619,12 +1619,12 @@ what they hunted, ujamkamaːdaj, bujumeːdej, but this only afterwards, because 
 \id Tatjana_Petrovna_family_122
 \tx Tar   ịalada           itmi,         ukčenekeldulede,                ńịmkaldụlada          itmi
 \mb tarak ịak  -(dU)LE =DE  it  -mI       ukčen -ČEk -E  -L  -(dU)LE =DE  ńịmkan -L  -(dU)LE =DE  it  -mI      
-\ps pron  pron              v             v                               n                       v            
+\ps pron  pron              n             v                               n                       v             
 \ge dist  what -loc    =ptl see -cond.cvb tell  -nr  -ep -pl -loc    =ptl tale   -pl -loc    =ptl see -cond.cvb
 
 \tx omenholkidʒi               ukčenekte,       ịakta.
 \mb omen_hịlkị   -DʒI         ukčen -ČEk =DE  ịak  =DE 
-\ps adv                       v               pron     
+\ps adv                       v               pron      
 \ge all.the.same -ins.prfl.sg tell  -nr  =ptl what =ptl
 
 \ft If one looks in stories and tales, it's all the same stories.
@@ -1657,7 +1657,7 @@ what they hunted, ujamkamaːdaj, bujumeːdej, but this only afterwards, because 
 \id Tatjana_Petrovna_family_125
 \tx Tak, ịaw      össö?
 \mb tak  ịak  -W   össö   
-\ps interj pron      adv    
+\ps interj n      adv     
 \ge so.R what -acc still.Y
 \ft What else?
 \ru Что еще?
@@ -2060,7 +2060,7 @@ much my deduction as her explanation; translation session Tat_Petr_family_photos
 
 \tx delgenkelduk.
 \mb dʒelgenke -L  -DUk(U)
-\ps n                    
+\ps n                     
 \ge animal    -pl -abl   
 \ft Sharp, strong reindeer herders aren't afraid of animals.
 \ru Сильные оленеводы не боятся животных.
@@ -2406,12 +2406,12 @@ tents.
 \id Tatjana_Petrovna_family_186
 \tx Biː meːndʒi          ajaːwram           ukčenekelbu             emie,  ukčennij                 ajaːwram,
 \mb biː meːn -DʒI         ajaːw -R(E)   -m   ukčen -ČEk -E  -L  -W   emie   ukčen -RI       -J       ajaːw -R(E)   -m  
-\ps pron pron              v                  v                       adv    v                        v                 
+\ps n pron              v                  v                       adv    v                        v                  
 \ge 1sg refl -ins.prfl.sg love  -nonfut -1sg tell  -nr  -ep -pl -acc also.Y tell  -impf.ptc -prfl.sg love  -nonfut -1sg
 
 \tx ńịmkalbu       ụmụjrịj               ajaːwram.
 \mb ńịmkan -L  -W   ụmụj   -RI       -J       ajaːw -R(E)   -m  
-\ps n               v                         v                 
+\ps n               v                         v                  
 \ge tale   -pl -acc gather -impf.ptc -prfl.sg love  -nonfut -1sg
 \ft I myself love stories, love to tell (stories), love to collect fairy tales.
 \ru Я сама люблю рассказы, рассказывать люблю, люблю собирать сказки.
@@ -2553,7 +2553,7 @@ understood what it might mean, had to think about it and actively derive it, obv
 \id Tatjana_Petrovna_family_197
 \tx Dʒe   omneken        dʒaːltan             eńilten                amaltan              ŋaːtčal         họːja hurkelbu,
 \mb dʒe    omen -REkEn    dʒaː     -L  -tEn      eńin   -E  -L  -tEn      aman   -L  -tEn      ŋaːt -čE     -L  họːja hurkeːn -L  -W  
-\ps ptl    num            n                      n                        n                    v                quant n               
+\ps ptl    num            n                      n                        n                    n                n n                
 \ge well.Y one  -iter.adv relative -pl -poss.3pl mother -ep -pl -poss.3pl father -pl -poss.3pl call -pf.ptc -pl many  boy     -pl -acc
 
 \tx ńarịkalbụ        iduk          tadụk       ịaldụk        [stammers] gịakataldụk              emčel.
@@ -2839,7 +2839,7 @@ possibility is just expressed by the future tense - says Ija, but I think the Sa
 \id Tatjana_Petrovna_family_217
 \tx Ịak össö?
 \mb ịak  össö   
-\ps pron adv    
+\ps pron adv     
 \ge what still.Y
 \ft What more?
 \ru

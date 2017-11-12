@@ -32,7 +32,7 @@ in the school as psychologist at the time of the recording; every summer, howeve
 
 \tx ọdčalan                  dʒaːlbụ            eleːr                Kụrụŋnaːx gerbe mestnost' bisni,
 \mb ọd   -čE     -(dU)LE -n(I)     dʒaː     -L  -W        erek -(dU)LE -WUr     Kụrụŋnaːx gerbe mestnost' bi -R(E)   -n(I)
-\ps v                              n                      pron                  ?         n     n         v               
+\ps v                              n                      pron                  ?         n     n         n                
 \ge stop -pf.ptc -loc    -poss.3sg relative -pl -poss.1sg prox -loc    -prfl.pl Kurungnax name  area.R    be -nonfut -3sg 
 
 \tx axs...   dʒapkan, dʒapkịs      stada.
@@ -436,7 +436,7 @@ razbudivšij naročno; mịalụkanča =razbudivšij, no ne naročno, m.b. šume
 
 \tx tutelde...             itteken,                    ịakgọl   ịaldańa meːkukečče                  dʒụː hatlịn.
 \mb tut -E  -L    -DE       it  -REk      -E  -n(I)     ịak  =(W)Ul ịalrańa    meːkuk        -E  -Č   -čE     dʒụː  hat  -(dU)LI -n(I)    
-\ps v                       v                           pron        adj        v                              n     rel                   
+\ps v                       v                           pron        n        v                              n     rel                    
 \ge run -ep -inch -purp.cvb see -cond.cvb -ep -poss.3sg what =indef coal.black thrash.around -ep -res -pf.ptc house base -prol   -poss.3sg
 
 \ft That boy is also a reindeer herder in the eighth brigade, he took his gun and ran, and sees, something is moving next to the house.

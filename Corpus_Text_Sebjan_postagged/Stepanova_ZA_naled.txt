@@ -381,7 +381,7 @@ themselves, that they're travelling in such cold temperatures, -dʒEːn always g
 \id Stepanova_ZA_naled_026
 \tx Tala          adịː  častụkene,    nadan častụ  ịhrịt,              hiesečen, gịawan
 \mb tarak -(dU)LE adịː     čas  -DU  =kEnE  nadan čas  -DU  ịs    -RI  -t(I)        hiːsečin gịawan
-\ps pron          ?        n                num   n         v                       n        n     
+\ps pron          ?        n                num   n         v                       n        n      
 \ge dist  -loc    how.much hour -dat =contr seven hour -dat reach -pst -poss.1pl.in evening  dawn  
 
 \tx goboːddi                 bisin.
@@ -514,7 +514,7 @@ than the surrounding air, creating steam.
 
 \tx bekeččemetnen             nụkram              ečin,     uleːrem.
 \mb bekeč -čEn -W   -tEn      nụk      -R(E)   -m   erroːčin  uleː  -R(E)   -m  
-\ps adv                       v                     pron      v                 
+\ps adv                       v                     pron      v                  
 \ge all   -dim -acc -poss.3pl take.off -nonfut -1sg prox.qual throw -nonfut -1sg
 
 \ft Then I got a fright and took off all the scarves that I had tied before and that didn't let me see properly and threw them down.
@@ -886,7 +886,7 @@ unexpectedly was blue and it was sunny, although it had been threatening rain
 
 \tx ŋiːgul     ere  horedniken            haːtawra... haːtarawrịdʒịgụ        haːtaralawrịdʒịgụ
 \mb ŋiː =(W)Ul erek hor -E  -D    -nIkEn   haːtar  -E  -W     -RIdʒI   =GU haːtar  -E  -L    -E  -W     -RIdʒI   =GU
-\ps pron       pron v                      v                               v                                        
+\ps pron       pron n                      v                               v                                         
 \ge who =indef prox go  -ep -prog -sim.cvb be.dark -ep -advrs -ant.cvb =q  be.dark -ep -inch -ep -advrs -ant.cvb =q 
 
 \tx ịarịdʒịgụ   bej aːnŋadʒịn                 goːniken,     hontede    beju     dʒọmkattị
@@ -953,7 +953,7 @@ byvaet
 \id Stepanova_ZA_naled_061
 \tx Elena ŋaːlan            bütenniːken         desčin.
 \mb Elena ŋaːl -E  -n(I)     bütünnüː   -KEn     desči -n(I)
-\ps ?     n                  ?                   v          
+\ps ?     n                  ?                   v           
 \ge Elena hand -ep -poss.3sg entirely.Y -dim.int lie   -3sg 
 \ft Elena's hands lie entirely.
 \ph

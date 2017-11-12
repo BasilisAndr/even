@@ -443,7 +443,7 @@ with -n-, so I added another stem in the lexical entry .
 \id Egorova_RM_fox_wolf_030
 \tx Nan    ịrkawaːttan :
 \mb ńaːn ịrka   -WEːČ -R(E)   -n(I)
-\ps adv  v                         
+\ps adv  v                          
 \ge and  scream -gnr  -nonfut -3sg 
 \ft And she cries:
 \ph
@@ -801,7 +801,7 @@ me, čidetki mitli -- move back
 \id Egorova_RM_fox_wolf_054
 \tx Nan    tačịneː          goːweːtten                : tiːke emelle            ewuski.
 \mb ńaːn tarọːčịn  =eː   goːn -WEːČ -R(E)   -n(I) tiek em   -E  -(LI)lrE erek -skI     
-\ps adv  pron            v                        adv  v                 pron          
+\ps adv  pron            n                        adv  v                 pron           
 \ge and  dist.qual =emph say  -gnr  -nonfut -3sg  now  come -ep -imp.2pl prox -advb.all
 
 \ft She says: now come closer.
@@ -833,7 +833,7 @@ me, čidetki mitli -- move back
 
 \tx amardalasan!
 \mb amar   -gIdE -(dU)LE -sEn     
-\ps n                             
+\ps n                              
 \ge behind -part -loc    -poss.2pl
 
 \ft At tis moment the magpie cried: Over there! Caw! The wolf is behind you.
@@ -893,7 +893,7 @@ me, čidetki mitli -- move back
 \id Egorova_RM_fox_wolf_063
 \tx Bi   untetki       ordʒim.
 \mb biː honte -t(E)kI hor -DʒI -m  
-\ps pron adj           v            
+\ps pron adj           v             
 \ge 1sg other -all    go  -fut -1sg
 
 \ft I will go to another one.

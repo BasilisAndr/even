@@ -141,7 +141,7 @@ of an Even word from which it could have been derived
 \id Afanasij_Afanasevič_sled_parts_009
 \tx Er   ebedi      torelben                        mut    pakalenie    uže      ọmŋaddap                   ebit.
 \mb erek ewen -DI   tore  -n  -L  -W   -E  -n(I)     mut    pokolenie    uže       ọmŋa   -D    -R(E)   -p      ebit      
-\ps pron n          v                                pron   n            adv       v                            ptl       
+\ps pron n          v                                n   n            adv       v                            ptl        
 \ge prox Even -adjr speak -nr -pl -acc -ep -poss.3sg 1pl.in generation.R already.R forget -prog -nonfut -1pl.in it.seems.Y
 \ft The Even words we, our generation, seem to be forgetting.
 \ru Эвенские слова мы, наше поколение, уже забываем, оказывается.
@@ -155,7 +155,7 @@ of an Even word from which it could have been derived
 \id Afanasij_Afanasevič_sled_parts_010
 \tx Er   slawarra             ile           tala          bičeːdʒin           bụkwarra           gerben.
 \mb erek slovar'      -(dU)LE irek  -(dU)LE tarak -(dU)LE bi -čE     -DʒI -n(I) bukvar'      -(dU)LE gerbe -n(I)    
-\ps pron n                    pron          pron          v                     n                    n              
+\ps pron n                    n          pron          v                     n                    n               
 \ge prox dictionary.R -loc    which -loc    dist  -loc    be -pf.ptc -fut -3sg  ABC.primer.R -loc    name  -poss.3sg
 
 \ft This (these words) probably exist in dictionaries, in ABC primers.
@@ -173,7 +173,7 @@ of an Even word from which it could have been derived
 
 \tx erek ńọkadịt       gerbelken   ọːča.
 \mb erek ńọka  -DI   -Č   gerbe -lkEn ọː     -čE    
-\ps pron n                n           v             
+\ps pron n                n           n              
 \ge prox Sakha -adjr -ins name  -prop become -pf.ptc
 \ft If we work in our language, in the colloquial language there have become a lot of Sakha names.
 \ru И если мы будем работать на свой язык (??), в обиходном языке все начало иметь якутские названия.

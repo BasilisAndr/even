@@ -640,7 +640,7 @@ this could be understood as the conclusion: "If you look in China, they will be 
 \id RDA_TPK_names_origins_053
 \tx Ebed..     ebed...    eben tor   torendukun                  ńọkadịptị.
 \mb ewen -DI   ewen -DI   ewen tor   tore  -n  -DUk(U) -n(I)     ńọka  -DI -B   -RI      
-\ps n          n          n    n     v                           v                       
+\ps n          n          n    n     v                           v                        
 \ge Even -adjr Even -adjr Even earth speak -nr -abl    -poss.3sg Sakha -vr -med -impf.ptc
 \ft From Even it became Sakha-cized.
 \ph
@@ -653,7 +653,7 @@ this could be understood as the conclusion: "If you look in China, they will be 
 \id RDA_TPK_names_origins_054
 \tx Bekečen            eben, eben torenni             biče      targịda,  Nam,   Mụkụčụ
 \mb bekeč -E  -n(I)     ewen ewen tore  -n  -n(I)     bi -čE     tarak -gIdE Nam    Mụkụčị 
-\ps adv                 n    n    v                   v          pron        ?      ?      
+\ps adv                 n    n    v                   n          pron        ?      ?       
 \ge all   -ep -poss.3sg Even Even speak -nr -poss.3sg be -pf.ptc dist  -part Namtsy Mukuchi
 
 \ft Everything was Even words on that side, Namtsy, Mukuchi.
@@ -665,7 +665,7 @@ this could be understood as the conclusion: "If you look in China, they will be 
 \id RDA_TPK_names_origins_055
 \tx Ọttọ  er   daže  Hebeːn       ịaw      itmi          každyj tor   bejen               ịalkan
 \mb ọttọn erek daže   Sebjan-Küöl ịak  -W   it  -mI       každyj  tor   bej    -E  -n(I)     ịak  -lkEn
-\ps ptl   pron ptl    ?           pron      v             adj     n     pron                 pron      
+\ps ptl   pron ptl    n           pron      v             adj     n     pron                 pron       
 \ge dp.Y  prox even.R Sebjan-Küöl what -acc see -cond.cvb every.R earth self.Y -ep -poss.3sg what -prop
 \ft Even if you look in Sebjan, every place has its own whatchamacallit (name).
 \ru Даже если Себян что-то посмотреть, каждая местность свое что-то (название).

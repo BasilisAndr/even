@@ -331,7 +331,7 @@ the mountain behind her house
 \id Krivoshapkina_AX_1930s_022
 \tx Erek urekčen čawdalan                bi   amńalbụ            enńelčel        amńalčal,       aknịlčal
 \mb erek urekčen čawda     -(dU)LE -n(I)     biː aman   -SEl -W        enen   -SEl -čEl aman   -SEl -čEl akan          -SEl -čEl
-\ps pron n       rel.n                       pron n                     n                n                n                      
+\ps n n       rel.n                       pron n                     n                n                n                       
 \ge prox hill    back.part -loc    -poss.3sg 1sg father -pl  -poss.1sg mother -pl  -com father -pl  -com older.brother -pl  -com
 
 \tx tegekkerečel                       tuge.
@@ -1119,7 +1119,7 @@ net knigi = kinigew ačča, 2sg kiniges ačča; kinigele ačča = v knige netu; 
 
 \tx edetne                  ettier,          edetne                  dʒebleŋmetne                tieter.
 \mb e   -DE       -tEn      ettie   -R       e   -DE       -tEn      dʒep -LE -ŋ   -W   -tEn      tiete     -R      
-\ps v                       v                v                       v                            v                 
+\ps v                       v                v                       v                            n                  
 \ge neg -purp.cvb -poss.3pl beat.up -neg.cvb neg -purp.cvb -poss.3pl eat  -nr -aln -acc -poss.3pl take.away -neg.cvb
 
 \ft This is something of the Sakha (probably their leader), this man is also equal to Lenin, (he wants) hungry people to have a lot of food, that rich
@@ -1135,7 +1135,7 @@ people don't hit (them), don't take away their food.
 \id Krivoshapkina_AX_1930s_076
 \tx Tačịn       ịbga   bej, ịbga   bejel      erel,    teːmi    ńulgewettide                  ebeldu        beldej
 \mb tarọːčịn  ịbgọ bej ịbgọ bej -E  -L  erek -L  teːmi     nulge   -WEːČ -RI       =DE  ewen -L  -DU  bel  -DE       -J      
-\ps pron      ?    n   ?    n           pron     conj      v                            n             v                      
+\ps pron      ?    n   n    n           pron     conj      v                            n             v                       
 \ge dist.qual good man good man -ep -pl prox -pl therefore migrate -gnr  -impf.ptc =ptl Even -pl -dat help -purp.cvb -prfl.sg
 
 \tx nekkerer        erel.
@@ -1289,7 +1289,7 @@ everywhere, but I came to you, he said.
 \id Krivoshapkina_AX_1930s_087
 \tx Tarịt erek Ojuːnskaj goːnni     goːnče.
 \mb tarịt erek Ojuːnskij goːn -n(I) goːn -čE    
-\ps adv   pron ?         v          v           
+\ps adv   pron ?         v          v            
 \ge then  prox Ojunskij  say  -3sg  say  -pf.ptc
 \ft Then "Ojunskij said this", (Kymov) said.// "Then Ojunskij said this", (Kymov) said.
 \ph
@@ -1424,7 +1424,7 @@ stories or evidence he sees now; (04_quest_2010, kuruk nulgewečepti = kuruk nul
 
 \tx bakaldawračal                  ebit,      haːča.
 \mb bak  -(E)ldE -Gr(E) -čE     -L  ebit       haː  -čE    
-\ps v                               ptl        v           
+\ps v                               ptl        v            
 \ge find -soc    -hab   -pf.ptc -pl it.seems.Y know -pf.ptc
 
 \ft "I know (him)", said my father; he knew (him), he met him in summer at the ewinek it seems, he knew.
@@ -1943,7 +1943,7 @@ it would be dʒoːr ńimeːr biniken tegeččel
 
 \tx pradụktakkam      igin  tar   ịrụnịkan      ọrọnat                ịrụwračal                tar.. tarakam.
 \mb produkty -kkEn -W   iŋin  tarak ịr   -U    -nIkEn   ọrọn              -E  -Č   ịr   -U    -Gr(E) -čE     -L  tarak tarakam      
-\ps n                   ptl   pron  v                   n                          v                             pron  adv          
+\ps n                   n   pron  n                   n                          v                             pron  adv            
 \ge food.R   -dim  -acc etc.Y dist  cart -caus -sim.cvb domestic.reindeer -ep -ins cart -caus -hab   -pf.ptc -pl dist  in.those.days
 
 \ft A shop for the hunters and reindeer herders (coming) from the herd, they used to cart food there by reindeer in those days.
@@ -2069,7 +2069,7 @@ marking, it only occurs in 3rd person as finite verb; ọrịt = witnessed past
 \id Krivoshapkina_AX_1930s_138
 \tx Tarak bej Kyymov gerbe bọlla.
 \mb tarak bej Kyymov gerbe buol  -dEg      -E         
-\ps pron  n   ?      n     v                          
+\ps pron  n   ?      n     v                           
 \ge dist  man Kymov  name  aux.Y -assert.Y -poss.3sg.Y
 
 \ft That was Kymov.
@@ -2201,7 +2201,7 @@ myself in a big something, I am intensely grateful to you.
 \id Krivoshapkina_AX_1930s_147
 \tx Tar   pravda  omen rọdstvenniklaj             boːriw             taraw,     Jakutskajla
 \mb tarak pravda  omen rodstvennik -(dU)LE -J       boː  -RI  -W        tarak -W   Jakutsk -(dU)LE
-\ps pron  n       num  n                            v                   pron       n              
+\ps pron  n       num  n                            v                   pron       n               
 \ge dist  truth.R one  relative.R  -loc    -prfl.sg give -pst -poss.1sg dist  -acc Yakutsk -loc   
 
 \tx tegečeddi.

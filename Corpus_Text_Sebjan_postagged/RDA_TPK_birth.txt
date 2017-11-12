@@ -600,7 +600,7 @@ that is not the same as the nimat.
 \id RDA_TPK_birth_048
 \tx tačịn
 \mb tarọːčịn 
-\ps pron     
+\ps pron      
 \ge dist.qual
 
 \ru

@@ -133,7 +133,7 @@ Stepanova (of whom unglossed recordings exist).
 \id Suzopova_Olja_eveny_Tompo_010
 \tx Nọŋartan emie   ikkere     ikkere     tarịt emie   goːngere:   mut    ńọxadịt
 \mb nọŋartan emie   it  -Gr(E) it  -Gr(E) tarịt emie   goːn -Gr(E) mut    ńọka  -DI   -Č  
-\ps pron     adv    v          v          adv   adv    v           pron   n               
+\ps pron     adv    v          v          n   adv    v           pron   n                
 \ge 3pl      also.Y see -hab   see -hab   then  also.Y say  -hab   1pl.in Sakha -adjr -ins
 
 \tx ehep                öjdöːr           goːngere

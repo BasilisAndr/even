@@ -274,7 +274,7 @@ the water, we were together (with nature). (i.e. Evens were a part of nature)
 
 \tx haːr"        goːneketne                  etep              goːne.
 \mb haː  -R       goːn -REk      -E  -tEn      e   -t(E) -p      goːn -R      
-\ps v             v                            v                 v            
+\ps v             v                            v                 n             
 \ge know -neg.cvb say  -cond.cvb -ep -poss.3pl neg -fut  -1pl.in say  -neg.cvb
 \ft We raise our children, if they say "we don't know Even at all" we won't say (that).
 \ph
@@ -472,7 +472,7 @@ Evens won't be anymore, their life will be very poor and troubled.
 
 \tx bihni.
 \mb bi -R(E)   -n(I)
-\ps v               
+\ps v                
 \ge be -nonfut -3sg 
 \ft Feeding the fire, feeding the earth, apart from that there is what, in the hunt there is the (tradition) called nimat.
 \ph
@@ -492,7 +492,7 @@ and the actual ritual itself is called nimat; bujusendu = v processe oxoty
 
 \tx ọːddan.
 \mb ọː     -D    -R(E)   -n(I)
-\ps v                         
+\ps v                          
 \ge become -prog -nonfut -3sg 
 \ft Now, however, that so-called nimadu is disappearing.
 \ru А сейчас это нимаду исчезает.
@@ -525,7 +525,7 @@ and the actual ritual itself is called nimat; bujusendu = v processe oxoty
 \id Burtsev_ID_traditions_029
 \tx Bi   gịačal    dʒe   torre         ụjamkam,          ụjamkamgụ,          bujumgu
 \mb biː gịa    -čEl dʒe    tor   -(dU)LE ụjamkan        -W   ụjamkan        -W   =GU bujun         -W   =GU
-\ps pron n           ptl    n             n                   n                       n                     
+\ps n n           ptl    n             n                   n                       n                      
 \ge 1sg friend -com well.Y earth -loc    mountain.sheep -acc mountain.sheep -acc =q  wild.reindeer -acc =q 
 
 \tx bujuseridʒi            maːmị,      bi   gịadị           boːj...   boːjekteːkpin            erew.
@@ -788,7 +788,7 @@ but nowadays, when meat is a rare thing, even the meat of slaughtered domestic r
 \id Burtsev_ID_traditions_048
 \tx Teːmi    ńajụkụkan         erek egdʒen ńọka nọrọtọn         biden,                 ńụt
 \mb teːmi     ńańụkụn -KEn     erek egdʒen ńọka  narod    -E  -n(I)     bi -DE       -n(I)     ńụča   
-\ps conj      adv              pron adj    n     n                      v                      n      
+\ps conj      n              pron adj    n     n                      v                      n       
 \ge therefore quietly -dim.int prox big    Sakha people.R -ep -poss.3sg be -purp.cvb -poss.3sg Russian
 
 \tx nọrọtọn         biden,                 tar   dọːlan             beribeddep                           mute,
@@ -849,7 +849,7 @@ got lost
 
 \tx ọmŋọr
 \mb ọmŋa   -R      
-\ps v              
+\ps v               
 \ge forget -neg.cvb
 \ft If a child hears all of that, listens to all of that, if it knows a lot about the past, about its own historby, about who his relatives were, a
 knowing child won't forget the Even language.
@@ -905,7 +905,7 @@ knowing child won't forget the Even language.
 
 \tx herennewu.
 \mb hor -E  -nnE     -W       
-\ps v                         
+\ps v                          
 \ge go  -ep -nec.ptc -poss.1sg
 \ft I have to leave for the hunt very early in the morning.
 \ru Я утром очень рано должен ехать на охоту.
@@ -1327,7 +1327,7 @@ the translations)
 
 \tx ere  nọŋan ọrọnnị.
 \mb erek nọŋan ọrọn              -n(I)    
-\ps pron pron  n                          
+\ps pron pron  n                           
 \ge prox 3sg   domestic.reindeer -poss.3sg
 \ft And then when that child grows up and has his own family, that person will already have his own growing herd, those are his reindeer.
 \ru Потом когда этот ребенок становится взрослым, когда он имеет свою семью, его стадо увеличивается, это его олени.

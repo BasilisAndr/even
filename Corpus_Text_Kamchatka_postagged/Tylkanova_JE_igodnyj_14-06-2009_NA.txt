@@ -267,7 +267,7 @@ really understand/see any difference between duru- and gụl-...
 \id Tylkanova_JE_igodnyj_022
 \tx Nan    taraw      omem      tar   teːleŋdej                 nekriwu.
 \mb ńaːn tarak -W   omen -W   tarak teːleŋ -DE       -J       nek -RI  -W       
-\ps adv  pron       num       pron  v                         v                 
+\ps adv  pron       num       pron  v                         v                  
 \ge and  dist  -acc one  -acc dist  tell   -purp.cvb -prfl.sg do  -pst -poss.1sg
 
 \ft Well, I wanted to tell about that.
@@ -503,7 +503,7 @@ really understand/see any difference between duru- and gụl-...
 
 \tx eńtilbun.
 \mb eńtil   -WUn        
-\ps n                   
+\ps n                    
 \ge parents -poss.1pl.ex
 
 \ft
@@ -580,7 +580,7 @@ really understand/see any difference between duru- and gụl-...
 \id Tylkanova_JE_igodnyj_059
 \tx Nan    tarakta    atịkan  goːnčewu              Igednej   bisin             tarakam.
 \mb ńaːn tarak =DE  atịkan    goːn -čE     -W        Igednej   bi -RI  -n(I)     tarakam      
-\ps adv  pron       n         v                      n         v                 adv          
+\ps adv  pron       n         v                      n         v                 adv           
 \ge and  dist  =ptl old.woman say  -pf.ptc -poss.1sg Igodnyj.R be -pst -poss.3sg in.those.days
 
 \ELANBegin 00:06:27.240
@@ -658,7 +658,7 @@ really understand/see any difference between duru- and gụl-...
 
 \tx elbektekin,                        nan    teːleŋedʒilloːtten.
 \mb elbe       -k(E) -t(E)kI -n(I)     ńaːn teːleŋ -E  -D    -L    -WEːČ -R(E)   -n(I)
-\ps v                                  adv  v                                         
+\ps v                                  adv  v                                          
 \ge cover.yurt -nr   -all    -poss.3sg and  tell   -ep -prog -inch -gnr  -nonfut -3sg 
 
 \ft We were happy and ran to the tent, to her tent, and she began to tell.
@@ -671,7 +671,7 @@ really understand/see any difference between duru- and gụl-...
 \id Tylkanova_JE_igodnyj_066
 \tx Ińimdečiː          gịakịw.
 \mb ińin  -mdE -Č   =Iː   gịakị   -W  
-\ps v                     pron        
+\ps n                     pron         
 \ge laugh -nr  -ins =emph various -acc
 
 \ft Different funny things.
@@ -685,7 +685,7 @@ really understand/see any difference between duru- and gụl-...
 \id Tylkanova_JE_igodnyj_067
 \tx Ńịmkam      goːweːtten                teːleŋŋoːtten              ewenewde        urilewde         gịakịw     tawụr
 \mb ńịmkan -W   goːn -WEːČ -R(E)   -n(I) teːleŋ -WEːČ -R(E)   -n(I) ewene -W   =DE  urile -W   =DE  gịakị   -W   tawụr
-\ps n           v                        v                          n               n               pron         pron 
+\ps n           v                        v                          n               n               pron         pron  
 \ge tale   -acc say  -gnr  -nonfut -3sg  tell   -gnr  -nonfut -3sg  giant -acc =ptl dwarf -acc =ptl various -acc this 
 
 \tx ińimdeč        umekič eŋundečte.
@@ -710,7 +710,7 @@ eŋundeč . In first case it's adjr, anf then nr? very strange.
 \id Tylkanova_JE_igodnyj_069
 \tx Nan    omneken        badʒịkar kụŋa omen ńoːrin,
 \mb ńaːn omen -REkEn    badʒịkar kụŋa  omen ńoː  -RI  -n(I)    
-\ps adv  num            n        n     num  v                  
+\ps adv  num            n        n     num  v                   
 \ge and  one  -iter.adv morning  child one  exit -pst -poss.3sg
 
 \tx ịrkaladdanasị                             : eŋenelle              tar   ọkaːt bardalan                          duri,  duri
@@ -982,7 +982,7 @@ gabalallịn --> so this is absolutely not clear, in theory gabal- should be tra
 \id Tylkanova_JE_igodnyj_091
 \tx Pogreb   durrineː!
 \mb pogreb   dur  -RI  -n(I)     =eː  
-\ps n        v                        
+\ps n        v                         
 \ge cellar.R burn -pst -poss.3sg =emph
 \ft The cellar has burt!
 \ELANBegin 00:13:03.920

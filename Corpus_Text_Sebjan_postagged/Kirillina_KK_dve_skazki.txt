@@ -131,7 +131,7 @@ dịlgan
 \id Kirillina_KK_dve_skazki_010
 \tx Dʒoːr ọmọlgọlkan biče.
 \mb dʒoːr ọmọlga -lkEn bi -čE    
-\ps num   n            v         
+\ps num   n            v          
 \ge two   boy    -prop be -pf.ptc
 \ft He had two sons.
 \ru У него было 2 сыновей
@@ -213,7 +213,7 @@ thunder has
 \id Kirillina_KK_dve_skazki_016
 \tx Nọŋan dʒoːr ọmọlgọlkan biče.
 \mb nọŋan dʒoːr ọmọlga -lkEn bi -čE    
-\ps pron  num   n            v         
+\ps pron  num   n            v          
 \ge 3sg   two   boy    -prop be -pf.ptc
 \ft He had two sons.
 \ru  У него было 2 сыновей
@@ -258,7 +258,7 @@ fur-bearing animals with his people, giving them.
 
 \tx ịlụmụdụ  dessiniken      čịldawrača,         moːwde         eče        hụkụhnawrar,
 \mb ịlụmụ -DU  desči -nIkEn   čịlda   -Gr(E) -čE     moː   -W   =DE  e   -čE     hụkụ      -s(E)n -E  -Gr(E) -R      
-\ps n          v              v                      n               v           v                                   
+\ps n          v              n                      n               v           v                                    
 \ge yurt  -dat lie   -sim.cvb survive -hab   -pf.ptc water -acc =ptl neg -pf.ptc ladle.out -lim   -ep -hab   -neg.cvb
 
 \tx gọlụda         eče        taːwgarar.
@@ -594,7 +594,7 @@ the sacred reindeer kụːdʒaj (something like a guardian angel) should also pr
 
 \tx holoŋel      er   urekčel     nọːdatnan          nọːdịwrịtnan               biden,
 \mb heleŋ -E  -L  erek urekčen -L  nọːd   -E  -tEn      nọːd   -(I)w -RI       -tEn      bi -DE       -n(I)    
-\ps ?             pron n           adj                  v                                v                     
+\ps ?             n n           adj                  v                                v                      
 \ge crest -ep -pl prox hill    -pl pretty -ep -poss.3pl pretty -vr   -impf.ptc -poss.3pl be -purp.cvb -poss.3sg
 
 \tx goːniken      goːnče.
@@ -666,7 +666,7 @@ this one is very frequent and noticeable
 \id Kirillina_KK_dve_skazki_043
 \tx Nọŋan ọːkda    ọːkda    bejen               ehni           bujuskerer,                ọnaːkị.
 \mb nọŋan ọːk  =DE  ọːk  =DE  bej    -E  -n(I)     e   -R(E) -n(I) buju -s    -Gr(E) -R       ọnaːkị   
-\ps pron  pron      pron      pron                 v               v                          n        
+\ps pron  pron      n      pron                 v               v                          n         
 \ge 3sg   when =ptl when =ptl self.Y -ep -poss.3sg neg -nfut -3sg  hunt -mult -hab   -neg.cvb wolverine
 
 \ft It never never hunts(for) itself, the wolverine.

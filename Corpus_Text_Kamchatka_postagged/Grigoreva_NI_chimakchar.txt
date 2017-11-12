@@ -76,7 +76,7 @@ husband and children.
 \ref
 \tx Badʒịkarta     ịllidʒurte,              gurgeːwčileddʒoːtteši                    mọːŋgawurgali                 kimmoːtte.
 \mb badʒịkar =t(E) ịl       -RIdʒI   -L  =t(E) gurgeːwči -L    -D    -WEːČ -R(E)   =sI   mọː  -ŋ   -GE    -WUr     =gEli kim     -WEːČ -R(E)  
-\ps n              v                           v                                         n                               v                    
+\ps n              n                           v                                         n                               v                     
 \ge morning  =ptl  stand.up -ant.cvb -pl =ptl  work      -inch -prog -gnr  -nonfut =emph tree -aln -desig -prfl.pl =emph prepare -gnr  -nonfut
 
 \ft As soon as they stand up in the morning they start to work, they prepare firewood for themselves.
@@ -137,7 +137,7 @@ husband and children.
 \ref
 \tx Tugenitki      tarak non kimučiddʒoːtte,                       edewur                 tugeni... tugenidu    dʒemedde.
 \mb tugeni -t(E)kI tarak *** kim     -U    -Č   -D    -WEːČ -R(E)   e   -DE       -WUr     tugeni tugeni -DU  dʒem   -E  -D    -R      
-\ps n              pron  ?   v                                      v                      n      n           v                        
+\ps n              pron  ?   n                                      v                      n      n           v                         
 \ge winter -all    dist  *** prepare -caus -res -prog -gnr  -nonfut neg -purp.cvb -prfl.pl winter winter -dat starve -ep -prog -neg.cvb
 
 \ft They were preparing for winter, so that they would not starve in winter.
@@ -443,7 +443,7 @@ saying "guːnni" and translated that way, I think it's clear she says guːne; an
 \ref
 \tx Supaŋgašiː                          dallawu    olettiwun.
 \mb sup    -E  -ŋ   -GE    -s(I)     =Iː   dalra -W   oleː -Č   -RI  -WUn        
-\ps n                                      adj        v                          
+\ps n                                      adj        v                           
 \ge soup.R -ep -aln -desig -poss.2sg =emph tasty -acc cook -res -pst -poss.1pl.ex
 \ft We cooked a tasty soup for you.
 \ev
@@ -1280,7 +1280,7 @@ them" - so that's how I translated it
 \ref
 \tx Nan    tarak ireptu họmŋan     etikekeje        nan    ittidʒite         taraw      dʒeplew:
 \mb ńaːn tarak ireptu ọmŋa   -n(I) etikeːn -kEːjE ńaːn it  -RIdʒI   =t(E) tarak -W   dʒeb -LE -W  
-\ps adv  pron  ptl    v            n              adv  v                  pron       v            
+\ps adv  pron  ptl    v            n              n  v                  pron       v             
 \ge and  dist  even   forget -3sg  old.man -aug   and  see -ant.cvb =ptl  dist  -acc eat  -nr -acc
 \ft And again that old man forgot (everything), having seen that food:
 \ev
@@ -1293,7 +1293,7 @@ them" - so that's how I translated it
 \ref
 \tx dalla
 \mb dalra
-\ps adj  
+\ps adj   
 \ge tasty
 \ft tasty
 \ph "sniff, dalla, sniff"
@@ -1428,7 +1428,7 @@ occurs, but without the repetition; =nun usilivaet
 
 \tx ŋuleńeč    ŋuleńew     tulliten.
 \mb ŋuleńe -Č   ŋuleńe -W   tul -RI  -tEn     
-\ps adj         adj         v                 
+\ps adj         adj         v                  
 \ge red    -ins red    -acc set -pst -poss.3pl
 
 \ft And this old man fell asleep, snoring very loudly, and the mice did what, they went up to him and tied pendants like this to his eyes, fastened something red.
@@ -2029,7 +2029,7 @@ examples to be able to say what it is
 
 \tx dọːline.
 \mb dọː    -(dU)LI -n(I)     -E 
-\ps rel.n                       
+\ps rel.n                        
 \ge inside -prol   -poss.3sg -ep
 \ft And the mice all hid in the grass.
 \ev
@@ -2356,7 +2356,7 @@ gloss it I decided to leave it as a separate lexeme for the moment
 \ref
 \tx "Kurende!
 \mb kuren      =DE 
-\ps adv            
+\ps adv             
 \ge on.purpose =ptl
 \ft "On purpose!
 \ph

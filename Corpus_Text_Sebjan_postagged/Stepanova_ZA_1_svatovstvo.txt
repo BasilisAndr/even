@@ -79,7 +79,7 @@ in Even folklore and language. Sister of Afanasij Afanas'evič Stepanov
 
 \tx enmu                  ọːn gadaŋị
 \mb enen   -W   -W        ọːn ga   -DEŋ     -J      
-\ps n                     pron v                     
+\ps n                     n v                      
 \ge mother -acc -poss.1sg how take -pst.ptc -prfl.sg
 
 \tx dʒugulin.
@@ -501,7 +501,7 @@ wife.
 
 \tx dʒajụttịn               tara nọŋan ńan   biː biː
 \mb dʒaj -E  -Č   -RI  -n(I)     tar  nọŋan ńaːn biː biː
-\ps v                            adv  pron  adv  pron pron
+\ps v                            adv  n  adv  pron pron 
 \ge hide -ep -res -pst -poss.3sg thus 3sg   and  1sg 1sg
 
 \tx amandụlaw              eče        herehme.
@@ -536,7 +536,7 @@ not want to marry my father.
 
 \tx čịkịrịj               ŋeːlmi,           tarkandụ          ee
 \mb čịkị    -RI       -J       ŋeːl      -mI       tarkan-dụ           ee
-\ps v                          v                   adv                 interj
+\ps v                          v                   adv                 n 
 \ge cut.off -impf.ptc -prfl.sg be.afraid -cond.cvb at.the.right.moment eh
 
 \tx goːnče      bihin.
@@ -577,7 +577,7 @@ hyphenated form; I would think it's already lexicalized
 
 \tx čịkịhma.
 \mb čịkị    -m   -R      
-\ps v                    
+\ps n                     
 \ge cut.off -des -neg.cvb
 
 \ft My father also for a long time didn't want to take (her as a wife), but then

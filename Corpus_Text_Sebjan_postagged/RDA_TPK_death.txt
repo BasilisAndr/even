@@ -620,7 +620,7 @@ mentioning.
 
 \tx hebdʒenekemdes,         ee?
 \mb hebdʒen -ČEk -E  -mdEs ee
-\ps n                      interj
+\ps n                      interj 
 \ge funny   -nr  -ep -sml  eh
 \ft Nowadays it's become like a holiday, right?
 \ph
@@ -633,7 +633,7 @@ mentioning.
 \id RDA_TPK_death_054
 \tx Hebdʒenekemdes,         tiːk dʒọmkatta       tar   bej kokeriwen.
 \mb hebdʒen -ČEk -E  -mdEs tiek dʒọmkat -R(E)   tarak bej koke -RI       -W   -E  -n(I)    
-\ps n                      adv  v               pron  n   v                                
+\ps n                      adv  v               pron  n   v                                 
 \ge funny   -nr  -ep -sml  now  think   -nonfut dist  man die  -impf.ptc -acc -ep -poss.3sg
 \ft Nowadays they think a person's death is like a holiday.
 \ru Сейчас думают как праздник смерть человека.
@@ -644,7 +644,7 @@ mentioning.
 \id RDA_TPK_death_055
 \tx Bej họːjakie.
 \mb bej họːja =kE  
-\ps n   quant      
+\ps n   quant       
 \ge man many  =emph
 \ft  A lot of people.
 \ru
@@ -1534,7 +1534,7 @@ that, everything.
 
 \tx dʒebeddimdes                  dʒebukejegin.
 \mb dʒep -E  -D    -RI       -mdEs dʒep -WkEn -j    -EgIn     
-\ps v                              v                          
+\ps v                              v                           
 \ge eat  -ep -prog -impf.ptc -sml  eat  -caus -conn -prs.2sg.Y
 \ft You, however, give (people) that food of his, that meat of his to eat, as if he were eating.
 \ph
@@ -2146,7 +2146,7 @@ past tense meaning
 \id RDA_TPK_death_175
 \tx Digen mịar     ineŋi čụgaha...  tar.. tarakam       emie   neːdʒinni,    goːli?
 \mb digen mịan -L  ineŋi čụgaha        tarak tarakam       emie   neː -DʒI -nrI goːn -LI     
-\ps num   num      n     v             pron  adv           adv    v             v            
+\ps n   num      n     n             pron  adv           adv    v             v             
 \ge four  ten  -pl day   come.closer.Y dist  in.those.days also.Y put -fut -2sg say  -imp.2sg
 \ft When forty days approach you also put (food), right.
 \ph digemmịar

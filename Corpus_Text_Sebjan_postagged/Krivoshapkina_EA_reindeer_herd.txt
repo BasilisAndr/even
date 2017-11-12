@@ -72,7 +72,7 @@ Afanas'evna Kejmetinova.
 \ref
 \tx Stadala        bi   ammụ           gurgewčin,       ujis        stadala,       tiekte    gurgewčin        nọŋan,
 \mb stado  -(dU)LE biː aman   -W        gurgeːwči -n(I) ujun -Is    stado  -(dU)LE tiek =DE  gurgeːwči -n(I) nọŋan
-\ps n              pron n                v               num         n              adv       v               pron 
+\ps n              pron n                v               num         n              adv       v               pron  
 \ge herd.R -loc    1sg father -poss.1sg work      -3sg  nine -ord.Y herd.R -loc    now  =ptl work      -3sg  3sg  
 
 \tx adịːda    anŋanị, digen mịardụk        hulčedʒin,                         tala          nọŋan
@@ -128,7 +128,7 @@ herd.
 
 \tx gurgewčin.
 \mb gurgeːwči -n(I)
-\ps v              
+\ps n               
 \ge work      -3sg 
 
 \ft There he has worked for very many years, now he works there as a mentor, nastavnik as they say in Russian, for the young reindeer herders.
@@ -178,12 +178,12 @@ herd.
 \ref
 \tx Ọtpụskaj            gamị,        deremkeček   ọːrakan,                    nọŋan mutu
 \mb otpusk     -E  -J       ga   -mI       deremke -ČEk ọː     -REk      -E  -n(I)     nọŋan mut    -W  
-\ps n                       v              v            v                              pron  pron       
+\ps n                       v              v            n                              pron  pron         
 \ge holidays.R -ep -prfl.sg take -cond.cvb rest    -nr  become -cond.cvb -ep -poss.3sg 3sg   1pl.in -acc
 
 \tx amandụlat              huruwren.
 \mb aman   -(dU)LE -t(I)        hor -U    -Gr(E) -n(I)
-\ps n                           v                     
+\ps n                           v                      
 \ge father -loc    -poss.1pl.in go  -caus -hab   -3sg 
 \ft Taking leave, when the holidays started, she took us to our father.
 \comment
@@ -289,7 +289,7 @@ doesn't exist without the limitative suffix, i.e. guledej = NO; but one can say 
 \ref
 \tx Ŋiː, Toŋekčen gerbe torre.
 \mb ŋiː Toŋekčen   gerbe tor   -(dU)LE
-\ps pron ?          n     n            
+\ps pron ?          n     n             
 \ge who Tongekchen name  earth -loc   
 \ft It's in a place called Tongekchen.
 \ph
@@ -311,7 +311,7 @@ down for wood
 
 \tx oreldewrer           delbi, ńan   muttuk         honte, ejmu             noːn                     Tamara Afanasevna
 \mb orelde   -Gr(E) -r   delbi  ńaːn mut    -DUk(U) honte enen   -W        noː             -n(I)     Tamara Afanasevna
-\ps v                    adv    adv  pron           adj   n                n                         ?      ?         
+\ps v                    adv    adv  pron           adj   n                n                         ?      ?          
 \ge be.happy -hab   -3pl very.Y and  1pl.in -abl    other mother -poss.1sg younger.sibling -poss.3sg Tamara Afanasevna
 
 \tx kụŋalčal      ńan   muttule        ujis        stadala        ńoːwrerin                 deremketnemi.
@@ -532,7 +532,7 @@ mladshaja/mladshij
 \comment
 \tx Elizaveta Afanasevna kụŋalnị          ńan   biwekkerer             tala.
 \mb Elizaveta Afanasevna kụŋa  -L  -n(I)     ńaːn bi -WEːČ -Gr(E) -r   talal
-\ps ?         ?          n                   adv  v                    v    
+\ps ?         ?          n                   adv  n                    v     
 \ge Elizabeth Afanasevna child -pl -poss.3sg and  be -gnr  -hab   -3pl shine
 \ft And the children of Elizaveta Afanasevna are there.
 \ru Также находятся дети Елизаветы Афанасьевны ?там.
@@ -601,7 +601,7 @@ mladshaja/mladshij
 \ref
 \tx Ńan   kučuken ọmọlgan          niː, Edgar.
 \mb ńaːn kučuken ọmọlga -n(I)     ŋiː Edgar
-\ps adv  adj     n                pron ?    
+\ps adv  adj     n                pron n     
 \ge and  small   boy    -poss.3sg who Edgar
 \ft And her youngest son is Edgar.
 \comment
@@ -1059,7 +1059,7 @@ tarịt here is just an insertion, no real meaning, not a meaning of 'because'
 \ref
 \tx Tar   Vasilij Vasilevičńun   mut    omettu   kossiwrep                         ọrọlbụ.
 \mb tarak Vasilij Vasilevič  -ńUn mut    omettu   kosči              -Gr(E) -p      ọrọn              -L  -W  
-\ps pron  ?       n               pron   adv      v                                 n                         
+\ps pron  ?       n               pron   adv      v                                 n                          
 \ge dist  Vasilij Vasilevich -com 1pl.in together herd.reindeer(day) -hab   -1pl.in domestic.reindeer -pl -acc
 \ft We herded reindeer together with that Vasilij Vasilevich.
 \comment
@@ -1242,7 +1242,7 @@ anymore, whereas the aunt still works in the herd;
 
 \tx ọŋkụčam,                  irek  urekčelduli,        irek  ịaldụlị     ọŋkụčam                   haːllịw                biː.
 \mb ọŋka  -U    -Č   -E  -n  -W   irek  urekčen -L  -(dU)LI irek  ịak  -L  -(dU)LI ọŋka  -U    -Č   -E  -n  -W   haː  -L    -RI  -W        biː
-\ps v                             pron  n                   pron  pron             v                             v                         pron
+\ps v                             pron  n                   pron  pron             v                             n                         pron 
 \ge graze -caus -res -ep -nr -acc which hill    -pl -prol   which what -pl -prol   graze -caus -res -ep -nr -acc know -inch -pst -poss.1sg 1sg
 
 \ft With my father I learnt how to watch reindeer, how, where to feed them, along which hills, which whatchamacallit (rivers) to feed them.
@@ -1270,7 +1270,7 @@ kormlenie --> so it seems as if my analysis of kojeːčem, ọŋkụčam are cor
 \ref
 \tx Ọːn ọŋkụtmị               ịbga   bihiwen,                       ile           họːja ịak nawta         hieriwen,
 \mb ọːn ọŋka  -U    -Č   -mI       ịbgọ bi -RI       -W   -E  -n(I)     irek  -(dU)LE họːja ịak  nawta         hie  -RI       -W   -E  -n(I)    
-\ps pron v                          ?    v                               pron          quant pron n             v                                
+\ps n v                          ?    v                               pron          n pron n             v                                 
 \ge how graze -caus -res -cond.cvb good be -impf.ptc -acc -ep -poss.3sg which -loc    many  what reindeer.moss grow -impf.ptc -acc -ep -poss.3sg
 
 \tx ile           nawta         adụkụdmar     bihiwen,                       irek  ńoːčew     ọran
@@ -1374,7 +1374,7 @@ NO --> biː ọrọm begdettem, begdeččoːttem = postojanno lechu
 \ref
 \tx Biː adịː, mịan anŋanịdụkụj      ńamịčam          hịrgararam.
 \mb biː adịː     mịan anŋan -DUk(U) -J       ńamịčan         -W   hịr  -Gr(E) -R(E)   -m  
-\ps pron ?        num  n                      n                    v                       
+\ps pron ?        num  n                      n                    v                        
 \ge 1sg how.much ten  year  -abl    -prfl.sg female.reindeer -acc milk -hab   -nonfut -1sg
 \ft I milk does since I was ten years old.
 \comment
@@ -1404,7 +1404,7 @@ NO --> biː ọrọm begdettem, begdeččoːttem = postojanno lechu
 \ref
 \tx Nụmak ńamịčam          bastaːn   boːri         bihitnen,         olbočoː                          nụmak
 \mb nụmak ńamịčan         -W   bastaːn    boː  -RI       bi -RI  -tEn      olbe                 -čE     =eː   nụmak
-\ps adj   n                    adv        v              v                 v                                  adj  
+\ps adj   n                    adv        v              v                 v                                  adj   
 \ge tame  female.reindeer -acc at.first.Y give -impf.ptc be -pst -poss.3pl not.be.able.from.age -pf.ptc =emph tame 
 
 \tx ńamịčam,         hagdị, olbeče                      gerbe hagdị ńamịčan.
@@ -2226,7 +2226,7 @@ our hands).
 
 \tx hagana     kụkatam      haŋannam           ńan   ịak dʒulle       ịak, ujus        klastụ
 \mb saγana     kụkatan -W   haŋan -R(E)   -m   ńaːn ịak  dʒul  -(dU)LE ịak  ujun -Is    klas    -DU 
-\ps adv        n            v                  adv  pron rel.n         pron num         n           
+\ps adv        n            n                  adv  pron rel.n         pron num         n            
 \ge time.loc.Y mitten  -acc sew   -nonfut -1sg and  what front -loc    what nine -ord.Y grade.R -dat
 
 \tx takkačadnịkan              biː vystavkadu        ịaw      ọːrịw,          haŋannịw           ečin      dʒoːr
@@ -2449,7 +2449,7 @@ goːniwčinten = kak govorjat
 
 \tx haːrap,             mut    dʒụːlaːr             obodit          ukčemmekkerep              ńan   tar   nọŋartan muttu
 \mb haː  -R(E)   -p      mut    dʒụː  -(dU)LE -WUr     ewen -DI   -Č   ukčen -mEČ -Gr(E) -p      ńaːn tarak nọŋartan mut    -DU 
-\ps v                    pron   n                      n               v                         adv  pron  pron     pron       
+\ps v                    pron   n                      n               v                         adv  n  pron     pron        
 \ge know -nonfut -1pl.in 1pl.in house -loc    -prfl.pl Even -adjr -ins tell  -rec -hab   -1pl.in and  dist  3pl      1pl.in -dat
 
 \tx ịaw      tar   owon ọːn tegettiwen,                               tar   stadala        ọːn tegettiw,                   ọːn
@@ -2464,7 +2464,7 @@ goːniwčinten = kak govorjat
 
 \tx goːniken,     taraw      butunni      ičuketti                bihitnen.
 \mb goːn -nIkEn   tarak -W   bütünnüː   it  -WkEn -Č   -RI       bi -RI  -tEn     
-\ps v             pron       ?          v                        v                
+\ps v             pron       ?          n                        v                 
 \ge say  -sim.cvb dist  -acc entirely.Y see -caus -res -impf.ptc be -pst -poss.3pl
 \ft To say it, we know our language well because of their efforts, we speak Even at home, and they showed us how Evens live, how one lives in the
 herd, how one becomes a person, how one becomes a reindeer herder, how one migrates.
@@ -2689,7 +2689,7 @@ herd, how one becomes a person, how one becomes a reindeer herder, how one migra
 
 \tx goːŋner         tarak ọram,                nu     bebeːlken   kụŋaw     inupti                             ọran.
 \mb goːn -Gr(E) -r   tarak ọrọn              -W   nu     bebeː  -lkEn kụŋa  -W   in            -U    -B   -RI       ọrọn             
-\ps v                pron  n                      ptl    n            n          v                                  n                
+\ps v                pron  n                      ptl    n            n          v                                  n                 
 \ge say  -hab   -3pl dist  domestic.reindeer -acc well.R cradle -prop child -acc carry.on.back -caus -med -impf.ptc domestic.reindeer
 \ft That reindeer with the cradle in these parts... the Evens call that reindeer the "bebeːruk" (the cradle-carrier), well, the reindeer on which the
 cradle with the baby is loaded.
@@ -2757,7 +2757,7 @@ nịna 'plate, dish'
 \ref
 \tx Tarịt biː, biː ńan   họːja ịaw      inučew                           elgewrem.
 \mb tarịt biː biː ńaːn họːja ịak  -W   in            -W     -čE     -W   elge -Gr(E) -m  
-\ps adv   pron pron adv  quant pron      v                                 v               
+\ps adv   pron pron adv  n pron      v                                 v                
 \ge then  1sg 1sg and  many  what -acc carry.on.back -advrs -pf.ptc -acc lead -hab   -1sg
 \ft Then I (come), I also lead many pack reindeer.
 \comment
@@ -4286,7 +4286,7 @@ nụmakahnan = kakie vy smirnye
 \ref
 \tx Ọralčịmŋa     ŋịnal,     dʒoːr ŋịn.
 \mb ọrọlčị        -mŋE  ŋịn -E  -L  dʒoːr ŋịn
-\ps v                   n           num   n  
+\ps v                   n           num   n   
 \ge herd.reindeer -agnr dog -ep -pl two   dog
 \ft Two herding dogs.
 \ph
@@ -4300,7 +4300,7 @@ nụmakahnan = kakie vy smirnye
 \ref
 \tx Ọttọn tadụk       honte dʒoːr ŋịn ịak, ịala        bujuhnemi                    hermi,        tar   ịaw,
 \mb ọttọn tarak -DUk(U) honte dʒoːr ŋịn ịak  ịak  -(dU)LE buju -s    -nE     -mI       hor -mI       tarak ịak  -W  
-\ps ptl   pron          adj   num   n   pron pron         v                            v             pron  pron     
+\ps n   pron          adj   num   n   pron pron         v                            v             pron  pron      
 \ge dp.Y  dist  -abl    other two   dog what what -loc    hunt -mult -intent -cond.cvb go  -cond.cvb dist  what -acc
 
 \tx ụjamkandụlagụ,       abịgala           nakatlagụ       hermi         nọŋartan tar   emie   belgerer.
@@ -4415,7 +4415,7 @@ they are still there, so the bihe fits better
 
 \tx bihe.
 \mb bi -R(E)  
-\ps v         
+\ps v          
 \ge be -nonfut
 \ft Her children have grown up already and have become reindeer herders.
 \ph
@@ -4666,7 +4666,7 @@ things).
 \ref
 \tx Tar   Anna Grigorevna họː ečin      egdʒen, họː họːjaw     haːrị       atịkan  bihin.
 \mb tarak Anna Grigorevna họː  erroːčin  egdʒen họː  họːja -W   haː  -RI       atịkan    bi -RI  -n(I)    
-\ps pron  ?    ?          adv  pron      adj    adv  quant      v              n         v                
+\ps pron  n    ?          adv  pron      adj    adv  quant      v              n         v                 
 \ge dist  Anna Grigorevna very prox.qual big    very many  -acc know -impf.ptc old.woman be -pst -poss.3sg
 \ft That Anna Grigorevna was a very big person like this, was an old woman who knew very much.
 \ph
@@ -5640,7 +5640,7 @@ were old.
 
 \tx emuwrer.
 \mb em   -U    -Gr(E) -r  
-\ps v                     
+\ps v                      
 \ge come -caus -hab   -3pl
 \ft And they come and bring things from our relatives who stayed in the village, they bring presents, they bring food.
 \comment
@@ -6619,12 +6619,12 @@ here, adult
 
 \tx gurgewen,                 ọralčịmŋa     tar   mut    imenno    tar   domŋele         biwetti              bej
 \mb gurgeː -W   -E  -n(I)     ọrọlčị        -mŋE  tarak mut    imenno    tarak doːmŋe -(dU)LE bi -WEːČ -RI       bej
-\ps n                         v                   pron  pron   ptl       pron  n              v                  n  
+\ps n                         v                   pron  pron   ptl       n  n              n                  n   
 \ge work   -acc -ep -poss.3sg herd.reindeer -agnr dist  1pl.in exactly.R dist  taiga  -loc    be -gnr  -impf.ptc man
 
 \tx traditsiawan                  tọːmman,               ịtkawan,               nọŋartan este        haːr...      ịbgat
 \mb tradicija   -W   -E  -n(I)     tọːm   -W   -E  -n(I)     ịtka  -W   -E  -n(I)     nọŋartan e   -R(E)   haː  -R       ịbgọ -Č  
-\ps n                              n                         n                        pron     v           v             n        
+\ps n                              n                         n                        pron     v           v             n         
 \ge tradition.R -acc -ep -poss.3sg custom -acc -ep -poss.3sg rules -acc -ep -poss.3sg 3pl      neg -nonfut know -neg.cvb good -ins
 
 \tx haːra,       este        haːr.
@@ -6668,7 +6668,7 @@ of the people living in the taiga.
 
 \tx ịawrarńụn.
 \mb ịa      -Gr(E) -r   =ńUn  
-\ps v                         
+\ps v                          
 \ge do.what -hab   -3pl =restr
 \ft This "In our village there are reindeer herders like this", only that they do (know).
 \comment
@@ -6720,7 +6720,7 @@ of the people living in the taiga.
 
 \tx bej, kụŋaraptụkụj              tegetče                 bej, tarakńụn  bej ečin      tar   bekebben
 \mb bej kụŋa  -(E)rEp -DUk(U) -J       teg      -E  -Č   -čE     bej tarak =ńUn   bej erroːčin  tarak bekeč -W   -E  -n(I)    
-\ps n   n                              v                         n   pron         n   pron      pron  adv                     
+\ps n   n                              v                         n   pron         n   pron      pron  adv                      
 \ge man child -adjr   -abl    -prfl.sg sit.down -ep -res -pf.ptc man dist  =restr man prox.qual dist  all   -acc -ep -poss.3sg
 
 \tx haːdnị.
@@ -6794,12 +6794,12 @@ reindeer herders, who has lived from childhood, only that person knows everythin
 
 \tx goːnteken      tribunalduk            họːjaw     ečin      torelbu            goːŋner         ere, mut    ečin
 \mb goːn -ntEkEn   tribuna    -L  -DUk(U) họːja -W   erroːčin  tore  -n  -L  -W   goːn -Gr(E) -r   erek mut    erroːčin 
-\ps v              n                      quant      pron      v                  v                pron pron   pron     
+\ps v              n                      quant      pron      v                  v                n pron   pron      
 \ge say  -mult.cvb platform.R -pl -abl    many  -acc prox.qual speak -nr -pl -acc say  -hab   -3pl prox 1pl.in prox.qual
 
 \tx nektit                    naːda, ebehel    ečin      nektit                    naːda, tačịn       nektit                    naːda,
 \mb nek -RI       -t(I)        nado   ewen -SEl erroːčin  nek -RI       -t(I)        nado   tarọːčịn  nek -RI       -t(I)        nado  
-\ps v                          v      n         pron      v                          v      pron      v                          v     
+\ps v                          v      n         pron      n                          v      pron      v                          v      
 \ge do  -impf.ptc -poss.1pl.in need.R Even -pl  prox.qual do  -impf.ptc -poss.1pl.in need.R dist.qual do  -impf.ptc -poss.1pl.in need.R
 
 \tx erew      takkattịt                           naːda, erew      ịarịt                      naːda.
@@ -6826,7 +6826,7 @@ do this, we have to do that, we have to learn this, we have to do this."
 
 \tx adʒịt ịbgat       este        haːr.
 \mb ajdịt ịbgọ -Č   e   -R(E)   haː  -R      
-\ps n     n         v           v            
+\ps n     n         v           v             
 \ge truth good -ins neg -nonfut know -neg.cvb
 \ft People who say that, some people really don't know their own language, their own culture well, in truth.
 \comment
@@ -6872,7 +6872,7 @@ rather weird
 \ref
 \tx Tar... stadala        wabše       eče        ńoːwette,            eče        ńoːr         bejel.
 \mb tarak stado  -(dU)LE voobše       e   -čE     ńoː  -WEːČ -R       e   -čE     ńoː  -R       bej -E  -L 
-\ps pron  n              adv          v           v                   v           v             n          
+\ps pron  n              n          v           v                   v           v             n           
 \ge dist  herd.R -loc    in.general.R neg -pf.ptc exit -gnr  -neg.cvb neg -pf.ptc exit -neg.cvb man -ep -pl
 \ft People who don't ever go to the herd.
 \comment
@@ -6896,7 +6896,7 @@ rather weird
 
 \tx bejelduk           ńan   ịak... owon dʒulgiden        ńụčịdịč    goːmi          zavisit,         goːli?
 \mb bej -E  -L  -DUk(U) ńaːn ịak  ewen dʒul  -gIdE -n(I) ńụča    -DI   -Č   goːn -mI       zavisit          goːn -LI     
-\ps n                   adv  pron n    rel.n             n                  v              v                v            
+\ps n                   adv  pron n    n             n                  v              v                v             
 \ge man -ep -pl -abl    and  what Even front -part -3sg  Russian -adjr -ins say  -cond.cvb depend.prs.3sg.R say  -imp.2sg
 \ft That is why I think that it is exactly on us, people who truly know the life of the Evens, who truly know the life of reindeer herders, that the
 future of the Evens depends.
@@ -6971,7 +6971,7 @@ future of the Evens depends.
 
 \tx ńụčịdịč,   aby_liš_by     hupkučim         goːmi,         tar   etenni         ewen bihe        himbiːr.
 \mb ńụča    -DI   -Č   aby_liš_by      hupkut -DʒI -m   goːn -mI       tarak e   -t(E) -nrI ewen bi -R       himbiːr       
-\ps n                  adv             v                v              pron  v              n    v           adv           
+\ps n                  adv             v                v              pron  n              n    v           adv            
 \ge Russian -adjr -ins superficially.R learn  -fut -1sg say  -cond.cvb dist  neg -fut  -2sg Even be -neg.cvb all.the.same.Y
 
 \ft And I will simply learn the Even language, as they say in Russian "aby liš by" (superficially), if I will learn (it) superficially, you won't be an
@@ -7008,7 +7008,7 @@ hимбир.
 
 \tx dʒọmkattan,              tarak ịak nọŋan ịak goːniken,     bili,      et...    natsịanalnahụ,  natsionalnosti
 \mb dʒọm     -kEČ  -R(E)   -n(I) tarak ịak  nọŋan ịak  goːn -nIkEn   bili       et       nacional'nost' -W   nacional'nost'
-\ps v                            pron  pron pron  pron v             pron       v        n                   n             
+\ps v                            pron  n pron  pron v             pron       n        n                   n              
 \ge remember -mult -nonfut -3sg  dist  what 3sg   what say  -sim.cvb that.one.Y overcome nationality.R  -acc nationality.R 
 
 \tx biwetten                goːniken.
@@ -7067,12 +7067,12 @@ hимбир.
 
 \tx họː ịak ehni,          ọralčịmŋa     gurgeːn,         binin          họː urgehni,      meːne   ehni
 \mb họː  ịak  e   -R(E) -n(I) ọrọlčị        -mŋE  gurgeː -n(I)     bini -n(I)     họː  urge  =hni    meːne    e   -R(E) -n(I)
-\ps adv  pron v               v                   n                n              adv  adj           adv      v              
+\ps adv  pron v               n                   n                n              adv  adj           adv      v                
 \ge very what neg -nfut -3sg  herd.reindeer -agnr work   -poss.3sg life -poss.3sg very heavy =affirm simply.Y neg -nfut -3sg 
 
 \tx bihe        erek.
 \mb bi -R       erek
-\ps v           pron
+\ps v           pron 
 \ge be -neg.cvb prox
 \ft The Ewens' life, language, the life of reindeer herders is very whatever, right, the work and life of reindeer herders is very difficult, right, it isn't
 simple.
@@ -7114,7 +7114,7 @@ just romantic.
 
 \tx tegettinde                                 họː, ne    tolko  aj,  a     imenno    urge, urge.
 \mb teg      -E  -Č   -RI       -n(I)     =DE  họː  ne    tol'ko aj   a.R   imenno    urge  urge 
-\ps v                                          adv  ptl   adv    adj  ?     ptl       adj   adj  
+\ps v                                          adv  ptl   adv    n  ?     ptl       adj   adj    
 \ge sit.down -ep -res -impf.ptc -poss.3sg =ptl very neg.R only.R good but.R exactly.R heavy heavy
 
 \ft But to tell the truth, the work of a reindeer herder is very good, his life is not only good, but hard, precisely.
@@ -7153,7 +7153,7 @@ just romantic.
 
 \tx tiːkerep    nosegčerdu        nosegčen kụŋaldụ     adʒịtụ  goː... ečin      boːdʒin.
 \mb tiek -(E)rEp nosegčen -L  -DU  nosegčen kụŋa  -L  -DU  ajdịt -W   goːn erroːčin  boː  -DʒI -n(I)
-\ps adv          n                 ?        n              n          v    pron      v              
+\ps adv          n                 n        n              n          v    pron      v               
 \ge now  -adjr   young    -pl -dat young    child -pl -dat truth -acc say  prox.qual give -fut -3sg 
 \ft Only a person who knows that well, a person who has learned that well, who knows that, a person who has learned the language, as I think such
 a person will give the young people of today the truth.
@@ -7175,7 +7175,7 @@ a person will give the young people of today the truth.
 
 \tx ukčendʒin.
 \mb ukčen -DʒI -n(I)
-\ps v               
+\ps v                
 \ge tell  -fut -3sg 
 \ft He will tell the truth about the language and the life (of the reindeer herder).
 \comment
@@ -7410,7 +7410,7 @@ where you migrate, then you will be a human, you will be a reindeer herder.
 \ref
 \tx Torduk        torle         nulgemi           ečin      ịala,       urekčendulegu,      ọkaːtlagụ
 \mb tor   -DUk(U) tor   -(dU)LE nulge   -mI       erroːčin  ịak  -(dU)LE urekčen -(dU)LE =GU ọkaːt -(dU)LE =GU
-\ps n             n             v                 pron      pron         n                   n                
+\ps n             n             v                 pron      n         n                   n                 
 \ge earth -abl    earth -loc    migrate -cond.cvb prox.qual what -loc    hill    -loc    =q  river -loc    =q 
 
 \tx ịawgụl        anịnịkan,         torńun     tor   mụhanńụnnị       ukčemmetniken,       tala          bejel
@@ -7515,7 +7515,7 @@ ljudej
 \ref
 \tx Ịawgụl        geleːččinnigu,       ịawgụl        ukčendʒinnigu,      tar   honte mụhaldụ,     tor
 \mb ịak  -W   =(W)Ul geleːt   -DʒI -nrI =GU ịak  -W   =(W)Ul ukčen -DʒI -nrI =GU tarak honte mụhan  -L  -DU  tor  
-\ps pron             v                      pron             v                   pron  adj   n               n    
+\ps pron             v                      pron             v                   pron  n   n               n     
 \ge what -acc =indef look.for -fut -2sg =q  what -acc =indef tell  -fut -2sg =q  dist  other spirit -pl -dat earth
 
 \tx mụhandụn,          tar   ịak, ọkaːt mụhandụn,          urekčen mụhandụn           tar   butunni      tọwlị     ńan
@@ -7561,12 +7561,12 @@ all of those you reach through sharing with the fire, sharing something.
 
 \tx toremur            eti           haːr         obohol,   stadala        gurgewčiri           obohol    vsjotaki       tiːkte
 \mb tore  -n  -WUr     e   -RI       haː  -R       ewen -SEl stado  -(dU)LE gurgeːwči -RI       ewen -SEl vsetaki        tiek =DE 
-\ps v                  v             v             n         n              v                   n         ptl            adv      
+\ps v                  v             v             n         n              v                   n         ptl            adv       
 \ge speak -nr -prfl.pl neg -impf.ptc know -neg.cvb Even -pl  herd.R -loc    work      -impf.ptc Even -pl  all.the.same.R now  =ptl
 
 \tx nu,    obohol    goːmi          hop.
 \mb nu     ewen -SEl goːn -mI       söp 
-\ps ptl    n         v              ptl 
+\ps n    n         v              ptl  
 \ge well.R Even -pl  say  -cond.cvb OK.Y
 \ft That is why, as I think, the Evens who have forgotten their language, right, the Evens who don't know their language, the Evens who work in
 the reindeer herds, one can still call them Evens now.
@@ -7609,7 +7609,7 @@ the reindeer herds, one can still call them Evens now.
 
 \tx ńọxadịtkụ       toreniken,     goːli?
 \mb ńọka  -DI   -Č   =GU tore  -nIkEn   goːn -LI     
-\ps n                    v              v            
+\ps n                    v              v             
 \ge Sakha -adjr -ins =q  speak -sim.cvb say  -imp.2sg
 \ft Because even though they have forgotten their (native) language, speaking Sakha (Yakut), right?
 \comment
@@ -7703,7 +7703,7 @@ anyway.
 
 \tx biwkendewur,                emeːndewur,              toremur            etit                  ọmŋar         naːda.
 \mb bi -WkEn -DE       -WUr     emeːn -DE       -WUr     tore  -n  -WUr     e   -RI  -t(I)        ọmŋa   -R       nado  
-\ps v                           v                        v                  v                     v               v     
+\ps v                           v                        v                  v                     v               n      
 \ge be -caus -purp.cvb -prfl.pl leave -purp.cvb -prfl.pl speak -nr -prfl.pl neg -pst -poss.1pl.in forget -neg.cvb need.R
 \ft And as I think we have to make our language exist, have to keep it, so that we don't forget it.
 \comment
@@ -7717,12 +7717,12 @@ anyway.
 \ref
 \tx Tiek họːja bej toremi             ọmŋača,     meːn torendʒi              ehni           ukčemmekkerer,
 \mb tiek họːja bej tore  -n  -J       ọmŋa   -čE     meːn tore  -n  -DʒI         e   -R(E) -n(I) ukčen -mEČ -Gr(E) -R      
-\ps adv  quant n   v                  v              pron v                      v               v                         
+\ps adv  quant n   v                  v              pron v                      v               v                          
 \ge now  many  man speak -nr -prfl.sg forget -pf.ptc refl speak -nr -ins.prfl.sg neg -nfut -3sg  tell  -rec -hab   -neg.cvb
 
 \tx ehni           torewrer,         haːn bejel      herkeŋner             toreriwur,               haldʒụha
 \mb e   -R(E) -n(I) tore  -Gr(E) -r   haːn bej -E  -L  herken     -Gr(E) -r   tore  -RI       -WUr     haldʒụ         -(h)E
-\ps v               v                 ?    n           v                      v                        v                   
+\ps v               v                 ?    n           v                      v                        n                    
 \ge neg -nfut -3sg  speak -hab   -3pl some man -ep -pl be.ashamed -hab   -3pl speak -impf.ptc -prfl.pl be.embarrassed -interj
 
 \tx goːniken.
@@ -7780,7 +7780,7 @@ language, saying "it's embarrassing!".
 \ref
 \tx Tara.
 \mb tarak
-\ps pron 
+\ps pron  
 \ge dist 
 
 \comment
@@ -7816,7 +7816,7 @@ language, saying "it's embarrassing!".
 
 \tx ukčemmettej                    ịadaj                    goːmi.
 \mb ukčen -mEČ -DE       -J       ịa      -DE       -J       goːn -mI      
-\ps v                             v                          v             
+\ps v                             v                          v              
 \ge tell  -rec -purp.cvb -prfl.sg do.what -purp.cvb -prfl.sg say  -cond.cvb
 \ft Here exactly in town, for them to talk every day only in their own language.
 \comment
@@ -7854,7 +7854,7 @@ language, saying "it's embarrassing!".
 
 \tx ńanda      tar   upeːn                abịgan              takkattaŋatna                        ńan   mut    meːn
 \mb ńaːn =DE  tarak upeː        -n(I)     abaga       -n(I)     tat   -kE -Č   -DEŋ     -E  -tEn      ńaːn mut    meːn
-\ps adv       pron  n                     n                     v                                     adv  pron   pron
+\ps adv       pron  n                     n                     n                                     adv  pron   pron 
 \ge and  =ptl dist  grandmother -poss.3sg grandfather -poss.3sg learn -?? -res -pst.ptc -ep -poss.3pl and  1pl.in refl
 
 \tx meːndʒur         obodit          toremek...  ukčemmekkerep,             tiemi     nọŋan tiːkte   obodit          toredni.
@@ -7909,7 +7909,7 @@ in our language, that is why he speaks Even even now.
 \ref
 \tx Edʒilde     ọmŋar         meːn toremur!
 \mb e   -(LI)lrE ọmŋa   -R       meːn tore  -n  -WUr    
-\ps v            v               pron v                 
+\ps v            v               pron n                  
 \ge neg -imp.2pl forget -neg.cvb refl speak -nr -prfl.pl
 \ft Don't forget your own language!
 \comment
@@ -7923,12 +7923,12 @@ in our language, that is why he speaks Even even now.
 \ref
 \tx Toren     emi           toren     ačča ọːrakan                     uže      erek mut    narọtat,                mut
 \mb tore  -n  e   -mI       tore  -n  ačča ọː     -REk      -E  -n(I)     uže       erek mut    narod    -E  -t(I)        mut   
-\ps v         v             v         ptl  v                              adv       pron pron   n                         pron  
+\ps v         v             v         n  v                              adv       pron pron   n                         pron   
 \ge speak -nr neg -cond.cvb speak -nr neg  become -cond.cvb -ep -poss.3sg already.R prox 1pl.in people.R -ep -poss.1pl.in 1pl.in
 
 \tx ŋunmiret                    eben gerbe ačča ọːdʒịn.
 \mb ŋunmin -L  -E  -t(I)        ewen gerbe ačča ọː     -DʒI -n(I)
-\ps n                           n    n     ptl  v                
+\ps n                           n    n     ptl  v                 
 \ge people -pl -ep -poss.1pl.in Even name  neg  become -fut -3sg 
 \ft When the language doesn't... when the language disappears, then our people, so-called Evens will disappear.
 \comment
@@ -7947,7 +7947,7 @@ in our language, that is why he speaks Even even now.
 
 \tx ọmŋar,        traditsiaj,          ịtkalbụ,   tọːmalbụ,      goːli,        toŋikičelbu.
 \mb ọmŋa   -R       tradicija   -J       ịtka  -L  -W   tọːm   -E  -L  -W   goːn -LI      toŋke   -kIč -E  -L  -W  
-\ps v               n                    n              n                   v             n                        
+\ps v               n                    n              n                   v             n                         
 \ge forget -neg.cvb tradition.R -prfl.sg rules -pl -acc custom -ep -pl -acc say  -imp.2sg respect -nr  -ep -pl -acc
 
 \ft Therefore let the Even not forget his language, not forget his culture, his traditions, the rules, customs, right, the taboos.
@@ -7964,7 +7964,7 @@ in our language, that is why he speaks Even even now.
 \ref
 \tx Ńan   owon ọrọm               irgetniken     tegetten.
 \mb ńaːn ewen ọrọn              -W   irget -nIkEn   teg      -E  -Č   -DE       -n(I)    
-\ps adv  n    n                      v              v                                    
+\ps adv  n    n                      v              v                                     
 \ge and  Even domestic.reindeer -acc raise -sim.cvb sit.down -ep -res -purp.cvb -poss.3sg
 \ft And let the Even live raising reindeer.
 \comment

@@ -154,7 +154,7 @@ toːrenan bisni -- he has hunting grounds
 \id Solodikov_Artem_Managic_009
 \tx Tugenidu     oxotnikaddʒoːttem,                dʒụganị ọːdakan
 \mb tugeni -DU  oxotnika -D    -WEːČ -R(E)   -m   dʒụganị ọː     -REk      -E  -n(I)    
-\ps n           v                                 n       v                             
+\ps n           v                                 n       v                              
 \ge winter -dat hunt.R   -prog -gnr  -nonfut -1sg summer  become -cond.cvb -ep -poss.3sg
 
 \tx rybakaddʒoːttem.
@@ -538,7 +538,7 @@ toːrenan bisni -- he has hunting grounds
 \id Solodikov_Artem_Managic_033
 \tx Emnidʒur         nan    aktjaːbrla       poka    gịakịŋčaŋgawụr
 \mb em   -RIdʒI   -L  ńaːn oktjabr   -(dU)LE poka    gịakị   -ŋ   -čEn -GE    -WUr    
-\ps v                 adv  n                 ptl     pron                             
+\ps v                 n  n                 ptl     pron                              
 \ge come -ant.cvb -pl and  October.R -loc    until.R various -aln -dim -desig -prfl.pl
 
 \tx kimeddʒoːttu.
@@ -851,7 +851,7 @@ about human food (that's insulting); so the syntax is "food for us (for our purp
 \id Solodikov_Artem_Managic_054
 \tx Tarakam       ŋịnčarbụn               bisiten,    nart.. tụrkịwụn         nartọwịj.
 \mb tarakam       ŋịn -čEn -L  -WUn         bi -RI  -tEn      tụrkị -WUn         nartọwịj
-\ps adv           n                         v                 n                  adj     
+\ps adv           n                         v                 n                  adj      
 \ge in.those.days dog -dim -pl -poss.1pl.ex be -pst -poss.3pl sled  -poss.1pl.ex sled.R  
 
 \ft In that time we had dogs, sled dogs.
@@ -1544,7 +1544,7 @@ ja vsegda derzhu postavlennoj; biː tullem = postavil
 \id Solodikov_Artem_Managic_098
 \tx Tadụk       adalačta            bejči.. adalčịwaːttam.
 \mb tarak -DUk(U) adal    -E  -Č   =DE  bejči adal    -Č   -WEːČ -R(E)   -m  
-\ps pron          n                     v     v                              
+\ps n          n                     v     v                               
 \ge dist  -abl    fishnet -ep -ins =ptl hunt  fishnet -res -gnr  -nonfut -1sg
 
 \ft Then I fish with a fish net.
@@ -2172,7 +2172,7 @@ kimčewu dọŋkagajị --> so the construction is ambiguous, but in the context
 \id Solodikov_Artem_Managic_148
 \tx čas tịka, iŋe?
 \mb čas tịka ịŋa
-\ps ptl adv  ?  
+\ps ptl adv  ?   
 \ge ptl all  yes
 
 \ft Well is it enough now?

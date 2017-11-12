@@ -113,7 +113,7 @@ in that area, she didn't know this; it's not a taboo term
 \ref
 \tx A     bi   ečiwu             kụŋa bimi         ụnụr            ịamị minu         tačịn       uŋiddʒoːtte                   ulgimiriwu.
 \mb a.R   biː e   -RI  -W        kụŋa  bi -mI       ụnụ        -R       ịamị min     -W   tarọːčịn  uŋ -E  -D    -WEːČ -R(E)       ulgim -i   -RI  -W       
-\ps ?     pron v                  n     v            v                   pron pron         pron      v                              v                        
+\ps ?     pron v                  n     v            v                   pron pron         n      v                              v                         
 \ge but.R 1sg neg -pst -poss.1sg child be -cond.cvb understand -neg.cvb why  1sg.obl -acc dist.qual do -ep -prog -gnr  -nonfut ask   -ipf -pst -poss.1sg
 
 \ft And I, when I was small, didn't understand at all why they do (i.e. say)  like that.
@@ -144,7 +144,7 @@ it's not clear what he actually says.
 
 \tx Čọpaŋaduk,          Čọpandụk     bisin.
 \mb Čọpan    -mŋE -DUk(U) Čọpan    -DUk(U) bi -RI  -n(I)    
-\ps n                     n                v                
+\ps n                     n                v                 
 \ge Sopočnoe -nr  -abl    Sopočnoe -abl    be -pst -poss.3sg
 
 \ft Bebe, the late Bebe, he laughed Čopanga, Čopanga, but he himself was from Sopočnoe.
@@ -155,7 +155,7 @@ it's not clear what he actually says.
 \ref
 \tx Ejek,   ejekmeje      bisin,            ili  ejek    ọrọčnun    amụttan.
 \mb ejek    ejek    =mEjE bi -RI  -n(I)     ili  ejek    ọrọč  -ńUn am  -U    -Č   -R(E)   -n(I)
-\ps n       n             v                 conj n       n          v                           
+\ps n       n             v                 conj n       n          v                            
 \ge Russian Russian =ptl  be -pst -poss.3sg or.R Russian Oroch -com mix -caus -res -nonfut -3sg 
 
 \ft He was a Russian, it turns out, or Russian mixed with Even.
@@ -352,7 +352,7 @@ think it's fairly clear that hor- is just a general motion verb "go")
 
 \tx prosto   mergeːčiddiwun,                   ọːn ịamị tačịn       kaltamnịn.
 \mb prosto   mergeːt -E  -D    -RI  -WUn         ọːn ịamị tarọːčịn  kaltam -RI  -n(I)    
-\ps adv      v                                   pron pron pron      v                    
+\ps adv      v                                   n pron pron      v                     
 \ge simply.R think   -ep -prog -pst -poss.1pl.ex how why  dist.qual crack  -pst -poss.3sg
 
 \ft And it was impossible to understand, why it cracked like that, and we couldn't understand, simply thought, why did it crack like that.

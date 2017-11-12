@@ -198,7 +198,7 @@ Even (reindeer herder) from the Eveno-Bytantaj district who spoke only Sakha (Ya
 \id Kejmetinova_XA_various_016
 \tx Nọŋartan mịan dʒoːr kụŋalkahal      bihitnen.
 \mb nọŋartan mịan dʒoːr kụŋa  -lkEn -SEl bi -RI  -tEn     
-\ps pron     num  num   n                v                
+\ps pron     n  n   n                v                 
 \ge 3pl      ten  two   child -prop -pl  be -pst -poss.3pl
 \ft They had twelve children.
 \ru
@@ -280,7 +280,7 @@ Even (reindeer herder) from the Eveno-Bytantaj district who spoke only Sakha (Ya
 \id Kejmetinova_XA_various_023
 \tx Nọŋandụk    ńoːdmer,             Kejmetinov Nikolaj Afanasevič, omen ńama   ujun, omen tïːhïnča
 \mb nọŋan -DUk(U) noː             -dmEr  Kejmetinov Nikolaj Afanasevič  omen ńama    ujun omen tïːhïnča  
-\ps pron          n                      ?          ?       ?           num  num     num  num  num       
+\ps pron          n                      ?          ?       ?           n  num     num  num  num        
 \ge 3sg   -abl    younger.sibling -contr Kejmetinov Nikolaj Afanasevich one  hundred nine one  thousand.Y
 
 \tx ujun ńama   dʒoːrmịar      alta, alta  anŋanịdụ baldarịdʒị, uon   hette   anŋịnịŋị     dʒalụbgịrịdʒị,
@@ -408,7 +408,7 @@ Fjodor Ksenofontovich Krivoshapkin, had to take this man to town.
 
 \tx Ksenofontovič, nọŋan ịahalan             keńeli bimi,        eče        horre.
 \mb Ksenofontovič  nọŋan ịašal -E  -n(I)     keńeli bi -mI       e   -čE     hor -R      
-\ps ?              pron  n                   adj    v            v           v           
+\ps n              pron  n                   adj    n            v           v            
 \ge Ksenofontovich 3sg   eyes  -ep -poss.3sg bad    be -cond.cvb neg -pf.ptc go  -neg.cvb
 \ft The two of them were supposed to go to the war against Hitler together, but Fjodor Ksenofontovich didn't go because his eyes were
 bad.
@@ -445,7 +445,7 @@ bad.
 \id Kejmetinova_XA_various_033
 \tx Tala,         tala          herridʒi,   nọŋan Avstrija, Avstrija gọsụdarstvatïn Viene  kọrat
 \mb tarak -(dU)LE tarak -(dU)LE hor -RIdʒI   nọŋan Avstrija Avstrija gosudarstvo -(t)In Vena   gorod 
-\ps pron          pron          v            pron  ?        ?        n                  ?      n     
+\ps pron          pron          v            pron  n        ?        n                  ?      n      
 \ge dist  -loc    dist  -loc    go  -ant.cvb 3sg   Austria  Austria  state.R     -gen.Y Vienna town.R
 
 \tx hattụn,           kọrat hattụn            akọpaγa,     badʒịkar tụŋŋan čaːska    dïlï
@@ -842,7 +842,7 @@ not frequently used.
 \id Kejmetinova_XA_various_061
 \tx Tarakam       abagada,         ŋeːlesmide                  họː họːja biwren.
 \mb tarakam       abaga       =DE  ŋeːlem         -RI       =DE  họː  họːja bi -Gr(E) -n(I)
-\ps adv           n                v                             adv  quant v              
+\ps adv           n                v                             adv  quant v               
 \ge in.those.days grandfather =ptl be.frightening -impf.ptc =ptl very many  be -hab   -3sg 
 \ft In those days there were a lot of bears and wolves.
 \ru Тогда медведей и волков очень много было.
@@ -980,7 +980,7 @@ she read it literally. When she had pronounced it while writing she had said hor
 \id Kejmetinova_XA_various_072
 \tx Abaga       nọŋmụtnan          dọlčịrịdʒị, ụtalgaran,              tarịt ńajụːkan  amaskị
 \mb abaga       nọŋan -W   -tEn      dọlčị  -RIdʒI   ụtal       -Gr(E) -E  -n(I) tarịt ńańụkụn amar   -skI     
-\ps n           pron                 v               v                           adv   adv     ?               
+\ps n           n                 v               v                           adv   adv     ?                
 \ge grandfather 3sg   -acc -poss.3pl listen -ant.cvb understand -hab   -ep -3sg  then  quietly behind -advb.all
 
 \tx mịːtnịkan     horeddi                toreŋtiki            horesŋeren.
@@ -1162,7 +1162,7 @@ breast.
 \id Kejmetinova_XA_various_086
 \tx Bakaldamačaktụ             biwetmekkerer.
 \mb bak  -(E)ldE -mEČ -ČEk -DU  bi -WEːČ -mEČ -Gr(E) -r  
-\ps v                           v                        
+\ps v                           v                         
 \ge find -soc    -rec -nr  -dat be -gnr  -rec -hab   -3pl
 \ft Go visit each other.
 \ru
@@ -1173,7 +1173,7 @@ breast.
 \id Kejmetinova_XA_various_087
 \tx Tarakam       gọrụ tegetčel                    ńimeːrel       ọrọm               maːnịkan   bakaldawrar.
 \mb tarakam       gọrụ teg      -E  -Č   -čE     -L  ńimer     -E  -L  ọrọn              -W   maː  -nIkEn   bak  -(E)ldE -Gr(E) -r  
-\ps adv           adv  v                             n                 n                      v             v                       
+\ps n           adv  v                             n                 n                      v             v                        
 \ge in.those.days long sit.down -ep -res -pf.ptc -pl neighbour -ep -pl domestic.reindeer -acc kill -sim.cvb find -soc    -hab   -3pl
 \ft Then the family who had been living (in that place) for a long time met (the visitors) slaughtering a reindeer.
 \ru Тогда долго жившая семья забивая оленей, встречали.

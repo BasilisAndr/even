@@ -259,7 +259,7 @@ expressions
 
 \tx kụŋaŋalnụmị,               tadụ,    tadụ     gurgeːwčiddʒoːtte                 nọŋartan, sto...
 \mb kụŋa  -ŋ   -E  -L  -ńUn -J       tarak -DU  tarak -DU  gurgeːwči -D    -WEːČ -R(E)       nọŋartan *sto
-\ps n                                pron       pron       v                                 pron     ?
+\ps n                                n       pron       v                                 pron     ? 
 \ge child -aln -ep -pl -com -prfl.sg dist  -dat dist  -dat work      -prog -gnr  -nonfut     3pl      ***
 
 \tx starožitịddʒọːtte               ịawụčesị.

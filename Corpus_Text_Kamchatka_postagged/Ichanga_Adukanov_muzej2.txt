@@ -164,7 +164,7 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \ref
 \tx ịadụ,  ịadụ   tarrọːčim        teːwriten
 \mb ịak  -DU  ịak  -DU  tarrọːčịn -W   teːw     -RI  -tEn     
-\ps pron      pron      pron           v                      
+\ps n      pron      pron           v                       
 \ge what -dat what -dat dist.qual -acc put.down -pst -poss.3pl
 \ft why did they put (a table) like that?
 \ev
@@ -306,7 +306,7 @@ the epenthetic vowel (though one could check, of course)
 \ref
 \tx iŋe
 \mb iŋe
-\ps interj
+\ps interj 
 \ge yes
 \ft yes
 \ev
@@ -359,7 +359,7 @@ the epenthetic vowel (though one could check, of course)
 \ref
 \tx A     telid... telid... uŋelehe            telidʒimŋelkke               nọŋartan urketen        ọkaːttakị   biweːtte.
 \mb a.R   *** *** uŋ        -L  =sI   telidʒek     -mŋE -E  -L  =kkE nọŋartan urke -tEn      ọkaːt -t(E)kI bi -WEːČ -R(E)  
-\ps ?     ?   ?   n                   n                              pron     n              n             v               
+\ps n     ?   ?   n                   n                              pron     n              n             v                
 \ge but.R *** *** something -pl =emph fishing.camp -nr  -ep -pl =ptl 3pl      door -poss.3pl river -all    be -gnr  -nonfut
 \ft And those who live in fishing camps, their door faces the river.
 \ev
@@ -372,7 +372,7 @@ the epenthetic vowel (though one could check, of course)
 \ref
 \tx Čaški          ịawda         doγurdiγar
 \mb čaːg -skI      ịak  -W   =DE  doγurdi -GEr       
-\ps adj            pron           v                  
+\ps adj            pron           v                   
 \ge far  -advb.all what -acc =ptl chatter -imp.1pl.in
 \ft let's chat some more
 \ev
@@ -662,7 +662,7 @@ the epenthetic vowel (though one could check, of course)
 \ref
 \tx kịbara
 \mb kịbar           -(h)E
-\ps v                    
+\ps n                     
 \ge break.intr.smlf -interj
 \ft broken
 \ev  
@@ -786,7 +786,7 @@ the epenthetic vowel (though one could check, of course)
 \ref
 \tx esni
 \mb e   -R(E) -n(I)
-\ps v              
+\ps v               
 \ge neg -nfut -3sg 
 \ft no
 \ev
@@ -897,7 +897,7 @@ questions); she agreed with me, but then said "iruwaːččọtta = to chto sejch
 \ref
 \tx akọnč... akọnčiduk
 \mb ọkọnči  ọkọnči  -DUk(U)
-\ps n       n              
+\ps n       n               
 \ge leather leather -abl   
 \ft from leather
 \ph
@@ -926,7 +926,7 @@ questions); she agreed with me, but then said "iruwaːččọtta = to chto sejch
 \ref
 \tx erek ńan   ịadmi                 erroːčinni         etukčenni,               ili  ŋaːldiwunni,           ili  ịakta    etuken
 \mb erek ńaːn ịa      -D    -mI       erroːčin  -n(I)     etuke     -čEn -n(I)     ili  ŋaːl -ldIwUn -n(I)     ili  ịak  =DE  etuke     -n(I)    
-\ps pron adv  v                       pron                n                        conj n                      conj pron      n                  
+\ps pron adv  v                       n                n                        conj n                      conj pron      n                   
 \ge prox and  do.what -prog -cond.cvb prox.qual -poss.3sg saddlebag -dim -poss.3sg or.R hand -nr     -poss.3sg or.R what =ptl saddlebag -poss.3sg
 
 \ft what is such a little bag for, is it for carrying by hand or for what
@@ -942,7 +942,7 @@ questions); she agreed with me, but then said "iruwaːččọtta = to chto sejch
 \ref
 \tx ešep               ešep               aːrala             erekteken
 \mb e   -R(E)   -p      e   -R(E)   -p      haː  -R       =lE   erek =t(E)kEn
-\ps v                   v                   v                   pron         
+\ps v                   v                   v                   pron          
 \ge neg -nonfut -1pl.in neg -nonfut -1pl.in know -neg.cvb =emph prox =restr  
 \ft I absolutely don't know what this is
 \ev
@@ -1173,7 +1173,7 @@ kavaler"
 \ref
 \tx iː
 \mb iː 
-\ps interj
+\ps n 
 \ge yes
 \ft yes
 \ev
@@ -1199,7 +1199,7 @@ kavaler"
 \ref
 \tx ọjịttakan                kọč   no... nọkča
 \mb ọjịt   -REk      -n(I)     kọč      *** nọk     -čE    
-\ps v                          adv      ?   v              
+\ps v                          adv      ?   n               
 \ge bother -cond.cvb -poss.3sg probably *** hang.up -pf.ptc
 
 \ft when it was in the way they probably hung it up 

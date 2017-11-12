@@ -47,7 +47,7 @@ part, and only fairly briefly comes back to the topic of her brother, I decided 
 
 \tx haːwdị bejdu    boːnnes.
 \mb hagdị bej -DU  boː  -nnE     -s(I)    
-\ps adj   n        v                      
+\ps adj   n        v                       
 \ge old   man -dat give -nec.ptc -poss.2sg
 
 \ft Therefore, in order for you to become a good hunter, you absolutely have to give your first kill to an old person.
@@ -403,7 +403,7 @@ mountain prairie dogs.
 \ref 12:15
 \tx Ammụda              maːlan   bihin,            ńan   akmụda.
 \mb aman   -W        =DE  maː  -LEn bi -RI  -n(I)     ńaːn akan          -W        =DE 
-\ps n                     v         v                 adv  n                           
+\ps n                     v         v                 n  n                            
 \ge father -poss.1sg =ptl kill -nr  be -pst -poss.3sg and  older.brother -poss.1sg =ptl
 
 \ft And my father was a good hunter, and my older brother.
@@ -416,7 +416,7 @@ mountain prairie dogs.
 \ref 12:18
 \tx Tar   họːjat     ụjamkamda              ụjamkamịnịkan,        kokerile               ịstalaːkan ere,
 \mb tarak họːja -Č   ụjamkan        -W   =DE  ụjamkan        -mI -nIkEn   koke -RI       -(dU)LE ịstala -KEn erek
-\ps pron  quant      n                        v                           v                      postpos     pron
+\ps pron  n      n                        v                           v                      postpos     pron 
 \ge dist  many  -ins mountain.sheep -acc =ptl mountain.sheep -vr -sim.cvb die  -impf.ptc -loc    until  -dim prox
 
 \tx akmụ.
@@ -573,7 +573,7 @@ the standard form it should probably be neːkerget, the construction ZAS used is
 
 \tx mergendulew                    emeːbdeŋetnen                   họː aj.
 \mb mergeːt -n  -(dU)LE -W        emeːn -B   -DEŋ     -E  -tEn      họː  aj  
-\ps v                             v                                 adv  adj 
+\ps v                             v                                 adv  adj  
 \ge think   -nr -loc    -poss.1sg leave -med -pst.ptc -ep -poss.3pl very good
 
 \ft I miss them, and I pity, but nevertheless it is good that they remain in my memories as such people, people who thought well about

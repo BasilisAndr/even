@@ -287,7 +287,7 @@ dictionary dagam- = priblizitsja
 \ref
 \tx Ńan   kurukenedʒilloːtte.
 \mb ńaːn kuruken -E  -D    -L    -WEːČ -R(E)  
-\ps adv  v                                    
+\ps adv  v                                     
 \ge and  circle  -ep -prog -inch -gnr  -nonfut
 \ft And they start to circle.
 \ph
@@ -1915,7 +1915,7 @@ segodnjashnego dnja
 \ref
 \tx Kụjụl, ọkaːt.
 \mb Kụjụl ọkaːt
-\ps ?     n    
+\ps n     n     
 \ge Kujul river
 
 \ELANBegin 00:11:52.793

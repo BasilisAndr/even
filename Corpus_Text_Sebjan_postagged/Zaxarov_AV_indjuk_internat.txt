@@ -606,7 +606,7 @@ which I thought might fit the context, but Ija said it is not a word they use he
 
 \tx ịbgat       ehem             ịar.
 \mb ịbgọ -Č   e   -R(E)   -m   ịa      -R      
-\ps n         v                v               
+\ps n         v                n                
 \ge good -ins neg -nonfut -1sg do.what -neg.cvb
 \ft I am not able to tell much in Even, and I don't know Even terribly well.
 \ph he says ehem ịar, which of course in this case means don't know
@@ -794,7 +794,7 @@ homework.
 \id Zaxarov_AV_indjuk_internat_054
 \tx Bi   tadụ     kollen biddeket                           huː sčas   haːčadʒịhnan            Burtsev
 \mb biː tarak -DU  kotlen bi -D    -REk      -E  -t(I)        huː sejčas haː  -čE     -DʒI -sEn      Burtsev
-\ps pron pron       adj    v                                   pron adv    v                           ?      
+\ps pron pron       adj    v                                   pron adv    v                           n       
 \ge 1sg dist  -dat small  be -prog -cond.cvb -ep -poss.1pl.in 2pl now.R  know -pf.ptc -fut -poss.2pl Burtsev
 
 \tx Innokentij Dmitrievič gerbe bej, staršeklassnik         bihin.

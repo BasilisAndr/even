@@ -48,12 +48,12 @@ one place and made a holiday.
 \ref 0:34
 \tx Tarak hebdʒekiček        enni amarra         slet_olenovodov             gerbe ọːrịn,            ineŋin
 \mb tarak hebdʒek   -i   -ČEk amar   -(dU)LE slet_olenovodov             gerbe ọː     -RI  -n(I)     ineŋ -E  -n(I)    
-\ps pron  v                   n              ?                           n     v                     n                 
+\ps pron  n                   n              ?                           n     v                     n                  
 \ge dist  celebrate -ipf -nr  behind -loc    meeting.of.reindeer.herders name  become -pst -poss.3sg day  -ep -poss.3sg
 
 \tx ọːrịn.
 \mb ọː     -RI  -n(I)    
-\ps v                    
+\ps v                     
 \ge become -pst -poss.3sg
 
 \ft This celebration later on was named the Meeting of the Reindeer-Herders, became the day (of the reindeer herders).
@@ -71,7 +71,7 @@ one place and made a holiday.
 
 \tx ụčakụːr            umuridʒur              dʒe   iečimekkereridnen.
 \mb ụčak            -WUr     em   -U    -RIdʒI   -L  dʒe    ie       -sčI   -mEČ -Gr(E) -RI  -tEn     
-\ps ?                        v                       ptl    v                                         
+\ps ?                        n                       ptl    v                                          
 \ge riding.reindeer -prfl.pl come -caus -ant.cvb -pl well.Y overtake -conat -rec -hab   -pst -poss.3pl
 
 \ft There reindeer herders brought their good reindeer, their good lead reindeer, their good riding reindeer and compete (with
@@ -123,7 +123,7 @@ restricted to humans, so it doesn't really make sense to me
 
 \tx hontede    torelduk             emgerer.
 \mb honte =DE  tor   -E  -L  -DUk(U) em   -Gr(E) -r  
-\ps adj        n                     v               
+\ps adj        n                     n                
 \ge other =ptl earth -ep -pl -abl    come -hab   -3pl
 
 \ft It is (always, usually) a very good holiday, there come very many families, they even come from other places.
@@ -159,7 +159,7 @@ restricted to humans, so it doesn't really make sense to me
 
 \tx prizalbu            boːwrer,             nagradalbụ     boːwrer,             tadụ     ŋiː ịbgọt     gurgeːwčiče
 \mb priz    -E  -L  -W   boː  -Gr(E)      -r   nagrada -L  -W   boː  -Gr(E)      -r   tarak -DU  ŋiː ịbgọ -Č   gurgeːwči -čE    
-\ps n                    v                     n                v                     pron       pron n         v                
+\ps n                    v                     n                v                     pron       n n         v                 
 \ge prize.R -ep -pl -acc give -hab.nonfut -3pl prize   -pl -acc give -hab.nonfut -3pl dist  -dat who good -ins work      -pf.ptc
 
 \tx gurgelken,    ee tar   mụdakča      gurgeːj         ịbgọt     mụdakča      bejeldu,        gurgewur
@@ -199,7 +199,7 @@ people who did good work, to those who finished their work well.
 \ref 2:24
 \tx Otton kameradu    omneken        dʒoːreken       toreče       bejdu    họː herkehnimdes,              ọnọn
 \mb otton kamera -DU  omen -REkEn    dʒoːr -REkEn    tore  -čE     bej -DU  họː  herkeń     -RI       -mdEs ọnọn       
-\ps ?     n           num            num             v             n        adv  v                          ?          
+\ps ?     n           num            n             v             n        adv  v                          ?           
 \ge dp.Y  camera -dat one  -iter.adv two   -iter.adv speak -pf.ptc man -dat very be.ashamed -impf.ptc -sml  therefore.Y
 
 \tx če...

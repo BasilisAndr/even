@@ -398,12 +398,12 @@ as if she indeed says it with the accusative case, and I glossed it as such
 \ref
 \tx Nan    ečin      etekaγ       dọːlan             ńọːŋčịddakan                     ịamị uŋe          nukiduk        nukiγčin,      buːdelen
 \mb ńaːn erroːčin  hịat   -K(Ag) dọː    -(dU)LE -n(I)     ńọːŋčị -D    -REk      -n(I)     ịamị uŋ        -E  noːki -DUk(U) noːki -G(E)čIn boːdel -E  -n(I)    
-\ps adv  pron      n             rel.n                    v                                ?    n             n             n              n                   
+\ps adv  pron      n             rel.n                    v                                ?    n             n             n              n                    
 \ge and  prox.qual willow -nr    inside -loc    -poss.3sg run    -prog -cond.cvb -poss.3sg ptl  something -ep bow   -abl    arrow -sml     leg(s) -ep -poss.3sg
 
 \tx ańčịndụlan            ečin      uŋnin.
 \mb ańčịn        -(dU)LE -n(I)     erroːčin  uŋ -RI  -n(I)    
-\ps rel.n                          pron      v                
+\ps rel.n                          pron      n                 
 \ge space.beside -loc    -poss.3sg prox.qual do -pst -poss.3sg
 
 \ft And as he was running like this among the willows suddenly (someone shot) from bow and (an arrow fell) like this by his legs.
@@ -1272,7 +1272,7 @@ is something that is said in general; the repetition here is simply due to the f
 \ref
 \tx ečin      uŋčeji             ịawụčaši...         ọːnkana?   ọraːttuk      uŋu           ọːrin...
 \mb erroːčin  uŋ -čE     -J       ịak  -W   =(W)UttE =sI   ọːn =kEnE  ọraːt -DUk(U) uŋ        -W   ọː   -RI  -n(I)    
-\ps pron      v                   pron                     pron       n             n              v                  
+\ps pron      n                   pron                     pron       n             n              v                   
 \ge prox.qual do -pf.ptc -prfl.sg what -acc =indef   =emph how =contr grass -abl    something -acc make -pst -poss.3sg
 \ft something that he did... how does one say it? he made something from herbs
 \ph

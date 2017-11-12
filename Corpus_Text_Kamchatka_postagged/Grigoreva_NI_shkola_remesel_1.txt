@@ -89,7 +89,7 @@ husband and children.
 \ref
 \tx Tarma erek ịak, ọːnkana    goːweːttekene?
 \mb tarma erek ịak  ọːn =kEnE  goːn -WEːČ -R(E)   =kEnE 
-\ps conj  pron pron pron       v                        
+\ps n  pron pron pron       v                         
 \ge but   prox what how =contr say  -gnr  -nonfut =contr
 \ft But this is what, how do they say again?
 \ev Тармы эрэк як, онкына говэттыкына?
@@ -139,7 +139,7 @@ mozhno nositj")
 \ref
 \tx Ili  prosto   gịrkawaːčildʒinni           ilede.
 \mb ili  prosto   gịrka -WEːČ -L    -DʒI -nrI irek  -(dU)LE =DE 
-\ps conj adv      v                           pron              
+\ps conj adv      n                           pron               
 \ge or.R simply.R walk  -gnr  -inch -fut -2sg which -loc    =ptl
 \ft Or if you're simply walking somewhere.
 \ph
@@ -261,7 +261,7 @@ me meaning-wise, though then the form should be ọːkarap... so I decided not t
 \ref
 \tx Ili  daγrič gịrkawaːčidmi                  eto    ilede              tetčinni         gịrkawaːtčinni.
 \mb ili  dagrịt gịrka -WEːČ -E  -D    -mI       eto    irek  -(dU)LE =DE  tet    -DʒI -nrI gịrka -WEːČ -DʒI -nrI
-\ps conj adv    v                               pron   pron               v                v                    
+\ps conj n    v                               pron   pron               v                v                     
 \ge or.R simply walk  -gnr  -ep -prog -cond.cvb this.R which -loc    =ptl put.on -fut -2sg walk  -gnr  -fut -2sg
 
 \ft Or if you're simply walking somewhere, you wear this and you walk around.
@@ -1120,7 +1120,7 @@ strangers, since that was an invitation to men; a woman with open hair was a gul
 \ref
 \tx Erkewu          bišin            ečijeken             ọːnkana,   er dinni,       gụːdaŋa, ečin      bišin.
 \mb erke  -W        bi -RI  -n(I)     erroːčin  -jEː -KEn ọːn =kEnE  erek =dIːn      gụːd erroːčin  bi -RI  -n(I)    
-\ps n               v                 pron                pron       pron            adj  pron      v                
+\ps n               v                 pron                n       pron            adj  pron      v                 
 \ge pants -poss.1sg be -pst -poss.3sg prox.qual -aug -dim how =contr prox =quant.dem high prox.qual be -pst -poss.3sg
 
 \ft My pants were like this, how to say it, up to here (shows with her hands how they went up to the top of her thigh), high, like this.
@@ -1510,7 +1510,7 @@ bereza; čalban = belaja bereza
 \ref
 \tx Iːkele,     iːkele,     diwukeγ,    iːkele,     iːkele,     čalbukaγ!
 \mb iːkele       iːkele       diwut -K(Ag) iːkele       iːkele       čalban -K(Ag)
-\ps n            n            n            n            n            n            
+\ps n            n            n            n            n            n             
 \ge birch.fungus birch.fungus birch -nr    birch.fungus birch.fungus birch  -coll 
 
 \ft Fungus, fungus, thick forest, fungus, fungus, birch forest.
@@ -1525,7 +1525,7 @@ bereza; čalban = belaja bereza
 \ref
 \tx Keːdeː, dʒalmašendʒinni?
 \mb keːdeː dʒalma          -s(E)n -DʒI -nrI
-\ps n      v                               
+\ps n      v                                
 \ge friend chewing.tobacco -lim   -fut -2sg
 \ft My friend, will you try some chewing tobacco?
 \ev Кэдэ, дялмасындинни?
@@ -1948,7 +1948,7 @@ the wrong word
 \ref
 \tx Erek teččoːttemke                  nurgenek        biseken.
 \mb erek tet    -WEːČ -R(E)   -m   =kE  nurge -n    -Ek bi -REk      -E  -n(I)    
-\ps pron v                              n               v                         
+\ps pron n                              n               v                          
 \ge prox put.on -gnr  -nonfut -1sg =ptl dance -mult -nr be -cond.cvb -ep -poss.3sg
 \ft I wear these when there's a festival.
 \ph
@@ -1964,7 +1964,7 @@ the wrong word
 \ref
 \tx Ili  ŋiːtkide,        da    eto    samoe,   ŋiːde    emneken.
 \mb ili  ŋiː -t(E)kI =DE  da    eto    samoe    ŋiː =DE  em   -REk      -E  -n(I)    
-\ps conj pron             ptl   pron   adj      pron     v                           
+\ps conj pron             n   pron   adj      pron     v                            
 \ge or.R who -all    =ptl yes.R this.R itself.R who =ptl come -cond.cvb -ep -poss.3sg
 \ft Or (when I go) to someone, and of course if someone comes (to visit).
 \ev Или ӈиткидэ да это самое ӈидэ эмнэкэн.
@@ -3400,7 +3400,7 @@ said by NIG here - but she didn't comment on the form when we listened to this w
 \ref
 \tx Ịlčaruk   - eli          ńuːritli       ečin      ịlčawaːtta.
 \mb ịlča  -RUk erek -(dU)LI ńuːrit -(dU)LI erroːčin  ịlča  -WEːČ -R(E)  
-\ps v          pron         n              pron      v                  
+\ps v          pron         n              pron      v                   
 \ge braid -nr  prox -prol   hair   -prol   prox.qual braid -gnr  -nonfut
 \ft Ilcharuk - they braid that into hair like this.
 \ev Ильчарук -  эли нюритли эчин илчаватта.
@@ -3457,7 +3457,7 @@ palatalized L...
 \ref
 \tx Nọːdịka ńuːritli       biden,                 ečin,     vidiš?
 \mb nọːdịka  ńuːrit -(dU)LI bi -DE       -n(I)     erroːčin  vidiš        
-\ps n        n              v                      pron      v            
+\ps n        n              v                      pron      v             
 \ge ornament hair   -prol   be -purp.cvb -poss.3sg prox.qual see.prs.2sg.R
 \ft It will be an ornament in the hair, like this, you see?
 \ev Нодика нюритли бидэн эчин видишь?
@@ -3963,7 +3963,7 @@ but it just cannot be made out
 \ref
 \tx Ńan   ịamị emneku                   guːn ačča, eto,   uŋe,         mụdakriton           čaktawur                 tarak tartakị     uŋteki
 \mb ńaːn ịamị em   -REk      -W        goːn ačča eto    uŋ        -E  mụdak  -RI  -tEn      čak    -DE       -WUr     tarak tarak -t(E)kI uŋ        -t(E)kI
-\ps adv  ?    v                        v    ptl  pron   n             v                     v                         pron  pron          n                
+\ps adv  ?    v                        v    ptl  n   n             v                     v                         pron  pron          n                 
 \ge and  ptl  come -cond.cvb -poss.1sg say  neg  this.R something -ep finish -pst -poss.3pl gather -purp.cvb -prfl.pl dist  dist  -all    something -all   
 
 \tx aŋanadʒakteki.
@@ -3988,7 +3988,7 @@ but it just cannot be made out
 \ref
 \tx Ńan   bi   guːnem            "Čas uŋteki,          svjazlakke,               telefonkke".
 \mb ńaːn biː goːn -R(E)   -m   čas uŋ        -t(E)kI svjaz        -(dU)LE =kkE telefon     =kkE
-\ps adv  pron v                 ptl n                 n                         n               
+\ps n  pron v                 ptl n                 n                         n                
 \ge and  1sg say  -nonfut -1sg ptl something -all    connection.R -loc    =ptl telephone.R =ptl
 \ft And I said "Well ok, then (I'll go) to the communications college, the telephone."
 \ev Нян би гуным: "Час (унтэкэ) связла(ка), телепонтыки (телепонка)".
@@ -4037,7 +4037,7 @@ but it just cannot be made out
 \ref
 \tx Ńan   goːweːtte           minteki         "Ọːn iː  gorodgič    emniš,             ọːn tabịč ọrdụ               gurgewčidʒinni,      ereger
 \mb ńaːn goːn -WEːČ -R(E)   min     -t(E)kI ọːn hiː gorod  -GIČ  em   -RI  -s(I)     ọːn tabịč ọrọn              -DU  gurgeːwči -DʒI -nrI ereger
-\ps adv  v                  pron            pron pron n            v                   pron adv   n                      v                   adv   
+\ps adv  v                  pron            pron n n            v                   pron adv   n                      v                   adv    
 \ge and  say  -gnr  -nonfut 1sg.obl -all    how 2sg town.R -elat come -pst -poss.2sg how again domestic.reindeer -dat work      -fut -2sg always
 
 \tx ọrdụ               bidgeredʒinni".
@@ -4209,7 +4209,7 @@ suffix, perhaps she had meant to say "ilanmaːk"
 
 \tx gerbetenke.
 \mb gerbe -tEn      =kE 
-\ps n                   
+\ps n                    
 \ge name  -poss.3pl =ptl
 
 \ft And our (big) teacher (looked) like this in a paper, their names were written.
@@ -4349,7 +4349,7 @@ back (mimics how she turns to her cousin to ask whether there is something on he
 
 \tx čeledʒurde            Ičangal",  a     teːmimeje...
 \mb čele -dʒUr        =DE  Ichanga -L  a.R   teːmi     =mEjE
-\ps ?                      ?           ?     conj           
+\ps ?                      ?           ?     n            
 \ge all  -ins.prfl.pl =ptl Ichanga -pl but.R therefore =ptl 
 
 \ft And then our teacher said, "yes, it is indeed funny, there are (only) three girls and all of them are Ichangas", that's why (they laughed), it turns out.
@@ -4424,7 +4424,7 @@ back (mimics how she turns to her cousin to ask whether there is something on he
 
 \tx  upkutnedeku.
 \mb hupkut -nE     -DE       -W       
-\ps v                                 
+\ps v                                  
 \ge learn  -intent -purp.cvb -poss.1sg
 
 \ft And I said "well, let me go, let me go to study where they sew boots, where they sew fur boots".
@@ -4738,7 +4738,7 @@ back (mimics how she turns to her cousin to ask whether there is something on he
 
 \tx konspektaw        ečin      ọńawaːttam.
 \mb konspekt -E  -W   erroːčin  ọńa   -WEːČ -R(E)   -m  
-\ps n                 pron      v                       
+\ps n                 pron      v                        
 \ge notes.R  -ep -acc prox.qual write -gnr  -nonfut -1sg
 
 \ft As for me, I look like this when our teacher, our master is telling (us), and I write notes like this (showing how she writes).
@@ -4851,7 +4851,7 @@ her up to the board...
 \ref
 \tx Ńan   minu         uŋneken,               ọknoːttem,                     ńan   teːleŋeleddʒoːttemeši                      doskatki        emnidʒi
 \mb ńaːn min     -W   uŋ -REk      -n(I)     ọknan    -WEːČ -R(E)   -E  -m   ńaːn teːleŋ -L    -D    -WEːČ -R(E)   -m   =sI   doska   -t(E)kI em   -RIdʒI  
-\ps adv  pron         v                      v                               adv  v                                           n               v            
+\ps adv  n         v                      v                               adv  v                                           n               v             
 \ge and  1sg.obl -acc do -cond.cvb -poss.3sg be.happy -gnr  -nonfut -ep -1sg and  tell   -inch -prog -gnr  -nonfut -1sg =emph board.R -all    come -ant.cvb
 
 \tx ejdu uŋŋoːttem.
@@ -4954,7 +4954,7 @@ and "repeated" it with order -D-L; when I finally emphasised the -LEdʤoːttem, 
 
 \tx ịawka         uroku           upkuttiš".
 \mb ịak  -W   =kE  urok       -W   hupkut -RI  -s(I)    
-\ps pron           n               v                    
+\ps pron           n               v                     
 \ge what -acc =ptl homework.R -acc learn  -pst -poss.2sg
 
 \ft The teacher said to me, "Ichanga, show, tell what lesson you learned".
@@ -4976,7 +4976,7 @@ and "repeated" it with order -D-L; when I finally emphasised the -LEdʤoːttem, 
 
 \tx ŋiːkke   ajaːwran            ulgimille           nọŋman, nọŋantakịn ịawkke        ljuboj", guːnni     "voprosu".
 \mb ŋiː =kkE ajaːw -R(E)   -n(I) ulgim -I   -(LI)lrE nọŋman  nọŋantakịn ịak  -W   =kkE ljuboj goːn -n(I) vopros     -W  
-\ps pron     v                   v                   pron    pron       pron           adj    v          n              
+\ps pron     v                   v                   pron    pron       pron           adj    v          n               
 \ge who =ptl love  -nonfut -3sg  ask   -ipf -imp.2pl 3sg.acc 3sg.all    what -acc =ptl any.R  say  -3sg  question.R -acc
 
 \ft And have gone (to the board) I told and told and I stand, and our teacher says "now whoever wants, ask her, ask her any question you like".
@@ -5127,7 +5127,7 @@ nọŋantakin ljuboj voprosu = zadajete ej ljuboj vopros
 
 \tx ulerište                  ajịč      upkutteji,                bi   gerbuttiwu            iː  uŋe          krasnym     diplomom,     ŋuleńeč
 \mb uleː  -RI  -s(I)     =t(E) aj   -E  -Č   hupkut -DE       -J       biː gerbet -RI  -W        hiː uŋ        -E  krasnym     diplomom      ŋuleńe -Č  
-\ps v                          adj           v                         pron v                     pron n             adj         n             adj        
+\ps v                          n           v                         pron v                     pron n             adj         n             adj         
 \ge throw -pst -poss.2sg =ptl  good -ep -ins learn  -purp.cvb -prfl.sg 1sg name   -pst -poss.1sg 2sg something -ep red.ins.m.R diploma.ins.R red    -ins
 
 \tx diplomeč          uŋdʒinni,    mụdakčịnnị, iːmeje    tiːk nan    eto...

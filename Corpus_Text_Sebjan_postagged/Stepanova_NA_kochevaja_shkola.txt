@@ -270,7 +270,7 @@ firewood
 
 \tx ịawraram                  beju             ịawraram,                 toːdikkererem.
 \mb ịa      -Gr(E) -R(E)   -m   bej    -W        ịa      -Gr(E) -R(E)   -m   toːdi -Č   -Gr(E) -R(E)   -m  
-\ps v                           pron             v                           v                             
+\ps v                           pron             v                           n                              
 \ge do.what -hab   -nonfut -1sg self.Y -poss.1sg do.what -hab   -nonfut -1sg help  -res -hab   -nonfut -1sg
 \ft And I help those (previously mentioned?) reindeer herders myself.
 \ru И тем оленеводам помогаю сама.
@@ -389,7 +389,7 @@ firewood
 \id Stepanova_NA_kochevaja_shkola_023
 \tx Tiemi     bi   beju             daγanï domŋekki        nahaː kuruk     hordej
 \mb teːmi     biː bej    -W        daγanï doːmŋe -t(E)kI nahaː  kuruk     hor -DE       -J      
-\ps conj      pron pron             ptl    n              adv    adv       v                     
+\ps n      pron pron             ptl    n              adv    adv       v                      
 \ge therefore 1sg self.Y -poss.1sg even.Y taiga  -all    very.Y always.Y. go  -purp.cvb -prfl.sg
 
 \tx meːkukkererem.
@@ -449,7 +449,7 @@ firewood
 
 \tx dʒebleŋur             emuridʒur              emgerer.
 \mb dʒep -LE -ŋ   -WUr     em   -U    -RIdʒI   -L  em   -Gr(E) -r  
-\ps v                      v                       v               
+\ps v                      n                       v                
 \ge eat  -vr -aln -prfl.pl come -caus -ant.cvb -pl come -hab   -3pl
 \ft (They help) with bringing ice, chopping wood, sometimes they bring food from their relatives.
 \ru В принесение льда, в раскаливание дров, иногда от родных принеся еду приходят.
@@ -567,7 +567,7 @@ the stative verb aːm-
 
 \tx biwrerem,              họːjaw     irew       taraw      dʒebgereremde,
 \mb bi -Gr(E) -R(E)   -m   họːja -W   irek  -W   tarak -W   dʒep -Gr(E) -R(E)   -m   =DE 
-\ps v                      quant      pron       pron       v                            
+\ps v                      quant      pron       pron       v                             
 \ge be -hab   -nonfut -1sg many  -acc which -acc dist  -acc eat  -hab   -nonfut -1sg =ptl
 
 \tx towliwreremde.
@@ -666,7 +666,7 @@ the stative verb aːm-
 \id Stepanova_NA_kochevaja_shkola_042
 \tx Teːmi    bi   tiːk erek ịala,       Sljot     bremjadun             ịak emejekteːk,
 \mb teːmi     biː tiek erek ịak  -(dU)LE slet      vremja -DU  -n(I)     ịak  em   -E  -jEktEːk
-\ps conj      pron adv  pron pron         n         n                     pron v                
+\ps conj      pron adv  n pron         n         n                     pron v                 
 \ge therefore 1sg now  prox what -loc    meeting.R time.R -dat -poss.3sg what come -ep -nec.Y  
 
 \tx ministr_obrazovanija,   dvadsats šestogo  emejekteːk,       dʒoːrmịar      ńuŋen ineŋidu    mart
@@ -1825,7 +1825,7 @@ May, some in March, April, May.
 
 \tx raditelal       daγanï, dʒaːltan             goːli,        kụŋal    dʒaːltan             ńan   erek GUP
 \mb roditel' -E  -L  daγanï dʒaː     -L  -tEn      goːn -LI      kụŋa  -L  dʒaː     -L  -tEn      ńaːn erek GUP  
-\ps n                ptl    n                      v             n         n                      adv  pron n    
+\ps n                ptl    n                      v             n         n                      n  pron n     
 \ge parent.R -ep -pl even.Y relative -pl -poss.3pl say  -imp.2sg child -pl relative -pl -poss.3pl and  prox GUP.R
 
 \tx Sebjanda,          bekeččendʒur           omettu   tegetnikehel                   ọːn nekmi         domŋele
@@ -2076,7 +2076,7 @@ gurgewčiriwen, ọːn bihiwen dụkrịw
 
 \tx ịawụtna.
 \mb ịak  -W   -tEn     
-\ps pron               
+\ps pron                
 \ge what -acc -poss.3pl
 \ft Last summer ten children went, they went saying they belong to the nomadic (school), went with me, I alone worked, (made) their
 food and things.

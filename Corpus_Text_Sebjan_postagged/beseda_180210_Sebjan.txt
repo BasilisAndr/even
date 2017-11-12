@@ -1438,7 +1438,7 @@ but it was postponed for a week.
 \id beseda_0120
 \tx Keńelikieː, goːlie?
 \mb keńeli =kE   goːn -LI      -E 
-\ps adj          v                
+\ps adj          n                 
 \ge bad    =emph say  -imp.2sg -ep
 
 \ft That's  very bad, isn't it?
@@ -2592,7 +2592,7 @@ couldnt understand, what LNZ had meant before. Probably they were thinking of dr
 \id beseda_0219
 \tx Ee, nọŋan eninni           ọːddan                 ehni.
 \mb ee nọŋan enen   -n(I)     ọː   -D    -R(E)   -n(I) e   -R(E)   -n(I)
-\ps interj pron  n                v                        v                
+\ps n pron  n                v                        v                 
 \ge eh 3sg   mother -poss.3sg make -prog -nonfut -3sg  neg -nonfut -3sg 
 \ft Ah, it is his mother who is making it.
 \ru А, его же мать делает.
@@ -3029,7 +3029,7 @@ beseda_translate_do284_190310.wav 12'32''
 \id beseda_0256
 \tx Tatjana Petrovna ịarịn              massažtaːrịn.
 \mb Tatjana Petrovna ịa      -RI  -n(I)     massaž    -DE -RI  -n(I)    
-\ps ?       ?        v                      v                           
+\ps n       ?        v                      v                            
 \ge Tatjana Petrovna do.what -pst -poss.3sg massage.R -vr -pst -poss.3sg
 
 \ft Tatjana Petrovna massaged
@@ -3079,7 +3079,7 @@ Tatjana petrovna made it lower, having made the massage.
 \id beseda_0260
 \tx Ačča tar.
 \mb ačča tarak
-\ps ptl  pron 
+\ps n  pron  
 \ge neg  dist 
 \ft It is not here.
 \ru Нету этого.
@@ -3715,7 +3715,7 @@ Tatjana petrovna made it lower, having made the massage.
 \id beseda_0312
 \tx Tarịt.
 \mb tarịt
-\ps adv  
+\ps n   
 \ge then 
 \ft Then.
 \ru Потом.
@@ -3776,7 +3776,7 @@ Tatjana petrovna made it lower, having made the massage.
 \id beseda_0317
 \tx Torenet.
 \mb tore  -n  -E  -Č  
-\ps v                 
+\ps n                  
 \ge speak -nr -ep -ins
 \ft In language.
 \ph toːrenet
@@ -3788,7 +3788,7 @@ Tatjana petrovna made it lower, having made the massage.
 \id beseda_0318
 \tx Ńọkadị,  ewedi,     ńụːčịdị.
 \mb ńọka  -DI   ewen -DI   ńụča    -DI  
-\ps n           n          n            
+\ps n           n          n             
 \ge Sakha -adjr Even -adjr Russian -adjr
 \ft Sakha, Even, Russian.
 \ru Якутский, эвенский, русский.
@@ -4202,7 +4202,7 @@ synonymous
 \id beseda_0352
 \tx Hupkučeːktu     tugenidu?   Ehni!
 \mb hupkut -ČEk -DU  tugeni -DU  e   -R(E)   -n(I)
-\ps v                n           v                
+\ps v                n           v                 
 \ge learn  -nr  -dat winter -dat neg -nonfut -3sg 
 \ft In the school in winter? No!
 \ru В школе зимой? Нет!
@@ -4213,7 +4213,7 @@ synonymous
 \id beseda_0353
 \tx Tugenidu,   tar   amardadụkụn                ịak emgeren?
 \mb tugeni -DU  tarak amar   -gIdE -DUk(U) -n(I)     ịak  em   -Gr(E) -n(I)
-\ps n           pron  n                              pron v                
+\ps n           pron  n                              pron v                 
 \ge winter -dat dist  behind -part -abl    -poss.3sg what come -hab   -3sg 
 \ft In winter, what comes after that?
 \ph
@@ -4390,7 +4390,7 @@ synonymous
 \id beseda_0368
 \tx Ịak?
 \mb ịak 
-\ps pron
+\ps n 
 \ge what
 \ft What?
 \ru Что?
@@ -4434,7 +4434,7 @@ synonymous
 \id beseda_0372
 \tx Anŋanịtnan    goːniken.
 \mb anŋan -tEn      goːn -nIkEn  
-\ps n               v            
+\ps n               n             
 \ge year  -poss.3pl say  -sim.cvb
 
 \ft Year saying..
@@ -4656,7 +4656,7 @@ synonymous
 \id beseda_0390
 \tx Ŋiː tarak tiːke?
 \mb ŋiː tarak tiek
-\ps pron pron  adv 
+\ps pron pron  adv  
 \ge who dist  now 
 \ft Who is that now?
 \ru Кто это сейчас?
@@ -4692,7 +4692,7 @@ synonymous
 \id beseda_0393
 \tx Ịaw      ịawračal?
 \mb ịak  -W   ịa      -Gr(E) -čE     -L 
-\ps pron      v                         
+\ps pron      v                          
 \ge what -acc do.what -hab   -pf.ptc -pl
 \ft What did they do?
 \ru Что делали?
@@ -4934,7 +4934,7 @@ fathers from Sebjan and from Segen, that's why they had to come.
 \id beseda_0412
 \tx Tiːk ere  nelke        emejeller.
 \mb tiek erek nelkeni      em   -E  -j    -EllEr    
-\ps adv  pron n            v                        
+\ps n  pron n            v                         
 \ge now  prox early.spring come -ep -conn -prs.ptc.Y
 \ft They will come now in spring.
 \ru Сейчас вот весной приедут.
@@ -5016,7 +5016,7 @@ fathers from Sebjan and from Segen, that's why they had to come.
 \id beseda_0419
 \tx Hiː herri         ọːnnị?
 \mb hiː hor -RI       ọː     -nrI
-\ps pron v             v          
+\ps n v             v           
 \ge 2sg go  -impf.ptc become -2sg
 \ft Are you going (with them)?
 \ph
@@ -5793,7 +5793,7 @@ top. the going down elbow is the name for March. Being a teacher of Even, NPZ kn
 
 \tx bịlaːnnaːkačaddan.
 \mb bịlaːn -LE -kEČ  -E  -D    -R(E)   -n(I)
-\ps v                                       
+\ps v                                        
 \ge plan.R -vr -mult -ep -prog -nonfut -3sg 
 
 \ft My one is counting money already, she is already planning something.
@@ -6757,7 +6757,7 @@ past she danced well, while heːdʒennin ịbga = in general she dances well, a 
 \id beseda_0563
 \tx Tabar   Ženjajaw          ịbgake       ịadnịkan.
 \mb tawụr Ženja  =jE    -W   ịbgọ =kE   ịa      -D    -nIkEn  
-\ps pron  n                  ?          v                     
+\ps n  n                  ?          v                      
 \ge this  Zhenja =assoc -acc good =emph do.what -prog -sim.cvb
 \ft doing Zhenja and them good...
 \ph
@@ -6940,7 +6940,7 @@ meaning, not past tense, IVK added the past tense in her translation
 \id beseda_0578
 \tx Tala          ečin      tịraŋaja                         ọːklaːk(an)           ọbdụča       bihi(n).
 \mb tarak -(dU)LE erroːčin  taran                      -ŋEjE    ọː     -klEːkE  -n(I)     ọbda      -čE     bi -RI  -n(I)    
-\ps pron          pron      v                                   v                         v                 v                
+\ps pron          pron      v                                   v                         n                 v                 
 \ge dist  -loc    prox.qual become.drenched.with.sweat -aug.adj become -trm.cvb -poss.3sg get.tired -pf.ptc be -pst -poss.3sg
 
 \ft there she got so exhausted (from dancing) that she was drenched in sweat
@@ -7042,7 +7042,7 @@ meaning, not past tense, IVK added the past tense in her translation
 \id beseda_0586
 \tx Ee tala.
 \mb ee tarak -(dU)LE
-\ps interj pron         
+\ps interj n          
 \ge eh dist  -loc   
 \ft yes, there
 \ru да там
@@ -8568,12 +8568,12 @@ would also have been possible
 \id beseda_0713
 \tx Ehni           nọŋan tiːke ịak hupkučimŋe    anŋanịn          goːniken      bihnihni                internetet          ńoː...
 \mb e   -R(E) -n(I) nọŋan tiek ịak  hupkut -E  -mŋE  anŋan -E  -n(I)     goːn -nIkEn   bi -R(E)   -n(I) =hni    internet   -E  -Č   ńoː 
-\ps v               pron  adv  pron v                n                   v             v                        n                   v   
+\ps v               pron  n  pron v                n                   v             v                        n                   v    
 \ge neg -nfut -3sg  3sg   now  what learn  -ep -agnr year  -ep -poss.3sg say  -sim.cvb be -nonfut -3sg  =affirm internet.R -ep -ins exit
 
 \tx taŋnịw           ehni,          biː goːniw.
 \mb taŋ  -RI  -W        e   -R(E) -n(I) biː goːn -RI  -W       
-\ps v                   v               pron v                  
+\ps v                   v               pron v                   
 \ge read -pst -poss.1sg neg -nfut -3sg  1sg say  -pst -poss.1sg
 
 \ft no, she said that now it's the "year of the teacher", right, it's in the internet, I read it, I said
@@ -8610,7 +8610,7 @@ would also have been possible
 \id beseda_0716
 \tx Eduk         dʒụːw     iduk          bakčịn        tar?
 \mb erek -DUk(U) dʒụː  -W   irek  -DUk(U) bak  -DʒI -n(I) tarak
-\ps pron         n          pron          v               pron 
+\ps pron         n          pron          v               pron  
 \ge prox -abl    house -acc which -abl    find -fut -3sg  dist 
 \ft where will she find a house?
 \ru откуда она найдет дом?
@@ -9059,7 +9059,7 @@ holiday and then to be off on another day)
 \id beseda_0756
 \tx Ịawụ?
 \mb ịak  -W  
-\ps pron     
+\ps pron      
 \ge what -acc
 
 \ru
@@ -9105,7 +9105,7 @@ holiday and then to be off on another day)
 \id beseda_0760
 \tx dʒoːrmịar
 \mb dʒoːr mịan -L 
-\ps num   num     
+\ps n   num      
 \ge two   ten  -pl
 \ft
 \ru
@@ -10018,7 +10018,7 @@ having two holidays in such short sequence
 \id beseda_0838
 \tx dʒọːntụr
 \mb dʒọːntụr
-\ps n       
+\ps n        
 \ge poem    
 
 \ru
@@ -10117,7 +10117,7 @@ having two holidays in such short sequence
 \id beseda_0846
 \tx neːgimeček       mutu        tar,  ehni,          Jeralašmen   bihin
 \mb neːgi -mEČ -ČEk mut    -W   tarak e   -R(E) -n(I) Jeralaš  =mEn bi -RI  -n(I)    
-\ps v               pron        pron  v               ?             v                
+\ps n               pron        pron  v               ?             v                 
 \ge scold -rec -nr  1pl.in -acc dist  neg -nfut -3sg  Yeralash =neg be -pst -poss.3sg
 
 \ft arguments us, that wasn't Yeralash
@@ -10129,7 +10129,7 @@ having two holidays in such short sequence
 \id beseda_0847
 \tx Jeralašla       bihin?
 \mb Jeralaš  -(dU)LE bi -RI  -n(I)    
-\ps n                v                
+\ps n                v                 
 \ge Yeralash -loc    be -pst -poss.3sg
 \ft was it in Yeralash?
 \ru
@@ -10835,7 +10835,7 @@ face, who have to work a lot
 \id beseda_0909
 \tx iesčimeččil
 \mb ie       -sčI   -mEČ -DʒI -L 
-\ps v                            
+\ps n                              
 \ge overtake -conat -rec -fut -pl
 \ft they'll race
 \ph
@@ -11189,7 +11189,7 @@ run where you want them to, and you have to be able to hold yourself up on the r
 \id beseda_0939
 \tx ee?
 \mb ee
-\ps interj
+\ps interj 
 \ge eh
 
 \ru
@@ -11425,7 +11425,7 @@ Tanja Smetanina is the mother of one of the pupils
 \id beseda_0957
 \tx begdečimŋe
 \mb beg      -DE -Č   -E  -mŋE 
-\ps v                          
+\ps v                           
 \ge medicine -vr -res -ep -agnr
 \ft a doctor
 \ph
@@ -11438,7 +11438,7 @@ Tanja Smetanina is the mother of one of the pupils
 \id beseda_0958
 \tx begdečimŋe
 \mb beg      -DE -Č   -E  -mŋE 
-\ps v                          
+\ps n                           
 \ge medicine -vr -res -ep -agnr
 
 \ru
@@ -11449,7 +11449,7 @@ Tanja Smetanina is the mother of one of the pupils
 \id beseda_0959
 \tx tarịt tar   hiː minu         ịaw      haːmačannị   tala?
 \mb tarịt tarak hiː min     -W   ịak  -W   haːmat -E  -nrI tarak -(dU)LE
-\ps adv   pron  pron pron         pron      v               pron         
+\ps n   pron  pron pron         pron      v               pron          
 \ge then  dist  2sg 1sg.obl -acc what -acc laugh  -ep -2sg dist  -loc   
 \ft and then why did you laugh at me there
 \ph
@@ -12017,7 +12017,7 @@ reindeer breeding state farm
 
 \tx nọːdar",       goːnni.
 \mb nọːda -R       goːn -n(I)
-\ps v              v         
+\ps v              v          
 \ge throw -neg.cvb say  -3sg 
 
 \ft "There are a lot of you reindeer does without fawns (i.e. childless women) here in the school, why don't you throw" he said
@@ -12744,7 +12744,7 @@ tradition/taboo
 
 \tx ịlgamdʒịnnị.
 \mb ịlgam -DʒI -nrI
-\ps v              
+\ps v               
 \ge stand -fut -2sg
 
 \ft When they go off to hunt you will stand and watch.
@@ -12830,7 +12830,7 @@ also Burtsev_ID_traditions_54-63)
 \id beseda_1067
 \tx erew      dʒebdʒip,         taraw      dʒe...
 \mb erek -W   dʒep -DʒI -p      tarak -W   dʒep
-\ps pron      v                 pron       v   
+\ps n      v                 pron       v    
 \ge prox -acc eat  -fut -1pl.in dist  -acc eat 
 \ft we'll eat this, we'll eat that...
 \ru это съедим, то съедим
@@ -13288,7 +13288,7 @@ calque from Sakha, where they have "üleleːde üleleː buolbutum" (says IVK)
 \id beseda_1103
 \tx Nakat, tọbọr ịak čaːmak ịan....       ihmeben.
 \mb nakat tawụr ịak  čaːmak   ịak  -n(I)     imse -W   -n(I)    
-\ps n     pron  pron n        pron           n                  
+\ps n     pron  pron n        pron           n                   
 \ge bear  this  what tarbagan what -poss.3sg fat  -acc -poss.3sg
 
 \ft a bear... the fat of the tarbagan
@@ -13570,7 +13570,7 @@ they're not terribly beautiful, but pretty enough that a coat might be nice
 \id beseda_1125
 \tx Urge  tarak.
 \mb urge  tarak
-\ps adj   pron 
+\ps n   pron  
 \ge heavy dist 
 \ft that's difficult
 \ru тяжело
@@ -14637,7 +14637,7 @@ horehmem = voobshe xochu; so there is a meaning of desire, but the "gotovnostj s
 \id beseda_1212a
 \tx Aŋŋat...              ee, bujusimŋe...
 \mb aːnŋa              -Č   ee buju -s    -E  -mŋE 
-\ps v                       interj v                   
+\ps v                       n v                    
 \ge stop.for.the.night -res eh hunt -mult -ep -agnr
 \ft stopped.... a hunter
 \ru охотник ночевал
@@ -14648,7 +14648,7 @@ horehmem = voobshe xochu; so there is a meaning of desire, but the "gotovnostj s
 \id beseda_1212b
 \tx bujusimŋe
 \mb buju -s    -E  -mŋE 
-\ps v                   
+\ps v                    
 \ge hunt -mult -ep -agnr
 \ft a hunter
 \ru
@@ -14659,7 +14659,7 @@ horehmem = voobshe xochu; so there is a meaning of desire, but the "gotovnostj s
 \id beseda_1212c
 \tx aŋŋačča
 \mb aːnŋa              -Č   -čE    
-\ps v                              
+\ps n                               
 \ge stop.for.the.night -res -pf.ptc
 \ft spent the night
 \ph
@@ -15973,7 +15973,7 @@ people to Yakutsk
 \id beseda_1319
 \tx ile?
 \mb irek  -(dU)LE
-\ps pron         
+\ps n          
 \ge which -loc   
 \ft where?
 \ru где
@@ -16104,7 +16104,7 @@ not wanting to give away their good stone school
 \id beseda_1330
 \tx ịŋa
 \mb ịŋa  
-\ps ?    
+\ps ?     
 \ge stone
 
 \ru каменная
@@ -16194,7 +16194,7 @@ for the time being; tọlkụntụdaŋan = incorrect form, should be tọlkụnt
 \id beseda_1338
 \tx Erek?
 \mb erek
-\ps pron
+\ps pron 
 \ge prox
 \ft this one?
 \ru эта
@@ -16244,7 +16244,7 @@ for the time being; tọlkụntụdaŋan = incorrect form, should be tọlkụnt
 \id beseda_1342
 \tx keńeli
 \mb keńeli
-\ps adj   
+\ps adj    
 \ge bad   
 
 \ru
@@ -16260,7 +16260,7 @@ for the time being; tọlkụntụdaŋan = incorrect form, should be tọlkụnt
 
 \tx ọːra,        kokere,       durullin,                     goːli?
 \mb ọː     -R       koke -R       dur  -E  -L    -RI  -n(I)     goːn -LI     
-\ps v               v             v                             v            
+\ps v               n             v                             v             
 \ge become -neg.cvb die  -neg.cvb burn -ep -inch -pst -poss.3sg say  -imp.2sg
 
 \ft it's a bad sign (lit. 'word'), and when something is about to happen.... previously, before Ruslan died, it burned, right?
@@ -16488,7 +16488,7 @@ learn
 \id beseda_1361
 \tx Erew      ịa... ọdʒalda        goːniken,     ee?
 \mb erek -W   ịa      ọdʒa     -(LI)lrE goːn -nIkEn   ee
-\ps pron      v       v                 v             interj
+\ps pron      n       v                 v             interj 
 \ge prox -acc do.what care.for -imp.2pl say  -sim.cvb eh
 
 \ft saying "take care of this"
@@ -17342,7 +17342,7 @@ buildings (the administration and the club, plus some of the surrounding houses 
 \id beseda_1432
 \tx "Erew     ịrbatnadaːr                          mindule         emŋenni"          goːnin              hiehečen.
 \mb erek -W   ịr   -WEːČ -nE     -DE       -WUr     min     -(dU)LE em   -ŋE      -nrI goːn -RI  -n(I)     hiːsečin
-\ps pron      v                                     pron            v                  v                   n       
+\ps pron      v                                     pron            v                  v                   n        
 \ge prox -acc drag -gnr  -intent -purp.cvb -prfl.pl 1sg.obl -loc    come -pol.imp -2sg say  -pst -poss.3sg evening 
 
 \ft "let's go drag this, come to my place", she said in the evening
@@ -18821,7 +18821,7 @@ run out
 \id beseda_1551
 \tx heredniken            ile           tala          ulisali          gịrkadnịkan        ịaw...
 \mb hor -E  -D    -nIkEn   irek  -(dU)LE tarak -(dU)LE ulica    -(dU)LI gịrka -D    -nIkEn   ịak  -W  
-\ps v                      pron          pron          n                v                    pron     
+\ps v                      n          pron          n                v                    pron      
 \ge go  -ep -prog -sim.cvb which -loc    dist  -loc    street.R -prol   walk  -prog -sim.cvb what -acc
 \ft going here and there, walking along the street
 \ru идя везде, идя по улице
@@ -21760,7 +21760,7 @@ the speaker(s) themselves who need to do something
 \id beseda_1790
 \tx Plakatalkan?
 \mb plakat   -E  -lkEn
-\ps n                 
+\ps n                  
 \ge poster.R -ep -prop
 \ft with posters?
 \ru с плакатами
@@ -22134,7 +22134,7 @@ the speaker(s) themselves who need to do something
 \id beseda_1823
 \tx Mịan omen ńan   mịan ịak... adịː?
 \mb mịan omen ńaːn mịan ịak  adịː    
-\ps num  num  adv  num  pron ?       
+\ps num  num  adv  num  n ?        
 \ge ten  one  and  ten  what how.much
 \ft eleven and ten - how many?
 \ph
@@ -22191,7 +22191,7 @@ the speaker(s) themselves who need to do something
 \id beseda_1828
 \tx Ọttọn gịa gịa ńarị bidʒin        tara  "Miss" gerbe.. gịa... dʒulepkičin?
 \mb ọttọn gịa  gịa  ńarị bi -DʒI -n(I) tarak miss gerbe gịa  dʒul  -(E)rEp -G(E)čIn
-\ps ptl   adj  adj  ?    v             pron  ?    n     adj  rel.n                 
+\ps ptl   adj  adj  n    v             pron  ?    n     adj  rel.n                  
 \ge dp.Y  next next man  be -fut -3sg  dist  miss name  next front -adjr   -sml    
 \ft and will there be another man there in the "Miss Sebjan" competition, like before?
 \ru а другой мужчина там будет там Мисс как раньше?
@@ -22486,7 +22486,7 @@ was indeed an 11th-grader who assisted her
 \id beseda_1852
 \tx Ehni,          nostede    biden,                 gadʒịp.
 \mb e   -R(E) -n(I) noste =DE  bi -DE       -n(I)     ga   -DʒI -p     
-\ps v               adj        v                      v                
+\ps v               adj        v                      v                 
 \ge neg -nfut -3sg  young =ptl be -purp.cvb -poss.3sg take -fut -1pl.in
 \ft let it be a young one, we'll take him
 \ru пусть будет молодой возьмем
@@ -23294,7 +23294,7 @@ both are possible
 \id beseda_1917
 \tx Ee, iti    ŋiːje      igin
 \mb ee iti    ŋiː =jE    iŋin 
-\ps interj pron   pron       ptl  
+\ps interj n   pron       ptl   
 \ge eh this.Y who =assoc etc.Y
 \ft yes, these, who and them
 \ru а вот эти кто там
@@ -23327,7 +23327,7 @@ both are possible
 \id beseda_1920
 \tx hupkutti?
 \mb hupkut -RI      
-\ps v               
+\ps v                
 \ge learn  -impf.ptc
 \ft students
 \ru ученик
@@ -24031,7 +24031,7 @@ care about the difference between sg and pl verb forms)
 \id beseda_1978
 \tx Dʒeblew       irimču,               tar   ịaw           emedden                    ehni.
 \mb dʒep -LE -W   iri  -mč(I) -W        tarak ịak  -W        em   -E  -D    -R(E)   -n(I) e   -R(E) -n(I)
-\ps v             v                     pron  pron           v                            v              
+\ps n             v                     pron  pron           v                            v               
 \ge eat  -nr -acc cook -sbjv  -poss.1sg dist  what -poss.1sg come -ep -prog -nonfut -3sg  neg -nfut -3sg 
 \ft I should cook dinner, that one of mine is coming, right
 \ru я бы приготовила еду, мое что-то едет же
@@ -24042,7 +24042,7 @@ care about the difference between sg and pl verb forms)
 \id beseda_1979
 \tx Ŋiː emejer?
 \mb ŋiː em   -E  -j    -Ar        
-\ps pron v                         
+\ps n v                          
 \ge who come -ep -conn -prs.ptcp.Y
 \ft who's coming?
 \ru кто приедет?
@@ -24162,7 +24162,7 @@ care about the difference between sg and pl verb forms)
 \id beseda_1988
 \tx Atịkan  herren?
 \mb atịkan    hor -R(E)   -n(I)
-\ps n         v                
+\ps n         v                 
 \ge old.woman go  -nonfut -3sg 
 \ft did the old woman leave?
 \ru старуха поехала

@@ -466,7 +466,7 @@ but Lena Čerkanova 'transcribed' it that way, and RME confirmed it.
 \id meme_ded_Managič_039
 \tx Patọm tarak na   Ozernajdu,    tože  7 let     ox[otilsja].
 \mb potom  tarak na   Ozernaja -DU  tože   7 let     oxotilsja
-\ps adv    pron  postpos n             ptl    ? n       v        
+\ps n    pron  postpos n             ptl    ? n       v         
 \ge then.R dist  on.R Ozernaja -dat also.R 7 years.R hunted.R 
 \ft Then to the Ozernaja (another fishing camp), also 7 years.
 \ELANBegin 00:02:33.040
@@ -767,7 +767,7 @@ without a tent.
 
 \tx čakram             dururem.
 \mb čak    -R(E)   -m   dur  -U    -R(E)   -m  
-\ps v                   v                      
+\ps v                   v                       
 \ge gather -nonfut -1sg burn -caus -nonfut -1sg
 
 \ft When I go by dog sled I am used to finding dry wood, dry cedar bushes even in the dark, I collect them and burn them.
@@ -789,7 +789,7 @@ temneet, kogda stemnelo= aːtarallakan = aːtaralčawda = kogda uže stemnelo
 
 \tx enilloːtten,                       emi           gọrụ ukler.
 \mb en   -E  -L    -WEːČ -R(E)   -n(I) e   -mI       gọrụ hukle -R      
-\ps v                                  v             adv  v             
+\ps v                                  v             adv  v              
 \ge hurt -ep -inch -gnr  -nonfut -3sg  neg -cond.cvb long sleep -neg.cvb
 
 \ft And if I don't sleep all night that's alright, but then my head starts to hurt, if I don't sleep for a long time.
@@ -884,7 +884,7 @@ temneet, kogda stemnelo= aːtarallakan = aːtaralčawda = kogda uže stemnelo
 \id meme_ded_Managič_068
 \tx Ne   xvataet,            ne   xvatajran
 \mb ne   xvataet             ne   xvataj      -R(E)   -n(I)
-\ps ptl  v                   ptl  v                        
+\ps ptl  n                   ptl  v                         
 \ge no.R be.enough.prs.3sg.R no.R be.enough.R -nonfut -3sg 
 \ft It's not enough.
 \ELANBegin 00:06:02.160
@@ -1179,7 +1179,7 @@ more, but not terribly much, ịakkakarba
 \id meme_ded_Managič_091
 \tx nan    upku.. aːmalkawaːtta
 \mb ńaːn hupkut haː  -mElčI -WEːČ -R(E)  
-\ps adv  v      v                        
+\ps n  v      v                         
 \ge and  learn  know -acclr -gnr  -nonfut
 \ft And they learn quickly.
 \ELANBegin 00:08:00.935
@@ -1400,7 +1400,7 @@ more, but not terribly much, ịakkakarba
 
 \tx keńelileː,      egeptekigelde             ajị, egep, soboltakị     ajịla
 \mb keńeli -L  =eː   hegep -t(E)kI =gEl   =DE  aj   hegep sobol   -t(E)kI aj   -E  -L  -E 
-\ps adj              n                         adj  n     n               adj             
+\ps adj              n                         adj  n     n               n              
 \ge bad    -pl =emph sable -all    =coord =ptl good sable sable.R -all    good -ep -pl -ep
 
 \ft Now it's even difficult to find a hunting dog for big animals, they're bad, they're good for sable though (i.e. they are good
@@ -1577,7 +1577,7 @@ Evdokija_Grigorevna_94
 \id meme_ded_Managič_121
 \tx Gosti
 \mb gosti     
-\ps n         
+\ps n          
 \ge visitors.R
 
 \ELANBegin 00:11:02.103
@@ -1760,7 +1760,7 @@ axotnikaddiwunda = kak my oxotimsja, correct as it is; bi inu ulgimirem ọːn e
 \id meme_ded_Managič_134
 \tx Ugostit.to       ugosčajran
 \mb ugostit.to       ugosčaj      -R(E)   -n(I)
-\ps v                v                         
+\ps v                v                          
 \ge offer.food.ptl.R offer.food.R -nonfut -3sg 
 \ft They do offer food.
 \ph
@@ -2381,7 +2381,7 @@ Adukanov zovut Petjankan (questions2_49:00)
 
 \tx bideji                nekre.
 \mb bi -DE       -J       nek -R      
-\ps v                     v           
+\ps v                     v            
 \ge be -purp.cvb -prfl.sg do  -neg.cvb
 \ft Well there's a bit of fear, it's not possible to be a hero (when facing a bear).
 \ph
@@ -2909,7 +2909,7 @@ strashnovato
 
 \tx maːčawu              kọbalam,          padkralịčawụ                tarak tar
 \mb maː  -čE     -W        kọbalan -W        podkral    -E  -čE     -W        tarak tarak
-\ps v                      n                 v                                pron  pron 
+\ps n                      n                 v                                pron  pron  
 \ge kill -pf.ptc -poss.1sg bear    -poss.1sg snuck.up.R -ep -pf.ptc -poss.1sg dist  dist 
 
 \ft In my mind the bear that I snuck up on, that I killed, appears.
@@ -3376,7 +3376,7 @@ when a hunter goes off to hunt?
 \id meme_ded_Managič_257
 \tx kogda  nemnožko neːweːtten              uŋelu      gịakịw     nan    oŋken      ọkaːtla
 \mb kogda  nemnožko neː -WEːČ -R(E)   -n(I) huŋel -W   gịakị   -W   ńaːn oŋke -n(I) ọkaːt -(dU)LE
-\ps pron   adv      v                       n          pron         adv  v          n            
+\ps pron   n      v                       n          pron         adv  v          n             
 \ge when.R a.bit.R  put -gnr  -nonfut -3sg  blood -acc various -acc and  pour -3sg  river -loc   
 
 \tx oŋkeweːtten.
@@ -3432,7 +3432,7 @@ when a hunter goes off to hunt?
 \id meme_ded_Managič_261
 \tx Ọkaːtlada          uŋelu      oŋkesnoːttem.
 \mb ọkaːt -(dU)LE =DE  huŋel -W   oŋke -s(E)n -WEːČ -R(E)   -m  
-\ps n                  n          v                             
+\ps n                  n          v                              
 \ge river -loc    =ptl blood -acc pour -lim   -gnr  -nonfut -1sg
 \ft I pour some blood into the river.
 \ph ʊŋkesnoːttem

@@ -47,7 +47,7 @@ grant). Speaker abbreviation = MK
 
 \tx irekgu    klas    bidniken          tataggarịt,                            ebedi,     ee, evenskij
 \mb irek  =GU klas    bi -D    -nIkEn   tat   -E  -D    -Gr(E) -RI  -t(I)        ewen -DI   ee evenskij  
-\ps pron      n       v                 v                                        n          interj adj       
+\ps pron      n       v                 v                                        n          n adj        
 \ge which =q  grade.R be -prog -sim.cvb learn -ep -prog -hab   -pst -poss.1pl.in Even -adjr eh Even.adj.R
 
 \tx jazyk      ịak ụrọgan.
@@ -71,7 +71,7 @@ grant). Speaker abbreviation = MK
 
 \tx dʒugulin                ukčendʒiggeren
 \mb dʒugu -(dU)LI -n(I)     ukčen -D    -Gr(E) -n(I)
-\ps rel.n                   v                       
+\ps n                   v                        
 \ge about -prol   -poss.3sg tell  -prog -hab   -3sg 
 
 \ft The teacher, I forgot how she was called, told about the family.
@@ -127,7 +127,7 @@ grant). Speaker abbreviation = MK
 \id Krivoshapkin_Misha_009
 \tx Tar   ŋeːllit.
 \mb tarak ŋeːl      -RI  -t(I)       
-\ps pron  v                          
+\ps pron  v                           
 \ge dist  be.afraid -pst -poss.1pl.in
 \ft We were afraid.
 \ru мы боялись

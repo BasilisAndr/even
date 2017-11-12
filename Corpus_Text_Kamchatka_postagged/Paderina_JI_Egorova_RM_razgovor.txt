@@ -2219,7 +2219,7 @@ semantically...)
 \ref
 \tx Guːnem            toremetkereli,              tarmak     guːnem            ajịč      ụnụdʒịr        ịaw      ajaːwannị.
 \mb goːn -R(E)   -m   tore  -mEČ -Gr(E) -LI      tarma =kkE goːn -R(E)   -m   aj   -E  -Č   ụnụ        -DʒI -r   ịak  -W   ajaːw -R(E)   -nrI
-\ps v                 v                          conj       v                 adj           v                    pron      v                 
+\ps v                 v                          conj       n                 adj           v                    pron      v                  
 \ge say  -nonfut -1sg speak -rec -hab   -imp.2sg but   =ptl say  -nonfut -1sg good -ep -ins understand -fut -3pl what -acc love  -nonfut -2sg
 
 \ft I say "you have to speak, only then" I say "will they understand well what you want".
@@ -2593,7 +2593,7 @@ say bi amarram čelew ineŋu
 
 \tx erešewdʒinni                kọladʒịlmị,              ńan   awụškị     urdʒinni".
 \mb eres      -W     -DʒI -nrI kọl   -E  -D    -L    -mI       ńaːn aw    -skI      hor -DʒI -nrI
-\ps v                          v                               adv  pron            v            
+\ps v                          v                               adv  pron            n             
 \ge chase.out -advrs -fut -2sg drink -ep -prog -inch -cond.cvb and  where -advb.all go  -fut -2sg
 
 \ft He wants to go, but how will he go all boozed-up, I say "don't think about it, you will be chased out if you drink and where will you go".
@@ -2794,7 +2794,7 @@ June 2016
 \ref
 \tx (Esem)           aːr.
 \mb e   -R(E)   -m   haː  -R      
-\ps v                v            
+\ps v                n             
 \ge neg -nonfut -1sg know -neg.cvb
 \ft I don't know.
 \ELANBegin 00:16:19.890
@@ -2871,7 +2871,7 @@ uːnawkanin trubaw
 \ref
 \tx Ńan   Tamaraja      tože  gurgeleten                ačča, ŋiːde,   da, bej esten       emmoːtte.
 \mb ńaːn Tamara =jE    tože   gurgeː -(dU)LE -tEn      ačča ŋiː =DE  da    bej e   -R(E)   em   -WEːČ -R      
-\ps adv  ?             ptl    n                        ptl  pron     ptl   n   v           v                  
+\ps adv  ?             ptl    n                        ptl  pron     ptl   n   v           v                   
 \ge and  Tamara =assoc also.R work   -loc    -poss.3pl neg  who =ptl yes.R man neg -nonfut come -gnr  -neg.cvb
 
 \ft And at Tamara and them's work (in the museum) there's also nobody, right, nobody comes.
@@ -6302,7 +6302,7 @@ boast about this when she again goes to Ufa (where she has some relative);
 \ref
 \tx Ọːnkana    guːnni,    ini... inimukečiddeku                            ili  štoli.
 \mb ọːn =kEnE  goːn -n(I) inim  inim  -WkEn -Č   -D    -DE       -W        ili  čto-li
-\ps pron       v          v     v                                          conj ptl   
+\ps pron       v          v     n                                          conj ptl    
 \ge how =contr say  -3sg  smile smile -caus -res -prog -purp.cvb -poss.1sg or.R ptl.R 
 
 \ft How did he say... let me make them laugh, or what.
@@ -6451,7 +6451,7 @@ she hardly ever sees him
 \ref
 \tx Beγeŋgeji                       tar  gaddin,                   čelewen.
 \mb beg      -E  -ŋ   -GE    -J       tar  ga   -D    -RI  -n(I)     čele -W   -E  -n(I)    
-\ps n                                 adv  v                         n                      
+\ps n                                 adv  v                         n                       
 \ge medicine -ep -aln -desig -prfl.sg thus take -prog -pst -poss.3sg all  -acc -ep -poss.3sg
 
 \ft He took medicine for himself, everything.
@@ -6604,7 +6604,7 @@ she hardly ever sees him
 \ref
 \tx Ńan   on   govorit,      emu         guːniten            orden                   texničeskij universitetteki,     ajịč
 \mb ńaːn on   govorit       emu         goːn -RI  -tEn      hor -DE       -n(I)     texničeskij universitet  -t(E)kI aj   -E  -Č  
-\ps adv  pron v             pron        v                   v                       adj         n                    adj          
+\ps adv  pron v             pron        v                   v                       adj         n                    n           
 \ge and  he.R say.prs.3sg.R 3sg.m.dat.R say  -pst -poss.3pl go  -purp.cvb -poss.3sg technical.R university.R -all    good -ep -ins
 
 \tx sdallin                        ekzameny, Aleksej.
@@ -8105,7 +8105,7 @@ in Yakutsk
 \ref
 \tx Eter           teːleŋ... teːleŋne.
 \mb e   -t(E) -r   teːleŋ teːleŋ -R      
-\ps v              v      v              
+\ps v              v      v               
 \ge neg -fut  -3pl tell   tell   -neg.cvb
 \ft They won't tell.
 \ELANBegin 00:41:59.270
@@ -8427,7 +8427,7 @@ might be the "kin" plural); in this sentence one could not say untelten; *untel�
 \ref
 \tx Ńan   Veratki      guːnem,           "Vera, iːdeeː        tadụ     upkuččinni".
 \mb ńaːn Vera -t(E)kI goːn -R(E)   -m   Vera hiː =DE  =eː   tarak -DU  hupkut -DʒI -nrI
-\ps adv  n            v                 ?    pron           pron       v               
+\ps adv  n            n                 ?    pron           pron       v                
 \ge and  Vera -all    say  -nonfut -1sg Vera 2sg =ptl =emph dist  -dat learn  -fut -2sg
 
 \ft And I say to Vera, "Vera, and you will study there!".
@@ -8894,7 +8894,7 @@ it should be "enikennen iawda nekre"
 \ref
 \tx Ńan   guːnni     tiːkte   mannụdajị              nekren.
 \mb ńaːn goːn -n(I) tiek =DE  manrụ -DE       -J       nek -R(E)   -n(I)
-\ps adv  v          adv       v                        v                
+\ps adv  n          adv       v                        v                 
 \ge and  say  -3sg  now  =ptl try   -purp.cvb -prfl.sg do  -nonfut -3sg 
 \ft And she said she wants to try now, too.
 \ELANBegin 00:46:06.400

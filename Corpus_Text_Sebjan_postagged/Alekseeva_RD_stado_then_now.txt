@@ -413,7 +413,7 @@ reindeer, e.g. kotollo ačča means a person has no reindeer (to carry his load 
 \id Alekseeva_RD_stado_then_now_034
 \tx Tarak nọŋartan gurgewutnen            ŋiːde    urge  ehni           goːŋner.
 \mb tarak nọŋartan gurgeː -W   -tEn      ŋiː =DE  urge  e   -R(E) -n(I) goːn -Gr(E) -r  
-\ps pron  pron     n                     pron     adj   v               v               
+\ps pron  pron     n                     pron     adj   v               v                
 \ge dist  3pl      work   -acc -poss.3pl who =ptl heavy neg -nfut -3sg  say  -hab   -3pl
 \ft Nobody says that their work is hard.
 \ph
@@ -1338,7 +1338,7 @@ nọŋardʒịtnan
 \id Alekseeva_RD_stado_then_now_105
 \tx Gọlụŋụr            gọllịrịdʒị,  iːwdʒir.
 \mb gọl      -E  -ŋ   -WUr     gọl      -lI -RIdʒI   iː    -U    -DʒI -r  
-\ps n                          v                     v                    
+\ps n                          v                     n                     
 \ge firewood -ep -aln -prfl.pl firewood -vr -ant.cvb enter -caus -fut -3pl
 \ft They'll chop wood and bring it inside.
 \ph
@@ -1578,7 +1578,7 @@ nọŋardʒịtnan
 
 \tx ịadụn            deremčečeːktun            gennedʒin.
 \mb ịak  -DU  -n(I)     deremke -ČEk -DU  -n(I)     gel      -nE     -DʒI -n(I)
-\ps pron                v                           v                          
+\ps pron                v                           v                           
 \ge what -dat -poss.3sg rest    -nr  -dat -poss.3sg look.for -intent -fut -3sg 
 
 \ft He will come to fetch us at the Ewinek, at the festival to meet the summer, while resting.
@@ -1590,7 +1590,7 @@ nọŋardʒịtnan
 \id Alekseeva_RD_stado_then_now_127
 \tx Tar   amargịdụkụn              mut    hordʒip.
 \mb tarak amar   -gIdE -DUk(U) -n(I)     mut    hor -DʒI -p     
-\ps pron  n                              pron   v               
+\ps pron  n                              pron   v                
 \ge dist  behind -part -abl    -poss.3sg 1pl.in go  -fut -1pl.in
 \ft After that we'll go.
 \ru После этого мы поедем.
@@ -1882,7 +1882,7 @@ nọŋardʒịtnan
 
 \tx ọrọndụ           holtewekkererit.
 \mb ọrọn              -DU  holte       -WEːČ -Gr(E) -RI  -t(I)       
-\ps n                      v                                         
+\ps n                      v                                          
 \ge domestic.reindeer -dat carry.along -gnr  -hab   -pst -poss.1pl.in
 \ft Previously we carried the tent poles, iruka, with us by reindeer.
 \ph
@@ -1932,7 +1932,7 @@ which is dragged'.
 
 \tx tala          muŋŋi               ačča.
 \mb tarak -(dU)LE mun        -ŋI        ačča
-\ps pron          ?                     ptl 
+\ps pron          ?                     ptl  
 \ge dist  -loc    1pl.ex.obl -pred.poss neg 
 \ft But now when we go to the second reindeer brigade we will take along our iruka, (because) there is nothing of ours there.
 \ru А сейчас когда поедем в 2е стадо, будем таскать свою ируку, там нашего нету.
@@ -1983,7 +1983,7 @@ which is dragged'.
 
 \tx ịrbakkararap.
 \mb ịr   -WEːČ -Gr(E) -R(E)   -p     
-\ps v                                
+\ps v                                 
 \ge drag -gnr  -hab   -nonfut -1pl.in
 \ft On this urulen we drag the iruka, the poles of the tent.
 \ph

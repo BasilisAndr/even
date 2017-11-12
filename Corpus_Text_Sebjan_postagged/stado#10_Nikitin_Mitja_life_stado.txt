@@ -85,7 +85,7 @@ recording
 
 \tx kanịkụlụ  ịlan ịlaːn biwren,         tar   ịlan ịlaːndụ  irildu      dʒaːldụlaj
 \mb kanikuly   -W   ịlan  ịlaːn bi -Gr(E) -n(I) tarak ịlan  ịlaːn -DU  ireli  -DU  dʒaː     -L  -(dU)LE -J      
-\ps n               num   n     v               pron  num   n          n           n                            
+\ps n               num   n     n               n  num   n          n           n                             
 \ge holidays.R -acc three moon  be -hab   -3sg  dist  three moon  -dat summer -dat relative -pl -loc    -prfl.sg
 
 \tx emgerem.
@@ -135,12 +135,12 @@ recording
 \id stado#10_Nikitin_Mitja_010
 \tx Ńulgun     ọːrakan,                   ńulgun     ọːrakan,                   ńulgupti
 \mb nulge   -n  ọː     -REk      -E  -n(I)     nulge   -n  ọː     -REk      -E  -n(I)     nulge   -B   -RI      
-\ps v           v                              v           v                              v                     
+\ps v           v                              n           v                              v                      
 \ge migrate -nr become -cond.cvb -ep -poss.3sg migrate -nr become -cond.cvb -ep -poss.3sg migrate -med -impf.ptc
 
 \tx ụːčakalbụ             hepkengerem,       inuwrep.
 \mb ụːčak           -E  -L  -W   hepken -Gr(E) -m   in            -U    -Gr(E) -p     
-\ps n                            v                  v                                 
+\ps n                            v                  n                                  
 \ge riding.reindeer -ep -pl -acc catch  -hab   -1sg carry.on.back -caus -hab   -1pl.in
 
 \ft When the migration starts, I catch the riding reindeer for the migration, we load them/ put pack saddles on them.

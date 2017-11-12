@@ -114,7 +114,7 @@ to camp to tell.
 \id AXK_Sebjan_history_1_007
 \tx Erek ịbga   tegečepti                         ịaw      dʒọŋịgal             mute   goːniken      ukčennečel
 \mb erek ịbgọ teg      -E  -Č   -E  -B   -RI       ịak  -W   dʒọŋị          -GEr        mut    goːn -nIkEn   ukčen -nE     -čE     -L 
-\ps pron ?    v                                    pron      v                          pron   v             v                        
+\ps pron ?    v                                    pron      n                          pron   v             v                         
 \ge prox good sit.down -ep -res -ep -med -impf.ptc what -acc follow.example -imp.1pl.in 1pl.in say  -sim.cvb tell  -intent -pf.ptc -pl
 \ft Let's us follow the example of this good life they went to tell (other people).
 \ph
@@ -209,7 +209,7 @@ I remember from Dmitrij Vasilevich Stepanov as well, what he said about the new 
 \id AXK_Sebjan_history_1_013
 \tx Omen orikitle                  emčel.
 \mb omen orin        -kIč -(dU)LE em   -čE     -L 
-\ps num  v                        v               
+\ps num  n                        v                
 \ge one  set.up.camp -nr  -loc    come -pf.ptc -pl
 \ft They came to one camp.
 \ru На одно стоянку приехали.
@@ -220,7 +220,7 @@ I remember from Dmitrij Vasilevich Stepanov as well, what he said about the new 
 \id AXK_Sebjan_history_1_014
 \tx Tarak orikit            bọllaγịna ele.
 \mb tarak orin        -kIč buollaγïna erek -(dU)LE
-\ps pron  v                ptl        pron        
+\ps pron  n                ptl        pron         
 \ge dist  set.up.camp -nr  dp.Y       prox -loc   
 \ft As for that camp, it was here.
 \ru Это стойбище здесь.
@@ -231,7 +231,7 @@ I remember from Dmitrij Vasilevich Stepanov as well, what he said about the new 
 \id AXK_Sebjan_history_1_015
 \tx Erek, erek tor   bọlla      wabše       gluxaja tajga   biče.
 \mb erek erek tor   buollaγïna voobše       gluxaja tajga   bi -čE    
-\ps pron pron n     ptl        adv          adj     n       v         
+\ps pron n n     ptl        adv          adj     n       v          
 \ge prox prox earth dp.Y       in.general.R wild.R  taiga.R be -pf.ptc
 \ft This place however was completely wild taiga.
 \ru Это место было вообще глухая тайга.
@@ -401,7 +401,7 @@ be a lot of food.
 \id AXK_Sebjan_history_1_028
 \tx Ńan   gennegelde           tiːke uduk         dʒoːr ńama   tụŋŋan kilemeterre      omen ịak bihni
 \mb ńaːn gelne    -GEr        tiek erek -DUk(U) dʒoːr ńama    tụnŋan kilometr -(dU)LE omen ịak  bi -R(E)   -n(I)
-\ps adv  v                    adv  pron         num   num     num    n                num  pron v               
+\ps adv  v                    adv  pron         num   n     num    n                num  pron v                
 \ge and  go.fetch -imp.1pl.in now  prox -abl    two   hundred five   km.R     -loc    one  what be -nonfut -3sg 
 
 \tx goːnčel.
@@ -1046,7 +1046,7 @@ he said.
 
 \tx dʒugutniken       ńulgeniken,     kụŋaw     kojeːtniken,    ịaw      čajịŋmatna
 \mb dʒugut    -nIkEn   nulge   -nIkEn   kụŋa  -W   kojeːt  -nIkEn   ịak  -W   čaj   -E  -ŋ   -W   -E  -tEn     
-\ps v                  v                n          v                pron      n                                
+\ps v                  n                n          v                n      n                                 
 \ge transport -sim.cvb migrate -sim.cvb child -acc look.at -sim.cvb what -acc tea.R -ep -aln -acc -ep -poss.3pl
 
 \tx uldeŋmetne                  hujutniken,              tačịn.

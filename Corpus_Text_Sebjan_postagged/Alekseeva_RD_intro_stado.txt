@@ -93,7 +93,7 @@ worker" (chumrabotnitsa). She is the sister of Innokentij Dmitrievich Burtsev.
 
 \tx bihin...          bihidun                     emie   biwekkererit,                       tiːk ammụ           ačča,
 \mb bi -RI  -n(I)     bi -RI       -DU  -n(I)     emie   bi -WEːČ -Gr(E) -RI  -t(I)        tiek aman   -W        ačča
-\ps v                 v                           adv    v                                 adv  n                ptl 
+\ps v                 v                           adv    v                                 adv  n                ptl  
 \ge be -pst -poss.3sg be -impf.ptc -dat -poss.3sg also.Y be -gnr  -hab   -pst -poss.1pl.in now  father -poss.1sg neg 
 
 \tx ejmu             bihni.
@@ -146,7 +146,7 @@ the former state farm)  "Sebjan".
 
 \tx hụnaːdʒụ        Anželika ụːčakat             ńamnịdʒịn,     Ụjbančịk ńandakan.
 \mb hụnaːdʒ  -W        Anželika  ụːčak           -E  -Č   ńamnị  -DʒI -n(I) Ivan ńaːn =dakan
-\ps n                  ?         n                        v                 ?    adv        
+\ps n                  ?         n                        n                 ?    adv         
 \ge daughter -poss.1sg Angelique riding.reindeer -ep -ins gallop -fut -3sg  Ivan and  =ptl  
 
 \ft In the spring that is now arriving, at the day of the reindeer herders, my family and I, ehm, who, my daughter Angelique will race on a
@@ -262,7 +262,7 @@ than the Sakha way (uopsajïnan)
 \id Alekseeva_RD_intro_stado_019
 \tx Bi   dʒụganịdụ  čumrabotnitsaj   gurgewčiwrerem,                tarịt bọll...    tarịt dʒe   irilidu     tar
 \mb biː dʒụganị -DU  čumrabotnica      gurgeːwči -Gr(E) -R(E)   -m   tarịt buollaγïna tarịt dʒe    ireli  -DU  tarak
-\ps pron n            n                 v                             adv   ptl        adv   ptl    n           pron 
+\ps pron n            n                 v                             adv   n        adv   ptl    n           pron  
 \ge 1sg summer  -dat yurt.worker.ins.R work      -hab   -nonfut -1sg then  dp.Y       then  well.Y summer -dat dist 
 
 \tx čụmat        gurgewčiniken       ńuŋenduk      ịlnịkan       ọralčị... ọralčịmŋalbụ         alatnịkan,
@@ -272,7 +272,7 @@ than the Sakha way (uopsajïnan)
 
 \tx dʒeblew       iriwrerep.
 \mb dʒep -LE -W   iri  -Gr(E) -R(E)   -p     
-\ps v             v                          
+\ps v             v                           
 \ge eat  -nr -acc cook -hab   -nonfut -1pl.in
 \ft In summer I work as a yurt worker, and working as a yurt worker in summer we get up at six and waiting for the reindeer herders
 cook food.
@@ -284,7 +284,7 @@ cook food.
 \id Alekseeva_RD_intro_stado_020
 \tx Tak, tarịt tiːkerep    sovremennaj vremjadu    kiliep  iriwr...    kiliep, lepieskew,       tarak.
 \mb tak  tarịt tiek -(E)rEp sovremennyj vremja -DU  xleb    iri  -Gr(E) xleb    lepeška     -W   tarak
-\ps interj adv   adv          adj         n           n       v           n       n                pron 
+\ps n adv   adv          adj         n           n       v           n       n                pron  
 \ge so.R then  now  -adjr   modern.R    time.R -dat bread.R cook -hab   bread.R flatbread.R -acc dist 
 \ft Nowadays we bake bread, flatbread.
 \ru В современное время, сейчас мы печем хлеб, лепешки.
@@ -969,7 +969,7 @@ seems to be just a matter of style
 \id Alekseeva_RD_intro_stado_070
 \tx Kọčajgararap,            ile... irilep         nandaw.
 \mb kọčaj       -Gr(E) -R(E)   -p      ireli  -(E)rEp nanra -W  
-\ps v                                  n              n         
+\ps v                                  n              n          
 \ge scrape.hide -hab   -nonfut -1pl.in summer -adjr   hide  -acc
 
 \ft We prepare the summer hides.
@@ -1147,7 +1147,7 @@ herd; perhaps she meant to say 'after the beginning of the holidays', or 'after 
 
 \tx dʒebukendʒidniken,       dʒulep,      tiːkerep    ịalbụ      tradicijalbụ,     abyčajalbụ
 \mb dʒep -WkEn -D    -nIkEn   dʒul  -(E)rEp tiek -(E)rEp ịak  -L  -W   tradicija   -L  -W   obyčaj      -E  -L  -W  
-\ps v                         rel.n         adv          pron          n                    n                       
+\ps v                         rel.n         adv          pron          n                    n                        
 \ge eat  -caus -prog -sim.cvb front -adjr   now  -adjr   what -pl -acc tradition.R -pl -acc tradition.R -ep -pl -acc
 
 \tx ukčenniken     tegekkerenni.

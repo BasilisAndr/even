@@ -362,7 +362,7 @@ about nuances of meaning; bihem = estj
 
 \tx Taškenduli,     er   Sebeːndule           emennen,                    biː Taškendụla    emebennew.
 \mb Taškent  -(dU)LI erek Sebjan-Küöl -(dU)LE em   -E  -nnE     -n(I)     biː Taškent  -(dU)LE emeːn -B   -E  -nnE     -W       
-\ps n                pron n                   v                           pron n                v                                
+\ps n                pron n                   v                           pron n                v                                 
 \ge Tashkent -prol   prox Sebjan-Küöl -loc    come -ep -nec.ptc -poss.3sg 1sg Tashkent -loc    leave -med -ep -nec.ptc -poss.1sg
 \ft We went through Tashkent, Olga Nikiforovna had finished her studies in Leningrad and was supposed to come to Sebjan via Sochi and
 Tashkent, I was supposed to stay in Tashkent.
@@ -1270,7 +1270,7 @@ haːn and čụrịtaŋalbụ
 \id ZAS_jubki_Aniwrin_094
 \tx ụmụjak tala          nipkuče          goːniken
 \mb ụmụjak tarak -(dU)LE nipku     -čE     goːn -nIkEn  
-\ps n      pron          v                 v            
+\ps n      pron          v                 n             
 \ge snot   dist  -loc    suffocate -pf.ptc say  -sim.cvb
 \ft I thought that snot had blocked (his nose).
 \ru я думала что там сопли застряли

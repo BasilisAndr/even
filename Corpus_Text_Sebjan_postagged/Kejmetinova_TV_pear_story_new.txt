@@ -581,7 +581,7 @@ the guy isn't looking, he decides to steal the whole basket.
 
 \tx nepti               ebit.
 \mb neː -B   -RI       ebit      
-\ps v                  ptl       
+\ps v                  ptl        
 \ge put -med -impf.ptc it.seems.Y
 
 \ft And in front it appears there's that where you put clothes, food, whatever.

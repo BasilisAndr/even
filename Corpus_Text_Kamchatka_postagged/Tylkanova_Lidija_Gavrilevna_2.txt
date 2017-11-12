@@ -103,7 +103,7 @@ worked as a hunter, living mainly in the forest.
 \ref
 \tx I     pušninaw     ŋenuweːtte,               tam     bisin             Čuprin, priemšik.
 \mb i     pušnina -W   ŋen -U    -WEːČ -R(E)   tam     bi -RI  -n(I)     Čuprin  priemšik         
-\ps conj  n            v                       adv     v                 ?       n                
+\ps conj  n            n                       n     v                 ?       n                 
 \ge and.R pelts.R -acc go  -caus -gnr  -nonfut there.R be -pst -poss.3sg Chuprin receiving.clerk.R
 \ft And they took pelts (to the collective farm), there was Chuprin, the receiving clerk.
 \ph

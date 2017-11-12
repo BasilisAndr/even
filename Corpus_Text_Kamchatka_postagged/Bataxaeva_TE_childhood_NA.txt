@@ -290,7 +290,7 @@ in free variation, it just means 'parents' (and refers to speaker's parents); eg
 
 \tx ńipkuččoːtten                      nan
 \mb nipke -U    -Č   -WEːČ -R(E)   -n(I) ńaːn
-\ps v                                    adv 
+\ps v                                    n  
 \ge close -caus -res -gnr  -nonfut -3sg  and 
 
 \ft I was sleeping in a tent, in a tent, the tent is closed.

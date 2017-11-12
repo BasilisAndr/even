@@ -1113,7 +1113,7 @@ been in the singular, even if they had known several lowlands
 \id Tulasynova_LA_family_history_090
 \tx Biː dʒaːlbụ            bọlla      tala          Bụlụnna   emeːpte            goːnče,     atịkaŋụ
 \mb biː dʒaː     -L  -W        buollaγïna tarak -(dU)LE Bulun -(dU)LE emeːn -B   -R(E)   goːn -čE     atịkan    -ŋ   -W       
-\ps pron n                      ptl        pron          n             v                  v            n                       
+\ps n n                      ptl        pron          n             v                  v            n                        
 \ge 1sg relative -pl -poss.1sg dp.Y       dist  -loc    Bulun -loc    leave -med -nonfut say  -pf.ptc old.woman -aln -poss.1sg
 
 \tx ečin      bụmŋa goːnče.
@@ -1782,7 +1782,7 @@ been born'; baldačalan by itself means 'at the time when he was born, at that m
 
 \tx bihinni         goːniken.
 \mb bi -R(E)   -nrI goːn -nIkEn  
-\ps v               v            
+\ps v               v             
 \ge be -nonfut -2sg say  -sim.cvb
 
 \ft There my grandfather, "You are keeping your promise very well" (they said).
@@ -1998,7 +1998,7 @@ with him and then wrote a letter for safe passage?
 \id Tulasynova_LA_family_history_156
 \tx Omen bejle,      honte bej emie   kamụńụs, dekinčičče                    biče,     ere  ńimeːreldule.
 \mb omen bej -(dU)LE honte bej emie   kommunist   dekin      -(k)čI -D    -čE     bi -čE     erek ńimer     -E  -L  -(dU)LE
-\ps num  n           adj   n   adv    n           v                               v          pron n                        
+\ps num  n           adj   n   adv    n           v                               v          pron n                         
 \ge one  man -loc    other man also.Y communist.R hide(intr) -dur   -prog -pf.ptc be -pf.ptc prox neighbour -ep -pl -loc   
 
 \ft To one man, also a communist, he was hiding in a family.
@@ -2023,7 +2023,7 @@ with him and then wrote a letter for safe passage?
 \id Tulasynova_LA_family_history_158
 \tx Erew      boːŋenni         goːniken.
 \mb erek -W   boː  -ŋE      -nrI goːn -nIkEn  
-\ps pron      v                  v            
+\ps pron      n                  v             
 \ge prox -acc give -pol.imp -2sg say  -sim.cvb
 \ft "Give this", he said.
 \ru Это отдай.
@@ -2080,7 +2080,7 @@ negative possibility
 
 \tx ịara           goːniken.
 \mb ịa      -R       goːn -nIkEn  
-\ps v                v            
+\ps v                v             
 \ge do.what -neg.cvb say  -sim.cvb
 
 \ft "People were killing each other, I won't take part in this murder", he said.
@@ -2281,7 +2281,7 @@ negative possibility
 \id Tulasynova_LA_family_history_178
 \tx Họːja stadaw      dʒabụkančal,             nọŋọrtọn, biː amandụwda,               abagadụwda.
 \mb họːja stado  -W   dʒaw       -WkEn -čE     -L  nọŋartan biː aman   -DU  -W        =DE  abaga       -DU  -W        =DE 
-\ps quant n           v                            pron     pron n                          n                              
+\ps quant n           v                            pron     pron n                          n                               
 \ge many  herd.R -acc catch.hold -caus -pf.ptc -pl 3pl      1sg father -dat -poss.1sg =ptl grandfather -dat -poss.1sg =ptl
 \ft They gave them many herds to lead, to my father and to my grandfather.
 \ru Много стад им в руководство дали, и моему отцу и моему деду.
@@ -2896,7 +2896,7 @@ the Sakha dative
 
 \tx ịanịkan.
 \mb ịa      -nIkEn  
-\ps v               
+\ps v                
 \ge do.what -sim.cvb
 
 \ft Well, in general, she was a good healer, doing something else (probably something with her hands).
@@ -2934,7 +2934,7 @@ the Sakha dative
 \id Tulasynova_LA_family_history_230
 \tx Ŋaːldʒị        emteːwreče,          tara, upečemu.
 \mb ŋaːl -DʒI         emteː   -Gr(E) -čE     tarak upeː        -čEn -W       
-\ps n                 v                      pron  n                         
+\ps n                 v                      pron  n                          
 \ge hand -ins.prfl.sg treat.Y -hab   -pf.ptc dist  grandmother -dim -poss.1sg
 \ft She healed with her hands, my grandmother.
 \ru Руками лечила, моя бабушка

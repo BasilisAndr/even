@@ -57,7 +57,7 @@ husband and children and felt that her Russian was more fluent than her Even.
 
 \tx urkeːn.
 \mb hurkeːn
-\ps n      
+\ps n       
 \ge boy    
 \ft A long time ago, before the war had started, MIA still lived, a boy.
 \ELANBegin 00:00:14.610
@@ -390,7 +390,7 @@ RME felt that it must be oːńeriten
 \id Tylkanova_NA_vojna_027
 \tx Iːde     tadụda        bidʒinni.
 \mb hiː =DE  tarak -DU  =DE  bi -DʒI -nrI
-\ps pron     pron            v           
+\ps pron     pron            n            
 \ge 2sg =ptl dist  -dat =ptl be -fut -2sg
 \ft You too will be there.
 \ELANBegin 00:01:56.980
@@ -414,7 +414,7 @@ RME felt that it must be oːńeriten
 \id Tylkanova_NA_vojna_029
 \tx Erek goːndʒim       uŋŋenni.
 \mb erek goːn -DʒI -m   uŋ -ŋE      -nrI
-\ps pron v              v               
+\ps pron v              n                
 \ge prox say  -fut -1sg do -pol.imp -2sg
 \ft I will say them, and you do (remember them in the future).
 \ph uŋŋeːnni
@@ -474,7 +474,7 @@ RME felt that it must be oːńeriten
 \id Tylkanova_NA_vojna_033
 \tx Mišaw     gadịtan,          urkeːnisi        bisin,            gadịtan,          nan    oredʒeːnnin
 \mb Miša  -W   ga   -RI  -tEn      hurkeːn -E  =sI   bi -RI  -n(I)     ga   -RI  -tEn      ńaːn hor -E  -dʒEːn -RI  -n(I)    
-\ps n          v                   n                 v                 v                   adv  v                            
+\ps n          v                   n                 v                 v                   n  v                             
 \ge Misha -acc take -pst -poss.3pl boy     -ep =emph be -pst -poss.3sg take -pst -poss.3pl and  go  -ep -dur   -pst -poss.3sg
 
 \tx časkị         tar   uŋteki,          bassakị.
@@ -522,7 +522,7 @@ said ọːDịn was for events, time, e.g. kusin ọːdịn, dʒụganị ọːd
 \id Tylkanova_NA_vojna_036
 \tx Nọ  goːnni     aːdụnda     omneken        pulemetle             omneken        ...  ịaw
 \mb no.R  goːn -n(I) haːdụn    =DE  omen -REkEn    pulemet       -(dU)LE omen -REkEn    *... ịak  -W  
-\ps ?     v          adv            num            n                     num            ?    pron     
+\ps ?     v          adv            num            n                     num            n    pron      
 \ge but.R say  -3sg  sometimes =ptl one  -iter.adv machine.gun.R -loc    one  -iter.adv ***  what -acc
 
 \tx goːnni...
@@ -597,7 +597,7 @@ meːnkeken čelewen nekeddʒoːttem "ja sama vse delaju" - not emphasis, zhalees
 \id Tylkanova_NA_vojna_040
 \tx Digen, digen, digen torenni             bisin,            toredʒeːnńoːtten                ereger.
 \mb digen digen digen tore  -n  -n(I)     bi -RI  -n(I)     tore  -dʒEːn -WEːČ -R(E)   -n(I) ereger
-\ps num   num   num   v                   v                 v                                adv   
+\ps num   num   n   v                   v                 v                                adv    
 \ge four  four  four  speak -nr -poss.3sg be -pst -poss.3sg speak -dur   -gnr  -nonfut -3sg  always
 \ft He had four words, and he always spoke them.
 \ELANBegin 00:03:17.770
@@ -609,12 +609,12 @@ meːnkeken čelewen nekeddʒoːttem "ja sama vse delaju" - not emphasis, zhalees
 \id Tylkanova_NA_vojna_041
 \tx Nan    tačịn       emedʒeːnnenesi                        kusin    kusin    ọddakan
 \mb ńaːn tarọːčịn  em   -E  -dʒEːn -R(E)   -n(I) -E  =sI   kusi -n  kusi -n  ọd   -REk      -E  -n(I)    
-\ps adv  pron      v                                       v        v        v                           
+\ps adv  pron      v                                       n        v        v                            
 \ge and  dist.qual come -ep -dur   -nonfut -3sg  -ep =emph beat -nr beat -nr stop -cond.cvb -ep -poss.3sg
 
 \tx emedʒeːnnen                  nan    emnidʒi      tar   atịkantakị    min
 \mb em   -E  -dʒEːn -R(E)   -n(I) ńaːn em   -RIdʒI   tarak atịkan    -t(E)kI min    
-\ps v                             adv  v             pron  n                 pron   
+\ps v                             adv  v             n  n                 pron    
 \ge come -ep -dur   -nonfut -3sg  and  come -ant.cvb dist  old.woman -all    1sg.obl
 
 \tx ekenŋetkiwu                          teːleŋeddʒoːtten                   taraw      teːleŋi.

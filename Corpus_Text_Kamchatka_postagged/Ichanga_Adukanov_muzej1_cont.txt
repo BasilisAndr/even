@@ -122,7 +122,7 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 
 \tx tegenukeː               uŋkke         ilekene,             Kamenskaduk       nọŋartan.
 \mb tege     -(I)nUk   =eː   uŋ        =kkE irek  -(dU)LE =kEnE  Kamenskoe -DUk(U) nọŋartan
-\ps rel.n                    n              pron                 n                 pron    
+\ps rel.n                    n              pron                 n                 n     
 \ge distance -advb.abl =emph something =ptl which -loc    =contr Kamenskoe -abl    3pl     
 
 \ft Koryaks, they are from somewhere, they are northern people, from somewhere, from far away, where again, they are from Kamenskoe.
@@ -221,7 +221,7 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \ref
 \tx eleken
 \mb elek -n(I)    
-\ps n             
+\ps n              
 \ge bag  -poss.3sg
 \ft her bag
 \ph
@@ -263,7 +263,7 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx elek
 \mb elek
-\ps n   
+\ps n    
 \ge bag 
 \ft a bag
 \ev
@@ -350,7 +350,7 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx erek ọrakan
 \mb erek ọraːk             -E  -n(I)    
-\ps pron n                              
+\ps n n                               
 \ge prox tobacco.container -ep -poss.3sg
 \ft this is her tobacco container
 \ev
@@ -635,7 +635,7 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx košerewda            teːleŋni
 \mb kọːsaŋa   -W   =DE  teːleŋ -LI     
-\ps n                   v              
+\ps n                   v               
 \ge big.knife -acc =ptl tell   -imp.2sg
 \ft tell about the knife
 \ev
@@ -802,7 +802,7 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx iː
 \mb iː 
-\ps interj
+\ps interj 
 \ge yes
 \ft yes
 \ph basically cannot really be made out what he says, this fits the best
@@ -829,7 +829,7 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx Tiːkke   merikem         goːweːtte           meriŋe
 \mb tiek =kkE meriken    -W   goːn -WEːČ -R(E)   meriken    -ŋE 
-\ps adv       n               v                  n              
+\ps adv       n               v                  n               
 \ge now  =ptl knife.type -acc say  -gnr  -nonfut knife.type -aug
 
 \ft And now they call the meriken a meringe.
@@ -914,7 +914,7 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \ref
 \tx tọmkačaw     neːkčildiwun
 \mb tọmkača -W   neː -(k)čI -ldIwUn
-\ps n            v                 
+\ps n            v                  
 \ge thread  -acc put -dur   -nr    
 \ft to keep thread
 \ev
@@ -927,7 +927,7 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \ref
 \tx iː
 \mb iː 
-\ps interj
+\ps interj 
 \ge yes
 \ft mhm
 \ev
@@ -953,7 +953,7 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \ref
 \tx tọmkačaw     neːkčir
 \mb tọmkača -W   neː -(k)čI -r  
-\ps n            v              
+\ps n            n               
 \ge thread  -acc put -dur   -3pl
 \ft they keep thread
 \ev
@@ -979,7 +979,7 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \ref
 \tx Erekkelde        uŋe          nọːdịka uːšiːrtede
 \mb erek =gEl   =DE  uŋ        -E  nọːdịka  uːsiːr  =t(E) =DE 
-\ps pron             n             n        adj               
+\ps pron             n             n        adj                
 \ge prox =coord =ptl something -ep ornament ancient =ptl  =ptl
 \ft THIS pattern is also ancient
 \ev
@@ -1698,7 +1698,7 @@ tongue and that it should be koŋkol (after all, AEI is slightly deaf and doesn'
 
 \tx ulgimidditen                     uːnan     ịamị ečiš        ọllaw     bejčiš,       dʒebboːt... bejčiweːtte.
 \mb ulgim -i    -D    -RI  -tEn      huː =nEn  ịamị e   -RI  -s   ọlra -W   bejči -R       dʒeb -WEːČ bejči -WEːČ -R      
-\ps v                                pron      pron v             n         v              v          v                   
+\ps v                                pron      pron n             n         v              v          v                    
 \ge ask   -ipf? -prog -pst -poss.3pl 2pl =emph why  neg -pst -2pl fish -acc hunt  -neg.cvb eat  -gnr  hunt  -gnr  -neg.cvb
 \ft Chez nous they say, I read, they asked reindeer herders why don't you catch, eat..., catch fish.
 \ev
@@ -2103,7 +2103,7 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ref
 \tx ịakawụč   aŋanaddin,                 urumkun
 \mb ịak  =(W)UttE haŋan -D    -RI  -n(I)     urumkun
-\ps pron          v                          adj    
+\ps n          v                          adj     
 \ge what =indef   sew   -prog -pst -poss.3sg short  
 \ft who sewed this, (so) short
 \ev
@@ -2201,7 +2201,7 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ref
 \tx ešni          ešni
 \mb e   -R(E) -n(I) e   -R(E) -n(I)
-\ps v               v              
+\ps v               v               
 \ge neg -nfut -3sg  neg -nfut -3sg 
 \ft no, no
 \ev  
@@ -2252,7 +2252,7 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ref
 \tx erekte
 \mb erek =DE 
-\ps pron     
+\ps n      
 \ge prox =ptl
 \ft this too
 \ev
@@ -2962,7 +2962,7 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \ref
 \tx daγrịt uŋče      iŋe
 \mb dagrịt uŋ -čE     iŋe
-\ps adv    v          interj
+\ps adv    n          interj 
 \ge simply do -pf.ptc yes
 \ft it's simply done, right
 \ev
@@ -3141,7 +3141,7 @@ he says toreʤim before this, and after this, and the suggestion was that he wou
 \ref
 \tx Bi   meːnŋidʒi                  ọːčịdʒillam,                 tụ.. meːnditken                 ọːram,          iŋe tụrkịgaji
 \mb biː meːn -ŋI        -DʒI         ọː   -Č   -D    -L    -R(E)   -m   *** meːn -DI          =t(E)kEn ọː   -R(E)   -m   iŋe tụrkị -GE    -J      
-\ps pron pron                         v                                  ?   pron                       v                 interj n                    
+\ps pron pron                         n                                  ?   pron                       v                 interj n                     
 \ge 1sg refl -pred.poss -ins.prfl.sg make -res -prog -inch -nonfut -1sg *** refl -dat.prfl.sg =restr   make -nonfut -1sg yes sled  -desig -prfl.sg
 
 \tx meːnduliitken
@@ -4034,7 +4034,7 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 
 \tx kojeːtli
 \mb kojeːt  -LI     
-\ps v               
+\ps v                
 \ge look.at -imp.2sg
 
 \ft the handle is in the middle in an Even (drum), but this one you cannot understand, look
@@ -4322,7 +4322,7 @@ about him except for his name
 \ref
 \tx Čeledʒur         dʒọːŋčịr   ọːn mintede            gerbewu         a     očestvawan                    ŋiːde    esten       dʒọːŋčịr
 \mb čele -dʒUr        dʒọŋčị   -r   ọːn min     =t(E) =DE  gerbe -W        a.R   očestvo      -W   -E  -n(I)     ŋiː =DE  e   -R(E)   dʒọŋčị   -R      
-\ps ?                 v             pron pron               n               ?     n                               pron     v           v                
+\ps ?                 n             pron pron               n               ?     n                               pron     v           v                 
 \ge all  -ins.prfl.pl remember -3pl how 1sg.obl =ptl  =ptl name  -poss.1sg but.R patronymic.R -acc -ep -poss.3sg who =ptl neg -nonfut remember -neg.cvb
 
 \tx ọːnụt.

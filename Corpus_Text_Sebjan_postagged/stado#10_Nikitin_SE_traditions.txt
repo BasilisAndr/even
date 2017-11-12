@@ -268,7 +268,7 @@ referring to.
 
 \tx ejekteːk     nọŋman               kojeːtte,       ejekteːk     nọŋandụn           toːditte            ńarị
 \mb e   -jEktEːk nọŋan -W   -n(I)     kojeːt  -R       e   -jEktEːk nọŋan -DU  -n(I)     toːdi -Č   -R       ńarị
-\ps v            pron                 v                v            pron                 v                   ?   
+\ps v            n                 v                v            pron                 v                   ?    
 \ge neg -nec.Y   3sg   -acc -poss.3sg look.at -neg.cvb neg -nec.Y   3sg   -dat -poss.3sg help  -res -neg.cvb man 
 
 \tx horejeːk... hiw... hiwkeŋken             bejen               horejeːk... horejekteːk.
@@ -336,7 +336,7 @@ man goes off hunting.
 
 \tx maːwụtan            dessiddeken                         maːwụt ọjlịn                 ahị
 \mb maːwụt -E  -n(I)     desči -D    -REk      -E  -n(I)     maːwụt ọj      -(dU)LI -n(I)     asị  
-\ps n                    v                                   n      rel.n                     n    
+\ps n                    v                                   n      rel.n                     n     
 \ge lasso  -ep -poss.3sg lie   -prog -cond.cvb -ep -poss.3sg lasso  surface -prol   -poss.3sg woman
 
 \tx gịrkarakan                   tarak emie   majgaran.
@@ -411,7 +411,7 @@ majdʒịn, he'll spoil your desire to do that (translation session Tat_Petr_que
 
 \tx hereddeken                          ụːčakan                  nụːhakrakan                   ejekteːk....
 \mb hor -E  -D    -REk      -E  -n(I)     ụčak            -E  -n(I)     nụːhak -REk      -E  -n(I)     e   -jEktEːk
-\ps v                                     n                             v                              v           
+\ps v                                     n                             v                              v            
 \ge go  -ep -prog -cond.cvb -ep -poss.3sg riding.reindeer -ep -poss.3sg snort  -cond.cvb -ep -poss.3sg neg -nec.Y  
 
 \ft When a hunter goes on the hunt, if his riding reindeer snorts, he mustn't....

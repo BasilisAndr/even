@@ -122,7 +122,7 @@ mother...
 
 \tx bakal...     taraw      ukčennin,            họːjaw
 \mb bak  -(E)ldE tarak -W   ukčen -RI  -n(I)     họːja -W
-\ps v            pron       v                    quant
+\ps v            pron       n                    quant 
 \ge find -soc    dist  -acc tell  -pst -poss.3sg many  -acc
 
 \tx ukčennin.
@@ -1401,7 +1401,7 @@ Fedor Nikolaevich Stepanov is Velikanov.
 
 \tx bičel.
 \mb bi -čE     -L
-\ps v
+\ps v 
 \ge be -pf.ptc -pl
 
 \ft In the old Viluj there were reindeer, there were reindeer herders.

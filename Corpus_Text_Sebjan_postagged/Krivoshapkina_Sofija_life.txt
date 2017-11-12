@@ -1097,7 +1097,7 @@ married her off, but at the same time she understands her parents
 \ref 7:30
 \tx Omende    kụŋańụn ečude                  kuhire,        ečude                  neːgimette.
 \mb omen =DE  kụŋa  -ńUn e   -RI  -W        =DE  kuhi  -R       e   -RI  -W        =DE  neːgi -mEČ -R      
-\ps num       n          v                       v              v                       v                  
+\ps n       n          v                       v              v                       v                   
 \ge one  =ptl child -com neg -pst -poss.1sg =ptl fight -neg.cvb neg -pst -poss.1sg =ptl scold -rec -neg.cvb
 \ft I didn't fight, didn't argue with even one child.
 \ru Не с одним ребенком не дралась, не ссорилась.
@@ -1255,7 +1255,7 @@ way of expressing necessity
 \ref 8:25
 \tx Ọl_ihin   ịahalụ         keńeli ọːdnị,         brosta,  tara.
 \mb ọl_ihin     ịašal -W        keńeli ọː            -n(I) prosto   tarak
-\ps conj        n               adj    ?                   adv      pron 
+\ps conj        n               adj    ?                   adv      pron  
 \ge therefore.Y eyes  -poss.1sg bad    become.nonfut -3sg  simply.R dist 
 \ft That's why my eyes got bad.
 \ru Поэтому глаза стали плохие, вот.

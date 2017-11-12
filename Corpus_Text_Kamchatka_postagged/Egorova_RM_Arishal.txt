@@ -979,7 +979,7 @@ subtle nuances which I just don't get
 
 \tx ečin      nekridʒi,   uledʒinni".
 \mb erroːčin  nek -RIdʒI   uleː  -DʒI -nrI
-\ps pron      v            v              
+\ps pron      v            v               
 \ge prox.qual do  -ant.cvb throw -fut -2sg
 
 \ft And old woman once told me, said, "Like this with a match, having done like this you throw (it)".
@@ -1280,7 +1280,7 @@ also be used as a verb
 \ref
 \tx Miːnede       bišeken,              miːnekekem           uŋkeweːtte.
 \mb miːne     =DE  bi -REk      -n(I)     miːne     -kEkEn -W   oŋke -WEːČ -R(E)  
-\ps n              v                      n                     v                 
+\ps n              v                      n                     n                  
 \ge alcohol.R =ptl be -cond.cvb -poss.3sg alcohol.R -dim   -acc pour -gnr  -nonfut
 \ft If there is alcohol, they pour a bit of alcohol.
 \ph
@@ -1384,7 +1384,7 @@ also be used as a verb
 \ref
 \tx Ńan   ọmŋawkanin                ńan   ečiwun               ulekitte.
 \mb ńaːn ọmŋa   -WkEn -RI  -n(I)     ńaːn e   -RI  -WUn         ulekič -R      
-\ps adv  v                           adv  v                     v              
+\ps adv  n                           adv  v                     n               
 \ge and  forget -caus -pst -poss.3sg and  neg -pst -poss.1pl.ex treat  -neg.cvb
 
 \ft And he made us forget, and we didn't (give) a treat.
@@ -1447,7 +1447,7 @@ other.
 
 \tx geletidde".
 \mb geleːt   -E  -D    -R(E)  
-\ps v                         
+\ps v                          
 \ge look.for -ep -prog -nonfut
 
 \ft And my stupid husband says somehow "That's those from Ozernoe (a village), they're probably looking for their horses".
@@ -1586,7 +1586,7 @@ same thing; iːmkeʤeːnniwu = bednaja dolgo kashljala
 \ref
 \tx Imšewen               dʒeptiwu,           ńan   ịamị iːmkešnem,                ịamị kụlịčaːmkar.
 \mb imse -W   -E  -n(I)     dʒeb -RI  -W        ńaːn ịamị hiːmke -s(E)n -R(E)   -m   ịamị kụlịčan  =eː   -mkEr
-\ps n                       v                   adv  ?    v                          ?    n                   
+\ps n                       v                   adv  n    v                          ?    n                    
 \ge fat  -acc -ep -poss.3sg eat  -pst -poss.1sg and  ptl  cough  -lim   -nonfut -1sg ptl  mosquito =emph -aug 
 \ft I ate its fat, and I coughed and see, a BIG mosquito.
 \ft
@@ -1721,7 +1721,7 @@ one could say this, no big difference
 \ref
 \tx Ńanaši     dʒụːdi            biddʒoːtten,                nọŋanbedʒi   ịak ịajida
 \mb ńaːn =sI   dʒụː  -DI          bi -D    -WEːČ -R(E)   -n(I) nọŋan =bEdʒI ịak  ịak  -J       =DE 
-\ps adv        n                  v                            pron         pron pron              
+\ps adv        n                  n                            pron         pron pron               
 \ge and  =emph house -dat.prfl.sg be -prog -gnr  -nonfut -3sg  3sg   =emph  what what -prfl.sg =ptl
 
 \tx ubirajjoːttan,                tačịnda           dʒụːn          ŋọː biweːtten.

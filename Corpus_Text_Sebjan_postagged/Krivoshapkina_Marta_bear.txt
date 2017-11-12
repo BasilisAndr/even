@@ -1262,7 +1262,7 @@ lexicalized form of the diminutive of this word
 \ref 6:19
 \tx Tarụŋụr        kuruk     tiːkerren                  ịstala Kačańụn dʒoːridʒur               kuruk
 \mb tarak -ŋ   -WUr     kuruk     tiek -(E)rEp -(dU)LE -n(I)     ịstala Katja -ńUn dʒoːr -NI   -dʒUr         kuruk    
-\ps pron                adv       adv                            postpos n          num                       adv      
+\ps pron                adv       n                            postpos n          num                       adv       
 \ge dist  -aln -prfl.pl always.Y. now  -adjr   -loc    -poss.3sg until  Katja -com two   -coll -ins.prefl.pl always.Y.
 
 \tx dʒọŋnarap.

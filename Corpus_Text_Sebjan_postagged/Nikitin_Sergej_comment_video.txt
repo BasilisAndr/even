@@ -130,7 +130,7 @@ definitely has a plural meaning, which Ija Krivoshapkina didn't catch in her tra
 
 \tx muttule        toːdičedden.
 \mb mut    -(dU)LE toːdi -E  -Č   -E  -D    -R(E)   -n(I)
-\ps pron           v                                     
+\ps pron           v                                      
 \ge 1pl.in -loc    help  -ep -res -ep -prog -nonfut -3sg 
 \ft This is our little nephew Mitja, a schoolboy, having come he is helping us.
 \ru Это наш младший брат Митя, ученик/школьник, приедя нам вот помогает.
@@ -670,7 +670,7 @@ journey
 
 \tx ọrọlkan             biwekkerep,               ọttọn slụčaj_čewọ tar   ọrọn          igin
 \mb ọrọn              -lkEn bi -WEːČ -Gr(E) -p      ọttọn v_slučae_čego tarak ọrọn              iŋin 
-\ps n                       v                       ptl   adv           pron  n                 ptl  
+\ps n                       v                       ptl   adv           pron  n                 ptl   
 \ge domestic.reindeer -prop be -gnr  -hab   -1pl.in dp.Y  in.case.R     dist  domestic.reindeer etc.Y
 
 \tx ọbdụrakan                     enilleken                           igin  er   zapasnọjụ   ịad...
@@ -931,7 +931,7 @@ the spare.
 \id Nikitin_Sergej_comment_video_068
 \tx Aha.
 \mb aha
-\ps interj
+\ps n 
 \ge aha
 
 \ELANBegin 00:06:58.120
@@ -954,7 +954,7 @@ the spare.
 \id Nikitin_Sergej_comment_video_070
 \tx Ere  mut,   goːndeŋu,              ọttọn ečin      mut    ečin      badụhangararap                     ere.
 \mb erek mut    goːn -DEŋ     -W        ọttọn erroːčin  mut    erroːčin  badụ -s(E)n -Gr(E) -R(E)   -p      erek
-\ps pron pron   v                       ptl   pron      pron   pron      v                                  pron
+\ps pron n   v                       ptl   pron      pron   pron      v                                  pron 
 \ge prox 1pl.in say  -pst.ptc -poss.1sg dp.Y  prox.qual 1pl.in prox.qual ride -lim   -hab   -nonfut -1pl.in prox
 
 \ft Like I said, here we are leaving.

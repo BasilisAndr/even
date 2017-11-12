@@ -99,7 +99,7 @@ similar to bichelet)
 
 \tx palatkat.
 \mb palatka -Č  
-\ps n           
+\ps n            
 \ge tent.R  -ins
 \ft Here reindeer herding people lived in yurts, some (lived) in tents.
 \ru Здесь люди оленоводы жили в чумах, кто в палатках.
@@ -151,7 +151,7 @@ which also makes sense from the context
 
 \tx bihin             ee.
 \mb bi -RI  -n(I)     ee
-\ps v                 interj
+\ps n                 interj 
 \ge be -pst -poss.3sg eh
 \ft When I was small, just born, when I first came to school, one day I saw the village really was very small.
 \ru Когда я был маленьким, вот родившись, придя впервые в школуб вот когда увидел однажды поселок был очень
@@ -254,7 +254,7 @@ only noticed it with Vasilij Nikolaevič, but couldn't say whether others use it
 \ref ZaxarovVN_Even_270208_2:45
 \tx Mut    dʒe   tačịn       baldarịn             erek hebieskej bïlaːs ụlarïjčalan,
 \mb mut    dʒe    tarọːčịn  balda   -RI  -n(I)     erek hebieskej bïlaːs  ụlarïj   -čE     -(dU)LE -n(I)    
-\ps pron   ptl    pron      v                      pron adj       n       v                                 
+\ps pron   n    pron      v                      pron adj       n       v                                  
 \ge 1pl.in well.Y dist.qual be.born -pst -poss.3sg prox Soviet.Y  power.Y change.Y -pf.ptc -loc    -poss.3sg
 
 \tx dʒe   ọnụs kïlaːhụ   dʒe   ọːwkanịdnan            ele.
@@ -503,12 +503,12 @@ there's a lot of all kinds of work.
 
 \tx biden                  erek, tọhaŋkačak      biden,                 nacionalnaj igry    gerbe
 \mb bi -DE       -n(I)     erek tụsan -kEČ  -ČEk bi -DE       -n(I)     nacionalnyj igry    gerbe
-\ps v                      pron v                v                      adj         n       n    
+\ps v                      pron v                v                      adj         n       n     
 \ge be -purp.cvb -poss.3sg prox hop   -mult -nr  be -purp.cvb -poss.3sg national.R  games.R name 
 
 \tx biden,                 nacionalnaj čerez    narty  hokkokkerer            igin.
 \mb bi -DE       -n(I)     nacionalnyj čerez     narty  hokon -Č   -Gr(E) -r   iŋin 
-\ps v                      adj         postpos   n      v                      ptl  
+\ps v                      adj         n   n      v                      ptl   
 \ge be -purp.cvb -poss.3sg national.R  through.R sled.R jump  -res -hab   -3pl etc.Y
 
 \ft Be it volleyball, be it wrestling, be it jumping, be it so-called national games, they jump over sleds etc.
@@ -769,7 +769,7 @@ six wheels."
 
 \tx haːs     ebit       ere, mindu        ïnïrïk  ịak erek.
 \mb haː  -s   ebit       erek min     -DU  ïnïrïk     ịak  erek
-\ps v         ptl        pron pron         adv        pron pron
+\ps v         ptl        pron pron         adv        n pron 
 \ge know -2pl it.seems.Y prox 1sg.obl -dat terribly.Y what prox
 \ft Now you for example came from a country which I don't know at all, and in addition you know our language, it seems,
 for me that is very much this (probably wanted to say: very interesting).

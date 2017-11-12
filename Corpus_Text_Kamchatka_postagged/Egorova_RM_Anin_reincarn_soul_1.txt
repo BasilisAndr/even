@@ -212,7 +212,7 @@ mistake - and probably that's why she added the "contrastive" particle -dmEr to 
 
 \tx ančịndụn               tarak atịkan, eńeńe     ančịndụn               tegridʒi.
 \mb ańčịn        -DU  -n(I)     tarak atịkan    eńene       ańčịn        -DU  -n(I)     teg      -RIdʒI  
-\ps rel.n                       pron  n         n           rel.n                       v                
+\ps rel.n                       pron  n         n           rel.n                       v                 
 \ge space.beside -dat -poss.3sg dist  old.woman grandmother space.beside -dat -poss.3sg sit.down -ant.cvb
 \ft I started to sing his song in the herd, next to old woman Eńeńe, having sat down next to her.
 \ph
@@ -969,7 +969,7 @@ emmoːttemdewel
 \nt
 \tx Uŋe, tože  munŋi,               goːnni     ọːnkana,   dengaw       gasčịddan.
 \mb uŋe tože   mun        -ŋI        goːn -n(I) ọːn =kEnE  denga   -W   gasčị -D    -R(E)   -n(I)
-\ps interj ptl    ?                     v          pron       n            v                        
+\ps n ptl    ?                     v          pron       n            v                         
 \ge now also.R 1pl.ex.obl -pred.poss say  -3sg  how =contr money.R -acc ask   -prog -nonfut -3sg 
 \ft And she's also ours, she says, asks for money.
 \ph
@@ -1388,7 +1388,7 @@ dịlaŋka, person with lung problems = ewteŋke
 \nt
 \tx Ńanasị       Sveta bakụddakan                          teːleŋeddʒoːtten                   tarak
 \mb ńaːn -E  =sI   Sveta bakụ    -D    -REk      -E  -n(I)     teːleŋ -E  -D    -WEːČ -R(E)   -n(I) tarak
-\ps adv            ?     v                                     v                                    pron 
+\ps adv            ?     n                                     v                                    pron  
 \ge and  -ep =emph Sveta be.born -prog -cond.cvb -ep -poss.3sg tell   -ep -prog -gnr  -nonfut -3sg  dist 
 
 \tx Sveta biče      ekenni           Marija Innokentjevna.
@@ -2338,7 +2338,7 @@ k zhenshine, to li k muzhchine - question, doubt
 \nt
 \tx Tegenmej         erelin              gịrkawaːčịddʒọːtta.
 \mb teg      -E  -nmEj ereːliː -n(I)     gịrka -WEːČ -E  -D    -WEːČ -R(E)  
-\ps v                  postpos           v                                  
+\ps n                  postpos           v                                   
 \ge sit.down -ep -anr  around  -poss.3sg walk  -gnr  -ep -prog -gnr  -nonfut
 \ft They were walking around a chair.
 \ru Вокруг стула ходили.

@@ -798,7 +798,7 @@ and then worked as a nanny in the kindergarten.
 
 \tx orukeweːtte.
 \mb hor -WkEn -WEːČ -R(E)  
-\ps v                      
+\ps v                       
 \ge go  -caus -gnr  -nonfut
 \ft They sent (the things they sewed) to Esso, and the Esso-ans sent (them) somewhere.
 \ph urukewɐːttɐ
@@ -884,7 +884,7 @@ hor-U-WkEn-WEːČ-R(E), i.e. with the Transitivizing/Causative suffix U
 \id Adukanova_Darja_Borisovna_086
 \tx Nan    tačịn       bidʒeːnńoːtte.
 \mb ńaːn tarọːčịn  bi -dʒEːn -WEːČ -R(E)  
-\ps adv  pron      v                      
+\ps adv  pron      n                       
 \ge and  dist.qual be -dur   -gnr  -nonfut
 \ft That's how they lived_ poor them.
 \ph
@@ -990,7 +990,7 @@ hor-U-WkEn-WEːČ-R(E), i.e. with the Transitivizing/Causative suffix U
 \id Adukanova_Darja_Borisovna_095
 \tx dʒeblew       gịakịw
 \mb dʒep -LE -W   gịakị   -W  
-\ps v             pron        
+\ps n             pron         
 \ge eat  -nr -acc various -acc
 \ft various (kinds of) food
 \ELANBegin 00:06:07.600
@@ -1002,7 +1002,7 @@ hor-U-WkEn-WEːČ-R(E), i.e. with the Transitivizing/Causative suffix U
 \id Adukanova_Darja_Borisovna_096
 \tx tačịn       bidʒeːnnin
 \mb tarọːčịn  bi -dʒEːn -RI  -n(I)    
-\ps pron      v                       
+\ps n      v                        
 \ge dist.qual be -dur   -pst -poss.3sg
 \ft (He) lived like that.
 \ph
@@ -1226,7 +1226,7 @@ simply be a nominalized form from ʤoγ- 'be poor'
 \id Adukanova_Darja_Borisovna_115
 \tx gịakịw     uŋdeten
 \mb gịakị   -W   uŋ -DE       -tEn     
-\ps pron         v                     
+\ps n         v                      
 \ge various -acc do -purp.cvb -poss.3pl
 \ft so that they did various things
 \ELANBegin 00:07:32.420
@@ -1279,7 +1279,7 @@ simply be a nominalized form from ʤoγ- 'be poor'
 \id Adukanova_Darja_Borisovna_119
 \tx ịak miːne    bisin?
 \mb ịak  miːne     bi -RI  -n(I)    
-\ps pron n         v                
+\ps pron n         v                 
 \ge what alcohol.R be -pst -poss.3sg
 \ft what alcohol was there?
 \ph
@@ -1369,7 +1369,7 @@ simply be a nominalized form from ʤoγ- 'be poor'
 
 \tx ọdčalan...
 \mb ọd   -čE     -(dU)LE -n(I)    
-\ps v                             
+\ps v                              
 \ge stop -pf.ptc -loc    -poss.3sg
 \ft When there was the war, when the war stopped...
 \ELANBegin 00:08:15.400

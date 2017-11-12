@@ -611,7 +611,7 @@ huklehenče bihem = she fell asleep unintentionally, doesn't remember exactly ho
 \id RDA_TPK_spirits_046
 \tx Kụːńịkịtla       emie   bihni,          tala          emie   dʒoːr hamaːl
 \mb kụːnị  -kIč -(dU)LE emie   bi -R(E)   -n(I) tarak -(dU)LE emie   dʒoːr samaːn -L 
-\ps v                   adv    v                pron          adv    num   n         
+\ps n                   adv    v                pron          adv    num   n          
 \ge scream -nr  -loc    also.Y be -nonfut -3sg  dist  -loc    also.Y two   shaman -pl
 
 \ft In Kunikit there are as well, there are two shamans there.
@@ -623,7 +623,7 @@ huklehenče bihem = she fell asleep unintentionally, doesn't remember exactly ho
 \id RDA_TPK_spirits_047
 \tx taraw      dʒoːr
 \mb tarak -W   dʒoːr
-\ps pron       num  
+\ps n       num   
 \ge dist  -acc two  
 \ft those two
 \ru
@@ -683,7 +683,7 @@ huklehenče bihem = she fell asleep unintentionally, doesn't remember exactly ho
 \id RDA_TPK_spirits_052
 \tx Kuńiki..
 \mb Kuńikit
-\ps ?      
+\ps ?       
 \ge Kunikit
 
 \ru
@@ -791,7 +791,7 @@ complete her thought
 \id RDA_TPK_spirits_061
 \tx Bihe,      egdʒoːmeje        ečin,     ečin      ịlatta,                 die?
 \mb bi -R(E)   egdʒen =eː   -mEjE erroːčin  erroːčin  ịl       -E  -Č   -R(E)   die  
-\ps v          adj                pron      pron      v                         v    
+\ps v          adj                n      pron      v                         v     
 \ge be -nonfut big    =emph -aug  prox.qual prox.qual stand.up -ep -res -nonfut say.Y
 \ft There are big ones (rocks, probably) like this, they stand like this, right.
 \ru есть большие, так стоят

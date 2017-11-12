@@ -28,7 +28,7 @@ Krivoshapkina.
 \id RDA_TPK_hongachan_baldarakan_002
 \tx ee, bihin
 \mb ee bi -RI  -n(I)    
-\ps interj v                
+\ps interj v                 
 \ge eh be -pst -poss.3sg
 \ft yes, there was
 \ru
@@ -96,7 +96,7 @@ Krivoshapkina.
 \id RDA_TPK_hongachan_baldarakan_008
 \tx ewinekńun         bakaldawatta                 mut    ...
 \mb ewiː -ČEk =ńUn   bak  -(E)ldE -WEːČ -R(E)   mut   
-\ps v                v                          pron  
+\ps n                v                          pron   
 \ge play -nr  =restr find -soc    -gnr  -nonfut 1pl.in
 \ft they only meet at the summer solstice celebration, we/our....
 \ph
@@ -110,7 +110,7 @@ Krivoshapkina.
 \id RDA_TPK_hongachan_baldarakan_009
 \tx Bakaldadʒak       bihin,            ee, irile.
 \mb bak  -(E)ldE -ČEk bi -RI  -n(I)     ee
-\ps v                 v                 interj
+\ps n                 v                 interj 
 \ge find -soc    -nr  be -pst -poss.3sg eh
 \ft there was a meeting, in summer
 \ph
@@ -123,7 +123,7 @@ Krivoshapkina.
 \id RDA_TPK_hongachan_baldarakan_010
 \tx irildu
 \mb ireli  -DU 
-\ps n          
+\ps n           
 \ge summer -dat
 \ft in summer
 \ru
@@ -145,7 +145,7 @@ Krivoshapkina.
 \id RDA_TPK_hongachan_baldarakan_012
 \tx Nelkenidu         ọrọlčịmŋa   bakaldadʒak       biwren,         họŋŋačan ihureken.
 \mb nelkeni      -DU  ọrọlčị        -mŋE  bak  -(E)ldE -ČEk bi -Gr(E) -n(I) họnŋačan      isu  -REk      -E  -n(I)    
-\ps n                 v                   v                 v               n             v                           
+\ps n                 v                   v                 n               n             v                            
 \ge early.spring -dat herd.reindeer -agnr find -soc    -nr  be -hab   -3sg  reindeer.fawn grow -cond.cvb -ep -poss.3sg
 \ft in spring there is the meeting of the reindeer herders, when the reindeer fawns are born (lit. when they grow)
 \ph
@@ -158,7 +158,7 @@ Krivoshapkina.
 \id RDA_TPK_hongachan_baldarakan_013
 \tx Ee, tiːke erek irek  ịlaːn, he?
 \mb ee tiek erek irek  ịlaːn he 
-\ps interj adv  pron pron  n     interj
+\ps interj n  n pron  n     interj  
 \ge eh now  prox which moon  huh
 \nt now, this is which month, huh?
 \ru сейчас, это какой месяц
@@ -402,7 +402,7 @@ mụdnakan - but this latter form is practically not used anymore
 \id RDA_TPK_hongachan_baldarakan_033
 \tx bïraːhïnnïk
 \mb prazdnik 
-\ps n        
+\ps n         
 \ge holiday.R
 
 \ru
@@ -431,7 +431,7 @@ mụdnakan - but this latter form is practically not used anymore
 \id RDA_TPK_hongachan_baldarakan_036
 \tx hebdʒekedʒek
 \mb hebdʒek   -E  -ČEk
-\ps v                 
+\ps v                  
 \ge celebrate -ep -nr 
 \ft the celebration
 \ru
@@ -442,7 +442,7 @@ mụdnakan - but this latter form is practically not used anymore
 \id RDA_TPK_hongachan_baldarakan_037
 \tx Tarak uduːr             muttu       tradicija   Zoja Afanasevna ịarịn              tarak mut    dʒaːltị,              mut
 \mb tarak erek -DU  -WUr     mut    -DU  tradicija   Zoja Afanasevna ịa      -RI  -n(I)     tarak mut    dʒaː     -L  -t(I)        mut   
-\ps pron  pron               pron        n           ?    ?          v                      pron  pron   n                         pron  
+\ps n  pron               pron        n           ?    ?          v                      pron  pron   n                         pron   
 \ge dist  prox -dat -prfl.pl 1pl.in -dat tradition.R Zoja Afanasevna do.what -pst -poss.3sg dist  1pl.in relative -pl -poss.1pl.in 1pl.in
 
 \tx upeːlti                     taraw      hịgịːlị
@@ -581,7 +581,7 @@ mụdnakan - but this latter form is practically not used anymore
 \id RDA_TPK_hongachan_baldarakan_048
 \tx hịakataw       teguwrer                   haːdụn
 \mb hịakịta -W   teg      -U    -Gr(E) -r   haːdụn   
-\ps n            v                          adv      
+\ps n            v                          adv       
 \ge tree    -acc sit.down -caus -hab   -3pl sometimes
 \ft sometimes they plant trees
 \ph
@@ -783,7 +783,7 @@ from ŋeːlu with a suffix -kE (not clear what that would be, however)
 
 \tx amardadụkụn.
 \mb amar   -gIdE -DUk(U) -n(I)    
-\ps n                             
+\ps n                              
 \ge behind -part -abl    -poss.3sg
 \ft it (will be) after the reindeer herders' festival
 \ru это после слет оленеводов

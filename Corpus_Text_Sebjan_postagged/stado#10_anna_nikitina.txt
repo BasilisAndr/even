@@ -148,7 +148,7 @@ her Fortbildungskurs
 
 \tx irikkerem,                    haŋangaram        igin, bütünnüːwen                če,  dʒụːj,
 \mb iri  -Č   -Gr(E) -R(E)   -m   haŋan -Gr(E) -m   iŋin  bütünnüː   -W   -E  -n(I)     če    dʒụː  -J      
-\ps v                             v                 ptl   n                             ptl   n             
+\ps v                             v                 ptl   n                             ptl   n              
 \ge cook -res -hab   -nonfut -1sg sew   -hab   -1sg etc.Y entirely.Y -acc -ep -poss.3sg ptl.Y house -prfl.sg
 
 \tx ọralčịmŋaldụ         ịawụtna          ịawram.
@@ -178,7 +178,7 @@ gives this meaning
 \id stado#10_anna_nikitina_012
 \tx Tarịt biː bụọlla   ịak gerbe bihin,            emgum                ọːwraram
 \mb tarịt biː buollaγïna ịak  gerbe bi -RI  -n(I)     emgun           -W   ọː   -Gr(E) -R(E)   -m  
-\ps adv   pron ptl        pron n     v                 n                    v                       
+\ps n   pron ptl        pron n     v                 n                    v                        
 \ge then  1sg dp.Y       what name  be -pst -poss.3sg reindeer.saddle -acc make -hab   -nonfut -1sg
 
 \tx ụːčakalbụ,            ụːčak       emgumen.
@@ -320,7 +320,7 @@ gives this meaning
 \id stado#10_anna_nikitina_021
 \tx Ńan   ịaw      goːndʒim?
 \mb ńaːn ịak  -W   goːn -DʒI -m  
-\ps adv  pron      v             
+\ps adv  pron      n              
 \ge and  what -acc say  -fut -1sg
 \ft What else shall I say?
 \ru Что еще сказать?
@@ -506,7 +506,7 @@ meant to say 'saddle bags for men's things, for women's things'
 
 \tx tụspa      biwren.
 \mb tụspa        bi -Gr(E) -n(I)
-\ps adv          v              
+\ps adv          v               
 \ge separately.Y be -hab   -3sg 
 
 \ft And (the bag) for the dishes is separate, and (the bag) for the dishes is also separate.

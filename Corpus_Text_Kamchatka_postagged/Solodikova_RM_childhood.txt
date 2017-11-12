@@ -313,7 +313,7 @@ tozhe mozhno, exala vstrechatj
 \id Solodikova_RM_childhood.023
 \tx Bu     tar  giekiw         ńaːlakčatiddʒoːttuda,                 ullewde,       d'uːrbede        ineŋu      tadụ
 \mb buː    tar  gịakị   -W   ńaːlakča   -tI -D    -WEːČ -(R)U   =DE  ulre -W   =DE  dʒoːr -W   =DE  ineŋi -W   tarak -DU 
-\ps pron   adv  pron         v                                       n              num             n          pron      
+\ps n   adv  pron         v                                       n              num             n          pron       
 \ge 1pl.ex thus various -acc fresh.meat -vr -prog -gnr  -1pl.ex =ptl meat -acc =ptl two   -acc =ptl day   -acc dist  -dat
 
 \tx biddʒoː...             biddʒoːttu.
@@ -409,7 +409,7 @@ otdoxnula xorosho
 
 \tx ọlgịččoːttu,           ńịrịmčawan,               giekiw         esni              ịakta    uŋŋoːtte.
 \mb ọlgị -Č   -WEːČ -(R)U   ńịrịmča       -W   -E  -n(I)     gịakị   -W   e   -R(E)   -n(I) ịak  =DE  uŋ -WEːČ -R      
-\ps v                       n                                pron         v                 pron      v                
+\ps v                       n                                pron         v                 pron      v                 
 \ge dry  -res -gnr  -1pl.ex spine.of.fish -acc -ep -poss.3sg various -acc neg -nonfut -3sg  what =ptl do -gnr  -neg.cvb
 
 \ft And the dogs, we dried fish as food for the dogs, and fish spines, (nothing was thrown out).
@@ -651,7 +651,7 @@ ollaw) (tala) (uŋden muniča oːdan)
 
 \tx tanmụčaddan.
 \mb tanmụ        -Č   -E  -D    -R(E)   -n(I)
-\ps v                                        
+\ps v                                         
 \ge become.foggy -res -ep -prog -nonfut -3sg 
 
 \ft Those in Esso, the Nulgur members, sing, don't they: Birkangaj, Birkangaj, always foggy.
@@ -868,7 +868,7 @@ more like what I translated, that he lived with them in the village - after all,
 
 \tx uŋeč         goːweːtte           uteplitel         tačịn       tar.
 \mb uŋ        -Č   goːn -WEːČ -R(E)   uteplitel'        tarọːčịn  tar 
-\ps n              v                  n                 pron      adv 
+\ps n              v                  n                 pron      adv  
 \ge something -ins say  -gnr  -nonfut heat.insulation.R dist.qual thus
 
 \ft That (they brought) from the tundra, to put between the logs of the house, how do they say, heat insulation, that's it.
@@ -1099,7 +1099,7 @@ that ʤugani actually corresponds more to "summer"
 \id Solodikova_RM_childhood.078
 \tx Alganda     awụskida           urreken,                    bi   bọdesnoːttem.
 \mb halgan =DE  aw    -skI      =DE  hor -REk      -E  -n(I)     biː bọd       -s(E)n -WEːČ -R(E)   -m  
-\ps ?           pron                 v                           pron v                                  
+\ps n           pron                 v                           pron v                                   
 \ge foot   =ptl where -advb.all =ptl go  -cond.cvb -ep -poss.3sg 1sg accompany -lim   -gnr  -nonfut -1sg
 \ft Even when he went somewhere on foot, I followed.
 \ph
@@ -1288,7 +1288,7 @@ have a case-marker attached to a verb root...)
 
 \tx geletedʒilliten.
 \mb gel      -Č   -D    -L    -RI  -tEn     
-\ps v                                       
+\ps n                                        
 \ge look.for -res -prog -inch -pst -poss.3pl
 
 \ft It was already dark, in September it gets dark quickly, right, and our parents started to look for us.
@@ -1451,7 +1451,7 @@ the meaning they fit (I had asked, and one doesn't say "selokle")
 \id Solodikova_RM_childhood.101
 \tx Ńan   taŋ.. uŋniwun              školadu,     učitelnitsawun           Rimma Mixajlovna  munteki
 \mb ńaːn taŋ  uŋ -RI  -WUn         škola    -DU  učitel'nica -WUn         Rimma Mixajlovna  mun        -t(E)kI
-\ps adv  v    v                    n             n                        ?     ?           n                 
+\ps adv  v    v                    n             n                        n     ?           n                  
 \ge and  read do -pst -poss.1pl.ex school.R -dat teacher.f.R -poss.1pl.ex Rimma Mikhajlovna 1pl.ex.obl -all   
 
 \tx toreweːtten                ńụčịdịč    ńan   ulgimmoːtten               ọrọttịč       "ụnụnni?"
@@ -1797,7 +1797,7 @@ vspominala; ʤoŋčiram = pomnitj
 
 \tx jabalakaŋgaji               gasčịmi.
 \mb jabloko -ŋ   -GE    -J       gasčị -mI      
-\ps n                            v              
+\ps n                            v               
 \ge apple.R -aln -desig -prfl.sg ask   -cond.cvb
 
 \ft And so I go to the shop and dance in front of the sales-person, asking for an apple for myself.
@@ -1957,7 +1957,7 @@ vspominala; ʤoŋčiram = pomnitj
 \ref N13
 \tx Kompetuγeleː            tar  bi   kampetu      tar  ajaː  ...  ajaːwriwun              ịlkan tar  jablukkoliw          tar.
 \mb konfeta -W   =gEl   =eː   tar  biː konfeta -W   tar  ajaːw *... ajaːw -RI  -WUn         ịlkan tar  jabloko -g(E)lI -W   tar 
-\ps n                         adv  pron n            adv  v     ?    v                       adj   adv  n                    adv 
+\ps n                         adv  pron n            adv  v     ?    v                       n   adv  n                    adv  
 \ge sweet.R -acc =coord =emph thus 1sg sweet.R -acc thus love  ***  love  -pst -poss.1pl.ex true  thus apple.R -com    -acc thus
 \ft And SWEETS, sweets I loved very much, together with apples.
 \nt ilkan-сильно
@@ -1988,7 +1988,7 @@ vspominala; ʤoŋčiram = pomnitj
 
 \tx temujoweːtten                  tačịnda          bọrịt...  bọrịttoːtte              ereger.
 \mb temujo    -WEːČ -R(E)   -n(I) tarọːčịn  =DE  bọrị  -Č   bọrị  -Č   -WEːČ -R(E)   ereger
-\ps v                             pron           v          v                        adv   
+\ps v                             n           n          v                        adv    
 \ge slaughter -gnr  -nonfut -3sg  dist.qual =ptl share -res share -res -gnr  -nonfut always
 
 \ft Over there, those who went for (reindeer) meat shared (with the others), and the next one, whoever slaughtered, also shared like that, always.
@@ -2053,7 +2053,7 @@ otnositj rybu"? nọŋan minu ŋenuwkenin, ollaw boːttaku (is what Rimma said);
 \ref №14 1:00
 \tx Tar  bi   tar   atkịkaneč   elekes   omneken        eŋulliwu.
 \mb tar  biː tarak atkịkan -Č   elekes   omen -REkEn    heŋun     -L    -RI  -W       
-\ps adv  pron pron  n            ?        num            v                             
+\ps adv  pron pron  n            n        num            v                              
 \ge thus 1sg dist  moon    -ins at.first one  -iter.adv be.afraid -inch -pst -poss.1sg
 \ft And then I was once frightened by the moon for the first time.
 \ph elekeh or else no ending - but definitely not -s
@@ -2308,7 +2308,7 @@ are (there).
 
 \tx dʒaːlbu            oːsajiddʒoːtte.
 \mb dʒaː   -L  -W        oːsej -D    -WEːČ -R(E)  
-\ps ptl                  v                        
+\ps ptl                  v                         
 \ge friend -pl -poss.1sg tease -prog -gnr  -nonfut
 
 \ft Very good, I was a master of writing in those days, and always got best marks, my schoolmates teased me.
@@ -2587,7 +2587,7 @@ draznitj; Q: mozhno ošeDiŋawur? A: no; one can say "ošejʤip", budem draznitj
 \id Solodikova_RM_childhood.180
 \tx Tiːk kinola           irbeteldule            kinola           tar  dʒọːwaːttam              taraw      ikečawur              tar
 \mb tiek kino     -(dU)LE irbeːt -E  -L  -(dU)LE kino     -(dU)LE tar  dʒọː     -WEːČ -R(E)   -m   tarak -W   ikeː -čE     -WUr     tar 
-\ps adv  n                adj                    n                adv  v                           pron       v                     adv 
+\ps adv  n                n                    n                adv  v                           pron       v                     adv  
 \ge now  movies.R -loc    old    -ep -pl -loc    movies.R -loc    thus remember -gnr  -nonfut -1sg dist  -acc sing -pf.ptc -prfl.pl thus
 
 \tx kụŋal    bimi.
@@ -2688,7 +2688,7 @@ draznitj; Q: mozhno ošeDiŋawur? A: no; one can say "ošejʤip", budem draznitj
 \id Solodikova_RM_childhood.186
 \tx Ńan   tolko  ajịč      billiwun                   uže      čelewen                uže      uŋniwun              ńan   Bystroju
 \mb ńaːn tol'ko aj   -E  -Č   bi -L    -RI  -WUn         uže       čele -W   -E  -n(I)     uže       uŋ -RI  -WUn         ńaːn Bystroj -W  
-\ps adv  adv    adj           v                          adv       n                       adv       v                    adv  n           
+\ps adv  n    adj           v                          adv       n                       adv       v                    adv  n            
 \ge and  only.R good -ep -ins be -inch -pst -poss.1pl.ex already.R all  -acc -ep -poss.3sg already.R do -pst -poss.1pl.ex and  Bystroe -acc
 
 \tx nipkuriten.
@@ -2795,7 +2795,7 @@ forest.
 \id Solodikova_RM_childhood.192
 \tx Uŋenja,       tar  Kolja Ičanga, Nikolaj Fomič, tar  tiːk rybelkelen                    tar, Oblukowinala.
 \mb uŋen     -jEː tar  Kolja Ichanga Nikolaj Fomich tar  tiek rybalka        -(dU)LE -n(I)     tar  Oblukowina -(dU)LE
-\ps pron          adv  ?     ?       ?       ?      adv  adv  n                                adv  n                 
+\ps pron          adv  ?     n       ?       ?      adv  adv  n                                adv  n                  
 \ge this.one -aug thus Kolja Ichanga Nikolaj Fomich thus now  fishing.camp.R -loc    -poss.3sg thus Oblukowina -loc   
 
 \ft Kolja Ichanga, Nikolaj Fomich, he's at his fishing camp, on the Oblukowina river.
@@ -2857,7 +2857,7 @@ forest.
 \id Solodikova_RM_childhood.198
 \tx Bystrojdu    ajtịtta      bisin,            tur   ńam, ọllada    ereger bisin             ńan.
 \mb Bystroj -DU  aj   =tIt =DE  bi -RI  -n(I)     tor   ńam  ọlra =DE  ereger bi -RI  -n(I)     ńaːn
-\ps n            adj            v                 n     adj  n         adv    v                 adv 
+\ps n            adj            v                 n     adj  n         adv    v                 adv  
 \ge Bystroe -dat good =ptl =ptl be -pst -poss.3sg earth warm fish =ptl always be -pst -poss.3sg and 
 \ft It was also very good in Bystroe, the earth was warm, and there was always fish.
 \ph

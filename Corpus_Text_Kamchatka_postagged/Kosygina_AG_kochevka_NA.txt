@@ -49,7 +49,7 @@ with husband, even though he is also Even; speaks Russian with her children.
 
 \tx arčawaːtte.
 \mb arčị -WEːČ -R(E)  
-\ps v                 
+\ps v                  
 \ge meet -gnr  -nonfut
 \ft In the morning the reindeer herders go to the herd, they go to meet the night herders.
 \ph
@@ -84,7 +84,7 @@ gotovjat; nụːdʒịlbụtan -  is the form one would have expected, with an a
 \id Kosygina_AG_kochevka_005
 \tx Dʒulle       ururteweːtte                 kučulbur,                teːdekelbe,      nụktaw,    alịːkụ
 \mb dʒul  -(dU)LE ururte        -WEːČ -R(E)   kuču         -L  -WUr     teːdeke -L  -W   nụkta  -W   alịːk -W  
-\ps rel.n         v                           n                         n                n           n         
+\ps rel.n         v                           n                         n                n           n          
 \ge front -loc    tie.up.things -gnr  -nonfut sleeping.bag -pl -prfl.pl mat     -pl -acc things -acc dish  -acc
 
 \ft
@@ -118,7 +118,7 @@ form), but she said no, obychno pro olenej, zhivotnyx; nọŋan ịntụn ọr�
 \id Kosygina_AG_kochevka_007
 \tx Dʒawassọːtta                ụːčịkalba,            inučelbe,                            gilbeːweːtte.
 \mb dʒawas          -WEːČ -R(E)   ụčak            -E  -L  -W   in            -W     -čE     -L  -W   gilbeːn      -WEːČ -R(E)  
-\ps v                             n                            v                                     v                         
+\ps n                             n                            v                                     v                          
 \ge catch.reindeers -gnr  -nonfut riding.reindeer -ep -pl -acc carry.on.back -advrs -pf.ptc -pl -acc tie.reindeer -gnr  -nonfut
 
 \ft
@@ -186,7 +186,7 @@ gilbeːŋčin = OK, privjazan ullaruk; the verb doesn't change, but the argument
 \id Kosygina_AG_kochevka_011
 \tx Tadụk       ọran            etuken              nụktalkan   (kan)        , nan    ọran            gịakịw     nụktaw
 \mb tarak -DUk(U) ọrọn              etuke     -n(I)     nụkta  -lkEn ńaːn ọrọn              gịakị   -W   nụkta  -W  
-\ps pron          n                 n                   n            adv  n                 pron         n          
+\ps pron          n                 n                   n            adv  n                 pron         n           
 \ge dist  -abl    domestic.reindeer saddlebag -poss.3sg things -prop and  domestic.reindeer various -acc things -acc
 
 \tx insen,                     amardadụn                 čọːrarụk  gilbeːŋčin,             amarla       ịrụkasịk.
@@ -209,7 +209,7 @@ gilbeːŋčin = OK, privjazan ullaruk; the verb doesn't change, but the argument
 \id Kosygina_AG_kochevka_012
 \tx Uriweːtte           ọrọčịl,    ineggoːtte            inučelbe,                            tiːweːtte
 \mb urin -WEːČ -R(E)   ọrọč  -E  -L  ineg   -WEːČ -R(E)   in            -W     -čE     -L  -W   tie       -WEːČ -R(E)  
-\ps v                  n             v                    v                                     v                      
+\ps v                  n             n                    v                                     v                       
 \ge stop -gnr  -nonfut Oroch -ep -pl unload -gnr  -nonfut carry.on.back -advrs -pf.ptc -pl -acc take.away -gnr  -nonfut
 
 \ft
@@ -249,7 +249,7 @@ gilbeːŋčin = OK, privjazan ullaruk; the verb doesn't change, but the argument
 \id Kosygina_AG_kochevka_015
 \tx Nan    dʒụganịw     nulgeweːččoːtte             ineŋtennen         edeten                  ọral                ekkoːtte
 \mb ńaːn dʒụganị -W   nulge   -WEːČ -WEːČ -R(E)   ineŋi -tEn   =nEn  e   -DE       -tEn      ọrọn              -L  ek    -WEːČ -R      
-\ps adv  n            v                           n                  v                       n                     v                   
+\ps adv  n            v                           n                  v                       n                     v                    
 \ge and  summer  -acc migrate -gnr  -gnr  -nonfut day   -distr =emph neg -purp.cvb -poss.3pl domestic.reindeer -pl tread -gnr  -neg.cvb
 
 \tx meːr     ọŋkawụr.
@@ -315,7 +315,7 @@ gilbeːŋčin = OK, privjazan ullaruk; the verb doesn't change, but the argument
 \id Kosygina_AG_kochevka_019
 \tx Emuridʒur              dassoːtte            dʒụːw     ịnmač
 \mb em   -U    -RIdʒI   -L  das   -WEːČ -R(E)   dʒụː  -W   hịnma -Č  
-\ps v                       v                   n          n         
+\ps v                       n                   n          n          
 \ge come -caus -ant.cvb -pl cover -gnr  -nonfut house -acc speed -ins
 
 \ELANBegin 00:02:17.579
@@ -380,7 +380,7 @@ gilbeːŋčin = OK, privjazan ullaruk; the verb doesn't change, but the argument
 
 \tx oːččenteki.
 \mb oːččen -t(E)kI
-\ps n             
+\ps n              
 \ge hut    -all   
 
 \ft
@@ -430,7 +430,7 @@ bisiw nụktaw gawaːtta, they take the things that are in that hut
 \id Kosygina_AG_kochevka_026
 \tx Tiːtel  jụrtala       biweːtte          digen araːn.
 \mb tiːtel   jụrta -(dU)LE bi -WEːČ -R(E)   digen haraːn
-\ps adv      n             v                num   n     
+\ps n      n             v                num   n      
 \ge long.ago yurt  -loc    be -gnr  -nonfut four  bed   
 
 \ELANBegin 00:03:05.289
@@ -456,7 +456,7 @@ bisiw nụktaw gawaːtta, they take the things that are in that hut
 \id Kosygina_AG_kochevka_028
 \tx Ọralba                  ilbeweːtte           dʒụːtkị,   temujoddʒoːtte.
 \mb ọrọn              -L  -W   ilbe  -WEːČ -R(E)   dʒụː  -t(E)kI temujo    -D    -WEːČ -R(E)  
-\ps n                          v                   n             v                            
+\ps n                          v                   n             n                             
 \ge domestic.reindeer -pl -acc chase -gnr  -nonfut house -all    slaughter -prog -gnr  -nonfut
 \ft
 \ph temjoddʒoːtte
@@ -518,7 +518,7 @@ bisiw nụktaw gawaːtta, they take the things that are in that hut
 
 \tx biweːtten              ekar
 \mb bi -WEːČ -R(E)   -n(I) eka                 -L 
-\ps v                      n                      
+\ps v                      n                       
 \ge be -gnr  -nonfut -3sg  herd.without.calves -pl
 
 \gr 06.02.13 (questions13, 48:30) ekar = those reindeer that don't have young, the singular is eka, ekar = mnozhestvennoe

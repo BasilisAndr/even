@@ -313,7 +313,7 @@ having hard vowels
 \ref 6:53
 \tx Aːngịlda,    min     uŋilbu                    [eńtilbu]        eńtilbu          ịkụtịč    amaskị
 \mb haːn  -SEl =DE  min     uŋ        -E  -L  -W        eńtil   -W        eńtil   -W        ịkụt     -E  -Č   amar   -skI
-\ps quant           pron    n                           n                 n                 adv               ?
+\ps n           pron    n                           n                 n                 adv               ? 
 \ge other -pl  =ptl 1sg.obl something -ep -pl -poss.1sg parents -poss.1sg parents -poss.1sg straight -ep -ins behind -advb.all
 
 \tx badụsnịtan.

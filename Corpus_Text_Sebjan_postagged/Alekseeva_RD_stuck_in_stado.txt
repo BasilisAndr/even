@@ -352,7 +352,7 @@ letom'; in addition, it is obviously at the root of irildeːrep; olbuke = malen'
 \id Alekseeva_RD_stuck_in_stado_029
 \tx Haːtarallan,                 omende    ọsịkat ehni           ičur,              togeːčin.
 \mb haːtar  -E  -L    -R(E)   -n(I) omen =DE  ọsịkat e   -R(E) -n(I) it  -W     -R       togeːčin
-\ps v                               num       n      v               v                   n       
+\ps v                               num       n      v               v                   n        
 \ge be.dark -ep -inch -nonfut -3sg  one  =ptl star   neg -nfut -3sg  see -advrs -neg.cvb cloud   
 
 \ft It got dark, not a single star to be seen, clouds!
@@ -398,7 +398,7 @@ did something for sleeping.
 
 \tx goːniken.
 \mb goːn -nIkEn  
-\ps v            
+\ps v             
 \ge say  -sim.cvb
 \ft We covered that little tent with plastic (thinking) it would rain/because it will rain.
 \ph

@@ -297,7 +297,7 @@ minu = pomogli mne, pravilno, and word order is OK, minu belliten = belliten min
 \ref
 \tx Ọddịdʒị emniwu              Kamčatkatkị,   ńan   Ačajwajamtakị   urukeniten.
 \mb ọd   -RIdʒI   em   -RI  -W        Kamčatka  -t(E)kI ńaːn Ačajwajam  -t(E)kI hor -WkEn -RI  -tEn     
-\ps v             v                   n                 adv  n                  v                       
+\ps n             v                   n                 adv  n                  v                        
 \ge stop -ant.cvb come -pst -poss.1sg Kamchatka -all    and  Achajwajam -all    go  -caus -pst -poss.3pl
 \ft When I was finished I came to Kamchatka, and they sent me to Achajwajam.
 \ph urukæniten
@@ -1541,7 +1541,7 @@ kostre, could have said tọgdụla, no difference
 
 \tx untetki.
 \mb honte -t(E)kI
-\ps adj          
+\ps adj           
 \ge other -all   
 
 \ft I am here for half a month and move on to a different (place).

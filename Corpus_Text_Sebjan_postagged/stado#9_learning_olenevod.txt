@@ -79,7 +79,7 @@ father of Ekaterina Afanas'evna Krivoshapkina
 \id stado#9_learning_olenevod_007
 \tx Tadụk       ïla    nọŋartan haːra       ọrọm,              kotluːčendukur              haːra,      kụŋal...
 \mb tarak -DUk(U) ïla     nọŋartan haː  -R(E)   ọrọn              -W   kotlen -čEn -DUk(U) -WUr     haː  -R(E)   kụŋa  -L 
-\ps pron          postpos pron     v            n                      adj                          v            n        
+\ps pron          postpos n     v            n                      adj                          v            n         
 \ge dist  -abl    since.Y 3pl      know -nonfut domestic.reindeer -acc small  -dim -abl    -prfl.pl know -nonfut child -pl
 
 \tx kotlen kụŋaraptụkụr.

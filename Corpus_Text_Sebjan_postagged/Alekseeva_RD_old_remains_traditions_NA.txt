@@ -1169,7 +1169,7 @@ happening. Ịakkọl ọːdnị -- something happened.
 \id Alekseeva_RD_old_remains_traditions_074
 \tx Tarbačinat               ịawrar...
 \mb tarọːčịn  -E  -Č   ịa      -Gr(E) -r  
-\ps pron               v                  
+\ps pron               v                   
 \ge dist.qual -ep -ins do.what -hab   -3pl
 \ft They do it.
 \ru Этим занимаются.
