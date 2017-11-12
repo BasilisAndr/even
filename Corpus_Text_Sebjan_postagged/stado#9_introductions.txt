@@ -148,7 +148,7 @@ father of Ekaterina Afanas'evna Krivoshapkina
 \tx eš ehni
 \mb eš e   -R(E) -n(I)
 \ps interj v              
-\ge no neg -nfut -3sg 
+\ge no neg -nonfut -3sg 
 
 \ru
 \ELANBegin 00:00:25.480
@@ -332,7 +332,7 @@ nazyvaetsja
 \tx ulgimikekkerečeːdʒinni.
 \mb ulgim -i      -kEČ  -Gr(E) -čE     -DʒI -nrI
 \ps v                                           
-\ge ask   -ipf??? -mult -hab   -pf.ptc -fut -2sg
+\ge ask   -ipf -mult -hab   -pf.ptc -fut -2sg
 \ft You probably usually ask the names of all the boys who work here.
 \ph sounds like gerbewun; ulgimikekkehečedʒinni
 \gr ọmọlgọl bekebbutnen gerbewutnen = can be 'the names of all the boys' as well as 'all the names of the boys'; Raisa didn't translate
@@ -528,7 +528,7 @@ different village
 \tx Ebedit          ehni           haːra,       ečel           hepkutte        nọŋman,
 \mb ewen -DI   -Č   e   -R(E) -n(I) haː  -R       e   -čE     -L  hupkut -R       nọŋan -W   -n(I)    
 \ps n               v               v             v               v               pron                
-\ge Even -adjr -ins neg -nfut -3sg  know -neg.cvb neg -pf.ptc -pl learn  -neg.cvb 3sg   -acc -poss.3sg
+\ge Even -adjr -ins neg -nonfut -3sg  know -neg.cvb neg -pf.ptc -pl learn  -neg.cvb 3sg   -acc -poss.3sg
 
 \tx ńọkadịtńụn        toretni.
 \mb ńọka  -DI   -Č   =ńUn   tore  -n(I)
@@ -649,7 +649,7 @@ gerbew atịkaŋgajị emurin
 \tx Hi   ulgimiri,              vaprọhụ     ulgimirekes                          tadụ     [stammers] ịanịkan
 \mb hiː ulgim -i      -LI      vopros     -W   ulgim -i      -REk      -E  -s(I)     tarak -DU  stammers ịa      -nIkEn  
 \ps pron v                      n               v                                     pron       interj   v               
-\ge 2sg ask   -ipf??? -imp.2sg question.R -acc ask   -ipf??? -cond.cvb -ep -poss.2sg dist  -dat stammers do.what -sim.cvb
+\ge 2sg ask   -ipf -imp.2sg question.R -acc ask   -ipf -cond.cvb -ep -poss.2sg dist  -dat stammers do.what -sim.cvb
 
 \tx toremču.
 \mb tore  -mč(I) -W       

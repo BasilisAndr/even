@@ -337,7 +337,7 @@ worker" (chumrabotnitsa). She is the sister of Innokentij Dmitrievich Burtsev.
 \id Alekseeva_RD_stuck_in_stado_028
 \tx Irildeːrep         balakka olbukeːdʒin,                  ičikeːn           ịanịkan
 \mb ireli  -DU  -(E)rEp palatka elbe       -k(E) -Č   -n(I)     erroːčin  -KEn     ịa      -nIkEn  
-\ps n                   n       v                               pron               v               
+\ps n                   n       n                               pron               v                
 \ge summer -dat -adjr   tent.R  cover.yurt -nr   -ins -poss.3sg prox.qual -dim.int do.what -sim.cvb
 
 \ft With a small summer tent.
@@ -352,8 +352,8 @@ letom'; in addition, it is obviously at the root of irildeːrep; olbuke = malen'
 \id Alekseeva_RD_stuck_in_stado_029
 \tx Haːtarallan,                 omende    ọsịkat ehni           ičur,              togeːčin.
 \mb haːtar  -E  -L    -R(E)   -n(I) omen =DE  ọsịkat e   -R(E) -n(I) it  -W     -R       togeːčin
-\ps v                               num       n      v               v                   n        
-\ge be.dark -ep -inch -nonfut -3sg  one  =ptl star   neg -nfut -3sg  see -advrs -neg.cvb cloud   
+\ps v                               num       n      v               v                   n         
+\ge be.dark -ep -inch -nonfut -3sg  one  =ptl star   neg -nonfut -3sg  see -advrs -neg.cvb cloud   
 
 \ft It got dark, not a single star to be seen, clouds!
 \ph
@@ -393,12 +393,12 @@ did something for sleeping.
 \id Alekseeva_RD_stuck_in_stado_032
 \tx Tala          tar   olbuke           ọjlịn                 halapaːnat       dahrap,               ụdan tikčin
 \mb tarak -(dU)LE tarak elbe       -k(E) ọj      -(dU)LI -n(I)     celofan   -E  -Č   das   -R(E)   -p      ụdan tik  -DʒI -n(I)
-\ps pron          pron  v                rel.n                     n                  v                     n    v              
+\ps pron          pron  n                rel.n                     n                  v                     n    v               
 \ge dist  -loc    dist  cover.yurt -nr   surface -prol   -poss.3sg plastic.R -ep -ins cover -nonfut -1pl.in rain fall -fut -3sg 
 
 \tx goːniken.
 \mb goːn -nIkEn  
-\ps v             
+\ps v              
 \ge say  -sim.cvb
 \ft We covered that little tent with plastic (thinking) it would rain/because it will rain.
 \ph
@@ -649,7 +649,7 @@ the impf.ptc; mne slyšitsja = mindu ihnen; slyšilsja = ihnin; budet slyšnym =
 \tx Mašịnaw     alattap              emniwen.
 \mb mašịna -W   alat -R(E)   -p      em   -RI      -W   -E  -n(I)    
 \ps n           v                    v                               
-\ge car.R  -acc wait -nonfut -1pl.in come -ipf.ptc -acc -ep -poss.3sg
+\ge car.R  -acc wait -nonfut -1pl.in come -impf.ptc -acc -ep -poss.3sg
 \ft We waited for a car to come.
 \ph
 \ru Мы ждали машину пока приедет (ждали приезда машины).

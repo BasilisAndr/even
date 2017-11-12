@@ -42,12 +42,12 @@ grant). Speaker abbreviation = MK
 \id Krivoshapkin_Misha_004
 \tx Ọːkgọl   emneken        ịak tar   dʒulle       hupkučekle          irek, digis
 \mb ọːk  =(W)Ul omen -REkEn    ịak  tarak dʒul  -(dU)LE hupkut -ČEk -(dU)LE irek  digen -Is   
-\ps pron        num            pron pron  rel.n         v                   pron  num         
+\ps pron        num            pron pron  rel.n         n                   pron  num          
 \ge when =indef one  -iter.adv what dist  front -loc    learn  -nr  -loc    which four  -ord.Y
 
 \tx irekgu    klas    bidniken          tataggarịt,                            ebedi,     ee, evenskij
 \mb irek  =GU klas    bi -D    -nIkEn   tat   -E  -D    -Gr(E) -RI  -t(I)        ewen -DI   ee evenskij  
-\ps pron      n       v                 v                                        n          n adj        
+\ps pron      n       v                 v                                        n          n adj         
 \ge which =q  grade.R be -prog -sim.cvb learn -ep -prog -hab   -pst -poss.1pl.in Even -adjr eh Even.adj.R
 
 \tx jazyk      ịak ụrọgan.
@@ -66,12 +66,12 @@ grant). Speaker abbreviation = MK
 \id Krivoshapkin_Misha_005
 \tx Hupkučimŋe    ọmŋọčọ  bihem           gerbewen                    ịak ịak semja
 \mb hupkut -E  -mŋE  ọmŋa   -čE     bi -R(E)   -m   gerbe     -W   -E  -n(I)     ịak  ịak  semja   
-\ps v                v              v               v                            pron pron n       
+\ps n                v              v               v                            pron pron n        
 \ge learn  -ep -agnr forget -pf.ptc be -nonfut -1sg give.name -acc -ep -poss.3sg what what family.R
 
 \tx dʒugulin                ukčendʒiggeren
 \mb dʒugu -(dU)LI -n(I)     ukčen -D    -Gr(E) -n(I)
-\ps n                   v                        
+\ps n                   v                         
 \ge about -prol   -poss.3sg tell  -prog -hab   -3sg 
 
 \ft The teacher, I forgot how she was called, told about the family.
@@ -115,7 +115,7 @@ grant). Speaker abbreviation = MK
 \id Krivoshapkin_Misha_008
 \tx ụčụtaldụk  ŋeːlmi            mut,   hupkučektu
 \mb učitel    -DUk(U) ŋeːl      -mI       mut    hupkut -ČEk -DU 
-\ps n                 v                   pron   v               
+\ps n                 v                   pron   n                
 \ge teacher.R -abl    be.afraid -cond.cvb 1pl.in learn  -nr  -dat
 \ft being afraid of the teacher, in school
 \ph
@@ -127,7 +127,7 @@ grant). Speaker abbreviation = MK
 \id Krivoshapkin_Misha_009
 \tx Tar   ŋeːllit.
 \mb tarak ŋeːl      -RI  -t(I)       
-\ps pron  v                           
+\ps pron  v                            
 \ge dist  be.afraid -pst -poss.1pl.in
 \ft We were afraid.
 \ru мы боялись
@@ -192,7 +192,7 @@ grant). Speaker abbreviation = MK
 \tx Tarda      noste ịak, ịamị ininniwhni,                  tar   Stjọpa bidden                ehni
 \mb tarak =DE  noste ịak  ịamị ińin  -RI  -W        =hni    tarak Stepan bi -D    -R(E)   -n(I) e   -R(E) -n(I)
 \ps pron       adj   pron pron v                            pron  ?      v                      v              
-\ge dist  =ptl young what why  laugh -pst -poss.1sg =affirm dist  Stepan be -prog -nonfut -3sg  neg -nfut -3sg 
+\ge dist  =ptl young what why  laugh -pst -poss.1sg =affirm dist  Stepan be -prog -nonfut -3sg  neg -nonfut -3sg 
 
 \tx Petrov
 \mb Petrov

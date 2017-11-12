@@ -793,12 +793,12 @@ and then worked as a nanny in the kindergarten.
 \id Adukanova_Darja_Borisovna_079
 \tx Essoːtkike          orukeweːtte              nan    Essoːmŋel      awụskịwụt
 \mb Essoː -t(E)kI =kE   hor -WkEn -WEːČ -R(E)   ńaːn Essoː -mŋE -L  aw    -skI      =(W)UttE
-\ps n                   v                       adv  n              pron                    
+\ps n                   v                       adv  n              pron                     
 \ge Esso  -all    =emph go  -caus -gnr  -nonfut and  Esso  -nr  -pl where -advb.all =indef  
 
 \tx orukeweːtte.
 \mb hor -WkEn -WEːČ -R(E)  
-\ps v                       
+\ps v                        
 \ge go  -caus -gnr  -nonfut
 \ft They sent (the things they sewed) to Esso, and the Esso-ans sent (them) somewhere.
 \ph urukewɐːttɐ
@@ -870,7 +870,7 @@ hor-U-WkEn-WEːČ-R(E), i.e. with the Transitivizing/Causative suffix U
 \id Adukanova_Darja_Borisovna_085
 \tx [stammers] Mụral     dʒepleŋgeten,                 karawaltan           da    bisiten.
 \mb stammers mụran -L  dʒep -LE -ŋ   -GE    -tEn      korova -L  -tEn      da    bi -RI  -tEn     
-\ps interj   n         v                              n                    ptl   v                
+\ps interj   n         n                              n                    ptl   v                 
 \ge stammers horse -pl eat  -nr -aln -desig -poss.3pl cow.R  -pl -poss.3pl yes.R be -pst -poss.3pl
 \ft Food for the horses, and they had cows.
 \ph d'əpləŋgɐtɐn (with the suffixes VERY close to a)
@@ -884,7 +884,7 @@ hor-U-WkEn-WEːČ-R(E), i.e. with the Transitivizing/Causative suffix U
 \id Adukanova_Darja_Borisovna_086
 \tx Nan    tačịn       bidʒeːnńoːtte.
 \mb ńaːn tarọːčịn  bi -dʒEːn -WEːČ -R(E)  
-\ps adv  pron      n                       
+\ps adv  pron      n                        
 \ge and  dist.qual be -dur   -gnr  -nonfut
 \ft That's how they lived_ poor them.
 \ph
@@ -977,7 +977,7 @@ hor-U-WkEn-WEːČ-R(E), i.e. with the Transitivizing/Causative suffix U
 \id Adukanova_Darja_Borisovna_094
 \tx dʒeplew
 \mb dʒep -LE -W  
-\ps v            
+\ps n             
 \ge eat  -nr -acc
 \ft food (this appears to be the continuation of 88, where she started to say what sorts of products they brought by dogsled)
 \ph diplew
@@ -990,7 +990,7 @@ hor-U-WkEn-WEːČ-R(E), i.e. with the Transitivizing/Causative suffix U
 \id Adukanova_Darja_Borisovna_095
 \tx dʒeblew       gịakịw
 \mb dʒep -LE -W   gịakị   -W  
-\ps n             pron         
+\ps n             pron           
 \ge eat  -nr -acc various -acc
 \ft various (kinds of) food
 \ELANBegin 00:06:07.600
@@ -1002,7 +1002,7 @@ hor-U-WkEn-WEːČ-R(E), i.e. with the Transitivizing/Causative suffix U
 \id Adukanova_Darja_Borisovna_096
 \tx tačịn       bidʒeːnnin
 \mb tarọːčịn  bi -dʒEːn -RI  -n(I)    
-\ps n      v                        
+\ps n      v                         
 \ge dist.qual be -dur   -pst -poss.3sg
 \ft (He) lived like that.
 \ph
@@ -1202,7 +1202,7 @@ sentence, that he pitied the poor
 \id Adukanova_Darja_Borisovna_113
 \tx dʒọgaːnịl ọːnkana    goːweːtte           dʒọgaːnịl
 \mb dʒọg    -n  -L  ọːn =kEnE  goːn -WEːČ -R(E)   dʒọg    -n  -L 
-\ps v               pron       v                  v              
+\ps n               pron       v                  n               
 \ge be.poor -nr -pl how =contr say  -gnr  -nonfut be.poor -nr -pl
 
 \ft those who were continuously poor, how do they say it, those who were always poor
@@ -1226,7 +1226,7 @@ simply be a nominalized form from ʤoγ- 'be poor'
 \id Adukanova_Darja_Borisovna_115
 \tx gịakịw     uŋdeten
 \mb gịakị   -W   uŋ -DE       -tEn     
-\ps n         v                      
+\ps n         v                       
 \ge various -acc do -purp.cvb -poss.3pl
 \ft so that they did various things
 \ELANBegin 00:07:32.420
@@ -1267,7 +1267,7 @@ simply be a nominalized form from ʤoγ- 'be poor'
 \id Adukanova_Darja_Borisovna_118
 \tx Tarakam       kọladʒak...
 \mb tarakam       kọl   -E  -ČEk
-\ps adv           v             
+\ps adv           n              
 \ge in.those.days drink -ep -nr 
 \ft Drinking sprees in those days (I don't remember)..
 \ELANBegin 00:07:48.680
@@ -1279,7 +1279,7 @@ simply be a nominalized form from ʤoγ- 'be poor'
 \id Adukanova_Darja_Borisovna_119
 \tx ịak miːne    bisin?
 \mb ịak  miːne     bi -RI  -n(I)    
-\ps pron n         v                 
+\ps pron n         v                  
 \ge what alcohol.R be -pst -poss.3sg
 \ft what alcohol was there?
 \ph
@@ -1364,12 +1364,12 @@ simply be a nominalized form from ʤoγ- 'be poor'
 \id Adukanova_Darja_Borisovna_125
 \tx Ọːnke     kusinke        vajna biseken                    kusin    ọdčalan                  kusin
 \mb ọːn =kE   kusi -n  =kE   vojna bi -REk      -E  -n(I)     kusi -n  ọd   -čE     -(dU)LE -n(I)     kusi -n 
-\ps pron      v              n     v                          v        v                              v       
+\ps pron      n              n     v                          n        v                              n        
 \ge how =emph beat -nr =emph war.R be -cond.cvb -ep -poss.3sg beat -nr stop -pf.ptc -loc    -poss.3sg beat -nr
 
 \tx ọdčalan...
 \mb ọd   -čE     -(dU)LE -n(I)    
-\ps v                              
+\ps v                               
 \ge stop -pf.ptc -loc    -poss.3sg
 \ft When there was the war, when the war stopped...
 \ELANBegin 00:08:15.400

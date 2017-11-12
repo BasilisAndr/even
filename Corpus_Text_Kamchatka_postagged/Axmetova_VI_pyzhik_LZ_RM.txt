@@ -144,7 +144,7 @@ họtaran ejdu tembergen
 \ref
 \tx Ọnŋas          nasammọːttan                     uŋ       umekič, ọːn-ka  goːndʒim      -tonkij.
 \mb họnŋačan      -s  nasam          -WEːČ -R(E)   -n(I) uŋ        umekič ọːn =kE   goːn -DʒI -m   tonkij
-\ps n                 v                                  n         adv    pron      v              adj
+\ps n                 v                                  n         adv    pron      v              adj 
 \ge reindeer.fawn -nr tear.intr.iter -gnr  -nonfut -3sg  something very   how =emph say  -fut -1sg tender.R
 
 \ft The skin of a reindeer calve tears up easily. It is - how to say -  tender.
@@ -161,7 +161,7 @@ họtaran ejdu tembergen
 \ref
 \tx Škụrka    i     nasardʒịn               ikutič,       teːmi    entukun   ečin    tembel
 \mb škụrka       i     nasar          -DʒI -n(I) ikut     -E  -Č   teːmi     entukuken ečin      temben -L
-\ps n            conj  v                         adv               conj      adv       adv       adj
+\ps n            conj  v                         adv               conj      adv       adv       adj 
 \ge small.skin.R and.R tear.intr.smlf -fut -3sg  straight -ep -ins therefore softly    like.this soft   -pl
 
 \tx tembergewkeweːtten.
@@ -804,13 +804,13 @@ fut.2sg
 \ref
 \tx Erroːčimusi,        uŋu           ọnŋasụ            nekeddʒoːtte               eden,
 \mb erroːčin  -W   =sI   uŋ        -W   họnŋačan      -s  -W   nek -E  -D    -WEːČ -R(E)   e   -DE       -n(I)
-\ps pron                 n              n                      v                           aux
+\ps pron                 n              n                      v                           aux 
 \ge prox.qual -acc =emph something -acc reindeer.fawn -nr -acc do  -ep -prog -gnr  -nonfut neg -purp.cvb -poss.3sg
 
 
 \tx eden                    baːjị     bise.
 \mb e   -DE       -n(I)     baːị         bi -R
-\ps aux                     n            v
+\ps aux                     n            n 
 \ge neg -purp.cvb -poss.3sg good.weather be -neg.cvb
 
 

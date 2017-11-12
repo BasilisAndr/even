@@ -207,12 +207,12 @@ mistake - and probably that's why she added the "contrastive" particle -dmEr to 
 \nt
 \tx Biː taraw      ikeːmen                     ikeːnedʒilliwu                           ọrdụ,
 \mb biː tarak -W   ikeː -n  -W   -E  -n(I)     ikeː -n    -E  -D    -L    -RI  -W        ọrọn              -DU 
-\ps pron pron       v                           v                                         n                     
+\ps pron pron       n                           v                                         n                      
 \ge 1sg dist  -acc sing -nr -acc -ep -poss.3sg sing -mult -ep -prog -inch -pst -poss.1sg domestic.reindeer -dat
 
 \tx ančịndụn               tarak atịkan, eńeńe     ančịndụn               tegridʒi.
 \mb ańčịn        -DU  -n(I)     tarak atịkan    eńene       ańčịn        -DU  -n(I)     teg      -RIdʒI  
-\ps rel.n                       pron  n         n           rel.n                       v                 
+\ps rel.n                       pron  n         n           rel.n                       v                  
 \ge space.beside -dat -poss.3sg dist  old.woman grandmother space.beside -dat -poss.3sg sit.down -ant.cvb
 \ft I started to sing his song in the herd, next to old woman Eńeńe, having sat down next to her.
 \ph
@@ -566,7 +566,7 @@ checked unusual things with her - though possibly there really just is more vari
 \tx Untedekke        esni           biweːtte.
 \mb honte =DE  =kE   e   -R(E) -n(I) bi -WEːČ -R(E)  
 \ps adj              v               v               
-\ge other =ptl =emph neg -nfut -3sg  be -gnr  -nonfut
+\ge other =ptl =emph neg -nonfut -3sg  be -gnr  -nonfut
 \ft There are probably others, too.
 \nt
 \ru Наверно, и другое, наверно, бывает.
@@ -659,7 +659,7 @@ checked unusual things with her - though possibly there really just is more vari
 \tx ọŋaddʒọːttan                  ọŋaddʒọːttan,                 esni           ọddọːtta,
 \mb họŋ -E  -D    -WEːČ -R(E)   -n(I) họŋ -E  -D    -WEːČ -R(E)   -n(I) e   -R(E) -n(I) ọd   -WEːČ -R      
 \ps v                                 v                                 v               v                  
-\ge cry -ep -prog -gnr  -nonfut -3sg  cry -ep -prog -gnr  -nonfut -3sg  neg -nfut -3sg  stop -gnr  -neg.cvb
+\ge cry -ep -prog -gnr  -nonfut -3sg  cry -ep -prog -gnr  -nonfut -3sg  neg -nonfut -3sg  stop -gnr  -neg.cvb
 
 \tx ńan   goːweːtte,          tarak aːńmị,         aːńmị          geletten.
 \mb ńaːn goːn -WEːČ -R(E)   tarak haːnịn -J       haːnịn -J       geleːt   -R(E)   -n(I)
@@ -936,7 +936,7 @@ emmoːttemdewel
 \tx Tarak Julia ekenni           biče      Nastja emniwen.
 \mb tarak Julia eken   -n(I)     bi -čE     Nastja em   -RI      -W   -E  -n(I)    
 \ps pron  ?     n                v          ?      v                               
-\ge dist  Julia mother -poss.3sg be -pf.ptc Nastja come -ipf.ptc -acc -ep -poss.3sg
+\ge dist  Julia mother -poss.3sg be -pf.ptc Nastja come -impf.ptc -acc -ep -poss.3sg
 \ft That Julia's deceased mother, Nastja, had come.
 \ru Это Юлина покойная мать Настя как будто бы пришла.
 \ev Тарак Юля экэнни бичэ Настя эмнивэн.
@@ -953,7 +953,7 @@ emmoːttemdewel
 
 \tx Essomŋa.
 \mb Esso -mŋE
-\ps n        
+\ps n         
 \ge Esso -nr 
 \ft And she says as if it's a woman from Esso came.
 \ph
@@ -969,7 +969,7 @@ emmoːttemdewel
 \nt
 \tx Uŋe, tože  munŋi,               goːnni     ọːnkana,   dengaw       gasčịddan.
 \mb uŋe tože   mun        -ŋI        goːn -n(I) ọːn =kEnE  denga   -W   gasčị -D    -R(E)   -n(I)
-\ps n ptl    ?                     v          pron       n            v                         
+\ps n ptl    ?                     v          pron       n            v                          
 \ge now also.R 1pl.ex.obl -pred.poss say  -3sg  how =contr money.R -acc ask   -prog -nonfut -3sg 
 \ft And she's also ours, she says, asks for money.
 \ph
@@ -1039,7 +1039,7 @@ soul for baby Melita, so now they want their money
 \tx eniŋeːji           emniwen                          nọŋantakịn.
 \mb eniŋeː      -J       em   -RI      -W   -E  -n(I)     nọŋan -t(E)kI -n(I)    
 \ps n                    v                                pron                   
-\ge grandmother -prfl.sg come -ipf.ptc -acc -ep -poss.3sg 3sg   -all    -poss.3sg
+\ge grandmother -prfl.sg come -impf.ptc -acc -ep -poss.3sg 3sg   -all    -poss.3sg
 \ft And then also, Inna also dreamed that her grandmother had come to her.
 \ru И вот и другое, Инне же тоже, видела сон Инна, что ее бабушка пришла к ней.
 \ev Нянаши и унэтэши, Иннадуши, тоже этэвкиттин Инна, тар энниӈэи эмнивэн  ноӈантакин.
@@ -1370,7 +1370,7 @@ eroːčinten = vot oni kakie
 
 \tx klastụ     taŋnịwụn,         mịawụŋka    nọŋan bisin.
 \mb klas    -DU  taŋ  -RI  -WUn         mịawụn -ŋkE nọŋan bi -RI  -n(I)    
-\ps n            v                      n           pron  v                
+\ps n            v                      n           pron  v                 
 \ge grade.R -dat read -pst -poss.1pl.ex heart  -nr  3sg   be -pst -poss.3sg
 
 \ft And then this Sveta died, the poor thing, we were in tenth grade, she had a heart problem.
@@ -1388,7 +1388,7 @@ dịlaŋka, person with lung problems = ewteŋke
 \nt
 \tx Ńanasị       Sveta bakụddakan                          teːleŋeddʒoːtten                   tarak
 \mb ńaːn -E  =sI   Sveta bakụ    -D    -REk      -E  -n(I)     teːleŋ -E  -D    -WEːČ -R(E)   -n(I) tarak
-\ps adv            ?     n                                     v                                    pron  
+\ps adv            ?     n                                     v                                    pron   
 \ge and  -ep =emph Sveta be.born -prog -cond.cvb -ep -poss.3sg tell   -ep -prog -gnr  -nonfut -3sg  dist 
 
 \tx Sveta biče      ekenni           Marija Innokentjevna.
@@ -1451,7 +1451,7 @@ on purpose;
 \tx Goːnni     "Esni,         bi   tiːk Bušuewaldụla        bidʒim."
 \mb goːn -n(I) e   -R(E) -n(I) biː tiek Bušuev  -E  -L  -(dU)LE bi -DʒI -m  
 \ps v          v               pron adv  n                       v           
-\ge say  -3sg  neg -nfut -3sg  1sg now  Bushuev -ep -pl -loc    be -fut -1sg
+\ge say  -3sg  neg -nonfut -3sg  1sg now  Bushuev -ep -pl -loc    be -fut -1sg
 \ft She says "No, I will now live with the Bushuevs."
 \ru Говорит: "Нет, я сейчас у Бушуевых буду жить."
 \ev Гунни "Эшни, би тик Бушуевалдула бидим. "
@@ -1531,7 +1531,7 @@ on purpose;
 \tx Goːnni     "Eːteːwkittiwukene            oːtel     Sveta biče      emniwen."
 \mb goːn -n(I) eteːwkit -RI  -W        =kEnE  oːtel      Sveta bi -čE     em   -RI      -W   -E  -n(I)    
 \ps v          v                              adv        ?     v          v                               
-\ge say  -3sg  dream    -pst -poss.1sg =contr previously Sveta be -pf.ptc come -ipf.ptc -acc -ep -poss.3sg
+\ge say  -3sg  dream    -pst -poss.1sg =contr previously Sveta be -pf.ptc come -impf.ptc -acc -ep -poss.3sg
 \ft She says "I dreamed that Sveta who has died came."
 \ph
 \gr 30.01.13: in Kamchatka, oːtel = today, earlier today, or the previous day, but very close in time
@@ -2325,7 +2325,7 @@ k zhenshine, to li k muzhchine - question, doubt
 
 \tx iwiketen              bisin.
 \mb ewiː -k(E) -tEn      bi -RI  -n(I)    
-\ps v                    v                
+\ps n                    v                 
 \ge play -nr   -poss.3pl be -pst -poss.3sg
 \ft And the kids were playing something interesting, they had a game.
 \ru И играли дети во что-то интересное, игра у них была.
@@ -2338,7 +2338,7 @@ k zhenshine, to li k muzhchine - question, doubt
 \nt
 \tx Tegenmej         erelin              gịrkawaːčịddʒọːtta.
 \mb teg      -E  -nmEj ereːliː -n(I)     gịrka -WEːČ -E  -D    -WEːČ -R(E)  
-\ps n                  postpos           v                                   
+\ps n                  postpos           v                                    
 \ge sit.down -ep -anr  around  -poss.3sg walk  -gnr  -ep -prog -gnr  -nonfut
 \ft They were walking around a chair.
 \ru Вокруг стула ходили.

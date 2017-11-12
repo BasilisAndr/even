@@ -63,7 +63,7 @@ herders; father of Ekaterina Afanas'evna Krivoshapkina,
 \tx Ŋeːlehmiw                   ulgimidden
 \mb ŋeːlem         -RI       -W   ulgim -i      -D    -R(E)   -n(I)
 \ps v                             v                                
-\ge be.frightening -impf.ptc -acc ask   -ipf??? -prog -nonfut -3sg 
+\ge be.frightening -impf.ptc -acc ask   -ipf -prog -nonfut -3sg 
 
 \ft She's asking about wolves.
 \ru
@@ -168,12 +168,12 @@ stadalat
 \id stado#9_wild_animals_013
 \tx Tarịt tala          uːr   ńamịčan     tugedʒeku...        tugedʒektun                   bọllar tar   egdʒen
 \mb tarịt   tarak -(dU)LE uːr    ńamịčan         tug   -E  -ČEk -W   tug   -E  -ČEk -DU  -n(I)     buollar tarak egdʒen
-\ps ?       pron          adv    n               n                   n                             ptl     pron  adj   
+\ps ?       pron          adv    n               n                   n                             ptl     pron  adj    
 \ge further dist  -loc    before female.reindeer calve -ep -nr  -acc calve -ep -nr  -dat -poss.3sg dp.Y    dist  big   
 
 \tx degilde       ịawrar            hụlịčalda        dʒebgerer
 \mb degi -L  =DE  ịa      -Gr(E) -r   hụlịčan -L  =DE  dʒep -Gr(E) -r  
-\ps n             v                   n                v                
+\ps n             v                   n                v                 
 \ge bird -pl =ptl do.what -hab   -3pl fox     -pl =ptl eat  -hab   -3pl
 \ft In the place where the female reindeer calve big birds and foxes eat ...
 \ru Там в местности, где телятся важенки и большие птицы, и лисицы съедают 
@@ -286,7 +286,7 @@ tutelle/derihne; etiwu tutelle = tak ne govoritsja - first reaction, then she ca
 \tx Ńan   ịaw      ulgimidʒinni?
 \mb ńaːn ịak  -W   ulgim -i      -DʒI -nrI
 \ps adv  pron      v                      
-\ge and  what -acc ask   -ipf??? -fut -2sg
+\ge and  what -acc ask   -ipf -fut -2sg
 \ft And what will you ask?
 \ru О чем еще спросишь?
 \ELANBegin 00:01:23.850
@@ -438,7 +438,7 @@ correct form would be ŋeːlehmi .... maŋgaran, ŋeːlehmil would only be used 
 \tx gadọt    ŋendʒin        hordʒin,       ehni           kokewrer             haːn.
 \mb gadọt      ŋen -DʒI -n(I) hor -DʒI -n(I) e   -R(E) -n(I) koke -Gr(E) -R       haːn
 \ps adv        v              v              v               v                    ?   
-\ge completely go  -fut -3sg  go  -fut -3sg  neg -nfut -3sg  die  -hab   -neg.cvb some
+\ge completely go  -fut -3sg  go  -fut -3sg  neg -nonfut -3sg  die  -hab   -neg.cvb some
 
 \ft Sometimes however if the poison is bad, it eats it and vomits and goes off, sometimes it doesn't die.
 \ph
@@ -484,7 +484,7 @@ correct form would be ŋeːlehmi .... maŋgaran, ŋeːlehmil would only be used 
 \tx Ńan   ọdọdʒọnnịgụ      ulgimiriji                       ịakgol     bihnigu.
 \mb ńaːn ọd   -E  -D    -E  -nrI =GU ulgim -i      -RI       -J       ịak  =(W)Ul bi -R(E)   -n(I) =GU
 \ps adv  v                           v                                pron        v                   
-\ge and  stop -ep -prog -ep -2sg =q  ask   -ipf??? -impf.ptc -prfl.sg what =indef be -nonfut -3sg  =q 
+\ge and  stop -ep -prog -ep -2sg =q  ask   -ipf -impf.ptc -prfl.sg what =indef be -nonfut -3sg  =q 
 
 \ft Well, are you finishing your questions, or is there still something?
 \ph

@@ -71,12 +71,12 @@ in the old people's home. She is married to a Russian. She is the sister of Rais
 \ref
 \tx Mineši       akmụ           Solodikov Maksim Xristoforovič baldụn     uŋe          tawačimŋa
 \mb min     =sI   akan   -W        Solodikov Maksim Xristoforovič  baldụn       uŋ        -E  tawači -mŋE 
-\ps pron          n                ?         ?      ?              adv          n             v           
+\ps pron          n                ?         ?      ?              adv          n             n            
 \ge 1sg.obl =emph father -poss.1sg Solodikov Maxim  Xristoforovich all.the.time something -ep forge  -agnr
 
 \tx bišin.
 \mb bi -RI  -n(I)    
-\ps v                 
+\ps v                  
 \ge be -pst -poss.3sg
 
 \ft My father Maksim Xristoforovich Solodikov was a smith all his life.
@@ -95,7 +95,7 @@ in the old people's home. She is married to a Russian. She is the sister of Rais
 \ref
 \tx Kuznec  tarak tawačimŋa.
 \mb kuznec  tarak tawači -mŋE 
-\ps n       pron  v           
+\ps n       pron  n            
 \ge smith.R dist  forge  -agnr
 
 \ft "Tawačimŋa", that is 'smith'.
@@ -110,7 +110,7 @@ in the old people's home. She is married to a Russian. She is the sister of Rais
 \ref
 \tx Baldụnni             meːnken       ịrkam       tawačiddʒoːttan,                tọγla      uŋnidʒi    ečin,
 \mb baldụn       -n(I)     meːn -KEn     hịrkan -W   tawači -D    -WEːČ -R(E)   -n(I) tọg  -(dU)LE uŋ -RIdʒI   erroːčin 
-\ps adv                    pron          n           v                                n            v           pron      
+\ps adv                    pron          n           v                                n            v           pron       
 \ge all.the.time -poss.3sg refl -dim.int knife  -acc forge  -prog -gnr  -nonfut -3sg  fire -loc    do -ant.cvb prox.qual
 
 \tx ọːnkana,   ịallawịː      tọγu    duruččoːtten.
@@ -155,7 +155,7 @@ in the old people's home. She is married to a Russian. She is the sister of Rais
 
 \tx epkuldiwenten            uŋemker            erroːčinni         biweːtten.
 \mb hepken -ldIwUn -tEn      uŋ        -E  -mkEr erroːčin  -n(I)     bi -WEːČ -R(E)   -n(I)
-\ps v                        n                   pron                v                     
+\ps n                        n                   pron                v                      
 \ge catch  -nr     -poss.3pl something -ep -aug  prox.qual -poss.3sg be -gnr  -nonfut -3sg 
 
 \ft In the past there were various pole hooks, instruments for catching fish, such big things exist.
@@ -173,7 +173,7 @@ in the old people's home. She is married to a Russian. She is the sister of Rais
 \ref
 \tx Ńan   ońeweːtte            ušič    mọːt(ki).
 \mb ńaːn oːńe   -WEːČ -R(E)   usi  -Č   mọː  -t(E)kI
-\ps n  v                    n         n            
+\ps n  v                    n         n             
 \ge and  tie.up -gnr  -nonfut rope -ins tree -all   
 \ft And they tied (these) to wooden poles with rope.
 \nt
@@ -276,7 +276,7 @@ themselves.
 \tx Bi   ulgimiddʒoːttem,                       "Iːnen    awụškị     upkutneššiš,
 \mb biː ulgim -i      -D    -WEːČ -R(E)   -m   hiː =nEn  aw    -skI      hupkut -nE     -sčI   -RI  -s(I)    
 \ps pron v                                      pron      pron            v                                   
-\ge 1sg ask   -ipf??? -prog -gnr  -nonfut -1sg 2sg =emph where -advb.all learn  -intent -conat -pst -poss.2sg
+\ge 1sg ask   -ipf -prog -gnr  -nonfut -1sg 2sg =emph where -advb.all learn  -intent -conat -pst -poss.2sg
 
 \tx gorodtakị,   tačịn        nekteji?".
 \mb gorod  -t(E)kI tarrọːčịn nek -DE       -J      
@@ -297,7 +297,7 @@ themselves.
 \tx Guːnni     "Ešni.
 \mb goːn -n(I) e   -R(E) -n(I)
 \ps v          v              
-\ge say  -3sg  neg -nfut -3sg 
+\ge say  -3sg  neg -nonfut -3sg 
 \ft He said "No.
 \nt
 \ev Гунни: "Эшни".
@@ -315,7 +315,7 @@ themselves.
 
 \tx uŋŋoːtten,            tawačimŋa   bišin,           tawačiddʒoːttan".
 \mb uŋ -WEːČ -R(E)   -n(I) tawači -mŋE  bi -RI  -n(I)     tawači -D    -WEːČ -R(E)   -n(I)
-\ps v                      v            v                 v                               
+\ps v                      n            v                 v                                
 \ge do -gnr  -nonfut -3sg  forge  -agnr be -pst -poss.3sg forge  -prog -gnr  -nonfut -3sg 
 
 \ft That has been (with) me all the time since a long time ago, my father did like this, he was a smith, he forged".
@@ -333,7 +333,7 @@ themselves.
 \ref
 \tx Ńanaši     bi   kučuken bimi         uŋeddiwu,                  ebdʒelliwu                   tačịn
 \mb ńaːn =sI   biː kočuken bi -mI       uŋ -E  -D    -RI  -W        hebdʒen -L    -RI  -W        tarrọːčịn
-\ps adv        n adj     v            v                           v                            pron      
+\ps adv        n adj     v            v                           v                            pron       
 \ge and  =emph 1sg small   be -cond.cvb do -ep -prog -pst -poss.1sg funny   -inch -pst -poss.1sg dist.qual
 
 \tx tawačiddaji.
@@ -565,7 +565,7 @@ baγakriwu (wonder if the causative form emphasises the agent more...)
 \ref
 \tx Uŋe          dʒuːrdi,           uŋ       gida,     dʒuːrdi            miːneldiwunni           bišin.
 \mb uŋ        -E  dʒoːr -DʒI         uŋ        gid   -E  dʒoːr -DʒI         miːne -ldIwUn -n(I)     bi -RI  -n(I)    
-\ps n             num                n         n         num                v                       v                
+\ps n             num                n         n         num                n                       v                 
 \ge something -ep two   -ins.prfl.sg something lance -ep two   -ins.prfl.sg cut   -nr     -poss.3sg be -pst -poss.3sg
 
 \ft It had two cutting edges, like a lance.
@@ -595,7 +595,7 @@ baγakriwu (wonder if the causative form emphasises the agent more...)
 \ref
 \tx Ečin      er,  ečin      egdʒen bišin.
 \mb erroːčin  erek erroːčin  egdʒen bi -RI  -n(I)    
-\ps pron      pron pron      adj    v                 
+\ps pron      pron pron      adj    v                  
 \ge prox.qual prox prox.qual big    be -pst -poss.3sg
 \ft It was like this, big like this (shows how big - very big!).
 \ph
@@ -610,7 +610,7 @@ baγakriwu (wonder if the causative form emphasises the agent more...)
 \ref
 \tx Ečin      ergič,    ergičta        miːneldiwunni.
 \mb erroːčin  erek -GIČ  erek -GIČ  =DE  miːne -ldIwUn -n(I)    
-\ps pron      pron       pron            v                      
+\ps pron      pron       pron            n                       
 \ge prox.qual prox -elat prox -elat =ptl cut   -nr     -poss.3sg
 \ft And the blades (were) from here and also from here (shows how the cutting edges were on both sides of the knife).
 \nt
@@ -625,7 +625,7 @@ baγakriwu (wonder if the causative form emphasises the agent more...)
 \ref
 \tx Ńan   akmụ           kojeːčiddin,                  guːnni     "ńan  erek gid".
 \mb ńaːn akan   -W        kojeːt  -E  -D    -RI  -n(I)     goːn -n(I) ńaːn erek gid  
-\ps adv  n                v                                n          adv  pron n     
+\ps adv  n                v                                n          adv  pron n      
 \ge and  father -poss.1sg look.at -ep -prog -pst -poss.3sg say  -3sg  and  prox lance
 \ft And my father looked and said "Now that's a lance!".
 \ph
@@ -689,7 +689,7 @@ baγakriwu (wonder if the causative form emphasises the agent more...)
 \ref
 \tx Guːnni     "Ekič    erroːččon,       erek maːldiwan   ịr...  gid".
 \mb goːn -n(I) e   -kIč erroːčin  -Con     erek maː  -ldIwUn hịrkan gid  
-\ps v          v        pron               pron v            n      n    
+\ps v          n        pron               pron n            n      n     
 \ge say  -3sg  neg -nr  prox.qual -acc.3sg prox kill -nr     knife  lance
 
 \ft He said "This is impossible, this is a kni... a lance for killing".
@@ -705,7 +705,7 @@ baγakriwu (wonder if the causative form emphasises the agent more...)
 \ref
 \tx Guːnni     "Tiːtel erroːčineč   maːwaːtta".
 \mb goːn -n(I) tiːtel   erroːčin  -Č   maː  -WEːČ -R(E)  
-\ps v          n      pron           v                  
+\ps v          n      pron           v                   
 \ge say  -3sg  long.ago prox.qual -ins kill -gnr  -nonfut
 \ft He said "In the past they killed with these".
 \nt
@@ -1046,7 +1046,7 @@ baγakriwu (wonder if the causative form emphasises the agent more...)
 \tx Ńan   ulgimiddʒoːttem                        akantakị,    "iːnen    tarrọːččon          ọːwaːčinni?".
 \mb ńaːn ulgim -i      -D    -WEːČ -R(E)   -m   akan   -t(E)kI hiː =nEn  tarrọːčịn -Con     ọː   -WEːČ -R(E)   -n(I)
 \ps adv  v                                      n              pron      pron               v                       
-\ge and  ask   -ipf??? -prog -gnr  -nonfut -1sg father -all    2sg =emph dist.qual -acc.3sg make -gnr  -nonfut -3sg 
+\ge and  ask   -ipf -prog -gnr  -nonfut -1sg father -all    2sg =emph dist.qual -acc.3sg make -gnr  -nonfut -3sg 
 \ft And I used to ask my father, "Do you make those?".
 \nt
 \ev Нян ульгимиддёттэм акантаки: "И-нэн таррочон овачинни?"
@@ -1136,8 +1136,8 @@ questioning; erekem = azh, yet another particle
 \ref
 \tx Tiːkke?  Tiːkkel    ešni          ịaw,     ịaldiwŋatan.
 \mb tiek =kkE tiek =gEl   e   -R(E) -n(I) ịak  -W   ịa      -ldIwUn -GE    -tEn     
-\ps adv       adv         v               pron      v                               
-\ge now  =ptl now  =coord neg -nfut -3sg  what -acc do.what -nr     -desig -poss.3pl
+\ps adv       adv         v               pron      n                                
+\ge now  =ptl now  =coord neg -nonfut -3sg  what -acc do.what -nr     -desig -poss.3pl
 \ft Now? Now they don't have them, what would they do with them?
 \ph
 \gr ialdiwŋatan = chto im delatj etim; ialdiwuntan = e.g. the microphone "ialdiwuntan erek" v lesu; and also confirmed that ialdiwŋatan
@@ -1155,7 +1155,7 @@ questioning; erekem = azh, yet another particle
 \ref
 \tx Tiːtelke     biweːtten,             muzejladakka               binni,          biš...,   ittiš?
 \mb tiːtel   =kkE bi -WEːČ -R(E)   -n(I) muzej    -(dU)LE =DE  =kkE bi -R(E)   -n(I) bi -R(E)   it  -RI  -s(I)    
-\ps adv           v                      n                          v                n          v                  
+\ps adv           v                      n                          v                n          v                   
 \ge long.ago =ptl be -gnr  -nonfut -3sg  museum.R -loc    =ptl =ptl be -nonfut -3sg  be -nonfut see -pst -poss.2sg
 \ft In the past those were (people had those), in the museum there are some, did you see?
 \ph
@@ -1232,7 +1232,7 @@ orottidawurdatit = even stronger expression; glossing dawur as =dEwUl is not cor
 \ref
 \tx Iŋe, tiːtel  guːnni,    goːwette,            nọŋartan baldụnni             bišiten          tawačimŋal.
 \mb iŋe tiːtel   goːn -n(I) goːn -WEːČ -R(E)   nọŋartan baldụn       -n(I)     bi -RI  -tEn      tawači -mŋE  -L 
-\ps interj adv      v          v                  pron     adv                    v                 v               
+\ps interj adv      v          v                  pron     adv                    v                 n                
 \ge yes long.ago say  -3sg  say  -gnr  -nonfut 3pl      all.the.time -poss.3sg be -pst -poss.3pl forge  -agnr -pl
 \ft Yes, in the past he says, they said, they were smiths all the time.
 \nt
@@ -1274,7 +1274,7 @@ orottidawurdatit = even stronger expression; glossing dawur as =dEwUl is not cor
 \ref
 \tx Aːnị  goːweːtte,          mun        aːnịlbun,                 naš  rod.
 \mb aːnị     goːn -WEːČ -R(E)   mun        aːnị     -E  -L  -WUn         naš   rod   
-\ps n        v                  ?          n                             pron  n      
+\ps n        v                  ?          n                             pron  n       
 \ge relative say  -gnr  -nonfut 1pl.ex.obl relative -ep -pl -poss.1pl.ex our.R clan.R
 \ft They say "ani", our relatives, our clan.
 \nt
@@ -1320,12 +1320,12 @@ orottidawurdatit = even stronger expression; glossing dawur as =dEwUl is not cor
 \ref
 \tx Iŋe, goːweːtte,          iŋe, baldụnni             nọŋartan uŋ       Solodikovamŋal      tarak nọŋartan
 \mb iŋe goːn -WEːČ -R(E)   iŋe baldụn       -n(I)     nọŋartan uŋ        Solodikova -mŋE -L  tarak nọŋartan
-\ps interj v                  interj adv                    pron     n         n                   pron  pron    
+\ps interj v                  interj adv                    pron     n         n                   pron  pron     
 \ge yes say  -gnr  -nonfut yes all.the.time -poss.3sg 3pl      something Solodikova -nr  -pl dist  3pl     
 
 \tx uŋ       tawačimŋal      bišiten.
 \mb uŋ        tawači -mŋE  -L  bi -RI  -tEn     
-\ps n         v                v                 
+\ps n         n                v                   
 \ge something forge  -agnr -pl be -pst -poss.3pl
 
 \ft Yes, they say that the Solodikovs were smiths all the time.
@@ -1341,7 +1341,7 @@ orottidawurdatit = even stronger expression; glossing dawur as =dEwUl is not cor
 \ref
 \tx Goːweːttekke             ọːn, ọrọčịl     turkuttiten.
 \mb goːn -WEːČ -R(E)   =kkE ọːn ọrọč  -E  -L  turku       -Č   -RI  -tEn     
-\ps v                       n n             v                               
+\ps v                       n n             v                                
 \ge say  -gnr  -nonfut =ptl how Oroch -ep -pl not.be.able -res -pst -poss.3pl
 \ft And they say, how, that Evens weren't able (to forge metal).
 \nt
@@ -1415,7 +1415,7 @@ orottidawurdatit = even stronger expression; glossing dawur as =dEwUl is not cor
 \tx Ešni,         ečil,       nọŋangelbedʒi       komunist    bišin!
 \mb e   -R(E) -n(I) e   -RI  -L  nọŋan =gEl   =bEdʒI komunist    bi -RI  -n(I)    
 \ps v               v            pron                n           v                
-\ge neg -nfut -3sg  neg -pst -pl 3sg   =coord =emph  communist.R be -pst -poss.3sg
+\ge neg -nonfut -3sg  neg -pst -pl 3sg   =coord =emph  communist.R be -pst -poss.3sg
 \ft No, he didn't, he was a communist after all!
 \ph
 \gr ečil = ne delali; should have said eči; noŋangelbeʤi = on zhe vedj
@@ -1433,7 +1433,7 @@ the weather
 \tx Teːmi    nọŋan ešni          uŋŋoːtte.
 \mb teːmi     nọŋan e   -R(E) -n(I) uŋ -WEːČ -R      
 \ps conj      pron  v               v                
-\ge therefore 3sg   neg -nfut -3sg  do -gnr  -neg.cvb
+\ge therefore 3sg   neg -nonfut -3sg  do -gnr  -neg.cvb
 \ft That's why he didn't (make things for shamans).
 \nt
 \ev Тэми ноӈан эшни уӈӈоттэ
@@ -1945,7 +1945,7 @@ separate lexeme;;; imannaladawul = v sneg, "ili mozhet v sneg lozhil", I think h
 \tx Biši      ulgimiweːttem                     ańčịndulin,                "Ịadụ  tačịmụr    nekenni?".
 \mb biː =sI   ulgim -i      -WEːČ -R(E)   -m   ańčịn        -(dU)LI -n(I)     ịak  -DU  tarrọːčịn nek -R(E)   -nrI
 \ps pron      v                                rel.n                          pron      pron      v               
-\ge 1sg =emph ask   -ipf??? -gnr  -nonfut -1sg space.beside -prol   -poss.3sg what -dat dist.qual do  -nonfut -2sg
+\ge 1sg =emph ask   -ipf -gnr  -nonfut -1sg space.beside -prol   -poss.3sg what -dat dist.qual do  -nonfut -2sg
 \ft And I ask next to him "What are you doing that for?".
 \nt
 \ev Биши улгимивэттэм анчиндун: "Яду тачимур нэкэнни?"

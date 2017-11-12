@@ -494,7 +494,7 @@ before dinner)
 \id Krivoshapkina_Ija_memories_029
 \tx Tar   ukčeneken                erbečen.
 \mb tarak ukčen -ČEk -E  -n(I)     erroːčin 
-\ps pron  v                        pron     
+\ps pron  n                        pron      
 \ge dist  tell  -nr  -ep -poss.3sg prox.qual
 
 \ft Its story (the story of the place) is like this.
@@ -506,7 +506,7 @@ before dinner)
 \id Krivoshapkina_Ija_memories_030
 \tx Daik gerbe noste ọmọlgọ biče,     hurkeːn.
 \mb Daik gerbe noste ọmọlga bi -čE     hurkeːn
-\ps ?    n     adj   n      v          n       
+\ps ?    n     adj   n      v          n        
 \ge Daik name  young boy    be -pf.ptc boy    
 \ft There was a boy named Daik.
 \ru Был мальчик по имени Даик, парень.
@@ -734,7 +734,7 @@ by pro drugogo, ńulgerit - bolee konkretno
 
 \tx ịrụŋkaw.
 \mb ịr   -U    -ŋkE -W  
-\ps v                   
+\ps n                    
 \ge cart -caus -nr  -acc
 
 \ft On the next day my father and mother went to fetch the load left on the way.
@@ -751,7 +751,7 @@ at once and that is left somewhere along the way
 \id Krivoshapkina_Ija_memories_044
 \tx Tar   čụgasla,      ahụkandụ  emeːnčel         bičel.
 \mb tarak čụgas  -(dU)LE ahụkan -DU  emeːn -čE     -L  bi -čE     -L 
-\ps n  adj            adv         v                 v              
+\ps n  adj            adv         v                 v               
 \ge dist  near.Y -loc    near   -dat leave -pf.ptc -pl be -pf.ptc -pl
 
 \ft They had left that somewhere close by.
@@ -853,7 +853,7 @@ at once and that is left somewhere along the way
 
 \tx nemkenemi.
 \mb nemke -nE -mI      
-\ps v                  
+\ps n                   
 \ge shoot -nr -cond.cvb
 
 \ft Having gotten a fright she went to look for us, people went to shoot that bear.
@@ -865,7 +865,7 @@ at once and that is left somewhere along the way
 \id Krivoshapkina_Ija_memories_051
 \tx Mut    bọllaγịna dʒaːlti                 herčeletnen,                 noːčel              delbi
 \mb mut    buollaγïna dʒaː     -L  -t(I)        hor -čE     -(dU)LE -tEn      noː             -čEl delbi 
-\ps n   ptl        n                         v                             n                    adv    
+\ps n   ptl        n                         v                             n                    adv     
 \ge 1pl.in dp.Y       relative -pl -poss.1pl.in go  -pf.ptc -loc    -poss.3pl younger.sibling -com very.Y
 
 \tx ŋeːlellit,                         tar   abịgala           naːčaːdʒịr,
@@ -1015,12 +1015,12 @@ take) the smell.
 \id Krivoshapkina_Ija_memories_060
 \tx Dʒaːltị               emie   töttörü, emie   ịrụŋkaw          genneritnen,                    tačịn
 \mb dʒaː     -L  -t(I)        emie   töttörü emie   ịr   -U    -ŋkE -W   gel      -nE     -RI  -tEn      tarọːčịn 
-\ps n                         adv    adv     adv    v                    v                               pron     
+\ps n                         adv    adv     adv    n                    v                               pron      
 \ge relative -pl -poss.1pl.in also.Y back.Y  also.Y cart -caus -nr  -acc look.for -intent -pst -poss.3pl dist.qual
 
 \tx ọddịn,          go,   tarak.
 \mb ọd   -RI  -n(I)     ge    tarak
-\ps v                   interj  pron  
+\ps v                   interj  pron   
 \ge stop -pst -poss.3sg interjm dist 
 
 \ft And our parents again went back, again went to fetch that load, that's how it stopped.
@@ -1045,12 +1045,12 @@ take) the smell.
 \id Krivoshapkina_Ija_memories_062
 \tx Tar   ajaːwrị       toreŋu,                ńan   Kụːńịkịt gerbe tor   bihin,
 \mb tarak ajaːw -RI       tor   -E  -ŋ   -W        ńaːn kụːnị  -kIč gerbe tor   bi -RI  -n(I)    
-\ps pron  v               n                        adv  v           n     n     v                
+\ps pron  v               n                        adv  n           n     n     v                 
 \ge dist  love  -impf.ptc earth -ep -aln -poss.1sg and  scream -nr  name  earth be -pst -poss.3sg
 
 \tx hatahrịmaja,          nọːg hịgịːlkamaja,     ńupkumek...     ńupkumhimdeheje                     tor
 \mb haːtar  -RI       -mEjE nọːg  hịgịː  -lkEn -mEjE nipku     -m   nipku     -m   -RI       -mdEs -jEː tor  
-\ps v                       adj   n                  v              n                                   n     
+\ps v                       adj   n                  v              n                                   n      
 \ge be.dark -impf.ptc -aug  dense forest -prop -aug  suffocate -des suffocate -des -impf.ptc -sml  -aug earth
 
 \tx bihni.
@@ -1091,7 +1091,7 @@ where you feel as if you suffocate.
 \id Krivoshapkina_Ija_memories_064
 \tx Omen ukčenek...  emie   tar   ŋiːje,     Bötr abịga,    Duńa gerbel    bihitnen.
 \mb omen ukčen -ČEk emie   tarak ŋiː =jE    Petr abaga       Duńa  gerbe -L  bi -RI  -tEn     
-\ps num  v          adv    pron  pron       ?    n           ?     n         v                
+\ps num  n          adv    pron  pron       ?    n           ?     n         v                 
 \ge one  tell  -nr  also.Y dist  who =assoc Petr grandfather Dunja name  -pl be -pst -poss.3pl
 
 \ft One story... again there were grandfather Petr and granny Dunja.
@@ -1103,7 +1103,7 @@ where you feel as if you suffocate.
 \id Krivoshapkina_Ija_memories_065
 \tx Tara  barakkatnan       balakkatnan       mut    ịadụ   kịrantakị   ịlgamgararịn              ịadụ,
 \mb tarak palatka -tEn      palatka -tEn      mut    ịak  -DU  kịran -t(E)kI ịlgam -Gr(E) -RI  -n(I)     ịak  -DU 
-\ps pron  n                 n                 pron   pron      n             v                           pron      
+\ps pron  n                 n                 pron   pron      n             v                           pron       
 \ge dist  tent.R  -poss.3pl tent.R  -poss.3pl 1pl.in what -dat edge  -all    stand -hab   -pst -poss.3sg what -dat
 
 \tx orimkeːn holilen,               kịrangịdalan             ịlgamgararịtnan.
@@ -1273,12 +1273,12 @@ flow in many different directs; Ija analyses the -mEČ suffix not as the recipro
 \id Krivoshapkina_Ija_memories_074
 \tx Nemkemeček,      nemkeče... nemkemeček,      ọttọn nemkemeček       bidʒingu...
 \mb nemke -mEČ -ČEk nemke -mEČ -ČEk ọttọn nemke -mEČ -ČEk bi -DʒI -n(I) =GU
-\ps v               v               ptl   v               v                
+\ps n               n               ptl   n               v                 
 \ge shoot -rec -nr  shoot -rec -nr  dp.Y  shoot -rec -nr  be -fut -3sg  =q 
 
 \tx nemkečelle,                kụːnịnalla,                  bejel      dʒiŋ tutenelle.
 \mb nemke -Č   -E  -L    -R(E)   kụːnị  -n    -E  -L    -R(E)   bej -E  -L  dʒiŋ   tut -E  -n    -E  -L    -R(E)  
-\ps n                            n                              n           n    v                               
+\ps n                            n                              n           n    v                                
 \ge shoot -res -ep -inch -nonfut scream -mult -ep -inch -nonfut man -ep -pl very.Y run -ep -mult -ep -inch -nonfut
 
 \ft A shoot-out, a shoot-out... but would there be a shoot-out?... they started to shoot, they started to shout, people started
@@ -1475,7 +1475,7 @@ father's younger brother, her name is Lialko, she studies in the department of f
 \id Krivoshapkina_Ija_memories_085
 \tx Tar   toru       Kụːńịkịt nahaː ịbga   goːngeren.
 \mb tarak tor   -W   kụːnị  -kIč nahaː  ịbgọ goːn -Gr(E) -E  -n(I)
-\ps pron  n          v           adv    ?    v                    
+\ps pron  n          n           adv    ?    v                     
 \ge dist  earth -acc scream -nr  very.Y good say  -hab   -ep -3sg 
 
 \ft About that place she says that Kunikit is very good.
@@ -1488,7 +1488,7 @@ father's younger brother, her name is Lialko, she studies in the department of f
 \id Krivoshapkina_Ija_memories_086
 \tx Omneken        nọŋartan ịak bičel         uhu...
 \mb omen -REkEn    nọŋartan ịak  bi -čE     -L  ühü  
-\ps num            pron     n v              ptl   
+\ps num            pron     n v              ptl    
 \ge one  -iter.adv 3pl      what be -pf.ptc -pl hsy.Y
 \ft Once they were what...
 \ru Однажды они что-то/кем-то там были...
@@ -1934,7 +1934,7 @@ to be guarded around the clock; in winter, reindeer herders watch the herd only 
 \tx Ńan   ịaw      ukčendʒiŋej?
 \mb ńaːn ịak  -W   ukčen -D(I)ŋE   -J      
 \ps adv  pron      v                       
-\ge and  what -acc tell  -fut.ptcp -prfl.sg
+\ge and  what -acc tell  -fut.ptc -prfl.sg
 
 \ft What else can I tell?
 \ru Что я могу еще рассказать?
@@ -2066,7 +2066,7 @@ họːdụkụn = sliškom vysokij; the possessive on the adjective is not oblig
 \tx Ńan   ịaw      goːndʒiŋej?
 \mb ńaːn ịak  -W   goːn -D(I)ŋE   -J      
 \ps adv  pron      v                      
-\ge and  what -acc say  -fut.ptcp -prfl.sg
+\ge and  what -acc say  -fut.ptc -prfl.sg
 
 \ft And what can I say?
 \ru Что я могу еще сказать?
@@ -2442,7 +2442,7 @@ ispugal
 \id Krivoshapkina_Ija_memories_137
 \tx Ee, omneken        ịak Kụːńịkịt, tar   že   Kụːńịkịt gerbe tor   biče.
 \mb ee omen -REkEn    ịak  kụːnị  -kIč tarak že    kụːnị  -kIč gerbe tor   bi -čE    
-\ps interj num            pron v           pron  ptl   v           n     n     v         
+\ps interj num            pron n           pron  ptl   n           n     n     v          
 \ge eh one  -iter.adv what scream -nr  dist  ptl.R scream -nr  name  earth be -pf.ptc
 
 \ft Well, once, it was that same place called Kunikit.
@@ -2454,12 +2454,12 @@ ispugal
 \id Krivoshapkina_Ija_memories_138
 \tx Biː ịamịgol     Daik gerbe gerbekkererem,             tar   dʒaːlbụ
 \mb biː ịamị =(W)Ul Daik gerbe gerbet -Gr(E) -R(E)   -m   tarak dʒaː     -L  -W       
-\ps pron pron        ?    n     v                          pron  n                      
+\ps pron pron        ?    n     v                          pron  n                       
 \ge 1sg why  =indef Daik name  think  -hab   -nonfut -1sg dist  relative -pl -poss.1sg
 
 \tx goːnidʒitnen                         Kụːńịkịt biče      ebit       emie.
 \mb goːn -RI       -DʒI         -tEn      kụːnị  -kIč bi -čE     ebit       emie  
-\ps v                                     v           v          ptl        adv   
+\ps v                                     n           v          ptl        adv    
 \ge say  -impf.ptc -ins.prfl.sg -poss.3pl scream -nr  be -pf.ptc it.seems.Y also.Y
 
 \ft For some reason I thought it was in Daik, but my family say it was in Kunikit.
@@ -2471,7 +2471,7 @@ ispugal
 \id Krivoshapkina_Ija_memories_139
 \tx Ammụ           indʒeːni             ineŋin            bihin.
 \mb aman   -W        indʒen       -RI       ineŋ -E  -n(I)     bi -RI  -n(I)    
-\ps n                n                      n                  v                 
+\ps n                n                      n                  v                  
 \ge father -poss.1sg stop.to.rest -impf.ptc day  -ep -poss.3sg be -pst -poss.3sg
 \ft It was my father's day of rest.
 \ru Был день когда отец отдыхал от своей смены.
@@ -2957,12 +2957,12 @@ eight or nine.
 \id Krivoshapkina_Ija_memories_167
 \tx Ọl_ihin   teːmi    ahị bujuhek...                bujusektu             keńeli gerbe ịak adʒịt
 \mb ọl_ihin     teːmi     asị   bujun         -s    -ČEk buju -s    -ČEk -DU  keńeli gerbe ịak  ajdịt
-\ps conj        conj      n     n                        v                    adj    n     pron n    
+\ps conj        conj      n     n                        n                    adj    n     pron n     
 \ge therefore.Y therefore woman wild.reindeer -mult -nr  hunt -mult -nr  -dat bad    name  what truth
 
 \tx ehni              bihe        ebit,      ahị biheken                    naabarọt        ịbga
 \mb e   -R(E)   -n(I) bi -R       ebit       asị   bi -REk      -E  -n(I)     naoborot          ịbgọ
-\ps v                 v           ptl        n     n                          adv               ?    
+\ps v                 v           ptl        n     n                          adv               ?     
 \ge neg -nonfut -3sg  be -neg.cvb it.seems.Y woman be -cond.cvb -ep -poss.3sg on.the.contrary.R good
 
 \tx biwreče          uručun   goːniken      dʒọmkakkararam.
@@ -3124,7 +3124,7 @@ intestines.
 
 \tx neːgimeček,      kụnịmačak,        bejesde               neːgiwdʒinni.
 \mb neːgi -mEČ -ČEk kụːnị  -mEČ -ČEk bej    -s(I)     =DE  neːgi -W     -DʒI -nrI
-\ps v               v                pron                  v                     
+\ps n               n                pron                  v                      
 \ge scold -rec -nr  scream -rec -nr  self.Y -poss.2sg =ptl scold -advrs -fut -2sg
 
 \ft It's good when you're a child, but when you're big it's bad, arguing, shouting, you are scolded.
@@ -3139,7 +3139,7 @@ intestines.
 \id Krivoshapkina_Ija_memories_178
 \tx Tara  kotlen bihiŋij              ŋiːde    ńulgerij...               ụːčakla
 \mb tarak kotlen bi -ŋsI      -J       ŋiː =DE  nulge   -RI       -J       ụčak            -(dU)LE
-\ps n  n    v                     pron     v                          n                       
+\ps n  n    v                     pron     v                          n                        
 \ge dist  small  be -impf.cvb -prfl.sg who =ptl migrate -impf.ptc -prfl.sg riding.reindeer -loc   
 
 \tx ụːrịjńụn                haːwrannị.
@@ -3548,7 +3548,7 @@ left one saddle bag.
 \tx Abịga     dʒugulin                hebdʒehniw            omen erbečem        haːram,
 \mb abaga       dʒugu -(dU)LI -n(I)     hebdʒeń  -RI      -W   omen erroːčin  -W   haː  -R(E)   -m  
 \ps n           rel.n                   v                      num  pron           v                
-\ge grandfather about -prol   -poss.3sg be.funny -ipf.ptc -acc one  prox.qual -acc know -nonfut -1sg
+\ge grandfather about -prol   -poss.3sg be.funny -impf.ptc -acc one  prox.qual -acc know -nonfut -1sg
 
 \tx akmụ                  ukčeŋgeren.
 \mb akan          -W        ukčen -Gr(E) -E  -n(I)
@@ -3734,12 +3734,12 @@ Eveno-Bytantaj district, to the north of Sebjan-Kuel).
 \id Krivoshapkina_Ija_memories_213
 \tx Ọːn ịakta    amtaman                     ečel           gawrar,              keńeli amtannị
 \mb ọːn ịak  =DE  amta  -n  -W   -E  -n(I)     e   -čE     -L  ga   -Gr(E) -R       keńeli amta  -n  -n(I)    
-\ps pron pron      v                            v               v                    adj    v                  
+\ps pron pron      n                            v               v                    adj    n                   
 \ge how what =ptl taste -nr -acc -ep -poss.3sg neg -pf.ptc -pl take -hab   -neg.cvb bad    taste -nr -poss.3sg
 
 \tx ačča biwreče          uručungu     ịakkụ.
 \mb ačča bi -Gr(E) -čE     ureːčin  =GU ịak  =GU
-\ps ptl  v                 n            pron     
+\ps ptl  v                 n            pron      
 \ge neg  be -hab   -pf.ptc it.seems =q  what =q 
 
 \ft They didn't taste anything different, there was no bad taste it seems, or what.
@@ -3850,7 +3850,7 @@ thought it was berry preserve, 'varen'je'.
 \tx Ńan... ịak... ọːn goː... ịak gerbew     ukčendʒiŋej?
 \mb ńaːn ịak  ọːn goːn ịak  gerbe -W   ukčen -D(I)ŋE   -J      
 \ps adv  pron pron v    pron n          v                       
-\ge and  what how say  what name  -acc tell  -fut.ptcp -prfl.sg
+\ge and  what how say  what name  -acc tell  -fut.ptc -prfl.sg
 
 \ft And what else can I tell?
 \ru Про что еще рассказать?
@@ -3959,12 +3959,12 @@ thought it was berry preserve, 'varen'je'.
 \id Krivoshapkina_Ija_memories_228
 \tx Dʒe,  emie   dʒaːlčal...     uže      ịaw      hupkučeku        igin  mụdakrịdʒị tawar, dʒe
 \mb dʒe    emie   dʒaː     -L  -čEl uže       ịak  -W   hupkut -ČEk -W   iŋin  mụdak  -RIdʒI   tarak dʒe   
-\ps ptl    adv    n                 adv       pron      v                ptl   v               pron  ptl   
+\ps ptl    adv    n                 adv       pron      n                ptl   v               pron  ptl    
 \ge well.Y also.Y relative -pl -com already.R what -acc learn  -nr  -acc etc.Y finish -ant.cvb dist  well.Y
 
 \tx hin     egdʒel[buridʒi],    nọŋan ọttọn erde    mụdakajdagadị,                        tara.
 \mb sin     egdʒen -LbE -RIdʒI   nọŋan ọttọn erde    mụdak  -E  -j    -dEg      -E     =diː    tarak
-\ps ptl     v                    pron  ptl   adv     n                                         pron  
+\ps ptl     v                    pron  ptl   adv     n                                         pron   
 \ge a.bit.Y big    -vr  -ant.cvb 3sg   dp.Y  early.Y finish -ep -conn -assert.Y -3sg.Y =emph.Y dist 
 
 \ft Also with her family, she had already finished school, was already a bit grown up, but she (of course) finished school early.
@@ -4298,7 +4298,7 @@ of 'what can be good about something', but I cannot find that in the dictionary
 \id Krivoshapkina_Ija_memories_249
 \tx Haːmaj ịbga   ịaw           dʒọŋčịhakụ              tara.
 \mb samyj  ịbgọ ịak  -W        dʒọn     -(k)čI -ČEk -W        tarak
-\ps adj    ?    pron           v                              pron 
+\ps adj    ?    pron           n                              pron  
 \ge most.R good what -poss.1sg remember -dur   -nr  -poss.1sg dist 
 
 \ft My best memories are these.
@@ -4310,7 +4310,7 @@ of 'what can be good about something', but I cannot find that in the dictionary
 \id Krivoshapkina_Ija_memories_250
 \tx Biː, digen ọːnịkan    dʒaːlńụmị,           ịala        ịaw      ụjamkam
 \mb biː digen ọː     -nIkEn   dʒaː     -L  -ńUn -J       ịak  -(dU)LE ịak  -W   ụjamkan        -W  
-\ps pron num   v               n                          pron         pron      n                   
+\ps pron num   v               n                          pron         pron      n                    
 \ge 1sg four  become -sim.cvb relative -pl -com -prfl.sg what -loc    what -acc mountain.sheep -acc
 
 \tx maːdaŋat.
@@ -4330,7 +4330,7 @@ of 'what can be good about something', but I cannot find that in the dictionary
 \id Krivoshapkina_Ija_memories_251
 \tx Tar   Kụːńịkịt gerbe torle         biče.
 \mb tarak kụːnị  -kIč gerbe tor   -(dU)LE bi -čE    
-\ps pron  v           n     n             v         
+\ps pron  n           n     n             v          
 \ge dist  scream -nr  name  earth -loc    be -pf.ptc
 
 \ft That was in the place called Kunikit.
@@ -4342,7 +4342,7 @@ of 'what can be good about something', but I cannot find that in the dictionary
 \id Krivoshapkina_Ija_memories_252
 \tx Ịbgakeː     torelken       stada  bihin,            tar   nadị      stada.
 \mb ịbgọ =kE   tor   -E  -lkEn stado  bi -RI  -n(I)     tarak nadan -(G)I stado 
-\ps ?          n               n      v                 pron  num         n      
+\ps ?          n               n      v                 pron  num         n       
 \ge good =emph earth -ep -prop herd.R be -pst -poss.3sg dist  seven -ord  herd.R
 \ft That seventh reindeer brigade had very good territory.
 \ru Очень с хорошими местами было вот это седьмое стадо.
@@ -4421,12 +4421,12 @@ very much like nadịs.
 \id Krivoshapkina_Ija_memories_258
 \tx Nadị      stada  toreŋelben                            tar   Kụːńịkịt ńan   Daik gerbe ịbgat
 \mb nadan -(G)I stado  tor   -E  -ŋ   -E  -L  -W   -E  -n(I)     tarak kụːnị  -kIč ńaːn Daik gerbe ịbgọ -Č  
-\ps num         n      n                                         pron  v           adv  ?    n     n        
+\ps num         n      n                                         pron  n           adv  ?    n     n         
 \ge seven -ord  herd.R earth -ep -aln -ep -pl -acc -ep -poss.3sg dist  scream -nr  and  Daik name  good -ins
 
 \tx dʒọŋčịram.
 \mb dʒọn     -(k)čI -R(E)   -m  
-\ps v                            
+\ps v                             
 \ge remember -dur   -nonfut -1sg
 
 \ft About the places of the seventh brigade I remember Kunikit and Daik well.

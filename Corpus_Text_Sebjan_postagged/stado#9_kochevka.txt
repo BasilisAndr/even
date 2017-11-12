@@ -173,7 +173,7 @@ father of Ekaterina Afanas'evna Krivoshapkina
 
 \tx tuge   [stammers] tuge   tegečeheket                                toreŋet                      honte
 \mb tugeni stammers tugeni teg      -E  -Č   -E  -ČEk -E  -t(I)        tor   -E  -ŋ   -E  -t(I)        honte
-\ps n      interj   n      v                                           n                               adj  
+\ps n      interj   n      n                                           n                               adj   
 \ge winter stammers winter sit.down -ep -res -ep -nr  -ep -poss.1pl.in earth -ep -aln -ep -poss.1pl.in other
 
 \ft In winter, from the month of October until the month of May our camp is elsewhere.
@@ -187,7 +187,7 @@ father of Ekaterina Afanas'evna Krivoshapkina
 \id stado#9_kochevka_017
 \tx Tala          uteːlkehel       bihep,             dʒoːr uteːlkehel       bihep.
 \mb tarak -(dU)LE uteːn -lkEn -SEl bi -R(E)   -p      dʒoːr uteːn -lkEn -SEl bi -R(E)   -p     
-\ps pron          n                v                  n   n                v                  
+\ps pron          n                v                  n   n                v                   
 \ge dist  -loc    hut   -prop -pl  be -nonfut -1pl.in two   hut   -prop -pl  be -nonfut -1pl.in
 \ft There we have huts, two huts.
 \ph bihop
@@ -216,7 +216,7 @@ father of Ekaterina Afanas'evna Krivoshapkina
 \tx Tala          uteːn bihni,          uteːndu    erbečen   balakka ehni           bihe.
 \mb tarak -(dU)LE uteːn bi -R(E)   -n(I) uteːn -DU  erroːčin  palatka e   -R(E) -n(I) bi -R      
 \ps pron          n     v                n          pron      n       v               v          
-\ge dist  -loc    hut   be -nonfut -3sg  hut   -dat prox.qual tent.R  neg -nfut -3sg  be -neg.cvb
+\ge dist  -loc    hut   be -nonfut -3sg  hut   -dat prox.qual tent.R  neg -nonfut -3sg  be -neg.cvb
 \ft There is a hut, (we live) in a hut, not in a tent like this.
 \ru Там имеется дом, не такая палатка.
 \ELANBegin 00:01:22.880
@@ -554,7 +554,7 @@ tatmị hatanar; mne nel'zja žirnoe kušat' = ihmelkem eheku dʒepte hatanar; t
 \tx Rasijat      ukčemmetniken        igin  butunnu      mut    ịalbụ,     ịak ọːddịwan                            igin
 \mb racija  -Č   ukčen -mEČ -nIkEn   iŋin  bütünnüː   mut    ịak  -L  -W   ịak  ọː     -D    -RI      -W   -E  -n(I)     iŋin 
 \ps n            v                   ptl   ?          pron   pron          pron v                                        ptl  
-\ge radio.R -ins tell  -rec -sim.cvb etc.Y entirely.Y 1pl.in what -pl -acc what become -prog -ipf.ptc -acc -ep -poss.3sg etc.Y
+\ge radio.R -ins tell  -rec -sim.cvb etc.Y entirely.Y 1pl.in what -pl -acc what become -prog -impf.ptc -acc -ep -poss.3sg etc.Y
 
 \tx hontede    torre         igin.
 \mb honte =DE  tor   -(dU)LE iŋin 
@@ -602,7 +602,7 @@ IVK a Spidola radio is the usual kind of radio that people use to listen to the 
 \tx Ńan   ịaw      ulgimidʒinni?
 \mb ńaːn ịak  -W   ulgim -i      -DʒI -nrI
 \ps adv  pron      v                      
-\ge and  what -acc ask   -ipf??? -fut -2sg
+\ge and  what -acc ask   -ipf -fut -2sg
 \ft What else will you ask?
 \ph
 \gr He mumbles a bit saying ịaw

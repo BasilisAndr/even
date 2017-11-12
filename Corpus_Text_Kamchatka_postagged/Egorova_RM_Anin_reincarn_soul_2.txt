@@ -232,7 +232,7 @@ say bi enseku, if I am ill it's bi buteːniwu, min ŋaːlụ ensen, dịlụ ens
 \tx Ńanasị       Galjatkị    ulgimiddem:
 \mb ńaːn -E  =sI   Galja -t(E)kI ulgim -i      -D    -R(E)   -m  
 \ps adv            n             v                               
-\ge and  -ep =emph Galja -all    ask   -ipf??? -prog -nonfut -1sg
+\ge and  -ep =emph Galja -all    ask   -ipf -prog -nonfut -1sg
 \ft And then I ask Galja:
 \ru И вот у Гали спрашиваю:
 \ELANBegin 00:01:33.600
@@ -451,7 +451,7 @@ butenellen would be that the child is still ill?
 \tx Goːnni     "Ọŋaddan                  ereger, ịawda         esni           dʒepte,       ọŋnan".
 \mb goːn -n(I) họŋ -E  -D    -R(E)   -n(I) ereger ịak  -W   =DE  e   -R(E) -n(I) dʒep -R       họŋ -R(E)   -n(I)
 \ps v          v                           adv    pron           v               v             v                
-\ge say  -3sg  cry -ep -prog -nonfut -3sg  always what -acc =ptl neg -nfut -3sg  eat  -neg.cvb cry -nonfut -3sg 
+\ge say  -3sg  cry -ep -prog -nonfut -3sg  always what -acc =ptl neg -nonfut -3sg  eat  -neg.cvb cry -nonfut -3sg 
 \ft She says "he's crying all the time, doesn't eat anything, cries."
 \ru Говорит: "Все время плачет, ничего не ест, плачет."
 \ELANBegin 00:02:42.200
@@ -541,7 +541,7 @@ his soul will hear.
 \tx ọŋadʒaːnnan,                esnidetit                aj   ọːd.
 \mb họŋ -E  -dʒEːn -R(E)   -n(I) e   -R(E) -n(I) =DE  =tIt aj   ọː     -R      
 \ps v                            v                         adj  v              
-\ge cry -ep -dur   -nonfut -3sg  neg -nfut -3sg  =ptl =ptl good become -neg.cvb
+\ge cry -ep -dur   -nonfut -3sg  neg -nonfut -3sg  =ptl =ptl good become -neg.cvb
 \ft And then I, they left, everyone went to work, and the child is crying, just doesn't stop.
 \ph
 \gr 05.02.13 (questions10, 11:50) kụŋakajakan = kụŋajakan = no difference
@@ -571,7 +571,7 @@ his soul will hear.
 \tx Ńan   eːntukuken ulgimiddem.
 \mb ńaːn entukuken ulgim -i      -D    -R(E)   -m  
 \ps adv  adv       v                               
-\ge and  softly    ask   -ipf??? -prog -nonfut -1sg
+\ge and  softly    ask   -ipf -prog -nonfut -1sg
 \ft And I ask (him) softly.
 \ru И потихоньку его спрашиваю.
 \ELANBegin 00:03:37.000
@@ -649,7 +649,7 @@ inteki; you have to say towards whom you are turning, e.g. ọːlị minteki = p
 \tx Goːnem,           "Esnide             miːnew         kọllọːtta,        bergeŋemker"        goːnem,
 \mb goːn -R(E)   -m   e   -R(E) -n(I) =DE  miːn    -E  -W   kọl   -WEːČ -R       berge -ŋ   -E  -mkEr goːn -R(E)   -m  
 \ps v                 v                    n                v                    ?                    v                
-\ge say  -nonfut -1sg neg -nfut -3sg  =ptl alcohol -ep -acc drink -gnr  -neg.cvb fat   -aln -ep -aug  say  -nonfut -1sg
+\ge say  -nonfut -1sg neg -nonfut -3sg  =ptl alcohol -ep -acc drink -gnr  -neg.cvb fat   -aln -ep -aug  say  -nonfut -1sg
 
 \tx "ečin     ọːdịn."
 \mb erroːčin  ọː     -RI  -n(I)    

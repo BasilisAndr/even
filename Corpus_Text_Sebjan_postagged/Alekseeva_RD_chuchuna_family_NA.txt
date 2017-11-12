@@ -636,7 +636,7 @@ done?"-- she thought.
 \tx ulgimiče
 \mb ulgim -I    -čE    
 \ps v                  
-\ge ask   -ipf? -pf.ptc
+\ge ask   -ipf -pf.ptc
 
 \ft She asked: "What did they go to set there?"
 \ph

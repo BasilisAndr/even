@@ -180,7 +180,7 @@ herds
 
 \tx tadụ     hupkučeːkude         aːŋagal          goːniken.
 \mb tarak -DU  hupkut -ČEk -W   =DE  aːŋa -GEr        goːn -nIkEn  
-\ps pron       v                     v                v            
+\ps pron       n                     v                v             
 \ge dist  -dat learn  -nr  -acc =ptl open -imp.1pl.in say  -sim.cvb
 
 \ft Then they said to make all Evens live in one place and to open up a school there. (lit. "let's make the Evens all live in one place and let's
@@ -194,7 +194,7 @@ open up a school there")
 \id Kirillina_KK_history_013
 \tx Dʒe   tačịn       ụkas   ńoːčelen,                 Ịndịbaldụ  tarakam       egdʒen ịak tor   ačča dʒụːw
 \mb dʒe    tarọːčịn  ukaz     ńoː  -čE     -(dU)LE -n(I)     Ịndịbal -DU  tarakam       egdʒen ịak  tor   ačča dʒụː  -W  
-\ps ptl    n      n        v                              n            adv           adj    pron n     ptl  n          
+\ps ptl    n      n        v                              n            adv           adj    pron n     ptl  n           
 \ge well.Y dist.qual decree.R exit -pf.ptc -loc    -poss.3sg Endybal -dat in.those.days big    what earth neg  house -acc
 
 \tx ọːptị.
@@ -248,12 +248,12 @@ open up a school there")
 \id Kirillina_KK_history_016
 \tx Tarakam       čak... čakabaːktụ             dʒe   ebesel    etikeːl     butunni      čakụrịdʒụr
 \mb tarakam       čak    čak    -E  -B   -ČEk -DU  dʒe    ewen -SEl etikeːn -L  bütünnüː   čak    -W     -RIdʒI   -L 
-\ps adv           v      v                         ptl    n         n           ?          v                         
+\ps adv           v      n                         ptl    n         n           ?          v                          
 \ge in.those.days gather gather -ep -med -nr  -dat well.Y Even -pl  old.man -pl entirely.Y gather -advrs -ant.cvb -pl
 
 \tx ukčemmetčel,           idu        ịlụdʒịp               goːniken,     anŋamta bileːku.
 \mb ukčen -mEČ -čE     -L  irek  -DU  ịl       -U    -DʒI -p      goːn -nIkEn   anŋamta bileːk    -W  
-\ps v                      pron       n                           v             adj     n              
+\ps v                      pron       n                           v             adj     n               
 \ge tell  -rec -pf.ptc -pl which -dat stand.up -caus -fut -1pl.in say  -sim.cvb new     territory -acc
 \ft Then at a meeting, the old Even men having all gathered talked about where to set up the new village. (lit. where will we set up)
 \ph
@@ -370,7 +370,7 @@ rather it's just a fairly broad meaning that is expressed here, that there is a 
 
 \tx ịal     ọrọlčịmŋal      ịal,    čeledʒur         tadụk       ganịkan.
 \mb ịak  -L  ọrọlčị        -mŋE  -L  ịak  -L  čele -dʒUr        tarak -DUk(U) ga   -nIkEn  
-\ps pron     v                       pron     ?                 pron          v            
+\ps pron     n                       pron     ?                 pron          v             
 \ge what -pl herd.reindeer -agnr -pl what -pl all  -ins.prfl.pl dist  -abl    take -sim.cvb
 \ft From him they bought gunpowder, guns, flour, the reindeerherders, all taking (buying) from there.
 \ph uniwričel
@@ -384,7 +384,7 @@ rather it's just a fairly broad meaning that is expressed here, that there is a 
 \id Kirillina_KK_history_025
 \tx Dʒe   tadụk       kočuker     dʒụːlbụ    ọːkatčal            eduːr.
 \mb dʒe    tarak -DUk(U) kočuken -L  dʒụː  -L  -W   ọː   -kEČ  -čE     -L  erek -DU  -WUr    
-\ps ptl    n          adj         n              v                      pron               
+\ps ptl    n          adj         n              v                      pron                
 \ge well.Y dist  -abl    small   -pl house -pl -acc make -mult -pf.ptc -pl prox -dat -prfl.pl
 \ft Well, and then they built little houses here.
 \ph
@@ -415,7 +415,7 @@ rather it's just a fairly broad meaning that is expressed here, that there is a 
 \id Kirillina_KK_history_027
 \tx Tadụ     nọnap    hupkuček    aːŋapča.
 \mb tarak -DU  nọnap      hupkut -ČEk aːŋa -B   -čE    
-\ps pron       adj        v           v                
+\ps pron       adj        n           v                 
 \ge dist  -dat the.first. learn  -nr  open -med -pf.ptc
 \ft There the first school opened.
 \ru Там открылась первая школа.
@@ -426,12 +426,12 @@ rather it's just a fairly broad meaning that is expressed here, that there is a 
 \id Kirillina_KK_history_028
 \tx Dʒe   tadụk       dʒụːw     klubu       ọːčal,        klubu       ọːčal,        begdečeːku
 \mb dʒe    tarak -DUk(U) dʒụː  -W   klub   -W   ọː   -čE     -L  klub   -W   ọː   -čE     -L  beg      -DE -Č   -ČEk -W  
-\ps ptl    pron          n          n           v                n           v                v                           
+\ps ptl    pron          n          n           v                n           v                n                             
 \ge well.Y dist  -abl    house -acc club.R -acc make -pf.ptc -pl club.R -acc make -pf.ptc -pl medicine -vr -res -nr  -acc
 
 \tx ịlụčal,               dʒe   tadụk       tačịn       pasjọ... erek bileːk   egdʒelbulče.
 \mb ịl       -U    -čE     -L  dʒe    tarak -DUk(U) tarọːčịn  poselok   erek bileːk    egdʒen -LbE -L    -čE    
-\ps v                          ptl    pron          pron      n         pron n         n                         
+\ps v                          ptl    pron          pron      n         pron n         n                          
 \ge stand.up -caus -pf.ptc -pl well.Y dist  -abl    dist.qual village.R prox territory big    -vr  -inch -pf.ptc
 \ft And then houses, they built the club, they set up a hospital, and then this village started to grow.
 \ph
@@ -464,7 +464,7 @@ Pavlovich Kejmetinov, they worked.
 \id Kirillina_KK_history_030
 \tx Iduk          tadụk       ńụːč begdečimŋel,                  ńụːč hupkučimŋel       emelčel.
 \mb irek  -DUk(U) tarak -DUk(U) ńụča    beg      -DE -Č   -E  -mŋE  -L  ńụča    hupkut -E  -mŋE  -L  em   -E  -L    -čE     -L 
-\ps pron          pron          n       v                               n       v                    v                         
+\ps pron          pron          n       n                               n       n                    v                          
 \ge which -abl    dist  -abl    Russian medicine -vr -res -ep -agnr -pl Russian learn  -ep -agnr -pl come -ep -inch -pf.ptc -pl
 \ft From everywhere Russian doctors, Russian teachers started to come. 
 \ru Отовсюду русские врачи, русские учителя начали приезжать.
@@ -475,7 +475,7 @@ Pavlovich Kejmetinov, they worked.
 \id Kirillina_KK_history_031
 \tx Tarakam       torri,        ọrọnọt               emgerečel,             Siegendule         ịstala mụranat,      tarịt
 \mb tarakam       tor   -(dU)LI ọrọn              -E  -Č   em   -Gr(E) -čE     -L  Segen      -(dU)LE ịstala mụran -E  -Č   tarịt
-\ps adv           n             n                          n                       n                  n n              adv   
+\ps adv           n             n                          n                       n                  n n              adv    
 \ge in.those.days earth -prol   domestic.reindeer -ep -ins come -hab   -pf.ptc -pl Segen.Kuel -loc    until  horse -ep -ins then 
 
 \tx ertiki       ọrọnọt.
@@ -786,7 +786,7 @@ go over it
 \tx Es,  ehni,          ne    semidesjatye
 \mb es   e   -R(E) -n(I) ne    semidesjatye
 \ps interj v               ptl   adj         
-\ge no.Y neg -nfut -3sg  neg.R seventies.R 
+\ge no.Y neg -nonfut -3sg  neg.R seventies.R 
 \ft no, not the 1970s
 \ph
 \nt BP says "kiːne klubla" here as well, "movies in the club"
@@ -882,12 +882,12 @@ go over it
 \id Kirillina_KK_history_063
 \tx Tarakam,      tarakam       egdʒen ịak  bọ(lla)                   sovietskaj biriemedu,  ọttọn nọnap    begdečeːk             ńan
 \mb tarakam       tarakam       egdʒen ịak  buol  -dEg      -E          sovetskij vremja -DU  ọttọn nọnap      beg      -DE -Č   -ČEk ńaːn
-\ps adv           adv           adj    pron v                           adj       n           ptl   adj        v                      adv 
+\ps adv           adv           adj    pron v                           adj       n           ptl   adj        n                      adv  
 \ge in.those.days in.those.days big    what aux.Y -assert.Y -poss.3sg.Y Soviet.R  time.R -dat dp.Y  the.first. medicine -vr -res -nr  and 
 
 \tx klub   ńan   hupkučeːk, tawụr ọːwọjaktaːk          gerbe egdʒen ụkas.
 \mb klub   ńaːn hupkut -ČEk tawụr ọː   -W     -E  -jEktEːk gerbe egdʒen ukaz    
-\ps n      adv  v           pron  v                        n     adj    n        
+\ps n      adv  n           pron  v                        n     adj    n          
 \ge club.R and  learn  -nr  this  make -advrs -ep -nec.Y   name  big    decree.R
 
 \ft In those days, something big, in the Soviet times, first the hospital and the club and the school, there was a decree that this had to be built.
@@ -904,7 +904,7 @@ clear that everything talked about here took place in the past, in the 1930s
 \id Kirillina_KK_history_064
 \tx Tarakam
 \mb tarakam      
-\ps adv           
+\ps adv            
 \ge in.those.days
 
 \ru

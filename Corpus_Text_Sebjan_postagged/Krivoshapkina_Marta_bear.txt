@@ -297,7 +297,7 @@ and bi- (3sg nfut = ihni); in Sebjan, however, this exists only with the limitat
 \tx Tarak biː noːwu                    Kača ulgimidni:
 \mb tarak biː noː             -W        Katja ulgim -i      -n(I)
 \ps pron  pron n                         ?     v                  
-\ge dist  1sg younger.sibling -poss.1sg Katja ask   -ipf??? -3sg 
+\ge dist  1sg younger.sibling -poss.1sg Katja ask   -ipf -3sg 
 
 \ft And my sister Katja asked:
 \ru Моя сестренка Катя спросила:
@@ -1249,7 +1249,7 @@ lexicalized form of the diminutive of this word
 \ref 6:16
 \tx Tara  tarbačan      ukčenek     dʒe.
 \mb tarak tarọːčịn  ukčen -ČEk dʒe   
-\ps pron  pron      v          ptl   
+\ps pron  pron      n          ptl    
 \ge dist  dist.qual tell  -nr  well.Y
 
 \ft Well, such a story.
@@ -1262,7 +1262,7 @@ lexicalized form of the diminutive of this word
 \ref 6:19
 \tx Tarụŋụr        kuruk     tiːkerren                  ịstala Kačańụn dʒoːridʒur               kuruk
 \mb tarak -ŋ   -WUr     kuruk     tiek -(E)rEp -(dU)LE -n(I)     ịstala Katja -ńUn dʒoːr -NI   -dʒUr         kuruk    
-\ps pron                adv       n                            postpos n          num                       adv       
+\ps pron                adv       n                            postpos n          num                       adv        
 \ge dist  -aln -prfl.pl always.Y. now  -adjr   -loc    -poss.3sg until  Katja -com two   -coll -ins.prefl.pl always.Y.
 
 \tx dʒọŋnarap.

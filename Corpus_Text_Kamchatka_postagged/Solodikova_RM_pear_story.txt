@@ -102,7 +102,7 @@ the basket in the reflexively-possessed Locative case, I have taken
 \tx tarakta         grušala,      ńan
 \mb tarak =t(E)    gruša  -(dU)LE ńaːn 
 \ps pron           n              ?    
-\ge dist  =utočnit pear.R -loc    again
+\ge dist  =ptl pear.R -loc    again
 
 \tx čakadʒịllịn.
 \mb čak    -E  -D    -E  -L    -RI  -n(I)    
@@ -401,7 +401,7 @@ mal'čiška
 \tx umente         uŋen                  alịːkan
 \mb omen =t(E)    uŋ        -E  -n(I)     alịːk -E  -n(I)    
 \ps num           n                       n                  
-\ge one  =utočnit something -ep -poss.3sg dish  -ep -poss.3sg
+\ge one  =ptl something -ep -poss.3sg dish  -ep -poss.3sg
 
 \tx dọːlkan,    gịaŋan               ač dọːla.
 \mb dọː      -lkEn gịa  -ŋ   -E  -n(I)     ač  dọː      -LE 

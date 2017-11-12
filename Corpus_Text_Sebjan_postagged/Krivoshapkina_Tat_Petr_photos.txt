@@ -47,7 +47,7 @@ lives with her younger sister (Emilia Petrovna Krivoshapkina) and that sister’
 
 \tx ọrọlčịmŋat       gurgewčidden.
 \mb ọrọlčị        -mŋE  -Č   gurgeːwči -D    -R(E)   -n(I)
-\ps v                        v                            
+\ps n                        v                             
 \ge herd.reindeer -agnr -ins work      -prog -nonfut -3sg 
 \ft For several years he worked as brigade leader, now he is working as a reindeer herder.
 \ru Несколько лет работал бригадиром, сейчас работает оленеводом.
@@ -67,7 +67,7 @@ lives with her younger sister (Emilia Petrovna Krivoshapkina) and that sister’
 \id Tatjana_Petrovna_photos_005
 \tx Ere  ču... ejmu             hatlan                 daːlịlatan              bihni
 \mb erek *   enen   -W        hat  -(dU)LE -n(I)     daːlị -(dU)LE -tEn      bi -R(E)   -n(I)
-\ps n ?   n                rel                    rel.n                   v                
+\ps n ?   n                rel                    rel.n                   v                 
 \ge prox *** mother -poss.1sg base -loc    -poss.3sg near  -loc    -poss.3pl be -nonfut -3sg 
 
 \tx ejmu             ere  ukčemmečedde.
@@ -257,12 +257,12 @@ to mean 'settlement, village' (cf. translation session Tat_Petr_family_photos 51
 \id Tatjana_Petrovna_photos_019
 \tx Ejmu             baraxsan ịawgụl        iridʒeːnče...      [stammers] [iril...]          dʒeplew
 \mb enen   -W        baraxsan ịak  -W   =(W)Ul iri  -dʒEːn -čE     stammers ir        -E  -L    dʒeb -LE -W  
-\ps n                ptl      pron             v                   interj   v                   v            
+\ps n                ptl      pron             v                   interj   v                   n             
 \ge mother -poss.1sg dear.Y   what -acc =indef cook -dur   -pf.ptc stammers be.cooked -ep -inch eat  -nr -acc
 
 \tx iridden                  ereldule         ele.
 \mb iri  -D    -R(E)   -n(I) erek -L  -(dU)LE erek -(dU)LE
-\ps v                        pron             pron         
+\ps v                        pron             pron          
 \ge cook -prog -nonfut -3sg  prox -pl -loc    prox -loc   
 
 \ft My poor mother cooked something, is cooking food for these (people).
@@ -889,7 +889,7 @@ translation session Tat_Petr_family_photos, about 1hr)
 \tx Ere  ulgimidde,                  Alekseev [BP: Alekseev] Afanasevič [BP: ulgimidden]
 \mb erek ulgim -i      -D    -R(E)   Alekseev BP Alekseev Afanasevič  BP ulgim -i      -D    -R(E)   -n(I)
 \ps pron v                           ?        ?  ?        ?           ?  v                                
-\ge prox ask   -ipf??? -prog -nonfut Alekseev BP Alekseev Afanasevich BP ask   -ipf??? -prog -nonfut -3sg 
+\ge prox ask   -ipf -prog -nonfut Alekseev BP Alekseev Afanasevich BP ask   -ipf -prog -nonfut -3sg 
 
 \tx ammụ           tarakam       bihin,        kokejeːttin               di,   [BP mm] haːwdịnnịdʒị
 \mb aman   -W        tarakam       bi -RI  -n(I) koke -jEːt -RI  -n(I)     diː   BP mm  hagdị -n  -RIdʒI  
@@ -1726,7 +1726,7 @@ the normal way to express it would have been kotlen bihin
 \id Tatjana_Petrovna_photos_143
 \tx Bebeːruk,  bebeː [BP aa, aha, aha]
 \mb bebeː  -RUk bebeː  BP aa aha aha
-\ps n           n      ?  interj interj interj
+\ps n           n      ?  interj interj interj 
 \ge cradle -nr  cradle BP ah aha aha
 \ft
 \ru
@@ -1755,7 +1755,7 @@ carries the cradle.
 \id Tatjana_Petrovna_photos_146
 \tx Dʒe   erek erek starinnoe diː, erek.
 \mb dʒe    erek erek starinnoe diː   erek
-\ps n    pron pron adj       ptl   pron 
+\ps n    pron pron adj       ptl   pron  
 \ge well.Y prox prox old.R     ptl.Y prox
 
 \ft This is really old, this.

@@ -319,12 +319,12 @@ comma
 \id Evdokija_Grigorevna_Managịč_025
 \tx I...  ijunjele       ọrọmŋal                nulgeriten             Iːčče
 \mb i     ijun'  -(dU)LE ọrọn              -mŋE  -L  nulge   -RI  -tEn      Ičča
-\ps conj  n              n                           v                      ?   
+\ps conj  n              n                           v                      ?    
 \ge and.R June.R -loc    domestic.reindeer -agnr -pl migrate -pst -poss.3pl Icha
 
 \tx bardalan,                         Twajaːndụ.
 \mb bargịda            -(dU)LE -n(I)     Twajaːn -DU 
-\ps rel.n                                n            
+\ps rel.n                                n             
 \ge opposite.riverbank -loc    -poss.3sg Twajaːn -dat
 
 \ft In June the reindeer herders migrated to the other side of the Icha (river), to Twajan.
@@ -423,7 +423,7 @@ migrated one after the other.
 \id Evdokija_Grigorevna_Managịč_032
 \tx Ńanịsi        temujodditende,                     Twajaːmŋịl.
 \mb ńaːn -E  =sI   temujo    -D    -RI  -tEn      =DE  Twajaːn -mŋE -L 
-\ps adv            v                                   n               
+\ps adv            v                                   n                
 \ge and  -ep =emph slaughter -prog -pst -poss.3pl =ptl Twajaːn -nr  -pl
 \ft Then the Twajanians slaughtered.
 \ELANBegin 00:02:48.480
@@ -435,7 +435,7 @@ migrated one after the other.
 \id Evdokija_Grigorevna_Managịč_033
 \tx Ca, uŋelten                   meːntekelten               ọrtan                     ọːjeː
 \mb ca  uŋ        -E  -L  -tEn      meːn -tek -E  -L  -tEn      ọrọn              -tEn      họːja =eː  
-\ps interj n                           n                        n                           quant       
+\ps interj n                           n                        n                           quant        
 \ge cha something -ep -pl -poss.3pl refl -rec -ep -pl -poss.3pl domestic.reindeer -poss.3pl many  =emph
 
 \tx bisin,            unet  tarakam.
@@ -1638,7 +1638,7 @@ explain why she chooses him as reference point rather than the elder son, or jus
 \tx Ọːn bid...   biddiwen?
 \mb ọːn bi -D    bi -D    -RI      -W   -E  -n(I)    
 \ps pron v        v                                   
-\ge how be -prog be -prog -ipf.ptc -acc -ep -poss.3sg
+\ge how be -prog be -prog -impf.ptc -acc -ep -poss.3sg
 \ft How was that?
 \ph
 \gr
@@ -2152,7 +2152,7 @@ gurgeːwčir = večerom ja ne rabotaju (trans.file Amganov_Twajan_trans1_RME, 02
 
 \tx ọrọmŋaldụk.
 \mb ọrọn              -mŋE  -L  -DUk(U)
-\ps n                                  
+\ps n                                   
 \ge domestic.reindeer -agnr -pl -abl   
 
 \ft And in spring, in summer, at the end of June and the beginning of July (some) of the reindeer herders come to take us
@@ -2167,7 +2167,7 @@ gurgeːwčir = večerom ja ne rabotaju (trans.file Amganov_Twajan_trans1_RME, 02
 \id Evdokija_Grigorevna_Managịč_152
 \tx Ọrọndụ           ere[ger], tarakamke           ečiwu             aːmalkar
 \mb ọrọn              -DU  ereger tarakam       =kE   e   -RI  -W        haː  -mElčI -R      
-\ps n                      adv    adv                 v                  v                    
+\ps n                      adv    adv                 v                  v                     
 \ge domestic.reindeer -dat always in.those.days =emph neg -pst -poss.1sg know -acclr -neg.cvb
 
 \tx badụdaj                 ọrọndụ.

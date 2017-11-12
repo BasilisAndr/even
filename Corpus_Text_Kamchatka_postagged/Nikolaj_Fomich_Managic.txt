@@ -171,7 +171,7 @@ since there is also the form tarapčị (cf. sentence 12), I decided to analzye 
 \tx Ọːn nọnan  elekes   ọːddịs                 kụŋakakakan          tarapčị   tarbịtta
 \mb ọːn nọnan    elekes   ọː     -D    -RI  -s(I)     kụŋa  -KEn     -kEkEn tarak -pčVn tarbịč    =t(E)   
 \ps pron adv      ?        v                           n                     pron        pron              
-\ge how at.first at.first become -prog -pst -poss.2sg child -dim.int -dim   dist  -adjr like.that =utočnit
+\ge how at.first at.first become -prog -pst -poss.2sg child -dim.int -dim   dist  -adjr like.that =ptl
 
 \tx tiːk ŋịndakačịlčas                        ọːn teːleŋni.
 \mb tiek ŋịn -DE -kEČ  -E  -L    -čE     -s(I)     ọːn teːleŋ -LI     
@@ -872,7 +872,7 @@ evening) I go back.
 \tx Kak... tarakambedʒi         omente         voskresenja bi[sin]           subbotu...
 \mb kak   tarakam       =bEdʒI omen =t(E)    voskresenja bi -RI  -n(I)     subbotu       
 \ps pron  adv                  num           n           v                 n             
-\ge how.R in.those.days =emph  one  =utočnit Sunday.R    be -pst -poss.3sg Saturday.acc.R
+\ge how.R in.those.days =emph  one  =ptl Sunday.R    be -pst -poss.3sg Saturday.acc.R
 \ft In those days only Sunday was free, on Saturdays...
 \ELANBegin 00:05:05.942
 \ELANEnd 00:05:10.882

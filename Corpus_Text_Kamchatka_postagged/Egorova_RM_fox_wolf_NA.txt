@@ -430,7 +430,7 @@ with -n-, so I added another stem in the lexical entry .
 \id Egorova_RM_fox_wolf_029
 \tx Itten,            tardalị           mụnnụkar     ịatakaglị             ewidde.
 \mb it  -R(E)   -n(I) tarak -gIdE -(dU)LI mụnrụkan -L  hịat   -E  -K(Ag) -(dU)LI ewiː -D    -R(E)  
-\ps v                 pron                n            n                         v                 
+\ps v                 pron                n            n                         v                  
 \ge see -nonfut -3sg  dist  -part -prol   hare     -pl willow -ep -nr    -prol   play -prog -nonfut
 
 \ft She sees, on the other side hares are playing in the willows.
@@ -443,7 +443,7 @@ with -n-, so I added another stem in the lexical entry .
 \id Egorova_RM_fox_wolf_030
 \tx Nan    ịrkawaːttan :
 \mb ńaːn ịrka   -WEːČ -R(E)   -n(I)
-\ps adv  v                          
+\ps adv  v                           
 \ge and  scream -gnr  -nonfut -3sg 
 \ft And she cries:
 \ph
@@ -787,7 +787,7 @@ me, čidetki mitli -- move back
 
 \tx tare      ńụːrmaddʒọːttan             ịatakaglị.
 \mb tarak -E  ńụrma    -D    -WEːČ -R(E)   -n(I) hịat   -E  -K(Ag) -(dU)LI
-\ps pron      v                                  n                        
+\ps pron      v                                  n                         
 \ge dist  -ep sneak.up -prog -gnr  -nonfut -3sg  willow -ep -nr    -prol  
 
 \ft Saying that she was comming all the time, the wolf was stalking from the back side of willows.
@@ -801,7 +801,7 @@ me, čidetki mitli -- move back
 \id Egorova_RM_fox_wolf_054
 \tx Nan    tačịneː          goːweːtten                : tiːke emelle            ewuski.
 \mb ńaːn tarọːčịn  =eː   goːn -WEːČ -R(E)   -n(I) tiek em   -E  -(LI)lrE erek -skI     
-\ps adv  pron            n                        adv  v                 pron           
+\ps adv  pron            n                        adv  v                 pron            
 \ge and  dist.qual =emph say  -gnr  -nonfut -3sg  now  come -ep -imp.2pl prox -advb.all
 
 \ft She says: now come closer.
@@ -828,12 +828,12 @@ me, čidetki mitli -- move back
 \id Egorova_RM_fox_wolf_056
 \tx Ńan   čọraka ịrkaladdanasị                              : tarakak   tarakak   ! ŋeːluki
 \mb ńaːn čọraka   ịrka   -L    -E  -D    -R(E)   -n(I) -E  =sI   tarak -Ek tarak -Ek ŋeːluki
-\ps adv  n        v                                              pron      pron      n      
+\ps adv  n        v                                              n      n      n       
 \ge and  magpie.R scream -inch -ep -prog -nonfut -3sg  -ep =emph dist  -nr dist  -nr wolf   
 
 \tx amardalasan!
 \mb amar   -gIdE -(dU)LE -sEn     
-\ps n                              
+\ps n                               
 \ge behind -part -loc    -poss.2pl
 
 \ft At tis moment the magpie cried: Over there! Caw! The wolf is behind you.
@@ -879,7 +879,7 @@ me, čidetki mitli -- move back
 \id Egorova_RM_fox_wolf_061
 \tx Nanesi          ụlịčan  goːnni     :   Čajak,            turkudʒinni           epkuŋe
 \mb ńaːn -E  =sI   hụlịčan goːn -n(I) čaj            -Ek turku       -DʒI -nrI hepken -ŋE      
-\ps adv            n       v          n                  v                     v               
+\ps adv            n       v          n                  v                     v                
 \ge and  -ep =emph fox     say  -3sg  leave.me.alone -nr not.be.able -fut -2sg catch  -nmdl.cvb
 
 \ft The fox says: Leave me, you can't catch me.
@@ -893,7 +893,7 @@ me, čidetki mitli -- move back
 \id Egorova_RM_fox_wolf_063
 \tx Bi   untetki       ordʒim.
 \mb biː honte -t(E)kI hor -DʒI -m  
-\ps pron adj           v             
+\ps pron adj           v              
 \ge 1sg other -all    go  -fut -1sg
 
 \ft I will go to another one.

@@ -269,12 +269,12 @@ the water, we were together (with nature). (i.e. Evens were a part of nature)
 \id Burtsev_ID_traditions_013
 \tx Kụŋalbụːr      irgečeddep,                   ebedit          torem          "bakatïn    ehep
 \mb kụŋa  -L  -WUr     irget -E  -D    -R(E)   -p      ewen -DI   -Č   tore  -n  -W   bụkatïn      e   -R(E)   -p     
-\ps n                  v                               n               v              adv          v                  
+\ps n                  v                               n               n              adv          v                   
 \ge child -pl -prfl.pl raise -ep -prog -nonfut -1pl.in Even -adjr -ins speak -nr -acc completely.Y neg -nonfut -1pl.in
 
 \tx haːr"        goːneketne                  etep              goːne.
 \mb haː  -R       goːn -REk      -E  -tEn      e   -t(E) -p      goːn -R      
-\ps v             v                            v                 n             
+\ps v             v                            v                 n              
 \ge know -neg.cvb say  -cond.cvb -ep -poss.3pl neg -fut  -1pl.in say  -neg.cvb
 \ft We raise our children, if they say "we don't know Even at all" we won't say (that).
 \ph
@@ -467,12 +467,12 @@ Evens won't be anymore, their life will be very poor and troubled.
 
 \tx gerbe bihni,          bujusem,   bujuse...  bujusendu               ńịmaːdụ        gerbe bihinni,
 \mb gerbe bi -R(E)   -n(I) buju -s    buju -s    buju -s    -E  -n  -DU  ńịmaːdụ              gerbe bi -R(E)   -n(I)
-\ps n     v                v          v          v                       v                    n     v               
+\ps n     v                v          v          n                       v                    n     v                
 \ge name  be -nonfut -3sg  hunt -mult hunt -mult hunt -mult -ep -nr -dat share.hunting.spoils name  be -nonfut -3sg 
 
 \tx bihni.
 \mb bi -R(E)   -n(I)
-\ps v                
+\ps v                 
 \ge be -nonfut -3sg 
 \ft Feeding the fire, feeding the earth, apart from that there is what, in the hunt there is the (tradition) called nimat.
 \ph
@@ -487,12 +487,12 @@ and the actual ritual itself is called nimat; bujusendu = v processe oxoty
 \id Burtsev_ID_traditions_026
 \tx Tiːk buo,         tiːke bọlla      tarak ńịmaːdụ        gerbe, ńịmaːdụn           gerbe ačča
 \mb tiek buollaγïna tiek buollaγïna tarak ńịmaːdụ              gerbe ńịmaːdụ              -n  gerbe ačča
-\ps adv  ptl        adv  ptl        pron  v                    n     v                        n     ptl 
+\ps adv  ptl        adv  ptl        pron  v                    n     n                        n     ptl  
 \ge now  dp.Y       now  dp.Y       dist  share.hunting.spoils name  share.hunting.spoils -nr name  neg 
 
 \tx ọːddan.
 \mb ọː     -D    -R(E)   -n(I)
-\ps v                          
+\ps v                           
 \ge become -prog -nonfut -3sg 
 \ft Now, however, that so-called nimadu is disappearing.
 \ru А сейчас это нимаду исчезает.
@@ -514,7 +514,7 @@ and the actual ritual itself is called nimat; bujusendu = v processe oxoty
 \id Burtsev_ID_traditions_028
 \tx Ńịmaːdụn           gerbe, eh, ịaka?
 \mb ńịmaːdụ              -n  gerbe eh ịak 
-\ps v                        n     interj pron
+\ps n                        n     interj pron 
 \ge share.hunting.spoils -nr name  eh what
 \ft What is this so-called nimadun.
 \ru Что такое нимадун.
@@ -525,7 +525,7 @@ and the actual ritual itself is called nimat; bujusendu = v processe oxoty
 \id Burtsev_ID_traditions_029
 \tx Bi   gịačal    dʒe   torre         ụjamkam,          ụjamkamgụ,          bujumgu
 \mb biː gịa    -čEl dʒe    tor   -(dU)LE ụjamkan        -W   ụjamkan        -W   =GU bujun         -W   =GU
-\ps n n           ptl    n             n                   n                       n                      
+\ps n n           ptl    n             n                   n                       n                       
 \ge 1sg friend -com well.Y earth -loc    mountain.sheep -acc mountain.sheep -acc =q  wild.reindeer -acc =q 
 
 \tx bujuseridʒi            maːmị,      bi   gịadị           boːj...   boːjekteːkpin            erew.
@@ -777,7 +777,7 @@ but nowadays, when meat is a rare thing, even the meat of slaughtered domestic r
 \id Burtsev_ID_traditions_047
 \tx Omettu   čakụbak           gerbe omettu   ačča
 \mb omettu   čak    -E  -B   -ČEk gerbe omettu   ačča
-\ps adv      v                    n     adv      ptl 
+\ps adv      n                    n     adv      ptl  
 \ge together gather -ep -med -nr  name  together neg 
 \ft There is no being gathered together.
 \ru Собрание вместе нету.
@@ -788,7 +788,7 @@ but nowadays, when meat is a rare thing, even the meat of slaughtered domestic r
 \id Burtsev_ID_traditions_048
 \tx Teːmi    ńajụkụkan         erek egdʒen ńọka nọrọtọn         biden,                 ńụt
 \mb teːmi     ńańụkụn -KEn     erek egdʒen ńọka  narod    -E  -n(I)     bi -DE       -n(I)     ńụča   
-\ps conj      n              pron adj    n     n                      v                      n       
+\ps conj      n              pron adj    n     n                      v                      n        
 \ge therefore quietly -dim.int prox big    Sakha people.R -ep -poss.3sg be -purp.cvb -poss.3sg Russian
 
 \tx nọrọtọn         biden,                 tar   dọːlan             beribeddep                           mute,
@@ -844,12 +844,12 @@ got lost
 
 \tx dʒaːlbị      ọːn bideŋutne                 haːrị       kụŋa ebedi,     ebedi      torem          eten
 \mb dʒaːl  -J       ọːn bi -DEŋ     -W   -tEn      haː  -RI       kụŋa  ewen -DI   ewen -DI   tore  -n  -W   e   -t(E) -n(I)
-\ps n               pron v                          v              n     n          n          v              v              
+\ps n               pron v                          v              n     n          n          n              v               
 \ge others -prfl.sg how be -pst.ptc -acc -poss.3pl know -impf.ptc child Even -adjr Even -adjr speak -nr -acc neg -fut  -3sg 
 
 \tx ọmŋọr
 \mb ọmŋa   -R      
-\ps v               
+\ps v                
 \ge forget -neg.cvb
 \ft If a child hears all of that, listens to all of that, if it knows a lot about the past, about its own historby, about who his relatives were, a
 knowing child won't forget the Even language.
@@ -900,12 +900,12 @@ knowing child won't forget the Even language.
 \id Burtsev_ID_traditions_054
 \tx Bi   badʒịkar, họː badʒịkar, badʒịč bujusendule                stammers herennewu,
 \mb biː badʒịkar họː  badʒịkar badʒịč buju -s    -E  -n  -(dU)LE stammers hor -E  -nnE     -W       
-\ps pron n        adv  n        adv    v                          interj   v                         
+\ps pron n        adv  n        adv    n                          interj   v                          
 \ge 1sg morning  very morning  early  hunt -mult -ep -nr -loc    stammers go  -ep -nec.ptc -poss.1sg
 
 \tx herennewu.
 \mb hor -E  -nnE     -W       
-\ps v                          
+\ps v                           
 \ge go  -ep -nec.ptc -poss.1sg
 \ft I have to leave for the hunt very early in the morning.
 \ru Я утром очень рано должен ехать на охоту.
@@ -928,7 +928,7 @@ knowing child won't forget the Even language.
 \tx Minduk          nọŋan ejekteːk     ulgimir                "hi  ile           herenni,         ọːk emdʒinni,
 \mb min     -DUk(U) nọŋan e   -jEktEːk ulgim -i      -R       hiː irek  -(dU)LE hor -R(E)   -nrI ọːk  em   -DʒI -nrI
 \ps pron            pron  v            v                      pron pron          v                pron v             
-\ge 1sg.obl -abl    3sg   neg -nec.Y   ask   -ipf??? -neg.cvb 2sg which -loc    go  -nonfut -2sg when come -fut -2sg
+\ge 1sg.obl -abl    3sg   neg -nec.Y   ask   -ipf -neg.cvb 2sg which -loc    go  -nonfut -2sg when come -fut -2sg
 
 \tx ịaw      gennenni,             ịaw      maːnannị?"     goːniken.
 \mb ịak  -W   gel      -nE     -nrI ịak  -W   maː  -nE     -nrI goːn -nIkEn  
@@ -1322,12 +1322,12 @@ the translations)
 
 \tx ọːddakan,                         erek bej uže      meːn stadan           egdʒelbuje..,         erek bi...
 \mb ọː     -D    -REk      -E  -n(I)     erek bej uže       meːn stado  -n(I)     egdʒen -LbE -j    -E  erek bi
-\ps v                                    pron n   adv       pron n                v                     pron v 
+\ps v                                    pron n   adv       pron n                n                     pron v  
 \ge become -prog -cond.cvb -ep -poss.3sg prox man already.R refl herd.R -poss.3sg big    -vr  -agnr -ep prox be
 
 \tx ere  nọŋan ọrọnnị.
 \mb erek nọŋan ọrọn              -n(I)    
-\ps pron pron  n                           
+\ps pron pron  n                            
 \ge prox 3sg   domestic.reindeer -poss.3sg
 \ft And then when that child grows up and has his own family, that person will already have his own growing herd, those are his reindeer.
 \ru Потом когда этот ребенок становится взрослым, когда он имеет свою семью, его стадо увеличивается, это его олени.

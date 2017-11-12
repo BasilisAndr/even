@@ -137,7 +137,7 @@ the collective farm.
 \tx Tarakasị     atịkan  balịkač awụskịwụč         orroːtten,              iːsenič     iːsečinte
 \mb tarak -E  =sI   atịkan    balịkač aw    -skI      =(W)UttE hor -WEːČ -R(E)   -n(I) iːseni   -Č   hiːsečin =t(E)   
 \ps pron            n         adj     pron                     v                       n             n                
-\ge dist  -ep =emph old.woman blind   where -advb.all =indef   go  -gnr  -nonfut -3sg  evenings -ins evening  =utočnit
+\ge dist  -ep =emph old.woman blind   where -advb.all =indef   go  -gnr  -nonfut -3sg  evenings -ins evening  =ptl
 
 \tx ọːdakan.
 \mb ọː     -REk      -E  -n(I)    
@@ -236,7 +236,7 @@ the 1PL form would make more sense
 \tx Awụskịbedʒi        orren             nanda       miːdŋeji                  miːdʒin            tawụr atịkan
 \mb aw    -skI      =bEdʒI hor -R(E)   -n(I) ńaːn =DE  mie      -D(I)ŋE   -J       mie      -DʒI -n(I) tawụr atịkan   
 \ps pron                   v                 adv       v                           v                   pron  n        
-\ge where -advb.all =emph  go  -nonfut -3sg  and  =ptl get.lost -fut.ptcp -prfl.sg get.lost -fut -3sg  this  old.woman
+\ge where -advb.all =emph  go  -nonfut -3sg  and  =ptl get.lost -fut.ptc -prfl.sg get.lost -fut -3sg  this  old.woman
 
 \tx ịasčịddanbadʒị.
 \mb ịa      -sčI   -D    -R(E)   -n(I) =bEdʒI

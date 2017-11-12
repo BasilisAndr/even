@@ -48,7 +48,7 @@ left her incapable of speech.
 \ref 01:21
 \tx Min     eńtilbu          bisiten           ọrọmŋal.
 \mb min     eńtil   -W        bi -RI  -tEn      ọrọn              -mŋE  -L 
-\ps pron    n                 v                 n                          
+\ps pron    n                 v                 n                           
 \ge 1sg.obl parents -poss.1sg be -pst -poss.3pl domestic.reindeer -agnr -pl
 \ft My parents were reindeer herders.
 \ru Мои родители были оленоводами.
@@ -58,12 +58,12 @@ left her incapable of speech.
 \ref 01:26
 \tx Ọrọmŋal                eŋejel    bisiten,          i     min     aːn...  uŋelbu
 \mb ọrọn              -mŋE  -L  eŋeje -L  bi -RI  -tEn      i     min     aːnị     uŋ        -E  -L  -W       
-\ps n                           ?         v                 n  pron    n        n                           
+\ps n                           ?         v                 n  pron    n        n                             
 \ge domestic.reindeer -agnr -pl rich  -pl be -pst -poss.3pl and.R 1sg.obl relative something -ep -pl -poss.1sg
 
 \tx ...  ọːnka     goːnni     ....  radnjaːlbu               umekič ọːja  bisiten,          Adukanovy.
 \mb *... ọːn =kE   goːn -n(I) *.... rodnja.R    -L  -W        umekič họːja bi -RI  -tEn      Adukanovy
-\ps n    pron      v          ?     n                         adv    quant v                 ?         
+\ps n    pron      v          ?     n                         adv    quant v                 ?          
 \ge ***  how =emph say  -3sg  ***   relatives.R -pl -poss.1sg very   many  be -pst -poss.3pl Adukanovs
 
 \ft They were rich reindeer herders and my ... what... how to say... and I had very many relatives, the Adukanovs.
@@ -206,7 +206,7 @@ started to grow potatoes.
 
 \tx debleŋgewur                    gadʒịwaːtta,         Xajrịzọvtakị.
 \mb dʒeb -LEn -ŋ   -GE    -WUr     gadʒị -WEːČ -R(E)   Xajrjuzovo -t(E)kI
-\ps v                              v                   n                 
+\ps n                              v                   n                  
 \ge eat  -nr  -aln -desig -prfl.pl fetch -gnr  -nonfut Xajrjuzovo -all   
 
 \ft They caught and killed bears, in winter they set traps for (furbearing) animals, and to buy food they went to Xajrjuzovo.
@@ -220,7 +220,7 @@ district centre, but it was also further to Esso than to Xajrjuzovo.
 \ref 03:16
 \tx A     Essọːduk    tegeleː bisin,            tarak Kekuk.
 \mb a.R   Essọ -DUk(U) tegeleː bi -RI  -n(I)     tarak Kekuk
-\ps n     n            rel.n   v                 pron  ?     
+\ps n     n            rel.n   v                 pron  ?      
 \ge but.R Esso -abl    far     be -pst -poss.3sg dist  Kekuk
 
 \ft That Kekuk was far from Esso.

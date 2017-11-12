@@ -63,11 +63,11 @@ father of Ekaterina Afanas'evna Krivoshapkina
 \tx Erek ọmọlgọlbụ  ulgimiri                bihekes,                  nọŋartan haːwdị dʒaːltan             butuːnnu
 \mb erek ọmọlga -L  -W   ulgim -i      -RI       bi -REk      -E  -s(I)     nọŋartan hagdị dʒaː     -L  -tEn      bütünnüː  
 \ps pron n               v                       v                          pron     adj   n                      ?         
-\ge prox boy    -pl -acc ask   -ipf??? -impf.ptc be -cond.cvb -ep -poss.2sg 3pl      old   relative -pl -poss.3pl entirely.Y
+\ge prox boy    -pl -acc ask   -ipf -impf.ptc be -cond.cvb -ep -poss.2sg 3pl      old   relative -pl -poss.3pl entirely.Y
 
 \tx bekeččendʒur           ịaka ọrọlčịmŋal.
 \mb bekeč -čEn -dʒUr        ịak  ọrọlčị        -mŋE  -L 
-\ps adv                     pron v                      
+\ps adv                     pron n                       
 \ge all   -dim -ins.prfl.pl what herd.reindeer -agnr -pl
 
 \ft If you are asking about these boys, their old parents are all and completely reindeer herders.
@@ -79,7 +79,7 @@ father of Ekaterina Afanas'evna Krivoshapkina
 \id stado#9_learning_olenevod_007
 \tx Tadụk       ïla    nọŋartan haːra       ọrọm,              kotluːčendukur              haːra,      kụŋal...
 \mb tarak -DUk(U) ïla     nọŋartan haː  -R(E)   ọrọn              -W   kotlen -čEn -DUk(U) -WUr     haː  -R(E)   kụŋa  -L 
-\ps pron          postpos n     v            n                      adj                          v            n         
+\ps pron          postpos n     v            n                      adj                          v            n          
 \ge dist  -abl    since.Y 3pl      know -nonfut domestic.reindeer -acc small  -dim -abl    -prfl.pl know -nonfut child -pl
 
 \tx kotlen kụŋaraptụkụr.

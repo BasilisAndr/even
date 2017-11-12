@@ -32,7 +32,7 @@ spoke Even together. VIA had a serious stroke in 2016 that has left her incapabl
 \ref 11:18
 \tx Nọŋan bisin             ọrọmŋa,            olenevod.
 \mb nọŋan bi -RI  -n(I)     ọrọn              -mŋE  olenevod         
-\ps pron  v                 n                       n                
+\ps pron  v                 n                       n                 
 \ge 3sg   be -pst -poss.3sg domestic.reindeer -agnr reindeer.herder.R
 \ft He was a reindeer herder.
 \ru Он был оленоводом.
@@ -42,7 +42,7 @@ spoke Even together. VIA had a serious stroke in 2016 that has left her incapabl
 \ref 11:20
 \tx Nan    tar   Kirill Innokentevič Twajaːndu    bidmi,             nọŋmaːnda
 \mb ńaːn  tarak Kirill Innokentevič Twajaːn -DU  bi -D    -mI       nọŋmaːn =DE 
-\ps ?     pron  n      ?            n            v                  ?            
+\ps ?     pron  n      ?            n            v                  ?             
 \ge again dist  Cyril  Innokentevič Twajaːn -dat be -prog -cond.cvb 3sg.acc =ptl
 
 \tx tịarụrịn           Twajaːntakị   orden.

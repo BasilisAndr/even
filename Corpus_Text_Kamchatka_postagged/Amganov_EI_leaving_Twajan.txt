@@ -322,7 +322,7 @@ coast, on the Iccha river; dawnaika they called the Itelmens who lived near Sopo
 \id Amganov_EI_leaving_Twajan_025
 \tx Biː kučuken bimi         tetuttiwude                           karawaskakanịč
 \mb biː kočuken bi -mI       tet    -U    -Č   -RI  -W        =DE  korova -s  -kEkEn -E  -Č  
-\ps pron adj     v            v                                     n                         
+\ps pron adj     v            v                                     n                          
 \ge 1sg small   be -cond.cvb put.on -caus -res -pst -poss.1sg =ptl cow.R  -nr -dim   -ep -ins
 
 \ft When I was small I wore a jacket of cowhide.
@@ -339,7 +339,7 @@ byla odeta v teti, biː aːwanịč tetuttiwu = ja byl odet v šapke; (trans.fil
 \id Amganov_EI_leaving_Twajan_026
 \tx Karawaskakan      nọːdkakaneː      bisin,            tetičemu.
 \mb korova -s  -kEkEn nọːd   -kEkEn =eː   bi -RI  -n(I)     teti -čEn -W       
-\ps n                 adj                 v                 n                   
+\ps n                 adj                 v                 n                     
 \ge cow.R  -nr -dim   pretty -dim   =emph be -pst -poss.3sg coat -dim -poss.1sg
 
 \ft My cow-hide jacket was very pretty, my little coat.
@@ -357,7 +357,7 @@ when I said to RME that I hear tetičenu here did she realize that it was tetič
 \id Amganov_EI_leaving_Twajan_027
 \tx Ilewutte                fotografijada     binni,          sestrala         tala,         noːlewu
 \mb irek  -(dU)LE =(W)UttE fotografija  =DE  bi -R(E)   -n(I) sestra   -(dU)LE tarak -(dU)LE noː             -(dU)LE -W       
-\ps n                   n                 v                n                pron          n                                 
+\ps n                   n                 v                n                pron          n                                  
 \ge which -loc    =indef   photograph.R =ptl be -nonfut -3sg  sister.R -loc    dist  -loc    younger.sibling -loc    -poss.1sg
 
 \tx Ljudmilele.
@@ -417,7 +417,7 @@ bukeːttiddiwun = my eli golovki ryby; minu tilkukeniten bukeːttiddiwu = kak ja
 \id Amganov_EI_leaving_Twajan_030
 \tx Biːde    karawas    tetuttem.
 \mb biː =DE  korova -s  tet    -E  -Č   -R(E)   -m  
-\ps pron     n          v                           
+\ps pron     n          v                            
 \ge 1sg =ptl cow.R  -nr put.on -ep -res -nonfut -1sg
 \ft I am wearing the cowhide jacket.
 \ph
@@ -433,7 +433,7 @@ bukeːttiddiwun = my eli golovki ryby; minu tilkukeniten bukeːttiddiwu = kak ja
 \id Amganov_EI_leaving_Twajan_031
 \tx Tarak, tarakam       - adịgụ    ńuŋengu   anŋanụ        bisine                - tilkukendiddeket[en].
 \mb tarak tarakam       adịː     =GU ńuŋen =GU anŋan -W        bi -RI  -n(I)     -E  tilku      -WkEn -D    -REk      -E  -tEn     
-\ps pron  n           ?            num       n               v                     v                                              
+\ps pron  n           ?            num       n               v                     v                                               
 \ge dist  in.those.days how.much =q  six   =q  year  -poss.1sg be -pst -poss.3sg -ep shoot.intr -caus -prog -cond.cvb -ep -poss.3pl
 
 \ft I was then perhaps 6 years old, when we were photographed.
@@ -1037,7 +1037,7 @@ gerbutčoːtten spirt (a VERY direct translation of the Russian...), gerbutčoː
 \tx Nan    iːsečinte          nanda       ńọːndʒịddịwụ       tala          ọːčịddịtkịtan,
 \mb ńaːn hiːsečin =t(E)    ńaːn =DE  ńọːn     -D    -RI  -W        tarak -(dU)LE ọː   -Č   -E  -D    -RI       -t(E)kI -tEn     
 \ps adv  n                 adv       v                             pron          v                                              
-\ge and  evening  =utočnit and  =ptl run.away -prog -pst -poss.1sg dist  -loc    make -res -ep -prog -impf.ptc -all    -poss.3pl
+\ge and  evening  =ptl and  =ptl run.away -prog -pst -poss.1sg dist  -loc    make -res -ep -prog -impf.ptc -all    -poss.3pl
 
 \tx aerodroma.
 \mb aerodrom    -E 
@@ -1230,7 +1230,7 @@ verbs, so I'm leaving it like this.
 \tx Ọrọr              ịkụtịč    ečin      merekinnikerte                 tim...          ụkal  beteken     ọːkan.
 \mb ọrọn              -L  ịkụt     -E  -Č   erroːčin  merekin -nIkEn   -L  =t(E)    *   -Č   -Im    ụkal    beteken     ọː     -kEn    
 \ps n                     adv               pron      v                             ?               adv     n           v              
-\ge domestic.reindeer -pl straight -ep -ins prox.qual circle  -sim.cvb -pl =utočnit *** -res -1sg.Y already packed.snow become -trm.cvb
+\ge domestic.reindeer -pl straight -ep -ins prox.qual circle  -sim.cvb -pl =ptl *** -res -1sg.Y already packed.snow become -trm.cvb
 
 \ft The reindeer circled like this until (the snow) became packed.
 \ph
@@ -1430,7 +1430,7 @@ Amganov_Twajan_quest2, 36:00)
 \id Amganov_EI_leaving_Twajan_094
 \tx Poll[e]         ečin      girkeriten            ukleːkkekun                    tala.
 \mb pol     -(dU)LE erroːčin  girke  -RI  -tEn      hukle -ČEk -GE    -WUn         tarak -(dU)LE
-\ps n               pron      v                     v                              pron         
+\ps n               pron      v                     n                              pron          
 \ge floor.R -loc    prox.qual spread -pst -poss.3pl sleep -nr  -desig -poss.1pl.ex dist  -loc   
 
 \ft They spread bedding for us on the floor like this.
@@ -1445,7 +1445,7 @@ Amganov_Twajan_quest2, 36:00)
 \id Amganov_EI_leaving_Twajan_095
 \tx Tadụ     ukleriwun               nan    tịmịn  badịkar   avtọbụsamkaral     emniten.
 \mb tarak -DU  hukle -RI  -WUn         ńaːn tịmịna   badʒịkar avtobus -E  -mkEr -E  -L  em   -RI  -tEn     
-\ps pron       v                       adv  n      n        n                         v                   
+\ps pron       v                       adv  n      n        n                         v                    
 \ge dist  -dat sleep -pst -poss.1pl.ex and  tomorrow morning  bus.R   -ep -aug  -ep -pl come -pst -poss.3pl
 
 \ft There we slept and in the morning big busses came.
@@ -1758,7 +1758,7 @@ much sense to me.
 \tx Essoːdu  adịw        dʒoːrbet             ineŋu     iŋdʒeːŋčiridʒur       tardatkị          Ketačantakị   badụsnụ.
 \mb Esso -DU  adịː     -W   dʒoːr -W   =t(E)    ineŋ -W   iŋdʒeːŋči -RIdʒI   -L  tarak -gIdE -t(E)kI Ketačan  -t(E)kI badụ -s(E)n -(R)U  
 \ps n         n             num                 n         v                      pron                n                v                  
-\ge Esso -dat how.much -acc two   -acc =utočnit day  -acc spend.day -ant.cvb -pl dist  -part -all    Ketachan -all    ride -lim   -1pl.ex
+\ge Esso -dat how.much -acc two   -acc =ptl day  -acc spend.day -ant.cvb -pl dist  -part -all    Ketachan -all    ride -lim   -1pl.ex
 
 \ft We spent two days in Esso and rode off to the Ketachan.
 \ELANBegin 00:09:43.934
@@ -1771,7 +1771,7 @@ much sense to me.
 \tx Nan    tadụ     tar   bisiwun.
 \mb ńaːn tarak -DU  tarak bi -RI      -WUn        
 \ps adv  pron       pron  v                       
-\ge and  dist  -dat dist  be -ipf.ptc -poss.1pl.ex
+\ge and  dist  -dat dist  be -impf.ptc -poss.1pl.ex
 \ft And there we lived.
 \ELANBegin 00:09:50.434
 \ELANEnd 00:09:53.333
@@ -1839,7 +1839,7 @@ they said in conversation, so I left the English translation like that.
 \tx Nan    goːniwu,            ọːnka     goːweːttiŋeten                 šafjọraddịwụ,             ọːddịwụ
 \mb ńaːn goːn -RI  -W        ọːn =kE   goːn -WEːČ -D(I)ŋE   -tEn      šofer    -E  -D    -RI  -W        ọː     -D    -RI  -W       
 \ps adv  v                   pron      v                              v                                 v                          
-\ge and  say  -pst -poss.1sg how =emph say  -gnr  -fut.ptcp -poss.3pl driver.R -ep -prog -pst -poss.1sg become -prog -pst -poss.1sg
+\ge and  say  -pst -poss.1sg how =emph say  -gnr  -fut.ptc -poss.3pl driver.R -ep -prog -pst -poss.1sg become -prog -pst -poss.1sg
 
 \tx šafjọraŋgawụr.
 \mb šofer    -E  -ŋ   -GE    -WUr    
@@ -1971,7 +1971,7 @@ they said in conversation, so I left the English translation like that.
 \tx Nan    armịjagịt  tarịdʒittịtta emnidʒi      talata                  sovxoztakị          gurgeːwčineriwu.
 \mb ńaːn armija.R -GIČ  tarịdʒịt =tIt em   -RIdʒI   tarak -(dU)LE =t(E)    sovxoz        -t(E)kI gurgeːwči -nE     -RI  -W       
 \ps adv  n              adv           v             pron                   n                     v                               
-\ge and  army.R   -elat at.once  =ptl come -ant.cvb dist  -loc    =utočnit soviet.farm.R -all    work      -intent -pst -poss.1sg
+\ge and  army.R   -elat at.once  =ptl come -ant.cvb dist  -loc    =ptl soviet.farm.R -all    work      -intent -pst -poss.1sg
 
 \ft And having returned from the army I immediately went back to work in the State farm.
 \ph
@@ -1986,7 +1986,7 @@ they said in conversation, so I left the English translation like that.
 \tx Tarakat             egdʒekeje      mahịna  bihin,            ZILstotridzitadin.
 \mb tarak -E  =t(E)    egdʒen -kEːjE mašịna bi -RI  -n(I)     ZILstotridzitpervyj
 \ps pron               adj           n      v                 ?                  
-\ge dist  -ep =utočnit big    -aug   car.R  be -pst -poss.3sg ZIL131             
+\ge dist  -ep =ptl big    -aug   car.R  be -pst -poss.3sg ZIL131             
 
 \ft There was that big car again, ZIL131.
 \ELANBegin 00:11:17.339
@@ -2003,7 +2003,7 @@ they said in conversation, so I left the English translation like that.
 
 \tx Bystryjemŋelbe          eweski         Essoːtkị  emudʒilliwunesi                                  tar.
 \mb Bystroj -E  -mŋE -L  -W   erek -skI      Esso -t(E)kI em   -U    -D    -L    -RI  -WUn         -E  =sI   tarak
-\ps n                         pron           n            v                                                  pron 
+\ps n                         pron           n            v                                                  pron  
 \ge Bystroe -ep -nr  -pl -acc prox -advb.all Esso -all    come -caus -prog -inch -pst -poss.1pl.ex -ep =emph dist 
 
 \ft And in the year '73, to say it in Even nadanmịar ịlịlan, we started moving the Bystroj-ans here to Esso. 
@@ -2016,7 +2016,7 @@ they said in conversation, so I left the English translation like that.
 \id Amganov_EI_leaving_Twajan_131
 \tx Tarịt    nan    egdʒekeječ         mahịnač     ịrụwaːčịdʒịllịwụ                     bejelbe     Essoːtkị.
 \mb tarak -Č   ńaːn egdʒen -kEːjE -Č   mašịna -Č   ịr   -U    -WEːČ -E  -D    -E  -L    -RI  -W        bej -L  -W   Esso -t(E)kI
-\ps n       adv  adj                n           v                                                   n            n            
+\ps n       adv  adj                n           v                                                   n            n             
 \ge dist  -ins and  big    -aug   -ins car.R  -ins cart -caus -gnr  -ep -prog -ep -inch -pst -poss.1sg man -pl -acc Esso -all   
 
 \ft Then I started transporting people to Esso with the big truck.

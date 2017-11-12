@@ -207,7 +207,7 @@ much shorter than the other "tiːk" in the sentence, and so I decided to rather 
 \tx Esni           iːni biše.
 \mb e   -R(E) -n(I) iːni bi -R      
 \ps v               ?    v          
-\ge neg -nfut -3sg  life be -neg.cvb
+\ge neg -nonfut -3sg  life be -neg.cvb
 \ft This isn't a life.
 \ev
 \ru Это не жизнь.
@@ -761,7 +761,7 @@ and said "bi bihem", and some said "bi bisem" and then "bi bišem" - which makes
 \tx Esni,          ńụːčịdịč.
 \mb e   -R(E) -n(I) ńụča    -DI   -Č  
 \ps v               n                 
-\ge neg -nfut -3sg  Russian -adjr -ins
+\ge neg -nonfut -3sg  Russian -adjr -ins
 \ft No, in Russian.
 \ev
 \ru Нет порусски

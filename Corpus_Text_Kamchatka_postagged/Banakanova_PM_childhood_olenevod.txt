@@ -189,7 +189,7 @@ turned 12); eregelTE = VSEGDA, usilivaet
 \tx čelelente                     gurgele.
 \mb čele -(dU)LE -n(I)     =t(E)    gurgeː -(dU)LE
 \ps n                               n             
-\ge all  -loc    -poss.3sg =utočnit work   -loc   
+\ge all  -loc    -poss.3sg =ptl work   -loc   
 
 \ft And I was always in the fishing camp with my parents, I helped (them) in all the work.
 \ev
@@ -337,7 +337,7 @@ time
 \tx Tarakam       abalta         bisin.
 \mb tarakam       abal =t(E)    bi -RI  -n(I)    
 \ps adv           adj           v                
-\ge in.those.days few  =utočnit be -pst -poss.3sg
+\ge in.those.days few  =ptl be -pst -poss.3sg
 \ft In those days there were very few (herders).
 \ev
 \ru Тогда мало было
@@ -351,7 +351,7 @@ time
 \tx Ọrbun                        ọːja  bisiten,          a     abalta...
 \mb ọrọn              -WUn         họːja bi -RI  -tEn      a.R   abal =t(E)   
 \ps n                              quant v                 ?     adj          
-\ge domestic.reindeer -poss.1pl.ex many  be -pst -poss.3pl but.R few  =utočnit
+\ge domestic.reindeer -poss.1pl.ex many  be -pst -poss.3pl but.R few  =ptl
 \ft We had a lot of reindeer, but there were very few (herders).
 \ev
 \ru Оленей много было, а (людей) мало совсем
@@ -553,7 +553,7 @@ the past.
 \tx Tarma on   esni           ajịč      dọldar,        ịa... iaŋannen.
 \mb tarma on   e   -R(E) -n(I) aj   -E  -Č   dọlda -R       hieŋan  -R(E)   -n(I)
 \ps conj  pron v               adj           v              v                    
-\ge but   he.R neg -nfut -3sg  good -ep -ins hear  -neg.cvb be.deaf -nonfut -3sg 
+\ge but   he.R neg -nonfut -3sg  good -ep -ins hear  -neg.cvb be.deaf -nonfut -3sg 
 
 \ft But he doesn't hear well, he's becoming deaf.
 \ph
@@ -851,7 +851,7 @@ saddlebags, big bags.
 \ref
 \tx Tarakamasi              dʒepleŋunda                    ačča bisin.
 \mb tarakam       -E  =sI   dʒeb -LE -ŋ   -WUn         =DE  ačča bi -RI  -n(I)    
-\ps adv                     v                               ptl  v                
+\ps adv                     n                               ptl  v                 
 \ge in.those.days -ep =emph eat  -nr -aln -poss.1pl.ex =ptl neg  be -pst -poss.3sg
 \ft At that time we also didn't have any food.
 \ev
@@ -865,7 +865,7 @@ saddlebags, big bags.
 \ref
 \tx Ọrọn          ullečemen                   oleːsnoːttu,               taraw      badʒịkar
 \mb ọrọn              ulre -čEn -W   -E  -n(I)     oleː -s(E)n -WEːČ -(R)U   tarak -W   badʒịkar
-\ps n                 n                            v                         pron       n        
+\ps n                 n                            v                         pron       n         
 \ge domestic.reindeer meat -dim -acc -ep -poss.3sg cook -lim   -gnr  -1pl.ex dist  -acc morning 
 
 \tx dʒebesno(ːttu)             i     iːsečin  uže      aːtaralčaw               emedʒeːnnu          kus...
@@ -1010,7 +1010,7 @@ postojanno tuda sjuda
 \tx Aːmalkariwun,                 tarakamta               kụŋal    bimi,        aγdịγnumi.
 \mb haː  -mElčI -RI  -WUn         tarakam       =t(E)    kụŋa  -L  bi -mI       hagdị -g   -ńUn -J      
 \ps v                             adv                    n         v            adj                     
-\ge know -acclr -pst -poss.1pl.ex in.those.days =utočnit child -pl be -cond.cvb old   -adj -com -prfl.sg
+\ge know -acclr -pst -poss.1pl.ex in.those.days =ptl child -pl be -cond.cvb old   -adj -com -prfl.sg
 \ft And we learned at that time, when we were children, with our older (brother).
 \ph
 \gr aγdị = staryj, aγdịγ = starshij
@@ -1096,7 +1096,7 @@ postojanno tuda sjuda
 \tx Ịandatit                enni...        ịawandat                     ešu
 \mb ịak  -n(I)     =DE  =tIt e   -R(E) -n(I) ịak  -W   -n(I)     =DE  =tIt e   -R(E)   -(R)U  
 \ps pron                     v               pron                          v                  
-\ge what -poss.3sg =ptl =ptl neg -nfut -3sg  what -acc -poss.3sg =ptl =ptl neg -nonfut -1pl.ex
+\ge what -poss.3sg =ptl =ptl neg -nonfut -3sg  what -acc -poss.3sg =ptl =ptl neg -nonfut -1pl.ex
 
 \tx ušiŋeččoːtte.
 \mb usiŋ  -E  -Č   -WEːČ -R(E)  

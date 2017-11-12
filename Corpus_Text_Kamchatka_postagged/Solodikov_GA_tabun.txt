@@ -269,7 +269,7 @@ xozhu; gịsammọːtta
 \ref
 \tx Ńan   dʒụːtkị    dagịmnịdʒị     ńan   dʒawasakla                  emmoːtte.
 \mb ńaːn dʒụː  -t(E)kI dagịm        -RIdʒI   ńaːn dʒaw       -E  -ČEk -(dU)LE em   -WEːČ -R(E)  
-\ps adv  n             v                     adv  v                           v                 
+\ps adv  n             v                     adv  n                           v                  
 \ge and  house -all    bring.closer -ant.cvb and  catch.hold -ep -nr  -loc    come -gnr  -nonfut
 
 \ft And having chased them close to the house they come to the place where one catches reindeer (=djawasak).
@@ -287,7 +287,7 @@ dictionary dagam- = priblizitsja
 \ref
 \tx Ńan   kurukenedʒilloːtte.
 \mb ńaːn kuruken -E  -D    -L    -WEːČ -R(E)  
-\ps adv  v                                     
+\ps adv  v                                      
 \ge and  circle  -ep -prog -inch -gnr  -nonfut
 \ft And they start to circle.
 \ph
@@ -1846,7 +1846,7 @@ segodnjashnego dnja
 \ref
 \tx Ńọːŋńadʒak.
 \mb ńọːńa  -ČEk
-\ps n          
+\ps n           
 \ge faeces -nr 
 \ft Where they shit.
 \ELANBegin 00:11:34.436
@@ -1915,7 +1915,7 @@ segodnjashnego dnja
 \ref
 \tx Kụjụl, ọkaːt.
 \mb Kụjụl ọkaːt
-\ps n     n     
+\ps n     n      
 \ge Kujul river
 
 \ELANBegin 00:11:52.793
@@ -2150,7 +2150,7 @@ segodnjashnego dnja
 \tx Esni,          esni,
 \mb e   -R(E) -n(I) e   -R(E) -n(I)
 \ps v               v              
-\ge neg -nfut -3sg  neg -nfut -3sg 
+\ge neg -nonfut -3sg  neg -nonfut -3sg 
 \ft no, no
 \ph
 \nt The first "no" is in response to the suggestion by people in the background that the mountain is called Jangijangaj, the second "no" is in
@@ -2179,7 +2179,7 @@ know that area very well
 \tx esni,          ịmannalkankana.
 \mb e   -R(E) -n(I) ịmanra -lkEn =kEnE 
 \ps v               ?                  
-\ge neg -nfut -3sg  snow   -prop =contr
+\ge neg -nonfut -3sg  snow   -prop =contr
 \ft No, it's got SNOW.
 \ph
 \nt Clearly said in response to the third suggestion of a name coming from the background.

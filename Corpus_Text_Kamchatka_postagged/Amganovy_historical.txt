@@ -299,7 +299,7 @@ special plural); however, this suffix might of course very well go back to the a
 
 \tx Twajaːmŋịl     bidditen.
 \mb Twajaːn -mŋE  -L  bi -D    -RI  -tEn
-\ps ?                 v
+\ps n                 v 
 \ge Twajaːn -agnr -pl be -prog -pst -poss.3pl
 
 \ft EIA: Here to the (river) Bystraja, to dense forest they brought (them), and there the Tvajan Evens started to live.
@@ -313,7 +313,7 @@ having hard vowels
 \ref 6:53
 \tx Aːngịlda,    min     uŋilbu                    [eńtilbu]        eńtilbu          ịkụtịč    amaskị
 \mb haːn  -SEl =DE  min     uŋ        -E  -L  -W        eńtil   -W        eńtil   -W        ịkụt     -E  -Č   amar   -skI
-\ps n           pron    n                           n                 n                 adv               ? 
+\ps n           pron    n                           n                 n                 adv               ?  
 \ge other -pl  =ptl 1sg.obl something -ep -pl -poss.1sg parents -poss.1sg parents -poss.1sg straight -ep -ins behind -advb.all
 
 \tx badụsnịtan.

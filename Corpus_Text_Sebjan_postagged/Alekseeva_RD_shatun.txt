@@ -27,12 +27,12 @@ in the school as psychologist at the time of the recording; every summer, howeve
 \id Alekseeva_RD_shatun_002
 \tx Tarak bọllaγïna axsaːn    kụŋọ... ọrọlčị... ọrọm               taŋannị
 \mb tarak buollaγïna axsaːn     kụŋọ ọrọlčị        ọrọn              -W   taŋ   -E  -n  -n(I)    
-\ps pron  ptl        v          ?    v             n                      n                      
+\ps pron  ptl        v          ?    v             n                      n                       
 \ge dist  dp.Y       counting.Y ***  herd.reindeer domestic.reindeer -acc count -ep -nr -poss.3sg
 
 \tx ọdčalan                  dʒaːlbụ            eleːr                Kụrụŋnaːx gerbe mestnost' bisni,
 \mb ọd   -čE     -(dU)LE -n(I)     dʒaː     -L  -W        erek -(dU)LE -WUr     Kụrụŋnaːx gerbe mestnost' bi -R(E)   -n(I)
-\ps v                              n                      pron                  ?         n     n         n                
+\ps v                              n                      pron                  ?         n     n         n                 
 \ge stop -pf.ptc -loc    -poss.3sg relative -pl -poss.1sg prox -loc    -prfl.pl Kurungnax name  area.R    be -nonfut -3sg 
 
 \tx axs...   dʒapkan, dʒapkịs      stada.
@@ -206,7 +206,7 @@ peresprašivala 'ona govorit patakalča'? bi patụkram/patakram = ja b'ju
 \tx Tünnük, tünnük bọlla      östüküle ehni           bihe,       halapaːn.
 \mb tünnük   tünnük   buollaγïna steklo  e   -R(E) -n(I) bi -R       celofan  
 \ps n        n        ptl        n       v               v           n        
-\ge window.Y window.Y dp.Y       glass.R neg -nfut -3sg  be -neg.cvb plastic.R
+\ge window.Y window.Y dp.Y       glass.R neg -nonfut -3sg  be -neg.cvb plastic.R
 \ft And the window isn't (made of) glass, it's plastic.
 \ph östüküle, halapaːn - Sakha pronunciation of Russian copies
 \ru А окно не стекланное, целофанное.
@@ -405,7 +405,7 @@ form have an initial h-, also drop it, ịmmat is one of them
 \tx Tar   etiken   dọldača      ịakgọl   korgoddiwen                             kụːnịddịwan.
 \mb tarak etikeːn dọlda -čE     ịak  =(W)Ul kerge -D    -RI      -W   -E  -n(I)     kụːnị  -D    -RI      -W   -E  -n(I)    
 \ps pron  n       v             pron        v                                       v                                       
-\ge dist  old.man hear  -pf.ptc what =indef growl -prog -ipf.ptc -acc -ep -poss.3sg scream -prog -ipf.ptc -acc -ep -poss.3sg
+\ge dist  old.man hear  -pf.ptc what =indef growl -prog -impf.ptc -acc -ep -poss.3sg scream -prog -impf.ptc -acc -ep -poss.3sg
 \ft That old man heard that something was growling, screaming.
 \ru Старик услышал что что-то там кричит, рычит.
 \ELANBegin 00:03:05.406
@@ -431,12 +431,12 @@ razbudivšij naročno; mịalụkanča =razbudivšij, no ne naročno, m.b. šume
 \id Alekseeva_RD_shatun_029
 \tx Tar   ọmọlgọ emie   ọrọlčịmŋa,  dʒapkịs      stadala,       nụŋaw     garịdʒị
 \mb tarak ọmọlga emie   ọrọlčị        -mŋE  dʒapkan -Is    stado  -(dU)LE nụŋa -W   ga   -RIdʒI  
-\ps pron  n      adv    v                   num            n              n         v            
+\ps pron  n      adv    n                   num            n              n         v             
 \ge dist  boy    also.Y herd.reindeer -agnr eight   -ord.Y herd.R -loc    gun  -acc take -ant.cvb
 
 \tx tutelde...             itteken,                    ịakgọl   ịaldańa meːkukečče                  dʒụː hatlịn.
 \mb tut -E  -L    -DE       it  -REk      -E  -n(I)     ịak  =(W)Ul ịalrańa    meːkuk        -E  -Č   -čE     dʒụː  hat  -(dU)LI -n(I)    
-\ps v                       v                           pron        n        v                              n     rel                    
+\ps v                       v                           pron        n        v                              n     rel                     
 \ge run -ep -inch -purp.cvb see -cond.cvb -ep -poss.3sg what =indef coal.black thrash.around -ep -res -pf.ptc house base -prol   -poss.3sg
 
 \ft That boy is also a reindeer herder in the eighth brigade, he took his gun and ran, and sees, something is moving next to the house.
@@ -570,7 +570,7 @@ agreement is frequently omitted in Sebjan
 \tx Tadụk       tarbačan      maːwdʒịlịlkan bọlla                     šatun                 ehni           huklehŋerer.
 \mb tarak -DUk(U) tarọːčịn  magdʒịlị -lkEn buol  -dEg      -E          šatun                  e   -R(E) -n(I) hukle -s(E)n -Gr(E) -R      
 \ps pron          pron      n              v                           n                      v               v                           
-\ge dist  -abl    dist.qual insect   -prop aux.Y -assert.Y -poss.3sg.Y non.hibernating.bear.R neg -nfut -3sg  sleep -lim   -hab   -neg.cvb
+\ge dist  -abl    dist.qual insect   -prop aux.Y -assert.Y -poss.3sg.Y non.hibernating.bear.R neg -nonfut -3sg  sleep -lim   -hab   -neg.cvb
 
 \ft A bear with such worms doesn't hibernate.
 \ph maːwdʒịlịlkam - obviously regressive assimilation to bọlla

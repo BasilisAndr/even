@@ -37,7 +37,7 @@ the shops in the village at the time of recording. Brother of Zoja Afanas'evna S
 
 \tx čakụptụdʒụr         hebdʒekidʒek     ọːwrar,              ọːwrarịtan.
 \mb čak    -E  -B   -RIdʒI   -L  hebdʒek   -E  -ČEk ọː     -Gr(E)      -r   ọː     -Gr(E) -RI  -tEn     
-\ps v                            v                  v                       v                           
+\ps v                            n                  v                       v                            
 \ge gather -ep -med -ant.cvb -pl celebrate -ep -nr  become -hab.nonfut -3pl become -hab   -pst -poss.3pl
 \ft When the month of March, to say it in Russian, ends, when the sun gets warmer and the days become longer, Evens gathered in
 one place and made a holiday.
@@ -48,12 +48,12 @@ one place and made a holiday.
 \ref 0:34
 \tx Tarak hebdʒekiček        enni amarra         slet_olenovodov             gerbe ọːrịn,            ineŋin
 \mb tarak hebdʒek   -i   -ČEk amar   -(dU)LE slet_olenovodov             gerbe ọː     -RI  -n(I)     ineŋ -E  -n(I)    
-\ps pron  n                   n              ?                           n     v                     n                  
+\ps pron  n                   n              ?                           n     v                     n                    
 \ge dist  celebrate -ipf -nr  behind -loc    meeting.of.reindeer.herders name  become -pst -poss.3sg day  -ep -poss.3sg
 
 \tx ọːrịn.
 \mb ọː     -RI  -n(I)    
-\ps v                     
+\ps v                      
 \ge become -pst -poss.3sg
 
 \ft This celebration later on was named the Meeting of the Reindeer-Herders, became the day (of the reindeer herders).
@@ -66,12 +66,12 @@ one place and made a holiday.
 \ref 0:43
 \tx Tadụ     ọrọlčịmŋal      ịbgọ ọrmụr,                 ịbgọ ńọgụhụtụːr
 \mb tarak -DU  ọrọlčị        -mŋE  -L  ịbgọ ọrọn              -WUr     ịbgọ ńọgụhụt       -WUr    
-\ps pron       v                       ?    n                          ?    n                     
+\ps pron       n                       ?    n                          ?    n                      
 \ge dist  -dat herd.reindeer -agnr -pl good domestic.reindeer -prfl.pl good lead.reindeer -prfl.pl
 
 \tx ụčakụːr            umuridʒur              dʒe   iečimekkereridnen.
 \mb ụčak            -WUr     em   -U    -RIdʒI   -L  dʒe    ie       -sčI   -mEČ -Gr(E) -RI  -tEn     
-\ps ?                        n                       ptl    v                                          
+\ps ?                        n                       ptl    v                                           
 \ge riding.reindeer -prfl.pl come -caus -ant.cvb -pl well.Y overtake -conat -rec -hab   -pst -poss.3pl
 
 \ft There reindeer herders brought their good reindeer, their good lead reindeer, their good riding reindeer and compete (with
@@ -118,12 +118,12 @@ restricted to humans, so it doesn't really make sense to me
 \ref 1:16
 \tx Họː aj   hebdʒekidʒek      biwren,         tala          họːja ŋiː ńimerel         emgerer,
 \mb họː  aj   hebdʒek   -i  -ČEk bi -Gr(E) -n(I) tarak -(dU)LE họːja ŋiː ńimer     -E  -L  em   -Gr(E) -r  
-\ps adv  adj  v                  v               pron          quant pron n                 v               
+\ps adv  adj  n                  v               pron          quant pron n                 v                
 \ge very good celebrate -ep -nr  be -hab   -3sg  dist  -loc    many  who neighbour -ep -pl come -hab   -3pl
 
 \tx hontede    torelduk             emgerer.
 \mb honte =DE  tor   -E  -L  -DUk(U) em   -Gr(E) -r  
-\ps adj        n                     n                
+\ps adj        n                     n                 
 \ge other =ptl earth -ep -pl -abl    come -hab   -3pl
 
 \ft It is (always, usually) a very good holiday, there come very many families, they even come from other places.
@@ -154,12 +154,12 @@ restricted to humans, so it doesn't really make sense to me
 \ref 1:42
 \tx Otton tadụ     haːmaj, ee, ịbgọ ọrọlčịmŋalbụ       heŋ... họː ńarịlbụ,    ahalbụ       tadụ
 \mb otton tarak -DU  samyj  ee ịbgọ ọrọlčị        -mŋE  -L  -W   họː  ńarị -L  -W   asị   -L  -W   tarak -DU 
-\ps ?     pron       adj    interj ?    v                            adv  n             n              pron      
+\ps ?     pron       adj    interj ?    n                            adv  n             n              pron       
 \ge dp.Y  dist  -dat most.R eh good herd.reindeer -agnr -pl -acc very man  -pl -acc woman -pl -acc dist  -dat
 
 \tx prizalbu            boːwrer,             nagradalbụ     boːwrer,             tadụ     ŋiː ịbgọt     gurgeːwčiče
 \mb priz    -E  -L  -W   boː  -Gr(E)      -r   nagrada -L  -W   boː  -Gr(E)      -r   tarak -DU  ŋiː ịbgọ -Č   gurgeːwči -čE    
-\ps n                    v                     n                v                     pron       n n         v                 
+\ps n                    v                     n                v                     pron       n n         v                  
 \ge prize.R -ep -pl -acc give -hab.nonfut -3pl prize   -pl -acc give -hab.nonfut -3pl dist  -dat who good -ins work      -pf.ptc
 
 \tx gurgelken,    ee tar   mụdakča      gurgeːj         ịbgọt     mụdakča      bejeldu,        gurgewur
@@ -186,7 +186,7 @@ people who did good work, to those who finished their work well.
 
 \tx họːtawraram                   ńọkadịt       ńụčịdịt     torelbu            torehŋererem.
 \mb họːta        -Gr(E) -R(E)   -m   ńọka  -DI   -Č   ńụča    -DI   -Č   tore  -n  -L  -W   tore  -s(E)n -Gr(E) -m  
-\ps v                                n                n                  v                  v                       
+\ps v                                n                n                  n                  v                        
 \ge get.confused -hab   -nonfut -1sg Sakha -adjr -ins Russian -adjr -ins speak -nr -pl -acc speak -lim   -hab   -1sg
 
 \ft I am shy (about speaking) Even in front of the camera, therefore I make many mistakes, say Sakha and Russian words.
@@ -199,7 +199,7 @@ people who did good work, to those who finished their work well.
 \ref 2:24
 \tx Otton kameradu    omneken        dʒoːreken       toreče       bejdu    họː herkehnimdes,              ọnọn
 \mb otton kamera -DU  omen -REkEn    dʒoːr -REkEn    tore  -čE     bej -DU  họː  herkeń     -RI       -mdEs ọnọn       
-\ps ?     n           num            n             v             n        adv  v                          ?           
+\ps ?     n           num            n             v             n        adv  v                          ?            
 \ge dp.Y  camera -dat one  -iter.adv two   -iter.adv speak -pf.ptc man -dat very be.ashamed -impf.ptc -sml  therefore.Y
 
 \tx če...

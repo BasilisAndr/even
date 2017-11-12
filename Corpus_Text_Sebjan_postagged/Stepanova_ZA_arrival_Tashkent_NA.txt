@@ -23,7 +23,7 @@ very interested in Even folklore and language. Sister of Afanasij Afanas'evič S
 \id Stepanova_ZA_arrival_Tashkent_001
 \tx Tarịt omneken,       ịaw,     Taškendụla    ọːn heredʒeːki           ịadakụ(n)               dʒi.
 \mb tarịt omen -REkEn    ịak  -W   Taškent  -(dU)LE ọːn hor -E  -ČEk -J       ịa      -DE       -W        diː  
-\ps adv   num            pron      n                pron v                     v                           ptl  
+\ps adv   num            pron      n                pron n                     v                           ptl   
 \ge then  one  -iter.adv what -acc Tashkent -loc    how go  -ep -nr  -prfl.sg do.what -purp.cvb -poss.1sg ptl.Y
 
 \ft Let me do (tell), how I went to Tashkent once.
@@ -39,7 +39,7 @@ risovanie, ọːn ọːńadʤaːkụ / ọńadʒakụ dʒugulin -- kak ja risova
 \id Stepanova_ZA_arrival_Tashkent_002
 \tx Adị    anŋanịlkan bihiw?
 \mb adịː     anŋan -lkEn bi -RI  -W       
-\ps ?        n           v                 
+\ps ?        n           v                  
 \ge how.much year  -prop be -pst -poss.1sg
 
 \ft How old was I?
@@ -78,7 +78,7 @@ risovanie, ọːn ọːńadʤaːkụ / ọńadʒakụ dʒugulin -- kak ja risova
 \id Stepanova_ZA_arrival_Tashkent_005
 \tx Tarịt dụkran            dụkandụlaj                 ečin      goːnni,    ečin      ịača,        ọńača:
 \mb tarịt dụk   -R(E)   -n(I) dụk   -E  -n  -(dU)LE -J       erroːčin  goːn -n(I) erroːčin  ịa      -čE     ọńa  -čE    
-\ps adv   v                   v                              pron      v          pron      v               v           
+\ps adv   v                   n                              pron      v          pron      v               v            
 \ge then  write -nonfut -3sg  write -ep -nr -loc    -prfl.sg prox.qual say  -3sg  prox.qual do.what -pf.ptc draw -pf.ptc
 
 \ft So she wrote in her letter, said it, did somewhat, draw:
@@ -90,7 +90,7 @@ risovanie, ọːn ọːńadʤaːkụ / ọńadʒakụ dʒugulin -- kak ja risova
 \id Stepanova_ZA_arrival_Tashkent_006
 \tx Pọrtla          emdʒinni,      emnidʒi      avtọvọkzalla       emdʒinni,      avtọvọkzaldụk    erroːčin
 \mb pọrt      -(dU)LE em   -DʒI -nrI em   -RIdʒI   avtọvọkzal    -(dU)LE em   -DʒI -nrI avtọvọkzal    -DUk(U) erroːčin 
-\ps n                 v              n             n                     v              n                     pron      
+\ps n                 v              n             n                     v              n                     pron       
 \ge airport.R -loc    come -fut -2sg come -ant.cvb bus.station.R -loc    come -fut -2sg bus.station.R -abl    prox.qual
 
 \tx trollejbusla          tewdʒinni.
@@ -494,12 +494,12 @@ me, an old one,  an uzbek old man.
 \tx Ili           talị        biweːčiddidʒur,               bejtenduk          ulgimisčin,
 \mb irek  -(dU)LI tarak -(dU)LI bi -WEːČ -E  -D    -RIdʒI   -L  bej -tEn   -DUk(U) ulgim -I    -sčI   -n(I)
 \ps pron          pron          v                               n                  v                       
-\ge which -prol   dist  -prol   be -gnr  -ep -prog -ant.cvb -pl man -distr -abl    ask   -ipf? -conat -3sg 
+\ge which -prol   dist  -prol   be -gnr  -ep -prog -ant.cvb -pl man -distr -abl    ask   -ipf -conat -3sg 
 
 \tx ulgimisčin:
 \mb ulgim -i      -sčI   -n(I)
 \ps v                         
-\ge ask   -ipf??? -conat -3sg 
+\ge ask   -ipf -conat -3sg 
 
 \ft Having been everywhere, he tried to aks, tried to ask everybody.
 \ph ulgumisčin!!!
@@ -582,7 +582,7 @@ should be a taxist.
 \tx "Ile          bihni            Sarïkul'skaja ulica?" -- goːniken,     ulgimitni.
 \mb irek  -(dU)LE bi -R(E)   -n(I) Sarïkul'skaja ulica    goːn -nIkEn   ulgim -I    -n(I)
 \ps pron          v                ?             n        v             v                
-\ge which -loc    be -nonfut -3sg  Sarïkul'skaja street.R say  -sim.cvb ask   -ipf? -3sg 
+\ge which -loc    be -nonfut -3sg  Sarïkul'skaja street.R say  -sim.cvb ask   -ipf -3sg 
 
 \ft "Where is the Sarakoljskaja street?" -- he asks.
 \ph

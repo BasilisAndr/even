@@ -92,7 +92,7 @@ Vasil'evna Krivoshapkina.
 \tx Ehni           ečiken
 \mb e   -R(E) -n(I) erroːčin  -KEn    
 \ps v               pron              
-\ge neg -nfut -3sg  prox.qual -dim.int
+\ge neg -nonfut -3sg  prox.qual -dim.int
 \ft No, like this.
 \ru Нет, такой.
 \ELANBegin 00:00:34.970
@@ -202,12 +202,12 @@ Vasil'evna Krivoshapkina.
 \tx Haːdụn bọllaγïna ere  ahị pasledan                  ehni           emgerer,
 \mb haːdụn    buollaγïna erek asị   posled       -E  -n(I)     e   -R(E) -n(I) em   -Gr(E) -R      
 \ps adv       ptl        pron n     n                          v               v                   
-\ge sometimes dp.Y       prox woman afterbirth.R -ep -poss.3sg neg -nfut -3sg  come -hab   -neg.cvb
+\ge sometimes dp.Y       prox woman afterbirth.R -ep -poss.3sg neg -nonfut -3sg  come -hab   -neg.cvb
 
 \tx kaːttargaran               ehni,          pasledan,                 goːli?
 \mb xaːjtar      -Gr(E) -E  -n(I) e   -R(E) -n(I) posled       -E  -n(I)     goːn -LI     
 \ps v                             v               n                          v            
-\ge be.delayed.Y -hab   -ep -3sg  neg -nfut -3sg  afterbirth.R -ep -poss.3sg say  -imp.2sg
+\ge be.delayed.Y -hab   -ep -3sg  neg -nonfut -3sg  afterbirth.R -ep -poss.3sg say  -imp.2sg
 \ft Sometimes however the afterbirth doesn't come, it is delayed, the afterbirth, right?
 \ru Иногда женский послед не приходит, задерживается же, послед.
 \ELANBegin 00:01:05.450
@@ -589,7 +589,7 @@ that is not the same as the nimat.
 \id RDA_TPK_birth_047
 \tx Tarak kụŋa, baldača        kụŋa, bujusimŋe          bidʒịn.
 \mb tarak kụŋa  balda   -čE     kụŋa  buju -s    -E  -mŋE  bi -DʒI -n(I)
-\ps pron  n     v               n     v                    v            
+\ps pron  n     v               n     n                    v             
 \ge dist  child be.born -pf.ptc child hunt -mult -ep -agnr be -fut -3sg 
 \ft That child, the child that was born, will be a hunter.
 \ru Этот родившися ребенок будет охотник.
@@ -600,7 +600,7 @@ that is not the same as the nimat.
 \id RDA_TPK_birth_048
 \tx tačịn
 \mb tarọːčịn 
-\ps pron      
+\ps pron       
 \ge dist.qual
 
 \ru
@@ -656,7 +656,7 @@ that is not the same as the nimat.
 \tx Ehni
 \mb e   -R(E) -n(I)
 \ps v              
-\ge neg -nfut -3sg 
+\ge neg -nonfut -3sg 
 
 \ru
 \ELANBegin 00:03:01.210
@@ -1129,7 +1129,7 @@ Burtsev_ID_traditions, sentence 72, 73 and Neustroev_PD_nimat
 \tx nọŋan ehni           este        XXX
 \mb nọŋan e   -R(E) -n(I) e   -R(E)   *XXX
 \ps pron  v               v           ?   
-\ge 3sg   neg -nfut -3sg  neg -nonfut *** 
+\ge 3sg   neg -nonfut -3sg  neg -nonfut *** 
 \ft it doesn't xxx (indiscernible)
 \ph
 \ru
@@ -1324,7 +1324,7 @@ as people.
 \tx Bïl...       dʒulep       upedukuj                     ulgimiwrerem                      er   huː ịadụhna
 \mb bïlïr         dʒul  -(E)rEp upeː        -DUk(U) -J       ulgim -i      -Gr(E) -R(E)   -m   erek huː ịak  -DU  -sEn     
 \ps adv           rel.n         n                            v                                 pron pron pron               
-\ge in.the.past.Y front -adjr   grandmother -abl    -prfl.sg ask   -ipf??? -hab   -nonfut -1sg prox 2pl what -dat -poss.2pl
+\ge in.the.past.Y front -adjr   grandmother -abl    -prfl.sg ask   -ipf -hab   -nonfut -1sg prox 2pl what -dat -poss.2pl
 
 \tx kalendar   ačča bihin             taraw      ọːn huː haːwrarịhna             iler.. ireldu      baldača,
 \mb kalendar'  ačča bi -RI  -n(I)     tarak -W   ọːn huː haː  -Gr(E) -RI  -sEn      ireli  -DU  balda   -čE    

@@ -151,7 +151,7 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \ref
 \tx kọčajildiwun         ektiwun
 \mb kọčaj       -E  -ldIwUn hektiwun
-\ps v                       n       
+\ps n                       n        
 \ge scrape.hide -ep -nr     table   
 \ft a table for preparing hides
 \ev
@@ -164,7 +164,7 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \ref
 \tx ịadụ,  ịadụ   tarrọːčim        teːwriten
 \mb ịak  -DU  ịak  -DU  tarrọːčịn -W   teːw     -RI  -tEn     
-\ps n      pron      pron           v                       
+\ps n      pron      pron           v                        
 \ge what -dat what -dat dist.qual -acc put.down -pst -poss.3pl
 \ft why did they put (a table) like that?
 \ev
@@ -288,7 +288,7 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \ref
 \tx Jurtaw           tulmi         tarkka     uŋe          ịlkan tarkke     ọrọmŋalkke                  tuluččoːtte               jurtew.
 \mb jurta  -W        tul -mI       tarak =kkE uŋ        -E  ịlkan tarak =kkE ọrọn              -mŋE  -L  =kkE tul -E  -Č   -WEːČ -R(E)   jurta  -W  
-\ps n                v             pron       n             adj   pron       n                                v                          n          
+\ps n                v             pron       n             adj   pron       n                                v                          n           
 \ge yurt.R -poss.1sg set -cond.cvb dist  =ptl something -ep true  dist  =ptl domestic.reindeer -agnr -pl =ptl set -ep -res -gnr  -nonfut yurt.R -acc
 
 \ft And setting the yurt, like real reindeer herders set the yurt.
@@ -306,7 +306,7 @@ the epenthetic vowel (though one could check, of course)
 \ref
 \tx iŋe
 \mb iŋe
-\ps interj 
+\ps interj  
 \ge yes
 \ft yes
 \ev
@@ -346,7 +346,7 @@ the epenthetic vowel (though one could check, of course)
 \ref
 \tx Ọrọmŋal                tarkka     nulgemi           urkewur       teːwwoːtte             awaskịkke              nulg... nulger.
 \mb ọrọn              -mŋE  -L  tarak =kkE nulge   -mI       urke -WUr     teːw     -WEːČ -R(E)   aw    -E  -skI      =kkE nulge   nulge   -r  
-\ps n                           pron       v                 n             v                      pron                     v       v           
+\ps n                           pron       v                 n             v                      pron                     v       v            
 \ge domestic.reindeer -agnr -pl dist  =ptl migrate -cond.cvb door -prfl.pl put.down -gnr  -nonfut where -ep -advb.all =ptl migrate migrate -3pl
 \ft Reindeer herders, when they migrate, they put their door (towards) where they are migrating.
 \ev
@@ -359,7 +359,7 @@ the epenthetic vowel (though one could check, of course)
 \ref
 \tx A     telid... telid... uŋelehe            telidʒimŋelkke               nọŋartan urketen        ọkaːttakị   biweːtte.
 \mb a.R   *** *** uŋ        -L  =sI   telidʒek     -mŋE -E  -L  =kkE nọŋartan urke -tEn      ọkaːt -t(E)kI bi -WEːČ -R(E)  
-\ps n     ?   ?   n                   n                              pron     n              n             v                
+\ps n     ?   ?   n                   n                              pron     n              n             v                  
 \ge but.R *** *** something -pl =emph fishing.camp -nr  -ep -pl =ptl 3pl      door -poss.3pl river -all    be -gnr  -nonfut
 \ft And those who live in fishing camps, their door faces the river.
 \ev
@@ -372,7 +372,7 @@ the epenthetic vowel (though one could check, of course)
 \ref
 \tx Čaški          ịawda         doγurdiγar
 \mb čaːg -skI      ịak  -W   =DE  doγurdi -GEr       
-\ps adj            pron           v                   
+\ps adj            pron           v                    
 \ge far  -advb.all what -acc =ptl chatter -imp.1pl.in
 \ft let's chat some more
 \ev
@@ -647,7 +647,7 @@ the epenthetic vowel (though one could check, of course)
 \ref
 \tx enšekeγli          ŋenmi         ereγer ele          uŋneken,               irekem ńilkata ọːwaːttan
 \mb enše -K(Ag) -(dU)LI ŋen -mI       ereger erek -(dU)LE uŋ -REk      -n(I)     irekem ńilkata ọː     -WEːČ -R(E)   -n(I)
-\ps n                   v             adv    pron         v                      ptl    adj     v                         
+\ps n                   v             adv    pron         v                      ptl    adj     v                          
 \ge ???  -nr    -prol   go  -cond.cvb always prox -loc    do -cond.cvb -poss.3sg ptl    bald    become -gnr  -nonfut -3sg 
 \ft coming through enshekeg, always when it does something, it becomes bald
 \ph
@@ -662,7 +662,7 @@ the epenthetic vowel (though one could check, of course)
 \ref
 \tx kịbara
 \mb kịbar           -(h)E
-\ps n                     
+\ps n                      
 \ge break.intr.smlf -interj
 \ft broken
 \ev  
@@ -770,7 +770,7 @@ the epenthetic vowel (though one could check, of course)
 \ref
 \tx a     unetkede        tergesdukkene               bisin             ịaldiwun,     a,    iekerukku     ili  ịakku   gerben...
 \mb a.R   unet  =kkE =DE  terges       -DUk(U) =kEnE  bi -RI  -n(I)     ịa      -ldIwUn a.R   ieke -RUk =GU ili  ịak  =GU gerbe -n(I)    
-\ps ?     adv             n                           v                 v               ?     n             conj pron     n              
+\ps ?     adv             n                           v                 n               ?     n             conj pron     n               
 \ge but.R still =ptl =ptl soft.leather -abl    =contr be -pst -poss.3sg do.what -nr     but.R pot  -nr  =q  or.R what =q  name  -poss.3sg
 
 \ft and there was also (a bag) made of suede for something, was it called iekeruk (container for pots) or what...
@@ -786,8 +786,8 @@ the epenthetic vowel (though one could check, of course)
 \ref
 \tx esni
 \mb e   -R(E) -n(I)
-\ps v               
-\ge neg -nfut -3sg 
+\ps v                
+\ge neg -nonfut -3sg 
 \ft no
 \ev
 \ru
@@ -882,7 +882,7 @@ questions); she agreed with me, but then said "iruwaːččọtta = to chto sejch
 \ref
 \tx ullew     tarak inuweːčildiwun                    bišin
 \mb ulre -W   tarak in            -U    -WEːČ -ldIwUn bi -RI  -n(I)    
-\ps n         pron  v                                 v                
+\ps n         pron  n                                 v                 
 \ge meat -acc dist  carry.on.back -caus -gnr  -nr     be -pst -poss.3sg
 
 \ft that was a bag to carry meat
@@ -897,7 +897,7 @@ questions); she agreed with me, but then said "iruwaːččọtta = to chto sejch
 \ref
 \tx akọnč... akọnčiduk
 \mb ọkọnči  ọkọnči  -DUk(U)
-\ps n       n               
+\ps n       n                
 \ge leather leather -abl   
 \ft from leather
 \ph
@@ -912,7 +912,7 @@ questions); she agreed with me, but then said "iruwaːččọtta = to chto sejch
 \ref
 \tx erek ektiwun  ńan   aŋanaldiwun
 \mb erek hektiwun ńaːn haŋan -E  -ldIwUn
-\ps pron n        adv  v                
+\ps pron n        adv  n                 
 \ge prox table    and  sew   -ep -nr    
 \ft this table is for sewing
 \ph actually says "aŋaldiwun"
@@ -926,7 +926,7 @@ questions); she agreed with me, but then said "iruwaːččọtta = to chto sejch
 \ref
 \tx erek ńan   ịadmi                 erroːčinni         etukčenni,               ili  ŋaːldiwunni,           ili  ịakta    etuken
 \mb erek ńaːn ịa      -D    -mI       erroːčin  -n(I)     etuke     -čEn -n(I)     ili  ŋaːl -ldIwUn -n(I)     ili  ịak  =DE  etuke     -n(I)    
-\ps pron adv  v                       n                n                        conj n                      conj pron      n                   
+\ps pron adv  v                       n                n                        conj n                      conj pron      n                     
 \ge prox and  do.what -prog -cond.cvb prox.qual -poss.3sg saddlebag -dim -poss.3sg or.R hand -nr     -poss.3sg or.R what =ptl saddlebag -poss.3sg
 
 \ft what is such a little bag for, is it for carrying by hand or for what
@@ -942,7 +942,7 @@ questions); she agreed with me, but then said "iruwaːččọtta = to chto sejch
 \ref
 \tx ešep               ešep               aːrala             erekteken
 \mb e   -R(E)   -p      e   -R(E)   -p      haː  -R       =lE   erek =t(E)kEn
-\ps v                   v                   v                   pron          
+\ps v                   v                   v                   pron           
 \ge neg -nonfut -1pl.in neg -nonfut -1pl.in know -neg.cvb =emph prox =restr  
 \ft I absolutely don't know what this is
 \ev
@@ -1118,7 +1118,7 @@ kavaler"
 \tx Tiːke ehni           bihe?
 \mb tiek e   -R(E) -n(I) bi -R      
 \ps adv  v               v          
-\ge now  neg -nfut -3sg  be -neg.cvb
+\ge now  neg -nonfut -3sg  be -neg.cvb
 \ft Now it doesn't exist
 \ph
 \gr difference ačča and ešni biše: ešni biše = mozhet bytj sejchas net, voprositelno, a "ačča" utverditelno, sejchas netu (with emphasis on NETu and hand thumping table)
@@ -1146,7 +1146,7 @@ kavaler"
 \tx Dʒalm...       čaj  ọrọːkan                   esni           bihe
 \mb dʒalma          čaj   ọraːk             -E  -n(I)     e   -R(E) -n(I) bi -R      
 \ps n               n     n                               v               v          
-\ge chewing.tobacco tea.R tobacco.container -ep -poss.3sg neg -nfut -3sg  be -neg.cvb
+\ge chewing.tobacco tea.R tobacco.container -ep -poss.3sg neg -nonfut -3sg  be -neg.cvb
 \ft this is probably a container for tea
 \ph
 \gr not sure why here there is the interpretation of "probably", since there is no particle; but it's probably from the context
@@ -1160,7 +1160,7 @@ kavaler"
 \ref
 \tx čajirukankke,            erek čajiruk
 \mb čaj   -RUk -n(I)     =kkE erek čaj   -E  -RUk
-\ps n                         pron n             
+\ps n                         pron n              
 \ge tea.R -nr  -poss.3sg =ptl prox tea.R -ep -nr 
 \ft this is her tea container, this is a tea container
 \ev
@@ -1173,7 +1173,7 @@ kavaler"
 \ref
 \tx iː
 \mb iː 
-\ps n 
+\ps n  
 \ge yes
 \ft yes
 \ev
@@ -1186,7 +1186,7 @@ kavaler"
 \ref
 \tx tarma ịamị nọkụčiddan                       čajiruk
 \mb tarma ịamị nọk     -U    -Č   -D    -R(E)   -n(I) čaj   -E  -RUk
-\ps conj  pron v                                      n             
+\ps conj  pron v                                      n              
 \ge but   why  hang.up -caus -res -prog -nonfut -3sg  tea.R -ep -nr 
 \ft but why is the tea container hanging?
 \ev
@@ -1199,7 +1199,7 @@ kavaler"
 \ref
 \tx ọjịttakan                kọč   no... nọkča
 \mb ọjịt   -REk      -n(I)     kọč      *** nọk     -čE    
-\ps v                          adv      ?   n               
+\ps v                          adv      ?   n                
 \ge bother -cond.cvb -poss.3sg probably *** hang.up -pf.ptc
 
 \ft when it was in the way they probably hung it up 
@@ -1458,7 +1458,7 @@ kavaler"
 \tx po-moemu        mednyjkke       ehni           bihe
 \mb po-moemu        mednyj     =kkE e   -R(E) -n(I) bi -R      
 \ps adv             adj             v               v          
-\ge in.my.opinion.R copper.m.R =ptl neg -nfut -3sg  be -neg.cvb
+\ge in.my.opinion.R copper.m.R =ptl neg -nonfut -3sg  be -neg.cvb
 \ft I think it's probably copper
 \ev
 \ru по-моему медный наверно
@@ -1570,7 +1570,7 @@ kavaler"
 \tx esni           štampovanyj biše
 \mb e   -R(E) -n(I) štampovanyj bi -R      
 \ps v               adj         v          
-\ge neg -nfut -3sg  punched.m.R be -neg.cvb
+\ge neg -nonfut -3sg  punched.m.R be -neg.cvb
 \ft it's not punched
 \ev
 \ru не штампованный

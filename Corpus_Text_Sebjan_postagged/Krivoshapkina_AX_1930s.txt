@@ -150,7 +150,7 @@ Nikitin. She was 64 years old at the time of recording, had worked as a nurse, t
 \tx ulgimiwreriw,                       ọːn ọːn goːnteken      kuːsči             kuːsči
 \mb ulgim -i      -Gr(E) -RI  -W        ọːn ọːn goːn -ntEkEn   kuːs    -DʒI         kuːs    -DʒI        
 \ps v                                   pron pron v              n                    n                   
-\ge ask   -ipf??? -hab   -pst -poss.1sg how how say  -mult.cvb force.Y -ins.prfl.sg force.Y -ins.prfl.sg
+\ge ask   -ipf -hab   -pst -poss.1sg how how say  -mult.cvb force.Y -ins.prfl.sg force.Y -ins.prfl.sg
 
 \tx ukčenukengerereriw,               noste bihiŋiji.
 \mb ukčen -WkEn -Gr(E) -RI  -W        noste bi -ŋsI      -J      
@@ -180,12 +180,12 @@ Nikitin. She was 64 years old at the time of recording, had worked as a nurse, t
 \tx Bi   prjamo     ulgimiwreriw,                       ọːn haːrịhna         erek Lenin bihiwen
 \mb biː prjamo     ulgim -i      -Gr(E) -RI  -W        ọːn haː  -RI  -sEn      erek Lenin bi -RI       -W   -E  -n(I)    
 \ps pron adv        v                                   pron v                   pron ?     v                              
-\ge 1sg straight.R ask   -ipf??? -hab   -pst -poss.1sg how know -pst -poss.2pl prox Lenin be -impf.ptc -acc -ep -poss.3sg
+\ge 1sg straight.R ask   -ipf -hab   -pst -poss.1sg how know -pst -poss.2pl prox Lenin be -impf.ptc -acc -ep -poss.3sg
 
 \tx wabše       Savetskaj Blaːhụ     ọːn ọːptịwan,                         ịaptịwan,                            ŋiː
 \mb voobše       sovetskij bïlaːs  -W   ọːn ọː   -B   -RI      -W   -E  -n(I)     ịa      -B   -RI      -W   -E  -n(I)     ŋiː
 \ps adv          adj       n            pron v                                     v                                        pron
-\ge in.general.R Soviet.R  power.Y -acc how make -med -ipf.ptc -acc -ep -poss.3sg do.what -med -ipf.ptc -acc -ep -poss.3sg who
+\ge in.general.R Soviet.R  power.Y -acc how make -med -impf.ptc -acc -ep -poss.3sg do.what -med -impf.ptc -acc -ep -poss.3sg who
 
 \tx takkatča              goːniken.
 \mb tat   -kE -Č   -čE     goːn -nIkEn  
@@ -226,7 +226,7 @@ dịlmat = fight, dịlma = doesn't exist; suffix -kE is very rare, only here
 \tx Tịmannị emie   ulgimiwrerem                      hiehečen, čajdaːdnịkan.
 \mb tịmịna   emie   ulgim -i      -Gr(E) -R(E)   -m   hiːsečin čaj   -DE -D    -nIkEn  
 \ps adv      adv    v                                 n        v                       
-\ge tomorrow also.Y ask   -ipf??? -hab   -nonfut -1sg evening  tea.R -vr -prog -sim.cvb
+\ge tomorrow also.Y ask   -ipf -hab   -nonfut -1sg evening  tea.R -vr -prog -sim.cvb
 
 \ft The next day I asked again, in the evening, while we were drinking tea.
 \ELANBegin 00:01:28.200
@@ -252,7 +252,7 @@ dịlmat = fight, dịlma = doesn't exist; suffix -kE is very rare, only here
 \tx Uporno       ulgimiwrerem                      tarịt.
 \mb uporno       ulgim -i      -Gr(E) -R(E)   -m   tarịt  
 \ps adv          v                                 ?      
-\ge stubbornly.R ask   -ipf??? -hab   -nonfut -1sg further
+\ge stubbornly.R ask   -ipf -hab   -nonfut -1sg further
 \ft I again stubbornly asked.
 \ELANBegin 00:01:38.310
 \ELANEnd 00:01:43.680
@@ -319,7 +319,7 @@ the mountain behind her house
 \id Krivoshapkina_AX_1930s_021
 \tx Tegeče...         stojbiščeda    ačča biče,     ịakta    ačča biče.
 \mb teg      -E  -ČEk stojbišče =DE  ačča bi -čE     ịak  =DE  ačča bi -čE    
-\ps v                 n              ptl  v          pron      ptl  v         
+\ps n                 n              ptl  v          pron      ptl  v          
 \ge sit.down -ep -nr  camp.R    =ptl neg  be -pf.ptc what =ptl neg  be -pf.ptc
 
 \ft There was no camp, there was nothing.
@@ -331,7 +331,7 @@ the mountain behind her house
 \id Krivoshapkina_AX_1930s_022
 \tx Erek urekčen čawdalan                bi   amńalbụ            enńelčel        amńalčal,       aknịlčal
 \mb erek urekčen čawda     -(dU)LE -n(I)     biː aman   -SEl -W        enen   -SEl -čEl aman   -SEl -čEl akan          -SEl -čEl
-\ps n n       rel.n                       pron n                     n                n                n                       
+\ps n n       rel.n                       pron n                     n                n                n                        
 \ge prox hill    back.part -loc    -poss.3sg 1sg father -pl  -poss.1sg mother -pl  -com father -pl  -com older.brother -pl  -com
 
 \tx tegekkerečel                       tuge.
@@ -767,7 +767,7 @@ lot of people arrived', rather than the relative clause 'people who arrived'
 \tx Eben abyčajdụn               gọrịnụk      emče        beju     etenni         ulgimir,               bejen
 \mb ewen obyčaj      -DU  -n(I)     gọrụ -(I)nUk   em   -čE     bej -W   e   -t(E) -nrI ulgim -i      -R       bej    -E  -n(I)    
 \ps n    n                          ?              v            n        v              v                      pron                
-\ge Even tradition.R -dat -poss.3sg far  -advb.abl come -pf.ptc man -acc neg -fut  -2sg ask   -ipf??? -neg.cvb self.Y -ep -poss.3sg
+\ge Even tradition.R -dat -poss.3sg far  -advb.abl come -pf.ptc man -acc neg -fut  -2sg ask   -ipf -neg.cvb self.Y -ep -poss.3sg
 
 \tx ukčendʒin,       iduk          emdeŋi,               ịaw      neknedeŋi,                   ịamị emdeŋi.
 \mb ukčen -DʒI -n(I) irek  -DUk(U) em   -DEŋ     -J       ịak  -W   nek -nE     -DEŋ     -J       ịamị em   -DEŋ     -J      
@@ -786,7 +786,7 @@ he came (to do what), why he came.
 \tx Taraw      est este        ečel           ulgimiwrer.
 \mb tarak -W   e   -R(E)   e   -čE     -L  ulgim -i      -Gr(E) -R      
 \ps pron       v           v               v                            
-\ge dist  -acc neg -nonfut neg -pf.ptc -pl ask   -ipf??? -hab   -neg.cvb
+\ge dist  -acc neg -nonfut neg -pf.ptc -pl ask   -ipf -hab   -neg.cvb
 
 \ft They don't ask that.
 \ELANBegin 00:05:56.990
@@ -1114,12 +1114,12 @@ net knigi = kinigew ačča, 2sg kiniges ačča; kinigele ačča = v knige netu; 
 
 \tx dʒebemeddi                      ịaldụ      bejeldu         họːja dʒeble   biden                  goːmi,   baːjal
 \mb dʒep -E  -m   -E  -D    -RI       ịak  -L  -DU  bej -E  -L  -DU  họːja dʒep -LE bi -DE       -n(I)     goːn -mI baːj   -E  -L 
-\ps v                                 pron          n                quant v        v                      v        n             
+\ps v                                 pron          n                quant n        v                      v        n              
 \ge eat  -ep -des -ep -prog -impf.ptc what -pl -dat man -ep -pl -dat many  eat  -nr be -purp.cvb -poss.3sg say  -vr rich.Y -ep -pl
 
 \tx edetne                  ettier,          edetne                  dʒebleŋmetne                tieter.
 \mb e   -DE       -tEn      ettie   -R       e   -DE       -tEn      dʒep -LE -ŋ   -W   -tEn      tiete     -R      
-\ps v                       v                v                       v                            n                  
+\ps v                       v                v                       n                            n                    
 \ge neg -purp.cvb -poss.3pl beat.up -neg.cvb neg -purp.cvb -poss.3pl eat  -nr -aln -acc -poss.3pl take.away -neg.cvb
 
 \ft This is something of the Sakha (probably their leader), this man is also equal to Lenin, (he wants) hungry people to have a lot of food, that rich
@@ -1135,7 +1135,7 @@ people don't hit (them), don't take away their food.
 \id Krivoshapkina_AX_1930s_076
 \tx Tačịn       ịbga   bej, ịbga   bejel      erel,    teːmi    ńulgewettide                  ebeldu        beldej
 \mb tarọːčịn  ịbgọ bej ịbgọ bej -E  -L  erek -L  teːmi     nulge   -WEːČ -RI       =DE  ewen -L  -DU  bel  -DE       -J      
-\ps pron      ?    n   n    n           pron     conj      v                            n             v                       
+\ps pron      ?    n   n    n           pron     conj      v                            n             v                        
 \ge dist.qual good man good man -ep -pl prox -pl therefore migrate -gnr  -impf.ptc =ptl Even -pl -dat help -purp.cvb -prfl.sg
 
 \tx nekkerer        erel.
@@ -1277,7 +1277,7 @@ everywhere, but I came to you, he said.
 \id Krivoshapkina_AX_1930s_086
 \tx Ammụ           tarak bejńun   dụkmakkararịn                 ečiken         dụkụm.
 \mb aman   -W        tarak bej -ńUn dụk   -mEČ -Gr(E) -RI  -n(I)     erroːčin  -KEn dụk   -E  -n  -W  
-\ps n                pron  n        v                                pron           v                 
+\ps n                pron  n        v                                pron           n                  
 \ge father -poss.1sg dist  man -com write -rec -hab   -pst -poss.3sg prox.qual -dim write -ep -nr -acc
 
 \ft My father and that man wrote letters to each other.
@@ -1289,7 +1289,7 @@ everywhere, but I came to you, he said.
 \id Krivoshapkina_AX_1930s_087
 \tx Tarịt erek Ojuːnskaj goːnni     goːnče.
 \mb tarịt erek Ojuːnskij goːn -n(I) goːn -čE    
-\ps adv   pron ?         v          v            
+\ps adv   pron ?         v          v             
 \ge then  prox Ojunskij  say  -3sg  say  -pf.ptc
 \ft Then "Ojunskij said this", (Kymov) said.// "Then Ojunskij said this", (Kymov) said.
 \ph
@@ -1345,7 +1345,7 @@ stories or evidence he sees now; (04_quest_2010, kuruk nulgewečepti = kuruk nul
 \tx ịaw      tegečeptiw                            ọːgalda,       goːnče.
 \mb ịak  -W   teg      -E  -Č   -E  -B   -RI      -W   ọː   -GEr        goːn -čE    
 \ps pron      v                                        v                v           
-\ge what -acc sit.down -ep -res -ep -med -ipf.ptc -acc make -imp.1pl.in say  -pf.ptc
+\ge what -acc sit.down -ep -res -ep -med -impf.ptc -acc make -imp.1pl.in say  -pf.ptc
 
 \ft In order to live well, in order to learn letters, let's make a good life like this, he said.
 \ph
@@ -1419,12 +1419,12 @@ stories or evidence he sees now; (04_quest_2010, kuruk nulgewečepti = kuruk nul
 \id Krivoshapkina_AX_1930s_095
 \tx Haːram,          goːnče      ammụ,          haːwrača          haːwrača          irildu      igin, tar   ewinektu
 \mb haː  -R(E)   -m   goːn -čE     aman   -W        haː  -Gr(E) -čE     haː  -Gr(E) -čE     ireli  -DU  iŋin  tarak ewiː -ČEk -DU 
-\ps v                 v            n                v                   v                   n           ptl   pron  v             
+\ps v                 v            n                v                   v                   n           ptl   pron  n              
 \ge know -nonfut -1sg say  -pf.ptc father -poss.1sg know -hab   -pf.ptc know -hab   -pf.ptc summer -dat etc.Y dist  play -nr  -dat
 
 \tx bakaldawračal                  ebit,      haːča.
 \mb bak  -(E)ldE -Gr(E) -čE     -L  ebit       haː  -čE    
-\ps v                               ptl        v            
+\ps v                               ptl        v             
 \ge find -soc    -hab   -pf.ptc -pl it.seems.Y know -pf.ptc
 
 \ft "I know (him)", said my father; he knew (him), he met him in summer at the ewinek it seems, he knew.
@@ -1750,7 +1750,7 @@ separate lexical entry
 \tx Tarịt tarak tarak bej tara  tačịn       emnidʒi      dʒe   ọsnọwaw  boːjdege-hni.
 \mb tarịt tarak tarak bej tarak tarọːčịn  em   -RIdʒI   dʒe    osnova  -W   boː  -j    -dEg      -E     e   -R(E) -n(I)
 \ps adv   pron  pron  n   pron  pron      v             ptl    n            v                           v              
-\ge then  dist  dist  man dist  dist.qual come -ant.cvb well.Y basis.R -acc give -conn -assert.Y -3sg.Y neg -nfut -3sg 
+\ge then  dist  dist  man dist  dist.qual come -ant.cvb well.Y basis.R -acc give -conn -assert.Y -3sg.Y neg -nonfut -3sg 
 \ft It was that man who, having come, made the beginning.
 \ph
 \gr no difference in meaning between the use of the Sakha affirmative ptl diː and the Even affirmative use of ehni with the assertive TAM,
@@ -1938,12 +1938,12 @@ it would be dʒoːr ńimeːr biniken tegeččel
 \id Krivoshapkina_AX_1930s_129
 \tx Ịaw...   bujusimŋel,            ọrọndụk             ọrọlčịmŋal      magazịntan      goːniken,     tadụ
 \mb ịak  -W   buju -s    -E  -mŋE  -L  ọrọn              -DUk(U) ọrọlčị        -mŋE -L  magazin -tEn      goːn -nIkEn   tarak -DU 
-\ps pron      v                        n                         v                      n                 v             pron      
+\ps pron      n                        n                         n                      n                 v             pron        
 \ge what -acc hunt -mult -ep -agnr -pl domestic.reindeer -abl    herd.reindeer -nr  -pl shop.R  -poss.3pl say  -sim.cvb dist  -dat
 
 \tx pradụktakkam      igin  tar   ịrụnịkan      ọrọnat                ịrụwračal                tar.. tarakam.
 \mb produkty -kkEn -W   iŋin  tarak ịr   -U    -nIkEn   ọrọn              -E  -Č   ịr   -U    -Gr(E) -čE     -L  tarak tarakam      
-\ps n                   n   pron  n                   n                          v                             pron  adv            
+\ps n                   n   pron  n                   n                          v                             pron  adv              
 \ge food.R   -dim  -acc etc.Y dist  cart -caus -sim.cvb domestic.reindeer -ep -ins cart -caus -hab   -pf.ptc -pl dist  in.those.days
 
 \ft A shop for the hunters and reindeer herders (coming) from the herd, they used to cart food there by reindeer in those days.
@@ -2058,7 +2058,7 @@ marking, it only occurs in 3rd person as finite verb; ọrịt = witnessed past
 \id Krivoshapkina_AX_1930s_137
 \tx Tara  taraw      ịanamị                tarak honte ukčenek     emie,  tara.
 \mb tarak tarak -W   ịa      -nE     -mI       tarak honte ukčen -ČEk emie   tarak
-\ps pron  pron       v                         pron  adj   v          adv    pron 
+\ps pron  pron       v                         pron  adj   n          adv    pron  
 \ge dist  dist  -acc do.what -intent -cond.cvb dist  other tell  -nr  also.Y dist 
 \ft He came to do something with that, (but) that is also a different story.
 \ELANBegin 00:17:03.300
@@ -2069,7 +2069,7 @@ marking, it only occurs in 3rd person as finite verb; ọrịt = witnessed past
 \id Krivoshapkina_AX_1930s_138
 \tx Tarak bej Kyymov gerbe bọlla.
 \mb tarak bej Kyymov gerbe buol  -dEg      -E         
-\ps pron  n   ?      n     v                           
+\ps pron  n   ?      n     v                            
 \ge dist  man Kymov  name  aux.Y -assert.Y -poss.3sg.Y
 
 \ft That was Kymov.
@@ -2189,7 +2189,7 @@ myself in a big something, I am intensely grateful to you.
 \id Krivoshapkina_AX_1930s_146
 \tx Amandụlaw              bihin             tarbačan      dụkụn,    tiːkte   bičeːdʒin           tarak.
 \mb aman   -(dU)LE -W        bi -RI  -n(I)     tarọːčịn  dụk   -E  -n  tiek =DE  bi -čE     -DʒI -n(I) tarak
-\ps n                        v                 pron      v             adv       v                     pron 
+\ps n                        v                 pron      n             adv       v                     pron  
 \ge father -loc    -poss.1sg be -pst -poss.3sg dist.qual write -ep -nr now  =ptl be -pf.ptc -fut -3sg  dist 
 
 \ft My father had that letter, probably it is still (here) now.
@@ -2201,7 +2201,7 @@ myself in a big something, I am intensely grateful to you.
 \id Krivoshapkina_AX_1930s_147
 \tx Tar   pravda  omen rọdstvenniklaj             boːriw             taraw,     Jakutskajla
 \mb tarak pravda  omen rodstvennik -(dU)LE -J       boː  -RI  -W        tarak -W   Jakutsk -(dU)LE
-\ps pron  n       num  n                            v                   pron       n               
+\ps pron  n       num  n                            v                   pron       n                
 \ge dist  truth.R one  relative.R  -loc    -prfl.sg give -pst -poss.1sg dist  -acc Yakutsk -loc   
 
 \tx tegečeddi.

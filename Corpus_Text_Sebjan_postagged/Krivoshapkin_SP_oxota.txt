@@ -570,7 +570,7 @@ his sons, not to any two boys
 
 \tx ọrọlčịmŋaldụ       kömölöhnemi.
 \mb ọrọlčị        -mŋE  -L  -DU  kömölös -nE     -mI      
-\ps v                            v                        
+\ps n                            v                         
 \ge herd.reindeer -agnr -pl -dat help.Y  -intent -cond.cvb
 
 \ft In summer my father goes to the herd to help the reindeer herders.
@@ -585,7 +585,7 @@ his sons, not to any two boys
 \id Krivoshapkin_SP_oxota_048
 \tx Ọrọlčịwran          tačịn       irildu,     tar   bọlọnị ọːčalan
 \mb ọrọlčị        -Gr(E) -n(I) tarọːčịn  ireli  -DU  tarak bọlọnị      ọː     -čE     -(dU)LE -n(I)    
-\ps n                          pron      n           pron  n           v                                
+\ps n                          pron      n           pron  n           v                                 
 \ge herd.reindeer -hab   -3sg  dist.qual summer -dat dist  late.autumn become -pf.ptc -loc    -poss.3sg
 
 \tx ọrọlbị                   hepkuridʒi     bujusnemi                    hergeren.
@@ -755,7 +755,7 @@ his sons, not to any two boys
 \tx Bej ehni           ịawrar,               ejekteːkkin              derihne.
 \mb bej e   -R(E) -n(I) ịa      -Gr(E) -R       e   -jEktEːk -GIn        derisen -R      
 \ps n   v               v                       v                        v               
-\ge man neg -nfut -3sg  do.what -hab   -neg.cvb neg -nec.Y   -pred.2sg.Y run.off -neg.cvb
+\ge man neg -nonfut -3sg  do.what -hab   -neg.cvb neg -nec.Y   -pred.2sg.Y run.off -neg.cvb
 \ft A person doesn't do something, he shouldn't run away.
 \ru Человек что-то не делает, не должен убегать.
 \ELANBegin 00:04:36.020
@@ -959,7 +959,7 @@ screaming....
 \tx Bej anaːn       ehni           bụltụjgarar,      meːndusńun
 \mb bej anaːn        e   -R(E) -n(I) bụltaː -Gr(E) -r   meːn -DU  -s(I)     =ńUn  
 \ps n   ?            v               v                  pron                      
-\ge man on.purpose.Y neg -nfut -3sg  hunt.Y -hab   -3pl refl -dat -poss.2sg =restr
+\ge man on.purpose.Y neg -nonfut -3sg  hunt.Y -hab   -3pl refl -dat -poss.2sg =restr
 
 \tx emneken.
 \mb em   -REk      -E  -n(I)    
@@ -1142,7 +1142,7 @@ here, not realizing that he'd spoken about him.
 \id Krivoshapkin_SP_oxota_095
 \tx amm... emie   bujusimŋe          bihin?
 \mb emie   buju -s    -E  -mŋE  bi -RI  -n(I)    
-\ps adv    v                    v                
+\ps adv    n                    v                 
 \ge also.Y hunt -mult -ep -agnr be -pst -poss.3sg
 \ft He was also a hunter?
 \ru
@@ -1153,7 +1153,7 @@ here, not realizing that he'd spoken about him.
 \id Krivoshapkin_SP_oxota_096
 \tx Ee.
 \mb ee
-\ps interj 
+\ps interj  
 \ge eh
 
 \ru
@@ -1352,12 +1352,12 @@ nọŋńụnnị; but people say all these forms.
 \id Krivoshapkin_SP_oxota_113
 \tx Er   boːdeldu    tetehek          ịak tọːkị ọhọldụkụn,              erek bọlla      ịak...
 \mb erek boːdel -DU  tet    -E  -ČEk ịak  tọːkị ọhọl          -DUk(U) -n(I)     erek buollaγïna ịak 
-\ps pron n           v               pron n     n                               pron ptl        pron
+\ps pron n           n               pron n     n                               pron ptl        pron 
 \ge prox leg(s) -dat put.on -ep -nr  what elk   fur.from.paws -abl    -poss.3sg prox dp.Y       what
 
 \tx ụjamkan      nandadụkụn.
 \mb ụjamkan        nanra -DUk(U) -n(I)    
-\ps n              n                       
+\ps n              n                        
 \ge mountain.sheep hide  -abl    -poss.3sg
 
 \ft For the legs (it is made) from the fur from elks' legs, while this (the coat) is made of mountain sheep fur.
@@ -1549,7 +1549,7 @@ nọŋńụnnị; but people say all these forms.
 \id Krivoshapkin_SP_oxota_130
 \tx Omen stadadụ   nadan bej, ọrọlčịmŋal.
 \mb omen stado  -DU  nadan bej ọrọlčị        -mŋE  -L 
-\ps num  n           num   n   v                      
+\ps num  n           num   n   n                       
 \ge one  herd.R -dat seven man herd.reindeer -agnr -pl
 \ft In one herd there are seven reindeer herders.
 \ru В одном стаде 7 человек оленеводов.
@@ -1560,7 +1560,7 @@ nọŋńụnnị; but people say all these forms.
 \id Krivoshapkin_SP_oxota_131
 \tx Digen ịak čụm ahị ịawrar,           dʒeblew       iriwrer.
 \mb digen ịak  čum    asị   ịa      -Gr(E) -r   dʒep -LE -W   iri  -Gr(E) -r  
-\ps num   pron n      n     n                   v             v                
+\ps num   pron n      n     n                   n             v                  
 \ge four  what yurt.R woman do.what -hab   -3pl eat  -nr -acc cook -hab   -3pl
 \ft Four yurt workers make food.
 \ru Четыре чумработниц что-то делают, готовят еду.
@@ -1571,7 +1571,7 @@ nọŋńụnnị; but people say all these forms.
 \id Krivoshapkin_SP_oxota_132
 \tx Ah, ịlan čumrabotnitsaj, digen ọrọlčịmŋal?
 \mb ah ịlan  čumrabotnica  digen ọrọlčị        -mŋE  -L 
-\ps interj num   n             num   v                       
+\ps interj num   n             num   n                         
 \ge ah three yurt.worker.R four  herd.reindeer -agnr -pl
 \ft Ah, three yurt workers, four reindeer herders? 
 \ph
@@ -1586,7 +1586,7 @@ nọŋńụnnị; but people say all these forms.
 \id Krivoshapkin_SP_oxota_133
 \tx Nadan ọrọlčịmŋa
 \mb nadan ọrọlčị        -mŋE 
-\ps num   v                   
+\ps num   n                     
 \ge seven herd.reindeer -agnr
 \ft Seven reindeer herders.
 \ru
@@ -1605,7 +1605,7 @@ nọŋńụnnị; but people say all these forms.
 \id Krivoshapkin_SP_oxota_135
 \tx Omen?
 \mb omen
-\ps num  
+\ps num   
 \ge one 
 
 \ru
@@ -1828,7 +1828,7 @@ nọŋńụnnị; but people say all these forms.
 \id Krivoshapkin_SP_oxota_156
 \tx Bütünnüː ọrọlčịmŋal...
 \mb bütünnüː   ọrọlčị        -mŋE  -L 
-\ps ?          v                      
+\ps ?          n                       
 \ge entirely.Y herd.reindeer -agnr -pl
 \ft All the reindeer herders...
 \ru
@@ -1839,7 +1839,7 @@ nọŋńụnnị; but people say all these forms.
 \id Krivoshapkin_SP_oxota_157
 \tx emdʒir,        emdʒir
 \mb em   -DʒI -r   em   -DʒI -r  
-\ps v              n              
+\ps v              n               
 \ge come -fut -3pl come -fut -3pl
 \ft Will come, will come.
 \ru
@@ -2359,7 +2359,7 @@ inherent in the form
 \tx Ịbgat,      ihme hni            himbiːr
 \mb ịbgọ -Č   imse e   -R(E) -n(I) himbiːr       
 \ps n         n    v               adv           
-\ge good -ins fat  neg -nfut -3sg  all.the.same.Y
+\ge good -ins fat  neg -nonfut -3sg  all.the.same.Y
 \ft It's good, it's just fat, right.
 \ru Хорошо, жир все равно.
 \ELANBegin 00:15:55.750
@@ -2503,7 +2503,7 @@ inherent in the form
 \id Krivoshapkin_SP_oxota_216
 \tx Tadụk       honte domŋedu      dʒeble   ačča bọlla.
 \mb tarak -DUk(U) honte doːmŋe -DU  dʒep -LE ačča buol  -dEg      -E         
-\ps pron          adj   n           v        ptl  v                          
+\ps pron          adj   n           n        ptl  v                           
 \ge dist  -abl    other taiga  -dat eat  -nr neg  aux.Y -assert.Y -poss.3sg.Y
 
 \ft Apart from that there is no other food in the taiga.
@@ -2527,7 +2527,7 @@ edy golodaet = bej at dʒeblele dʒebemgeren
 \id Krivoshapkin_SP_oxota_218
 \tx ah, kilieb
 \mb ah xleb   
-\ps interj n       
+\ps interj n        
 \ge ah bread.R
 
 \ru
@@ -2768,12 +2768,12 @@ as it was previously transcribed, with 2SG
 \id Krivoshapkin_SP_oxota_238
 \tx Ńan   tiːkerep    bujusimŋel             ịaw      neːwrer,        ịak hiečehni
 \mb ńaːn tiek -(E)rEp buju -s    -E  -mŋE  -L  ịak  -W   neː -Gr(E) -r   ịak  hie    -čE     =hni   
-\ps adv  adv          v                        pron      v               pron v                     
+\ps adv  adv          n                        pron      v               pron v                      
 \ge and  now  -adjr   hunt -mult -ep -agnr -pl what -acc put -hab   -3pl what appear -pf.ptc =affirm
 
 \tx tiːke ele,         mandarin     kọrkan         bihnihni,               taraw.
 \mb tiek erek -(dU)LE mandarin     korka  -n(I)     bi -R(E)   -n(I) =hni    tarak -W  
-\ps adv  pron         n            n                v                        pron       
+\ps adv  pron         n            n                v                        pron        
 \ge now  prox -loc    clementine.R peel.R -poss.3sg be -nonfut -3sg  =affirm dist  -acc
 
 \ft And nowadays hunter put what, it's appeared here now, clementine peel.
@@ -2888,7 +2888,7 @@ as it was previously transcribed, with 2SG
 \tx Kapkan ehni           toːwrer.
 \mb kapkan e   -R(E) -n(I) toː     -Gr(E) -R      
 \ps n      v               v                      
-\ge trap.R neg -nfut -3sg  step.on -hab   -neg.cvb
+\ge trap.R neg -nonfut -3sg  step.on -hab   -neg.cvb
 \ft (Hares) don't step on traps.
 \ph
 \gr It would be more correct to say kapkandụla ehni toːwrer, but the direction/location is clear from the context
@@ -3023,12 +3023,12 @@ as it was previously transcribed, with 2SG
 \tx Ịlaːnụmụlkan bihiken,                   ikkeren          hụrkamụs,          ehni
 \mb ịlaːnmụ   -lkEn bi -REk      -E  -n(I)     it  -Gr(E) -n(I) hụrka -W   -s(I)     e   -R(E) -n(I)
 \ps n               v                          v                n                    v              
-\ge full.moon -prop be -cond.cvb -ep -poss.3sg see -hab   -3sg  snare -acc -poss.2sg neg -nfut -3sg 
+\ge full.moon -prop be -cond.cvb -ep -poss.3sg see -hab   -3sg  snare -acc -poss.2sg neg -nonfut -3sg 
 
 \tx ehni           họrgarar.         
 \mb e   -R(E) -n(I) hor -Gr(E) -R      
 \ps v               v                  
-\ge neg -nfut -3sg  go  -hab   -neg.cvb
+\ge neg -nonfut -3sg  go  -hab   -neg.cvb
 
 \ft If there is a full moon, it sees your snare and doesn't go (into it).
 \ph
@@ -3136,7 +3136,7 @@ as it was previously transcribed, with 2SG
 \id Krivoshapkin_SP_oxota_269
 \tx Ịak hiemkenduk          ịak ịbga   biwren,         ojer,          zveroboj
 \mb ịak  hiːmke -n  -DUk(U) ịak  ịbgọ bi -Gr(E) -n(I) ojer           zveroboj        
-\ps pron v                  pron ?    v               n              n               
+\ps pron n                  pron ?    v               n              n                
 \ge what cough  -nr -abl    what good be -hab   -3sg  St.John's.wort St.John's.wort.R
 
 \ft St. John's wort is good for coughs.
@@ -3149,7 +3149,7 @@ as it was previously transcribed, with 2SG
 \id Krivoshapkin_SP_oxota_270
 \tx Ńan   ịak ịadụk     ulujmi             bọllaγïna, ịak obmoroženie, abịga
 \mb ńaːn ịak  ịak  -DUk(U) ülüj     -mI       buollaγïna ịak  obmoroženie abaga      
-\ps adv  n pron         v                  ptl        pron n           n           
+\ps adv  n pron         v                  ptl        pron n           n            
 \ge and  what what -abl    freeze.Y -cond.cvb dp.Y       what frostbite.R grandfather
 
 \tx ịan...

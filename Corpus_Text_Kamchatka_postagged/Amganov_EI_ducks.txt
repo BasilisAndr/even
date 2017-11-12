@@ -520,7 +520,7 @@ pokazyvaju (1 fotografiju); ičukettem = OK,  ičukeneddem = ja pokazyvaju vot t
 \tx Esemeː,               ajdịtta         goːnni,    pukterewmu           ọjlịn
 \mb e   -R(E)   -m   =eː   ajdịt =t(E)    goːn -n(I) pukterewun -W        ọj      -(dU)LI -n(I)    
 \ps v                      n              v          n                    rel.n                    
-\ge neg -nonfut -1sg =emph truth =utočnit say  -3sg  gun        -poss.1sg surface -prol   -poss.3sg
+\ge neg -nonfut -1sg =emph truth =ptl say  -3sg  gun        -poss.1sg surface -prol   -poss.3sg
 
 \tx niːkičeːn ńọːŋčịrịn.
 \mb niːkičeːn ńọːŋčị -RI  -n(I)    

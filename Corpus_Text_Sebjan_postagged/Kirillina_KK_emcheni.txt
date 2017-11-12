@@ -42,12 +42,12 @@ the school; she also led the after-school group (kruzhok) on local history and f
 \id Kirillina_KK_Emcheni_004
 \tx Bi   gerbew          Kirillina Klavdija Konstantinovna, Sebjan-Küöl hupkučimŋen             istorija,
 \mb biː gerbe -W        Kirillina Klavdija Konstantinovna Sebjan-Küöl hupkut -E  -mŋE  -n(I)     istorija
-\ps pron n               ?         ?        ?              ?           v                          n       
+\ps pron n               ?         ?        ?              ?           n                          n        
 \ge 1sg name  -poss.1sg Kirillina Claudia  Konstantinovna Sebjan-Küöl learn  -ep -agnr -poss.3sg story.R 
 
 \tx abšestvoznanie   hupkučimŋen             bihem.
 \mb obščestvoznanie  hupkut -E  -mŋE  -n(I)     bi -R(E)   -m  
-\ps n                v                          v               
+\ps n                n                          v                 
 \ge social.science.R learn  -ep -agnr -poss.3sg be -nonfut -1sg
 
 \ft My name is Klavdija Konstantinovna Kirillina, I am a teacher of Sebjan-Kuel, a teacher of history and social science.
@@ -59,7 +59,7 @@ the school; she also led the after-school group (kruzhok) on local history and f
 \id Kirillina_KK_Emcheni_005
 \tx Erew      ineŋiw     mut    krajevedčeskij             kružok  kụŋalnị          dʒụːmaːrap,               Maksim, Ganja
 \mb erek -W   ineŋi -W   mut    krajevedčeskij              kružok   kụŋa  -L  -n(I)     dʒụː  -mEː -R(E)   -p      Maksim Ganja
-\ps pron      n          pron   adj                         n        n                   v                          ?      ?     
+\ps pron      n          pron   adj                         n        n                   v                          ?      ?      
 \ge prox -acc day   -acc 1pl.in local.history.culture.adj.R circle.R child -pl -poss.3sg house -vr  -nonfut -1pl.in Maksim Ganja
 
 \tx ńan   Griša.
@@ -171,12 +171,12 @@ in books it is found mostly in the plural form (says IVK), so that she may not h
 \id Kirillina_KK_Emcheni_013
 \tx Nọŋan họː eŋsi  bujusimŋe          biče,     ńan   nọŋan kočuken ọmọlgọ noːlken              biče,
 \mb nọŋan họː  eŋsi   buju -s    -E  -mŋE  bi -čE     ńaːn nọŋan kočuken ọmọlga noː             -lkEn bi -čE    
-\ps pron  adv  adj    v                    v          adv  pron  adj     n      n                     v         
+\ps pron  adv  adj    n                    v          adv  pron  adj     n      n                     v          
 \ge 3sg   very strong hunt -mult -ep -agnr be -pf.ptc and  3sg   small   boy    younger.sibling -prop be -pf.ptc
 
 \tx dʒoːridʒur              tegetčel.
 \mb dʒoːr -NI   -dʒUr        teg      -E  -Č   -čE     -L 
-\ps num                      v                             
+\ps num                      v                              
 \ge two   -coll -ins.prfl.pl sit.down -ep -res -pf.ptc -pl
 
 \ft He was a very good hunter, and he had a younger brother, a small boy, the two of them lived together.
@@ -219,12 +219,12 @@ time period of 24hours
 \id Kirillina_KK_Emcheni_016
 \tx Tar   ụčakat                ńamnịrakan,                   ịlan dọlbọnị nulgedʒeːktu     bejel      dọl...
 \mb tarak ụːčak           -E  -Č   ńamnị  -REk      -E  -n(I)     ịlan  dọlbanị nulge   -ČEk -DU  bej -E  -L  *   -R(E)   -L 
-\ps pron  n                        v                              num   n       v                 n           v              
+\ps pron  n                        v                              num   n       n                 n           v               
 \ge dist  riding.reindeer -ep -ins gallop -cond.cvb -ep -poss.3sg three night   migrate -nr  -dat man -ep -pl *** -nonfut -pl
 
 \tx ọttọn honte bejel      dọlčịwračal.
 \mb ọttọn honte bej -E  -L  dọlčị  -Gr(E) -čE     -L 
-\ps ptl   adj   n           v                         
+\ps ptl   adj   n           v                          
 \ge dp.Y  other man -ep -pl listen -hab   -pf.ptc -pl
 
 \ft When he galloped on that riding reindeer, people (living at a distance of) three days' (migrating), other people, heard.
@@ -242,7 +242,7 @@ time period of 24hours
 \tx iːhnin                       hagarakie            biwreče          ńamnịddakan.
 \mb iːhen      -RI      -n(I)     hagar    -(h)E =kE   bi -Gr(E) -čE     ńamnị  -D    -REk      -E  -n(I)    
 \ps v                             v                    v                 v                                   
-\ge be.audible -ipf.ptc -poss.3sg be.noisy -interj =emph be -hab   -pf.ptc gallop -prog -cond.cvb -ep -poss.3sg
+\ge be.audible -impf.ptc -poss.3sg be.noisy -interj =emph be -hab   -pf.ptc gallop -prog -cond.cvb -ep -poss.3sg
 
 \ft His big riding reindeer, wheezing, clenching his teeth, the sound of his hooves was very loud when he rode.
 \ph
@@ -424,7 +424,7 @@ kotoryj malen'kij" which is used only with kotledčen, but is more correct than 
 \tx Egdʒen mịahmịw                 ittem,           oginuk        eːrbeːčil    emnidʒur         ikeːniken
 \mb egdʒen mịam          -RI      -W   it  -R(E)   -m   ogi -(I)nUk   eːrbeč -E  -L  em   -RIdʒI   -L  ikeː -nIkEn  
 \ps adj    v                           v                rel.n         n              v                 v            
-\ge big    be.surprising -ipf.ptc -acc see -nonfut -1sg top -advb.abl goose  -ep -pl come -ant.cvb -pl sing -sim.cvb
+\ge big    be.surprising -impf.ptc -acc see -nonfut -1sg top -advb.abl goose  -ep -pl come -ant.cvb -pl sing -sim.cvb
 
 \tx degelle,              goːnče.
 \mb deg -E  -L    -R(E)   goːn -čE    
@@ -1103,7 +1103,7 @@ way to say "the baby in the cradle"
 \tx Tadụk       bejel      ulgimiwrečel,                   čụkụčan, hiː ịaw      ikeːdʒenni?        goːniken.
 \mb tarak -DUk(U) bej -E  -L  ulgim -i      -Gr(E) -čE     -L  čụkačaːn hiː ịak  -W   ikeː -D    -E  -nrI goːn -nIkEn  
 \ps pron          n           v                                n        pron pron      v                   v            
-\ge dist  -abl    man -ep -pl ask   -ipf??? -hab   -pf.ptc -pl bird     2sg what -acc sing -prog -ep -2sg say  -sim.cvb
+\ge dist  -abl    man -ep -pl ask   -ipf -hab   -pf.ptc -pl bird     2sg what -acc sing -prog -ep -2sg say  -sim.cvb
 
 \ft Then the people asked: "Bird, what are you singing?".
 \ph

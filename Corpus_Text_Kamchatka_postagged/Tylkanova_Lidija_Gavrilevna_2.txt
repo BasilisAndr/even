@@ -88,7 +88,7 @@ worked as a hunter, living mainly in the forest.
 \ref
 \tx ...  ŋịn ulin...   ulim           gadʒịwaːtta              Twajantakị,    kolxoztakị.
 \mb *... ŋịn uliː -n  uliː -n  -W   ga   -nE     -WEːČ -R(E)   Twajaːn -t(E)kI kolxoz            -t(E)kI
-\ps ?    n   v        v             v                          n               n                        
+\ps ?    n   n        n             v                          n               n                         
 \ge ***  dog feed -nr feed -nr -acc take -intent -gnr  -nonfut Twajaːn -all    collective.farm.R -all   
 \ft He went alone, they went to Twajan, to the collective farm, to fetch food (for the dogs).
 \ph
@@ -103,7 +103,7 @@ worked as a hunter, living mainly in the forest.
 \ref
 \tx I     pušninaw     ŋenuweːtte,               tam     bisin             Čuprin, priemšik.
 \mb i     pušnina -W   ŋen -U    -WEːČ -R(E)   tam     bi -RI  -n(I)     Čuprin  priemšik         
-\ps conj  n            n                       n     v                 ?       n                 
+\ps conj  n            n                       n     v                 ?       n                  
 \ge and.R pelts.R -acc go  -caus -gnr  -nonfut there.R be -pst -poss.3sg Chuprin receiving.clerk.R
 \ft And they took pelts (to the collective farm), there was Chuprin, the receiving clerk.
 \ph

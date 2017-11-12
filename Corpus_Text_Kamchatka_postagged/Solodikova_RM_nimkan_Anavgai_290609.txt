@@ -29,7 +29,7 @@ librarian. She speaks Russian with her children. She is the sister of Rimma Maks
 \id Solodikova_RM_nimkan_003
 \tx Omneken        urkeːn  kusčimŋe          ọrọlbi                        kusčiddin.
 \mb omen -REkEn    hurkeːn kusči         -mŋE  ọrọn              -E  -L  -J       kusči         -D    -RI  -n(I)    
-\ps num            n       v                   n                                  v                                 
+\ps num            n       n                   n                                  v                                  
 \ge one  -iter.adv boy     herd.reindeer -agnr domestic.reindeer -ep -pl -prfl.sg herd.reindeer -prog -pst -poss.3sg
 \ft Once a boy, a herder, herded his reindeer.
 \ev
@@ -41,7 +41,7 @@ librarian. She speaks Russian with her children. She is the sister of Rimma Maks
 \id Solodikova_RM_nimkan_004
 \tx Nọŋan isaγla              kusčiddʒoːtten                         ọrọlbi
 \mb nọŋan isa   -K(Ag) -(dU)LE kusči         -D    -WEːČ -R(E)   -n(I) ọrọn              -E  -L  -J      
-\ps pron  n                    n                                       n                                  
+\ps pron  n                    n                                       n                                   
 \ge 3sg   larch -coll  -loc    herd.reindeer -prog -gnr  -nonfut -3sg  domestic.reindeer -ep -pl -prfl.sg
 
 \ft He herded his reindeer in a larch forest.
@@ -66,7 +66,7 @@ librarian. She speaks Russian with her children. She is the sister of Rimma Maks
 \id Solodikova_RM_nimkan_006
 \tx Ńan   ọŋkanni            elgelen                 egdʒeːmker  ịakịta  išurin.
 \mb ńaːn ọŋka -n  -n(I)     elge     -(dU)LE -n(I)     egdʒen -mkEr hịakịta isu  -RI  -n(I)    
-\ps adv  n                  n                          adj          n       v                  
+\ps adv  n                  n                          adj          n       v                   
 \ge and  feed -nr -poss.3sg interval -loc    -poss.3sg big    -aug  tree    grow -pst -poss.3sg
 \ft And in the middle of the pasture there grew a huge larch.
 \ev
@@ -78,7 +78,7 @@ librarian. She speaks Russian with her children. She is the sister of Rimma Maks
 \id Solodikova_RM_nimkan_007
 \tx Tarak atlan                 neγ...      nelke        irelče      bišin.
 \mb tarak at     -(dU)LE -n(I)     nelkeni      nelkeni      irel -čE     bi -RI  -n(I)    
-\ps pron  n                    n            n            v            v                 
+\ps pron  n                    n            n            v            v                  
 \ge dist  bottom -loc    -poss.3sg early.spring early.spring melt -pf.ptc be -pst -poss.3sg
 \ft At its base there was a thawed patch in early spring.
 \ev
@@ -456,7 +456,7 @@ unuwkaniwu; bi unuram = ja ponjala, ja tebe dala ponjatj = bi unuwkattam; so thi
 \tx "Ečiwu            mergeːtte        uː  tačịkan tar  ọldʒiŋadusanda".
 \mb e   -RI  -W        mergeːt -R       huː tačịkan   tar  ọl                -D(I)ŋE   -DU  -sEn      =DE 
 \ps v                  v                pron adv       adv  v                                              
-\ge neg -pst -poss.1sg think   -neg.cvb 2pl like.that thus become.frightened -fut.ptcp -dat -poss.2pl =ptl
+\ge neg -pst -poss.1sg think   -neg.cvb 2pl like.that thus become.frightened -fut.ptc -dat -poss.2pl =ptl
 
 \ft "I didn't think that you would get such a fright."
 \ph

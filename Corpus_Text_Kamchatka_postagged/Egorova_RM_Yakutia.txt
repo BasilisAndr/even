@@ -388,7 +388,7 @@ biserom', but according to Robbek, nisami = prazdnichnaja obuv', obshitaja biser
 \tx Gerbuttiwu            ịakawụlụtta,        jakutalgu        torer.
 \mb gerbet -RI  -W        ịak  -E  =(W)Ul =t(E)    jakut -E  -L  =GU tore  -r
 \ps v                     pron                     ?                 v
-\ge think  -pst -poss.1sg what -ep =indef =utočnit Yakut -ep -pl =q  speak -3pl
+\ge think  -pst -poss.1sg what -ep =indef =ptl Yakut -ep -pl =q  speak -3pl
 
 \ft I thought who is it who speaks like this, is it Yakuts who are speaking.
 \ru Думала, кто это такие, то ли якуты говорят.
@@ -540,12 +540,12 @@ Kamchatka.
 \ref 10:12
 \tx Ńanasị       ontelesi           severli         Jakutijali       bisil,           ewgidemŋil,
 \mb ńaːn  -E  =sI   honte -L  -E  =sI   sever   -(dU)LI Jakutija -(dU)LI bi -RI       -L  erek -gIdE -mŋE  -L
-\ps ?               adj                 n               n                v                pron
+\ps ?               adj                 n               n                v                n 
 \ge again -ep =emph other -pl -ep =emph north.R -prol   Yakutia  -prol   be -impf.ptc -pl prox -part -agnr -pl
 
 \tx ewgidetki          bisil             torer             ọrọttịč       mungečin.
 \mb erek -gIdE -t(E)kI bi -RI       -L  tore         -r   ọrọč  -DI   -Č   mun        -G(E)čIn
-\ps pron               v                ?                 n                ? 
+\ps pron               v                ?                 n                ?  
 \ge prox -part -all    be -impf.ptc -pl speak.nonfut -3pl Oroch -adjr -ins 1pl.ex.obl -sml
 
 \ft And then, others, those from the north of Yakutia, from living closer to this side, they speak Even like we do.
@@ -688,7 +688,7 @@ has the Reciprocal; but the form in the narrative has neither; figured out the f
 \tx Ńanasị       goːnem            "Naverno tala          ŋenuriten,                 asaltakị."
 \mb ńaːn  -E  =sI   goːn -R(E)   -m   naverno  tarak -(dU)LE ŋen -U      -RI  -tEn      asị   -L  -t(E)kI
 \ps ?               v                 ?        pron          v                          n
-\ge again -ep =emph say  -nonfut -1sg probably dist  -loc    go  -trns?? -pst -poss.3pl woman -pl -all
+\ge again -ep =emph say  -nonfut -1sg probably dist  -loc    go  -caus -pst -poss.3pl woman -pl -all
 
 \ft And I said: "Probably they took it there, to the women."
 \ru Я говорю "Наверно туда принесли, к женщинам."
@@ -880,7 +880,7 @@ budeš' smejat'sja'; ińineledd'inni 'ty načinaeš' smejat'sja'
 \ref 12:05
 \tx A     tardamŋal            ọmŋarịtan         uže.
 \mb a.R   tarak -gIdE -mŋE -L  ọmŋa   -RI  -tEn      uže
-\ps ?     pron                 v                     adv
+\ps ?     n                 v                     adv 
 \ge but.R dist  -part -nr  -pl forget -pst -poss.3pl already.R
 
 \ft But those have already forgotten.
@@ -891,7 +891,7 @@ budeš' smejat'sja'; ińineledd'inni 'ty načinaeš' smejat'sja'
 \ref 12:08
 \tx Ńanasị       ečin      gịakịw     ulgimiddʒoːttem                   bi   nọŋardụlatan.
 \mb ńaːn  -E  =sI   erroːčin  gịakị   -W   ulgim -E  -D    -WEːČ -R(E)   -m   biː nọŋan -L  -(dU)LE -tEn
-\ps ?               n      pron         v                                  pron pron 
+\ps ?               n      pron         v                                  pron pron  
 \ge again -ep =emph prox.qual various -acc ask   -ep -prog -gnr  -nonfut -1sg 1sg 3sg   -pl -loc    -poss.3pl
 
 \ft And so I asked them many different things.
@@ -924,7 +924,7 @@ budeš' smejat'sja'; ińineledd'inni 'ty načinaeš' smejat'sja'
 \ref 12:21
 \tx Ńanda      tarma nurgeniweten.
 \mb ńaːn  =DE  tarma nurge -n  -E  -W   -tEn
-\ps ?          conj  n
+\ps ?          conj  n 
 \ge again =ptl but   dance -nr -ep -acc -poss.3pl
 
 \ft But how they dance!
@@ -940,12 +940,12 @@ aja
 \ref 12:23
 \tx Munduleke                nurgeniddʒoːtte,                  ajịč      umekič uŋe, možet
 \mb mun        -(dU)LE =kE   nurgen -E  -D    -WEːČ -R(E)       aj   -E  -Č   umekič uŋe možet
-\ps n                        v                                  n           adv    interj v 
+\ps n                        v                                  n           adv    interj v  
 \ge 1pl.ex.obl -loc    =emph dance  -ep -prog -gnr  -nonfut good -ep -ins very   now can.R
 
 \tx omendewul   bej nurgedeji,               meːn nurgeni             binni.
 \mb omen =dEwUl bej nurge -DE       -J       meːn nurge -n  -n(I)     bi -R(E)   -n(I)
-\ps num         n   v                        pron n                   v
+\ps num         n   v                        pron n                   v 
 \ge one  =disj  man dance -purp.cvb -prfl.sg refl dance -nr -poss.3sg be -nonfut -3sg
 
 \ft  Chez nous they dance very well, well one person can dance, he has his own dance.
@@ -957,7 +957,7 @@ aja
 \ref 12:31
 \tx A     nọŋartanasị     ịladdʒọːtta                     ečin      ereli, heːde.
 \mb a.R   nọŋartan -E  =sI   ịl       -E  -D    -WEːČ -R(E)       erroːčin  ereli  heːdʒe
-\ps ?     pron               v                                    pron      n      ? 
+\ps ?     pron               v                                    pron      n      ?  
 \ge but.R 3pl      -ep =emph stand.up -ep -prog -gnr  -nonfut prox.qual around circular.dance
 
 \ft But they all stand in a circle like this, 'hede'.
@@ -1017,7 +1017,7 @@ aja
 
 \tx kojeːttewur,              heːdedʒek          bisin,            prazdnik.
 \mb kojeːt  -DE       -WUr     heːdʒe         -ČEk bi -RI  -n(I)     prazdnik
-\ps v                          n                   v                 n
+\ps v                          n                   v                 n 
 \ge look.at -purp.cvb -prfl.pl circular.dance -nr  be -pst -poss.3sg holiday.R
 \ft And we wanted to go and see that, there was a he:dje holiday.
 \ru И мы хотели пойти посмотреть, праздник хэдже был.
@@ -1027,7 +1027,7 @@ aja
 \ref 12:56
 \tx Tarma ečiwun               potomučto biletun               uže      bisin.
 \mb tarma e   -RI  -WUn         potomučto bilet    -WUn         uže       bi -RI  -n(I)
-\ps conj  n                     conj      n                     adv       v 
+\ps conj  n                     conj      n                     adv       v  
 \ge but   neg -pst -poss.1pl.ex because.R ticket.R -poss.1pl.ex already.R be -pst -poss.3sg
 \ft But we didn't go, because we already had tickets (for the airplane).
 \ru Но не ходили, потому что уже билеты (на самолет) были
@@ -1154,12 +1154,12 @@ pel), ikeːweːttin = would refer to something before the time of the party
 \ref 13:43
 \tx Eti     olenovodal               tar   ọrọmŋal
 \mb eti     olenovod          -E  -L  tarak ọrọn              -mŋE  -L
-\ps pron    n                         pron  n
+\ps pron    n                         pron  n 
 \ge these.R reindeer.herder.R -ep -pl dist  domestic.reindeer -agnr -pl
 
 \tx heːdedditen,                       umekič.
 \mb heːdʒe         -D    -RI  -tEn      umekič
-\ps v                                   adv 
+\ps v                                   adv  
 \ge circular.dance -prog -pst -poss.3pl very
 \ft Those reindeer herders did the he:dje, very well.
 \ru Это оленоводы делали хэдже.
@@ -1170,12 +1170,12 @@ pel), ikeːweːttin = would refer to something before the time of the party
 \ref 13:47
 \tx Muttitte         olenovodịlti                        urečin   ọrọmŋalta
 \mb mut    =tIt =DE  olenovod          -E  -L  -t(I)        ureːčin ọrọn              -mŋE  -L  =DE
-\ps pron             n                                      adj     n
+\ps pron             n                                      adj     n 
 \ge 1pl.in =ptl =ptl reindeer.herder.R -ep -pl -poss.1pl.in similar domestic.reindeer -agnr -pl =ptl
 
 \tx tačịnda          nogleŋeːmkeril        aːnda     taːrụtị ịtịːtan        ịamịwụttasị     čileńe.
 \mb tarọːčịn  =DE  nogleŋeː -mkEr -E  -L  haːn =DE  taːrụtị ịtịː -tEn      ịamị =(W)UttE =sI   čileńe
-\ps pron           adj                    ?         n     n              pron                adj 
+\ps pron           adj                    ?         n     n              pron                adj  
 \ge dist.qual =ptl shaggy   -aug  -ep -pl some =ptl dirty   face -poss.3pl why  =indef   =emph dark
 
 \ft Just like our reindeer herders, just as shaggy, some of them just as sunburnt, as if their faces were dirty.

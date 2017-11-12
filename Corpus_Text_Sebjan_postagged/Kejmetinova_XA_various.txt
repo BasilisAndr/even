@@ -186,7 +186,7 @@ Even (reindeer herder) from the Eveno-Bytantaj district who spoke only Sakha (Ya
 \id Kejmetinova_XA_various_015
 \tx Spetsialnost ọrọlčịmŋa,  bujusimŋe,         axọtnịkị i     eto...
 \mb specialnost' ọrọlčị        -mŋE  buju -s    -E  -mŋE  oxotniki  i     eto   
-\ps n            v                   v                    n         conj  pron  
+\ps n            n                   n                    n         conj  pron   
 \ge profession.R herd.reindeer -agnr hunt -mult -ep -agnr hunters.R and.R this.R
 
 \ft They were reindeer herders and hunters by profession.
@@ -198,7 +198,7 @@ Even (reindeer herder) from the Eveno-Bytantaj district who spoke only Sakha (Ya
 \id Kejmetinova_XA_various_016
 \tx Nọŋartan mịan dʒoːr kụŋalkahal      bihitnen.
 \mb nọŋartan mịan dʒoːr kụŋa  -lkEn -SEl bi -RI  -tEn     
-\ps pron     n  n   n                v                 
+\ps pron     n  n   n                v                  
 \ge 3pl      ten  two   child -prop -pl  be -pst -poss.3pl
 \ft They had twelve children.
 \ru
@@ -236,7 +236,7 @@ Even (reindeer herder) from the Eveno-Bytantaj district who spoke only Sakha (Ya
 
 \tx mịar     omen hïllaːkka   udu,      Sebeːndu,         hupkučimŋet        gurgewčirin.
 \mb mịan -L  omen hïllaːkka     erek -DU  Sebjan-Küöl -DU  hupkut -E  -mŋE  -Č   gurgeːwči -RI  -n(I)    
-\ps num      num  adv           pron      n                v                     v                       
+\ps num      num  adv           pron      n                n                     v                        
 \ge ten  -pl one  in.the.year.Y prox -dat Sebjan-Küöl -dat learn  -ep -agnr -ins work      -pst -poss.3sg
 \ft Our eldest brother Nikifor Afanasevich worked here in Sebjan as a teacher in the year '41.
 \ru Наш старший брат НА в 41м году здесь в Себяне работал учителем.
@@ -280,7 +280,7 @@ Even (reindeer herder) from the Eveno-Bytantaj district who spoke only Sakha (Ya
 \id Kejmetinova_XA_various_023
 \tx Nọŋandụk    ńoːdmer,             Kejmetinov Nikolaj Afanasevič, omen ńama   ujun, omen tïːhïnča
 \mb nọŋan -DUk(U) noː             -dmEr  Kejmetinov Nikolaj Afanasevič  omen ńama    ujun omen tïːhïnča  
-\ps pron          n                      ?          ?       ?           n  num     num  num  num        
+\ps pron          n                      ?          ?       ?           n  num     num  num  num         
 \ge 3sg   -abl    younger.sibling -contr Kejmetinov Nikolaj Afanasevich one  hundred nine one  thousand.Y
 
 \tx ujun ńama   dʒoːrmịar      alta, alta  anŋanịdụ baldarịdʒị, uon   hette   anŋịnịŋị     dʒalụbgịrịdʒị,
@@ -403,12 +403,12 @@ Fjodor Ksenofontovich Krivoshapkin, had to take this man to town.
 \id Kejmetinova_XA_various_031
 \tx Kuhim          ...  Gitleriw    deːpki  kuhimečekle              dʒoːridʒur              horejekteːkterin            Fjọdọr
 \mb kuhi  -n  -W   *... Gitler -W   deːpki   kuhi  -mEČ -ČEk -(dU)LE dʒoːr -NI   -dʒUr        hor -E  -jEktEːk -LArIn     Fjodor
-\ps v              ?    n           postpos  v                       num                      v                           ?     
+\ps n              ?    n           postpos  n                       num                      v                           ?      
 \ge fight -nr -acc ***  Hitler -acc opposite fight -rec -nr  -loc    two   -coll -ins.prfl.pl go  -ep -nec.Y   -acc.3pl.Y Fjodor
 
 \tx Ksenofontovič, nọŋan ịahalan             keńeli bimi,        eče        horre.
 \mb Ksenofontovič  nọŋan ịašal -E  -n(I)     keńeli bi -mI       e   -čE     hor -R      
-\ps n              pron  n                   adj    n            v           v            
+\ps n              pron  n                   adj    n            v           v             
 \ge Ksenofontovich 3sg   eyes  -ep -poss.3sg bad    be -cond.cvb neg -pf.ptc go  -neg.cvb
 \ft The two of them were supposed to go to the war against Hitler together, but Fjodor Ksenofontovich didn't go because his eyes were
 bad.
@@ -430,7 +430,7 @@ bad.
 
 \tx kuhinel Gitlerovskie zaxvatčiktarịńun   delbi  kuhimečekle              horritnen.
 \mb kuhinel Gitlerovskie zaxvatčik -LAr  -ńUn delbi  kuhi  -mEČ -ČEk -(dU)LE hor -RI  -tEn     
-\ps ?       adj          n                    adv    v                       v                 
+\ps ?       adj          n                    adv    n                       v                  
 \ge ***     Hitler's.R   invader.R -pl.Y -com very.Y fight -rec -nr  -loc    go  -pst -poss.3pl
 
 \ft Our Nikolaj went to the war against Hitler's invaders from Yakutsk together with Sakha, with a boy called Gavrilev, in the year 1943.
@@ -445,7 +445,7 @@ bad.
 \id Kejmetinova_XA_various_033
 \tx Tala,         tala          herridʒi,   nọŋan Avstrija, Avstrija gọsụdarstvatïn Viene  kọrat
 \mb tarak -(dU)LE tarak -(dU)LE hor -RIdʒI   nọŋan Avstrija Avstrija gosudarstvo -(t)In Vena   gorod 
-\ps pron          pron          v            pron  n        ?        n                  ?      n      
+\ps pron          pron          v            pron  n        ?        n                  ?      n       
 \ge dist  -loc    dist  -loc    go  -ant.cvb 3sg   Austria  Austria  state.R     -gen.Y Vienna town.R
 
 \tx hattụn,           kọrat hattụn            akọpaγa,     badʒịkar tụŋŋan čaːska    dïlï
@@ -831,7 +831,7 @@ not frequently used.
 \id Kejmetinova_XA_various_060
 \tx Bujus...   bujusimŋel             bujutnewrer.
 \mb buju -s    buju -s    -E  -mŋE  -L  buju -s    -nE     -Gr(E) -r  
-\ps v          v                        v                             
+\ps v          n                        v                              
 \ge hunt -mult hunt -mult -ep -agnr -pl hunt -mult -intent -hab   -3pl
 \ft Hunters went to hunt.
 \ru
@@ -842,7 +842,7 @@ not frequently used.
 \id Kejmetinova_XA_various_061
 \tx Tarakam       abagada,         ŋeːlesmide                  họː họːja biwren.
 \mb tarakam       abaga       =DE  ŋeːlem         -RI       =DE  họː  họːja bi -Gr(E) -n(I)
-\ps adv           n                v                             adv  quant v               
+\ps adv           n                v                             adv  quant v                
 \ge in.those.days grandfather =ptl be.frightening -impf.ptc =ptl very many  be -hab   -3sg 
 \ft In those days there were a lot of bears and wolves.
 \ru Тогда медведей и волков очень много было.
@@ -947,7 +947,7 @@ she read it literally. When she had pronounced it while writing she had said hor
 \id Kejmetinova_XA_various_069
 \tx Erew      torem          nọŋartan adịrada          adịrada          altatnịkan           goːngerer.
 \mb erek -W   tore  -n  -W   nọŋartan adịra         =DE  adịra         =DE  alta     -Č   -nIkEn   goːn -Gr(E) -r  
-\ps pron      v              pron     quant              quant              v                      v               
+\ps pron      n              pron     quant              quant              v                      v                
 \ge prox -acc speak -nr -acc 3pl      several.times =ptl several.times =ptl persuade -res -sim.cvb say  -hab   -3pl
 \ft They said these words several times, persuading (the bear).
 \ph adịlda
@@ -980,7 +980,7 @@ she read it literally. When she had pronounced it while writing she had said hor
 \id Kejmetinova_XA_various_072
 \tx Abaga       nọŋmụtnan          dọlčịrịdʒị, ụtalgaran,              tarịt ńajụːkan  amaskị
 \mb abaga       nọŋan -W   -tEn      dọlčị  -RIdʒI   ụtal       -Gr(E) -E  -n(I) tarịt ńańụkụn amar   -skI     
-\ps n           n                 v               v                           adv   adv     ?                
+\ps n           n                 v               v                           adv   adv     ?                 
 \ge grandfather 3sg   -acc -poss.3pl listen -ant.cvb understand -hab   -ep -3sg  then  quietly behind -advb.all
 
 \tx mịːtnịkan     horeddi                toreŋtiki            horesŋeren.
@@ -1149,7 +1149,7 @@ breast.
 \id Kejmetinova_XA_various_085
 \tx Ebehel    anŋanịla    emneken                      bakaldamačakụ              biwetmekkerer.
 \mb ewen -SEl anŋan -(dU)LE em   -REk      -E  -n(I)     bak  -(E)ldE -mEČ -ČEk -W   bi -WEːČ -mEČ -Gr(E) -r  
-\ps n         n             v                            v                           v                        
+\ps n         n             v                            n                           v                         
 \ge Even -pl  year  -loc    come -cond.cvb -ep -poss.3sg find -soc    -rec -nr  -acc be -gnr  -rec -hab   -3pl
 \ft The Evens used to visit each other once a year.
 \ph
@@ -1162,7 +1162,7 @@ breast.
 \id Kejmetinova_XA_various_086
 \tx Bakaldamačaktụ             biwetmekkerer.
 \mb bak  -(E)ldE -mEČ -ČEk -DU  bi -WEːČ -mEČ -Gr(E) -r  
-\ps v                           v                         
+\ps n                           v                           
 \ge find -soc    -rec -nr  -dat be -gnr  -rec -hab   -3pl
 \ft Go visit each other.
 \ru
@@ -1173,7 +1173,7 @@ breast.
 \id Kejmetinova_XA_various_087
 \tx Tarakam       gọrụ tegetčel                    ńimeːrel       ọrọm               maːnịkan   bakaldawrar.
 \mb tarakam       gọrụ teg      -E  -Č   -čE     -L  ńimer     -E  -L  ọrọn              -W   maː  -nIkEn   bak  -(E)ldE -Gr(E) -r  
-\ps n           adv  v                             n                 n                      v             v                        
+\ps n           adv  v                             n                 n                      v             v                         
 \ge in.those.days long sit.down -ep -res -pf.ptc -pl neighbour -ep -pl domestic.reindeer -acc kill -sim.cvb find -soc    -hab   -3pl
 \ft Then the family who had been living (in that place) for a long time met (the visitors) slaughtering a reindeer.
 \ru Тогда долго жившая семья забивая оленей, встречали.

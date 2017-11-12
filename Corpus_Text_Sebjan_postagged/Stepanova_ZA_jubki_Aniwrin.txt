@@ -131,7 +131,7 @@ possibly some of the other "Sakha" were not really ethnic Sakha, either; and the
 \tx Jụbkajị      ehni           nụkkarar,              dʒịː.
 \mb jubka   -J       e   -R(E) -n(I) nụk      -Gr(E) -R       dʒIː
 \ps n                v               v                        ?   
-\ge skirt.R -prfl.sg neg -nfut -3sg  take.off -hab   -neg.cvb aff 
+\ge skirt.R -prfl.sg neg -nonfut -3sg  take.off -hab   -neg.cvb aff 
 \ft He doesn't take off his skirt.
 \ph ehli 
 \ru Он юбку свою не снимает.
@@ -357,12 +357,12 @@ about nuances of meaning; bihem = estj
 \id ZAS_jubki_Aniwrin_026
 \tx Mut    čerez    Tašken, erek Olga Nikiforovna Leningradla       hupkučeku        mụdakrịdʒị Sọčịlị,
 \mb mut    čerez     Taškent  erek Olga Nikiforovna Leningrad -(dU)LE hupkut -ČEk -W   mụdak  -RIdʒI   Sọčị  -(dU)LI
-\ps pron   postpos   ?        pron ?    ?           n                 v                v               n            
+\ps pron   postpos   ?        pron ?    ?           n                 n                v               n             
 \ge 1pl.in through.R Tashkent prox Olga Nikiforovna Leningrad -loc    learn  -nr  -acc finish -ant.cvb Sochi -prol  
 
 \tx Taškenduli,     er   Sebeːndule           emennen,                    biː Taškendụla    emebennew.
 \mb Taškent  -(dU)LI erek Sebjan-Küöl -(dU)LE em   -E  -nnE     -n(I)     biː Taškent  -(dU)LE emeːn -B   -E  -nnE     -W       
-\ps n                pron n                   v                           pron n                v                                 
+\ps n                pron n                   v                           pron n                v                                  
 \ge Tashkent -prol   prox Sebjan-Küöl -loc    come -ep -nec.ptc -poss.3sg 1sg Tashkent -loc    leave -med -ep -nec.ptc -poss.1sg
 \ft We went through Tashkent, Olga Nikiforovna had finished her studies in Leningrad and was supposed to come to Sebjan via Sochi and
 Tashkent, I was supposed to stay in Tashkent.
@@ -454,7 +454,7 @@ bihin, biː emebennew bihin; one can also specify emebennew bidʒin, but that is
 \tx Srednij_Azija   ńọːbatị ehni           bihe        goːniken.
 \mb Srednjaja_Azija ńọːbatị e   -R(E) -n(I) bi -R       goːn -nIkEn  
 \ps ?               adj     v               v           v            
-\ge Central.Asia    white   neg -nfut -3sg  be -neg.cvb say  -sim.cvb
+\ge Central.Asia    white   neg -nonfut -3sg  be -neg.cvb say  -sim.cvb
 \ft "Those from Central Asia aren't white", they said.
 \ru Из Ср. Азии белым не бывает
 \ELANBegin 00:02:28.057
@@ -953,7 +953,7 @@ Moscow
 \tx Miestewur        tamgararap                 ehni           ečin      ịan,          ịak, kvadratnaj_mietr ile
 \mb mesto   -WUr     tam -Gr(E) -R(E)   -p      e   -R(E) -n(I) erroːčin  ịak  -n(I)     ịak  kvadratnyj_meter irek  -(dU)LE
 \ps n                v                          v               pron      pron           pron ?                pron         
-\ge place.R -prfl.pl pay -hab   -nonfut -1pl.in neg -nfut -3sg  prox.qual what -poss.3sg what square.metre.    which -loc   
+\ge place.R -prfl.pl pay -hab   -nonfut -1pl.in neg -nonfut -3sg  prox.qual what -poss.3sg what square.metre.    which -loc   
 
 \tx vystavka     ịlụnnawụr.
 \mb vystavka     ịl       -U    -nnE     -WUr    
@@ -1257,7 +1257,7 @@ haːn and čụrịtaŋalbụ
 \id ZAS_jubki_Aniwrin_093
 \tx Itteːm,         kụŋaw          ịamịgụl   hịwrannị          kirekie     dʒịː,
 \mb it  -R(E)   -m   kụŋa  -W        ịamị =(W)Ul hịwra   -n  -n(I)     kire  =kE   dʒIː
-\ps v                n               pron        v                     adv         ?   
+\ps v                n               pron        n                     adv         ?    
 \ge see -nonfut -1sg child -poss.1sg why  =indef breathe -nr -poss.3sg dirty =emph aff 
 \ft I look, my child's breathing is bad for some reason, right.
 \ph
@@ -1270,7 +1270,7 @@ haːn and čụrịtaŋalbụ
 \id ZAS_jubki_Aniwrin_094
 \tx ụmụjak tala          nipkuče          goːniken
 \mb ụmụjak tarak -(dU)LE nipku     -čE     goːn -nIkEn  
-\ps n      pron          v                 n             
+\ps n      pron          v                 n              
 \ge snot   dist  -loc    suffocate -pf.ptc say  -sim.cvb
 \ft I thought that snot had blocked (his nose).
 \ru я думала что там сопли застряли
@@ -1282,7 +1282,7 @@ haːn and čụrịtaŋalbụ
 \tx Čọŋkaram           čọŋkaram,          ịakda    ehni           emehme,                dʒịː
 \mb čọŋka -R(E)   -m   čọŋka -R(E)   -m   ịak  =DE  e   -R(E) -n(I) em   -E  -m   -R       dʒIː
 \ps v                  v                  pron      v               v                      ?   
-\ge dig   -nonfut -1sg dig   -nonfut -1sg what =ptl neg -nfut -3sg  come -ep -des -neg.cvb aff 
+\ge dig   -nonfut -1sg dig   -nonfut -1sg what =ptl neg -nonfut -3sg  come -ep -des -neg.cvb aff 
 \ft I dug and dug, nothing wants to come out, hey.
 \ph
 \gr čọŋkaram = lit. ja kovyrjaju ili vykovarila
@@ -1340,7 +1340,7 @@ believe from the corpus that there are examples with -kkEn that have an attenuat
 \tx tụkụńan              ehni           emehme                 tarbačan      goːnidʒi.
 \mb tụkụn -(h)E -n(I)     e   -R(E) -n(I) em   -E  -m   -R       tarọːčịn  goːn -RIdʒI  
 \ps v                     v               v                      pron      v            
-\ge hate  -interj -poss.3sg neg -nfut -3sg  come -ep -des -neg.cvb dist.qual say  -ant.cvb
+\ge hate  -interj -poss.3sg neg -nonfut -3sg  come -ep -des -neg.cvb dist.qual say  -ant.cvb
 
 \ft I tried to suck that out with a bulb like this, how annoying, it doesn't want to come, this one!
 \ph turkurem - sounds more like turkuram
@@ -1744,7 +1744,7 @@ be biheku; and it's a good sentence and all correct
 \id ZAS_jubki_Aniwrin_135
 \tx Ọddọn         biː ukčeneku.
 \mb ọd   -R(E)   -n(I) biː ukčen -ČEk -W       
-\ps v                  pron v                   
+\ps v                  pron n                    
 \ge stop -nonfut -3sg  1sg tell  -nr  -poss.1sg
 \ft My story is finished.
 \ph

@@ -201,7 +201,7 @@ was a state farm called Kirovskij, a reindeer herding state farm, there I worked
 \ref 1:57
 \tx Teːmi    ọrọlčịmŋaw       gurgewen                  họː ajịč      haːram.
 \mb teːmi     ọrọlčị        -mŋE  -W   gurgeː -W   -E  -n(I)     họː  aj   -E  -Č   haː  -R(E)   -m  
-\ps conj      v                        n                         adv  adj           v                
+\ps conj      n                        n                         adv  adj           v                 
 \ge therefore herd.reindeer -agnr -acc work   -acc -ep -poss.3sg very good -ep -ins know -nonfut -1sg
 \ft Therefore I know the work of a reindeer herder very well.
 \ru Поэтому рабботу оленовода очень хорошо знаю.
@@ -214,7 +214,7 @@ should be in the Nominative case
 \ref 2:05
 \tx Onton  biː gurgedʒi            er... Hebendule      gurge   bekebbende
 \mb onton  biː gurgeː -DʒI         erek Sebjan -(dU)LE gurgeː bekeč -W   -E  -n(I)     =DE 
-\ps ?      n n                   pron n              n      adv                           
+\ps ?      n n                   pron n              n      adv                            
 \ge then.Y 1sg work   -ins.prfl.sg prox Sebjan -loc    work   all   -acc -ep -poss.3sg =ptl
 
 \tx gurgeːwčiriw,            gramotalbi                 igin  itmi.

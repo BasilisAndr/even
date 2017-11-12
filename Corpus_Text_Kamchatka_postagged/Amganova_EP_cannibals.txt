@@ -31,7 +31,7 @@ and had worked as a milker and then a cleaner.
 
 \tx ọrọčịldụladaka             beju     dʒebmeger.
 \mb ọrọč  -E  -L  -(dU)LE =DE  =kE   bej -W   dʒep -mEgEn -L 
-\ps n                                n        v              
+\ps n                                n        n               
 \ge Oroch -ep -pl -loc    =ptl =emph man -acc eat  -nr    -pl
 
 \ft My grandmother used to tell that a long time ago amongst the Evens there were cannibals.
@@ -46,7 +46,7 @@ and had worked as a milker and then a cleaner.
 \id Amganova_EP_cannibals_003
 \tx Nan    tarak atịkaŋawụr           gawaːtta            onteldule,        atịkaŋassan
 \mb ńaːn tarak atịkan    -GE    -WUr     ga   -WEːČ -R(E)   honte -L  -(dU)LE atịkan    -ŋ  -E  -ssEn    
-\ps adv  pron  n                         v                  adj               v                           
+\ps adv  pron  n                         v                  adj               v                            
 \ge and  dist  old.woman -desig -prfl.pl take -gnr  -nonfut other -pl -loc    old.woman -vr -ep -pretense
 
 \tx bidewur.
@@ -274,7 +274,7 @@ suffix; bi desčiddem = ja lezhu, bi desčisnem = ja lozhusj;
 \tx Ńan   kọbalan tar   ulgimidden                       "Tiːk awụskị      ordʒinni?"
 \mb ńaːn kọbalan tarak ulgim -i      -D    -R(E)   -n(I) tiek aw    -skI      hor -DʒI -nrI
 \ps adv  n       pron  v                                 adv  pron            v            
-\ge and  bear    dist  ask   -ipf??? -prog -nonfut -3sg  now  where -advb.all go  -fut -2sg
+\ge and  bear    dist  ask   -ipf -prog -nonfut -3sg  now  where -advb.all go  -fut -2sg
 
 \ft And that bear asks: "Where will you go now?"
 \ph ʊrʥinni

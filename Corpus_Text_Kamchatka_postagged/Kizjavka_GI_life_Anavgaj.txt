@@ -129,7 +129,7 @@ with her husband.
 \ref
 \tx Akmụ           gurgeːwčiddin                  korovalnun,      nọŋan kusčimŋe          bišin.
 \mb akan   -W        gurgeːwči -D    -RI  -n(I)     korova -L  -ńUn nọŋan kusči         -mŋE  bi -RI  -n(I)    
-\ps n                v                              n               pron  v                   v                
+\ps n                v                              n               pron  n                   v                 
 \ge father -poss.1sg work      -prog -pst -poss.3sg cow.R  -pl -com 3sg   herd.reindeer -agnr be -pst -poss.3sg
 
 \ft My father worked with the cows, he was a herder.
@@ -146,7 +146,7 @@ with her husband.
 \ref
 \tx Bykeńdʒende                 bišin            egdʒeːmker  umekič.
 \mb byk    -ńdʒE -n(I)     =DE  bi -RI  -n(I)     egdʒen -mkEr umekič
-\ps n                           v                 adj          adv    
+\ps n                           v                 adj          adv     
 \ge bull.R -aug  -poss.3sg =ptl be -pst -poss.3sg big    -aug  very  
 \ft And he had SUCH a big bull.
 \ev быкынден-дэ бишин эгдемкыр умыкич
@@ -1498,7 +1498,7 @@ pretty much the same, no big difference
 \ref
 \tx Ńan   sovxozamŋal               guːniten            mụralba        kusčidnedekun.
 \mb ńaːn sovxoz        -E  -mŋE  -L  goːn -RI  -tEn      mụran -L  -W   kusči         -D    -nE     -DE       -WUn        
-\ps adv  n                           v                   n              v                                                 
+\ps adv  n                           v                   n              v                                                  
 \ge and  soviet.farm.R -ep -agnr -pl say  -pst -poss.3pl horse -pl -acc herd.reindeer -prog -intent -purp.cvb -poss.1pl.ex
 
 \ft And the people from the State Farm said we should go and herd the horses.
@@ -1513,7 +1513,7 @@ pretty much the same, no big difference
 \ref
 \tx Ńan   urriwun               Kekukteki,    tadụ     biddiwun.
 \mb ńaːn hor -RI  -WUn         Kekuk -t(E)kI tarak -DU  bi -D    -RI  -WUn        
-\ps adv  n                     n             pron       v                          
+\ps adv  n                     n             pron       v                           
 \ge and  go  -pst -poss.1pl.ex Kekuk -all    dist  -dat be -prog -pst -poss.1pl.ex
 \ft And we went to Kekuk, we lived there.
 \ev Нян урривун Кэккуктэки-таду биддивун.
@@ -2370,7 +2370,7 @@ dokuchatj pjannye; bokuttitan = oni prishli i dokuchali menja; bi bokučiddam bi
 \ref
 \tx Ịawdatit           ekit      nekre        tulin.
 \mb ịak  -W   =DE  =tIt e   -kIč nek -R       tolin  
-\ps pron                v        v            n      
+\ps pron                n        v            n       
 \ge what -acc =ptl =ptl neg -nr  do  -neg.cvb outside
 
 \ft It's impossible to do anything outside.
@@ -2386,7 +2386,7 @@ verbs with meaning "possibility of doing something"
 \ref
 \tx Eregerńun   amŋišam            ečin,     tazeńdʒawu                 binni            egdʒemker    umekič.
 \mb ereger =ńUn  amŋišan         -W   erroːčin  taz    -E  -ńdʒE -W        bi -R(E)   -n(I) egdʒen -mkEr umekič
-\ps adv          n                    pron      n                          v                adj          adv    
+\ps adv          n                    pron      n                          v                adj          adv     
 \ge always =emph smoke.dispenser -acc prox.qual bowl.R -ep -aug  -poss.1sg be -nonfut -3sg  big    -aug  very  
 
 \ft Always a smoke dispenser, I have a huge bowl like this, it's very big.
@@ -2733,7 +2733,7 @@ and no big difference with čakaddam
 \ref
 \tx Omnekende,          ele          min     ag... binni            ansambleŋun,                    Nurgenek   gerben.
 \mb omen -REkEn    =DE  erek -(dU)LE min     bi -R(E)   -n(I) ansambl'   -E  -ŋ   -WUn         nurgen -Ek gerbe -n(I)    
-\ps num                 pron         pron    v                n                                n          n              
+\ps num                 pron         pron    v                n                                n          n               
 \ge one  -iter.adv =ptl prox -loc    1sg.obl be -nonfut -3sg  ensemble.R -ep -aln -poss.1pl.ex dance  -nr name  -poss.3sg
 
 \ft Once, here there is our ansambl, it is called "Nurgenek".
@@ -2748,7 +2748,7 @@ and no big difference with čakaddam
 \ref
 \tx Ọːkụtta    biː kuplečiriwu            talada.
 \mb ọːk  =(W)UttE biː kopleči -RI  -W        tarak -(dU)LE =DE 
-\ps pron          pron v                      pron               
+\ps pron          pron v                      pron                
 \ge when =indef   1sg dance   -pst -poss.1sg dist  -loc    =ptl
 \ft At one time I danced there.
 \nt kopleči refers to Russian dances, while nurge refers to Even dances; so she didn't use the correct verb
@@ -3646,7 +3646,7 @@ accompanies both uredʒeːnnịn and dawrịn)
 \tx Alačịdʒịllịn,                 guːnni     ńan   mụrańdʒawụr        ńanda      talat.
 \mb alat -E  -D    -E  -L    -RI  -n(I)     goːn -n(I) ńaːn mụran -ńdʒE -WUr     ńaːn =DE  tarak -(dU)LE =t(E)   
 \ps v                                       v          adv  n                    adv       pron                  
-\ge wait -ep -prog -ep -inch -pst -poss.3sg say  -3sg  and  horse -aug  -prfl.pl and  =ptl dist  -loc    =utočnit
+\ge wait -ep -prog -ep -inch -pst -poss.3sg say  -3sg  and  horse -aug  -prfl.pl and  =ptl dist  -loc    =ptl
 
 \ft She started to wait, he said, and our (big) horse is again right there.
 \ph

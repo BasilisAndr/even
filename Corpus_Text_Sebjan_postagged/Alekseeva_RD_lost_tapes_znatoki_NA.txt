@@ -83,7 +83,7 @@ mother...
 \tx ulgimiwreriw                        irew       taraw;
 \mb ulgim -i      -Gr(E) -RI  -W        irek  -W   tarak -W
 \ps v                                   pron       pron
-\ge ask   -ipf??? -hab   -pst -poss.1sg which -acc dist  -acc
+\ge ask   -ipf -hab   -pst -poss.1sg which -acc dist  -acc
 
 \tx specialno magnitofonalkan           biwrerit
 \mb specialno magnitofon      -E  -lkEn bi -Gr(E) -RI  -t(I)
@@ -117,12 +117,12 @@ mother...
 
 \tx er   irildu      Ewineːku,       irildu      ọːn
 \mb erek ireli  -DU  ewiː -ČEk -W   ireli  -DU  ọːn
-\ps pron n           v              n           pron
+\ps pron n           n              n           pron 
 \ge prox summer -dat play -nr  -acc summer -dat how
 
 \tx bakal...     taraw      ukčennin,            họːjaw
 \mb bak  -(E)ldE tarak -W   ukčen -RI  -n(I)     họːja -W
-\ps v            pron       n                    quant 
+\ps v            pron       n                    quant  
 \ge find -soc    dist  -acc tell  -pst -poss.3sg many  -acc
 
 \tx ukčennin.
@@ -416,7 +416,7 @@ Russian)
 \tx ukčennemetčinni       ulgimidʒinni.
 \mb ukčen -mEČ -DʒI -nrI ulgim -I    -DʒI -nrI
 \ps v                    v
-\ge tell  -rec -fut -2sg ask   -ipf? -fut -2sg
+\ge tell  -rec -fut -2sg ask   -ipf -fut -2sg
 
 \ft Then sitting, sitting in the evening, you will talk about different things,
 you will ask.
@@ -581,7 +581,7 @@ with batteries.
 \tx Ečimur    čajdaːnịkan    ulgimiwrerem:
 \mb erroːčin  čaj   -DE -nIkEn   ulgim -I    -Gr(E) -R(E)   -m
 \ps pron      v                  v
-\ge prox.qual tea.R -vr -sim.cvb ask   -ipf? -hab   -nonfut -1sg
+\ge prox.qual tea.R -vr -sim.cvb ask   -ipf -hab   -nonfut -1sg
 
 \ft So, drinking tea, I asked:
 \ru Так, распивая чай, спрашивала:
@@ -828,7 +828,7 @@ Grigorjevna was alive, going there, I used to be at her place regularly.
 \tx ulgiminiken          tegekkererem.
 \mb ulgim -I    -nIkEn   teg      -E  -Č   -Gr(E) -R(E)   -m
 \ps v                    v
-\ge ask   -ipf? -sim.cvb sit.down -ep -res -hab   -nonfut -1sg
+\ge ask   -ipf -sim.cvb sit.down -ep -res -hab   -nonfut -1sg
 
 \ft Old women come, I'm listening, sitting... I'm sitting, asking.
 \ru Приходят старушки, это я, сидя, слушаю... спрашивая, сижу.
@@ -972,7 +972,7 @@ what difference there might be in nuance
 \tx ulgimirekes:                       "Ehem
 \mb ulgim -I    -REk      -E  -s(I)     e   -R(E)   -m
 \ps v                                   v
-\ge ask   -ipf? -cond.cvb -ep -poss.2sg neg -nonfut -1sg
+\ge ask   -ipf -cond.cvb -ep -poss.2sg neg -nonfut -1sg
 
 \tx haːra"       goːŋner.
 \mb haː  -R       goːn -Gr(E) -r
@@ -1066,7 +1066,7 @@ statements
 \tx dʒulep       ịaw      dʒọnịkan,  ulgimin...
 \mb dʒul  -(E)rEp ịak  -W   dʒọn     -nIkEn     ulgim -i
 \ps rel.n         pron      v                   v
-\ge front -adjr   what -acc remember -sim.cvb   ask   -ipf???
+\ge front -adjr   what -acc remember -sim.cvb   ask   -ipf
 
 \tx ečimur    ukčemmetniken        haːdụn
 \mb erroːčin  ukčen -mEČ -nIkEn   haːdụn
@@ -1152,7 +1152,7 @@ statements
 \tx dʒaːldụkụj              ulgimiwren.
 \mb dʒaː     -L  -DUk(U) -J       ulgim -I    -Gr(E) -n(I)
 \ps n                             v
-\ge relative -pl -abl    -prfl.sg ask   -ipf? -hab   -3sg
+\ge relative -pl -abl    -prfl.sg ask   -ipf -hab   -3sg
 
 \ft Klim Nikolaevich also knows a lot of different things, he always asks his
 father, his relatives.
@@ -1171,7 +1171,7 @@ father, his relatives.
 \tx ulgimidʒihne,              nọŋọn      emie   họːjaw
 \mb ulgim -I    -DʒI -sEn      nọŋ -Con      emie   họːja -W
 \ps v                          pron         adv    quant
-\ge ask   -ipf? -fut -poss.2pl 3sg -acc.3sg also.Y many  -acc
+\ge ask   -ipf -fut -poss.2pl 3sg -acc.3sg also.Y many  -acc
 
 \tx irew       taraw      haːdʒịn,     haːčaːdʒịn.
 \mb irek  -W   tarak -W   haː  -DʒI -n(I) haː  -čE     -DʒI -n(I)
@@ -1396,12 +1396,12 @@ Fedor Nikolaevich Stepanov is Velikanov.
 
 \tx ọrọl              bičeni,             ọrọlčịmŋal
 \mb ọrọn              -L  bi -čE     -n(I)     ọrọlčị        -mŋE -L
-\ps n                     v                    v
+\ps n                     v                    n 
 \ge domestic.reindeer -pl be -pf.ptc -poss.3sg herd.reindeer -nr  -pl
 
 \tx bičel.
 \mb bi -čE     -L
-\ps v 
+\ps v  
 \ge be -pf.ptc -pl
 
 \ft In the old Viluj there were reindeer, there were reindeer herders.

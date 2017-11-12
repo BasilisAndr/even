@@ -357,7 +357,7 @@ primary grammatical function with additional possible connotations depending on 
 \ref
 \tx Uŋeŋeškkeda                     aččada,   kusčimŋešda                     ačča."
 \mb uŋ        -ŋ   -s(I)     =kkE =DE  ačča =DE  kusči         -mŋE  -s(I)     =DE  ačča
-\ps n                                  ptl       v                                  ptl 
+\ps n                                  ptl       n                                  ptl  
 \ge something -aln -poss.2sg =ptl =ptl neg  =ptl herd.reindeer -agnr -poss.2sg =ptl neg 
 \ft You don't have this one, you don't have a herder."
 \ev
@@ -370,7 +370,7 @@ primary grammatical function with additional possible connotations depending on 
 \ref
 \tx "Iŋe, ačča kusčimŋu!
 \mb iŋe ačča kusči         -mŋE  -W       
-\ps interj ptl  n                             
+\ps interj ptl  n                               
 \ge yes neg  herd.reindeer -agnr -poss.1sg
 \ft "Yes, I have no herder!
 \ev
@@ -383,7 +383,7 @@ primary grammatical function with additional possible connotations depending on 
 \ref
 \tx Tabịt       bide      aγdịram,          aγdị ọːdam.
 \mb tabačịsị biː =DE  hagdị -R(E)   -m   hagdị ọː     -R(E)   -m  
-\ps adv      pron     n                  adj   v                   
+\ps adv      pron     n                  adj   v                    
 \ge then     1sg =ptl old   -nonfut -1sg old   become -nonfut -1sg
 \ft And I have become old.
 \ph
@@ -437,7 +437,7 @@ primary grammatical function with additional possible connotations depending on 
 \ref
 \tx "Bikke    ere  kusčilen          bišem."
 \mb biː =kkE erek kusči         -LEn bi -R(E)   -m  
-\ps pron     pron v                  v              
+\ps pron     pron n                  v               
 \ge 1sg =ptl prox herd.reindeer -nr  be -nonfut -1sg
 \ft "I'm a master at herding reindeer."
 \ev
@@ -450,7 +450,7 @@ primary grammatical function with additional possible connotations depending on 
 \ref
 \tx "Iː, hụlị?
 \mb hiː hụlịčan
-\ps pron n       
+\ps pron n        
 \ge 2sg fox    
 \ft "You, fox??
 \ev
@@ -463,7 +463,7 @@ primary grammatical function with additional possible connotations depending on 
 \ref
 \tx Ọːkarapči         iː  tawụr kusčilen          bišenni?"
 \mb ọːk  -(E)rEp -pčVn hiː tawụr kusči         -LEn bi -R(E)   -nrI
-\ps pron               pron pron  v                  v              
+\ps pron               pron pron  n                  v               
 \ge when -adjr   -adjr 2sg this  herd.reindeer -nr  be -nonfut -2sg
 \ft Since when are you a master at herding reindeer?"
 \ev
@@ -476,7 +476,7 @@ primary grammatical function with additional possible connotations depending on 
 \ref
 \tx "Edʒi       guːkileː           Pačinoj, bikke     er  umekiče    haːwaj   bišeme,            giekiw         ọralbe
 \mb e   -LI      goːn -kIl     =eː   Pačinoj  biː =kkE er  umekič -E  haːwaj    bi -R(E)   -m   -E  gịakị   -W   ọrọn              -L  -W  
-\ps v            v                   ?        n     ?   adv        ?         v                   pron         n                          
+\ps v            v                   ?        n     ?   adv        ?         v                   pron         n                           
 \ge neg -imp.2sg say  -proh.sg =emph Pachinoj 1sg =ptl ptl very   -ep skillfull be -nonfut -1sg -ep various -acc domestic.reindeer -pl -acc
 
 \tx kusčiddʒime,                     ọːjaw      ọːwkandʒima".
@@ -513,7 +513,7 @@ menja, ja natvorila chto vse udivlajutsja, bi miamnam bejildu
 \ref
 \tx Ụlịčankke    dʒọrmịn"
 \mb hụlịčan =kkE dʒọrọm -n 
-\ps n            v         
+\ps n            n          
 \ge fox     =ptl steal  -nr
 \ft The fox is a thief, right".
 \ev
@@ -526,8 +526,8 @@ menja, ja natvorila chto vse udivlajutsja, bi miamnam bejildu
 \ref
 \tx "Ešni         bi   dʒọrmịn    biše,      bi   beldʒim        indu,        Pačinoj, dọldanni?".
 \mb e   -R(E) -n(I) biː dʒọrọm -n  bi -R       biː bel  -DʒI -m   hin     -DU  Pačinoj  dọlda -nrI
-\ps v               n v          v           pron v              pron         ?        v          
-\ge neg -nfut -3sg  1sg steal  -nr be -neg.cvb 1sg help -fut -1sg 2sg.obl -dat Pachinoj hear  -2sg
+\ps v               n n          v           pron v              pron         ?        v            
+\ge neg -nonfut -3sg  1sg steal  -nr be -neg.cvb 1sg help -fut -1sg 2sg.obl -dat Pachinoj hear  -2sg
 \ft "I'm not a thief, I will help you, Pachinoj, do you hear?".
 \ph
 \gr should be "ešem bi ʤormin biše" - she probably started off with "ešni" for "no" and then simply forgot the 1sg neg verb
@@ -541,7 +541,7 @@ menja, ja natvorila chto vse udivlajutsja, bi miamnam bejildu
 \ref
 \tx Atịkan  guːnni     "Edʒi,      etikeːn, tedʒette             tawụr ụlịčajakan     olekčine".
 \mb atịkan    goːn -n(I) e   -LI      etikeːn tedʒe   -Č   -R       tawụr hụlịčan -jEkEn olekči -n(I) -E 
-\ps n         v          n            n       v                     pron  n              v                
+\ps n         v          n            n       v                     pron  n              v                 
 \ge old.woman say  -3sg  neg -imp.2sg old.man believe -res -neg.cvb this  fox     -dim   cheat  -3sg  -ep
 \ft The old woman says "Don't believe (it), old man, that fox is lying!".
 \ph there's a "ta" before teʤette, which is simply an ogovorka
@@ -651,7 +651,7 @@ menja, ja natvorila chto vse udivlajutsja, bi miamnam bejildu
 \ref
 \tx Atịkan, dʒebleŋgen                    kimni!"
 \mb atịkan    dʒeb -LE -ŋ   -GE    -n(I)     kim     -LI     
-\ps n         v                              v               
+\ps n         n                              v                
 \ge old.woman eat  -nr -aln -desig -poss.3sg prepare -imp.2sg
 \ft Old woman, prepare food for it (the fox)!".
 \ev
@@ -664,12 +664,12 @@ menja, ja natvorila chto vse udivlajutsja, bi miamnam bejildu
 \ref
 \tx Atịkanịː   dʒebleŋgen                    umekiče    neːdni,          umekič giekiw         tala,         kamaŋganda,
 \mb atịkan    =Iː   dʒeb -LE -ŋ   -GE    -n(I)     umekič -E  neː -R(E)   -n(I) umekič gịakị   -W   tarak -(dU)LE kam        -ŋ   -GE    -n(I)     =DE 
-\ps n               n                              adv        v                 adv    pron         pron          n                                     
+\ps n               n                              adv        v                 adv    pron         pron          n                                       
 \ge old.woman =emph eat  -nr -aln -desig -poss.3sg very   -ep put -nonfut -3sg  very   various -acc dist  -loc    dried.fish -aln -desig -poss.3sg =ptl
 
 \tx kiliebeŋgende                     ečin      neːdin.
 \mb kilieb  -ŋ   -GE    -n(I)     =DE  erroːčin  neː -RI  -n(I)    
-\ps n                                  n      v                  
+\ps n                                  n      v                   
 \ge bread.R -aln -desig -poss.3sg =ptl prox.qual put -pst -poss.3sg
 
 \ft And the old woman packed a lot of food, different food, dried fish for the fox, bread for it, she put it like this.
@@ -908,7 +908,7 @@ adjectivizers in Lamunkhin Even, because this explains how they might have devel
 \ref
 \tx Haːwajčakan,    ajịčtakan          umekič gurgeːwčilende.
 \mb haːwaj    =čEkEn aj   -E  -Č   =t(E)kEn umekič gurgeːwči -LEn =DE 
-\ps ?                adj                    adv    v                  
+\ps ?                adj                    adv    n                   
 \ge skillfull =emph  good -ep -ins =restr   very   work      -nr  =ptl
 \ft What a master, how well he works!
 \ev
@@ -921,7 +921,7 @@ adjectivizers in Lamunkhin Even, because this explains how they might have devel
 \ref
 \tx Hajịč  umekič kusčiriš,                  ireptude    họralbu                       tara  ošemi, kojeːtlikene           bergel,   ošemi
 \mb aj   -Č   umekič kusči         -RI  -s(I)     ireptu =DE  ọrọn              -L  -W        tarak osemi kojeːt  -LI      =kEnE  berge -L  osemi
-\ps adj       adv    v                            n         n                               pron  ptl   v                       ?         ptl   
+\ps adj       adv    v                            n         n                               pron  ptl   v                       ?         ptl    
 \ge good -ins very   herd.reindeer -pst -poss.2sg even   =ptl domestic.reindeer -pl -poss.1sg dist  azh   look.at -imp.2sg =contr fat   -pl azh  
 
 \tx baːrdatitta                 gịrkawaːt... gịrkawaːtŋa           tuttoːtŋe."
@@ -954,7 +954,7 @@ adjectivizers in Lamunkhin Even, because this explains how they might have devel
 \tx Ešnidetit               ọrkaja                  ịlla.
 \mb e   -R(E) -n(I) =DE  =tIt ọrọn              -kEːjE ịl       -R      
 \ps v                         n                        v                
-\ge neg -nfut -3sg  =ptl =ptl domestic.reindeer -aug   stand.up -neg.cvb
+\ge neg -nonfut -3sg  =ptl =ptl domestic.reindeer -aug   stand.up -neg.cvb
 \ft The big reindeer doesn't get up.
 \ev
 \ru Не встает большой олень.
@@ -1263,7 +1263,7 @@ which bothered her a lot), and of course I'm all confused cos normally it's the 
 \tx "Ešnidetitte                 urečinnide              ńibukew.
 \mb e   -R(E) -n(I) =DE  =tIt =DE  ureːčin -n(I)     =DE  ńubuke -W  
 \ps v                              adj                    adj        
-\ge neg -nfut -3sg  =ptl =ptl =ptl similar -poss.3sg =ptl thin   -acc
+\ge neg -nonfut -3sg  =ptl =ptl =ptl similar -poss.3sg =ptl thin   -acc
 \ft "Somehow he doesn't look thin.
 \ev
 \ru Что-то она не похоже на худую.
@@ -1289,7 +1289,7 @@ which bothered her a lot), and of course I'm all confused cos normally it's the 
 \tx Nan    guːnni     kọč   "Ešni,        biši      uŋne,            ńụːčịdịč  ńụːčịdịč  goːweːtte           svežij vozduxtu
 \mb ńaːn goːn -n(I) kọč      e   -R(E) -n(I) biː =sI   uŋ        -(dU)LE ńụča    -DI   -Č   ńụča    -DI   -Č   goːn -WEːČ -R(E)   svežij  vozdux -DU 
 \ps adv  v          adv      v               pron      n                 n                  n                  v                  adj     n          
-\ge and  say  -3sg  probably neg -nfut -3sg  1sg =emph something -loc    Russian -adjr -ins Russian -adjr -ins say  -gnr  -nonfut fresh.R air.R  -dat
+\ge and  say  -3sg  probably neg -nonfut -3sg  1sg =emph something -loc    Russian -adjr -ins Russian -adjr -ins say  -gnr  -nonfut fresh.R air.R  -dat
 
 \tx bidmi,             teːmi    nan    bergeriwu,           kojeːnni,  umekičeː.
 \mb bi -D    -mI       teːmi     ńaːn berge -RI  -W        kojeː -nrI umekič =eː  
@@ -1404,12 +1404,12 @@ which bothered her a lot), and of course I'm all confused cos normally it's the 
 \ref
 \tx Neːden,          neːden           dʒebleŋgen                    giekiw         umekiče,   kolaliwgali       dʒebden,                 amčawda
 \mb neː -R(E)   -n(I) neː -R(E)   -n(I) dʒeb -LE -ŋ   -GE    -n(I)     gịakị   -W   umekič -E  kolali -W   =gEli dʒeb -DE       -n(I)     am  -čE     -W   =DE 
-\ps v                 v                 v                              pron         adv        n                 v                        v                    
+\ps v                 v                 n                              pron         adv        n                 v                        v                     
 \ge put -nonfut -3sg  put -nonfut -3sg  eat  -nr -aln -desig -poss.3sg various -acc very   -ep roe    -acc =emph eat  -purp.cvb -poss.3sg mix -pf.ptc -acc =ptl
 
 \tx buːtten,              ečin      tewtenun      amčaji,             tarawe         umekiče.
 \mb boː  -Č   -R(E)   -n(I) erroːčin  tewte   -ńUn am  -čE     -J       tarak -W   -E  umekič -E 
-\ps v                       pron      n            v                    pron           adv        
+\ps v                       pron      n            v                    pron           adv         
 \ge give -res -nonfut -3sg  prox.qual berries -com mix -pf.ptc -prfl.sg dist  -acc -ep very   -ep
 \ft And she lays out and lays out different food for him, fish roe for him to eat, she gives a lot of "mixed", (fish) that she mixed like this with berries, a lot of everything.
 \ph

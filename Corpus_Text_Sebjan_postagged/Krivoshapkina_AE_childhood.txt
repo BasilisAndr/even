@@ -399,12 +399,12 @@ is not a single Even word here.
 \ref 3:03; AEK
 \tx Ejmu      [stammers] (ïarïgadu)         hiemkendu        hịstarịdʒị
 \mb enen   -W        ïarïga          -DU  hiːmke -n  -DU  hịsta          -RIdʒI  
-\ps n                n                    v               v                      
+\ps n                n                    n               v                       
 \ge mother -poss.1sg illness.dat.Y?? -dat cough  -nr -dat get.infected.Y -ant.cvb
 
 \tx kokejdegediː,                      kọːr   gerbe.
 \mb koke -j    -dEg      -E     =diː    kọːr      gerbe
-\ps v                                   n         n     
+\ps v                                   n         n      
 \ge die  -conn -assert.Y -3sg.Y =emph.Y measles.R name 
 
 \ft My mother caught a cough and died, right, it's called the measles.
@@ -478,12 +478,12 @@ like I wrote it, possibly with the particle - that's not clear, because EKK pitc
 \ref 3:41; AEK
 \tx Kụŋa bihidʒeːkide                   họččọ bilbet        buollagịmdiː,
 \mb kụŋa  bi -RI       -ČEk -J       =DE  họččọ       bil    -BAt   buol  -dEg      -Im    =diː   
-\ps n     v                               pron        v             v                             
+\ps n     n                               pron        v             v                              
 \ge child be -impf.ptc -nr  -prfl.sg =ptl this.much.Y know.Y -neg.Y aux.Y -assert.Y -1sg.Y =emph.Y
 
 \tx ọmŋọjdọgịmdiː.
 \mb ọmŋa   -j    -dEg      -Im    =diː   
-\ps v                                     
+\ps v                                      
 \ge forget -conn -assert.Y -1sg.Y =emph.Y
 
 \ft But the time when I was a child I don't know very well, I forgot, right.
@@ -775,7 +775,7 @@ Sakha as "hïjjïbïtïm ebite buollar"
 \ref 5:57; EKK
 \tx Ọl   haγana    tarakam       dʒeblede      dʒeblede      ačča biwrerin,                eče?
 \mb ọl     haγana     tarakam       dʒeb -LE =DE  dʒeb -LE =DE  ačča bi -Gr(E) -RI  -n(I)     e   -čE    
-\ps pron   ?          adv           v             v             ptl  v                        v          
+\ps pron   ?          adv           n             n             ptl  v                        v           
 \ge that.Y time.loc.Y in.those.days eat  -nr =ptl eat  -nr =ptl neg  be -hab   -pst -poss.3sg neg -pf.ptc
 
 \ft In those days there was generally no food, isn't that right?
@@ -788,7 +788,7 @@ Sakha as "hïjjïbïtïm ebite buollar"
 \ref 6:02; AEK
 \tx Dʒebemniken           gịrkačajdaγịmdiː.
 \mb dʒeb -E  -m   -nIkEn   gịrka -Č   -E  -j    -dEg      -Im    =diː   
-\ps v                      v                                             
+\ps v                      v                                              
 \ge eat  -ep -des -sim.cvb walk  -res -ep -conn -assert.Y -1sg.Y =emph.Y
 
 \ft I walked hungry, right.
@@ -1337,7 +1337,7 @@ can make it out. But it doesn't appear to be important.
 \ref 10:01; AEK
 \tx Tačịnda          begidnedʒeku,               dʒe,  ọːnihi   kïajan       gọlụ      kaltakčịnnị
 \mb tarọːčịn  =DE  begi   -DnE  -ČEk -W        dʒe    ọːn =ihi kïajan        gọl      -W   kaltak -DʒI -nrI
-\ps pron           n                           ptl    pron     v             n             v               
+\ps pron           n                           ptl    pron     v             n             v                
 \ge dist.qual =ptl freeze -iter -nr  -poss.1sg well.Y how =ptl not.be.able.Y firewood -acc split  -fut -2sg
 
 \ft And so, with such frostbite, how are you supposed to chop wood?
@@ -1350,7 +1350,7 @@ can make it out. But it doesn't appear to be important.
 \ref 10:10; AEK
 \tx Ele          emnidʒi      ńan   gọlụ      kaltakkararam.
 \mb erek -(dU)LE em   -RIdʒI   ńaːn  gọl      -W   kaltak -Gr(E) -R(E)   -m  
-\ps pron         n             ?     n             v                          
+\ps pron         n             ?     n             v                           
 \ge prox -loc    come -ant.cvb again firewood -acc split  -hab   -nonfut -1sg
 
 \ft And having come here I chop wood.

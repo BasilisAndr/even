@@ -114,7 +114,7 @@ razslyshat'
 \tx Hiː tiːk ịaw      ulgimirij                        ulgimuli.
 \mb hiː tiek ịak  -W   ulgim -i      -RI       -J       ulgim -i      -LI     
 \ps pron adv  pron      v                                v                     
-\ge 2sg now  what -acc ask   -ipf??? -impf.ptc -prfl.sg ask   -ipf??? -imp.2sg
+\ge 2sg now  what -acc ask   -ipf -impf.ptc -prfl.sg ask   -ipf -imp.2sg
 
 \ft Ask what you want to ask now.
 \ru Ты сейчас спроси что ты хочешь спросить.
@@ -364,7 +364,7 @@ example somewhere of -U deriving an intransitive verb
 \ref 2:20
 \tx Tak  bi... mut    edu       hupkučektu       gurgeːwčirep.
 \mb tak  biː mut    erek -DU  hupkut -ČEk -DU  gurgeːwči -R(E)   -p     
-\ps interj pron pron   pron      v                v                        
+\ps interj pron pron   pron      n                v                         
 \ge so.R 1sg 1pl.in prox -dat learn  -nr  -dat work      -nonfut -1pl.in
 \ft We work here in the school.
 \ru Мы работаем здесь в школе.
@@ -377,7 +377,7 @@ example somewhere of -U deriving an intransitive verb
 \ref 2:24
 \tx Irildu      ọːrọkọn                noːleːr
 \mb ireli  -DU  ọː     -REk      -E  -n(I)     noː             -(dU)LE -WUr    
-\ps n           v                              n                                
+\ps n           v                              n                                 
 \ge summer -dat become -cond.cvb -ep -poss.3sg younger.sibling -loc    -prfl.pl
 
 \tx stadala        horgerep,          hotnemi,               ńan   haːdụn
@@ -986,7 +986,7 @@ fur, this one of ours also has short fur.
 \ref 5:08
 \tx Otton halgïn goːniken      ńọkadịt       toren     bičeːdʒin.
 \mb otton halgïn goːn -nIkEn   ńọka  -DI   -Č   tore  -n  bi -čE     -DʒI -n(I)
-\ps ?     n      v             n                v         v                    
+\ps ?     n      v             n                n         v                     
 \ge dp.Y  air.Y  say  -sim.cvb Sakha -adjr -ins speak -nr be -pf.ptc -fut -3sg 
 
 \ft And "halgïn" (air) is probably a Sakha word.
@@ -999,7 +999,7 @@ fur, this one of ours also has short fur.
 \ref 5:10
 \tx Tar  [stammers] horridʒur       ịarịdʒụr      emgererep.
 \mb tar  stammers hor -RIdʒI   -L  ịa      -RIdʒI   -L  em   -Gr(E) -R(E)   -p     
-\ps adv  interj   v                v                    n                           
+\ps adv  interj   v                v                    n                            
 \ge thus stammers go  -ant.cvb -pl do.what -ant.cvb -pl come -hab   -nonfut -1pl.in
 
 \ft We go there and do something, then we come.
@@ -1018,12 +1018,12 @@ fur, this one of ours also has short fur.
 
 \tx ńan   domŋe,  domŋele         horridʒur       tačịn       biečem
 \mb ńaːn  doːmŋe doːmŋe -(dU)LE hor -RIdʒI   -L  tarọːčịn  bi -WEːČ -E  -n  -W  
-\ps ?     ?      n              v                pron      v                    
+\ps ?     ?      n              v                pron      n                     
 \ge again taiga  taiga  -loc    go  -ant.cvb -pl dist.qual be -gnr  -ep -nr -acc
 
 \tx ajaːwrap.
 \mb ajaːw -R(E)   -p     
-\ps v                     
+\ps v                      
 \ge love  -nonfut -1pl.in
 
 \ft It's good for a person's what, it's for breathing, and the taiga, going to the taiga, we love going
@@ -1052,7 +1052,7 @@ like that.
 \ref 5:26
 \tx Ịakta    anaːn       ukčenek     ačča. Tara
 \mb ịak  =DE  anaːn        ukčen -ČEk ačča tar 
-\ps pron      ?            v          ptl  adv 
+\ps pron      ?            n          ptl  adv  
 \ge what =ptl on.purpose.Y tell  -nr  neg  thus
 
 \ft There's nothing special anymore to tell. That's all.

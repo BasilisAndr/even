@@ -371,7 +371,7 @@ seeing, "only then he saw that a basked is gone"
 \tx Hatar      ulgumimče            ehni              ile           horren              goːmi.
 \mb hatar      ulgim -i      -mč(I) e   -R(E)   -n(I) irek  -(dU)LE hor -R(E)   -E  -n(I) goːn -mI      
 \ps ptl        v                    v                 pron          v                     v             
-\ge xotja.by.Y ask   -ipf??? -sbjv  neg -nonfut -3sg  which -loc    go  -nonfut -ep -3sg  say  -cond.cvb
+\ge xotja.by.Y ask   -ipf -sbjv  neg -nonfut -3sg  which -loc    go  -nonfut -ep -3sg  say  -cond.cvb
 
 \ft He should have asked, where it (the basket) got to.
 \ru Хотя бы спросил, куда пропала (корзина).

@@ -21,7 +21,7 @@ Sakha olongxo into Even, is a member of the Writer’s Association, člen sojuza
 
 \tx ịstadaldu     pastux,  pastux   goːnne,          ọrọlčịmŋa   bihiw.
 \mb stado  -L  -DU  pastux   pastux   goːn -R(E)       ọrọlčị        -mŋE  bi -RI  -W       
-\ps n               n        n        v                v                   v                
+\ps n               n        n        v                n                   v                 
 \ge herd.R -pl -dat herder.R herder.R say  -nonfut herd.reindeer -agnr be -pst -poss.1sg
 
 \ft I worked in the reindeer herd from my childhood, was a herder, a reindeer herder.
@@ -35,7 +35,7 @@ doesn't understand why he said it, thinks he meant to say "gerbe", 'tak nazyvaem
 \ref 1:59
 \tx Adʒas       [stammers] kotlenereptukuj               oo ịbgọ biwren               [stammers]
 \mb adʒas        stammers kotlen -ErEp -DUk(U) -J       oo ịbgọ bi -Gr(E)      -n(I) stammers
-\ps adv          interj   adj                           interj n    v                    interj   
+\ps adv          interj   adj                           interj n    v                    interj    
 \ge completely.Y stammers small  -adjr -abl    -prfl.sg oh good be -hab.nonfut -3sg  stammers
 
 \tx ọrọndụ           gurgeːwčidmi.
@@ -100,12 +100,12 @@ been influenced by the general Sakha Verbalizing suffix -LAː.
 \ref 2:34
 \tx N... eweditte...          eweditte             torenet           [stammers] oloŋxow
 \mb ewen -DI   -Č   =DE  ewen -DI   -Č   =DE  tore  -n  -E  -Č   stammers oloŋxo     -W  
-\ps n                    n                    v                  interj   n              
+\ps n                    n                    n                  interj   n               
 \ge Even -adjr -ins =ptl Even -adjr -ins =ptl speak -nr -ep -ins stammers Sakha.epos -acc
 
 \tx ńịmkam      ńịmkabgarača              goːniken      [stammers] dọlčịrịw.
 \mb ńịmkan -W   ńịmkan    -B   -Gr(E) -čE     goːn -nIkEn   stammers dọlčị  -RI  -W       
-\ps n           v                             n             interj   v                     
+\ps n           v                             n             interj   v                      
 \ge tale   -acc tell.tale -med -hab   -pf.ptc say  -sim.cvb stammers listen -pst -poss.1sg
 
 \ft I listened [and realized] that in Ewen it is possible to tell the olongxo.
@@ -276,12 +276,12 @@ suffix -Gr(E), with consonant assimilation!
 \ref 4:25
 \tx Dʒe   talị        samolet    dọːhakkan              ọːrịdnan,       bri...
 \mb dʒe    tarak -(dU)LI samolet    dọː  -ČEk -E  -n(I)     ọː   -RI  -tEn      bri...
-\ps ptl    pron          n          v                       v                   ?     
+\ps ptl    pron          n          n                       v                   ?      
 \ge well.Y dist  -prol   airplane.R land -nr  -ep -poss.3sg make -pst -poss.3pl br... 
 
 \tx mukučilbu       girkeniken.
 \mb mukuči -L  -W   girke  -nIkEn  
-\ps n               v               
+\ps n               v                
 \ge log    -pl -acc spread -sim.cvb
 \ft
 \ft Along this place we made a place for planes to land, spreading logs.
@@ -527,7 +527,7 @@ suffix, so omneken = omnekeje
 \ref 6:23
 \tx Torenni             ihnen,                         goːlle                 ajuka.
 \mb tore  -n  -n(I)     i          -s(E)n -R(E)   -n(I) goːn -L    -R(E)       ajuka     
-\ps v                   v                               v                      ?         
+\ps n                   v                               v                      ?          
 \ge speak -nr -poss.3sg be.audible -lim   -nonfut -3sg  say  -inch -nonfut suddenly.Y
 
 \ft His speech (becomes) audible, suddenly they started to speak.
@@ -541,7 +541,7 @@ declination class as e- and bi- (3sg nfut = ihni); in Sebjan, however, this exis
 \ref 6:30
 \tx Oo, tarịt, omen noste ńụč  ọmọlgan          ńuːdni.
 \mb oo tarịt omen noste ńụča    ọmọlga -n(I)     ńoː  -n(I)
-\ps n adv   num  adj   n       n                v          
+\ps n adv   num  adj   n       n                v           
 \ge oh then  one  young Russian boy    -poss.3sg exit -3sg 
 
 \ft Oh, and then one young Russian went out.
@@ -587,7 +587,7 @@ declination class as e- and bi- (3sg nfut = ihni); in Sebjan, however, this exis
 
 \tx buolla, tatkačịmŋa.
 \mb buolla tat   -kEČ  -E  -mŋE 
-\ps ?      v                    
+\ps ?      n                     
 \ge dp.Y   learn -mult -ep -agnr
 
 \ft Then this man ran right back, he (is, was) a teacher, right.
@@ -599,7 +599,7 @@ declination class as e- and bi- (3sg nfut = ihni); in Sebjan, however, this exis
 \ref 7:03
 \tx Tarịt buolla oo da    tar   bideŋen            ịadnị            dʒe   dʒe
 \mb tarịt buolla oo da    tarak bi -DEŋ     -E  -n(I) ịa             -n(I) dʒe    dʒe   
-\ps adv   n      interj ptl   pron  v                     ?                    ptl    ptl    
+\ps adv   n      interj ptl   pron  v                     ?                    ptl    ptl     
 \ge then  dp.Y   oh yes.R dist  be -pst.ptc -ep -3sg  do.what.nonfut -3sg  well.Y well.Y
 
 \tx ńowkekette                   iːwkenni:

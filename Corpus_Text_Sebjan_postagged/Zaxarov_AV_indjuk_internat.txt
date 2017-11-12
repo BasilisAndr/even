@@ -292,7 +292,7 @@ the two; if it were 'that person, when he came, said' it would be expressed as '
 \tx hepkendʒir       ehni,          ŋịn igin  bičeːdʒin           goːniken.
 \mb hepken -DʒI -r   e   -R(E) -n(I) ŋịn iŋin  bi -čE     -DʒI -n(I) goːn -nIkEn  
 \ps v                v               n   ptl   v                     v            
-\ge catch  -fut -3pl neg -nfut -3sg  dog etc.Y be -pf.ptc -fut -3sg  say  -sim.cvb
+\ge catch  -fut -3pl neg -nonfut -3sg  dog etc.Y be -pf.ptc -fut -3sg  say  -sim.cvb
 \ft Nothing will come of that, people will catch us, right, and there are probably dogs.
 \ph bičeːn
 \ru Ничего не будет, наверно люди схватят нас, наверно и собаки есть.
@@ -601,12 +601,12 @@ which I thought might fit the context, but Ija said it is not a word they use he
 \id Zaxarov_AV_indjuk_internat_044
 \tx Tačịja            họːjaja     ukčenek...  ukčenni         koku                    ačča, ebeditde             nahaː
 \mb tarọːčịn  -jEː họːja -jEː ukčen -ČEk ukčen -RI       kïaχ          -W        ačča ewen -DI   -Č   =DE  nahaː 
-\ps pron           quant      v          v               n                       ptl  n                    adv   
+\ps pron           quant      n          v               n                       ptl  n                    adv    
 \ge dist.qual -aug many  -aug tell  -nr  tell  -impf.ptc possibility.Y -poss.1sg neg  Even -adjr -ins =ptl very.Y
 
 \tx ịbgat       ehem             ịar.
 \mb ịbgọ -Č   e   -R(E)   -m   ịa      -R      
-\ps n         v                n                
+\ps n         v                n                 
 \ge good -ins neg -nonfut -1sg do.what -neg.cvb
 \ft I am not able to tell much in Even, and I don't know Even terribly well.
 \ph he says ehem ịar, which of course in this case means don't know
@@ -733,7 +733,7 @@ relationship with others.
 \tx Ehni           ọttọn, tarakam       bọlla..    nahaː ineŋiw     kọŋdas ehni           bihe        ọtt..   a     tak,
 \mb e   -R(E) -n(I) ọttọn tarakam       buollaγïna nahaː  ineŋi -W   kọŋdas  e   -R(E) -n(I) bi -R       ọttọn a.R   tak 
 \ps v               ptl   adv           ptl        adv    n          postpos v               v           ptl   ?     interj
-\ge neg -nfut -3sg  dp.Y  in.those.days dp.Y       very.Y day   -acc through neg -nfut -3sg  be -neg.cvb dp.Y  but.R so.R
+\ge neg -nonfut -3sg  dp.Y  in.those.days dp.Y       very.Y day   -acc through neg -nonfut -3sg  be -neg.cvb dp.Y  but.R so.R
 
 \tx bej bụọllan  ŋiː.. meːn_mọːndʒị biečejer                        bọlla.
 \mb bej buollaγïna ŋiː meːn_mọːndʒị  bi -WEːČ -E  -j    -Ar         buol  -dEg      -E    
@@ -783,7 +783,7 @@ homework.
 \id Zaxarov_AV_indjuk_internat_053c
 \tx Hiehečerep        briemedu    bọllaγïna irek  tarak meroprijatial     ọːwrarịtnan,            ibiːn,   irek  tarak.
 \mb hiːsečin -(E)rEp vremja -DU  buollaγïna irek  tarak meroprijatija -L  ọː     -Gr(E) -RI  -tEn      ewiː -n  irek  tarak
-\ps n                n           ptl        pron  pron  n                 v                            v        pron  pron 
+\ps n                n           ptl        pron  pron  n                 v                            n        pron  pron  
 \ge evening  -adjr   time.R -dat dp.Y       which dist  events.R      -pl become -hab   -pst -poss.3pl play -nr which dist 
 \ft In the evenings, however, there were several events, games and various such things.
 \ru В вечернее время всякие мероприятия были, игры и всякое разное.
@@ -794,7 +794,7 @@ homework.
 \id Zaxarov_AV_indjuk_internat_054
 \tx Bi   tadụ     kollen biddeket                           huː sčas   haːčadʒịhnan            Burtsev
 \mb biː tarak -DU  kotlen bi -D    -REk      -E  -t(I)        huː sejčas haː  -čE     -DʒI -sEn      Burtsev
-\ps pron pron       adj    v                                   pron adv    v                           n       
+\ps pron pron       adj    v                                   pron adv    v                           n        
 \ge 1sg dist  -dat small  be -prog -cond.cvb -ep -poss.1pl.in 2pl now.R  know -pf.ptc -fut -poss.2pl Burtsev
 
 \tx Innokentij Dmitrievič gerbe bej, staršeklassnik         bihin.

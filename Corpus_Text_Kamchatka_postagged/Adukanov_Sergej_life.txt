@@ -280,7 +280,7 @@ tuttoːttin dọlbanụ čuptere = vsju nochj begal;
 \ref
 \tx Ikeːnel         belliten            minu         ajịč      ụnụdakụ                  inŋewuten.
 \mb ikeː -n  -E  -L  bel  -RI  -tEn      min     -W   aj   -E  -Č   ụnụ        -DE       -W        inŋe   -W   -tEn     
-\ps v                v                   pron         adj           v                              n                    
+\ps n                v                   pron         adj           v                              n                     
 \ge sing -nr -ep -pl help -pst -poss.3pl 1sg.obl -acc good -ep -ins understand -purp.cvb -poss.1sg tongue -acc -poss.3pl
 \ft Singers helped we to understand their language well.
 \ph
@@ -297,7 +297,7 @@ minu = pomogli mne, pravilno, and word order is OK, minu belliten = belliten min
 \ref
 \tx Ọddịdʒị emniwu              Kamčatkatkị,   ńan   Ačajwajamtakị   urukeniten.
 \mb ọd   -RIdʒI   em   -RI  -W        Kamčatka  -t(E)kI ńaːn Ačajwajam  -t(E)kI hor -WkEn -RI  -tEn     
-\ps n             v                   n                 adv  n                  v                        
+\ps n             v                   n                 adv  n                  v                         
 \ge stop -ant.cvb come -pst -poss.1sg Kamchatka -all    and  Achajwajam -all    go  -caus -pst -poss.3pl
 \ft When I was finished I came to Kamchatka, and they sent me to Achajwajam.
 \ph urukæniten
@@ -704,7 +704,7 @@ probable
 \tx toreriwenten,                               mm
 \mb tore  -RI      -W   -E  -n(I)     -tEn      mm 
 \ps v                                           interj
-\ge speak -ipf.ptc -acc -ep -poss.3sg -poss.3pl mhm
+\ge speak -impf.ptc -acc -ep -poss.3sg -poss.3pl mhm
 
 \ft I didn't study like that very well... one should have studied their speech/the way they speak
 \ph
@@ -831,7 +831,7 @@ probable
 \tx Ńan   edut                tiek elet                   gurgewčiddem.
 \mb ńaːn erek -DU  =t(E)    tiek erek -(dU)LE =t(E)    gurgeːwči -D    -R(E)   -m  
 \ps adv  pron               adv  pron                  v                           
-\ge and  prox -dat =utočnit now  prox -loc    =utočnit work      -prog -nonfut -1sg
+\ge and  prox -dat =ptl now  prox -loc    =ptl work      -prog -nonfut -1sg
 \ft And here, I am working right here now.
 \ELANBegin 00:06:15.020
 \ELANEnd 00:06:18.400
@@ -1536,12 +1536,12 @@ kostre, could have said tọgdụla, no difference
 \ref
 \tx Edu       atkịkam      kaltakụ         biddʒoːttem                 ńan   časkị         nulgeddʒoːttem
 \mb erek -DU  atkịkan -W   kaltar -k(E) -W   bi -D    -WEːČ -R(E)   -m   ńaːn čaːg -skI      nulge   -D    -WEːČ -R(E)   -m  
-\ps pron      n            v                 v                           adv  adj            v                               
+\ps pron      n            n                 v                           adv  adj            v                                
 \ge prox -dat moon    -acc crack  -nr   -acc be -prog -gnr  -nonfut -1sg and  far  -advb.all migrate -prog -gnr  -nonfut -1sg
 
 \tx untetki.
 \mb honte -t(E)kI
-\ps adj           
+\ps adj            
 \ge other -all   
 
 \ft I am here for half a month and move on to a different (place).

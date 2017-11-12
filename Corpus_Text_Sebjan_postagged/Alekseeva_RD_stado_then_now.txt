@@ -402,7 +402,7 @@ reindeer, e.g. kotollo ačča means a person has no reindeer (to carry his load 
 \id Alekseeva_RD_stado_then_now_033
 \tx Tačịmụr   gurgewčiwrer           ọralčịmŋal.
 \mb tarọːčịn  gurgeːwči -Gr(E) -r   ọrọlčị        -mŋE  -L 
-\ps pron      v                     v                      
+\ps pron      v                     n                       
 \ge dist.qual work      -hab   -3pl herd.reindeer -agnr -pl
 \ft Reindeer herders work like that.
 \ru Так работают оленеводы.
@@ -413,8 +413,8 @@ reindeer, e.g. kotollo ačča means a person has no reindeer (to carry his load 
 \id Alekseeva_RD_stado_then_now_034
 \tx Tarak nọŋartan gurgewutnen            ŋiːde    urge  ehni           goːŋner.
 \mb tarak nọŋartan gurgeː -W   -tEn      ŋiː =DE  urge  e   -R(E) -n(I) goːn -Gr(E) -r  
-\ps pron  pron     n                     pron     adj   v               v                
-\ge dist  3pl      work   -acc -poss.3pl who =ptl heavy neg -nfut -3sg  say  -hab   -3pl
+\ps pron  pron     n                     pron     adj   v               v                 
+\ge dist  3pl      work   -acc -poss.3pl who =ptl heavy neg -nonfut -3sg  say  -hab   -3pl
 \ft Nobody says that their work is hard.
 \ph
 \nt Probably the reindeer herders themselves don't consider their work hard, they take this kind of life for granted.
@@ -1325,7 +1325,7 @@ nọŋardʒịtnan
 \id Alekseeva_RD_stado_then_now_104
 \tx Ọjụda         hịlkadʒịr,    dʒeblew       iridʒir,       kụŋaw     iččir,       tarak.
 \mb ọj      -W   =DE  hịlka -DʒI -r   dʒep -LE -W   iri  -DʒI -r   kụŋa  -W   it  -DʒI -r   tarak
-\ps n                 v               v             v              n          v             pron 
+\ps n                 v               n             v              n          v             pron  
 \ge clothes -acc =ptl wash  -fut -3pl eat  -nr -acc cook -fut -3pl child -acc see -fut -3pl dist 
 \ft They'll wash clothes, they'll cook food, they'll watch the child (RDA's 1.5 year old grandchild), like that.
 \ph
@@ -1338,7 +1338,7 @@ nọŋardʒịtnan
 \id Alekseeva_RD_stado_then_now_105
 \tx Gọlụŋụr            gọllịrịdʒị,  iːwdʒir.
 \mb gọl      -E  -ŋ   -WUr     gọl      -lI -RIdʒI   iː    -U    -DʒI -r  
-\ps n                          v                     n                     
+\ps n                          v                     n                      
 \ge firewood -ep -aln -prfl.pl firewood -vr -ant.cvb enter -caus -fut -3pl
 \ft They'll chop wood and bring it inside.
 \ph
@@ -1573,12 +1573,12 @@ nọŋardʒịtnan
 \id Alekseeva_RD_stado_then_now_126
 \tx Ee, nọŋan mutu        ewineːk    gerbe bïraːhannịktụ - irilu       bakaldadʒak       bïraːhannịk
 \mb ee nọŋan mut    -W   ewiː -ČEk gerbe prazdnik  -DU  ireli  -W   bak  -(E)ldE -ČEk prazdnik 
-\ps interj pron  pron        v         n     n              n           v                 n        
+\ps interj pron  pron        n         n     n              n           n                 n         
 \ge eh 3sg   1pl.in -acc play -nr  name  holiday.R -dat summer -acc find -soc    -nr  holiday.R
 
 \tx ịadụn            deremčečeːktun            gennedʒin.
 \mb ịak  -DU  -n(I)     deremke -ČEk -DU  -n(I)     gel      -nE     -DʒI -n(I)
-\ps pron                v                           v                           
+\ps pron                n                           v                             
 \ge what -dat -poss.3sg rest    -nr  -dat -poss.3sg look.for -intent -fut -3sg 
 
 \ft He will come to fetch us at the Ewinek, at the festival to meet the summer, while resting.
@@ -1590,7 +1590,7 @@ nọŋardʒịtnan
 \id Alekseeva_RD_stado_then_now_127
 \tx Tar   amargịdụkụn              mut    hordʒip.
 \mb tarak amar   -gIdE -DUk(U) -n(I)     mut    hor -DʒI -p     
-\ps pron  n                              pron   v                
+\ps pron  n                              pron   v                 
 \ge dist  behind -part -abl    -poss.3sg 1pl.in go  -fut -1pl.in
 \ft After that we'll go.
 \ru После этого мы поедем.
@@ -1765,7 +1765,7 @@ nọŋardʒịtnan
 \tx Erbečen   ọhọk ehni           bihe,       honte, honte ịak..
 \mb erroːčin  ọhọk    e   -R(E) -n(I) bi -R       honte honte ịak 
 \ps pron      n       v               v           adj   adj   pron
-\ge prox.qual stove.Y neg -nfut -3sg  be -neg.cvb other other what
+\ge prox.qual stove.Y neg -nonfut -3sg  be -neg.cvb other other what
 \ft It isn't a stove like this (our brick stove), it's different.
 \ru Не такая печка, другая.
 \ELANBegin 00:09:48.887
@@ -1877,12 +1877,12 @@ nọŋardʒịtnan
 \id Alekseeva_RD_stado_then_now_152
 \tx Dʒulle       bọlla...   dʒulle       ịada, palakka gọlban                   ịrụkaw
 \mb dʒul  -(dU)LE buollaγïna dʒul  -(dU)LE ịada palatka gọl      -W   -E  -n(I)     ịr   -W     -k(E) -W  
-\ps rel.n         ptl        rel.n         ?    n       n                           n                     
+\ps rel.n         ptl        rel.n         ?    n       n                           n                      
 \ge front -loc    dp.Y       front -loc    ***  tent.R  firewood -acc -ep -poss.3sg drag -advrs -nr   -acc
 
 \tx ọrọndụ           holtewekkererit.
 \mb ọrọn              -DU  holte       -WEːČ -Gr(E) -RI  -t(I)       
-\ps n                      v                                          
+\ps n                      v                                           
 \ge domestic.reindeer -dat carry.along -gnr  -hab   -pst -poss.1pl.in
 \ft Previously we carried the tent poles, iruka, with us by reindeer.
 \ph
@@ -1907,7 +1907,7 @@ which is dragged'.
 
 \ft And nowadays, in whichever place you are, everything is there, it remained from before.
 \ph
-\gr The correct prog-nfut form for 2sg 'ty naxodišsja' = bidʒenni
+\gr The correct prog-nonfut form for 2sg 'ty naxodišsja' = bidʒenni
 \ru А в сегодняшее время, в каком месте ты есть, везде есть, старое осталось.
 \ELANBegin 00:10:33.867
 \ELANEnd 00:10:40.965
@@ -1927,12 +1927,12 @@ which is dragged'.
 \id Alekseeva_RD_stado_then_now_155
 \tx Ọttọn tar   tiːk ịl... dʒoːris      stadala        hormi         ịrụkawụr             ịrbatčịp,
 \mb ọttọn tarak tiek ịlan  dʒoːr -Is    stado  -(dU)LE hor -mI       ịr   -W     -k(E) -WUr     ịr   -WEːČ -DʒI -p     
-\ps ptl   pron  adv  num   num          n              v             n                          v                      
+\ps ptl   pron  adv  num   num          n              v             n                          v                       
 \ge dp.Y  dist  now  three two   -ord.Y herd.R -loc    go  -cond.cvb drag -advrs -nr   -prfl.pl drag -gnr  -fut -1pl.in
 
 \tx tala          muŋŋi               ačča.
 \mb tarak -(dU)LE mun        -ŋI        ačča
-\ps pron          ?                     ptl  
+\ps pron          ?                     ptl   
 \ge dist  -loc    1pl.ex.obl -pred.poss neg 
 \ft But now when we go to the second reindeer brigade we will take along our iruka, (because) there is nothing of ours there.
 \ru А сейчас когда поедем в 2е стадо, будем таскать свою ируку, там нашего нету.
@@ -1978,12 +1978,12 @@ which is dragged'.
 \id Alekseeva_RD_stado_then_now_158
 \tx Tar   irulendu         taraw      palakkawụr     gọlban                   ịrụkawụr
 \mb tarak urulen      -DU  tarak -W   palatka -WUr     gọl      -W   -E  -n(I)     ịr   -W     -k(E) -WUr    
-\ps pron  n                pron       n                n                           n                         
+\ps pron  n                pron       n                n                           n                          
 \ge dist  folded.tent -dat dist  -acc tent.R  -prfl.pl firewood -acc -ep -poss.3sg drag -advrs -nr   -prfl.pl
 
 \tx ịrbakkararap.
 \mb ịr   -WEːČ -Gr(E) -R(E)   -p     
-\ps v                                 
+\ps v                                  
 \ge drag -gnr  -hab   -nonfut -1pl.in
 \ft On this urulen we drag the iruka, the poles of the tent.
 \ph

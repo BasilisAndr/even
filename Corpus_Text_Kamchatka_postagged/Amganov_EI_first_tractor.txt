@@ -187,12 +187,12 @@ coming.
 
 \tx tembekew             ọkaːtčakam               nan
 \mb temben -k(E) -E  -W   ọkaːt -čEn -KEn     -W   ńaːn
-\ps adj                   n                        adv 
+\ps n                   n                        adv  
 \ge soft   -nr   -ep -acc river -dim -dim.int -acc and 
 
 \tx dawdʒịr,            nan    eter           tikre.
 \mb daw         -DʒI -r   ńaːn e   -t(E) -r   tik  -R      
-\ps n                     adv  v              v             
+\ps n                     adv  v              v              
 \ge cross.river -fut -3pl and  neg -fut  -3pl fall -neg.cvb
 
 \ft And they say, How will they cross the soft (bottom of the river), the
@@ -452,7 +452,7 @@ water, like this we used to walk.
 \id Amganov_EI_first_tractor_022
 \tx Tembeken tar   tembeglititte             tar.
 \mb tembeken tarak temben -k(E) -(dU)LI =tIt tarak
-\ps adj      pron  adj                       pron 
+\ps adj      pron  n                       pron  
 \ge soft     dist  soft   -nr   -prol   =ptl dist 
 
 \ft Soft, and through the softness (through the mud).
@@ -465,7 +465,7 @@ water, like this we used to walk.
 \id Amganov_EI_first_tractor_023
 \tx Umekit  nan    omen predsedatel  bihin,            Beljaev,
 \mb umekič ńaːn omen predsedatel' bi -RI  -n(I)     Beljaev
-\ps adv    adv  n  n            v                 ?       
+\ps adv    adv  n  n            v                 ?        
 \ge very   and  one  chairman.R   be -pst -poss.3sg Beljaev
 
 \tx tarak krasnyj.flažok, ečin      nekehnen.
@@ -559,12 +559,12 @@ RME 'transcribed' the Plural form.
 
 \tx tembegli
 \mb temben -k(E) -(dU)LI
-\ps adj                 
+\ps n                  
 \ge soft   -nr   -prol  
 
 \tx tụrkịdakačịdịsna.
 \mb tụrkị -DE -kEČ  -E  -D    -E  -s(E)n -R(E)  
-\ps n                                            
+\ps n                                             
 \ge sled  -vr -mult -ep -prog -ep -lim   -nonfut
 
 \ft And here they got drunk and started to drive the tractors right next to

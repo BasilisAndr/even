@@ -98,7 +98,7 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \ref
 \tx A     uŋen                  babụška    (atlatan)              atlan,              teːmi    minu         goːndiddʒoːtte               Čọpaŋa      [laughter].
 \mb a.R   uŋ        -E  -n(I)     babuška.R     hat  -(dU)LE -tEn      hat  -(dU)LE -n(I)     teːmi     min     -W   goːn -D    -WEːČ -R(E)       Čọpan    -mŋE laughter
-\ps ?     n                       ?             rel                    rel                    conj      pron         v                            n             ?       
+\ps ?     n                       ?             rel                    rel                    conj      pron         v                            n             ?        
 \ge but.R something -ep -poss.3sg grandmother.R base -loc    -poss.3pl base -loc    -poss.3sg therefore 1sg.obl -acc say  -prog -gnr  -nonfut Sopočnoe -nr  laughter
 
 \ft At the base of (the mountain) Babushka (grandmother), that's why they call me Čopanga.
@@ -113,7 +113,7 @@ in that area, she didn't know this; it's not a taboo term
 \ref
 \tx A     bi   ečiwu             kụŋa bimi         ụnụr            ịamị minu         tačịn       uŋiddʒoːtte                   ulgimiriwu.
 \mb a.R   biː e   -RI  -W        kụŋa  bi -mI       ụnụ        -R       ịamị min     -W   tarọːčịn  uŋ -E  -D    -WEːČ -R(E)       ulgim -i   -RI  -W       
-\ps ?     pron v                  n     v            v                   pron pron         n      v                              v                         
+\ps ?     pron v                  n     v            v                   pron pron         n      v                              v                          
 \ge but.R 1sg neg -pst -poss.1sg child be -cond.cvb understand -neg.cvb why  1sg.obl -acc dist.qual do -ep -prog -gnr  -nonfut ask   -ipf -pst -poss.1sg
 
 \ft And I, when I was small, didn't understand at all why they do (i.e. say)  like that.
@@ -139,12 +139,12 @@ it's not clear what he actually says.
 \ref
 \tx Bebe, Bebe biče,     vot    nọŋan tar   uŋiddʒoːtten                    Čọpaŋa      Čọpaŋa      a     nọŋanịsị   bejdʒi
 \mb Bebe Bebe bi -čE     vot    nọŋan tarak uŋ -E  -D    -WEːČ -R(E)   -n(I) Čọpan    -mŋE Čọpan    -mŋE a.R   nọŋan -E  =sI   bejdʒi 
-\ps ?    ?    v          ptl    pron  pron  v                                n             n             ?     pron            ?      
+\ps ?    ?    v          ptl    pron  pron  v                                n             n             ?     pron            ?       
 \ge Bebe Bebe be -pf.ptc here.R 3sg   dist  do -ep -prog -gnr  -nonfut -3sg  Sopočnoe -nr  Sopočnoe -nr  but.R 3sg   -ep =emph himself
 
 \tx Čọpaŋaduk,          Čọpandụk     bisin.
 \mb Čọpan    -mŋE -DUk(U) Čọpan    -DUk(U) bi -RI  -n(I)    
-\ps n                     n                v                 
+\ps n                     n                v                   
 \ge Sopočnoe -nr  -abl    Sopočnoe -abl    be -pst -poss.3sg
 
 \ft Bebe, the late Bebe, he laughed Čopanga, Čopanga, but he himself was from Sopočnoe.
@@ -155,7 +155,7 @@ it's not clear what he actually says.
 \ref
 \tx Ejek,   ejekmeje      bisin,            ili  ejek    ọrọčnun    amụttan.
 \mb ejek    ejek    =mEjE bi -RI  -n(I)     ili  ejek    ọrọč  -ńUn am  -U    -Č   -R(E)   -n(I)
-\ps n       n             v                 conj n       n          v                            
+\ps n       n             v                 conj n       n          v                             
 \ge Russian Russian =ptl  be -pst -poss.3sg or.R Russian Oroch -com mix -caus -res -nonfut -3sg 
 
 \ft He was a Russian, it turns out, or Russian mixed with Even.
@@ -347,12 +347,12 @@ think it's fairly clear that hor- is just a general motion verb "go")
 \ref
 \tx Ńan   tala          ekič     ụnụr            bisin             ịamị tačịn       kaltamnịn,          zaris uŋe ečiwun               ụnụr,
 \mb ńaːn  tarak -(dU)LE e   -kIč ụnụ        -R       bi -RI  -n(I)     ịamị tarọːčịn  kaltam -RI  -n(I)     zaris uŋe e   -RI  -WUn         ụnụ        -R      
-\ps ?     pron          v        v                   v                 pron pron      v                     ?     interj v                     v                  
+\ps ?     pron          n        v                   v                 pron pron      v                     ?     interj v                     v                   
 \ge again dist  -loc    neg -nr  understand -neg.cvb be -pst -poss.3sg why  dist.qual crack  -pst -poss.3sg ????  now neg -pst -poss.1pl.ex understand -neg.cvb
 
 \tx prosto   mergeːčiddiwun,                   ọːn ịamị tačịn       kaltamnịn.
 \mb prosto   mergeːt -E  -D    -RI  -WUn         ọːn ịamị tarọːčịn  kaltam -RI  -n(I)    
-\ps adv      v                                   n pron pron      v                     
+\ps adv      v                                   n pron pron      v                      
 \ge simply.R think   -ep -prog -pst -poss.1pl.ex how why  dist.qual crack  -pst -poss.3sg
 
 \ft And it was impossible to understand, why it cracked like that, and we couldn't understand, simply thought, why did it crack like that.
@@ -464,7 +464,7 @@ away).
 \tx Ịak uŋe ewkilbe       uŋniten,          a     ewki bisin             tarkka     bejtede            urečin,  omen_ịlkị.
 \mb ịak  uŋe ewki -L  -W   uŋ -RI  -tEn      a.R   ewki bi -RI  -n(I)     tarak =kkE bej =t(E)    =DE  ureːčin omen_hịlkị  
 \ps pron interj n             v                 ?     n    v                 pron       n                 adj     adv         
-\ge what now god  -pl -acc do -pst -poss.3pl but.R god  be -pst -poss.3sg dist  =ptl man =utočnit =ptl similar all.the.same
+\ge what now god  -pl -acc do -pst -poss.3pl but.R god  be -pst -poss.3sg dist  =ptl man =ptl =ptl similar all.the.same
 
 \ft They didn't make gods, but (a) god was also like a human, similar, identical.
 \ru Не боги делали, а бог был тоже как человек похоже, одинаково.
@@ -474,7 +474,7 @@ away).
 \tx Ịak čajčabal                  uːnteč,   mutŋi            uːntete.
 \mb ịak  čajčaba                 -L  uːnte -Č   mut    -ŋI        honte =t(E)   
 \ps pron n                           n          pron              adj           
-\ge what reindeer.herding.Koryak -pl other -ins 1pl.in -pred.poss other =utočnit
+\ge what reindeer.herding.Koryak -pl other -ins 1pl.in -pred.poss other =ptl
 
 \ft The Koryaks (do it) one way, and we (do it) differently.
 \ru У коряков так, а у нас так.

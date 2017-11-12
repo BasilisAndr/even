@@ -42,12 +42,12 @@ part, and only fairly briefly comes back to the topic of her brother, I decided 
 \ref 10:00
 \tx Teːmi    hiː aj   bujusimŋe          ọːdajị,              nọnap    maːdaŋị            objazatelno
 \mb teːmi     hiː aj   buju -s    -E  -mŋE  ọː     -DE       -J       nọnap      maː  -DEŋ     -J       objazatelno   
-\ps conj      pron adj  v                    v                         adj        v                      adv           
+\ps conj      pron adj  n                    v                         adj        v                      adv            
 \ge therefore 2sg good hunt -mult -ep -agnr become -purp.cvb -prfl.sg the.first. kill -pst.ptc -prfl.sg without.fail.R
 
 \tx haːwdị bejdu    boːnnes.
 \mb hagdị bej -DU  boː  -nnE     -s(I)    
-\ps adj   n        v                       
+\ps adj   n        v                        
 \ge old   man -dat give -nec.ptc -poss.2sg
 
 \ft Therefore, in order for you to become a good hunter, you absolutely have to give your first kill to an old person.
@@ -389,7 +389,7 @@ person tries to share the hunting spoils, after she grabs (it)."
 
 \tx maːlan   bihin,            čaːmakụda      maːlan.
 \mb maː  -LEn bi -RI  -n(I)     čaːmak   -W   =DE  maː  -LEn
-\ps v         v                 n                  v        
+\ps n         v                 n                  n         
 \ge kill -nr  be -pst -poss.3sg tarbagan -acc =ptl kill -nr 
 
 \ft Notwithstanding (the failed attempt to share his first prey) my brother, after he grew up, was a good hunter of mountain sheep, of
@@ -403,7 +403,7 @@ mountain prairie dogs.
 \ref 12:15
 \tx Ammụda              maːlan   bihin,            ńan   akmụda.
 \mb aman   -W        =DE  maː  -LEn bi -RI  -n(I)     ńaːn akan          -W        =DE 
-\ps n                     v         v                 n  n                            
+\ps n                     n         v                 n  n                              
 \ge father -poss.1sg =ptl kill -nr  be -pst -poss.3sg and  older.brother -poss.1sg =ptl
 
 \ft And my father was a good hunter, and my older brother.
@@ -416,7 +416,7 @@ mountain prairie dogs.
 \ref 12:18
 \tx Tar   họːjat     ụjamkamda              ụjamkamịnịkan,        kokerile               ịstalaːkan ere,
 \mb tarak họːja -Č   ụjamkan        -W   =DE  ụjamkan        -mI -nIkEn   koke -RI       -(dU)LE ịstala -KEn erek
-\ps pron  n      n                        v                           v                      postpos     pron 
+\ps pron  n      n                        v                           v                      postpos     pron  
 \ge dist  many  -ins mountain.sheep -acc =ptl mountain.sheep -vr -sim.cvb die  -impf.ptc -loc    until  -dim prox
 
 \tx akmụ.
@@ -568,12 +568,12 @@ the standard form it should probably be neːkerget, the construction ZAS used is
 
 \tx ečin      bej bihiniken,  bejdu    aj   mergem            ajịč      dʒọmkadnịkan,  biː
 \mb erroːčin  bej bi -nIkEn   bej -DU  aj   mergeːt -n  -W   aj   -E  -Č   dʒọmkat -nIkEn   biː
-\ps pron      n   v           n        adj  v                adj           v                pron
+\ps pron      n   v           n        adj  n                adj           v                pron 
 \ge prox.qual man be -sim.cvb man -dat good think   -nr -acc good -ep -ins think   -sim.cvb 1sg
 
 \tx mergendulew                    emeːbdeŋetnen                   họː aj.
 \mb mergeːt -n  -(dU)LE -W        emeːn -B   -DEŋ     -E  -tEn      họː  aj  
-\ps v                             v                                 adv  adj  
+\ps n                             v                                 adv  adj    
 \ge think   -nr -loc    -poss.1sg leave -med -pst.ptc -ep -poss.3pl very good
 
 \ft I miss them, and I pity, but nevertheless it is good that they remain in my memories as such people, people who thought well about

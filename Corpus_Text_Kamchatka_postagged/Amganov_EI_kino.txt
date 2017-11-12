@@ -238,7 +238,7 @@ Esso, which is now the main village in the Bystraja district.
 \tx Nan    goːnni     ečinte              iːdʒipeː
 \mb ńaːn goːn -n(I) erroːčin  =t(E)    iː    -DʒI -p      =eː  
 \ps adv  v          pron               v                       
-\ge and  say  -3sg  prox.qual =utočnit enter -fut -1pl.in =emph
+\ge and  say  -3sg  prox.qual =ptl enter -fut -1pl.in =emph
 \ft And he says, we'll go in like this (without paying).
 \ELANBegin 00:00:55.700
 \ELANEnd 00:00:59.150
@@ -435,7 +435,7 @@ postojanno); ičukečkeččoːtte = pokazyvajut kak popalo
 \tx Etikeːnte         ečin      tettidʒi       talị        ŋennoːtten              nan
 \mb etikeːn =t(E)    erroːčin  tet    -RIdʒI   tarak -(dU)LI ŋen -WEːČ -R(E)   -n(I) ńaːn
 \ps n                pron      v               pron          v                       adv 
-\ge old.man =utočnit prox.qual put.on -ant.cvb dist  -prol   go  -gnr  -nonfut -3sg  and 
+\ge old.man =ptl prox.qual put.on -ant.cvb dist  -prol   go  -gnr  -nonfut -3sg  and 
 
 \tx tegedʒinesi.
 \mb teg      -E  -DʒI -n(I) -E  =sI  

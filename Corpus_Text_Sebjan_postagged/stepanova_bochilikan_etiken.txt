@@ -120,7 +120,7 @@ generic/habitual meaning
 \id Bochilikan_etiken_011
 \tx Eńe   mụla    tụsankịčụ   gum  gum  gum.
 \mb eńin   mụla      tụsan -kIč -W   gum  gum  gum 
-\ps n      v         n               ptl  ptl  ptl 
+\ps n      v         n               ptl  ptl  ptl  
 \ge mother pity.itrs jump  -nr  -acc goom goom goom
 
 \ft
@@ -139,17 +139,17 @@ any real meaning
 \id Bochilikan_etiken_012
 \tx Tar  nọŋan "enńel     amịal
 \mb tar  nọŋan enen   -SEl aman   -SEl
-\ps adv  pron  n           n           
+\ps adv  pron  n           n            
 \ge thus 3sg   mother -pl  father -pl 
 
 \tx dʒụpkaŋịtnan          tụsankịčụ   gum  gum
 \mb dʒupke -RI       -tEn      tụsan -kIč -W   gum  gum 
-\ps v                          n               ptl  ptl 
+\ps v                          n               ptl  ptl  
 \ge track  -impf.ptc -poss.3pl jump  -nr  -acc goom goom
 
 \tx gum" goːniken.
 \mb gum  goːn -nIkEn  
-\ps ptl  n             
+\ps ptl  n              
 \ge goom say  -sim.cvb
 
 \ft
@@ -265,12 +265,12 @@ the negative auxiliary
 
 \tx belnedʒiten            dawrakụ
 \mb bel  -nE -Č   -tEn      daw         -REk      -W       
-\ps v                       v                              
+\ps n                       v                               
 \ge help -nr -ins -poss.3pl cross.river -cond.cvb -poss.1sg
 
 \tx ọkaːtụ.
 \mb ọkaːt -W  
-\ps n          
+\ps n           
 \ge river -acc
 
 \ft The fox thought 'let me cross this river with the help of these fish'.
@@ -448,7 +448,7 @@ him dragging his little sled.
 \tx Taraw      ittidʒi     Bọčịlịkan ulgimin
 \mb tarak -W   it  -RIdʒI   Bọčịlịkan  ulgim -i      -n(I)
 \ps pron       v            ?          v                  
-\ge dist  -acc see -ant.cvb Bochilikan ask   -ipf??? -3sg 
+\ge dist  -acc see -ant.cvb Bochilikan ask   -ipf -3sg 
 
 \tx hụlịdụk.
 \mb hụlịčan -DUk(U)
@@ -596,12 +596,12 @@ his bag.
 \id Bochilikan_etiken_032
 \tx Tala          etikeːn dʒebleŋen
 \mb tarak -(dU)LE etikeːn dʒeb -LE -ŋ   -E  -n(I)    
-\ps pron          n       v                          
+\ps pron          n       n                           
 \ge dist  -loc    old.man eat  -nr -aln -ep -poss.3sg
 
 \tx bihni            taraw      bakran.
 \mb bi -R(E)   -n(I) tarak -W   bak  -R(E)   -n(I)
-\ps v                pron       n                  
+\ps v                pron       n                   
 \ge be -nonfut -3sg  dist  -acc find -nonfut -3sg 
 
 \ft There was the old man's food, and that (the fox) found.
@@ -620,7 +620,7 @@ his bag.
 \tx ulgimin
 \mb ulgim -i      -n(I)
 \ps v                  
-\ge ask   -ipf??? -3sg 
+\ge ask   -ipf -3sg 
 
 \ft Walking old man Bochilikan asked the fox:
 \ru Продолжая идти, старик Бочиликан спросил у лисы.
@@ -668,12 +668,12 @@ possibly being the Generic suffix?
 \id Bochilikan_etiken_036
 \tx Tar  hụlịčan etikeːn dʒebleŋmen
 \mb tar  hụlịčan etikeːn dʒeb -LE -ŋ   -W   -E  -n(I)    
-\ps adv  n       n       v                               
+\ps adv  n       n       n                                
 \ge thus fox     old.man eat  -nr -aln -acc -ep -poss.3sg
 
 \tx elekes   bakrịdʒị dʒebeddin
 \mb elekes   bak  -RIdʒI   dʒeb -E  -D    -RI       -n(I)    
-\ps ?        v             v                                  
+\ps ?        v             v                                   
 \ge at.first find -ant.cvb eat  -ep -prog -impf.ptc -poss.3sg
 
 \tx biče.
@@ -715,7 +715,7 @@ would say dʒebeddi biče, but not dʒebeddin biče
 \tx ulgimin             hụlịčandụk.
 \mb ulgim -i      -n(I) hụlịčan -DUk(U)
 \ps v                   n              
-\ge ask   -ipf??? -3sg  fox     -abl   
+\ge ask   -ipf -3sg  fox     -abl   
 
 \ft And Bochilikan walked on, having reached the middle (of the
 journey) he asked the fox:
@@ -761,12 +761,12 @@ journey) he asked the fox:
 
 \tx hụlịčan nọŋan dʒebleŋmen
 \mb hụlịčan nọŋan dʒeb -LE -ŋ   -W   -E  -n(I)    
-\ps n       pron  v                               
+\ps n       pron  n                                
 \ge fox     3sg   eat  -nr -aln -acc -ep -poss.3sg
 
 \tx dʒebedʒeːnnen,                mannan
 \mb dʒeb -E  -dʒEːn -R(E)   -n(I) man    -R(E)   -n(I)
-\ps v                             v                    
+\ps v                             v                     
 \ge eat  -ep -dur   -nonfut -3sg  finish -nonfut -3sg 
 
 \tx bekekkeːmen.
@@ -791,7 +791,7 @@ eats it all up.
 \tx Bọčịlịkan ńanda      ulgimin.
 \mb Bọčịlịkan  ńaːn =DE  ulgim -i      -n(I)
 \ps ?          adv       v                  
-\ge Bochilikan and  =ptl ask   -ipf??? -3sg 
+\ge Bochilikan and  =ptl ask   -ipf -3sg 
 
 \ft Friend, which place is this, Bochilikan again asks.
 \ELANBegin 223.650
@@ -818,12 +818,12 @@ eats it all up.
 \id Bochilikan_etiken_043
 \tx Tar   dʒebleŋmen                     manahnịdʒị
 \mb tarak dʒeb -LE -ŋ   -W   -E  -n(I)     man    -E  -s(E)n -RIdʒI  
-\ps pron  v                                v                         
+\ps pron  n                                v                          
 \ge dist  eat  -nr -aln -acc -ep -poss.3sg finish -ep -lim   -ant.cvb
 
 \tx goːndʒidden.
 \mb goːn -D    -R(E)   -n(I)
-\ps v                        
+\ps v                         
 \ge say  -prog -nonfut -3sg 
 
 \ft That means that (the fox) ate up all the food.
@@ -1001,12 +1001,12 @@ Bochilikan.
 \id Bochilikan_etiken_051
 \tx Ịlụmụčamị         elberidʒi          dʒebleŋi
 \mb ịlụmụ -čEn -J       elbe       -RIdʒI   dʒeb -LE -ŋ   -J      
-\ps n                   v                   v                     
+\ps n                   v                   n                      
 \ge yurt  -dim -prfl.sg cover.yurt -ant.cvb eat  -nr -aln -prfl.sg
 
 \tx gennen,                itteken
 \mb gel      -nE     -n(I) it  -REk      -E  -n(I)    
-\ps v                      v                           
+\ps v                      v                            
 \ge look.for -intent -3sg  see -cond.cvb -ep -poss.3sg
 
 \tx heːrukčenni              kịŋgakụ, heːruk

@@ -329,7 +329,7 @@ speech error
 
 \tx asịn          hupkučimŋe    emnin               nọŋmadnan            hupkuttin.
 \mb asị   -n(I)     hupkut -E  -mŋE  em   -RI  -n(I)     nọŋan -W   -tEn      hupkut -RI  -n(I)    
-\ps n               v                v                   pron                 v                    
+\ps n               n                v                   pron                 v                     
 \ge woman -poss.3sg learn  -ep -agnr come -pst -poss.3sg 3sg   -acc -poss.3pl learn  -pst -poss.3sg
 
 \ft When he was going to first grade a Russian worman, a teacher, came here and taught them.
@@ -343,7 +343,7 @@ speech error
 \ref 8:06
 \tx Tarakam       tar   itteken                    ŋoːldegukken     ečin      ịtalkan
 \mb tarakam       tarak it  -REk      -E  -n(I)     ŋoːldeguke -kkEn erroːčin  ịtịː -lkEn
-\ps adv           n  v                           adj              pron      n          
+\ps adv           n  v                           adj              pron      n           
 \ge in.those.days dist  see -cond.cvb -ep -poss.3sg light      -dim  prox.qual face -prop
 
 \tx ńọːbatịkkan   ịtalkan,      meretikken   ịtalkan        kụŋakakan   tegek
@@ -396,7 +396,7 @@ she saw (him) covered with ropes.
 
 \tx gurgeːwčilen   kụŋakakan   isuddin.
 \mb gurgeːwči -LEn kụŋa  -kEkEn isu  -D    -RI  -n(I)    
-\ps v              n            v                        
+\ps n              n            v                         
 \ge work      -nr  child -dim   grow -prog -pst -poss.3sg
 
 \ft There. In that way he studied, then.... what will I say.... he, my younger brother, he grew up a working child from a small age.
@@ -410,7 +410,7 @@ might have an emphatic meaning, it is added on like an afterthought
 \ref 8:42
 \tx Kotlejereptukun                  adʒịdmakan  ečin      kučukekken    hịrkalkakkan       bihin,
 \mb kotlen -(E)rEp -DUk(U) -n(I)     ajdịt -mEkEn erroːčin  kočuken -kkEn hịrkan -lkEn -kkEn bi -RI  -n(I)    
-\ps n                              n            pron      adj           n                  v                 
+\ps n                              n            pron      adj           n                  v                  
 \ge small  -adjr   -abl    -poss.3sg truth -ints  prox.qual small   -dim  knife  -prop -dim  be -pst -poss.3sg
 
 \tx tọːbaralkakkan        bihin.
@@ -451,7 +451,7 @@ might have an emphatic meaning, it is added on like an afterthought
 
 \tx tarịt indʒektu               nọŋan  tar   hịrkačandʒị           irew       taraw      ọːssịdʒịn.
 \mb tarịt indʒen       -ČEk -DU  nọŋan tarak hịrkan -čEn -DʒI         irek  -W   tarak -W   ọː   -sčI   -DʒI -n(I)
-\ps adv   v                      pron  pron  n                        pron       pron       v                     
+\ps adv   n                      pron  pron  n                        pron       pron       v                      
 \ge then  stop.to.rest -nr  -dat 3sg   dist  knife  -dim -ins.prfl.sg which -acc dist  -acc make -conat -fut -3sg 
 
 \ft At a new camp, grabbing this little axe of his, he'll chop firewood, during a rest (while migrating) he'll try to make this or that with
@@ -466,7 +466,7 @@ that little knife of his.
 \ref 9:07
 \tx Tarịt ńan   ịadaj                    goːmi          nọŋan bujustej                      goːmi          họːč.
 \mb tarịt ńaːn ịa      -DE       -J       goːn -mI       nọŋan buju -s    -DE       -J       goːn -mI       họː  -Č  
-\ps adv   n  v                          v              pron  v                             v              adv       
+\ps adv   n  v                          v              pron  v                             v              adv        
 \ge then  and  do.what -purp.cvb -prfl.sg say  -cond.cvb 3sg   hunt -mult -purp.cvb -prfl.sg say  -cond.cvb very -ins
 
 \ft Then in order to do what, to hunt, very much....

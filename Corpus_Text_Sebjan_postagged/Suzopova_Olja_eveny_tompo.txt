@@ -42,7 +42,7 @@ Stepanova (of whom unglossed recordings exist).
 \tx Tala          biː, taralbụ     ittidʒi     ebedit          ulgimiriw,                   er   ọj
 \mb tarak -(dU)LE biː tarak -L  -W   it  -RIdʒI   ewen -DI   -Č   ulgim -i      -RI  -W        erek ọj     
 \ps pron          pron pron           v            n               v                            pron n      
-\ge dist  -loc    1sg dist  -pl -acc see -ant.cvb Even -adjr -ins ask   -ipf??? -pst -poss.1sg prox clothes
+\ge dist  -loc    1sg dist  -pl -acc see -ant.cvb Even -adjr -ins ask   -ipf -pst -poss.1sg prox clothes
 
 \tx iduku         ọːča      goːniken.
 \mb irek  -DUk(U) ọː   -čE     goːn -nIkEn  
@@ -60,7 +60,7 @@ Stepanova (of whom unglossed recordings exist).
 \tx Nọŋartan minteki         ikkere     ikkere,    delbi  ikkere     tarịt ịawda         ehni..
 \mb nọŋartan min     -t(E)kI it  -Gr(E) it  -Gr(E) delbi  it  -Gr(E) tarịt ịak  -W   =DE  e   -R(E) -n(I)
 \ps pron     pron            v          v          adv    v          adv   pron           v              
-\ge 3pl      1sg.obl -all    see -hab   see -hab   very.Y see -hab   then  what -acc =ptl neg -nfut -3sg 
+\ge 3pl      1sg.obl -all    see -hab   see -hab   very.Y see -hab   then  what -acc =ptl neg -nonfut -3sg 
 
 \tx es.. este        goːne.
 \mb es   e   -R(E)   goːn -R      
@@ -80,7 +80,7 @@ Stepanova (of whom unglossed recordings exist).
 \tx Tarịt biː emie   ịaram              ulgimirem.
 \mb tarịt biː emie   ịa      -R(E)   -m   ulgim -i      -R(E)   -m  
 \ps adv   pron adv    v                    v                         
-\ge then  1sg also.Y do.what -nonfut -1sg ask   -ipf??? -nonfut -1sg
+\ge then  1sg also.Y do.what -nonfut -1sg ask   -ipf -nonfut -1sg
 \ft Then I again asked.
 \ru Затем я опять спросила.
 \ELANBegin 00:00:23.010
@@ -96,7 +96,7 @@ Stepanova (of whom unglossed recordings exist).
 \tx ulgimirem.
 \mb ulgim -i      -R(E)   -m  
 \ps v                         
-\ge ask   -ipf??? -nonfut -1sg
+\ge ask   -ipf -nonfut -1sg
 \ft "Are these Even clothes?", I ask.
 \ru Эта одежда эвенская говоря спрашиваю
 \ELANBegin 00:00:26.570
@@ -122,8 +122,8 @@ Stepanova (of whom unglossed recordings exist).
 \id Suzopova_Olja_eveny_Tompo_009
 \tx Tarịt bọlla      biː saxa    toren,    eh, ịat      ńọxadịt       ulgimirem:
 \mb tarịt buollaγïna biː saxa    tore  -n  eh ịak  -Č   ńọka  -DI   -Č   ulgim -i      -R(E)   -m  
-\ps adv   ptl        pron n       v         interj pron      n                v                         
-\ge then  dp.Y       1sg Sakha.Y speak -nr eh what -ins Sakha -adjr -ins ask   -ipf??? -nonfut -1sg
+\ps adv   ptl        pron n       n         interj pron      n                v                          
+\ge then  dp.Y       1sg Sakha.Y speak -nr eh what -ins Sakha -adjr -ins ask   -ipf -nonfut -1sg
 \ft Then I asked in Sakha.
 \ru Затем я по-якутски спросила
 \ELANBegin 00:00:36.100
@@ -133,7 +133,7 @@ Stepanova (of whom unglossed recordings exist).
 \id Suzopova_Olja_eveny_Tompo_010
 \tx Nọŋartan emie   ikkere     ikkere     tarịt emie   goːngere:   mut    ńọxadịt
 \mb nọŋartan emie   it  -Gr(E) it  -Gr(E) tarịt emie   goːn -Gr(E) mut    ńọka  -DI   -Č  
-\ps pron     adv    v          v          n   adv    v           pron   n                
+\ps pron     adv    v          v          n   adv    v           pron   n                 
 \ge 3pl      also.Y see -hab   see -hab   then  also.Y say  -hab   1pl.in Sakha -adjr -ins
 
 \tx ehep                öjdöːr           goːngere
@@ -150,7 +150,7 @@ Stepanova (of whom unglossed recordings exist).
 \tx Tarịt biː ịat      ulgimirem,                 ńụčịdịt     ulgimirem:
 \mb tarịt biː ịak  -Č   ulgim -i      -R(E)   -m   ńụča    -DI   -Č   ulgim -i      -R(E)   -m  
 \ps adv   pron pron      v                          n                  v                         
-\ge then  1sg what -ins ask   -ipf??? -nonfut -1sg Russian -adjr -ins ask   -ipf??? -nonfut -1sg
+\ge then  1sg what -ins ask   -ipf -nonfut -1sg Russian -adjr -ins ask   -ipf -nonfut -1sg
 \ft Then I asked in Russian.
 \ru Затем я по-русски спросила
 \ELANBegin 00:00:51.840

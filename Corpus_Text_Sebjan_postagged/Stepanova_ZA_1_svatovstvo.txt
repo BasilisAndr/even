@@ -74,12 +74,12 @@ in Even folklore and language. Sister of Afanasij Afanas'evič Stepanov
 \ref 1:02
 \tx Tarak ukčeneken                bihin             nọŋan biː
 \mb tarak ukčen -ČEk -E  -n(I)     bi -RI  -n(I)     nọŋan biː
-\ps pron  v                        v                 pron  pron
+\ps pron  n                        v                 pron  pron 
 \ge dist  tell  -nr  -ep -poss.3sg be -pst -poss.3sg 3sg   1sg
 
 \tx enmu                  ọːn gadaŋị
 \mb enen   -W   -W        ọːn ga   -DEŋ     -J      
-\ps n                     n v                      
+\ps n                     n v                       
 \ge mother -acc -poss.1sg how take -pst.ptc -prfl.sg
 
 \tx dʒugulin.
@@ -472,7 +472,7 @@ next thing she said, and so I decided to leave it separate like this.
 \tx Biː enmu             nọŋan ulgimičelen
 \mb biː enen   -W        nọŋan ulgim -i      -čE     -(dU)LE -n(I)    
 \ps pron n                pron  v                                      
-\ge 1sg mother -poss.1sg 3sg   ask   -ipf??? -pf.ptc -loc    -poss.3sg
+\ge 1sg mother -poss.1sg 3sg   ask   -ipf -pf.ptc -loc    -poss.3sg
 
 \tx tarkandụ          ammụ           atịkaŋgan
 \mb tarkan-dụ           aman   -W        atịkan    -ŋ   -GE    -n(I)    
@@ -496,12 +496,12 @@ wife.
 \ref 3:27
 \tx Nọŋan meːn mergemi               dʒajụčča,        tara  ịamị
 \mb nọŋan meːn mergeːt -n  -J       dʒaj -E  -Č   -čE     tarak ịamị
-\ps pron  pron v                    v                     pron  pron
+\ps pron  pron n                    v                     pron  pron 
 \ge 3sg   refl think   -nr -prfl.sg hide -ep -res -pf.ptc dist  why 
 
 \tx dʒajụttịn               tara nọŋan ńan   biː biː
 \mb dʒaj -E  -Č   -RI  -n(I)     tar  nọŋan ńaːn biː biː
-\ps v                            adv  n  adv  pron pron 
+\ps v                            adv  n  adv  pron pron  
 \ge hide -ep -res -pst -poss.3sg thus 3sg   and  1sg 1sg
 
 \tx amandụlaw              eče        herehme.
@@ -531,12 +531,12 @@ not want to marry my father.
 
 \tx teːmi    tadụk       nọŋan toremen
 \mb teːmi     tarak -DUk(U) nọŋan tore  -n  -W   -E  -n(I)    
-\ps conj      pron          pron  v                           
+\ps conj      pron          pron  n                            
 \ge therefore dist  -abl    3sg   speak -nr -acc -ep -poss.3sg
 
 \tx čịkịrịj               ŋeːlmi,           tarkandụ          ee
 \mb čịkị    -RI       -J       ŋeːl      -mI       tarkan-dụ           ee
-\ps v                          v                   adv                 n 
+\ps v                          v                   adv                 n  
 \ge cut.off -impf.ptc -prfl.sg be.afraid -cond.cvb at.the.right.moment eh
 
 \tx goːnče      bihin.
@@ -572,12 +572,12 @@ hyphenated form; I would think it's already lexicalized
 
 \tx toremen                     nọŋan ńan   eči
 \mb tore  -n  -W   -E  -n(I)     nọŋan ńaːn e   -RI     
-\ps v                            pron  adv  v           
+\ps n                            pron  adv  v            
 \ge speak -nr -acc -ep -poss.3sg 3sg   and  neg -pst.3sg
 
 \tx čịkịhma.
 \mb čịkị    -m   -R      
-\ps n                     
+\ps n                      
 \ge cut.off -des -neg.cvb
 
 \ft My father also for a long time didn't want to take (her as a wife), but then

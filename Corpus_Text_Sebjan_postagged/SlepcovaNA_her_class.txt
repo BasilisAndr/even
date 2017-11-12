@@ -46,7 +46,7 @@ Shadrina herself does not use the PL in -r, only -l.
 \ref 0:54
 \tx Họː ịbgọl    kụŋakkal,      hupkučekur           ajaːwra.
 \mb họː  ịbgọ -L  kụŋa  -kkEn -L  hupkut -ČEk -WUr     ajaːw -R(E)      
-\ps adv  ?        n               v                    v                
+\ps adv  ?        n               n                    v                 
 \ge very good -pl child -dim  -pl learn  -nr  -prfl.pl love  -nonfut
 
 \ft Very good kiddies, they love their studies.
@@ -58,7 +58,7 @@ Shadrina herself does not use the PL in -r, only -l.
 \ref 0:58
 \tx Tiekereptuk          meroprijatijaldulede,          kružokaldụlada
 \mb tiek -(E)rEp -DUk(U) meroprijatija -L  -(dU)LE =DE  kružok   -E  -L  -(dU)LE =DE 
-\ps adv                  n                              n                             
+\ps adv                  n                              n                              
 \ge now  -adjr   -abl    events.R      -pl -loc    =ptl circle.R -ep -pl -loc    =ptl
 
 \tx biweːkkerer.
@@ -129,12 +129,12 @@ Shadrina herself does not use the PL in -r, only -l.
 \ref 1:30
 \tx Klassdụ    junij   xudožnik, noste ọńačamŋa        gerbe kružokla
 \mb klass   -DU  junij   xudožnik noste ọńa  -Č   -E  -mŋE  gerbe kružok   -(dU)LE
-\ps n            adj     n        adj   ?                   n     n               
+\ps n            adj     n        adj   n                   n     n                
 \ge class.R -dat young.R artist.R young draw -res -ep -agnr name  circle.R -loc   
 
 \tx biweːkkerer                Kejmetinova Snežana, Pavlova Ajta.
 \mb bi -WEːČ -Gr(E)      -r   Kejmetinova Snežana  Pavlova Ajta
-\ps v                         ?           ?        ?       n    
+\ps v                         ?           ?        ?       n     
 \ge be -gnr  -hab.nonfut -3pl Kejmetinova Snezhana Pavlova Ajta
 
 \ft In the class Snezhana Kejmetinova and Ajta Pavlova take part in the after class group "young artist".
@@ -147,7 +147,7 @@ Shadrina herself does not use the PL in -r, only -l.
 \ref 1:39
 \tx Anglijskej   torem          hupkutte.
 \mb anglijskij.R tore  -n  -W   hupkut -R(E)      
-\ps ?            v              v                 
+\ps ?            n              v                  
 \ge English.R    speak -nr -acc learn  -nonfut
 
 \ft They learn English.
@@ -158,7 +158,7 @@ Shadrina herself does not use the PL in -r, only -l.
 \ref
 \tx Talawụr              kružokla        biweːkkerer           haːn kụŋal.
 \mb tarak -(dU)LE -WUr     kružok   -(dU)LE bi -WEːČ -Gr(E) -r   haːn kụŋa  -L 
-\ps pron                   n                v                    ?    n         
+\ps pron                   n                v                    ?    n          
 \ge dist  -loc    -prfl.pl circle.R -loc    be -gnr  -hab   -3pl some child -pl
 \ft Some children go to that after class group.
 \ru Некоторые дети ходят туда на кружок.
@@ -280,12 +280,12 @@ Shadrina herself does not use the PL in -r, only -l.
 \ref 2:31
 \tx Eńenni          ele          mut    hupkučeklet                      nọŋan hupkučimŋet
 \mb eńin   -n(I)     erek -(dU)LE mut    hupkut -ČEk -(dU)LE -t(I)        nọŋan hupkut -E  -mŋE  -Č  
-\ps n                pron         pron   v                                pron  v                    
+\ps n                pron         pron   n                                pron  n                      
 \ge mother -poss.3sg prox -loc    1pl.in learn  -nr  -loc    -poss.1pl.in 3sg   learn  -ep -agnr -ins
 
 \tx gurgeːwčin      ńan   psixolog.
 \mb gurgeːwči   -n(I) ńaːn  psixolog      
-\ps ?                 ?     n               
+\ps ?                 ?     n                 
 \ge work.nonfut -3sg  again psychologist.R
 
 \ft His mother works here in our school as a teacher and psychologist.
@@ -334,7 +334,7 @@ Shadrina herself does not use the PL in -r, only -l.
 
 \tx hupkučekle.
 \mb hupkut -ČEk -(dU)LE
-\ps v                  
+\ps n                   
 \ge learn  -nr  -loc   
 
 \ft Her daughter Snezhana studies well here in school.
@@ -345,7 +345,7 @@ Shadrina herself does not use the PL in -r, only -l.
 \ref 3:01
 \tx Ebeddit         haːrị       kụŋakkan   [stammers] ere  goːndikčin            ele
 \mb ewen -DI   -Č   haː  -RI       kụŋa  -kkEn stammers erek goːn -čE     -G(E)čIn erek -(dU)LE
-\ps n               v              n           interj   pron v                     pron         
+\ps n               v              n           interj   pron v                     pron          
 \ge Even -adjr -res know -impf.ptc child -dim  stammers prox say  -pf.ptc -sml     prox -loc   
 
 \tx ịala        mere... Merlenkele       biweːkkeren            ehni.
@@ -545,7 +545,7 @@ dʒaːlban, because the complement of the verb ukčen (tell about) takes accusat
 
 \tx ele,         muttule,       hupkučimŋe,   fizkultura urokban                   boːwren.
 \mb erek -(dU)LE mut    -(dU)LE hupkut -E  -mŋE  fizkultura urok       -W   -n(I)     boː  -Gr(E) -n(I)
-\ps pron         pron           v                n          n                         v                
+\ps pron         pron           n                n          n                         v                 
 \ge prox -loc    1pl.in -loc    learn  -ep -agnr sport.R    homework.R -acc -poss.3sg give -hab   -3sg 
 
 \ft If one were to tell about the relatives of Ujusxan Abramov, his grandfather teaches sports here, in our (school) (chez
@@ -558,7 +558,7 @@ nous).
 \ref 5:00
 \tx Nọŋmaːn họːč    ele          ajaːwra,          Sebjandule,    muttule.
 \mb nọŋmaːn họː  -Č   erek -(dU)LE ajaːw -R(E)       sebjan -(dU)LE mut    -(dU)LE
-\ps ?       adv       n         v                 n              pron           
+\ps ?       adv       n         v                 n              pron            
 \ge 3sg.acc very -ins prox -loc    love  -nonfut Sebjan -loc    1pl.in -loc   
 \ft They love him a lot here, in Sebjan, chez nous.
 \ru Его здесь очень любят, в Себяне, у нас.
@@ -647,7 +647,7 @@ nous).
 \tx nọŋartan ulgimiwrer,               todekkerer.
 \mb nọŋartan ulgim -i      -Gr(E) -r   todi -Č   -Gr(E)      -r  
 \ps pron     v                         ?                         
-\ge 3pl      ask   -ipf??? -hab   -3pl help -res -hab.nonfut -3pl
+\ge 3pl      ask   -ipf -hab   -3pl help -res -hab.nonfut -3pl
 
 \ft We go (spend time together) very well, their parents come to me, to the class, and when I meet them they ask, they help.
 \ru Очень хорошо мы ходим (вместе проводим время), их родители и ко мне, и в класс приходят, если их встретить они

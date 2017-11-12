@@ -462,7 +462,7 @@ Krivoshapkina.
 \tx tak.. tiːk, tiːk tọbọr adị    ịan           kokereken                    ịawrar            ehni           ere,
 \mb tak  tiek tiek tawụr adịː     ịak  -n(I)     koke -REk      -E  -n(I)     ịa      -Gr(E) -r   e   -R(E) -n(I) erek
 \ps interj adv  adv  pron  ?        pron           v                            v                   v               pron
-\ge so.R now  now  this  how.much what -poss.3sg die  -cond.cvb -ep -poss.3sg do.what -hab   -3pl neg -nfut -3sg  prox
+\ge so.R now  now  this  how.much what -poss.3sg die  -cond.cvb -ep -poss.3sg do.what -hab   -3pl neg -nonfut -3sg  prox
 
 \tx ujun ujun ineŋin
 \mb ujun ujun ineŋ -E  -n(I)    
@@ -615,12 +615,12 @@ mentioning.
 \id RDA_TPK_death_053
 \tx Bu     tiːkerep    hebdʒenekemdes          ọːwran,          hebdʒeneček,     ịamdas,   ịamdas,
 \mb bu     tiek -(E)rEp hebdʒen -ČEk -E  -mdEs ọː     -Gr(E) -n(I) hebdʒen -E  -ČEk ịak  -mdEs ịak  -mdEs
-\ps pron   adv          n                      v                   n                pron       pron      
+\ps pron   adv          n                      v                   n                pron       pron       
 \ge that.Y now  -adjr   funny   -nr  -ep -sml  become -hab   -3sg  funny   -ep -nr  what -sml  what -sml 
 
 \tx hebdʒenekemdes,         ee?
 \mb hebdʒen -ČEk -E  -mdEs ee
-\ps n                      interj 
+\ps n                      interj   
 \ge funny   -nr  -ep -sml  eh
 \ft Nowadays it's become like a holiday, right?
 \ph
@@ -633,7 +633,7 @@ mentioning.
 \id RDA_TPK_death_054
 \tx Hebdʒenekemdes,         tiːk dʒọmkatta       tar   bej kokeriwen.
 \mb hebdʒen -ČEk -E  -mdEs tiek dʒọmkat -R(E)   tarak bej koke -RI       -W   -E  -n(I)    
-\ps n                      adv  v               pron  n   v                                 
+\ps n                      adv  v               pron  n   v                                   
 \ge funny   -nr  -ep -sml  now  think   -nonfut dist  man die  -impf.ptc -acc -ep -poss.3sg
 \ft Nowadays they think a person's death is like a holiday.
 \ru Сейчас думают как праздник смерть человека.
@@ -644,7 +644,7 @@ mentioning.
 \id RDA_TPK_death_055
 \tx Bej họːjakie.
 \mb bej họːja =kE  
-\ps n   quant       
+\ps n   quant        
 \ge man many  =emph
 \ft  A lot of people.
 \ru
@@ -1132,7 +1132,7 @@ mentioning.
 \tx Tiːkte   tačịmụr   gawrar           ehni.
 \mb tiek =DE  tarọːčịn  ga   -Gr(E) -r   e   -R(E) -n(I)
 \ps adv       pron      v                v              
-\ge now  =ptl dist.qual take -hab   -3pl neg -nfut -3sg 
+\ge now  =ptl dist.qual take -hab   -3pl neg -nonfut -3sg 
 \ft And now they take like that, right.
 \ru И сейчас так берут же.
 \ELANBegin 00:04:37.660
@@ -1154,7 +1154,7 @@ mentioning.
 \tx Ehni,          ọrọn          bejben                   kebeben             ikirińun   omettu.
 \mb e   -R(E) -n(I) ọrọn              bej    -W   -E  -n(I)     kewe -W   -n(I)     ikiri -ńUn omettu  
 \ps v               n                 pron                      n                   n          adv     
-\ge neg -nfut -3sg  domestic.reindeer self.Y -acc -ep -poss.3sg jaw  -acc -poss.3sg bone  -com together
+\ge neg -nonfut -3sg  domestic.reindeer self.Y -acc -ep -poss.3sg jaw  -acc -poss.3sg bone  -com together
 \ft No, the reindeer itself, the jaw together with the bones.
 \ru Нет, оленя самого, челюсть его вместе с костями.
 \ELANBegin 00:04:39.840
@@ -1519,7 +1519,7 @@ that, everything.
 \tx Taraŋas                nelke        ọːrakan                     mut... mundʒin        ehni.
 \mb tarak -ŋ   -E  -s(I)     nelkeni      ọː     -REk      -E  -n(I)     mut    mun -DʒI -n(I) e   -R(E) -n(I)
 \ps pron                     n            v                              pron   v              v              
-\ge dist  -aln -ep -poss.2sg early.spring become -cond.cvb -ep -poss.3sg 1pl.in rot -fut -3sg  neg -nfut -3sg 
+\ge dist  -aln -ep -poss.2sg early.spring become -cond.cvb -ep -poss.3sg 1pl.in rot -fut -3sg  neg -nonfut -3sg 
 \ft That will rot when it becomes spring, won't it.
 \ru Это твое когда наступит весна сгниет же.
 \ELANBegin 00:06:22.220
@@ -1529,12 +1529,12 @@ that, everything.
 \id RDA_TPK_death_127
 \tx Hiː bọlla      tar   dʒeblewen,                 uldewen                ịanịkan      nọŋan
 \mb hiː buollaγïna tarak dʒep -LE -W   -E  -n(I)     ulre -W   -E  -n(I)     ịa      -nIkEn   nọŋan
-\ps pron ptl        pron  v                           n                       v                pron 
+\ps pron ptl        pron  n                           n                       v                pron  
 \ge 2sg dp.Y       dist  eat  -nr -acc -ep -poss.3sg meat -acc -ep -poss.3sg do.what -sim.cvb 3sg  
 
 \tx dʒebeddimdes                  dʒebukejegin.
 \mb dʒep -E  -D    -RI       -mdEs dʒep -WkEn -j    -EgIn     
-\ps v                              v                           
+\ps v                              v                            
 \ge eat  -ep -prog -impf.ptc -sml  eat  -caus -conn -prs.2sg.Y
 \ft You, however, give (people) that food of his, that meat of his to eat, as if he were eating.
 \ph
@@ -2135,7 +2135,7 @@ past tense meaning
 \id RDA_TPK_death_174
 \tx Dʒeblew       neːdʒinni,    čaj, dʒeblew.
 \mb dʒep -LE -W   neː -DʒI -nrI čaj   dʒep -LE -W  
-\ps v             v             n     v            
+\ps n             v             n     n             
 \ge eat  -nr -acc put -fut -2sg tea.R eat  -nr -acc
 \ft You put food, tea.
 \ru
@@ -2146,7 +2146,7 @@ past tense meaning
 \id RDA_TPK_death_175
 \tx Digen mịar     ineŋi čụgaha...  tar.. tarakam       emie   neːdʒinni,    goːli?
 \mb digen mịan -L  ineŋi čụgaha        tarak tarakam       emie   neː -DʒI -nrI goːn -LI     
-\ps n   num      n     n             pron  adv           adv    v             v             
+\ps n   num      n     n             pron  adv           adv    v             v              
 \ge four  ten  -pl day   come.closer.Y dist  in.those.days also.Y put -fut -2sg say  -imp.2sg
 \ft When forty days approach you also put (food), right.
 \ph digemmịar
@@ -2469,7 +2469,7 @@ otkryta' (and she repeated this suggestion independently 2 years later)
 \tx Pod..   nọŋan biweččin             ehni           ele.
 \mb pod     nọŋan bi -WEːČ -DʒI -n(I) e   -R(E) -n(I) erek -(dU)LE
 \ps postpos pron  v                   v               pron        
-\ge under.R 3sg   be -gnr  -fut -3sg  neg -nfut -3sg  prox -loc   
+\ge under.R 3sg   be -gnr  -fut -3sg  neg -nonfut -3sg  prox -loc   
 \ft He'll be walking here, right.
 \ru Он же будет ходить здесь.
 \ELANBegin 00:10:36.730
@@ -3167,7 +3167,7 @@ towards him).
 \tx Ečimur    tapịčkalkan   gịrkaddịmdas              ehni.
 \mb erroːčin  tapočki    -lkEn gịrka -D    -RI       -mdEs e   -R(E) -n(I)
 \ps pron      n                v                           v              
-\ge prox.qual slippers.R -prop walk  -prog -impf.ptc -sml  neg -nfut -3sg 
+\ge prox.qual slippers.R -prop walk  -prog -impf.ptc -sml  neg -nonfut -3sg 
 \ft As if he were walking with slippers, right.
 \ph
 \gr kak budto ja idu v tapočkax = ečimu tapočkalkan gịrkaddịmdas bihem; 2sg = gịrkaddịmdas bihenni
@@ -3772,7 +3772,7 @@ discourse marker goːli into Sakha
 \tx "Hi  kokeridʒi    ọːn haːdʒịnnị ile           ile           ịmaːddịwụ?"
 \mb hiː koke -RIdʒI   ọːn haː  -DʒI -nrI irek  -(dU)LE irek  -(dU)LE ịmaː -D    -RI      -W        -W  
 \ps pron v             pron v              pron          pron          v                                 
-\ge 2sg die  -ant.cvb how know -fut -2sg which -loc    which -loc    bury -prog -ipf.ptc -poss.1sg -acc
+\ge 2sg die  -ant.cvb how know -fut -2sg which -loc    which -loc    bury -prog -impf.ptc -poss.1sg -acc
 \ft "When you have died, how will you know where I bury you?"
 \ph
 \gr moe tebja xranenie, 2SG = ịmaːddịwụs
@@ -3901,7 +3901,7 @@ nọkčal = povesili
 \tx Tadụ     nọŋman               emie   ečel           ịmaːr         ehni.
 \mb tarak -DU  nọŋan -W   -n(I)     emie   e   -čE     -L  ịmaː -R       e   -R(E) -n(I)
 \ps pron       pron                 adv    v               v             v              
-\ge dist  -dat 3sg   -acc -poss.3sg also.Y neg -pf.ptc -pl bury -neg.cvb neg -nfut -3sg 
+\ge dist  -dat 3sg   -acc -poss.3sg also.Y neg -pf.ptc -pl bury -neg.cvb neg -nonfut -3sg 
 \ft There they also didn't bury him, right.
 \ru
 \ELANBegin 00:16:12.020

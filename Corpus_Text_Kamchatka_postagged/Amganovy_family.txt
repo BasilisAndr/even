@@ -254,12 +254,12 @@ expressions
 \ref 03:40
 \tx Ileke,              ọrọmŋal                bazalatan                bidden,                  tože
 \mb irek  -(dU)LE =kE   ọrọn              -mŋE  -L  baza   -(dU)LE -tEn      bi -D    -R(E)   -E  -n(I) tože
-\ps pron                n                           n                        v                          ptl
+\ps pron                n                           n                        v                          ptl 
 \ge which -loc    =emph domestic.reindeer -agnr -pl base.R -loc    -poss.3pl be -prog -nonfut -ep -3sg  also.R
 
 \tx kụŋaŋalnụmị,               tadụ,    tadụ     gurgeːwčiddʒoːtte                 nọŋartan, sto...
 \mb kụŋa  -ŋ   -E  -L  -ńUn -J       tarak -DU  tarak -DU  gurgeːwči -D    -WEːČ -R(E)       nọŋartan *sto
-\ps n                                n       pron       v                                 pron     ? 
+\ps n                                n       pron       v                                 pron     ?  
 \ge child -aln -ep -pl -com -prfl.sg dist  -dat dist  -dat work      -prog -gnr  -nonfut     3pl      ***
 
 \tx starožitịddʒọːtte               ịawụčesị.
@@ -293,7 +293,7 @@ things that need to be carried around when the reindeer herd migrates.
 \tx A     ekmuwul                 esni,             tadụt              biddʒoːtten,
 \mb a.R   eken   -W        =gEl   e   -R(E)   -n(I) tarak -DU  =t(E)    bi -D    -WEːČ -R(E)   -n(I)
 \ps ?     n                       v                 pron                v
-\ge but.R mother -poss.1sg =coord neg -nonfut -3sg  dist  -dat =utočnit be -prog -gnr  -nonfut -3sg
+\ge but.R mother -poss.1sg =coord neg -nonfut -3sg  dist  -dat =ptl be -prog -gnr  -nonfut -3sg
 
 \tx emmoːtten                 omneken        ńan   produktyji        gadʒịwaːttan,
 \mb em   -WEːČ -R(E)   -n(I) omen -REkEn    ńaːn  produkty -J       gadʒị -WEːČ -R(E)   -n(I)

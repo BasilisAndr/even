@@ -94,12 +94,12 @@ similar to bichelet)
 \ref ZaxarovVN_Even_270208_1:31
 \tx Ele          bejel      ọrọlčịmŋal      ịat      togettidnen                     ee, ulemit,          ŋiː
 \mb erek -(dU)LE bej -E  -L  ọrọlčị        -mŋE  -L  ịak  -Č   teg      -E  -Č   -RI  -tEn      ee ịlụmụ -Č   ŋiː
-\ps pron         n           v                       pron      v                                interj n          pron
+\ps pron         n           n                       pron      v                                interj n          pron 
 \ge prox -loc    man -ep -pl herd.reindeer -agnr -pl what -ins sit.down -ep -res -pst -poss.3pl eh yurt  -ins who
 
 \tx palatkat.
 \mb palatka -Č  
-\ps n            
+\ps n             
 \ge tent.R  -ins
 \ft Here reindeer herding people lived in yurts, some (lived) in tents.
 \ru Здесь люди оленоводы жили в чумах, кто в палатках.
@@ -146,12 +146,12 @@ which also makes sense from the context
 
 \tx hupkučekle          emnidʒi,     er   omneken        itteku,                 boholek   dʒiŋ kotlen
 \mb hupkut -ČEk -(dU)LE em   -RIdʒI   erek omen -REkEn    it  -REk      -W        poselok   dʒiŋ   kotlen
-\ps v                   v             pron num            v                       n         adv    adj   
+\ps n                   v             pron num            v                       n         adv    adj    
 \ge learn  -nr  -loc    come -ant.cvb prox one  -iter.adv see -cond.cvb -poss.1sg village.R very.Y small 
 
 \tx bihin             ee.
 \mb bi -RI  -n(I)     ee
-\ps n                 interj 
+\ps n                 interj  
 \ge be -pst -poss.3sg eh
 \ft When I was small, just born, when I first came to school, one day I saw the village really was very small.
 \ru Когда я был маленьким, вот родившись, придя впервые в школуб вот когда увидел однажды поселок был очень
@@ -242,7 +242,7 @@ only noticed it with Vasilij Nikolaevič, but couldn't say whether others use it
 
 \tx tatụkaŋnarịdnan,             hupkučekle          edukur,               ee, tara.
 \mb tat   -WkEn -Gr(E) -RI  -tEn      hupkut -ČEk -(dU)LE erek -DUk(U) -WUr     ee tarak
-\ps v                                 v                   pron                  interj pron 
+\ps v                                 n                   pron                  interj pron  
 \ge learn -caus -hab   -pst -poss.3pl learn  -nr  -loc    prox -abl    -prfl.pl eh dist 
 
 \ft And from our village they made (us) go to 10th grade in the Kobjaj district, from here to school.
@@ -254,7 +254,7 @@ only noticed it with Vasilij Nikolaevič, but couldn't say whether others use it
 \ref ZaxarovVN_Even_270208_2:45
 \tx Mut    dʒe   tačịn       baldarịn             erek hebieskej bïlaːs ụlarïjčalan,
 \mb mut    dʒe    tarọːčịn  balda   -RI  -n(I)     erek hebieskej bïlaːs  ụlarïj   -čE     -(dU)LE -n(I)    
-\ps pron   n    pron      v                      pron adj       n       v                                  
+\ps pron   n    pron      v                      pron adj       n       v                                   
 \ge 1pl.in well.Y dist.qual be.born -pst -poss.3sg prox Soviet.Y  power.Y change.Y -pf.ptc -loc    -poss.3sg
 
 \tx dʒe   ọnụs kïlaːhụ   dʒe   ọːwkanịdnan            ele.
@@ -498,17 +498,17 @@ there's a lot of all kinds of work.
 \ref ZaxarovVN_Even_270208_4:27
 \tx Tar   volejbol     biden,                 tarak tus...  dịlmačak    biden,                 ịak
 \mb tarak volejbol     bi -DE       -n(I)     tarak tustuː  dịlmat -ČEk bi -DE       -n(I)     ịak 
-\ps pron  n            v                      pron  n       v           v                      pron
+\ps pron  n            v                      pron  n       n           v                      pron 
 \ge dist  volleyball.R be -purp.cvb -poss.3sg dist  fight.Y fight  -nr  be -purp.cvb -poss.3sg what
 
 \tx biden                  erek, tọhaŋkačak      biden,                 nacionalnaj igry    gerbe
 \mb bi -DE       -n(I)     erek tụsan -kEČ  -ČEk bi -DE       -n(I)     nacionalnyj igry    gerbe
-\ps v                      pron v                v                      adj         n       n     
+\ps v                      pron n                v                      adj         n       n       
 \ge be -purp.cvb -poss.3sg prox hop   -mult -nr  be -purp.cvb -poss.3sg national.R  games.R name 
 
 \tx biden,                 nacionalnaj čerez    narty  hokkokkerer            igin.
 \mb bi -DE       -n(I)     nacionalnyj čerez     narty  hokon -Č   -Gr(E) -r   iŋin 
-\ps v                      adj         n   n      v                      ptl   
+\ps v                      adj         n   n      v                      ptl    
 \ge be -purp.cvb -poss.3sg national.R  through.R sled.R jump  -res -hab   -3pl etc.Y
 
 \ft Be it volleyball, be it wrestling, be it jumping, be it so-called national games, they jump over sleds etc.
@@ -764,12 +764,12 @@ six wheels."
 
 \tx biweːčidʒes,              huː ere  tem_bolee,     mut    toremur            haːr,
 \mb bi -WEːČ -E  -D    -E  -s   huː erek tem_bolee      mut    tore  -n  -WUr     haː  -r  
-\ps v                           pron pron conj           pron   v                  v        
+\ps v                           pron pron conj           pron   n                  v         
 \ge be -gnr  -ep -prog -ep -2pl 2pl prox all.the.more.R 1pl.in speak -nr -prfl.pl know -3pl
 
 \tx haːs     ebit       ere, mindu        ïnïrïk  ịak erek.
 \mb haː  -s   ebit       erek min     -DU  ïnïrïk     ịak  erek
-\ps v         ptl        pron pron         adv        n pron 
+\ps v         ptl        pron pron         adv        n pron  
 \ge know -2pl it.seems.Y prox 1sg.obl -dat terribly.Y what prox
 \ft Now you for example came from a country which I don't know at all, and in addition you know our language, it seems,
 for me that is very much this (probably wanted to say: very interesting).
@@ -954,7 +954,7 @@ but a related verb is ọlan- 'get.a.fright'
 \tx Ulgimiwrerem                      ere  tiːket    hundu,       tarbačan      bihnigu              goːniken.
 \mb ulgim -i      -Gr(E) -R(E)   -m   erek tiek =et   hun     -DU  tarọːčịn  bi -R(E)   -n(I) =GU goːn -nIkEn  
 \ps v                                 pron adv        pron         pron      v                    v            
-\ge ask   -ipf??? -hab   -nonfut -1sg prox now  =emph 2pl.obl -dat dist.qual be -nonfut -3sg  =q  say  -sim.cvb
+\ge ask   -ipf -hab   -nonfut -1sg prox now  =emph 2pl.obl -dat dist.qual be -nonfut -3sg  =q  say  -sim.cvb
 
 \ft I ask, does it happen like that chez vous?
 \ru Спрашиваю, вот сейчас у вас такое бывает ли?

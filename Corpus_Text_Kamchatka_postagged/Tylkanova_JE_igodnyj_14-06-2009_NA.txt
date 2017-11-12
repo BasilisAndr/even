@@ -248,7 +248,7 @@ one word here, i.e. there's no pause before the direct speech
 \id Tylkanova_JE_igodnyj_020
 \tx Nan    eːw! goːnni     nọŋan nan    tọgụ   durunerin                         gụlaldịwụnač
 \mb ńaːn ew goːn -n(I) nọŋan ńaːn tọg  -W   dur  -U    -nE     -RI  -n(I)     gụl   -E  -ldIwUn -E  -Č  
-\ps adv  interj v          pron  adv  n         v                                 v                         
+\ps adv  interj v          pron  adv  n         v                                 n                          
 \ge and  oh say  -3sg  3sg   and  fire -acc burn -caus -intent -pst -poss.3sg light -ep -nr     -ep -ins
 
 \ft Ah, I see! she says, then she went to light the fire with matches.
@@ -267,7 +267,7 @@ really understand/see any difference between duru- and gụl-...
 \id Tylkanova_JE_igodnyj_022
 \tx Nan    taraw      omem      tar   teːleŋdej                 nekriwu.
 \mb ńaːn tarak -W   omen -W   tarak teːleŋ -DE       -J       nek -RI  -W       
-\ps adv  pron       num       pron  v                         v                  
+\ps adv  pron       num       pron  v                         v                   
 \ge and  dist  -acc one  -acc dist  tell   -purp.cvb -prfl.sg do  -pst -poss.1sg
 
 \ft Well, I wanted to tell about that.
@@ -498,12 +498,12 @@ really understand/see any difference between duru- and gụl-...
 \id Tylkanova_JE_igodnyj_049
 \tx I     v    ijune       ijundule       mesjacle        elbekelbur                    oruweːttu                čeːle to     est'
 \mb i     v    ijune       ijun   -(dU)LE mesjac  -(dU)LE elbe       -k(E) -L  -WUr     hor -U    -WEːČ -(R)U   čele to     est'
-\ps conj  postpos n           n              n               v                             v                       ?    adj    v   
+\ps conj  postpos n           n              n               n                             v                       ?    adj    v    
 \ge and.R in.R June.prep.R June.R -loc    month.R -loc    cover.yurt -nr   -pl -prfl.pl go  -caus -gnr  -1pl.ex all  that.R is.R
 
 \tx eńtilbun.
 \mb eńtil   -WUn        
-\ps n                    
+\ps n                     
 \ge parents -poss.1pl.ex
 
 \ft
@@ -567,7 +567,7 @@ really understand/see any difference between duru- and gụl-...
 
 \tx edlewur                               mụdakra        posevnuju,           tadụ     elbektu               biddʒoːttu             čeledʒur.
 \mb e   -dle     -WUr     mụdak  -R       posevnuju           tarak -DU  elbe       -k(E) -DU  bi -D    -WEːČ -(R)U   čele -dʒUr       
-\ps v                     v               adj                 pron       v                     v                      ?                
+\ps v                     v               adj                 pron       n                     v                      ?                 
 \ge neg -trm.cvb -prfl.pl finish -neg.cvb sowing.season.acc.R dist  -dat cover.yurt -nr   -dat be -prog -gnr  -1pl.ex all  -ins.prfl.pl
 
 \ft We spent nights with children there, until we finished the sowing, everybody lived in tents.
@@ -580,7 +580,7 @@ really understand/see any difference between duru- and gụl-...
 \id Tylkanova_JE_igodnyj_059
 \tx Nan    tarakta    atịkan  goːnčewu              Igednej   bisin             tarakam.
 \mb ńaːn tarak =DE  atịkan    goːn -čE     -W        Igednej   bi -RI  -n(I)     tarakam      
-\ps adv  pron       n         v                      n         v                 adv           
+\ps adv  pron       n         v                      n         v                 adv            
 \ge and  dist  =ptl old.woman say  -pf.ptc -poss.1sg Igodnyj.R be -pst -poss.3sg in.those.days
 
 \ELANBegin 00:06:27.240
@@ -653,12 +653,12 @@ really understand/see any difference between duru- and gụl-...
 \id Tylkanova_JE_igodnyj_065
 \tx Nan    bu     ọknịdʒụr       ńọːŋčịwaːttụ        elbekteki,               nọŋan
 \mb ńaːn buː    ọknan    -RIdʒI   -L  ńọːŋčị -WEːČ -(R)U   elbe       -k(E) -t(E)kI nọŋan
-\ps adv  pron   v                     v                    v                        pron 
+\ps adv  pron   v                     v                    n                        pron  
 \ge and  1pl.ex be.happy -ant.cvb -pl run    -gnr  -1pl.ex cover.yurt -nr   -all    3sg  
 
 \tx elbektekin,                        nan    teːleŋedʒilloːtten.
 \mb elbe       -k(E) -t(E)kI -n(I)     ńaːn teːleŋ -E  -D    -L    -WEːČ -R(E)   -n(I)
-\ps v                                  adv  v                                          
+\ps n                                  adv  v                                            
 \ge cover.yurt -nr   -all    -poss.3sg and  tell   -ep -prog -inch -gnr  -nonfut -3sg 
 
 \ft We were happy and ran to the tent, to her tent, and she began to tell.
@@ -671,7 +671,7 @@ really understand/see any difference between duru- and gụl-...
 \id Tylkanova_JE_igodnyj_066
 \tx Ińimdečiː          gịakịw.
 \mb ińin  -mdE -Č   =Iː   gịakị   -W  
-\ps n                     pron         
+\ps n                     pron           
 \ge laugh -nr  -ins =emph various -acc
 
 \ft Different funny things.
@@ -685,12 +685,12 @@ really understand/see any difference between duru- and gụl-...
 \id Tylkanova_JE_igodnyj_067
 \tx Ńịmkam      goːweːtten                teːleŋŋoːtten              ewenewde        urilewde         gịakịw     tawụr
 \mb ńịmkan -W   goːn -WEːČ -R(E)   -n(I) teːleŋ -WEːČ -R(E)   -n(I) ewene -W   =DE  urile -W   =DE  gịakị   -W   tawụr
-\ps n           v                        v                          n               n               pron         pron  
+\ps n           v                        v                          n               n               pron         pron   
 \ge tale   -acc say  -gnr  -nonfut -3sg  tell   -gnr  -nonfut -3sg  giant -acc =ptl dwarf -acc =ptl various -acc this 
 
 \tx ińimdeč        umekič eŋundečte.
 \mb ińin  -mdE  -Č   umekič heŋun     -mdE -Č   =DE 
-\ps v                adv    v                       
+\ps v                adv    n                        
 \ge laugh -adjr -ins very   be.afraid -nr  -ins =ptl
 
 \ft She told tales, told about the Giant and about the Dwarf, very funny and scarry.
@@ -710,7 +710,7 @@ eŋundeč . In first case it's adjr, anf then nr? very strange.
 \id Tylkanova_JE_igodnyj_069
 \tx Nan    omneken        badʒịkar kụŋa omen ńoːrin,
 \mb ńaːn omen -REkEn    badʒịkar kụŋa  omen ńoː  -RI  -n(I)    
-\ps adv  num            n        n     num  v                   
+\ps adv  num            n        n     num  v                    
 \ge and  one  -iter.adv morning  child one  exit -pst -poss.3sg
 
 \tx ịrkaladdanasị                             : eŋenelle              tar   ọkaːt bardalan                          duri,  duri
@@ -967,7 +967,7 @@ gabalallịn --> so this is absolutely not clear, in theory gabal- should be tra
 \id Tylkanova_JE_igodnyj_090
 \tx Nan    tịmịn  ịamị Twajaːmŋal       noŋerille.
 \mb ńaːn tịmịna   ịamị Twajaːn -mŋE -L  noŋeri  -L    -R(E)  
-\ps adv  adv      pron n                v                    
+\ps adv  adv      pron n                v                     
 \ge and  tomorrow why  Twajaːn -nr  -pl quarrel -inch -nonfut
 
 \ft The next morning the inhabitants of Twajan quareled.
@@ -982,7 +982,7 @@ gabalallịn --> so this is absolutely not clear, in theory gabal- should be tra
 \id Tylkanova_JE_igodnyj_091
 \tx Pogreb   durrineː!
 \mb pogreb   dur  -RI  -n(I)     =eː  
-\ps n        v                         
+\ps n        v                          
 \ge cellar.R burn -pst -poss.3sg =emph
 \ft The cellar has burt!
 \ELANBegin 00:13:03.920

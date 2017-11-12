@@ -193,7 +193,7 @@ firewood
 \tx ulgimiptilbu                         ulgim... ịlụrịw.
 \mb ulgim -i      -B   -RI       -L  -W   ulgim ịl       -U    -RI  -W       
 \ps v                                     v     v                            
-\ge ask   -ipf??? -med -impf.ptc -pl -acc ask   stand.up -caus -pst -poss.1sg
+\ge ask   -ipf -med -impf.ptc -pl -acc ask   stand.up -caus -pst -poss.1sg
 \ft
 \ft That is why while I was writing that big project I posed such a question, the most current question for us in our modern life.
 \ph
@@ -265,12 +265,12 @@ firewood
 \id Stepanova_NA_kochevaja_shkola_015
 \tx Alenevọdaldụda                 uːrihip       ịalbụ...   ọralčịmŋaldụda
 \mb olenevod          -E  -L  -DU  =DE  uːr    -(E)rEp ịak  -L  -W   ọrọlčị        -mŋE  -L  -DU  =DE 
-\ps n                                   adv            pron          v                                
+\ps n                                   adv            pron          n                                 
 \ge reindeer.herder.R -ep -pl -dat =ptl before -adjr   what -pl -acc herd.reindeer -agnr -pl -dat =ptl
 
 \tx ịawraram                  beju             ịawraram,                 toːdikkererem.
 \mb ịa      -Gr(E) -R(E)   -m   bej    -W        ịa      -Gr(E) -R(E)   -m   toːdi -Č   -Gr(E) -R(E)   -m  
-\ps v                           pron             v                           n                              
+\ps v                           pron             v                           n                               
 \ge do.what -hab   -nonfut -1sg self.Y -poss.1sg do.what -hab   -nonfut -1sg help  -res -hab   -nonfut -1sg
 \ft And I help those (previously mentioned?) reindeer herders myself.
 \ru И тем оленеводам помогаю сама.
@@ -293,12 +293,12 @@ firewood
 \tx Bow,     bow      ačča biwren          ele,         ŋiːde    ehni           ịawrar                tar
 \mb beg      beg      ačča bi -Gr(E) -n(I) erek -(dU)LE ŋiː =DE  e   -R(E) -n(I) ịa      -Gr(E) -R       tarak
 \ps n        n        ptl  v               pron         pron     v               v                       pron 
-\ge medicine medicine neg  be -hab   -3sg  prox -loc    who =ptl neg -nfut -3sg  do.what -hab   -neg.cvb dist 
+\ge medicine medicine neg  be -hab   -3sg  prox -loc    who =ptl neg -nonfut -3sg  do.what -hab   -neg.cvb dist 
 
 \tx dʒugulin                vaprọhụda        ịawda         ehni           ịlụwrar,
 \mb dʒugu -(dU)LI -n(I)     vopros     -W   =DE  ịak  -W   =DE  e   -R(E) -n(I) ịl       -U    -Gr(E) -R      
 \ps rel.n                   n                    pron           v               v                             
-\ge about -prol   -poss.3sg question.R -acc =ptl what -acc =ptl neg -nfut -3sg  stand.up -caus -hab   -neg.cvb
+\ge about -prol   -poss.3sg question.R -acc =ptl what -acc =ptl neg -nonfut -3sg  stand.up -caus -hab   -neg.cvb
 
 \tx tiemi     bogu          ile           tala          hermi,        họːja bogu          gawraram.
 \mb teːmi     beg      -W   irek  -(dU)LE tarak -(dU)LE hor -mI       họːja beg      -W   ga   -Gr(E) -R(E)   -m  
@@ -378,7 +378,7 @@ firewood
 \id Stepanova_NA_kochevaja_shkola_022
 \tx Dʒebleŋdutne                ịawraram                  ńan.
 \mb dʒep -LE -ŋ   -DU  -tEn      ịa      -Gr(E) -R(E)   -m   ńaːn
-\ps v                            v                           adv 
+\ps n                            v                           adv  
 \ge eat  -nr -aln -dat -poss.3pl do.what -hab   -nonfut -1sg and 
 \ft And (I help) with their food.
 \ru И в еде тоже что-то делаю (помогает готовить).
@@ -389,7 +389,7 @@ firewood
 \id Stepanova_NA_kochevaja_shkola_023
 \tx Tiemi     bi   beju             daγanï domŋekki        nahaː kuruk     hordej
 \mb teːmi     biː bej    -W        daγanï doːmŋe -t(E)kI nahaː  kuruk     hor -DE       -J      
-\ps n      pron pron             ptl    n              adv    adv       v                      
+\ps n      pron pron             ptl    n              adv    adv       v                       
 \ge therefore 1sg self.Y -poss.1sg even.Y taiga  -all    very.Y always.Y. go  -purp.cvb -prfl.sg
 
 \tx meːkukkererem.
@@ -444,12 +444,12 @@ firewood
 \id Stepanova_NA_kochevaja_shkola_027
 \tx Bokkew     emundu,             gọlụ      gọllịndụ,       haːdụn dʒaːldụkụr
 \mb bokes -W   em   -U    -n  -DU  gọl      -W   gọl      -lI -n  -DU  haːdụn    dʒaː     -L  -DUk(U) -WUr    
-\ps n          v                   n             v                     adv       n                            
+\ps n          n                   n             n                     adv       n                             
 \ge ice   -acc come -caus -nr -dat firewood -acc firewood -vr -nr -dat sometimes relative -pl -abl    -prfl.pl
 
 \tx dʒebleŋur             emuridʒur              emgerer.
 \mb dʒep -LE -ŋ   -WUr     em   -U    -RIdʒI   -L  em   -Gr(E) -r  
-\ps v                      n                       v                
+\ps v                      n                       v                 
 \ge eat  -vr -aln -prfl.pl come -caus -ant.cvb -pl come -hab   -3pl
 \ft (They help) with bringing ice, chopping wood, sometimes they bring food from their relatives.
 \ru В принесение льда, в раскаливание дров, иногда от родных принеся еду приходят.
@@ -562,12 +562,12 @@ the stative verb aːm-
 \id Stepanova_NA_kochevaja_shkola_035
 \tx Ečin      dụːhawda           ọːngọl   nahaː ịbgakeːmdas       biwren,         dʒebletde
 \mb erroːčin  duša   -W        =DE  ọːn =(W)Ul nahaː  ịbgọ =kE   -mdEs bi -Gr(E) -n(I) dʒep -LE -Č   =DE 
-\ps pron      n                     pron       adv    ?                v               v                 
+\ps pron      n                     pron       adv    ?                v               n                  
 \ge prox.qual soul.R -poss.1sg =ptl how =indef very.Y good =emph -sml  be -hab   -3sg  eat  -nr -ins =ptl
 
 \tx biwrerem,              họːjaw     irew       taraw      dʒebgereremde,
 \mb bi -Gr(E) -R(E)   -m   họːja -W   irek  -W   tarak -W   dʒep -Gr(E) -R(E)   -m   =DE 
-\ps v                      quant      pron       pron       v                             
+\ps v                      quant      pron       pron       v                              
 \ge be -hab   -nonfut -1sg many  -acc which -acc dist  -acc eat  -hab   -nonfut -1sg =ptl
 
 \tx towliwreremde.
@@ -655,7 +655,7 @@ the stative verb aːm-
 
 \tx ere  noste kụŋal,   hupkučimŋelde,          hupkuttilde.
 \mb erek noste kụŋa  -L  hupkut -E  -mŋE  -L  =DE  hupkut -RI       -L  =DE 
-\ps pron adj   n         v                         v                        
+\ps pron adj   n         n                         v                         
 \ge prox young child -pl learn  -ep -agnr -pl =ptl learn  -impf.ptc -pl =ptl
 \ft Perhaps these people... we will now stop working, young people have to go out, that is young children, teachers and pupils.
 \ru Эти люди может быть... мы сейчас закончим работать, должны выйти молодые, это молодые дети, и учителя и ученики.
@@ -666,7 +666,7 @@ the stative verb aːm-
 \id Stepanova_NA_kochevaja_shkola_042
 \tx Teːmi    bi   tiːk erek ịala,       Sljot     bremjadun             ịak emejekteːk,
 \mb teːmi     biː tiek erek ịak  -(dU)LE slet      vremja -DU  -n(I)     ịak  em   -E  -jEktEːk
-\ps conj      pron adv  n pron         n         n                     pron v                 
+\ps conj      pron adv  n pron         n         n                     pron v                  
 \ge therefore 1sg now  prox what -loc    meeting.R time.R -dat -poss.3sg what come -ep -nec.Y  
 
 \tx ministr_obrazovanija,   dvadsats šestogo  emejekteːk,       dʒoːrmịar      ńuŋen ineŋidu    mart
@@ -728,7 +728,7 @@ worker should also be (there).
 \tx Tarak herdʒiŋengu              ịadʒịŋangụ?
 \mb tarak hor -DʒIŋE   -n(I)     =GU ịa      -D(I)ŋE   -n(I)     =GU
 \ps pron  v                          v                              
-\ge dist  go  -hyp.ptc -poss.3sg =q  do.what -fut.ptcp -poss.3sg =q 
+\ge dist  go  -hyp.ptc -poss.3sg =q  do.what -fut.ptc -poss.3sg =q 
 
 \ft Will he go or not?
 \ph
@@ -742,7 +742,7 @@ worker should also be (there).
 \tx Ehem             haːra        tar   ulgimijekteːkpit.
 \mb e   -R(E)   -m   haː  -R       tarak ulgim -i      -jEktEːk -BIt       
 \ps v                v             pron  v                                 
-\ge neg -nonfut -1sg know -neg.cvb dist  ask   -ipf??? -nec.Y   -poss.1pl.Y
+\ge neg -nonfut -1sg know -neg.cvb dist  ask   -ipf -nec.Y   -poss.1pl.Y
 \ft I don't know, we have to ask.
 \ru Не знад, это мы должны спросить.
 \ELANBegin 00:06:02.596
@@ -894,7 +894,7 @@ podvergat'sja zamerzaniem)
 \tx ịadaːr                  ulgimideːr,                     ulgimideːr.
 \mb ịa      -DE       -WUr     ulgim -i      -DE       -WUr     ulgim -i      -DE       -WUr    
 \ps v                          v                                v                               
-\ge do.what -purp.cvb -prfl.pl ask   -ipf??? -purp.cvb -prfl.pl ask   -ipf??? -purp.cvb -prfl.pl
+\ge do.what -purp.cvb -prfl.pl ask   -ipf -purp.cvb -prfl.pl ask   -ipf -purp.cvb -prfl.pl
 \ft That is why, in order to do whatchamacallit to the young children,, having taken them there, now when the Minister of Education
 comes, I (want to/plan to) ask these questions.
 \ru Поэтому я молодых детей что то делать, туда отвезя когда мо приедет, этот вопрос спросить. // Чтобы молодых людей что
@@ -1499,7 +1499,7 @@ meːkukkererem = to i delo sobirajus' padat', postojanno, často --> čut' li ne
 \tx Ehni,          anŋanịw  kọŋdọ kọŋdas esten       bihe.
 \mb e   -R(E) -n(I) anŋan -W   kọŋdas  kọŋdas  e   -R(E)   bi -R      
 \ps v               n          postpos postpos v           v          
-\ge neg -nfut -3sg  year  -acc through through neg -nonfut be -neg.cvb
+\ge neg -nonfut -3sg  year  -acc through through neg -nonfut be -neg.cvb
 \ft No, not throughout the year.
 \ru Нет целый год не бывает.
 \ELANBegin 00:11:18.028
@@ -1606,7 +1606,7 @@ May, some in March, April, May.
 \tx Nụŋụ ọːdʒịn       ehni.
 \mb nụŋụ   ọː     -DʒI -n(I) e   -R(E) -n(I)
 \ps ?      v                 v              
-\ge stupid become -fut -3sg  neg -nfut -3sg 
+\ge stupid become -fut -3sg  neg -nonfut -3sg 
 \ft It will become stupid, right.
 \ru Он же станет дураком.
 \ELANBegin 00:12:00.538
@@ -1628,7 +1628,7 @@ May, some in March, April, May.
 \tx Dʒulle       čukče goːŋner         ehni           be... derimečenteken,       dikini               kụŋalbụ.
 \mb dʒul  -(dU)LE čukča   goːn -Gr(E) -r   e   -R(E) -n(I) be    derimet  -E  -ntEkEn   dekin      -RI       kụŋa  -L  -W  
 \ps rel.n         ?       v                v               ptl   v                      v                    n             
-\ge front -loc    Chukchi say  -hab   -3pl neg -nfut -3sg  ptl.Y run.away -ep -mult.cvb hide(intr) -impf.ptc child -pl -acc
+\ge front -loc    Chukchi say  -hab   -3pl neg -nonfut -3sg  ptl.Y run.away -ep -mult.cvb hide(intr) -impf.ptc child -pl -acc
 
 \ft They used to call children who hid Chukchi in the past, running away.
 \ru Раньше чукча называли, убегая, прятающихся детей.
@@ -1820,12 +1820,12 @@ May, some in March, April, May.
 \id Stepanova_NA_kochevaja_shkola_121
 \tx Tar   amardadụkụn                omettu   bekeččendʒur           škọlada,   erek hupkuček    daγanï,
 \mb tarak amar   -gIdE -DUk(U) -n(I)     omettu   bekeč -čEn -dʒUr        škola    =DE  erek hupkut -ČEk daγanï
-\ps pron  n                              adv      adv                     n             pron v           ptl   
+\ps pron  n                              adv      adv                     n             pron n           ptl    
 \ge dist  behind -part -abl    -poss.3sg together all   -dim -ins.prfl.pl school.R =ptl prox learn  -nr  even.Y
 
 \tx raditelal       daγanï, dʒaːltan             goːli,        kụŋal    dʒaːltan             ńan   erek GUP
 \mb roditel' -E  -L  daγanï dʒaː     -L  -tEn      goːn -LI      kụŋa  -L  dʒaː     -L  -tEn      ńaːn erek GUP  
-\ps n                ptl    n                      v             n         n                      n  pron n     
+\ps n                ptl    n                      v             n         n                      n  pron n      
 \ge parent.R -ep -pl even.Y relative -pl -poss.3pl say  -imp.2sg child -pl relative -pl -poss.3pl and  prox GUP.R
 
 \tx Sebjanda,          bekeččendʒur           omettu   tegetnikehel                   ọːn nekmi         domŋele
@@ -1947,7 +1947,7 @@ naušniki 'earphones'. Since she looks at the earphones lying on the table while
 \tx Teːmi    kụŋa tala          ehni           haːwrar,            er   karandahụ,        erew
 \mb teːmi     kụŋa  tarak -(dU)LE e   -R(E) -n(I) haː  -Gr(E) -R       erek karandaš -W        erek -W       
 \ps conj      n     pron          v               v                    pron n                  pron          
-\ge therefore child dist  -loc    neg -nfut -3sg  know -hab   -neg.cvb prox pencil.R -poss.1sg prox -poss.1sg
+\ge therefore child dist  -loc    neg -nonfut -3sg  know -hab   -neg.cvb prox pencil.R -poss.1sg prox -poss.1sg
 
 \tx ručkaw          ačča, ereŋu              ...
 \mb ručka -W        ačča erek -ŋ   -W        *...
@@ -2071,12 +2071,12 @@ gurgewčiriwen, ọːn bihiwen dụkrịw
 
 \tx minńun       omettu,  biettitne                 bi   omekken gurgewčiriw,              dʒebleŋutne
 \mb min     -ńUn omettu   bi -WEːČ -RI  -tEn      biː omekken gurgeːwči -RI  -W        dʒep -LE -ŋ   -W   -tEn     
-\ps pron         adv      v                       pron ?       v                        v                           
+\ps pron         adv      v                       pron ?       v                        n                            
 \ge 1sg.obl -com together be -gnr  -pst -poss.3pl 1sg alone   work      -pst -poss.1sg eat  -nr -aln -acc -poss.3pl
 
 \tx ịawụtna.
 \mb ịak  -W   -tEn     
-\ps pron                
+\ps pron                 
 \ge what -acc -poss.3pl
 \ft Last summer ten children went, they went saying they belong to the nomadic (school), went with me, I alone worked, (made) their
 food and things.

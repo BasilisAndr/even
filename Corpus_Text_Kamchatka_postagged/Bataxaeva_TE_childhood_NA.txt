@@ -285,12 +285,12 @@ in free variation, it just means 'parents' (and refers to speaker's parents); eg
 \id Bataxaeva_TE_childhood_022
 \tx Bi   elbekle                  elbekle                  ukleːddʒoːttem,               elbek
 \mb biː elbe       -k(E) -(dU)LE elbe       -k(E) -(dU)LE hukle -D    -WEːČ -R(E)   -m   elbe       -k(E)
-\ps pron v                        v                        v                              v               
+\ps pron n                        n                        v                              n                
 \ge 1sg cover.yurt -nr   -loc    cover.yurt -nr   -loc    sleep -prog -gnr  -nonfut -1sg cover.yurt -nr  
 
 \tx ńipkuččoːtten                      nan
 \mb nipke -U    -Č   -WEːČ -R(E)   -n(I) ńaːn
-\ps v                                    n  
+\ps v                                    n   
 \ge close -caus -res -gnr  -nonfut -3sg  and 
 
 \ft I was sleeping in a tent, in a tent, the tent is closed.
@@ -528,7 +528,7 @@ baγanụkasnan / baγnụkasnan -- esli ja legonečko stukul, not clear what wo
 \tx A     akmuja,                 eńtilbusi              unet  ụlaːptịtan,             tadụt              gurgeːwčiddʒoːtte
 \mb a.R   akan   -W        =jE    eńtil   -W        =sI   unet  hụlaː -B   -RI  -tEn      tarak -DU  =t(E)    gurgeːwči -D    -WEːČ -R(E)  
 \ps ?     n                       n                       adv   v                         pron                v                            
-\ge but.R father -poss.1sg =assoc parents -poss.1sg =emph still leave -med -pst -poss.3pl dist  -dat =utočnit work      -prog -gnr  -nonfut
+\ge but.R father -poss.1sg =assoc parents -poss.1sg =emph still leave -med -pst -poss.3pl dist  -dat =ptl work      -prog -gnr  -nonfut
 
 \tx ọrdụ.
 \mb ọrọn              -DU 
@@ -905,7 +905,7 @@ on sejčas paset, provodit kojalat, * kọjaːladdan,  kọjaːlattan.
 \tx Nan    tadụt              nọŋartan biddʒoːtte,            ukleːweːtte         tadụ,    esten       emmoːtte             dʒụːtki.
 \mb ńaːn tarak -DU  =t(E)    nọŋartan bi -D    -WEːČ -R(E)   hukle -WEːČ -R(E)   tarak -DU  e   -R(E)   em   -WEːČ -R       dʒụː  -t(E)kI
 \ps adv  pron                pron     v                      v                   pron       v           v                   n            
-\ge and  dist  -dat =utočnit 3pl      be -prog -gnr  -nonfut sleep -gnr  -nonfut dist  -dat neg -nonfut come -gnr  -neg.cvb house -all   
+\ge and  dist  -dat =ptl 3pl      be -prog -gnr  -nonfut sleep -gnr  -nonfut dist  -dat neg -nonfut come -gnr  -neg.cvb house -all   
 
 \ft They were ther for a long time, slept there, didn't come home
 \ELANBegin 00:08:24.517

@@ -131,7 +131,7 @@ meaning
 
 \tx dururidʒur             eliːr                dʒeblewur         igin  bekebben                 irikkerer.
 \mb dur  -U    -RIdʒI   -L  erek -(dU)LI -WUr     dʒeb -LE -WUr     iŋin  bekeč -W   -E  -n(I)     iri  -Č   -Gr(E) -r  
-\ps v                       pron                  v                 ptl   adv                      v                    
+\ps v                       pron                  n                 ptl   adv                      v                     
 \ge burn -caus -ant.cvb -pl prox -prol   -prfl.pl eat  -nr -prfl.pl etc.Y all   -acc -ep -poss.3sg cook -res -hab   -3pl
 
 \ft Inside this (yurt) is the fire, here they light the fire, having lit it they cook their food and all such here.
@@ -146,7 +146,7 @@ and eduːr (eduwur)
 \id Klim_Nikolaevich_eksponat_010
 \tx Haːnịnnị       eli          ńoːwren.
 \mb haːnịn -n(I)     erek -(dU)LI ńoː  -Gr(E) -n(I)
-\ps n                pron         n                 
+\ps n                pron         n                  
 \ge smoke  -poss.3sg prox -prol   exit -hab   -3sg 
 \ft Its smoke exits through here.
 \ru Его дым здесь выходит.
@@ -674,12 +674,12 @@ this with ropes, they tie (it) very tightly, so that it doesn't move, that is ve
 \id Klim_Nikolaevich_eksponat_041
 \tx Neːpti             erew      ịawụr      dʒebleŋuːr,          ọjụːr       bekeččenni
 \mb neː -B   -RI       erek -W   ịak  -WUr     dʒeb -LE -ŋ   -WUr     ọj      -WUr     bekeč -čEn -n(I)    
-\ps v                  pron      pron          v                      n                adv                 
+\ps v                  pron      pron          n                      n                adv                  
 \ge put -med -impf.ptc prox -acc what -prfl.pl eat  -nr -aln -prfl.pl clothes -prfl.pl all   -dim -poss.3sg
 
 \tx ele          nekčiwrer.
 \mb erek -(dU)LE neː -(k)čI -Gr(E) -r  
-\ps pron         v                      
+\ps pron         v                       
 \ge prox -loc    put -dur   -hab   -3pl
 
 \ft For storage, they keep their food and clothes, everything, here.
@@ -828,12 +828,12 @@ accusative-possessive3SG, bekeččen does not take the possrefl pl
 \id Klim_Nikolaevich_eksponat_051
 \tx Bačakartan        ee ọrọlčịmŋa   ịala        hụːmala       edleːr               herre
 \mb badʒịkar -tEn   ee ọrọlčị        -mŋE  ịak  -(dU)LE hụːma -(dU)LE e   -dle     -WUr     hor -R      
-\ps n               interj v                   pron         n             v                     v           
+\ps n               interj n                   pron         n             v                     v            
 \ge morning  -distr eh herd.reindeer -agnr what -loc    herd  -loc    neg -trm.cvb -prfl.pl go  -neg.cvb
 
 \tx ọrọlbụːr                iːwgerer               eleːr                hepkendeːr,              erek
 \mb ọrọn              -L  -WUr     iː    -U    -Gr(E) -r   erek -(dU)LE -WUr     hepken -DE       -WUr     erek
-\ps n                              v                       n                  v                         pron 
+\ps n                              v                       n                  v                         pron  
 \ge domestic.reindeer -pl -prfl.pl enter -caus -hab   -3pl prox -loc    -prfl.pl catch  -purp.cvb -prfl.pl prox
 
 \tx tigeːkun, erek tigeːkun, tadụ     adị   dʒoːr mịar     igin  ọrọn          ečiken
@@ -1043,7 +1043,7 @@ with these reindeer marks.
 \id Klim_Nikolaevich_eksponat_064
 \tx Ilken nelke        herreketne                 ọrọlčịmŋal      ilkengerer.
 \mb ilken nelkeni      hor -REk      -E  -tEn      ọrọlčị        -mŋE  -L  ilken -Gr(E) -r  
-\ps ?     n            v                           v                       v                
+\ps ?     n            v                           n                       v                 
 \ge mark  early.spring go  -cond.cvb -ep -poss.3pl herd.reindeer -agnr -pl mark  -hab   -3pl
 
 \ft In spring, when they go (somewhere) the reindeer herders mark (the reindeer).
@@ -1058,7 +1058,7 @@ herreketnen
 \id Klim_Nikolaevich_eksponat_065
 \tx Ńamaːda,   ńamadụk      dʒoːr ńamaː igin  ọrọn          bekebben                 ečin
 \mb ńama    =DE  ńama    -DUk(U) dʒoːr ńama    iŋin  ọrọn              bekeč -W   -E  -n(I)     erroːčin 
-\ps num          num             num   n     ptl   n                 adv                      pron      
+\ps num          num             num   n     ptl   n                 adv                      pron       
 \ge hundred =ptl hundred -abl    two   hundred etc.Y domestic.reindeer all   -acc -ep -poss.3sg prox.qual
 
 \tx ilkeniken,     tarịt dʒe   ele          emnidʒur,        kọntọrala       emnidʒur
@@ -1876,12 +1876,12 @@ move like this.
 \id Klim_Nikolaevich_eksponat_118
 \tx Er   bọlọ...  erew      bọlọ     ịawrar            ebehel,   ọrọlčịmnar
 \mb erek bọlọnị      erek -W   bọlọnị      ịa      -Gr(E) -r   ewen -SEl ọrọlčị        -mŋE  -L 
-\ps pron n           pron      n           v                   n         v                      
+\ps pron n           pron      n           v                   n         n                       
 \ge prox late.autumn prox -acc late.autumn do.what -hab   -3pl Even -pl  herd.reindeer -agnr -pl
 
 \tx ọrọldụ,              ńamịčaldụ,         aːkkịčaldụ,           hụːmadụ  ujgerer            ere.
 \mb ọrọn              -L  -DU  ńamịčan         -L  -DU  atkịčan            -L  -DU  hụːma -DU  uj     -Gr(E) -r   erek
-\ps n                          n                        n                           n          v                  pron 
+\ps n                          n                        n                           n          v                  pron  
 \ge domestic.reindeer -pl -dat female.reindeer -pl -dat castrated.reindeer -pl -dat herd  -dat tie.up -hab   -3pl prox
 
 \ft In autumn Evens, reindeer herders, use this, they tie it to the reindeer, the does, the castrated reindeer (i.e. the working
@@ -2005,12 +2005,12 @@ declination class as e- and bi- (3sg nfut = ihni); in Sebjan, however, this exis
 \id Klim_Nikolaevich_eksponat_126
 \tx Erek tugo   ọrọlčịmna... hụːmadụk    emneken                     ụntọn           bekečen
 \mb erek tugeni ọrọlčị        -mŋE  hụːma -DUk(U) em   -REk      -E  -n(I)     unte      -n(I)     bekeč -E  -n(I)    
-\ps pron n      v                   n             v                            n                   adv                
+\ps pron n      n                   n             v                            n                   adv                 
 \ge prox winter herd.reindeer -agnr herd  -abl    come -cond.cvb -ep -poss.3sg fur.boots -poss.3sg all   -ep -poss.3sg
 
 \tx ịan...        ịmanda biwren.
 \mb ịak  -n(I)     ịmanra bi -Gr(E) -n(I)
-\ps pron           ?      n               
+\ps pron           ?      n                
 \ge what -poss.3sg snow   be -hab   -3sg 
 
 \ft This.. in winter when the reindeer herder comes from the herd his fur boots are all covered in snow.

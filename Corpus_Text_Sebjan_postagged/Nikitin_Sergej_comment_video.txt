@@ -125,12 +125,12 @@ definitely has a plural meaning, which Ija Krivoshapkina didn't catch in her tra
 \id Nikitin_Sergej_comment_video_008
 \tx Ere  mut    ńoːkeːnti                      Miteː gerbe hupkučimŋe    emnidʒi      emnidʒi      ere
 \mb erek mut    noː             -KEn -t(I)        Mitja gerbe hupkut -E  -mŋE  em   -RIdʒI   em   -RIdʒI   erek
-\ps pron pron   n                                 ?     n     v                v             v             pron
+\ps pron pron   n                                 ?     n     n                v             v             pron 
 \ge prox 1pl.in younger.sibling -dim -poss.1pl.in Mitja name  learn  -ep -agnr come -ant.cvb come -ant.cvb prox
 
 \tx muttule        toːdičedden.
 \mb mut    -(dU)LE toːdi -E  -Č   -E  -D    -R(E)   -n(I)
-\ps pron           v                                      
+\ps pron           v                                       
 \ge 1pl.in -loc    help  -ep -res -ep -prog -nonfut -3sg 
 \ft This is our little nephew Mitja, a schoolboy, having come he is helping us.
 \ru Это наш младший брат Митя, ученик/школьник, приедя нам вот помогает.
@@ -665,12 +665,12 @@ journey
 \id Nikitin_Sergej_comment_video_047
 \tx Er   er   mut    mut    ewehelti               ọrọlčịmŋal      ọːk baγar zapasnọj, hapaːs
 \mb erek erek mut    mut    ewen -SEl -t(I)        ọrọlčị        -mŋE  -L  ọːk  baγar  zapasnọj zapas  
-\ps pron pron pron   pron   n                      v                       pron ?      adj      n      
+\ps pron pron pron   pron   n                      n                       pron ?      adj      n       
 \ge prox prox 1pl.in 1pl.in Even -pl  -poss.1pl.in herd.reindeer -agnr -pl when wish.Y spare.R  spare.R
 
 \tx ọrọlkan             biwekkerep,               ọttọn slụčaj_čewọ tar   ọrọn          igin
 \mb ọrọn              -lkEn bi -WEːČ -Gr(E) -p      ọttọn v_slučae_čego tarak ọrọn              iŋin 
-\ps n                       v                       ptl   adv           pron  n                 ptl   
+\ps n                       v                       ptl   adv           pron  n                 ptl    
 \ge domestic.reindeer -prop be -gnr  -hab   -1pl.in dp.Y  in.case.R     dist  domestic.reindeer etc.Y
 
 \tx ọbdụrakan                     enilleken                           igin  er   zapasnọjụ   ịad...
@@ -917,7 +917,7 @@ the spare.
 \id Nikitin_Sergej_comment_video_067
 \tx Ọrọlčịmŋa   bej gịan           gerbe ŋịnal,     ịbga   ŋịnalkan      bijekteːk.
 \mb ọrọlčị        -mŋE  bej gịa    -n(I)     gerbe ŋịn -E  -L  ịbgọ ŋịn -E  -lkEn bi -jEktEːk
-\ps v                   n   n                n     n           ?    n             v          
+\ps n                   n   n                n     n           ?    n             v           
 \ge herd.reindeer -agnr man friend -poss.3sg name  dog -ep -pl good dog -ep -prop be -nec.Y  
 
 \ft A reindeer herder's friends are his dogs, he needs to have a good dog.
@@ -931,7 +931,7 @@ the spare.
 \id Nikitin_Sergej_comment_video_068
 \tx Aha.
 \mb aha
-\ps n 
+\ps n  
 \ge aha
 
 \ELANBegin 00:06:58.120
@@ -941,7 +941,7 @@ the spare.
 \id Nikitin_Sergej_comment_video_069
 \tx Ere  ọrọlčịmŋa   gịan           gerbe er   ŋịnal,     tara.
 \mb erek ọrọlčị        -mŋE  gịa    -n(I)     gerbe erek ŋịn -E  -L  tarak
-\ps pron v                   n                n     pron n           pron 
+\ps pron n                   n                n     pron n           pron  
 \ge prox herd.reindeer -agnr friend -poss.3sg name  prox dog -ep -pl dist 
 \ft A reindeer herder's friend is his dog.
 \ru Друзья оленевода - собаки.
@@ -954,7 +954,7 @@ the spare.
 \id Nikitin_Sergej_comment_video_070
 \tx Ere  mut,   goːndeŋu,              ọttọn ečin      mut    ečin      badụhangararap                     ere.
 \mb erek mut    goːn -DEŋ     -W        ọttọn erroːčin  mut    erroːčin  badụ -s(E)n -Gr(E) -R(E)   -p      erek
-\ps pron n   v                       ptl   pron      pron   pron      v                                  pron 
+\ps pron n   v                       ptl   pron      pron   pron      v                                  pron  
 \ge prox 1pl.in say  -pst.ptc -poss.1sg dp.Y  prox.qual 1pl.in prox.qual ride -lim   -hab   -nonfut -1pl.in prox
 
 \ft Like I said, here we are leaving.

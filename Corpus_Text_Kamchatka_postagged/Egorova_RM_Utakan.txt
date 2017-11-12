@@ -168,7 +168,7 @@ mean that the Even name "Inšača" means "belobrovyj", Inšača doesn't translat
 \ref
 \tx Ewik... ọːnkana,   ewidʒek,   Utakan tala  biweːtten.
 \mb ewiː ọːn =kEnE  ewiː -ČEk Utakan talal bi -WEːČ -R(E)   -n(I)
-\ps v    pron       v         ?      v     v                     
+\ps v    pron       n         ?      v     v                      
 \ge play how =contr play -nr  Utakan shine be -gnr  -nonfut -3sg 
 \ft A ga... how does one say it, a game, Utakan occurs there.
 \nt According to Rimma (June 2016), this was the main game that the Even children played, they played it all the time, and that's why she remembers it so well
@@ -182,7 +182,7 @@ mean that the Even name "Inšača" means "belobrovyj", Inšača doesn't translat
 \ref
 \tx Gerbeneši                tarak mugdekčen.
 \mb gerbe -n(I)     -E  =sI   tarak mugdek     -čEn
-\ps n                         pron  n               
+\ps n                         pron  n                
 \ge name  -poss.3sg -ep =emph dist  tree.stump -dim
 
 \ft It's name is "mugdekchen" (tussock, tree stump).

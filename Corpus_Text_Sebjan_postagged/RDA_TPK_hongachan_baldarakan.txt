@@ -17,7 +17,7 @@ Krivoshapkina.
 \id RDA_TPK_hongachan_baldarakan_001
 \tx Oːtel     omende    bïraːhïnnïk bihin,            ewinek?
 \mb oːtel      omen =DE  prazdnik  bi -RI  -n(I)     ewiː -ČEk
-\ps adv        num       n         v                 v        
+\ps adv        num       n         v                 n         
 \ge previously one  =ptl holiday.R be -pst -poss.3sg play -nr 
 \ft (intended) Previously, was there just one holiday?
 \ru
@@ -28,7 +28,7 @@ Krivoshapkina.
 \id RDA_TPK_hongachan_baldarakan_002
 \tx ee, bihin
 \mb ee bi -RI  -n(I)    
-\ps interj v                 
+\ps interj v                  
 \ge eh be -pst -poss.3sg
 \ft yes, there was
 \ru
@@ -85,7 +85,7 @@ Krivoshapkina.
 \id RDA_TPK_hongachan_baldarakan_007
 \tx Ewinekńun         bihin?
 \mb ewiː -ČEk =ńUn   bi -RI  -n(I)    
-\ps v                v                
+\ps n                v                 
 \ge play -nr  =restr be -pst -poss.3sg
 \ft (intended) was there only the ewinek (the summer solstice celebration)?
 \ru
@@ -96,7 +96,7 @@ Krivoshapkina.
 \id RDA_TPK_hongachan_baldarakan_008
 \tx ewinekńun         bakaldawatta                 mut    ...
 \mb ewiː -ČEk =ńUn   bak  -(E)ldE -WEːČ -R(E)   mut   
-\ps n                v                          pron   
+\ps n                v                          pron     
 \ge play -nr  =restr find -soc    -gnr  -nonfut 1pl.in
 \ft they only meet at the summer solstice celebration, we/our....
 \ph
@@ -110,7 +110,7 @@ Krivoshapkina.
 \id RDA_TPK_hongachan_baldarakan_009
 \tx Bakaldadʒak       bihin,            ee, irile.
 \mb bak  -(E)ldE -ČEk bi -RI  -n(I)     ee
-\ps n                 v                 interj 
+\ps n                 v                 interj   
 \ge find -soc    -nr  be -pst -poss.3sg eh
 \ft there was a meeting, in summer
 \ph
@@ -123,7 +123,7 @@ Krivoshapkina.
 \id RDA_TPK_hongachan_baldarakan_010
 \tx irildu
 \mb ireli  -DU 
-\ps n           
+\ps n            
 \ge summer -dat
 \ft in summer
 \ru
@@ -134,7 +134,7 @@ Krivoshapkina.
 \id RDA_TPK_hongachan_baldarakan_011
 \tx eh, er   nelkenidu         ọrọlčịmŋal
 \mb eh erek nelkeni      -DU  ọrọlčị        -mŋE  -L 
-\ps interj pron n                 v                      
+\ps interj pron n                 n                       
 \ge eh prox early.spring -dat herd.reindeer -agnr -pl
 \ft in early spring the reindeer herders
 \ru это весной оленеводы
@@ -145,7 +145,7 @@ Krivoshapkina.
 \id RDA_TPK_hongachan_baldarakan_012
 \tx Nelkenidu         ọrọlčịmŋa   bakaldadʒak       biwren,         họŋŋačan ihureken.
 \mb nelkeni      -DU  ọrọlčị        -mŋE  bak  -(E)ldE -ČEk bi -Gr(E) -n(I) họnŋačan      isu  -REk      -E  -n(I)    
-\ps n                 v                   v                 n               n             v                            
+\ps n                 n                   n                 n               n             v                               
 \ge early.spring -dat herd.reindeer -agnr find -soc    -nr  be -hab   -3sg  reindeer.fawn grow -cond.cvb -ep -poss.3sg
 \ft in spring there is the meeting of the reindeer herders, when the reindeer fawns are born (lit. when they grow)
 \ph
@@ -158,7 +158,7 @@ Krivoshapkina.
 \id RDA_TPK_hongachan_baldarakan_013
 \tx Ee, tiːke erek irek  ịlaːn, he?
 \mb ee tiek erek irek  ịlaːn he 
-\ps interj n  n pron  n     interj  
+\ps interj n  n pron  n     interj    
 \ge eh now  prox which moon  huh
 \nt now, this is which month, huh?
 \ru сейчас, это какой месяц
@@ -379,7 +379,7 @@ confessed that she also gets confused and has to look it up in the books, these 
 
 \tx baldarakan                      hebdʒenek
 \mb balda   -REk      -E  -n(I)     hebdʒen -ČEk
-\ps v                               n           
+\ps v                               n            
 \ge be.born -cond.cvb -ep -poss.3sg funny   -nr 
 \ft Now in this month, when this coming month ends, when the next month comes, the reindeer does give birth, then when the first reindeer
 fawn is born there is a celebration.
@@ -402,7 +402,7 @@ mụdnakan - but this latter form is practically not used anymore
 \id RDA_TPK_hongachan_baldarakan_033
 \tx bïraːhïnnïk
 \mb prazdnik 
-\ps n         
+\ps n          
 \ge holiday.R
 
 \ru
@@ -413,7 +413,7 @@ mụdnakan - but this latter form is practically not used anymore
 \id RDA_TPK_hongachan_baldarakan_034
 \tx họŋŋačan bïr...  ịan           bidʒin        hebdʒekedʒeken                  bidʒin
 \mb họnŋačan      *bï -L  ịak  -n(I)     bi -DʒI -n(I) hebdʒek   -E  -ČEk -E  -n(I)     bi -DʒI -n(I)
-\ps n             ?       pron           v             v                                v            
+\ps n             ?       pron           v             n                                v             
 \ge reindeer.fawn *** -pl what -poss.3sg be -fut -3sg  celebrate -ep -nr  -ep -poss.3sg be -fut -3sg 
 \ft it will be the holiday of the reindeer fawn
 \ru будет праздник олененка
@@ -431,7 +431,7 @@ mụdnakan - but this latter form is practically not used anymore
 \id RDA_TPK_hongachan_baldarakan_036
 \tx hebdʒekedʒek
 \mb hebdʒek   -E  -ČEk
-\ps v                  
+\ps n                    
 \ge celebrate -ep -nr 
 \ft the celebration
 \ru
@@ -442,7 +442,7 @@ mụdnakan - but this latter form is practically not used anymore
 \id RDA_TPK_hongachan_baldarakan_037
 \tx Tarak uduːr             muttu       tradicija   Zoja Afanasevna ịarịn              tarak mut    dʒaːltị,              mut
 \mb tarak erek -DU  -WUr     mut    -DU  tradicija   Zoja Afanasevna ịa      -RI  -n(I)     tarak mut    dʒaː     -L  -t(I)        mut   
-\ps n  pron               pron        n           ?    ?          v                      pron  pron   n                         pron   
+\ps n  pron               pron        n           ?    ?          v                      pron  pron   n                         pron    
 \ge dist  prox -dat -prfl.pl 1pl.in -dat tradition.R Zoja Afanasevna do.what -pst -poss.3sg dist  1pl.in relative -pl -poss.1pl.in 1pl.in
 
 \tx upeːlti                     taraw      hịgịːlị
@@ -569,7 +569,7 @@ mụdnakan - but this latter form is practically not used anymore
 \id RDA_TPK_hongachan_baldarakan_047
 \tx Tadụːr           tar   kụŋal    tar   hebdʒenek,    hebdʒenektu        ịawra        goːli?
 \mb tarak -DU  -WUr     tarak kụŋa  -L  tarak hebdʒen -ČEk hebdʒen -ČEk -DU  ịa      -Gr(E) goːn -LI     
-\ps pron                pron  n         pron  n            n                 v              v            
+\ps pron                pron  n         pron  n            n                 v              v             
 \ge dist  -dat -prfl.pl dist  child -pl dist  funny   -nr  funny   -nr  -dat do.what -hab   say  -imp.2sg
 
 \ft there the children do something at that festival, right?
@@ -581,7 +581,7 @@ mụdnakan - but this latter form is practically not used anymore
 \id RDA_TPK_hongachan_baldarakan_048
 \tx hịakataw       teguwrer                   haːdụn
 \mb hịakịta -W   teg      -U    -Gr(E) -r   haːdụn   
-\ps n            v                          adv       
+\ps n            v                          adv        
 \ge tree    -acc sit.down -caus -hab   -3pl sometimes
 \ft sometimes they plant trees
 \ph
@@ -595,7 +595,7 @@ mụdnakan - but this latter form is practically not used anymore
 \tx ehni           tarakam       ọːn ịa.. tiːke
 \mb e   -R(E) -n(I) tarakam       ọːn ịak  tiek
 \ps v               adv           pron pron adv 
-\ge neg -nfut -3sg  in.those.days how what now 
+\ge neg -nonfut -3sg  in.those.days how what now 
 \ft no, how (can they) now, at this time
 \ru нет как тогда
 \ELANBegin 00:02:21.410
@@ -778,12 +778,12 @@ from ŋeːlu with a suffix -kE (not clear what that would be, however)
 \id RDA_TPK_hongachan_baldarakan_065
 \tx tarak ịak amardadụkụn                ọrọlčịmŋa   ịadụn,           ịan
 \mb tarak ịak  amar   -gIdE -DUk(U) -n(I)     ọrọlčị        -mŋE  ịak  -DU  -n(I)     ịak  -n(I)    
-\ps pron  pron n                              v                   pron                pron          
+\ps pron  pron n                              n                   pron                pron           
 \ge dist  what behind -part -abl    -poss.3sg herd.reindeer -agnr what -dat -poss.3sg what -poss.3sg
 
 \tx amardadụkụn.
 \mb amar   -gIdE -DUk(U) -n(I)    
-\ps n                              
+\ps n                               
 \ge behind -part -abl    -poss.3sg
 \ft it (will be) after the reindeer herders' festival
 \ru это после слет оленеводов
@@ -1061,7 +1061,7 @@ separated and the does remain with the others, or whether each age/sex group is 
 \tx Ehni.          Atkịčan         amargịdụkụn              ọːn goːbgererin,                    be.
 \mb e   -R(E) -n(I) atkịčan            amar   -gIdE -DUk(U) -n(I)     ọːn goːn -B   -Gr(E) -RI  -n(I)     be   
 \ps v               n                  n                              pron v                               ptl  
-\ge neg -nfut -3sg  castrated.reindeer behind -part -abl    -poss.3sg how say  -med -hab   -pst -poss.3sg ptl.Y
+\ge neg -nonfut -3sg  castrated.reindeer behind -part -abl    -poss.3sg how say  -med -hab   -pst -poss.3sg ptl.Y
 
 \ft after the castrated reindeer how was it called
 \ph
@@ -1085,7 +1085,7 @@ separated and the does remain with the others, or whether each age/sex group is 
 \tx ehni
 \mb e   -R(E) -n(I)
 \ps v              
-\ge neg -nfut -3sg 
+\ge neg -nonfut -3sg 
 
 \ru
 \ELANBegin 00:04:09.750
@@ -1096,7 +1096,7 @@ separated and the does remain with the others, or whether each age/sex group is 
 \tx ŋiː gịawanap          ehni
 \mb ŋiː gịawanụ   -(E)rEp e   -R(E) -n(I)
 \ps pron adv               v              
-\ge who last.year -adjr   neg -nfut -3sg 
+\ge who last.year -adjr   neg -nonfut -3sg 
 \ft it's last year's, right
 \ph
 \gr here, the ŋiː has the meaning of "someone",
@@ -1121,7 +1121,7 @@ separated and the does remain with the others, or whether each age/sex group is 
 \tx gịawanap          eːŋken      ịawkan         ehni
 \mb gịawanụ   -(E)rEp eːŋken        ịawkan           e   -R(E) -n(I)
 \ps adv               n             n                v              
-\ge last.year -adjr   reindeer.fawn last.year's.fawn neg -nfut -3sg 
+\ge last.year -adjr   reindeer.fawn last.year's.fawn neg -nonfut -3sg 
 \ft last year's fawn is (called) jawkan, right
 \ph
 \gr ịawkan = Sebjan word, not just standard Even
@@ -1169,7 +1169,7 @@ separated and the does remain with the others, or whether each age/sex group is 
 \tx ehni,          tar   ńamịčan     ehni
 \mb e   -R(E) -n(I) tarak ńamịčan         e   -R(E) -n(I)
 \ps v               pron  n               v              
-\ge neg -nfut -3sg  dist  female.reindeer neg -nfut -3sg 
+\ge neg -nonfut -3sg  dist  female.reindeer neg -nonfut -3sg 
 \ft no, that's a doe, right
 \ru нет это же важенка
 \ELANBegin 00:04:26.730

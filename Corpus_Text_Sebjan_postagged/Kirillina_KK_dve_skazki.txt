@@ -63,7 +63,7 @@ is ukčen
 \tx Mut    čeːlet           upeːt                   ehni.
 \mb mut    čele -t(I)        upeː        -t(I)        e   -R(E) -n(I)
 \ps pron   n                 n                        v              
-\ge 1pl.in all  -poss.1pl.in grandmother -poss.1pl.in neg -nfut -3sg 
+\ge 1pl.in all  -poss.1pl.in grandmother -poss.1pl.in neg -nonfut -3sg 
 
 \ft She is the grandmother of us all, right?
 \ph
@@ -116,7 +116,7 @@ of the three boys who constituted the audience, since most people in Sebjan are 
 \id Kirillina_KK_dve_skazki_009
 \tx Egdʒemeje,   egdʒoːn egdʒenet       toreri,         torelken        biče      nọŋan.
 \mb egdʒen -mEjE egdʒen egdʒen -E  -Č   tore  -RI       tore  -n  -lkEn bi -čE     nọŋan
-\ps adj          adj    adj             v               v               v          pron 
+\ps adj          adj    adj             v               n               v          pron  
 \ge big    -aug  big    big    -ep -ins speak -impf.ptc speak -nr -prop be -pf.ptc 3sg  
 
 \ft Huge, and he had a big, big voice.
@@ -131,7 +131,7 @@ dịlgan
 \id Kirillina_KK_dve_skazki_010
 \tx Dʒoːr ọmọlgọlkan biče.
 \mb dʒoːr ọmọlga -lkEn bi -čE    
-\ps num   n            v          
+\ps num   n            v           
 \ge two   boy    -prop be -pf.ptc
 \ft He had two sons.
 \ru У него было 2 сыновей
@@ -161,7 +161,7 @@ dịlgan
 \tx Awdịrịw     haːs     ehni?
 \mb agdịrị  -W   haː  -s   e   -R(E) -n(I)
 \ps n            v         v              
-\ge thunder -acc know -2pl neg -nfut -3sg 
+\ge thunder -acc know -2pl neg -nonfut -3sg 
 \ft You know what thunder is, right?
 \ph
 \gr aːwdịrị is not restricted to standard Even, is also used in Sebjan, so it's not quite clear why she felt she had to check with the kids
@@ -198,7 +198,7 @@ whether they understood
 \id Kirillina_KK_dve_skazki_015
 \tx Tar   abaga       emie   tarbačan      ịalkan    biče,     torelken.
 \mb tarak abaga       emie   tarọːčịn  ịak  -lkEn bi -čE     tore  -n  -lkEn
-\ps pron  n           adv    pron      pron       v          v              
+\ps pron  n           adv    pron      pron       v          n               
 \ge dist  grandfather also.Y dist.qual what -prop be -pf.ptc speak -nr -prop
 
 \ft That grandad had such a voice/speech.
@@ -213,7 +213,7 @@ thunder has
 \id Kirillina_KK_dve_skazki_016
 \tx Nọŋan dʒoːr ọmọlgọlkan biče.
 \mb nọŋan dʒoːr ọmọlga -lkEn bi -čE    
-\ps pron  num   n            v          
+\ps pron  num   n            v           
 \ge 3sg   two   boy    -prop be -pf.ptc
 \ft He had two sons.
 \ru  У него было 2 сыновей
@@ -253,12 +253,12 @@ fur-bearing animals with his people, giving them.
 \id Kirillina_KK_dve_skazki_018
 \tx Noːn                     damar    baːn       biče,     ịawda         enikekeːn            gurgewčir
 \mb noː             -n(I)     damar    baː     -n  bi -čE     ịak  -W   =DE  e   -nIkEn   -KEn     gurgeːwči -R      
-\ps n                         ptl      v           v          pron           v                     v                 
+\ps n                         ptl      n           v          pron           v                     v                  
 \ge younger.sibling -poss.3sg disc.ptl be.lazy -nr be -pf.ptc what -acc =ptl neg -sim.cvb -dim.int work      -neg.cvb
 
 \tx ịlụmụdụ  dessiniken      čịldawrača,         moːwde         eče        hụkụhnawrar,
 \mb ịlụmụ -DU  desči -nIkEn   čịlda   -Gr(E) -čE     moː   -W   =DE  e   -čE     hụkụ      -s(E)n -E  -Gr(E) -R      
-\ps n          v              n                      n               v           v                                    
+\ps n          v              n                      n               v           v                                     
 \ge yurt  -dat lie   -sim.cvb survive -hab   -pf.ptc water -acc =ptl neg -pf.ptc ladle.out -lim   -ep -hab   -neg.cvb
 
 \tx gọlụda         eče        taːwgarar.
@@ -384,12 +384,12 @@ họtaran, though one could say kụńaːdaŋatnan họtarantan;
 \tx Tadụk       amannị         niŋŋeddiwen                            dọldača,     Awdịrị etiken
 \mb tarak -DUk(U) aman   -n(I)     ninŋe -D    -RI      -W   -E  -n(I)     dọlda -čE     agdịrị  etikeːn
 \ps pron          n                v                                       v             n       n      
-\ge dist  -abl    father -poss.3sg moan  -prog -ipf.ptc -acc -ep -poss.3sg hear  -pf.ptc thunder old.man
+\ge dist  -abl    father -poss.3sg moan  -prog -impf.ptc -acc -ep -poss.3sg hear  -pf.ptc thunder old.man
 
 \tx niŋŋeddiwen.
 \mb ninŋe -D    -RI      -W   -E  -n(I)    
 \ps v                                      
-\ge moan  -prog -ipf.ptc -acc -ep -poss.3sg
+\ge moan  -prog -impf.ptc -acc -ep -poss.3sg
 
 \ft From there he heard his father moaning, Old Man Thunder moaning.
 \ru Оттуда он услышал стон отца, стон Гром-старика.
@@ -589,12 +589,12 @@ the sacred reindeer kụːdʒaj (something like a guardian angel) should also pr
 
 \tx ịarị          dʒebukemŋe      uldew     igin, ọttọn tar   ụjamkan      uldewen                ńan
 \mb ịa      -RI       dʒep -WkEn -mŋE ulre -W   iŋin  ọttọn tarak ụjamkan        ulre -W   -E  -n(I)     ńaːn
-\ps v                 v               n         ptl   ptl   pron  n              n                       adv 
+\ps v                 n               n         ptl   ptl   pron  n              n                       adv  
 \ge do.what -impf.ptc eat  -caus -nr  meat -acc etc.Y dp.Y  dist  mountain.sheep meat -acc -ep -poss.3sg and 
 
 \tx holoŋel      er   urekčel     nọːdatnan          nọːdịwrịtnan               biden,
 \mb heleŋ -E  -L  erek urekčen -L  nọːd   -E  -tEn      nọːd   -(I)w -RI       -tEn      bi -DE       -n(I)    
-\ps ?             n n           adj                  v                                v                      
+\ps ?             n n           adj                  v                                v                       
 \ge crest -ep -pl prox hill    -pl pretty -ep -poss.3pl pretty -vr   -impf.ptc -poss.3pl be -purp.cvb -poss.3sg
 
 \tx goːniken      goːnče.
@@ -653,7 +653,7 @@ this one is very frequent and noticeable
 \id Kirillina_KK_dve_skazki_042
 \tx Ọnaːkị delgenkelduk           baːn,      ọnaːkị.
 \mb ọnaːkị    dʒelgenke -L  -DUk(U) baː     -n  ọnaːkị   
-\ps n         n                     v           n        
+\ps n         n                     n           n         
 \ge wolverine animal    -pl -abl    be.lazy -nr wolverine
 
 \ft "The wolverine is the laziest of all animals."
@@ -666,8 +666,8 @@ this one is very frequent and noticeable
 \id Kirillina_KK_dve_skazki_043
 \tx Nọŋan ọːkda    ọːkda    bejen               ehni           bujuskerer,                ọnaːkị.
 \mb nọŋan ọːk  =DE  ọːk  =DE  bej    -E  -n(I)     e   -R(E) -n(I) buju -s    -Gr(E) -R       ọnaːkị   
-\ps pron  pron      n      pron                 v               v                          n         
-\ge 3sg   when =ptl when =ptl self.Y -ep -poss.3sg neg -nfut -3sg  hunt -mult -hab   -neg.cvb wolverine
+\ps pron  pron      n      pron                 v               v                          n          
+\ge 3sg   when =ptl when =ptl self.Y -ep -poss.3sg neg -nonfut -3sg  hunt -mult -hab   -neg.cvb wolverine
 
 \ft It never never hunts(for) itself, the wolverine.
 \ru Она никогда сама не охотится, росомаха.
@@ -684,7 +684,7 @@ this one is very frequent and noticeable
 \tx ńụrmawatnịkan        ụjamkalbụ          amardadụkụtnan             biwekkeren              ehni.
 \mb ńụrma    -WEːČ -nIkEn   ụjamkan        -L  -W   amar   -gIdE -DUk(U) -tEn      bi -WEːČ -Gr(E) -n(I) e   -R(E) -n(I)
 \ps v                       n                       n                              v                     v              
-\ge sneak.up -gnr  -sim.cvb mountain.sheep -pl -acc behind -part -abl    -poss.3pl be -gnr  -hab   -3sg  neg -nfut -3sg 
+\ge sneak.up -gnr  -sim.cvb mountain.sheep -pl -acc behind -part -abl    -poss.3pl be -gnr  -hab   -3sg  neg -nonfut -3sg 
 
 \ft It always follows after the mountain sheep, sneaking along the streams and the feet of the hills.
 \ph
@@ -697,7 +697,7 @@ this one is very frequent and noticeable
 \tx Tačịn,      ehni?
 \mb tarọːčịn  e   -R(E) -n(I)
 \ps pron      v              
-\ge dist.qual neg -nfut -3sg 
+\ge dist.qual neg -nonfut -3sg 
 \ft It's like that, isn't it?
 \ru не так ли? 
 \ELANBegin 00:04:32.200
@@ -968,7 +968,7 @@ gerbettem "ja dumala chto ty idesh"; ja vizhu chto igolka slomalasj = họkarda�
 \tx Kụŋa kokerin                ịak ọːdʒịn?,     goːnče.
 \mb kụŋa  koke -RI      -n(I)     ịak  ọː     -DʒI -n(I) goːn -čE    
 \ps n     v                       pron v                 v           
-\ge child die  -ipf.ptc -poss.3sg what become -fut -3sg  say  -pf.ptc
+\ge child die  -impf.ptc -poss.3sg what become -fut -3sg  say  -pf.ptc
 
 \ft "What's the big deal that a child died?", she said.
 \ph

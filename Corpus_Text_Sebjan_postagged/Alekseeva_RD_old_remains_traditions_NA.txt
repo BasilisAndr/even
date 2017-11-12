@@ -362,7 +362,7 @@ that ča can be reduced form of -KEn.
 \tx ulgimiwrerem:                   "Tarak ampaːr
 \mb ulgim -I    -Gr(E) -R(E)   -m   tarak ampar         
 \ps v                               pron  n             
-\ge ask   -ipf? -hab   -nonfut -1sg dist  storage.shed.R
+\ge ask   -ipf -hab   -nonfut -1sg dist  storage.shed.R
 
 \tx bihnigu?"            goːŋnere(m).
 \mb bi -R(E)   -n(I) =GU goːn -Gr(E) -R(E)   -m  
@@ -434,7 +434,7 @@ that ča can be reduced form of -KEn.
 \tx akandụkụj                  ulgimiwrerem
 \mb akan          -DUk(U) -J       ulgim -I    -Gr(E) -R(E)   -m  
 \ps n                              v                              
-\ge older.brother -abl    -prfl.sg ask   -ipf? -hab   -nonfut -1sg
+\ge older.brother -abl    -prfl.sg ask   -ipf -hab   -nonfut -1sg
 
 \ft I say about it, ask my older brother.
 \ru На это я говорю, спрашиваю у старшего брата.
@@ -1147,13 +1147,13 @@ happening. Ịakkọl ọːdnị -- something happened.
 
 \id Alekseeva_RD_old_remains_traditions_073
 \tx Daže  honte tiːk bihehni            tar   emčitel,
-\mb daže   honte tiek bi -R(E)   =hnI    tarak emčit    -E  -L 
+\mb daže   honte tiek bi -R(E)   =hni    tarak emčit    -E  -L 
 \ps ptl    adj   adv  v                  pron  ?               
 \ge even.R other now  be -nonfut =affirm dist  doctor.Y -ep -pl
 
 \tx ere  beju     begdečimŋel.
 \mb erek bej -W   beg      -DE -Č   -E  -mŋE -L 
-\ps pron n        v                             
+\ps pron n        n                              
 \ge prox man -acc medicine -vr -res -ep -nr  -pl
 
 \ft There are even other doctors now, healers.
@@ -1169,7 +1169,7 @@ happening. Ịakkọl ọːdnị -- something happened.
 \id Alekseeva_RD_old_remains_traditions_074
 \tx Tarbačinat               ịawrar...
 \mb tarọːčịn  -E  -Č   ịa      -Gr(E) -r  
-\ps pron               v                   
+\ps pron               v                    
 \ge dist.qual -ep -ins do.what -hab   -3pl
 \ft They do it.
 \ru Этим занимаются.

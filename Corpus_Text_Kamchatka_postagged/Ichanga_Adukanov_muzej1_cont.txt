@@ -19,16 +19,16 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \ref
 \tx I...  ọːkụtta,   gde-to      v    semnadzatom   veke,         uŋe,   ọrọčịlbe        krestilliten                   pravoslavnaj
 \mb i     ọːk  =(W)UttE gde-to      v    semnadzatom   veke          uŋ -E  ọrọč  -E  -L  -W   krestil         -RI  -tEn      pravoslavnyj
-\ps conj  pron          pron        postpos adj           n             v      n                  v                              adj         
+\ps conj  pron          pron        postpos adj           n             v      n                  v                              adj
 \ge and.R when =indef   somewhere.R in.R seventeenth.R century.loc.R do -ep Oroch -ep -pl -acc baptize.pst.m.R -pst -poss.3pl orthodox.m.R
 
 \tx veru.
-\mb veru         
-\ps n            
+\mb veru
+\ps n
 \ge faith.acc.f.R
 \ft Sometime in the 17th century they baptized the Evens into the orthodox faith.
 \ev
-\ru Когда-то где-то в 17м веке, эвенов крестили 
+\ru Когда-то где-то в 17м веке, эвенов крестили
 \ELANBegin 00:04:56.820
 \ELANEnd 00:05:07.520
 \ELANParticipant AEI
@@ -36,8 +36,8 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \id Ichanga_Adukanov_muzej1_cont_002
 \ref
 \tx ....  mut    uŋe    pravoslavnaj ọːdit.
-\mb *.... mut    uŋ -E  pravoslavnyj ọː     -RI  -t(I)       
-\ps ?     pron   v      adj          v                       
+\mb *.... mut    uŋ -E  pravoslavnyj ọː     -RI  -t(I)
+\ps ?     pron   v      adj          v
 \ge ***   1pl.in do -ep orthodox.m.R become -pst -poss.1pl.in
 \ft And so, sometime in the 17th century, end of the 17th, 18th century we became orthodox.
 \ev
@@ -49,8 +49,8 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \id Ichanga_Adukanov_muzej1_cont_003
 \ref
 \tx Tak  pravoslavnaj ikon,  ač gerbele,   ọːnkana,   Čefan?
-\mb tak  pravoslavnyj ikon   ač  gerbe -LE  ọːn =kEnE  Čefan    
-\ps interj adj          n      ptl n          pron       ?        
+\mb tak  pravoslavnyj ikon   ač  gerbe -LE  ọːn =kEnE  Čefan
+\ps interj adj          n      ptl n          pron       ?
 \ge so.R orthodox.m.R icon.R neg name  -prv how =contr Stepan(?)
 \ft So, an orthodox icon without a name, how is it, Chefan?
 \ev
@@ -62,8 +62,8 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \id Ichanga_Adukanov_muzej1_cont_004
 \ref
 \tx Čefan.
-\mb Čefan    
-\ps ?        
+\mb Čefan
+\ps ?
 \ge Stepan(?)
 \ft Chefan?
 \ev
@@ -93,8 +93,8 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \id Ichanga_Adukanov_muzej1_cont_007
 \ref
 \tx Erek babka         Ańika, čajčịba.
-\mb erek babuška       Ańika čajčaba                
-\ps pron n             ?     n                      
+\mb erek babuška       Ańika čajčaba
+\ps pron n             ?     n
 \ge prox grandmother.R Anika reindeer.herding.Koryak
 \ft This is granny Anika, a Koryak.
 \ev
@@ -116,14 +116,14 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \id Ichanga_Adukanov_muzej1_cont_009
 \ref
 \tx Čajčịbal                nọŋartan uŋduk,           nọŋartan severimŋel,             uŋduk,           iduwut,             vsegd(a)..
-\mb čajčaba                 -L  nọŋartan uŋ        -DUk(U) nọŋartan sever   -E  -mŋE -E  -L  uŋ        -DUk(U) irek  -DU  =(W)UttE vsegda  
-\ps n                           pron     n                 pron     n                        n                 pron                adv     
+\mb čajčaba                 -L  nọŋartan uŋ        -DUk(U) nọŋartan sever   -E  -mŋE -E  -L  uŋ        -DUk(U) irek  -DU  =(W)UttE vsegda
+\ps n                           pron     n                 pron     n                        n                 pron                adv 
 \ge reindeer.herding.Koryak -pl 3pl      something -abl    3pl      north.R -ep -nr  -ep -pl something -abl    which -dat =indef   always.R
 
 \tx tegenukeː               uŋkke         ilekene,             Kamenskaduk       nọŋartan.
 \mb tege     -(I)nUk   =eː   uŋ        =kkE irek  -(dU)LE =kEnE  Kamenskoe -DUk(U) nọŋartan
-\ps rel.n                    n              pron                 n                 n     
-\ge distance -advb.abl =emph something =ptl which -loc    =contr Kamenskoe -abl    3pl     
+\ps rel.n                    n              pron                 n                 n 
+\ge distance -advb.abl =emph something =ptl which -loc    =contr Kamenskoe -abl    3pl
 
 \ft Koryaks, they are from somewhere, they are northern people, from somewhere, from far away, where again, they are from Kamenskoe.
 \ev
@@ -135,8 +135,8 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \id Ichanga_Adukanov_muzej1_cont_010
 \ref
 \tx Vsjorav(no)    Kamenskoe, severgič.
-\mb vseravno       Kamenskoe sever   -GIČ 
-\ps adv            ?         n            
+\mb vseravno       Kamenskoe sever   -GIČ
+\ps adv            ?         n
 \ge all.the.same.R Kamenskoe north.R -elat
 \ft Anyway, from Kamenskoe, from the north.
 \ev
@@ -149,8 +149,8 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \ref
 \tx Ọːkụtta    ọrọčịlduk          ńọːnitan            tadụk.
 \mb ọːk  =(W)UttE ọrọč  -E  -L  -DUk(U) ńọːn     -RI  -tEn      tarak -DUk(U)
-\ps pron          n                     v                       pron         
-\ge when =indef   Oroch -ep -pl -abl    run.away -pst -poss.3pl dist  -abl   
+\ps pron          n                     v                       pron
+\ge when =indef   Oroch -ep -pl -abl    run.away -pst -poss.3pl dist  -abl
 \ft At some time they ran away from there, from the Evens.
 \ev
 \ru Когда-то от эвенов убежали, оттуда.
@@ -161,8 +161,8 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \id Ichanga_Adukanov_muzej1_cont_012
 \ref
 \tx Etikeːn ečin      guːnin,             ekičeː    ọrọčil      keńelil    bisiten.
-\mb etikeːn erroːčin  goːn -RI  -n(I)     ekič =eː   ọrọč  -E  -L  keńeli -L  bi -RI  -tEn     
-\ps n       pron      v                   ?          n             adj        v                
+\mb etikeːn erroːčin  goːn -RI  -n(I)     ekič =eː   ọrọč  -E  -L  keńeli -L  bi -RI  -tEn
+\ps n       pron      v                   ?          n             adj        v
 \ge old.man prox.qual say  -pst -poss.3sg very =emph Oroch -ep -pl bad    -pl be -pst -poss.3pl
 \ft An old man said like that, the Evens were VERY bad.
 \ev
@@ -181,8 +181,8 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \id Ichanga_Adukanov_muzej1_cont_014
 \ref
 \tx Erekkelkke       uŋ       ịak gerben?
-\mb erek =gEl   =kkE uŋ        ịak  gerbe -n(I)    
-\ps pron             n         pron n              
+\mb erek =gEl   =kkE uŋ        ịak  gerbe -n(I)
+\ps pron             n         pron n
 \ge prox =coord =ptl something what name  -poss.3sg
 \ft Now as for this, how is it called?
 \ev
@@ -194,8 +194,8 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \id Ichanga_Adukanov_muzej1_cont_015
 \ref
 \tx Erek... erek... povsedne(vnoe) uŋe,         ereger mešok...
-\mb erek erek povsednevnoe uŋ        -E  ereger mešok 
-\ps pron pron adj          n             adv    n     
+\mb erek erek povsednevnoe uŋ        -E  ereger mešok
+\ps pron pron adj          n             adv    n
 \ge prox prox everyday.R   something -ep always sack.R
 \ft This... this is a whatchamacallit for every day, always, a sack...
 \ev
@@ -208,20 +208,20 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \ref
 \tx innoːčildiwun
 \mb in            -WEːČ -ldIwUn
-\ps v                          
-\ge carry.on.back -gnr  -nr    
-\ft to carry on one's back 
+\ps n 
+\ge carry.on.back -gnr  -nr
+\ft to carry on one's back
 \ev
 \ru чтобы таскать за спиной
 \ELANBegin 00:06:20.315
 \ELANEnd 00:06:22.811
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_017
 \ref
 \tx eleken
-\mb elek -n(I)    
-\ps n              
+\mb elek -n(I)
+\ps n 
 \ge bag  -poss.3sg
 \ft her bag
 \ph
@@ -236,8 +236,8 @@ the brother of Tamara Evstropovna Bataxaeva and Julia Evstropovna Tylkanova.
 \ref
 \tx inasčildiwun
 \mb in            -sčI   -ldIwUn
-\ps v                           
-\ge carry.on.back -conat -nr    
+\ps n 
+\ge carry.on.back -conat -nr
 
 \ft to carry away
 \ph
@@ -247,7 +247,7 @@ it might be a bit of a pun on ASA's part
 \ru чтобы уносить
 \ELANBegin 00:06:24.670
 \ELANEnd 00:06:25.398
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_019
 \ref
@@ -263,20 +263,20 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx elek
 \mb elek
-\ps n    
-\ge bag 
+\ps n 
+\ge bag
 \ft a bag
 \ev
 \ru
 \ELANBegin 00:06:25.827
 \ELANEnd 00:06:27.920
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_021
 \ref
 \tx ....  i     tarme min     gịaŋu             gerbeŋu             ịlkaŋu              ịlkan elek, elekke.
 \mb *.... i     tarma min     gịa  -ŋ   -W        gerbe -ŋ   -W        ịlkan -ŋ   -W        ịlkan elek elek =kkE
-\ps ?     conj  conj  pron    adj                 n                    adj                  adj   n    n        
+\ps ?     conj  conj  pron    adj                 n                    adj                  adj   n    n
 \ge ***   and.R but   1sg.obl next -aln -poss.1sg name  -aln -poss.1sg true  -aln -poss.1sg true  bag  bag  =ptl
 
 \ft They do call me like that, it's my second name, my true name, "bag", Elekke.
@@ -292,8 +292,8 @@ it might be a bit of a pun on ASA's part
 \id Ichanga_Adukanov_muzej1_cont_022
 \ref
 \tx I...  uŋe,         ịakawụ..
-\mb i     uŋ        -E  ịak  -awụ 
-\ps conj  n             pron      
+\mb i     uŋ        -E  ịak  -awụ
+\ps conj  n             pron
 \ge and.R something -ep what -emph
 \ft and this, something
 \ev
@@ -305,12 +305,12 @@ it might be a bit of a pun on ASA's part
 \id Ichanga_Adukanov_muzej1_cont_023
 \ref
 \tx Erek giekiw         neːkčiweːtte,             un... araːn  uŋe...
-\mb erek gịakị   -W   neː -(k)čI -WEːČ -R(E)   *** haraːn uŋ        -E 
-\ps pron pron         v                        ?   n      n            
+\mb erek gịakị   -W   neː -(k)čI -WEːČ -R(E)   *** haraːn uŋ        -E
+\ps pron pron         v                        ?   n      n
 \ge prox various -acc put -dur   -gnr  -nonfut *** bed    something -ep
 \ft This is (for) keeping various things, a sleeping place...
 \ev
-\ru Это все хранят тут 
+\ru Это все хранят тут
 \ELANBegin 00:06:41.518
 \ELANEnd 00:06:45.457
 \ELANParticipant AEI
@@ -337,20 +337,20 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx unkaruk
 \mb ụnkan -RUk
-\ps n         
-\ge spoon -nr 
+\ps n 
+\ge spoon -nr
 \ft a bag for spoons
 \ev
 \ru
 \ELANBegin 00:06:56.026
 \ELANEnd 00:06:56.754
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_026
 \ref
 \tx erek ọrakan
-\mb erek ọraːk             -E  -n(I)    
-\ps n n                               
+\mb erek ọraːk             -E  -n(I)
+\ps n n 
 \ge prox tobacco.container -ep -poss.3sg
 \ft this is her tobacco container
 \ev
@@ -362,8 +362,8 @@ it might be a bit of a pun on ASA's part
 \id Ichanga_Adukanov_muzej1_cont_027
 \ref
 \tx ọrakan
-\mb ọraːk             -E  -n(I)    
-\ps n                              
+\mb ọraːk             -E  -n(I)
+\ps n
 \ge tobacco.container -ep -poss.3sg
 \ft her tobacco container
 \ph sounds more like arakan, and Rimma said "chto za arakan" - but I think he just repeats the "orakan" with a less rounded first vowel
@@ -377,8 +377,8 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx Erek tože  ọrakan,                      uŋduk,           tarmekiː   urtaduk
 \mb erek tože   ọraːk             -E  -n(I)     uŋ        -DUk(U) tarma =kE   ụrta -DUk(U)
-\ps pron ptl    n                               n                 conj        n           
-\ge prox also.R tobacco.container -ep -poss.3sg something -abl    but   =emph bark -abl   
+\ps pron ptl    n                               n                 conj        n
+\ge prox also.R tobacco.container -ep -poss.3sg something -abl    but   =emph bark -abl
 \ft This is also her tobacco container, but (made) from bark.
 \ev
 \ru Это тоже табакерка, но из коры.
@@ -390,21 +390,21 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx kiːwaduk
 \mb kiːwa     -DUk(U)
-\ps n                
-\ge birchbark -abl   
+\ps n
+\ge birchbark -abl
 \ft from birchbark
 \ev
 \ru из березовой коры
 \ELANBegin 00:07:03.046
 \ELANEnd 00:07:03.813
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_030
 \ref
 \tx kiːwa,   iː kiːwaduk
 \mb kiːwa     iː  kiːwa     -DUk(U)
-\ps n         interj n                
-\ge birchbark yes birchbark -abl   
+\ps n         interj n
+\ge birchbark yes birchbark -abl
 \ft birchark, yes, from birchbark
 \ev
 \ru
@@ -415,8 +415,8 @@ it might be a bit of a pun on ASA's part
 \id Ichanga_Adukanov_muzej1_cont_031
 \ref
 \tx Erek taŋńaduk,     anaŋ taŋńadukun
-\mb erek taŋńa   -DUk(U) anaŋ taŋńa   -DUk(U) -n(I)    
-\ps pron n               n    n                        
+\mb erek taŋńa   -DUk(U) anaŋ taŋńa   -DUk(U) -n(I)
+\ps pron n               n    n
 \ge prox antlers -abl    ram  antlers -abl    -poss.3sg
 \ft this is (made) of horn, mountain sheep horn
 \ph
@@ -431,20 +431,20 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx koːje
 \mb koːje
-\ps n    
+\ps n
 \ge horns
 \ft horn
 \ev
 \ru
 \ELANBegin 00:07:08.181
 \ELANEnd 00:07:09.689
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_033
 \ref
 \tx erek imočiwen
-\mb erek imočiwen      
-\ps pron n             
+\mb erek imočiwen
+\ps pron n
 \ge prox chopping.board
 \ft this is a chopping board
 \ph
@@ -458,8 +458,8 @@ it might be a bit of a pun on ASA's part
 \id Ichanga_Adukanov_muzej1_cont_034
 \ref
 \tx Erew      goːweːtte           meriken.
-\mb erek -W   goːn -WEːČ -R(E)   meriken   
-\ps pron      v                  n         
+\mb erek -W   goːn -WEːČ -R(E)   meriken
+\ps pron      v                  n
 \ge prox -acc say  -gnr  -nonfut knife.type
 \ft They call this a meriken (a type of knife).
 \ev
@@ -472,13 +472,13 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx Ŋiːkke   ešni          aːra         gerbuččoːtten                meriken    ostryj, a     bejdʒimeje   gerben          tarkke
 \mb ŋiː =kkE e   -R(E) -n(I) haː  -R       gerbu -Č   -WEːČ -R(E)   -n(I) meriken    ostryj  a.R   bejdʒi =mEjE gerbe -n(I)     tarak =kkE
-\ps pron     v               v             v                              n          n       ?     pron         n               pron      
-\ge who =ptl neg -nfut -3sg  know -neg.cvb call  -res -gnr  -nonfut -3sg  knife.type sharp.R but.R itself =ptl  name  -poss.3sg dist  =ptl
+\ps pron     v               v             v                              n          n       ?     pron         n               pron
+\ge who =ptl neg -nonfut -3sg  know -neg.cvb call  -res -gnr  -nonfut -3sg  knife.type sharp.R but.R itself =ptl  name  -poss.3sg dist  =ptl
 
 \tx uŋe,         ịak uŋe          meriken,   a     amerikanskij.
 \mb uŋ        -E  ịak  uŋ        -E  meriken    a.R   amerikanskij
-\ps n             pron n             n          ?     adj         
-\ge something -ep what something -ep knife.type but.R American.R  
+\ps n             pron n             n          ?     adj
+\ge something -ep what something -ep knife.type but.R American.R
 \ft Who doesn't know things that meriken (means) sharp, but it turns out the name is not "meriken", but American.
 \ph
 \ev
@@ -490,8 +490,8 @@ it might be a bit of a pun on ASA's part
 \id Ichanga_Adukanov_muzej1_cont_036
 \ref
 \tx Ọːkụtta    amerikancal       uŋe          iruwaːttitan                     nan    tarakam       tar  ịrkam       gerburiten           meriken.
-\mb ọːk  =(W)UttE amerikanec -E  -L  uŋ        -E  ịr   -U    -WEːČ -RI  -tEn      ńaːn tarakam       tar  hịrkan -W   gerbu -RI  -tEn      meriken   
-\ps pron          n                  n             v                               adv  adv           adv  n           v                    n         
+\mb ọːk  =(W)UttE amerikanec -E  -L  uŋ        -E  ịr   -U    -WEːČ -RI  -tEn      ńaːn tarakam       tar  hịrkan -W   gerbu -RI  -tEn      meriken
+\ps pron          n                  n             v                               adv  adv           adv  n           v                    n
 \ge when =indef   American.R -ep -pl something -ep cart -caus -gnr  -pst -poss.3pl and  in.those.days thus knife  -acc call  -pst -poss.3pl knife.type
 \ft At some time Americans brought it and then they called that knife "meriken".
 \ev
@@ -504,8 +504,8 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx A     bejdʒi nọŋan amerikanskij.
 \mb a.R   bejdʒi nọŋan amerikanskij
-\ps ?     pron   pron  adj         
-\ge but.R itself 3sg   American.R  
+\ps ?     pron   pron  adj
+\ge but.R itself 3sg   American.R
 \ft But actually it's "American".
 \ev
 \ru А сам он американский
@@ -517,8 +517,8 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx Erek gerben          nịːna
 \mb erek gerbe -n(I)     nịːna
-\ps pron n               n    
-\ge prox name  -poss.3sg dish 
+\ps pron n               n
+\ge prox name  -poss.3sg dish
 \ft This is called nina (a wooden dish).
 \ev
 \ru Это называеся нина (деревянная посуда)
@@ -530,20 +530,20 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx nịːna, nịːna
 \mb nịːna nịːna
-\ps n     n    
-\ge dish  dish 
+\ps n     n
+\ge dish  dish
 \ft dish
 \ev
 \ru
 \ELANBegin 00:07:41.578
 \ELANEnd 00:07:43.177
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_040
 \ref
 \tx
 \mb
-\ft not the Russian Nina 
+\ft not the Russian Nina
 \ev
 \ru не русская Нина
 \ELANBegin 00:07:43.177
@@ -554,14 +554,14 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx nịːna
 \mb nịːna
-\ps n    
-\ge dish 
+\ps n
+\ge dish
 \ft dish
 \ev
 \ru
 \ELANBegin 00:07:44.672
 \ELANEnd 00:07:45.556
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_042
 \ref
@@ -580,21 +580,21 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx nịːna
 \mb nịːna
-\ps n    
-\ge dish 
+\ps n
+\ge dish
 \ft dish
 \ev
 \ru
 \ELANBegin 00:07:45.972
 \ELANEnd 00:07:46.479
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_044
 \ref
 \tx nịːna, iŋe nịːna
 \mb nịːna iŋe nịːna
-\ps n     interj n    
-\ge dish  yes dish 
+\ps n     interj n
+\ge dish  yes dish
 \ft dish, yes, dish
 \ev
 \ru
@@ -606,20 +606,20 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx nịːna
 \mb nịːna
-\ps n    
-\ge dish 
+\ps n
+\ge dish
 \ft dish
 \ev
 \ru
 \ELANBegin 00:07:47.688
 \ELANEnd 00:07:48.351
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_046
 \ref
 \tx ullew     uŋe,         ere  alịk   ullew     neːkčimŋe
-\mb ulre -W   uŋ        -E  erek alịːk ulre -W   neː -(k)čI -mŋE 
-\ps n         n             pron n     n         v               
+\mb ulre -W   uŋ        -E  erek alịːk ulre -W   neː -(k)čI -mŋE
+\ps n         n             pron n     n         n 
 \ge meat -acc something -ep prox dish  meat -acc put -dur   -agnr
 \ft meat, this is a dish for putting meat
 \ph
@@ -634,15 +634,15 @@ it might be a bit of a pun on ASA's part
 \id Ichanga_Adukanov_muzej1_cont_047
 \ref
 \tx košerewda            teːleŋni
-\mb kọːsaŋa   -W   =DE  teːleŋ -LI     
-\ps n                   v               
+\mb kọːsaŋa   -W   =DE  teːleŋ -LI
+\ps n                   v 
 \ge big.knife -acc =ptl tell   -imp.2sg
 \ft tell about the knife
 \ev
 \ru про нож расскажи
 \ELANBegin 00:07:53.317
 \ELANEnd 00:07:54.825
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_048
 \ref
@@ -657,8 +657,8 @@ it might be a bit of a pun on ASA's part
 \id Ichanga_Adukanov_muzej1_cont_049
 \ref
 \tx košerewda            teːleŋni
-\mb kọːsaŋa   -W   =DE  teːleŋ -LI     
-\ps n                   v              
+\mb kọːsaŋa   -W   =DE  teːleŋ -LI
+\ps n                   v
 \ge big.knife -acc =ptl tell   -imp.2sg
 \ft tell about the big knife
 \ev
@@ -670,8 +670,8 @@ it might be a bit of a pun on ASA's part
 \id Ichanga_Adukanov_muzej1_cont_050
 \ref
 \tx košere?
-\mb kọːsaŋa  
-\ps n        
+\mb kọːsaŋa
+\ps n
 \ge big.knife
 \ft the koshere?
 \ev
@@ -683,7 +683,7 @@ it might be a bit of a pun on ASA's part
 \id Ichanga_Adukanov_muzej1_cont_051
 \ref
 \tx iː
-\mb iː 
+\mb iː
 \ps interj
 \ge yes
 \ft yes
@@ -691,13 +691,13 @@ it might be a bit of a pun on ASA's part
 \ru
 \ELANBegin 00:07:57.204
 \ELANEnd 00:07:58.192
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_052
 \ref
 \tx ča  iː  teːleŋni
-\mb čas hiː teːleŋ -LI     
-\ps ptl pron v              
+\mb čas hiː teːleŋ -LI
+\ps ptl pron v
 \ge ptl 2sg tell   -imp.2sg
 \ft better you tell
 \ev
@@ -709,15 +709,15 @@ it might be a bit of a pun on ASA's part
 \id Ichanga_Adukanov_muzej1_cont_053
 \ref
 \tx tarkke     tar  ičukeli           guːli
-\mb tarak =kkE tar  it  -WkEn -LI      goːn -LI     
-\ps pron       adv  v                  v            
+\mb tarak =kkE tar  it  -WkEn -LI      goːn -LI
+\ps pron       adv  v                  v
 \ge dist  =ptl thus see -caus -imp.2sg say  -imp.2sg
 \ft that one over there, show (it) and tell
 \ev
 \ru вон тот покажи, скажи
 \ELANBegin 00:07:59.635
 \ELANEnd 00:08:01.221
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_054
 \ref
@@ -733,8 +733,8 @@ it might be a bit of a pun on ASA's part
 \id Ichanga_Adukanov_muzej1_cont_055
 \ref
 \tx ọnnọːttiwuten                     ikiriw,    košere
-\mb họn  -WEːČ -RI       -W   -tEn      ikiri -W   kọːsaŋa  
-\ps v                                   n          n        
+\mb họn  -WEːČ -RI       -W   -tEn      ikiri -W   kọːsaŋa
+\ps v                                   n          n
 \ge chop -gnr  -impf.ptc -acc -poss.3pl bone  -acc big.knife
 
 \ft how they chop bones, the koshere
@@ -742,13 +742,13 @@ it might be a bit of a pun on ASA's part
 \ru как кости рубят
 \ELANBegin 00:08:01.663
 \ELANEnd 00:08:04.224
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_057
 \ref
 \tx košere?
-\mb kọːsaŋa  
-\ps n        
+\mb kọːsaŋa
+\ps n
 \ge big.knife
 \ft the koshere?
 \ev
@@ -768,14 +768,14 @@ it might be a bit of a pun on ASA's part
 \ru вон же нож, вот же
 \ELANBegin 00:08:04.861
 \ELANEnd 00:08:08.826
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_059
 \ref
 \tx Tawụr tawụr uŋduktitta                 morskojke    ịrkan, razdeločnyj.
 \mb tawụr tawụr uŋ        -DUk(U) =tIt =DE  morskoj =kkE hịrkan razdeločnyj
-\ps pron  pron  n                           adj          n      adj        
-\ge this  this  something -abl    =ptl =ptl sea.m.R =ptl knife  cutting.R  
+\ps pron  pron  n                           adj          n      adj
+\ge this  this  something -abl    =ptl =ptl sea.m.R =ptl knife  cutting.R
 \ft That is also (made) from something, a seaman's knife (?), a cutting knife.
 \ph
 \nt Rimma didn't know what a "morskoj nozh" would be, but a razdelochnyj nozh is a kitchen knife, a big knife with which one cuts meat or fish
@@ -789,19 +789,19 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx guːli         tiːk ọːrin             ọːrin...          ọːdin              uŋe,         ikiriw     ọnaldiwen
 \mb goːn -LI      tiek ọː   -RI  -n(I)     ọː   -RI  -n(I)     ọː     -RI  -n(I)     uŋ        -E  ikiri -W   họn  -E  -ldIwUn
-\ps v             adv  v                   v                   v                     n             n          v               
-\ge say  -imp.2sg now  make -pst -poss.3sg make -pst -poss.3sg become -pst -poss.3sg something -ep bone  -acc chop -ep -nr    
+\ps v             adv  v                   v                   v                     n             n          n 
+\ge say  -imp.2sg now  make -pst -poss.3sg make -pst -poss.3sg become -pst -poss.3sg something -ep bone  -acc chop -ep -nr
 \ft say that it has now become (an instrument) for chopping bones
-\ev  
+\ev
 \ru скажи что сейчас он стал для разрубания костей
 \ELANBegin 00:08:13.844
 \ELANEnd 00:08:17.523
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_061
 \ref
 \tx iː
-\mb iː 
+\mb iː
 \ps interj 
 \ge yes
 \ft yes
@@ -816,8 +816,8 @@ it might be a bit of a pun on ASA's part
 \ref
 \tx A     nọŋartanke,   meriken    i          uŋ       košere     umenilkite     bišin,           ikiriw     ọnaldiwen.
 \mb a.R   nọŋartan =kkE meriken    i          uŋ        kọːsaŋa   umenilki =t(E) bi -RI  -n(I)     ikiri -W   họn  -E  -ldIwUn
-\ps ?     pron          n          v          n         n         adv            v                 n          v               
-\ge but.R 3pl      =ptl knife.type be.audible something big.knife the.same =ptl  be -pst -poss.3sg bone  -acc chop -ep -nr    
+\ps ?     pron          n          v          n         n         adv            v                 n          n 
+\ge but.R 3pl      =ptl knife.type be.audible something big.knife the.same =ptl  be -pst -poss.3sg bone  -acc chop -ep -nr
 \ft But these, the meriken and koshere were the same, for chopping bones.
 \ev
 \ru А они мерикен и кошере одинаково были для разрубания костей.
@@ -828,8 +828,8 @@ it might be a bit of a pun on ASA's part
 \id Ichanga_Adukanov_muzej1_cont_063
 \ref
 \tx Tiːkke   merikem         goːweːtte           meriŋe
-\mb tiek =kkE meriken    -W   goːn -WEːČ -R(E)   meriken    -ŋE 
-\ps adv       n               v                  n               
+\mb tiek =kkE meriken    -W   goːn -WEːČ -R(E)   meriken    -ŋE
+\ps adv       n               v                  n 
 \ge now  =ptl knife.type -acc say  -gnr  -nonfut knife.type -aug
 
 \ft And now they call the meriken a meringe.
@@ -840,13 +840,13 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \ru Сейчас же мерикен называют меринге.
 \ELANBegin 00:08:27.091
 \ELANEnd 00:08:29.379
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_064
 \ref
 \tx iː, gerbuččoːtte            a     to     emer.
-\mb iː  gerbu -Č   -WEːČ -R(E)   a.R   to     emer 
-\ps interj v                        ?     adj    adj  
+\mb iː  gerbu -Č   -WEːČ -R(E)   a.R   to     emer
+\ps interj v                        ?     adj    adj
 \ge yes call  -res -gnr  -nonfut but.R that.R sharp
 \ft yes, they think it's sharp
 \ev
@@ -878,9 +878,9 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \id Ichanga_Adukanov_muzej1_cont_067
 \ref
 \tx Esni           asịŋi         awšan.
-\mb e   -R(E) -n(I) asị   -ŋI        awsa -n(I)    
-\ps v               n                n             
-\ge neg -nfut -3sg  woman -pred.poss bag  -poss.3sg
+\mb e   -R(E) -n(I) asị   -ŋI        awsa -n(I)
+\ps v               n                n
+\ge neg -nonfut -3sg  woman -pred.poss bag  -poss.3sg
 \ft Not a woman's bag.
 \ph
 \gr I checked on 28/06/2016: the construction ašiŋi awšan is correct, but one could also say aši awšan, no difference
@@ -901,7 +901,7 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \ref
 \tx Erek awšakan      tom... ah tọmkaruk,      ịadmiwut                       tọmkarukta          gerben          iŋe.
 \mb erek awsa -KEn     tom ah tọmka       -RUk ịa      -D    -mI       =(W)UttE tọmka       -RUk =DE  gerbe -n(I)     iŋe
-\ps pron n             ?   interj n                v                                n                     n               interj
+\ps pron n             ?   interj n                v                                n                     n               interj 
 \ge prox bag  -dim.int *** ah twist.sinew -nr  do.what -prog -cond.cvb =indef   twist.sinew -nr  =ptl name  -poss.3sg yes
 \ft This little bag is a tomkaruk (bag for thread), for some reason it is called a tomkaruk.
 \ev
@@ -914,19 +914,19 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \ref
 \tx tọmkačaw     neːkčildiwun
 \mb tọmkača -W   neː -(k)čI -ldIwUn
-\ps n            v                  
-\ge thread  -acc put -dur   -nr    
+\ps n            n  
+\ge thread  -acc put -dur   -nr
 \ft to keep thread
 \ev
 \ru нитки ложить
 \ELANBegin 00:08:55.106
 \ELANEnd 00:08:57.069
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_071
 \ref
 \tx iː
-\mb iː 
+\mb iː
 \ps interj 
 \ge yes
 \ft mhm
@@ -940,20 +940,20 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \ref
 \tx tọmkačaw     neːkčildiwun
 \mb tọmkača -W   neː -(k)čI -ldIwUn
-\ps n            v                 
-\ge thread  -acc put -dur   -nr    
+\ps n            n 
+\ge thread  -acc put -dur   -nr
 \ft for keeping thread
-\ev  
+\ev
 \ru
 \ELANBegin 00:08:57.849
 \ELANEnd 00:08:59.318
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_073
 \ref
 \tx tọmkačaw     neːkčir
-\mb tọmkača -W   neː -(k)čI -r  
-\ps n            n               
+\mb tọmkača -W   neː -(k)čI -r
+\ps n            n 
 \ge thread  -acc put -dur   -3pl
 \ft they keep thread
 \ev
@@ -966,8 +966,8 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \ref
 \tx Erek tože  tọmkaruk.
 \mb erek tože   tọmka       -RUk
-\ps pron ptl    n               
-\ge prox also.R twist.sinew -nr 
+\ps pron ptl    n 
+\ge prox also.R twist.sinew -nr
 \ft This is also a tomkaruk.
 \ev
 \ru Это тоже томкарук.
@@ -978,8 +978,8 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \id Ichanga_Adukanov_muzej1_cont_075
 \ref
 \tx Erekkelde        uŋe          nọːdịka uːšiːrtede
-\mb erek =gEl   =DE  uŋ        -E  nọːdịka  uːsiːr  =t(E) =DE 
-\ps pron             n             n        adj                
+\mb erek =gEl   =DE  uŋ        -E  nọːdịka  uːsiːr  =t(E) =DE
+\ps pron             n             n        adj 
 \ge prox =coord =ptl something -ep ornament ancient =ptl  =ptl
 \ft THIS pattern is also ancient
 \ev
@@ -991,8 +991,8 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \id Ichanga_Adukanov_muzej1_cont_076
 \ref
 \tx Erek ọːkarapụtta        emče.
-\mb erek ọːk  -(E)rEp =(W)UttE em   -čE    
-\ps pron pron                  v           
+\mb erek ọːk  -(E)rEp =(W)UttE em   -čE
+\ps pron pron                  v
 \ge prox when -adjr   =indef   come -pf.ptc
 \ft This has come we don't know when (lit. from some time ago).
 \ev
@@ -1005,8 +1005,8 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \ref
 \tx Erekkelde        tiːtelerep.
 \mb erek =gEl   =DE  tiːtel   -(E)rEp
-\ps pron             adv             
-\ge prox =coord =ptl long.ago -adjr  
+\ps pron             adv
+\ge prox =coord =ptl long.ago -adjr
 \ft THIS is ancient.
 \ev
 \ru Это-то старинное.
@@ -1018,8 +1018,8 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \ref
 \tx Daže  mut,   ŋiːda    ịak aːna          ịakawụ   ele          ọńattan.
 \mb daže   mut    ŋiː =DE  ịak  haː  -n(I) -E  ịak  -awụ  erek -(dU)LE ọńa   -Č   -R(E)   -n(I)
-\ps ptl    pron   pron     pron v              pron       pron         v                       
-\ge even.R 1pl.in who =ptl what know -3sg  -ep what -emph prox -loc    write -res -nonfut -3sg 
+\ps ptl    pron   pron     pron v              pron       pron         v
+\ge even.R 1pl.in who =ptl what know -3sg  -ep what -emph prox -loc    write -res -nonfut -3sg
 
 \ft Even we, nobody knows what is written here.
 \ph
@@ -1032,8 +1032,8 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \id Ichanga_Adukanov_muzej1_cont_079
 \ref
 \tx biː mergettem             erek ọńattan               uːšiːr
-\mb biː mergeːt -R(E)   -m   erek ọńa   -Č   -R(E)   -n(I) uːsiːr 
-\ps pron v                    pron v                        adj    
+\mb biː mergeːt -R(E)   -m   erek ọńa   -Č   -R(E)   -n(I) uːsiːr
+\ps pron v                    pron v                        adj
 \ge 1sg think   -nonfut -1sg prox write -res -nonfut -3sg  ancient
 
 \ft I think that what is written here is ancient
@@ -1048,8 +1048,8 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \id Ichanga_Adukanov_muzej1_cont_080
 \ref
 \tx ịak tačịnnun           ečinnun         uŋniten           a     uŋe
-\mb ịak  tarrọːčịn =nun  erroːčin  =nun  uŋ -RI  -tEn      a.R   uŋ        -E 
-\ps pron pron            pron            v                 ?     n            
+\mb ịak  tarrọːčịn =nun  erroːčin  =nun  uŋ -RI  -tEn      a.R   uŋ        -E
+\ps pron pron            pron            v                 ?     n
 \ge what dist.qual =emph prox.qual =emph do -pst -poss.3pl but.R something -ep
 
 \ft they didn't just do this any which way, right
@@ -1063,7 +1063,7 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \ref
 \tx Mutŋi            dʒuːrke    rodat                   i     čel... uŋen                  dʒuːriŋin...                    tarkke     uŋe          unte
 \mb mut    -ŋI        dʒoːr =kkE rod    -E  -t(I)        i     *** uŋ        -E  -n(I)     dʒoːr -NI   -ŋI        -n(I)     tarak =kkE uŋ        -E  honte
-\ps pron              num        n                       conj  ?   n                       num                              pron       n             adj  
+\ps pron              num        n                       conj  ?   n                       num                              pron       n             adj
 \ge 1pl.in -pred.poss two   =ptl clan.R -ep -poss.1pl.in and.R *** something -ep -poss.3sg two   -coll -pred.poss -poss.3sg dist  =ptl something -ep other
 \ft We have two clans, right, and they both have a different (pattern, drawing).
 \ph
@@ -1078,12 +1078,12 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \ref
 \tx Munŋi                ekŋiwun                       unteč     uŋutten,                   a...  i..., a     akandụlawuši                unte,
 \mb mun        -ŋI        eken   -ŋI        -WUn         honte -Č   uŋ -U    -Č   -R(E)   -n(I) a.R   i     a.R   akan   -(dU)LE -W        =sI   honte
-\ps ?                     n                              adj        v                           ?     conj  ?     n                              adj  
+\ps ?                     n                              adj        v                           ?     conj  ?     n                              adj
 \ge 1pl.ex.obl -pred.poss mother -pred.poss -poss.1pl.ex other -ins do -caus -res -nonfut -3sg  but.R and.R but.R father -loc    -poss.1sg =emph other
 
 \tx eren              unte.
 \mb erek -E  -n(I)     honte
-\ps pron               adj  
+\ps pron               adj
 \ge prox -ep -poss.3sg other
 \ft Our mother's is made differently, and my father's is different, this here is different.
 \ph
@@ -1096,8 +1096,8 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \id Ichanga_Adukanov_muzej1_cont_083
 \ref
 \tx Anawŋajlakke        tiːk tačịnnuniː              aŋankaččoːtte,           uŋ,      koncertetki         tetuttewur.
-\mb Anawgaj -(dU)LE =kkE tiek tarrọːčịn =nun  =Iː   haŋan -kEČ  -WEːČ -R(E)   uŋ        koncert   -E  -t(E)kI tet    -U    -Č   -DE       -WUr    
-\ps n                    adv  pron                  v                         n         n                     v                                   
+\mb Anawgaj -(dU)LE =kkE tiek tarrọːčịn =nun  =Iː   haŋan -kEČ  -WEːČ -R(E)   uŋ        koncert   -E  -t(E)kI tet    -U    -Č   -DE       -WUr
+\ps n                    adv  pron                  v                         n         n                     v
 \ge Anavgai -loc    =ptl now  dist.qual =emph =emph sew   -mult -gnr  -nonfut something concert.R -ep -all    put.on -caus -res -purp.cvb -prfl.pl
 
 \ft In Anavgai they now sew whatever, to wear in concerts.
@@ -1110,8 +1110,8 @@ which was interpreted as "small meri", but since the knife is big, they derived 
 \id Ichanga_Adukanov_muzej1_cont_084
 \ref
 \tx Tarak tačịn        nan    uŋnitan,          meːrur            ọːnka    goːweːt...  beritnedʒilliten.
-\mb tarak tarrọːčịn ńaːn uŋ -RI  -tEn      meːn -L  -WUr     ọːn =kkE goːn -WEːČ beriː -Č   -nE     -D    -L    -RI  -tEn     
-\ps pron  pron      adv  v                 pron              pron     v          v                                            
+\mb tarak tarrọːčịn ńaːn uŋ -RI  -tEn      meːn -L  -WUr     ọːn =kkE goːn -WEːČ beriː -Č   -nE     -D    -L    -RI  -tEn
+\ps pron  pron      adv  v                 pron              pron     v          v
 \ge dist  dist.qual and  do -pst -poss.3pl refl -pl -prfl.pl how =ptl say  -gnr  lose  -res -intent -prog -inch -pst -poss.3pl
 \ft They did this in such a way that they, as the say, started to lose themselves.
 \ph
@@ -1129,8 +1129,8 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \id Ichanga_Adukanov_muzej1_cont_085
 \ref
 \tx Erek tože  uːšiːr.
-\mb erek tože   uːsiːr 
-\ps pron ptl    adj    
+\mb erek tože   uːsiːr
+\ps pron ptl    adj
 \ge prox also.R ancient
 \ft This is also ancient.
 \ev
@@ -1143,7 +1143,7 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \ref
 \tx Tarma ọːne,   erek erek aγdị edukte,            erek ewgidedunkke.
 \mb tarma ọːn -E  erek erek hagdị erek -DUk(U) =t(E) erek erek -gIdE -DU  -n(I)     =kkE
-\ps conj  pron    pron pron adj   pron               pron pron                          
+\ps conj  pron    pron pron adj   pron               pron pron
 \ge but   how -ep prox prox old   prox -abl    =ptl  prox prox -part -dat -poss.3sg =ptl
 
 \ft But like this, this is older than this, this is younger (closer in time).
@@ -1158,34 +1158,34 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \id Ichanga_Adukanov_muzej1_cont_087
 \ref
 \tx kọčaj
-\mb kọčaj      
-\ps v          
+\mb kọčaj
+\ps v
 \ge scrape.hide
 \ft a hide scraper
 \ev
 \ru кочай
 \ELANBegin 00:10:09.557
 \ELANEnd 00:10:11.936
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_088
 \ref
 \tx tịbaːk
 \mb tịbaːk
-\ps n     
-\ge adze  
+\ps n
+\ge adze
 \ft an adze
 \ev
 \ru молотить что-то
 \ELANBegin 00:10:11.936
 \ELANEnd 00:10:13.301
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_089
 \ref
 \tx ...ọːjaw   ọńarit?
-\mb họːja -W   ọńa   -RI  -t(I)       
-\ps quant      v                      
+\mb họːja -W   ọńa   -RI  -t(I)
+\ps quant      v
 \ge many  -acc write -pst -poss.1pl.in
 \ft Did we write (record) a lot?
 \ev
@@ -1202,13 +1202,13 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \ru
 \ELANBegin 00:10:15.485
 \ELANEnd 00:10:23.519
-\ELANParticipant BP 
+\ELANParticipant BP
 
 \id Ichanga_Adukanov_muzej1_cont_091
 \ref
 \tx aje
-\mb aj   -E 
-\ps v       
+\mb aj   -E
+\ps v
 \ge help -ep
 \ft good
 \ph
@@ -1217,13 +1217,13 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \ru
 \ELANBegin 00:10:23.519
 \ELANEnd 00:10:24.312
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_092
 \ref
 \tx aje
-\mb aj   -E 
-\ps adj     
+\mb aj   -E
+\ps adj
 \ge good -ep
 \ft good
 \ev
@@ -1248,8 +1248,8 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \ref
 \tx Erekkelda,       erek čajčịbalŋi,                       tarma...
 \mb erek =gEl   =DE  erek čajčaba                 -L  -ŋI        tarma
-\ps pron             pron n                                      conj 
-\ge prox =coord =ptl prox reindeer.herding.Koryak -pl -pred.poss but  
+\ps pron             pron n                                      conj
+\ge prox =coord =ptl prox reindeer.herding.Koryak -pl -pred.poss but
 \ft As for this, this is Koryak, but...
 \ev
 \ru Это-то, это корякское, но...
@@ -1274,14 +1274,14 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \id Ichanga_Adukanov_muzej1_cont_096
 \ref
 \tx "eliemeγeki" iŋe, čajčịbaŋị
-\mb eliemeγeki iŋe čajčaba                 -ŋI       
-\ps ?          interj n                                 
+\mb eliemeγeki iŋe čajčaba                 -ŋI
+\ps ?          interj n
 \ge ***        yes reindeer.herding.Koryak -pred.poss
 
 \ft "eliemeγeki", yes, Koryak
 \ph
 \nt the first word is probably Koryak, ASA probably knew Koryak; in any case, Rimma didn't know the word
-\ev  
+\ev
 \ru
 \ELANBegin 00:10:40.562
 \ELANEnd 00:10:44.124
@@ -1290,8 +1290,8 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \id Ichanga_Adukanov_muzej1_cont_097
 \ref
 \tx Erek čajčịba             ọjin,               erekesi       ọrọčil      ọjitan.
-\mb erek čajčaba                 ọj      -E  -n(I)     erek -E  =sI   ọrọč  -E  -L  ọj      -E  -tEn     
-\ps pron n                       n                     pron           n             n                    
+\mb erek čajčaba                 ọj      -E  -n(I)     erek -E  =sI   ọrọč  -E  -L  ọj      -E  -tEn
+\ps pron n                       n                     pron           n             n
 \ge prox reindeer.herding.Koryak clothes -ep -poss.3sg prox -ep =emph Oroch -ep -pl clothes -ep -poss.3pl
 \ft These are Koryak clothes, and these are clothes of Evens.
 \ev
@@ -1303,21 +1303,21 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \id Ichanga_Adukanov_muzej1_cont_098
 \ref
 \tx nendeke
-\mb nendekeː      
-\ps ?             
+\mb nendekeː
+\ps ?
 \ge deerskin.shirt
 \ft a deerskin shirt
 \ev
 \ru кухлянка
 \ELANBegin 00:10:49.280
 \ELANEnd 00:10:50.040
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_099
 \ref
 \tx ọrọčil      XX  tetuččoːtte
-\mb ọrọč  -E  -L  *XX tet    -U    -Č   -WEːČ -R(E)  
-\ps n             ?   v                              
+\mb ọrọč  -E  -L  *XX tet    -U    -Č   -WEːČ -R(E)
+\ps n             ?   v
 \ge Oroch -ep -pl *** put.on -caus -res -gnr  -nonfut
 \ft Evens used to wear XXX
 \ph what he says in the middle simply cannot be made out since ASA talks at the same time
@@ -1330,14 +1330,14 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \id Ichanga_Adukanov_muzej1_cont_100
 \ref
 \tx ọrọčịlkke       ač uŋnew               varatniketen...
-\mb ọrọč  -E  -L  =kkE ač  uŋ        -LE  =w    vorotnik -E  -tEn     
-\ps n                  ptl n                    n                     
+\mb ọrọč  -E  -L  =kkE ač  uŋ        -LE  =w    vorotnik -E  -tEn
+\ps n                  ptl n                    n
 \ge Oroch -ep -pl =ptl neg something -prv =emph collar.R -ep -poss.3pl
 \ft Evens (have shirts) without a whatchamacallit, a collar
 \ph
 \gr should be: ač varatnikla
 \ev
-\ru эвены же без этого, воротника (букв, у эвенов нету их воротника) 
+\ru эвены же без этого, воротника (букв, у эвенов нету их воротника)
 \ELANBegin 00:10:50.884
 \ELANEnd 00:10:53.536
 \ELANParticipant AEI
@@ -1346,21 +1346,21 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \ref
 \tx maktan
 \mb maktan
-\ps n     
+\ps n
 \ge collar
 \ft collar
 \ev
 \ru воротник
 \ELANBegin 00:10:53.536
 \ELANEnd 00:10:54.498
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_102
 \ref
 \tx iː, ač uŋne,         ọːnka    goːw...
 \mb iː  ač  uŋ        -LE  ọːn =kkE goːn -WEːČ
-\ps interj ptl n              pron     v         
-\ge yes neg something -prv how =ptl say  -gnr 
+\ps interj ptl n              pron     v
+\ge yes neg something -prv how =ptl say  -gnr
 \ft yes, without something, how do they say
 \ev
 \ru без этого, как сказать
@@ -1371,8 +1371,8 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \id Ichanga_Adukanov_muzej1_cont_103
 \ref
 \tx oːŋelele
-\mb oːŋele -LE 
-\ps n          
+\mb oːŋele -LE
+\ps n
 \ge hood   -prv
 
 \ft a hood
@@ -1380,7 +1380,7 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \ru
 \ELANBegin 00:10:57.358
 \ELANEnd 00:10:58.125
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_104
 \ref
@@ -1395,8 +1395,8 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \id Ichanga_Adukanov_muzej1_cont_105
 \ref
 \tx oːŋelele
-\mb oːŋele -LE 
-\ps n          
+\mb oːŋele -LE
+\ps n
 \ge hood   -prv
 
 \ft hood
@@ -1405,12 +1405,12 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \ru
 \ELANBegin 00:10:58.489
 \ELANEnd 00:10:59.308
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_106
 \ref
 \tx iː
-\mb iː 
+\mb iː
 \ps interj
 \ge yes
 \ft mhm
@@ -1424,8 +1424,8 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \ref
 \tx Erek gid,  tože  uːšiːreː,  er   gid,  XXX
 \mb erek gid   tože   uːsiːr  =eː   erek gid   *XXX
-\ps pron n     ptl    adj           pron n     ?   
-\ge prox lance also.R ancient =emph prox lance *** 
+\ps pron n     ptl    adj           pron n     ?
+\ge prox lance also.R ancient =emph prox lance ***
 \ft This is a lance, it's also ancient, this is a lance, (see).
 \ph he says a word at the very end, too softly to make out, though it could well be "kojeːnni" - I say "mhm" after that, so he was probably pointing to something specific
 \ev
@@ -1444,8 +1444,8 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \id Ichanga_Adukanov_muzej1_cont_109
 \ref
 \tx erek uːsiːr
-\mb erek uːsiːr 
-\ps pron adj    
+\mb erek uːsiːr
+\ps pron adj
 \ge prox ancient
 \ft this is ancient
 \ev
@@ -1457,8 +1457,8 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \id Ichanga_Adukanov_muzej1_cont_110
 \ref
 \tx Ele          muzejdule        bisni           uŋe,         gidal.
-\mb erek -(dU)LE muzej    -(dU)LE bi -R(E)   -n(I) uŋ        -E  gid   -E  -L 
-\ps pron         n                v                n             n            
+\mb erek -(dU)LE muzej    -(dU)LE bi -R(E)   -n(I) uŋ        -E  gid   -E  -L
+\ps pron         n                v                n             n
 \ge prox -loc    museum.R -loc    be -nonfut -3sg  something -ep lance -ep -pl
 \ft Here in the museum there are these, lances.
 \ev
@@ -1470,8 +1470,8 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \id Ichanga_Adukanov_muzej1_cont_111
 \ref
 \tx Namernojal          kazakalkke            ešten      uŋelten                bihe,       gidaltan.
-\mb nomernyj     -E  -L  kazak     -E  -L  =kkE e   -R(E)   uŋ        -L  -tEn      bi -R       gid   -E  -L  -tEn     
-\ps adj                  n                      v           n                       v           n                      
+\mb nomernyj     -E  -L  kazak     -E  -L  =kkE e   -R(E)   uŋ        -L  -tEn      bi -R       gid   -E  -L  -tEn
+\ps adj                  n                      v           n                       v           n
 \ge numbered.m.R -ep -pl cossack.R -ep -pl =ptl neg -nonfut something -pl -poss.3pl be -neg.cvb lance -ep -pl -poss.3pl
 
 \ft Numbered, they were probably cossacks', the lances.
@@ -1486,21 +1486,21 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \id Ichanga_Adukanov_muzej1_cont_112
 \ref
 \tx kọča
-\mb kọč      -E 
-\ps adv         
+\mb kọč      -E
+\ps adv
 \ge probably -ep
 \ft probably
 \ev
 \ru
 \ELANBegin 00:11:23.449
 \ELANEnd 00:11:23.930
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_113
 \ref
 \tx nomerelken         uŋdulen                 ọːnka    pukterewenni
-\mb nomer    -E  -lkEn uŋ        -(dU)LE -n(I)     ọːn =kkE pektereːwun -n(I)    
-\ps n                  n                           pron     n                    
+\mb nomer    -E  -lkEn uŋ        -(dU)LE -n(I)     ọːn =kkE pektereːwun -n(I)
+\ps n                  n                           pron     n
 \ge number.R -ep -prop something -loc    -poss.3sg how =ptl gun         -poss.3sg
 \ft with a number on it, like a gun (lit. his gun)
 \ph
@@ -1515,8 +1515,8 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \id Ichanga_Adukanov_muzej1_cont_114
 \ref
 \tx Kọč   ọːkụttawut          kazakalbe             gidačidmikke                   ečil        gade.
-\mb kọč      ọːk  =(W)UttE =(W)UttE kazak     -E  -L  -W   gid   -čI -D    -mI       =kkE e   -RI  -L  ga   -R      
-\ps adv      pron                   n                      v                              v            v            
+\mb kọč      ọːk  =(W)UttE =(W)UttE kazak     -E  -L  -W   gid   -čI -D    -mI       =kkE e   -RI  -L  ga   -R
+\ps adv      pron                   n                      v                              v            v
 \ge probably when =indef   =indef   cossack.R -ep -pl -acc lance -vr -prog -cond.cvb =ptl neg -pst -pl take -neg.cvb
 \ft Probably at some time, when they stabbed cossacks, they took (them).
 \ph
@@ -1530,8 +1530,8 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \id Ichanga_Adukanov_muzej1_cont_115
 \ref
 \tx uːšiːr
-\mb uːsiːr 
-\ps adj    
+\mb uːsiːr
+\ps adj
 \ge ancient
 \ft ancient
 \ev
@@ -1544,14 +1544,14 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \ref
 \tx dʒọrmịkačattan
 \mb dʒọrọm -kEČ  -Č   -R(E)   -n(I)
-\ps v                              
-\ge steal  -mult -res -nonfut -3sg 
+\ps v
+\ge steal  -mult -res -nonfut -3sg
 \ft stolen
 \ev
 \ru ворованный
 \ELANBegin 00:11:32.952
 \ELANEnd 00:11:33.875
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_117
 \ref
@@ -1569,8 +1569,8 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \ref
 \tx dʒọrmịkačattan
 \mb dʒọrọm -kEČ  -Č   -R(E)   -n(I)
-\ps v                              
-\ge steal  -mult -res -nonfut -3sg 
+\ps v
+\ge steal  -mult -res -nonfut -3sg
 \ft stolen
 \ph
 \gr the multiplicative expresses that many lances were stolen
@@ -1578,13 +1578,13 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \ru воровали / ворованные
 \ELANBegin 00:11:34.239
 \ELANEnd 00:11:36.748
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_119
 \ref
 \tx patamušto gidal        bisiten           kazakalŋi
-\mb potomučto gid   -E  -L  bi -RI  -tEn      kazak     -E  -L  -ŋI       
-\ps conj      n             v                 n                           
+\mb potomučto gid   -E  -L  bi -RI  -tEn      kazak     -E  -L  -ŋI
+\ps conj      n             v                 n
 \ge because.R lance -ep -pl be -pst -poss.3pl cossack.R -ep -pl -pred.poss
 \ft because cossacks had lances when, sometime in the 18th century, right
 \ph says "i" at the beginning, but that doesn't have any meaning here
@@ -1604,8 +1604,8 @@ difference, and then even with beriʤilliten, when she thought about it, she sai
 \id Ichanga_Adukanov_muzej1_cont_121
 \ref
 \tx Erekkele        koŋkolbane
-\mb erek =gEl   -E  koŋko  -L  -W   -n(I)     -E 
-\ps pron            n                            
+\mb erek =gEl   -E  koŋko  -L  -W   -n(I)     -E
+\ps pron            n
 \ge prox =coord -ep kongko -pl -acc -poss.3sg -ep
 
 \ft this here is a kongko (a contraption for transporting yurt poles)
@@ -1623,8 +1623,8 @@ know the word she finds it too hard to say anything
 \id Ichanga_Adukanov_muzej1_cont_122
 \ref
 \tx erek koŋko
-\mb erek koŋko 
-\ps pron n     
+\mb erek koŋko
+\ps pron n
 \ge prox kongko
 \ft this is a kongko (a contraption for transporting yurt poles)
 \ev
@@ -1636,8 +1636,8 @@ know the word she finds it too hard to say anything
 \id Ichanga_Adukanov_muzej1_cont_123
 \ref
 \tx Tarma uŋe          ọrọčịldụla      bi   ečiwu             ọːkta    erelbe       itte,        ittiwutken                  erroːčim.
-\mb tarma uŋ        -E  ọrọč  -E  -L  -(dU)LE biː e   -RI  -W        ọːk  =DE  erek -L  -W   it  -R       it  -RI  -W        =t(E)kEn erroːčin  -W  
-\ps conj  n             n                     pron v                  pron      pron          v            v                           pron          
+\mb tarma uŋ        -E  ọrọč  -E  -L  -(dU)LE biː e   -RI  -W        ọːk  =DE  erek -L  -W   it  -R       it  -RI  -W        =t(E)kEn erroːčin  -W
+\ps conj  n             n                     pron v                  pron      pron          v            v                           pron
 \ge but   something -ep Oroch -ep -pl -loc    1sg neg -pst -poss.1sg when =ptl prox -pl -acc see -neg.cvb see -pst -poss.1sg =restr   prox.qual -acc
 \ft But I have never seen these among Evens (chez Evens), I have only seen such ones.
 \ev
@@ -1649,8 +1649,8 @@ know the word she finds it too hard to say anything
 \id Ichanga_Adukanov_muzej1_cont_124
 \ref
 \tx Nan    tare
-\mb ńaːn tarak -E 
-\ps adv  pron     
+\mb ńaːn tarak -E
+\ps adv  pron
 \ge and  dist  -ep
 \ft well that's it
 \ev
@@ -1663,8 +1663,8 @@ know the word she finds it too hard to say anything
 \ref
 \tx etiken   ŋaːlloːčiddʒoːtten
 \mb etikeːn ŋaːl -WEːČ -D    -WEːČ -R(E)   -n(I)
-\ps n       v                                   
-\ge old.man hand -gnr  -prog -gnr  -nonfut -3sg 
+\ps n       v
+\ge old.man hand -gnr  -prog -gnr  -nonfut -3sg
 \ft the old man is carrying (something) in his hand
 \ev
 \ru старик таскает
@@ -1675,8 +1675,8 @@ know the word she finds it too hard to say anything
 \id Ichanga_Adukanov_muzej1_cont_126
 \ref
 \tx Ịadụ   koŋkor    uŋe,         eden                    ịakta    gịrkar         ọjlan.
-\mb ịak  -DU  koŋko  -L  uŋ        -E  e   -DE       -n(I)     ịak  =DE  gịrka -R       ọj      -(dU)LE -n(I)    
-\ps pron      n          n             v                       pron      v              rel.n                    
+\mb ịak  -DU  koŋko  -L  uŋ        -E  e   -DE       -n(I)     ịak  =DE  gịrka -R       ọj      -(dU)LE -n(I)
+\ps pron      n          n             v                       pron      v              rel.n
 \ge what -dat kongko -pl something -ep neg -purp.cvb -poss.3sg what =ptl walk  -neg.cvb surface -loc    -poss.3sg
 \ft What is a kongko for, it's so that nobody walks over (something).
 \ph
@@ -1692,14 +1692,14 @@ tongue and that it should be koŋkol (after all, AEI is slightly deaf and doesn'
 \id Ichanga_Adukanov_muzej1_cont_127
 \ref
 \tx Mundule            goːweːtte,          uŋe...       ọrọmŋaldụla                  ile...        uŋ... taŋniwu,
-\mb mun        -(dU)LE goːn -WEːČ -R(E)   uŋ        -E  ọrọn              -mŋE  -L  -(dU)LE irek  -(dU)LE uŋ taŋ  -RI  -W       
-\ps n                  v                  n             n                                   pron          v  v                  
+\mb mun        -(dU)LE goːn -WEːČ -R(E)   uŋ        -E  ọrọn              -mŋE  -L  -(dU)LE irek  -(dU)LE uŋ taŋ  -RI  -W
+\ps n                  v                  n             n                                   pron          v  v 
 \ge 1pl.ex.obl -loc    say  -gnr  -nonfut something -ep domestic.reindeer -agnr -pl -loc    which -loc    do read -pst -poss.1sg
 
 \tx ulgimidditen                     uːnan     ịamị ečiš        ọllaw     bejčiš,       dʒebboːt... bejčiweːtte.
-\mb ulgim -i    -D    -RI  -tEn      huː =nEn  ịamị e   -RI  -s   ọlra -W   bejči -R       dʒeb -WEːČ bejči -WEːČ -R      
-\ps v                                pron      pron n             n         v              v          v                    
-\ge ask   -ipf? -prog -pst -poss.3pl 2pl =emph why  neg -pst -2pl fish -acc hunt  -neg.cvb eat  -gnr  hunt  -gnr  -neg.cvb
+\mb ulgim -i    -D    -RI  -tEn      huː =nEn  ịamị e   -RI  -s   ọlra -W   bejči -R       dʒeb -WEːČ bejči -WEːČ -R
+\ps v                                pron      pron n             n         v              v          v 
+\ge ask   -ipf -prog -pst -poss.3pl 2pl =emph why  neg -pst -2pl fish -acc hunt  -neg.cvb eat  -gnr  hunt  -gnr  -neg.cvb
 \ft Chez nous they say, I read, they asked reindeer herders why don't you catch, eat..., catch fish.
 \ev
 \ru У нас говорят что у оленеводов где, я читал, спрашивали, а вы почему рыбу не ловили, ели... ловили.
@@ -1710,8 +1710,8 @@ tongue and that it should be koŋkol (after all, AEI is slightly deaf and doesn'
 \id Ichanga_Adukanov_muzej1_cont_131
 \ref
 \tx Nan    ọrọčijakar      guːn ịakawụ   ew  buː... uŋel         bisu?              ač ịalada        bisu?
-\mb ńaːn ọrọč  -jEkEn -L  goːn ịak  -awụ  ew  buː    uŋ        -L  bi -R(E)   -(R)U   ač  ịak  -LE  =DE  bi -R(E)   -(R)U  
-\ps adv  n                v    pron       ?   pron   n             v                  ptl pron           v                 
+\mb ńaːn ọrọč  -jEkEn -L  goːn ịak  -awụ  ew  buː    uŋ        -L  bi -R(E)   -(R)U   ač  ịak  -LE  =DE  bi -R(E)   -(R)U
+\ps adv  n                v    pron       ?   pron   n             v                  ptl pron           v
 \ge and  Oroch -dim   -pl say  what -emph ptl 1pl.ex something -pl be -nonfut -1pl.ex neg what -prv =ptl be -nonfut -1pl.ex
 \ft And these (silly little) Evens say "what, are we those whatchamacallits? do we have nothing?".
 \ph
@@ -1725,8 +1725,8 @@ tongue and that it should be koŋkol (after all, AEI is slightly deaf and doesn'
 \id Ichanga_Adukanov_muzej1_cont_132
 \ref
 \tx Guːn uŋe          ŋiːkke   ọːnka    nišielkke           ọːnka    goːweːtte,          ač ịalada
-\mb goːn uŋ        -E  ŋiː =kkE ọːn =kkE niščie      -L  =kkE ọːn =kkE goːn -WEːČ -R(E)   ač  ịak  -LE  =DE 
-\ps v    n             pron     pron     adj                  pron     v                  ptl pron          
+\mb goːn uŋ        -E  ŋiː =kkE ọːn =kkE niščie      -L  =kkE ọːn =kkE goːn -WEːČ -R(E)   ač  ịak  -LE  =DE
+\ps v    n             pron     pron     adj                  pron     v                  ptl pron
 \ge say  something -ep who =ptl how =ptl beggar.pl.R -pl =ptl how =ptl say  -gnr  -nonfut neg what -prv =ptl
 \ft they say who, how is it, beggars, how does one say, those who have nothing
 \ph
@@ -1740,8 +1740,8 @@ tongue and that it should be koŋkol (after all, AEI is slightly deaf and doesn'
 \id Ichanga_Adukanov_muzej1_cont_134
 \ref
 \tx dụdịka
-\mb dụdịka   
-\ps n        
+\mb dụdịka
+\ps n
 \ge fur.shirt
 \ft a fur shirt
 \ph
@@ -1750,7 +1750,7 @@ tongue and that it should be koŋkol (after all, AEI is slightly deaf and doesn'
 \ru
 \ELANBegin 00:12:49.704
 \ELANEnd 00:12:51.264
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_135
 \ref
@@ -1769,8 +1769,8 @@ tongue and that it should be koŋkol (after all, AEI is slightly deaf and doesn'
 \id Ichanga_Adukanov_muzej1_cont_136
 \ref
 \tx ọlačịk
-\mb ọlačịk          
-\ps n               
+\mb ọlačịk
+\ps n
 \ge summer.fur.boots
 \ft summer boots
 \ev
@@ -1782,8 +1782,8 @@ tongue and that it should be koŋkol (after all, AEI is slightly deaf and doesn'
 \id Ichanga_Adukanov_muzej1_cont_136b
 \ref
 \tx ọlačịkan
-\mb ọlačịk           -E  -n(I)    
-\ps n                             
+\mb ọlačịk           -E  -n(I)
+\ps n
 \ge summer.fur.boots -ep -poss.3sg
 
 \ft summer boots
@@ -1803,7 +1803,7 @@ tongue and that it should be koŋkol (after all, AEI is slightly deaf and doesn'
 \ru
 \ELANBegin 00:13:01.846
 \ELANEnd 00:13:02.938
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_138
 \ref
@@ -1818,21 +1818,21 @@ tongue and that it should be koŋkol (after all, AEI is slightly deaf and doesn'
 \id Ichanga_Adukanov_muzej1_cont_139
 \ref
 \tx ọlačịk
-\mb ọlačịk          
-\ps n               
+\mb ọlačịk
+\ps n
 \ge summer.fur.boots
 \ft summer boots
 \ev
 \ru
 \ELANBegin 00:13:03.276
 \ELANEnd 00:13:03.757
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_140
 \ref
 \tx iː, erek ọlačịk
-\mb iː  erek ọlačịk          
-\ps interj pron n               
+\mb iː  erek ọlačịk
+\ps interj pron n
 \ge yes prox summer.fur.boots
 \ft yes, these are summer boots
 \ev
@@ -1844,8 +1844,8 @@ tongue and that it should be koŋkol (after all, AEI is slightly deaf and doesn'
 \id Ichanga_Adukanov_muzej1_cont_141
 \ref
 \tx dụdịka
-\mb dụdịka   
-\ps n        
+\mb dụdịka
+\ps n
 \ge fur.shirt
 \ft a fur shirt
 \ev
@@ -1857,13 +1857,13 @@ tongue and that it should be koŋkol (after all, AEI is slightly deaf and doesn'
 \id Ichanga_Adukanov_muzej1_cont_142
 \ref
 \tx uŋe,         erewde         erkew,     uŋe          Uljanka        goːweːtten,              ọrọčịl     irildu
-\mb uŋ        -E  erek -W   =DE  erke  -W   uŋ        -E  Uljanka        goːn -WEːČ -R(E)   -n(I) ọrọč  -E  -L  ireli  -DU 
-\ps n             pron           n          n             ?              v                        n             n          
+\mb uŋ        -E  erek -W   =DE  erke  -W   uŋ        -E  Uljanka        goːn -WEːČ -R(E)   -n(I) ọrọč  -E  -L  ireli  -DU
+\ps n             pron           n          n             ?              v                        n             n
 \ge something -ep prox -acc =ptl pants -acc something -ep Uljana.hypocor say  -gnr  -nonfut -3sg  Oroch -ep -pl summer -dat
 
 \tx tetutčoːtte,                    iril... i          tugenidu    tože  tetutčoːtte.
-\mb tet    -U    -Č   -WEːČ -R(E)   ireli  i          tugeni -DU  tože   tet    -U    -Č   -WEːČ -R(E)  
-\ps v                               n      v          n           ptl    v                              
+\mb tet    -U    -Č   -WEːČ -R(E)   ireli  i          tugeni -DU  tože   tet    -U    -Č   -WEːČ -R(E)
+\ps v                               n      v          n           ptl    v
 \ge put.on -caus -res -gnr  -nonfut summer be.audible winter -dat also.R put.on -caus -res -gnr  -nonfut
 \ft About these pants Uljana says that the Evens used to wear them in summer, and in winter they also used to wear them.
 \ph
@@ -1876,21 +1876,21 @@ tongue and that it should be koŋkol (after all, AEI is slightly deaf and doesn'
 \id Ichanga_Adukanov_muzej1_cont_144
 \ref
 \tx erek uŋ       ọːnkana
-\mb erek uŋ        ọːn =kEnE 
-\ps pron n         pron      
+\mb erek uŋ        ọːn =kEnE
+\ps pron n         pron
 \ge prox something how =contr
 \ft this is ... how is it again...
 \ev
 \ru это как же
 \ELANBegin 00:13:22.126
 \ELANEnd 00:13:23.946
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_145
 \ref
 \tx iγenči
-\mb iγenči       
-\ps n            
+\mb iγenči
+\ps n
 \ge type.of.pants
 \ft iγenchi (warm fur pants)
 \ph
@@ -1906,9 +1906,9 @@ torbaza and thick iγenči over them, then it would all be too much
 \id Ichanga_Adukanov_muzej1_cont_146
 \ref
 \tx esni,          teγen!
-\mb e   -R(E) -n(I) teγen        
-\ps v               n            
-\ge neg -nfut -3sg  type.of.pants
+\mb e   -R(E) -n(I) teγen
+\ps v               n
+\ge neg -nonfut -3sg  type.of.pants
 \ft no, it's a teγen (a different type of pants)
 \ph
 \nt Rimma didn't know what teγen is, but since she knew that iγenči were warm pants, and since they're debating whether what we're looking at is iγenči or teγen, teγen also have to
@@ -1917,13 +1917,13 @@ be some type of pants
 \ru
 \ELANBegin 00:13:25.142
 \ELANEnd 00:13:27.222
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_147
 \ref
 \tx teγen?
-\mb teγen        
-\ps n            
+\mb teγen
+\ps n
 \ge type.of.pants
 \ft teγen?
 \ev
@@ -1943,19 +1943,19 @@ be some type of pants
 \ru
 \ELANBegin 00:13:28.015
 \ELANEnd 00:13:28.860
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_149
 \ref
 \tx nọŋ... mutke       esep                tetuččoːtte                     ọːkta    ịawčịnamitkan
 \mb nọŋan mut    =kkE e   -R(E)   -p      tet    -U    -Č   -WEːČ -R       ọːk  =DE  ịawčị                -nE     -mI       =t(E)kEn
-\ps pron  pron        v                   v                                pron      v                                              
-\ge 3sg   1pl.in =ptl neg -nonfut -1pl.in put.on -caus -res -gnr  -neg.cvb when =ptl herd.reindeer(night) -intent -cond.cvb =restr  
+\ps pron  pron        v                   v                                pron      v
+\ge 3sg   1pl.in =ptl neg -nonfut -1pl.in put.on -caus -res -gnr  -neg.cvb when =ptl herd.reindeer(night) -intent -cond.cvb =restr
 
 \tx tetuččoːttep                           ńan
 \mb tet    -U    -Č   -WEːČ -R(E)   -p      ńaːn
-\ps v                                       adv 
-\ge put.on -caus -res -gnr  -nonfut -1pl.in and 
+\ps v                                       adv
+\ge put.on -caus -res -gnr  -nonfut -1pl.in and
 \ft we don't ever wear these, right, only when we go to herd reindeer at night do we wear them
 \ph
 \gr I tried to ask during the transcription/translation session why here the combination of =k(k)E + e- gives the meaning of negation, "my zhe ne nosim", whereas in other cases, such
@@ -1970,8 +1970,8 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \id Ichanga_Adukanov_muzej1_cont_150
 \ref
 \tx bi   iγenčiwu         tetuttiwu
-\mb biː iγenči        -W   tet    -U    -Č   -RI  -W       
-\ps pron n                  v                               
+\mb biː iγenči        -W   tet    -U    -Č   -RI  -W
+\ps pron n                  v
 \ge 1sg type.of.pants -acc put.on -caus -res -pst -poss.1sg
 \ft I wore iγenchi
 \ph
@@ -1984,22 +1984,22 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \id Ichanga_Adukanov_muzej1_cont_151
 \ref
 \tx bi   iγenčiwtede                 tetuttiwu
-\mb biː iγenči        -W   =t(E) =DE  tet    -U    -Č   -RI  -W       
-\ps pron n                             v                               
+\mb biː iγenči        -W   =t(E) =DE  tet    -U    -Č   -RI  -W
+\ps pron n                             v
 \ge 1sg type.of.pants -acc =ptl  =ptl put.on -caus -res -pst -poss.1sg
 \ft I also wore iγenchi
 \ev
 \ru я тоже носил
 \ELANBegin 00:13:35.971
 \ELANEnd 00:13:38.571
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_152
 \ref
 \tx erek uŋne
 \mb erek uŋ        -(dU)LE
-\ps pron n                
-\ge prox something -loc   
+\ps pron n
+\ge prox something -loc
 \ft this is something...
 \ev
 \ru
@@ -2010,8 +2010,8 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \id Ichanga_Adukanov_muzej1_cont_152b
 \ref
 \tx ọrọčịl     tergešutken               tetuččoːtte
-\mb ọrọč  -E  -L  terges       -W   =t(E)kEn tet    -U    -Č   -WEːČ -R(E)  
-\ps n             n                          v                              
+\mb ọrọč  -E  -L  terges       -W   =t(E)kEn tet    -U    -Č   -WEːČ -R(E)
+\ps n             n                          v
 \ge Oroch -ep -pl soft.leather -acc =restr   put.on -caus -res -gnr  -nonfut
 \ft Evens only wear leather...
 \ru эвены только замшевое носит
@@ -2022,8 +2022,8 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \id Ichanga_Adukanov_muzej1_cont_153
 \ref
 \tx erek urumkušukan   aŋančal          bišeketenkana
-\mb erek urumkun -sUkEn haŋan -čE     -L  bi -REk      -tEn      =kEnE 
-\ps pron adj            v                 v                            
+\mb erek urumkun -sUkEn haŋan -čE     -L  bi -REk      -tEn      =kEnE
+\ps pron adj            v                 v
 \ge prox short   -attn  sew   -pf.ptc -pl be -cond.cvb -poss.3pl =contr
 \ft they should have sewn this a bit shorter
 \ph
@@ -2032,7 +2032,7 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ru вот это покороче бы надо было шить
 \ELANBegin 00:13:43.251
 \ELANEnd 00:13:46.111
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_154
 \ref
@@ -2055,14 +2055,14 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ru по-короче сшито было бы/шили бы
 \ELANBegin 00:13:46.527
 \ELANEnd 00:13:49.413
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_156
 \ref
 \tx erek ŋọnam
 \mb erek ŋọnam
-\ps pron adj  
-\ge prox long 
+\ps pron adj
+\ge prox long
 \ft this is long
 \ev
 \ru это длинный
@@ -2074,21 +2074,21 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ref
 \tx ŋọnam
 \mb ŋọnam
-\ps adj  
-\ge long 
+\ps adj
+\ge long
 \ft long
 \ev
 \ru
 \ELANBegin 00:13:50.362
 \ELANEnd 00:13:51.181
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_158
 \ref
 \tx ekitte         tette           nan    ečin      ọːd         urumkun
 \mb e   -kIč =DE  tet    -R       ńaːn erroːčin  ọː     -R(E)   urumkun
-\ps v             v               adv  pron      v              adj    
-\ge neg -nr  =ptl put.on -neg.cvb and  prox.qual become -nonfut short  
+\ps n             v               adv  pron      v              adj 
+\ge neg -nr  =ptl put.on -neg.cvb and  prox.qual become -nonfut short
 
 \ft impossible to wear, it would become short like this
 \ph
@@ -2103,8 +2103,8 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ref
 \tx ịakawụč   aŋanaddin,                 urumkun
 \mb ịak  =(W)UttE haŋan -D    -RI  -n(I)     urumkun
-\ps n          v                          adj     
-\ge what =indef   sew   -prog -pst -poss.3sg short  
+\ps n          v                          adj 
+\ge what =indef   sew   -prog -pst -poss.3sg short
 \ft who sewed this, (so) short
 \ev
 \ru кто это шил, короткое
@@ -2115,8 +2115,8 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \id Ichanga_Adukanov_muzej1_cont_160
 \ref
 \tx uŋe          erek, uŋ
-\mb uŋ        -E  erek uŋ       
-\ps n             pron n        
+\mb uŋ        -E  erek uŋ
+\ps n             pron n
 \ge something -ep prox something
 \ft this here
 \ph
@@ -2125,7 +2125,7 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ru это вот
 \ELANBegin 00:13:58.721
 \ELANEnd 00:14:00.151
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_161
 \ref
@@ -2143,8 +2143,8 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \id Ichanga_Adukanov_muzej1_cont_162
 \ref
 \tx erekesi       ŋọn... uŋe
-\mb erek -E  =sI   ŋọnam uŋe     
-\ps pron           adj   pron    
+\mb erek -E  =sI   ŋọnam uŋe
+\ps pron           adj   pron
 \ge prox -ep =emph long  this.one
 \ft but this one is long...
 \ev
@@ -2157,8 +2157,8 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ref
 \tx iγenči      er   diːnnikke                 biweːtten
 \mb iγenči        erek diːn        -n(I)     =kkE bi -WEːČ -R(E)   -n(I)
-\ps n             pron rel.n                      v                     
-\ge type.of.pants prox equ.measure -poss.3sg =ptl be -gnr  -nonfut -3sg 
+\ps n             pron rel.n                      v
+\ge type.of.pants prox equ.measure -poss.3sg =ptl be -gnr  -nonfut -3sg
 \ft iγenchi are (short/long) like this
 \ph
 \nt he must be showing the length of the iγenchi
@@ -2166,7 +2166,7 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ru игенчи вот такое же бывает
 \ELANBegin 00:14:04.597
 \ELANEnd 00:14:07.587
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_164
 \ref
@@ -2181,14 +2181,14 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ru
 \ELANBegin 00:14:07.587
 \ELANEnd 00:14:12.111
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_165
 \ref
 \tx Erek asalda         ọjiltan,               tarma ekič     ụnụr,           erek bejŋikke           ehni           bihe.
-\mb erek asị   -L  =DE  ọj      -E  -L  -tEn      tarma e   -kIč ụnụ        -R       erek bej -ŋI        =kkE e   -R(E) -n(I) bi -R      
-\ps pron n              n                         conj  v        v                   pron n                   v               v          
-\ge prox woman -pl =ptl clothes -ep -pl -poss.3pl but   neg -nr  understand -neg.cvb prox man -pred.poss =ptl neg -nfut -3sg  be -neg.cvb
+\mb erek asị   -L  =DE  ọj      -E  -L  -tEn      tarma e   -kIč ụnụ        -R       erek bej -ŋI        =kkE e   -R(E) -n(I) bi -R
+\ps pron n              n                         conj  n        v                   pron n                   v               v 
+\ge prox woman -pl =ptl clothes -ep -pl -poss.3pl but   neg -nr  understand -neg.cvb prox man -pred.poss =ptl neg -nonfut -3sg  be -neg.cvb
 
 \ft These are women's clothes, but it's impossible to understand, maybe it's men's clothes.
 \ev
@@ -2201,10 +2201,10 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ref
 \tx ešni          ešni
 \mb e   -R(E) -n(I) e   -R(E) -n(I)
-\ps v               v               
-\ge neg -nfut -3sg  neg -nfut -3sg 
+\ps v               v 
+\ge neg -nonfut -3sg  neg -nonfut -3sg
 \ft no, no
-\ev  
+\ev
 \ru нет нет
 \ELANBegin 00:14:19.014
 \ELANEnd 00:14:22.160
@@ -2226,7 +2226,7 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ref
 \tx Erek tože  kojeːnni   ornament   erek uŋ       nọːdịkan          tože  ečintitte.
 \mb erek tože   kojeː -nrI ornament   erek uŋ        nọːdịka  -n(I)     tože   erroːčin  =tIt
-\ps pron ptl    v          n          pron n         n                  ptl    pron          
+\ps pron ptl    v          n          pron n         n                  ptl    pron
 \ge prox also.R watch -2sg ornament.R prox something ornament -poss.3sg also.R prox.qual =ptl
 \ft This too, look, the ornament, the drawing/pattern is also like that.
 \ev
@@ -2239,11 +2239,11 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ref
 \tx Ekič     ụnụr            awgič,     ŋiːde    ešni          aːr          ịakawụ   erek.
 \mb e   -kIč ụnụ        -R       aw    -GIČ  ŋiː =DE  e   -R(E) -n(I) haː  -R       ịak  -awụ  erek
-\ps v        v                   pron        pron     v               v             pron       pron
-\ge neg -nr  understand -neg.cvb where -elat who =ptl neg -nfut -3sg  know -neg.cvb what -emph prox
+\ps n        v                   pron        pron     v               v             pron       pron 
+\ge neg -nr  understand -neg.cvb where -elat who =ptl neg -nonfut -3sg  know -neg.cvb what -emph prox
 \ft Impossible to understand, from where (it comes), nobody knows what this is.
 \ev
-\ru не поймешь откуда, никто не знает что это 
+\ru не поймешь откуда, никто не знает что это
 \ELANBegin 00:14:28.712
 \ELANEnd 00:14:32.729
 \ELANParticipant AEI
@@ -2251,8 +2251,8 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \id Ichanga_Adukanov_muzej1_cont_169
 \ref
 \tx erekte
-\mb erek =DE 
-\ps n      
+\mb erek =DE
+\ps n 
 \ge prox =ptl
 \ft this too
 \ev
@@ -2264,22 +2264,22 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \id Ichanga_Adukanov_muzej1_cont_170
 \ref
 \tx nele
-\mb nel   -E 
-\ps n        
+\mb nel   -E
+\ps n
 \ge apron -ep
 \ft an apron
 \ev
 \ru
 \ELANBegin 00:14:37.487
 \ELANEnd 00:14:39.489
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_171
 \ref
 \tx aːwal       tože  irroːčin, aːwan
 \mb aːwụn -L  tože   irroːčin aːwụn
-\ps n         ptl    pron     n    
-\ge hat   -pl also.R which    hat  
+\ps n         ptl    pron     n
+\ge hat   -pl also.R which    hat
 \ft hats are also like what, hat...
 \ev
 \ru шапки тоже вот какие, шапка
@@ -2290,8 +2290,8 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \id Ichanga_Adukanov_muzej1_cont_172
 \ref
 \tx Erek bej aːwanni,          tara, iː, bej aːwanni,          a     erekesi       asal      aːwaltan.
-\mb erek bej aːwụn -n(I)     tarak iː  bej aːwụn -n(I)     a.R   erek -E  =sI   asị   -L  aːwụn -L  -tEn     
-\ps pron n   n               pron  interj n   n               ?     pron           n         n                  
+\mb erek bej aːwụn -n(I)     tarak iː  bej aːwụn -n(I)     a.R   erek -E  =sI   asị   -L  aːwụn -L  -tEn
+\ps pron n   n               pron  interj n   n               ?     pron           n         n
 \ge prox man hat   -poss.3sg dist  yes man hat   -poss.3sg but.R prox -ep =emph woman -pl hat   -pl -poss.3pl
 \ft This is a man's hat, right, a man's hat, and this is (these are) women's hats.
 \ev
@@ -2304,7 +2304,7 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ref
 \tx Von...  uŋenke       atịkanke     Lidekke
 \mb von     uŋen     =kkE atịkan    =kkE Lide           =kkE
-\ps ptl     pron          n              ?                  
+\ps ptl     pron          n              ?
 \ge there.R this.one =ptl old.woman =ptl Lidija.hypocor =ptl
 \ft There, that old woman Lida, right.
 \ev
@@ -2317,7 +2317,7 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ref
 \tx Tawụr nọŋan aːwlattan,                    ittiš             fotografijalakka?
 \mb tawụr nọŋan aːwụn -LE -Č   -R(E)   -n(I) it  -RI  -s(I)     fotografija  -(dU)LE =kkE
-\ps pron  pron  v                            v                  n                        
+\ps pron  pron  v                            v                  n
 \ge this  3sg   hat   -vr -res -nonfut -3sg  see -pst -poss.2sg photograph.R -loc    =ptl
 \ft It's her wearing the hat, did you see, in the photo?
 \ev
@@ -2342,8 +2342,8 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ref
 \tx Tarak akannịmaja           aːwannị,        ịak ekenni,          ekenni           aːwanni,          esni.
 \mb tarak akan   -n(I)     =mEjE aːwụn -n(I)     ịak  eken   -n(I)     eken   -n(I)     aːwụn -n(I)     e   -R(E) -n(I)
-\ps pron  n                      n               pron n                n                n               v              
-\ge dist  father -poss.3sg =ptl  hat   -poss.3sg what mother -poss.3sg mother -poss.3sg hat   -poss.3sg neg -nfut -3sg 
+\ps pron  n                      n               pron n                n                n               v
+\ge dist  father -poss.3sg =ptl  hat   -poss.3sg what mother -poss.3sg mother -poss.3sg hat   -poss.3sg neg -nonfut -3sg
 \ft That's her father's hat, it turns out, not her mother's, her mother's hat, no.
 \ev
 \ru Это же ее отца шапка, не материна, материна шапка, нет.
@@ -2355,13 +2355,13 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ref
 \tx Bi   dʒulle       gerbuttiwu            uŋe          umenilki, umenilki, a     untemeje    bejŋimeje           unte
 \mb biː dʒul  -(dU)LE gerbet -RI  -W        uŋ        -E  umenilki umenilki a.R   honte =mEjE bej -ŋI        =mEjE honte
-\ps pron rel.n         v                     n             adv      adv      ?     adj         n                    adj  
+\ps pron rel.n         v                     n             adv      adv      ?     adj         n                    adj
 \ge 1sg front -loc    think  -pst -poss.1sg something -ep the.same the.same but.R other =ptl  man -pred.poss =ptl  other
 
 \tx biweːtten.
 \mb bi -WEːČ -R(E)   -n(I)
-\ps v                     
-\ge be -gnr  -nonfut -3sg 
+\ps v
+\ge be -gnr  -nonfut -3sg
 \ft I used to think that they were the same, the same, but it turns out that they are different, it turns out that a man's (hat) is different.
 \ev
 \ru Я раньше думал что одинаково, одинаково, а другое оказывается, у мужчин бывает.
@@ -2372,8 +2372,8 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \id Ichanga_Adukanov_muzej1_cont_178
 \ref
 \tx erek dọŋka
-\mb erek dọŋka 
-\ps pron n     
+\mb erek dọŋka
+\ps pron n
 \ge prox saddle
 \ft this is a saddle
 \ev
@@ -2385,8 +2385,8 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \id Ichanga_Adukanov_muzej1_cont_179
 \ref
 \tx Erek dọŋk  uŋen    dọŋka, emgun
-\mb erek dọŋka  uŋen     dọŋka  emgun          
-\ps pron n      pron     n      n              
+\mb erek dọŋka  uŋen     dọŋka  emgun
+\ps pron n      pron     n      n
 \ge prox saddle this.one saddle reindeer.saddle
 \ft this is a saddle, a reindeer saddle
 \ph
@@ -2400,8 +2400,8 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \id Ichanga_Adukanov_muzej1_cont_180
 \ref
 \tx emgun
-\mb emgun          
-\ps n              
+\mb emgun
+\ps n
 \ge reindeer.saddle
 \ft a reindeer saddle
 \ev
@@ -2413,15 +2413,15 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \id Ichanga_Adukanov_muzej1_cont_181
 \ref
 \tx emgun
-\mb emgun          
-\ps n              
+\mb emgun
+\ps n
 \ge reindeer.saddle
 \ft a reindeer saddle
 \ev
 \ru
 \ELANBegin 00:15:36.091
 \ELANEnd 00:15:36.715
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_182
 \ref
@@ -2447,13 +2447,13 @@ as rec114, it gives a meaning of "probably"; but Rimma could only say that this 
 \ru
 \ELANBegin 00:15:37.755
 \ELANEnd 00:15:38.717
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_184
 \ref
 \tx Erek osnovnoj  ọrọč tarkke     uŋen             dọŋkan.
-\mb erek osnovnoj  ọrọč  tarak =kkE uŋ        -E  -n(I) dọŋka  -E  -n(I)    
-\ps pron adj       n     pron       n                   n                   
+\mb erek osnovnoj  ọrọč  tarak =kkE uŋ        -E  -n(I) dọŋka  -E  -n(I)
+\ps pron adj       n     pron       n                   n
 \ge prox basic.m.R Oroch dist  =ptl something -ep -3sg  saddle -ep -poss.3sg
 \ft This is the basic Even saddle.
 \ph
@@ -2469,8 +2469,8 @@ however, the Russian translation is "tot zhe" and "my zhe", so that I do think i
 \id Ichanga_Adukanov_muzej1_cont_185
 \ref
 \tx Uŋ       sever   uŋgič         sibirgič       mut    emnit                  tarkke     erroːčinni         dọŋkač.
-\mb uŋ        sever   uŋ        -GIČ  sibir     -GIČ  mut    em   -RI  -t(I)        tarak =kkE erroːčin  -n(I)     dọŋka  -Č  
-\ps n         n       n               n               pron   v                      pron       pron                n          
+\mb uŋ        sever   uŋ        -GIČ  sibir     -GIČ  mut    em   -RI  -t(I)        tarak =kkE erroːčin  -n(I)     dọŋka  -Č
+\ps n         n       n               n               pron   v                      pron       pron                n
 \ge something north.R something -elat Siberia.R -elat 1pl.in come -pst -poss.1pl.in dist  =ptl prox.qual -poss.3sg saddle -ins
 \ft The north, from there, from Siberia we came with just such a saddle.
 \ev
@@ -2496,8 +2496,8 @@ however, the Russian translation is "tot zhe" and "my zhe", so that I do think i
 \ref
 \tx Erek maːwụt.
 \mb erek maːwụt
-\ps pron n     
-\ge prox lasso 
+\ps pron n
+\ge prox lasso
 \ft This is a lasso.
 \ev
 \ru Это чаут.
@@ -2509,8 +2509,8 @@ however, the Russian translation is "tot zhe" and "my zhe", so that I do think i
 \ref
 \tx Munŋi                maːwụtun            tarkke     aŋanuttan.
 \mb mun        -ŋI        maːwụt -WUn         tarak =kkE haŋan -U    -Č   -R(E)   -n(I)
-\ps ?                     n                   pron       v                             
-\ge 1pl.ex.obl -pred.poss lasso  -poss.1pl.ex dist  =ptl sew   -caus -res -nonfut -3sg 
+\ps ?                     n                   pron       v
+\ge 1pl.ex.obl -pred.poss lasso  -poss.1pl.ex dist  =ptl sew   -caus -res -nonfut -3sg
 
 \ft Our lasso is sewn, right.
 \ph says maːwutən, with a very short ə
@@ -2524,7 +2524,7 @@ however, the Russian translation is "tot zhe" and "my zhe", so that I do think i
 \ref
 \tx čukčelŋi            pletjonnyj, iŋe, i     čajčịbalŋida                           pletjonnyj
 \mb čukča   -L  -ŋI        pletennyj iŋe i     čajčaba                 -L  -ŋI        =DE  pletennyj
-\ps ?                      adj       interj conj  n                                           adj      
+\ps ?                      adj       interj conj  n                                           adj
 \ge Chukchi -pl -pred.poss braided.R yes and.R reindeer.herding.Koryak -pl -pred.poss =ptl braided.R
 \ft the Chukchi (lasso) is braided, right, and the Koryak one is, too
 \ev
@@ -2537,15 +2537,15 @@ however, the Russian translation is "tot zhe" and "my zhe", so that I do think i
 \ref
 \tx ịlčattan
 \mb ịlča  -Č   -R(E)   -n(I)
-\ps v                       
-\ge braid -res -nonfut -3sg 
+\ps v
+\ge braid -res -nonfut -3sg
 \ft braided
 \ph the last syllable is hardly audible
 \ev
 \ru заплетенный
 \ELANBegin 00:16:03.950
 \ELANEnd 00:16:04.652
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_192
 \ref
@@ -2561,21 +2561,21 @@ however, the Russian translation is "tot zhe" and "my zhe", so that I do think i
 \ref
 \tx ịlčattan
 \mb ịlča  -Č   -R(E)   -n(I)
-\ps v                       
-\ge braid -res -nonfut -3sg 
+\ps v
+\ge braid -res -nonfut -3sg
 \ft braided
 \ev
 \ru
 \ELANBegin 00:16:05.029
 \ELANEnd 00:16:05.874
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_194
 \ref
 \tx iː ịlčattan
 \mb iː  ịlča  -Č   -R(E)   -n(I)
-\ps interj v                       
-\ge yes braid -res -nonfut -3sg 
+\ps interj v
+\ge yes braid -res -nonfut -3sg
 \ft yes, braided
 \ph sounds like ilčattun to me
 \ev
@@ -2587,8 +2587,8 @@ however, the Russian translation is "tot zhe" and "my zhe", so that I do think i
 \id Ichanga_Adukanov_muzej1_cont_195
 \ref
 \tx ịlčat...
-\mb ịlča  -Č  
-\ps v         
+\mb ịlča  -Č
+\ps v
 \ge braid -res
 \ft braided
 \ph he probably says ịlčattan, but one really cannot hear the ending
@@ -2601,22 +2601,22 @@ however, the Russian translation is "tot zhe" and "my zhe", so that I do think i
 \id Ichanga_Adukanov_muzej1_cont_196
 \ref
 \tx tekekej
-\mb etetetekekej     
-\ps adv              
+\mb etetetekekej
+\ps adv
 \ge vot.kakaja(small)
 \ft just look at this
 \ev
 \ru
 \ELANBegin 00:16:09.696
 \ELANEnd 00:16:11.334
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_197
 \ref
 \tx ịawụt      deŋnikteji                           xxx
 \mb ịak  =(W)UttE deŋnik             -DE       -J       *xxx
-\ps pron          v                                     ?   
-\ge what =indef   beat.over.the.head -purp.cvb -prfl.sg *** 
+\ps pron          v                                     ?
+\ge what =indef   beat.over.the.head -purp.cvb -prfl.sg ***
 \ft wants to beat something/someone over the head
 \ph the last word cannot be made out, sounds like "kiwu" to me, Rimma suggested "ečin"
 \gr
@@ -2630,8 +2630,8 @@ however, the Russian translation is "tot zhe" and "my zhe", so that I do think i
 \id Ichanga_Adukanov_muzej1_cont_198
 \ref
 \tx tarawda         ịtịːw,    ọːnkana    ọmŋaram           gerben
-\mb tarak -W   =DE  ịtịː -W   ọːn =kEnE  ọmŋa   -R(E)   -m   gerbe -n(I)    
-\ps pron            n         pron       v                   n              
+\mb tarak -W   =DE  ịtịː -W   ọːn =kEnE  ọmŋa   -R(E)   -m   gerbe -n(I)
+\ps pron            n         pron       v                   n
 \ge dist  -acc =ptl face -acc how =contr forget -nonfut -1sg name  -poss.3sg
 \ft that face, I've forgotten the name
 \ph sounds like "ittiwu" (I saw) to me, but Rimma was quite insistent that it's itiːw, 'face'
@@ -2647,19 +2647,19 @@ however, the Russian translation is "tot zhe" and "my zhe", so that I do think i
 \ref
 \tx erek ko... uŋe,    eniwedden                      tar  kojeːnni
 \mb erek *** uŋe      en   -W     -D    -R(E)   -n(I) tar  kojeː -nrI
-\ps pron ?   pron     v                               adv  v         
+\ps pron ?   pron     v                               adv  v
 \ge prox *** this.one hurt -advrs -prog -nonfut -3sg  thus watch -2sg
 \ft this one is suffering from pain, do you see
 \ev
 \ru кто-то страдает от боли, видишь
 \ELANBegin 00:16:18.627
 \ELANEnd 00:16:21.994
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_200
 \ref
 \tx iː
-\mb iː 
+\mb iː
 \ps interj
 \ge yes
 \ft yes
@@ -2672,8 +2672,8 @@ however, the Russian translation is "tot zhe" and "my zhe", so that I do think i
 \id Ichanga_Adukanov_muzej1_cont_201
 \ref
 \tx deŋnikedmi                           mụrọm,   ọrọm               deŋnikedmi
-\mb deŋnik             -E  -D    -mI       mụran -W   ọrọn              -W   deŋnik             -E  -D    -mI      
-\ps v                                      n          n                      v                                     
+\mb deŋnik             -E  -D    -mI       mụran -W   ọrọn              -W   deŋnik             -E  -D    -mI
+\ps v                                      n          n                      v
 \ge beat.over.the.head -ep -prog -cond.cvb horse -acc domestic.reindeer -acc beat.over.the.head -ep -prog -cond.cvb
 \ft beating a horse over the head, beating a reindeer over the head
 \ph
@@ -2682,13 +2682,13 @@ however, the Russian translation is "tot zhe" and "my zhe", so that I do think i
 \ru
 \ELANBegin 00:16:22.670
 \ELANEnd 00:16:25.985
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_202
 \ref
 \tx erekeši   dọŋka, mụran dọŋkan
-\mb erek =sI   dọŋka  mụran dọŋka  -E  -n(I)    
-\ps pron       n      n     n                   
+\mb erek =sI   dọŋka  mụran dọŋka  -E  -n(I)
+\ps pron       n      n     n
 \ge prox =emph saddle horse saddle -ep -poss.3sg
 \ft this is a saddle, a saddle for horses
 \ev
@@ -2700,8 +2700,8 @@ however, the Russian translation is "tot zhe" and "my zhe", so that I do think i
 \id Ichanga_Adukanov_muzej1_cont_203
 \ref
 \tx Awgịt     nan    nọŋan, se...   uŋe,         Jakutijagič   emče?
-\mb aw    -GIČ  ńaːn nọŋan sever   uŋ        -E  Jakutija -GIČ  em   -čE    
-\ps pron        adv  pron  n       n             n              v           
+\mb aw    -GIČ  ńaːn nọŋan sever   uŋ        -E  Jakutija -GIČ  em   -čE
+\ps pron        adv  pron  n       n             n              v
 \ge where -elat and  3sg   north.R something -ep Yakutia  -elat come -pf.ptc
 \ft Where is it from, it came from Yakutia?
 \ev
@@ -2713,7 +2713,7 @@ however, the Russian translation is "tot zhe" and "my zhe", so that I do think i
 \id Ichanga_Adukanov_muzej1_cont_204
 \ref
 \tx iː
-\mb iː 
+\mb iː
 \ps interj
 \ge yes
 \ft yes
@@ -2739,8 +2739,8 @@ however, the Russian translation is "tot zhe" and "my zhe", so that I do think i
 \id Ichanga_Adukanov_muzej1_cont_206
 \ref
 \tx Taraw      tar  dʒoːŋimi,        taraw      dʒoːŋiča.
-\mb tarak -W   tar  dʒoːŋi -mI       tarak -W   dʒoːŋi -čE    
-\ps pron       adv  v                pron       v             
+\mb tarak -W   tar  dʒoːŋi -mI       tarak -W   dʒoːŋi -čE
+\ps pron       adv  v                pron       v
 \ge dist  -acc thus repeat -cond.cvb dist  -acc repeat -pf.ptc
 \ft repeating (copying) that, they copied that
 \ev
@@ -2754,7 +2754,7 @@ however, the Russian translation is "tot zhe" and "my zhe", so that I do think i
 \tx Jakutalŋi                erroːčin tege... tarma i     erroːčintedekke          ehni           bihe,       iŋe?
 \mb jakut   -E  -L  -ŋI        erroːčin  tarma i     erroːčin  =t(E) =DE  =kkE e   -R(E) -n(I) bi -R       iŋe
 \ps n                          pron      conj  conj  pron                      v               v           interj
-\ge Yakut.R -ep -pl -pred.poss prox.qual but   and.R prox.qual =ptl  =ptl =ptl neg -nfut -3sg  be -neg.cvb yes
+\ge Yakut.R -ep -pl -pred.poss prox.qual but   and.R prox.qual =ptl  =ptl =ptl neg -nonfut -3sg  be -neg.cvb yes
 \ft the Yakut (saddle) is probably like this, too, right?
 \ph
 \nt this caused a lot of problems, Rimma wasn't sure at all about what he says, and she suggested something like "erročintede binni", but to me it sounds like this, and since AEI
@@ -2769,8 +2769,8 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \id Ichanga_Adukanov_muzej1_cont_208
 \ref
 \tx tonmejil
-\mb tonmej  -E  -L 
-\ps n              
+\mb tonmej  -E  -L
+\ps n
 \ge stirrup -ep -pl
 \ft stirrups
 \ev
@@ -2795,21 +2795,21 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \id Ichanga_Adukanov_muzej1_cont_210
 \ref
 \tx Ukčeneddep                  awụški       urdʒip
-\mb ukčen -D    -R(E)   -p      aw    -skI      hor -DʒI -p     
-\ps v                           pron            v               
+\mb ukčen -D    -R(E)   -p      aw    -skI      hor -DʒI -p
+\ps v                           pron            v
 \ge tell  -prog -nonfut -1pl.in where -advb.all go  -fut -1pl.in
 \ft Let's talk, where will we go.
 \ev
 \ru Давай беседовать, куда мы пойдем
 \ELANBegin 00:17:02.710
 \ELANEnd 00:17:04.478
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_211
 \ref
 \tx urreket                       emur            kojeːnni   kọladdiwutan
-\mb hor -REk      -E  -t(I)        em   -U    -r   kojeː -nrI kọl   -D    -RI       -W   -tEn     
-\ps v                              v               v          v                                   
+\mb hor -REk      -E  -t(I)        em   -U    -r   kojeː -nrI kọl   -D    -RI       -W   -tEn
+\ps v                              v               v          v
 \ge go  -cond.cvb -ep -poss.1pl.in come -caus -3pl watch -2sg drink -prog -impf.ptc -acc -poss.3pl
 \ft when we leave they come, see how they are drinking
 \ph the first two words are very uslovno, sounds like turekečimur
@@ -2819,13 +2819,13 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \ru мы уходим, они несут, видишь как они пьют
 \ELANBegin 00:17:05.622
 \ELANEnd 00:17:07.754
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_212
 \ref
 \tx Ukčenedde:             awụški       ńọːŋčukahendʒip
-\mb ukčen -E  -D    -R(E)   aw    -skI      ńọːŋčị -WkEn -s(E)n -DʒI -p     
-\ps v                       pron            v                               
+\mb ukčen -E  -D    -R(E)   aw    -skI      ńọːŋčị -WkEn -s(E)n -DʒI -p
+\ps v                       pron            v
 \ge tell  -ep -prog -nonfut where -advb.all run    -caus -lim   -fut -1pl.in
 \ft They are talking: where shall we gallop off to.
 \ph
@@ -2834,28 +2834,28 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \ru Разговаривают, куда мы поскачем
 \ELANBegin 00:17:07.754
 \ELANEnd 00:17:11.173
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_213
 \ref
 \tx Ile           gelnedʒip?
-\mb irek  -(dU)LE gel      -nE     -DʒI -p     
-\ps pron          v                            
+\mb irek  -(dU)LE gel      -nE     -DʒI -p
+\ps pron          v
 \ge which -loc    look.for -intent -fut -1pl.in
 \ft Where will we go to look?
 \ev
 \ru Где пойдем искать?
 \ELANBegin 00:17:11.173
 \ELANEnd 00:17:13.149
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_214
 \ref
 \tx ịawụt      nan    olekčidde
-\mb ịak  =(W)UttE ńaːn olekči -D    -R(E)  
-\ps pron          adv  v                   
+\mb ịak  =(W)UttE ńaːn olekči -D    -R(E)
+\ps pron          adv  v
 \ge what =indef   and  cheat  -prog -nonfut
-\ft somehow they are lying/cheating 
+\ft somehow they are lying/cheating
 \ev
 \ru чего-то они врут/обманывают
 \ELANBegin 00:17:13.708
@@ -2865,11 +2865,11 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \id Ichanga_Adukanov_muzej1_cont_215
 \ref
 \tx ịa...
-\mb ịa     
-\ps v      
+\mb ịa
+\ps v
 \ge do.what
 \ft what
-\ev  
+\ev
 \ru
 \ELANBegin 00:17:18.401
 \ELANEnd 00:17:18.895
@@ -2879,8 +2879,8 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \ref
 \tx ŋiːw     djadja  Vasjaw     uŋčen               ili  ŋiːwgu?
 \mb ŋiː -W   djadja  Vasja -W   uŋ -čE     -n(I)     ili  ŋiː -W   =GU
-\ps pron     n       n          v                    conj pron        
-\ge who -acc uncle.R Vasja -acc do -pf.ptc -poss.3sg or.R who -acc =q 
+\ps pron     n       n          v                    conj pron
+\ge who -acc uncle.R Vasja -acc do -pf.ptc -poss.3sg or.R who -acc =q
 \ft who, did they do Uncle Vasja or whom?
 \ph
 \nt might be talking about a photo or something
@@ -2895,21 +2895,21 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \id Ichanga_Adukanov_muzej1_cont_217
 \ref
 \tx ašapar
-\mb asapar      
-\ps interj      
+\mb asapar
+\ps interj
 \ge I.don't.know
 \ft I don't know
 \ev
 \ru
 \ELANBegin 00:17:21.612
 \ELANEnd 00:17:22.990
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_218
 \ref
 \tx ọńattankke
 \mb ọńa   -Č   -R(E)   -n(I) =kkE
-\ps v                            
+\ps v
 \ge write -res -nonfut -3sg  =ptl
 \ft it's written, right
 \ev
@@ -2921,8 +2921,8 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \id Ichanga_Adukanov_muzej1_cont_218b
 \ref
 \tx kọča
-\mb kọč      -E 
-\ps adv         
+\mb kọč      -E
+\ps adv
 \ge probably -ep
 \ft probably
 \ph
@@ -2933,7 +2933,7 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \id Ichanga_Adukanov_muzej1_cont_219
 \ref
 \tx iː
-\mb iː 
+\mb iː
 \ps interj
 \ge yes
 \ft yes
@@ -2946,8 +2946,8 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \id Ichanga_Adukanov_muzej1_cont_220
 \ref
 \tx Aa, ọrọmŋal                ŋiːje
-\mb aa ọrọn              -mŋE  -L  ŋiː =jE   
-\ps interj n                           pron      
+\mb aa ọrọn              -mŋE  -L  ŋiː =jE
+\ps interj n                           pron 
 \ge ah domestic.reindeer -agnr -pl who =assoc
 \ft ah, reindeer herders, who are they?
 \ph
@@ -2978,7 +2978,7 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \ps pron         pron
 \ge what -abl    prox
 \ft from what is this (made)?
-\ev  
+\ev
 \ru из чего это
 \ELANBegin 00:17:36.757
 \ELANEnd 00:17:38.421
@@ -3007,8 +3007,8 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \id Ichanga_Adukanov_muzej1_cont_225
 \ref
 \tx Viktortakị   ńan   ŋenne
-\mb Viktor -t(E)kI ńaːn ŋen -R(E)  
-\ps n              adv  v          
+\mb Viktor -t(E)kI ńaːn ŋen -R(E)
+\ps n              adv  v
 \ge Viktor -all    and  go  -nonfut
 \ft they again came to Viktor
 \ph
@@ -3037,7 +3037,7 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \ru
 \ELANBegin 00:17:56.829
 \ELANEnd 00:18:04.590
-\ELANParticipant BP 
+\ELANParticipant BP
 
 \id Ichanga_Adukanov_muzej1_cont_228
 \ref
@@ -3057,7 +3057,7 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \ru
 \ELANBegin 00:18:04.967
 \ELANEnd 00:18:06.345
-\ELANParticipant BP 
+\ELANParticipant BP
 
 \id Ichanga_Adukanov_muzej1_cont_230
 \ref
@@ -3077,13 +3077,13 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \ru
 \ELANBegin 00:18:12.078
 \ELANEnd 00:18:18.591
-\ELANParticipant BP 
+\ELANParticipant BP
 
 \id Ichanga_Adukanov_muzej1_cont_232
 \ref
 \tx Ịaw      tabịč toredʒim?
-\mb ịak  -W   tabịč tore  -DʒI -m  
-\ps pron      adv   v              
+\mb ịak  -W   tabịč tore  -DʒI -m
+\ps pron      adv   v
 \ge what -acc again speak -fut -1sg
 \ft What will I say?
 \ev
@@ -3095,8 +3095,8 @@ gave the rough Russian translation below; ***but this sentence is entirely uslov
 \id Ichanga_Adukanov_muzej1_cont_233
 \ref
 \tx Ịaw      tabịč toredʒim?       Ọːn ọːččọːtta?
-\mb ịak  -W   tabịč tore  -DʒI -m   ọːn ọː   -Č   -WEːČ -R(E)  
-\ps pron      adv   v               pron v                      
+\mb ịak  -W   tabịč tore  -DʒI -m   ọːn ọː   -Č   -WEːČ -R(E)
+\ps pron      adv   v               pron v
 \ge what -acc again speak -fut -1sg how make -res -gnr  -nonfut
 
 \ft What will I say? How they make (sleds)?
@@ -3107,26 +3107,26 @@ he says toreʤim before this, and after this, and the suggestion was that he wou
 \ru Что я буду говорить, как строят?
 \ELANBegin 00:18:21.451
 \ELANEnd 00:18:24.818
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_234
 \ref
 \tx Ọːn ọːččọːtta          toredʒim?
-\mb ọːn ọː   -Č   -WEːČ -R(E)   tore  -DʒI -m  
-\ps pron v                       v              
+\mb ọːn ọː   -Č   -WEːČ -R(E)   tore  -DʒI -m
+\ps pron v                       v
 \ge how make -res -gnr  -nonfut speak -fut -1sg
 \ft Shall I say how they make (it)?
 \ev
 \ru Как строят скажу?
 \ELANBegin 00:18:29.199
 \ELANEnd 00:18:30.785
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_235
 \ref
 \tx Erek tụrkịw     ọːčidʒimŋe...    ọːnka    goːweːtte?
-\mb erek tụrkị -W   ọː   -Č   -D    -mŋE  ọːn =kkE goːn -WEːČ -R(E)  
-\ps pron n          v                     pron     v                 
+\mb erek tụrkị -W   ọː   -Č   -D    -mŋE  ọːn =kkE goːn -WEːČ -R(E)
+\ps pron n          n                     pron     v 
 \ge prox sled  -acc make -res -prog -agnr how =ptl say  -gnr  -nonfut
 \ft This is for making sleds... how does one say?
 \ph a pause of 3 seconds in between the two clauses
@@ -3140,18 +3140,18 @@ he says toreʤim before this, and after this, and the suggestion was that he wou
 \id Ichanga_Adukanov_muzej1_cont_237
 \ref
 \tx Bi   meːnŋidʒi                  ọːčịdʒillam,                 tụ.. meːnditken                 ọːram,          iŋe tụrkịgaji
-\mb biː meːn -ŋI        -DʒI         ọː   -Č   -D    -L    -R(E)   -m   *** meːn -DI          =t(E)kEn ọː   -R(E)   -m   iŋe tụrkị -GE    -J      
-\ps pron pron                         n                                  ?   pron                       v                 interj n                     
+\mb biː meːn -ŋI        -DʒI         ọː   -Č   -D    -L    -R(E)   -m   *** meːn -DI          =t(E)kEn ọː   -R(E)   -m   iŋe tụrkị -GE    -J
+\ps pron pron                         n                                  ?   pron                       v                 interj n 
 \ge 1sg refl -pred.poss -ins.prfl.sg make -res -prog -inch -nonfut -1sg *** refl -dat.prfl.sg =restr   make -nonfut -1sg yes sled  -desig -prfl.sg
 
 \tx meːnduliitken
 \mb meːn -(dU)LI -E  =t(E)kEn
-\ps pron                     
-\ge refl -prol   -ep =restr  
+\ps pron
+\ge refl -prol   -ep =restr
 \ft I start to make (a sled) in my own way, I only make (sleds) for myself, a sled only for myself.
 \ph
 \gr meːnduliitken is not the correct form, should be meːnditken
-\gr 28/06/2016: checked, meːnŋiʤi is not the correct form for "po svoemu", should be meːndeči 
+\gr 28/06/2016: checked, meːnŋiʤi is not the correct form for "po svoemu", should be meːndeči
 \ev
 \ru Я по-своему начинаю делать, только себе делаю (нарту), нарту для себя только себе мэндуткэн
 \ELANBegin 00:18:39.352
@@ -3161,8 +3161,8 @@ he says toreʤim before this, and after this, and the suggestion was that he wou
 \id Ichanga_Adukanov_muzej1_cont_238
 \ref
 \tx meːnduliji            uŋ       uŋken
-\mb meːn -(dU)LI -J       uŋ       
-\ps pron                  n        
+\mb meːn -(dU)LI -J       uŋ
+\ps pron                  n
 \ge refl -prol   -prfl.sg something
 \ft
 \nt I don't know how to translate this - Rimma didn't know what he meant with "uŋken", and the prolative case on "oneself" is hard to translate into English
@@ -3176,23 +3176,23 @@ he says toreʤim before this, and after this, and the suggestion was that he wou
 \ref
 \tx meːr     meːni      kojeːtniken     ọːtt..          ọːttan
 \mb meːn -L  meːni       kojeːt  -nIkEn   ọː   -Č   -R(E)   ọː   -Č   -R(E)   -n(I)
-\ps pron     pron        v                v                 v                      
-\ge refl -pl refl.sg.acc look.at -sim.cvb make -res -nonfut make -res -nonfut -3sg 
+\ps pron     pron        v                v                 v
+\ge refl -pl refl.sg.acc look.at -sim.cvb make -res -nonfut make -res -nonfut -3sg
 \ft he looks at himself and makes (it)
 \ph
-\gr 28/06/2016: even though I find it very odd that there is a plural form in "sam sebja", Rimma said that "meːr meːni" is correct; 
+\gr 28/06/2016: even though I find it very odd that there is a plural form in "sam sebja", Rimma said that "meːr meːni" is correct;
 \nt talking about AEI
 \ev
 \ru сам на себя смотрит и делает
 \ELANBegin 00:18:48.491
 \ELANEnd 00:18:51.234
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_240
 \ref
 \tx ọːridʒi    nan    iajawmi               kojeːtmi         ọrọneč            iajawmi,              ekičeː
-\mb ọː   -RIdʒI   ńaːn iaja -W     -mI       kojeːt  -mI       ọrọn              -Č   iaja -W     -mI       ekič =eː  
-\ps v             adv  v                     v                 n                      v                     ?         
+\mb ọː   -RIdʒI   ńaːn iaja -W     -mI       kojeːt  -mI       ọrọn              -Č   iaja -W     -mI       ekič =eː
+\ps v             adv  v                     v                 n                      v                     ?
 \ge make -ant.cvb and  race -advrs -cond.cvb look.at -cond.cvb domestic.reindeer -ins race -advrs -cond.cvb very =emph
 
 \ft and having made them he watches during the reindeer sled races, very much
@@ -3204,14 +3204,14 @@ quickly; sorevnueshsja, iajaram
 \ru и когда сделает на гонках посмотрит на олених гонках, очень уж
 \ELANBegin 00:18:55.381
 \ELANEnd 00:19:04.767
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_241
 \ref
 \tx Ujumkunele        umekič biweːtten              erek tụrkịkajakan.
 \mb ejumkun -E  =lE   umekič bi -WEːČ -R(E)   -n(I) erek tụrkị -KEn     -jEkEn
-\ps ?                 adv    v                      pron n                    
-\ge light   -ep =emph very   be -gnr  -nonfut -3sg  prox sled  -dim.int -dim  
+\ps ?                 adv    v                      pron n
+\ge light   -ep =emph very   be -gnr  -nonfut -3sg  prox sled  -dim.int -dim
 \ft This little sled is very light.
 \ph
 \gr checked on 28/06/2016: turkikajakan is derived from turkikan, it cannot be turkikaja-kan
@@ -3219,14 +3219,14 @@ quickly; sorevnueshsja, iajaram
 \ru Очень легкая бывает вот эта нарточка
 \ELANBegin 00:19:04.767
 \ELANEnd 00:19:08.433
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_242
 \ref
 \tx ịaduktukan           ọːččan                  ele?
 \mb ịak  -DUk(U) =t(E)kEn ọː   -Č   -čE     -n(I)     erek -(dU)LE
-\ps pron                  v                           pron        
-\ge what -abl    =restr   make -res -pf.ptc -poss.3sg prox -loc   
+\ps pron                  v                           pron
+\ge what -abl    =restr   make -res -pf.ptc -poss.3sg prox -loc
 \ft what only is it made of, here?
 \ph
 \gr 28/06/2016: when I was asking about "ọːččan", Rimma suddenly said it should be "iaduktUkan", not iaduktakan (which is how I had transcribed it at first) - not sure why here the
@@ -3242,21 +3242,21 @@ tolko chto sdelano, ọːččan = proshloe, tiniw ọːččan = to chto vchera s
 \ref
 \tx erek čalbanduk
 \mb erek čalban -DUk(U)
-\ps pron n             
-\ge prox birch  -abl   
+\ps pron n
+\ge prox birch  -abl
 \ft this is (made) from white birch
 \ev
 \ru это из белой березой
 \ELANBegin 00:19:10.110
 \ELANEnd 00:19:11.501
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_244
 \ref
 \tx Čalbanduk?
 \mb čalban -DUk(U)
-\ps n             
-\ge birch  -abl   
+\ps n
+\ge birch  -abl
 \ft from white birch?
 \ev
 \ru
@@ -3275,18 +3275,18 @@ tolko chto sdelano, ọːččan = proshloe, tiniw ọːččan = to chto vchera s
 \ru
 \ELANBegin 00:19:12.294
 \ELANEnd 00:19:12.931
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_246
 \ref
 \tx aa, uŋen...
-\mb aa uŋ        -E  -n(I)    
-\ps interj n                      
+\mb aa uŋ        -E  -n(I)
+\ps interj n
 \ge ah something -ep -poss.3sg
 
 \ft and this
 \ev
-\ru а его 
+\ru а его
 \ELANBegin 00:19:12.931
 \ELANEnd 00:19:14.114
 \ELANParticipant AEI
@@ -3295,21 +3295,21 @@ tolko chto sdelano, ọːččan = proshloe, tiniw ọːččan = to chto vchera s
 \ref
 \tx paktalŋannitkan                 diwut
 \mb paktalŋan     -n(I)     =t(E)kEn diwut
-\ps n                                n    
+\ps n                                n
 \ge sled.runner.K -poss.3sg =restr   birch
 \ft only its runners are from (another kind of) birch
 \ev
 \ru полозья из каменной березы
 \ELANBegin 00:19:14.114
 \ELANEnd 00:19:15.661
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_248
 \ref
 \tx diwuttuk?
 \mb diwut -DUk(U)
-\ps n            
-\ge birch -abl   
+\ps n
+\ge birch -abl
 \ft from diwut? (a kind of birch)
 \ev
 \ru
@@ -3320,7 +3320,7 @@ tolko chto sdelano, ọːččan = proshloe, tiniw ọːččan = to chto vchera s
 \id Ichanga_Adukanov_muzej1_cont_249
 \ref
 \tx iː
-\mb iː 
+\mb iː
 \ps interj
 \ge yes
 \ft yes
@@ -3343,8 +3343,8 @@ tolko chto sdelano, ọːččan = proshloe, tiniw ọːččan = to chto vchera s
 \id Ichanga_Adukanov_muzej1_cont_251
 \ref
 \tx Erek nan    ewetlelni            ọːn gerben?
-\mb erek ńaːn ewetle -L  -n(I)     ọːn gerbe -n(I)    
-\ps pron adv  n                    pron n              
+\mb erek ńaːn ewetle -L  -n(I)     ọːn gerbe -n(I)
+\ps pron adv  n                    pron n
 \ge prox and  rib    -pl -poss.3sg how name  -poss.3sg
 \ft And how are its ribs called?
 \ev
@@ -3356,22 +3356,22 @@ tolko chto sdelano, ọːččan = proshloe, tiniw ọːččan = to chto vchera s
 \id Ichanga_Adukanov_muzej1_cont_252
 \ref
 \tx erel?
-\mb erek -L 
-\ps pron    
+\mb erek -L
+\ps pron
 \ge prox -pl
 \ft these?
 \ev
 \ru вот эти?
 \ELANBegin 00:19:21.589
 \ELANEnd 00:19:23.591
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_253
 \ref
 \tx i     tawụr čelewen                i     tawụr..
 \mb i     tawụr čele -W   -E  -n(I)     i     tawụr
-\ps conj  pron  n                       conj  pron 
-\ge and.R this  all  -acc -ep -poss.3sg and.R this 
+\ps conj  pron  n                       conj  pron
+\ge and.R this  all  -acc -ep -poss.3sg and.R this
 \ft and this and all this
 \ev
 \ru а вот все это все
@@ -3382,21 +3382,21 @@ tolko chto sdelano, ọːččan = proshloe, tiniw ọːččan = to chto vchera s
 \id Ichanga_Adukanov_muzej1_cont_254
 \ref
 \tx erekkel     ulja, uljak gerben
-\mb erek =gEl   uljak uljak gerbe -n(I)    
-\ps pron        n     n     n              
+\mb erek =gEl   uljak uljak gerbe -n(I)
+\ps pron        n     n     n
 \ge prox =coord uljak uljak name  -poss.3sg
 \ft this here is called ulja, uljak (probably the "ribs" of the sled)
 \ev
 \ru это же уля, уляк называется
 \ELANBegin 00:19:25.801
 \ELANEnd 00:19:28.440
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_255
 \ref
 \tx erek mujgan
 \mb erek mujgan
-\ps pron n     
+\ps pron n
 \ge prox mujgan
 \ft this is (called) mujgan
 \ev
@@ -3408,8 +3408,8 @@ tolko chto sdelano, ọːččan = proshloe, tiniw ọːččan = to chto vchera s
 \id Ichanga_Adukanov_muzej1_cont_256
 \ref
 \tx er   mujgan, er   naːnmajan
-\mb erek mujgan erek naː -nmEj -E  -n(I)    
-\ps pron n      pron v                      
+\mb erek mujgan erek naː -nmEj -E  -n(I)
+\ps pron n      pron v
 \ge prox mujgan prox hit -anr  -ep -poss.3sg
 \ft this is (called) mujgan, this na:nmajan (that which hits)
 \ph
@@ -3418,13 +3418,13 @@ tolko chto sdelano, ọːččan = proshloe, tiniw ọːččan = to chto vchera s
 \ru это муйган, это нанмаян (то что ударяется)
 \ELANBegin 00:19:31.235
 \ELANEnd 00:19:34.225
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_257
 \ref
 \tx paktalŋanni
-\mb paktalŋan     -n(I)    
-\ps n                      
+\mb paktalŋan     -n(I)
+\ps n
 \ge sled.runner.K -poss.3sg
 \ft its runners
 \ev
@@ -3444,14 +3444,14 @@ tolko chto sdelano, ọːččan = proshloe, tiniw ọːččan = to chto vchera s
 \ru
 \ELANBegin 00:19:38.463
 \ELANEnd 00:19:40.465
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_259
 \ref
 \tx Tarma erekke    tarkka     ele          ịak erroːčin, iŋe, uŋe,         mọːd...     uŋe          mọːduk
 \mb tarma erek =kkE tarak =kkE erek -(dU)LE ịak  erroːčin  iŋe uŋ        -E  mọː  -DUk(U) uŋ        -E  mọː  -DUk(U)
-\ps conj  pron      pron       pron         pron pron      interj n             n            n             n           
-\ge but   prox =ptl dist  =ptl prox -loc    what prox.qual yes something -ep tree -abl    something -ep tree -abl   
+\ps conj  pron      pron       pron         pron pron      interj n             n            n             n
+\ge but   prox =ptl dist  =ptl prox -loc    what prox.qual yes something -ep tree -abl    something -ep tree -abl
 
 \tx dolžen  bidʒin        iŋe?
 \mb dolžen   bi -DʒI -n(I) iŋe
@@ -3470,21 +3470,21 @@ tolko chto sdelano, ọːččan = proshloe, tiniw ọːččan = to chto vchera s
 \ref
 \tx Iŋe, mọːkakan   ele          biweːtten.
 \mb iŋe mọː  -kEkEn erek -(dU)LE bi -WEːČ -R(E)   -n(I)
-\ps interj n           pron         v                     
-\ge yes tree -dim   prox -loc    be -gnr  -nonfut -3sg 
+\ps interj n           pron         v
+\ge yes tree -dim   prox -loc    be -gnr  -nonfut -3sg
 \ft Yes, there is usually a stick here.
 \ev
 \ru Да, палочка тут бывает.
 \ELANBegin 00:19:46.770
 \ELANEnd 00:19:49.331
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_261
 \ref
 \tx Erekke    amarla         ọːčillitan                  ečin      ońelli.
 \mb erek =kkE amar   -(dU)LE ọː   -Č   -L    -RI  -tEn      erroːčin  ońelli
-\ps pron      n              v                              pron      n     
-\ge prox =ptl behind -loc    make -res -inch -pst -poss.3pl prox.qual lace  
+\ps pron      n              v                              pron      n
+\ge prox =ptl behind -loc    make -res -inch -pst -poss.3pl prox.qual lace
 \ft This they started to make later, right, like this, the laces.
 \ph
 \nt some part of the sled where two pieces of wood are tied with laces
@@ -3492,13 +3492,13 @@ tolko chto sdelano, ọːččan = proshloe, tiniw ọːččan = to chto vchera s
 \ru Это же позже стали строить, онелли (завязки)
 \ELANBegin 00:19:49.331
 \ELANEnd 00:19:52.269
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_262
 \ref
 \tx Erek tiːk ịakụč ọːčitlan?
-\mb erek tiek ịakụč     ọː   -Č   -tlE     -n(I)    
-\ps pron adv  pron      v                           
+\mb erek tiek ịakụč     ọː   -Č   -tlE     -n(I)
+\ps pron adv  pron      v
 \ge prox now  somebody? make -res -pst.ptc -poss.3sg
 \ft Who was it who built this?
 \ph
@@ -3516,8 +3516,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \ref
 \tx I     erek ịadu     ečin      ońerin,              ịnuččoːttan
 \mb i     erek ịak  -DU  erroːčin  oːńe   -RI  -n(I)     hịn        -U    -Č   -WEːČ -R(E)   -n(I)
-\ps conj  pron pron      pron      v                     v                                        
-\ge and.R prox what -dat prox.qual tie.up -pst -poss.3sg shove.into -caus -res -gnr  -nonfut -3sg 
+\ps conj  pron pron      pron      v                     v
+\ge and.R prox what -dat prox.qual tie.up -pst -poss.3sg shove.into -caus -res -gnr  -nonfut -3sg
 \ft And this, why did he tie it like this, that is shoved into (something).
 \ev
 \ru И вот это он зачем так завязал, это же засовуют (засовывается)
@@ -3529,21 +3529,21 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \ref
 \tx ešni
 \mb e   -R(E) -n(I)
-\ps v              
-\ge neg -nfut -3sg 
+\ps v
+\ge neg -nonfut -3sg
 \ft no
 \ev
 \ru нет
 \ELANBegin 00:19:59.380
 \ELANEnd 00:20:00.355
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_265
 \ref
 \tx ečin      ońen?
 \mb erroːčin  oːńe   -n(I)
-\ps pron      v           
-\ge prox.qual tie.up -3sg 
+\ps pron      v
+\ge prox.qual tie.up -3sg
 \ft it is tied like this?
 \ev
 \ru
@@ -3555,33 +3555,33 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \ref
 \tx ečin      biweːtten
 \mb erroːčin  bi -WEːČ -R(E)   -n(I)
-\ps pron      v                     
-\ge prox.qual be -gnr  -nonfut -3sg 
+\ps pron      v
+\ge prox.qual be -gnr  -nonfut -3sg
 \ft it can be like this
 \ev
 \ru так бывает
 \ELANBegin 00:20:00.823
 \ELANEnd 00:20:01.629
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_267
 \ref
 \tx bi   meːnken       ọːttiwutittakke                       erroːčim
-\mb biː meːn -KEn     ọː   -Č   -RI  -W        =tIt =DE  =kkE erroːčin  -W  
-\ps pron pron          v                                       pron          
+\mb biː meːn -KEn     ọː   -Č   -RI  -W        =tIt =DE  =kkE erroːčin  -W
+\ps pron pron          v                                       pron
 \ge 1sg refl -dim.int make -res -pst -poss.1sg =ptl =ptl =ptl prox.qual -acc
 \ft I myself have made (a sled) like this, right.
 \ev
 \ru я сам строил же тоже такое
 \ELANBegin 00:20:03.579
 \ELANEnd 00:20:05.971
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_268
 \ref
 \tx Bi   erroːčim      ịak ọːttiwu                ečin.
-\mb biː erroːčin  -W   ịak  ọː   -Č   -RI  -W        erroːčin 
-\ps pron pron           pron v                        pron     
+\mb biː erroːčin  -W   ịak  ọː   -Č   -RI  -W        erroːčin
+\ps pron pron           pron v                        pron
 \ge 1sg prox.qual -acc what make -res -pst -poss.1sg prox.qual
 \ft I haven't made (a sled) like that.
 \ev
@@ -3605,21 +3605,21 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_269
 \ref
 \tx A     bi   ọːttiwu                erroːčim      uŋe
-\mb a.R   biː ọː   -Č   -RI  -W        erroːčin  -W   uŋe     
-\ps ?     pron v                        pron           pron    
+\mb a.R   biː ọː   -Č   -RI  -W        erroːčin  -W   uŋe
+\ps ?     pron v                        pron           pron
 \ge but.R 1sg make -res -pst -poss.1sg prox.qual -acc this.one
 \ft But I made one like this.
 \ev
 \ru А я строил такое.
 \ELANBegin 00:20:08.571
 \ELANEnd 00:20:10.456
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_270
 \ref
 \tx Ineŋelbe ọːttiwu                tawụr uŋe     egdʒedmer     tụrkịw,    tarak kučukemgel          ečiwu             ọːtta.
-\mb ọː   -Č   -RI  -W        tawụr uŋe      egdʒen -dmEr  tụrkị -W   tarak kočuken -W   =gEl   e   -RI  -W        ọː   -Č   -R      
-\ps v                        pron  pron     adj           n          pron  adj                 v                  v                 
+\mb ọː   -Č   -RI  -W        tawụr uŋe      egdʒen -dmEr  tụrkị -W   tarak kočuken -W   =gEl   e   -RI  -W        ọː   -Č   -R
+\ps v                        pron  pron     adj           n          pron  adj                 v                  v
 \ge make -res -pst -poss.1sg this  this.one big    -contr sled  -acc dist  small   -acc =coord neg -pst -poss.1sg make -res -neg.cvb
 \ft I've made sleds for loads, big sleds, but such a small one I haven't made.
 \ev
@@ -3631,48 +3631,48 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_271
 \ref
 \tx Ujumkuniː    umekič biweːtten,             tụrkịdawmi.
-\mb ejumkun =Iː   umekič bi -WEːČ -R(E)   -n(I) tụrkị -DE -W     -mI      
-\ps ?             adv    v                      v                         
+\mb ejumkun =Iː   umekič bi -WEːČ -R(E)   -n(I) tụrkị -DE -W     -mI
+\ps ?             adv    v                      v
 \ge light   =emph very   be -gnr  -nonfut -3sg  sled  -vr -advrs -cond.cvb
 \ft They are very light when sledding.
 \ev
 \ru Очень легкие бывают когда едешь.
 \ELANBegin 00:20:17.125
 \ELANEnd 00:20:20.713
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_272
 \ref
 \tx Dọld... ajịtta          dọlčịn.
 \mb dọlda aj   -E  -Č   =DE  dọlčị  -n(I)
-\ps v     adj                v           
-\ge hear  good -ep -ins =ptl listen -3sg 
+\ps v     adj                v
+\ge hear  good -ep -ins =ptl listen -3sg
 \ft it obeys very well
 \ev
 \ru Хорошо слушается
 \ELANBegin 00:20:20.713
 \ELANEnd 00:20:23.105
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_273
 \ref
 \tx Daγrịttakan    buːdeldʒitken               uŋdʒinni
 \mb dagrịt =t(E)kEn boːdel -DʒI         =t(E)kEn uŋ -DʒI -nrI
-\ps adv             n                            v           
+\ps adv             n                            v
 \ge simply =restr   leg(s) -ins.prfl.sg =restr   do -fut -2sg
 \ft you only lightly do (something) with your legs
 \ev
 \ru слегка ногами только будешь делать
 \ELANBegin 00:20:23.105
 \ELANEnd 00:20:25.471
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_274
 \ref
 \tx Ŋịnalbi             maːččọːttan?
 \mb ŋịn -E  -L  -J       maː  -Č   -WEːČ -R(E)   -n(I)
-\ps n                    v                            
-\ge dog -ep -pl -prfl.sg kill -res -gnr  -nonfut -3sg 
+\ps n                    v
+\ge dog -ep -pl -prfl.sg kill -res -gnr  -nonfut -3sg
 \ft Does (someone?) kill his dogs?
 \ph
 \gr the resultative suffix = postojanno ubivaet, not many dogs (though of course if it's all the time, then I guess the number of dead dogs does add up...), maːwaːttan = odin raz
@@ -3687,8 +3687,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \ref
 \tx erek tar  maŋeč       ọːttan
 \mb erek tar  maŋ  -E  -Č   ọː   -Č   -R(E)   -n(I)
-\ps pron adv  n             v                      
-\ge prox thus hard -ep -ins make -res -nonfut -3sg 
+\ps pron adv  n             v
+\ge prox thus hard -ep -ins make -res -nonfut -3sg
 \ft this is made hard
 \ph
 \gr here, maŋ by itself means "hard", e.g. maŋ stol; one can also say erek maŋši
@@ -3701,7 +3701,7 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_275b
 \ref
 \tx iː
-\mb iː 
+\mb iː
 \ps interj
 \ge yes
 \ft yes
@@ -3714,8 +3714,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \ref
 \tx i     erek erekkel     ečinet          nan    bidʒin
 \mb i     erek erek =gEl   erroːčin  =et   ńaːn bi -DʒI -n(I)
-\ps conj  pron pron        pron            adv  v            
-\ge and.R prox prox =coord prox.qual =emph and  be -fut -3sg 
+\ps conj  pron pron        pron            adv  v
+\ge and.R prox prox =coord prox.qual =emph and  be -fut -3sg
 
 \ft and this will be like this
 \ph
@@ -3723,12 +3723,12 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \ru а вот это, вот так будет
 \ELANBegin 00:20:31.087
 \ELANEnd 00:20:34.520
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_276b
 \ref
 \tx iː
-\mb iː 
+\mb iː
 \ps interj
 \ge yes
 \ft yes
@@ -3740,8 +3740,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_277
 \ref
 \tx erkke     er   kojeːnni   awna... awnalan dʒawnir
-\mb erek =kkE erek kojeː -nrI awnalan awnalan dʒaːwnị -r  
-\ps pron      pron v          n       n       v           
+\mb erek =kkE erek kojeː -nrI awnalan awnalan dʒaːwnị -r
+\ps pron      pron v          n       n       v
 \ge prox =ptl prox watch -2sg awnalan awnalan yawn    -3pl
 
 \ft this here, look, the awnalan are yawning
@@ -3756,8 +3756,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_278
 \ref
 \tx awanni?
-\mb awan -n(I)    
-\ps n             
+\mb awan -n(I)
+\ps n
 \ge awan -poss.3sg
 \ft ???
 \ev
@@ -3777,7 +3777,7 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \ru
 \ELANBegin 00:20:38.796
 \ELANEnd 00:20:39.706
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_280
 \ref
@@ -3796,49 +3796,49 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \ref
 \tx awnalan
 \mb awnalan
-\ps n      
+\ps n
 \ge awnalan
 \ft awnalan
 \ev
 \ru
 \ELANBegin 00:20:40.980
 \ELANEnd 00:20:43.502
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_282
 \ref
 \tx erkke     er  uŋen
-\mb erek =kkE er  uŋen    
-\ps pron      ?   pron    
+\mb erek =kkE er  uŋen
+\ps pron      ?   pron
 \ge prox =ptl ptl this.one
-\ft this one here 
+\ft this one here
 \ph
 \nt probably he is pointing to the awnalan
 \ev
 \ru вот это же вот
 \ELANBegin 00:20:43.502
 \ELANEnd 00:20:45.803
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_283
 \ref
 \tx merellen,         ọldanni
-\mb merelle -n(I)     ọldaːn -n(I)    
-\ps n                 n               
+\mb merelle -n(I)     ọldaːn -n(I)
+\ps n                 n
 \ge ribs    -poss.3sg side   -poss.3sg
 \ft its ribs, its side
 \ev
 \ru его ребра, бока
 \ELANBegin 00:20:45.803
 \ELANEnd 00:20:48.390
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_284
 \ref
 \tx tawụr tože  ečintitta           xxx.
 \mb tawụr tože   erroːčin  =tIt =DE  *xxx
-\ps pron  ptl    pron                ?   
-\ge this  also.R prox.qual =ptl =ptl *** 
+\ps pron  ptl    pron                ?
+\ge this  also.R prox.qual =ptl =ptl ***
 \ft this is also like that.....
 \ph what he says at the end cannot be made out at all
 \ev
@@ -3851,20 +3851,20 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \ref
 \tx iŋe, erek erroːčinnititta              biweːtten
 \mb iŋe erek erroːčin  -n(I)     =tIt =DE  bi -WEːČ -R(E)   -n(I)
-\ps interj pron pron                          v                     
-\ge yes prox prox.qual -poss.3sg =ptl =ptl be -gnr  -nonfut -3sg 
+\ps interj pron pron                          v
+\ge yes prox prox.qual -poss.3sg =ptl =ptl be -gnr  -nonfut -3sg
 \ft yes, that can be like that
 \ev
 \ru
 \ELANBegin 00:20:49.898
 \ELANEnd 00:20:53.044
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_286
 \ref
 \tx Erekta     čajčịba             kučun                 ili  ịakko?
 \mb erek =t(E) čajčaba                 kuču         -n(I)     ili  ịak  =kkE
-\ps pron       n                       n                      conj pron     
+\ps pron       n                       n                      conj pron
 \ge prox =ptl  reindeer.herding.Koryak sleeping.bag -poss.3sg or.R what =ptl
 \ft Is this here a Koryak sleeping bag or what?
 \ev
@@ -3876,9 +3876,9 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_287
 \ref
 \tx esni           ọrọtti      bise
-\mb e   -R(E) -n(I) ọrọč  -DI   bi -R      
-\ps v               n           v          
-\ge neg -nfut -3sg  Oroch -adjr be -neg.cvb
+\mb e   -R(E) -n(I) ọrọč  -DI   bi -R
+\ps v               n           v
+\ge neg -nonfut -3sg  Oroch -adjr be -neg.cvb
 \ft it's not Even
 \ev
 \ru
@@ -3897,13 +3897,13 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \ru
 \ELANBegin 00:21:04.653
 \ELANEnd 00:21:05.329
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_289
 \ref
 \tx Aa, maxnjodukmaja         kučun                 iŋe, maxnjoduk       kopirujut
-\mb aa maxnjo  -DUk(U) =mEjE kuču         -n(I)     iŋe maxnjo  -DUk(U) kopirujut     
-\ps interj n                     n                      interj n               v             
+\mb aa maxnjo  -DUk(U) =mEjE kuču         -n(I)     iŋe maxnjo  -DUk(U) kopirujut
+\ps interj n                     n                      interj n               v
 \ge ah Russian -abl    =ptl  sleeping.bag -poss.3sg yes Russian -abl    copy.prs.3pl.R
 \ft Ah, it's a sleeping back from the Russians, it turns out, right, they copied from Russians
 \ev
@@ -3915,7 +3915,7 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_289b
 \ref
 \tx iː
-\mb iː 
+\mb iː
 \ps interj
 \ge yes
 \ft yes
@@ -3927,15 +3927,15 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_290
 \ref
 \tx uŋčeten
-\mb uŋ -čE     -tEn     
-\ps v                   
+\mb uŋ -čE     -tEn
+\ps v
 \ge do -pf.ptc -poss.3pl
 \ft they did (lit. that which they have done)
 \ev
 \ru сделали
 \ELANBegin 00:21:10.178
 \ELANEnd 00:21:11.283
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_291
 \ref
@@ -3950,35 +3950,35 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_292
 \ref
 \tx espalnikkawur                  erek zakazalčatan
-\mb spalnik        -GE    -WUr     erek zakazal       -čE     -tEn     
-\ps n                              pron v                              
+\mb spalnik        -GE    -WUr     erek zakazal       -čE     -tEn
+\ps n                              pron v
 \ge sleeping.bag.R -desig -prfl.pl prox order.pst.m.R -pf.ptc -poss.3pl
 \ft they ordered a sleeping bag for themselves
 \ev
 \ru спальник себе заказал
 \ELANBegin 00:21:11.647
 \ELANEnd 00:21:13.792
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_293
 \ref
 \tx ŋiːwut       zakazalča            nan    kut... buːriten
-\mb ŋiː =(W)UttE zakazal       -čE     ńaːn *** boː  -RI  -tEn     
-\ps pron         v                     adv  ?   v                  
+\mb ŋiː =(W)UttE zakazal       -čE     ńaːn *** boː  -RI  -tEn
+\ps pron         v                     adv  ?   v
 \ge who =indef   order.pst.m.R -pf.ptc and  *** give -pst -poss.3pl
 \ft someone ordered (it) and then they gave it (to the museum)
 \ev
 \ru кто-то заказал и вот отдали
 \ELANBegin 00:21:13.792
 \ELANEnd 00:21:18.875
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_294
 \ref
 \tx Erek untunda          tarma erek esni           ịlkan ọrọtti      a....
-\mb erek untun       =DE  tarma erek e   -R(E) -n(I) ịlkan ọrọč  -DI   a.R  
-\ps pron n                conj  pron v               adj   n           ?    
-\ge prox shaman.drum =ptl but   prox neg -nfut -3sg  true  Oroch -adjr but.R
+\mb erek untun       =DE  tarma erek e   -R(E) -n(I) ịlkan ọrọč  -DI   a.R
+\ps pron n                conj  pron v               adj   n           ?
+\ge prox shaman.drum =ptl but   prox neg -nonfut -3sg  true  Oroch -adjr but.R
 \ft This is a shaman's drum, but it's not really Even but...
 \ev
 \ru Это бубен тоже но это не очень эвенский...
@@ -3989,7 +3989,7 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_295
 \ref
 \tx iː
-\mb iː 
+\mb iː
 \ps interj
 \ge yes
 \ft yes
@@ -3997,13 +3997,13 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \ru
 \ELANBegin 00:21:24.049
 \ELANEnd 00:21:25.284
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_296
 \ref
 \tx ọːnkana,   erek nemnožko čajčịbaw                 dʒọŋịča.
-\mb ọːn =kEnE  erek nemnožko čajčaba                 -W   dʒọŋị          -čE    
-\ps pron       pron adv      n                            v                     
+\mb ọːn =kEnE  erek nemnožko čajčaba                 -W   dʒọŋị          -čE
+\ps pron       pron adv      n                            v
 \ge how =contr prox a.bit.R  reindeer.herding.Koryak -acc follow.example -pf.ptc
 \ft how is it, it copies the Koryak (drum) a bit.
 \ev
@@ -4017,7 +4017,7 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \tx Ịamị?
 \mb ịamị
 \ps pron
-\ge why 
+\ge why
 \ft why?
 \ev
 \ru
@@ -4028,18 +4028,18 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_298
 \ref
 \tx er   dʒawanmajan                      tarkke     dụlkalilan             ọrọčịlŋi,            erekesi       ekič     ụnụr,
-\mb erek dʒaw       -E  -nmEj -E  -n(I)     tarak =kkE dụlkali -(dU)LE -n(I)     ọrọč  -E  -L  -ŋI        erek -E  =sI   e   -kIč ụnụ        -R      
-\ps pron v                                  pron       rel.n                     n                        pron           v        v                  
+\mb erek dʒaw       -E  -nmEj -E  -n(I)     tarak =kkE dụlkali -(dU)LE -n(I)     ọrọč  -E  -L  -ŋI        erek -E  =sI   e   -kIč ụnụ        -R
+\ps pron v                                  pron       rel.n                     n                        pron           n        v 
 \ge prox catch.hold -ep -anr  -ep -poss.3sg dist  =ptl middle  -loc    -poss.3sg Oroch -ep -pl -pred.poss prox -ep =emph neg -nr  understand -neg.cvb
 
 \tx kojeːtli
-\mb kojeːt  -LI     
-\ps v                
+\mb kojeːt  -LI
+\ps v 
 \ge look.at -imp.2sg
 
 \ft the handle is in the middle in an Even (drum), but this one you cannot understand, look
 \ph
-\gr dulkali = po seredke; xleb dulkalič miːneli = po ravnu; po seredke rezh, 
+\gr dulkali = po seredke; xleb dulkalič miːneli = po ravnu; po seredke rezh,
 \nt i.e. here the handle is not in the middle where it should be, but a bit lower
 \ev
 \ru это ручка вот та по-середке у эвенов, а вот это не поймешь, смотри
@@ -4051,8 +4051,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \ref
 \tx To     li     čajčịbalŋi,                       čajčịbalŋi                        erdelen                     biweːtten
 \mb to     li     čajčaba                 -L  -ŋI        čajčaba                 -L  -ŋI        her    -gIdE -(dU)LE -n(I)     bi -WEːČ -R(E)   -n(I)
-\ps adj    ptl    n                                      n                                      rel.n                          v                     
-\ge that.R disj.R reindeer.herding.Koryak -pl -pred.poss reindeer.herding.Koryak -pl -pred.poss bottom -part -loc    -poss.3sg be -gnr  -nonfut -3sg 
+\ps adj    ptl    n                                      n                                      rel.n                          v
+\ge that.R disj.R reindeer.herding.Koryak -pl -pred.poss reindeer.herding.Koryak -pl -pred.poss bottom -part -loc    -poss.3sg be -gnr  -nonfut -3sg
 \ft It might be Koryak, in a Koryak (drum) (the handle) is in the bottom.
 \ev
 \ru то ли корякский, у коряков внизу бывает
@@ -4063,8 +4063,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_300
 \ref
 \tx Erekesi       ịakụč ọːčiddan,                    tačịnnun           ọːrin.
-\mb erek -E  =sI   ịakụč     ọː   -Č   -E  -D    -R(E)   -n(I) tarrọːčịn =nun  ọː   -RI  -n(I)    
-\ps pron           pron      v                                 pron            v                  
+\mb erek -E  =sI   ịakụč     ọː   -Č   -E  -D    -R(E)   -n(I) tarrọːčịn =nun  ọː   -RI  -n(I)
+\ps pron           pron      v                                 pron            v
 \ge prox -ep =emph somebody? make -res -ep -prog -nonfut -3sg  dist.qual =emph make -pst -poss.3sg
 
 \ft This one somebody made, made it any which way.
@@ -4078,13 +4078,13 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_301
 \ref
 \tx I,    uŋe,         tiːk olločiddiwun                     etikeːr     guːniten            ịak mereti bihin             ọrọčịl
-\mb i     uŋ        -E  tiek hollot -E  -D    -RI  -WUn         etikeːn -L  goːn -RI  -tEn      ịak  mereti bi -RI  -n(I)     ọrọč  -E  -L 
-\ps conj  n             adv  v                                  n           v                   pron ?      v                 n            
+\mb i     uŋ        -E  tiek hollot -E  -D    -RI  -WUn         etikeːn -L  goːn -RI  -tEn      ịak  mereti bi -RI  -n(I)     ọrọč  -E  -L
+\ps conj  n             adv  v                                  n           v                   pron ?      v                 n
 \ge and.R something -ep now  go     -ep -prog -pst -poss.1pl.ex old.man -pl say  -pst -poss.3pl what circle be -pst -poss.3sg Oroch -ep -pl
 
 \tx untunten,             a     uŋe,         ụmta urečinni.
-\mb untun       -tEn      a.R   uŋ        -E  ụmta ureːčin -n(I)    
-\ps n                     ?     n             n    adj              
+\mb untun       -tEn      a.R   uŋ        -E  ụmta ureːčin -n(I)
+\ps n                     ?     n             n    adj
 \ge shaman.drum -poss.3pl but.R something -ep egg  similar -poss.3sg
 \ft And now, when we went (somewhere), the old men said that Even shaman drums were not round, but shaped like an egg.
 \ev
@@ -4096,8 +4096,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_302
 \ref
 \tx I     dʒawanmajatan                    tarkke     elduk        bisin.
-\mb i     dʒaw       -E  -nmEj -E  -tEn      tarak =kkE hel  -DUk(U) bi -RI  -n(I)    
-\ps conj  v                                  pron       n            v                
+\mb i     dʒaw       -E  -nmEj -E  -tEn      tarak =kkE hel  -DUk(U) bi -RI  -n(I)
+\ps conj  v                                  pron       n            v
 \ge and.R catch.hold -ep -anr  -ep -poss.3pl dist  =ptl iron -abl    be -pst -poss.3sg
 \ft And the handle was (made) of metal.
 \ev
@@ -4109,8 +4109,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_303
 \ref
 \tx Erek ewgidelen                 ụkal  uŋe          uŋet           uŋelliten,              ọːnka    goːweːtte...
-\mb erek erek -gIdE -(dU)LE -n(I)     ụkal    uŋ        -E  uŋ        =et   uŋ -L    -RI  -tEn      ọːn =kkE goːn -WEːČ -R(E)  
-\ps pron pron                         adv     n             n               v                       pron     v                 
+\mb erek erek -gIdE -(dU)LE -n(I)     ụkal    uŋ        -E  uŋ        =et   uŋ -L    -RI  -tEn      ọːn =kkE goːn -WEːČ -R(E)
+\ps pron pron                         adv     n             n               v                       pron     v
 \ge prox prox -part -loc    -poss.3sg already something -ep something =emph do -inch -pst -poss.3pl how =ptl say  -gnr  -nonfut
 \ft This they started to do already closer in time (i.e. more recently), how do they say it...
 \ev
@@ -4122,8 +4122,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_304
 \ref
 \tx purustojič        ọːčallitan
-\mb prostoj    -E  -Č   ọː   -Č   -L    -RI  -tEn     
-\ps adj                 v                             
+\mb prostoj    -E  -Č   ọː   -Č   -L    -RI  -tEn
+\ps adj                 v
 \ge simple.m.R -ep -ins make -res -inch -pst -poss.3pl
 \ft they started to make it simply
 \ev
@@ -4144,8 +4144,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_306
 \ref
 \tx Mun        deduškalbun               uŋe          amaːnal       bisiten.
-\mb mun        deduška   -L  -WUn         uŋ        -E  samaːn -E  -L  bi -RI  -tEn     
-\ps ?          n                          n             n              v                
+\mb mun        deduška   -L  -WUn         uŋ        -E  samaːn -E  -L  bi -RI  -tEn
+\ps ?          n                          n             n              v
 \ge 1pl.ex.obl grandad.R -pl -poss.1pl.ex something -ep shaman -ep -pl be -pst -poss.3pl
 \ft Our grandfathers were shamans.
 \ev
@@ -4158,8 +4158,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \ref
 \tx Bi,  minu         gerburiten           tarkke     uŋe          min     deduškawu          uŋ,      amaŋawu              nọŋan gerbedʒin.
 \mb biː min     -W   gerbu -RI  -tEn      tarak =kkE uŋ        -E  min     deduška   -W        uŋ        amaŋa       -W        nọŋan gerbe -DʒI -n(I)
-\ps pron pron         v                    pron       n             pron    n                   n         n                     pron  v               
-\ge 1sg 1sg.obl -acc call  -pst -poss.3pl dist  =ptl something -ep 1sg.obl grandad.R -poss.1sg something grandfather -poss.1sg 3sg   name  -fut -3sg 
+\ps pron pron         v                    pron       n             pron    n                   n         n                     pron  v
+\ge 1sg 1sg.obl -acc call  -pst -poss.3pl dist  =ptl something -ep 1sg.obl grandad.R -poss.1sg something grandfather -poss.1sg 3sg   name  -fut -3sg
 \ft I... they called me with the name of my grandfather.
 \ev
 \ru Я, меня называли вот моего дедушки, его именем.
@@ -4170,8 +4170,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_308
 \ref
 \tx Nọŋan i     amaːn  bisin.
-\mb nọŋan i     samaːn bi -RI  -n(I)    
-\ps pron  conj  n      v                
+\mb nọŋan i     samaːn bi -RI  -n(I)
+\ps pron  conj  n      v
 \ge 3sg   and.R shaman be -pst -poss.3sg
 \ft It was he who was the shaman.
 \ev
@@ -4183,8 +4183,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_309
 \ref
 \tx I     nọŋan tože  uŋen
-\mb i     nọŋan tože   uŋ        -E  -n(I)    
-\ps conj  pron  ptl    n                      
+\mb i     nọŋan tože   uŋ        -E  -n(I)
+\ps conj  pron  ptl    n
 \ge and.R 3sg   also.R something -ep -poss.3sg
 \ft and his, too
 \ev
@@ -4196,8 +4196,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_310
 \ref
 \tx inŋi              ịakawụ?
-\mb hin     -ŋI        ịak  -awụ 
-\ps pron               pron      
+\mb hin     -ŋI        ịak  -awụ
+\ps pron               pron
 \ge 2sg.obl -pred.poss what -emph
 \ft who of yours (was a shaman)?
 \ev
@@ -4209,21 +4209,21 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_311
 \ref
 \tx deduškawu
-\mb deduška   -W       
-\ps n                  
+\mb deduška   -W
+\ps n
 \ge grandad.R -poss.1sg
 \ft my grandfather
-\ev  
+\ev
 \ru
 \ELANBegin 00:22:44.389
 \ELANEnd 00:22:45.871
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_311b
 \ref
 \tx gịa amaŋaštada
-\mb gịa   amaŋa       -s(I)     =t(E) =DE 
-\ps ?     n                               
+\mb gịa   amaŋa       -s(I)     =t(E) =DE
+\ps ?     n
 \ge other grandfather -poss.2sg =ptl  =ptl
 \ft your other grandfather too
 \ru второй твой дедушка тоже
@@ -4235,8 +4235,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_312
 \ref
 \tx iː, amaŋan               tože  amaːn  bisin.
-\mb iː  amaŋa       -n(I)     tože   samaːn bi -RI  -n(I)    
-\ps interj n                     ptl    n      v                
+\mb iː  amaŋa       -n(I)     tože   samaːn bi -RI  -n(I)
+\ps interj n                     ptl    n      v
 \ge yes grandfather -poss.3sg also.R shaman be -pst -poss.3sg
 \ft yes, his grandfather was also a shaman
 \ph
@@ -4250,8 +4250,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_313
 \ref
 \tx Nan    innen         amaŋaš              awụški       urrin?
-\mb ńaːn hin     =nEn  amaŋa       -s(I)     aw    -skI      hor -RI  -n(I)    
-\ps adv  pron          n                     pron            v                 
+\mb ńaːn hin     =nEn  amaŋa       -s(I)     aw    -skI      hor -RI  -n(I)
+\ps adv  pron          n                     pron            v
 \ge and  2sg.obl =emph grandfather -poss.2sg where -advb.all go  -pst -poss.3sg
 \ft And where did your grandfather go to?
 \ev
@@ -4263,8 +4263,8 @@ says the suffix means "a long time ago"; "eshe govorjat: erek iak oletlen "eto k
 \id Ichanga_Adukanov_muzej1_cont_314
 \ref
 \tx Aa, meːnken?
-\mb aa meːn -KEn    
-\ps interj pron         
+\mb aa meːn -KEn
+\ps interj pron
 \ge ah refl -dim.int
 \ft ah, by himself?
 \ph
@@ -4280,15 +4280,15 @@ of a non sequitur
 \id Ichanga_Adukanov_muzej1_cont_315
 \ref
 \tx meːnken
-\mb meːn -KEn    
-\ps pron         
+\mb meːn -KEn
+\ps pron
 \ge refl -dim.int
 \ft by himself
 \ev
 \ru
 \ELANBegin 00:22:59.781
 \ELANEnd 00:23:00.652
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_316
 \ref
@@ -4304,8 +4304,8 @@ of a non sequitur
 \ref
 \tx Minŋi             ekič     ụnụr            očestvonda                 ịak bisni,          ačča
 \mb min     -ŋI        e   -kIč ụnụ        -R       očestvo      -n(I)     =DE  ịak  bi -R(E)   -n(I) ačča
-\ps pron               v        v                   n                           pron v                ptl 
-\ge 1sg.obl -pred.poss neg -nr  understand -neg.cvb patronymic.R -poss.3sg =ptl what be -nonfut -3sg  neg 
+\ps pron               n        v                   n                           pron v                ptl 
+\ge 1sg.obl -pred.poss neg -nr  understand -neg.cvb patronymic.R -poss.3sg =ptl what be -nonfut -3sg  neg
 \ft with mine it's unclear, and he didn't have a patronymic
 \ph
 \gr interesting: in the transcription/translation session, Rimma listened to this, clarified part of it for me and then said "kak dalshe, ochestvonda chego, u nego ne bylo, kak on skazal" -
@@ -4321,14 +4321,14 @@ about him except for his name
 \id Ichanga_Adukanov_muzej1_cont_318
 \ref
 \tx Čeledʒur         dʒọːŋčịr   ọːn mintede            gerbewu         a     očestvawan                    ŋiːde    esten       dʒọːŋčịr
-\mb čele -dʒUr        dʒọŋčị   -r   ọːn min     =t(E) =DE  gerbe -W        a.R   očestvo      -W   -E  -n(I)     ŋiː =DE  e   -R(E)   dʒọŋčị   -R      
-\ps ?                 n             pron pron               n               ?     n                               pron     v           v                 
+\mb čele -dʒUr        dʒọŋčị   -r   ọːn min     =t(E) =DE  gerbe -W        a.R   očestvo      -W   -E  -n(I)     ŋiː =DE  e   -R(E)   dʒọŋčị   -R
+\ps ?                 n             pron pron               n               ?     n                               pron     v           v 
 \ge all  -ins.prfl.pl remember -3pl how 1sg.obl =ptl  =ptl name  -poss.1sg but.R patronymic.R -acc -ep -poss.3sg who =ptl neg -nonfut remember -neg.cvb
 
 \tx ọːnụt.
 \mb ọːn =(W)UttE
-\ps pron        
-\ge how =indef  
+\ps pron
+\ge how =indef
 
 \ft Everyone remembers that (his) is also my name, but his patronymic no-one remembers, how it was.
 \ev
@@ -4340,8 +4340,8 @@ about him except for his name
 \id Ichanga_Adukanov_muzej1_cont_320
 \ref
 \tx Ivan, uŋe,    Koljakka   Fomičke    tawụr nọŋartan ịlan bišiten
-\mb Ivan uŋe      Kolja =kkE Fomich =kkE tawụr nọŋartan ịlan  bi -RI  -tEn     
-\ps ?    pron     ?          ?           pron  pron     num   v                
+\mb Ivan uŋe      Kolja =kkE Fomich =kkE tawụr nọŋartan ịlan  bi -RI  -tEn
+\ps ?    pron     ?          ?           pron  pron     num   v
 \ge Ivan this.one Kolja =ptl Fomich =ptl this  3pl      three be -pst -poss.3pl
 \ft That Ivan, and Kolja Fomich, they were three (brothers), right.
 \ph
@@ -4356,8 +4356,8 @@ about him except for his name
 \id Ichanga_Adukanov_muzej1_cont_321
 \ref
 \tx Tawụr nọŋan tože  dvojurodnoj deduška  uŋe          amaŋawu
-\mb tawụr nọŋan tože   dvojurodnyj deduška   uŋ        -E  amaŋa       -W       
-\ps pron  pron  ptl    adj         n         n             n                    
+\mb tawụr nọŋan tože   dvojurodnyj deduška   uŋ        -E  amaŋa       -W
+\ps pron  pron  ptl    adj         n         n             n
 \ge this  3sg   also.R cousin.R    grandad.R something -ep grandfather -poss.1sg
 \ft Now he is also a great-uncle of mine.
 \ph
@@ -4372,8 +4372,8 @@ first and last siblings; Rimma said someone who is considered her daughter Svetl
 \id Ichanga_Adukanov_muzej1_cont_322
 \ref
 \tx Min     amaŋawu              ịlkan rodnoj      i     uŋen    ekmu,            ekenduli       vot    tože, ah, ŋiːkene?
-\mb min     amaŋa       -W        ịlkan rodnoj      i     uŋen     eken   -W        eken   -(dU)LI vot    tože   ah ŋiː =kEnE 
-\ps pron    n                     adj   adj         conj  pron     n                n              ptl    ptl    interj pron      
+\mb min     amaŋa       -W        ịlkan rodnoj      i     uŋen     eken   -W        eken   -(dU)LI vot    tože   ah ŋiː =kEnE
+\ps pron    n                     adj   adj         conj  pron     n                n              ptl    ptl    interj pron
 \ge 1sg.obl grandfather -poss.1sg true  related.m.R and.R this.one mother -poss.1sg mother -prol   here.R also.R ah who =contr
 \ft My grandfather, truly related in the mother's line, he too, who was it?
 \ph
@@ -4387,8 +4387,8 @@ first and last siblings; Rimma said someone who is considered her daughter Svetl
 \id Ichanga_Adukanov_muzej1_cont_324
 \ref
 \tx Kọč   omettu   mut    tarak uŋen    amaŋatke                     eč      bihe
-\mb kọč      omettu   mut    tarak uŋen     amaŋa       -t(I)        =kkE e   -RI  bi -R      
-\ps adv      adv      pron   pron  pron     n                             v        v          
+\mb kọč      omettu   mut    tarak uŋen     amaŋa       -t(I)        =kkE e   -RI  bi -R
+\ps adv      adv      pron   pron  pron     n                             v        v
 \ge probably together 1pl.in dist  this.one grandfather -poss.1pl.in =ptl neg -pst be -neg.cvb
 \ft Probably you and I have a (shared) grandfather.
 \ev
@@ -4408,13 +4408,13 @@ first and last siblings; Rimma said someone who is considered her daughter Svetl
 \ru
 \ELANBegin 00:23:41.056
 \ELANEnd 00:23:41.823
-\ELANParticipant ASA 
+\ELANParticipant ASA
 
 \id Ichanga_Adukanov_muzej1_cont_326
 \ref
 \tx ọmŋaram,          ọńariwu            uŋdule,          esem             dʒọŋčịr
-\mb ọmŋa   -R(E)   -m   ọńa   -RI  -W        uŋ        -(dU)LE e   -R(E)   -m   dʒọŋčị   -R      
-\ps v                   v                    n                 v                v                
+\mb ọmŋa   -R(E)   -m   ọńa   -RI  -W        uŋ        -(dU)LE e   -R(E)   -m   dʒọŋčị   -R
+\ps v                   v                    n                 v                v
 \ge forget -nonfut -1sg write -pst -poss.1sg something -loc    neg -nonfut -1sg remember -neg.cvb
 \ft I forgot, I wrote it on something, I don't remember
 \ev
@@ -4427,7 +4427,7 @@ first and last siblings; Rimma said someone who is considered her daughter Svetl
 \ref
 \tx Adukanov...
 \mb Adukanov
-\ps ?       
+\ps ?
 \ge Adukanov
 \ft Adukanov...
 \ev
@@ -4439,8 +4439,8 @@ first and last siblings; Rimma said someone who is considered her daughter Svetl
 \id Ichanga_Adukanov_muzej1_cont_328
 \ref
 \tx ọmŋaram
-\mb ọmŋa   -R(E)   -m  
-\ps v                  
+\mb ọmŋa   -R(E)   -m
+\ps v
 \ge forget -nonfut -1sg
 \ft I forgot
 \ev
@@ -4452,8 +4452,8 @@ first and last siblings; Rimma said someone who is considered her daughter Svetl
 \id Ichanga_Adukanov_muzej1_cont_329
 \ref
 \tx ọńariwu            bumagala        tam...
-\mb ọńa   -RI  -W        bumaga  -(dU)LE tam    
-\ps v                    n               adv    
+\mb ọńa   -RI  -W        bumaga  -(dU)LE tam
+\ps v                    n               adv
 \ge write -pst -poss.1sg paper.R -loc    there.R
 \ft I wrote it on paper, there
 \ev
@@ -4470,7 +4470,7 @@ first and last siblings; Rimma said someone who is considered her daughter Svetl
 \ru
 \ELANBegin 00:23:59.061
 \ELANEnd 00:24:05.405
-\ELANParticipant BP 
+\ELANParticipant BP
 
 \id Ichanga_Adukanov_muzej1_cont_331
 \ref

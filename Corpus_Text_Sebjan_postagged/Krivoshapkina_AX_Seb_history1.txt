@@ -36,7 +36,7 @@ Nikitin. She was 65 years old at the time of recording, had worked as a nurse, t
 \tx Sevieskej bịlaːs Lamunkinskij naslegtu    ŋenedʒiken          ehni           ọːbgarar                ịakta.
 \mb sovetskij bïlaːs  Lamunxinskij nasleg -DU  ŋeneːdʒin   -KEn     e   -R(E) -n(I) ọː   -B   -Gr(E) -R       ịak  =DE 
 \ps adj       n       ?            n           adv                  v               v                         pron     
-\ge Soviet.R  power.Y Lamunxin     nasleg -dat immediately -dim.int neg -nfut -3sg  make -med -hab   -neg.cvb what =ptl
+\ge Soviet.R  power.Y Lamunxin     nasleg -dat immediately -dim.int neg -nonfut -3sg  make -med -hab   -neg.cvb what =ptl
 \ft The Soviets (didn't come to power immediately) in the Lamunxin nasleg.... nothing is done immediately.
 \ph
 \gr this sentence isn't quite skladno - she starts off in such a way that she probably wanted to say "The Soviets didn't immediately come to power",
@@ -101,7 +101,7 @@ to camp to tell.
 
 \tx emudʒir,             burduk  značit   po-jakutski dʒeblew       ịrụnịkan      gennemčelti.
 \mb em   -U    -DʒI -r   burduk  značit    po-jakutski dʒep -LE -W   ịr   -U    -nIkEn   gelne    -mč(I) -L  -t(I)       
-\ps v                    n       ptl       adv         v             v                   v                               
+\ps v                    n       ptl       adv         n             v                   v                                
 \ge come -caus -fut -3pl flour.R that.is.R in.Sakha.R  eat  -nr -acc cart -caus -sim.cvb go.fetch -sbjv  -pl -poss.1pl.in
 \ft If we do everything together, they will bring flour, that is "burduk" in Sakha, we should go fetch food with sleds.
 \ph mụkawdụ
@@ -114,7 +114,7 @@ to camp to tell.
 \id AXK_Sebjan_history_1_007
 \tx Erek ịbga   tegečepti                         ịaw      dʒọŋịgal             mute   goːniken      ukčennečel
 \mb erek ịbgọ teg      -E  -Č   -E  -B   -RI       ịak  -W   dʒọŋị          -GEr        mut    goːn -nIkEn   ukčen -nE     -čE     -L 
-\ps pron ?    v                                    pron      n                          pron   v             v                         
+\ps pron ?    v                                    pron      n                          pron   v             v                          
 \ge prox good sit.down -ep -res -ep -med -impf.ptc what -acc follow.example -imp.1pl.in 1pl.in say  -sim.cvb tell  -intent -pf.ptc -pl
 \ft Let's us follow the example of this good life they went to tell (other people).
 \ph
@@ -194,7 +194,7 @@ to camp to tell.
 
 \tx honte erikitle                  tegečiddi                          ebeheldule.
 \mb honte orin        -kIč -(dU)LE teg      -E  -Č   -E  -D    -RI       ewen -SEl -(dU)LE
-\ps adj   v                        v                                     n                
+\ps adj   n                        v                                     n                 
 \ge other set.up.camp -nr  -loc    sit.down -ep -res -ep -prog -impf.ptc Even -pl  -loc   
 \ft Having caught their reindeer they set off to tell the Evens living in other camps.
 \ph
@@ -209,7 +209,7 @@ I remember from Dmitrij Vasilevich Stepanov as well, what he said about the new 
 \id AXK_Sebjan_history_1_013
 \tx Omen orikitle                  emčel.
 \mb omen orin        -kIč -(dU)LE em   -čE     -L 
-\ps num  n                        v                
+\ps num  n                        v                  
 \ge one  set.up.camp -nr  -loc    come -pf.ptc -pl
 \ft They came to one camp.
 \ru На одно стоянку приехали.
@@ -220,7 +220,7 @@ I remember from Dmitrij Vasilevich Stepanov as well, what he said about the new 
 \id AXK_Sebjan_history_1_014
 \tx Tarak orikit            bọllaγịna ele.
 \mb tarak orin        -kIč buollaγïna erek -(dU)LE
-\ps pron  n                ptl        pron         
+\ps pron  n                ptl        pron           
 \ge dist  set.up.camp -nr  dp.Y       prox -loc   
 \ft As for that camp, it was here.
 \ru Это стойбище здесь.
@@ -231,7 +231,7 @@ I remember from Dmitrij Vasilevich Stepanov as well, what he said about the new 
 \id AXK_Sebjan_history_1_015
 \tx Erek, erek tor   bọlla      wabše       gluxaja tajga   biče.
 \mb erek erek tor   buollaγïna voobše       gluxaja tajga   bi -čE    
-\ps pron n n     ptl        adv          adj     n       v          
+\ps pron n n     ptl        adv          adj     n       v           
 \ge prox prox earth dp.Y       in.general.R wild.R  taiga.R be -pf.ptc
 \ft This place however was completely wild taiga.
 \ru Это место было вообще глухая тайга.
@@ -350,7 +350,7 @@ grandmother, so she knows the family), these male relatives would not have been 
 \tx Nọŋan honte egdʒen toreldule            ịbga   tegečeptiw                            ọːddan.
 \mb nọŋan honte egdʒen tor   -E  -L  -(dU)LE ịbgọ teg      -E  -Č   -E  -B   -RI      -W   ọː   -D    -R(E)   -n(I)
 \ps pron  adj   adj    n                     ?    v                                        v                       
-\ge 3sg   other big    earth -ep -pl -loc    good sit.down -ep -res -ep -med -ipf.ptc -acc make -prog -nonfut -3sg 
+\ge 3sg   other big    earth -ep -pl -loc    good sit.down -ep -res -ep -med -impf.ptc -acc make -prog -nonfut -3sg 
 \ft He is making a good life in other big places.
 \ru Он в других больших землях (странах) хорошую жизнь делает.
 \ELANBegin 00:03:23.240
@@ -387,7 +387,7 @@ grandmother, so she knows the family), these male relatives would not have been 
 
 \tx čịldadaːr,              irildude         ịbgat       čịldadaːr               họːja dʒeple   bidʒin.
 \mb čịlda   -DE       -WUr     ireli  -DU  =DE  ịbgọ -Č   čịlda   -DE       -WUr     họːja dʒep -LE bi -DʒI -n(I)
-\ps v                          n                n         v                          quant v        v            
+\ps v                          n                n         v                          quant n        v             
 \ge survive -purp.cvb -prfl.pl summer -dat =ptl good -ins survive -purp.cvb -prfl.pl many  eat  -nr be -fut -3sg 
 \ft Let us gather all our reindeer together, so that we will live through the winter well, and so that we will live through the summer well, there will
 be a lot of food.
@@ -401,7 +401,7 @@ be a lot of food.
 \id AXK_Sebjan_history_1_028
 \tx Ńan   gennegelde           tiːke uduk         dʒoːr ńama   tụŋŋan kilemeterre      omen ịak bihni
 \mb ńaːn gelne    -GEr        tiek erek -DUk(U) dʒoːr ńama    tụnŋan kilometr -(dU)LE omen ịak  bi -R(E)   -n(I)
-\ps adv  v                    adv  pron         num   n     num    n                num  pron v                
+\ps adv  v                    adv  pron         num   n     num    n                num  pron v                 
 \ge and  go.fetch -imp.1pl.in now  prox -abl    two   hundred five   km.R     -loc    one  what be -nonfut -3sg 
 
 \tx goːnčel.
@@ -1041,12 +1041,12 @@ he said.
 \id AXK_Sebjan_history_1_073
 \tx Ńamịčam          hịramŋa,    ịalbụ      ńulendu        ńulemŋet,           ńulgemi          ńulgew      ịanịkan
 \mb ńamịčan         -W   hịr  -E  -mŋE  ịak  -L  -W   ńuːlende -W   ńuːlende -mŋE  -Č   nulge   -mI       nulge   -W   ịak  -nIkEn  
-\ps n                    v              pron          n             n                   v                 v            v            
+\ps n                    n              pron          n             n                   v                 v            v             
 \ge female.reindeer -acc milk -ep -agnr what -pl -acc suède    -acc suède    -agnr -ins migrate -cond.cvb migrate -acc what -sim.cvb
 
 \tx dʒugutniken       ńulgeniken,     kụŋaw     kojeːtniken,    ịaw      čajịŋmatna
 \mb dʒugut    -nIkEn   nulge   -nIkEn   kụŋa  -W   kojeːt  -nIkEn   ịak  -W   čaj   -E  -ŋ   -W   -E  -tEn     
-\ps v                  n                n          v                n      n                                 
+\ps v                  n                n          v                n      n                                  
 \ge transport -sim.cvb migrate -sim.cvb child -acc look.at -sim.cvb what -acc tea.R -ep -aln -acc -ep -poss.3pl
 
 \tx uldeŋmetne                  hujutniken,              tačịn.
@@ -1271,7 +1271,7 @@ moved from time to time so that they don't rub the reindeer
 \tx pradụktačakalbụ     hịńaptị,                axọtnịkaldụ    alenevọtaldụ              boːčeptiw.
 \mb produkty -čEkEn -L  -W   hịn        -E  -B   -RI       oxotnik  -E  -L  -DU  olenevod          -E  -L  -DU  boː  -Č   -E  -B   -RI      -W  
 \ps n                        v                             n                     n                              v                               
-\ge food.R   -plen  -pl -acc shove.into -ep -med -impf.ptc hunter.R -ep -pl -dat reindeer.herder.R -ep -pl -dat give -res -ep -med -ipf.ptc -acc
+\ge food.R   -plen  -pl -acc shove.into -ep -med -impf.ptc hunter.R -ep -pl -dat reindeer.herder.R -ep -pl -dat give -res -ep -med -impf.ptc -acc
 \ft Then next to that they made a tiny little storage shed like this to store food that was being given to the hunters and reindeer herders.
 \ph
 \gr the acc on boːčeptiw is because it stand by itself; axọtnịkaldụ boːčepti pradụktačakalbụ hịńapit
@@ -1410,7 +1410,7 @@ an occasionally inceptive meaning
 \tx Họːja tala          gurgep       gurgeptiw               ukčenmi         họːja, dʒiŋ họːja, daskanalno   ukčemmi
 \mb họːja tarak -(dU)LE gurgeː -B   gurgeː -B   -RI      -W   ukčen -mI       họːja dʒiŋ   họːja doskonal'no  ukčen -mI      
 \ps quant pron          n           n                         v               quant adv    quant adv          v              
-\ge many  dist  -loc    work   -med work   -med -ipf.ptc -acc tell  -cond.cvb many  very.Y many  thoroughly.R tell  -cond.cvb
+\ge many  dist  -loc    work   -med work   -med -impf.ptc -acc tell  -cond.cvb many  very.Y many  thoroughly.R tell  -cond.cvb
 
 \tx ịak baγajị.
 \mb ịak  baγajï
@@ -1626,7 +1626,7 @@ an occasionally inceptive meaning
 \tx Hawdị bej toreriwen                         ọːkta    depki    este        torewrer              noste bejelni.
 \mb hagdị bej tore  -RI      -W   -E  -n(I)     ọːk  =DE  deːpki   e   -R(E)   tore  -Gr(E) -R       noste bej -E  -L  -n(I)    
 \ps adj   n   v                                 pron      postpos  v           v                     adj   n                    
-\ge old   man speak -ipf.ptc -acc -ep -poss.3sg when =ptl opposite neg -nonfut speak -hab   -neg.cvb young man -ep -pl -poss.3sg
+\ge old   man speak -impf.ptc -acc -ep -poss.3sg when =ptl opposite neg -nonfut speak -hab   -neg.cvb young man -ep -pl -poss.3sg
 
 \ft What an old person has said they never contradicted, young people.
 \ph bejelni = probably the poss.3sg is just a slip of the tongue

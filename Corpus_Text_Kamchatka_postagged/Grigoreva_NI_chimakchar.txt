@@ -61,7 +61,7 @@ husband and children.
 \ref
 \tx Erro, gurgelereːj           bišitene.
 \mb erro gurgeː -LEn -L  =eː   bi -RI  -tEn      -E 
-\ps interj n                     v                    
+\ps interj n                     v                     
 \ge oh   work   -nr  -pl =emph be -pst -poss.3pl -ep
 \ft Oh, they were very hard-working.
 \ph
@@ -76,7 +76,7 @@ husband and children.
 \ref
 \tx Badʒịkarta     ịllidʒurte,              gurgeːwčileddʒoːtteši                    mọːŋgawurgali                 kimmoːtte.
 \mb badʒịkar =t(E) ịl       -RIdʒI   -L  =t(E) gurgeːwči -L    -D    -WEːČ -R(E)   =sI   mọː  -ŋ   -GE    -WUr     =gEli kim     -WEːČ -R(E)  
-\ps n              n                           v                                         n                               v                     
+\ps n              n                           v                                         n                               v                      
 \ge morning  =ptl  stand.up -ant.cvb -pl =ptl  work      -inch -prog -gnr  -nonfut =emph tree -aln -desig -prfl.pl =emph prepare -gnr  -nonfut
 
 \ft As soon as they stand up in the morning they start to work, they prepare firewood for themselves.
@@ -123,7 +123,7 @@ husband and children.
 \ref
 \tx Eštendetitte         oːšelloːtteda,                 čakačidmi                 dʒebleŋgewur.
 \mb e   -R(E)   =DE  =tIt oseːl        -WEːČ -R(E)   =DE  čak    -Č   -D    -mI       dʒeb -LE -ŋ   -GE    -WUr    
-\ps v                     v                               v                           v                            
+\ps v                     v                               v                           n                             
 \ge neg -nonfut =ptl =ptl become.tired -gnr  -nonfut =ptl gather -res -prog -cond.cvb eat  -nr -aln -desig -prfl.pl
 \ft They never got tired gathering food for themselves.
 \ph actually says ešendetitte
@@ -137,7 +137,7 @@ husband and children.
 \ref
 \tx Tugenitki      tarak non kimučiddʒoːtte,                       edewur                 tugeni... tugenidu    dʒemedde.
 \mb tugeni -t(E)kI tarak *** kim     -U    -Č   -D    -WEːČ -R(E)   e   -DE       -WUr     tugeni tugeni -DU  dʒem   -E  -D    -R      
-\ps n              pron  ?   n                                      v                      n      n           v                         
+\ps n              pron  ?   n                                      v                      n      n           v                          
 \ge winter -all    dist  *** prepare -caus -res -prog -gnr  -nonfut neg -purp.cvb -prfl.pl winter winter -dat starve -ep -prog -neg.cvb
 
 \ft They were preparing for winter, so that they would not starve in winter.
@@ -430,7 +430,7 @@ saying "guːnni" and translated that way, I think it's clear she says guːne; an
 \ref
 \tx "Amaŋa,    ewuški        emni,         dʒebleŋgeš                   er  boːdekun,                  emni!
 \mb amaŋa       erek -skI      em   -LI      dʒeb -LE -ŋ   -GE    -s(I)     er  boː  -DE       -WUn         em   -LI     
-\ps n           pron           v             v                              ?   v                           v            
+\ps n           pron           v             n                              ?   v                           v             
 \ge grandfather prox -advb.all come -imp.2sg eat  -nr -aln -desig -poss.2sg ptl give -purp.cvb -poss.1pl.ex come -imp.2sg
 \ft "Grandad, come here, we'll give you food, come!
 \ev
@@ -443,7 +443,7 @@ saying "guːnni" and translated that way, I think it's clear she says guːne; an
 \ref
 \tx Supaŋgašiː                          dallawu    olettiwun.
 \mb sup    -E  -ŋ   -GE    -s(I)     =Iː   dalra -W   oleː -Č   -RI  -WUn        
-\ps n                                      adj        v                           
+\ps n                                      adj        v                            
 \ge soup.R -ep -aln -desig -poss.2sg =emph tasty -acc cook -res -pst -poss.1pl.ex
 \ft We cooked a tasty soup for you.
 \ev
@@ -710,7 +710,7 @@ but they are rabotjashie and the starik needs to learn a lesson
 \tx Iː, erroː, dọlbịklan              tačịkan uklerem,           ịamị ečilšen,             atịkankke    ešni          minu
 \mb iː  erroːj  dọlba -klE     -n(I)     tačịkan   hukle -R(E)   -m   ịamị e   -RI  -L  -sEn      atịkan    =kkE e   -R(E) -n(I) min     -W  
 \ps interj interj  n                        adv       v                  pron v                      n              v               pron        
-\ge yes oh.dear night -all.loc -poss.3sg like.that sleep -nonfut -1sg why  neg -pst -pl -poss.2pl old.woman =ptl neg -nfut -3sg  1sg.obl -acc
+\ge yes oh.dear night -all.loc -poss.3sg like.that sleep -nonfut -1sg why  neg -pst -pl -poss.2pl old.woman =ptl neg -nonfut -3sg  1sg.obl -acc
 
 \tx tar  alačidda.
 \mb tar  alat -E  -D    -R      
@@ -796,7 +796,7 @@ but they are rabotjashie and the starik needs to learn a lesson
 \tx Ešnimaja            ịak alačịddan,              uŋeddeniː,                 kọčajiddan                     umekiče.
 \mb e   -R(E) -n(I) =mEjE ịak  alat -E  -D    -R(E)   -n(I) uŋ -D    -R(E)   -n(I) =Iː   kọčaj       -E  -D    -R(E)   -n(I) umekič -E 
 \ps v                     pron v                            v                            v                                   adv       
-\ge neg -nfut -3sg  =ptl  what wait -ep -prog -nonfut -3sg  do -prog -nonfut -3sg  =emph scrape.hide -ep -prog -nonfut -3sg  very   -ep
+\ge neg -nonfut -3sg  =ptl  what wait -ep -prog -nonfut -3sg  do -prog -nonfut -3sg  =emph scrape.hide -ep -prog -nonfut -3sg  very   -ep
 \ft No, it turns out she's not waiting, she's scraping hide very actively.
 \ev
 \ru О нет оказывается, она не ждет, она шкуру скоблит.
@@ -854,7 +854,7 @@ but they are rabotjashie and the starik needs to learn a lesson
 \tx Ešnikke            taːjịl ọːda."
 \mb e   -R(E) -n(I) =kkE taːjịl ọː     -R      
 \ps v                    n      v              
-\ge neg -nfut -3sg  =ptl stupid become -neg.cvb
+\ge neg -nonfut -3sg  =ptl stupid become -neg.cvb
 \ft He's probably become stupid."
 \ev
 \ru Наверно дураком стал.
@@ -995,7 +995,7 @@ on delaet? the "indef" clitics seem to have an intensifying, emphatic meaning - 
 \tx "Esnek,              etikeːn, ịadaj                    iːkke    tawụr taːjịldalanni?
 \mb e   -R(E) -n(I) =ek   etikeːn ịa      -DE       -J       hiː =kkE tawụr taːjịl -DE -L    -R(E)   -nrI
 \ps v                     n       v                          pron     pron  v                            
-\ge neg -nfut -3sg  =emph old.man do.what -purp.cvb -prfl.sg 2sg =ptl this  stupid -vr -inch -nonfut -2sg
+\ge neg -nonfut -3sg  =emph old.man do.what -purp.cvb -prfl.sg 2sg =ptl this  stupid -vr -inch -nonfut -2sg
 
 \ft "But no, old man, why are YOU turning stupid?
 \ph
@@ -1265,7 +1265,7 @@ them" - so that's how I translated it
 \ref
 \tx Ịamị iekeńdʒewur         ụkal  ečin:     "er dʒebleŋgaš                   oleriwun                dallawịː      tukeru".
 \mb ịamị ieke -ńdʒE -WUr     ụkal    erroːčin  er  dʒeb -LE -ŋ   -GE    -s(I)     oleː -RI  -WUn         dalra -W   =Iː   tuker      -W  
-\ps ?    n                   adv     pron      ?   v                              v                      adj              n              
+\ps ?    n                   adv     pron      ?   n                              v                      adj              n               
 \ge ptl  pot  -aug  -prfl.pl already prox.qual ptl eat  -nr -aln -desig -poss.2sg cook -pst -poss.1pl.ex tasty -acc =emph lily.roots -acc
 
 \ft And they already (bring) their big pot, and like this "We have cooked some food for you, tasty lily roots".
@@ -1280,7 +1280,7 @@ them" - so that's how I translated it
 \ref
 \tx Nan    tarak ireptu họmŋan     etikekeje        nan    ittidʒite         taraw      dʒeplew:
 \mb ńaːn tarak ireptu ọmŋa   -n(I) etikeːn -kEːjE ńaːn it  -RIdʒI   =t(E) tarak -W   dʒeb -LE -W  
-\ps adv  pron  ptl    v            n              n  v                  pron       v             
+\ps adv  pron  ptl    v            n              n  v                  pron       n               
 \ge and  dist  even   forget -3sg  old.man -aug   and  see -ant.cvb =ptl  dist  -acc eat  -nr -acc
 \ft And again that old man forgot (everything), having seen that food:
 \ev
@@ -1293,7 +1293,7 @@ them" - so that's how I translated it
 \ref
 \tx dalla
 \mb dalra
-\ps adj   
+\ps adj    
 \ge tasty
 \ft tasty
 \ph "sniff, dalla, sniff"
@@ -1423,12 +1423,12 @@ occurs, but without the repetition; =nun usilivaet
 
 \tx ečin      ŋenne       nanaši      ịašal, ịašaldụlan         ečin      oːńeriten           ukelliw        ečin,     uŋu
 \mb erroːčin  ŋen -R(E)   ńaːn =sI   ịašal ịašal -(dU)LE -n(I)     erroːčin  oːńe   -RI  -tEn      hukel -LE -W   erroːčin  uŋ        -W  
-\ps pron      v           adv        n     n                       pron      v                     n              pron      n             
+\ps pron      v           adv        n     n                       pron      v                     n              pron      n              
 \ge prox.qual go  -nonfut and  =emph eyes  eyes  -loc    -poss.3sg prox.qual tie.up -pst -poss.3pl hang  -nr -acc prox.qual something -acc
 
 \tx ŋuleńeč    ŋuleńew     tulliten.
 \mb ŋuleńe -Č   ŋuleńe -W   tul -RI  -tEn     
-\ps adj         adj         v                  
+\ps adj         adj         v                   
 \ge red    -ins red    -acc set -pst -poss.3pl
 
 \ft And this old man fell asleep, snoring very loudly, and the mice did what, they went up to him and tied pendants like this to his eyes, fastened something red.
@@ -2024,12 +2024,12 @@ examples to be able to say what it is
 \ref
 \tx Čimakčajakeːr            umekič dikeŋči...           dikeŋčileddeši                            ...  ọrakaγ
 \mb čimakčan -jEkEn -L  =eː   umekič dekin      -E  -(k)čI dekin      -(k)čI -L    -D    -R(E)   =sI   *... ọraːt -K(Ag)
-\ps n                         adv    v                     v                                           ?    n           
+\ps n                         adv    v                     v                                           ?    n            
 \ge mouse    -dim   -pl =emph very   hide(intr) -ep -dur   hide(intr) -dur   -inch -prog -nonfut =emph ***  grass -nr   
 
 \tx dọːline.
 \mb dọː    -(dU)LI -n(I)     -E 
-\ps rel.n                        
+\ps rel.n                         
 \ge inside -prol   -poss.3sg -ep
 \ft And the mice all hid in the grass.
 \ev
@@ -2341,7 +2341,7 @@ gloss it I decided to leave it as a separate lexeme for the moment
 \ref
 \tx Nọŋartankke   inu          ereger dʒebukeč...    dʒeb... dʒeb... dʒebleŋgešte                       boːweːtte."
 \mb nọŋartan =kkE hin     -W   ereger dʒeb -WkEn -Č   dʒeb dʒeb dʒeb -LE -ŋ   -GE    -s(I)     =t(E) boː  -WEːČ -R(E)  
-\ps pron          pron         adv    v               v    v    v                                    v                 
+\ps pron          pron         adv    v               v    v    n                                    v                  
 \ge 3pl      =ptl 2sg.obl -acc always eat  -caus -res eat  eat  eat  -nr -aln -desig -poss.2sg =ptl  give -gnr  -nonfut
 \ft They always feed you, give you food, right."
 \ph
@@ -2356,7 +2356,7 @@ gloss it I decided to leave it as a separate lexeme for the moment
 \ref
 \tx "Kurende!
 \mb kuren      =DE 
-\ps adv             
+\ps adv              
 \ge on.purpose =ptl
 \ft "On purpose!
 \ph

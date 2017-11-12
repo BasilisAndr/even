@@ -206,7 +206,7 @@ speak as correctly as possible
 \id stado#10_Nikitin_SE_poems_016
 \tx Tara, ńan   [AE: ọralčịmŋal]       ọrọlčịmŋal      bihe.
 \mb tarak ńaːn AE ọrọlčị        -mŋE  -L  ọrọlčị        -mŋE  -L  bi -R(E)  
-\ps pron  adv  ?  v                       v                       v         
+\ps pron  adv  ?  n                       n                       v          
 \ge dist  and  AE herd.reindeer -agnr -pl herd.reindeer -agnr -pl be -nonfut
 \ft And then there are reindeer herders.
 \ru Есть еще оленеводы.
@@ -218,7 +218,7 @@ speak as correctly as possible
 \id stado#10_Nikitin_SE_poems_017
 \tx Ńan   irildu      muttule        kočuker     kụŋal    ńoːwrer,        emgerer,         kočukerde        kụŋal
 \mb ńaːn ireli  -DU  mut    -(dU)LE kočuken -L  kụŋa  -L  ńoː  -Gr(E) -r   em   -Gr(E) -r   kočuken -L  =DE  kụŋa  -L 
-\ps adv  n           pron           n         n         v                v                adj              n         
+\ps adv  n           pron           n         n         v                v                adj              n          
 \ge and  summer -dat 1pl.in -loc    small   -pl child -pl exit -hab   -3pl come -hab   -3pl small   -pl =ptl child -pl
 
 \tx emgerer,         mut    dʒaːlbụr          emuw...           bileːk,  boholektu[k],     bileːktuk
@@ -250,12 +250,12 @@ speak as correctly as possible
 
 \tx emnidʒur         ọralčịmŋaldụ         muttule        egdʒen egdʒen egdʒenet
 \mb em   -RIdʒI   -L  ọrọlčị        -mŋE  -L  -DU  mut    -(dU)LE egdʒen egdʒen egdʒen -E  -Č  
-\ps v                 v                            pron           adj    adj    adj            
+\ps v                 n                            pron           adj    adj    adj             
 \ge come -ant.cvb -pl herd.reindeer -agnr -pl -dat 1pl.in -loc    big    big    big    -ep -ins
 
 \tx ịawrar            ajgarar.
 \mb ịa      -Gr(E) -r   aj   -Gr(E) -r  
-\ps v                   n                
+\ps v                   n                 
 \ge do.what -hab   -3pl help -hab   -3pl
 
 \ft Before this schoolchildren come to us for the summer holidays and really help us reindeer herders a lot.
@@ -277,7 +277,7 @@ because his nephew Mitja was sitting next to him and he wanted to flatter him; '
 
 \tx [AE: hupkučimŋel]      hupkučimŋel.
 \mb AE hupkut -E  -mŋE  -L  hupkut -E  -mŋE  -L 
-\ps ?  v                    v                   
+\ps ?  n                    n                    
 \ge AE learn  -ep -agnr -pl learn  -ep -agnr -pl
 \ft The schoolchildren work here with us, they're very good schoolchildren.
 \ru Школьники работают у нас, так очень хорошие (школьники).
@@ -290,7 +290,7 @@ because his nephew Mitja was sitting next to him and he wanted to flatter him; '
 \id stado#10_Nikitin_SE_poems_020
 \tx Tara.
 \mb tarak
-\ps pron  
+\ps pron   
 \ge dist 
 
 \ELANBegin 00:02:07.170
@@ -305,7 +305,7 @@ because his nephew Mitja was sitting next to him and he wanted to flatter him; '
 
 \tx ńulgen     goːniken]     eduk         mut    bileːktut                  bidden.
 \mb nulge   -n  goːn -nIkEn   erek -DUk(U) mut    bileːk    -DU  -t(I)        bi -D    -R(E)   -n(I)
-\ps v           v             pron         pron   n                           v                     
+\ps n           v             pron         pron   n                           v                      
 \ge migrate -nr say  -sim.cvb prox -abl    1pl.in territory -dat -poss.1pl.in be -prog -nonfut -3sg 
 
 \ft And our herd is four, five km from here, from our base.
@@ -320,7 +320,7 @@ because his nephew Mitja was sitting next to him and he wanted to flatter him; '
 \id stado#10_Nikitin_SE_poems_022
 \tx Tiekerep,    tiekerep     ọttọ  er   hiesečen  er   ineŋiw     delmičeduk           emnit.
 \mb tiek -(E)rEp tiek -(E)rEp ọttọn erek hiːsečin erek ineŋi -W   delmiče       -DUk(U) em   -RI  -t(I)       
-\ps n          adv          ptl   pron n        pron n          n                     v                      
+\ps n          adv          ptl   pron n        pron n          n                     v                       
 \ge now  -adjr   now  -adjr   dp.Y  prox evening  prox day   -acc reindeer.herd -abl    come -pst -poss.1pl.in
 
 \ft This evening, today, we came from the herd.
@@ -426,12 +426,12 @@ creativity in this expression
 \id stado#10_Nikitin_SE_poems_028
 \tx Tara  tačịn       goːmi          tar   omen ere  ọralčịmŋa     akmụ                  tuslin
 \mb tarak tarọːčịn  goːn -mI       tarak omen erek ọrọlčị        -mŋE  akan          -W        tus     -(dU)LI -n(I)    
-\ps pron  pron      v              pron  num  pron v                   n                       postpos                  
+\ps pron  pron      v              pron  num  pron n                   n                       postpos                   
 \ge dist  dist.qual say  -cond.cvb dist  one  prox herd.reindeer -agnr older.brother -poss.1sg about.Y -prol   -poss.3sg
 
 \tx "Berne"       gerbe dʒọːntụrụ   taŋdʒịm.
 \mb berne         gerbe dʒọːntụr -W   taŋ  -DʒI -m  
-\ps n             n     n             v              
+\ps n             n     n             v               
 \ge lost.reindeer name  poem     -acc read -fut -1sg
 
 \ft Saying that I will now recite a poem called "Berne" (the lost reindeer) about my brother the reindeer herder.
@@ -535,7 +535,7 @@ creativity in this expression
 \id stado#10_Nikitin_SE_poems_036
 \tx čịktịkaːn ọrọlčịmŋa   biː akmụ
 \mb čịktị -KEn ọrọlčị        -mŋE  biː akan          -W       
-\ps adj        v                   pron n                      
+\ps adj        n                   pron n                       
 \ge brave -dim herd.reindeer -agnr 1sg older.brother -poss.1sg
 
 \ft my older brother is a very strong reindeer herder
@@ -549,7 +549,7 @@ creativity in this expression
 \id stado#10_Nikitin_SE_poems_037
 \tx Bernelbu              bakrịdʒị ilbedden.
 \mb berne         -L  -W   bak  -RIdʒI   ilbe  -D    -R(E)   -n(I)
-\ps n                      n             v                         
+\ps n                      n             v                          
 \ge lost.reindeer -pl -acc find -ant.cvb chase -prog -nonfut -3sg 
 
 \ft finding lost reindeer he chases (them)
@@ -849,7 +849,7 @@ on the return journey
 \id stado#10_Nikitin_SE_poems_060
 \tx Gọrịnụk      ŋịn gọgan       dọrnarịn
 \mb gọrụ -(I)nUk   ŋịn gọg  -E  -n  dọrna    -RI  -n(I)    
-\ps ?              n   v            v                      
+\ps ?              n   n            v                       
 \ge far  -advb.abl dog bark -ep -nr be.heard -pst -poss.3sg
 
 \ft from afar the barking of a dog could be heard
@@ -863,7 +863,7 @@ on the return journey
 \id stado#10_Nikitin_SE_poems_061
 \tx ejmu             atịkan  alattan
 \mb enen   -W        atịkan    alat -R(E)   -n(I)
-\ps n                n         n                  
+\ps n                n         n                   
 \ge mother -poss.1sg old.woman wait -nonfut -3sg 
 \ft my old mother is waiting
 \ru ждет старушка мать
@@ -903,7 +903,7 @@ on the return journey
 \id stado#10_Nikitin_SE_poems_064
 \tx Ọ, ńoːŋge ọralčịmŋa
 \mb ọ  ńoːŋge ọrọlčị        -mŋE 
-\ps interj adj    v                  
+\ps interj adj    n                   
 \ge oh good   herd.reindeer -agnr
 
 \ft oh, good reindeer herder
@@ -918,7 +918,7 @@ on the return journey
 \id stado#10_Nikitin_SE_poems_065
 \tx Miteː gerbe noːčemu
 \mb Mitja gerbe noː             -čEn -W       
-\ps ?     n     n                              
+\ps ?     n     n                               
 \ge Mitja name  younger.sibling -dim -poss.1sg
 
 \ft my little nephew Mitja
@@ -1168,7 +1168,7 @@ overt nonfuture marker
 
 \tx Mitja ihuridʒi     ọralčịmŋa     bidʒin        goːniken      dʒọmkakkaram.
 \mb Mitja isu  -RIdʒI   ọrọlčị        -mŋE  bi -DʒI -n(I) goːn -nIkEn   dʒọmkat -Gr(E) -m  
-\ps ?     v             v                   v             v             v                  
+\ps ?     v             n                   v             v             v                   
 \ge Mitja grow -ant.cvb herd.reindeer -agnr be -fut -3sg  say  -sim.cvb think   -hab   -1sg
 
 \ft I think that in the future, after us, Mitja here, having grown up, will be a reindeer herder.
@@ -1181,7 +1181,7 @@ overt nonfuture marker
 \id stado#10_Nikitin_SE_poems_085
 \tx Tara.
 \mb tarak
-\ps pron  
+\ps pron   
 \ge dist 
 
 \ELANBegin 00:07:19.850

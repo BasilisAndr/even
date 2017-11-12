@@ -65,7 +65,7 @@ Krivoshapkina.
 \id RDA_TPK_delburge_007
 \tx  ... ček
 \mb *   -ČEk
-\ps n       
+\ps n        
 \ge *** -nr 
 
 \ru
@@ -76,7 +76,7 @@ Krivoshapkina.
 \id RDA_TPK_delburge_008
 \tx ...ček, oo.
 \mb -ČEk oo
-\ps n    interj 
+n n    interj   
 \ge -nr  oh
 
 \ru
@@ -102,7 +102,7 @@ razgovora, beseda
 \id RDA_TPK_delburge_010
 \tx Ịadụk     haγalaːn  ịadʒịp,          nọnap?
 \mb ịak  -DUk(U) haγalaːn    ịa      -DʒI -p      nọnap     
-\ps n         n           v                    adj        
+\ps n         n           v                    adj          
 \ge what -abl    begin.cvb.Y do.what -fut -1pl.in the.first.
 \ft What should we begin with first?
 \ru С чего начнем, первое?
@@ -157,7 +157,7 @@ razgovora, beseda
 \id RDA_TPK_delburge_015
 \tx Bakaldadʒaktụ?
 \mb bak  -(E)ldE -ČEk -DU 
-\ps v                     
+\ps n                      
 \ge find -soc    -nr  -dat
 \ft At the meeting?
 \ru На встрече, во время встречи.
@@ -168,7 +168,7 @@ razgovora, beseda
 \id RDA_TPK_delburge_016
 \tx Bakaldadʒak
 \mb bak  -(E)ldE -ČEk
-\ps n                 
+\ps n                   
 \ge find -soc    -nr 
 
 \ru
@@ -179,7 +179,7 @@ razgovora, beseda
 \id RDA_TPK_delburge_017
 \tx Mm  bakaldadʒak
 \mb mm  bak  -(E)ldE -ČEk
-\ps n v                 
+\ps n n                   
 \ge mhm find -soc    -nr 
 
 \ru
@@ -190,7 +190,7 @@ razgovora, beseda
 \id RDA_TPK_delburge_018
 \tx bakaldadʒak
 \mb bak  -(E)ldE -ČEk
-\ps v                 
+\ps n                   
 \ge find -soc    -nr 
 
 \ru
@@ -211,7 +211,7 @@ razgovora, beseda
 \id RDA_TPK_delburge_020
 \tx Amŋanta torre         emmi
 \mb anŋamta tor   -(dU)LE em   -mI      
-\ps n     n             v              
+\ps n     n             v               
 \ge new     earth -loc    come -cond.cvb
 \ft Coming to a new place
 \ph

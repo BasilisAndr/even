@@ -383,7 +383,7 @@ as if she indeed says it with the accusative case, and I glossed it as such
 \ref
 \tx Nan    ečin      ńọːŋčịneː         umekič eto    tar... uŋteki           dʒụːmŋaltekiji.
 \mb ńaːn erroːčin  ńọːŋčị -n(I) =eː   umekič eto    tar  uŋ        -t(E)kI dʒụː  -mŋE -L  -t(E)kI -J      
-\ps adv  pron      v                  adv    pron   adv  n                 n                              
+\ps adv  pron      v                  adv    pron   adv  n                 n                               
 \ge and  prox.qual run    -3sg  =emph very   this.R thus something -all    house -nr  -pl -all    -prfl.sg
 
 \ft And so he runs very fast to his family (lit. to those who live in his house).
@@ -398,12 +398,12 @@ as if she indeed says it with the accusative case, and I glossed it as such
 \ref
 \tx Nan    ečin      etekaγ       dọːlan             ńọːŋčịddakan                     ịamị uŋe          nukiduk        nukiγčin,      buːdelen
 \mb ńaːn erroːčin  hịat   -K(Ag) dọː    -(dU)LE -n(I)     ńọːŋčị -D    -REk      -n(I)     ịamị uŋ        -E  noːki -DUk(U) noːki -G(E)čIn boːdel -E  -n(I)    
-\ps adv  pron      n             rel.n                    v                                ?    n             n             n              n                    
+\ps adv  pron      n             rel.n                    v                                ?    n             n             n              n                      
 \ge and  prox.qual willow -nr    inside -loc    -poss.3sg run    -prog -cond.cvb -poss.3sg ptl  something -ep bow   -abl    arrow -sml     leg(s) -ep -poss.3sg
 
 \tx ańčịndụlan            ečin      uŋnin.
 \mb ańčịn        -(dU)LE -n(I)     erroːčin  uŋ -RI  -n(I)    
-\ps rel.n                          pron      n                 
+\ps rel.n                          pron      n                  
 \ge space.beside -loc    -poss.3sg prox.qual do -pst -poss.3sg
 
 \ft And as he was running like this among the willows suddenly (someone shot) from bow and (an arrow fell) like this by his legs.
@@ -657,7 +657,7 @@ is something that is said in general; the repetition here is simply due to the f
 \tx Nan    ašatkan ulgimidden,                      "Ịamị tabịč inu          Twajanat          gerburiten?"
 \mb ńaːn asatkan ulgim -i      -D    -R(E)   -n(I) ịamị tabịč hin     -W   Twajaːn -E  -Č   gerbu -RI  -tEn     
 \ps adv  n       v                                 pron adv   pron         n                v                   
-\ge and  girl    ask   -ipf??? -prog -nonfut -3sg  why  again 2sg.obl -acc Twajaːn -ep -ins call  -pst -poss.3pl
+\ge and  girl    ask   -ipf -prog -nonfut -3sg  why  again 2sg.obl -acc Twajaːn -ep -ins call  -pst -poss.3pl
 \ft And the girl asked "Why did they call you Twajan?".
 \ev
 \ru И эта девушка спрашивала "Почему тебя Тваяном называли?".
@@ -812,7 +812,7 @@ is something that is said in general; the repetition here is simply due to the f
 \tx Tala          umekič ọːjịː    ịsaγ      bisintitte,                 elegelde                 abalta,    esni           ičur
 \mb tarak -(dU)LE umekič họːja =eː   ịsịg         bi -RI  -n(I)     =tIt =DE  erek -(dU)LE =gEl   =DE  abal =t(E) e   -R(E) -n(I) it  -U    -R      
 \ps pron          adv    quant       n            v                           pron                     adj        v               v                 
-\ge dist  -loc    very   many  =emph larch.forest be -pst -poss.3sg =ptl =ptl prox -loc    =coord =ptl few  =ptl  neg -nfut -3sg  see -caus -neg.cvb
+\ge dist  -loc    very   many  =emph larch.forest be -pst -poss.3sg =ptl =ptl prox -loc    =coord =ptl few  =ptl  neg -nonfut -3sg  see -caus -neg.cvb
 
 \tx ịsaγ.
 \mb ịsịg        
@@ -1259,7 +1259,7 @@ is something that is said in general; the repetition here is simply due to the f
 \ref
 \tx Uŋnen                   iluldiwŋen                    ečin      ọːnkana    goːweːttekene?             kruškelen             uŋnin..
 \mb uŋ        -(dU)LE -n(I)     hilu  -ldIwUn -GE    -n(I)     erroːčin  ọːn =kEnE  goːn -WEːČ -R(E)   =kEnE  kruška -(dU)LE -n(I)     uŋ -RI  -n(I)    
-\ps n                           v                              pron      pron       v                         n                        v                
+\ps n                           n                              pron      pron       v                         n                        v                 
 \ge something -loc    -poss.3sg drink -nr     -desig -poss.3sg prox.qual how =contr say  -gnr  -nonfut =contr mug.R  -loc    -poss.3sg do -pst -poss.3sg
 \ft Into his .... the instrument for drinking, how do they say, he put something into his mug.
 \ev
@@ -1272,7 +1272,7 @@ is something that is said in general; the repetition here is simply due to the f
 \ref
 \tx ečin      uŋčeji             ịawụčaši...         ọːnkana?   ọraːttuk      uŋu           ọːrin...
 \mb erroːčin  uŋ -čE     -J       ịak  -W   =(W)UttE =sI   ọːn =kEnE  ọraːt -DUk(U) uŋ        -W   ọː   -RI  -n(I)    
-\ps pron      n                   pron                     pron       n             n              v                   
+\ps pron      n                   pron                     pron       n             n              v                    
 \ge prox.qual do -pf.ptc -prfl.sg what -acc =indef   =emph how =contr grass -abl    something -acc make -pst -poss.3sg
 \ft something that he did... how does one say it? he made something from herbs
 \ph
@@ -1413,7 +1413,7 @@ which she yesterday said was not correct, was correct...; keńelič uŋewmi = mo
 \tx Tarma ešni          itte         ịawda,        guːnni     ịamị nan    uŋel...      ọkaːtta    kučeńekeken    tabịčị
 \mb tarma e   -R(E) -n(I) it  -R       ịak  -W   =DE  goːn -n(I) ịamị ńaːn uŋ        -L  ọkaːt =DE  kučeːle -kEkEn tabịč -E 
 \ps conj  v               v            pron           v          pron adv  n             n          adj            adv      
-\ge but   neg -nfut -3sg  see -neg.cvb what -acc =ptl say  -3sg  why  and  something -pl river =ptl small   -dim   again -ep
+\ge but   neg -nonfut -3sg  see -neg.cvb what -acc =ptl say  -3sg  why  and  something -pl river =ptl small   -dim   again -ep
 
 \tx biledʒukude              ịlak...  uŋelde,               dʒụːwde             ịamịwụčeši          kučeńekeker.
 \mb biledʒek   -W        =DE  ịlak       uŋ        -E  -L  =DE  dʒụː  -W        =DE  ịamị =(W)UttE -E  =sI   kučeːle -kEkEn -L 
@@ -1888,7 +1888,7 @@ fit, too, I don't know why she felt that they were already sitting all ready and
 \tx Nan    ịamị dọldan      Twajan   toresniwen.
 \mb ńaːn ịamị dọlda -n(I) Twajaːn tore  -s(E)n -RI      -W   -E  -n(I)    
 \ps adv  ?    v           ?       v                                       
-\ge and  ptl  hear  -3sg  Twajaːn speak -lim   -ipf.ptc -acc -ep -poss.3sg
+\ge and  ptl  hear  -3sg  Twajaːn speak -lim   -impf.ptc -acc -ep -poss.3sg
 \ft And she hears Twajan speaking.
 \ev
 \ru И вот слышит голос Тваяна, слышит что Тваян говорит.
@@ -1985,7 +1985,7 @@ fit, too, I don't know why she felt that they were already sitting all ready and
 \ge and  girl    dist  =emph go.up -inch -prog -nonfut -3sg  =emph
 \ft And that girl started to climb up quickly.
 \ph
-\gr could one say ojčiʤillanaši? = YES, nachinaet zalezatj;     ọjčịladdanaši = bystro nachinaet zalezatj, the accelerative reading of inch-prog-nfut
+\gr could one say ojčiʤillanaši? = YES, nachinaet zalezatj;     ọjčịladdanaši = bystro nachinaet zalezatj, the accelerative reading of inch-prog-nonfut
 \ev
 \ru И вот эта девушка стала быстро залезать.
 \ELANBegin 00:18:39.480

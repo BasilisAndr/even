@@ -141,7 +141,7 @@ say that she might just not know how to say "she is blind", which would seem to 
 \tx Ịahalan             ehni           ikkerer,            teːmi    stadadụ   ọddịn
 \mb ịašal -E  -n(I)     e   -R(E) -n(I) it  -Gr(E) -R       teːmi     stado  -DU  ọd   -RI  -n(I)    
 \ps n                   v               v                   conj      n           v                  
-\ge eyes  -ep -poss.3sg neg -nfut -3sg  see -hab   -neg.cvb therefore herd.R -dat stop -pst -poss.3sg
+\ge eyes  -ep -poss.3sg neg -nonfut -3sg  see -hab   -neg.cvb therefore herd.R -dat stop -pst -poss.3sg
 
 \tx gurgewčiri.
 \mb gurgeːwči -RI      

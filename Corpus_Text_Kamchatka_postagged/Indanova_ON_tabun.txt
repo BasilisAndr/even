@@ -108,12 +108,12 @@ after school (not clear how many years of schooling she would have had).
 \ref 1:32
 \tx Debleŋgewur                    gadʒịwaːttụ,       tarịč   [stammers]
 \mb dʒeb -LEn -ŋ   -GE    -WUr     gadʒị -WEːČ -(R)U   tarak -Č   stammers
-\ps v                              v                   pron       interj  
+\ps n                              v                   pron       interj   
 \ge eat  -nr  -aln -desig -prfl.pl fetch -gnr  -1pl.ex dist  -ins stammers
 
 \tx ọrọnọttịtta                 tugenidude       dʒụganịdụda.
 \mb ọrọn              -E  -Č   =tIt =DE  tugeni -DU  =DE  dʒụganị -DU  =DE 
-\ps n                                    n                n                 
+\ps n                                    n                n                  
 \ge domestic.reindeer -ep -ins =ptl =ptl winter -dat =ptl summer  -dat =ptl
 
 \ft We only went (to the settlement) to buy food, summers and winters by reindeer.
@@ -172,7 +172,7 @@ after school (not clear how many years of schooling she would have had).
 \tx tadụtta                 gurgeːwčiddiwu.
 \mb tarak -DU  =t(E)    =DE  gurgeːwči -D    -RI  -W       
 \ps pron                     v                             
-\ge dist  -dat =utočnit =ptl work      -prog -pst -poss.1sg
+\ge dist  -dat =ptl =ptl work      -prog -pst -poss.1sg
 
 \ft And afterwards I always worked, when my husband died I was still working there. 
 \ru Потом я все время работала, когда муж умер, там-же работала.

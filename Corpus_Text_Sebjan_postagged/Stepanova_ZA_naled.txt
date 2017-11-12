@@ -370,7 +370,7 @@ themselves, that they're travelling in such cold temperatures, -dʒEːn always g
 \id Stepanova_ZA_naled_025
 \tx Tala          bejel      aːnŋahakatnan                        palatka.
 \mb tarak -(dU)LE bej -E  -L  aːnŋa              -ČEk -E  -tEn      palatka
-\ps pron          n           v                                     n      
+\ps pron          n           n                                     n       
 \ge dist  -loc    man -ep -pl stop.for.the.night -nr  -ep -poss.3pl tent.R 
 \ft There was a tent where people spent the night.
 \ru Это палатка для ночевки людей/где люди ночуют.
@@ -381,7 +381,7 @@ themselves, that they're travelling in such cold temperatures, -dʒEːn always g
 \id Stepanova_ZA_naled_026
 \tx Tala          adịː  častụkene,    nadan častụ  ịhrịt,              hiesečen, gịawan
 \mb tarak -(dU)LE adịː     čas  -DU  =kEnE  nadan čas  -DU  ịs    -RI  -t(I)        hiːsečin gịawan
-\ps pron          ?        n                num   n         v                       n        n      
+\ps pron          ?        n                num   n         v                       n        n       
 \ge dist  -loc    how.much hour -dat =contr seven hour -dat reach -pst -poss.1pl.in evening  dawn  
 
 \tx goboːddi                 bisin.
@@ -509,12 +509,12 @@ than the surrounding air, creating steam.
 \id Stepanova_ZA_naled_035
 \tx Tarịt bi   ŋeːlellidʒi              uːr   tuːtuŋeje               ujedʒeki               balaːtalbị
 \mb tarịt biː ŋeːl      -E  -L    -RIdʒI   uːr    tuːten           -ŋEjE    uj     -E  -ČEk -J       platok     -E  -L  -J      
-\ps adv   pron v                            adv    v                         v                        n                          
+\ps adv   pron v                            adv    v                         n                        n                           
 \ge then  1sg be.afraid -ep -inch -ant.cvb before get.swollen.eyes -aug.adj tie.up -ep -nr  -prfl.sg kerchief.R -ep -pl -prfl.sg
 
 \tx bekeččemetnen             nụkram              ečin,     uleːrem.
 \mb bekeč -čEn -W   -tEn      nụk      -R(E)   -m   erroːčin  uleː  -R(E)   -m  
-\ps adv                       v                     pron      v                  
+\ps adv                       v                     pron      v                   
 \ge all   -dim -acc -poss.3pl take.off -nonfut -1sg prox.qual throw -nonfut -1sg
 
 \ft Then I got a fright and took off all the scarves that I had tied before and that didn't let me see properly and threw them down.
@@ -556,7 +556,7 @@ ujedʒeku bụlaːtalbụ, but one cannot say *ujedʒek bụlaːtalbụ
 \tx ehni           ičur.
 \mb e   -R(E) -n(I) it  -W     -R      
 \ps v               v                  
-\ge neg -nfut -3sg  see -advrs -neg.cvb
+\ge neg -nonfut -3sg  see -advrs -neg.cvb
 
 \ft "What is she screaming at?" I thought, through the fog nothing is properly visible.
 \ph
@@ -820,7 +820,7 @@ afterwards did I realize that she said họtarandụlịr)
 \tx ehni           bakarkịtta.
 \mb e   -R(E) -n(I) bakarkịn -Č   -R      
 \ps v               v                     
-\ge neg -nfut -3sg  slip     -res -neg.cvb
+\ge neg -nonfut -3sg  slip     -res -neg.cvb
 
 \ft When we were climbing up that mountain, luckily everything that had frozen on Afanasij, very good, when he climbed up like this he
 didn't slip.
@@ -871,7 +871,7 @@ unexpectedly was blue and it was sunny, although it had been threatening rain
 \tx ọːkta    palatkaw     tačịn       ehni           emeːŋner.
 \mb ọːk  =DE  palatka -W   tarọːčịn  e   -R(E) -n(I) emeːn -Gr(E) -R      
 \ps pron      n            pron      v               v                    
-\ge when =ptl tent.R  -acc dist.qual neg -nfut -3sg  leave -hab   -neg.cvb
+\ge when =ptl tent.R  -acc dist.qual neg -nonfut -3sg  leave -hab   -neg.cvb
 \ft Modern people are like that, previous people... and my father used to say: "(He) never, never leaves a tent like that."
 \ru Современный человек такой, прежние люди... и мой отец говорил, Никогда палатку так не оставляет.
 \ELANBegin 00:05:36.778
@@ -881,12 +881,12 @@ unexpectedly was blue and it was sunny, although it had been threatening rain
 \id Stepanova_ZA_naled_057
 \tx Tala          objazatelno    dʒeblekekengu       bidʒin,       gọlụ      ečin      ịtawrịdʒụr,
 \mb tarak -(dU)LE objazatelno    dʒep -LE -kEkEn =GU bi -DʒI -n(I) gọl      -W   erroːčin  ịtag    -RIdʒI   -L 
-\ps pron          adv            v                   v             n             pron      v                   
+\ps pron          adv            n                   v             n             pron      v                    
 \ge dist  -loc    without.fail.R eat  -nr -dim   =q  be -fut -3sg  firewood -acc prox.qual prepare -ant.cvb -pl
 
 \tx ŋiːgul     ere  horedniken            haːtawra... haːtarawrịdʒịgụ        haːtaralawrịdʒịgụ
 \mb ŋiː =(W)Ul erek hor -E  -D    -nIkEn   haːtar  -E  -W     -RIdʒI   =GU haːtar  -E  -L    -E  -W     -RIdʒI   =GU
-\ps pron       pron n                      v                               v                                         
+\ps pron       pron n                      v                               v                                          
 \ge who =indef prox go  -ep -prog -sim.cvb be.dark -ep -advrs -ant.cvb =q  be.dark -ep -inch -ep -advrs -ant.cvb =q 
 
 \tx ịarịdʒịgụ   bej aːnŋadʒịn                 goːniken,     hontede    beju     dʒọmkattị
@@ -939,7 +939,7 @@ byvaet
 \id Stepanova_ZA_naled_060
 \tx Afonja   telle           ọrọlbị                   ịak, kaŋdụnamị            ńoːdni.
 \mb Afanasij tol     -(dU)LE ọrọn              -L  -J       ịak  kaŋdụ       -nE -mI       ńoː  -n(I)
-\ps ?        n               n                              pron v                         v         
+\ps ?        n               n                              pron n                         v          
 \ge Afanasij outside -loc    domestic.reindeer -pl -prfl.sg what tie.kangdun -nr -cond.cvb exit -3sg 
 
 \ft Afanasij went outside to hobble his reindeer.
@@ -953,7 +953,7 @@ byvaet
 \id Stepanova_ZA_naled_061
 \tx Elena ŋaːlan            bütenniːken         desčin.
 \mb Elena ŋaːl -E  -n(I)     bütünnüː   -KEn     desči -n(I)
-\ps ?     n                  ?                   v           
+\ps ?     n                  ?                   v            
 \ge Elena hand -ep -poss.3sg entirely.Y -dim.int lie   -3sg 
 \ft Elena's hands lie entirely.
 \ph
@@ -1114,7 +1114,7 @@ laskatj, gladitj; toːdi = help
 \tx Afanasija    "Herreː!          Bụgụn ọːlị       herri!       hindel beldʒiŋeduk          hi....
 \mb Afanasij -E  hor -LI      =eː   bụgụn ọː     -LI      hor -LI      bel  -D(I)ŋE   -DUk(U) hiː
 \ps ?            v                  n     v               v            v                      pron
-\ge Afanasij -ep go  -imp.2sg =emph side  become -imp.2sg go  -imp.2sg help -fut.ptcp -abl    2sg
+\ge Afanasij -ep go  -imp.2sg =emph side  become -imp.2sg go  -imp.2sg help -fut.ptc -abl    2sg
 
 \ft Afanasij "Leave!! Go away!" rather than help you...
 \ph
@@ -1357,7 +1357,7 @@ obobshennoe
 \tx ehni           huklehne.
 \mb e   -R(E) -n(I) hukle -s(E)n -R      
 \ps v               v                    
-\ge neg -nfut -3sg  sleep -lim   -neg.cvb
+\ge neg -nonfut -3sg  sleep -lim   -neg.cvb
 
 \ft My stomach started to hurt, completely, my father also didn't sleep, worrying.
 \ru Живот заболел, все, мой отец переживая тоже не заснул.
@@ -1814,7 +1814,7 @@ leave); hiː herennes bihni (with the auxiliary in the nonfuture the meaning is 
 \tx Deː   oo, bi   ọːn nekčiŋej             ehem             haːra,       tarịt dʒe   tara
 \mb dʒe    oo biː ọːn nek -D(I)ŋE   -J       e   -R(E)   -m   haː  -R       tarịt dʒe    tarak
 \ps ptl    interj pron pron v                      v                v             adv   ptl    pron 
-\ge well.Y oh 1sg how do  -fut.ptcp -prfl.sg neg -nonfut -1sg know -neg.cvb then  well.Y dist 
+\ge well.Y oh 1sg how do  -fut.ptc -prfl.sg neg -nonfut -1sg know -neg.cvb then  well.Y dist 
 
 \tx aːwahńụmị                       bileteŋur                ịanamị                herrep
 \mb aːwas                  -ńUn -J       bilet    -E  -ŋ   -WUr     ịa      -nE     -mI       hor -R(E)   -p     

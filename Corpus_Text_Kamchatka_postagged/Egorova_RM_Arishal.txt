@@ -974,12 +974,12 @@ subtle nuances which I just don't get
 \ref
 \tx Atịkan  umen teːleŋnin             minteki,        guːnin              "Ečin     ere  uŋeč         gụlaldiwum
 \mb atịkan    omen teːleŋ -RI  -n(I)     min     -t(E)kI goːn -RI  -n(I)     erroːčin  erek uŋ        -Č   gụl   -ldIwUn -W  
-\ps n         num  v                     pron            v                   pron      pron n              v                 
+\ps n         num  v                     pron            v                   pron      pron n              n                  
 \ge old.woman one  tell   -pst -poss.3sg 1sg.obl -all    say  -pst -poss.3sg prox.qual prox something -ins light -nr     -acc
 
 \tx ečin      nekridʒi,   uledʒinni".
 \mb erroːčin  nek -RIdʒI   uleː  -DʒI -nrI
-\ps pron      v            v               
+\ps pron      v            v                
 \ge prox.qual do  -ant.cvb throw -fut -2sg
 
 \ft And old woman once told me, said, "Like this with a match, having done like this you throw (it)".
@@ -1262,7 +1262,7 @@ also be used as a verb
 \ref
 \tx Giekiw         ịakka    bišni,         dʒeplekekem,         tar  tebeːkiw,        gụlaldiwum       neːweːtte.
 \mb gịakị   -W   ịak  =kkE bi -R(E)   -n(I) dʒeb -LE -kEkEn -W   tar  tabak     -E  -W   gụl   -ldIwUn -W   neː -WEːČ -R(E)  
-\ps pron         pron      v                v                    adv  n                  v                  v                
+\ps pron         pron      v                n                    adv  n                  n                  v                 
 \ge various -acc what =ptl be -nonfut -3sg  eat  -nr -dim   -acc thus tobacco.R -ep -acc light -nr     -acc put -gnr  -nonfut
 \ft Various things, whatever there is, a bit of food, some tobacco, they put matches.
 \ph
@@ -1280,7 +1280,7 @@ also be used as a verb
 \ref
 \tx Miːnede       bišeken,              miːnekekem           uŋkeweːtte.
 \mb miːne     =DE  bi -REk      -n(I)     miːne     -kEkEn -W   oŋke -WEːČ -R(E)  
-\ps n              v                      n                     n                  
+\ps n              v                      n                     n                   
 \ge alcohol.R =ptl be -cond.cvb -poss.3sg alcohol.R -dim   -acc pour -gnr  -nonfut
 \ft If there is alcohol, they pour a bit of alcohol.
 \ph
@@ -1367,7 +1367,7 @@ also be used as a verb
 \ref
 \tx Ńanaši     toredʒektur             tar, etikemu            toremeγenịː.
 \mb ńaːn =sI   tore  -ČEk -dʒUr        tar  etikeːn -W        tore  -mEgEn =Iː  
-\ps adv        v                       adv  n                 v                 
+\ps adv        n                       adv  n                 n                  
 \ge and  =emph speak -nr  -ins.prfl.pl thus old.man -poss.1sg speak -nr    =emph
 
 \ft And so in conversation, my husband LOVES to speak.
@@ -1384,7 +1384,7 @@ also be used as a verb
 \ref
 \tx Ńan   ọmŋawkanin                ńan   ečiwun               ulekitte.
 \mb ńaːn ọmŋa   -WkEn -RI  -n(I)     ńaːn e   -RI  -WUn         ulekič -R      
-\ps adv  n                           adv  v                     n               
+\ps adv  n                           adv  v                     n                
 \ge and  forget -caus -pst -poss.3sg and  neg -pst -poss.1pl.ex treat  -neg.cvb
 
 \ft And he made us forget, and we didn't (give) a treat.
@@ -1442,12 +1442,12 @@ other.
 \ref
 \tx Etikemuši               gewšeńe       guːnni     ọːnkana    "Tarak ozernojemŋal,    kọč   mụralbur
 \mb etikeːn -W        =sI   gewšen    -ńE   goːn -n(I) ọːn =kEnE  tarak Ozernoe -mŋE -L  kọč      mụran -L  -WUr    
-\ps n                       adj             v          pron       pron  n                adv      n                 
+\ps n                       adj             v          pron       pron  n                adv      n                  
 \ge old.man -poss.1sg =emph eccentric -adjr say  -3sg  how =contr dist  Ozernoe -nr  -pl probably horse -pl -prfl.pl
 
 \tx geletidde".
 \mb geleːt   -E  -D    -R(E)  
-\ps v                          
+\ps v                           
 \ge look.for -ep -prog -nonfut
 
 \ft And my stupid husband says somehow "That's those from Ozernoe (a village), they're probably looking for their horses".
@@ -1569,7 +1569,7 @@ same thing; iːmkeʤeːnniwu = bednaja dolgo kashljala
 \ref
 \tx Ńan   uŋumak               emuriten                  ọramŋal,                 bọŋgačan   uŋman.
 \mb ńaːn uŋ        -W   =mEːk  em   -U    -RI  -tEn      ọrọn              -mŋE  -L  bọŋga          uŋ        -W   -n(I)    
-\ps adv  n                     v                         n                           n              n                       
+\ps adv  n                     v                         n                           n              n                        
 \ge and  something -acc =restr come -caus -pst -poss.3pl domestic.reindeer -agnr -pl mountain.sheep something -acc -poss.3sg
 \ft And only this the reindeer herders brought, a mountain sheep's whatchamacallit.
 \ph
@@ -1586,7 +1586,7 @@ same thing; iːmkeʤeːnniwu = bednaja dolgo kashljala
 \ref
 \tx Imšewen               dʒeptiwu,           ńan   ịamị iːmkešnem,                ịamị kụlịčaːmkar.
 \mb imse -W   -E  -n(I)     dʒeb -RI  -W        ńaːn ịamị hiːmke -s(E)n -R(E)   -m   ịamị kụlịčan  =eː   -mkEr
-\ps n                       v                   adv  n    v                          ?    n                    
+\ps n                       v                   adv  n    v                          ?    n                     
 \ge fat  -acc -ep -poss.3sg eat  -pst -poss.1sg and  ptl  cough  -lim   -nonfut -1sg ptl  mosquito =emph -aug 
 \ft I ate its fat, and I coughed and see, a BIG mosquito.
 \ft
@@ -1702,7 +1702,7 @@ one could say this, no big difference
 
 \tx baššakị  urriten            dʒụːmŋalni.
 \mb bassakị      hor -RI  -tEn      dʒụː  -mŋE -L  -n(I)    
-\ps adv          v                  n                       
+\ps adv          v                  n                        
 \ge to.that.side go  -pst -poss.3pl house -nr  -pl -poss.3sg
 
 \ft He used to come and visit me, he had remained all alone, all of his household (all his family) had left for overseas.
@@ -1721,7 +1721,7 @@ one could say this, no big difference
 \ref
 \tx Ńanaši     dʒụːdi            biddʒoːtten,                nọŋanbedʒi   ịak ịajida
 \mb ńaːn =sI   dʒụː  -DI          bi -D    -WEːČ -R(E)   -n(I) nọŋan =bEdʒI ịak  ịak  -J       =DE 
-\ps adv        n                  n                            pron         pron pron               
+\ps adv        n                  n                            pron         pron pron                
 \ge and  =emph house -dat.prfl.sg be -prog -gnr  -nonfut -3sg  3sg   =emph  what what -prfl.sg =ptl
 
 \tx ubirajjoːttan,                tačịnda           dʒụːn          ŋọː biweːtten.

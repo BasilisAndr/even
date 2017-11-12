@@ -219,7 +219,7 @@ nado, nu ego na xren, so the -tke is an intensifier
 \tx Nọŋanŋịlta                  mereŋteːji        erroːj tarakamta.
 \mb nọŋan -ŋI        -L  =t(E)    mereŋteː -J       erroːj  tarakam       =t(E)   
 \ps pron                          n                 interj  adv                   
-\ge 3sg   -pred.poss -pl =utočnit skis     -prfl.sg oh.dear in.those.days =utočnit
+\ge 3sg   -pred.poss -pl =ptl skis     -prfl.sg oh.dear in.those.days =ptl
 
 \ft (He carried on all the time) about his skis, oh dear.
 \ELANBegin 00:01:07.040
@@ -411,7 +411,7 @@ Amganov_Efim_quest1, 29:00-33:00)
 \tx Nan    ŋenudʒeːnnin                    selskij.soviettekite                       ịačịkọn
 \mb ńaːn ŋen -U    -dʒEːn -RI  -n(I)     selskij.soviet           -t(E)kI =t(E)    jaščik -Con       
 \ps adv  v                               n                                         n                
-\ge and  go  -caus -dur   -pst -poss.3sg village.administration.R -all    =utočnit box.R  -acc.3sg??
+\ge and  go  -caus -dur   -pst -poss.3sg village.administration.R -all    =ptl box.R  -acc.3sg??
 
 \ft And so the poor guy carried his box to the village administration.
 \ph

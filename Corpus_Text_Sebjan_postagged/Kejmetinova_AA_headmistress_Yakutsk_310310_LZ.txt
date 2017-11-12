@@ -623,7 +623,7 @@ inchoative plus progressive
 \ft
 \tx Ọːčamŋal,          ọːčattaːr                        nekre
 \mb ọː   -(k)čI -mŋE  -L  ọː   -(k)čI -Č   -DE       -WUr     nek -R(E)
-\ps v                     v                                   v
+\ps n                     v                                   v 
 \ge make -dur   -agnr -pl make -dur   -res -purp.cvb -prfl.pl do  -nonfut
 
 \ft the builders/repairers are about to repair...
@@ -639,7 +639,7 @@ inchoative plus progressive
 \ft
 \tx Tarịt tarịt dʒeː tolle           ńoːrep.
 \mb tarịt tarịt dʒe    tol     -(dU)LE ńoː  -R(E)   -p
-\ps n   adv   ptl    n               v 
+\ps n   adv   ptl    n               v  
 \ge then  then  well.Y outside -loc    exit -nonfut -1pl.in
 \ft Then we went outside.
 \nt
@@ -702,7 +702,7 @@ inchoative plus progressive
 
 \tx dʒọmkatta        voobše      elede             mergendulewde                        ačča.
 \mb dʒọmkat -R       voobše       erek -(dU)LE =DE  mergeːt -n  -(dU)LE -W        =DE  ačča
-\ps v                adv          pron              v                                  ptl
+\ps v                adv          pron              n                                  ptl 
 \ge think   -neg.cvb in.general.R prox -loc    =ptl think   -nr -loc    -poss.1sg =ptl neg
 \ft I don't know what "building materials" are, didn't think (about this), didn't have it in my mind at all.
 \nt
@@ -717,7 +717,7 @@ inchoative plus progressive
 \ft
 \tx Tačịn       ele          gurgew            haːn ịadʒin           gerbut... eču               gerbette.
 \mb tarọːčịn  erek -(dU)LE gurgeː -W        haːn ịa      -DʒI -n(I) gerbet e   -RI  -W        gerbet -R
-\ps pron      pron         n                n    v                  v      v                  v 
+\ps pron      pron         n                n    v                  v      v                  v  
 \ge dist.qual prox -loc    work   -poss.1sg some do.what -fut -3sg  think  neg -pst -poss.1sg think  -neg.cvb
 
 \ft I didn't think that my work would start in such a way.
@@ -1117,7 +1117,7 @@ iakka = a chto, information structure particle
 \tx I    vse-taki  ulgimiwrerem                      Petjaduk      burus   gerbe ịaka? -   goːnem.
 \mb i     vse-taki  ulgim -i      -Gr(E) -R(E)   -m   Petja -DUk(U) brus     gerbe ịak  goːn -R(E)   -m
 \ps conj  ptl       v                                 n             n        n     pron v
-\ge and.R however.R ask   -ipf??? -hab   -nonfut -1sg Petja -abl    timber.R name  what say  -nonfut -mult
+\ge and.R however.R ask   -ipf -hab   -nonfut -1sg Petja -abl    timber.R name  what say  -nonfut -mult
 
 \ft But I did ask Petja: "what is that, a "brus"?"--I say.
 \nt
@@ -1483,7 +1483,7 @@ know how to go about painting the school
 \tx bọlla      biː ọːkta    eču               itte         mọstaw     kraskaladdịwụtnan.
 \mb buollaγïna biː ọːk  =DE  e   -RI  -W        it  -R       mọsta   -W   kraska  -LE -D    -RI      -W   -tEn
 \ps ptl        pron pron      v                  v            n            v
-\ge dp.Y       1sg when =ptl neg -pst -poss.1sg see -neg.cvb floor.Y -acc paint.R -vr -prog -ipf.ptc -acc -poss.3pl
+\ge dp.Y       1sg when =ptl neg -pst -poss.1sg see -neg.cvb floor.Y -acc paint.R -vr -prog -impf.ptc -acc -poss.3pl
 
 \ft They never paint tents, and in my childhood... and when I was in town, I never saw how they painted floors.
 \ph
@@ -1552,7 +1552,7 @@ about ordinary life that she didn't know.
 \tx Nọŋan ńan   ulgiminteken            ịaw...   Oo, goːnem,           hiː bejes                 nekli
 \mb nọŋan ńaːn ulgim -i      -ntEkEn   ịak  -W   oo goːn -R(E)   -m   hiː bej    -E  -s(I)     nek -LI
 \ps pron  adv  v                       pron      interj v                 pron pron                 v
-\ge 3sg   and  ask   -ipf??? -mult.cvb what -acc oh say  -nonfut -1sg 2sg self.Y -ep -poss.2sg do  -imp.2sg
+\ge 3sg   and  ask   -ipf -mult.cvb what -acc oh say  -nonfut -1sg 2sg self.Y -ep -poss.2sg do  -imp.2sg
 
 \tx bekeččemen.
 \mb bekeč -čEn -W   -E  -n(I)
@@ -1657,7 +1657,7 @@ others
 \ft
 \tx Hupkučeːku
 \mb hupkut -ČEk -W
-\ps v
+\ps n 
 \ge learn  -nr  -acc
 \ft School
 \nt
@@ -1671,7 +1671,7 @@ others
 \ft
 \tx Hupkučeːku      aːŋarịt              ...  tarakam       tar   bremjeldu        muttule        anŋamta hupkučeːkel.
 \mb hupkut -ČEk -W   aːŋa -RI  -t(I)        *... tarakam       tarak vremja -L  -DU  mut    -(dU)LE anŋamta hupkut -ČEk -E  -L
-\ps n                v                      ?    adv           pron  n               pron           adj     v 
+\ps n                v                      ?    adv           pron  n               pron           adj     n   
 \ge learn  -nr  -acc open -pst -poss.1pl.in ***  in.those.days dist  time.R -pl -dat 1pl.in -loc    new     learn  -nr  -ep -pl
 \ft We opened the school. Then in those days new schools came to us
 \nt
@@ -1685,12 +1685,12 @@ others
 \ft
 \tx omgereritnen               hupkučimŋel,      hupkučimŋel        :   matematịkal,   fịzịkal,   biolog,
 \mb em   -Gr(E) -RI  -tEn      hupkut -E  -mŋE  -L  hupkut -E  -mŋE  -L  *   matematịka -L  fịzịka    -L  biolog
-\ps n                          v                    v                    ?   n              n             n 
+\ps n                          n                    n                    ?   n              n             n   
 \ge come -hab   -pst -poss.3pl learn  -ep -agnr -pl learn  -ep -agnr -pl *** maths.R    -pl physics.R -pl biologist.R
 
 \tx khịmịja ..
 \mb khịmịja
-\ps n 
+\ps n  
 \ge chemistry.R
 \ft teachers: maths, physics, biology, chemistry.
 \nt
@@ -1793,7 +1793,7 @@ others
 \ft
 \tx Hupkučimŋel
 \mb hupkut -E  -mŋE  -L
-\ps v
+\ps n 
 \ge learn  -ep -agnr -pl
 \ft teachers
 \nt
@@ -1816,7 +1816,7 @@ others
 \ft
 \tx     aa   ..  hupkuttil!
 \mb aa *.. hupkut -RI  -L
-\ps n ?   v 
+\ps n ?   v  
 \ge ah *** learn  -pst -pl
 \ft pupils
 \nt
