@@ -57,4 +57,11 @@ total_morphemes_grouped.pickle -- same but grouped
  
  pairs_by_ll.pickle -- pd with pairs and all the stats
  
+ 
+ 
+ ## Lexics
+ 
+ Sebjan_wordlist.pickle, Kamchatka_wordlist.pickle - same as morphemes, raw
+ 
+ 
 
