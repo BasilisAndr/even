@@ -18,6 +18,9 @@ Sebjan.pickle, Kamchatka.pickle -- словари формата
     }
 }`
 
+49800 S
+33112 K
+
 ## Converbs
 
 converbs.pickle -- таблица с конвербами + логлайк
