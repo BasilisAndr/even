@@ -1,65 +1,65 @@
 \_sh v3.0  259  MDF 4.0
 
 \lx Abram
-\ps
+\ps n
 \ge Abraham
 \dt 06/Jul/2009
 
 \lx Abramov
 \a Abra
-\ps
+\ps n
 \ge Abramov
 \dt 24/Feb/2012
 
 \lx Abramova
-\ps
+\ps n
 \ge Abramova
 \dt 23/Feb/2008
 
 \lx Ača
-\ps
+\ps n
 \ge Acha
 \dt 16/Jul/2009
 
 \lx Ačajwajam
-\ps
+\ps n
 \ge Achajwajam
 \dt 06/Oct/2012
 
 \lx Adukanov
 \a Ịadụkan
-\ps
+\ps n
 \ge Adukanov
 \dt 06/Oct/2012
 
 \lx Adukanova
-\ps name
+\ps n
 \ge Adukanova
 \dt 26/Jan/2013
 
 \lx Adukanovy
-\ps
+\ps n
 \ge Adukanovs
 \dt 07/Jul/2007
 
 \lx AE
-\ps
+\ps n
 \ge AE
 \dt 24/Mar/2009
 
 \lx Afanasev
 \a
-\ps
+\ps n
 \ge Afanasev
 \dt 24/Feb/2012
 
 \lx Afanasevič
-\ps
+\ps n
 \ge Afanasevich
 \dt 12/Mar/2008
 
 \lx Afanasevna
-\ps
+\ps n
 \ge Afanasevna
 \dt 24/Mar/2010
 
@@ -69,81 +69,81 @@
 \a Ọkọnọhọj
 \a Apọńa
 \a Afonja
-\ps
+\ps n
 \ge Afanasij
 \dt 22/Mar/2013
 
 \lx Afimova
-\ps
+\ps n
 \ge Afimova
 \dt 09/Jul/2009
 
 \lx Afrika
-\ps
+\ps n
 \ge Africa
 \dt 21/Jun/2007
 
 \lx Agafja
 \a Agaːpị
-\ps
+\ps n
 \ge Agafja
 \dt 20/Mar/2008
 
 \lx Ajanessa
-\ps
+\ps n
 \ge Ajanessa
 \dt 10/Mar/2012
 
 \lx Ajdịna
-\ps
+\ps n
 \ge Ajdina
 \dt 10/Mar/2012
 
 \lx Ajta
-\ps
+\ps n
 \ge Ajta
 \dt 22/Feb/2008
 
 \lx Akaːńịka
-\ps
+\ps n
 \ge Akanika
 \dt 12/Jul/2009
 
 \lx AKB
-\ps
+\ps n
 \ge AKB
 \nt dont knwo what the abbreviation
 stands for
 \dt 01/Mar/2010
 
 \lx Aldan
-\ps
+\ps n
 \ge Aldan
 \dt 24/Feb/2012
 
 \lx Aleksandr
-\ps
+\ps n
 \ge Alexander
 \dt 06/Oct/2012
 
 \lx Alekseev
 \a Alik
-\ps
+\ps n
 \ge Alekseev
 \dt 05/Mar/2012
 
 \lx Alekseeva
-\ps
+\ps n
 \ge Alekseeva
 \dt 22/Mar/2013
 
 \lx Alekseevič
-\ps
+\ps n
 \ge Alekseevich
 \dt 14/Feb/2010
 
 \lx Alekseevskaj
-\ps
+\ps n
 \ge Alekseevskij
 \dt 28/Feb/2008
 
@@ -158,43 +158,43 @@ stands for
 \a Ljọša
 \a Aljoša
 \a Aljọš
-\ps
+\ps n
 \ge Alesha
 \dt 15/Mar/2013
 
 \lx Alisa
-\ps
+\ps n
 \ge Alisa
 \dt 02/Apr/2009
 
 \lx Alja
-\ps
+\ps n
 \ge Alja
 \dt 02/Apr/2009
 
 \lx Aljona
-\ps
+\ps n
 \ge Aljona
 \dt 29/Feb/2012
 
 \lx Alkviad
-\ps
+\ps n
 \ge Alkviad
 \dt 22/Feb/2008
 
 \lx Alŋeːj
-\ps
+\ps n
 \ge Alnej
 \dt 17/Jul/2009
 
 \lx Amanda
-\ps
+\ps n
 \ge Amanda
 \dt 10/Mar/2012
 
 \lx Anastasịja
 \a Anastasija
-\ps
+\ps n
 \ge Anastasija
 \dt 15/Mar/2013
 
@@ -202,313 +202,313 @@ stands for
 \a Anatọlịj
 \a Tolik
 \a Tolja
-\ps
+\ps n
 \ge Anatolij
 \dt 15/Mar/2013
 
 \lx Anaun
-\ps
+\ps n
 \ge Anaun
 \dt 14/Feb/2013
 
 \lx Anavgaj
 \a Anawgaj
 \a Aŋawnaːj
-\ps
+\ps n
 \ge Anavgai
 \dt 10/Jul/2009
 
 \lx Andrej
 \a Endeː
-\ps
+\ps n
 \ge Andrej
 \dt 19/Feb/2010
 
 \lx Ańet
-\ps
+\ps n
 \ge Ańet
 \dt 23/Feb/2008
 
 \lx Angelina
-\ps
+\ps n
 \ge Angelina
 \dt 20/Mar/2010
 
 \lx Anike
-\ps
+\ps n
 \ge Anike
 \dt 06/Jul/2007
 
 \lx Anisija
-\ps
+\ps n
 \ge Anisija
 \dt 05/Jul/2009
 
 \lx Anisja
 \a Nisje
 \a Anis
-\ps
+\ps n
 \ge Anisja
 \dt 22/Mar/2013
 
 \lx Anịːwrịn
-\ps
+\ps n
 \ge Aniwrin
 \dt 10/Mar/2012
 
 \lx Anja
-\ps
+\ps n
 \ge Anja
 \dt 13/Jun/2007
 
 \lx Anna
 \a Ajịːk
-\ps
+\ps n
 \ge Anna
 \dt 15/Mar/2013
 
 \lx Antawčan
-\ps
+\ps n
 \ge Antavchan
 \dt 19/Mar/2013
 
 \lx Antonina
-\ps
+\ps n
 \ge Antonina
 \dt 09/Jul/2009
 
 \lx Anželika
-\ps
+\ps n
 \ge Angelique
 \dt 27/Feb/2010
 
 \lx Arkadij
 \a Arka
-\ps
+\ps n
 \ge Arkadij
 \dt 08/Jul/2009
 
 \lx Artem
 \a Artjọm
-\ps
+\ps n
 \ge Artem
 \dt 17/Jul/2009
 
 \lx Arxipovna
 \a Arxipowna
-\ps
+\ps n
 \ge Arxipovna
 \dt 12/Mar/2012
 
 \lx Asja
-\ps
+\ps n
 \ge Asja
 \dt 11/Mar/2012
 
 \lx Avgustin
-\ps
+\ps n
 \ge Augustin
 \dt 22/Feb/2008
 
 \lx Avstrija
-\ps
+\ps n
 \ge Austria
 \dt 25/Mar/2010
 
 \lx Bahargas
-\ps
+\ps n
 \ge Bahargas
 \dt 13/Feb/2010
 
 \lx Bajịńdʒa
-\ps
+\ps n
 \ge Bajindja
 \dt 26/Mar/2009
 
 \lx Balygịńịn
 \a Balygịńị
-\ps
+\ps n
 \ge Balyginin
 \dt 19/Feb/2013
 
 \lx BAM
-\ps
+\ps n
 \ge BAM
 \dt 25/Jun/2009
 
 \lx Banakanov
-\ps
+\ps n
 \ge Banakanov
 \dt 16/Jul/2009
 
 \lx Bankị
-\ps
+\ps n
 \ge Banki
 \dt 05/Mar/2012
 
 \lx Barkavtov
 \a Berkewut
-\ps
+\ps n
 \ge Barkavtov
 \dt 05/Jul/2009
 
 \lx Batamaj
-\ps
+\ps n
 \ge Batamaj
 \dt 05/Mar/2012
 
 \lx Baženov
-\ps
+\ps n
 \ge Bazhenov
 \dt 16/Jul/2009
 
 \lx Baženova
-\ps
+\ps n
 \ge Bazhenov.gen.R
 \dt 16/Jul/2009
 
 \lx BD
-\ps
+\ps n
 \ge BD
 \dt 22/Mar/2010
 
 \lx Bebe
-\ps
+\ps n
 \ge Bebe
 \nt nickname
 \dt 06/Jul/2007
 
 \lx Beljaev
-\ps
+\ps n
 \ge Beljaev
 \dt 15/Jul/2009
 
 \lx Beljanka
-\ps
+\ps n
 \ge Beljanka
 \dt 03/Mar/2010
 
 \lx Belov
-\ps
+\ps n
 \ge Belov
 \dt 16/Jul/2009
 
 \lx Berdjanka
-\ps
+\ps n
 \ge Berdanka
 \dt 26/Mar/2010
 
 \lx Berezovka
-\ps
+\ps n
 \ge Berezovka
 \dt 26/Jun/2007
 
 \lx Berkut
-\ps
+\ps n
 \ge Berkut
 \dt 17/Jul/2009
 
 \lx Berlin
-\ps
+\ps n
 \ge Berlin
 \dt 26/Jun/2009
 
 \lx Betxoven
-\ps
+\ps n
 \ge Beethoven
 \dt 01/Mar/2008
 
 \lx Bọčịlịkan
-\ps
+\ps n
 \ge Bochilikan
 \dt 05/Mar/2009
 
 \lx Bogdan
 \a Bogda
-\ps
+\ps n
 \ge Bogdan
 \dt 16/Mar/2012
 
 \lx Bọhọgọńdʒe
-\ps
+\ps n
 \ge Bohogondje
 \dt 05/Mar/2008
 
 \lx Borisov
-\ps
+\ps n
 \ge Borisov
 \dt 10/Mar/2012
 
 \lx Borzja
 \a Bọrzja
 \a Bọr
-\ps
+\ps n
 \ge Borzja
 \dt 22/Mar/2010
 
 \lx BP
-\ps
+\ps n
 \ge BP
 \dt 23/Mar/2009
 
 \lx Brigitta
-\ps
+\ps n
 \ge Brigitte
 \dt 29/Feb/2008
 
 \lx Bụdụlị
-\ps
+\ps n
 \ge Buduli
 \dt 14/Feb/2013
 
 \lx Bulun
 \a Bụlụn
 \a Bụlụŋ
-\ps
+\ps n
 \ge Bulun
 \dt 24/Feb/2012
 
 \lx Burcev
 \a Bursev
-\ps
+\ps n
 \ge Burtsev
 \dt 27/Feb/2010
 
 \lx Burjak
-\ps
+\ps n
 \ge Burjak
 \dt 11/Mar/2012
 
 \lx Burtsev
-\ps
+\ps n
 \ge Burtsev
 \dt 23/Mar/2010
 
 \lx Bušuev
 \a Bušuew
-\ps name
+\ps n
 \ge Bushuev
 \dt 20/Jan/2013
 
 \lx Bystrinskij
-\ps
+\ps n
 \ge Bystrinskij
 \dt 05/Jul/2007
 
 \lx Bystroj
 \a Bystryj
-\ps
+\ps n
 \ge Bystroe
 \nt The name of a settlement
 \dt 09/Jul/2009
 
 \lx Čajma
-\ps
+\ps n
 \ge Chajma
 \dt 26/Feb/2012
 
 \lx Čakrịtọn
-\ps
+\ps n
 \ge Chakriton
 \dt 06/Oct/2012
 
@@ -516,75 +516,75 @@ stands for
 \a Čemizep
 \a Čemez
 \a Čemezep
-\ps
+\ps n
 \ge Chemizov
 \dt 19/Mar/2012
 
 \lx Čerkanov
-\ps
+\ps n
 \ge Cherkanov
 \dt 05/Jul/2009
 
 \lx Čerkanova
-\ps
+\ps n
 \ge Cherkanov.gen.R
 \dt 12/Jul/2009
 
 \lx Čiŋŋi
-\ps
+\ps n
 \ge Chingi
 \dt 15/Feb/2013
 
 \lx Čọpan
 \a Čọpa
-\ps
+\ps n
 \ge Sopočnoe
 \dt 06/Jul/2007
 
 \lx Čọra
-\ps
+\ps n
 \ge Chora
 \dt 17/Mar/2008
 
 \lx Čukotka
-\ps
+\ps n
 \ge Chukotka
 \dt 26/Jun/2007
 
 \lx Čuvašija
-\ps
+\ps n
 \ge Chuvashia
 \dt 09/Mar/2008
 
 \lx Daik
-\ps
+\ps n
 \ge Daik
 \dt 31/Mar/2009
 
 \lx Dajana
-\ps
+\ps n
 \ge Dajana
 \dt 14/Mar/2012
 
 \lx Daniil
 \a Danil
-\ps
+\ps n
 \ge Daniel
 \dt 28/Feb/2010
 
 \lx Danilov
 \a Danilap
-\ps
+\ps n
 \ge Danilov
 \dt 25/Mar/2012
 
 \lx Dejl
-\ps
+\ps n
 \ge Dale
 \dt 01/Mar/2008
 
 \lx Demjan
-\ps
+\ps n
 \ge Demjan
 \dt 16/Mar/2012
 
@@ -592,121 +592,121 @@ stands for
 \a Deniki
 \a Deńeke
 \a Deńe
-\ps
+\ps n
 \ge Denikin
 \dt 16/Jul/2009
 
 \lx Denis
-\ps
+\ps n
 \ge
 \dt 07/Aug/2013
 
 \lx Deniske
-\ps
+\ps n
 \ge Denis.dim.R
 \dt 27/Mar/2012
 
 \lx Diana
-\ps
+\ps n
 \ge Diana
 \dt 04/Jul/2007
 
 \lx Dima
-\ps
+\ps n
 \ge Dima
 \dt 08/Mar/2012
 
 \lx Diodor
-\ps
+\ps n
 \ge Diodor
 \dt 07/Mar/2012
 
 \lx Dmitrievič
-\ps
+\ps n
 \ge Dmitrievich
 \dt 16/Jul/2009
 
 \lx Dmitrievna
-\ps
+\ps n
 \ge Dmitrievna
 \dt 18/Mar/2008
 
 \lx Dmitrij
 \a Miterej
 \a Mitrijan
-\ps
+\ps n
 \ge Dmitrij
 \dt 28/Feb/2008
 
 \lx Dohowul
-\ps
+\ps n
 \ge Dohowul
 \dt 02/Apr/2009
 
 \lx Dọmna
-\ps
+\ps n
 \ge Domna
 \dt 06/Jul/2009
 
 \lx družba
 \a drụžba
-\ps
+\ps n
 \ge chainsaw
 \dt 25/Jun/2009
 
 \lx Dụlgalaax
-\ps
+\ps n
 \ge Dulgalakh
 \dt 10/Mar/2012
 
 \lx Dụlgan
-\ps
+\ps n
 \ge Dulgan
 \nt name of a clan
 \dt 05/Jul/2007
 
 \lx Duńa
-\ps
+\ps n
 \ge Dunja
 \dt 19/Mar/2008
 
 \lx Dunja
-\ps
+\ps n
 \ge Dunja
 \dt 23/Feb/2012
 
 \lx Dyganova
-\ps
+\ps n
 \ge Dyganova
 \dt 06/Mar/2008
 
 \lx Edgar
-\ps
+\ps n
 \ge Edgar
 \dt 19/Feb/2010
 
 \lx Edik
-\ps
+\ps n
 \ge Edik
 \dt 03/Apr/2010
 
 \lx Eduard
-\ps
+\ps n
 \ge Edward
 \dt 21/Mar/2010
 
 \lx EE
-\ps
+\ps n
 \ge EE
 \dt 24/Mar/2009
 
 \lx Efim
-\ps
+\ps n
 \ge Efim
 \dt 08/Jul/2009
 
 \lx Efremov
-\ps
+\ps n
 \ge Efremov
 \dt 22/Feb/2008
 
@@ -714,34 +714,34 @@ stands for
 \a Egorka
 \a Dʒogortej
 \a Dʒogor
-\ps
+\ps n
 \ge Egor
 \dt 24/Feb/2012
 
 \lx Egorova
-\ps
+\ps n
 \ge Egorova
 \dt 08/Jun/2007
 
 \lx Egorovič
 \a Dʒögöröbis
-\ps
+\ps n
 \ge Egorovich
 \dt 26/Mar/2009
 
 \lx Egorovna
-\ps
+\ps n
 \ge Egorovna
 \dt 23/Feb/2008
 
 \lx EheXaja
-\ps
+\ps n
 \ge Ehe_Xaja
 \dt 15/Feb/2010
 
 \lx Ekaterina
 \a Keti
-\ps
+\ps n
 \ge Ekaterina
 \dt 15/Mar/2013
 
@@ -751,46 +751,46 @@ stands for
 \a Ilena
 \a Iele
 \a Lenuk
-\ps
+\ps n
 \ge Elena
 \dt 19/Mar/2012
 
 \lx Elizaveta
 \a Liza
-\ps
+\ps n
 \ge Elizabeth
 \dt 15/Mar/2013
 
 \lx Emeljan
 \a Umeljan
-\ps
+\ps n
 \ge Emeljan
 \dt 09/Jul/2009
 
 \lx Emilia
 \a Emil
-\ps
+\ps n
 \ge Emilia
 \dt 22/Mar/2009
 
 \lx EP
-\ps
+\ps n
 \ge EP
 \dt 23/Mar/2009
 
 \lx Erikit
-\ps
+\ps n
 \ge Erikit
 \dt 02/Apr/2009
 
 \lx Esso
 \a Essoː
-\ps
+\ps n
 \ge Esso
 \dt 26/Jun/2009
 
 \lx Eutulen
-\ps name
+\ps n
 \ge Eutulen
 \nt this is the way the "northerners"
 (Koryaks, most likely) refer to the
@@ -800,299 +800,299 @@ Adukanov_Sergej_life_030
 
 \lx Eveno-Bytantaj
 \a Ewen-Bytantaj
-\ps
+\ps n
 \ge Eveno-Bytantaj
 \dt 17/Feb/2010
 
 \lx Everstov
 \a Eberestep
-\ps
+\ps n
 \ge Everstov
 \dt 19/Feb/2010
 
 \lx Evgenij
 \a Ewgenij
 \a Jewgenij
-\ps
+\ps n
 \ge Evgenij
 \dt 09/Jul/2009
 
 \lx Evstafij
 \a Ịstap
 \a Jevstap
-\ps
+\ps n
 \ge Evstafij
 \dt 05/Jul/2009
 
 \lx Faina
-\ps
+\ps n
 \ge Faina
 \dt 21/Mar/2012
 
 \lx Fedorovič
-\ps
+\ps n
 \ge Fedorovich
 \dt 06/Jul/2009
 
 \lx Fedorovna
-\ps
+\ps n
 \ge Fedorovna
 \dt 22/Feb/2008
 
 \lx Fjodor
 \a Fjọdọr
-\ps
+\ps n
 \ge Fjodor
 \dt 21/Mar/2010
 
 \lx Fomič
-\ps
+\ps n
 \ge Fomich
 \dt 05/Jul/2009
 
 \lx Ftolazol
-\ps
+\ps n
 \ge Ftolazol
 \dt 11/Mar/2010
 
 \lx Galina
-\ps
+\ps n
 \ge Galina
 \dt 07/Oct/2012
 
 \lx Galja
 \a Galịː
-\ps
+\ps n
 \ge Galja
 \dt 14/Mar/2012
 
 \lx Ganja
-\ps
+\ps n
 \ge Ganja
 \dt 03/Mar/2012
 
 \lx Gavril
-\ps
+\ps n
 \ge Gabriel
 \dt 29/Feb/2012
 
 \lx Gavrilev
-\ps
+\ps n
 \ge Gavrilev
 \dt 25/Mar/2010
 
 \lx Gavrilevič
-\ps
+\ps n
 \ge Gavrilevich
 \dt 22/Mar/2013
 
 \lx Gavrilevna
-\ps
+\ps n
 \ge Gavrilevna
 \dt 22/Feb/2008
 
 \lx Gena
-\ps
+\ps n
 \ge Gena
 \dt 23/Jun/2007
 
 \lx German
-\ps
+\ps n
 \ge Herman
 \dt 07/Mar/2012
 
 \lx Gitler
-\ps
+\ps n
 \ge Hitler
 \dt 25/Mar/2010
 
 \lx Gọldawịč
-\ps
+\ps n
 \ge Goldawich
 \dt 17/Jul/2009
 
 \lx Golubaja_Divizija
-\ps
+\ps n
 \ge Blue_Division
 \dt 22/Mar/2010
 
 \lx Grigorevič
-\ps
+\ps n
 \ge Grigorevich
 \dt 21/Mar/2009
 
 \lx Grigorevna
-\ps
+\ps n
 \ge Grigorevna
 \dt 06/Jul/2009
 
 \lx Grigorij
-\ps
+\ps n
 \ge Grigorij
 \dt 06/Jul/2009
 
 \lx Griša
 \a Grińa
-\ps
+\ps n
 \ge Grisha
 \dt 19/Feb/2010
 
 \lx Hakańdʒa
-\ps
+\ps n
 \ge Hakandja
 \dt 09/Mar/2012
 
 \lx Hebeːčen
-\ps
+\ps n
 \ge Hebechen
 \dt 02/Mar/2010
 
 \lx Hejemčen
-\ps
+\ps n
 \ge Hejemčen
 \dt 19/Mar/2010
 
 \lx Hemeńdʒe
-\ps
+\ps n
 \ge Hemendje
 \dt 25/Feb/2012
 
 \lx Henńe
-\ps
+\ps n
 \ge
 \dt 16/Mar/2012
 
 \lx Hịakandʒa
-\ps
+\ps n
 \ge Hiakandja
 \dt 18/Feb/2012
 
 \lx Hịakańdʒa
-\ps
+\ps n
 \ge Hiakandja
 \dt 02/May/2010
 
 \lx Hịatačan
-\ps
+\ps n
 \ge Hiatachan
 \dt 27/Mar/2009
 
 \lx Họgịn
-\ps
+\ps n
 \ge Hogin
 \dt 22/Feb/2008
 
 \lx Holkuni
-\ps
+\ps n
 \ge Holkuni
 \dt 19/Mar/2013
 
 \lx Hudʒerene
-\ps
+\ps n
 \ge Hudjerene
 \dt 03/Mar/2012
 
 \lx Ịamme
-\ps
+\ps n
 \ge Iamme
 \dt 17/Jul/2009
 
 \lx Ičanga
-\ps
+\ps n
 \ge Ichanga
 \dt 15/Jul/2009
 
 \lx Ičča
 \a Iːčče
-\ps
+\ps n
 \ge Icha
 \dt 26/Jun/2009
 
 \lx Ičču
-\ps
+\ps n
 \ge Icha.acc.R
 \dt 12/Jul/2009
 
 \lx Igor
-\ps
+\ps n
 \ge Igor
 \dt 10/Mar/2012
 
 \lx Igorevič
-\ps
+\ps n
 \ge Igorevich
 \dt 15/Mar/2013
 
 \lx Igorevna
-\ps
+\ps n
 \ge Igorevna
 \dt 15/Mar/2013
 
 \lx Igor'
 \a Igoroša
-\ps
+\ps n
 \ge Igor
 \dt 13/Mar/2012
 
 \lx Ïjdaŋa
-\ps
+\ps n
 \ge Ijdanga
 \dt 19/Feb/2012
 
 \lx Ijon
-\ps
+\ps n
 \ge Ion
 \dt 15/Jul/2009
 
 \lx Ilič
-\ps
+\ps n
 \ge Ilyich
 \dt 14/Feb/2010
 
 \lx Ilja
-\ps
+\ps n
 \ge Ilja
 \dt 06/Jul/2009
 
 \lx Iljič
-\ps
+\ps n
 \ge Ilich
 \dt 24/Mar/2012
 
 \lx Ịljọ
-\ps
+\ps n
 \ge Leonid
 \dt 05/Jul/2009
 
 \lx Ịmanna
-\ps
+\ps n
 \ge Imanna
 \dt 10/Mar/2012
 
 \lx Ịndịbal
-\ps
+\ps n
 \ge Endybal
 \dt 19/Mar/2010
 
 \lx Inessa
-\ps
+\ps n
 \ge Inessa
 \dt 24/Feb/2012
 
 \lx Inna
-\ps name
+\ps n
 \ge Inna
 \dt 22/Dec/2012
 
 \lx Innokentevič
 \a Innokentič
-\ps
+\ps n
 \ge Innokentevič
 \dt 26/Jun/2009
 
 \lx Innokentevna
 \a Innokentjevna
-\ps
+\ps n
 \ge Innokentevna
 \dt 20/Jan/2013
 
@@ -1104,29 +1104,29 @@ Adukanov_Sergej_life_030
 
 \lx Ira
 \a Ire
-\ps
+\ps n
 \ge Ira
 \dt 14/Jul/2009
 
 \lx Irina
 \a Urina
 \a Inuk
-\ps
+\ps n
 \ge Irina
 \dt 25/Mar/2012
 
 \lx Isidor
-\ps
+\ps n
 \ge Isidor
 \dt 14/Feb/2010
 
 \lx Ita
-\ps
+\ps n
 \ge Ita
 \dt 02/Mar/2012
 
 \lx Ïtïk-Küöl
-\ps
+\ps n
 \ge Ytyk-Küöl
 \dt 18/Feb/2008
 
@@ -1138,34 +1138,34 @@ Adukanov_Sergej_life_030
 \a Ụjbaskịn
 \a Iwan
 \a Vanja
-\ps
+\ps n
 \ge Ivan
 \dt 05/Mar/2012
 
 \lx Ivanov
-\ps
+\ps n
 \ge Ivanov
 \dt 20/Jun/2007
 
 \lx Ivanovič
 \a Ivanič
-\ps
+\ps n
 \ge Ivanovich
 \dt 25/Jun/2009
 
 \lx Ivanovna
-\ps
+\ps n
 \ge Ivanovna
 \dt 05/Jul/2009
 
 \lx JaGU
-\ps
+\ps n
 \ge YSU
 \dt 22/Mar/2009
 
 \lx Jakov
 \a Jekov
-\ps
+\ps n
 \ge Jacob
 \dt 06/Jul/2009
 
@@ -1175,97 +1175,97 @@ Adukanov_Sergej_life_030
 \dt 17/Jul/2009
 
 \lx Jakovlevič
-\ps
+\ps n
 \ge Jakovlevich
 \dt 06/Oct/2012
 
 \lx Jakutija
-\ps
+\ps n
 \ge Yakutia
 \dt 23/Jun/2007
 
 \lx Jakutsk
 \a Jakutskaj
 \a Jakuːskaj
-\ps
+\ps n
 \ge Yakutsk
 \dt 01/Mar/2010
 
 \lx Jan
-\ps
+\ps n
 \ge Jan
 \dt 26/Mar/2012
 
 \lx Jana
-\ps name
+\ps n
 \ge Yana
 \dt 19/Jan/2013
 
 \lx Jaŋịjaŋaj
-\ps
+\ps n
 \ge Jangijangaj
 \dt 15/Feb/2013
 
 \lx Janovna
-\ps
+\ps n
 \ge Yanovna
 \dt 05/Mar/2012
 
 \lx Dʒargalax
-\ps
+\ps n
 \ge Djargalax
 \dt 17/Feb/2010
 
 \lx Jermak
 \a Jermaha
-\ps
+\ps n
 \ge Yermak
 \dt 07/Mar/2012
 
 \lx Dʒọkụːskaj
-\ps
+\ps n
 \ge Yakutsk
 \dt 20/Feb/2008
 
 \lx Julia
-\ps name
+\ps n
 \ge Julia
 \dt 22/Dec/2012
 
 \lx Jurij
 \a Jurka
-\ps
+\ps n
 \ge Jurij
 \dt 01/Apr/2009
 
 \lx Jur'evna
-\ps
+\ps n
 \ge Jurevna
 \dt 07/Oct/2012
 
 \lx Dʒus
-\ps
+\ps n
 \ge Djus
 \dt 02/Apr/2009
 
 \lx Kabaŋa
-\ps
+\ps n
 \ge Kabanga
 \dt 18/Jul/2009
 
 \lx Kamčatka
-\ps
+\ps n
 \ge Kamchatka
 \dt 05/Jul/2007
 
 \lx Karskoe_more
 \a Karskoe_mo
-\ps
+\ps n
 \ge Kara.Sea
 \dt 15/Mar/2012
 
 \lx Katerina
-\ps
+\ps n
 \ge Katharina
 \dt 03/Jul/2007
 
@@ -1274,40 +1274,40 @@ Adukanov_Sergej_life_030
 \a Kaːtja
 \a Xačụː
 \a Xačụk
-\ps
+\ps n
 \ge Katja
 \dt 14/Mar/2012
 
 \lx Katjuška
-\ps
+\ps n
 \ge Katjushka
 \dt 23/Feb/2012
 
 \lx Kebej
-\ps
+\ps n
 \ge Kobjaj
 \dt 08/Mar/2008
 
 \lx Kejmeti
-\ps
+\ps n
 \ge Kejmeti...
 \dt 22/Feb/2008
 
 \lx Kejmetinov
 \a Kejmetinop
 \a Kejmetinef
-\ps
+\ps n
 \ge Kejmetinov
 \dt 25/Mar/2012
 
 \lx Kejmetinova
-\ps
+\ps n
 \ge Kejmetinova
 \dt 22/Feb/2008
 
 \lx Kekuk
 \a Kiekuk
-\ps
+\ps n
 \ge Kekuk
 \nt name of a former village,
 abandoned when they enlarged the
@@ -1317,51 +1317,51 @@ settlements
 \lx Keša
 \a Kese
 \a Kiese
-\ps
+\ps n
 \ge Kesha
 \dt 23/Mar/2010
 
 \lx Ketačan
-\ps
+\ps n
 \ge Ketachan
 \dt 02/Jul/2007
 
 \lx Kileː
-\ps
+\ps n
 \ge Kile
 \dt 14/Feb/2010
 
 \lx Kipiː
-\ps
+\ps n
 \ge Kipi?
 \dt 24/Mar/2009
 
 \lx Kirill
 \a Kiril
 \a Kirilke
-\ps
+\ps n
 \ge Cyril
 \dt 24/Mar/2013
 
 \lx Kirillina
-\ps
+\ps n
 \ge Kirillina
 \dt 03/Mar/2012
 
 \lx Kirillovič
 \a Kirillit
-\ps
+\ps n
 \ge Kirillovich
 \dt 06/Jul/2009
 
 \lx Kirillovna
 \a Kirillovnu
-\ps
+\ps n
 \ge Kirillovna
 \dt 07/Jul/2007
 
 \lx Kirjak
-\ps
+\ps n
 \ge Kirjak
 \dt 14/Nov/2012
 
@@ -1372,120 +1372,120 @@ settlements
 
 \lx Kitaj
 \a Kịtaj
-\ps
+\ps n
 \ge China
 \dt 21/Mar/2010
 
 \lx Kitčen
-\ps
+\ps n
 \ge Kitchen
 \dt 14/Feb/2010
 
 \lx Klavdija
-\ps
+\ps n
 \ge Claudia
 \dt 03/Mar/2012
 
 \lx Kliment
 \a Klim
 \a Klimen
-\ps
+\ps n
 \ge Kliment
 \dt 19/Feb/2010
 
 \lx Klimka
 \a Klimke
-\ps
+\ps n
 \ge Klim.dim.R
 \dt 27/Mar/2012
 
 \lx Klimovič
-\ps
+\ps n
 \ge Klimovich
 \dt 11/Mar/2012
 
 \lx Koerkov
-\ps
+\ps n
 \ge Koerkov
 \dt 08/Jul/2009
 
 \lx Kolesov
 \a Kọlesap
-\ps
+\ps n
 \ge Kolesov
 \dt 25/Mar/2012
 
 \lx Kolesova
-\ps
+\ps n
 \ge Kolesova
 \dt 22/Mar/2013
 
 \lx Kolja
-\ps
+\ps n
 \ge Kolja
 \dt 21/Jun/2007
 
 \lx Kolumskij
-\ps
+\ps n
 \ge Kolumskij
 \dt 18/Jul/2009
 
 \lx Kolyma
 \a Kalịma
-\ps
+\ps n
 \ge Kolyma
 \dt 24/Feb/2012
 
 \lx Komarova
-\ps
+\ps n
 \ge Komarova
 \dt 23/Jun/2007
 
 \lx Kọnna
-\ps
+\ps n
 \ge Konna
 \dt 26/Jun/2009
 
 \lx Konstantin
 \a Kọnstantịn
 \a Kostekuːn
-\ps
+\ps n
 \ge Konstantin
 \dt 24/Feb/2012
 
 \lx Konstantinovič
-\ps
+\ps n
 \ge Konstantinovich
 \dt 29/Feb/2012
 
 \lx Konstantinovna
-\ps
+\ps n
 \ge Konstantinovna
 \dt 26/Feb/2012
 
 \lx Kostja
-\ps
+\ps n
 \ge Kostja
 \dt 16/Jun/2007
 
 \lx Kozyrevsk
 \a Kazyrevsk
-\ps
+\ps n
 \ge Kozyrevsk
 \dt 09/Jul/2009
 
 \lx Krapivnaj
-\ps
+\ps n
 \ge Krapivnaja
 \dt 26/Jun/2009
 
 \lx Krasnoe_more
-\ps
+\ps n
 \ge Red.Sea
 \dt 15/Mar/2012
 
 \lx Kristina
-\ps
+\ps n
 \ge Kristina
 \dt 22/Feb/2008
 
@@ -1496,240 +1496,240 @@ settlements
 \a Kịrbahaŋkịn
 \a Ịkịrbahaŋka
 \a Kịrịbahaŋkị
-\ps
+\ps n
 \ge Krivoshapkin
 \dt 24/Mar/2012
 
 \lx Krivošapkina
-\ps
+\ps n
 \ge Krivoshapkina
 \dt 22/Feb/2008
 
 \lx Krọlja
-\ps
+\ps n
 \ge Krolja
 \dt 27/Mar/2012
 
 \lx Ksenofontovič
-\ps
+\ps n
 \ge Ksenofontovich
 \dt 25/Mar/2010
 
 \lx Ksjuša
-\ps
+\ps n
 \ge Ksjusha
 \dt 11/Mar/2012
 
 \lx Kubanki
-\ps
+\ps n
 \ge Kubanki
 \dt 15/Jul/2009
 
 \lx Kučerenko
-\ps
+\ps n
 \ge Kučerenko
 \dt 04/Jul/2007
 
 \lx Kụjụl
-\ps
+\ps n
 \ge Kujul
 \dt 14/Feb/2013
 
 \lx Kụrụŋnaːx
-\ps
+\ps n
 \ge Kurungnax
 \dt 28/Feb/2010
 
 \lx Kutuzov
-\ps
+\ps n
 \ge Kutuzov
 \dt 15/Jul/2009
 
 \lx Kyymov
 \a Kyymap
-\ps
+\ps n
 \ge Kymov
 \dt 15/Feb/2010
 
 \lx Lamïnxa
 \a Lamunxinskaj
-\ps
+\ps n
 \ge Lamynxa
 \dt 19/Mar/2010
 
 \lx Lamunxinskij
 \a Lamunkinskij
-\ps
+\ps n
 \ge Lamunxin
 \dt 24/Mar/2012
 
 \lx Lamutskaj
-\ps
+\ps n
 \ge Lamutskij
 \dt 08/Mar/2008
 
 \lx Lamutskij
-\ps
+\ps n
 \ge Lamutskij
 \dt 24/Mar/2012
 
 \lx Laučan
 \a Leučen
 \a Laụčan
-\ps
+\ps n
 \ge Lauchan
 \dt 15/Jun/2009
 
 \lx Lena
-\ps
+\ps n
 \ge Lena
 \dt 21/Mar/2010
 
 \lx Lenin
-\ps
+\ps n
 \ge Lenin
 \dt 13/Feb/2010
 
 \lx Leningrad
 \a Leningrat
-\ps
+\ps n
 \ge Leningrad
 \dt 15/Mar/2012
 
 \lx Leontij
 \a Leonči
-\ps
+\ps n
 \ge Leontij
 \dt 09/Jul/2009
 
 \lx Leopold
-\ps
+\ps n
 \ge Leopold
 \dt 01/Mar/2008
 
 \lx Lialko
-\ps
+\ps n
 \ge Lialko
 \dt 19/Mar/2010
 
 \lx Lidija
-\ps
+\ps n
 \ge Lidija
 \dt 16/Jul/2009
 
 \lx liːdva
-\ps
+\ps n
 \ge LI-2
 \dt 09/Jul/2009
 
 \lx Lilije
-\ps
+\ps n
 \ge Lilja
 \dt 04/Jul/2007
 
 \lx Lilja
 \a Liljetta
-\ps
+\ps n
 \ge Lilja
 \dt 13/Mar/2012
 
 \lx Ljubov
-\ps
+\ps n
 \ge Ljubov
 \dt 22/Feb/2008
 
 \lx Ljudmila
 \a Ljudmile
-\ps
+\ps n
 \ge Ljudmila
 \dt 08/Jul/2009
 
 \lx Loris
-\ps
+\ps n
 \ge Loris
 \dt 02/Apr/2009
 
 \lx Lukin
-\ps
+\ps n
 \ge Lukin
 \dt 02/Mar/2010
 
 \lx Lёnja
 \a Ljonja
-\ps
+\ps n
 \ge Ljonja
 \dt 14/Nov/2012
 
 \lx Magadanskij
-\ps
+\ps n
 \ge from.Magadan.R
 \dt 06/Jul/2007
 
 \lx Maja
-\ps
+\ps n
 \ge Maja
 \dt 23/Feb/2008
 
 \lx Makarovna
-\ps
+\ps n
 \ge Makarovna
 \dt 23/Feb/2012
 
 \lx Makenzie
-\ps
+\ps n
 \ge Mackenzie
 \dt 23/Mar/2010
 
 \lx Maksim
 \a Maksakụ
-\ps
+\ps n
 \ge Maksim
 \dt 15/Jul/2009
 
 \lx Maksimovna
-\ps
+\ps n
 \ge Maksimovna
 \dt 08/Jun/2007
 
 \lx Maltar
-\ps
+\ps n
 \ge Maltar
 \nt the name of a little river near the
 Iccha
 \dt 09/Jul/2009
 
 \lx Managịs
-\ps
+\ps n
 \ge Managis
 \dt 05/Jul/2007
 
 \lx MaŋanXajalaax
-\ps
+\ps n
 \ge Mangan.Khajalaakh
 \dt 10/Mar/2012
 
 \lx Marija
-\ps
+\ps n
 \ge Maria
 \dt 15/Jun/2007
 
 \lx Marina
-\ps
+\ps n
 \ge Marina
 \dt 22/Feb/2008
 
 \lx Mariša
-\ps
+\ps n
 \ge Marisha
 \dt 05/Mar/2012
 
 \lx Markatta
-\ps
+\ps n
 \ge Markatta
 \dt 25/Feb/2012
 
 \lx Marta
-\ps
+\ps n
 \ge Martha
 \dt 12/Mar/2012
 
@@ -1744,185 +1744,185 @@ Iccha
 \lx Mašen'ka
 \a Mašenka
 \a Mašịŋka
-\ps
+\ps n
 \ge Mashenka
 \dt 23/Feb/2012
 
 \lx Matrena
 \a Matrjona
-\ps
+\ps n
 \ge Matrena
 \dt 21/Mar/2009
 
 \lx Matrjona
-\ps
+\ps n
 \ge Matrjona
 \dt 02/Mar/2012
 
 \lx Matvej
-\ps
+\ps n
 \ge Matthew
 \dt 15/Mar/2013
 
 \lx Mavra
 \a Mavru
-\ps
+\ps n
 \ge Mavra
 \dt 07/Jul/2007
 
 \lx Melita
-\ps name
+\ps n
 \ge Melita
 \dt 22/Dec/2012
 
 \lx Merlenke
-\ps
+\ps n
 \ge Merlenke
 \dt 22/Feb/2008
 
 \lx Milkovo
-\ps
+\ps n
 \ge Milkovo
 \dt 06/Jul/2007
 
 \lx Miša
-\ps
+\ps n
 \ge Misha
 \dt 17/Jun/2007
 
 \lx Mišuk
-\ps
+\ps n
 \ge Mishuk
 \dt 02/Apr/2009
 
 \lx Mitja
 \a Miteː
-\ps
+\ps n
 \ge Mitja
 \dt 26/Mar/2009
 
 \lx Mitrofanovna
-\ps
+\ps n
 \ge Mitrofanovna
 \dt 09/Jul/2009
 
 \lx Mixail
-\ps
+\ps n
 \ge Michael
 \dt 26/Jun/2009
 
 \lx MN
-\ps
+\ps n
 \ge MN
 \dt 24/Mar/2009
 
 \lx Mọːmịja
-\ps
+\ps n
 \ge Momija
 \dt 01/Mar/2012
 
 \lx Moskva
 \a Maskva
-\ps
+\ps n
 \ge Moscow
 \dt 14/Feb/2010
 
 \lx Moskvy
-\ps
+\ps n
 \ge Moscow.gen.R
 \dt 01/Aug/2009
 
 \lx Mụkụčị
 \a Mụkụčụ
-\ps
+\ps n
 \ge Mukuchi
 \dt 21/Mar/2010
 
 \lx Nadežda
 \a Nadʒụk
-\ps
+\ps n
 \ge Nadezhda
 \dt 02/Mar/2012
 
 \lx Nam
-\ps
+\ps n
 \ge Namtsy
 \dt 21/Mar/2010
 
 \lx Namskij
-\ps
+\ps n
 \ge Namtsy
 \dt 15/Feb/2010
 
 \lx Nastja
 \a Nast
-\ps name
+\ps n
 \ge Nastja
 \dt 22/Mar/2013
 
 \lx Natalia
 \a Nataša
 \a Nataš
-\ps
+\ps n
 \ge Natalia
 \dt 10/Mar/2012
 
 \lx Nesterov
 \a Nesterev
-\ps
+\ps n
 \ge Nesterov
 \dt 05/Mar/2012
 
 \lx Neustroev
 \a Neustroef
-\ps
+\ps n
 \ge Neustroev
 \dt 15/Feb/2010
 
 \lx Ńịbịča
 \a Ńịmịča
-\ps
+\ps n
 \ge Nibicha
 \dt 21/Mar/2010
 
 \lx Nidiše
-\ps
+\ps n
 \ge Nadežda
 \dt 04/Jul/2007
 
 \lx Nika
-\ps
+\ps n
 \ge Nika
 \dt 23/Mar/2012
 
 \lx Nikifor
-\ps
+\ps n
 \ge Nikifor
 \dt 19/Mar/2008
 
 \lx Nikiforovna
-\ps
+\ps n
 \ge Nikiforovna
 \dt 15/Mar/2012
 
 \lx Nikita
-\ps
+\ps n
 \ge Nikita
 \dt 22/Feb/2008
 
 \lx Nikitin
-\ps
+\ps n
 \ge Nikitin
 \dt 26/Mar/2009
 
 \lx Nikolaevič
 \a Nikolaevis
-\ps
+\ps n
 \ge Nikolaevich
 \dt 24/Mar/2012
 
 \lx Nikolaevna
-\ps
+\ps n
 \ge Nikolaevna
 \dt 20/Jun/2007
 
@@ -1931,7 +1931,7 @@ Iccha
 \a Mikulaj
 \a Ńụkụlaj
 \a Kọljụk
-\ps
+\ps n
 \ge Nikolaj
 \dt 02/Mar/2012
 
@@ -1941,182 +1941,182 @@ Iccha
 \dt 25/Feb/2012
 
 \lx Ńịrgịnịńdʒa
-\ps
+\ps n
 \ge Nirginindja
 \dt 27/Mar/2009
 
 \lx Nogovitsyn
 \a Nogavitsyn
 \a Nogovihyn
-\ps
+\ps n
 \ge Nogovitsyn
 \dt 16/Mar/2012
 
 \lx Ńoltek
-\ps
+\ps n
 \ge Sunny
 \dt 22/Mar/2009
 
 \lx Ńọːra
-\ps
+\ps n
 \ge Njora
 \dt 05/Mar/2012
 
 \lx NotreDam
-\ps
+\ps n
 \ge Notre-Dame
 \dt 05/Mar/2008
 
 \lx NTOT
-\ps
+\ps n
 \ge NTOT
 \dt 22/Mar/2010
 
 \lx Nụndịmbal
-\ps
+\ps n
 \ge Nundimbal
 \dt 20/Feb/2008
 
 \lx Oblukovina
 \a Ubluke
-\ps
+\ps n
 \ge Oblukovina
 \dt 13/Jul/2009
 
 \lx Ọbụ
-\ps
+\ps n
 \ge Obu
 \dt 05/Mar/2008
 
 \lx Ojuːnskij
 \a Ojuːnskaj
-\ps
+\ps n
 \ge Ojunskij
 \dt 14/Feb/2010
 
 \lx Okonešnikov
-\ps
+\ps n
 \ge Okoneshnikov
 \dt 20/Mar/2010
 
 \lx Oksana
 \a Ọksaː
-\ps
+\ps n
 \ge Oksana
 \dt 26/Mar/2012
 
 \lx Oktjabrina
-\ps
+\ps n
 \ge Oktjabrina
 \dt 26/Jun/2007
 
 \lx Oleg
-\ps
+\ps n
 \ge Oleg
 \dt 13/Jun/2007
 
 \lx Olga
 \a Olja
-\ps
+\ps n
 \ge Olga
 \dt 26/Feb/2012
 
 \lx Oljutorskie
-\ps
+\ps n
 \ge Aljutor
 \dt 26/Jun/2007
 
 \lx Olleŋe
-\ps
+\ps n
 \ge Ollenge
 \dt 16/Jul/2009
 
 \lx Ölöːn
-\ps
+\ps n
 \ge Olenek
 \dt 26/Mar/2010
 
 \lx Omčeni
 \a Emčeni
-\ps
+\ps n
 \ge Emcheni
 \dt 03/Mar/2012
 
 \lx Osipov
 \a Ọsịpaw
-\ps
+\ps n
 \ge Osipov
 \dt 25/Feb/2012
 
 \lx Oxotskoe
 \a Axotskaj
-\ps
+\ps n
 \ge Okhotsk
 \dt 24/Feb/2012
 
 \lx Ozernaja
 \a Ozernaj
-\ps
+\ps n
 \ge Ozernaja
 \dt 13/Jul/2009
 
 \lx Paderina
-\ps name
+\ps n
 \ge Paderina
 \dt 22/Dec/2012
 
 \lx Paka
-\ps
+\ps n
 \ge Paka
 \dt 09/Jul/2007
 
 \lx Palana
-\ps
+\ps n
 \ge Palana
 \dt 06/Oct/2012
 
 \lx Pariž
-\ps
+\ps n
 \ge Paris
 \dt 05/Mar/2008
 
 \lx Paško
 \a Paškọ
 \a Paskọ
-\ps
+\ps n
 \ge Pashko
 \dt 26/Feb/2012
 
 \lx Pavel
 \a Pavlik
-\ps
+\ps n
 \ge Pavel
 \dt 20/Jan/2013
 
 \lx Pavlov
-\ps
+\ps n
 \ge Pavlov
 \dt 12/Mar/2012
 
 \lx Pavlova
-\ps
+\ps n
 \ge Pavlova
 \dt 22/Feb/2008
 
 \lx Pavlovič
-\ps
+\ps n
 \ge Pavlovich
 \dt 24/Mar/2009
 
 \lx Pestrjakov
-\ps
+\ps n
 \ge Pestrjakov
 \dt 13/Mar/2012
 
 \lx Petja
 \a Peto
 \a Pịtọː
-\ps
+\ps n
 \ge Petja
 \dt 15/Mar/2013
 
@@ -2124,161 +2124,161 @@ Iccha
 \a Büötr
 \a Bötr
 \a Pjọtr
-\ps
+\ps n
 \ge Petr
 \dt 09/Jul/2009
 
 \lx Petropavlovsk
-\ps
+\ps n
 \ge Petropavlovsk
 \dt 17/Jun/2007
 
 \lx Petrov
-\ps
+\ps n
 \ge Petrov
 \dt 09/Jun/2007
 
 \lx Petrovič
-\ps
+\ps n
 \ge Petrovich
 \dt 21/Mar/2009
 
 \lx Petrovna
-\ps
+\ps n
 \ge Petrovna
 \dt 21/Mar/2009
 
 \lx Petrus
 \a Petruh
-\ps
+\ps n
 \ge Petrus
 \dt 19/Mar/2012
 
 \lx Platon
 \a Platọn
-\ps
+\ps n
 \ge Platon
 \dt 25/Mar/2012
 
 \lx Pọgọ
-\ps
+\ps n
 \ge Pogo
 \dt 12/Mar/2012
 
 \lx Polina
-\ps
+\ps n
 \ge Polina
 \dt 07/Jul/2007
 
 \lx Polša
-\ps
+\ps n
 \ge Poland
 \dt 11/Mar/2010
 
 \lx Pol'ša
 \a Pọlša
-\ps
+\ps n
 \ge Poland
 \dt 26/Mar/2010
 
 \lx Potapova
-\ps
+\ps n
 \ge Potapova
 \dt 29/Feb/2012
 
 \lx Praga
-\ps
+\ps n
 \ge Prague
 \dt 26/Mar/2010
 
 \lx Praskovja
 \a Praskọn
 \a Parọː
-\ps
+\ps n
 \ge Praskovja
 \dt 16/Mar/2012
 
 \lx Prokopij
 \a Prọnja
-\ps
+\ps n
 \ge Prokopij
 \dt 29/Feb/2012
 
 \lx Prončev
-\ps
+\ps n
 \ge Pronchev
 \dt 09/Jul/2009
 
 \lx Pudov
-\ps
+\ps n
 \ge Pudov
 \dt 16/Mar/2012
 
 \lx pulemet
-\ps
+\ps n
 \ge machine.gun.R
 \dt 26/Jun/2009
 
 \lx Raisa
-\ps
+\ps n
 \ge Raisa
 \dt 29/Feb/2008
 
 \lx Raja
-\ps
+\ps n
 \ge Raja
 \dt 23/Jun/2007
 
 \lx Reks
-\ps
+\ps n
 \ge Rex
 \dt 31/Mar/2009
 
 \lx Rima
-\ps
+\ps n
 \ge Rima
 \dt 08/Jun/2007
 
 \lx Rimma
-\ps name
+\ps n
 \ge Rimma
 \dt 20/Jan/2013
 
 \lx Rozalija
-\ps
+\ps n
 \ge Rosalia
 \dt 10/Mar/2012
 
 \lx Ruslan
-\ps
+\ps n
 \ge Ruslan
 \dt 14/Jul/2009
 
 \lx Rustam
-\ps
+\ps n
 \ge Rustam
 \dt 19/Feb/2010
 
 \lx Sakkyryrskij
-\ps
+\ps n
 \ge Sakkyryr
 \dt 15/Feb/2010
 
 \lx Sakkyryyr
 \a Sakkyryr
 \a Hakkịrịr
-\ps
+\ps n
 \ge Sakkyryyr
 \dt 17/Feb/2010
 
 \lx Salmazov
-\ps
+\ps n
 \ge Salmazov
 \dt 23/Mar/2010
 
 \lx Samojlov
 \a Hamajịlap
-\ps
+\ps n
 \ge Samojlov
 \dt 24/Feb/2012
 
@@ -2286,34 +2286,34 @@ Iccha
 \a Sangaːr
 \a Hangaːr
 \a Haŋgar
-\ps
+\ps n
 \ge Sangar
 \dt 03/May/2010
 
 \lx Sanụč
 \a Šanụt
-\ps
+\ps n
 \ge Sanuč
 \dt 22/Jun/2009
 
 \lx Sargïlana
 \a Hargï
-\ps
+\ps n
 \ge Sargylana
 \dt 10/Mar/2012
 
 \lx Savelixa
-\ps
+\ps n
 \ge Savelixa
 \dt 14/Feb/2013
 
 \lx SE
-\ps
+\ps n
 \ge SE
 \dt 26/Mar/2009
 
 \lx Sebeːnküöl
-\ps
+\ps n
 \ge Sebjan.Küöl
 \dt 25/Mar/2010
 
@@ -2324,7 +2324,7 @@ Iccha
 \a Sebeːn
 \a Sebjan
 \a Sebja
-\ps
+\ps n
 \ge Sebjan-Küöl
 \dt 26/Mar/2012
 
@@ -2334,183 +2334,183 @@ Iccha
 \a Siegen
 \a Segen-Köl
 \a Hiegen-Köl
-\ps
+\ps n
 \ge Segen.Kuel
 \dt 24/Mar/2012
 
 \lx Semen
 \a Henńe
-\ps
+\ps n
 \ge Semen
 \dt 26/Mar/2012
 
 \lx Semenova
 \a
-\ps
+\ps n
 \ge Semenova
 \dt 01/Mar/2012
 
 \lx Semёn
 \a Semjọn
 \a Semen
-\ps
+\ps n
 \ge Semen
 \dt 05/Jul/2009
 
 \lx Semёn
-\ps
+\ps n
 \ge Semen
 \dt 03/Mar/2010
 
 \lx Semёnov
 \a Hemenep
-\ps
+\ps n
 \ge Semenov
 \dt 24/Feb/2012
 
 \lx Semёnovič
 \a Hemenovis
-\ps
+\ps n
 \ge Semenovich
 \dt 24/Feb/2012
 
 \lx Serafimovna
-\ps
+\ps n
 \ge Serafimovna
 \dt 10/Mar/2012
 
 \lx Sergej
 \a Hergej
 \a Čede
-\ps
+\ps n
 \ge Sergej
 \dt 06/Oct/2012
 
 \lx Simon
-\ps
+\ps n
 \ge Simon
 \dt 11/Mar/2012
 
 \lx Sirbu
-\ps
+\ps n
 \ge Sirbu
 \dt 22/Mar/2010
 
 \lx Slepcov
 \a Sleptsov
-\ps
+\ps n
 \ge Sleptsov
 \dt 29/Feb/2012
 
 \lx Slugin
-\ps
+\ps n
 \ge Slugin
 \dt 06/Oct/2012
 
 \lx Slugina
-\ps
+\ps n
 \ge Slugina.gen.R
 \dt 13/Jul/2009
 
 \lx Smetanina
-\ps
+\ps n
 \ge Smetanina
 \dt 22/Mar/2009
 
 \lx Smirnov
 \a Smirnova
-\ps
+\ps n
 \ge Smirnov
 \dt 24/Mar/2010
 
 \lx Snežana
-\ps
+\ps n
 \ge Snezhana
 \dt 22/Feb/2008
 
 \lx Sọčị
-\ps
+\ps n
 \ge Sochi
 \dt 15/Mar/2012
 
 \lx Sofija
-\ps
+\ps n
 \ge Sophia
 \dt 17/Mar/2008
 
 \lx Solodikov
-\ps
+\ps n
 \ge Solodikov
 \dt 06/Jul/2009
 
 \lx Sonja
-\ps
+\ps n
 \ge Sonja
 \dt 15/Jul/2009
 
 \lx Sọrdax
-\ps
+\ps n
 \ge Sordax
 \dt 19/Feb/2012
 
 \lx sorokovoj
 \a sarakavọj
-\ps
+\ps n
 \ge fortieth.km
 \dt 26/Jun/2009
 
 \lx Sovetskij_Sojuz
 \a Sawetskaj_Sajuz
-\ps
+\ps n
 \ge Soviet.Union
 \dt 11/Mar/2010
 
 \lx Spidola
 \a Ispidola
-\ps
+\ps n
 \ge Spidola
 \dt 22/Feb/2010
 
 \lx Spiridonovič
-\ps
+\ps n
 \ge Spiridonovich
 \dt 22/Feb/2008
 
 \lx Spiridonovna
-\ps
+\ps n
 \ge Spiridonovna
 \dt 10/Mar/2012
 
 \lx Srednjaja_Azija
 \a Srednij_Azija
-\ps
+\ps n
 \ge Central.Asia
 \dt 11/Mar/2010
 
 \lx Stalin
-\ps
+\ps n
 \ge Stalin
 \dt 08/Mar/2008
 
 \lx Stalina
-\ps
+\ps n
 \ge Stalin.acc.R
 \dt 26/Mar/2010
 
 \lx Stanislav
 \a Stasik
-\ps
+\ps n
 \ge Stanislav
 \dt 28/Feb/2010
 
 \lx Starkov
-\ps
+\ps n
 \ge Starkov
 \dt 16/Mar/2012
 
 \lx Stepan
 \a Stjọpa
-\ps
+\ps n
 \ge Stepan
 \dt 28/Mar/2012
 
@@ -2519,77 +2519,77 @@ Iccha
 \a Stepanop
 \a Istepanov
 \a Ịstịpanap
-\ps
+\ps n
 \ge Stepanov
 \dt 25/Mar/2012
 
 \lx Stepanova
-\ps
+\ps n
 \ge Stepanova
 \dt 22/Feb/2008
 
 \lx Stepanovič
-\ps
+\ps n
 \ge Stepanovich
 \dt 05/Jul/2009
 
 \lx Stručkova
-\ps
+\ps n
 \ge Struchkova
 \dt 09/Mar/2010
 
 \lx Suntar
 \a Hụntaːr
-\ps
+\ps n
 \ge Suntar
 \dt 21/Mar/2010
 
 \lx Sverlovaja_Gora
 \a Sherlovaja_Gora
-\ps
+\ps n
 \ge Sverlovaja_Gora
 \dt 22/Mar/2010
 
 \lx Sveta
-\ps
+\ps n
 \ge Sveta
 \dt 23/Jun/2007
 
 \lx Svetlana
-\ps
+\ps n
 \ge Svetlana
 \dt 23/Jun/2007
 
 \lx Tabalax
 \a Tabalak
-\ps
+\ps n
 \ge Tabalax
 \dt 19/Feb/2010
 
 \lx Taisija
 \a Taja
-\ps
+\ps n
 \ge Taisija
 \dt 27/Mar/2012
 
 \lx Tajańdʒa
-\ps
+\ps n
 \ge Tajandja
 \dt 05/Mar/2012
 
 \lx Tamara
-\ps
+\ps n
 \ge Tamara
 \dt 15/Mar/2012
 
 \lx Taškent
 \a Tašken
-\ps
+\ps n
 \ge Tashkent
 \dt 11/Mar/2010
 
 \lx Tašmore
-\ps
+\ps n
 \ge Tash-Sea
 \dt 15/Mar/2012
 
@@ -2597,99 +2597,99 @@ Iccha
 \a Tanja
 \a Takčịana
 \a Takčana
-\ps
+\ps n
 \ge Tatjana
 \dt 27/Jan/2013
 
 \lx Teliliwut
-\ps
+\ps n
 \ge Teliliwut
 \dt 14/Feb/2013
 
 \lx Tïllaːx
-\ps
+\ps n
 \ge Tyllax
 \dt 14/Feb/2013
 
 \lx Timofej
-\ps name
+\ps n
 \ge Timofej
 \dt 24/Jan/2013
 
 \lx Timur
-\ps
+\ps n
 \ge Timur
 \dt 22/Feb/2008
 
 \lx Tiŋńe
-\ps
+\ps n
 \ge Tingne
 \dt 15/Feb/2013
 
 \lx Tirextex
-\ps
+\ps n
 \ge Tirextex
 \dt 20/Feb/2008
 
 \lx Tixij.Don
-\ps
+\ps n
 \ge Silent.Don
 \dt 16/Jul/2009
 
 \lx Tokonok
-\ps
+\ps n
 \ge Tokonok
 \dt 02/Apr/2009
 
 \lx Tompo
 \a Tampọ
-\ps
+\ps n
 \ge Tompo
 \dt 26/Feb/2012
 
 \lx Toŋekčen
-\ps
+\ps n
 \ge Tongekchen
 \dt 15/Mar/2013
 
 \lx Tonne
-\ps
+\ps n
 \ge Tonne
 \dt 17/Jul/2009
 
 \lx TP
-\ps
+\ps n
 \ge TP
 \dt 23/Mar/2009
 
 \lx Trifonovič
-\ps
+\ps n
 \ge Trifonovich
 \dt 06/Jul/2009
 
 \lx Tujara
-\ps
+\ps n
 \ge Tujara
 \dt 20/Mar/2010
 
 \lx Tụlahịnap
-\ps
+\ps n
 \ge Tulasinov
 \dt 31/Mar/2009
 
 \lx Tụmara
-\ps
+\ps n
 \ge Tumara
 \dt 05/Mar/2012
 
 \lx Turček
-\ps
+\ps n
 \ge Turček
 \dt 26/Mar/2010
 
 \lx Twajaːn
 \a Twajaː
-\ps
+\ps n
 \ge Twajaːn
 \nt Name of a former village, which
 was dissolved when they
@@ -2697,56 +2697,56 @@ ukrupnjali Esso.
 \dt 02/Jul/2007
 
 \lx Ubluka
-\ps
+\ps n
 \ge Oblukovina
 \dt 06/Jul/2007
 
 \lx Ugulana
-\ps
+\ps n
 \ge Ugulana
 \dt 22/Feb/2008
 
 \lx Ụịndʒa
-\ps name
+\ps n
 \ge Uindja
 \dt 02/Dec/2012
 
 \lx Ụjịŋkan
-\ps
+\ps n
 \ge Ujiŋkan
 \nt name of a clan
 \dt 05/Jul/2007
 
 \lx Ujusxan
-\ps
+\ps n
 \ge Ujusxan
 \dt 06/Mar/2008
 
 \lx Ukraina
-\ps
+\ps n
 \ge Ukraine
 \dt 22/Mar/2010
 
 \lx Uleŋeńdʒe
-\ps
+\ps n
 \ge Ulengendje
 \nt Name of a mountain near Esso
 \dt 09/Jul/2009
 
 \lx Uljana
-\ps
+\ps n
 \ge Uljana
 \dt 26/Jun/2007
 
 \lx Uljanov
 \a Uljanap
-\ps
+\ps n
 \ge Uljanov
 \dt 24/Mar/2012
 
 \lx Ural
 \a Ụral
-\ps
+\ps n
 \ge Urals
 \dt 21/Mar/2010
 
@@ -2757,27 +2757,27 @@ ukrupnjali Esso.
 
 \lx Ust'-Xajrjuzovo
 \a Ust-Xaːrịzọv
-\ps
+\ps n
 \ge Ust-Xajrjuzovo
 \dt 09/Jul/2009
 
 \lx Uybanop
-\ps
+\ps n
 \ge Ivanov
 \dt 23/Feb/2008
 
 \lx Vadeːm
-\ps
+\ps n
 \ge Vadim.voc
 \dt 16/Jul/2009
 
 \lx Vadim
-\ps
+\ps n
 \ge Vadim
 \dt 16/Jul/2009
 
 \lx Valentin
-\ps
+\ps n
 \ge Valentin
 \dt 17/Mar/2008
 
@@ -2786,25 +2786,25 @@ ukrupnjali Esso.
 \a Balerik
 \a Valerik
 \a Valerja
-\ps
+\ps n
 \ge Valerij.dim
 \dt 05/Mar/2012
 
 \lx Valerevič
-\ps
+\ps n
 \ge Valerevich
 \dt 26/Mar/2012
 
 \lx Valerevna
 \a Valer
-\ps
+\ps n
 \ge Valerevna
 \dt 01/Mar/2012
 
 \lx Varvara
 \a Barịŋka
 \a Varịŋka
-\ps
+\ps n
 \ge Barbara
 \dt 05/Mar/2012
 
@@ -2812,52 +2812,52 @@ ukrupnjali Esso.
 \a Vasilevis
 \a Bahịlajabịs
 \a Vasilit
-\ps
+\ps n
 \ge Vasilevich
 \dt 24/Mar/2012
 
 \lx Vasilevna
-\ps
+\ps n
 \ge Vasilevna
 \dt 21/Mar/2009
 
 \lx Vasilij
 \a Bahịlaj
 \a Mačịlị
-\ps
+\ps n
 \ge Vasilij
 \dt 09/Jul/2009
 
 \lx Vasilina
-\ps name
+\ps n
 \ge Vasilina
 \dt 22/Dec/2012
 
 \lx Vasilisa
-\ps name
+\ps n
 \ge Vasilisa
 \dt 24/Jan/2013
 
 \lx Vasja
 \a Baska
 \a Vasik
-\ps
+\ps n
 \ge Vasja
 \dt 22/Jan/2013
 
 \lx Vasjọk
-\ps
+\ps n
 \ge Vasjok
 \dt 10/Mar/2012
 
 \lx Velikanov
-\ps
+\ps n
 \ge Velikanov
 \dt 21/Mar/2010
 
 \lx Vena
 \a Viene
-\ps
+\ps n
 \ge Vienna
 \dt 25/Mar/2010
 
@@ -2866,27 +2866,27 @@ ukrupnjali Esso.
 \dt 12/Jul/2009
 
 \lx Vengrija
-\ps
+\ps n
 \ge Hungary
 \dt 11/Mar/2010
 
 \lx Verxojanskij
 \a Werkojanskaj
 \a Werkejeːnskej
-\ps
+\ps n
 \ge Verkhojansk
 \dt 24/Feb/2012
 
 \lx Viktor
 \a Vitja
-\ps
+\ps n
 \ge Viktor
 \dt 14/Jul/2009
 
 \lx Viljuj
 \a Bülüː
 \a Bulu
-\ps
+\ps n
 \ge Vilyuy
 \dt 24/Feb/2012
 
@@ -2899,78 +2899,78 @@ ukrupnjali Esso.
 \dt 26/Mar/2012
 
 \lx Vladimirovič
-\ps
+\ps n
 \ge Vladimirovich
 \dt 16/Mar/2012
 
 \lx Vladimirovna
-\ps
+\ps n
 \ge Vladimirovna
 \dt 23/Jun/2007
 
 \lx Volkov
 \a Bọlkap
-\ps
+\ps n
 \ge Volkov
 \dt 25/Mar/2012
 
 \lx Xabarovsk
-\ps
+\ps n
 \ge Khabarovsk
 \dt 23/Jun/2007
 
 \lx Xaịlịna
 \a Xaịrịna
 \a Xaịlịnọ
-\ps
+\ps n
 \ge Xailino
 \dt 26/Oct/2012
 
 \lx Xajrjuzovo
 \a Xajrịzọv
-\ps
+\ps n
 \ge Xajrjuzovo
 \dt 20/Jul/2008
 
 \lx Xannaːx
-\ps
+\ps n
 \ge Xanax
 \dt 25/Feb/2012
 
 \lx Xọbọjọtọ
-\ps
+\ps n
 \ge Khobojoto
 \dt 05/Mar/2012
 
 \lx Xristina
-\ps
+\ps n
 \ge Kristina
 \dt 24/Mar/2010
 
 \lx Xristofor
-\ps
+\ps n
 \ge Xristofor
 \dt 14/Feb/2010
 
 \lx Xristoforovič
 \a Xristoforič
-\ps
+\ps n
 \ge Xristovorovich
 \dt 16/Jul/2009
 
 \lx Zabaikalskij_Voennyj_Okrug
-\ps
+\ps n
 \ge Transbaikal_Defense_Region
 \dt 22/Mar/2010
 
 \lx Žanna
-\ps
+\ps n
 \ge Zhanna
 \dt 02/Mar/2012
 
 \lx Zaxar
 \a Čakkụ
-\ps
+\ps n
 \ge Zaxar
 \dt 20/Jul/2009
 
@@ -2980,36 +2980,36 @@ ukrupnjali Esso.
 \a Haxarof
 \a Hakarof
 \a Hakaːrap
-\ps
+\ps n
 \ge Zaxarov
 \dt 25/Mar/2012
 
 \lx Zaxarova
-\ps
+\ps n
 \ge Zaxarova
 \dt 20/Mar/2010
 
 \lx Ženja
-\ps
+\ps n
 \ge Zhenja
 \dt 14/Jul/2009
 
 \lx Zhenja
-\ps name
+\ps n
 \ge Zhenja
 \dt 22/Dec/2012
 
 \lx Žilčenko
-\ps
+\ps n
 \ge Zhilchenko
 \dt 16/Mar/2012
 
 \lx Zinovij
-\ps
+\ps n
 \ge Zinovij
 \dt 12/Mar/2008
 
 \lx Zoja
-\ps
+\ps n
 \ge Zoja
 \dt 09/Mar/2012

@@ -14,6 +14,7 @@
 \ps
 \ge abl.Y
 \dt 24/Mar/2010
+
 \lx 1969godu
 \ps n
 \ge 1969year.loc.R
@@ -562,7 +563,7 @@ abaldjin = ne xvatit
 \lx adʒal
 \ps v
 \ge blush.with.shame
-\ru краснеть от стыда 
+\ru краснеть от стыда
 \nt Cincius has aʤarkan- for "smushatsja, krasnetj ot styda"
 \dt 09/Jun/2016
 
@@ -2073,7 +2074,7 @@ homonymous with aw 'wash'
 \nt actually, the Sakha root with the meaning 'fit in' is bat,
 while batta: means 'squeeze'; so the copied form is a
 hybrid of one form and another, though connected,
-meaning 
+meaning
 \dt 18/Jan/2017
 
 \lx bauk
@@ -2588,7 +2589,7 @@ naselennyj punkt"
 \a bokče
 \ps v
 \ge be.bent.over
-\ru стать горбатым 
+\ru стать горбатым
 \nt descriptive verb
 \dt 20/Mar/2012
 
@@ -3150,7 +3151,7 @@ encoded
 \ps n
 \ge stream
 \nt Robbek does not give a root birak for 'river', neither does
-Cincius, but I believe that is the Evenki word 
+Cincius, but I believe that is the Evenki word
 \dt 28/Feb/2012
 
 \lx bịrgịː
@@ -4938,7 +4939,7 @@ Bochilikan_etiken_12 best
 \ge thing
 \ru вещь, имущество, пожитки,
 мебель, утварь, средство,
-орудие, инвентарь 
+орудие, инвентарь
 \dt 23/Jun/2011
 
 \lx dʒọg
@@ -5129,7 +5130,7 @@ Solodikov_Artem_Nikolaevich_Managic
 \ru крепко
 \nt Robbek has also dịŋakụ and Ija
 Krivoshapkina says, there is
-also dịŋas. What is rgaː?? 
+also dịŋas. What is rgaː??
 \dt 21/Feb/2010
 
 \lx dọklan
@@ -5366,7 +5367,7 @@ have dudma- or dutma (IVK said it should be either)
 \dt 13/Mar/2012
 
 \lx e
-\ps v
+\ps aux
 \ge neg
 \dt 08/May/2017
 
@@ -5918,7 +5919,7 @@ be ha:wan eme:nnem 'I left a part', or hula:ram, djeblew hula:ram
 \ps v
 \ge break.intrs
 \nt desctructive verb, 1 of series of 4 (emter, emtet, emtek, emtem)
-with derived adjective emteku 
+with derived adjective emteku
 \ru проломанный, пробитый; пролом, пробоина, отверстие
 \dt 26/Mar/2012
 
@@ -5943,7 +5944,7 @@ with derived adjective emteku
 \ru широкий, просторный, большой
 \nt Robbek spells it e:mnge; this appears to be an adjective as a base,
 because there is only emnge, emngemeje, and the verb would be
-emngelbu-, i.e. derived from emnge 
+emngelbu-, i.e. derived from emnge
 \dt 26/Mar/2012
 
 \lx en
@@ -6322,7 +6323,7 @@ the body, muscles, as well
 \a ešime
 \ps adv
 \ge afterwards
-\ru потом, после, 
+\ru потом, после,
 \dt 28/Feb/2016
 
 \lx esimeː
@@ -6797,7 +6798,7 @@ Sebjan
 \a eːse
 \ps v
 \ge turn.around
-\ru обарачиваться 
+\ru обарачиваться
 \nt Cincius gives two long vowels
 \dt 09/Feb/2013
 
@@ -7313,7 +7314,7 @@ gildeku, gildengeken, gildengeje
 \ge disappear
 \ru погружаться, тонуть, нырять;
 исчезать, спрятаться,
-скрываться;  
+скрываться;
 \nt gobo- in TOP
 \dt 14/Jun/2011
 
@@ -7322,7 +7323,7 @@ gildeku, gildengeken, gildengeje
 \ps v
 \ge disappear
 \ru погружаться, тонуть, нырять; исчезать, спрятаться,
-скрываться; 
+скрываться;
 \nt this has a meaning of 'not become visible' behind a mountain for
 example
 \dt 28/Feb/2012
@@ -7750,7 +7751,7 @@ leaving it as it is
 \ge various
 \ru всякое
 \nt This is actually a hard vowel word, and it;s the adjective from ga,
-next, 
+next,
 \dt 28/Feb/2012
 
 \lx gịaw
@@ -8277,7 +8278,7 @@ become lexicalized
 \ge some
 \nt the final -n is the frozen poss3sg suffix, which is why it takes
 case-marking with possessives, e.g. ha:dun
-\ru остальной, ниой, другой, второй, некоторый, прочий, 
+\ru остальной, ниой, другой, второй, некоторый, прочий,
 \dt 29/Feb/2012
 
 \lx haːn
@@ -8710,7 +8711,7 @@ stands by itself
 there is 'herkehni' which means 'ashamed', stydno, and also the
 "exclamative" form in -je, herkeje  or -nje herkenje (e.g.
 Kejmetinova headmistress_21); but the verb doesn't occur in
-Robbek or Cincius: 
+Robbek or Cincius:
 \dt 19/Mar/2012
 
 \lx herwiŋte
@@ -9332,7 +9333,7 @@ namuchit'sja, vybit'sja iz sil), but in Sebjan this must mean
 \ps n
 \ge tiredness
 \nt Robek has the word hotus
-'pokoj, svoboda'  
+'pokoj, svoboda'
 \dt 03/Jun/2016
 
 \lx hoːbel
@@ -9413,7 +9414,7 @@ hugle (Cincius); in Kamchatka the form is ukle
 \a ulter
 \ps v
 \ge burst.through
-\ru прорываться, распороться 
+\ru прорываться, распороться
 \nt there are also hulteldej and hultemdej and hultektej
 \dt 28/Feb/2012
 
@@ -9838,7 +9839,7 @@ root hir- 'to milk'
 \a ịw
 \ps v
 \ge turn.inside.out
-\ru вывернуть наизнанку 
+\ru вывернуть наизнанку
 \nt Cincius writes хев-
 \dt 22/Jun/2016
 
@@ -9989,7 +9990,7 @@ derived from hokat
 \nt The standard form is holaki:
 with a long final vowel.
 \nt I always wrote it with a long aː
-At least in TOP a is long 
+At least in TOP a is long
 \dt 18/Jun/2011
 
 \lx họlkọbaj
@@ -10038,7 +10039,7 @@ middle, through which the smoke goes out
 skuchatj, Robbek gives
 họnrịndaj -- skuchatj, toskovatj.
 Rimma says it is more similar to
-"нечего делать",   
+"нечего делать",
 \dt 03/Jun/2016
 
 \lx họnŋačan
@@ -10063,7 +10064,7 @@ but it seems to be lexicalized
 \ge spawn.school
 \ru маточное стадо
 \nt Robbeck gives họnŋụn --
-важенка с олененком,  maybe 
+важенка с олененком,  maybe
 họnŋur is just plural
 \dt 03/Aug/2009
 
@@ -10169,7 +10170,7 @@ it is "zadiratjsja"
 \ps adv
 \ge back.to.front
 \nt that is adv.all, but I cann't
-define the meaning of the stem 
+define the meaning of the stem
 \dt 23/Jun/2011
 
 \lx hụkụ
@@ -10329,7 +10330,7 @@ she says hotoku
 Robbek or Cincius, but Ija said it means ryzhij; Cincius has hulati,
 and Ija wrote down hutaku, though she says hotoku; and in
 Robbek there is hutanja 'blestjashij; there is a verb hutandaj
-'pokrasnet', and with the augmentative it would be hutangaja 
+'pokrasnet', and with the augmentative it would be hutangaja
 \dt 28/Mar/2012
 
 \lx hụtaː
@@ -10346,10 +10347,10 @@ Robbek there is hutanja 'blestjashij; there is a verb hutandaj
 \lx hụŋtụn
 \ps n
 \ge dust
-\ru пыль в воздухе, дым 
+\ru пыль в воздухе, дым
 \nt Robbek has hungtelen pyl v vozduxe, dym, but from Zoja Af's
 explanation, this must have the same meaning; I gave it back
-vowels, because Robbek also has hungtalchidaj 'pylit, dymit' 
+vowels, because Robbek also has hungtalchidaj 'pylit, dymit'
 \dt 28/Feb/2012
 
 \lx hụːma
@@ -10382,7 +10383,7 @@ will not mark it as Russian; it's basically a synonym of delmie
 \ge be.audible
 \ru слышаться
 \nt Robbek gives idej 'slyshitsja', but in Sebjan this exists only as
-ihendej, i.e. with the Limitative 
+ihendej, i.e. with the Limitative
 \dt 28/Feb/2012
 
 \lx iaja
@@ -10945,7 +10946,7 @@ are from Robbek. The meaning
 is more similar to "till" in
 Tylkanova_JE_igodnyj_079.
 Actually it is irek (kotoryj) +p
-(adj-r) +abl 
+(adj-r) +abl
 \dt 04/Jun/2017
 
 \lx irge
@@ -13386,7 +13387,7 @@ a negative meaning, I decided to gloss it like this, unanalyzed
 \lx kọpkat
 \ps v
 \ge forcibly.break.off
-\ru отделить со силой 
+\ru отделить со силой
 \nt This appears to be one of those verbs where intransitive and
 transitive roots differ in the final consonant - there is kopkar,
 intrans, and kopkat, trans - and I don't think that kopkat can be
@@ -13449,7 +13450,7 @@ justifiably analysed as kopkar with resultative
 \lx kọŋdak
 \ps v
 \ge break.into.pieces(trns)
-\ru разламывать, разрубать, разрезать, разрывать 
+\ru разламывать, разрубать, разрезать, разрывать
 \dt 28/Feb/2012
 
 \lx kọŋdar
@@ -13914,7 +13915,7 @@ leptenje
 \a mandụ
 \ps v
 \ge try
-\ru постараться 
+\ru постараться
 \nt The standard form is manrut, and Cincius writes this with a long
 final vowel.
 \dt 28/Feb/2012
@@ -14042,7 +14043,7 @@ always said 'maxnem!' (???)
 \lx maːjụt
 \ps v
 \ge not.want.to.use.up
-\ru запас свой не хотеть расстратить, даже на себя жалко, 
+\ru запас свой не хотеть расстратить, даже на себя жалко,
 \nt majudaj doesn't exist, and this is used for food, when you don't
 even want to eat it yourself, or an expensive thing, like a
 computer, if you don't want to use it much for fear that it might
@@ -14143,7 +14144,7 @@ a sister, a cousin, a niece
 \ge sway
 \ru качаться, расскачиваться, шататься,
 \nt mejin is what I find in Robbek, but they don't use this word in
-Sebjan, in Sebjan they say mejin 
+Sebjan, in Sebjan they say mejin
 \dt 28/Feb/2012
 
 \lx mejči
@@ -14889,7 +14890,7 @@ miltere:nni, nongartan miltere:ne
 \lx mịaŋčị
 \ps v
 \ge be.surprised
-\ru удивляться, интересоваться 
+\ru удивляться, интересоваться
 \nt I don't know how to relate this
 to 'mian', which Robbek
 translates with the
@@ -15037,7 +15038,7 @@ berech, which in my corpus, however, only occurs in the foxes
 song in Bochilikan etiken and thus might not really be a proper
 word; but there is a stative verb "feel pity for" mulanjdaj; mulan
 means to feel regret for something/someone you have lost, while
-bul means to feel pity for people 
+bul means to feel pity for people
 \dt 08/Mar/2012
 
 \lx mụlgan
@@ -15295,7 +15296,7 @@ corrected to nibe:t 'dwarf.birch' (Tulasynova170)
 \lx narịta
 \ps adj
 \ge strongly.curved
-\ru сильно согнутые 
+\ru сильно согнутые
 \nt this refers only to horns
 \dt 27/Mar/2009
 
@@ -15842,7 +15843,7 @@ meste, e.g. when a hunter goes to a new place and ugoshaet zemlju
 \ge close.intr
 \nt Robbek has a verb nipkudaj "prinosit' techeniem k beregu", but
 Ija Krivoshapkina says this means suffocate; seems to be the
-intransitive "naparnik" of nipke 
+intransitive "naparnik" of nipke
 \dt 06/Oct/2012
 
 \lx ničego
@@ -15987,7 +15988,7 @@ razgovarivatj'', Robbek: noːŋeri
 \ps n
 \ge arrow
 \ge bow
-\ru стрела, лук, 
+\ru стрела, лук,
 \dt 20/Jun/2016
 
 \lx nu
@@ -16089,7 +16090,7 @@ Shadrina used it in "do the dishes"
 \a nọgdịja
 \ps interj
 \ge don't
-\ru не надо 
+\ru не надо
 \nt not in dictionary, perhaps a Kamchatkan dialectal word
 \dt 28/Feb/2012
 
@@ -16781,7 +16782,7 @@ Afanasevich used the short form
 \ps n
 \ge not.enough
 \nt not in corpus, could be deleted; Robek has  a verb 'on' with the meaning 'feel sorry', does it have anything to do with
-ondi?; 
+ondi?;
 \dt 04/Jun/2017
 
 \lx oni
@@ -20155,7 +20156,7 @@ taklawan
 \ps n
 \ge kozhemjalka
 \nt The name originates from Russian tolkat', but since it has
-changed it's meaning so much I won't mark it as Russian 
+changed it's meaning so much I won't mark it as Russian
 \dt 28/Feb/2012
 
 \lx tam
@@ -20237,7 +20238,7 @@ changed it's meaning so much I won't mark it as Russian
 \lx tarakam
 \ps adv
 \ge in.those.days
-\ru тогда, в то время, 
+\ru тогда, в то время,
 \dt 21/Feb/2008
 
 \lx tarakan
@@ -20520,10 +20521,6 @@ everything out
 \lx tebe
 \ps pron
 \ge 2sg.dat.R
-
-\lx tebe
-\ps pron
-\ge you.dat.R
 
 \lx tebeki
 \ps n
@@ -20908,7 +20905,7 @@ swimming, while waterbirds swimming = kewungchidej
 "пукающий звук"). Роббек:
 тибардай -- пускать пузыри (о
 ребенке), болтать, говорить
-пошлости 
+пошлости
 \dt 03/Jun/2016
 
 \lx tie
@@ -21284,7 +21281,7 @@ vowels in first 2 syllables
 \lx tokar
 \ps v
 \ge be.agitated
-\ru шевелиться, развивать деятельность 
+\ru шевелиться, развивать деятельность
 \nt has a negative meaning
 \dt 06/Jun/2016
 
@@ -21308,7 +21305,7 @@ said by Ekaterina Shadrina
 \ru распластать
 \nt is used only for hides, when you stretch them with little pieces of
 wood (across the hide, or else kolyshkami) so that they will dry,
-not used for clothes or fish (they don't dry fish here) or people; 
+not used for clothes or fish (they don't dry fish here) or people;
 \dt 15/Mar/2012
 
 \lx tol'ko
@@ -22592,13 +22589,13 @@ variant of ulgumi), but I'm adding it here for ease of glossing
 \ps adv
 \ge not.yet
 \nt Ija Krivoshapkina says that this has a meaning of "eshe ne
-vremja" - though 'not yet' fits all the examples in Sebjan; 
+vremja" - though 'not yet' fits all the examples in Sebjan;
 \dt 05/Feb/2013
 
 \lx unde
 \ps conj
 \ge while
-\ru в течение 
+\ru в течение
 \nt not sure about this, occurred in Egorova_RM_Anin_1_069 and
 Anin_2_59
 \dt 05/Feb/2013
@@ -25296,7 +25293,7 @@ all animals
 \a ńan
 \a nan
 \a ńana
-\ps adv
+\ps conj, adv
 \ge and
 \dt 13/Sep/2009
 
@@ -26301,7 +26298,7 @@ case, which is how I am analyzing it
 \lx ịd
 \ps v
 \ge comb
-\ru рассчесывать, причесывать 
+\ru рассчесывать, причесывать
 \dt 23/Jun/2011
 
 \lx ịdar
@@ -26357,7 +26354,7 @@ it now sounds more like back vowels to me
 \ps adv
 \ge feel.sorry
 \ge good.that
-\ru жалко; хорошо что 
+\ru жалко; хорошо что
 \dt 19/Jun/2016
 
 \lx ịlak
@@ -26432,7 +26429,7 @@ Maksimovna pronounces it like this
 \a ịllan
 \ps n
 \ge pity
-\ru жалость, пощада, сочувствие, 
+\ru жалость, пощада, сочувствие,
 \dt 28/Feb/2012
 
 \lx ịlča
@@ -26546,7 +26543,7 @@ only ịntụ
 \a ịpkač
 \ps v
 \ge observe
-\ru наблюдать 
+\ru наблюдать
 \nt The standard form is hipkat
 \dt 21/Feb/2008
 
@@ -27003,6 +27000,11 @@ derived
 \ps adj
 \ge life.prop.Y
 \dt 10/Jun/2008
+
+\lx ọlọk
+\ps adj
+\ge sitting.Y
+\dt 00/Dec/2017
 
 \lx ọlọx
 \a ọlọ
@@ -27637,7 +27639,7 @@ dim. suffix -KEn into ujikan
 \ps v
 \ge miss
 \nt apparently the resultative from
-ụraː 
+ụraː
 \dt 23/Jun/2011
 
 \lx ụrụńa
@@ -27688,7 +27690,9 @@ form
 
 \lx ụzda
 \ps n
-\ge bridle.R\lx ụčak
+\ge bridle.R
+
+\lx ụčak
 \a ụːčak
 \a ụːčịk
 \a ụːčụk
@@ -27754,3 +27758,3019 @@ Amganov_kids_uphill08
 \ge riding.reindeer
 \dt 19/Mar/2013
 
+
+\_sh v3.0  259  MDF 4.0
+
+\lx Abram
+\ps n
+\ge Abraham
+\dt 06/Jul/2009
+
+\lx Abramov
+\a Abra
+\ps n
+\ge Abramov
+\dt 24/Feb/2012
+
+\lx Abramova
+\ps n
+\ge Abramova
+\dt 23/Feb/2008
+
+\lx Ača
+\ps n
+\ge Acha
+\dt 16/Jul/2009
+
+\lx Ačajwajam
+\ps n
+\ge Achajwajam
+\dt 06/Oct/2012
+
+\lx Adukanov
+\a Ịadụkan
+\ps n
+\ge Adukanov
+\dt 06/Oct/2012
+
+\lx Adukanova
+\ps n
+\ge Adukanova
+\dt 26/Jan/2013
+
+\lx Adukanovy
+\ps n
+\ge Adukanovs
+\dt 07/Jul/2007
+
+\lx AE
+\ps n
+\ge AE
+\dt 24/Mar/2009
+
+\lx Afanasev
+\a
+\ps n
+\ge Afanasev
+\dt 24/Feb/2012
+
+\lx Afanasevič
+\ps n
+\ge Afanasevich
+\dt 12/Mar/2008
+
+\lx Afanasevna
+\ps n
+\ge Afanasevna
+\dt 24/Mar/2010
+
+\lx Afanasij
+\a Opanas
+\a Apanas
+\a Ọkọnọhọj
+\a Apọńa
+\a Afonja
+\ps n
+\ge Afanasij
+\dt 22/Mar/2013
+
+\lx Afimova
+\ps n
+\ge Afimova
+\dt 09/Jul/2009
+
+\lx Afrika
+\ps n
+\ge Africa
+\dt 21/Jun/2007
+
+\lx Agafja
+\a Agaːpị
+\ps n
+\ge Agafja
+\dt 20/Mar/2008
+
+\lx Ajanessa
+\ps n
+\ge Ajanessa
+\dt 10/Mar/2012
+
+\lx Ajdịna
+\ps n
+\ge Ajdina
+\dt 10/Mar/2012
+
+\lx Ajta
+\ps n
+\ge Ajta
+\dt 22/Feb/2008
+
+\lx Akaːńịka
+\ps n
+\ge Akanika
+\dt 12/Jul/2009
+
+\lx AKB
+\ps n
+\ge AKB
+\nt dont knwo what the abbreviation
+stands for
+\dt 01/Mar/2010
+
+\lx Aldan
+\ps n
+\ge Aldan
+\dt 24/Feb/2012
+
+\lx Aleksandr
+\ps n
+\ge Alexander
+\dt 06/Oct/2012
+
+\lx Alekseev
+\a Alik
+\ps n
+\ge Alekseev
+\dt 05/Mar/2012
+
+\lx Alekseeva
+\ps n
+\ge Alekseeva
+\dt 22/Mar/2013
+
+\lx Alekseevič
+\ps n
+\ge Alekseevich
+\dt 14/Feb/2010
+
+\lx Alekseevskaj
+\ps n
+\ge Alekseevskij
+\dt 28/Feb/2008
+
+\lx Aleksej
+\a Elekke
+\a Ölöksöj
+\a Oloksej
+\ge Aleksej
+\dt 24/Feb/2012
+
+\lx Aleša
+\a Ljọša
+\a Aljoša
+\a Aljọš
+\ps n
+\ge Alesha
+\dt 15/Mar/2013
+
+\lx Alisa
+\ps n
+\ge Alisa
+\dt 02/Apr/2009
+
+\lx Alja
+\ps n
+\ge Alja
+\dt 02/Apr/2009
+
+\lx Aljona
+\ps n
+\ge Aljona
+\dt 29/Feb/2012
+
+\lx Alkviad
+\ps n
+\ge Alkviad
+\dt 22/Feb/2008
+
+\lx Alŋeːj
+\ps n
+\ge Alnej
+\dt 17/Jul/2009
+
+\lx Amanda
+\ps n
+\ge Amanda
+\dt 10/Mar/2012
+
+\lx Anastasịja
+\a Anastasija
+\ps n
+\ge Anastasija
+\dt 15/Mar/2013
+
+\lx Anatolij
+\a Anatọlịj
+\a Tolik
+\a Tolja
+\ps n
+\ge Anatolij
+\dt 15/Mar/2013
+
+\lx Anaun
+\ps n
+\ge Anaun
+\dt 14/Feb/2013
+
+\lx Anavgaj
+\a Anawgaj
+\a Aŋawnaːj
+\ps n
+\ge Anavgai
+\dt 10/Jul/2009
+
+\lx Andrej
+\a Endeː
+\ps n
+\ge Andrej
+\dt 19/Feb/2010
+
+\lx Ańet
+\ps n
+\ge Ańet
+\dt 23/Feb/2008
+
+\lx Angelina
+\ps n
+\ge Angelina
+\dt 20/Mar/2010
+
+\lx Anike
+\ps n
+\ge Anike
+\dt 06/Jul/2007
+
+\lx Anisija
+\ps n
+\ge Anisija
+\dt 05/Jul/2009
+
+\lx Anisja
+\a Nisje
+\a Anis
+\ps n
+\ge Anisja
+\dt 22/Mar/2013
+
+\lx Anịːwrịn
+\ps n
+\ge Aniwrin
+\dt 10/Mar/2012
+
+\lx Anja
+\ps n
+\ge Anja
+\dt 13/Jun/2007
+
+\lx Anna
+\a Ajịːk
+\ps n
+\ge Anna
+\dt 15/Mar/2013
+
+\lx Antawčan
+\ps n
+\ge Antavchan
+\dt 19/Mar/2013
+
+\lx Antonina
+\ps n
+\ge Antonina
+\dt 09/Jul/2009
+
+\lx Anželika
+\ps n
+\ge Angelique
+\dt 27/Feb/2010
+
+\lx Arkadij
+\a Arka
+\ps n
+\ge Arkadij
+\dt 08/Jul/2009
+
+\lx Artem
+\a Artjọm
+\ps n
+\ge Artem
+\dt 17/Jul/2009
+
+\lx Arxipovna
+\a Arxipowna
+\ps n
+\ge Arxipovna
+\dt 12/Mar/2012
+
+\lx Asja
+\ps n
+\ge Asja
+\dt 11/Mar/2012
+
+\lx Avgustin
+\ps n
+\ge Augustin
+\dt 22/Feb/2008
+
+\lx Avstrija
+\ps n
+\ge Austria
+\dt 25/Mar/2010
+
+\lx Bahargas
+\ps n
+\ge Bahargas
+\dt 13/Feb/2010
+
+\lx Bajịńdʒa
+\ps n
+\ge Bajindja
+\dt 26/Mar/2009
+
+\lx Balygịńịn
+\a Balygịńị
+\ps n
+\ge Balyginin
+\dt 19/Feb/2013
+
+\lx BAM
+\ps n
+\ge BAM
+\dt 25/Jun/2009
+
+\lx Banakanov
+\ps n
+\ge Banakanov
+\dt 16/Jul/2009
+
+\lx Bankị
+\ps n
+\ge Banki
+\dt 05/Mar/2012
+
+\lx Barkavtov
+\a Berkewut
+\ps n
+\ge Barkavtov
+\dt 05/Jul/2009
+
+\lx Batamaj
+\ps n
+\ge Batamaj
+\dt 05/Mar/2012
+
+\lx Baženov
+\ps n
+\ge Bazhenov
+\dt 16/Jul/2009
+
+\lx Baženova
+\ps n
+\ge Bazhenov.gen.R
+\dt 16/Jul/2009
+
+\lx BD
+\ps n
+\ge BD
+\dt 22/Mar/2010
+
+\lx Bebe
+\ps n
+\ge Bebe
+\nt nickname
+\dt 06/Jul/2007
+
+\lx Beljaev
+\ps n
+\ge Beljaev
+\dt 15/Jul/2009
+
+\lx Beljanka
+\ps n
+\ge Beljanka
+\dt 03/Mar/2010
+
+\lx Belov
+\ps n
+\ge Belov
+\dt 16/Jul/2009
+
+\lx Berdjanka
+\ps n
+\ge Berdanka
+\dt 26/Mar/2010
+
+\lx Berezovka
+\ps n
+\ge Berezovka
+\dt 26/Jun/2007
+
+\lx Berkut
+\ps n
+\ge Berkut
+\dt 17/Jul/2009
+
+\lx Berlin
+\ps n
+\ge Berlin
+\dt 26/Jun/2009
+
+\lx Betxoven
+\ps n
+\ge Beethoven
+\dt 01/Mar/2008
+
+\lx Bọčịlịkan
+\ps n
+\ge Bochilikan
+\dt 05/Mar/2009
+
+\lx Bogdan
+\a Bogda
+\ps n
+\ge Bogdan
+\dt 16/Mar/2012
+
+\lx Bọhọgọńdʒe
+\ps n
+\ge Bohogondje
+\dt 05/Mar/2008
+
+\lx Borisov
+\ps n
+\ge Borisov
+\dt 10/Mar/2012
+
+\lx Borzja
+\a Bọrzja
+\a Bọr
+\ps n
+\ge Borzja
+\dt 22/Mar/2010
+
+\lx BP
+\ps n
+\ge BP
+\dt 23/Mar/2009
+
+\lx Brigitta
+\ps n
+\ge Brigitte
+\dt 29/Feb/2008
+
+\lx Bụdụlị
+\ps n
+\ge Buduli
+\dt 14/Feb/2013
+
+\lx Bulun
+\a Bụlụn
+\a Bụlụŋ
+\ps n
+\ge Bulun
+\dt 24/Feb/2012
+
+\lx Burcev
+\a Bursev
+\ps n
+\ge Burtsev
+\dt 27/Feb/2010
+
+\lx Burjak
+\ps n
+\ge Burjak
+\dt 11/Mar/2012
+
+\lx Burtsev
+\ps n
+\ge Burtsev
+\dt 23/Mar/2010
+
+\lx Bušuev
+\a Bušuew
+\ps n
+\ge Bushuev
+\dt 20/Jan/2013
+
+\lx Bystrinskij
+\ps n
+\ge Bystrinskij
+\dt 05/Jul/2007
+
+\lx Bystroj
+\a Bystryj
+\ps n
+\ge Bystroe
+\nt The name of a settlement
+\dt 09/Jul/2009
+
+\lx Čajma
+\ps n
+\ge Chajma
+\dt 26/Feb/2012
+
+\lx Čakrịtọn
+\ps n
+\ge Chakriton
+\dt 06/Oct/2012
+
+\lx Čemizov
+\a Čemizep
+\a Čemez
+\a Čemezep
+\ps n
+\ge Chemizov
+\dt 19/Mar/2012
+
+\lx Čerkanov
+\ps n
+\ge Cherkanov
+\dt 05/Jul/2009
+
+\lx Čerkanova
+\ps n
+\ge Cherkanov.gen.R
+\dt 12/Jul/2009
+
+\lx Čiŋŋi
+\ps n
+\ge Chingi
+\dt 15/Feb/2013
+
+\lx Čọpan
+\a Čọpa
+\ps n
+\ge Sopočnoe
+\dt 06/Jul/2007
+
+\lx Čọra
+\ps n
+\ge Chora
+\dt 17/Mar/2008
+
+\lx Čukotka
+\ps n
+\ge Chukotka
+\dt 26/Jun/2007
+
+\lx Čuvašija
+\ps n
+\ge Chuvashia
+\dt 09/Mar/2008
+
+\lx Daik
+\ps n
+\ge Daik
+\dt 31/Mar/2009
+
+\lx Dajana
+\ps n
+\ge Dajana
+\dt 14/Mar/2012
+
+\lx Daniil
+\a Danil
+\ps n
+\ge Daniel
+\dt 28/Feb/2010
+
+\lx Danilov
+\a Danilap
+\ps n
+\ge Danilov
+\dt 25/Mar/2012
+
+\lx Dejl
+\ps n
+\ge Dale
+\dt 01/Mar/2008
+
+\lx Demjan
+\ps n
+\ge Demjan
+\dt 16/Mar/2012
+
+\lx Denikin
+\a Deniki
+\a Deńeke
+\a Deńe
+\ps n
+\ge Denikin
+\dt 16/Jul/2009
+
+\lx Denis
+\ps n
+\ge
+\dt 07/Aug/2013
+
+\lx Deniske
+\ps n
+\ge Denis.dim.R
+\dt 27/Mar/2012
+
+\lx Diana
+\ps n
+\ge Diana
+\dt 04/Jul/2007
+
+\lx Dima
+\ps n
+\ge Dima
+\dt 08/Mar/2012
+
+\lx Diodor
+\ps n
+\ge Diodor
+\dt 07/Mar/2012
+
+\lx Dmitrievič
+\ps n
+\ge Dmitrievich
+\dt 16/Jul/2009
+
+\lx Dmitrievna
+\ps n
+\ge Dmitrievna
+\dt 18/Mar/2008
+
+\lx Dmitrij
+\a Miterej
+\a Mitrijan
+\ps n
+\ge Dmitrij
+\dt 28/Feb/2008
+
+\lx Dohowul
+\ps n
+\ge Dohowul
+\dt 02/Apr/2009
+
+\lx Dọmna
+\ps n
+\ge Domna
+\dt 06/Jul/2009
+
+\lx družba
+\a drụžba
+\ps n
+\ge chainsaw
+\dt 25/Jun/2009
+
+\lx Dụlgalaax
+\ps n
+\ge Dulgalakh
+\dt 10/Mar/2012
+
+\lx Dụlgan
+\ps n
+\ge Dulgan
+\nt name of a clan
+\dt 05/Jul/2007
+
+\lx Duńa
+\ps n
+\ge Dunja
+\dt 19/Mar/2008
+
+\lx Dunja
+\ps n
+\ge Dunja
+\dt 23/Feb/2012
+
+\lx Dyganova
+\ps n
+\ge Dyganova
+\dt 06/Mar/2008
+
+\lx Edgar
+\ps n
+\ge Edgar
+\dt 19/Feb/2010
+
+\lx Edik
+\ps n
+\ge Edik
+\dt 03/Apr/2010
+
+\lx Eduard
+\ps n
+\ge Edward
+\dt 21/Mar/2010
+
+\lx EE
+\ps n
+\ge EE
+\dt 24/Mar/2009
+
+\lx Efim
+\ps n
+\ge Efim
+\dt 08/Jul/2009
+
+\lx Efremov
+\ps n
+\ge Efremov
+\dt 22/Feb/2008
+
+\lx Egor
+\a Egorka
+\a Dʒogortej
+\a Dʒogor
+\ps n
+\ge Egor
+\dt 24/Feb/2012
+
+\lx Egorova
+\ps n
+\ge Egorova
+\dt 08/Jun/2007
+
+\lx Egorovič
+\a Dʒögöröbis
+\ps n
+\ge Egorovich
+\dt 26/Mar/2009
+
+\lx Egorovna
+\ps n
+\ge Egorovna
+\dt 23/Feb/2008
+
+\lx EheXaja
+\ps n
+\ge Ehe_Xaja
+\dt 15/Feb/2010
+
+\lx Ekaterina
+\a Keti
+\ps n
+\ge Ekaterina
+\dt 15/Mar/2013
+
+\lx Elena
+\a Olone
+\a Olo
+\a Ilena
+\a Iele
+\a Lenuk
+\ps n
+\ge Elena
+\dt 19/Mar/2012
+
+\lx Elizaveta
+\a Liza
+\ps n
+\ge Elizabeth
+\dt 15/Mar/2013
+
+\lx Emeljan
+\a Umeljan
+\ps n
+\ge Emeljan
+\dt 09/Jul/2009
+
+\lx Emilia
+\a Emil
+\ps n
+\ge Emilia
+\dt 22/Mar/2009
+
+\lx EP
+\ps n
+\ge EP
+\dt 23/Mar/2009
+
+\lx Erikit
+\ps n
+\ge Erikit
+\dt 02/Apr/2009
+
+\lx Esso
+\a Essoː
+\ps n
+\ge Esso
+\dt 26/Jun/2009
+
+\lx Eutulen
+\ps n
+\ge Eutulen
+\nt this is the way the "northerners"
+(Koryaks, most likely) refer to the
+Bystraja area - cf.
+Adukanov_Sergej_life_030
+\dt 30/Jan/2013
+
+\lx Eveno-Bytantaj
+\a Ewen-Bytantaj
+\ps n
+\ge Eveno-Bytantaj
+\dt 17/Feb/2010
+
+\lx Everstov
+\a Eberestep
+\ps n
+\ge Everstov
+\dt 19/Feb/2010
+
+\lx Evgenij
+\a Ewgenij
+\a Jewgenij
+\ps n
+\ge Evgenij
+\dt 09/Jul/2009
+
+\lx Evstafij
+\a Ịstap
+\a Jevstap
+\ps n
+\ge Evstafij
+\dt 05/Jul/2009
+
+\lx Faina
+\ps n
+\ge Faina
+\dt 21/Mar/2012
+
+\lx Fedorovič
+\ps n
+\ge Fedorovich
+\dt 06/Jul/2009
+
+\lx Fedorovna
+\ps n
+\ge Fedorovna
+\dt 22/Feb/2008
+
+\lx Fjodor
+\a Fjọdọr
+\ps n
+\ge Fjodor
+\dt 21/Mar/2010
+
+\lx Fomič
+\ps n
+\ge Fomich
+\dt 05/Jul/2009
+
+\lx Ftolazol
+\ps n
+\ge Ftolazol
+\dt 11/Mar/2010
+
+\lx Galina
+\ps n
+\ge Galina
+\dt 07/Oct/2012
+
+\lx Galja
+\a Galịː
+\ps n
+\ge Galja
+\dt 14/Mar/2012
+
+\lx Ganja
+\ps n
+\ge Ganja
+\dt 03/Mar/2012
+
+\lx Gavril
+\ps n
+\ge Gabriel
+\dt 29/Feb/2012
+
+\lx Gavrilev
+\ps n
+\ge Gavrilev
+\dt 25/Mar/2010
+
+\lx Gavrilevič
+\ps n
+\ge Gavrilevich
+\dt 22/Mar/2013
+
+\lx Gavrilevna
+\ps n
+\ge Gavrilevna
+\dt 22/Feb/2008
+
+\lx Gena
+\ps n
+\ge Gena
+\dt 23/Jun/2007
+
+\lx German
+\ps n
+\ge Herman
+\dt 07/Mar/2012
+
+\lx Gitler
+\ps n
+\ge Hitler
+\dt 25/Mar/2010
+
+\lx Gọldawịč
+\ps n
+\ge Goldawich
+\dt 17/Jul/2009
+
+\lx Golubaja_Divizija
+\ps n
+\ge Blue_Division
+\dt 22/Mar/2010
+
+\lx Grigorevič
+\ps n
+\ge Grigorevich
+\dt 21/Mar/2009
+
+\lx Grigorevna
+\ps n
+\ge Grigorevna
+\dt 06/Jul/2009
+
+\lx Grigorij
+\ps n
+\ge Grigorij
+\dt 06/Jul/2009
+
+\lx Griša
+\a Grińa
+\ps n
+\ge Grisha
+\dt 19/Feb/2010
+
+\lx Hakańdʒa
+\ps n
+\ge Hakandja
+\dt 09/Mar/2012
+
+\lx Hebeːčen
+\ps n
+\ge Hebechen
+\dt 02/Mar/2010
+
+\lx Hejemčen
+\ps n
+\ge Hejemčen
+\dt 19/Mar/2010
+
+\lx Hemeńdʒe
+\ps n
+\ge Hemendje
+\dt 25/Feb/2012
+
+\lx Henńe
+\ps n
+\ge
+\dt 16/Mar/2012
+
+\lx Hịakandʒa
+\ps n
+\ge Hiakandja
+\dt 18/Feb/2012
+
+\lx Hịakańdʒa
+\ps n
+\ge Hiakandja
+\dt 02/May/2010
+
+\lx Hịatačan
+\ps n
+\ge Hiatachan
+\dt 27/Mar/2009
+
+\lx Họgịn
+\ps n
+\ge Hogin
+\dt 22/Feb/2008
+
+\lx Holkuni
+\ps n
+\ge Holkuni
+\dt 19/Mar/2013
+
+\lx Hudʒerene
+\ps n
+\ge Hudjerene
+\dt 03/Mar/2012
+
+\lx Ịamme
+\ps n
+\ge Iamme
+\dt 17/Jul/2009
+
+\lx Ičanga
+\ps n
+\ge Ichanga
+\dt 15/Jul/2009
+
+\lx Ičča
+\a Iːčče
+\ps n
+\ge Icha
+\dt 26/Jun/2009
+
+\lx Ičču
+\ps n
+\ge Icha.acc.R
+\dt 12/Jul/2009
+
+\lx Igor
+\ps n
+\ge Igor
+\dt 10/Mar/2012
+
+\lx Igorevič
+\ps n
+\ge Igorevich
+\dt 15/Mar/2013
+
+\lx Igorevna
+\ps n
+\ge Igorevna
+\dt 15/Mar/2013
+
+\lx Igor'
+\a Igoroša
+\ps n
+\ge Igor
+\dt 13/Mar/2012
+
+\lx Ïjdaŋa
+\ps n
+\ge Ijdanga
+\dt 19/Feb/2012
+
+\lx Ijon
+\ps n
+\ge Ion
+\dt 15/Jul/2009
+
+\lx Ilič
+\ps n
+\ge Ilyich
+\dt 14/Feb/2010
+
+\lx Ilja
+\ps n
+\ge Ilja
+\dt 06/Jul/2009
+
+\lx Iljič
+\ps n
+\ge Ilich
+\dt 24/Mar/2012
+
+\lx Ịljọ
+\ps n
+\ge Leonid
+\dt 05/Jul/2009
+
+\lx Ịmanna
+\ps n
+\ge Imanna
+\dt 10/Mar/2012
+
+\lx Ịndịbal
+\ps n
+\ge Endybal
+\dt 19/Mar/2010
+
+\lx Inessa
+\ps n
+\ge Inessa
+\dt 24/Feb/2012
+
+\lx Inna
+\ps n
+\ge Inna
+\dt 22/Dec/2012
+
+\lx Innokentevič
+\a Innokentič
+\ps n
+\ge Innokentevič
+\dt 26/Jun/2009
+
+\lx Innokentevna
+\a Innokentjevna
+\ps n
+\ge Innokentevna
+\dt 20/Jan/2013
+
+\lx Innokentij
+\a Ketik
+\a Keša
+\ge Innokentij
+\dt 05/Mar/2012
+
+\lx Ira
+\a Ire
+\ps n
+\ge Ira
+\dt 14/Jul/2009
+
+\lx Irina
+\a Urina
+\a Inuk
+\ps n
+\ge Irina
+\dt 25/Mar/2012
+
+\lx Isidor
+\ps n
+\ge Isidor
+\dt 14/Feb/2010
+
+\lx Ita
+\ps n
+\ge Ita
+\dt 02/Mar/2012
+
+\lx Ïtïk-Küöl
+\ps n
+\ge Ytyk-Küöl
+\dt 18/Feb/2008
+
+\lx Ivan
+\a Ujban
+\a Ụjban
+\a Ụjbančịk
+\a Ụjbaːskị
+\a Ụjbaskịn
+\a Iwan
+\a Vanja
+\ps n
+\ge Ivan
+\dt 05/Mar/2012
+
+\lx Ivanov
+\ps n
+\ge Ivanov
+\dt 20/Jun/2007
+
+\lx Ivanovič
+\a Ivanič
+\ps n
+\ge Ivanovich
+\dt 25/Jun/2009
+
+\lx Ivanovna
+\ps n
+\ge Ivanovna
+\dt 05/Jul/2009
+
+\lx JaGU
+\ps n
+\ge YSU
+\dt 22/Mar/2009
+
+\lx Jakov
+\a Jekov
+\ps n
+\ge Jacob
+\dt 06/Jul/2009
+
+\lx Jakov
+\a Jaša
+\ge Jacob
+\dt 17/Jul/2009
+
+\lx Jakovlevič
+\ps n
+\ge Jakovlevich
+\dt 06/Oct/2012
+
+\lx Jakutija
+\ps n
+\ge Yakutia
+\dt 23/Jun/2007
+
+\lx Jakutsk
+\a Jakutskaj
+\a Jakuːskaj
+\ps n
+\ge Yakutsk
+\dt 01/Mar/2010
+
+\lx Jan
+\ps n
+\ge Jan
+\dt 26/Mar/2012
+
+\lx Jana
+\ps n
+\ge Yana
+\dt 19/Jan/2013
+
+\lx Jaŋịjaŋaj
+\ps n
+\ge Jangijangaj
+\dt 15/Feb/2013
+
+\lx Janovna
+\ps n
+\ge Yanovna
+\dt 05/Mar/2012
+
+\lx Dʒargalax
+\ps n
+\ge Djargalax
+\dt 17/Feb/2010
+
+\lx Jermak
+\a Jermaha
+\ps n
+\ge Yermak
+\dt 07/Mar/2012
+
+\lx Dʒọkụːskaj
+\ps n
+\ge Yakutsk
+\dt 20/Feb/2008
+
+\lx Julia
+\ps n
+\ge Julia
+\dt 22/Dec/2012
+
+\lx Jurij
+\a Jurka
+\ps n
+\ge Jurij
+\dt 01/Apr/2009
+
+\lx Jur'evna
+\ps n
+\ge Jurevna
+\dt 07/Oct/2012
+
+\lx Dʒus
+\ps n
+\ge Djus
+\dt 02/Apr/2009
+
+\lx Kabaŋa
+\ps n
+\ge Kabanga
+\dt 18/Jul/2009
+
+\lx Kamčatka
+\ps n
+\ge Kamchatka
+\dt 05/Jul/2007
+
+\lx Karskoe_more
+\a Karskoe_mo
+\ps n
+\ge Kara.Sea
+\dt 15/Mar/2012
+
+\lx Katerina
+\ps n
+\ge Katharina
+\dt 03/Jul/2007
+
+\lx Katja
+\a Kača
+\a Kaːtja
+\a Xačụː
+\a Xačụk
+\ps n
+\ge Katja
+\dt 14/Mar/2012
+
+\lx Katjuška
+\ps n
+\ge Katjushka
+\dt 23/Feb/2012
+
+\lx Kebej
+\ps n
+\ge Kobjaj
+\dt 08/Mar/2008
+
+\lx Kejmeti
+\ps n
+\ge Kejmeti...
+\dt 22/Feb/2008
+
+\lx Kejmetinov
+\a Kejmetinop
+\a Kejmetinef
+\ps n
+\ge Kejmetinov
+\dt 25/Mar/2012
+
+\lx Kejmetinova
+\ps n
+\ge Kejmetinova
+\dt 22/Feb/2008
+
+\lx Kekuk
+\a Kiekuk
+\ps n
+\ge Kekuk
+\nt name of a former village,
+abandoned when they enlarged the
+settlements
+\dt 14/Feb/2013
+
+\lx Keša
+\a Kese
+\a Kiese
+\ps n
+\ge Kesha
+\dt 23/Mar/2010
+
+\lx Ketačan
+\ps n
+\ge Ketachan
+\dt 02/Jul/2007
+
+\lx Kileː
+\ps n
+\ge Kile
+\dt 14/Feb/2010
+
+\lx Kipiː
+\ps n
+\ge Kipi?
+\dt 24/Mar/2009
+
+\lx Kirill
+\a Kiril
+\a Kirilke
+\ps n
+\ge Cyril
+\dt 24/Mar/2013
+
+\lx Kirillina
+\ps n
+\ge Kirillina
+\dt 03/Mar/2012
+
+\lx Kirillovič
+\a Kirillit
+\ps n
+\ge Kirillovich
+\dt 06/Jul/2009
+
+\lx Kirillovna
+\a Kirillovnu
+\ps n
+\ge Kirillovna
+\dt 07/Jul/2007
+
+\lx Kirjak
+\ps n
+\ge Kirjak
+\dt 14/Nov/2012
+
+\lx Kirovskij
+\a Kirovskaj
+\ge Kirovskij
+\dt 13/Mar/2008
+
+\lx Kitaj
+\a Kịtaj
+\ps n
+\ge China
+\dt 21/Mar/2010
+
+\lx Kitčen
+\ps n
+\ge Kitchen
+\dt 14/Feb/2010
+
+\lx Klavdija
+\ps n
+\ge Claudia
+\dt 03/Mar/2012
+
+\lx Kliment
+\a Klim
+\a Klimen
+\ps n
+\ge Kliment
+\dt 19/Feb/2010
+
+\lx Klimka
+\a Klimke
+\ps n
+\ge Klim.dim.R
+\dt 27/Mar/2012
+
+\lx Klimovič
+\ps n
+\ge Klimovich
+\dt 11/Mar/2012
+
+\lx Koerkov
+\ps n
+\ge Koerkov
+\dt 08/Jul/2009
+
+\lx Kolesov
+\a Kọlesap
+\ps n
+\ge Kolesov
+\dt 25/Mar/2012
+
+\lx Kolesova
+\ps n
+\ge Kolesova
+\dt 22/Mar/2013
+
+\lx Kolja
+\ps n
+\ge Kolja
+\dt 21/Jun/2007
+
+\lx Kolumskij
+\ps n
+\ge Kolumskij
+\dt 18/Jul/2009
+
+\lx Kolyma
+\a Kalịma
+\ps n
+\ge Kolyma
+\dt 24/Feb/2012
+
+\lx Komarova
+\ps n
+\ge Komarova
+\dt 23/Jun/2007
+
+\lx Kọnna
+\ps n
+\ge Konna
+\dt 26/Jun/2009
+
+\lx Konstantin
+\a Kọnstantịn
+\a Kostekuːn
+\ps n
+\ge Konstantin
+\dt 24/Feb/2012
+
+\lx Konstantinovič
+\ps n
+\ge Konstantinovich
+\dt 29/Feb/2012
+
+\lx Konstantinovna
+\ps n
+\ge Konstantinovna
+\dt 26/Feb/2012
+
+\lx Kostja
+\ps n
+\ge Kostja
+\dt 16/Jun/2007
+
+\lx Kozyrevsk
+\a Kazyrevsk
+\ps n
+\ge Kozyrevsk
+\dt 09/Jul/2009
+
+\lx Krapivnaj
+\ps n
+\ge Krapivnaja
+\dt 26/Jun/2009
+
+\lx Krasnoe_more
+\ps n
+\ge Red.Sea
+\dt 15/Mar/2012
+
+\lx Kristina
+\ps n
+\ge Kristina
+\dt 22/Feb/2008
+
+\lx Krivošapkin
+\a Krivošapkị
+\a Kịrbịhaŋkị
+\a Kịrbịhaŋkịn
+\a Kịrbahaŋkịn
+\a Ịkịrbahaŋka
+\a Kịrịbahaŋkị
+\ps n
+\ge Krivoshapkin
+\dt 24/Mar/2012
+
+\lx Krivošapkina
+\ps n
+\ge Krivoshapkina
+\dt 22/Feb/2008
+
+\lx Krọlja
+\ps n
+\ge Krolja
+\dt 27/Mar/2012
+
+\lx Ksenofontovič
+\ps n
+\ge Ksenofontovich
+\dt 25/Mar/2010
+
+\lx Ksjuša
+\ps n
+\ge Ksjusha
+\dt 11/Mar/2012
+
+\lx Kubanki
+\ps n
+\ge Kubanki
+\dt 15/Jul/2009
+
+\lx Kučerenko
+\ps n
+\ge Kučerenko
+\dt 04/Jul/2007
+
+\lx Kụjụl
+\ps n
+\ge Kujul
+\dt 14/Feb/2013
+
+\lx Kụrụŋnaːx
+\ps n
+\ge Kurungnax
+\dt 28/Feb/2010
+
+\lx Kutuzov
+\ps n
+\ge Kutuzov
+\dt 15/Jul/2009
+
+\lx Kyymov
+\a Kyymap
+\ps n
+\ge Kymov
+\dt 15/Feb/2010
+
+\lx Lamïnxa
+\a Lamunxinskaj
+\ps n
+\ge Lamynxa
+\dt 19/Mar/2010
+
+\lx Lamunxinskij
+\a Lamunkinskij
+\ps n
+\ge Lamunxin
+\dt 24/Mar/2012
+
+\lx Lamutskaj
+\ps n
+\ge Lamutskij
+\dt 08/Mar/2008
+
+\lx Lamutskij
+\ps n
+\ge Lamutskij
+\dt 24/Mar/2012
+
+\lx Laučan
+\a Leučen
+\a Laụčan
+\ps n
+\ge Lauchan
+\dt 15/Jun/2009
+
+\lx Lena
+\ps n
+\ge Lena
+\dt 21/Mar/2010
+
+\lx Lenin
+\ps n
+\ge Lenin
+\dt 13/Feb/2010
+
+\lx Leningrad
+\a Leningrat
+\ps n
+\ge Leningrad
+\dt 15/Mar/2012
+
+\lx Leontij
+\a Leonči
+\ps n
+\ge Leontij
+\dt 09/Jul/2009
+
+\lx Leopold
+\ps n
+\ge Leopold
+\dt 01/Mar/2008
+
+\lx Lialko
+\ps n
+\ge Lialko
+\dt 19/Mar/2010
+
+\lx Lidija
+\ps n
+\ge Lidija
+\dt 16/Jul/2009
+
+\lx liːdva
+\ps n
+\ge LI-2
+\dt 09/Jul/2009
+
+\lx Lilije
+\ps n
+\ge Lilja
+\dt 04/Jul/2007
+
+\lx Lilja
+\a Liljetta
+\ps n
+\ge Lilja
+\dt 13/Mar/2012
+
+\lx Ljubov
+\ps n
+\ge Ljubov
+\dt 22/Feb/2008
+
+\lx Ljudmila
+\a Ljudmile
+\ps n
+\ge Ljudmila
+\dt 08/Jul/2009
+
+\lx Loris
+\ps n
+\ge Loris
+\dt 02/Apr/2009
+
+\lx Lukin
+\ps n
+\ge Lukin
+\dt 02/Mar/2010
+
+\lx Lёnja
+\a Ljonja
+\ps n
+\ge Ljonja
+\dt 14/Nov/2012
+
+\lx Magadanskij
+\ps n
+\ge from.Magadan.R
+\dt 06/Jul/2007
+
+\lx Maja
+\ps n
+\ge Maja
+\dt 23/Feb/2008
+
+\lx Makarovna
+\ps n
+\ge Makarovna
+\dt 23/Feb/2012
+
+\lx Makenzie
+\ps n
+\ge Mackenzie
+\dt 23/Mar/2010
+
+\lx Maksim
+\a Maksakụ
+\ps n
+\ge Maksim
+\dt 15/Jul/2009
+
+\lx Maksimovna
+\ps n
+\ge Maksimovna
+\dt 08/Jun/2007
+
+\lx Maltar
+\ps n
+\ge Maltar
+\nt the name of a little river near the
+Iccha
+\dt 09/Jul/2009
+
+\lx Managịs
+\ps n
+\ge Managis
+\dt 05/Jul/2007
+
+\lx MaŋanXajalaax
+\ps n
+\ge Mangan.Khajalaakh
+\dt 10/Mar/2012
+
+\lx Marija
+\ps n
+\ge Maria
+\dt 15/Jun/2007
+
+\lx Marina
+\ps n
+\ge Marina
+\dt 22/Feb/2008
+
+\lx Mariša
+\ps n
+\ge Marisha
+\dt 05/Mar/2012
+
+\lx Markatta
+\ps n
+\ge Markatta
+\dt 25/Feb/2012
+
+\lx Marta
+\ps n
+\ge Martha
+\dt 12/Mar/2012
+
+\lx Maša
+\a Mańa
+\a Masa
+\a Mašịk
+\a Masịk
+\ge Masha
+\dt 11/Mar/2012
+
+\lx Mašen'ka
+\a Mašenka
+\a Mašịŋka
+\ps n
+\ge Mashenka
+\dt 23/Feb/2012
+
+\lx Matrena
+\a Matrjona
+\ps n
+\ge Matrena
+\dt 21/Mar/2009
+
+\lx Matrjona
+\ps n
+\ge Matrjona
+\dt 02/Mar/2012
+
+\lx Matvej
+\ps n
+\ge Matthew
+\dt 15/Mar/2013
+
+\lx Mavra
+\a Mavru
+\ps n
+\ge Mavra
+\dt 07/Jul/2007
+
+\lx Melita
+\ps n
+\ge Melita
+\dt 22/Dec/2012
+
+\lx Merlenke
+\ps n
+\ge Merlenke
+\dt 22/Feb/2008
+
+\lx Milkovo
+\ps n
+\ge Milkovo
+\dt 06/Jul/2007
+
+\lx Miša
+\ps n
+\ge Misha
+\dt 17/Jun/2007
+
+\lx Mišuk
+\ps n
+\ge Mishuk
+\dt 02/Apr/2009
+
+\lx Mitja
+\a Miteː
+\ps n
+\ge Mitja
+\dt 26/Mar/2009
+
+\lx Mitrofanovna
+\ps n
+\ge Mitrofanovna
+\dt 09/Jul/2009
+
+\lx Mixail
+\ps n
+\ge Michael
+\dt 26/Jun/2009
+
+\lx MN
+\ps n
+\ge MN
+\dt 24/Mar/2009
+
+\lx Mọːmịja
+\ps n
+\ge Momija
+\dt 01/Mar/2012
+
+\lx Moskva
+\a Maskva
+\ps n
+\ge Moscow
+\dt 14/Feb/2010
+
+\lx Moskvy
+\ps n
+\ge Moscow.gen.R
+\dt 01/Aug/2009
+
+\lx Mụkụčị
+\a Mụkụčụ
+\ps n
+\ge Mukuchi
+\dt 21/Mar/2010
+
+\lx Nadežda
+\a Nadʒụk
+\ps n
+\ge Nadezhda
+\dt 02/Mar/2012
+
+\lx Nam
+\ps n
+\ge Namtsy
+\dt 21/Mar/2010
+
+\lx Namskij
+\ps n
+\ge Namtsy
+\dt 15/Feb/2010
+
+\lx Nastja
+\a Nast
+\ps n
+\ge Nastja
+\dt 22/Mar/2013
+
+\lx Natalia
+\a Nataša
+\a Nataš
+\ps n
+\ge Natalia
+\dt 10/Mar/2012
+
+\lx Nesterov
+\a Nesterev
+\ps n
+\ge Nesterov
+\dt 05/Mar/2012
+
+\lx Neustroev
+\a Neustroef
+\ps n
+\ge Neustroev
+\dt 15/Feb/2010
+
+\lx Ńịbịča
+\a Ńịmịča
+\ps n
+\ge Nibicha
+\dt 21/Mar/2010
+
+\lx Nidiše
+\ps n
+\ge Nadežda
+\dt 04/Jul/2007
+
+\lx Nika
+\ps n
+\ge Nika
+\dt 23/Mar/2012
+
+\lx Nikifor
+\ps n
+\ge Nikifor
+\dt 19/Mar/2008
+
+\lx Nikiforovna
+\ps n
+\ge Nikiforovna
+\dt 15/Mar/2012
+
+\lx Nikita
+\ps n
+\ge Nikita
+\dt 22/Feb/2008
+
+\lx Nikitin
+\ps n
+\ge Nikitin
+\dt 26/Mar/2009
+
+\lx Nikolaevič
+\a Nikolaevis
+\ps n
+\ge Nikolaevich
+\dt 24/Mar/2012
+
+\lx Nikolaevna
+\ps n
+\ge Nikolaevna
+\dt 20/Jun/2007
+
+\lx Nikolaj
+\a Ńukuː
+\a Mikulaj
+\a Ńụkụlaj
+\a Kọljụk
+\ps n
+\ge Nikolaj
+\dt 02/Mar/2012
+
+\lx Nịrgịn
+\a Nịrgị
+\ge Nirgin
+\dt 25/Feb/2012
+
+\lx Ńịrgịnịńdʒa
+\ps n
+\ge Nirginindja
+\dt 27/Mar/2009
+
+\lx Nogovitsyn
+\a Nogavitsyn
+\a Nogovihyn
+\ps n
+\ge Nogovitsyn
+\dt 16/Mar/2012
+
+\lx Ńoltek
+\ps n
+\ge Sunny
+\dt 22/Mar/2009
+
+\lx Ńọːra
+\ps n
+\ge Njora
+\dt 05/Mar/2012
+
+\lx NotreDam
+\ps n
+\ge Notre-Dame
+\dt 05/Mar/2008
+
+\lx NTOT
+\ps n
+\ge NTOT
+\dt 22/Mar/2010
+
+\lx Nụndịmbal
+\ps n
+\ge Nundimbal
+\dt 20/Feb/2008
+
+\lx Oblukovina
+\a Ubluke
+\ps n
+\ge Oblukovina
+\dt 13/Jul/2009
+
+\lx Ọbụ
+\ps n
+\ge Obu
+\dt 05/Mar/2008
+
+\lx Ojuːnskij
+\a Ojuːnskaj
+\ps n
+\ge Ojunskij
+\dt 14/Feb/2010
+
+\lx Okonešnikov
+\ps n
+\ge Okoneshnikov
+\dt 20/Mar/2010
+
+\lx Oksana
+\a Ọksaː
+\ps n
+\ge Oksana
+\dt 26/Mar/2012
+
+\lx Oktjabrina
+\ps n
+\ge Oktjabrina
+\dt 26/Jun/2007
+
+\lx Oleg
+\ps n
+\ge Oleg
+\dt 13/Jun/2007
+
+\lx Olga
+\a Olja
+\ps n
+\ge Olga
+\dt 26/Feb/2012
+
+\lx Oljutorskie
+\ps n
+\ge Aljutor
+\dt 26/Jun/2007
+
+\lx Olleŋe
+\ps n
+\ge Ollenge
+\dt 16/Jul/2009
+
+\lx Ölöːn
+\ps n
+\ge Olenek
+\dt 26/Mar/2010
+
+\lx Omčeni
+\a Emčeni
+\ps n
+\ge Emcheni
+\dt 03/Mar/2012
+
+\lx Osipov
+\a Ọsịpaw
+\ps n
+\ge Osipov
+\dt 25/Feb/2012
+
+\lx Oxotskoe
+\a Axotskaj
+\ps n
+\ge Okhotsk
+\dt 24/Feb/2012
+
+\lx Ozernaja
+\a Ozernaj
+\ps n
+\ge Ozernaja
+\dt 13/Jul/2009
+
+\lx Paderina
+\ps n
+\ge Paderina
+\dt 22/Dec/2012
+
+\lx Paka
+\ps n
+\ge Paka
+\dt 09/Jul/2007
+
+\lx Palana
+\ps n
+\ge Palana
+\dt 06/Oct/2012
+
+\lx Pariž
+\ps n
+\ge Paris
+\dt 05/Mar/2008
+
+\lx Paško
+\a Paškọ
+\a Paskọ
+\ps n
+\ge Pashko
+\dt 26/Feb/2012
+
+\lx Pavel
+\a Pavlik
+\ps n
+\ge Pavel
+\dt 20/Jan/2013
+
+\lx Pavlov
+\ps n
+\ge Pavlov
+\dt 12/Mar/2012
+
+\lx Pavlova
+\ps n
+\ge Pavlova
+\dt 22/Feb/2008
+
+\lx Pavlovič
+\ps n
+\ge Pavlovich
+\dt 24/Mar/2009
+
+\lx Pestrjakov
+\ps n
+\ge Pestrjakov
+\dt 13/Mar/2012
+
+\lx Petja
+\a Peto
+\a Pịtọː
+\ps n
+\ge Petja
+\dt 15/Mar/2013
+
+\lx Petr
+\a Büötr
+\a Bötr
+\a Pjọtr
+\ps n
+\ge Petr
+\dt 09/Jul/2009
+
+\lx Petropavlovsk
+\ps n
+\ge Petropavlovsk
+\dt 17/Jun/2007
+
+\lx Petrov
+\ps n
+\ge Petrov
+\dt 09/Jun/2007
+
+\lx Petrovič
+\ps n
+\ge Petrovich
+\dt 21/Mar/2009
+
+\lx Petrovna
+\ps n
+\ge Petrovna
+\dt 21/Mar/2009
+
+\lx Petrus
+\a Petruh
+\ps n
+\ge Petrus
+\dt 19/Mar/2012
+
+\lx Platon
+\a Platọn
+\ps n
+\ge Platon
+\dt 25/Mar/2012
+
+\lx Pọgọ
+\ps n
+\ge Pogo
+\dt 12/Mar/2012
+
+\lx Polina
+\ps n
+\ge Polina
+\dt 07/Jul/2007
+
+\lx Polša
+\ps n
+\ge Poland
+\dt 11/Mar/2010
+
+\lx Pol'ša
+\a Pọlša
+\ps n
+\ge Poland
+\dt 26/Mar/2010
+
+\lx Potapova
+\ps n
+\ge Potapova
+\dt 29/Feb/2012
+
+\lx Praga
+\ps n
+\ge Prague
+\dt 26/Mar/2010
+
+\lx Praskovja
+\a Praskọn
+\a Parọː
+\ps n
+\ge Praskovja
+\dt 16/Mar/2012
+
+\lx Prokopij
+\a Prọnja
+\ps n
+\ge Prokopij
+\dt 29/Feb/2012
+
+\lx Prončev
+\ps n
+\ge Pronchev
+\dt 09/Jul/2009
+
+\lx Pudov
+\ps n
+\ge Pudov
+\dt 16/Mar/2012
+
+\lx pulemet
+\ps n
+\ge machine.gun.R
+\dt 26/Jun/2009
+
+\lx Raisa
+\ps n
+\ge Raisa
+\dt 29/Feb/2008
+
+\lx Raja
+\ps n
+\ge Raja
+\dt 23/Jun/2007
+
+\lx Reks
+\ps n
+\ge Rex
+\dt 31/Mar/2009
+
+\lx Rima
+\ps n
+\ge Rima
+\dt 08/Jun/2007
+
+\lx Rimma
+\ps n
+\ge Rimma
+\dt 20/Jan/2013
+
+\lx Rozalija
+\ps n
+\ge Rosalia
+\dt 10/Mar/2012
+
+\lx Ruslan
+\ps n
+\ge Ruslan
+\dt 14/Jul/2009
+
+\lx Rustam
+\ps n
+\ge Rustam
+\dt 19/Feb/2010
+
+\lx Sakkyryrskij
+\ps n
+\ge Sakkyryr
+\dt 15/Feb/2010
+
+\lx Sakkyryyr
+\a Sakkyryr
+\a Hakkịrịr
+\ps n
+\ge Sakkyryyr
+\dt 17/Feb/2010
+
+\lx Salmazov
+\ps n
+\ge Salmazov
+\dt 23/Mar/2010
+
+\lx Samojlov
+\a Hamajịlap
+\ps n
+\ge Samojlov
+\dt 24/Feb/2012
+
+\lx Sangar
+\a Sangaːr
+\a Hangaːr
+\a Haŋgar
+\ps n
+\ge Sangar
+\dt 03/May/2010
+
+\lx Sanụč
+\a Šanụt
+\ps n
+\ge Sanuč
+\dt 22/Jun/2009
+
+\lx Sargïlana
+\a Hargï
+\ps n
+\ge Sargylana
+\dt 10/Mar/2012
+
+\lx Savelixa
+\ps n
+\ge Savelixa
+\dt 14/Feb/2013
+
+\lx SE
+\ps n
+\ge SE
+\dt 26/Mar/2009
+
+\lx Sebeːnküöl
+\ps n
+\ge Sebjan.Küöl
+\dt 25/Mar/2010
+
+\lx Sebjan-Küöl
+\a Heben-Küöl
+\a Hebeːn
+\a Heben
+\a Sebeːn
+\a Sebjan
+\a Sebja
+\ps n
+\ge Sebjan-Küöl
+\dt 26/Mar/2012
+
+\lx Segen
+\a Hiegen
+\a Hiege
+\a Siegen
+\a Segen-Köl
+\a Hiegen-Köl
+\ps n
+\ge Segen.Kuel
+\dt 24/Mar/2012
+
+\lx Semen
+\a Henńe
+\ps n
+\ge Semen
+\dt 26/Mar/2012
+
+\lx Semenova
+\a
+\ps n
+\ge Semenova
+\dt 01/Mar/2012
+
+\lx Semёn
+\a Semjọn
+\a Semen
+\ps n
+\ge Semen
+\dt 05/Jul/2009
+
+\lx Semёn
+\ps n
+\ge Semen
+\dt 03/Mar/2010
+
+\lx Semёnov
+\a Hemenep
+\ps n
+\ge Semenov
+\dt 24/Feb/2012
+
+\lx Semёnovič
+\a Hemenovis
+\ps n
+\ge Semenovich
+\dt 24/Feb/2012
+
+\lx Serafimovna
+\ps n
+\ge Serafimovna
+\dt 10/Mar/2012
+
+\lx Sergej
+\a Hergej
+\a Čede
+\ps n
+\ge Sergej
+\dt 06/Oct/2012
+
+\lx Simon
+\ps n
+\ge Simon
+\dt 11/Mar/2012
+
+\lx Sirbu
+\ps n
+\ge Sirbu
+\dt 22/Mar/2010
+
+\lx Slepcov
+\a Sleptsov
+\ps n
+\ge Sleptsov
+\dt 29/Feb/2012
+
+\lx Slugin
+\ps n
+\ge Slugin
+\dt 06/Oct/2012
+
+\lx Slugina
+\ps n
+\ge Slugina.gen.R
+\dt 13/Jul/2009
+
+\lx Smetanina
+\ps n
+\ge Smetanina
+\dt 22/Mar/2009
+
+\lx Smirnov
+\a Smirnova
+\ps n
+\ge Smirnov
+\dt 24/Mar/2010
+
+\lx Snežana
+\ps n
+\ge Snezhana
+\dt 22/Feb/2008
+
+\lx Sọčị
+\ps n
+\ge Sochi
+\dt 15/Mar/2012
+
+\lx Sofija
+\ps n
+\ge Sophia
+\dt 17/Mar/2008
+
+\lx Solodikov
+\ps n
+\ge Solodikov
+\dt 06/Jul/2009
+
+\lx Sonja
+\ps n
+\ge Sonja
+\dt 15/Jul/2009
+
+\lx Sọrdax
+\ps n
+\ge Sordax
+\dt 19/Feb/2012
+
+\lx sorokovoj
+\a sarakavọj
+\ps n
+\ge fortieth.km
+\dt 26/Jun/2009
+
+\lx Sovetskij_Sojuz
+\a Sawetskaj_Sajuz
+\ps n
+\ge Soviet.Union
+\dt 11/Mar/2010
+
+\lx Spidola
+\a Ispidola
+\ps n
+\ge Spidola
+\dt 22/Feb/2010
+
+\lx Spiridonovič
+\ps n
+\ge Spiridonovich
+\dt 22/Feb/2008
+
+\lx Spiridonovna
+\ps n
+\ge Spiridonovna
+\dt 10/Mar/2012
+
+\lx Srednjaja_Azija
+\a Srednij_Azija
+\ps n
+\ge Central.Asia
+\dt 11/Mar/2010
+
+\lx Stalin
+\ps n
+\ge Stalin
+\dt 08/Mar/2008
+
+\lx Stalina
+\ps n
+\ge Stalin.acc.R
+\dt 26/Mar/2010
+
+\lx Stanislav
+\a Stasik
+\ps n
+\ge Stanislav
+\dt 28/Feb/2010
+
+\lx Starkov
+\ps n
+\ge Starkov
+\dt 16/Mar/2012
+
+\lx Stepan
+\a Stjọpa
+\ps n
+\ge Stepan
+\dt 28/Mar/2012
+
+\lx Stepanov
+\a Stepanof
+\a Stepanop
+\a Istepanov
+\a Ịstịpanap
+\ps n
+\ge Stepanov
+\dt 25/Mar/2012
+
+\lx Stepanova
+\ps n
+\ge Stepanova
+\dt 22/Feb/2008
+
+\lx Stepanovič
+\ps n
+\ge Stepanovich
+\dt 05/Jul/2009
+
+\lx Stručkova
+\ps n
+\ge Struchkova
+\dt 09/Mar/2010
+
+\lx Suntar
+\a Hụntaːr
+\ps n
+\ge Suntar
+\dt 21/Mar/2010
+
+\lx Sverlovaja_Gora
+\a Sherlovaja_Gora
+\ps n
+\ge Sverlovaja_Gora
+\dt 22/Mar/2010
+
+\lx Sveta
+\ps n
+\ge Sveta
+\dt 23/Jun/2007
+
+\lx Svetlana
+\ps n
+\ge Svetlana
+\dt 23/Jun/2007
+
+\lx Tabalax
+\a Tabalak
+\ps n
+\ge Tabalax
+\dt 19/Feb/2010
+
+\lx Taisija
+\a Taja
+\ps n
+\ge Taisija
+\dt 27/Mar/2012
+
+\lx Tajańdʒa
+\ps n
+\ge Tajandja
+\dt 05/Mar/2012
+
+\lx Tamara
+\ps n
+\ge Tamara
+\dt 15/Mar/2012
+
+\lx Taškent
+\a Tašken
+\ps n
+\ge Tashkent
+\dt 11/Mar/2010
+
+\lx Tašmore
+\ps n
+\ge Tash-Sea
+\dt 15/Mar/2012
+
+\lx Tatjana
+\a Tanja
+\a Takčịana
+\a Takčana
+\ps n
+\ge Tatjana
+\dt 27/Jan/2013
+
+\lx Teliliwut
+\ps n
+\ge Teliliwut
+\dt 14/Feb/2013
+
+\lx Tïllaːx
+\ps n
+\ge Tyllax
+\dt 14/Feb/2013
+
+\lx Timofej
+\ps n
+\ge Timofej
+\dt 24/Jan/2013
+
+\lx Timur
+\ps n
+\ge Timur
+\dt 22/Feb/2008
+
+\lx Tiŋńe
+\ps n
+\ge Tingne
+\dt 15/Feb/2013
+
+\lx Tirextex
+\ps n
+\ge Tirextex
+\dt 20/Feb/2008
+
+\lx Tixij.Don
+\ps n
+\ge Silent.Don
+\dt 16/Jul/2009
+
+\lx Tokonok
+\ps n
+\ge Tokonok
+\dt 02/Apr/2009
+
+\lx Tompo
+\a Tampọ
+\ps n
+\ge Tompo
+\dt 26/Feb/2012
+
+\lx Toŋekčen
+\ps n
+\ge Tongekchen
+\dt 15/Mar/2013
+
+\lx Tonne
+\ps n
+\ge Tonne
+\dt 17/Jul/2009
+
+\lx TP
+\ps n
+\ge TP
+\dt 23/Mar/2009
+
+\lx Trifonovič
+\ps n
+\ge Trifonovich
+\dt 06/Jul/2009
+
+\lx Tujara
+\ps n
+\ge Tujara
+\dt 20/Mar/2010
+
+\lx Tụlahịnap
+\ps n
+\ge Tulasinov
+\dt 31/Mar/2009
+
+\lx Tụmara
+\ps n
+\ge Tumara
+\dt 05/Mar/2012
+
+\lx Turček
+\ps n
+\ge Turček
+\dt 26/Mar/2010
+
+\lx Twajaːn
+\a Twajaː
+\ps n
+\ge Twajaːn
+\nt Name of a former village, which
+was dissolved when they
+ukrupnjali Esso.
+\dt 02/Jul/2007
+
+\lx Ubluka
+\ps n
+\ge Oblukovina
+\dt 06/Jul/2007
+
+\lx Ugulana
+\ps n
+\ge Ugulana
+\dt 22/Feb/2008
+
+\lx Ụịndʒa
+\ps n
+\ge Uindja
+\dt 02/Dec/2012
+
+\lx Ụjịŋkan
+\ps n
+\ge Ujiŋkan
+\nt name of a clan
+\dt 05/Jul/2007
+
+\lx Ujusxan
+\ps n
+\ge Ujusxan
+\dt 06/Mar/2008
+
+\lx Ukraina
+\ps n
+\ge Ukraine
+\dt 22/Mar/2010
+
+\lx Uleŋeńdʒe
+\ps n
+\ge Ulengendje
+\nt Name of a mountain near Esso
+\dt 09/Jul/2009
+
+\lx Uljana
+\ps n
+\ge Uljana
+\dt 26/Jun/2007
+
+\lx Uljanov
+\a Uljanap
+\ps n
+\ge Uljanov
+\dt 24/Mar/2012
+
+\lx Ural
+\a Ụral
+\ps n
+\ge Urals
+\dt 21/Mar/2010
+
+\lx Ustjužanin
+\a Isčužanin
+\ge Ustjuzhanin
+\dt 15/Jul/2009
+
+\lx Ust'-Xajrjuzovo
+\a Ust-Xaːrịzọv
+\ps n
+\ge Ust-Xajrjuzovo
+\dt 09/Jul/2009
+
+\lx Uybanop
+\ps n
+\ge Ivanov
+\dt 23/Feb/2008
+
+\lx Vadeːm
+\ps n
+\ge Vadim.voc
+\dt 16/Jul/2009
+
+\lx Vadim
+\ps n
+\ge Vadim
+\dt 16/Jul/2009
+
+\lx Valentin
+\ps n
+\ge Valentin
+\dt 17/Mar/2008
+
+\lx Valera
+\a Valerka
+\a Balerik
+\a Valerik
+\a Valerja
+\ps n
+\ge Valerij.dim
+\dt 05/Mar/2012
+
+\lx Valerevič
+\ps n
+\ge Valerevich
+\dt 26/Mar/2012
+
+\lx Valerevna
+\a Valer
+\ps n
+\ge Valerevna
+\dt 01/Mar/2012
+
+\lx Varvara
+\a Barịŋka
+\a Varịŋka
+\ps n
+\ge Barbara
+\dt 05/Mar/2012
+
+\lx Vasilevič
+\a Vasilevis
+\a Bahịlajabịs
+\a Vasilit
+\ps n
+\ge Vasilevich
+\dt 24/Mar/2012
+
+\lx Vasilevna
+\ps n
+\ge Vasilevna
+\dt 21/Mar/2009
+
+\lx Vasilij
+\a Bahịlaj
+\a Mačịlị
+\ps n
+\ge Vasilij
+\dt 09/Jul/2009
+
+\lx Vasilina
+\ps n
+\ge Vasilina
+\dt 22/Dec/2012
+
+\lx Vasilisa
+\ps n
+\ge Vasilisa
+\dt 24/Jan/2013
+
+\lx Vasja
+\a Baska
+\a Vasik
+\ps n
+\ge Vasja
+\dt 22/Jan/2013
+
+\lx Vasjọk
+\ps n
+\ge Vasjok
+\dt 10/Mar/2012
+
+\lx Velikanov
+\ps n
+\ge Velikanov
+\dt 21/Mar/2010
+
+\lx Vena
+\a Viene
+\ps n
+\ge Vienna
+\dt 25/Mar/2010
+
+\lx Venedikta
+\ge Benedikt.gen.R
+\dt 12/Jul/2009
+
+\lx Vengrija
+\ps n
+\ge Hungary
+\dt 11/Mar/2010
+
+\lx Verxojanskij
+\a Werkojanskaj
+\a Werkejeːnskej
+\ps n
+\ge Verkhojansk
+\dt 24/Feb/2012
+
+\lx Viktor
+\a Vitja
+\ps n
+\ge Viktor
+\dt 14/Jul/2009
+
+\lx Viljuj
+\a Bülüː
+\a Bulu
+\ps n
+\ge Vilyuy
+\dt 24/Feb/2012
+
+\lx Vladimir
+\a Volodja
+\a Bolodʒiga
+\a Bladimir
+\a Vovkinaj
+\ge Vladimir
+\dt 26/Mar/2012
+
+\lx Vladimirovič
+\ps n
+\ge Vladimirovich
+\dt 16/Mar/2012
+
+\lx Vladimirovna
+\ps n
+\ge Vladimirovna
+\dt 23/Jun/2007
+
+\lx Volkov
+\a Bọlkap
+\ps n
+\ge Volkov
+\dt 25/Mar/2012
+
+\lx Xabarovsk
+\ps n
+\ge Khabarovsk
+\dt 23/Jun/2007
+
+\lx Xaịlịna
+\a Xaịrịna
+\a Xaịlịnọ
+\ps n
+\ge Xailino
+\dt 26/Oct/2012
+
+\lx Xajrjuzovo
+\a Xajrịzọv
+\ps n
+\ge Xajrjuzovo
+\dt 20/Jul/2008
+
+\lx Xannaːx
+\ps n
+\ge Xanax
+\dt 25/Feb/2012
+
+\lx Xọbọjọtọ
+\ps n
+\ge Khobojoto
+\dt 05/Mar/2012
+
+\lx Xristina
+\ps n
+\ge Kristina
+\dt 24/Mar/2010
+
+\lx Xristofor
+\ps n
+\ge Xristofor
+\dt 14/Feb/2010
+
+\lx Xristoforovič
+\a Xristoforič
+\ps n
+\ge Xristovorovich
+\dt 16/Jul/2009
+
+\lx Zabaikalskij_Voennyj_Okrug
+\ps n
+\ge Transbaikal_Defense_Region
+\dt 22/Mar/2010
+
+\lx Žanna
+\ps n
+\ge Zhanna
+\dt 02/Mar/2012
+
+\lx Zaxar
+\a Čakkụ
+\ps n
+\ge Zaxar
+\dt 20/Jul/2009
+
+\lx Zaxarov
+\a Zaxarop
+\a Zaxarap
+\a Haxarof
+\a Hakarof
+\a Hakaːrap
+\ps n
+\ge Zaxarov
+\dt 25/Mar/2012
+
+\lx Zaxarova
+\ps n
+\ge Zaxarova
+\dt 20/Mar/2010
+
+\lx Ženja
+\ps n
+\ge Zhenja
+\dt 14/Jul/2009
+
+\lx Zhenja
+\ps n
+\ge Zhenja
+\dt 22/Dec/2012
+
+\lx Žilčenko
+\ps n
+\ge Zhilchenko
+\dt 16/Mar/2012
+
+\lx Zinovij
+\ps n
+\ge Zinovij
+\dt 12/Mar/2008
+
+\lx Zoja
+\ps n
+\ge Zoja
+\dt 09/Mar/2012
