@@ -1,0 +1,128 @@
+
+
+
+(С)
+\tx Stadala        ọrọnat                hergerep,          
+\mb stado  -(dU)LE ọrọn              -E  -Č   hor -Gr(E) -p       
+\ps n              n                          v                            
+\ge herd.R -loc    domestic.reindeer -ep -ins go  -hab   -1pl.in
+\ft We went to the herd by reindeer
+
+\tx Bačakar    ńuŋen častụk    horehendʒir              ọrọndụla.
+\mb badʒịkar ńuŋen čas  -DUk(U) hor -E  -s(E)n -DʒI -r   ọrọn              -(dU)LE
+\ps n        num   n            v                        n                        
+\ge morning  six   hour -abl    go  -ep -lim   -fut -3pl domestic.reindeer -loc   
+
+\ft In the morning at six they go to the reindeer.
+
+
+\tx 	bi   	noːji                   		bụllịdʒị		nọŋantịkaːkan                  		herridʒi    
+\mb  	biː 	noː             	-J       	bụl  -RIdʒI  	nọŋan -t(E)kI -jEkEːkI  -n(I)     	hor -RIdʒI      
+\ps 	pron	n                        		v            		pron                              		v         
+\ge 	1sg 	younger.sibling -prfl.sg	pity -ant.cvb	3sg   -all    -directly -poss.3sg	go  -ant.cvb 
+
+I pitied my brother and went straight to him
+
+
+\tx Emekejeːt    hokohnidʒi      dʒụːtkịj            emekoːjeken
+\mb emeket  -jEː hokohon -RIdʒI   dʒụː  -t(E)kI -J       emeket  =eː   -jEː -KEn
+\ps adv          v                n                      adv
+\ge quickly -aug go.down -ant.cvb house -all    -prfl.sg quickly =emph -aug -dim.int
+
+\tx dʒaltakij                horriw,            tutelliw.
+\mb dʒal     -t(E)kI -J       hor -RI  -W        tut -E  -L    -RI  -W
+\ps n                         v                  v
+\ge relativs -all    -prfl.sg go  -pst -poss.1sg run -ep -inch -pst -poss.1sg
+
+\ft Having walked down quickly, I quickly ran home to my family.
+
+
+\tx Eh, bi,  biː noːčel              Afonjańun     ńan   kokenčel             Elenańun   stadatkị
+\mb eh biː biː noː             -čEl Afanasij -ńUn ńaːn koken           -čEl Elena -ńUn stado  -t(E)kI
+\ps interj pron pron n                    n             adv  n                    n          n             
+\ge eh 1sg 1sg younger.sibling -com Afanasij -com and  daughter.in.law -com Elena -com herd.R -all   
+
+\tx hereddit.
+\mb hor -E  -D    -RI  -t(I)       
+\ps v                              
+\ge go  -ep -prog -pst -poss.1pl.in
+\ft I was going to the herd with my younger brother Afanasij and my sister-in-law Elena.
+
+===говорение===
+\tx Tar   atịkantịkị  goːnče:
+\mb tarak atịkan    -t(E)kI goːn -čE    
+\ps pron  n                 v           
+\ge dist  old.woman -all    say  -pf.ptc
+\ft He told his wife.
+\ru Сказал своей жене:
+
+
+(К)
+\tx 	Ńan   	tugenidu    	taŋanịd...          			opjat', 	ńanda      	oriddʒoːttu
+\mb 	ńaːn  	tugeni -DU  	taŋ  -E  -n    -E  -D    		opjat'  	ńaːn  =DE hor -E  -D    -WEːČ -(R)U  
+\ps 	adv     	n           		v                        		adv     	adv          	v                          
+\ge 	again 	winter -dat 	read -ep -mult -ep -prog 	again.R	again =ptl go  -ep -prog -gnr  -1pl.ex
+
+\tx 	ọrtakị.
+\mb 	ọrọn              -t(E)kI
+\ps 	n                        
+\ge 	domestic.reindeer -all   
+\ft And in winter we went to school, and then we again went to the reindeer herd.
+
+\tx Ńan   tarakam       urriwun               Marina Timofeevnatki.
+\mb ńaːn tarakam       hor -RI  -WUn         Marina Timofeevna -t(E)kI
+\ps adv  adv           v                     n      n                 
+\ge and  in.those.days go  -pst -poss.1pl.ex Marina Timofeevna -all   
+\ft And then we went to Marina Timofeevna.
+
+\tx Ile           gelnedʒip?
+\mb irek  -(dU)LE gel      -nE     -DʒI -p
+\ps pron          v
+\ge which -loc    look.for -intent -fut -1pl.in
+\ft Where will we go to look?
+
+\tx Nan    iːsečinte          nanda       ńọːndʒịddịwụ       tala          ọːčịddịtkịtan,
+\mb ńaːn hiːsečin =t(E)    ńaːn =DE  ńọːn     -D    -RI  -W        tarak -(dU)LE ọː   -Č   -E  -D    -RI       -t(E)kI -tEn     
+\ps adv  n                 adv       v                             pron          v                                              
+\ge and  evening  =ptl and  =ptl run.away -prog -pst -poss.1sg dist  -loc    make -res -ep -prog -impf.ptc -all    -poss.3pl
+
+\tx aerodroma.
+\mb aerodrom    -E 
+\ps n              
+\ge aerodrome.R -ep
+
+
+
+Себьян - в переводах преобладает "в сторону", на Камчатке это скорее до -> seems like it's terminative in the mind of kamch speakers and non-terminative in S (need to check!)
+
+
+
+
+
+
+
+
+
+(С)
+\tx Ńarịla       emie   awhụn              biwren
+\mb ńarị -(dU)LE emie   awhụ       -n(I)     bi -Gr(E) -n(I) 
+\ps n            adv    n                    v     
+\ge man  -loc    also.Y sewing.bag -poss.3sg be -hab   -3sg
+\ft Men also have a little bag for sewing implements
+
+\tx Ljudala       ačča ọttọn?
+\mb Ljuda -(dU)LE ačča ọttọn
+\ps n             ptl  ptl
+\ge Ljuda -loc    neg  dp.Y
+\ft Doesn't Ljuda have any?
+
+
+(К)
+\tx Lesopilkaten         bisin             bụjla        ọkaːt ulilen,             tala.
+\mb lesopilka  -tEn      bi -RI  -n(I)     bụj    -(dU)LE ọkaːt holi -(dU)LE -n(I)     tarak -(dU)LE
+\ps n                    v                 n              n     rel.n                  pron         
+\ge saw.mill.R -poss.3pl be -pst -poss.3sg forest -loc    river edge -loc    -poss.3sg dist  -loc   
+\ft They had a sawmill in the forest, at the edge of the river, over there.
+
+
+
