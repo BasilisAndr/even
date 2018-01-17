@@ -20349,7 +20349,7 @@ temi zhe sredstvami'; Cincius has 'srazu' tarbadit
 
 \lx tarịt
 \a tarat
-\ps adv
+\ps conj
 \ge then
 \nt tarat is a speech error, probably a 'hybrid' from tarak and tarit
 (RDA_TPK_death_246)
@@ -25295,6 +25295,14 @@ all animals
 \a ńana
 \ps conj, adv
 \ge and
+\dt 13/Sep/2009
+
+\lx ńaːn
+\a ńan
+\a nan
+\a ńana
+\ps adv
+\ge again
 \dt 13/Sep/2009
 
 \lx ńaːs

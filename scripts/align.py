@@ -46,6 +46,17 @@ class TestAll(unittest.TestCase):
         self.assertTrue(('bụg', 'earth') in dic)
         self.assertTrue(dic[('bütünnüː', 'entirely.Y')]=='adv')
         self.assertTrue(('čas', 'hour.R') in dic)
+        self.assertTrue(('ńaːn', 'again') in dic)
+
+
+class LengthError(Exception):
+    '''raised on pickle-parsing if morpheme/gloss/pos lists
+    are not the same length'''
+    def __init__(self, message='Length of lists not equal'):
+        super(LengthError, self).__init__()
+        self.message = message
+    def __str__(self):
+        return repr(self.message)
 
 
 def extract_pos():
@@ -89,15 +100,15 @@ def postag(mor, gl, postags):
     ps = []
     for m, g in zip(mor, gl):
         if v_gl&set(g):
-            ps += 'v'
+            ps.append('v')
         elif n_gl&set(g):
-            ps += 'n'
+            ps.append('n')
         elif adv_gl in g:
-            ps += 'adv'
+            ps.append('adv')
         elif (m[0], g[0]) in postags:
-            ps += postags[(m, g)]
+            ps.append(postags[(m[0], g[0])])
         else:
-            ps += '?'
+            ps.append('?')
     return ps
 
 
@@ -114,10 +125,12 @@ def handle_startline(line, res, current_layer):
     '''обрабатывает первую строку нового слоя в предложении'''
     line = line.split()
     layer = line[0].strip('\\')
-    parted_layers = ['tx', 'mb', 'ge', 'ps']
+    parted_layers = ['mb', 'ge', 'ps']
     if not (len(line) == 1): # чтобы не считать пустые строки
         if layer in parted_layers:
             line_content = morphs_2_words(line[1:]) # делим на слова, состоящие из морфем
+        elif layer == 'tx':
+            line_content = line[1:]
         else:
             line_content = [' '.join(line[1:])] # просто целые строки (комментарии и тп)
             current_layer = layer
@@ -128,12 +141,13 @@ def handle_startline(line, res, current_layer):
     return res, current_layer
 
 
-def lines_2_dict(part, parted_layers=['tx', 'mb', 'ge'], res={}):
+def lines_2_dict(part):
     '''
     i: кусок текста (предложение) в несколько строк, в каждой строке несколько слоёв, и с другими данными предложения
     o: джейсонина вида {'слой': [сл, о, ва], 'слой': содержимое}
     доп. ограничения: длина всех строк-массивов равна
     '''
+    res={}
     lines = [line for line in part.split('\n') if len(line) > 1]
     res['index'] = [lines[0].split('_')[-1]]
     current_layer = '' # для переносов
@@ -152,12 +166,10 @@ def check_len(p_sent, fil):
     selected_layers = [key for key in p_sent if key in parted_layers and len(p_sent[key])>1]
     lengths = set([len(p_sent[key]) for key in selected_layers])
     if len(lengths) > 1:
-        print('Error in {}, here:'.format(fil))
-        print(lengths)
         for l in selected_layers:
             print(len(p_sent[l]))
             pprint(p_sent[l])
-    return lengths
+        raise LengthError(message=fil)
 
 
 def check_align(p_sent, fil):
@@ -181,7 +193,7 @@ def handle_sent(sent, fil):
     return sent_content
 
 
-def handle_file(text):
+def handle_file(text, fil):
     '''берёт текст файла, возвращает джейсонину'''
     file_content, text_content = {}, []
     sents = text.split('\id')
@@ -215,7 +227,7 @@ def make_readable(corp):
             continue
         with open(os.path.join(folder, fil), 'r') as f:
             text = f.read()
-        corpus_dict[fil] = handle_file(text)
+        corpus_dict[fil] = handle_file(text, fil)
     with open('{}_new.pickle'.format(corp), 'wb') as f:
         pickle.dump(corpus_dict, f)
     return corpus_dict
@@ -223,7 +235,12 @@ def make_readable(corp):
 
 def align_mg(morph, gloss):
     for l in range(len(morph)):
-        a, b = len(morph[l]), len(gloss[l])
+        try:
+            a, b = len(morph[l]), len(gloss[l])
+        except:
+            pprint(morph)
+            pprint(gloss)
+            raise LengthError()
         if a>b:
             gloss[l] = gloss[l] + ' ' * (a-b)
         else:
@@ -234,46 +251,98 @@ def align_mg(morph, gloss):
 def align(sent):
     for i in range(len(sent['ps'])):
         sent['mb'][i], sent['ge'][i] = align_mg(sent['mb'][i], sent['ge'][i])
-        maxx = max([len(sent['mb'][i]), len(sent['tx'][i])])
+        try:
+            maxx = max([len(sent['mb'][i]), len(sent['tx'][i])])
+        except:
+            print(i)
+            pprint(sent)
+            raise LengthError()
         for layer in ['ps', 'tx', 'mb', 'ge']:
-            sent[layer][i] = sent[layer][i] + ' ' * (maxx-len(sent[layer][i]))
+            try:
+                sent[layer][i] = sent[layer][i] + ' ' * (maxx-len(sent[layer][i]))
+            except:
+                pprint(sent[layer])
+                print(sent['mb'])
+                print(sent['ge'])
+                print(sent['tx'])
+                raise LengthError()
     for layer in ['ps', 'tx', 'mb', 'ge']:
         sent[layer] = ' '.join(sent[layer])
     return sent
 
 
-# def cut_long_lines(sent):
+def handle_sent_tw(sent, path):
+    sent = add_postags(sent)
+    error = check_len(sent, path)
+    if error:
+        print(sent)
+    sent = align(sent)
+    return sent
 
 
-def write_doc(doc, path, order=['id','tx','mb','ps','ge','ft','ELANBegin','ELANEnd','ELANParticipant','ev','ru']):
-    for sent in doc:
-        sent = align(sent)
+def write_doc(text, path, parted_layers = ['tx', 'mb', 'ps', 'ge']):
+    print(path)
+    sentline = {}
     with open(path, 'w') as f:
-        for l in order:
-            if l in sent:
-                f.write('\\{} {}'.format(l, sent[l]))
-        rest = set(sent.keys())-set(order)
-        for r in rest:
-            f.write('\\{} {}'.format(r, sent[r]))
+        for line in text:
+            if line[1:3] in parted_layers:
+                if len(line)>4:
+                    if line[1:3] == 'tx':
+                        sentline[line[1:3]] = line[4:].split()
+                    else:
+                        sentline[line[1:3]] = morphs_2_words(line[4:].split())
+                else:
+                    f.write(line)
+            else:
+                if sentline:
+                    if set(sentline.keys())==set(parted_layers):
+                        sentline = handle_sent_tw(sentline, path)
+                    for l in parted_layers:
+                        if l in sentline:
+                            if isinstance(sentline[l], list):
+                                if isinstance(sentline[l][0], list):
+                                    pprint(sentline)
+                                    raise LengthError()
+                                f.write("\\{} {}\n".format(l, ' '.join(sentline[l])))
+                            else:
+                                f.write("\\{} {}\n".format(l, sentline[l]))
+                    sentline = {}
+                f.write(line)
 
 
 def write_corpus(corpus):
+    folder = 'Corpus_Text_{}_postagged'.format(corpus)
     if not os.path.exists('{}/'.format(corpus)):
         os.mkdir(corpus)
-    with open("{}_new.pickle", 'rb') as f:
-        corp = pickle.load(f)
-    for doc in corp:
-        path = os.path.join(corpus, doc)
-        write_doc(corp[doc], path)
+    for fil in os.listdir(folder):
+        if not fil.endswith('.txt'):
+            continue
+        path_from = os.path.join('Corpus_Text_{}_postagged'.format(corpus), fil)
+        path_to = os.path.join(corpus, fil)
+        with open(path_from) as f:
+            text = f.readlines()
+        if os.path.exists(path_to):
+            with open(path_to) as f:
+                text2 = f.readlines()
+            if len(text) != len(text2):
+                # continue
+                print(path_from)
+                print(len(text), len(text2))
+        # write_doc(text, path_to)
+    # raise LengthError()
 
 
 def main():
-    corpora = ['Kamchatka', 'Sebjan']
+    corpora = ['Sebjan']
     for corp in corpora:
-        make_readable(corp)
+        print('handling {}...'.format(corp))
+        # make_readable(corp)
+        print('pickle done, writing...')
         write_corpus(corp)
+        print('{} done'.format(corp))
+    print('all done')
 
 
 if __name__ == '__main__':
-    unittest.main()
+    # unittest.main()
     main()
