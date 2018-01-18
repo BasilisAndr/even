@@ -66,50 +66,50 @@ class SpeakerError(Exception):
 
 class Document:
 
+
     def __init__(self, doc, fil):
         self.meta = doc['meta']
         self.name = fil
         self.sents = []
+        self.speakers = self.find_speakers()
         for sent in doc['text']:
             self.sents.append(Sentence(sent, self.name, self.speakers))
 
-    @property
-    def speakers(self):
-        sp = meta_speakers(self.meta)
-        if 'AAS' in sp:
-            print(self.name)
-        return sp
+
+    def find_speakers(self):
+        return meta_speakers(self.meta)
 
 
 class Sentence:
 
+
     def __init__(self, sent, doc, speakers=None):
         self.sent = sent
         self.doc = doc
-        self.doc_speakers = speakers
+        self.speaker = self.find_speaker(speakers)
 
 
-    @property
-    def speaker(self):
+    def find_speaker(self, speakers):
         if 'ELANParticipant' in self.sent and len(self.sent['ELANParticipant'])>0:
             possible = self.sent['ELANParticipant'][0]
-            if possible in self.doc_speakers:
+            if possible in speakers:
                 return possible
             elif 'mb' in self.sent and ':' not in possible:
                 return possible
             elif 'mb' in self.sent:
-                return self.doc_speakers[0]
+                return speakers[0]
             else:
                 return 'none'
-        return self.doc_speakers[0]
+        return speakers[0]
 
 
     def make_list(self):
         needed = ['mb', 'ge', 'ps']
         if all(map(lambda x: x in self.sent, needed)):
             res = []
-            for i in range(len(self.sent['mb'])):
+            for i in range(len(self.sent['mb'])): # loop over words
                 res += [(x, y, self.sent['ps'][i], self.speaker) for x, y in zip(self.sent['mb'][i], self.sent['ge'][i])]
+                res += [('END', 'END', 'END', self.speaker)]
             return res
         return []
 
@@ -139,9 +139,10 @@ def main():
         with open('{}_new.pickle'.format(corpus), 'rb') as f:
             corp = pickle.load(f)
         corp_morphs = handle_corpus(corp)
-        print(set(map(lambda x: x[-1], corp_morphs)))
-        # with open('{}_wds_by_mor.pickle'.format(corpus), 'wb') as f:
-        #     pickle.load(corp_morphs, f)
+        # print(set(map(lambda x: x[-1], corp_morphs)))
+        with open('{}_wds_by_mor.pickle'.format(corpus), 'wb') as f:
+            pickle.dump(corp_morphs, f)
+    print('all done')
 
 
 if __name__ == '__main__':
