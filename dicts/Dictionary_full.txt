@@ -368,7 +368,7 @@ as 'acquis'
 \ge Klim.dim.R
 
 \lx Kọg
-\ps excl
+\ps interj
 \ge hey
 \dt 24/Jul/2009
 
@@ -485,7 +485,7 @@ as 'acquis'
 \ge in.matter.of.fact.R
 
 \lx aa
-\ps excl
+\ps interj
 \ge ah
 \dt 22/Mar/2009
 
@@ -639,7 +639,7 @@ thunder
 
 \lx aha
 \a ehe
-\ps excl
+\ps interj
 \ge aha
 \dt 13/Mar/2012
 
@@ -1255,7 +1255,7 @@ left on) on his head, to frighten children
 \ge army.acc.R
 
 \lx arrrr
-\ps ideophone
+\ps onomat
 \ge arrrr
 \dt 04/Jun/2017
 
@@ -2386,7 +2386,7 @@ nast; in Robbek there's only beteke 'urodlivy' about trees'
 \ge without.R
 
 \lx beː
-\ps ideophone
+\ps onomat
 \ge beː
 \nt sound made while cradling
 \dt 04/Jun/2017
@@ -2546,7 +2546,7 @@ naselennyj punkt"
 \ge blockade.R
 
 \lx bobobo
-\ps ideophone
+\ps onomat
 \ge bobobo
 \dt 04/Jun/2017
 
@@ -4325,7 +4325,7 @@ dulget
 \ge house.dim.R
 
 \lx donik
-\ps ideophone
+\ps onomat
 \ge donik
 \dt 04/Jun/2017
 
@@ -6746,7 +6746,7 @@ make in heat
 \dt 18/Jun/2016
 
 \lx eš
-\ps excl
+\ps interj
 \ge no
 \dt 19/Feb/2010
 
@@ -7112,7 +7112,7 @@ lexical entry
 
 \lx ge
 \a go
-\ps excl
+\ps interj
 \ge exclm
 \dt 27/Feb/2008
 
@@ -7137,7 +7137,7 @@ lexical entry
 \dt 17/Mar/2010
 
 \lx geleː
-\ps excl
+\ps interj
 \ge go.on
 \ru давай
 \nt to make people do something, pobuzhdajushajasja chastica
@@ -7971,12 +7971,12 @@ bearded is 'gurguli, gurgatilkan'
 \dt 22/Jun/2007
 
 \lx ha
-\ps excl
+\ps interj
 \ge ha
 \dt 08/Mar/2009
 
 \lx haaa
-\ps ideophone
+\ps onomat
 \ge onomatopoetic
 \dt 04/Jun/2017
 
@@ -9263,7 +9263,7 @@ word
 \dt 21/Mar/2009
 
 \lx hoo
-\ps ideophone
+\ps onomat
 \ge ho
 \dt 04/Jun/2017
 
@@ -9356,7 +9356,7 @@ namuchit'sja, vybit'sja iz sil), but in Sebjan this must mean
 \dt 19/Jun/2016
 
 \lx hu
-\ps excl
+\ps interj
 \ge hu
 \dt 08/Mar/2009
 
@@ -9599,7 +9599,7 @@ blow, but now not directly
 \dt 28/Feb/2012
 
 \lx hyk
-\ps ideophone
+\ps onomat
 \ge hyk
 \dt 16/Mar/2012
 
@@ -12713,7 +12713,7 @@ lifts up and opens up, "the door opened"
 \dt 03/Aug/2009
 
 \lx kr
-\ps ideophone
+\ps onomat
 \ge kr
 \dt 08/May/2017
 
@@ -13097,7 +13097,7 @@ dialectal form
 \ge appartment.R
 
 \lx kx
-\ps ideophone
+\ps onomat
 \ge kx
 \dt 26/Mar/2012
 
@@ -13789,7 +13789,7 @@ leptenje
 \ge onion.R
 
 \lx ma
-\ps excl
+\ps interj
 \ge here!
 \dt 19/Mar/2008
 
@@ -14410,7 +14410,7 @@ mut me:n mo:ndjur
 \dt 18/Feb/2010
 
 \lx mhm
-\ps excl
+\ps interj
 \ge mhm
 \dt 19/Feb/2010
 
@@ -14545,7 +14545,7 @@ miltere:nni, nongartan miltere:ne
 \ge youngest.m.R
 
 \lx mm
-\ps excl
+\ps interj
 \ge mhm
 \dt 01/Mar/2008
 
@@ -20231,7 +20231,7 @@ changed it's meaning so much I won't mark it as Russian
 \dt 28/Feb/2012
 
 \lx tarakak
-\ps ideophone
+\ps onomat
 \ge caw
 \dt 04/Jun/2017
 
@@ -20760,7 +20760,7 @@ of the same kind
 \dt 04/Mar/2012
 
 \lx tet
-\ps excl
+\ps interj
 \ge enough!
 \ru перестань
 \nt used when people do something they shouldn't be doing,
@@ -21184,7 +21184,7 @@ it's a non-inflecting adverb
 \dt 08/Jun/2007
 
 \lx tjawtjaw
-\ps ideophone
+\ps onomat
 \ge onomatopoetic
 \dt 04/Jun/2017
 
@@ -21197,7 +21197,7 @@ it's a non-inflecting adverb
 \ge aunt.R
 
 \lx tju
-\ps ideophone
+\ps onomat
 \ge tju
 \dt 19/Feb/2012
 
@@ -21616,7 +21616,7 @@ does not write this with long vowels
 \ge centre.R
 
 \lx tsssk
-\ps ideophone
+\ps onomat
 \ge tsssk
 \dt 25/Mar/2012
 
@@ -21683,7 +21683,7 @@ does not write this with long vowels
 \dt 28/Feb/2012
 
 \lx tuk
-\ps ideophone
+\ps onomat
 \ge tuk
 \dt 19/Feb/2012
 
@@ -22155,7 +22155,7 @@ being
 \ge axe.R
 
 \lx tọːk
-\ps excl
+\ps interj
 \ge thwack
 \ru стук
 \nt This is just an onomatopoetic word
@@ -24710,7 +24710,7 @@ Sakha, translated it as vysmatrivat, vybirat
 \dt 27/Mar/2009
 
 \lx čipipi
-\ps ideophone
+\ps onomat
 \ge cheep
 \dt 04/Mar/2012
 
@@ -25430,7 +25430,7 @@ pronounce it very much like back vowels
 \dt 15/Mar/2008
 
 \lx ńumarladʒin
-\ps excl
+\ps interj
 \ge how.shameful
 \ru как стыдно
 \nt clearly derived from ńumar- shameful, but unclear in what way, so I'm adding a separate lexeme
@@ -26734,7 +26734,7 @@ word
 \dt 20/Mar/2008
 
 \lx ọ
-\ps excl
+\ps interj
 \ge oh
 \dt 22/Mar/2009
 
@@ -27022,7 +27022,7 @@ derived
 \dt 10/Jun/2008
 
 \lx ọlụha
-\ps excl
+\ps interj
 \ge unexpectedly
 \ru неожиданно
 \dt 04/Jun/2017
@@ -27651,7 +27651,7 @@ dim. suffix -KEn into ujikan
 \dt 23/Jun/2011
 
 \lx ụrụńa
-\ps excl
+\ps interj
 \ge quiet
 \ru не шуми, шумно, неспокойно, надоело
 \nt IVK didn't know this

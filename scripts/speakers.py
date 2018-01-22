@@ -3,7 +3,8 @@ import re
 import pickle
 from pprint import pprint
 import os
-
+# '''этот скрипт разбирает распарсенные с помощью align.py корпуса на списки морфем
+# с добавлением спикеров; для этого для каждого предложения определяет, кто его сказал'''
 
 class TestAll(unittest.TestCase):
 

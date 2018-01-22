@@ -333,10 +333,10 @@ def write_corpus(corpus):
 
 
 def main():
-    corpora = ['Sebjan']
+    corpora = ['Kamchatka', 'Sebjan']
     for corp in corpora:
         print('handling {}...'.format(corp))
-        # make_readable(corp)
+        make_readable(corp)
         print('pickle done, writing...')
         write_corpus(corp)
         print('{} done'.format(corp))
