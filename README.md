@@ -4,7 +4,8 @@ List of datasets:
 
 jsons/Sebjan.json, jsons/Kamchatka.json -- словари формата
 
-```{
+```
+{
     doc:{    # in a dict, named
         meta:[meta],    # metainfo at the head
         text:[
@@ -16,7 +17,8 @@ jsons/Sebjan.json, jsons/Kamchatka.json -- словари формата
             }
         ]
     }
-}```
+}
+```
 
 49800 S
 33112 K
@@ -29,8 +31,10 @@ jsons/Sebjan.json, jsons/Kamchatka.json -- словари формата
 
 jsons/Sebjan_morphemes.json, jsons/Kamchatka_morphemes.json -- raw succession of words like this
 
-``` ('ROOT', 'ROOT', 'ROOT'),    # root
+```
+('ROOT', 'ROOT', 'ROOT'),    # root
  ('-B', '-med', 'v'),
  ('-DEŋ', '-pst.ptc', 'v'),
  ('-E', '-ep', 'v')
- ('END', 'END', 'END')]     # end of the word```
+ ('END', 'END', 'END')]     # end of the word
+ ```
