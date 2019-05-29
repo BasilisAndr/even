@@ -32,7 +32,7 @@ jsons/Sebjan.json, jsons/Kamchatka.json -- словари формата
 jsons/Sebjan_morphemes.json, jsons/Kamchatka_morphemes.json -- raw succession of words like this
 
 ```
-('ROOT', 'ROOT', 'ROOT'),    # root
+[('ROOT', 'ROOT', 'ROOT'),    # root
  ('-B', '-med', 'v'),
  ('-DEŋ', '-pst.ptc', 'v'),
  ('-E', '-ep', 'v')
