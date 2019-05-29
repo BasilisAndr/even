@@ -20,8 +20,8 @@ jsons/Sebjan.json, jsons/Kamchatka.json -- словари формата
 }
 ```
 
-49800 S
-33112 K
+- 49800 S
+- 33112 K
 
 
 
